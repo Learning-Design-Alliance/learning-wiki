@@ -50,3 +50,4 @@ tSSNA time-series observation of one engineering team during a 30-minute wallet 
 - Rapid prototyping methods can amplify novice designers' tendency to commit to a solution too early. — related
 - [Each team showed statistically significant changes in shared epistemic agency across prototyping phases](within-team-phase-transitions-epistemic-agency.md) — related
 - [Engineering team focused on generative collaborative actions, product design team on creating shared understanding, and service design team on alleviating lack of knowledge](disciplinary-kc-focus-differences-prototyping.md) — related
+- [The Y1 curriculum's engineering design goals were too extensive for an integrated project](y1-ed-goals-too-extensive-for-integration.md) — related

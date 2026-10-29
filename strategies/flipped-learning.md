@@ -87,6 +87,7 @@ Flipped learning works because it reallocates scarce, socially rich classroom ti
 - [Just-in-Time Teaching](just-in-time-teaching.md) — uses pre-class responses to shape the day's lesson
 - [Problem-Based Learning](problem-based-learning.md) — an alternative use of freed class time
 - [Use asynchronous AI tutoring for students' first engagement with challenging material, reserving class time for higher-order skills](ai-tutor-first-exposure-flipped-strategy.md)
+- [Watch-Read-Think (WRT) pre-class strategy for online self-learning of sports action video content](watch-read-think-preclass-strategy.md)
 
 ## Examples
 - **[Clintondale High School](https://flippedhighschool.com) (Michigan)** — flipped its entire curriculum school-wide; failure rates dropped substantially (reported ~33% in some subjects) in the first year.

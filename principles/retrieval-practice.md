@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 147 claims (65 for, 72 mixed, 10 against) · 73 studies (36 causal, 15 review, 8 quant-synthesis, 6 theoretical, 5 associational, 3 qualitative), `q1`–`q4` · 22 of 73 report an effect size · 140 claims rest on one study
+> **Evidence** · 148 claims (66 for, 72 mixed, 10 against) · 74 studies (37 causal, 15 review, 8 quant-synthesis, 6 theoretical, 5 associational, 3 qualitative), `q1`–`q4` · 22 of 74 report an effect size · 141 claims rest on one study
 
 ## Conditional relationship
 
@@ -273,6 +273,7 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - [In single item learning, interim testing of studied lists roughly doubles recall of new items compared with distractor or restudy control groups](../claims/forward-testing-single-items-doubled-recall.md) [+W]
 - [Item-level generalized linear mixed model finds no Testing Condition × Semantic Relatedness interaction, and item-level proportions correct show no pervasive ceiling effect](../claims/item-level-glimmix-no-relatedness-compression.md) [~W]
 - [Failure learning and transfer parameters are not sustained in later trials, suggesting repeating the same feedback does not provide sustained assistance](../claims/failure-feedback-not-cumulative-later-trials.md) [~W]
+- [Hints in multiple-try feedback improve performance on a delayed test one week later](../claims/hints-improve-delayed-testing-one-week-later.md) [+W]
 
 ## Related Principles
 - [Pretesting (Prequestions Before Study)](pretesting.md)

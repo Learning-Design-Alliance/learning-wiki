@@ -13,7 +13,7 @@ generated:
 # Visual Imagery
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 23 claims (12 for, 7 mixed, 4 against) · 33 studies (15 causal, 13 review, 3 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 5 of 33 report an effect size · 19 claims rest on one study
+> **Evidence** · 24 claims (13 for, 7 mixed, 4 against) · 34 studies (16 causal, 13 review, 3 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 5 of 34 report an effect size · 20 claims rest on one study
 
 ## Description
 Visual imagery is the deliberate formation of mental pictures to represent verbal or abstract content — scenes, spatial layouts, processes, or relationships. As an instructional element, it either prompts learners to generate their own images or supplies carefully chosen visuals that learners connect to the material, engaging both verbal and pictorial processing channels.
@@ -70,6 +70,7 @@ Imagery-based encoding improves recall and comprehension because information sto
 - [Picture and gesture enrichment benefit children's learning of both concrete and abstract L2 words](../claims/enrichment-benefits-abstract-and-concrete-words.md) [+W]
 - [Accompanying sentences with an image improves comprehension accuracy, significantly so for sentences containing low-frequency words](../claims/visual-support-improves-sentence-comprehension-accuracy.md) [+W]
 - [In literature teaching, a method using a sympathetic approach with opportunity for picturing and imaging the experiences in the selection was found superior to one stressing technique, analysis and factual detail](../claims/sympathetic-approach-literature-teaching-superior-to-technique-analysis.md) [+W]
+- [Pictures of an object or act aid foreign vocabulary learning when the criterion is writing the words](../claims/pictures-aid-foreign-vocabulary-learning.md) [+W]
 
 ## The evidence by question
 

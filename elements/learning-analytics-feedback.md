@@ -13,7 +13,7 @@ generated:
 # Learning Analytics-Driven Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 81 claims (29 for, 37 mixed, 15 against) · 68 studies (21 review, 19 associational, 9 theoretical, 7 qualitative, 6 causal, 6 design), `q1`–`q3` · 4 of 68 report an effect size · 78 claims rest on one study
+> **Evidence** · 82 claims (29 for, 38 mixed, 15 against) · 69 studies (22 review, 19 associational, 9 theoretical, 7 qualitative, 6 causal, 6 design), `q1`–`q3` · 4 of 69 report an effect size · 79 claims rest on one study
 
 ## Description
 In face-to-face instruction, a teacher can visually notice disengagement or confusion; a distance instructor cannot, and many learners fail to recognize their own need for help or fail to seek it even when it is available ([Baker & Inventado, 2016](https://edtechbooks.org/lidtfoundations/educational_data_mining_and_learning_analytics)). Educational data mining (EDM) and learning analytics (LA) address this by mining the large amounts of interaction data online and distance courses generate — content-management, discussion-forum, gradebook, and clickstream data — to build models that predict which learners are at risk and to surface feedback that would otherwise depend on an instructor noticing in person.
@@ -127,6 +127,7 @@ These models feed three uses that benefit learners directly: **automated feedbac
 - [Cameras-off online classes deprived teachers of visual cues, and teachers attributed low interaction both to student motivation and shame and to students' material conditions](../claims/cameras-off-visual-cue-loss-low-interaction.md) [~W]
 - [Dashboard visualisation benefits learners of different motivation and achievement levels, but high academic achievers report lower satisfaction with dashboards](../claims/dashboard-benefits-achiever-satisfaction-mixed.md) [~W]
 - [Learning analytics interventions for study success include alerts enabling teachers to give more individual attention, peer-to-peer communication facilitation, and recommendations for adaptive learning materials](../claims/la-interventions-alerts-peer-adaptive.md) [+W]
+- [In one reviewed study, no explicit teacher actions followed from about a quarter of dashboard consultations](../claims/quarter-dashboard-consultations-no-action.md) [~W]
 
 ## The evidence by question
 

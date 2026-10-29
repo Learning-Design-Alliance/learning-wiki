@@ -57,3 +57,4 @@ Welch's t-test comparing post-learning knowledge test scores in an 8-day between
 - [LearnMate2 improved learning outcomes and user experience compared to a baseline combining an online learning platform and an LLM in a user study (n=16)](learnmate2-final-study-improved-outcomes-experience.md) — related
 - [ChatGPT participants experienced meta-cognitive load and frictions, with slightly more unsatisfied endings than Google participants](chatgpt-meta-cognitive-load-unsatisfied-endings.md) — related
 - [Access to web-based information creates illusions of learning and reduces memorization](web-access-illusion-of-learning.md) — related
+- [Condition effects on complex learning-task performance appeared for suitability, justification and correctness but not for elaboration, continuity or final answer quality](task-performance-subdimension-effects.md) — related

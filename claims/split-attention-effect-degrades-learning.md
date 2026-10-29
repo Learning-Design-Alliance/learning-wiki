@@ -178,3 +178,4 @@ Boundary conditions follow from the same mechanism. Integration benefits are lar
 - [DHH students suggest applying spatial contiguity between interpreter and visuals to reduce split attention](dhh-spatial-contiguity-interpreter-visuals.md) — a narrower finding that bears on this claim
 - [Temporal contiguity of simultaneous visual, spoken, and signed events may be unfavorable for DHH students](dhh-temporal-contiguity-unfavorable.md) — related
 - [Visual joint displays can reduce the cognitive burden of integration analysis and reporting compared to tabular joint displays](visual-joint-displays-reduce-cognitive-burden.md) — related
+- [In Experiment 1, text-picture integration did not differ significantly between spatial and normal audio guides](no-text-picture-integration-effect-experiment-1.md) — related

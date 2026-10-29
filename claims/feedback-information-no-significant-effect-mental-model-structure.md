@@ -48,3 +48,4 @@ In the same simulation experiment with 73 subjects, the regression analysis foun
 - [Level of Systems Thinking Facilitation positively influences Mental Model Structure Similarity in a simulation-based management learning experiment](systems-thinking-facilitation-improves-mental-model-structure-similarity.md) — related
 - [Group C with high feedback information and high systems thinking facilitation showed the best mental model structure similarity, behaviour similarity, and performance](high-lfi-high-lstf-group-best-outcomes.md) — related
 - [Mental Model Structure Similarity positively influences Mental Model Behaviour Similarity](mental-model-structure-similarity-improves-behaviour-similarity.md) — related
+- [Causal influence diagrams were used to relate mental model structures to decision-making behaviors](causal-influence-diagrams-mental-models-decision-making.md) — related

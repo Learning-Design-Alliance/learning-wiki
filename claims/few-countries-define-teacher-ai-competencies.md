@@ -57,3 +57,4 @@ The publication states, without citing supporting data, that few countries have 
 - [A review of 13 recent AI literacy frameworks found most lack explicit scaffolded progression and are context-bound](recent-ai-literacy-frameworks-lack-scaffolded-progression.md) — related
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [Most nations' AI policy strategies focus on developing an AI-ready workforce rather than on the general use of AI in education](national-ai-policies-prioritize-workforce-over-education.md) — related
+- [Lack of online-teaching training constrains teachers' ability to apply the framework, per cited literature](teacher-online-training-gap-constrains-framework.md) — related

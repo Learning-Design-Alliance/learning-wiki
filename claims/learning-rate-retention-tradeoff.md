@@ -65,3 +65,4 @@ The review reports, citing Smith, Ghazizadeh and Shadmehr (2006), evidence from 
 - [Multi-state model parameters do not differ between Norwegian and Japanese groups](multi-state-parameters-no-group-difference.md) — related
 - [Later sequence position slows general learning rate in the face view discrimination task](sequence-position-slows-face-learning-rate.md) — related
 - [Authoring tool usability trades off against the depth and flexibility of the ITSs that can be built](authoring-tool-usability-power-tradeoff.md) — related
+- [A slow rate of development in an instructional film is more helpful to learning than a fast rate](slow-film-rate-of-development-aids-learning.md) — related

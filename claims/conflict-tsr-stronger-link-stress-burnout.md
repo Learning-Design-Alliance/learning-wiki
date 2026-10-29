@@ -50,3 +50,4 @@ The review reports, citing Field (2019), that in that earlier review of 21 studi
 - [Educator social-emotional competency and wellbeing contribute to warm student-teacher relationships and to trusted adults who model stress management for students](educator-wellbeing-supports-student-relationships.md) — related
 - [Interventions targeting teacher-student relationships improved relationship ratings, but effects on teacher wellbeing were mixed](tsr-interventions-relationship-gains-mixed-wellbeing.md) — related
 - [Teacher-student relationship measurement in middle/secondary wellbeing research is highly varied and mostly relies on tools formulated for primary school relationships](tsr-measurement-primary-tools-secondary-wellbeing-studies.md) — related
+- [Teacher burnout is linked to contextual and compositional elements of the school environment (as cited by the commentary from Shackleton et al., 2019)](teacher-burnout-school-environment-elements.md) — related

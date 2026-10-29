@@ -53,3 +53,4 @@ Direct test of H2 in the randomized three-condition experiment (N = 154): an ANC
 - [Presence versus absence of individual scaffolding types did not support the added-value hypothesis, but scaffolding combinations partly did](scaffolding-added-value-partly-supported.md) — related
 - [Students' subjective appraisals of the remote inquiry lesson are comparable across conditions, and perceived cognitive demands correlate negatively with test scores](subjective-appraisals-comparable-demands-negatively-correlated.md) — related
 - [Inquiry learning in a virtual laboratory on Archimedes' principle produces significant conceptual knowledge gains in all three guidance conditions](significant-learning-gains-all-inquiry-conditions-archimedes.md) — related
+- [Leveraging appropriate types of guidance during the relevant phases of inquiry benefits student inquiry in virtual and remote labs](phase-appropriate-guidance-benefits-inquiry-labs.md) — related

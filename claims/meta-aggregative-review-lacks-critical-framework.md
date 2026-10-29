@@ -49,3 +49,5 @@ The author's critical assessment of the reviewed meta-aggregative review, identi
 - [Liberatory ideas are implicitly embedded in the TPD for OBL framework](liberatory-ideas-embedded-in-tpd-for-obl-framework.md) — related
 - [The Philipsen et al. framework of TPD components for online and blended learning is biased toward higher education settings](philipsen-framework-higher-education-bias.md) — related
 - [Seven responses to Philipsen et al.'s study offer valuable ideas and guidelines for developing TPD for OBL in times of crisis](seven-responses-apply-tpd-obl-framework-in-crisis.md) — related
+- [The response discusses limitations of the Philipsen et al. (2019) review and suggestions for future research](an-2021-discusses-limitations-and-future-research.md) — a broader claim this one bears on
+- [The Philipsen et al. TPD review findings apply to guiding teacher professional development for education recovery and resilient education systems, per this response](framework-guidance-recovery-resilient-education.md) — related

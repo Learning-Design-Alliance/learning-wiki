@@ -70,3 +70,4 @@ The same moderated regression analysis reports a non-significant overall interac
 - [Analogical reasoning and perspective taking are the strongest predictors of knowledge integration, followed by tolerance of ambiguity and uncertainty and reflexivity](analogical-reasoning-perspective-taking-strongest-predictors.md) — related
 - [Reflexivity, perspective taking, analogical reasoning, and tolerance of ambiguity and uncertainty each positively relate to knowledge integration in inter- and transdisciplinary work](four-competencies-predict-knowledge-integration.md) — a broader claim this one bears on
 - [Experts do not exhibit higher levels of reflexivity than novices, consistent with reflexivity as a meta-cognitive competence](experts-not-higher-reflexivity-than-novices.md) — related
+- [Uncertainty in challenging tasks was linked to meta-reflexive deliberation about improving one's own learning](task-uncertainty-triggers-meta-reflexivity.md) — related

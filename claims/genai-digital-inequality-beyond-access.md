@@ -64,3 +64,4 @@ The article argues from its literature synthesis, citing established digital-ine
 - [The multilevel digital divide presents multiple challenges for parents in technology-integrated family–school partnerships](multilevel-digital-divide-challenges-parents-partnerships.md) — related
 - [Learner characteristics — levels of income, country statuses, and digital skills — shape mobile learning inclusion and require design and practical solutions](learner-income-country-digital-skills-mobile-inclusion.md) — a narrower finding that bears on this claim
 - [The usage gap in online resources, marked by gender, educational level and age, has profound impact on social inequality](usage-gap-profound-impact-social-inequality.md) — a narrower finding that bears on this claim
+- [Digital learning environments during the pandemic raise implications for addressing social inequities and education policy reform](digital-environments-social-inequities-policy-reform.md) — related

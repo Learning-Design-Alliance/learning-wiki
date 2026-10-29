@@ -54,3 +54,4 @@ Randomized controlled trial in which 81 undergraduate students were randomly ass
 - [In the first assessment stage, peer group and ChatGPT-4o feedback showed no significant difference in quality](stage1-no-significant-difference-peer-ai-feedback-quality.md) — related
 - [AI applications contributed to STEM students' higher-order thinking, including problem-solving, computational thinking, and self-regulated learning](ai-stem-higher-order-thinking-effects.md) — related
 - [GCLA use enhances higher-order thinking skills—critical thinking, problem-solving, and creativity—compared with traditional ChatGPT use](gcla-improves-hots.md) — related
+- [All four instructional quality dimensions (ILEQ, IIFQ, FSQ, ASA) significantly and positively predict Dual Empowerment in VR-based welding training](instructional-quality-dimensions-predict-dual-empowerment.md) — related

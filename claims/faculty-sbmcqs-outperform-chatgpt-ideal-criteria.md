@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-10-29
 sources:
   - id: chauhan-2025
     resource: "https://doi.org/10.1007/s40593-025-00471-z"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Among 40 items per source, 19 faculty SBMCQs (47.5%) versus 9 ChatGPT SBMCQs (22.5%) met ideal criteria of appropriate difficulty, high discrimination, and 100% distractor effectiveness. [→ Chauhan 2025](#chauhan-2025)
@@ -37,7 +38,7 @@ Chauhan, A., Khaliq, F., & Nayak, K. R. (2025). Assessing Quality of Scenario-Ba
 
 `q3 · i?` · `causal · r2`
 
-Item analysis of four test sessions in a crossover study of 120 first-year MBBS students, each answering 20 faculty and 20 ChatGPT items. The article reports "19 (47.5%) of the SBMCQs met all three criteria" for faculty versus 9 (22.5%) for ChatGPT; no effect size or significance test is printed.
+Item analysis of four test sessions in a crossover study that enrolled all 120 first-year MBBS students; the design gave each student 20 faculty and 20 ChatGPT items across the four sessions, but students absent on a test day were excluded, so 113, 115, 116 and 114 students sat tests 1 to 4. The article reports "19 (47.5%) of the SBMCQs met all three criteria" for faculty versus 9 (22.5%) for ChatGPT; no effect size or significance test is printed.
 
 > "In our study,19 (47.5%) of the SBMCQs met all three criteria for an ideal MCQ: appropriate Difficulty Index (30–70%), high Discrimination Index (≥ 0.25), and 100% Distractor Effectiveness. In contrast, the number of ChatGPT-generated SBMCQs meeting these criteria was 9(22.5%)."
 
@@ -50,3 +51,5 @@ Item analysis of four test sessions in a crossover study of 120 first-year MBBS 
 - [AI-generated assessment items frequently need faculty correction, supporting AI as a draft generator within quality assurance](genai-assessment-items-draft-generator-quality-assurance.md) — possibly the same claim (merge candidate)
 - [Faculty-generated SBMCQs showed superior discrimination indices and distractor effectiveness compared with ChatGPT-generated SBMCQs](faculty-sbmcqs-superior-discrimination.md) — related
 - [ChatGPT-generated SBMCQs skewed easier than faculty-generated SBMCQs, whose difficulty was predominantly in the appropriate range](chatgpt-sbmcqs-easier-difficulty-index.md) — related
+- [Most LLM-generated MCQs from video transcripts met established quality criteria, with 84.05% rated clear, 86.38% containing plausible distractors, and 93.39% directly answerable](llm-mcq-video-quality-ratings-majority-clear.md) — related
+- [47.08% of the 242 correct MCQs met all evaluated criteria and only four items exhibited three or more flaws](mcq-flaw-cooccurrence-121-pass-all.md) — related

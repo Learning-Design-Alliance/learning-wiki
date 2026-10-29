@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 167 claims (123 show a difference, 25 mixed, 19 no difference) · 137 studies (54 associational, 28 causal, 21 review, 14 qualitative, 9 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 29 of 137 report an effect size · 163 claims rest on one study
+> **Evidence** · 170 claims (124 show a difference, 26 mixed, 20 no difference) · 139 studies (54 associational, 28 causal, 21 review, 14 qualitative, 9 design, 7 theoretical, 6 quant-synthesis), `q1`–`q4` · 30 of 139 report an effect size · 166 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -198,6 +198,9 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Mastery experiences are the central source of self-efficacy: they strongly predict self-efficacy and uniquely predict intentions when other variables are controlled](../claims/mastery-experiences-central-source-self-efficacy.md) [+M] — instruction changes it
 - [ICT-enabled learning may change beliefs and perceptions about girls' capacity and ICT's value](../claims/ict-changes-beliefs-perceptions-girls.md) [+M] — instruction changes it
 - [Teachers report strong perceived ability to transfer e-textile STEAM learning to classrooms, with art integration the weakest dimension](../claims/e-textile-pd-transfer-confidence.md) [+W] — instruction changes it
+- [Gamification has minimal impact on students' perceived competence](../claims/gamification-minimal-impact-perceived-competence.md) [-W] — instruction changes it
+- [Medical students who fail and experience negative emotions risk loss of confidence and dropping out of medical school (as suggested by Jarrell et al., 2017)](../claims/failure-negative-emotions-confidence-dropout-risk.md) [+M] — instruction changes it
+- [Two major challenges undermine gamification's effect on intrinsic motivation: students' lack of perceived competence and lack of perceived autonomy](../claims/gamification-challenges-competence-autonomy.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 

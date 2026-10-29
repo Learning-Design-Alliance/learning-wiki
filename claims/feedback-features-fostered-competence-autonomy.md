@@ -49,3 +49,4 @@ Theme 2 from inductive interview analysis; checking answers was the most-coded c
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — a broader claim this one bears on
 - [Formative assessment is theorized to foster motivation by supporting autonomy, competence, and relatedness](formative-assessment-fosters-motivation-autonomy-competence-relatedness.md) — a broader claim this one bears on
 - [Human-AI writing practices were perceived to enhance doctoral students' cognitive and metacognitive engagement, confidence, and learner agency](ai-writing-engagement-confidence-agency.md) — related
+- [Two major challenges undermine gamification's effect on intrinsic motivation: students' lack of perceived competence and lack of perceived autonomy](gamification-challenges-competence-autonomy.md) — related

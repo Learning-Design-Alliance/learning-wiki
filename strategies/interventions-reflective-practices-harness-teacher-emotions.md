@@ -42,6 +42,7 @@ Drawing on the Owens and Hudson perspective, the editorial reports that teachers
 - [Foster positive emotions, support self-regulatory skills, and provide emotional supports for students shifting to digital learning](foster-positive-emotions-self-regulation-emotional-supports.md)
 - [Secondary-school personality change intervention: teach traits, self-assess, nominate traits, and complete weekly trait-relevant challenges](secondary-school-personality-change-challenges.md)
 - [Take A Break Station](take_a_break_station.md)
+- [Include emotional assessments into new digital learning platforms to address emotional stress and teacher burnout before attrition](emotional-assessments-in-digital-learning-platforms.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Career-age composition analysis across four career stages (junior, early-career,
 - Teams using AI-assisted writing are smaller-sized, with the association stronger for Nature publications — related
 - [AI-related guilt decreases with career stage, with early-career academics reporting the highest guilt](ai-guilt-decreases-with-career-stage.md) — related
 - [In LLM-assisted team formation, class standing strongly drives assignments: seniors are far less likely than freshmen to be assigned to Interface Design relative to Core Development](llm-team-formation-class-standing-effect.md) — related
+- [Academics' identity reconstruction through technology integration varies across career stages](career-stage-differences-identity-reconstruction-technology.md) — related

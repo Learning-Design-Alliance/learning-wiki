@@ -49,3 +49,4 @@ Result reported from the first study, in which 479 college students viewed films
 - [Viewers who identify most with a mental-health film talk most about themselves and their problems](identification-predicts-self-disclosure.md) — related
 - [Relevancy and acceptability of mental-health films matter more for learning than the sex of the main character](relevancy-acceptability-more-important-than-character-sex.md) — related
 - [Age, gender of participant, and perceived responsibility of the target character were the three most important predictors of peer acceptance across all models](age-gender-responsibility-predict-peer-acceptance-mental-health.md) — related
+- [Women were superior to men in learning foreign vocabulary in these studies](women-superior-foreign-vocabulary-learning.md) — related

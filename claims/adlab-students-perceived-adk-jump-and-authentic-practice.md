@@ -53,3 +53,4 @@ Semi-structured interview data from AdLab students at the 10-week point. Tom's q
 - [Students avoided metaphorical visualizations they perceived as childish or insufficiently rigorous, signaling disciplinary legitimacy concerns even when the tools could help them](legitimacy-disciplinary-identity-resistance.md) — related
 - [High-school teachers favor laboratory tests in physics entrance examinations more than college physicists do](hall-1910-laboratory-entrance-test-split.md) — related
 - [Traditional rote-memorization exams became infeasible during online teaching, and teachers moved toward practices resembling authentic assessment](rote-exams-infeasible-authentic-assessment-shift.md) — related
+- [Students most strongly felt like data scientists during the open-ended final project, supporting disciplinary authenticity](final-project-felt-like-data-scientist.md) — related

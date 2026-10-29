@@ -216,3 +216,4 @@ There is also a cultural dimension: in high-power-distance educational contexts,
 - [Autonomy-supportive versus controlling instructions have limited main effects, enhancing autonomy satisfaction only](instructional-style-main-effect-limited-autonomy-satisfaction.md) — reports the opposite
 - [Children in the active condition report higher perceived autonomy than yoked children, and autonomy predicts posttest learning](diy-increases-perceived-autonomy-which-predicts-learning.md) — a narrower finding that bears on this claim
 - [Correctness and informative feedback with appropriate challenge fostered competence and autonomy](feedback-features-fostered-competence-autonomy.md) — a narrower finding that bears on this claim
+- [Two major challenges undermine gamification's effect on intrinsic motivation: students' lack of perceived competence and lack of perceived autonomy](gamification-challenges-competence-autonomy.md) — a narrower finding that bears on this claim

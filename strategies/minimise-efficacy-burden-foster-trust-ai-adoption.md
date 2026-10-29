@@ -46,7 +46,8 @@ The article recommends that universities, policymakers and Big Tech support succ
 - [Current district privacy and security approaches foster superficial compliance over rigorous safeguards and provide minimal visibility into how student data are used](../claims/privacy-compliance-over-rigorous-safeguards.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Minimize platform complexity and build instructor self-efficacy through training to support e-learning adoption](minimize-complexity-and-build-self-efficacy-training.md)
 
 ## Examples
 -

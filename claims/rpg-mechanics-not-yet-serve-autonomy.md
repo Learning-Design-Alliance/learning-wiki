@@ -57,3 +57,4 @@ Authors' interpretation of the questionnaire data: the lowest-ranked items were 
 - The article argues learning is a natural, enjoyable human process rather than one driven by pressure and anxiety — a broader claim this one bears on
 - [Choice in retention programs is linked to retention gains, but autonomy is rarely a tested variable](choice-autonomy-rarely-tested-in-retention-programs.md) — related
 - [An example-based built-in course in a mobile chatbot journaling system increases students' intrinsic motivation for creating a learning journal](example-based-course-increases-journaling-intrinsic-motivation.md) — related
+- [Two major challenges undermine gamification's effect on intrinsic motivation: students' lack of perceived competence and lack of perceived autonomy](gamification-challenges-competence-autonomy.md) — related

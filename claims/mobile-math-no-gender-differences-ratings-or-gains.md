@@ -68,3 +68,4 @@ Within the experimental group, gain-score t-tests showed "no significant differe
 
 ## Related Claims
 - [No statistically significant gender differences in perceived learning outcomes across any dimension among higher vocational students](no-gender-differences-perceived-learning-outcomes-vocational.md) — related
+- [A significant gender-by-time interaction characterized perceived usability, with marginally significant male-female differences at Lessons 1 and 3](gbl-gender-time-interaction-perceived-usability.md) — related

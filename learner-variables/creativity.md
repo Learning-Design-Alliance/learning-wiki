@@ -13,7 +13,7 @@ generated:
 # Creativity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 106 claims (74 show a difference, 25 mixed, 7 no difference) · 57 studies (18 associational, 17 causal, 11 review, 4 quant-synthesis, 4 design, 2 theoretical, 1 qualitative), `q1`–`q3` · 16 of 57 report an effect size · 104 claims rest on one study
+> **Evidence** · 107 claims (75 show a difference, 25 mixed, 7 no difference) · 58 studies (19 associational, 17 causal, 11 review, 4 quant-synthesis, 4 design, 2 theoretical, 1 qualitative), `q1`–`q3` · 16 of 58 report an effect size · 105 claims rest on one study
 
 ## Description
 Creativity as a learner characteristic is the ability to produce ideas that are both new and fitting. It is most often measured with divergent-thinking tests (how many and how varied the uses someone can find for an object). It correlates with intelligence and with achievement, including in mathematics, where generating several solution paths may deepen understanding. Creativity can also be an outcome that instruction aims at; this page is about learners who differ in it.
@@ -141,6 +141,7 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 - [Graduate students experienced GenAI-assisted research as supporting originality through new ideas and perspectives](../claims/genai-assisted-research-supports-originality.md) [+M] — instruction changes it
 - [Girls in the online E-5C-guided clubs showed significant pretest-to-posttest gains in creativity, critical thinking, and overall computational thinking, but not in algorithmic thinking, cooperativity, or problem solving](../claims/e5c-ct-survey-significant-gains.md) [+M] — instruction changes it
 - [Modified film commentaries were consistently superior to the original commentary although differences were not statistically significant at a high level of confidence](../claims/modified-commentaries-consistently-superior-not-significant.md) [-M] — instruction changes it
+- [Creative behavior persistence, operationalized as time spent in the second activity, predicts producing a creative solution](../claims/creative-behavior-persistence-predicts-creative-solution.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

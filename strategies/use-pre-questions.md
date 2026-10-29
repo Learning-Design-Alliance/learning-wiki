@@ -64,6 +64,7 @@ Pre questions exploit the pretesting effect: unsuccessful retrieval attempts enh
 - [Pretesting](../strategies/pretesting.md) — the broader strategy family this belongs to
 - [Retrieval Practice](retrieval-practice-activities.md) — post-instruction questioning; pre questions are its pre-instruction counterpart
 - [Have learners generate or guess answers to broad brainstorming questions before searching the internet for specific answers](thinking-before-googling-strategy.md)
+- [Instructors can implement QBI by embedding targeted quizzes at strategic lecture points without new technology](qbi-instructor-implementation-strategy.md)
 
 ## Examples
 - **Pre-lecture quizzes in large STEM courses** — Instructors using tools like [Perusall](https://www.perusall.com) or LMS quizzes pose questions on assigned reading *before* the lecture covering it; students answer, then the lecture resolves the gaps.

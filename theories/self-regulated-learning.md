@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 241 claims (109 for, 122 mixed, 10 against) · 178 studies (57 associational, 47 causal, 27 review, 17 quant-synthesis, 15 theoretical, 9 qualitative, 6 design), `q1`–`q4` · 42 of 178 report an effect size · 225 claims rest on one study
+> **Evidence** · 245 claims (111 for, 124 mixed, 10 against) · 181 studies (58 associational, 48 causal, 27 review, 17 quant-synthesis, 15 theoretical, 9 qualitative, 7 design), `q1`–`q4` · 43 of 181 report an effect size · 229 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -288,6 +288,10 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Adult learners report both benefits and challenges when playing ethics board games, and these cluster into 21 benefit and 21 challenge themes across the forethought, performance, and reflection phases of self-regulated learning](../claims/board-game-ethics-benefits-challenges-srl-phases.md) [+W] — attached 2026-10-29 from Zvereva et al. (2026), which proposed "Self-Regulated Learning theory as an analytical framework for mapping benefits and challenges of game-based ethics learning".
 - [In the experimental group, second website performance correlated with motivation, attitude, and SRL while first website performance did not](../claims/second-work-correlates-motivation-attitude-srl.md) [~W]
 - [Chatbot-guided feedback SRL improved university students' multimedia knowledge performance more than conventional SRL](../claims/srl-cgf-improves-multimedia-knowledge-performance.md) [+W]
+- [Working with a detached digital self-explication tool increased metacognitive awareness within the domain-specific group between pre-test and post-test](../claims/self-explication-tool-increases-metacognitive-awareness.md) [+W] — attached 2026-10-29 from Eelco Braad et al. (2022), which proposed "Conceptual model of metacognition during self-regulated learning combining SRL phases with five facets of learning".
+- [Dialogic teaching in a university setting facilitated increased use of planning, monitoring and evaluating skills (review-reported)](../claims/dialogic-teaching-increased-metacognitive-skills.md) [+W]
+- [Self-regulation training programs have a positive effect on university students' academic performance, strongest when underpinned by metacognitive theory (review-reported)](../claims/self-regulation-training-positive-effect-university.md) [~W]
+- [Self-efficacy and time-management positively predict exam grades, while self-evaluation shows an inverse relationship](../claims/srl-variables-predict-exam-grades.md) [~W]
 
 ## The evidence by question
 
@@ -320,6 +324,7 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Teacher supports for self-regulated GenAI feedback engagement](../strategies/teacher-supports-self-regulated-genai-feedback.md)
 - [App-based metacognitive monitoring training program with paired-associates memory tasks and feedback](../designs/app-based-metacognitive-monitoring-training-kindergarten.md)
 - [Newell-inspired time-scale taxonomy for aligning SRL measurement to theorized process duration](../research-methods/newell-inspired-time-scale-taxonomy-for-aligning-srl-measurement-to-theorized-process-dura.md)
+- [SRL cycle design strategies: goal setting, strategic planning across four strategy types, accessible self-control prompts, and self-monitoring records](../strategies/srl-cycle-design-strategies-fc.md)
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

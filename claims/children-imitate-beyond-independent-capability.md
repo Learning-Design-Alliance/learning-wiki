@@ -50,3 +50,4 @@ Theoretical argument reported in this review paper, attributed to Vygotsky via v
 - [In pretend play the child behaves beyond her average age and daily behaviour](pretend-play-child-head-taller.md) — related
 - Challenging tasks within the child's capability promote maximum cognitive growth, per the account presented — related
 - [Haggerty's preliminary experiments found orang-outangs, unlike a chimpanzee, could learn stick-tool food retrieval, with imitation playing a greater role than among lower species](haggerty-ape-tool-use-imitation.md) — related
+- [Sharing multiple sample e-textile projects and sample code appeared to limit children's creativity, with final artifacts imitating the samples](sample-projects-limit-creativity.md) — related

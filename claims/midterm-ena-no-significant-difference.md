@@ -55,3 +55,4 @@ Two-sample t-tests with Bonferroni correction comparing ENA networks of students
 - [No significant urban–rural difference in AI literacy scores, though the p-value approaches threshold](no-urban-rural-ai-literacy-difference.md) — related
 - [ENA revealed high CT students had significantly more coherent SRL cognitive networks spanning planning, execution, and self-reflection than low CT students](ena-cognitive-network-ct-groups.md) — related
 - [ENA contrasting-cases analysis shows high- and low-effectiveness studies differ significantly in their design-element and intention networks](ena-contrasting-cases-cognitive-he-le-differ.md) — related
+- [Self-reported preparation behaviors, especially watching tutorial videos, predict performance in the e-learning sessions](preparation-behaviors-predict-session-performance.md) — related

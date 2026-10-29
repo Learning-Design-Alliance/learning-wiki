@@ -42,7 +42,7 @@ sources:
 # Autonomy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 58 claims (26 for, 29 mixed, 3 against) · 55 studies (12 review, 10 causal, 10 associational, 8 theoretical, 6 qualitative, 5 design, 4 quant-synthesis), `q1`–`q4` · 7 of 55 report an effect size · 50 claims rest on one study
+> **Evidence** · 59 claims (26 for, 30 mixed, 3 against) · 56 studies (12 review, 10 causal, 10 associational, 9 theoretical, 6 qualitative, 5 design, 4 quant-synthesis), `q1`–`q4` · 7 of 56 report an effect size · 51 claims rest on one study
 
 ## Conditional relationship
 
@@ -191,6 +191,7 @@ Motivation during a task, free-choice engagement afterwards, immediate learning,
 - [Children in the active condition report higher perceived autonomy than yoked children, and autonomy predicts posttest learning](../claims/diy-increases-perceived-autonomy-which-predicts-learning.md) [+W]
 - [No significant quantitative change in autonomy after the SDT-based online unit](../claims/sdt-based-online-unit-autonomy-not-significant.md) [-W]
 - [Situational comic play creation improved elementary students' English performance and expressed learning autonomy](../claims/comic-drama-creation-improved-english-autonomy.md) [+W]
+- [Teachers tend to exert more control online while students are underprepared for autonomy, per cited literature](../claims/teacher-control-versus-student-autonomy-online.md) [~W]
 
 ## Related Principles
 - [Check-ins](check-ins.md) — regular, non-controlling check-ins are a core teacher behavior of autonomy support, signaling interest rather than surveillance

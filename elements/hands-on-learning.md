@@ -13,7 +13,7 @@ generated:
 # Hands-on Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (8 for, 2 mixed) · 9 studies (3 causal, 2 design, 1 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 9 report an effect size · 10 claims rest on one study
+> **Evidence** · 11 claims (9 for, 2 mixed) · 10 studies (3 causal, 2 quant-synthesis, 2 design, 1 review, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 10 report an effect size · 11 claims rest on one study
 
 ## Description
 Hands-on learning is the element in which learners manipulate materials, tools, or environments directly while applying ideas in practice. It is useful when understanding depends on doing, making, testing, or experiencing rather than only discussing.
@@ -49,6 +49,7 @@ Hands-on learning is the element in which learners manipulate materials, tools, 
 - [Hands-on engagement with an AIDA beta significantly improved students' attitudes toward it, with a large effect size](../claims/aida-hands-on-use-improves-attitudes.md) [+W]
 - [Embodied and cognitive hands-on rely on different feedback sources and are not educationally equivalent](../claims/hands-on-forms-different-feedback-sources.md) [~W]
 - [Not all spatial interventions are equivalent: concrete-material training yields larger math gains than computer-based training, and effects increase with age](../claims/spatial-training-moderators-concrete-materials-and-age.md) [+W]
+- [Embodied actions appear in all reviewed ILE designs, while learner control over environment attributes is rare](../claims/ile-psychomotor-design-characteristics-embodied-actions.md) [+W]
 
 ## The evidence by question
 - *Does a concrete stage help at all over abstract symbols alone?* [Manipulatives Improve Math Learning](../claims/manipulatives-improve-math-learning.md) [+M]

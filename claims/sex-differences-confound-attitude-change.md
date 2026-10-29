@@ -55,3 +55,4 @@ The authors report that "Men and women Ss varied in their responses to these con
 - [In an appetitive PIT transfer phase, both males and females show a direction bias, choosing cue-congruent responses more than incongruent ones, with no sex difference](appetitive-pit-direction-bias-both-sexes.md) — related
 - [In an aversive PIT paradigm, the intensity bias (stronger grip force) is again present in males but not females, showing the sex difference is valence-independent](aversive-pit-intensity-bias-males-only.md) — related
 - [Men reported higher monitoring judgments on health math problems than women, even accounting for performance accuracy](gender-difference-monitoring-judgments-health-math.md) — related
+- [An introduction arousing suspicion of the communicator's motives leads the identical communication to be judged more one-sided](suspicion-introduction-judged-more-one-sided.md) — related

@@ -18,7 +18,7 @@ sources:
 # Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (7 for, 1 mixed, 2 against) · 13 studies (5 quant-synthesis, 3 design, 2 causal, 2 review, 1 qualitative), `q1`–`q4` · 5 of 13 report an effect size · 8 claims rest on one study
+> **Evidence** · 11 claims (7 for, 2 mixed, 2 against) · 14 studies (5 quant-synthesis, 4 design, 2 causal, 2 review, 1 qualitative), `q1`–`q4` · 5 of 14 report an effect size · 9 claims rest on one study
 
 ## Description
 Assessment is the structured collection of evidence about learner understanding, performance, or progress for the purposes of feedback, decision making, grading, or revision.
@@ -61,6 +61,7 @@ Assessment is the structured collection of evidence about learner understanding,
 - [African American and Latinx teacher candidates fail state certification assessments (Praxis I and II) at much higher rates than white candidates, while performance assessments show smaller disparities.](../claims/certification-test-racial-disparities.md) [-W]
 - [Self-reported perceived quality is largely decoupled from quiz performance in AI-generated educational interactive fiction](../claims/if-quality-ratings-decoupled-from-quiz-performance.md) [~W]
 - [Case-study states rely on locally developed performance assessments created and piloted by teachers, with collaborative scoring](../claims/locally-developed-performance-assessments-teacher-collaborative-scoring.md) [+W]
+- [Instructors reported time savings of up to 80% for quiz preparation compared to traditional methods](../claims/instructor-reported-time-savings-up-to-80-percent.md) [~W]
 
 ## The evidence by question
 - *Does using assessment evidence during instruction raise achievement compared with the usual teaching?* [Assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md) [+S]

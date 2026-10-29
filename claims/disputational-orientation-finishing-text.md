@@ -52,3 +52,4 @@ Qualitative analysis of the final episode in both groups, where one pair made se
 - [Summary writing produced no significant comprehension improvement and the most disputational talk, and did not significantly differ from completing a map in learning outcomes](summary-task-weaker-outcomes-and-disputational-talk.md) — related
 - [Primary students' wiki negotiation contains collaboration and reasoning keywords distributed throughout the interaction](wiki-negotiation-collaboration-reasoning-keywords.md) — related
 - [A wiki with a thinking-together approach can provide a dialogic space in which students co-construct shared understanding](wiki-dialogic-space-co-construction.md) — related
+- [The KnowCat computer-supported collaborative learning environment was evaluated for its impact on metacognitive knowledge development](knowcat-collaborative-environment-metacognitive-knowledge.md) — related

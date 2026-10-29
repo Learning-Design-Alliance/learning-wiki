@@ -63,3 +63,4 @@ In the same PLS-SEM structural model (N = 327), Perceived Competence was also a 
 - [Autonomous motivation types positively relate to school achievement while controlled types show weak negative or null relations](autonomous-vs-controlled-motivation-achievement.md) — related
 - [External Mandate shows no significant direct relationship with Deep Revision Engagement](external-mandate-no-direct-effect-deep-revision.md) — related
 - [Perceived individual and class-directed autonomy support positively predict students' intrinsic motivation, effort, and persistence](autonomy-support-predicts-intrinsic-motivation-effort-persistence.md) — related
+- [Dual Empowerment positively predicts affective, motivational, and cognitive mediating processes](dual-empowerment-predicts-psychological-mediators.md) — related

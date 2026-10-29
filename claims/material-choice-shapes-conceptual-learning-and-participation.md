@@ -68,3 +68,5 @@ This is the strongest-evidence study in this ingest batch: a randomized comparis
 - [Fiber crafting can engage proportional reasoning through nested, personally-defined units](fiber-crafting-develops-proportional-reasoning-through-unitizing.md) — related
 - [Principles of reason assessment are both subject-neutral and subject-specific](reason-assessment-principles-both-neutral-and-specific.md) — related
 - [A tablet-based AR app displaying real-time measurement data above circuit components aided conceptual knowledge acquisition more effectively than traditional physics lab lessons](ar-realtime-measurement-aids-conceptual-knowledge-physics.md) — related
+- [Constructing and materiality posed the main computational making challenges: frayed conductive thread caused short circuits, and two pairs' projects failed without substantial assistance](materiality-and-construction-challenges.md) — related
+- [The workshop significantly improved matching polarity and reduced missing-connection errors, while other circuit features improved non-significantly](polarity-and-missing-connections-significant-gains.md) — related

@@ -51,3 +51,4 @@ Log analysis of recommendation.requested events in the G4L classroom study: a re
 - [Over-reliance on AI scaffolding risks learned helplessness, so focus should shift to fostering self-regulated AI interaction](ai-scaffolding-fading-learned-helplessness.md) — related
 - [In a self-selected survey, students favored delayed disclosure and agency, but 39.3% found the system too indirect and 42.9% reported repetition](staged-feedback-survey-perceptions.md) — related
 - [Personalized learning systems and recommender algorithms support effective AI-powered collaborative learning through tailored content and peer matching](ai-personalization-recommenders-support-collaborative-learning.md) — reports the opposite
+- [In a case study of N = 3550 learners, network graph analysis of navigational sequences showed only 608 sequences were evidenced despite open-ended choice](network-analysis-3550-learners-608-sequences.md) — related

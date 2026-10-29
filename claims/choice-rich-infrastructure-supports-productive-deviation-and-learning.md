@@ -68,3 +68,4 @@ The authors explicitly frame this as an extreme case chosen to illustrate a *pos
 - [Case of positive behavioral change in a sixth-grade student](matherial-positive-behavioral-change-case.md) — related
 - [A combination of human facilitators and well-constructed tutorials has the potential to improve girls' self-study skills and prepare them to become more independent learners](e5c-facilitators-tutorials-independent-learning.md) — related
 - [Games can elicit evidence of students' conceptual understanding and inquiry processes](games-elicit-evidence-of-understanding.md) — related
+- [Receptivity frequently intersects with freedom of action in tools affording learner creativity and exploration](receptivity-freedom-of-action-intersection.md) — related

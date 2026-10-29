@@ -39,6 +39,7 @@ The program assigns students "appropriately leveled offline skills lessons that 
 ## Related Strategies
 
 - [Pair online practice with offline Guided Practice materials for small group or 1:1 sessions](offline-guided-practice-pairing.md)
+- [Combine adaptive online practice with scripted offline small-group lessons tied to the digital content](scripted-offline-lessons-tied-to-digital-content.md)
 
 ## Examples
 -

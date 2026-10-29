@@ -55,3 +55,4 @@ Coding of basic article features for the 176 Freeman et al. (2014) articles foun
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — related
 - [Students in traditional lecture STEM courses are 1.5 times more likely to fail than students in active-learning courses](lecturing-increases-stem-failure-rates.md) — related
 - [The video lectures were effective overall, producing significant knowledge gains](video-lecture-overall-effectiveness.md) — a narrower finding that bears on this claim
+- [In the 1957-58 national television-in-schools experiment, more control-versus-experimental comparisons favored television than favored control classes](tv-in-schools-comparisons-favor-television.md) — related

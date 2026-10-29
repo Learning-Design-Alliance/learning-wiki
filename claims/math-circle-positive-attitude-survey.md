@@ -60,3 +60,4 @@ End-of-semester survey administered during the last month of circle meetings to 
 - [Competition was a constant source of enjoyment for math circle participants, with evaluation focused on the task rather than the individual](competition-enjoyment-task-focused-evaluation.md) — related
 - [Post-program surveys show most students felt more likely to pursue STEM, more comfortable in university labs, and found the program appropriately challenging](discovery-survey-attitudes-comfort-pursuit.md) — related
 - [Self-efficacy and gameplay interest are negatively associated with elementary students' competitive anxiety in one-on-one gameplay](self-efficacy-interest-negatively-associated-competitive-anxiety.md) — related
+- [Formative focus groups found 5th graders most liked choosing story locations, and nearly all felt they learned from the app](cityhacks-formative-focus-groups.md) — related

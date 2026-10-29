@@ -74,6 +74,7 @@ The report defines co-design as "a process in which different stakeholders come 
 - [Strengthen implementation scaffolding for new edtech rollouts with routines, guided practice, and change management grounded in observed workflows](../strategies/implementation-scaffolding-change-management.md)
 - [CSUB Teacher Residency Consortium, a monthly professional learning community of residency coordinators](../designs/csub-residency-consortium-plc.md)
 - [Pair rapid evidence synthesis with community co-development to speed usable implementation plans](../strategies/rapid-evidence-synthesis-with-community-codevelopment.md)
+- [Co-design pedagogical frameworks through iterative multi-stakeholder focus groups with member checking and expert review](../strategies/iterative-multistakeholder-focus-group-codesign.md)
 
 ## Key Sources
 - Cocuzza, B., Noakes, S., Aso, C., Vollavanh, A., Goldschmidt, L., and Bennett, K. (2026, August). From Data Silos to Student Success: The CICS and Innovare Co-Design Approach to AI-Driven Intervention. Digital Promise. https://doi.org/10.51388/20.500.12265/304

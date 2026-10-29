@@ -62,9 +62,11 @@ Highlighting is best understood as an *attention* strategy, not a learning strat
 7. **Provide feedback.** Review highlights and summaries for accuracy and completeness ([Assess Performance](../elements/assess-performance.md))
 
 ## Related Strategies
+
 - ["Headings and Highlight" Strategy](headings-and-highlight-strategy-variant.md) — the same text-marking logic using document structure instead of color categories
 - [Annotating](../principles/annotating.md) — the broader principle this strategy instantiates; highlighting is annotation constrained to a category scheme
 - [3-Source Rule](3-source_rule.md) — pairs well when students highlight across multiple texts with a shared legend
+- [Scaffold note-taking in learning apps with drag-and-drop information items rather than free-form input](scaffolded-drag-and-drop-note-taking.md)
 
 ## Examples
 - **Argument analysis in ELA:** students highlight a persuasive essay (claims / evidence / counterarguments), export by color, and write a per-category summary that becomes a draft of an analytical paragraph

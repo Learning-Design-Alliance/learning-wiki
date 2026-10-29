@@ -50,3 +50,4 @@ The editorial summarizes special-issue studies in architecture and design educat
 - [Online environments build adolescent competence through pride in achievements, social confidence, and creative confidence](online-competence-pride-confidence-creativity.md) — related
 - [The competence paradox: creative competence positively supports intention but shows a significant negative direct effect on actual use behavior](competence-paradox-cc-negative-ub.md) — related
 - [Interviews revealed six themes: enhanced efficiency, improved quality, facilitated reflection, increased interaction, improved collaboration, and concerns about over-reliance](gai-dst-interview-six-themes.md) — related
+- [Interviewed students appreciated NNG 4's improved graphics and design, supporting the role of aesthetics in serious game experience](nng4-aesthetics-appreciated-interviews.md) — related

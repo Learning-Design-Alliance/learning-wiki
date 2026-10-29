@@ -85,6 +85,7 @@ Graphic organizers externalize relationships among ideas, reducing the working-m
 - **Cornell note-taking** — a structured linear alternative; graphic organizers trade speed of capture for explicit relational structure
 - **Concept mapping** — the learner-generated, open-ended variant of this strategy, best when relationships are non-obvious
 - **Annotating** — complementary; annotations capture local detail while organizers capture global structure
+- [Scaffold note-taking in learning apps with drag-and-drop information items rather than free-form input](scaffolded-drag-and-drop-note-taking.md)
 
 ## Examples
 - Students complete a comparison matrix on two historical figures while reading paired biographies, then use it to draft a compare–contrast essay (see [Cult of Pedagogy's graphic organizer collection](https://www.cultofpedagogy.com/graphic-organizer/)).

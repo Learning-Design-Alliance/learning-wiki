@@ -61,3 +61,4 @@ Moderator analysis (Table 5) of intervention duration across subgroups: 0–8 we
 - [Instructional method does not significantly moderate Gen-AI's effect on HOT, though project-based learning shows the largest subgroup effect (ES = 0.717) and lecture-based instruction a small non-significant effect (ES = 0.396)](genai-instructional-method-moderator.md) — related
 - [Monitoring tool effects were larger in shorter interventions, contrary to the duration hypothesis](monitoring-effects-larger-shorter-interventions.md) — related
 - [Intervention duration of 3–9 weeks yields the greatest AWE gains, with diminishing returns beyond 10 weeks](awe-duration-3-9-weeks-optimal.md) — related
+- [Students with lower prior metacognitive awareness were less likely to sustain use of the tool](lower-metacognition-less-sustained-tool-use.md) — related

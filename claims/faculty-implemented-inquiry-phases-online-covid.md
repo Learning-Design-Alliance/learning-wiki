@@ -50,3 +50,4 @@ This is the response article's own contribution, described in its abstract: the 
 - [Motivation, internet connectivity, and hardware/software problems were widespread challenges in remote STEM courses](widespread-remote-stem-challenges-motivation-connectivity.md) — related
 - [During spring 2020 remote instruction, internet connectivity and hardware/software problems interfered with course participation for large shares of undergraduates](remote-covid-technology-access-problems-widespread.md) — related
 - [Hispanic and low-income students reported more challenges and technology problems after the shift online than non-Hispanic White and higher-income peers; rural students did not differ](equity-gaps-online-transition-challenges.md) — related
+- [Leveraging appropriate types of guidance during the relevant phases of inquiry benefits student inquiry in virtual and remote labs](phase-appropriate-guidance-benefits-inquiry-labs.md) — related

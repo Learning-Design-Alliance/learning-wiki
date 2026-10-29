@@ -54,3 +54,5 @@ Editorial synthesis of the special issue: seven response articles from perspecti
 - [The meta-aggregative review lacks an explicitly critical framework and under-addresses equity](meta-aggregative-review-lacks-critical-framework.md) — related
 - [Prior TPD research focused on teacher impact, leaving student-centered evaluation of TPD for OBL unexamined](student-centered-tpd-evaluation-gap.md) — related
 - [The pandemic made professional learning about online and blended learning immediately relevant and highly sought after by teachers who had previously been difficult to persuade to prioritise it](pandemic-tpd-relevance-shift.md) — related
+- [The response discusses limitations of the Philipsen et al. (2019) review and suggestions for future research](an-2021-discusses-limitations-and-future-research.md) — related
+- [International organisations UNESCO and ILO identify teacher professional development for online and blended learning as a priority, per this response](unesco-ilo-tpd-online-blended-priority.md) — related

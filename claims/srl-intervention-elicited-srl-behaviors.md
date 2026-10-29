@@ -9,11 +9,12 @@ generated:
   at: 2026-10-18
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-10-29
 sources:
   - id: hengtao-tang-2025
     resource: "https://doi.org/10.1007/s11251-024-09699-z"
-    title: "Hengtao Tang, Jessica Perry Ellison. (2025). Self-regulated learning and video annotation in a high school acting classroom. Instructional Science. https://doi.org/10.1007/s11251-024-09699-z"
-    author: Hengtao Tang, Jessica Perry Ellison
+    title: "Ellison, J. P., & Tang, H. (2025). Self-regulated learning and video annotation in a high school acting classroom. *Instructional Science, 53*, 457–477. [doi:10.1007/s11251-024-09699-z](https://doi.org/10.1007/s11251-024-09699-z)"
+    author: "Ellison, J. P., & Tang, H."
     q: 1
     i: "?"
     kind: causal
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · Hengtao Tang 2025: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
@@ -34,11 +35,11 @@ sources:
 
 ### Hengtao Tang 2025
 
-Hengtao Tang, Jessica Perry Ellison. (2025). Self-regulated learning and video annotation in a high school acting classroom. Instructional Science. https://doi.org/10.1007/s11251-024-09699-z
+Ellison, J. P., & Tang, H. (2025). Self-regulated learning and video annotation in a high school acting classroom. *Instructional Science, 53*, 457–477. [doi:10.1007/s11251-024-09699-z](https://doi.org/10.1007/s11251-024-09699-z)
 
 `q1 · i?` · `causal · r1`
 
-Qualitative interview theme from inductive two-cycle coding of five purposively sampled participants, with member checking. Students described goal setting ("I looked back at my past performances and took one of the flaws I needed to improve") and self-monitoring via progress reports.
+Qualitative interview theme from inductive two-cycle coding of five purposively sampled participants, with member checking. Students described goal setting ("I looked back at my past performances and took one of the flaws I needed to improve") and strategic planning; self-observation, through self-recording and monitoring their own performances; and self-reflection, with the weekly progress reports described as helping them judge whether they had met their goals.
 
 > "This theme described that SRL interventions promoted students' SRL behaviors. Zimmerman (2008) discussed that SRL behaviors, when explicitly taught, were used by students to beneficial effect. SRL behaviors were prompted through engagement with the interventions."
 

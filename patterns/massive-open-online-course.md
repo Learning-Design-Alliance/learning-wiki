@@ -13,7 +13,7 @@ generated:
 # Massive Open Online Course (MOOC)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 41 claims (11 for, 25 mixed, 5 against) · 38 studies (9 associational, 8 review, 7 causal, 5 quant-synthesis, 5 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 6 of 38 report an effect size · 37 claims rest on one study
+> **Evidence** · 44 claims (11 for, 27 mixed, 6 against) · 40 studies (9 review, 9 associational, 7 causal, 6 theoretical, 5 quant-synthesis, 3 design, 1 qualitative), `q1`–`q4` · 6 of 40 report an effect size · 40 claims rest on one study
 
 ## Description and scope
 
@@ -82,7 +82,7 @@ The default is the earlier page's six steps (produce recorded content; open enro
 | If the brief says… | Then change… | Basis |
 |---|---|---|
 | Learners are `novice` in the domain, or have not studied online alone before | Shorten segments to 3–5 minutes with worked examples; keep the start- and end-of-week prompts all course with model answers for the first three weeks; teach learners how to use the prompts in week 1 (one worked example of a plan and a self-check); give the reduced route early. | [Metacognitive prompts](../claims/metacognitive-prompts-improve-learning.md) [~M]: in the online review, lower-prior-knowledge learners in one study needed training before prompts helped; carried to MOOCs |
-| Learners are `advanced` or practising professionals (a teachers' PD MOOC) | Offer a placement check to skip modules; replace content questions with an application task in their own workplace, with evidence of practice (a lesson plan, a recorded session, a reflection) reviewed against a rubric; consider stackable micro-credentials for the applied tasks. | [One issuer reported that micro-credential stacks closed the gap between MOOC-Ed content and classroom practice](../claims/friday-institute-mooc-ed-implementation-gap-micro-credentials.md) [+W] (a `q1` case report, no comparison) |
+| Learners are `advanced` or practising professionals (a teachers' PD MOOC) | Offer a placement check to skip modules; replace content questions with an application task in their own workplace, with evidence of practice (a lesson plan, a recorded session, a reflection) reviewed against a rubric; consider stackable micro-credentials for the applied tasks. | [One issuer added micro-credential stacks to a MOOC-Ed to address the gap between its content and classroom practice](../claims/friday-institute-mooc-ed-implementation-gap-micro-credentials.md) [+W] (a `q1` case description, no outcome data or comparison) |
 | Learners are `adolescent` or younger, or a school uses the MOOC | Do not rely on open forums or self-pacing: assign the MOOC within a class, with a teacher setting weekly targets and reviewing the self-checks; keep forums closed to the class or moderated. | Untested; the claims recorded here are about adults and university students |
 | The target is an embodied or performed skill (music, laboratory, clinical, a language spoken aloud) | Add recorded performance submissions judged against a rubric by calibrated peers, and periodic live sessions with an expert for a sample of learners; do not rest the skill on video and quizzes. | [Embodied music learning resists short videos and self-graded quizzes](../claims/moocs-low-completion-embodied-music-learning.md) [-W] (a review's argument); [rubric-guided peer rating](../claims/rubrics-improve-peer-feedback-quality.md) [~M], tested on writing, carried to performance |
 | The final task is written or designed work too complex for machine scoring | Calibrated peer review: a rubric of three or four criteria, two or three anchor samples rated before reviewing, three reviews per submission, staff spot-checks; tell reviewers to add one comment that is not on the rubric, since rubrics narrowed reflective comment. | [Rubric-guided peer rating](../claims/rubrics-improve-peer-feedback-quality.md) [+M]: benefit concentrated on subjective, complex criteria; one study found less reflective feedback |
@@ -160,6 +160,9 @@ This pattern is scoped to open courses at a scale where teacher time per learner
 - [The special issue reports that an AI-based assessment system combining NLP and code analysis reduced teacher effort in assessing data science MOOCs](../claims/ai-nlp-code-assessment-reduces-teacher-effort.md) [~W]
 - [Loizzo and Ertmer propose combining c-MOOC and xMOOC designs to foster a flexible, learner-centered culture](../claims/combining-cmooc-xmooc-flexible-culture.md) [~W]
 - [The 2007 open course design allowed anyone to participate and prefigured the first MOOC](../claims/open-course-design-prefigured-moocs.md) [+W]
+- [MOOC learners provide personal opinions and vote on peer posts, not only feedback on course content](../claims/mooc-learners-vote-on-peer-posts.md) [~W]
+- [MOOCs are evolving from self-contained educational platforms into socialized and politicized informational tools](../claims/moocs-becoming-socialized-informational-tools.md) [~W]
+- [In a case study of N = 3550 learners, network graph analysis of navigational sequences showed only 608 sequences were evidenced despite open-ended choice](../claims/network-analysis-3550-learners-608-sequences.md) [-W]
 
 ## Related Patterns
 - [Online Course Design (Community of Inquiry)](online-course-design.md) — shares concern for interaction design, but MOOC scale makes deep learner-instructor interaction impractical in a way a smaller online course does not face
@@ -176,6 +179,7 @@ This pattern is scoped to open courses at a scale where teacher time per learner
 - [KISS-Pro openHPI MOOC on AI for teachers](../designs/kiss-pro-openhpi-mooc-ai-teacher-pd.md) — a self-paced teacher PD course carrying a face-to-face training to a wider audience
 - [Address MOOC personalization at scale by using learners as helpers plus personalization technology to find the right helper at the right time](../strategies/peer-help-personalization-scalable-moocs.md)
 - [Flipped Classroom MOOC with diverse unit-level learning designs as research context](../designs/flipped-classroom-mooc-diverse-unit-designs.md)
+- [Offer mentor PD as an online asynchronous MOOC to fit teachers' working conditions](../strategies/asynchronous-mooc-mentor-pd-access.md)
 
 ## Key Sources
 - Weller, M. (2018). Twenty years of EdTech. *EDUCAUSE Review, 53*(4). Republished in R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/twenty_years_of_edtech](https://edtechbooks.org/lidtfoundations/twenty_years_of_edtech)

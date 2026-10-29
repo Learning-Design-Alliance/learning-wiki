@@ -64,3 +64,4 @@ Specific indirect effects assessed with a 10,000-resample bootstrapping procedur
 - [Autonomous regulation correlates positively with self-efficacy, learning strategies, and behavioral engagement, while controlled regulation shows no significant linear relations with these outcomes](autonomous-regulation-correlations-outcomes.md) — related
 - [The direct association between GAI use and learning engagement is not statistically significant, while the indirect association through need satisfaction is significant but small](gai-engagement-direct-null-indirect-small.md) — related
 - [Students' implementation of self-assessment is influenced by perceived usefulness, affective attitude, self-efficacy, important others, and psychological safety](individual-factors-self-assessment-implementation.md) — related
+- [Dual Empowerment positively predicts affective, motivational, and cognitive mediating processes](dual-empowerment-predicts-psychological-mediators.md) — related

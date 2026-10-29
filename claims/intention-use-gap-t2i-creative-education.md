@@ -70,3 +70,4 @@ Coefficients of determination from the structural model (UB R² p = 0.01; PR R²
 - [ARCS motivation did not significantly predict behavioral intention but exerted a strong direct effect on use behavior, dominating its explanation](arcs-motivation-drives-use-behavior-not-intention.md) — related
 - [The competence paradox: creative competence positively supports intention but shows a significant negative direct effect on actual use behavior](competence-paradox-cc-negative-ub.md) — related
 - [Metacognitive knowledge and intentions to use effective strategies do not reliably translate into actual strategy use (intention-behavior gap)](intention-behavior-gap-strategy-use.md) — a narrower finding that bears on this claim
+- [In a repeated creative task, conservative intention and behavior predominate, with only a minority sustaining creative behavior](conservative-behavior-predominates-repeated-creative-task.md) — a narrower finding that bears on this claim

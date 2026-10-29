@@ -61,3 +61,4 @@ This is a rich, well-triangulated single-program qualitative study, not a compar
 - [Identity-centered making supports simultaneous STEM engagement and identity affirmation for queer youth](identity-centered-making-supports-stem-engagement-and-identity-affirmation.md) — related
 - [Participant examples support identity reconstruction through academic content](participant-examples-support-identity-reconstruction-through-academic-content.md) — related
 - [89 percent of NFTE alumni survey respondents reported NFTE contributed to their knowledge, skills, and/or personal development, with top areas aligning with entrepreneurial mindset domains](nfte-alumni-89-percent-reported-development-gains.md) — related
+- [Bao gameplay is linked to economic decision-making and entrepreneurial skills](bao-gameplay-economic-entrepreneurial-skills.md) — related

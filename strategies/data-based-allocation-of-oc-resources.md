@@ -45,6 +45,7 @@ The article's concluding recommendation is that school leaders use their finding
 
 - [Use research-based turnaround leadership strategies to support a comprehensive turnaround initiative](turnaround-leader-research-based-strategies.md)
 - [Ten cross-initiative practices worth sharing, from improving attendance to learning from good practice in context](ten-practices-worth-sharing-chicago.md)
+- [Use the four-boundary framework to diagnose a community and focus resources on the aspects most important to its goals](boundary-framework-diagnosis-strategy.md)
 
 ## Examples
 -

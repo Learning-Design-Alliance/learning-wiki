@@ -47,6 +47,8 @@ The article recommends a research strategy for crisis contexts: apply Quarantell
 ## Related Strategies
 
 - [Future research should focus on methods for disrupting educational inequity in online and blended learning](future-research-disrupting-educational-inequity-online-blended.md)
+- [Apply the review's findings to prepare K-12 teachers for online and blended learning](apply-pd-review-findings-k12-online-blended-preparation.md)
+- [Use the pandemic disruption as an opportunity to record data on shifting to online student-centered learning](record-pandemic-pivot-data-for-future-study.md)
 
 ## Examples
 -

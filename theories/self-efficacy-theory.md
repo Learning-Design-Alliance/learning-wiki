@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 103 claims (65 for, 35 mixed, 3 against) · 74 studies (36 associational, 17 causal, 16 review, 3 quant-synthesis, 1 design, 1 theoretical), `q1`–`q3` · 19 of 74 report an effect size · 101 claims rest on one study
+> **Evidence** · 104 claims (66 for, 35 mixed, 3 against) · 75 studies (37 associational, 17 causal, 16 review, 3 quant-synthesis, 1 design, 1 theoretical), `q1`–`q3` · 19 of 75 report an effect size · 102 claims rest on one study
 
 ## Description
 Self-efficacy is "people's beliefs in their ability to perform a course of action required to achieve a specific task" ([Bandura, 1977](https://doi.org/10.1037/0033-295x.84.2.191)). The theory's central claim is specificity: self-efficacy is not a general trait like self-confidence or self-concept, and it is not the same as documented ability. A learner's self-efficacy for "correctly subtracting fractions" is a distinct belief from their self-efficacy for "writing a persuasive essay," even though both might contribute to a broader (and much less predictive) sense of being "good at school" ([Seifert & Sutton, 2018](https://edtechbooks.org/lidtfoundations/motivation_theories_on_learning)). Because self-efficacy beliefs are self-constructed rather than measured, they can diverge from true capability in either direction; the most functional level is at or slightly above actual capacity (Bandura, 1997).
@@ -150,6 +150,7 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [Outcome expectations have a stronger direct influence on technology integration intentions than self-efficacy, and interests contribute directly](../claims/outcome-expectations-stronger-than-self-efficacy-on-intentions.md) [~W] — attached 2026-10-28 from Serkan Perkmen (2026), which proposed "Social Cognitive Model of Technology Integration (SCCT adapted for preservice teachers' technology integration intentions)"; tests this page's relationship.
 - [Video tutorials significantly and substantially raised self-efficacy, with no effect of condition](../claims/video-tutorials-raise-self-efficacy-no-condition-effect.md) [+W]
 - [Self-efficacy increases significantly over the first interval of inquiry training and stays higher through and after training](../claims/self-efficacy-rises-early-inquiry-training.md) [+W]
+- [Self-efficacy and time-management positively predict exam grades, while self-evaluation shows an inverse relationship](../claims/srl-variables-predict-exam-grades.md) [+W]
 
 ## The evidence by question
 
@@ -176,6 +177,7 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [Strengths-based Approach](../principles/strengths-based-approach.md)
 - [Sequence teacher development so vicarious experiences come before mastery experiences](../principles/sequencing.md)
 - [Design intervention programs building academic self-efficacy (vicarious learning, progressive mastery, positive feedback) before and alongside AI integration for students with motor disabilities](../strategies/self-efficacy-interventions-alongside-ai-integration.md)
+- [Apply the empathic design framework in teacher training to increase design efficiency and teacher self-efficacy, especially in K-12](../strategies/empathic-design-in-teacher-training-strategy.md)
 
 ## Key Sources
 - Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. *Psychological Review, 84*, 191–215. [doi:10.1037/0033-295x.84.2.191](https://doi.org/10.1037/0033-295x.84.2.191)

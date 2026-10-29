@@ -91,3 +91,6 @@ This is a conceptual policy paper drawing on the literature and international po
 - [Access to opportunities is critical to promote equity in computing, per the study's examination of marginalized girls' experience during the COVID pandemic](e5c-access-critical-for-equity.md) — related
 - [OLSit model lacks replications and evidence for students with underdeveloped self-regulation](olsit-replication-and-population-gaps.md) — related
 - [ICT-enabled learning improves schoolgirls' access to resources, knowledge, and skills](ict-improves-girls-access-resources.md) — related
+- [Digital learning environments during the pandemic raise implications for addressing social inequities and education policy reform](digital-environments-social-inequities-policy-reform.md) — related
+- [OER are a mixed blessing for equity: without purposeful use toward equity and justice they can reinforce inequities](oer-mixed-blessing-for-equity.md) — related
+- [The West-European context of the TPD review limits its international generalisability, since about half the world's students lack household computer access](tpd-review-west-european-context-limit.md) — related

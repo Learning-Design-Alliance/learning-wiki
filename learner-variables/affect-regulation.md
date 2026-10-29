@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 212 claims (153 show a difference, 40 mixed, 19 no difference) · 133 studies (50 associational, 27 causal, 23 review, 12 qualitative, 9 quant-synthesis, 8 theoretical, 4 design), `q1`–`q4` · 34 of 133 report an effect size · 206 claims rest on one study
+> **Evidence** · 213 claims (154 show a difference, 40 mixed, 19 no difference) · 134 studies (50 associational, 27 causal, 23 review, 12 qualitative, 9 quant-synthesis, 8 theoretical, 5 design), `q1`–`q4` · 34 of 134 report an effect size · 207 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -252,6 +252,7 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Confusion and frustration followed incorrect solution submissions and preceded hint requests, while coding was the central activity surrounding all affective states](../claims/affect-interaction-event-transitions-programming.md) [+M] — learners who differ on it differ in outcomes
 - [The authors suggest incorporating scholarship on the challenges of active learning into courses may help students reflect on their own discomfort and resistance](../claims/explicit-engagement-with-al-challenges-scholarship-suggestion.md) [~W] — instruction changes it
 - [Loss of a study routine reduced productivity and fed a cycle of procrastination, workload pile-up, stress and escapism for many students](../claims/lost-routine-procrastination-stress-cycle.md) [+M] — instruction changes it
+- [User testing showed free-form note-taking frustrated users, prompting a redesign to drag-and-drop scaffolding that reduced frustration and improved engagement](../claims/drag-and-drop-notebook-scaffolding-redesign.md) [+W] — instruction changes it
 
 ## The evidence by question
 

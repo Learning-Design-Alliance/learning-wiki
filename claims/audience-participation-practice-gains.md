@@ -52,3 +52,4 @@ Experimental study in which eight groups of about 640 high school subjects viewe
 - [Knowledge of the correct response was the most important single factor in learning from audience-participation film segments](knowledge-of-correct-response-most-important.md) — related
 - [Practice between or during film demonstrations did not aid perceptual-motor learning](practice-during-film-demonstrations-no-aid.md) — related
 - [Supplementary examples in an instructional film significantly improve learning, with diminishing returns as example number increases](supplementary-examples-diminishing-returns.md) — related
+- [Repeating an instructional film increases learning only up to a point](film-repetition-increases-learning-up-to-a-point.md) — related

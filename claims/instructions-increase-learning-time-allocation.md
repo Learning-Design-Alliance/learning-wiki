@@ -60,3 +60,4 @@ Experiment 1 time-allocation analysis: instructed group M = 21.89 minutes versus
 - [Permitting feedback skipping increases the number of retrieval attempts completed within a fixed learning time](skipping-permits-more-retrieval-attempts.md) — related
 - [The tutored and class-taught groups showed no meaningful difference in time taken per test example](no-time-difference-fallacy-detection.md) — related
 - [Students' activity within Lab4CE correlates positively with their learning achievement (r = 0.41, p = .002)](lab4ce-activity-achievement-correlation.md) — related
+- [Use of the tool correlates positively but inconsistently with gains in metacognitive awareness](tool-use-correlates-with-metacognitive-gains.md) — related

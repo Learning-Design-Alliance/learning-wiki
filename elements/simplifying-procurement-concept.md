@@ -53,6 +53,7 @@ One of five concepts developed at the workshop, Simplifying Procurement is a set
 - [Better Planning, Better Process: bottom-up procurement planning through direct contact with teachers and administrators](../strategies/bottom-up-procurement-planning-strategy.md)
 - [7 Steps to Creative Financing: a stakeholder-team process for identifying financing for ed-tech](../strategies/seven-steps-creative-financing-strategy.md)
 - [Three focus areas for evolving district ed-tech procurement: connect with vendors, within districts, and across districts](../strategies/three-focus-areas-edtech-procurement.md)
+- [Prioritise analytics for learning over accountability, testing, organisational change or financial efficiency, with user-centred tools for stakeholders](../strategies/prioritise-analytics-for-learning.md)
 
 ## Key Sources
 - Evolving Ed-Tech Procurement in School Districts. (2013). Digital Promise. https://digitalpromise.dspacedirect.org/items/d5ac5c19-03f4-4e40-ab47-666c38a2ce5d

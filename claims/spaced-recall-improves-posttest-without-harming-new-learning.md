@@ -71,3 +71,4 @@ Comparison of quarter three final exam (open response, group-graded) scores betw
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — a broader claim this one bears on
 - [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](desirable-difficulties-enhance-learning.md) — a broader claim this one bears on
 - [No-review, spaced review, and spaced oral review conditions yielded about the same mean post-film scores](spaced-review-similar-to-no-review.md) — related
+- [QBI students scored significantly higher on weekly formative quizzes than control students, with no difference between the two QBI platforms](qbi-formative-quiz-advantage.md) — related

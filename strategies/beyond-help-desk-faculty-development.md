@@ -45,6 +45,7 @@ The preface describes the Dexter article's post-hoc analysis, which provided pri
 ## Related Strategies
 
 - [Support teachers' digital competence development through operationalisations connecting technical and pedagogical knowledge while protecting educator well-being](connect-technical-pedagogical-support-wellbeing.md)
+- [Institutional support package: professional development, technical support, engagement strategies, and assessment reform](institutional-support-technology-integration-strategy.md)
 
 ## Examples
 -

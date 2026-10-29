@@ -57,3 +57,4 @@ Bootstrapping mediation analysis (2000 resamples, bias-corrected 95% CIs) report
 - [Technological self-efficacy significantly but modestly predicts faculty AI well-being](technological-self-efficacy-modest-predictor-ai-well-being.md) — related
 - [AI literacy is the strongest predictor of faculty AI well-being in the structural model](ai-literacy-strongest-predictor-of-ai-well-being.md) — related
 - [Openness and need for relatedness are associated with teachers' AI use indirectly through pedagogical AI competence, with relatedness negatively associated with competence](openness-relatedness-indirect-via-competence.md) — related
+- [Dual Empowerment positively predicts affective, motivational, and cognitive mediating processes](dual-empowerment-predicts-psychological-mediators.md) — related

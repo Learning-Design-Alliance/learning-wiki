@@ -54,3 +54,4 @@ Observational time tracking over a one-year deployment at a single institution, 
 - [Early adopters report time savings from ChatGPT automation, including a Wharton professor's exam-writing productivity increase of 100%](chatgpt-automation-time-savings-educators.md) — related
 - [ConnectED reduces 45-minute lesson preparation time to approximately 15–20 minutes in-system, versus 3–4 hours for manual preparation](connected-reduces-lesson-preparation-time.md) — related
 - [Automated tool reduces correction time by 43% (raw) and 33% (normalised)](automated-tool-reduces-correction-time-43-percent.md) — related
+- [Instructors reported time savings of up to 80% for quiz preparation compared to traditional methods](instructor-reported-time-savings-up-to-80-percent.md) — related

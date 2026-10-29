@@ -13,7 +13,7 @@ generated:
 # Self Efficacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 87 claims (51 for, 33 mixed, 3 against) · 74 studies (32 associational, 17 causal, 15 review, 5 quant-synthesis, 4 design, 1 qualitative), `q1`–`q4` · 22 of 74 report an effect size · 82 claims rest on one study
+> **Evidence** · 88 claims (52 for, 33 mixed, 3 against) · 75 studies (33 associational, 17 causal, 15 review, 5 quant-synthesis, 4 design, 1 qualitative), `q1`–`q4` · 22 of 75 report an effect size · 83 claims rest on one study
 
 ## Description
 Self efficacy is a learner's belief in their capability to succeed at a specific task or domain, not a general sense of self-worth. It functions as a proximal driver of learning: learners with higher efficacy set more ambitious goals, persist longer through difficulty, and recover faster from failure [Bandura, 1997]. Because it is domain-specific and malleable, it is a design target rather than a fixed learner trait.
@@ -135,6 +135,7 @@ Instructional design shapes self efficacy primarily through the four sources Ban
 - [Video tutorials significantly and substantially raised self-efficacy, with no effect of condition](../claims/video-tutorials-raise-self-efficacy-no-condition-effect.md) [+W]
 - [A significant time-by-condition-by-gender interaction in self-efficacy during training: girls rose in experimental conditions and fell in control, boys the opposite](../claims/time-condition-gender-interaction-self-efficacy.md) [~W]
 - [Self-efficacy increases significantly over the first interval of inquiry training and stays higher through and after training](../claims/self-efficacy-rises-early-inquiry-training.md) [+W]
+- [Self-efficacy and time-management positively predict exam grades, while self-evaluation shows an inverse relationship](../claims/srl-variables-predict-exam-grades.md) [+W]
 
 ## The evidence by question
 

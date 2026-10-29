@@ -81,3 +81,4 @@ As part of RQ1, the review coded disciplinary origin (first author's affiliation
 - [Inconsistent embodiment labels cause functionally similar experiments to go uncited across disciplines, hindering meta-analysis](terminology-silos-uncited-parallel-experiments.md) — related
 - [Interactive open learner modelling dialogue produced resultant learner models with more beliefs than initial models, most approved by both learners and a teacher](iolm-dialogue-increases-lm-beliefs-approved.md) — related
 - [Reviews agree that clear definition and delineation of TPACK's individual knowledge domains is rare and nearly impossible](tpack-knowledge-domains-poorly-delineated.md) — related
+- [Learning-community research suffers from unclear and inconsistent definitions of community](learning-community-definitions-inconsistent.md) — related

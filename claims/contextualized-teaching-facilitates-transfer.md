@@ -99,3 +99,4 @@ Facilitator subtheme from interviews; participants reported that case-based teac
 - [The review reports, citing Chernikova and colleagues, that simulations of professional situations such as classroom interactions are beneficial in teacher training](simulations-of-professional-situations-beneficial-teacher-training.md) — related
 - [Preservice teachers in web-enhanced CBA showed improved understanding of technology integration through sequenced authentic tasks](cba-sequenced-tasks-improve-preservice-tech-integration.md) — related
 - [Commentators recommend contextual adaptations of the Own It, Learn It, Share It framework](six-scholar-critiques-context-needed-for-ols-framework.md) — related
+- [All four instructional quality dimensions (ILEQ, IIFQ, FSQ, ASA) significantly and positively predict Dual Empowerment in VR-based welding training](instructional-quality-dimensions-predict-dual-empowerment.md) — related

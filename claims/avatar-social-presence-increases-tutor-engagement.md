@@ -84,3 +84,4 @@ The paper cites Basori et al. (2011) for the claim that realistic avatars commun
 - [Proposed benefits of virtual characters include increased motivation, stimulation of learning activities, and enhanced communication](virtual-character-proposed-benefits-taxonomy.md) — related
 - [Technological functions of pedagogical agents are organised into embodiment, functional type, and five feature categories](agent-technological-functions-taxonomy.md) — related
 - [Asynchronous video communication and feedback enhance social presence and helped sustain engagement and connections between socially isolated faculty and students during the COVID-19 shift online](asynchronous-video-enhances-social-presence-covid.md) — related
+- [Embodied actions appear in all reviewed ILE designs, while learner control over environment attributes is rare](ile-psychomotor-design-characteristics-embodied-actions.md) — related

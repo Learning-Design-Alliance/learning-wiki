@@ -48,3 +48,4 @@ Survey of 645 university students using an in-house LMS in undergraduate MIS/FIT
 - [In a cross-sectional survey, computer self-efficacy statistically mediates the association between computer anxiety and perceived ease of use of an LMS](cse-mediates-anxiety-peu-lms.md) — related
 - [CSE partially mediates anxiety's effect on PEU: the direct ANX–PEU path remains significant but weaker](cse-partial-mediation-anx-peu-weakened.md) — related
 - [Computer self-efficacy has a strong significant relationship with computer anxiety](cse-strong-relationship-computer-anxiety.md) — related
+- [Technological complexity shows no significant effect on perceived ease of use or perceived usefulness of e-learning platforms](technological-complexity-paths-non-significant.md) — related

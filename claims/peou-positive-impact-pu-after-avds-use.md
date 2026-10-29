@@ -46,3 +46,4 @@ SEM analysis of TAM data; before using AVDS the t-value (1.829) was less than th
 
 ## Related Claims
 - [Perceived usefulness and perceived ease of use of GenAI tools significantly predict teachers' attitudes and behavioural intention](usefulness-ease-predict-attitude-intention-genai.md) — related
+- [Educational quality positively affects both perceived ease of use and perceived usefulness of e-learning platforms](educational-quality-predicts-peou-and-pu.md) — related

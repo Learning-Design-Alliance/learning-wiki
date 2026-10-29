@@ -57,3 +57,4 @@ The chapter's abstract states the authors "discuss the pedagogical challenges in
 - [Most Digital Café participants had home Internet but no one to help with everyday computer learning needs](cafe-participants-home-internet-no-help.md) — a narrower finding that bears on this claim
 - [The educational value of GAI is contingent on pedagogical integration, not on the technology itself](gai-value-contingent-on-pedagogical-integration.md) — a narrower finding that bears on this claim
 - [Current course learning design practices do not consider what and how data should be generated for learning analytics, limiting LA implementation](current-course-design-lacks-la-data-sourcing.md) — related
+- [Attending to students' experiences and three interaction types is proposed as a route to more equitable online courses](equitable-online-courses-through-interaction-design.md) — related

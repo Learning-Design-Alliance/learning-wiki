@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2021
+source_checked: 2026-10-29
 sources:
   - id: abaci-2021
     resource: "https://doi.org/10.1007/s11423-020-09839-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teacher attitudes to professional learning about OBL changed during the pandemic: previously difficult to prioritise, it became immediately relevant and highly sought after. [→ Abaci 2021](#abaci-2021)
@@ -52,3 +53,7 @@ Authors' observation (SF4 section) as experienced teacher educators running the 
 - [The rapid shift to OBL affected teacher emotion and motivation, which are connected to teacher learning about OBL](teacher-emotion-motivation-rapid-ob-shift.md) — a broader claim this one bears on
 - [Prepandemic professional development helped teachers face the pandemic, but pandemic-era compulsory training caused work overload and did not differentiate competency levels](pd-prepared-teachers-but-overloaded.md) — related
 - [Seven responses to Philipsen et al.'s study offer valuable ideas and guidelines for developing TPD for OBL in times of crisis](seven-responses-apply-tpd-obl-framework-in-crisis.md) — related
+- [Tabor argues the Own it, Learn it, Share it framework can be applied immediately to support districts' rapid pivot to online learning](framework-immediate-application-pandemic-pivot.md) — related
+- [Rapid shifts to digitally-based learning and instruction are often made without properly preparing instructors or developing support structures for them or for learners](rapid-digital-shifts-lack-instructor-preparation.md) — related
+- [Lack of online-teaching training constrains teachers' ability to apply the framework, per cited literature](teacher-online-training-gap-constrains-framework.md) — related
+- [International organisations UNESCO and ILO identify teacher professional development for online and blended learning as a priority, per this response](unesco-ilo-tpd-online-blended-priority.md) — related

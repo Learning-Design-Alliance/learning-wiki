@@ -63,3 +63,4 @@ Study-level frequency analysis across the 54 included studies identifies infrast
 - [Barriers to seamless GenAI integration include limited accessibility, insufficient bias mitigation, and tool availability prioritized over curriculum alignment](genai-integration-barriers-accessibility-bias-alignment.md) — related
 - [Student interviewees reported technical support availability as a significant gap for online students.](molh-student-interviews-technical-support-gap.md) — related
 - [Web 2.0 tools, mobile learning and hardware/software are the most used assistive technology types, mainly with visually impaired students](at-types-web2-mobile-learning.md) — related
+- [Technical difficulties disrupted teaching routines and produced role conflict in academics' professional identities](technical-difficulties-role-conflict-technology-integration.md) — related

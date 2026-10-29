@@ -49,3 +49,4 @@ Theme from thematic analysis of survey free-text and six faculty interviews on r
 - [Most remote courses used both synchronous and asynchronous delivery mechanisms](remote-courses-mixed-synchronous-asynchronous-delivery.md) — related
 - [Students reported that long recorded lectures impeded focus, and one student appreciated an instructor's choice to break lectures into shorter videos](long-recorded-lectures-impeded-focus.md) — related
 - [Students in courses with guided note-taking and other active learning activities reported less difficulty with motivation and engagement after the shift online](guided-note-taking-supported-remote-engagement.md) — related
+- [Several students voluntarily used Zoom's recording and transcription features asynchronously after the live debate to support cognitive engagement](zoom-recording-transcription-cognitive-engagement.md) — related

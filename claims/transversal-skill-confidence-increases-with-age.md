@@ -46,3 +46,4 @@ Cross-national survey of 330 students analysed with SPSS 27; the article reports
 
 ## Related Claims
 - [Age-related component differences show proactive exploration lowest for youngest students](proactive-exploration-lowest-youngest-age-group.md) — related
+- [Personal involvement with privacy topics increases with participant age, from 6.15 in the youngest secondary group to 8.65 in higher education](involvement-increases-with-age-ibuddy.md) — related

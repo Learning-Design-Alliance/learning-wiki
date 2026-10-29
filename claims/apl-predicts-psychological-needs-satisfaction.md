@@ -55,3 +55,4 @@ Structural model assessment in a cross-sectional survey of 327 Chinese universit
 - [AI Prompting Literacy is indirectly and significantly associated with Deep Revision Engagement through Perceived Competence, Intrinsic Motivation, and Psychological Safety](apl-parallel-mediation-deep-revision.md) — a broader claim this one bears on
 - [Perceived Competence, Intrinsic Motivation, and Psychological Safety each significantly positively predict Deep Revision Engagement](psychological-mediators-predict-deep-revision.md) — related
 - [AI literacy directly and positively predicts learning engagement among university students](ai-literacy-predicts-learning-engagement.md) — related
+- [Dual Empowerment positively predicts affective, motivational, and cognitive mediating processes](dual-empowerment-predicts-psychological-mediators.md) — related

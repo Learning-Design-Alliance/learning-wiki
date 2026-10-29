@@ -50,3 +50,4 @@ The review reports Linn and Songer's structured simulation curriculum with exper
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — related
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
 - [Guided play outperforms direct instruction or free play on a few early-childhood outcomes, with no reliable difference on most others, in one meta-analysis](play-based-learning-improves-outcomes.md) — related
+- [Students in an unstructured educational robotics curriculum show higher engagement in the learning process than peers in a structured curriculum](unstructured-er-curriculum-higher-engagement.md) — related

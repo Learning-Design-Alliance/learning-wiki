@@ -52,3 +52,4 @@ Survey-based study in which "One hundred and fifty five students completed a 38-
 - [Perceptions of engagement strategies were analyzed for differences by age, gender, and online learning experience](demographic-differences-engagement-strategy-perceptions.md)
 - [Students rated icebreaker/introduction discussions and collaborative work with online communication tools as the most beneficial learner-to-learner strategies](icebreaker-collaboration-top-learner-learner-strategies.md) — a narrower finding that bears on this claim
 - [Students rated real-world projects and discussions with structured or guiding questions as the most beneficial learner-to-content strategies](real-world-projects-structured-questions-top-content-strategies.md) — a narrower finding that bears on this claim
+- [Attending to students' experiences and three interaction types is proposed as a route to more equitable online courses](equitable-online-courses-through-interaction-design.md) — related

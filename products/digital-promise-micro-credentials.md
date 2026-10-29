@@ -64,7 +64,7 @@ Digital Promise runs a platform and programme through which educators earn compe
 
 ### Claims
 - [Computational thinking professional development was the most-cited support for integrating computational thinking into lessons, cited by 54 percent of teachers](../claims/ct-pd-top-integration-support-54-percent.md) [+W]
-- [The Friday Institute used micro-credential stacks to close the implementation gap left by MOOC-Ed content at scale](../claims/friday-institute-mooc-ed-implementation-gap-micro-credentials.md) [+W]
+- [The Friday Institute added micro-credential stacks to its MOOC-Ed to address the gap between taking professional development at scale and implementing it in the classroom (a case description, not an evaluation)](../claims/friday-institute-mooc-ed-implementation-gap-micro-credentials.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -282,7 +282,7 @@ Digital Promise defines educator micro-credentials as a professional learning cr
 
 ## Claims
 
-- [The Friday Institute used micro-credential stacks to close the implementation gap left by MOOC-Ed content at scale](../claims/friday-institute-mooc-ed-implementation-gap-micro-credentials.md) [+W]
+- [The Friday Institute added micro-credential stacks to its MOOC-Ed to address the gap between taking professional development at scale and implementing it in the classroom (a case description, not an evaluation)](../claims/friday-institute-mooc-ed-implementation-gap-micro-credentials.md) [+W]
 
 ## Related Elements
 

@@ -54,3 +54,4 @@ Moderator analysis of course design characteristics across the 49 included studi
 - [SRL training programs based on a metacognitive theoretical background show larger effects on academic achievement than programs based on cognitive theories](metacognitive-theory-background-larger-achievement-effects.md) — related
 - [SRL training programmes improve SRL strategies, motivation, academic achievement and reduce anxiety across age groups](srl-training-programmes-improve-outcomes.md) — a broader claim this one bears on
 - [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — a broader claim this one bears on
+- [Self-regulation training programs have a positive effect on university students' academic performance, strongest when underpinned by metacognitive theory (review-reported)](self-regulation-training-positive-effect-university.md) — related

@@ -56,3 +56,4 @@ Meta-analyses of direct metacognitive instruction reviewed in the educational sc
 - [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) — related
 - [Self-regulated learning ability significantly moderates Gen-AI's effect on HOT: high-SRL students show ES = 0.863 versus ES = 0.284 for low-SRL students](genai-srl-moderator.md) — related
 - [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — related
+- [Self-regulation training programs have a positive effect on university students' academic performance, strongest when underpinned by metacognitive theory (review-reported)](self-regulation-training-positive-effect-university.md) — a narrower finding that bears on this claim

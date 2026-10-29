@@ -78,3 +78,4 @@ Survey ratings on a 1 (not very helpful) to 5 (very helpful) scale of app suppor
 - [In an out-of-the-box evaluation, 60% of parents accessed video clips and 52% accessed activities without prompting or instruction](out-of-box-parents-accessed-clips-activities.md) — related
 - [Over 70% of participants in the field and station studies rated the app a 4 or 5 for supporting children's science learning](over-70-percent-rated-app-helpful.md) — related
 - [89.28% of parents reported the app was very or somewhat different from other apps they have used](station-study-app-novelty-perception.md) — related
+- [Formative focus groups found 5th graders most liked choosing story locations, and nearly all felt they learned from the app](cityhacks-formative-focus-groups.md) — related

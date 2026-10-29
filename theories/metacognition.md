@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 464 claims (216 for, 225 mixed, 23 against) · 237 studies (112 causal, 51 associational, 29 review, 16 theoretical, 12 quant-synthesis, 10 qualitative, 7 design), `q1`–`q4` · 82 of 237 report an effect size · 457 claims rest on one study
+> **Evidence** · 466 claims (217 for, 226 mixed, 23 against) · 239 studies (114 causal, 51 associational, 29 review, 16 theoretical, 12 quant-synthesis, 10 qualitative, 7 design), `q1`–`q4` · 82 of 239 report an effect size · 459 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -507,6 +507,8 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Greater engagement in repeated quiz-taking predicts more conservative downward shifts in students' metacognitive judgments during learning](../claims/repeated-quizzing-shifts-judgments-conservatively.md) [~W]
 - [Less able learners made the greatest learning gains with Ecolab II metacognitive scaffolding](../claims/ecolab-ii-less-able-greatest-gains.md) [~W]
 - [Open student models made students more aware of knowledge deficiencies and improved their learning decisions](../claims/open-student-models-self-assessment.md) [+W]
+- [Students' perceptions of the tool's impact on learning were partly consistent with their self-reported metacognitive gains and logged tool use](../claims/perceived-impact-partly-corroborated-by-gains.md) [+W]
+- [Hints in multiple-try feedback marginally reduce students' metacognitive bias score](../claims/hints-marginal-bias-score-reduction.md) [~W]
 
 ## The evidence by question
 

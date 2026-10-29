@@ -53,3 +53,4 @@ Descriptive analysis of a 22-item IMI questionnaire completed by the 21 particip
 - [Undergraduate learners rated CyberAGENTS positively, with scenario authenticity highest and challenge difficulty alignment lowest](cyberagents-positive-learner-perceptions.md) — related
 - [The LLM evaluator score discriminates between simulated-student motivation profiles](llm-evaluator-discriminates-student-profiles.md) — related
 - [Perceived effort directly predicts use of retrieval practice, with perceived learning playing no role (Relation 1)](effort-cost-belief-predicts-strategy-use.md) — related
+- [Gamification positively and significantly affects students' perceptions of autonomy](gamification-enhances-perceived-autonomy.md) — related

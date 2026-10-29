@@ -14,7 +14,7 @@ grain_size: lesson
 # Collaborative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 63 claims (25 for, 34 mixed, 4 against) · 52 studies (16 causal, 8 review, 7 theoretical, 6 associational, 6 qualitative, 5 quant-synthesis, 4 design), `q1`–`q4` · 11 of 52 report an effect size · 61 claims rest on one study
+> **Evidence** · 68 claims (28 for, 35 mixed, 5 against) · 55 studies (19 causal, 8 review, 7 theoretical, 6 associational, 6 qualitative, 5 quant-synthesis, 4 design), `q1`–`q4` · 12 of 55 report an effect size · 66 claims rest on one study
 
 ## Description and scope
 
@@ -144,6 +144,11 @@ This pattern is scoped to pairs and small groups where each member's individual 
 - [Co-regulation and socially shared regulation occur rarely in synchronous online collaborative learning](../claims/corl-ssrl-rare-synchronous-cscl.md) [~W]
 - [Collaborative dyads marginally outperform individuals on hypervideo product quality](../claims/dyads-marginally-higher-hypervideo-quality.md) [+W]
 - [Knowledge gains occur in all conditions; collaboration shows no significant advantage, and the no-tool control group outperforms both tool conditions on interrelations and the annotation condition on transfer](../claims/enhanced-tools-no-conceptual-understanding-advantage.md) [-W]
+- [When supportive information was presented before the learning task clusters, online discussion led to better knowledge construction than personal discussion](../claims/online-discussion-better-than-personal-under-information-before.md) [~W]
+- [An individual preparation phase before collaborative concept mapping yields significantly more clarification and positioning statements and less non-task talk in the epistemic dimension](../claims/wip-more-clarification-positioning-epistemic.md) [+W]
+- [An individual preparation phase yields significantly more types of cross-links in collaborative concept maps, with a large effect size](../claims/wip-significant-types-of-cross-links.md) [+W]
+- [Quality of knowledge construction after the first individual task significantly predicted quality after the subsequent collaborative task](../claims/test1-covariate-significant-predictor-test2.md) [+W]
+- [Representational scripting produced no individual learning gains: overall post-test scores did not exceed pre-test scores](../claims/no-individual-learning-gains.md) [-W]
 
 ## Related Patterns
 - [Collaborative Inquiry](../principles/inquiry-based-learning.md)

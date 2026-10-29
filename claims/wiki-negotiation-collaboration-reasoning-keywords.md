@@ -53,3 +53,4 @@ Computer-based concordance analysis (Wordsmith Tools) of the negotiation spaces 
 - [The final episode of wiki collaborative writing is characterised by a disputational orientation, possibly driven by time pressure to finish the text](disputational-orientation-finishing-text.md) — related
 - [NLC1 acted as one evenly participating group with no cliques, while NLC2 was initially directed by three central participants and did not operate as one group](nlc1-even-participation-nlc2-star-shape.md) — related
 - [A wiki with a thinking-together approach can provide a dialogic space in which students co-construct shared understanding](wiki-dialogic-space-co-construction.md) — related
+- [The KnowCat computer-supported collaborative learning environment was evaluated for its impact on metacognitive knowledge development](knowcat-collaborative-environment-metacognitive-knowledge.md) — related

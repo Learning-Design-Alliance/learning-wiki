@@ -50,3 +50,4 @@ Descriptive survey analysis by age band reported in Fig. 2 of the UOC case study
 ## Related Claims
 - [Self-perceived communication competence and adaptability show small positive correlations with age, while resourcefulness and communicative adaptability do not](age-correlations-communication-adaptability-small.md) — related
 - [Students across all knowledge areas report gaining new technological competences from studying online at the UOC](uoc-online-study-gains-digital-competences.md) — related
+- [Across cases, older teachers held more negative beliefs and lower digital skills than younger teachers, reflected in frequency of use](teacher-age-digital-beliefs-skills-gradient.md) — related

@@ -48470,5 +48470,393 @@
  "test-format\toral case defense with follow-up questions\twritten case analysis (take-home)": {
   "label": "Oral case defense vs written case analysis",
   "treatment_is_a": true
+ },
+ "active-learning\tFirst Principles-based flipped courses with pre-class instruction and in-class problem solving\tcomparison condition not specified": {
+  "label": "flipped instruction vs non-flipped instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tStep 1 activity before research input\tnot stated": {
+  "label": "activity-before-instruction vs instruction-before-activity",
+  "treatment_is_a": true
+ },
+ "active-learning\tdialogic teaching approach\tother forms of teaching": {
+  "label": "dialogic teaching vs non-dialogic teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tonline discussion with graphical knowledge maps\tpersonal discussion with graphical knowledge maps": {
+  "label": "online discussion vs in-person discussion",
+  "treatment_is_a": true
+ },
+ "active-learning\tsound motion pictures with learner pronunciation\tsound motion pictures without learner pronunciation": {
+  "label": "learner pronunciation vs no learner pronunciation",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudent-centered digital learning\ttraditional direct instruction": {
+  "label": "student-centered active learning vs traditional direct instruction",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tgame-like and 3D objects with learner-chosen paths and content\tobjects guiding learners through a predetermined path": {
+  "label": "learner-controlled paths and content vs predetermined paths and content",
+  "treatment_is_a": true
+ },
+ "autonomy-support\topen-ended final project with self-generated questions and dataset choices\tearlier structured learning activities": {
+  "label": "open-ended self-generated projects vs structured learning activities",
+  "treatment_is_a": true
+ },
+ "autonomy-support\topen-ended self-generated final projects\tearlier structured learning activities": {
+  "label": "open-ended self-generated projects vs structured learning activities",
+  "treatment_is_a": true
+ },
+ "autonomy-support\topen-ended self-generated final projects\tmore structured earlier learning activities": {
+  "label": "open-ended self-generated projects vs structured learning activities",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tstudent freedom to explore\tteacher control": {
+  "label": "learner-controlled exploration vs teacher-controlled learning",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tstudent-centered Own it, Learn it, Share it framework\ttraditional direct instruction": {
+  "label": "student-centered learning vs traditional direct instruction",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tstudent-centered digital learning\ttraditional direct instruction": {
+  "label": "student-centered learning vs traditional direct instruction",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tstudents choose whether and when to use computers\tteacher-directed or required computer use": {
+  "label": "learner-chosen computer use vs teacher-directed computer use",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdemonstrated and practiced micro:bit programming\tpost-workshop code relative to demonstrated sample code": {
+  "label": "demonstration and practice vs code example only",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tfour-hour e-textile workshop with demonstrations, direct instruction, and hands-on practice\tpre-workshop knowledge exercise": {
+  "label": "explicit instruction and practice vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tfour-hour e-textile workshop with demonstrations, practice, and facilitation\tpre-workshop circuit knowledge": {
+  "label": "explicit instruction and practice vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tfour-hour e-textile workshop with direct instruction and scaffolding\tpre-workshop circuit drawing": {
+  "label": "explicit instruction and scaffolding vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tfour-hour e-textile workshop with instruction and practice\tpre-workshop knowledge exercise": {
+  "label": "explicit instruction and practice vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tplaying the NNG 4 tutorial\tnot playing the tutorial": {
+  "label": "tutorial vs no tutorial",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tself-regulation training programs\tunspecified comparison condition": {
+  "label": "self-regulation training vs comparison condition",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tworkshop instruction and practice using BBC micro:bit MakeCode\tsample code demonstrated in Session 1": {
+  "label": "explicit instruction and practice vs demonstration only",
+  "treatment_is_a": true
+ },
+ "feedback-timing\tpost-session (delayed offline) feedback\timmediate (offline) feedback": {
+  "label": "immediate vs delayed feedback",
+  "treatment_is_a": false
+ },
+ "feedback-timing\treal-time (online) feedback\tpost-session (delayed offline) feedback": {
+  "label": "immediate vs delayed feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tMultiple-try feedback with hints (MCR + H)\tMultiple-try feedback with knowledge of the correct response (MCR)": {
+  "label": "hints vs correct response",
+  "treatment_is_a": true
+ },
+ "feedback-type\tMultiple-try feedback with hints after an incorrect answer\tMultiple-try feedback providing the correct response without hints": {
+  "label": "hints vs correct response",
+  "treatment_is_a": true
+ },
+ "feedback-type\tdiscrete feedback\tcontinuous feedback": {
+  "label": "discrete vs continuous feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tdynamic feedback\tstatic feedback": {
+  "label": "dynamic vs static feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfeedback condition assignment\tother feedback condition assignment": {
+  "label": "feedback condition assignment vs other feedback condition assignment",
+  "treatment_is_a": true
+ },
+ "feedback-type\tmultiple-try feedback with hints\tmultiple-try feedback without hints": {
+  "label": "hints vs no hints",
+  "treatment_is_a": true
+ },
+ "feedback-type\tmultiple-try feedback with hints (MCR + H)\tmultiple-try feedback with knowledge of the correct response without hints (MCR)": {
+  "label": "hints vs correct response",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tQBI via Mentimeter or AhaSlides\tLMS post-lecture quizzes": {
+  "label": "in-lecture interactive quizzes vs post-lecture LMS quizzes",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tQBI via Mentimeter or AhaSlides\tLMS-based post-lecture quizzes": {
+  "label": "in-lecture interactive quizzes vs post-lecture LMS quizzes",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tincrementally embedded QBI quizzes during lectures\tLMS-based post-lecture quizzes": {
+  "label": "in-lecture embedded quizzes vs post-lecture LMS quizzes",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tincrementally embedded QBI quizzes with dialogue and feedback\tpost-lecture LMS quizzes": {
+  "label": "in-lecture embedded quizzes with dialogue and feedback vs post-lecture LMS quizzes",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tuse of digital learning-platform data\tno comparison reported": {
+  "label": "use of digital learning-platform data vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "gamification\tNNG 2\tNNG 3": {
+  "label": "NNG 2 vs NNG 3",
+  "treatment_is_a": true
+ },
+ "gamification\tNNG 2 with improved interface and motivating game elements\tNNG 1": {
+  "label": "NNG 2 with improved interface and motivating game elements vs NNG 1",
+  "treatment_is_a": true
+ },
+ "gamification\tNNG 4 extrinsic elements, including the Lighthouse Island, buildings, and ship purchases\tNNG 3 motivational features": {
+  "label": "Extrinsic game elements vs motivational features",
+  "treatment_is_a": true
+ },
+ "gamification\tgame-like elements including badges, avatars, and a course designed as a game\tother interaction categories": {
+  "label": "Gamified learning vs non-gamified learning",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified learning\tlearning without gamification": {
+  "label": "Gamified learning vs non-gamified learning",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified learning interventions lasting 1 to 3 months\tnon-gamified learning": {
+  "label": "Gamified learning vs non-gamified learning",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified learning interventions lasting a semester or longer\tnon-gamified learning": {
+  "label": "Gamified learning vs non-gamified learning",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified learning with game elements\tnon-gamified learning": {
+  "label": "Gamified learning vs non-gamified learning",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified learning, different instructor\tnon-gamified learning, different instructor": {
+  "label": "Gamified learning vs non-gamified learning",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified learning, identical instructor\tnon-gamified learning, identical instructor": {
+  "label": "Gamified learning vs non-gamified learning",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified learning, instructor equivalence not reported\tnon-gamified learning, instructor equivalence not reported": {
+  "label": "Gamified learning vs non-gamified learning",
+  "treatment_is_a": true
+ },
+ "media-design\tNNG 2 usability and interface improvements\tNNG 1 interface": {
+  "label": "improved usability and interface vs earlier interface",
+  "treatment_is_a": true
+ },
+ "media-design\tNNG 4 aesthetics and extrinsic game elements\tNNG 3": {
+  "label": "enhanced aesthetics and extrinsic motivating elements vs simpler aesthetics and fewer extrinsic elements",
+  "treatment_is_a": true
+ },
+ "media-design\tNNG 4 aesthetics and extrinsic motivating elements\tearlier NNG versions with simpler aesthetics and fewer extrinsic elements": {
+  "label": "enhanced aesthetics and extrinsic motivating elements vs simpler aesthetics and fewer extrinsic elements",
+  "treatment_is_a": true
+ },
+ "media-design\tNNG 4 with improved graphics and design\tNNG 3 with less-developed graphics and design": {
+  "label": "enhanced aesthetics and extrinsic motivating elements vs simpler aesthetics and fewer extrinsic elements",
+  "treatment_is_a": true
+ },
+ "media-design\tNNG usability and interface-clarity improvements\tearlier NNG interface": {
+  "label": "improved usability and interface vs earlier interface",
+  "treatment_is_a": true
+ },
+ "media-design\taudio located within the corresponding portraits\taudio located at distant room positions": {
+  "label": "portrait-congruent audio vs spatially distant audio",
+  "treatment_is_a": true
+ },
+ "media-design\tlearner pronunciation\tno learner pronunciation": {
+  "label": "learner pronunciation vs no learner pronunciation",
+  "treatment_is_a": true
+ },
+ "media-design\tlearner pronunciation of the words\tno learner pronunciation": {
+  "label": "learner pronunciation vs no learner pronunciation",
+  "treatment_is_a": true
+ },
+ "media-design\tmotion pictures\tstill pictures": {
+  "label": "motion pictures vs still pictures",
+  "treatment_is_a": true
+ },
+ "media-design\tnarrator pronunciation\tno narrator pronunciation": {
+  "label": "narrator pronunciation vs no narrator pronunciation",
+  "treatment_is_a": true
+ },
+ "media-design\tpictures of objects or acts\twords only": {
+  "label": "pictures of objects or acts vs words only",
+  "treatment_is_a": true
+ },
+ "media-design\tpictures of objects or acts\twords-only presentation": {
+  "label": "pictures of objects or acts vs words only",
+  "treatment_is_a": true
+ },
+ "media-design\tpresent-day comics\tliterature available to the past generation": {
+  "label": "present-day comics vs literature available to the past generation",
+  "treatment_is_a": true
+ },
+ "media-design\tpronunciation by a narrator\tno narrator pronunciation": {
+  "label": "narrator pronunciation vs no narrator pronunciation",
+  "treatment_is_a": true
+ },
+ "media-design\tslow presentation rate\tfast presentation rate": {
+  "label": "slow presentation rate vs fast presentation rate",
+  "treatment_is_a": true
+ },
+ "media-design\tsound motion pictures with narrator pronunciation\tmotion pictures without narrator pronunciation": {
+  "label": "narrator pronunciation with motion pictures vs motion pictures without narrator pronunciation",
+  "treatment_is_a": true
+ },
+ "media-design\tsound motion pictures with narrator pronunciation\tmotion pictures without sound": {
+  "label": "sound motion pictures vs silent motion pictures",
+  "treatment_is_a": true
+ },
+ "media-design\tsound motion pictures with student pronunciation\tsound motion pictures without student participation": {
+  "label": "learner pronunciation vs no learner participation",
+  "treatment_is_a": true
+ },
+ "media-design\tspatial audio located at the exhibits\tnormal audio located within the headphones": {
+  "label": "spatially located audio vs headphone-located audio",
+  "treatment_is_a": true
+ },
+ "media-design\tspatial audio located at the portraits\tnormal audio located within the headphones": {
+  "label": "spatially located audio vs headphone-located audio",
+  "treatment_is_a": true
+ },
+ "media-design\tspatial audio located within the portraits\tnormal audio located within the headphones": {
+  "label": "spatially located audio vs headphone-located audio",
+  "treatment_is_a": true
+ },
+ "media-design\tspatially close audio presentation\tspatially distant audio presentations": {
+  "label": "spatially close audio vs spatially distant audio",
+  "treatment_is_a": true
+ },
+ "media-design\tvisuals\tother interaction categories": {
+  "label": "visuals vs other interaction categories",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore film repetitions\tone film showing": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "prompts\tdomain-general detached metacognitive-support prompts\tcomparison group": {
+  "label": "domain-general detached metacognitive-support prompts vs comparison group",
+  "treatment_is_a": true
+ },
+ "prompts\tdomain-general self-explication prompts in a digital SRL tool\tpre-test before the intervention": {
+  "label": "self-explication prompts vs pre-test-only condition",
+  "treatment_is_a": true
+ },
+ "prompts\tdomain-specific detached metacognitive-support prompts\tcomparison group": {
+  "label": "domain-specific detached metacognitive-support prompts vs comparison group",
+  "treatment_is_a": true
+ },
+ "prompts\tdomain-specific self-explication prompts in a digital SRL tool\tpre-test before the intervention": {
+  "label": "domain-specific self-explication prompts vs pre-test-only condition",
+  "treatment_is_a": true
+ },
+ "prompts\tmeta-learning tasks prompting consideration of prior knowledge and planning of remaining learning\tnot stated": {
+  "label": "meta-learning tasks prompting prior-knowledge consideration and planning vs no specified intervention",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tgamified learning with a four-way reward-contingency combination\tnon-gamified learning": {
+  "label": "Four-way reward-contingency gamification vs non-gamified learning",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tgamified learning with a three-way reward-contingency combination\tnon-gamified learning": {
+  "label": "Three-way reward-contingency gamification vs non-gamified learning",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tgamified learning with rewards for each unit solved\tnon-gamified learning": {
+  "label": "Unit-contingent rewards in gamified learning vs non-gamified learning",
+  "treatment_is_a": true
+ },
+ "scaffolding\tY2 narrowed digging task with targeted biology and disciplinary supports\tY1 broad search-and-rescue task with less targeted supports": {
+  "label": "targeted disciplinary scaffolding vs broad, less-targeted scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tY2 targeted supports for CT and disciplinary connections\tY1 curriculum stated CT goals but did not explicitly support them": {
+  "label": "targeted disciplinary scaffolding vs broad, less-targeted scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tadditional prompts for internal and external structure, motion paths, and comparative anatomy\tprior curriculum with fewer structure-function supports": {
+  "label": "more structure-function prompts vs fewer structure-function supports",
+  "treatment_is_a": true
+ },
+ "scaffolding\tappropriate scaffolding and guidance\tinadequate or absent support": {
+  "label": "adequate scaffolding vs inadequate or absent scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tdrag-and-drop notebook scaffolding\tfree-form notebook": {
+  "label": "drag-and-drop notebook scaffolding vs free-form notebook",
+  "treatment_is_a": true
+ },
+ "scaffolding\tfocused design task with explicit targeted disciplinary supports\tbroader design task with less explicit computational-thinking support": {
+  "label": "targeted disciplinary scaffolding vs broad, less-targeted scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tfocused design task with explicit targeted supports\tbroader design task with insufficient targeted support": {
+  "label": "targeted disciplinary scaffolding vs broad, less-targeted scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tfocused design task with explicit targeted supports for science, CT, and engineering practices\tbroader design task with less explicit or less targeted disciplinary supports": {
+  "label": "targeted disciplinary scaffolding vs broad, less-targeted scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tintegration of learning scaffolds\tnot stated": {
+  "label": "integrated learning scaffolds vs no stated scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tplanning and revising circuit diagrams with facilitator questions and feedback\tpre-workshop pair circuit diagrams": {
+  "label": "scaffolded circuit-planning workshop vs pre-workshop circuit planning",
+  "treatment_is_a": true
+ },
+ "scaffolding\tproject development with scaffolded circuit visualization\tpre-scaffolding circuit diagram": {
+  "label": "scaffolded circuit-planning workshop vs pre-scaffolding circuit planning",
+  "treatment_is_a": true
+ },
+ "scaffolding\tshort workshop with scaffolded circuit planning\tpre-workshop performance": {
+  "label": "scaffolded circuit-planning workshop vs pre-workshop performance",
+  "treatment_is_a": true
+ },
+ "scaffolding\tworkshop with facilitator-guided circuit planning and feedback\tpre-test circuit diagrams": {
+  "label": "scaffolded circuit-planning workshop vs pre-test circuit planning",
+  "treatment_is_a": true
+ },
+ "scaffolding\tworkshop-supported circuit planning and construction\tpre-workshop circuit diagrams": {
+  "label": "scaffolded circuit-planning workshop vs pre-workshop circuit planning",
+  "treatment_is_a": true
+ },
+ "self-explanation\tdetached digital self-explication tool\tcontrol condition": {
+  "label": "self-explanation vs control/no self-explanation",
+  "treatment_is_a": true
+ },
+ "simulation\tiBuddy digital simulation-based session\tnot reported": {
+  "label": "simulation vs unreported comparison",
+  "treatment_is_a": true
+ },
+ "simulation\tiBuddy digital simulation-based session\tnot stated": {
+  "label": "simulation vs unreported comparison",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation with creation of the artificial buddy\tother iBuddy session components": {
+  "label": "simulation component vs other iBuddy components",
+  "treatment_is_a": true
  }
 }

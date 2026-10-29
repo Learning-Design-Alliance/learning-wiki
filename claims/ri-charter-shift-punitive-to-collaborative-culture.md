@@ -57,3 +57,4 @@ In the same qualitative interview study of 14 Rhode Island key officials, partic
 - [An article on narrative inquiry asserts, without data, that teachers' internal drive rather than top-down prescriptions leads to the most successful change in educational practice](teacher-internal-drive-successful-change.md) — related
 - [The book argues that quality assessments can provide accurate and timely information to maximize student learning, in contrast to punitive testing rhetoric](quality-assessments-accurate-timely-information-maximize-learning.md) — related
 - [University teachers follow a top-down design approach considering learning outcomes, content scope, activities and assessment](teachers-top-down-design-process.md) — related
+- [Trust is a key enabler of knowledge sharing in online learning communities](trust-enables-knowledge-sharing-online.md) — related

@@ -12,7 +12,7 @@ generated:
 # First Principles of Instruction
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 3 studies (2 causal, 1 associational), `q2`–`q3` · 2 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 4 studies (2 causal, 1 associational, 1 theoretical), `q2`–`q3` · 2 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
 First Principles of Instruction (Merrill, 2002, 2013) is M. David Merrill's answer to the question "what makes instruction effective, efficient, and engaging?" Reviewing a wide range of existing instructional design theories and models, Merrill argued that despite differing vocabularies and areas of emphasis, they converge on a small common set of principles. He deliberately avoided the term "presentation" in favor of "demonstration," on the grounds that showing (not just telling) is what most instruction is missing.
@@ -56,6 +56,7 @@ The **problem-centered** principle further restructures the typical topic-by-top
 - [Theory-based agents significantly outperform non-theory agents on Problem-centered design (d = 0.28) and Activation (d = 0.29), but non-theory agents score higher on Demonstration (d = -0.23)](../claims/theory-agents-problem-centered-activation-advantage.md) [~W]
 - [Students rated real-world projects and discussions with structured or guiding questions as the most beneficial learner-to-content strategies](../claims/real-world-projects-structured-questions-top-content-strategies.md) [+W]
 - [Systematically designed E&M instruction based on the First Principles of Instruction model produced significantly higher domain-specific CT scores than regular instruction](../claims/systematic-design-first-principles-higher-domain-specific-ct.md) [+W] — attached 2026-10-28 from Tiruneh et al. (2016), which proposed "First Principles of Instruction model as a framework for designing CT-embedded subject matter instruction"; tests this page's relationship.
+- [A First Principles of Instruction-based flipped approach produced greater student achievement in three of four high school subject areas](../claims/lo-2018-fpi-fc-greater-achievement.md) [+W]
 
 ## Related Theories
 

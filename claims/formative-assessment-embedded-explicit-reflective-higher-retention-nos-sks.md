@@ -74,3 +74,4 @@ Independent samples t-test on retention-test SKS scores administered after four 
 - [In one nonequivalent-groups study of pre-school prospective teachers, the group taught with formative assessment embedded in explicit-reflective instruction scored higher on post-test NOS and SK than the group taught with explicit-reflective instruction alone](formative-assessment-embedded-explicit-reflective-higher-posttest-nos-sks.md) — related
 - [Experimental and control groups did not differ significantly on pre-test NOS or SK scores](pretest-equivalence-noss-sks-groups.md) — related
 - [Neither group showed a significant decline from post-test to retention test on NOS or SK measures](no-significant-posttest-retention-decline-either-group.md) — related
+- [QBI students scored significantly higher on weekly formative quizzes than control students, with no difference between the two QBI platforms](qbi-formative-quiz-advantage.md) — related

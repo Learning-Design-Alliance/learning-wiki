@@ -48,3 +48,4 @@ Thematic synthesis of 55 peer-reviewed studies (2021–2026) following PRISMA 20
 - [Motivational outcomes are the most consistently positive dimension across AI-GBL studies](ai-gbl-motivation-most-consistent-outcome.md) — related
 - [GenAI's motivational effect varies by subject domain, largest for language learning and smallest for science (exploratory)](genai-motivation-effect-varies-subject-domain-language-largest.md) — related
 - [In one quasi-experimental VR shooting study (n = 50), reported in a review, rule-based dynamic difficulty outperformed progressive difficulty](dda-adaptation-direction-determines-outcomes.md) — a narrower finding that bears on this claim
+- [Ke's (2016) systematic review synthesized five major themes as guideposts for designing research-based learning games](ke-2016-five-themes-learning-game-design.md) — related

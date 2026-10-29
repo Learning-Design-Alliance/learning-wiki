@@ -52,3 +52,4 @@ Observational usage analysis of the two-week deployment (Table 2 reports 254 ses
 - [Sentiment toward AI in education shifted from negative to positive, with negative descriptors falling from 30% of participants to 0% after the intervention](sentiment-shift-negative-to-positive-ai-education.md) — related
 - [Post-interaction reflections reveal four preference themes: AI as formative learning aid, preference for human authority, conditional acceptance, and skepticism about educational impact](four-themes-post-evaluation-ai-reflections.md) — related
 - [90% of open-ended survey responses about the ChatGPT activity were neutral in sentiment, with 2% positive and 8% negative](open-ended-responses-mostly-neutral-sentiment.md) — related
+- [The simulation with the creation of the artificial buddy was the most appreciated part of the session (45.40% of open answers)](simulation-most-appreciated-part-ibuddy.md) — related

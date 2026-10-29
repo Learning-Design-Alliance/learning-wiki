@@ -23,7 +23,7 @@ sources:
 # Lexia Core5 Reading
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (2 causal), `q2`–`q3` · 1 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 3 studies (2 causal, 1 associational), `q2`–`q3` · 1 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 Lexia Learning's Lexia Core5 Reading is a blended digital literacy programme for pre-K–5 students that provides personalized foundational-reading instruction, embedded assessment, and teacher support resources.
@@ -31,10 +31,12 @@ Lexia Learning's Lexia Core5 Reading is a blended digital literacy programme for
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Lexia Core5 Reading blended literacy program**: Lexia Core5 Reading is a blended learning program aiming to "accelerate the development of fundamental literacy skills for students of all abilities in grades pre-K-5". It provides "explicit, systematic instruction through personalized learning paths", adapts to target skill gaps as they emerge, and equips teachers with data and instructional resources for personalized offline instruction. An embedded assessment supplies ongoing actionable data, and an online student dashboard encourages students to take ownership of their learning. It runs on PC, Mac, Chromebook, iPad, and Android devices. (Lexia® Core5® Reading evidence summary (2023))
+- **Lexia Reading Core5 blended learning reading program**: Core5 is a personalized, adaptive digital reading program for preschool through grade five, providing "a structured (i.e., explicitly teaches word identification and decoding), sequential approach" across phonological awareness, phonics, structural analysis, automaticity/fluency, vocabulary, and comprehension. It contains 18 levels subdivided into 89 activities and 1,243 units of 4-8 minutes, with an adaptive auto placement tool, scaffolded guided-practice steps, immediate corrective feedback, individualized Prescriptions of Intensity (20–80 min per week), teacher reports, and offline Lexia Lessons and Skill Builders. In this study it was integrated into standard ELA instruction via station or lab rotation models. (Elizabeth R. Kazakoff et al. (2018))
 
 ### Claims
 - [Core5 students in grades 3-5 showed significantly larger reading achievement gains than a matched comparison group (ES = +0.11)](../claims/core5-matched-comparison-es-011.md) [+W]
 - [Elementary students in blended learning schools using Core5 obtained significantly higher posttest reading scores than control students after controlling for pretest differences](../claims/core5-blended-learning-higher-posttest-reading.md) [+M]
+- [First-grade ELs in the blended learning program significantly outperformed matched non-ELs on aimsweb by end of Year One](../claims/first-grade-els-outperform-non-els-blended-learning.md) [+M]
 
 ## Related Products and Programmes
 -
@@ -45,6 +47,7 @@ Lexia Learning's Lexia Core5 Reading is a blended digital literacy programme for
 <!-- merged 2026-10-10 from elements/lexia-core5-reading-program-element ("Lexia Core5 Reading: blended, personalized fundamental literacy instruction for grades pre-K-5"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Lexia® Core5® Reading evidence summary. (2023). https://www.lexialearning.com/products/core5reading
 - Paul Macaruso, Shani Wilkes, Jen Elise Prescott. (2020). An investigation of blended learning to support reading instruction in elementary schools. Education Tech Research Dev. https://doi.org/10.1007/s11423-020-09785-2
+- Elizabeth R. Kazakoff, Paul Macaruso, Pam Hook. (2018). Efficacy of a blended learning approach to elementary school reading instruction for students who are English Learners. Education Tech Research Dev 66:429–449. https://doi.org/10.1007/s11423-017-9565-7
 
 # Lexia Core5 Reading: blended, personalized fundamental literacy instruction for grades pre-K-5
 

@@ -55,3 +55,4 @@ Second-year (Fall 1975-Spring 1976) rating procedure in which the interviewer's 
 - The review's coding framework showed very good inter-coder agreement (κ = 0.89, p < 0.001) on a random sample of six papers — related
 - [In Study 2, inter-rater agreement for rating creative problem solving ideas was good to excellent across indicators](cps-idea-ratings-good-excellent-interrater-agreement.md) — related
 - [A structured negotiated-coding process reached nearly 98% interrater agreement before machine learning](negotiated-coding-98-consensus.md) — related
+- [The review's corpus comprises 39 peer-reviewed articles selected via a PRISMA protocol with substantial screening agreement](ile-psychomotor-review-corpus-39-articles-prisma.md) — related

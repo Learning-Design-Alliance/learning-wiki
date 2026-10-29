@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 18 claims (9 for, 8 mixed, 1 against) · 14 studies (4 causal, 4 review, 3 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 3 of 14 report an effect size · 17 claims rest on one study
+> **Evidence** · 24 claims (10 for, 13 mixed, 1 against) · 16 studies (4 causal, 4 quant-synthesis, 4 review, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 4 of 16 report an effect size · 23 claims rest on one study
 
 ## Description
 Gamification is the element in which points, progress indicators, challenges, or other game-like structures are used to shape participation and persistence.
@@ -42,6 +42,12 @@ Gamification is the element in which points, progress indicators, challenges, or
 - [Teacher interviews identified perceived risks of gamified EFL tools: lack of support from principals, parents or students, side effects, and loss of teacher control](../claims/teacher-perceived-risks-gamified-efl.md) [~W]
 - [Participants in the game-based training condition estimated fraction magnitudes more accurately during training than participants in the non-game-based condition](../claims/game-based-training-higher-accuracy-during-training.md) [+M] — attached 2026-10-29 from Manuel Ninaus et al. (2023), which proposed "Semideus game-based fraction number line estimation training"; tests this page's relationship.
 - [Participants in the game-based training condition took more time to respond during training than participants in the non-game-based condition](../claims/game-based-training-slower-response-duration.md) [~M] — attached 2026-10-29 from Manuel Ninaus et al. (2023), which proposed "Semideus game-based fraction number line estimation training"; tests this page's relationship.
+- [Gamification positively and significantly affects students' perceptions of autonomy](../claims/gamification-enhances-perceived-autonomy.md) [+W]
+- [Reward contingency significantly moderates gamification's effect on intrinsic motivation, with 'each unit solved' contingencies showing larger effects](../claims/reward-contingency-moderates-gamification-effect.md) [~W]
+- [No evidence of publication bias was found for the overall effect of gamification on intrinsic motivation](../claims/gamification-meta-analysis-no-publication-bias.md) [~W]
+- [Most interviewed students did not use NNG 4's tutorial and hint options, and preferred harder game difficulty](../claims/nng4-tutorial-hint-largely-unused-preferred-difficulty.md) [~W]
+- [Gamification studies measure intrinsic motivation almost exclusively through self-report instruments, with no study using free-choice behavioral measures](../claims/intrinsic-motivation-measured-by-self-report.md) [~W]
+- [Effect sizes are larger when the same instructor teaches both gamified and control groups, and when interventions run one to three months](../claims/gamification-moderators-instructor-and-duration.md) [~W]
 
 ## Related Elements
 - [Adaptive Difficulty](adaptive-difficulty.md)

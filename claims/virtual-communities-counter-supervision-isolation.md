@@ -65,3 +65,4 @@ Conclusion drawn from the study's consultations and implementation case study; t
 - [Community-only peer review carries stated risks of echo chambers, bullying, and uneven resources](community-peer-review-risks.md) — related
 - [Lack of interpersonal engagement, interaction and collaboration, plus reduced social contact and isolation (45%), negatively impacted many students' online learning experience](lost-interaction-community-lockdown.md) — related
 - [Teachers customizing online approaches may reduce lack of interaction in large classes and isolation in distance education](customized-online-learning-reduces-interaction-deficits.md) — related
+- [Access boundaries of learning communities can be physical or virtual, with the required amount and nature of presence still undefined](access-boundary-physical-or-virtual.md) — related

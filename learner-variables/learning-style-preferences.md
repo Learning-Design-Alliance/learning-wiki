@@ -13,7 +13,7 @@ generated:
 # Learning-Style Preferences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 31 claims (18 show a difference, 7 mixed, 6 no difference) · 16 studies (5 causal, 4 review, 4 associational, 2 theoretical, 1 design), `q1`–`q3` · 8 of 16 report an effect size · 30 claims rest on one study
+> **Evidence** · 32 claims (19 show a difference, 7 mixed, 6 no difference) · 17 studies (5 causal, 5 review, 4 associational, 2 theoretical, 1 design), `q1`–`q3` · 8 of 17 report an effect size · 31 claims rest on one study
 
 ## Bottom line
 
@@ -69,6 +69,7 @@ Learning-style preferences are learners' reported preferences for one mode or fo
 - [Parents rate visual learners as smarter and hands-on learners as sportier](../claims/parents-rate-visual-smarter-hands-on-sportier.md) [~M] — learners reporting different styles differed here; not a test of matching instruction to style
 - [Science is an exception: hands-on and visual learners are predicted equal science grades despite visual advantage in math, language arts, and social studies](../claims/science-exception-grade-predictions.md) [~M] — learners reporting different styles differed here; not a test of matching instruction to style
 - [Strong unmet learning-style preferences produce stronger negative effects on performance than moderate or weak unmet preferences](../claims/strong-preferences-stronger-mismatch-effects.md) [+W] — an effect differed by reported style in this study; matching to style is not supported overall
+- [A technique helped students identify their own cognitive learning styles and adjust to mismatched courses](../claims/learning-style-identification-mismatched-course-adjustment.md) [+W] — instruction changes reported style
 
 ## The evidence by question
 - *What should the adaptation be based on: responses, or learner styles and preferences?* [Learning Styles Matching Does Not Improve Learning](../claims/learning-styles-matching-does-not-improve-learning.md) [+S]

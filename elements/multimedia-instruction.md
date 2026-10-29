@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 38 claims (21 for, 16 mixed, 1 against) · 41 studies (21 causal, 9 quant-synthesis, 8 review, 2 theoretical, 1 design), `q1`–`q4` · 11 of 41 report an effect size · 33 claims rest on one study
+> **Evidence** · 40 claims (21 for, 18 mixed, 1 against) · 42 studies (22 causal, 9 quant-synthesis, 8 review, 2 theoretical, 1 design), `q1`–`q4` · 11 of 42 report an effect size · 35 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -74,6 +74,8 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [The Physics Film Project concluded that physics can be taught effectively with the filmed course despite inadequately prepared instructors and ill-equipped laboratories](../claims/physics-taught-effectively-with-filmed-course.md) [+W]
 - [Medium-ability students showed some tendency to do better in the film-based physics course](../claims/medium-ability-students-tendency-better-film-course.md) [+W]
 - [In the Utah Physics Film Project, filmed and regular physics instruction showed no differences in large and small schools, but medium-sized schools favored regular instruction](../claims/physics-films-no-difference-medium-schools-favor-regular.md) [-W]
+- [A slow rate of development in an instructional film is more helpful to learning than a fast rate](../claims/slow-film-rate-of-development-aids-learning.md) [~W]
+- [Repeating an instructional film increases learning only up to a point](../claims/film-repetition-increases-learning-up-to-a-point.md) [~W]
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]

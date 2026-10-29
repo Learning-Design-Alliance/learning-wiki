@@ -48,3 +48,4 @@ Assertion from the repeated-waves section, attributed to Dziuban et al. (2020) i
 - [Instructional designers define dispositions in varied and divergent ways, with several conflating them with soft skills](ids-varied-definitions-of-dispositions.md) — related
 - [Nursing academics report limited, unclear and inconsistently applied institutional guidance on GenAI use in teaching and assessment](nursing-academics-report-genai-policy-ambiguity.md) — related
 - [The article reports that research terminology such as 'diagnosis' and 'analysis' is used ambiguously and needs more careful definition](zirbes-1922-diagnosis-analysis-term-ambiguity.md) — related
+- [Learning-community research suffers from unclear and inconsistent definitions of community](learning-community-definitions-inconsistent.md) — related

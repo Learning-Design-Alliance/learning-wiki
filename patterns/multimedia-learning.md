@@ -25,7 +25,7 @@ sources:
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 96 claims (41 for, 53 mixed, 2 against) · 73 studies (42 causal, 11 review, 10 quant-synthesis, 4 theoretical, 2 associational, 2 qualitative, 2 design), `q1`–`q4` · 18 of 73 report an effect size · 87 claims rest on one study
+> **Evidence** · 98 claims (42 for, 54 mixed, 2 against) · 74 studies (43 causal, 11 review, 10 quant-synthesis, 4 theoretical, 2 associational, 2 qualitative, 2 design), `q1`–`q4` · 18 of 74 report an effect size · 89 claims rest on one study
 
 ## Description and scope
 
@@ -123,6 +123,7 @@ Claims linked to this page later go here until they are read against the model.
 - [In Chun and Plass's CyberBuch studies, the text + picture annotation group significantly outperformed text-definition and text + video groups on a vocabulary test](../claims/chun-plass-text-picture-outperformed-text-video.md) [+W] — read 2026-10-19: vocabulary glosses, reported second-hand; language-learning glosses are scoped out of this page.
 - [In Yoshii's study, text + picture glosses beat text-only glosses only on a definition-supply test, with no L1 versus L2 gloss difference](../claims/yoshii-text-picture-definition-supply-only.md) [+W] — read 2026-10-19: vocabulary glosses, reported second-hand; scoped out with the item above.
 - [The segmentation advantage is maintained across repeated readings and is widespread across participants](../claims/segmentation-effect-maintained-repeated-readings.md) [~W] — read 2026-10-19: "segmentation" here is printing text in phrase units for children's reading, not dividing a narrated presentation, so it does not bear on the segmentation rule.
+- [Motion in pictures is of no value for teaching foreign vocabulary measured by written recall](../claims/motion-in-pictures-no-value-vocabulary.md) [~W] — attached 2026-10-29 from Kale et al. (1955), which proposed "Use still pictures instead of motion pictures for film-based vocabulary instruction to avoid production expense"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 
@@ -161,6 +162,7 @@ This pattern is scoped to explanations of structures, processes and relations pr
 - [Dynamic slides did not improve knowledge acquisition compared to static slides](../claims/dynamic-slides-no-knowledge-benefit.md) [~W]
 - [Silent filmstrips produced significantly higher mean gains than sound motion pictures, so sound and motion were not essential for maximum learning.](../claims/filmstrips-significantly-higher-gains-than-sound-motion-pictures.md) [~W]
 - [Narration combined with drama or explanatory film was the most effective TV teaching method; drama alone was not very effective](../claims/narration-with-drama-or-film-best-tv-method.md) [+W]
+- [Pictures of an object or act aid foreign vocabulary learning when the criterion is writing the words](../claims/pictures-aid-foreign-vocabulary-learning.md) [+W]
 
 ## Examples
 

@@ -51,7 +51,7 @@ sources:
 # Inquiry-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 66 claims (37 for, 21 mixed, 8 against) · 73 studies (21 causal, 15 quant-synthesis, 10 review, 10 theoretical, 7 design, 6 qualitative, 4 associational), `q1`–`q4` · 17 of 73 report an effect size · 53 claims rest on one study
+> **Evidence** · 67 claims (38 for, 21 mixed, 8 against) · 74 studies (21 causal, 15 quant-synthesis, 11 theoretical, 10 review, 7 design, 6 qualitative, 4 associational), `q1`–`q4` · 17 of 74 report an effect size · 54 claims rest on one study
 
 ## Conditional relationship
 
@@ -157,6 +157,7 @@ The heading is kept because tools look for it; new links land here unread. Re-re
 - [The bilingual cultural map functioned as a boundary object supporting divergent interpretations across students, museum educators, and end-users without requiring semantic consensus](../claims/cultural-map-boundary-object-distributed-cognition.md) [+W] — (not about this page) a cross-sector design artifact, not inquiry learning.
 - [Dewey argues the scientific attitude is achieved by pupils taking a hand in the making of knowledge through inquiry](../claims/dewey-making-knowledge-through-inquiry.md) [+W] — attached 2026-10-24 from J. Dewey (1910), which proposed "Teach science for its method-value — cultivating the scientific attitude through pupil inquiry — rather than primarily for informational subject-matter".
 - [Encouraging 5-7-year-olds to ask questions during science lessons increases how much they value new science information relative to a careful-listening control](../claims/question-asking-raises-willingness-to-pay-science.md) [+W] — attached 2026-10-27 from Park et al. (2025), which proposed "Use encouraging question asking as a simple, scalable pedagogical component to foster valuation of new science information in young learners".
+- [Leveraging appropriate types of guidance during the relevant phases of inquiry benefits student inquiry in virtual and remote labs](../claims/phase-appropriate-guidance-benefits-inquiry-labs.md) [+W] — attached 2026-10-29 from Gamor (2021), which proposed "Apply guidance types matched to the inquiry phase and to how and when they are used for optimal effect".
 
 ## Objective and learner-valued goal
 

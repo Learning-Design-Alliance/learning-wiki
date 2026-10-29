@@ -74,3 +74,4 @@ Same intervention trial, control schools keeping the 7:30am start time; Table 6 
 - [Frequent daytime sleepiness is associated with impaired academic achievement, attention, and learning motivation in school-aged children](frequent-daytime-sleepiness-impaired-school-performance.md) — related
 - [Only 22.34% of Chinese school-aged children get sufficient sleep (≥10 hours), while 37.96% have short sleep duration (<9 hours)](insufficient-sleep-prevalence-chinese-children.md) — related
 - [School-based sleep education improves children's sleep duration and quality](sleep-education-improves-childrens-sleep.md) — related
+- [After app use, students were significantly better at identifying factors affecting sleep quality and benefits of later school start times, but not effects of sleep deprivation](cityhacks-openended-sleep-understanding-mixed.md) — related

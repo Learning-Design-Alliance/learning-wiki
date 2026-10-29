@@ -69,3 +69,4 @@ Bootstrapping mediation analysis (10,000 subsamples, bias-corrected 95% CIs) in 
 - [GenAI literacy is positively associated with GenAI-assisted self-regulated learning behaviors among special education undergraduates](genai-literacy-positive-srlb-special-education-undergraduates.md) — related
 - [Trust in AI and academic self-efficacy serially mediate the literacy-to-continued-use association (literacy → trust → self-efficacy → use)](serial-mediation-literacy-trust-efficacy-use.md) — related
 - [Challenge emotions mediate the association between GenAI literacy and GenAI-assisted self-regulated learning behaviors, with a relatively small indirect effect](challenge-emotions-mediation-genai-literacy-srlb.md) — related
+- [Dual Empowerment positively predicts affective, motivational, and cognitive mediating processes](dual-empowerment-predicts-psychological-mediators.md) — related

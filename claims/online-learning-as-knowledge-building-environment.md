@@ -47,3 +47,5 @@ Theoretical argument reviewing Nacu et al.'s heuristic from a theory-of-change p
 ## Related Claims
 - [Heuristics alone do not prepare network designers or teachers to enact student-centered online learning environments](heuristics-alone-insufficient-for-student-centered-online-learning.md) — related
 - [Nacu, Martin, and Pinkard's heuristic method addresses the questions educators faced during the COVID-19 school closures](nacu-heuristic-method-covid-relevance.md) — related
+- [Nacu et al.'s heuristic method for enabling educator learning-support roles can be utilized during the COVID-19 pandemic](heuristic-method-learner-support-pandemic-use.md) — related
+- [Educator learner-support roles in online education should be fulfilled from a contextual perspective, following Nacu et al.'s (2018) guidelines](learner-support-roles-contextual-perspective.md) — related

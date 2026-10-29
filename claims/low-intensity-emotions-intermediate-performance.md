@@ -48,3 +48,4 @@ Summary of the Jarrell et al. (2017) findings: "the low intensity emotions were 
 - [Effortful regulation is maximized at moderate levels of emotional and physiological reactivity and declines at very low or very high levels](inverted-u-arousal-executive-function.md) — a broader claim this one bears on
 - [Positive emotions are associated with higher academic performance while negative emotions are associated with poorer performance](positive-emotions-associated-with-higher-performance.md) — related
 - [Cluster analysis of medical students' emotions after diagnostic tasks reveals three distinct emotion clusters](three-emotion-clusters-diagnostic-tasks.md) — related
+- [Performance outcome is strongly related to learners' emotions, with the highest performing medical students reporting the most positive emotions (as reported by Jarrell et al., 2017)](outcome-emotions-performance-feedback-medical-students.md) — related

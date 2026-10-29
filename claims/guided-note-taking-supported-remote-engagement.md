@@ -66,3 +66,4 @@ Qualitative case studies of 28 STEM courses at nine institutions; interviews and
 - [The intervention increased student engagement with remote activities and motivation to return to in-person classes](nudges-increase-engagement-motivation.md) — related
 - [Virtual-world-based teaching helped lecturers deliver courses more interactively than pure online video-based modes during the pandemic.](vw-more-interactive-than-video-only-mode.md) — related
 - [The online mode impeded practical learning for students in practice-based subjects, though video demonstrations helped in some cases](online-mode-impeded-practical-learning.md) — related
+- [User testing showed free-form note-taking frustrated users, prompting a redesign to drag-and-drop scaffolding that reduced frustration and improved engagement](drag-and-drop-notebook-scaffolding-redesign.md) — a narrower finding that bears on this claim

@@ -41,7 +41,8 @@ When human raters score a target response with access to supplemental items (mul
 - [Including supplemental response context in modified inputs was necessary because human raters scored target responses with access to those responses](../claims/supplemental-response-context-modified-inputs.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Scaffold note-taking in learning apps with drag-and-drop information items rather than free-form input](scaffolded-drag-and-drop-note-taking.md)
 
 ## Examples
 -

@@ -52,6 +52,7 @@ Because the study finds positive beliefs and concerns form along separate tracks
 - [Prioritize evidence-based technology programs and implement them with professional learning and integrated practice](prioritize-evidence-based-edtech-with-professional-learning.md)
 - [Engage student teachers in reflection on their educational beliefs before immersing them in IBL](reflect-on-beliefs-before-ibl-immersion.md)
 - [Structure AI-supported professional development around collaborative reflection rather than technical training alone](collaborative-reflection-ai-tpd.md)
+- [Institutional support package: professional development, technical support, engagement strategies, and assessment reform](institutional-support-technology-integration-strategy.md)
 
 ## Examples
 -

@@ -332,3 +332,7 @@ Open questions that evidence entries should address include: which strategy fami
 - [Factor 2 student teachers enacted balanced, intentional and ethical engagement with Cipherbot through self-directed strategies](f2-balanced-intentional-ethical-engagement.md) — related
 - [Computer-based metacognitive scaffolding shows limited evidence of long-term retention or transfer of the scaffolded skills](limited-evidence-long-term-metacognitive-retention.md) — related
 - [Self-regulation and self-directed learning strategies need to be taught and practiced over time](self-regulation-strategies-taught-over-time.md) — related
+- [Dialogic teaching in a university setting facilitated increased use of planning, monitoring and evaluating skills (review-reported)](dialogic-teaching-increased-metacognitive-skills.md) — related
+- [Meta-learning tasks increased university students' use of self-regulatory strategies when studying (review-reported)](meta-learning-tasks-increased-self-regulatory-strategies.md) — related
+- [Self-regulation training programs have a positive effect on university students' academic performance, strongest when underpinned by metacognitive theory (review-reported)](self-regulation-training-positive-effect-university.md) — related
+- [SRL support modules (progress dashboard and reflection prompts) in a flipped unit produced higher SRL skills, engagement, and learning performance than control](yoon-2021-srl-modules-fc-benefits.md) — a narrower finding that bears on this claim

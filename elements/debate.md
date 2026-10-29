@@ -13,7 +13,7 @@ generated:
 # Debate
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (1 causal, 1 quant-synthesis), `q2`–`q3` · 1 of 2 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 3 studies (2 causal, 1 quant-synthesis), `q2`–`q3` · 1 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Debate is the element in which learners take positions, justify them with evidence, and respond to alternatives in a structured exchange.
@@ -37,6 +37,7 @@ Debate is the element in which learners take positions, justify them with eviden
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Argumentation Improves Reasoning](../claims/argumentation-improves-reasoning.md) [+M]
+- [Behaviorally, the asynchronous and quasi-synchronous debates were more alike each other than either was to the synchronous debate](../claims/async-quasi-sync-behaviorally-alike.md) [~W]
 
 ## Related Elements
 - [Structured Debate](structured-debate.md)

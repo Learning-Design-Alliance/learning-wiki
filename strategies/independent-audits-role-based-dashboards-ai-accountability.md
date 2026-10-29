@@ -53,6 +53,7 @@ The brief recommends districts collaborate with states and partners to build eva
 - [Procurement should demand operational privacy evidence and use the five-dimension audit rubric for comparison](procurement-operational-privacy-evidence-rubric.md)
 - [Institutional safeguards for safe, transparent AI use in assessment](institutional-ai-safeguards-assessment.md)
 - [Use A/B/n testing embedded in natural learning environments to evaluate EdTech design features at scale](abn-testing-embedded-natural-environments.md)
+- [Safeguard student privacy in learning analytics by involving students in tool creation, building contextualized explainable configurable analytics, and empowering student agency](three-trends-safeguarding-student-privacy-analytics.md)
 
 ## Examples
 -

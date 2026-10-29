@@ -30,7 +30,8 @@ An automated computer-based assessment tool developed by Lehmann et al. that con
 - [Unprompted pre-service teachers' texts show higher propositional similarity to the source reference model than combined-prompts texts](../claims/control-group-higher-propositional-similarity.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [HIMATT: highly integrated model assessment technology and tools](himatt-highly-integrated-model-assessment-technology-and-tools.md)
 
 ## Key Sources
 - Lehmann, T., Pirnay-Dummer, P., & Schmidt-Borcherding, F. (2019). Fostering integrated mental models of different professional knowledge domains: instructional approaches and model-based analyses. Education Tech Research Dev. https://doi.org/10.1007/s11423-019-09704-0

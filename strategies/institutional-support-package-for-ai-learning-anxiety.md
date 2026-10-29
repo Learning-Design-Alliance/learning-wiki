@@ -47,6 +47,7 @@ Based on the observed associations, the article recommends that "universities co
 - [Address debilitating technology anxiety through supportive low-stakes introductory experiences while preserving the critical stance that accompanies it](preserve-critical-stance-while-reducing-debilitating-anxiety.md)
 - [Design plugged CT experiences to be accessible and appealing to girls, and address technology-related anxiety through supportive, culturally relevant designs](girl-accessible-plugged-ct-design.md)
 - [Provide institutional support: regular GenAI workshops, subsidized access to advanced tools, reliable resources, and curriculum inclusion](institutional-support-genai-translation-workshops-curriculum.md)
+- [Institutional support package: professional development, technical support, engagement strategies, and assessment reform](institutional-support-technology-integration-strategy.md)
 
 ## Examples
 -

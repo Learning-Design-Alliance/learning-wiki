@@ -49,3 +49,4 @@ A method-comparison analysis in this standardization study, in which both evalua
 - [Response frequencies to stimulus words vary widely, with easy words answered correctly by most subjects and hard words such as suave missed by 96%](opposites-word-difficulty-range-suave-96-percent.md) — related
 - [The Organization Test exercises were scaled on 1634 children in grades three to eight, yielding difficulty values from .03 to 6.4 units](greene-organization-test-standardized-1634.md) — related
 - [Galton's ogive percentile graph serves as a convenient scale that lets an individual's test score be instantly translated into a rank within the normed group](ogive-percentile-graph-convenient-scale-rank.md) — related
+- [Films conveniently support fixed-order repetitive word presentation, but random order may be desirable](films-fixed-order-repetition-random-may-help.md) — related

@@ -47,6 +47,7 @@ Following research on human-centred learning analytics, the authors suggest "the
 - [Train teachers in prompt engineering, evaluating AI-generated responses, ethical and privacy considerations, and integrating AI outputs into pedagogical decision-making](teacher-training-ai-tools-prompt-evaluation-ethics.md)
 - [Provide teachers with adequate training and support for AI use, embedded in leadership-led professional development](teacher-training-support-strategy-ai-implementation.md)
 - [Educators should treat themselves as philosophers of teaching, learning, and digital objects](educators-as-philosophers-of-digital-objects.md)
+- [Prioritise analytics for learning over accountability, testing, organisational change or financial efficiency, with user-centred tools for stakeholders](prioritise-analytics-for-learning.md)
 
 ## Examples
 -

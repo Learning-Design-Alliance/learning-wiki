@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2021
+source_checked: 2026-10-29
 sources:
   - id: hu-2021
     resource: "https://doi.org/10.1007/s11423-020-09920-z"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The MOOCocracy proposal, as characterized by this article, is that combining c-MOOC and xMOOC designs can foster a flexible, learner-centered culture in MOOCs. [→ Hu 2021](#hu-2021)
@@ -45,4 +46,4 @@ This is the article's characterization of the prior MOOCocracy proposal it respo
 
 
 ## Related Claims
-- [The Friday Institute used micro-credential stacks to close the implementation gap left by MOOC-Ed content at scale](friday-institute-mooc-ed-implementation-gap-micro-credentials.md) — related
+- [The Friday Institute added micro-credential stacks to its MOOC-Ed to address the gap between taking professional development at scale and implementing it in the classroom (a case description, not an evaluation)](friday-institute-mooc-ed-implementation-gap-micro-credentials.md) — related

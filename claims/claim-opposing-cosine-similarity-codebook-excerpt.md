@@ -68,3 +68,4 @@ Same mixed-effects analysis. The excerpt-similarity row reports "(7.372, 0.189)"
 - [Shorter codebooks and shorter data excerpts yield higher initial LLM coding accuracy, and a smaller specialization gap between codebook and excerpt helps](claim-llm-coding-accuracy-shorter-codebooks.md) — related
 - [Human-LLM agreement on a complex multi-label codebook falls well below human-human agreement, while LLM-LLM agreement is comparable to human-human agreement](human-llm-agreement-gap-jaccard.md) — related
 - LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers — related
+- [Opinion mining with cosine similarity captures differences in SRL-related terminology within and across individual learners](opinion-mining-captures-srl-variance.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: mixed
 newest_evidence: 2023
+source_checked: 2026-10-29
 sources:
   - id: guido-makransky-gustav-bøg-petersen-2023
     resource: "https://doi.org/10.1007/s10648-023-09822-5"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2`–`q3`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-10-29 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Meta-analyses found a small effect size advantage for immersive lessons compared to less immersive technology, yet immersive environments can increase presence without necessarily leading to more learning. [→ Guido Makransky · Gustav Bøg Petersen 2023](#guido-makransky-gustav-bg-petersen-2023)
@@ -72,3 +73,4 @@ The review reports, citing multiple studies, that using XR without considering i
 - [A meta-analysis reported a mean effect size advantage of 0.41 for collaborative learning prototypes in immersive versus non-immersive approaches](xrcl-meta-analysis-effect-041.md) — a narrower finding that bears on this claim
 - [Gamified virtual reality learning environments were more motivating, engaging, and interactive than traditional learning environments](gamified-vr-more-motivating-engaging-interactive-than-traditional.md) — related
 - [Prior single-exposure IVR studies show mixed cognitive outcomes: affective gains without cognitive benefits (Parong & Mayer) and short-lived retention gains (Christopoulos)](ivr-single-exposure-mixed-cognitive-outcomes.md) — a narrower finding that bears on this claim
+- [The XRPS shows sufficient Rasch-based validity and reliability evidence for measuring presence in immersive 360-degree videos of gaming environments](xrps-valid-gaming-environment-360-videos.md) — related

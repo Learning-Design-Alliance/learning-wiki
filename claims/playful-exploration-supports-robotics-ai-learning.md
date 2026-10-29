@@ -49,3 +49,4 @@ Qualitative theme 3. Kim tweaked sample code so the robot turned left when the u
 - [Students developed AI understanding by reasoning about how physical setup and environmental conditions affect sensor perception and machine learning data quality](physical-setup-reasoning-builds-ai-understanding.md) — related
 - [Parents reported large increases in children's robot programming knowledge and access to programming resources during the ARC trial](arc-trial-parent-reported-student-gains.md) — related
 - [Flexible design with a human wizard anticipated kindergarteners' developing communication styles in robot-mediated interaction](flexible-design-anticipating-children-communication-styles.md) — related
+- [While completing the robotics open-ended project, teachers developed learning strategies including case-based reasoning, sketches, trial and error, and evaluating capacity](robotics-open-ended-project-learning-strategies.md) — related

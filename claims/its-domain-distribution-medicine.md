@@ -52,3 +52,4 @@ State-of-the-art overview from the systematic search across IEEE, MDPI, ScienceD
 - [Accumulated deliberate practice is associated with performance, explaining a domain-dependent share of its variance: about a quarter in games, 4% in education and under 1% in professions](deliberate-practice-improves-performance.md) — related
 - [Existing ITS for psychomotor skills predominantly target fine, closed, internally paced, discrete, individual, and simple skills](its-psychomotor-skills-fine-closed-individual.md) — related
 - [GIFT serves as a testbed for developing and validating expert models for psychomotor tasks such as rifle marksmanship](gift-testbed-psychomotor-expert-models.md) — related
+- [Sports and healthcare dominate the application domains of ILE-based psychomotor training](ile-psychomotor-domains-sports-healthcare-lead.md) — related

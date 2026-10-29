@@ -48,3 +48,4 @@ The abstract for Ash and Jaspen's Technical Report SDC-269-7-57 (October 1953, S
 - [Pico-projector interaction with maps improves task completion time, errors and satisfaction over smart phone screens](pico-projector-interaction-advantages-over-smartphone-screens.md) — related
 - [Technical issues (login scanning, internet connectivity, projector setup, and glitches) frustrated students and created a significant barrier to playlist implementation](technical-issues-barrier-playlist-implementation.md) — related
 - [Digital notebooks presented technical difficulties with projection and loading during in-school implementation.](hero-elementary-notebook-technical-difficulties-projection-loading.md) — related
+- [High room illumination is detrimental to learning from rear-projected film, mainly when learners sit at extreme angles to or distances from the screen](high-room-illumination-detrimental-film-learning.md) — possibly the same claim (merge candidate)

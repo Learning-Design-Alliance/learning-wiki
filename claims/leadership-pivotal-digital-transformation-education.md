@@ -58,3 +58,5 @@ The review's synthesis of the literature identifies leadership as central to dig
 - [Faculty advisors and mentors are considered pivotal in promoting doctoral students' development as responsible and ethical researchers](faculty-mentors-pivotal-responsible-research-development.md) — related
 - [Organisational structures play a pervasive moderating role in the relationship between teacher social capital and its outcomes](organisational-structures-moderate-teacher-social-capital.md) — related
 - [Leadership and teaching quality monitoring are positively related to faculty's behavioral intention for online teaching, while strategic planning is not](leadership-tqm-behavioral-intention.md)
+- [Digital instructional leadership is positively associated with comprehensive AI integration in schools](digital-instructional-leadership-ai-integration.md) — a narrower finding that bears on this claim
+- [Transformational leadership is positively associated with comprehensive AI integration in schools](transformational-leadership-ai-integration-schools.md) — a narrower finding that bears on this claim

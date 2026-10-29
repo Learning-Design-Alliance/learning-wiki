@@ -47,3 +47,6 @@ The review's freedom-of-gameplay synthesis (Table 9) tallies mechanics per compe
 ## Related Claims
 - [Serious games can provide an authentic physical context and task for professional competencies, though a small number of successful games used neither](serious-games-authentic-context-task.md) — related
 - [Serious games are frequently successful in teaching, training, or assessing professional competencies, with reported success rates of 84% for cognitive skills, 83% for knowledge, and 100% for motor skills](serious-games-successful-professional-competencies.md) — related
+- [Receptivity frequently intersects with freedom of action in tools affording learner creativity and exploration](receptivity-freedom-of-action-intersection.md) — a narrower finding that bears on this claim
+- [Songo gameplay develops computational thinking, including the culturally informed practice the review names songoputation](songo-computational-thinking-songoputation.md) — related
+- [Teachers tend to exert more control online while students are underprepared for autonomy, per cited literature](teacher-control-versus-student-autonomy-online.md) — related

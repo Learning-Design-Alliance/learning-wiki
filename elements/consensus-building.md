@@ -13,7 +13,7 @@ generated:
 # Consensus Building
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 8 studies (2 quant-synthesis, 2 associational, 1 causal, 1 review, 1 qualitative, 1 design), `q1`–`q4` · 1 of 8 report an effect size · 4 claims rest on one study
+> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 9 studies (2 causal, 2 quant-synthesis, 2 associational, 1 review, 1 qualitative, 1 design), `q1`–`q4` · 1 of 9 report an effect size · 5 claims rest on one study
 
 ## Description
 Consensus building is a structured collaborative activity in which learners with differing positions or interpretations must negotiate toward a shared conclusion that all members can accept and articulate. Unlike debate, the goal is not victory but synthesis: participants must integrate opposing arguments into a joint position, which forces them to evaluate evidence, acknowledge partial merit in rival views, and construct a defensible rationale together.
@@ -59,6 +59,7 @@ Consensus building supports learning because articulating and defending a positi
 - [Deliberative discourse promotes pedagogies of public deliberation, which are critiqued for exclusion and consensus bias](../claims/deliberative-discourse-pedagogies-critique.md) [-W]
 - [Contrasting cases show the highest-scoring dyad (Select) engaged in inquiry, questioning, explaining, and argumentation to consensus during micro-failures, while the lowest-scoring dyad (Generate) showed dominance, unexplained disagreement, and off-task behavior](../claims/contrasting-cases-inquiry-versus-dominance.md) [+W]
 - [The DD process and product cultivated commitment and trust among participants and informed a new university AI governance policy](../claims/dd-cultivated-trust-governance-policy.md) [+M] — attached 2026-10-28 from Teresa Swist et al. (2024), which proposed "UTS EdTech Ethics Deliberative Democracy consultation".
+- [An individual preparation phase yields significantly more integration-oriented and conflict-oriented consensus building and less externalisation and non-task talk in the social dimension](../claims/wip-more-integration-conflict-consensus.md) [+W]
 
 ## Related Elements
 - [Collaborative Decision-Making](collaborative-decision-making.md) — the decision-oriented variant; consensus building adds the requirement of a jointly reasoned rationale

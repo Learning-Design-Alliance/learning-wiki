@@ -17,7 +17,7 @@ sources:
 # Sociomaterial Agency of Tools
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 29 claims (22 for, 7 mixed) · 22 studies (9 qualitative, 5 theoretical, 4 causal, 2 review, 1 quant-synthesis, 1 design), `q1`–`q3` · 3 of 22 report an effect size · 29 claims rest on one study
+> **Evidence** · 30 claims (22 for, 8 mixed) · 23 studies (10 qualitative, 5 theoretical, 4 causal, 2 review, 1 quant-synthesis, 1 design), `q1`–`q3` · 3 of 23 report an effect size · 30 claims rest on one study
 
 ## Description
 Drawing on new materialist and posthumanist theory (Barad's concept of intra-action, in which matter and meaning co-constitute each other rather than matter being a passive backdrop to human intention), this perspective treats instructional tools and materials as active participants in learning, not neutral vehicles for a lesson's content. Materials carry forward cultural histories and associations — including gendered ones, such as sewing being coded feminine and circuit-building coded masculine — that shape who feels invited to use them and how they think while using them. The practical implication for design is that choosing "neutral" materials is not actually possible; material choices always carry some cultural coding, and thoughtful design can use that fact deliberately (e.g., pairing historically feminine-coded craft materials with rigorous technical content) rather than pretending it away.
@@ -64,6 +64,7 @@ Drawing on new materialist and posthumanist theory (Barad's concept of intra-act
 - [Assessment instruments are never neutral but always mediational, embedding a culturally biased telos](../claims/assessment-always-mediational.md) [+W]
 - [Children's tool use progresses from unspecific manual use to specific instrumental use governed by the tool's culturally established mode of acting](../claims/galperin-tool-use-developmental-study.md) [+W]
 - [Reading comprehension is slightly worse on handheld devices than in print in between-participants studies (g = -.113)](../claims/handheld-print-gap-between-participants-meta-analysis.md) [+W]
+- [Most learning objects demonstrated high agency while receptivity varied, with low receptivity often an intentional design decision](../claims/high-agency-varied-receptivity-intentional.md) [~W]
 
 ## The evidence by question
 - *Does the choice of physical materials for a hands-on task change what learners come to understand and who takes part?* [Material choice shapes conceptual learning and who feels invited to learn](../claims/material-choice-shapes-conceptual-learning-and-participation.md) [+M]

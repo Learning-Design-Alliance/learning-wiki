@@ -53,3 +53,4 @@ Interview finding from the 10-SEA study. Louisiana's example includes requiring 
 - [The SEA-as-resource-provider role was the most commonly emphasized approach, named in 10 of 23 state ESSA plans.](sea-resource-role-most-emphasized.md) — related
 - SEA administrators report shifting from compliance monitoring and grants management toward meaningful support and capacity-building for identified schools — related
 - [Utah's state education agency successfully piloted and tested its ESSA resource allocation review process with LEAs and schools in spring 2023.](utah-rar-process-piloted-spring-2023.md) — related
+- [Learner support roles can be leveraged to balance affordances offered by the learning environment and the learners themselves](learner-support-roles-balance-affordances.md) — related

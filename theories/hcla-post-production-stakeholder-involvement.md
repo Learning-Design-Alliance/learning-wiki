@@ -48,6 +48,8 @@ HCLA is an approach emphasizing human factors in LA by including stakeholders in
 
 - [Indicator Editor: a no-code SSLA tool for user-controlled LA indicator implementation](../products/open-learning-analytics-platform.md)
 - [Involve key stakeholders directly in defining privacy and designing LA systems](../strategies/stakeholder-involvement-defining-privacy-la.md)
+- [Prioritise analytics for learning over accountability, testing, organisational change or financial efficiency, with user-centred tools for stakeholders](../strategies/prioritise-analytics-for-learning.md)
+- [Safeguard student privacy in learning analytics by involving students in tool creation, building contextualized explainable configurable analytics, and empowering student agency](../strategies/three-trends-safeguarding-student-privacy-analytics.md)
 
 ## Key Sources
 - Joarder, S., & Chatti, M. A. (2026). Human-Centred Development of Indicators for Self-Service Learning Analytics: A Transparency through Exploration Approach. Journal of Learning Analytics, 13(1), 163-189. https://doi.org/10.18608/jla.2026.8921

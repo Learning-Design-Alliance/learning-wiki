@@ -54,3 +54,4 @@ Bird's-eye video analysis of the fabric manipulation unit shows a four-part sequ
 - [Fabric manipulation (sewing) supports middle school students' performance of the computational concepts variables, conditionals, and functions](fabric-manipulation-performs-variables-conditionals-functions.md) — related
 - [Fiber crafting can engage proportional reasoning through nested, personally-defined units](fiber-crafting-develops-proportional-reasoning-through-unitizing.md) — related
 - [Weaving supports middle school students' performance of the computational concepts variables, conditionals, and functions](weaving-performs-variables-conditionals-functions.md) — related
+- [Constructing and materiality posed the main computational making challenges: frayed conductive thread caused short circuits, and two pairs' projects failed without substantial assistance](materiality-and-construction-challenges.md) — related

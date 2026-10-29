@@ -55,3 +55,4 @@ Interview findings (RQ1 definition category): participants defined dispositions 
 - [Loose use of movement-based learning language risks conflating evidence-based embodied learning with debunked neuromyths](embodiment-terminology-neuromyth-conflation-risk.md) — related
 - [Dispositions such as positivity, lifelong learning orientation, and persistence are reported as essential for ID/ET practice](dispositions-essential-for-id-et-practice.md) — related
 - [Blended learning remains ambiguously defined after more than two decades of use](blended-learning-term-ambiguity.md) — related
+- [Learning-community research suffers from unclear and inconsistent definitions of community](learning-community-definitions-inconsistent.md) — related

@@ -29,7 +29,7 @@ grain_size: lesson
 # Formative Assessment
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 44 claims (21 for, 22 mixed, 1 against) · 51 studies (16 causal, 12 quant-synthesis, 9 review, 5 qualitative, 4 associational, 4 theoretical, 1 design), `q1`–`q4` · 17 of 51 report an effect size · 33 claims rest on one study
+> **Evidence** · 45 claims (21 for, 22 mixed, 2 against) · 52 studies (16 causal, 12 quant-synthesis, 10 review, 5 qualitative, 4 associational, 4 theoretical, 1 design), `q1`–`q4` · 17 of 52 report an effect size · 34 claims rest on one study
 
 ## Description
 
@@ -212,6 +212,7 @@ This is the article's described classroom pattern for formative assessment in la
 - [The tests had diagnostic value, corroborating teachers' experience and illuminating difficult cases](../claims/mental-tests-diagnostic-value-corroborate-teachers.md) [+W]
 - [Reviewer questions whether action responses guarantee meaning or become direct cues to responses](../claims/action-response-meaning-question.md) [~W]
 - [In an online replication, adding feedback in the second half improved immediate extraction of concrete word meanings for congruent trials only, replicating the laboratory effect](../claims/exp2-adding-feedback-improves-congruent-extraction.md) [~W]
+- [In one reviewed study, no explicit teacher actions followed from about a quarter of dashboard consultations](../claims/quarter-dashboard-consultations-no-action.md) [-W]
 
 ## Key Sources
 

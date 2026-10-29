@@ -66,3 +66,4 @@ In the same ten-versus-ten school experiment, the abstract reports a significant
 ## Related Claims
 - [Medium-ability students showed some tendency to do better in the film-based physics course](medium-ability-students-tendency-better-film-course.md) — related
 - [The Physics Film Project concluded that physics can be taught effectively with the filmed course despite inadequately prepared instructors and ill-equipped laboratories](physics-taught-effectively-with-filmed-course.md) — related
+- [Counting screen-watching persons in infrared records provides a measure presumably related to the effectiveness of a film sequence](screen-watching-count-as-effectiveness-measure.md) — related

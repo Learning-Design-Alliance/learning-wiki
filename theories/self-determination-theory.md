@@ -18,7 +18,7 @@ moved_from: [principle/self-determination-theory]
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 102 claims (73 for, 26 mixed, 3 against) · 67 studies (24 associational, 13 review, 12 causal, 7 quant-synthesis, 6 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 16 of 67 report an effect size · 96 claims rest on one study
+> **Evidence** · 103 claims (74 for, 26 mixed, 3 against) · 68 studies (24 associational, 13 review, 12 causal, 8 quant-synthesis, 6 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 17 of 68 report an effect size · 97 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -157,6 +157,7 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [SDT-based online unit significantly increased competence in online Algebra 2 students](../claims/sdt-based-online-unit-increased-competence.md) [+W]
 - [No significant quantitative change in autonomy after the SDT-based online unit](../claims/sdt-based-online-unit-autonomy-not-significant.md) [-W]
 - [Most of the 20 ChatGPT learning activities (11 of 20) better satisfy competence, fewer satisfy autonomy, and the fewest satisfy relatedness.](../claims/chatgpt-activities-competence-needs-dominance.md) [+W] — attached 2026-10-28 from Chiu (2024), which proposed "SDT-based digital needs support framework crossed with the three-phase SRL cycle for designing ChatGPT learning activities".
+- [Gamification positively and significantly affects students' perceptions of autonomy](../claims/gamification-enhances-perceived-autonomy.md) [+W]
 
 ## The evidence by question
 

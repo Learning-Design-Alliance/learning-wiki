@@ -48,3 +48,4 @@ Theoretical argument in the commentary's discussion of IDC's creativity loop. Th
 - [The commentary poses harmony as IDC's boldest and most challenging concept for Western readers](harmony-boldest-idc-concept.md) — related
 - [IDC's interest cycle requires educators to treat interests as launching points for deeper immersion, not static topics](interest-cycle-triggering-immersing-extending.md) — related
 - [School jazz bands exemplify the IDC loops of interest, creativity, and habit in a participatory group context](jazz-band-exemplifies-idc-loops.md) — related
+- [Sharing multiple sample e-textile projects and sample code appeared to limit children's creativity, with final artifacts imitating the samples](sample-projects-limit-creativity.md) — reports the opposite

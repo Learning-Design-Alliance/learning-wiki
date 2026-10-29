@@ -66,3 +66,4 @@ Correlation analysis showing number of attempts per activity was not associated 
 - [Years of education correlate positively with pre-workshop digital literacy scores in older adults](education-correlates-pre-digital-literacy.md) — related
 - [Digital literacy workshops ameliorate older adults' digital competence in both face-to-face and blended modalities](workshops-ameliorate-older-adult-digital-competence.md) — related
 - [Instructed students allocated more total time to learning, and time was correlated with successful retrieval attempts](instructions-increase-learning-time-allocation.md) — related
+- [Treatment group assignment does not affect final exam grades, but performance in the e-learning sessions predicts exam scores](session-performance-predicts-exam-no-treatment-effect.md) — related

@@ -43,6 +43,7 @@ This strategy recommends that designers of massive open online courses and other
 ## Related Strategies
 
 - [Develop intelligent techniques for collaboration at scale in massive online learning settings](aied-collaboration-at-scale.md)
+- [Critique and improve MOOC design through four complementary response perspectives: research, design, theory, and practice](four-perspectives-for-mooc-critique.md)
 
 ## Examples
 -

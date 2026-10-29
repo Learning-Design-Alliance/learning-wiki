@@ -55,3 +55,4 @@ The synthesis's aggregate finding across the direct-comparison perceptions studi
 - [Substituting OER for traditional textbooks does not appear to decrease student learning outcomes in higher education.](oer-no-decrease-student-learning.md) — related
 - [Students and faculty are generally positive regarding OER across a variety of settings.](students-faculty-generally-positive-oer.md) — a broader claim this one bears on
 - [Concerns about whether OER decrease the effectiveness of student learning remain unsolved](oer-effectiveness-concerns-unsolved.md) — related
+- [Most U.S. higher education faculty believe OER are a good idea but few actually use them](faculty-believe-oer-but-few-use-them.md) — related

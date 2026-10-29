@@ -49,3 +49,4 @@ Derived from the workshop's thematic analysis: three researchers collaboratively
 - [When ethics games lack explicit cues distinguishing ethical from unethical choices, some players fail to recognize the intended dilemma and the games risk encouraging unethical behavior](missing-ethical-cues-risk-unethical-play.md) — related
 - [Ethical decision-making about AI emerges as tensions and contradictions negotiated across ecological levels](ethical-ai-decision-negotiated-across-levels.md) — a broader claim this one bears on
 - [Teachers perceive 20 distinct ethical tensions across five online language-teaching methods in AI-driven classes](twenty-ethical-tensions-five-methods.md) — related
+- [Barach argues game-based learning needs more pedagogical rigor, scaffolding integration, and learner accountability through design](need-pedagogical-rigor-learning-games.md) — related

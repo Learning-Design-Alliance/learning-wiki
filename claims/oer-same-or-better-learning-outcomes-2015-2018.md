@@ -82,3 +82,5 @@ The editorial reports, citing Hilton's (2016) review, that "OER can help decreas
 - [Concerns about whether OER decrease the effectiveness of student learning remain unsolved](oer-effectiveness-concerns-unsolved.md) — reports the opposite
 - [OER adoption is expected to save students money and close the achievement gap in the short term, but this benefit will likely disappear over the longer term](oer-cost-savings-short-term-only.md) — related
 - [OER outcome studies that lack a hypothesized explanatory mechanism are license comparison studies prone to finding no significant differences](oer-license-comparison-studies-undertheorized.md) — related
+- [Hilton's reviews find OER equally efficacious to and less expensive than commercial textbooks](oer-equally-efficacious-less-expensive.md) — a broader claim this one bears on
+- [Relative advantage of OER alone will not lead to rapid adoption, especially if framed as cost savings](relative-advantage-alone-insufficient-for-oer-adoption.md) — related

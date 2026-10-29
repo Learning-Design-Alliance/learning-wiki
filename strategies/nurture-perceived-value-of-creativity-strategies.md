@@ -49,6 +49,7 @@ Because the perceived value of creativity shaped task interest, which remained s
 - [Emphasize the Value of Learning](emphasize_the_value_of_learning.md)
 - [Model Positive Connections to Literacy](model_positive_connections_to_literacy.md)
 - [Use the creativity task taxonomy to design creativity activities and clarify research discussions](use-creativity-task-taxonomy-for-design-and-discourse.md)
+- [Design creative problem-solving activities accounting for the effort of sustaining creative behavior](design-for-creative-behavior-sustaining-effort.md)
 
 ## Examples
 -

@@ -69,3 +69,4 @@ Same attitude questionnaire (N = 36). Participants showed low reform skepticism 
 - [Implementing collaborative argumentation is challenged by time constraints, curriculum fit, teacher training, and system-level support](argumentation-implementation-challenges.md) — related
 - [Competing priorities for instructional time (environmental context) was the most salient barrier to teachers' implementation of a supplemental language curriculum](competing-time-priorities-dominant-barrier-language-curriculum.md) — related
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
+- [Constructing and materiality posed the main computational making challenges: frayed conductive thread caused short circuits, and two pairs' projects failed without substantial assistance](materiality-and-construction-challenges.md) — related

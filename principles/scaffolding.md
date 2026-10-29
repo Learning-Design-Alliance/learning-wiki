@@ -27,7 +27,7 @@ sources:
 # Scaffolding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 82 claims (23 for, 49 mixed, 10 against) · 59 studies (28 causal, 11 review, 6 quant-synthesis, 6 design, 5 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 18 of 59 report an effect size · 75 claims rest on one study
+> **Evidence** · 83 claims (23 for, 50 mixed, 10 against) · 60 studies (29 causal, 11 review, 6 quant-synthesis, 6 design, 5 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 18 of 60 report an effect size · 76 claims rest on one study
 
 ## Conditional relationship
 
@@ -165,6 +165,7 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 - [ACLS has shown benefits compared to individual work, unsupported collaboration, and non-adaptive support](../claims/acls-benefits-over-individual-and-non-adaptive.md) [~W]
 - [Metacognitive scaffolding outperforms conceptual scaffolding alone in online learning environments](../claims/metacognitive-scaffolding-outperforms-conceptual.md) [~W]
 - [Lower-experience students used GPTs as conceptual tutors while technically stronger students used them as professional collaborators, consistent with adaptive scaffolding](../claims/gpt-differentiated-use-by-experience.md) [~W]
+- [Presenting supportive information during learning task clusters tended to yield higher quality knowledge construction than presenting it before the clusters](../claims/information-during-timing-tends-better-knowledge-construction.md) [~W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md)

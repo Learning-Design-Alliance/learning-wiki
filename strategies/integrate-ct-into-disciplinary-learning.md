@@ -53,6 +53,7 @@ The guide recommends that educators embed computational thinking into topics the
 - [Embed computational thinking across existing K-12 subject areas using everyday and data-based activities](embed-ct-across-subject-areas.md)
 - [Integrate AI education throughout the K-12 curriculum via innovative approaches to integrative AI-science, AI-math, AI-language arts, and AI-social science education](integrative-ai-education-across-disciplines.md)
 - [Integrate collaborative videomaking (DST) into STEM-A and CLIL courses as an authentic, student-centred literacy activity](dst-videomaking-integration-stem-clil.md)
+- [Integrate classic African board games into teaching mathematics, STEM skills, and AI topics, with teacher training](integrate-african-board-games-teaching-strategy.md)
 
 ## Examples
 -

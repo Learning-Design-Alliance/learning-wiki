@@ -12,8 +12,8 @@ newest_evidence: 2025
 sources:
   - id: hengtao-tang-2025
     resource: "https://doi.org/10.1007/s11251-024-09699-z"
-    title: "Hengtao Tang, Jessica Perry Ellison. (2025). Self-regulated learning and video annotation in a high school acting classroom. Instructional Science. https://doi.org/10.1007/s11251-024-09699-z"
-    author: Hengtao Tang, Jessica Perry Ellison
+    title: "Ellison, J. P., & Tang, H. (2025). Self-regulated learning and video annotation in a high school acting classroom. Instructional Science, 53, 457–477. https://doi.org/10.1007/s11251-024-09699-z"
+    author: "Ellison, J. P., & Tang, H."
     q: 2
     i: "?"
     kind: causal
@@ -33,7 +33,7 @@ sources:
 
 ### Hengtao Tang 2025
 
-Hengtao Tang, Jessica Perry Ellison. (2025). Self-regulated learning and video annotation in a high school acting classroom. Instructional Science. https://doi.org/10.1007/s11251-024-09699-z
+Ellison, J. P., & Tang, H. (2025). Self-regulated learning and video annotation in a high school acting classroom. Instructional Science, 53, 457–477. https://doi.org/10.1007/s11251-024-09699-z
 
 `q2 · i?` · `causal · r1`
 

@@ -53,3 +53,4 @@ In the seventh-grade telecast mathematics study, an ability-by-instruction patte
 - [In sixth-grade science, conventional instruction appeared better for average and below-average pupils](tv-science-conventional-better-average-below.md) — reports the opposite
 - [Almost 90 percent of comparisons between television and conventional instruction showed no substantial differences in achievement or information gain](tv-research-90-percent-no-substantial-differences.md) — a broader claim this one bears on
 - [A full year of telecast seventh-grade mathematics did not produce pupil achievement gains reflecting teachers' inservice growth](tv-math-inservice-no-achievement-value.md) — related
+- [Televised Navy indoctrination instruction produced no differences in achievement scores compared with conventional instruction](navy-televised-indoctrination-no-achievement-differences.md) — related

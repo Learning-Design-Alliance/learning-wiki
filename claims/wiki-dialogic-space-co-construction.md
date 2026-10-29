@@ -54,3 +54,4 @@ The editorial's summary of the Pifarre and Kleine Staarman study, positioned in 
 - [Wiki negotiation unfolds in four episodes with distinct intersubjective orientations, beginning with an exploratory orientation during content generation](four-episodes-exploratory-content-generation.md) — a narrower finding that bears on this claim
 - [Collaborative wiki texts are longer, contain more t-units and more reasoning connectors than the initial pair-written texts](collaborative-text-longer-richer-than-initial.md) — related
 - [The final episode of wiki collaborative writing is characterised by a disputational orientation, possibly driven by time pressure to finish the text](disputational-orientation-finishing-text.md) — related
+- [The KnowCat computer-supported collaborative learning environment was evaluated for its impact on metacognitive knowledge development](knowcat-collaborative-environment-metacognitive-knowledge.md) — related

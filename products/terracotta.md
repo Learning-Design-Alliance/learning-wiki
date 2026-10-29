@@ -35,7 +35,8 @@ Terracotta is a software tool developed by the article's researchers that integr
 - [Working a research scenario against a DLP surfaced concrete platform needs: adding measures, linking observational data, and enabling districtwide studies](../claims/scenario-terracotta-platform-capability-lessons.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Factory Craft](factory-craft.md)
 
 ## Key Sources
 - Wei, X., Wortman, A., Cheng, L., Heffernan, N., Heffernan, C., Murphy, A., Zepeda, C., Motz, B., Jankowski, H., & Roschelle, J. (2024, March). Language and mathematics learning: A comparative study of digital learning platforms. Digital Promise. https://doi.org/10.51388/20.500.12265/206

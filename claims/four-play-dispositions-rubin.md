@@ -51,3 +51,4 @@ The review reports, citing Rubin et al. (1983), that all approaches attempting t
 - [Educational factors supportive of adolescent creativity include balancing freedom with guidance, openness to student ideas, trust, and varied learning resources](educational-factors-support-adolescent-creativity.md) — related
 - [The article argues extrinsic rewards such as grades can reduce intrinsic motivation and should be phased out](extrinsic-rewards-undermine-intrinsic-motivation-argument.md) — related
 - [Adequate definitions of abstract and familiar terms rarely appear before the eleventh year](adequate-definitions-rare-before-eleventh-year.md) — related
+- [Receptivity frequently intersects with freedom of action in tools affording learner creativity and exploration](receptivity-freedom-of-action-intersection.md) — related

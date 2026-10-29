@@ -59,3 +59,4 @@ The report states that MSIs, HBCUs, and TCUs are historically lower-resourced th
 - [The COVID-19 pandemic pushed institutions globally to abruptly shift instruction digital](covid-19-abrupt-digital-shift-instruction.md) — related
 - [The COVID-19 shift to online learning in higher education caused panic and discomfort because many instructors lacked skills, resources, and didactic aptitude](pandemic-remote-shift-instructor-unpreparedness.md) — related
 - [The COVID-19 shift to digital revealed inequality in access to education caused by technology access and online delivery that may not address student voice](pandemic-revealed-inequality-in-access-to-education.md) — a broader claim this one bears on
+- [Digital learning environments during the pandemic raise implications for addressing social inequities and education policy reform](digital-environments-social-inequities-policy-reform.md) — related

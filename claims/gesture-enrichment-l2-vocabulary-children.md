@@ -112,3 +112,5 @@ Experiment 2 replicated the gesture benefit with 43 children and a reduced 24-wo
 - [Semantically congruent iconic gestures improve L2 vocabulary retention relative to meaningless or incongruent gestures](iconic-congruent-gestures-improve-retention.md) — related
 - [Enrichment benefits on children's L2 vocabulary persist up to 6 months post-learning without diminishing relative to non-enriched learning](l2-enrichment-benefits-persist-six-months-classroom.md) — a broader claim this one bears on
 - [Gesture-enacted L2 vocabulary learning yields significantly better memory and more sustained retention than non-gesture learning, lasting 2–6 months](gesture-learning-sustained-l2-retention.md) — related
+- [Motion in pictures is of no value for teaching foreign vocabulary measured by written recall](motion-in-pictures-no-value-vocabulary.md) — related
+- [Pictures of an object or act aid foreign vocabulary learning when the criterion is writing the words](pictures-aid-foreign-vocabulary-learning.md) — related

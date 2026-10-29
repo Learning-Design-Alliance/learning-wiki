@@ -58,3 +58,4 @@ Subtracted epistemic network (Figure 8) comparing midterm high- and low-performi
 - [Counting questions students procrastinate, practicing little until late in the semester, while counting days spreads practice across the term](counting-questions-procrastination-pattern.md) — related
 - [Earlier participation relative to project deadlines (higher APTTD) predicts higher project grades](early-posting-apttd-predicts-grades.md) — related
 - [Students responded with polarised feedback to a redesigned technology-rich active-learning course, with almost a quarter disliking the flipped-video approach](polarised-student-feedback-technology-rich-active-learning-course.md) — related
+- [Self-reported preparation behaviors, especially watching tutorial videos, predict performance in the e-learning sessions](preparation-behaviors-predict-session-performance.md) — related

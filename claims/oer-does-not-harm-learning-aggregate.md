@@ -61,3 +61,5 @@ The synthesis's aggregate finding across all 25 efficacy studies published throu
 - [Students using OER save significant amounts of money compared to purchasing commercial textbooks.](oer-significant-cost-savings-students.md) — a narrower finding that bears on this claim
 - [Students and faculty are generally positive regarding OER across a variety of settings.](students-faculty-generally-positive-oer.md) — related
 - [OER adoption is expected to save students money and close the achievement gap in the short term, but this benefit will likely disappear over the longer term](oer-cost-savings-short-term-only.md) — related
+- [Most U.S. higher education faculty believe OER are a good idea but few actually use them](faculty-believe-oer-but-few-use-them.md) — related
+- [Relative advantage of OER alone will not lead to rapid adoption, especially if framed as cost savings](relative-advantage-alone-insufficient-for-oer-adoption.md) — related

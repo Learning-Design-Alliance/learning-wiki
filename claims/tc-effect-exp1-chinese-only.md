@@ -70,3 +70,4 @@ Generalized LME analysis of error rates from the same 40 participants in Experim
 - [A supplementary analysis restricted to TC and control nonword primes shows the TC effect is marginally larger for Chinese than Japanese speakers](tc-effect-larger-for-chinese-supplementary.md) — related
 - [The TC effect grows with prime time: it is significantly larger at 300 ms than at 60 ms and 150 ms, and does not decrease with longer prime time](tc-effect-increases-with-prime-time.md) — related
 - [In Experiment 2, the native language × frequency interaction is significant, with both groups responding faster to high-frequency items](language-frequency-interaction-exp2.md)
+- [Chinese characters are largely shared between Japanese and Chinese, yet Chinese-speaking learners find Japanese functional expressions challenging](shared-characters-but-functional-expressions-hard.md) — related

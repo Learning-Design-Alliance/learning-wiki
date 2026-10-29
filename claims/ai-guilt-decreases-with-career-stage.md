@@ -51,3 +51,4 @@ Career-stage ANOVA in the 109-respondent survey revealed "significant difference
 - [AI guilt correlates with avoidance and concealment behaviours, most strongly with limiting use due to uneasiness](ai-guilt-correlates-with-avoidance-behaviours.md) — related
 - [Academics who never use AI report higher guilt than users, with significant differences on anticipated remorse and research-writing guilt](ai-non-users-report-higher-guilt-than-users.md) — related
 - [The negative association between AI-assisted writing and team age is strongest among the youngest teams](ai-writing-age-effect-strongest-junior-teams.md) — related
+- [Academics' identity reconstruction through technology integration varies across career stages](career-stage-differences-identity-reconstruction-technology.md) — related

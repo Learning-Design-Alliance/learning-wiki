@@ -55,3 +55,4 @@ Meta-analysis of extended SRL training programs conducted in real classrooms, sy
 - [Provision of learning protocols predicts larger SRL training effects for resource management strategies](learning-protocols-moderate-resource-management-effects.md) — related
 - [Strategy Instruction Improves Academic Performance](strategy-instruction-improves-academic-performance.md) — related
 - [SRL training programmes improve SRL strategies, motivation, academic achievement and reduce anxiety across age groups](srl-training-programmes-improve-outcomes.md) — related
+- [Self-regulation training programs have a positive effect on university students' academic performance, strongest when underpinned by metacognitive theory (review-reported)](self-regulation-training-positive-effect-university.md) — a broader claim this one bears on

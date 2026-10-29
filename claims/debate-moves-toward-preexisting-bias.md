@@ -49,3 +49,4 @@ An experiment with 815 University of California students exposed to a debate com
 - [Disguised attitude measures can detect propaganda effects](disguised-attitude-measures-propaganda-effects.md) — related
 - [Impartial presentation of both sides moderates attitudinal position](impartial-presentation-moderates-attitudes.md) — related
 - [An experiment compared one-sided and two-sided propaganda presentations for preparing high school students to resist subsequent counter-propaganda](one-sided-vs-two-sided-propaganda-resistance-design.md) — related
+- [An introduction arousing suspicion of the communicator's motives leads the identical communication to be judged more one-sided](suspicion-introduction-judged-more-one-sided.md) — related

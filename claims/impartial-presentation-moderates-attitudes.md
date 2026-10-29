@@ -49,3 +49,4 @@ An experiment with 815 University of California students exposed to an impartial
 - [Male and female subjects responded differently, confounding interpretation](sex-differences-confound-attitude-change.md) — related
 - [In debate situations subjects move toward their pre-existing bias](debate-moves-toward-preexisting-bias.md) — related
 - [An experiment compared one-sided and two-sided propaganda presentations for preparing high school students to resist subsequent counter-propaganda](one-sided-vs-two-sided-propaganda-resistance-design.md) — related
+- [An introduction arousing suspicion of the communicator's motives leads the identical communication to be judged more one-sided](suspicion-introduction-judged-more-one-sided.md) — related

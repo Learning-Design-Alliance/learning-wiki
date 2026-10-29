@@ -36,7 +36,7 @@ sources:
 # Communities of Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 33 claims (22 for, 10 mixed, 1 against) · 30 studies (7 qualitative, 6 causal, 6 review, 3 quant-synthesis, 3 associational, 3 theoretical, 2 design), `q1`–`q4` · 2 of 30 report an effect size · 30 claims rest on one study
+> **Evidence** · 34 claims (23 for, 10 mixed, 1 against) · 31 studies (7 review, 7 qualitative, 6 causal, 3 quant-synthesis, 3 associational, 3 theoretical, 2 design), `q1`–`q4` · 2 of 31 report an effect size · 31 claims rest on one study
 
 ## Conditional relationship
 
@@ -147,6 +147,7 @@ Changed participation norms, changed understanding, changed practice and a membe
 - [STEM teachers participating in learning teams deepen their mathematics and science content knowledge and feel more prepared to teach it](../claims/stem-plcs-deepen-teacher-content-knowledge.md) [+W]
 - [Integrating principals into district MiC leadership teams grounded CoP conversations in practice and helped teams interpret school-level achievement data](../claims/principals-in-leadership-teams-ground-cop-in-practice.md) [+W]
 - [Team-based professional development is associated with shifts toward more student-centered teaching in qualitative studies, but not in one quantitative online-training study](../claims/team-pd-teaching-approach-shift.md) [~W]
+- [Trust is a key enabler of knowledge sharing in online learning communities](../claims/trust-enables-knowledge-sharing-online.md) [+W]
 
 ## Related Principles
 - [Ask Experts](ask-experts.md) — communities widen access to expertise beyond isolated expert encounters

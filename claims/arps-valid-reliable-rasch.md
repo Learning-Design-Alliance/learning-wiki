@@ -48,3 +48,4 @@ Rasch Rating Scale Model analysis (WINSTEPS) of ARPS responses from 90 undergrad
 - [The social presence subscale of the CoI survey instrument shows inconsistent dimensionality across validation studies](coi-survey-social-presence-subscale-dimensionality-inconsistent.md) — related
 - [Rasch analysis indicates a five-point response format would improve the GenAI-RTS's category functioning](genai-rts-rasch-five-point-format-recommendation.md) — related
 - [The Early Education Essentials is reliable across multiple ECE settings](early-education-essentials-reliable-multiple-settings.md) — related
+- [The XRPS shows sufficient Rasch-based validity and reliability evidence for measuring presence in immersive 360-degree videos of gaming environments](xrps-valid-gaming-environment-360-videos.md) — related

@@ -55,3 +55,4 @@ A within-subjects user study in a social science academic search engine compared
 - [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related
 - [Transparency features are shown but seldom consulted: cited sources in AI summaries were clicked in only 1% of visits](passive-transparency-seldom-consulted.md) — related
 - [Google Trends data show ChatGPT search interest surged globally within weeks of its November 2022 public release, with plagiarism among the top related queries](google-trends-chatgpt-plagiarism-queries.md) — related
+- [User testing showed free-form note-taking frustrated users, prompting a redesign to drag-and-drop scaffolding that reduced frustration and improved engagement](drag-and-drop-notebook-scaffolding-redesign.md) — related

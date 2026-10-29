@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 40 claims (19 for, 20 mixed, 1 against) · 40 studies (14 causal, 10 review, 8 quant-synthesis, 3 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 13 of 40 report an effect size · 33 claims rest on one study
+> **Evidence** · 45 claims (22 for, 22 mixed, 1 against) · 42 studies (15 causal, 10 review, 8 quant-synthesis, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 13 of 42 report an effect size · 38 claims rest on one study
 
 ## Conditional relationship
 
@@ -146,6 +146,7 @@ Claims from the calculus study behind a core claim, read on 2026-10-15 and left 
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S]
 - [In one reviewed study, flipped classrooms using AI tools raised cognitive and emotional engagement but behavioral engagement showed no significant difference from traditional methods](../claims/ai-flipped-classroom-behavioral-engagement-null.md) [~W]
 - [Flipped classroom teaching with structured interaction improves learning outcomes more than lecture-based teaching and a video-lecture control](../claims/structured-interaction-flipped-classroom-improves-learning.md) [+M] — attached 2026-10-27 from Qi Li et al. (2024), which proposed "Design teacher-student interaction in flipped classrooms as a structured, planned sequence rather than leaving it spontaneous"; tests this page's relationship.
+- [A blended/hybrid flipped calculus course with an FC Orientation module improved student learning performance and perceptions significantly over the traditional lecture format](../claims/spencer-2022-hybrid-fc-improved-performance.md) [+W] — attached 2026-10-29 from Yan Shen et al. (2025), which proposed "Flipped learning cycle design pattern: defined cycles with gradually increasing challenge and regular specific feedback across online, in-class, and after-class steps"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -174,6 +175,10 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - [Probability of notable grades is substantially higher under flipped classroom methodology](../claims/flipped-classroom-notable-grade-odds.md) [~W]
 - [Cohorts taught with the flipped classroom earned significantly higher average grades than earlier cohorts taught traditionally, in a non-equivalent-groups comparison](../claims/flipped-classroom-higher-grades-than-traditional.md) [+W]
 - [Teaching resources used within the flipped classroom years do not affect average grades, except for the year with reduced technology access](../claims/flipped-resources-no-effect-except-technology-classroom-year.md) [~W]
+- [A First Principles of Instruction-based flipped approach produced greater student achievement in three of four high school subject areas](../claims/lo-2018-fpi-fc-greater-achievement.md) [+W]
+- [Better online learning outcomes in a flipped course tend to produce better in-class readiness, which further leads to better after-class performance and exam grades](../claims/spencer-2022-accumulative-fc-achievements.md) [+W]
+- [Self-reported preparation behaviors, especially watching tutorial videos, predict performance in the e-learning sessions](../claims/preparation-behaviors-predict-session-performance.md) [~W]
+- [Meta-analyses indicate the flipped classroom approach has a small effect on learning outcomes, which the authors attribute partly to varying design quality](../claims/fc-meta-analyses-small-effect-size.md) [~W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — how support in the pre-class work and the live session is withdrawn across a term

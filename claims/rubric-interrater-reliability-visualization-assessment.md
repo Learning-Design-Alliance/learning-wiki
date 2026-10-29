@@ -52,3 +52,4 @@ Two authors independently scored all blinded submissions across T0–T2 after ca
 - [Systems Thinking Practices is the hardest CT construct to code reliably for both human raters and the LLM, requiring more explicitly operationalized rubrics](stp-low-reliability-complex-construct.md) — related
 - [Doctoral students' conceptual understanding of data visualization declined significantly over twelve months following structured instruction](conceptual-visualization-knowledge-declines-twelve-months.md) — related
 - [A structured negotiated-coding process reached nearly 98% interrater agreement before machine learning](negotiated-coding-98-consensus.md) — related
+- [The review's corpus comprises 39 peer-reviewed articles selected via a PRISMA protocol with substantial screening agreement](ile-psychomotor-review-corpus-39-articles-prisma.md) — related
