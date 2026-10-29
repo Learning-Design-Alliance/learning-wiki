@@ -16,12 +16,14 @@ sources:
     author: Pala Ferhat Kadir, Erdem Mukaddes
     q: 1
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # Focus group interviews with active and non-participating (lurking) students indicated that reasons for participation form a determinant dimension of online participation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · design `r3` · `q1`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Pala Ferhat Kadir, Erdem Mukaddes. (2020). Development of a participation style scale for online instructional discussions. Educational Technology Research and Development. https://doi.org/10.1007/s11423-020-09817-x
 
-`q1 · i?`
+`q1 · i?` · `design · r3`
 
 Four semi-structured focus group interviews were conducted: 17 then 15 third-year students, the 12 most active commenters, and nine students who sent no messages. The interviews suggested "the 'why' factor may be determinant in participating in online forums." No effect size is printed.
 

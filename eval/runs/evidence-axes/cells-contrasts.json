@@ -49198,5 +49198,85 @@
  "worked-examples\tworked-example exploratory strategy\tother exploratory strategies": {
   "label": "worked-example exploratory strategy vs other exploratory strategies",
   "treatment_is_a": true
+ },
+ "technology-tool\t2023–24 students knowing about or having used an AI chatbot\tprior-year private-school students using an AI chatbot": {
+  "label": "2023–24 AI-chatbot exposure vs prior-year private-school AI-chatbot use",
+  "treatment_is_a": true
+ },
+ "technology-tool\t2023–24 students knowing about or having used an AI chatbot\tprior-year public-school students using an AI chatbot": {
+  "label": "2023–24 AI-chatbot exposure vs prior-year public-school AI-chatbot use",
+  "treatment_is_a": true
+ },
+ "technology-tool\t360° video viewed via immersive HMD\tsame 360° video viewed on 2D touchscreen monitor": {
+  "label": "Immersive HMD video vs 2D touchscreen video",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D VR co-creation\t2D digital co-creation": {
+  "label": "3D VR co-creation vs 2D digital co-creation",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D VR co-creation in CoSpaces\t2D digital co-creation in Google Jamboard": {
+  "label": "3D VR co-creation vs 2D digital co-creation",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D VR co-creation over four weeks\t2D digital co-creation over four weeks": {
+  "label": "3D VR co-creation vs 2D digital co-creation",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D VR co-creation using CoSpaces\t2D digital co-creation using Google Jamboard": {
+  "label": "3D VR co-creation vs 2D digital co-creation",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D-printing-enabled learning\tcomparison or baseline condition not specified": {
+  "label": "3D-printing-enabled learning vs no 3D-printing intervention",
+  "treatment_is_a": true
+ },
+ "technology-tool\t5E lessons with App Inventor area-game development\tNo comparison condition reported": {
+  "label": "App Inventor 5E lessons vs no comparison condition",
+  "treatment_is_a": true
+ },
+ "technology-tool\t5E lessons with App Inventor mobile app development\tNo comparison condition reported": {
+  "label": "App Inventor 5E lessons vs no comparison condition",
+  "treatment_is_a": true
+ },
+ "technology-tool\t5E mobile CT-integrated mathematics lessons\tno comparison condition reported": {
+  "label": "Mobile computational-thinking-integrated 5E mathematics lessons vs no comparison condition",
+  "treatment_is_a": true
+ },
+ "technology-tool\t5E mobile CT-integrated mathematics lessons using App Inventor\tno comparison condition reported": {
+  "label": "App Inventor mobile computational-thinking-integrated 5E mathematics lessons vs no comparison condition",
+  "treatment_is_a": true
+ },
+ "technology-tool\t5E mobile CT-integrated mathematics lessons using App Inventor\tnot stated": {
+  "label": "App Inventor mobile computational-thinking-integrated 5E mathematics lessons vs no comparison condition",
+  "treatment_is_a": true
+ },
+ "technology-tool\t5E mobile CT-integrated mathematics lessons using App Inventor\ttraditional formula-driven mathematics teaching": {
+  "label": "App Inventor mobile computational-thinking-integrated 5E mathematics lessons vs traditional formula-driven mathematics teaching",
+  "treatment_is_a": true
+ },
+ "technology-tool\t5E mobile app development activities\tformula-driven mathematics instruction and drilling": {
+  "label": "Mobile app development activities vs formula-driven mathematics instruction and drilling",
+  "treatment_is_a": true
+ },
+ "technology-tool\tACF-based peer assessment with automated corrective feedback\tconventional peer assessment with teacher corrective feedback": {
+  "label": "Automated corrective-feedback peer assessment vs conventional teacher-feedback peer assessment",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI chatbot use for support tasks\tearlier AI-use patterns": {
+  "label": "AI-chatbot support-task use vs earlier AI-use patterns",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI chatbot use to explain concepts, problems, or topics\tAI chatbot use to generate ideas for a paper, project, or assignment": {
+  "label": "AI concept explanation vs AI idea generation",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI chatbot use to generate ideas for a paper, project, or assignment\tAI chatbot use to summarize readings or other texts": {
+  "label": "AI idea generation vs AI text summarization",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI for concept explanation\tAI for completing an entire assignment": {
+  "label": "AI concept explanation vs AI completing an entire assignment",
+  "treatment_is_a": true
  }
 }

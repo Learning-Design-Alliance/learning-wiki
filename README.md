@@ -19,15 +19,15 @@ Page counts are regenerated with every index rebuild.
 | [Principles](principles/) | 170 | Research-backed design commitments: what to do and why. |
 | [Elements](elements/) | 1,057 | Instructional building blocks — the components you compose into patterns. |
 | [Patterns](patterns/) | 54 | Reusable instructional designs at the lesson or unit level. |
-| [Designs](designs/) | 1,309 | Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not. |
+| [Designs](designs/) | 1,310 | Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not. |
 | [Products & Programmes](products/) | 2,265 | Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's. |
-| [Strategies](strategies/) | 7,566 | Concrete teaching activity recipes — specific, implementable approaches. |
+| [Strategies](strategies/) | 7,567 | Concrete teaching activity recipes — specific, implementable approaches. |
 | [Design Processes](processes/) | 18 | How a course gets designed — whole-process models a designer works through, rather than anything a learner meets. |
 | [Design Methods](methods/) | 37 | The practices a design process is made of — analysis, elicitation, mapping and evaluation work done on the design, not in the classroom. |
 | [Research Methods](research-methods/) | 815 | Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed. |
 | [Theories](theories/) | 1,360 | Explanatory frameworks that ground principles and claims. |
 | [Learner Variables](learner-variables/) | 75 | Canonical learner characteristics claims report findings about — one page per variable, so the same concept does not fragment across differently-worded tags. |
-| [Claims](claims/) | 33,698 | Empirical claims with evidence ratings, sources, and competing views. |
+| [Claims](claims/) | 33,701 | Empirical claims with evidence ratings, sources, and competing views. |
 
 <!-- page-counts:end -->
 

@@ -1,7 +1,7 @@
 {
 "counts":{
-"claim":33698,
-"design":1309,
+"claim":33701,
+"design":1310,
 "element":1057,
 "learner-variable":75,
 "method":37,
@@ -10,7 +10,7 @@
 "process":18,
 "product":2265,
 "research-method":815,
-"strategy":7566,
+"strategy":7567,
 "theory":1360
 },
 "kinds":[
@@ -56323,6 +56323,16 @@
 "path":"claims/color-triangle-objective-judgments-unsatisfactory-classification.md",
 "status":"review",
 "title":"Most freshmen's color-triangle aesthetic judgments were of the objective type, and the Bullough-Valentine four-type classification proved unsatisfactory",
+"type":"claim"
+},
+{
+"description":"A controlled comparative study of color versus monochrome television for teaching is nearing completion, with results not yet reported",
+"evidence_strength":"weak",
+"id":"color-vs-monochrome-tv-study-nearing-completion",
+"newest_evidence":"1951",
+"path":"claims/color-vs-monochrome-tv-study-nearing-completion.md",
+"status":"review",
+"title":"A controlled comparative study of color versus monochrome television for teaching is nearing completion, with results not yet reported",
 "type":"claim"
 },
 {
@@ -319959,6 +319969,16 @@
 "type":"claim"
 },
 {
+"description":"Ten Army installations use television for teaching, with five more scheduled within the next year",
+"evidence_strength":"weak",
+"id":"ten-army-installations-use-tv-instruction",
+"newest_evidence":"1951",
+"path":"claims/ten-army-installations-use-tv-instruction.md",
+"status":"review",
+"title":"Ten Army installations use television for teaching, with five more scheduled within the next year",
+"type":"claim"
+},
+{
 "description":"Cross-comparing theory, nine proficiency tests, and 25 coursebook tasks yields ten subskills shared between reading and listening, seven exclusive to reading, and four exclusive to listening",
 "evidence_strength":"weak",
 "id":"ten-common-seven-reading-four-listening-subskills",
@@ -338315,6 +338335,16 @@
 "path":"claims/video-self-observation-powerful-coaching-component.md",
 "status":"review",
 "title":"Video-based self-observation of teaching was among the most powerful parts of the coaching process for teachers",
+"type":"claim"
+},
+{
+"description":"Immediate video tape playback is believed to give new instructors insight into their errors not possible with other existing methods",
+"evidence_strength":"weak",
+"id":"video-tape-playback-instructor-feedback",
+"newest_evidence":"1951",
+"path":"claims/video-tape-playback-instructor-feedback.md",
+"status":"review",
+"title":"Immediate video tape playback is believed to give new instructors insight into their errors not possible with other existing methods",
 "type":"claim"
 },
 {
@@ -357986,6 +358016,14 @@
 "path":"designs/shen-2025-integrated-fc-design-framework.md",
 "status":"review",
 "title":"Integrated flipped classroom design framework combining FL cycles, SRL cycles, and metacognitive FC orientation",
+"type":"design"
+},
+{
+"description":"An experimental production unit built for Army television research on color instruction.",
+"id":"signal-corps-mobile-color-tv-unit",
+"path":"designs/signal-corps-mobile-color-tv-unit.md",
+"status":"review",
+"title":"Signal Corps experimental mobile color television unit",
 "type":"design"
 },
 {
@@ -423322,6 +423360,14 @@
 "type":"strategy"
 },
 {
+"description":"A proposed instructor-training approach in which novice teachers review recordings of their own instruction immediately after teaching.",
+"id":"immediate-video-tape-playback-instructor-training",
+"path":"strategies/immediate-video-tape-playback-instructor-training.md",
+"status":"review",
+"title":"Use immediate video tape playback to give new instructors insight into their teaching errors",
+"type":"strategy"
+},
+{
 "description":"The article lists classroom techniques that its experiment found sufficient for statistically significant skill improvement: situational communication exercises such as language games, interviews, dialogues, and skits...",
 "id":"immersion-classroom-techniques-esl",
 "path":"strategies/immersion-classroom-techniques-esl.md",
@@ -474269,6 +474315,7 @@
 "color-green-red-separate-for-against-arguments":"color-green-red-separate-for-against-arguments",
 "color-naming-halves-not-same-trait":"color-naming-halves-not-same-trait",
 "color-triangle-objective-judgments-unsatisfactory-classification":"color-triangle-objective-judgments-unsatisfactory-classification",
+"color-vs-monochrome-tv-study-nearing-completion":"color-vs-monochrome-tv-study-nearing-completion",
 "colorado-deinstitutionalization-incentives-declined-placements":"colorado-deinstitutionalization-incentives-declined-placements",
 "colorado-local-first-state-supported-model":"colorado-local-first-state-supported-model",
 "colorblind-racism-argument-for-inclusion-contested":"colorblind-racism-argument-for-inclusion-contested",
@@ -500165,6 +500212,7 @@
 "temporary-instructor-presence-no-learning-benefit":"temporary-instructor-presence-no-learning-benefit",
 "temporoparietal-matching-effect-learning-outcome":"temporoparietal-matching-effect-learning-outcome",
 "temptation-partially-mediates-situation-modification-effect":"temptation-partially-mediates-situation-modification-effect",
+"ten-army-installations-use-tv-instruction":"ten-army-installations-use-tv-instruction",
 "ten-common-seven-reading-four-listening-subskills":"ten-common-seven-reading-four-listening-subskills",
 "ten-developmental-experiences-build-character":"ten-developmental-experiences-build-character",
 "ten-elements-from-314-listening-sessions":"ten-elements-from-314-listening-sessions",
@@ -501975,6 +502023,7 @@
 "video-review-scaffolds-self-regulated-learning":"video-review-scaffolds-self-regulated-learning",
 "video-review-structured-reflective-behavior-patterns":"video-review-structured-reflective-behavior-patterns",
 "video-self-observation-powerful-coaching-component":"video-self-observation-powerful-coaching-component",
+"video-tape-playback-instructor-feedback":"video-tape-playback-instructor-feedback",
 "video-treatment-significant-macs-pre-post-gain":"video-treatment-significant-macs-pre-post-gain",
 "video-tutorials-learning-gains-decline-no-condition-effect":"video-tutorials-learning-gains-decline-no-condition-effect",
 "video-tutorials-raise-self-efficacy-no-condition-effect":"video-tutorials-raise-self-efficacy-no-condition-effect",
@@ -504137,6 +504186,7 @@
 "shared-governance-epp-district-residency-partnerships":"shared-governance-epp-district-residency-partnerships",
 "shared-story-reading-definition-features":"shared-story-reading-definition-features",
 "shen-2025-integrated-fc-design-framework":"shen-2025-integrated-fc-design-framework",
+"signal-corps-mobile-color-tv-unit":"signal-corps-mobile-color-tv-unit",
 "signal-pipeline-tool-multimodal-classroom":"signal-pipeline-tool-multimodal-classroom",
 "simlab-modified-change-laboratory-pattern":"simlab-modified-change-laboratory-pattern",
 "simulated-classroom-film-quiz-assessment":"simulated-classroom-film-quiz-assessment",
@@ -512712,6 +512762,7 @@
 "imagine-math-optional-pd-sessions":"imagine-math-optional-pd-sessions",
 "immediate-ai-comparison-after-manual-estimation-pacing":"immediate-ai-comparison-after-manual-estimation-pacing",
 "immediate-feedback-preserves-goal-directed-control":"immediate-feedback-preserves-goal-directed-control",
+"immediate-video-tape-playback-instructor-training":"immediate-video-tape-playback-instructor-training",
 "immersion-classroom-techniques-esl":"immersion-classroom-techniques-esl",
 "immersive-field-trip-as-module-introduction-strategy":"immersive-field-trip-as-module-introduction-strategy",
 "immersive-tech-metacognitive-scaffolding-strategy":"immersive-tech-metacognitive-scaffolding-strategy",

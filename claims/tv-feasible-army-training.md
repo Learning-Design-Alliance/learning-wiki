@@ -53,3 +53,5 @@ The abstracts page reports the over-all result of research on television in army
 - [Live television and television recordings were superior to local instructors in teaching Naval Air Reservists.](tv-instruction-superior-to-local-instructors-naval-reservists.md) — a narrower finding that bears on this claim
 - [Live television and television recordings were about equal in their instructional effectiveness.](live-tv-and-tv-recordings-about-equal-effectiveness.md) — a narrower finding that bears on this claim
 - [Reservists accepted TV instruction, more than half preferring it to conventional classroom instruction](reservists-preferred-tv-to-classroom.md) — a narrower finding that bears on this claim
+- [Ten Army installations use television for teaching, with five more scheduled within the next year](ten-army-installations-use-tv-instruction.md) — a narrower finding that bears on this claim
+- [A controlled comparative study of color versus monochrome television for teaching is nearing completion, with results not yet reported](color-vs-monochrome-tv-study-nearing-completion.md) — related

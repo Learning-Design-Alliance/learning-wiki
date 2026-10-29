@@ -25,7 +25,6 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 1955 · not yet checked against its sources · not reviewed by a person
-> **Design limits** · Evans 1955: the intervention came bundled with another change (read from the study by two models, 2026-10-29)
 
 ## Subclaims
 `q2 i?` T-tests showed no significant differences between the sections in either course in standardized achievement tests. [→ Evans 1955](#evans-1955)

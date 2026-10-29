@@ -16,12 +16,14 @@ sources:
     author: Pala Ferhat Kadir, Erdem Mukaddes
     q: 2
     i: "?"
+    kind: design
+    rigour: 3
 ---
 
 # Item factor loadings in the CFA ranged from 0.42 to 0.79 and were statistically significant by t values
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · design `r3` · `q2`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Pala Ferhat Kadir, Erdem Mukaddes. (2020). Development of a participation style scale for online instructional discussions. Educational Technology Research and Development. https://doi.org/10.1007/s11423-020-09817-x
 
-`q2 · i?`
+`q2 · i?` · `design · r3`
 
 CFA results presented in Fig. 2 show "the factor loadings of the items were between 0.42 and 0.79, and these factor loadings were statistically significant according to the t values." The scale has 32 items with only one loading below 0.50. No effect size is printed.
 

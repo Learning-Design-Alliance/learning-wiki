@@ -12,6 +12,10 @@ This file holds the current month. Earlier months are in `log/YYYY-MM.md`, moved
 
 ## 2026-10-29
 
+* **Ingest**: [strategies/immediate-video-tape-playback-instructor-training](strategies/immediate-video-tape-playback-instructor-training.md) — Ingested from jrnl-cc11f7765275 (Army television research activities) via eval_harness.py + ingest_extractions.py
+* **Ingest**: [claims/video-tape-playback-instructor-feedback](claims/video-tape-playback-instructor-feedback.md) — Ingested from jrnl-cc11f7765275 (Army television research activities) via eval_harness.py + ingest_extractions.py
+* **Ingest**: [claims/color-vs-monochrome-tv-study-nearing-completion](claims/color-vs-monochrome-tv-study-nearing-completion.md) — Ingested from jrnl-cc11f7765275 (Army television research activities) via eval_harness.py + ingest_extractions.py
+* **Ingest**: [claims/ten-army-installations-use-tv-instruction](claims/ten-army-installations-use-tv-instruction.md) — Ingested from jrnl-cc11f7765275 (Army television research activities) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [claims/interaction-type-moderates-perception-learning-performance](claims/interaction-type-moderates-perception-learning-performance.md) — Ingested from jrnl-ffe77f02142e (Assessing the impact of substituting interaction types: an empirical study of the interaction equivalency theory) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [claims/interaction-type-no-moderator-workload-performance](claims/interaction-type-no-moderator-workload-performance.md) — Ingested from jrnl-ffe77f02142e (Assessing the impact of substituting interaction types: an empirical study of the interaction equivalency theory) via eval_harness.py + ingest_extractions.py
 * **Ingest**: [claims/substituting-learner-content-for-learner-learner-no-performance-difference](claims/substituting-learner-content-for-learner-learner-no-performance-difference.md) — Ingested from jrnl-ffe77f02142e (Assessing the impact of substituting interaction types: an empirical study of the interaction equivalency theory) via eval_harness.py + ingest_extractions.py

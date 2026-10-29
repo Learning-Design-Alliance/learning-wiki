@@ -52,3 +52,4 @@ Controlled comparison within the Army basic training evaluation: 14 hours of ins
 - [Live television and television recordings were about equal in their instructional effectiveness.](live-tv-and-tv-recordings-about-equal-effectiveness.md) — related
 - [Army reservists of all grades made statistically significant gains on information tests after viewing instructional telecasts](reservists-significant-gains-tv-telecasts.md) — related
 - [Using television in army training is feasible, according to the summarized research](tv-feasible-army-training.md) — a broader claim this one bears on
+- [Ten Army installations use television for teaching, with five more scheduled within the next year](ten-army-installations-use-tv-instruction.md) — related

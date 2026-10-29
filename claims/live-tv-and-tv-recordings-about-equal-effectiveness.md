@@ -54,3 +54,4 @@ In the same comparative study of Naval Air Reservists, the abstract states "Live
 - [College students taught by television compared favorably with those receiving regular instruction, with attitudes differing only for the on-campus television group](televised-instruction-compared-favorably-college.md) — related
 - [Reservists retained most TV-learned material at retesting, officers 85% and enlisted men 65%](tv-instruction-retention-officers-enlisted.md) — related
 - [Using television in army training is feasible, according to the summarized research](tv-feasible-army-training.md) — a broader claim this one bears on
+- [Ten Army installations use television for teaching, with five more scheduled within the next year](ten-army-installations-use-tv-instruction.md) — related
