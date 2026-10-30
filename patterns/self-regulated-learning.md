@@ -148,7 +148,7 @@ This pattern is scoped to regulation attached to subject-matter tasks over a uni
 - [Meta-learning tasks increased university students' use of self-regulatory strategies when studying (review-reported)](../claims/meta-learning-tasks-increased-self-regulatory-strategies.md) [+W]
 - [Self-regulation training programs have a positive effect on university students' academic performance, strongest when underpinned by metacognitive theory (review-reported)](../claims/self-regulation-training-positive-effect-university.md) [+W]
 - [94% of students used pattern adaptations beyond setting options, with 80% deleting situations, 84% replacing actions/definitions, and 50% adding actions/definitions.](../claims/pattern-adaptation-skill-percentages.md) [~W]
-- [A fully scripted, non-generative conversational agent can effectively deliver structured SRL support at scale](../claims/scripted-agent-delivers-srl-support.md) [+W]
+- [Adding goal-monitoring prompts to a scripted conversational agent's weekly goal-setting raised undergraduates' self-reported goal attainment over reflection-only and goal-setting-only conditions](../claims/scripted-agent-delivers-srl-support.md) [+W]
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

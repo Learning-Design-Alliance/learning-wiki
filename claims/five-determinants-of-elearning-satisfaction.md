@@ -39,7 +39,7 @@ Cidral, W. A., Oliveira, T., Di Felice, M. & Aparicio, M. (2018). E-learning suc
 
 PLS-SEM analysis of the 301-response Brazilian survey; the satisfaction model explains 57.1% of variation, with all five paths statistically significant as reported.
 
-> "The m odel explains 57.1% of the user perceived satisfaction variation. Information quality (=0.368; p<0.001), system quality (=0.189; p<0.050), instructor attitude toward e-learning ( =0.190; p<0.010), diversity in assessment ( =0.141; p<0.010), and learner perceived interaction with ot hers ( =0.103; p<0.050) are statistically significant."
+> "The m odel explains 57.1% of the user perceived satisfaction variation. Information quality (β=0.368; p<0.001), system quality (β=0.189; p<0.050), instructor attitude toward e-learning (β=0.190; p<0.010), diversity in assessment (β=0.141; p<0.010), and learner perceived interaction with ot hers (β=0.103; p<0.050) are statistically significant."
 
 ## Discussion
 

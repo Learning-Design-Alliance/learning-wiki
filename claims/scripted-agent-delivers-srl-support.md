@@ -1,7 +1,7 @@
 ---
 type: claim
-title: A fully scripted, non-generative conversational agent can effectively deliver structured SRL support at scale
-description: A fully scripted, non-generative conversational agent can effectively deliver structured SRL support at scale
+title: Adding goal-monitoring prompts to a scripted conversational agent's weekly goal-setting raised undergraduates' self-reported goal attainment over reflection-only and goal-setting-only conditions
+description: Adding goal-monitoring prompts to a scripted conversational agent's weekly goal-setting raised undergraduates' self-reported goal attainment over reflection-only and goal-setting-only conditions
 id: scripted-agent-delivers-srl-support
 status: review
 generated:
@@ -9,25 +9,27 @@ generated:
   at: 2026-10-30
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-10-30
 sources:
   - id: martins-van-jaarsveld-2025
     resource: "https://doi.org/10.1016/j.compedu.2025.105441"
     title: "Martins van Jaarsveld, G., Wong, J., Baars, M., Specht, M., & Paas, F. (2025). Enhancing goal attainment in higher education with a scripted conversational agent: Effects of monitoring and reflection support in digital learning. Computers and Education. https://doi.org/10.1016/j.compedu.2025.105441"
     author: "Martins van Jaarsveld, G., Wong, J., Baars, M., Specht, M., & Paas, F."
-    q: 2
+    q: 3
     i: "?"
+    n: 84 students
     kind: causal
     rigour: 2
 ---
 
-# A fully scripted, non-generative conversational agent can effectively deliver structured SRL support at scale
+# Adding goal-monitoring prompts to a scripted conversational agent's weekly goal-setting raised undergraduates' self-reported goal attainment over reflection-only and goal-setting-only conditions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Evidence** · 1 study · causal `r2` · `q3` · n=84 students
+> **Currency** · newest study 2025 · checked against its sources 2026-10-30 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` The rule-based agent produced meaningful learning gains (goal attainment) without any generative AI components. [→ Martins van Jaarsveld 2025](#martins-van-jaarsveld-2025)
+`q3 i?` In a randomised trial with 84 undergraduates at one Dutch university, all four conditions set weekly goals with the same scripted, non-generative agent; the two conditions that added goal-monitoring prompts (Monitoring Only, Monitoring & Reflection) reported higher goal attainment than Reflection Only and goal-setting-only Control. Goal attainment was self-reported, and the pairwise contrasts carry p values only. [→ Martins van Jaarsveld 2025](#martins-van-jaarsveld-2025)
 
 ## Evidence
 
@@ -35,11 +37,9 @@ sources:
 
 Martins van Jaarsveld, G., Wong, J., Baars, M., Specht, M., & Paas, F. (2025). Enhancing goal attainment in higher education with a scripted conversational agent: Effects of monitoring and reflection support in digital learning. Computers and Education. https://doi.org/10.1016/j.compedu.2025.105441
 
-`q2 · i?` · `causal · r2`
+`q3 · randomised controlled trial · i? · pairwise contrasts report p values only` · `n=84 students` · `causal · r2`
 
-The authors' interpretation of their RCT results: a finite-state network of 73 dialogue nodes with pre-authored prompts and branching delivered the intervention with identical wording across participants.
-
-> "The present data demonstrate that a simpler, non-generative agent can still produce meaningful learning gains. The structured dialogue alone provides a scalable, low-barrier foundation on which to layer adaptive feedback."
+Randomised controlled trial with 84 bachelor students in social sciences at one Dutch university over five weeks. A scripted, finite-state conversational agent (pre-authored prompts and branching, with feedback selected from a fixed set according to each goal's quality score) delivered weekly goal setting to every participant; conditions differed in whether it added goal-monitoring prompts (Thursday/Friday), reflection prompts (Monday/Tuesday, before the next goal setting), both, or neither (Control). Goal attainment was a weekly self-report on a 5-point scale, not a performance measure. A mixed-design ANOVA found a main effect of condition (F(3, 80) = 10.728, p < .001, η2p = .287 for the four-condition omnibus test); Bonferroni-corrected comparisons showed Monitoring & Reflection and Monitoring Only above Reflection Only and Control, with no difference between the two monitoring conditions or between Reflection Only and Control. Because every condition used the agent, the study tests the added monitoring prompts, not the agent itself; it does not show learning gains (academic performance did not differ) or delivery at scale. The authors' discussion nonetheless reads the result as showing that "a simpler, non-generative agent can still produce meaningful learning gains."
 
 ## Discussion
 

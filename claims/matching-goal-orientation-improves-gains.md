@@ -48,7 +48,7 @@ Empirical evaluation study with learners aged between 9 and 11 years using moEco
 - [Achievement Goal Orientation](../learner-variables/achievement-goal-orientation.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
-- [Less able learners made the greatest learning gains with Ecolab II metacognitive scaffolding](ecolab-ii-less-able-greatest-gains.md) — related
+- [In the Ecolab II evaluation, less able learners made the greatest learning gains](ecolab-ii-less-able-greatest-gains.md) — related
 - [Goal orientation affects children's help-seeking behaviour in Ecolab II](goal-orientation-affects-help-seeking-ecolab-ii.md) — related
 - [Personalized learning systems and recommender algorithms support effective AI-powered collaborative learning through tailored content and peer matching](ai-personalization-recommenders-support-collaborative-learning.md) — related
 - [WOZ I showed a descriptive pre-to-post improvement in students' programming ability, with no statistical significance calculated](woz1-descriptive-programming-gain-no-significance.md) — related

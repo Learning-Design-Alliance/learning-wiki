@@ -45,7 +45,7 @@ Mixed-design ANOVA on weekly self-reported goal attainment in an RCT with 84 und
 
 
 ## Related Claims
-- [A fully scripted, non-generative conversational agent can effectively deliver structured SRL support at scale](scripted-agent-delivers-srl-support.md) — related
+- [Adding goal-monitoring prompts to a scripted conversational agent's weekly goal-setting raised undergraduates' self-reported goal attainment over reflection-only and goal-setting-only conditions](scripted-agent-delivers-srl-support.md) — related
 - [Neither time nor the condition-by-time interaction significantly affected goal attainment over the five-week intervention](no-time-or-interaction-effect-goal-attainment.md) — related
 - [The monitoring and reflection intervention had no significant effect on post-intervention academic performance](no-academic-performance-effect.md) — related
-- [SRL skills increased over time across all conditions, with no significant differences between conditions](srl-skills-increase-all-conditions.md) — related
+- [Self-reported SRL questionnaire scores rose over a five-week goal-setting intervention in all conditions, with no differences between conditions](srl-skills-increase-all-conditions.md) — related

@@ -46,4 +46,4 @@ Classroom evaluation of three Ecolab versions (VIS, WIS, NIS) with pre and post 
 
 
 ## Related Claims
-- [Less able learners made the greatest learning gains with Ecolab II metacognitive scaffolding](ecolab-ii-less-able-greatest-gains.md) — related
+- [In the Ecolab II evaluation, less able learners made the greatest learning gains](ecolab-ii-less-able-greatest-gains.md) — related

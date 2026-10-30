@@ -10,7 +10,7 @@ This wiki is written by language models, from published research, and checked by
 |---|---|
 | Claims | 34,526, from 8,578 sources |
 | Reviewed by a person | 0 |
-| Every evidence entry compared with its source by the faithfulness judge | 5,443 claims (16%) |
+| Every evidence entry compared with its source by the faithfulness judge | 5,448 claims (16%) |
 | Claims citing at least one DOI | 26,713 claims (77%) |
 | Sources whose citations went through the Crossref identity gate | 7,923 of 8,578 |
 | Sources read for impossible statistics and invented references | 6,251 of 7,135 (2026-10-25) |
@@ -59,7 +59,7 @@ A second model, from a different provider, reads each evidence entry beside the 
 
 **Cannot catch.** A claim checked only against an abstract, for detail an abstract does not carry. The judge is a model and has been wrong; its failures are read before they are acted on.
 
-**Coverage.** 5,443 claims (16%) have had every evidence entry compared with its source and passed; 162 judge failures were read and recorded with a reason. Each claim states this on its page, in its *Currency* line.
+**Coverage.** 5,448 claims (16%) have had every evidence entry compared with its source and passed; 162 judge failures were read and recorded with a reason. Each claim states this on its page, in its *Currency* line.
 
 ### 6. Can the source be believed?
 
@@ -75,7 +75,7 @@ Also added 2026-10-25, from the same audit's most common findings. For each caus
 
 **Cannot catch.** Problems the paper does not report. The judge reads only what the study says about itself.
 
-**Coverage.** causal entries on AI claims: 1,319 of 1,319 judged (2026-10-25); found unit 108, isolation 96, comparison 71. every causal entry: 7,568 of 7,638 judged (2026-10-25); found isolation 488, unit 337, comparison 295. 1,392 findings read and acted on.
+**Coverage.** causal entries on AI claims: 1,319 of 1,319 judged (2026-10-25); found unit 108, isolation 96, comparison 71. every causal entry: 7,568 of 7,638 judged (2026-10-25); found isolation 488, unit 337, comparison 295. 1,394 findings read and acted on.
 
 ### 8. Evidence codes
 

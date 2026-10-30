@@ -47,5 +47,5 @@ One-way ANOVA on weighted semester grades in the same RCT found no significant c
 ## Related Claims
 - [Monitoring support delivered via a scripted conversational agent significantly improves goal attainment compared with reflection-only and control conditions](monitoring-improves-goal-attainment.md) — related
 - [A daily learning diary alone (Group D) did not produce statistically significant pre-post gains on any measured outcome in an online mathematics preparation course](learning-diary-alone-no-significant-srl-gains-online-math-prep-course.md) — related
-- [SRL skills increased over time across all conditions, with no significant differences between conditions](srl-skills-increase-all-conditions.md) — related
+- [Self-reported SRL questionnaire scores rose over a five-week goal-setting intervention in all conditions, with no differences between conditions](srl-skills-increase-all-conditions.md) — related
 - [Training in critical-reflective thinking produced no change on the Cognitive Reflection Test](no-crt-effect-of-training.md) — related

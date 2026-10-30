@@ -45,5 +45,5 @@ Findings from the exploratory evaluation of Ecolab I conducted with a class of c
 
 
 ## Related Claims
-- [Less able learners made the greatest learning gains with Ecolab II metacognitive scaffolding](ecolab-ii-less-able-greatest-gains.md) — reports the opposite
+- [In the Ecolab II evaluation, less able learners made the greatest learning gains](ecolab-ii-less-able-greatest-gains.md) — reports the opposite
 - [GenAI can support learner agency through self-regulated learning, self-efficacy, and feedback literacy under appropriate conditions](genai-agency-supportive-patterns.md) — related

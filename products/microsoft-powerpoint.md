@@ -30,4 +30,4 @@ Microsoft PowerPoint is Microsoft's presentation-authoring software, used to cre
 - [WorldWide Telescope](worldwide-telescope.md)
 
 ## Key Sources
-- Jones, I. (2008). Storyboarding: A method for bootstrapping the design of computer-based educational tasks. https://dspace.lboro.ac.uk/
+- Jones, I. (2008). Storyboarding: A method for bootstrapping the design of computer-based educational tasks. https://doi.org/10.1016/j.compedu.2008.01.002

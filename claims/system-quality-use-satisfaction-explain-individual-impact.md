@@ -39,7 +39,7 @@ Cidral, W. A., Oliveira, T., Di Felice, M. & Aparicio, M. (2018). E-learning suc
 
 PLS-SEM results for the individual impact outcome in the Brazilian survey; satisfaction had the largest path coefficient, and the model explains 52.5% of variation.
 
-> "Finally, the model explains 52.5% of the individual impact variation. System quality ( =0.173; p<0.050), use ( =0.153; p<0.010), and user perceived satisfaction ( =0.433; p<0.001) are statistically significant."
+> "Finally, the model explains 52.5% of the individual impact variation. System quality (β=0.173; p<0.050), use (β=0.153; p<0.010), and user perceived satisfaction (β=0.433; p<0.001) are statistically significant."
 
 ## Discussion
 

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-30
 evidence_strength: moderate
 newest_evidence: 2019
+source_checked: 2026-10-30
 sources:
   - id: degli-innocenti-2019
     resource: "https://doi.org/10.1016/j.compedu.2019.04.010"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-10-30 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students learning music genres through mobile VR showed statistically significant improvement in genre characterization (typical instruments and their spatial arrangements on stage) compared to traditional lessons with printed materials and passive listening. [→ Degli Innocenti 2019](#degli-innocenti-2019)

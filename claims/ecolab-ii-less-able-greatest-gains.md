@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Less able learners made the greatest learning gains with Ecolab II metacognitive scaffolding
-description: Less able learners made the greatest learning gains with Ecolab II metacognitive scaffolding
+title: In the Ecolab II evaluation, less able learners made the greatest learning gains
+description: In the Ecolab II evaluation, less able learners made the greatest learning gains
 id: ecolab-ii-less-able-greatest-gains
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2016
+source_checked: 2026-10-30
 sources:
   - id: rosemary-luckin-benedict-du-boulay-2016
     resource: "https://doi.org/10.1007/s40593-015-0072-x"
@@ -20,14 +21,14 @@ sources:
     rigour: 2
 ---
 
-# Less able learners made the greatest learning gains with Ecolab II metacognitive scaffolding
+# In the Ecolab II evaluation, less able learners made the greatest learning gains
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-10-30 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` In the Ecolab II evaluation, less able learners made the greatest learning gains, suggesting less able learners respond well to interactive systems offering appropriately challenging tasks and effective support. [→ Rosemary Luckin & Benedict du Boulay 2016](#rosemary-luckin-benedict-du-boulay-2016)
+`q2 i?` In a retrospective account of the Ecolab work, the authors report that in the Ecolab II results, unlike the original Ecolab evaluation, less able learners made the greatest learning gains, and read this as suggesting that less able learners respond well to interactive systems offering appropriately challenging tasks and effective support; the statement is not tied to the metacognitive-scaffolding condition, and no effect size is given. [→ Rosemary Luckin & Benedict du Boulay 2016](#rosemary-luckin-benedict-du-boulay-2016)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Rosemary Luckin & Benedict du Boulay. (2016). Reflections on the Ecolab and the 
 
 `q2 · i?` · `design · r2`
 
-Evaluation of Ecolab II in which separate groups of learners used the software either with or without metacognitive scaffolding. The article notes this contrasted with the original Ecolab evaluation where low-ability NIS users had higher gains.
+A reflective review article by the Ecolab designers, summarising their earlier studies. After describing an evaluation in which separate groups used Ecolab II with or without metacognitive scaffolding (Luckin and Hammerton 2002), and comparing it with the original Ecolab evaluation (where low-ability learners gained most with the version that had no scaffolding), it states that "an interesting feature of the results from two empirical studies was that this time less able learners made the greatest learning gains". The statement speaks of the results generally and does not attribute the finding to the metacognitive-scaffolding version or compare conditions; no ability-group statistics or effect sizes are reported here.
 
 > "An interesting feature of the results from two empirical studies was that this time less able learners made the greatest learning gains. This finding suggests that less able learners respond well to interactive systems that offer appropriately challenging tasks and effective support to ensure that success is achieved."
 

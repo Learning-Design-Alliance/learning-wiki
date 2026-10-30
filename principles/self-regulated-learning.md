@@ -258,9 +258,9 @@ Gains in strategy knowledge, self-reported regulation, self-efficacy, study time
 - [Meta-learning tasks increased university students' use of self-regulatory strategies when studying (review-reported)](../claims/meta-learning-tasks-increased-self-regulatory-strategies.md) [+W]
 - [Self-regulation training programs have a positive effect on university students' academic performance, strongest when underpinned by metacognitive theory (review-reported)](../claims/self-regulation-training-positive-effect-university.md) [+W]
 - [The integrated training program increased total reported self-regulated learning utterances, specifically planning, monitoring, reflective evaluation, and error analysis, but not orientation, adjusting, positive evaluation, or evaluation of learning and performance](../claims/integrated-training-increases-srl-utterances-selectively.md) [+W]
-- [A fully scripted, non-generative conversational agent can effectively deliver structured SRL support at scale](../claims/scripted-agent-delivers-srl-support.md) [+W]
+- [Adding goal-monitoring prompts to a scripted conversational agent's weekly goal-setting raised undergraduates' self-reported goal attainment over reflection-only and goal-setting-only conditions](../claims/scripted-agent-delivers-srl-support.md) [+W]
 - [The monitoring and reflection intervention had no significant effect on post-intervention academic performance](../claims/no-academic-performance-effect.md) [-W]
-- [SRL skills increased over time across all conditions, with no significant differences between conditions](../claims/srl-skills-increase-all-conditions.md) [~W]
+- [Self-reported SRL questionnaire scores rose over a five-week goal-setting intervention in all conditions, with no differences between conditions](../claims/srl-skills-increase-all-conditions.md) [~W]
 
 ## Related Principles
 - [Goal Setting & Monitoring](goal-setting-monitoring.md)

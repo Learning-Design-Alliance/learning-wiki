@@ -49,7 +49,7 @@ Log analysis from an empirical study with Ecolab II investigating how mastery an
 - [Achievement Goal Orientation](../learner-variables/achievement-goal-orientation.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Less able learners made the greatest learning gains with Ecolab II metacognitive scaffolding](ecolab-ii-less-able-greatest-gains.md) — related
+- [In the Ecolab II evaluation, less able learners made the greatest learning gains](ecolab-ii-less-able-greatest-gains.md) — related
 - [Matching system goal-orientation feedback to child's goal orientation may improve learning gains](matching-goal-orientation-improves-gains.md) — related
 - [Learning-oriented intentions did not significantly predict enacted in-chat behavior; only selecting final solutions predicted executive and answer-seeking requests](intent-enactment-gap-genai-help-seeking.md) — related
 - [Specific goals show distinct directional effects: mastery approach and relational goals predict positive affect, beneficial help attitudes, and teaching quality, while work avoidance and appearance avoidance goals predict poorer outcomes.](specific-goal-directional-effects-on-outcomes.md) — related

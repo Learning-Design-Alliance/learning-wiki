@@ -93373,13 +93373,14 @@
 "type":"claim"
 },
 {
-"description":"Less able learners made the greatest learning gains with Ecolab II metacognitive scaffolding",
+"description":"In the Ecolab II evaluation, less able learners made the greatest learning gains",
 "evidence_strength":"weak",
 "id":"ecolab-ii-less-able-greatest-gains",
 "newest_evidence":"2016",
 "path":"claims/ecolab-ii-less-able-greatest-gains.md",
+"source_checked":"2026-10-30",
 "status":"review",
-"title":"Less able learners made the greatest learning gains with Ecolab II metacognitive scaffolding",
+"title":"In the Ecolab II evaluation, less able learners made the greatest learning gains",
 "type":"claim"
 },
 {
@@ -201092,6 +201093,7 @@
 "id":"mobile-vr-improves-music-genre-characterization-learning",
 "newest_evidence":"2019",
 "path":"claims/mobile-vr-improves-music-genre-characterization-learning.md",
+"source_checked":"2026-10-30",
 "status":"review",
 "title":"Mobile VR-based music genre learning improves genre characterization learning compared to traditional lessons with printed materials and passive listening",
 "type":"claim"
@@ -281695,13 +281697,14 @@
 "type":"claim"
 },
 {
-"description":"A fully scripted, non-generative conversational agent can effectively deliver structured SRL support at scale",
+"description":"Adding goal-monitoring prompts to a scripted conversational agent's weekly goal-setting raised undergraduates' self-reported goal attainment over reflection-only and goal-setting-only conditions",
 "evidence_strength":"moderate",
 "id":"scripted-agent-delivers-srl-support",
 "newest_evidence":"2025",
 "path":"claims/scripted-agent-delivers-srl-support.md",
+"source_checked":"2026-10-30",
 "status":"review",
-"title":"A fully scripted, non-generative conversational agent can effectively deliver structured SRL support at scale",
+"title":"Adding goal-monitoring prompts to a scripted conversational agent's weekly goal-setting raised undergraduates' self-reported goal attainment over reflection-only and goal-setting-only conditions",
 "type":"claim"
 },
 {
@@ -302785,13 +302788,14 @@
 "type":"claim"
 },
 {
-"description":"SRL skills increased over time across all conditions, with no significant differences between conditions",
+"description":"Self-reported SRL questionnaire scores rose over a five-week goal-setting intervention in all conditions, with no differences between conditions",
 "evidence_strength":"moderate",
 "id":"srl-skills-increase-all-conditions",
 "newest_evidence":"2025",
 "path":"claims/srl-skills-increase-all-conditions.md",
+"source_checked":"2026-10-30",
 "status":"review",
-"title":"SRL skills increased over time across all conditions, with no significant differences between conditions",
+"title":"Self-reported SRL questionnaire scores rose over a five-week goal-setting intervention in all conditions, with no differences between conditions",
 "type":"claim"
 },
 {
@@ -311260,6 +311264,7 @@
 "id":"students-oppose-ai-videos-replacing-instructors",
 "newest_evidence":"2026",
 "path":"claims/students-oppose-ai-videos-replacing-instructors.md",
+"source_checked":"2026-10-30",
 "status":"review",
 "title":"Students oppose preferring AI videos over instructor-recorded videos and distrust AI video information as much as human-presented information",
 "type":"claim"

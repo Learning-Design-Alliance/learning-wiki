@@ -41,7 +41,7 @@ Cidral, W. A., Oliveira, T., Di Felice, M. & Aparicio, M. (2018). E-learning suc
 
 Survey of 301 valid responses from Brazilian higher education students analyzed with PLS structural equation modeling using 5,000 bootstrap resamples; the model "explains 32.2% of the e-learning use variation" with the three significant paths reported.
 
-> "The model explains 32.2% of the e-learning use variation. Collaboration quality ( =0.370; p<0.001), information quality ( =0.189; p<0.050), and user perceived satisfaction (=0.150; p<0.010) are statistically significant."
+> "The model explains 32.2% of the e-learning use variation. Collaboration quality (β=0.370; p<0.001), information quality (β=0.189; p<0.050), and user perceived satisfaction (β=0.150; p<0.010) are statistically significant."
 
 ## Discussion
 

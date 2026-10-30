@@ -57,7 +57,7 @@ A web-based training on self-regulated learning that "can be attended by virtual
 - [Individual treatment organization and delivery form significantly moderate scaffold effects; classroom settings and Web-based environments show the largest effects](../claims/delivery-organization-environment-moderators.md) [+W]
 - [In the SRL-AIDE group, MCS explicitness showed a larger pre-post gain (d = 2.08) than KC explicitness (d = 1.03), and SRL-AIDE's KC gain exceeded the comparison group's (d = 1.03 vs d = 0.31)](../claims/mcs-explicitness-effect-size-d208.md) [+W]
 - [Treatment group assignment does not affect final exam grades, but performance in the e-learning sessions predicts exam scores](../claims/session-performance-predicts-exam-no-treatment-effect.md) [~W]
-- [SRL skills increased over time across all conditions, with no significant differences between conditions](../claims/srl-skills-increase-all-conditions.md) [-W]
+- [Self-reported SRL questionnaire scores rose over a five-week goal-setting intervention in all conditions, with no differences between conditions](../claims/srl-skills-increase-all-conditions.md) [-W]
 
 ## The evidence by question
 

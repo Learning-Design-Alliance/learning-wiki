@@ -9,8 +9,8 @@ generated:
   at: 2026-10-30
 sources:
   - id: jones-2008
-    resource: "https://dspace.lboro.ac.uk/"
-    title: "Jones, I. (2008). Storyboarding: A method for bootstrapping the design of computer-based educational tasks. https://dspace.lboro.ac.uk/"
+    resource: "https://doi.org/10.1016/j.compedu.2008.01.002"
+    title: "Jones, I. (2008). Storyboarding: A method for bootstrapping the design of computer-based educational tasks. https://doi.org/10.1016/j.compedu.2008.01.002"
     author: Jones, I
 ---
 
@@ -50,4 +50,4 @@ The outcome of the bootstrapping process was a diagnostic computer-based task fo
 -
 
 ## Key Sources
-- Jones, I. (2008). Storyboarding: A method for bootstrapping the design of computer-based educational tasks. https://dspace.lboro.ac.uk/
+- Jones, I. (2008). Storyboarding: A method for bootstrapping the design of computer-based educational tasks. https://doi.org/10.1016/j.compedu.2008.01.002

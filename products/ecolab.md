@@ -25,7 +25,7 @@ Ecolab is a software learning environment developed by Rosemary Luckin and colla
 ### Claims
 
 - [Children who interacted with multiple complexity phases and completed above-average actions were far more likely to achieve above-average learning gains](../claims/ecolab-multi-phase-above-average-gains-odds-ratio.md) [+W]
-- [Less able learners made the greatest learning gains with Ecolab II metacognitive scaffolding](../claims/ecolab-ii-less-able-greatest-gains.md) [+W]
+- [In the Ecolab II evaluation, less able learners made the greatest learning gains](../claims/ecolab-ii-less-able-greatest-gains.md) [+W]
 - [Less able and less knowledgeable learners are ineffective at selecting challenging tasks and seeking support](../claims/less-able-learners-ineffective-task-selection.md) [+W]
 - [VIS version of Ecolab produced greatest average improvement in test scores but was not most successful for all ability groups](../claims/ecolab-vis-greatest-average-gains-not-uniform.md) [+W]
 - [Matching system goal-orientation feedback to child's goal orientation may improve learning gains](../claims/matching-goal-orientation-improves-gains.md) [+W]
