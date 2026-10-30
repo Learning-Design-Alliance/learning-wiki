@@ -46,7 +46,7 @@ The commentary's re-analysis, using TRANSFER as the chosen outcome variable acro
 
 ## Related Claims
 - [The Xie et al. (2018) disfluency meta-analysis contained objective coding errors that reversed the reported direction of two primary studies' effects](xie-2018-disfluency-meta-analysis-coding-errors.md) — related
-- [Misclassification of moderating variables in the Xie et al. (2018) meta-analysis decreases the trustworthiness of its moderator analysis](xie-2018-moderator-misclassification.md) — a narrower finding that bears on this claim
-- [Several RECALL effect sizes in the Xie et al. (2018) meta-analysis could not be reproduced, and one reported value (−0.639) is inconsistent with the primary study's data](xie-2018-recall-effect-sizes-unreproducible.md) — possibly the same claim (merge candidate)
+- Misclassification of moderating variables in the Xie et al. (2018) meta-analysis decreases the trustworthiness of its moderator analysis — a narrower finding that bears on this claim
+- Several RECALL effect sizes in the Xie et al. (2018) meta-analysis could not be reproduced, and one reported value (−0.639) is inconsistent with the primary study's data — possibly the same claim (merge candidate)
 - [Publication-bias assessments substantially reduce the intercept prediction, often indicating no positive transfer when the identified moderators are absent](publication-bias-reduces-intercept-no-transfer-without-moderators.md) — related
-- [Robustness checks with fixed-effect and first-difference models reproduce the three-way interaction; continuous-time growth curve modelling does not](robustness-checks-three-way-interaction.md) — related
+- Robustness checks with fixed-effect and first-difference models reproduce the three-way interaction; continuous-time growth curve modelling does not — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: mixed
 newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: conway-2025
     resource: "https://doi.org/10.1038/s41539-025-00359-6"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Evidence exists for all three proposed age accounts (age-invariance, childhood superiority, adult superiority), weakening the robustness of each; developmental changes are further complicated by modality- and stimulus-specific effects. [→ Conway 2025](#conway-2025)

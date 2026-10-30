@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1924
+recheck_by: 1927
 sources:
   - id: frank-n-freeman-1924
     resource: "https://psycnet.apa.org/search?q=Freeman%20Toronto%20Meeting%20Journal%20of%20Educational%20Psychology"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
-> **Currency** · newest study 1924 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1924 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1927**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` J. W. Bridges maintained that prevailing correlations were so low that intelligence tests are of much less use in college for classification or other administrative use than is popularly thought. [→ Frank N. Freeman 1924](#frank-n-freeman-1924)
@@ -47,4 +48,4 @@ Meeting report of Bridges' critical discussion of intelligence testing of colleg
 ## Related Claims
 - [Alpha predicts academic standing better in Agriculture (r = .54) than in Arts or Engineering, and subtest patterns vary by college](alpha-correlation-varies-by-college.md) — a narrower finding that bears on this claim
 - [Prior studies show low and variable correlations between mental tests and college grades, averaging from .09 to .44](caldwell-1919-prior-test-grade-correlations-low.md) — a broader claim this one bears on
-- [Sleight's teacher-training and administration chapter is only partly factual](sleight-teacher-training-chapter-partially-factual.md) — related
+- Sleight's teacher-training and administration chapter is only partly factual — related

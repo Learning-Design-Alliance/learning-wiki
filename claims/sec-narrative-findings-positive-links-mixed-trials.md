@@ -65,6 +65,6 @@ Narrative synthesis of six teacher-targeted trials (three mindfulness-based, two
 
 ## Related Claims
 - [At domain level, teachers' responsible decision-making shows the largest observed relationship with students' SEC, and students' relationship skills the strongest with teachers' SEC](sec-domain-specific-associations-casel.md) — related
-- [The 32 included studies were predominantly quantitative and cross-sectional, with questionnaire sample sizes ranging from 17 to 815 students](ahs-pst-study-design-profile.md) — related
-- [The reviewed evidence base is predominantly cross-sectional, with small self-report-heavy teacher samples](teacher-empathy-evidence-base-cross-sectional.md) — related
+- The 32 included studies were predominantly quantitative and cross-sectional, with questionnaire sample sizes ranging from 17 to 815 students — related
+- The reviewed evidence base is predominantly cross-sectional, with small self-report-heavy teacher samples — related
 - [Empathy's association with student outcomes, especially cognitive achievement, is weakest and largely non-significant](teacher-empathy-student-outcomes-weakest.md) — related

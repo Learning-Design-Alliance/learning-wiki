@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 253 claims (114 for, 127 mixed, 12 against) · 187 studies (60 associational, 50 causal, 27 review, 17 quant-synthesis, 15 theoretical, 9 qualitative, 9 design), `q1`–`q4` · 44 of 187 report an effect size · 237 claims rest on one study
+> **Evidence** · 252 claims (114 for, 126 mixed, 12 against) · 187 studies (60 associational, 50 causal, 27 review, 17 quant-synthesis, 15 theoretical, 9 qualitative, 9 design), `q1`–`q4` · 44 of 187 report an effect size · 236 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -275,7 +275,6 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [The three-phase model received partial support with weak self-report–behaviour correspondence in fifth graders' mobile vocabulary learning](../claims/partial-support-three-phase-model-weak-selfreport-links.md) [~W]
 - [In a self-regulated MOOC, spacing study across more sessions predicts higher unit quiz performance within participants](../claims/self-regulated-spacing-predicts-mooc-quiz-performance.md) [~W]
 - [Outcome, shift, and transform goal conditions produce higher self-efficacy than the process goal condition in exoskeleton-assisted boccia practice](../claims/outcome-shift-transform-goals-higher-self-efficacy-than-process.md) [+W] — attached 2026-10-26 from Tsuda et al. (2026), which proposed "Four goal structures (process, outcome, shift, transform) adapted from Zimmerman's framework for robot-assisted motor learning".
-- [SRL theory was the most prominent theoretical foundation in AI-SRL studies, appearing in 4 of 14 studies](../claims/srl-theory-most-prominent-in-ai-srl-studies.md) [~W]
 - [In the performance phase, AI tools helped learners organize tasks and supported metacognitive monitoring, but sometimes inaccurately reflected tasks and lacked in-depth responses](../claims/ai-performance-phase-benefits-and-drawbacks.md) [~W]
 - [Implementation intentions did not affect final exam performance, whereas prior performance strongly predicted exam grade](../claims/implementation-intentions-no-exam-performance-effect.md) [-W]
 - [Students frequently used on-demand help ineffectively, and raw help frequency correlated negatively with learning gains](../claims/ineffective-help-seeking-log-data-findings.md) [~W]

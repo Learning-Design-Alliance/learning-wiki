@@ -27,7 +27,8 @@ A research-informed set of teacher-administered tasks and procedures developed b
 - [No comparable teacher-friendly instrument for assessing oracy existed before the Cambridge Oracy Assessment Toolkit](../claims/no-comparable-teacher-friendly-oracy-instrument.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Emergent writing assessment battery of conceptual, procedural, and generative subtests for preschoolers](emergent-writing-assessment-battery-of-conceptual-procedural-and-generative-subtests-for-p.md)
 
 ## Key Sources
 - Mercer, N, Warwick, Paul, & Ahmed, A. (2016). An oracy assessment toolkit: Linking research and development in the assessment of students' spoken language skills at age 11-12. Learning and Instruction. https://doi.org/10.1016/j.learninstruc.2016.10.005

@@ -17,7 +17,7 @@ sources:
 # Implement successive relearning regularly in university courses using digital delivery
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article recommends regular classroom implementation, stating that "successive relearning is a valuable addition to any university course and is easy to implement using digital resources." In the study, students received email links to weekly online practice consisting of fill-in-the-blank questions with corrective feedback, mastery and dropout, in three sessions per week separated by two days.
@@ -50,7 +50,6 @@ The article recommends regular classroom implementation, stating that "successiv
 - [Aggregate judgments of learning shift from lower under relearning to higher under relearning across the three sessions](../claims/relearning-ajol-reversal-across-sessions.md) [+W]
 - [Anxious affect and self-rated mastery start worse for relearning but reverse in favour of relearning by the third session](../claims/relearning-anxiety-mastery-reversal.md) [+W]
 - [Self-rated attentional control improves for relearning relative to restudying from the second session onward](../claims/relearning-attentional-control-gains.md) [+W]
-- [Total exposure time per session was significantly lower in the relearn condition than in the restudy condition, ruling out an exposure confound](../claims/relearning-exposure-time-controlled.md) [+W]
 - [First-pass recall accuracy rises while trials-to-criterion and exposure duration fall across the three weekly relearning sessions](../claims/relearning-session-gains-recall-trials-exposure.md) [+W]
 
 ## Related Strategies

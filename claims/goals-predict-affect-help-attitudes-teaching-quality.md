@@ -67,6 +67,6 @@ Comparing a model with freely varying regression paths against one with paths re
 - [Achievement Goal Orientation](../learner-variables/achievement-goal-orientation.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [The ten-goal structure is completely invariant across instructor status groups, but groups differ in mean goal levels.](goal-structure-invariant-status-groups-differ-in-means.md) — related
+- The ten-goal structure is completely invariant across instructor status groups, but groups differ in mean goal levels. — related
 - [Specific goals show distinct directional effects: mastery approach and relational goals predict positive affect, beneficial help attitudes, and teaching quality, while work avoidance and appearance avoidance goals predict poorer outcomes.](specific-goal-directional-effects-on-outcomes.md) — related
-- [Learning avoidance goals are separable from learning approach goals in university instructors.](learning-avoidance-separable-from-learning-approach.md) — related
+- Learning avoidance goals are separable from learning approach goals in university instructors. — related

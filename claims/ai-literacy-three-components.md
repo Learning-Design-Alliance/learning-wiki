@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: ning-wang-james-lester-2023
     resource: "https://doi.org/10.1007/s40593-023-00358-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q1 i?` AI literacy has three components: understanding AI capabilities, utilizing AI for problem solving, and applying AI in sociocultural contexts. [→ Ning Wang · James Lester 2023](#ning-wang-james-lester-2023)

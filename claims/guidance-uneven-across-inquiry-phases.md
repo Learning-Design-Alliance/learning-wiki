@@ -50,8 +50,8 @@ This is a finding the response article attributes to Zacharia et al.'s (2015) li
 - [ChatGPT applications in STEAM IBL cluster in the investigation, conceptualization and discussion phases, leaving orientation and conclusion largely unexplored](chatgpt-ibl-phase-coverage-imbalance.md) — related
 - [Systematic review identifies five distinct general inquiry phases: Orientation, Conceptualization, Investigation, Conclusion, and Discussion](five-general-inquiry-phases-identified.md) — related
 - [No existing framework in the reviewed literature combined all identified inquiry phases and sub-phases, prompting development of a synthesized framework](no-existing-framework-combining-all-inquiry-phases.md) — related
-- [Chatterjee (2020) calls for more investigations into how CoSIL environment design supports student learning, including in-depth review of existing tools](chatterjee-cosil-design-investigations.md) — related
+- Chatterjee (2020) calls for more investigations into how CoSIL environment design supports student learning, including in-depth review of existing tools — related
 - [West et al. (2020) provide value-added guidance examples for each CoSIL phase, addressing three phases that lacked sufficient guidance examples](west-cosil-phase-guidance-examples.md) — a narrower finding that bears on this claim
 - [Zhai (2021) proposes machine learning methods to increase CoSIL personalization without creating additional burdens to teachers](machine-learning-personalize-cosil-guidance.md) — related
 - [Leveraging appropriate types of guidance during the relevant phases of inquiry benefits student inquiry in virtual and remote labs](phase-appropriate-guidance-benefits-inquiry-labs.md) — related
-- [The body of literature on guidance for inquiry with virtual and remote labs has weaknesses exposed by the 2015 review](weaknesses-in-guidance-inquiry-labs-literature.md) — a broader claim this one bears on
+- The body of literature on guidance for inquiry with virtual and remote labs has weaknesses exposed by the 2015 review — a broader claim this one bears on

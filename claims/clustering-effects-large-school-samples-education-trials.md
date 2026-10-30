@@ -79,6 +79,6 @@ The paper's empirical analysis of statistical power for education experiments fi
 - [In a large-scale 106-classroom cluster randomized trial, Building Blocks raised end-of-intervention REMA scores with an effect size of 0.48 (improvement index +18)](building-blocks-clements-2011-scale-up-effect.md) — related
 - [In a 28-classroom cluster randomized trial, Building Blocks raised end-of-intervention REMA scores with an effect size of 1.07 (improvement index +36)](building-blocks-clements-2008-large-effect.md) — related
 - [The WWC Adolescent Literacy review rates PALS as having potentially positive effects on reading comprehension from one trial of students averaging 9.8 years old, with an effect size of 0.48 that is not statistically significant when adjusted for clustering](pals-potentially-positive-comprehension-effect-adolescent.md) — related
-- [Most studies of literacy resilience have (very) small sample sizes and low statistical power to find relevant effects](literacy-resilience-studies-low-statistical-power.md) — related
-- [The study was adequately powered only for medium-to-large effects on the critical three-way interaction](power-limited-three-way-interaction.md) — related
-- [The study was powered to detect effect sizes from d = 0.34 to 0.65 across the five tasks, so smaller effects would not have been reliably detected](power-analysis-detectable-effect-sizes-034-to-065.md) — related
+- Most studies of literacy resilience have (very) small sample sizes and low statistical power to find relevant effects — related
+- The study was adequately powered only for medium-to-large effects on the critical three-way interaction — related
+- The study was powered to detect effect sizes from d = 0.34 to 0.65 across the five tasks, so smaller effects would not have been reliably detected — related

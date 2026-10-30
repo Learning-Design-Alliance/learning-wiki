@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: joost-c-f-de-winter-2024
     resource: "https://doi.org/10.1007/s40593-023-00372-z"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` For Exam 1, students averaged 63.0% (SD = 10.5%) and 67.7% (SD = 12.0%) on the questions GPT-4 answered inconsistently or incorrectly, versus 75.8% (SD = 12.7%) and 75.3% (SD = 13.2%) on the remaining questions. [→ Joost C. F. de Winter 2024](#joost-c-f-de-winter-2024)

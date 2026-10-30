@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: buckley-2026
     resource: "https://doi.org/10.1007/s10648-026-10149-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Single-paper meta-analysis of mental rotation performance across US, Irish, and Austrian adolescent samples reveals a medium gender difference favouring boys, apparent from the beginning of adolescence. [→ Buckley 2026](#buckley-2026)

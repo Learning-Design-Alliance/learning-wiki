@@ -17,7 +17,7 @@ sources:
 # Diagnostic-then-reinforcement flow with hint and No Answer options as metacognitive axis
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (1 causal, 1 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article's core pedagogical pattern is a flow chart in which a first diagnostic multiple-choice question (correct answer, at least three incorrect answers, a NA option, and a hint option) routes students: correct answers advance to the next concept; incorrect or NA answers trigger a tutoring process with theory and exercises of progressive difficulty; the hint option displays a theoretical orientation followed by a second diagnostic question of similar difficulty. The article states that "Both hint and NA answer options constitute the metacognitive axis of the model since they allow learners to reflect on whether they have adequate control over the concepts to be reinforced."
@@ -39,7 +39,9 @@ The article's core pedagogical pattern is a flow chart in which a first diagnost
 - metacognitive self-assessment
 
 ### Claims
-- 
+
+- [POED diagnostic feedback led students to read supplementary materials after incorrect answers and then answer correctly, while POEE students repeated errors](../claims/poed-diagnostic-feedback-drives-supplementary-material-use.md) [+M]
+- [Process mining shows low performers access solutions more and transition to hints after incorrect submissions more than high performers](../claims/process-mining-transitions-differ-by-quartile.md) [+W]
 
 ## Related Designs
 - 

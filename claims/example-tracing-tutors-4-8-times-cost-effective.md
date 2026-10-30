@@ -45,6 +45,6 @@ The article's abstract states "Creating example-tracing tutors was shown to be 4
 
 
 ## Related Claims
-- [Model-tracing/cognitive tutors and example-tracing tutors are the predominant ITS types designed with authoring tools, together accounting for almost 40% of included studies](model-tracing-example-tracing-dominant-authored-types.md) — related
+- Model-tracing/cognitive tutors and example-tracing tutors are the predominant ITS types designed with authoring tools, together accounting for almost 40% of included studies — related
 - [CTAT-built example-tracing tutors have been used by approximately 44,000 students and account for 40% of the data sets in DataShop.](example-tracing-tutors-44000-students-40-percent-datashop.md) — related
 - [CTAT-built example-tracing tutors have been shown to be effective in helping students learn in real educational settings, often with large pre/post effect sizes.](example-tracing-tutors-effective-real-settings-large-effect-sizes.md) — related

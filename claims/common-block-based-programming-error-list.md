@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: chrysanthos-socratous-2021
     resource: "https://doi.org/10.1007/s11423-021-10056-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The study identified a list of programming errors commonly made by students in both the structured and unstructured groups. [→ Chrysanthos Socratous 2021](#chrysanthos-socratous-2021)

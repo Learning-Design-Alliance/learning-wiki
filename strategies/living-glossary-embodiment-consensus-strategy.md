@@ -17,7 +17,7 @@ sources:
 # Develop a community-maintained living glossary of embodiment terminology on an open-science platform
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 2 studies (2 theoretical), `q1` · 0 of 2 report an effect size · 5 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 2 studies (2 theoretical), `q1` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The authors call for interdisciplinary working groups and a white-paper-style consensus process to develop "a living glossary (and, where appropriate, an open ontology) hosted on an open-science platform" such as a version-controlled repository like GitHub or OSF. The resource should use open contribution workflows, provide citable versioned releases, record synonyms, exclusions, and hierarchical relations in machine-readable form, and include epistemic provenance metadata, scope notes, and mapping fields for non-equivalent terms.
@@ -40,10 +40,8 @@ The authors call for interdisciplinary working groups and a white-paper-style co
 
 ## Claims
 
-- [Embodiment research lacks a shared vocabulary, with over 20 distinct labels for embodiment-related concepts appearing in the last decade](../claims/embodiment-terminology-fragmentation-over-twenty-labels.md) [+W]
 - [Loose use of movement-based learning language risks conflating evidence-based embodied learning with debunked neuromyths](../claims/embodiment-terminology-neuromyth-conflation-risk.md) [+W]
 - [Fragmented vocabularies bias AI-mediated literature retrieval toward the user's home discipline](../claims/fragmented-vocabularies-bias-ai-retrieval.md) [+W]
-- [Inconsistent embodiment labels cause functionally similar experiments to go uncited across disciplines, hindering meta-analysis](../claims/terminology-silos-uncited-parallel-experiments.md) [+W]
 - [Educational ontologies are rarely used in practical e-learning platforms, mainly due to cost, complexity, integration, performance, and scalability problems, which ontology reuse can partially overcome](../claims/ontology-adoption-barriers-practical-elearning.md) [~W]
 
 ## Related Strategies

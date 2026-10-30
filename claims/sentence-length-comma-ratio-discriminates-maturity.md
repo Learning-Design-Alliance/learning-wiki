@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2002
+recheck_by: 2005
 sources:
   - id: ce-holdich-2002
     resource: "http://creativecommons.org/licenses/by-nc-nd/2.5/"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2005**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Dividing mean sentence length by the number of clause-demarcating commas discriminated between middle and higher attainment levels, with smaller figures indicating more frequent and secure comma use at higher levels. [→ C.E. Holdich 2002](#ce-holdich-2002)

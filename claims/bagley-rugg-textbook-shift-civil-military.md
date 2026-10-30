@@ -64,5 +64,7 @@ The reviewer's summary of the same textbook comparison across the nine-period sc
 
 
 ## Related Claims
+
 - [Horn found modern-problems books concentrate overwhelmingly on 1861–1916 and on social and economic topics, unlike elementary history texts](horn-modern-problems-vs-textbook-emphasis.md) — related
-- [Bagley and Rugg's 'Hall of Fame' analysis ranks frequency of public men in school history textbooks, with Lincoln first in civil life and Washington first in military affairs](hall-of-fame-textbook-frequency-rankings.md) — related
+- Bagley and Rugg's 'Hall of Fame' analysis ranks frequency of public men in school history textbooks, with Lincoln first in civil life and Washington first in military affairs — related
+- [Content analysis of twenty-nine school readers found poetry constituted fifty-one per cent of all selections](poetry-fifty-one-percent-primary-reader-selections.md)

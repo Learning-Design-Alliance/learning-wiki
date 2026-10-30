@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1911
+recheck_by: 1914
 sources:
   - id: huey-1911
     resource: "https://en.wikisource.org/wiki/The_Binet_Scale_for_Measuring_Intelligence_and_Retardation"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
-> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1914**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The Binet norms may need revision when applied to other social classes and regions because they were derived from Paris working-class children. [→ Huey 1911](#huey-1911)

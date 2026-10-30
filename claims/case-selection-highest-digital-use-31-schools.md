@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: schmid-2023
     resource: "https://doi.org/10.1007/s11423-022-10167-z"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: local conditions change quickly
 
 ## Subclaims
 `q2 i?` The study's multiple-case sampling identified the three schools with the most frequent classroom digital technology use from a 31-school student questionnaire sample. [→ Schmid 2023](#schmid-2023)
@@ -45,4 +46,7 @@ Sampling procedure of the multiple-case study, part of the Swiss perLen project 
 
 
 ## Related Claims
+
 - [In Type A schools, digital technology is used selectively according to individual teacher preference](type-a-selective-teacher-preference-digital-use.md) — related
+- [In Type B schools, digital technology is used selectively according to individual student preference](type-b-selective-student-preference-digital-use.md)
+- [In Type C schools, digital technology is used systematically according to a school-wide strategy](type-c-structural-school-wide-digital-use.md)

@@ -51,5 +51,5 @@ Theoretical argument in the report's abstract and introduction, citing the Natio
 - [Lack of standardised AI reporting undermines reproducibility, peer review, meta-analysis, and impact](unstandardised-ai-reporting-harms-reproducibility-and-review.md) — related
 - [Relational trust and rapid-response adaptation help research-practice partnerships survive acute disruption](rpp-adaptive-practices-sustain-partnerships-during-disruption.md) — related
 - [Much student-consultation activity embeds unwitting manipulation of students rather than genuine voice](student-consultation-embeds-unwitting-manipulation.md) — related
-- [The authors argue researchers should collaborate more closely with teachers, administrators, and other practitioners in tackling educational problems](collaborate-closely-with-practitioners.md) — possibly the same claim (merge candidate)
-- [The authors argue the field should conduct educational design research to address serious problems related to teaching, learning, and performance](conduct-educational-design-research-serious-problems.md) — related
+- The authors argue researchers should collaborate more closely with teachers, administrators, and other practitioners in tackling educational problems — possibly the same claim (merge candidate)
+- The authors argue the field should conduct educational design research to address serious problems related to teaching, learning, and performance — related

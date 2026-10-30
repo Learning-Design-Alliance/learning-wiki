@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2017
+recheck_by: 2020
 sources:
   - id: wiley-2017
     resource: "https://doi.org/10.1007/s40593-017-0138-z"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` COPY negatively predicts explanation quality but shows no significant effect on IVT. [→ Wiley 2017](#wiley-2017)

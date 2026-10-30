@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: test-boredom-while-working-on-difficult-versus-easy-tasks-online-supplementary-materials-2022
     resource: "https://www.google.com/search?q=%22Test+Boredom+While+Working+on+Difficult+Versus+Easy+Tasks%22"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The authors did not use manipulation trials as performance measures because doing so would have violated WAIS-III administration guidelines and prevented valid standardized scoring. [→ Test Boredom While Working on Difficult Versus Easy Tasks: Online Supplementary Materials 2022](#test-boredom-while-working-on-difficult-versus-easy-tasks-online-supplementary-materials-2022)

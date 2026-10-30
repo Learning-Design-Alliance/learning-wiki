@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: schroeder-2025
     resource: "https://osf.io/nraxf/?view_only=879654690be249cc9237525ed7f86ec2"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Across all main-study analyses, precision was consistently high (0.89–0.95) while recall was substantially lower (0.58–0.88), and confusion matrices showed models were more likely to extract inaccurate data than to claim information was not reported. [→ Schroeder 2025](#schroeder-2025)

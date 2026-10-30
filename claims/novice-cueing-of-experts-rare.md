@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: weak
 newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: christine-c-a-van-nooijen-bjorn-b-de-koning-wichor-m-bramer-anna-isahakyan-maryam-asoodar-ellen-kok-jeroen-j-g-van-merrienboer-fred-paas-2024
     resource: "https://doi.org/10.1007/s10648-024-09848-3"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Active verbal cueing was largely a one-way phenomenon: in Deken et al.'s design consultations, novice information seeking made up only 8% of observations and declined as the design became more defined. [→ Christine C. A. van Nooijen · Bjorn B. de Koning · Wichor M. Bramer · Anna Isahakyan · Maryam Asoodar · Ellen Kok · Jeroen J. G. van Merrienboer · Fred Paas 2024](#christine-c-a-van-nooijen-bjorn-b-de-koning-wichor-m-bramer-anna-isahakyan-maryam-asoodar-ellen-kok-jeroen-j-g-van-merrienboer-fred-paas-2024)

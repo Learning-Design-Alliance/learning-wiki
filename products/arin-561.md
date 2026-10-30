@@ -25,7 +25,9 @@ ARIN-561 is an educational game developed by Leitner et al. that uses an escape-
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [RETAIN design and evaluation model for educational games](retain-design-and-evaluation-model-for-educational-games.md)
+- [GAME: generic automated marking environment for programming assignments](game-generic-automated-marking-environment-for-programming-assignments.md)
 
 ## Key Sources
 - H. Chad Lane. (2023). Commentary for the International Journal of Artificial Intelligence in Education Special Issue on K-12 AI Education. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-023-00359-w

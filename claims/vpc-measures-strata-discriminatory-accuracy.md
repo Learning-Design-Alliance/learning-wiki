@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: weak
 newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: keller-2023
     resource: "https://doi.org/10.1007/s10648-023-09733-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` A high VPC indicates strata are useful for understanding individual differences in outcomes, while a VPC of 0 indicates strata are not relevant. [→ Keller 2023](#keller-2023)
@@ -45,6 +46,6 @@ Definitional/interpretive statement in the exposition of the simple intersection
 
 
 ## Related Claims
-- [In the PISA 2018 German illustration, students were assigned to 40 intersectional strata with sample sizes ranging from 3 to 512](pisa-germany-40-strata-sample-sizes.md) — a narrower finding that bears on this claim
-- [A systematic review identified 21 publications applying intersectional MAIHDA analysis, primarily in the health sciences](systematic-review-21-intersectional-maihda-studies.md) — related
+- In the PISA 2018 German illustration, students were assigned to 40 intersectional strata with sample sizes ranging from 3 to 512 — a narrower finding that bears on this claim
+- A systematic review identified 21 publications applying intersectional MAIHDA analysis, primarily in the health sciences — related
 - [Precision-weighted shrinkage in MAIHDA yields reliable conservative estimates for small strata and helps solve the multiple-testing problem](maihda-shrinkage-small-strata-advantages.md) — related

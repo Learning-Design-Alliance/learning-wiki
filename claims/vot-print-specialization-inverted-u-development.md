@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: chyl-2021
     resource: "https://doi.org/10.1038/s41539-020-00081-5"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Cortical sensitivity to print in left vOT correlates with the rate of reading improvement in elementary school children. [→ Chyl 2021](#chyl-2021)

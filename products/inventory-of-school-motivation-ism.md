@@ -25,7 +25,8 @@ A school-motivation measurement instrument developed by McInerney and used to as
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Multiple-Text Strategy Inventory (MTSI)](multiple-text-strategy-inventory-mtsi.md)
 
 ## Key Sources
 - Bembenutty, H., Liem, G.A.D., Allen, K.A., King, R.B., Martin, A.J., Marsh, H.W., Craven, R.G., Kaplan, A., Schunk, D.H., DiBenedetto, M.K., & Datu, J.A.D. (2023). Culture, Motivation, Self-Regulation, and the Impactful Work of Dennis M. McInerney. Educational Psychology Review. https://doi.org/10.1007/s10648-023-09743-3

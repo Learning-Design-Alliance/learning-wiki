@@ -65,4 +65,4 @@ The review's stated limitation: the correlations are based on cross-sectional da
 
 ## Related Claims
 - [Screen time is not significantly associated with white matter microstructure (FA, MD) in 10-year-olds, while sports participation is positively associated with FA](screen-time-null-white-matter-children.md) — reports the opposite
-- [Prior structural brain-wide association studies of arithmetic skills used small samples (n = 11 to n = 59), risking inflated, hard-to-replicate effects](small-sample-bwas-arithmetic-underpowered.md) — related
+- Prior structural brain-wide association studies of arithmetic skills used small samples (n = 11 to n = 59), risking inflated, hard-to-replicate effects — related

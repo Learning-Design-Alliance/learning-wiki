@@ -10,6 +10,7 @@ generated:
 evidence_strength: moderate
 newest_evidence: 1914
 source_checked: 2026-10-24
+recheck_by: 1917
 sources:
   - id: zimmerman-1914
     resource: "https://psycnet.apa.org/journal/edu"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1914 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 1914 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 1917**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The findings of the Binet-Simon and Point Scale tests run parallel until age ten, so both scales are reliable for children aged ten or below. [→ Zimmerman 1914](#zimmerman-1914)

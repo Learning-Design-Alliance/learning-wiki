@@ -45,5 +45,5 @@ Numerical regrouping of the Yerkes monograph data for 53 ten-year-olds: the same
 
 
 ## Related Claims
-- [Generalizations about group differences drawn from modal values have no sound statistical value](modal-value-generalizations-no-statistical-value.md) — a broader claim this one bears on
-- [Changing class-interval size to eight places the boys' and girls' modes in the same interval, removing the reported modal sex difference entirely](mode-difference-vanishes-with-wider-intervals.md) — related
+- Generalizations about group differences drawn from modal values have no sound statistical value — a broader claim this one bears on
+- Changing class-interval size to eight places the boys' and girls' modes in the same interval, removing the reported modal sex difference entirely — related

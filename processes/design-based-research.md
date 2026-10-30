@@ -15,7 +15,7 @@ grain_size: course
 # Design-Based Research
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 18 claims (16 for, 2 mixed) · 13 studies (6 design, 2 review, 2 theoretical, 1 causal, 1 associational, 1 qualitative), `q1`–`q3` · 1 of 13 report an effect size · 18 claims rest on one study
+> **Evidence** · 12 claims (11 for, 1 mixed) · 11 studies (6 design, 1 causal, 1 review, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q3` · 1 of 11 report an effect size · 12 claims rest on one study
 
 ## Description
 Design-based research (DBR) develops an educational intervention and a theory together. The designer-researcher builds the intervention in a real teaching and learning setting, tests it, revises it, and tests it again. Each revision is a small experiment, and what is learned is meant to improve the design and contribute to theory about learning. Christensen and West's review trace it to Brown (1992) and Collins (1990, 1992), who took Herbert Simon's call in *The Sciences of the Artificial* for a rigorous science of designed things and applied it to classrooms.
@@ -73,15 +73,9 @@ Borrowing from interdisciplinary design research, Christensen and West recommend
 - [Design-based research is important for the development of technology-enhanced learning environments](../claims/dbr-importance-for-tele-development.md) [+W]
 - [In Quebec's Remote Networked School initiative, teacher collaborative design proved to be relevant, feasible, and sustainable despite systemic limits](../claims/rns-collaborative-design-relevant-feasible-sustainable.md) [+W]
 - [Research questions are rarely conceived in partnership with practitioners, which undermines research impact on educational decision making](../claims/research-questions-rarely-designed-with-practitioners.md) [+W]
-- [Close collaboration between researchers and practitioners was prominent in all 18 reviewed design research projects](../claims/close-collaboration-prominent-in-all-projects.md) [+W]
 - [Nearly all reviewed projects reported anchoring designed solutions in research from literature or in-house project data](../claims/designs-anchored-in-literature-or-project-data.md) [+W]
 - [Collaboration increases design effort significantly, especially between teachers and project members](../claims/collaboration-increases-design-effort.md) [~W]
-- [All reviewed articles indicated research fed (re)design, but few specified how](../claims/research-feeds-redesign-but-few-specify-how.md) [+W]
-- [Practitioner involvement was high in design and implementation but less so in knowledge production](../claims/practitioner-involvement-high-in-design-less-in-knowledge-production.md) [~W]
-- [Special-issue frameworks argue for design-thinking-based and originary theory development in learning design and technology](../claims/design-thinking-and-originary-theory-development.md) [+W]
 - [Teachers perceived the co-design process as beneficial for collaboration, ownership, professional development, and material quality](../claims/teachers-positive-perception-codesign-ai-materials.md) [+W]
-- [The authors argue researchers should collaborate more closely with teachers, administrators, and other practitioners in tackling educational problems](../claims/collaborate-closely-with-practitioners.md) [+W]
-- [The authors argue the field should conduct educational design research to address serious problems related to teaching, learning, and performance](../claims/conduct-educational-design-research-serious-problems.md) [+W]
 - [Academic achievement improved across iterations with significant treatment, group and interaction effects, and the HIL environment outperformed both MIL and NIL by the third iteration](../claims/achievement-hil-outperformed-mil-nil.md) [+W]
 - [A four-phase DBR process with 25 teachers across three Swedish municipalities produced three tailored EasyVis dashboards over one year](../claims/dbr-four-phase-mlad-development-25-teachers.md) [+W]
 

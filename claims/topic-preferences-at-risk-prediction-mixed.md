@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: mixed
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: erwin-daniel-lópez-zapata-2025
     resource: "https://doi.org/10.1007/s40593-025-00478-6"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In week 1 of course A-2019, out-of-class topic preferences achieved a significantly higher AUC than traditional representations, while in-class AUC and both F-score comparisons showed no significant difference. [→ Erwin Daniel López Zapata 2025](#erwin-daniel-lopez-zapata-2025)

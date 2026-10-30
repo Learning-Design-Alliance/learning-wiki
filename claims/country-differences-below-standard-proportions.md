@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: aymee-alvarez-rivero-2023
     resource: "https://doi.org/10.1038/s41539-023-00191-w"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i1` small
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i1` Canadian teachers reported lower percentages of students performing below standards (F(1; 904) = 7.23, p = 0.007, η2 = 0.01) and higher proportions above standards (F(1; 905) = 37.54, p < 0.001, η2 = 0.03) than US teachers. [→ Aymee Alvarez-Rivero 2023](#aymee-alvarez-rivero-2023)

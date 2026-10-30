@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: beverly-woolf-2022
     resource: "https://doi.org/10.1007/s40593-022-00299-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q1 i?` A special-issue study of students' propensity to consent to learning analytics found that consent and institutional trust differ for underrepresented minorities. [→ Beverly Woolf 2022](#beverly-woolf-2022)

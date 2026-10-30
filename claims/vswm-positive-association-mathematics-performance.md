@@ -46,7 +46,7 @@ Quantitative synthesis of 35 independent studies, each converted to a correlatio
 
 ## Related Claims
 - [Participant age shows no significant correlation with VSWM–mathematics effect sizes](participant-age-no-correlation-effect-size.md) — a narrower finding that bears on this claim
-- [Smaller sample sizes are associated with larger VSWM–mathematics effect sizes](smaller-samples-larger-effect-sizes.md) — related
+- Smaller sample sizes are associated with larger VSWM–mathematics effect sizes — related
 - [Studies using a standardised mathematics measure yield significantly larger VSWM–mathematics effect sizes](standardised-math-measure-larger-effect-sizes.md) — a narrower finding that bears on this claim
 - [Standardised and non-standardised VSWM measures perform equally in relating VSWM to mathematics performance](standardised-vswm-measure-no-advantage.md) — a narrower finding that bears on this claim
 - [Type of VSWM assessed (simultaneous, sequential, or both) shows only a marginally non-significant influence on effect sizes](vswm-type-marginally-non-significant.md) — related

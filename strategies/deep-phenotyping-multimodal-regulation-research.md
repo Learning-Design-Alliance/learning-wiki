@@ -17,7 +17,7 @@ sources:
 # Adopt integrative, longitudinal, multimodal deep-phenotyping designs combining self-report, behavioural tasks, ecological momentary assessment, and physiological measures
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The review's future-directions section recommends that progress depends on "the adoption of integrative, longitudinal, and multimodal designs that assess regulation competencies, neurophysiological processes, and social well -being outcomes within the same adolescents". Deep-phenotyping would allow regulation to be examined as a dynamic capability unfolding across contexts and developmental time rather than a static attribute. The review also suggests machine-learning and predictive modelling to integrate multimodal indicators and identify latent profiles of risk and resilience.
@@ -41,7 +41,6 @@ The review's future-directions section recommends that progress depends on "the 
 
 ## Claims
 
-- [Neurophysiological measures are markedly underrepresented in research on at-risk adolescent regulation and, when used, are deployed as adjunctive indicators concentrated in specific clinical risk profiles](../claims/neurophysiological-measures-underrepresented-adjunctive.md) [+W]
 
 ## Related Strategies
 

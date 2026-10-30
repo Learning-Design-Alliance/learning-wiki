@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 316 claims (134 for, 159 mixed, 23 against) · 240 studies (92 associational, 61 design, 31 review, 25 theoretical, 22 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 20 of 240 report an effect size · 309 claims rest on one study
+> **Evidence** · 313 claims (133 for, 157 mixed, 23 against) · 237 studies (89 associational, 61 design, 31 review, 25 theoretical, 22 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 20 of 237 report an effect size · 306 claims rest on one study
 
 ## Conditional relationship
 
@@ -333,7 +333,6 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Group average memory span scores remain nearly identical across days while individual scores vary considerably](../claims/group-averages-stable-individuals-vary.md) [+W]
 - [Thorndike Scale Alpha appears to test comprehension of the questions as much as comprehension of the passage read](../claims/thorndike-scale-alpha-questions-not-passage.md) [+W]
 - [Intercorrelations among analyzed trait ratings show a spread of the general impression, and their size varies extremely with the rating method, from central tendencies of 0.3 to 0.9](../claims/trait-rating-spread-method-variable-intercorrelations.md) [~W]
-- [Five judges classifying 63 test units reached average inter-judge correlation of 0.542 ± 0.019 on the two scales](../claims/judge-agreement-classifying-test-units-scales.md) [~W]
 - [SEEQ-S class-average ratings show strong aggregation reliability and high internal consistency, with somewhat lower internal consistency for TEEQ-S](../claims/seeq-s-class-mean-reliability-iccs-omega.md) [+W]
 - [The student growth measure used as criterion is supported by a substantial correlation with course grades (r = .68) reported in prior work](../claims/student-growth-measure-grade-correlation-prior-work.md) [+W]
 - [The Binet-Simon scale accurately graded fairly minute individual differences in mental ability within same-age groups, as validated against teacher and principal judgments](../claims/binet-simon-grades-individual-differences.md) [~W]
@@ -375,7 +374,6 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Prior machine learning research on reflection detection covers only partial models with no evidence of empirical validity and mostly no reported inter-rater reliability](../claims/prior-ml-reflection-research-fragmented-unvalidated.md) [-W]
 - [The scoring models showed no meaningful demographic bias in pairwise standardized mean differences or mixed-effects prediction error analysis](../claims/no-meaningful-demographic-bias-naep-scoring-models.md) [+W]
 - [Linear regression shows automated grade predicts manual grade (R² = 0.829)](../claims/regression-automated-predicts-manual-grade-r2-0829.md) [~W]
-- [The three human experts showed significantly high Pearson and Spearman correlations in their individual novelty scores before consensus scoring](../claims/high-expert-inter-rater-correlation-novelty.md) [+W]
 - [Cross-prompt finetuning of a pre-finetuned 8B LLM on 50 instances per prompt achieves average QWK of 0.85, comparable to professional human graders (0.87)](../claims/cross-prompt-finetuning-8b-human-level.md) [~W]
 - [Automated assessment marks show very strong positive correlation with expert tutor marks on search algorithm exercises](../claims/automated-assessment-agrees-with-tutors-search-algorithms.md) [+W]
 - [The two human raters of ASAP D7 showed an average inter-rater agreement of 0.60 QWK across rubrics, with rubric-level agreements ranging from 0.46 (Ideas–Conventions) to 0.79 (Ideas–Organization)](../claims/d7-human-rater-agreement-qwk-060.md) [~W]
@@ -383,7 +381,6 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [The introduction reports that deep learning and NLP techniques predicted fine-grained rubric scores of student essays with success well beyond the agreement level between two human raters](../claims/deep-learning-essay-scoring-beyond-human-rater-agreement.md) [~W]
 - [The three LLMs showed fair inter-model agreement on the AAMC SJT, agreeing most strongly on incorrect answers](../claims/llm-fair-agreement-same-errors-aamc-sjt.md) [~W]
 - [Misclassified assessments cluster near placement cut scores](../claims/misclassifications-cluster-near-cut-scores.md) [~W]
-- [Most proposed constructs showed high internal consistency (Cronbach's alpha above 0.70) but control variables did not and were removed](../claims/scale-reliability-alphas-control-variables-removed.md) [~W]
 - [ADA accessibility items were the most difficult and impacted the POET-O's construct validity](../claims/poet-o-ada-items-difficult-impact-validity.md) [~W]
 - [An automated scoring engine matched experienced human markers yet was rejected over the confidentiality-explainability conflict](../claims/crase-scoring-equivalent-to-human-markers-rejected.md) [~W]
 - [A communication and collaboration subscale was generated but could not be validated in the studied sample](../claims/unvalidated-communication-collaboration-subscale.md) [~W]

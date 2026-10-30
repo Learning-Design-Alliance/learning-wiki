@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1911
+recheck_by: 1916
 sources:
   - id: baldwin-1911
     resource: "https://psycnet.apa.org"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1916**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Retesting 82 children by the Binet tests (1911 revision) after one year showed an average gain in rank of one year for normal children (deviation .26) and .5 of a year for the 40 mental defectives (deviation .31). [→ Baldwin 1911](#baldwin-1911)

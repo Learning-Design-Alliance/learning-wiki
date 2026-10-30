@@ -67,4 +67,4 @@ Sensitivity meta-regression including the outlier study (Gumus & Atalmis, 2011) 
 - [Gender did not significantly moderate relationships between social functioning and academic development in preschoolers](gender-does-not-moderate-social-academic-relations.md) — related
 - [Educational stage significantly moderates the digital reading-comprehension association: negative at primary and middle school, positive at high school and university](educational-stage-moderates-digital-reading-comprehension.md) — related
 - [Leisure digital reading habits show a small positive association with reading comprehension (r = .055), much smaller than for print reading habits](leisure-digital-reading-small-positive-comprehension-association.md) — related
-- [Most school-based intensive longitudinal studies collect data digitally (65.3%), and paper-and-pencil use has decreased significantly since 2020](ilm-digital-data-collection-majority.md) — related
+- Most school-based intensive longitudinal studies collect data digitally (65.3%), and paper-and-pencil use has decreased significantly since 2020 — related

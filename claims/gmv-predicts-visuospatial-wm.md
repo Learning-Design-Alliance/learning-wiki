@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: zhang-2024
     resource: "https://doi.org/10.1038/s41539-024-00270-6"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i2` A GMV-based predictive model for visuospatial WM (spatial recall subtest) was significant (r = 0.3435) and overlapped in regions with both arithmetic predictive models. [→ Zhang 2024](#zhang-2024)

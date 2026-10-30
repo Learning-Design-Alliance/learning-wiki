@@ -72,5 +72,5 @@ Narrative account of the Klepsch et al. (2017) validation using informed and na�
 - [GCL-raising activations did not improve learning outcomes: neither prompted imagination nor disfluency produced a significant task-performance advantage](gcl-activation-no-task-performance-effect.md) — related
 - [Self-reported intrinsic and germane cognitive load correlate positively among college students solving algebra problems](intrinsic-and-germane-cognitive-load-correlate-positively-in-algebra.md) — related
 - [Prior knowledge correlates negatively with delayed ICL and ECL and positively with delayed GCL, consistent with meta-analytic findings](prior-knowledge-correlates-with-load-types.md) — related
-- [In the new questionnaire, ICL and ECL correlate positively while both correlate negatively with GCL](icl-ecl-positive-gcl-negative-correlations.md) — related
+- In the new questionnaire, ICL and ECL correlate positively while both correlate negatively with GCL — related
 - [Currently available multidimensional cognitive load questionnaires show psychometric limitations, including missing manipulation-check experiments and too few items per factor](psychometric-limitations-existing-clt-questionnaires.md) — a broader claim this one bears on

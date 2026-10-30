@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: francesco-pupillo-2023
     resource: "https://doi.org/10.1038/s41539-023-00166-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: local conditions change quickly
 
 ## Subclaims
 `q3 i3` Participants performed worse at the recognition test in Experiment 2 compared to Experiment 1, but the PE × outcome effect did not differ between experiments. [→ Francesco Pupillo 2023](#francesco-pupillo-2023)

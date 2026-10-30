@@ -17,7 +17,7 @@ sources:
 # Use consensus processes, editorial strategies, and institutional policies to make theory integration impactful
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 against) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends concerted community efforts to overcome fragmentation, modeled on consensus conferences in medicine such as the DSM process, to reach agreement on construct definitions and terms. It further recommends that editors solicit and reserve space for integration publications and that institutions weight integration work in hiring, tenure, and promotion decisions, as already done for open science practices.
@@ -38,7 +38,6 @@ The article recommends concerted community efforts to overcome fragmentation, mo
 
 ## Claims
 
-- [Generating integrative frameworks can paradoxically increase rather than reduce the number of theoretical models](../claims/integration-paradox-increases-model-count.md) [-W]
 
 ## Related Strategies
 

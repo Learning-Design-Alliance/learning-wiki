@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2013
+recheck_by: 2018
 sources:
   - id: kimiko-ryokai-2013
     resource: "https://doi.org/10.1007/s11423-012-9278-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The average tracking threshold across 31 children was Level 5, corresponding to tracking 1 target among 2 distractors, with no significant effect of age on threshold. [→ Kimiko Ryokai 2013](#kimiko-ryokai-2013)

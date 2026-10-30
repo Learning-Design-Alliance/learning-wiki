@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: alshehri-2021
     resource: "https://doi.org/10.1007/s40593-021-00246-2"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Feature-importance analysis showed the run number was the most representative factor for 'The Mind is Flat', second for 'Shakespeare' and 'Babies in Mind', and fourth and seventh for 'Supply Chains' and 'Big Data'. [→ Alshehri 2021](#alshehri-2021)

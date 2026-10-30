@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: fabian-santiago-muñoz-2025
     resource: "https://doi.org/10.1007/s40593-025-00502-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Pre-admission data from 2018–2022 contain sufficient information to identify early patterns of dropout or course failure, providing institutions a practical tool for retention interventions. [→ Fabian Santiago-Muñoz 2025](#fabian-santiago-munoz-2025)

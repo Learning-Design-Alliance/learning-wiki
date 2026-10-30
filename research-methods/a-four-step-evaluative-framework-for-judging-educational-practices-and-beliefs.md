@@ -24,7 +24,8 @@ The editorial describes a shared evaluation process modeled by every article in 
 ### Claims
 
 ## Related Research Methods
--
+
+- [Nacu et al.'s ten educator roles heuristic evaluation framework](nacu-et-als-ten-educator-roles-heuristic-evaluation-framework.md)
 
 ## Key Sources
 - Andrew C. Butler & Shana K. Carpenter. (2015). Separating Myth from Reality in Education: Introduction to the Special Issue. Educational Psychology Review. https://doi.org/10.1007/s10648-015-9344-0

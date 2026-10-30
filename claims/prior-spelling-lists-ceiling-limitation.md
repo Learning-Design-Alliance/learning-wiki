@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1910
+recheck_by: 1913
 sources:
   - id: starch-1910
     resource: "https://eric.ed.gov/?q=The+Measurement+of+Efficiency+in+Spelling"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1913**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The author argues that Ayres' ten-word-per-grade lists are unreliable for individual pupils and too easy for better pupils, and that in the eighth grade more than half of pupils can spell all words in Buckingham's lists correctly. [→ Starch 1910](#starch-1910)

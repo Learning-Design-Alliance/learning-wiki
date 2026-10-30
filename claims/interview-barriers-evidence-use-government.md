@@ -51,4 +51,4 @@ Phase 2 qualitative interviews with thought leaders and experts in evaluation, d
 - [Integrating governance criteria and regulatory frameworks into CA-supported LO assessment enhanced decision-making effectiveness](governance-integration-enhances-ca-decision-making.md) — a narrower finding that bears on this claim
 - Many local school districts lack research personnel to evaluate program efficacy or investigate best practices because of tight budgets — related
 - [Insufficient data systems, LCFF funding limits, transportation barriers, and child welfare capacity constraints impede coordinated support for students in foster care](foster-care-coordination-challenges.md) — related
-- [Decision-makers cite barriers to using research: research takes too long relative to fast technology change, and institutions view their students and faculty as unique](barriers-research-timing-and-context-uniqueness.md) — a narrower finding that bears on this claim
+- Decision-makers cite barriers to using research: research takes too long relative to fast technology change, and institutions view their students and faculty as unique — a narrower finding that bears on this claim

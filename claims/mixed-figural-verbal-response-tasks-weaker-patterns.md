@@ -46,4 +46,4 @@ Meta-analytic synthesis within the systematic review of 52 studies, analyzing ta
 
 ## Related Claims
 - [Developmental patterns are less pronounced for the originality subdimension of creativity in open-ended fragmenting tasks](originality-subdimension-less-pronounced-development.md) — a narrower finding that bears on this claim
-- [The creativity research body shows a varied picture of measurement, with open-ended integrating and open-ended fragmenting tasks most frequently used](varied-creativity-measurement-open-ended-tasks-frequent.md) — related
+- The creativity research body shows a varied picture of measurement, with open-ended integrating and open-ended fragmenting tasks most frequently used — related

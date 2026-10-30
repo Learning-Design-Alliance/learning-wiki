@@ -45,8 +45,8 @@ Systematic review coding of the object focus of emotion assessment across 25 stu
 
 
 ## Related Claims
-- [No reviewed study exclusively assessed prospective emotions in PD](no-prospective-emotion-assessment-pd.md) — related
+- No reviewed study exclusively assessed prospective emotions in PD — related
 - [Pleasant emotions in PD facilitated implementation while unpleasant emotions hindered it, per teacher reports](pleasant-emotions-facilitate-implementation.md) — related
 - [Negative emotions sometimes promoted implementation of novel practices in PD](negative-emotions-promote-implementation.md) — related
-- [Most studies of teacher emotions in PD lack an explicit emotion-theoretical framework](majority-pd-emotion-studies-lack-theory.md) — related
-- [Interviews are the predominant method for assessing teacher emotions in PD research](interviews-predominant-emotion-assessment-pd.md) — related
+- Most studies of teacher emotions in PD lack an explicit emotion-theoretical framework — related
+- Interviews are the predominant method for assessing teacher emotions in PD research — related

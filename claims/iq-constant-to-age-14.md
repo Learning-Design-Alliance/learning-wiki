@@ -47,7 +47,7 @@ The article reports, citing Terman and Stern, that IQs from successive testing o
 
 ## Related Claims
 - [Children with the same chronological age and mental age pass more group tests in higher grades, an increase the author attributes to additional school experience](grade-experience-increases-group-tests-passed.md) — related
-- [The reviewer judges Goddard's book an optimistic, clear popular account that exaggerates intelligence's influence and omits technical questions such as IQ validity](reviewer-critique-goddard-optimism.md) — related
+- The reviewer judges Goddard's book an optimistic, clear popular account that exaggerates intelligence's influence and omits technical questions such as IQ validity — related
 - [Yerkes-Bridges coefficients of intelligence of 1.20 or more are attained by very different percentages of children at successive ages (34.5% at ages 4-5 down to 0% at ages 16-17 and 18-on), so they do not represent the same degree of brightness at all ages.](non-comparable-brightness-coefficients-yerkes-bridges.md) — related
 - [In the Yerkes-Bridges alteration of the Binet Scale, equal point increments are assigned to digit-span steps whose growth intervals, as placed in the Binet Scale, are approximately 1, 3, 3, and 4 years.](unequal-point-increments-digit-span-yerkes-bridges.md) — related
 - [IQ is only approximately constant across successive examinations, with first-to-fifth IQ correlation of +0.82 and prediction error of 4 to 7 points](iq-approximately-constant-prediction-error.md) — related

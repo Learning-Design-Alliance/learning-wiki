@@ -49,4 +49,4 @@ Outcome-type analysis within the SCED meta-analysis (11 BC-SMD effect sizes from
 
 ## Related Claims
 - [Family-implemented literacy interventions produce a positive, significant average effect on combined literacy outcomes in single-case experimental design studies (g = 1.50), specific to students with or at risk for reading difficulties](family-literacy-interventions-sced-g-150.md) — related
-- [Publication bias analyses suggest possible small-sample bias for SCED studies, with trim-and-fill reducing the adjusted mean effect to 1.01](sced-publication-bias-trim-and-fill-101.md) — related
+- Publication bias analyses suggest possible small-sample bias for SCED studies, with trim-and-fill reducing the adjusted mean effect to 1.01 — related

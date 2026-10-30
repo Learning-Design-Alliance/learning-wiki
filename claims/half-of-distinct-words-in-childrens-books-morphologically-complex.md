@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: korochkina-2025
     resource: "https://doi.org/10.1038/s41539-025-00313-6"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` About half of distinct words in each CYP-LEX age band are morphologically complex, with the proportion rising from 45% (7–9) to 48% (10–12) to 51% (13+). [→ Korochkina 2025](#korochkina-2025)

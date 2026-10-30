@@ -12,7 +12,7 @@ generated:
 # Six emerging evaluation approaches for intelligent tutoring and adaptive learning environments
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article organizes its survey around six approaches that "hold great promise for evaluating educational environments": using the open web and crowd sourcing, comparing decisions of adaptive environments with human experts, using simulated learners, washing out selection bias, examining learning curves, and performing evaluations derived from mega quantities of micro measurements. Each is presented as an expansion of the 1993 survey, enabled by increases in computer speed, storage, and connectivity. The framework spans formative and summative evaluation of smart, intelligent, or adaptive educational environments.
@@ -23,7 +23,6 @@ The article organizes its survey around six approaches that "hold great promise 
 
 ### Claims
 
-- [Basic evaluation techniques from the 1993 ITS evaluation-methods paper remain in use and apply to today's adaptive learning environments](../claims/1993-its-evaluation-methods-still-apply.md) [+W]
 
 ## Related Research Methods
 -

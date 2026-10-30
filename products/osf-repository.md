@@ -19,7 +19,7 @@ sources:
 # OSF repository
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 6 claims (6 for) · 3 studies (2 causal, 1 design), `q1`–`q2` · 0 of 3 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 2 studies (1 causal, 1 design), `q1`–`q2` · 0 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 An OSF-hosted replication package from Zambrano et al. containing the prompts, GPT-generated codebooks, and code used to develop and compare LLM-assisted qualitative codebooks.
@@ -45,7 +45,6 @@ An OSF-hosted replication package from Zambrano et al. containing the prompts, G
 - [Fully inductive LLM codebook development risks importing unexamined sensitizing concepts, such as folk theories and scientific misconceptions, from the model's training data](../claims/llm-inductive-coding-sensitizing-concept-risk.md) [+W]
 - [Adding think-aloud data to theory prompts improves GPT-4o codebook completeness and alignment with the data](../claims/theory-plus-data-prompting-improves-codebook.md) [+W]
 - [Adult ability attributions of young children's success increase test cheating, per the article's title](../claims/adult-ability-attributions-increase-child-test-cheating.md) [+W]
-- [The Social Perspective Taking professional development study was preregistered with its confirmatory analysis plan registered before data examination and unchanged thereafter](../claims/spt-pd-preregistered-unchanged-analysis-plan.md) [+W]
 
 ## Related Products and Programmes
 
@@ -55,6 +54,8 @@ An OSF-hosted replication package from Zambrano et al. containing the prompts, G
 - [Open-source database of SRL constructs and multimodal indicators](open-source-database-of-srl-constructs-and-multimodal-indicators.md)
 - [Open-source data and scripts for R and Mplus for comparing cross-lagged models](open-source-data-and-scripts-for-r-and-mplus-for-comparing-cross-lagged-models.md)
 - [Large-scale longitudinal parent-report language dataset collected via a free language therapy app, with code and data released on OSF](large-scale-longitudinal-parent-report-language-dataset-collected-via-a-free-language-ther.md)
+- [finaldataset.dat](finaldatasetdat.md)
+- [Openly shared student and teacher measures from the Social Perspective Taking professional development study](openly-shared-student-and-teacher-measures-from-the-social-perspective-taking-professional.md)
 
 ## Key Sources
 - Zambrano, A.F., Wei, Z., Zhang, J., Baker, R.S., Ocumpaugh, J., Barany, A., Liu, X., Ginger, J., Paquette, L., Zhou, Y., & Borchers, C. (2026). Data Plus Theory Equals Codebook: Leveraging LLMs for Human-AI Codebook Development. Journal of Educational Data Mining, Volume 18, No 1. https://osf.io/g3z4x. [doi:10.35542/osf.io/4wyqc_v1](https://doi.org/10.35542/osf.io/4wyqc_v1)

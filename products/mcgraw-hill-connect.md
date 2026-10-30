@@ -13,7 +13,7 @@ generated:
 # McGraw-Hill Connect
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 McGraw-Hill Connect is a commercial web-based courseware and assignment platform that includes the LearnSmart adaptive-learning tool for tailoring practice, feedback, and progression to learners' demonstrated performance.
@@ -23,6 +23,8 @@ McGraw-Hill Connect is a commercial web-based courseware and assignment platform
 - **LearnSmart adaptive learning tool on McGraw-Hill Connect platform**: LearnSmart is an adaptive learning tool on McGraw-Hill Connect, a web-based assignment and assessment platform. It "allows content to be actively tailored to students' needs", assessing answers to practice questions, identifying struggling topics and adapting accordingly. A reading assignment is not marked complete until the student demonstrates adequate understanding, with immediate feedback and confidence rating options. (Ipinnaiye et al. (2024))
 
 ### Claims
+
+- [Courseware can bridge gateway math learning gaps through tailored tutorials, study tools, diagnostics, and targeted practice](../claims/courseware-bridges-learning-gaps-gateway-math.md) [+W]
 
 ## Related Products and Programmes
 -

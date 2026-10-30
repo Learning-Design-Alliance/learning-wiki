@@ -17,7 +17,7 @@ sources:
 # Use multi-method, methodologically rigorous measurement when studying achievement goals and academic dishonesty
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The authors' forward-looking recommendation is that future research on achievement goals and academic dishonesty improve measurement rigor and combine methods. They state: "we call for more methodological rigor in the measurement of goals and dishonesty as well as multi-methods approaches when investigating their interplay." This follows from their finding that measure type moderated performance-goal associations and that most studies relied on self-reports. The strategy applies to researchers designing studies of cheating, not to classroom instruction directly.
@@ -40,12 +40,10 @@ The authors' forward-looking recommendation is that future research on achieveme
 
 ## Claims
 
-- [Most research on achievement goals and academic dishonesty relies on correlational designs, self-report dishonesty measures, and personal goal measures](../claims/correlational-selfreport-dominance-goal-dishonesty-research.md) [+W]
 - [Academic dishonesty measure type moderates performance goal associations: behavioral and intention measures reveal positive links that self-reports mask](../claims/dishonesty-measure-type-moderates-performance-goals.md) [+W]
 - [Educational level moderates the mastery-approach–dishonesty association, with no correlation in elementary samples](../claims/educational-level-moderates-mastery-approach-dishonesty.md) [+W]
 - [Mastery-avoidance goals show no significant association with academic dishonesty](../claims/mastery-avoidance-null-dishonesty.md) [+W]
 - [Mastery goals are negatively associated with academic dishonesty across studies](../claims/mastery-goals-negative-academic-dishonesty.md) [+W]
-- [No evidence of publication bias was found in the achievement goal–dishonesty literature](../claims/no-publication-bias-goal-dishonesty.md) [+W]
 
 ## Related Strategies
 - 

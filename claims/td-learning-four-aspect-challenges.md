@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: weak
 newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: weiwei-liu-2025
     resource: "https://doi.org/10.1016/j.edurev.2025.100747"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In the reviewed studies, students reported challenges spanning responding to sustainability issues, engaging non-academic partners, integrating disciplinary knowledge, and incorporating multiple perspectives. [→ Weiwei Liu 2025](#weiwei-liu-2025)
@@ -45,7 +46,7 @@ Synthesis of 36 empirical studies in a scoping review. The review reports that r
 
 
 ## Related Claims
-- [Research on transdisciplinary sustainability learning disproportionately examines students, with educational staff and societal partners underrepresented](td-learning-participant-underrepresentation.md) — related
+- Research on transdisciplinary sustainability learning disproportionately examines students, with educational staff and societal partners underrepresented — related
 - [Interdisciplinary studio collaboration produced challenges including uneven workloads, vocabulary barriers, and difficulty giving cross-disciplinary feedback](interdisciplinary-collab-challenges-workload-vocabulary-feedback.md) — a narrower finding that bears on this claim
 - [Uncertainty is a central feature of challenges in transdisciplinary learning for sustainability, encompassing both emotional and cognitive dimensions](uncertainty-central-td-challenges.md) — related
 - [Three general challenges recur in transdisciplinary learning environments: navigating uneven relationships, managing high time demands, and adapting to unfamiliarity with transdisciplinarity](td-learning-general-challenges.md) — related

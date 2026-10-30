@@ -45,6 +45,6 @@ Reviewer's observation on Sleight's comparative evaluations: "widely divergent c
 
 
 ## Related Claims
-- [Unilevel OLS regression and four-level multilevel analysis of the same content analysis data yield differing p-values, especially for parameters that are not highly significant.](ols-versus-multilevel-p-values-differ.md) — a narrower finding that bears on this claim
+- Unilevel OLS regression and four-level multilevel analysis of the same content analysis data yield differing p-values, especially for parameters that are not highly significant. — a narrower finding that bears on this claim
 - [Time-reversed analysis of simulated data suggests a decreasing rather than increasing effect of self-concept on achievement, yielding inconsistent conclusions from the same data](time-reversed-model-suggests-decreasing-self-concept-effect.md) — a narrower finding that bears on this claim
 - [Validation with simulated TRAIN-like data replicates the divergence: RI-CLPM positive, LCSM negative, ESDM no-direct-effects](train-validation-divergent-model-findings.md) — a narrower finding that bears on this claim

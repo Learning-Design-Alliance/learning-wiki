@@ -55,5 +55,5 @@ Baseline multilevel models fitted to partition variance in written composition o
 - [Teacher responsiveness is uniquely related to substantive quality of first-grade written composition after accounting for child predictors and other instructional quality variables](teacher-responsiveness-predicts-substantive-quality.md) — related
 - [Children's expressive vocabulary is not uniquely related to either dimension of written composition after accounting for other variables](vocabulary-not-uniquely-related-to-written-composition.md) — related
 - [Most variance in students' epistemic emotions was situational (within-person) fluctuation, with 18–37% due to between-person variability.](within-person-fluctuation-dominates-epistemic-emotions.md) — related
-- [Classroom membership accounts for 11% of variance in students' perceived competence, justifying multilevel analysis](icc-perceived-competence-between-classes.md) — related
+- Classroom membership accounts for 11% of variance in students' perceived competence, justifying multilevel analysis — related
 - [About 9% of variance in classroom ICT use lies between schools, with the remainder between teachers within schools](variance-partition-school-teacher-ict-use.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1922
+recheck_by: 1925
 sources:
   - id: wilson-1922
     resource: "https://doi.org/10.1037/h0064444"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1925**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Figured by the Difference Method under Dr. Arthur S. Otis's direction, the probable error of a score was 2.24, which the author reads as showing a high degree of reliability. [→ Wilson 1922](#wilson-1922)

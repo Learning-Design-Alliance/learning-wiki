@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: weak
 newest_evidence: 2008
+recheck_by: 2013
 sources:
   - id: jannet-van-drie-carla-van-boxtel-2008
     resource: "https://doi.org/10.1007/s10648-007-9056-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2013**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In Carretero et al.'s study, novices and experts ranked six types of causes for four historical events, and non-experts attributed greater importance to personalistic causes, while experts varied the importance of causes according to the event. [→ Jannet van Drie & Carla van Boxtel 2008](#jannet-van-drie-carla-van-boxtel-2008)

@@ -70,10 +70,10 @@ Authors' interpretive commentary (type e) in a response paper asserting that the
 ## Related Claims
 
 - [Seven responses to Philipsen et al.'s study offer valuable ideas and guidelines for developing TPD for OBL in times of crisis](seven-responses-apply-tpd-obl-framework-in-crisis.md) — a broader claim this one bears on
-- [The Philipsen et al. framework functions as a model of inquiry for examining TPD for OBL strategies in crisis contexts](framework-model-of-inquiry-crisis-tpd.md) — related
+- The Philipsen et al. framework functions as a model of inquiry for examining TPD for OBL strategies in crisis contexts — related
 - [The COVID-19 mandated shift to digital teaching created learning and performance contexts so different that the Philipsen et al. TPD-for-OBL framework's applicability may be limited](covid-context-limits-tpd-ob-framework.md) — related
-- [The response discusses limitations of the Philipsen et al. (2019) review and suggestions for future research](an-2021-discusses-limitations-and-future-research.md) — related
+- The response discusses limitations of the Philipsen et al. (2019) review and suggestions for future research — related
 - [The response summarizes the key findings of the Philipsen et al. (2019) meta-aggregative review](an-2021-summarizes-key-findings-pd-review.md) — related
 - [The Philipsen et al. framework of TPD components for online and blended learning is biased toward higher education settings](philipsen-framework-higher-education-bias.md) — related
-- [The meta-aggregative review lacks an explicitly critical framework and under-addresses equity](meta-aggregative-review-lacks-critical-framework.md) — related
+- The meta-aggregative review lacks an explicitly critical framework and under-addresses equity — related
 - [International organisations UNESCO and ILO identify teacher professional development for online and blended learning as a priority, per this response](unesco-ilo-tpd-online-blended-priority.md) — related

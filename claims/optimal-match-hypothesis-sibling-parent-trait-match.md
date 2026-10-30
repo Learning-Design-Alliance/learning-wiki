@@ -45,6 +45,6 @@ Theoretical proposal, not a reported result: the commentary states no prior empi
 
 
 ## Related Claims
-- [Within-family designs can afford greater statistical power than classroom-based studies for testing aptitude–treatment match effects](within-family-designs-greater-power-ati-testing.md) — related
+- Within-family designs can afford greater statistical power than classroom-based studies for testing aptitude–treatment match effects — related
 - [Within-family designs can test how child self-selection and evocation, and instructor willingness and capacity, shape personalization of learning](within-family-designs-personalization-mechanisms.md) — related
-- [Within-family designs cannot test effects of socioeconomic background or ethnicity on sibling divergence because these characteristics are shared within families](within-family-designs-scope-limit-shared-characteristics.md) — related
+- Within-family designs cannot test effects of socioeconomic background or ethnicity on sibling divergence because these characteristics are shared within families — related

@@ -30,6 +30,7 @@ The article organizes frameworks for conceptualizing instructional quality along
 - [Four-level rubric for teachers' reflective prompts adapted from Van Manen's reflective levels](four-level-rubric-for-teachers-reflective-prompts-adapted-from-van-manens-reflective-level.md)
 - [Actor-perspective by setting taxonomy for classroom eye-tracking research](actor-perspective-by-setting-taxonomy-for-classroom-eye-tracking-research.md)
 - [Webb's eight-aspect framework for stating the current status of general science instruction](webbs-eight-aspect-framework-for-stating-the-current-status-of-general-science-instruction.md)
+- [Two goal-relative criteria — specification and assessment demand — locate operations on a graded peripheral–constitutive continuum](two-goal-relative-criteria-specification-and-assessment-demand-locate-operations-on-a-grad.md)
 
 ## Key Sources
 - Xin Liu, Kajsa Yang Hansen, Jan De Neve, Martin Valcke. (2023). Teacher versus student perspectives on instructional quality in mathematics education across countries. Instructional Science. https://doi.org/10.1007/s11251-023-09652-6

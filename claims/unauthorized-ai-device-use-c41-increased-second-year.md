@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: ruishi-chen-2026
     resource: "https://doi.org/10.1007/s11423-026-10587-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In the 2023-24 survey, 24.27% of students reported using an AI or digital device as an unauthorized aid during assessments, assignments, or homework, which the authors note is much higher than the 6.44% and 15.20% reported by two schools in the prior study. [→ Ruishi Chen 2026](#ruishi-chen-2026)

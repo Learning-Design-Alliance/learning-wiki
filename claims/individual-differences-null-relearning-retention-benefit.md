@@ -49,6 +49,6 @@ The abstract reports the exploratory moderation analysis (Exploratory Research Q
 - [Spaced retrieval practice (successive relearning) produced multi-year retention of foreign language vocabulary in adults, as reported by the review](spaced-retrieval-multiyear-vocabulary-retention.md) — related
 - [Testing benefits retention over a conservative restudy control, establishing the testing effect as robust](testing-effect-robust-versus-restudy-control.md) — related
 - [Self-rated attentional control improves for relearning relative to restudying from the second session onward](relearning-attentional-control-gains.md) — related
-- [Total exposure time per session was significantly lower in the relearn condition than in the restudy condition, ruling out an exposure confound](relearning-exposure-time-controlled.md) — related
+- Total exposure time per session was significantly lower in the relearn condition than in the restudy condition, ruling out an exposure confound — related
 - [Anxious affect and self-rated mastery start worse for relearning but reverse in favour of relearning by the third session](relearning-anxiety-mastery-reversal.md) — related
 - [Aggregate judgments of learning shift from lower under relearning to higher under relearning across the three sessions](relearning-ajol-reversal-across-sessions.md) — related

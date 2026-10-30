@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: thomas-k-f-chiu-2025
     resource: "https://doi.org/10.1007/s11423-025-10512-y"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q1`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The authors argue that a self-reported approach can only examine perceptions of using and evaluating AI (self-efficacy), not abilities and skills (literacy), which require tests or examinations. [→ Thomas K. F. Chiu 2025](#thomas-k-f-chiu-2025)

@@ -47,7 +47,7 @@ Group-level fNIRS activation analysis of 61 adult readers in a 3×2 mixed design
 ## Related Claims
 - [Functional connectivity within the simulation network increases during comprehension of supernatural narratives with realistic characters](increased-connectivity-simulation-network-supernatural.md) — related
 - [Reading supernatural scenarios with realistic characters also activates left preCG, poCG and MFG more than realistic scenarios with realistic characters](sr-greater-activation-than-rr-sensorimotor-mfg.md) — related
-- [Supernaturalness ratings correlate positively, but very weakly, with the SR-vs-SF activation difference in the left postcentral gyrus](supernaturalness-rating-correlates-weakly-pocg-activation.md) — related
+- Supernaturalness ratings correlate positively, but very weakly, with the SR-vs-SF activation difference in the left postcentral gyrus — related
 - [Increased inter-hemispheric functional connectivity during supernatural reading appears only in high-familiarity readers and is absent in low-familiarity readers](familiarity-moderates-functional-connectivity.md) — related
 - [The SR-related brain-activation pattern occurs only in readers highly familiar with Harry Potter; low-familiarity readers show no significant differences](familiarity-moderates-sr-activation.md) — related
 - [When physicists with a Ph.D. confront naive ideas in their domain of expertise, MFG and IFG associated with inhibitory control are significantly more activated by incongruent than congruent statements](physics-incongruent-mfg-ifg-inhibitory-control.md) — related

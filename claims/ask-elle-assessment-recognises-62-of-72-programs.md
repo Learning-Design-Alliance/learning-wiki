@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: gerdes-2016
     resource: "https://doi.org/10.1007/s40593-015-0080-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In a 2009 assessment experiment on 94 student solutions to a Haskell lab assignment, the tool recognised 62 of the 72 programs judged good or good-with-modifications (86%), and none of the incorrect or imperfect programs were recognised. [→ Gerdes 2016](#gerdes-2016)

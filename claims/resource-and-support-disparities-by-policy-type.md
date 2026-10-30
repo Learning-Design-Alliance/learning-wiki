@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2009
+recheck_by: 2014
 sources:
   - id: czerniewicz-2009
     resource: "https://doi.org/10.1016/j.compedu.2009.01.006"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
-> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2014**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Only 12% of D-U-Bure staff and 29% of C-U-Coll staff said teaching venues were adequate, versus 87% at B-S-Corp and 64% at A-S-Corp. [→ Czerniewicz 2009](#czerniewicz-2009)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 1916
+recheck_by: 1919
 sources:
   - id: kelley-1916
     resource: "https://www.google.com/search?q=Kelley+1916+A+Constructive+Ability+Test+Journal+of+Educational+Psychology"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · `i3` large
-> **Currency** · newest study 1916 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1916 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1919**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i3` Grades given to scale samples would correlate .98 with scale values derived from judgments of other equally competent judges, and an individual's placement of samples correlates .92 with true scale placement. [→ Kelley 1916](#kelley-1916)

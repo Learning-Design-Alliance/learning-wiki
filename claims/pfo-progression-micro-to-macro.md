@@ -47,5 +47,5 @@ Analysis of critical incidents coded by thinking-in-levels across the three PFO 
 ## Related Claims
 - [Younger students mostly use concrete strategies (e.g., inserting numbers) while older students use abstract rule-based strategies, with the transition around age 14–15](concrete-to-rule-based-strategy-transition-age-14-15.md) — related
 - [In-situ analysis of challenge episodes reveals a wide range of cognitive, motivational, emotional, and socially oriented micro-level challenges in collaborative learning](challenge-episodes-reveal-micro-level-challenges.md) — related
-- [Seven prominent educational foci of AIED research, 2010–2019: online learning, game-based learning, collaborative learning, assessment, affect, engagement, learning design](aied-seven-educational-foci.md) — related
+- Seven prominent educational foci of AIED research, 2010–2019: online learning, game-based learning, collaborative learning, assessment, affect, engagement, learning design — related
 - [Societal values in the simulation game triggered more disagreement, discussion and modification than scientific values, fostering critical CT practices](societal-values-trigger-critical-ct.md) — related

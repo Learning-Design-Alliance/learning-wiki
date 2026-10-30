@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 1918
+recheck_by: 1921
 sources:
   - id: rudolf-pintner-and-florence-fitzgerald-1918
     resource: "https://psycnet.apa.org/journal/edu"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1921**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` When the total result of the short form is compared with the total of the long scales, a coefficient of about .786 is obtained, indicating an excellent correlation. [→ Rudolf Pintner and Florence Fitzgerald 1918](#rudolf-pintner-and-florence-fitzgerald-1918)

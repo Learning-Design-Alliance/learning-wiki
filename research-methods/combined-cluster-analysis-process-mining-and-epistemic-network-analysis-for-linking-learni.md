@@ -26,7 +26,8 @@ The article proposes "a novel learning analytic method that combines three data 
 - [High-performance learners show stronger alignment of learning tactic choices with the tasks provided in the learning design](../claims/high-performance-alignment-tactics-design.md) [+M]
 
 ## Related Research Methods
--
+
+- [Automated analysis of argumentative discourse for diagnostic learning analytics](automated-analysis-of-argumentative-discourse-for-diagnostic-learning-analytics.md)
 
 ## Key Sources
 - Yizhou Fan, Wannisa Matcha, Nora’ayu Ahmad Uzir, Qiong Wang, Dragan Gašević. (2021). Learning Analytics to Reveal Links Between Learning Design and Self-Regulated Learning. International Journal of Artificial Intelligence in Education, 31, 980–1021. https://doi.org/10.1007/s40593-021-00249-z

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1922
+recheck_by: 1925
 sources:
   - id: wilson-1922
     resource: "https://doi.org/10.1037/h0064444"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1925**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` For grades III, VI, and X, the median percentages of pupils making each error in each test run surprisingly close together across the three forms. [→ Wilson 1922](#wilson-1922)

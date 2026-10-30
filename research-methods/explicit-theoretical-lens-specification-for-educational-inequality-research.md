@@ -12,7 +12,7 @@ generated:
 # Explicit theoretical-lens specification for educational-inequality research
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Because disciplines frame inequality differently—some problematizing unequal outcomes, others unequal treatment or unequal provision—researchers should make their framing explicit. The article states "the need to explicate the lens through which the problem of inequality in education is studied," since answering "what needs to be equal to speak of equality" makes clear whether unequal treatment and/or outcomes are problematized or strived for.
@@ -22,6 +22,8 @@ Because disciplines frame inequality differently—some problematizing unequal o
 - **Explicate the theoretical lens through which educational inequality is studied**: Because disciplines frame inequality differently—some problematizing unequal outcomes, others unequal treatment or unequal provision—researchers should make their framing explicit. The article states "the need to explicate the lens through which the problem of inequality in education is studied," since answering "what needs to be equal to speak of equality" makes clear whether unequal treatment and/or outcomes are problematized or strived for. (Louise Elffers et al. (2024))
 
 ### Claims
+
+- [Differentiated instruction and tracking are studied as both remedy and catalyst for unequal achievement depending on discipline](../claims/differentiation-remedy-or-catalyst-by-discipline.md) [+W]
 
 ## Related Research Methods
 -

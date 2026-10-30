@@ -5,6 +5,30 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-10-30 — journal sweep complete; post-sweep health pass
+
+- **The sweep is done.** 15 journal queues, batches of 80, ending with Computers & Education (j-ce-1 to
+  j-ce-12, 702 entries, many paywalled: j-ce-9 fetched 14 of 80). Each batch merged on green `validate`.
+- **9,862 claims had never been sorted.** `run_scrape_batch.py` ran no sort at all, so the research-practice
+  removal rule (maintainer, 2026-10-16) and `add_currency.py`'s recheck years only reached claims sorted by hand.
+  All 34,610 were sorted (`sort_claims.py --all`, $11.11). **642** settled research-practice claims were removed
+  (`remove_pages.py`, 1,849 links on 1,355 pages; `log.md` links became plain text), and 1,384+ context claims
+  gained a `recheck_by`. The sort is now a standing batch step, before the currency step. 6,250 claims stay
+  disputed (the two models disagree), and disputed claims are kept.
+- **13 study tables had stopped rendering**: their specs named claims since merged into others. The specs were
+  repointed, and `synthesize_claim.resolve()` now follows `wiki-index.json` aliases, so a merge no longer breaks
+  a table.
+- **Citations.** Three author-year conflicts were distinct works, recorded in `eval/citations/distinct-works.ndjson`:
+  Morris (2025) x2, Kohs (1917) Parts II and IV, Winch (1913) Parts I and II. Evans (1955): every page dropped "on"
+  from the title, which blocked the DOI fill; corrected and 10.1037/h0042123 added to two pages. Three DOIs pointed at
+  the wrong record: Pyc & Rawson (2007) now carries 10.3758/BF03192925 (19 pages); Sussman et al. (2022, LPI) and
+  Chen et al. (2026, arXiv) carried a variant title of their own registered record (all authors, year and publisher
+  match) and now carry the registry title.
+- **Links.** `link_pages.py --unlinked --verify --apply`: 275 pages outside the main component linked (108 related,
+  56 verified evidence links, 10 applies).
+- **Left open:** 445 load-bearing claims not checkable (no abstract or DOI) and 259 the abstract could not settle;
+  98% of claims still rest on one study.
+
 ## 2026-10-30 — lost minus signs: PDF text that read negative statistics as positive
 
 - **Found by** the load-bearing judge on Cebollero-Salinas et al. (2022), batch j-ce-3: four claims gave its

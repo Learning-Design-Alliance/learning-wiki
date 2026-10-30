@@ -54,4 +54,4 @@ The review's own synthesis of nine OER efficacy studies, reporting that "Three h
 - [Students using OER save significant amounts of money compared to purchasing commercial textbooks.](oer-significant-cost-savings-students.md) — possibly the same claim (merge candidate)
 - [OER efficacy studies are frequently confounded by simultaneous changes in pedagogy or delivery method.](oer-adoption-confounded-with-pedagogy-change.md) — related
 - [Concerns about whether OER decrease the effectiveness of student learning remain unsolved](oer-effectiveness-concerns-unsolved.md) — reports the opposite
-- [OER outcome studies that lack a hypothesized explanatory mechanism are license comparison studies prone to finding no significant differences](oer-license-comparison-studies-undertheorized.md) — related
+- OER outcome studies that lack a hypothesized explanatory mechanism are license comparison studies prone to finding no significant differences — related

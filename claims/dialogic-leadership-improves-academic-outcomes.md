@@ -45,7 +45,7 @@ The review reports, citing the research synthesis by Morlá-Folch et al. (2022),
 
 
 ## Related Claims
-- [The evidence base on dialogic leadership is entirely qualitative, with the majority (n = 17, 63%) of studies being case studies](dialogic-leadership-evidence-all-qualitative.md) — related
+- The evidence base on dialogic leadership is entirely qualitative, with the majority (n = 17, 63%) of studies being case studies — related
 - [Community schools are associated with positive student outcomes including reduced absenteeism, improved academics, and more positive school climates](community-schools-positive-outcomes.md) — related
 - [Well-implemented community schools improve attendance, behavior, engagement, and academic outcomes, with longer and more sustained implementation associated with more significant outcomes](community-schools-implementation-strength-related-to-outcomes.md) — related
 - [Meaningful family and community engagement is associated with reduced absenteeism, improved academic outcomes, and more positive school climates](family-community-engagement-positive-outcomes.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2019
+recheck_by: 2022
 sources:
   - id: elise-lavoué-2019
     resource: "https://doi.org/10.1007/s11423-019-09688-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Retrospective interview transcripts from university students were analyzed along three dimensions: focus of emotions (retrospective, activity, or prospective), attributed causes (agent or external circumstances), and appraisals of value and control. [→ Elise Lavoué 2019](#elise-lavoue-2019)

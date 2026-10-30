@@ -51,4 +51,4 @@ Editorial description of the journal's governance: the printed figures are 50 Ed
 - Manuscript submissions to Educational Psychology Review increased sharply between 2006 and 2008, which the editor attributes to timely, high-quality reviews and increasing journal visibility — related
 - The research-into-practice article category at Educational Psychology Review was retired in 2012 after being the most misunderstood category and source of most desk rejects — related
 - Submissions to Educational Psychology Review grew from 33 manuscripts in 2006 to 89 in 2011, with faster initial decisions — related
-- [Countries/regions and institutions in the same continent or country tend to collaborate closely in metacognition research](same-region-institutions-collaborate-closely.md) — related
+- Countries/regions and institutions in the same continent or country tend to collaborate closely in metacognition research — related

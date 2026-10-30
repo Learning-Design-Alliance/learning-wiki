@@ -40,7 +40,8 @@ The RICT case is an on-campus pre-service teacher-training course, "Educational 
 - 
 
 ## Related Designs
-- 
+
+- [Two-hour station-based microintervention workshop with Scratch, Makey Makey, and micro:bit–Maqueen including an introductory machine-learning component](two-hour-station-workshop-scratch-makeymakey-microbit.md)
 
 ## Examples
 -

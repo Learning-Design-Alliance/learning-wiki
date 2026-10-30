@@ -69,7 +69,7 @@ Cross-grade correlational analysis (Table XI and Table VIII) of reading tests wi
 
 ## Related Claims
 
-- [Correlation magnitude rises with the standard deviation of mental age of the group, so cross-group comparisons of the two traits are spurious](correlation-magnitude-varies-with-mental-age-sd.md) — related
+- Correlation magnitude rises with the standard deviation of mental age of the group, so cross-group comparisons of the two traits are spurious — related
 - [Teachers' estimates show the highest single-measure correlation with the Stanford Revision (.72, 60 cases)](teachers-estimates-highest-correlation-stanford-revision.md) — related
 - [The Burgess test correlates more highly with rate and comprehension composites (0.82 and 0.80) than any other single test, and pairs well with the Thorndike-McCall](burgess-high-composite-correlations-team-with-thorndike-mccall.md) — related
 - [The Thorndike-McCall correlates about 0.50 with other single comprehension tests and 0.69 with a composite of group intelligence tests](thorndike-mccall-correlations-comprehension-intelligence.md) — related

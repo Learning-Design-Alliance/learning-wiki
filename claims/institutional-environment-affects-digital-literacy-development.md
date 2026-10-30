@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: olivia-wohlfart-2022
     resource: "https://doi.org/10.1007/s11423-022-10166-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q3 i?` The reviews report that leadership (n = 5), the policy debate (n = 4), and school culture (n = 2) affect success in developing digital literacy. [→ Olivia Wohlfart 2022](#olivia-wohlfart-2022)
@@ -51,5 +52,5 @@ Cross-review synthesis in the umbrella review; Pettersson (2018) concludes schoo
 - [Leadership practices, teacher competence, and innovation culture collectively determine the success or failure of AI integration initiatives](three-drivers-determine-ai-integration-success.md) — related
 - [Internal organisational conditions strengthen internal social drivers promoting technological change](organisational-culture-sustainability-strengthen-social-drivers-ai-adoption.md) — related
 - [An AI-enabled world demands a data-literate citizenry able to read, use, interpret, and communicate about data and participate in AI-related policy debates](ai-enabled-world-demands-data-literate-citizenry.md) — related
-- [Previous reviews of teachers' role in digitalizing education cluster into six main research themes, with digital literacy the most prominent (addressed in 14 of 23 reviews)](six-research-focus-themes-teacher-digitalization.md) — a broader claim this one bears on
+- Previous reviews of teachers' role in digitalizing education cluster into six main research themes, with digital literacy the most prominent (addressed in 14 of 23 reviews) — a broader claim this one bears on
 - [Digital instructional leadership is positively associated with comprehensive AI integration in schools](digital-instructional-leadership-ai-integration.md) — related

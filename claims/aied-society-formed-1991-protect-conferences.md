@@ -45,7 +45,7 @@ The memoir describes the 1991 Evanston event, where delegates found the AIED con
 
 
 ## Related Claims
-- [The AIED research community emerged as a self-identifying community through the conference series, drawing members from adjacent fields](aied-community-emerged-through-conference-series.md) — related
+- The AIED research community emerged as a self-identifying community through the conference series, drawing members from adjacent fields — related
 - [In December 1996 the AIED Society committee voted to split from AACE, renaming the society and journal as the International AIED Society and IJAIED](aied-split-from-aace-december-1996.md) — related
-- [The 1987 Pittsburgh AIED conference marked a turning point at which the AIED community cohered and subsequent conferences adopted more rigorous standards](pittsburgh-1987-aied-conference-turning-point.md) — related
-- [Special issues of IJAIED in 1997–2001 played a significant part in developing AIED sub-fields such as collaborative learning and modelling teaching](ijaied-special-issues-developed-aied-subfields.md) — related
+- The 1987 Pittsburgh AIED conference marked a turning point at which the AIED community cohered and subsequent conferences adopted more rigorous standards — related
+- Special issues of IJAIED in 1997–2001 played a significant part in developing AIED sub-fields such as collaborative learning and modelling teaching — related

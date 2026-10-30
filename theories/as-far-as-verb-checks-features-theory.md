@@ -42,6 +42,7 @@ The author proposes a principle, named the "as-far-as-a-verb-can-check-its-featu
 ## Related Theories
 
 - [Universal Grammar parameter-setting account of L2 adverb-position acquisition](ug-parameter-setting-adverb-acquisition.md)
+- [Syntactic dissimilation: cognate verbs replaced by pro-verbs](syntactic-dissimilation-transformation.md)
 
 ## Examples
 -

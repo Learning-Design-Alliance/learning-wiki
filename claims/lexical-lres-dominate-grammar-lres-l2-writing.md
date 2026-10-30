@@ -54,4 +54,4 @@ Qualitative think-aloud study of ten German teenage learners composing an Englis
 - [Syntactical noticing focuses mainly on sentence length and ways of connecting clauses](syntactical-noticing-sentence-length-connecting-clauses.md) — related
 - [Morphological noticing focuses mainly on verb forms, especially modals, and on preposition choice](morphological-noticing-verb-forms-modals-prepositions.md) — related
 - [Rewriting after noticing gaps and comparing to models produced modified output that solved more lexical gaps than grammatical problems](rewriting-solves-more-lexical-gaps.md) — a narrower finding that bears on this claim
-- [Whether conceptual discrepancies are noticed (or not) and how they are resolved can be traced through concurrent think-aloud protocols and retrospective interviews](think-aloud-and-retrospective-reports-trace-discrepancy-processing.md) — related
+- Whether conceptual discrepancies are noticed (or not) and how they are resolved can be traced through concurrent think-aloud protocols and retrospective interviews — related

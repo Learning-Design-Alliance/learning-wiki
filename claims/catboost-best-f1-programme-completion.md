@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: teo-susnjak-2024
     resource: "https://doi.org/10.1007/s40593-023-00336-3"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Across eight machine learning algorithms plus two baselines, CatBoost achieved the highest estimated generalisability F1-measure (94.5±0.6) on an unbalanced dataset of 14918 data points, slightly better than Random Forest (93.9±0.6). [→ Teo Susnjak 2024](#teo-susnjak-2024)

@@ -66,6 +66,7 @@ As part of RQ1, the review coded disciplinary origin (first author's affiliation
 
 
 ## Related Claims
+
 - A systematic review identified 52 instruments assessing teachers' competence for inclusive teaching of autistic children, with 28 assessing knowledge, 26 beliefs, and 11 motivation — related
 - [Domain knowledge is theoretically a formative construct formed by distinct, not necessarily associated, aspects](domain-knowledge-formative-construct.md) — related
 - [Inconsistent terminology across agencies and restrictive data-sharing rules are central barriers to identifying and serving highly mobile youth in both states](terminology-and-data-sharing-barriers-hmy.md) — related
@@ -73,12 +74,13 @@ As part of RQ1, the review coded disciplinary origin (first author's affiliation
 - School belonging research is marked by definitional ambiguity and terminology confusion, including conflation of belonging with acceptance, inclusion, and participation — related
 - P(j)BL research conceptualizes CT more often as processes than as dispositions, and many studies define and measure CT inconsistently — related
 - Unexplicated definitions of key constructs introduce conceptual ambiguity that makes theory integration far less likely — a broader claim this one bears on
-- [Jingle-jangle fallacies fragment SR research in education and impede cumulative progress](jingle-jangle-fallacies-fragment-sr-research.md) — a broader claim this one bears on
-- [Jingle-jangle fallacies plague motivation constructs, requiring explicit justification of construct distinctions](jingle-jangle-motivation-constructs.md) — related
-- [The article reports that research terminology such as 'diagnosis' and 'analysis' is used ambiguously and needs more careful definition](zirbes-1922-diagnosis-analysis-term-ambiguity.md) — possibly the same claim (merge candidate)
-- [Embodiment research lacks a shared vocabulary, with over 20 distinct labels for embodiment-related concepts appearing in the last decade](embodiment-terminology-fragmentation-over-twenty-labels.md) — related
+- Jingle-jangle fallacies fragment SR research in education and impede cumulative progress — a broader claim this one bears on
+- Jingle-jangle fallacies plague motivation constructs, requiring explicit justification of construct distinctions — related
+- The article reports that research terminology such as 'diagnosis' and 'analysis' is used ambiguously and needs more careful definition — possibly the same claim (merge candidate)
+- Embodiment research lacks a shared vocabulary, with over 20 distinct labels for embodiment-related concepts appearing in the last decade — related
 - [Loose use of movement-based learning language risks conflating evidence-based embodied learning with debunked neuromyths](embodiment-terminology-neuromyth-conflation-risk.md) — related
-- [Inconsistent embodiment labels cause functionally similar experiments to go uncited across disciplines, hindering meta-analysis](terminology-silos-uncited-parallel-experiments.md) — related
+- Inconsistent embodiment labels cause functionally similar experiments to go uncited across disciplines, hindering meta-analysis — related
 - [Interactive open learner modelling dialogue produced resultant learner models with more beliefs than initial models, most approved by both learners and a teacher](iolm-dialogue-increases-lm-beliefs-approved.md) — related
 - [Reviews agree that clear definition and delineation of TPACK's individual knowledge domains is rare and nearly impossible](tpack-knowledge-domains-poorly-delineated.md) — related
-- [Learning-community research suffers from unclear and inconsistent definitions of community](learning-community-definitions-inconsistent.md) — related
+- Learning-community research suffers from unclear and inconsistent definitions of community — related
+- [Almost all reviewed instruments target general knowledge about autism rather than teachers' knowledge of autism-specific evidence-based practices, for which only two quantitative studies were found](knowledge-practices-gap-autism-teacher-instruments.md)

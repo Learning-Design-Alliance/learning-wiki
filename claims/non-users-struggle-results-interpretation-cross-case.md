@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: mehedi-hasan-anik-2023
     resource: "https://doi.org/10.21203/rs.3.rs-3481002/v1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` A non-user reported great difficulty linking qualitative and quantitative findings to interpretation, and another reported perplexity during cross-case analysis requiring supplementary interviews. [→ Mehedi Hasan Anik 2023](#mehedi-hasan-anik-2023)

@@ -45,7 +45,7 @@ The novel correction method applied to the regression results showed "about 25% 
 
 
 ## Related Claims
-- [Standard multiple regression analyses showed suppressor effects that the novel correction method revealed and corrected](suppressor-effects-corrected-variance-split.md) — related
-- [Observer, student, and teacher perspectives on teacher agency overlap largely, but observed and teacher-self-reported communion are not significantly associated](perspective-overlap-agency-not-communion.md) — related
+- Standard multiple regression analyses showed suppressor effects that the novel correction method revealed and corrected — related
+- Observer, student, and teacher perspectives on teacher agency overlap largely, but observed and teacher-self-reported communion are not significantly associated — related
 - [Teacher communion is a stronger predictor of student emotions than teacher agency](communion-stronger-predictor-student-emotions.md) — related
 - [Perspectives on teacher behavior are not interchangeable: combining observer and student perspectives on agency approximates the teacher perspective for teacher emotions, while students' own perspective is irreplaceable for student emotions](perspectives-not-interchangeable.md) — related

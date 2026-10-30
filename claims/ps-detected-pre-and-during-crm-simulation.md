@@ -66,7 +66,7 @@ Wilcoxon signed-rank test on during-simulation %REC for the same 9 teams against
 ## Related Claims
 - [Real collaborative groups show higher physiological synchrony than randomly matched false groups on %REC, %DET, and ADL](real-groups-higher-synchrony-than-false-groups.md) — possibly the same claim (merge candidate)
 - [During-simulation physiological synchrony is positively correlated with team leaders' CRM performance scores (preliminary, 9 teams)](ps-correlates-leader-crm-performance.md) — related
-- [Regression models of PS on CRM performance could not be conducted because four regression assumptions were not met](ps-regression-assumptions-not-met.md) — related
+- Regression models of PS on CRM performance could not be conducted because four regression assumptions were not met — related
 - [Higher physiological synchrony relates to less monitoring with positive valence](synchrony-negative-predictor-positive-valence.md) — related
 - [Increased physiological arousal and higher physiological synchrony relate to more monitoring with negative valence](arousal-synchrony-negative-valence-monitoring.md) — related
 - [In structured Scenario B simulations, higher group-level physiological synchrony is associated with lower post-simulation stress levels](group-synchrony-lower-post-stress-scenario-b.md) — related

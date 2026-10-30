@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 1999
+recheck_by: 2002
 sources:
   - id: david-w-chadwick-1999
     resource: "http://www.salford.ac.uk/its024/X500.htm"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 1999 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1999 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2002**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Network and email components were unavailable for nearly 3 weeks during the pilot, delaying installation and training and blocking participation. [→ David W Chadwick 1999](#david-w-chadwick-1999)

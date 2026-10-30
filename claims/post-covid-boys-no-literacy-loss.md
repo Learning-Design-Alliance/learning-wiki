@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: nandi-2023
     resource: "https://doi.org/10.1038/s41539-023-00193-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q3 i?` The post-COVID boys' group showed no statistically significant difference in reading ability or years of schooling completed compared with matched pre-COVID boys, and were 2% less likely to be out of school. [→ Nandi 2023](#nandi-2023)

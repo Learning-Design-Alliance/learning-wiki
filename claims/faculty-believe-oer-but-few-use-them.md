@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: kimmons-2021
     resource: "https://doi.org/10.1007/s11423-021-09949-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Although most U.S. higher education faculty believe OER are a good idea, only 14% use them in any way, and only 8% of those aware of institutional initiatives commit to using OER in the next three years. [→ Kimmons 2021](#kimmons-2021)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 2012
+recheck_by: 2017
 sources:
   - id: harlaar-2012
     resource: "https://doi.org/10.1037/a0027646"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
-> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Shared environmental correlations among the three latent factors were uniformly high and not significantly different from unity, despite small shared environmental variance components. [→ Harlaar 2012](#harlaar-2012)

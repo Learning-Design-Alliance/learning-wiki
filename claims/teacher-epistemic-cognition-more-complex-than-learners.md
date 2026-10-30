@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: weak
 newest_evidence: 2017
+recheck_by: 2022
 sources:
   - id: fives-2017
     resource: "https://doi.org/10.1080/00461520.2017.1323218"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` When acting as teachers, educators must integrate multiple bodies of knowledge and manage learning goals for both students and themselves, adding a layer of epistemic cognition absent for learners. [→ Fives 2017](#fives-2017)

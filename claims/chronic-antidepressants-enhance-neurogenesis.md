@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: katherine-l-jones-2022
     resource: "https://doi.org/10.1038/s41539-022-00133-y"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Different classes of antidepressants increase cell proliferation and enhance adult hippocampal neurogenesis, an effect requiring chronic rather than acute administration. [→ Katherine L. Jones 2022](#katherine-l-jones-2022)
@@ -50,3 +51,4 @@ Narrative review citing rodent studies of tranylcypromine, fluoxetine, reboxetin
 - [Ablating adult hippocampal neurogenesis in naive non-stressed rodents has equivocal effects on baseline anxiety- and depression-like behaviour, specific to ablation model and behavioural test](neurogenesis-ablation-baseline-mood-equivocal.md) — related
 - [Genetic or chemogenetic enhancement of adult hippocampal neurogenesis does not improve baseline mood but can promote behavioural resilience to chronic stressors](neurogenesis-enhancement-promotes-resilience.md)
 - [Chronic stress generally decreases adult hippocampal neurogenesis, but some studies report no effect or increases, with effects moderated by stressor, species, sex and strain](stress-impairs-adult-hippocampal-neurogenesis-mixed.md)
+- [Whether adult-born hippocampal neurons buffer or exacerbate the behavioural and endocrine effects of chronic stress remains unresolved, with conflicting ablation findings](buffer-versus-susceptibility-unresolved.md)

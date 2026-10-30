@@ -48,6 +48,6 @@ The same 8.MReVx cohort comparison of item-attempt proportions found "fake learn
 
 - [Fake learners spent significantly less time on each type of instructional resource than true learners in the MITx 8.MReVx MOOC.](fake-learners-less-time-on-instructional-resources.md) — related
 - [Fake learners solved exercises significantly faster than true learners and showed higher weekly improvement, but did not differ significantly on grade, ability, or CFA.](fake-learners-faster-and-higher-weekly-improvement.md) — related
-- [In the Champaign et al. replication, removing fake learners moved three correlations (Ability vs. Homework Time, Ability vs. Reading Time, Weekly Improvement vs. Homework Time) in the positive direction, but no correlation changed qualitatively.](fake-learners-shift-resource-skill-correlations-positive.md) — related
+- In the Champaign et al. replication, removing fake learners moved three correlations (Ability vs. Homework Time, Ability vs. Reading Time, Weekly Improvement vs. Homework Time) in the positive direction, but no correlation changed qualitatively. — related
 - [A simulated doubling of fake learners (from ~15% to ~26%) significantly increased the bias in Analysis 1A, making 'Doers who are neither Watchers nor Readers' by far the most successful group.](doubling-fake-learners-increases-bias.md)
 - [Removing fake learners changed the Tetrad causal graph: the links watching → quizScore and reading → IRT disappeared.](fake-learners-change-tetrad-causal-graph.md)

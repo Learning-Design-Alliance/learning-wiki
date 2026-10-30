@@ -47,7 +47,7 @@ Kendall's tau correlation across 9 teams in the field-based observational study,
 
 ## Related Claims
 - [Physiological synchrony during collaborative interaction shows initial positive correlations with collaboration quality, task performance, and learning gains](physiological-synchrony-collaboration-quality-correlation.md) — a broader claim this one bears on
-- [Regression models of PS on CRM performance could not be conducted because four regression assumptions were not met](ps-regression-assumptions-not-met.md) — related
+- Regression models of PS on CRM performance could not be conducted because four regression assumptions were not met — related
 - [Higher physiological synchrony relates to less monitoring with positive valence](synchrony-negative-predictor-positive-valence.md) — related
 - [Increased physiological arousal and higher physiological synchrony relate to more monitoring with negative valence](arousal-synchrony-negative-valence-monitoring.md) — related
 - [Neither physiological arousal nor physiological synchrony predicts equality of participation in monitoring interactions](no-physiological-prediction-equality-participation.md) — related

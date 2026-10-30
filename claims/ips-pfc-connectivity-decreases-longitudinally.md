@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2018
+recheck_by: 2023
 sources:
   - id: christian-battista-2018
     resource: "https://doi.org/10.1038/s41539-017-0017-2"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Left IPS connectivity with left dlPFC and left vlPFC was initially above baseline and declined with age over the 6-year longitudinal span. [→ Christian Battista 2018](#christian-battista-2018)
@@ -49,5 +50,5 @@ Whole-brain voxelwise hierarchical linear modeling of gPPI task-related connecti
 - [Longitudinal changes in IPS connectivity occur independently of changes in regional activation](connectivity-changes-independent-of-activation-changes.md) — related
 - [Hippocampal engagement during arithmetic problem solving increases longitudinally in children while prefrontal-parietal engagement decreases](hippocampal-engagement-increases-prefrontal-parietal-decreases.md) — related
 - [Longitudinal gains in children's retrieval fluency are predicted by increased hippocampal-neocortical functional connectivity, not by hippocampal activation levels](hippocampal-connectivity-predicts-retrieval-gains.md) — related
-- [Age-related connectivity changes persist after controlling for head motion, which itself decreases with age](motion-does-not-confound-connectivity-findings.md) — related
+- Age-related connectivity changes persist after controlling for head motion, which itself decreases with age — related
 - [Richer home numeracy experiences are associated with stronger number-specific functional connectivity between the left IPS and other regions.](home-numeracy-positive-ips-connectivity.md) — related

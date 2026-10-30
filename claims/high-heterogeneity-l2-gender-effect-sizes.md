@@ -52,4 +52,4 @@ Heterogeneity test within the same three-level random-effects meta-analysis. The
 - [The positive GenAI writing effect is robust across dependence-aware, sensitivity, and risk-of-bias specifications, but the wide prediction interval spans near-zero to large effects](genai-writing-effect-robustness-checks.md) — related
 - [Effects of game-based learning in STEM education vary substantially across studies, with prediction intervals spanning trivial-to-negative through very strong effects](games-stem-substantial-heterogeneity-prediction-intervals.md) — related
 - [Label-effect sizes are highly heterogeneous, with variance split between and within studies](label-effect-heterogeneity-multilevel-variance.md) — related
-- [Effect sizes vary widely between studies and especially between comparisons within studies](large-variation-word-reading-intervention-effects.md) — related
+- Effect sizes vary widely between studies and especially between comparisons within studies — related

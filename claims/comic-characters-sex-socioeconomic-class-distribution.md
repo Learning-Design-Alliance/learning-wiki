@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 1953
+recheck_by: 1958
 sources:
   - id: audio-visual-communication-review-1953
     resource: "https://doi.org/10.1007/bf02713301"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1953 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1953 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1958**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` A greater proportion of female than male characters is in the upper-middle and upper socio-economic classes, with a correspondingly larger proportion of males in the lower-middle and lower classes. [→ Audio-Visual Communication Review 1953](#audio-visual-communication-review-1953)

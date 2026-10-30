@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: nagy-2024
     resource: "https://doi.org/10.1007/s40593-023-00331-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` A CatBoost classifier trained on pre-enrollment achievement measures achieves an AUC of 0.774 and an average precision of 0.847 on a held-out 2017 cohort. [→ Nagy 2024](#nagy-2024)

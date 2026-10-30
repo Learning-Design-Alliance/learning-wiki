@@ -17,7 +17,7 @@ sources:
 # Integrate metacognitive instruction, assessment, and feedback mechanisms across diverse educational domains
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends integrating metacognitive instruction, assessment, and feedback mechanisms into various educational domains, encompassing design, healthcare, language, teacher training, as well as special and early childhood education. It further advocates exploring diverse metacognitive instructional strategies and analytics technologies to bolster students' metacognitive processes, and underscores interdisciplinary collaborations between metacognition experts, educators, psychologists, computer scientists, and data scientists. Specific implementations discussed include adaptive assessment and feedback in LMSs, simulation-based healthcare training with reflection-based activities such as digital journaling after simulations, and pairing automated feedback with personal reflections.
@@ -38,7 +38,6 @@ The article recommends integrating metacognitive instruction, assessment, and fe
 
 ## Claims
 
-- [Six metacognition research topics show significantly increasing trends, including healthcare education and assessment and feedback](../claims/six-metacognition-topics-significantly-increasing.md) [+W]
 
 ## Related Strategies
 

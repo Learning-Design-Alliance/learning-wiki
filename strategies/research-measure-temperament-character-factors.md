@@ -44,6 +44,7 @@ Pressey's second recommended research direction is a "courageous attack upon the
 
 - [Conduct a smaller sequence of rapid-cycle studies that build on one another instead of planning a single large confirmatory study](sequence-of-smaller-rapid-cycle-dlp-studies.md)
 - [Recommended reading path into the teaching-machine field: an introductory article first, then the basic Pressey (1950) and Skinner (1958) articles](introductory-reading-path-teaching-machines.md)
+- [Use Downey's will-profile technique as a model requiring exact qualitative study of the test situation before quantitative standardization](qualitative-study-before-standardization.md)
 
 ## Examples
 -

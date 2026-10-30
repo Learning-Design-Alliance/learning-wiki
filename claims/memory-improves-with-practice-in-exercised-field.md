@@ -45,5 +45,7 @@ The improvement is evident from the learning and retention curves of the third e
 
 
 ## Related Claims
+
 - [Repeated retrieval practice alters the rate at which learned items are forgotten, according to learn-to-criterion studies and forgetting-curve analyses the chapter reviews](repeated-retrieval-alters-the-rate-of-forgetting.md) — related
 - [Accumulated deliberate practice is associated with performance, explaining a domain-dependent share of its variance: about a quarter in games, 4% in education and under 1% in professions](deliberate-practice-improves-performance.md) — related
+- [In Pyle's experiments women made better records than men](women-better-records-pyle-memory-experiments.md)

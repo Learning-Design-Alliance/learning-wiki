@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2018
+recheck_by: 2023
 sources:
   - id: fallon-2018
     resource: "https://doi.org/10.1016/j.compedu.2018.06.027"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Post hoc tests showed 6-year-olds displayed more DSE than 8-year-olds and 10-year-olds, with no significant difference between 8- and 10-year-olds. [→ Fallon 2018](#fallon-2018)
@@ -46,6 +47,6 @@ Post hoc comparisons following the ANOVA in the Results section showed 6-year-ol
 
 ## Related Claims
 - [The advantage of computer role-play over paper-pencil vignettes in eliciting DSE holds for 6- and 8-year-olds but not for 10-year-olds](age-by-presentation-interaction-dse.md) — related
-- [The authors report this as the first study to quantify DSE and social vulnerability in typically developing middle-childhood populations](first-quantification-dse-middle-childhood.md) — related
+- The authors report this as the first study to quantify DSE and social vulnerability in typically developing middle-childhood populations — related
 - [Children display more disinhibited social engagement in a computer-mediated role-play task than in theme-matched paper-pencil vignettes](more-dse-computer-role-play-than-paper-pencil.md) — related
 - [Theory of Mind is negatively correlated with DSE/social vulnerability scores on both task formats](tom-negatively-correlated-dse.md) — related

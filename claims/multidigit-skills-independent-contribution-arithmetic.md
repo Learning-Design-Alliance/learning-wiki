@@ -50,6 +50,8 @@ Fixed-order regression analyses with 258 third graders entering domain-general a
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
 - [Different domain-general factors uniquely account for variation in different arithmetic skills](domain-general-factors-skill-specific.md) — related
 - [Preschool counting skills and number knowledge directly predict formal arithmetic skills in primary school, together accounting for 40–46% of variance](counting-number-knowledge-predict-arithmetic.md) — related
 - [Numeral comparison, but not quantity enumeration, uniquely accounts for variation in basic calculation fluency](numeral-comparison-unique-calculation-fluency.md) — reports the opposite
+- [Understanding numerical order explains unique variance in children's arithmetic and becomes the best predictor of arithmetic performance by the end of primary school](numerical-order-predicts-arithmetic-development.md)

@@ -45,6 +45,6 @@ In the propensity-weighted latent state treatment-effects models, the family-obl
 
 
 ## Related Claims
-- [Propensity score weighting balanced the two non-intervention control groups on all outcomes at T2 and T3, supporting internal validity](placebo-test-controls-balanced.md) — related
+- Propensity score weighting balanced the two non-intervention control groups on all outcomes at T2 and T3, supporting internal validity — related
 - [A parent STEM workshop increased students' reported state-level parent-child STEM conversations at the six-month follow-up, with effects no longer present at 12 months](parent-workshop-stem-conversations-six-months.md) — related
 - [The intervention group reported higher state parental support than the unreachable/non-interested control group at the 12-month follow-up](parent-workshop-support-twelve-months.md) — related

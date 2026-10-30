@@ -47,4 +47,4 @@ Manual engineering validation of the packaged artifact across platforms and lang
 
 ## Related Claims
 - [DebugTracker's automated test suite passes all 16 checks covering session, capture, mode-policy, and reporting mechanisms](debugtracker-16-automated-checks-pass.md) — related
-- [Most studies used Windows as the operating system of their application](windows-most-used-operating-system.md) — related
+- Most studies used Windows as the operating system of their application — related

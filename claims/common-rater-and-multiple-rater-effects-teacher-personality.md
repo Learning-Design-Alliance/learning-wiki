@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 2018
+recheck_by: 2021
 sources:
   - id: kim-2018
     title: Kim 2018
@@ -28,7 +29,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r2` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` All subjective outcomes were significantly more strongly associated with teacher personality when the same students rated both predictor and outcome, with very large effect sizes for the difference. [→ Kim 2018](#kim-2018)

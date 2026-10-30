@@ -48,6 +48,6 @@ In the GazeTutor study, the system detected inattention when gaze was not on the
 - [Attention](../learner-variables/attention.md) — outcome: instruction changes it
 
 ## Related Claims
-- [D'Mello proposes attention tracking and management as a new AIED research direction](dello-attention-tracking-vision.md) — a broader claim this one bears on
+- D'Mello proposes attention tracking and management as a new AIED research direction — a broader claim this one bears on
 - [GazeTutor's attention-aware reorientation improved deep reasoning learning gains for high aptitude learners](gazetutor-deep-reasoning-gains-high-aptitude.md) — related
 - [Gaze-based assistance supported a smoother attention transition between narrated regions, while baseline assistance elicited more abrupt reorientation](gaze-assistance-smaller-attention-transition.md) — related

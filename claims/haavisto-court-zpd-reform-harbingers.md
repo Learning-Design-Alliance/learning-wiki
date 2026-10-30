@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: weak
 newest_evidence: 2010
+recheck_by: 2013
 sources:
   - id: engeström-2010
     resource: "https://www.sciencedirect.com/journal/educational-research-review"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2013**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` W fińskim sądzie okręgowym wdrażającym krajową reformę sądownictwa, ekspansywne uczenie się odbywało się poprzez małe stopniowe kroki wyznaczone przez zwiastuny reform, takie jak klienci przejmujący inicjatywę w postępowaniu. [→ Engeström 2010](#engestrom-2010)

@@ -65,4 +65,4 @@ The review reports countervailing and null discipline findings: one study found 
 
 ## Related Claims
 - [Student factors — older age, personality traits, intrinsic motivation and self-efficacy — are associated with deeper approaches to learning](student-factors-deep-approach.md) — related
-- [Arts and humanities is the most frequent subject domain in peer assessment research, with natural sciences, education, and health and welfare next](peer-assessment-arts-humanities-most-frequent-domain.md) — related
+- Arts and humanities is the most frequent subject domain in peer assessment research, with natural sciences, education, and health and welfare next — related

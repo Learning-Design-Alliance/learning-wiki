@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: joshua-s-cetron-2020
     resource: "https://doi.org/10.1038/s41539-020-0065-x"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Significant peak visual similarity informational networks for both groups occurred in primary visual cortex, with the ventral-stream visual gradient running opposite to the mechanical category gradient. [→ Joshua S. Cetron 2020](#joshua-s-cetron-2020)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: kersey-2019
     resource: "https://doi.org/10.1038/s41539-019-0057-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Levene's Test of Variance found one small region of right posterior parietal cortex where girls showed greater variance than boys, but no difference in mean activation. [→ Kersey 2019](#kersey-2019)

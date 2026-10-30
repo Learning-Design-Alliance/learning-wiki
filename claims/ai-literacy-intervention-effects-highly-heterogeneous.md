@@ -53,7 +53,7 @@ Heterogeneity assessment within the same three-level meta-analysis. All variance
 - [Technology-supported educational interventions are associated with higher metacognitive outcomes on average (g = 0.653), with substantial between-study heterogeneity](technology-interventions-positive-pooled-metacognition-effect.md) — related
 - [Effects of game-based learning in STEM education vary substantially across studies, with prediction intervals spanning trivial-to-negative through very strong effects](games-stem-substantial-heterogeneity-prediction-intervals.md) — related
 - [Substantial unexplained heterogeneity characterises short-term effects of targeted K-6 interventions](substantial-heterogeneity-short-term-effects.md) — related
-- [Effect sizes vary widely between studies and especially between comparisons within studies](large-variation-word-reading-intervention-effects.md) — related
+- Effect sizes vary widely between studies and especially between comparisons within studies — related
 - [Label-effect sizes are highly heterogeneous, with variance split between and within studies](label-effect-heterogeneity-multilevel-variance.md) — related
 - [Effect sizes across studies show substantial heterogeneity, with wide prediction intervals spanning large negative to large positive true effects](heterogeneity-math-interventions-co-occurring.md) — related
 - [Effect sizes for gender differences in L2 achievement are highly heterogeneous across studies (I² = 89.82%)](high-heterogeneity-l2-gender-effect-sizes.md) — related

@@ -12,7 +12,7 @@ generated:
 # Extended Skill Development Model (ESDM)
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The ESDM is the authors' alternative to the reciprocal effects model of academic self-concept and achievement. It "posits a unidirectional effect of trait-like academic achievement on trait-like self-concept", and holds that time-specific scores on both constructs arise from those trait-like levels "in addition to common time-specific state factors, e.g., illness or mood", with autoregressive effects among the state factors and no direct prospective effects between occasion-specific scores. In this article it is fitted to simulated PALMA-like and TRAIN-like data, where its good fit suggests observed cross-lagged effects may be spurious.
@@ -22,7 +22,6 @@ The ESDM is the authors' alternative to the reciprocal effects model of academic
 - **Extended Skill Development Model (ESDM)**: The ESDM is the authors' alternative to the reciprocal effects model of academic self-concept and achievement. It "posits a unidirectional effect of trait-like academic achievement on trait-like self-concept", and holds that time-specific scores on both constructs arise from those trait-like levels "in addition to common time-specific state factors, e.g., illness or mood", with autoregressive effects among the state factors and no direct prospective effects between occasion-specific scores. In this article it is fitted to simulated PALMA-like and TRAIN-like data, where its good fit suggests observed cross-lagged effects may be spurious. (Kimmo Sorjonen et al. (2025))
 
 ### Claims
-- [Good fit of the ESDM indicates the PALMA data could have been generated without any prospective effects between achievement and self-concept](../claims/esdm-fit-suggests-spurious-prospective-effects.md) [+M]
 
 ## Related Research Methods
 -

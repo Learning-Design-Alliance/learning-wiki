@@ -58,5 +58,5 @@ Illustrative hypothetical example of 100 examinees with 95% observed agreement a
 - [Systems Thinking Practices is the hardest CT construct to code reliably for both human raters and the LLM, requiring more explicitly operationalized rubrics](stp-low-reliability-complex-construct.md) — related
 - [Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions](frisco-rater-agreement-reliable.md) — related
 - [Prior non-LLM automated coding approaches yielded variable and often lower agreement with human coders on teacher knowledge measures, especially PCK](prior-automated-coding-variable-lower-agreement-pck.md) — related
-- [A prior-study corpus of 84 peer tutoring sessions was coded for help type and conceptual content with kappa of 0.83 and 0.72](apta-peer-tutoring-dialogue-corpus-coding.md) — related
-- [The review's corpus comprises 39 peer-reviewed articles selected via a PRISMA protocol with substantial screening agreement](ile-psychomotor-review-corpus-39-articles-prisma.md) — related
+- A prior-study corpus of 84 peer tutoring sessions was coded for help type and conceptual content with kappa of 0.83 and 0.72 — related
+- The review's corpus comprises 39 peer-reviewed articles selected via a PRISMA protocol with substantial screening agreement — related

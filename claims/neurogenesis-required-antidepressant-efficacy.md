@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: katherine-l-jones-2022
     resource: "https://doi.org/10.1038/s41539-022-00133-y"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` X-irradiation ablation blocked the anxiolytic effects of fluoxetine and imipramine on the novelty-suppressed feeding test, a finding replicated across ablation approaches and extended by chemogenetic silencing. [→ Katherine L. Jones 2022](#katherine-l-jones-2022)

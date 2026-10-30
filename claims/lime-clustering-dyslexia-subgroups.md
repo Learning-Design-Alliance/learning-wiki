@@ -10,6 +10,7 @@ generated:
 evidence_strength: moderate
 newest_evidence: 2026
 source_checked: 2026-10-26
+recheck_by: 2029
 sources:
   - id: tan-2026
     resource: "https://doi.org/10.1038/s41539-026-00429-3"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Two responder subgroups (DBI = 0.81) and four non-responder subgroups (DBI = 0.48) were identified among 132 students with dyslexia using the Davies-Bouldin Index to select cluster solutions. [→ Tan 2026](#tan-2026)

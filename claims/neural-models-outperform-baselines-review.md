@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: samah-alkhuzaey-2023
     resource: "https://doi.org/10.1007/s40593-023-00362-1"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The review reports, citing Qiu et al. (2019), that a BiLSTM model with confusion and recall difficulty modules significantly outperformed all baselines with all metrics. [→ Samah AlKhuzaey 2023](#samah-alkhuzaey-2023)

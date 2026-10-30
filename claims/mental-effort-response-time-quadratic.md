@@ -46,5 +46,5 @@ Reanalysis of repeated-measurement data (16 questions per participant, 32 partic
 
 ## Related Claims
 - [Mental effort relates to self-rated certainty in a cubic (declining–flat–declining) rather than linear pattern](mental-effort-certainty-cubic.md) — related
-- [Evidence on the mental effort–workload relation is mixed: AIC prefers quadratic, BIC prefers linear](mental-effort-workload-mixed-evidence.md) — related
+- Evidence on the mental effort–workload relation is mixed: AIC prefers quadratic, BIC prefers linear — related
 - [Mental effort relates to article viewing time linearly; no evidence against the linear model was found](mental-effort-viewing-time-linear.md) — related

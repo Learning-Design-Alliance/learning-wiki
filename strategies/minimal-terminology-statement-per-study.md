@@ -17,7 +17,7 @@ sources:
 # Attach a minimal terminology statement (term, operational definition, hypothesized pathway) to each study
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 2 studies (1 review, 1 theoretical), `q1`–`q3` · 0 of 2 report an effect size · 5 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 review, 1 theoretical), `q1`–`q3` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The authors recommend that each study include a minimal "terminology statement" combining a term, a brief operational definition, and a hypothesized pathway, so that translation to practice is explicit and confusion with superficially similar but mechanistically different practices is reduced. They also suggest journals require a Key Terms Definition table or boxed glossary for interdisciplinary submissions, listing how central terms are defined and operationalized, with notes on intended scope.
@@ -40,10 +40,8 @@ The authors recommend that each study include a minimal "terminology statement" 
 
 ## Claims
 
-- [Embodiment research lacks a shared vocabulary, with over 20 distinct labels for embodiment-related concepts appearing in the last decade](../claims/embodiment-terminology-fragmentation-over-twenty-labels.md) [+W]
 - [Loose use of movement-based learning language risks conflating evidence-based embodied learning with debunked neuromyths](../claims/embodiment-terminology-neuromyth-conflation-risk.md) [+W]
 - [Fragmented vocabularies bias AI-mediated literature retrieval toward the user's home discipline](../claims/fragmented-vocabularies-bias-ai-retrieval.md) [+W]
-- [Inconsistent embodiment labels cause functionally similar experiments to go uncited across disciplines, hindering meta-analysis](../claims/terminology-silos-uncited-parallel-experiments.md) [+W]
 - [Instruments show conceptual inconsistency: the same terms label different competence aspects, and disciplinary origin does not significantly correlate with definition or terminology choice](../claims/inconsistent-terminology-competence-aspects-autism-instruments.md) [+W]
 
 ## Related Strategies

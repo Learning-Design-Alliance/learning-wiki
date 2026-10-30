@@ -64,6 +64,8 @@ Follow-up LMMs in the Loss frame (Study 1). Ingroup impressions significantly de
 
 
 ## Related Claims
+
 - [Both cultures show initial ingroup bias: more positive impressions, higher expectancy and closeness for ingroup than outgroup before interaction](initial-ingroup-bias-both-cultures.md) — related
 - [In East Asian participants, the Loss-frame bias reduction occurs only for participants with low ingroup identification; on average outgroup impressions improved more than ingroup impressions changed](loss-frame-effect-modulated-by-identification.md) — related
 - [In Western participants, stronger weight on negative ingroup prediction errors (Wneg_in) in the Loss frame predicts greater reduction of ingroup bias, driven by ingroup impression change](wneg-in-predicts-bias-reduction-western.md) — a narrower finding that bears on this claim
+- [In East Asian participants, the Wneg_in parameter relates to bias reduction only when moderated by low ingroup identification](wneg-in-moderated-by-identification-east-asian.md)

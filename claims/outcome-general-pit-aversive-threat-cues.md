@@ -46,5 +46,5 @@ Experiment 1's outcome-general test compared defensive response counts during no
 
 ## Related Claims
 - [Anticipating highly threatening monsters increases defensive effort and shifts action preference toward flight](high-threat-shifts-toward-flight.md) — related
-- [The threat induction manipulation checks confirm increased stress and elevated defensive responding under high threat](threat-manipulation-checks-stress-responding.md) — related
+- The threat induction manipulation checks confirm increased stress and elevated defensive responding under high threat — related
 - [Threat-conditioned cues selectively bias fight-or-flight action choice toward the response effective against the signaled monster (outcome-specific PIT)](outcome-specific-pit-fight-flight-decisions.md) — related

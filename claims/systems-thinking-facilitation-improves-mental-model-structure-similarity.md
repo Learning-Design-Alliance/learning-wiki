@@ -49,4 +49,4 @@ Simulation-based experiment with 73 managers randomly assigned to three stages u
 - [Group C with high feedback information and high systems thinking facilitation showed the best mental model structure similarity, behaviour similarity, and performance](high-lfi-high-lstf-group-best-outcomes.md) — related
 - [Mental Model Behaviour Similarity positively influences Performance (financial value creation)](mental-model-behaviour-similarity-improves-performance.md) — related
 - [Mental Model Structure Similarity positively influences Mental Model Behaviour Similarity](mental-model-structure-similarity-improves-behaviour-similarity.md) — related
-- [Causal influence diagrams were used to relate mental model structures to decision-making behaviors](causal-influence-diagrams-mental-models-decision-making.md) — related
+- Causal influence diagrams were used to relate mental model structures to decision-making behaviors — related

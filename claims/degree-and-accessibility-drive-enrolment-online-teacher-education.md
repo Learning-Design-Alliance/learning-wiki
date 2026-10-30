@@ -9,6 +9,7 @@ generated:
   at: 2026-10-30
 evidence_strength: moderate
 newest_evidence: 2014
+recheck_by: 2019
 sources:
   - id: banegas-2014
     resource: "http://dx.doi.org/10.1016/j.compedu.2014.03.014"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Interviewees reported that obtaining a teaching degree and accessibility in time and place were the main motivations to enrol and stay on the course. [→ Banegas 2014](#banegas-2014)

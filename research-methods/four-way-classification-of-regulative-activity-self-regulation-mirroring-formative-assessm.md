@@ -26,6 +26,8 @@ The article classifies regulative approaches by how much of the loop the system 
 ## Related Research Methods
 
 - [Four dimensions for classifying regulative loop systems: knowledge type, recipient, change process, granularity](four-dimensions-for-classifying-regulative-loop-systems-knowledge-type-recipient-change-pr.md)
+- [Three-tiered classification system of self-regulation: categories, domains, and facets](three-tiered-classification-system-of-self-regulation-categories-domains-and-facets.md)
+- [Working classification of chatbot and language-model technologies for AI coaching](working-classification-of-chatbot-and-language-model-technologies-for-ai-coaching.md)
 
 ## Key Sources
 - VanLehn, K. (2015). Regulative Loops, Step Loops and Task Loops. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-015-0056-x

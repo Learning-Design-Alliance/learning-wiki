@@ -46,7 +46,7 @@ One-way MANCOVA in an online experiment where 605 participants (345 analysed aft
 
 ## Related Claims
 - [Composite credibility scores differ significantly between the AI frame and both the neuroscience and educational psychology frames](ai-frame-lower-composite-credibility.md) — possibly the same claim (merge candidate)
-- [Educators judge AI-framed educational evidence as significantly less credible than educational-psychology-framed evidence](educators-ai-frame-less-credible.md) — a narrower finding that bears on this claim
+- Educators judge AI-framed educational evidence as significantly less credible than educational-psychology-framed evidence — a narrower finding that bears on this claim
 - [Familiarity with the article topic correlates positively with bias against credibility of framed evidence](familiarity-correlates-credibility-bias.md) — related
 - [Neuroscience framing shows no seductive allure effect when article length is equated](no-neuroscience-framing-effect-length-controlled.md) — related
 - [The public perceives AI as less helpful for understanding how children learn, less adherent to scientific methods, and less prestigious than neuroscience and educational psychology](negative-attitudes-toward-ai-discipline.md) — related

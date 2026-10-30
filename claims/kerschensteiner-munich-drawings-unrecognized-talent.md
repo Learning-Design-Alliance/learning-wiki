@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1910
+recheck_by: 1915
 sources:
   - id: william-stern-1910
     resource: "https://archive.org/search?query=Journal+of+Educational+Psychology"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
-> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1915**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In Kerschensteiner's experiments on roughly 50,000 Munich public-school children, drawings of remarkable artistic merit were found almost all to be the work of children of very poor parents, and in most cases the school had not properly appraised this talent. [→ William Stern 1910](#william-stern-1910)

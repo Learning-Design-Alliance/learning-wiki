@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: ferreira-2024
     resource: "https://doi.org/10.1007/s40593-024-00410-4"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In open-ended survey responses, Brazilian teachers desired superpowers such as automatically grading assignments and assessments to optimize time, avoid physical and mental exhaustion, and focus on class execution. [→ Ferreira 2024](#ferreira-2024)

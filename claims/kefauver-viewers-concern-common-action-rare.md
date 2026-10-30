@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 1952
+recheck_by: 1957
 sources:
   - id: wiebe-1952
     resource: "https://www.jstor.org/stable/2745943"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1952 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1952 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1957**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` All 260 interviewed viewers expressed concern with the local social problem, 25 percent felt like doing problem-solving things, and 13 percent actually did things classifiable as problem-directed behavior. [→ Wiebe 1952](#wiebe-1952)

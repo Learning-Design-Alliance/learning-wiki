@@ -45,7 +45,7 @@ Quasi-experimental field study comparing 105 seminar students across seven cours
 
 
 ## Related Claims
-- [Pretest LSAT scores did not differ reliably between seminar and control groups](seminar-pretest-no-reliable-difference.md) — related
+- Pretest LSAT scores did not differ reliably between seminar and control groups — related
 - [Control students' LSAT scores did not change significantly over the semester (d = 0.11, p = 0.27)](control-students-no-significant-lsat-change.md) — related
 - [Seminar group membership remained a significant predictor of improvement after controlling for pretest scores (η²p = 0.075)](seminar-ancova-group-effect.md) — related
 - [Recent studies found LSAT-measured effect sizes three times smaller than CCTST-measured effect sizes for critical-thinking training](lsat-effect-sizes-smaller-than-cctst.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: carmen-álvarez-álvarez-samuel-falcon-2023
     resource: "https://doi.org/10.1007/s11423-023-10239-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Overall percentage of agreement between two human researchers and GPT-3 was 89.07%, and human-human agreement (90.56%) was close to human-AI agreement (86.85% and 89.81%). [→ Carmen Álvarez-Álvarez & Samuel Falcon 2023](#carmen-alvarez-alvarez-samuel-falcon-2023)
@@ -51,5 +52,5 @@ Reliability analysis in which two researchers independently coded a random 10% o
 - [On CK items, GradeOpt showed near-perfect alignment with human codes (κ = .88 and .85; QWK = .89 and .94), comparable to human–human agreement](gradeopt-near-perfect-ck-agreement.md) — related
 - [GPT-4 achieved almost perfect inter-rater reliability with faculty after three iterations of rubric engineering on three of four medical school OEQ questions](gpt4-almost-perfect-irr-after-rubric-engineering.md) — related
 - [A customised GPT-4 agreed with a human coder on over 90% of coded dialogue turns in both math and Chinese lessons](gpt4-human-coder-agreement-over-90-percent.md) — related
-- [Three expert coders reached 77.15% overall agreement (Fleiss' κ = 0.763) on the LCT MOOC sample, and over half of their disagreements lay between Exploration and Integration](coder-agreement-exploration-integration-disagreements.md) — related
+- Three expert coders reached 77.15% overall agreement (Fleiss' κ = 0.763) on the LCT MOOC sample, and over half of their disagreements lay between Exploration and Integration — related
 - [University students most often named teaching practices focused on interaction and relationships and on clarity as the best they had experienced](students-prefer-clarity-and-interaction-practices.md) — related

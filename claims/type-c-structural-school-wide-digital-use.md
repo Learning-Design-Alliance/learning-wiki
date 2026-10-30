@@ -45,5 +45,7 @@ Qualitative multiple-case analysis of School C, a large public school that intro
 
 
 ## Related Claims
+
 - [In Type A schools, digital technology is used selectively according to individual teacher preference](type-a-selective-teacher-preference-digital-use.md) — related
 - [In Type B schools, digital technology is used selectively according to individual student preference](type-b-selective-student-preference-digital-use.md) — reports the opposite
+- [The three case schools were selected as the highest digital-technology-use schools among 31 Swiss personalized-learning schools surveyed via 1017 8th-grade students](case-selection-highest-digital-use-31-schools.md)

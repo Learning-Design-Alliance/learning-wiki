@@ -47,11 +47,11 @@ The synthesis's aggregate finding across all 25 efficacy studies published throu
 
 ## Related Claims
 - [The commentary offers a practice-based perspective on Hilton's (2016) OER efficacy review in the context of the COVID-19 pivot to remote instruction](hodges-2021-practice-perspective-hilton-oer.md) — related
-- [The number of published OER efficacy and perceptions studies rose rapidly between 2015 and 2018, with more studies published in those 3 years than in the previous 15.](oer-research-rapid-rise-2015-2018.md) — related
-- [OER efficacy research methodology improved between 2015 and 2018, with more studies controlling for student and teacher variables.](oer-efficacy-methodology-improvement.md) — related
-- [Common weaknesses in OER efficacy studies include reliance on non-standard learning measures and challenges with randomization.](oer-efficacy-study-weaknesses.md) — related
+- The number of published OER efficacy and perceptions studies rose rapidly between 2015 and 2018, with more studies published in those 3 years than in the previous 15. — related
+- OER efficacy research methodology improved between 2015 and 2018, with more studies controlling for student and teacher variables. — related
+- Common weaknesses in OER efficacy studies include reliance on non-standard learning measures and challenges with randomization. — related
 - [Students achieve the same or better learning outcomes when using OER compared to commercial textbooks, while saving significant amounts of money.](oer-same-or-better-learning-outcomes-2015-2018.md) — a narrower finding that bears on this claim
-- [Future OER research should examine disaggregated data for specific student populations, conduct quantitative meta-analyses, and compare specific OER materials and subject areas.](oer-future-research-directions.md) — related
+- Future OER research should examine disaggregated data for specific student populations, conduct quantitative meta-analyses, and compare specific OER materials and subject areas. — related
 - [The majority of faculty and students who have used OER had a positive experience and would do so again.](oer-positive-perceptions-majority.md) — related
 - [In studies comparing ratings from separate groups of OER users and CT users, results were mixed: two studies favored CT, two favored OER, and one showed similar ratings.](oer-separate-group-ratings-mixed.md) — related
 - [Open textbooks appear to offer financial benefits to students without decreasing learning outcomes in higher education](open-textbooks-financial-benefits-without-learning-decrease.md) — a narrower finding that bears on this claim

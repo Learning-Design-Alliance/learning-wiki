@@ -12,7 +12,7 @@ generated:
 # Comprehensive checklist of reporting criteria for intensive longitudinal studies
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The review offers "a comprehensive checklist of reporting criteria for intensive longitudinal methods", integrating the APA Journal Article Reporting Standards, the Trull and Ebner-Priemer (2020) guidelines, and the review's own findings. The checklist covers sample justification, sampling scheme and scheduling, item text and psychometrics, hardware and software, compliance procedures, valid and missing data, the final dataset, analysis preparation, and analysis details. It is operationalised in Table 2, where each criterion was coded met or not met per article.
@@ -22,8 +22,6 @@ The review offers "a comprehensive checklist of reporting criteria for intensive
 - **Comprehensive checklist of reporting criteria for intensive longitudinal studies**: The review offers "a comprehensive checklist of reporting criteria for intensive longitudinal methods", integrating the APA Journal Article Reporting Standards, the Trull and Ebner-Priemer (2020) guidelines, and the review's own findings. The checklist covers sample justification, sampling scheme and scheduling, item text and psychometrics, hardware and software, compliance procedures, valid and missing data, the final dataset, analysis preparation, and analysis details. It is operationalised in Table 2, where each criterion was coded met or not met per article. (Carina Schreiber et al. (2026))
 
 ### Claims
-- [School-research articles rarely justify their samples, sample sizes, or sampling designs when reporting intensive longitudinal studies](../claims/ilm-reporting-justification-shortcomings.md) [+M]
-- [Both publication year and journal five-year impact factor statistically significantly predict adherence to intensive longitudinal reporting guidelines](../claims/ilm-year-impact-factor-predict-adherence.md) [+M]
 
 ## Related Research Methods
 -

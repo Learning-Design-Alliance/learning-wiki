@@ -65,8 +65,8 @@ The review's own synthesis (attributed to Khalil et al. 2022 and Nigam et al. 20
 - [GenAI in education presents a dual profile of potential benefits and significant concerns](genai-personalization-bias-tensions.md) — related
 - [Most reviews reporting neurophysiological AI use stressed the need for further ethical considerations, including participant consent and transparent development](neurophysiological-ai-ethics-consent-transparency.md) — related
 - [Arts-based methods in community-based research raise specific ethical challenges around anonymity, ownership, representation and emotions, alongside practical limits of time, training and cost](abr-ethical-practical-challenges.md) — related
-- [No included ITS study considered AI ethics, and the review calls for longer interventions, larger and more diverse samples, and ethical investigation](its-research-gaps-ethics-and-design.md) — related
-- [Issues of fairness, accountability, transparency and ethics are rarely discussed within AIED and neighboring educational technology research communities](fate-rarely-discussed-in-aied.md) — related
+- No included ITS study considered AI ethics, and the review calls for longer interventions, larger and more diverse samples, and ethical investigation — related
+- Issues of fairness, accountability, transparency and ethics are rarely discussed within AIED and neighboring educational technology research communities — related
 - [Legitimate concerns exist about aied rollout regarding datafication, surveillance, and possibly poor pedagogy](aied-rollout-datafication-surveillance-concerns.md) — related
-- [Only 4% of AIED ethics papers address emotion-related ethical concerns, dominated by affective surveillance consequences](aied-emotion-ethics-underexplored.md) — related
+- Only 4% of AIED ethics papers address emotion-related ethical concerns, dominated by affective surveillance consequences — related
 - [AIED technologies span school administration to personalised learning, with ethical risks including surveillance, privacy loss, and dehumanising prescriptive teaching](aied-technologies-applications-ethical-challenges-synthesis.md) — related

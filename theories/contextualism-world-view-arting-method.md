@@ -43,6 +43,7 @@ The report adopts Pepper's contextualism as its world hypothesis, taking the his
 - [Special participant observer role stepping within the artist's artistic serial](special-participant-observer-role.md)
 - [Counelis typology of research designs by time/space assumptions and unit versus class](counelis-research-design-typology.md)
 - [Three coined conditions of arting: artistic causality, idiosyncratic meaning, and intentional symbolization](three-conditions-of-arting.md)
+- [Earth Science logical reasoning framework: logical inference, hermeneutics, and historical method](earth-science-logical-reasoning-framework.md)
 
 ## Examples
 

@@ -45,6 +45,6 @@ A theoretical editorial argument, offered without empirical data of its own. It 
 
 
 ## Related Claims
-- [Motivational and affective dimensions remain underrepresented in multimodal SRL research despite theoretical consensus on their importance](motivation-affect-underrepresented-multimodal-srl.md) — a broader claim this one bears on
+- Motivational and affective dimensions remain underrepresented in multimodal SRL research despite theoretical consensus on their importance — a broader claim this one bears on
 - [Students' implementation of self-assessment is influenced by perceived usefulness, affective attitude, self-efficacy, important others, and psychological safety](individual-factors-self-assessment-implementation.md) — related
 - [Students perceiving high task value exert greater effort and achieve more than students perceiving low value](high-task-value-effort-achievement.md) — related

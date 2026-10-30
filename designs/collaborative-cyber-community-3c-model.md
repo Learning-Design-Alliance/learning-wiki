@@ -42,7 +42,8 @@ The 3C model, proposed by Lord and Lomicka (2004), is a pragmatic approach for d
 - 
 
 ## Related Designs
-- 
+
+- [Blended 'Sports Multimedia Courseware Design' course (4 months, 36 credits, online self-learning plus offline group-learning)](sports-multimedia-courseware-design-blended-course.md)
 
 ## Examples
 -

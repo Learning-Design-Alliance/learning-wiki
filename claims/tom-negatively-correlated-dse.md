@@ -46,7 +46,7 @@ Pearson correlations in the Results section of the same 54-child study: "r = -.4
 
 
 ## Related Claims
-- [The authors report this as the first study to quantify DSE and social vulnerability in typically developing middle-childhood populations](first-quantification-dse-middle-childhood.md) — related
+- The authors report this as the first study to quantify DSE and social vulnerability in typically developing middle-childhood populations — related
 - [Children display more disinhibited social engagement in a computer-mediated role-play task than in theme-matched paper-pencil vignettes](more-dse-computer-role-play-than-paper-pencil.md) — related
 - [Parent and teacher Relationship Problems Questionnaire scores did not correlate with children's DSE on either task](rpq-no-correlation-dse-typical-children.md) — related
 - [The advantage of computer role-play over paper-pencil vignettes in eliciting DSE holds for 6- and 8-year-olds but not for 10-year-olds](age-by-presentation-interaction-dse.md) — related

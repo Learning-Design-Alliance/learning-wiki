@@ -55,6 +55,6 @@ In an illustrative study of students in India, Manu Kapur applied Lag-sequential
 - [T-pattern analysis reveals qualitative differences in six-year-olds' self-directed speech between typically developing children and peers with SLI that lag sequential and other methods do not detect](t-pattern-detects-sli-self-directed-speech-differences.md) — related
 - [The editors identify sequentiality of CSCL discourse — how one action takes up a previous action in online interaction — as a central, under-theorized problem](sequentiality-central-problem-cscl-discourse.md) — related
 - Documented CSCL empirical corpus 2005–2009 relies mostly on questionnaires and code-and-count, not post-cognitive group-process approaches — related
-- [Multimodal data collection is increasingly common but analyses rarely align data streams temporally](rare-alignment-of-multimodal-data-streams.md) — related
+- Multimodal data collection is increasingly common but analyses rarely align data streams temporally — related
 - [Hidden semi-Markov model analysis of mathematical problem-solving yields brain-processing stages matching rationally expected problem-solving steps](hidden-semi-markov-stages-confirm-problem-solving-steps.md) — related
 - [Lag sequential analysis revealed distinct choice-making trajectories: HPK students showed confidence-driven extra-task engagement and unre reflective repeated-failure sequences, while LPK students relied on preparatory worked examples](lsa-pk-choice-trajectories.md) — a narrower finding that bears on this claim

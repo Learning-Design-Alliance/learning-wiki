@@ -64,4 +64,8 @@ Interpretation of the LCA results: an additional LCA using instructional design 
 
 
 ## Related Claims
--
+
+- [Alignment, rewards, and setting do not discriminate between peer assessment design classes, because a single practice typically dominates each](peer-assessment-nondiscriminating-elements.md)
+- [Formative purpose dominates peer assessment studies, but summative purpose is relatively frequent in ICT, engineering, and health and welfare domains](peer-assessment-formative-purpose-dominant.md)
+- [Gender and ability/skills are the most investigated moderators/mediators of peer assessment](peer-assessment-gender-ability-top-moderators.md)
+- [Written assignments are the most used object of peer assessment, and beliefs and perceptions are the most investigated outcome](peer-assessment-written-object-beliefs-outcome.md)

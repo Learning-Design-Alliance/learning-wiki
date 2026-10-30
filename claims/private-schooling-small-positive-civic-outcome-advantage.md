@@ -50,7 +50,7 @@ Pre-registered RVE meta-analysis pooling 531 effect sizes from 57 qualified stud
 ## Related Claims
 - [Private schooling accessed through a choice program shows no significant civic association, while self-selected private attendance does.](choice-program-versus-self-selected-private-attendance.md) — a narrower finding that bears on this claim
 - [The distribution of individual study estimates is mostly null, with 168 positive, 320 null, and 43 negative findings at 90% confidence intervals.](civic-effect-distribution-mostly-null.md) — related
-- [Studies published before 1998 report much larger private-schooling civic effects than studies from 1998 onward, which the authors treat as evidence of publication bias limited to earlier studies.](pre-1998-studies-larger-private-schooling-civic-effects.md) — related
+- Studies published before 1998 report much larger private-schooling civic effects than studies from 1998 onward, which the authors treat as evidence of publication bias limited to earlier studies. — related
 - [Private schooling shows no statistically significant association with political participation in the four-category analysis.](private-schooling-political-participation-null.md) — a narrower finding that bears on this claim
 - [Private schooling is associated with higher political tolerance (0.120 SD) and higher civic knowledge and skills (0.121 SD).](private-schooling-tolerance-and-civic-knowledge-advantage.md) — a narrower finding that bears on this claim
 - [Religious private schooling is more strongly associated with positive civic outcomes than secular private schooling, which shows no significant association.](religious-private-schooling-stronger-civic-association.md) — a narrower finding that bears on this claim

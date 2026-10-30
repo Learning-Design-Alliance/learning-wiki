@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2019
+recheck_by: 2022
 sources:
   - id: eliot-2019
     resource: "https://doi.org/10.1007/s11423-018-09642-3"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In a 2017 study of all pupils at an urban French middle school (N = 299), 15 of the 18 AEQ constructs fell below Cronbach's alpha = 0.80, with lowest scores around pride and shame. [→ Eliot 2019](#eliot-2019)

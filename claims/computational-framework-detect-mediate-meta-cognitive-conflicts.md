@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2003
+recheck_by: 2006
 sources:
   - id: patricia-azevedo-tedesco-2003
     resource: "https://telearn.hal.science/hal-00197314"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
-> **Currency** · newest study 2003 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2003 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2006**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The article presents a computational framework for detecting and mediating Meta-Cognitive conflicts that analyses ongoing interaction. [→ Patricia Azevedo Tedesco 2003](#patricia-azevedo-tedesco-2003)

@@ -47,4 +47,4 @@ Three-wave longitudinal SEM (CLPM) of 2,365 students in four English secondary s
 - [School-related wellbeing positively predicts subsequent cognitive reappraisal, making the relation reciprocal](school-wellbeing-predicts-reappraisal.md) — related
 - [Positive feedback loops: wellbeing mediates reappraisal stability and reappraisal mediates wellbeing stability over 12 months](reappraisal-wellbeing-feedback-loops.md) — related
 - [Expressive suppression is not significantly related to school-related wellbeing over time in either model](suppression-not-linked-to-school-wellbeing.md) — related
-- [Reciprocal relations models fit better than unidirectional or baseline alternatives for both CLPM and RI-CLPM](reciprocal-model-better-fit-than-nested.md) — related
+- Reciprocal relations models fit better than unidirectional or baseline alternatives for both CLPM and RI-CLPM — related

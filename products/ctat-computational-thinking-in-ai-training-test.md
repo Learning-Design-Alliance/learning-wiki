@@ -32,7 +32,8 @@ A validated multiple-choice assessment developed by Shile Zhang et al. for measu
 - [Higher education students struggle to identify appropriate data representations for AI model training](../claims/students-struggle-data-representation-ai-training.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [25-item electronic magnetism cognitive achievement test](25-item-electronic-magnetism-cognitive-achievement-test.md)
 
 ## Key Sources
 - Shile Zhang and Shuhan Zhang. (2026). Integrating AI into computational thinking: development and validation of an assessment tool for higher education students. International Journal of STEM Education. https://doi.org/10.1186/s40594-026-00623-0

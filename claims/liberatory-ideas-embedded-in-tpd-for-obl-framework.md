@@ -46,5 +46,5 @@ The author's interpretive argument in a response paper: the value of Philipsen e
 
 ## Related Claims
 - [PhD teachers show significantly higher awareness than both MA and BA teachers of liberatory autonomy](phd-higher-awareness-liberatory-autonomy.md) — related
-- [The meta-aggregative review lacks an explicitly critical framework and under-addresses equity](meta-aggregative-review-lacks-critical-framework.md) — related
+- The meta-aggregative review lacks an explicitly critical framework and under-addresses equity — related
 - [Seven responses to Philipsen et al.'s study offer valuable ideas and guidelines for developing TPD for OBL in times of crisis](seven-responses-apply-tpd-obl-framework-in-crisis.md) — related

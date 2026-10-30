@@ -51,5 +51,5 @@ A 3-by-2 mixed ANOVA on response type (correct, incorrect, missed) in the fMRI m
 - [Functional connectivity after correct versus incorrect responses differs by pedagogy: ACC–hippocampus in traditional students after correct trials, ACC–frontal connectivity in Montessori students after incorrect trials](pedagogy-acc-connectivity-error-monitoring.md) — related
 - [Children show greater neural activity for correct than incorrect responses, opposite the adult error-monitoring pattern](children-correct-greater-activation.md) — related
 - [Montessori students show higher activation than traditionally-schooled students in occipital, parietal and medial prefrontal regions regardless of response correctness](montessori-higher-activation-parietal.md) — related
-- [Montessori- and traditionally-enrolled children in this sample were demographically matched on age, gender, fluid intelligence, and SES](montessori-traditional-matched-sample-demographics.md) — related
+- Montessori- and traditionally-enrolled children in this sample were demographically matched on age, gender, fluid intelligence, and SES — related
 - [Montessori-educated children outperform those in traditional schools in mathematics with an effect size of 0.22, according to a recent systematic review of 12 baseline-equivalent studies](montessori-maths-outperforms-traditional-es-022.md) — related

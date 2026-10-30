@@ -72,4 +72,4 @@ Editorial summary of Zhai's (2021) response essay, attributed as the editorial a
 - [Guidance tools in CoSIL increased ease of use but failed to personalize support to individual students, as reported by the reviewed literature](cosil-guidance-ease-of-use-not-personalized.md) — related
 - [GenAI in CS education is argued to enhance student engagement, support equitable learning, and relieve instructional burden](genai-engagement-equity-instructional-burden-benefits.md) — related
 - [Guidance in computer-supported inquiry learning is unevenly distributed across the five inquiry phases](guidance-uneven-across-inquiry-phases.md) — related
-- [Regression optimizes explanation of data at hand while machine learning optimizes out-of-sample prediction, and studies must state which aim they pursue](explaining-versus-predicting-development.md) — related
+- Regression optimizes explanation of data at hand while machine learning optimizes out-of-sample prediction, and studies must state which aim they pursue — related

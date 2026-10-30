@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: okada-2024
     resource: "https://doi.org/10.21203/rs.3.rs-3960164/v1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Students across all genders perceived scientific citizenship positively, with male students scoring higher on proactive exploration, problem solving, and future prospects, and female students leading on affective engagement and science participation. [→ Okada 2024](#okada-2024)

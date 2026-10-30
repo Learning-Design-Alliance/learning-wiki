@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: gianluca-romano-2025
     resource: "https://doi.org/10.1007/s40593-025-00526-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Across the reviewed ITS corpus, tasks implemented to train psychomotor skills tend toward the fine, closed, internally paced, discrete, individual, and simple ends of the skill continua. [→ Gianluca Romano 2025](#gianluca-romano-2025)
@@ -49,4 +50,4 @@ Classification of the extracted ITS corpus through the skill continua framework 
 - [Perceptual tasks dominate the Harrow proficiency levels supported by existing ITS, with physical activities and non-discursive communication rare](harrow-tasks-perceptual-dominance.md) — related
 - [ITS for psychomotor skills cluster in medicine, with sport second and other domains marginal](its-domain-distribution-medicine.md) — related
 - [Sports and healthcare dominate the application domains of ILE-based psychomotor training](ile-psychomotor-domains-sports-healthcare-lead.md) — related
-- [ILE psychomotor training research concentrates on gross, closed, and discrete motor skills](ile-psychomotor-motor-skill-distribution.md) — related
+- ILE psychomotor training research concentrates on gross, closed, and discrete motor skills — related

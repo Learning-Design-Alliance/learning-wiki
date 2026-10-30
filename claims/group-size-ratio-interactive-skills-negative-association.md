@@ -45,7 +45,7 @@ Three-level meta-analysis (ratio: k = 19, N = 3146, r = −.125, p = .032; group
 
 
 ## Related Claims
-- [The evidence base on caregiver interactive skills is fragmented: 57% of identified factors were examined in only one study](fragmented-evidence-base-interactive-skills.md) — related
+- The evidence base on caregiver interactive skills is fragmented: 57% of identified factors were examined in only one study — related
 - [Region, study quality, and interaction domain moderate associations between factors and interactive skills](moderators-region-quality-domain.md) — related
 - [The ratio–interactive-skills association may be partly or entirely attributable to small-study publication bias](publication-bias-ratio-association.md) — related
 - [Higher caregiver salary is associated with higher interactive skills, though causality cannot be determined](salary-interactive-skills-positive-association.md) — related

@@ -13,7 +13,7 @@ generated:
 # A six-category, 28-theme conceptual framework of open data use in learning
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Tim Coughlan's framework organises open-data learning practice into six categories and 28 themes to help educators design and support activities involving open data.
@@ -22,7 +22,6 @@ Tim Coughlan's framework organises open-data learning practice into six categori
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Document analysis of teaching artefacts validated 25 of the 28 themes and identified 65 instances, supporting the trustworthiness of the interview findings](../claims/open-data-document-analysis-validation.md) [+M]
 - [Most interviewed educators employed project or inquiry-based learning designs when teaching with open data](../claims/open-data-inquiry-based-learning-prevalence.md) [+M]
 
 ## Related Products and Programmes

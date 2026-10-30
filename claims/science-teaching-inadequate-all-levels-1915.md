@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1915
+recheck_by: 1920
 sources:
   - id: j-c-b-1915
     resource: "https://archive.org"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
-> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1920**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The teaching of natural science presents inadequacy or misdirected effort across elementary school, high school, and college. [→ J. C. B 1915](#j-c-b-1915)

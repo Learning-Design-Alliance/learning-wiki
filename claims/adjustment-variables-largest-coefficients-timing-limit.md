@@ -66,5 +66,5 @@ The review's own caveat: although good adjustment has positive outcomes, this "d
 ## Related Claims
 - [A systematic review of 32 longitudinal studies identified 96 personal risk and protective factors for psychosocial transition success, consolidated into 16 salient elements across five higher-order domains](96-factors-consolidated-16-elements-five-domains.md) — a broader claim this one bears on
 - [Most extracted associations are small: 219 of nearly 500 coefficients fall below a medium effect size, with conscientiousness–academic adjustment (.64) the largest](mostly-small-associations-conscientiousness-largest.md) — related
-- [Most retained studies lack pre-university baselines, with only five of 32 taking a baseline before students started university, limiting understanding of pre-transition processes](few-studies-pre-university-baseline.md) — related
+- Most retained studies lack pre-university baselines, with only five of 32 taking a baseline before students started university, limiting understanding of pre-transition processes — related
 - [Social support in all forms is a key protective factor for psychosocial success in the transition to university](social-support-key-protective-factor-transition.md) — related

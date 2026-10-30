@@ -46,5 +46,5 @@ Meta-analysis of the course-embedded subset (17 studies, 26 effect sizes), mostl
 
 ## Related Claims
 - [For isolated mathematics material, spaced practice shows a larger but less precise effect (g = 0.38) than the overall spacing effect.](spacing-isolated-material-mathematics-g038.md) — related
-- [Publication-bias evidence differs by subset: significant funnel-plot asymmetry for course-embedded spacing studies but no strong evidence of bias for isolated-material studies.](publication-bias-spacing-subsets-mathematics.md) — related
+- Publication-bias evidence differs by subset: significant funnel-plot asymmetry for course-embedded spacing studies but no strong evidence of bias for isolated-material studies. — related
 - [Spaced practice produces a robust small-to-medium retention advantage over massed practice for mathematics learning overall (g = 0.26).](spacing-effect-mathematics-overall-meta-analysis.md) — a broader claim this one bears on

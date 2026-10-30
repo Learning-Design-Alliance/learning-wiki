@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: msm-sachisthal-2019
     resource: "https://doi.org/10.1037/edu0000327"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The structure of interactions among interest indicators differs between country-level networks, with differences interpreted as pointing to differences in domain specificity of interest. [→ M.S.M. Sachisthal 2019](#msm-sachisthal-2019)

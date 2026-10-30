@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2019
+recheck_by: 2022
 sources:
   - id: michelle-taub-2019
     resource: "https://doi.org/10.1007/s40593-019-00191-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` A nested F-test showed the full model including emotion features significantly improved on the reduced model using only total worksheet submissions (F(6, 53) = 3.54, p < 0.01), with cross-validation R2 improving from 0.191 to 0.285. [→ Michelle Taub 2019](#michelle-taub-2019)

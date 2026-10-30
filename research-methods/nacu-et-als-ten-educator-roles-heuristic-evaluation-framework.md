@@ -29,7 +29,8 @@ The editorial centers the special issue on Nacu et al. (2018)'s framework of "10
 - [Heuristics alone do not prepare network designers or teachers to enact student-centered online learning environments](../claims/heuristics-alone-insufficient-for-student-centered-online-learning.md) [-W]
 
 ## Related Research Methods
--
+
+- [A four-step evaluative framework for judging educational practices and beliefs](a-four-step-evaluative-framework-for-judging-educational-practices-and-beliefs.md)
 
 ## Key Sources
 - Hale Ilgaz. (2021). Shifting to digital with 21st century skills. Education Tech Research Dev. https://doi.org/10.1007/s11423-021-09946-x

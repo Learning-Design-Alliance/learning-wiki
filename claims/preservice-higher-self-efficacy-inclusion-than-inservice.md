@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: dignath-2022
     resource: "https://doi.org/10.1007/s10648-022-09695-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Self-efficacy beliefs about implementing inclusive education were higher for preservice (M = 3.69) than for in-service teachers (M = 3.13). [→ Dignath 2022](#dignath-2022)

@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 50 claims (26 for, 22 mixed, 2 against) · 49 studies (19 causal, 13 quant-synthesis, 10 review, 3 associational, 2 design, 2 theoretical), `q1`–`q4` · 15 of 49 report an effect size · 42 claims rest on one study
+> **Evidence** · 49 claims (26 for, 21 mixed, 2 against) · 49 studies (19 causal, 13 quant-synthesis, 10 review, 3 associational, 2 design, 2 theoretical), `q1`–`q4` · 15 of 49 report an effect size · 41 claims rest on one study
 
 ## Conditional relationship
 
@@ -208,7 +208,6 @@ The expectation should weaken if controlled comparisons of the same practice wit
 - [The SplashLearn Math review found alignment with student agency and gamification principles, including ZPD-based adaptivity](../claims/splashlearn-agency-gamification-alignment.md) [+W]
 - [Gamification positively and significantly affects students' perceptions of autonomy](../claims/gamification-enhances-perceived-autonomy.md) [+W]
 - [Effect sizes are larger when the same instructor teaches both gamified and control groups, and when interventions run one to three months](../claims/gamification-moderators-instructor-and-duration.md) [~W]
-- [Gamification studies measure intrinsic motivation almost exclusively through self-report instruments, with no study using free-choice behavioral measures](../claims/intrinsic-motivation-measured-by-self-report.md) [~W]
 - [Leaderboards prompt upward comparison with group members, continued effort, and forum-based opinion comparison in fully online courses](../claims/leaderboard-upward-comparison-and-effort-perceptions.md) [+W]
 - [Competition increases time spent answering questions but not reading time or in-game accuracy](../claims/competition-response-time-accuracy-null.md) [~W]
 - [Path analysis supports an indirect path from competition through motivation and in-game accuracy to post-test scores](../claims/path-analysis-competition-motivation-accuracy.md) [+W]

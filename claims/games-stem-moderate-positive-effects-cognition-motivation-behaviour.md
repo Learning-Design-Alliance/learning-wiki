@@ -52,4 +52,4 @@ Random-effects meta-analyses of 39 included papers (43 coded studies, 60 effect 
 - [School level shows a marginal moderating effect on motivational outcomes, with secondary students experiencing a lower motivating effect than primary students](school-level-motivation-moderating-effect-marginal.md) — related
 - [Effects of game-based learning in STEM education vary substantially across studies, with prediction intervals spanning trivial-to-negative through very strong effects](games-stem-substantial-heterogeneity-prediction-intervals.md) — related
 - [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](gamification-has-small-positive-effects-on-learning-outcomes.md) — related
-- [60% of evaluated educational serious games were assessed in universities versus 40% in primary or secondary schools](educational-serious-games-majority-universities.md) — related
+- 60% of evaluated educational serious games were assessed in universities versus 40% in primary or secondary schools — related

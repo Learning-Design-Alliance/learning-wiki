@@ -45,9 +45,9 @@ Editorial judgment, offered as a third uncovered area beyond the two named gaps:
 
 
 ## Related Claims
-- [Almost half of the approved Title VII grants compare the instructional effectiveness of various media with conventional approaches to instruction.](titlevii-half-grants-media-versus-conventional.md) — related
-- [An increase in the study of self-instructional approaches and their production variables is a promising recent trend in Title VII research.](titlevii-self-instructional-trend.md) — related
-- [About one-third of Title VII grants have been made for the study of televised teaching.](titlevii-third-grants-televised-teaching.md) — related
+- Almost half of the approved Title VII grants compare the instructional effectiveness of various media with conventional approaches to instruction. — related
+- An increase in the study of self-instructional approaches and their production variables is a promising recent trend in Title VII research. — related
+- About one-third of Title VII grants have been made for the study of televised teaching. — related
 - [Two gaps remain in Title VII research coverage: multi-media total learning systems, and the administration and organization of education systems for optimum use of instructional media.](titlevii-two-research-gaps.md) — related
-- [Title VII stimulated researchers to concentrate on relationships of educational media to instruction, broadening the Ford Foundation's earlier focus on educational television to a wider array of media applications.](titlevii-stimulated-media-instruction-research.md) — related
+- Title VII stimulated researchers to concentrate on relationships of educational media to instruction, broadening the Ford Foundation's earlier focus on educational television to a wider array of media applications. — related
 - [Computers have been used for language learning since the 1960s](computers-language-learning-since-1960s.md) — related

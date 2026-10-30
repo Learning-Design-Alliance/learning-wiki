@@ -49,4 +49,4 @@ Mann–Whitney comparison of subtracted TONA networks between adaptive MAI (13 g
 - [Proactive feedback produces significant post-intervention increases in Joint Visual Attention of dyads](propact-feedback-increases-jva-post-intervention.md) — related
 - [Proxemic configuration significantly shifts the relational organization of regulation, from a visually anchored system when far to a strategy-oriented system when close](proxemic-configuration-rr1-relational-shift.md) — related
 - [Joint attention is a group phenomenon not reducible to either individual's mental representations](joint-attention-group-phenomenon.md) — related
-- [D'Mello proposes attention tracking and management as a new AIED research direction](dello-attention-tracking-vision.md) — related
+- D'Mello proposes attention tracking and management as a new AIED research direction — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1910
+recheck_by: 1913
 sources:
   - id: g-m-w-1910
     resource: "https://doi.org/10.1037/h0069029"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1913**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Taken as a whole, psychological methods (esthesiometry, computation, memory-span, cancellation, completion, continuous-work methods) can afford useful average values and reliable information concerning the course and effect of fatigue. [→ G. M. W 1910](#g-m-w-1910)

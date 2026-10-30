@@ -10,6 +10,7 @@ generated:
 evidence_strength: weak
 newest_evidence: 2022
 source_checked: 2026-10-26
+recheck_by: 2025
 sources:
   - id: whitmore-2022
     resource: "https://doi.org/10.1038/s41539-021-00119-2"
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
-> **Currency** · newest study 2022 · checked against its sources 2026-10-26 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-10-26 (automated, 2 of 2 entries) · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In a decision-tree partition analysis, Sleep Disruption Index was the strongest predictor of the Δrecall cuing effect; participants with an index <0.13 (n=15) had a positive cuing effect (mean=1.53 names, t(14)=2.16, p=0.049), while those above 0.13 did not have a significant one. [→ Whitmore 2022](#whitmore-2022)

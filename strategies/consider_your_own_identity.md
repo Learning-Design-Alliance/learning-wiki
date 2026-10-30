@@ -62,6 +62,7 @@ Self-reflection on identity functions as a form of [Activation](../principles/ac
 - [Active Listening](active-listening.md) — the facilitation stance that identity reflection prepares educators to adopt
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the same surfacing-of-assumptions move, applied to learners rather than facilitators
 - [Use stereotype-awareness and cross-cultural activities to surface assumptions about NESB staff](stereotype-awareness-cultural-activities.md)
+- [Teacher educators should develop enhanced critical epistemic reflexivity about the knowledge claims underpinning preparation for diversity](critical-epistemic-reflexivity-teacher-educators.md)
 
 ## Related Elements
 - [Check-In](../elements/check-in.md) — structured emotional entry point for reflection sessions

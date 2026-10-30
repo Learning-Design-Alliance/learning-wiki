@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: michael-j-parker-2024
     resource: "https://doi.org/10.1007/s40593-024-00414-0"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q3`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Zero-shot GPT-4 results on the consensus-rows evaluation were similar to what might be expected of fine-tuned classifiers. [→ Michael J. Parker 2024](#michael-j-parker-2024)
@@ -69,7 +70,7 @@ The same comparison section reports differentiated model profiles: "SetFit havin
 - [Frontier LLMs achieve the best balance between detecting misconceptions in correct-answer cases and not over-flagging correct students, while fine-tuned local models achieve under 58% TM recall](frontier-llms-best-balance-tm-detection.md) — related
 - [Fine-tuned LaBSE achieves about 86.5% accuracy classifying all answers as correct or incorrect on a large multilingual dataset](finetuned-labse-86-5-percent-autograding-accuracy.md) — related
 - [Zero-shot GPT-4 remains effective on imbalanced rare labels because its performance does not depend on label frequency in training data, unlike fine-tuned models.](zero-shot-gpt4-effective-on-imbalanced-rare-labels.md) — related
-- [All surveyed automatic question difficulty prediction studies frame the task as supervised learning, mostly as classification of pre-defined difficulty categories](difficulty-prediction-supervised-dominant.md) — related
+- All surveyed automatic question difficulty prediction studies frame the task as supervised learning, mostly as classification of pre-defined difficulty categories — related
 - [LLMs cannot effectively perform in-context learning for short answer scoring, but cross-prompt pre-finetuning substantially boosts their zero-shot performance](llm-icl-insufficient-prefinetuning-boosts-zero-shot.md) — related
 - [The IRead question generation model, fine-tuned on in-text OpenStax questions, matched reference questions in human ratings and outperformed zero-shot GPT-4 on automatic metrics](iread-qg-model-evaluation-performance.md) — related
 - [Few-shot LLM approaches outperform standalone supervised ML approaches, yet hand-crafted rules remain relevant](few-shot-llm-outperforms-ml-hcr-relevant.md) — related

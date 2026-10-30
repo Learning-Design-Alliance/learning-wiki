@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2013
+recheck_by: 2016
 sources:
   - id: gálvez-2013
     resource: "https://doi.org/10.1007/s40593-013-0008-2"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In experiment 1, constraint C2 showed a notably low PBC (0.210) and C6 was flagged as a candidate for removal. [→ Gálvez 2013](#galvez-2013)
@@ -66,5 +67,5 @@ Replication with a different sample of 23 students in January 2013. PBC analysis
 ## Related Claims
 - [Constraint information function analysis (AUC of CIF) detects faulty, redundant, and overly general constraints](cif-auc-detects-faulty-constraints.md) — related
 - [Cronbach's alpha if-item-deleted analysis identifies constraints that reduce problem consistency](cronbach-alpha-if-deleted-constraint-analysis.md) — possibly the same claim (merge candidate)
-- [The three statistical techniques produce consistent diagnoses of constraint quality across two experiments](three-methods-consistent-diagnosis.md) — a broader claim this one bears on
+- The three statistical techniques produce consistent diagnoses of constraint quality across two experiments — a broader claim this one bears on
 - [Point-biserial item-total correlation is negatively related to test discriminating value and can be expressed via item and test difficulty and discrimination parameters](point-biserial-negative-test-discrimination-relation.md) — related

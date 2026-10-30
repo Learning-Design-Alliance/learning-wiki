@@ -46,8 +46,8 @@ Quasi-experimental study of 120 undergraduates at the University of Seville comp
 
 
 ## Related Claims
-- [Probit and multinomial probabilistic regressions estimated to assess impact on probability of higher scores](probit-multinomial-regressions-assess-probability-higher-scores.md) — related
-- [Prior knowledge and ability levels controlled via semester evaluation score](prior-knowledge-ability-controlled-semester-score.md) — related
+- Probit and multinomial probabilistic regressions estimated to assess impact on probability of higher scores — related
+- Prior knowledge and ability levels controlled via semester evaluation score — related
 - [Literature reports mixed and contradictory findings on video effectiveness](mixed-findings-on-video-effectiveness.md) — a broader claim this one bears on
 - [Experimental and control groups differed only in use of instructional videos](experimental-control-groups-differed-only-in-video-use.md) — related
 - [Gender showed no significant effect on test outcomes](gender-no-significant-effect-on-test-outcomes.md) — related

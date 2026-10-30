@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 2008
+recheck_by: 2011
 sources:
   - id: kunter-2008
     resource: "https://doi.org/10.1016/j.learninstruc.2008.06.008"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2011**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Enthusiasm for mathematics as a subject matter predicted teachers' self-reports of instructional behaviour, but was not reflected in students' ratings. [→ Kunter 2008](#kunter-2008)
@@ -46,4 +47,4 @@ The same structural equation modelling analysis found an informant-specific patt
 
 ## Related Claims
 - [Teachers more enthusiastic about teaching mathematics show higher-quality instructional behaviour, both self-reported and student-rated](enthusiasm-for-teaching-predicts-instructional-quality.md) — reports the opposite
-- [The study assessed enthusiasm and instructional behaviour from both teacher and student perspectives with 323 teachers and their 9th-grade classes](enthusiasm-study-323-teacher-student-multi-informant.md) — related
+- The study assessed enthusiasm and instructional behaviour from both teacher and student perspectives with 323 teachers and their 9th-grade classes — related

@@ -56,4 +56,4 @@ Confirmatory factor analysis of FICSMath survey responses from 5,985 college cal
 - [A one-factor unidimensional model is the most reasonable fit for MAP computerized adaptive Reading and Mathematics tests across grades, terms, and ten states, though Michigan Mathematics misses the RMSEA criterion](map-cat-unidimensional-factor-structure.md) — related
 - [The SRL-O supports both ten lower-order subscales and two superordinate factors (motivational beliefs and learning strategies)](srl-o-bifactor-two-superordinate-factors.md) — related
 - [The TEFA-T model syntax meets goodness-of-fit criteria in confirmatory factor analysis, supporting its construct validity](tefa-t-syntax-construct-validity-cfa.md) — related
-- [The hypothesised three-variable structural model fits the survey data well across printed fit indices](dil-sem-model-good-fit.md) — related
+- The hypothesised three-variable structural model fits the survey data well across printed fit indices — related

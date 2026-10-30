@@ -64,5 +64,5 @@ Authors' interpretation of the UPWIND moderation result: the same intervention h
 
 
 ## Related Claims
-- [Micro-randomized trials with mobile data allow explicit testing of time-varying contextual moderators of intervention effectiveness](time-varying-moderators-mobile-interventions.md) — a broader claim this one bears on
+- Micro-randomized trials with mobile data allow explicit testing of time-varying contextual moderators of intervention effectiveness — a broader claim this one bears on
 - [Mobile reminder prompts causally increased children's vocabulary-app study on prompted days (PROMPT micro-randomized trial)](reminder-days-boost-same-day-study-probability.md) — related

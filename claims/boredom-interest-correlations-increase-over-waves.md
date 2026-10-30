@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: katharina-luisa-boehme-2025
     resource: "https://doi.org/10.1007/s10648-025-09991-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q3 i3` Within two-factor models, the negative correlation between boredom and interest increased from r = −0.67/−0.70 at T1 to r = −0.87/−0.90 at T4. [→ Katharina Luisa Boehme 2025](#katharina-luisa-boehme-2025)
@@ -46,5 +47,5 @@ Factor correlations from the CFA models at each wave, with printed correlations 
 
 ## Related Claims
 - [Latent boredom means increased and latent interest means declined from grade 5 to grade 8 in both domains](boredom-increases-interest-declines-grades-5-8.md) — related
-- [Boredom and academic interest fit two separate correlated factors better than one common factor in mathematics and German at every wave](boredom-interest-two-factor-separability.md) — related
+- Boredom and academic interest fit two separate correlated factors better than one common factor in mathematics and German at every wave — related
 - [Higher earlier interest is associated with later decreases in boredom across grades 5–8, at every wave in mathematics and all but the last in German](earlier-interest-predicts-lower-later-boredom.md) — related

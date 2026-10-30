@@ -62,6 +62,6 @@ The editorial reports that Csanadi et al. analyzed one dataset with both epistem
 - Documented CSCL empirical corpus 2005–2009 relies mostly on questionnaires and code-and-count, not post-cognitive group-process approaches — related
 - [A temporal extraction rule classified the GENERAL INSTRUCTION -> PLANNER action pattern as Planning in the first 15 minutes but as Monitoring in the last 30 minutes](temporal-rule-planning-monitoring-distinction.md) — related
 - [ENA contrasting-cases analysis shows high- and low-effectiveness studies differ significantly in their design-element and intention networks](ena-contrasting-cases-cognitive-he-le-differ.md) — related
-- [Multimodal data collection is increasingly common but analyses rarely align data streams temporally](rare-alignment-of-multimodal-data-streams.md) — related
+- Multimodal data collection is increasingly common but analyses rarely align data streams temporally — related
 - [Counts of specific tool-use events (WorkTime, Command, Compile, Editor, Profiler, IDE) correlate positively and significantly with final course grade](tool-use-events-correlate-with-final-grade.md) — related
-- [Combining Epistemic Network Analysis with deep qualitative ethnographies improves understanding of complex socioemotional phenomena in learning communities](combining-ena-with-qualitative-ethnography.md) — related
+- Combining Epistemic Network Analysis with deep qualitative ethnographies improves understanding of complex socioemotional phenomena in learning communities — related

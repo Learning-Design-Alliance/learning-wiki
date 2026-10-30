@@ -50,7 +50,7 @@ Reported result of the model taxonomy applied to the PALMA data (five annual wav
 
 ## Related Claims
 - [A taxonomy of panel models incorporating lag0, lag1, and lag2 effects, random intercepts, and covariates supports reciprocal effects between academic self-concept and achievement](rem-reciprocal-effects-ri-clpm-clpm-palma.md) — a broader claim this one bears on
-- [Random-intercept and lag2 panel models rest on different assumptions and offer alternative perspectives on controlling covariates](ri-lag2-different-assumptions-covariates.md) — related
+- Random-intercept and lag2 panel models rest on different assumptions and offer alternative perspectives on controlling covariates — related
 - [Adding lag-2 paths to CLPMs substantially improves fit and provides stronger controls for preexisting differences, positioning extended CLPMs as viable alternatives to RI-CLPMs](lag-2-paths-improve-clpm-fit-and-control.md) — related
 - [Academic self-concept predicts lagged (across-semester) changes in academic skills in both mathematics and French](self-concept-lagged-effects-on-skills.md) — related
 - [Academic skills predict contemporaneous (within-semester) changes in academic self-concept in both mathematics and French](skills-contemporaneous-effects-on-self-concept.md) — a narrower finding that bears on this claim

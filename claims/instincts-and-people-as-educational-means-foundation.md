@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1910
+recheck_by: 1915
 sources:
   - id: thorndike-1910
     resource: "https://doi.org/10.1037/h0070113"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
-> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1915**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The intellects and characters of parents, teachers and friends are very important means of educating a person, and other means such as books, maps or apparatus cannot be usefully studied apart from human nature. [→ Thorndike 1910](#thorndike-1910)

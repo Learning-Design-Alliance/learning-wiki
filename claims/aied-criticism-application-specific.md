@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: neil-selwyn-2023
     resource: "https://doi.org/10.1007/s40593-023-00344-3"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Most critics of AIED are not wholly opposed to all AI in education but raise specific criticisms of particular applications such as surveillance-oriented and commercially exploitative systems. [→ Neil Selwyn 2023](#neil-selwyn-2023)

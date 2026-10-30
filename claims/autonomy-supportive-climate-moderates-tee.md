@@ -68,4 +68,4 @@ Simple-slopes analysis at one SD above and below the mean of classroom autonomy 
 - [Teachers' expectations and perceived autonomy-supportive climate are uncorrelated, making climate an unlikely consequence of expectations](expectations-climate-null-correlation.md) — related
 - [Teachers' early expectations predict students' later perceived competence in physical education beyond students' background characteristics](teacher-expectations-predict-later-perceived-competence-pe.md) — related
 - [Teacher expectation effects on perceived competence are curvilinear: positive expectations are stronger than negative ones](positive-expectations-stronger-than-negative-tee.md) — related
-- [Classroom membership accounts for 11% of variance in students' perceived competence, justifying multilevel analysis](icc-perceived-competence-between-classes.md) — related
+- Classroom membership accounts for 11% of variance in students' perceived competence, justifying multilevel analysis — related

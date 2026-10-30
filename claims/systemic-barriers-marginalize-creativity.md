@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: weak
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: gu-2026
     resource: "https://doi.org/10.1016/j.edurev.2026.100784"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Rigid standardized curricula, limited teacher training in creative pedagogy, and misconceptions that creativity is innate or gifted-only contribute to creativity's marginalization in practice. [→ Gu 2026](#gu-2026)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1917
+recheck_by: 1920
 sources:
   - id: hollingworth-1917
     resource: "https://www.google.com/search?q=%22Mentality+Tests%3A+A+Symposium%22+Hollingworth"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r1`–`r2` · `q1`
-> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1920**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` It is premature to attempt to settle upon final scales for age ranges or upon universal scales. [→ Hollingworth 1917](#hollingworth-1917)

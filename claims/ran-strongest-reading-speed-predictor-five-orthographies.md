@@ -69,7 +69,7 @@ Simple correlations based on grade-specific scores, tabulated separately for eac
 - [Reading Fluency](../learner-variables/reading-fluency.md) — outcome: instruction changes it
 
 ## Related Claims
-- [The component analysis of the five literacy measures yielded a speed factor (word and nonword reading speed) and an accuracy factor (word and nonword reading accuracy), with spelling analysed separately due to less clear-cut loadings](literacy-two-component-speed-accuracy-solution.md) — related
+- The component analysis of the five literacy measures yielded a speed factor (word and nonword reading speed) and an accuracy factor (word and nonword reading accuracy), with spelling analysed separately due to less clear-cut loadings — related
 - [Multilevel analyses across the full sample showed largely similar predictive patterns across orthographies, with RAN's contribution to reading accuracy significantly heterogeneous (p = .008) because RAN was more important in English than in the other languages](multilevel-predictive-pattern-similar-across-orthographies.md) — related
 - [Phonological processing and RAN constitute two separate factors that both account for significant unique variance in literacy attainment in all five orthographies](phonology-ran-two-separate-literacy-factors-european.md) — related
 - [Phonological awareness accounted for more unique variance in reading accuracy than RAN in the orthographies studied, while English was the only orthography where RAN added substantial unique variance (14.2%) and total explained variance was highest (39%)](reading-accuracy-predictors-english-ran-exception.md) — related

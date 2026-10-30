@@ -17,7 +17,7 @@ sources:
 # Create a cross-institutional repository pooling findings from universities' internal educational technology investigations
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 2 studies (2 qualitative), `q1`–`q2` · 0 of 2 report an effect size · 5 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (2 qualitative), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Because decision-makers are more likely to use internally-produced, locally-relevant research, the article proposes systematically documenting and sharing local evidence. Specifically, "this may include strategies such as creating a cross-institutional repository of studies that pools findings from the internal investigations already being conducted within universities." Easier sharing may increase uptake of existing evidence, especially if institutions can find studies by peer institutions serving similar populations under similar conditions. The article also points to tools such as RCT-YES, RCE Coach, and Digital Promise's Edtech Pilot Framework as supports developed in K-12 settings that could serve higher education.
@@ -41,10 +41,7 @@ Because decision-makers are more likely to use internally-produced, locally-rele
 ## Claims
 
 - [In 78% of interviews, higher education decision-makers reported conducting their own internal investigations of educational technology products](../claims/internal-investigations-78-percent-interviews.md) [+W]
-- [Internal comparison studies of educational technology (reported by about one-sixth of interviewees) often lacked rigor, relying on volunteer faculty, omitting pre-tests, and not randomly assigning conditions](../claims/internal-comparison-studies-lack-rigor.md) [+W]
-- [Decision-makers cite barriers to using research: research takes too long relative to fast technology change, and institutions view their students and faculty as unique](../claims/barriers-research-timing-and-context-uniqueness.md) [+W]
 - [Interview respondents identify collaborative relationships, trust in evidence and its users, clarity on research types, and supportive leadership as facilitators of evidence use](../claims/interview-facilitators-evidence-use.md) [+W]
-- [The research activities decision-makers most often counted as research were internal: staff/student/faculty interviews, surveys or focus groups (40% of interviews) and looking at student outcomes after implementation (38%)](../claims/most-named-research-activities-are-internal.md) [+W]
 
 ## Related Strategies
 - 

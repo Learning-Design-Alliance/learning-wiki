@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: long-2024
     resource: "https://doi.org/10.1038/s41539-024-00273-3"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The study's 15-category GPT-4 coding achieved over 90% agreement, which the authors state surpasses the ~80% agreement reported by earlier specialised-intelligence studies. [→ Long 2024](#long-2024)

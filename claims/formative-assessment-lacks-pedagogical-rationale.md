@@ -49,6 +49,6 @@ Theoretical argument stated in the article's abstract: the authors assert, as th
 - [Conventional higher-education assessment practices are argued to be flawed, compartmentalised, standardised and disadvantaging to many students](conventional-assessment-flawed-and-disadvantaging.md) — related
 - [Education problems resemble problems in many social settings: they lack clear definitions, have many potential causes, lack simple solutions, and defy straightforward measurement](education-problems-lack-clear-definitions-and-simple-solutions.md) — a broader claim this one bears on
 - [Open education is asserted to lack a solid theoretical or philosophical foundation](open-education-lacks-theoretical-foundation.md) — related
-- [Previous research on authentic learning lacks clear definitions and operationalizations of authentic learning](authentic-learning-lacks-clear-definitions.md) — related
+- Previous research on authentic learning lacks clear definitions and operationalizations of authentic learning — related
 - [The article argues learning definitions should combine structural and functional perspectives](learning-combines-structural-and-functional-definitions.md) — related
 - [Reviews agree that clear definition and delineation of TPACK's individual knowledge domains is rare and nearly impossible](tpack-knowledge-domains-poorly-delineated.md) — related

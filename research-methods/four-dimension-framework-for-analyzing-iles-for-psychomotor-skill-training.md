@@ -12,7 +12,7 @@ generated:
 # Four-dimension framework for analyzing ILEs for psychomotor skill training
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 quant-synthesis), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 quant-synthesis), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The review organizes ILE-based psychomotor training research around four interconnected dimensions: "motor skills, ILE technologies, feedback components, and design characteristics of virtual environments". Each dimension is grounded in principles that can enhance training effectiveness, and synthesizing them "enables a comprehensive analysis of utilizing ILEs in the context of psychomotor skill training". The framework structures the review's research questions, frequency analysis, and correlation analysis.
@@ -23,7 +23,6 @@ The review organizes ILE-based psychomotor training research around four interco
 
 ### Claims
 
-- [ILE psychomotor training research concentrates on gross, closed, and discrete motor skills](../claims/ile-psychomotor-motor-skill-distribution.md) [+W]
 - [Embodied actions appear in all reviewed ILE designs, while learner control over environment attributes is rare](../claims/ile-psychomotor-design-characteristics-embodied-actions.md) [+W]
 - [HMDs and camera-based systems are the most prevalent ILE technologies for psychomotor training](../claims/ile-psychomotor-technology-trends-hmd-cameras.md) [+W]
 - [Real-time and dynamic feedback dominate feedback provision in ILEs for psychomotor skills](../claims/ile-psychomotor-feedback-realtime-dynamic-dominance.md) [+W]

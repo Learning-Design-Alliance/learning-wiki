@@ -45,7 +45,7 @@ Regression analysis with pinyin typing group as covariate alongside sex, age, gr
 
 
 ## Related Claims
-- [Age-related connectivity changes persist after controlling for head motion, which itself decreases with age](motion-does-not-confound-connectivity-findings.md) — related
+- Age-related connectivity changes persist after controlling for head motion, which itself decreases with age — related
 - [Pinyin typing frequency is associated with altered functional connectivity within the Chinese reading network](pinyin-typing-altered-reading-network-connectivity.md) — a narrower finding that bears on this claim
 - [Frequency of Internet use negatively predicts longitudinal change in gray and white matter volumes and in verbal IQ in early adolescents](internet-use-frequency-longitudinal-gray-matter-verbal-iq.md) — related
 - [Screen time is not significantly associated with white matter microstructure (FA, MD) in 10-year-olds, while sports participation is positively associated with FA](screen-time-null-white-matter-children.md) — related

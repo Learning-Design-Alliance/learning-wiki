@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: yin-2025
     resource: "https://doi.org/10.1038/s41539-025-00311-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The Extra Trees model using brain activity from the entire learning module predicted transfer scores best across all groups, with mean R² of 0.88 (MF), 0.90 (AF), and 0.87 (NF), and identified key predictive regions including FP, SMG, DLPFC, and MTG. [→ Yin 2025](#yin-2025)

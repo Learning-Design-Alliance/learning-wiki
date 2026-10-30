@@ -47,6 +47,6 @@ The article's abstract reports the outcome of the semester-long within-participa
 ## Related Claims
 - [Individual differences were not associated with the retention benefit of relearning over restudying](individual-differences-null-relearning-retention-benefit.md) — related
 - [Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention](spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) — related
-- [Total exposure time per session was significantly lower in the relearn condition than in the restudy condition, ruling out an exposure confound](relearning-exposure-time-controlled.md) — related
+- Total exposure time per session was significantly lower in the relearn condition than in the restudy condition, ruling out an exposure confound — related
 - [Testing benefits retention over a conservative restudy control, establishing the testing effect as robust](testing-effect-robust-versus-restudy-control.md) — a broader claim this one bears on
 - [Massed review at end of film produced significantly greater learning than no review or spaced review](massed-review-greater-learning-than-spaced-or-none.md) — related

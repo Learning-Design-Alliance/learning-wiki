@@ -49,7 +49,7 @@ RVE treatment subgroup from Table 2: choice-program effects pool to −0.001 (SE
 
 ## Related Claims
 - [Private schooling is associated with higher political tolerance (0.120 SD) and higher civic knowledge and skills (0.121 SD).](private-schooling-tolerance-and-civic-knowledge-advantage.md) — a broader claim this one bears on
-- [Studies published before 1998 report much larger private-schooling civic effects than studies from 1998 onward, which the authors treat as evidence of publication bias limited to earlier studies.](pre-1998-studies-larger-private-schooling-civic-effects.md) — a broader claim this one bears on
+- Studies published before 1998 report much larger private-schooling civic effects than studies from 1998 onward, which the authors treat as evidence of publication bias limited to earlier studies. — a broader claim this one bears on
 - [Private schooling shows no statistically significant association with political participation in the four-category analysis.](private-schooling-political-participation-null.md) — a broader claim this one bears on
 - [Private schooling is associated with a small positive average advantage in civic outcomes over public schooling (0.055 SD).](private-schooling-small-positive-civic-outcome-advantage.md) — a broader claim this one bears on
 - [Religious private schooling is more strongly associated with positive civic outcomes than secular private schooling, which shows no significant association.](religious-private-schooling-stronger-civic-association.md) — related

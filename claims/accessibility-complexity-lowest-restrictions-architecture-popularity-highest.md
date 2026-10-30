@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: valdés-aguirre-2016
     resource: "https://doi.org/10.1007/s40593-016-0113-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In the per-dimension histograms, accessibility and complexity present the overall lowest restrictions, while popularity and architecture present the higher restrictions. [→ Valdés Aguirre 2016](#valdes-aguirre-2016)

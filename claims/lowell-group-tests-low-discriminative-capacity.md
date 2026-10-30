@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 1917
+recheck_by: 1920
 sources:
   - id: lowell-1917
     resource: "https://psycnet.apa.org/journals/edu"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1920**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The author reports that some of her group tests, including V, 4 Discriminating Colors, VI, 2 Mutilated Pictures, and VII, 4 Tying Bowknot, showed little discriminative capacity and that she intends to find substitutes for them. [→ Lowell 1917](#lowell-1917)

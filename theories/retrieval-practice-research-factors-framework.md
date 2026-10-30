@@ -17,7 +17,7 @@ sources:
 # Retrieval Practice Experiment Architecture and Factors
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 23 claims (10 for, 13 mixed) · 26 studies (16 causal, 6 review, 3 quant-synthesis, 1 theoretical), `q1`–`q4` · 10 of 26 report an effect size · 22 claims rest on one study
+> **Evidence** · 21 claims (10 for, 11 mixed) · 24 studies (15 causal, 5 review, 3 quant-synthesis, 1 theoretical), `q2`–`q4` · 10 of 24 report an effect size · 20 claims rest on one study
 
 ## Description
 The chapter's organizing framework: learners study materials, a retrieval practice condition completes initial retrieval activities while a control does not, and all take a final criterial assessment. The factors explored include "aspects of the initial retrieval practice conditions, the conditions of the ﬁnal criterial assessment, characteristics of the learners, the nature of the materials, and the setting of the study", which structure the chapter's sections.
@@ -55,10 +55,8 @@ The chapter's organizing framework: learners study materials, a retrieval practi
 - [Taking an immediate plus delayed final test yields higher delayed test performance with less invested effort than taking only a delayed test (Experiment 2)](../claims/immediate-plus-delayed-test-advantage-exp2.md) [+W]
 - [Higher-level quiz questions engage learners in generative activities as well as retrieval](../claims/higher-level-quiz-questions-engage-generative-activities.md) [~W]
 - [When learners receive initial instruction, retrieval practice yields better generalization than worked examples regardless of item variability](../claims/retrieval-practice-beats-worked-examples-with-initial-instruction.md) [~W]
-- [Posttests were coded as delayed if they occurred at least one day after treatment, with two-delay studies and studies lacking day/week delay metrics excluded from mean and median delay calculations](../claims/refutation-text-delayed-posttest-coding-rule.md) [~W]
 - [Practice gains are greater for nonsense material (average final gain 28%) than for sense-material (average final gain 10%).](../claims/nonsense-material-gains-exceed-sense-material.md) [~W]
 - [In School O.R. the practised group scored higher overall in final reasoning tests, but the section-by-section excess improvement was uncertain](../claims/winch-1910-school-or-practised-overall-gain.md) [+W]
-- [Strong- and weak-retrieval control groups differ in baseline retention and were analyzed separately](../claims/strong-weak-retrieval-controls-differ-baseline.md) [~W]
 - [In complex materials, interim testing improves learning of new lecture-video segments and passage sections, including comprehension and integration](../claims/forward-testing-complex-materials.md) [+W]
 - [Announcing an upcoming test did not significantly change learning from the participation film](../claims/test-announcement-no-learning-effect.md) [~W]
 - [Practice testing outperforms no-activity controls and restudy, with format and feedback moderators](../claims/practice-testing-superior-to-restudy.md) [+W]

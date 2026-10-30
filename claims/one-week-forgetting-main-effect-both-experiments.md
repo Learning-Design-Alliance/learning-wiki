@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: moderate
 newest_evidence: 2015
+recheck_by: 2020
 sources:
   - id: de-jonge-2015
     resource: "https://doi.org/10.1007/s10648-015-9300-z"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2`–`i3`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q3 i3` In Experiment 1, participants tested after 5 min outperformed those tested after 1 week. [→ de Jonge 2015](#de-jonge-2015)

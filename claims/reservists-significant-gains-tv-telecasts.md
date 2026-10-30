@@ -45,6 +45,7 @@ Evaluation of a series of eight telecasts broadcast to Army reservists in major 
 
 
 ## Related Claims
+
 - [Topics treated explicitly produced large knowledge gains, while sketchily or indirectly treated topics were not learned by most reservists](explicit-treatment-large-gains-sketchy-not-learned.md) — a narrower finding that bears on this claim
 - [Reservists retained most TV-learned material at retesting, officers 85% and enlisted men 65%](tv-instruction-retention-officers-enlisted.md) — related
 - [Almost 90 percent of comparisons between television and conventional instruction showed no substantial differences in achievement or information gain](tv-research-90-percent-no-substantial-differences.md) — related
@@ -53,3 +54,4 @@ Evaluation of a series of eight telecasts broadcast to Army reservists in major 
 - [Kinescope recordings of television instruction were equally effective as regular instruction](kinescope-recordings-equally-effective.md) — related
 - [In the sewing telecast series, most homemaker viewers learned new things and practice use increased with the number of programs viewed](sewing-tv-learning-and-dose-response.md) — related
 - [Using television in army training is feasible, according to the summarized research](tv-feasible-army-training.md) — a broader claim this one bears on
+- [A series of educational broadcasts on Psychology produced appreciable gains in listeners' knowledge, with cumulative gains still increasing after six or seven talks](broadcast-series-cumulative-knowledge-gains.md)

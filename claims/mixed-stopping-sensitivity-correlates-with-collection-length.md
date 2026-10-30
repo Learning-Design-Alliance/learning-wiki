@@ -46,8 +46,8 @@ Exploratory Spearman correlations of mixed-strategy sensitivity with dataset cha
 
 
 ## Related Claims
-- [A data-driven stopping rule needs about 7% consecutive irrelevant abstracts to reach 95% sensitivity, saving on average 1.04 days](data-driven-stopping-7-percent-consecutive-irrelevant.md) — related
-- [Model specificity correlates positively with database length and negatively with the proportion of relevant studies](database-characteristics-correlate-with-screening-specificity.md) — related
-- [A time-based stopping rule requires screening about 70% of abstracts to reach 95% sensitivity, saving on average 0.86 days](time-based-stopping-70-percent-95-sensitivity.md) — related
+- A data-driven stopping rule needs about 7% consecutive irrelevant abstracts to reach 95% sensitivity, saving on average 1.04 days — related
+- Model specificity correlates positively with database length and negatively with the proportion of relevant studies — related
+- A time-based stopping rule requires screening about 70% of abstracts to reach 95% sensitivity, saving on average 0.86 days — related
 - [The LR+SBERT model achieved the highest specificity and estimated time savings at 95% sensitivity among the tested learning algorithms](lr-sbert-highest-specificity-screening.md) — related
-- [Active learning algorithms reduce abstract-screening workload in education systematic reviews, saving on average 58% of irrelevant-record screening and 1.66 days at 95% sensitivity](ml-screening-reduces-workload-education-reviews.md) — related
+- Active learning algorithms reduce abstract-screening workload in education systematic reviews, saving on average 58% of irrelevant-record screening and 1.66 days at 95% sensitivity — related

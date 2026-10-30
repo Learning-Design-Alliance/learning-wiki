@@ -65,7 +65,7 @@ Same synthesis section on whole-class actions. Examples printed include using cl
 
 
 ## Related Claims
-- [Research on teachers' use of digital learning platform data for instructional design is young and predominantly exploratory, based on a systematic review of 11 studies](digital-platform-data-use-research-exploratory-review.md) — possibly the same claim (merge candidate)
+- Research on teachers' use of digital learning platform data for instructional design is young and predominantly exploratory, based on a systematic review of 11 studies — possibly the same claim (merge candidate)
 - [Whole-class inclusive strategies were recommended and common, but some differentiation and extra-support practices created unhelpful divisions](whole-class-approach-unhelpful-divisions.md) — related
 - [Mathematics teachers differ from other teachers in data use, attitudes, and self-efficacy for DBDM](math-teachers-data-use-attitudes-self-efficacy.md) — related
 - [Teachers in African mainstream classrooms responded to diverse learner needs through curriculum and task adaptations and individualized instruction](teachers-adapt-curriculum-tasks-individualized-instruction-africa.md) — related

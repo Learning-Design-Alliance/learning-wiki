@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: erwin-daniel-lópez-zapata-2025
     resource: "https://doi.org/10.1007/s40593-025-00478-6"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` In a human evaluation with 28 students, LECTOR consistently outperformed TF-IDF, with the difference validated by a T-test; LECTOR achieved an average F-score of 61.8% at Slide-Level versus TF-IDF's 37.7%. [→ Erwin Daniel López Zapata 2025](#erwin-daniel-lopez-zapata-2025)

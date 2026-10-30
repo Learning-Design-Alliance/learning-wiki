@@ -49,9 +49,9 @@ Principal component analysis (Varimax rotation) of the four predictor measures i
 - [Processing Speed](../learner-variables/processing-speed.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [The component analysis of the five literacy measures yielded a speed factor (word and nonword reading speed) and an accuracy factor (word and nonword reading accuracy), with spelling analysed separately due to less clear-cut loadings](literacy-two-component-speed-accuracy-solution.md) — related
+- The component analysis of the five literacy measures yielded a speed factor (word and nonword reading speed) and an accuracy factor (word and nonword reading accuracy), with spelling analysed separately due to less clear-cut loadings — related
 - [RAN explained more unique variance in reading speed than phonological measures in English, French, German and Hungarian (16.7 to 22.8%), with Finnish the exception where all proximal factors contributed low, roughly equal amounts](ran-strongest-reading-speed-predictor-five-orthographies.md) — related
 - [Phonological awareness accounted for more unique variance in reading accuracy than RAN in the orthographies studied, while English was the only orthography where RAN added substantial unique variance (14.2%) and total explained variance was highest (39%)](reading-accuracy-predictors-english-ran-exception.md) — related
 - [Cognitive predictors explained more spelling variance in English (34.7%) than in the other orthographies (8.9 to 16.2%), and English was the only orthography where RAN made a significant and highest contribution to spelling](spelling-predictors-english-outlier-beyond-grade-2.md) — related
 - [Wagner and Torgesen's (1987) tripartite phonological processing model transfers to German and its transparent orthography](phonological-processing-model-transfers-german.md) — related
-- [Factor analysis identifies three components of ICT consideration: help/importance, tools for an end, and negative valuation](three-components-of-ict-consideration.md) — related
+- Factor analysis identifies three components of ICT consideration: help/importance, tools for an end, and negative valuation — related

@@ -48,4 +48,4 @@ Correlational analysis of LLM responses to last-round CPIG items, reported in Re
 - [CPIG's iterative exemplar selection consistently improves the originality of LLM responses to generated CPS items by the last round of item generation](cpig-improves-response-originality-over-iterations.md) — related
 - [QCGE dimensions correlate weakly with each other except a moderate CE–CC correlation; nonverbal behaviors were not affected by task condition](qcge-dimensions-weak-intercorrelations-condition-null.md) — related
 - [Year of study is only weakly positively associated with reported AI usage frequency, indicating tool normalization across cohorts](weak-year-usage-frequency-association.md) — related
-- [Model specificity correlates positively with database length and negatively with the proportion of relevant studies](database-characteristics-correlate-with-screening-specificity.md) — related
+- Model specificity correlates positively with database length and negatively with the proportion of relevant studies — related

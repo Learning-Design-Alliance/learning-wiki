@@ -82,7 +82,7 @@ Authors' interpretation in the section on games as a culture medium: intrinsic i
 - [In EERs, autonomy, competence, and relatedness are each supported by specific design features per self-determination theory](eer-sdt-needs-design-features.md) — a narrower finding that bears on this claim
 - [Effective instruction requires both focus support and reward: high focus support with low reward, or reward without focus support, yields poor learning](fore-h1-both-focus-support-and-reward-needed.md) — related
 - [Motivation theories in education have converged on a learner-centered focus over recent decades](motivation-theories-converged-learner-centered.md) — a broader claim this one bears on
-- [Self-determination theory grew incrementally by adding mini-theories as evidence accumulated](sdt-grew-brick-by-brick.md) — related
+- Self-determination theory grew incrementally by adding mini-theories as evidence accumulated — related
 - [Perceived individual and class-directed autonomy support positively predict students' intrinsic motivation, effort, and persistence](autonomy-support-predicts-intrinsic-motivation-effort-persistence.md) — related
 - [The authors propose, without testing it here, that competitive environments may provide clear goals, structures, and rewards that foster engagement, particularly for students less familiar with such environments](competitive-environments-clear-goals-engagement-interpretation.md) — related
 - [Difficult math exercises impair elementary children's motivational, cognitive and affective task experiences relative to easier exercises](difficult-math-tasks-impair-motivation-engagement.md) — related

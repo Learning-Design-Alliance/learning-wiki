@@ -47,5 +47,5 @@ Random-effects meta-analysis with robust variance estimation of 28 intervention 
 ## Related Claims
 - [No individual support activity other than feedback on lesson plans significantly moderated the intervention effect](no-other-support-activity-moderators-significant.md) — related
 - [Providing feedback on lesson plans amplifies the intervention effect on teacher self-efficacy (large effect, near-significant)](feedback-lesson-plans-amplifies-self-efficacy-effect.md) — related
-- [Publication-bias tests found no evidence of substantial publication bias in the meta-analytic sample](no-publication-bias-teacher-self-efficacy-meta-analysis.md) — related
+- Publication-bias tests found no evidence of substantial publication bias in the meta-analytic sample — related
 - [Guided reflection was the most frequently applied individual support activity in the included interventions](guided-reflection-most-frequent-support-activity.md) — related

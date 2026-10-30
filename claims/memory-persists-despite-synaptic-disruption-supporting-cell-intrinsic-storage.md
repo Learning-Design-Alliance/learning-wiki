@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: wickliffe-c-abraham-2019
     resource: "https://doi.org/10.1038/s41539-019-0048-y"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Contextual fear memory can be induced by optogenetic stimulation of training-active hippocampal neurons despite post-training protein synthesis inhibitor that caused retrograde amnesia and eliminated conditioning-induced hippocampal LTP at perforant path-dentate gyrus synapses; Aplysia sensitization memory can be reinstated by abbreviated training after reconsolidation blockade despite apparent elimination of synaptic growth. [→ Wickliffe C. Abraham 2019](#wickliffe-c-abraham-2019)

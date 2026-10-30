@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1921
+recheck_by: 1924
 sources:
   - id: arthur-i-gates-1921
     resource: "https://doi.org/10.1037/h0064253"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1924**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Marking Test II Form 1 without reading the paragraphs yielded a comprehension score of 12, equal to beginning grade IV ability. [→ Arthur I. Gates 1921](#arthur-i-gates-1921)

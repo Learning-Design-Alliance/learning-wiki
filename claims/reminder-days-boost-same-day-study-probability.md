@@ -75,7 +75,7 @@ Intensive longitudinal micro-randomized study in which 130 children used the PRO
 - [On days without reminders, reminded students were significantly less likely to study vocabulary than control students, suggesting overreliance on reminders](reminder-overreliance-on-no-reminder-days.md) — related
 - [The short-term effect of study reminders on same-day studying increased over the study period](reminder-effect-increases-over-time.md) — related
 - [Within-person reminders of implementation intentions improve students' short-term study behaviour](within-person-reminders-improve-study-behaviour.md) — related
-- [Micro-randomized trials estimate within-person causal effects of mobile intervention components with greater statistical power than standard RCTs](micro-randomization-within-person-causal-effects.md) — a broader claim this one bears on
-- [Micro-randomized trials with mobile data allow explicit testing of time-varying contextual moderators of intervention effectiveness](time-varying-moderators-mobile-interventions.md) — a broader claim this one bears on
+- Micro-randomized trials estimate within-person causal effects of mobile intervention components with greater statistical power than standard RCTs — a broader claim this one bears on
+- Micro-randomized trials with mobile data allow explicit testing of time-varying contextual moderators of intervention effectiveness — a broader claim this one bears on
 - [Breathing exercise showed no main effect on children's negative affect or relaxation but increased relaxation on higher-worry days (UPWIND trial)](upwind-breathing-moderated-by-worry.md) — related
 - [One-third of surveyed students never used the optional mobile study app at all](one-third-nonusers-optional-study-app.md) — related

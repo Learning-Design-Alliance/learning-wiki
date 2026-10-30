@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: alexandra-marinucci-2023
     resource: "https://doi.org/10.1007/s10648-023-09725-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i2` medium
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q3 i2` On the item "School based mental health initiatives can strengthen academic performance", school staff agreed less so than allied health professionals (g = .56). [→ Alexandra Marinucci 2023](#alexandra-marinucci-2023)

@@ -47,7 +47,7 @@ Four publication-bias analyses were run on the meta-analytic dataset: funnel plo
 ## Related Claims
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](srl-meta-analysis-publication-bias-absent.md) — related
 - [The pooled self-efficacy–partnership correlation appears robust to the file-drawer problem](publication-bias-robustness.md) — related
-- [No evidence of publication bias was detected in the pooled L2 gender-difference literature](no-publication-bias-l2-gender-meta-analysis.md) — related
+- No evidence of publication bias was detected in the pooled L2 gender-difference literature — related
 - [The pooled gamification effect is robust across dependence assumptions, quality thresholds, and model specifications, with no evidence of publication bias](gamification-mathematics-robustness-publication-bias.md) — related
-- [Formal tests find no substantial evidence of publication bias or small-study effects in the meta-analysis](no-publication-bias-math-interventions-co-occurring.md) — related
+- Formal tests find no substantial evidence of publication bias or small-study effects in the meta-analysis — related
 - [Publication bias is unlikely to explain the consistency of SRL intervention effect sizes](srl-meta-analysis-no-publication-bias.md) — related

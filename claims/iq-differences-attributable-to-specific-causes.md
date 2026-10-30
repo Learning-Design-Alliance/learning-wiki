@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1922
+recheck_by: 1925
 sources:
   - id: lincoln-1922
     resource: "https://archive.org/details/journalofeducat14"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q1`
-> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1925**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Case analysis shows that large IQ differences often have a reasonable basis, including failure of previously passed tests, chance success on single high-credit tests, and failure to put forth full effort. [→ Lincoln 1922](#lincoln-1922)

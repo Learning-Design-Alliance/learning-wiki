@@ -71,4 +71,4 @@ In the qualitative study of two 9-year-old girls in a DLG on The Odyssey, "Ander
 - [DLGs help overcome stereotypes and cultural barriers, including prejudices about Roma people, Muslim immigrant women, and learners without basic education](dlg-overcome-stereotypes-cultural-barriers.md) — related
 - [Students perceive peer interaction—companionship, support as a social buffer, and cooperation toward shared goals—as a key element of fun in learning](peer-interaction-fun-element.md) — related
 - [Teachers reported that role-plays and the discussions after them fostered pupils' empathy and knowledge about bullying](role-play-discussion-built-knowledge-empathy.md) — related
-- [Included whole-school ASP interventions concentrate on violence prevention (especially bullying), while promoting a positive emotional and relational school climate is the least investigated focus](asp-intervention-focus-violence-dominates.md) — related
+- Included whole-school ASP interventions concentrate on violence prevention (especially bullying), while promoting a positive emotional and relational school climate is the least investigated focus — related

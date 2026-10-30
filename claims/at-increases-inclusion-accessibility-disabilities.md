@@ -49,4 +49,4 @@ Systematic review of 31 empirical studies (2009–2020) from four databases; the
 
 ## Related Claims
 - [Teacher training need and access difficulties are the main reported barriers to using assistive technology with students with disabilities](at-barriers-teacher-training-access.md) — related
-- [Research on assistive technology in education shows an increasing publication trend from 2017 onwards but low citation impact](at-research-trend-increase-2017.md) — related
+- Research on assistive technology in education shows an increasing publication trend from 2017 onwards but low citation impact — related

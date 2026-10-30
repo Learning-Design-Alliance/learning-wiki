@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2017
+recheck_by: 2020
 sources:
   - id: cukurova-2017
     resource: "https://doi.org/10.1016/j.compedu.2017.08.007"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` High CPS groups showed high individual accountability percentages, but groups Univ. A and Univ. G, not rated high, also showed high values (64.71% and 47.83%). [→ Cukurova 2017](#cukurova-2017)

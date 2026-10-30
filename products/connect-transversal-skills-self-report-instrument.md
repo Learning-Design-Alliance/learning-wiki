@@ -13,7 +13,7 @@ generated:
 # CONNECT transversal skills self-report instrument
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 A Qualtrics-delivered Likert-scale and open-ended questionnaire developed by Okada et al. to assess secondary students' transversal skills in science education and generate personalized feedback reports.
@@ -22,7 +22,6 @@ A Qualtrics-delivered Likert-scale and open-ended questionnaire developed by Oka
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [EFA of the CONNECT instrument identifies seven transversal-skill components](../claims/seven-transversal-skill-components-efa.md) [+M]
 
 ## Related Products and Programmes
 -

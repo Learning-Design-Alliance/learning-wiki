@@ -50,6 +50,6 @@ Between-group comparison of free recall at tests 4, 5, and 6 in the four-group t
 ## Related Claims
 - [Post-intervention free recall shows a significant main effect of group favoring frontal theta stimulation, with no group × test interaction](tacs-group-main-effect-no-interaction-recall.md) — related
 - [Frontal midline theta tACS applied after learning produces significant off-line retrieval gains at all assessment time points relative to beta, parietal theta, and sham conditions](frontal-theta-tacs-offline-episodic-consolidation-gains.md) — related
-- [Baseline equivalence across stimulation groups rules out prior memory-ability differences as an explanation for post-intervention effects](tacs-baseline-equivalence-pre-intervention-recall.md) — related
-- [Participants were successfully blind to stimulation condition assignment across all four groups](tacs-participant-blindness-confirmed.md) — related
+- Baseline equivalence across stimulation groups rules out prior memory-ability differences as an explanation for post-intervention effects — related
+- Participants were successfully blind to stimulation condition assignment across all four groups — related
 - [Sensations during stimulation did not differ across groups except for metallic/iron taste, which was lower in the Sham group than the Parietal Theta group](tacs-sensation-reports-group-differences.md) — related

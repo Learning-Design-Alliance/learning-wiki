@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1930
+recheck_by: 1935
 sources:
   - id: king-1930
     resource: "https://psycnet.apa.org/journal/edu"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q1`
-> **Currency** · newest study 1930 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1930 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1935**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` In the reported growth curves, when one limb or limb section increases relatively rapidly, other limbs or sections are retarded, having their acceleration at another time. [→ King 1930](#king-1930)
@@ -45,5 +46,5 @@ Observation of the plotted percentage-increase curves for the two children (Char
 
 
 ## Related Claims
-- [Regular physical measurements of two brothers were taken from birth for six years four months and three years four months](longitudinal-physical-measurements-two-brothers-case-study.md) — related
+- Regular physical measurements of two brothers were taken from birth for six years four months and three years four months — related
 - [Growth is not uniform but proceeds with variations in the limbs, trunk, and head, so gross measures require finer analysis](growth-nonuniform-segmental-development.md) — a broader claim this one bears on

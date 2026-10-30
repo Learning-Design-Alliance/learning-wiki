@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: beverly-woolf-2022
     resource: "https://doi.org/10.1007/s40593-022-00299-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q1 i?` As of the editorial, no framework has been devised, no guidelines agreed upon, no policies developed, and no regulations enacted for the specific ethical issues of AI in education. [→ Beverly Woolf 2022](#beverly-woolf-2022)
@@ -51,4 +52,4 @@ The editorial asserts, citing Holmes et al., 2018, that "no framework has been d
 - [Associate deans report that neither their institution nor their units have implemented official AI policies, prompting localized unit-level guidelines](associate-deans-report-no-official-ai-policies-localized-guidelines.md) — related
 - [Practitioner governance activity in Australian Group of Eight institutions outpaces what the published GenAI literature has documented, while Indonesian participants report less formal scaffolding](governance-practice-outpaces-genai-scholarship.md) — reports the opposite
 - [Existing legal and sector guidance each address only part of ethical learning analytics governance, and none integrates all six LEAGUE dimensions](existing-guidance-partial-ethical-coverage.md) — reports the opposite
-- [AIED has long researched pedagogy, cognition, and social and cultural context, with ethics and human rights a strong more recent interest](aied-already-researches-pedagogy-cognition-rights.md) — related
+- AIED has long researched pedagogy, cognition, and social and cultural context, with ethics and human rights a strong more recent interest — related

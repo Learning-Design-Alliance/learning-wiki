@@ -74,4 +74,4 @@ The minus signs are as printed in Table 3 (they are lost in the extracted text o
 - [Emotional e-regulation and e-self-control of impulsiveness are the strongest SEM predictors of fewer habitual digital behaviors across genders and age groups, in cross-sectional data](e-regulation-e-self-control-strongest-predictors.md) — related
 - [Emotional e-independence predicts habitual digital behaviors only in girls and older students, while emotional e-awareness predicts them only in boys](e-independence-e-awareness-differential-predictors.md) — related
 - [Social e-competency is a positive statistical predictor of habitual digital behaviors, invariant across gender and age groups, in cross-sectional data](social-e-competency-positive-predictor.md) — a narrower finding that bears on this claim
-- [Media multitasking during academic tasks, phubbing, and cybergossip form a single construct of habitual digital behavior in secondary students](three-habits-one-habitual-digital-behavior-construct.md) — related
+- Media multitasking during academic tasks, phubbing, and cybergossip form a single construct of habitual digital behavior in secondary students — related

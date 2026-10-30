@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 1955
+recheck_by: 1958
 sources:
   - id: greenhill-1955
     resource: "https://eric.ed.gov/?q=The+Recording+of+Audience+Reactions+by+Infra-Red+Photography"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 1955 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1955 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1958**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Correlation between panel and student ratings suggested a trained panel can effectively use Form F to evaluate films. [→ Greenhill 1955](#greenhill-1955)

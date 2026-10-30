@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: pierpaolo-vittorini-2021
     resource: "https://doi.org/10.1007/s40593-020-00230-2"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` After Scenario Questionnaire results showed no particular usability problems: Q1 = 5.2, Q2 = 5.2, Q3 = 5.5 on a 7-point scale. [→ Pierpaolo Vittorini 2021](#pierpaolo-vittorini-2021)

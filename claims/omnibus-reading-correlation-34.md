@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1918
+recheck_by: 1921
 sources:
   - id: haggerty-1918
     resource: "https://doi.org/10.1037/h0071405"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
-> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1921**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` The correlation between weighted time in association and quality of reading is .34, indicating the two tests measure in part the same functions and in part different things. [→ Haggerty 1918](#haggerty-1918)

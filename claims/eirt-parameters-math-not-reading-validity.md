@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 2018
+recheck_by: 2021
 sources:
   - id: rhodes-2018
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11360214/"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Solution time slope, accuracy slope, and proportion of immature counting use each significantly predicted broad math standard scores, jointly accounting for R² = .42. [→ Rhodes 2018](#rhodes-2018)

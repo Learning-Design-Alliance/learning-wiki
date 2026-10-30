@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: rebecka-weegar-peter-idestam-almquist-2024
     resource: "https://doi.org/10.1007/s40593-022-00322-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The classifier was more accurate with relatively more high-quality answers to learn from and less accurate for questions where students struggled. [→ Rebecka Weegar · Peter Idestam-Almquist 2024](#rebecka-weegar-peter-idestam-almquist-2024)

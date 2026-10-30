@@ -50,4 +50,4 @@ Type-token ratio analysis of children's responses in the two question-receiving 
 - [Children in the interactive condition responded to 77.94% of Elinor's questions versus 68.13% in the pseudo-interactive condition](interactive-higher-response-rate.md) — related
 - [Pseudo-interactive videos also outperformed non-interactive videos by 0.16 standard deviations on science learning](pseudo-interactive-beats-non-interactive.md) — related
 - [Contingent AI interaction increased children's likelihood of responding over time (OR = 1.026 per question), while pseudo-interactive interaction decreased it (OR = 0.96)](response-rate-trend-contingency.md) — related
-- [The article's title asserts that artificial intelligence enhances children's science learning from television shows, though the supplied text contains no results supporting this assertion](ai-enhances-children-science-learning-television-title-assertion.md) — related
+- The article's title asserts that artificial intelligence enhances children's science learning from television shows, though the supplied text contains no results supporting this assertion — related

@@ -29,7 +29,8 @@ The review organises preschool SR/EF interventions into a taxonomy building on T
 - [Cognitively engaging physical activity shows amongst the strongest support of the profiled approaches for preschool SR/EF](../claims/physical-activity-preschool-sr-ef-efficacy.md) [+W]
 
 ## Related Research Methods
--
+
+- [Taxonomy of four SR research traditions distinguished by core explanatory construct families and Lakatosian hard cores](taxonomy-of-four-sr-research-traditions-distinguished-by-core-explanatory-construct-famili.md)
 
 ## Key Sources
 - Rosalyn A. Muir · Steven J. Howard · Lisa Kervin. (2023). Interventions and Approaches Targeting Early Self-Regulation or Executive Functioning in Preschools: A Systematic Review. Educational Psychology Review. https://doi.org/10.1007/s10648-023-09740-6

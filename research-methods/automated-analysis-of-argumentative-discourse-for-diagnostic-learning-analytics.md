@@ -25,7 +25,9 @@ The article identifies automated analysis techniques for detecting learners' int
 ### Claims
 
 ## Related Research Methods
--
+
+- [Combined cluster analysis, process mining, and epistemic network analysis for linking learning design and learning tactics](combined-cluster-analysis-process-mining-and-epistemic-network-analysis-for-linking-learni.md)
+- [Prompt engineering techniques for LLM-based classroom discourse analysis](prompt-engineering-techniques-for-llm-based-classroom-discourse-analysis.md)
 
 ## Key Sources
 - Noroozi, O., Kirschner, P. A., Biemans, H. J. A., & Mulder, M. (2018). Promoting Argumentation Competence: Extending from First- to Second-Order Scaffolding Through Adaptive Fading. Educational Psychol Rev, 30, 153–176. https://doi.org/10.1007/s10648-017-9400-z

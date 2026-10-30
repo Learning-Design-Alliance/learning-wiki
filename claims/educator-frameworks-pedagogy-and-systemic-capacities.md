@@ -51,7 +51,7 @@ Frequency analysis across 42 educator-focused frameworks (Fig. 3). The review co
 - [Inductive content analysis of 69 validated digital literacy frameworks yields eleven shared element categories spanning student and educator roles](eleven-digital-literacy-element-categories-review.md) — a broader claim this one bears on
 - [Digital competence development is the most frequently reported advantage (76.1%) of digitally supported teacher education strategies](digital-competence-development-most-frequent-advantage.md) — related
 - Previous systematic reviews at the ITE-diversity intersection focused on single or subsets of diversity referents, on teachers rather than teacher educators, and on social-justice-badged research — related
-- [Across 1921 educational periodicals, unsolved research problems cluster most heavily in mental tests (16 mentions) and curriculum studies (15 mentions)](zirbes-1922-problem-frequency-by-category.md) — related
+- Across 1921 educational periodicals, unsolved research problems cluster most heavily in mental tests (16 mentions) and curriculum studies (15 mentions) — related
 - [Only one of ten university frameworks explicitly refers to transferring and adapting digital practice as a competence](n3-transfer-explicit-in-one-framework.md) — related
 - [Validation sessions reframed fostering students' digital literacy as empowering students for a digital society, adding ethical competences](hedicom-empowering-students-reframing.md) — related
 - [Role modelling is the most promising approach for developing teachers' digital literacy, identified in seven reviews](role-modelling-develops-teacher-digital-literacy.md) — related

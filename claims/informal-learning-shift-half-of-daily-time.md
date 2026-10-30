@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2016
+recheck_by: 2021
 sources:
   - id: kinshuk-2016
     resource: "https://doi.org/10.1007/s40593-016-0108-x"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Informal learning via the Internet has grown to roughly 50% of learners' daily learning time, and formal education systems must change fundamentally in response. [→ Kinshuk 2016](#kinshuk-2016)

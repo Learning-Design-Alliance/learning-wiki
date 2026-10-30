@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: kochmar-2022
     resource: "https://doi.org/10.1007/s40593-021-00267-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` A Random Forest hint-selection model using linguistic, performance-based, and dialogue-history features outperforms random, baseline (linguistic-only), and shallow personalization models on 50-fold cross-validation, with statistically significant improvement at a 95% confidence level. [→ Kochmar 2022](#kochmar-2022)

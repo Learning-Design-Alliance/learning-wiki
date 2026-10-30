@@ -66,7 +66,7 @@ Moderation analysis across 16 pooled effects found the design principle itself e
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*How much do the design principles add, and when do they matter most?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **4 distinct studies** (2 quant-synthesis, 1 review, 1 causal), `q2`–`q4`, 3 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*For which material and pacing is a primer most worth its time?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **4 distinct studies** (2 quant-synthesis, 1 review, 1 causal), `q2`–`q4`, 3 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|

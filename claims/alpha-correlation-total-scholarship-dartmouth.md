@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 1920
+recheck_by: 1923
 sources:
   - id: stone-1920
     resource: "https://www.google.com/search?q=%22The+significance+of+alpha+in+colleges%22+Stone"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q1`–`q2` · `i3` large
-> **Currency** · newest study 1920 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1920 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1923**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i3` Alpha scores correlated 0.438 with first-semester grades for the class of 1923 and 0.498 for the class of 1924. [→ Stone 1920](#stone-1920)

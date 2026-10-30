@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1915
+recheck_by: 1920
 sources:
   - id: woolley-1915
     resource: "https://doi.org/10.1037/h0075644"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1920**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Of fifty unselected eighteen-year-old working children given the Yerkes Point Scale, 13 (26%) scored below 75 and 28 (56%) below 85, suggesting one fourth would be classed as mental defectives and a second fourth as borderline. [→ Woolley 1915](#woolley-1915)

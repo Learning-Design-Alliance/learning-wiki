@@ -48,7 +48,7 @@ Table 3 summary of motivational propensity findings shows mathematics self-effic
 - [Algebraic Thinking](../learner-variables/algebraic-thinking.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Few algebra studies examine mathematical and motivational/socioemotional propensities in tandem](few-algebra-studies-integrate-propensities.md) — related
+- Few algebra studies examine mathematical and motivational/socioemotional propensities in tandem — related
 - [Integrated models combining mathematical and motivational propensities significantly explain algebra performance](integrated-propensity-model-explains-algebra-performance.md) — related
 - [Mathematics anxiety shows mixed relations to algebraic thinking across studies](math-anxiety-mixed-algebra-relations.md) — related
 - [Sense of belonging to mathematics is positively related to algebraic thinking in reviewed studies](belonging-mathematics-positive-algebra.md) — related

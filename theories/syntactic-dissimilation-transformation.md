@@ -42,6 +42,7 @@ Syntactic dissimilation is a transformational process operating on cognate const
 ## Related Theories
 
 - [Case-grammar framework for analyzing dissimilation](case-grammar-framework-dissimilation.md)
+- [As-far-as-a-verb-can-check-its-features theory of adverb order and scope within TP](as-far-as-verb-checks-features-theory.md)
 
 ## Examples
 -

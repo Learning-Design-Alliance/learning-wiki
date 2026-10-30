@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: kumar-2020
     resource: "https://doi.org/10.1007/s40593-020-00211-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Human-human QWK agreement on D7 averaged 0.60 per rubric, and inter-rubric agreements ranged from 0.46 to 0.79, indicating moderate-strong rubric interdependence. [→ Kumar 2020](#kumar-2020)

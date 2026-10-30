@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: mohammed-saqr-2023
     resource: "https://doi.org/10.1016/j.compedu.2023.104787"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i3` LCA clustering of LMS indicators per course yielded three engagement states whose activity levels differed significantly on all indicators, with effect sizes (ε2) from 0.278 (FFCb) to 0.798 (SC). [→ Mohammed Saqr 2023](#mohammed-saqr-2023)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: weak
 newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: weiwei-liu-2025
     resource: "https://doi.org/10.1016/j.edurev.2025.100747"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The review identifies uncertainty as central to experienced challenges, stemming from issue complexity and unfamiliarity with the transdisciplinary learning process. [→ Weiwei Liu 2025](#weiwei-liu-2025)
@@ -47,6 +48,6 @@ The review's synthesis across 36 studies characterizes the challenge landscape. 
 ## Related Claims
 - [Students experience challenges across all four aspects of transdisciplinary learning for sustainability, including unsettling reflection on sustainability issues, tensions with non-academic partners, disciplinary communication difficulties, and struggles with multiple perspectives](td-learning-four-aspect-challenges.md) — related
 - [Three general challenges recur in transdisciplinary learning environments: navigating uneven relationships, managing high time demands, and adapting to unfamiliarity with transdisciplinarity](td-learning-general-challenges.md) — related
-- [Research on transdisciplinary sustainability learning disproportionately examines students, with educational staff and societal partners underrepresented](td-learning-participant-underrepresentation.md) — related
+- Research on transdisciplinary sustainability learning disproportionately examines students, with educational staff and societal partners underrepresented — related
 - [Students enact agency toward the self by maintaining motivation through embracing uncertainty and learning from mistakes, and by taking time for reflection and serendipity](agency-toward-self-actions.md) — related
 - [Reflexivity, perspective taking, analogical reasoning, and tolerance of ambiguity and uncertainty each positively relate to knowledge integration in inter- and transdisciplinary work](four-competencies-predict-knowledge-integration.md) — related

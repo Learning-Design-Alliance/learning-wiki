@@ -12,7 +12,7 @@ generated:
 # Developmental Research Designs — Cross-Sectional, Longitudinal, and Sequential
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 12 claims (3 for, 8 mixed, 1 against) · 12 studies (9 associational, 3 review), `q2`–`q3` · 1 of 12 report an effect size · 12 claims rest on one study
+> **Evidence** · 11 claims (3 for, 7 mixed, 1 against) · 11 studies (8 associational, 3 review), `q2`–`q3` · 1 of 11 report an effect size · 11 claims rest on one study
 
 ## Description
 Research design is the strategy or blueprint for deciding how to collect and analyze information, distinct from the specific methods used to gather it; when the goal is examining change over time, three designs are available, each with a different cost and a different vulnerability.
@@ -48,7 +48,6 @@ Research design is the strategy or blueprint for deciding how to collect and ana
 - [Metacognitive knowledge scores increased cumulatively over time, and the time-by-ethnic-group interaction showed Han and Yao students followed different MCK development trends](../claims/mck-cumulative-growth-group-interaction.md) [~W]
 - [Cross-sectional age relations show monotonic decline in fluid cognition (age-reasoning correlation about −0.40) but stability followed by decline for acquired knowledge](../claims/age-fluid-decline-knowledge-stable.md) [+W]
 - [Longitudinal subject attrition produces systematic baseline differences among continuing, dropout, and non-participating students](../claims/longitudinal-attrition-systematic-baseline-differences.md) [-W]
-- [Participants who dropped out of the four-wave study reported more peer victimization at the first time point than those who participated at all time points](../claims/attrition-higher-peer-victimization.md) [~W]
 - [The 2015 cohort was more likely to be NEET than the 2003 cohort, consistent with labor-market conditions](../claims/cohort-2015-higher-neet-risk.md) [~W]
 - [The motivational measures show strict longitudinal measurement invariance across the two time points](../claims/strict-measurement-invariance-motivation-two-waves.md) [~W]
 - [Structural brain measures of the arithmetic network correlate with arithmetic performance, but cross-sectional designs cannot separate cause from consequence](../claims/structural-brain-arithmetic-network-correlations-cross-sectional.md) [+W]

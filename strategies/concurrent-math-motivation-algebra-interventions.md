@@ -17,7 +17,7 @@ sources:
 # Design interventions that address mathematical and motivational/socioemotional dimensions concurrently
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The review recommends that interventions for algebra address both domains at once, suggesting 'combining mastery-based learning approaches with strategies to reduce math anxiety or enhance self-efficacy.' It argues that understanding how mathematical and motivational/socioemotional factors interplay 'could lead to more precise and holistic recommendations for instructional practices and curriculum design,' and that bridging these perspectives lets educators and policymakers design more effective interventions supporting algebra success.
@@ -39,7 +39,6 @@ The review recommends that interventions for algebra address both domains at onc
 ## Claims
 
 - [Integrated models combining mathematical and motivational propensities significantly explain algebra performance](../claims/integrated-propensity-model-explains-algebra-performance.md) [+W]
-- [Few algebra studies examine mathematical and motivational/socioemotional propensities in tandem](../claims/few-algebra-studies-integrate-propensities.md) [+W]
 - [Mathematics self-efficacy is the most commonly studied motivational propensity and is usually positively related to algebraic thinking](../claims/math-self-efficacy-positive-algebra.md) [+W]
 - [Mathematics anxiety shows mixed relations to algebraic thinking across studies](../claims/math-anxiety-mixed-algebra-relations.md) [~W]
 - [Sense of belonging to mathematics is positively related to algebraic thinking in reviewed studies](../claims/belonging-mathematics-positive-algebra.md) [+W]

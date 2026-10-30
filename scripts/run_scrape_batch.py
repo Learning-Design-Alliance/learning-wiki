@@ -549,6 +549,14 @@ def run(args) -> None:
         # or design the page itself misstates stays open for a person or agent.
         _run_chained_step([sys.executable, "-u", "scripts/judge_study_validity.py", "--annotate", "--apply"],
                           SCRAPE_CONSOLE_LOG_PATH)
+        # Sort the batch's new claims by how a design decision could depend on them
+        # (sort_claims.py --all asks only about claims not yet sorted). Nothing here did
+        # until 2026-10-30, when 9,862 claims were found unsorted: the research-practice
+        # rule never reached them, and add_currency.py below reads the sort for its
+        # recheck years. Settled research-practice claims are left for triage to remove.
+        print(f"\n=== sorting new claims ===", flush=True)
+        _run_chained_step([sys.executable, "-u", "scripts/sort_claims.py", "--all"],
+                          SCRAPE_CONSOLE_LOG_PATH)
         # How current each claim is: its newest study, when the judge just above last
         # found its entries faithful to their sources, and a recheck year for the kinds
         # that age quickly (add_currency.py). After the judge, so its verdicts land on the

@@ -17,7 +17,7 @@ sources:
 # Journals should adopt criteria appropriate to theoretical submissions rather than empirical-only rubrics
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The editorial recommends that journal editors, editorial boards, and reviewers shift their evaluation culture for non-empirical work. It states: "we encourage journal editors, editorial boards, and reviewers to consider these and other appropriate criteria for evaluating theoretical submissions." It further recommends that "journals would have unique sets of criteria for each type of submission they are open to receiving", including literature reviews and design cases, and that the field develop clear norms around quality and valuable scholarship for new reviewers.
@@ -38,7 +38,6 @@ The editorial recommends that journal editors, editorial boards, and reviewers s
 
 ## Claims
 
-- [Standard empirical review criteria are not relevant to theoretical scholarship and may lead reviewers to reject it](../claims/empirical-review-criteria-misfit-theoretical-papers.md) [+W]
 
 ## Related Strategies
 

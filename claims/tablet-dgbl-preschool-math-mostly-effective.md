@@ -47,4 +47,4 @@ Systematic review synthesis of 33 preschool tablet-game intervention studies cod
 ## Related Claims
 - [Tablet-based DGBL shows strong efficacy for children from low-SES families](tablet-dgbl-effective-low-ses-children.md) — a narrower finding that bears on this claim
 - [Prior mathematical ability moderates tablet-DGBL gains, with mixed direction across studies](prior-math-ability-mixed-moderator.md) — related
-- [Included tablet-DGBL studies were generally methodologically rigorous by MERSQI standards](tablet-dgbl-studies-mersqi-rigor.md) — related
+- Included tablet-DGBL studies were generally methodologically rigorous by MERSQI standards — related

@@ -17,7 +17,7 @@ sources:
 # Four-phase development roadmap for creating an SRL-Scaffolding Architecture
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article proposes a four-phase development roadmap for creating an SRL-Scaffolding Architecture that integrates multi-modal data validation, hybrid algorithmic intelligence combining emotional and cognitive modeling, adaptive scaffolding interfaces, and a continuous human-in-the-loop feedback cycle. This roadmap is designed to move beyond isolated fixes and develop comprehensive, pedagogically-aware algorithmic architectures.
@@ -38,7 +38,6 @@ The article proposes a four-phase development roadmap for creating an SRL-Scaffo
 
 ## Claims
 
-- [Data and experiment challenges include scarcity, validity, and arrangement](../claims/data-experiment-challenges-srl-recommenders.md) [+W]
 - [Current algorithmic approaches typically address isolated problems and fail to break the recursive constraint](../claims/isolated-fixes-fail-break-recursive-constraint.md) [+W]
 - [Challenges interact dynamically to form a self-reinforcing recursive constraint](../claims/self-reinforcing-recursive-constraint-srl-recommenders.md) [+W]
 

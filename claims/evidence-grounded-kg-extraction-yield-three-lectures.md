@@ -47,4 +47,4 @@ Numerical results from the pipeline's final run over three lectures, reported in
 
 ## Related Claims
 - [On a preliminary three-question retrieval sanity check, all seed questions placed their target concept first and within the top three, with mean top-5 recall of 1.00](three-seed-retrieval-sanity-check-perfect.md) — related
-- [Citation network analysis shows limited integration: very low density and 38.90% isolated nodes among same-prompt-type studies](citation-network-low-density-isolated-nodes.md) — related
+- Citation network analysis shows limited integration: very low density and 38.90% isolated nodes among same-prompt-type studies — related

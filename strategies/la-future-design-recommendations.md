@@ -17,7 +17,7 @@ sources:
 # Advance learning analytics for study success through standardised measures, multimodal data, theory-informed practice, and large-scale longitudinal experimental designs
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review recommends that learning analytics research and development clearly define standards for reliable and valid measures, informative visualisations, and design guidelines for pedagogically effective interventions. It states that "measures for learning analytics need to include reactive and non-reactive data collection, i.e., multimodal data for supporting learning, teaching, and study success", grounded in a strong theoretical foundation. It further recommends leveraging existing research by designing large-scale, longitudinal, or quasi-experimental studies with well-defined and operationalised constructs.
@@ -40,8 +40,6 @@ The review recommends that learning analytics research and development clearly d
 ## Claims
 
 - [Learning analytics approaches show promise for supporting study success and identifying students at risk of dropping out, but rigorous large-scale evidence of effectiveness is still lacking](../claims/la-study-success-evidence-lacking.md) [+W]
-- [None of the 46 key publications on learning analytics for study success were rated as strong research rigour (11 weak; 35 moderate)](../claims/la-studies-rigour-none-strong.md) [+W]
-- [Included learning analytics studies operationalise study success inconsistently, ranging from course completion and retention to dropout, at-risk status, and generalised performance terms](../claims/study-success-operationalisation-inconsistent.md) [+W]
 
 ## Related Strategies
 

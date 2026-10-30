@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: karakaya-2021
     resource: "https://doi.org/10.1007/s11423-020-09884-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The study found university instructors' design process did not appear to draw on instructional design models, suggesting future research on how such models could be used. [→ Karakaya 2021](#karakaya-2021)
@@ -47,5 +48,5 @@ The commentary reports this finding from Bennett et al.'s interview study, notin
 ## Related Claims
 - [Instructors engage LLM-generated suggestions as a controllable refinement process](instructors-use-llm-suggestions-as-controllable-refinement.md) — related
 - [Instructors reported that FORAP packaging reduced the initial effort to adopt and adapt PjBL activities, based on anecdotal feedback](forap-packaging-reduced-instructor-adoption-effort.md) — related
-- [A limitation of the Bennett et al. study is reliance on self-reported interview data without design artifacts for triangulation](interview-only-data-limitation-design-study.md) — related
+- A limitation of the Bennett et al. study is reliance on self-reported interview data without design artifacts for triangulation — related
 - [Bennett et al.'s qualitative study found university instructors' design process is top-down, breadth-first, iterative, responsive, and reflective](university-instructor-design-process-characteristics.md) — related

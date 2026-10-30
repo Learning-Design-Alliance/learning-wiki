@@ -17,7 +17,7 @@ sources:
 # Require learner models that predict data and also provide scientific insight and practical outcomes
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 To counter an over-focus on machine learning advances, the article endorses Rosé and colleagues' call for the “development of explanatory models of learners that not only accurately predict data but also provide scientific insights and yield practical outcomes”. The strategy is to treat predictive quality as insufficient on its own: models must speak back to learning theory and carry educational implications, restoring the reciprocal relationship between AI techniques and models of human cognition, affect and motivation.
@@ -38,7 +38,6 @@ To counter an over-focus on machine learning advances, the article endorses Ros�
 
 ## Claims
 
-- [Regression optimizes explanation of data at hand while machine learning optimizes out-of-sample prediction, and studies must state which aim they pursue](../claims/explaining-versus-predicting-development.md) [+W]
 
 ## Related Strategies
 

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1922
+recheck_by: 1927
 sources:
   - id: bird-t-baldwin-1922
     resource: "https://psycnet.apa.org/journals/edu/13/1/193"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1927**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` A boy of the average type at 7 years of age has gained 70.3 per cent of his final growth at 17, and a girl 74.2 per cent, permitting prediction of ultimate stature. [→ Bird T. Baldwin 1922](#bird-t-baldwin-1922)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: hecht-2023
     resource: "https://doi.org/10.1038/s41539-023-00181-y"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q3 i?` In a nationally representative survey, 81% of high school math teachers ranked inspiring students' enthusiasm for learning as the most important characteristic for earning professional respect, and 97% ranked it in the top three. [→ Hecht 2023](#hecht-2023)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: chauhan-2025
     resource: "https://doi.org/10.1007/s40593-025-00471-z"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Of distractors in ChatGPT-generated items, 27 (33.75%) were nonfunctional (chosen by <5% of students), versus 11 (13.75%) in faculty-generated items. [→ Chauhan 2025](#chauhan-2025)

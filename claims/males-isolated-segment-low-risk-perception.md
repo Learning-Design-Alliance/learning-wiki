@@ -9,6 +9,7 @@ generated:
   at: 2026-10-30
 evidence_strength: moderate
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: muñoz-rodríguez-2023
     resource: "https://doi.org/10.1016/j.compedu.2023.104743"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Within the segment that fully or fairly agrees with feeling isolated, differences are gender-based (χ2 = 6.195; p = 0.013), with males recording a higher percentage that do not experience a sense of risk (63.3%). [→ Muñoz-Rodríguez 2023](#munoz-rodriguez-2023)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1919
+recheck_by: 1922
 sources:
   - id: herring-1919
     resource: "https://psycnet.apa.org/journal/edu"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 1919 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1919 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1922**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Per cents state order of difficulty exactly but cannot establish exact amounts of difficulty, because increments of difficulty are unequal across the percent range and per cents lack a common unit comparable between groups. [→ Herring 1919](#herring-1919)

@@ -49,5 +49,5 @@ Inductive thematic analysis across the review's 27 articles; the review reports,
 - [Dialogic leadership is characterized by egalitarianism, signifying the absence of hierarchical levels of leaders and followers](dialogic-leadership-egalitarian-absence-of-hierarchy.md) — related
 - [Dialogic leadership is democratic: every participating individual has agency and power in decision-making](dialogic-leadership-democratic-decision-making.md) — related
 - [Multicultural approach to education may increase cultural sensitivity and reduce race-related stressors (review attribution)](multicultural-approach-sensitivity-stressors.md) — related
-- [The evidence base on dialogic leadership is entirely qualitative, with the majority (n = 17, 63%) of studies being case studies](dialogic-leadership-evidence-all-qualitative.md) — related
+- The evidence base on dialogic leadership is entirely qualitative, with the majority (n = 17, 63%) of studies being case studies — related
 - [Dialogic leadership is associated with increased social cohesion, including social unity, lasting friendships and greater community involvement](dialogic-leadership-increases-social-cohesion.md) — related

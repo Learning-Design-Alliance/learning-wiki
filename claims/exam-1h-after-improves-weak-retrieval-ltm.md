@@ -50,5 +50,5 @@ Weak-retrieval control groups (CTRw) had a Memory Index of about 0.5; the EXM +1
 ## Related Claims
 - [A classroom exam bidirectionally modulates 24-h retention of an unrelated graphical task depending on when it occurs relative to learning](exams-bidirectionally-modulate-unrelated-ltm.md) — possibly the same claim (merge candidate)
 - [An exam within 1 h before or after copying impairs long-term retention of strongly learned graphical material](exam-within-1h-impairs-strong-retrieval-ltm.md) — related
-- [Strong- and weak-retrieval control groups differ in baseline retention and were analyzed separately](strong-weak-retrieval-controls-differ-baseline.md) — related
+- Strong- and weak-retrieval control groups differ in baseline retention and were analyzed separately — related
 - [Exam effects on unrelated graphical memory show no gender differences](exam-ltm-effects-no-gender-differences.md) — related

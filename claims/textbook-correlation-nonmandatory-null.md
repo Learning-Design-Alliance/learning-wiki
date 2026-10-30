@@ -49,3 +49,4 @@ Exploratory correlation analysis using data from England, New Zealand and the US
 - [Classrooms in China, South Korea and the US scored higher on overall equivalence than England; New Zealand lower; Turkey did not differ](country-differences-equivalence.md) — related
 - [Teachers' operational knowledge and non-traditional textbook practice format do not relate to students' equivalence understanding](operational-knowledge-textbooks-null.md) — related
 - [The relation between teacher knowledge and equivalence understanding is not moderated by country](no-country-moderation-teacher-knowledge.md)
+- [Teachers' knowledge of students' relational strategies relates to class-level understanding of equivalence across six countries](teacher-relational-knowledge-equivalence.md)

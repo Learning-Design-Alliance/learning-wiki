@@ -63,7 +63,7 @@ The review categorized direct impacts of AI on SRL into cognition, metacognition
 - Affective and motivational SRL processes received little to no attention in mind-wandering research, and few studies used integrated multimodal-plus-SRL analytic approaches — related
 - [Among 50 reviewed studies, 42 examined cognitive effects, with most showing large effects (d ≥ 0.8) but seven showing no or negative effects](cognitive-effects-distribution-42-studies.md) — related
 - [SRL interventions for pre-service teachers unevenly cover SRL areas: cognition (n = 62) and metacognition (n = 55) dominate, while emotion (8 interventions) and context regulation (n = 6) are rare](uneven-srl-area-coverage-pst-interventions.md) — related
-- [Motivational and affective dimensions remain underrepresented in multimodal SRL research despite theoretical consensus on their importance](motivation-affect-underrepresented-multimodal-srl.md) — a broader claim this one bears on
-- [Multimodal SRL research shows a historical shift from unimodal toward integrated analytical designs, but motivational and affective dimensions remain underrepresented](srl-multimodal-shift-integrated-designs-motivation-affect-gap.md) — related
-- [Assessment is among the least explored conversational agent intents in higher education](assessment-intent-underexplored.md) — related
-- [The most frequently measured pedagogical aspects of technology integration are enhancing students' cognitive engagement, promoting collaboration between students, and allowing students to conduct research online.](top-three-pedagogical-ti-aspects.md) — related
+- Motivational and affective dimensions remain underrepresented in multimodal SRL research despite theoretical consensus on their importance — a broader claim this one bears on
+- Multimodal SRL research shows a historical shift from unimodal toward integrated analytical designs, but motivational and affective dimensions remain underrepresented — related
+- Assessment is among the least explored conversational agent intents in higher education — related
+- The most frequently measured pedagogical aspects of technology integration are enhancing students' cognitive engagement, promoting collaboration between students, and allowing students to conduct research online. — related

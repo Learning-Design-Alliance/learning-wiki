@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: julia-schiefer-2022
     resource: "https://doi.org/10.1007/s10648-022-09661-w"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Multiplistic profiles appeared in seven of 12 samples and evidence-based profiles in five of 12 samples, with the highest percentage being 31% in an elementary school sample. [→ Julia Schiefer 2022](#julia-schiefer-2022)

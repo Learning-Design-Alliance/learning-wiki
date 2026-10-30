@@ -45,5 +45,5 @@ Exploratory moderator analysis coded at the article level (primary, secondary, o
 
 
 ## Related Claims
-- [Associations are larger when teacher and student variables are reported by the same informant, significant only for teacher ill-being](same-informant-larger-associations.md) — related
+- Associations are larger when teacher and student variables are reported by the same informant, significant only for teacher ill-being — related
 - [Teacher ill-being shows a small negative association with student motivation and achievement (r = –.13)](teacher-ill-being-negative-student-outcomes-r13.md) — a broader claim this one bears on

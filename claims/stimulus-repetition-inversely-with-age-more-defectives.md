@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1915
+recheck_by: 1920
 sources:
   - id: otis-1915
     resource: "https://www.google.com/search?q=%22A+Study+of+Association+in+Defectives%22+Otis"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1920**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The second and third degrees of stimulus-word repetition (31-60 per cent and 61-100 per cent) vary inversely with age in both normals and defectives; the third degree disappears with normals at 8 and with defectives at 10. [→ Otis 1915](#otis-1915)

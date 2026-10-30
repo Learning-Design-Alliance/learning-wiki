@@ -46,4 +46,4 @@ This is the editor's stated opinion, offered with no evidence or argument beyond
 
 ## Related Claims
 - [The editor accepted Levin's response with no revision and no review, calling it the shortest article of his editorship](editorial-accepted-no-review-no-revision.md) — related
-- [The editor reports that Levin's response to poetic-inquiry advocacy was rejected by Educational Researcher without review](levin-response-rejected-without-review.md) — related
+- The editor reports that Levin's response to poetic-inquiry advocacy was rejected by Educational Researcher without review — related

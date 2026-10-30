@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: quinn-2020
     resource: "https://doi.org/10.1037/edu0000382"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Students with an LD began over a standard deviation lower in reading comprehension than typically developing peers (intercept means of −1.24 versus 0.04) and the group distributions did not converge by fourth grade. [→ Quinn 2020](#quinn-2020)

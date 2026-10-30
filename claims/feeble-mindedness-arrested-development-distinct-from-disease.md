@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1909
+recheck_by: 1914
 sources:
   - id: paul-wilhelm-knuth-1909
     resource: "https://doi.org/10.1037/h0063874"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q1`
-> **Currency** · newest study 1909 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1909 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1914**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Physically, feeble-mindedness represents arrested development of the entire organism. [→ Paul Wilhelm Knuth 1909](#paul-wilhelm-knuth-1909)

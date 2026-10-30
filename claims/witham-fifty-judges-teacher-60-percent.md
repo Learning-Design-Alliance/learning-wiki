@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1913
+recheck_by: 1918
 sources:
   - id: ernest-c-witham-1913
     resource: "https://eric.ed.gov/?q=Witham+school+and+teacher+measurement"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1913 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1913 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1918**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` A panel of fifty prominent school men, from Maine to California, assigned proportions of 100 to six school factors, averaging 60% to the teacher. [→ Ernest C. Witham 1913](#ernest-c-witham-1913)

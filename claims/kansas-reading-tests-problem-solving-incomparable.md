@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: weak
 newest_evidence: 1919
+recheck_by: 1922
 sources:
   - id: j-c-bell-1919
     resource: "https://psycnet.apa.org/journal/edu"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 1919 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1919 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1922**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The Kansas Reading Tests introduced arithmetical, physical and practical problems whose solution depends on comprehension of what is read but involves mental processes so much more elaborate than ordinary reading that the two activities are scarcely comparable. [→ J. C. Bell 1919](#j-c-bell-1919)

@@ -67,6 +67,6 @@ Review reports, attributing to Kim et al. (2019), that within a university e-lea
 - [Higher education students' digital competence has a positive effect on their digital informal learning](digital-competence-positive-effect-dil.md) — possibly the same claim (merge candidate)
 - [Digital informal learning has a positive effect on higher education students' academic performance in a cross-sectional SEM study](dil-positive-effect-academic-performance.md) — related
 - [Digital informal learning partially mediates the relationship between digital competence and academic performance](dil-partial-mediator-competence-performance.md) — related
-- [The hypothesised three-variable structural model fits the survey data well across printed fit indices](dil-sem-model-good-fit.md) — related
+- The hypothesised three-variable structural model fits the survey data well across printed fit indices — related
 - [AI literacy directly and positively predicts learning engagement among university students](ai-literacy-predicts-learning-engagement.md) — related
 - [Higher education students' digital competence has a positive effect on their academic performance](digital-competence-positive-effect-academic-performance.md) — related

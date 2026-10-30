@@ -17,7 +17,7 @@ sources:
 # Direct future pedagogical agent research toward assessment, reflective practice, administration, personalisation and media richness
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 quant-synthesis, 1 review), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Based on the survey's identified gaps, the article recommends future research explore "the use of conversational agents for enhancing assessment, reflective practice and to support more effective administration and management practice". On the technological side, it proposes that "future research would benefit from focusing on enhancing the level of personalisation and media richness of interaction" achievable by AI conversational agents. These directions follow directly from the underexplored categories and technological limitations identified in the 92-study survey.
@@ -38,7 +38,6 @@ Based on the survey's identified gaps, the article recommends future research ex
 
 ## Claims
 
-- [Assessment is among the least explored conversational agent intents in higher education](../claims/assessment-intent-underexplored.md) [+W]
 - [Reviewed literature identifies personalisation, adaptive support, rapid feedback, and teacher-facing automation as recurring pedagogical opportunities of AI in mathematics education](../claims/ai-math-pedagogical-opportunities-personalisation-feedback.md) [+W]
 
 ## Related Strategies

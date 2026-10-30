@@ -16,7 +16,7 @@ sources:
 # Register analysis plans through a publicly accessible registry system before analysis
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 4 studies (2 causal, 2 theoretical), `q1`–`q3` · 0 of 4 report an effect size · 4 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (2 theoretical), `q2`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 For the Preregistered badge, the disclosure form operationalizes preregistration as depositing a time-stamped, immutable registration and answering whether the plan was registered before data examination and whether all registered analyses are reported. It specifies that "Preregistration of an analysis plan must take place via a publicly accessible registry system", giving OSF, ClinicalTrials.gov, WHO Registry Network registries, and institutional systems as examples.
@@ -39,8 +39,6 @@ For the Preregistered badge, the disclosure form operationalizes preregistration
 
 - [Offering Open Science Badges is associated with increased uptake of data and materials sharing and preregistration](../claims/open-science-badges-associated-uptake.md) [+W]
 - [In a four-wave MOOC intervention study, statistically significant first-wave findings failed to replicate in subsequent preregistered waves](../claims/mooc-intervention-first-wave-findings-failed-to-replicate.md) [~W]
-- [The study's analysis plan was preregistered on OSF before data examination, with no changes to the primary confirmatory analysis](../claims/peer-model-study-preregistered-analysis-plan-osf.md) [+W]
-- [The Social Perspective Taking professional development study was preregistered with its confirmatory analysis plan registered before data examination and unchanged thereafter](../claims/spt-pd-preregistered-unchanged-analysis-plan.md) [+W]
 
 ## Related Strategies
 

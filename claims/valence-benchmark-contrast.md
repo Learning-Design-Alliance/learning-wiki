@@ -45,6 +45,6 @@ Valence-layer subgroup analysis of 5,163 desired vs. 793 undesired effect sizes;
 
 
 ## Related Claims
-- [Benchmarks are sensitive to precision and publication bias, but subgroup ordering remains stable and one-per-primary-study quartiles are broadly similar to raw values](benchmark-robustness-subgroup-ordering-stable.md) — related
+- Benchmarks are sensitive to precision and publication bias, but subgroup ordering remains stable and one-per-primary-study quartiles are broadly similar to raw values — related
 - [STEM field benchmarks differ markedly: science shows the largest quartiles and mathematics the smallest](stem-field-benchmark-heterogeneity.md) — related
 - [Publication-bias adjustment via limit meta-analysis lowers the overall STEM benchmarks to 0.14, 0.32, and 0.59](stem-benchmarks-publication-bias-adjusted.md) — related

@@ -10,6 +10,7 @@ generated:
 evidence_strength: moderate
 newest_evidence: 2023
 source_checked: 2026-10-29
+recheck_by: 2026
 sources:
   - id: ching-yi-chang-2023
     resource: "https://doi.org/10.1007/s11423-023-10209-0"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2023 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i2` Children using the robot-assisted DS approach scored significantly higher on the therapeutic-communication measure than the video-based control group (d = 0.64), which the authors read as better communication; but the article defines a higher score on that measure as more difficulty communicating, so its own scoring points the other way and the direction of the effect is unresolved. [→ Ching-Yi Chang 2023](#ching-yi-chang-2023)

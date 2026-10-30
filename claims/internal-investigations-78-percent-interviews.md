@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: hollands-2020
     resource: "https://doi.org/10.1007/s11423-019-09678-z"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Most decision-makers conduct their own internal investigations of educational technology products, used to improve instruction or decide whether to continue or scale up use. [→ Hollands 2020](#hollands-2020)
@@ -46,5 +47,5 @@ Qualitative interview study finding that internal investigations varied widely i
 
 ## Related Claims
 - [Higher education educational technology decision-makers rarely use externally-produced, scientifically-rigorous research, which was mentioned in less than 20% of interviews](edtech-decisions-rigorous-external-research-under-20-percent.md) — related
-- [The research activities decision-makers most often counted as research were internal: staff/student/faculty interviews, surveys or focus groups (40% of interviews) and looking at student outcomes after implementation (38%)](most-named-research-activities-are-internal.md) — related
+- The research activities decision-makers most often counted as research were internal: staff/student/faculty interviews, surveys or focus groups (40% of interviews) and looking at student outcomes after implementation (38%) — related
 - [Interview respondents identify collaborative relationships, trust in evidence and its users, clarity on research types, and supportive leadership as facilitators of evidence use](interview-facilitators-evidence-use.md) — related

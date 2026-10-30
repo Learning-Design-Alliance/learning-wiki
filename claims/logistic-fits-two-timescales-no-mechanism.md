@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: cochrane-2023
     resource: "https://doi.org/10.1038/s41539-023-00168-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Logistic psychometric function fits to accuracy alone selected an intermediate-complexity model combining continuous and day-resetting change, but unlike the DDM fits provided no mechanistic account of what changed on which timescale. [→ Cochrane 2023](#cochrane-2023)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: mixed
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: morris-2025
     resource: "https://doi.org/10.1007/s40593-024-00395-0"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2` · `i2`–`i3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i3` The Content model showed a strong correlation with human scores on the Prolific dataset, r(123) = 0.70, p <.001. [→ Morris 2025](#morris-2025)

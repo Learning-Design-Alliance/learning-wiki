@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: xi-xiang-michael-e-meadows-2025
     resource: "https://doi.org/10.1007/s11423-025-10523-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The authors report from design experience that AI tools struggle to transfer accurate prediction results into practical sustainability advice and are limited in envisioning values and strategies, so human judgement remains an imperative input. [→ Xi Xiang & Michael E. Meadows 2025](#xi-xiang-michael-e-meadows-2025)

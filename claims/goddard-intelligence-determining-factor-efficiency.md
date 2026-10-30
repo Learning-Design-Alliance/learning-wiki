@@ -46,5 +46,5 @@ The reviewer quotes Goddard's own statement of his thesis from the reviewed book
 
 ## Related Claims
 - [Goddard's book endorses educational and vocational placement by tested intelligence levels, predicting increased efficiency and reduced delinquency](goddard-placement-by-intelligence-levels.md) — possibly the same claim (merge candidate)
-- [The reviewer judges Goddard's book an optimistic, clear popular account that exaggerates intelligence's influence and omits technical questions such as IQ validity](reviewer-critique-goddard-optimism.md) — related
+- The reviewer judges Goddard's book an optimistic, clear popular account that exaggerates intelligence's influence and omits technical questions such as IQ validity — related
 - [Metacognitive awareness is weakly correlated with intelligence and independently predicts performance (review-reported)](metacognitive-awareness-independently-predicts-performance.md) — related

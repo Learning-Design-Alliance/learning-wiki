@@ -46,5 +46,5 @@ The review reports that despite a proclivity to under-report non-significant res
 
 ## Related Claims
 - [Lecture capture facilitates students' learning and/or revision, the most widely documented benefit across 41 of 71 reviewed articles](lecture-capture-facilitates-learning-revision.md) — related
-- [Descriptive and exploratory research dominates the lecture capture literature while causative evidence is relatively limited](lecture-capture-research-limited-causative-evidence.md) — related
+- Descriptive and exploratory research dominates the lecture capture literature while causative evidence is relatively limited — related
 - [Lecture capture works well if and only if students use it as a supplementary resource rather than an alternative to live lectures](lecture-capture-works-as-supplement-not-alternative.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: regina-kaplan-rakowski-2021
     resource: "https://doi.org/10.1007/s11423-020-09897-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Literature about the global situation during the pandemic documents an increased state of depression and anxiety among people, including diminished mental wellness among students and faculty. [→ Regina Kaplan-Rakowski 2021](#regina-kaplan-rakowski-2021)

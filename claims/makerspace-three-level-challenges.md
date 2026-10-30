@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: turakhia-2024
     resource: "https://doi.org/10.1007/s11423-023-10305-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The thematic analysis identified three categories of challenges: at the student level (engagement, confidence, interpersonal relationships), teacher level (adapting content delivery and personalizing assessment), and institutional level (training teachers, buy-in, and resources). [→ Turakhia 2024](#turakhia-2024)

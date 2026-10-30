@@ -12,7 +12,7 @@ generated:
 # Turing-like validation criterion for simulated learners
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The review proposes a universal validation criterion for simulated learners modeled on Turing's Test. To validate simulated learner models, the authors "suggest a standard and universal criterion, which is based on the lasting idea of Turing's Test". They discuss the properties of this test and its potential to move the field of simulated learners forward, addressing the observed lack of validity evidence.
@@ -22,7 +22,6 @@ The review proposes a universal validation criterion for simulated learners mode
 - **A Turing-like test as a standard validation criterion for simulated learners**: The review proposes a universal validation criterion for simulated learners modeled on Turing's Test. To validate simulated learner models, the authors "suggest a standard and universal criterion, which is based on the lasting idea of Turing's Test". They discuss the properties of this test and its potential to move the field of simulated learners forward, addressing the observed lack of validity evidence. (Käser et al. (2023))
 
 ### Claims
-- [Almost half of the studies using simulated learners provide no validity evidence.](../claims/simulated-learners-half-no-validity-evidence.md) [+M]
 
 ## Related Research Methods
 -

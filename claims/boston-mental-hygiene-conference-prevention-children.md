@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1913
+recheck_by: 1916
 sources:
   - id: wm-h-burnham-1913
     resource: "https://eric.ed.gov/"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q1`
-> **Currency** · newest study 1913 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1913 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1916**: local conditions change quickly
 
 ## Subclaims
 `q1 i?` The conference's emphasis was placed on prevention and on the training of children, with a slogan stating that the chief business of society is to evolve adults fit for children to live with. [→ Wm. H. Burnham 1913](#wm-h-burnham-1913)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1920
+recheck_by: 1923
 sources:
   - id: e-b-skaggs-1920
     resource: "https://doi.org/10.1037/h0076088"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1920 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1920 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1923**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The correlation between Binet IQ and Healy Picture Completion time is r = -.05 ± .093, a negative correlation the author again calls insignificant. [→ E. B. Skaggs 1920](#e-b-skaggs-1920)

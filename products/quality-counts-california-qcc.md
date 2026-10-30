@@ -29,4 +29,4 @@ A statewide quality rating and improvement framework run through a collaboration
 -
 
 ## Key Sources
-- Sussman, J., Melnick, H., Newton, E., Kriener-Althen, K., Draney, K., Mangione, P., & Gochyyev, P. (2022). Preschool quality and child development: How are learning gains related to program ratings? Learning Policy Institute. https://doi.org/10.54300/422.974
+- Sussman, J., Melnick, H., Newton, E., Kriener-Althen, K., Draney, K., Mangione, P., & Gochyyev, P. (2022). How do California preschool quality ratings relate to children's development? Learning Policy Institute. https://doi.org/10.54300/422.974

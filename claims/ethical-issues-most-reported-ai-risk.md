@@ -91,7 +91,7 @@ Content analysis of risks/limitations across the 18 included studies, coded into
 - [Existing legal and sector guidance each address only part of ethical learning analytics governance, and none integrates all six LEAGUE dimensions](existing-guidance-partial-ethical-coverage.md) — related
 - [Data-based recording of educational processes risks narrowing education to quantifiable output indicators and raises data sovereignty and algorithmic ethics issues](datafication-risks-narrowing-educational-processes.md) — related
 - [Faculty advisors and mentors are considered pivotal in promoting doctoral students' development as responsible and ethical researchers](faculty-mentors-pivotal-responsible-research-development.md) — related
-- [No included ITS study considered AI ethics, and the review calls for longer interventions, larger and more diverse samples, and ethical investigation](its-research-gaps-ethics-and-design.md) — related
+- No included ITS study considered AI ethics, and the review calls for longer interventions, larger and more diverse samples, and ethical investigation — related
 - [Explainable AI in education is an ethical design choice, grounded in the five principles of beneficial AI including explicability](explainable-ai-education-ethical-design-choice.md) — related
 - [Faculty focus groups raised concerns about authenticity, validity, and reliability of ChatGPT-generated SBMCQs, including cultural and linguistic bias](faculty-fgd-concerns-chatgpt-sbmcq-quality.md) — a narrower finding that bears on this claim
 - [Legitimate concerns exist about aied rollout regarding datafication, surveillance, and possibly poor pedagogy](aied-rollout-datafication-surveillance-concerns.md) — related

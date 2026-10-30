@@ -46,7 +46,7 @@ The review reports this finding from Šedová et al. (2017), a qualitative study
 
 ## Related Claims
 - [Emotion assessment in PD focuses mainly on implementation objects and general job experiences, rarely on the PD experience itself](emotion-focus-implementation-object-job-experiences.md) — related
-- [Interviews are the predominant method for assessing teacher emotions in PD research](interviews-predominant-emotion-assessment-pd.md) — related
+- Interviews are the predominant method for assessing teacher emotions in PD research — related
 - [Pleasant emotions in PD facilitated implementation while unpleasant emotions hindered it, per teacher reports](pleasant-emotions-facilitate-implementation.md) — reports the opposite
 - [Faculty identify emotion intensity, personality, demographics and task nature as mediating factors determining whether negative emotions promote or inhibit learning](mediating-factors-emotion-impact-learning.md) — a broader claim this one bears on
 - [Elaborated discussion of narrated emotions supports teacher professional learning](elaborated-discussion-of-narrated-emotions-supports-teacher-learning.md) — related

@@ -51,8 +51,8 @@ Interview findings (RQ1 definition category): participants defined dispositions 
 - [Soft skills play an equally important role in education investments and outcomes as cognitive skills](soft-skills-equally-important-as-cognitive-skills.md)
 - P(j)BL research conceptualizes CT more often as processes than as dispositions, and many studies define and measure CT inconsistently — related
 - School belonging research is marked by definitional ambiguity and terminology confusion, including conflation of belonging with acceptance, inclusion, and participation — related
-- [The article reports that research terminology such as 'diagnosis' and 'analysis' is used ambiguously and needs more careful definition](zirbes-1922-diagnosis-analysis-term-ambiguity.md) — related
+- The article reports that research terminology such as 'diagnosis' and 'analysis' is used ambiguously and needs more careful definition — related
 - [Loose use of movement-based learning language risks conflating evidence-based embodied learning with debunked neuromyths](embodiment-terminology-neuromyth-conflation-risk.md) — related
 - [Dispositions such as positivity, lifelong learning orientation, and persistence are reported as essential for ID/ET practice](dispositions-essential-for-id-et-practice.md) — related
 - [Blended learning remains ambiguously defined after more than two decades of use](blended-learning-term-ambiguity.md) — related
-- [Learning-community research suffers from unclear and inconsistent definitions of community](learning-community-definitions-inconsistent.md) — related
+- Learning-community research suffers from unclear and inconsistent definitions of community — related

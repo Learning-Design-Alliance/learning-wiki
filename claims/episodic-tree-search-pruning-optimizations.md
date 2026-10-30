@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2015
+recheck_by: 2018
 sources:
   - id: luc-paquette-2015
     resource: "https://doi.org/10.1007/s40593-014-0030-z"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q1`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` In the worst case, the number of interpolated branches can increase exponentially for every interpolated procedure, motivating pruning of the interpolation tree. [→ Luc Paquette 2015](#luc-paquette-2015)

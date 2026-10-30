@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: luca-botturi-2024
     resource: "https://doi.org/10.1007/s11423-023-10309-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Involvement scores rise with age: 6.15 (secondary 11–12y) to 8.65 (university), with global involvement lower (M = 7.09; SD = 2.18) than the other dimensions. [→ Luca Botturi 2024](#luca-botturi-2024)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: mixed
 newest_evidence: 2011
+recheck_by: 2016
 sources:
   - id: jantine-l-spilt-2011
     resource: "https://doi.org/10.1007/s10648-011-9170-y"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Teacher reports of conflict, but not closeness, have been found modestly related to teacher efficacy beliefs and to depression of preschool teachers. [→ Jantine L. Spilt 2011](#jantine-l-spilt-2011)
@@ -69,4 +70,4 @@ The review reports that in a sample of pre-kindergarten teachers, Mashburn et al
 ## Related Claims
 - [Teachers' relational self-efficacy—beliefs in their capability to form, maintain, and repair relationships—is hypothesized to motivate TSR-building, but existing global self-efficacy measures show mixed links to TSR quality](relational-self-efficacy-mixed-evidence.md) — related
 - [Teacher-child conflict does not predict subsequent increases in children's inattention and impulsivity, contradicting a bidirectional transaction](no-bidirectional-conflict-to-self-regulation-effect.md) — related
-- [Student-reported motivational beliefs and closeness were collected only at Waves 2 and 3](student-reports-waves-2-and-3-only.md) — related
+- Student-reported motivational beliefs and closeness were collected only at Waves 2 and 3 — related

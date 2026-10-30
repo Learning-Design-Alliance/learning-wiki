@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1914
+recheck_by: 1919
 sources:
   - id: research-in-public-schools-1914
     resource: "https://doi.org/10.1037/h0075864"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q1`
-> **Currency** · newest study 1914 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1914 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1919**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The report presented no individual studies of exceptionally gifted children, while the director emphasized the need for such studies. [→ Research in Public Schools 1914](#research-in-public-schools-1914)

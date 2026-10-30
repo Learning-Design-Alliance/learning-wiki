@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: katie-a-gilligan-lee-2022
     resource: "https://doi.org/10.1038/s41539-022-00128-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Students from many countries including the UK and US show relative weaknesses in shape and space domains on international mathematics assessments (e.g., PISA and TIMMS) compared to other mathematics sub-domains. [→ Katie A. Gilligan-Lee 2022](#katie-a-gilligan-lee-2022)

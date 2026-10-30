@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 2008
+recheck_by: 2013
 sources:
   - id: krauss-2008
     resource: "https://doi.org/10.1037/0022-0663.100.3.716"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2013**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` The degree of cognitive connectedness between pedagogical content knowledge and content knowledge is higher among teachers qualified to teach at the academic-track Gymnasium than among teachers from other school types. [→ Krauss 2008](#krauss-2008)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: jakub-kuzilek-2023
     resource: "https://doi.org/10.1007/s40593-022-00303-4"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Of 311 analysed students, 153 (49.2%) were successful, 63 (20.3%) passing, and 95 (30.5%) failing. [→ Jakub Kuzilek 2023](#jakub-kuzilek-2023)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 1953
+recheck_by: 1956
 sources:
   - id: jarrett-1953
     resource: "https://doi.org/10.1037/h0062882"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 1953 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1953 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1956**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The study used disguised attitude measures to study propaganda effectiveness. [→ Jarrett 1953](#jarrett-1953)

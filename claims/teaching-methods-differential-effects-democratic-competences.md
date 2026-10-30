@@ -45,5 +45,5 @@ Systematic review synthesizing 54 interventions in 51 quantitative effect studie
 
 
 ## Related Claims
-- [The review's evidence base comprises 54 interventions in 51 quantitative effect studies published between 2010 and 2020, drawn from 2093 screened publications](democracy-teaching-review-evidence-base-54-interventions.md) — possibly the same claim (merge candidate)
+- The review's evidence base comprises 54 interventions in 51 quantitative effect studies published between 2010 and 2020, drawn from 2093 screened publications — possibly the same claim (merge candidate)
 - [A discursive review of 377 peer-reviewed articles identifies eight versions of democratic education](377-articles-eight-versions-democratic-education.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: weak
 newest_evidence: 2019
+recheck_by: 2022
 sources:
   - id: katie-allen-steve-higgins-john-adams-2019
     resource: "https://doi.org/10.1007/s10648-019-09470-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Mean effect sizes did not differ significantly between studies using standardised (mean = 0.40) versus non-standardised (mean = 0.38) VSWM measures. [→ Katie Allen & Steve Higgins & John Adams 2019](#katie-allen-steve-higgins-john-adams-2019)
@@ -49,4 +50,4 @@ Subsection analysis comparing standardised versus non-standardised VSWM measures
 - [Studies using a standardised mathematics measure yield significantly larger VSWM–mathematics effect sizes](standardised-math-measure-larger-effect-sizes.md) — related
 - [Type of VSWM assessed (simultaneous, sequential, or both) shows only a marginally non-significant influence on effect sizes](vswm-type-marginally-non-significant.md) — related
 - [VSWM shows an overall positive relationship with mathematics performance in school-aged children](vswm-positive-association-mathematics-performance.md) — a broader claim this one bears on
-- [Smaller sample sizes are associated with larger VSWM–mathematics effect sizes](smaller-samples-larger-effect-sizes.md) — related
+- Smaller sample sizes are associated with larger VSWM–mathematics effect sizes — related

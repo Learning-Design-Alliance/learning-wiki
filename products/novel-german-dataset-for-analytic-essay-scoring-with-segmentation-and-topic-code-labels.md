@@ -13,7 +13,7 @@ generated:
 # Novel German dataset for analytic essay scoring with segmentation and topic-code labels
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A dataset created by Gombert et al. containing 698 German-language student essays segmented and multilabel-annotated for learning tips and lecture-topic connections to support analytic essay-scoring research.
@@ -23,8 +23,6 @@ A dataset created by Gombert et al. containing 698 German-language student essay
 
 ### Claims
 
-- [Learning-tip-to-lecture-topic coding by seven coders reached an overall agreement of 0.87 (Cohen's Kappa)](../claims/topic-coding-agreement-087.md) [+W]
-- [Sentence-to-learning-tip segmentation coding by three trained coders reached an average Cohen's Kappa of 0.96](../claims/segmentation-coding-kappa-096.md) [+W]
 
 ## Related Products and Programmes
 

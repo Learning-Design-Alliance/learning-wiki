@@ -48,5 +48,5 @@ Robustness analyses re-estimated the fixed-effects interaction using multilevel 
 - [The interaction between school diversity climate (aggregated teachers' immigration attitudes) and immigrant status significantly predicts performance in science, mathematics, and reading](climate-immigration-status-interaction-significant-all-domains.md) — a broader claim this one bears on
 - [First-generation immigrant students perform better in science, mathematics, and reading in schools where teachers hold more inclusionary immigration attitudes](first-generation-performance-better-inclusionary-climates.md) — related
 - [School diversity climate shows no significant effect on performance for non-immigrant or second-generation students](no-climate-effect-second-generation.md) — related
-- [In the PISA 2018 German illustration, students were assigned to 40 intersectional strata with sample sizes ranging from 3 to 512](pisa-germany-40-strata-sample-sizes.md) — related
+- In the PISA 2018 German illustration, students were assigned to 40 intersectional strata with sample sizes ranging from 3 to 512 — related
 - [Placebo tests and specification checks support the mathematics finding: only the 2022 departure from trend is substantial, and results are robust to controls, quadratic trends, and weighting](placebo-tests-robust-math-loss.md) — related

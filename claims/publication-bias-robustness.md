@@ -51,10 +51,10 @@ Three publication-bias tests were applied. Published studies had larger effect s
 - [The pooled effect of writing instruction for US ELL students is robust to sensitivity analyses but funnel plot asymmetry suggests possible missing positive effect sizes](sensitivity-and-bias-checks-ell-writing-meta.md) — related
 - [Publication bias analyses suggest the negative correlation is robust but trim-and-fill adjusts it to r = −.227](publication-bias-trim-and-fill-adjustment.md) — related
 - [Publication bias is present in the embodied vocabulary learning literature, suggesting pooled effects may overestimate the true benefit](publication-bias-embodied-vocabulary-meta-analysis.md) — reports the opposite
-- [Egger's test suggests publication bias may be present, with the selection-model adjusted mean effect falling to 0.36](publication-bias-adjusted-effect-036.md) — reports the opposite
+- Egger's test suggests publication bias may be present, with the selection-model adjusted mean effect falling to 0.36 — reports the opposite
 - [Evidence of publication bias exists, but the pooled video effects are robust to it](publication-bias-present-but-effects-robust.md) — related
-- [Publication-bias tests (Egger's test and trim-and-fill) indicate absence of publication bias for the overall effect and moderators](drawing-support-no-publication-bias.md) — related
+- Publication-bias tests (Egger's test and trim-and-fill) indicate absence of publication bias for the overall effect and moderators — related
 - [The pooled gamification effect is robust across dependence assumptions, quality thresholds, and model specifications, with no evidence of publication bias](gamification-mathematics-robustness-publication-bias.md) — related
-- [Publication-bias checks indicate limited risk of publication bias in the extensive reading literature synthesized](er-publication-bias-limited.md) — related
-- [No evidence of publication bias was detected in the pooled L2 gender-difference literature](no-publication-bias-l2-gender-meta-analysis.md) — related
+- Publication-bias checks indicate limited risk of publication bias in the extensive reading literature synthesized — related
+- No evidence of publication bias was detected in the pooled L2 gender-difference literature — related
 - [No evidence of publication bias was found for the overall effect of gamification on intrinsic motivation](gamification-meta-analysis-no-publication-bias.md) — related

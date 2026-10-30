@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2015
+recheck_by: 2018
 sources:
   - id: amy-ogan-w-lewis-johnson-2015
     resource: "https://doi.org/10.1007/s40593-015-0036-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Models of help-seeking skill based on student practice in an intelligent tutoring system compared across Costa Rica, the Philippines, and the United States were not transferable across contexts. [→ Amy Ogan & W. Lewis Johnson 2015](#amy-ogan-w-lewis-johnson-2015)

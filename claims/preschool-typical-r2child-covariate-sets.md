@@ -53,4 +53,4 @@ Child = 0.26/0.18 for SEL outcomes when using teacher/parent reports."
 - [Domain-identical pretests are the most powerful single-level covariate type for student achievement, outperforming cross-domain pretests, fluid intelligence, and sociodemographic characteristics](ip-most-powerful-single-level-covariate-achievement.md) — related
 - [Sociodemographic covariates outweigh domain-identical pretests for predicting between-classroom and between-school variance in elementary school](sc-outweigh-ip-elementary-group-levels.md) — related
 - Covariates explaining substantial outcome variance efficiently decrease the MDES and reduce required sample size in randomized experiments — a broader claim this one bears on
-- [Randomization does not ensure baseline equivalence in small-sample motor learning studies, so unbalanced pre-tests can overstate random-practice benefits](randomization-no-baseline-equivalence.md) — related
+- Randomization does not ensure baseline equivalence in small-sample motor learning studies, so unbalanced pre-tests can overstate random-practice benefits — related

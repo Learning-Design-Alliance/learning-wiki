@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 1919
+recheck_by: 1922
 sources:
   - id: weeks-1919
     resource: "https://eric.ed.gov"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
-> **Currency** · newest study 1919 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1919 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1922**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In the elementary group, the written test matched the oral test as a measure of chronological age in all cases except one eighth-grade pupil, and the written index agreed with the school record in that case. [→ Weeks 1919](#weeks-1919)

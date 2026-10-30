@@ -64,7 +64,7 @@ The review reports that the three SNPs from the original years-of-education GWAS
 
 
 ## Related Claims
-- [The number of genome-wide significant loci associated with educational attainment increases with GWAS discovery sample size](education-gwas-loci-increase-with-discovery-sample-size.md) — related
+- The number of genome-wide significant loci associated with educational attainment increases with GWAS discovery sample size — related
 - [A polygenic score for educational attainment explains about 15% of individual differences in out-of-sample prediction among people of European descent, with a correlation of approximately 0.4 with outcomes](pgs-educational-attainment-15-percent-out-of-sample.md) — related
 - [Polygenic score predictive power for educational attainment increases with discovery sample size and is projected to approach the SNP heritability bound](pgs-predictive-power-increases-with-discovery-sample-size.md) — related
 - [Polygenic risk scores for educational attainment and cognitive performance show the most consistent associations with language traits, and these associations are stronger for English than Chinese literacy phenotypes](prs-ea-cp-stronger-english-than-chinese.md) — related

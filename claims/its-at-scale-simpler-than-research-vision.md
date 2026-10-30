@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: ryan-s-baker-2016
     resource: "https://doi.org/10.1007/s40593-016-0105-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The widely used intelligent tutoring systems are in some ways the furthest from the initial vision of researchers like Carbonell and Self, with simple mastery heuristics and little deployment of affect, reinforcement learning, or self-improvement research. [→ Ryan S. Baker 2016](#ryan-s-baker-2016)

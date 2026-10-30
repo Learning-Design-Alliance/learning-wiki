@@ -47,5 +47,5 @@ Multilevel correlated and hierarchical effects (CHE) meta-analysis of nine RCTs 
 ## Related Claims
 - [Effective mathematics interventions for students with co-occurring difficulties commonly included explicit instruction, overall structure, repetition, and strategy learning](effective-intervention-characteristics-co-occurring.md) — a narrower finding that bears on this claim
 - [Effect sizes across studies show substantial heterogeneity, with wide prediction intervals spanning large negative to large positive true effects](heterogeneity-math-interventions-co-occurring.md) — related
-- [Formal tests find no substantial evidence of publication bias or small-study effects in the meta-analysis](no-publication-bias-math-interventions-co-occurring.md) — related
+- Formal tests find no substantial evidence of publication bias or small-study effects in the meta-analysis — related
 - [Prior meta-analyses found word-problem interventions less effective for students with co-occurring difficulties than for students with mathematics difficulties only](prior-reviews-co-occurring-less-responsive.md) — related

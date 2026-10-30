@@ -45,6 +45,6 @@ This is the printed title of a Dowson and McInerney study cited in the tribute's
 
 
 ## Related Claims
-- [McInerney's work invited reconsideration of how motivation research is conceptualized, assessed, and applied in teaching and learning practices](reconsider-conceptualize-assess-apply-motivation-research.md) — a broader claim this one bears on
+- McInerney's work invited reconsideration of how motivation research is conceptualized, assessed, and applied in teaching and learning practices — a broader claim this one bears on
 - [McInerney's scholarly position holds that culture is a missing link in most motivation research](culture-missing-link-motivation-research.md) — related
 - [Mainstream motivation theories require cross-cultural testing to establish whether they apply to culturally diverse groups](mainstream-motivation-theories-need-cross-cultural-testing.md) — related

@@ -50,4 +50,4 @@ Repeated-measures experiment in which four groups (n=72 undergraduates) studied 
 ## Related Claims
 - [Frontal theta tACS yields strong memory advantages over all other stimulation conditions at 2-hour, 24-hour, and 1-week delayed free recall tests](frontal-theta-tacs-hedges-g-delayed-recall.md) — related
 - [Post-intervention free recall shows a significant main effect of group favoring frontal theta stimulation, with no group × test interaction](tacs-group-main-effect-no-interaction-recall.md) — related
-- [Baseline equivalence across stimulation groups rules out prior memory-ability differences as an explanation for post-intervention effects](tacs-baseline-equivalence-pre-intervention-recall.md) — related
+- Baseline equivalence across stimulation groups rules out prior memory-ability differences as an explanation for post-intervention effects — related

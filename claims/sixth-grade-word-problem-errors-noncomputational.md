@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2014
+recheck_by: 2019
 sources:
   - id: lenat-2014
     resource: "https://doi.org/10.1007/s40593-014-0016-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` When 26 sixth graders solved four mixed-type word problems, half the errors were not computational but involved understanding the problem and setting up the correct equations. [→ Lenat 2014](#lenat-2014)

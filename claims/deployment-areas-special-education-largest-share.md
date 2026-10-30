@@ -67,6 +67,6 @@ Country-level results from the documentary database: "The United States had the 
 - [In primary and secondary schools, half of deployments involve programming-skills training, and teaching assistant is the dominant role](primary-secondary-programming-and-assistant-roles.md) — a narrower finding that bears on this claim
 - [China has overtaken the US as the leading producer of AIEd higher education publications](china-overtakes-us-ai-ed-he-publications.md) — related
 - [Research on generative AI in secondary STEM education is concentrated in the Global North, with 73% of affiliations and the United States accounting for 30% of publications](global-north-concentration-generative-ai-stem-research.md) — related
-- [AT research on students with disabilities is concentrated in the USA and dominated by qualitative designs and secondary education settings](at-research-usa-qualitative-secondary.md) — related
+- AT research on students with disabilities is concentrated in the USA and dominated by qualitative designs and secondary education settings — related
 - [Patient simulation is the most prevalent role in higher education, concentrated in medical training contexts](higher-education-patient-simulator-role.md) — related
 - [In special education, robots most often act as teachers delivering lessons, with psychological support the most relevant function](special-education-robots-as-teachers-psychological-support.md) — a narrower finding that bears on this claim

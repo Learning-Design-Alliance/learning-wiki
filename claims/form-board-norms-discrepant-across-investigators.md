@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 1915
+recheck_by: 1918
 sources:
   - id: wallin-1915
     resource: "https://search.worldcat.org/search?q=Age+Norms+of+Psycho-Motor+Capacity"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1918**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The average difference between the author's norms and Goddard's is 4.4 seconds for ages 5 to 12, and between his norms and Sylvester's, 5.6 seconds for ages 4 to 12, so diagnoses differ according to which norms are used. [→ Wallin 1915](#wallin-1915)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-30
 evidence_strength: weak
 newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: gutiérrez-páez-2023
     resource: "https://doi.org/10.1016/j.compedu.2023.104829"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Expert assessment had no significant correlation with any other contribution quality indicator in either iteration. [→ Gutiérrez-Páez 2023](#gutierrez-paez-2023)

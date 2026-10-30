@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: ido-davidesco-2026
     resource: "https://doi.org/10.1038/s41539-026-00457-z"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Students switched engagement states roughly every 10–30 s, with mean continuous durations of 27.07 s (on-task), 12.41 s (off-task), and 9.42 s (idle). [→ Ido Davidesco 2026](#ido-davidesco-2026)

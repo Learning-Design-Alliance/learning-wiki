@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1919
+recheck_by: 1922
 sources:
   - id: caldwell-1919
     resource: "https://doi.org/10.1037/h0074484"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1919 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1919 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1922**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In Caldwell's study of 48 college students, the correlation between intelligence quotient and grades was .44 for Juniors and Sophomores re-ranked in one group, higher than any prior reported coefficient except Kitson's. [→ Caldwell 1919](#caldwell-1919)

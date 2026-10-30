@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: weak
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: peter-a-edelsbrunner-2025
     resource: "https://doi.org/10.1007/s10648-025-10023-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Because a strong correlation with external criteria implies low random measurement error, reliability cannot be lower than validity, so validity indices can estimate a lower bound for reliability. [→ Peter A. Edelsbrunner 2025](#peter-a-edelsbrunner-2025)

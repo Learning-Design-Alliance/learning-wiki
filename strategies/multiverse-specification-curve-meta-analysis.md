@@ -17,7 +17,7 @@ sources:
 # Use multiverse and specification-curve analysis to test meta-analytical robustness to subjective analytical choices
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 quant-synthesis), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 For Analysis Reproducibility (Level 3), the article recommends adopting the multiverse and specification-curve approach for meta-analyses suggested by Voracek et al. (2019), identifying theoretically guided eligible specifications. The specification-curve puts the original authors' chosen analysis in perspective: the more the original effect sizes deviate from the distribution of alternative analytical models, the less robust and credible they are. If a specification curve is unfeasible, the article suggests a two-fold strategy of fitting similar plausible models and then multiple different but defensible ones on a sub-sample of the data.
@@ -45,8 +45,6 @@ For Analysis Reproducibility (Level 3), the article recommends adopting the mult
 
 - [Applying the reproducibility checks to TRANSFER performance, the Xie et al. (2018) results are (rather) robust, but RECALL and moderator results are doubtful](../claims/xie-2018-transfer-robust-recall-doubtful.md) [+W]
 - [The Xie et al. (2018) disfluency meta-analysis contained objective coding errors that reversed the reported direction of two primary studies' effects](../claims/xie-2018-disfluency-meta-analysis-coding-errors.md) [+W]
-- [Misclassification of moderating variables in the Xie et al. (2018) meta-analysis decreases the trustworthiness of its moderator analysis](../claims/xie-2018-moderator-misclassification.md) [+W]
-- [Several RECALL effect sizes in the Xie et al. (2018) meta-analysis could not be reproduced, and one reported value (−0.639) is inconsistent with the primary study's data](../claims/xie-2018-recall-effect-sizes-unreproducible.md) [+W]
 
 ## Related Strategies
 

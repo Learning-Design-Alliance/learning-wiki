@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: bühler-2025
     resource: "https://doi.org/10.1007/s40593-024-00412-2"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Within the lab reading dataset, models trained on latent AffectNet features outperform the random baseline to a significant extent, with F1 scores up to 0.459 (LSTM) and about 14% above chance. [→ Bühler 2025](#buhler-2025)

@@ -48,4 +48,3 @@ Content analysis portion of Dunn's monograph as summarized in the review. It fou
 
 - [Content analysis of twenty-nine school readers found poetry constituted fifty-one per cent of all selections](poetry-fifty-one-percent-primary-reader-selections.md) — related
 - [Fictitious stories with repetitions made up forty-five per cent of selections, while stories intended for belief were found only as a trace](fiction-forty-five-percent-belief-stories-trace.md)
-- [Dunn's preference study submitted thirty-one selections in pairs to one hundred ninety-five classes, with adult judges ranking twenty listed qualities and partial correlations isolating nine interest factors](paired-ballot-preference-study-195-classes.md)

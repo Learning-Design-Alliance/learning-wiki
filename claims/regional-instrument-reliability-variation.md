@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: weak
 newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: könül-karimova-2026
     resource: "https://doi.org/10.1007/s10648-026-10207-7"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Pooled reliability was highest in Latin America (α/ω = 0.98, a single estimate) and lowest in Australia (α/ω = 0.83), with several regions represented by very few estimates. [→ Könül Karimova 2026](#konul-karimova-2026)

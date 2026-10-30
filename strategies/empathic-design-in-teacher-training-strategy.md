@@ -17,7 +17,7 @@ sources:
 # Apply the empathic design framework in teacher training to increase design efficiency and teacher self-efficacy, especially in K-12
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Keahey's contribution proposes a practical extension of the empathic design framework into teacher training. The editorial reports that she "suggests expanding the application of the framework to teacher training would create some efficiency with design while increasing teacher self-efficacy", a move seen as especially relevant in K-12 settings where teachers are central to instructional delivery.
@@ -38,7 +38,6 @@ Keahey's contribution proposes a practical extension of the empathic design fram
 
 ## Claims
 
-- [Tracey and Hutchinson (2019) used an exploratory mixed methods design to study the association between designers' imagined learner experiences and learners' representation of the designed activity](../claims/mixed-methods-designer-imagination-learner-representation-association.md) [+W]
 
 ## Related Strategies
 

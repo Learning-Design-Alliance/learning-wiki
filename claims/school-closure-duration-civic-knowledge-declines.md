@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: kennedy-2026
     resource: "https://github.com/OxCGRT/covid-policy-dataset"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` A one standard deviation increase in school closure duration (47 days) is associated with a 0.04SD larger decrease in average civic knowledge. [→ Kennedy 2026](#kennedy-2026)
@@ -52,5 +53,5 @@ Separate regression model from the same fixed-effects analysis of ICCS 2016/2022
 - [Lockdown stringency and school closure duration are associated with greater declines in student trust in civic institutions](lockdown-trust-civic-institutions-declines.md) — related
 - [Lockdown measures are positively associated with expected political participation but show null or negative associations with expected electoral participation](lockdown-political-up-electoral-null-negative.md) — related
 - [Stricter, longer lockdowns are associated with increases (or smaller declines) in students' expected protest participation, strongest for legal protest](lockdown-protest-participation-increases.md) — related
-- [Robustness of the lockdown-civic outcome associations varies by outcome, with legal protest and trust/closure results most consistent](lockdown-civic-results-outlier-sensitivity.md) — related
+- Robustness of the lockdown-civic outcome associations varies by outcome, with legal protest and trust/closure results most consistent — related
 - [The COVID cohort scored significantly lower than the control cohort across the whole study duration](covid-cohort-lower-overall-reading-fluency-group-effect.md) — related

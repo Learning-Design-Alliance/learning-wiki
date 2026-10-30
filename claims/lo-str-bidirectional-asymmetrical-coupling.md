@@ -49,5 +49,5 @@ Three-wave CLPM (T1 Week 2, T2 Week 10, T3 Week 18; N = 216) estimated with cova
 - [Longitudinal studies suggest reciprocal associations between some SECs and student engagement over time](reciprocal-sec-engagement-longitudinal.md) — related
 - [Adding cross-lagged effects significantly improves model fit over autoregressive models for every model tested](cross-lagged-improve-fit-over-autoregressive.md) — related
 - [Student-teacher closeness, conflict and dependency, students' motivation, and academic achievement inform each other across the elementary grades](transactional-relations-motivation-relationships-achievement-k6.md) — related
-- [The choice of longitudinal statistical model can determine whether reciprocal motivation-achievement relations are found](statistical-model-choice-reciprocal-effects.md) — related
+- The choice of longitudinal statistical model can determine whether reciprocal motivation-achievement relations are found — related
 - [Learning outcomes and skill transfer/retention are moderately strongly correlated at each of the three measurement waves](lo-str-within-wave-correlations-moderate.md) — related

@@ -17,7 +17,7 @@ sources:
 # Recommendations for advancing child engagement research in ECEC: clarify the construct, validate measures, and develop child self-reports
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The review's forward-looking recommendations for research on child engagement in ECEC are threefold: clarify the concept of child engagement in terms of its generalizability, specificity, and temporality; describe corresponding operationalizations precisely; and validate existing measures. It states, "Our recommendations also include validating existing measures of child engagement and developing self-reports for young children." These actions respond to the definitional scarcity and measure fragmentation the review documents.
@@ -38,12 +38,10 @@ The review's forward-looking recommendations for research on child engagement in
 
 ## Claims
 
-- [Only about one-third of quantitative ECEC engagement studies provide an explicit definition of child engagement or involvement](../claims/ecec-engagement-studies-lack-explicit-definitions.md) [+W]
-- [Explicit theoretical frameworks of engagement were provided in only 14% of the reviewed ECEC studies](../claims/ecec-engagement-theoretical-frameworks-rare.md) [+W]
-- [The field uses 77 unique established engagement measures, yet more than one-third of studies rely on unestablished author-created measures](../claims/fragmented-ecec-engagement-measures-77-established.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Align conceptualization, definition, measurement, and context when researching student engagement](align-se-conceptualization-measurement-context.md)
 
 ## Examples
 -

@@ -45,6 +45,6 @@ Stated editorial goal, described as based on "several high-quality research and 
 
 
 ## Related Claims
-- [The ETR&D special issue on Cognition and Learning Technology comprises seven papers whose publication was spread across three issues of the journal rather than collected in one issue as planned.](etrnd-cognition-learning-technology-special-issue-publication-spread.md) — related
-- [Special-issue papers articulate theoretical frameworks for inquiry, problem-based learning, and teacher learning and technology integration](special-issue-frameworks-inquiry-pbl-teacher-learning.md) — related
-- [Special-issue frameworks argue for design-thinking-based and originary theory development in learning design and technology](design-thinking-and-originary-theory-development.md) — related
+- The ETR&D special issue on Cognition and Learning Technology comprises seven papers whose publication was spread across three issues of the journal rather than collected in one issue as planned. — related
+- Special-issue papers articulate theoretical frameworks for inquiry, problem-based learning, and teacher learning and technology integration — related
+- Special-issue frameworks argue for design-thinking-based and originary theory development in learning design and technology — related

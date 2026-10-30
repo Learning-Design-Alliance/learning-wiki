@@ -10,6 +10,7 @@ generated:
 evidence_strength: moderate
 newest_evidence: 1914
 source_checked: 2026-10-24
+recheck_by: 1917
 sources:
   - id: carl-c-brigham-1914
     resource: "https://doi.org/10.1037/h0071183"
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
-> **Currency** · newest study 1914 · checked against its sources 2026-10-24 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 1914 · checked against its sources 2026-10-24 (automated, 2 of 2 entries) · not reviewed by a person · **overdue for a recheck since 1917**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In the long run the scale graded accurately for ages 7 through 11, with average age differences near zero for those years. [→ Carl C. Brigham 1914](#carl-c-brigham-1914)
@@ -66,11 +67,11 @@ The article's summary states the scale measured intelligence development from se
 
 ## Related Claims
 - [The Binet-Simon scale accurately graded fairly minute individual differences in mental ability within same-age groups, as validated against teacher and principal judgments](binet-simon-grades-individual-differences.md) — related
-- [The personal equation of the experimenters never amounted to more than one-third of the average mean variation, too small to be considered significant](binet-simon-examiner-bias-negligible.md) — related
+- The personal equation of the experimenters never amounted to more than one-third of the average mean variation, too small to be considered significant — related
 - [Exceptional Binet-Simon test outcomes were rare (4 per cent) and mostly attributable to error in adult judgments rather than the scale](binet-simon-exceptional-cases-4-percent.md) — related
 - [The twelve-year tests of the Binet-Simon scale were unsatisfactory, with several individual tests too difficult for the children tested](binet-simon-twelve-year-tests-unsatisfactory.md) — related
-- [Psychology has helped develop methods for determining school-system efficiency, including pedagogical retardation statistics and measurement scales](retardation-statistics-and-scales-school-efficiency.md) — related
-- [The study's conclusions rest on only sixty-five individually tested unretarded cases, limiting generalization](conclusions-rest-on-sixty-five-individual-cases.md) — related
+- Psychology has helped develop methods for determining school-system efficiency, including pedagogical retardation statistics and measurement scales — related
+- The study's conclusions rest on only sixty-five individually tested unretarded cases, limiting generalization — related
 - [Taylor's Sheffield study suggests the Binet scale is broadly suitable for English children, though tests for ages 6 and 7 seem too easy and tests above 11 seem unsatisfactory.](sheffield-103-children-binet-suitable-english-ages-6-7-easy.md) — related
 - [The Binet scale can be understood and applied by the average teacher or school principal as readily as current pedagogical tests](binet-scale-usable-by-teachers-and-principals.md) — related
 - [The Binet-Simon scale is a valuable diagnostic tool for classifying defective children when used by a trained examiner but dangerous in untrained hands](binet-simon-scale-valuable-trained-dangerous-untrained.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: mengzhou-li-2021
     resource: "https://doi.org/10.1038/s41539-020-00083-3"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Under the stated assumptions, using the GAS the maximum individual collusion gain can be controlled to be no larger than (1 - 1/Q)/(M2 - M1 + 1). [→ Mengzhou Li 2021](#mengzhou-li-2021)

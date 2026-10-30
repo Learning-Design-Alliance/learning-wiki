@@ -46,7 +46,7 @@ Joint UHCA and PCA of the 15 comprehension and 11 expressive items (Figure 4). T
 
 ## Related Claims
 - [Combined receptive-expressive phenotyping identifies four participant phenotypes that do not map one-to-one onto the traditional tripartite groups](four-combined-receptive-expressive-phenotypes.md) — reports the opposite
-- [Eleven expressive language abilities resolve into three stable clusters (Single-Word, Single-Sentence, Multi-Sentence), a solution the authors find superior to two- and four-cluster alternatives](three-expressive-language-clusters-autism.md) — related
+- Eleven expressive language abilities resolve into three stable clusters (Single-Word, Single-Sentence, Multi-Sentence), a solution the authors find superior to two- and four-cluster alternatives — related
 - [Parent-reported language comprehension abilities in autistic individuals cluster into three distinct mechanisms: Command, Modifier, and Syntactic](three-receptive-language-comprehension-clusters-autism.md) — related
 - [Principal component analysis independently separates command, modifier, and syntactic language comprehension items](pca-separation-language-items.md) — related
 - [Hierarchical clustering of 15 language comprehension abilities in verbal individuals with language deficits yields three distinct ability clusters: command, modifier, and syntactic](three-language-comprehension-mechanism-clusters.md) — related

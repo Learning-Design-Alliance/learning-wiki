@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: di-pietro-giorgio-2023
     resource: "https://doi.org/10.1016/j.edurev.2023.100530"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Studies focusing on non-European countries tend to suggest greater learning deficits than European studies. [→ Di Pietro Giorgio 2023](#di-pietro-giorgio-2023)
@@ -45,7 +46,7 @@ Meta-regression with 239 estimates; the Europe dummy is positive and significant
 
 
 ## Related Claims
-- [Estimated Covid-19 learning deficits are more pronounced in studies using experimental/quasi-experimental designs than in descriptive or correlational studies](covid-deficit-larger-quasi-experimental-designs.md) — related
+- Estimated Covid-19 learning deficits are more pronounced in studies using experimental/quasi-experimental designs than in descriptive or correlational studies — related
 - [Learning deficits are appreciably larger in middle-income countries than in high-income countries, with no evidence available from low-income countries](covid-deficits-larger-middle-income-countries.md) — related
 - [Learning deficits during the pandemic are larger in maths than in reading](covid-deficits-larger-maths-than-reading.md) — related
 - [Country of publication moderates multigrade cognitive effects, with a small negative effect only for European studies](country-moderates-multigrade-effects.md) — related

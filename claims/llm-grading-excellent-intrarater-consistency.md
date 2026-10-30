@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: da-wei-zhang-2024
     resource: "https://doi.org/10.1038/s41539-024-00291-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Rerunning Prompt 3 in ChatGPT 3.5 yielded good-to-excellent intrarater consistency (ICC = 0.89, 95% CI [0.76, 0.94]). [→ Da-Wei Zhang 2024](#da-wei-zhang-2024)

@@ -47,6 +47,6 @@ Model 2 moderation analysis (N = 8847) plotting unique genetic, shared and non-s
 ## Related Claims
 - [The association between delayed tracking and larger genetic influence is driven mostly by reduced primary effects (influences common to performance and attainment), not secondary effects](delayed-tracking-reduces-primary-effects.md) — related
 - [Delaying definite tracking is associated with a larger genetic influence and a lower shared-environmental influence on secondary educational attainment among Dutch twins](delayed-tracking-larger-genetic-influence.md) — possibly the same claim (merge candidate)
-- [In a genetically informed twin study, the effect of shared family environment was substantially reduced among twins whose tracking was delayed until a later age](delayed-tracking-reduced-family-environment-effect.md) — related
+- In a genetically informed twin study, the effect of shared family environment was substantially reduced among twins whose tracking was delayed until a later age — related
 - [A large share of the genetic influence on secondary-school attainment is due to genes that did not influence primary-school performance](genes-unique-to-attainment-beyond-cito.md) — related
 - [The chance of delayed tracking generally increases with the child's performance level, except among the highest performers](performance-predicts-delayed-tracking.md) — related

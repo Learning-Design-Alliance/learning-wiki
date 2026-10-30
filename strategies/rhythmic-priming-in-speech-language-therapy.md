@@ -50,7 +50,8 @@ The article recommends using short regular rhythmic stimulation immediately befo
 - [Regular rhythmic primes do not improve performance on a non-grammatical visual cancellation control task](../claims/rhythmic-priming-no-effect-visual-cancellation-control.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use multisensory exposure and training as targets for remediation of sensory-based developmental and cognitive impairments](multisensory-training-remediation-strategy.md)
 
 ## Examples
 -

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: lee-2026
     resource: "https://doi.org/10.1007/s10648-026-10186-9"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Across 38 reviewed studies, eye-tracking measures of learning constructs in IVR averaged 1.93 out of 4 on the validity scoring scheme (SD = 0.77), i.e., about 48%. [→ Lee 2026](#lee-2026)
@@ -64,7 +65,7 @@ Component-level analysis in the review's Results (Table 4) shows data quality av
 
 
 ## Related Claims
-- [Attention is the most frequently assessed learning construct in IVR eye-tracking research, while motivation, self-regulation, and immersion are unexamined](attention-most-assessed-ivr-eye-tracking-construct.md) — related
+- Attention is the most frequently assessed learning construct in IVR eye-tracking research, while motivation, self-regulation, and immersion are unexamined — related
 - [Eye-tracking measures of cognitive load show significantly higher validity than measures of other learning constructs in IVR](cognitive-load-measures-higher-validity-ivr.md) — related
-- [IVR eye-tracking studies commonly use small samples, adult participants, professional-domain tasks, and default vendor hardware and software configurations](ivr-eye-tracking-methodological-characteristics.md) — related
+- IVR eye-tracking studies commonly use small samples, adult participants, professional-domain tasks, and default vendor hardware and software configurations — related
 - [Neither self-report nor eye tracking can reliably distinguish strategic from habituated behavior in empirical practice](measurement-cannot-separate-strategic-from-habituated.md) — related

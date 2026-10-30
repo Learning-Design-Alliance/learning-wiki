@@ -17,7 +17,7 @@ sources:
 # Validate LDA topic-model outcomes by combining thematic analysis with multilevel regression
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends a two-part validation strategy for topic models of written student feedback: first, a qualitative evaluation in which "thematic analysis to assign a theme for each topic" is performed and the themes are compared with SET determinants from extant literature; second, a statistical evaluation using multilevel regression to predict topic probabilities from Likert-scale SET dimensions. This combination supports construct, descriptive and interpretive validity and can reveal which qualitative findings are supported by closed-ended data, where text and Likert findings conflict, and which topics find novel constructs.
@@ -43,7 +43,6 @@ The article recommends a two-part validation strategy for topic models of writte
 ## Claims
 
 - [Thematic analysis of LDA topics identifies six SET themes matching prior literature](../claims/thematic-analysis-lda-topics-set-themes.md) [+W]
-- [Topic 4 (dissatisfaction with workload) contradicts thematic analysis and appears invalid](../claims/topic-4-workload-contradicts-thematic-analysis.md) [+W]
 
 ## Related Strategies
 - 

@@ -12,7 +12,7 @@ generated:
 # Bioecological Model of Human Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 37 claims (21 for, 15 mixed, 1 against) · 32 studies (16 associational, 7 review, 5 quant-synthesis, 4 theoretical), `q1`–`q3` · 5 of 32 report an effect size · 35 claims rest on one study
+> **Evidence** · 36 claims (20 for, 15 mixed, 1 against) · 31 studies (16 associational, 6 review, 5 quant-synthesis, 4 theoretical), `q1`–`q3` · 5 of 31 report an effect size · 34 claims rest on one study
 
 ## Description
 Urie Bronfenbrenner's bioecological model holds that human development results from **proximal processes** — "stimulating, regular face-to-face interactions over extended periods with people, objects, or symbols" (Bronfenbrenner, 1994) — that realize a person's biological, psychological, and social potential. A parent shaping a child through parenting behaviors, modeling, and encouragement is a proximal process. Development is **transactional and bidirectional**: children affect their immediate contexts as much as contexts affect children — insecurely attached children are more emotionally demanding, and language-delayed children elicit less verbal exchange from adults.
@@ -70,7 +70,6 @@ The model also emphasizes **experience**: "the scientifically relevant features 
 - [Children's challenging behaviour, not ability (IQ), is the major source of demand on teachers, and one child's disruptive behaviour can reduce classmates' access to the educator](../claims/challenging-behaviour-major-teacher-demand.md) [+W] — attached 2026-10-19 from Bly et al. (2026), which proposed "Classroom ecological model of ECEC quality as co-created by educator, child, and collective of children".
 - [Measures of individual children's experiences within the ECEC group predict child development outcomes with higher effect sizes than global quality measures](../claims/individualised-measures-better-prediction-than-global.md) [~W]
 - [Country and school level moderate the relationship between CMSE and many correlates](../claims/cmse-country-school-level-moderators.md) [~W]
-- [The review's evidence base comprises 90 studies reporting 870 associations of interaction quality with child developmental and educational outcomes, covering 108,693 children](../claims/ecec-quality-review-90-studies-870-associations.md) [+W]
 - [Higher caregiver education level is associated with higher interactive skills of individual child-care professionals (r = .21)](../claims/caregiver-education-interactive-skills-positive-association.md) [+W]
 - [Microsystem conditions such as poverty and unmet basic needs undermine learners' availability to learn](../claims/microsystem-poverty-basic-needs-unavailability.md) [+W]
 - [Student-teacher relationship quality and students' classroom emotions show reciprocal longitudinal associations over one year](../claims/reciprocal-relationship-quality-emotions-associations.md) [+W]

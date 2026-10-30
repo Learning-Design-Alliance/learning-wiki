@@ -53,4 +53,3 @@ Simulation study comparing passage-based alpha (summing scored responses within 
 - [A low alpha for an error-prone covariate can attenuate, inflate, or artificially produce a spurious effect (phantom effect) in the coefficient of a perfectly reliable predictor](low-alpha-covariate-phantom-effect.md) — related
 - [In operational reading-test data, item parameter estimates from a standard 2PL/GPCM that ignores local dependence closely match those from the testlet model (average correlations 0.9893 and 0.9978)](local-dependence-small-impact-item-parameters-real-data.md) — related
 - [MAB assignment overestimates effect sizes for normally distributed rewards, with greater overestimation for smaller true effects](mab-overestimates-effect-sizes.md) — related
-- [Conventional reliability determination risks overestimating coding reliability in small group chat analysis](reliability-overestimation-risk-chat-coding.md)

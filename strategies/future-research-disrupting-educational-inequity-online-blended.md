@@ -17,7 +17,7 @@ sources:
 # Future research should focus on methods for disrupting educational inequity in online and blended learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article closes with a forward-looking recommendation: "Future research in this area should focus on methods for disrupting educational inequity regarding online and blended learning." This directs the research agenda toward equity-focused inquiry rather than only effectiveness studies of professional development.
@@ -39,7 +39,6 @@ The article closes with a forward-looking recommendation: "Future research in th
 
 ## Claims
 
-- [The meta-aggregative review lacks an explicitly critical framework and under-addresses equity](../claims/meta-aggregative-review-lacks-critical-framework.md) [+W]
 
 ## Related Strategies
 

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1910
+recheck_by: 1915
 sources:
   - id: carrie-bansom-squire-1910
     resource: "https://eric.ed.gov/?q=Graded+Mental+Tests+Squire"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1915**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Adequate definitions were not given, except sporadically, before the eleventh year, and kindness and pleasure were harder to define than to read and to write. [→ Carrie Bansom Squire 1910](#carrie-bansom-squire-1910)

@@ -45,7 +45,7 @@ The review's synthesis reports that "positive changes in student attitude, behav
 
 
 ## Related Claims
-- [Increasing student cognitive development was the main focus of the experiments](cognitive-development-main-focus-of-experiments.md) — related
+- Increasing student cognitive development was the main focus of the experiments — related
 - [Schools adopting a whole child approach are reported to see improved attendance, engagement, health, and academic performance](whole-child-approach-improved-outcomes.md) — related
 - [Social and emotional learning programs promote competencies, reduce behavior problems, and improve engagement and achievement, with sustained longer-term benefits](sel-programs-improve-behavior-engagement-achievement.md) — related
 - [Well-implemented, well-attended summer programs show positive outcomes in academic, social, and behavioral areas](well-attended-summer-programs-positive-outcomes.md) — related

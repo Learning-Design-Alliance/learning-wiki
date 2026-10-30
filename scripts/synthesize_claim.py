@@ -43,11 +43,33 @@ START, END = "<!-- synthesis:start -->", "<!-- synthesis:end -->"
 SECTION = "## Studies bearing on this claim"
 
 
+_ALIASES = None
+
+
+def _claim_aliases() -> dict:
+    """Retired claim slug -> current slug, from wiki-index.json's resolve map."""
+    global _ALIASES
+    if _ALIASES is None:
+        try:
+            index = json.loads((WIKI_ROOT / "wiki-index.json").read_text(encoding="utf-8"))
+            _ALIASES = {k: v.split("/")[-1] for k, v in index.get("resolve", {}).get("claim", {}).items()
+                        if isinstance(v, str) and v.split("/")[-1] != k}
+        except (OSError, ValueError):
+            _ALIASES = {}
+    return _ALIASES
+
+
 def resolve(prefix: str) -> str:
     hits = [p.stem for p in (WIKI_ROOT / "claims").glob(f"{prefix}*.md")]
     exact = [h for h in hits if h == prefix]
     if exact:
         return exact[0]
+    if not hits:
+        # A member merged into another claim since the spec was written answers to its old slug
+        # as an alias; follow it rather than failing the table on every merge.
+        alias = _claim_aliases().get(prefix)
+        if alias and (WIKI_ROOT / "claims" / f"{alias}.md").exists():
+            return alias
     if len(hits) != 1:
         sys.exit(f"claim prefix {prefix!r} matches {len(hits)} pages")
     return hits[0]

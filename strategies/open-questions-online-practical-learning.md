@@ -17,7 +17,7 @@ sources:
 # Pose open design questions for online practical learning: affordability/accessibility, persistence, and multi-user online laboratories
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies (1 review, 1 theoretical), `q1` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 review, 1 theoretical), `q1` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The editorial closes with forward-looking questions for expanding the literature on practical learning in online spaces. It asks how to review "the affordability and accessibility of CoSIL designs", how to "design for persistence as this is key when experimenting towards a prediction", and whether multi-user online laboratory solutions using group learning through co-operation cycles can be considered. These questions guide future research and practice rather than reporting findings.
@@ -41,7 +41,6 @@ The editorial closes with forward-looking questions for expanding the literature
 - [Stegman (2021) proposes blended designs combining simulations/games with strategically placed authentic home-based experiences for iterative learning](../claims/stegman-blended-design-iterative-learning.md) [+W]
 - [West et al. (2020) provide value-added guidance examples for each CoSIL phase, addressing three phases that lacked sufficient guidance examples](../claims/west-cosil-phase-guidance-examples.md) [+W]
 - [Zhai (2021) proposes machine learning methods to increase CoSIL personalization without creating additional burdens to teachers](../claims/machine-learning-personalize-cosil-guidance.md) [+W]
-- [Chatterjee (2020) calls for more investigations into how CoSIL environment design supports student learning, including in-depth review of existing tools](../claims/chatterjee-cosil-design-investigations.md) [+W]
 
 ## Related Strategies
 - 

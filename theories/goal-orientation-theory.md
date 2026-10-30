@@ -12,7 +12,7 @@ generated:
 # Goal Orientation Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 54 claims (42 for, 12 mixed) · 27 studies (14 associational, 5 causal, 3 quant-synthesis, 3 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 27 report an effect size · 54 claims rest on one study
+> **Evidence** · 53 claims (41 for, 12 mixed) · 27 studies (14 associational, 5 causal, 3 quant-synthesis, 3 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 27 report an effect size · 53 claims rest on one study
 
 ## Description
 Goal setting is itself a key motivational process (Locke & Latham, 1984, 2006) — the goals learners choose, and how committed they are to attaining them, shape motivation to learn (Wentzel, 2000). But beyond goal *content* (what a learner wants to achieve), goal orientation theory argues that the *reason* a learner pursues a goal has its own independent effect on learning and performance, explaining differences in how individuals approach and respond to achievement situations (Ames & Archer, 1988; Meece, Anderman, & Anderman, 2006).
@@ -112,7 +112,6 @@ Because mastery-approach goals reliably support the more sustained, thoughtful l
 - [Performance goals predict assertion of one's own competence after a real sociocognitive conflict](../claims/performance-goals-self-competence-assertion.md) [+W] — attached 2026-10-24 from Darnon et al. (2006), which proposed "Sociocognitive conflict regulation framework: epistemic versus relational modes"; tests this page's relationship.
 - [The link between mastery goals and social comparison orientation is stronger the higher learners' performance-approach goal endorsement](../claims/mastery-goals-sco-moderated-by-performance-approach-goals.md) [+W] — attached 2026-10-24 from Darnon et al. (2010), which proposed "Multiple-goal perspective: achievement goals are pursued simultaneously and interact rather than operate in isolation"; tests this page's relationship.
 - [Experimentally induced mastery goals predicted interest in social comparison only under a performance-approach goal condition](../claims/mastery-goal-manipulation-sco-only-in-performance-approach-condition.md) [+W] — attached 2026-10-24 from Darnon et al. (2010), which proposed "Multiple-goal perspective: achievement goals are pursued simultaneously and interact rather than operate in isolation"; tests this page's relationship.
-- [Learning avoidance goals are separable from learning approach goals in university instructors.](../claims/learning-avoidance-separable-from-learning-approach.md) [+W]
 - [University instructors' performance goals split into four classes: appearance and normative components, each approach and avoidance.](../claims/four-performance-goal-classes-appearance-normative.md) [+W]
 - [National income inequality is associated with a stronger student orientation toward competitiveness (PISA 2003 and 2000)](../claims/income-inequality-competitiveness-orientation.md) [~W]
 

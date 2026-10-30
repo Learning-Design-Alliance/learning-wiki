@@ -29,6 +29,7 @@ GAME is a generic automated marking environment developed by Blumenstein et al. 
 ## Related Products and Programmes
 
 - [IntroEduAI](introeduai.md)
+- [ARIN-561](arin-561.md)
 
 ## Key Sources
 - Blumenstein, Michael; Green, Steve; Fogelman, Shoshana; Nguyen, Ann; Muthukkumarasarny, Vallipuram. (2008). Performance analysis of GAME: A generic automated marking environment. Computers and Education, 50(4). https://doi.org/10.1016/j.compedu.2006.11.006

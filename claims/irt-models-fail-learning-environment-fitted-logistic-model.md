@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2014
+recheck_by: 2017
 sources:
   - id: anna-helga-jonsdottir-2014
     resource: "https://arxiv.org/abs/1310.5552"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The fitted model requires numseen, numseen-squared, numseen-cubed, natt and natt-squared terms beyond the Rasch model's first and last terms. [→ Anna Helga Jonsdottir 2014](#anna-helga-jonsdottir-2014)

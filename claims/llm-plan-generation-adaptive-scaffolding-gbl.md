@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: wanli-xing-2025
     resource: "https://doi.org/10.1007/s40593-025-00457-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` T5's generated plans closely matched students' plans, while GPT-3.5 generated valid but more diverse plans. [→ Wanli Xing 2025](#wanli-xing-2025)

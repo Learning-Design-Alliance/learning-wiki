@@ -13,7 +13,7 @@ generated:
 # Emotion-reporting grid for university students based on daily experienced emotions
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A study-developed grid by Elise Lavoué et al. that university students use to record daily emotions and their antecedents for retrospective interviews and analysis.
@@ -22,6 +22,9 @@ A study-developed grid by Elise Lavoué et al. that university students use to r
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [Student emotion episodes can be analyzed by emotional focus, attributed causes, and value-control appraisals](../claims/emotion-episodes-focus-causes-appraisals-analysis.md) [+W]
+- [Existing emotion awareness tools offer little information on learners' emotions and their antecedents](../claims/existing-emotion-awareness-tools-little-info-on-antecedents.md) [+W]
 
 ## Related Products and Programmes
 -

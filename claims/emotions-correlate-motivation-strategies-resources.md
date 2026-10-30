@@ -70,7 +70,7 @@ Same correlational dataset (N = 230 university students). The authors report rel
 
 ## Related Claims
 - [Pre-actional metacognitive, motivational, and positive-emotional components are positively associated with regulatory behavior in the actional phase, while anger and anxiety are negatively associated](pre-actional-components-predict-actional-regulation.md) — related
-- [Academic emotions cluster into four groups by antecedents, with anxiety and hopelessness highly correlated (r > .70) yet kept as separate scales](aeq-emotion-clusters-anxiety-hopelessness.md) — related
+- Academic emotions cluster into four groups by antecedents, with anxiety and hopelessness highly correlated (r > .70) yet kept as separate scales — related
 - [Emotions measured early in the semester longitudinally predict cumulative grades and exam scores, with negative deactivating emotions (hopelessness, boredom) showing stronger coefficients than activating negative emotions](emotions-longitudinally-predict-achievement.md) — related
 - [Academic emotions—enjoyment, anxiety, and boredom—mediate the association between perceived AI-adaptive environments and SRL, accounting for 54.8% of the total effect](academic-emotions-mediate-ai-environment-srl.md) — related
 - [Enjoyment correlates positively (r = .31), and boredom, mathematics anxiety and test anxiety negatively (r = −.23 to −.28), with mathematics achievement](achievement-emotions-and-anxiety-correlate-with-math-achievement.md) — related

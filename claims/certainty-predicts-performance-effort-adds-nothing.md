@@ -46,4 +46,4 @@ Five competing fixed-effects logistic regression models on the Blissett et al. (
 
 ## Related Claims
 - [Mental effort relates to self-rated certainty in a cubic (declining–flat–declining) rather than linear pattern](mental-effort-certainty-cubic.md) — related
-- [Evidence on the mental effort–workload relation is mixed: AIC prefers quadratic, BIC prefers linear](mental-effort-workload-mixed-evidence.md) — related
+- Evidence on the mental effort–workload relation is mixed: AIC prefers quadratic, BIC prefers linear — related

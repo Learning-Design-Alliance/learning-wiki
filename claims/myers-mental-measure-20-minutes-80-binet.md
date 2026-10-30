@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1921
+recheck_by: 1924
 sources:
   - id: bell-1921
     resource: "https://doi.org/10.1037/h0073682"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
-> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1924**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The Myers Mental Measure, for grades 1-8, can be administered in 20 minutes and reportedly correlates .80 with the Standard Revision of the Binet Scale. [→ Bell 1921](#bell-1921)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: psyridou-2024
     resource: "https://doi.org/10.1037/edu0000835"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` An MLP trained on an oversampled, balanced training dataset (approximately 1,100 cases per group) did not perform better than the model trained on the unbalanced data. [→ Psyridou 2024](#psyridou-2024)

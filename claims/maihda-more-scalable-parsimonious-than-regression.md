@@ -46,5 +46,5 @@ Analytical comparison in the methods exposition of parameter counts for the two 
 
 ## Related Claims
 - [Precision-weighted shrinkage in MAIHDA yields reliable conservative estimates for small strata and helps solve the multiple-testing problem](maihda-shrinkage-small-strata-advantages.md) — related
-- [In the PISA 2018 German illustration, students were assigned to 40 intersectional strata with sample sizes ranging from 3 to 512](pisa-germany-40-strata-sample-sizes.md) — related
-- [A systematic review identified 21 publications applying intersectional MAIHDA analysis, primarily in the health sciences](systematic-review-21-intersectional-maihda-studies.md) — related
+- In the PISA 2018 German illustration, students were assigned to 40 intersectional strata with sample sizes ranging from 3 to 512 — related
+- A systematic review identified 21 publications applying intersectional MAIHDA analysis, primarily in the health sciences — related

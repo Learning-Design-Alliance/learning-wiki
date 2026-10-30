@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1922
+recheck_by: 1925
 sources:
   - id: walter-f-dearborn-and-edward-a-lincoln-1922
     resource: "https://doi.org/10.1037/h0075378"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1925**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The article reports complaints about customary standardization practice: results placing whole classes very much too high or too low and widely different rankings on two or more tests. [→ Walter F. Dearborn and Edward A. Lincoln 1922](#walter-f-dearborn-and-edward-a-lincoln-1922)
@@ -45,6 +46,6 @@ Opening motivational report by the authors, characterizing problems with the cus
 
 
 ## Related Claims
-- [Standardizing each community separately exposes facts concealed when results are lumped together](separate-community-standardization-exposes-concealed-facts.md) — related
+- Standardizing each community separately exposes facts concealed when results are lumped together — related
 - [Teacher judgment ratings diverged from standardized test results for individual pupils](teacher-judgment-diverges-from-tests.md) — related
 - [Standardized test results showed the greatest deficiency in grammar tests among summer-school pupils](grammar-tests-greatest-deficiency-1918.md) — related

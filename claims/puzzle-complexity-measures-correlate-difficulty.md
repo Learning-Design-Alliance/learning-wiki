@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: pelánek-2022
     resource: "https://doi.org/10.1007/s40593-021-00252-4"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Simple complexity measures for logic puzzles correlate mostly only weakly with difficulty, but for some puzzles like Rush Hour even simple measures provide good prediction, while for Sudoku a linear combination of measures achieves high correlation. [→ Pelánek 2022](#pelanek-2022)

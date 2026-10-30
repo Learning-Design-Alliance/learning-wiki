@@ -45,5 +45,5 @@ Study 3 manipulation-check analysis (n=82, one missing value) of effectiveness r
 
 
 ## Related Claims
-- [The threat induction manipulation checks confirm increased stress and elevated defensive responding under high threat](threat-manipulation-checks-stress-responding.md) — related
+- The threat induction manipulation checks confirm increased stress and elevated defensive responding under high threat — related
 - [Post-training reversal instructions reverse the outcome-specific PIT effect in fight-or-flight decisions](reversal-instructions-reverse-specific-pit.md) — related

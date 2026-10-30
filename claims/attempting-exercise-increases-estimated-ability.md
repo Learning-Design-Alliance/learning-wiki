@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: letteri-2025
     resource: "https://doi.org/10.1007/s40593-025-00492-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Across the formative assessment period, each attempted exercise increased Rasch-estimated ability on average by 0.0055 (95% CI [0.0035, 0.0075]), corresponding to a grade increase of 0.028 (95% CI [0.018, 0.039]). [→ Letteri 2025](#letteri-2025)

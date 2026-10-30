@@ -45,6 +45,6 @@ Systematic review coding of 46 studies identified 65 data-type codes grouped bot
 
 
 ## Related Claims
-- [LA is used in higher-education feedback studies for a range of objectives beyond improving feedback itself, with reflection the most common (43% of studies)](la-feedback-objectives-reflection-most-common.md) — related
+- LA is used in higher-education feedback studies for a range of objectives beyond improving feedback itself, with reflection the most common (43% of studies) — related
 - [Deploying a trace-capturing Parsons tool in two university courses surfaced recurring difficulty patterns including exception-type misidentification, return-for-throw confusion, and incorrect control-flow ordering](pulla-deployment-surfaced-recurring-difficulty-patterns.md) — a narrower finding that bears on this claim
 - [K-means clustering of K–8 students' platform trace data yields seven distinct engagement profiles](seven-engagement-profiles-k8-elearning.md) — related

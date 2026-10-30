@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: lixiang-yan-dragan-gašević-vanessa-echeverria-linxuan-zhao-yueqiao-jin-xinyu-li-roberto-martinez-maldonado-2025
     resource: "https://doi.org/10.1007/s40593-025-00475-9"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Qualitative content analysis of interviews with four senior educators yielded two main themes: Scenario Discrepancies and Practical Utilities. [→ Lixiang Yan · Dragan Gašević · Vanessa Echeverria · Linxuan Zhao · Yueqiao Jin · Xinyu Li · Roberto Martinez-Maldonado 2025](#lixiang-yan-dragan-gasevic-vanessa-echeverria-linxuan-zhao-yueqiao-jin-xinyu-li-roberto-martinez-maldonado-2025)
@@ -65,5 +66,5 @@ Educators' interpretation of the Scenario A nulls: complexity, unfamiliarity, an
 
 ## Related Claims
 - [Prior knowledge and epistemic self-efficacy as an evaluator of knowledge are important themes in detecting and efficiently resolving conceptual discrepancies](prior-knowledge-and-epistemic-self-efficacy-support-discrepancy-detection.md) — related
-- [Whether conceptual discrepancies are noticed (or not) and how they are resolved can be traced through concurrent think-aloud protocols and retrospective interviews](think-aloud-and-retrospective-reports-trace-discrepancy-processing.md) — related
+- Whether conceptual discrepancies are noticed (or not) and how they are resolved can be traced through concurrent think-aloud protocols and retrospective interviews — related
 - [University students adapt their behavioral processing of discrepant science content as a function of their epistemic cognition and discrepancy type](srl-processing-adapts-to-epistemic-cognition-and-discrepancy-type.md) — related

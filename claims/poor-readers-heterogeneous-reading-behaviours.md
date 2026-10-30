@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2017
+recheck_by: 2022
 sources:
   - id: genevieve-mcarthur-and-anne-castles-2017
     resource: "https://doi.org/10.1038/s41539-017-0008-3"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Poor readers display different profiles of reading behaviour, including poor phonological recoding, poor sight word reading, poor fluency, and poor comprehension, with most poor readers showing combinations of these problems. [→ Genevieve McArthur and Anne Castles 2017](#genevieve-mcarthur-and-anne-castles-2017)

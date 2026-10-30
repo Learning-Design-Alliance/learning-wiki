@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2015
+recheck_by: 2020
 sources:
   - id: j-michael-spector-2015
     resource: "https://doi.org/10.1007/s11423-014-9364-3"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Despite much discussion of large-scale educational reform, little evidence of sustained, large-scale systemic change efforts exists; Head Start is cited as one of a few successes. [→ J. Michael Spector 2015](#j-michael-spector-2015)
@@ -47,4 +48,4 @@ Editorial assertion citing Reigeluth and Garfinkle (1994) on systemic change and
 ## Related Claims
 - [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — related
 - [CSCL initiatives have produced sustainable educational change at classroom, school, and school-system levels](cscl-sustainable-change-three-levels.md) — reports the opposite
-- [Three barriers impede replication, meta-analysis, and large-scale impact research: funding, researcher incentives, and instrument sharing](three-barriers-replication-impact-research.md) — related
+- Three barriers impede replication, meta-analysis, and large-scale impact research: funding, researcher incentives, and instrument sharing — related

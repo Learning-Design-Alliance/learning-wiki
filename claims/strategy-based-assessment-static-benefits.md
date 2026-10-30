@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: gerdes-2016
     resource: "https://doi.org/10.1007/s40593-015-0080-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The authors argue that strategy-based assessment addresses four problems of test-based assessment: it guarantees correctness of recognised programs, recognises imperfections, identifies the algorithm implemented, and is carried out statically. [→ Gerdes 2016](#gerdes-2016)

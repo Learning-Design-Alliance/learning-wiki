@@ -31,7 +31,9 @@ A situational multiple-choice scale developed by Chaiyapornpattana et al. to ass
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [25-item electronic magnetism cognitive achievement test](25-item-electronic-magnetism-cognitive-achievement-test.md)
+- [Quantum Theory Test](quantum-theory-test.md)
 
 ## Key Sources
 - Chaiyapornpattana, N., & Wongwanich, S. (2009). Development of a multidimensional thinking styles scale based on theory of mental self-government for sixth grade students. Research in Higher Education Journal. http://www.aabri.com

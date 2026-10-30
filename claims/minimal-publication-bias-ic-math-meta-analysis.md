@@ -46,9 +46,9 @@ Publication bias assessment using contour-enhanced funnel plots, Robust Bayesian
 
 ## Related Claims
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](srl-meta-analysis-publication-bias-absent.md) — related
-- [Publication-bias tests (Egger's test and trim-and-fill) indicate absence of publication bias for the overall effect and moderators](drawing-support-no-publication-bias.md) — related
+- Publication-bias tests (Egger's test and trim-and-fill) indicate absence of publication bias for the overall effect and moderators — related
 - [Publication-bias assessments substantially reduce the intercept prediction, often indicating no positive transfer when the identified moderators are absent](publication-bias-reduces-intercept-no-transfer-without-moderators.md) — related
 - [Publication bias is unlikely to explain the consistency of SRL intervention effect sizes](srl-meta-analysis-no-publication-bias.md) — related
 - [Publication bias is present in the embodied vocabulary learning literature, suggesting pooled effects may overestimate the true benefit](publication-bias-embodied-vocabulary-meta-analysis.md) — related
-- [Publication-bias tests found no evidence of substantial publication bias in the meta-analytic sample](no-publication-bias-teacher-self-efficacy-meta-analysis.md) — related
+- Publication-bias tests found no evidence of substantial publication bias in the meta-analytic sample — related
 - [The pooled effect of writing instruction for US ELL students is robust to sensitivity analyses but funnel plot asymmetry suggests possible missing positive effect sizes](sensitivity-and-bias-checks-ell-writing-meta.md) — related

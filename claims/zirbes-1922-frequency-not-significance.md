@@ -45,5 +45,5 @@ A methodological stance stated in the article's summary discussion, qualifying t
 
 
 ## Related Claims
-- [Across 1921 educational periodicals, unsolved research problems cluster most heavily in mental tests (16 mentions) and curriculum studies (15 mentions)](zirbes-1922-problem-frequency-by-category.md) — related
-- [Early AI pioneers were cognitive scientists directly invested in education research, not merely AI researchers whose tools were later applied to education](early-ai-pioneers-invested-in-education.md) — related
+- Across 1921 educational periodicals, unsolved research problems cluster most heavily in mental tests (16 mentions) and curriculum studies (15 mentions) — related
+- Early AI pioneers were cognitive scientists directly invested in education research, not merely AI researchers whose tools were later applied to education — related

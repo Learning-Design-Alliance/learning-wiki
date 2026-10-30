@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: mixed
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: stephan-e-vogel-and-bert-de-smedt-2021
     resource: "https://doi.org/10.1038/s41539-021-00099-3"
@@ -40,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r2`–`r3` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Children with dyscalculia show significant differences, often deactivation, in the functional organization of brain regions associated with number processing, in particular the IPS. [→ Stephan E. Vogel and Bert De Smedt 2021](#stephan-e-vogel-and-bert-de-smedt-2021)

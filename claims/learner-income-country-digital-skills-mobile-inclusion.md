@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: hale-ilgaz-2021
     resource: "https://doi.org/10.1007/s11423-021-09945-y"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q1 i?` From an inclusion perspective, general features such as levels of income, country statuses, or digital skills of the learners affect mobile learning, and design and practical solutions can address these affordance barriers. [→ Hale Ilgaz 2021](#hale-ilgaz-2021)

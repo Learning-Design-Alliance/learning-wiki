@@ -47,6 +47,6 @@ Subsection analysis of the 35 studies comparing standardised versus unstandardis
 ## Related Claims
 - [Participant age shows no significant correlation with VSWM–mathematics effect sizes](participant-age-no-correlation-effect-size.md) — related
 - [VSWM shows an overall positive relationship with mathematics performance in school-aged children](vswm-positive-association-mathematics-performance.md) — a broader claim this one bears on
-- [Smaller sample sizes are associated with larger VSWM–mathematics effect sizes](smaller-samples-larger-effect-sizes.md) — related
+- Smaller sample sizes are associated with larger VSWM–mathematics effect sizes — related
 - [Standardised and non-standardised VSWM measures perform equally in relating VSWM to mathematics performance](standardised-vswm-measure-no-advantage.md) — related
 - [Type of VSWM assessed (simultaneous, sequential, or both) shows only a marginally non-significant influence on effect sizes](vswm-type-marginally-non-significant.md) — related

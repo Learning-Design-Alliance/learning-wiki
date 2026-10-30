@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: robert-a-mason-2021
     resource: "https://doi.org/10.1038/s41539-021-00107-6"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q3 i?` A classifier trained on nine participants' data and tested on the left-out participant identified the 45 concepts with mean cross-participant rank accuracy of 0.70 (range 0.53–0.81). [→ Robert A. Mason 2021](#robert-a-mason-2021)

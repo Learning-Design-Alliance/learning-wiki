@@ -45,6 +45,6 @@ CFA of the challenge scale: the student version (N=450) showed good fit (CFI 0.9
 
 
 ## Related Claims
-- [The Benefit scale's two factors (Effectiveness and Empowerment) fit satisfactorily for both groups, but their near-1.00 correlation suggests a potential unidimensional structure](genai-rp-benefit-scale-two-factors-unidimensionality.md) — related
+- The Benefit scale's two factors (Effectiveness and Empowerment) fit satisfactorily for both groups, but their near-1.00 correlation suggests a potential unidimensional structure — related
 - [Ethics, privacy, bias, over-reliance, accuracy, usability and cost are key challenges AI use poses for learner satisfaction and engagement](ai-challenges-engagement-satisfaction.md) — related
 - [The faculty readiness scale required two model modifications (a cross-loading item and two residual correlations) to reach adequate fit](genai-rp-faculty-readiness-modified-model.md) — related

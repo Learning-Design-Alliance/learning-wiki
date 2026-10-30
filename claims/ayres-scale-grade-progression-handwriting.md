@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 1912
+recheck_by: 1917
 sources:
   - id: king-1912
     resource: "https://doi.org/10.1037/h0071006"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1912 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1912 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1917**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` City-wide average handwriting grades rose fairly steadily from grade 1A to 8B, with 5B showing the only marked deviation and 8A slightly below 8B. [→ King 1912](#king-1912)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1921
+recheck_by: 1924
 sources:
   - id: arthur-i-gates-1921
     resource: "https://doi.org/10.1037/h0068367"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
-> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1924**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i3` The Burgess test's correlations with the rate and comprehension composites (0.82 and 0.80) are higher than those of any other test; its lowest correlation except Brown's comprehension is with the Thorndike-McCall (0.48), indicating the two measure different but correlated functions. [→ Arthur I. Gates 1921](#arthur-i-gates-1921)

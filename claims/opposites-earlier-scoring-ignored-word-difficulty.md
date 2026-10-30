@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1918
+recheck_by: 1921
 sources:
   - id: harry-a-greene-1918
     resource: "https://doi.org/10.1037/h0070589"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1921**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Time-limit and time-plus-penalty scoring methods treated each error or omission as of equal value regardless of which stimulus word was missed. [→ Harry A. Greene 1918](#harry-a-greene-1918)

@@ -73,4 +73,4 @@ The authors' inference from the attrition analysis: since lower-achieving and mi
 - [Longitudinal subject attrition produces systematic baseline differences among continuing, dropout, and non-participating students](longitudinal-attrition-systematic-baseline-differences.md) — related
 - [Sensitivity analyses restricting to students assessed in all 15 terms reproduced the full-sample between-group comparisons](sensitivity-15-term-subsample-same-comparisons.md) — related
 - [The dashboard's cohort view restricts results to students who consistently tested across selected terms, and those outcomes may be positively biased](cohort-view-consistent-testers-positive-bias.md) — related
-- [COVID-19 school closures caused approximately 70% attrition on the primary outcome, limiting the trial's power to detect effects](covid-attrition-limited-power.md) — related
+- COVID-19 school closures caused approximately 70% attrition on the primary outcome, limiting the trial's power to detect effects — related

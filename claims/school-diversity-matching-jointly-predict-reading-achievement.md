@@ -72,4 +72,4 @@ Interaction model with diversity × matching term added to the ECLS-K regression
 - [School ethnic diversity moderates the representation-change association: declining same-ethnic representation predicts lower belonging and GPA only in less diverse middle schools](school-ethnic-diversity-buffers-representation-decline.md) — related
 - [Among Latino sixth graders, increases in same-ethnic representation from elementary to middle school are associated with higher school belonging and GPA, qualified by school ethnic diversity](latino-representation-change-belonging-gpa-main-effect.md) — related
 - [Racial/ethnic composition of classrooms and schools shapes Black and Latine students' sense of belonging in mathematics](racial-ethnic-composition-shapes-math-belonging.md) — related
-- [Ingroup representation and racial/ethnic diversity are distinct constructs that are often conflated in school diversity research](ingroup-representation-distinct-from-diversity.md) — related
+- Ingroup representation and racial/ethnic diversity are distinct constructs that are often conflated in school diversity research — related

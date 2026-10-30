@@ -46,4 +46,4 @@ A conceptual claim from the article's theoretical reflection on external represe
 
 ## Related Claims
 - [Cognitive load theory may help identify mismatches between representational schemes and the execution of (sub)tasks in CSCL](clt-identifies-representation-task-mismatches.md) — related
-- [Analyzing arts-based data was one of the biggest challenges in community-based arts-based research: what counts as data was unclear, conventional textual analyses dominated, and researcher-led versus participant-led interpretation each risked stereotyping](abr-data-analysis-challenge.md) — related
+- Analyzing arts-based data was one of the biggest challenges in community-based arts-based research: what counts as data was unclear, conventional textual analyses dominated, and researcher-led versus participant-led interpretation each risked stereotyping — related

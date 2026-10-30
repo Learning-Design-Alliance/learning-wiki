@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: malcorra-2022
     resource: "https://doi.org/10.1038/s41539-022-00129-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In a sample of 118 healthy adults, age correlated positively with RE (short-range recurrence) and negatively with connectedness (LCC), and both correlations lost significance when corrected for education and RWH. [→ Malcorra 2022](#malcorra-2022)

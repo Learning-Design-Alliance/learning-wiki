@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: lm-richter-et-al-2021
     resource: "https://doi.org/10.1038/s41539-021-00106-7"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Across 135 nationally representative datasets, indicators showed clear gradations of disadvantage by country income (e.g., 16% to 36% to 55% of under-fives exposed to extreme poverty or stunting) and within countries, with poor rural households most disadvantaged. [→ L.M. Richter et al 2021](#lm-richter-et-al-2021)

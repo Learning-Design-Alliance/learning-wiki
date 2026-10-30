@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: mixed
 newest_evidence: 1920
+recheck_by: 1923
 sources:
   - id: bridges-1920
     resource: "https://doi.org/10.1037/h0071462"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i3` large
-> **Currency** · newest study 1920 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1920 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1923**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i3` The whole examination correlated r = .54 in Agriculture, .27 in Arts, and .22 in Engineering random samples, with subtest correlations varying considerably between colleges. [→ Bridges 1920](#bridges-1920)

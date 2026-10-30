@@ -46,5 +46,5 @@ Manual coding results (Table 4) reported as printed counts and percentages, plus
 
 ## Related Claims
 - [Cognitive presence comprises four phases of critical thinking — triggering event, exploration, integration, and resolution — which are not always sequential](coi-cognitive-presence-four-phases.md) — a broader claim this one bears on
-- [The authors produced the first fully CoI-coded German dataset of 1,521 meaningful units from 1,147 posts, available on request](german-coi-coded-dataset.md) — related
-- [Three expert coders reached 77.15% overall agreement (Fleiss' κ = 0.763) on the LCT MOOC sample, and over half of their disagreements lay between Exploration and Integration](coder-agreement-exploration-integration-disagreements.md) — related
+- The authors produced the first fully CoI-coded German dataset of 1,521 meaningful units from 1,147 posts, available on request — related
+- Three expert coders reached 77.15% overall agreement (Fleiss' κ = 0.763) on the LCT MOOC sample, and over half of their disagreements lay between Exploration and Integration — related

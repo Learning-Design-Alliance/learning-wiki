@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: kennel-2025
     resource: "https://doi.org/10.1007/s40593-024-00447-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` For the SH-rest split, MCC exceeds 0.7 after 15 s; for BS-rest, 0.7 is reached after 35 s; but GUE-rest cannot be recognized well (MCC fluctuates around 0). [→ Kennel 2025](#kennel-2025)

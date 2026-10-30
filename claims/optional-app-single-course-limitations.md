@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: wong-2026
     resource: "https://doi.org/10.1007/s11423-026-10586-2"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: local conditions change quickly
 
 ## Subclaims
 `q2 i?` The authors state that because the study was conducted in only one course at one university, the findings' applicability to other contexts is limited, and that the app's optional positioning may mean students who needed SRL support did not choose to use it. [→ Wong 2026](#wong-2026)

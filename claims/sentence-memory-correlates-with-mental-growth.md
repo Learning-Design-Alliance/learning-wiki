@@ -49,4 +49,4 @@ Auditory memory was tested with the Binet sentences as modified by Whipple, each
 
 ## Related Claims
 - [Attention performance improves with age among unretarded pupils, with developmental breaks between the seventh and eighth and between the eleventh and twelfth years](attention-develops-with-breaks-at-7-8-and-11-12-years.md) — related
-- [The study's conclusions rest on only sixty-five individually tested unretarded cases, limiting generalization](conclusions-rest-on-sixty-five-individual-cases.md) — related
+- The study's conclusions rest on only sixty-five individually tested unretarded cases, limiting generalization — related

@@ -67,9 +67,9 @@ Exploratory Welch tests comparing reported global fit indices by dimensionality 
 - [A one-factor unidimensional model is the most reasonable fit for MAP computerized adaptive Reading and Mathematics tests across grades, terms, and ten states, though Michigan Mathematics misses the RMSEA criterion](map-cat-unidimensional-factor-structure.md) — related
 - [The ACE-HE measurement model of affective, behavioral, and cognitive engagement fits online/blended survey data well](ace-he-engagement-three-dimension-model-good-fit.md) — related
 - [A confirmatory factor analysis supports a four-factor structure of collaborative group engagement (behavioural, social, cognitive, conceptual-to-consequential) for the QCGE self-assessment scale](qcge-sas-four-factor-structure-cfa-supported.md) — related
-- [Most adolescent motivation studies measure teacher–student relationships unidimensionally rather than multidimensionally](tsr-measured-unidimensionally-in-motivation-research.md) — related
-- [A confirmatory factor analysis on a new sample confirms the three-factor structure with acceptable model fit and moderate convergent validity](cfa-confirms-three-factor-cognitive-load-structure.md) — related
-- [The ANCOVA and CHANGE models can be transformed into one another, so empirical model fit is no criterion for choosing between them](model-fit-no-criterion-ancova-change-selection.md) — related
+- Most adolescent motivation studies measure teacher–student relationships unidimensionally rather than multidimensionally — related
+- A confirmatory factor analysis on a new sample confirms the three-factor structure with acceptable model fit and moderate convergent validity — related
+- The ANCOVA and CHANGE models can be transformed into one another, so empirical model fit is no criterion for choosing between them — related
 - [Early numeracy shows a two-factor structure (NRS and CS) on the Dutch ENT-3, with the two-factor model outperforming a one-factor model at several time points](two-factor-structure-ent3-nrs-cs.md) — related
-- [The Benefit scale's two factors (Effectiveness and Empowerment) fit satisfactorily for both groups, but their near-1.00 correlation suggests a potential unidimensional structure](genai-rp-benefit-scale-two-factors-unidimensionality.md) — related
-- [The hypothesised three-variable structural model fits the survey data well across printed fit indices](dil-sem-model-good-fit.md) — related
+- The Benefit scale's two factors (Effectiveness and Empowerment) fit satisfactorily for both groups, but their near-1.00 correlation suggests a potential unidimensional structure — related
+- The hypothesised three-variable structural model fits the survey data well across printed fit indices — related

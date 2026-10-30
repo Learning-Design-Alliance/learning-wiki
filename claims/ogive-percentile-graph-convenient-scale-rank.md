@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 1916
+recheck_by: 1919
 sources:
   - id: bingham-1916
     resource: "https://www.google.com/search?q=%22Some+Norms+of+Dartmouth+Freshmen%22+Bingham+1916"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1916 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1916 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1919**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The ogive percentile graph has an advantage over the surface-of-distribution graph as a convenient scale for comparing additional individual measures with group norms. [→ Bingham 1916](#bingham-1916)

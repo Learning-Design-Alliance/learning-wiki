@@ -16,7 +16,7 @@ sources:
 # Use a multi-study mixed method design combining process data (eye tracking), concurrent think-aloud, and retrospective interviews to study SRL adaptation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article's methodological approach is a "multi-study, mixed method design" that pairs quantitative process data with verbal report data. Study 1 collected "eye tracking patterns, study times, and metacognitive ratings" to capture behavioral processing, and Study 2 added "concurrent think-aloud protocols and retrospective interviews" to explain why discrepancies were noticed or not and how they were resolved. This combination allows behavioral adaptation to be measured and then interpreted through learners' own accounts.
@@ -38,7 +38,6 @@ The article's methodological approach is a "multi-study, mixed method design" th
 
 ## Claims
 
-- [Whether conceptual discrepancies are noticed (or not) and how they are resolved can be traced through concurrent think-aloud protocols and retrospective interviews](../claims/think-aloud-and-retrospective-reports-trace-discrepancy-processing.md) [+W]
 
 ## Related Strategies
 

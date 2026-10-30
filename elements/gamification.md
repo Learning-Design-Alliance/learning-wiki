@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 31 claims (15 for, 14 mixed, 2 against) · 20 studies (8 causal, 4 quant-synthesis, 4 review, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 6 of 20 report an effect size · 30 claims rest on one study
+> **Evidence** · 29 claims (15 for, 12 mixed, 2 against) · 20 studies (8 causal, 4 quant-synthesis, 4 review, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 6 of 20 report an effect size · 28 claims rest on one study
 
 ## Description
 Gamification is the element in which points, progress indicators, challenges, or other game-like structures are used to shape participation and persistence.
@@ -32,7 +32,6 @@ Gamification is the element in which points, progress indicators, challenges, or
 - [Effects of gamification on mathematics motivation show substantial heterogeneity (I² = 80.74%), mostly within-study](../claims/gamification-mathematics-heterogeneity-substantial.md) [~W]
 - [Gamification produces a statistically significant small-to-moderate positive effect on motivation in secondary and higher education mathematics (g = .383)](../claims/gamification-motivation-mathematics-meta-effect.md) [+W]
 - [The pooled gamification effect is robust across dependence assumptions, quality thresholds, and model specifications, with no evidence of publication bias](../claims/gamification-mathematics-robustness-publication-bias.md) [+W]
-- [Engagement in gamified mathematics is rarely measured with validated instruments, preventing its meta-analytic synthesis](../claims/engagement-measurement-gap-gamified-mathematics.md) [~W]
 - [Counting days incentive strongly increases the number of days of practice in both a within-class and a between-instructor experiment](../claims/counting-days-increases-practice-days.md) [+M] — attached 2026-10-26 from Iman YeckehZaare et al. (2025), which proposed "Counting Days grading incentive in the Runestone retrieval practice tool"; tests this page's relationship.
 - [A counting days grading incentive raises final exam scores more than a per-question points incentive in an introductory programming course](../claims/counting-days-incentive-higher-exam-scores.md) [+M] — attached 2026-10-26 from Iman YeckehZaare et al. (2025), which proposed "Counting Days grading incentive in the Runestone retrieval practice tool"; tests this page's relationship.
 - [The competitive Game Show increased students' tutoring engagement relative to baseline](../claims/game-show-increases-tutoring-engagement.md) [+W]
@@ -46,7 +45,6 @@ Gamification is the element in which points, progress indicators, challenges, or
 - [Reward contingency significantly moderates gamification's effect on intrinsic motivation, with 'each unit solved' contingencies showing larger effects](../claims/reward-contingency-moderates-gamification-effect.md) [~W]
 - [No evidence of publication bias was found for the overall effect of gamification on intrinsic motivation](../claims/gamification-meta-analysis-no-publication-bias.md) [~W]
 - [Most interviewed students did not use NNG 4's tutorial and hint options, and preferred harder game difficulty](../claims/nng4-tutorial-hint-largely-unused-preferred-difficulty.md) [~W]
-- [Gamification studies measure intrinsic motivation almost exclusively through self-report instruments, with no study using free-choice behavioral measures](../claims/intrinsic-motivation-measured-by-self-report.md) [~W]
 - [Effect sizes are larger when the same instructor teaches both gamified and control groups, and when interventions run one to three months](../claims/gamification-moderators-instructor-and-duration.md) [~W]
 - [Path analysis supports an indirect path from competition through motivation and in-game accuracy to post-test scores](../claims/path-analysis-competition-motivation-accuracy.md) [+W]
 - [On a relative leaderboard, course engagement does not differ significantly across position levels](../claims/relative-leaderboard-no-engagement-difference.md) [-M]

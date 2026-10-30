@@ -64,10 +64,10 @@ Model-comparison result reported from the authors' prior response (Núñez-Regue
 
 
 ## Related Claims
-- [The reciprocal effects are robust to alternative models attributing them to latent confounding or residual error (RI-LTVC, STARTS)](reciprocal-effects-robust-to-spuriousness-models.md) — related
+- The reciprocal effects are robust to alternative models attributing them to latent confounding or residual error (RI-LTVC, STARTS) — related
 - [Reanalyses of simulated and PALMA data provide converging support for the extended reciprocal effects model, including an effect of academic self-concept on achievement](reanalyses-converging-support-extended-rem-asc-effect.md) — reports the opposite
 - [Simulation evidence shows RI-CLPM estimates are biased when the true model is a CLPM with lag-2 effects, and fit statistics cannot decide between the two](rudtke-robitzsch-simulation-ri-clpm-bias-lag2.md) — a broader claim this one bears on
 - [The extended REM was robust to several alternative modeling specifications proposed by Sorjonen et al.](extended-rem-robust-alternative-specifications.md) — reports the opposite
-- [Random-intercept and lag2 panel models rest on different assumptions and offer alternative perspectives on controlling covariates](ri-lag2-different-assumptions-covariates.md) — related
-- [The ANCOVA and CHANGE models can be transformed into one another, so empirical model fit is no criterion for choosing between them](model-fit-no-criterion-ancova-change-selection.md) — possibly the same claim (merge candidate)
+- Random-intercept and lag2 panel models rest on different assumptions and offer alternative perspectives on controlling covariates — related
+- The ANCOVA and CHANGE models can be transformed into one another, so empirical model fit is no criterion for choosing between them — possibly the same claim (merge candidate)
 - [Sensitivity analyses showed most sequential CVT paths were spurious due to confounders; only interest→enjoyment was robust](sensitivity-analyses-confounded-cvt-paths.md) — related

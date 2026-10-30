@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1910
+recheck_by: 1913
 sources:
   - id: c-j-rogers-1910
     resource: "https://doi.org/10.1037/h0067546"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q1`
-> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1913**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The correlation of suggestibility between the after-image test and the heat-test proved insignificant, raising the question of whether general suggestibility exists. [→ C. J. Rogers 1910](#c-j-rogers-1910)

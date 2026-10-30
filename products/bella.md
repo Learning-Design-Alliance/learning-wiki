@@ -13,7 +13,7 @@ generated:
 # BELLA
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 BELLA is a symbolic-AI learning-by-teaching tutoring system developed by Lenat et al. that models the user and controls a diagnostic tutee avatar to support pre-algebra learning.
@@ -23,6 +23,8 @@ BELLA is a symbolic-AI learning-by-teaching tutoring system developed by Lenat e
 - **Microtheory-based representation of interaction contexts enabling temporal reasoning about user and tutee models**: BELLA represents each step of the user–Elle dialogue as a new reified context (microtheory) that snapshots the user model, the Elle model, and the problem state at that moment. As the article describes, "a growing graph of interaction contexts is built" that provides a way to refer to past states, back up a step, and serve as grist for BELLA to induce conclusions about the user. Several mt-types are distinguished: Elle-belief mts, user-model snapshot mts, time-point mts, process mts, math belief mts, quantitative relationship mts, problem interpretation mts, tactician mts and strategist mts. (Lenat et al. (2014))
 
 ### Claims
+
+- [Learning-by-teaching games position students as tutors of a teachable virtual agent for basic mathematics](../claims/learning-by-teaching-teachable-agent-math-games.md) [+W]
 
 ## Related Products and Programmes
 -

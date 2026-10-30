@@ -46,6 +46,6 @@ SuSiE Bayesian fine-mapping of the 12q13.12 locus using European 1000 Genomes LD
 
 ## Related Claims
 - [Stratified Genomic SEM finds the common factor enriched only in primate-conserved genomic regions](cg-enrichment-primate-conserved-regions.md) — related
-- [A multivariate GWAS on the common factor identifies a genome-wide significant locus on chromosome 12q13.12 that no univariate trait GWAS detected](multivariate-gwas-locus-12q13-12.md) — a broader claim this one bears on
-- [Transcriptome-wide SEM links the common factor to tissue-specific expression of RHEBL1 and LMBR1L within the same 12q13.12 locus](tsem-rhebl1-lmbr1l-expression.md) — related
+- A multivariate GWAS on the common factor identifies a genome-wide significant locus on chromosome 12q13.12 that no univariate trait GWAS detected — a broader claim this one bears on
+- Transcriptome-wide SEM links the common factor to tissue-specific expression of RHEBL1 and LMBR1L within the same 12q13.12 locus — related
 - [The most significant single-variant association is rs6905617 with English Lexical Decision (p = 3.29E-09), located near MANEA and MANEA-AS1](rs6905617-english-lexical-decision-manea.md) — related

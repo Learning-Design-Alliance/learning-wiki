@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: weak
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: rhoda-lai-2026
     resource: "https://doi.org/10.1007/s10648-025-10107-2"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Studies using more than one relationship dimension report generally declining teacher-student relationships in middle and secondary settings. [→ Rhoda Lai 2026](#rhoda-lai-2026)

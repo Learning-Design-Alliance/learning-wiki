@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1919
+recheck_by: 1924
 sources:
   - id: bell-1919
     resource: "https://eric.ed.gov/?q=journal+of+educational+psychology+volume+X"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 1919 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1919 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1924**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Emphasis on motivation forced teachers' attention away from textbooks, course of study, and lesson plans toward the learning process itself and the pupil's attitude toward school tasks. [→ Bell 1919](#bell-1919)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2019
+recheck_by: 2022
 sources:
   - id: elise-lavoué-2019
     resource: "https://doi.org/10.1007/s11423-019-09688-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q1`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Current emotion awareness tools provide little information about learners' emotions and the antecedents of those emotions. [→ Elise Lavoué 2019](#elise-lavoue-2019)

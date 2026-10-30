@@ -52,7 +52,7 @@ Latent cross-lagged SEM (n mathematics = 1420, n German = 1418) over four waves.
 
 ## Related Claims
 - [Latent boredom means increased and latent interest means declined from grade 5 to grade 8 in both domains](boredom-increases-interest-declines-grades-5-8.md) — related
-- [Boredom and academic interest fit two separate correlated factors better than one common factor in mathematics and German at every wave](boredom-interest-two-factor-separability.md) — related
+- Boredom and academic interest fit two separate correlated factors better than one common factor in mathematics and German at every wave — related
 - [Earlier boredom predicts positive changes in later interest from the second measurement point onward](earlier-boredom-predicts-increased-later-interest.md) — related
 - [Interest is substantially more stable over time than boredom, whose autoregressive paths are low and decline](differential-stability-interest-boredom.md) — related
 - [Negative boredom–interest factor correlations grew stronger over the four waves, indicating increasing divergence during secondary school](boredom-interest-correlations-increase-over-waves.md) — related

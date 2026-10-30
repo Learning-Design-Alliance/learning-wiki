@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: weak
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: wartenberg-2023
     resource: "https://doi.org/10.1007/s10648-023-09831-4"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2` · `i2` medium
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i2` Meta-analytic relationships between the facets nature of work (r = −0.34), relationships with colleagues (r = −0.32), and context factors (r = −0.36) and turnover intentions were moderate and comparable in size. [→ Wartenberg 2023](#wartenberg-2023)
@@ -46,4 +47,4 @@ Univariate random-effects meta-analyses of facet-specific job satisfaction and t
 
 ## Related Claims
 - [Teachers' job satisfaction is negatively associated with turnover intentions (pooled r = −0.46)](job-satisfaction-negative-turnover-intentions.md) — related
-- [Publication year, publication type, and grade level moderate the strength of job satisfaction–performance associations](moderators-of-job-satisfaction-effect-sizes.md) — related
+- Publication year, publication type, and grade level moderate the strength of job satisfaction–performance associations — related

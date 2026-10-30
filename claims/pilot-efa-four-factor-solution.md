@@ -55,10 +55,10 @@ Pilot EFA (principal axis factoring with oblimin rotation) with an independent s
 - [Item-to-factor loading patterns qualitatively differ between human and LLM EFA solutions](human-llm-loading-structures-qualitatively-different.md) — related
 - The MRIM scale has a three-factor structure of planning, monitoring, and evaluating of interactive metadiscourse, cross-validated by EFA and CFA — related
 - [Pilot testing found the initial problem posing test response time too short, with most pilot students unable to complete all three items](pilot-response-time-insufficient-problem-posing-test.md) — related
-- [A principal component analysis of the new cognitive load questionnaire yields a 15-item, three-component solution explaining 74.3% of total variance](pca-three-component-15-item-cognitive-load-solution.md) — related
+- A principal component analysis of the new cognitive load questionnaire yields a 15-item, three-component solution explaining 74.3% of total variance — related
 - [Children's scientific reasoning at the end of primary school has a three-component structure: Hypothesis validation, Experimentation, and Generating conclusions](three-component-scientific-reasoning-structure.md) — related
-- [Principal component analysis of the AITAQS extracts four factors accounting for 65.421% of variance, with item loadings from 0.64 to 0.85 matching the four hypothesized dimensions.](aitaqs-four-factor-pca-structure.md) — related
+- Principal component analysis of the AITAQS extracts four factors accounting for 65.421% of variance, with item loadings from 0.64 to 0.85 matching the four hypothesized dimensions. — related
 - [The faculty readiness scale required two model modifications (a cross-loading item and two residual correlations) to reach adequate fit](genai-rp-faculty-readiness-modified-model.md) — related
-- [Four factors of ICT use explain 57.4% of the total variance in university students' types of ICT use](four-ict-use-factors-57-percent-variance.md) — related
-- [Motivation and learning-strategy scales cluster into three factors: High-Level Learning Strategies, High-Level Motivation, and Low-Level Learning Strategies and Motivation](three-motivation-strategy-factors.md) — related
-- [Factor analysis identifies three components of ICT consideration: help/importance, tools for an end, and negative valuation](three-components-of-ict-consideration.md) — related
+- Four factors of ICT use explain 57.4% of the total variance in university students' types of ICT use — related
+- Motivation and learning-strategy scales cluster into three factors: High-Level Learning Strategies, High-Level Motivation, and Low-Level Learning Strategies and Motivation — related
+- Factor analysis identifies three components of ICT consideration: help/importance, tools for an end, and negative valuation — related

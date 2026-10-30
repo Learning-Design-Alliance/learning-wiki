@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: asma-shannan-alzahrani-2023
     resource: "https://doi.org/10.1007/s11423-023-10229-w"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q1`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Interview participants from large HEIs trusted their institutions' competence to adopt LA because of strong e-learning infrastructure and staff expertise in data analysis. [→ Asma Shannan Alzahrani 2023](#asma-shannan-alzahrani-2023)

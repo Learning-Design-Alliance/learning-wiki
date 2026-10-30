@@ -45,5 +45,5 @@ The review reports, citing Karaoglan Yilmaz (2022) and Kohnke et al. (2022), tha
 
 
 ## Related Claims
-- [LA is used in higher-education feedback studies for a range of objectives beyond improving feedback itself, with reflection the most common (43% of studies)](la-feedback-objectives-reflection-most-common.md) — related
+- LA is used in higher-education feedback studies for a range of objectives beyond improving feedback itself, with reflection the most common (43% of studies) — related
 - [Guiding analytics for learners can improve mathematics achievement, retention, learning strategies, and reduce math anxiety](guiding-analytics-improves-achievement-and-strategies.md) — related

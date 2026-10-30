@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: raccanello-2022
     resource: "https://doi.org/10.1016/j.learninstruc.2022.101629"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Positive emotions (M = 2.81) were lower than negative emotions (M = 2.98), with significant gender × valence (Χ2(1) = 99.830) and area of study × valence (Χ2(3) = 53.863) interactions. [→ Raccanello 2022](#raccanello-2022)

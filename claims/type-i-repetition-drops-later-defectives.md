@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1915
+recheck_by: 1920
 sources:
   - id: otis-1915
     resource: "https://www.google.com/search?q=%22A+Study+of+Association+in+Defectives%22+Otis"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1920**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The curve for Type I (repetition of the stimulus word) is similar for defectives and normals at ages 4 and 5, drops to zero for normals at 6 years and for defectives at 7 years, and occurs sporadically among defectives of older mentality. [→ Otis 1915](#otis-1915)

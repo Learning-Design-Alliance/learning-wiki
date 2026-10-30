@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1923
+recheck_by: 1926
 sources:
   - id: arthur-i-gates-1923
     resource: "https://doi.org/10.1037/h0066477"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
-> **Currency** · newest study 1923 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1923 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1926**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i3` When time is held constant by partial correlation, the verbalness of group test material independently correlates 0.69 with achievement. [→ Arthur I. Gates 1923](#arthur-i-gates-1923)

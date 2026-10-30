@@ -49,5 +49,5 @@ Confirmatory factor analysis of a 10-item Instagram collaboration instrument wit
 - [Teachers with greater enthusiasm for teaching are more likely to use Instagram to seek information](enthusiasm-predicts-instagram-information-seeking.md) — related
 - [Different forms of Instagram collaboration are differentially associated with emotional, informational, and instrumental digital social support](instagram-collaboration-differential-digital-social-support.md) — related
 - [Teachers on Instagram predominantly engage in low-cost collaboration (information seeking) and rarely in high-cost collaboration (co-creating)](instagram-low-cost-collaboration-predominates.md) — a narrower finding that bears on this claim
-- [A confirmatory factor analysis on a new sample confirms the three-factor structure with acceptable model fit and moderate convergent validity](cfa-confirms-three-factor-cognitive-load-structure.md) — related
+- A confirmatory factor analysis on a new sample confirms the three-factor structure with acceptable model fit and moderate convergent validity — related
 - [Teachers with higher self-efficacy are more likely to share information on Instagram, while enthusiasm for teaching is unrelated to sharing](self-efficacy-predicts-instagram-information-sharing.md) — related

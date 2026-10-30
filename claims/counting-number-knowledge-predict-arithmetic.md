@@ -49,6 +49,7 @@ In the final longitudinal path model, counting and number knowledge at t2 predic
 - [Operations and Place Value](../learner-variables/operations-and-place-value.md) — outcome: instruction changes it
 
 ## Related Claims
+
 - [Early language and executive skills at age 3–4 predict preschool counting and number knowledge, which mediate their influence on later arithmetic](language-executive-mediate-arithmetic-via-number-skills.md) — related
 - [Phonological awareness at age 4–5 does not predict later arithmetic skills despite being predicted by early oral language](phonological-awareness-not-arithmetic-predictor.md) — related
 - [Procedural and conceptual counting knowledge each predict kindergarten arithmetic, together explaining about 25% of variance](procedural-conceptual-counting-predict-kindergarten-arithmetic.md) — related
@@ -60,4 +61,5 @@ In the final longitudinal path model, counting and number knowledge at t2 predic
 - [First graders who missed kindergarten during COVID closures showed the greatest school-readiness loss in basic counting and numeracy skills against pre-pandemic cohorts: d = -0.16 after three months of closures and d = -0.23 for the cohort entering school a year later](kindergarten-closure-numeracy-loss.md) — related
 - [Number knowledge and numerosity discrimination are unique longitudinal predictors of arithmetic development over the first year of formal education](number-knowledge-numerosity-unique-predictors-arithmetic-growth.md) — related
 - [Both number system knowledge and estimation uniquely account for variance in all three third-grade arithmetic skills independently of each other and of domain-general factors](multidigit-skills-independent-contribution-arithmetic.md) — related
-- [Many factors besides method determine arithmetical abilities, so method comparisons must test enough school systems for other factors to equalize, or use controlled procedures](confounding-factors-method-comparisons.md) — related
+- Many factors besides method determine arithmetical abilities, so method comparisons must test enough school systems for other factors to equalize, or use controlled procedures — related
+- [Understanding numerical order explains unique variance in children's arithmetic and becomes the best predictor of arithmetic performance by the end of primary school](numerical-order-predicts-arithmetic-development.md)

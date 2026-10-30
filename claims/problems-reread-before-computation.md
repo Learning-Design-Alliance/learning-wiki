@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 1922
+recheck_by: 1927
 sources:
   - id: new-publications-in-educational-psychology-and-related-fields-of-education-1922
     resource: "https://eric.ed.gov/"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
-> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1927**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Problems are invariably re-read in whole or in part before computation begins. [→ New Publications in Educational Psychology and Related Fields of Education 1922](#new-publications-in-educational-psychology-and-related-fields-of-education-1922)

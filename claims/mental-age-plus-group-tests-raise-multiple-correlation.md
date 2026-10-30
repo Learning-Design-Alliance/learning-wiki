@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1923
+recheck_by: 1926
 sources:
   - id: arthur-i-gates-1923
     resource: "https://psycnet.apa.org/record/1923-02675-001"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 1923 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1923 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1926**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` For grades IV-VI, the multiple correlation of achievement with optimally weighted Mental Age plus Group Tests is 0.605, compared with 0.54 for Mental Age alone and 0.52 for Group Tests alone; each variable retains some unique contribution (partial r = 0.36 and 0.32 respectively with the other eliminated). [→ Arthur I. Gates 1923](#arthur-i-gates-1923)

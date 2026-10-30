@@ -17,7 +17,7 @@ sources:
 # Shift journal editorial and review practices to reward theoretically integrative work
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The essay identifies reviewers and journal editors as the most important leverage point for change, since as gatekeepers they determine what is published. It reports the authors' own experience of reviewer bias against multi-theory papers and argues that if editors become open to integration and encourage it in guidelines, reviewers will shift how they assess submissions and authors will be rewarded for integrative work.
@@ -40,7 +40,6 @@ The essay identifies reviewers and journal editors as the most important leverag
 
 ## Claims
 
-- [Fragmentation is caused by researchers themselves via misaligned incentives that favor staying in theoretical camps](../claims/fragmentation-caused-by-misaligned-incentives.md) [+W]
 
 ## Related Strategies
 

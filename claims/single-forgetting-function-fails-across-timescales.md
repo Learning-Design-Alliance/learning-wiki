@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: maarten-van-der-velde-2026
     resource: "https://doi.org/10.1038/s41539-026-00447-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` When an ACT-R model is fitted to short intervals it under-predicts retention at longer intervals, and when fitted to longer intervals it over-predicts accuracy on short intervals. [→ Maarten van der Velde 2026](#maarten-van-der-velde-2026)

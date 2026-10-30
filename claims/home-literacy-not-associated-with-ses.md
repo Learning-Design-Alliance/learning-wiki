@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: girard-2021
     resource: "https://doi.org/10.1038/s41539-021-00112-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In the behavioral sample, neither parental education nor income was associated with home literacy practices (all p's > 0.19), but in the fMRI sample education tended to be negatively associated with basic (r(64) = −0.259, p = 0.090) and formal advanced (r(64) = −0.280, p = 0.066) practices. [→ Girard 2021](#girard-2021)

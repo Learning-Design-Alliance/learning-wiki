@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: wachs-2021
     resource: "http://dx.doi.org/10.1016/j.compedu.2020.104026"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Jokes about religious affiliation (18.1%) and ethnic group (17.9%) were the most common victimization forms; online exclusion was the least experienced. [→ Wachs 2021](#wachs-2021)

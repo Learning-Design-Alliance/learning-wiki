@@ -47,7 +47,8 @@ A four-module instructional architecture that embeds generative AI inside proble
 - [Pbl Ai Sixteen Publications High Peer Evaluations](../claims/pbl-ai-sixteen-publications-high-peer-evaluations.md) [+W]
 
 ## Related Designs
-- 
+
+- [Five-week modular online course structure following the Architecture of Engagement framework](architecture-of-engagement-modular-mentor-course.md)
 
 ## Examples
 -

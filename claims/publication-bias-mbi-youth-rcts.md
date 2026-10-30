@@ -54,10 +54,10 @@ Begg's funnel plots and Egger's regressions conducted for each meta-analysis. Th
 - [Funnel-plot asymmetry ran contrary to small-study effects because larger-sample studies reported larger effect sizes, likely reflecting longer training programs](funnel-asymmetry-contrary-to-small-study-effects.md) — related
 - [Publication bias is present in the embodied vocabulary learning literature, suggesting pooled effects may overestimate the true benefit](publication-bias-embodied-vocabulary-meta-analysis.md) — related
 - [Total training hours significantly moderate MBI effects on negative behaviour across all RCTs, with more hours associated with larger reductions](training-dose-moderates-negative-behaviour.md) — related
-- [No publication bias is detected in the collected Covid-19 achievement estimates](covid-meta-analysis-no-publication-bias.md) — related
+- No publication bias is detected in the collected Covid-19 achievement estimates — related
 - [Publication bias is indicated for the performance-approach and performance-avoidance anxiety effects but not for the depression effects](publication-bias-performance-goal-anxiety-effects.md) — related
-- [Funnel-plot asymmetry indicates small-study effects for some emotion–learning models](funnel-plot-asymmetry-emotion-learning-models.md) — related
-- [Publication bias was significant for the overall DT analysis but not for the fluency, flexibility, or originality indicator analyses](publication-bias-overall-dt.md) — related
-- [No evidence of publication bias was found in the achievement goal–dishonesty literature](no-publication-bias-goal-dishonesty.md) — related
+- Funnel-plot asymmetry indicates small-study effects for some emotion–learning models — related
+- Publication bias was significant for the overall DT analysis but not for the fluency, flexibility, or originality indicator analyses — related
+- No evidence of publication bias was found in the achievement goal–dishonesty literature — related
 - [Large-scale RCTs show school mindfulness training does not benefit overall well-being or social-emotional functioning and can harm those most at risk](mindfulness-rcts-no-benefit-possible-harm.md) — related
 - [Isolated school mindfulness programs show mixed results, with one multi-site trial showing no improvement and increased anxiety in some subgroups](school-mindfulness-mixed-results.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: keith-cochran-2025
     resource: "https://doi.org/10.1007/s40593-025-00473-x"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Higher temperature settings produced longer, more complex generated sentences, with Llama temperature 2 texts averaging 44.4 words versus 25.7 for GPT temperature 0.1. [→ Keith Cochran 2025](#keith-cochran-2025)

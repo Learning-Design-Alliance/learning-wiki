@@ -17,7 +17,7 @@ sources:
 # Systematically examine effects of specific EMME design choices for specific participant populations and task types in future research
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review's forward-looking recommendation is that "Future research should start to more systematically examine the effects of specific EMME design choices for specific participant populations and task types." Because identified studies vary widely in visualization type, data processing, performer guidance, and participants, the review proposes systematic experiments or further meta-analyses on selected moderating variables, using its reported relative frequencies of positive immediate-learning effects as "a first basis for future studies to decide on their EMME design".
@@ -38,7 +38,6 @@ The review's forward-looking recommendation is that "Future research should star
 
 ## Claims
 
-- [EMME study designs vary widely: most experiments added information, used dynamic scan-path visualizations, and over half did not report how eye movement data were processed](../claims/emme-design-heterogeneity.md) [+W]
 - [Rationales for using EMME differ systematically by task domain: sports studies emphasize quiet-eye strategy, medical studies strategy plus attention guidance, and STEM studies more often social mechanisms](../claims/emme-domain-rationale-patterns.md) [+W]
 
 ## Related Strategies

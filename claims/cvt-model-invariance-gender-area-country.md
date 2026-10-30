@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: mixed
 newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: raccanello-2022
     resource: "https://doi.org/10.1016/j.learninstruc.2022.101629"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Strong metric invariance held for gender and area of study, but across the 13 countries only configural invariance was satisfied and scalar invariance failed (ΔCFI = −0.033). [→ Raccanello 2022](#raccanello-2022)

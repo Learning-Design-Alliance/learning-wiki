@@ -46,6 +46,6 @@ Training study in which 31 monolingual English speakers were randomly assigned t
 
 ## Related Claims
 - [Desktop virtual-world learners needed about half the exposures of associative learners and showed exploratory navigation patterns that predict learning success](virtual-world-fewer-exposures-roaming-entropy.md) — possibly the same claim (merge candidate)
-- [Publication of embodied learning in language education studies accelerated late in the 2010s, with 85% published 2015–2020 and 46% in 2019–2020](embodied-language-studies-85-percent-2015-2020.md) — related
+- Publication of embodied learning in language education studies accelerated late in the 2010s, with 85% published 2015–2020 and 46% in 2019–2020 — related
 - [Grasping virtual objects in VR improves foreign language vocabulary retention for learners with low language aptitude, but not for those with high aptitude](vr-grasping-vocabulary-low-aptitude-learners.md) — related
 - [VR-based interactive L2 vocabulary learning shows cortical-thickness correlations in right IPL across training and with delayed retention, unlike non-VR learning](vr-l2-cortical-thickness-right-ipl.md) — related

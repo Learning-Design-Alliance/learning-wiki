@@ -50,5 +50,5 @@ Random-effects meta-analysis of eight single-case and six experimental or quasi-
 
 ## Related Claims
 - [Type of interventionist was not a significant moderator of phonics instruction effects on decoding for students with intellectual disability](interventionist-type-not-significant-moderator-phonics-id.md) — related
-- [Single-case studies yielded a larger average effect size (g = 1.94) than group studies (g = 0.41) in this meta-analysis](single-case-larger-effects-than-group-studies-phonics-id.md) — related
+- Single-case studies yielded a larger average effect size (g = 1.94) than group studies (g = 0.41) in this meta-analysis — related
 - [Researcher-designed decoding tests yielded larger effect sizes than standardized tests in studies of phonics instruction for students with intellectual disability](researcher-designed-tests-larger-effects-than-standardized.md) — related

@@ -12,7 +12,7 @@ generated:
 # Multilevel conceptualization of autonomy support: climate, contextual, and perceived-difference constructs
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article conceptualizes teachers' autonomy support as a multilevel construct with distinct operationalizations: class-directed support measured with class-referent items forms an L2 climate construct reflecting the "overall classroom-specific autonomy-supportive climate"; individual support is an L1 construct whose class aggregate forms a contextual construct indicating how similarly teachers support students; and perceived differences (including relative lack of support) capture within-classroom inequality. The overall autonomy-supportive atmosphere is a shared perception combining class-aggregated individual and class-directed support. This framework motivated the study's doubly latent multilevel modeling of student perceptions.
@@ -23,8 +23,6 @@ The article conceptualizes teachers' autonomy support as a multilevel construct 
 
 ### Claims
 
-- [Students distinguish individual from class-directed autonomy support at the student level, but class-level aggregates form one overall autonomy-supportive atmosphere factor](../claims/individual-vs-class-directed-autonomy-support-two-level-structure.md) [+M]
-- [Perceived differences in teachers' autonomy support form three student-level factors, including relative lack of autonomy support](../claims/perceived-differences-autonomy-support-three-factors.md) [+M]
 - [Students' perceived relative lack of autonomy support positively predicts extrinsic regulation](../claims/relative-lack-of-autonomy-support-predicts-extrinsic-regulation.md) [+W]
 - [Perceived individual and class-directed autonomy support positively predict students' intrinsic motivation, effort, and persistence](../claims/autonomy-support-predicts-intrinsic-motivation-effort-persistence.md) [+W]
 

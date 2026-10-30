@@ -65,4 +65,4 @@ Within technology controls (30.77% of proposed strategies), the review reports b
 
 ## Related Claims
 - [Causes of digital distraction in education are distributed across technology distractors (51.95%), personal needs (37.66%), and instructional environment factors (10.39%)](digital-distraction-causes-tpe-distribution.md) — related
-- [Digital distraction research is predominantly quantitative (69.23%), focused on higher education (92.3% of studies), and relies mainly on surveys](digital-distraction-research-methodological-profile.md) — related
+- Digital distraction research is predominantly quantitative (69.23%), focused on higher education (92.3% of studies), and relies mainly on surveys — related

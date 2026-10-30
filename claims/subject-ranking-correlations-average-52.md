@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1915
+recheck_by: 1920
 sources:
   - id: walter-r-miles-w-s-smiley-1915
     resource: "https://books.google.com"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2` · `i2` medium
-> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1920**: baselines and conditions change
 
 ## Subclaims
 `q2 i2` Coefficients obtained by correlating rankings in various subjects were usually quite high, averaging approximately r = +.52. [→ Walter R. Miles; W. S. Smiley 1915](#walter-r-miles-w-s-smiley-1915)

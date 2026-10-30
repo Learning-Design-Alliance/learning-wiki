@@ -47,6 +47,6 @@ Confirmatory factor analyses comparing nested factor structures in a sample of 4
 ## Related Claims
 - [The elaborated SVR model explains 94% to 98% of variance in reading comprehension for struggling ELs and non-ELs](svr-explains-nearly-all-variance-struggling-readers.md) — related
 - [For non-ELs the effect of word reading on reading comprehension is larger than the combined effects of linguistic comprehension, whereas for ELs linguistic comprehension effects are greater](linguistic-comprehension-dominates-els-word-reading-non-els.md) — related
-- [A bifactor model of oral language and reading fits better than one-, three-, and four-factor models in every grade from 4th through 10th](bifactor-model-best-fit-grades-4-10.md) — related
+- A bifactor model of oral language and reading fits better than one-, three-, and four-factor models in every grade from 4th through 10th — related
 - [Struggling ELs scored lower than non-ELs in reading comprehension and linguistic comprehension but outperformed non-ELs in word reading](group-mean-differences-els-word-reading-advantage.md) — related
 - [Vocabulary's relation to reading comprehension is completely mediated by listening comprehension and word reading for ELs, but exerts a direct effect for non-ELs](vocabulary-mediation-differs-els-non-els.md) — related

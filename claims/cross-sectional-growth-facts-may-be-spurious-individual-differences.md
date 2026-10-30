@@ -46,7 +46,7 @@ This is a theoretical argument from the article's opening discussion, not a test
 
 ## Related Claims
 - [Group averages are misleading when applied to individual pupils because of extensive overlapping in weight and height across grades](group-averages-misleading-individual-overlap.md) — possibly the same claim (merge candidate)
-- [Correlation magnitude rises with the standard deviation of mental age of the group, so cross-group comparisons of the two traits are spurious](correlation-magnitude-varies-with-mental-age-sd.md) — a broader claim this one bears on
+- Correlation magnitude rises with the standard deviation of mental age of the group, so cross-group comparisons of the two traits are spurious — a broader claim this one bears on
 - [Height at age 12 can be predicted from height at age 6 with a probable error of estimate of 2.98 cm for boys and 2.58 cm for girls](height-prediction-probable-error.md) — related
 - [Children maintain their relative height rank within a group from ages 4 to 18, with little crossing of growth curves](height-rank-stability-little-curve-crossing.md) — related
 - [Growth measurements at age ten predict stature at sixteen within about 2.5 centimeters and IQ over the same period within 6.3 points](childhood-growth-predicts-later-stature-and-iq.md) — related

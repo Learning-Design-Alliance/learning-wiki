@@ -17,7 +17,7 @@ sources:
 # Design creativity-promoting programs and curricula that account for grade-level developmental specificities and the moderators of DT growth
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (6 for, 1 mixed) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 7 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 The authors recommend using the meta-analytic findings to guide curriculum development and interventions that promote divergent thinking in line with grade-level and developmental specificities. They state the findings "could have significant implications for development and education scientists, educators, and policymakers" and "might be used to guide curriculum development and implementation to promote DT growth." Because moderators differ by period, programs should be tailored rather than uniform across grades.
@@ -44,7 +44,6 @@ The authors recommend using the meta-analytic findings to guide curriculum devel
 - [No general fourth-grade slump in divergent thinking: Grade 4 shows a plateau relative to Grade 3](../claims/no-general-fourth-grade-slump.md) [+W]
 - [A seventh-grade slump in divergent thinking is observed at the overall and indicator level](../claims/seventh-grade-slump-dt.md) [+W]
 - [The seventh-grade slump is moderated by DT test, task content domain, and gender, with larger drops for WKCT, figural tasks, and a higher proportion of males](../claims/seventh-grade-slump-moderators.md) [+W]
-- [Publication bias was significant for the overall DT analysis but not for the fluency, flexibility, or originality indicator analyses](../claims/publication-bias-overall-dt.md) [~W]
 
 ## Related Strategies
 - 

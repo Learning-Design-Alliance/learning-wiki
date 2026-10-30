@@ -86,7 +86,7 @@ Mayer responds to Barnes and Clawson's (1975) conclusion that organizers "do not
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Do organizers given before or alongside the material help, and for whom?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **9 distinct studies** (4 quant-synthesis, 4 causal, 1 review), `q2`–`q4`, 6 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does other material given before the lesson (an organizer, an activation prompt) do the same job?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **9 distinct studies** (4 quant-synthesis, 4 causal, 1 review), `q2`–`q4`, 6 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|

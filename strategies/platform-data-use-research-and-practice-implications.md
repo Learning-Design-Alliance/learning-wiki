@@ -17,7 +17,7 @@ sources:
 # Equip teachers with technology and training, and conduct large-scale quantitative studies, to advance platform-data use for adaptive instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 From the review's implications, the field needs large-scale quantitative studies that systematically verify the initial exploratory findings, and schools should make use of platform data more common. As the review states, "teachers must be equipped with the necessary technology, but also be trained in the required skills" so that platform data can contribute to adaptive instructional design considering learners' needs and individual characteristics.
@@ -38,7 +38,6 @@ From the review's implications, the field needs large-scale quantitative studies
 
 ## Claims
 
-- [Research on teachers' use of digital learning platform data for instructional design is young and predominantly exploratory, based on a systematic review of 11 studies](../claims/digital-platform-data-use-research-exploratory-review.md) [+W]
 - [A 4-year public institution deployed personalized learning software at scale in College Algebra and used large-scale platform data for continuous improvement rather than acquisition decisions](../claims/action-lab-scale-deployment-continuous-improvement.md) [+W]
 
 ## Related Strategies

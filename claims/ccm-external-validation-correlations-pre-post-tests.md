@@ -47,9 +47,11 @@ External validation correlating pre-test scores with first-half CCM skill estima
 
 
 ## Related Claims
+
 - [Students' skill mastery for all five attributes improved during gameplay in The Nomads, with all quantiles differing significantly between halves](ccm-attribute-mastery-improved-during-gameplay.md) — related
 - [K-2 assessment and latent scores predict third grade ELA grades with correlations from 0.52 to 0.63 in pre-pandemic cohorts](k2-scores-predict-third-grade-ela-grades.md) — related
 - [Cross-term Foundational Skills scores were moderately correlated, with correlations ranging from 0.48 to 0.82 depending on domain and grade](foundational-skills-cross-term-moderate-correlations.md) — related
 - [Between-term score correlations are moderate and lowest for Phonological Awareness](spanish-foundational-skills-between-term-correlations.md) — related
 - [CCM showed adequate model-data fit for game log data, except for infrequent tasks 7 and 9](ccm-model-data-fit-adequate-except-tasks-7-9.md) — related
 - [Scaffold use correlated significantly with mastery of attributes 1, 3, and 4, but not attributes 2 and 5](scaffolding-correlates-mastery-three-of-five-attributes.md) — related
+- [The CPFA model cross-validates with a correlation of .567 using the skill model alone](cpfa-cross-validation-r567.md)

@@ -17,7 +17,7 @@ sources:
 # Three-semester four-wave longitudinal design with multi-group growth modelling for parallel epistemic-belief processes
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The study's methodological element is a "three-semester long four-wave study with 226 undergraduates" in which "Data were analysed by multi- group growth modelling for parallel processes." This design permits modelling of belief trajectories across disciplines in parallel, enabling the differential-development analysis that grounded the article's conclusions about epistemic sophistication.
@@ -37,7 +37,8 @@ The study's methodological element is a "three-semester long four-wave study wit
 - measuring change in epistemic beliefs about the nature of knowledge over time
 
 ### Claims
-- 
+
+- [Epistemic beliefs develop differently across disciplines: absolute beliefs rise in computer science while multiplistic beliefs rise then fall in psychology](../claims/differential-development-epistemic-beliefs-disciplines.md) [+W]
 
 ## Related Designs
 - 

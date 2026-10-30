@@ -51,12 +51,12 @@ Publication-bias assessment within the three-level model: funnel plots showed no
 - [Smaller group sizes and lower child-caregiver ratios are associated with higher interactive skills of individual caregivers](group-size-ratio-interactive-skills-negative-association.md) — related
 - [Caregiver mentalizing abilities and mental well-being are positively associated with interactive skills, with mentalizing sensitive to estimation method](mentalizing-wellbeing-interactive-skills.md) — related
 - [Higher caregiver education level is associated with higher interactive skills of individual child-care professionals (r = .21)](caregiver-education-interactive-skills-positive-association.md) — related
-- [Effect sizes were not moderated by publication year, age, or percentage of females, but were related to study quality; publication-bias tests gave mixed signals](meta-moderators-study-quality-publication-bias.md) — related
+- Effect sizes were not moderated by publication year, age, or percentage of females, but were related to study quality; publication-bias tests gave mixed signals — related
 - [The pooled gamification effect is robust across dependence assumptions, quality thresholds, and model specifications, with no evidence of publication bias](gamification-mathematics-robustness-publication-bias.md) — related
-- [Publication-bias tests found no evidence of substantial publication bias in the meta-analytic sample](no-publication-bias-teacher-self-efficacy-meta-analysis.md) — related
-- [Publication bias evidence is mixed: marginal asymmetry for tutees but no missing studies, and no bias for tutors](cross-age-tutoring-publication-bias-mixed.md) — related
+- Publication-bias tests found no evidence of substantial publication bias in the meta-analytic sample — related
+- Publication bias evidence is mixed: marginal asymmetry for tutees but no missing studies, and no bias for tutors — related
 - [Funnel-plot asymmetry ran contrary to small-study effects because larger-sample studies reported larger effect sizes, likely reflecting longer training programs](funnel-asymmetry-contrary-to-small-study-effects.md) — related
-- [Funnel plot asymmetry for openness, extraversion, and neuroticism appears attributable to reasons other than publication bias](funnel-asymmetry-not-publication-bias.md) — related
-- [Publication-bias evidence differs by subset: significant funnel-plot asymmetry for course-embedded spacing studies but no strong evidence of bias for isolated-material studies.](publication-bias-spacing-subsets-mathematics.md) — related
+- Funnel plot asymmetry for openness, extraversion, and neuroticism appears attributable to reasons other than publication bias — related
+- Publication-bias evidence differs by subset: significant funnel-plot asymmetry for course-embedded spacing studies but no strong evidence of bias for isolated-material studies. — related
 - [Higher caregiver salary is associated with higher interactive skills, though causality cannot be determined](salary-interactive-skills-positive-association.md) — related
 - [Interest as well as association may partly account for the correlation between accuracy in computation and reasoning](interest-association-computation-reasoning-correlation.md) — related

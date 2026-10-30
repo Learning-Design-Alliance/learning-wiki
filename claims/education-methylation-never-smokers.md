@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2018
+recheck_by: 2023
 sources:
   - id: jenny-van-dongen-et-al-2018
     resource: "https://doi.org/10.1038/s41539-018-0020-2"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In never smokers (N=2001), effect sizes across the 58 CpGs were on average 60% smaller than in the full sample but strongly correlated with them (r = 0.83), with 27 sites at least nominally significant. [→ Jenny van Dongen et al 2018](#jenny-van-dongen-et-al-2018)

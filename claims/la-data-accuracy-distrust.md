@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: asma-shannan-alzahrani-2023
     resource: "https://doi.org/10.1007/s11423-023-10229-w"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q1`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Interviews found six data-accuracy concerns (outdated data, different data channels, lack of data governance, power relationship, response bias, technical issues) and concerns about prediction precision due to inconsistent student data and absent psychological factors. [→ Asma Shannan Alzahrani 2023](#asma-shannan-alzahrani-2023)

@@ -67,4 +67,4 @@ Bivariate correlation in the preschooler experiment: "higher standardized gain i
 - [A brief tablet-based fast-mapping game improves preschoolers' speech comprehension (TECAL vocabulary and total scores)](tablet-fast-mapping-improves-preschooler-comprehension.md) — related
 - [A brief tablet-based fast-mapping game improves toddlers' verbal communication skills relative to matched controls](tablet-fast-mapping-improves-toddler-communication.md) — related
 - [Learning-process and psychological constructs correlate only weakly with aggregate final artistic performance](process-constructs-weakly-correlated-final-performance.md) — related
-- [Included tablet-DGBL studies were generally methodologically rigorous by MERSQI standards](tablet-dgbl-studies-mersqi-rigor.md) — related
+- Included tablet-DGBL studies were generally methodologically rigorous by MERSQI standards — related

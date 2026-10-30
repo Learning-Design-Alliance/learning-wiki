@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 1919
+recheck_by: 1922
 sources:
   - id: weeks-1919
     resource: "https://eric.ed.gov"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 1919 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1919 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1922**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Among 57 girls in a secondary school, scores from a written group administration of the Terman vocabulary test correlated +0.7487 with scores from individual oral administration. [→ Weeks 1919](#weeks-1919)

@@ -49,7 +49,7 @@ The editor's framing statement introducing the special-issue responses to Joo et
 
 ## Related Claims
 - [Participants who accessed the report card site with mobile devices had more difficulty using it](mobile-access-increases-report-card-difficulty.md) — a narrower finding that bears on this claim
-- [Fewer than 10% of recent ITS papers address most developing-world adoption barriers, and almost 95% of ITS research still targets traditional computers](its-barriers-low-research-coverage.md) — related
+- Fewer than 10% of recent ITS papers address most developing-world adoption barriers, and almost 95% of ITS research still targets traditional computers — related
 - [Learners used products outside class despite infrastructure limits: 65% of surveyed students reported doing software work outside class while mobile access was largely unavailable](adult-ed-out-of-class-use-mobile-gap.md) — a narrower finding that bears on this claim
 - [Institutional approval processes, privacy regulations, technology access, and limited classroom time constrained chatbot adoption beyond instructional value](institutional-privacy-practical-barriers-chatbot-adoption.md) — related
 - [Commercial games are attractive and accessible to game-based learning advocates but their pedagogical value is often not documented](commercial-games-pedagogical-value-undocumented.md) — related

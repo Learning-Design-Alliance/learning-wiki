@@ -48,7 +48,7 @@ In the MITx 8.MReVx Summer 2014 MOOC, the authors compared time on resources for
 
 - [Fake learners attempted a smaller proportion of assessment items than true learners, with the smallest gap on homework items.](fake-learners-attempt-fewer-items.md) — related
 - [Removing fake learners changed the Tetrad causal graph: the links watching → quizScore and reading → IRT disappeared.](fake-learners-change-tetrad-causal-graph.md) — related
-- [In the Champaign et al. replication, removing fake learners moved three correlations (Ability vs. Homework Time, Ability vs. Reading Time, Weekly Improvement vs. Homework Time) in the positive direction, but no correlation changed qualitatively.](fake-learners-shift-resource-skill-correlations-positive.md) — related
+- In the Champaign et al. replication, removing fake learners moved three correlations (Ability vs. Homework Time, Ability vs. Reading Time, Weekly Improvement vs. Homework Time) in the positive direction, but no correlation changed qualitatively. — related
 - [Fake learners solved exercises significantly faster than true learners and showed higher weekly improvement, but did not differ significantly on grade, ability, or CFA.](fake-learners-faster-and-higher-weekly-improvement.md) — related
 - [A simulated doubling of fake learners (from ~15% to ~26%) significantly increased the bias in Analysis 1A, making 'Doers who are neither Watchers nor Readers' by far the most successful group.](doubling-fake-learners-increases-bias.md)
 - [CAMEO cheating accounts for an estimated 1,237 certificates, or 1.3% of certificates in the 69 MOOCs with CAMEO users](cameo-accounts-for-1237-certificates-1-3-percent-in-affected-courses.md) — related

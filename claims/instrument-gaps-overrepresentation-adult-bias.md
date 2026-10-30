@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: weak
 newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: kelsey-e-schenck-2024
     resource: "https://doi.org/10.1007/s10648-024-09935-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The review's comparison of instruments reveals an overrepresentation of mental rotation and spatial visualization measures, a pressing need for tasks targeting other broad sub-components such as extrinsic-static, and a dominance of adult-tested tasks. [→ Kelsey E. Schenck 2024](#kelsey-e-schenck-2024)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: carolina-cuesta-hincapie-2025
     resource: "https://doi.org/10.1007/s11423-025-10560-4"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Participants rated themselves between 3 and 4 on the Creativity Self-Efficacy scale, with the highest rating given to generating multiple solutions to a problem. [→ Carolina Cuesta-Hincapie 2025](#carolina-cuesta-hincapie-2025)

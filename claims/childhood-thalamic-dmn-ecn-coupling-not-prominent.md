@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: mino-matot-2026
     resource: "https://doi.org/10.1038/s41539-026-00452-4"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Across clustering solutions, no thalamic clusters showed enhanced connectivity with default-mode or executive-control networks, consistent with their later maturation. [→ Mino-Matot 2026](#mino-matot-2026)
@@ -45,5 +46,5 @@ Descriptive network characterization of the five retained thalamic clusters' con
 
 
 ## Related Claims
-- [Data-driven parcellation of the pediatric thalamus yields a K = 8 solution with five interpretable thalamic territories](pediatric-thalamic-parcellation-k8-five-territories.md) — related
+- Data-driven parcellation of the pediatric thalamus yields a K = 8 solution with five interpretable thalamic territories — related
 - [Cluster 5 pedagogy effects and the Cluster 8 Pedagogy × Gender interaction did not survive FDR correction and are considered provisional](cluster5-cluster8-uncorrected-trends-provisional.md) — related

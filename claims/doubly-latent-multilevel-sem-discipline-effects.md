@@ -47,7 +47,7 @@ Methodological contribution of the study: the authors state they assessed the im
 ## Related Claims
 - [Classroom disciplinary problems are directly and negatively related to student achievement and to competence self-perceptions, test anxiety, and engagement](discipline-problems-negatively-related-achievement-motivation.md) — related
 - [Positive class-level peer spillover effects on mathematics achievement fail to replicate once measurement error is controlled with doubly latent models](peer-spillover-disappears-doubly-latent-models.md) — related
-- [Measurement error bias inflates peer spillover effects while attenuating the BFLPE; controls strengthen the BFLPE and weaken the spillover effect](measurement-error-bias-compositional-effects.md) — related
-- [Positive school-average achievement effects on subsequent achievement can be phantom effects that disappear under doubly-latent modeling with covariates](phantom-effects-school-average-achievement.md) — related
+- Measurement error bias inflates peer spillover effects while attenuating the BFLPE; controls strengthen the BFLPE and weaken the spillover effect — related
+- Positive school-average achievement effects on subsequent achievement can be phantom effects that disappear under doubly-latent modeling with covariates — related
 - [Verbal achievement mediates most relations between classroom disciplinary problems and motivation constructs](verbal-achievement-mediates-discipline-motivation-relations.md) — related
 - [Student, student/home, and school factors explain significant variance in student- and school-level mathematics motivation](ecology-factors-explain-variance-math-motivation.md) — related

@@ -50,4 +50,4 @@ Analytical result reported in the Preface, attributed to Polyak and Juditsky. Th
 - [Many learning algorithms, including neural network training and Q-learning, have recursive forms of the stochastic approximation type](learning-algorithms-stochastic-approximation-recursive-forms.md) — related
 - [Diminishing step sizes in stochastic approximation induce implicit averaging that eliminates noise effects in the long run](robbins-monro-diminishing-step-sizes-implicit-averaging.md) — a broader claim this one bears on
 - [Hyperparameter sweeps reproduce the lesson's claims: γ = 0 never solves the task while ε = 1 still converges](hyperparameter-sweeps-reproduce-lesson-claims.md) — related
-- [A central objective is designing paradigms and analyses that utilize meaningful interindividual variability and distinguish it from noise](meaningful-interindividual-variability-analysis.md) — related
+- A central objective is designing paradigms and analyses that utilize meaningful interindividual variability and distinguish it from noise — related

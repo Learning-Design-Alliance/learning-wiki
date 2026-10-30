@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2003
+recheck_by: 2006
 sources:
   - id: vania-dimitrova-2003
     resource: "https://telearn.hal.science/hal-00197312"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`
-> **Currency** · newest study 2003 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2003 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2006**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The study's results demonstrate potential benefits of IOLM for improving the quality of the learner model. [→ Vania Dimitrova 2003](#vania-dimitrova-2003)

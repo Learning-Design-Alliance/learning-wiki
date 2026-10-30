@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1920
+recheck_by: 1925
 sources:
   - id: wheeler-1920
     resource: "https://doi.org/10.1037/h0064614"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1920 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1920 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1925**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Reading reached its maximum popularity, about one-fifth of preferences, among girls aged thirteen to fourteen, and was chosen by very few of the oldest girls. [→ Wheeler 1920](#wheeler-1920)

@@ -46,7 +46,9 @@ The author reports informal correlational checks in his own classes, finding onl
 
 
 ## Related Claims
+
 - [Group intelligence scores correlated only modestly with school marks (freshmen: 0.41 Thurstone, 0.56 Brown; junior high: 0.25 Illinois, 0.32 Otis), which the author attributes to marks depending on many non-intelligence factors](intelligence-scores-school-mark-correlations.md) — related
 - [Army Alpha intelligence standing correlates r = +.31 with one-term school standing among 153 normal-school students](army-alpha-school-standing-correlation-31.md) — related
 - [Directional correlations between test scores and discrepancy direction are low but suggest tension tests track scholarship superiority and assimilation tests track intelligence superiority](low-directional-correlations-tension-versus-assimilation.md) — related
 - [Stanford Adult test results correlate .44 with college grades when Juniors and Sophomores are re-ranked as one group](caldwell-1919-iq-grades-correlation-44.md) — related
+- [In Pyle's experiments women made better records than men](women-better-records-pyle-memory-experiments.md)

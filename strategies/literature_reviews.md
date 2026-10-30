@@ -12,7 +12,7 @@ generated:
 # Literature Reviews
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 14 studies (8 causal, 4 quant-synthesis, 2 review), `q2`–`q4` · 3 of 14 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (5 for) · 13 studies (8 causal, 3 quant-synthesis, 2 review), `q2`–`q4` · 3 of 13 report an effect size
 
 ## Description
 A literature review asks learners to locate, appraise, and synthesize multiple published sources on a question, producing an organized account of the state of knowledge rather than a summary of individual texts. The core cognitive work is *integration*: identifying agreements, disagreements, and gaps across sources and organizing the review around ideas or controversies rather than source-by-source. It is carried out through structured search, critical reading with [Annotating](../principles/annotating.md), and synthesis writing organized by theme or argument.
@@ -61,7 +61,6 @@ Literature reviews develop disciplinary reasoning because learners must weigh co
 
 ## Claims
 
-- [The review's corpus comprises 39 peer-reviewed articles selected via a PRISMA protocol with substantial screening agreement](../claims/ile-psychomotor-review-corpus-39-articles-prisma.md) [+W]
 
 ## Related Strategies
 

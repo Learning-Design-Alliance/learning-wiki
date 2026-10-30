@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 1917
+recheck_by: 1922
 sources:
   - id: c-e-ferree-and-gertrude-rand-1917
     resource: "https://doi.org/10.1037/h0072369"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1922**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` With proper control of distribution factors, intensities high enough for maximum discrimination of detail can be used without appreciable damage or discomfort to the eye. [→ C. E. Ferree and Gertrude Rand 1917](#c-e-ferree-and-gertrude-rand-1917)

@@ -51,11 +51,11 @@ Publication-bias analyses using multilevel Egger's regression and power-enhanced
 - [Publication bias is unlikely to explain the consistency of SRL intervention effect sizes](srl-meta-analysis-no-publication-bias.md) — related
 - [Evidence of publication bias exists, but the pooled video effects are robust to it](publication-bias-present-but-effects-robust.md) — related
 - [Longer exercise intervention duration is consistently associated with larger effect sizes on ADHD functional outcomes](longer-exercise-interventions-larger-adhd-effects.md) — related
-- [Egger's test suggests publication bias may be present, with the selection-model adjusted mean effect falling to 0.36](publication-bias-adjusted-effect-036.md) — related
-- [Publication-bias evidence differs by subset: significant funnel-plot asymmetry for course-embedded spacing studies but no strong evidence of bias for isolated-material studies.](publication-bias-spacing-subsets-mathematics.md) — related
+- Egger's test suggests publication bias may be present, with the selection-model adjusted mean effect falling to 0.36 — related
+- Publication-bias evidence differs by subset: significant funnel-plot asymmetry for course-embedded spacing studies but no strong evidence of bias for isolated-material studies. — related
 - [Anti-bullying intervention effects are weak, and RCT designs show even smaller effects than earlier meta-analyses suggested](anti-bullying-intervention-effects-weak.md) — related
-- [Funnel-plot asymmetry indicates small-study effects for some emotion–learning models](funnel-plot-asymmetry-emotion-learning-models.md) — related
-- [Publication bias evidence is mixed: marginal asymmetry for tutees but no missing studies, and no bias for tutors](cross-age-tutoring-publication-bias-mixed.md) — related
+- Funnel-plot asymmetry indicates small-study effects for some emotion–learning models — related
+- Publication bias evidence is mixed: marginal asymmetry for tutees but no missing studies, and no bias for tutors — related
 - [The ratio–interactive-skills association may be partly or entirely attributable to small-study publication bias](publication-bias-ratio-association.md) — related
-- [Funnel-plot asymmetry suggests possible selection or publication bias, but p-curve analyses indicate evidential value for the pooled relationships](publication-bias-asymmetry-but-pcurve-evidential-value.md) — related
-- [Smaller sample sizes are associated with larger VSWM–mathematics effect sizes](smaller-samples-larger-effect-sizes.md) — reports the opposite
+- Funnel-plot asymmetry suggests possible selection or publication bias, but p-curve analyses indicate evidential value for the pooled relationships — related
+- Smaller sample sizes are associated with larger VSWM–mathematics effect sizes — reports the opposite

@@ -57,4 +57,4 @@ The report identifies a policy-research tension: CPS retained test-score benchma
 - [Among Chicago graduates who enter four-year colleges, high school GPA is the strongest predictor of graduating within six years](gpa-strongest-predictor-chicago-four-year-graduation.md) — related
 - [Across the college-going population, course grades are consistently the strongest indicators of students' general academic preparation](grades-strongest-indicator-academic-preparation.md) — related
 - [GPAΔ predicts achievement slopes as well as the traditional ability-based discrepancy index (cogΔ), and the two indices jointly predict 26% of slope variance](gpad-equals-cogdelta-prediction-and-joint-26-percent.md) — related
-- [Common weaknesses in OER efficacy studies include reliance on non-standard learning measures and challenges with randomization.](oer-efficacy-study-weaknesses.md) — related
+- Common weaknesses in OER efficacy studies include reliance on non-standard learning measures and challenges with randomization. — related

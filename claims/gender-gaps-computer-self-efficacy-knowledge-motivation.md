@@ -9,6 +9,7 @@ generated:
   at: 2026-10-30
 evidence_strength: moderate
 newest_evidence: 2008
+recheck_by: 2013
 sources:
   - id: koch-2008
     resource: "https://doi.org/10.1016/j.compedu.2008.05.007"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2013**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Men scored significantly higher than women on computer self-efficacy, domain identification, practical computer knowledge, and intrinsic motivation. [→ Koch 2008](#koch-2008)

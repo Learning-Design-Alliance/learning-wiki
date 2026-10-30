@@ -46,7 +46,7 @@ NTFD decomposition of the shared environment in the TwinLife sample, contrasting
 
 
 ## Related Claims
-- [Adjusting published twin-study ACE estimates for assortative mating raises mean heritability by about 17 points and lowers shared environmental estimates by about 16 points](assortative-mating-adjustment-branigan-subsample.md) — related
+- Adjusting published twin-study ACE estimates for assortative mating raises mean heritability by about 17 points and lowers shared environmental estimates by about 16 points — related
 - [A Classical Twin Design model of educational attainment in the TwinLife sample estimates shared environmental influence at 43% and additive genetic influence at 34%](ctd-ea-ace-twinlife-43-c.md) — related
 - [Dizygotic twin correlations for educational attainment are consistently higher than non-twin sibling correlations across countries, suggesting twin-specific shared environments are a general phenomenon](dz-twin-correlations-exceed-sibling-correlations.md) — related
 - [The best-fitting NTFD model estimates heritability of educational attainment at 51% and total shared environmental influence at 26%, disaggregated into twin-specific (16%) and sibling-shared (10%) components](ntfd-best-fit-aste-51-26.md) — related

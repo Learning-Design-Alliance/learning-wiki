@@ -24,7 +24,8 @@ The article proposes screening candidate neuro-psychological measures against fo
 ### Claims
 
 ## Related Research Methods
--
+
+- [Portable classroom EEG for continuous attention measurement](portable-classroom-eeg-for-continuous-attention-measurement.md)
 
 ## Key Sources
 - Kennett, R., Martin, A. J., Pearson, J., Burns, E. C., & Collie, R. (2025). Challenge and Threat Appraisal of Tests in High School: Integrating Educational Psychology and Biopsychology Improves Understanding of How Students Take Tests. Journal of Educational Psychology. https://doi.org/10.1037/edu0000964.supp

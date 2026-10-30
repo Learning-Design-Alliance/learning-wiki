@@ -17,7 +17,7 @@ sources:
 # Researchers should refrain from interpreting Classical Twin Design shared-environment estimates for educational attainment as between-family differences in educational opportunity
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (5 for, 1 against) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 against) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article recommends that quantitative claims about inequality of educational opportunity between families should not rest on CTD C estimates, because unmodelled assortative mating inflates C and twin-specific shared environments make siblings in one family differ. As the authors put it: "These results suggest that researchers should refrain from drawing strong conclusions about the differences in educational opportunity between families based on CTD estimates for EA." They recommend designs incorporating siblings, parents, and spousal data instead.
@@ -43,7 +43,6 @@ The article recommends that quantitative claims about inequality of educational 
 ## Claims
 
 - [Twin-specific shared environments account for a substantial portion of CTD shared-environment estimates for educational attainment and cannot be interpreted as between-family environmental differences](../claims/twin-specific-environments-not-between-family.md) [+W]
-- [Adjusting published twin-study ACE estimates for assortative mating raises mean heritability by about 17 points and lowers shared environmental estimates by about 16 points](../claims/assortative-mating-adjustment-branigan-subsample.md) [+W]
 - [Dizygotic twin correlations for educational attainment are consistently higher than non-twin sibling correlations across countries, suggesting twin-specific shared environments are a general phenomenon](../claims/dz-twin-correlations-exceed-sibling-correlations.md) [+W]
 - [The best-fitting NTFD model estimates heritability of educational attainment at 51% and total shared environmental influence at 26%, disaggregated into twin-specific (16%) and sibling-shared (10%) components](../claims/ntfd-best-fit-aste-51-26.md) [+W]
 - [Under phenotypic assortment NTFD models, parental education shows no environmental effect on offspring educational attainment once genetic influences are accounted for](../claims/parental-education-no-environmental-effect-pa-models.md) [+W]

@@ -45,8 +45,10 @@ Tabulated mark records for one semester (1907-8) comparing delinquent-hour perce
 
 
 ## Related Claims
+
 - [Non-fraternity men showed a higher percentage of delinquent hours of work than non-fraternity women](delinquent-hours-men-versus-women.md) — related
 - [Non-fraternity male freshmen were more likely than non-fraternity female freshmen to reach the laggard list](male-freshmen-more-laggards-than-female.md) — related
 - [High school principals most frequently cited social distractions and fraternity life among environmental causes of their graduates' college failure](principals-cite-social-fraternity-distractions.md) — related
 - [Moral factors were judged roughly four times as often as intellectual incapacity as the cause of laggards' failure](moral-over-intellectual-causes-of-failure.md) — related
 - [Failure of probation students is often attributed to factors other than intellectual ability](probation-failure-factors-beyond-intellectual-ability.md) — related
+- [In Pyle's experiments women made better records than men](women-better-records-pyle-memory-experiments.md)

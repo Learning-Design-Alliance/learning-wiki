@@ -47,5 +47,5 @@ Jonckheere-Terpstra test for ordered medians comparing students who used EVS in 
 ## Related Claims
 - [EVS use showed no significant difference in student grades on a second-year Engineering mathematics module across two cohorts](evs-no-grade-difference-two-cohorts.md) — related
 - [Learning benefits and challenges of EVS differ significantly across subject groups, with HHS reporting higher learning benefits and SSAH reporting higher challenges](evs-subject-group-differences.md) — related
-- [Students' perceptions of electronic voting systems cluster into four distinct dimensions: learning benefits, student-centered and technology-related challenges, ease of use, and classroom-related benefits](evs-four-dimensions-student-views.md) — related
+- Students' perceptions of electronic voting systems cluster into four distinct dimensions: learning benefits, student-centered and technology-related challenges, ease of use, and classroom-related benefits — related
 - [Students who used EVS only for summative assessment reported lower learning benefits and higher challenges than students who used it formatively or in combination](evs-summative-use-negative-impact.md) — related

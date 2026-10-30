@@ -17,7 +17,7 @@ sources:
 # Use AICO_edu in teacher training to identify professional learning needs
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 against) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends that school leaders and educators use the instrument in teacher training contexts. "School leaders and educators should use it in teacher training to collect data about the perceived AI competence of in-service and pre-service teachers." Assessment results can inform organizational decisions about further teacher training possibilities and shape educational programs at universities and policy levels.
@@ -39,9 +39,7 @@ The article recommends that school leaders and educators use the instrument in t
 ## Claims
 
 - [AI competence dimensions are unequally developed among vocational school teachers](../claims/ai-competence-dimensions-unequally-developed.md) [+W]
-- [CFA partially supports the six-dimension structure of perceived AI competence](../claims/cfa-partially-supports-six-dimension-structure.md) [~W]
 - [PF and AT scales carry a bidirectional interpretation problem for AI competence](../claims/pf-at-bidirectional-interpretation-problem.md) [-W]
-- [Perceived AI competence is best modeled as a latent factor over four dimensions after removing PF and AT](../claims/single-factor-model-without-pf-and-at.md) [+W]
 
 ## Related Strategies
 

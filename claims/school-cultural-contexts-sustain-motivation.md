@@ -48,6 +48,6 @@ Author's enumeration in the abstract; element (c) names school or cultural conte
 - [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
 
 ## Related Claims
-- [The commentary identifies challenges of integrating central motivational constructs](challenges-integrating-central-motivational-constructs.md) — related
+- The commentary identifies challenges of integrating central motivational constructs — related
 - [Interpersonal relationships are framed as supports for motivation at school](interpersonal-relationships-support-school-motivation.md) — related
 - [School jazz bands exemplify the IDC loops of interest, creativity, and habit in a participatory group context](jazz-band-exemplifies-idc-loops.md) — a narrower finding that bears on this claim

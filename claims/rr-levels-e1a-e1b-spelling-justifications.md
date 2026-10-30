@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 2006
+recheck_by: 2009
 sources:
   - id: critten-2006
     resource: "https://doi.org/10.1037/0022-0663.99.1.207"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2009**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Every participant could be allocated to a representational level (Implicit, E1A, E1B, E2, E3), with most at E1A or E1B and none predominantly Implicit. [→ Critten 2006](#critten-2006)

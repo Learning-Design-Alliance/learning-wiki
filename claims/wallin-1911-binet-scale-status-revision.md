@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 1911
+recheck_by: 1914
 sources:
   - id: j-k-w-wallin-1911
     resource: "https://psycnet.apa.org/journal/edu"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`–`q2`
-> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1914**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Goddard's testing of 1347 New Jersey public-school children with the Binet scale showed 554 children passed tests corresponding to their chronological age, 599 passed tests lower than their age, and 394 passed higher tests, indicating the norms may not hold for the typical American child. [→ J. K. W. Wallin 1911](#j-k-w-wallin-1911)

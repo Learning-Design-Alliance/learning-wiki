@@ -17,7 +17,7 @@ sources:
 # Use a pillar integration process to merge equivalent qualitative and quantitative constructs and draw out meta-inferences
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article describes the pillar integration process (PIP), following Johnson et al. (2019), as a data integration procedure for bringing together qualitative and quantitative components. It involves four sequential stages: listing raw data and categories for one strand, matching the other strand across rows so items "reflect patterns, parallels, similarities, or any other relational quality with the quantitative items", checking the accuracy and completeness of the match, and pillar building in a central column to conceptualize new understandings from merging the two types of data.
@@ -38,7 +38,6 @@ The article describes the pillar integration process (PIP), following Johnson et
 
 ## Claims
 
-- [Mixed methods studies that demonstrate explicit integration are scarce in EdTech research, and few apply recommended integration strategies such as visual joint displays](../claims/explicit-integration-scarce-in-edtech-mixed-methods-research.md) [+W]
 
 ## Related Strategies
 

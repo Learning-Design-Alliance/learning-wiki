@@ -64,7 +64,7 @@ Same synthesis finding, highlighting the mismatch case: instructional support sh
 
 
 ## Related Claims
-- [The review's evidence base comprises 90 studies reporting 870 associations of interaction quality with child developmental and educational outcomes, covering 108,693 children](ecec-quality-review-90-studies-870-associations.md) — related
+- The review's evidence base comprises 90 studies reporting 870 associations of interaction quality with child developmental and educational outcomes, covering 108,693 children — related
 - [Guided play outperforms direct instruction or free play on a few early-childhood outcomes, with no reliable difference on most others, in one meta-analysis](play-based-learning-improves-outcomes.md) — related
 - [Maternal contingency during infant play is consistent across toys at 12 months but shows no consistency over time](contingency-consistent-across-toys-not-over-time.md) — related
 - [Quality measures vary widely in foci, observation approach and index derivation, obscuring which specific characteristics drive stronger child outcomes](quality-measures-vary-in-foci-observation-and-index-derivation.md) — related

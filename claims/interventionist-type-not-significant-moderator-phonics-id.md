@@ -50,5 +50,5 @@ Null moderator result from the random-effects meta-analysis of phonics instructi
 
 ## Related Claims
 - [Phonics instruction has a large overall effect on the decoding skills of students with intellectual disability (g = 1.42)](phonics-large-effect-decoding-intellectual-disability.md) — related
-- [Single-case studies yielded a larger average effect size (g = 1.94) than group studies (g = 0.41) in this meta-analysis](single-case-larger-effects-than-group-studies-phonics-id.md) — related
+- Single-case studies yielded a larger average effect size (g = 1.94) than group studies (g = 0.41) in this meta-analysis — related
 - [Researcher-designed decoding tests yielded larger effect sizes than standardized tests in studies of phonics instruction for students with intellectual disability](researcher-designed-tests-larger-effects-than-standardized.md) — related

@@ -12,7 +12,7 @@ generated:
 # 14-theme taxonomy of children's digital engagement conceptualisations
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Through inductive thematic analysis of definitions and measures of engagement across the 88 included studies, the review developed a taxonomy of engagement themes: effort, interpersonal skills or behavior, attention, enjoyment, participation, skills, interest, usability, motivation, valuing, and miscellaneous themes (belonging, responsibility, tension). The review states "This resulted in the identification of 14 themes (see Table 4; Clarke & Braun, 2017)", each with related terms and example definitions and measures. The taxonomy shows engagement's multidimensional nature in children's digital learning contexts.
@@ -22,7 +22,6 @@ Through inductive thematic analysis of definitions and measures of engagement ac
 - **A 14-theme taxonomy of children's digital engagement conceptualisations**: Through inductive thematic analysis of definitions and measures of engagement across the 88 included studies, the review developed a taxonomy of engagement themes: effort, interpersonal skills or behavior, attention, enjoyment, participation, skills, interest, usability, motivation, valuing, and miscellaneous themes (belonging, responsibility, tension). The review states "This resulted in the identification of 14 themes (see Table 4; Clarke & Braun, 2017)", each with related terms and example definitions and measures. The taxonomy shows engagement's multidimensional nature in children's digital learning contexts. (J. Harverson et al. (2026))
 
 ### Claims
-- [In definitions of children's digital engagement, the most prominent themes were participation (44.4%), effort (38.9%) and interpersonal skills and behaviour (33.3%)](../claims/definition-themes-participation-effort-interpersonal.md) [+M]
 - [In measures of children's digital engagement, the predominant themes were enjoyment (45.2%), participation (35.5%) and interest (25.8%)](../claims/measure-themes-enjoyment-participation-interest.md) [+M]
 
 ## Related Research Methods

@@ -17,7 +17,7 @@ sources:
 # Preregister the assumed data-generating model and use design actions to minimize bias in estimated instruction effects
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (7 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 7 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that researchers, before analyzing two-occasion nonrandomized data, debate for each examined variable constellation what the data-generating scenario probably looked like and which assumptions likely hold. The authors state: "We advocate a thorough preregistration of the assumed data-generating model, which will not only increase a deep reflection of the theory and help decide on an adequate modeling approach, it also has the potential of enhancing transparency and reproducibility." Where both approaches are biased, the data-generating model allows approximating the size and direction of the bias to guide interpretation.
@@ -41,13 +41,7 @@ The article recommends that researchers, before analyzing two-occasion nonrandom
 
 ## Claims
 
-- [In a DESI reanalysis, the ANCOVA approach yielded a non-significant effect of teacher supportiveness on listening comprehension while the CHANGE approach yielded a larger, significant effect](../claims/desi-ancova-vs-change-divergent-teacher-support-effects.md) [+W]
 - [For the DESI example, both approaches would show negative bias under the assumed data-generating model, so the observed positive coefficients make a positive true effect of teacher support likely, though its exact size remains inestimable](../claims/desi-revisited-positive-true-effect-likely-bias-negative.md) [+W]
-- [The ANCOVA and CHANGE models can be transformed into one another, so empirical model fit is no criterion for choosing between them](../claims/model-fit-no-criterion-ancova-change-selection.md) [+W]
-- [In random experiments, both the ANCOVA and the CHANGE approach estimate the instruction effect without bias](../claims/random-experiments-both-approaches-unbiased.md) [+W]
-- [In nonrandom studies where state-specific variables influence instruction, neither the ANCOVA nor the CHANGE approach reports the correct instruction effect](../claims/state-influencing-instruction-both-approaches-biased.md) [+W]
-- [In nonrandom studies where both trait and state variables influence instruction, neither approach reports an unbiased instruction effect](../claims/trait-and-state-influencing-instruction-both-biased.md) [+W]
-- [In nonrandom studies where trait variables influence instruction, the CHANGE approach is unbiased when change is unrelated to stable skill differences, the ANCOVA overestimates, and neither is unbiased when change depends on the trait](../claims/trait-influencing-instruction-approach-bias-scenarios.md) [+W]
 
 ## Related Strategies
 - 

@@ -52,4 +52,4 @@ Telephone survey of 75 Illinois districts (random sample of 60 plus the 20 large
 - [Districts report using test scores more to evaluate school improvement and district programs than to evaluate students, and rarely to evaluate principals or teachers](districts-rate-school-improvement-use-highest.md)
 - [Districts' most frequent suggestions for improving ISAT are stability and consistency and faster turnaround, each urged by about one-quarter of districts](isat-improvement-stability-turnaround.md)
 - [Districts rate ISAT alignment to state learning standards highest among five rated areas, but fewer than half use the top two categories, and month administered and speed of reporting rate lowest](isat-ratings-alignment-highest-timing-lowest.md)
-- [Perception and level assessment dominates research purposes in digital competence studies of higher education](slr-digital-competence-research-purposes-61-percent-perception.md) — related
+- Perception and level assessment dominates research purposes in digital competence studies of higher education — related

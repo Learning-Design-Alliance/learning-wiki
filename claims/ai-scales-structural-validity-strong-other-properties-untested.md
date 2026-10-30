@@ -10,6 +10,7 @@ generated:
 evidence_strength: moderate
 newest_evidence: 2024
 source_checked: 2026-10-26
+recheck_by: 2027
 sources:
   - id: tomáš-lintner-2024
     resource: "https://doi.org/10.1038/s41539-024-00264-4"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2024 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Across the 16 scales, structural validity and internal consistency evidence is good, while content validity, reliability, construct validity, and responsiveness were tested in only a few scales, and cross-cultural validity and measurement error in none. [→ Tomáš Lintner 2024](#tomas-lintner-2024)

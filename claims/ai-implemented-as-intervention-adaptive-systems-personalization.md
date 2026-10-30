@@ -57,8 +57,8 @@ Classification of the 84 studies using the Bond et al. (2024) typology found "AI
 - AIHEd reviews focus mostly on General AIEd (47.0%) and Profiling and Prediction (28.8%), while key findings predominantly concern adaptive systems and personalisation (54.5%) — related
 - [AI chatbots enable flexible personalized learning by adapting teaching strategies to individual student needs](chatbot-flexible-personalized-learning.md) — related
 - [Perceived AI-adaptive learning environments are negatively associated with college students' self-regulated learning in a three-wave longitudinal survey](ai-adaptive-environment-negative-srl-longitudinal.md) — related
-- [LA is used in higher-education feedback studies for a range of objectives beyond improving feedback itself, with reflection the most common (43% of studies)](la-feedback-objectives-reflection-most-common.md) — related
+- LA is used in higher-education feedback studies for a range of objectives beyond improving feedback itself, with reflection the most common (43% of studies) — related
 - [Chatbots were the most frequently used AI application type for supporting SRL, followed by evaluation systems](chatbots-most-common-ai-srl-application.md) — related
 - [Mobile devices enable just-in-time adaptive interventions that flexibly adapt support to students' changing internal and contextual states](jitai-just-in-time-mobile-support.md) — related
 - [AI in psychomotor ITS is used predominantly for feedback construction rather than for task recommendation or adaptation](its-ai-feedback-over-recommendation.md) — related
-- [Machine learning is the most frequently studied AI type in AIED systematic reviews, followed by intelligent tutoring systems, learning analytics, and data mining](machine-learning-most-studied-ai-in-aied-reviews.md) — related
+- Machine learning is the most frequently studied AI type in AIED systematic reviews, followed by intelligent tutoring systems, learning analytics, and data mining — related

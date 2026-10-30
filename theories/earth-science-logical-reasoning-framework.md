@@ -39,10 +39,14 @@ The article adopts a three-part framework of Earth Science methodology as an ana
 - Forestructures Dominate Hermeneutic Tasks [+M]
 
 ## Related Theories
-- 
+
+- [Historical Reasoning Framework](historical-reasoning-framework.md)
+- [Vygotsky's genetic method: studying higher psychological functions across four time scales](vygotsky-genetic-method-four-time-scales.md)
+- [Contextualism as the world view and general method for studying arting](contextualism-world-view-arting-method.md)
 
 ## Examples
--
+
+- [Design Earth Science curriculum inquiry tasks that promote abductive reasoning and incorporate missing authentic inquiry features](../strategies/earth-science-tasks-promote-abductive-reasoning.md)
 
 ## Key Sources
 - Do-Yong Park and Mira Park. (2013). Examining the Features of Earth Science Logical Reasoning and Authentic Scientific Inquiry Demonstrated in a High School Earth Science Curriculum: A Case Study. Journal of Geoscience Education.

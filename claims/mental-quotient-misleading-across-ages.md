@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1912
+recheck_by: 1915
 sources:
   - id: e-a-doll-1912
     resource: "https://www.jstor.org"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
-> **Currency** · newest study 1912 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1912 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1915**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Stern's proposed mental quotient (mental age divided by chronological age) may be quite misleading because different grades of defect can yield the same quotient and the quotient changes with age without any change in mental capacity. [→ E. A. Doll 1912](#e-a-doll-1912)
@@ -48,5 +49,5 @@ A theoretical argument against Stern's (1912) mental quotient: the author shows 
 ## Related Claims
 - [IQs obtained by dividing mental by chronological age remain fairly constant up to the age of 14, which supports treating yearly increments of intelligence as equal absolute units up to about age 14.](iq-constant-to-age-14.md) — reports the opposite
 - [Cross-sectional measurements of children of the same age may yield spurious growth facts because of great individual differences](cross-sectional-growth-facts-may-be-spurious-individual-differences.md) — related
-- [The reviewer judges Goddard's book an optimistic, clear popular account that exaggerates intelligence's influence and omits technical questions such as IQ validity](reviewer-critique-goddard-optimism.md) — related
+- The reviewer judges Goddard's book an optimistic, clear popular account that exaggerates intelligence's influence and omits technical questions such as IQ validity — related
 - [In Goddard's Vineland examination of 1547 pupils, only about half of mentally over-age and under-age pupils show corresponding advancement or retardation in school grading](goddard-binet-mental-age-vs-pedagogical-age.md) — related

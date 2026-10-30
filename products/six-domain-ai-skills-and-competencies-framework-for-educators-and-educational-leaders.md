@@ -13,7 +13,7 @@ generated:
 # Six-domain AI skills and competencies framework for educators and educational leaders
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 associational), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A Digital Promise framework organizing AI literacy and readiness competencies for PK–12 educators and educational leaders across technical, analytical, interpersonal, ethical, adaptive, and implementation domains.
@@ -25,7 +25,6 @@ A Digital Promise framework organizing AI literacy and readiness competencies fo
 
 ### Claims
 - [Educator AI training and readiness remain limited, with only about half of teachers trained on AI and resistance increasing at higher grade levels](../claims/limited-educator-ai-training-resistance-by-grade.md) [+M]
-- [CFA partially supports the six-dimension structure of perceived AI competence](../claims/cfa-partially-supports-six-dimension-structure.md) [+M]
 
 ## Related Products and Programmes
 

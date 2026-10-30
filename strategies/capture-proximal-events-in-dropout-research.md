@@ -17,7 +17,7 @@ sources:
 # Study dropout with designs and analyses that capture proximal precipitating events alongside long-term risks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 2 studies (1 review, 1 associational), `q1`–`q2` · 0 of 2 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 2 studies (1 review, 1 associational), `q1`–`q2` · 0 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 The article recommends combining theoretical and methodological developments to study the interplay of early risks and proximal precipitants. It revives Singer and Willet's call for event history analysis to model "distal and proximal predictors of dropout," and argues prospective studies need more frequent assessments and broader coverage of between-wave events, while retrospective studies need credible comparison groups of similar students who do not drop out. Researchers should also examine configurations and accumulation of stressors rather than isolated events.
@@ -44,7 +44,6 @@ The article recommends combining theoretical and methodological developments to 
 
 ## Claims
 
-- [Major dropout theories acknowledge precipitating events only as side notes rather than central model components](../claims/dropout-theories-treat-precipitants-as-side-notes.md) [+W]
 - [A substantial share of dropouts show no clear signs of disengagement or major problems in the years before dropping out](../claims/forty-percent-dropouts-no-clear-disengagement.md) [+W]
 - [The association between proximal events and dropout is moderated by event severity and students' prior vulnerability](../claims/proximal-event-effects-moderated-by-prior-vulnerability.md) [+W]
 - [Proximal events emerging during high school are associated with dropout over and above pre-existing vulnerabilities](../claims/proximal-events-associated-with-dropout.md) [+W]

@@ -45,6 +45,6 @@ Narrative review of longitudinal and administrative-data studies (e.g., school s
 
 
 ## Related Claims
-- [Major dropout theories acknowledge precipitating events only as side notes rather than central model components](dropout-theories-treat-precipitants-as-side-notes.md) — related
+- Major dropout theories acknowledge precipitating events only as side notes rather than central model components — related
 - [The association between proximal events and dropout is moderated by event severity and students' prior vulnerability](proximal-event-effects-moderated-by-prior-vulnerability.md) — related
 - [Dropouts' own accounts point to recent precipitating events, with pivotal events present in almost 50% of cases in interview studies](retrospective-accounts-pivotal-events-half-of-cases.md) — related

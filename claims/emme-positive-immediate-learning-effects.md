@@ -45,7 +45,7 @@ Systematic review synthesis of 78 experiments coded by the authors; Table 5 repo
 
 
 ## Related Claims
-- [EMME study designs vary widely: most experiments added information, used dynamic scan-path visualizations, and over half did not report how eye movement data were processed](emme-design-heterogeneity.md) — related
+- EMME study designs vary widely: most experiments added information, used dynamic scan-path visualizations, and over half did not report how eye movement data were processed — related
 - [Gaze outcome measures showed the highest relative rates of positive EMME effects among the outcome categories reviewed](emme-gaze-outcomes-highest-positive-rates.md) — related
 - [Prior knowledge may moderate EMME effectiveness, but support for novices benefiting more is inconsistent across studies](emme-prior-knowledge-moderation-inconsistent.md) — related
 - [Rationales for using EMME differ systematically by task domain: sports studies emphasize quiet-eye strategy, medical studies strategy plus attention guidance, and STEM studies more often social mechanisms](emme-domain-rationale-patterns.md) — related

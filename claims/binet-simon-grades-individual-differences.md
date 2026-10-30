@@ -10,6 +10,7 @@ generated:
 evidence_strength: moderate
 newest_evidence: 1914
 source_checked: 2026-10-24
+recheck_by: 1917
 sources:
   - id: carl-c-brigham-1914
     resource: "https://doi.org/10.1037/h0071183"
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
-> **Currency** · newest study 1914 · checked against its sources 2026-10-24 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 1914 · checked against its sources 2026-10-24 (automated, 2 of 2 entries) · not reviewed by a person · **overdue for a recheck since 1917**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Average age differences (mental minus chronological age) fell steadily across the five teacher-judgment groups, from +.91 for very bright through +.03, −.47 and −.94 to −1.8 for very dull. [→ Carl C. Brigham 1914](#carl-c-brigham-1914)
@@ -68,8 +69,8 @@ Check on judgment reliability: 215 cases under twelve were judged by both teache
 - [The Binet-Simon scale measured intelligence development from ages seven to eleven with at least 96 per cent efficiency under the study's conditions](binet-simon-accurate-ages-7-11.md) — related
 - [Exceptional Binet-Simon test outcomes were rare (4 per cent) and mostly attributable to error in adult judgments rather than the scale](binet-simon-exceptional-cases-4-percent.md) — related
 - [The twelve-year tests of the Binet-Simon scale were unsatisfactory, with several individual tests too difficult for the children tested](binet-simon-twelve-year-tests-unsatisfactory.md) — related
-- [The personal equation of the experimenters never amounted to more than one-third of the average mean variation, too small to be considered significant](binet-simon-examiner-bias-negligible.md) — related
-- [The study's conclusions rest on only sixty-five individually tested unretarded cases, limiting generalization](conclusions-rest-on-sixty-five-individual-cases.md) — related
+- The personal equation of the experimenters never amounted to more than one-third of the average mean variation, too small to be considered significant — related
+- The study's conclusions rest on only sixty-five individually tested unretarded cases, limiting generalization — related
 - [Against Stanford Binet criteria for 300 grade 3–6 children, the mental index correlated .47, the educational index .52, crude score with mental age .80, mental with educational index .62, and Difference with I.Q. .21](binet-agreement-correlations.md) — related
 - [Mental differences between bright and dull pupils can be ascertained by means of simple group tests](group-tests-ascertain-bright-dull-differences.md) — related
 - [The author judges the tests reveal class members' ability to do school work almost as accurately as months of teacher observation, supporting use for borderline promotion cases](tests-match-teacher-judgment-school-work.md) — related

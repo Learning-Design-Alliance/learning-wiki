@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: joost-c-f-de-winter-2024
     resource: "https://doi.org/10.1007/s40593-023-00372-z"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` GPT-3.5 would pass each of the English exams, with an overall mean grade across the exams of 7.3; limited to first (non-)responses the mean score was 6.5. [→ Joost C. F. de Winter 2024](#joost-c-f-de-winter-2024)

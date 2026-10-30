@@ -66,5 +66,5 @@ Multilevel random-effects meta-analysis of experimental studies (k = 19, N = 107
 ## Related Claims
 - [Anger shows a small positive association with political learning in both cross-sectional and experimental designs](anger-positive-association-political-learning.md) — a narrower finding that bears on this claim
 - [Anxiety shows no significant overall association with political learning in either cross-sectional or experimental designs](anxiety-no-significant-association-political-learning.md) — related
-- [Funnel-plot asymmetry indicates small-study effects for some emotion–learning models](funnel-plot-asymmetry-emotion-learning-models.md) — related
+- Funnel-plot asymmetry indicates small-study effects for some emotion–learning models — related
 - [Positive-activating emotions show a small positive association with political learning in cross-sectional designs, but not in experimental designs](positive-activating-emotions-political-learning-cross-sectional.md) — related

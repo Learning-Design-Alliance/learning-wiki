@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: wayne-holmes-2024
     resource: "https://doi.org/10.1007/s40593-023-00352-3"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The AIED 2022 Durham panel provocation stated that around thirty multi-million-dollar-funded AIED corporations exist with a market expected to be worth $6 billion within two years, alongside criticisms of perpetuating poor pedagogic practices, datafication and classroom surveillance. [→ Wayne Holmes 2024](#wayne-holmes-2024)

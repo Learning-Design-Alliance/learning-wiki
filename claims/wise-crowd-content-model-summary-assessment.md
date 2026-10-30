@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2017
+recheck_by: 2020
 sources:
   - id: passonneau-2017
     resource: "https://doi.org/10.1007/s40593-017-0158-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` A manual wise-crowd method for analyzing summary content quality and coverage correlates well with a rubric rating community college students' summaries, and two automated NLP applications of it also correlate well with the rubric. [→ Passonneau 2017](#passonneau-2017)

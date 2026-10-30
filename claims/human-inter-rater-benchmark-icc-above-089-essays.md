@@ -54,5 +54,5 @@ Baseline inter-rater reliability assessment using ICC(3,1) among three expert gr
 - [Systems Thinking Practices is the hardest CT construct to code reliably for both human raters and the LLM, requiring more explicitly operationalized rubrics](stp-low-reliability-complex-construct.md) — related
 - [Inter-rater agreement among pre-service teachers is low regardless of grading approach or essay quality](low-inter-rater-agreement-preservice-grading.md) — reports the opposite
 - [Automated grading achieves excellent agreement with human grading (ICC = 0.893)](automated-grading-excellent-agreement-icc-0893.md) — related
-- [The review's corpus comprises 39 peer-reviewed articles selected via a PRISMA protocol with substantial screening agreement](ile-psychomotor-review-corpus-39-articles-prisma.md) — related
+- The review's corpus comprises 39 peer-reviewed articles selected via a PRISMA protocol with substantial screening agreement — related
 - [Expert graders show high agreement among themselves when scoring a written exam on first degree equations](expert-inter-rater-agreement-high-written-exam.md) — related

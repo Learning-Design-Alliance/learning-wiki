@@ -52,7 +52,7 @@ Multiple-group invariance tests in the longitudinal SEM compared constrained and
 - [The same cognitive processes account for variability in arithmetic skills in children at family-risk of dyslexia and typically developing controls](same-cognitive-processes-arithmetic-fr-td.md) — related
 - [Boys and girls do not differ in the type of mental models of the day and night cycle they hold](no-gender-difference-day-night-mental-models.md) — related
 - [The temporal asymmetry holds across gender and initial ability levels, with a cautious gender difference in the French lagged effect](temporal-asymmetry-gender-ability-invariance.md) — related
-- [The ANCOVA and CHANGE models can be transformed into one another, so empirical model fit is no criterion for choosing between them](model-fit-no-criterion-ancova-change-selection.md) — related
+- The ANCOVA and CHANGE models can be transformed into one another, so empirical model fit is no criterion for choosing between them — related
 - [No sex difference in the effect of drill on arithmetic improvement](no-sex-difference-drill-effect.md) — related
 - [Retention effects are developmentally invariant across students retained in Years 5, 6, 7, and 8, and mostly positive overall](retention-effects-developmentally-invariant.md) — related
 - [Gender affects levels of self-concept and mathematics achievement but not the pattern of causal predominance](gender-levels-not-causal-pattern.md) — related

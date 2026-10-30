@@ -53,7 +53,7 @@ Observation and informal interview with an English-speaking teacher during a mix
 - [Students segregated into language cliques whenever allowed to choose peer interactions, despite the 50-50 enrollment design](language-clique-segregation-peer-choice.md) — related
 - [Competing priorities for instructional time (environmental context) was the most salient barrier to teachers' implementation of a supplemental language curriculum](competing-time-priorities-dominant-barrier-language-curriculum.md) — related
 - [Districts prioritize the Science of Reading but implementation varies due to competing initiatives and inconsistent EL support](sor-priority-uneven-implementation-genai-context.md) — related
-- [English dominates as target language (56% of studies), and L2 teaching is the most studied language context (22 studies) versus 12 FL and 7 L1 studies](embodied-language-studies-language-focus-distribution.md) — related
+- English dominates as target language (56% of studies), and L2 teaching is the most studied language context (22 studies) versus 12 FL and 7 L1 studies — related
 - [Children's language use in writing tasks differs by instructional program, with English immersion students often writing in English when prompted to write in Spanish](writing-language-use-by-instructional-program.md) — related
 - [A bilingual robot speaking Spanish and English equally was essential for integrating Spanish and English speakers](bilingual-robot-integrates-language-diversity.md) — reports the opposite
 - [Roversa's Spanish language capabilities were perceived to increase engagement in dual language immersion classrooms](roversa-spanish-engagement-immersion.md) — related

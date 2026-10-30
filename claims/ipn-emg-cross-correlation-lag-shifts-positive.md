@@ -50,3 +50,4 @@ Cross-correlation analysis of averaged rectified EMG and averaged spike count ov
 - [IPn firing decreases in spontaneous and late time windows and increases during CS and CS-US windows as conditioning progresses](ipn-firing-window-dependent-changes-across-learning.md) — related
 - [Percentage of conditioned eyelid responses increases across conditioning sessions, from 7% (initial) to 25% (halfway) to 81% (final)](conditioned-response-percentage-increases-across-sessions.md)
 - [On CS-alone trials, the significant neuronal difference at the US time vanishes by the final session, while a genuine eyelid conditioned response emerges during stimulus omission](cs-alone-us-time-difference-vanishes-final-session.md)
+- [IPn neurons show long-lasting error responses early in learning that are significantly reduced by the halfway session, with predictive US responses emerging in the final session](ipn-long-lasting-error-responses-reduced-across-conditioning.md)

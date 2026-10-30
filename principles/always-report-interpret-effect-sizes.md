@@ -23,7 +23,7 @@ sources:
 # Always report and interpret effect sizes alongside p values for primary outcomes
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (18 for, 8 mixed) · 27 studies (10 quant-synthesis, 6 causal, 6 theoretical, 5 review), `q1`–`q4` · 7 of 27 report an effect size · 25 claims rest on one study
+> **Evidence** · 25 claims (17 for, 8 mixed) · 26 studies (10 quant-synthesis, 6 causal, 5 review, 5 theoretical), `q1`–`q4` · 7 of 26 report an effect size · 24 claims rest on one study
 
 ## Conditional relationship
 
@@ -136,7 +136,7 @@ None of these claims measures what a reader does differently with an effect size
 - Effect size indices are almost never reported in published educational research using ANOVA, MANOVA, or repeated-measures analyses [+W] — attached 2026-10-20 from Keselman et al. (1998), which proposed "Use robust test procedures, focused hypothesis tests, and routine effect size reporting when analyzing between-subjects designs".
 - Effect size indices and power analyses are rarely reported in educational research across all four design paradigms [+W] — attached 2026-10-21 from Keselman et al. (1998), which proposed "Adopt robust statistical test procedures and routinely report effect sizes when analyzing group differences".
 - [STEM field benchmarks differ markedly: science shows the largest quartiles and mathematics the smallest](../claims/stem-field-benchmark-heterogeneity.md) [+W] — attached 2026-10-21 from Mehmet Bicakci et al. (2026), which proposed "Interpret STEM education intervention effects against empirically derived, context-sensitive benchmark distributions rather than Cohen's universal thresholds".
-- [Effect size measures may be perceived by teachers as telling little about the changes of real students](../claims/effect-sizes-tell-little-about-real-students.md) [+W] — attached 2026-10-21 from Zitzmann et al. (2023), which proposed "Report responder rates in addition to effect sizes so stakeholders can understand the consequences of implementing a treatment".
+- Effect size measures may be perceived by teachers as telling little about the changes of real students [+W] — attached 2026-10-21 from Zitzmann et al. (2023), which proposed "Report responder rates in addition to effect sizes so stakeholders can understand the consequences of implementing a treatment".
 
 ## Objective and learner-valued goal
 

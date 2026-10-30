@@ -49,5 +49,5 @@ CFA of the 13-item self-report model in the full sample (N = 288) demonstrated "
 - [A confirmatory factor analysis supports a four-factor structure of collaborative group engagement (behavioural, social, cognitive, conceptual-to-consequential) for the QCGE self-assessment scale](qcge-sas-four-factor-structure-cfa-supported.md) — related
 - [An ACO-derived 12-item short form (GenAI-SRL-12) retains the full scale's factor structure, reliability, and construct equivalence](genai-srl-12-short-form-retains-psychometrics.md) — related
 - [The ACE-HE measurement model of affective, behavioral, and cognitive engagement fits online/blended survey data well](ace-he-engagement-three-dimension-model-good-fit.md) — related
-- [CFA partially supports the six-dimension structure of perceived AI competence](cfa-partially-supports-six-dimension-structure.md) — related
+- CFA partially supports the six-dimension structure of perceived AI competence — related
 - [Confirmatory factor analysis with 448 secondary students showed the 32-item SAICS measurement model has good fit and high validity and reliability](saics-cfa-good-model-fit-448-students.md) — related

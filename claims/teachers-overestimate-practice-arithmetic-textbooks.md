@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 1921
+recheck_by: 1926
 sources:
   - id: thorndike-1921
     resource: "https://psycnet.apa.org/journals/edu/12/4"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1926**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Experienced teachers vary enormously in their estimates of the practice given by an average arithmetic text-book, and most are in serious error by over-estimating the amount of practice. [→ Thorndike 1921](#thorndike-1921)

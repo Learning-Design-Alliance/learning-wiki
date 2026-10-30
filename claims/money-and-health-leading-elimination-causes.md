@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: weak
 newest_evidence: 1911
+recheck_by: 1916
 sources:
   - id: e-d-jennings-1911
     resource: "https://eric.ed.gov/?q=elimination+of+freshmen+from+the+university+of+texas"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
-> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1916**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Among 308 freshmen questionnaire replies, lack of money was by far the most prominent first-ranked cause of elimination, followed by ill-health, disappointment and tired of school. [→ E. D. Jennings 1911](#e-d-jennings-1911)

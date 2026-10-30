@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: noemi-mauro-2024
     resource: "https://doi.org/10.1007/s40593-023-00366-x"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` FieldTripOrganizer scored 79.47/100 on the SUS (A- grade) versus 34.44/100 for Klarna.Trips (D grade), with a statistically significant difference on all SUS statements. [→ Noemi Mauro 2024](#noemi-mauro-2024)

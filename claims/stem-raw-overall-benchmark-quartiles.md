@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: mehmet-bicakci-2026
     resource: "https://doi.org/10.1016/j.edurev.2026.100803"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Across 5,956 effect sizes from 95 meta-analyses, the raw absolute-Hedges'-g distribution has quartiles of 0.21, 0.48, and 0.86. [→ Mehmet Bicakci 2026](#mehmet-bicakci-2026)
@@ -45,7 +46,7 @@ Umbrella review of 95 STEM meta-analyses summarizing 5,956 effect sizes; the art
 
 
 ## Related Claims
-- [Benchmarks are sensitive to precision and publication bias, but subgroup ordering remains stable and one-per-primary-study quartiles are broadly similar to raw values](benchmark-robustness-subgroup-ordering-stable.md) — related
+- Benchmarks are sensitive to precision and publication bias, but subgroup ordering remains stable and one-per-primary-study quartiles are broadly similar to raw values — related
 - [Cognitive, metacognitive, and strategic learning supports show the largest intervention-category benchmarks, while assessment and contextual interventions show the smallest](intervention-category-benchmark-heterogeneity.md) — a narrower finding that bears on this claim
 - [Publication-bias adjustment via limit meta-analysis lowers the overall STEM benchmarks to 0.14, 0.32, and 0.59](stem-benchmarks-publication-bias-adjusted.md) — related
 - [STEM field benchmarks differ markedly: science shows the largest quartiles and mathematics the smallest](stem-field-benchmark-heterogeneity.md) — a narrower finding that bears on this claim

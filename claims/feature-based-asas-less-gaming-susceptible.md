@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: xiaoyu-bai-manfred-stede-2023
     resource: "https://doi.org/10.1007/s40593-022-00323-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Ding et al. (2020)'s adversarial experiments suggest classical feature-based systems might be less susceptible to certain types of gaming and cheating attempts by students than end-to-end neural models. [→ Xiaoyu Bai · Manfred Stede 2023](#xiaoyu-bai-manfred-stede-2023)

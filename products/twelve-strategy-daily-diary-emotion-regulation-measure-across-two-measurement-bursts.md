@@ -13,7 +13,7 @@ generated:
 # Twelve-strategy daily-diary emotion regulation measure across two measurement bursts
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A study-developed daily-diary assessment measuring German primary and secondary school teachers’ use of 12 emotion-regulation strategies across two six-month-spaced measurement bursts.
@@ -22,6 +22,9 @@ A study-developed daily-diary assessment measuring German primary and secondary 
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [Five distinct emotion regulation profiles emerge among teachers, three common to both measurement bursts and two unique to one burst](../claims/five-teacher-er-profiles-three-common-two-burst-unique.md) [+W]
+- [Teachers use a wide variety of emotion regulation strategies whose combined use has implications for their occupational well-being](../claims/teachers-wide-variety-er-strategies-wellbeing-implications.md) [+W]
 
 ## Related Products and Programmes
 -

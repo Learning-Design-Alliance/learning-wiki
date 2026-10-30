@@ -53,13 +53,13 @@ The review reports a simulation study by Lüdtke and Robitzsch in which data wer
 - [Reanalyses of simulated and PALMA data provide converging support for the extended reciprocal effects model, including an effect of academic self-concept on achievement](reanalyses-converging-support-extended-rem-asc-effect.md) — related
 - [The extended REM was robust to several alternative modeling specifications proposed by Sorjonen et al.](extended-rem-robust-alternative-specifications.md) — related
 - [The RI-CCLPM-C indicates a positive self-concept effect on achievement even when data are generated without any direct effects between self-concept and achievement](ri-cclpm-c-positive-effect-without-causal-datagenerating-process.md) — related
-- [Random-intercept and lag2 panel models rest on different assumptions and offer alternative perspectives on controlling covariates](ri-lag2-different-assumptions-covariates.md) — related
-- [The reciprocal effects are robust to alternative models attributing them to latent confounding or residual error (RI-LTVC, STARTS)](reciprocal-effects-robust-to-spuriousness-models.md) — related
-- [The choice of longitudinal statistical model can determine whether reciprocal motivation-achievement relations are found](statistical-model-choice-reciprocal-effects.md) — related
+- Random-intercept and lag2 panel models rest on different assumptions and offer alternative perspectives on controlling covariates — related
+- The reciprocal effects are robust to alternative models attributing them to latent confounding or residual error (RI-LTVC, STARTS) — related
+- The choice of longitudinal statistical model can determine whether reciprocal motivation-achievement relations are found — related
 - [The ESDM's unidirectional trait-ACH-to-trait-ASC path is not empirically identified, and the confounder-based RI-LTVC alternative shows poor fit with no support for a time-varying confounder](esdm-directional-path-not-identified-ri-ltvc-no-support.md) — a narrower finding that bears on this claim
 - [RI-CLPM random-intercept correlations between grades and emotions (median |r| = 0.46) were stronger than the undecomposed CLPM correlations (median |0.34|)](riclpm-vs-clpm-correlation-strength.md) — related
 - [The reciprocal relations model fits better than unidirectional alternatives, supporting reciprocal causation between emotions and achievement](reciprocal-model-superior-fit.md) — related
-- [Deviations from the convergence assumption produce unreliable cross-lagged findings in school motivation research](convergence-violations-unreliable-findings.md) — related
-- [Next-generation cross-lagged models relax the convergence assumption in school motivation panel data](next-generation-cross-lagged-models-relax-convergence.md) — related
+- Deviations from the convergence assumption produce unreliable cross-lagged findings in school motivation research — related
+- Next-generation cross-lagged models relax the convergence assumption in school motivation panel data — related
 - [When marks and tests are modeled as separate latent variables with cross-lagged effects between them, effects of self-concept on achievement completely disappear](separate-indicators-self-concept-effects-disappear.md) — related
-- [Reciprocal relations models fit better than unidirectional or baseline alternatives for both CLPM and RI-CLPM](reciprocal-model-better-fit-than-nested.md) — related
+- Reciprocal relations models fit better than unidirectional or baseline alternatives for both CLPM and RI-CLPM — related

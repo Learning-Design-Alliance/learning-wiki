@@ -46,5 +46,5 @@ Analysis of semester-long discourse data from a humanistic knowledge building co
 
 
 ## Related Claims
-- [Combining Epistemic Network Analysis with deep qualitative ethnographies improves understanding of complex socioemotional phenomena in learning communities](combining-ena-with-qualitative-ethnography.md) — related
+- Combining Epistemic Network Analysis with deep qualitative ethnographies improves understanding of complex socioemotional phenomena in learning communities — related
 - [Prior experience in a learning community interacts with participants' connectedness to the community in shaping socioemotional learning dynamics](prior-experience-interacts-with-community-connectedness.md) — related

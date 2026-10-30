@@ -10,6 +10,7 @@ generated:
 evidence_strength: weak
 newest_evidence: 2024
 source_checked: 2026-10-27
+recheck_by: 2027
 sources:
   - id: ulrike-padó-2024
     resource: "https://doi.org/10.1007/s40593-023-00383-w"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2024 · checked against its sources 2026-10-27 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-10-27 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In a small usability study, all six teacher testers completed the grading task successfully and rated ASYST well above average for GUI usability. [→ Ulrike Padó 2024](#ulrike-pado-2024)

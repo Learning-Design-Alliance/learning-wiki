@@ -70,14 +70,14 @@ The commentary characterizes Hilton's review as "collective evidence to support 
 - [In direct comparisons of OER and commercial textbooks, a strong majority of participants report OER are as good or better.](oer-direct-comparison-strong-majority-as-good-or-better.md) — a narrower finding that bears on this claim
 - [In studies comparing ratings from separate groups of OER users and CT users, results were mixed: two studies favored CT, two favored OER, and one showed similar ratings.](oer-separate-group-ratings-mixed.md) — a narrower finding that bears on this claim
 - [The majority of faculty and students who have used OER had a positive experience and would do so again.](oer-positive-perceptions-majority.md) — a narrower finding that bears on this claim
-- [The number of published OER efficacy and perceptions studies rose rapidly between 2015 and 2018, with more studies published in those 3 years than in the previous 15.](oer-research-rapid-rise-2015-2018.md) — related
+- The number of published OER efficacy and perceptions studies rose rapidly between 2015 and 2018, with more studies published in those 3 years than in the previous 15. — related
 - [Across 2002-2018, OER efficacy research consistently shows that OER does not harm student learning, with a small positive impact.](oer-does-not-harm-learning-aggregate.md) — related
 - [OER efficacy studies are frequently confounded by simultaneous changes in pedagogy or delivery method.](oer-adoption-confounded-with-pedagogy-change.md) — related
 - [Substituting OER for traditional textbooks does not appear to decrease student learning outcomes in higher education.](oer-no-decrease-student-learning.md) — a narrower finding that bears on this claim
 - [Students using OER save significant amounts of money compared to purchasing commercial textbooks.](oer-significant-cost-savings-students.md) — related
 - [Students and faculty are generally positive regarding OER across a variety of settings.](students-faculty-generally-positive-oer.md) — possibly the same claim (merge candidate)
 - [OER adoption is expected to save students money and close the achievement gap in the short term, but this benefit will likely disappear over the longer term](oer-cost-savings-short-term-only.md) — related
-- [OER outcome studies that lack a hypothesized explanatory mechanism are license comparison studies prone to finding no significant differences](oer-license-comparison-studies-undertheorized.md) — a narrower finding that bears on this claim
+- OER outcome studies that lack a hypothesized explanatory mechanism are license comparison studies prone to finding no significant differences — a narrower finding that bears on this claim
 - [Most U.S. higher education faculty believe OER are a good idea but few actually use them](faculty-believe-oer-but-few-use-them.md) — related
 - [Hilton's reviews find OER equally efficacious to and less expensive than commercial textbooks](oer-equally-efficacious-less-expensive.md) — a broader claim this one bears on
 - [Relative advantage of OER alone will not lead to rapid adoption, especially if framed as cost savings](relative-advantage-alone-insufficient-for-oer-adoption.md) — related

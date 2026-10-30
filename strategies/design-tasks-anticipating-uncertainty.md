@@ -17,7 +17,7 @@ sources:
 # Design problem-based, inquiry-based, and case-based learning tasks in which uncertainty is anticipated and supported
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (2 for, 3 mixed) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (2 for, 2 mixed) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article's design implication is that instructional designers should treat uncertainty as a meaningful condition of complex learning rather than designing it out. The abstract states the framework supports "informing the design and facilitation of problem-based, inquiry-based, and case-based learning tasks in which uncertainty is anticipated and supported as part of complex learning." Designers can use the framework's seven sources to locate where uncertainty will arise in a task and plan how learners will recognize, sustain, and productively resolve it.
@@ -47,7 +47,6 @@ The article's design implication is that instructional designers should treat un
 - [Uncertainty can be a productive condition for learning when engaged intentionally, per the reviewed scholarship](../claims/productive-uncertainty-supports-learning.md) [+W]
 - [Metacognitive strategies such as self-monitoring and reflective questioning have been shown to mitigate epistemic uncertainty](../claims/metacognitive-strategies-mitigate-epistemic-uncertainty.md) [+W]
 - [Epistemological beliefs relate to tolerance of uncertainty: evaluativist approaches pair better with uncertainty in problem-solving than absolutist ones](../claims/epistemological-beliefs-uncertainty-tolerance.md) [~W]
-- [In the reviewed literature, only 23.6% of coded references to uncertainty reflected a core definition, with the remainder conflating it with sources or manifestations](../claims/only-236-percent-uncertainty-codes-core-definition.md) [~W]
 - [Uncertainty is conceptually distinct from failure: it is an epistemic and metacognitive state, while failure is defined relative to an evaluative criterion](../claims/uncertainty-distinct-from-failure.md) [~W]
 
 ## Related Strategies

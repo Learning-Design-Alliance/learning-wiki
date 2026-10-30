@@ -29,7 +29,9 @@ The article argues that portable EEG provides an objective, real-time index of c
 - [Single-brain attention levels are also significantly higher during lectures than meditation, supporting the device's sensitivity](../claims/attention-level-higher-lecture-than-meditation.md) [+M]
 
 ## Related Research Methods
--
+
+- [EEG-based continuous online cognitive-load measurement](eeg-based-continuous-online-cognitive-load-measurement.md)
+- [Four-criterion selection of neuropsychological measures for portable classroom EEG](four-criterion-selection-of-neuropsychological-measures-for-portable-classroom-eeg.md)
 
 ## Key Sources
 - Jennie K. Grammer, Keye Xu and Agatha Lenartowicz. (2021). Effects of context on the neural correlates of attention in a college classroom. npj Science of Learning 6:15. https://doi.org/10.1038/s41539-021-00094-8

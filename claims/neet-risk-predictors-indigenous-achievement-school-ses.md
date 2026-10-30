@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: philip-parker-2021
     resource: "https://www.pwc.com.au/government/government-matters/youth-unemployment.html"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Indigenous participants were almost two times more likely to be NEET (OR = 1.80); high achievement, SES, and school-average SES were protective. [→ Philip Parker 2021](#philip-parker-2021)

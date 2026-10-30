@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2016
+recheck_by: 2021
 sources:
   - id: levitan-2016
     resource: "https://doi.org/10.1038/npjscilearn.2016.1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Aversion for weak CTA did not differ significantly among groups tested 1, 3, and 21 days after acquisition, indicating the enhancement occurred on the background of stable memory. [→ Levitan 2016](#levitan-2016)

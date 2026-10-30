@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: moderate
 newest_evidence: 2007
+recheck_by: 2010
 sources:
   - id: de-wever-2007
     resource: "https://doi.org/10.1016/j.learninstruc.2007.04.001"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
-> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2010**: tool and model accuracy changes quickly
 > **Design limits** · De Wever 2007: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims

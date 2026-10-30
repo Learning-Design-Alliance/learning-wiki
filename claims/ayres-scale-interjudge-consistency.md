@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 1912
+recheck_by: 1915
 sources:
   - id: king-1912
     resource: "https://doi.org/10.1037/h0071006"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 1912 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1912 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1915**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Eight judges grading the same 34 specimens independently deviated from their common average by less than the scale's 10-point spacing in all but one case, averaging 6.1. [→ King 1912](#king-1912)

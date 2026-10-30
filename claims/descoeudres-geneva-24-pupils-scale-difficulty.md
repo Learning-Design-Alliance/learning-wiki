@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1912
+recheck_by: 1915
 sources:
   - id: j-c-b-1912
     resource: "https://openlibrary.org/search?q=recent+literature+on+the+binet+tests"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1912 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1912 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1915**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Descoeudres found the scale too easy at the bottom and too hard at the top, bright pupils outperforming dull ones 57% to 43%, and boys slightly outperforming girls 53% to 47%. [→ J. C. B 1912](#j-c-b-1912)

@@ -48,4 +48,4 @@ Selection analysis (Table 3) of tracking choice by parental education in the twi
 - [The pandemic's adverse effects on track recommendation and seventh-grade enrollment were largest for socioeconomically disadvantaged students, enlarging existing inequalities](pandemic-tracking-effects-largest-disadvantaged.md) — related
 - [The chance of delayed tracking generally increases with the child's performance level, except among the highest performers](performance-predicts-delayed-tracking.md) — related
 - [Delaying definite tracking is associated with a larger genetic influence and a lower shared-environmental influence on secondary educational attainment among Dutch twins](delayed-tracking-larger-genetic-influence.md) — related
-- [In a genetically informed twin study, the effect of shared family environment was substantially reduced among twins whose tracking was delayed until a later age](delayed-tracking-reduced-family-environment-effect.md) — related
+- In a genetically informed twin study, the effect of shared family environment was substantially reduced among twins whose tracking was delayed until a later age — related

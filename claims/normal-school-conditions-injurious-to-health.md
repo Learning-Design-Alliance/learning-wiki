@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 1909
+recheck_by: 1914
 sources:
   - id: arthur-heche-1909
     resource: "https://www.jstor.org/journal/jeducreducpsyc"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1909 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1909 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1914**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Of 67 schools answering, 22 claimed no injurious conditions, while others reported poor ventilation, insufficient lighting, improper heating, overcrowding, and overpressure of work with too little outdoor exercise. [→ Arthur Heche 1909](#arthur-heche-1909)

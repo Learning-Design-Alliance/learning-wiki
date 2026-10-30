@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: keles-2025
     resource: "https://doi.org/10.1007/s10648-025-10077-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Across 13 studies and 67 effect sizes, screening and progress monitoring tools correlate moderately with concurrent and predictive academic achievement outcomes (r = .51, 95% CI [.35, .64], p = .001), with very high heterogeneity. [→ Keles 2025](#keles-2025)

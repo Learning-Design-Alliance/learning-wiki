@@ -45,7 +45,7 @@ Editorial summary of West et al.'s (2020) response, attributed as the editorial 
 
 
 ## Related Claims
-- [Chatterjee (2020) calls for more investigations into how CoSIL environment design supports student learning, including in-depth review of existing tools](chatterjee-cosil-design-investigations.md) — related
+- Chatterjee (2020) calls for more investigations into how CoSIL environment design supports student learning, including in-depth review of existing tools — related
 - [Six response essays propose ways to action practical learning in online spaces, building on the Zacharia et al. (2015) guidance review](six-responses-practical-learning-online.md) — related
 - [Guidance in computer-supported inquiry learning is unevenly distributed across the five inquiry phases](guidance-uneven-across-inquiry-phases.md) — a broader claim this one bears on
 - [Systematic review identifies five distinct general inquiry phases: Orientation, Conceptualization, Investigation, Conclusion, and Discussion](five-general-inquiry-phases-identified.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: marina-sánchez-torrón-2024
     resource: "https://doi.org/10.21203/rs.3.rs-4187415/v1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Across the five tests, the answer choice identified by GPT-4 as correct was indeed correct in 97% of cases (all questions in Tests 1 and 3; one spelling error in Test 2; one incorrect choice each in Tests 2, 4 and 5). [→ Marina Sánchez-Torrón 2024](#marina-sanchez-torron-2024)

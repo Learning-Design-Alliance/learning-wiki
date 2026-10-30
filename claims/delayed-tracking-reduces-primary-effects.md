@@ -48,4 +48,4 @@ Bivariate Cholesky ACE decomposition splitting attainment variance into componen
 - [Delaying tracking is associated with a larger genetic influence especially among low-performing students, supporting the compensation hypothesis (H2b)](delayed-tracking-genetic-gain-low-performers.md) — related
 - [Delaying definite tracking is associated with a larger genetic influence and a lower shared-environmental influence on secondary educational attainment among Dutch twins](delayed-tracking-larger-genetic-influence.md) — related
 - [A large share of the genetic influence on secondary-school attainment is due to genes that did not influence primary-school performance](genes-unique-to-attainment-beyond-cito.md) — related
-- [In a genetically informed twin study, the effect of shared family environment was substantially reduced among twins whose tracking was delayed until a later age](delayed-tracking-reduced-family-environment-effect.md) — related
+- In a genetically informed twin study, the effect of shared family environment was substantially reduced among twins whose tracking was delayed until a later age — related

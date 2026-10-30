@@ -28,7 +28,8 @@ A Wells (1915) psychological-laboratory apparatus that uses a mirrored star-trac
 - [The apparatus gives mirror-drawing errors a constant operational definition across students and days](../claims/operational-error-definition-mirror-drawing.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Woodworth-Wells substitution test](woodworth-wells-substitution-test.md)
 
 ## Key Sources
 - Wells, G. R. (1915). An apparatus for the mirror-drawing test; Percentile norms for scaling data. Journal of Educational Psychology. https://www.google.com/search?q=%22An+Apparatus+for+the+Mirror-Drawing+Test%22

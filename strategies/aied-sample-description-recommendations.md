@@ -17,7 +17,7 @@ sources:
 # Improve socio-cultural self-regulation of AIED research: systematic sample descriptions and community awareness
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Drawing on the expert panel's recommendations, this strategy holds that achieving more culturally-aware AIED research starts with community awareness of the imbalances, followed by researchers self-regulating their efforts by including socio-cultural considerations in research design and analyses. Concretely, "authors should more systematically describe appropriate contextual factors such as nationality, socioeconomic status, ethnicity, gender, etc.", reviewers should highlight ill-presented samples, and conclusions should highlight the considered population.
@@ -39,9 +39,7 @@ Drawing on the expert panel's recommendations, this strategy holds that achievin
 
 ## Claims
 
-- [AIED conference authorship is strongly WEIRD-imbalanced, with 90% of first authors from WEIRD institutions and no African first authors](../claims/aied-weird-authorship-imbalance.md) [+W]
 - [Samples used to investigate human features in AIED research are 94% WEIRD and 62% US, with no African samples](../claims/aied-weird-sample-imbalance.md) [+W]
-- [Conference localization in non-WEIRD countries coincided with the highest rates of papers from Latin America and Asia](../claims/conference-localization-diversity-effect.md) [+W]
 - [Cultural variations exist in emotion and other psychological topics of interest to AIED, so psychology research influencing AIED is likely WEIRD-imbalanced](../claims/cultural-variation-emotion-aied-topics.md) [+W]
 - [Top-tier psychology journals show extreme WEIRD dominance: 97% of first authors and 95% of samples](../claims/psychology-weird-representation-imbalance.md) [+W]
 

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: pelánek-2025
     resource: "https://doi.org/10.1007/s40593-024-00400-6"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Rapid guessing concentrated in some knowledge components lowered time-intensity estimates, slowed mastery progress, and triggered more guessing; on some components guessing reached nearly half of attempts. [→ Pelánek 2025](#pelanek-2025)

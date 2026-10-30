@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: fabian-santiago-muñoz-2025
     resource: "https://doi.org/10.1007/s40593-025-00502-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Gaussian Mixture achieved optimal solutions in four of the six analysed scenarios; none of the evaluated algorithms yielded satisfactory results in the remaining two. [→ Fabian Santiago-Muñoz 2025](#fabian-santiago-munoz-2025)
@@ -45,5 +46,5 @@ Result of the model-selection pipeline across the six analyses (RQ1/RQ2/RQ3 for 
 
 
 ## Related Claims
-- [A three-stage filtering pipeline (internal, association, and cluster-quality metrics) reduced 20,724 tested clustering models to select the optimal model per analysis](three-stage-filtering-20724-clustering-models.md) — related
+- A three-stage filtering pipeline (internal, association, and cluster-quality metrics) reduced 20,724 tested clustering models to select the optimal model per analysis — related
 - [Bernoulli Mixture Model fits select around 10-12 clusters per question, with no runs finding high cluster counts optimal, indicating specialised skill sets do not generally exist](bmm-selects-ten-to-twelve-clusters.md) — related

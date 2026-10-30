@@ -10,6 +10,7 @@ generated:
 evidence_strength: weak
 newest_evidence: 2026
 source_checked: 2026-10-25
+recheck_by: 2029
 sources:
   - id: breitwieser-2026
     resource: "https://doi.org/10.1037/edu0001009"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-25 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-25 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The authors interpret their findings as only partially supporting the model: appraisals related to observable engagement, which related to satisfaction and task delay but not perceived effort, and self-report–behaviour associations were generally weak. [→ Breitwieser 2026](#breitwieser-2026)

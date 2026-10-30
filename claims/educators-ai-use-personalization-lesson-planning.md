@@ -92,7 +92,7 @@ Interview and listening-session data showed "some level of AI tool use" among ne
 - [Czech secondary students' generative AI tool use is dominated by ChatGPT, with Gemini and Copilot holding only a secondary presence](chatgpt-monoculture-secondary-stem-students.md) — related
 - [Interviewed teachers cite poor AI output quality and risks to students' cognitive engagement as main obstacles, and subject-specific use cases as their top professional-development need](teacher-interviews-obstacles-and-pd-needs.md) — related
 - [Ukrainian educators show high AI adoption (84%) but only 11% can identify specialized AI services beyond ChatGPT](educators-high-ai-adoption-low-specialized-awareness.md) — related
-- [ChatGPT was the most commonly used GenAI tool in reviewed programming education research](chatgpt-most-used-genai-tool-programming-education.md) — related
+- ChatGPT was the most commonly used GenAI tool in reviewed programming education research — related
 - [Teachers used three free AI tools (DeepSeek, Doubao, Meta) mainly for lesson planning, assessment, and teaching material development](three-free-ai-tools-for-planning-assessment-materials.md) — a narrower finding that bears on this claim
 - [Instructional designers mainly use ChatGPT for content creation (57.5%), writing assistance (30%), professional support, communication, and information searching](id-chatgpt-usage-content-creation-dominant.md) — related
 - [ChatGPT was the most familiar and most frequently utilized GenAI tool among surveyed instructional designers](chatgpt-most-familiar-utilized-genai-tool-ids.md) — related

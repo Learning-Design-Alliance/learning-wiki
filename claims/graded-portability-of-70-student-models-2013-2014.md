@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: valdés-aguirre-2016
     resource: "https://doi.org/10.1007/s40593-016-0113-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In the article's survey analysis, 34% of classified models have low restrictions, almost 19% medium restrictions, and 40% are hard or very hard to port, so 53% have low or mid restrictions. [→ Valdés Aguirre 2016](#valdes-aguirre-2016)
@@ -46,4 +47,4 @@ This is the article's analysis of its own graded survey of student models from A
 
 ## Related Claims
 - [Accessibility and complexity dimensions show the lowest portability restrictions among surveyed student models, while popularity and architecture show the highest.](accessibility-complexity-lowest-restrictions-architecture-popularity-highest.md) — related
-- [Educational data mining keywords redistribute across new clusters over time, showing evolving specialization in AIED](edm-keywords-redistribute-across-clusters.md) — related
+- Educational data mining keywords redistribute across new clusters over time, showing evolving specialization in AIED — related

@@ -13,7 +13,7 @@ generated:
 # Viacocrea prototype
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Viacocrea is a multi-user collaborative digital platform developed by Ijaz Ul Haq and colleagues to structure and support small-group cocreative problem-solving through phased creative techniques.
@@ -22,6 +22,10 @@ Viacocrea is a multi-user collaborative digital platform developed by Ijaz Ul Ha
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [Pre-trained sentence embedding models can evaluate the novelty of open-ended, generic, small datasets of ideas co-generated during classroom PBL cocreation without fine-tuning](../claims/sentence-embedding-novelty-evaluation-pbl-cocreation.md) [+W]
+- [USE-T shows the highest correlation with experts' agreed novelty scores, followed by USE-DAN, among sentence embedding models tested on classroom cocreative ideas](../claims/use-t-use-dan-highest-expert-correlation.md) [+W]
+- [The eight sentence embedding models produce discrepant similarity scores for the same pairs of cocreative ideas, motivating validation against expert novelty scores](../claims/embedding-models-discrepant-similarity-scores.md) [+W]
 
 ## Related Products and Programmes
 -

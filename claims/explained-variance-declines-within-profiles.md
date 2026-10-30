@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: dirk-tempelaar-alexandra-niculescu-2026
     resource: "https://doi.org/10.1007/s10648-026-10155-2"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Latent-profile CVT models show markedly lower explained variance than full-sample and demographic-group models, with the decline for anxiety reaching nearly two-thirds. [→ Dirk Tempelaar · Alexandra Niculescu 2026](#dirk-tempelaar-alexandra-niculescu-2026)
@@ -49,4 +50,4 @@ Comparison of standardized SEM results across full-sample, multigroup, and laten
 - [CVT's control–anxiety relation breaks down across latent emotional profiles, with unstandardized coefficients ranging from −0.292 to +0.024 including non-significant positive effects](control-anxiety-relation-fails-across-profiles.md) — related
 - [CVT structural relations are largely stable across gender and prior-education groupings, supporting relative universalism under variable-centered tests](cvt-invariant-across-demographic-groupings.md) — related
 - [Nonlinear CVT extensions show cubic control terms with negative coefficients for negative emotions in the full sample, but the coefficient's sign differs across latent profiles](nonlinear-cvt-diverges-across-profiles.md) — related
-- [Research questions framed in academic emotion constructs tend to yield markedly lower or insignificant p-values than basic emotion constructs in the same studies](academic-emotions-lower-p-values.md) — related
+- Research questions framed in academic emotion constructs tend to yield markedly lower or insignificant p-values than basic emotion constructs in the same studies — related

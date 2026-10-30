@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1910
+recheck_by: 1913
 sources:
   - id: starch-1910
     resource: "https://eric.ed.gov/?q=The+Measurement+of+Efficiency+in+Spelling"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1913**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` A pupil's spelling ability can be ascertained quite accurately by any two of the six lists, with a mean variation between scores of 2.2 points based on 519 pupils. [→ Starch 1910](#starch-1910)

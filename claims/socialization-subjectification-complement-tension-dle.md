@@ -45,4 +45,5 @@ The review's interpretive analysis of the gaining-access-to-data theme (subsecti
 
 
 ## Related Claims
+
 - [K-12 DLE research expresses purposes across all three of Biesta's domains, with socialization mainly instrumental and subjectification centered on data agency](dle-purposes-span-three-biesta-domains.md) — related

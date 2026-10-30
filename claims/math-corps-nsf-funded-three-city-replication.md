@@ -56,4 +56,4 @@ Descriptive background from the brief: an NSF Advancing Informal STEM Learning g
 - [Few Math Corps participants had encounters with the criminal justice system](math-corps-few-criminal-justice-encounters.md) — related
 - [Participation in the Math Corps summer program had a large and statistically significant impact on college enrollment](math-corps-large-significant-impact-college-enrollment.md) — related
 - [The NSF REU program was created in 1987 to strengthen the STEM workforce](reu-created-1987-stem-workforce.md) — related
-- [Three barriers impede replication, meta-analysis, and large-scale impact research: funding, researcher incentives, and instrument sharing](three-barriers-replication-impact-research.md) — related
+- Three barriers impede replication, meta-analysis, and large-scale impact research: funding, researcher incentives, and instrument sharing — related

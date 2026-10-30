@@ -47,4 +47,4 @@ The review's appraisal of 23 studies using NHMRC evidence levels found seven RCT
 ## Related Claims
 - [Some social-emotional and cognitive-behavioural initiatives showed no effect or a negative effect on educator wellbeing](some-initiatives-no-or-negative-effect.md) — related
 - [Mindfulness-based wellbeing initiatives have a positive effect on the wellbeing of primary and secondary educators](mindfulness-initiatives-improve-educator-wellbeing.md) — related
-- [Most SEND interventions that have been evaluated have only been evaluated once, in one school or context, so whether intervention trial findings replicate is generally unclear](send-interventions-evaluated-once-no-replication.md) — related
+- Most SEND interventions that have been evaluated have only been evaluated once, in one school or context, so whether intervention trial findings replicate is generally unclear — related

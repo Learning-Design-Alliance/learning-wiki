@@ -71,4 +71,4 @@ Post-hoc comparison of standardized gender differences at Time 3 quantified the 
 - [The gender gap in perceived utility value of social competences widens over time](gender-gap-utility-value-widens-over-time.md) — related
 - [Jigsaw classroom curbs the widening gender gap in perceived utility value of social competences, reducing the Time-3 gap by 50% versus business-as-usual and 25% versus resource independence](jigsaw-curbs-widening-gap-utility-value.md) — related
 - [The pattern of reciprocal effects does not differ across the ProFAN experimental conditions (jigsaw, cooperation, business-as-usual)](reciprocal-effects-invariant-across-profan-conditions.md) — related
-- [Robustness checks with fixed-effect and first-difference models reproduce the three-way interaction; continuous-time growth curve modelling does not](robustness-checks-three-way-interaction.md) — related
+- Robustness checks with fixed-effect and first-difference models reproduce the three-way interaction; continuous-time growth curve modelling does not — related

@@ -45,6 +45,7 @@ Bayesian proportion test comparing the financial education and analytical method
 
 
 ## Related Claims
+
 - [Students in all three treatment conditions selected the delayed payment more often than chance](all-arms-delayed-payment-above-chance.md) — related
 - [Only explicit financial education increased declarative financial knowledge in a five-week randomized trial](financial-education-only-arm-increased-financial-knowledge.md) — related
 - [Strategic thinking instruction outperformed explicit financial education in producing optimal intertemporal choices](strategic-thinking-outperformed-financial-education-intertemporal-choice.md) — related

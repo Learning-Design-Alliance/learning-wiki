@@ -47,4 +47,4 @@ Test of the hypothesized multilevel SEM (LISREL 8.8) with 10 latent variables; t
 ## Related Claims
 - [An autonomy-supportive teaching intervention decreased students' autonomy dissatisfaction and frustration and increased autonomy satisfaction, while control-group dissatisfaction rose over the semester](asip-changed-three-need-states.md) — related
 - [The autonomy-supportive intervention program increased students' classroom engagement and decreased their disengagement over the semester](asip-improved-engagement-disengagement.md) — related
-- [Students empirically distinguish autonomy dissatisfaction from autonomy satisfaction and autonomy frustration (3-factor ESEM solution)](esem-three-factor-distinct-need-states.md) — related
+- Students empirically distinguish autonomy dissatisfaction from autonomy satisfaction and autonomy frustration (3-factor ESEM solution) — related

@@ -49,4 +49,4 @@ RQ2 phase-distribution analysis of phase occurrences across the 24 articles (Fig
 - [ChatGPT-supported STEAM IBL research is split evenly between K-12 and higher education, but undergraduates dominate and no study examined elementary learners](chatgpt-steam-ibl-participant-gaps.md) — related
 - [Systematic review identifies five distinct general inquiry phases: Orientation, Conceptualization, Investigation, Conclusion, and Discussion](five-general-inquiry-phases-identified.md) — related
 - [Guidance in computer-supported inquiry learning is unevenly distributed across the five inquiry phases](guidance-uneven-across-inquiry-phases.md) — related
-- [LA studies of staged inquiry behaviours most frequently analyse investigation behaviours, followed by hypothesis generation, with orientation and conclusion stages comparatively neglected](investigation-behaviours-most-analysed-inquiry-stage.md) — related
+- LA studies of staged inquiry behaviours most frequently analyse investigation behaviours, followed by hypothesis generation, with orientation and conclusion stages comparatively neglected — related

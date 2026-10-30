@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: liangliang-chen-2025
     resource: "https://doi.org/10.1007/s40593-025-00501-w"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Performance of both GPT-4o and Llama 3 70B varies across topics, with sinusoidal steady-state analysis yielding the lowest average percentage of correct responses. [→ Liangliang Chen 2025](#liangliang-chen-2025)

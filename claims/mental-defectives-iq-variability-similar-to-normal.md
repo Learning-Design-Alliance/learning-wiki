@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1921
+recheck_by: 1926
 sources:
   - id: poull-1921
     resource: "https://doi.org/10.1037/h0071851"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1926**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The retest change distribution for mental defectives does not differ from the curve Terman worked out from unselected school children, suggesting mental defectives are not more variable than normal subjects. [→ Poull 1921](#poull-1921)

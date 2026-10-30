@@ -45,5 +45,5 @@ Editorial argument citing Suppes (1978), Makel and Plucker (2014), and Schmidt (
 
 
 ## Related Claims
-- [Three barriers impede replication, meta-analysis, and large-scale impact research: funding, researcher incentives, and instrument sharing](three-barriers-replication-impact-research.md) — related
+- Three barriers impede replication, meta-analysis, and large-scale impact research: funding, researcher incentives, and instrument sharing — related
 - [The editors report that knowledge brokering via collaborative entanglement is more successful than linear knowledge transfer for mobilising education research](collaborative-entanglement-outperforms-linear-transfer.md) — related

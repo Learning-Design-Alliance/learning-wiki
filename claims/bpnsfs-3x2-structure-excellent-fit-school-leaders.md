@@ -50,4 +50,4 @@ Measurement-model analysis of two-wave survey data from 1,950 Australian school 
 - [Classic two-facet MTMM analysis supports convergent and discriminant validity of the six BPNSFS facets across time](mtmm-two-facet-bpnsfs-validity.md) — related
 - [Three-facet MTMM (content × valence × time) supports the SDT 3×2 architecture, with content the stronger separative force and 20 of 21 planned comparisons supported](three-facet-mtmm-content-valence.md) — a broader claim this one bears on
 - [Autonomy shows a strong content signal: 53 of 64 outcomes satisfy the a priori autonomy rule, with exceptions for self-efficacy (competence) and collegial support (relatedness)](autonomy-content-signal-c2.md) — related
-- [Students empirically distinguish autonomy dissatisfaction from autonomy satisfaction and autonomy frustration (3-factor ESEM solution)](esem-three-factor-distinct-need-states.md) — related
+- Students empirically distinguish autonomy dissatisfaction from autonomy satisfaction and autonomy frustration (3-factor ESEM solution) — related

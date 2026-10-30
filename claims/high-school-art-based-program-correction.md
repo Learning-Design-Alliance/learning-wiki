@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: pablo-egana-delsol-2023
     resource: "https://doi.org/10.1038/s41539-023-00196-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: local conditions change quickly
 
 ## Subclaims
 `q1 i?` The corrected title and corrected sentence state that the art-based program studied operates at the high-school level rather than the middle-school level. [→ Pablo Egana-delSol 2023](#pablo-egana-delsol-2023)

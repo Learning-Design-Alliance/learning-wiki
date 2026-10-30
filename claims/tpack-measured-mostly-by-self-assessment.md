@@ -45,4 +45,4 @@ Thematic synthesis of the eight TPACK reviews; the survey instrument developed a
 
 
 ## Related Claims
-- [The 32 included studies were predominantly quantitative and cross-sectional, with questionnaire sample sizes ranging from 17 to 815 students](ahs-pst-study-design-profile.md) — related
+- The 32 included studies were predominantly quantitative and cross-sectional, with questionnaire sample sizes ranging from 17 to 815 students — related

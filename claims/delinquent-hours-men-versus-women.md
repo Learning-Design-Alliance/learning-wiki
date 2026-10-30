@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: weak
 newest_evidence: 1910
+recheck_by: 1915
 sources:
   - id: j-b-miner-1910
     resource: "https://www.google.com/search?q=%22The+College+Laggard%22+Miner+Journal+of+Educational+Psychology"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1915**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Delinquent hours percentages were 18.7 for non-fraternity men versus 14.6 for non-fraternity women in the 1907-8 freshman first semester. [→ J. B. Miner 1910](#j-b-miner-1910)
@@ -45,6 +46,8 @@ Check analysis of delinquent hours of work for non-fraternity groups in the fres
 
 
 ## Related Claims
+
 - [Fraternity men had a worse laggard record than non-fraternity men at Minnesota, while sorority women did better than non-sorority women](fraternity-life-worse-laggard-record.md) — related
 - [Non-fraternity male freshmen were more likely than non-fraternity female freshmen to reach the laggard list](male-freshmen-more-laggards-than-female.md) — related
 - [Students from wealthier backgrounds and private schools appeared disproportionately on the laggard list](wealth-handicap-laggard-list.md) — related
+- [In Pyle's experiments women made better records than men](women-better-records-pyle-memory-experiments.md)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: ruth-janning-2016
     resource: "https://doi.org/10.1007/s40593-016-0097-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Applied to per-task log-file features with leave-one-student-out cross-validation, SVM achieved 25.24% average classification test error, outperforming KNN (29.62%) and DCT (30.62%). [→ Ruth Janning 2016](#ruth-janning-2016)

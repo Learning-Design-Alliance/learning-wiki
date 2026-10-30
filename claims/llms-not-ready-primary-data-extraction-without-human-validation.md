@@ -50,7 +50,7 @@ Authors' conclusion from the main-study confusion-matrix analyses of 112 studies
 - [LLMs show moderate agreement with human coders when extracting explicitly stated data from education studies](llms-moderate-agreement-explicit-data-extraction-education.md) — related
 - [Hallucinations were rare for both human and LLM coders, whereas omission errors were more frequent and varied by coder](llm-hallucinations-rare-omissions-frequent.md) — reports the opposite
 - [State-of-the-art LLMs extract effect sizes, study counts, and participant counts from educational meta-analyses with excellent agreement with adjudicated gold and silver standards](llm-data-extraction-icc-gold-standard.md) — reports the opposite
-- [Neither LLM nor human coders showed systematic over- or under-estimation in extracting data from educational meta-analyses](no-systematic-bias-llm-extraction.md) — related
-- [Most extraction discrepancies stemmed from ambiguity within the source meta-analyses rather than coder fabrication](discrepancies-source-ambiguity.md) — related
-- [LLM-based extraction of three variables from 156 meta-analyses cost about $50 in computing fees, far less than estimated human-assistant labor costs](llm-extraction-cost-time-savings.md) — related
+- Neither LLM nor human coders showed systematic over- or under-estimation in extracting data from educational meta-analyses — related
+- Most extraction discrepancies stemmed from ambiguity within the source meta-analyses rather than coder fabrication — related
+- LLM-based extraction of three variables from 156 meta-analyses cost about $50 in computing fees, far less than estimated human-assistant labor costs — related
 - [In a pilot study, leading LLMs showed promising but imperfect agreement with human coders extracting data from K-12 virtual-character studies](pilot-study-llm-agreement-virtual-character-studies.md) — related

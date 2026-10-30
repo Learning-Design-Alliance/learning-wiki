@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: herbert-w-marsh-2023
     resource: "https://doi.org/10.1007/s10648-023-09765-x"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`–`q3` · `i1` small
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i1` Prior research found boys experienced much more physical victimization (ES = − .30) and slightly more verbal victimization (− .11), with no significant gender difference in relational victimization. [→ Herbert W. Marsh 2023](#herbert-w-marsh-2023)

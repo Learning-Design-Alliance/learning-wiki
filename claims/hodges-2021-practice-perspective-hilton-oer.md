@@ -46,12 +46,12 @@ The commentary's abstract states its purpose: offering "perspectives from a lens
 
 ## Related Claims
 - [Across 2002-2018, OER efficacy research consistently shows that OER does not harm student learning, with a small positive impact.](oer-does-not-harm-learning-aggregate.md) — related
-- [OER efficacy research methodology improved between 2015 and 2018, with more studies controlling for student and teacher variables.](oer-efficacy-methodology-improvement.md) — related
-- [Common weaknesses in OER efficacy studies include reliance on non-standard learning measures and challenges with randomization.](oer-efficacy-study-weaknesses.md) — related
-- [The number of published OER efficacy and perceptions studies rose rapidly between 2015 and 2018, with more studies published in those 3 years than in the previous 15.](oer-research-rapid-rise-2015-2018.md) — related
+- OER efficacy research methodology improved between 2015 and 2018, with more studies controlling for student and teacher variables. — related
+- Common weaknesses in OER efficacy studies include reliance on non-standard learning measures and challenges with randomization. — related
+- The number of published OER efficacy and perceptions studies rose rapidly between 2015 and 2018, with more studies published in those 3 years than in the previous 15. — related
 - [Students achieve the same or better learning outcomes when using OER compared to commercial textbooks, while saving significant amounts of money.](oer-same-or-better-learning-outcomes-2015-2018.md) — related
 - [The majority of faculty and students who have used OER had a positive experience and would do so again.](oer-positive-perceptions-majority.md) — related
-- [Future OER research should examine disaggregated data for specific student populations, conduct quantitative meta-analyses, and compare specific OER materials and subject areas.](oer-future-research-directions.md) — related
+- Future OER research should examine disaggregated data for specific student populations, conduct quantitative meta-analyses, and compare specific OER materials and subject areas. — related
 - [In direct comparisons of OER and commercial textbooks, a strong majority of participants report OER are as good or better.](oer-direct-comparison-strong-majority-as-good-or-better.md) — related
 - [OER effectiveness in online courses is attributed to their technological affordances](oer-online-effectiveness-technological-affordances.md) — related
 - [The commentary calls for future research to examine what student-centered learning in online environments looks like in different contexts](future-research-scl-online-contexts.md) — related

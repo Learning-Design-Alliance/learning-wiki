@@ -9,6 +9,7 @@ generated:
   at: 2026-10-30
 evidence_strength: moderate
 newest_evidence: 2018
+recheck_by: 2021
 sources:
   - id: vega-hernández-2018
     resource: "https://doi.org/10.1016/j.compedu.2018.03.004"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: local conditions change quickly
 
 ## Subclaims
 `q3 i?` Students' predominant ICT uses are basic programs, personal interrelation programs, network search engines, online video portals and virtual libraries, with over 50% Enough/Much responses in all five branches. [→ Vega-Hernández 2018](#vega-hernandez-2018)
@@ -47,5 +48,5 @@ Descriptive survey analysis of REATIC responses from 2117 University of Salamanc
 ## Related Claims
 - [In all areas of knowledge, students' consideration of ICT exceeds their use of ICT](consideration-exceeds-use-in-all-areas.md) — related
 - [Use and consideration of ICT differ significantly across the five areas of knowledge, with Health Sciences students showing the highest preference level in use](ict-use-differs-by-area-health-sciences-highest.md) — related
-- [Four factors of ICT use explain 57.4% of the total variance in university students' types of ICT use](four-ict-use-factors-57-percent-variance.md) — related
+- Four factors of ICT use explain 57.4% of the total variance in university students' types of ICT use — related
 - [Students value ICT positively as a help and importance in their learning process](students-value-ict-positively-learning-process.md) — related

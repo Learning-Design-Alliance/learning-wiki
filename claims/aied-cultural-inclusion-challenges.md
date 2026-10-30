@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: ana-mouta-2023
     resource: "https://doi.org/10.1007/s40593-023-00384-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Among the 18 RQ2 papers, 53% highlight that AIED solutions may not sufficiently consider cross-cultural variations, and 37% address inclusiveness for learners with special educational needs and disabilities. [→ Ana Mouta 2023](#ana-mouta-2023)

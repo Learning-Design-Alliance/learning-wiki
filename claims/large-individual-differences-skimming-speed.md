@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1914
+recheck_by: 1919
 sources:
   - id: whipple-1914
     resource: "https://eric.ed.gov/?q=preliminary+investigation+of+skimming+in+reading"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 1914 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1914 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1919**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Under instructions to skim, marked individual differences in rate remained among the six observers. [→ Whipple 1914](#whipple-1914)

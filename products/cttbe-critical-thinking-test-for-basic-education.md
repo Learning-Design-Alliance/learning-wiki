@@ -29,7 +29,8 @@ A 48-item visual- and text-based test developed by Silva et al. to assess Portug
 - [Cooperative learning reduced disparities between students' critical thinking scores, with lower performers gaining most](../claims/cooperative-learning-reduces-score-disparities.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [25-item electronic magnetism cognitive achievement test](25-item-electronic-magnetism-cognitive-achievement-test.md)
 
 ## Key Sources
 - Silva, H., Lopes, J., Dominguez, C., & Morais, E. (2022). Think-Pair-Share and Roundtable: Two Cooperative Learning Structures to Enhance Critical Thinking Skills of 4th Graders. International Electronic Journal of Elementary Education, 15(1), 11-21. https://doi.org/10.26822/iejee.2022.274

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: weak
 newest_evidence: 2009
+recheck_by: 2014
 sources:
   - id: desmet-2009
     resource: "https://portal.issn.org/resource/ISSN/0959-4752"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
-> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2014**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Children's comparison of decimal fractions changes with development, as indicated by the article's title and its publication in a learning-sciences journal. [→ Desmet 2009](#desmet-2009)

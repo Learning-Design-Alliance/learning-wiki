@@ -12,7 +12,7 @@ generated:
 # Multilevel latent covariate model for unbiased estimation of class-level climate–outcome relations
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 7 claims (7 for) · 3 studies (2 associational, 1 theoretical), `q2`–`q3` · 2 of 3 report an effect size · 7 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 3 studies (2 associational, 1 theoretical), `q2`–`q3` · 2 of 3 report an effect size · 5 claims rest on one study
 
 ## Description
 The article recaps Lüdtke et al.'s (2008) multilevel latent covariate model, in which students' ratings of classroom climate are latently aggregated to a latent class mean that is regressed on an outcome at the class level. The model is presented as "the method of choice because it allows researchers to obtain unbiased estimates of the relations between classroom climate and outcome variables even when the ICC(2) values are not very high." It applies to reflective group-level constructs such as student-rated classroom management or teacher support.
@@ -25,8 +25,6 @@ The article recaps Lüdtke et al.'s (2008) multilevel latent covariate model, in
 
 ### Claims
 - [The variability of the between slope estimate in the multilevel latent covariate model decreases with more classes and students, with higher ICC(1) of the ratings and larger slopes, but increases with higher ICC(1) of the outcome](../claims/between-slope-variability-depends-on-iccs-and-slopes.md) [+W]
-- [Under a fixed budget, a higher ICC(1) of the outcome variable shifts the optimal design toward more classes and fewer students per class and reduces maximum power](../claims/higher-outcome-icc1-shifts-optimal-design-toward-classes.md) [+W]
-- [A higher ICC(1) of students' ratings and a larger standardized between slope increase power, with opposite effects on the optimal split between classes and students per class](../claims/rating-icc1-and-between-slope-effects-on-power.md) [+W]
 - [Positive class-level peer spillover effects on mathematics achievement fail to replicate once measurement error is controlled with doubly latent models](../claims/peer-spillover-disappears-doubly-latent-models.md) [+M]
 - [The Big-Fish-Little-Pond effect on mathematics self-concept is negative and statistically significant in all three countries under a fully specified doubly latent model](../claims/bflpe-negative-significant-all-countries.md) [+M]
 - [Class-level instructional quality (classroom management, cognitive activation, supportive climate) is positively related to student self-efficacy](../claims/instructional-quality-related-student-self-efficacy.md) [+M]

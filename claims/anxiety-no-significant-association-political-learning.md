@@ -69,4 +69,4 @@ Multilevel random-effects meta-analysis of experimental studies (k = 16, N = 45 
 - [Negative-activating emotions show small positive associations with political learning in both cross-sectional and experimental designs](negative-activating-emotions-positive-political-learning.md) — related
 - [Negative-deactivating emotions show no association with political learning, but the evidence base is very small](negative-deactivating-emotions-no-association-political-learning.md) — related
 - [Enthusiasm shows a small positive association with political learning in cross-sectional designs but no association in experimental designs](enthusiasm-political-learning-design-dependent.md) — related
-- [Funnel-plot asymmetry indicates small-study effects for some emotion–learning models](funnel-plot-asymmetry-emotion-learning-models.md) — related
+- Funnel-plot asymmetry indicates small-study effects for some emotion–learning models — related

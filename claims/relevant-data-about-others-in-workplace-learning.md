@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: pammer-schindler-2021
     resource: "https://doi.org/10.1007/s40593-021-00259-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Across cases 1–4, relevant data for informal professional learning is not only about the learner but also about colleagues, customers or clients, and may be confidential or proprietary. [→ Pammer-Schindler 2021](#pammer-schindler-2021)

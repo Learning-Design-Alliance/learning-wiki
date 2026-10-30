@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2016
+recheck_by: 2021
 sources:
   - id: olga-c-santos-2016
     resource: "https://doi.org/10.1007/s40593-016-0103-2"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` User studies in 12 of the 17 systems used a limited number of participants with the goal of showing the system functions as expected. [→ Olga C. Santos 2016](#olga-c-santos-2016)

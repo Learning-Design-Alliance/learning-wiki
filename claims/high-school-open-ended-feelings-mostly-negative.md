@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: moderate
 newest_evidence: 2017
+recheck_by: 2022
 sources:
   - id: moeller-2017
     resource: "https://scholar.google.com/scholar?q=High+school+students%E2%80%99+feelings+Moeller+Brackett+Ivcevic+White"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` 74.20% of feelings reported in open-ended survey responses were negative, and tired, stressed, and bored were the most frequently mentioned. [→ Moeller 2017](#moeller-2017)

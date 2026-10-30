@@ -48,7 +48,7 @@ Editorial summary of a Cluster 3 paper listing the seven domains: views of knowl
 - [Domain Context](../learner-variables/domain-context.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
-- [Quality criteria for technology integration conceptual models: accuracy, consistency, scope, simplicity and fruitfulness](quality-criteria-technology-integration-models.md) — related
+- Quality criteria for technology integration conceptual models: accuracy, consistency, scope, simplicity and fruitfulness — related
 - [A coding scheme distinguishing knowledge creation from knowledge sharing and construction can differentiate student groups' engagement in knowledge creation](knowledge-creation-coding-scheme-distinguishes-groups.md) — related
 - [Students whose beliefs aligned with knowledge building showed more productive participation patterns on Knowledge Forum](kb-aligned-beliefs-productive-participation.md) — related
 - [The simple reverse-engineering approach to aligning products with Science of Learning principles risks false positives and a narrow perspective on learning](reverse-engineering-alignment-false-positives.md) — related

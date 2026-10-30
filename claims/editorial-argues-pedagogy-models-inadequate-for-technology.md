@@ -9,6 +9,7 @@ generated:
   at: 2026-10-30
 evidence_strength: weak
 newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: nussbaum-2025
     resource: "https://doi.org/10.1016/j.compedu.2025.105345"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The authors argue that current models of pedagogy do not adequately address the challenges posed by educational technology. [→ Nussbaum 2025](#nussbaum-2025)

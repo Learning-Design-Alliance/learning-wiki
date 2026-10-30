@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: mejia-domenzain-2025
     resource: "https://doi.org/10.1007/s40593-024-00405-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` RELEXset-Predictor achieved a mean absolute error of 0.39 on the hold-out test set, slightly better than the 0.42 baseline MAE, with the difference not significant. [→ Mejia-Domenzain 2025](#mejia-domenzain-2025)

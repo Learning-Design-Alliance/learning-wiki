@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2011
+recheck_by: 2016
 sources:
   - id: ramasamy-2011
     resource: "https://www.aeu.edu.my"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` On the overall CCTDI, 88 students (47%) were positively disposed, 101 (53%) ambivalent, and no respondent scored below 210. [→ Ramasamy 2011](#ramasamy-2011)
@@ -45,5 +46,7 @@ Composite CCTDI results for the 189-respondent sample, using the interpretive gu
 
 
 ## Related Claims
+
 - [The ambivalent profile reported the highest OMR strategy use but achieved the lowest OMR performance, while the positive profile scored highest](ambivalent-high-strategy-lowest-performance.md) — related
 - [The disorientation strategy negatively predicted OMR performance in the moderate and ambivalent profiles but not in the positive profile](disorientation-negative-effect-moderate-ambivalent.md) — related
+- [Malaysian undergraduates scored a mean of 71.20 (SD 10.88) on the overall IRFI, with 183 of 189 scoring above the midpoint of 50](malaysian-undergraduates-irfi-mean-71-20.md)

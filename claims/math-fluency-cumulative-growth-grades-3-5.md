@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: little-2021
     resource: "https://doi.org/10.1037/edu0000635"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q3 i1` For math fluency, the intercept-slope correlation was small, positive, and significant (r = .16), indicating a cumulative growth pattern. [→ Little 2021](#little-2021)

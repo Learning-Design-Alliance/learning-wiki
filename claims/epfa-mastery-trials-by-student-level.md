@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: eglington-2022
     resource: "https://doi.org/10.1007/s40593-022-00296-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In the KDD dataset, the average better-performing student was estimated to need 2.7 fewer trials to mastery per KC under EPFA, while the average lower-performing student was estimated to need 2.2 more trials. [→ Eglington 2022](#eglington-2022)

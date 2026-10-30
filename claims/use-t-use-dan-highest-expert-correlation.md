@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: ijaz-ul-haq-2024
     resource: "https://doi.org/10.1007/s40593-024-00392-3"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q3` · `i3` large
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i3` Against the agreed experts' scores, USE-T correlated at r = 0.860 (Spearman = 0.784) and USE-DAN at r = 0.827 (Spearman = 0.728). [→ Ijaz Ul Haq 2024](#ijaz-ul-haq-2024)
@@ -65,7 +66,7 @@ Regression analysis (JMP software) of agreed expert scores against each model's 
 
 ## Related Claims
 - [The eight sentence embedding models produce discrepant similarity scores for the same pairs of cocreative ideas, motivating validation against expert novelty scores](embedding-models-discrepant-similarity-scores.md) — related
-- [The three human experts showed significantly high Pearson and Spearman correlations in their individual novelty scores before consensus scoring](high-expert-inter-rater-correlation-novelty.md) — related
+- The three human experts showed significantly high Pearson and Spearman correlations in their individual novelty scores before consensus scoring — related
 - [Probability distribution analysis across low, medium, and high novelty categories confirms that USE-T, USE-DAN, all-MiniLM-L6, and all-mpnet-base align closest with experts' category distributions](probability-distribution-confirms-four-models.md) — related
 - [Pre-trained sentence embedding models can evaluate the novelty of open-ended, generic, small datasets of ideas co-generated during classroom PBL cocreation without fine-tuning](sentence-embedding-novelty-evaluation-pbl-cocreation.md) — a broader claim this one bears on
 - [Four of eight sentence embedding models (USE-T, USE-DAN, all-MiniLM-L6, all-mpnet-base) correlate significantly highly with experts' evaluations while the remaining four correlate weakly](four-embedding-models-high-expert-correlation.md) — a broader claim this one bears on

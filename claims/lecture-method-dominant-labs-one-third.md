@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 1918
+recheck_by: 1923
 sources:
   - id: hall-quest-1918
     resource: "https://eric.ed.gov/?id=EJ"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1923**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In forty-eight institutions lecturing was the sole teaching method mentioned; sixteen institutions had well-equipped laboratories including Whipple material and Binet tests, and five used the school system as their laboratory. [→ Hall-Quest 1918](#hall-quest-1918)

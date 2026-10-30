@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: kennedy-2026
     resource: "https://github.com/OxCGRT/covid-policy-dataset"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Larger increases (or smaller declines) in expectations to participate in protest activities occurred where lockdown stringency was high and school closures were long. [→ Kennedy 2026](#kennedy-2026)
@@ -67,6 +68,6 @@ Comparison of standardized coefficients across outcomes. The legal protest scale
 - [Civic Mindedness](../learner-variables/civic-mindedness.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Robustness of the lockdown-civic outcome associations varies by outcome, with legal protest and trust/closure results most consistent](lockdown-civic-results-outlier-sensitivity.md) — related
+- Robustness of the lockdown-civic outcome associations varies by outcome, with legal protest and trust/closure results most consistent — related
 - [Lockdown measures are positively associated with expected political participation but show null or negative associations with expected electoral participation](lockdown-political-up-electoral-null-negative.md) — a broader claim this one bears on
 - [Longer school closures are associated with greater declines in grade 8 civic knowledge](school-closure-duration-civic-knowledge-declines.md) — related

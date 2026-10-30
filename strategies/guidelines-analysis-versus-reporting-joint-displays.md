@@ -17,7 +17,7 @@ sources:
 # Follow guidelines distinguishing joint display development for analysis (process) versus reporting (product) purposes
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article synthesizes guidelines from Guetterman et al. (2021) and McCrudden et al. (2021), distinguishing guidelines for joint display development for analysis purposes (e.g., using a robust theoretical framework, conducting rigorous intra-method analysis first) from guidelines for reporting purposes (e.g., the display is self-explanatory, avoids unnecessary complexity, balances detail and synthesis). The authors applied these guidelines throughout all phases of their research process and recommend reflexive engagement with empirical examples.
@@ -38,8 +38,6 @@ The article synthesizes guidelines from Guetterman et al. (2021) and McCrudden e
 
 ## Claims
 
-- [Mixed methods studies that demonstrate explicit integration are scarce in EdTech research, and few apply recommended integration strategies such as visual joint displays](../claims/explicit-integration-scarce-in-edtech-mixed-methods-research.md) [+W]
-- [Visual joint displays can reduce the cognitive burden of integration analysis and reporting compared to tabular joint displays](../claims/visual-joint-displays-reduce-cognitive-burden.md) [+W]
 
 ## Related Strategies
 

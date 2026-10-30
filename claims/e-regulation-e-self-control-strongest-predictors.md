@@ -53,4 +53,4 @@ Multi-group structural equation model (ADF estimation) on n = 776 students, with
 - [Socio-emotional e-competencies correlate negatively with habitual digital behaviors in secondary students, except social e-competency (weakly positive) and emotional e-awareness (no significant correlation)](e-competencies-negative-relation-habitual-digital-behaviors.md) — related
 - [Emotional e-independence predicts habitual digital behaviors only in girls and older students, while emotional e-awareness predicts them only in boys](e-independence-e-awareness-differential-predictors.md) — related
 - [Social e-competency is a positive statistical predictor of habitual digital behaviors, invariant across gender and age groups, in cross-sectional data](social-e-competency-positive-predictor.md) — related
-- [Media multitasking during academic tasks, phubbing, and cybergossip form a single construct of habitual digital behavior in secondary students](three-habits-one-habitual-digital-behavior-construct.md) — related
+- Media multitasking during academic tasks, phubbing, and cybergossip form a single construct of habitual digital behavior in secondary students — related

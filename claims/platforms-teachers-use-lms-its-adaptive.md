@@ -46,7 +46,7 @@ Qualitative synthesis of the n = 11 included studies' platform descriptions. The
 
 
 ## Related Claims
-- [Research on teachers' use of digital learning platform data for instructional design is young and predominantly exploratory, based on a systematic review of 11 studies](digital-platform-data-use-research-exploratory-review.md) — a broader claim this one bears on
+- Research on teachers' use of digital learning platform data for instructional design is young and predominantly exploratory, based on a systematic review of 11 studies — a broader claim this one bears on
 - [AI-supported adaptive systems are reported to enhance adult learner engagement, motivation, and outcomes when aligned with learner goals and prior knowledge](ai-adaptive-systems-enhance-adult-engagement.md) — related
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — related
 - [ITSs as core or supplementary components of instruction show positive learning gains in individual studies, including ALEKS, Writing Pal, and eDia platform deployments](its-individual-study-positive-gains.md) — related

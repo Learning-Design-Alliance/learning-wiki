@@ -50,4 +50,4 @@ Meta-analytic synthesis within the systematic review of 52 studies. The review r
 
 ## Related Claims
 - [Developmental patterns for general creativity and some subdimensions are less pronounced when tasks combine figural and verbal responses](mixed-figural-verbal-response-tasks-weaker-patterns.md) — a broader claim this one bears on
-- [The creativity research body shows a varied picture of measurement, with open-ended integrating and open-ended fragmenting tasks most frequently used](varied-creativity-measurement-open-ended-tasks-frequent.md) — related
+- The creativity research body shows a varied picture of measurement, with open-ended integrating and open-ended fragmenting tasks most frequently used — related

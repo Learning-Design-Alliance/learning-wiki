@@ -45,6 +45,6 @@ Systematic literature review of mobile learning pedagogies for school-aged learn
 
 
 ## Related Claims
-- [The corpus of the review comprised fifty-seven high-quality articles published between 2010 and 2017 that met stringent selection criteria](slr-mobile-pedagogies-57-article-corpus-2010-2017.md) — related
+- The corpus of the review comprised fifty-seven high-quality articles published between 2010 and 2017 that met stringent selection criteria — related
 - [Empirical evidence surrounding innovative technology-enhanced-learning practices in K-12 education is at best patchy](k12-innovative-tel-evidence-patchy.md) — a broader claim this one bears on
 - [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — related

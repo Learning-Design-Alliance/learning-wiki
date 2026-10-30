@@ -9,19 +9,18 @@ generated:
   at: 2026-10-16
 evidence_strength: moderate
 newest_evidence: 2007
-source_checked: 2026-10-20
 sources:
   - id: pyc-2007
-    resource: "https://link.springer.com/article/10.3758/BF03193420"
-    title: "Pyc, M. A., & Rawson, K. A. (2007). Examining the efficiency of schedules of distributed retrieval practice. Memory & Cognition, 35(8), 1917-1927. https://link.springer.com/article/10.3758/BF03193420"
+    resource: "https://link.springer.com/article/10.3758/BF03192925"
+    title: "Pyc, M. A., & Rawson, K. A. (2007). Examining the efficiency of schedules of distributed retrieval practice. Memory & Cognition, 35(8), 1917-1927. https://link.springer.com/article/10.3758/BF03192925"
     author: "Pyc, M. A., & Rawson, K. A."
     q: 3
     i: "?"
     kind: causal
     rigour: 2
   - id: pyc-2007-2
-    resource: "https://link.springer.com/article/10.3758/BF03193420"
-    title: "Pyc, M. A., & Rawson, K. A. (2007). Examining the efficiency of schedules of distributed retrieval practice. Memory & Cognition, 35(8), 1917-1927. https://link.springer.com/article/10.3758/BF03193420"
+    resource: "https://link.springer.com/article/10.3758/BF03192925"
+    title: "Pyc, M. A., & Rawson, K. A. (2007). Examining the efficiency of schedules of distributed retrieval practice. Memory & Cognition, 35(8), 1917-1927. https://link.springer.com/article/10.3758/BF03192925"
     author: "Pyc, M. A., & Rawson, K. A."
     q: 3
     i: "?"
@@ -33,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
-> **Currency** · newest study 2007 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Initially incorrect items were significantly more likely to be correct at final test in the 23-drop group than in either conventional group. [→ Pyc 2007](#pyc-2007)
@@ -43,7 +42,7 @@ sources:
 
 ### Pyc 2007
 
-Pyc, M. A., & Rawson, K. A. (2007). Examining the efficiency of schedules of distributed retrieval practice. Memory & Cognition, 35(8), 1917-1927. https://link.springer.com/article/10.3758/BF03193420
+Pyc, M. A., & Rawson, K. A. (2007). Examining the efficiency of schedules of distributed retrieval practice. Memory & Cognition, 35(8), 1917-1927. https://link.springer.com/article/10.3758/BF03192925
 
 `q3 · i?` · `causal · r2`
 
@@ -53,7 +52,7 @@ Experiment 2 conditional analyses (Table 2), t(41) = 2.86, p = .007 versus 5-5-5
 
 ### Pyc 2007 (2)
 
-Pyc, M. A., & Rawson, K. A. (2007). Examining the efficiency of schedules of distributed retrieval practice. Memory & Cognition, 35(8), 1917-1927. https://link.springer.com/article/10.3758/BF03193420
+Pyc, M. A., & Rawson, K. A. (2007). Examining the efficiency of schedules of distributed retrieval practice. Memory & Cognition, 35(8), 1917-1927. https://link.springer.com/article/10.3758/BF03192925
 
 `q3 · i?` · `causal · r2`
 

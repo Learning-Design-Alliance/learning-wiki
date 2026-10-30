@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: jianyi-liu-2023
     resource: "https://doi.org/10.1038/s41539-023-00209-3"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Mean hit rates were 99% and false alarm rates below 1% in all blocks, indicating attention was maintained on the color change detection task. [→ Jianyi Liu 2023](#jianyi-liu-2023)

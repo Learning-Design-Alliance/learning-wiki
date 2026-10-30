@@ -64,4 +64,7 @@ The same review reports the book's emphasis: "the appreciation of values and the
 
 
 ## Related Claims
--
+
+- [Edwards' textbook's thesis is that all learning is habit formation, and that learning should be of permanent value with generalized as well as specific improvement sought](edwards-learning-habit-formation-thesis.md)
+- [Classroom pedagogical interventions significantly reduce teleologic and anthropomorphic language, with curricular exposure but not age as a significant factor](interventions-reduce-teleologic-anthropomorphic-language-curriculum-not-age.md)
+- [Anthropomorphic explanations of 15 abstract physics concepts differ significantly before and after classroom pedagogical interventions](anthropomorphic-explanations-corrected-by-pedagogical-interventions.md)

@@ -50,15 +50,15 @@ Multilevel Egger's regression tests on the meta-analytic corpus showed a signifi
 - [Publication bias is unlikely to explain the consistency of SRL intervention effect sizes](srl-meta-analysis-no-publication-bias.md) — related
 - [Publication bias is evident for Negative Behaviour and Anxiety/Stress across all RCTs and for Mindfulness in active-control RCTs, suggesting overestimation of MBI effects](publication-bias-mbi-youth-rcts.md) — related
 - [Evidence of publication bias exists, but the pooled video effects are robust to it](publication-bias-present-but-effects-robust.md) — related
-- [Egger's test suggests publication bias may be present, with the selection-model adjusted mean effect falling to 0.36](publication-bias-adjusted-effect-036.md) — related
-- [Publication-bias tests found no evidence of substantial publication bias in the meta-analytic sample](no-publication-bias-teacher-self-efficacy-meta-analysis.md) — reports the opposite
-- [No publication bias is detected in the collected Covid-19 achievement estimates](covid-meta-analysis-no-publication-bias.md) — related
+- Egger's test suggests publication bias may be present, with the selection-model adjusted mean effect falling to 0.36 — related
+- Publication-bias tests found no evidence of substantial publication bias in the meta-analytic sample — reports the opposite
+- No publication bias is detected in the collected Covid-19 achievement estimates — related
 - [The pooled self-efficacy–partnership correlation appears robust to the file-drawer problem](publication-bias-robustness.md) — reports the opposite
 - [Publication bias is indicated for the performance-approach and performance-avoidance anxiety effects but not for the depression effects](publication-bias-performance-goal-anxiety-effects.md) — related
-- [Funnel-plot asymmetry indicates small-study effects for some emotion–learning models](funnel-plot-asymmetry-emotion-learning-models.md) — related
-- [Publication bias was significant for the overall DT analysis but not for the fluency, flexibility, or originality indicator analyses](publication-bias-overall-dt.md) — related
-- [Publication bias evidence is mixed: marginal asymmetry for tutees but no missing studies, and no bias for tutors](cross-age-tutoring-publication-bias-mixed.md) — related
+- Funnel-plot asymmetry indicates small-study effects for some emotion–learning models — related
+- Publication bias was significant for the overall DT analysis but not for the fluency, flexibility, or originality indicator analyses — related
+- Publication bias evidence is mixed: marginal asymmetry for tutees but no missing studies, and no bias for tutors — related
 - [Publication bias is minimal in the meta-analytic estimate of the inhibitory control–mathematical ability correlation](minimal-publication-bias-ic-math-meta-analysis.md) — related
-- [No evidence of publication bias was found in the achievement goal–dishonesty literature](no-publication-bias-goal-dishonesty.md) — related
-- [Funnel-plot asymmetry suggests possible selection or publication bias, but p-curve analyses indicate evidential value for the pooled relationships](publication-bias-asymmetry-but-pcurve-evidential-value.md) — related
+- No evidence of publication bias was found in the achievement goal–dishonesty literature — related
+- Funnel-plot asymmetry suggests possible selection or publication bias, but p-curve analyses indicate evidential value for the pooled relationships — related
 - [Publication bias could not be ruled out in the pooled teacher-student SEC estimate, though the association persisted across sensitivity analyses](sec-pooled-estimate-publication-bias-caution.md) — related

@@ -46,4 +46,4 @@ Systematic literature review following Kitchenham's three-stage method and PRISM
 
 ## Related Claims
 - A methodological study tests whether four nonexperimental comparison group approaches can replicate experimental impact estimates from a random assignment evaluation of charter schools. — related
-- [Whether results represent causal effects requires knowledge and assumptions about data, design, and methods in both experimental and non-experimental work](causal-claims-require-assumptions-in-both-designs.md) — related
+- Whether results represent causal effects requires knowledge and assumptions about data, design, and methods in both experimental and non-experimental work — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: weak
 newest_evidence: 2011
+recheck_by: 2016
 sources:
   - id: demetriou-2011
     resource: "https://doi.org/10.1007/s10648-011-9178-3"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` When executive operations are held to a minimum, short-term storage capacity is two, three, and four units at ages 3-4, 5-6, and 10-11 years respectively. [→ Demetriou 2011](#demetriou-2011)

@@ -51,4 +51,4 @@ Strong-retrieval control groups (CTRs) had a Memory Index of about 0.6. Exams wi
 ## Related Claims
 - [An exam taken 1 h after copying improves long-term retention of weakly learned graphical material](exam-1h-after-improves-weak-retrieval-ltm.md) — related
 - [A classroom exam bidirectionally modulates 24-h retention of an unrelated graphical task depending on when it occurs relative to learning](exams-bidirectionally-modulate-unrelated-ltm.md) — a broader claim this one bears on
-- [Strong- and weak-retrieval control groups differ in baseline retention and were analyzed separately](strong-weak-retrieval-controls-differ-baseline.md) — related
+- Strong- and weak-retrieval control groups differ in baseline retention and were analyzed separately — related

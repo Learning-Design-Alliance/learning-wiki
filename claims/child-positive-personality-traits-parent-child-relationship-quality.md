@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: du-2025
     resource: "https://doi.org/10.1016/j.edurev.2025.100688"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q3 i?` In a meta-analysis of k = 39 studies, children's agreeableness, conscientiousness, extraversion, and openness were positively associated with positive parent–child relationships (e.g., warmth) and negatively associated with negative parent–child relationships (e.g., conflict). [→ Du 2025](#du-2025)
@@ -52,4 +53,4 @@ Quantitative meta-analysis (k = 39) following PRISMA guidelines examined associa
 - [Parents' personality traits show patterns comparable to children's, except that parents' openness is not significantly associated with parent–child relationship quality](parent-personality-traits-parent-child-relationship-quality.md) — related
 - [Personality similarity appears to be positively associated with positive adult–child relationships (preliminary evidence)](personality-similarity-positive-adult-child-relationships.md) — related
 - [Personality traits of both children and teachers may be associated with teacher–child relationships, especially for relational positivity](personality-traits-teacher-child-relationships.md) — related
-- [Funnel plot asymmetry for openness, extraversion, and neuroticism appears attributable to reasons other than publication bias](funnel-asymmetry-not-publication-bias.md) — related
+- Funnel plot asymmetry for openness, extraversion, and neuroticism appears attributable to reasons other than publication bias — related

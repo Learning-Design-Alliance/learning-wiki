@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1922
+recheck_by: 1925
 sources:
   - id: sandiford-1922
     resource: "https://psycnet.apa.org/journal/edu"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r?` · `q2`
-> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1925**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Baldwin's data show the IQ is fairly constant though subject to fluctuations, so far as the measurements made are reliable. [→ Sandiford 1922](#sandiford-1922)
@@ -66,7 +67,7 @@ The same review attributes to Baldwin the finding that repeated examinations sho
 ## Related Claims
 - [IQ is only approximately constant across successive examinations, with first-to-fifth IQ correlation of +0.82 and prediction error of 4 to 7 points](iq-approximately-constant-prediction-error.md) — a narrower finding that bears on this claim
 - [IQs obtained by dividing mental by chronological age remain fairly constant up to the age of 14, which supports treating yearly increments of intelligence as equal absolute units up to about age 14.](iq-constant-to-age-14.md) — a narrower finding that bears on this claim
-- [The reviewer judges Goddard's book an optimistic, clear popular account that exaggerates intelligence's influence and omits technical questions such as IQ validity](reviewer-critique-goddard-optimism.md) — related
+- The reviewer judges Goddard's book an optimistic, clear popular account that exaggerates intelligence's influence and omits technical questions such as IQ validity — related
 - [Cephalic index computed from calliper head measurements shows fluctuations in both children, with parental indices of 78.8 and 81.8](cephalic-index-fluctuations-two-children.md) — related
 - [Large IQ differences in this sample were mostly attributable to identifiable causes such as failures of previously passed tests, chance success, effort fluctuation, or lack of experience](iq-differences-attributable-to-specific-causes.md) — related
 - [The question of the constancy of IQ is not settled; further studies with regular intervals and repeated tests of the same cases over a number of years are needed](iq-constancy-question-not-settled.md) — related

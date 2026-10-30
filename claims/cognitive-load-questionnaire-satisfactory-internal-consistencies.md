@@ -65,6 +65,6 @@ Reliability analysis within the Study 2 confirmatory factor analysis (n = 158 Pr
 
 ## Related Claims
 - [Subjective cognitive load questionnaires show satisfactory internal consistency across the four most frequently used instruments in experimental multimedia learning research](cognitive-load-questionnaires-satisfactory-internal-consistency.md) — a broader claim this one bears on
-- [A confirmatory factor analysis on a new sample confirms the three-factor structure with acceptable model fit and moderate convergent validity](cfa-confirms-three-factor-cognitive-load-structure.md) — related
+- A confirmatory factor analysis on a new sample confirms the three-factor structure with acceptable model fit and moderate convergent validity — related
 - [The GAA-LS shows satisfactory-to-strong internal consistency and evidence of convergent and discriminant validity](gaa-ls-reliability-convergent-discriminant.md) — related
 - [Across three experiments (Studies 3–5), the questionnaire was shown to be sensitive to changes in cognitive load, supporting its predictive validity](questionnaire-sensitive-to-manipulated-cognitive-load.md) — related

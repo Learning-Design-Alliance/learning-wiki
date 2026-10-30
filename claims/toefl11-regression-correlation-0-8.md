@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: sowmya-vajjala-2016
     resource: "https://arxiv.org/abs/1612.00729"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Modeling TOEFL11SUBSET proficiency as regression with all features achieved a Pearson correlation of 0.8 and MAE of 0.4 in 10-fold cross validation. [→ Sowmya Vajjala 2016](#sowmya-vajjala-2016)

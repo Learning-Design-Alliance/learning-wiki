@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: moderate
 newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: inge-molenaar-2021
     resource: "https://doi.org/10.1016/j.learninstruc.2019.05.003"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Immediate drop curves showed higher accuracy on unique problems than immediate peak, close multiple spikes and separated multiple spikes curves. [→ Inge Molenaar 2021](#inge-molenaar-2021)

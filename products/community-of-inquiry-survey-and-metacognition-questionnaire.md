@@ -35,7 +35,8 @@ The CoI Survey, developed by Arbaugh et al., measures students’ perceptions of
 - [Self-regulation and co-regulation are significantly and highly correlated in an online case-based course](../claims/self-co-regulation-highly-correlated-online-cbi.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Social Presence Measure (Kreijns et al., 2020)](social-presence-measure-kreijns-et-al-2020.md)
 
 ## Key Sources
 - Sadaf, A., Kim, S. Y., & Olesova, L. (2022). Relationship between metacognition and online Community of Inquiry in an online case-based course. Online Learning, 26(4), 79-93. https://doi.org/10.24059/olj.v26i4.3474

@@ -63,5 +63,5 @@ The review's C1 synthesis, citing Aberšek and Flogie (2021), Chaudhry and Kazim
 - [Little attention has been paid to the undesirable consequences of indiscriminate AI application, including automation-driven socio-economic inequality](k12-ai-literacy-neglects-undesirable-consequences.md) — related
 - [AI has transformed the traditional teacher-student relationship into a teacher-AI-student dynamic](ai-transforms-teacher-student-relationship.md) — related
 - [Technical assistance functions as a structural constraint that embeds World Bank frameworks in national policymaking, not merely as advice](world-bank-technical-assistance-structural-constraint.md) — related
-- [Research priorities in AWE have shifted from technical validation toward pedagogical integration and ethical considerations (2015–2024)](awe-research-priority-shift-implementation-ethics.md) — related
+- Research priorities in AWE have shifted from technical validation toward pedagogical integration and ethical considerations (2015–2024) — related
 - [Reports of transformation in teaching practices are associated with changes in the roles of teachers and students, with transforming uses focused on active methodologies](transformation-associated-with-role-shifts-active-methodologies.md) — related

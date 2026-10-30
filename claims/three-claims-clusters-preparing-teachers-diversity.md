@@ -45,6 +45,8 @@ The review's interpretive synthesis of 209 included peer-reviewed articles repor
 
 
 ## Related Claims
+
 - The 209 included articles were primarily North American (132), mostly qualitative in design, with 15% quantitative, 15% mixed methods, and nearly a fifth non-empirical — a narrower finding that bears on this claim
 - The ITE-diversity literature is broad in focus but shallow in depth, with most papers describing teaching about or catering to diversity and few considering teaching for diversity — a narrower finding that bears on this claim
 - The reviewed literature shows limited engagement with specialist diversity concepts such as gender or race and little attention to teacher educators' own knowledge — a narrower finding that bears on this claim
+- [Drama and theatre-based work forms are used in teacher education to elicit critical reflection among teachers as preparation for the diverse classroom](drama-work-forms-elicit-critical-reflection-teachers.md)

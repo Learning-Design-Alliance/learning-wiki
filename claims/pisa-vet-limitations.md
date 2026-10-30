@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: dragos-iliescu-2025
     resource: "https://doi.org/10.1038/s41539-025-00317-2"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The article identifies four limitations: coverage of only five occupational areas, no method for country-specific context effects, limits of simulating practical motor skills digitally, and reliance on a criticized CBET approach. [→ Dragos Iliescu 2025](#dragos-iliescu-2025)

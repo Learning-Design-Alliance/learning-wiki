@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: zhao-yu-2021
     resource: "https://doi.org/10.1016/j.compedu.2021.104212"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Five reviewed articles reported participants' digital competence maintained at a basic level, four reported intermediate levels, and students were less aware of the safety area. [→ Zhao Yu 2021](#zhao-yu-2021)

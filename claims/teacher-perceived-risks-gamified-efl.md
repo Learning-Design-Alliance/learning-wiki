@@ -83,5 +83,5 @@ Face-to-face and email interview responses analysed thematically during item gen
 
 
 ## Related Claims
-- [Perceived enjoyment merged statistically with PU, and perceived risks merged with PEoU, indicating face-validity problems for the proposed constructs](enjoyment-merged-pu-risks-merged-peou.md) — related
+- Perceived enjoyment merged statistically with PU, and perceived risks merged with PEoU, indicating face-validity problems for the proposed constructs — related
 - [Faculty members and students identify both user-related and algorithm-related ethical risks in AI use in education](user-and-algorithm-related-ethical-risks-ai-education.md) — related

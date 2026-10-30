@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2017
+recheck_by: 2022
 sources:
   - id: elsbeth-stern-2017
     resource: "https://doi.org/10.1038/s41539-016-0003-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Schooling substantially develops intelligence; roughly 10 years of institutionalized education are needed for individuals to approach their maximum intellectual potential. [→ Elsbeth Stern 2017](#elsbeth-stern-2017)

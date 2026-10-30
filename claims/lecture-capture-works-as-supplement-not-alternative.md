@@ -45,5 +45,5 @@ The review synthesises findings including that students often use lecture captur
 
 
 ## Related Claims
-- [Descriptive and exploratory research dominates the lecture capture literature while causative evidence is relatively limited](lecture-capture-research-limited-causative-evidence.md) — related
+- Descriptive and exploratory research dominates the lecture capture literature while causative evidence is relatively limited — related
 - [Several reviewed studies found no significant relationship between lecture capture viewing and academic performance](lecture-capture-no-significant-performance-relationship.md) — related

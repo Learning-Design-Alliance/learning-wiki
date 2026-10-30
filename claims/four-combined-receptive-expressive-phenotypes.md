@@ -66,4 +66,4 @@ Chi-square test on Table 9 counts: the Multi-Sentence + Syntactic Phenotype cont
 ## Related Claims
 - [Parent-reported language comprehension abilities in autistic individuals cluster into three distinct mechanisms: Command, Modifier, and Syntactic](three-receptive-language-comprehension-clusters-autism.md) — related
 - [Joint clustering of receptive and expressive items yields six distinct clusters, supporting independent receptive and expressive dimensions](six-clusters-joint-receptive-expressive.md) — reports the opposite
-- [Eleven expressive language abilities resolve into three stable clusters (Single-Word, Single-Sentence, Multi-Sentence), a solution the authors find superior to two- and four-cluster alternatives](three-expressive-language-clusters-autism.md) — related
+- Eleven expressive language abilities resolve into three stable clusters (Single-Word, Single-Sentence, Multi-Sentence), a solution the authors find superior to two- and four-cluster alternatives — related

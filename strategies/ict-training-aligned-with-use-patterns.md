@@ -17,7 +17,7 @@ sources:
 # Use the four-pattern ICT-use taxonomy to design ICT training programs aligned with students' actual technology use
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article recommends that its four-factor classification of ICT use can inform the design of training programs. The authors state that "These ﬁndings would enable the development of training programs that would be more in keeping with the real uses that university students make of ICTs", allowing analysis of relationships with other training variables of interest.
@@ -41,7 +41,6 @@ The article recommends that its four-factor classification of ICT use can inform
 
 - [Elaboration, Intrinsic Goals, and Task Value significantly predict Educational Platform Use](../claims/elaboration-intrinsic-goals-task-value-predict-epu.md) [+M]
 - [Educational Platform Use is the only ICT use significantly correlated with academic performance (negatively)](../claims/epu-only-ict-use-correlated-with-performance.md) [+M]
-- [Four factors of ICT use explain 57.4% of the total variance in university students' types of ICT use](../claims/four-ict-use-factors-57-percent-variance.md) [+M]
 - [All four ICT uses correlate positively with expectations of performance and satisfaction, with EPU showing the strongest associations](../claims/ict-use-expectations-performance-satisfaction.md) [+M]
 
 ## Related Strategies

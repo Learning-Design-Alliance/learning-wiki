@@ -45,7 +45,9 @@ Thematic-analysis finding across the 81 curricular documents: recognition of dev
 
 
 ## Related Claims
+
 - [Nearly all of fifty-two countries' early childhood curricula mention diverse spatial skills](spatial-skills-nearly-all-52-country-curricula.md) — related
 - [Most early childhood curricula include concrete pedagogical activities fostering spatial skills](most-curricula-include-concrete-spatial-activities.md) — related
 - [Spatial-skills representation in early childhood curricula is widespread in both Global North and Global South](spatial-skills-representation-global-north-and-south.md) — related
 - [Extent of spatial-skills representation does not vary by curricular age level](spatial-skills-representation-no-age-level-variation.md) — related
+- [Spatial thinking is largely absent from mathematics curricula worldwide, including the US Common Core and England's primary curriculum](spatial-thinking-absent-from-mathematics-curricula.md)

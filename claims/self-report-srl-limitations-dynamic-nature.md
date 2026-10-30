@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: de-barba-2025
     resource: "https://doi.org/10.1007/s11423-025-10521-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Self-report scales may not adequately reflect the actual regulatory processes that students engage in during learning tasks, and retrospective accounts may be influenced by memory limitations, social desirability bias, or lack of metacognitive awareness. [→ de Barba 2025](#de-barba-2025)
@@ -49,6 +50,6 @@ The article's literature review, citing Winne (2020), argues that self-report me
 - [Questionnaire data may capture learners' perceptions rather than the strategies they actually performed](questionnaires-measure-perception-not-performed-strategies.md) — possibly the same claim (merge candidate)
 - [Neither self-report nor eye tracking can reliably distinguish strategic from habituated behavior in empirical practice](measurement-cannot-separate-strategic-from-habituated.md) — related
 - [Trace data can capture the temporal progress of regulation as learners engage in learning tasks over time](trace-data-capture-temporal-regulation.md) — related
-- [Existing SLA emotion research methods cannot capture the dynamic nature of emotions in language learning situations](sla-emotion-methods-cannot-capture-dynamics.md) — related
+- Existing SLA emotion research methods cannot capture the dynamic nature of emotions in language learning situations — related
 - [Overconfidence in self-assessment is especially concerning in online learning environments where limited external feedback widens gaps between perceived and actual performance](online-learning-exacerbates-calibration-discrepancy.md) — related
 - [Integrating behavioral trace data with outcomes and self-report reveals feedback effects that perception and performance measures alone miss](behavioral-data-essential-for-feedback-evaluation.md) — a narrower finding that bears on this claim

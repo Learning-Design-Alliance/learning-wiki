@@ -65,7 +65,7 @@ Authors' interpretive conclusion (type e) drawn from the activity coding, explic
 
 
 ## Related Claims
-- [Included whole-school ASP interventions concentrate on violence prevention (especially bullying), while promoting a positive emotional and relational school climate is the least investigated focus](asp-intervention-focus-violence-dominates.md) — related
+- Included whole-school ASP interventions concentrate on violence prevention (especially bullying), while promoting a positive emotional and relational school climate is the least investigated focus — related
 - [Experts report there is neither a clear definition nor a widely accepted model of restorative justice in schools](no-clear-definition-or-accepted-model-of-school-rj.md) — related
 - [Shifting to restorative practices reduced exclusionary discipline and its racial disparities while improving climate and achievement](restorative-practices-reduce-exclusionary-discipline.md) — related
 - [Restorative practices reduce exclusionary discipline and misbehavior and improve school climate, safety, and achievement, though implementation requires sustained investment](restorative-practices-improve-safety-climate-achievement.md) — related

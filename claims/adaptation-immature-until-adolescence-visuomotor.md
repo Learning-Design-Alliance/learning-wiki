@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: malone-2025
     resource: "https://doi.org/10.1038/s41539-025-00304-7"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q3 i?` In the Push ball task, initial angle (adaptation) at the end of learning was significantly lower than adults for age groups 3–4 through 11–12 years, but not for 13–14 or 15–17 year olds, indicating adaptation matures around adolescence. [→ Malone 2025](#malone-2025)

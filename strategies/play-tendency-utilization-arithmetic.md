@@ -17,7 +17,7 @@ sources:
 # Utilizing children's play tendencies in arithmetic teaching through games, score-keeping, and dramatized life situations, with their value made a subject of scientific study
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (2 theoretical), `q1` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article devotes a section of its method problems to utilizing the play tendency, posing the large question of "How much better, if any, do children learn arithmetic when their play tendencies are utilized?" Specific problems include adapting games such as dominoes to class use for recognizing number symbols, using counting in play games such as Soldier Boys, the motive of score-keeping and score-computing for teaching addition and multiplication, subtraction learned through making change in a play store, and organizing a play bank to teach pass books, deposit slips, checks, bank discount and stocks.
@@ -39,7 +39,6 @@ The article devotes a section of its method problems to utilizing the play tende
 ## Claims
 
 - [Instinctive tendencies, particularly those evinced in play, already provide efficient machinery for children's acquaintance with the world](../claims/instinctive-play-suffices-sensory-acquaintance.md) [+W]
-- [Many factors besides method determine arithmetical abilities, so method comparisons must test enough school systems for other factors to equalize, or use controlled procedures](../claims/confounding-factors-method-comparisons.md) [~W]
 
 ## Related Strategies
 - 

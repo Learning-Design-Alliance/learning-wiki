@@ -47,6 +47,7 @@ The article's organizing framework holds that multimedia learning is grounded in
 
 - [Multi-mode expression](../elements/multi-mode-expression.md)
 - [Learning by Producing (multimedia production as learning)](../patterns/learning-by-producing-pattern.md)
+- [UNITE e-Learning platform and learning scenarios](../products/unite-e-learning-platform-and-learning-scenarios.md)
 
 ## Key Sources
 - Tanaka. (1997). Multimedia learning and cross-curricular learning. https://eric.ed.gov/?id=EJ545678

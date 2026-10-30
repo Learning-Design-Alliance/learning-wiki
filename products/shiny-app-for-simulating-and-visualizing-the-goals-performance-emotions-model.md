@@ -24,7 +24,8 @@ A publicly accessible R Shiny application released by the article's authors for 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Shiny App for finding optimal designs in classroom climate studies](shiny-app-for-finding-optimal-designs-in-classroom-climate-studies.md)
 
 ## Key Sources
 - The Dynamic Interplay Between Goal Setting, Performance, and Emotions in Self-Regulated Learning: A Computational Modeling Approach — Supplementary Materials. (2022). https://gpemodel.shinyapps.io/gpe-model/

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: minkang-kim-2021
     resource: "https://doi.org/10.1038/s41539-021-00116-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q3 i?` 16 of 47 children (34.8%) explicitly protested to the adult transgressor and 26 (56.6%) reported the misdeed; protest and report behaviours were significantly correlated, χ2(8, N = 46) = 22.769, p = 0.004. [→ Minkang Kim 2021](#minkang-kim-2021)

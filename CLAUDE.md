@@ -260,7 +260,7 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
   same finding (`judge_claim_merges.py --judge --titles`, then `--apply`); judges new same-folder title pairs
   (`judge_duplicates.py`, only pairs no judge has decided); links inline author-year citations
   (`link_inline_citations.py`); re-renders the study tables; and judges every claim three or more design
-  pages cite (`check_load_bearing.py --top 5000`, only changed entries are paid for). What a model cannot
+  pages cite (`check_load_bearing.py --top 5000`, only changed entries are paid for); and sorts its new claims (`sort_claims.py --all`, added 2026-10-30, when 9,862 claims were found never sorted). What a model cannot
   settle stops the run for a person or agent: a load-bearing failure, a new citation problem, an unmarked
   claim citation, an `i1`–`i3` with no printed statistic, an unjudged cross-folder collision. Each of those
   health counts was taken to zero on 2026-10-20 and must stay there.

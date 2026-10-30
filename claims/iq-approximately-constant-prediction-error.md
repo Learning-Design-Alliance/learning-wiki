@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1922
+recheck_by: 1925
 sources:
   - id: bird-t-baldwin-1922
     resource: "https://psycnet.apa.org/journals/edu/13/1/193"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1925**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The correlation between first and fifth IQ is +0.82 for boys and girls over approximately 4 years; coefficients for larger groups range from +0.69 to +0.93, and IQ can be predicted with a PE of from 4 to 7 points. [→ Bird T. Baldwin 1922](#bird-t-baldwin-1922)

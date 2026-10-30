@@ -49,4 +49,4 @@ Retrospective single-item 5-point satisfaction ratings from 12 eighth-grade stud
 - [Interaction patterns and perceptions differed between mathematics-engineering and mathematics-arts modules despite similar interaction counts](module-differences-genai-math-engineering-vs-arts.md) — related
 - Participants reported a strong level of agreement and high satisfaction with ideation discussion activities in Design Thinking — related
 - [Students exhibited high trust in GenAI but limited critical evaluation of its outputs](high-trust-limited-critical-evaluation-genai.md) — related
-- [The main area of focus of the empirical studies was STEAM-related fields](steam-main-area-of-focus.md) — related
+- The main area of focus of the empirical studies was STEAM-related fields — related

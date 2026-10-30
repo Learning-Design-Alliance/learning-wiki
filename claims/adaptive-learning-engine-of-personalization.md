@@ -56,5 +56,5 @@ The review's synthesis of the 13 adaptive-learning studies, many adopting a thre
 - [In one quasi-experimental VR shooting study (n = 50), reported in a review, rule-based dynamic difficulty outperformed progressive difficulty](dda-adaptation-direction-determines-outcomes.md) — a narrower finding that bears on this claim
 - [Intelligent tutoring systems with dynamic student modeling increase learning gains over regular instruction](its-dynamic-modeling-effective.md) — related
 - [A tutoring system can adjust its behaviour in response to a dynamically modelled motivational state, though some motivational rules are not appreciated by learners](more-system-adjusted-behavior-to-motivational-state.md) — a narrower finding that bears on this claim
-- [Explicit algorithmic approaches were identified in 13 of the 33 reviewed studies](13-of-33-studies-explicit-algorithmic-approaches.md) — related
+- Explicit algorithmic approaches were identified in 13 of the 33 reviewed studies — related
 - [Self-adaptive game design with multiple difficulty levels is positively associated with intervention effectiveness](self-adaptation-supports-effectiveness.md) — a narrower finding that bears on this claim

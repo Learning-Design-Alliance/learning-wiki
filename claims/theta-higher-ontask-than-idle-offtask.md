@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: ido-davidesco-2026
     resource: "https://doi.org/10.1038/s41539-026-00457-z"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i2` Theta power showed a significant main effect of state (F(2, 184) = 11.46, p < 0.001, η²partial = 0.11); on-task vs. idle d = 0.70 and on-task vs. off-task d = 0.69, with no idle–off-task difference (d = 0.01). [→ Ido Davidesco 2026](#ido-davidesco-2026)

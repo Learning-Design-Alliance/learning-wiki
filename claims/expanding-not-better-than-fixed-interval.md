@@ -9,11 +9,10 @@ generated:
   at: 2026-10-16
 evidence_strength: weak
 newest_evidence: 2007
-source_checked: 2026-10-19
 sources:
   - id: pyc-2007
-    resource: "https://link.springer.com/article/10.3758/BF03193420"
-    title: "Pyc, M. A., & Rawson, K. A. (2007). Examining the efficiency of schedules of distributed retrieval practice. Memory & Cognition, 35(8), 1917-1927. https://link.springer.com/article/10.3758/BF03193420"
+    resource: "https://link.springer.com/article/10.3758/BF03192925"
+    title: "Pyc, M. A., & Rawson, K. A. (2007). Examining the efficiency of schedules of distributed retrieval practice. Memory & Cognition, 35(8), 1917-1927. https://link.springer.com/article/10.3758/BF03192925"
     author: "Pyc, M. A., & Rawson, K. A."
     q: 2
     i: "?"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2007 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Comparison of the 1-5-9 expanding and 5-5-5 fixed conventional schedules in Experiment 1 showed no advantage for the expanding schedule. [→ Pyc 2007](#pyc-2007)
@@ -34,7 +33,7 @@ sources:
 
 ### Pyc 2007
 
-Pyc, M. A., & Rawson, K. A. (2007). Examining the efficiency of schedules of distributed retrieval practice. Memory & Cognition, 35(8), 1917-1927. https://link.springer.com/article/10.3758/BF03193420
+Pyc, M. A., & Rawson, K. A. (2007). Examining the efficiency of schedules of distributed retrieval practice. Memory & Cognition, 35(8), 1917-1927. https://link.springer.com/article/10.3758/BF03192925
 
 `q2 · i?` · `causal · r2`
 

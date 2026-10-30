@@ -9,10 +9,11 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 1955
+recheck_by: 1958
 sources:
   - id: evans-1955
     resource: "https://doi.org/10.1037/h0042123"
-    title: "Evans, Richard I.; Roney, H. Burr; and McAdams, Walter J. (1955). An Evaluation of the Effectiveness of Instruction and Audience Reaction to Programming an Educational Television Station. Journal of Applied Psychology, 39, 277-79. [doi:10.1037/h0042123](https://doi.org/10.1037/h0042123)"
+    title: "Evans, Richard I.; Roney, H. Burr; and McAdams, Walter J. (1955). An Evaluation of the Effectiveness of Instruction and Audience Reaction to Programming on an Educational Television Station. Journal of Applied Psychology, 39, 277-79. [doi:10.1037/h0042123](https://doi.org/10.1037/h0042123)"
     author: Evans, Richard I.; Roney, H. Burr; and McAdams, Walter J.
     q: 2
     i: "?"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1955 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1955 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1958**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` An audience telephone questionnaire to 384 people indicated 75 percent of set owners watched one program in two weeks from KUHT-TV, and preferences varied by program type. [→ Evans 1955](#evans-1955)
@@ -33,7 +34,7 @@ sources:
 
 ### Evans 1955
 
-Evans, Richard I.; Roney, H. Burr; and McAdams, Walter J. (1955). An Evaluation of the Effectiveness of Instruction and Audience Reaction to Programming an Educational Television Station. Journal of Applied Psychology, 39, 277-79. [doi:10.1037/h0042123](https://doi.org/10.1037/h0042123)
+Evans, Richard I.; Roney, H. Burr; and McAdams, Walter J. (1955). An Evaluation of the Effectiveness of Instruction and Audience Reaction to Programming on an Educational Television Station. Journal of Applied Psychology, 39, 277-79. [doi:10.1037/h0042123](https://doi.org/10.1037/h0042123)
 
 `q2 · i?` · `associational · r1`
 

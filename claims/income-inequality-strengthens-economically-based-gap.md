@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: nele-claes-2024
     resource: "https://doi.org/10.1037/edu0000881"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2` · `i0` negligible
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i0` In Study 2b, the higher income inequality, the stronger the economically based social class test gap; the interaction was not significant in Study 2a unless anxiety was in the model. [→ Nele Claes 2024](#nele-claes-2024)

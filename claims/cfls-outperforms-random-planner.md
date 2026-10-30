@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: stephanie-frost-gord-mccalla-2020
     resource: "https://doi.org/10.1007/s40593-020-00221-3"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In the simulation comparison, the CFLS planner outperformed the Random planner on both coverage and expertise for all but one b,f setting; the exception was b=2, f=1 for low aptitude learners where it was marginally worse. [→ Stephanie Frost · Gord McCalla 2020](#stephanie-frost-gord-mccalla-2020)

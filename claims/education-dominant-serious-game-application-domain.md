@@ -45,6 +45,6 @@ Classification of application domains across more than ninety evaluated games in
 
 
 ## Related Claims
-- [Computer games are the most frequent serious game type evaluated (58% of primary studies)](computer-games-most-frequent-evaluated-type.md) — related
+- Computer games are the most frequent serious game type evaluated (58% of primary studies) — related
 - [Most reviewed games target cultural tourism and augmented visit contexts, with few designed for classrooms or professional training](tourism-dominant-context-heritage-games.md) — related
-- [60% of evaluated educational serious games were assessed in universities versus 40% in primary or secondary schools](educational-serious-games-majority-universities.md) — related
+- 60% of evaluated educational serious games were assessed in universities versus 40% in primary or secondary schools — related

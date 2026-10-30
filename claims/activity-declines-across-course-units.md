@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: slaviša-radović-2025
     resource: "https://doi.org/10.1007/s11423-025-10528-4"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Reading, quiz, self-assessment, and expert corrected task activity declined from Unit 1 to Unit 4 in all three groups, with Mastering students more active throughout. [→ Slaviša Radović 2025](#slavisa-radovic-2025)

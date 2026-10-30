@@ -42,7 +42,8 @@ Dual Empowerment is a developmental instructional design framework in which "Dua
 - [Lo Str Bidirectional Asymmetrical Coupling](../claims/lo-str-bidirectional-asymmetrical-coupling.md) [+M]
 
 ## Related Designs
-- 
+
+- [A three-stage design framework for model-based support in VR simulation-based teacher education](model-based-support-design-framework-vr-teacher-ed.md)
 
 ## Examples
 -

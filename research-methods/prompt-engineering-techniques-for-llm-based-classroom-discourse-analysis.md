@@ -26,7 +26,8 @@ The article describes a framework of prompting techniques — Vanilla, Chain of 
 - [Few-shot chain-of-thought prompting outperforms zero-shot prompting for detecting teacher questions](../claims/few-shot-cot-outperforms-zero-shot-question-detection.md) [+M]
 
 ## Related Research Methods
--
+
+- [Automated analysis of argumentative discourse for diagnostic learning analytics](automated-analysis-of-argumentative-discourse-for-diagnostic-learning-analytics.md)
 
 ## Key Sources
 - Lehesvuori, S., Urrutia, F., Heilala, V., Araya, R., & Hämäläinen, R. (2026). Discovering technology-aided possibilities for automatic analysis of science teacher questions. Education Tech Research Dev. https://doi.org/10.1007/s11423-025-10545-3

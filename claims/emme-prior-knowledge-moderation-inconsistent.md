@@ -45,7 +45,7 @@ Review synthesis of relative frequencies across included experiments; the review
 
 
 ## Related Claims
-- [EMME study designs vary widely: most experiments added information, used dynamic scan-path visualizations, and over half did not report how eye movement data were processed](emme-design-heterogeneity.md) — related
+- EMME study designs vary widely: most experiments added information, used dynamic scan-path visualizations, and over half did not report how eye movement data were processed — related
 - [Gaze outcome measures showed the highest relative rates of positive EMME effects among the outcome categories reviewed](emme-gaze-outcomes-highest-positive-rates.md) — related
 - [Most EMME experiments that measured immediate learning scores reported at least one positive effect of gaze visualization on immediate learning](emme-positive-immediate-learning-effects.md) — related
 - [Learners with high prior knowledge benefit more from segmenting in retention performance than learners with no or low prior knowledge](prior-knowledge-moderates-segmenting-retention.md) — related

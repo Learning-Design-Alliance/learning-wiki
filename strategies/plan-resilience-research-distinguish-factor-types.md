@@ -15,7 +15,7 @@ sources:
 # Plan and conduct resilience-in-literacy research using designs and analyses that distinguish promotive, protective, and skill-enhancing factors
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Based on its findings, the review states implications for educational psychology: "we state implications for the field of educational psychology in planning and conducting research into resilience in literacy". Researchers should use adequately powered samples and designs and statistical approaches that can separate promotive, protective, and skill-enhancing factors rather than overinterpreting evidence as protective.
@@ -36,10 +36,8 @@ Based on its findings, the review states implications for educational psychology
 
 ## Claims
 
-- [Study designs and statistical analyses in literacy resilience research are often insufficient to distinguish promotive, protective, and skill-enhancing factors](../claims/designs-insufficient-distinguish-resilience-factor-types.md) [+W]
 - [Evidence for promotive and skill-enhancing factors in literacy resilience is underrecognized while the same evidence is overinterpreted towards protective effects](../claims/overinterpretation-towards-protective-effects.md) [+W]
 - [Empirical evidence for protective factors in word-reading resilience is sparse and based on only a few studies](../claims/protective-factor-evidence-sparse-word-reading.md) [+W]
-- [Most studies of literacy resilience have (very) small sample sizes and low statistical power to find relevant effects](../claims/literacy-resilience-studies-low-statistical-power.md) [+W]
 
 ## Related Strategies
 

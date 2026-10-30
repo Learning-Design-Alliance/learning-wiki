@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: thomas-m-cavanagh-2023
     resource: "https://doi.org/10.1007/s11423-022-10181-1"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q1`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The authors argue CTML needs to clarify the relationship between working memory capacity and duration, incorporate retrieval as a key learning process, and specify the relative impact of principles on selection versus organization processes. [→ Thomas M. Cavanagh 2023](#thomas-m-cavanagh-2023)

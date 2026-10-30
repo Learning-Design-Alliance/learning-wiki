@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: kenny-yu-2024
     resource: "https://doi.org/10.1038/s41539-024-00287-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Adding memory-based perceptual traces to the perceptual distance assumptions in the generalization model did not improve model performance, despite the perception–memory disjunction. [→ Kenny Yu 2024](#kenny-yu-2024)
@@ -45,5 +46,7 @@ The article reports that incorporating perceptual memory data into perceptual di
 
 
 ## Related Claims
+
 - [Most participants' fear generalization aligns with perceptual rather than physical stimulus distances](generalization-aligned-perceptual-distance.md) — related
 - [Perception and perceptual memory diverge over time, creating a disjunction between the two representational systems](perception-memory-disjunction.md) — related
+- [Perception relies on the mean of sensory transformations across stimuli as its prior, and the perceptual prior gains influence over time](perceptual-prior-sensory-mean-kalman.md)

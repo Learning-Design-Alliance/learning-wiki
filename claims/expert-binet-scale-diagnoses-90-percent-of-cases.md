@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1912
+recheck_by: 1915
 sources:
   - id: e-a-doll-1912
     resource: "https://www.jstor.org"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
-> **Currency** · newest study 1912 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1912 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1915**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` In the hands of experts the Binet Scale is the best (though not the only) means of intellectual examination of children and can safely be relied upon to diagnose about 90 per cent of all cases. [→ E. A. Doll 1912](#e-a-doll-1912)

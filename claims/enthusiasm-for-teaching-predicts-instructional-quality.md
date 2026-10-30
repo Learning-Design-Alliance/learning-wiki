@@ -46,4 +46,4 @@ Structural equation modelling on questionnaire data from teachers and their 9th-
 
 ## Related Claims
 - [Enthusiasm for mathematics as a subject matter predicts teachers' self-reports but not students' ratings of instructional behaviour](subject-matter-enthusiasm-self-report-only.md) — reports the opposite
-- [The study assessed enthusiasm and instructional behaviour from both teacher and student perspectives with 323 teachers and their 9th-grade classes](enthusiasm-study-323-teacher-student-multi-informant.md) — related
+- The study assessed enthusiasm and instructional behaviour from both teacher and student perspectives with 323 teachers and their 9th-grade classes — related

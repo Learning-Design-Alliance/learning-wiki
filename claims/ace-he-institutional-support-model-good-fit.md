@@ -51,4 +51,4 @@ CFA on the same survey (n = 1253) tested the institutional support measurement m
 - The three-dimension instructional design competence model fits the empirical data acceptably in CFA — related
 - Both scales showed acceptable-to-good confirmatory factor fit in this sample — related
 - [Confirmatory factor analysis on FICSMath data confirms the 4C/ID Model's four components fit secondary-tertiary mathematics instructional experiences (CFI = 0.907, RMSEA = 0.050)](cfa-confirms-4cid-model-secondary-tertiary-mathematics.md) — related
-- [The hypothesised three-variable structural model fits the survey data well across printed fit indices](dil-sem-model-good-fit.md) — related
+- The hypothesised three-variable structural model fits the survey data well across printed fit indices — related

@@ -45,7 +45,7 @@ SEM analysis of simulated data with the same correlations and sample size (N = 3
 
 
 ## Related Claims
-- [Good fit of the ESDM indicates the PALMA data could have been generated without any prospective effects between achievement and self-concept](esdm-fit-suggests-spurious-prospective-effects.md) — reports the opposite
+- Good fit of the ESDM indicates the PALMA data could have been generated without any prospective effects between achievement and self-concept — reports the opposite
 - [LCSM on the same simulated PALMA-like data shows negative cross-lagged effects, contradicting the reciprocal effects model](lcsm-simulated-palma-negative-effects.md) — reports the opposite
 - [With young primary-school readers, REM support appeared in CLPMs but not RI-CLPMs, motivating tests with older students](ehm-reading-rem-clpm-not-ri-clpm.md) — related
 - [Reanalyses of simulated and PALMA data provide converging support for the extended reciprocal effects model, including an effect of academic self-concept on achievement](reanalyses-converging-support-extended-rem-asc-effect.md) — related
@@ -56,8 +56,8 @@ SEM analysis of simulated data with the same correlations and sample size (N = 3
 - [Validation with simulated TRAIN-like data replicates the divergence: RI-CLPM positive, LCSM negative, ESDM no-direct-effects](train-validation-divergent-model-findings.md) — related
 - [Simulated time-on-task achievement correlations resemble empirical distributions from K-12 classroom studies without any fitting procedure](comsa-time-on-task-matches-empirical.md) — related
 - [EF longitudinally predicts later SRL in children, supporting the notion that EF predicts SRL but not vice versa](ef-predicts-srl-longitudinally.md) — related
-- [The choice of longitudinal statistical model can determine whether reciprocal motivation-achievement relations are found](statistical-model-choice-reciprocal-effects.md) — related
-- [Correcting the wave-1 change-score misspecification in Sorjonen et al.'s LCSM yields a proper solution with positive effects between academic self-concept and achievement](corrected-lcsm-proper-solution-positive-asc-ach-effects.md) — related
+- The choice of longitudinal statistical model can determine whether reciprocal motivation-achievement relations are found — related
+- Correcting the wave-1 change-score misspecification in Sorjonen et al.'s LCSM yields a proper solution with positive effects between academic self-concept and achievement — related
 - [RI-CLPM random-intercept correlations between grades and emotions (median |r| = 0.46) were stronger than the undecomposed CLPM correlations (median |0.34|)](riclpm-vs-clpm-correlation-strength.md) — related
 - [In elementary school, achievement predicts later self-concept of ability but prior self-concept does not significantly predict later achievement when achievement is modeled with both marks and tests integrated](skill-development-model-elementary-helmke-1995.md) — reports the opposite
 - [Prior longitudinal SEM studies of self-concept versus achievement causality show heterogeneous causal predominance, varying with design, self-concept operationalization, domain, and achievement measure](heterogeneous-causal-predominance-prior-studies.md) — a broader claim this one bears on

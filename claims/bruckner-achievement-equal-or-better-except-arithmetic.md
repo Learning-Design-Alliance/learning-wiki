@@ -47,4 +47,4 @@ Teacher-reported comparison from the same two-year free-order classroom experime
 ## Related Claims
 - [Arithmetic work in the Bruckner free-order experiment was distinctly inferior to that of children with the same amount of schooling](bruckner-arithmetic-inferior.md) — related
 - [Freedom of instruction added remarkably to the interest and happiness of children in the Bruckner experiment](bruckner-freedom-increased-interest-happiness.md) — related
-- [Many factors besides method determine arithmetical abilities, so method comparisons must test enough school systems for other factors to equalize, or use controlled procedures](confounding-factors-method-comparisons.md) — related
+- Many factors besides method determine arithmetical abilities, so method comparisons must test enough school systems for other factors to equalize, or use controlled procedures — related

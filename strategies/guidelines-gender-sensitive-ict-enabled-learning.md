@@ -17,7 +17,7 @@ sources:
 # Four guidelines for designing and implementing inclusive, gender-sensitive ICT-enabled learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The review proposes four guidelines mapped to the GAF dimensions: implement ICT-enabled learning "affordably and cost-effectively to ensure girls' access"; design it to be "inclusive and gender-sensitive to improve girls' practice and participation"; use "inclusive and gender-sensitive pedagogies" to facilitate changes in belief and perception, including gender-sensitive teacher education; and embed inclusiveness and gender sensitivity in educational policies. The guidelines direct educators, designers, parents and policymakers.
@@ -44,7 +44,6 @@ The review proposes four guidelines mapped to the GAF dimensions: implement ICT-
 ## Claims
 
 - [Digital game-based learning aligns most with practice/participation and belief/perception dimensions, while mobile-enabled learning leads access to assets](../claims/dgbl-leads-participation-perception-alignment.md) [+W]
-- [Four ICT-enabled learning approaches are used in empirical studies of schoolgirls' learning in Asia, with computer-assisted learning the most common](../claims/four-ict-approaches-schoolgirls-asia.md) [+W]
 - [ICT-enabled learning may change beliefs and perceptions about girls' capacity and ICT's value](../claims/ict-changes-beliefs-perceptions-girls.md) [+W]
 - [ICT-enabled learning improves schoolgirls' access to resources, knowledge, and skills](../claims/ict-improves-girls-access-resources.md) [+W]
 - [ICT-enabled learning improves schoolgirls' practice and participation in learning, with girls sometimes scoring better than boys](../claims/ict-improves-girls-participation.md) [+W]

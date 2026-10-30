@@ -50,6 +50,6 @@ Observational study comparing children with specific language disorder and typic
 - [Lag-sequential Analysis reveals temporal ordering patterns in CSCL interaction that traditional coding-and-counting approaches hide](lag-sequential-analysis-reveals-interaction-ordering.md) — related
 - [Trace data can capture the temporal progress of regulation as learners engage in learning tasks over time](trace-data-capture-temporal-regulation.md) — related
 - Temporal process analysis reveals group- and task-related differences that the frequency accounts did not show, in the interchange of CPS elements over time — a narrower finding that bears on this claim
-- [Verbal-utterance-based methods leave collaboration in groups with asymmetrical interactions, such as young children, unexamined](verbal-methods-exclude-asymmetric-groups.md) — related
-- [Multimodal data collection is increasingly common but analyses rarely align data streams temporally](rare-alignment-of-multimodal-data-streams.md) — related
+- Verbal-utterance-based methods leave collaboration in groups with asymmetrical interactions, such as young children, unexamined — related
+- Multimodal data collection is increasingly common but analyses rarely align data streams temporally — related
 - [Children with developmental language disorder and strong verbal reasoning could partly compensate delays in mathematics at the individual level, though group-level analyses revealed no protective effects (reported by the editors, citing Kleemans et al.)](verbal-reasoning-compensates-math-dld-individual-level.md) — related

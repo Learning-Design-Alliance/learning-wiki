@@ -48,5 +48,5 @@ Longitudinal survey of 1,636 participants from three SMPY cohorts identified bef
 ## Related Claims
 - [Psychological well-being of accelerated high-potential participants was above national probability-sample averages at age 50](accelerated-youth-wellbeing-above-norms.md) — related
 - [In elite STEM graduate students, educational acceleration did not covary with age-50 well-being, with small correlations if anything positive](stem-graduates-acceleration-wellbeing-replication.md) — related
-- [The five well-being measures form a robust unidimensional structure replicating across both studies](wellbeing-measures-unidimensional-structure.md) — related
+- The five well-being measures form a robust unidimensional structure replicating across both studies — related
 - [The null acceleration–well-being relationship in Study 1 holds when SES is controlled in a latent structural equation model](acceleration-wellbeing-null-holds-controlling-ses.md) — related

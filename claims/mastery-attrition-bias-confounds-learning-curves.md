@@ -46,7 +46,7 @@ Analysis in the Attrition Bias section: the article names the "mastery attrition
 
 ## Related Claims
 - [Sensitivity analyses restricting to students assessed in all 15 terms reproduced the full-sample between-group comparisons](sensitivity-15-term-subsample-same-comparisons.md) — related
-- [Causal inference always goes beyond the data, even in randomized experiments, because experimental manipulations may affect other variables that caused the effect](causal-inference-goes-beyond-data-even-in-experiments.md) — a broader claim this one bears on
+- Causal inference always goes beyond the data, even in randomized experiments, because experimental manipulations may affect other variables that caused the effect — a broader claim this one bears on
 - [Media comparison studies produce uninterpretable "no significant difference" findings.](media-comparison-studies-produce-uninterpretable-results.md) — related
-- [COVID-19 school closures caused approximately 70% attrition on the primary outcome, limiting the trial's power to detect effects](covid-attrition-limited-power.md) — related
+- COVID-19 school closures caused approximately 70% attrition on the primary outcome, limiting the trial's power to detect effects — related
 - [Learning-curve plateaus were caused by learners' failure to overcome specific difficulties at critical stages, not by the order in which habits developed](plateaus-caused-by-unovercome-difficulties.md) — related

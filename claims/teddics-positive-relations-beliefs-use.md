@@ -48,4 +48,4 @@ Correlational SEM analysis (Table 4) of the ICILS 2013 teacher sample showed pos
 - [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
 
 ## Related Claims
-- [TEDDICS comprises three factors — accessing, evaluating, and sharing and communicating digital information — best represented by ESEM rather than CFA](teddics-three-factor-esem-structure.md) — related
+- TEDDICS comprises three factors — accessing, evaluating, and sharing and communicating digital information — best represented by ESEM rather than CFA — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: wartenberg-2023
     resource: "https://doi.org/10.1007/s10648-023-09831-4"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i1` small
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q3 i1` Across 14 studies, teachers' job satisfaction correlates negatively with absenteeism (r = −0.18). [→ Wartenberg 2023](#wartenberg-2023)
@@ -48,5 +49,5 @@ Random-effects meta-analysis of 14 studies (N = 10,358) on job satisfaction and 
 - [Teachers' job satisfaction is negatively associated with turnover intentions (pooled r = −0.46)](job-satisfaction-negative-turnover-intentions.md) — related
 - [Teachers' job satisfaction is positively associated with the quality of teacher-student interactions, with the largest pooled correlation for general interactions (r = 0.28)](job-satisfaction-positive-teacher-student-interactions.md) — related
 - [Job satisfaction correlates with performance outcomes for external reports as well as teacher self-reports, though self-report effect sizes are larger](rater-perspective-moderates-job-satisfaction-links.md) — related
-- [Publication year, publication type, and grade level moderate the strength of job satisfaction–performance associations](moderators-of-job-satisfaction-effect-sizes.md) — related
+- Publication year, publication type, and grade level moderate the strength of job satisfaction–performance associations — related
 - [Teachers with high job and workplace satisfaction have less than half the predicted turnover of teachers with low satisfaction (8.0% vs. 22.0%)](job-satisfaction-associated-with-lower-turnover.md) — related

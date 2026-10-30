@@ -17,7 +17,7 @@ sources:
 # In field studies with fixed timelines, complete data collection first but delay data analysis until Phase I review feedback arrives
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 For field studies whose timelines are dictated by implementation partners, the article describes an adaptation of the registered report format: a doctoral researcher conducting a summer-melt text-messaging intervention "waited to conduct data analysis until receiving feedback on her Phase I submission." This preserved the review-before-analysis benefit when launching before editorial approval was impossible, though it risks reviewers demanding substantial methodological changes after data collection.
@@ -38,7 +38,6 @@ For field studies whose timelines are dictated by implementation partners, the a
 
 ## Claims
 
-- [Registered reports were rated higher than typical papers on all nineteen evaluated quality criteria by 353 peer reviewers](../claims/registered-reports-rated-higher-on-nineteen-criteria.md) [+M]
 - [In a four-wave MOOC intervention study, statistically significant first-wave findings failed to replicate in subsequent preregistered waves](../claims/mooc-intervention-first-wave-findings-failed-to-replicate.md) [+M]
 
 ## Related Strategies

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: parras-2024
     resource: "https://doi.org/10.1038/s41539-024-00224-y"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q3 i?` The percentage of conditioned responses rose across successive conditioning sessions, reaching 81% in the final (conditioned) session. [→ Parras 2024](#parras-2024)
@@ -51,3 +52,4 @@ Behavioral measure from the same rabbit conditioning study, recorded as eyelid r
 - [IPn firing decreases in spontaneous and late time windows and increases during CS and CS-US windows as conditioning progresses](ipn-firing-window-dependent-changes-across-learning.md) — related
 - [IPn neurons show long-lasting error responses early in learning that are significantly reduced by the halfway session, with predictive US responses emerging in the final session](ipn-long-lasting-error-responses-reduced-across-conditioning.md) — related
 - [Classical conditioning shifts the strongest IPn-EMG cross-correlations from negative to positive lags, improving IPn-eyelid synchrony](ipn-emg-cross-correlation-lag-shifts-positive.md)
+- [Practice increases observers' ability to reproduce briefly exposed visual material, with final-over-initial gains ranging from 6% to 44% (average 22%).](practice-improves-visual-reproduction-6-44-percent.md)

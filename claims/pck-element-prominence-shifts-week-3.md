@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: gretchen-geng-junyu-chen-2026
     resource: "https://doi.org/10.1007/s11423-026-10602-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Curriculum knowledge and subject content knowledge gained prominence from Week 3, student diversity remained a consistent focus throughout, and rural educational contexts shaped PCK from Week 3 onward. [→ Gretchen Geng · Junyu Chen 2026](#gretchen-geng-junyu-chen-2026)

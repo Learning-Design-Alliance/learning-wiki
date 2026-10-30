@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: yuanyuan-hu-2023
     resource: "https://doi.org/10.1007/s40593-022-00310-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The article argues that because prior automated methods used single-label classifiers, they risked inheriting the subjectivity of the manual categorisation work done in the training data preparation stage. [→ Yuanyuan Hu 2023](#yuanyuan-hu-2023)

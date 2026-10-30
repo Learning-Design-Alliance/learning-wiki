@@ -45,9 +45,9 @@ Methodological mapping of the review's 134-paper corpus. The review reports the 
 
 
 ## Related Claims
-- [Most RSE studies do not report the teaching approach used](rse-approach-underreported.md) — related
-- [Growth in RSE research has been accompanied by divergence rather than convergence of content](rse-content-divergence.md) — related
-- [Most RSE studies in the review corpus did not define their central term](rse-studies-lack-definitions.md) — related
-- [Over a third of RSE studies report no outcomes, and student outcome measurement prioritises knowledge](rse-outcomes-knowledge-prioritised.md) — related
-- [Most empirical studies adopted a quantitative research approach](most-studies-quantitative-approach.md) — related
-- [Quantitative questionnaire methodology dominates digital competence research in higher education](slr-digital-competence-quantitative-methods-dominant.md) — reports the opposite
+- Most RSE studies do not report the teaching approach used — related
+- Growth in RSE research has been accompanied by divergence rather than convergence of content — related
+- Most RSE studies in the review corpus did not define their central term — related
+- Over a third of RSE studies report no outcomes, and student outcome measurement prioritises knowledge — related
+- Most empirical studies adopted a quantitative research approach — related
+- Quantitative questionnaire methodology dominates digital competence research in higher education — reports the opposite

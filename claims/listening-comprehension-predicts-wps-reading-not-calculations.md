@@ -51,7 +51,7 @@ From the final pruned path analysis mediation model (N = 370 first graders follo
 - [Oral Language](../learner-variables/oral-language.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [The final pruned mediation model fits the data excellently and accounts for 58.0%, 62.2%, and 53.2% of variance in later calculations, word-problem solving, and reading](final-model-fit-variance-explained.md) — related
+- The final pruned mediation model fits the data excellently and accounts for 58.0%, 62.2%, and 53.2% of variance in later calculations, word-problem solving, and reading — related
 - [Numerical cognition assessed at end of first grade statistically mediates associations between early processing speed, working memory, calculation skill, word-problem solving, and attentive behavior and later calculations, word-problem solving, and reading](numerical-cognition-mediation-academic-outcomes.md) — reports the opposite
 - [End-of-first-grade numerical cognition directly predicts later calculations, word-problem solving, and word reading, with the strongest relation to calculations](numerical-cognition-predicts-all-three-outcomes.md) — related
 - [Crossover effects: early reading fluency predicts later mathematics outcomes more strongly than early mathematics skills predict later reading](crossover-effects-reading-mathematics.md) — related

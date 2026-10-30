@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1918
+recheck_by: 1921
 sources:
   - id: herring-1918
     resource: "https://doi.org/10.1037/h0075736"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1921**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Graphing one pupil (L. S., age 11, class 6A) against her class in P. E. units of difficulty suggested she needed improvement in recording, comparison, and sufficiency, seemed especially good in feasibility, and was about average in other abilities. [→ Herring 1918](#herring-1918)

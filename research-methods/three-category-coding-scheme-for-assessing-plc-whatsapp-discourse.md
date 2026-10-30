@@ -27,7 +27,8 @@ The article synthesizes a coding scheme for assessing PLC discourse, built on te
 - [Sharing of teaching materials became a norm in the L-PLC during COVID-19, rising significantly in pandemic cohorts and remaining steady thereafter](../claims/sharing-became-norm-pandemic-cohorts.md) [+M]
 
 ## Related Research Methods
--
+
+- [Four-category coding scheme for peer assessment designs](four-category-coding-scheme-for-peer-assessment-designs.md)
 
 ## Key Sources
 - Zahava Scherz · Asaf Salman · Giora Alexandron · Yael Shwartz. (2023). WhatsApp Discourse Throughout COVID-19: Towards Computerized Evaluation of the Development of a STEM Teachers Professional Learning Community. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-022-00320-3

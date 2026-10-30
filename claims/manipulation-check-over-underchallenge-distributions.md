@@ -47,5 +47,5 @@ Table S7 (Study 2) reports the distribution of overchallenge and underchallenge 
 ## Related Claims
 - [Abundance hypothesis: state test boredom relates negatively to performance on the difficult test part but not the easy part](abundance-hypothesis-overchallenge-boredom-performance.md) — related
 - [Test boredom relates positively to over- and underchallenge and negatively to intrinsic and extrinsic value](test-boredom-antecedents-control-value.md) — related
-- [The number of manipulation trials showed little variation across participants and was deliberately not statistically controlled](manipulation-trials-not-controlled-little-variation.md) — related
+- The number of manipulation trials showed little variation across participants and was deliberately not statistically controlled — related
 - [The manipulation worked as intended: I-PS students largely succeeded on the problem-solving sheets while PS-I students largely failed](ps-i-manipulation-check-problem-solving-sheets.md) — related

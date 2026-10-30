@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1915
+recheck_by: 1918
 sources:
   - id: kelley-1915
     resource: "https://www.jstor.org/journal/jeducpsych"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2` · `i3` large
-> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1918**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i3` Scott proposed checking vocational test results by testing employees of known ability and by correlating applicant test standing with post-employment success; correlations as high as .90 were obtained by the former method. [→ Kelley 1915](#kelley-1915)

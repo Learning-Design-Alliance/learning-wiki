@@ -48,7 +48,7 @@ Instrument development study reporting the validation outcome: the authors state
 ## Related Claims
 - [Behavioural, cognitive and conceptual-to-consequential subscales of the QCGE-SAS show acceptable reliability, while the social engagement subscale shows unacceptable internal consistency](qcge-sas-social-subscale-unacceptable-reliability.md) — related
 - [The TQsrl and SQsrl questionnaires are validated instruments measuring SRL sub-processes with emphasis on reflection](t-sqsrl-validated-srl-questionnaires.md) — related
-- [A confirmatory factor analysis on a new sample confirms the three-factor structure with acceptable model fit and moderate convergent validity](cfa-confirms-three-factor-cognitive-load-structure.md) — related
+- A confirmatory factor analysis on a new sample confirms the three-factor structure with acceptable model fit and moderate convergent validity — related
 - [The post-interaction reflection instrument showed satisfactory internal consistency (Cronbach's α = .863)](ai-reflection-instrument-alpha-863.md) — related
 - [The MAKQ dimensions show acceptable internal consistency across both studies (alphas 0.77-0.93)](makq-reliability-alphas.md) — related
 - [TAILS dimensions show high internal consistency, with Cronbach's alpha values above 0.90](tails-high-internal-consistency.md) — related

@@ -56,4 +56,4 @@ Theoretical argument identifying the research gap the paper addresses. The autho
 - [Theories of school belonging situate causes at the individual level and neglect the structural and compositional features of schools, which remain under-theorized](structural-compositional-school-features-neglected.md) — related
 - [Human-GAI paradigms are enacted patterns of engagement rather than fixed individual traits](gai-paradigms-enacted-patterns-not-fixed-traits.md) — related
 - [Assessment design functions as a pedagogical condition shaping how students engage with GenAI during learning](assessment-design-shapes-genai-engagement.md) — a narrower finding that bears on this claim
-- [Current educational paradigms based on physicalism and linearity cannot adequately understand educational reality](physicalist-paradigms-blind-education-research.md) — related
+- Current educational paradigms based on physicalism and linearity cannot adequately understand educational reality — related

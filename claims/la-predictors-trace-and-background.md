@@ -65,4 +65,4 @@ Synthesis of background-variable predictors across the key publications, citing 
 
 ## Related Claims
 - [In association-rule mining of survey data from 530 college students in online courses, goal setting, environment structuring and time management were the strategies most often associated with lower digital distraction](srl-strategies-associated-lower-digital-distraction.md) — related
-- [None of the 46 key publications on learning analytics for study success were rated as strong research rigour (11 weak; 35 moderate)](la-studies-rigour-none-strong.md) — related
+- None of the 46 key publications on learning analytics for study success were rated as strong research rigour (11 weak; 35 moderate) — related

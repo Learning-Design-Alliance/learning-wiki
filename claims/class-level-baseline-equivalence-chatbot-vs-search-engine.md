@@ -53,7 +53,7 @@ Quasi-experimental baseline check comparing the two intact classes on previous-s
 - [Before intervention, treatment and control kindergartners did not differ on age, demographics, vocabulary, phoneme segmentation, letter knowledge, or reading](pretest-equivalence-phoneme-awareness-kindergarten-trial.md) — related
 - Random assignment produced treatment and control groups balanced in mathematical preparedness before the intervention — related
 - [No significant pre-test difference existed between the two groups' entry listening knowledge](no-pretest-listening-difference-groups.md) — related
-- [Randomization does not ensure baseline equivalence in small-sample motor learning studies, so unbalanced pre-tests can overstate random-practice benefits](randomization-no-baseline-equivalence.md) — related
-- [Baseline equivalence across stimulation groups rules out prior memory-ability differences as an explanation for post-intervention effects](tacs-baseline-equivalence-pre-intervention-recall.md) — related
-- [The three media conditions did not differ significantly in prior knowledge or previous grades, supporting baseline equivalence](conditions-equivalent-prior-knowledge-grades-leaf-morphology-study.md) — related
-- [Prior knowledge and ability levels controlled via semester evaluation score](prior-knowledge-ability-controlled-semester-score.md) — related
+- Randomization does not ensure baseline equivalence in small-sample motor learning studies, so unbalanced pre-tests can overstate random-practice benefits — related
+- Baseline equivalence across stimulation groups rules out prior memory-ability differences as an explanation for post-intervention effects — related
+- The three media conditions did not differ significantly in prior knowledge or previous grades, supporting baseline equivalence — related
+- Prior knowledge and ability levels controlled via semester evaluation score — related

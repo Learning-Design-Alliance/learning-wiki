@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: gordon-2025
     resource: "https://osf.io/j48k5/?view_only=8b6423082746439abb4106526e953aaf"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Adolescents used online spaces as sanctuaries for self-discovery and support, with anonymity creating judgement-free spaces for authentic self-expression. [→ Gordon 2025](#gordon-2025)

@@ -12,7 +12,7 @@ generated:
 # EEG-based continuous online cognitive-load measurement
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Antonenko et al. (2010) describe the possibilities offered by "electroencephalography (EEG) to provide a continuous and objective measure of cognitive load". Unlike offline mental-effort ratings, online process measures indicate cognitive load at specific points in time, allowing hypotheses to be tested in more detail. The element identifies which EEG components can assess load and reviews EEG studies of learning from hypertext and multimedia materials.
@@ -23,8 +23,13 @@ Antonenko et al. (2010) describe the possibilities offered by "electroencephalog
 
 ### Claims
 
+- [Studies collecting both subjective and objective effort measures reveal dissociations between the two types of measures](../claims/dissociations-between-subjective-and-objective-effort-measures.md) [+W]
+
 ## Related Research Methods
--
+
+- [Portable classroom EEG for continuous attention measurement](portable-classroom-eeg-for-continuous-attention-measurement.md)
+- [Longitudinal multi-task, multi-stage EEG learning-monitoring framework](longitudinal-multi-task-multi-stage-eeg-learning-monitoring-framework.md)
+- [Non-disturbing engagement monitoring via game-play interaction logging and physiological sensing](non-disturbing-engagement-monitoring-via-game-play-interaction-logging-and-physiological-s.md)
 
 ## Key Sources
 - Tamara van Gog & Fred Paas & John Sweller. (2010). Cognitive Load Theory: Advances in Research on Worked Examples, Animations, and Cognitive Load Measurement. Educ Psychol Rev (2010) 22:375–378. https://doi.org/10.1007/s10648-010-9145-4

@@ -13,7 +13,7 @@ generated:
 # The Hidden Village
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The Hidden Village is a motion-capture visual-novel geometry game developed for high school students in which learners use physical poses and the Conjecture Builder to explore and prove or disprove geometry conjectures.
@@ -23,6 +23,8 @@ The Hidden Village is a motion-capture visual-novel geometry game developed for 
 - **The Hidden Village motion capture geometry game with Conjecture Builder**: The Hidden Village is a motion capture video game in the visual novel genre where high school students crash-land on an alien planet and perform arm motions captured by a Kinect camera to make poses matching geometry conjectures they must prove true or false. The Conjecture Builder feature "allows the students to determine how different physical motions mighty correspond to geometry ideas" by creating and programming their own arm motions. (Walkington et al. (2024))
 
 ### Claims
+
+- [In the motion capture game The Hidden Village, pose creation spurred gesturally embodied argumentation expressed more in gesture than in precise mathematical speech](../claims/thv-gesturally-embodied-argumentation.md) [+W]
 
 ## Related Products and Programmes
 -

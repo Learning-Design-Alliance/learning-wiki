@@ -17,7 +17,7 @@ sources:
 # Use formal computational modelling to specify dynamic causal processes in motivation theories
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that motivation researchers develop or refine theories using formal (computational) modelling, which "requires that theories specify the precise interrelationships between variables through mathematical expressions", forcing precise thinking about causal mechanisms and enabling validation against empirical data. It distinguishes computational modelling (translating theory into computational terms) from statistical modelling (primarily empirical validation), notes dynamic structural equation modelling makes this easier for applied researchers, and points to dynamic systems approaches for nonlinear interdependence over time.
@@ -39,10 +39,7 @@ The article recommends that motivation researchers develop or refine theories us
 
 ## Claims
 
-- [The constellation of dominant motivation theories in educational psychology has changed very little over recent decades](../claims/motivation-theory-constellation-stagnant-decades.md) [+W]
-- [Empirical tests of motivation theories tend to be simple, obvious tests of statistical relationships between constructs and their antecedents and outcomes, making supporting evidence easy to obtain](../claims/motivation-theory-tests-less-informative.md) [+W]
 - [The meaning of theoretical arrows (causal vs predictive, timescale, functional form, magnitude) is unclear, and cross-lagged effect signs can change with assessment intervals](../claims/statistical-convenience-obscures-theory-specification.md) [+W]
-- [Motivation theories underspecify causal mechanisms, so empirical findings on mediation cannot refute or challenge them](../claims/underspecified-mechanisms-immune-to-refutation.md) [+W]
 
 ## Related Strategies
 

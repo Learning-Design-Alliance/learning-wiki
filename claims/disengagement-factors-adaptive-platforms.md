@@ -63,6 +63,6 @@ The review reports, citing included studies, that W-Pal lesson activity "decreas
 - [Telegram-based chatbot use declined after initial novelty, with platform friction cited as a barrier](telegram-chatbot-use-declined-novelty-platform-friction.md) — a narrower finding that bears on this claim
 - [Teachers link low motivation and buy-in to middle-school developmental constraints, peer norms, and prior negative experiences with math or i-Ready](motivation-buy-in-theme-persistence.md) — related
 - [Affective states shifted over tutor usage: confusion decreased while engaged concentration and boredom increased](affect-shifts-over-tutor-usage.md) — related
-- [Data and experiment challenges include scarcity, validity, and arrangement](data-experiment-challenges-srl-recommenders.md) — related
+- Data and experiment challenges include scarcity, validity, and arrangement — related
 - [Behavior and contribution quality are shaped by platform incentives and features rather than self-reported motivations](platform-features-shape-behavior-and-quality.md) — related
 - [Some teachers declined to use the VCL citing organisational difficulties and curriculum fit](teachers-declined-vcl-organisational-curriculum.md) — related

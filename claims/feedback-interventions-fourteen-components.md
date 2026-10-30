@@ -65,4 +65,4 @@ The review reports, citing Hovardas et al. (2014), limitations of peer-assessmen
 
 ## Related Claims
 - [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](reflective-practice-evidence-mixed-in-professional-education.md) — related
-- [Research on learners' proactive recipience of feedback is concentrated in Higher Education and relies mainly on self-report surveys rather than behavioral measures](recipience-literature-he-survey-bias.md) — related
+- Research on learners' proactive recipience of feedback is concentrated in Higher Education and relies mainly on self-report surveys rather than behavioral measures — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1920
+recheck_by: 1923
 sources:
   - id: pressey-1920
     resource: "https://eric.ed.gov/?q=Two+Important+Points+with+Regard+to+Age-Grade+Tables"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1920 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1920 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1923**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Children in the first grade of City C are nearly six months older and children in grade 4 over eight months older than their counterparts in City F, per the median-age analysis. [→ Pressey 1920](#pressey-1920)

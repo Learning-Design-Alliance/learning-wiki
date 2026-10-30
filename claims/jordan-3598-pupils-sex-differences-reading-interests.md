@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1921
+recheck_by: 1926
 sources:
   - id: new-publications-1921
     resource: "https://psycnet.apa.org/journals/edu"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
-> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1926**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The reading interests of boys and girls are far from identical. [→ New Publications 1921](#new-publications-1921)
@@ -48,4 +49,4 @@ The review reports Jordan's questionnaire study of children's reading interests,
 ## Related Claims
 - [Girls show higher reading enjoyment and lower math enjoyment than boys, with no science enjoyment difference, after controlling for achievement, SES, and age](gender-differences-enjoyment-reading-math.md) — related
 - [Findings on gender differences in engagement with adaptive learning platforms are mixed, with some studies showing higher engagement among girls and others among boys](gender-engagement-adaptive-platforms-mixed.md) — related
-- [Objective evidence from observing children's book choices in four public libraries was interrelated with questionnaire results and book sales in the Jordan monograph](jordan-library-observation-corroborates-questionnaires.md) — related
+- Objective evidence from observing children's book choices in four public libraries was interrelated with questionnaire results and book sales in the Jordan monograph — related

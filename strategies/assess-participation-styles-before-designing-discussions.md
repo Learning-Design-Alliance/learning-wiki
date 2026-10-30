@@ -17,7 +17,7 @@ sources:
 # Administer the participation style scale before organizing online discussion environments to tailor facilitation to learner styles
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends using the scale diagnostically before discussion design. The authors state: "Instructors and researchers can determine learners' participation styles before organizing discussion environments, and learners who think and gain awareness about their own participation styles can manage their discussion and learning processes more effectively." The scale's Why and How dimensions can be applied separately or together, with 5-point Likert scoring from 0 (not suitable for me at all) to 4 (very suitable for me).
@@ -41,7 +41,6 @@ The article recommends using the scale diagnostically before discussion design. 
 
 ## Claims
 
-- [Confirmatory factor analysis supports a second-level participation style model with four combined styles and acceptable fit indices](../claims/psss-cfa-four-styles-confirmed.md) [+W]
 - [The scale's internal consistency is acceptable, with Cronbach's alpha of 0.89 for the full scale and 0.70–0.85 for its four style factors](../claims/psss-cronbach-alpha-reliability.md) [+W]
 - [Focus group interviews with active and non-participating (lurking) students indicated that reasons for participation form a determinant dimension of online participation](../claims/focus-groups-why-dimension-grounds-scale.md) [+W]
 

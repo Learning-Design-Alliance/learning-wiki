@@ -48,4 +48,4 @@ Cross-sectional survey SEM analysis (AMOS) of 319 students at Shiraz University,
 - [Higher digital competence is positively associated with students' digital informal learning and academic engagement](digital-competence-positive-association-dil-engagement.md) — related
 - [Higher education students' digital competence has a positive effect on their academic performance](digital-competence-positive-effect-academic-performance.md) — related
 - [Higher education students' digital competence has a positive effect on their digital informal learning](digital-competence-positive-effect-dil.md) — related
-- [The hypothesised three-variable structural model fits the survey data well across printed fit indices](dil-sem-model-good-fit.md) — related
+- The hypothesised three-variable structural model fits the survey data well across printed fit indices — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: weak
 newest_evidence: 1919
+recheck_by: 1922
 sources:
   - id: j-c-bell-1919
     resource: "https://psycnet.apa.org/journal/edu"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 1919 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1919 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1922**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Thorndike Scale Alpha, which calls for answers to questions on the paragraph read, eliminates the memory factor but, per Thorndike's own analysis of mistakes, seems to test comprehension of the questions as much as of the passage. [→ J. C. Bell 1919](#j-c-bell-1919)

@@ -31,7 +31,8 @@ A validated survey developed by Swan et al. to measure teaching, social, and cog
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Social Presence Measure (Kreijns et al., 2020)](social-presence-measure-kreijns-et-al-2020.md)
 
 ## Key Sources
 - Honig, C.A. & Salmon, D. (2021). Learner presence matters: A learner-centered exploration into the community of inquiry framework. Online Learning, 25(2), 95-119. https://doi.org/10.24059/olj.v25i2.2237

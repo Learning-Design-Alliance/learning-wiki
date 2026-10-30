@@ -45,7 +45,8 @@ The article proposes a conceptual framework of FC design with three main aspects
 - 
 
 ## Related Designs
-- 
+
+- [A design model for flipped learning in higher education that integrates online and face-to-face sessions](flipped-learning-design-model-higher-education.md)
 
 ## Examples
 -

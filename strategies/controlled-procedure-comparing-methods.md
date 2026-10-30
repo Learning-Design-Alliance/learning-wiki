@@ -17,7 +17,7 @@ sources:
 # Controlled procedure for comparing conflicting teaching methods: equal-ability groups differing only in the factor under test, with uniform conditions and delayed testings
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article sketches a controlled procedure for answering method questions such as how to divide time between oral and written arithmetic. Pupils are divided so that "about equal capabilities exist on each side"; groups agree on differing apportionments of recitation time; after a fixed number of days on a topic such as simple interest by the 6 per cent method, all groups are tested under absolute uniformity of time and directions, with tests printed and administered by one person equally strange or well known to all children. Testings are repeated after about a month and at the end of a year to compare retention.
@@ -40,7 +40,6 @@ The article sketches a controlled procedure for answering method questions such 
 
 ## Claims
 
-- [Many factors besides method determine arithmetical abilities, so method comparisons must test enough school systems for other factors to equalize, or use controlled procedures](../claims/confounding-factors-method-comparisons.md) [+W]
 
 ## Related Strategies
 - 

@@ -46,8 +46,8 @@ CFA model comparisons for Hypothesis 1a in the instructor survey found that only
 
 ## Related Claims
 - [Task goals can be separated from learning goals and normative performance goals, each with approach and avoidance components.](task-goals-separable-from-learning-and-normative-goals.md) — related
-- [Learning avoidance goals are separable from learning approach goals in university instructors.](learning-avoidance-separable-from-learning-approach.md) — related
-- [The ten-goal structure is completely invariant across instructor status groups, but groups differ in mean goal levels.](goal-structure-invariant-status-groups-differ-in-means.md) — related
+- Learning avoidance goals are separable from learning approach goals in university instructors. — related
+- The ten-goal structure is completely invariant across instructor status groups, but groups differ in mean goal levels. — related
 - [Specific goals show distinct directional effects: mastery approach and relational goals predict positive affect, beneficial help attitudes, and teaching quality, while work avoidance and appearance avoidance goals predict poorer outcomes.](specific-goal-directional-effects-on-outcomes.md) — related
 - [Work avoidance and relational goals form goal classes distinct from all other achievement goal classes of university instructors.](work-avoidance-and-relational-goals-distinct-classes.md) — related
-- [Acceptance of individual and collective cheating form two distinct factors in students' responses](individual-collective-cheating-two-factor-distinction.md) — related
+- Acceptance of individual and collective cheating form two distinct factors in students' responses — related

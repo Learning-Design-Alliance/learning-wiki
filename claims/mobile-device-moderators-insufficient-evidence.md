@@ -63,6 +63,6 @@ The review's own moderator analysis plan (age, gender, screen size, dosage, SAMR
 - Study design and post-test timing show only borderline moderating effects in between-subject analyses, not significant in within-subject analyses — related
 - [Program and delivery characteristics moderate SEL effects: implementation quality, duration, skill practice, and delivery agent](sel-effects-moderators-implementation-delivery.md) — related
 - [Exploratory moderation analyses found no significant moderators (age, gender, SES, baseline self-control, baseline life events) of the life events–self-control relation](no-moderators-life-events-self-control.md) — related
-- [Fewer than a quarter of studies evaluated student characteristics, with ability level and gender most explored](student-characteristics-understudied-peer-feedback.md) — related
-- [Future OER research should examine disaggregated data for specific student populations, conduct quantitative meta-analyses, and compare specific OER materials and subject areas.](oer-future-research-directions.md) — related
+- Fewer than a quarter of studies evaluated student characteristics, with ability level and gender most explored — related
+- Future OER research should examine disaggregated data for specific student populations, conduct quantitative meta-analyses, and compare specific OER materials and subject areas. — related
 - [No instruction characteristic (dosage, program availability, literacy domain) significantly moderated effects, though phonics and spelling instruction approached significance descriptively favoring treatments that included them](no-instruction-moderators-phonics-spelling-marginal.md) — related

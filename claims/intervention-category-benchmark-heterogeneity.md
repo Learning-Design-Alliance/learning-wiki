@@ -47,6 +47,6 @@ Subgroup analysis by intervention category in the umbrella dataset; the article 
 ## Related Claims
 - [STEM field benchmarks differ markedly: science shows the largest quartiles and mathematics the smallest](stem-field-benchmark-heterogeneity.md) — related
 - [SRL training effects vary by outcome category, largest for metacognitive strategies (g = .40) and smallest for cognitive strategies (g = .32)](srl-training-effects-by-outcome-category.md) — related
-- [Benchmarks are sensitive to precision and publication bias, but subgroup ordering remains stable and one-per-primary-study quartiles are broadly similar to raw values](benchmark-robustness-subgroup-ordering-stable.md) — related
+- Benchmarks are sensitive to precision and publication bias, but subgroup ordering remains stable and one-per-primary-study quartiles are broadly similar to raw values — related
 - [Raw effect size quartiles for STEM education interventions overall are 0.21, 0.48, and 0.86 at the 25th, 50th, and 75th percentiles](stem-raw-overall-benchmark-quartiles.md) — a broader claim this one bears on
 - [Metacognitive and strategic scaffolding show larger effects in PBL-STEM than conceptual scaffolding](scaffolding-intervention-type-moderator-bma.md) — a narrower finding that bears on this claim

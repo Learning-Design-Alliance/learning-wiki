@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: barbara-b-lockee-2021
     resource: "https://doi.org/10.1007/s11423-020-09836-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` TPD for OBL needs may currently differ because teachers are experiencing appreciably different learning and performance contexts related to the mandated shift in professional practice, so the framework's resulting limitation is potential. [→ Barbara B. Lockee 2021](#barbara-b-lockee-2021)
@@ -51,7 +52,7 @@ The author's interpretive argument (type e) in the abstract: the framework is fl
 - [The rapid shift to OBL affected teacher emotion and motivation, which are connected to teacher learning about OBL](teacher-emotion-motivation-rapid-ob-shift.md) — a narrower finding that bears on this claim
 - [Compared to pre-Covid frameworks, HeDiCom foregrounds online and blended learning design and discipline-specific professional digital literacy](hedicom-novel-content-versus-existing-frameworks.md) — related
 - [The Philipsen et al. framework findings can be applied to guide TPD for recovery and a resilient education system](framework-guidance-recovery-resilient-education.md) — related
-- [The Philipsen et al. framework functions as a model of inquiry for examining TPD for OBL strategies in crisis contexts](framework-model-of-inquiry-crisis-tpd.md) — related
+- The Philipsen et al. framework functions as a model of inquiry for examining TPD for OBL strategies in crisis contexts — related
 - [Seven responses to Philipsen et al.'s study offer valuable ideas and guidelines for developing TPD for OBL in times of crisis](seven-responses-apply-tpd-obl-framework-in-crisis.md) — related
 - [The study's applicability is limited by its optional app positioning and single-course, single-university setting](optional-app-single-course-limitations.md) — related
 - [International organisations UNESCO and ILO identify teacher professional development for online and blended learning as a priority, per this response](unesco-ilo-tpd-online-blended-priority.md) — related

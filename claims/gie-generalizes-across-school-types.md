@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: moderate
 newest_evidence: 2016
+recheck_by: 2021
 sources:
   - id: arens-2016
     resource: "https://doi.org/10.1016/j.learninstruc.2015.11.001"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Constraining the achievement-to-perception paths to be equal across elementary and secondary school groups did not change the CFI value, indicating the path model is generalizable across the two groups. [→ Arens 2016](#arens-2016)
@@ -48,4 +49,4 @@ Multi-group invariance testing (Models 5–8) compared sixth-graders in elementa
 - [Math and language achievement are positively related to students' perceptions of the learning environment in matching domains but negatively related or unrelated across non-matching domains, supporting the GI/E model for perceptions of instructional quality and student-teacher relations.](gie-pattern-perceptions-learning-environment.md) — related
 - [The GI/E pattern of relations between achievement and learning-environment perceptions is more pronounced for math achievement than for language achievement.](stronger-gie-pattern-for-math.md) — related
 - [The achievement goal model's pattern of results holds for both younger and older adult age groups](goal-model-holds-across-age-groups.md) — related
-- [Secondary students' perceptions of instructional quality exhibit a two-level structure](student-perceptions-instructional-quality-two-level-structure.md) — related
+- Secondary students' perceptions of instructional quality exhibit a two-level structure — related

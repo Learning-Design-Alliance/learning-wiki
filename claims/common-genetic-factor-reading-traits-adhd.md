@@ -47,6 +47,6 @@ Genomic SEM analysis of LDSC-derived genetic covariance among five GWAS summary 
 ## Related Claims
 - [Stratified Genomic SEM finds the common factor enriched only in primate-conserved genomic regions](cg-enrichment-primate-conserved-regions.md) — a narrower finding that bears on this claim
 - [The common factor shows significant genetic correlations with six psychiatric disorders and six behavioral traits, strongest with PTSD (rg = -0.47) and educational attainment (rg = 0.74)](cg-genetic-correlations-psychiatric-behavioral.md) — related
-- [The common factor model is specific to reading and ADHD rather than broader psychiatric liability, and stability analyses support the reading-ADHD structure](common-factor-specificity-reading-adhd.md) — related
+- The common factor model is specific to reading and ADHD rather than broader psychiatric liability, and stability analyses support the reading-ADHD structure — related
 - [Nonword reading was excluded from the Genomic SEM model because its genetic correlations with word reading and spelling exceeded 1.0](nonword-reading-excluded-correlation-exceeds-one.md) — related
 - [Literacy, phonological awareness, oral language and PWM abilities share a large proportion of underlying genetic variation in unrelated youth](shared-genetic-factor-literacy-language-pwm.md) — related

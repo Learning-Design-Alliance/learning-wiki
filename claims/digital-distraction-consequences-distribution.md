@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: florence-martin-2025
     resource: "https://doi.org/10.1007/s11423-025-10550-6"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Personal performance issues accounted for about two thirds of coded consequences of digital distraction, including shifting/losing attention (16.67%), multi-tasking (13.33%), and ineffective reading behaviors (13.33%). [→ Florence Martin 2025](#florence-martin-2025)
@@ -65,4 +66,4 @@ The review reports disrupted classroom instruction as 23.33% of coded consequenc
 
 ## Related Claims
 - [Causes of digital distraction in education are distributed across technology distractors (51.95%), personal needs (37.66%), and instructional environment factors (10.39%)](digital-distraction-causes-tpe-distribution.md) — related
-- [Digital distraction research is predominantly quantitative (69.23%), focused on higher education (92.3% of studies), and relies mainly on surveys](digital-distraction-research-methodological-profile.md) — related
+- Digital distraction research is predominantly quantitative (69.23%), focused on higher education (92.3% of studies), and relies mainly on surveys — related

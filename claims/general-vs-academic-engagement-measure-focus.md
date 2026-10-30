@@ -45,5 +45,5 @@ The review's synthesis of the 77 established measures' characteristics reports t
 
 
 ## Related Claims
-- [In ECEC research, engagement is typically defined as behaviors and interactions with the environment while involvement is described as an internal experience](engagement-behavioral-involvement-internal-ecec.md) — related
-- [The field uses 77 unique established engagement measures, yet more than one-third of studies rely on unestablished author-created measures](fragmented-ecec-engagement-measures-77-established.md) — related
+- In ECEC research, engagement is typically defined as behaviors and interactions with the environment while involvement is described as an internal experience — related
+- The field uses 77 unique established engagement measures, yet more than one-third of studies rely on unestablished author-created measures — related

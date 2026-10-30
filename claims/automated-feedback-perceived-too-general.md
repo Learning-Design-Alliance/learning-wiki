@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: van-der-schaaf-2016
     resource: "https://doi.org/10.1007/s11423-016-9496-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In the same evaluation, students reported a lack of personal response and found the automated feedback too general, indicating a need for adjustments to feedback messages, navigation and graphic design. [→ van der Schaaf 2016](#van-der-schaaf-2016)

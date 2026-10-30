@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: kohen-vacs-2025
     resource: "https://doi.org/10.1007/s40593-025-00496-4"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i3` Students reported a significantly strong intention to use GenAI in future programming contexts (d = 1.07), the highest-rated perception dimension. [→ Kohen-Vacs 2025](#kohen-vacs-2025)

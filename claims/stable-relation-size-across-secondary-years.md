@@ -52,4 +52,4 @@ Analyses across 5 annual measurement waves covering Grades 5 to 9 with German se
 - [Cross-lagged relations among self-concept and value constructs remain stable when controlling for domain-specific achievement measured by school grades](relations-stable-controlling-school-grades.md) — related
 - [In math and English, students' prior academic self-concept positively predicts their later intrinsic value and attainment value across secondary school](self-concept-predicts-later-value-math-english.md) — related
 - [In German, students' prior intrinsic value and attainment value positively predict their later academic self-concept](value-predicts-later-self-concept-german.md) — related
-- [Expectancy-value theory research previously neglected value-facet differentiation, long time spans with multiple waves, and domain-specific patterns](evt-research-gaps-value-facets-waves-domains.md) — related
+- Expectancy-value theory research previously neglected value-facet differentiation, long time spans with multiple waves, and domain-specific patterns — related

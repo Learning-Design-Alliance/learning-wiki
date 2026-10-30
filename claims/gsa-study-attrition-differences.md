@@ -50,4 +50,4 @@ Attrition analysis comparing retained versus lost participants in the two-wave G
 - [More frequent immigration discussion predicts increased hope for immigrant-origin GSA members but not non-immigrant-origin members](immigration-discussion-hope-immigrant-origin-only.md) — related
 - [Discussing immigration more frequently than fellow GSA members predicts increased perceived peer validation by year's end](immigration-discussion-in-gsas-predicts-peer-validation.md) — related
 - [Longitudinal subject attrition produces systematic baseline differences among continuing, dropout, and non-participating students](longitudinal-attrition-systematic-baseline-differences.md) — related
-- [Participants who dropped out of the four-wave study reported more peer victimization at the first time point than those who participated at all time points](attrition-higher-peer-victimization.md) — related
+- Participants who dropped out of the four-wave study reported more peer victimization at the first time point than those who participated at all time points — related

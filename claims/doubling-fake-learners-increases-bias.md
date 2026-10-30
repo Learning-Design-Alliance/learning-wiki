@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2019
+recheck_by: 2022
 sources:
   - id: alexandron-2019
     resource: "https://doi.org/10.1007/s40593-019-00183-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In the 'future projection' simulation duplicating fake-learner data, the effect on Analysis 1A was significant, while the effect on the Tetrad analysis was incremental (same edges, slight weight changes). [→ Alexandron 2019](#alexandron-2019)
@@ -49,5 +50,4 @@ The 'future projection' simulation duplicated fake-learner data to increase thei
 - [Removing fake learners changed the Tetrad causal graph: the links watching → quizScore and reading → IRT disappeared.](fake-learners-change-tetrad-causal-graph.md) — related
 - [Fake learners solved exercises significantly faster than true learners and showed higher weekly improvement, but did not differ significantly on grade, ability, or CFA.](fake-learners-faster-and-higher-weekly-improvement.md)
 - [Fake learners spent significantly less time on each type of instructional resource than true learners in the MITx 8.MReVx MOOC.](fake-learners-less-time-on-instructional-resources.md)
-- [In the Champaign et al. replication, removing fake learners moved three correlations (Ability vs. Homework Time, Ability vs. Reading Time, Weekly Improvement vs. Homework Time) in the positive direction, but no correlation changed qualitatively.](fake-learners-shift-resource-skill-correlations-positive.md)
 - [Fake learners attempted a smaller proportion of assessment items than true learners, with the smallest gap on homework items.](fake-learners-attempt-fewer-items.md)

@@ -27,6 +27,7 @@ The article distinguishes disturbing methods (questionnaires interrupting game-p
 ## Related Research Methods
 
 - [ToTCompute mechanism for automatic computation of task-dependent TimeOnTask engagement thresholds](totcompute-mechanism-for-automatic-computation-of-task-dependent-timeontask-engagement-thr.md)
+- [EEG-based continuous online cognitive-load measurement](eeg-based-continuous-online-cognitive-load-measurement.md)
 
 ## Key Sources
 - Ghergulescu, I. & Muntean, C. H. (2016). ToTCompute: A Novel EEG-Based TimeOnTask Threshold Computation Mechanism for Engagement Modelling and Monitoring. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-016-0111-2

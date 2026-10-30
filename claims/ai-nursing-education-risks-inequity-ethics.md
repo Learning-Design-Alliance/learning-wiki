@@ -59,4 +59,4 @@ The review's thematic synthesis of 28 studies concludes that "Common risks inclu
 - [Ethics, privacy, bias, over-reliance, accuracy, usability and cost are key challenges AI use poses for learner satisfaction and engagement](ai-challenges-engagement-satisfaction.md) — related
 - [AI integration in online learning raises interconnected challenges of academic integrity, equity and bias, ethics and privacy, and institutional policy gaps](ai-online-learning-challenges-integrity-equity-privacy-policy.md) — related
 - [Persistent research gaps in AI-integrated business education concern curriculum coherence, educator readiness, and assessment validity](persistent-gaps-ai-business-education.md) — related
-- [No included ITS study considered AI ethics, and the review calls for longer interventions, larger and more diverse samples, and ethical investigation](its-research-gaps-ethics-and-design.md) — related
+- No included ITS study considered AI ethics, and the review calls for longer interventions, larger and more diverse samples, and ethical investigation — related

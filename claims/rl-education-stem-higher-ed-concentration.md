@@ -54,5 +54,5 @@ Descriptive analysis of educational contexts across the 89 included papers (Tabl
 - [Technology disciplines, especially Computer Science and Data Science, lead contributions to AI literacy across TIECD dimensions, while Design (AILE 5.1) is underrepresented across all STEAM clusters](technology-disciplines-dominate-ai-literacy-design-underrepresented.md) — related
 - [Research on generative AI in secondary STEM education is concentrated in the Global North, with 73% of affiliations and the United States accounting for 30% of publications](global-north-concentration-generative-ai-stem-research.md) — related
 - [AI-STEM research concentrated in higher education, technology and science content, lecture-based instruction, and face-to-face contexts](ai-stem-distribution-higher-ed-lecture-face-to-face.md) — a broader claim this one bears on
-- [The evidence base is dominated by US studies and quantitative designs, with sample sizes ranging from one teacher to 53 schools and 1,323 teachers](descriptive-overview-51-studies.md) — related
-- [ITS evaluations in K-12 predominantly use short quasi-experimental designs concentrated in STEM, raising novelty-effect concerns](its-k12-design-landscape-novelty.md) — related
+- The evidence base is dominated by US studies and quantitative designs, with sample sizes ranging from one teacher to 53 schools and 1,323 teachers — related
+- ITS evaluations in K-12 predominantly use short quasi-experimental designs concentrated in STEM, raising novelty-effect concerns — related

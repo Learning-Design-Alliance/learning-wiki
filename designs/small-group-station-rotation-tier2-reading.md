@@ -49,7 +49,9 @@ The program organizes intervention as rotation of small groups of four students 
 - [Response to Intervention](../strategies/response-to-intervention.md): the programme is a Tier 2 intervention
 
 ## Related Designs
+
 - [Scholastic RISE and RISE Up](../products/scholastic-rise-and-rise-up.md) — the programme whose delivery model this is
+- [Tiered reading delivery pattern: 90 minutes whole-group core plus 30 minutes small-group Tier 2 for all struggling readers](tier1-tier2-reading-time-allocation-pattern.md)
 
 ## Examples
 -

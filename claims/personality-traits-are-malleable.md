@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: weak
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: hayley-k-jach-2023
     resource: "https://doi.org/10.1007/s10648-023-09807-4"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Longitudinal studies document personality development over the lifespan, and a meta-analysis of 207 studies found robust neuroticism reductions after psychotherapy and observable conscientiousness increases. [→ Hayley K. Jach 2023](#hayley-k-jach-2023)
@@ -49,4 +50,4 @@ The review reports, citing Roberts et al. (2017), a meta-analysis of 207 studies
 
 ## Related Claims
 - [Behavior activation interventions show a dose-response pattern — completing more conscientiousness challenges produced larger increases — but one behavior activation trial found no significant change](behavior-activation-dose-response-mixed-effectiveness.md) — a narrower finding that bears on this claim
-- [Funnel plot asymmetry for openness, extraversion, and neuroticism appears attributable to reasons other than publication bias](funnel-asymmetry-not-publication-bias.md) — related
+- Funnel plot asymmetry for openness, extraversion, and neuroticism appears attributable to reasons other than publication bias — related

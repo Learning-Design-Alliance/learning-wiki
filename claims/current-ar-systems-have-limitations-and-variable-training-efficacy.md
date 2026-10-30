@@ -9,6 +9,7 @@ generated:
   at: 2026-10-30
 evidence_strength: weak
 newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: pooya-soltani-2020
     resource: "https://doi.org/10.1016/j.compedu.2020.103923"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The review reports limitations of current AR systems and examines their efficacy in training. [→ Pooya Soltani 2020](#pooya-soltani-2020)

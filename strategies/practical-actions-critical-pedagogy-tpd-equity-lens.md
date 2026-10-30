@@ -17,7 +17,7 @@ sources:
 # Teachers develop critical pedagogy capacity through practical actions from both a TPD for OBL lens and an equity lens
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article "provides advice on practical actions teachers can take to develop their ability to engage in critical pedagogy, both from the TPD for OBL lens and from an equity lens." The strategy treats critical pedagogy capacity as something teachers build through deliberate practical action, addressed along two complementary lenses rather than one.
@@ -40,7 +40,6 @@ The article "provides advice on practical actions teachers can take to develop t
 ## Claims
 
 - [Liberatory ideas are implicitly embedded in the TPD for OBL framework](../claims/liberatory-ideas-embedded-in-tpd-for-obl-framework.md) [+W]
-- [The meta-aggregative review lacks an explicitly critical framework and under-addresses equity](../claims/meta-aggregative-review-lacks-critical-framework.md) [+W]
 
 ## Related Strategies
 

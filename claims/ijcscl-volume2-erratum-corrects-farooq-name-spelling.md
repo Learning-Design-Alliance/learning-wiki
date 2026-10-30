@@ -45,5 +45,5 @@ The erratum's full substantive statement: it announces that "The original versio
 
 
 ## Related Claims
-- [The article is an erratum whose sole content is a corrected reference list for a piece on problem-based learning research in medical education.](pbl-medical-education-article-erratum-corrected-references.md) — related
 
+- The article is an erratum whose sole content is a corrected reference list for a piece on problem-based learning research in medical education. — related

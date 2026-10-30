@@ -65,4 +65,4 @@ A subsequent analysis in the same reviewed study found the hub-like structure of
 
 ## Related Claims
 - [Cingulum white matter integrity subgroups relate to differences in children's cognitive performance](cingulum-fa-cognitive-performance-subgroups.md) — related
-- [Neurophysiological measures are markedly underrepresented in research on at-risk adolescent regulation and, when used, are deployed as adjunctive indicators concentrated in specific clinical risk profiles](neurophysiological-measures-underrepresented-adjunctive.md) — related
+- Neurophysiological measures are markedly underrepresented in research on at-risk adolescent regulation and, when used, are deployed as adjunctive indicators concentrated in specific clinical risk profiles — related

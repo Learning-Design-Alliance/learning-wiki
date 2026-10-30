@@ -45,7 +45,7 @@ Theoretical argument in this Perspective, drawing on mHealth examples such as th
 
 
 ## Related Claims
-- [Micro-randomized trials with mobile data allow explicit testing of time-varying contextual moderators of intervention effectiveness](time-varying-moderators-mobile-interventions.md) — related
+- Micro-randomized trials with mobile data allow explicit testing of time-varying contextual moderators of intervention effectiveness — related
 - [AI chatbots enable flexible personalized learning by adapting teaching strategies to individual student needs](chatbot-flexible-personalized-learning.md) — related
 - [AI-supported adaptive systems are reported to enhance adult learner engagement, motivation, and outcomes when aligned with learner goals and prior knowledge](ai-adaptive-systems-enhance-adult-engagement.md) — a broader claim this one bears on
 - [Integrating cognitive scores with non-cognitive learner attributes enables the system to dynamically adapt AI-generated explanations in tone, depth and instructional strategy to individual learner performance](cognitive-noncognitive-integration-adapts-ai-explanations.md) — related

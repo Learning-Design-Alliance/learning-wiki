@@ -10,7 +10,7 @@ generated:
 sources:
   - id: angela-chen-2026
     resource: "https://arxiv.org/abs/2606.10051"
-    title: "Angela Chen, Siwei Jin, Catherine Bao, Canwen Wang, Robert E. Kraut, Tongshuang Wu, and Haiyi Zhu. (2026). The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training: Disclosure That Responds to Therapist Micro-Skills. https://arxiv.org/abs/2606.10051"
+    title: "Angela Chen, Siwei Jin, Catherine Bao, Canwen Wang, Robert E. Kraut, Tongshuang Wu, and Haiyi Zhu. (2026). Empirically Grounded Behavioral Adaptivity for LLM-Based Virtual Patients in Psychotherapy Training. https://arxiv.org/abs/2606.10051"
     author: Angela Chen, Siwei Jin, Catherine Bao, Canwen Wang, Robert E. Kraut, Tongshuang Wu, and Haiyi Zhu
 ---
 
@@ -48,4 +48,4 @@ The article's implementation strategy is to release sensitive disclosure topics 
 -
 
 ## Key Sources
-- Angela Chen, Siwei Jin, Catherine Bao, Canwen Wang, Robert E. Kraut, Tongshuang Wu, and Haiyi Zhu. (2026). The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training: Disclosure That Responds to Therapist Micro-Skills. https://arxiv.org/abs/2606.10051
+- Angela Chen, Siwei Jin, Catherine Bao, Canwen Wang, Robert E. Kraut, Tongshuang Wu, and Haiyi Zhu. (2026). Empirically Grounded Behavioral Adaptivity for LLM-Based Virtual Patients in Psychotherapy Training. https://arxiv.org/abs/2606.10051

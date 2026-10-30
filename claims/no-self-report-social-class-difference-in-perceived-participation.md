@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: renoux-2024
     resource: "https://doi.org/10.1038/s41539-024-00218-w"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i0` negligible
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q3 i0` Working-class and middle/upper-class children did not differ in perceived similarity to the protagonist in either scenario (d = 0.07 and d = −0.03). [→ Renoux 2024](#renoux-2024)

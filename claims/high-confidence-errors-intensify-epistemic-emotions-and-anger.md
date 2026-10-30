@@ -59,4 +59,4 @@ Bayesian multilevel analysis (Model 1) of 275 preservice teachers over 15 trials
 - [Partial resolution of curiosity through immediate feedback increases subsequent curiosity](immediate-feedback-partial-resolution-increases-curiosity.md) — related
 - [Adults report greater curiosity about answers on incorrect-answer trials than on correct-answer trials](curiosity-higher-incorrect-than-correct-trials.md) — related
 - [Low-learning groups tended to make stronger connections from features associated with confusion and uncertainty to individual exploration and inactivity, while high-learning groups exhibited stronger connections between features related to knowledge construction.](low-learning-confusion-connections-high-learning-knowledge-construction.md) — related
-- [Physiological research on academic emotion constructs is sparse: no studies of normal confusion, one of frustration, and one of curiosity](physiological-research-gap-academic-emotions.md) — related
+- Physiological research on academic emotion constructs is sparse: no studies of normal confusion, one of frustration, and one of curiosity — related

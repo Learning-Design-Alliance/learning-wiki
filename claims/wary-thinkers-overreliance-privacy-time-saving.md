@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: fan-yang-jill-e-stefaniak-2025
     resource: "https://doi.org/10.1007/s11423-025-10509-7"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Factor 3 participants emphasized negative effects of over-reliance on ChatGPT and concerns about security, privacy, and copyright, while acknowledging time savings. [→ Fan Yang · Jill E. Stefaniak 2025](#fan-yang-jill-e-stefaniak-2025)

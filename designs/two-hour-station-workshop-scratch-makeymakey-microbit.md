@@ -45,6 +45,7 @@ A two-hour face-to-face workshop in the ICT course of the Bachelor's Degree in P
 ## Related Designs
 
 - [Two-week Scratch-based computational thinking module with water filter simulation tasks](scratch-water-filter-ct-module.md)
+- [RICT case study: pre-service teacher-training course as testbed for the topologies](rict-case-study-topologies-testbed.md)
 
 ## Examples
 -

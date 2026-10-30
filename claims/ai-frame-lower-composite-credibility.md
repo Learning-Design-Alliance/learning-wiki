@@ -46,7 +46,7 @@ Kruskal-Wallis test on the composite credibility variable in the online framing 
 
 ## Related Claims
 - [The public perceives AI as less helpful for understanding how children learn, less adherent to scientific methods, and less prestigious than neuroscience and educational psychology](negative-attitudes-toward-ai-discipline.md) — related
-- [Educators judge AI-framed educational evidence as significantly less credible than educational-psychology-framed evidence](educators-ai-frame-less-credible.md) — a narrower finding that bears on this claim
+- Educators judge AI-framed educational evidence as significantly less credible than educational-psychology-framed evidence — a narrower finding that bears on this claim
 - [Framing educational research evidence within AI reduces its perceived credibility compared with neuroscience and educational psychology frames (the in-credible AI effect)](in-credible-ai-effect-reduced-credibility.md) — possibly the same claim (merge candidate)
 - [Neuroscience framing shows no seductive allure effect when article length is equated](no-neuroscience-framing-effect-length-controlled.md) — related
 - [Regression models identify attitudes toward educational psychology's scientific adherence as the main predictor of credibility judgments](attitude-predictors-of-credibility.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: könül-karimova-2026
     resource: "https://doi.org/10.1007/s10648-026-10207-7"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Across 42 reliability estimates, pooled internal consistency was α/ω = 0.89, 95% CI [0.86, 0.90], 95% PI [0.62, 0.97], with τ² = 0.36 and I² = 99.9%. [→ Könül Karimova 2026](#konul-karimova-2026)

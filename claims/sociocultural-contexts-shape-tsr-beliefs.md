@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: weak
 newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: robinson-2022
     resource: "https://doi.org/10.1007/s10648-022-09706-0"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q1`–`q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Test-based accountability policy signals devalue relationship-building; the 2015 ESSA mentions 'standard' 244 times, 'assessment' 380 times, and 'relationship' in the social context only 6 times. [→ Robinson 2022](#robinson-2022)

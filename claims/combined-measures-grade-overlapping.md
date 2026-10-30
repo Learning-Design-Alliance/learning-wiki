@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1910
+recheck_by: 1915
 sources:
   - id: starch-1910
     resource: "https://eric.ed.gov/?q=The+Measurement+of+Efficiency+in+Spelling"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1915**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` When equal-valued average scores for reading, writing and spelling were computed for 401 pupils, overlapping was somewhat less than for single subjects but still immense: an average of 33.2% of pupils in each grade reach or exceed the lower limit of the next grade, and 35.3% fall below the upper limit of their own grade. [→ Starch 1910](#starch-1910)

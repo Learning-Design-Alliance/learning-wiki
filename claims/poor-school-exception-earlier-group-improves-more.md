@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: weak
 newest_evidence: 1911
+recheck_by: 1914
 sources:
   - id: winch-1911
     resource: "https://www.google.com/search?q=%22Mental+adaptation+during+the+school+day%22+Winch+1911"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q1`–`q2`
-> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1914**: local conditions change quickly
 > **Design limits** · Winch 1911 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims

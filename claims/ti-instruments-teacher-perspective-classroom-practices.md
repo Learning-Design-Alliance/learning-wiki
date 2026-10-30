@@ -45,6 +45,6 @@ The review found that "Most of the instruments measure as- pects related to clas
 
 
 ## Related Claims
-- [A systematic review of K-12 technology integration survey instruments from 2010 to 2021 identified 35 different instruments used across 36 studies.](systematic-review-35-ti-survey-instruments-2010-2021.md) — related
-- [The most frequently measured pedagogical aspects of technology integration are enhancing students' cognitive engagement, promoting collaboration between students, and allowing students to conduct research online.](top-three-pedagogical-ti-aspects.md) — related
+- A systematic review of K-12 technology integration survey instruments from 2010 to 2021 identified 35 different instruments used across 36 studies. — related
+- The most frequently measured pedagogical aspects of technology integration are enhancing students' cognitive engagement, promoting collaboration between students, and allowing students to conduct research online. — related
 - [The diversity of operationalizations of technology integration in K-12 survey instruments is very high, and several instruments lack explicit conceptual or theoretical underpinnings.](high-diversity-ti-operationalizations.md) — related

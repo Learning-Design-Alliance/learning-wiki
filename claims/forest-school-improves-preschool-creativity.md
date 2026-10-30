@@ -49,7 +49,7 @@ Narrative synthesis of two quasi-experimental pre-post studies (Wojciehowski & E
 
 ## Related Claims
 - [Evidence on cognitive function benefits of forest preschool is mixed: teacher-rated global cognition improved, but executive functions and working memory showed no significant differences](forest-school-cognitive-function-mixed.md) — related
-- [The methodological quality of forest-school studies is poor: most are at high or moderate risk of bias, with no follow-ups and inadequate statistical procedures](forest-school-studies-high-risk-of-bias.md) — related
-- [Forest-school benefits are measured with heterogeneous methods, mostly questionnaires and tasks administered to children, with only two studies using objective measures](forest-school-measurement-methods-heterogeneous.md) — related
+- The methodological quality of forest-school studies is poor: most are at high or moderate risk of bias, with no follow-ups and inadequate statistical procedures — related
+- Forest-school benefits are measured with heterogeneous methods, mostly questionnaires and tasks administered to children, with only two studies using objective measures — related
 - [CREATE does not produce a significant immediate interaction effect on flexibility, though the experimental group improved pre-to-post](create-immediate-flexibility-null-interaction.md) — related
 - [Two or more semesters of AP art workshops significantly raised the graphical TTCT 13-forces creativity score in a doubly robust regression, but not total TTCT scores](ap-creativity-ttct-improvements.md) — related

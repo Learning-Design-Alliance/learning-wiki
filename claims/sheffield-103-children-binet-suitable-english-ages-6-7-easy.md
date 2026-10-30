@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1917
+recheck_by: 1920
 sources:
   - id: kohs-1917
     resource: "https://doi.org/10.1037/h0071443"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
-> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1920**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Taylor examined 103 Sheffield children ages 5 to 14 with the 1911 scale and concluded the scale is suitable for English children, with age 6-7 tests too easy and tests above 11 unsatisfactory. [→ Kohs 1917](#kohs-1917)

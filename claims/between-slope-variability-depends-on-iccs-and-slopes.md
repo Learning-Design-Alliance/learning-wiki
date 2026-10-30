@@ -46,6 +46,6 @@ Analytical derivation using a first-order Taylor expansion of the variability of
 
 
 ## Related Claims
-- [A higher ICC(1) of students' ratings and a larger standardized between slope increase power, with opposite effects on the optimal split between classes and students per class](rating-icc1-and-between-slope-effects-on-power.md) — related
-- [Under a fixed budget, a higher ICC(1) of the outcome variable shifts the optimal design toward more classes and fewer students per class and reduces maximum power](higher-outcome-icc1-shifts-optimal-design-toward-classes.md) — related
+- A higher ICC(1) of students' ratings and a larger standardized between slope increase power, with opposite effects on the optimal split between classes and students per class — related
+- Under a fixed budget, a higher ICC(1) of the outcome variable shifts the optimal design toward more classes and fewer students per class and reduces maximum power — related
 - [In the PIRLS 2006 teaching-quality example, the optimal fixed-budget design was 395 classes with 12 students per class, and the actual PIRLS design achieved 83% power](pirls-example-optimal-design-395-classes-power-83.md) — related

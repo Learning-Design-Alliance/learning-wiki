@@ -49,4 +49,4 @@ Review synthesis across the 19 included studies targeting low-SES preschoolers: 
 - [Prior mathematical ability moderates tablet-DGBL gains, with mixed direction across studies](prior-math-ability-mixed-moderator.md) — related
 - [Children from low-SES families were more negatively affected by COVID-19 school closures than children from high-SES families](covid-closures-low-ses-students-more-affected.md) — related
 - [COVID-19 widened the socio-economic performance gap on average, deteriorating more among disadvantaged students, significantly in mathematics and science](covid-widened-socio-economic-performance-gap.md) — related
-- [Included tablet-DGBL studies were generally methodologically rigorous by MERSQI standards](tablet-dgbl-studies-mersqi-rigor.md) — related
+- Included tablet-DGBL studies were generally methodologically rigorous by MERSQI standards — related

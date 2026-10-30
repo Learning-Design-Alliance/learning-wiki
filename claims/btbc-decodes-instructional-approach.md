@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: yafeng-pan-2022
     resource: "https://doi.org/10.1038/s41539-022-00131-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Logistic regression decoded scaffolding vs explanation from time-lagged BtBC, peaking at AUC 0.79 for learner-leading (2.68 s) and instructor-leading (2.32 s) lags; individual motion failed (AUC = 0.62, p = 0.13). [→ Yafeng Pan 2022](#yafeng-pan-2022)

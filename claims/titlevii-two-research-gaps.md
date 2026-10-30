@@ -66,7 +66,6 @@ Editorial identification of the second gap: research on administration and organ
 ## Related Claims
 
 - [The possibilities of the electronic computer as an instructional tool had been almost completely ignored in Title VII research.](titlevii-computer-instruction-ignored.md) — related
-- [Almost half of the approved Title VII grants compare the instructional effectiveness of various media with conventional approaches to instruction.](titlevii-half-grants-media-versus-conventional.md) — related
-- [About one-third of Title VII grants have been made for the study of televised teaching.](titlevii-third-grants-televised-teaching.md) — related
-- [Title VII stimulated researchers to concentrate on relationships of educational media to instruction, broadening the Ford Foundation's earlier focus on educational television to a wider array of media applications.](titlevii-stimulated-media-instruction-research.md) — related
-- [An increase in the study of self-instructional approaches and their production variables is a promising recent trend in Title VII research.](titlevii-self-instructional-trend.md)
+- Almost half of the approved Title VII grants compare the instructional effectiveness of various media with conventional approaches to instruction. — related
+- About one-third of Title VII grants have been made for the study of televised teaching. — related
+- Title VII stimulated researchers to concentrate on relationships of educational media to instruction, broadening the Ford Foundation's earlier focus on educational television to a wider array of media applications. — related

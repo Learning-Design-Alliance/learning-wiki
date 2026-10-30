@@ -75,5 +75,5 @@ Pairwise reliability analysis across temperature settings. Higher-temperature pa
 - [Lowering an LLM's temperature setting is one lever for improving output consistency](lowering-temperature-improves-llm-consistency.md) — a broader claim this one bears on
 - [Higher LLM temperature settings yield the best English augmentation performance, with Llama temperature 2 the top generator overall](temperature-affects-augmentation-performance.md) — related
 - [Clarity showed the strongest and most consistent gains; coherence gains were more variable](clarity-strongest-gain-coherence-variable.md) — related
-- [Card sorting of GenAI-brainstormed concepts showed best agreement for the Refreshing Stimulus category and under-70% agreement for some concepts](genai-card-sorting-concept-agreement.md) — reports the opposite
+- Card sorting of GenAI-brainstormed concepts showed best agreement for the Refreshing Stimulus category and under-70% agreement for some concepts — reports the opposite
 - [Hyperparameter setting with maximum token 53 and temperature 1 (Set C) yields the most accurate AGE grading performance](age-hyperparameter-set-c-most-accurate.md)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: poquet-2024
     resource: "https://doi.org/10.1007/s11423-023-10262-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` A null model holding per-learner post counts and out-degree constant reproduced degree in the learner network but not clustering. [→ Poquet 2024](#poquet-2024)

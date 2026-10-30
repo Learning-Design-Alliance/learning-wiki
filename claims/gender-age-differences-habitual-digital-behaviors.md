@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: ana-cebollero-salinas-2022
     resource: "https://doi.org/10.1016/j.compedu.2022.104464"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i1`–`i2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i1` Gender differences appear only for phubbing, where girls score slightly higher than boys (η² = .018). [→ Ana Cebollero-Salinas 2022](#ana-cebollero-salinas-2022)
@@ -64,4 +65,4 @@ ANOVA by academic year (Table 1), n = 776: multitasking F = 37.165, η² = .046;
 
 
 ## Related Claims
-- [Media multitasking during academic tasks, phubbing, and cybergossip form a single construct of habitual digital behavior in secondary students](three-habits-one-habitual-digital-behavior-construct.md) — related
+- Media multitasking during academic tasks, phubbing, and cybergossip form a single construct of habitual digital behavior in secondary students — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: henkel-2025
     resource: "https://doi.org/10.1007/s40593-024-00435-9"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` On 165 Ghana ORF assessments including noisier recordings and weaker readers, automated WCPM scores correlated 0.98 with expert human scores, with humans slightly stricter (average difference 4.82 WCPM). [→ Henkel 2025](#henkel-2025)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: youngwoo-bryan-yoon-wi-hoon-jung-2025
     resource: "https://doi.org/10.1038/s41539-025-00344-z"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i1` Left cerebellum GMV was negatively correlated with BIS-11 total score (r = −0.170, p = 0.036), while right caudate nucleus GMV was positively correlated with BIS-11 total score (r = 0.164, p = 0.042). [→ Youngwoo Bryan Yoon & Wi Hoon Jung 2025](#youngwoo-bryan-yoon-wi-hoon-jung-2025)
@@ -49,4 +50,4 @@ Spearman correlation analyses between residualized GMVs of the six GPA-associate
 - [Impulsivity partially mediates the relationships of left cerebellar and right caudate gray matter volumes with college GPA](impulsivity-partially-mediates-brain-gpa-links.md) — related
 - [In college students, gray matter volume of the cerebellum is positively associated with GPA, while caudate nucleus and left lateral orbitofrontal cortex volumes are negatively associated with GPA](cerebellum-positive-caudate-ofc-negative-gmv-gpa-college.md) — related
 - [Trait impulsivity is negatively associated with college GPA](impulsivity-negatively-associated-college-gpa.md) — related
-- [The study's brain–GPA and impulsivity findings are limited to young adults and cannot support causal claims](cross-sectional-young-adult-neuro-gpa-limitations.md) — related
+- The study's brain–GPA and impulsivity findings are limited to young adults and cannot support causal claims — related

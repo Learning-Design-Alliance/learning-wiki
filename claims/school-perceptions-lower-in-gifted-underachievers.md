@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: mixed
 newest_evidence: 2018
+recheck_by: 2023
 sources:
   - id: white-2018
     resource: "https://doi.org/10.1016/j.edurev.2018.03.001"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` In four reviewed studies, perceptions of school were typically lower in gifted underachievers, but one study found no significant group differences on the same measures. [→ White 2018](#white-2018)
@@ -46,5 +47,5 @@ Review synthesis of perceptions-of-school findings (§4.3.3), mostly using SAAS-
 
 ## Related Claims
 - [Emotional factors show inconsistent associations with gifted underachievement, depending on the aspect of emotion measured](emotion-findings-inconsistent-gifted-underachievement.md) — related
-- [Research on gifted underachievement focuses mainly on individual factors, with structural school-related factors under-researched](individual-factors-dominate-gifted-underachievement-research.md) — related
+- Research on gifted underachievement focuses mainly on individual factors, with structural school-related factors under-researched — related
 - [Gifted underachievers consistently report lower motivation than gifted achievers across reviewed studies](motivation-lower-in-gifted-underachievers.md) — related

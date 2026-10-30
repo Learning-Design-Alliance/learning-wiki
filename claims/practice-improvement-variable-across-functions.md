@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1922
+recheck_by: 1927
 sources:
   - id: gates-1922
     resource: "https://en.wikipedia.org/wiki/Journal_of_Educational_Psychology"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2` · `i3` large
-> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1927**: baselines and conditions change
 
 ## Subclaims
 `q2 i3` Final ability in one practiced function correlates about 0.4 with final ability in other functions, and improvement in one function does not generally indicate similar improvement in others. [→ Gates 1922](#gates-1922)

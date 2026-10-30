@@ -46,5 +46,5 @@ The tribute's abstract states this as the authors' characterization of McInerney
 
 ## Related Claims
 - [Mainstream motivation theories require cross-cultural testing to establish whether they apply to culturally diverse groups](mainstream-motivation-theories-need-cross-cultural-testing.md) — a narrower finding that bears on this claim
-- [McInerney's work invited reconsideration of how motivation research is conceptualized, assessed, and applied in teaching and learning practices](reconsider-conceptualize-assess-apply-motivation-research.md) — related
+- McInerney's work invited reconsideration of how motivation research is conceptualized, assessed, and applied in teaching and learning practices — related
 - [Students' social and work avoidance goals are psychological parameters of motivation identifiable through qualitative investigation](social-work-avoidance-goals-qualitative.md) — related

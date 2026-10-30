@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: di-pietro-giorgio-2023
     resource: "https://doi.org/10.1016/j.edurev.2023.100530"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i0` negligible
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q3 i0` On average, the pandemic depressed student achievement by around 0.19 standard deviations (Cohen's d = −0.18613). [→ Di Pietro Giorgio 2023](#di-pietro-giorgio-2023)
@@ -53,7 +54,7 @@ Random-effects robust-variance-estimation meta-analysis of 239 effect sizes from
 - [Schools reported that about 40 percent of their students experienced considerable or major academic losses since March 2020](charter-schools-reported-student-academic-losses.md) — related
 - [In almost all grades, most students made some learning gains in both reading and math since the COVID-19 pandemic started](most-students-still-made-gains-reading-math-covid.md) — related
 - [Students showed lower math growth in fall 2020 across grades 3-8 relative to peers in the previous, more typical year](fall-2020-lower-math-growth-grades-3-8.md) — related
-- [Estimated Covid-19 learning deficits are more pronounced in studies using experimental/quasi-experimental designs than in descriptive or correlational studies](covid-deficit-larger-quasi-experimental-designs.md) — related
+- Estimated Covid-19 learning deficits are more pronounced in studies using experimental/quasi-experimental designs than in descriptive or correlational studies — related
 - [Meta-analytic evidence attributes average COVID learning losses of roughly -0.09 to -0.18 SD, larger in mathematics than reading](meta-analytic-covid-learning-losses-math-exceed-reading.md) — related
 - [Closure-duration losses are larger for boys and immigrant students: boys' overall loss equals girls' at about 40 weeks of full closures, and immigrants' equals natives' at about 25 weeks](gender-immigrant-closure-heterogeneity.md) — related
 - [Learning losses increase with the length of school closures, from 9–12% SD in shortest-closure countries to 17–23% SD in longest-closure countries](losses-increase-with-closure-length.md) — a narrower finding that bears on this claim

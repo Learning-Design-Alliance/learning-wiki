@@ -13,7 +13,7 @@ generated:
 # ASReview
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 ASReview is an open-source machine-learning platform developed for efficient abstract screening in systematic reviews by iteratively prioritizing records for reviewer classification.
@@ -23,7 +23,6 @@ ASReview is an open-source machine-learning platform developed for efficient abs
 - **ASReview open-source machine-learning abstract screening software**: ASReview is an open-source machine-learning tool for abstract screening in systematic reviews, used in this study's retrospective simulation. The article states that "the ASReview software, an open-source platform, provides multiple learning algorithms for both feature extraction and classification." Researchers install it, load a study database (titles and abstracts), classify a small initial subset, then choose a feature extraction method, classifier, balancing strategy (default dynamic resampling), and query strategy (default certainty-based sampling). The algorithm iteratively suggests the study predicted most relevant for the reviewer's include/exclude decision. (Campos et al. (2024))
 
 ### Claims
-- [Active learning algorithms reduce abstract-screening workload in education systematic reviews, saving on average 58% of irrelevant-record screening and 1.66 days at 95% sensitivity](../claims/ml-screening-reduces-workload-education-reviews.md) [+M]
 
 ## Related Products and Programmes
 -

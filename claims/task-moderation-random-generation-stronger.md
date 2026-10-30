@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: mixed
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: zhu-2025
     resource: "https://doi.org/10.1007/s10648-024-09976-w"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r?` · `q3` · `i3` large
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` The omnibus moderating effect of inhibitory control task was not significant. [→ Zhu 2025](#zhu-2025)

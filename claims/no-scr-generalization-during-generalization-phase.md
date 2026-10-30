@@ -51,3 +51,4 @@ SCR repeated-measures ANOVA in the generalization phase of the 40-participant ex
 - [The unimodal group shows higher overall US expectancy ratings and SCR than the crossmodal group](unimodal-group-higher-ratings-and-scr-than-crossmodal.md) — related
 - [mPFC responds to conceptually related generalization stimuli more than to the non-threat CS−, though without a gradient or group differences](mpfc-responds-to-generalization-stimuli-over-cs-minus.md)
 - [US expectancy ratings show a conceptual generalization gradient: stimuli more similar to the CS+ elicit higher ratings (GS1 > GS2 > GS3)](us-expectancy-generalization-gradient-conceptual-similarity.md)
+- [Most participants' fear generalization aligns with perceptual rather than physical stimulus distances](generalization-aligned-perceptual-distance.md)

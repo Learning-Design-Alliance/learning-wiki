@@ -47,9 +47,9 @@ Systematic review synthesis of 51 empirical studies (2000–2024) identified via
 
 ## Related Claims
 - [A second rationale treats the network as a catalyst for enactment and sustainability of reforms with TPD (15 studies, mostly US)](network-as-catalyst-for-reform-rationale.md) — related
-- [Two further rationales treat the network as purposefully (re)shaped by TPD initiatives or as a latent school capacity (7 studies each)](network-reshaped-and-capacity-rationales.md) — related
-- [The four rationales differ along two dimensions: the network's functional role (independent vs. dependent variable) and its ontological stance (active vs. passive)](network-functional-role-ontological-stance-dimensions.md) — related
-- [Most reviewed studies used a sociocentric network approach (36 of 51), while 12 used an egocentric approach and 3 combined both](sociocentric-dominant-network-approach.md) — related
-- [Included studies conceptualized TPD in ten distinct themes, most often as improvement of instructional practices (20 studies)](ten-tpd-conceptualization-themes.md) — related
+- Two further rationales treat the network as purposefully (re)shaped by TPD initiatives or as a latent school capacity (7 studies each) — related
+- The four rationales differ along two dimensions: the network's functional role (independent vs. dependent variable) and its ontological stance (active vs. passive) — related
+- Most reviewed studies used a sociocentric network approach (36 of 51), while 12 used an egocentric approach and 3 combined both — related
+- Included studies conceptualized TPD in ten distinct themes, most often as improvement of instructional practices (20 studies) — related
 - [Maintaining access to TPD materials and community was highly valued by faculty in a pandemic-redesigned program](maintained-tpd-material-access-valued.md) — related
 - [Prior TPD research focused on teacher impact, leaving student-centered evaluation of TPD for OBL unexamined](student-centered-tpd-evaluation-gap.md) — related

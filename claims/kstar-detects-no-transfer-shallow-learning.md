@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2013
+recheck_by: 2016
 sources:
   - id: gowda-2013
     resource: "https://doi.org/10.1007/s40593-013-0006-4"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` A K* multiplicative-interactions model cross-validated at the student level distinguishes students who perform better on the problem-solving test than the transfer test 76.6% of the time, with kappa 0.550. [→ Gowda 2013](#gowda-2013)

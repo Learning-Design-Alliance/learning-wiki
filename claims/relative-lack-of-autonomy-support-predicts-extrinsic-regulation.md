@@ -45,7 +45,7 @@ Bayesian Multilevel-SEM for the extrinsic regulation outcome in the same 446-stu
 
 
 ## Related Claims
-- [Perceived differences in teachers' autonomy support form three student-level factors, including relative lack of autonomy support](perceived-differences-autonomy-support-three-factors.md) — related
-- [Students distinguish individual from class-directed autonomy support at the student level, but class-level aggregates form one overall autonomy-supportive atmosphere factor](individual-vs-class-directed-autonomy-support-two-level-structure.md) — related
+- Perceived differences in teachers' autonomy support form three student-level factors, including relative lack of autonomy support — related
+- Students distinguish individual from class-directed autonomy support at the student level, but class-level aggregates form one overall autonomy-supportive atmosphere factor — related
 - [Perceived individual and class-directed autonomy support positively predict students' intrinsic motivation, effort, and persistence](autonomy-support-predicts-intrinsic-motivation-effort-persistence.md) — a broader claim this one bears on
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — a broader claim this one bears on

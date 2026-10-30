@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: purarjomandlangrudi-2020
     resource: "https://doi.org/10.1007/s11423-020-09792-3"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q1`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The article asserts that exploring factors influencing learners' online interaction and engagement is crucial for e-learning success. [→ Purarjomandlangrudi 2020](#purarjomandlangrudi-2020)

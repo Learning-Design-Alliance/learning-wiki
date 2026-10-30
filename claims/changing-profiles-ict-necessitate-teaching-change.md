@@ -9,6 +9,7 @@ generated:
   at: 2026-10-30
 evidence_strength: weak
 newest_evidence: 2011
+recheck_by: 2016
 sources:
   - id: warin-2011
     resource: "https://doi.org/10.1016/j.compedu.2011.02.013"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q1`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The changing profile of students, the expectations of business, and the capabilities offered by ICT make it necessary to change teaching practices, particularly in higher education. [→ Warin 2011](#warin-2011)

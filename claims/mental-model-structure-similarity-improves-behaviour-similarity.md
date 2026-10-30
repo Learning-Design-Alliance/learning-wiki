@@ -49,4 +49,4 @@ In the simulation experiment, regression analysis of Mental Model Behaviour Simi
 - [Mental Model Behaviour Similarity positively influences Performance (financial value creation)](mental-model-behaviour-similarity-improves-performance.md) — related
 - [Level of Feedback Information does not significantly influence Mental Model Structure Similarity in regression analysis](feedback-information-no-significant-effect-mental-model-structure.md) — related
 - [Level of Systems Thinking Facilitation positively influences Mental Model Structure Similarity in a simulation-based management learning experiment](systems-thinking-facilitation-improves-mental-model-structure-similarity.md) — related
-- [Causal influence diagrams were used to relate mental model structures to decision-making behaviors](causal-influence-diagrams-mental-models-decision-making.md) — related
+- Causal influence diagrams were used to relate mental model structures to decision-making behaviors — related

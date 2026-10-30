@@ -65,4 +65,4 @@ The article states psychology rendered its most valuable service in the principl
 
 ## Related Claims
 - [Feeling-of-knowing resolution for episodic memory depends on underlying memory quality: repeated presentations raised FOK resolution for both age groups, with a larger benefit for older adults, and FOK resolution was at least as good for older adults tested with a 48-hour delay as for younger adults](fok-resolution-depends-memory-quality.md) — related
-- [Investigating what arithmetic to teach is more fundamental than investigating how to teach it, because method studies may be eliminated by subject-matter findings](what-to-teach-more-fundamental-than-how.md) — related
+- Investigating what arithmetic to teach is more fundamental than investigating how to teach it, because method studies may be eliminated by subject-matter findings — related

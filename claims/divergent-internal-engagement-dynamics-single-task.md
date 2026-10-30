@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: symonds-2021
     resource: "https://doi.org/10.1037/edu0000605"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Three profiles showed high behavioral engagement with lower emotional and/or cognitive engagement (attentive amotivated, attentive disinterested, attentive disaffected), and one showed the reverse pattern (distracted but motivated). [→ Symonds 2021](#symonds-2021)

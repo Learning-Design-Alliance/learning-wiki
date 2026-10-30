@@ -10,6 +10,7 @@ generated:
 evidence_strength: weak
 newest_evidence: 2021
 source_checked: 2026-10-28
+recheck_by: 2024
 sources:
   - id: josu-arruarte-2021
     resource: "https://doi.org/10.1007/s40593-020-00208-0"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2021 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In the retrospective analysis of the Fundamentals of Computer Science module, most tests showed adequate CIC and homogeneous True Weights, but three tests showed inconsistencies and were marked for thorough analysis. [→ Josu Arruarte 2021](#josu-arruarte-2021)

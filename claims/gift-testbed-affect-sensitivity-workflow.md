@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2017
+recheck_by: 2020
 sources:
   - id: robert-a-sottilare-2017
     resource: "https://doi.org/10.1007/s40593-017-0149-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` GIFT can be used to obtain data for affect detector development, embed the resulting interaction-based and sensor-based models back into the system for reuse, drive affective interventions, and run experimental studies of their impacts on student outcomes. [→ Robert A. Sottilare 2017](#robert-a-sottilare-2017)

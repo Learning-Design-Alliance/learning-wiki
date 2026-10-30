@@ -12,7 +12,7 @@ generated:
 # SMA-grid and what/when/how/by-whom-or-what frameworks for characterizing SRL scaffolds
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (2 review), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The introduction uses two frameworks to compare the special-issue studies. The SMA-grid (Molenaar et al., 2023) characterizes each study by CAMM processes (Cognition, Affect, Metacognition, Motivation), data streams (physiological, behavioral, contextual), and analytical approach (unimodal, horizontal, vertical, integrated). Alongside it, the what, when, how, and by whom or what of scaffolding (Azevedo & Jacobson, 2008) distinguishes what to scaffold, when to provide a scaffold, how it is delivered, and the delivery mechanism. Together these axes organize the seven contributions' similarities and differences.
@@ -26,9 +26,6 @@ The introduction uses two frameworks to compare the special-issue studies. The S
 - **The SMA grid: a two-dimensional framework mapping CAMM processes against data streams and four analytic approaches**: The Self-Regulated Learning Processes, Multimodal Data, and Analysis (SMA) grid, introduced by Molenaar et al. (2023) and applied in this review, maps SRL research along two axes: CAMM processes (cognition, metacognition, affective states, motivation) and data streams (behavioural, physiological, contextual). It distinguishes four analytic approaches: "The unimodal approach is a classical approach, focusing on a single CAMM process with one data stream", horizontal (multiple processes, one stream), vertical (one process, multiple streams), and integrated (multiple streams, multiple processes). The review mapped 141 studies onto the grid to visualise typical combinations. (Susanne de Mooij et al. (2025))
 
 ### Claims
-- [Multimodal SRL research shows a historical shift from unimodal toward integrated analytical designs, but motivational and affective dimensions remain underrepresented](../claims/srl-multimodal-shift-integrated-designs-motivation-affect-gap.md) [+M]
-- [Motivational and affective dimensions remain underrepresented in multimodal SRL research despite theoretical consensus on their importance](../claims/motivation-affect-underrepresented-multimodal-srl.md) [+M]
-- [SRL research shows a historical shift from unimodal approaches toward integrated multimodal approaches](../claims/shift-unimodal-to-integrated-srl-approaches.md) [+M]
 
 ## Related Research Methods
 -

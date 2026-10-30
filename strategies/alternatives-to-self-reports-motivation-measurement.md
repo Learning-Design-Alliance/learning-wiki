@@ -17,7 +17,7 @@ sources:
 # Supplement self-report questionnaires with process-oriented and online measures of motivation during learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 5 studies (3 theoretical, 1 review, 1 associational), `q1`–`q3` · 0 of 5 report an effect size · 5 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 3 studies (1 review, 1 associational, 1 theoretical), `q1`–`q3` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The review recommends alternatives to self-report questionnaires, which suffer from subjectivity, Jingle-Jangle conceptualization problems, inability to capture fluctuating states, developmental factor-structure differences, and demand characteristics. "These alternatives include experience sampling, daily diaries, think-aloud protocols, observations, and structured interviews" (Eccles & Wigfield, 2020), plus online measures such as frequent learner choices, video observation, eye-tracking, facial emotional expressions, and autonomic nervous system physiology (EDA, ECG, ICG) for high-frequency, non-interfering measurement.
@@ -38,8 +38,6 @@ The review recommends alternatives to self-report questionnaires, which suffer f
 
 ## Claims
 
-- [Jingle-jangle fallacies plague motivation constructs, requiring explicit justification of construct distinctions](../claims/jingle-jangle-motivation-constructs.md) [+W]
-- [Jingle-jangle fallacies fragment SR research in education and impede cumulative progress](../claims/jingle-jangle-fallacies-fragment-sr-research.md) [+W]
 - [Instruments show conceptual inconsistency: the same terms label different competence aspects, and disciplinary origin does not significantly correlate with definition or terminology choice](../claims/inconsistent-terminology-competence-aspects-autism-instruments.md) [+W]
 - [Low questionnaire–think-aloud correlations may have two alternative explanations besides poor self-report ability: the methods may measure different strategies or be aimed at different tasks](../claims/alternative-explanations-low-correlations-strategies-tasks.md) [+W]
 - [Questionnaire data may capture learners' perceptions rather than the strategies they actually performed](../claims/questionnaires-measure-perception-not-performed-strategies.md) [+W]

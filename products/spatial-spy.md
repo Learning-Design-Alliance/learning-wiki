@@ -13,7 +13,7 @@ generated:
 # Spatial Spy
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Spatial Spy is a browser-based gamified virtual-environment battery developed by Malanchini et al. and ETT Solutions to assess six spatial-orientation and navigation skills.
@@ -23,7 +23,6 @@ Spatial Spy is a browser-based gamified virtual-environment battery developed by
 
 ### Claims
 - [Spatial orientation skills can be measured reliably with a gamified virtual-environment battery, with average test–retest reliability r = 0.74](../claims/vr-battery-reliably-measures-spatial-orientation.md) [+M]
-- [The six spatial orientation tests cluster into a single Navigation factor that is 64% heritable and captures 66–100% of each test's heritability](../claims/navigation-factor-64-percent-heritable.md) [+M]
 
 ## Related Products and Programmes
 -

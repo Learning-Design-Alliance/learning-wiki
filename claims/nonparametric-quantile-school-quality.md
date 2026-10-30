@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: kim-stienstra-2024
     resource: "https://doi.org/10.1038/s41539-024-00225-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In quantile-based moderation for school quality (not controlled for school SES and parental SES), genetic variance is not declining linearly; only the first-versus-fourth quantile difference is significant (Wald test = 5.78, df = 1, p = .016). [→ Kim Stienstra 2024](#kim-stienstra-2024)

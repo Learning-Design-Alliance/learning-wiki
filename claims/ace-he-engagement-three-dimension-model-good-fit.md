@@ -56,6 +56,6 @@ Confirmatory factor analysis of survey responses from 1,253 students at a Colomb
 - [The self-report measure supports a refined 13-item, four-factor model with good fit](sr-measure-four-factor-cfa.md) — related
 - [Confirmatory factor analysis on FICSMath data confirms the 4C/ID Model's four components fit secondary-tertiary mathematics instructional experiences (CFI = 0.907, RMSEA = 0.050)](cfa-confirms-4cid-model-secondary-tertiary-mathematics.md) — related
 - [Global-fit evidence does not clearly favor unidimensional over multidimensional academic resilience measurement models, as fit-index pass rates diverge by index](dimensionality-evidence-mixed-resilience-scales.md) — related
-- [A confirmatory factor analysis on a new sample confirms the three-factor structure with acceptable model fit and moderate convergent validity](cfa-confirms-three-factor-cognitive-load-structure.md) — related
+- A confirmatory factor analysis on a new sample confirms the three-factor structure with acceptable model fit and moderate convergent validity — related
 - [Confirmatory factor analysis with 448 secondary students showed the 32-item SAICS measurement model has good fit and high validity and reliability](saics-cfa-good-model-fit-448-students.md) — related
-- [The hypothesised three-variable structural model fits the survey data well across printed fit indices](dil-sem-model-good-fit.md) — related
+- The hypothesised three-variable structural model fits the survey data well across printed fit indices — related

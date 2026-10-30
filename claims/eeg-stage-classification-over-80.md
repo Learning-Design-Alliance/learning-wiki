@@ -10,6 +10,7 @@ generated:
 evidence_strength: moderate
 newest_evidence: 2025
 source_checked: 2026-10-26
+recheck_by: 2028
 sources:
   - id: hui-xie-2025
     resource: "https://doi.org/10.1038/s41539-025-00376-5"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` SVM and neural network models classified the three learning stages with testing accuracies of 82.6% and 81.8% from 84 EEG features. [→ Hui Xie 2025](#hui-xie-2025)

@@ -50,4 +50,4 @@ Editorial argument dismantling the US-dominance myth. The authors state the beli
 - [K-12 AI learning experiences concentrate on technical, conceptual and applied skills in specific domains, while implementation schemes are led by the US and China](k12-ai-experiences-domain-limited-us-china-lead.md) — related
 - [AI-motivation research is geographically and educationally concentrated: over half of reviewed studies were conducted in China and most in higher education](ai-motivation-research-china-higher-ed-concentration.md) — related
 - Research on K‑5 writing motivation self‑reports grew sharply after 2009 and is geographically concentrated in North America and Asia — related
-- [Authorship of AIED systematic reviews is concentrated in Asia and Europe, with China, Spain, and the United States the most productive countries](aied-review-authorship-geographic-distribution.md) — related
+- Authorship of AIED systematic reviews is concentrated in Asia and Europe, with China, Spain, and the United States the most productive countries — related

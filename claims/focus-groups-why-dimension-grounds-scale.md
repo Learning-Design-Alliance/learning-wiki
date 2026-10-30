@@ -47,4 +47,3 @@ Four semi-structured focus group interviews were conducted: 17 then 15 third-yea
 ## Related Claims
 
 - [Adult learners take MOOC courses for six stated reasons, including topical interest and viewing lurking as learning](six-reasons-adult-learners-take-moocs.md)
-- [Exploratory factor analysis of the participation style scale yields four Why factors and four How factors explaining over 53% of variance in each dimension](psss-eight-factors-efa-variance.md)

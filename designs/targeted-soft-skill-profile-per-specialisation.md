@@ -17,7 +17,7 @@ sources:
 # Targeted soft skill profile per specialisation represented as kiviat-style thresholds
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A targeted soft skill profile is the ensemble of minimum expected proficiency targets for each soft skill, defined per program specialisation and represented as polygons of 10 sides (kiviat diagrams) showing the targeted threshold per skill. The article proposes it because demanded soft skills "may vary between degrees or specialisations", so different specialisations can carry distinct profiles. In the implementation, profiles were set to the students' average proficiency at stage 2 per specialisation.
@@ -37,7 +37,8 @@ A targeted soft skill profile is the ensemble of minimum expected proficiency ta
 - meeting specialisation-specific minimum soft skill proficiency targets
 
 ### Claims
-- 
+
+- [Expert-led curriculum mapping of two programs shows discipline-specific AIL emphasis: technical programs stress TKS and AP, humanities-oriented programs stress EAR and SIU](../claims/curriculum-mapping-discipline-specific-ail-profiles.md) [+W]
 
 ## Related Designs
 - 

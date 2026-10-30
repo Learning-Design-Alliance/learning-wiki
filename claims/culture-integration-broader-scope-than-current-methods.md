@@ -50,4 +50,4 @@ Narrative review of HCI and ID literature on culture in ICT design; the author d
 - [Hofstede's five-dimension cultural model is frequently mapped as a guide to user interface design in HCI](hofstede-five-dimensions-guide-ui-design.md) — related
 - [Cross-cultural study of university websites found similar technical features and audience-significant cultural emphases](callahan-university-websites-similar-features.md)
 - [Dimensional national-culture models (Hofstede; Hall) did not prove useful as a basis for modeling culture in educational technology design](dimensional-culture-models-insufficient-for-edtech-design.md) — related
-- [Quality criteria for technology integration conceptual models: accuracy, consistency, scope, simplicity and fruitfulness](quality-criteria-technology-integration-models.md) — related
+- Quality criteria for technology integration conceptual models: accuracy, consistency, scope, simplicity and fruitfulness — related

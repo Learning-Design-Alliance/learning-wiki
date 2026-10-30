@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1924
+recheck_by: 1929
 sources:
   - id: frank-n-freeman-1924
     resource: "https://psycnet.apa.org/search?q=Freeman%20Toronto%20Meeting%20Journal%20of%20Educational%20Psychology"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
-> **Currency** · newest study 1924 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1924 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1929**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Whipple applied intelligence tests to students on probation and concluded that other factors than intellectual ability were frequently the chief causes of failure. [→ Frank N. Freeman 1924](#frank-n-freeman-1924)

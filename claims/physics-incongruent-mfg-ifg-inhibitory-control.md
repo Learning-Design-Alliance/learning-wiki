@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: geneviève-allaire-duquette-2021
     resource: "https://doi.org/10.1038/s41539-021-00091-x"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q1`–`q3`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q3 i?` In physics, incongruent statements recruited the left IFG, bilateral MFG, left supplementary motor area, left superior frontal gyrus and left middle occipital gyrus more than congruent statements. [→ Geneviève Allaire-Duquette 2021](#genevieve-allaire-duquette-2021)

@@ -46,7 +46,9 @@ Computational modeling of US expectancy generalization data using a mixture fram
 
 
 ## Related Claims
+
 - [Incorporating perceptual memory data into perceptual distance calculations does not enhance generalization model performance](memory-data-no-model-gain.md) — related
 - [Perception and perceptual memory diverge over time, creating a disjunction between the two representational systems](perception-memory-disjunction.md) — related
 - [Perceived size of stimuli drifts toward the threat-associated stimulus's size over the experiment, with no drift when the same stimuli are safety cues](perceptual-drift-toward-threat-stimulus.md) — related
 - [Perception relies on the mean of sensory transformations across stimuli as its prior, and the perceptual prior gains influence over time](perceptual-prior-sensory-mean-kalman.md) — related
+- [No crossmodal fear generalization is observed in SCR during the generalization phase](no-scr-generalization-during-generalization-phase.md)

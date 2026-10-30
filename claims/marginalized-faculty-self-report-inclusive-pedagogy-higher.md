@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: sedlacek-2025
     resource: "https://doi.org/10.1007/s10648-025-10021-7"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2` · `i1` small
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i1` In the 2017 FSSE data, marginalized faculty again self-reported inclusive practices significantly more often than White faculty, with standardized effect sizes between 0.03 and 0.08. [→ Sedlacek 2025](#sedlacek-2025)

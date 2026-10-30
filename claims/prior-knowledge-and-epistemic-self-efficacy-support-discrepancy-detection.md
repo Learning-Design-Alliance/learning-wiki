@@ -45,7 +45,7 @@ Study 2 (n = 20) collected concurrent think-aloud protocols and retrospective in
 - [Epistemic Beliefs](../learner-variables/epistemic-beliefs.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Whether conceptual discrepancies are noticed (or not) and how they are resolved can be traced through concurrent think-aloud protocols and retrospective interviews](think-aloud-and-retrospective-reports-trace-discrepancy-processing.md) — related
+- Whether conceptual discrepancies are noticed (or not) and how they are resolved can be traced through concurrent think-aloud protocols and retrospective interviews — related
 - [University students adapt their behavioral processing of discrepant science content as a function of their epistemic cognition and discrepancy type](srl-processing-adapts-to-epistemic-cognition-and-discrepancy-type.md) — related
 - [Self-report factors correlate weakly with metacognitive behavior while within-factor subcomponent correlations are larger, per studies reviewed for the meta-analysis](self-report-factors-weakly-relate-to-behavior.md) — related
 - [Think-aloud reports are incomplete and sometimes nonveridical, particularly for metacognitive processes](think-aloud-veridicality-incomplete-reports.md) — related

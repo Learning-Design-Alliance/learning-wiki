@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 1955
+recheck_by: 1958
 sources:
   - id: audio-visual-administration-abstract-of-barnard-1955
     resource: "https://doi.org/10.1007/bf02717089"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
-> **Currency** · newest study 1955 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1955 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1958**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` In the surveyed Wisconsin vocational and adult schools, there was almost no administration or supervision of audio-visual functions for evening school programs. [→ AUDIO-VISUAL ADMINISTRATION. Abstract of Barnard 1955](#audio-visual-administration-abstract-of-barnard-1955)

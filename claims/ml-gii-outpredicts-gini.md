@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: li-zhang-2024
     resource: "https://doi.org/10.1038/s41539-024-00261-7"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` LASSO, random forest, and XGBoost selections consistently rank GII above Gini in predictive strength for 2018 achievement, including for boys and girls separately. [→ Li Zhang 2024](#li-zhang-2024)

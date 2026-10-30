@@ -45,7 +45,7 @@ The commentary reports that Bennett et al.'s study, which engaged "a diverse cro
 
 
 ## Related Claims
-- [Bennett et al.'s research has limited detail about faculty design skills and emphasizes how faculty design resembles others' design approaches.](bennett-et-al-limited-detail-faculty-design-skills.md) — related
+- Bennett et al.'s research has limited detail about faculty design skills and emphasizes how faculty design resembles others' design approaches. — related
 - [Epistemic games reveal unacknowledged disciplinary differences in interdisciplinary teams](epistemic-games-reveal-unacknowledged-disciplinary-differences-in-teams.md) — related
 - [Empirical studies across diverse learner populations show that people's epistemic aims, ideals, and processes are tailored to the information sources and tasks they engage in](epistemic-thinking-contextualized-tasks-sources.md) — related
 - [Learning patterns relate to contextual factors including teaching strategies, perceptions of the learning environment, and discipline](learning-patterns-contextual-factors.md) — related

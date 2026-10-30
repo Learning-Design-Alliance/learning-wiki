@@ -17,7 +17,7 @@ sources:
 # Develop outcome-specific, multi-informant Classroom Carrying Capacity indices modeled on structured ecological measures
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The essay recommends that CCC measurement tools be "outcome-specific (e.g., an index for the capacity to support student motivation to read, an index for the capacity to foster social-emotional development), with each outcome having its own unique set of critical factors." Drawing on the Habitat Suitability Index, the HOME Inventory, and the Communities That Care Youth Survey as illustrations, the authors propose defining key factors and potentially scaling them into composite scores, assessing factors across all four domains using teacher, student, observational, and assessment informants.
@@ -41,7 +41,6 @@ The essay recommends that CCC measurement tools be "outcome-specific (e.g., an i
 
 ## Claims
 
-- [The essay identifies five pressing issues for future CCC research (theoretical agenda)](../claims/ccc-future-research-agenda.md) [+W]
 
 ## Related Strategies
 - 

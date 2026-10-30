@@ -49,4 +49,4 @@ In the simulation experiment, group C (n = 25) using the balanced scorecard inte
 - [Level of Systems Thinking Facilitation positively influences Mental Model Structure Similarity in a simulation-based management learning experiment](systems-thinking-facilitation-improves-mental-model-structure-similarity.md) — related
 - [Mental Model Structure Similarity positively influences Mental Model Behaviour Similarity](mental-model-structure-similarity-improves-behaviour-similarity.md) — related
 - [Mental Model Behaviour Similarity positively influences Performance (financial value creation)](mental-model-behaviour-similarity-improves-performance.md) — related
-- [Causal influence diagrams were used to relate mental model structures to decision-making behaviors](causal-influence-diagrams-mental-models-decision-making.md) — related
+- Causal influence diagrams were used to relate mental model structures to decision-making behaviors — related

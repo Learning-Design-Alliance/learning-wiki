@@ -76,7 +76,7 @@ A textbook chapter by a co-author of the *Survey of Instructional Design Models*
 - [Merely modifying teaching methods in medical and dental schools has limited merit for steering students' learning approaches; no one-size-fits-all teaching method exists](teaching-method-modification-limited-merit.md) — a narrower finding that bears on this claim
 - [Unguided or minimally guided instructional approaches are popular and intuitively appealing but ignore human cognitive architecture and the empirical evidence](minimally-guided-approaches-ignore-cognitive-architecture.md) — related
 - [The mid-winter Department of Superintendence meeting serves as a clearing-house between educational theorists and practical schoolmen, with discussions grounded in proved fact](indianapolis-meeting-clearinghouse-theory-practice.md) — related
-- [Two main sources of data exist for evaluating teaching methods: measurements of current practices and measurements of specifically controlled practices](two-sources-of-method-evaluation-data.md) — related
+- Two main sources of data exist for evaluating teaching methods: measurements of current practices and measurements of specifically controlled practices — related
 - [No systematic evaluation exists of the ICAP hypothesis that engagement modes are ordered I > C > A > P in effectiveness](no-systematic-evaluation-icap-hierarchy.md) — a narrower finding that bears on this claim
-- [Standard empirical review criteria are not relevant to theoretical scholarship and may lead reviewers to reject it](empirical-review-criteria-misfit-theoretical-papers.md) — related
+- Standard empirical review criteria are not relevant to theoretical scholarship and may lead reviewers to reject it — related
 - [Empirical research on university teachers' habitual design practices is sparse; interview studies show design thought shaped by beliefs and pragmatic constraints](sparse-research-teacher-design-practices.md) — related

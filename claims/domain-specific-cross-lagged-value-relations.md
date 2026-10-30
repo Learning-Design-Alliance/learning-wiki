@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: arens-2019
     resource: "https://doi.org/10.1037/edu0000313"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` The cross-lagged relations among intrinsic value and attainment value differed across the math, German, and English domains. [→ Arens 2019](#arens-2019)
@@ -49,4 +50,4 @@ Based on cross-lagged panel models in three domains across five waves, the artic
 - [In German, students' prior intrinsic value and attainment value positively predict their later academic self-concept](value-predicts-later-self-concept-german.md) — a narrower finding that bears on this claim
 - [The strength of relations among self-concept and value constructs remains stable in size across Grades 5 to 9](stable-relation-size-across-secondary-years.md) — related
 - [Cross-lagged relations among self-concept and value constructs remain stable when controlling for domain-specific achievement measured by school grades](relations-stable-controlling-school-grades.md) — related
-- [Expectancy-value theory research previously neglected value-facet differentiation, long time spans with multiple waves, and domain-specific patterns](evt-research-gaps-value-facets-waves-domains.md) — related
+- Expectancy-value theory research previously neglected value-facet differentiation, long time spans with multiple waves, and domain-specific patterns — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1921
+recheck_by: 1924
 sources:
   - id: colvin-1921
     resource: "https://www.apa.org/pubs/journals/edu"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1924**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Colvin argues that intelligence tests measure learning ability indirectly, and their validity depends on all those tested having had a common opportunity to learn the tested skills, facts, and methods. [→ Colvin 1921](#colvin-1921)

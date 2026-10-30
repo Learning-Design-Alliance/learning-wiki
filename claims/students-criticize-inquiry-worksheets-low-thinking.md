@@ -77,4 +77,4 @@ Another student comment in the same theme, noting the virtual lab hastened learn
 - [Virtual labs showed a limitation in helping students transfer what they learned from teacher demonstration to new inquiry contexts](virtual-lab-transfer-from-demonstration-limited.md) — related
 - [Wavelength (and analogously voltage) is a difficult concept for learners: most show no improvement and some regress, even under systematic inquiry](wavelength-voltage-hard-to-learn-simulations.md) — related
 - [Leveraging appropriate types of guidance during the relevant phases of inquiry benefits student inquiry in virtual and remote labs](phase-appropriate-guidance-benefits-inquiry-labs.md) — related
-- [The virtual and remote labs literature to 2015 can be characterized by its most influential publications, most researched topics, and evolving topic interest](bibliometric-characterization-virtual-remote-lab-literature.md) — related
+- The virtual and remote labs literature to 2015 can be characterized by its most influential publications, most researched topics, and evolving topic interest — related

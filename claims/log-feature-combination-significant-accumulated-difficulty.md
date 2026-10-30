@@ -10,6 +10,7 @@ generated:
 evidence_strength: moderate
 newest_evidence: 2016
 source_checked: 2026-10-27
+recheck_by: 2019
 sources:
   - id: ruth-janning-2016
     resource: "https://doi.org/10.1007/s40593-016-0097-9"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2016 · checked against its sources 2026-10-27 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-10-27 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` A combination of average time until skip and average time until first hint request significantly predicts accumulated perceived task-difficulty (p = 0.00516, Adjusted R2 = 0.8923) in a study with 7 students. [→ Ruth Janning 2016](#ruth-janning-2016)

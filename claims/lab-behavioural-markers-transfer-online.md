@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2017
+recheck_by: 2020
 sources:
   - id: jason-m-lodge-and-linda-corrin-2017
     resource: "https://doi.org/10.1038/s41539-017-0006-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` When behavioural markers of confusion identified in laboratory studies appear during real online learning, educators can say with some confidence that a student may be confused and intervene. [→ Jason M. Lodge and Linda Corrin 2017](#jason-m-lodge-and-linda-corrin-2017)

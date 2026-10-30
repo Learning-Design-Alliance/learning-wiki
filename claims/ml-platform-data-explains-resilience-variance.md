@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: chen-2024
     resource: "https://doi.org/10.1038/s41539-024-00265-3"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` An elastic regression model including click data pre-processed into 400 categories explains 77% of the variance in resilience, orthogonalized against the behavioral grit measure. [→ Chen 2024](#chen-2024)
@@ -51,6 +52,6 @@ Elastic regression on platform click data (400 categories, PCA-reduced, N = 1434
 - [Student-rated teacher behaviours predict 4.39% of the variance in students' change in engagement in physical education across the first year of secondary school](teacher-behaviours-predict-4-percent-variance-engagement-change.md) — related
 - [A machine learning model using 105 predictors predicts next-year standardized math achievement with out-of-sample prediction R-squared of .70–.78](ml-model-predicts-next-year-math-achievement-r2-70-78.md) — related
 - [The COVID-19 switch to remote schooling was accompanied by significant declines in math and science scores on a UAE digital learning platform](covid-remote-learning-score-declines-uae-platform.md) — related
-- [Regression optimizes explanation of data at hand while machine learning optimizes out-of-sample prediction, and studies must state which aim they pursue](explaining-versus-predicting-development.md) — related
+- Regression optimizes explanation of data at hand while machine learning optimizes out-of-sample prediction, and studies must state which aim they pursue — related
 - [TimeOnTask threshold values computed by ToTCompute explain up to 76.2% of the variance in engagement change](totcompute-threshold-explains-engagement-change-variance.md) — related
 - [Engagement does not mediate the grade difference between tool users and non-users](engagement-does-not-mediate-grade-difference.md) — related

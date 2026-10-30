@@ -45,7 +45,7 @@ CFA of inference, theory of mind, and comprehension monitoring tasks in English 
 
 
 ## Related Claims
-- [A bifactor model of oral language and reading fits better than one-, three-, and four-factor models in every grade from 4th through 10th](bifactor-model-best-fit-grades-4-10.md) — related
+- A bifactor model of oral language and reading fits better than one-, three-, and four-factor models in every grade from 4th through 10th — related
 - [In an empirical comparison on a testlet-based English assessment test, the bifactor model is preferred over the second-order and unidimensional 2PL models by both AIC and BIC](bifactor-model-preferred-aic-bic-testlet-test.md) — related
 - [The higher order cognition general factor is fairly strongly related to writing quality (r = .59), and the relation remains after covariates and is similar across English immersion and dual immersion programs](hocs-general-factor-relates-to-writing-quality.md) — related
 - [Higher order cognitive skills (inference, perspective taking, monitoring) are differentially related to writing quality, writing productivity, and correctness in writing in Grade 2](higher-order-cognitions-differential-writing-dimensions-grade2.md) — related
@@ -54,5 +54,5 @@ CFA of inference, theory of mind, and comprehension monitoring tasks in English 
 - [Spanish-speaking language-minority preschoolers show a common underlying proficiency for phonological awareness, with bifactor models fitting better than correlated-factors models](common-underlying-proficiency-phonological-awareness.md) — related
 - [A common underlying proficiency exists for print knowledge, and it accounted for more variance than for phonological awareness, contrary to the authors' hypothesis](common-underlying-proficiency-print-knowledge.md) — related
 - [No common underlying proficiency emerges for oral language: bifactor models of expressive and definitional vocabulary did not converge](no-common-underlying-proficiency-oral-language.md) — related
-- [Bifactor-ESEM shows the highest fit among CFA, ESEM, bifactor-CFA and bifactor-ESEM models, supporting AITAQS as one general factor plus four specific dimensions.](aitaqs-bifactor-esem-best-fit.md) — a narrower finding that bears on this claim
+- Bifactor-ESEM shows the highest fit among CFA, ESEM, bifactor-CFA and bifactor-ESEM models, supporting AITAQS as one general factor plus four specific dimensions. — a narrower finding that bears on this claim
 - [Only about 62% of the reliable variance in total DL scores is attributable to the general dimension, supporting a multidimensional interpretation](dl-general-dimension-62-percent-reliable-variance.md) — related

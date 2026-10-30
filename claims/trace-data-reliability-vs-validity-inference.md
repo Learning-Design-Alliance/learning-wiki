@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: de-barba-2025
     resource: "https://doi.org/10.1007/s11423-025-10521-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` While learning analytics can reliably record behaviors like LMS logins or resource access, interpreting these as indicators of specific SRL processes requires careful validation. [→ de Barba 2025](#de-barba-2025)

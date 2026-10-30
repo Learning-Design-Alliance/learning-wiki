@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: sapey-triomphe-2023
     resource: "https://doi.org/10.1038/s41539-023-00207-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q3 i3` The intra-individual standard deviation of detection threshold measures was much higher in NT than in ASD participants, indicating higher sensory precision in ASD on this second-order measure. [→ Sapey-Triomphe 2023](#sapey-triomphe-2023)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: moderate
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: herbert-w-marsh-2023
     resource: "https://doi.org/10.1007/s10648-023-09768-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q3 i?` School-average achievement negatively predicts all four belief variables (a big-fish-little-pond effect), and these adverse effects are larger for parents and particularly teachers than for students. [→ Herbert W. Marsh 2023](#herbert-w-marsh-2023)

@@ -42,6 +42,7 @@ The studied program used a tiered time structure: "all students, experimental an
 ## Related Designs
 
 - [Align Tier 2 supplemental reading instruction with Tier 1 core instruction through teacher professional development and materials](align-tier2-with-tier1-core-reading-instruction.md)
+- [Small-group station rotation for Tier 2 reading intervention](small-group-station-rotation-tier2-reading.md)
 
 ## Examples
 -

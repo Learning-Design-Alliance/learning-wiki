@@ -54,4 +54,4 @@ The review reports, citing Ehm et al. (2019), that RI-CLPMs showed no statistica
 - [Adding lag-2 paths to CLPMs substantially improves fit and provides stronger controls for preexisting differences, positioning extended CLPMs as viable alternatives to RI-CLPMs](lag-2-paths-improve-clpm-fit-and-control.md) — related
 - [Time-reversed analysis of simulated data suggests a decreasing rather than increasing effect of self-concept on achievement, yielding inconsistent conclusions from the same data](time-reversed-model-suggests-decreasing-self-concept-effect.md) — related
 - [RI-CLPM on simulated PALMA-like data shows positive reciprocal cross-lagged effects between within-individual math achievement and self-concept](riclpm-simulated-palma-positive-reciprocal-effects.md) — related
-- [The choice of longitudinal statistical model can determine whether reciprocal motivation-achievement relations are found](statistical-model-choice-reciprocal-effects.md) — possibly the same claim (merge candidate)
+- The choice of longitudinal statistical model can determine whether reciprocal motivation-achievement relations are found — possibly the same claim (merge candidate)

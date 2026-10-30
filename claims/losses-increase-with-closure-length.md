@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: maciej-jakubowski-2025
     resource: "https://doi.org/10.1038/s41539-025-00297-3"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Countries at the 90th percentile of closure length lost 17–23% of a SD, versus 9–12% of a SD for countries at the 10th percentile, across four closure measures. [→ Maciej Jakubowski 2025](#maciej-jakubowski-2025)

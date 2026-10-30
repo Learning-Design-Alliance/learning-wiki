@@ -47,7 +47,7 @@ The record's abstract reports an empirical investigation of the proposed LX desi
 
 ## Related Claims
 - [Integrating immersive VR simulations in science classrooms introduces new challenges and there is a lack of learning designs to inform practice](immersive-vr-science-classrooms-challenges-lack-of-designs.md) — related
-- [A mixed-method approach was adopted to evaluate students' conceptual learning gains and their perceptions of the immersive VR simulation and inquiry-based learning process](mixed-method-evaluation-gains-and-perceptions-immersive-vr.md) — related
+- A mixed-method approach was adopted to evaluate students' conceptual learning gains and their perceptions of the immersive VR simulation and inquiry-based learning process — related
 - [Computer-supported collaborative learning with simulation programs fostered conceptual change for students who were cognitively engaged and prepared to reflect on and reconstruct their conceptions](cscl-simulation-conceptual-change-cognitive-engagement.md) — related
 - [Immersive VR simulation increased self-efficacy and intrinsic motivation more than a conventional safety manual in laboratory safety training](immersive-vr-boosted-self-efficacy-intrinsic-motivation.md) — related
 - [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — related

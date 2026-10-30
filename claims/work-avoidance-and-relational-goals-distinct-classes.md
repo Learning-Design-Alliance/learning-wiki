@@ -45,7 +45,7 @@ In the CFA supporting Hypothesis 1d, work avoidance and relational goals, often 
 
 
 ## Related Claims
-- [Learning avoidance goals are separable from learning approach goals in university instructors.](learning-avoidance-separable-from-learning-approach.md) — related
+- Learning avoidance goals are separable from learning approach goals in university instructors. — related
 - [Task goals can be separated from learning goals and normative performance goals, each with approach and avoidance components.](task-goals-separable-from-learning-and-normative-goals.md) — related
 - [Specific goals show distinct directional effects: mastery approach and relational goals predict positive affect, beneficial help attitudes, and teaching quality, while work avoidance and appearance avoidance goals predict poorer outcomes.](specific-goal-directional-effects-on-outcomes.md) — related
 - [University instructors' performance goals split into four classes: appearance and normative components, each approach and avoidance.](four-performance-goal-classes-appearance-normative.md) — related

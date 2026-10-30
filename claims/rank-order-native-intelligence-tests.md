@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 1921
+recheck_by: 1924
 sources:
   - id: chapman-1921
     resource: "https://archive.org/search?query=A+Further+Criterion+for+the+Selection+of+Mental+Test+Elements"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1924**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Under the present system of scoring, the order of merit of the tests as measures of native intelligence runs opposites, sentence completion, logical selection, arithmetical problems, symbol-digit substitution. [→ Chapman 1921](#chapman-1921)

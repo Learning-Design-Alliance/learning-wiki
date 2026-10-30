@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2005
+recheck_by: 2008
 sources:
   - id: aurora-vizcaíno-2005
     resource: "https://telearn.hal.science/hal-00197303"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2008**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` An experiment testing the Simulated Student's efficiency at correcting the three negative situations found it worked correctly in the majority of the situations. [→ Aurora Vizcaíno 2005](#aurora-vizcaino-2005)

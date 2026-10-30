@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1914
+recheck_by: 1917
 sources:
   - id: kohs-1914
     resource: "https://www.google.com/search?q=%22Binet-Simon+Measuring+Scale+for+Intelligence%22+Kohs+annotated+bibliography"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 1914 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1914 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1917**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The review reports, citing Goddard's 1911 study, that measuring two thousand normal children at Vineland led to the scale being found wonderfully accurate. [→ Kohs 1914](#kohs-1914)

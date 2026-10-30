@@ -65,5 +65,5 @@ Cost-minimization application with the same parameter values and a target power 
 
 ## Related Claims
 - [The variability of the between slope estimate in the multilevel latent covariate model decreases with more classes and students, with higher ICC(1) of the ratings and larger slopes, but increases with higher ICC(1) of the outcome](between-slope-variability-depends-on-iccs-and-slopes.md) — related
-- [Under a fixed budget, a higher ICC(1) of the outcome variable shifts the optimal design toward more classes and fewer students per class and reduces maximum power](higher-outcome-icc1-shifts-optimal-design-toward-classes.md) — related
-- [A higher ICC(1) of students' ratings and a larger standardized between slope increase power, with opposite effects on the optimal split between classes and students per class](rating-icc1-and-between-slope-effects-on-power.md) — a broader claim this one bears on
+- Under a fixed budget, a higher ICC(1) of the outcome variable shifts the optimal design toward more classes and fewer students per class and reduces maximum power — related
+- A higher ICC(1) of students' ratings and a larger standardized between slope increase power, with opposite effects on the optimal split between classes and students per class — a broader claim this one bears on

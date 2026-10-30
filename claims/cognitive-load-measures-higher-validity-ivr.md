@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: lee-2026
     resource: "https://doi.org/10.1007/s10648-026-10186-9"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2` · `i2` medium
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i2` Cognitive load measures demonstrated significantly higher overall validity than measures of other constructs (U = 674.00, p = .018, r = .25). [→ Lee 2026](#lee-2026)
@@ -64,5 +65,5 @@ Component-wise Mann-Whitney comparisons in Results (Table 5), with effect sizes 
 
 
 ## Related Claims
-- [Attention is the most frequently assessed learning construct in IVR eye-tracking research, while motivation, self-regulation, and immersion are unexamined](attention-most-assessed-ivr-eye-tracking-construct.md) — related
+- Attention is the most frequently assessed learning construct in IVR eye-tracking research, while motivation, self-regulation, and immersion are unexamined — related
 - [Overall validity of eye-tracking measures of learning in IVR is limited, averaging 1.93 of 4, with data quality the weakest component](ivr-eye-tracking-overall-validity-limited.md) — related

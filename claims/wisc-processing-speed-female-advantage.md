@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: d-giofrè-k-allen-e-toffalini-s-caviola-2022
     resource: "https://doi.org/10.1007/s10648-022-09705-1"
@@ -40,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · quant-synthesis `r3` · `q3` · `i1`–`i2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q3 i1` The pooled gS effect significantly favours females (d = -0.37), equivalent to roughly -5.49 IQ points. [→ D. Giofrè · K. Allen · E. Toffalini · S. Caviola 2022](#d-giofre-k-allen-e-toffalini-s-caviola-2022)

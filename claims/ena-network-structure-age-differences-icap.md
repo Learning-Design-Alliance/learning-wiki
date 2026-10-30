@@ -71,7 +71,7 @@ Follow-up connection-strength test in the Findings section: older adults' active
 - [Age groups differ in ICAP engagement distribution: younger adults engage more in active mode, older adults more in constructive and interactive modes, during collaborative concept-map learning](icap-engagement-distribution-age-differences.md) — related
 - [Younger adults show higher learning performance than older adults in collaborative concept-map learning of psychological concepts, and older adults show no learning gain](older-adults-no-learning-gain-cscl-concept-maps.md) — related
 - [Weekly ENA mean comparisons showed significant high–low performer differences in Weeks 2, 3, 6, and 7 on mr1 and in Weeks 5, 6, and 10 on svd2](weekly-ena-ttests-significant-weeks.md) — related
-- [Verbal-utterance-based methods leave collaboration in groups with asymmetrical interactions, such as young children, unexamined](verbal-methods-exclude-asymmetric-groups.md) — related
+- Verbal-utterance-based methods leave collaboration in groups with asymmetrical interactions, such as young children, unexamined — related
 - [Concept-map generation requires age-appropriate instructional support: younger learners profit from high-coherence, pre-structured maps](concept-mapping-support-age-interaction.md) — related
 - [Older learners outperform under passive instruction while younger learners outperform under active instruction (learner age × learning approach interaction)](older-adults-passive-beats-active-concept-learning.md) — related
 - [Age is a central network node: older participants read more and watch more TV, younger participants use social networks and study more](age-central-node-free-time-activities.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2019
+recheck_by: 2022
 sources:
   - id: wen-wu-2019
     resource: "https://doi.org/10.1007/s40593-018-00173-9"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Covariance tests identify significant LASSO predictors per trait, e.g., question marks and keyboard activities for Openness, chat message counts for Conscientiousness and Extraversion. [→ Wen Wu 2019](#wen-wu-2019)

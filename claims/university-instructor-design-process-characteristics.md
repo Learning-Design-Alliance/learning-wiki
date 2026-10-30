@@ -46,9 +46,9 @@ The commentary reports Bennett et al.'s qualitative study of 30 instructors at 1
 
 
 ## Related Claims
-- [Bennett et al.'s research has limited detail about faculty design skills and emphasizes how faculty design resembles others' design approaches.](bennett-et-al-limited-detail-faculty-design-skills.md) — related
+- Bennett et al.'s research has limited detail about faculty design skills and emphasizes how faculty design resembles others' design approaches. — related
 - [Bennett et al.'s study establishes faculty roles as designers of learning, an essential consideration when institutions seek digital design talent.](faculty-roles-as-designers-essential-for-digital-design-talent.md) — related
-- [A limitation of the Bennett et al. study is reliance on self-reported interview data without design artifacts for triangulation](interview-only-data-limitation-design-study.md) — related
+- A limitation of the Bennett et al. study is reliance on self-reported interview data without design artifacts for triangulation — related
 - [University teachers follow a top-down design approach considering learning outcomes, content scope, activities and assessment](teachers-top-down-design-process.md) — a narrower finding that bears on this claim
 - [Teachers' design work extends before, while, and after a unit is taught](design-work-extends-before-while-after-unit.md) — a narrower finding that bears on this claim
 - [A qualitative study of 30 university teachers reported three design practices that are incremental and iterative](three-incremental-iterative-design-practices-university-teachers.md) — related

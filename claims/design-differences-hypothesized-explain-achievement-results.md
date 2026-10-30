@@ -48,4 +48,4 @@ Authors' interpretive statement in the paper's abstract. It presents an explanat
 - [A large-scale experimental study compared the effects of the four mathematics curricula on student achievement](large-scale-experimental-study-curricula-achievement.md) — related
 - [A comparative documentary analysis of four US mathematics curricula found substantially different types of opportunities to learn across the curricula](four-math-curricula-different-opportunities-to-learn.md) — related
 - [The authors interpret the null result as partly reflecting a tension between adaptive mastery learning and curricular coverage: students who master early topics slowly may not reach later topics tested by the state assessment](adaptive-mastery-versus-coverage-tension-null-result.md) — related
-- [Studies comparing digital tools to other instruction without hypothesizing instructional features cannot explain why effects occur](feature-free-comparisons-lack-theoretical-mediator.md) — related
+- Studies comparing digital tools to other instruction without hypothesizing instructional features cannot explain why effects occur — related

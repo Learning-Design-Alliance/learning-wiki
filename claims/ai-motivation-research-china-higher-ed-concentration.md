@@ -79,9 +79,9 @@ Charted educational levels of the 156 included studies. The review reports highe
 - Research on K‑5 writing motivation self‑reports grew sharply after 2009 and is geographically concentrated in North America and Asia — related
 - [The belief that the United States exclusively dominates the AI arena is challenged by the rapid ascent of China](us-exclusive-ai-dominance-challenged-by-china.md) — related
 - [Teacher-AI co-design research is concentrated in teacher education and higher education, while secondary and primary education settings remain relatively underdeveloped](k12-underrepresented-teacher-ai-codesign-research.md) — related
-- [Authorship of AIED systematic reviews is concentrated in Asia and Europe, with China, Spain, and the United States the most productive countries](aied-review-authorship-geographic-distribution.md) — related
-- [AIED ethics publication output is concentrated in Europe, led by the United Kingdom (47%) and Finland (20%)](aied-ethics-publications-european-concentration.md) — related
-- [The 22 reviewed AI-in-EFL studies are concentrated in Southeast Asia and predominantly use mixed-method and quasi-experimental designs](ai-efl-review-descriptive-distribution.md) — related
-- [Spain, the United Kingdom, Germany, Greece, and the United States conducted the most studies](countries-conducting-most-studies.md) — related
-- [Digital distraction research is concentrated in the United States and peaked in publication years 2020 and 2023](digital-distraction-publication-patterns.md) — related
+- Authorship of AIED systematic reviews is concentrated in Asia and Europe, with China, Spain, and the United States the most productive countries — related
+- AIED ethics publication output is concentrated in Europe, led by the United Kingdom (47%) and Finland (20%) — related
+- The 22 reviewed AI-in-EFL studies are concentrated in Southeast Asia and predominantly use mixed-method and quasi-experimental designs — related
+- Spain, the United Kingdom, Germany, Greece, and the United States conducted the most studies — related
+- Digital distraction research is concentrated in the United States and peaked in publication years 2020 and 2023 — related
 - [Adoption of Wikipedia assignments shows a global digital divide, concentrated in English-speaking countries](wikipedia-assignments-global-digital-divide.md) — related

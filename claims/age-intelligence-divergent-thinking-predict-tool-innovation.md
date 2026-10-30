@@ -70,6 +70,6 @@ In the same regressions, Simon Says inhibition positively and DCCS cognitive fle
 ## Related Claims
 - [Creativity, crystallized intelligence, fluid intelligence and executive functions are all correlated in children aged 8 to 13](cognitive-variables-creativity-correlations-children.md) — related
 - [After controlling for children's level of intelligence, only shifting and inhibition make a significant contribution to creativity](shifting-inhibition-unique-creativity-contribution-children.md) — related
-- [Single latent factor models fitted both task success and ideal manipulation well, suggesting robust internal consistency, though Cling-subtract loaded weakly on task success](cfa-single-factor-internal-consistency-tool-innovation.md) — related
+- Single latent factor models fitted both task success and ideal manipulation well, suggesting robust internal consistency, though Cling-subtract loaded weakly on task success — related
 - [Task difficulty moderated the facilitating effect of flexibility on ideal manipulation only, with the effect more salient for harder tasks](difficulty-moderates-flexibility-ideal-manipulation-only.md) — related
 - [The nine new tool innovation tasks showed varied difficulty levels, with task success rates ranging from 33% to 94% and ideal manipulation rates from 24% to 91%](nine-tool-innovation-tasks-varied-difficulty-33-94.md) — related

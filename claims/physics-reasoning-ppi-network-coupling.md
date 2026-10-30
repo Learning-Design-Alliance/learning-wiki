@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: bartley-2019
     resource: "https://doi.org/10.1038/s41539-019-0059-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` PPI analyses showed greater physics-related coupling of left V5/MT+ with DAN areas, left dlPFC with V5/MT+ and DMN areas, and RSC with frontoparietal, DMN, and SN regions relative to control conditions. [→ Bartley 2019](#bartley-2019)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: polepalli-2020
     resource: "https://doi.org/10.1038/s41539-020-0071-z"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Direct thalamic (AT) input reaches ~91% of LA interneurons but 67% of BA interneurons, and AT-evoked EPSCs are significantly smaller in BA (53 ± 14 pA) than LA (191 ± 18 pA; p < 0.0001). [→ Polepalli 2020](#polepalli-2020)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1913
+recheck_by: 1918
 sources:
   - id: wm-h-burnham-1913
     resource: "https://eric.ed.gov/"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
-> **Currency** · newest study 1913 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1913 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1918**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The printed program stated that there are many forms of insanity, that a large percentage is preventable, and that a considerable proportion is curable. [→ Wm. H. Burnham 1913](#wm-h-burnham-1913)

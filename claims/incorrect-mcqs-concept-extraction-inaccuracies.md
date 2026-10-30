@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: giacomo-cassano-2026
     resource: "https://doi.org/10.1007/s11423-026-10646-7"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Fifteen MCQs (5.84%) were judged incorrect for reasons not attributable to any IWF criteria; examination of generation steps traced the issues to concept-extraction inaccuracies. [→ Giacomo Cassano 2026](#giacomo-cassano-2026)

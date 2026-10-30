@@ -17,7 +17,7 @@ sources:
 # Employ multimodal methods to capture the multifaceted feedback process
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The fourth step advocates combining multiple data modalities when studying feedback. The article states "employing multimodal methods can enrich our comprehension of the multifaceted nature of the feedback process". The rationale is that no single data type suffices for a phenomenon the article characterizes as multifaceted, so multimodal designs are recommended to deepen understanding of how feedback unfolds.
@@ -38,7 +38,6 @@ The fourth step advocates combining multiple data modalities when studying feedb
 
 ## Claims
 
-- [Multimodal data collection is increasingly common but analyses rarely align data streams temporally](../claims/rare-alignment-of-multimodal-data-streams.md) [~W]
 
 ## Related Strategies
 

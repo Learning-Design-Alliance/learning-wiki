@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: campos-2024
     resource: "https://doi.org/10.1007/s10648-024-09862-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` LR+SBERT outperformed the other nine tested algorithms, allowing reviewers to locate 95% of relevant studies without screening 65% (SD = 18%) of irrelevant abstracts, saving 1.80 days on average. [→ Campos 2024](#campos-2024)
@@ -45,7 +46,7 @@ Simulation comparison of ten learning algorithms across 27 abstract collections 
 
 
 ## Related Claims
-- [A data-driven stopping rule needs about 7% consecutive irrelevant abstracts to reach 95% sensitivity, saving on average 1.04 days](data-driven-stopping-7-percent-consecutive-irrelevant.md) — related
-- [Active learning algorithms reduce abstract-screening workload in education systematic reviews, saving on average 58% of irrelevant-record screening and 1.66 days at 95% sensitivity](ml-screening-reduces-workload-education-reviews.md) — a broader claim this one bears on
-- [A time-based stopping rule requires screening about 70% of abstracts to reach 95% sensitivity, saving on average 0.86 days](time-based-stopping-70-percent-95-sensitivity.md) — related
+- A data-driven stopping rule needs about 7% consecutive irrelevant abstracts to reach 95% sensitivity, saving on average 1.04 days — related
+- Active learning algorithms reduce abstract-screening workload in education systematic reviews, saving on average 58% of irrelevant-record screening and 1.66 days at 95% sensitivity — a broader claim this one bears on
+- A time-based stopping rule requires screening about 70% of abstracts to reach 95% sensitivity, saving on average 0.86 days — related
 - [Sensitivity under mixed stopping criteria correlated positively with collection length in some strategy groups but not others](mixed-stopping-sensitivity-correlates-with-collection-length.md) — related

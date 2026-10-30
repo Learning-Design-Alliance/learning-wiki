@@ -47,6 +47,6 @@ Repeated measures 3 × 2 factorial ANOVA with 54 typically developing children (
 ## Related Claims
 - [The advantage of computer role-play over paper-pencil vignettes in eliciting DSE holds for 6- and 8-year-olds but not for 10-year-olds](age-by-presentation-interaction-dse.md) — a narrower finding that bears on this claim
 - [Disinhibited social engagement declines with age in middle childhood, with 6-year-olds showing more DSE than 8- and 10-year-olds](dse-declines-with-age-middle-childhood.md) — related
-- [The authors report this as the first study to quantify DSE and social vulnerability in typically developing middle-childhood populations](first-quantification-dse-middle-childhood.md) — related
+- The authors report this as the first study to quantify DSE and social vulnerability in typically developing middle-childhood populations — related
 - [Theory of Mind is negatively correlated with DSE/social vulnerability scores on both task formats](tom-negatively-correlated-dse.md) — related
 - [Parent and teacher Relationship Problems Questionnaire scores did not correlate with children's DSE on either task](rpq-no-correlation-dse-typical-children.md) — related

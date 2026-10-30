@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1914
+recheck_by: 1917
 sources:
   - id: carl-c-brigham-1914
     resource: "https://doi.org/10.1037/h0071183"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1914 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1914 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1917**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Of 194 cases, thirty were exceptional; nineteen were placed by the principal in the group the tests indicated, corroborating the scale. [→ Carl C. Brigham 1914](#carl-c-brigham-1914)

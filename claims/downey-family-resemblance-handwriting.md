@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1912
+recheck_by: 1917
 sources:
   - id: recent-studies-in-handwriting-1912
     resource: "https://doi.org/10.1037/h0068789"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 1912 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1912 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1917**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Downey's preliminary study finds that despite conventional teaching, writers lapse into characteristic styles that frequently resemble the handwriting of others in the same family, explicable only on the basis of family relationship. [→ Recent Studies in Handwriting 1912](#recent-studies-in-handwriting-1912)

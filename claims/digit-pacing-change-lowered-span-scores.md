@@ -48,4 +48,4 @@ Incidental observation during the ten-day study: on the third trial one experime
 - [Individual children's memory span scores vary considerably between two testings five weeks apart](memory-span-individual-scores-vary-five-weeks.md) — related
 - [Test-retest correlations of memory span are low, questioning the validity of a single memory span test](low-memory-span-retest-correlations.md) — related
 - [The digit series used was too short, with 73 of 970 trials reaching the maximum score of ten](memory-span-ceiling-ten-digits.md) — related
-- [The study's conclusions rest on only sixty-five individually tested unretarded cases, limiting generalization](conclusions-rest-on-sixty-five-individual-cases.md) — related
+- The study's conclusions rest on only sixty-five individually tested unretarded cases, limiting generalization — related

@@ -48,5 +48,5 @@ Planned contrasts in the randomized three-condition experiment (n=81) showed TP 
 ## Related Claims
 - [No significant between-condition difference in learning time in the mobile leaf-morphology experiment](no-learning-time-difference-mobile-media-conditions.md) — related
 - [No split-attention difference in comprehension or learning efficiency between text+picture on a mobile device and text on a mobile device plus real objects](no-split-attention-effect-mobile-text-picture-versus-text-real-objects.md) — related
-- [The three media conditions did not differ significantly in prior knowledge or previous grades, supporting baseline equivalence](conditions-equivalent-prior-knowledge-grades-leaf-morphology-study.md) — related
+- The three media conditions did not differ significantly in prior knowledge or previous grades, supporting baseline equivalence — related
 - [In one middle-school quasi-experiment, adding written text to spoken narration makes no significant difference to achievement with either abstract or concrete animation](redundancy-effect-not-significant-middle-school.md) — related

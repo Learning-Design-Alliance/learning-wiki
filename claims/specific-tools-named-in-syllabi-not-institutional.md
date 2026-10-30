@@ -53,4 +53,4 @@ Course syllabus coding of the 98 CS syllabi recorded tool mentions; Table 2 rate
 - [Most undergraduate students in computer science–related programs are unaware of their institution's GenAI regulations (62.25% not aware; 25.83% aware)](low-student-awareness-institutional-genai-regulations.md) — related
 - [Only 9 of 23 courses publicly named AI tools, with Claude Code, Cursor, and GitHub Copilot most frequent and a fragmented long tail](ai-se-courses-tool-documentation-fragmented.md) — related
 - [Among the 50 most innovative U.S. universities, instructor-set syllabus-level governance is the dominant GenAI convergence, with 33 of 50 providing syllabus or course-policy guidance](instructor-syllabus-level-genai-governance-dominant.md) — related
-- [ChatGPT was the most commonly used GenAI tool in reviewed programming education research](chatgpt-most-used-genai-tool-programming-education.md) — related
+- ChatGPT was the most commonly used GenAI tool in reviewed programming education research — related

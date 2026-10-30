@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1917
+recheck_by: 1920
 sources:
   - id: cummins-1917
     resource: "https://psycnet.apa.org"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1920**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Early entrance among graduated boys decreased over the four years while early entrance among girls showed the reverse trend, yielding a combined increase. [→ Cummins 1917](#cummins-1917)

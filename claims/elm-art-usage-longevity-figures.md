@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: gerhard-weber-peter-brusilovsky-2016
     resource: "https://doi.org/10.1007/s40593-015-0066-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Over many years of service, more than 20,000 people used ELM-ART and more than 1000 completed the whole course. [→ Gerhard Weber & Peter Brusilovsky 2016](#gerhard-weber-peter-brusilovsky-2016)

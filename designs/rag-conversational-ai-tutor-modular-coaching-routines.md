@@ -43,6 +43,7 @@ The Conversational AI Tutor is a retrieval-grounded conversational module built 
 
 - [CrewScaler 16-protocol AI-tutor coaching library](crewscaler-16-protocol-ai-tutor-library.md)
 - [Retrieval-augmented generative AI learning platform for construction education](rag-generative-ai-platform-construction-education.md)
+- [E-Tutor's dynamic learner model: skill-specific scores and phrase descriptors modulate feedback and remediation](e-tutor-dynamic-learner-model-phrase-descriptors.md)
 
 ## Examples
 -

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: schmid-2023
     resource: "https://doi.org/10.1007/s11423-022-10167-z"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In the case schools, older teachers tended to hold more negative beliefs about digital technology than younger teachers, and all interviewed persons in School C independently stated younger teachers have higher digital skills. [→ Schmid 2023](#schmid-2023)

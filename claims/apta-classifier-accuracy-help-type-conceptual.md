@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2014
+recheck_by: 2017
 sources:
   - id: walker-2014
     resource: "https://doi.org/10.1007/s40593-013-0001-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: tool and model accuracy changes quickly
 > **Design limits** · Walker 2014: no comparison group (read from the study by two models, 2026-10-27)
 
 ## Subclaims
@@ -46,4 +47,4 @@ Technical evaluation of APTA's dialogue classifiers built with Taghelper Tools, 
 
 
 ## Related Claims
-- [A prior-study corpus of 84 peer tutoring sessions was coded for help type and conceptual content with kappa of 0.83 and 0.72](apta-peer-tutoring-dialogue-corpus-coding.md) — related
+- A prior-study corpus of 84 peer tutoring sessions was coded for help type and conceptual content with kappa of 0.83 and 0.72 — related

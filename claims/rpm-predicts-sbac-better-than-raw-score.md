@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: ethan-roy-2025
     resource: "https://doi.org/10.1038/s41539-025-00314-5"
@@ -40,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · associational `r2`–`r3` · `q3` · `i0` negligible
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i0` Common RPM correlated with SBAC achievement at r = 0.67, exceptional RPM at r = 0.59, and the traditional raw score at r = 0.42, all significantly different from each other. [→ Ethan Roy 2025](#ethan-roy-2025)

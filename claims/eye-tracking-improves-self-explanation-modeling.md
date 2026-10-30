@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: conati-2016
     resource: "https://doi.org/10.1007/s40593-015-0074-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Information on user attention patterns collected via an eye-tracker significantly increased a student model's ability to capture self-explanation compared to a lower-level time-based predictor, and increased accuracy in predicting learning outcomes. [→ Conati 2016](#conati-2016)

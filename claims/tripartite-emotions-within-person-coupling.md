@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: wang-2026
     resource: "https://doi.org/10.1038/s41539-026-00446-2"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i2` Higher-than-usual anxiety coincided with lower enjoyment (rwithin ≈ −0.41) and lower boredom (rwithin ≈ −0.28), while higher enjoyment coincided with higher boredom (rwithin ≈ +0.61). [→ Wang 2026](#wang-2026)

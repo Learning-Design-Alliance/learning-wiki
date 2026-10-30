@@ -47,7 +47,7 @@ The article identifies a limitation of the reviewed research — it "focused mos
 ## Related Claims
 - [A second rationale treats the network as a catalyst for enactment and sustainability of reforms with TPD (15 studies, mostly US)](network-as-catalyst-for-reform-rationale.md) — related
 - [The most common rationale treats the teacher network as a source of professional development (32 of 51 studies)](network-as-source-of-tpd-rationale.md) — related
-- [Two further rationales treat the network as purposefully (re)shaped by TPD initiatives or as a latent school capacity (7 studies each)](network-reshaped-and-capacity-rationales.md) — related
-- [Included studies conceptualized TPD in ten distinct themes, most often as improvement of instructional practices (20 studies)](ten-tpd-conceptualization-themes.md) — related
+- Two further rationales treat the network as purposefully (re)shaped by TPD initiatives or as a latent school capacity (7 studies each) — related
+- Included studies conceptualized TPD in ten distinct themes, most often as improvement of instructional practices (20 studies) — related
 - [Seven responses to Philipsen et al.'s study offer valuable ideas and guidelines for developing TPD for OBL in times of crisis](seven-responses-apply-tpd-obl-framework-in-crisis.md) — related
-- [The response discusses limitations of the Philipsen et al. (2019) review and suggestions for future research](an-2021-discusses-limitations-and-future-research.md) — a broader claim this one bears on
+- The response discusses limitations of the Philipsen et al. (2019) review and suggestions for future research — a broader claim this one bears on

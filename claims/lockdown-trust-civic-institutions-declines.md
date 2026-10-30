@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: kennedy-2026
     resource: "https://github.com/OxCGRT/covid-policy-dataset"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The strongest relationship with school closure duration was with the trust in civic institutions measure (-0.08SD). [→ Kennedy 2026](#kennedy-2026)
@@ -48,6 +49,6 @@ Comparison of standardized coefficients across outcomes in the same analysis. Th
 - [Civic Mindedness](../learner-variables/civic-mindedness.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Robustness of the lockdown-civic outcome associations varies by outcome, with legal protest and trust/closure results most consistent](lockdown-civic-results-outlier-sensitivity.md) — related
+- Robustness of the lockdown-civic outcome associations varies by outcome, with legal protest and trust/closure results most consistent — related
 - [Item-level declines in trust under lockdown stringency are driven by local government and parliament, with no significant relationship for trust in political parties](trust-item-level-local-government-parliament.md) — related
 - [Longer school closures are associated with greater declines in grade 8 civic knowledge](school-closure-duration-civic-knowledge-declines.md) — related

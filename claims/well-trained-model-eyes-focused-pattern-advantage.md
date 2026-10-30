@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: hsiao-2022
     resource: "https://doi.org/10.1038/s41539-022-00139-6"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · `i2` medium
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i2` Well-trained DNN+HMM models with the eyes-focused pattern showed higher face recognition accuracy than nose-focused models (effect size d = 0.75). [→ Hsiao 2022](#hsiao-2022)

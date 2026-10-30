@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: gómez-tejedor-2020
     resource: "https://doi.org/10.1016/j.compedu.2019.103708"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: local conditions change quickly
 
 ## Subclaims
 `q3 i?` Within-method year-pair comparisons (TM vs TM, FT vs FT) showed no significant differences, justifying pooling the two years per method. [→ Gómez-Tejedor 2020](#gomez-tejedor-2020)
