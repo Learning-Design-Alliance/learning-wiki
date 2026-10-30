@@ -21,6 +21,7 @@ A collaborative-learning wiki platform developed by Gerry Stahl and colleagues t
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Wiki Design Platform with awareness, navigation, communication, and analysis components for online intersubjective space**: Presented in the issue's first article (Larusson and Alterman), the Wiki Design Platform builds on the wiki's malleable, easy-to-use interface, which the editorial says "is, however, in need of specific kinds of additional functionality for collaborative learning settings." It "provides a suite of awareness, navigation, communication, and analysis components and scaffolds." Two college case studies — HCI design projects and co-blogging about course readings — show different component selections creating an online intersubjective space for different collaboration forms. (Gerry Stahl et al. (2009))
+- **Open source web toolkit for collaborative design pattern creation**: The article reports that a distributed pan-European project team developed 'a set of over 120 design patterns, created using our freely available open source web toolkit'. The toolkit supports the participatory, collaborative creation of design patterns by interdisciplinary teams working at a distance. It is described as freely available and open source. (Niall Winters (2007))
 
 ### Claims
 
@@ -36,3 +37,4 @@ A collaborative-learning wiki platform developed by Gerry Stahl and colleagues t
 
 ## Key Sources
 - Gerry Stahl & Friedrich Hesse. (2009). Paradigms of shared knowledge. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-009-9075-7
+- Niall Winters, Yishay Mor. (2007). IDR: a participatory methodology for interdisciplinary design in technology enhanced learning. Computers and Education. https://telearn.hal.science/hal-00190043

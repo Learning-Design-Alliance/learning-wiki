@@ -49,3 +49,4 @@ Structural model assessment in PLS-SEM evaluated explanatory power and predictiv
 - [The serial mediation model explains 32.5–37.0% of variance in AI-TPACK, self-efficacy, and AI integration intention](model-explained-variance-ai-integration-outcomes.md) — related
 - [The integrated model explains substantial variance in student engagement (R² = 0.700) in GenAI-supported learning](integrated-model-explains-engagement-variance-r2-700.md) — related
 - [The four-predictor model explains approximately 55.4% of variance in teachers' AI integration ability](plssem-model-explains-55-percent-variance-ai-integration.md) — related
+- [The modified UTAUT model accounts for 62% of variance in behavioral intention and 19% of variance in use behavior.](modified-utaut-variance-explained-mall.md) — related

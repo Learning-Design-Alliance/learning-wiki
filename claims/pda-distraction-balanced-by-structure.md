@@ -9,6 +9,7 @@ generated:
   at: 2026-10-30
 evidence_strength: moderate
 newest_evidence: 2010
+source_checked: 2026-10-30
 sources:
   - id: reynolds-2010
     resource: "https://doi.org/10.1016/j.compedu.2010.04.010"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2010 · checked against its sources 2026-10-30 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` For all the students who reported the PDA was a distraction, a similar number said it helped structure their visit and broaden their knowledge. [→ Reynolds 2010](#reynolds-2010)
@@ -52,3 +53,4 @@ Formative evaluation findings on technological mediation: students commented the
 - [Synchronous autonomous AI suggestions increased perceived writing efficiency but also caused distraction and mental overload during writing](synchronous-suggestions-efficiency-and-distraction.md) — related
 - [Learner-instructor and learner-content engagement strategies are negatively associated with digital distraction in online courses](instructor-content-engagement-associated-lower-distraction.md) — related
 - [Web-based museum trails enhanced design students' knowledge of, interest in, and closeness to museum objects](trails-enhanced-knowledge-interest-closeness-objects.md) — related
+- [Myartspace enabled students to gather substantial multimedia evidence during a museum visit](myartspace-effective-gathering-museum-evidence.md) — related

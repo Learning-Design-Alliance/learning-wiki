@@ -54,6 +54,7 @@ Item response theory (IRT) is presented as one of two fundamental approaches to 
 - [Choose CTT or MFRM for open-ended test development based on practicality and reported detail, not difficulty results](../strategies/choose-ctt-or-mfrm-by-practicality.md)
 - [Rasch rating-scale analysis methodology for deriving school survey measures](../research-methods/rasch-rating-scale-analysis-for-deriving-educational-survey-measures.md)
 - [Seven practical recommendations for IRT-based scale development](../strategies/irt-scale-development-practical-recommendations.md)
+- [Use Rasch-based path modeling to analyze Likert-scale survey data in learning technology acceptance research.](../strategies/rasch-based-path-modeling-survey-data.md)
 
 ## Key Sources
 - Kılıç, A. F., Koyuncu, İ, & Uysal, İ. (2023). Scale development based on item response theory: A systematic review. International Journal of Psychology and Educational Studies, 10(1), 209-223. https://dx.doi.org/10.52380/ijpes.2023.10.1.982

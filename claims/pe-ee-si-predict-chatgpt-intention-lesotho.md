@@ -63,3 +63,5 @@ PLS-SEM structural analysis of survey data from 842 Lesotho students (bootstrapp
 - [Effort expectancy positively influences behavioural intention to adopt m-learning in the three countries](ee-predicts-ml-bi-three-countries.md) — related
 - [Performance expectancy positively influences behavioural intention to adopt m-learning in Tunisia, Morocco, and Libya](pe-predicts-ml-bi-three-countries.md) — related
 - [Perceived usefulness, attitude, and behavioral intention form a significant TAM pathway predicting GenAI adoption among law students](tam-pathway-genai-adoption-law-students.md) — related
+- [Effort expectancy has no direct effect on behavioral intention; its effect is fully mediated by attitude.](effort-expectancy-mediated-by-attitude.md) — reports the opposite
+- [Performance expectancy significantly predicts both behavioral intention and actual use of MALL.](performance-expectancy-predicts-intention-and-use.md) — related

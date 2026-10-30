@@ -50,3 +50,4 @@ Multilevel analysis (IGLS in MlwiN) of 574 teachers nested in 53 Flemish primary
 - [Teachers' perceptions of school ICT policy predict classroom ICT use, whereas principals' perspectives show no significant effect](teacher-perceptions-not-principal-views-predict-ict-use.md) — related
 - [Teacher characteristics (computer attitudes, innovativeness, intensity of use) significantly predict classroom ICT use alongside policy factors](teacher-characteristics-predict-class-ict-use.md) — related
 - [About 9% of variance in classroom ICT use lies between schools, with the remainder between teachers within schools](variance-partition-school-teacher-ict-use.md) — related
+- [Traditional teacher beliefs negatively predict primary teachers' classroom use of computers](traditional-beliefs-negative-classroom-computer-use.md) — related

@@ -54,3 +54,4 @@ Latent-variable SEM of the 400-student survey. The article reports these negativ
 - [Performance expectancy, effort expectancy, and social influence positively predict behavioral intention to use ChatGPT among Lesotho higher education students](pe-ee-si-predict-chatgpt-intention-lesotho.md) — related
 - [Perceived ease of use positively influenced attitudes toward using the AVDS tool](peou-positive-impact-attitude-avds.md) — related
 - [Usefulness, ease of use, social influence, facilitating conditions and community identity each have a significant positive influence on Facebook adoption.](five-factors-significant-positive-influence-facebook-adoption.md) — related
+- [Effort expectancy has no direct effect on behavioral intention; its effect is fully mediated by attitude.](effort-expectancy-mediated-by-attitude.md) — reports the opposite

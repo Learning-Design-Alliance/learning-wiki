@@ -72,3 +72,4 @@ Qualitative finding from the dispositions analysis: dispositions "should not be 
 - [Power should be conceptualized as diffuse and structural, and as people's capacity to act under constraint](power-as-structural-and-capacity-to-act.md) — related
 - [Participants enact agency through others by empowering across participant categories: educational staff empower students, while societal partners and students empower each other](agency-empowering-others.md) — related
 - [Team members' technical aptitude shaped role adoption, with less game-experienced members taking passive roles and power asymmetries limiting exploration](technical-aptitude-shapes-team-roles.md) — related
+- [Responsibility for achieving agency should not rest solely on teachers and students, since contextual factors and educational social processes determine its fluctuation](agency-not-sole-teacher-student-responsibility.md) — a narrower finding that bears on this claim

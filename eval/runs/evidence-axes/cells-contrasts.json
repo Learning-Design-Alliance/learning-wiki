@@ -50398,5 +50398,17 @@
  "technology-tool\tAI-supported EL2 instruction\tconventional instruction or baseline performance": {
   "label": "AI-supported EL2 instruction vs conventional instruction or baseline performance",
   "treatment_is_a": true
+ },
+ "autonomy-support\tunstructured navigation with learner-selected module order\tstructured presequenced navigation": {
+  "label": "learner-selected navigation vs presequenced navigation",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tunstructured navigation with learner-selected modules\tstructured presequenced navigation": {
+  "label": "learner-selected navigation vs presequenced navigation",
+  "treatment_is_a": true
+ },
+ "debriefing\tpost-visit reflection lesson\tmuseum visit without post-visit reflection": {
+  "label": "post-visit debriefing vs no post-visit debriefing",
+  "treatment_is_a": true
  }
 }

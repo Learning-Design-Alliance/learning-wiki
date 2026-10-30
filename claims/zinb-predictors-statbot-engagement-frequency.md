@@ -82,3 +82,4 @@ In the same ZINB count model of StatBot use, prior knowledge carried a negative 
 - [Gender predicted SRL profile membership, with male students more likely in lower SRL profiles; major, prior experience, and time commitment did not predict membership](gender-predicts-srl-profile-membership.md) — related
 - [Counts of specific tool-use events (WorkTime, Command, Compile, Editor, Profiler, IDE) correlate positively and significantly with final course grade](tool-use-events-correlate-with-final-grade.md) — related
 - [CAMEO users are more likely to be young, male, less educated, and international than other certificate earners](cameo-users-more-likely-young-male-international.md) — related
+- [Gender, computer experience and computer attitudes each significantly predict classroom computer use](gender-experience-attitudes-predict-computer-use.md) — related

@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/collective-learning-phase-onset-differences.md
+---
+
+# Revision history: [claims/collective-learning-phase-onset-differences](../claims/collective-learning-phase-onset-differences.md)
+
+### 2026-10-30 · ingest · process:wiki-ingest
+Ingested from jrnl-ed3b49f2c5e4 (Training pre-service teachers to deal with cyberbullying: Collective intelligence as a mode of learning) via eval_harness.py + ingest_extractions.py

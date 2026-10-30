@@ -51,3 +51,4 @@ Variance-explained figures reported in the moderated indirect association analys
 - [TPB constructs indirectly link GenAI use to lower GenAI-assisted learning procrastination, accounting for about 30.9% of the total association](tpb-indirect-path-genai-use-procrastination.md) — related
 - [GenAI use is positively associated with attitude, subjective norm, perceived behavioral control, and behavioral intention toward GenAI-assisted learning](genai-use-positively-associated-tpb-constructs.md) — related
 - [Among African American high-school students, intentions to complete the school year are accurately predicted from attitudes, subjective norms, and perceived behavioral control (R=0.71)](tpb-predicts-intentions-complete-school-year.md) — related
+- [The modified UTAUT model accounts for 62% of variance in behavioral intention and 19% of variance in use behavior.](modified-utaut-variance-explained-mall.md) — related

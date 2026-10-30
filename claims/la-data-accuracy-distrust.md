@@ -48,3 +48,4 @@ Thematic analysis of 24 interviews. Although all teaching staff viewed LA as use
 - [Teaching staff trusted HEIs' competence to adopt LA based on existing e-learning infrastructure and data-analysis expertise](hei-competence-builds-la-trust.md) — related
 - [Teaching staff distrusted third parties in LA on privacy and ethics, centring on data sharing and ownership](third-party-privacy-ethics-distrust.md) — related
 - [The largest trust gap toward LA tools concerned promoting students' academic and professional skill development](largest-distrust-la-skill-development.md) — related
+- [Institutions adopting LA were particularly wrestling with social issues rather than technical ones](la-social-not-technical-challenges.md) — related

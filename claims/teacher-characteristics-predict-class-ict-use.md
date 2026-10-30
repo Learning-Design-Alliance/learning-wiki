@@ -48,3 +48,5 @@ Multilevel final-model results for the 574-teacher sample; the article reports s
 - [A lower pupil/PC-ratio in the classroom (more computers available in class) is associated with higher classroom ICT integration](pupil-pc-ratio-negative-effect-class-ict-use.md) — related
 - [School-level ICT policy factors (ICT plan, support, training) are significantly associated with teachers' classroom use of ICT in Flemish primary schools](school-ict-policy-factors-predict-class-ict-use.md) — related
 - [Teachers' perceptions of school ICT policy predict classroom ICT use, whereas principals' perspectives show no significant effect](teacher-perceptions-not-principal-views-predict-ict-use.md) — related
+- [Constructivist teacher beliefs positively predict primary teachers' classroom use of computers](constructivist-beliefs-positive-classroom-computer-use.md) — related
+- [Traditional teacher beliefs negatively predict primary teachers' classroom use of computers](traditional-beliefs-negative-classroom-computer-use.md) — related

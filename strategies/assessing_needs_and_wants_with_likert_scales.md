@@ -68,6 +68,7 @@ Likert scales convert subjective learner states into comparable data, making the
 - Interest surveys and learner inventories — the "wants" side in more open-ended form
 - Confidence ratings before answer submission — item-level rather than unit-level calibration
 - [Use percentage-consensus opinionnaires to locate shared values before redesign](percentage-consensus-opinionnaires.md)
+- [Use Rasch-based path modeling to analyze Likert-scale survey data in learning technology acceptance research.](rasch-based-path-modeling-survey-data.md)
 
 ## Examples
 - **Pre-unit needs check in a science class:** "I can explain the difference between weather and climate" (1–5), used to decide whether to open with the review lesson or skip it.

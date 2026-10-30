@@ -57,3 +57,4 @@ Latent one-level SEM with cluster robust standard errors (lavaan) on the same su
 - [Social and organizational support relate to AI well-being indirectly through AI literacy and technological self-efficacy](dual-mediation-support-to-ai-well-being.md) — related
 - [Teachers' Grow use is strongly influenced by technology professional development, their own use of technology, and principal support for Grow](tech-pd-own-use-influence-grow.md) — related
 - [Personal experience influenced teachers' visions of AI futures more than organizational culture or societal factors](personal-experience-over-organizational-culture.md) — related
+- [Teacher beliefs explain variance in computer use comparable to technology-related variables](beliefs-explain-variance-comparable-to-technology-variables.md) — related

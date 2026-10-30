@@ -38,7 +38,7 @@ grain_size: unit, course
 # Experiential Learning Cycle
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 21 claims (11 for, 7 mixed, 3 against) · 41 studies (15 quant-synthesis, 11 causal, 7 review, 4 design, 2 qualitative, 2 theoretical), `q1`–`q4` · 12 of 41 report an effect size · 11 claims rest on one study
+> **Evidence** · 22 claims (11 for, 8 mixed, 3 against) · 42 studies (15 quant-synthesis, 11 causal, 7 review, 5 design, 2 qualitative, 2 theoretical), `q1`–`q4` · 12 of 42 report an effect size · 12 claims rest on one study
 
 ## Description and scope
 
@@ -154,6 +154,10 @@ Record: **principle the loop targets → starting probe and response → experie
 [Simulation](../elements/simulation.md), [debriefing](../elements/debrief.md), [reflection](../elements/reflection.md), [articulation](../elements/articulation.md), [concept map](../elements/concept-map.md), [demonstration](../elements/demonstration.md), [coaching](../elements/coaching.md), [practice](../elements/practice.md), [feedback](../elements/feedback.md) and [scaffolding](../elements/scaffolding.md). Principles the pattern draws on: [Experiential Learning](../principles/experiential-learning.md), [Reflection](../principles/reflection.md), [Purposeful Reflection](../principles/reflection.md), [Cognitive Disequilibrium](../principles/cognitive-disequilibrium.md), [Active Learning](../principles/active-learning.md), [Activation](../principles/activation.md), [Assessment for Learning](../principles/assessment-for-learning.md) and [Authentic Audiences and Purposes](../principles/authentic-audiences-purposes.md).
 
 This pattern is scoped to repeated loops of experience, prompted debrief, stated principle and changed attempt, for a capability that can be shown on a new task. Well-defined procedures that need no discovery are usually faster taught by [direct instruction](direct-instruction.md) with practice; and the four stages are not established as a fixed order ([Bergsteiner et al., 2010](https://doi.org/10.1080/01580370903534355); [Miettinen, 2000](https://doi.org/10.1080/026013700293458)), so a design may begin from a principle and test it in experience. Whether repeated loops produce better performance or transfer than matched-time instruction with the same practice, for which learners, at what time cost and at what horizon, remains to be tested.
+
+## Claims
+
+- [The post-visit lesson supported reflection and synthesis, but students could not effectively process all collected items in one lesson](../claims/post-visit-reflection-limited-by-item-volume.md) [~W]
 
 ## Related Patterns
 - [Cognitive Apprenticeship](cognitive-apprenticeship.md) — shares the reflection and articulation stages, but leads with expert modeling rather than learner experience

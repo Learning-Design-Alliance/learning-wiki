@@ -49,3 +49,4 @@ Descriptive analysis of mean scores for G2 (n = 18) and G3 (n = 20) across the s
 - [The large online group showed significant score improvements from phase onward on question 1 while the smaller groups did not, indicating collective intelligence capacity emerged in the large group](collective-intelligence-large-group-hate-speech-improvement.md) — possibly the same claim (merge candidate)
 - [Omnibus tests found significant group, phase and group-by-phase effects on questions 1 and 2, and predominantly group effects on questions 3 and 4](omnibus-group-phase-effects-hate-speech-scores.md)
 - [Mean answer scores in the large group rose continually across the interaction phases, especially from phase 4 onward, but stagnated on question 3](large-group-mean-scores-rose-phases.md) — related
+- [Self-perceived capacity to act in a cyberbullying case (Question 2) shows no significant change across phases](collective-learning-no-change-self-perception.md) — related

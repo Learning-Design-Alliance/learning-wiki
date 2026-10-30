@@ -8,11 +8,11 @@ This wiki is written by language models, from published research, and checked by
 
 | | |
 |---|---|
-| Claims | 34,526, from 8,578 sources |
+| Claims | 34,575, from 8,589 sources |
 | Reviewed by a person | 0 |
-| Every evidence entry compared with its source by the faithfulness judge | 5,448 claims (16%) |
-| Claims citing at least one DOI | 26,713 claims (77%) |
-| Sources whose citations went through the Crossref identity gate | 7,923 of 8,578 |
+| Every evidence entry compared with its source by the faithfulness judge | 5,450 claims (16%) |
+| Claims citing at least one DOI | 26,755 claims (77%) |
+| Sources whose citations went through the Crossref identity gate | 7,934 of 8,589 |
 | Sources read for impossible statistics and invented references | 6,251 of 7,135 (2026-10-25) |
 | Cited DOIs checked for retraction | 6,793 of 6,793 (2026-10-25) |
 | Retracted sources found and acted on | 4 |
@@ -27,7 +27,7 @@ Each source is screened against the published [inclusion criteria](https://githu
 
 **Cannot catch.** A source that is in scope and badly done. Inclusion is about what a source is, not how good it is.
 
-**Coverage.** 8,822 sources reviewed: 8,578 ingested, 244 refused (out-of-scope 120, validation-error 99, uncoded 22, no-contributions-extracted 2, parse-error 1).
+**Coverage.** 8,833 sources reviewed: 8,589 ingested, 244 refused (out-of-scope 120, validation-error 99, uncoded 22, no-contributions-extracted 2, parse-error 1).
 
 ### 2. Extraction and structural validation
 
@@ -43,7 +43,7 @@ Every DOI written on a page is resolved against Crossref (DataCite after a Cross
 
 **Cannot catch.** A citation with no DOI and no registry record; a correct citation to a study that is itself wrong.
 
-**Coverage.** 7,923 of 8,578 ingested sources passed the gate with the registry reachable; 286 DOIs removed as the wrong paper, 75 flagged for a person; 3 book citations verified by a person.
+**Coverage.** 7,934 of 8,589 ingested sources passed the gate with the registry reachable; 292 DOIs removed as the wrong paper, 75 flagged for a person; 3 book citations verified by a person.
 
 ### 4. A verifiable source for every claim
 
@@ -51,7 +51,7 @@ A claim whose evidence has no DOI after a Crossref and DataCite search is remove
 
 **Cannot catch.** Whether the DOI'd source is any good.
 
-**Coverage.** 26,713 of 34,526 claims (77%) cite a DOI; 2,880 claims removed for having none.
+**Coverage.** 26,755 of 34,575 claims (77%) cite a DOI; 2,880 claims removed for having none.
 
 ### 5. Faithfulness to the source
 
@@ -59,7 +59,7 @@ A second model, from a different provider, reads each evidence entry beside the 
 
 **Cannot catch.** A claim checked only against an abstract, for detail an abstract does not carry. The judge is a model and has been wrong; its failures are read before they are acted on.
 
-**Coverage.** 5,448 claims (16%) have had every evidence entry compared with its source and passed; 162 judge failures were read and recorded with a reason. Each claim states this on its page, in its *Currency* line.
+**Coverage.** 5,450 claims (16%) have had every evidence entry compared with its source and passed; 162 judge failures were read and recorded with a reason. Each claim states this on its page, in its *Currency* line.
 
 ### 6. Can the source be believed?
 
@@ -83,7 +83,7 @@ Each evidence entry carries a design tier (`q1`–`q4`), an impact code (`i0`–
 
 **Cannot catch.** Whether a study's conclusion is true. The codes describe how a study was done, not whether it was right.
 
-**Coverage.** 41,405 evidence entries; 5,899 rest on a printed effect size and 35,525 report none (`i?`); 36,217 carry a rigour rating.
+**Coverage.** 41,455 evidence entries; 5,902 rest on a printed effect size and 35,572 report none (`i?`); 36,264 carry a rigour rating.
 
 ### 9. Duplicates and merges
 
@@ -91,7 +91,7 @@ Two claims stating the same finding are merged, and two pages on the same thing 
 
 **Cannot catch.** Near-duplicates phrased far apart.
 
-**Coverage.** 3,271 pair decisions recorded.
+**Coverage.** 3,272 pair decisions recorded.
 
 ### 10. Currency
 

@@ -101,6 +101,7 @@ The article recommends that universities move away from rigid, top-down AI polic
 - [Tailor AI deployment to specific applications and stakeholder groups rather than applying a one-size-fits-all integration approach](stakeholder-specific-ai-deployment-strategy.md)
 - [Develop a community-maintained living glossary of embodiment terminology on an open-science platform](living-glossary-embodiment-consensus-strategy.md)
 - [Use a community of practice to collaboratively develop university-wide online orientation resources](community-of-practice-collaborative-orientation-development.md)
+- [Enable leadership to nurture adaptive space for LA-related innovations and navigate existing resources to encourage change](enable-leadership-adaptive-space-la-innovation.md)
 
 ## Examples
 -

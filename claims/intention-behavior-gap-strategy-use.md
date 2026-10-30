@@ -51,3 +51,4 @@ Narrative review of prior studies, attributed as the article attributes them: Bl
 - [Learning-oriented intentions did not significantly predict enacted in-chat behavior; only selecting final solutions predicted executive and answer-seeking requests](intent-enactment-gap-genai-help-seeking.md) — related
 - [In a Vietnamese EFL sample, all six Meta-UTAUT hypotheses on MALL adoption were accepted with p-values below 0.05](meta-utaut-hypotheses-accepted-mall-efl.md) — reports the opposite
 - [Actual classroom use of AI among Ghanaian pre-service science teachers is moderate despite strong intentions, indicating an intention-practice gap](intention-practice-gap-ai-use-ghanaian-pre-service-teachers.md) — a broader claim this one bears on
+- [Facilitating condition has no direct effect on actual use of MALL, departing from prior literature.](facilitating-condition-no-direct-effect-use.md) — related

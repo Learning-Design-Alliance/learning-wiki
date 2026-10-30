@@ -50,6 +50,7 @@ The article recommends that those fostering responsive instruction shift from tr
 ## Related Strategies
 
 - [System-level strategies to build enabling conditions for Powerful Learning](system-level-strategies-powerful-learning-conditions.md)
+- [Address teacher agency development in computer science teacher education programmes](considerations-cs-teacher-education-agency.md)
 
 ## Examples
 -

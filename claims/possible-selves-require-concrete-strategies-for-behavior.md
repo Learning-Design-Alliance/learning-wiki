@@ -48,3 +48,4 @@ The white paper attributes to Oyserman and James (2011) that "connecting possibl
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
 - [Episodic prospection develops over an extended period and may support academic behaviors aimed at envisioned future selves](episodic-prospection-development-academic-behavior.md) — related
+- [Individual-level analysis alone is insufficient for understanding learning in digital environments.](individual-level-insufficient-for-digital-learning.md) — a narrower finding that bears on this claim

@@ -54,3 +54,4 @@ Explanatory-power analysis in the structural model evaluation section reports R2
 - [An emotional connection to nature, rather than conservation knowledge, is a powerful predictor of children's conservation behavior](emotional-connection-predicts-conservation-behavior.md) — related
 - Only about a third of K‑5 writing‑motivation studies explicitly referred to motivation theory to justify the design or choice of their motivation measure — related
 - [Facilitating conditions showed an asymmetric pattern: no significant effect on behavioral intention but a significant positive effect on use behavior](facilitating-conditions-asymmetric-intention-use.md) — related
+- [The modified UTAUT model accounts for 62% of variance in behavioral intention and 19% of variance in use behavior.](modified-utaut-variance-explained-mall.md) — related

@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**1338 entries** · 0 stable · 1338 in review · 0 drafts
+**1339 entries** · 0 stable · 1339 in review · 0 drafts
 
 ---
 
@@ -380,6 +380,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Educational psychology as a distinct experimental science whose standard course takes the learning process as its backbone](educational-psychology-distinct-experimental-science.md) - The article argues that educational psychology deserves status as a distinct discipline because education is a significant field of application of psychological truth, comparing it to agriculture: \"Experimental pedago...
 * [Educator workshops on retrieval practice as the authors' science-communication vehicle](retrieval-practice-educator-workshops-sumeracki.md) - The authors report that their efforts to increase science communication with educators \"have included workshops\", through which they engage educators in conversation about implementing retrieval practice.
 * [Educator-guided architecture separating artifact-grounded diagnosis, pedagogical workflow control, and student-facing LLM generation](educator-guided-diagnosis-workflow-separation.md) - The architecture places a hidden, artifact-grounded diagnosis inside an explicit, stateful pedagogical workflow so the language model is not solely responsible for instructional strategy.
+* [Ego-network approach for mapping youth online networks.](ego-network-approach-youth-online-networks.md) - The study applied an ego-network approach to map the online personal networks of youth from various ethnic backgrounds and education levels living in the Netherlands, collecting information on network contacts and the...
 * [Eight learner-centered design criteria for classroom proof assistants, organized under learning and usability goals](classroom-proof-assistant-design-criteria.md) - The article proposes a framework of two broad goals — \"learning: the tool should help students refine and improve their mathematical proof skills; and usability: the tool should not create unnecessary frictions in wri...
 * [Eight linked microsites organizing a place-based MAR time-travel journey from the Ordovician period to the present day](linked-microsites-time-travel-journey.md) - A microsite is defined as \"the intersection of the groups' interactions, the digital MAR content, and the physical setting.\" The Time Explorers app arranged eight such microsites in geologic-time order—Time Spiral Scu...
 * [Eight-step constructionism imagineering learning process delivered through metaverse rooms within a three-stage lesson structure](constructionism-imagineering-process-metaverse.md) - The article synthesizes an eight-step learning process from imagineering and constructionism principles: \"Imagine; start with an idea; research/explore/learn; design and write the script; create innovation; summarise...

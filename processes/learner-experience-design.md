@@ -14,7 +14,7 @@ grain_size: course
 # Learner Experience Design (LXD)
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 24 claims (14 for, 9 mixed, 1 against) · 31 studies (11 causal, 8 design, 5 review, 3 quant-synthesis, 2 associational, 2 theoretical), `q1`–`q4` · 4 of 31 report an effect size · 20 claims rest on one study
+> **Evidence** · 25 claims (15 for, 9 mixed, 1 against) · 32 studies (11 causal, 8 design, 5 review, 3 quant-synthesis, 2 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 4 of 32 report an effect size · 21 claims rest on one study
 
 ## Description
 Learner Experience Design imports the methods of user-centred design — user research, personas and scenarios, prototyping, usability testing, heuristic evaluation — into instructional design, and makes one substantive claim while doing it: **usability is not polish applied after the instruction, it is part of the instruction.**
@@ -84,6 +84,7 @@ LXD inherits the empathize-and-test moves from [Design Thinking](design-thinking
 - [First-level participant feedback found the iThinkSmart prototype engaging but flagged movement, navigation, graphics, and device-support issues for improvement](../claims/ithinksmart-prototype-feedback-themes.md) [+W]
 - [Middle school students rated MI Write as moderately easy to use but found its scoring easier to understand than its feedback](../claims/mi-write-usability-moderate-scoring-easier-than-feedback.md) [~W]
 - [Children's most frequent impressions concern ease of use of tangible interface and graphical UI](../claims/children-impressions-ease-of-use-and-gui.md) [~W]
+- [Students found Myartspace easy to use and reported the visit was more engaging than traditional museum visits](../claims/myartspace-easy-to-use-and-engaging.md) [+W]
 
 #### Supporting
 - [Cognitive Load Reduction Improves Learning](../claims/cognitive-load-reduction-improves-learning.md) [+S] — the mechanism the whole argument rests on
