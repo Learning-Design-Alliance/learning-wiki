@@ -81,3 +81,4 @@ Thematic synthesis of 155 studies (2019–2024) retrieved via PRISMA procedures;
 - [AIED offers opportunities for personalized, efficient online teaching but teachers lack readiness to use it](aied-opportunities-teacher-readiness-gap.md) — a narrower finding that bears on this claim
 - [Leadership commitment to adaptive learning was identified by both panels as a prerequisite, strengthened by strategy alignment and communication of empirical results](leadership-commitment-prerequisite-implementation.md) — related
 - [Empirical evidence surrounding innovative technology-enhanced-learning practices in K-12 education is at best patchy](k12-innovative-tel-evidence-patchy.md) — related
+- [ICT integration depends on teachers mastering new tools; transforming students' learning opportunities requires first transforming teachers' learning opportunities](ict-integration-depends-on-teacher-learning.md) — related

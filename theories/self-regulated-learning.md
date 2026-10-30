@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 251 claims (114 for, 126 mixed, 11 against) · 185 studies (59 associational, 50 causal, 27 review, 17 quant-synthesis, 15 theoretical, 9 qualitative, 8 design), `q1`–`q4` · 44 of 185 report an effect size · 235 claims rest on one study
+> **Evidence** · 252 claims (114 for, 126 mixed, 12 against) · 186 studies (59 associational, 50 causal, 27 review, 17 quant-synthesis, 15 theoretical, 9 qualitative, 9 design), `q1`–`q4` · 44 of 186 report an effect size · 236 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -298,6 +298,7 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [SRL sub-constructs correlate substantially with all three CoI presences, and a seven-factor OSLQ model fits better than the original six-factor model](../claims/srl-coi-correlations-seven-factor-oslq.md) [+W] — attached 2026-10-29 from Chungsoo Na et al. (2024), which proposed "Extended Community of Inquiry framework incorporating self-regulated learning as a learning presence".
 - [The integrated training program increased total reported self-regulated learning utterances, specifically planning, monitoring, reflective evaluation, and error analysis, but not orientation, adjusting, positive evaluation, or evaluation of learning and performance](../claims/integrated-training-increases-srl-utterances-selectively.md) [+W]
 - [The integrated training program did not improve self-assessment accuracy on any of six ATC competences](../claims/integrated-training-no-self-assessment-accuracy-gain.md) [-W]
+- [Less able and less knowledgeable learners are ineffective at selecting challenging tasks and seeking support](../claims/less-able-learners-ineffective-task-selection.md) [-W]
 
 ## The evidence by question
 
@@ -331,6 +332,7 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [App-based metacognitive monitoring training program with paired-associates memory tasks and feedback](../designs/app-based-metacognitive-monitoring-training-kindergarten.md)
 - [Newell-inspired time-scale taxonomy for aligning SRL measurement to theorized process duration](../research-methods/newell-inspired-time-scale-taxonomy-for-aligning-srl-measurement-to-theorized-process-dura.md)
 - [SRL cycle design strategies: goal setting, strategic planning across four strategy types, accessible self-control prompts, and self-monitoring records](../strategies/srl-cycle-design-strategies-fc.md)
+- [Design online courses to fit learners' psychosocial characteristics and include social interaction, self-regulation, and frequent assessment](../strategies/online-course-design-psychosocial-fit.md)
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

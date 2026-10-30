@@ -51,3 +51,4 @@ Independent-samples t-test (Hypothesis 3) on the interest scale; the article's s
 - [Enjoyment mediates the pathway from immersive media to immediate posttest score while interest mediates the pathway to delayed posttest score](camil-enjoyment-immediate-interest-delayed-pathways.md) — related
 - [Immersion principle: people do not necessarily learn better in 3D immersive virtual reality than with a corresponding 2D desktop presentation (d = -0.10 across 9 tests)](immersion-principle-no-vr-benefit.md) — reports the opposite
 - [High-immersion VR produced significantly higher enjoyment than video instruction, with a medium effect size](vr-higher-enjoyment-than-video.md) — related
+- [Participants in the 360° VR video condition report higher interest and enjoyment than those learning via traditional video or posters](360-vr-higher-interest-enjoyment.md) — related

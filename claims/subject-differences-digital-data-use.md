@@ -50,3 +50,4 @@ Post hoc comparisons following the multilevel regression in the same survey (N =
 - [Alpha of knowledge tests is higher for language and mathematics than for science and social sciences/humanities](knowledge-test-alpha-domain-differences.md) — related
 - [Arts and humanities is the most frequent subject domain in peer assessment research, with natural sciences, education, and health and welfare next](peer-assessment-arts-humanities-most-frequent-domain.md) — related
 - [Subject domain moderates the adaptive teaching effect: benefits in languages, none in STEM or humanities](domain-moderates-adaptive-teaching-effect.md) — related
+- [TEDDICS differs across main subjects — humanities teachers emphasize digital skills more — but not across gender groups](teddics-subject-differences-no-gender-differences.md) — related

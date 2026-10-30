@@ -31,7 +31,7 @@ sources:
 # Digital Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 82 claims (38 for, 39 mixed, 5 against) · 91 studies (22 causal, 21 review, 18 theoretical, 12 quant-synthesis, 7 associational, 6 design, 5 qualitative), `q1`–`q4` · 14 of 91 report an effect size · 71 claims rest on one study
+> **Evidence** · 83 claims (38 for, 40 mixed, 5 against) · 92 studies (22 causal, 21 review, 18 theoretical, 12 quant-synthesis, 7 associational, 6 qualitative, 6 design), `q1`–`q4` · 14 of 92 report an effect size · 72 claims rest on one study
 
 ## Conditional relationship
 
@@ -199,6 +199,7 @@ Access, use, assisted success, unaided immediate performance, delayed retention 
 - [Mere deployment of OLPC laptops has limited relevance to children in use and outcome](../claims/mere-laptop-deployment-limited-relevance.md) [+W]
 - [Concrete suggestions were produced more often in the Annotation system than in the Blackboard discussion forum, which showed more evaluative feedback](../claims/annotation-tool-more-concrete-suggestions-than-blackboard-forum.md) [~W]
 - [Learning by digital explaining was superior (Experiment 1) or at least equivalent (Experiment 2) to restudy concerning deep-level knowledge](../claims/digital-explaining-superior-or-equivalent-deep-knowledge.md) [~W]
+- [Obtaining a teaching degree and accessibility in time and place were the main factors motivating trainees to enrol in an online language teacher education programme](../claims/degree-and-accessibility-drive-enrolment-online-teacher-education.md) [~W]
 
 ## Related Principles
 - [Flipped Learning](flipped-learning.md) — digital delivery often makes pre-class access and replayable initial exposure possible

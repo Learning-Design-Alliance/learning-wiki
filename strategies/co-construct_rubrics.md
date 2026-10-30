@@ -58,9 +58,11 @@ Co-construction operationalizes [Assessment for Learning](../principles/assessme
 5. Use the same rubric for the actual task, and revisit it afterward — revision of the rubric after real use deepens understanding of quality
 
 ## Related Strategies
+
 - [Self-Assessment](../elements/self-assessment.md) — co-constructed rubrics give self-assessment a shared, calibrated instrument
 - [Peer Feedback](../elements/peer-feedback.md) — peer review is only as good as the criteria; co-construction supplies them
 - [Exemplar Analysis](exemplar-analysis.md) — the exemplar-sorting activity that typically launches co-construction
+- [Use instructor-defined labeled rubric with ordinal levels to structure peer assessment and feedback](labeled-rubric-ordinal-peer-assessment.md)
 
 ## Examples
 - **Writing workshops** (e.g., National Writing Project classrooms): teachers and students examine mentor texts, name the moves that make them effective, and build the rubric used for peer response and revision

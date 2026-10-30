@@ -48,3 +48,4 @@ Hierarchical stepwise regression on questionnaire data from 229 teachers (RQ2). 
 - [Self-efficacy, but not attitudes towards technology, predicted negative experiences, explaining 23% of variance; openness to change and school support predicted neither outcome.](self-efficacy-predicts-negative-online-teaching-experiences.md) — related
 - [Review reports that teachers' beliefs, attitudes and TPACK—not AI knowledge alone—mediate AI integration](teacher-beliefs-mediate-ai-integration.md) — related
 - [The Social Cognitive Model of Technology Integration explains 55% of variation in preservice teachers' technology integration intentions](scmti-explains-55-percent-intention-variance.md) — related
+- [The integrated model explains 57.1% of satisfaction, 32.2% of use, and 52.5% of individual impact variance](brazilian-model-explained-variance.md) — related

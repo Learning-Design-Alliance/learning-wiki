@@ -48,3 +48,4 @@ Structural model assessment via PLS-SEM (SmartPLS 3.0, 5,000 bootstrap subsample
 - [The integrated model explains substantial variance in student engagement (R² = 0.700) in GenAI-supported learning](integrated-model-explains-engagement-variance-r2-700.md) — related
 - [The serial mediation model explains 32.5–37.0% of variance in AI-TPACK, self-efficacy, and AI integration intention](model-explained-variance-ai-integration-outcomes.md) — related
 - [The final pruned mediation model fits the data excellently and accounts for 58.0%, 62.2%, and 53.2% of variance in later calculations, word-problem solving, and reading](final-model-fit-variance-explained.md) — related
+- [The integrated model explains 57.1% of satisfaction, 32.2% of use, and 52.5% of individual impact variance](brazilian-model-explained-variance.md) — related

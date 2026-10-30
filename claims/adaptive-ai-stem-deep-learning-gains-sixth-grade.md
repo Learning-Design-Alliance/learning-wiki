@@ -52,3 +52,4 @@ Cluster-assigned posttest-only experiment with 30 sixth-grade girls (15 per cond
 - [Embedding computational thinking in a sixth-grade mathematics classroom significantly increased students' understanding of mathematical processes versus control](ct-embedded-sixth-grade-math-increased-understanding.md) — related
 - [Teachers reported that simulations, adaptive feedback, and hands-on STEM activities supported students' conceptual understanding and engagement with scientific problem solving](simulations-adaptive-feedback-support-engagement.md) — related
 - [Open inquiry improves students' conceptual understanding of science, supported by seven reviewed studies](open-inquiry-improves-conceptual-understanding.md) — related
+- [Retention gains from computer-assisted instruction held for multiplication and division units but not for fractions](frizbi-retention-multiplication-division-not-fractions.md) — related

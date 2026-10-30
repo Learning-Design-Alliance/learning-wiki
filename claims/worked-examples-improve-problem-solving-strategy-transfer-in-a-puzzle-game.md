@@ -55,3 +55,4 @@ Same randomized two-group SafeCracker experiment with 72 students. "The worked e
 - In a game-based problem-solving study, trait self-regulation scores related significantly only to knowledge map scores, with higher planning, self-monitoring, effort and self-efficacy going with better knowledge map performance — related
 - [Quality of self-generated examples correlated with knowledge transfer and perceived learning control but not with knowledge retention](example-quality-correlates-transfer-control.md) — related
 - [Worked-example gains in a puzzle game remained small relative to expert performance, with the worked example group learning only 2.7% of experts' knowledge-map knowledge](worked-example-gains-in-a-puzzle-game-remain-small-relative-to-expert-knowledge-maps.md) — related
+- [Switching from strategy building to puzzle solving overcame the implementation impasse](puzzle-solving-overcame-implementation-impasse.md) — related

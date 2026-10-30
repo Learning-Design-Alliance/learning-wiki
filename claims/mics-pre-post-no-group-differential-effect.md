@@ -72,3 +72,4 @@ Paired t-tests on RC MICS pre- and post-scores: VNT t = -5.45, p = .000; NT t = 
 - [No significant differences between conditions on the retention test, and scores of the Visual and Timeline conditions decreased significantly from post-test to retention](timeline-effect-disappears-at-retention.md) — related
 - [Co-constructing visual-textual representations without timeline integration did not significantly raise post-test scores over textual representations](visual-textual-no-significant-gain-over-text.md) — related
 - [Oral presentation performance improved significantly over time, but only control-group students showed statistically significant growth between the two presentations](performance-growth-over-time-only-control-significant.md) — related
+- [Neither time nor the condition-by-time interaction significantly affected goal attainment over the five-week intervention](no-time-or-interaction-effect-goal-attainment.md) — related

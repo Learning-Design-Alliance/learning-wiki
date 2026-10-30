@@ -50,3 +50,4 @@ Study 1 examined whether profile membership in the 2012 NSW kindergarten populat
 - [The four SEB profiles replicate in an independent 2009 kindergarten cohort (n = 52,661)](seb-profiles-replicated-2009-cohort.md) — related
 - [Kindergarten SEB profiles are associated with significantly different achievement in Grades 3 and 5, highest for SE-Prosocial and lowest for SE-Vulnerable](seb-profiles-predict-grade-3-5-achievement.md) — related
 - [PA and RAN deficit profiles are over-represented in low-SES schools, while the double-deficit profile distribution is proportional to school SES group size](pa-ran-deficits-overrepresented-low-ses.md) — related
+- [Low-performing handwriting students tend to attend schools with lower socioeconomic index](low-performers-lower-ses-schools.md) — related

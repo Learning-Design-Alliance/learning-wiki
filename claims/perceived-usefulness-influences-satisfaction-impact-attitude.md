@@ -52,3 +52,4 @@ PLS structural model result in the 701-student study; the article states this co
 - [Perceived enjoyment significantly positively influences both satisfaction and perceived impact on learning in CSCL](enjoyment-influences-satisfaction-and-impact-cscl.md) — related
 - [Perceived usefulness and perceived ease of use of GenAI tools significantly predict teachers' attitudes and behavioural intention](usefulness-ease-predict-attitude-intention-genai.md) — related
 - [Positive attitude increases satisfaction, and satisfaction increases course recommendation](attitude-satisfaction-recommendation-chain.md) — related
+- [Information quality, system quality, instructor attitude, assessment diversity, and learner interaction predict satisfaction](five-determinants-of-elearning-satisfaction.md) — related

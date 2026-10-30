@@ -70,3 +70,4 @@ Narrative review of implementation barriers: the article reports, citing Vingsle
 - [Teachers viewed district pacing calendars and standardized assessments as impediments when they pressured rushing through material regardless of mastery](pacing-calendars-standardized-assessments-impediments.md) — related
 - [Automated formative assessment and feedback with AI agents ranks second-highest in impact with moderate perceived challenge](automated-ai-assessment-high-impact-moderate-challenge.md) — related
 - [Teachers use Microsoft Forms for real-time formative assessment to make in-the-moment instructional adjustments](forms-realtime-formative-assessment-uses.md) — related
+- [Assessment pressure acts as a second-order barrier discouraging teachers from changing methodology](assessment-second-order-barrier-methodology.md) — related

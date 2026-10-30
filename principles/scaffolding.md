@@ -160,7 +160,7 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 - [In the replication, children's posttest outcome scores did not significantly differ across the four instructional conditions, failing to replicate the contingent-instruction advantage of D. Wood et al. (1978)](../claims/contingent-instruction-no-outcome-advantage-replication.md) [-W]
 - [Tutor accuracy in applying the contingency rule showed no significant association with children's posttest outcome, efficiency, or autonomy, with near-zero correlations](../claims/tutor-accuracy-no-posttest-association.md) [~W]
 - [None of the three scaffolds showed a significant main effect on fraction knowledge across the whole sample](../claims/no-main-effects-of-scaffolds.md) [-W]
-- [Less able learners made the greatest learning gains with Ecolab II metacognitive scaffolding](../claims/ecolab-ii-less-able-greatest-gains.md) [~W]
+- [In the Ecolab II evaluation, less able learners made the greatest learning gains](../claims/ecolab-ii-less-able-greatest-gains.md) [~W]
 - [Students tended to ignore adaptive prompts while collaborating, motivating socially sensitive or implicit support](../claims/students-ignore-adaptive-prompts-collaborating.md) [~W]
 - [ACLS has shown benefits compared to individual work, unsupported collaboration, and non-adaptive support](../claims/acls-benefits-over-individual-and-non-adaptive.md) [~W]
 - [Metacognitive scaffolding outperforms conceptual scaffolding alone in online learning environments](../claims/metacognitive-scaffolding-outperforms-conceptual.md) [~W]
@@ -174,8 +174,10 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 - [Scaffolding and Fading](scaffolding-and-fading.md)
 
 ## Examples
+
 - Hints, worked examples, modeling, and coaching that are reduced as competence grows.
 - [Backward-faded worked-example computer module for series and parallel circuit analysis](../elements/backward-faded-circuit-analysis-module.md)
+- [Use adaptable collaboration scripts that fade structure in or out over time according to students' needs](../strategies/fade-peer-assessment-structure-over-time.md)
 
 ## Key Sources
 - Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry, 17*(2), 89-100. [https://doi.org/10.1111/j.1469-7610.1976.tb00381.x](https://doi.org/10.1111/j.1469-7610.1976.tb00381.x)

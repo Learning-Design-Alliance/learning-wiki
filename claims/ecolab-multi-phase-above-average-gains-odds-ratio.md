@@ -45,6 +45,6 @@ An odds-ratio analysis across the original Ecolab and Ecolab II evaluations, wit
 
 
 ## Related Claims
-- [Less able learners made the greatest learning gains with Ecolab II metacognitive scaffolding](ecolab-ii-less-able-greatest-gains.md) — related
+- [In the Ecolab II evaluation, less able learners made the greatest learning gains](ecolab-ii-less-able-greatest-gains.md) — related
 - [Leisure readers are far more likely than non-leisure readers to enjoy reading and to engage in mental imagery, in both educational tracks](leisure-readers-enjoy-imagery-both-tracks.md) — related
 - [In the district study, teachers assigned articles above students' STAR Lexile levels (about 375 points higher on average), and greater STAR growth related to completing more, harder, and more accurate ReadWorks assignments](readworks-assignment-difficulty-growth-association.md) — related

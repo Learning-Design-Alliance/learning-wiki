@@ -61,3 +61,4 @@ Thematic finding from the RQ1 section of the teacher interview/questionnaire stu
 - [Open inquiry enhances students' science literacy and related skills such as environmental literacy, argumentation, autonomy and reflection](open-inquiry-science-literacy-skills.md) — related
 - [Systematic inquiry behavior is associated with gaining quantitative understanding of simulation variables, while free exploration is associated with only qualitative understanding](systematic-strategy-quantitative-understanding.md) — related
 - [AWE is more effective for surface-level writing skills than for higher-order skills such as argumentation and coherence](awe-surface-level-stronger-than-higher-order.md) — reports the opposite
+- [The VCL's open infrastructure leaves all variables to students' experimental design](vcl-open-infrastructure-student-design.md) — related

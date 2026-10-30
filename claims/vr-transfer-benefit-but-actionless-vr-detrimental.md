@@ -72,3 +72,4 @@ The review reports a VR learning study by Johnson-Glenberg et al. (2021) showing
 - [In Desktop-VR, interaction format (object movement vs. camera movement vs. no interaction) showed no significant main effect on learning outcomes](no-main-effect-interaction-format-desktop-vr.md) — related
 - [Immersive lessons show a small effect size advantage over less immersive technology, but increased presence does not necessarily lead to more learning](immersive-lessons-small-advantage-presence-not-sufficient.md) — related
 - [Immersive procedural training in VR shows a significant medium positive effect on learning outcomes compared to less immersive environments (Hedges' g = 0.58)](ivr-procedural-training-medium-positive-effect.md) — related
+- [Mobile VR-based music genre learning improves genre characterization learning compared to traditional lessons with printed materials and passive listening](mobile-vr-improves-music-genre-characterization-learning.md) — related

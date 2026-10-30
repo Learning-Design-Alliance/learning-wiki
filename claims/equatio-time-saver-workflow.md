@@ -51,3 +51,4 @@ Descriptive survey finding from the 332-respondent Equatio user survey, reported
 - [Most Equatio-using teachers were not using the tool to support UDL-based practices, with only about 22% reporting use of a given UDL affordance on average](equatio-udl-practice-low-baseline-usage.md) — related
 - [Teachers reported that rubric-aligned AI feedback saved time on repetitive comments, enabling focus on higher-order instruction](teachers-report-time-savings-higher-order-instruction.md) — related
 - [Teachers valued CulturAIEd's demographic integration, customization, and rubric feedback as highly efficient](culturaied-perceived-strengths-efficiency.md) — related
+- [SWOT analysis concluded blended learning is the ideal future teaching concept and e-Learning implementation creates new cooperation opportunities without saving time](swot-blended-learning-ideal-concept.md) — reports the opposite

@@ -53,3 +53,4 @@ Experiment 3: 80 respondents rated blinded human and ChatGPT feedback on 5-point
 - [Children perceive LLM-generated adaptive feedback as more helpful and more motivating than generic guidance](children-perceive-llm-feedback-more-helpful-motivating.md) — related
 - [Students perceived personalized and generic feedback messages as equally helpful and motivating](equal-perceptions-personalized-generic-feedback.md) — related
 - [Prior studies summarised in one article report that students rate instructor feedback above AI-generated feedback, and rate AI feedback lower once they know its origin](students-prefer-human-feedback-over-ai.md) — reports the opposite
+- [Human-made teaching videos produce a statistically significant but small advantage over AI-generated videos in participants' learning experience ratings](human-made-videos-small-advantage-learning-experience.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-10-30
 sources:
   - id: wang-2026
     resource: "https://doi.org/10.1007/s10648-026-10183-y"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-30 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article argues that framing digital regulation primarily as external control may reduce short-term exposure while doing less to support adolescents' longer-term capacity for intentional, self-directed engagement. [→ Wang 2026](#wang-2026)

@@ -42,6 +42,7 @@ The final article in the issue, by Mar Pérez-Sanagustín, Patricia Santos, Davi
 ## Related Designs
 
 - [Perturbation model of CSCL macro script design](perturbation-model-cscl-macro-scripts.md)
+- [Four key pedagogical approaches (constructivist, blended, collaborative, active learning) derived from user requirements](unite-four-pedagogical-approaches.md)
 
 ## Examples
 -

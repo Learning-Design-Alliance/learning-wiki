@@ -46,3 +46,4 @@ The review attributes this to Bryant et al. (2020), a large observational analys
 
 ## Related Claims
 - [Time frame is a major activity moderator of the screen inferiority effect, with larger effects when reading time is limited](time-frame-moderates-screen-inferiority.md) — related
+- [Studies report both positive and negative effects of classroom screen use: tablets and interactive whiteboards can support learning and academic performance, but teachers report difficulty supervising children's screen activity.](classroom-screen-use-positive-and-negative-effects.md) — reports the opposite

@@ -52,3 +52,4 @@ Single-institution experiment training models on 5326 students across 18 semeste
 - [Removing student major from the input marginally improves TRACE performance, suggesting major is recoverable from course history](major-ablation-no-predictive-signal.md) — related
 - Replacing the transformer with a single-layer 2048-unit LSTM drops the average score by 5.6, with the LSTM winning only on MRPC — related
 - [A fine-tuned DistilRoBERTa recipe-quality predictor achieves a test-set MAE of 0.39, slightly better than but not significantly different from a mean-prediction baseline of 0.42.](relexset-predictor-mae-better-than-baseline.md) — related
+- [A multitask matrix factorization approach that jointly learns grades across multiple assessment labels outperforms a single-task (binary relevance) baseline that learns each label separately.](multitask-matrix-factorization-outperforms-single-task-baseline.md) — a narrower finding that bears on this claim

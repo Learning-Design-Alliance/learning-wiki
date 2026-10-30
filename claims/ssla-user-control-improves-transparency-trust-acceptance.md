@@ -51,3 +51,4 @@ Qualitative online user study with moderated think-aloud sessions and semi-struc
 - [AIfred users report higher perceived learning support, innovation, satisfaction, and cognitive demand, with no difference in perceived productivity](aifred-user-experience-ratings.md) — related
 - [Explainability's effect on trust in AI-enabled systems is mixed: it can increase trust and reliance but also raises cognitive load, slows performance, and sometimes does not improve trust](explainability-mixed-effect-on-trust.md) — related
 - [User acceptance of AI-driven decisions depends on explanation type, with sensitivity-analysis and certification explanations increasing acceptance](explanation-type-ai-decision-acceptance.md) — related
+- [Information quality, system quality, instructor attitude, assessment diversity, and learner interaction predict satisfaction](five-determinants-of-elearning-satisfaction.md) — related

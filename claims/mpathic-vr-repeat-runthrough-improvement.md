@@ -71,3 +71,4 @@ Repeated-measures ANOVA on the interprofessional scenario in the same trial. Sco
 - [MPathic-VR training produces a significant advantage on the OSCE nonverbal communication scale, suggesting particular value for acquiring nonverbal skills](mpathic-vr-nonverbal-osce-advantage.md) — related
 - [VR-based training received significantly higher ratings for learning satisfaction and self-evaluation than conventional training](vr-training-higher-satisfaction-self-evaluation.md) — related
 - [Conventional training received significantly higher ratings for perceived realism and immersion than VR-based training (r=0.774)](conventional-training-higher-realism-immersion.md) — related
+- [Repeated brief VR exposures reduced state anxiety during the first two practice sessions.](vr-practice-sessions-reduce-state-anxiety.md) — related

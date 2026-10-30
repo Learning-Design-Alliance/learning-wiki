@@ -35,7 +35,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 166 claims (71 for, 86 mixed, 9 against) · 113 studies (35 causal, 24 review, 19 associational, 17 quant-synthesis, 13 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 31 of 113 report an effect size · 155 claims rest on one study
+> **Evidence** · 169 claims (72 for, 87 mixed, 10 against) · 114 studies (36 causal, 24 review, 19 associational, 17 quant-synthesis, 13 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 32 of 114 report an effect size · 158 claims rest on one study
 
 ## Conditional relationship
 
@@ -258,6 +258,9 @@ Gains in strategy knowledge, self-reported regulation, self-efficacy, study time
 - [Meta-learning tasks increased university students' use of self-regulatory strategies when studying (review-reported)](../claims/meta-learning-tasks-increased-self-regulatory-strategies.md) [+W]
 - [Self-regulation training programs have a positive effect on university students' academic performance, strongest when underpinned by metacognitive theory (review-reported)](../claims/self-regulation-training-positive-effect-university.md) [+W]
 - [The integrated training program increased total reported self-regulated learning utterances, specifically planning, monitoring, reflective evaluation, and error analysis, but not orientation, adjusting, positive evaluation, or evaluation of learning and performance](../claims/integrated-training-increases-srl-utterances-selectively.md) [+W]
+- [Adding goal-monitoring prompts to a scripted conversational agent's weekly goal-setting raised undergraduates' self-reported goal attainment over reflection-only and goal-setting-only conditions](../claims/scripted-agent-delivers-srl-support.md) [+W]
+- [The monitoring and reflection intervention had no significant effect on post-intervention academic performance](../claims/no-academic-performance-effect.md) [-W]
+- [Self-reported SRL questionnaire scores rose over a five-week goal-setting intervention in all conditions, with no differences between conditions](../claims/srl-skills-increase-all-conditions.md) [~W]
 
 ## Related Principles
 - [Goal Setting & Monitoring](goal-setting-monitoring.md)

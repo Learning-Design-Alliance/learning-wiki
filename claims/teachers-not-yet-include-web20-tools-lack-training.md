@@ -49,3 +49,4 @@ Analysis of open-ended questionnaire answers (Q3.f) and group discussion in the 
 - [Most surveyed marketing educators use GAI as a tool, followed by teammate and tutor, and 64% incorporate AI in their courses](marketing-educators-gai-use-tool-most-common.md) — related
 - [Most teachers participate in informal professional development activities, which generate more satisfaction than formal in-service days](informal-pd-more-satisfying-than-in-service.md) — related
 - [Students respond positively to e-mail exchanges, guest speaker interviews, and video projects aimed at cross-cultural awareness](positive-student-response-cross-cultural-activities.md) — related
+- [Forums were perceived as serial monologues with mandatory participation and were rarely a preferred tool](forums-serial-monologues-mandatory-participation.md) — related

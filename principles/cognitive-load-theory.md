@@ -32,7 +32,7 @@ sources:
 # Cognitive Load Theory
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 67 claims (27 for, 39 mixed, 1 against) · 64 studies (30 causal, 14 review, 13 theoretical, 6 quant-synthesis, 1 qualitative), `q1`–`q4` · 14 of 64 report an effect size · 56 claims rest on one study
+> **Evidence** · 68 claims (28 for, 39 mixed, 1 against) · 65 studies (30 causal, 14 review, 13 theoretical, 6 quant-synthesis, 2 qualitative), `q1`–`q4` · 14 of 65 report an effect size · 57 claims rest on one study
 
 ## Conditional relationship
 
@@ -149,6 +149,7 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - [The thesis hypothesises that element interactivity of materials resolves the contradiction between the worked example effect and the generation effect](../claims/element-interactivity-hypothesis-resolves-guidance-contradiction.md) [~W]
 - [The complexity effect on working memory capacity is not due to insufficient encoding time](../claims/wm-complexity-effect-not-encoding-time.md) [+W]
 - [Gesture type affects reported mental effort, with lower effort for beat gestures in Experiment 1 and for deictic gestures in Experiment 2, but no effect on mental load](../claims/gesture-type-mental-effort-effects.md) [~W]
+- [Teachers valued the VCL for removing the physicality of practical work and raising the cognitive level of problem-solving](../claims/vcl-removes-physicality-raises-cognition.md) [+W]
 
 ## Related Principles
 - [Scaffolding](scaffolding.md)

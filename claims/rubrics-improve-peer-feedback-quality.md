@@ -92,3 +92,4 @@ In a MOOC writing course, the study compared students given "guided rubric" trai
 - [Students and researchers gave systematically different types of explanatory comments about the visual argument, with students rejecting pictures as proofs](student-visual-argument-norm-comments.md) — related
 - [Peer ratings of programming assignments correlated significantly with instructor ratings, with students more accurate on objective than subjective judgements](sitthiworachart-peer-ratings-objective-judgements.md) — related
 - [Most studies used online peer feedback to improve students' task performance](peer-feedback-function-task-performance-dominant.md) — related
+- [Students perceived the content checklist as a helpful instructional intervention for formulating peer feedback](content-checklist-perceived-helpful.md) — related

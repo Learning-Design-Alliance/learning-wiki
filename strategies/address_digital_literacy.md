@@ -73,6 +73,7 @@ Digital skill varies widely within any cohort, and self-reported confidence is a
 - [Provide support, feedback, guidance, and coaching along the way for low-skilled adult learners](coaching-and-support-for-low-skilled-adult-learners.md)
 - [Scaffold adults from beginning users to confident digital citizens with hands-on, competency-based classes and layered teacher support](scaffold-confidence-hands-on-digital-literacy-classes.md)
 - [Teach foundational AI competencies with low-tech analogies and contextually relevant activities where technology access is limited](low-tech-analogies-foundational-ai-competencies.md)
+- [Apply performance tests to determine digital literacy levels before online course implementation](digital-literacy-performance-tests.md)
 
 ## Examples
 - **Community college online-course onboarding:** Many institutions (e.g., the California Community Colleges' [Online Education Initiative](https://cccconline.org)) provide pre-course readiness modules covering LMS navigation, file management, and netiquette before credit coursework begins.

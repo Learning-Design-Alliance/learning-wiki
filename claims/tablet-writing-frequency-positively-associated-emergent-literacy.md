@@ -54,3 +54,4 @@ Correlational analysis of home tablet use among 57 children aged 2–4 years fou
 - [Frequency of e-book reading on tablets shows no association with children's emergent literacy skills](ebook-reading-frequency-no-association-emergent-literacy.md) — related
 - [Children aged 2–4 years' home literacy experiences relate to their emergent literacy skill development](home-literacy-experiences-shape-emergent-literacy.md) — a broader claim this one bears on
 - [Children's access to tablet apps at home is positively associated with print knowledge](tablet-app-access-positively-associated-print-knowledge.md) — related
+- [Studies report both positive and negative effects of classroom screen use: tablets and interactive whiteboards can support learning and academic performance, but teachers report difficulty supervising children's screen activity.](classroom-screen-use-positive-and-negative-effects.md) — related

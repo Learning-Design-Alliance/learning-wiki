@@ -9,6 +9,7 @@ generated:
   at: 2026-10-30
 evidence_strength: moderate
 newest_evidence: 2008
+source_checked: 2026-10-30
 sources:
   - id: koch-2008
     resource: "https://doi.org/10.1016/j.compedu.2008.05.007"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2008 · checked against its sources 2026-10-30 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the negative threat condition, women attributed failure more internally (to their own inability) than men did. [→ Koch 2008](#koch-2008)

@@ -51,3 +51,4 @@ Logistic regression models (M1a-c) in the pre-registered study of 1,231 Dutch vo
 - [Perceived family wealth shows a small indirect negative effect on dropout via institutional trust, with no total effect](perceived-wealth-indirect-institutional-trust.md) — related
 - [Trust in teachers neither predicts dropout nor buffers the effect of civic attitudes on dropout](trust-in-teachers-no-buffer-dropout.md) — related
 - [Longitudinal subject attrition produces systematic baseline differences among continuing, dropout, and non-participating students](longitudinal-attrition-systematic-baseline-differences.md) — related
+- [The programme experienced high dropout, with 144 of the 2010 cohort's trainees dropping out between 2010 and 2013](high-dropout-online-teacher-education-cohort.md) — related

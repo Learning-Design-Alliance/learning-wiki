@@ -77,3 +77,5 @@ The review reports that Shin et al. (2020) compared logistic regression, support
 - [SVM with RoBERTa sentence embeddings was the most accurate automatic scoring method (κ = .82) among the four tested combinations](roberta-svm-most-accurate-scoring-pisa.md) — related
 - [Eye movement features collected during a VR computational thinking lesson are discriminative for gender classification, with all five ML models performing above the 50% chance level.](eye-movements-discriminative-gender-classification-vr-ct.md) — related
 - [CatBoost is the best-performing algorithm for predicting programme non-completion, with F1-measure of 94.5±0.6, slightly better than Random Forest](catboost-best-f1-programme-completion.md) — reports the opposite
+- [A learning analytics student model discriminates between trained and untrained students in VR lineworker training maneuvers](la-student-model-discriminates-trained-untrained-vr-lineworkers.md) — related
+- [Random Forest is the best classifier for discriminating trained from untrained VR trainees](random-forest-best-classifier-vrts-student-model.md) — related

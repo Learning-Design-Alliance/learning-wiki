@@ -48,3 +48,4 @@ Repeated measures ANOVA in a pre-test-training-post-test control-group design wi
 - [Graduated prompts training also increased the number of transformations children applied correctly, indicating progression in task-solving strategies](graduated-prompts-training-transformations.md) — related
 - [The computerized series completion test's empirical item difficulty matched its theoretical difficulty model, though internal consistency was modest](series-completion-psychometric-properties.md) — related
 - [A 45-minute prompt-based programming lesson produced greater pre-to-post gains in Promptly problem solving than a code-tracing control, though not statistically significant](brief-prompting-lesson-modest-performance-gains.md) — related
+- [Tablet use is positively associated with student satisfaction and engagement](tablet-use-satisfaction-engagement.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2024
+source_checked: 2026-10-30
 sources:
   - id: peney-2024
     resource: "https://doi.org/10.1007/s11423-024-10402-9"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-10-30 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The article reports that Parong and Mayer (2021) found immersion improved affective processing but benefits were not reflected in cognitive processing or performance outcomes. [→ Peney 2024](#peney-2024)
@@ -68,3 +69,6 @@ The article attributes to Christopoulos et al. (2022) a retention advantage for 
 - [Immersive lessons show a small effect size advantage over less immersive technology, but increased presence does not necessarily lead to more learning](immersive-lessons-small-advantage-presence-not-sufficient.md) — a broader claim this one bears on
 - [Immersion principle: people do not necessarily learn better in 3D immersive virtual reality than with a corresponding 2D desktop presentation (d = -0.10 across 9 tests)](immersion-principle-no-vr-benefit.md) — related
 - [Students learning with iVR reported higher motivation but the control group felt they retained and understood concepts better](ivr-higher-motivation-control-better-retention-feeling.md) — related
+- [360° VR videos can serve as an effective self-directed learning tool, with children learning comparably without an instructor](360-vr-self-directed-learning.md) — related
+- [Children learning water-safety content via 360° VR videos, traditional video, or posters show similar learning gains, with 95% improving knowledge and retaining it at one and eight weeks](360-vr-water-safety-learning-gains-retention.md) — related
+- [Teachers perceive 360° VR videos as engaging, feasible, and useful for explaining concepts difficult to demonstrate traditionally](teacher-focus-groups-vr-engagement.md) — related

@@ -44,7 +44,8 @@ The article's implications for teachers designing peer assessment: ask students 
 - [Receiving positive affective feedback from peers is a significant predictor of assessees' project performance](../claims/receiving-positive-affective-feedback-predicts-assessee-performance.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Implement a structured PFB template and foresee multiple practice occasions when involving students as assessors and assessees](structured-pfb-template-multiple-practice-occasions.md)
 
 ## Examples
 

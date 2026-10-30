@@ -47,3 +47,4 @@ Formative prototype study with Year 5 children using the storyboarding tool; the
 ## Related Claims
 - [First-level participant feedback found the iThinkSmart prototype engaging but flagged movement, navigation, graphics, and device-support issues for improvement](ithinksmart-prototype-feedback-themes.md) — related
 - [Reading text and presenting graphics on handheld screens are more difficult than on paper, and interactivity may be compromised](small-screen-usability-limitations.md) — related
+- [Peer feedback exposed rigidity and techno-centricity in early storyboard designs](peer-feedback-exposed-interface-rigidity.md) — related

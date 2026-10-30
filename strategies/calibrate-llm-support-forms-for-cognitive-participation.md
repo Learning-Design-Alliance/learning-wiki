@@ -49,6 +49,7 @@ The article recommends that the educational value of future AI assistants lies i
 - [Design AI configurations that preserve generative work: feedback-only audiences, generate-then-compare, and calibrated teaching interactions](preserve-generative-work-ai-configurations.md)
 - [AI-supported choice architectures that build agency while the teacher retains curricular scope](ai-predictive-agency-pathways.md)
 - [Design hypothesis-testing tasks that require students to reason about relations between steps rather than fill in pre-given steps](tasks-addressing-logical-reasoning-between-steps.md)
+- [Use four assessment types — computer-based, tutor-, self- and peer-assessment — within e-Learning scenarios](unite-four-assessment-techniques.md)
 
 ## Examples
 -

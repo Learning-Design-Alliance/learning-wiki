@@ -51,3 +51,5 @@ Student-level covariate results from the three-level regression models (Table 3)
 ## Related Claims
 - [ACE-outcome associations did not differ between girls and boys](no-gender-differences-ace-associations.md) — related
 - [Bilingual students scored significantly lower on text quality than L1 students, with L2 differences marginal for text quality and handwriting fluency](language-background-text-quality-differences.md) — related
+- [Gender and socioeconomic differences in handwriting are concentrated in kinematic components](gender-ses-effects-kinematic-components.md) — related
+- [Girls outperform boys in overall handwriting total score among second graders](girls-outperform-boys-handwriting-total-score.md) — related

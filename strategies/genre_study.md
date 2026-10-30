@@ -64,6 +64,7 @@ Genre study works because genre knowledge functions as a schema: knowing a text 
 - [Case-Based Learning](../patterns/case-based-learning.md) — shares the multiple-example induction structure, applied to problems rather than texts
 - [Concept Attainment](../patterns/concept-attainment.md) — genre study is concept attainment with texts as exemplars and non-exemplars
 - [Teach students that different genres of writing serve different purposes and let them practice genre selection](genres-serve-purposes-genre-selection-practice.md)
+- [Immersive navigation inside musical rooms for active genre listening](immersive-musical-rooms-navigation.md)
 
 ## Related Elements
 - [Assigned Readings](../elements/assigned-readings.md) — the text set that makes induction possible

@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 73 claims (37 for, 32 mixed, 4 against) · 68 studies (14 review, 13 causal, 12 associational, 11 design, 7 theoretical, 6 quant-synthesis, 5 qualitative), `q1`–`q4` · 9 of 68 report an effect size · 72 claims rest on one study
+> **Evidence** · 76 claims (38 for, 34 mixed, 4 against) · 70 studies (15 review, 14 causal, 12 associational, 11 design, 7 theoretical, 6 quant-synthesis, 5 qualitative), `q1`–`q4` · 9 of 70 report an effect size · 75 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -108,6 +108,9 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [Familiarity with technology gained from prior face-to-face tablet use does not significantly contribute to learning activities, cognitive activation, or effort in digital distance teaching](../claims/technology-familiarity-no-effect-on-distance-teaching-quality.md) [~W]
 - [Technology was rarely used for interactive learning activities during digital distance teaching](../claims/technology-rarely-used-for-interactive-activities-distance-teaching.md) [-W]
 - [New technologies and tools are emerging that cater to a broader range of genres, pedagogical settings, and approaches as technology-enhanced learning becomes more ubiquitous](../claims/strobl-2019-emerging-broader-tools.md) [+W]
+- [Tablet use is positively associated with student satisfaction and engagement](../claims/tablet-use-satisfaction-engagement.md) [+W]
+- [Studies report both positive and negative effects of classroom screen use: tablets and interactive whiteboards can support learning and academic performance, but teachers report difficulty supervising children's screen activity.](../claims/classroom-screen-use-positive-and-negative-effects.md) [~W]
+- [Sensitivity testing indicates the performance effects of tablet use are robust and not subject to moderation effects](../claims/tablet-performance-effects-robust.md) [~W]
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

@@ -53,3 +53,4 @@ Post-questionnaire analysis (instrument adapted from Lin et al., 5-point Likert 
 - [After playing Factory Craft, middle school students showed no statistically significant overall gain in computational thinking competency](gbl-no-overall-ct-competency-gain.md) — related
 - [A serious virtual world class does not produce statistically significant differences in learning effectiveness compared with a traditional class of identical learning objectives and contents](svw-no-learning-effectiveness-difference-e-junior.md) — reports the opposite
 - [Comparative evaluations against traditional teaching are rare, and the one digital-versus-paper comparison found no statistical difference](few-comparative-evaluations-heritage-games.md) — related
+- [Mobile VR-based music genre learning improves genre characterization learning compared to traditional lessons with printed materials and passive listening](mobile-vr-improves-music-genre-characterization-learning.md) — related

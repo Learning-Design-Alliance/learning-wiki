@@ -44,6 +44,7 @@ The article derives practical design recommendations for reducing deskilling ris
 - [AI-assisted learning systems should scaffold cognitive development rather than replace it, and require active student contribution to preserve ownership](genai-systems-scaffold-not-replace-cognitive-development.md)
 - [Calibrate assistant support forms to preserve users' cognitive participation rather than making every interaction tutor-like](calibrate-llm-support-forms-for-cognitive-participation.md)
 - [Design AI configurations that preserve generative work: feedback-only audiences, generate-then-compare, and calibrated teaching interactions](preserve-generative-work-ai-configurations.md)
+- [Supersede restriction-based education and advance toward education that makes new generations aware of the negative consequences of technology use.](move-beyond-restriction-based-screen-education.md)
 
 ## Examples
 -

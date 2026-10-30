@@ -43,6 +43,7 @@ The study distills adult learners' interview perspectives into three design-prin
 
 - [Four pedagogical principles for AI companion design derived from the HELF](four-pedagogical-principles-ai-companion-design.md)
 - [Three design principles for an AI system facilitating LGC-based learning](three-design-principles-lgc-ai-system.md)
+- [Four key pedagogical approaches (constructivist, blended, collaborative, active learning) derived from user requirements](unite-four-pedagogical-approaches.md)
 
 ## Examples
 -

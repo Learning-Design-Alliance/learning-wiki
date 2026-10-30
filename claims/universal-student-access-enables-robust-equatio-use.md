@@ -51,3 +51,4 @@ Qualitative finding from interviews and focus groups with the nine teacher partn
 - [Digital tools complemented hands-on investigations by providing opportunities not possible in the classroom and letting children easily practice what they learned in hands-on activities.](nico-nor-digital-tools-complement-hands-on.md) — related
 - [Most assessment methods for dispositions were suggestions rather than implemented practices, and some designers had no assessment ideas](disposition-assessment-mostly-unimplemented.md) — related
 - [Teachers integrating a new assessment tool into early childhood practice need a range of supports to act effectively on the information it provides](teachers-need-multiple-supports-integrate-new-assessments.md) — related
+- [SWOT analysis concluded blended learning is the ideal future teaching concept and e-Learning implementation creates new cooperation opportunities without saving time](swot-blended-learning-ideal-concept.md) — related

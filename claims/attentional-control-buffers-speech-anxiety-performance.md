@@ -74,3 +74,4 @@ Regression analysis in the Results section predicting seconds of speech from mea
 - [Greater public speaking anxiety correlates with shorter and more poorly received speeches](speech-anxiety-correlates-poorer-performance.md) — related
 - [Speakers rate their own speeches more harshly than independent judges do](self-assessments-harsher-than-judges.md) — related
 - [Number of rubric sessions interacts negatively with mean age: intervention length matters less for older students](sessions-mean-age-interaction-rubrics.md) — related
+- [The SpeakApp-Kids! condition showed a larger decrease in general public speaking anxiety from the first practice session until one week after the actual presentation compared to control.](vr-condition-larger-decrease-general-public-speaking-anxiety.md) — related

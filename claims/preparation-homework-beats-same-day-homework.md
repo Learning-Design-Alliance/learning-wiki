@@ -48,3 +48,4 @@ The paper's review section cites Cooper et al. (2012) reporting that "students b
 
 - [Timely feedback on homework increases learning, and computer platforms providing immediate feedback help teachers adapt](timely-feedback-improves-homework-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Active learning conditions more often include quizzes, homework, and learning/exam preparation than lecture conditions](active-learning-conditions-more-other-pedagogical-features.md) — related
+- [E-learning platform use increased homework submission and attendance in a reviewed case study](e-learning-platform-homework-attendance-case-study.md) — related

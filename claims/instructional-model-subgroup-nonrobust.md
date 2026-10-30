@@ -69,3 +69,4 @@ Multivariate robust meta-regression (HC3) controlling for risk-of-bias classific
 - [Instructional method does not significantly moderate Gen-AI's effect on HOT, though project-based learning shows the largest subgroup effect (ES = 0.717) and lecture-based instruction a small non-significant effect (ES = 0.396)](genai-instructional-method-moderator.md) — related
 - The effect of ChatGPT on learning performance is moderated by type of course, learning model, and duration, with problem-based learning and 4–8-week interventions showing the largest effects — related
 - [Personalized learning models combining classroom use with student-centered pedagogies (Model C) exert larger effects than fully automated platforms (Model A)](hybrid-learning-models-outperform-fully-automated.md) — related
+- [Sensitivity testing indicates the performance effects of tablet use are robust and not subject to moderation effects](tablet-performance-effects-robust.md) — related

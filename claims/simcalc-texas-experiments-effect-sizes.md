@@ -52,3 +52,4 @@ Three Texas studies in 2005-06 and 2006-07 (two randomized, one quasi-experiment
 - [An adapted SimCalc linear-function unit in England produced significant posttest gains versus Texas-control predictions (ES = 0.57), with no significant gain differences by poverty or prior achievement](simcalc-uk-extension-gains.md) — related
 - [Propensity score analysis estimated a Texas generalizability index of 0.91, and post-stratification yielded a population average treatment effect of 1.47 versus a conventional estimate of 1.44](propensity-score-population-treatment-effect.md) — related
 - [The Genetics Tutor produced average pretest-to-posttest learning gains of about 18 percentage points across 45 single-unit evaluations.](genetics-tutor-18-percentage-point-gains.md) — related
+- [Retention gains from computer-assisted instruction held for multiplication and division units but not for fractions](frizbi-retention-multiplication-division-not-fractions.md) — related
