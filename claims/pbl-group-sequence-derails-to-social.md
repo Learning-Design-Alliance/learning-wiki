@@ -55,3 +55,4 @@ Sequence mining and distribution plots of group-level interactions (RQ1) showed 
 - [Temporal phases of co-regulation matter: prolonged early planning to establish shared goals and common ground facilitates co-regulation and collaboration in later phases](temporal-phases-prolonged-early-planning-facilitates-later-co-regulation.md) — related
 - Temporal process analysis reveals group- and task-related differences that the frequency accounts did not show, in the interchange of CPS elements over time — related
 - [Co-constructions of loaded moments can result in specific long-term relationship- and bond-development](loaded-moment-outcomes-shape-long-term-relationship-development.md) — related
+- [Dense networks with similar others and strong bonds foster perceived learning in online networks.](dense-networks-foster-perceived-learning.md) — related

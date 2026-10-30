@@ -50,3 +50,4 @@ Internal validation through model usability tests with the instructional design 
 - [Usability testing with educators and developers identified chatbot strengths for independent challenge-solving but limited feedback for low-participation learners](usability-test-strengths-and-limits.md) — related
 - [Expert evaluation refined the draft heuristics around language clarity, usability-accessibility separation, and meaningful data interpretation](expert-evaluation-refined-lxd-heuristics-two-rounds.md) — related
 - [Iterative advisory group feedback drove four framework iterations, including adding disruption and multi-level oppression](advisory-feedback-drove-framework-iterations.md) — related
+- [The IDR methodology and workshop model were iteratively developed and refined through use by a project team and at international conferences](idr-iterative-development-and-refinement.md) — related

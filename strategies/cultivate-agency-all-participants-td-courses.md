@@ -53,6 +53,7 @@ The review recommends that instructors and course designers attend to agency acr
 ## Related Strategies
 
 - [Build university design capacity and help students become self-managing participants in enacting designs for learning](build-design-capacity-and-student-co-configuration.md)
+- [Address teacher agency development in computer science teacher education programmes](considerations-cs-teacher-education-agency.md)
 
 ## Examples
 -

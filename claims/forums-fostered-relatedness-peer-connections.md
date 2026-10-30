@@ -53,3 +53,4 @@ Theme 3 from inductive interview analysis; 73 codes related to positive peer rel
 - [Student engagement in online courses is associated with satisfaction, motivation, reduced isolation, and improved performance](engagement-benefits-satisfaction-motivation-isolation-performance.md) — a broader claim this one bears on
 - [Students experience a perceived sense of support and connectedness through conversational ChatGPT interaction, though this is not genuine human relatedness](chatgpt-perceived-relatedness-support.md) — related
 - [General self-reported WhatsApp use was positively associated with professional social capital, identity, lower isolation, job satisfaction, and perceived knowledge transfer](general-whatsapp-use-socio-professional-connections.md) — related
+- [Dense networks with similar others and strong bonds foster perceived learning in online networks.](dense-networks-foster-perceived-learning.md) — related

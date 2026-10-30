@@ -50,3 +50,6 @@ Structural model assessment in the same PLS-SEM survey study (n = 396). The arti
 - [Social influence has a small positive impact on MALL use in EFL acquisition among Vietnamese learners](social-influence-modest-attitude-mall.md) — related
 - [Behavioral intention translates only weakly into self-reported use behavior, and the extended UTAUT model explains intention formation better than enactment](intention-use-gap-t2i-creative-education.md) — related
 - [Metacognitive knowledge and intentions to use effective strategies do not reliably translate into actual strategy use (intention-behavior gap)](intention-behavior-gap-strategy-use.md) — a narrower finding that bears on this claim
+- [Facilitating condition has no direct effect on actual use of MALL, departing from prior literature.](facilitating-condition-no-direct-effect-use.md) — related
+- [The modified UTAUT model accounts for 62% of variance in behavioral intention and 19% of variance in use behavior.](modified-utaut-variance-explained-mall.md) — related
+- [Performance expectancy significantly predicts both behavioral intention and actual use of MALL.](performance-expectancy-predicts-intention-and-use.md) — related

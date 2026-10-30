@@ -71,3 +71,4 @@ Case-study and count-based qualitative analysis: five pupils expressed other-sid
 ## Related Claims
 - [Students made more evaluative comments after the dialogic argumentation intervention, but their evaluations still favored their own position](more-evaluative-comments-post-intervention-still-biased.md) — related
 - [Elementary students expressed significantly more opinion statements supporting the other-side when reading the other-side historical account than when reading their own-side account](more-other-side-support-reading-other-side-text.md) — related
+- [When the controversy is presented as two videos, students more often defend the expert view, nearly doubling the commercial view](two-videos-boost-expert-view-adoption.md) — related

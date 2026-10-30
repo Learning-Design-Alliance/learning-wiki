@@ -13,7 +13,7 @@ generated:
 # Inquiry and Research
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (4 for, 2 mixed, 1 against) · 15 studies (6 review, 5 quant-synthesis, 2 causal, 1 associational, 1 theoretical), `q2`–`q4` · 4 of 15 report an effect size · 3 claims rest on one study
+> **Evidence** · 8 claims (5 for, 2 mixed, 1 against) · 16 studies (6 review, 5 quant-synthesis, 2 causal, 1 associational, 1 design, 1 theoretical), `q2`–`q4` · 4 of 16 report an effect size · 4 claims rest on one study
 
 ## Description
 Inquiry and research place learners in the role of investigator: they pose or refine questions, gather and evaluate evidence, and build explanations from what they find. The element shifts the locus of knowledge construction from instructor to learner, with the instructor designing the question space, providing tools and [Scaffolding](scaffolding.md), and [Coaching](coaching.md) during the investigation.
@@ -56,6 +56,7 @@ Inquiry supports deep conceptual understanding and transfer when learners have e
 - [Meta-analysis of 37 inquiry-based instruction studies found an overall positive effect moderated by epistemic focus and teacher leadership](../claims/inquiry-based-teaching-improves-science-achievement.md) [~W]
 - [Inquiry-based learning strategies in laboratory courses are reported to significantly improve critical thinking skills](../claims/inquiry-based-lab-learning-improves-ct.md) [+W]
 - [Open inquiry improves students' conceptual understanding of science, supported by seven reviewed studies](../claims/open-inquiry-improves-conceptual-understanding.md) [+W]
+- [Myartspace enabled students to gather substantial multimedia evidence during a museum visit](../claims/myartspace-effective-gathering-museum-evidence.md) [+W]
 
 ## The evidence by question
 - *Does inquiry-based teaching raise science achievement over the usual instruction?* [Inquiry Based Teaching Improves Science Achievement](../claims/inquiry-based-teaching-improves-science-achievement.md) [+S]

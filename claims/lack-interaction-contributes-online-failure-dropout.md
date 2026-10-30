@@ -49,3 +49,4 @@ The article's framing statement, offered without reported data in the supplied t
 - [All four A3C interaction types can contribute individually to learning and may exist in parallel during mass collaboration](a3c-interaction-types-parallel-learning.md) — related
 - [Interaction and usability challenges affect 85.3% of reviewed CAI articles, with usability problems most observable in mature rule-based agents](cai-interaction-usability-challenges-prevalence.md) — related
 - [In a synchronous online environment, self-organization can be seen as a continuum, and there is strong interdependence between processes and content](self-organization-continuum-synchronous-online-interaction.md) — related
+- [The article claims prevalent development methodologies lack true interdisciplinarity, contributing to technology's failure to disrupt learning and teaching](tel-development-methodologies-lack-interdisciplinarity.md) — related

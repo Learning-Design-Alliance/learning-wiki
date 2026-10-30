@@ -39,6 +39,7 @@ This strategy operationalizes item fit analysis as a quality-control step in mai
 ## Related Strategies
 
 - [Use a two-step quality-indicator and decision-rule procedure that considers both high-quality and acceptable-quality research when establishing level of evidence](two-step-quality-indicator-evidence-review-procedure.md)
+- [Use Rasch-based path modeling to analyze Likert-scale survey data in learning technology acceptance research.](rasch-based-path-modeling-survey-data.md)
 
 ## Examples
 -

@@ -51,3 +51,6 @@ Cross-sectional online survey of 396 MALL users in EFL contexts, analyzed with P
 - [Behavioral intention translates only weakly into self-reported use behavior, and the extended UTAUT model explains intention formation better than enactment](intention-use-gap-t2i-creative-education.md) — reports the opposite
 - [Performance expectancy, effort expectancy, and social influence positively predict behavioral intention to use ChatGPT among Lesotho higher education students](pe-ee-si-predict-chatgpt-intention-lesotho.md) — related
 - [Metacognitive knowledge and intentions to use effective strategies do not reliably translate into actual strategy use (intention-behavior gap)](intention-behavior-gap-strategy-use.md) — reports the opposite
+- [Attitude is the most powerful predictor of behavioral intention to use MALL among higher education learners in Vietnam.](attitude-strongest-predictor-mall-intention.md) — related
+- [The modified UTAUT model accounts for 62% of variance in behavioral intention and 19% of variance in use behavior.](modified-utaut-variance-explained-mall.md) — related
+- [Performance expectancy significantly predicts both behavioral intention and actual use of MALL.](performance-expectancy-predicts-intention-and-use.md) — related

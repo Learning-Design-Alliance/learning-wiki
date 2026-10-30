@@ -49,3 +49,4 @@ Hierarchical stepwise regression on questionnaire data from 229 teachers (RQ2). 
 - [Review reports that teachers' beliefs, attitudes and TPACK—not AI knowledge alone—mediate AI integration](teacher-beliefs-mediate-ai-integration.md) — related
 - [The Social Cognitive Model of Technology Integration explains 55% of variation in preservice teachers' technology integration intentions](scmti-explains-55-percent-intention-variance.md) — related
 - [The integrated model explains 57.1% of satisfaction, 32.2% of use, and 52.5% of individual impact variance](brazilian-model-explained-variance.md) — related
+- [Teacher beliefs explain variance in computer use comparable to technology-related variables](beliefs-explain-variance-comparable-to-technology-variables.md) — related

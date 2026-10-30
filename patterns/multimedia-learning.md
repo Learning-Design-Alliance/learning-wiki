@@ -25,7 +25,7 @@ sources:
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 101 claims (43 for, 55 mixed, 3 against) · 77 studies (46 causal, 11 review, 10 quant-synthesis, 4 theoretical, 2 associational, 2 qualitative, 2 design), `q1`–`q4` · 20 of 77 report an effect size · 92 claims rest on one study
+> **Evidence** · 102 claims (43 for, 56 mixed, 3 against) · 78 studies (47 causal, 11 review, 10 quant-synthesis, 4 theoretical, 2 associational, 2 qualitative, 2 design), `q1`–`q4` · 20 of 78 report an effect size · 93 claims rest on one study
 
 ## Description and scope
 
@@ -166,6 +166,7 @@ This pattern is scoped to explanations of structures, processes and relations pr
 - [Visual cognitive style, pacing, and visualization interact: highly developed visualizers learn poorer with self-paced static pictures than with system-paced static pictures](../claims/triple-interaction-visual-style-pacing-visualization.md) [~W]
 - [Instructional video clips improved macroeconomics test scores relative to control](../claims/instructional-video-clips-improve-macroeconomics-test-scores.md) [+W]
 - [Adding visuals of the instructor to online video lectures impairs comprehension relative to audio-only and audio+text formats](../claims/instructor-visuals-impair-lecture-comprehension.md) [-W]
+- [Modality shows no major role in students' source citations or global source memory](../claims/no-modality-effect-source-memory-citations.md) [~W]
 
 ## Examples
 

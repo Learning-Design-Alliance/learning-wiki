@@ -65,3 +65,4 @@ This is a qualitative, design-based study conducted in informal community settin
 - [Ten developmental experiences are proposed as key mechanisms whereby settings influence character development](ten-developmental-experiences-build-character.md) — related
 - [Agentic engagement with lively data supports epistemically just crisis sensemaking](lively-data-and-agentic-positions-support-epistemically-just-crisis-sensemaking.md) — related
 - [An online learning platform enabled Grade 9 students to construct and coordinate a variety of multimodal representations in both digital and non-digital forms](stile-enabled-representation-construction.md) — related
+- [Teachers' agentic decisions influence students' processes of achieving learner agency, both positively and negatively](teacher-agency-influences-learner-agency.md) — related

@@ -48,3 +48,4 @@ Two-level unconditional null model from the multilevel analysis of 574 teachers 
 - [School-level ICT policy factors (ICT plan, support, training) are significantly associated with teachers' classroom use of ICT in Flemish primary schools](school-ict-policy-factors-predict-class-ict-use.md) — related
 - [Grading variability: 40.7% of grade variance lies between teachers and essay quality is the largest random effect](variance-decomposition-teacher-grading.md) — related
 - [Approximately 13–14% of total variance in first-grade written composition is attributable to differences among classrooms](classroom-level-variance-written-composition-first-grade.md) — related
+- [About 18% of variance in classroom computer use lies at the school level](school-level-variance-computer-use-18-percent.md) — related

@@ -49,3 +49,5 @@ Fixed-value omnibus tests (Table 2) on mean scores per group, question and phase
 - [The large online group showed significant score improvements from phase onward on question 1 while the smaller groups did not, indicating collective intelligence capacity emerged in the large group](collective-intelligence-large-group-hate-speech-improvement.md)
 - [Mean answer scores in the large group rose continually across the interaction phases, especially from phase 4 onward, but stagnated on question 3](large-group-mean-scores-rose-phases.md)
 - [The small groups did not improve on questions 1 and 4, G2 declined on questions 2 and 3, and G3 improved only on question 2](small-groups-no-improvement-hate-speech-scores.md)
+- [Self-perceived capacity to act in a cyberbullying case (Question 2) shows no significant change across phases](collective-learning-no-change-self-perception.md) — reports the opposite
+- [Significant score differences between phases emerge earlier for confrontation and prevention questions (from Phase 2) than for identification and typology questions (from Phases 3–4)](collective-learning-phase-onset-differences.md) — related

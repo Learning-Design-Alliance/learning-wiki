@@ -52,3 +52,4 @@ Formative evaluation findings on technological mediation: students commented the
 - [Synchronous autonomous AI suggestions increased perceived writing efficiency but also caused distraction and mental overload during writing](synchronous-suggestions-efficiency-and-distraction.md) — related
 - [Learner-instructor and learner-content engagement strategies are negatively associated with digital distraction in online courses](instructor-content-engagement-associated-lower-distraction.md) — related
 - [Web-based museum trails enhanced design students' knowledge of, interest in, and closeness to museum objects](trails-enhanced-knowledge-interest-closeness-objects.md) — related
+- [Myartspace enabled students to gather substantial multimedia evidence during a museum visit](myartspace-effective-gathering-museum-evidence.md) — related

@@ -13,7 +13,7 @@ generated:
 # Learning Management Systems
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (1 for, 5 mixed, 4 against) · 8 studies (4 associational, 2 theoretical, 1 qualitative, 1 design), `q1`–`q3` · 2 of 8 report an effect size · 10 claims rest on one study
+> **Evidence** · 11 claims (2 for, 5 mixed, 4 against) · 9 studies (5 associational, 2 theoretical, 1 qualitative, 1 design), `q1`–`q3` · 2 of 9 report an effect size · 11 claims rest on one study
 
 ## Description
 Learning management systems are the element in which course organization, materials, communication, and tracking are coordinated through an LMS.
@@ -33,6 +33,7 @@ Learning management systems are the element in which course organization, materi
 - [Self-reported weekly time-on-task is positively correlated with LMS-based time-on-task and activity measures in engineering courses](../claims/self-reported-lms-time-on-task-correlated.md) [~W]
 - [The sequential pathway from AI literacy through LMS quality and blended-learning satisfaction to academic performance is significant (β = .263, p < .001)](../claims/sequential-mediation-pathway-significant.md) [~W]
 - [Integrating the IDSA into an existing learning management system limited usability, as the platform predefined frontend structure and navigation](../claims/idsa-lms-integration-usability-tradeoff.md) [-W]
+- [Existing components in learning management systems are the most frequently chosen LA tools and software](../claims/la-tools-lms-components-most-frequent.md) [+W]
 
 ## Related Elements
 - [Resource Hubs](resource-hubs.md)
