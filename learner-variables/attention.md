@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 146 claims (99 show a difference, 29 mixed, 18 no difference) · 111 studies (34 causal, 28 associational, 21 review, 12 quant-synthesis, 7 qualitative, 6 design, 3 theoretical), `q1`–`q4` · 23 of 111 report an effect size · 141 claims rest on one study
+> **Evidence** · 148 claims (100 show a difference, 30 mixed, 18 no difference) · 113 studies (35 causal, 28 associational, 21 review, 12 quant-synthesis, 7 qualitative, 7 design, 3 theoretical), `q1`–`q4` · 23 of 113 report an effect size · 143 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -184,6 +184,8 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Lecturer visibility has a positive effect on reported attention in weblectures when watching lasts more than 15 minutes](../claims/lecturer-visibility-positive-effect-reported-attention-weblectures-over-15-minutes.md) [~M] — instruction changes it
 - [Lecturer's appeal does not moderate the relation between lecturer visibility and reported attention](../claims/lecturer-appeal-no-moderation-visibility-attention.md) [-M] — instruction changes it
 - [No difference in reported attention between visibility-modes after watching a short weblecture](../claims/no-visibility-effect-reported-attention-short-weblecture.md) [-M] — instruction changes it
+- [Anti-cheating interventions can cause distraction and evoke negative emotions during online test-taking](../claims/interventions-cause-distraction-negative-emotions.md) [+M] — instruction changes it
+- [Technology sometimes distracted students from the learning experience, but distraction was balanced by the usefulness of content and structure](../claims/pda-distraction-balanced-by-structure.md) [~M] — instruction changes it
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

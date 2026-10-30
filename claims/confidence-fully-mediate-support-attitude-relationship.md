@@ -46,3 +46,4 @@ Follow-up mediation analysis using the Baron and Kenny method and Sobel test on 
 - [Teacher confidence strongly predicts favorable attitudes toward AI adoption, while the direct effect of support on attitudes is not significant](confidence-predicts-ai-attitudes-support-direct-effect-null.md) — possibly the same claim (merge candidate)
 - [Teacher concerns do not significantly moderate the support-confidence relationship nor directly predict confidence or attitudes](teacher-concerns-do-not-moderate-support-effects.md) — related
 - [Institutional support significantly and positively predicts teacher confidence in adopting AI among Philippine teachers](institutional-support-predicts-teacher-ai-confidence.md) — related
+- [Student engagement fully mediates the relationships between lecturer charismatic leadership/technology use and learning performance](engagement-fully-mediates-performance.md) — related

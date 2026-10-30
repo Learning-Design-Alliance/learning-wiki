@@ -51,3 +51,4 @@ Lag sequence analysis with GSEQ software of VR learning behavior logs from both 
 - [Without feedback, people are more curious about high-confidence errors than about equally high-confidence correct answers, replicated across experiments](no-feedback-high-confidence-errors-more-curiosity.md) — related
 - [The POED-based VR approach improved students' metacognition tendency more than the POEE-based VR approach](poed-vr-improves-metacognition-tendency.md) — related
 - [The POED-based VR approach improved students' problem-solving tendency more than the POEE-based VR approach](poed-vr-improves-problem-solving-tendency.md) — related
+- [Users who fail a MOOC tend to combine evaluation tasks with consultation of support materials, suggesting they attempt to answer activities without having absorbed the essential knowledge.](failed-users-combine-evaluation-with-material-consultation.md) — related

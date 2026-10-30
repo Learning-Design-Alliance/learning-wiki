@@ -74,3 +74,4 @@ Observational and interview study of four after-school sites; educators reported
 - [Teachers identified cost, bulky headsets, Wi-Fi connectivity, and technical issues as key challenges to integrating VR into ML2 teaching](vr-challenges-cost-headsets-wifi.md) — related
 - [Students integrating QR-code AR into their learning reported no technical issues, attributed to alpha-generation technology familiarity](qr-code-ar-no-technical-issues-alpha-generation.md) — related
 - [Technical difficulties disrupted teaching routines and produced role conflict in academics' professional identities](technical-difficulties-role-conflict-technology-integration.md) — related
+- [Trails were only partially successful technologically due to device and network problems](trails-partially-successful-technologically.md) — related

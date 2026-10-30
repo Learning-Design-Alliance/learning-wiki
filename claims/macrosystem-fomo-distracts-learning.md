@@ -49,3 +49,4 @@ Theoretical essay's treatment of macrosystem conditions, citing prior literature
 - [Usability problems — disorientation, distraction, and cognitive overload — hinder demonstrating effectiveness of self-controlled hypermedia learning](hypermedia-usability-problems-hinder-effectiveness.md) — related
 - [Humanlike AI co-writing (real-time suggestions and an agentic cursor) evoked feelings of surveillance, judgment and eeriness, and the moving cursor distracted writers](agentic-cursor-evokes-surveillance-and-eeriness.md) — related
 - [Educational social media use carries challenges: cognitive overload, misinformation, distraction, blurred privacy boundaries, and self-esteem effects](social-media-educational-challenges-overload-misinformation-privacy.md) — a broader claim this one bears on
+- [Anti-cheating interventions can cause distraction and evoke negative emotions during online test-taking](interventions-cause-distraction-negative-emotions.md) — related

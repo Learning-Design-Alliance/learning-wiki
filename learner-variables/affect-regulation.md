@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 214 claims (155 show a difference, 40 mixed, 19 no difference) · 135 studies (51 associational, 27 causal, 23 review, 12 qualitative, 9 quant-synthesis, 8 theoretical, 5 design), `q1`–`q4` · 35 of 135 report an effect size · 208 claims rest on one study
+> **Evidence** · 217 claims (156 show a difference, 41 mixed, 20 no difference) · 136 studies (52 associational, 27 causal, 23 review, 12 qualitative, 9 quant-synthesis, 8 theoretical, 5 design), `q1`–`q4` · 35 of 136 report an effect size · 211 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -254,6 +254,9 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Loss of a study routine reduced productivity and fed a cycle of procrastination, workload pile-up, stress and escapism for many students](../claims/lost-routine-procrastination-stress-cycle.md) [+M] — instruction changes it
 - [User testing showed free-form note-taking frustrated users, prompting a redesign to drag-and-drop scaffolding that reduced frustration and improved engagement](../claims/drag-and-drop-notebook-scaffolding-redesign.md) [+W] — instruction changes it
 - [Emotional e-regulation and e-self-control of impulsiveness are the strongest SEM predictors of fewer habitual digital behaviors across genders and age groups, in cross-sectional data](../claims/e-regulation-e-self-control-strongest-predictors.md) [+M] — learners who differ on it differ in outcomes
+- [Self-reported stress during VR teaching is not significantly associated with the use of first-person singular pronouns in written reflections.](../claims/no-association-self-reported-stress-i-talk.md) [-W] — instruction changes it
+- [Student teachers’ use of subjective first-person singular pronouns in written reflections predicts an increase in physiological stress in a subsequent VR lesson.](../claims/i-talk-predicts-increase-physiological-stress.md) [+W] — instruction changes it
+- [The use of objective first-person singular pronouns predicts self-reported stress in a subsequent VR lesson, but this association is explained by prior physiological stress.](../claims/objective-pronouns-predict-self-reported-stress.md) [~W] — instruction changes it
 
 ## The evidence by question
 

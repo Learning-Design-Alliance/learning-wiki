@@ -51,3 +51,4 @@ Year 2 teacher post-survey from the DLP, comparing coached and non-coached teach
 - [DLP teachers reported higher rates of impactful student technology use and greater perceived positive impact on student engagement and learning than non-DLP teachers](dlp-student-engagement-impactful-technology-use.md) — related
 - [Coached teachers report greater impact of their technology use on student engagement and learning](coaching-increases-perceived-itu-impact-engagement-learning.md) — related
 - [Coached teachers report increases in how often students and teachers use technology, compared to non-coached peers](coaching-increases-technology-use-frequency.md) — related
+- [Technology's impact on learning depends heavily on teachers' skills, values, and dispositions — core elements of teacher identity](technology-impact-depends-on-teacher-identity.md) — related

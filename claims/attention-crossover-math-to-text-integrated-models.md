@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-10-30
 sources:
   - id: strohmaier-2025
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102235"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-30 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Numerical problem difficulty and mathematical abilities affected fixation durations on situational text in the second solution phase, an attention-crossover effect predicted by integrated models but not separable ones. [→ Strohmaier 2025](#strohmaier-2025)

@@ -49,6 +49,7 @@ Given competence need satisfaction's highest centrality among correlates, the au
 
 - [Cultivate identified and intrinsic AI motivation through curriculum integration, activities, workshops, and real-world AI applications](cultivate-intrinsic-identified-ai-motivation-strategies.md)
 - [Use Student Smartphones to Reduce Cost of AI Education at Schools](student-smartphones-reduce-ai-education-cost.md)
+- [Provide training and clear instructions on LinkedIn use to enhance student confidence and engagement](linkedin-training-clear-instructions-strategy.md)
 
 ## Examples
 -

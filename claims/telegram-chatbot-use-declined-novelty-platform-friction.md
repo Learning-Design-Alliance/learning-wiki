@@ -56,3 +56,4 @@ Cognitive walkthroughs with 12 undergraduates in Education and Society at U1, an
 - [Primary metrics improved during US holidays, attributed to more motivated voluntary users](holiday-usage-motivation-metric-improvements.md) — related
 - [Instructional videos and AI chatbots show complementary rather than redundant functions for science learning](videos-and-ai-chatbots-complementary-functions.md) — related
 - [Student disengagement in adaptive learning platforms is linked to technical problems, boredom with long or irrelevant content, insufficient challenge and feedback, and declining engagement over time](disengagement-factors-adaptive-platforms.md) — a broader claim this one bears on
+- [There is a considerable drop in course participation during the second week of the language-learning MOOC, indicating content diversity alone is insufficient to ensure user engagement.](second-week-participation-drop-in-language-mooc.md) — related

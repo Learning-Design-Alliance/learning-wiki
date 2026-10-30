@@ -54,3 +54,4 @@ Linear mixed-effects model on check-in form responses from the six-week within-s
 - [Using the chatbot-based journaling system improves self-reported SRL strategy use from pre-survey to 12-week follow-up in all groups, including baseline](journaling-system-improves-srl-all-groups.md) — related
 - [Purpose-built AI chatbots show generally promising short-term improvements in physical activity and dietary behaviors](health-behavior-change-short-term-promising.md) — related
 - [Purpose-built AI chatbot coaching is generally well received and supports short-term motivation and selected behavior change, but effects on sustained, meaningful outcomes are inconsistent](purpose-built-chatbot-coaching-short-term-benefits-inconsistent-sustained.md) — a broader claim this one bears on
+- [Changes in motivation outcomes were non-linear over six weeks, with TeachQuest sustaining interest and RJP maintaining self-efficacy](nonlinear-motivation-change-six-weeks.md) — related

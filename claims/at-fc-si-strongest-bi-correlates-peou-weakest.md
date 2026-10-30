@@ -59,3 +59,4 @@ Bivariate correlation matrix (Table 5) among the six constructs in the sample of
 - [Most proposed constructs showed high internal consistency (Cronbach's alpha above 0.70) but control variables did not and were removed](scale-reliability-alphas-control-variables-removed.md) — related
 - [Perceived usefulness, attitude, and behavioral intention form a significant TAM pathway predicting GenAI adoption among law students](tam-pathway-genai-adoption-law-students.md) — related
 - [Perceived ease of use is a robust predictor, positively and significantly influencing students' attitudes towards CSCL and their perceptions of usefulness](ease-of-use-predicts-attitude-and-usefulness-cscl.md) — related
+- [Usefulness, ease of use, social influence, facilitating conditions and community identity each have a significant positive influence on Facebook adoption.](five-factors-significant-positive-influence-facebook-adoption.md) — related

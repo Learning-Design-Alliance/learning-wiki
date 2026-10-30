@@ -9,6 +9,7 @@ generated:
   at: 2026-10-20
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-10-30
 recheck_by: 2028
 sources:
   - id: seyyed-kazem-banihashem-2025
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
+> **Currency** · newest study 2025 · checked against its sources 2026-10-30 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` A learning analytics tool called AcaWriter offered personalized feedback on students' academic writing tasks, identifying mistakes and areas of weakness and providing constructive suggestions. [→ Seyyed Kazem Banihashem 2025](#seyyed-kazem-banihashem-2025)

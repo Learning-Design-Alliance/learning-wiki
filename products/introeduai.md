@@ -31,7 +31,8 @@ IntroEduAI is an educational platform developed to deliver programming assignmen
 - [Under LLM evaluators, structured rubrics produced larger negative deviations from the human baseline than free-form rubrics, the opposite direction of the human-evaluator pattern](../claims/structured-free-form-llm-deviation-contrast.md) [~W]
 
 ## Related Products and Programmes
--
+
+- [GAME: generic automated marking environment for programming assignments](game-generic-automated-marking-environment-for-programming-assignments.md)
 
 ## Key Sources
 - Mendonça PC, Quintal F, Figueiredo M and Mendonça F (2026) Perceived usefulness and intention to use large language model-generated feedback across three educational levels: a user-centred study in programming. Front. Educ. 11:1934069. https://doi.org/10.3389/feduc.2026.1934069

@@ -55,3 +55,4 @@ ARM single-antecedent rules in the 530-student survey. Table 2 shows LI rules (e
 - [Online students value learner-to-instructor engagement strategies most among the three interaction categories](learner-to-instructor-strategies-most-valued-online.md) — related
 - [Instructors who visibly promoted iHelp and the peer help model seemed to engender greater student engagement](ihelp-instructor-promotion-engagement.md) — related
 - [Attending to students' experiences and three interaction types is proposed as a route to more equitable online courses](equitable-online-courses-through-interaction-design.md) — related
+- [Technology sometimes distracted students from the learning experience, but distraction was balanced by the usefulness of content and structure](pda-distraction-balanced-by-structure.md) — related

@@ -27,7 +27,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 99 claims (40 for, 55 mixed, 4 against) · 75 studies (35 causal, 15 review, 13 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 20 of 75 report an effect size · 90 claims rest on one study
+> **Evidence** · 100 claims (40 for, 56 mixed, 4 against) · 76 studies (36 causal, 15 review, 13 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 20 of 76 report an effect size · 91 claims rest on one study
 
 ## Conditional relationship
 
@@ -140,6 +140,7 @@ Claims linked to this page later go here until they are read against the model. 
 - [Multimedia feedback produces higher posttest performance than text-only feedback on conditional probability problems](../claims/multimedia-feedback-improves-posttest-conditional-probability.md) [+W] — attached 2026-10-24 from Gök et al. (2025), which proposed "Provide multimedia materials in feedback to improve problem-solving performance, and in initial instruction when the aim is spontaneous diagram generation"; tests this page's relationship.
 - [Multimedia initial instruction shows no detectable benefit over text-only instruction on posttest performance](../claims/multimedia-instruction-no-posttest-benefit.md) [~W] — attached 2026-10-24 from Gök et al. (2025), which proposed "Provide multimedia materials in feedback to improve problem-solving performance, and in initial instruction when the aim is spontaneous diagram generation"; tests this page's relationship.
 - [Multimedia presentation effects are strongest for procedural knowledge (technical and contextual)](../claims/multimedia-strongest-effect-procedural-knowledge.md) [+W] — attached 2026-10-28 from Tani et al. (2022), which proposed "Design multimedia presentations following established multimedia learning principles".
+- [No difference in reported attention between visibility-modes after watching a short weblecture](../claims/no-visibility-effect-reported-attention-short-weblecture.md) [~W] — attached 2026-10-30 from Korving et al. (2016), which proposed "Use a large lecturer video for weblectures longer than 15 minutes; use large slides for shorter weblectures".
 
 ## Objective and learner-valued goal
 

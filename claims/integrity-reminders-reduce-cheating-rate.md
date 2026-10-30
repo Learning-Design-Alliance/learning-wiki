@@ -49,3 +49,6 @@ Hierarchical meta-regression across the four studies entered reminders after exa
 - [With academic integrity reminders present, the exam-format effect on cheating rate disappears (Study 3 null)](reminders-eliminate-exam-format-rate-effect.md) — reports the opposite
 - [Unproctored exams produce significantly lower cheating rates than teacher-proctored exams in actual course exams without integrity reminders](unproctored-exams-lower-cheating-rate.md) — related
 - [Study 4 replicated lower cheating rates in unproctored exams with reminders present, though with anecdotal Bayes evidence](study4-unproctored-rate-replication-reminders.md) — related
+- [Displaying a honor code reminder during an unproctored online test lowers the odds of cheating compared to a control condition](honor-code-reminder-lowers-cheating-odds.md) — related
+- [Anti-cheating interventions do not significantly affect test-taking self-efficacy](interventions-no-self-efficacy-effect.md) — related
+- [Warning messages about punitive measures lower the odds of cheating in unproctored online tests](warning-message-lowers-cheating-odds.md) — related

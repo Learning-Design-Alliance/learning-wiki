@@ -48,3 +48,4 @@ Classification comparison for the non-repeatable grade outcome using an averaged
 - [CatBoost achieved the best classification performance among tested algorithms for predicting course completion risk (F-measure .77, accuracy 78%, AUC .87)](catboost-best-performing-risk-classifier.md) — reports the opposite
 - [A random forest classified flagged versus non-flagged word problems with the best accuracy of five tested models (AUC = 0.75)](random-forest-best-auc-flagged-problems.md) — related
 - [Machine learning methods outperformed logistic regression in classification accuracy across reviewed studies](ml-outperforms-logistic-regression-aied.md) — a broader claim this one bears on
+- [Optimal ensemble threshold value is 0.7, with accuracy declining beyond it](ensemble-threshold-0-7-optimal.md) — reports the opposite

@@ -71,3 +71,6 @@ Key finding from the brief's synthesis of the Ecree and MI Write studies: "Some 
 - [MI Write's automated feedback is most useful to students when it supplements, not replaces, teacher feedback](automated-feedback-supplements-not-replaces-teacher-feedback.md) — related
 - [Students need clear guidance so they are not overwhelmed by Ecree's feedback, which may be most useful for advanced writers](students-need-guidance-ecree-feedback-advanced-writers.md) — related
 - [About half of surveyed students agreed Ecree was easy to use and helped improve their writing](about-half-of-students-found-ecree-easy-and-helpful.md) — related
+- [Students rated MI Write's desirability lower than its usability and usefulness, influenced by perceptions of scoring accuracy](mi-write-desirability-lower-influenced-by-accuracy.md) — related
+- [Middle school students rated MI Write as moderately easy to use but found its scoring easier to understand than its feedback](mi-write-usability-moderate-scoring-easier-than-feedback.md) — related
+- [Students agreed MI Write was useful, particularly for revising writing and identifying areas of improvement rather than learning about writing](mi-write-usefulness-revision-identification-over-learning.md) — related

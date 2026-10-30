@@ -59,3 +59,4 @@ Thematic synthesis finding from the review's AI-augmented instructional design t
 - [Ethical decision-making about AI emerges as tensions and contradictions negotiated across ecological levels](ethical-ai-decision-negotiated-across-levels.md) — related
 - [Institutional agency involves aligning design work with institutional values and produces tension and ethical conflict when values clash](institutional-agency-values-tension.md) — a narrower finding that bears on this claim
 - [Technology integration functioned as both an enabler and a disruptor of academics' professional identities](technology-dual-role-enabler-disruptor-identity.md) — related
+- [MISTT analysis revealed mismatches in teacher identity expectations which may hinder effective technology integration](mistt-identity-expectation-mismatches-hinder-technology-integration.md) — related

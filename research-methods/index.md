@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**828 entries** · 0 stable · 828 in review · 0 drafts
+**829 entries** · 0 stable · 829 in review · 0 drafts
 
 ---
 
@@ -583,6 +583,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Privacy-preserving linkage and analysis of educational data using privacy-enhancing technologies](privacy-preserving-linkage-and-analysis-of-educational-data-using-privacy-enhancing-techno.md) - The article presents a worked scenario in which a DLP used across several school districts for high school math instruction is linked with state college enrollment and persistence records using secure multiparty computation, producing aggregate correlations between engagement patterns and college ou
 * [Probabilistic peer grading models (PG1, PG2, PG3)](probabilistic-peer-grading-models-pg1-pg2-pg3.md) - The article introduces a family of Bayesian models in which each submission has a latent true score, each grader a bias (tendency to \"inﬂate or deﬂate her assessment\") and a reliability (precision of assessments after bias correction).
 * [Probability-curve percentile weighting of item difficulty for scoring opposites tests](probability-curve-percentile-weighting-of-item-difficulty-for-scoring-opposites-tests.md) - A scoring account in which each stimulus word's difficulty is estimated from the percentage of subjects failing it, then converted to a percentile value by reading from a table based on the area of the probability curve, assuming the tested ability fits that curve.
+* [Process mining methodology for MOOC event logs (adapted PM2)](process-mining-methodology-for-mooc-event-logs-adapted-pm2.md) - The study employs an adapted version of the Process Mining Methodology (PM2) with seven steps, from definition of objectives to evaluation of process models, using the Disco Fluxicon software tool with an adapted Fuzzy Minner algorithm.
 * [Process-model and distribution-matching method for testing moderation of testing efficacy](process-model-and-distribution-matching-method-for-testing-moderation-of-testing-efficacy.md) - When both restudy and test condition means shift in the same direction across levels of another factor, an ANOVA interaction on proportion correct is theoretically uninterpretable, because the mapping from latent memory strength to accuracy is non-linear and unknown.
 * [Processing strengths and weaknesses (PSW) approaches to learning-disability identification](processing-strengths-and-weaknesses-psw-approaches-to-learning-disability-identification.md) - PSW methods operationalize a cognitive discrepancy approach to LD identification based on identifying an intraindividual pattern of processing strengths and weaknesses.
 * [Projection approach combining absenteeism-literature estimates with summer learning pattern analyses](projection-approach-combining-absenteeism-literature-estimates-with-summer-learning-patter.md) - The study's method is a projection framework rather than a direct measurement of pandemic learning loss.

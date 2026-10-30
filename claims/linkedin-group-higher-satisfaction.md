@@ -1,0 +1,52 @@
+---
+type: claim
+title: Students in a LinkedIn group community scored significantly higher on overall satisfaction than control group students
+description: Students in a LinkedIn group community scored significantly higher on overall satisfaction than control group students
+id: linkedin-group-higher-satisfaction
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-30
+evidence_strength: moderate
+newest_evidence: 2024
+sources:
+  - id: hazzam-2024
+    resource: "https://doi.org/10.1016/j.compedu.2024.105052"
+    title: "Hazzam, J., Wilkins, S., Southall, C., & Ibrahim, B. (2024). The influence of LinkedIn group community on postgraduate student experience, satisfaction and grades. Computers & Education, 216, 105052. https://doi.org/10.1016/j.compedu.2024.105052"
+    author: "Hazzam, J., Wilkins, S., Southall, C., & Ibrahim, B."
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
+---
+
+# Students in a LinkedIn group community scored significantly higher on overall satisfaction than control group students
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q3 i?` Experimental group students scored significantly higher on overall satisfaction (M = 4.530, SD = 0.784) than control group students (M = 4.120, SD = 0.834), t(80) = -2.271, p = 0.026. [→ Hazzam 2024](#hazzam-2024)
+
+## Evidence
+
+### Hazzam 2024
+
+Hazzam, J., Wilkins, S., Southall, C., & Ibrahim, B. (2024). The influence of LinkedIn group community on postgraduate student experience, satisfaction and grades. Computers & Education, 216, 105052. https://doi.org/10.1016/j.compedu.2024.105052
+
+`q3 · i?` · `causal · r2`
+
+Independent sample t-test on overall satisfaction among 40 experimental and 42 control students. The "experiment group (M = 4.530, SD = 0.784)" scored significantly higher than the control group.
+
+> "students' overall satisfaction in the experiment group (M = 4.530, SD = 0.784), t(80) =-2.271, p = 0.026, who significantly scored higher than the control group (M = 4.120, SD = 0.834)"
+
+## Discussion
+
+
+## Related Claims
+- [Behavioural engagement with the LinkedIn group community is positively and significantly related to student satisfaction](behavioural-engagement-satisfaction-linkedin.md) — related
+- [Students in a LinkedIn group community achieved significantly higher grades than control group students](linkedin-group-higher-grades.md) — related
+- [Students in a LinkedIn group community scored significantly higher on engagement than control group students](linkedin-group-higher-engagement.md) — related
+- [LinkedIn group community did not significantly affect teaching and learning perception, community, or skills development](linkedin-group-no-effect-other-dimensions.md) — related
+- [International students with prior LinkedIn experience show higher levels of engagement within the experimental LinkedIn group](international-students-higher-linkedin-engagement.md) — related

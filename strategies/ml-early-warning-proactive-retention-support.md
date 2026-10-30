@@ -53,6 +53,7 @@ The article recommends that institutions use machine learning predictions of wit
 - [Use early-run purchase predictions to trigger interventions guiding learners towards paying behaviour](early-purchase-prediction-interventions.md)
 - [Proactively identify upcoming critical events via stress tests, risk analysis, and learning analytics on program operation data](proactive-critical-event-identification.md)
 - [Engage teachers with predictive analytics dashboards to trigger timely interventions with students at risk](teacher-engagement-with-pla-interventions.md)
+- [Deploy analytical tools on learning platforms to detect learners exhibiting behaviours that may lead to failure or dropout and propose actions to recover them.](deploy-analytical-tools-to-detect-at-risk-mooc-learners.md)
 
 ## Examples
 -

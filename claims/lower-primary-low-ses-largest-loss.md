@@ -26,7 +26,6 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
 > **Currency** · newest study 2023 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
-> **Design limits** · Gyöngyvér Molnár & Zoltán Hermann 2023: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q3 i1` In the SES comparison of Grades 2–8, the authors find the loss largest among lower primary students in low-SES schools; lower graders' loss grew significantly to 25 points in mathematics, 20 in reading and 33 in science (d = -0.25, -0.20, -0.33) by autumn 2021, against 10 points (d = -0.1) among upper graders. The article does not say whether these point figures are for low-SES schools only. [→ Gyöngyvér Molnár & Zoltán Hermann 2023](#gyongyver-molnar-zoltan-hermann-2023)

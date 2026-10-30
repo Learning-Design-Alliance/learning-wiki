@@ -61,6 +61,7 @@ Communication channels are the element in which learners use designated tools or
 ## Examples
 
 - [Drawingvoice 2.0: a three-phase method combining small-group collaborative drawing, Facebook sharing, and face-to-face re-discussion](../strategies/drawingvoice-2-0-three-phase-method.md)
+- [Provide and structure online collaborative tools that support both task coordination and socio-emotional exchange.](../strategies/provide-varied-collaborative-tools.md)
 
 ## Related Elements
 - [Collaboration](collaboration.md)

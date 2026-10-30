@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**1329 entries** · 0 stable · 1329 in review · 0 drafts
+**1331 entries** · 0 stable · 1331 in review · 0 drafts
 
 ---
 
@@ -612,6 +612,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 * [ICE-T: a didactic framework integrating intermodal transfer, computational thinking, and explanatory thinking for ML education](ice-t-didactic-framework-ml.md) - ICE-T is a multi-faceted didactic framework for teaching machine learning whose name mnemonically captures its components: Intermodal Transfer grounded in Bruner's enactive-iconic-symbolic principle, Computational Thi...
 * [iCub LLM-powered narrative HRI system architecture](icub-llm-narrative-storytelling-system.md) - A companion-like social robotic platform in which the iCub humanoid and a human partner co-create a story in turn from pictures on nine soft cubes, each story built on a sequence of three cubes.
+* [Ideation Hub online brainstorming platform](ideation-hub-hybrid-brainstorming-platform.md) - The Ideation Hub is an online platform built for this study to run structured hybrid brainstorming sessions.
 * [Identity-Centered E-Textile Making](identity-centered-e-textile-making.md) - A maker pattern combining e-textiles (sewable circuits, LEDs, microcontrollers) with explicit invitation for participants to author identity into their design choices, so STEM making and identity expression develop together rather than separately.
 * [iEN lesson pages combining video clips, avatar explanations, knowledge maps, and e-books](ien-lesson-pages-multimedia-resources.md) - Lesson pages on the iEN portal package several asynchronous learning resources for each lesson.
 * [Illustrated mitosis learning material (11 pages, 1113 words) with EMME videos demonstrating multimedia processing strategies](mitosis-illustrated-text-emme-material.md) - The study's learning material is an expository illustrated text on mitosis distributed across 11 pages with an overall length of 1113 words, text on the left and a complementary picture on the right of each page.
@@ -994,6 +995,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Scaffolded video ethnography project with peer assessment and self-reflection](scaffolded-video-ethnography-project.md) - The video project is the key component of a cross-cultural communication course: students videotape a five- to seven-minute interview with a native or experienced speaker about cross-cultural experiences, then give a...
 * [Scaffolding capacities required for an educational-oriented remote laboratory](remote-lab-scaffolding-capacities-framework.md) - The article defines a set of pedagogical capabilities that remote laboratory environments must provide to effectively support practical learning: a common view of the experiment, shared control over remote experiments...
 * [Scaffolding via level-gated progression and hearts in Duolingo](duolingo-scaffolding-hearts-progression.md) - The article describes Duolingo's design as scaffolding, in which learners progress into more advanced levels once they show competence at the previous level.
+* [Scaffolding-based pedagogical model with adaptive feedback grounded in Zone of Proximal Development](scaffolding-adaptive-feedback-summary-assessment.md) - The article's pedagogical model is \"a 'scaffolding' model which is able to give students adaptive feedbacks based on their previous learning experience\".
 * [Scaffolding-perspective comparison of chatbots and search engines as technological scaffolds for problem posing](chatbot-search-engine-scaffolding-comparison.md) - The article frames chatbots and search engines as two distinct forms of technological scaffolding for problem-based inquiry, taking interaction mode as its entry point.
 * [Scenario-based design pattern: select a scenario, adapt it to context, then add domain content](select-adapt-add-content-pattern.md) - The SCY design pattern treats instructional design as selecting a reusable pedagogical scenario blueprint, adapting it, and adding domain content.
 * [Schedule a bout of moderate-intensity cardiovascular exercise immediately after motor skill practice to enhance multi-session motor learning in neurorehabilitation](post-practice-cve-after-skill-practice-rehab.md) - The article recommends, based on its pilot RCT, that motor skill practice in pwPD be followed by a 30-min bout of moderate-intensity cycling.

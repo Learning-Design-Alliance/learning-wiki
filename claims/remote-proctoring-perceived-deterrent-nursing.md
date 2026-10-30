@@ -51,3 +51,4 @@ Scoping review synthesis of two included studies (Aplin-Snider et al. 2021; Cast
 - [In-person proctored nursing cohorts achieved significantly higher HESI scores and NCLEX readiness than remotely proctored (ProctorU) cohorts](in-person-proctored-higher-hesi-than-remote.md) — related
 - [Eye-gaze-tracking-based proctoring systems report cheating-detection accuracies around 95–98% in their original studies](eye-gaze-proctoring-detection-accuracy-95-98.md) — related
 - [Head-pose-estimation-based proctoring systems report widely varying accuracies, from 75.6% for cheating detection to 100% for yaw-angle estimation](head-pose-proctoring-accuracy-range.md) — related
+- [The decision to cheat is influenced by perceived monitoring and likelihood of getting caught rather than severity of punishment](cheating-decision-perceived-surveillance-and-catch-likelihood.md) — related

@@ -54,3 +54,5 @@ Descriptive statement from the publication's summary page about the study's timi
 - [Ecree likely improved the quality of students' writing, especially for students with less advanced writing skills at the start of the school year](ecree-improved-writing-quality-especially-less-advanced-writers.md) — related
 - [More than half of surveyed teachers agreed Ecree was useful for improving students' writing, but some students may be overwhelmed by the feedback](teachers-found-ecree-useful-but-some-students-overwhelmed.md) — related
 - [About half of surveyed students agreed Ecree was easy to use and helped improve their writing](about-half-of-students-found-ecree-easy-and-helpful.md) — related
+- [Middle school students rated MI Write as moderately easy to use but found its scoring easier to understand than its feedback](mi-write-usability-moderate-scoring-easier-than-feedback.md) — related
+- [Students agreed MI Write was useful, particularly for revising writing and identifying areas of improvement rather than learning about writing](mi-write-usefulness-revision-identification-over-learning.md) — related

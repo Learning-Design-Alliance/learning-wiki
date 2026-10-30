@@ -73,3 +73,4 @@ The review's summary of its 31 reliability/validity studies: a majority support 
 - [Peer assessment of writing yields outcomes at least as good as teacher assessment and sometimes better](peer-writing-assessment-as-good-as-teacher.md) — related
 - [An accountability feature allowing students to grade received reviews improved the correlation between expert and peer marks in peerScholar](peerscholar-accountability-improves-expert-peer-correlation.md) — a narrower finding that bears on this claim
 - [The Bell Chemistry Test correlates moderately with semester marks and teachers' estimates, and is judged a fairly good measure of class knowledge but unreliable for an individual.](bell-test-fair-class-measure-unreliable-individual.md) — related
+- [GAME's marks agree with a human marker's marks on student programming exercises and assignments](game-marks-agree-with-human-marker.md) — related

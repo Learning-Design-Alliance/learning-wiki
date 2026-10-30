@@ -88,3 +88,4 @@ In the meta-regressions, no interactions were significant for cheating rate or e
 - [Study 4 replicated lower cheating rates in unproctored exams with reminders present, though with anecdotal Bayes evidence](study4-unproctored-rate-replication-reminders.md) — a narrower finding that bears on this claim
 - [In Study 3, among students who cheated, cheating extent was lower in unproctored exams, with a gender by exam type interaction driven by male students](study3-cheating-extent-gender-interaction.md) — reports the opposite
 - [With academic integrity reminders present, the exam-format effect on cheating rate disappears (Study 3 null)](reminders-eliminate-exam-format-rate-effect.md) — reports the opposite
+- [Anti-cheating interventions do not significantly affect test-taking self-efficacy](interventions-no-self-efficacy-effect.md) — related

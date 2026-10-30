@@ -51,6 +51,7 @@ The report recommends building layered systems of support for teachers at every 
 - [Involve teachers as co-designers of AI-based intelligent systems, with agency to train, correct, interpret, and override system recommendations](teacher-co-design-human-centered-ai-systems.md)
 - [Invest in dedicated instructional technology leadership roles and role-specific professional learning for AI literacy](role-specific-ai-professional-learning-leadership.md)
 - [Provide sustained, powerful professional development with professional learning communities for QTEL implementation](sustained-powerful-pd-for-qtel.md)
+- [Provide training and clear instructions on LinkedIn use to enhance student confidence and engagement](linkedin-training-clear-instructions-strategy.md)
 
 ## Examples
 -

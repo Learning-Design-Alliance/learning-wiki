@@ -73,3 +73,4 @@ Informal learning findings: "46 per cent of respondents stated that they used Fa
 - [A quarter of first-year students reported their academic work was often or very often adversely affected by time spent on Facebook.](facebook-time-detriment-academic-work.md) — related
 - [Students re-purpose social networking tools like Facebook as course back-channels, and user characteristics correlate with reported propensity to collaborate](facebook-backchannel-course-collaboration.md) — related
 - [Students initially doubted Facebook as an educational space but came to see it as a real resource for keeping the group in contact and fostering dialogue](facebook-initially-doubted-became-resource.md) — related
+- [Social Relations is perceived as the most important purpose of Facebook usage among students.](social-relations-most-important-usage-purpose.md) — related

@@ -52,3 +52,4 @@ Per-topic analysis over the 179-question test set (Table 2, Fig. 2). NP-complete
 - [The design strained on later proof-heavy topics, and students asked for better artifacts rather than fewer tests](proof-heavy-topics-strained-artifacts-requested.md) — related
 - [Cluster membership showed a strong multivariate effect on standard text-similarity metrics (Pillai's trace = 0.85, F(12, 248) = 15.31, p < 0.001)](manova-cluster-effect-text-metrics.md) — related
 - [Sciences-oriented students assimilated the studied sorting algorithm at a higher rate than humanities-oriented students during the black-box task](s-students-higher-algorithm-assimilation-rate-than-h-students.md) — related
+- [ROUGE overall performance is quite poor compared with LSA, BLEU and n-gram co-occurrence for summary assessment](rouge-poor-summary-assessment.md) — related

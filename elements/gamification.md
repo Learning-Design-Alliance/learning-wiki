@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 30 claims (14 for, 14 mixed, 2 against) · 19 studies (7 causal, 4 quant-synthesis, 4 review, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 6 of 19 report an effect size · 29 claims rest on one study
+> **Evidence** · 31 claims (15 for, 14 mixed, 2 against) · 20 studies (8 causal, 4 quant-synthesis, 4 review, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 6 of 20 report an effect size · 30 claims rest on one study
 
 ## Description
 Gamification is the element in which points, progress indicators, challenges, or other game-like structures are used to shape participation and persistence.
@@ -54,6 +54,7 @@ Gamification is the element in which points, progress indicators, challenges, or
 - [Commitment to and behaviour towards learning is better after a gamified exergaming intervention than after traditional PE teaching](../claims/gamified-exergaming-better-commitment-behaviour-learning.md) [+W]
 - [A gamified exergaming intervention improves the time transformation and autotelic experience flow dimensions, but not overall dispositional flow](../claims/gamified-exergaming-flow-dimensions-time-transformation-autotelic.md) [+W]
 - [Rhythmic motor skill academic performance is better after a gamified exergaming intervention than after traditional PE teaching](../claims/gamified-exergaming-better-rhythmic-motor-skill.md) [+W]
+- [Uncertainty is positively associated with learner motivation in game-like environments](../claims/uncertainty-positively-associated-motivation.md) [+W]
 
 ## Related Elements
 - [Adaptive Difficulty](adaptive-difficulty.md)

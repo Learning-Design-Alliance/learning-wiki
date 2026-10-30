@@ -50,3 +50,4 @@ Panel regression with fixed effects on 71,405 exams estimating "an average drop 
 - [Instruction on scalar electric potential produces a pronounced dip in correct vector-based Newton's Third Law responses in E&M](scalar-instruction-interferes-with-vector-responses.md) — related
 - [Area-of-law-specific and general exam practice contribute about equally and independently to performance development](area-specific-and-general-practice-contribute-equally.md) — related
 - [Motivation and engagement relate cyclically: prior motivation predicts subsequent engagement and prior engagement predicts subsequent motivation](cyclical-motivation-engagement-relation.md) — related
+- [There is a considerable drop in course participation during the second week of the language-learning MOOC, indicating content diversity alone is insufficient to ensure user engagement.](second-week-participation-drop-in-language-mooc.md) — related

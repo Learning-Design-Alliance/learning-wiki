@@ -76,3 +76,4 @@ Participants described cursor motion as destabilizing and distracting during wri
 - [High-tech VAD equipment made some participants feel under observation and stressed, and viewing recorded mistakes before teammates was seen as critical in both VAD forms, a potential threat to psychological safety](vad-stress-psychological-safety-threat.md) — related
 - [Producing a public information resource evoked a sense of responsibility toward readers that motivated care about information quality](public-production-evokes-responsibility.md) — related
 - [Macrosystem conditions such as social media and AI access shape availability to learn, with FoMO causing distractions during learning](macrosystem-fomo-distracts-learning.md) — related
+- [Anti-cheating interventions can cause distraction and evoke negative emotions during online test-taking](interventions-cause-distraction-negative-emotions.md) — related

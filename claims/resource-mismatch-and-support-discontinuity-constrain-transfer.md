@@ -72,3 +72,4 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [Teacher training need and access difficulties are the main reported barriers to using assistive technology with students with disabilities](at-barriers-teacher-training-access.md) — related
 - [Three barriers impede replication, meta-analysis, and large-scale impact research: funding, researcher incentives, and instrument sharing](three-barriers-replication-impact-research.md) — related
 - [Teachers support interdisciplinary curriculum integration but identify resource limitations, not curricular constraints, as the main barrier](e-textile-steam-integration-attitudes-barriers.md) — related
+- [MISTT analysis revealed mismatches in teacher identity expectations which may hinder effective technology integration](mistt-identity-expectation-mismatches-hinder-technology-integration.md) — related

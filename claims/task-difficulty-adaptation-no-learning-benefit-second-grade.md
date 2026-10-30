@@ -9,6 +9,7 @@ generated:
   at: 2026-10-12
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-30
 sources:
   - id: sibley-2026
     resource: "https://doi.org/10.1016/j.caeo.2026.100420"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i0` negligible
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-30 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i0` In a randomized two-group pretest–posttest field experiment (N = 132), the adaptive ITS condition did not outperform the non-adaptive condition on posttest mathematics scores controlling for prior knowledge. [→ Sibley 2026](#sibley-2026)

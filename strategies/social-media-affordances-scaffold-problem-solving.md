@@ -50,7 +50,8 @@ The article recommends deliberately leveraging social media affordances at each 
 - [Educational social media use carries challenges: cognitive overload, misinformation, distraction, blurred privacy boundaries, and self-esteem effects](../claims/social-media-educational-challenges-overload-misinformation-privacy.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Professors integrating Facebook should leverage its social dimension while providing training and addressing privacy concerns.](leverage-social-dimension-facebook-training-privacy.md)
 
 ## Examples
 -

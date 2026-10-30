@@ -68,3 +68,6 @@ The same LISREL path analysis showed post-test paths from accuracy (t = 6.17) an
 - [Competition increases time spent answering questions but not reading time or in-game accuracy](competition-response-time-accuracy-null.md) — related
 - [Post-test scores correlate with motivation, response time, reading time and in-game accuracy](correlations-post-test-game-measures.md) — related
 - [Adding a real-time competition environment to a serious game improves learners' post-test scores](competition-improves-post-test-serious-game.md) — related
+- [Higher response time, accuracy, and motivation correlate with higher post-test scores; reading time of explanations does not](correlations-post-test-behavioral-measures.md) — related
+- [Motivation is positively related to accuracy and response time during game-based learning](motivation-accuracy-response-time-relation.md) — related
+- [Post-test performance is positively associated with accuracy, response time, uncertainty, and motivation](post-test-associated-with-accuracy-response-time-uncertainty-motivation.md) — related

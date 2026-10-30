@@ -58,3 +58,4 @@ Key finding synthesized from two studies of Ecree and MI Write in grade 7–11 E
 - [A 2021–2022 study examined teachers' and students' use of MI Write and its impact on student and teacher outcomes](mi-write-study-examined-use-and-impact.md) — related
 - [MI Write's automated feedback is most useful to students when it supplements, not replaces, teacher feedback](automated-feedback-supplements-not-replaces-teacher-feedback.md) — related
 - [Teachers find Ecree's feedback less useful when it does not align with their typical content sequence and grading standards](ecree-feedback-less-useful-when-misaligned.md) — related
+- [Students agreed MI Write was useful, particularly for revising writing and identifying areas of improvement rather than learning about writing](mi-write-usefulness-revision-identification-over-learning.md) — related

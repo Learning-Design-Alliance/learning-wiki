@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 132 claims (60 for, 61 mixed, 11 against) · 114 studies (24 associational, 23 qualitative, 19 causal, 18 review, 14 design, 11 quant-synthesis, 5 theoretical), `q1`–`q4` · 20 of 114 report an effect size · 129 claims rest on one study
+> **Evidence** · 133 claims (60 for, 62 mixed, 11 against) · 115 studies (25 associational, 23 qualitative, 19 causal, 18 review, 14 design, 11 quant-synthesis, 5 theoretical), `q1`–`q4` · 20 of 115 report an effect size · 130 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -157,6 +157,7 @@ Technology integration is the element in which digital tools are used in direct 
 - [A lower pupil/PC-ratio in the classroom (more computers available in class) is associated with higher classroom ICT integration](../claims/pupil-pc-ratio-negative-effect-class-ict-use.md) [~W]
 - [Eight survey items corresponding to 'pedagogical techniques that use technologies in constructive ways to teach content' were selected for qualitative analysis](../claims/eight-teaching-content-items-selected.md) [+W]
 - [Field instructors positioned technology as a presentation aid to be tempered with traditional teaching](../claims/field-instructors-technology-as-presentation-aid-tempered.md) [-W]
+- [MISTT analysis revealed mismatches in teacher identity expectations which may hinder effective technology integration](../claims/mistt-identity-expectation-mismatches-hinder-technology-integration.md) [~W]
 
 ## The evidence by question
 - *Does building AI tools into instruction raise achievement over teaching the same content without them, and in which settings?* [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](../claims/ai-instruction-stem-moderate-positive-effect.md) [+M]

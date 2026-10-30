@@ -14,7 +14,7 @@ grain_size: course
 # Learner Experience Design (LXD)
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 22 claims (14 for, 7 mixed, 1 against) · 29 studies (10 causal, 8 design, 5 review, 3 quant-synthesis, 2 theoretical, 1 associational), `q1`–`q4` · 4 of 29 report an effect size · 18 claims rest on one study
+> **Evidence** · 23 claims (14 for, 8 mixed, 1 against) · 30 studies (10 causal, 8 design, 5 review, 3 quant-synthesis, 2 associational, 2 theoretical), `q1`–`q4` · 4 of 30 report an effect size · 19 claims rest on one study
 
 ## Description
 Learner Experience Design imports the methods of user-centred design — user research, personas and scenarios, prototyping, usability testing, heuristic evaluation — into instructional design, and makes one substantive claim while doing it: **usability is not polish applied after the instruction, it is part of the instruction.**
@@ -82,6 +82,7 @@ LXD inherits the empathize-and-test moves from [Design Thinking](design-thinking
 - [Integrating the IDSA into an existing learning management system limited usability, as the platform predefined frontend structure and navigation](../claims/idsa-lms-integration-usability-tradeoff.md) [~W]
 - [Field-tested IDSA prototype received moderate usability ratings: usage enjoyment highest, design and realization lowest](../claims/idsa-usability-ratings-enjoyment-high-design-low.md) [+W]
 - [First-level participant feedback found the iThinkSmart prototype engaging but flagged movement, navigation, graphics, and device-support issues for improvement](../claims/ithinksmart-prototype-feedback-themes.md) [+W]
+- [Middle school students rated MI Write as moderately easy to use but found its scoring easier to understand than its feedback](../claims/mi-write-usability-moderate-scoring-easier-than-feedback.md) [~W]
 
 #### Supporting
 - [Cognitive Load Reduction Improves Learning](../claims/cognitive-load-reduction-improves-learning.md) [+S] — the mechanism the whole argument rests on

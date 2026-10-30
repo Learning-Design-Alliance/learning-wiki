@@ -52,3 +52,4 @@ Rural subsample quartile analysis of the quasi-experimental study (1,423 rural s
 - [Across the full sample, students receiving the ASSISTments intervention performed comparably to their virtual comparison peers on end-of-year MAP Growth](assistments-full-sample-no-significant-effect.md) — related
 - [Low-performing students (below the 50th pretest percentile) showed significant improvement with vPLC-augmented ASSISTments](vplc-assistments-low-performing-significant-gain.md) — related
 - [vPLC-augmented ASSISTments did not significantly improve overall middle school math achievement relative to a virtual comparison group](vplc-assistments-no-significant-overall-effect.md) — related
+- [Peer influence on performance is strongest for medium-performing students](peer-influence-strongest-medium-performers.md) — related

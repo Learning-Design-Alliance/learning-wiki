@@ -13,7 +13,7 @@ generated:
 # Practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 43 claims (26 for, 12 mixed, 5 against) · 55 studies (26 causal, 11 quant-synthesis, 9 review, 5 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 11 of 55 report an effect size · 30 claims rest on one study
+> **Evidence** · 44 claims (26 for, 13 mixed, 5 against) · 56 studies (27 causal, 11 quant-synthesis, 9 review, 5 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 11 of 56 report an effect size · 31 claims rest on one study
 
 ## Description
 Practice asks learners to actively apply new knowledge or skills through structured activities rather than passively receiving information. It converts exposure into fluency and retention by requiring learners to generate responses, solve problems, or perform procedures under conditions that gradually approximate the target performance.
@@ -97,6 +97,7 @@ Practice is one of the most consistently supported instructional elements: activ
 - [Adults improve on average across nine cognitive tasks over 100 days of practice, with substantial individual differences in the amount of improvement](../claims/average-improvement-individual-differences-100-day-practice.md) [+W]
 - [Repetitive training with the synthetic assistant produced statistically significant performance growth across successive tests, whereas the control group's growth was largely insignificant](../claims/vbsa-significant-growth-across-iterations.md) [+W]
 - [Response duration decreased significantly across the five training sessions in both conditions](../claims/response-duration-decreased-across-training-sessions.md) [+W]
+- [Delaying the problem-skipping option by 0, 3, 6, or 9 seconds produced no average treatment effects on learning outcomes after 14 weeks.](../claims/problem-skipping-delay-no-average-treatment-effect.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice
