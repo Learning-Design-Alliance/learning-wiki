@@ -39,6 +39,7 @@ The editorial highlights Solberg and Sellberg's notion of epistemic engineering,
 ## Related Strategies
 
 - [Use debriefing to enable multiple viewpoints, shared cognitive resources, and challenge students' assumptions to foster critical thinking](debriefing-multiple-viewpoints-critical-thinking.md)
+- [Adapt social and epistemic networks from research tools into pedagogical instruments for evidence-informed debriefing](adapt-networks-as-pedagogical-instruments.md)
 
 ## Examples
 -

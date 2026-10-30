@@ -50,3 +50,4 @@ Qualitative finding from student interview comments in the UOC case study; the a
 - [General AI literacy is not significantly related to in-service science educators' AI use or to their age, gender, or years of service](ai-literacy-unrelated-to-ai-use-and-demographics.md) — related
 - [Students across all knowledge areas report gaining new technological competences from studying online at the UOC](uoc-online-study-gains-digital-competences.md) — related
 - [Teaching experience is a minor negative predictor of digital data use, while age and gender show no significant effect](experience-negative-age-gender-null-data-use.md) — related
+- [Gender and age did not affect pre-service teachers' ICT competence for educational practice](gender-age-no-effect-ict-competence.md) — related

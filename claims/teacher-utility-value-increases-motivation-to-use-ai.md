@@ -93,3 +93,5 @@ Theoretical argument summarising the utility value section, with no data: when A
 - [Ghanaian pre-service science teachers hold significantly positive performance expectancy and effort expectancy toward AI](positive-performance-effort-expectancy-ai-pre-service-teachers.md) — related
 - [Chatbot integration in a smart classroom is expected by the authors to increase learner engagement and academic achievement](chatbot-engagement-achievement-expectation.md) — related
 - [Teachers' beliefs show no correlation with their 3D printing integration levels](no-correlation-teacher-beliefs-3d-printing.md) — related
+- [Qualitative analysis suggests reciprocal relationship between utility-value and quality of technology integration, dependent on instructional context](reciprocal-utility-quality-relationship.md) — related
+- [Teachers' perceived utility-value of technology is associated with how often and how well they integrate it; self-efficacy showed no significant association with frequency, exploitation or task-specific quality](utility-value-predicts-tech-integration.md) — related

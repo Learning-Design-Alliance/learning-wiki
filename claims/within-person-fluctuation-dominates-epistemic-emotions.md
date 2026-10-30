@@ -62,3 +62,5 @@ Descriptive analysis of the 212 session-level emotion ratings; the ICC for curio
 - [Most variance in state achievement goals and emotions is situational (within-person) rather than between-person](state-goals-emotions-variance-mostly-situational.md) — possibly the same claim (merge candidate)
 - [Vocabulary engagement measured by app logs varies mostly within students across days](app-log-engagement-mostly-within-person-variability.md) — related
 - [ID students' reflective design judgment fluctuates across the design process and often increases as the design progresses, moving from unreflective to reflective judgments](reflective-judgment-fluctuates-increases-over-design.md) — related
+- [Teacher technology-related motivation varies substantially across lessons, with 60-70% of variance attributed to instructional context](teacher-tech-motivation-varies-across-lessons.md) — related
+- [Quality of technology integration varies substantially across lessons, with most variance unexplained by teacher traits or time course](tech-integration-quality-varies-across-lessons.md) — a narrower finding that bears on this claim

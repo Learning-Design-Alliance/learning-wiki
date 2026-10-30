@@ -58,9 +58,11 @@ The model aligns with [Active Learning](../principles/active-learning.md): class
 5. **Close with consolidation.** End with a synthesis or exit task; schedule follow-up [Practice](../elements/practice.md) distributed over subsequent sessions [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ## Related Strategies
+
 - [Peer Instruction](peer-instruction.md) — a canonical in-class activity structure for flipped sessions
 - [Just-in-Time Teaching](just-in-time-teaching.md) — uses pre-class quiz responses to adapt the live session
 - [Case-Based Learning](case-based-learning.md) — a common use of reclaimed class time
+- [Use team-produced learner-generated materials built with user-friendly authoring tools as the in-class inquiry activity in a flipped language class](team-learner-generated-materials-strategy.md)
 
 ## Examples
 - **[Flipped Learning](../principles/flipped-learning.md)** — the general pattern this strategy instantiates; see also [Flipped Classroom](../principles/flipped-learning.md).

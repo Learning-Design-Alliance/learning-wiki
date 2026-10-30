@@ -13,7 +13,7 @@ generated:
 # Self Efficacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 97 claims (56 for, 37 mixed, 4 against) · 83 studies (36 associational, 22 causal, 15 review, 5 quant-synthesis, 4 design, 1 qualitative), `q1`–`q4` · 25 of 83 report an effect size · 92 claims rest on one study
+> **Evidence** · 98 claims (56 for, 37 mixed, 5 against) · 84 studies (37 associational, 22 causal, 15 review, 5 quant-synthesis, 4 design, 1 qualitative), `q1`–`q4` · 25 of 84 report an effect size · 93 claims rest on one study
 
 ## Description
 Self efficacy is a learner's belief in their capability to succeed at a specific task or domain, not a general sense of self-worth. It functions as a proximal driver of learning: learners with higher efficacy set more ambitious goals, persist longer through difficulty, and recover faster from failure [Bandura, 1997]. Because it is domain-specific and malleable, it is a design target rather than a fixed learner trait.
@@ -145,6 +145,7 @@ Instructional design shapes self efficacy primarily through the four sources Ban
 - [Attitude toward science and self-belief show no significant change in either condition](../claims/no-change-attitude-self-belief.md) [-W]
 - [The mixed VR intervention and the information-session-only intervention both produced positive effects on phonetographic surface, vocal effort, and self-efficacy](../claims/both-interventions-improve-phonetographic-surface-vocal-effort-self-efficacy.md) [+W]
 - [Men report higher computer self-efficacy, domain identification, knowledge, and motivation than women](../claims/gender-gaps-computer-self-efficacy-knowledge-motivation.md) [~W]
+- [Teachers' perceived utility-value of technology is associated with how often and how well they integrate it; self-efficacy showed no significant association with frequency, exploitation or task-specific quality](../claims/utility-value-predicts-tech-integration.md) [-W]
 
 ## The evidence by question
 

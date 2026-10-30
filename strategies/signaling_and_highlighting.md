@@ -57,9 +57,11 @@ Signaling works by guiding selective attention and reducing extraneous processin
 5. When asking learners to highlight themselves, model strategic selection first ([Think-Aloud](../elements/think-aloud.md)) and require them to justify or summarize their marks ([Annotating](../principles/annotating.md)).
 
 ## Related Strategies
+
 - ["Headings and Highlight" Strategy](headings-and-highlight-strategy-variant.md) — the structural-cue variant using document organization
 - [Annotating](../principles/annotating.md) — learner-generated marking as an active alternative to author-supplied cues
 - [Advance Organizers](../elements/advance-organizers.md) — signaling applied at the level of lesson structure rather than individual items
+- [Plan and structure video feedback around signposts and feed-forward points before recording.](plan-video-feedback-with-signposts.md)
 
 ## Examples
 - **Khan Academy** videos use on-screen writing and color emphasis synchronized with narration, cueing each step of a solution as it is explained.

@@ -52,3 +52,4 @@ Transcript-based cognitive-ethnographic analysis across Excerpts 3-7 of the anal
 - [Debriefing analysis and application phases operate as distributed metacognition on the publicly shared account](distributed-metacognition-analysis-application.md) — related
 - [Qualitatively, Socratic prompts supported reflective monitoring while directive feedback was associated with overload and resistance](socratic-prompts-reflection-directive-overload-qualitative.md) — related
 - [Metacognitive strategies such as self-monitoring and reflective questioning have been shown to mitigate epistemic uncertainty](metacognitive-strategies-mitigate-epistemic-uncertainty.md) — related
+- [Educators used social networks to guide reflection on engagement, roles, and shared mindset during debriefing](educators-used-social-networks-for-engagement-roles-reflection.md) — related

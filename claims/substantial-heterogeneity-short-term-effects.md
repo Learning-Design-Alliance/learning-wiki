@@ -55,3 +55,4 @@ Heterogeneity assessment across the pooled short-term effect sizes in the review
 - [Effect sizes vary widely between studies and especially between comparisons within studies](large-variation-word-reading-intervention-effects.md) — related
 - [Effect sizes across included studies show high heterogeneity (all I² above 75%)](high-heterogeneity-er-burnout-effects.md) — related
 - [Model 2 prediction accuracy for intervention effectiveness was low (r = .094), indicating significant unexplained variance.](low-accuracy-predicting-intervention-effectiveness.md) — a narrower finding that bears on this claim
+- [Quality of technology integration varies substantially across lessons, with most variance unexplained by teacher traits or time course](tech-integration-quality-varies-across-lessons.md) — related

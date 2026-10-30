@@ -67,3 +67,4 @@ Snapshot from the ALPP sharing session comparing the team's feedback with other 
 - [The nine AI demonstrations drew high attendance but modest engagement, with student feedback sharply split on course utility](ai-demonstrations-split-on-course-utility.md) — related
 - [Low-performing students tended to procrastinate more on graded problem-solving exercises and on video watching with formative MCQs](low-performers-procrastinated-exercises-and-videos.md) — related
 - [In a blended first-year engineering course, sub-groups of students (n > 200) reported qualitatively different approaches to inquiry and use of online learning technologies.](blended-course-qualitatively-different-approaches-subgroups.md) — related
+- [Higher and lower Moodle scorers viewed flipped learning as almost equally valuable, but higher scorers talked more positively about how the course was delivered](moodle-score-flipped-attitude-delivery.md) — related

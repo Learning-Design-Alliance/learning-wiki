@@ -48,3 +48,4 @@ ENA of the three clusters using three pairs of connected codes per type; for exa
 - [Intrinsically motivated students form reflective-iterative metacognitive co-occurrence networks, but overall ENA centroid positions do not differ significantly between motivational groups](ena-networks-motivational-groups.md) — related
 - [PIA and TFA types differ structurally in deliberative networks, with PIA centred on establishing strategy, educating, agreeing and monitoring](ena-structural-differences-pia-tfa.md) — related
 - [Cluster analysis of student-AI dialogue identifies three distinct collaboration profiles: Delegated Reasoning, Concerted Interpretation, and Delegated Elaboration](three-human-ai-cps-profiles-dr-ci-de.md) — related
+- [Educators used epistemic networks to examine closed-loop communication strategies during debriefing](educators-used-epistemic-networks-for-closed-loop-reflection.md) — related

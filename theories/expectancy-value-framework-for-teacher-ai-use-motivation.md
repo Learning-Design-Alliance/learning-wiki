@@ -17,7 +17,7 @@ sources:
 # Expectancy-Value Framework for Teachers' Motivation to Use AI Applications
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 10 claims (9 for, 1 against) · 6 studies (2 associational, 1 causal, 1 qualitative, 1 design, 1 theoretical), `q1`–`q3` · 0 of 6 report an effect size · 10 claims rest on one study
+> **Evidence** · 11 claims (10 for, 1 against) · 7 studies (3 associational, 1 causal, 1 qualitative, 1 design, 1 theoretical), `q1`–`q3` · 0 of 7 report an effect size · 11 claims rest on one study
 
 ## Description
 A theoretical application of Expectancy-Value Theory to why teachers do or do not adopt AI applications in education. The paper holds that "teachers' motivation to use AI technologies in the classroom is shaped by their beliefs about how successfully they can use these technologies (expectancy)" and by their perceptions of the technologies' significance (value), with value split into attainment, utility, intrinsic/interest value, and cost.
@@ -49,6 +49,7 @@ A theoretical application of Expectancy-Value Theory to why teachers do or do no
 - [Educators report affective costs of AI-related grading, including derealisation, exhaustion, and burnout](../claims/educator-affective-toll-ai-grading.md) [-W]
 - [Teachers rate AI-interaction training as useful and relevant and report positive adoption intentions](../claims/teachers-rate-ai-training-useful-positive-adoption.md) [+W]
 - [Teachers' confidence and interest in ML integration progressively increased from the Teachers-as-Learners to the Teachers-as-Designers session.](../claims/ml-confidence-interest-increase.md) [+W]
+- [Teachers' perceived utility-value of technology is associated with how often and how well they integrate it; self-efficacy showed no significant association with frequency, exploitation or task-specific quality](../claims/utility-value-predicts-tech-integration.md) [+W]
 
 ## The evidence by question
 - *Do teachers who are more confident they can use AI well (expectancy) hold more favourable attitudes towards it and use it more?* [Teachers' expectancy beliefs about successfully using AI applications shape their motivation to use them (theoretical argument).](../claims/teacher-expectancy-beliefs-shape-motivation-to-use-ai.md) [+W]

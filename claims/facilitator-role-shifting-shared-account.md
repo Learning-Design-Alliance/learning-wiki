@@ -52,3 +52,4 @@ Observational analysis of Excerpt 2 in the description phase, where the facilita
 - [The reconstruction phase produced two interdependent objects: a social object leading to a role-play script and a technology object leading to a Minecraft building](social-and-technology-objects-reconstruction-phase.md) — related
 - [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related
 - [Merging different technical understandings of Minecraft items into shared nomenclature enabled parallel division of building work (Extract 2)](merged-technical-understanding-minecraft-nomenclature.md) — related
+- [Educators used social networks to guide reflection on engagement, roles, and shared mindset during debriefing](educators-used-social-networks-for-engagement-roles-reflection.md) — related

@@ -71,3 +71,4 @@ Review reports, attributing to Grande-de-Prado et al. (2020), a gender differenc
 - [Teaching experience is a minor negative predictor of digital data use, while age and gender show no significant effect](experience-negative-age-gender-null-data-use.md) — related
 - [Teachers' digital competence is a critical factor influencing both AI tool adoption and its pedagogical effectiveness](teacher-digital-competence-critical-ai-adoption.md) — related
 - [Teacher characteristics from the will-skill-tool model — data literacy, availability of data technologies, and positive beliefs — predict teachers' pedagogical use of digital data, with data literacy the strongest predictor](wst-characteristics-predict-teacher-digital-data-use.md) — related
+- [Gender and age did not affect pre-service teachers' ICT competence for educational practice](gender-age-no-effect-ict-competence.md) — reports the opposite

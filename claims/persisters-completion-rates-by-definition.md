@@ -76,3 +76,4 @@ Descriptive analysis (Figures 10 and 11) of six-year credential completion for t
 - Among 2014 CPS graduates who immediately enrolled in a bachelor's-degree-granting institution, 30% completed within four years versus 51% within six years — related
 - [Find the Fit made no significant difference in college persistence into the third year after high school](find-the-fit-no-persistence-effect-third-year.md) — related
 - [College persistence was similar among College Track completers and similar students who enrolled in college, despite College Track's stricter persistence definition](college-track-persistence-similar-stricter-definition.md) — related
+- [The simulator computes Bachelor-degree-level rates: graduation rate and an efficiency rate measured as credits of the curriculum with respect to credits really taken](simulator-computes-degree-level-graduation-and-efficiency-rates.md) — related

@@ -57,3 +57,4 @@ Heterogeneity assessment within the same three-level meta-analysis. All variance
 - [Label-effect sizes are highly heterogeneous, with variance split between and within studies](label-effect-heterogeneity-multilevel-variance.md) — related
 - [Effect sizes across studies show substantial heterogeneity, with wide prediction intervals spanning large negative to large positive true effects](heterogeneity-math-interventions-co-occurring.md) — related
 - [Effect sizes for gender differences in L2 achievement are highly heterogeneous across studies (I² = 89.82%)](high-heterogeneity-l2-gender-effect-sizes.md) — related
+- [Quality of technology integration varies substantially across lessons, with most variance unexplained by teacher traits or time course](tech-integration-quality-varies-across-lessons.md) — related

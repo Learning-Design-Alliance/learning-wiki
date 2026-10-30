@@ -97,3 +97,4 @@ Interview and listening-session data showed "some level of AI tool use" among ne
 - [Instructional designers mainly use ChatGPT for content creation (57.5%), writing assistance (30%), professional support, communication, and information searching](id-chatgpt-usage-content-creation-dominant.md) — related
 - [ChatGPT was the most familiar and most frequently utilized GenAI tool among surveyed instructional designers](chatgpt-most-familiar-utilized-genai-tool-ids.md) — related
 - [IDs use GenAI to brainstorm ideas and overcome creative blocks when drafting content](genai-brainstorm-ideas-creative-blocks.md) — related
+- [Teachers most frequently use generic technologies (presentation tools, e-text readers) and rarely use subject-specific or formative assessment technologies](generic-tech-dominates-classroom-use.md) — related

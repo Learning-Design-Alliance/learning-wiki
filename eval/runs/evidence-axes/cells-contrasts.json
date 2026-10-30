@@ -50410,5 +50410,29 @@
  "debriefing\tpost-visit reflection lesson\tmuseum visit without post-visit reflection": {
   "label": "post-visit debriefing vs no post-visit debriefing",
   "treatment_is_a": true
+ },
+ "debriefing\tsocial network visualisation\tepistemic network visualisation": {
+  "label": "social network visualisation vs epistemic network visualisation",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tEVS used for summative assessment\tEVS not used for summative assessment": {
+  "label": "summative EVS use vs no summative EVS use",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tformative EVS use\tnon-formative or summative EVS use": {
+  "label": "formative EVS use vs non-formative or summative EVS use",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tsummative EVS assessment\tformative or non-summative EVS use": {
+  "label": "summative EVS use vs formative or non-summative EVS use",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tsummative EVS use\tother EVS use": {
+  "label": "summative EVS use vs other EVS use",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tsummative-only EVS use\tnon-summative EVS use": {
+  "label": "summative-only EVS use vs non-summative EVS use",
+  "treatment_is_a": true
  }
 }
