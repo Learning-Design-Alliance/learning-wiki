@@ -85,3 +85,4 @@ Exploratory K-means clustering among students only (n = 961, nine features, fixe
 - [A K-means clustering of students based on pre- and post-project SDG knowledge identifies three distinct learning profiles, with the largest cluster showing the greatest knowledge gain.](k-means-three-sgc-learning-clusters.md) — related
 - [K-means clustering of LMS log data identified two distinct SRL profiles (high and low) among online students](two-srl-profiles-from-lms-log-clustering.md) — related
 - [Four distinct LMS interaction patterns with different final marks were found among 140 undergraduates in an authentic Moodle course.](four-lms-interaction-patterns-different-final-marks.md) — related
+- [Four well-differentiated clusters of students emerge from the factor-analysis-based cluster analysis by ICT consideration and use](four-clusters-of-students-by-ict-consideration-use.md) — related

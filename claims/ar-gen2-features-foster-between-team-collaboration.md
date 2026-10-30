@@ -52,3 +52,4 @@ Design-narrative evaluation across iterations of the redesigned AR engine, illus
 - [Stegman (2021) proposes blended designs combining simulations/games with strategically placed authentic home-based experiences for iterative learning](stegman-blended-design-iterative-learning.md) — related
 - [Team members' technical aptitude shaped role adoption, with less game-experienced members taking passive roles and power asymmetries limiting exploration](technical-aptitude-shapes-team-roles.md) — related
 - [AR-introduced new rules could reduce the gap between players with different experience levels](ar-new-rules-reduce-experience-gap-between-players.md) — related
+- [Half of the reviewed games have a multiplayer design, mostly team-based, with distinct roles and inter-team competition less utilized](multiplayer-team-design-heritage-games.md) — related

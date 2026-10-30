@@ -52,3 +52,4 @@ Discussion comparing the study's letter-knowledge finding (N = 174 regression) w
 - [Children's storybook knowledge (book-cover recognition) mediates the relationship between home literacy environment and literacy outcomes](storybook-knowledge-mediates-hle-literacy-link.md)
 - [Joint Book Reading Predicts Literacy Success](joint-book-reading-predicts-literacy-success.md) — a broader claim this one bears on
 - [Technology-enhanced stories show no significant additional effect on code-related literacy skills](technology-stories-no-code-related-literacy-effect.md) — related
+- [Frequency of e-book reading on tablets shows no association with children's emergent literacy skills](ebook-reading-frequency-no-association-emergent-literacy.md) — related

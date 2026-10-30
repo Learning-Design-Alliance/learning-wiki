@@ -30,7 +30,7 @@ sources:
 # Cognitive Activation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 32 claims (15 for, 15 mixed, 2 against) · 36 studies (17 causal, 5 review, 4 quant-synthesis, 4 associational, 4 theoretical, 2 design), `q1`–`q4` · 8 of 36 report an effect size · 26 claims rest on one study
+> **Evidence** · 33 claims (16 for, 15 mixed, 2 against) · 37 studies (18 causal, 5 review, 4 quant-synthesis, 4 associational, 4 theoretical, 2 design), `q1`–`q4` · 8 of 37 report an effect size · 27 claims rest on one study
 
 ## Conditional relationship
 
@@ -158,6 +158,7 @@ Immediate understanding, near transfer, delayed retention and use in the setting
 - [Prompting self-explanation in a physics electricity unit led to accelerated future learning in a subsequent magnetism unit](../claims/self-explanation-accelerated-future-learning-physics.md) [+W]
 - [In-between explaining triggered more monitoring of knowledge gaps than after-study explaining (Experiment 1)](../claims/in-between-explaining-increases-monitoring-activities.md) [~W]
 - [Self-explanation prompts placed before instruction are more effective than those embedded during or placed after instruction](../claims/self-explanation-prompts-before-instruction-most-effective.md) [~W]
+- [Restudy fostered surface-level knowledge compared to learning by digital explaining](../claims/restudy-fosters-surface-level-knowledge.md) [+W]
 
 ## Related Principles
 - [Active Learning](active-learning.md) — active learning becomes more valuable when the activity is cognitively demanding rather than merely participatory

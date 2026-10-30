@@ -51,3 +51,4 @@ In the 2x2 between-subjects experiment, 177 high school students learned a pipet
 - [Middle-school students taking a virtual field trip via a 3D HMD report higher presence than students taking the same trip as a 2D video](hmd-virtual-field-trip-higher-presence-than-2d-video.md) — related
 - [High-immersion VR produced a significantly higher sense of presence than video instruction, with a large effect size](vr-higher-presence-than-video.md) — related
 - [VR can replicate fieldwork in the physical sciences but loses embodied presence in Geography, and Geography teachers need discipline-specific capabilities in GIS, remote sensing and UAVs](geography-vr-fieldwork-limits.md) — reports the opposite
+- [Participants experienced a good sense of presence in the virtual classroom, stable across the three sessions](good-sense-of-presence-virtual-classroom.md) — related

@@ -52,3 +52,4 @@ Same classroom regression analysis of problem-solving log data: "The groups did 
 - [Error rates per completed problem-solving step did not significantly differ between conditions](no-difference-error-rate-log.md) — possibly the same claim (merge candidate)
 - [Students rarely request on-demand hints in this tutor, with no significant differences between conditions or proficiency groups](on-demand-hint-requests-rare-and-equivalent.md) — related
 - [Announcing an upcoming test did not significantly change learning from the participation film](test-announcement-no-learning-effect.md) — related
+- [No significant difference in quiz completion time between versions](no-difference-quiz-completion-time.md) — related

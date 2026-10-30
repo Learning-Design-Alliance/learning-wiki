@@ -50,3 +50,4 @@ Secondary regression analysis of the 28-child experiment testing age and gender 
 - [Early ability to delay gratification predicts later academic and social outcomes, but the association is weaker and more context-dependent than originally reported.](early-delay-of-gratification-predicts-later-outcomes.md) — related
 - [Children's wait-times on sustained delay-of-gratification tasks reflect beliefs about environmental reliability in addition to self-control capacity](wait-times-reflect-environmental-reliability-beliefs.md) — related
 - [Mood-related measures (contentedness, smiling, fidgetiness) did not vary systematically across the reliable and unreliable conditions](mood-measures-did-not-vary-across-conditions.md) — related
+- [Neither gender nor age influences ownership perceptions or intention to engage in open educational collaboration](no-gender-age-effect-ownership-collaboration-intention.md) — related

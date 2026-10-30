@@ -66,3 +66,4 @@ Multilevel condition × time test of student-perceived autonomy support (LCQ, α
 ## Related Claims
 - [The autonomy-supportive intervention program increased students' classroom engagement and decreased their disengagement over the semester](asip-improved-engagement-disengagement.md) — related
 - [Participants were successfully blind to stimulation condition assignment across all four groups](tacs-participant-blindness-confirmed.md) — related
+- [Teaching practices increase in both intervention conditions as a manipulation check](teaching-practices-increase-both-intervention-conditions.md) — related

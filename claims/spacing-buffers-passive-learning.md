@@ -47,3 +47,4 @@ Regression predicting quiz performance from spacing, number of activities comple
 ## Related Claims
 - [Students who complete more practice activities also tend to space their study more](activity-completion-predicts-spacing.md) — related
 - [In a self-regulated MOOC, spacing study across more sessions predicts higher unit quiz performance within participants](self-regulated-spacing-predicts-mooc-quiz-performance.md) — related
+- [Number of completed adaptive assignments is positively associated with student performance](adaptive-assignment-completion-performance.md) — related

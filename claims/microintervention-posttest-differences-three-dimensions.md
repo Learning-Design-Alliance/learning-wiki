@@ -86,3 +86,4 @@ Mann–Whitney U comparison on the active learning dimension between the experim
 ## Related Claims
 - [Favorable overall self-reported perceptions coexisted with lower self-reported familiarity in specific technical areas: machine learning, prior block-based programming experience, and game-engine programming](item-level-familiarity-gaps-ml-blocks-game-engines.md) — related
 - [After an SDT-driven redesign of a two-day teacher workshop (one cohort of 26, no control group), self-reported AI-TPACK (d = 0.70), IPACK (d = 0.86) and AI attitude (d = 0.58) rose significantly from pre to post](sdt-driven-redesign-capacity-willingness-gains.md) — related
+- [Teacher education workshop paired with robot curriculum improves teachers' relevance and self-efficacy beliefs](teacher-workshop-improves-relevance-and-self-efficacy.md) — related

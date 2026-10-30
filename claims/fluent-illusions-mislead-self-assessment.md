@@ -191,3 +191,4 @@ Participants studied words printed in different font sizes for a free-recall tes
 - [Overconfidence in self-assessment is especially concerning in online learning environments where limited external feedback widens gaps between perceived and actual performance](online-learning-exacerbates-calibration-discrepancy.md) — related
 - [Learners' self-efficacy judgments during problem-solving shift from being informed by accuracy to being increasingly informed by fluency over time](self-efficacy-shifts-accuracy-to-fluency.md) — related
 - [Students' perceptions of the tool's impact on learning were partly consistent with their self-reported metacognitive gains and logged tool use](perceived-impact-partly-corroborated-by-gains.md) — related
+- [Learners' judgments of learning track actual test performance in single-evaluation mode but not in joint-evaluation mode](jol-divergence-single-vs-joint-evaluation.md) — related

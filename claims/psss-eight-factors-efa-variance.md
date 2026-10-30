@@ -51,3 +51,4 @@ Exploratory factor analysis with 450 participants using principal component anal
 - [Confirmatory factor analysis supports a second-level participation style model with four combined styles and acceptable fit indices](psss-cfa-four-styles-confirmed.md)
 - [Four factors of ICT use explain 57.4% of the total variance in university students' types of ICT use](four-ict-use-factors-57-percent-variance.md) — related
 - [Motivation and learning-strategy scales cluster into three factors: High-Level Learning Strategies, High-Level Motivation, and Low-Level Learning Strategies and Motivation](three-motivation-strategy-factors.md) — related
+- [Factor analysis identifies three components of ICT consideration: help/importance, tools for an end, and negative valuation](three-components-of-ict-consideration.md) — related

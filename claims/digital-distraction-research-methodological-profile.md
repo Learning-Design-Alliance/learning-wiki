@@ -70,3 +70,4 @@ The review reports surveys as the most used data collection method (20 studies, 
 - [Most empirical studies adopted a quantitative research approach](most-studies-quantitative-approach.md) — related
 - [The 32 included studies were predominantly quantitative and cross-sectional, with questionnaire sample sizes ranging from 17 to 815 students](ahs-pst-study-design-profile.md) — related
 - [Quantitative questionnaire methodology dominates digital competence research in higher education](slr-digital-competence-quantitative-methods-dominant.md) — related
+- [The review systematically analysed 44 writing-support tools across 26 quantitative and qualitative features](strobl-2019-44-tools-26-features-analysis.md) — related

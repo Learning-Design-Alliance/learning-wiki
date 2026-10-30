@@ -18,7 +18,7 @@ sources:
 # Self-Explanation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 21 claims (10 for, 10 mixed, 1 against) · 17 studies (11 causal, 3 associational, 2 quant-synthesis, 1 review), `q2`–`q4` · 3 of 17 report an effect size · 20 claims rest on one study
+> **Evidence** · 22 claims (11 for, 10 mixed, 1 against) · 18 studies (12 causal, 3 associational, 2 quant-synthesis, 1 review), `q2`–`q4` · 3 of 18 report an effect size · 21 claims rest on one study
 
 ## Description
 Self-explanation is the element in which learners explain to themselves why something is true, why a step works, or how a solution fits the problem. It is useful when the goal is to deepen understanding beyond surface completion.
@@ -60,6 +60,7 @@ Self-explanation is the element in which learners explain to themselves why some
 - [Automated gaming-the-system detectors built with XGBoost reliably recognize gaming in both problem-solving and self-explanation steps](../claims/xgboost-gaming-detectors-decimal-point.md) [~W]
 - [Self-explaining led to significantly higher written procedural knowledge than re-experiencing, opposite to the hypothesized direction](../claims/self-explaining-better-written-procedural-knowledge.md) [+W]
 - [High prior knowledge students scored significantly higher on SE prompts overall and on conceptual SE prompts, but not on procedural SE prompts](../claims/hp-students-score-higher-se-prompts.md) [~W]
+- [Restudy fostered surface-level knowledge compared to learning by digital explaining](../claims/restudy-fosters-surface-level-knowledge.md) [+W]
 
 ## The evidence by question
 - *Does prompting learners to explain what they study or solve improve their understanding, and on which outcomes?* [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]

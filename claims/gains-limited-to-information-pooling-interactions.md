@@ -47,3 +47,4 @@ In the same 150-participant experiment, explorative analysis of the knowledge di
 ## Related Claims
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — related
 - [Visible real-time gaze feedback improves collaborative-process coordination, especially information pooling, in dyadic knowledge integration tasks](gaze-feedback-improves-collaborative-process.md) — related
+- [Observers rated collaboration quality as good on most dimensions for both versions](good-collaboration-quality-most-dimensions.md) — related

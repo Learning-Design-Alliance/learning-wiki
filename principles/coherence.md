@@ -64,7 +64,7 @@ sources:
 # Coherence Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 43 claims (20 for, 21 mixed, 2 against) · 41 studies (19 causal, 8 review, 5 quant-synthesis, 5 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 11 of 41 report an effect size · 36 claims rest on one study
+> **Evidence** · 44 claims (20 for, 21 mixed, 3 against) · 42 studies (20 causal, 8 review, 5 quant-synthesis, 5 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 12 of 42 report an effect size · 37 claims rest on one study
 
 ## Conditional relationship
 
@@ -192,6 +192,7 @@ The expectation should weaken if independent comparisons with comparable learner
 - [In the lab study, adding irrelevant information impaired performance only among low-working-memory participants in the distal condition](../claims/irrelevant-info-impairs-low-kmax-distal.md) [~W]
 - [Children most prone to looking away from text and fixating extraneous details gain the most comprehension from the streamlined book](../claims/greatest-comprehension-gains-for-attentionally-vulnerable-children.md) [+W]
 - [Control experiment shows streamlined-book effects are not due to enhanced text saliency and replicate the negative gaze-comprehension association](../claims/control-experiment-rules-out-text-saliency.md) [+W]
+- [Learners prefer and believe they learn best from lectures with visuals of the instructor, despite objective comprehension costs](../claims/instructor-presence-effect-liking-learning-dissociation.md) [-W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

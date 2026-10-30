@@ -46,7 +46,8 @@ Based on its identified gaps, the review recommends that future work develop and
 - [Four reviewed studies examined student-related impacts of LA-supported IBL on learning perception, activity engagement, content knowledge acquisition, and productive discourse](../claims/la-supported-ibl-student-impact-four-studies.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Direct future research and development toward under-represented genres, languages, and macro-level strategy support](strobl-2019-development-directions.md)
 
 ## Examples
 -

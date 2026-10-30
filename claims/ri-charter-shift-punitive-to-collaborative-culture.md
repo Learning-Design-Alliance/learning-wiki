@@ -9,6 +9,7 @@ generated:
   at: 2026-10-08
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-10-30
 sources:
   - id: margaret-e-raymond-2025
     resource: "https://credo.stanford.edu/reports/item/rhode-island-2025/"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-30 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Officials perceived a move away from a punitive "gotcha" approach toward a constructive, collaborative, improvement-focused model that fostered trust, respect, and open communication among stakeholders. [→ Margaret E. Raymond 2025](#margaret-e-raymond-2025)

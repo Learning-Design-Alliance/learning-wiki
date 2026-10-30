@@ -79,3 +79,4 @@ Paired t tests on the AEQ-ES emotion scales showed boredom rising from M = 1.51 
 - [Mathematics anxiety remains low and does not change significantly during the first three school years](math-anxiety-low-unchanged-early-grades.md) — related
 - [Students' enjoyment of mathematics classes decreased significantly but very slightly from Grade 7 to Grade 8](enjoyment-decline-grade7-8-small.md) — related
 - [Affective states shifted over tutor usage: confusion decreased while engaged concentration and boredom increased](affect-shifts-over-tutor-usage.md) — related
+- [Teacher enjoyment and anxiety show no significant condition differences](teacher-enjoyment-anxiety-no-significant-differences.md) — related

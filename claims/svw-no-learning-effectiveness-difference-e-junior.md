@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2010
+source_checked: 2026-10-30
 sources:
   - id: wrzesien-2010
     resource: "https://doi.org/10.1016/j.compedu.2010.01.003"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2010 · checked against its sources 2026-10-30 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Among the 48 children evaluated, the serious virtual world group did not differ significantly from the traditional group in learning effectiveness. [→ Wrzesien 2010](#wrzesien-2010)
@@ -52,3 +53,4 @@ Controlled comparison reported in the study abstract: a class in a serious virtu
 - [Emotion regulation, utilization of social resources and objective social support showed no significant improvement under any pedagogy, and Lego did not differ significantly from other approaches, in middle school children](sce-interventions-null-domains-and-limits.md) — related
 - [The Expert Mathematician shows a positive but not statistically significant effect on middle school math achievement (effect size 0.35, improvement index +14 percentile points)](expert-mathematician-potentially-positive-math-achievement.md) — related
 - [Students who played iThinkSmart VR mini games gained higher CT cognitive benefits than students learning through the traditional lecture method](ithinksmart-vr-higher-cognitive-benefits.md) — reports the opposite
+- [Comparative evaluations against traditional teaching are rare, and the one digital-versus-paper comparison found no statistical difference](few-comparative-evaluations-heritage-games.md) — related

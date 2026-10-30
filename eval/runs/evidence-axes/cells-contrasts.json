@@ -49750,5 +49750,149 @@
  "technology-tool\t10-week blended physics instruction with the Getsmart website\ttraditional instruction with homework and text-based materials": {
   "label": "blended website-supported instruction vs traditional instruction",
   "treatment_is_a": true
+ },
+ "active-learning\tlearning by digital explaining in a video or voice message\trestudying the lecture slides": {
+  "label": "digital explaining vs restudying slides",
+  "treatment_is_a": true
+ },
+ "active-learning\trestudy slides\tdigital explaining": {
+  "label": "digital explaining vs restudying slides",
+  "treatment_is_a": false
+ },
+ "gamification\tspatial games for cultural heritage\tnot reported": {
+  "label": "gamification vs no gamification",
+  "treatment_is_a": true
+ },
+ "media-design\taudio with instructor\taudio with text": {
+  "label": "audio+instructor vs audio+text",
+  "treatment_is_a": true
+ },
+ "media-design\taudio with video of the instructor\taudio only": {
+  "label": "video/instructor visuals vs audio-only",
+  "treatment_is_a": true
+ },
+ "media-design\taudio with visuals of the instructor\taudio only": {
+  "label": "video/instructor visuals vs audio-only",
+  "treatment_is_a": true
+ },
+ "media-design\taudio+text+instructor\taudio only": {
+  "label": "audio+text+instructor vs audio-only",
+  "treatment_is_a": true
+ },
+ "media-design\taudio+text+instructor\taudio+text": {
+  "label": "audio+text+instructor vs audio+text",
+  "treatment_is_a": true
+ },
+ "media-design\taudio+text+instructor\ttext": {
+  "label": "audio+text+instructor vs text-only",
+  "treatment_is_a": true
+ },
+ "media-design\texplaining in a video message (audio + visual)\texplaining in a voice message (audio only)": {
+  "label": "video-message explaining vs voice-message explaining",
+  "treatment_is_a": true
+ },
+ "media-design\tinstructor-format lecture segment\taudio-only lecture segment": {
+  "label": "video/instructor visuals vs audio-only",
+  "treatment_is_a": true
+ },
+ "media-design\tinstructor-format lecture segment\ttext-only lecture segment": {
+  "label": "video/instructor visuals vs text-only",
+  "treatment_is_a": true
+ },
+ "media-design\ttext-only lecture segment\taudio-only lecture segment": {
+  "label": "audio vs text",
+  "treatment_is_a": false
+ },
+ "media-design\tvideo-message explaining\tvoice-message explaining": {
+  "label": "video-message explaining vs voice-message explaining",
+  "treatment_is_a": true
+ },
+ "media-design\tvideo-message explaining (audio + video)\tvoice-message explaining (audio only)": {
+  "label": "video-message explaining vs voice-message explaining",
+  "treatment_is_a": true
+ },
+ "scaffolding\tscripted feedback interface\tself-monitoring feedback interface": {
+  "label": "scripted scaffolding vs self-monitoring scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tscripted guiding-question interface\tself-monitoring checkbox interface": {
+  "label": "scripted scaffolding vs self-monitoring scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tscripted instructions and self-monitoring scaffolds\tno scaffolding": {
+  "label": "scaffolding vs no scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tscripted peer-feedback interface\tself-monitoring peer-feedback interface": {
+  "label": "scripted scaffolding vs self-monitoring scaffolding",
+  "treatment_is_a": true
+ },
+ "self-explanation\tdigital explaining in a video or voice message\trestudying the lecture slides": {
+  "label": "self-explanation vs restudying",
+  "treatment_is_a": true
+ },
+ "simulation\tVR immersion session\tother VR immersion sessions": {
+  "label": "VR immersion session vs other VR immersion sessions",
+  "treatment_is_a": true
+ },
+ "simulation\tfirst VR immersion\tpre-immersion assessment": {
+  "label": "VR immersion/intervention vs pre-immersion baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tpost-intervention assessment after mixed intervention including VR simulations\tpre-intervention assessment": {
+  "label": "Post-intervention vs pre-intervention assessment",
+  "treatment_is_a": true
+ },
+ "simulation\tpost-intervention assessment after mixed or indirect intervention\tpre-intervention assessment": {
+  "label": "Post-intervention vs pre-intervention assessment",
+  "treatment_is_a": true
+ },
+ "simulation\tvoice training with VR and information session\tinformation session only": {
+  "label": "Simulation-based training plus information vs information-only training",
+  "treatment_is_a": true
+ },
+ "simulation\tvoice training with virtual-classroom simulations\tgroup information session only": {
+  "label": "Simulation-based training vs information-only training",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI feedback origin disclosed\tAI feedback origin undisclosed or blind evaluation": {
+  "label": "AI feedback origin disclosed vs undisclosed or blind evaluation",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI for conceptual understanding and brainstorming\tAI for completing entire assignments": {
+  "label": "AI for conceptual understanding and brainstorming vs AI for completing entire assignments",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI for creative and innovative teaching uses\tAI for basic, routine tasks": {
+  "label": "AI for creative and innovative teaching uses vs AI for basic, routine tasks",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI for generating ideas\tAI for completing an entire assignment": {
+  "label": "AI for generating ideas vs AI for completing an entire assignment",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI image creation\tAI text generation": {
+  "label": "AI image creation vs AI text generation",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI image creation\tAI video creation": {
+  "label": "AI image creation vs AI video creation",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI integration during teaching\tnot stated": {
+  "label": "AI integration during teaching vs no AI integration stated",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI programming tools such as Copilot introduced\tprogramming without AI tools": {
+  "label": "AI programming tools vs programming without AI tools",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI system supporting learner-generated vocabulary content and sharing\tlearner deletion and non-sharing of created content": {
+  "label": "AI-supported learner-generated vocabulary content and sharing vs learner deletion and non-sharing of created content",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI text generation\tAI video creation": {
+  "label": "AI text generation vs AI video creation",
+  "treatment_is_a": true
  }
 }

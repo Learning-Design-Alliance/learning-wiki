@@ -77,3 +77,4 @@ Classroom observation at School A during implementation; one student's rubric "C
 - [A design-based study with 42 undergraduates reported a 15% improvement in rubric alignment and faster correction cycles from proactive agentic feedback loops](agentic-feedback-42-undergrads-rubric-alignment-gain.md) — related
 - [GenAI assistance shows a leveling effect on writing quality for non-native English speaking students](genai-quality-leveling-nnes.md) — related
 - [AWE is more effective for surface-level writing skills than for higher-order skills such as argumentation and coherence](awe-surface-level-stronger-than-higher-order.md) — reports the opposite
+- [Automated support for micro-level revision targeting factual knowledge is well represented, whereas tools supporting writing strategies and self-monitoring for macro-level text quality are infrequent](strobl-2019-micro-macro-pedagogical-imbalance.md) — related

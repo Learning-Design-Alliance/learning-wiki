@@ -46,7 +46,9 @@ Linear regression testing relationships between affective, cognitive, and behavi
 
 
 ## Related Claims
+
 - [Students in a LinkedIn group community scored significantly higher on overall satisfaction than control group students](linkedin-group-higher-satisfaction.md) — related
 - [Students in a LinkedIn group community scored significantly higher on engagement than control group students](linkedin-group-higher-engagement.md) — related
 - [International students with prior LinkedIn experience show higher levels of engagement within the experimental LinkedIn group](international-students-higher-linkedin-engagement.md) — related
 - [LinkedIn group community did not significantly affect teaching and learning perception, community, or skills development](linkedin-group-no-effect-other-dimensions.md) — related
+- [Time spent on LinkedIn, Snapchat and Twitter has virtually no significant impact on student performance at any learning level](linkedin-snapchat-twitter-no-significant-impact.md)

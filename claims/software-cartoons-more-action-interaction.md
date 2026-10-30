@@ -68,3 +68,5 @@ Analysis of poses unique to one group or the other in the Ramayana cartoon compa
 - [No preparation process (software cartooning, paper cartooning, or teacher's normal planning) produced clearly different written stories](no-consistent-writing-effect-preparation-process.md) — related
 - [Software cartoons showed more long shots, more shots, and far more finished sequences than paper cartoons](software-cartoons-more-shots-long-shots-finished.md) — related
 - [In the Ramayana sub-study, software-group stories scored higher for strong descriptions of characters or actions at both story stages](ramayana-more-character-descriptions.md) — related
+- [Half of participants significantly posed or warped characters in 71% or more of their pictures while the other half did so 30% of the time or less](pose-warp-use-split-between-participants.md) — related
+- [Children using a visual story software process produced more on-topic story content than a control group using brainstorming and independent writing](visual-story-software-more-on-topic-writing.md) — related

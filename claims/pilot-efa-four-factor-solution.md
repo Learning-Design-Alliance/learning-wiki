@@ -61,3 +61,4 @@ Pilot EFA (principal axis factoring with oblimin rotation) with an independent s
 - [The faculty readiness scale required two model modifications (a cross-loading item and two residual correlations) to reach adequate fit](genai-rp-faculty-readiness-modified-model.md) — related
 - [Four factors of ICT use explain 57.4% of the total variance in university students' types of ICT use](four-ict-use-factors-57-percent-variance.md) — related
 - [Motivation and learning-strategy scales cluster into three factors: High-Level Learning Strategies, High-Level Motivation, and Low-Level Learning Strategies and Motivation](three-motivation-strategy-factors.md) — related
+- [Factor analysis identifies three components of ICT consideration: help/importance, tools for an end, and negative valuation](three-components-of-ict-consideration.md) — related

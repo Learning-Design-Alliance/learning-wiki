@@ -61,3 +61,4 @@ In the four-course pre–post comparison, the combined condition (structured lea
 - [Self-regulated learning abilities improved significantly in the GPT-feedback VR group, supporting self-reflection, goal setting, and strategy adjustment](gpt-feedback-vr-improves-srl.md) — related
 - [Students who only kept learning diaries showed a decrease in their motivation](diary-only-motivation-decrease.md) — related
 - [Strategy Instruction Improves Learning](strategy-instruction-improves-learning.md) — related
+- [The mixed VR intervention and the information-session-only intervention both produced positive effects on phonetographic surface, vocal effort, and self-efficacy](both-interventions-improve-phonetographic-surface-vocal-effort-self-efficacy.md) — related

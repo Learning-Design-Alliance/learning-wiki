@@ -53,3 +53,4 @@ Cooperative-play analysis of the survey (Table 1). The article suggests players 
 - [CA dimensions add only small explained variance beyond demographics and game play factors](ca-adds-small-variance-beyond-controls.md) — related
 - [Gamers' collaboration skills are specialized to the game environment and do not straightforwardly transfer to school learning](gamer-skills-not-transferable-to-school-learning.md) — related
 - [Participants split between narrative and game play themes, with 6 of 10 mentioning both and the rest mentioning only one, suggesting the ludology–narratology debate may reflect player preferences](ludology-narratology-split-among-players.md) — related
+- [Half of the reviewed games have a multiplayer design, mostly team-based, with distinct roles and inter-team competition less utilized](multiplayer-team-design-heritage-games.md) — related

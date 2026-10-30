@@ -53,3 +53,4 @@ Quasi-experimental classroom study with experimental and control groups in two p
 - [Software cartoons showed more long shots, more shots, and far more finished sequences than paper cartoons](software-cartoons-more-shots-long-shots-finished.md) — related
 - [Paper cartoons showed more happy characters and about three times more facial expressiveness per shot than software cartoons](facial-expression-harder-in-software.md) — related
 - [Software cartoons depicted significantly more character poses and far more physical character-to-character interaction](software-cartoons-more-action-interaction.md) — related
+- [Children using a visual story software process produced more on-topic story content than a control group using brainstorming and independent writing](visual-story-software-more-on-topic-writing.md) — reports the opposite

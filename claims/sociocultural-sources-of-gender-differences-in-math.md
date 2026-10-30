@@ -59,3 +59,4 @@ This is the authors' interpretive discussion citing prior literature rather than
 - [Stereotype threat reverses the gender gap in third-grade reading: boys underperform girls under threat but outperform them under reduced threat](stereotype-threat-reverses-boys-reading-gender-gap.md) — related
 - [Negative stereotype salience combined with high ethnic self-identification inhibits academic performance, while positive stereotypes facilitate it](stereotype-threat-ethnic-identity-performance.md) — related
 - [Gender identification moderates the relation between chronic stereotype threat and both working memory effectiveness and intellectual helplessness](gender-identity-moderates-stereotype-threat-effects.md) — related
+- [Men report higher computer self-efficacy, domain identification, knowledge, and motivation than women](gender-gaps-computer-self-efficacy-knowledge-motivation.md) — related

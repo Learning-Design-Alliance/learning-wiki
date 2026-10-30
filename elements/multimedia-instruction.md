@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 41 claims (21 for, 19 mixed, 1 against) · 43 studies (23 causal, 9 quant-synthesis, 8 review, 2 theoretical, 1 design), `q1`–`q4` · 11 of 43 report an effect size · 36 claims rest on one study
+> **Evidence** · 44 claims (21 for, 22 mixed, 1 against) · 44 studies (24 causal, 9 quant-synthesis, 8 review, 2 theoretical, 1 design), `q1`–`q4` · 12 of 44 report an effect size · 39 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -77,6 +77,9 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [A slow rate of development in an instructional film is more helpful to learning than a fast rate](../claims/slow-film-rate-of-development-aids-learning.md) [~W]
 - [Repeating an instructional film increases learning only up to a point](../claims/film-repetition-increases-learning-up-to-a-point.md) [~W]
 - [Equipment and display choices affect educational TV quality: black-on-white for fine-line charts, lapel microphone, two cameras, and a 16-inch minimum screen for 20 viewers](../claims/educational-tv-equipment-display-conclusions.md) [~W]
+- [The comprehension cost of instructor visuals replicates across different instructors and lecture lengths in a combined analysis](../claims/instructor-comprehension-cost-replication.md) [~W]
+- [Adding visuals of the instructor to online video lectures impairs comprehension relative to audio-only and audio+text formats](../claims/instructor-visuals-impair-lecture-comprehension.md) [~W]
+- [Learners prefer and believe they learn best from lectures with visuals of the instructor, despite objective comprehension costs](../claims/instructor-presence-effect-liking-learning-dissociation.md) [~W]
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]

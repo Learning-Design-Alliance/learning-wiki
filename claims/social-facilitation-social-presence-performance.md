@@ -55,3 +55,4 @@ Narrative review attributing this finding to Mayer (2014b): even non-interactive
 - [Prior knowledge moderates non-interactive teaching: low conceptual knowledge learners profit more, but very low-knowledge learners may not benefit at all](prior-knowledge-moderates-noninteractive-teaching.md) — related
 - [The low- and high-coercion versions of NTool did not differ on perceived sociability or social presence](ntool-no-social-aspect-differences.md) — related
 - [Learners feel a stronger social connection with positive instructors than with negative instructors.](positive-instructors-social-connection-video.md) — related
+- [The modality of oral explaining (audio + video vs. audio only) does not substantially affect learning outcomes in learning by digital explaining](modality-of-oral-explaining-no-substantial-difference.md) — related

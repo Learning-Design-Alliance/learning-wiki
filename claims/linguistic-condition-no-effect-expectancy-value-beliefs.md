@@ -55,3 +55,4 @@ A randomized experiment assigned 123 pre-service teachers to linguistically easy
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
 - [Task complexity and desirable difficulties do not significantly affect intrinsic interest or expectancies for success](complexity-and-difficulty-no-effect-self-task-perception.md) — related
 - [Students perceive manageable challenge matched to their skills, with a sense of accomplishment, as an intrinsically rewarding element of fun in formal learning](challenge-accomplishment-fun-primary.md) — related
+- [Fun perception decreases significantly from initial expectancy on both platforms](fun-perception-decreases-from-expectancy.md) — related

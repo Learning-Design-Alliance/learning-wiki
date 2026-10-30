@@ -51,6 +51,7 @@ The article recommends explicit prompting at several points in the visual-storyt
 - [Creative Writing](creative_writing.md)
 - [Collaborative Storytelling with Guiding Questions](collaborative_storytelling_with_guiding_questions.md)
 - [Picture Writing](picture_writing.md)
+- [Allow learners to place their own characters into visual story tools to increase purpose and utility](learner-created-characters-increase-utility.md)
 
 ## Examples
 -

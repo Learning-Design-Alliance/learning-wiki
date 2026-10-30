@@ -52,3 +52,4 @@ In the review's discussion of learning-theory integration, it reports that "only
 - Most research on noncognitive assessment and segmentation in postsecondary education is theoretical rather than applied to college practice — a broader claim this one bears on
 - Theoretical grounding in teacher-AI learning task design research is fragmented, with a significant number of studies lacking explicit theoretical frameworks — related
 - [Rigorous investigation of GenAI's actual educational and cognitive effects remains limited despite increasing integration into learning environments](genai-pedagogical-effects-investigation-limited.md) — related
+- [The most frequently measured pedagogical aspects of technology integration are enhancing students' cognitive engagement, promoting collaboration between students, and allowing students to conduct research online.](top-three-pedagogical-ti-aspects.md) — related

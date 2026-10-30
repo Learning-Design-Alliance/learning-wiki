@@ -53,3 +53,4 @@ Self-report check in the IVR experiment using nine presence items and six realis
 - [Students' perceived class performance level fully mediates the effect of classmates' hand-raising behavior on situational self-concept](perceived-performance-mediates-bflpe.md) — related
 - [The low- and high-coercion versions of NTool did not differ on perceived sociability or social presence](ntool-no-social-aspect-differences.md)
 - [Children report moderate to high sense of presence in IVR](children-moderate-high-presence-ivr.md) — related
+- [Participants experienced a good sense of presence in the virtual classroom, stable across the three sessions](good-sense-of-presence-virtual-classroom.md) — related

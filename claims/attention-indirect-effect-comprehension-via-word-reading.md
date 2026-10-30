@@ -56,3 +56,4 @@ Bias-corrected bootstrap tests (5,000 samples) of indirect effects from grade 1 
 - [Teacher-rated attention does not significantly predict first-grade listening comprehension growth among at-risk readers](attention-not-predict-listening-comprehension-growth.md) — related
 - [Attention is more strongly associated with reading and cognitive measures than hyperactivity, which correlates mainly with phonemic decoding and memory](attention-more-associated-reading-than-hyperactivity.md) — related
 - [The treatment effect on domain-specific reading comprehension was indirect-only: the direct path from treatment to comprehension was not significant](indirect-only-mediation-null-direct-effect.md) — related
+- [VR did not directly improve L2 listening comprehension but contributed indirectly by enhancing listening experiences](vr-indirect-effect-on-listening-comprehension.md) — related

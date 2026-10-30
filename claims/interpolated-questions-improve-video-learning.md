@@ -64,3 +64,4 @@ The essay reports, citing Szpunar et al. (2013), a comparison of interpolated-qu
 - [In complex materials, interim testing improves learning of new lecture-video segments and passage sections, including comprehension and integration](forward-testing-complex-materials.md) — possibly the same claim (merge candidate)
 - [Lab-trained mind wandering detectors generalize to in-the-wild lecture viewing across task, setting, and cultural group, with BiLSTM on latent features reaching F1 = 0.352](cross-dataset-generalization-mind-wandering-detection.md) — related
 - [Segmentation of instructional videos enhances learning outcomes](segmentation-enhances-video-learning.md) — a broader claim this one bears on
+- [Instructor visuals do not reduce mind wandering during video lectures](instructor-visuals-no-mind-wandering-reduction.md) — related

@@ -72,3 +72,4 @@ Same study, results section: the hybrid implementation had a countervailing enha
 - [Problem-based learning environments consistently improve students' critical thinking compared with lecture-based instruction](pbl-consistently-improves-critical-thinking.md) — related
 - [Six contextual factors mediate the influence of cultural factors on discussion behaviors, either inhibiting or enhancing discussion](six-contextual-factors-mediate-discussion.md) — a broader claim this one bears on
 - [Student-centered education is feasible in different cultural contexts, but processes and outcomes are likely to differ across them](student-centered-education-feasible-across-cultures.md) — a broader claim this one bears on
+- [Behavior and contribution quality are shaped by platform incentives and features rather than self-reported motivations](platform-features-shape-behavior-and-quality.md) — related

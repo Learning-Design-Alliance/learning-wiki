@@ -142,3 +142,5 @@ This research synthesis meta-analysed 99 studies (N = 7,669) of leisure-time rea
 - [Cognitive control mechanisms do not moderate the beneficial effects of book exposure on early literacy outcomes](cognitive-control-does-not-moderate-book-exposure.md) — related
 - [Programs offering only shared reading yield the largest comprehension-related effects, and combining shared reading with other activity types reduces effects](flp-shared-reading-only-largest-comprehension-effect.md) — related
 - [More frequent home literacy practices are associated with children's vocabulary skill but not with reading accuracy or speed](home-literacy-vocabulary-not-reading-fluency.md) — a narrower finding that bears on this claim
+- [Frequency of e-book reading on tablets shows no association with children's emergent literacy skills](ebook-reading-frequency-no-association-emergent-literacy.md) — related
+- [Children aged 2–4 years' home literacy experiences relate to their emergent literacy skill development](home-literacy-experiences-shape-emergent-literacy.md) — a broader claim this one bears on

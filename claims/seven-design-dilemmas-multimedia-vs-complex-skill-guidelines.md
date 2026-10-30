@@ -49,3 +49,4 @@ Theoretical analysis in the dilemmas section. The article enumerates seven dilem
 - [Cognitive Load Theory lacks a motivational focus, which becomes problematic when interpreting interventions that foster effortful learning strategies](clt-motivation-gap.md) — related
 - [Correlations among cognitive load types partially contradict theory-based assumptions of the additivity hypothesis](load-type-correlations-partially-contradict-clt.md) — related
 - [DHH students report using redundant multimedia features for support, conflicting with the CTML redundancy principle](dhh-redundant-support-conflicts-ctml-redundancy.md) — related
+- [Only half of reviewed IVR procedural-training studies framed their application with an explicit learning theory, and only two used IVR-specific theories (CTML or CAMIL)](half-studies-no-learning-theory.md) — related

@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 125 claims (50 for, 67 mixed, 8 against) · 88 studies (29 causal, 21 review, 12 quant-synthesis, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 21 of 88 report an effect size · 120 claims rest on one study
+> **Evidence** · 127 claims (51 for, 68 mixed, 8 against) · 90 studies (31 causal, 21 review, 12 quant-synthesis, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 22 of 90 report an effect size · 122 claims rest on one study
 
 ## Conditional relationship
 
@@ -359,6 +359,8 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [IVR serious games produce better evacuation knowledge retention and transfer than traditional training approaches](../claims/ivr-sgs-better-knowledge-retention-transfer-than-traditional.md) [+W]
 - [A review reports that IVR serious-game training gave better airplane-evacuation spatial knowledge than safety cards in one study, and that in a separate spacecraft-evacuation study the body orientation used in training shaped which spatial skills were learned](../claims/ivr-sgs-spatial-knowledge-evacuation.md) [+W]
 - [Motion sickness remains a disagreeable side effect of IVR serious games for a minority of participants](../claims/ivr-sgs-motion-sickness-side-effect.md) [~W]
+- [VR listening mode significantly enhanced affective engagement during listening tasks](../claims/vr-enhances-affective-engagement-listening.md) [~W]
+- [Immersion in the virtual classroom did not induce unwanted negative side effects (cybersickness)](../claims/vr-immersion-no-cybersickness.md) [+W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.

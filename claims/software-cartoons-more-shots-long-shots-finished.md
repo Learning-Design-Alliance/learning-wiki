@@ -49,3 +49,4 @@ Cartoon comparison in the Ramayana sub-study of all cartoon producers (control n
 - [No preparation process (software cartooning, paper cartooning, or teacher's normal planning) produced clearly different written stories](no-consistent-writing-effect-preparation-process.md) — related
 - [Software cartoons depicted significantly more character poses and far more physical character-to-character interaction](software-cartoons-more-action-interaction.md) — related
 - [In the Ramayana sub-study, software-group stories scored higher for strong descriptions of characters or actions at both story stages](ramayana-more-character-descriptions.md) — related
+- [Children using a visual story software process produced more on-topic story content than a control group using brainstorming and independent writing](visual-story-software-more-on-topic-writing.md) — related

@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/edraak-learners-value-local-courses-interests-needs.md
+---
+
+# Revision history: [claims/edraak-learners-value-local-courses-interests-needs](../claims/edraak-learners-value-local-courses-interests-needs.md)
+
+### 2026-10-30 · ingest · process:wiki-ingest
+Ingested from jrnl-b383e24701bd (Using multi-platform learning analytics to compare regional and global MOOC learning in the Arab world) via eval_harness.py + ingest_extractions.py

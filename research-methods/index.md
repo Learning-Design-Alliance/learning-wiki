@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**830 entries** · 0 stable · 830 in review · 0 drafts
+**832 entries** · 0 stable · 832 in review · 0 drafts
 
 ---
 
@@ -673,6 +673,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Six emerging evaluation approaches for intelligent tutoring and adaptive learning environments](six-emerging-evaluation-approaches-for-intelligent-tutoring-and-adaptive-learning-environm.md) - The article organizes its survey around six approaches that \"hold great promise for evaluating educational environments\": using the open web and crowd sourcing, comparing decisions of adaptive environments with human experts, using simulated learners, washing out selection bias, examining learning c
 * [Six patterns of theoretical integration in EER research](six-patterns-of-theoretical-integration-in-eer-research.md) - The review develops a six-category typology of how deeply EER articles integrate theory, classifying each of the 24 included articles along four dimensions: didactic considerations, implementation of a specific EER, theoretical foundation connected with didactic considerations, and empirical verific
 * [Six-behaviour spatial pedagogy coding scheme for team teaching](six-behaviour-spatial-pedagogy-coding-scheme-for-team-teaching.md) - An observation coding scheme adapted from prior work that integrates spatial pedagogy space types with team-teaching research.
+* [Six-category taxonomy of serious game application domains for evaluation studies](six-category-taxonomy-of-serious-game-application-domains-for-evaluation-studies.md) - The review classifies the application domains of evaluated serious games into six categories: health & wellness, culture, professional learning & training, social, support, and education.
 * [Six-code thematic framework for knowledge claims in ITE-diversity research](six-code-thematic-framework-for-knowledge-claims-in-ite-diversity-research.md) - The review developed an inductive, iterative coding framework to classify knowledge claims about preparing teachers for diverse learners.
 * [Six-dimension taxonomy of faculty-student relationships extracted from over a dozen measures](six-dimension-taxonomy-of-faculty-student-relationships-extracted-from-over-a-dozen-measur.md) - To handle heterogeneity across FSR measures, the authors inductively reviewed more than a dozen survey instruments and derived a categorical coding scheme.
 * [Six-dimensional framework of authentic assessment characteristics](six-dimensional-framework-of-authentic-assessment-characteristics.md) - The review proposes a six-dimensional framework for authentic assessment (AA) characteristics consisting of authenticity in assessment, cognitive challenges, assessment criteria, feedback, student agency and social collaboration.
@@ -914,4 +915,5 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 #### 0-9 & Other {: #letter-num }
 
 * [14-theme taxonomy of children's digital engagement conceptualisations](14-theme-taxonomy-of-childrens-digital-engagement-conceptualisations.md) - Through inductive thematic analysis of definitions and measures of engagement across the 88 included studies, the review developed a taxonomy of engagement themes: effort, interpersonal skills or behavior, attention, enjoyment, participation, skills, interest, usability, motivation, valuing, and mis
+* [26-feature framework for mapping digital writing-support technologies](26-feature-framework-for-mapping-digital-writing-support-technologies.md) - The review organises the field of digital writing-support technologies using a framework of 26 quantitative and qualitative features spanning four axes: writing processes, pedagogical approaches, feedback modalities and technological specifications.
 

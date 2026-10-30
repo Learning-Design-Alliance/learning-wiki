@@ -48,3 +48,4 @@ Regression predicting spacing from number of activities completed in the unit, w
 - [Higher-ability students are more likely to space their study in a self-regulated online course](higher-ability-students-space-more.md) — related
 - [The positive relationship between spacing and quiz performance is greater for students who complete fewer activities](spacing-buffers-passive-learning.md) — related
 - [Students who spaced their study more also performed better on the MOOC final exam](spacing-predicts-final-exam-mooc.md) — related
+- [Number of completed adaptive assignments is positively associated with student performance](adaptive-assignment-completion-performance.md) — related

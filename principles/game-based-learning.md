@@ -47,7 +47,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 77 claims (38 for, 38 mixed, 1 against) · 59 studies (20 causal, 14 quant-synthesis, 13 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 17 of 59 report an effect size · 71 claims rest on one study
+> **Evidence** · 78 claims (38 for, 39 mixed, 1 against) · 60 studies (20 causal, 14 quant-synthesis, 14 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 17 of 60 report an effect size · 72 claims rest on one study
 
 ## Conditional relationship
 
@@ -198,6 +198,7 @@ A gain in the game, a gain on an aligned outside test, delayed retention, transf
 - [A review reports that IVR serious-game training gave better airplane-evacuation spatial knowledge than safety cards in one study, and that in a separate spacecraft-evacuation study the body orientation used in training shaped which spatial skills were learned](../claims/ivr-sgs-spatial-knowledge-evacuation.md) [+W]
 - [Motivation is positively related to accuracy and response time during game-based learning](../claims/motivation-accuracy-response-time-relation.md) [~W]
 - [Uncertainty is positively associated with learner motivation in game-like environments](../claims/uncertainty-positively-associated-motivation.md) [+W]
+- [Half of the reviewed games have a multiplayer design, mostly team-based, with distinct roles and inter-team competition less utilized](../claims/multiplayer-team-design-heritage-games.md) [~W]
 
 ## Related Principles
 - [Simulations & Immersive Virtual Environments](simulations-immersive-virtual-environments.md) — simulations overlap with game-based learning when the experience models a system learners must navigate.

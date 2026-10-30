@@ -231,3 +231,4 @@ Responding directly to Cameron and Pierce's (1994) conclusion that the undermini
 - [Practice should always be considered in light of the pupil's interest and motivation; excess practice enjoyed by the pupil is not a grave defect](practice-must-be-motivated.md) — related
 - [Gamification studies measure intrinsic motivation almost exclusively through self-report instruments, with no study using free-choice behavioral measures](intrinsic-motivation-measured-by-self-report.md) — related
 - [Reward contingency significantly moderates gamification's effect on intrinsic motivation, with 'each unit solved' contingencies showing larger effects](reward-contingency-moderates-gamification-effect.md) — related
+- [Behavior and contribution quality are shaped by platform incentives and features rather than self-reported motivations](platform-features-shape-behavior-and-quality.md) — related

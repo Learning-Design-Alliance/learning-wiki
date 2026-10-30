@@ -86,6 +86,7 @@ Biased language and symbols impose extraneous processing and identity threat: st
 - [Building Empathy](../principles/building-empathy.md) — auditing materials for bias is itself an empathy-building exercise for designers and learners
 - [Intentionally activate symbols so they assist transformative learning](intentionally-activate-symbols-for-learning.md)
 - [Use cultural informants from the target community to buffer against stereotyping and bias](cultural-informants-buffer-against-stereotyping.md)
+- [Strengthen women's practical computer knowledge, avoid stereotype-threat-prone situations, and teach functional attribution patterns](strengthen-women-computer-confidence-attribution-training.md)
 
 ## Examples
 - **[Illustrative Mathematics](https://illustrativemathematics.org)** — K–12 curriculum whose problem-writing guidelines require varied, non-stereotyped names and contexts in word problems.

@@ -40,6 +40,7 @@ The evaluators recommend that because teachers have varying experience and exper
 
 - [Peer Coaching](peer_coaching.md)
 - [Provide administrators training and support in coaching and delivering useful feedback](administrator-coaching-feedback-support.md)
+- [Provide professional support focused on instructors' beliefs and develop a clear organizational stance on differentiated instruction in blended learning](professional-support-beliefs-organizational-stance.md)
 
 ## Examples
 -

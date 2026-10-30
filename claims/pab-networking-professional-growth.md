@@ -48,3 +48,4 @@ Interview data from the Impact section. Board members cited a mix of stakeholder
 - [Students perceive that applying knowledge gained through new meaningful experiences creates lasting personal growth (gain)](students-lasting-personal-growth-experiences.md) — related
 - [Role rotation created opportunities for perspective-taking and collaborative accountability, but also produced difficulty adapting to unfamiliar roles and uneven participation](role-rotation-perspective-taking-and-challenges.md) — related
 - [All six Practitioner Advisory Board members reported that engaging with Merlyn Mind was a valuable use of their time and that their feedback was taken seriously](pab-engagement-mutually-valued.md) — related
+- [Outcome expectations of reputation and network status do not increase intention to engage in collaborative OER development](reputation-expectations-no-effect-collaboration-intention.md) — related

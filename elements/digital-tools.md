@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 72 claims (36 for, 32 mixed, 4 against) · 67 studies (13 causal, 13 review, 12 associational, 11 design, 7 theoretical, 6 quant-synthesis, 5 qualitative), `q1`–`q4` · 9 of 67 report an effect size · 71 claims rest on one study
+> **Evidence** · 73 claims (37 for, 32 mixed, 4 against) · 68 studies (14 review, 13 causal, 12 associational, 11 design, 7 theoretical, 6 quant-synthesis, 5 qualitative), `q1`–`q4` · 9 of 68 report an effect size · 72 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -107,6 +107,7 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [Trails were only partially successful technologically due to device and network problems](../claims/trails-partially-successful-technologically.md) [~W]
 - [Familiarity with technology gained from prior face-to-face tablet use does not significantly contribute to learning activities, cognitive activation, or effort in digital distance teaching](../claims/technology-familiarity-no-effect-on-distance-teaching-quality.md) [~W]
 - [Technology was rarely used for interactive learning activities during digital distance teaching](../claims/technology-rarely-used-for-interactive-activities-distance-teaching.md) [-W]
+- [New technologies and tools are emerging that cater to a broader range of genres, pedagogical settings, and approaches as technology-enhanced learning becomes more ubiquitous](../claims/strobl-2019-emerging-broader-tools.md) [+W]
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

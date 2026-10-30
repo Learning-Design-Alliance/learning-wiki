@@ -27,7 +27,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 100 claims (40 for, 56 mixed, 4 against) · 76 studies (36 causal, 15 review, 13 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 20 of 76 report an effect size · 91 claims rest on one study
+> **Evidence** · 101 claims (40 for, 57 mixed, 4 against) · 77 studies (37 causal, 15 review, 13 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 21 of 77 report an effect size · 92 claims rest on one study
 
 ## Conditional relationship
 
@@ -184,6 +184,7 @@ A learning-phase preference, immediate recall, explanation of a mechanism, delay
 - [Animation outperforms static pictures for learning about a biological process with spoken narration](../claims/animation-outperforms-static-pictures-photosynthesis.md) [~M]
 - [System-paced multimedia learning environments with spoken narration yield higher learning outcomes than self-paced ones](../claims/system-pacing-beats-self-pacing-with-narration.md) [~W]
 - [Beat gestures of a human lecturer in an educational video do not significantly foster learning outcomes compared with a video without gestures](../claims/beat-gestures-do-not-foster-learning.md) [~W]
+- [The comprehension cost of instructor visuals replicates across different instructors and lecture lengths in a combined analysis](../claims/instructor-comprehension-cost-replication.md) [~W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

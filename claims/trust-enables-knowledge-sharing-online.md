@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2017
+source_checked: 2026-10-30
 sources:
   - id: richard-e-west-2017
     resource: "https://doi.org/10.1007/s11423-017-9535-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-10-30 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Research has established that trust is among the key enablers for knowledge sharing in online communities, suggesting knowledge sharing and trust can serve as measures of a community's emotional ties. [→ Richard E. West 2017](#richard-e-west-2017)

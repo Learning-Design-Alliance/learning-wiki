@@ -51,3 +51,4 @@ Second-order meta-analysis combining 23 first-order meta-analyses (684 primary s
 - [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — related
 - Data Element 1107 (Method of Instruction) shows three deficiencies: higher-education bias, non-descriptive morphology, and no stated relation between instructional methods and learning outcomes — related
 - [Individualized instruction shows low effects compared to cooperative and collaborative learning](individualized-instruction-low-effects-versus-collaborative.md) — related
+- [Learning outcomes are reported for 19 of 23 reviewed games with outcome data, positive in 18, mostly knowledge acquisition](learning-outcomes-mostly-positive-spatial-heritage-games.md) — related

@@ -48,3 +48,4 @@ Direct comparison question administered to 49 pre-service teachers after using b
 - [Students perceived HPL as positively as Scratch across TAM dimensions](hpl-student-perception-equal-scratch.md) — related
 - [Over 80% of pre-service teachers were willing to use HPL to teach CS, irrespective of gender or prior experience](hpl-teacher-acceptance-over-80-percent.md) — related
 - [A communication robot as cooperative learning partner elicited student interactions similar to those with human partners](robovie-cooperative-learning-partner-interactions.md) — related
+- [Fun perception decreases significantly from initial expectancy on both platforms](fun-perception-decreases-from-expectancy.md) — related

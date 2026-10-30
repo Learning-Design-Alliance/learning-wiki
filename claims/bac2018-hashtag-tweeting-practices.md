@@ -45,5 +45,7 @@ Analysis of public tweets from the #bac2018 hashtag in the month before the 2018
 
 
 ## Related Claims
+
 - [Practices within the #bac2018 hashtag were associated with academic learning and also with social and cultural practices absent from any formal curriculum](bac2018-social-cultural-learning-beyond-curriculum.md) — a narrower finding that bears on this claim
 - [The article argues that skepticism about Twitter's contribution to learning rests on an overly narrow conception of learning focused on academic performance](twitter-learning-skepticism-narrow-conception.md) — a broader claim this one bears on
+- [Time spent on LinkedIn, Snapchat and Twitter has virtually no significant impact on student performance at any learning level](linkedin-snapchat-twitter-no-significant-impact.md)

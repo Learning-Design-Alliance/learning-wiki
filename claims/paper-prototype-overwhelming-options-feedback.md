@@ -54,3 +54,4 @@ Interview sessions with five university participants (two master's students, two
 - [Model usability testing across two rounds led to structural improvements including separated course and lesson level design and a central formative evaluation step](usability-testing-improved-model-structure.md) — related
 - [First-level participant feedback found the iThinkSmart prototype engaging but flagged movement, navigation, graphics, and device-support issues for improvement](ithinksmart-prototype-feedback-themes.md) — related
 - [User testing showed free-form note-taking frustrated users, prompting a redesign to drag-and-drop scaffolding that reduced frustration and improved engagement](drag-and-drop-notebook-scaffolding-redesign.md) — related
+- [Children's most frequent impressions concern ease of use of tangible interface and graphical UI](children-impressions-ease-of-use-and-gui.md) — related

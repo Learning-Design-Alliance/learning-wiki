@@ -55,3 +55,4 @@ Regression on pretest monitoring judgments in the 1,177-participant sample: accu
 - [Gender differences in global performance judgments follow domain stereotypes: men higher in mathematics, women higher in reading, with no gender differences in bias](gender-stereotyped-performance-judgments-adults.md) — related
 - [Men morally disengage toward cheating more than women](men-moral-disengage-more-than-women.md) — related
 - [Male and female subjects responded differently, confounding interpretation](sex-differences-confound-attitude-change.md) — related
+- [Men report higher computer self-efficacy, domain identification, knowledge, and motivation than women](gender-gaps-computer-self-efficacy-knowledge-motivation.md) — related
