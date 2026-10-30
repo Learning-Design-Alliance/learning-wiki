@@ -50438,5 +50438,85 @@
  "?\tone experimental group\tthe other experimental groups": {
   "label": "one experimental group vs other experimental groups",
   "treatment_is_a": true
+ },
+ "technology-tool\tAI Group\tHE Group": {
+  "label": "AI-supported vs human-expert",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported EL2 learning\tconventional or non-AI learning": {
+  "label": "AI-supported vs conventional/non-AI learning",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported EL2 learning\tnon-AI or conventional EL2 learning": {
+  "label": "AI-supported vs conventional/non-AI learning",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported EL2 learning\tnon-use or conventional instruction": {
+  "label": "AI-supported vs conventional/non-AI instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported EL2 learning\tunspecified comparison": {
+  "label": "AI-supported vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported L2 communication practice\tnot stated": {
+  "label": "AI-supported vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported PBL inquiry\tPBL inquiry without AI": {
+  "label": "AI-supported PBL vs PBL without AI",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported SRL\tnot stated": {
+  "label": "AI-supported SRL vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported adaptive and personalized learning\tnon-adaptive or non-AI learning": {
+  "label": "AI-supported adaptive/personalized learning vs non-adaptive/non-AI learning",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported adaptive and personalized learning\tnot stated": {
+  "label": "AI-supported adaptive/personalized learning vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported asynchronous database course\tno comparison reported": {
+  "label": "AI-supported asynchronous database course vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported brainstorming, feedback, meaning negotiation, and comparative evaluation\tunaided writing and traditional peer or professor review": {
+  "label": "AI-supported writing support and evaluation vs unaided writing and traditional review",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported collaborative learning\tseparate or non-AI-supported student work": {
+  "label": "AI-supported collaborative learning vs separate/non-AI student work",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported collaborative workspaces with synthesis and prompts\twithout these AI workspace features": {
+  "label": "AI-supported collaborative workspace features vs no such AI features",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported competency cultivation\tTraditional knowledge transmission": {
+  "label": "AI-supported competency cultivation vs traditional knowledge transmission",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported course readings and companion\tcomparable course without AI assistance": {
+  "label": "AI-supported course readings/companion vs comparable course without AI",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported course with Class Companion readings\tcomparable course without AI assistance": {
+  "label": "AI-supported Class Companion readings vs comparable course without AI",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported e-mentoring with human mentoring, collaborative digital platforms, and Gemini feedback\tconventional practicum procedures": {
+  "label": "AI-supported e-mentoring vs conventional practicum procedures",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported educational approaches used alongside traditional methods\toverreliance on AI or traditional methods without balanced integration": {
+  "label": "Balanced AI-supported methods alongside traditional methods vs overreliant AI or unbalanced traditional methods",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported experimental-design project\tbefore the project": {
+  "label": "AI-supported experimental-design project vs pre-project baseline",
+  "treatment_is_a": true
  }
 }
