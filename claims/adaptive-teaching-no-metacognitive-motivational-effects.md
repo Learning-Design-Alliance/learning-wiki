@@ -37,7 +37,7 @@ Sibley, L., Fabian, A., Plicht, C., Pagano, L., Ehrhardt, N., Wellert, L., Bohl,
 
 `q3 · i?` · `causal · r2`
 
-Same quasi-experimental study, same models as the learning outcome. Delayed posttests were also non-significant (e.g., monitoring accuracy β = 0.13, p = .162). No effect sizes were printed for these null findings.
+Same quasi-experimental study, same models as the learning outcome. Delayed posttests were also non-significant (monitoring accuracy β = -0.13, p = .162; interest β = 0.04, p = .614; self-efficacy β = 0.07, p = .436). The standardized β estimates printed for these outcomes are all small and non-significant; equivalence was not tested. Signs restored: the PDF's extracted text had lost its minus signs.
 
 > "results revealed no differences among conditions neither regarding the immediate posttest (monitoring accuracy: β = 0.00, p = .958; interest: β = 0.08, p = .257; self-efficacy: β = 0.09, p = .202)"
 

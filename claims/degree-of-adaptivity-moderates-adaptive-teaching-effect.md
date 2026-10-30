@@ -46,7 +46,7 @@ Sibley, L., Fabian, A., Plicht, C., Pagano, L., Ehrhardt, N., Wellert, L., Bohl,
 
 `q3 · i2` · `causal · r2`
 
-Subsample analyses split at the mean degree of adaptivity (M = 18.06) in the same study. Low-adaptivity units showed no differences (immediate β = 0.21, p = .120; delayed β = 0.15, p = .286).
+Subsample analyses split at the mean degree of adaptivity (M = 18.06) in the same study. Low-adaptivity units showed no differences (immediate β = -0.21, p = .120; delayed β = -0.15, p = .286). Signs restored: the PDF's extracted text had lost its minus signs.
 
 > "teaching units with high degree of adaptivity demonstrated a significant benefit regarding students' learning compared to the control condition (immediate posttest: β = 0.37, p = .004, small effect; delayed posttest: β = 0.44, p = .001, small effect)."
 

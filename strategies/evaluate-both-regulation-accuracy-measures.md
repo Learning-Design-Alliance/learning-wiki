@@ -39,7 +39,7 @@ The article recommends that studies of metacomprehension interventions assess re
 ## Claims
 
 - [Model answers improve both monitoring-based and comprehension-based regulation accuracy](../claims/model-answers-improve-regulation-accuracy.md) [+W]
-- [Model answers and self-assessment instructions do not improve monitoring accuracy after delayed diagramming](../claims/model-answers-no-monitoring-accuracy-effect.md) [-W]
+- [Model answers and self-assessment instructions showed no significant effect on monitoring accuracy after delayed diagramming](../claims/model-answers-no-monitoring-accuracy-effect.md) [-W]
 - [Model answers combined with self-assessment instructions interactively improve monitoring-based regulation accuracy, with two model answers most effective](../claims/model-answers-self-assessment-interaction-regulation.md) [+W]
 - [Generative activities improve students' monitoring accuracy but not their actual learning after restudy](../claims/generative-activities-improve-monitoring-not-restudy-learning.md) [+W]
 - [Generative and visualizing tasks improve metacomprehension and monitoring accuracy but show small or null effects on learning outcomes](../claims/generative-tasks-monitoring-accuracy-not-outcomes.md) [+W]

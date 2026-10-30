@@ -63,4 +63,4 @@ Perception data from the mixed-methods study of 30 first-year EAP students, anal
 - [Students report teacher feedback on writing is insufficient, and they value scores over feedback](insufficient-writing-feedback-scores-over-feedback.md) — related
 - [ChatGPT-3.5 feedback on EAP argumentative essays aligns closely with human instructor scoring and identifies surface-level issues, but is less effective on rhetorical structure and contextual nuance](chatgpt-feedback-aligns-with-human-scoring-but-weak-on-rhetorical-structure.md) — related
 - [Hybrid approaches combining LLMs with traditional knowledge-tracing algorithms outperform either method alone for learner modelling](hybrid-llm-knowledge-tracing-outperforms-either-alone.md) — related
-- [Students consistently prefer human-generated feedback over AI-generated feedback when they know its origin](students-prefer-human-feedback-over-ai.md) — related
+- [Prior studies summarised in one article report that students rate instructor feedback above AI-generated feedback, and rate AI feedback lower once they know its origin](students-prefer-human-feedback-over-ai.md) — related

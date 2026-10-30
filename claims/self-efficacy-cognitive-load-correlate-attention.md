@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2023
+source_checked: 2026-10-29
 sources:
   - id: yizhen-huang-2023
     resource: "https://doi.org/10.1016/j.compedu.2023.104912"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Classroom management self-efficacy and perceived cognitive load were significantly correlated with number of fixations and fixation speed. [→ Yizhen Huang 2023](#yizhen-huang-2023)
@@ -37,9 +38,9 @@ Yizhen Huang, Eric Richter, Thilo Kleickmann, Katharina Scheiter, Dirk Richter. 
 
 `q2 · i?` · `associational · r1`
 
-Correlational analysis of questionnaire measures with visual attention performance. The article reports "Self-efficacy in classroom management was significantly correlated with number of fixations" with small printed r values.
+Correlational analysis of questionnaire measures with visual attention performance. The article reports "Self-efficacy in classroom management was significantly correlated with number of fixations" with small printed r values. Signs restored: the PDF's extracted text had lost its minus signs.
 
-> "Self-efficacy in classroom management was significantly correlated with number of fixations (r = 0.09, p = .006) and fixation speed (r = 0.12, p < .001)."
+> "Self-efficacy in classroom management was significantly correlated with number of fixations (r = 0.09, p = .006) and fixation speed (r =-0.12, p < .001)."
 
 ## Discussion
 

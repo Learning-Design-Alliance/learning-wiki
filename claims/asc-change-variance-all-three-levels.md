@@ -37,7 +37,7 @@ Tanja Auer, Marion Reindl, Burkhard Gniewosz. (2025). Is the clique a pond? The 
 
 `q3 · i?` · `associational · r2`
 
-Descriptive three-level base model (Table 1, n = 740) estimating variances and means of ASC intercept and change. The article prints DIC = 11 979.28 and pD = 365.47; Table 1 shows the mean change estimate of 0.01 with an interval including zero, so the decline is descriptive.
+Descriptive three-level base model (Table 1, n = 740) estimating variances and means of ASC intercept and change. The article prints DIC = 11 979.28 and pD = 365.47; Table 1 shows the mean change estimate of -0.01 (95% CI [-0.081, 0.061]), an interval including zero, so the decline is descriptive. Signs restored: the PDF's extracted text had lost its minus signs.
 
 > "The three-level base model (DIC = 11 979.28, pD = 365.47) showed statistically significant variances in the change of ASC at all three levels (see Table 1), allowing for the subsequent prediction of the change in ASC. The negative mean change in ASC indicates a decline in ASC between the middle and the end of the school year."
 

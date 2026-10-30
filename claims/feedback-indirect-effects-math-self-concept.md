@@ -38,9 +38,9 @@ Van der Beek, J.P.J.; Van der Ven, S.H.G.; Van de Weijer-Bergsma, E.; Kroesberge
 
 `q3 · i0` · `causal · r2`
 
-Model 2 of the randomized path analysis (n = 219), with math self-concept (PISA-2003-derived scale, α = .91) as outcome: "no direct effects of feedback on math self-concept", but the printed indirect effects via enjoyment (β = .05) and hope (β = .15) as quoted, plus positive feedback via hope (β = .07).
+Model 2 of the randomized path analysis (n = 219), with math self-concept (PISA-2003-derived scale, α = .91) as outcome: "no direct effects of feedback on math self-concept", but the printed indirect effects via enjoyment (β = -.05) and hope (β = -.15) as quoted, plus positive feedback via hope (β = .07). Signs restored: the PDF's extracted text had lost its minus signs.
 
-> "There were no direct effects of feedback on math self-concept, but the results did show small significant negative indirect effects of negative feedback via enjoyment (β = .05, SE = .03, p = .046) and hope (β = .15, SE = .05, p = .001) on math self-concept, and a small positive indirect effect of positive feedback via hope on math self-concept (β = .07, SE = .04, p = .050)."
+> "There were no direct effects of feedback on math self-concept, but the results did show small significant negative indirect effects of negative feedback via enjoyment (β =-.05, SE = .03, p = .046) and hope (β =-.15, SE = .05, p = .001) on math self-concept, and a small positive indirect effect of positive feedback via hope on math self-concept (β = .07, SE = .04, p = .050)."
 
 ## Discussion
 

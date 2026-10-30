@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-10-29
 sources:
   - id: torppa-2025
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102080"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Of nine latent interaction models, seven suggested significant negative interaction effects between parental skills and formal HME, indicating the risk from lower parental skills was weaker when more formal HME was provided. [→ Torppa 2025](#torppa-2025)
@@ -38,7 +39,7 @@ Torppa, M., Psyridou, M., Khanolainen, D., Koponen, T., & Salminen, J. (2025). R
 
 `q3 · i?` · `associational · r2`
 
-Latent interaction SEMs (Models 2A–4H series) testing formal HME at ages 2, 5 and Grade 1 as moderator of parental skill effects on children's Grade 1 and 2 arithmetic fluency; standardized interaction estimates ranged up to β = .60*** (Table 6).
+Latent interaction SEMs (Models 2A–4H series) testing formal HME at ages 2, 5 and Grade 1 as moderator of parental skill effects on children's Grade 1 and 2 arithmetic fluency; the significant standardized parent skill × formal HME interaction estimates were negative, ranging from -.26*** to -.60*** (Tables 4–6; -.60*** in Table 6). Signs restored: the PDF's extracted text had lost its minus signs.
 
 > "Of the nine interaction models, seven suggested significant negative interaction effects. These included all of the models where Grade 1 skill was the outcome as well as the Grade 2 prediction model with HME- formal at age 5. Visual inspection of the slopes (Fig. 3) revealed that the risk due to lower parental math skill levels was weaker when a more formal HME was provided."
 

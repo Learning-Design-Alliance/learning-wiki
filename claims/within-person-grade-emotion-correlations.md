@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: moderate
 newest_evidence: 2022
+source_checked: 2026-10-29
 sources:
   - id: reinhard-pekrun-2022
     resource: "https://doi.org/10.1016/j.learninstruc.2022.101626"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r3` · `q3` · `i1` small
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-10-29 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Enjoyment and pride showed significant positive within-person correlations with grades, ranging r = .12 to .55. [→ Reinhard Pekrun 2022](#reinhard-pekrun-2022)
@@ -56,9 +57,11 @@ Reinhard Pekrun, Herbert W. Marsh, Felix Suessenbach, Anne C. Frenzel, Thomas Go
 
 `q3 · i1` · `associational · r3`
 
-Same within-person correlation analysis for the five negative emotions with grades, all significant at p < .001; the article prints the range "r =  .17 to  .44" for these negative associations.
+Same within-person correlation analysis for the five negative emotions with grades, all significant at p < .001; the article prints the range "r = -.17 to -.44" for these negative associations.
 
-> "Anger, anxiety, shame, boredom, and hopelessness showed significant negative within-person correlations with grades (range r =  .17 to  .44; all ps < .001)."
+> "Anger, anxiety, shame, boredom, and hopelessness showed significant negative within-person correlations with grades (range r = -.17 to -.44; all ps < .001)."
+
+Signs restored: the PDF's extracted text had lost its minus signs.
 
 ## Discussion
 

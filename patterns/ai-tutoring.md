@@ -391,7 +391,7 @@ This pattern is scoped to the tutor's moves within tasks and the handoff to peop
 - [Students in the multi-agent environment interacted far more than MOOC students with a Q&A chatbot, and overall scores improved significantly from pre-test to post-test](../claims/multi-agent-vs-mooc-chatbot-engagement-and-pre-post-gain.md) [~W]
 - [Age coherence between pedagogical agent and learning material fosters learning (study 2)](../claims/age-coherence-agent-material-fosters-learning.md) [~W]
 - [AI-led assistance in prior work tended to be more descriptive and lacked specific, actionable suggestions compared to peer feedback](../claims/ai-led-assistance-more-descriptive-than-peer-feedback.md) [-W]
-- [Students consistently prefer human-generated feedback over AI-generated feedback when they know its origin](../claims/students-prefer-human-feedback-over-ai.md) [-W]
+- [Prior studies summarised in one article report that students rate instructor feedback above AI-generated feedback, and rate AI feedback lower once they know its origin](../claims/students-prefer-human-feedback-over-ai.md) [-W]
 
 ## Examples
 - [ChatGPT as a virtual laboratory assistant in a sociotechnical system](../designs/sts-theory-chatgpt-virtual-laboratory-assistant.md) — ChatGPT answers lab questions beside human TAs, not in their place

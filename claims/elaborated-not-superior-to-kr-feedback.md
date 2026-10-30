@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-29
 sources:
   - id: fynn-töllner-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2026.102413"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Neither conceptual nor procedural elaborated feedback differed significantly from KR feedback on posttest achievement. [→ Fynn Töllner 2026](#fynn-tollner-2026)
@@ -37,9 +38,9 @@ Fynn Töllner, Poldi Kuhl, Michael Besser. (2026). Feedback complexities interac
 
 `q3 · i?` · `causal · r2`
 
-Linear contrasts from the same multilevel model of the N = 190 RCT found no statistically significant difference between either elaborated feedback type and KR feedback; equivalence was not tested.
+Linear contrasts from the same multilevel model of the N = 190 RCT found no statistically significant difference between either elaborated feedback type and KR feedback; equivalence was not tested. Signs restored: the PDF's extracted text had lost its minus signs.
 
-> "Accordingly, as the test for linear contrasts demonstrated, neither conceptual feedback t(4.08) = 1.78, p = .888, 95% CI [ 12.79, 5.85] nor procedural feedback t(4.64) = 0.06, p = 1.00, 95% CI [ 9.78, 9.50] differed significantly from KR feedback."
+> "Accordingly, as the test for linear contrasts demonstrated, neither conceptual feedback t(4.08) = -1.78, p = .888, 95% CI [-12.79, 5.85] nor procedural feedback t(4.64) = -0.06, p = 1.00, 95% CI [-9.78, 9.50] differed significantly from KR feedback."
 
 ## Discussion
 

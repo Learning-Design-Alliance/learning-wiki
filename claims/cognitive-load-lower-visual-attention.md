@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-10-29
 sources:
   - id: yizhen-huang-2023
     resource: "https://doi.org/10.1016/j.compedu.2023.104912"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Higher perceived cognitive load was significantly associated with fewer fixations, longer time to first fixation, and shorter fixation durations on disruptions. [→ Yizhen Huang 2023](#yizhen-huang-2023)
@@ -37,9 +38,9 @@ Yizhen Huang, Eric Richter, Thilo Kleickmann, Katharina Scheiter, Dirk Richter. 
 
 `q2 · i?` · `associational · r1`
 
-Linear mixed-effects model covariate analysis of perceived cognitive load (Paas 9-point scale) on three visual attention measures. The article reports "higher cognitive load was related to lower number of fixations" with printed coefficients and t statistics.
+Linear mixed-effects model covariate analysis of perceived cognitive load (Paas 9-point scale) on three visual attention measures. The article reports "higher cognitive load was related to lower number of fixations" with printed coefficients and t statistics. Signs restored: the PDF's extracted text had lost its minus signs.
 
-> "higher cognitive load was related to lower number of fixations (̂β = 0.07, t(836) = 2.60, p = .009), longer time to first fixation (̂β = 0.20, t(836) = 2.13, p = .009), and shorter fixation duration (̂β = 0.08, t(836) = 2.48, p = .013) on disruptions"
+> "higher cognitive load was related to lower number of fixations (̂β = -0.07, t(836) =-2.60, p = .009), longer time to first fixation (̂β = 0.20, t(836) = 2.13, p = .009), and shorter fixation duration (̂β = -0.08, t(836) =-2.48, p = .013) on disruptions"
 
 ## Discussion
 

@@ -94,7 +94,7 @@ Review synthesis reporting the grade-by-SES interaction from the Australian stud
 - [Evidence of academic rebounding in 2021-22 appeared across all school-poverty levels](rebounding-across-all-school-poverty-levels.md) — related
 - [Learning loss varied considerably by school, with some schools seeing slides of 10 percentile points or more and others recording no losses or small gains](school-level-variation-in-learning-loss.md) — related
 - [Socio-economic inequality in learning increased during the pandemic for most estimates, across subjects, grades and pandemic stages](covid-learning-inequality-increased-low-ses.md) — a broader claim this one bears on
-- [Kindergarten closures hit children in low-SES schools hardest in basic counting and numeracy skills (d = 0.2 in 2020; d = 0.3 in 2021), widening inequalities](kindergarten-low-ses-numeracy-loss.md) — a narrower finding that bears on this claim
+- [Kindergarten closures hit children in low-SES schools hardest in basic counting and numeracy skills (d = -0.2 in 2020; d = -0.3 in 2021), widening inequalities](kindergarten-low-ses-numeracy-loss.md) — a narrower finding that bears on this claim
 - [COVID-19 widened the socio-economic performance gap on average, deteriorating more among disadvantaged students, significantly in mathematics and science](covid-widened-socio-economic-performance-gap.md) — related
 - [The pandemic strengthened the link between socioeconomic status and mathematics scores, but only in countries with closures shorter than 22 weeks](escs-slope-increase-short-closures.md) — related
 - [Learning losses increase with the length of school closures, from 9–12% SD in shortest-closure countries to 17–23% SD in longest-closure countries](losses-increase-with-closure-length.md) — related

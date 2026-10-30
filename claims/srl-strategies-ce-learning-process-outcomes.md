@@ -45,7 +45,7 @@ sources:
 ## Subclaims
 `q3 i3` SRL strategies show a moderate to strong positive relationship with learner engagement (r = .39) in CE. [→ Yvonne M. Hemmler 2024 (2)](#yvonne-m-hemmler-2024-2)
 `q3 i2` SRL strategies show moderate positive relationships with achievement motivation (r = .30), learner satisfaction (r = .30), and learning performance (r = .36) in CE. [→ Yvonne M. Hemmler 2024](#yvonne-m-hemmler-2024)
-`q3 i1` SRL strategies show a weak negative relationship with avoidance behavior (r = .14) in CE. [→ Yvonne M. Hemmler 2024 (3)](#yvonne-m-hemmler-2024-3)
+`q3 i1` SRL strategies show a weak negative relationship with avoidance behavior (r = -.14) in CE. [→ Yvonne M. Hemmler 2024 (3)](#yvonne-m-hemmler-2024-3)
 
 ## Evidence
 
@@ -65,7 +65,7 @@ Yvonne M. Hemmler, Dirk Ifenthaler. (2024). Self-regulated learning strategies i
 
 `q3 · i3` · `quant-synthesis · r?`
 
-Three-level random-effects meta-analysis pooling the same 58 CE studies (N = 48,213 learners). The pooled analysis found a "moderate to strong" positive relationship for "learner engagement (r= .39)" with SRL strategies.
+Three-level random-effects meta-analysis from the same review of 58 CE studies; the learner-engagement estimate pools k = 79 effect sizes from m = 12 studies (n = 9,504 learners). The pooled analysis found a "moderate to strong" positive relationship for "learner engagement (r= .39)" with SRL strategies.
 
 > "moderate to strong positive relationships for learning performance (r= .36) and learner engagement (r= .39)"
 
@@ -75,9 +75,9 @@ Yvonne M. Hemmler, Dirk Ifenthaler. (2024). Self-regulated learning strategies i
 
 `q3 · i1` · `quant-synthesis · r?`
 
-Pooled three-level meta-analysis of avoidance behavior studies (k = 6 effect sizes from m = 3 studies, n = 675). The review reports "a weak negative relationship for avoidance behavior (r= .14)" with SRL strategies in CE.
+Pooled three-level meta-analysis of avoidance behavior studies (k = 6 effect sizes from m = 3 studies, n = 675). The review reports "a weak negative relationship for avoidance behavior (r=-.14)" with SRL strategies in CE. Signs restored: the PDF's extracted text had lost its minus signs.
 
-> "The average correlation coefficient indicated a weak negative relationship for avoidance behavior (r= .14)"
+> "The average correlation coefficient indicated a weak negative relationship for avoidance behavior (r=-.14)"
 
 ## Discussion
 

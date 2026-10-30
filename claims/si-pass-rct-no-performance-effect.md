@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-10-29
 sources:
   - id: puttaert-2025
     resource: "https://doi.org/10.1016/j.learninstruc.2024.102042"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` First-year students randomly assigned to SI-PASS did not perform significantly better at the final statistics exam than randomly assigned control students (Hedges' g = .03). [→ Puttaert 2025](#puttaert-2025)
@@ -39,7 +40,9 @@ Puttaert, N., Dachet, D., Baye, A., Quertemont, E., Leduc, L., Nyssen, A.-S., & 
 
 RCT with stratified random assignment comparing 92 experimental and 92 control students (after attrition) on final exam grades (0–20 scale). The t-test was nonsignificant with "Effect size is Hedges' g = .03", and the null hypothesis could not be rejected.
 
-> "Results show that the model is nonsignificant (t(182) = .18, p = .86), with a higher mean in favor of the experimental group (M = 6.48, SD = 4.36). Effect size is Hedges' g = .03."
+> "Results show that the model is nonsignificant (t(182) = -.18, p = .86), with a higher mean in favor of the experimental group (M = 6.48, SD = 4.36). Effect size is Hedges' g = .03."
+
+Signs restored: the PDF's extracted text had lost its minus signs.
 
 ## Discussion
 

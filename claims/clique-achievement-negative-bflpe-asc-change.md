@@ -37,9 +37,9 @@ Tanja Auer, Marion Reindl, Burkhard Gniewosz. (2025). Is the clique a pond? The 
 
 `q3 · i?` · `associational · r2`
 
-Two-wave longitudinal study of 743 German sixth- and eighth-grade students in 93 cliques within 40 classrooms, analyzed with a doubly latent three-level Bayesian SEM (final model 4). The article reports the clique-level BFLPE coefficient: "b =  0.53, posterior SD = 0.16, 95% CI [ 0.852,  0.204], R2 = 0.42".
+Two-wave longitudinal study of 743 German sixth- and eighth-grade students in 93 cliques within 40 classrooms, analyzed with a doubly latent three-level Bayesian SEM (final model 4). The article reports the clique-level BFLPE coefficient: "b = -0.53, posterior SD = 0.16, 95% CI [-0.852, -0.204], R2 = 0.42". Signs restored: the PDF's extracted text had lost its minus signs.
 
-> "we observed that clique academic achievement was negatively associated (BFLPE) with students' ASCdevelopment: b =  0.53, posterior SD = 0.16, 95% CI [ 0.852,  0.204], R2 = 0.42"
+> "we observed that clique academic achievement was negatively associated (BFLPE) with students' ASCdevelopment: b = -0.53, posterior SD = 0.16, 95% CI [-0.852, -0.204], R2 = 0.42"
 
 ## Discussion
 

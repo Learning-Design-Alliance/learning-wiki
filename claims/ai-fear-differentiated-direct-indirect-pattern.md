@@ -56,9 +56,11 @@ Feng, S., Koch, M. J., & Carolus, A. (2026). AI Mindset – An empirically teste
 
 `q2 · i?` · `associational · r?`
 
-Parameter estimates table (Table 1) of the SEM. The row for fear to pedagogical AI competence prints a negative standardised coefficient (β = -0.15, 95% CI excluding zero, p = .025), supporting the negative competence association.
+Parameter estimates table (Table 1) of the SEM. The row for fear to pedagogical AI competence prints a negative standardised coefficient (β = -0.15, 95% CI -0.28 to -0.02, p = .025), as does the results text, supporting the negative competence association.
 
-> "Fear → AI competence ¡0.15 ¡0.28; ¡0.02 0.025*"
+> "Pedagogical AI competence was significantly associated with the teachers’ personality, intrinsic motivation, and AI technological appraisals, specifically with openness (β = 0.15, p = .013), need for relatedness (β = -0.16, p = .012), habit (β = 0.31, p < .001), AI-related fear (β = -0.15, p = .025), and effort expectancy (β = 0.28, p = .006)."
+
+Signs restored: the PDF's extracted text had lost its minus signs.
 
 ## Discussion
 

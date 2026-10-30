@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-10-29
 sources:
   - id: gyöngyvér-molnár-zoltán-hermann-2023
     resource: "https://doi.org/10.1016/j.learninstruc.2022.101706"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Learning loss for precursor reading skills and inductive reasoning did not differ between children in low-SES and high-SES schools after the first wave or after one-and-a-half years. [→ Gyöngyvér Molnár & Zoltán Hermann 2023](#gyongyver-molnar-zoltan-hermann-2023)
@@ -37,7 +38,7 @@ Gyöngyvér Molnár & Zoltán Hermann. (2023). Short- and long-term effects of C
 
 `q3 · i?` · `causal · r2`
 
-SES-grouped regression analysis of Grade 1 school-readiness outcomes (Fig. 6). The article reports Cohen's d varied between 0.1 and 0.05 for these domains with no SES difference; equivalence was not formally tested.
+SES-grouped regression analysis of Grade 1 school-readiness outcomes (Fig. 6). The article reports Cohen's d varied between -0.1 and -0.05 for these domains with no SES difference; equivalence was not formally tested. Signs restored: the PDF's extracted text had lost its minus signs.
 
 > "There was no difference in learning loss for precursor skills for reading and inductive reasoning in the mean achievement of children in low-SES schools compared to their peers in high-SES schools after the first wave of the COVID pandemic in October 2020 as well as after one-and-a-half years."
 
@@ -45,6 +46,6 @@ SES-grouped regression analysis of Grade 1 school-readiness outcomes (Fig. 6). T
 
 
 ## Related Claims
-- [First graders who missed kindergarten during COVID closures showed the greatest school-readiness loss in basic counting and numeracy skills against pre-pandemic cohorts: d = 0.16 after three months of closures and d = 0.23 for the cohort entering school a year later](kindergarten-closure-numeracy-loss.md) — related
-- [Kindergarten closures hit children in low-SES schools hardest in basic counting and numeracy skills (d = 0.2 in 2020; d = 0.3 in 2021), widening inequalities](kindergarten-low-ses-numeracy-loss.md) — related
-- [The negative effect of COVID remote learning was largest among lower primary low-SES students, reaching 25, 20 and 33 points (d = 0.25, 0.20, 0.33) in mathematics, reading and science by autumn 2021](lower-primary-low-ses-largest-loss.md) — related
+- [First graders who missed kindergarten during COVID closures showed the greatest school-readiness loss in basic counting and numeracy skills against pre-pandemic cohorts: d = -0.16 after three months of closures and d = -0.23 for the cohort entering school a year later](kindergarten-closure-numeracy-loss.md) — related
+- [Kindergarten closures hit children in low-SES schools hardest in basic counting and numeracy skills (d = -0.2 in 2020; d = -0.3 in 2021), widening inequalities](kindergarten-low-ses-numeracy-loss.md) — related
+- [The negative effect of COVID remote learning was largest among lower primary low-SES students; by autumn 2021 lower graders' losses reached 25, 20 and 33 points (d = -0.25, -0.20, -0.33) in mathematics, reading and science](lower-primary-low-ses-largest-loss.md) — related

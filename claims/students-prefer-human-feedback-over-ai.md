@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Students consistently prefer human-generated feedback over AI-generated feedback when they know its origin
-description: Students consistently prefer human-generated feedback over AI-generated feedback when they know its origin
+title: Prior studies summarised in one article report that students rate instructor feedback above AI-generated feedback, and rate AI feedback lower once they know its origin
+description: A literature summary in Pozdniakov et al. (2026), not their own data, reports that students perceive instructor feedback as more useful, helpful, trustworthy and genuine than AI feedback, and downgrade AI feedback once they know its origin
 id: students-prefer-human-feedback-over-ai
 status: review
 generated:
@@ -9,10 +9,11 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-10-29
 sources:
   - id: pozdniakov-2026
     resource: "https://doi.org/10.1016/j.compedu.2026.105591"
-    title: "Pozdniakov, S., Brazil, J., Banihashem, S. K., Noroozi, O., Gašević, D., Sadiq, S., & Khosravi, H. (2026). AI assistance in peer feedback provision: Pedagogically sound, but minimally adopted. Computers & Education. https://doi.org/10.1016/j.compedu.2026.105591"
+    title: "Pozdniakov, S., Brazil, J., Banihashem, S. K., Noroozi, O., Gašević, D., Sadiq, S., & Khosravi, H. (2026). AI assistance in peer feedback provision: Pedagogically sound, but minimally adopted. Computers & Education, 248, 105591. https://doi.org/10.1016/j.compedu.2026.105591"
     author: "Pozdniakov, S., Brazil, J., Banihashem, S. K., Noroozi, O., Gašević, D., Sadiq, S., & Khosravi, H."
     q: 2
     i: "?"
@@ -20,24 +21,24 @@ sources:
     rigour: 2
 ---
 
-# Students consistently prefer human-generated feedback over AI-generated feedback when they know its origin
+# Prior studies summarised in one article report that students rate instructor feedback above AI-generated feedback, and rate AI feedback lower once they know its origin
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` The review reports that students perceive feedback from instructors as significantly more useful, helpful, trustworthy, and genuine than feedback from AI, with a bias against AI when its origin is known. [→ Pozdniakov 2026](#pozdniakov-2026)
+`q2 i?` The article's background summary of prior studies (not its own participants) reports that, across various contexts, students perceive feedback from instructors as significantly more useful, helpful, trustworthy, and genuine than feedback from AI, and that students tend to downgrade AI-generated feedback once they know its origin. [→ Pozdniakov 2026](#pozdniakov-2026)
 
 ## Evidence
 
 ### Pozdniakov 2026
 
-Pozdniakov, S., Brazil, J., Banihashem, S. K., Noroozi, O., Gašević, D., Sadiq, S., & Khosravi, H. (2026). AI assistance in peer feedback provision: Pedagogically sound, but minimally adopted. Computers & Education. https://doi.org/10.1016/j.compedu.2026.105591
+Pozdniakov, S., Brazil, J., Banihashem, S. K., Noroozi, O., Gašević, D., Sadiq, S., & Khosravi, H. (2026). AI assistance in peer feedback provision: Pedagogically sound, but minimally adopted. Computers & Education, 248, 105591. https://doi.org/10.1016/j.compedu.2026.105591
 
 `q2 · i?` · `associational · r2`
 
-The review reports, citing Er et al. (2024) and others, that "students perceive feedback from instructors as significantly more useful, helpful, trustworthy, and genuine than feedback from AI". This preference is amplified when the AI origin is disclosed.
+This is the article's background summary of earlier studies, not a finding from Pozdniakov et al.'s own participants (their study examined AI assistance in peer feedback provision). Citing Er et al. (2024), Henderson et al. (2025) and Le et al. (2025), it reports that students perceive feedback from instructors as more useful, helpful, trustworthy and genuine than feedback from AI, and, citing Nazaretsky et al. (2024) and Zhang, Gao, et al. (2025), that students tend to downgrade their ratings of AI-generated feedback once they know its origin, even when they had rated it favourably blind. Read the cited studies for the evidence itself.
 
 > "Across various contexts, students perceive feedback from instructors as significantly more useful, helpful, trustworthy, and genuine than feedback from AI (Er et al., 2024; Henderson et al., 2025; Le et al., 2025)."
 

@@ -9,7 +9,7 @@ generated:
   at: 2026-10-17
 evidence_strength: moderate
 newest_evidence: 2007
-source_checked: 2026-10-29
+source_checked: 2026-10-19
 sources:
   - id: kendeou-2007
     resource: "https://doi.org/10.3758/bf03193491"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
-> **Currency** · newest study 2007 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2007 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In Experiment 1, the misconception group generated significantly more conceptual change strategies than the nonmisconception group, but only during reading of the refutation text (interaction η² = .42). [→ Kendeou 2007](#kendeou-2007)

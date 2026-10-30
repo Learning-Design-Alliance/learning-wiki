@@ -222,7 +222,7 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Enjoyment fully mediates the relationship between extroversion and attitude toward the activity](../claims/enjoyment-full-mediation-extroversion-attitude.md) [+M] — learners who differ on it differ in outcomes
 - [Enjoyment inhibits stress during the oral presentation](../claims/enjoyment-inhibits-stress.md) [+M] — learners who differ on it differ in outcomes
 - [More extroverted students perceive greater enjoyment in the combined use of video recording and a wiki](../claims/extroversion-increases-enjoyment-wiki-video-activity.md) [+M] — instruction changes it
-- [Perceived relative advantages and enjoyment improve attitude, which fully mediates their effects on satisfaction](../claims/attitude-full-mediation-advantages-enjoyment-satisfaction.md) [+M] — learners who differ on it differ in outcomes
+- [In a cross-sectional survey, attitude statistically fully mediated the associations of perceived relative advantages and enjoyment with satisfaction](../claims/attitude-full-mediation-advantages-enjoyment-satisfaction.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

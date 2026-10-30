@@ -46,7 +46,7 @@ The review reports, citing Banihashem et al. (2024), that "AI-led assistance ten
 
 ## Related Claims
 - [Learning analytics tools can provide personalized feedback on students' academic writing by identifying mistakes and offering constructive suggestions (e.g., AcaWriter)](acawriter-personalized-writing-feedback.md) — related
-- [Students consistently prefer human-generated feedback over AI-generated feedback when they know its origin](students-prefer-human-feedback-over-ai.md) — related
+- [Prior studies summarised in one article report that students rate instructor feedback above AI-generated feedback, and rate AI feedback lower once they know its origin](students-prefer-human-feedback-over-ai.md) — related
 - [Most AI assistance was correct and specific, but most instances lacked justifications](ai-assistance-informativeness-correct-but-lacking-justifications.md) — related
 - [Students given AI assistance in peer feedback tended to rely on the AI-generated feedback and struggled to perform the task when the assistance was removed](ai-assistance-peer-feedback-overreliance.md) — related
 - [Uptake of AI assistance in peer feedback was low, with just 9% of AI suggestions leading to revisions](low-uptake-ai-assistance-peer-feedback.md) — related

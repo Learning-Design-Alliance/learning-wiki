@@ -9,7 +9,6 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 2025
-source_checked: 2026-10-29
 sources:
   - id: stockinger-2025
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102089"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Latent correlations showed most strategies were significantly related to their target emotion, with linkages strongest for reappraisal and competence development across enjoyment, anxiety, and boredom. [→ Stockinger 2025](#stockinger-2025)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2020
+source_checked: 2026-10-29
 sources:
   - id: chen-2020
     resource: "https://doi.org/10.1016/J.COMPEDU.2020.103836"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q1`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors interpret the peer agent's advantage as arising from synergy between the tutor and tutee roles. [→ Chen 2020](#chen-2020)

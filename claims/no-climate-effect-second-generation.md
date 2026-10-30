@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-29
 sources:
   - id: anatolia-batruch-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102303"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The effect of school diversity climate on performance is not significant for non-immigrant students nor for second-generation students, in the main models and in the multiple-imputation models. [→ Anatolia Batruch 2026](#anatolia-batruch-2026)
@@ -37,7 +38,9 @@ Anatolia Batruch, Nicolas Sommet, Eva G.T. Green. (2026). Teachers' immigration 
 
 `q3 · i?` · `associational · r3`
 
-Fixed-effects models on PISA 2018 data; Table 2 prints non-significant SDC × 2G interactions (e.g., 0.98, 2.20, 3.13) and Table 4 confirms non-significance after multiple imputation. No effect size is printed, so impact is null; equivalence was not tested.
+Fixed-effects models on PISA 2018 data; Table 2 prints non-significant SDC × 2G interactions (e.g., -0.98, -2.20, -3.13) and Table 4 confirms non-significance after multiple imputation. No standardised effect size is printed, so impact is coded `i?`. The interactions are not statistically significant, which does not show the effect is zero: equivalence was not tested.
+
+Signs restored: the PDF's extracted text had lost its minus signs.
 
 > "The effect of school diversity climate on performance is not significant for the non-immigrant students nor for second-generation students."
 

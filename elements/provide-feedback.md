@@ -72,7 +72,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Learners are more willing to act on feedback when they perceive the sender as credible and trustworthy](../claims/sender-credibility-supports-feedback-use.md) [+W]
 - [Learning through feedback, especially when corrective, significantly boosts learning efficiency](../claims/corrective-feedback-boosts-learning-efficiency.md) [+W]
 - [Student ratings of hint and feedback content trend negatively at 60% cultural density, likely linked to informal dialect](../claims/negative-ratings-60-percent-density-hints-feedback.md) [~W]
-- [Students consistently prefer human-generated feedback over AI-generated feedback when they know its origin](../claims/students-prefer-human-feedback-over-ai.md) [~W]
+- [Prior studies summarised in one article report that students rate instructor feedback above AI-generated feedback, and rate AI feedback lower once they know its origin](../claims/students-prefer-human-feedback-over-ai.md) [~W]
 
 ## The evidence by question
 - *What should the feedback after a check say, and who or what should give it?* [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and a substantial share of feedback effects are negative](../claims/feedback-improves-learning.md) [+S]

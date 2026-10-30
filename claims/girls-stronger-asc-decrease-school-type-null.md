@@ -37,9 +37,9 @@ Tanja Auer, Marion Reindl, Burkhard Gniewosz. (2025). Is the clique a pond? The 
 
 `q3 · i?` · `associational · r2`
 
-Control-variable results from the final three-level model, with male as the reference category and Gymnasium as the school-type reference. The article prints "b = 0.15, posterior SD = 0.06, 95% CI [–0.260,  0.042]"; no standardized effect size is reported.
+Control-variable results from the final three-level model, with male as the reference category and Gymnasium as the school-type reference. The article prints "b = -0.15, posterior SD = 0.06, 95% CI [–0.260, -0.042]"; no standardized effect size is reported. Signs restored: the PDF's extracted text had lost its minus signs.
 
-> "Regarding the control variables, girls exhibited a stronger decrease in ASC than boys: b = 0.15, posterior SD = 0.06, 95% CI [–0.260,  0.042]. School type did not predict ASC development."
+> "Regarding the control variables, girls exhibited a stronger decrease in ASC than boys: b = -0.15, posterior SD = 0.06, 95% CI [–0.260, -0.042]. School type did not predict ASC development."
 
 ## Discussion
 

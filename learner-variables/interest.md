@@ -266,7 +266,7 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Perceived enjoyment significantly positively influences both satisfaction and perceived impact on learning in CSCL](../claims/enjoyment-influences-satisfaction-and-impact-cscl.md) [+W] — learners who differ on it differ in outcomes
 - [Enjoyment fully mediates the relationship between extroversion and attitude toward the activity](../claims/enjoyment-full-mediation-extroversion-attitude.md) [+M] — learners who differ on it differ in outcomes
 - [Enjoyment inhibits stress during the oral presentation](../claims/enjoyment-inhibits-stress.md) [+M] — learners who differ on it differ in outcomes
-- [Perceived relative advantages and enjoyment improve attitude, which fully mediates their effects on satisfaction](../claims/attitude-full-mediation-advantages-enjoyment-satisfaction.md) [+M] — learners who differ on it differ in outcomes
+- [In a cross-sectional survey, attitude statistically fully mediated the associations of perceived relative advantages and enjoyment with satisfaction](../claims/attitude-full-mediation-advantages-enjoyment-satisfaction.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

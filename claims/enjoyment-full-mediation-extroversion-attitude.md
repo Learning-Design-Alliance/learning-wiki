@@ -49,6 +49,6 @@ Mediation analysis following Preacher and Hayes (2008) with bootstrapping of 500
 - [Interest](../learner-variables/interest.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Perceived relative advantages and enjoyment improve attitude, which fully mediates their effects on satisfaction](attitude-full-mediation-advantages-enjoyment-satisfaction.md) — related
+- [In a cross-sectional survey, attitude statistically fully mediated the associations of perceived relative advantages and enjoyment with satisfaction](attitude-full-mediation-advantages-enjoyment-satisfaction.md) — related
 - [Extroversion has no direct effect on attitude toward the combined use of video recording and a wiki](extroversion-no-direct-attitude-effect.md) — possibly the same claim (merge candidate)
 - [More extroverted students perceive greater enjoyment in the combined use of video recording and a wiki](extroversion-increases-enjoyment-wiki-video-activity.md) — related

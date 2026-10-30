@@ -48,7 +48,9 @@ Feng, S., Koch, M. J., & Carolus, A. (2026). AI Mindset – An empirically teste
 
 SEM indirect-effect results for the teacher sample. The results sentence reports significant indirect effects via pedagogical AI competence for openness and need for relatedness; the table prints the relatedness indirect effect with a negative sign (β = -0.07, p = .026).
 
-> "Significant indirect effects via pedagogical AI competence were observed for selected dispositional, contextual and social, as well as technology-related factors, including openness (β = 0.07, p = .036), need for relatedness (β = 0.07, p = .026), habit (β = 0.14, p = .011), AI-related fear (β = 0.07, p = .044), and effort expectancy (β = 0.12, p = .021)."
+> "Significant indirect effects via pedagogical AI competence were observed for selected dispositional, contextual and social, as well as technology-related factors, including openness (β = 0.07, p = .036), need for relatedness (β = -0.07, p = .026), habit (β = 0.14, p = .011), AI-related fear (β = -0.07, p = .044), and effort expectancy (β = 0.12, p = .021)."
+
+Signs restored: the PDF's extracted text had lost its minus signs.
 
 ### Feng 2026 (2)
 

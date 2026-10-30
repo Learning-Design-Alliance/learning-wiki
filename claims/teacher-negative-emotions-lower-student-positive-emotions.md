@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-29
 sources:
   - id: sorkkila-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102298"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a given lesson, the higher the teachers' negative emotions, the less positive emotions students experienced. [→ Sorkkila 2026](#sorkkila-2026)
@@ -37,9 +38,9 @@ Sorkkila, M., Malmberg, L.-E., Pöysä, S., Kiuru, N., Lerkkanen, M.-K., & Pakar
 
 `q2 · i?` · `associational · r2`
 
-Cross-classified model (M2) regressing 672 student lesson-reports on their teachers' same-lesson emotions. The article reports the negative-emotion path with unstandardized B = 0.271 whose credibility interval excluded zero; no effect size is printed.
+Cross-classified model (M2) regressing 672 student lesson-reports on their teachers' same-lesson emotions. The article reports the negative-emotion path with unstandardized B = -0.271 whose credibility interval excluded zero; no effect size is printed. Signs restored: the PDF's extracted text had lost its minus signs.
 
-> "However, the higher the teachers' negative emotions were in a lesson, the less positive emotions students experienced (B = 0.271, [ 0.493,  0.056])."
+> "However, the higher the teachers' negative emotions were in a lesson, the less positive emotions students experienced (B =-0.271, [-0.493, -0.056])."
 
 ## Discussion
 

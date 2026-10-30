@@ -48,5 +48,5 @@ In the N = 98 experiment, meta-awareness was measured with four ranked categorie
 - [Metacognition](../learner-variables/metacognition.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Metacognition correlates with meta-awareness in the gradually increasing complexity group in Round 2, but not in the consistently high complexity group](metacognition-meta-awareness-correlation-by-condition.md) — related
+- [Metacognition correlates with meta-awareness in the gradually increasing complexity group in Round 2, but not significantly in the consistently high complexity group](metacognition-meta-awareness-correlation-by-condition.md) — related
 - [Task complexity strongly affects germane cognitive load in Round 1, with effects dissipating by post-test](complexity-germane-load-round-effects.md) — related

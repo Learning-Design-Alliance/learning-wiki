@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-10-29
 sources:
   - id: hu-2024
     resource: "https://doi.org/10.1016/j.learninstruc.2024.101943"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Performance-approach goal instructions raised mental effort (t = 2.31, p = 0.021, d = 0.08) and lowered posttest performance (t = -1.99, p = 0.047, d = -0.19) relative to no performance-approach instructions. [→ Hu 2024](#hu-2024)
@@ -37,9 +38,9 @@ Hu, Y., Wouters, P., van der Schaaf, M., & Kester, L. (2024). The effects of ach
 
 `q3 · i0` · `causal · r2`
 
-In the randomized 2×2 experiment (N = 450), robust regression controlling for teacher, pretest performance, and prior achievement goals showed higher mental effort and lower posttest performance for the performance-approach instructions group, with the printed statistics "t = 2.31, p = 0.021, d = 0.08" and "t = 1.99, p = 0.047, d = 0.19".
+In the randomized 2×2 experiment (N = 450), robust regression controlling for teacher, pretest performance, and prior achievement goals showed higher mental effort and lower posttest performance for the performance-approach instructions group, with the printed statistics "t = 2.31, p = 0.021, d = 0.08" and "t =-1.99, p = 0.047, d =-0.19". Signs restored: the PDF's extracted text had lost its minus signs.
 
-> "robust regression revealed a statistically significant main effect for performance-approach goal instructions on mental effort (t = 2.31, p = 0.021, d = 0.08) and posttest performance (t =  1.99, p = 0.047, d =  0.19). Participants receiving the performance-approach goal instructions reported higher mental effort but achieved lower posttest performance"
+> "robust regression revealed a statistically significant main effect for performance-approach goal instructions on mental effort (t = 2.31, p = 0.021, d = 0.08) and posttest performance (t =-1.99, p = 0.047, d =-0.19). Participants receiving the performance-approach goal instructions reported higher mental effort but achieved lower posttest performance"
 
 ## Discussion
 

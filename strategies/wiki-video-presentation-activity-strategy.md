@@ -38,7 +38,7 @@ The article recommends that educators use the combined recording of group oral p
 
 ## Claims
 
-- [Perceived relative advantages and enjoyment improve attitude, which fully mediates their effects on satisfaction](../claims/attitude-full-mediation-advantages-enjoyment-satisfaction.md) [+W]
+- [In a cross-sectional survey, attitude statistically fully mediated the associations of perceived relative advantages and enjoyment with satisfaction](../claims/attitude-full-mediation-advantages-enjoyment-satisfaction.md) [+W]
 - [Positive attitude increases satisfaction, and satisfaction increases course recommendation](../claims/attitude-satisfaction-recommendation-chain.md) [+W]
 - [More extroverted students perceive greater enjoyment in the combined use of video recording and a wiki](../claims/extroversion-increases-enjoyment-wiki-video-activity.md) [+W]
 

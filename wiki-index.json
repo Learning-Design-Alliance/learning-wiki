@@ -6751,7 +6751,6 @@
 "id":"adaptation-balances-outcome-variance-across-learners",
 "newest_evidence":"2023",
 "path":"claims/adaptation-balances-outcome-variance-across-learners.md",
-"source_checked":"2026-10-29",
 "status":"review",
 "title":"Difficulty adaptation significantly reduced the variance of task correctness and perceived difficulty across learners",
 "type":"claim"
@@ -7002,7 +7001,6 @@
 "id":"adaptive-its-no-difference-cognitive-load-enjoyment",
 "newest_evidence":"2026",
 "path":"claims/adaptive-its-no-difference-cognitive-load-enjoyment.md",
-"source_checked":"2026-10-19",
 "status":"review",
 "title":"Adaptive versus non-adaptive ITS condition showed no significant differences in mental effort, subjective difficulty, or enjoyment",
 "type":"claim"
@@ -7271,7 +7269,6 @@
 "id":"adaptive-task-difficulty-compensates-low-interest-vs-students",
 "newest_evidence":"2025",
 "path":"claims/adaptive-task-difficulty-compensates-low-interest-vs-students.md",
-"source_checked":"2026-10-29",
 "status":"review",
 "title":"Adaptive task difficulty compensates low interest but not low self-concept among vocational-school students during repeated practice",
 "type":"claim"
@@ -27260,7 +27257,6 @@
 "id":"attention-crossover-math-to-text-integrated-models",
 "newest_evidence":"2025",
 "path":"claims/attention-crossover-math-to-text-integrated-models.md",
-"source_checked":"2026-10-23",
 "status":"review",
 "title":"Numerical difficulty and mathematical abilities also affect attention on situational text in the second phase (attention-crossover supporting integrated models)",
 "type":"claim"
@@ -27640,13 +27636,14 @@
 "type":"claim"
 },
 {
-"description":"Perceived relative advantages and enjoyment improve attitude, which fully mediates their effects on satisfaction",
+"description":"In a survey of 106 first-year undergraduates analysed with PLS path models, perceived relative advantages and enjoyment were positively associated with attitude, and attitude fully mediated their associations with satisfaction; the design cannot show cause",
 "evidence_strength":"moderate",
 "id":"attitude-full-mediation-advantages-enjoyment-satisfaction",
 "newest_evidence":"2018",
 "path":"claims/attitude-full-mediation-advantages-enjoyment-satisfaction.md",
+"source_checked":"2026-10-29",
 "status":"review",
-"title":"Perceived relative advantages and enjoyment improve attitude, which fully mediates their effects on satisfaction",
+"title":"In a cross-sectional survey, attitude statistically fully mediated the associations of perceived relative advantages and enjoyment with satisfaction",
 "type":"claim"
 },
 {
@@ -29383,7 +29380,6 @@
 "id":"autonomy-support-predicts-intrinsic-motivation-effort-persistence",
 "newest_evidence":"2024",
 "path":"claims/autonomy-support-predicts-intrinsic-motivation-effort-persistence.md",
-"source_checked":"2026-10-29",
 "status":"review",
 "title":"Perceived individual and class-directed autonomy support positively predict students' intrinsic motivation, effort, and persistence",
 "type":"claim"
@@ -54318,6 +54314,7 @@
 "id":"cognitive-load-lower-visual-attention",
 "newest_evidence":"2023",
 "path":"claims/cognitive-load-lower-visual-attention.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Higher perceived cognitive load during IVR teaching is associated with worse visual attention performance on disruptions",
 "type":"claim"
@@ -60085,7 +60082,6 @@
 "id":"computer-word-reading-interventions-average-effect-036",
 "newest_evidence":"2022",
 "path":"claims/computer-word-reading-interventions-average-effect-036.md",
-"source_checked":"2026-10-29",
 "status":"review",
 "title":"Computer-assisted word reading interventions yield an average effect size of 0.36 on word reading outcomes across program types and languages in primary grades",
 "type":"claim"
@@ -62167,7 +62163,6 @@
 "id":"conscientiousness-moderates-difficulty-enjoyment-adaptive-its",
 "newest_evidence":"2026",
 "path":"claims/conscientiousness-moderates-difficulty-enjoyment-adaptive-its.md",
-"source_checked":"2026-10-19",
 "status":"review",
 "title":"Conscientiousness exploratorily moderated the effect of ITS condition on subjective difficulty and enjoyment",
 "type":"claim"
@@ -73642,6 +73637,7 @@
 "id":"curvilinear-autonomous-motivation-grades",
 "newest_evidence":"2021",
 "path":"claims/curvilinear-autonomous-motivation-grades.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"The relation of autonomous motivation to grades is curvilinear, with grades accelerating at higher autonomous motivation",
 "type":"claim"
@@ -80437,7 +80433,7 @@
 "id":"developmental-stage-moderates-mindset-correlation",
 "newest_evidence":"2018",
 "path":"claims/developmental-stage-moderates-mindset-correlation.md",
-"source_checked":"2026-10-29",
+"source_checked":"2026-10-18",
 "status":"review",
 "title":"Developmental stage moderates the mind-set–achievement correlation, which is nonsignificant for adults",
 "type":"claim"
@@ -89757,7 +89753,6 @@
 "id":"dynamic-visualizations-compensate-low-general-reasoning-vs-students",
 "newest_evidence":"2025",
 "path":"claims/dynamic-visualizations-compensate-low-general-reasoning-vs-students.md",
-"source_checked":"2026-10-29",
 "status":"review",
 "title":"Dynamic visualizations compensate vocational-school students with low general reasoning when learning with analogies",
 "type":"claim"
@@ -96818,6 +96813,7 @@
 "id":"elaborated-not-superior-to-kr-feedback",
 "newest_evidence":"2026",
 "path":"claims/elaborated-not-superior-to-kr-feedback.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Elaborated feedback did not significantly outperform non-elaborated KR feedback on achievement",
 "type":"claim"
@@ -106805,6 +106801,7 @@
 "id":"expectation-mismatch-increases-cognitive-load",
 "newest_evidence":"2026",
 "path":"claims/expectation-mismatch-increases-cognitive-load.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Mismatch between recording angle and expected angle increases cognitive load both during video observation and during task execution",
 "type":"claim"
@@ -120147,6 +120144,7 @@
 "id":"formal-hme-protective-effect",
 "newest_evidence":"2025",
 "path":"claims/formal-hme-protective-effect.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Formal home math environment moderates the effect of parental math skills on children's arithmetic skills, showing a protective (gap-closing) effect for higher-risk children",
 "type":"claim"
@@ -130949,6 +130947,7 @@
 "id":"gender-mother-quantity-longitudinal-interaction",
 "newest_evidence":"2025",
 "path":"claims/gender-mother-quantity-longitudinal-interaction.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Tentative longitudinal interaction: mother spatial language quantity at 24 months relates negatively to boys' but positively to girls' later spatial language quality",
 "type":"claim"
@@ -138585,7 +138584,7 @@
 "id":"growth-mindset-achievement-correlation-weak",
 "newest_evidence":"2018",
 "path":"claims/growth-mindset-achievement-correlation-weak.md",
-"source_checked":"2026-10-29",
+"source_checked":"2026-10-20",
 "status":"review",
 "title":"The meta-analytic correlation between growth mind-set and academic achievement is weak (r = .10)",
 "type":"claim"
@@ -150977,7 +150976,6 @@
 "id":"immediate-elaborated-feedback-improves-programming-learning",
 "newest_evidence":"2025",
 "path":"claims/immediate-elaborated-feedback-improves-programming-learning.md",
-"source_checked":"2026-10-20",
 "status":"review",
 "title":"Immediate Elaborated Feedback in a formative assessment game significantly improved students' programming knowledge, interest, and problem-solving versus systems without immediate feedback",
 "type":"claim"
@@ -154713,6 +154711,7 @@
 "id":"informed-misalignment-worse-performance",
 "newest_evidence":"2026",
 "path":"claims/informed-misalignment-worse-performance.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Participants informed in advance about a misaligned task angle performed worse and reported higher video cognitive load than those surprised by the misalignment",
 "type":"claim"
@@ -167178,14 +167177,14 @@
 "type":"claim"
 },
 {
-"description":"First graders who missed kindergarten during COVID closures showed the greatest school-readiness loss in basic counting and numeracy skills against pre-pandemic cohorts: d = 0.16 after three months of closures and d = 0.23 for the cohort entering school a year later",
+"description":"First graders who missed kindergarten during COVID closures showed the greatest school-readiness loss in basic counting and numeracy skills against pre-pandemic cohorts: d = -0.16 after three months of closures and d = -0.23 for the cohort entering school a year later",
 "evidence_strength":"moderate",
 "id":"kindergarten-closure-numeracy-loss",
 "newest_evidence":"2023",
 "path":"claims/kindergarten-closure-numeracy-loss.md",
 "source_checked":"2026-10-29",
 "status":"review",
-"title":"First graders who missed kindergarten during COVID closures showed the greatest school-readiness loss in basic counting and numeracy skills against pre-pandemic cohorts: d = 0.16 after three months of closures and d = 0.23 for the cohort entering school a year later",
+"title":"First graders who missed kindergarten during COVID closures showed the greatest school-readiness loss in basic counting and numeracy skills against pre-pandemic cohorts: d = -0.16 after three months of closures and d = -0.23 for the cohort entering school a year later",
 "type":"claim"
 },
 {
@@ -167307,13 +167306,14 @@
 "type":"claim"
 },
 {
-"description":"Kindergarten closures hit children in low-SES schools hardest in basic counting and numeracy skills (d = 0.2 in 2020; d = 0.3 in 2021), widening inequalities",
+"description":"Kindergarten closures hit children in low-SES schools hardest in basic counting and numeracy skills (d = -0.2 in 2020; d = -0.3 in 2021), widening inequalities",
 "evidence_strength":"moderate",
 "id":"kindergarten-low-ses-numeracy-loss",
 "newest_evidence":"2023",
 "path":"claims/kindergarten-low-ses-numeracy-loss.md",
+"source_checked":"2026-10-29",
 "status":"review",
-"title":"Kindergarten closures hit children in low-SES schools hardest in basic counting and numeracy skills (d = 0.2 in 2020; d = 0.3 in 2021), widening inequalities",
+"title":"Kindergarten closures hit children in low-SES schools hardest in basic counting and numeracy skills (d = -0.2 in 2020; d = -0.3 in 2021), widening inequalities",
 "type":"claim"
 },
 {
@@ -169563,7 +169563,6 @@
 "id":"l2-teacher-value-messages-predict-expectancy-utility-value",
 "newest_evidence":"2026",
 "path":"claims/l2-teacher-value-messages-predict-expectancy-utility-value.md",
-"source_checked":"2026-10-29",
 "status":"review",
 "title":"Class-aggregated perceived teacher value messages positively predict students' subsequent expectancy and utility value, but not lower effort cost",
 "type":"claim"
@@ -177794,6 +177793,7 @@
 "newest_evidence":"2026",
 "path":"claims/llama-strongest-human-llm-alignment-claude-weakest.md",
 "recheck_by":"2029",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Llama 4 Maverick shows the strongest human-LLM alignment, while Claude Sonnet 4 performs weakest with poor calibration",
 "type":"claim"
@@ -184022,13 +184022,14 @@
 "type":"claim"
 },
 {
-"description":"The negative effect of COVID remote learning was largest among lower primary low-SES students, reaching 25, 20 and 33 points (d = 0.25, 0.20, 0.33) in mathematics, reading and science by autumn 2021",
+"description":"The negative effect of COVID remote learning was largest among lower primary low-SES students; by autumn 2021 lower graders' losses reached 25, 20 and 33 points (d = -0.25, -0.20, -0.33) in mathematics, reading and science",
 "evidence_strength":"moderate",
 "id":"lower-primary-low-ses-largest-loss",
 "newest_evidence":"2023",
 "path":"claims/lower-primary-low-ses-largest-loss.md",
+"source_checked":"2026-10-29",
 "status":"review",
-"title":"The negative effect of COVID remote learning was largest among lower primary low-SES students, reaching 25, 20 and 33 points (d = 0.25, 0.20, 0.33) in mathematics, reading and science by autumn 2021",
+"title":"The negative effect of COVID remote learning was largest among lower primary low-SES students; by autumn 2021 lower graders' losses reached 25, 20 and 33 points (d = -0.25, -0.20, -0.33) in mathematics, reading and science",
 "type":"claim"
 },
 {
@@ -188494,7 +188495,7 @@
 "id":"mastery-learning-effects-larger-for-lower-aptitude-students",
 "newest_evidence":"1990",
 "path":"claims/mastery-learning-effects-larger-for-lower-aptitude-students.md",
-"source_checked":"2026-10-29",
+"source_checked":"2026-10-16",
 "status":"review",
 "title":"Mastery learning effects are larger for lower-aptitude students, narrowing the spread of achievement in a class",
 "type":"claim"
@@ -188515,7 +188516,7 @@
 "id":"mastery-learning-gains-persist-at-follow-up",
 "newest_evidence":"1990",
 "path":"claims/mastery-learning-gains-persist-at-follow-up.md",
-"source_checked":"2026-10-29",
+"source_checked":"2026-10-15",
 "status":"review",
 "title":"Mastery learning gains persist at follow-up examinations about eight weeks after instruction",
 "type":"claim"
@@ -188536,7 +188537,7 @@
 "id":"mastery-learning-improves-attitudes-toward-instruction",
 "newest_evidence":"1990",
 "path":"claims/mastery-learning-improves-attitudes-toward-instruction.md",
-"source_checked":"2026-10-29",
+"source_checked":"2026-10-18",
 "status":"review",
 "title":"Mastery learning improves students' attitudes toward the instruction and toward the subject",
 "type":"claim"
@@ -188547,7 +188548,7 @@
 "id":"mastery-learning-improves-outcomes",
 "newest_evidence":"1990",
 "path":"claims/mastery-learning-improves-outcomes.md",
-"source_checked":"2026-10-29",
+"source_checked":"2026-10-15",
 "status":"review",
 "title":"Mastery Learning Improves Outcomes",
 "type":"claim"
@@ -188620,7 +188621,6 @@
 "id":"mastery-probability-covariate-ancova-favors-adaptive",
 "newest_evidence":"2026",
 "path":"claims/mastery-probability-covariate-ancova-favors-adaptive.md",
-"source_checked":"2026-10-19",
 "status":"review",
 "title":"Exploratory ANCOVA controlling for mastery probability favored the adaptive condition, but is not interpretable as a causal treatment effect",
 "type":"claim"
@@ -192939,6 +192939,7 @@
 "id":"mental-rotation-moderates-alignment-benefit",
 "newest_evidence":"2026",
 "path":"claims/mental-rotation-moderates-alignment-benefit.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Mental rotation ability moderates the alignment benefit: higher-ability participants benefit more from recording–expected angle alignment",
 "type":"claim"
@@ -193927,13 +193928,14 @@
 "type":"claim"
 },
 {
-"description":"Metacognition correlates with meta-awareness in the gradually increasing complexity group in Round 2, but not in the consistently high complexity group",
+"description":"Metacognition correlates with meta-awareness in the gradually increasing complexity group in Round 2, but not significantly in the consistently high complexity group",
 "evidence_strength":"moderate",
 "id":"metacognition-meta-awareness-correlation-by-condition",
 "newest_evidence":"2024",
 "path":"claims/metacognition-meta-awareness-correlation-by-condition.md",
+"source_checked":"2026-10-29",
 "status":"review",
-"title":"Metacognition correlates with meta-awareness in the gradually increasing complexity group in Round 2, but not in the consistently high complexity group",
+"title":"Metacognition correlates with meta-awareness in the gradually increasing complexity group in Round 2, but not significantly in the consistently high complexity group",
 "type":"claim"
 },
 {
@@ -197173,7 +197175,7 @@
 "id":"misconception-refutation-conceptual-change-strategies",
 "newest_evidence":"2007",
 "path":"claims/misconception-refutation-conceptual-change-strategies.md",
-"source_checked":"2026-10-29",
+"source_checked":"2026-10-19",
 "status":"review",
 "title":"Readers with misconceptions engage in more conceptual change strategies than readers without misconceptions, but only when reading a refutation text",
 "type":"claim"
@@ -199367,13 +199369,14 @@
 "type":"claim"
 },
 {
-"description":"Model answers and self-assessment instructions do not improve monitoring accuracy after delayed diagramming",
+"description":"In one randomized experiment, neither model answers, self-assessment instructions nor their interaction significantly affected monitoring accuracy after delayed diagramming; equivalence was not tested",
 "evidence_strength":"moderate",
 "id":"model-answers-no-monitoring-accuracy-effect",
 "newest_evidence":"2024",
 "path":"claims/model-answers-no-monitoring-accuracy-effect.md",
+"source_checked":"2026-10-29",
 "status":"review",
-"title":"Model answers and self-assessment instructions do not improve monitoring accuracy after delayed diagramming",
+"title":"Model answers and self-assessment instructions showed no significant effect on monitoring accuracy after delayed diagramming",
 "type":"claim"
 },
 {
@@ -199382,6 +199385,7 @@
 "id":"model-answers-self-assessment-interaction-regulation",
 "newest_evidence":"2024",
 "path":"claims/model-answers-self-assessment-interaction-regulation.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Model answers combined with self-assessment instructions interactively improve monitoring-based regulation accuracy, with two model answers most effective",
 "type":"claim"
@@ -211801,6 +211805,7 @@
 "id":"no-climate-effect-second-generation",
 "newest_evidence":"2026",
 "path":"claims/no-climate-effect-second-generation.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"School diversity climate shows no significant effect on performance for non-immigrant or second-generation students",
 "type":"claim"
@@ -216108,6 +216113,7 @@
 "id":"no-ses-gap-reading-reasoning-loss",
 "newest_evidence":"2023",
 "path":"claims/no-ses-gap-reading-reasoning-loss.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"No SES difference was found in kindergarten children's learning loss for reading precursors and inductive reasoning",
 "type":"claim"
@@ -233888,6 +233894,7 @@
 "id":"peer-rejection-language-link-only-above-median-conflict",
 "newest_evidence":"2025",
 "path":"claims/peer-rejection-language-link-only-above-median-conflict.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Peer rejection is negatively related to later language competence only for children with above-median teacher-child conflict, not below-median conflict",
 "type":"claim"
@@ -233898,6 +233905,7 @@
 "id":"peer-rejection-language-link-only-below-median-closeness",
 "newest_evidence":"2025",
 "path":"claims/peer-rejection-language-link-only-below-median-closeness.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Peer rejection is negatively related to later language competence only for children with below-median teacher-child closeness, not above-median closeness",
 "type":"claim"
@@ -235898,6 +235906,7 @@
 "id":"performance-goal-instructions-effort-performance-gbl",
 "newest_evidence":"2024",
 "path":"claims/performance-goal-instructions-effort-performance-gbl.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Performance-approach goal instructions increase mental effort but decrease posttest performance in game-based learning",
 "type":"claim"
@@ -237094,7 +237103,6 @@
 "id":"personalized-learning-outperforms-standardized-settings",
 "newest_evidence":"2025",
 "path":"claims/personalized-learning-outperforms-standardized-settings.md",
-"source_checked":"2026-10-20",
 "status":"review",
 "title":"A narrative review of intelligent tutoring systems asserts, citing one source, that students in personalized learning environments outperform peers in standardized settings",
 "type":"claim"
@@ -253493,6 +253501,7 @@
 "id":"prompting-no-overall-srl-frequency-difference",
 "newest_evidence":"2026",
 "path":"claims/prompting-no-overall-srl-frequency-difference.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Metacognitive prompting did not significantly change the overall frequency of metacognitive SRL activities in main categories and subcategories",
 "type":"claim"
@@ -254780,7 +254789,6 @@
 "id":"ps-di-higher-intrinsic-in-scenario-cognitive-load",
 "newest_evidence":"2026",
 "path":"claims/ps-di-higher-intrinsic-in-scenario-cognitive-load.md",
-"source_checked":"2026-10-29",
 "status":"review",
 "title":"PS-DI learners reported higher intrinsic in-scenario cognitive load during problem solving (d = .53)",
 "type":"claim"
@@ -282183,6 +282191,7 @@
 "id":"self-efficacy-cognitive-load-correlate-attention",
 "newest_evidence":"2023",
 "path":"claims/self-efficacy-cognitive-load-correlate-attention.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Classroom management self-efficacy and perceived cognitive load correlate with visual attention measures",
 "type":"claim"
@@ -283308,7 +283317,7 @@
 "id":"self-paced-mastery-programs-reduce-college-course-completion",
 "newest_evidence":"1990",
 "path":"claims/self-paced-mastery-programs-reduce-college-course-completion.md",
-"source_checked":"2026-10-29",
+"source_checked":"2026-10-14",
 "status":"review",
 "title":"Self-paced mastery programs (PSI) reduce college course completion, though not by enough to explain their examination advantage",
 "type":"claim"
@@ -285946,6 +285955,7 @@
 "id":"ses-not-moderator-mindset-correlation",
 "newest_evidence":"2018",
 "path":"claims/ses-not-moderator-mindset-correlation.md",
+"source_checked":"2026-10-20",
 "status":"review",
 "title":"Socioeconomic status does not significantly moderate the mind-set–achievement correlation",
 "type":"claim"
@@ -287650,13 +287660,14 @@
 "type":"claim"
 },
 {
-"description":"Shared text reading benefits students with intellectual disability whether or not they need augmentative and alternative communication systems",
+"description":"In a multilevel meta-analysis, a moderator test found no significant difference in shared text reading effect sizes between students with intellectual disability who need augmentative and alternative communication and those who communicate verbally; equivalence was not tested",
 "evidence_strength":"moderate",
 "id":"shared-reading-effective-regardless-aac-status",
 "newest_evidence":"2024",
 "path":"claims/shared-reading-effective-regardless-aac-status.md",
+"source_checked":"2026-10-29",
 "status":"review",
-"title":"Shared text reading benefits students with intellectual disability whether or not they need augmentative and alternative communication systems",
+"title":"Shared text reading effects for students with intellectual disability did not differ significantly between students who need augmentative and alternative communication and those who communicate verbally",
 "type":"claim"
 },
 {
@@ -288678,6 +288689,7 @@
 "id":"si-pass-rct-no-performance-effect",
 "newest_evidence":"2025",
 "path":"claims/si-pass-rct-no-performance-effect.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"In a randomized controlled trial, SI-PASS participation did not significantly improve final exam performance compared to a waiting-list control group",
 "type":"claim"
@@ -299122,7 +299134,6 @@
 "id":"sri-no-differential-effects-background-ability",
 "newest_evidence":"2016",
 "path":"claims/sri-no-differential-effects-background-ability.md",
-"source_checked":"2026-10-20",
 "status":"review",
 "title":"Intervention effects of SRI did not differ by student background or ability variables",
 "type":"claim"
@@ -303771,7 +303782,6 @@
 "id":"strategies-linked-to-target-emotions-reappraisal-competence-pronounced",
 "newest_evidence":"2025",
 "path":"claims/strategies-linked-to-target-emotions-reappraisal-competence-pronounced.md",
-"source_checked":"2026-10-29",
 "status":"review",
 "title":"Achievement emotion regulation strategies are linked to students' target emotions, with reappraisal and competence development showing the most pronounced relations",
 "type":"claim"
@@ -303802,7 +303812,6 @@
 "id":"strategies-relate-wellbeing-health-achievement",
 "newest_evidence":"2025",
 "path":"claims/strategies-relate-wellbeing-health-achievement.md",
-"source_checked":"2026-10-29",
 "status":"review",
 "title":"Achievement emotion regulation strategies relate to well-being, health, and academic achievement across three studies",
 "type":"claim"
@@ -305108,6 +305117,7 @@
 "newest_evidence":"2026",
 "path":"claims/structured-free-form-llm-deviation-contrast.md",
 "recheck_by":"2029",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Under LLM evaluators, structured rubrics produced larger negative deviations from the human baseline than free-form rubrics, the opposite direction of the human-evaluator pattern",
 "type":"claim"
@@ -306676,6 +306686,7 @@
 "id":"student-positive-emotions-lower-teacher-negative-emotions",
 "newest_evidence":"2026",
 "path":"claims/student-positive-emotions-lower-teacher-negative-emotions.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Students' higher positive emotions predicted lower negative emotions in teachers",
 "type":"claim"
@@ -308430,13 +308441,14 @@
 "type":"claim"
 },
 {
-"description":"Students consistently prefer human-generated feedback over AI-generated feedback when they know its origin",
+"description":"A literature summary in Pozdniakov et al. (2026), not their own data, reports that students perceive instructor feedback as more useful, helpful, trustworthy and genuine than AI feedback, and downgrade AI feedback once they know its origin",
 "evidence_strength":"weak",
 "id":"students-prefer-human-feedback-over-ai",
 "newest_evidence":"2026",
 "path":"claims/students-prefer-human-feedback-over-ai.md",
+"source_checked":"2026-10-29",
 "status":"review",
-"title":"Students consistently prefer human-generated feedback over AI-generated feedback when they know its origin",
+"title":"Prior studies summarised in one article report that students rate instructor feedback above AI-generated feedback, and rate AI feedback lower once they know its origin",
 "type":"claim"
 },
 {
@@ -316068,7 +316080,6 @@
 "id":"task-difficulty-adaptation-no-learning-benefit-second-grade",
 "newest_evidence":"2026",
 "path":"claims/task-difficulty-adaptation-no-learning-benefit-second-grade.md",
-"source_checked":"2026-10-20",
 "status":"review",
 "title":"Adaptive task difficulty in an ITS did not improve second-graders' mathematics posttest performance compared with an identical non-adaptive ITS",
 "type":"claim"
@@ -319247,6 +319258,7 @@
 "id":"teacher-negative-emotions-decrease-over-school-day",
 "newest_evidence":"2026",
 "path":"claims/teacher-negative-emotions-decrease-over-school-day.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Teachers' negative emotions decreased during the school day while their positive emotions showed no change",
 "type":"claim"
@@ -319257,6 +319269,7 @@
 "id":"teacher-negative-emotions-lower-student-positive-emotions",
 "newest_evidence":"2026",
 "path":"claims/teacher-negative-emotions-lower-student-positive-emotions.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Teachers' higher lesson-specific negative emotions predicted lower positive emotions in students",
 "type":"claim"
@@ -319267,7 +319280,6 @@
 "id":"teacher-negativity-autonomous-motivation-linked-change",
 "newest_evidence":"2025",
 "path":"claims/teacher-negativity-autonomous-motivation-linked-change.md",
-"source_checked":"2026-10-29",
 "status":"review",
 "title":"Higher levels of and stronger increases in perceived negative relationships with teachers are associated with lower levels of and stronger decreases in autonomous academic motivation across the secondary school transition",
 "type":"claim"
@@ -323509,6 +323521,7 @@
 "id":"technology-use-not-significant-moderator",
 "newest_evidence":"2024",
 "path":"claims/technology-use-not-significant-moderator.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Technology use (read-aloud, response mode, or interactive instruction) does not significantly moderate shared text reading effects",
 "type":"claim"
@@ -327944,7 +327957,6 @@
 "id":"three-omr-motivational-emotional-profiles-grade4",
 "newest_evidence":"2026",
 "path":"claims/three-omr-motivational-emotional-profiles-grade4.md",
-"source_checked":"2026-10-29",
 "status":"review",
 "title":"Hong Kong fourth graders' OMR self-efficacy and emotions form three distinct motivational-emotional profiles: positive, moderate, and ambivalent",
 "type":"claim"
@@ -335278,6 +335290,7 @@
 "id":"tutor-tutee-synergistic-effect",
 "newest_evidence":"2020",
 "path":"claims/tutor-tutee-synergistic-effect.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"A synergistic effect between tutor and tutee roles may explain the peer agent's advantage",
 "type":"claim"
@@ -342975,6 +342988,7 @@
 "id":"vigorous-activity-predicts-o-flu-fle-not-ela",
 "newest_evidence":"2023",
 "path":"claims/vigorous-activity-predicts-o-flu-fle-not-ela.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Vigorous physical activity significantly predicts originality, fluency and flexibility in regression models, but not elaboration",
 "type":"claim"
@@ -349415,6 +349429,7 @@
 "id":"within-person-grade-emotion-correlations",
 "newest_evidence":"2022",
 "path":"claims/within-person-grade-emotion-correlations.md",
+"source_checked":"2026-10-29",
 "status":"review",
 "title":"Within-person deviations of enjoyment and pride correlate positively with grade deviations (r = .12 to .55), and negative-emotion deviations correlate negatively (r = −.17 to −.44)",
 "type":"claim"

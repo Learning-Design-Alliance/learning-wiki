@@ -54,4 +54,4 @@ Study 2 qualitative data: students wrote that "the AI program provides me with c
 - [Students found AI feedback helpful and actionable more often than not across a semester of reflective writing](students-find-ai-feedback-helpful-more-often-than-not.md) — related
 - [Feedback source (human tutor vs GPT-4) had no significant effect on ENL students' posttest writing scores](feedback-source-no-posttest-effect-enl.md) — related
 - [Most AI assistance focused on pedagogical strengths, with 79% of instances addressing feedback effectiveness](ai-assistance-focused-on-pedagogical-strengths.md) — related
-- [Students consistently prefer human-generated feedback over AI-generated feedback when they know its origin](students-prefer-human-feedback-over-ai.md) — related
+- [Prior studies summarised in one article report that students rate instructor feedback above AI-generated feedback, and rate AI feedback lower once they know its origin](students-prefer-human-feedback-over-ai.md) — related
