@@ -57,3 +57,4 @@ Longitudinal latent profile analysis of survey data from Black adolescents in fi
 - [No cross-lag effects were observed between racial discrimination and racial centrality over three years](no-cross-lag-discrimination-centrality.md) — related
 - [Latent profile analyses of interest dimensions best support two nearly identical sets of six profiles at both time points](lpa-six-interest-profiles-two-time-points.md) — related
 - [Adolescents' math and L1 self-concept and interest development across Grades 7–9 is best described by a single homogeneous trajectory profile](one-class-motivational-trajectory-grades-7-9.md) — related
+- [Instructors' strategies and beliefs were associated with the organization and trajectory in which they worked](organization-associated-with-instructor-beliefs.md) — related

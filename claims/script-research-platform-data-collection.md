@@ -49,3 +49,4 @@ Descriptive statement (type d) about the system's research function: it enables 
 - A four-state semi-Markov model distinguishing jump editing from local editing fits keystroke-log writing data significantly better than a three-state model — related
 - [Screen reader choice affects time and effort for accessing math: JAWS users completed a quadratic-equation task faster than NVDA users](screen-reader-effort-quadratic-equation-bvi.md) — related
 - [The ITS inner and outer loops are instances of the regulative loop at step and task grain sizes](inner-outer-loops-as-regulative-loops.md) — related
+- [Multi-platform comparison without exchanging data addresses privacy and data security concerns](multi-platform-comparison-avoids-data-exchange-privacy.md) — related

@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**1332 entries** · 0 stable · 1332 in review · 0 drafts
+**1333 entries** · 0 stable · 1333 in review · 0 drafts
 
 ---
 
@@ -612,6 +612,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 * [ICE-T: a didactic framework integrating intermodal transfer, computational thinking, and explanatory thinking for ML education](ice-t-didactic-framework-ml.md) - ICE-T is a multi-faceted didactic framework for teaching machine learning whose name mnemonically captures its components: Intermodal Transfer grounded in Bruner's enactive-iconic-symbolic principle, Computational Thi...
 * [iCub LLM-powered narrative HRI system architecture](icub-llm-narrative-storytelling-system.md) - A companion-like social robotic platform in which the iCub humanoid and a human partner co-create a story in turn from pictures on nine soft cubes, each story built on a sequence of three cubes.
+* [Idea-sharing platform for collaborative development of educational ideas](idea-sharing-platform-collaborative-oer-development.md) - The study used an online platform dedicated to idea sharing for new OER and courses, supporting collaborative OER development between interested peers.
 * [Ideation Hub online brainstorming platform](ideation-hub-hybrid-brainstorming-platform.md) - The Ideation Hub is an online platform built for this study to run structured hybrid brainstorming sessions.
 * [Identity-Centered E-Textile Making](identity-centered-e-textile-making.md) - A maker pattern combining e-textiles (sewable circuits, LEDs, microcontrollers) with explicit invitation for participants to author identity into their design choices, so STEM making and identity expression develop together rather than separately.
 * [iEN lesson pages combining video clips, avatar explanations, knowledge maps, and e-books](ien-lesson-pages-multimedia-resources.md) - Lesson pages on the iEN portal package several asynchronous learning resources for each lesson.

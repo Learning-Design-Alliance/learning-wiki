@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 469 claims (218 for, 227 mixed, 24 against) · 242 studies (117 causal, 51 associational, 29 review, 16 theoretical, 12 quant-synthesis, 10 qualitative, 7 design), `q1`–`q4` · 83 of 242 report an effect size · 462 claims rest on one study
+> **Evidence** · 470 claims (218 for, 228 mixed, 24 against) · 243 studies (118 causal, 51 associational, 29 review, 16 theoretical, 12 quant-synthesis, 10 qualitative, 7 design), `q1`–`q4` · 83 of 243 report an effect size · 463 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -512,6 +512,7 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Among students who started with the default strategy, Expanded students were most likely to switch to the base-unit strategy and maintain it](../claims/expanded-strategy-switching-from-default.md) [+W] — attached 2026-10-29 from Ana Saavedra · Daniel L. Schwartz (2026), which proposed "Internal psychological cue account of inquiry-strategy transfer"; tests this page's relationship.
 - [The POED-based VR approach improved students' metacognition tendency more than the POEE-based VR approach](../claims/poed-vr-improves-metacognition-tendency.md) [~W]
 - [The integrated training program did not improve self-assessment accuracy on any of six ATC competences](../claims/integrated-training-no-self-assessment-accuracy-gain.md) [-W]
+- [Learners' judgments of learning track actual test performance in single-evaluation mode but not in joint-evaluation mode](../claims/jol-divergence-single-vs-joint-evaluation.md) [~W]
 
 ## The evidence by question
 

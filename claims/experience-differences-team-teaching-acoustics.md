@@ -49,3 +49,4 @@ Group comparison of rotated PCA component scores from 34 analysed team-teaching 
 ## Related Claims
 - [Teacher talk differs acoustically by student cohort: undergraduate classes show higher loudness-dynamics components while postgraduate classes show higher spectral-slope and voice-quality components](cohort-differences-team-teaching-acoustics.md) — related
 - [Collaborative tasks elicit higher loudness-dynamics components in team-teacher talk than individual tasks, which show higher spectral-slope and voice-quality components](task-design-differences-team-teaching-acoustics.md) — related
+- [No significant effect of the intervention on speech rate or spectral slope](no-significant-effect-speech-rate-spectral-slope.md) — related

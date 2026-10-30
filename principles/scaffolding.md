@@ -27,7 +27,7 @@ sources:
 # Scaffolding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 86 claims (24 for, 52 mixed, 10 against) · 62 studies (30 causal, 11 review, 6 quant-synthesis, 6 design, 5 theoretical, 2 associational, 2 qualitative), `q1`–`q4` · 19 of 62 report an effect size · 79 claims rest on one study
+> **Evidence** · 87 claims (25 for, 52 mixed, 10 against) · 63 studies (31 causal, 11 review, 6 quant-synthesis, 6 design, 5 theoretical, 2 associational, 2 qualitative), `q1`–`q4` · 19 of 63 report an effect size · 80 claims rest on one study
 
 ## Conditional relationship
 
@@ -169,6 +169,7 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 - [Teachers and students expect PAs to scaffold self-regulated learning by providing hints and questions rather than directly giving solutions](../claims/pa-scaffolding-hints-not-solutions.md) [~W]
 - [Highly scaffolded tutoring with an unfamiliar strategy yields larger conceptual learning gains than lowly scaffolded tutoring with strategy freedom](../claims/high-scaffolding-unfamiliar-strategy-conceptual-gains.md) [+W]
 - [Procedural learning gains do not significantly differ between the highly and lowly scaffolded tutoring systems](../claims/procedural-gains-no-difference-between-scaffolding-levels.md) [~W]
+- [Scripting and self-monitoring scaffolds lead to higher quality peer feedback than no scaffolding](../claims/scripting-self-monitoring-scaffolds-higher-quality.md) [+W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md)

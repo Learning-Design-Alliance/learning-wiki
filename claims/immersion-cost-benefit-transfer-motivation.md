@@ -82,3 +82,4 @@ The review reports, citing Frederiksen et al. (2020) in surgical training, that 
 - [High-immersion VR produced significantly higher enjoyment than video instruction, with a medium effect size](vr-higher-enjoyment-than-video.md) — a narrower finding that bears on this claim
 - [VR and video instruction groups reported comparable cognitive load in the anatomy lesson](vr-video-comparable-cognitive-load.md) — related
 - [Qualitative data offer a plausible explanation for the virtual group's higher enjoyment and engagement despite equivalent learning outcomes](qualitative-data-explain-svw-appeal.md) — related
+- [Knowledge transfer outcomes show the largest effect sizes of immersive procedural training (g = 1.80), while knowledge gain and retention effects are not significant](ivr-knowledge-transfer-largest-effect.md) — related

@@ -56,3 +56,4 @@ Grades six months (Sample 1) and two months (Sample 2) later were regressed on s
 - [For Han students, metacognitive knowledge followed a quadratic (accelerating) growth model while vocabulary breadth followed a linear growth model, and initially high vocabulary knowledge predicted faster later vocabulary growth](han-mck-quadratic-vk-linear-growth.md) — related
 - [Quadratic latent growth fits MAP longitudinal achievement data better than linear growth across ten states](quadratic-growth-fits-map-better-than-linear.md) — related
 - [In 12 countries, a level-dependent incongruence polynomial with free cubic effect of control explained 7.8% of achievement variance (a 30.9% increase over the additive model)](group2-incongruence-rotated-y-12-countries.md) — related
+- [Relationship between time spent and performance is non-linear, with a positive squared term](adaptive-time-nonlinear-relation.md) — related

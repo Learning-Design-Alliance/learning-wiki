@@ -13,7 +13,7 @@ generated:
 # Alphabet Knowledge and Print Awareness
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 66 claims (36 show a difference, 15 mixed, 15 no difference) · 35 studies (21 causal, 6 quant-synthesis, 5 associational, 1 review, 1 qualitative, 1 design), `q1`–`q4` · 23 of 35 report an effect size · 65 claims rest on one study
+> **Evidence** · 70 claims (39 show a difference, 15 mixed, 16 no difference) · 36 studies (21 causal, 6 quant-synthesis, 6 associational, 1 review, 1 qualitative, 1 design), `q1`–`q4` · 23 of 36 report an effect size · 69 claims rest on one study
 
 ## Description
 Alphabet knowledge is knowing the names, written forms and sounds of letters, including letter combinations that represent a single sound. Print awareness is the understanding that print carries meaning and has different functions, and of how it works on the page (that text is read in a set direction, that words are separated by spaces, and so on), something experienced readers forget they had to learn. Both are measured in early childhood: alphabet knowledge by asking children to name and sound out randomly ordered upper- and lower-case letters, print awareness by informal assessments in which a child handles a book.
@@ -106,6 +106,10 @@ Both factors come from the LVN's PK-3 literacy area. They lead into [phonologica
 - [Children retain trained word-object and letter-sound associations four to six months after the intervention](../claims/long-term-memory-trained-associations-4-6-months.md) [+W] — instruction changes it
 - [Initial letter knowledge predicted final letter knowledge in GraphoGame logs, with play time adding a further 6% of variance](../claims/graphogame-initial-letter-knowledge-predicts-final.md) [+W] — learners who differ on it differ in outcomes
 - [Letter-sound knowledge recorded by GraphoGame correlated significantly with paper-and-pencil spelling (decoding) test scores](../claims/graphogame-letter-sound-correlates-spelling-test.md) [+M] — learners who differ on it differ in outcomes
+- [Children aged 2–4 years' home literacy experiences relate to their emergent literacy skill development](../claims/home-literacy-experiences-shape-emergent-literacy.md) [+M] — instruction changes it
+- [Children's access to tablet apps at home is positively associated with print knowledge](../claims/tablet-app-access-positively-associated-print-knowledge.md) [+M] — instruction changes it
+- [Children's frequency of writing with touch screen tablets at home is positively associated with print awareness, print knowledge and sound awareness](../claims/tablet-writing-frequency-positively-associated-emergent-literacy.md) [+M] — instruction changes it
+- [Frequency of e-book reading on tablets shows no association with children's emergent literacy skills](../claims/ebook-reading-frequency-no-association-emergent-literacy.md) [-M] — instruction changes it
 
 ## Measures
 - **Concepts About Print (CAP)** (Clay, 2000): informal assessment of print awareness for kindergarten and first-grade children.

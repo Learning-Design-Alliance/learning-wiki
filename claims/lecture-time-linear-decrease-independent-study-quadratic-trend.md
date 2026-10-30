@@ -50,3 +50,5 @@ Aggregated time-series trend analysis across 105 students' daily diary records o
 - [Math self-concept declined then leveled off (U-shaped), L1 self-concept declined slightly, math interest declined while L1 interest increased across Grades 7–9](domain-divergent-motivation-trends-lower-secondary.md) — related
 - [Using breaks between lectures for independent study is an independent positive predictor of daily study satisfaction beyond overall time investment](breaks-for-independent-study-predict-satisfaction.md) — related
 - [Students' interest in the lesson content declined as the semester progressed regardless of condition](lesson-interest-declines-over-time.md) — related
+- [Relationship between time spent and performance is non-linear, with a positive squared term](adaptive-time-nonlinear-relation.md) — related
+- [Media multitasking rates increase over time during live university lectures](media-multitasking-increases-over-lecture-time.md) — related

@@ -57,3 +57,4 @@ Repeated-measures ANOVA manipulation check showed a significant condition by mea
 - [Group-level scaffolding training increases teacher process support and student participation](group-level-scaffolding-training-increases-teacher-process-support-and-student-participation.md) — related
 - [Teachers who worked with the model of contingent teaching increased their teaching quality more than teachers who did not participate, especially on the contingent-teaching steps](mct-pd-increased-teaching-quality-more-than-control.md) — possibly the same claim (merge candidate)
 - [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — a broader claim this one bears on
+- [Teaching practices increase in both intervention conditions as a manipulation check](teaching-practices-increase-both-intervention-conditions.md) — related

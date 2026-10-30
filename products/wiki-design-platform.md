@@ -32,6 +32,7 @@ A collaborative-learning wiki platform developed by Gerry Stahl and colleagues t
 - [Mr. Vetro simulation framework](mr-vetro-simulation-framework.md)
 - [Knowledge Catalyser](knowledge-catalyser.md)
 - [Metafora system](metafora-system.md)
+- [ILDE+ (Integrated Learning Design Environment Plus)](ilde-integrated-learning-design-environment-plus.md)
 
 ## Key Sources
 - Gerry Stahl & Friedrich Hesse. (2009). Paradigms of shared knowledge. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-009-9075-7

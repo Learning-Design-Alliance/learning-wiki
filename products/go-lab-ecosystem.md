@@ -34,6 +34,7 @@ The Go-Lab ecosystem, including the Graasp authoring and implementation platform
 - [WISE (Web-based Inquiry Science Environment)](wise-web-based-inquiry-science-environment.md)
 - [SCY-Lab](scy-lab.md)
 - [STIMEY hybrid STEM learning environment](stimey-hybrid-stem-learning-environment.md)
+- [ILDE+ (Integrated Learning Design Environment Plus)](ilde-integrated-learning-design-environment-plus.md)
 
 ## Key Sources
 - María Jesús Rodríguez-Triana, Luis P. Prieto, Tobias Ley, Ton de Jong, Denis Gillet. (2020). Social practices in teacher knowledge creation and innovation adoption: a large-scale study in an online instructional design community for inquiry learning. International Journal of Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-020-09331-5

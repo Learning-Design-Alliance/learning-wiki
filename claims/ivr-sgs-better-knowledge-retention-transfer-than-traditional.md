@@ -73,3 +73,4 @@ The review summarizes two eligible studies: Li et al. (2017) on earthquake self-
 - [IVR serious games validate evacuation facility designs, with participants preferring green and white flashing exit-portal lights](ivr-sgs-evacuation-facility-validation.md) — related
 - [IVR serious games show that other evacuees strongly influence participants' evacuation behavior](ivr-sgs-social-influence-evacuation-behavior.md) — related
 - [A serious virtual world class does not produce statistically significant differences in learning effectiveness compared with a traditional class of identical learning objectives and contents](svw-no-learning-effectiveness-difference-e-junior.md) — reports the opposite
+- [Knowledge transfer outcomes show the largest effect sizes of immersive procedural training (g = 1.80), while knowledge gain and retention effects are not significant](ivr-knowledge-transfer-largest-effect.md) — related

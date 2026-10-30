@@ -49,3 +49,4 @@ Qualitative interview findings from the six-student NNG 4 study. The article sta
 - [GAI tools enriched student ideation, aesthetic development and confidence in architecture and design education, especially for lower-competency learners](gai-tools-ideation-architecture-design-lower-competency.md) — related
 - [Interviewed students showed excitement about NNG 4's Lighthouse Island, where they could construct buildings and purchase ships with earned materials and coins](nng4-lighthouse-island-ownership-excitement.md) — related
 - [Most interviewed students did not use NNG 4's tutorial and hint options, and preferred harder game difficulty](nng4-tutorial-hint-largely-unused-preferred-difficulty.md) — related
+- [Children's most frequent impressions concern ease of use of tangible interface and graphical UI](children-impressions-ease-of-use-and-gui.md) — related

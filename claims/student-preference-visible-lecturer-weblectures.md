@@ -50,3 +50,4 @@ The article's abstract reports this as a finding from prior studies, cited in th
 - [Lecturer visibility has a positive effect on reported attention in weblectures when watching lasts more than 15 minutes](lecturer-visibility-positive-effect-reported-attention-weblectures-over-15-minutes.md) — related
 - [Audio-visual lecture clips produce better comprehension than audio-only clips, and the multimedia advantage holds at accelerated speed](audio-visual-outperforms-audio-only-at-speed.md) — related
 - [Temporary instructor presence on lecture slides did not enhance retention or transfer learning outcomes across two preregistered experiments](temporary-instructor-presence-no-learning-benefit.md) — related
+- [Learners prefer and believe they learn best from lectures with visuals of the instructor, despite objective comprehension costs](instructor-presence-effect-liking-learning-dissociation.md) — related

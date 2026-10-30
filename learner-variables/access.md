@@ -13,7 +13,7 @@ generated:
 # Access
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 83 claims (57 show a difference, 20 mixed, 6 no difference) · 61 studies (28 associational, 8 review, 7 qualitative, 6 theoretical, 5 causal, 5 design, 2 quant-synthesis), `q1`–`q4` · 5 of 61 report an effect size · 79 claims rest on one study
+> **Evidence** · 84 claims (58 show a difference, 20 mixed, 6 no difference) · 62 studies (29 associational, 8 review, 7 qualitative, 6 theoretical, 5 causal, 5 design, 2 quant-synthesis), `q1`–`q4` · 5 of 62 report an effect size · 80 claims rest on one study
 
 ## Description
 Whether a learner can perceive and operate the material at all: device, bandwidth, screen reader, captions, motor demands. Distinct from [digital literacy](digital-literacy.md), which is whether they can *drive* it. Access is binary in a way the other dimensions are not — a design that cannot be perceived does not teach less, it teaches nothing — which is why it is checked rather than optimised.
@@ -127,6 +127,7 @@ Whether a learner can perceive and operate the material at all: device, bandwidt
 - [Digital technology broadens inclusion in Critical Indigenous Studies by connecting remote communities and knowledge holders, but can exclude those lacking technology access](../claims/cis-digital-inclusion-dilemma.md) [~M] — learners who differ on it differ in outcomes
 - [Technological prerequisites such as internet access and device availability were identified only by the South African panel, with equity of education as a distal outcome](../claims/technological-prerequisites-south-african-panel-equity.md) [+M] — learners who differ on it differ in outcomes
 - [Frequent map users showed higher orientation and access ratios, yet orientation and access remained the weakest performance ratios](../claims/map-use-orientation-access-correlations.md) [~M] — instruction changes it
+- [Children's access to tablet apps at home is positively associated with print knowledge](../claims/tablet-app-access-positively-associated-print-knowledge.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

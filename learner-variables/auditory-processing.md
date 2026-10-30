@@ -13,7 +13,7 @@ generated:
 # Auditory Processing
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 52 claims (28 show a difference, 16 mixed, 8 no difference) · 27 studies (12 causal, 8 associational, 3 review, 2 quant-synthesis, 2 theoretical), `q1`–`q3` · 11 of 27 report an effect size · 50 claims rest on one study
+> **Evidence** · 53 claims (29 show a difference, 16 mixed, 8 no difference) · 28 studies (13 causal, 8 associational, 3 review, 2 quant-synthesis, 2 theoretical), `q1`–`q3` · 12 of 28 report an effect size · 51 claims rest on one study
 
 ## Description
 Auditory processing is what the brain does with sound once it has been heard: locating sounds, telling them apart and interpreting them as meaningful, so that a listener can attend to, understand and remember speech and control their own speaking. It underpins spoken language and listening comprehension and lays the foundation for reading and writing, including [phonological awareness](phonological-awareness.md), at every age the LVN covers from pre-kindergarten to adulthood. It is still developing through adolescence, when academic demands on listening rise. Difficulties show up most where speech must be followed against background noise, as in a busy classroom, and learners with dyslexia may process speech sounds differently. It is measured with standardised batteries of auditory attention, auditory memory and phonological skills, and with tests of auditory processing speed. It is distinct from hearing itself, which [access](access.md) covers, though hearing loss affects it; in older adults, age-related decline in hearing speech in noise is part of the picture.
@@ -88,6 +88,7 @@ Auditory processing is what the brain does with sound once it has been heard: lo
 - [RMT use improves listening comprehension of oral directions in noise for inattentive children with listening difficulties](../claims/rmt-improves-listening-comprehension-inattentive-children.md) [+M] — instruction changes it
 - [RMT use improves speech recognition in noise for inattentive children with listening difficulties during a 4-week crossover RCT](../claims/rmt-improves-speech-recognition-inattentive-children.md) [+M] — instruction changes it
 - [Students and teachers report improved classroom listening during RMT use, with reduced teacher-rated inattention and hyperactivity](../claims/rmt-improves-reported-classroom-listening-and-adhd-symptoms.md) [+M] — instruction changes it
+- [Listening proficiency is the strongest predictor of L2 listening comprehension](../claims/listening-proficiency-strongest-comprehension-predictor.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Test of Auditory Processing Skills** (Martin, Brownell & Hamaguchi, 2018): auditory attention, auditory memory and phonological skills for ages 4 to 18.

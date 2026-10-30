@@ -51,3 +51,6 @@ Factor analysis of the ICT-use survey responses of 543 first- and second-year un
 - [In the EFA with 512 secondary school teachers, only two factors (PU and PEoU) were extracted from the proposed six-factor acceptance framework](efa-two-factors-pu-peou-gamified-efl.md) — related
 - [A principal component analysis of the new cognitive load questionnaire yields a 15-item, three-component solution explaining 74.3% of total variance](pca-three-component-15-item-cognitive-load-solution.md) — related
 - [Exploratory factor analysis in the pilot stage supported a four-factor solution, with three items removed (a weak loading, a cross-loading, and a low item–total correlation with duplicated content)](pilot-efa-four-factor-solution.md) — related
+- [Four well-differentiated clusters of students emerge from the factor-analysis-based cluster analysis by ICT consideration and use](four-clusters-of-students-by-ict-consideration-use.md) — related
+- [University of Salamanca students most frequently use basic and personal interrelation programs, search engines, online video portals and virtual libraries](students-mainly-use-basic-programs-search-engines-video-portals.md) — related
+- [Factor analysis identifies three components of ICT consideration: help/importance, tools for an end, and negative valuation](three-components-of-ict-consideration.md) — related

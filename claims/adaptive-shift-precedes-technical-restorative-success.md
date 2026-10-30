@@ -57,3 +57,4 @@ Practitioner-guide assertion (expert interpretation, no empirical study reported
 - [Providing a learner profile shifts an LLM's selected instructional strategies from content-focused to learner-centered](learner-profile-shifts-llm-instructional-strategy-selection.md) — related
 - [Adaptive skill is becoming increasingly essential for life and work](adaptive-skill-essential-life-work.md) — related
 - [School reform toward making-centered curricula requires substantial adaptation of educators' skills and beliefs](maker-reform-requires-educator-adaptation.md) — a narrower finding that bears on this claim
+- [Instructors' strategies and beliefs were associated with the organization and trajectory in which they worked](organization-associated-with-instructor-beliefs.md) — related

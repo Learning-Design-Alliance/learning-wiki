@@ -13,7 +13,7 @@ generated:
 # Differentiated Team Roles
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (6 for, 2 mixed) · 12 studies (4 causal, 3 review, 3 design, 1 quant-synthesis, 1 associational), `q2`–`q3` · 3 of 12 report an effect size · 5 claims rest on one study
+> **Evidence** · 9 claims (6 for, 3 mixed) · 13 studies (4 causal, 4 review, 3 design, 1 quant-synthesis, 1 associational), `q2`–`q3` · 3 of 13 report an effect size · 6 claims rest on one study
 
 ## Description
 Differentiated team roles assign each member of a collaborative group a distinct function — such as facilitator, recorder, skeptic, or resource manager — so that participation is structured rather than optional. Roles create positive interdependence: the group cannot succeed unless each member performs their function, which raises individual accountability and distributes cognitive labor across the team.
@@ -60,6 +60,7 @@ Structured roles counteract the well-documented failure modes of unstructured gr
 - [Time dependence, cascading events, and distinct player roles added to a redesigned AR engine fostered collaboration between teams in subsequent game iterations](../claims/ar-gen2-features-foster-between-team-collaboration.md) [+W] — attached 2026-10-16 from Klopfer et al. (2004), which proposed "Redesigned AR engine with time dependence, cascading events, and distinct player roles (Charles River City and Mad City Murder)".
 - [Kindergarten triads sharing one computer with three mice and interdependent roles enhanced social skills](../claims/kindergarten-triads-shared-computer-social-skills.md) [+W]
 - [Even with skill-based qualifications, LLM team assignment remains gender-biased: when two teams are equally valid, models favor Core Development for male personas over Interface Design](../claims/llm-team-formation-gender-bias-skill-based.md) [~W]
+- [Half of the reviewed games have a multiplayer design, mostly team-based, with distinct roles and inter-team competition less utilized](../claims/multiplayer-team-design-heritage-games.md) [~W]
 
 ## The evidence by question
 - *Which structure matters: group rewards tied to each member's learning, assigned roles, or interdependence of any kind?* [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [+M]

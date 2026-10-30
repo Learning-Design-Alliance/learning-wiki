@@ -54,3 +54,4 @@ Device categorization of the reviewed studies (Fig. 5). The review reports 96 no
 - Publications on VR/AR-supported K-12 STEM learning grew rapidly after 2017, with 2022 output four times the 2010 level — related
 - [Situated, task-based and game-based learning were the most used strategies in VR/AR-supported K-12 STEM learning](situated-task-game-based-top-vr-ar-strategies.md)
 - [The HTC Vive head-mounted devices were mostly used to conduct the experiments](htc-vive-most-used-device.md) — related
+- [Participants used camera zoom and translation features but rarely tilt, with long shots dominating](camera-features-used-but-not-extensively.md) — related

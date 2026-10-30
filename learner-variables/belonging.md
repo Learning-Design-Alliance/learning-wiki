@@ -13,7 +13,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 109 claims (81 show a difference, 25 mixed, 3 no difference) · 81 studies (24 review, 15 associational, 13 qualitative, 12 causal, 7 design, 6 theoretical, 4 quant-synthesis), `q1`–`q4` · 5 of 81 report an effect size · 104 claims rest on one study
+> **Evidence** · 111 claims (82 show a difference, 26 mixed, 3 no difference) · 82 studies (24 review, 15 associational, 13 causal, 13 qualitative, 7 design, 6 theoretical, 4 quant-synthesis), `q1`–`q4` · 5 of 82 report an effect size · 106 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -146,6 +146,8 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [Most of the 20 ChatGPT learning activities (11 of 20) better satisfy competence, fewer satisfy autonomy, and the fewest satisfy relatedness.](../claims/chatgpt-activities-competence-needs-dominance.md) [+W] — instruction changes it
 - [Gamification significantly facilitates students' perceptions of relatedness, based on few interventions](../claims/gamification-facilitates-perceived-relatedness.md) [+W] — instruction changes it
 - [Prior experience in a learning community interacts with participants' connectedness to the community in shaping socioemotional learning dynamics](../claims/prior-experience-interacts-with-community-connectedness.md) [~W] — an instructional effect differs with it
+- [Stereotype threat affects women's attribution of failure in a computer task: under negative threat, women attribute failure more internally and men more externally](../claims/stereotype-threat-attribution-of-failure-computer-task.md) [~M] — learners who differ on it differ in outcomes
+- [The sex × threat condition interaction on external attribution of failure is statistically significant](../claims/sex-threat-interaction-external-attribution.md) [+M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]

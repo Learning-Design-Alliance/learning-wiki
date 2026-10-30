@@ -13,7 +13,7 @@ generated:
 # Writing Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 173 claims (112 show a difference, 35 mixed, 26 no difference) · 92 studies (38 causal, 26 associational, 11 review, 10 quant-synthesis, 4 theoretical, 3 design), `q1`–`q4` · 35 of 92 report an effect size · 168 claims rest on one study
+> **Evidence** · 174 claims (113 show a difference, 35 mixed, 26 no difference) · 93 studies (39 causal, 26 associational, 11 review, 10 quant-synthesis, 4 theoretical, 3 design), `q1`–`q4` · 35 of 93 report an effect size · 169 claims rest on one study
 
 ## Description
 Writing skills run from the foundational to the compositional. At the foundation are the motor skills of handwriting, knowledge of letters and print, spelling, punctuation, capitalisation and writing speed. Composition is the expression of ideas in writing: setting goals for a piece, deciding on content and structure, and shaping it for an audience and purpose. Genre knowledge is knowing the elements, vocabulary and order a narrative, persuasive or informative text calls for, and argumentative reasoning is the ability to make and support a claim with evidence and judge other people's arguments. The Learner Variability Navigator covers these as five factors across early childhood, the primary and secondary grades and adult learning.
@@ -211,6 +211,7 @@ They are assessed with curriculum-based measures (copying, dictation, spelling, 
 - [Kindergarteners with a low initial handwriting level improved significantly in both conditions, with no detectable advantage of tablet-app training over traditional instruction](../claims/low-initial-level-no-tablet-advantage.md) [-M] — an instructional effect differs with it
 - [Kindergarteners with a medium initial handwriting level made significantly greater paper-based progress when handwriting training partially used the tablet app than when it was entirely traditional](../claims/medium-initial-level-tablet-benefit-transfer.md) [+M] — an instructional effect differs with it
 - [No preparation process (software cartooning, paper cartooning, or teacher's normal planning) produced clearly different written stories](../claims/no-consistent-writing-effect-preparation-process.md) [-W] — instruction changes it
+- [Children using a visual story software process produced more on-topic story content than a control group using brainstorming and independent writing](../claims/visual-story-software-more-on-topic-writing.md) [+M] — instruction changes it
 
 ## Measures
 - **Wechsler Individual Achievement Test (Third Edition)** (Breaux & Frey, 2010): This multi-battery test can be used in a variety of settings to measure ability and screen for potential learning disabilities. There are extensive written expression sub-tests to analyze Composition abilities.

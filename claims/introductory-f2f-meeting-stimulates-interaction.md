@@ -50,3 +50,4 @@ Systematic review results for research question 2: nine of 20 studies explicitly
 - [In most blended learning designs the instructor, not the learner, controls the realization of the blend](instructor-controls-blend-realization.md) — related
 - [Time zone differences affected international students' timely participation in asynchronous forums, and a balance of synchronous and asynchronous communication was regarded as beneficial](time-zone-differences-asynchronous-participation-balance.md) — related
 - [Synchronous and asynchronous communication technologies are commonly employed to support communication between students, industry partners and teaching staff during WIL](communication-technologies-support-wil.md) — related
+- [The most commonly used differentiated instruction strategy in blended learning was providing additional support throughout product development](additional-support-product-development-most-common.md) — related

@@ -76,3 +76,4 @@ Survey-based comparison of Affinity for Technology Interaction scores across gro
 - [88% of survey respondents have incorporated LLMs into their everyday learning practices](88-percent-adopt-llms-everyday-learning.md)
 - [Affinity for technology interaction differed across clusters, with text reproducers highest and integrators scoring higher than reconstructors (d = 0.59)](ati-differs-across-uptake-clusters.md) — related
 - [Male respondents were significantly more likely than non-male respondents to have no concern about their labour being used for military purposes](gender-difference-military-labour-concern.md) — related
+- [Regional provider Edraak attracts younger learners, more females, and learners with lower education levels than global MOOC providers](edraak-attracts-younger-more-female-lower-education-learners.md) — related

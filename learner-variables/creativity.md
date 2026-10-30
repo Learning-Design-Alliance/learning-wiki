@@ -13,7 +13,7 @@ generated:
 # Creativity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 113 claims (81 show a difference, 25 mixed, 7 no difference) · 61 studies (19 causal, 19 associational, 12 review, 4 quant-synthesis, 4 design, 2 theoretical, 1 qualitative), `q1`–`q3` · 17 of 61 report an effect size · 111 claims rest on one study
+> **Evidence** · 118 claims (84 show a difference, 26 mixed, 8 no difference) · 62 studies (20 causal, 19 associational, 12 review, 4 quant-synthesis, 4 design, 2 theoretical, 1 qualitative), `q1`–`q3` · 17 of 62 report an effect size · 116 claims rest on one study
 
 ## Description
 Creativity as a learner characteristic is the ability to produce ideas that are both new and fitting. It is most often measured with divergent-thinking tests (how many and how varied the uses someone can find for an object). It correlates with intelligence and with achievement, including in mathematics, where generating several solution paths may deepen understanding. Creativity can also be an outcome that instruction aims at; this page is about learners who differ in it.
@@ -148,6 +148,11 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 - [Flexibility mediates the effect of cognitive group awareness on originality in the subsequent individual phase, acting as a complementary mediator](../claims/flexibility-mediate-group-awareness-originality.md) [+W] — instruction changes it
 - [SCAMPER-based question prompts during the first individual phase of hybrid brainstorming increase the originality of individually generated ideas](../claims/scamper-prompts-increase-individual-brainstorming-originality.md) [+M] — instruction changes it
 - [Sharing individually generated ideas during the group phase (cognitive group awareness) increases the originality of collaboratively generated ideas](../claims/cognitive-group-awareness-raises-group-phase-originality.md) [+M] — instruction changes it
+- [Highly activated negative emotions will influence creativity during gaming](../claims/highly-activated-negative-emotions-influence-creativity.md) [+M] — instruction changes it
+- [Stress hormones will influence creativity during gaming](../claims/stress-hormones-influence-creativity-gaming.md) [+M] — instruction changes it
+- [Stress stimuli influence creativity during gaming through two routes: enhancing creativity via cortisol concentration and WM, and decreasing creativity via promotion-focused negative emotions](../claims/stress-two-routes-creativity-gaming.md) [~M] — instruction changes it
+- [Subjective negative emotions and objective cortisol responses do not consistently predict WM and creativity in game-based situations](../claims/subjective-emotions-objective-cortisol-inconsistent-predictors.md) [-M] — instruction changes it
+- [Working memory has a positive effect on creativity during gaming](../claims/wm-positive-effect-creativity-gaming.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

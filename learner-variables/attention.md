@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 148 claims (100 show a difference, 30 mixed, 18 no difference) · 113 studies (35 causal, 28 associational, 21 review, 12 quant-synthesis, 7 qualitative, 7 design, 3 theoretical), `q1`–`q4` · 23 of 113 report an effect size · 143 claims rest on one study
+> **Evidence** · 157 claims (106 show a difference, 31 mixed, 20 no difference) · 116 studies (36 causal, 30 associational, 21 review, 12 quant-synthesis, 7 qualitative, 7 design, 3 theoretical), `q1`–`q4` · 24 of 116 report an effect size · 152 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -186,6 +186,15 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [No difference in reported attention between visibility-modes after watching a short weblecture](../claims/no-visibility-effect-reported-attention-short-weblecture.md) [-M] — instruction changes it
 - [Anti-cheating interventions can cause distraction and evoke negative emotions during online test-taking](../claims/interventions-cause-distraction-negative-emotions.md) [+M] — instruction changes it
 - [Technology sometimes distracted students from the learning experience, but distraction was balanced by the usefulness of content and structure](../claims/pda-distraction-balanced-by-structure.md) [~M] — instruction changes it
+- [Gender, TikTok, videogames, pornography and distraction from study time significantly predict sense of online risk](../claims/gender-tiktok-videogames-pornography-distraction-predict-risk-perception.md) [+M] — learners who differ on it differ in outcomes
+- [Instructor visuals do not reduce mind wandering during video lectures](../claims/instructor-visuals-no-mind-wandering-reduction.md) [-M] — instruction changes it
+- [Media multitasking during probed slides predicts lower quiz accuracy in multilevel analysis](../claims/slide-based-multitasking-lower-accuracy.md) [+M] — learners who differ on it differ in outcomes
+- [Media multitasking is more detrimental to quiz performance than mind wandering](../claims/multitasking-worse-than-mind-wandering.md) [+M] — learners who differ on it differ in outcomes
+- [Media multitasking rates increase over time during live university lectures](../claims/media-multitasking-increases-over-lecture-time.md) [+M] — instruction changes it
+- [Media multitasking, but not mind wandering, is negatively associated with quiz performance](../claims/media-multitasking-negative-quiz-performance.md) [~M] — learners who differ on it differ in outcomes
+- [Mind wandering rates remain relatively stable over time during live lectures](../claims/mind-wandering-stable-over-lecture-time.md) [-M] — instruction changes it
+- [Non-users or limited users of pornography who are distracted from studies show the highest sense of online risk](../claims/non-pornography-distracted-highest-risk-perception.md) [+M] — learners who differ on it differ in outcomes
+- [Students seated at the back of the lecture hall media multitask more than those seated at the front](../claims/back-seating-more-media-multitasking.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

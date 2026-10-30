@@ -73,3 +73,4 @@ The review attributes this to a questionnaire study (N = 439, China) reported in
 - [Lower creative achievements, higher creative self-efficacy, and higher task motivation predict more positive bias in self-assessed creative performance](predictors-of-bias-in-performance-self-assessment.md) — related
 - [Higher divergent thinking, creative self-efficacy, creative self-concept, and task motivation predict more positive self-assessed creative performance](predictors-of-self-assessed-creative-performance.md) — related
 - [Primary studies report possible benefits of GenAI for children's divergent thinking, narrative creativity and creative self-efficacy, without confirmed efficacy](genai-possible-benefits-children-creative-thinking.md) — related
+- [Computer domain identification correlates positively with self-efficacy, motivation, knowledge, and external attribution](domain-identification-correlates-computer-variables.md) — related

@@ -52,3 +52,4 @@ The review attributes this three-part account of small-screen usability limitati
 - [Several teachers found the eBooks not user friendly, citing issues with images covering the text.](hero-elementary-ebooks-not-user-friendly-images-covering-text.md) — related
 - [Reading comprehension is slightly worse on handheld devices than in print in between-participants studies (g = -.113)](handheld-print-gap-between-participants-meta-analysis.md) — related
 - [First-level participant feedback found the iThinkSmart prototype engaging but flagged movement, navigation, graphics, and device-support issues for improvement](ithinksmart-prototype-feedback-themes.md) — a narrower finding that bears on this claim
+- [Children are capable of more complex graphical interaction than most current software permits](children-capable-complex-graphical-interaction.md) — related

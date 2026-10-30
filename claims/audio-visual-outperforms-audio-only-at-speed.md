@@ -70,3 +70,5 @@ Tukey post-hoc comparisons in Experiment 2's discussion show the cross-format co
 - [Computer-based distractions (phone calls, texts, emails, notifications) do not significantly impair comprehension of lecture videos at 1x or 2x speed](on-screen-distractions-no-comprehension-cost.md) — related
 - [Instructional video clips improved macroeconomics test scores relative to control](instructional-video-clips-improve-macroeconomics-test-scores.md) — related
 - [Students prefer weblectures with a visible lecturer over audio and slides only](student-preference-visible-lecturer-weblectures.md) — related
+- [The comprehension cost of instructor visuals replicates across different instructors and lecture lengths in a combined analysis](instructor-comprehension-cost-replication.md) — reports the opposite
+- [Adding visuals of the instructor to online video lectures impairs comprehension relative to audio-only and audio+text formats](instructor-visuals-impair-lecture-comprehension.md) — related

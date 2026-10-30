@@ -118,3 +118,4 @@ gamified vocabulary practice.
 - [Reward contingency significantly moderates gamification's effect on intrinsic motivation, with 'each unit solved' contingencies showing larger effects](reward-contingency-moderates-gamification-effect.md) — related
 - [Adding a real-time competition environment to a serious game improves learners' post-test scores](competition-improves-post-test-serious-game.md) — a narrower finding that bears on this claim
 - [Commitment to and behaviour towards learning is better after a gamified exergaming intervention than after traditional PE teaching](gamified-exergaming-better-commitment-behaviour-learning.md) — a narrower finding that bears on this claim
+- [Comparative evaluations against traditional teaching are rare, and the one digital-versus-paper comparison found no statistical difference](few-comparative-evaluations-heritage-games.md) — related

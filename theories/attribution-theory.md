@@ -12,7 +12,7 @@ generated:
 # Attribution Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 7 claims (6 for, 1 mixed) · 8 studies (3 causal, 3 review, 2 qualitative), `q2`–`q3` · 1 of 8 report an effect size · 6 claims rest on one study
+> **Evidence** · 8 claims (6 for, 2 mixed) · 9 studies (4 causal, 3 review, 2 qualitative), `q2`–`q3` · 1 of 9 report an effect size · 7 claims rest on one study
 
 ## Description
 Attribution Theory (Weiner, 1986) holds that people try to explain the causes of their own successes and failures — attributing an outcome to ability, effort, luck, task difficulty, mood, fatigue, and so on — and that it is the *perceived* cause, whether or not it is the actual cause, that drives subsequent motivation and behavior ([Park, 2018](https://edtechbooks.org/lidtfoundations/motivation_theories_and_instructional_design)). Weiner (2010) classifies these attributions along three independent dimensions:
@@ -58,6 +58,7 @@ Effort-based attributions are only convincing under three conditions: tasks pitc
 - [Attribution reframing interventions improved outcomes for struggling students (review-reported)](../claims/attribution-reframing-improves-struggling-student-outcomes.md) [+W]
 - [Stereotypical attributions framed struggle as dispositional, uncontrollable, and permanent, while non-stereotypical attributions were situational, controllable, and temporary](../claims/dispositional-uncontrollable-permanent-attributions.md) [+W] — attached 2026-10-29 from Lucas Vasconcelos (2025), which proposed "Attribution theory's three dimensions (locus, stability, controllability) as a framework for analyzing struggle discourse in computational thinking".
 - [Cameras-off online classes deprived teachers of visual cues, and teachers attributed low interaction both to student motivation and shame and to students' material conditions](../claims/cameras-off-visual-cue-loss-low-interaction.md) [~W]
+- [Higher practical computer knowledge predicts more external attribution of failure](../claims/practical-computer-knowledge-external-attribution.md) [~W]
 
 ## Related Theories
 

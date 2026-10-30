@@ -49,3 +49,4 @@ Survey study of 512 secondary school teachers in China analysed with Principal C
 - [Most proposed constructs showed high internal consistency (Cronbach's alpha above 0.70) but control variables did not and were removed](scale-reliability-alphas-control-variables-removed.md) — related
 - [Item reduction produced a validated five-item PU scale (α = 0.899) and a six-item PEoU scale for gamified EFL contexts](shortened-pu-peou-scales-validated.md) — related
 - [Four factors of ICT use explain 57.4% of the total variance in university students' types of ICT use](four-ict-use-factors-57-percent-variance.md) — related
+- [Factor analysis identifies three components of ICT consideration: help/importance, tools for an end, and negative valuation](three-components-of-ict-consideration.md) — related

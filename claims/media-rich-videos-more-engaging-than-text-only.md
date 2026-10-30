@@ -53,3 +53,4 @@ The article reports, citing Teng et al. (2009), a study of 113 students on YouTu
 - [In one 37-student classroom experiment, recall and retention differ across media combinations in the direction Dual Coding Theory predicts](media-combinations-affect-recall-and-retention.md) — related
 - [Four of six activity groups are rated better in multimedia format, but quizzes and picture descriptions are rated equally across formats](activity-format-moderates-motivational-ratings.md) — related
 - [Media effects on learning are not homogeneous across knowledge categories](media-effects-vary-by-knowledge-category.md) — related
+- [The modality of oral explaining (audio + video vs. audio only) does not substantially affect learning outcomes in learning by digital explaining](modality-of-oral-explaining-no-substantial-difference.md) — related

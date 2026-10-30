@@ -45,6 +45,7 @@ The authors list the conditions that supported the drawing activity and the foll
 
 - [Drawingvoice 2.0: a three-phase method combining small-group collaborative drawing, Facebook sharing, and face-to-face re-discussion](drawingvoice-2-0-three-phase-method.md)
 - [Community Building](community-building.md)
+- [Facilitate online educational collaboration by matching participants on comfort and gradually increasing openness](gradual-openness-matching-comfort-collaboration.md)
 
 ## Examples
 -

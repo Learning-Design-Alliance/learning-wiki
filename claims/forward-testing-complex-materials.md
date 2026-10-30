@@ -70,3 +70,4 @@ The review reports Zhou et al.'s text comprehension study in which participants 
 - [Segmenting Improves Multimedia Learning](segmenting-improves-multimedia-learning.md) — related
 - [In inductive learning, interim testing of studied category exemplars enhances learning and retention of new categories](forward-testing-inductive-learning.md) — related
 - [In single item learning, interim testing of studied lists roughly doubles recall of new items compared with distractor or restudy control groups](forward-testing-single-items-doubled-recall.md) — related
+- [Instructor visuals do not reduce mind wandering during video lectures](instructor-visuals-no-mind-wandering-reduction.md) — related

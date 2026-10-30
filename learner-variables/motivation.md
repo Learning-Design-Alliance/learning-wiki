@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 335 claims (222 show a difference, 80 mixed, 33 no difference) · 242 studies (89 associational, 70 causal, 37 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 66 of 242 report an effect size · 323 claims rest on one study
+> **Evidence** · 336 claims (223 show a difference, 80 mixed, 33 no difference) · 243 studies (89 associational, 71 causal, 37 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 66 of 243 report an effect size · 324 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -385,6 +385,7 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Student self-efficacy moderates the relationship between lecturer charismatic leadership and behavioral engagement, with stronger effects for lower self-efficacy students](../claims/self-efficacy-moderates-charismatic-behavioral-engagement.md) [+M] — an instructional effect differs with it
 - [Student self-efficacy moderates the relationship between lecturer technology use and behavioral engagement, with stronger effects for lower self-efficacy students](../claims/self-efficacy-moderates-technology-behavioral-engagement.md) [+M] — an instructional effect differs with it
 - [All four ICT uses correlate positively with expectations of performance and satisfaction, with EPU showing the strongest associations](../claims/ict-use-expectations-performance-satisfaction.md) [+M] — instruction changes it
+- [Fun perception decreases significantly from initial expectancy on both platforms](../claims/fun-perception-decreases-from-expectancy.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

@@ -51,3 +51,5 @@ Cross-sectional survey regression of the full sample of undergraduates from thre
 - [Online vigilance correlates negatively with academic performance in the full sample and strongly in Namibia, but not in the South African or Botswana samples](online-vigilance-correlates-country-pattern.md) — related
 - [Instant messaging is a positive predictor of academic performance in the full-sample regression models](instant-messaging-positive-predictor-academic-performance.md) — related
 - [Country differences in media use, multitasking, vigilance and academic performance are statistically significant but small in magnitude](country-differences-small-media-variables.md) — related
+- [Grit is negatively associated with media multitasking during lectures](grit-negative-media-multitasking.md) — related
+- [Media multitasking, but not mind wandering, is negatively associated with quiz performance](media-multitasking-negative-quiz-performance.md) — related

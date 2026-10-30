@@ -25,7 +25,7 @@ grain_size: unit
 # Self-Regulated Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 82 claims (30 for, 48 mixed, 4 against) · 69 studies (24 causal, 13 review, 10 associational, 9 quant-synthesis, 8 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 17 of 69 report an effect size · 75 claims rest on one study
+> **Evidence** · 83 claims (31 for, 48 mixed, 4 against) · 70 studies (25 causal, 13 review, 10 associational, 9 quant-synthesis, 8 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 17 of 70 report an effect size · 76 claims rest on one study
 
 ## Description and scope
 
@@ -148,6 +148,7 @@ This pattern is scoped to regulation attached to subject-matter tasks over a uni
 - [Meta-learning tasks increased university students' use of self-regulatory strategies when studying (review-reported)](../claims/meta-learning-tasks-increased-self-regulatory-strategies.md) [+W]
 - [Self-regulation training programs have a positive effect on university students' academic performance, strongest when underpinned by metacognitive theory (review-reported)](../claims/self-regulation-training-positive-effect-university.md) [+W]
 - [94% of students used pattern adaptations beyond setting options, with 80% deleting situations, 84% replacing actions/definitions, and 50% adding actions/definitions.](../claims/pattern-adaptation-skill-percentages.md) [~W]
+- [Scripting and self-monitoring scaffolds lead to higher quality peer feedback than no scaffolding](../claims/scripting-self-monitoring-scaffolds-higher-quality.md) [+W]
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

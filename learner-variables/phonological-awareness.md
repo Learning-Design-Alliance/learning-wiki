@@ -13,7 +13,7 @@ generated:
 # Phonological Awareness
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 98 claims (61 show a difference, 15 mixed, 22 no difference) · 59 studies (26 associational, 19 causal, 7 quant-synthesis, 4 review, 2 design, 1 theoretical), `q1`–`q3` · 18 of 59 report an effect size · 96 claims rest on one study
+> **Evidence** · 99 claims (62 show a difference, 15 mixed, 22 no difference) · 60 studies (27 associational, 19 causal, 7 quant-synthesis, 4 review, 2 design, 1 theoretical), `q1`–`q3` · 18 of 60 report an effect size · 97 claims rest on one study
 
 ## Description
 Phonological awareness is the ability to hear and manipulate the sound structure of spoken words: recognising rhymes, splitting words into syllables and individual sounds (phonemes), and blending sounds into words. The broader term phonological processing, which this page also covers, includes detecting and handling speech sounds rapidly in both spoken and written words and holding sound information briefly in memory. These skills are measured with tasks such as rhyming, blending (combining separate sounds into a word), elision (saying what remains when a sound is removed) and phoneme manipulation.
@@ -139,6 +139,7 @@ It sits within the wiki's broader [reading and language](reading-and-language.md
 - [Neither speech therapy nor serious non-action video games produced significant phonemic awareness gains in at-risk pre-readers](../claims/active-controls-no-phonemic-awareness-gain.md) [-M] — instruction changes it
 - [Phonemic awareness gains after AVG training occur in more than 80% of at-risk pre-readers](../claims/avg-phonemic-awareness-gain-majority-responder.md) [+M] — instruction changes it
 - [Phonemic awareness improvements from AVG training are maintained at a 6-month follow-up](../claims/avg-phonemic-awareness-gain-6month-maintenance.md) [+M] — instruction changes it
+- [Children's frequency of writing with touch screen tablets at home is positively associated with print awareness, print knowledge and sound awareness](../claims/tablet-writing-frequency-positively-associated-emergent-literacy.md) [+W] — instruction changes it
 
 ## Measures
 - **The Phonological Awareness Test 2 (PAT 2)** (Robertson & Salter, 2007): covers rhyming and detecting and manipulating phonemes, ages 5 to 9.

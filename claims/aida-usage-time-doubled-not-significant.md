@@ -49,3 +49,4 @@ Study 6 usage-log analysis across both conditions (163 enrolled). The article re
 - [A pilot AIDA-supported induction course reached 354 new students and supported early-stage orientation, yet further development and upscaling of AIDA subsequently stalled](aida-induction-pilot-then-stalled-upscaling.md) — related
 - [No AI participants spent roughly 1.5 times as long on the assessment as AI-Assisted participants, descriptively reported as a marker of offloading](no-ai-longer-time-on-task-descriptive.md) — related
 - [Elaborative interrogation increased perceived difficulty and time spent with the lesson](elaborative-interrogation-increases-difficulty-and-time-on-lesson.md) — related
+- [No significant difference in quiz completion time between versions](no-difference-quiz-completion-time.md) — related

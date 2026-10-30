@@ -47,3 +47,4 @@ Comparison of rotated component scores across 62 annotated classroom activities 
 ## Related Claims
 - [Teacher talk differs acoustically by student cohort: undergraduate classes show higher loudness-dynamics components while postgraduate classes show higher spectral-slope and voice-quality components](cohort-differences-team-teaching-acoustics.md) — related
 - [High-experience team teachers show higher voice-quality/spectral-structure and greater loudness-dynamics components than low-experience teachers across spatial pedagogy behavioural categories](experience-differences-team-teaching-acoustics.md) — related
+- [No significant effect of the intervention on speech rate or spectral slope](no-significant-effect-speech-rate-spectral-slope.md) — related

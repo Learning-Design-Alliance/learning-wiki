@@ -68,3 +68,4 @@ Post-hoc univariate ANOVAs following the significant MANOVA on log-file activity
 - [Learners using annotations perceive lower cognitive load than learners using hyperlinks](annotations-lower-cognitive-load-than-hyperlinks.md) — related
 - [Learners using hyperlinks produce hypervideo products of higher quality than learners using annotations](hyperlinks-higher-hypervideo-product-quality.md) — related
 - [The effect of tool type on hypervideo product quality is partially mediated by performing fewer macro-actions](macro-actions-mediate-tool-effect-on-product-quality.md) — related
+- [Automated support for micro-level revision targeting factual knowledge is well represented, whereas tools supporting writing strategies and self-monitoring for macro-level text quality are infrequent](strobl-2019-micro-macro-pedagogical-imbalance.md) — related

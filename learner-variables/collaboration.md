@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 66 claims (52 show a difference, 8 mixed, 6 no difference) · 56 studies (15 causal, 12 review, 11 qualitative, 8 associational, 5 design, 5 theoretical), `q1`–`q3` · 5 of 56 report an effect size · 66 claims rest on one study
+> **Evidence** · 67 claims (53 show a difference, 8 mixed, 6 no difference) · 57 studies (16 causal, 12 review, 11 qualitative, 8 associational, 5 design, 5 theoretical), `q1`–`q3` · 5 of 57 report an effect size · 67 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -108,6 +108,7 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Measured aspects of students' collaborations helped explain why some students in the blended course were more successful than others.](../claims/collaboration-measures-explain-student-success-differences.md) [+M] — learners who differ on it differ in outcomes
 - [Online collaborative tools positively and significantly influence student interaction in work groups.](../claims/collaborative-tools-boost-group-interaction.md) [+M] — instruction changes it
 - [Teacher-student interaction has a positive and significant influence on student interaction in work groups during online collaborative learning.](../claims/teacher-student-interaction-boosts-group-interaction.md) [+M] — instruction changes it
+- [Observers rated collaboration quality as good on most dimensions for both versions](../claims/good-collaboration-quality-most-dimensions.md) [+M] — instruction changes it
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

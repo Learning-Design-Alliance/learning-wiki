@@ -73,3 +73,4 @@ Observational rubric scoring of the 19 pairs during the collaborative mode. Othe
 - [Gaze feedback and PCA suggestions interact on proportional learning gains, with synergy favoring the visible-gaze/visible-agent condition](gaze-pca-interaction-on-learning-gains.md) — related
 - [Visible real-time gaze feedback improves collaborative-process coordination, especially information pooling, in dyadic knowledge integration tasks](gaze-feedback-improves-collaborative-process.md) — related
 - [PCA metacognitive suggestions improve consensus reaching, task division and reciprocal interaction during collaboration](pca-suggestions-improve-consensus-and-task-division.md) — related
+- [Observers rated collaboration quality as good on most dimensions for both versions](good-collaboration-quality-most-dimensions.md) — related

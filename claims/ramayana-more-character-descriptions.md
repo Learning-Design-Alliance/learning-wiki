@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2007
+source_checked: 2026-10-30
 sources:
   - id: m-madden-2007
     resource: "http://creativecommons.org/licenses/by-nc-nd/2.5/"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2007 · checked against its sources 2026-10-30 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The Ramayana experimental group's first and second stories scored more highly for strong descriptions of characters or of actions characters do than the control group's. [→ M. Madden 2007](#m-madden-2007)
@@ -52,3 +53,4 @@ Teacher-coded cross-sectional t-tests in the Ramayana sub-study, the only cross-
 - [No preparation process (software cartooning, paper cartooning, or teacher's normal planning) produced clearly different written stories](no-consistent-writing-effect-preparation-process.md) — related
 - [Software cartoons depicted significantly more character poses and far more physical character-to-character interaction](software-cartoons-more-action-interaction.md) — related
 - [Software cartoons showed more long shots, more shots, and far more finished sequences than paper cartoons](software-cartoons-more-shots-long-shots-finished.md) — related
+- [Children using a visual story software process produced more on-topic story content than a control group using brainstorming and independent writing](visual-story-software-more-on-topic-writing.md) — related

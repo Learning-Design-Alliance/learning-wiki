@@ -72,3 +72,4 @@ The authors' interpretation of the same feedback themes, stating the prototype "
 - [Students who played iThinkSmart VR mini games gained higher CT cognitive benefits than students learning through the traditional lecture method](ithinksmart-vr-higher-cognitive-benefits.md) — related
 - [Students who played iThinkSmart VR mini games reported higher interest in learning CT concepts than students who did not use the educational game](ithinksmart-vr-higher-learning-interest.md) — related
 - [Interviewed students appreciated NNG 4's improved graphics and design, supporting the role of aesthetics in serious game experience](nng4-aesthetics-appreciated-interviews.md) — related
+- [Children are capable of more complex graphical interaction than most current software permits](children-capable-complex-graphical-interaction.md) — related

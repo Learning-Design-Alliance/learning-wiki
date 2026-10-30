@@ -13,7 +13,7 @@ generated:
 # Digital Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 71 claims (50 show a difference, 11 mixed, 10 no difference) · 56 studies (16 associational, 11 causal, 9 qualitative, 8 review, 4 quant-synthesis, 4 design, 4 theoretical), `q1`–`q4` · 10 of 56 report an effect size · 69 claims rest on one study
+> **Evidence** · 73 claims (51 show a difference, 11 mixed, 11 no difference) · 57 studies (17 associational, 11 causal, 9 qualitative, 8 review, 4 quant-synthesis, 4 design, 4 theoretical), `q1`–`q4` · 10 of 57 report an effect size · 71 claims rest on one study
 
 ## Description
 Whether a learner can *operate* the interface — distinct from [access](access.md), which is whether they can load it at all. It covers navigation, file handling, knowing what is clickable, and the confidence to explore without fear of breaking something. Every course here is delivered digitally, so this is never out of scope, and it is the dimension most often assumed away: a designer fluent in the interface cannot see it.
@@ -105,6 +105,8 @@ Whether a learner can *operate* the interface — distinct from [access](access.
 - [High-scoring Chilean 10th graders focused and concentrated on school assignments online and adopted cognitive and organizational strategies when using the Internet](../claims/high-scorers-concentration-and-strategies-digital-skills.md) [+W] — learners who differ on it differ in outcomes
 - [24% of students added conditions and 8% added situations, demonstrating exposure to Booleans, selection control structures, and event handling.](../claims/condition-and-situation-adaptations.md) [+M] — instruction changes it
 - [96% of students learned to select a computational artifact from a library and customize it by setting options.](../claims/scriptease-library-selection-and-options.md) [+M] — instruction changes it
+- [Children's frequency of writing with touch screen tablets at home is positively associated with print awareness, print knowledge and sound awareness](../claims/tablet-writing-frequency-positively-associated-emergent-literacy.md) [+W] — learners who differ on it differ in outcomes
+- [Frequency of e-book reading on tablets shows no association with children's emergent literacy skills](../claims/ebook-reading-frequency-no-association-emergent-literacy.md) [-W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners who differ in digital literacy differ in learning, engagement and later outcomes?* [Digital skills gaps span demographic groups and shape e-learning, job performance, and earnings](../claims/digital-literacy-gaps-span-demographics.md) [+M]

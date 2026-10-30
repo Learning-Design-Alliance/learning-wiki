@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 232 claims (165 show a difference, 41 mixed, 26 no difference) · 156 studies (62 causal, 43 associational, 20 review, 13 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 45 of 156 report an effect size · 226 claims rest on one study
+> **Evidence** · 233 claims (165 show a difference, 41 mixed, 27 no difference) · 157 studies (63 causal, 43 associational, 20 review, 13 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 45 of 157 report an effect size · 227 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -267,6 +267,7 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Enjoyment fully mediates the relationship between extroversion and attitude toward the activity](../claims/enjoyment-full-mediation-extroversion-attitude.md) [+M] — learners who differ on it differ in outcomes
 - [Enjoyment inhibits stress during the oral presentation](../claims/enjoyment-inhibits-stress.md) [+M] — learners who differ on it differ in outcomes
 - [In a cross-sectional survey, attitude statistically fully mediated the associations of perceived relative advantages and enjoyment with satisfaction](../claims/attitude-full-mediation-advantages-enjoyment-satisfaction.md) [+M] — learners who differ on it differ in outcomes
+- [Teacher enjoyment and anxiety show no significant condition differences](../claims/teacher-enjoyment-anxiety-no-significant-differences.md) [-M] — instruction changes it
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

@@ -45,5 +45,7 @@ The study's analysis of the #bac2018 hashtag in the month before the 2018 bac ex
 
 
 ## Related Claims
+
 - [Participants in the #bac2018 Twitter hashtag engaged in eight identifiable tweeting practices in the month before the 2018 baccalauréat exams](bac2018-hashtag-tweeting-practices.md) — a broader claim this one bears on
 - [The article argues that skepticism about Twitter's contribution to learning rests on an overly narrow conception of learning focused on academic performance](twitter-learning-skepticism-narrow-conception.md) — a broader claim this one bears on
+- [Time spent on LinkedIn, Snapchat and Twitter has virtually no significant impact on student performance at any learning level](linkedin-snapchat-twitter-no-significant-impact.md)

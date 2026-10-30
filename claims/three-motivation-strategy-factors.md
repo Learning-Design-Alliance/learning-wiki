@@ -51,3 +51,4 @@ Factor analysis of the CEAM II (Spanish MSLQ) responses in the same survey. The 
 - [Exploratory factor analysis of the participation style scale yields four Why factors and four How factors explaining over 53% of variance in each dimension](psss-eight-factors-efa-variance.md) — related
 - [Principal component analysis of the AITAQS extracts four factors accounting for 65.421% of variance, with item loadings from 0.64 to 0.85 matching the four hypothesized dimensions.](aitaqs-four-factor-pca-structure.md) — related
 - [An SDT-based questionnaire yields seven distinct, reliable motivation subtypes for Chinese college ESP learners](sdt-seven-factor-esp-motivation-structure.md) — related
+- [Factor analysis identifies three components of ICT consideration: help/importance, tools for an end, and negative valuation](three-components-of-ict-consideration.md) — related

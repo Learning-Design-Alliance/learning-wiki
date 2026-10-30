@@ -76,3 +76,4 @@ In the same behavioral sample, the Alouette-R reading fluency test showed no sig
 - [Children's vocabulary skill mediates the relation between home literacy practices and word adaptation in the left pIFs](vocabulary-mediation-home-literacy-word-adaptation.md) — related
 - [Joint Book Reading Predicts Literacy Success](joint-book-reading-predicts-literacy-success.md) — a broader claim this one bears on
 - [Children's storybook knowledge (book-cover recognition) mediates the relationship between home literacy environment and literacy outcomes](storybook-knowledge-mediates-hle-literacy-link.md) — related
+- [Frequency of e-book reading on tablets shows no association with children's emergent literacy skills](ebook-reading-frequency-no-association-emergent-literacy.md) — related

@@ -66,3 +66,4 @@ The review categorized direct impacts of AI on SRL into cognition, metacognition
 - [Motivational and affective dimensions remain underrepresented in multimodal SRL research despite theoretical consensus on their importance](motivation-affect-underrepresented-multimodal-srl.md) — a broader claim this one bears on
 - [Multimodal SRL research shows a historical shift from unimodal toward integrated analytical designs, but motivational and affective dimensions remain underrepresented](srl-multimodal-shift-integrated-designs-motivation-affect-gap.md) — related
 - [Assessment is among the least explored conversational agent intents in higher education](assessment-intent-underexplored.md) — related
+- [The most frequently measured pedagogical aspects of technology integration are enhancing students' cognitive engagement, promoting collaboration between students, and allowing students to conduct research online.](top-three-pedagogical-ti-aspects.md) — related

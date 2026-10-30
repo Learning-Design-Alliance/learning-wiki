@@ -56,3 +56,4 @@ Hayashi, Y. (2020). Gaze awareness and metacognitive suggestions by a pedagogica
 - [Regulation at the dyadic and/or group level is positively related to group performance in CSCL](dyadic-group-regulation-related-group-performance.md) — a broader claim this one bears on
 - [Instructor signaling enhanced knowledge acquisition as perceived difficulty increased for research designs](instructor-signaling-knowledge-high-difficulty.md) — related
 - [In collaborative MAR play, children show positive collaboration quality on all measured dimensions except time management](collaborative-mar-quality-dimensions.md) — related
+- [Observers rated collaboration quality as good on most dimensions for both versions](good-collaboration-quality-most-dimensions.md) — related

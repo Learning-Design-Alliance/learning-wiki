@@ -47,3 +47,4 @@ RQ5 synthesis of authoring time across the 33 included studies, classified as pr
 ## Related Claims
 - [Authoring tools have mainly targeted the pedagogical model (81.82% of studies) and domain model (75.76%), while no included study addressed all four classic ITS components](authoring-tools-target-pedagogical-domain-models.md) — related
 - [Intelligent tutoring systems are a mature, technologically sophisticated implementation of AI-driven personalized learning with mostly positive outcomes in programming, mathematics, and STEM](its-mature-implementation-personalized-learning.md) — related
+- [Earlier research on writing-support technology centred on Automated Writing Evaluation, Automated Essay Scoring and rarer Intelligent Tutoring Systems, mainly for US secondary school essay writing](strobl-2019-prior-research-awe-aes-its.md) — related

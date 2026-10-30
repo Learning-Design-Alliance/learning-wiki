@@ -49,3 +49,4 @@ An experimental study with 57 preservice teachers found that the model-based sup
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [All participants reported higher teaching self-efficacy after the teaching-simulation training](teaching-simulation-training-raises-self-efficacy.md) — related
 - [Only the model-based support group showed a significant within-group improvement in teaching self-efficacy from pre- to post-test](model-based-support-within-group-self-efficacy-gain.md) — related
+- [Trainee teachers who receive voice training with VR classroom simulations show greater improvement in communication self-efficacy in noise than those receiving an information session only](vr-voice-training-greater-self-efficacy-gains-than-information-only.md) — related
