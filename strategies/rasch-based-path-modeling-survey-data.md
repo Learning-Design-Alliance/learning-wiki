@@ -53,4 +53,4 @@ The study demonstrates a two-step approach: Rasch analysis converts ordinal Like
 -
 
 ## Key Sources
-- Vo, H. N. (2020). Understanding higher education learners' acceptance and use of mobile devices for language learning: A Rasch-based path modeling approach. Computers and Education, 146, Article 103761.
+- Vo, H. N. (2020). Understanding higher education learners' acceptance and use of mobile devices for language learning: A Rasch-based path modeling approach. Computers and Education, 146, Article 103761. [doi:10.1016/j.compedu.2019.103761](https://doi.org/10.1016/j.compedu.2019.103761)

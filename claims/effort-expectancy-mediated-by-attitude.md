@@ -11,7 +11,8 @@ evidence_strength: moderate
 newest_evidence: 2020
 sources:
   - id: vo-2020
-    title: "Vo, H. N. (2020). Understanding higher education learners' acceptance and use of mobile devices for language learning: A Rasch-based path modeling approach. Computers and Education, 146, Article 103761."
+    resource: "https://doi.org/10.1016/j.compedu.2019.103761"
+    title: "Vo, H. N. (2020). Understanding higher education learners' acceptance and use of mobile devices for language learning: A Rasch-based path modeling approach. Computers and Education, 146, Article 103761. [doi:10.1016/j.compedu.2019.103761](https://doi.org/10.1016/j.compedu.2019.103761)"
     author: Vo, H. N.
     q: 2
     i: "?"
@@ -32,7 +33,7 @@ sources:
 
 ### Vo 2020
 
-Vo, H. N. (2020). Understanding higher education learners' acceptance and use of mobile devices for language learning: A Rasch-based path modeling approach. Computers and Education, 146, Article 103761.
+Vo, H. N. (2020). Understanding higher education learners' acceptance and use of mobile devices for language learning: A Rasch-based path modeling approach. Computers and Education, 146, Article 103761. [doi:10.1016/j.compedu.2019.103761](https://doi.org/10.1016/j.compedu.2019.103761)
 
 `q2 · i?` · `associational · r2`
 
