@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2008
+recheck_by: 2013
 sources:
   - id: tondeur-2008
     resource: "https://doi.org/10.1016/j.compedu.2007.05.003"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
-> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2013**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` 9.16% of total variance in teachers' classroom ICT use is attributable to differences between schools and 90.83% to differences between teachers within schools. [→ Tondeur 2008](#tondeur-2008)

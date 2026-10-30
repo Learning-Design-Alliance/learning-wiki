@@ -24,7 +24,8 @@ Table 1 of the article classifies the materials developed for research purposes 
 ### Claims
 
 ## Related Research Methods
--
+
+- [A taxonomy classifying authentic CSCL learning environments into simulation and hybrid environments with five descriptors](a-taxonomy-classifying-authentic-cscl-learning-environments-into-simulation-and-hybrid-env.md)
 
 ## Key Sources
 - Fink, M. C., Radkowitsch, A., Bauer, E., Sailer, M., Kiesewetter, J., Schmidmaier, R., Siebeck, M., Fischer, F., & Fischer, M. R. (2020). Simulation research and design: a dual-level framework for multi-project research programs. Education Tech Research Dev. https://doi.org/10.1007/s11423-020-09876-0

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: golle-2026
     resource: "https://doi.org/10.1038/s41539-026-00439-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Students schooled during the pandemic showed significantly lower intrinsic value for reading (b = −0.12, p = 0.016) and writing (b = −0.15, p = 0.001), and lower self-concept in reading (b = −0.14, p = 0.003) and writing (b = −0.17, p < 0.001) at end of Grade 1; math motivation effects were not significant. [→ Golle 2026](#golle-2026)

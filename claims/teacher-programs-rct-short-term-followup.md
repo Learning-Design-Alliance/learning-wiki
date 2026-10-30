@@ -49,7 +49,7 @@ Short-term (1-6 month) follow-up meta-analysis of RCTs of teacher programs. Stre
 - [Sleep](../learner-variables/sleep.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Heterogeneity in teacher program effects was high for stress, psychological distress, and burnout in RCTs, and methodological quality was generally poor across both trial types](teacher-programs-heterogeneity-risk-of-bias.md) — related
+- Heterogeneity in teacher program effects was high for stress, psychological distress, and burnout in RCTs, and methodological quality was generally poor across both trial types — related
 - [In non-randomised controlled trials, teacher programs show moderate effects on stress (g=0.50) and small effects on anxiety and wellbeing (g=0.38 each) at post-intervention, with non-significant effects at short-term follow-up](teacher-programs-nrct-effects.md) — related
 - [Mindfulness-based wellbeing initiatives have a positive effect on the wellbeing of primary and secondary educators](mindfulness-initiatives-improve-educator-wellbeing.md) — a broader claim this one bears on
 - [Studies of emotional training of aspiring and practicing teachers report positive outcomes for dealing with emotions and reducing stress and burnout](teacher-emotional-training-studies-positive-outcomes.md) — a broader claim this one bears on

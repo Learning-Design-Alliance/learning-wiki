@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1921
+recheck_by: 1924
 sources:
   - id: chassell-1921
     resource: "https://doi.org/10.1037/h0068285"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
-> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1924**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i3` The Pressey Primer Scale correlated .45 and the Meyer Tests .53 with the Stanford Revision, and the two group tests correlated only .37 with each other. [→ Chassell 1921](#chassell-1921)

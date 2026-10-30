@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: weak
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: keles-2025
     resource: "https://doi.org/10.1007/s10648-025-10077-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` The domain of screening tools was the only statistically significant moderator in single moderator analyses (Wald F(1, 3.76) = 19.60, p = .013); literacy-literacy pairs pooled r = .55, language-literacy r = .38, mathematics/literacy-achievement r = .27. [→ Keles 2025](#keles-2025)

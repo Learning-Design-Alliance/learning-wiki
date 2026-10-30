@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1914
+recheck_by: 1919
 sources:
   - id: heck-1914
     resource: "https://www.jstor.org/stable/1412814"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
-> **Currency** · newest study 1914 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1914 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1919**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Standard deviations of composition marks were greater at school than at home: 16.4 percent greater for form and 49.0 percent greater for content. [→ Heck 1914](#heck-1914)

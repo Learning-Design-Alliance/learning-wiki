@@ -17,7 +17,7 @@ sources:
 # Learning activity: evaluating ten learning tips from a video in argumentative essays
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A formative learning activity developed for educational psychology lectures at Goethe University Frankfurt. As the article describes it, "learners must first watch a video in which a German high school student presents ten learning tips" and then write short argumentative essays judging each tip's usefulness and connecting it to lecture contents such as learning strategies, memory concepts and motivation, with a separate paragraph per tip and APA-cited sources. After the submission deadline, learners receive feedback texts on essay quality and content areas to revisit. The activity supplies the process and textual data the feedback pipeline needs.
@@ -38,9 +38,6 @@ A formative learning activity developed for educational psychology lectures at G
 
 ### Claims
 
-- [The segmentation training corpus covers 434 of 698 essays, yielding 22,581 coded sentences](../claims/segmentation-corpus-434-essays-22581-sentences.md) [+W]
-- [Sentence-to-learning-tip segmentation coding by three trained coders reached an average Cohen's Kappa of 0.96](../claims/segmentation-coding-kappa-096.md) [+W]
-- [Learning-tip-to-lecture-topic coding by seven coders reached an overall agreement of 0.87 (Cohen's Kappa)](../claims/topic-coding-agreement-087.md) [+W]
 
 ## Related Designs
 

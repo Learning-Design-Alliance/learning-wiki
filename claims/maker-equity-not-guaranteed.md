@@ -45,6 +45,6 @@ The editors synthesize Cluster IV papers, reporting that "equity is not guarante
 
 
 ## Related Claims
-- [Special-issue papers articulate theoretical frameworks for inquiry, problem-based learning, and teacher learning and technology integration](special-issue-frameworks-inquiry-pbl-teacher-learning.md) — related
+- Special-issue papers articulate theoretical frameworks for inquiry, problem-based learning, and teacher learning and technology integration — related
 - [Even districts with consistent curriculum use encountered persistent equity access gaps for multilingual learners and students with learning differences](consistent-hqim-use-does-not-guarantee-equitable-access.md) — related
 - [Episodes of off-task play with maker materials caused temporal fragmentation of groups' joint attention on the learning challenge](temporal-fragmentation-joint-attention-makerspace.md) — related

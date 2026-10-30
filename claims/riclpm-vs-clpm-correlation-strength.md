@@ -49,5 +49,5 @@ Comparison of the present RI-CLPM results with the earlier CLPM analysis of the 
 - [Adding lag-2 paths to CLPMs substantially improves fit and provides stronger controls for preexisting differences, positioning extended CLPMs as viable alternatives to RI-CLPMs](lag-2-paths-improve-clpm-fit-and-control.md) — related
 - [Across basic and extended RI-CLPMs and CLPMs of five-wave secondary-school data, math self-concept and achievement show consistent reciprocal (bidirectional) directional ordering](rem-reciprocal-effects-ri-clpm-clpm-palma.md) — related
 - [Simulation evidence shows RI-CLPM estimates are biased when the true model is a CLPM with lag-2 effects, and fit statistics cannot decide between the two](rudtke-robitzsch-simulation-ri-clpm-bias-lag2.md) — related
-- [The choice of longitudinal statistical model can determine whether reciprocal motivation-achievement relations are found](statistical-model-choice-reciprocal-effects.md) — related
+- The choice of longitudinal statistical model can determine whether reciprocal motivation-achievement relations are found — related
 - [RI-CLPM on simulated PALMA-like data shows positive reciprocal cross-lagged effects between within-individual math achievement and self-concept](riclpm-simulated-palma-positive-reciprocal-effects.md) — related

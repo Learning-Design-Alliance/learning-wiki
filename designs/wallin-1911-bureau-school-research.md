@@ -17,7 +17,7 @@ sources:
 # Bureau of school research as a central clearing-house for educational data
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 A proposed central school department in charge of a director who is an expert in child, educational and clinical psychology with experimental pedagogy and teaching experience. The article argues investigation results are liable to run to sand unless they are "properly unified, correlated and brought to a focus", and that the bureau should gather, compile, compare, correlate, interpret and turn to practical use data from five sources: medico-dental examination records, sociological case data, pedagogical records, controlled educational experiments, and psycho-clinical records.
@@ -38,7 +38,6 @@ A proposed central school department in charge of a director who is an expert in
 
 ### Claims
 
-- [Bureaus for educational research within school systems provide a continuous survey whose influence is more salutary and lasting than a transient external survey](../claims/research-bureaus-continuous-internal-survey.md) [+W]
 
 ## Related Designs
 

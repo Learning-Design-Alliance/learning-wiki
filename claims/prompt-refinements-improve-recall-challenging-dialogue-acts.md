@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: spain-2024
     resource: "https://doi.org/10.21203/rs.3.rs-4565500/v1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Adding Command label clarification and training context raised the Command label's F1 score to 0.75 for GPT-3.5, and GPT-4 achieved higher recall than T5 on the Other label (0.67 vs. 0.54) and Action-Statement label (0.73 vs. 0.46). [→ Spain 2024](#spain-2024)

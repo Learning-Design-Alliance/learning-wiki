@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: funayama-2025
     resource: "https://doi.org/10.1007/s40593-025-00474-w"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Pre-finetuning with key phrases yields a maximum improvement of approximately 0.25 QWK when only 10 answers are used for finetuning, and halves the training data needed for the same performance. [→ Funayama 2025](#funayama-2025)

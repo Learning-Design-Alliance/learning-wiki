@@ -55,4 +55,4 @@ The review reports, citing Lintner's 2024 systematic review, that no AI literacy
 - [Post-2024 instrument development expanded objective AI-literacy measurement, which had been dominated by self-report scales](objective-ai-literacy-measures-expanded-post-2024.md) — related
 - [Little attention has been paid to the undesirable consequences of indiscriminate AI application, including automation-driven socio-economic inequality](k12-ai-literacy-neglects-undesirable-consequences.md) — related
 - [A 2024 systematic review identified 22 studies validating 16 AI literacy scales, most of them self-report rather than performance-based](review-22-studies-16-ai-literacy-scales.md) — related
-- [Ten years of AIED publications were predominantly by and for the Western world (reported by Blanchard, 2014)](aied-research-western-centric-bias.md) — related
+- Ten years of AIED publications were predominantly by and for the Western world (reported by Blanchard, 2014) — related

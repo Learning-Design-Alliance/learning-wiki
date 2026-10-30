@@ -32,6 +32,7 @@ A 15-item questionnaire developed by Ivar Bråten and colleagues to assess under
 
 - [Metacognitive Awareness of Reading Strategies Inventory](metacognitive-awareness-of-reading-strategies-inventory.md)
 - [MAWSQ: Metacognitive Academic Writing Strategies Questionnaire](mawsq-metacognitive-academic-writing-strategies-questionnaire.md)
+- [Inventory of School Motivation (ISM)](inventory-of-school-motivation-ism.md)
 
 ## Key Sources
 - Ivar Bråten & Helge I. Strømsø. (2011). Measuring strategic processing when students read multiple texts. Metacognition Learning 6:111–130. https://doi.org/10.1007/s11409-011-9075-7

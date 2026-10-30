@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: jingjing-chen-2022
     resource: "https://doi.org/10.1101/2022.06.08.495411"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Correlations between relaxation indexes and academic performance failed to reach significance (inter-brain relaxation: r = -0.278, p = .152; single-brain relaxation coupling: r = 0.069, p = .728, n = 28). [→ Jingjing Chen 2022](#jingjing-chen-2022)

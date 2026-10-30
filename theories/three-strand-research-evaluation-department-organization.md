@@ -47,6 +47,7 @@ The report recommends that the Department of Research and Evaluation be "organiz
 - [Support school data use through intermediary instructional officers rather than directly](../strategies/data-support-through-aio-intermediaries.md)
 - [Data warehouse linking student and teacher data to support instructional improvement](../elements/cps-data-warehouse-for-teaching-and-learning.md)
 - [Lead an annual district research agenda and coordinate outside researchers to maximize usefulness of research](../strategies/annual-research-agenda-coordinating-outside-researchers.md)
+- [New Orleans Department of Educational Research embedded in the public school system](../designs/new-orleans-department-educational-research.md)
 
 ## Key Sources
 - Laurence Stanton and John Q. Easton. (2002). Research and Evaluation in the Chicago Public Schools: A Plan for the Future. Consortium on Chicago School Research. https://consortium.uchicago.edu/publications/research-and-evaluation-chicago-public-schools-plan-future

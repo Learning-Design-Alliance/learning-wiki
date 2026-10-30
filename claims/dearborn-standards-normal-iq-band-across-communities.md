@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 1922
+recheck_by: 1925
 sources:
   - id: walter-f-dearborn-and-edward-a-lincoln-1922
     resource: "https://doi.org/10.1037/h0075378"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1925**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Under the new standards, the median child in each community stayed within the normal IQ group (0.90 to 1.10); the largest deviation occurred in the twelfth year, where the lowest-scoring group's median child had an IQ of 0.93 and the highest-scoring group's had 1.04. [→ Walter F. Dearborn and Edward A. Lincoln 1922](#walter-f-dearborn-and-edward-a-lincoln-1922)

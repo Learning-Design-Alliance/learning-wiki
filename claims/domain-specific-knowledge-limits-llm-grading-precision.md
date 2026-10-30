@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: da-wei-zhang-2024
     resource: "https://doi.org/10.1038/s41539-024-00291-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The authors argue the most accurate grading came from the prompt with the most domain-specific knowledge, while more advanced models did not improve grading, suggesting domain-specific knowledge is the limiting factor. [→ Da-Wei Zhang 2024](#da-wei-zhang-2024)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: weak
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: van-leent-2023
     resource: "https://doi.org/10.1016/j.edurev.2023.100527"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Across 9 definitions of sexuality education, components ranged from knowledge and understanding to risks, skills, rights and sexually transmitted diseases; relationships appeared in 7 and values in 6. [→ van Leent 2023](#van-leent-2023)
@@ -45,4 +46,4 @@ Qualitative content analysis of the 9 sexuality-education definitions in the rev
 
 
 ## Related Claims
-- [Growth in RSE research has been accompanied by divergence rather than convergence of content](rse-content-divergence.md) — a broader claim this one bears on
+- Growth in RSE research has been accompanied by divergence rather than convergence of content — a broader claim this one bears on

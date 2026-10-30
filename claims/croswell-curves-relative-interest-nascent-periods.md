@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1920
+recheck_by: 1925
 sources:
   - id: waples-1920
     resource: "https://doi.org/10.1037/h0076045"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 1920 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1920 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1925**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Curves of relative interest computed from children's amusement reports indicate nascent periods, exemplified by games of chase peaking in middle childhood and declining by adolescence. [→ Waples 1920](#waples-1920)

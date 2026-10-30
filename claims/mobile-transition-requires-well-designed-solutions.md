@@ -46,8 +46,8 @@ Editorial summarizing the Giannakas et al. (2018) review of mobile game-based le
 
 ## Related Claims
 - [The effect of mobile game-based learning on learners' engagement and achievement is still to be documented in research](mgb-engagement-achievement-undocumented.md) — related
-- [Giannakas et al. (2018) mixes instructional methods with learning theories, listing problem solving, experiential learning, situated learning, and task-based language learning as learning theories](mgbl-review-mixes-methods-with-learning-theories.md) — related
-- [The six dimensions of the Giannakas et al. (2018) review are categories of conditions, and the review lacks guidance for analyzing values](mgbl-review-dimensions-conditions-lacks-values.md) — related
+- Giannakas et al. (2018) mixes instructional methods with learning theories, listing problem solving, experiential learning, situated learning, and task-based language learning as learning theories — related
+- The six dimensions of the Giannakas et al. (2018) review are categories of conditions, and the review lacks guidance for analyzing values — related
 - [mGBL's main benefit is affective, which may sacrifice effectiveness or efficiency to increase motivation and engagement](mgbl-affective-benefit-sacrifices-effectiveness-efficiency.md) — related
 - [mGBL makes more sense for teaching lower-level enabling content than complex performances that mix multiple learning domains](mgbl-suits-lower-level-enabling-content.md) — related
 - [Six response essays propose ways to action practical learning in online spaces, building on the Zacharia et al. (2015) guidance review](six-responses-practical-learning-online.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: di-mitri-2022
     resource: "https://doi.org/10.1007/s40593-021-00281-z"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` SharpFlow classified one chest compression in about 70 milliseconds on average, and the authors report the architecture allowed provision of real-time multimodal feedback (H1). [→ Di Mitri 2022](#di-mitri-2022)

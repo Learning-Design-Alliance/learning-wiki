@@ -48,6 +48,8 @@ Statistical comparison of three years of freshman records at the University of M
 - [Gender](../learner-variables/gender.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
+
 - [Non-fraternity men showed a higher percentage of delinquent hours of work than non-fraternity women](delinquent-hours-men-versus-women.md) — related
 - [Fraternity men had a worse laggard record than non-fraternity men at Minnesota, while sorority women did better than non-sorority women](fraternity-life-worse-laggard-record.md) — related
 - [Students from wealthier backgrounds and private schools appeared disproportionately on the laggard list](wealth-handicap-laggard-list.md) — related
+- [In Pyle's experiments women made better records than men](women-better-records-pyle-memory-experiments.md)

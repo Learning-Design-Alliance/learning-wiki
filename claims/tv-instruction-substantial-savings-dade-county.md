@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 1959
+recheck_by: 1962
 sources:
   - id: twyford-1959
     resource: "https://doi.org/10.1007/bf02713419"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 1959 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1959 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1962**: local conditions change quickly
 > **Design limits** · Twyford 1959: no comparison group (read from the study by two models, 2026-10-29)
 
 ## Subclaims

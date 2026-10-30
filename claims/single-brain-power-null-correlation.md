@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: jingjing-chen-2023
     resource: "https://doi.org/10.1038/s41539-023-00162-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Neither Chinese nor Math final exam scores correlated significantly with single-brain relative power in any of the four frequency bands. [→ Jingjing Chen 2023](#jingjing-chen-2023)

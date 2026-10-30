@@ -50,6 +50,6 @@ Editorial introduction stating its purpose: summarizing six response essays on p
 - [The editorial reports that immersive VR became a resource for collaborative meaning making through 'emancipatory immersion' (Silseth et al.)](vr-collaborative-meaning-making-emancipatory-immersion.md) — a narrower finding that bears on this claim
 - [West et al. (2020) provide value-added guidance examples for each CoSIL phase, addressing three phases that lacked sufficient guidance examples](west-cosil-phase-guidance-examples.md) — related
 - [The Giannakas et al. (2018) review found that transitioning game-based learning to mobile requires well-designed technological and pedagogical solutions, not quick modification](mobile-transition-requires-well-designed-solutions.md) — related
-- [Few existing studies distinguished generalized teacher PD from teacher PD for online and blended learning](few-studies-generalized-pd-versus-obl-pd-gap.md) — related
+- Few existing studies distinguished generalized teacher PD from teacher PD for online and blended learning — related
 - [Guidance tools in CoSIL increased ease of use but failed to personalize support to individual students, as reported by the reviewed literature](cosil-guidance-ease-of-use-not-personalized.md) — related
-- [Special-issue frameworks argue for design-thinking-based and originary theory development in learning design and technology](design-thinking-and-originary-theory-development.md) — related
+- Special-issue frameworks argue for design-thinking-based and originary theory development in learning design and technology — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 2006
+recheck_by: 2011
 sources:
   - id: critten-2006
     resource: "https://doi.org/10.1037/0022-0663.99.1.207"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2011**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Number of correct spellings differed significantly across the five stages, with post hoc differences between stage 1 and stages 2-5 and between stage 2 and stages 4-5. [→ Critten 2006](#critten-2006)

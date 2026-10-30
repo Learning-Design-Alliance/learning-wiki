@@ -49,4 +49,4 @@ An empirical application of RMPW to data from an experimental welfare-to-work pr
 - Conventional mediation methods generate biased results when the mediator–outcome relationship depends on treatment condition — a broader claim this one bears on
 - RMPW requires relatively few assumptions about outcome and mediator distributions and outcome-model functional form compared with model-based alternatives — a broader claim this one bears on
 - [RMPW decomposes total effects into natural direct and indirect effects, with the indirect effect further split into a pure indirect effect and a natural treatment-by-mediator interaction effect](rmpw-decomposes-total-indirect-interaction-effects.md) — a broader claim this one bears on
-- [Whether results represent causal effects requires knowledge and assumptions about data, design, and methods in both experimental and non-experimental work](causal-claims-require-assumptions-in-both-designs.md) — related
+- Whether results represent causal effects requires knowledge and assumptions about data, design, and methods in both experimental and non-experimental work — related

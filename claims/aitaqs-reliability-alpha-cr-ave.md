@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: zhang-2026
     resource: "https://doi.org/10.1038/s41539-026-00431-9"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Cronbach's α for the four dimensions ranges 0.721–0.745, above the recommended critical values. [→ Zhang 2026](#zhang-2026)
@@ -64,8 +65,8 @@ Convergent validity analysis (Table 9). All CR values "exceed 0.7"; AVE values b
 
 
 ## Related Claims
-- [All AITAQS items load above 0.50 on their target factor with cross-loadings below 0.30, in the hypothesized assignment (X1–X3 Feedback Quality through X10–X12 User Trust).](aitaqs-item-loadings-and-cross-loadings.md) — related
-- [The AITAQS item pool shows sampling adequacy for factor analysis, with KMO = 0.758 and a significant Bartlett test (χ² = 438.75, df = 66, p < 0.001).](aitaqs-kmo-bartlett-adequacy.md) — related
+- All AITAQS items load above 0.50 on their target factor with cross-loadings below 0.30, in the hypothesized assignment (X1–X3 Feedback Quality through X10–X12 User Trust). — related
+- The AITAQS item pool shows sampling adequacy for factor analysis, with KMO = 0.758 and a significant Bartlett test (χ² = 438.75, df = 66, p < 0.001). — related
 - [The GenAI-SRL scale shows satisfactory reliability, convergent validity, and discriminant validity across its six dimensions](genai-srl-scale-reliability-validity.md) — related
 - [The survey instrument's nine constructs show convergent and discriminant validity in this sample](genai-motivation-survey-measurement-validity.md) — related
 - [TAILS dimensions show high internal consistency, with Cronbach's alpha values above 0.90](tails-high-internal-consistency.md) — related

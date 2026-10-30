@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2018
+recheck_by: 2023
 sources:
   - id: li-2018
     resource: "https://doi.org/10.1038/s41539-018-0034-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` The UPC group met developmental expectations for word reading accuracy and fluency but performed poorly on reading comprehension, on average one to two standard deviations below developmental expectations. [→ Li 2018](#li-2018)

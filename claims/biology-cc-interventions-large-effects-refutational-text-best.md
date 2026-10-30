@@ -66,7 +66,7 @@ Corpus definition from the Methods section: of 96 qualitatively reviewed article
 
 ## Related Claims
 - [The most effective biology conceptual change interventions dealt with more simplified phenomena such as the cardiovascular system](biology-cc-effectiveness-simplified-phenomena.md) — a narrower finding that bears on this claim
-- [Evolution is the most investigated topic and text-reading the most common intervention type in biology conceptual change research](biology-cc-topics-and-intervention-types.md) — related
+- Evolution is the most investigated topic and text-reading the most common intervention type in biology conceptual change research — related
 - [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](misconceptions-interfere-with-new-learning.md) — a broader claim this one bears on
-- [Effect sizes of biology conceptual change interventions were strongly influenced by sample size and publication bias](biology-cc-effect-sizes-sample-size-publication-bias.md) — related
+- Effect sizes of biology conceptual change interventions were strongly influenced by sample size and publication bias — related
 - [Personalized refutation text significantly predicts stronger conceptual change among teachers who held both math-gender misconceptions at pre-test](personalized-refutation-text-conceptual-change-misconception-holders.md) — a narrower finding that bears on this claim

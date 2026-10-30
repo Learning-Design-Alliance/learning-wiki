@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: julia-ericson-and-torkel-klingberg-2023
     resource: "https://doi.org/10.1038/s41539-023-00161-2"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Fitting the piecewise linear HMM to individual learning curves revealed the task-specific improvement plateaued on the third day of training on average (median transition day 3.05, quartiles 2.13 and 5.18). [→ Julia Ericson and Torkel Klingberg 2023](#julia-ericson-and-torkel-klingberg-2023)

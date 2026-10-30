@@ -17,7 +17,7 @@ sources:
 # Validate ASR-based reading fluency instruments with the Argument-Based Approach before classroom use
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 1 study (1 design), `q2` · 1 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article demonstrates a validation recipe for automatic reading fluency assessment instruments: specify an Interpretation and Use Argument with scoring, generalization, extrapolation and decision-making inferences, then gather evidence for each. The authors state that "an ASR-based decoding instrument should provide observable and reliable scores" and that scores should generalize to all samples of items and schools, reflect oral reading skills, and allow practitioners to differentiate between readers. Each inference was tested with named analyses (human-rater comparison, reliability estimation, correlations with DMT/AVI, and proficiency-class prediction).
@@ -43,7 +43,6 @@ The article demonstrates a validation recipe for automatic reading fluency asses
 - [Reliability of the ASR-based word decoding and passage reading accuracy and speed measures is excellent, ranging from 0.96 to 1](../claims/asr-fluency-measures-excellent-reliability.md) [+W]
 - [ASR-based item-level passage reading speed scores correlate moderately to strongly with human transcriber speed scores](../claims/asr-passage-speed-correlates-transcribers.md) [+W]
 - [SERDA oral reading metrics correlate with DMT and AVI classifications (0.32–0.88), with speed and WCPM metrics outperforming ability estimates](../claims/serda-metrics-correlate-dmt-avi.md) [+W]
-- [The school sample generally represented the population but underrepresented the Western dialect region and overrepresented low school-weight schools](../claims/serda-sample-representativeness-limits.md) [~W]
 - [SERDA-derived scores classify children into DMT and AVI proficiency classes with moderate to good accuracy and items discriminate moderately well or better](../claims/serda-scores-predict-proficiency-classes.md) [+W]
 
 ## Related Strategies

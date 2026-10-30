@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 135 claims (62 for, 62 mixed, 11 against) · 117 studies (26 associational, 23 qualitative, 20 causal, 18 review, 14 design, 11 quant-synthesis, 5 theoretical), `q1`–`q4` · 20 of 117 report an effect size · 132 claims rest on one study
+> **Evidence** · 134 claims (61 for, 62 mixed, 11 against) · 116 studies (25 associational, 23 qualitative, 20 causal, 18 review, 14 design, 11 quant-synthesis, 5 theoretical), `q1`–`q4` · 20 of 116 report an effect size · 131 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -155,7 +155,6 @@ Technology integration is the element in which digital tools are used in direct 
 - [Teachers' most frequently cited barrier to classroom technology use was lack of access to technology, on both pre- and post-surveys](../claims/technology-access-top-barrier-for-teachers.md) [~W]
 - [Teachers perceived the potential of Web 2.0 tools but did not currently consider including them in their courses, citing lack of training](../claims/teachers-not-yet-include-web20-tools-lack-training.md) [~W]
 - [A lower pupil/PC-ratio in the classroom (more computers available in class) is associated with higher classroom ICT integration](../claims/pupil-pc-ratio-negative-effect-class-ict-use.md) [~W]
-- [Eight survey items corresponding to 'pedagogical techniques that use technologies in constructive ways to teach content' were selected for qualitative analysis](../claims/eight-teaching-content-items-selected.md) [+W]
 - [Field instructors positioned technology as a presentation aid to be tempered with traditional teaching](../claims/field-instructors-technology-as-presentation-aid-tempered.md) [-W]
 - [MISTT analysis revealed mismatches in teacher identity expectations which may hinder effective technology integration](../claims/mistt-identity-expectation-mismatches-hinder-technology-integration.md) [~W]
 - [Teacher-led robot curriculum with teacher education improves pupils' debugging scores relative to control](../claims/teacher-education-robot-curriculum-improves-debugging.md) [+W]

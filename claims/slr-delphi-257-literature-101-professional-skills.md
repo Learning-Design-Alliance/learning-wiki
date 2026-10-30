@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: nicolai-b-plintz-2026
     resource: "https://doi.org/10.1007/s11423-025-10565-z"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q3 i?` The systematic literature review initially extracted over 500 skills, reduced to N = 257 relevant age-appropriate skills after exclusions and deduplication. [→ Nicolai B. Plintz 2026](#nicolai-b-plintz-2026)

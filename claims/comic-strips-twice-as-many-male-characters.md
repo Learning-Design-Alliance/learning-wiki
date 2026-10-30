@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 1953
+recheck_by: 1958
 sources:
   - id: audio-visual-communication-review-1953
     resource: "https://doi.org/10.1007/bf02713301"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1953 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1953 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1958**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In the analyzed three-week sample of Sunday comic strips, male characters outnumber female characters by more than two to one. [→ Audio-Visual Communication Review 1953](#audio-visual-communication-review-1953)
@@ -45,8 +46,10 @@ Content-analysis study of a three-week sampling of 52 nationally syndicated Sund
 
 
 ## Related Claims
+
 - [Comic strip characters of both sexes highly prize altruistic group-oriented goals while self-oriented goals are frequent though disapproved](comic-characters-altruistic-goals-self-oriented-ambivalence.md) — related
 - [Female comic characters skew toward upper socio-economic classes while males skew toward lower classes](comic-characters-sex-socioeconomic-class-distribution.md) — related
 - [Female comic characters' goals and means vary by class: upper class being loved and lovable, middle class career recognition by hard work, lower class serving others and accepting fate](comic-female-characters-class-goals-means.md) — related
 - [Male comic characters' goals and means differ by socio-economic class: upper class humanitarian, middle class self- and power-goals with aggressive means, lower class fate and charm](comic-male-characters-class-goals-means.md) — related
 - [Comic strips reflect ambiguous attitudes toward the status of women](comic-strips-ambiguous-attitudes-women.md) — related
+- [Children need different kinds of comics at different developmental stages, from animal comics for early projective needs to invincible heroes for ego-inflation](children-comics-developmental-stages.md)

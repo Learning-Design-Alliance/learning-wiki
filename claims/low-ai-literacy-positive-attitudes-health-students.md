@@ -55,4 +55,4 @@ The review reports, citing Allam et al. (2024), a multi-national cross-sectional
 - [Faculty concerns centered on academic integrity (80%) and student over-reliance on AI (70%), and their most requested development topic was AI ethics and academic integrity (70%)](faculty-ai-concerns-integrity-ethics-training-demand.md) — related
 - [Teacher educators show shallow understanding of GenAI tools and gaps in aligning AI use with pedagogical goals](teacher-educators-shallow-genai-understanding-gaps.md) — related
 - [A widely used healthcare algorithm underestimated the medical needs of Black patients because it used healthcare spending as a proxy for health status](healthcare-algorithm-bias-black-patients.md) — related
-- [Six metacognition research topics show significantly increasing trends, including healthcare education and assessment and feedback](six-metacognition-topics-significantly-increasing.md) — related
+- Six metacognition research topics show significantly increasing trends, including healthcare education and assessment and feedback — related

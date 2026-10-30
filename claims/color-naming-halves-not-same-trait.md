@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1916
+recheck_by: 1919
 sources:
   - id: bingham-1916
     resource: "https://www.google.com/search?q=%22Some+Norms+of+Dartmouth+Freshmen%22+Bingham+1916"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 1916 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1916 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1919**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` First-half and second-half color-naming scores cannot be treated as two measures of the same trait because subjects do not do as well in the second half. [→ Bingham 1916](#bingham-1916)
@@ -45,4 +46,5 @@ Methodological observation from the test-procedure description (Woodworth and We
 
 
 ## Related Claims
--
+
+- [Cognitive decline occurred in all domains between the two measurement waves among participants with cognitive data at both time points](cognitive-decline-occurred-all-domains-10-years.md)

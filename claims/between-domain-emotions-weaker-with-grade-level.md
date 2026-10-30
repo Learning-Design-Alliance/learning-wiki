@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 2006
+recheck_by: 2011
 sources:
   - id: goetz-2006
     resource: "https://psycnet.apa.org/journals/edu"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2011**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Homogeneity index h(d) for between-domain emotion relations ranged from .22 to .38 in Grade 8 versus .06 to .20 in Grade 11, with significant differences for each of the five emotions. [→ Goetz 2006](#goetz-2006)

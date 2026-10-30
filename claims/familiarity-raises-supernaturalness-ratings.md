@@ -47,5 +47,5 @@ Linear mixed-effects analysis of online supernaturalness ratings in the 61-parti
 ## Related Claims
 - [Increased inter-hemispheric functional connectivity during supernatural reading appears only in high-familiarity readers and is absent in low-familiarity readers](familiarity-moderates-functional-connectivity.md) — related
 - [The SR-related brain-activation pattern occurs only in readers highly familiar with Harry Potter; low-familiarity readers show no significant differences](familiarity-moderates-sr-activation.md) — related
-- [Supernaturalness ratings correlate positively, but very weakly, with the SR-vs-SF activation difference in the left postcentral gyrus](supernaturalness-rating-correlates-weakly-pocg-activation.md) — related
+- Supernaturalness ratings correlate positively, but very weakly, with the SR-vs-SF activation difference in the left postcentral gyrus — related
 - [Social cognition (AQ S-C-I) partially mediates the relationship between supernaturalness ratings and left sensorimotor activation during supernatural reading](social-cognition-mediates-supernatural-activation.md) — related

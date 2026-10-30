@@ -64,5 +64,5 @@ Follow-up trial-level mediation analyses using each AQ subscale separately, all 
 
 
 ## Related Claims
-- [Supernaturalness ratings correlate positively, but very weakly, with the SR-vs-SF activation difference in the left postcentral gyrus](supernaturalness-rating-correlates-weakly-pocg-activation.md) — related
+- Supernaturalness ratings correlate positively, but very weakly, with the SR-vs-SF activation difference in the left postcentral gyrus — related
 - [Readers highly familiar with Harry Potter rate all scenarios as more supernatural than low-familiarity readers](familiarity-raises-supernaturalness-ratings.md) — related

@@ -48,4 +48,4 @@ Descriptive survey analysis of the REATIC consideration items across the five br
 - [In all areas of knowledge, students' consideration of ICT exceeds their use of ICT](consideration-exceeds-use-in-all-areas.md) — related
 - [Use and consideration of ICT differ significantly across the five areas of knowledge, with Health Sciences students showing the highest preference level in use](ict-use-differs-by-area-health-sciences-highest.md) — related
 - [University of Salamanca students most frequently use basic and personal interrelation programs, search engines, online video portals and virtual libraries](students-mainly-use-basic-programs-search-engines-video-portals.md) — related
-- [Factor analysis identifies three components of ICT consideration: help/importance, tools for an end, and negative valuation](three-components-of-ict-consideration.md) — related
+- Factor analysis identifies three components of ICT consideration: help/importance, tools for an end, and negative valuation — related

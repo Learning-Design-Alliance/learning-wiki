@@ -45,6 +45,6 @@ Qualitative interpretation of the prompt type co-occurrence network (Fig. 5), de
 
 
 ## Related Claims
-- [A small set of dominant prompt labels structures the literature, led by metacognitive and self-explanation prompts](dominant-prompt-labels-metacognitive-self-explanation.md) — related
-- [Most prompt labels do not co-occur with other labels, indicating studies narrowly focus on single prompt characteristics](low-co-occurrence-single-characteristic-focus.md) — reports the opposite
-- [The four-dimension typology mapped well onto prompt labels, with function labels most frequent and three new presentation subcategories added](typology-mapping-function-dominant-new-subcategories.md) — related
+- A small set of dominant prompt labels structures the literature, led by metacognitive and self-explanation prompts — related
+- Most prompt labels do not co-occur with other labels, indicating studies narrowly focus on single prompt characteristics — reports the opposite
+- The four-dimension typology mapped well onto prompt labels, with function labels most frequent and three new presentation subcategories added — related

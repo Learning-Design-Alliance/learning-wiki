@@ -12,7 +12,7 @@ generated:
 # EMCQG stem-indicativeness and distractor-difference item-difficulty estimation method
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 EMCQG's difficulty calculator estimates question difficulty from the ranked strength of relations rather than axiomatic concept similarity. Stem indicativeness (stemInd, from sympInd and histInd) measures how strongly stem entities indicate the key; option difference (optDiff, from squared distractor differences disDiff) measures how close distractors are to the key. "The question difficulty is based on an average of the stem entities’ difficulty and the option entities’ difficulty." Squaring distractor differences weights very-similar distractors more heavily, in the absence of an empirically validated coefficient.
@@ -22,6 +22,8 @@ EMCQG's difficulty calculator estimates question difficulty from the ranked stre
 - **EMCQG's difficulty model: question difficulty computed from stem indicativeness and distractor-key rank differences**: EMCQG's difficulty calculator estimates question difficulty from the ranked strength of relations rather than axiomatic concept similarity. Stem indicativeness (stemInd, from sympInd and histInd) measures how strongly stem entities indicate the key; option difference (optDiff, from squared distractor differences disDiff) measures how close distractors are to the key. "The question difficulty is based on an average of the stem entities’ difficulty and the option entities’ difficulty." Squaring distractor differences weights very-similar distractors more heavily, in the absence of an empirically validated coefficient. (J. Leo et al. (2019))
 
 ### Claims
+
+- [Models with similar rank correlations differ substantially in estimating difficulty magnitude (RMSE and MAE)](../claims/llm-difficulty-magnitude-error-varies-across-models.md) [~W]
 
 ## Related Research Methods
 -

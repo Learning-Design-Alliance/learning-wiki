@@ -12,7 +12,7 @@ generated:
 # GSR model: realism as three independently manipulable dimensions of geometry, shading, and rendering
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The geometry, shading, and rendering (GSR) model is a technical taxonomy of realism grounded in the actual production process of computer-generated imagery in 3D software. It replaces unidimensional realism continua with three dimensions that 'can individually range from simplified to highly realistic', so that each dimension's contribution to realism can be assessed separately. The authors present it as a common terminology for educators, designers, and researchers, exemplified with renderings of the patella created in Blender (Fig. 2).
@@ -22,6 +22,8 @@ The geometry, shading, and rendering (GSR) model is a technical taxonomy of real
 - **GSR model: realism as three independently manipulable dimensions of geometry, shading, and rendering**: The geometry, shading, and rendering (GSR) model is a technical taxonomy of realism grounded in the actual production process of computer-generated imagery in 3D software. It replaces unidimensional realism continua with three dimensions that 'can individually range from simplified to highly realistic', so that each dimension's contribution to realism can be assessed separately. The authors present it as a common terminology for educators, designers, and researchers, exemplified with renderings of the patella created in Blender (Fig. 2). (Skulmowski et al. (2022))
 
 ### Claims
+
+- [Realism can serve as signaling when a drastic contrast in shading and rendering highlights relevant parts](../claims/realism-signaling-drastic-contrast.md) [+W]
 
 ## Related Research Methods
 -

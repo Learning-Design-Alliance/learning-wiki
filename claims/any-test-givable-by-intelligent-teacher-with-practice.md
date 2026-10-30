@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1919
+recheck_by: 1922
 sources:
   - id: j-c-b-1919
     resource: "https://en.wikipedia.org/wiki/Journal_of_Educational_Psychology"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
-> **Currency** · newest study 1919 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1919 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1922**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` No scale or test then in public use is beyond the capacity of an intelligent teacher to administer, score, and tabulate with a little careful practice. [→ J. C. B 1919](#j-c-b-1919)

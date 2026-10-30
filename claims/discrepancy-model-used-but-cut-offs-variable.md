@@ -45,6 +45,6 @@ Review of underachievement identification across the nine articles (Tables 3–4
 
 
 ## Related Claims
-- [Methods used to identify giftedness in gifted-underachievement research vary widely, with most studies relying on a single measure](giftedness-identification-methods-variable-single-measure.md) — related
-- [Research on gifted underachievement focuses mainly on individual factors, with structural school-related factors under-researched](individual-factors-dominate-gifted-underachievement-research.md) — related
-- [Most studies of gifted underachievement do not use research designs capable of distinguishing gifted achievers from gifted underachievers](most-gifted-underachievement-studies-lack-group-comparison-designs.md) — related
+- Methods used to identify giftedness in gifted-underachievement research vary widely, with most studies relying on a single measure — related
+- Research on gifted underachievement focuses mainly on individual factors, with structural school-related factors under-researched — related
+- Most studies of gifted underachievement do not use research designs capable of distinguishing gifted achievers from gifted underachievers — related

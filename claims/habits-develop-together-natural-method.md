@@ -46,7 +46,7 @@ Later studies of learning, including the typewriting work, showed that in natura
 
 
 ## Related Claims
-- [Experimental work on method has concentrated in the habit group of studies, with extension to other curriculum subjects as the next step](habit-group-concentration-next-step.md) — related
+- Experimental work on method has concentrated in the habit group of studies, with extension to other curriculum subjects as the next step — related
 - [Lower-order habits persist after being superseded and resist new ways of working, requiring constant effort to overcome](law-of-habit-resistance-to-new-methods.md) — related
 - [Learning-curve plateaus were caused by learners' failure to overcome specific difficulties at critical stages, not by the order in which habits developed](plateaus-caused-by-unovercome-difficulties.md) — related
 - [New adaptations in skill learning were made unintentionally and required intense, carefully applied effort under favorable conditions](higher-order-adaptations-unintentional-effort-driven.md) — related

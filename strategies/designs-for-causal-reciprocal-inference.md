@@ -17,7 +17,7 @@ sources:
 # Use longitudinal designs combining experimental manipulation with alternating measurement of motivation and achievement to establish causal reciprocity
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 4 studies (2 review, 2 associational), `q1`–`q2` · 0 of 4 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 4 studies (2 review, 2 associational), `q1`–`q3` · 0 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 The review recommends that future studies meet three preconditions for causal inference in reciprocal relations: temporal order in both directions with alternation of measurements, correlation, and manipulation of one variable affecting the other at a later time point. It states that, to its knowledge, "no studies of the mutual relations between motivation and achievement also satisfy the third precondition of causality". It suggests new manipulations that raise perceived performance without raising performance per se, and notes double-blinded random assignment is easier in the lab than the classroom.
@@ -39,7 +39,6 @@ The review recommends that future studies meet three preconditions for causal in
 ## Claims
 
 - [Meta-analytic longitudinal evidence shows achievement affects later motivation about twice as strongly as motivation affects later achievement, with both pooled effects small](../claims/scharmer-pooled-achievement-motivation-effects-twice.md) [+M]
-- [The choice of longitudinal statistical model can determine whether reciprocal motivation-achievement relations are found](../claims/statistical-model-choice-reciprocal-effects.md) [~M]
 - [Across basic and extended RI-CLPMs and CLPMs of five-wave secondary-school data, math self-concept and achievement show consistent reciprocal (bidirectional) directional ordering](../claims/rem-reciprocal-effects-ri-clpm-clpm-palma.md) [+M]
 - [Simulation evidence shows RI-CLPM estimates are biased when the true model is a CLPM with lag-2 effects, and fit statistics cannot decide between the two](../claims/rudtke-robitzsch-simulation-ri-clpm-bias-lag2.md) [~W]
 

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1917
+recheck_by: 1920
 sources:
   - id: pyle-1917
     resource: "https://psycnet.apa.org"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1920**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The ink-blot test shows a negative relation to the other tests, with young children doing better, and the author speculates dull high school pupils may be more like younger children or merely uncritical. [→ Pyle 1917](#pyle-1917)

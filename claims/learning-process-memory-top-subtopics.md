@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 1918
+recheck_by: 1923
 sources:
   - id: hall-quest-1918
     resource: "https://eric.ed.gov/?id=EJ"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1923**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In the surveyed courses, The Learning Process and Memory were each listed as a stressed sub-topic by eleven respondents, with fatigue (7), instinct (8), and habit (8) also common. [→ Hall-Quest 1918](#hall-quest-1918)
@@ -47,5 +48,5 @@ Summary of Table II sub-topic counts, where The Learning Process and Memory each
 ## Related Claims
 
 - [A 1918 questionnaire survey of teachers of educational psychology received sixty-seven replies, revealing no general agreement on terminology or course structure](hallquest-1918-survey-no-agreement-terminology.md) — related
-- [Texts by Thorndike and Colvin were used most frequently in educational psychology courses](thorndike-colvin-texts-most-used.md) — related
+- Texts by Thorndike and Colvin were used most frequently in educational psychology courses — related
 - [Lecturing is the dominant teaching method in educational psychology, with well-equipped laboratories in about one-third of institutions](lecture-method-dominant-labs-one-third.md)

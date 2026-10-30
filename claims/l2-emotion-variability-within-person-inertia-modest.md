@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: peng-wang-2026
     resource: "https://doi.org/10.1007/s10648-026-10141-8"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` ICCs showed within-person variation accounts for 62–68% of variance across outcomes, and mean lag-1 autocorrelations of about .17–.19 indicate modest but reliable affective inertia. [→ Peng Wang 2026](#peng-wang-2026)

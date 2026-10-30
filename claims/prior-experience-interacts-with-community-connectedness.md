@@ -49,4 +49,4 @@ Mixed-methods study of one humanistic knowledge building community over a semest
 
 ## Related Claims
 - [Group dynamics are a vital aspect of community discourse, and the socioemotional dimensions people attach to them may determine stage advancement](group-dynamics-socioemotional-stage-advancement.md) — related
-- [Combining Epistemic Network Analysis with deep qualitative ethnographies improves understanding of complex socioemotional phenomena in learning communities](combining-ena-with-qualitative-ethnography.md) — related
+- Combining Epistemic Network Analysis with deep qualitative ethnographies improves understanding of complex socioemotional phenomena in learning communities — related

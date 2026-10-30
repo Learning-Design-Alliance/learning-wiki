@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1913
+recheck_by: 1918
 sources:
   - id: locke-1913
     resource: "https://www.google.com/books/search?q=%22Inspector+Winch%27s+Experiments+on+Transfer%22"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 1913 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1913 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1918**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Practice curves in both computation and reasoning would not differ materially from the learning curves of Bryan and Harter and Book. [→ Locke 1913](#locke-1913)

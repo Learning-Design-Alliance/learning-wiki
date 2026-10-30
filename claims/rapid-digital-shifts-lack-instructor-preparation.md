@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: j-michael-spector-2021
     resource: "https://doi.org/10.1007/s11423-021-09961-y"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Many efforts to shift to digitally-based learning are made without spending time to properly prepare instructors or develop appropriate support structures for instructors and learners. [→ J. Michael Spector 2021](#j-michael-spector-2021)

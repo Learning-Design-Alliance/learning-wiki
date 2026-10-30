@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2019
+recheck_by: 2022
 sources:
   - id: kirsten-w-j-touw-2019
     resource: "https://doi.org/10.1007/s11423-019-09655-6"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i3` Test–retest correlation of pre- and post-test scores was considerably higher for control children (r = 0.742) than for trained children (r = 0.348). [→ Kirsten W. J. Touw 2019](#kirsten-w-j-touw-2019)

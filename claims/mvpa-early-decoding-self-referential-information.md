@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: li-2024
     resource: "https://doi.org/10.1038/s41539-024-00256-4"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Both congruent and incongruent self-reference conditions were decodable from non-self-reference conditions starting around 80–100 ms, and self-reference vs non-self-reference decoding of congruency conditions extended beyond the N2 window. [→ Li 2024](#li-2024)

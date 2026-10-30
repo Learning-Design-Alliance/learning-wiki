@@ -83,7 +83,7 @@ The review's own critical assessment of the strength reports: because few articl
 
 
 ## Related Claims
-- [Photography was the most popular visual art form, theatre the most used performing art form, and poetry the most used literary art form in community-based arts-based research, with 64% of studies combining multiple art genres](abr-art-form-distribution-community-research.md) — related
-- [Arts-based methods in community-based research with vulnerable populations grew steadily in use from 1993 to 2013, with 90% of the 131 reviewed studies published between 2004 and 2013](abr-community-based-inquiry-growth-1993-2013.md) — related
-- [Analyzing arts-based data was one of the biggest challenges in community-based arts-based research: what counts as data was unclear, conventional textual analyses dominated, and researcher-led versus participant-led interpretation each risked stereotyping](abr-data-analysis-challenge.md) — related
-- [Researchers adopt arts-based methods in community-based inquiry to challenge language-oriented methods, reduce power imbalances, give voice to vulnerable participants, engage hard-to-verbalize issues, motivate participation, and reach wider audiences](abr-rationales-vulnerable-populations.md) — related
+- Photography was the most popular visual art form, theatre the most used performing art form, and poetry the most used literary art form in community-based arts-based research, with 64% of studies combining multiple art genres — related
+- Arts-based methods in community-based research with vulnerable populations grew steadily in use from 1993 to 2013, with 90% of the 131 reviewed studies published between 2004 and 2013 — related
+- Analyzing arts-based data was one of the biggest challenges in community-based arts-based research: what counts as data was unclear, conventional textual analyses dominated, and researcher-led versus participant-led interpretation each risked stereotyping — related
+- Researchers adopt arts-based methods in community-based inquiry to challenge language-oriented methods, reduce power imbalances, give voice to vulnerable participants, engage hard-to-verbalize issues, motivate participation, and reach wider audiences — related

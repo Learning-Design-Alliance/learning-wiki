@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1917
+recheck_by: 1922
 sources:
   - id: arthur-s-otis-1917
     resource: "https://doi.org/10.1037/h0074753"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1922**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Considerable overlapping of ability exists between the fourth, sixth, and eighth grades on the point scale, with 8 of 43 fourth graders scoring above the fifth-grade norm. [→ Arthur S. Otis 1917](#arthur-s-otis-1917)

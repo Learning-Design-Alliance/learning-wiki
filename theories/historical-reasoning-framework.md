@@ -45,7 +45,9 @@ The historical reasoning framework (Van Drie & Van Boxtel, 2008) identifies six 
 - [Academic historians' epistemic processes extend well beyond source analysis and writing](../claims/historians-epistemic-processes-extend-beyond-source-analysis.md) [+M]
 
 ## Related Theories
+
 - (none yet linked)
+- [Earth Science logical reasoning framework: logical inference, hermeneutics, and historical method](earth-science-logical-reasoning-framework.md)
 
 ## Examples
 

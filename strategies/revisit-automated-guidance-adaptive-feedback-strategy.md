@@ -17,7 +17,7 @@ sources:
 # Revisit automated guidance and leverage new technological affordances and adaptive feedback to enhance guidance in computer-supported inquiry learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends that, in light of weaknesses in the existing literature, researchers revisit automated guidance and leverage new technological affordances and growing awareness around adaptive feedback. It argues this "may provide additional insights into how more advanced technologies might contribute to enhanced guidance in computer supported inquiry learning environments". The strategy directs future guidance design toward more advanced technologies rather than only the guidance types already studied.
@@ -38,7 +38,6 @@ The article recommends that, in light of weaknesses in the existing literature, 
 
 ## Claims
 
-- [The body of literature on guidance for inquiry with virtual and remote labs has weaknesses exposed by the 2015 review](../claims/weaknesses-in-guidance-inquiry-labs-literature.md) [+W]
 
 ## Related Strategies
 

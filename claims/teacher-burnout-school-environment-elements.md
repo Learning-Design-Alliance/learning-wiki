@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: owens-2021
     resource: "https://doi.org/10.1007/s11423-020-09921-y"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The commentary cites Shackleton et al. (2019) on teacher burnout and contextual and compositional elements of the school environment. [→ Owens 2021](#owens-2021)

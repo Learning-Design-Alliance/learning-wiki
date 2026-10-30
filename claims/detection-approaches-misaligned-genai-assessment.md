@@ -52,4 +52,4 @@ Theoretical argument in the section on why detection-oriented approaches are mis
 - [The paper argues authenticity in AI-mediated assessment is achieved through design rather than detection](authenticity-through-design-not-detection.md) — related
 - [Perfect AI execution cannot remove four limits: accuracy does not settle end-setting, safety does not confer legitimacy, detection does not secure integrity, and outputs do not replace participation](four-limits-perfect-ai-execution.md) — related
 - [GenAI-era assessment reform should move beyond defensive approaches focused primarily on preventing misconduct or detecting AI use](beyond-defensive-assessment-genai-era.md) — possibly the same claim (merge candidate)
-- [Standard empirical review criteria are not relevant to theoretical scholarship and may lead reviewers to reject it](empirical-review-criteria-misfit-theoretical-papers.md) — related
+- Standard empirical review criteria are not relevant to theoretical scholarship and may lead reviewers to reject it — related

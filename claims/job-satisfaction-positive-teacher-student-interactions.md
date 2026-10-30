@@ -48,7 +48,7 @@ Random-effects meta-analyses across four interaction dimensions (k = 7 to 14 stu
 - [Teachers' job satisfaction is negatively associated with absenteeism (pooled r = −0.18)](job-satisfaction-negative-absenteeism.md) — related
 - [Teachers' job satisfaction is negatively associated with turnover intentions (pooled r = −0.46)](job-satisfaction-negative-turnover-intentions.md) — related
 - [Teachers' job satisfaction is positively associated with students' motivation (r = 0.29) and achievement (r = 0.10)](job-satisfaction-positive-student-outcomes.md) — related
-- [Publication year, publication type, and grade level moderate the strength of job satisfaction–performance associations](moderators-of-job-satisfaction-effect-sizes.md) — related
+- Publication year, publication type, and grade level moderate the strength of job satisfaction–performance associations — related
 - [Job satisfaction correlates with performance outcomes for external reports as well as teacher self-reports, though self-report effect sizes are larger](rater-perspective-moderates-job-satisfaction-links.md) — related
 - [Associations with student outcomes are comparable across teacher well-being domains, with no significant differences by domain](no-domain-difference-wellbeing-association.md) — related
 - [Country and school level moderate the relationship between CMSE and many correlates](cmse-country-school-level-moderators.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: fang-wang-2025
     resource: "https://doi.org/10.1038/s41539-025-00371-w"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q3 i?` The HFW-PW contrast elicited larger amplitude responses than the MFW-PW contrast, particularly at the fourth harmonic (4 Hz), replicating the classic word frequency effect in an SSVEP paradigm for the first time. [→ Fang Wang 2025](#fang-wang-2025)

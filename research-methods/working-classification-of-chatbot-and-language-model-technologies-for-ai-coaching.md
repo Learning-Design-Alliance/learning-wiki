@@ -29,6 +29,7 @@ The review proposes a working taxonomy of coaching technologies, from rule-based
 - [Curriculum-Instruction-Assessment triad taxonomy of AI educational purposes in VET](curriculum-instruction-assessment-triad-taxonomy-of-ai-educational-purposes-in-vet.md)
 - [Three-tiered classification system of self-regulation: categories, domains, and facets](three-tiered-classification-system-of-self-regulation-categories-domains-and-facets.md)
 - [Eight-category functional taxonomy of AI technologies in school EFL teaching](eight-category-functional-taxonomy-of-ai-technologies-in-school-efl-teaching.md)
+- [Four-way classification of regulative activity: self-regulation, mirroring, formative assessment, coaching](four-way-classification-of-regulative-activity-self-regulation-mirroring-formative-assessm.md)
 
 ## Key Sources
 - Potel, J. T., & Kumashiro, M. (2026). Artificial Intelligence as a Personal Coach: A Narrative Review of Benefits and Risks in Educational and Health Contexts. Behavioral Sciences, 16(8), 1431. https://doi.org/10.3390/bs16081431

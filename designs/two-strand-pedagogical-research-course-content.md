@@ -40,7 +40,8 @@ The course content was organised into a Pedagogical strand of four themed weeks 
 - 
 
 ## Related Designs
-- 
+
+- [Five-week modular online course structure following the Architecture of Engagement framework](architecture-of-engagement-modular-mentor-course.md)
 
 ## Examples
 -

@@ -45,8 +45,8 @@ Editorial synthesis of the special issue: ten papers were submitted and four acc
 
 
 ## Related Claims
-- [The special issue on AIED in the Global South features 10 papers reviewed according to journal standards](aied-global-south-special-issue-ten-reviewed-papers.md) — related
+- The special issue on AIED in the Global South features 10 papers reviewed according to journal standards — related
 - [The four Special Issue learning communities mediated members toward consensus, with no reports of longstanding dissent](special-issue-communities-mediated-toward-consensus.md) — related
-- [A systematic literature review published from 2009 to June 2016 identified 33 primary studies on ITS authoring tools for non-programmer authors out of 4622 retrieved papers](slr-2009-2016-its-authoring-33-studies.md) — related
+- A systematic literature review published from 2009 to June 2016 identified 33 primary studies on ITS authoring tools for non-programmer authors out of 4622 retrieved papers — related
 - [Across the special issue, all four levels of coupling minds correlate with task performance](all-four-levels-coupling-correlate-task-performance.md) — related
 - [The Trainer is expected to improve attitudes toward peer feedback relative to rubric-only instruction](trainer-expected-improve-peer-feedback-attitudes.md) — related

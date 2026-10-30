@@ -12,7 +12,7 @@ generated:
 # Combined topic modelling and thematic analysis for large-scale student-feedback analysis
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article argues that large-scale analysis of written student feedback is easily dismissed as too time-consuming when done purely by hand, and that purely automatic methods lose richness. Combining the two addresses both problems: "Topic modelling allows pre-sorting large document sets into topic categories and finding most characteristic documents from each category", while thematic analysis assigns expert human themes to those categories. This makes thematic analysis practical in larger datasets and speeds up the analysis.
@@ -25,7 +25,6 @@ The article argues that large-scale analysis of written student feedback is easi
 
 - [Thematic analysis of LDA topics identifies six SET themes matching prior literature](../claims/thematic-analysis-lda-topics-set-themes.md) [+W]
 - [LDA topic modelling of 6,087 written student feedback responses yields six SET-related topics](../claims/lda-six-topics-from-student-feedback.md) [+W]
-- [Topic 4 (dissatisfaction with workload) contradicts thematic analysis and appears invalid](../claims/topic-4-workload-contradicts-thematic-analysis.md) [~W]
 
 ## Related Research Methods
 

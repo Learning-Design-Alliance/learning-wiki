@@ -43,7 +43,8 @@ The article develops a prescriptive instructional design model for flipped learn
 - 
 
 ## Related Designs
-- 
+
+- [Integrated flipped classroom design framework combining FL cycles, SRL cycles, and metacognitive FC orientation](shen-2025-integrated-fc-design-framework.md)
 
 ## Examples
 -

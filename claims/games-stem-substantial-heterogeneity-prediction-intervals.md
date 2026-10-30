@@ -52,7 +52,7 @@ Random-effects meta-analysis reporting heterogeneity statistics: I2 ranges from 
 - [The positive GenAI writing effect is robust across dependence-aware, sensitivity, and risk-of-bias specifications, but the wide prediction interval spans near-zero to large effects](genai-writing-effect-robustness-checks.md) — a narrower finding that bears on this claim
 - [School level moderates cognitive effects of game-based learning in STEM: games are less effective for secondary than primary school students](school-level-moderates-game-cognitive-effects.md) — related
 - [Game-based learning in primary and early secondary STEM education shows moderate positive effects on cognition, motivation, and behaviour compared to traditional classrooms](games-stem-moderate-positive-effects-cognition-motivation-behaviour.md) — related
-- [Effect sizes vary widely between studies and especially between comparisons within studies](large-variation-word-reading-intervention-effects.md) — related
+- Effect sizes vary widely between studies and especially between comparisons within studies — related
 - [Effect sizes across shared text reading studies show substantial true heterogeneity (I2 = 80.09)](substantial-heterogeneity-shared-reading-effects.md) — related
 - [Effect sizes across studies show substantial heterogeneity, with wide prediction intervals spanning large negative to large positive true effects](heterogeneity-math-interventions-co-occurring.md) — related
 - [Effect sizes for gender differences in L2 achievement are highly heterogeneous across studies (I² = 89.82%)](high-heterogeneity-l2-gender-effect-sizes.md) — related

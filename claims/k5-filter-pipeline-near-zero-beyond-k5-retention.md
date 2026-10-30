@@ -70,4 +70,4 @@ Independent leakage check applying the same pipeline to WeeBit, an external grad
 - [LittleLearner's capabilities tightly track its controlled exposure: strong on in-scope tasks, degrading beyond the K-5 boundary](littlelearner-capabilities-track-controlled-exposure.md) — related
 - [Across scaling, post-training, and in-context learning, the pretraining filter rather than the intervention sets LittleLearner's capability ceiling](pretraining-filter-sets-capability-ceiling.md) — related
 - [Multi-layer defense significantly reduces bypass relative to regex-only filtering (69.65% to 46.34%), confirmed by exact McNemar test](multi-layer-beats-regex-only-bypass.md) — related
-- [A three-stage filtering pipeline (internal, association, and cluster-quality metrics) reduced 20,724 tested clustering models to select the optimal model per analysis](three-stage-filtering-20724-clustering-models.md) — related
+- A three-stage filtering pipeline (internal, association, and cluster-quality metrics) reduced 20,724 tested clustering models to select the optimal model per analysis — related

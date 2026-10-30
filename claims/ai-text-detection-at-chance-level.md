@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: mike-sharples-2022
     resource: "https://doi.org/10.1007/s40593-022-00300-7"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q1`–`q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` A comprehensive study of detection methods concludes humans detect machine-generated texts at chance level and better solutions are needed for mission-critical applications. [→ Mike Sharples 2022](#mike-sharples-2022)

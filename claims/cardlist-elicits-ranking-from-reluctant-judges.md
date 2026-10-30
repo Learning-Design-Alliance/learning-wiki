@@ -10,6 +10,7 @@ generated:
 evidence_strength: weak
 newest_evidence: 1918
 source_checked: 2026-10-24
+recheck_by: 1921
 sources:
   - id: stenquist-1918
     resource: "https://scholar.google.com/scholar?q=An+Improved+Form+for+Rating+by+the+Order+of+Merit+Method"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
-> **Currency** · newest study 1918 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 1918 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 1921**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Judges who refuse or are disinclined to write names down in order of merit will do the ranking when presented with the card list form, which the author attributes to its appeal as a game and to the elimination of labor. [→ Stenquist 1918](#stenquist-1918)

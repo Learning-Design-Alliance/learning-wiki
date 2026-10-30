@@ -64,8 +64,8 @@ The editorial summarizes the Janssen and Kirschner paper as elaborating "traditi
 
 
 ## Related Claims
-- [Special-issue frameworks argue for design-thinking-based and originary theory development in learning design and technology](design-thinking-and-originary-theory-development.md) — related
-- [Special-issue papers articulate theoretical frameworks for inquiry, problem-based learning, and teacher learning and technology integration](special-issue-frameworks-inquiry-pbl-teacher-learning.md) — related
+- Special-issue frameworks argue for design-thinking-based and originary theory development in learning design and technology — related
+- Special-issue papers articulate theoretical frameworks for inquiry, problem-based learning, and teacher learning and technology integration — related
 - [CSCL relations matter in two ways: interventions informed by empirical studies can support collaboration, and CSCL environments can foster key competencies](cscl-relations-matter-two-ways.md) — a narrower finding that bears on this claim
 - [Cognitive Load Theory lacks a motivational focus, which becomes problematic when interpreting interventions that foster effortful learning strategies](clt-motivation-gap.md) — a narrower finding that bears on this claim
 - [Zusho concludes SRL, SAL, and engagement perspectives all entail learner adaptation, and that models of student learning mismatch how they are measured](srl-sal-engagement-adaptation-measurement-mismatch.md) — a narrower finding that bears on this claim

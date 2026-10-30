@@ -47,4 +47,4 @@ Reanalysis of repeated-measurement data (8 articles per participant, 72 particip
 ## Related Claims
 - [Mental effort relates to self-rated certainty in a cubic (declining–flat–declining) rather than linear pattern](mental-effort-certainty-cubic.md) — related
 - [Mental effort relates to response time in a J-shaped quadratic rather than linear pattern](mental-effort-response-time-quadratic.md) — related
-- [Evidence on the mental effort–workload relation is mixed: AIC prefers quadratic, BIC prefers linear](mental-effort-workload-mixed-evidence.md) — related
+- Evidence on the mental effort–workload relation is mixed: AIC prefers quadratic, BIC prefers linear — related

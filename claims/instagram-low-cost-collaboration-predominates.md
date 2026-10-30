@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: eric-richter-2022
     resource: "https://doi.org/10.1016/j.compedu.2022.104624"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Information seeking was the most frequent activity (M = 3.78), sharing was low (M = 2.12), and co-creating was very limited (M = 1.34). [→ Eric Richter 2022](#eric-richter-2022)

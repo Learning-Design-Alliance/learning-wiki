@@ -48,7 +48,7 @@ Corrected STARTS re-analysis (Núñez-Regueiro et al., 2025) in which lag0 effec
 - [Academic Self-Concept](../learner-variables/academic-self-concept.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Correcting the wave-1 change-score misspecification in Sorjonen et al.'s LCSM yields a proper solution with positive effects between academic self-concept and achievement](corrected-lcsm-proper-solution-positive-asc-ach-effects.md) — related
+- Correcting the wave-1 change-score misspecification in Sorjonen et al.'s LCSM yields a proper solution with positive effects between academic self-concept and achievement — related
 - [Across basic and extended RI-CLPMs and CLPMs of five-wave secondary-school data, math self-concept and achievement show consistent reciprocal (bidirectional) directional ordering](rem-reciprocal-effects-ri-clpm-clpm-palma.md) — related
 - [In German secondary-school mathematics, effects of self-concept on achievement are lagged (lag1) whereas effects of achievement on self-concept are more contemporaneous (lag0)](asc-achievement-temporal-asymmetry.md) — related
 - [STARTS model shows a positive effect of prior achievement on subsequent self-concept but no effect of prior self-concept on subsequent achievement](starts-null-self-concept-effect.md) — reports the opposite

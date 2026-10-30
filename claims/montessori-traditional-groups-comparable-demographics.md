@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: zanchi-2024
     resource: "https://doi.org/10.1038/s41539-024-00254-6"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: local conditions change quickly
 
 ## Subclaims
 `q3 i?` No significant group differences were found on demographic and cognitive control variables (all ps > 0.06). [→ Zanchi 2024](#zanchi-2024)
@@ -45,4 +46,4 @@ Group-variable comparison of the 42 Montessori-schooled and 45 traditionally sch
 
 
 ## Related Claims
-- [Montessori- and traditionally-enrolled children in this sample were demographically matched on age, gender, fluid intelligence, and SES](montessori-traditional-matched-sample-demographics.md) — possibly the same claim (merge candidate)
+- Montessori- and traditionally-enrolled children in this sample were demographically matched on age, gender, fluid intelligence, and SES — possibly the same claim (merge candidate)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1920
+recheck_by: 1925
 sources:
   - id: no-author-line-1920
     resource: "https://eric.ed.gov/"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
-> **Currency** · newest study 1920 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1920 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1925**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Among about 550 women delinquents, the mean grade reached was 4.5, about 15 per cent finished the eighth grade, 1.6 per cent finished high school, and eleven per cent had received no regular schooling. [→ No author line 1920](#no-author-line-1920)

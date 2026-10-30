@@ -46,5 +46,5 @@ Systematic review (PRISMA) of empirical studies using at least two creative perf
 
 ## Related Claims
 - [Creative performance tasks in domain-general studies are artificial, experimenter-designed, and limited to little-c creativity among students](artificial-tasks-little-c-only-in-domain-general-studies.md) — related
-- [Most reviewed studies defending domain-generality are minimalist, and none treats creativity as an innate faculty](minimalist-position-dominates-domain-general-studies.md) — related
-- [Only one of 29 domain-general studies controlled participants' prior knowledge](prior-knowledge-uncontrolled-in-domain-general-studies.md) — a narrower finding that bears on this claim
+- Most reviewed studies defending domain-generality are minimalist, and none treats creativity as an innate faculty — related
+- Only one of 29 domain-general studies controlled participants' prior knowledge — a narrower finding that bears on this claim

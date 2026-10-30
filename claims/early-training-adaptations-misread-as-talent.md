@@ -53,4 +53,4 @@ Review of neuroimaging and developmental findings (Elbert et al., 1995; Schlaug 
 - [A review reports that relative-age effects tied to cohort cutoff dates bias selection into elite youth soccer and hockey](relative-age-effect-talent-selection-bias.md) — related
 - [Test scores measure accumulated knowledge at a moment in time, not innate student ability](test-scores-measure-opportunity-not-innate-ability.md) — a broader claim this one bears on
 - [Systemic barriers—rigid curricula, limited teacher training, and innate-creativity misconceptions—marginalize creativity in mainstream education](systemic-barriers-marginalize-creativity.md) — related
-- [Most reviewed studies defending domain-generality are minimalist, and none treats creativity as an innate faculty](minimalist-position-dominates-domain-general-studies.md) — related
+- Most reviewed studies defending domain-generality are minimalist, and none treats creativity as an innate faculty — related

@@ -10,6 +10,7 @@ generated:
 evidence_strength: weak
 newest_evidence: 1921
 source_checked: 2026-10-24
+recheck_by: 1926
 sources:
   - id: e-l-thorndike-and-l-m-terman-1921
     resource: "https://archive.org/search?query=Journal+of+Educational+Psychology+1921"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
-> **Currency** · newest study 1921 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 1921 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 1926**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` As the task changes across data domains or across operations with the same data, correlations between performances never reach 1.00. [→ E. L. Thorndike and L. M. Terman 1921](#e-l-thorndike-and-l-m-terman-1921)

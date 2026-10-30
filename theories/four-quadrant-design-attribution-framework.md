@@ -52,6 +52,7 @@ The article crosses two dimensions—whether the robot was designed to be humanl
 ## Examples
 
 - [Treat humanlikeness as a tunable design parameter and anthropomorphism as an evaluation metric](../strategies/humanlikeness-tunable-parameter-anthropomorphism-metric.md)
+- [HRIES: Human-Robot Interaction Evaluation Scale with four anthropomorphism subdimensions](../products/hries-human-robot-interaction-evaluation-scale-with-four-anthropomorphism-subdimensions.md)
 
 ## Key Sources
 - Phillips, E. K., & de Visser, E. J. (2026). Humanlikeness as design, anthropomorphism as inference: a conceptual framework for human–robot interaction. Frontiers in Cognition. https://doi.org/10.3389/fcogn.2026.1786256

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1913
+recheck_by: 1916
 sources:
   - id: emma-kohnky-1913
     resource: "https://www.jstor.org/journal/jeducpsych"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 1913 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1913 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1916**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Before dental treatment, the untreated class led five times out of ten tests, indicating baseline parity between the classes. [→ Emma Kohnky 1913](#emma-kohnky-1913)

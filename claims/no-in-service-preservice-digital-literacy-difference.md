@@ -50,4 +50,4 @@ Synthesis across the 23 reviews of teacher-side factors affecting digital litera
 ## Related Claims
 - [A constructivist, process-oriented syllabus was suggested to be more effective than a knowledge-based approach for cross-cultural learning (Wright, 2000, as reported)](constructivist-syllabus-beats-knowledge-based-culture-teaching.md) — related
 - [Role modelling is the most promising approach for developing teachers' digital literacy, identified in seven reviews](role-modelling-develops-teacher-digital-literacy.md) — related
-- [Previous reviews of teachers' role in digitalizing education cluster into six main research themes, with digital literacy the most prominent (addressed in 14 of 23 reviews)](six-research-focus-themes-teacher-digitalization.md) — a broader claim this one bears on
+- Previous reviews of teachers' role in digitalizing education cluster into six main research themes, with digital literacy the most prominent (addressed in 14 of 23 reviews) — a broader claim this one bears on

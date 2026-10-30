@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 1921
+recheck_by: 1924
 sources:
   - id: knight-1921
     resource: "https://doi.org/10.1037/h0073817"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1924**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Three rating methods for the same fact yielded central tendencies of trait intercorrelations of 0.3 to 0.9, making the general factor impossible to diagnose and partial out. [→ Knight 1921](#knight-1921)

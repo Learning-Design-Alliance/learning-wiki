@@ -46,7 +46,7 @@ Study 3 mixed ANOVA main effect on response frequency (sum scores): the main eff
 
 ## Related Claims
 - [Threat-conditioned cues selectively bias fight-or-flight action choice toward the response effective against the signaled monster (outcome-specific PIT)](outcome-specific-pit-fight-flight-decisions.md) — related
-- [The threat induction manipulation checks confirm increased stress and elevated defensive responding under high threat](threat-manipulation-checks-stress-responding.md) — related
+- The threat induction manipulation checks confirm increased stress and elevated defensive responding under high threat — related
 - [Novel-monster threat cues elevate overall defensive responding relative to neutral cues (outcome-general PIT effect)](outcome-general-pit-aversive-threat-cues.md) — related
 - [High threat reduces the outcome-specific PIT effect under standard instructions but not under reversal instructions](high-threat-reduces-specific-pit-standard-instructions.md) — related
 - [Post-training reversal instructions reverse the outcome-specific PIT effect in fight-or-flight decisions](reversal-instructions-reverse-specific-pit.md) — related

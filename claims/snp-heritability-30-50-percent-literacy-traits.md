@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: chin-yang-shapland-2021
     resource: "https://doi.org/10.1038/s41539-021-00101-y"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` GREML-based SNP heritability estimates ranged between 30% (SE = 0.06) and 50% (SE = 0.07) across the studied measures. [→ Chin Yang Shapland 2021](#chin-yang-shapland-2021)

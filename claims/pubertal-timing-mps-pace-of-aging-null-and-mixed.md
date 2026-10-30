@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: mixed
 newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: raffington-2024
     resource: "https://doi.org/10.1038/s41539-024-00239-5"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r?` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In 8-18-year-olds from the Texas Twin Project, pubertal timing was not associated with accelerated biological age. [→ Raffington 2024](#raffington-2024)

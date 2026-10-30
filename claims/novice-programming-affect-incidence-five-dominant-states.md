@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2017
+recheck_by: 2022
 sources:
   - id: bosch-2017
     resource: "https://doi.org/10.1007/s40593-015-0069-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Engagement, confusion, frustration, boredom, and curiosity each occurred at least 5% of the time and together accounted for approximately 73% of all affect judgments, while other states summed to only 10%. [→ Bosch 2017](#bosch-2017)

@@ -13,7 +13,7 @@ generated:
 # Open Practices Disclosure form
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 causal, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A journal-run disclosure and badge framework that authors use to document public data, materials, and preregistered research plans for recognition of open scientific practices.
@@ -27,7 +27,6 @@ A journal-run disclosure and badge framework that authors use to document public
 ### Claims
 
 - [Offering Open Science Badges is associated with increased uptake of data and materials sharing and preregistration](../claims/open-science-badges-associated-uptake.md) [+W]
-- [The Social Perspective Taking professional development study was preregistered with its confirmatory analysis plan registered before data examination and unchanged thereafter](../claims/spt-pd-preregistered-unchanged-analysis-plan.md) [+W]
 
 ## Related Products and Programmes
 

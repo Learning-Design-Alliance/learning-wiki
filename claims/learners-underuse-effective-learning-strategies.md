@@ -78,4 +78,4 @@ Narrative review assertion. The review states that research "has highlighted str
 - [Students given retrieval practice instructions spontaneously used a repeated retrieval strategy on new materials one week later without further instructions](spontaneous-strategy-transfer-one-week-delay.md) — related
 - [Effects of instructions on some measures were inconsistent across experiments, and instructed students did not recall all items to criterion](mixed-effects-across-experiments-criterion-failures.md) — related
 - [Most middle and high school students surveyed after classroom retrieval practice programs viewed them positively and said frequent retrieval practice helped them feel less nervous about exams](students-report-classroom-retrieval-practice-helps-learning-and-reduces-exam-nervousness.md) — related
-- [Individual learners' self-awareness and metacognition of spaced practice is a distinct focus within spacing research](metacognition-of-spaced-practice-learner-self-awareness.md) — related
+- Individual learners' self-awareness and metacognition of spaced practice is a distinct focus within spacing research — related

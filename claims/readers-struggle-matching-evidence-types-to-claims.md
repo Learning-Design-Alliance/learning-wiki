@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: weak
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: carita-kiili-2026
     resource: "https://doi.org/10.1080/00461520.2026.2717081"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Adult readers have difficulties distinguishing correlational from causal evidence, and younger readers struggle to question anecdotal evidence supporting causal claims. [→ Carita Kiili 2026](#carita-kiili-2026)

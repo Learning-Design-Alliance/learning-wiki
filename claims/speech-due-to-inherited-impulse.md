@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1912
+recheck_by: 1917
 sources:
   - id: robert-macdougall-1912
     resource: "https://eric.ed.gov/?id=none-in-text"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 1912 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1912 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1917**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Articulate utterance appears as a spontaneous product of maturation of the nervous system and organs of speech, not merely of external prompting. [→ Robert MacDougall 1912](#robert-macdougall-1912)

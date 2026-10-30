@@ -45,6 +45,6 @@ Omnibus one-way ANOVA (df 2,78) in the randomized experiment: significant for co
 
 
 ## Related Claims
-- [The three media conditions did not differ significantly in prior knowledge or previous grades, supporting baseline equivalence](conditions-equivalent-prior-knowledge-grades-leaf-morphology-study.md) — related
+- The three media conditions did not differ significantly in prior knowledge or previous grades, supporting baseline equivalence — related
 - [Redundancy effect on comprehension: TP and TO conditions outperformed the TPO condition in a mobile learning experiment](redundancy-effect-comprehension-mobile-learning.md) — related
 - [No split-attention difference in comprehension or learning efficiency between text+picture on a mobile device and text on a mobile device plus real objects](no-split-attention-effect-mobile-text-picture-versus-text-real-objects.md) — related

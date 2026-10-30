@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: di-pietro-giorgio-2023
     resource: "https://doi.org/10.1016/j.edurev.2023.100530"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q3 i?` The effect of Covid-19 on student achievement does not statistically differ across levels of education. [→ Di Pietro Giorgio 2023](#di-pietro-giorgio-2023)

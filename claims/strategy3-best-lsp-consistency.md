@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2015
+recheck_by: 2018
 sources:
   - id: fabiano-dorça-2015
     resource: "https://doi.org/10.1007/s40593-015-0037-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In simulation experiments with a fully inconsistent initial student model, strategy 3 produced more consistent final LSp values and fewer learning problems (average 24) than strategy 2 (average 26) and strategy 1 (average 197.5). [→ Fabiano Dorça 2015](#fabiano-dorca-2015)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: robin-samuelsson-2023
     resource: "https://doi.org/10.1038/s41539-023-00210-w"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Underlying conceptions from the constructivist versus sociocultural debate continue to inform research lines and affect the construction of learning environments. [→ Robin Samuelsson 2023](#robin-samuelsson-2023)

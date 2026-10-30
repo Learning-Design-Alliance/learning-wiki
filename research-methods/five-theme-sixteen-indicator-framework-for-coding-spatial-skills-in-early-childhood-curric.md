@@ -25,7 +25,8 @@ The study coded curricular documents with a deductive six-phase latent thematic 
 - [Nearly all of fifty-two countries' early childhood curricula mention diverse spatial skills](../claims/spatial-skills-nearly-all-52-country-curricula.md) [+M]
 
 ## Related Research Methods
--
+
+- [Six-code thematic framework for knowledge claims in ITE-diversity research](six-code-thematic-framework-for-knowledge-claims-in-ite-diversity-research.md)
 
 ## Key Sources
 - Bobrowicz, Katarzyna; Mendes, Angélica. (2026). Spatial skills in early childhood education. Learning and Instruction, 103, 102308. https://doi.org/10.1016/j.learninstruc.2025.102308

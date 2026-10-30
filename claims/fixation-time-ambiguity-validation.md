@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: weak
 newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: kaakinen-2021
     resource: "https://doi.org/10.1007/s10648-020-09573-7"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Longer eye fixation time might reflect either processing difficulty or extra processing effort needed to successfully comprehend the information, and whether it is good or bad can only be defined with measures of processing quality or outcome. [→ Kaakinen 2021](#kaakinen-2021)

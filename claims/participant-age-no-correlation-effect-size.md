@@ -45,7 +45,7 @@ Subsection analysis extracting beginning and end ages for the 35 studies (mean b
 
 
 ## Related Claims
-- [Smaller sample sizes are associated with larger VSWM–mathematics effect sizes](smaller-samples-larger-effect-sizes.md) — related
+- Smaller sample sizes are associated with larger VSWM–mathematics effect sizes — related
 - [VSWM shows an overall positive relationship with mathematics performance in school-aged children](vswm-positive-association-mathematics-performance.md) — a broader claim this one bears on
 - [Standardised and non-standardised VSWM measures perform equally in relating VSWM to mathematics performance](standardised-vswm-measure-no-advantage.md) — related
 - [Studies using a standardised mathematics measure yield significantly larger VSWM–mathematics effect sizes](standardised-math-measure-larger-effect-sizes.md) — related

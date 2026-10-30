@@ -45,7 +45,7 @@ Authors' argument in the Application section: because the cost of textbooks has 
 
 
 ## Related Claims
-- [Simulation analysis shows failure to account for the access hypothesis likely prevents detecting any effect of OER adoption on student outcomes](access-hypothesis-masks-oer-effects-simulation.md) — related
+- Simulation analysis shows failure to account for the access hypothesis likely prevents detecting any effect of OER adoption on student outcomes — related
 - [Open textbooks appear to offer financial benefits to students without decreasing learning outcomes in higher education](open-textbooks-financial-benefits-without-learning-decrease.md) — related
 - [Students achieve the same or better learning outcomes when using OER compared to commercial textbooks, while saving significant amounts of money.](oer-same-or-better-learning-outcomes-2015-2018.md) — related
 - [Students using OER save significant amounts of money compared to purchasing commercial textbooks.](oer-significant-cost-savings-students.md) — related

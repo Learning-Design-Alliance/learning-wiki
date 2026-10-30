@@ -45,6 +45,6 @@ Content analysis of the 35 instruments found that "the diversity of operationali
 
 
 ## Related Claims
-- [A systematic review of K-12 technology integration survey instruments from 2010 to 2021 identified 35 different instruments used across 36 studies.](systematic-review-35-ti-survey-instruments-2010-2021.md) — a narrower finding that bears on this claim
+- A systematic review of K-12 technology integration survey instruments from 2010 to 2021 identified 35 different instruments used across 36 studies. — a narrower finding that bears on this claim
 - [Reviews agree that clear definition and delineation of TPACK's individual knowledge domains is rare and nearly impossible](tpack-knowledge-domains-poorly-delineated.md) — related
 - [Most technology integration survey instruments measure classroom practices from the teachers' point of view.](ti-instruments-teacher-perspective-classroom-practices.md) — related

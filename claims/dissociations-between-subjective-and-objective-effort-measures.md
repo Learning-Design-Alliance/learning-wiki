@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: scheiter-2020
     resource: "https://doi.org/10.1007/s10648-020-09555-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The few studies applying both subjective and objective effort measures simultaneously found dissociations, with each measure showing different patterns of results. [→ Scheiter 2020](#scheiter-2020)

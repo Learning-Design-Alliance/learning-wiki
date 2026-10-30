@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2014
+recheck_by: 2017
 sources:
   - id: jaebong-yoo-jihie-kim-2014
     resource: "https://doi.org/10.1007/s40593-013-0010-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` SVM-based Sink/Source classifiers, trained on human-annotated messages with feature optimization, reached F-scores of 0.914 (sink) and 0.908 (source) on a held-out test set. [→ Jaebong Yoo & Jihie Kim 2014](#jaebong-yoo-jihie-kim-2014)

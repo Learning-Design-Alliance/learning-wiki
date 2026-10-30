@@ -45,7 +45,7 @@ This is the commentary's stated concluding recommendation, an author position wi
 
 
 ## Related Claims
-- [Chatterjee (2020) calls for more investigations into how CoSIL environment design supports student learning, including in-depth review of existing tools](chatterjee-cosil-design-investigations.md) — related
+- Chatterjee (2020) calls for more investigations into how CoSIL environment design supports student learning, including in-depth review of existing tools — related
 - [The commentary offers a practice-based perspective on Hilton's (2016) OER efficacy review in the context of the COVID-19 pivot to remote instruction](hodges-2021-practice-perspective-hilton-oer.md) — related
 - [Lee and Hannafin's framework holds that learners in student-centered classrooms need autonomy, scaffolding, and authentic audiences to enhance engagement](lee-hannafin-autonomy-scaffolding-authentic-audiences.md) — related
 - [Recognized cognitive principles for student-centered, Web-based learning are critically reviewed with a call for further in-depth study](cognitive-principles-student-centered-web-learning-review.md) — related

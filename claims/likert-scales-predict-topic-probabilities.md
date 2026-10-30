@@ -9,6 +9,7 @@ generated:
   at: 2026-10-30
 evidence_strength: moderate
 newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: hujala-2020
     resource: "https://doi.org/10.1016/j.compedu.2020.103965"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In the 2016-17 sample, Likert scales of SET significantly predicted the topic probabilities of Topics 2, 4 and 6, while in the 2017-18 sample the Likert scales were associated with all six topic probabilities. [→ Hujala 2020](#hujala-2020)
@@ -46,5 +47,5 @@ Multilevel regression analysis (three-level random intercept models, one per top
 
 ## Related Claims
 - [LDA topics capture unique information not covered by Likert-scale SET questions](lda-topics-unique-information-beyond-likert.md) — related
-- [Topic 4 (dissatisfaction with workload) contradicts thematic analysis and appears invalid](topic-4-workload-contradicts-thematic-analysis.md) — related
+- Topic 4 (dissatisfaction with workload) contradicts thematic analysis and appears invalid — related
 - [LDA topic modelling of 6,087 written student feedback responses yields six SET-related topics](lda-six-topics-from-student-feedback.md) — related

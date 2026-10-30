@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: pala-ferhat-kadir-2020
     resource: "https://doi.org/10.1007/s11423-020-09817-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Cronbach's alpha reached 0.89 for the full 32-item scale and ranged from 0.70 to 0.85 across the four combined style factors. [→ Pala Ferhat Kadir 2020](#pala-ferhat-kadir-2020)
@@ -46,6 +47,4 @@ Internal consistency was examined with Cronbach's alpha. Table 7 reports alpha =
 
 ## Related Claims
 
-- [Confirmatory factor analysis supports a second-level participation style model with four combined styles and acceptable fit indices](psss-cfa-four-styles-confirmed.md)
-- [Exploratory factor analysis of the participation style scale yields four Why factors and four How factors explaining over 53% of variance in each dimension](psss-eight-factors-efa-variance.md)
 - [Item factor loadings in the CFA ranged from 0.42 to 0.79 and were statistically significant by t values](psss-item-loadings-significant.md)

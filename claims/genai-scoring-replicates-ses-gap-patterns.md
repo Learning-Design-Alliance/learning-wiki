@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: guilherme-lichand-2026
     resource: "https://doi.org/10.1038/s41539-026-00404-y"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i0` negligible
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` When responses in Study 3 are scored by GenAI (ChatGPT with item-specific PISA-derived prompts) instead of hand-coded scores, the pattern matches Study 2: high-SES students outperform low-SES ones only when reading requirements are present. [→ Guilherme Lichand 2026](#guilherme-lichand-2026)

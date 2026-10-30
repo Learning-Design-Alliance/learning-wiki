@@ -50,4 +50,4 @@ Analysis of written student feedback collected at a Finnish university during th
 - [Topic modeling of open-ended responses revealed five themes centered on ChatGPT's simplicity, speed, and role as a support tool](lda-five-themes-chatgpt-perceptions.md) — related
 - [Likert-scale SET variables predict topic probabilities for most topics in both academic years](likert-scales-predict-topic-probabilities.md) — related
 - [Feedback questionnaire wording affects LDA topic results, more for emotional value than content](questionnaire-wording-affects-lda-topics.md) — related
-- [Topic 4 (dissatisfaction with workload) contradicts thematic analysis and appears invalid](topic-4-workload-contradicts-thematic-analysis.md) — related
+- Topic 4 (dissatisfaction with workload) contradicts thematic analysis and appears invalid — related

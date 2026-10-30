@@ -190,6 +190,10 @@ This pattern is scoped to structured targets with a definable correct performanc
 - [Performance is substantially better on the Explicit-Assist task than on the No-Explicit-Assist task in both the ADHD and dyslexia comparisons](../claims/explicit-assist-better-than-no-explicit-assist.md) [~M]
 - [Explicit video-based instruction improved sixth graders' skills to question the credibility of less credible online texts relative to control, with a large condition-level effect](../claims/video-explicit-instruction-questioning-credibility.md) [~W]
 
+## Examples
+
+- [Detailed lesson scripts capturing expert teachers' instructional decision-making](../designs/genie2-lesson-scripts.md)
+
 ## Related Patterns
 - [Mastery Learning](mastery-learning.md) — a related but distinct term Hunter explicitly distinguishes her model from
 

@@ -45,6 +45,6 @@ The authors' rationale for subdividing the earlier review's grouping. In the WBE
 
 
 ## Related Claims
-- [Educational data mining keywords redistribute across new clusters over time, showing evolving specialization in AIED](edm-keywords-redistribute-across-clusters.md) — related
-- [Machine learning is the most frequently studied AI type in AIED systematic reviews, followed by intelligent tutoring systems, learning analytics, and data mining](machine-learning-most-studied-ai-in-aied-reviews.md) — related
-- [Standardizing each community separately exposes facts concealed when results are lumped together](separate-community-standardization-exposes-concealed-facts.md) — possibly the same claim (merge candidate)
+- Educational data mining keywords redistribute across new clusters over time, showing evolving specialization in AIED — related
+- Machine learning is the most frequently studied AI type in AIED systematic reviews, followed by intelligent tutoring systems, learning analytics, and data mining — related
+- Standardizing each community separately exposes facts concealed when results are lumped together — possibly the same claim (merge candidate)

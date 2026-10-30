@@ -45,6 +45,7 @@ Synthesis of prior reviews' measurement-quality conclusions: the review reports 
 
 
 ## Related Claims
+
 - A systematic review identified 52 instruments assessing teachers' competence for inclusive teaching of autistic children, with 28 assessing knowledge, 26 beliefs, and 11 motivation — related
 - [Reported teacher self-efficacy for teaching autistic children differs across countries, with relatively high levels in Ireland and the opposite conclusion for German teachers](country-differences-teacher-self-efficacy-autistic-children.md) — related
 - [The evidence base for school mindfulness interventions is heterogeneous and many studies are underpowered](mindfulness-schools-heterogeneous-underpowered.md) — related
@@ -53,3 +54,4 @@ Synthesis of prior reviews' measurement-quality conclusions: the review reports 
 - [Developers of the principal practice instruments provided only partial information about the instruments' reliability and validity](practice-instrument-partial-reliability-validity-info.md) — a narrower finding that bears on this claim
 - [The majority of published RCR education evaluations use measures without reported validation evidence](majority-rcr-evaluations-unvalidated-measures.md) — related
 - [Reflective capacity is regarded by many as an essential characteristic of professional competence in the health professions](reflective-capacity-essential-professional-competence.md) — related
+- [Almost all reviewed instruments target general knowledge about autism rather than teachers' knowledge of autism-specific evidence-based practices, for which only two quantitative studies were found](knowledge-practices-gap-autism-teacher-instruments.md)

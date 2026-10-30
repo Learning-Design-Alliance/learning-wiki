@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1915
+recheck_by: 1920
 sources:
   - id: otis-1915
     resource: "https://www.google.com/search?q=%22A+Study+of+Association+in+Defectives%22+Otis"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1920**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Type II (non-logical) responses are characteristic especially of normal children of 5 years and appear more frequently among normals than defectives, among whom Type I prevails at the corresponding age. [→ Otis 1915](#otis-1915)

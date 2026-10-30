@@ -49,4 +49,4 @@ Whole-brain voxel-level regression of VBM gray matter volume on GPA in 153 colle
 - [Cerebellar and caudate gray matter volumes correlate in opposite directions with trait impulsivity in college students](cerebellum-caudate-gmv-opposite-impulsivity-correlations.md) — related
 - [Impulsivity partially mediates the relationships of left cerebellar and right caudate gray matter volumes with college GPA](impulsivity-partially-mediates-brain-gpa-links.md) — related
 - [Trait impulsivity is negatively associated with college GPA](impulsivity-negatively-associated-college-gpa.md) — related
-- [The study's brain–GPA and impulsivity findings are limited to young adults and cannot support causal claims](cross-sectional-young-adult-neuro-gpa-limitations.md) — related
+- The study's brain–GPA and impulsivity findings are limited to young adults and cannot support causal claims — related

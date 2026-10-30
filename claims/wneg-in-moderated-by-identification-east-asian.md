@@ -46,7 +46,9 @@ Moderation analysis in the East Asian sample (Loss frame) linking the Wneg_in pa
 
 
 ## Related Claims
+
 - [East Asian participants show stronger ingroup identification and stronger initial ingroup bias than Western participants](east-asian-stronger-ingroup-identification-bias.md) — related
 - [Both cultures show initial ingroup bias: more positive impressions, higher expectancy and closeness for ingroup than outgroup before interaction](initial-ingroup-bias-both-cultures.md) — related
 - [In East Asian participants, the Loss-frame bias reduction occurs only for participants with low ingroup identification; on average outgroup impressions improved more than ingroup impressions changed](loss-frame-effect-modulated-by-identification.md) — related
 - [In Western participants, stronger weight on negative ingroup prediction errors (Wneg_in) in the Loss frame predicts greater reduction of ingroup bias, driven by ingroup impression change](wneg-in-predicts-bias-reduction-western.md) — related
+- [In Western participants, loss-framed but not gain-framed ingroup experiences reduce the initial ingroup bias in impressions](loss-frame-reduces-ingroup-bias-western.md)

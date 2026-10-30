@@ -45,7 +45,7 @@ Null correlational finding from the Results section using the 14-item Teacher RP
 
 
 ## Related Claims
-- [The authors report this as the first study to quantify DSE and social vulnerability in typically developing middle-childhood populations](first-quantification-dse-middle-childhood.md) — related
+- The authors report this as the first study to quantify DSE and social vulnerability in typically developing middle-childhood populations — related
 - [Children display more disinhibited social engagement in a computer-mediated role-play task than in theme-matched paper-pencil vignettes](more-dse-computer-role-play-than-paper-pencil.md) — related
 - [Theory of Mind is negatively correlated with DSE/social vulnerability scores on both task formats](tom-negatively-correlated-dse.md) — related
 - [The advantage of computer role-play over paper-pencil vignettes in eliciting DSE holds for 6- and 8-year-olds but not for 10-year-olds](age-by-presentation-interaction-dse.md) — related

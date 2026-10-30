@@ -10,6 +10,7 @@ generated:
 evidence_strength: moderate
 newest_evidence: 2019
 source_checked: 2026-10-27
+recheck_by: 2022
 sources:
   - id: thomas-daniel-ullmann-2019
     resource: "https://doi.org/10.1007/s40593-019-00174-2"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3`
-> **Currency** · newest study 2019 · checked against its sources 2026-10-27 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-10-27 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` In a standardized evaluation, five out of eight categories of reflective writing were detected automatically with substantial or almost perfect reliability, while the other three were detected with moderate reliability (Cohen's κ ranges between .53 and .85). [→ Thomas Daniel Ullmann 2019](#thomas-daniel-ullmann-2019)
@@ -53,9 +54,9 @@ Evaluation of machine learning models trained on a random 80% of labeled sentenc
 - [The rule-based recipe annotation system reaches near-perfect inter-annotator agreement (Cohen's Kappa 0.85) and average accuracy 0.95 in a validation on sampled recipe segments.](relex-annotation-validation-kappa-accuracy.md) — related
 - [Systems Thinking Practices is the hardest CT construct to code reliably for both human raters and the LLM, requiring more explicitly operationalized rubrics](stp-low-reliability-complex-construct.md) — related
 - [Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions](frisco-rater-agreement-reliable.md) — related
-- [A structured negotiated-coding process reached nearly 98% interrater agreement before machine learning](negotiated-coding-98-consensus.md) — related
+- A structured negotiated-coding process reached nearly 98% interrater agreement before machine learning — related
 - [Prior machine learning research on reflection detection covers only partial models with no evidence of empirical validity and mostly no reported inter-rater reliability](prior-ml-reflection-research-fragmented-unvalidated.md) — related
 - [ML scoring models for scientific argumentation items achieved good to almost perfect agreement with human consensus scores (mean Cohen's kappa = 0.60)](ml-scoring-argumentation-mean-kappa-060.md) — related
-- [Learning-tip-to-lecture-topic coding by seven coders reached an overall agreement of 0.87 (Cohen's Kappa)](topic-coding-agreement-087.md) — related
+- Learning-tip-to-lecture-topic coding by seven coders reached an overall agreement of 0.87 (Cohen's Kappa) — related
 - [Two-phase machine learning approach detects causal relations and chains in student essays](machine-learning-detects-causal-relations-essays.md) — related
 - [A non-fine-tuned pre-trained sentiment analysis model achieves moderate agreement with human coders of student open-ended answers](pretrained-sa-moderate-agreement.md) — related

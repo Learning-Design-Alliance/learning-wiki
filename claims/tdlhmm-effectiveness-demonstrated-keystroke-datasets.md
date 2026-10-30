@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: uto-2020
     resource: "https://doi.org/10.1007/s40593-019-00189-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Applying the proposed time- and learner-dependent HMM to actual keystroke log datasets demonstrated its effectiveness for estimating writing-process sequence patterns. [→ Uto 2020](#uto-2020)

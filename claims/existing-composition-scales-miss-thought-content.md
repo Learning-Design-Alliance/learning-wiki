@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1919
+recheck_by: 1922
 sources:
   - id: j-carleton-bell-1919
     resource: "https://www.jstor.org/journal/jeducpsych"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
-> **Currency** · newest study 1919 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1919 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1922**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Most existing composition scales consist of detached paragraphs on topics of artificial child interest, so they do not help measure improvement in thought content. [→ J. Carleton Bell 1919](#j-carleton-bell-1919)

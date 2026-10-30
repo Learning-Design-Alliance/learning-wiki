@@ -47,6 +47,6 @@ The omnibus interaction in the same ANOVA was significant with printed effect si
 ## Related Claims
 - [Children display more disinhibited social engagement in a computer-mediated role-play task than in theme-matched paper-pencil vignettes](more-dse-computer-role-play-than-paper-pencil.md) — a broader claim this one bears on
 - [Disinhibited social engagement declines with age in middle childhood, with 6-year-olds showing more DSE than 8- and 10-year-olds](dse-declines-with-age-middle-childhood.md) — related
-- [The authors report this as the first study to quantify DSE and social vulnerability in typically developing middle-childhood populations](first-quantification-dse-middle-childhood.md) — related
+- The authors report this as the first study to quantify DSE and social vulnerability in typically developing middle-childhood populations — related
 - [Parent and teacher Relationship Problems Questionnaire scores did not correlate with children's DSE on either task](rpq-no-correlation-dse-typical-children.md) — related
 - [Theory of Mind is negatively correlated with DSE/social vulnerability scores on both task formats](tom-negatively-correlated-dse.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: gonzalo-flores-aguilar-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2026.102382"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Across compulsory schooling, the prospective teachers' emotions evolved negatively over time, from joy predominant in CPE to anger and fear predominant in CSE. [→ Gonzalo Flores-Aguilar 2026](#gonzalo-flores-aguilar-2026)

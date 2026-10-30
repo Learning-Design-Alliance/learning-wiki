@@ -51,4 +51,4 @@ Correlational analysis in the main study between self-assessed prior knowledge (
 - Correlations of cognitive load types with learning outcomes and prior knowledge support CLT assumptions, and results support the three-factor model — related
 - [Germane load measurement is problematic: GCL-outcome correlations and item understanding show weaknesses across instruments](germane-load-measurement-problems.md) — related
 - [Passage familiarity (prior related knowledge) correlates .52 with recall, and only familiarity, not imageability, affected one-week delayed recall](passage-familiarity-correlates-with-recall.md) — related
-- [In the new questionnaire, ICL and ECL correlate positively while both correlate negatively with GCL](icl-ecl-positive-gcl-negative-correlations.md) — related
+- In the new questionnaire, ICL and ECL correlate positively while both correlate negatively with GCL — related

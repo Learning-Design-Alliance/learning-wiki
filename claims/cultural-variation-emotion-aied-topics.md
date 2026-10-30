@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2015
+recheck_by: 2020
 sources:
   - id: blanchard-2015
     resource: "https://doi.org/10.1007/s40593-014-0027-7"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Affective experiences vary across cultures in antecedents, subjective experience, behavioral response, physiology and appraisal. [→ Blanchard 2015](#blanchard-2015)
@@ -64,8 +65,8 @@ The article's synthesis of cited sources (Henrich et al. 2010a; TALIS 2009; Purd
 
 
 ## Related Claims
-- [AIED research effort is imbalanced across learning contexts, with workplace, professional and continuing education far less studied than K-12 and higher education](aied-research-effort-imbalance-contexts.md) — related
-- [AIED conference authorship is strongly WEIRD-imbalanced, with 90% of first authors from WEIRD institutions and no African first authors](aied-weird-authorship-imbalance.md) — a narrower finding that bears on this claim
+- AIED research effort is imbalanced across learning contexts, with workplace, professional and continuing education far less studied than K-12 and higher education — related
+- AIED conference authorship is strongly WEIRD-imbalanced, with 90% of first authors from WEIRD institutions and no African first authors — a narrower finding that bears on this claim
 - [School belonging research is geographically concentrated in WEIRD contexts, with entire world regions virtually absent from the evidence base](weird-concentration-school-belonging-research.md) — a narrower finding that bears on this claim
 - [Students in countries culturally more distant from the US (less WEIRD) endorse growth mindsets less, r(46) = -.47](non-weird-countries-endorse-growth-mindsets-less.md) — a narrower finding that bears on this claim
 - [AI systems are non-neutral socio-technical artifacts embedding cultural assumptions and power relations](ai-non-neutral-embeds-power-relations.md) — related

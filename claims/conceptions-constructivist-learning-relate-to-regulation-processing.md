@@ -55,4 +55,4 @@ Structural equation modelling with 98 third- and fourth-year psychology students
 - [Conceptions of self-regulated learning had small, non-significant relationships with actual reported self-regulation activities](srl-conceptions-nonsignificant-with-reported-srl.md) — related
 - [Studies since 2004 confirm strong interrelations among processing strategies, regulation strategies, conceptions, and motivations of learning patterns](learning-pattern-components-interrelated.md) — a broader claim this one bears on
 - [Students' conceptions of self-regulated learning can diverge from their reported self-regulated learning activities](conceptions-diverge-from-srl-activities.md) — a narrower finding that bears on this claim
-- [Partial least squares structural equation modelling was used to test the research model and hypotheses](pls-testing-interaction-engagement-model.md) — related
+- Partial least squares structural equation modelling was used to test the research model and hypotheses — related

@@ -54,12 +54,12 @@ The editor's observational assessment of methodological trends over the last dec
 - Distinguishing metacognitive knowledge from skills, and metacognition from self-regulated learning, is an unresolved field-wide issue — related
 - [Mind wandering can both prompt SRL and function as a regulatory strategy, and multimodal machine-learning sensing offers scalable assessment of attentive states](mind-wandering-dual-role-srl-regulatory-strategy.md) — related
 - [Think-aloud reports are incomplete and sometimes nonveridical, particularly for metacognitive processes](think-aloud-veridicality-incomplete-reports.md) — related
-- [Research on teachers' SRL knowledge is methodologically dominated by cross-sectional quantitative designs with non-standardized measures](cross-sectional-quantitative-dominance-srl-teacher-knowledge.md) — related
+- Research on teachers' SRL knowledge is methodologically dominated by cross-sectional quantitative designs with non-standardized measures — related
 - [Machine-learning analysis of multimodal classroom indicators can predict student productivity, and prior knowledge becomes relevant later in the regulation process](kubsch-multimodal-prediction-prior-knowledge-timing.md) — related
-- [Motivational and affective dimensions remain underrepresented in multimodal SRL research despite theoretical consensus on their importance](motivation-affect-underrepresented-multimodal-srl.md) — related
-- [Multimodal SRL research shows a historical shift from unimodal toward integrated analytical designs, but motivational and affective dimensions remain underrepresented](srl-multimodal-shift-integrated-designs-motivation-affect-gap.md) — related
-- [Standard descriptive statistics dominate SRL multimodal analysis even in integrated approaches](descriptive-statistics-dominate-srl-analysis.md) — related
+- Motivational and affective dimensions remain underrepresented in multimodal SRL research despite theoretical consensus on their importance — related
+- Multimodal SRL research shows a historical shift from unimodal toward integrated analytical designs, but motivational and affective dimensions remain underrepresented — related
+- Standard descriptive statistics dominate SRL multimodal analysis even in integrated approaches — related
 - [Eye tracking can be used to study student engagement, teacher expertise, and teacher-student interaction in naturalistic classroom contexts](eye-tracking-classroom-naturalistic-contexts.md) — related
-- [Multimodal data collection is increasingly common but analyses rarely align data streams temporally](rare-alignment-of-multimodal-data-streams.md) — possibly the same claim (merge candidate)
+- Multimodal data collection is increasingly common but analyses rarely align data streams temporally — possibly the same claim (merge candidate)
 - [Traditional self-report methods face significant limitations in capturing the dynamic nature of SRL](self-report-srl-limitations-dynamic-nature.md) — a narrower finding that bears on this claim
 - [Integrating behavioral trace data with outcomes and self-report reveals feedback effects that perception and performance measures alone miss](behavioral-data-essential-for-feedback-evaluation.md) — a narrower finding that bears on this claim

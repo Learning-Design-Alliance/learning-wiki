@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: van-duijvenvoorde-2022
     resource: "https://doi.org/10.1038/s41539-022-00127-w"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In a reviewed study, clustering behavioral measures across learning domains identified three distinct subgroups among 442 struggling learners, distinguished by structural connectivity of lateral prefrontal cortex, cingulate cortex, and striatum. [→ van Duijvenvoorde 2022](#van-duijvenvoorde-2022)

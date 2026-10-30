@@ -46,6 +46,6 @@ Moderator observation from the meta-analysis: the authors report that "the most 
 
 ## Related Claims
 - [Conceptual change interventions in biology produce large effects on conceptual understanding compared with traditional teaching, with refutational text the most effective single intervention type](biology-cc-interventions-large-effects-refutational-text-best.md) — a broader claim this one bears on
-- [Effect sizes of biology conceptual change interventions were strongly influenced by sample size and publication bias](biology-cc-effect-sizes-sample-size-publication-bias.md) — related
-- [Evolution is the most investigated topic and text-reading the most common intervention type in biology conceptual change research](biology-cc-topics-and-intervention-types.md) — related
-- [A striking number of biology conceptual change studies measured only superficial learning outcomes such as knowledge enrichment rather than knowledge restructuring](biology-cc-studies-superficial-enrichment-outcomes.md) — related
+- Effect sizes of biology conceptual change interventions were strongly influenced by sample size and publication bias — related
+- Evolution is the most investigated topic and text-reading the most common intervention type in biology conceptual change research — related
+- A striking number of biology conceptual change studies measured only superficial learning outcomes such as knowledge enrichment rather than knowledge restructuring — related

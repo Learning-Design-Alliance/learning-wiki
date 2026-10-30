@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: bobrowicz-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102308"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` All countries but two mentioned diverse spatial skills in their early childhood curricular guidelines. [→ Bobrowicz 2026](#bobrowicz-2026)

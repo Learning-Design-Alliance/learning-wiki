@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: spencer-2019
     resource: "https://doi.org/10.1037/edu0000274"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r3` · `q3`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Under regression-based matching, the grouping variable did not explain meaningfully unique vocabulary variance over and above reading comprehension, supporting the delay hypothesis. [→ Spencer 2019](#spencer-2019)

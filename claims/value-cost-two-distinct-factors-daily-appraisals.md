@@ -46,4 +46,4 @@ Bayesian multilevel factor analysis of value and cost diary items from 4,154 dat
 
 ## Related Claims
 - [The three-phase model received partial support with weak self-report–behaviour correspondence in fifth graders' mobile vocabulary learning](partial-support-three-phase-model-weak-selfreport-links.md) — related
-- [Confirmatory factor analyses show students' expectancies for success factor separately from their subjective task values, while expectancies and ability self-concepts factor together](cfa-expectancies-values-separate-factors.md) — related
+- Confirmatory factor analyses show students' expectancies for success factor separately from their subjective task values, while expectancies and ability self-concepts factor together — related

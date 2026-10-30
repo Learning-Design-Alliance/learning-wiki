@@ -52,4 +52,4 @@ The recorded entry is the second of the study's validity comparisons, against tw
 ## Related Claims
 - [The LoU Interview shows high interrater reliability, and the rating procedure was streamlined over two years without loss of agreement](lou-interview-interrater-reliability-high.md) — related
 - [PeerWise student ratings of multiple-choice questions correlate well with instructor ratings (0.5 and 0.58)](peerwise-student-ratings-correlate-instructor-ratings.md) — related
-- [Document analysis of teaching artefacts validated 25 of the 28 themes and identified 65 instances, supporting the trustworthiness of the interview findings](open-data-document-analysis-validation.md) — related
+- Document analysis of teaching artefacts validated 25 of the 28 themes and identified 65 instances, supporting the trustworthiness of the interview findings — related

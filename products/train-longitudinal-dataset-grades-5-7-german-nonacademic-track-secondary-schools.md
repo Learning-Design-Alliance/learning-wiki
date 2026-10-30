@@ -13,7 +13,7 @@ generated:
 # TRAIN longitudinal dataset (Grades 5-7, German nonacademic-track secondary schools)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies (2 associational), `q3` · 1 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 associational), `q3` · 1 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 A longitudinal dataset from the Transition and Innovation (TRAIN) study containing standardized mathematics and German achievement, subject interest, differentiated-instruction, and academic-orientation measures for students in German nonacademic-track secondary schools.
@@ -25,7 +25,6 @@ A longitudinal dataset from the Transition and Innovation (TRAIN) study containi
 
 - [Academic orientation mediated the effect of class mean interest on subsequent individual interest in German](../claims/academic-orientation-mediates-interest-composition-german.md) [+W]
 - [Within-class heterogeneity in achievement or interest did not directly predict outcomes, but differentiated instruction was particularly advantageous in more heterogeneous German classes](../claims/heterogeneity-null-differentiated-instruction-german-interaction.md) [+W]
-- [Boredom and academic interest fit two separate correlated factors better than one common factor in mathematics and German at every wave](../claims/boredom-interest-two-factor-separability.md) [+W]
 - [Negative boredom–interest factor correlations grew stronger over the four waves, indicating increasing divergence during secondary school](../claims/boredom-interest-correlations-increase-over-waves.md) [+W]
 
 ## Related Products and Programmes

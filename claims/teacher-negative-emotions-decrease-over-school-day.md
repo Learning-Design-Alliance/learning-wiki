@@ -10,6 +10,7 @@ generated:
 evidence_strength: moderate
 newest_evidence: 2026
 source_checked: 2026-10-29
+recheck_by: 2031
 sources:
   - id: sorkkila-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102298"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Teachers' negative lesson-specific emotions decreased across the lessons of one school day, whereas their positive emotions did not change. [→ Sorkkila 2026](#sorkkila-2026)

@@ -46,6 +46,7 @@ Descriptive analysis of moves between quintiles of the composite disadvantage in
 
 
 ## Related Claims
+
 - [Sustained exposure to the most disadvantaged neighborhoods from age 2 to 17 substantially reduces the probability of high school graduation for both black and nonblack children](sustained-neighborhood-disadvantage-reduces-high-school-graduation.md) — related
 - [The racial disparity in long-term exposure to the most disadvantaged neighborhoods is more pronounced than the disparity at any single age](racial-disparity-cumulative-neighborhood-exposure.md) — related
 - [The relationship between residential mobility and fifth-grade executive function is moderated by baseline neighborhood poverty: moving out of low-poverty neighborhoods is detrimental while moving out of high-poverty neighborhoods shows a marginally significant benefit](baseline-neighborhood-poverty-moderates-move-executive-function.md) — related
@@ -57,3 +58,4 @@ Descriptive analysis of moves between quintiles of the composite disadvantage in
 - [A recent reanalysis of Moving to Opportunity data found positive program impacts on girls' mental health and behavior were related to length of time spent exposed to low-poverty neighborhoods](mto-reanalysis-exposure-duration-matters.md) — related
 - [Movement in and out of social and economic exposure (mobility) across childhood has implications for educational and cognitive outcomes, with upward and downward changes differing in benefit and risk](mobility-effects-transient-exposure-outcomes.md) — related
 - [Most longitudinal studies of childhood social and economic circumstances find evidence that temporality (duration, timing, or mobility of exposure) relates to educational and cognitive outcomes](temporality-evidence-88-percent-longitudinal-studies.md) — related
+- [Greater early-life daycare exposure predicts reduced stereotype-driven adjustment and faster communicative convergence at age 17, beyond familial environment and later social experiences](daycare-exposure-predicts-faster-communicative-convergence.md)

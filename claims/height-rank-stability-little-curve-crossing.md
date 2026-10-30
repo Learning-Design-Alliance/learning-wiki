@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1922
+recheck_by: 1927
 sources:
   - id: bird-t-baldwin-1922
     resource: "https://psycnet.apa.org/journals/edu/13/1/193"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1927**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Correlations between height rankings at 6 or 9 years of age and 6 years later range from +0.735 to +0.944 for 125 boys and girls, indicating stable relative position. [→ Bird T. Baldwin 1922](#bird-t-baldwin-1922)

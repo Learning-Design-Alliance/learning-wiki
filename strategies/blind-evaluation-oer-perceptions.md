@@ -42,7 +42,8 @@ The author proposes that future perception studies overcome bias by recruiting s
 - [In direct comparisons of OER and commercial textbooks, a strong majority of participants report OER are as good or better.](../claims/oer-direct-comparison-strong-majority-as-good-or-better.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Research teacher behavior toward open textbook adoption using the integrative model of behavior prediction](integrative-model-behavior-prediction-open-textbook-research.md)
 
 ## Examples
 -

@@ -12,7 +12,7 @@ generated:
 # Arts-based research (ABR)
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The review proposes a shared definition to address the "confusing plethora of terms" in the field: "The use of artistically inspired methods by researchers and participants in a collaborative research environment where members of the community are actively involved either in creating art in the search for meaning or in providing a critical, situated response to artistically inspired formats of research dissemination from others." It also distinguishes research about art, art as research, and art in research, including only the latter in the review. ABR methods operate as data collection techniques, where art forms are data in their own right, or as dissemination vehicles replacing traditional textual reports.
@@ -22,7 +22,6 @@ The review proposes a shared definition to address the "confusing plethora of te
 - **Definition and classification framework for arts-based methods in community-based inquiry**: The review proposes a shared definition to address the "confusing plethora of terms" in the field: "The use of artistically inspired methods by researchers and participants in a collaborative research environment where members of the community are actively involved either in creating art in the search for meaning or in providing a critical, situated response to artistically inspired formats of research dissemination from others." It also distinguishes research about art, art as research, and art in research, including only the latter in the review. ABR methods operate as data collection techniques, where art forms are data in their own right, or as dissemination vehicles replacing traditional textual reports. (Sara Coemans (2017))
 
 ### Claims
-- [Photography was the most popular visual art form, theatre the most used performing art form, and poetry the most used literary art form in community-based arts-based research, with 64% of studies combining multiple art genres](../claims/abr-art-form-distribution-community-research.md) [+M]
 
 ## Related Research Methods
 -

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: kenneth-r-koedinger-vincent-aleven-2016
     resource: "https://doi.org/10.1007/s40593-015-0082-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` From three schools in 1993–94, use of the Cognitive Tutor course grew to 75 schools by 1998–99 and later to about 3000 schools with over half a million students using the courses each year. [→ Kenneth R. Koedinger & Vincent Aleven 2016](#kenneth-r-koedinger-vincent-aleven-2016)

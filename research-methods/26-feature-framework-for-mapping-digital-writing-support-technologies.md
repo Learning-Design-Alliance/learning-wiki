@@ -12,7 +12,7 @@ generated:
 # 26-feature framework for mapping digital writing-support technologies
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review organises the field of digital writing-support technologies using a framework of 26 quantitative and qualitative features spanning four axes: writing processes, pedagogical approaches, feedback modalities and technological specifications. It applies this framework to a systematic analysis of 44 tools supporting first and second language writers in secondary and higher education, focusing on "instructional affordances based on their technological specifications". The framework also distinguishes micro-level revision support from macro-level strategy support, enabling the review to locate gaps in the state of the art.
@@ -22,7 +22,6 @@ The review organises the field of digital writing-support technologies using a f
 - **Review framework mapping writing-support technologies across writing processes, pedagogical approaches, feedback modalities and technological specifications**: The review organises the field of digital writing-support technologies using a framework of 26 quantitative and qualitative features spanning four axes: writing processes, pedagogical approaches, feedback modalities and technological specifications. It applies this framework to a systematic analysis of 44 tools supporting first and second language writers in secondary and higher education, focusing on "instructional affordances based on their technological specifications". The framework also distinguishes micro-level revision support from macro-level strategy support, enabling the review to locate gaps in the state of the art. (Strobl et al. (2019))
 
 ### Claims
-- [The review systematically analysed 44 writing-support tools across 26 quantitative and qualitative features](../claims/strobl-2019-44-tools-26-features-analysis.md) [+M]
 - [Automated support for micro-level revision targeting factual knowledge is well represented, whereas tools supporting writing strategies and self-monitoring for macro-level text quality are infrequent](../claims/strobl-2019-micro-macro-pedagogical-imbalance.md) [+M]
 
 ## Related Research Methods

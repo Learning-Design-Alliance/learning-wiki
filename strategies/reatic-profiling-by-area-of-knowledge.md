@@ -17,7 +17,7 @@ sources:
 # Use REATIC-based profiling to characterize university students' ICT use and consideration by area of knowledge
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article recommends characterizing university students' ICT use and consideration through survey instruments analyzed by area of knowledge. It states that "it is necessary to appreciate the particular ways of learning in each area that students have and their experiences in the use of ICT", supporting area-differentiated profiling of ICT integration in higher education.
@@ -44,7 +44,6 @@ The article recommends characterizing university students' ICT use and considera
 - [Use and consideration of ICT differ significantly across the five areas of knowledge, with Health Sciences students showing the highest preference level in use](../claims/ict-use-differs-by-area-health-sciences-highest.md) [+W]
 - [University of Salamanca students most frequently use basic and personal interrelation programs, search engines, online video portals and virtual libraries](../claims/students-mainly-use-basic-programs-search-engines-video-portals.md) [+W]
 - [Students value ICT positively as a help and importance in their learning process](../claims/students-value-ict-positively-learning-process.md) [+W]
-- [Factor analysis identifies three components of ICT consideration: help/importance, tools for an end, and negative valuation](../claims/three-components-of-ict-consideration.md) [+W]
 
 ## Related Strategies
 - 

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2019
+recheck_by: 2022
 sources:
   - id: thomas-daniel-ullmann-2019
     resource: "https://doi.org/10.1007/s40593-019-00174-2"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Existing ML studies of reflection detection use less comprehensive models that lack evidence of empirical validity, and apart from two papers did not report inter-rater reliability values. [→ Thomas Daniel Ullmann 2019](#thomas-daniel-ullmann-2019)

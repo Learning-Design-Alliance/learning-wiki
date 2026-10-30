@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 2019
+recheck_by: 2022
 sources:
   - id: goodrich-2019
     resource: "https://www.apa.org/pubs/journals/edu"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Among children passing the PreLAS cutoff, 83.5% of monolingual children scored 20 versus only 28.9% of bilingual children, warranting PreLAS scores as a matching covariate. [→ Goodrich 2019](#goodrich-2019)

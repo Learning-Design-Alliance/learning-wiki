@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: nye-2016
     resource: "https://doi.org/10.1007/s40593-016-0098-8"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2`–`r3` · `q1`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The article states that many models for micro-optimization, such as reinforcement learning, have not transferred well to new tasks or contexts, even for the same domain. [→ Nye 2016](#nye-2016)

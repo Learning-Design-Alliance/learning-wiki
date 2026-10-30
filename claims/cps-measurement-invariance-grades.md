@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 2013
+recheck_by: 2016
 sources:
   - id: greiff-2013
     title: Greiff 2013
@@ -22,7 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Multigroup SEM showed configural, strong, and strict factorial invariance of the two-dimensional CPS model across grade levels, permitting interpretation of latent mean differences as true differences. [→ Greiff 2013](#greiff-2013)

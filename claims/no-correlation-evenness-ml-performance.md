@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: haudek-2024
     resource: "https://doi.org/10.1007/s40593-023-00385-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i0` negligible
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i0` There was no correlation between the balance of responses across rubric levels (evenness) and Cohen's kappa (Pearson's r = .08, p = .765, N = 17). [→ Haudek 2024](#haudek-2024)

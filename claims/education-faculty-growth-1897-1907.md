@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1907
+recheck_by: 1910
 sources:
   - id: charles-hughes-johnston-guy-montrose-whipple-1907
     resource: "https://eric.ed.gov/?q=THE+LEFT-HANDED+CHILD"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q1`
-> **Currency** · newest study 1907 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1907 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1910**: local conditions change quickly
 
 ## Subclaims
 `q1 i?` Johnston states that between 1897 and 1907 graduate work in education at the universities he surveyed rose from 27 to 64, and instructional staff from 14 occupants with no specific preparation to 47 with, in most cases, the highest insignia of scholarship. [→ CHARLES HUGHES JOHNSTON; GUY MONTROSE WHIPPLE 1907](#charles-hughes-johnston-guy-montrose-whipple-1907)
@@ -45,4 +46,4 @@ Johnston's descriptive statistics on institutional growth, drawn from his critic
 
 
 ## Related Claims
-- [Johnston argues that Fite's attack on the staffs of 300 college departments and 275 normal schools rests on an oversimplified philosophy](johnston-rebuttal-fite-teacher-training.md) — related
+- Johnston argues that Fite's attack on the staffs of 300 college departments and 275 normal schools rests on an oversimplified philosophy — related

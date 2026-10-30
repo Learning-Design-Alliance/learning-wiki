@@ -47,4 +47,4 @@ Qualitative synthesis of intervention characteristics across 15 intervention con
 ## Related Claims
 - [Mathematics interventions produce a positive overall mean effect on mathematical outcomes for students with co-occurring mathematics and reading difficulties compared to business-as-usual control](math-interventions-positive-effect-co-occurring-md-rd.md) — a broader claim this one bears on
 - [Prior meta-analyses found word-problem interventions less effective for students with co-occurring difficulties than for students with mathematics difficulties only](prior-reviews-co-occurring-less-responsive.md) — related
-- [Included studies show considerable variation in the cut-off criteria used to identify students with co-occurring mathematics and reading difficulties](cut-off-criteria-variation-co-occurring-identification.md) — related
+- Included studies show considerable variation in the cut-off criteria used to identify students with co-occurring mathematics and reading difficulties — related

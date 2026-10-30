@@ -10,6 +10,7 @@ generated:
 evidence_strength: moderate
 newest_evidence: 2025
 source_checked: 2026-10-28
+recheck_by: 2028
 sources:
   - id: nygren-2025
     resource: "https://doi.org/10.1007/s40593-025-00484-8"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Inter-rater reliability between one expert and ChatGPT-4o ranges from none to minimal, and Claude 3.5 Sonnet did not improve agreement. [→ Nygren 2025](#nygren-2025)
@@ -56,4 +57,4 @@ Cohen's kappa was calculated for every category and pair of coders. Agreement be
 - [Making trustworthiness metrics and visualizations explicit increased inter-rater reliability among learning engineers evaluating LLM responses](trustworthiness-metrics-visualizations-increase-expert-agreement.md) — related
 - [Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions](frisco-rater-agreement-reliable.md) — related
 - [Systems Thinking Practices is the hardest CT construct to code reliably for both human raters and the LLM, requiring more explicitly operationalized rubrics](stp-low-reliability-complex-construct.md) — related
-- [The proposed coding scheme achieves high inter-rater reliability across design object, design move, and communication move dimensions](coding-scheme-inter-rater-reliability.md) — related
+- The proposed coding scheme achieves high inter-rater reliability across design object, design move, and communication move dimensions — related

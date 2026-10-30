@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2014
+recheck_by: 2017
 sources:
   - id: adesina-2014
     resource: "https://doi.org/10.1016/j.compedu.2014.06.015"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Close analysis of three students suggested strategies used on paper may not differ from those used on the application. [→ Adesina 2014](#adesina-2014)

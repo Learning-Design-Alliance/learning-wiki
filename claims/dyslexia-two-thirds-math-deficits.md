@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: b-pedemonte-2024
     resource: "https://doi.org/10.1038/s41539-024-00217-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Among 75 children referred with a dyslexia diagnosis, 50 (two-thirds) had trouble in mathematics, often undetected in prior evaluations. [→ B. Pedemonte 2024](#b-pedemonte-2024)

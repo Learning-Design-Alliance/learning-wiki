@@ -50,4 +50,4 @@ Summary in Table 6 of experimental tests conducted by the author's lab and colle
 - [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — related
 - [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — a broader claim this one bears on
 - [Signaling Improves Learning](signaling-improves-learning.md) — related
-- [The CTML research base grew from 45 experimental comparisons and 7 principles (2001) to 201 comparisons and 15 principles (2021)](ctml-research-base-growth-across-editions.md) — related
+- The CTML research base grew from 45 experimental comparisons and 7 principles (2001) to 201 comparisons and 15 principles (2021) — related

@@ -52,5 +52,5 @@ The editorial authors, synthesizing recent reviews of teacher emotion research, 
 - [Epistemic empathy, an affective phenomenon, dovetails with science teachers' learning of responsive teaching](epistemic-empathy-dovetails-responsive-teaching.md)
 - [Racialized emotions are a race-focused construct educational psychologists have yet to explicate in teaching and learning](racialized-emotions-unexplored-construct.md) — related
 - Integrated multimodal SRL studies are increasing, but motivational and affective processes remain underrepresented and temporal alignment of data streams is rarely done — related
-- [Motivational and affective dimensions remain underrepresented in multimodal SRL research despite theoretical consensus on their importance](motivation-affect-underrepresented-multimodal-srl.md) — related
-- [Multimodal SRL research shows a historical shift from unimodal toward integrated analytical designs, but motivational and affective dimensions remain underrepresented](srl-multimodal-shift-integrated-designs-motivation-affect-gap.md) — related
+- Motivational and affective dimensions remain underrepresented in multimodal SRL research despite theoretical consensus on their importance — related
+- Multimodal SRL research shows a historical shift from unimodal toward integrated analytical designs, but motivational and affective dimensions remain underrepresented — related

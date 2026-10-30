@@ -48,4 +48,4 @@ Thematic synthesis of 27 peer-reviewed articles in this systematic review; the r
 - [Dialogic leadership values diversity as an asset and fosters inclusion of marginalized groups](dialogic-leadership-diversity-inclusion.md) — related
 - [DLGs create egalitarian spaces for dialogue and exchange in which pupils contribute most of the talk](dlg-spaces-dialogue-exchange-pupil-talk.md) — related
 - [Schooling disrupts hunter-gatherer values, languages, and traditional knowledge, contributing to language loss and erosion of traditional knowledge transmission](schooling-disrupts-hunter-gatherer-values-language-knowledge.md) — related
-- [The evidence base on dialogic leadership is entirely qualitative, with the majority (n = 17, 63%) of studies being case studies](dialogic-leadership-evidence-all-qualitative.md) — related
+- The evidence base on dialogic leadership is entirely qualitative, with the majority (n = 17, 63%) of studies being case studies — related

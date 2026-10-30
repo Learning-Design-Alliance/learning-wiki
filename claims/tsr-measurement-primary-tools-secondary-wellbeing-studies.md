@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: rhoda-lai-2026
     resource: "https://doi.org/10.1007/s10648-025-10107-2"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The STRS, designed for primary school students, was the most frequently used relationship measure (n = 9 studies), often adapted with changes rarely reported. [→ Rhoda Lai 2026](#rhoda-lai-2026)

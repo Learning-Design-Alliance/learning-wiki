@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: arsalidou-2016
     resource: "https://doi.org/10.1038/npjscilearn.2016.16"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In participants aged 6 to 20 years, structural maturation and brain activity indices predicted cognitive performance two years later better than cognitive measures closely tied to past learning. [→ Arsalidou 2016](#arsalidou-2016)

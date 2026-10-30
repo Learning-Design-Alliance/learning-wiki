@@ -48,4 +48,4 @@ The authors use public review counts on Class Central as a rough proxy for compa
 - [An intervention study of Learning How to Learn reported improved study behaviors and higher second-semester proficiency scores](lhtl-intervention-improved-study-behaviors.md) — related
 - [The authors propose a new predictability principle: motion and unexpected visual or audio change help maintain viewer attention in instructional video](proposed-predictability-principle-motion-attention.md) — related
 - [The authors propose a humor principle: humor may not improve learning of particular items but may drive learners to preferentially select a course](proposed-humor-principle-course-selection.md) — a narrower finding that bears on this claim
-- [Investigating what arithmetic to teach is more fundamental than investigating how to teach it, because method studies may be eliminated by subject-matter findings](what-to-teach-more-fundamental-than-how.md) — related
+- Investigating what arithmetic to teach is more fundamental than investigating how to teach it, because method studies may be eliminated by subject-matter findings — related

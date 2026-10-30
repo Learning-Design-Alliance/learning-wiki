@@ -65,6 +65,6 @@ Histogram comparison of the raw observed distribution (Fig. 5) against the bias-
 
 ## Related Claims
 - [Publication-bias adjustment via limit meta-analysis lowers the overall STEM benchmarks to 0.14, 0.32, and 0.59](stem-benchmarks-publication-bias-adjusted.md) — related
-- [Benchmarks are sensitive to precision and publication bias, but subgroup ordering remains stable and one-per-primary-study quartiles are broadly similar to raw values](benchmark-robustness-subgroup-ordering-stable.md) — related
-- [The bias-adjusted mean moderator effect in STEM education meta-analyses is g = 0.27 with substantial heterogeneity, and the published record shows overwhelming evidence of publication-bias-type selection](bias-adjusted-moderator-effect-stem.md) — related
-- [Under bias-adjusted planning assumptions, approximately 14 independent moderator effect sizes per moderator level are needed for 80% power, and about 60.2% of corpus effect sizes fell below this threshold](moderator-power-14-effect-sizes.md) — related
+- Benchmarks are sensitive to precision and publication bias, but subgroup ordering remains stable and one-per-primary-study quartiles are broadly similar to raw values — related
+- The bias-adjusted mean moderator effect in STEM education meta-analyses is g = 0.27 with substantial heterogeneity, and the published record shows overwhelming evidence of publication-bias-type selection — related
+- Under bias-adjusted planning assumptions, approximately 14 independent moderator effect sizes per moderator level are needed for 80% power, and about 60.2% of corpus effect sizes fell below this threshold — related

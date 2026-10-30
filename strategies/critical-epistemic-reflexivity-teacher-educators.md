@@ -43,7 +43,8 @@ The review concludes that teacher educators should engage in enhanced critical e
 - [A systematic review of 209 peer-reviewed articles (2009-2019) identifies three qualitatively different clusters of claims about how teachers can be prepared for diversity](../claims/three-claims-clusters-preparing-teachers-diversity.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Consider Your Own Identity](consider_your_own_identity.md)
 
 ## Examples
 -

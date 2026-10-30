@@ -50,4 +50,4 @@ Descriptive study-level results of the scoping review (Table 1). The review repo
 - [Using multiple data sources, including site-specific data, helped schools develop a more comprehensive understanding of their school climate](multiple-data-sources-holistic-climate-understanding.md) — related
 - Documented CSCL empirical corpus 2005–2009 relies mostly on questionnaires and code-and-count, not post-cognitive group-process approaches — related
 - [Focal math teachers relied primarily on their own observations of student behavior to understand students' feelings about math, supplemented by surveys, with disaggregated data rare](teacher-observation-primary-perception-data-source.md) — related
-- [Forest-school benefits are measured with heterogeneous methods, mostly questionnaires and tasks administered to children, with only two studies using objective measures](forest-school-measurement-methods-heterogeneous.md) — related
+- Forest-school benefits are measured with heterogeneous methods, mostly questionnaires and tasks administered to children, with only two studies using objective measures — related

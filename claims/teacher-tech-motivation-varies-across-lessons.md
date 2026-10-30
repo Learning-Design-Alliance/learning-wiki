@@ -9,6 +9,7 @@ generated:
   at: 2026-10-30
 evidence_strength: moderate
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: backfisch-2021
     resource: "https://doi.org/10.1016/j.compedu.2021.104159"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Approximately 30% of variance in technology-related motivation is explained by stable teacher traits, while 60-70% is determined by specific instructional contexts of different lessons. [→ Backfisch 2021](#backfisch-2021)

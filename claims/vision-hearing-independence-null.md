@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: schmitz-2023
     resource: "https://doi.org/10.1038/s41539-023-00175-w"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3` · `i0` negligible
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q3 i0` No evidence for a correlation between visual acuity and hearing threshold after adjusting for sex and age (r = −0.02, p = 0.104). [→ Schmitz 2023](#schmitz-2023)

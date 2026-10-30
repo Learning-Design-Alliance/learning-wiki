@@ -53,4 +53,4 @@ Synthesis of six music intervention studies (average sample 77.17; average durat
 - [Traditional Tae-Kwon-Do training produces greater gains than standard physical education on all studied dimensions of EFs, with gains greatest for older children and boys](taekwondo-greater-ef-gains-than-pe.md) — related
 - [Open-skill exercises yield larger executive function benefits than closed-skill exercises for inhibitory control and working memory](open-skill-exercise-larger-ef-benefits.md) — related
 - [Most preschool SR/EF interventions report at least one significant outcome, but only about half of evaluated effects are significant](preschool-sr-ef-intervention-efficacy-overview.md) — a broader claim this one bears on
-- [The study's evidence is limited by a small sample, particularly the low-EF group, and a short intervention period](small-sample-limitation-eye-tracking-strategy-study.md) — related
+- The study's evidence is limited by a small sample, particularly the low-EF group, and a short intervention period — related

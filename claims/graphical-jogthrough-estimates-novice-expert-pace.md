@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 1999
+recheck_by: 2002
 sources:
   - id: stavros-demetriadis-1999
     resource: "https://telearn.hal.science/hal-00197391"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 1999 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1999 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2002**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` From their evaluation experience the authors argue the method could offer designers quantitative and qualitative data for formulating a useful, though rough in some aspects, estimation of the novice–becoming–expert pace end users might follow. [→ Stavros Demetriadis 1999](#stavros-demetriadis-1999)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: allen-2026
     resource: "https://doi.org/10.1038/s41539-026-00430-w"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Based on the authors' synthesis of prior research, the three most common reasons implementation projects fail are simplistic planning, lack of adaptation, and poor teamwork, and all three can arise at key points throughout the process rather than strictly in sequence. [→ Allen 2026](#allen-2026)

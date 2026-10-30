@@ -17,7 +17,7 @@ sources:
 # Balance explanation-focused and prediction-focused methodological strategies in motivation research
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 3 studies (2 theoretical, 1 associational), `q1`–`q3` · 0 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 3 studies (2 theoretical, 1 associational), `q2`–`q3` · 0 of 3 report an effect size
 
 ## Description
 The essay observes that motivation theories focus almost exclusively on explanation while prediction is given short shrift. It explains that the model best approximating the data-generating process may not predict best due to overfitting, and that explanation-focused researchers fit models entirely in-sample whereas prediction-focused machine learning researchers evaluate on held-out data. It recommends integrating both strategies, citing Noetel et al. (2023) as showing how machine learning can redress the imbalance.
@@ -40,7 +40,6 @@ The essay observes that motivation theories focus almost exclusively on explanat
 ## Claims
 
 - [Predictive modeling across four theories found critical teacher behaviors for engagement that did not fit within one theoretical model](../claims/cross-theoretical-71-teacher-behaviors-predict-engagement.md) [+W]
-- [Fragmentation is caused by researchers themselves via misaligned incentives that favor staying in theoretical camps](../claims/fragmentation-caused-by-misaligned-incentives.md) [+W]
 
 ## Related Strategies
 

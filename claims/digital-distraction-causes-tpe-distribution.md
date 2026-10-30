@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: florence-martin-2025
     resource: "https://doi.org/10.1007/s11423-025-10550-6"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Across the 26 reviewed studies, technology distractors were the largest category of digital distraction causes at 51.95%, followed by personal needs (37.66%) and instructional environment factors (10.39%). [→ Florence Martin 2025](#florence-martin-2025)
@@ -66,5 +67,5 @@ The review's narrative synthesis of the 26 studies reports that within technolog
 ## Related Claims
 - [Consequences of digital distraction are predominantly personal performance issues (66.67%), followed by disrupted classroom instruction (23.33%) and problematic technology use (10%)](digital-distraction-consequences-distribution.md) — related
 - [Proposed prevention strategies for digital distraction divide into classroom environment regulations (41.03%), technology controls (30.77%), and personal behavioral interventions (28.21%)](digital-distraction-prevention-strategy-distribution.md) — related
-- [Digital distraction research is predominantly quantitative (69.23%), focused on higher education (92.3% of studies), and relies mainly on surveys](digital-distraction-research-methodological-profile.md) — related
-- [Digital distraction research is concentrated in the United States and peaked in publication years 2020 and 2023](digital-distraction-publication-patterns.md) — related
+- Digital distraction research is predominantly quantitative (69.23%), focused on higher education (92.3% of studies), and relies mainly on surveys — related
+- Digital distraction research is concentrated in the United States and peaked in publication years 2020 and 2023 — related

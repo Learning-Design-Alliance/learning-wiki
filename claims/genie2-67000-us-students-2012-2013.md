@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2014
+recheck_by: 2017
 sources:
   - id: khachatryan-2014
     resource: "https://doi.org/10.1007/s40593-014-0019-7"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` The Genie 2 intelligent tutoring system was adopted on a large scale, with around 67,000 United States students participating in the 2012–2013 school year. [→ Khachatryan 2014](#khachatryan-2014)

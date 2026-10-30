@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1912
+recheck_by: 1915
 sources:
   - id: walter-r-miles-and-julian-e-butterworth-1912
     resource: "https://www.google.com/search?q=%22A+Tentative+Standardization+of+a+Completion+Test%22"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 1912 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1912 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1915**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Pooling subjects' introspective difficulty ratings, 83.2% of elisions were of average difficulty, 9.3% of more than average difficulty, and 7.5% very difficult. [→ Walter R. Miles and Julian E. Butterworth 1912](#walter-r-miles-and-julian-e-butterworth-1912)

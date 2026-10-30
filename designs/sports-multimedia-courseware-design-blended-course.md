@@ -42,7 +42,8 @@ A blended PET course for Chinese university PE students combining an online self
 - [Positive Student Evaluation Blended Pet Course](../claims/positive-student-evaluation-blended-pet-course.md) [+M]
 
 ## Related Designs
-- 
+
+- [Collaborative Cyber Community (3C) model as a framework for designing the virtual part of blended PET curriculum](collaborative-cyber-community-3c-model.md)
 
 ## Examples
 -

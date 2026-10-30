@@ -64,5 +64,5 @@ Descriptive coding of instruction characteristics (Table 4) across the 61 treatm
 
 
 ## Related Claims
-- [Fewer than 10% of recent ITS papers address most developing-world adoption barriers, and almost 95% of ITS research still targets traditional computers](its-barriers-low-research-coverage.md) — related
+- Fewer than 10% of recent ITS papers address most developing-world adoption barriers, and almost 95% of ITS research still targets traditional computers — related
 - [Existing MLL-focused edtech overwhelmingly offers English and Spanish, with a third offering only those two languages](mll-edtech-landscape-english-spanish-dominant.md) — related

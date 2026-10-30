@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: jingjing-chen-2022
     resource: "https://doi.org/10.1101/2022.06.08.495411"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Single-brain attention levels were significantly higher during the lecture compared with the meditation task (t(23) = 5.56, p < .001). [→ Jingjing Chen 2022](#jingjing-chen-2022)

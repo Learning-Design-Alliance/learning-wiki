@@ -17,7 +17,7 @@ sources:
 # Develop context-specific child self-report measures through separate conceptualisation and operationalisation stages with child partnership
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The authors recommend, before measuring, developing a clear theoretical and conceptual definition of the target construct, citing the point that "conceptualisation" and "operationalisation" stages of scale development "are often erroneously merged". They are applying this by designing the Primary-Secondary School Transitions Emotional Wellbeing Scale (P-S WELLS), intended as the first standardised scale to longitudinally assess children's emotional wellbeing in the transitions context, built from the present concept analysis and qualitative insights from children rather than adult agendas alone.
@@ -47,12 +47,12 @@ The authors recommend, before measuring, developing a clear theoretical and conc
 - [A UK-wide expert panel (n=30) conceptualised transitions-context emotional wellbeing as affective state, tangible signs of adjustment, and mechanisms to maintain a stable affective state](../claims/expert-panel-three-conceptualisation-categories.md) [+W]
 - [No single measure exists that assesses children's emotional wellbeing in the context of primary-secondary school transitions; existing measure designs are inadequate](../claims/no-single-measure-transitions-emotional-wellbeing.md) [+W]
 - [In the 60-article review of quantitative transitions studies, 50 articles did not explicitly conceptualise wellbeing, and seven factors were associated with emotional wellbeing across 38 articles](../claims/sixty-article-review-wellbeing-conceptualisation-factors.md) [+W]
-- [Most primary-secondary transitions research articles neither clearly define nor operationalise transitions, and nine conceptualisations appear across the 96-article literature](../claims/transitions-research-lacks-explicit-conceptualisation.md) [+W]
 
 ## Related Strategies
 
 - [Future social presence research should use solid conceptualization, report instrument validity, consider media generalization, and use diverse measurement approaches](social-presence-measurement-research-recommendations.md)
 - [Develop secondary-specific conceptualisations and measures of positive teacher-student relationships](develop-secondary-specific-tsr-measures-research.md)
+- [Align conceptualization, definition, measurement, and context when researching student engagement](align-se-conceptualization-measurement-context.md)
 
 ## Examples
 -

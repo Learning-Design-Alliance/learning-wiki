@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: bühler-2025
     resource: "https://doi.org/10.1007/s40593-024-00412-2"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · `i3` large
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i3` Lowering the prediction threshold from 0.5 to 0.3 raised the person-level correlation between true and predicted mind wandering proportion in cross-dataset prediction from 0.48 (P = 0.07) to 0.8 (P < 0.001), a large correlation. [→ Bühler 2025](#buhler-2025)

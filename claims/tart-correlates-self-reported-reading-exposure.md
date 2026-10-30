@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: song-2025
     resource: "https://doi.org/10.1038/s41539-025-00390-7"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i3` tART-derived print exposure showed a strong rank correlation (Spearman r = 0.744) with participants' self-reported reading frequency across the nine topics. [→ Song 2025](#song-2025)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: strong
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: nordmo-2023
     resource: "https://doi.org/10.1038/s41539-023-00182-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q3 i?` 18.8% of children had a parent with an internalizing disorder diagnosis during the last three years of primary education; yearly prevalence was 11.5% (7.9% mothers, 4.3% fathers). [→ Nordmo 2023](#nordmo-2023)

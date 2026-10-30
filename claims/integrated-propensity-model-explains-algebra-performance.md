@@ -49,7 +49,7 @@ The review reports, citing Jones and Byrnes (2006), that an O-P-model-based anal
 - [Algebraic Thinking](../learner-variables/algebraic-thinking.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Few algebra studies examine mathematical and motivational/socioemotional propensities in tandem](few-algebra-studies-integrate-propensities.md) — related
+- Few algebra studies examine mathematical and motivational/socioemotional propensities in tandem — related
 - [Prior mathematical accuracy is the dominant propensity factor: over half of January accuracy variance and under one-fifth of fluency variance predicted June performance](prior-math-accuracy-dominant-propensity-factor.md) — related
 - [Mathematics self-efficacy is the most commonly studied motivational propensity and is usually positively related to algebraic thinking](math-self-efficacy-positive-algebra.md) — related
 - [Sense of belonging to mathematics is positively related to algebraic thinking in reviewed studies](belonging-mathematics-positive-algebra.md) — related

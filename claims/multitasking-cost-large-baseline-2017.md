@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2017
+recheck_by: 2022
 sources:
   - id: angela-d-bender-2017
     resource: "https://doi.org/10.1038/s41539-017-0015-4"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 
 ## Subclaims
 `q3 i3` At pre-training, performing the discrimination and tracking tasks simultaneously produced a large mean multitasking cost of 15.58%. [→ Angela D. Bender 2017](#angela-d-bender-2017)

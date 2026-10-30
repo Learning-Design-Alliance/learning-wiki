@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2015
+recheck_by: 2018
 sources:
   - id: pavlik-jr-2015
     resource: "https://doi.org/10.1007/s40593-015-0039-y"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In 5-fold cross-validation over 20 randomized repetitions (user-stratified and item-stratified), the CPFA model cross-validated at r=.567 without subject parameters in validation folds. [→ Pavlik Jr 2015](#pavlik-jr-2015)
@@ -45,4 +46,5 @@ Model validation during intensive incremental model search: 'our CPFA model cros
 
 
 ## Related Claims
--
+
+- [CCM-estimated skill profiles showed minor positive correlations with external pre- and post-test scores, ranging from .018 to .495](ccm-external-validation-correlations-pre-post-tests.md)

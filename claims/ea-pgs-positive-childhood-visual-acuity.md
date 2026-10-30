@@ -49,4 +49,4 @@ Same PGS regression analysis; the myopia PGS association (standardised β = −0
 - [Polygenic scores show a meta-analytic association of ρ = 0.24 with educational achievement](pgs-educational-achievement-rho-24-meta.md) — a broader claim this one bears on
 - [Children in higher SES families have higher average polygenic scores for educational attainment](higher-pgs-mean-in-higher-ses-groups.md) — related
 - [GWAS identifies genome-wide significant association of childhood visual acuity at the NPLOC4 locus on chromosome 17](nploc4-gwas-visual-acuity.md) — related
-- [The number of genome-wide significant loci associated with educational attainment increases with GWAS discovery sample size](education-gwas-loci-increase-with-discovery-sample-size.md) — related
+- The number of genome-wide significant loci associated with educational attainment increases with GWAS discovery sample size — related

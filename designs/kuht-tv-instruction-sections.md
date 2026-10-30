@@ -9,8 +9,8 @@ generated:
   at: 2026-10-29
 sources:
   - id: evans-1955
-    resource: "https://eric.ed.gov"
-    title: "Evans, Richard I.; Roney, H. Burr; and McAdams, Walter J. (1955). An Evaluation of the Effectiveness of Instruction and Audience Reaction to Programming an Educational Television Station. Journal of Applied Psychology, 39, 277-79. https://eric.ed.gov"
+    resource: "https://doi.org/10.1037/h0042123"
+    title: "Evans, Richard I.; Roney, H. Burr; and McAdams, Walter J. (1955). An Evaluation of the Effectiveness of Instruction and Audience Reaction to Programming on an Educational Television Station. Journal of Applied Psychology, 39, 277-79. [doi:10.1037/h0042123](https://doi.org/10.1037/h0042123)"
     author: Evans, Richard I.; Roney, H. Burr; and McAdams, Walter J
 ---
 
@@ -48,4 +48,4 @@ KUHT-TV is the University of Houston's educational TV station, evaluated for ins
 -
 
 ## Key Sources
-- Evans, Richard I.; Roney, H. Burr; and McAdams, Walter J. (1955). An Evaluation of the Effectiveness of Instruction and Audience Reaction to Programming an Educational Television Station. Journal of Applied Psychology, 39, 277-79. https://eric.ed.gov
+- Evans, Richard I.; Roney, H. Burr; and McAdams, Walter J. (1955). An Evaluation of the Effectiveness of Instruction and Audience Reaction to Programming on an Educational Television Station. Journal of Applied Psychology, 39, 277-79. [doi:10.1037/h0042123](https://doi.org/10.1037/h0042123)

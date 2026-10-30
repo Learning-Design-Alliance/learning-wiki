@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: yiannis-georgiou-2023
     resource: "https://zenodo.org"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The integration of immersive VR simulations in science classrooms introduces new challenges, and learning designs to inform practice are lacking. [→ Yiannis Georgiou 2023](#yiannis-georgiou-2023)

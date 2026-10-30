@@ -64,7 +64,7 @@ The review reports, citing Meishar-Tal and Shonfeld (2019), that a paperless cla
 
 
 ## Related Claims
-- [Four ICT-enabled learning approaches are used in empirical studies of schoolgirls' learning in Asia, with computer-assisted learning the most common](four-ict-approaches-schoolgirls-asia.md) — related
+- Four ICT-enabled learning approaches are used in empirical studies of schoolgirls' learning in Asia, with computer-assisted learning the most common — related
 - [Digital game-based learning aligns most with practice/participation and belief/perception dimensions, while mobile-enabled learning leads access to assets](dgbl-leads-participation-perception-alignment.md) — related
 - [ICT-enabled learning improves schoolgirls' access to resources, knowledge, and skills](ict-improves-girls-access-resources.md) — related
 - [ICT-enabled learning improves schoolgirls' practice and participation in learning, with girls sometimes scoring better than boys](ict-improves-girls-participation.md) — related

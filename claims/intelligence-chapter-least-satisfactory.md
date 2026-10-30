@@ -45,7 +45,7 @@ The reviewer's assessment of the reviewed textbook's intelligence chapter, which
 
 
 ## Related Claims
-- [The reviewer judges Goddard's book an optimistic, clear popular account that exaggerates intelligence's influence and omits technical questions such as IQ validity](reviewer-critique-goddard-optimism.md) — related
+- The reviewer judges Goddard's book an optimistic, clear popular account that exaggerates intelligence's influence and omits technical questions such as IQ validity — related
 - [Group scales allow examining fifty or a hundred children in an hour, whereas individual Binet testing restricts use to special cases](group-scale-throughput-versus-binet-individual.md) — related
 - [The reviewed tests-and-scales book describes a third stage in which standardized tests are used for diagnosis of individual pupils and for testing the efficiency of teaching methods](standardized-tests-third-stage-diagnosis.md) — related
 - [The editor predicts NRC group tests will make intelligence testing a routine school measure and open the way for adjusting school work to pupil needs](nrc-tests-predicted-routine-school-intelligence-testing.md) — related

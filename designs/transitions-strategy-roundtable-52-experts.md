@@ -17,7 +17,7 @@ sources:
 # Multi-disciplinary round-table consultation event aggregating views of 52 experts across practice, research and policy
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Study 2 was a Primary-Secondary School Transitions Strategy Event held on Friday 24th January 2025, aggregating expert views from "a multi-disciplinary expert panel of 52 experts within educational practice (Local Authority leads n = 13; school teachers n = 11), research (academics n = 11; professional practice n = 8), and policy (n = 9), nationwide". Each delegate contributed to two of 10 round-table discussions: the first on facilitators and barriers of "gold-standard" provision at five ecological levels (pupil, family, school, Local Authority, national), the second on priority areas, support, measurable objectives and quality markers for a national strategy. Written notes and audio recordings were analysed via inductive content analysis and Thematic Framework Analysis.
@@ -37,7 +37,8 @@ Study 2 was a Primary-Secondary School Transitions Strategy Event held on Friday
 - identifying barriers and facilitators of high-quality transitions provision and priority areas for national strategy
 
 ### Claims
-- 
+
+- [A UK-wide expert panel (n=30) conceptualised transitions-context emotional wellbeing as affective state, tangible signs of adjustment, and mechanisms to maintain a stable affective state](../claims/expert-panel-three-conceptualisation-categories.md) [+W]
 
 ## Related Designs
 - 

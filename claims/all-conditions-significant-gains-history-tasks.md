@@ -74,7 +74,7 @@ Prior-knowledge check: the three conditions were statistically comparable at pre
 - [The Timeline condition's advantage was concentrated in time-related test items and disappeared in the long run](timeline-advantage-driven-by-time-related-items.md) — related
 - [Domain-specific knowledge gains from the learning session were large but comparable across the three experimental conditions](knowledge-gains-comparable-across-prompt-conditions.md) — related
 - [Revisions to visuals had no effect on post-lesson test scores, though prior knowledge predicted performance](revised-visuals-no-learning-effect.md) — related
-- [Participants in the four visualization conditions did not differ significantly in prior knowledge about Pergamon](no-prior-knowledge-differences-between-conditions.md) — related
+- Participants in the four visualization conditions did not differ significantly in prior knowledge about Pergamon — related
 - [Every group of college freshmen learned significantly from each educational film as measured by pre-test to post-test gains](every-group-learned-significantly-from-each-film.md) — related
 - [All conditions achieved significant knowledge gains with no condition, gender, or interaction effects](knowledge-gains-identical-across-conditions.md) — related
 - [Representational scripting produced no individual learning gains: overall post-test scores did not exceed pre-test scores](no-individual-learning-gains.md) — reports the opposite

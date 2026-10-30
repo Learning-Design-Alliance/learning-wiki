@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: aakriti-kumar-2022
     resource: "https://doi.org/10.1038/s41539-022-00142-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` M2 provides a substantial, across-the-board improvement over M1 in out-of-sample RMSE, revealing the ubiquity of warm-up decrements. [→ Aakriti Kumar 2022](#aakriti-kumar-2022)

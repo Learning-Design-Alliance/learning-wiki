@@ -25,7 +25,8 @@ A speeded perceptual-substitution assessment in which examinees classify labeled
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Electrically instrumented mirror-drawing apparatus](electrically-instrumented-mirror-drawing-apparatus.md)
 
 ## Key Sources
 - Woodrow, H. (1915). Practice and transference in normal and feeble-minded children. The Journal of Educational Psychology. https://scholar.google.com/scholar?q=%22Practice+and+Transference+in+Normal+and+Feeble-Minded+Children%22

@@ -79,4 +79,4 @@ Review's synthesis of the Generative AI Dependency Scale (Goh et al., 2025), dev
 - [The GenAI-RTS is supported by a five-factor structure in which Strategic reliance comprises Deliberate Use and Critical Evaluation facets alongside Instrumental, Dependent, and Dialogic factors](genai-rts-five-factor-structure-supported.md) — related
 - [Recurring mechanism clusters — self-regulation, metacognition, critical thinking, self-efficacy, trust, feedback literacy, AI literacy — link GenAI use to agency outcomes](genai-agency-mechanism-clusters.md) — related
 - [Higher post-task trust in an AI assistant predicts lower appropriate reliance during AI-assisted programming problem-solving](higher-trust-lower-appropriate-reliance-ai-assistant.md) — related
-- [Acceptance of individual and collective cheating form two distinct factors in students' responses](individual-collective-cheating-two-factor-distinction.md) — related
+- Acceptance of individual and collective cheating form two distinct factors in students' responses — related

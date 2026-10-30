@@ -13,7 +13,7 @@ generated:
 # Perceived Social-Emotional Competence Scale (five dimensions)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 A five-dimension, 1–7 student self-report scale developed by Collie for assessing adolescents’ perceived competence in social-emotional skills.
@@ -22,7 +22,6 @@ A five-dimension, 1–7 student self-report scale developed by Collie for assess
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Perceived social-emotional competence is best modeled as a bifactor structure with one global factor and five specific factors among Australian adolescents](../claims/perceived-sec-bifactor-global-and-specific-factors.md) [+M]
 
 ## Related Products and Programmes
 -

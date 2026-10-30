@@ -49,6 +49,6 @@ Cross-study comparison reported in the review's key findings section, based on T
 - [ICT-enabled learning may change beliefs and perceptions about girls' capacity and ICT's value](ict-changes-beliefs-perceptions-girls.md) — related
 - [ICT-enabled learning improves schoolgirls' practice and participation in learning, with girls sometimes scoring better than boys](ict-improves-girls-participation.md) — related
 - [Mobile devices make education more accessible anytime and anywhere, but this attractiveness comes with limitations for adoption and usage](mobile-access-anytime-anywhere-with-adoption-limits.md) — related
-- [Four ICT-enabled learning approaches are used in empirical studies of schoolgirls' learning in Asia, with computer-assisted learning the most common](four-ict-approaches-schoolgirls-asia.md) — related
+- Four ICT-enabled learning approaches are used in empirical studies of schoolgirls' learning in Asia, with computer-assisted learning the most common — related
 - [ICT-enabled learning improves schoolgirls' access to resources, knowledge, and skills](ict-improves-girls-access-resources.md) — a broader claim this one bears on
 - [Fewer reviewed studies align with the policy dimension, and policies ignoring gender differences may deter girls' participation](policies-accommodate-inclusiveness.md) — related

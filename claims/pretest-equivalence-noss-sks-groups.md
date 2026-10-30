@@ -57,9 +57,9 @@ Independent samples t-test on pre-test scores in the quasi-experimental study (n
 - [No significant pre-test difference existed between the two groups' entry listening knowledge](no-pretest-listening-difference-groups.md) — related
 - [High and low CT groups showed comparable prior coding knowledge before the AICA intervention](comparable-prior-knowledge-high-low-ct.md) — related
 - [Model-estimated mixture weights show no detectable difference between control and experimental groups in Study 2](study2-mixture-weights-no-group-difference.md) — related
-- [Pretest LSAT scores did not differ reliably between seminar and control groups](seminar-pretest-no-reliable-difference.md) — related
+- Pretest LSAT scores did not differ reliably between seminar and control groups — related
 - [Metacognitive and affective chatbot feedback each produce higher retention scores than neutral feedback, with no significant difference between metacognitive and affective groups](chatbot-metacognitive-affective-feedback-boost-retention.md) — a narrower finding that bears on this claim
-- [Baseline equivalence across stimulation groups rules out prior memory-ability differences as an explanation for post-intervention effects](tacs-baseline-equivalence-pre-intervention-recall.md) — related
+- Baseline equivalence across stimulation groups rules out prior memory-ability differences as an explanation for post-intervention effects — related
 - [Interacting with Clair had no significant effect on secondary-school students' post-test knowledge acquisition](clair-no-effect-knowledge-acquisition.md) — related
 - [EMME-guided and unguided video groups did not differ significantly on post-test knowledge scores](emme-no-posttest-knowledge-difference.md) — related
 - [LinkedIn group community did not significantly affect teaching and learning perception, community, or skills development](linkedin-group-no-effect-other-dimensions.md) — related

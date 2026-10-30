@@ -50,5 +50,5 @@ Narrative review reporting correlational parent–child reminiscing studies, att
 
 ## Related Claims
 - [Intervention studies suggest elaborative style during reminiscing plays a causal role in children's language, narrative and theory-of-mind development](elaborative-reminiscing-interventions-causal-role.md) — related
-- [Utterance-level micro-coding of reminiscing reveals outcome relationships that global coding may obscure, varying by participant gender and event type](micro-coding-reveals-elaborative-style-complexity.md) — related
+- Utterance-level micro-coding of reminiscing reveals outcome relationships that global coding may obscure, varying by participant gender and event type — related
 - [Elaborative reminiscing delivered by non-parents benefits children, with strongest effects for low-SES and lower-ability children](non-parent-elaborative-reminiscing-low-ses-benefits.md) — related

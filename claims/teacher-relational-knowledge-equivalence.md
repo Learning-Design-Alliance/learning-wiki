@@ -45,6 +45,8 @@ Multilevel SEM (Model 1) with 108 teachers' classes nested across six countries 
 
 
 ## Related Claims
+
 - [The relation between teacher knowledge and equivalence understanding is not moderated by country](no-country-moderation-teacher-knowledge.md) — related
 - [Teachers' operational knowledge and non-traditional textbook practice format do not relate to students' equivalence understanding](operational-knowledge-textbooks-null.md) — reports the opposite
 - [Classrooms in China, South Korea and the US scored higher on overall equivalence than England; New Zealand lower; Turkey did not differ](country-differences-equivalence.md) — related
+- [The negative correlation between non-traditional textbook practice and equivalence understanding disappears in non-mandatory textbook countries](textbook-correlation-nonmandatory-null.md)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: michael-d-mrazek-2026
     resource: "https://doi.org/10.1007/s11423-026-10730-y"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r3` · `q2` · `i1` small
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i1` In Study 1, classroom focus increased from pre-test to post-test among the a priori 'room to grow' subset, SMD = 0.14. [→ Michael D. Mrazek 2026](#michael-d-mrazek-2026)

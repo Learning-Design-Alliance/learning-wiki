@@ -46,7 +46,7 @@ Cross-lagged panel models fitted to three waves of the Dutch COOL cohort study (
 
 ## Related Claims
 - [Cross-lagged panel models revealed robust support for four transactional models of teacher- and student-reported closeness and teacher-reported conflict and dependency](four-transactional-models-closeness-conflict-dependency.md) — a narrower finding that bears on this claim
-- [The choice of longitudinal statistical model can determine whether reciprocal motivation-achievement relations are found](statistical-model-choice-reciprocal-effects.md) — related
+- The choice of longitudinal statistical model can determine whether reciprocal motivation-achievement relations are found — related
 - [Teacher-child closeness shows concurrent benefits but no prospective spillover to other domains once conflict covariation is controlled](closeness-benefits-concurrent-not-prospective.md) — related
 - [Across basic and extended RI-CLPMs and CLPMs of five-wave secondary-school data, math self-concept and achievement show consistent reciprocal (bidirectional) directional ordering](rem-reciprocal-effects-ri-clpm-clpm-palma.md) — related
 - [Low self-regulation (inattention and impulsivity) at kindergarten entry predicts greater teacher-child conflict by kindergarten spring, and this effect persists into first grade](low-self-regulation-predicts-teacher-conflict-persisting.md) — related

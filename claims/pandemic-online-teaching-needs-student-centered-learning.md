@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: xiaoqing-gu-2021
     resource: "https://doi.org/10.1007/s11423-020-09896-w"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The pandemic-driven shift to full-scale online teaching and learning practice surfaced needs for student-centered learning. [→ Xiaoqing Gu 2021](#xiaoqing-gu-2021)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: mixed
 newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: aakriti-kumar-2022
     resource: "https://doi.org/10.1038/s41539-022-00142-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` For Lost in Migration, M4 gave the most accurate out-of-sample predictions overall; for Ebb and Flow, M3 and M4 were equivalently accurate. [→ Aakriti Kumar 2022](#aakriti-kumar-2022)

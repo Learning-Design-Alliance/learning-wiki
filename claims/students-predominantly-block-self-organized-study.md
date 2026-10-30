@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: erdem-onan-2024
     resource: "https://doi.org/10.1038/s41539-024-00245-7"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q3 i?` At the pre-intervention task, blocked trials (0.57) were more frequent than interleaved trials (0.43), and blocked use was significantly above the chance level of 1/6. [→ Erdem Onan 2024](#erdem-onan-2024)

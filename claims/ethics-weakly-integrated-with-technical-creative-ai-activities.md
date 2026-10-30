@@ -49,5 +49,5 @@ Off-diagonal co-occurrence analysis of AILEs across the 39 reviewed studies (Fig
 - Keyword co-occurrence analysis reveals an emerging practice-based ethical orientation, with reflective practice and reflexivity terms positioned close to core AI and ethics nodes — related
 - [Technical AI literacy elements dominate STEAM implementations: Fundamental AI Concepts (36 studies), Data Literacy (30) and Computational Thinking (29) far exceed Managing AI (6), Designing AI (8) and Creative Imagination (9)](technical-ailes-dominate-creative-managerial-underrepresented.md) — related
 - [Iterative coding of 27 AIL sources yields seven dimensions, with technical, application and critical-thinking dimensions most frequent and legal/regulatory knowledge rarest](ail-seven-dimensions-coding-frequencies.md) — related
-- [Technical reframings of AIED criticism fail to address the fundamental political questions](technical-fixes-miss-political-questions.md) — related
+- Technical reframings of AIED criticism fail to address the fundamental political questions — related
 - [Capacity building on AIED ethics covers 41% of studies, yet only four of 42 training studies assessed impact, and ethics training is largely absent](aied-ethics-capacity-building-gap.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: felicia-warden-andrew-a-tawfik-2026
     resource: "https://doi.org/10.1007/s11423-026-10670-7"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: local conditions change quickly
 
 ## Subclaims
 `q3 i?` Teachers (M = 2.30) rated Use of Space and Time significantly higher than school librarians (M = 1.64; p < .001), while administrator–teacher (p = .058) and administrator–librarian (p = .231) comparisons were not significant. [→ Felicia Warden · Andrew A. Tawfik 2026](#felicia-warden-andrew-a-tawfik-2026)

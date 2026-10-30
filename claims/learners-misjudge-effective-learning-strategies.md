@@ -170,5 +170,5 @@ A key boundary condition is that the misjudgment is strongest for judgments made
 - [Ineffective learning strategies show substantially higher habit strength than effective strategies in a proof-of-concept survey](ineffective-strategies-higher-habit-strength.md) — related
 - [There is currently no direct empirical connection established between teachers' learning about retrieval practice and their classroom implementation of it](no-empirical-link-scicomm-classroom-implementation.md) — related
 - [Students experience retrieval practice as more effortful than restudy, which leads to avoidance despite its long-term benefits](retrieval-practice-effort-avoidance.md) — related
-- [Individual learners' self-awareness and metacognition of spaced practice is a distinct focus within spacing research](metacognition-of-spaced-practice-learner-self-awareness.md) — related
+- Individual learners' self-awareness and metacognition of spaced practice is a distinct focus within spacing research — related
 - [A refutation-plus-metacognitive-prompt intervention significantly increases students' use of interleaved practice in self-organized study tasks, including after a delay](refutation-prompt-intervention-increases-self-organized-interleaving.md) — related

@@ -26,7 +26,8 @@ UNIPS is a Finnish national online platform developed collaboratively by eight u
 - [After the short online courses, fourteen respondents changed their interpretations of a content-focused teaching video](../claims/short-online-training-shifts-interpretations-content-focused-video.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [ASSET](asset.md)
 
 ## Key Sources
 - Henna Vilppu, Ilona Södervik, Liisa Postareff, Mari Murtonen. (2019). The effect of short online pedagogical training on university teachers’ interpretations of teaching–learning situations. Instructional Science. https://doi.org/10.1007/s11251-019-09496-z

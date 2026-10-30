@@ -47,6 +47,6 @@ Friedman tests with Bonferroni-corrected pairwise comparisons on nine attitude i
 ## Related Claims
 - [Composite credibility scores differ significantly between the AI frame and both the neuroscience and educational psychology frames](ai-frame-lower-composite-credibility.md) — related
 - [Regression models identify attitudes toward educational psychology's scientific adherence as the main predictor of credibility judgments](attitude-predictors-of-credibility.md) — related
-- [Educators judge AI-framed educational evidence as significantly less credible than educational-psychology-framed evidence](educators-ai-frame-less-credible.md) — related
+- Educators judge AI-framed educational evidence as significantly less credible than educational-psychology-framed evidence — related
 - [Framing educational research evidence within AI reduces its perceived credibility compared with neuroscience and educational psychology frames (the in-credible AI effect)](in-credible-ai-effect-reduced-credibility.md) — related
 - [Neuroscience framing shows no seductive allure effect when article length is equated](no-neuroscience-framing-effect-length-controlled.md) — related

@@ -17,7 +17,7 @@ sources:
 # Future research should improve definitions, operationalizations, and causal tests of authentic learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (2 review), `q2`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Building on its finding that the field lacks clear definitions and operationalizations, the review draws conclusions about how future research could strengthen the evidence base for authentic learning. It states: "we draw spe- cific conclusions about how future research could improve our understanding of how to create and implement powerful methods of authentic learning." Because the contrasting-cases ENA explicitly avoided causal conclusions, the review positions its results as a basis for formulating and testing causal claims in future research.
@@ -38,8 +38,6 @@ Building on its finding that the field lacks clear definitions and operationaliz
 
 ## Claims
 
-- [Previous research on authentic learning lacks clear definitions and operationalizations of authentic learning](../claims/authentic-learning-lacks-clear-definitions.md) [+W]
-- [Most RSE studies in the review corpus did not define their central term](../claims/rse-studies-lack-definitions.md) [+W]
 
 ## Related Strategies
 

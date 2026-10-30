@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: jiajing-li-2025
     resource: "https://doi.org/10.1038/s41539-025-00339-w"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Among five types of AI motivation, introjected regulation had the highest expected influence, making it the most pivotal factor connecting other motivational factors. [→ Jiajing Li 2025](#jiajing-li-2025)

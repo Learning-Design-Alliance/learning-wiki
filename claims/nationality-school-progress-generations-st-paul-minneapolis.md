@@ -64,5 +64,5 @@ The notice states the monograph shows the nationality factor's influence in rela
 
 
 ## Related Claims
-- [Objective evidence from observing children's book choices in four public libraries was interrelated with questionnaire results and book sales in the Jordan monograph](jordan-library-observation-corroborates-questionnaires.md) — related
+- Objective evidence from observing children's book choices in four public libraries was interrelated with questionnaire results and book sales in the Jordan monograph — related
 - [Young white students progress more slowly in math and reading than Asian, black, and Hispanic students, with differences attenuating at older ages](ethnic-differences-younger-student-gains.md) — related

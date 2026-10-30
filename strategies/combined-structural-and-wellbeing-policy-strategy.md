@@ -17,7 +17,7 @@ sources:
 # Combine structural policy levers with caregiver well-being and psychological-resource supports to enhance interaction quality
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Based on the meta-analytic findings, the review recommends that "Policies and interventions that both address structural conditions and support caregivers' well-being and psychological resources are most likely to enhance interaction quality and, ultimately, children's developmental outcomes." This dual approach targets the structural factors with significant associations (education, group size, ratio, salary) alongside the individual factors (mentalizing, mental well-being), rather than relying on either lever alone.
@@ -41,7 +41,6 @@ Based on the meta-analytic findings, the review recommends that "Policies and in
 
 ## Claims
 
-- [The evidence base on caregiver interactive skills is fragmented: 57% of identified factors were examined in only one study](../claims/fragmented-evidence-base-interactive-skills.md) [+W]
 - [Smaller group sizes and lower child-caregiver ratios are associated with higher interactive skills of individual caregivers](../claims/group-size-ratio-interactive-skills-negative-association.md) [+W]
 - [Caregiver mentalizing abilities and mental well-being are positively associated with interactive skills, with mentalizing sensitive to estimation method](../claims/mentalizing-wellbeing-interactive-skills.md) [+W]
 - [Work experience, tenure, perceived support, caregiver age, stability, child sex, and center size show no significant association with interactive skills](../claims/null-factors-interactive-skills.md) [+W]

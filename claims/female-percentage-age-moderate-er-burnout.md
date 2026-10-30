@@ -46,5 +46,5 @@ Meta-regressions on continuous moderators: female percentage significantly moder
 
 ## Related Claims
 - [Emotion regulation difficulties are positively associated with overall academic burnout in youth (pooled r = 0.25)](er-difficulties-positive-overall-burnout.md) — related
-- [Effect sizes were not moderated by publication year, age, or percentage of females, but were related to study quality; publication-bias tests gave mixed signals](meta-moderators-study-quality-publication-bias.md) — reports the opposite
+- Effect sizes were not moderated by publication year, age, or percentage of females, but were related to study quality; publication-bias tests gave mixed signals — reports the opposite
 - [Grade level significantly moderates the ER difficulties–burnout association, with larger effects at pre-university than university level](grade-level-moderates-er-difficulties-burnout.md) — related

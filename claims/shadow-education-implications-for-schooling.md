@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: duraiappah-2021
     resource: "https://doi.org/10.1038/s41539-021-00085-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Private supplementary tutoring (shadow education) has become increasingly significant in many societies, with causes and implications for formal schooling, the learning experience and social inequality that warrant assessment. [→ Duraiappah 2021](#duraiappah-2021)

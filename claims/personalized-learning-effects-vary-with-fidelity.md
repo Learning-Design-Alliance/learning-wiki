@@ -102,5 +102,5 @@ RAND matched students in NGLC schools implementing PL practices (adaptive softwa
 - [Qualitative evidence indicates the Kauffman School's hallmarks were implemented faithfully and stakeholders believed its methods positively influenced students' attitudes and performance](kauffman-school-qualitative-mechanisms-faithful-implementation.md) — related
 - [Personalization and differentiated instruction are rare in blended learning designs](personalization-limited-blended-designs.md) — related
 - [Technology-supported adaptive teaching units showed significant learning gains, larger for low-prior-knowledge students and high implementation fidelity](adaptive-teaching-units-learning-gains-moderated.md) — related
-- [Included reports are methodologically robust overall but weak on implementation fidelity, which was assessed in only about half of the programs](asp-reviews-fidelity-weakness.md) — related
+- Included reports are methodologically robust overall but weak on implementation fidelity, which was assessed in only about half of the programs — related
 - [Adult learners value personalized mastery-based learning in AI-powered curricula, while some caution it can reduce exposure to new or unexpected content](personalized-mastery-based-learning-adult-ai.md) — related

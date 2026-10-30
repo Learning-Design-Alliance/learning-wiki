@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 2013
+recheck_by: 2018
 sources:
   - id: greiff-2013
     title: Greiff 2013
@@ -22,7 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Performance on knowledge acquisition and knowledge application did not increase consistently across grades; Grade Level 9 performed worst on both dimensions, deviating from the expected monotonic development. [→ Greiff 2013](#greiff-2013)

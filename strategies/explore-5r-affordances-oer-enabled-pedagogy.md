@@ -17,7 +17,7 @@ sources:
 # Explore the 5R affordances combined with evidence-based teaching practices to develop OER-enabled pedagogies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 4 studies (3 review, 1 theoretical), `q1`–`q2` · 0 of 4 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 3 studies (3 review), `q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The article recommends that faculty, students, and instructional designers go beyond adopting cheaper textbooks: they should use OER together with evidence-based teaching and learning practices and explore "the implications of the 5R affordances in order to find novel, OER-enabled pedagogies" if they aim to radically improve student outcomes. The 5R activities are retain, reuse, revise, remix, and redistribute — the permissions open licensing grants on teaching, learning, and research materials.
@@ -39,7 +39,6 @@ The article recommends that faculty, students, and instructional designers go be
 
 ## Claims
 
-- [OER outcome studies that lack a hypothesized explanatory mechanism are license comparison studies prone to finding no significant differences](../claims/oer-license-comparison-studies-undertheorized.md) [~W]
 - [OER efficacy studies are frequently confounded by simultaneous changes in pedagogy or delivery method.](../claims/oer-adoption-confounded-with-pedagogy-change.md) [~W]
 - [Synthesized studies of OER in college courses found academic outcomes comparable to traditional textbooks and positive perceptions among students and instructors](../claims/oer-outcomes-comparable-perceptions-positive.md) [+M]
 - [Across 2002-2018, OER efficacy research consistently shows that OER does not harm student learning, with a small positive impact.](../claims/oer-does-not-harm-learning-aggregate.md) [+M]

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: williamson-2024
     resource: "https://doi.org/10.1007/s40593-023-00342-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The article argues Big Tech companies (Google, Microsoft, Amazon) are hyperscaling into education, and that their business model tends towards monopoly capture as a route to future revenue streams. [→ Williamson 2024](#williamson-2024)

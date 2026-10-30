@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: rosa-cheesman-2022
     resource: "https://doi.org/10.1038/s41539-022-00145-8"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q3`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Residential area main effects on achievement are small: ~1% variance for municipalities, ~1% for neighbourhoods, <1% for districts. [→ Rosa Cheesman 2022](#rosa-cheesman-2022)

@@ -17,7 +17,7 @@ sources:
 # Legal-writing case study corpus: over 16,000 documents yielding a knowledge graph of over 55 million RDF triplets
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The case study applied YAI4Edu to 22 pages excerpted from the textbook "United States Legal Language and Culture" (Brostoff & Sinsheimer, 2013), 5,407 open access web pages from the Legal Information Institute encyclopedia and Wikipedia, and 11,198 legal cases on PTSD disability claims from the Board of Veterans' Appeals. Altogether 16,606 documents yielded 1,309,463 extracted questions and a knowledge graph whose total size was 55,046,923 RDF triplets (Table 1). The material supports teaching how to write a legal memorandum for a veteran's PTSD disability claim.
@@ -37,7 +37,8 @@ The case study applied YAI4Edu to 22 pages excerpted from the textbook "United S
 - Writing legal memoranda, using statutes, reading and synthesizing cases, and making arguments with concrete cases
 
 ### Claims
-- 
+
+- [Special-issue evidence: a knowledge-graph-enriched legal-writing textbook led to better learning outcomes than baselines, and aggregated emoji annotations helped teachers identify challenging text](../claims/special-issue-textbook-enhancements-outcomes.md) [+W]
 
 ## Related Designs
 - Yai4Edu Explanatory Textbook Pipeline

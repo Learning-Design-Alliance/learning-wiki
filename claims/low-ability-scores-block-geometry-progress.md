@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1925
+recheck_by: 1930
 sources:
   - id: minnick-1925
     resource: "https://eric.ed.gov/?q=Certain+Abilities+Fundamental+to+the+Study+of+Geometry"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1925 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1925 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1930**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` If the abilities tested are essential to success in geometry, the extremely low scores in some schools indicate progress there is almost impossible until the abilities are further developed, while other schools' achievement shows fair development is possible during the first two books. [→ Minnick 1925](#minnick-1925)

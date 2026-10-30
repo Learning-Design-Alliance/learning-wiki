@@ -45,13 +45,13 @@ Reanalysis of simulated data matching the TRAIN study (N = 3757, four annual wav
 
 
 ## Related Claims
-- [Good fit of the ESDM indicates the PALMA data could have been generated without any prospective effects between achievement and self-concept](esdm-fit-suggests-spurious-prospective-effects.md) — related
+- Good fit of the ESDM indicates the PALMA data could have been generated without any prospective effects between achievement and self-concept — related
 - [LCSM on the same simulated PALMA-like data shows negative cross-lagged effects, contradicting the reciprocal effects model](lcsm-simulated-palma-negative-effects.md) — related
 - [RI-CLPM on simulated PALMA-like data shows positive reciprocal cross-lagged effects between within-individual math achievement and self-concept](riclpm-simulated-palma-positive-reciprocal-effects.md) — related
 - [The RI-CCLPM-C indicates a positive self-concept effect on achievement even when data are generated without any direct effects between self-concept and achievement](ri-cclpm-c-positive-effect-without-causal-datagenerating-process.md) — related
 - [Time-reversed analysis of simulated data suggests a decreasing rather than increasing effect of self-concept on achievement, yielding inconsistent conclusions from the same data](time-reversed-model-suggests-decreasing-self-concept-effect.md) — related
 - [Reanalyses of simulated and PALMA data provide converging support for the extended reciprocal effects model, including an effect of academic self-concept on achievement](reanalyses-converging-support-extended-rem-asc-effect.md) — reports the opposite
 - [Simulated time-on-task achievement correlations resemble empirical distributions from K-12 classroom studies without any fitting procedure](comsa-time-on-task-matches-empirical.md) — related
-- [Correcting the wave-1 change-score misspecification in Sorjonen et al.'s LCSM yields a proper solution with positive effects between academic self-concept and achievement](corrected-lcsm-proper-solution-positive-asc-ach-effects.md) — related
+- Correcting the wave-1 change-score misspecification in Sorjonen et al.'s LCSM yields a proper solution with positive effects between academic self-concept and achievement — related
 - [Sorjonen et al.'s (2023) simulation lacked a temporal structure and therefore cannot justify replacing autoregressive effects with covariances in the LCSM](simulation-2023-lacked-temporal-structure-invalid-for-lcsm-justification.md) — related
 - [Differences between English and American standards lead to widely divergent conclusions from the same data](english-american-standards-divergent-conclusions.md) — a broader claim this one bears on

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: jason-zagami-2026
     resource: "https://doi.org/10.1007/s11423-026-10746-4"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` GPT responses occasionally contained minor errors in curriculum detail or terminology, and students required prompting to verify against authoritative sources. [→ Jason Zagami 2026](#jason-zagami-2026)

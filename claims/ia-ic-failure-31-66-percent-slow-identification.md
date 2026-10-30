@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: fabian-santiago-muñoz-2025
     resource: "https://doi.org/10.1007/s40593-025-00502-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Academic failure (dropout plus fail) ranged between 31% and 66% across the two subjects and years, and case identification took 4–6 weeks from course start. [→ Fabian Santiago-Muñoz 2025](#fabian-santiago-munoz-2025)

@@ -48,7 +48,7 @@ The review reports this finding from Bakkenes et al. (2010), a mixed-methods stu
 - [Achievement Emotions](../learner-variables/achievement-emotions.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Interviews are the predominant method for assessing teacher emotions in PD research](interviews-predominant-emotion-assessment-pd.md) — related
+- Interviews are the predominant method for assessing teacher emotions in PD research — related
 - [Elaborated discussion of narrated emotions supports teacher professional learning](elaborated-discussion-of-narrated-emotions-supports-teacher-learning.md) — related
 - [Negative emotions sometimes promoted implementation of novel practices in PD](negative-emotions-promote-implementation.md) — related
 - [Emotional rules in workplaces can stifle veteran mathematics teachers' epistemic and relational agency and thus their ability to learn](emotional-rules-stifle-teacher-agency.md) — related

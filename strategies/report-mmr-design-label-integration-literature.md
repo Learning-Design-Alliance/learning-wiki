@@ -17,7 +17,7 @@ sources:
 # Report mixed methods rigor by labeling the design, describing both strands and their integration, and citing mixed methods literature
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Based on the review's identified weaknesses, authors of mixed methods articles should explicitly label their design type, describe the quantitative and qualitative strands and how they are integrated, provide a rationale for using mixed methods, and reference mixed methods literature. The review notes that "Integration, a defining feature of MMR, is one of the most challenging activities involved in conducting and reporting MMR", and that word-count limits make transparent reporting of integration and methods difficult, so authors must decide what detail to report within limited space.
@@ -39,8 +39,6 @@ Based on the review's identified weaknesses, authors of mixed methods articles s
 
 ## Claims
 
-- [Reporting quality was highest for data collection (84.2% high ratings) and data analysis (80.7%), and lowest for mixed methods study design (47.4%), aims and purposes (52.6%), and elements of writing (54.4%)](../claims/reporting-quality-varies-by-rigor-element.md) [+W]
-- [Among the 57 mixed methods articles, explanatory sequential designs were most common (52.6%), followed by convergent (40.4%) and exploratory sequential (7.0%) designs](../claims/design-type-distribution-explanatory-dominant.md) [+W]
 
 ## Related Strategies
 - 

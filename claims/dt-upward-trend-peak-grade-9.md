@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: said-metwaly-2019
     resource: "https://scholar.google.com/scholar?q=Does+the+Fourth-Grade+Slump+in+Creativity+Actually+Exist"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Meta-analytic three-level modeling of 2,139 standardized means shows DT significantly higher at each successive grade level, peaking in Grade 9, with significant drops in Grades 7, 10, and 11. [→ Said-Metwaly 2019](#said-metwaly-2019)

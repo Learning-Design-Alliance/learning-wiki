@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: strong
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: wartenberg-2023
     resource: "https://doi.org/10.1007/s10648-023-09831-4"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q3 i3` Across 61 studies, teachers' job satisfaction correlates negatively with turnover intentions (r = −0.46). [→ Wartenberg 2023](#wartenberg-2023)
@@ -47,7 +48,7 @@ Random-effects meta-analysis of 61 studies (N = 41,622 teachers) pooling correla
 ## Related Claims
 - [Satisfaction with the nature of work, colleagues, and context factors each correlate moderately with turnover intentions (r = −0.32 to −0.36)](job-satisfaction-facets-turnover-intentions.md) — related
 - [Teachers' job satisfaction is negatively associated with absenteeism (pooled r = −0.18)](job-satisfaction-negative-absenteeism.md) — related
-- [Publication year, publication type, and grade level moderate the strength of job satisfaction–performance associations](moderators-of-job-satisfaction-effect-sizes.md) — related
+- Publication year, publication type, and grade level moderate the strength of job satisfaction–performance associations — related
 - [Minority teachers who depart rarely cite retirement; dissatisfaction, pursuit of better jobs, and personal reasons dominate their reported turnover reasons](minority-teacher-departure-reasons-self-report.md) — related
 - [Teachers' job satisfaction is positively associated with the quality of teacher-student interactions, with the largest pooled correlation for general interactions (r = 0.28)](job-satisfaction-positive-teacher-student-interactions.md) — related
 - [A majority of surveyed teachers (61%) reported that participating in the Verizon Innovative Learning Schools program improved their job satisfaction](vils-teachers-61-percent-improved-job-satisfaction.md) — related

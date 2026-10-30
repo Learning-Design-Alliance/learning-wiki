@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: weak
 newest_evidence: 1914
+recheck_by: 1917
 sources:
   - id: winch-1914
     resource: "https://books.google.com/books?q=%22When+Should+a+Child+Begin+School%22"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q2`
-> **Currency** · newest study 1914 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1914 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1917**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The monograph's method of measuring school progress weighted for age is not usable for testing the value of preliminary kindergarten teaching in the large cities of the States. [→ Winch 1914](#winch-1914)

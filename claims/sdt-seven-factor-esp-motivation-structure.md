@@ -69,4 +69,4 @@ Reliability analysis of the seven subscales in the same 558-participant survey; 
 - [Introjected regulation was low among Chinese ESP learners except for an identity-maintenance item](low-introjected-regulation-esp-learners.md) — a narrower finding that bears on this claim
 - [Chinese ESP learners in this sample were motivated in a mixed manner, and 'certificate motivation' was not supported](mixed-motivation-certificate-not-supported.md) — related
 - [Children with ADHD show higher external regulation, introjected regulation and amotivation, and lower intrinsic motivation and identified regulation, toward learning than TD children](adhd-motivation-profile-sdt-dimensions.md) — related
-- [Motivation and learning-strategy scales cluster into three factors: High-Level Learning Strategies, High-Level Motivation, and Low-Level Learning Strategies and Motivation](three-motivation-strategy-factors.md) — related
+- Motivation and learning-strategy scales cluster into three factors: High-Level Learning Strategies, High-Level Motivation, and Low-Level Learning Strategies and Motivation — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 2013
+recheck_by: 2016
 sources:
   - id: greiff-2013
     title: Greiff 2013
@@ -22,7 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3` · `i3` large
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i3` A two-dimensional CPS model (knowledge acquisition and knowledge application) fits significantly better than a one-dimensional model, with the two dimensions substantially but not perfectly correlated (latent r = .74). [→ Greiff 2013](#greiff-2013)

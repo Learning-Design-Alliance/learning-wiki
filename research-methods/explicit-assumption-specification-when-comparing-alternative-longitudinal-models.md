@@ -12,7 +12,7 @@ generated:
 # Explicit assumption specification when comparing alternative longitudinal models
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 This principle holds that debates over alternative longitudinal models should distinguish defensible modeling choices from specification errors that depart from SEM logic. The authors argue that "what appeared to be contradictory results from alternative models ... are better understood as consequences of specification issues that, once resolved, yield results consistent with the REM". Explicit assumptions ensure interpretability of reciprocal-effect estimates.
@@ -22,7 +22,6 @@ This principle holds that debates over alternative longitudinal models should di
 - **Make modeling assumptions fully explicit when comparing alternative longitudinal models, so differences reflect substantive mechanisms rather than specification issues**: This principle holds that debates over alternative longitudinal models should distinguish defensible modeling choices from specification errors that depart from SEM logic. The authors argue that "what appeared to be contradictory results from alternative models ... are better understood as consequences of specification issues that, once resolved, yield results consistent with the REM". Explicit assumptions ensure interpretability of reciprocal-effect estimates. (Núñez-Regueiro et al. (2026))
 
 ### Claims
-- [Correcting the wave-1 change-score misspecification in Sorjonen et al.'s LCSM yields a proper solution with positive effects between academic self-concept and achievement](../claims/corrected-lcsm-proper-solution-positive-asc-ach-effects.md) [+M]
 - [Starting contemporaneous effects on wave 2 in the STARTS model yields positive contemporaneous effects of achievement on academic self-concept and positive lagged effects of self-concept on achievement](../claims/corrected-starts-positive-contemporaneous-and-lagged-effects.md) [+M]
 - [The ESDM's unidirectional trait-ACH-to-trait-ASC path is not empirically identified, and the confounder-based RI-LTVC alternative shows poor fit with no support for a time-varying confounder](../claims/esdm-directional-path-not-identified-ri-ltvc-no-support.md) [+M]
 

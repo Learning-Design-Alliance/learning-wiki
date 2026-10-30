@@ -10,6 +10,7 @@ generated:
 evidence_strength: moderate
 newest_evidence: 2024
 source_checked: 2026-10-26
+recheck_by: 2029
 sources:
   - id: pedraza-2024
     resource: "https://doi.org/10.1038/s41539-024-00243-9"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2024 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q3 i?` In both studies, reaction times were faster for high-probability than low-probability triplets, indicating implicit SL, and RTs decreased across blocks, indicating general skill learning. [→ Pedraza 2024](#pedraza-2024)

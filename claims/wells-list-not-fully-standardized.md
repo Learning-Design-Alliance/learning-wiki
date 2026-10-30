@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1911
+recheck_by: 1914
 sources:
   - id: irving-king-and-hugo-gold-1911
     resource: "https://eric.ed.gov/?q=A+Tentative+Standardization+of+Certain+Opposites+Tests"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
-> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1914**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Thirteen of Wells' stimulus words occurred in the authors' lists, and responses to sick, open, and glad were far less uniform than to the other ten words. [→ Irving King and Hugo Gold 1911](#irving-king-and-hugo-gold-1911)

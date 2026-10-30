@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1915
+recheck_by: 1920
 sources:
   - id: g-m-w-1915
     resource: "https://worldcat.org/search?q=Journal+of+Educational+Psychology+Volume+VI+1915"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
-> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1920**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Normal sense organs already discriminate more finely than needed: the ear detects pitch differences smaller than the smallest musical interval, the skin discriminates a fraction of a degree Fahrenheit, and the eye detects a brightness difference of one one-hundredth. [→ G. M. W 1915](#g-m-w-1915)

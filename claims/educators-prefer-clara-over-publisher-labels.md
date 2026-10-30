@@ -51,4 +51,4 @@ Analysis of disagreement cases (Table 9) using 30 randomly sampled stories evalu
 - [CLARA achieves the highest agreement with blinded human developmental ranking judgments compared with readability and prompting baselines](clara-highest-human-ranking-agreement.md) — related
 - [CLARA's gains come from the interaction of structured representation, constrained annotation, and aggregation, not prompt engineering alone](clara-contribution-decomposition.md) — related
 - [Students who experienced annotation subjectivity firsthand most frequently requested ways to reduce disagreement, indicating they had not internalised disagreement as meaningful signal](students-request-eliminating-disagreement.md) — related
-- [The evaluation was a blind, two-condition study in which 30 informatics students ran the Bio-safety Lab scenario both with and without the Narrative Manager across three stages](blind-crossover-biosafety-evaluation-design.md) — related
+- The evaluation was a blind, two-condition study in which 30 informatics students ran the Bio-safety Lab scenario both with and without the Narrative Manager across three stages — related

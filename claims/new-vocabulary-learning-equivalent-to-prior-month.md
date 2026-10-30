@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2015
+recheck_by: 2020
 sources:
   - id: mei-si-2015
     resource: "https://doi.org/10.1007/s40593-014-0035-7"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` New-word learning during the evaluation period was roughly equivalent to the average of the past months, so the main gains were in recall and engagement rather than new vocabulary. [→ Mei Si 2015](#mei-si-2015)

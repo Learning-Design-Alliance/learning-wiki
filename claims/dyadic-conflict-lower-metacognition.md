@@ -54,4 +54,4 @@ Two cross-sectional studies in grades 3-6 (Huang 2010; Zee & de Bree 2017; mean 
 - [Classroom-level instructional support, organization, and emotional support are each positively associated with upper elementary students' metacognitive strategy use](classroom-interaction-domains-positive-metacognition.md) — related
 - [Dyadic teacher-student closeness is consistently positively associated with elementary students' regulation of motivation](dyad-closeness-consistent-motivation.md) — related
 - [Low self-regulation (inattention and impulsivity) at kindergarten entry predicts greater teacher-child conflict by kindergarten spring, and this effect persists into first grade](low-self-regulation-predicts-teacher-conflict-persisting.md) — related
-- [Adolescent motivation research relies almost exclusively on student self-report of relationships, with dyadic and non-dyadic configurations both common](tsr-adolescent-student-self-report-dominant.md) — related
+- Adolescent motivation research relies almost exclusively on student self-report of relationships, with dyadic and non-dyadic configurations both common — related

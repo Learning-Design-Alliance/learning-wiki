@@ -48,4 +48,4 @@ Review reports Suzuki et al.'s study on predicting which stimulus another person
 - [Mentalizing-network regions (TPJ, STS, dmPFC, MTG) signal social prediction errors beyond ToM tasks](mentalizing-network-social-prediction-error.md) — related
 - [Brain responds similarly to prediction errors for human and slot-machine partners' generosity](prediction-errors-human-slot-machine-partners-continuum.md) — related
 - [Striatum computes other-referenced prediction errors in social and economic games, including without added payoff](striatum-other-referenced-prediction-errors-economic-games.md) — related
-- [Anterior cingulate gyrus specializes in other-referenced social valuation and prediction errors, dissociable from the sulcus](accg-other-referenced-prediction-error-dissociation.md) — related
+- Anterior cingulate gyrus specializes in other-referenced social valuation and prediction errors, dissociable from the sulcus — related

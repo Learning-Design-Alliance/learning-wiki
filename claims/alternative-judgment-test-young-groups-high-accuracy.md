@@ -47,4 +47,4 @@ Individual testing of the alternative judgment test across sixth- to thirteenth-
 ## Related Claims
 - [Generating a good question for a topic strongly predicts answering the matching test item correctly](good-question-predicts-matching-item-correct.md) — related
 - [Pre-monitoring and retrospective confidence judgments are highly consistent, with most agreement at the highest scale level regardless of correctness](pre-monitoring-confidence-judgment-consistency.md) — related
-- [The study's conclusions rest on only sixty-five individually tested unretarded cases, limiting generalization](conclusions-rest-on-sixty-five-individual-cases.md) — related
+- The study's conclusions rest on only sixty-five individually tested unretarded cases, limiting generalization — related

@@ -45,7 +45,7 @@ The review reports, from four student-focused primary studies it synthesises, im
 
 
 ## Related Claims
-- [The IBL framework was the most widely applied theoretical foundation (28 studies), with Knowledge Building principles second (ten studies)](ibl-framework-most-applied-theoretical-foundation.md) — related
+- The IBL framework was the most widely applied theoretical foundation (28 studies), with Knowledge Building principles second (ten studies) — related
 - [Five reviewed studies reported positive teacher-related impacts of LA support, including enhanced inquiry activity design, improved classroom practice, and increased teacher acceptance of LA tools](la-support-improves-teacher-design-and-orchestration.md) — related
-- [Only 18 of the 51 reviewed studies explored the practical application of LA-supported IBL in pedagogical settings](only-18-of-51-studies-tested-la-supported-ibl.md) — related
+- Only 18 of the 51 reviewed studies explored the practical application of LA-supported IBL in pedagogical settings — related
 - [Nine reviewed studies reported LA as reflective tools enhancing knowledge-building outcomes such as individual idea development and collective knowledge advancement](la-reflective-tools-improve-knowledge-building-outcomes.md) — related

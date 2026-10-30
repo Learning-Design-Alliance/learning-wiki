@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: hehl-2026
     resource: "https://doi.org/10.1038/s41539-026-00451-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: local conditions change quickly
 
 ## Subclaims
 `q2 i?` An exploratory voxel-wise SPM12 analysis revealed decreased SV2A tracer binding in the left temporal pole and several regions associated with learning progress. [→ Hehl 2026](#hehl-2026)

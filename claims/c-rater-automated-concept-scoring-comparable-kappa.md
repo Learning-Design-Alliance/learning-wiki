@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2015
+recheck_by: 2018
 sources:
   - id: steven-burrows-2015
     resource: "https://doi.org/10.1007/s40593-014-0026-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Automatically built c-rater models produced unweighted kappa values comparable to manually built models for 11/12 scenarios, with the remaining scenario having the highest concept count. [→ Steven Burrows 2015](#steven-burrows-2015)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: shero-2021
     resource: "https://doi.org/10.1038/s41539-021-00090-y"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` At the tenth-percentile learning disability cutoff, progress monitoring at its most effective (r = 0.70) yields a positive predictive value of 34.5% and a negative predictive value of 96.1%. [→ Shero 2021](#shero-2021)

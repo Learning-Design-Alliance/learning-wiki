@@ -45,6 +45,10 @@ The review's search for instruments on practical knowledge of autism-specific pr
 
 
 ## Related Claims
+
 - A systematic review identified 52 instruments assessing teachers' competence for inclusive teaching of autistic children, with 28 assessing knowledge, 26 beliefs, and 11 motivation — related
 - The most frequently adapted instruments predate the DSM-5, including Stone's 1987 Autism Knowledge Survey (adapted six times) and Olley et al.'s 1981 attitude scale — related
 - No instruments were found measuring teachers' self-regulation in relation to inclusive teaching of autistic children, a gap the review flags for future research — related
+- [Reviews of teachers' beliefs about autistic children reach contradictory conclusions, with one finding neutral-to-negative attitudes and others finding positive attitudes accompanied by major concerns](contradictory-review-findings-teacher-attitudes-autistic-children.md)
+- [Instruments show great heterogeneity in measurement quality, with validity or reliability information lacking in many cases](heterogeneous-measurement-quality-teacher-competence-instruments.md)
+- [Instruments show conceptual inconsistency: the same terms label different competence aspects, and disciplinary origin does not significantly correlate with definition or terminology choice](inconsistent-terminology-competence-aspects-autism-instruments.md)

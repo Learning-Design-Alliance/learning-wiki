@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: stockinger-2025
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102089"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In a German university sample, CFA and ESEM showed good fit and disattenuated correlations indicated the 18 RAEQ scales assess separable constructs, supporting emotion-specific assessment. [→ Stockinger 2025](#stockinger-2025)
@@ -49,4 +50,4 @@ Cross-sectional survey (Study 1, 350 German university students) using CFA, ESEM
 - [Strategy interrelations: expression and suppression are negatively related, while social support seeking and expression are positively related across emotions](expression-suppression-negative-support-expression-positive.md) — related
 - [Exploratory structural equation modeling (ESEM) differentiates victimization components better than traditional CFA, which positively biases factor correlations](esem-better-differentiates-victimization-components.md) — a broader claim this one bears on
 - [Academic emotions show weak between-domain relations: the same emotion in different school subjects is only weakly correlated, even for similar domains](academic-emotions-weak-between-domain-relations.md) — related
-- [Bifactor-ESEM shows the highest fit among CFA, ESEM, bifactor-CFA and bifactor-ESEM models, supporting AITAQS as one general factor plus four specific dimensions.](aitaqs-bifactor-esem-best-fit.md) — related
+- Bifactor-ESEM shows the highest fit among CFA, ESEM, bifactor-CFA and bifactor-ESEM models, supporting AITAQS as one general factor plus four specific dimensions. — related

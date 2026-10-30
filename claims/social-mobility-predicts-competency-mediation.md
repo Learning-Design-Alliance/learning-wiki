@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: hofer-2024
     resource: "https://doi.org/10.1038/s41539-023-00211-9"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q3 i?` The social mobility index significantly predicts the a-path (b = 0.045), b-path (b = 5.647), and indirect effect (b = 1.952) via self-perceived competency, all stronger in higher-social-mobility countries. [→ Hofer 2024](#hofer-2024)

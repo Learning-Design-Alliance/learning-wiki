@@ -54,6 +54,6 @@ A single fictional network scenario with printed centrality values (Table 1): no
 - [Diffusion-based centralities elucidate information exchange and uptake in large-scale collaboration, validated against achievement and qualitative analysis, according to the editors' account of Saqr and López-Pernas's study](diffusion-centralities-role-taking-cscl.md) — a broader claim this one bears on
 - [Expert scientists fulfilled a crucial role in generating scientific discussion, with one expert holding the highest degree centrality in the scientific network](expert-scientists-drive-scientific-discussion.md) — related
 - Co-citation analysis identified eight seminal CSCL works with little overlap with an earlier corpus study, possibly over-generalizing to a European sub-network — related
-- [Citation network analysis shows limited integration: very low density and 38.90% isolated nodes among same-prompt-type studies](citation-network-low-density-isolated-nodes.md) — related
-- [A citation analysis of 276 articles citing the DEGREE 2000 paper identifies six groups of aspects the community referred to, sampled from 53 articles](citation-analysis-276-articles-six-groups-degree.md) — related
+- Citation network analysis shows limited integration: very low density and 38.90% isolated nodes among same-prompt-type studies — related
+- A citation analysis of 276 articles citing the DEGREE 2000 paper identifies six groups of aspects the community referred to, sampled from 53 articles — related
 - [Focal node analysis showed advanced learners' central concepts converged with experts' after the game, while novices' remained divergent](focal-nodes-convergence-advanced-learners.md) — related

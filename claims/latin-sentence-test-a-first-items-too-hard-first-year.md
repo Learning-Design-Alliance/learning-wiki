@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1917
+recheck_by: 1922
 sources:
   - id: henmon-1917
     resource: "https://eric.ed.gov/?q=Henmon+Measurement+of+Ability+in+Latin+Sentence+Tests"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1922**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` On Test A, the first sentence was correctly translated by 97 per cent of first-year pupils, the second by 52 per cent, and the third by 50 per cent, with the remainder below 50 per cent. [→ Henmon 1917](#henmon-1917)

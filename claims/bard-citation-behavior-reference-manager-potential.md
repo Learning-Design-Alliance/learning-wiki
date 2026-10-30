@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: cadiente-2024
     resource: "https://doi.org/10.21203/rs.3.rs-4560463/v1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Bard, despite scoring worst, responded to queries with references justifying its responses, among which it cited the 2021 AAMC SJT practice exam booklet. [→ Cadiente 2024](#cadiente-2024)

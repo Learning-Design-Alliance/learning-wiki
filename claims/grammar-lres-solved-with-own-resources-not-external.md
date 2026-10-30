@@ -71,4 +71,4 @@ Comparing the study's strategy classification with Cumming (1989) and Swain and 
 - [Hyper-reference dictionary users consulted vocabulary twice as often as paper-dictionary users, though comprehension did not differ significantly](hyper-reference-consultation-frequency-no-comprehension-gain.md) — related
 - [Syntactical noticing focuses mainly on sentence length and ways of connecting clauses](syntactical-noticing-sentence-length-connecting-clauses.md) — related
 - [No differential effect of explicit instruction depending on the variable morphology/syntax](no-differential-explicit-instruction-effect-morphology-syntax.md) — related
-- [Whether conceptual discrepancies are noticed (or not) and how they are resolved can be traced through concurrent think-aloud protocols and retrospective interviews](think-aloud-and-retrospective-reports-trace-discrepancy-processing.md) — related
+- Whether conceptual discrepancies are noticed (or not) and how they are resolved can be traced through concurrent think-aloud protocols and retrospective interviews — related

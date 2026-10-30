@@ -55,4 +55,4 @@ Study 1 latent correlations with achievement outcomes (math test score and inver
 - [Enjoyment correlates positively (r = .31), and boredom, mathematics anxiety and test anxiety negatively (r = −.23 to −.28), with mathematics achievement](achievement-emotions-and-anxiety-correlate-with-math-achievement.md) — related
 - [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) — a broader claim this one bears on
 - [A single boredom item correlated strongly with the full TBS-S scale in both the easy and difficult test parts](single-item-boredom-part-whole-correlations.md) — related
-- [Residual covariances were specified between specific item pairs in the Study 1 measurement-invariance test of the TBS-S across difficult and easy test parts](tbs-s-residual-covariances-invariance.md) — related
+- Residual covariances were specified between specific item pairs in the Study 1 measurement-invariance test of the TBS-S across difficult and easy test parts — related

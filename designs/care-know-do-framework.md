@@ -17,7 +17,7 @@ sources:
 # CARE-KNOW-DO framework for open schooling
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The CARE-KNOW-DO framework integrates real-life problems into learning through a structured three-phase approach: students "engage (CARE) with signicant issues, understand (KNOW) them through curriculum-based knowledge, and take action (DO) through their insights into sustainable solutions". CARE fosters emotional intelligence and ethical understanding, KNOW develops critical thinking and problem-solving, and DO translates empathy and knowledge into practical action. The framework underpins the study's AI-based open schooling activities and its self-report instrument.
@@ -37,7 +37,6 @@ The CARE-KNOW-DO framework integrates real-life problems into learning through a
 - Transversal skills including critical thinking, problem solving, collaboration, and emotional intelligence
 
 ### Claims
-- [Seven Transversal Skill Components Efa](../claims/seven-transversal-skill-components-efa.md) [+M]
 
 ## Related Designs
 - 

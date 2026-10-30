@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 1918
+recheck_by: 1921
 sources:
   - id: mitchell-1918
     resource: "https://www.google.com/search?q=%22Variability+in+Memory+Span%22+Mitchell+1918"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1921**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Of 192 fifth-grade children tested on two days separated by five weeks, 68 had the same Consecutive Series score, 100 differed by one, and 20 differed by two. [→ Mitchell 1918](#mitchell-1918)

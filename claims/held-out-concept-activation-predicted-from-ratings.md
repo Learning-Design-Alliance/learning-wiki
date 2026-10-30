@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: robert-a-mason-2021
     resource: "https://doi.org/10.1038/s41539-021-00107-6"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` A regression model mapping ratings of 44 concepts to activation in 30 factor-related clusters predicted the left-out 45th concept's activation with mean R2 of 0.82 and mean normalized rank classification accuracy of 0.70 (p < 0.001 by permutation test). [→ Robert A. Mason 2021](#robert-a-mason-2021)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: joost-c-f-de-winter-2024
     resource: "https://doi.org/10.1007/s40593-023-00372-z"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Over 50 repetitions per exam at temperature 1.0, GPT-4-0314 was inconsistent on 23 of 124 questions (43% of them incorrect) and GPT-4-0613 on 25 (56% incorrect), while only 4 of the consistent responses of each version were incorrect. [→ Joost C. F. de Winter 2024](#joost-c-f-de-winter-2024)

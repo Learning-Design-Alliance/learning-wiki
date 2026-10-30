@@ -45,5 +45,5 @@ Head length and breadth were taken with callipers and the cephalic index compute
 
 
 ## Related Claims
-- [Regular physical measurements of two brothers were taken from birth for six years four months and three years four months](longitudinal-physical-measurements-two-brothers-case-study.md) — related
+- Regular physical measurements of two brothers were taken from birth for six years four months and three years four months — related
 - [The reviewer reports that Baldwin's repeated examinations show the IQ is fairly constant though subject to fluctuations, and that repeated examinations exhibit a definite practice effect](iq-fairly-constant-with-fluctuations-and-practice-effect.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1912
+recheck_by: 1917
 sources:
   - id: e-a-doll-1912
     resource: "https://www.jstor.org"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
-> **Currency** · newest study 1912 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1912 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1917**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Some feeble-minded children develop nearly normally up to a point and then suddenly cease to increase in mental ability, while others develop under a constant but slight retardation at each year. [→ E. A. Doll 1912](#e-a-doll-1912)

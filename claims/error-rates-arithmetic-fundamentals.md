@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 1916
+recheck_by: 1921
 sources:
   - id: phillips-1916
     resource: "https://doi.org/10.1037/h0072031"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 1916 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1916 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1921**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` The rate of errors is lowest in addition and highest in multiplication; first-minute error rates are slightly lower than later minutes. [→ Phillips 1916](#phillips-1916)

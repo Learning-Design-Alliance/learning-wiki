@@ -50,10 +50,10 @@ Author's enumeration in the abstract; element (b) frames interpersonal relations
 - [Social Supports](../learner-variables/social-supports.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [The commentary identifies challenges of integrating central motivational constructs](challenges-integrating-central-motivational-constructs.md) — related
+- The commentary identifies challenges of integrating central motivational constructs — related
 - [School or cultural contexts are framed as sustaining student motivation](school-cultural-contexts-sustain-motivation.md) — related
 - [Students enact agency toward groups by fostering relational awareness, building interpersonal relationships, holding dialogue, and seeing from other perspectives](agency-toward-groups-actions.md) — related
 - [A descriptive report defines peer assisted learning and asserts, without a tested result, that it promotes knowledge construction, collaboration ability and interpersonal interaction](peer-assisted-learning-improves-learning-outcomes.md) — related
 - [Four factors explain students' sense of belonging in STEM, with interpersonal relationships the most commonly cited](four-factors-interpersonal-relationships-competence-interest-identity-explain-belonging.md) — related
-- [Teacher–student relationships and teacher support are used interchangeably in adolescent motivation research, in both terminology and measurement](tsr-and-teacher-support-used-interchangeably.md) — related
+- Teacher–student relationships and teacher support are used interchangeably in adolescent motivation research, in both terminology and measurement — related
 - [The belonging–outcome association is stronger in some cultural groups than others: reported moderation by ethnicity and by individualism–collectivism](structure-oriented-moderation-belonging-outcomes.md) — related

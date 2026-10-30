@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 1917
+recheck_by: 1922
 sources:
   - id: pintner-1917
     resource: "https://doi.org/10.1037/h0075825"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1922**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In 82 state charity dependent children tested with the Binet or Yerkes-Bridges scales, even the conservative Three Per Cent. Hypothesis diagnosis gave 19.5% feeble-minded and only 36.6% normal. [→ Pintner 1917](#pintner-1917)

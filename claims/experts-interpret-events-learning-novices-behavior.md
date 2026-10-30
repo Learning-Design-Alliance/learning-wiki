@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: moderate
 newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: charlotte-e-wolff-2020
     resource: "https://doi.org/10.1007/s10648-020-09542-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Expert teachers assign deeper meaning to classroom events and focus on learning quality, whereas novices describe events in detail with little deeper analysis and attribute problems to student behavior. [→ Charlotte E. Wolff 2020](#charlotte-e-wolff-2020)
@@ -52,4 +53,4 @@ The article's synthesis of expert-novice research (citing Sabers et al. 1991) re
 - [Novice teachers notice more negative classroom events than positive ones, whereas expert teachers show the opposite pattern when reflecting on their own MET videos](novices-more-negative-noticing-valence.md) — related
 - [Experts predict classroom phenomena and student errors far more than novices, who rarely anticipate misalgorithms](experts-predict-student-errors-and-classroom-events.md) — related
 - [Teaching experience is associated with higher frequency of mental/perceptual and action/event words in think-aloud about classroom scenes](expertise-associated-event-cognition-word-usage.md) — related
-- [The article argues that interpreting the meaning and significance of presented data is the important problem, and that current emphasis on reporting conditions minimizes interpretation](interpretation-over-reporting-conditions.md) — related
+- The article argues that interpreting the meaning and significance of presented data is the important problem, and that current emphasis on reporting conditions minimizes interpretation — related

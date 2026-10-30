@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: webb-2021
     resource: "https://doi.org/10.1007/s11423-020-09858-2"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` A system using computer vision, learning analytics and machine learning detected student boredom, confusion, delight, engagement and frustration in a real-world school computer lab up to 98% of the time. [→ Webb 2021](#webb-2021)

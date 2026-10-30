@@ -10,6 +10,7 @@ generated:
 evidence_strength: weak
 newest_evidence: 2021
 source_checked: 2026-10-29
+recheck_by: 2026
 sources:
   - id: lee-2021
     resource: "https://doi.org/10.1007/s11423-020-09871-5"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q1`
-> **Currency** · newest study 2021 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The COVID-19 pandemic caused many institutions around the globe to abruptly shift their instruction digital, motivating more flexible and affordable learning. [→ Lee 2021](#lee-2021)

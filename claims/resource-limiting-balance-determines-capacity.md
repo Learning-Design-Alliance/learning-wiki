@@ -45,5 +45,5 @@ Theoretical argument in the essay's framework exposition: as classroom resources
 
 
 ## Related Claims
-- [The essay identifies five pressing issues for future CCC research (theoretical agenda)](ccc-future-research-agenda.md) — related
+- The essay identifies five pressing issues for future CCC research (theoretical agenda) — related
 - [Hippocampal malleability from resource-demand mismatch implies students benefit most from challenges matched to individual capacity](hippocampal-plasticity-mismatch-individual-capacity.md) — related

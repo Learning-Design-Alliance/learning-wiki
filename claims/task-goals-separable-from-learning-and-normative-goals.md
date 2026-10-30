@@ -46,6 +46,6 @@ In the CFA model comparisons, all other (less differentiated) models did not suf
 
 ## Related Claims
 - [University instructors' performance goals split into four classes: appearance and normative components, each approach and avoidance.](four-performance-goal-classes-appearance-normative.md) — related
-- [Learning avoidance goals are separable from learning approach goals in university instructors.](learning-avoidance-separable-from-learning-approach.md) — related
+- Learning avoidance goals are separable from learning approach goals in university instructors. — related
 - [In kindergarteners, trait beliefs and goal orientations form two separate but related factors rather than a coherent growth/fixed mindset](kindergarten-mindsets-two-factor-structure.md) — related
 - [Work avoidance and relational goals form goal classes distinct from all other achievement goal classes of university instructors.](work-avoidance-and-relational-goals-distinct-classes.md) — related

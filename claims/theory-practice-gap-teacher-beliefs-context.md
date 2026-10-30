@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: lisette-hornstra-2023
     resource: "https://doi.org/10.1007/s10648-023-09788-4"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Although the teaching principles of both theories are believed effective for all students, not all teachers optimally apply them, and teacher beliefs and contextual factors may account for this gap. [→ Lisette Hornstra 2023](#lisette-hornstra-2023)

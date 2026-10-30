@@ -10,6 +10,7 @@ generated:
 evidence_strength: moderate
 newest_evidence: 2017
 source_checked: 2026-10-21
+recheck_by: 2020
 sources:
   - id: hu-2017
     resource: "https://doi.org/10.1016/j.edurev.2017.09.004"
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
-> **Currency** · newest study 2017 · checked against its sources 2026-10-21 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-10-21 (automated, 2 of 2 entries) · not reviewed by a person · **overdue for a recheck since 2020**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Think-aloud elicited a larger number and broader range of self-regulated reading strategies than interview, error detection, or questionnaire methods. [→ Hu 2017](#hu-2017)

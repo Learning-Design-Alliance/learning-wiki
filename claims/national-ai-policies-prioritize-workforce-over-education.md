@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: beverly-woolf-2022
     resource: "https://doi.org/10.1007/s40593-022-00299-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q1 i?` An analysis of how 24 nations describe their AI policy strategies found most countries' plans focus on developing an AI-ready workforce rather than on the general use of AI in education. [→ Beverly Woolf 2022](#beverly-woolf-2022)

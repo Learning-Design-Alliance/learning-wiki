@@ -45,6 +45,6 @@ Review's Table 1 analysis: tasks were "designed solely by the experimenters", wi
 
 
 ## Related Claims
-- [Only one of 29 domain-general studies controlled participants' prior knowledge](prior-knowledge-uncontrolled-in-domain-general-studies.md) — related
+- Only one of 29 domain-general studies controlled participants' prior knowledge — related
 - [Cross-domain creative success appears in some studies, but no reviewed study satisfies all three validity conditions for the domain-general hypothesis](domain-general-creativity-fails-three-conditions-review.md) — related
-- [Most reviewed studies defending domain-generality are minimalist, and none treats creativity as an innate faculty](minimalist-position-dominates-domain-general-studies.md) — related
+- Most reviewed studies defending domain-generality are minimalist, and none treats creativity as an innate faculty — related

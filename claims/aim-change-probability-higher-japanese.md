@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: yamada-2025
     resource: "https://doi.org/10.1038/s41539-025-00335-0"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3` · `i3` large
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q3 i3` Aim change probability was significantly higher in the Japanese group than the Norwegian group (ηp² = 0.16), with pooled means of 45% vs 26%. [→ Yamada 2025](#yamada-2025)

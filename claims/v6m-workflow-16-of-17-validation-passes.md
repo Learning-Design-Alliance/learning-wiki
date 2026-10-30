@@ -52,4 +52,4 @@ Developmental testing of the v6m system instructions and LuaLaTeX preamble acros
 - [Gemini frequently corrects board-written math errors with correction logs, but still shows case-consistency and notation-substitution failures](gemini-error-correction-with-case-consistency-failures.md) — related
 - [Across 28 project contexts, human-in-the-loop and independent peer review identified no conceptual or mathematical hallucinations, and Python visualization scripts executed without compilation errors on the zero-shot attempt.](no-conceptual-hallucinations-28-contexts.md) — related
 - [All AI-generated outputs in the project underwent mandatory human-in-the-loop review, positioning AI as augmentative rather than substitutive](mandatory-human-in-the-loop-review-ai-outputs.md) — related
-- [The article-centric PDF record constrains how research is validated, reused, and evaluated](paper-format-limits-validation-reuse.md) — related
+- The article-centric PDF record constrains how research is validated, reused, and evaluated — related

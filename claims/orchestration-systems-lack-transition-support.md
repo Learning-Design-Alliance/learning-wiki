@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: jennifer-k-olsen-nikol-rummel-vincent-aleven-2021
     resource: "https://doi.org/10.1007/s40593-020-00228-w"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The article's literature review finds that most orchestration systems supporting multiple social levels have limited support for smooth transitions, and systems with transition support focus on timing rather than social transitions. [→ Jennifer K. Olsen & Nikol Rummel & Vincent Aleven 2021](#jennifer-k-olsen-nikol-rummel-vincent-aleven-2021)

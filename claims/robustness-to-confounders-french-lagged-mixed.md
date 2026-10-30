@@ -67,8 +67,8 @@ Lag2 robustness check extending the French RI-CCLPM with second-order paths capt
 - [Academic Self-Concept](../learner-variables/academic-self-concept.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [The reciprocal effects are robust to alternative models attributing them to latent confounding or residual error (RI-LTVC, STARTS)](reciprocal-effects-robust-to-spuriousness-models.md) — related
-- [Random-intercept and lag2 panel models rest on different assumptions and offer alternative perspectives on controlling covariates](ri-lag2-different-assumptions-covariates.md) — related
+- The reciprocal effects are robust to alternative models attributing them to latent confounding or residual error (RI-LTVC, STARTS) — related
+- Random-intercept and lag2 panel models rest on different assumptions and offer alternative perspectives on controlling covariates — related
 - [Adding lag-2 paths to CLPMs substantially improves fit and provides stronger controls for preexisting differences, positioning extended CLPMs as viable alternatives to RI-CLPMs](lag-2-paths-improve-clpm-fit-and-control.md) — related
 - [Across basic and extended RI-CLPMs and CLPMs of five-wave secondary-school data, math self-concept and achievement show consistent reciprocal (bidirectional) directional ordering](rem-reciprocal-effects-ri-clpm-clpm-palma.md) — related
 - [The extended REM was robust to several alternative modeling specifications proposed by Sorjonen et al.](extended-rem-robust-alternative-specifications.md) — related

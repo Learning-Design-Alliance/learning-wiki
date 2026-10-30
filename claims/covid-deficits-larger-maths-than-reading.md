@@ -51,6 +51,6 @@ Bivariate comparison of deficit magnitude by subject using common-effects models
 - [Average fall 2021 reading scores in Grades 3–8 were .09–.18 SD lower than same-grade peers' fall 2019 scores](covid-reading-decline-009-018-sd-grades-3-8.md) — related
 - [No evidence that COVID-19 learning deficits differ between primary and secondary students](covid-deficits-no-grade-level-variation.md) — related
 - [Learning deficits are appreciably larger in middle-income countries than in high-income countries, with no evidence available from low-income countries](covid-deficits-larger-middle-income-countries.md) — related
-- [Estimated Covid-19 learning deficits are more pronounced in studies using experimental/quasi-experimental designs than in descriptive or correlational studies](covid-deficit-larger-quasi-experimental-designs.md) — related
+- Estimated Covid-19 learning deficits are more pronounced in studies using experimental/quasi-experimental designs than in descriptive or correlational studies — related
 - [Estimated learning deficits are smaller in European studies than in studies from the rest of the world](covid-deficit-smaller-europe-than-rest-of-world.md) — related
 - [Learning deficits in math/science were larger than in other subjects (about 0.17 SD smaller achievement)](covid-learning-deficit-larger-math-science.md) — related

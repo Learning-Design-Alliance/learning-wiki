@@ -12,7 +12,7 @@ generated:
 # Three-level analytical framework for analyzing SRL-promoting recommender systems
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article develops a three-tiered analytical framework that considers challenges in three areas: data and experiments, user experience/interface design, and technical factors. It uses this framework to systematically examine foundational recommendation methods, their integration into comprehensive systems, and the experimental validation of their effectiveness for supporting SRL in online environments.
@@ -24,7 +24,6 @@ The article develops a three-tiered analytical framework that considers challeng
 ### Claims
 
 - [User experience challenges include poor matching, inadequate scaffolding, and suboptimal interface design](../claims/user-experience-challenges-srl-recommenders.md) [+W]
-- [Data and experiment challenges include scarcity, validity, and arrangement](../claims/data-experiment-challenges-srl-recommenders.md) [+W]
 
 ## Related Research Methods
 -

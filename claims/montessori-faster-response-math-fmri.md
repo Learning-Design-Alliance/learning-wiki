@@ -48,5 +48,5 @@ Behavioral analysis (2×2 ANOVA) of reaction times from 32 children performing a
 - [Montessori students achieve higher efficiency (RT/accuracy) than traditionally-schooled students in the math task](montessori-higher-efficiency-score.md) — related
 - [Montessori students miss fewer trials but make more incorrect responses than traditionally-schooled students at equivalent accuracy](montessori-more-errors-fewer-misses.md) — related
 - [Adults with dyscalculia perform the number comparison task as accurately as controls but respond significantly more slowly](dyscalculia-equal-accuracy-slower-reaction-time.md) — related
-- [Montessori- and traditionally-enrolled children in this sample were demographically matched on age, gender, fluid intelligence, and SES](montessori-traditional-matched-sample-demographics.md) — related
+- Montessori- and traditionally-enrolled children in this sample were demographically matched on age, gender, fluid intelligence, and SES — related
 - [Montessori-schooled children show shorter average shortest path length and lower modularity in their semantic networks than traditionally-schooled children](montessori-lower-aspl-modularity-semantic-network.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2018
+recheck_by: 2023
 sources:
   - id: simon-cullen-2018
     resource: "https://doi.org/10.1038/s41539-018-0038-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Control students' scores did not change significantly between pretest and posttest, Mchange = +0.48 (SD = 3.2), t(55) = 1.1, p = 0.27, d = 0.11. [→ Simon Cullen 2018](#simon-cullen-2018)
@@ -46,5 +47,5 @@ Within-group change in the control condition over the 85-day semester; the artic
 
 ## Related Claims
 - [Seminar students improved more on LSAT Logical Reasoning than control students (d = 0.71, 95% CI (0.37, 1.04), p < 0.001)](argument-visualization-seminar-lsat-gains.md) — related
-- [Pretest LSAT scores did not differ reliably between seminar and control groups](seminar-pretest-no-reliable-difference.md) — related
+- Pretest LSAT scores did not differ reliably between seminar and control groups — related
 - [A 6-week LSAT Logic Games course produced greater improvement on a composite of four visuospatial reasoning assessments than a Reading Comprehension course](lsat-logic-games-transfer-composite-reasoning.md) — related

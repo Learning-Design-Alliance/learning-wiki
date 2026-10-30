@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1920
+recheck_by: 1925
 sources:
   - id: no-author-line-1920
     resource: "https://eric.ed.gov/"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
-> **Currency** · newest study 1920 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1920 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1925**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` According to the reviewed book, growth is not uniform but proceeds with variations in the case of the limbs, trunk, and head, and gross measures mean little unless broken up by finer analysis. [→ No author line 1920](#no-author-line-1920)
@@ -47,4 +48,4 @@ This is the reviewer's summary of Godin's Part I discussion of the nature of gro
 ## Related Claims
 - [Errors should be distinguished from mistakes, and analysis proceeds through recognition, description, and explanation stages](error-versus-mistake-analysis-procedure.md) — related
 - [Different limbs and limb sections show alternating periods of acceleration and retardation in individual growth curves](alternating-acceleration-retardation-limb-growth.md) — a narrower finding that bears on this claim
-- [Regular physical measurements of two brothers were taken from birth for six years four months and three years four months](longitudinal-physical-measurements-two-brothers-case-study.md) — related
+- Regular physical measurements of two brothers were taken from birth for six years four months and three years four months — related

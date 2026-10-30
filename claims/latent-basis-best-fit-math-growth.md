@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: sammy-f-ahmed-2022
     resource: "https://orcid.org/0000-0003-3814-2955"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Model fit comparisons indicated changes and between-person differences in math development across eight occasions were best characterized by a latent basis curve. [→ Sammy F. Ahmed 2022](#sammy-f-ahmed-2022)

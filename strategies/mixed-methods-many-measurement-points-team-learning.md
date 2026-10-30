@@ -17,7 +17,7 @@ sources:
 # Future team-learning change research should use mixed methods with more than three measurement points in short intervals
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The review derives needs for future research, "such as the need for mixed methods studies with more than three measurement points in short intervals". It reports that most included studies measure team learning behaviours only two or three times, while understanding real temporal change requires more measurement points, and that how many are needed depends on the type of change under examination.
@@ -38,7 +38,6 @@ The review derives needs for future research, "such as the need for mixed method
 
 ## Claims
 
-- [Quantitative and qualitative study designs differ in which change types and characteristics they can identify](../claims/design-differences-change-detection-team-learning.md) [+W]
 - [Qualitative studies identify dynamics, patterns, and development in team learning behaviours, linked to situated knowledge and transactivity](../claims/qualitative-studies-dynamics-patterns-development.md) [+W]
 - [Quantitative longitudinal studies mostly show minor change in team learning behaviours, with dynamics in boundary crossing and team activity](../claims/quantitative-studies-mostly-minor-change-team-learning.md) [+W]
 

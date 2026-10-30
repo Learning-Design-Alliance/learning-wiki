@@ -46,4 +46,4 @@ Moderation analyses in the meta-analysis tested data collection method (teacher 
 
 ## Related Claims
 - [The choice of online versus offline measures of SRL moderates the strength of the relationship between SRL processes and achievement](measure-type-moderates-srl-achievement-relation.md) — related
-- [Publication year, publication type, and grade level moderate the strength of job satisfaction–performance associations](moderators-of-job-satisfaction-effect-sizes.md) — related
+- Publication year, publication type, and grade level moderate the strength of job satisfaction–performance associations — related

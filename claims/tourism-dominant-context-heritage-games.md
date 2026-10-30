@@ -9,6 +9,7 @@ generated:
   at: 2026-10-30
 evidence_strength: weak
 newest_evidence: 2017
+recheck_by: 2022
 sources:
   - id: malegiannaki-2017
     resource: "https://doi.org/10.1016/j.compedu.2017.01.007"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` 18 (52.94%) of the reviewed games are for cultural tourism and augmented visit, while only 4 (11.76%) suit a school classroom and 2 (5.88%) are training tools for heritage professionals. [→ Malegiannaki 2017](#malegiannaki-2017)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1917
+recheck_by: 1922
 sources:
   - id: whipple-1917
     resource: "https://psycnet.apa.org"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
-> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1922**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The author argues that although people believe they recall details of long-forgotten incidents exactly, there is usually no means of verifying this, so the seeming exactness is largely illusory. [→ Whipple 1917](#whipple-1917)

@@ -12,7 +12,7 @@ generated:
 # Comparative framework for longitudinal models differing in change processes, temporal structure, and measurement design
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 3 studies (3 associational), `q1`–`q2` · 0 of 3 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 2 studies (2 associational), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 Beyond responding to the commentary, the authors "present a generalizable framework for comparing longitudinal models that differ in their assumptions about change processes, temporal structure, and measurement design." The framework organizes model comparison around three axes: what change process a model assumes, how it represents temporal structure (e.g., lag0 and lag1 effects), and what measurement design it presumes. It is used in the article to reanalyze the simulated and PALMA data and evaluate the extended REM against alternatives.
@@ -25,7 +25,6 @@ Beyond responding to the commentary, the authors "present a generalizable framew
 
 ### Claims
 - [The extended REM was robust to several alternative modeling specifications proposed by Sorjonen et al.](../claims/extended-rem-robust-alternative-specifications.md) [+M]
-- [Random-intercept and lag2 panel models rest on different assumptions and offer alternative perspectives on controlling covariates](../claims/ri-lag2-different-assumptions-covariates.md) [~W]
 - [RI-CLPM on simulated PALMA-like data shows positive reciprocal cross-lagged effects between within-individual math achievement and self-concept](../claims/riclpm-simulated-palma-positive-reciprocal-effects.md) [+M]
 - [LCSM on the same simulated PALMA-like data shows negative cross-lagged effects, contradicting the reciprocal effects model](../claims/lcsm-simulated-palma-negative-effects.md) [+M]
 - [Validation with simulated TRAIN-like data replicates the divergence: RI-CLPM positive, LCSM negative, ESDM no-direct-effects](../claims/train-validation-divergent-model-findings.md) [+M]

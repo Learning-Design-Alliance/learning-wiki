@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: katie-a-gilligan-lee-2022
     resource: "https://doi.org/10.1038/s41539-022-00128-9"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` None of the spatial visualization skills (mental rotation, mental transformation, perspective taking, spatial scaling) are mentioned in the Common Core State Standards for Mathematics, whose geometry standards focus on classifying and identifying shapes. [→ Katie A. Gilligan-Lee 2022](#katie-a-gilligan-lee-2022)
@@ -64,5 +65,7 @@ Policy review in the commentary contrasts the 2020 Ontario mathematics curriculu
 
 
 ## Related Claims
+
 - [Available spatial instruments overrepresent mental rotation and spatial visualization and rarely test children or multiple subcomponents](instrument-gaps-overrepresentation-adult-bias.md) — related
 - [Students in the UK and US show relative weaknesses in shape and space domains on international mathematics assessments](uk-us-weak-shape-space-pisa-timms.md) — related
+- [Curricula recognize development and malleability of spatial skills but not sociodemographic diversity](curricula-recognize-malleability-not-sociodemographic-diversity.md)

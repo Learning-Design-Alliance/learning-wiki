@@ -47,4 +47,4 @@ The editorial asserts, citing Warschauer & Healey (1998), that "computers have b
 ## Related Claims
 - [CALL finds its roots in applied linguistics and computer science, and computers have been used for language learning since the 1960s](call-roots-and-1960s-history.md) — possibly the same claim (merge candidate)
 - [The possibilities of the electronic computer as an instructional tool had been almost completely ignored in Title VII research.](titlevii-computer-instruction-ignored.md) — related
-- [Teaching-machine research publications rose yearly from 1948 to 1959, with six references prior to 1948](teaching-machine-publications-rising-1948-1959.md) — related
+- Teaching-machine research publications rose yearly from 1948 to 1959, with six references prior to 1948 — related

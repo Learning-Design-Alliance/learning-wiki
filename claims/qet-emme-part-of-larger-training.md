@@ -46,4 +46,4 @@ Narrative synthesis in the review's discussion of the Quiet Eye Training cluster
 
 ## Related Claims
 - [Rationales for using EMME differ systematically by task domain: sports studies emphasize quiet-eye strategy, medical studies strategy plus attention guidance, and STEM studies more often social mechanisms](emme-domain-rationale-patterns.md) — related
-- [EMME study designs vary widely: most experiments added information, used dynamic scan-path visualizations, and over half did not report how eye movement data were processed](emme-design-heterogeneity.md) — related
+- EMME study designs vary widely: most experiments added information, used dynamic scan-path visualizations, and over half did not report how eye movement data were processed — related

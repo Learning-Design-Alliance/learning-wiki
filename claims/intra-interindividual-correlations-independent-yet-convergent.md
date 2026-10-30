@@ -10,6 +10,7 @@ generated:
 evidence_strength: moderate
 newest_evidence: 2016
 source_checked: 2026-10-22
+recheck_by: 2021
 sources:
   - id: goetz-2016
     resource: "https://dx.doi.org/10.1016/j.learninstruc.2015.10.007"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2016 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2021**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Level 1 (within-person) and Level 2 (between-person) correlations are statistically independent, and some differ substantially, e.g., performance-approach and performance-avoidance goals were strongly correlated between persons but only moderately within persons. [→ Goetz 2016](#goetz-2016)

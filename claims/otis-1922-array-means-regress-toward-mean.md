@@ -10,6 +10,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1922
+recheck_by: 1925
 sources:
   - id: arthur-s-otis-1922
     resource: "https://doi.org/10.1037/h0075112"
@@ -23,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
-> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1925**: tool and model accuracy changes quickly
 
 ## Subclaims
 

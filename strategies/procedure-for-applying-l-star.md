@@ -17,7 +17,7 @@ sources:
 # Recommended procedure for applying L* to sequences of affective states
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article outlines a step-by-step procedure (Algorithm 1) for computing L* on full affect sequences with transitions to A excluded. The algorithm explicitly handles special cases that would produce undefined values or division-by-zero errors, such as sequences consisting solely of transitions of the form Aprev→Bnext, where "L∗ is undeﬁned." After computing L* per student, the authors recommend "a two-tailed t-test can then be used on the entire sample of L∗ values" and a Benjamini-Yekutieli post hoc correction with an α value of 0.05 to control false positives under arbitrary dependence.
@@ -37,6 +37,10 @@ The article outlines a step-by-step procedure (Algorithm 1) for computing L* on 
 
 ### Target Learning Goals
 - valid analysis of affective state transitions when self-transitions are excluded
+
+## Claims
+
+- [Theoretical ranges differ sharply: L with self-transitions removed is bounded below by −1 (individual base rates) or −2 (averaged), while L* is bounded by −k+1 (individual) or has no finite lower bound (averaged)](../claims/l-and-l-star-theoretical-value-ranges.md) [+W]
 
 ## Related Strategies
 - 

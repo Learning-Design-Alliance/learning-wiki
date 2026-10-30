@@ -65,7 +65,7 @@ Repeated-measures ANOVA on mean exposure duration in the relearn condition acros
 
 ## Related Claims
 - [Aggregate judgments of learning shift from lower under relearning to higher under relearning across the three sessions](relearning-ajol-reversal-across-sessions.md) — related
-- [Total exposure time per session was significantly lower in the relearn condition than in the restudy condition, ruling out an exposure confound](relearning-exposure-time-controlled.md) — related
+- Total exposure time per session was significantly lower in the relearn condition than in the restudy condition, ruling out an exposure confound — related
 - [Relearning-to-criterion designs confound distribution of practice with amount of second-session practice](relearning-confound-distributed-practice-designs.md) — related
 - [Self-rated attentional control improves for relearning relative to restudying from the second session onward](relearning-attentional-control-gains.md) — related
 - [Anxious affect and self-rated mastery start worse for relearning but reverse in favour of relearning by the third session](relearning-anxiety-mastery-reversal.md) — related

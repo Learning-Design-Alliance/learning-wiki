@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: mixed
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: kennedy-2026
     resource: "https://github.com/OxCGRT/covid-policy-dataset"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Greater lockdown stringency and longer school closures were associated with increases (or smaller decreases) in expected political participation. [→ Kennedy 2026](#kennedy-2026)
@@ -67,6 +68,6 @@ Same regression analysis. The article reports no significant relationship for st
 - [Civic Mindedness](../learner-variables/civic-mindedness.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Robustness of the lockdown-civic outcome associations varies by outcome, with legal protest and trust/closure results most consistent](lockdown-civic-results-outlier-sensitivity.md) — related
+- Robustness of the lockdown-civic outcome associations varies by outcome, with legal protest and trust/closure results most consistent — related
 - [Stricter, longer lockdowns are associated with increases (or smaller declines) in students' expected protest participation, strongest for legal protest](lockdown-protest-participation-increases.md) — a narrower finding that bears on this claim
 - [Longer school closures are associated with greater declines in grade 8 civic knowledge](school-closure-duration-civic-knowledge-declines.md) — related

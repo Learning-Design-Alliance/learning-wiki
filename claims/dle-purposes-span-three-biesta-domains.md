@@ -45,5 +45,5 @@ The review's summary of findings section characterizes how socialization purpose
 
 
 ## Related Claims
-- [Qualification is the most prevalent domain of educational purpose expressed in K-12 DLE research, appearing in 100% of reviewed studies](qualification-most-prevalent-domain-k12-dle-research.md) — related
+- Qualification is the most prevalent domain of educational purpose expressed in K-12 DLE research, appearing in 100% of reviewed studies — related
 - [Socialization and subjectification purposes in DLE can complement rather than conflict each other, despite a described tension between the domains](socialization-subjectification-complement-tension-dle.md) — related

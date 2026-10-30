@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: mcgarr-2020
     resource: "https://doi.org/10.1016/j.compedu.2019.103753"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Of the 429 sampled lesson reports, technology was mentioned in fewer than 28%, with 75% of 2011 reports and 67% of 2016 reports containing no mention of technology. [→ McGarr 2020](#mcgarr-2020)
@@ -47,5 +48,5 @@ Document analysis of a random sample of 429 lesson appraisal guides (229 from 20
 ## Related Claims
 - [No statistically significant difference in technology mentions between 2011 and 2016 cohorts](no-significant-difference-technology-mentions-2011-2016.md) — related
 - [No statistically significant difference in technology mentions between second-year and fourth-year students](no-significant-difference-technology-mentions-by-year.md) — related
-- [Presentation software dominated references to technology, at 87% of mentions in 2011 and 72% in 2016](presentation-software-dominated-technology-mentions.md) — related
+- Presentation software dominated references to technology, at 87% of mentions in 2011 and 72% in 2016 — related
 - [80% of technology comments were evaluative and almost all were positive](technology-comments-evaluative-and-mostly-positive.md) — related

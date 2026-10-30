@@ -68,7 +68,7 @@ Spatiotemporal follow-up in Experiment 2 split by load found a fronto-central su
 
 ## Related Claims
 - [Conscious awareness of the regularity is not necessary for an early neuronal signature of global statistical violation, as participants showed surprise-by-variance effects while reporting no awareness](awareness-not-needed-global-violation-signature.md) — related
-- [Concurrent cognitive load was successfully manipulated: participants were slower and less accurate on the high-load (2-back) than low-load (1-back) working memory task](n-back-load-manipulation-verified-slower-less-accurate.md) — related
+- Concurrent cognitive load was successfully manipulated: participants were slower and less accurate on the high-load (2-back) than low-load (1-back) working memory task — related
 - [Prediction-error responses to physically identical outliers are larger in a narrow than a broad contextual distribution, reflecting sensitivity to contextual variance](narrow-distribution-larger-prediction-error-than-broad.md) — related
 - [No reliable reduction in auditory prediction-error magnitude under high versus low cognitive load, with the load-by-surprise interaction absent in frequentist and Bayesian analyses](no-load-by-surprise-interaction-statistical-learning.md) — related
 - [The absence of a load effect may reflect cross-modality design: visual load may spare auditory resources, and load was not sustained to full capacity](cross-modality-load-limitation-statistical-learning.md) — related

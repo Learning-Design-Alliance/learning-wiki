@@ -54,7 +54,7 @@ The editorial reports the Steier, Kersting, and Silseth qualitative study of a w
 - [Role metaphors positioned GenAI as helper, learning partner, and friend/foe, with a high proportion combining friend and foe](role-metaphors-genai-frenemy-ambivalence.md) — related
 - Group engagement can be operationalized as a differentiated, evolving, multi-faceted construct at the group unit of analysis — related
 - [Collaboration does not emerge spontaneously just by placing students together](collaboration-not-spontaneous-from-grouping.md) — related
-- [The article argues, via satirical verse, that poetic and metaphorical devices could be applied to educational research's pursuit of effects and causes](poetic-metaphorical-devices-in-educational-research.md) — related
+- The article argues, via satirical verse, that poetic and metaphorical devices could be applied to educational research's pursuit of effects and causes — related
 - [The format of a representational tool shapes the amount and type of historical reasoning](representational-tool-format-shapes-historical-reasoning.md) — a narrower finding that bears on this claim
 - [Manipulating objects during learning improves comprehension, and virtual manipulation can be as effective as physical manipulation](object-manipulation-improves-comprehension.md) — related
 - [Teacher-guided whole-class discussion and collaborative evaluation of student representations were largely absent from the online unit's implementation](teacher-guided-discussion-limited-online-rca.md) — related

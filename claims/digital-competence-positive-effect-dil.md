@@ -49,4 +49,4 @@ Structural model analysis (AMOS SEM) of 319 Shiraz University students testing H
 - [Higher education students' digital competence has a positive effect on their academic performance](digital-competence-positive-effect-academic-performance.md) — related
 - [Digital informal learning has a positive effect on higher education students' academic performance in a cross-sectional SEM study](dil-positive-effect-academic-performance.md) — related
 - [Higher education teachers' digital competence positively and significantly correlates with their work engagement and effort expectancy](digital-competence-correlates-work-engagement.md) — related
-- [The hypothesised three-variable structural model fits the survey data well across printed fit indices](dil-sem-model-good-fit.md) — related
+- The hypothesised three-variable structural model fits the survey data well across printed fit indices — related

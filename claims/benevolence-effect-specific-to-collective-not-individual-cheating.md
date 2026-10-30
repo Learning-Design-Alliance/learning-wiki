@@ -49,4 +49,4 @@ Reanalysis regression models on the same Study 1 sample tested whether the benev
 - [Within the competitive context of an end-of-year exam, benevolence value adherence positively predicts moral disengagement toward collective relative to individual cheating](benevolence-moral-disengagement-collective-cheating-exam.md) — related
 - [Adherence to benevolence values positively predicts attitudes toward collective cheating when a competitive society is portrayed, but not in control or cooperative-society conditions](benevolence-predicts-collective-cheating-attitudes-competitive-society.md) — related
 - [The benevolence-driven moral disengagement effect is strongest for group collectively copying off out-group students compared with individual copying](group-copying-drives-benevolence-disengagement.md) — related
-- [Acceptance of individual and collective cheating form two distinct factors in students' responses](individual-collective-cheating-two-factor-distinction.md) — related
+- Acceptance of individual and collective cheating form two distinct factors in students' responses — related

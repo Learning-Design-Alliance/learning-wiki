@@ -46,7 +46,7 @@ The reviewer summarizes the book's final-chapter recommendations, quoting its cl
 
 ## Related Claims
 - [Goddard's book argues that intelligence level is the determining factor in human efficiency, with other traits treated as subsidiary](goddard-intelligence-determining-factor-efficiency.md) — possibly the same claim (merge candidate)
-- [The reviewer judges Goddard's book an optimistic, clear popular account that exaggerates intelligence's influence and omits technical questions such as IQ validity](reviewer-critique-goddard-optimism.md) — related
+- The reviewer judges Goddard's book an optimistic, clear popular account that exaggerates intelligence's influence and omits technical questions such as IQ validity — related
 - [The reviewed tests-and-scales book describes a third stage in which standardized tests are used for diagnosis of individual pupils and for testing the efficiency of teaching methods](standardized-tests-third-stage-diagnosis.md) — related
 - [The editor predicts NRC group tests will make intelligence testing a routine school measure and open the way for adjusting school work to pupil needs](nrc-tests-predicted-routine-school-intelligence-testing.md) — related
 - [Important intellectual differences among people are not found on the sensory, perceptual, or purely reproductive level](intellectual-differences-not-sensory-perceptual-level.md) — related

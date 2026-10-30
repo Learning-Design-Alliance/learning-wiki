@@ -53,5 +53,5 @@ Competitive SEM model comparison in the four-wave longitudinal data showed the r
 - [The extended REM was robust to several alternative modeling specifications proposed by Sorjonen et al.](extended-rem-robust-alternative-specifications.md) — related
 - [The reciprocal EF–ER model fits only marginally better than a forward-only model, so model preference rests on theory as much as fit](reciprocal-versus-forward-only-model-fit.md) — related
 - [Reanalyses of simulated and PALMA data provide converging support for the extended reciprocal effects model, including an effect of academic self-concept on achievement](reanalyses-converging-support-extended-rem-asc-effect.md) — related
-- [Reciprocal relations models fit better than unidirectional or baseline alternatives for both CLPM and RI-CLPM](reciprocal-model-better-fit-than-nested.md) — related
+- Reciprocal relations models fit better than unidirectional or baseline alternatives for both CLPM and RI-CLPM — related
 - [Development is understood through bidirectional circular causality across levels rather than a unidirectional gene-to-brain-to-behavior path](circular-causality-across-developmental-levels.md) — a broader claim this one bears on

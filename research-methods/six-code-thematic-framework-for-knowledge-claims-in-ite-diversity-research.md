@@ -25,7 +25,8 @@ The review developed an inductive, iterative coding framework to classify knowle
 - [A systematic review of 209 peer-reviewed articles (2009-2019) identifies three qualitatively different clusters of claims about how teachers can be prepared for diversity](../claims/three-claims-clusters-preparing-teachers-diversity.md) [+M]
 
 ## Related Research Methods
--
+
+- [Five-theme, sixteen-indicator framework for coding spatial skills in early childhood curricula](five-theme-sixteen-indicator-framework-for-coding-spatial-skills-in-early-childhood-curric.md)
 
 ## Key Sources
 - Rowan, L., Bourke, T., L'Estrange, L., Lunn, J., Ryan, M., Walker, S., & Churchward, P. (2021). How does Initial Teacher Education Research frame the challenge of preparing future teachers for student diversity in schools?: A systematic review of literature. Review of Educational Research, 91(1), 112-158. https://doi.org/10.3102/0034654320979171

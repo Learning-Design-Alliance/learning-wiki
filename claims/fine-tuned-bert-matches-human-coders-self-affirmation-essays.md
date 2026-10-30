@@ -63,14 +63,14 @@ Interrater reliability analysis on an out-of-sample comparison dataset of 134 do
 - The review's coding framework showed very good inter-coder agreement (κ = 0.89, p < 0.001) on a random sample of six papers — related
 - [Rubric-based assessment showed substantial to almost-perfect inter-rater reliability across all three time points](rubric-interrater-reliability-visualization-assessment.md) — related
 - Scaled qualitative coding of preservice teachers' video-analysis responses reached very good interrater agreement — related
-- [Five judges classifying 63 test units reached average inter-judge correlation of 0.542 ± 0.019 on the two scales](judge-agreement-classifying-test-units-scales.md) — related
+- Five judges classifying 63 test units reached average inter-judge correlation of 0.542 ± 0.019 on the two scales — related
 - [A GPT-4-based coding scheme achieved over 90% inter-coder agreement, surpassing results reported for specialised pre-2017 AI (~80%)](gpt4-surpasses-specialised-intelligence-agreement.md) — related
 - [The rule-based recipe annotation system reaches near-perfect inter-annotator agreement (Cohen's Kappa 0.85) and average accuracy 0.95 in a validation on sampled recipe segments.](relex-annotation-validation-kappa-accuracy.md) — related
 - [Machine learning detects five of eight reflective-writing categories with substantial or almost perfect reliability and three with moderate reliability (Cohen's κ .53–.85)](ml-detects-reflection-categories-kappa-053-085.md) — related
 - [Fine-tuned BERT outperforms FFNN and LSTM deep learning architectures for classifying segments of written reflections, with weighted F1 average of .82](bert-outperforms-ffnn-lstm-reflective-writing-classification.md) — related
 - [Fine-tuning several pre-trained LLMs with class balancing, data augmentation, and tailored input modification reaches near human-level automated scoring accuracy on most extended-response mathematics assessment items](fine-tuned-llms-near-human-math-scoring.md) — related
 - [ML scoring models for scientific argumentation items achieved good to almost perfect agreement with human consensus scores (mean Cohen's kappa = 0.60)](ml-scoring-argumentation-mean-kappa-060.md) — related
-- [Learning-tip-to-lecture-topic coding by seven coders reached an overall agreement of 0.87 (Cohen's Kappa)](topic-coding-agreement-087.md) — related
+- Learning-tip-to-lecture-topic coding by seven coders reached an overall agreement of 0.87 (Cohen's Kappa) — related
 - [Two-phase machine learning approach detects causal relations and chains in student essays](machine-learning-detects-causal-relations-essays.md) — related
 - [A non-fine-tuned pre-trained sentiment analysis model achieves moderate agreement with human coders of student open-ended answers](pretrained-sa-moderate-agreement.md) — related
 - [An automated scoring engine matched experienced human markers yet was rejected over the confidentiality-explainability conflict](crase-scoring-equivalent-to-human-markers-rejected.md) — related

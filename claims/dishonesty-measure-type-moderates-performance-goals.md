@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: moderate
 newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: tanja-fritz-2023
     resource: "https://doi.org/10.1007/s10648-023-09753-1"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q3` · `i1`–`i2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i2` For performance-approach goals, behavioral measures were positively associated with academic dishonesty (r = 0.237), significantly different from self-report measures. [→ Tanja Fritz 2023](#tanja-fritz-2023)
@@ -64,6 +65,6 @@ Meta-regression moderator analysis: intention measures showed r = 0.148, 95% CI 
 
 
 ## Related Claims
-- [Most research on achievement goals and academic dishonesty relies on correlational designs, self-report dishonesty measures, and personal goal measures](correlational-selfreport-dominance-goal-dishonesty-research.md) — related
+- Most research on achievement goals and academic dishonesty relies on correlational designs, self-report dishonesty measures, and personal goal measures — related
 - [Performance goals show heterogeneous, near-zero average associations with academic dishonesty](performance-goals-heterogeneous-dishonesty.md) — related
 - [Work-avoidance goals show a small positive association with academic dishonesty](work-avoidance-goals-positive-dishonesty.md) — related

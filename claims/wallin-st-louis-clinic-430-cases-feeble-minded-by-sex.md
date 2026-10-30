@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1917
+recheck_by: 1920
 sources:
   - id: kohs-1917
     resource: "https://doi.org/10.1037/h0071443"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1920**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Among 430 clinic-referred cases, feeble-mindedness was found in 25.9% of 320 boys and 40% of 110 girls, and backward/retarded children were almost twice as numerous as feeble-minded ones. [→ Kohs 1917](#kohs-1917)

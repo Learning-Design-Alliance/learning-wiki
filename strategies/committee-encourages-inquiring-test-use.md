@@ -43,6 +43,7 @@ This strategy directs any coordinating committee in mental testing away from adj
 ## Related Strategies
 
 - [Balanced Assessment System](balanced_assessment_system.md)
+- [Recognize pluralistic educational purposes in DLE and cultivate balance among them for holistic education](balance-pluralistic-dle-purposes.md)
 
 ## Examples
 -

@@ -17,7 +17,7 @@ sources:
 # Use physiological measures and spontaneous emotion language rooted in the basic emotions tradition in emotion-learning research
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The review recommends that education researchers shift from continued psychological measurement of multidimensional emotions toward "more extensive use of physiological measures and analysis of spontaneous emotion language, both rooted in the basic emotions tradition." It argues physiological measures such as EEG show promise for learning research—gamers do not report that such devices interfere with the pleasure of gaming—but only if paired with an emotion theory simple enough that results are consistent. It further calls for studies of anger, disgust and other negative emotions other than fear, given their frequency in everyday experience.
@@ -41,10 +41,8 @@ The review recommends that education researchers shift from continued psychologi
 
 ## Claims
 
-- [Research questions framed in academic emotion constructs tend to yield markedly lower or insignificant p-values than basic emotion constructs in the same studies](../claims/academic-emotions-lower-p-values.md) [+W]
 - [Psychometric studies of the AEQ report most constructs falling below the conventional Cronbach's alpha cutoff of 0.80](../claims/aeq-psychometric-validity-questionable.md) [+W]
 - [D'Mello's meta-analysis of 24 studies found negative correlations between learning outcomes and negative basic emotions and a positive correlation with flow](../claims/dmello-meta-analysis-basic-emotions-learning.md) [+M]
-- [Physiological research on academic emotion constructs is sparse: no studies of normal confusion, one of frustration, and one of curiosity](../claims/physiological-research-gap-academic-emotions.md) [+W]
 
 ## Related Strategies
 - 

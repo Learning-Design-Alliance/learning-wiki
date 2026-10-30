@@ -47,5 +47,5 @@ Randomized between-subjects experiment with 81 fifth-graders (27 per condition) 
 ## Related Claims
 - [No significant between-condition difference in learning time in the mobile leaf-morphology experiment](no-learning-time-difference-mobile-media-conditions.md) — related
 - [Redundancy effect on comprehension: TP and TO conditions outperformed the TPO condition in a mobile learning experiment](redundancy-effect-comprehension-mobile-learning.md) — related
-- [The three media conditions did not differ significantly in prior knowledge or previous grades, supporting baseline equivalence](conditions-equivalent-prior-knowledge-grades-leaf-morphology-study.md) — related
+- The three media conditions did not differ significantly in prior knowledge or previous grades, supporting baseline equivalence — related
 - [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — a broader claim this one bears on

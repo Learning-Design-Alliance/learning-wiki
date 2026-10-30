@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: ijaz-ul-haq-2024
     resource: "https://doi.org/10.1007/s40593-024-00392-3"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` When comparing the same pairs of ideas, the eight models disagreed: for ideas 0 and 1, scores ranged from 0.11 (model B) to 0.89 (model G), spanning low, medium, and high similarity categories. [→ Ijaz Ul Haq 2024](#ijaz-ul-haq-2024)

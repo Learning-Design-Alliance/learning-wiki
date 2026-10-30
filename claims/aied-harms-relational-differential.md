@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: neil-selwyn-2023
     resource: "https://doi.org/10.1007/s40593-023-00344-3"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Harms from educational AI often arise not from deliberate design but from the inherent losses of representing complex social phenomena in data, and are experienced differently according to people's backgrounds. [→ Neil Selwyn 2023](#neil-selwyn-2023)

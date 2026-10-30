@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: spencer-2019
     resource: "https://doi.org/10.1037/edu0000274"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The article reports, citing Spencer et al. (2014), that only about .1% of children identified as having SCD had intact vocabulary skills (scores above the 25th percentile). [→ Spencer 2019](#spencer-2019)

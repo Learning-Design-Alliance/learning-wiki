@@ -68,6 +68,6 @@ Elementary-level Italian study (n = 334, grades 4-5) measuring word reading flue
 ## Related Claims
 - [Across 25 studies of K-12 readers, individual differences in literacy, cognition, metacognition, knowledge, beliefs, and motivation are positively and moderately associated with intertextual integration](individual-differences-moderately-associated-intertextual-integration-k12.md) — a broader claim this one bears on
 - [Single-document comprehension is the most studied literacy correlate of K-12 intertextual integration, with correlations ranging from near zero to moderate-strong](single-document-comprehension-correlates-intertextual-integration.md) — related
-- [Research on K-12 intertextual integration is dominated by secondary-level samples, essay tasks, and informational socioscientific document sets](task-document-features-k12-intertextual-integration-research.md) — related
+- Research on K-12 intertextual integration is dominated by secondary-level samples, essay tasks, and informational socioscientific document sets — related
 - [Oral and silent text reading fluency correlate strongly in children but only moderately in adolescents, and a standardized oral word reading test relates to silent reading differently by group](oral-silent-correlations-developmental-shift.md) — related
 - [Children with dyslexia read texts significantly more slowly than typical readers in both oral and silent reading](children-dyslexia-slower-both-reading-modes.md) — related

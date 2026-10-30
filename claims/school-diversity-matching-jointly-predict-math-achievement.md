@@ -68,4 +68,4 @@ Interaction model for math achievement in the same ECLS-K sample. "higher levels
 - [School racial/ethnic composition effects on kindergarten outcomes are about half the size of parent education effects but non-negligible](composition-effects-half-parent-education-size.md) — related
 - [School racial/ethnic diversity and same-racial/ethnic peer proportion jointly predict higher reading achievement in kindergarten, with matching benefits concentrated in more diverse schools](school-diversity-matching-jointly-predict-reading-achievement.md) — related
 - [Racial/ethnic composition of classrooms and schools shapes Black and Latine students' sense of belonging in mathematics](racial-ethnic-composition-shapes-math-belonging.md) — related
-- [Ingroup representation and racial/ethnic diversity are distinct constructs that are often conflated in school diversity research](ingroup-representation-distinct-from-diversity.md) — related
+- Ingroup representation and racial/ethnic diversity are distinct constructs that are often conflated in school diversity research — related

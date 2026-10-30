@@ -9,6 +9,7 @@ generated:
   at: 2026-10-30
 evidence_strength: moderate
 newest_evidence: 2018
+recheck_by: 2023
 sources:
   - id: vega-hernández-2018
     resource: "https://doi.org/10.1016/j.compedu.2018.03.004"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Mean consideration scores (M = 43.39) exceeded mean use scores (M = 36.37) overall and in every branch. [→ Vega-Hernández 2018](#vega-hernandez-2018)

@@ -45,4 +45,4 @@ This is the authors' expert assertion in the outline's opening points, not a tes
 
 
 ## Related Claims
-- [The authors assert that complete case records provide the only accurate criterion of what an institution has accomplished](case-records-criterion-institutional-accomplishment.md) — related
+- The authors assert that complete case records provide the only accurate criterion of what an institution has accomplished — related

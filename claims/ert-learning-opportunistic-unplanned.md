@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: abaci-2021
     resource: "https://doi.org/10.1007/s11423-020-09839-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` ERT professional learning was opportunistic rather than planned and had no clear duration due to uncertainty about when schools would return to normal. [→ Abaci 2021](#abaci-2021)

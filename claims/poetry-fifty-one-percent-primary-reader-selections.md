@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1921
+recheck_by: 1926
 sources:
   - id: new-publications-in-educational-psychology-and-related-fields-of-education-1921
     resource: "https://books.google.com"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
-> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1926**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In Dunn's analysis of twenty-nine school readers, poetry made up fifty-one per cent of all selections. [→ NEW PUBLICATIONS IN EDUCATIONAL PSYCHOLOGY AND RELATED FIELDS OF EDUCATION 1921](#new-publications-in-educational-psychology-and-related-fields-of-education-1921)
@@ -45,6 +46,9 @@ Content analysis of twenty-nine school readers reported in the review of Dunn's 
 
 
 ## Related Claims
+
 - [Fictitious stories with repetitions made up forty-five per cent of selections, while stories intended for belief were found only as a trace](fiction-forty-five-percent-belief-stories-trace.md) — related
 - [Analysis of twenty-nine school readers showed lack of accepted criteria for inclusion and disagreement over grade placement of materials](no-accepted-criteria-primary-reader-selection.md) — related
-- [Dunn's preference study submitted thirty-one selections in pairs to one hundred ninety-five classes, with adult judges ranking twenty listed qualities and partial correlations isolating nine interest factors](paired-ballot-preference-study-195-classes.md) — related
+- Dunn's preference study submitted thirty-one selections in pairs to one hundred ninety-five classes, with adult judges ranking twenty listed qualities and partial correlations isolating nine interest factors — related
+- [Bagley and Rugg's analysis of twenty-three US history textbooks (1865–1912) shows a shift from military toward political, economic and social content](bagley-rugg-textbook-shift-civil-military.md)
+- [Horn found modern-problems books concentrate overwhelmingly on 1861–1916 and on social and economic topics, unlike elementary history texts](horn-modern-problems-vs-textbook-emphasis.md)

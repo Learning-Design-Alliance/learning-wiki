@@ -71,4 +71,4 @@ Narrative review reporting Graham et al.'s (2022) synthesis of four longitudinal
 - [School racial/ethnic composition effects on kindergarten outcomes are about half the size of parent education effects but non-negligible](composition-effects-half-parent-education-size.md) — related
 - [Teachers' provision of opportunities to belong predicts Black and Latine students' class engagement and overall school engagement](opportunities-to-belong-predict-engagement.md) — related
 - [Positive effects of school-level ethnic diversity on outgroup attitudes and perceived fair treatment no longer hold when students' classes are less diverse than their schools](diversity-benefits-require-equitable-class-representation.md) — related
-- [Ingroup representation and racial/ethnic diversity are distinct constructs that are often conflated in school diversity research](ingroup-representation-distinct-from-diversity.md) — related
+- Ingroup representation and racial/ethnic diversity are distinct constructs that are often conflated in school diversity research — related

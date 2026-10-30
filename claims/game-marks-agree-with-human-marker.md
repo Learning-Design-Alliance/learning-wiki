@@ -9,6 +9,7 @@ generated:
   at: 2026-10-30
 evidence_strength: moderate
 newest_evidence: 2008
+recheck_by: 2011
 sources:
   - id: blumenstein-2008
     resource: "https://doi.org/10.1016/j.compedu.2006.11.006"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`
-> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2011**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Statistical comparison of GAME's marking against a human marker on student programming exercises and assignments shows encouraging agreement. [→ Blumenstein 2008](#blumenstein-2008)

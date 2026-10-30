@@ -17,7 +17,7 @@ sources:
 # Education journal editors adopt staged TOP-aligned transparency policies, enforced with the TOP Statement
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that editors, publishers, and editorial committees at educational psychology journals adopt transparency policies in stages, emulating higher-rated journals in other branches of psychology. Editors can "filter policies by the topic that is easiest to engage with", modeling Level 2 mandates for materials and code sharing while adopting Level 1 disclosure for data transparency. Use of the TOP Statement, a standardized disclosure questionnaire, can simplify enforcement and complies with funder expectations such as IES's SEER standards.
@@ -44,7 +44,6 @@ The article recommends that editors, publishers, and editorial committees at edu
 ## Claims
 
 - [Offering Open Science Badges is associated with increased uptake of data and materials sharing and preregistration](../claims/open-science-badges-associated-uptake.md) [+W]
-- [Most evaluated journals score low on the TOP Factor, with a mean of 3.36 and a median of 1 out of a possible 29 points](../claims/top-factor-journal-scores-low-mean-3-36.md) [+W]
 
 ## Related Strategies
 

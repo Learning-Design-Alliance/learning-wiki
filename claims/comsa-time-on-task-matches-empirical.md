@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: brendan-a-schuetze-2024
     resource: "https://doi.org/10.1007/s10648-024-09853-6"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The overall distributions of simulated and empirical correlations showed clear resemblance, with Godwin et al. (2021) data showing slightly smaller correlations on average. [→ Brendan A. Schuetze 2024](#brendan-a-schuetze-2024)
@@ -48,5 +49,5 @@ Comparison of CoMSA simulation output to empirical benchmark from Godwin et al. 
 - [RI-CLPM on simulated PALMA-like data shows positive reciprocal cross-lagged effects between within-individual math achievement and self-concept](riclpm-simulated-palma-positive-reciprocal-effects.md) — related
 - [Time-reversed analysis of simulated data suggests a decreasing rather than increasing effect of self-concept on achievement, yielding inconsistent conclusions from the same data](time-reversed-model-suggests-decreasing-self-concept-effect.md) — related
 - [Validation with simulated TRAIN-like data replicates the divergence: RI-CLPM positive, LCSM negative, ESDM no-direct-effects](train-validation-divergent-model-findings.md) — related
-- [Good fit of the ESDM indicates the PALMA data could have been generated without any prospective effects between achievement and self-concept](esdm-fit-suggests-spurious-prospective-effects.md) — related
+- Good fit of the ESDM indicates the PALMA data could have been generated without any prospective effects between achievement and self-concept — related
 - [The RI-CCLPM-C indicates a positive self-concept effect on achievement even when data are generated without any direct effects between self-concept and achievement](ri-cclpm-c-positive-effect-without-causal-datagenerating-process.md) — related

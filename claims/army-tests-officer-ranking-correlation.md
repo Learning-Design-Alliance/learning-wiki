@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1921
+recheck_by: 1924
 sources:
   - id: geyer-1921
     resource: "https://www.jstor.org/journal/jeduapsy"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
-> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1924**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i3` In twelve companies the average correlation between rankings by intelligence tests and officers' rankings by soldier value was 0.536, ranging from 0.64 to 0.75 in seven of the twelve companies. [→ Geyer 1921](#geyer-1921)

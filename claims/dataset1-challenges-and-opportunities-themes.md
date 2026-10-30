@@ -10,6 +10,7 @@ generated:
 evidence_strength: weak
 newest_evidence: 2025
 source_checked: 2026-10-27
+recheck_by: 2030
 sources:
   - id: ulla-hemminki-reijonen-2025
     resource: "https://doi.org/10.1038/s41539-025-00326-1"
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-27 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-27 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` University teachers reported challenges including lack of resources, lack of knowledge, and lack of appropriate digital tools. [→ Ulla Hemminki-Reijonen 2025](#ulla-hemminki-reijonen-2025)
@@ -71,7 +72,7 @@ Within the opportunities theme of Dataset 1, teachers described using VR to "dem
 - [Respondents identified algorithmic bias (31.9%), data privacy (27.5%), and technical reliability (27.5%) as the primary risks of AI in education](rfi-ai-risks-bias-privacy-reliability.md) — related
 - [Teachers' digital competence is a critical factor influencing both AI tool adoption and its pedagogical effectiveness](teacher-digital-competence-critical-ai-adoption.md) — related
 - [AI integration is associated with improvements in teaching, learning, and administrative efficiency in higher education when supported by adequate infrastructure](ai-integration-improves-teaching-learning-admin-efficiency.md) — related
-- [Educators' ideas on AI and VR in teaching were classified into three main categories: AI acting as a character, emerging technology to assist students' learning, and emerging technology to help the teacher](educator-needs-three-categories-ai-vr.md) — related
+- Educators' ideas on AI and VR in teaching were classified into three main categories: AI acting as a character, emerging technology to assist students' learning, and emerging technology to help the teacher — related
 - [Domain-expert testing indicated the two GAI characters fulfilled 9 of the 12 educator needs identified in the needs analysis](domain-expert-evaluation-9-of-12-needs.md)
 - [Teachers identified cost, bulky headsets, Wi-Fi connectivity, and technical issues as key challenges to integrating VR into ML2 teaching](vr-challenges-cost-headsets-wifi.md) — related
 - [Academics reconstructed teacher identities by integrating accessible digital tools such as WhatsApp and Google Earth into teaching](accessible-digital-tools-identity-reconstruction.md) — related

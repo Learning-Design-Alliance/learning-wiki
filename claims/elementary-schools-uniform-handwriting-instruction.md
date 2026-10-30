@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1912
+recheck_by: 1915
 sources:
   - id: king-1912
     resource: "https://doi.org/10.1037/h0071006"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 1912 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1912 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1915**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` The six elementary schools ranked fairly close together, which the authors read as evidence that handwriting instruction is fairly uniform across the system. [→ King 1912](#king-1912)

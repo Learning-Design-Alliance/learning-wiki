@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: cornelia-schoor-2024
     resource: "https://doi.org/10.1037/edu0000849"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q3 i?` The likelihood of selecting a personal-experiences source was higher in a personal context without an external audience than in a university context. [→ Cornelia Schoor 2024](#cornelia-schoor-2024)

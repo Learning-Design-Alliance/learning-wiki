@@ -45,6 +45,6 @@ Synthesis of coded outcomes across the 78 experiments in the review's RQ3 analys
 
 
 ## Related Claims
-- [EMME study designs vary widely: most experiments added information, used dynamic scan-path visualizations, and over half did not report how eye movement data were processed](emme-design-heterogeneity.md) — related
+- EMME study designs vary widely: most experiments added information, used dynamic scan-path visualizations, and over half did not report how eye movement data were processed — related
 - [Most EMME experiments that measured immediate learning scores reported at least one positive effect of gaze visualization on immediate learning](emme-positive-immediate-learning-effects.md) — related
 - [Prior knowledge may moderate EMME effectiveness, but support for novices benefiting more is inconsistent across studies](emme-prior-knowledge-moderation-inconsistent.md) — related

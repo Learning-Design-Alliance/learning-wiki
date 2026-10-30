@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: delcker-2025
     resource: "https://doi.org/10.1007/s11423-024-10418-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` A high score on the PF scale could reflect either an AI-competent teacher seeking growth or a teacher with low perceived competence closing gaps; similarly, a positive AT score may reflect non-critical reflection rather than high competence. [→ Delcker 2025](#delcker-2025)
@@ -45,4 +46,4 @@ The authors' interpretation in the discussion of their CFA results: the PF dimen
 
 
 ## Related Claims
-- [Perceived AI competence is best modeled as a latent factor over four dimensions after removing PF and AT](single-factor-model-without-pf-and-at.md) — related
+- Perceived AI competence is best modeled as a latent factor over four dimensions after removing PF and AT — related

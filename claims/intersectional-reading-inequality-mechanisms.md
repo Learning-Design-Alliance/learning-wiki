@@ -46,4 +46,4 @@ Narrative synthesis in the article's background section, citing Codiroli McMaste
 
 ## Related Claims
 - [Family, schoolmate, teacher, and student characteristics are linked to SOBAS and account for most of its variance](multi-level-characteristics-linked-sobas.md) — related
-- [In the PISA 2018 German illustration, students were assigned to 40 intersectional strata with sample sizes ranging from 3 to 512](pisa-germany-40-strata-sample-sizes.md) — related
+- In the PISA 2018 German illustration, students were assigned to 40 intersectional strata with sample sizes ranging from 3 to 512 — related

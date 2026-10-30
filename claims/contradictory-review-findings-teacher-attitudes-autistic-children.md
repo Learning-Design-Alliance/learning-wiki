@@ -65,6 +65,8 @@ Narrative summary of the Han and Cumming (2024) review of 33 studies on teachers
 
 
 ## Related Claims
+
 - A systematic review identified 52 instruments assessing teachers' competence for inclusive teaching of autistic children, with 28 assessing knowledge, 26 beliefs, and 11 motivation — related
 - [Reported teacher self-efficacy for teaching autistic children differs across countries, with relatively high levels in Ireland and the opposite conclusion for German teachers](country-differences-teacher-self-efficacy-autistic-children.md) — related
 - The most frequently adapted instruments predate the DSM-5, including Stone's 1987 Autism Knowledge Survey (adapted six times) and Olley et al.'s 1981 attitude scale — related
+- [Almost all reviewed instruments target general knowledge about autism rather than teachers' knowledge of autism-specific evidence-based practices, for which only two quantitative studies were found](knowledge-practices-gap-autism-teacher-instruments.md)

@@ -47,7 +47,7 @@ This is the editorial's own interpretive synthesis of the seven responses, offer
 ## Related Claims
 - [OER adoption is expected to save students money and close the achievement gap in the short term, but this benefit will likely disappear over the longer term](oer-cost-savings-short-term-only.md) — related
 - [Synthesized studies of OER in college courses found academic outcomes comparable to traditional textbooks and positive perceptions among students and instructors](oer-outcomes-comparable-perceptions-positive.md) — related
-- [Simulation analysis shows failure to account for the access hypothesis likely prevents detecting any effect of OER adoption on student outcomes](access-hypothesis-masks-oer-effects-simulation.md) — related
+- Simulation analysis shows failure to account for the access hypothesis likely prevents detecting any effect of OER adoption on student outcomes — related
 - [Students achieve the same or better learning outcomes when using OER compared to commercial textbooks, while saving significant amounts of money.](oer-same-or-better-learning-outcomes-2015-2018.md) — related
 - [Students using OER save significant amounts of money compared to purchasing commercial textbooks.](oer-significant-cost-savings-students.md) — related
 - [Open textbooks appear to offer financial benefits to students without decreasing learning outcomes in higher education](open-textbooks-financial-benefits-without-learning-decrease.md) — related

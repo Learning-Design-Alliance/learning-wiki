@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1915
+recheck_by: 1920
 sources:
   - id: kelley-1915
     resource: "https://www.jstor.org/journal/jeducpsych"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
-> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1920**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Waugh's mental tests of the same college students as freshmen and as seniors showed improvements of 4.6% in attention (cancellation), 4.2% in speed of learning, 2% in association, 44.7% in range of information, and 19% in class standing. [→ Kelley 1915](#kelley-1915)

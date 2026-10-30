@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1917
+recheck_by: 1920
 sources:
   - id: lewis-m-terman-and-clara-harbison-town-1917
     resource: "https://www.jstor.org"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
-> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1920**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The final Binet-Simon revision is of unequalled value in diagnosing and classifying defective children, but is absolutely inapplicable to many cases, especially children with defects as opposed to defective children. [→ Lewis M. Terman and Clara Harbison Town 1917](#lewis-m-terman-and-clara-harbison-town-1917)

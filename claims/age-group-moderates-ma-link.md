@@ -47,4 +47,4 @@ Moderation analysis of age group (Table 2: χ2 = 3.95, p = .047) comparing child
 ## Related Claims
 - [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](math-anxiety-degrades-performance.md) — a broader claim this one bears on
 - [Type of math task moderates the math anxiety–performance link: basic numerical knowledge shows the weakest correlation (r = −.22) and applied math among the strongest (r = −.31)](math-task-type-moderates-ma-link.md) — related
-- [Prior knowledge research is conducted mostly with adults (40.71%) and in postsecondary education (46.31%), based on available database records](prior-knowledge-research-adult-postsecondary-skew.md) — related
+- Prior knowledge research is conducted mostly with adults (40.71%) and in postsecondary education (46.31%), based on available database records — related

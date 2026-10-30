@@ -32,7 +32,8 @@ iGuides is a web-based museum-trail system created by StreetAccess that delivers
 - [Web-based museum trails enhanced design students' knowledge of, interest in, and closeness to museum objects](../claims/trails-enhanced-knowledge-interest-closeness-objects.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [UbiTrail](ubitrail.md)
 
 ## Key Sources
 - Reynolds, R., Walker, K., & Speight, C. (2010). Web-based museum trails on PDAs for university-level design students: Design and evaluation. Computers & Education. https://doi.org/10.1016/j.compedu.2010.04.010

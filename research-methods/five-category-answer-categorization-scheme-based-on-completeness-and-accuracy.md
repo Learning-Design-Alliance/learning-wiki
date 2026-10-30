@@ -24,7 +24,8 @@ A student's answer is characterized in terms of completeness and accuracy, yield
 ### Claims
 
 ## Related Research Methods
--
+
+- [General Assessment Framework for Automated Marking Across Domains](general-assessment-framework-for-automated-marking-across-domains.md)
 
 ## Key Sources
 - Grivokostopoulou, F., Perikos, I., & Hatzilygeroudis, I. (2016). An Educational System for Learning Search Algorithms and Automatically Assessing Student Performance. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-016-0116-x

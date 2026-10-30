@@ -17,7 +17,7 @@ sources:
 # Probe implicit statistical learning with concurrently demanding tasks to test whether learning is capacity limited
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (3 for, 3 mixed) · 3 studies (2 review, 1 causal), `q2`–`q3` · 0 of 3 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (2 for, 3 mixed) · 3 studies (2 review, 1 causal), `q2`–`q3` · 0 of 3 report an effect size · 5 claims rest on one study
 
 ## Description
 The article pairs a probabilistic auditory statistical-learning paradigm with a secondary working memory task (N-back) whose difficulty is manipulated, so that learning can be assessed while "cognitive resources are taxed by concurrent demands". Behavioral verification that the secondary task slows and degrades performance establishes that the load was real before interpreting any absence of modulation of the learning measure. This design lets researchers ask whether implicit learning proceeds automatically or competes for resources, and the authors suggest extending it by manipulating perceptual load or using verbal working memory to test cross-modal resource sharing.
@@ -41,7 +41,6 @@ The article pairs a probabilistic auditory statistical-learning paradigm with a 
 
 ## Claims
 
-- [Concurrent cognitive load was successfully manipulated: participants were slower and less accurate on the high-load (2-back) than low-load (1-back) working memory task](../claims/n-back-load-manipulation-verified-slower-less-accurate.md) [+W]
 - [No reliable reduction in auditory prediction-error magnitude under high versus low cognitive load, with the load-by-surprise interaction absent in frequentist and Bayesian analyses](../claims/no-load-by-surprise-interaction-statistical-learning.md) [+W]
 - [Statistical learning of probabilistic regularities persists under high concurrent cognitive load, with the surprise-by-variance effect preserved in both low- and high-load conditions](../claims/statistical-learning-preserved-under-high-cognitive-load.md) [+W]
 - [The absence of a load effect may reflect cross-modality design: visual load may spare auditory resources, and load was not sustained to full capacity](../claims/cross-modality-load-limitation-statistical-learning.md) [~W]

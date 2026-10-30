@@ -17,7 +17,7 @@ sources:
 # Use immersive VR simulations to let students experience complex scientific phenomena that are hard to experience in everyday life
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 2 studies (1 review, 1 design), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 2 studies (1 review, 1 design), `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The article recommends, as the rationale for its LX design, using immersive VR simulations so that students can experience complex scientific phenomena through "realistic graphics and interactions that students can hardly experience in everyday life." In the study this strategy was applied to the Special Theory of Relativity in high-school Physics, with the simulation embedded in an inquiry-based learning process and evaluated for conceptual gains and perceptions.
@@ -41,7 +41,6 @@ The article recommends, as the rationale for its LX design, using immersive VR s
 
 - [Integrating immersive VR simulations in science classrooms introduces new challenges and there is a lack of learning designs to inform practice](../claims/immersive-vr-science-classrooms-challenges-lack-of-designs.md) [~W]
 - [An LX design integrating an immersive VR simulation in an inquiry-based Physics learning environment was enacted with 109 high-school students and evaluated for conceptual learning gains](../claims/lx-design-immersive-vr-special-relativity-109-students.md) [+W]
-- [A mixed-method approach was adopted to evaluate students' conceptual learning gains and their perceptions of the immersive VR simulation and inquiry-based learning process](../claims/mixed-method-evaluation-gains-and-perceptions-immersive-vr.md) [+W]
 - [Immersive VR simulation increased self-efficacy and intrinsic motivation more than a conventional safety manual in laboratory safety training](../claims/immersive-vr-boosted-self-efficacy-intrinsic-motivation.md) [+W]
 
 ## Related Strategies

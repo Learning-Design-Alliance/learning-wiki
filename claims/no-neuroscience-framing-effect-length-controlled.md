@@ -47,6 +47,6 @@ Null finding from the same framing experiment, discussed in the Discussion secti
 ## Related Claims
 - [Composite credibility scores differ significantly between the AI frame and both the neuroscience and educational psychology frames](ai-frame-lower-composite-credibility.md) — related
 - [Framing educational research evidence within AI reduces its perceived credibility compared with neuroscience and educational psychology frames (the in-credible AI effect)](in-credible-ai-effect-reduced-credibility.md) — related
-- [Educators judge AI-framed educational evidence as significantly less credible than educational-psychology-framed evidence](educators-ai-frame-less-credible.md) — related
+- Educators judge AI-framed educational evidence as significantly less credible than educational-psychology-framed evidence — related
 - [The public perceives AI as less helpful for understanding how children learn, less adherent to scientific methods, and less prestigious than neuroscience and educational psychology](negative-attitudes-toward-ai-discipline.md) — related
 - [Familiarity with the article topic correlates positively with bias against credibility of framed evidence](familiarity-correlates-credibility-bias.md) — related

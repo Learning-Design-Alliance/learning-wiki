@@ -28,6 +28,7 @@ The review establishes a hierarchical taxonomy for organizing the variety of sel
 
 - [Working classification of chatbot and language-model technologies for AI coaching](working-classification-of-chatbot-and-language-model-technologies-for-ai-coaching.md)
 - [Taxonomy of algebraic thinking operationalizations: global measures versus specific facets](taxonomy-of-algebraic-thinking-operationalizations-global-measures-versus-specific-facets.md)
+- [Four-way classification of regulative activity: self-regulation, mirroring, formative assessment, coaching](four-way-classification-of-regulative-activity-self-regulation-mirroring-formative-assessm.md)
 
 ## Key Sources
 - Jiang, Y., Zhang, Y., Brown Campbell, K.-A., Zhong, T., Zehner, T., James, V., Devlin, B., Geer, E., Shire, S., & Schmitt, S. (2025). Untangling Conceptual Clutter: A Systematic Review of Adult-Reported Self-Regulation Measurement in Children Aged 0–8 Years. Educational Psychology Review. https://doi.org/10.1007/s10648-025-10066-8

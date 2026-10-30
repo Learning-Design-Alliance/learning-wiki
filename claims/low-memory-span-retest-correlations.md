@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 1918
+recheck_by: 1921
 sources:
   - id: mitchell-1918
     resource: "https://www.google.com/search?q=%22Variability+in+Memory+Span%22+Mitchell+1918"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
-> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1921**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Across 45 inter-trial correlations for 97 children tested on ten days, the average coefficient was 0.37 for Consecutive Series scores and 0.54 for Maximum Series scores, with only two exceeding 0.70. [→ Mitchell 1918](#mitchell-1918)
@@ -54,7 +55,7 @@ Correlational analysis of the ten-day study: 45 coefficients computed among tria
 - [The digit memory-span increases with age rather than with grade-promotion measures of intelligence, reaching a limit of six digits for most grammar and high school pupils](memory-span-increases-with-age-not-intelligence.md) — related
 - [Psychological methods of fatigue measurement afford useful average values and reliable information about the course and effect of fatigue (Offner)](psychological-methods-useful-fatigue-information.md) — reports the opposite
 - [During the final fatigue test, time per problem rose gradually, then markedly, with no obvious correlation between time and accuracy](fatigue-time-rise-no-accuracy-correlation.md) — related
-- [The study's conclusions rest on only sixty-five individually tested unretarded cases, limiting generalization](conclusions-rest-on-sixty-five-individual-cases.md) — related
+- The study's conclusions rest on only sixty-five individually tested unretarded cases, limiting generalization — related
 - [Mental index ratings on the group test showed close correspondence over a two-year interval (r = .72, rank correlation .77) among 46 retested children](mental-index-two-year-reliability.md) — related
 - [Auditory memory (digit-span) tests are overrepresented in the adult scale and depress the rankings of otherwise high-performing students](caldwell-1919-auditory-memory-overweighting.md) — related
 - [Longer letter series yield somewhat higher average scores because they offer opportunities for occasional high scores via mental grouping](longer-series-higher-scores-grouping.md) — related

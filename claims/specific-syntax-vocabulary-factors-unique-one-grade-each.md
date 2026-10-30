@@ -51,5 +51,5 @@ Structural analysis of the bifactor model tested whether residual variance in sy
 ## Related Claims
 - [A general oral language factor comprising syntax and vocabulary indicators significantly predicts reading comprehension in all grades 4–10, in models whose latent factors together account for 72%–99% of its variance](general-oral-language-factor-predicts-comprehension.md) — a broader claim this one bears on
 - [Decoding fluency did not uniquely predict reading comprehension in any grade 4–10, though it correlated moderately with comprehension (.47–.74)](decoding-fluency-no-unique-prediction-grades-4-10.md) — related
-- [A bifactor model of oral language and reading fits better than one-, three-, and four-factor models in every grade from 4th through 10th](bifactor-model-best-fit-grades-4-10.md) — related
+- A bifactor model of oral language and reading fits better than one-, three-, and four-factor models in every grade from 4th through 10th — related
 - [No common underlying proficiency emerges for oral language: bifactor models of expressive and definitional vocabulary did not converge](no-common-underlying-proficiency-oral-language.md) — related

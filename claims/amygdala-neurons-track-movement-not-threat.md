@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2017
+recheck_by: 2020
 sources:
   - id: paré-2017
     resource: "https://doi.org/10.1038/s41539-017-0007-4"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In the foraging task, Type-1 basolateral amygdala neuron firing was opposite to threat-coding predictions, becoming nearly silent near the predator, and across three tasks neither threat proximity nor reward availability predicted BL activity — movement did. [→ Paré 2017](#pare-2017)

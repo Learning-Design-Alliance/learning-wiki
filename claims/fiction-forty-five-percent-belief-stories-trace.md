@@ -48,4 +48,3 @@ Content analysis of twenty-nine school readers reported in the Dunn review. The 
 
 - [Content analysis of twenty-nine school readers found poetry constituted fifty-one per cent of all selections](poetry-fifty-one-percent-primary-reader-selections.md) — related
 - [Analysis of twenty-nine school readers showed lack of accepted criteria for inclusion and disagreement over grade placement of materials](no-accepted-criteria-primary-reader-selection.md)
-- [Dunn's preference study submitted thirty-one selections in pairs to one hundred ninety-five classes, with adult judges ranking twenty listed qualities and partial correlations isolating nine interest factors](paired-ballot-preference-study-195-classes.md)

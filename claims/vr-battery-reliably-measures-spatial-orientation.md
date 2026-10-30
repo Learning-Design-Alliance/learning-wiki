@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: malanchini-2020
     resource: "https://doi.org/10.1038/s41539-020-0067-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` A novel gamified VR battery of six spatial orientation tests showed good test–retest reliability and captured individual differences in a large twin sample. [→ Malanchini 2020](#malanchini-2020)
@@ -48,5 +49,5 @@ Psychometric validation of the six-test VR spatial orientation battery in the TE
 - [Males outperformed females on all six spatial orientation tests, with effect sizes ranging from small to moderate (R2 = 0.03 to 0.17)](sex-differences-spatial-orientation-tests-males-outperform.md) — related
 - [Test-retest correlations of memory span are low, questioning the validity of a single memory span test](low-memory-span-retest-correlations.md) — related
 - [The tendency to follow advice shows good test-retest reliability across two sessions (~0.73), behaving as a stable trait-like bias](advice-following-test-retest-reliability.md) — related
-- [The six spatial orientation tests cluster into a single Navigation factor that is 64% heritable and captures 66–100% of each test's heritability](navigation-factor-64-percent-heritable.md) — related
+- The six spatial orientation tests cluster into a single Navigation factor that is 64% heritable and captures 66–100% of each test's heritability — related
 - [The Who Has More task showed moderate test-retest reliability (r = .46) in preschoolers, and the authors call for more stable ANS measures for this age](ans-task-moderate-test-retest-reliability-preschoolers.md) — related

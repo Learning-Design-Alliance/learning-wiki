@@ -46,7 +46,7 @@ Table S2b (Study 1) reports zero-order correlations between a single boredom ite
 
 ## Related Claims
 - [Measurement noninvariance across over- versus underchallenged situations showed small dMACS effect sizes for the two non-reference boredom items](dmacs-small-noninvariance-boredom-items.md) — related
-- [Residual covariances were specified between specific item pairs in the Study 1 measurement-invariance test of the TBS-S across difficult and easy test parts](tbs-s-residual-covariances-invariance.md) — related
+- Residual covariances were specified between specific item pairs in the Study 1 measurement-invariance test of the TBS-S across difficult and easy test parts — related
 - [Abundance hypothesis: state test boredom relates negatively to performance on the difficult test part but not the easy part](abundance-hypothesis-overchallenge-boredom-performance.md) — related
 - [Test boredom relates positively to over- and underchallenge and negatively to intrinsic and extrinsic value](test-boredom-antecedents-control-value.md) — related
 - [Test boredom correlates negatively with math grades but not with the math test score in Study 1](test-boredom-negative-grades-not-test-score.md) — related

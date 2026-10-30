@@ -17,7 +17,7 @@ sources:
 # Study math-skill brain-structure associations with large, well-powered samples and age-specific groups
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article recommends that associations between math skills and brain structure be studied with large sample sizes, "in line with current recommendations in the field", because small brain-wide association studies are underpowered. It also calls for "Future well-powered studies with more specific age groups" to test how the structure-arithmetic relation changes with age, since even n > 500 did not allow reliable subgroup analyses split by age.
@@ -38,7 +38,6 @@ The article recommends that associations between math skills and brain structure
 
 ## Claims
 
-- [Prior structural brain-wide association studies of arithmetic skills used small samples (n = 11 to n = 59), risking inflated, hard-to-replicate effects](../claims/small-sample-bwas-arithmetic-underpowered.md) [+W]
 
 ## Related Strategies
 - 

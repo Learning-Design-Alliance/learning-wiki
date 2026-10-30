@@ -45,4 +45,4 @@ Theoretical argument using a hypothetical example: a study finding bullying more
 
 
 ## Related Claims
-- [Nonexperimental designs, including natural experiments and structural equation modeling, can inform cause-effect relationships to a degree that depends on study design and analysis](nonexperimental-designs-inform-causal-effects.md) — related
+- Nonexperimental designs, including natural experiments and structural equation modeling, can inform cause-effect relationships to a degree that depends on study design and analysis — related

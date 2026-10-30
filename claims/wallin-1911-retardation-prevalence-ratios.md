@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 1911
+recheck_by: 1916
 sources:
   - id: j-k-w-wallin-1911
     resource: "https://psycnet.apa.org/journal/edu"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
-> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1916**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In early-twentieth-century American school surveys, pupils behind grade outnumber accelerated pupils by wide margins, e.g., 57.5 per cent behind versus 8 per cent ahead among 8942 graded pupils in Bureau county, Illinois. [→ J. K. W. Wallin 1911](#j-k-w-wallin-1911)

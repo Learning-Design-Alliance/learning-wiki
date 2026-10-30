@@ -25,7 +25,8 @@ UbiTrail is a generic trail-management model and architecture developed by Silva
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [iGuides](iguides.md)
 
 ## Key Sources
 - João H. Rosa, Jorge L. V. Barbosa, Marcos Kich, Lucas Brito. (2015). A Multi-Temporal Context-aware System for Competences Management. Int J Artif Intell Educ 25:455–492. https://doi.org/10.1007/s40593-015-0047-y

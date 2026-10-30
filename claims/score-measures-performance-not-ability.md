@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1917
+recheck_by: 1920
 sources:
   - id: monroe-1917
     resource: "https://eric.ed.gov/?q=Kansas+Silent+Reading+Tests"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q1`
-> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1920**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` A score is a measure of performance at a given time under given conditions; ability can be inferred only when the conditions attending the performance are known. [→ Monroe 1917](#monroe-1917)

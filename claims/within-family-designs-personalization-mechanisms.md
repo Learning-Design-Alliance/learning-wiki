@@ -67,4 +67,4 @@ A proposal, not a finding: the commentary suggests within-family designs could d
 - [The article proposes testing whether siblings whose traits more closely match their parents' traits learn more, as a hypothesis not yet empirically modeled](optimal-match-hypothesis-sibling-parent-trait-match.md) — related
 - [SEAs differentiate support to districts based on the number of CSI/TSI-identified schools, district capacity, and district willingness to engage.](seas-differentiate-support-by-district-characteristics.md) — related
 - [Parents' school choices were constrained by disability-linked safety fears and transportation barriers](iep-parents-safety-transportation-constraints.md) — related
-- [Within-family designs cannot test effects of socioeconomic background or ethnicity on sibling divergence because these characteristics are shared within families](within-family-designs-scope-limit-shared-characteristics.md) — related
+- Within-family designs cannot test effects of socioeconomic background or ethnicity on sibling divergence because these characteristics are shared within families — related

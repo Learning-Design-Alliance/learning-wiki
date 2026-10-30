@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: minkang-kim-2021
     resource: "https://doi.org/10.1038/s41539-021-00116-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i2` medium
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q3 i2` Between Protesters and Non-Protesters there was a significant Group × Condition interaction on central LPP amplitude, F(1, 40) = 4.286, p = 0.045, f = 0.328, with non-protesters showing reduced LPP to harm (Cohen's d = 0.518). [→ Minkang Kim 2021](#minkang-kim-2021)

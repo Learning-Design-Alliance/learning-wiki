@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: delcker-2025
     resource: "https://doi.org/10.1007/s11423-024-10418-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The study's findings suggest that the different competence dimensions of AI competence are currently unequally developed among surveyed teachers. [→ Delcker 2025](#delcker-2025)
@@ -45,6 +46,6 @@ Finding reported in the abstract of the survey study with N = 480 vocational sch
 
 
 ## Related Claims
-- [CFA partially supports the six-dimension structure of perceived AI competence](cfa-partially-supports-six-dimension-structure.md) — related
-- [Perceived AI competence is best modeled as a latent factor over four dimensions after removing PF and AT](single-factor-model-without-pf-and-at.md) — related
+- CFA partially supports the six-dimension structure of perceived AI competence — related
+- Perceived AI competence is best modeled as a latent factor over four dimensions after removing PF and AT — related
 - [Interest profiles combine homogeneous and heterogeneous patterns across the six dimensions](interest-profiles-homogeneous-and-heterogeneous-patterns.md) — related

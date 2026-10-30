@@ -52,4 +52,4 @@ The survey attributes this to Aiba et al. (2024), describing a system where lear
 - [Combining AI-generated information with teacher intervention is associated with improved student performance, participation, confidence, and reduced anxiety in K-12 AI-based instruction](ai-plus-teacher-intervention-student-benefits.md) — related
 - [AI-enhanced simulation in high-acuity nursing training improves clinical confidence and emergency preparedness](ai-simulation-improves-clinical-confidence-nursing.md) — related
 - [Guiding analytics for learners can improve mathematics achievement, retention, learning strategies, and reduce math anxiety](guiding-analytics-improves-achievement-and-strategies.md) — related
-- [Before their first presentation, students in the two experimental groups did not differ in anxiety, preparedness, or motivation](experimental-groups-similar-anxiety-preparedness-motivation.md) — related
+- Before their first presentation, students in the two experimental groups did not differ in anxiety, preparedness, or motivation — related

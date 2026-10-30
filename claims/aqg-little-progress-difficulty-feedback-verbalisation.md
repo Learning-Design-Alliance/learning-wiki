@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: ghader-kurdi-2020
     resource: "https://doi.org/10.1007/s40593-019-00186-y"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The AQG literature since 2015 shows little focus on controlled difficulty, enriching question forms, automating template construction, presentation improvement, and feedback generation. [→ Ghader Kurdi 2020](#ghader-kurdi-2020)
@@ -46,6 +47,6 @@ The review's OBJ4 analytical questions tracked evolution since Alsubait's review
 
 ## Related Claims
 - [Assessment remains the dominant purpose of educational AQG, mirroring pre-2014 findings](aqg-assessment-dominant-purpose.md) — related
-- [AQG evaluation suffers from insufficient and heterogeneous experimental reporting and metrics](aqg-evaluation-reporting-gaps.md) — related
+- AQG evaluation suffers from insufficient and heterogeneous experimental reporting and metrics — related
 - [LLM-assigned difficulty labels fail to predict empirical item difficulty in classroom retrieval practice (ρ=0.06), as do co-generated Bloom levels (ρ=0.02)](llm-difficulty-labels-fail-to-predict-empirical-item-difficulty.md) — reports the opposite
 - [Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning](feedback-answers-three-questions-improves-learning.md) — related

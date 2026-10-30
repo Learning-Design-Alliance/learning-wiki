@@ -48,5 +48,5 @@ Post-hoc exploratory mediation analyses reversing the mediator and predictor (br
 - [Impulsivity partially mediates the relationships of left cerebellar and right caudate gray matter volumes with college GPA](impulsivity-partially-mediates-brain-gpa-links.md) — related
 - [Cerebellar and caudate gray matter volumes correlate in opposite directions with trait impulsivity in college students](cerebellum-caudate-gmv-opposite-impulsivity-correlations.md) — related
 - [In college students, gray matter volume of the cerebellum is positively associated with GPA, while caudate nucleus and left lateral orbitofrontal cortex volumes are negatively associated with GPA](cerebellum-positive-caudate-ofc-negative-gmv-gpa-college.md) — related
-- [The study's brain–GPA and impulsivity findings are limited to young adults and cannot support causal claims](cross-sectional-young-adult-neuro-gpa-limitations.md) — related
+- The study's brain–GPA and impulsivity findings are limited to young adults and cannot support causal claims — related
 - [Trait impulsivity is negatively associated with college GPA](impulsivity-negatively-associated-college-gpa.md) — related

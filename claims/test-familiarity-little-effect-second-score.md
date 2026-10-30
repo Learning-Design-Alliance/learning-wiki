@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1917
+recheck_by: 1920
 sources:
   - id: monroe-1917
     resource: "https://eric.ed.gov/?q=Kansas+Silent+Reading+Tests"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1920**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Comparing two sets of scores from cities that retook the tests shows second scores were conspicuously higher in some cases and lower in others, suggesting mere acquaintance with the test does not greatly influence a second score. [→ Monroe 1917](#monroe-1917)

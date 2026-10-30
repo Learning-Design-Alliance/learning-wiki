@@ -57,4 +57,4 @@ Qualitative interview study of 43 RJ experts and practitioners conducted between
 - Unexplicated definitions of key constructs introduce conceptual ambiguity that makes theory integration far less likely — a broader claim this one bears on
 - [Programs offering the highest levels of active student participation are those aimed at generally improving the school environment (Restorative Justice and SEHER), suggesting broad, systemic scope favors student decision-making roles](broad-systemic-scope-yields-highest-asp.md) — related
 - [Reviews agree that clear definition and delineation of TPACK's individual knowledge domains is rare and nearly impossible](tpack-knowledge-domains-poorly-delineated.md) — related
-- [Learning-community research suffers from unclear and inconsistent definitions of community](learning-community-definitions-inconsistent.md) — related
+- Learning-community research suffers from unclear and inconsistent definitions of community — related

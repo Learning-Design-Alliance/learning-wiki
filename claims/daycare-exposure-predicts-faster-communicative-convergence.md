@@ -45,4 +45,7 @@ Slope analysis of stereotype-driven adjustments across partner transitions (part
 
 
 ## Related Claims
+
 - [Stereotype-driven communicative adjustments are transiently prominent at the onset of interactions and decline as contrary evidence accumulates](stereotype-adjustments-decline-over-interactions.md) — related
+- [Sustained exposure to the most disadvantaged neighborhoods from age 2 to 17 substantially reduces the probability of high school graduation for both black and nonblack children](sustained-neighborhood-disadvantage-reduces-high-school-graduation.md)
+- [Neighborhood context is a transient ecological setting, with many families moving between neighborhood disadvantage quintiles during childhood](neighborhood-context-transient-frequent-mobility.md)

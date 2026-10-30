@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: morris-2025
     resource: "https://doi.org/10.1007/s40593-024-00395-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Longformer models that include both the summary and the source text achieve higher accuracy than RoBERTa models that consider only the summary, for both Content and Wording scores. [→ Morris 2025](#morris-2025)
@@ -48,4 +49,4 @@ Comparison of four finetuned encoder-only LLMs on a held-out test set of 702 sum
 ## Related Claims
 - [Domain adaptation through unsupervised pretraining gave mixed results: it slightly improved RoBERTa but degraded the Longformer for both Content and Wording](domain-adaptation-mixed-roberta-helped-longformer-hurt.md) — related
 - [SVM with RoBERTa sentence embeddings was the most accurate automatic scoring method (κ = .82) among the four tested combinations](roberta-svm-most-accurate-scoring-pisa.md) — related
-- [A principal component analysis distills the seven-criterion summary rubric into two components, Content and Wording, explaining approximately 73% of shared variance](pca-two-component-summary-rubric-content-wording.md) — related
+- A principal component analysis distills the seven-criterion summary rubric into two components, Content and Wording, explaining approximately 73% of shared variance — related

@@ -45,11 +45,11 @@ Theoretical argument in the integration section. The article argues that without
 
 
 ## Related Claims
-- [Jingle-jangle fallacies fragment SR research in education and impede cumulative progress](jingle-jangle-fallacies-fragment-sr-research.md) — related
+- Jingle-jangle fallacies fragment SR research in education and impede cumulative progress — related
 - [The stage-setting hypothesis emphasises long-term developmental interplay among EF, MC, SR and SRL](stage-setting-hypothesis-long-term-developmental-interplay.md) — related
 - [The compensatory hypothesis focuses on short-term interactions among EF, MC, SR and SRL that predict learning outcomes](compensatory-hypothesis-short-term-interactions.md) — related
 - [Poorly fluent readers use context clues more heavily than fluent readers, as a compensatory device](struggling-readers-use-context-clues-compensatorily.md) — a narrower finding that bears on this claim
 - [Both academic self-efficacy and AI self-efficacy are negatively associated with reported AI dependency, supporting a unified compensatory mechanism](self-efficacy-negatively-predicts-ai-dependency.md) — related
 - [Organizational-level support targeted four areas: coordination and leadership, professional norms, monitoring of instruction and learning, and resources](organizational-support-four-target-areas.md) — related
-- [Jingle-jangle fallacies plague motivation constructs, requiring explicit justification of construct distinctions](jingle-jangle-motivation-constructs.md) — related
+- Jingle-jangle fallacies plague motivation constructs, requiring explicit justification of construct distinctions — related
 - [The CONIC model proposes conscientiousness and interest can partly compensate for one another in explaining academic effort and achievement](conic-compensation-conscientiousness-interest.md) — a narrower finding that bears on this claim

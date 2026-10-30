@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: miciak-jeremy-2016
     resource: "https://doi.org/10.1037/edu0000096"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The article reports, citing Stuebing et al. (2012), that across three PSW operationalizations, identification rates were very low and PPVs were consistently low. [→ Miciak Jeremy 2016](#miciak-jeremy-2016)

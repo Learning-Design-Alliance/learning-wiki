@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: robert-a-mason-2021
     resource: "https://doi.org/10.1038/s41539-021-00107-6"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i3` Correlations between expert ratings and factor scores were significant for all four dimensions, strongest for concepts at the extremes (e.g. r = 0.74 overall and 0.97 at extremes for measurable magnitude). [→ Robert A. Mason 2021](#robert-a-mason-2021)

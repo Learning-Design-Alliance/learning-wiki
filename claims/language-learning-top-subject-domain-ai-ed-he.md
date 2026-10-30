@@ -53,5 +53,5 @@ A priori coding of subject domains across the 138 studies into 14 areas. The rev
 - [Undergraduate students were the most studied academic level in AIEd higher education research, at 72% of studies](undergraduates-most-studied-ai-ed-he.md) — related
 - [LDA topic modeling of 242 LDT syntheses reveals eight thematic areas, with computational tools most prevalent (21.7%) and generative AI integration emerging (8.2%)](lda-eight-thematic-areas-ldt-syntheses.md) — related
 - [AIEd research is dominated by computer science and STEM disciplines, with minimal educator involvement](aied-research-dominated-by-cs-stem.md) — related
-- [The main area of focus of the empirical studies was STEAM-related fields](steam-main-area-of-focus.md) — related
-- [Most lecture capture research focuses on the US, UK and Australia, with Biological Sciences the most studied STEM subject area](lecture-capture-research-context-distribution.md) — related
+- The main area of focus of the empirical studies was STEAM-related fields — related
+- Most lecture capture research focuses on the US, UK and Australia, with Biological Sciences the most studied STEM subject area — related

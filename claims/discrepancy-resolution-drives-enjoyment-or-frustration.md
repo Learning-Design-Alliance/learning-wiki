@@ -69,6 +69,6 @@ Same Model 2 analysis of 275 preservice teachers: the confidence-enjoyment link 
 
 ## Related Claims
 - [Prior knowledge and epistemic self-efficacy as an evaluator of knowledge are important themes in detecting and efficiently resolving conceptual discrepancies](prior-knowledge-and-epistemic-self-efficacy-support-discrepancy-detection.md) — related
-- [Whether conceptual discrepancies are noticed (or not) and how they are resolved can be traced through concurrent think-aloud protocols and retrospective interviews](think-aloud-and-retrospective-reports-trace-discrepancy-processing.md) — related
+- Whether conceptual discrepancies are noticed (or not) and how they are resolved can be traced through concurrent think-aloud protocols and retrospective interviews — related
 - [Making high-confidence errors about educational misconceptions intensifies preservice teachers' surprise, curiosity, confusion, and achievement-related anger](high-confidence-errors-intensify-epistemic-emotions-and-anger.md) — related
 - [Intra-individual effects of high-confidence errors, discrepancy resolution, and emotions on exploration did not vary significantly between persons](no-inter-individual-variation-in-emotional-mechanisms.md) — related

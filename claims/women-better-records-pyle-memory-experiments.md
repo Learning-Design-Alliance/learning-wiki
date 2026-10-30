@@ -45,4 +45,11 @@ Descriptive observation across the twelve senior and graduate student subjects; 
 
 
 ## Related Claims
--
+
+- [Memory improves with practice in the field where it is exercised](memory-improves-with-practice-in-exercised-field.md)
+- [One month after learning, retention rank remains roughly stable: students maintain immediate-reproduction rank at least three out of four times](one-month-retention-rank-stability.md)
+- [Individuals differ less in retention than in learning ability](retention-differences-smaller-than-learning-differences.md)
+- [Memory correlates only slightly (about .30 by the Pearson formula) with scholarship, memory being only one factor](slight-correlation-memory-scholarship.md)
+- [Fraternity men had a worse laggard record than non-fraternity men at Minnesota, while sorority women did better than non-sorority women](fraternity-life-worse-laggard-record.md)
+- [Non-fraternity men showed a higher percentage of delinquent hours of work than non-fraternity women](delinquent-hours-men-versus-women.md)
+- [Non-fraternity male freshmen were more likely than non-fraternity female freshmen to reach the laggard list](male-freshmen-more-laggards-than-female.md)

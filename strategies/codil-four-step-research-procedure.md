@@ -17,7 +17,7 @@ sources:
 # Four-step research procedure for studies on digital tools guided by CoDiL
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article's conclusion prescribes an implementable sequence for research on digital tools in educational settings: specify content-specific knowledge components, specify the learning activities leading to their acquisition, select or design tools with instructional features stimulating those activities, and collect process data on student-tool interaction as indicators of the cognitive processes. This operationalizes the framework's demand to link students' cognition and on-task behavior for testing causal effects of specific features.
@@ -41,7 +41,6 @@ The article's conclusion prescribes an implementable sequence for research on di
 
 ## Claims
 
-- [Studies comparing digital tools to other instruction without hypothesizing instructional features cannot explain why effects occur](../claims/feature-free-comparisons-lack-theoretical-mediator.md) [+W]
 - [Usage amount moderated the effect of a formative assessment tool in Koedinger et al. (2010)](../claims/koedinger-2010-usage-moderates-tool-effect.md) [~W]
 
 ## Related Strategies

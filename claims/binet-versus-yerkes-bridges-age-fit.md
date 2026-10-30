@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1915
+recheck_by: 1918
 sources:
   - id: kelley-1915
     resource: "https://www.jstor.org/journal/jeducpsych"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1918**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Hayes's comparison found the Binet-Simon method fitted chronological ages of normal children more closely in earlier years, while from eight or nine on the Yerkes-Bridges method gave the better results, attributed to scoring differences rather than test questions. [→ Kelley 1915](#kelley-1915)

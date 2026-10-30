@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: ying-hu-2026
     resource: "https://doi.org/10.1038/s41539-026-00401-1"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2`–`r3` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q3 i?` In Study 2's decreasing condition, a significant age effect showed children increasingly favored the constant character over the declining character on evaluations. [→ Ying Hu 2026](#ying-hu-2026)

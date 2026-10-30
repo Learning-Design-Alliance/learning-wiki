@@ -12,7 +12,7 @@ generated:
 # Bibliometric analysis combining science mapping and performance analysis
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article uses two prominent bibliometric approaches to analyze a research field: science mapping and performance analysis. The authors state they "examined" bibliographical data "using two prominent bibliometric approaches: science mapping and performance analysis". Science mapping structures the literature by topics and their evolution, while performance analysis assesses publications; together they let the review identify influential publications and research topics from large bibliographical datasets.
@@ -23,7 +23,6 @@ The article uses two prominent bibliometric approaches to analyze a research fie
 
 ### Claims
 
-- [The virtual and remote labs literature to 2015 can be characterized by its most influential publications, most researched topics, and evolving topic interest](../claims/bibliometric-characterization-virtual-remote-lab-literature.md) [+W]
 
 ## Related Research Methods
 

@@ -65,4 +65,4 @@ Review's account of two studies using 5 days of accelerometer measurement; no si
 
 ## Related Claims
 - [Evidence on cognitive function benefits of forest preschool is mixed: teacher-rated global cognition improved, but executive functions and working memory showed no significant differences](forest-school-cognitive-function-mixed.md) — related
-- [Forest-school benefits are measured with heterogeneous methods, mostly questionnaires and tasks administered to children, with only two studies using objective measures](forest-school-measurement-methods-heterogeneous.md) — related
+- Forest-school benefits are measured with heterogeneous methods, mostly questionnaires and tasks administered to children, with only two studies using objective measures — related

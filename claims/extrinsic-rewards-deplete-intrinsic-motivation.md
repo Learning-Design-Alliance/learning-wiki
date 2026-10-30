@@ -61,4 +61,4 @@ The review reports, citing Deci et al. (1999), that "using extrinsic rewards dep
 - [Extrinsic motivation to please teachers is positively related to intrinsic motivation among Asian American students but negatively among Caucasian students](extrinsic-intrinsic-positive-link-asian-american.md) — related
 - [External rewards can undermine intrinsic motivation for learners who are already motivated](external-rewards-undermine-intrinsic-motivation-for-motivated-learners.md) — possibly the same claim (merge candidate)
 - [Most of the 45 reviewed studies report positive gamification effects on motivation and engagement in mathematics; only four report negative effects](gamification-mathematics-mostly-positive-four-negative.md) — related
-- [Gamification studies measure intrinsic motivation almost exclusively through self-report instruments, with no study using free-choice behavioral measures](intrinsic-motivation-measured-by-self-report.md) — related
+- Gamification studies measure intrinsic motivation almost exclusively through self-report instruments, with no study using free-choice behavioral measures — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: xiaoyu-bai-manfred-stede-2023
     resource: "https://doi.org/10.1007/s40593-022-00323-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Uto et al. (2020) observed significant performance increases in essay scoring when hand-crafted features were concatenated with neural representations at the pre-output layer. [→ Xiaoyu Bai · Manfred Stede 2023](#xiaoyu-bai-manfred-stede-2023)

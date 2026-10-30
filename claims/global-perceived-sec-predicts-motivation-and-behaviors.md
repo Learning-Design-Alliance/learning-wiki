@@ -52,5 +52,5 @@ Structural equation modeling with 414 Australian secondary students (parent-repo
 ## Related Claims
 - [Perceived competence for social regulation negatively predicts external motivation and conduct problems, and perceived competence for tolerance positively predicts autonomous motivation](specific-perceived-sec-dimensions-unique-associations.md) — related
 - [Global perceived-SEC is indirectly associated with greater prosocial behavior via autonomous motivation (β = .23), the only significant indirect path](indirect-path-global-sec-autonomous-motivation-prosocial.md) — a narrower finding that bears on this claim
-- [Perceived social-emotional competence is best modeled as a bifactor structure with one global factor and five specific factors among Australian adolescents](perceived-sec-bifactor-global-and-specific-factors.md) — related
+- Perceived social-emotional competence is best modeled as a bifactor structure with one global factor and five specific factors among Australian adolescents — related
 - [Introjected regulation is the most central node in university students' AI motivational system](introjected-regulation-central-ai-motivation.md) — related

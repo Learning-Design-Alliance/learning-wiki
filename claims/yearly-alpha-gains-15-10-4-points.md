@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1922
+recheck_by: 1927
 sources:
   - id: cobb-1922
     resource: "https://eric.ed.gov/?q=The+Limits+Set+to+Educational+Achievement+by+Limited+Intelligence"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1927**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Average median Alpha scores rise about 15 points from freshman to sophomore year, 10 points from sophomore to junior, and 4 points from junior to senior year, with a total freshman-to-senior increase of about 30 points. [→ Cobb 1922](#cobb-1922)

@@ -47,13 +47,13 @@ Re-analysis of SIMS80 longitudinal data (13,656 students in the USA, Canada, New
 
 ## Related Claims
 - [The Big-Fish-Little-Pond effect on mathematics self-concept is negative and statistically significant in all three countries under a fully specified doubly latent model](bflpe-negative-significant-all-countries.md) — related
-- [Measurement error bias inflates peer spillover effects while attenuating the BFLPE; controls strengthen the BFLPE and weaken the spillover effect](measurement-error-bias-compositional-effects.md) — a broader claim this one bears on
+- Measurement error bias inflates peer spillover effects while attenuating the BFLPE; controls strengthen the BFLPE and weaken the spillover effect — a broader claim this one bears on
 - [When compositional effects are constrained equal across countries, the overall peer spillover effect is negative and non-significant while the BFLPE remains negative and significant](restricted-model-null-spillover-significant-bflpe.md) — possibly the same claim (merge candidate)
 - [Class-average achievement negatively predicts mathematics self-concept after controlling individual achievement (BFLPE replication in TIMSS 2019)](bflpe-replication-timss-2019-contextual-mean-effect.md) — related
 - [Class-average achievement shows a small negative indirect effect on subsequent mathematics achievement mediated through mathematics self-concept](bflpe-negative-mediation-achievement.md) — related
 - [Contextual-mean effects show little moderation by individual achievement; apparent positive moderation is illusory when the quadratic term is omitted](bflpe-moderation-by-achievement-small-and-illusory.md) — related
 - [Adding a quadratic achievement term leaves the negative contextual-mean effect essentially unchanged](curvature-adjustment-does-not-eliminate-bflpe.md) — related
-- [Positive school-average achievement effects on subsequent achievement can be phantom effects that disappear under doubly-latent modeling with covariates](phantom-effects-school-average-achievement.md) — possibly the same claim (merge candidate)
+- Positive school-average achievement effects on subsequent achievement can be phantom effects that disappear under doubly-latent modeling with covariates — possibly the same claim (merge candidate)
 - [School-average achievement negatively predicts academic self-concept (BFLPE) and GPA in the comprehensive doubly-latent model](school-average-achievement-negative-compositional-effect-asc-gpa.md) — related
 - [Doubly latent multilevel structural equation models disaggregate disciplinary-problem effects at student versus classroom level](doubly-latent-multilevel-sem-discipline-effects.md) — related
 - [Class mean mathematics achievement composition effects were smaller and less often statistically significant than in the original Flemish study, underscoring the value of conceptual replications](math-composition-effects-smaller-in-german-replication.md) — related

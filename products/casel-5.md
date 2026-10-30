@@ -19,7 +19,7 @@ sources:
 # CASEL 5
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 4 studies (3 quant-synthesis, 1 review), `q3`–`q4` · 2 of 4 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 3 studies (3 quant-synthesis), `q4` · 2 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 A framework developed by the Collaborative for Academic, Social, and Emotional Learning (CASEL) that organizes social and emotional competence into five interrelated areas: self-awareness, self-management, social awareness, relationship skills, and responsible decision-making.
@@ -33,7 +33,6 @@ A framework developed by the Collaborative for Academic, Social, and Emotional L
 
 ### Claims
 - [SEL programs improve social emotional skills](../claims/sel-programs-improve-social-emotional-skills.md) [+M]
-- [Research on SECs and engagement is unevenly distributed across the five CASEL domains, concentrating on self-management, self-awareness and relationship skills](../claims/casel-domains-unevenly-studied.md) [+M]
 - [At domain level, teachers' responsible decision-making shows the largest observed relationship with students' SEC, and students' relationship skills the strongest with teachers' SEC](../claims/sec-domain-specific-associations-casel.md) [+M]
 
 ## Related Products and Programmes

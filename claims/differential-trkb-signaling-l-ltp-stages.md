@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2016
+recheck_by: 2021
 sources:
   - id: pang-2016
     resource: "https://doi.org/10.1038/npjscilearn.2016.3"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` At stage I, co-application of the MAPK inhibitor U0126 attenuated BDNF's rescue of L-LTP in tPA−/− slices, while PLC-gamma and PI3K inhibitors did not. [→ Pang 2016](#pang-2016)

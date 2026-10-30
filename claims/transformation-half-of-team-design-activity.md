@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2013
+recheck_by: 2018
 sources:
   - id: rapanta-2013
     resource: "https://doi.org/10.1007/s11423-013-9306-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In the coded dataset, transformation design sequences account for 50.7% of total team design activity, while evaluation and presentation are 24.6% and 24.7% respectively. [→ Rapanta 2013](#rapanta-2013)

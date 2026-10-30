@@ -50,9 +50,9 @@ Country coding of the 138 included studies shows Asia had the largest share at 4
 - [K-12 AI learning experiences concentrate on technical, conceptual and applied skills in specific domains, while implementation schemes are led by the US and China](k12-ai-experiences-domain-limited-us-china-lead.md)
 - [Research on generative AI in secondary STEM education is concentrated in the Global North, with 73% of affiliations and the United States accounting for 30% of publications](global-north-concentration-generative-ai-stem-research.md)
 - Research on K‑5 writing motivation self‑reports grew sharply after 2009 and is geographically concentrated in North America and Asia — related
-- [Authorship of AIED systematic reviews is concentrated in Asia and Europe, with China, Spain, and the United States the most productive countries](aied-review-authorship-geographic-distribution.md) — related
-- [AIED ethics publication output is concentrated in Europe, led by the United Kingdom (47%) and Finland (20%)](aied-ethics-publications-european-concentration.md) — related
-- [The 22 reviewed AI-in-EFL studies are concentrated in Southeast Asia and predominantly use mixed-method and quasi-experimental designs](ai-efl-review-descriptive-distribution.md) — related
-- [Spain, the United Kingdom, Germany, Greece, and the United States conducted the most studies](countries-conducting-most-studies.md) — related
+- Authorship of AIED systematic reviews is concentrated in Asia and Europe, with China, Spain, and the United States the most productive countries — related
+- AIED ethics publication output is concentrated in Europe, led by the United Kingdom (47%) and Finland (20%) — related
+- The 22 reviewed AI-in-EFL studies are concentrated in Southeast Asia and predominantly use mixed-method and quasi-experimental designs — related
+- Spain, the United Kingdom, Germany, Greece, and the United States conducted the most studies — related
 - [Deployments concentrate in special education areas and primary/secondary institutions, with the USA leading country counts](deployment-areas-special-education-largest-share.md) — related
-- [First-author publication counts across 20 selected IDT journals (2005-2014) identify leading institutions worldwide, with Nanyang Technological University, National Taiwan Normal University, and National Central University at the top](idt-top-publishing-institutions-20-journals.md) — related
+- First-author publication counts across 20 selected IDT journals (2005-2014) identify leading institutions worldwide, with Nanyang Technological University, National Taiwan Normal University, and National Central University at the top — related

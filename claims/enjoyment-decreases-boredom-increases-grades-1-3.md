@@ -10,6 +10,7 @@ generated:
 evidence_strength: moderate
 newest_evidence: 2023
 source_checked: 2026-10-23
+recheck_by: 2028
 sources:
   - id: rawlings-2023
     resource: "https://doi.org/10.1016/j.learninstruc.2023.101776"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2023 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Latent growth curve modeling over four time points showed a significant overall decrease in mathematics enjoyment and a significant increase in mathematics boredom across grades 1–3. [→ Rawlings 2023](#rawlings-2023)
@@ -53,7 +54,7 @@ Univariate latent growth curve models fitted to four waves of AEQ-ES emotion dat
 - [Higher earlier interest is associated with later decreases in boredom across grades 5–8, at every wave in mathematics and all but the last in German](earlier-interest-predicts-lower-later-boredom.md) — related
 - [Mathematics anxiety remains low and does not change significantly during the first three school years](math-anxiety-low-unchanged-early-grades.md) — related
 - [Interest is substantially more stable over time than boredom, whose autoregressive paths are low and decline](differential-stability-interest-boredom.md) — related
-- [Boredom and academic interest fit two separate correlated factors better than one common factor in mathematics and German at every wave](boredom-interest-two-factor-separability.md) — related
+- Boredom and academic interest fit two separate correlated factors better than one common factor in mathematics and German at every wave — related
 - [During the course, curiosity, enjoyment, confusion and anxiety decreased over time, boredom increased, and surprise and frustration remained stationary.](time-trends-epistemic-emotions-decline-course.md) — related
 - [Only the initial level and rate of change in arithmetic fluency predict third-grade mathematics performance; achievement emotions do not](fluency-not-emotions-predict-math-performance.md) — related
 - [Students' enjoyment of mathematics classes decreased significantly but very slightly from Grade 7 to Grade 8](enjoyment-decline-grade7-8-small.md) — related

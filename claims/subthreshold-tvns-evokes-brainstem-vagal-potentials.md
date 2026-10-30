@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: llanos-2020
     resource: "https://doi.org/10.1038/s41539-020-0070-0"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Sub-threshold tVNS pulses evoked three brainstem components (N1, P1, N2) at 2–15 ms latencies with magnitudes significantly above pre-pulse baseline. [→ Llanos 2020](#llanos-2020)

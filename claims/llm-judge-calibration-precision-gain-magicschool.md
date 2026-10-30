@@ -46,5 +46,7 @@ Ground-truthing audit of the two flag streams on the 2,482-case benchmark: 4,002
 
 
 ## Related Claims
+
 - [Post-calibration evaluators captured 100% of synthetic egregious failures across all 21 deployed evaluators, up from a pre-calibration range of 73.3–100%](egregious-capture-100-percent-after-calibration.md) — related
 - [A second LLM judge failed to corroborate 94% of 140,000 flagged failures from 2.5 million evaluations, indicating false positives dominated the pre-calibration suite](second-judge-94-percent-uncorroborated-flags.md) — related
+- [Grader errors dominate audited rejections on benchmarks using rule-based evaluators (PHYBench and PRISM-Physics)](grader-errors-dominate-rule-based-evaluator-benchmarks.md)

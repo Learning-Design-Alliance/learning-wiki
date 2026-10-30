@@ -69,15 +69,14 @@ Reliability analysis of essay scoring by three high school physics teachers of 1
 - [The framework shows high scoring consistency, with 79% agreement and 81% inter-rater reliability on physics questions](framework-scoring-high-consistency-physics.md) — related
 - [Cohen's kappa exhibits a paradox in which high observed agreement yields low kappa, making it unsuitable for pass/fail decision consistency](cohens-kappa-paradox-decision-consistency.md) — related
 - [Experts rated KITE's feedback positively on scaffolding, guidance, coherence, and tone in 93.18% of judgments, with high interrater agreement (κ = 0.88)](kite-feedback-high-expert-rubric-ratings.md) — related
-- [Risk of bias among included studies was mixed, with Newcastle–Ottawa ratings ranging from 3 to 9 and high inter-rater agreement](newcastle-ottawa-risk-of-bias-mixed-across-included-studies.md)
 - [In Study 2, inter-rater agreement for rating creative problem solving ideas was good to excellent across indicators](cps-idea-ratings-good-excellent-interrater-agreement.md) — related
 - [Inter-rater agreement among pre-service teachers is low regardless of grading approach or essay quality](low-inter-rater-agreement-preservice-grading.md) — reports the opposite
-- [A structured negotiated-coding process reached nearly 98% interrater agreement before machine learning](negotiated-coding-98-consensus.md) — related
+- A structured negotiated-coding process reached nearly 98% interrater agreement before machine learning — related
 - [Machine learning detects five of eight reflective-writing categories with substantial or almost perfect reliability and three with moderate reliability (Cohen's κ .53–.85)](ml-detects-reflection-categories-kappa-053-085.md) — related
 - [Inter-rater reliability between human experts and AI coding is very low](low-irr-experts-vs-ai-coding.md) — related
 - [The proposed AES system predicts holistic essay scores through predicted rubric scores, achieving a QWK of 0.78, competitive with cutting-edge AES tools reporting 0.77–0.81](aes-holistic-qwk-078-competitive.md) — related
 - [Kappa agreement with human experts shows a system is neither much worse nor much better than experts, but not that experts are a desirable comparison basis](kappa-expert-agreement-limits.md) — related
-- [Learning-tip-to-lecture-topic coding by seven coders reached an overall agreement of 0.87 (Cohen's Kappa)](topic-coding-agreement-087.md) — related
+- Learning-tip-to-lecture-topic coding by seven coders reached an overall agreement of 0.87 (Cohen's Kappa) — related
 - [An automated scoring engine matched experienced human markers yet was rejected over the confidentiality-explainability conflict](crase-scoring-equivalent-to-human-markers-rejected.md) — related
-- [The review's corpus comprises 39 peer-reviewed articles selected via a PRISMA protocol with substantial screening agreement](ile-psychomotor-review-corpus-39-articles-prisma.md) — related
+- The review's corpus comprises 39 peer-reviewed articles selected via a PRISMA protocol with substantial screening agreement — related
 - [Expert graders show high agreement among themselves when scoring a written exam on first degree equations](expert-inter-rater-agreement-high-written-exam.md) — related

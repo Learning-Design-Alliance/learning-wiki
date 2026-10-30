@@ -25,7 +25,8 @@ Puranik et al.'s individually administered assessment battery measures preschool
 - [Preschool emergent writing skills are best described by three correlated but distinct factors: Conceptual Knowledge, Procedural Knowledge, and Generative Knowledge](../claims/three-factor-structure-emergent-writing-preschoolers.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Cambridge Oracy Assessment Toolkit](cambridge-oracy-assessment-toolkit.md)
 
 ## Key Sources
 - Puranik, C. S., & Lonigan, C. J. (2014). Emergent Writing in Preschoolers: Preliminary Evidence for a Theoretical Framework. Reading Research Quarterly, 49(4). https://doi.org/10.1002/rrq.79

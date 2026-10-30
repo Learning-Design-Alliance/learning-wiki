@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: weak
 newest_evidence: 1909
+recheck_by: 1914
 sources:
   - id: patterson-1909
     resource: "https://books.google.com"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 1909 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1909 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1914**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Using a seventy-five per cent correct criterion, pupils below the 6th grade and over thirteen years reached their span limit at six digits and all others at seven. [→ Patterson 1909](#patterson-1909)

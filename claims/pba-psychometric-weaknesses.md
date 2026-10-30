@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2018
+recheck_by: 2021
 sources:
   - id: sebastiaan-de-klerk-2018
     resource: "https://doi.org/10.1007/s11423-017-9559-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` PBAs score low on generalizability, reliability, and standardization, and rater effects can influence students' scores, motivating MBPA as an alternative. [→ Sebastiaan de Klerk 2018](#sebastiaan-de-klerk-2018)

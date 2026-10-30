@@ -36,6 +36,9 @@ The discussion section offers style-specific design recommendations. For To Soci
 ### Target Learning Goals
 - increasing interaction and participation in online instructional discussions
 
+## Claims
+
+
 ## Related Strategies
 - 
 

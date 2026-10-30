@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: sarah-i-hofer-2025
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102177"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q3 i3` APS students significantly outperformed VS students on prior knowledge, general reasoning, sustained attention, and visual-spatial ability (large effects, d = 1.20 to 1.00) and on self-concept (medium effect, d = 0.46), but not on interest. [→ Sarah I. Hofer 2025](#sarah-i-hofer-2025)

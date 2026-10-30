@@ -52,4 +52,4 @@ Multi-group SEM on cross-sectional survey data from n = 776 secondary students (
 ## Related Claims
 - [Socio-emotional e-competencies correlate negatively with habitual digital behaviors in secondary students, except social e-competency (weakly positive) and emotional e-awareness (no significant correlation)](e-competencies-negative-relation-habitual-digital-behaviors.md) — a broader claim this one bears on
 - [Emotional e-regulation and e-self-control of impulsiveness are the strongest SEM predictors of fewer habitual digital behaviors across genders and age groups, in cross-sectional data](e-regulation-e-self-control-strongest-predictors.md) — related
-- [Media multitasking during academic tasks, phubbing, and cybergossip form a single construct of habitual digital behavior in secondary students](three-habits-one-habitual-digital-behavior-construct.md) — related
+- Media multitasking during academic tasks, phubbing, and cybergossip form a single construct of habitual digital behavior in secondary students — related

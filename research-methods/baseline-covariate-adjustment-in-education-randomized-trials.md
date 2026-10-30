@@ -12,7 +12,7 @@ generated:
 # Baseline covariate adjustment in education randomized trials
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 4 studies (3 theoretical, 1 associational), `q1`–`q2` · 0 of 4 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (2 for, 2 mixed) · 3 studies (2 theoretical, 1 associational), `q2` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 The paper recommends that studies using student achievement outcomes generally aim to collect and use baseline data, because analyses using more than one wave of data typically have much greater statistical power than posttest-only analyses. Using prior state test results as baseline covariates can substantially reduce overall study costs, since the power improvement allows the sample size to be greatly reduced while maintaining the target power level. Baseline data also help establish treatment-control equivalence and assess potential nonresponse bias.
@@ -28,7 +28,6 @@ The paper recommends that studies using student achievement outcomes generally a
 - [In RCTs of interventions to improve student test scores, estimators including late pretests will typically be preferred to estimators excluding them or using other baseline data](../claims/late-pretest-estimators-typically-preferred.md) [+M]
 - [The late-pretest estimator preference holds as long as test score impacts do not grow very quickly early in the school year](../claims/late-pretest-preference-conditional-on-slow-early-impact-growth.md) [~M]
 - [Pretest-posttest correlation coefficients for state assessment data vary by student achievement level (low-performing, average-performing, proficient).](../claims/pretest-posttest-correlations-vary-by-achievement-level.md) [~W]
-- [Randomization does not ensure baseline equivalence in small-sample motor learning studies, so unbalanced pre-tests can overstate random-practice benefits](../claims/randomization-no-baseline-equivalence.md) [+W]
 
 ## Related Research Methods
 -

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: weak
 newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: weiwei-liu-2025
     resource: "https://doi.org/10.1016/j.edurev.2025.100747"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Students, educational staff, and societal partners all experienced high time demands, with staff investing more time than in traditional coursework. [→ Weiwei Liu 2025](#weiwei-liu-2025)
@@ -47,4 +48,4 @@ Scoping review synthesis of studies on time demands. The review reports both stu
 ## Related Claims
 - [Students experience challenges across all four aspects of transdisciplinary learning for sustainability, including unsettling reflection on sustainability issues, tensions with non-academic partners, disciplinary communication difficulties, and struggles with multiple perspectives](td-learning-four-aspect-challenges.md) — related
 - [Uncertainty is a central feature of challenges in transdisciplinary learning for sustainability, encompassing both emotional and cognitive dimensions](uncertainty-central-td-challenges.md) — related
-- [Research on transdisciplinary sustainability learning disproportionately examines students, with educational staff and societal partners underrepresented](td-learning-participant-underrepresentation.md) — related
+- Research on transdisciplinary sustainability learning disproportionately examines students, with educational staff and societal partners underrepresented — related

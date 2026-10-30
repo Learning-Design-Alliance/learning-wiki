@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: liu-2025
     resource: "https://doi.org/10.1007/s11423-025-10463-4"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In the Phase 4 evaluation, four in-service teachers and one student teacher rated the VR classroom's vividness highly (10 of 11 items with median 6 or 7 on a 7-point scale), and their likely-interpretation rates across the seven events supported the expert validity of the designated correct responses. [→ Liu 2025](#liu-2025)

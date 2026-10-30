@@ -64,4 +64,9 @@ The review notes only a handful of neuroimaging studies have directly explored n
 
 
 ## Related Claims
--
+
+- [Both number system knowledge and estimation uniquely account for variance in all three third-grade arithmetic skills independently of each other and of domain-general factors](multidigit-skills-independent-contribution-arithmetic.md)
+- [Preschool counting skills and number knowledge directly predict formal arithmetic skills in primary school, together accounting for 40–46% of variance](counting-number-knowledge-predict-arithmetic.md)
+- [Symbolic numerical magnitude processing is a powerful unique predictor of arithmetic fact retrieval](symbolic-nmp-strong-predictor-fact-retrieval.md)
+- [Both numerical magnitude processing tasks correlate positively with arithmetic fact retrieval, more strongly for symbolic](nmp-correlates-fact-retrieval-symbolic-stronger.md)
+- [Numerical magnitude comparison explains significant unique variance in multiplication fact performance over and above phonological processing, intellectual ability, and general reaction time](magnitude-comparison-unique-variance-multiplication.md)

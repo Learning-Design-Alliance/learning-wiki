@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1922
+recheck_by: 1927
 sources:
   - id: bird-t-baldwin-1922
     resource: "https://psycnet.apa.org/journals/edu/13/1/193"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1927**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Regression prediction of height six years later yields PE of estimate of 2.98 cm for 12-year-old boys and 2.58 cm for 12-year-old girls, and 2.09 cm and 2.81 cm for the older group. [→ Bird T. Baldwin 1922](#bird-t-baldwin-1922)

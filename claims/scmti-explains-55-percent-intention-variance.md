@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: serkan-perkmen-2026
     resource: "https://doi.org/10.1007/s11423-026-10623-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Variables in the Social Cognitive Model of Technology Integration accounted for 55% of variation in preservice teachers' intentions, over twice the variation reported for some other models. [→ Serkan Perkmen 2026](#serkan-perkmen-2026)

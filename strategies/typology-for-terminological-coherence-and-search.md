@@ -17,7 +17,7 @@ sources:
 # Use the prompt typology to foster terminological coherence and improve literature search strategies in the age of AI
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (7 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 7 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article proposes that its typology of prompt types—content, function, presentation, and source—can serve two practical purposes: fostering greater terminological coherence in how researchers label and describe digital prompts, and improving search strategies for finding relevant literature at a time when AI has introduced a competing dominant meaning of the term prompt. By mapping idiosyncratic labels onto shared dimensions, researchers can identify conceptually similar prompts despite differing terminology and retrieve literature that label-based searches would miss.
@@ -41,13 +41,8 @@ The article proposes that its typology of prompt types—content, function, pres
 
 ## Claims
 
-- [The digital prompting literature uses 283 distinct prompt labels, most of which appear in only one publication](../claims/283-prompt-labels-long-tail-fragmentation.md) [+W]
-- [Citation network analysis shows limited integration: very low density and 38.90% isolated nodes among same-prompt-type studies](../claims/citation-network-low-density-isolated-nodes.md) [+W]
-- [A small set of dominant prompt labels structures the literature, led by metacognitive and self-explanation prompts](../claims/dominant-prompt-labels-metacognitive-self-explanation.md) [+W]
 - [Co-occurrence patterns link prompt functions with presentation formats, such as self-explanation prompts with response format and adaptive presentation labels](../claims/function-presentation-co-occurrence-patterns.md) [+W]
-- [Most prompt labels do not co-occur with other labels, indicating studies narrowly focus on single prompt characteristics](../claims/low-co-occurrence-single-characteristic-focus.md) [+W]
 - [Topic modeling reveals 20 topics in six communities, with special education and collaborative knowledge construction thematically isolated](../claims/twenty-topics-six-communities-isolated-clusters.md) [+W]
-- [The four-dimension typology mapped well onto prompt labels, with function labels most frequent and three new presentation subcategories added](../claims/typology-mapping-function-dominant-new-subcategories.md) [+W]
 
 ## Related Strategies
 

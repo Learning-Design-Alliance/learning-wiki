@@ -47,5 +47,5 @@ Multi-level random-effects meta-analysis of 371 skills effect sizes from 153 stu
 ## Related Claims
 - [Professional development for in-service teachers produces large gains in teachers' knowledge about inclusive education (g = 0.93)](pd-large-effect-teacher-inclusive-knowledge.md) — related
 - [Active learning opportunities in professional development moderate gains in teachers' skills, with alternating input-praxis design far outperforming blocked design for teaching-method use](active-learning-moderates-skill-gains.md) — related
-- [Publication bias is present to a varying degree, with published studies reporting larger belief and student-behavior effects than unpublished studies](publication-bias-beliefs-student-behavior.md) — related
+- Publication bias is present to a varying degree, with published studies reporting larger belief and student-behavior effects than unpublished studies — related
 - [Teacher coaching programs improve teachers' instructional practice by a pooled 0.49 SD across 43 causal studies](coaching-pooled-instruction-effect-0-49-sd.md) — related

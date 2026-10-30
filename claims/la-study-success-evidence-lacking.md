@@ -45,6 +45,6 @@ Systematic review following eight standardised steps; an initial set of 6220 art
 
 
 ## Related Claims
-- [None of the 46 key publications on learning analytics for study success were rated as strong research rigour (11 weak; 35 moderate)](la-studies-rigour-none-strong.md) — a narrower finding that bears on this claim
+- None of the 46 key publications on learning analytics for study success were rated as strong research rigour (11 weak; 35 moderate) — a narrower finding that bears on this claim
 - [The evidence base does not yet provide a menu of program options for helping students at risk of dropping out, and program developers need a way to identify approaches while stronger scientific evidence is developed](no-menu-of-dropout-prevention-program-options-yet.md) — related
 - [Large-scale studies regarding the effectiveness of learning analytics are still lacking](large-scale-effectiveness-studies-lacking.md) — possibly the same claim (merge candidate)

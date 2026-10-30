@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: da-wei-zhang-2024
     resource: "https://doi.org/10.1038/s41539-024-00291-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` A high school English teacher's grading showed poor interrater agreement (ICC = 0.37) and poor consistency (ICC = 0.44), with consistency significantly different from the best ChatGPT 3.5 prompt condition (p < 0.05). [→ Da-Wei Zhang 2024](#da-wei-zhang-2024)

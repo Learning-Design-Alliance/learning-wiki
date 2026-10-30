@@ -48,5 +48,5 @@ Subgroup and meta-regression analyses comparing teacher self-reports with extern
 - [Teachers' job satisfaction is negatively associated with absenteeism (pooled r = −0.18)](job-satisfaction-negative-absenteeism.md) — related
 - [Teachers' job satisfaction is positively associated with students' motivation (r = 0.29) and achievement (r = 0.10)](job-satisfaction-positive-student-outcomes.md) — a narrower finding that bears on this claim
 - [Teachers' job satisfaction is positively associated with the quality of teacher-student interactions, with the largest pooled correlation for general interactions (r = 0.28)](job-satisfaction-positive-teacher-student-interactions.md) — related
-- [Publication year, publication type, and grade level moderate the strength of job satisfaction–performance associations](moderators-of-job-satisfaction-effect-sizes.md) — related
+- Publication year, publication type, and grade level moderate the strength of job satisfaction–performance associations — related
 - [Teachers' job satisfaction is negatively associated with turnover intentions (pooled r = −0.46)](job-satisfaction-negative-turnover-intentions.md) — related

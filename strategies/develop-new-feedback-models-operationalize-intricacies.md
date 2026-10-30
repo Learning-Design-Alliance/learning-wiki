@@ -17,7 +17,7 @@ sources:
 # Develop new feedback models that operationalize the intricacies of the feedback phenomenon
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 This strategy, the first of the article's five steps, directs feedback researchers to build new theoretical models that capture the phenomenon's complexity. The article argues "there is a need to develop new models that thoroughly explore and operationalize the intricacies of the feedback phenomenon". It functions as a research-agenda recommendation for the field rather than a classroom technique, and it is motivated by the special issue's finding that feedback is a key educational factor.
@@ -38,7 +38,6 @@ This strategy, the first of the article's five steps, directs feedback researche
 
 ## Claims
 
-- [The feedback research field may already be experiencing a paradigm shift that five further steps could solidify](../claims/feedback-field-potential-paradigm-shift-five-steps.md) [+W]
 
 ## Related Strategies
 

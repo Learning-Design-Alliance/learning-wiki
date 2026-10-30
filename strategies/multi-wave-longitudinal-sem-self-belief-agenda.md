@@ -17,7 +17,7 @@ sources:
 # Pursue construct-distinction research through multi-wave longitudinal SEM studies comparing self-belief measures against outcomes
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (1 associational, 1 theoretical), `q1` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Drawing on the Marsh-Pajares constructive dialogue, the article prescribes a research strategy: 'Issues such as these can be pursued appropriately in multi-wave studies in which the same constructs (e.g., self-efficacy, self-concept, and other relevant constructs measured at different levels of generality and a variety of outcome measures) are each measured on different occasions and analyzed with SEM techniques'. The present study implements this by measuring five self-belief constructs across four years and predicting later grades, test scores, and aspirations after controlling for pre-test variables.
@@ -40,7 +40,6 @@ Drawing on the Marsh-Pajares constructive dialogue, the article prescribes a res
 
 - [Negative frame-of-reference effects are hypothesized to be truncated in pure self-efficacy measures relative to self-concept measures](../claims/frame-of-reference-effects-truncated-pure-self-efficacy-hypothesis.md) [+W]
 - [Generalized math self-efficacy items function like self-concept items because they omit an explicit performance criterion](../claims/generalized-self-efficacy-items-jingle-with-self-concept.md) [+W]
-- [Jingle-jangle fallacies plague motivation constructs, requiring explicit justification of construct distinctions](../claims/jingle-jangle-motivation-constructs.md) [+W]
 
 ## Related Strategies
 

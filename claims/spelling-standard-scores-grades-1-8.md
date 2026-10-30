@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1910
+recheck_by: 1915
 sources:
   - id: starch-1910
     resource: "https://eric.ed.gov/?q=The+Measurement+of+Efficiency+in+Spelling"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1915**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Tentative standard scores smoothed from actual averages were derived from tests of 2500 pupils in twelve schools of five cities in Wisconsin, Minnesota and New York: grade 1 = 10, grade 2 = 30, grade 3 = 40, grade 4 = 51, grade 5 = 61, grade 6 = 71, grade 7 = 78, grade 8 = 85. [→ Starch 1910](#starch-1910)

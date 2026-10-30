@@ -50,7 +50,7 @@ Restricted multi-group doubly latent model imposing equality of compositional ef
 ## Related Claims
 - [Class-average achievement shows a small negative indirect effect on subsequent mathematics achievement mediated through mathematics self-concept](bflpe-negative-mediation-achievement.md) — related
 - [The Big-Fish-Little-Pond effect on mathematics self-concept is negative and statistically significant in all three countries under a fully specified doubly latent model](bflpe-negative-significant-all-countries.md) — related
-- [Measurement error bias inflates peer spillover effects while attenuating the BFLPE; controls strengthen the BFLPE and weaken the spillover effect](measurement-error-bias-compositional-effects.md) — related
+- Measurement error bias inflates peer spillover effects while attenuating the BFLPE; controls strengthen the BFLPE and weaken the spillover effect — related
 - [Positive class-level peer spillover effects on mathematics achievement fail to replicate once measurement error is controlled with doubly latent models](peer-spillover-disappears-doubly-latent-models.md) — possibly the same claim (merge candidate)
-- [Positive school-average achievement effects on subsequent achievement can be phantom effects that disappear under doubly-latent modeling with covariates](phantom-effects-school-average-achievement.md) — related
+- Positive school-average achievement effects on subsequent achievement can be phantom effects that disappear under doubly-latent modeling with covariates — related
 - [School-average achievement negatively predicts academic self-concept (BFLPE) and GPA in the comprehensive doubly-latent model](school-average-achievement-negative-compositional-effect-asc-gpa.md) — related

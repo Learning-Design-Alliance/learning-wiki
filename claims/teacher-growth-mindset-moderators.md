@@ -64,7 +64,7 @@ Two-level moderator regressions for separate outcomes. Dimensionality significan
 
 
 ## Related Claims
-- [Publication bias is present to a varying degree, with published studies reporting larger belief and student-behavior effects than unpublished studies](publication-bias-beliefs-student-behavior.md) — related
+- Publication bias is present to a varying degree, with published studies reporting larger belief and student-behavior effects than unpublished studies — related
 - [Teachers' growth mindset is associated with mastery goal structures but not performance goal structures](teacher-growth-mindset-mastery-goal-structures.md) — related
 - [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](growth-mindset-improves-achievement.md) — related
 - [Country of publication moderates multigrade cognitive effects, with a small negative effect only for European studies](country-moderates-multigrade-effects.md) — related

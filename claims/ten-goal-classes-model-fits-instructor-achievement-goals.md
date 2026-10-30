@@ -45,4 +45,4 @@ Confirmatory factor analyses with the MLR estimator in a sample of 1,066 German 
 
 
 ## Related Claims
-- [The ten-goal structure is completely invariant across instructor status groups, but groups differ in mean goal levels.](goal-structure-invariant-status-groups-differ-in-means.md) — related
+- The ten-goal structure is completely invariant across instructor status groups, but groups differ in mean goal levels. — related

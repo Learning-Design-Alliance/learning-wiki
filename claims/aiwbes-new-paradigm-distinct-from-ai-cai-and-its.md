@@ -45,7 +45,7 @@ The authors' analytical argument, based on comparing complete systems rather tha
 
 
 ## Related Claims
-- [Web-based systems offer AI-Ed researchers longer system lifespan, better visibility, and greater influence on practitioners](web-platform-benefits-for-ai-ed-research.md) — related
+- Web-based systems offer AI-Ed researchers longer system lifespan, better visibility, and greater influence on practitioners — related
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — related
 - [AIWBES use several technologies per system, becoming more complete 'one-stop' educational systems than pre-Web systems](aiwbes-one-stop-systems-use-several-technologies.md) — related
 - [The authors contend that a new design paradigm must be developed if academic learning is to take place in educational games](new-design-paradigm-needed-for-game-learning.md) — related

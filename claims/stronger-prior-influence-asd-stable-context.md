@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: mixed
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: sapey-triomphe-2023
     resource: "https://doi.org/10.1038/s41539-023-00207-5"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3` · `i3` large
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q3 i3` In Exp. II, the time-order effect index was significantly higher in ASD than NT, indicating stronger relative prior weight in a stable context. [→ Sapey-Triomphe 2023](#sapey-triomphe-2023)

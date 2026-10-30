@@ -45,4 +45,4 @@ Pre-test/post-test experimental/control group study conducted in real class cond
 
 
 ## Related Claims
-- [ITS evaluations in K-12 predominantly use short quasi-experimental designs concentrated in STEM, raising novelty-effect concerns](its-k12-design-landscape-novelty.md) — related
+- ITS evaluations in K-12 predominantly use short quasi-experimental designs concentrated in STEM, raising novelty-effect concerns — related

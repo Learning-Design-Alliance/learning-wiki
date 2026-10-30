@@ -69,4 +69,4 @@ The review contrasts low expectation teachers' diffident, tightly structured pra
 - [Basic psychological need satisfaction is strongly associated with learning engagement among medical undergraduates](need-satisfaction-strongly-associated-learning-engagement.md) — related
 - [Engineering students perceive AI chatbot benefits as strongest for relief from competence frustration, moderate for autonomy, and weakest for relatedness](ai-chatbot-need-specific-benefits-engineering-students.md) — related
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
-- [Self-determination theory grew incrementally by adding mini-theories as evidence accumulated](sdt-grew-brick-by-brick.md) — related
+- Self-determination theory grew incrementally by adding mini-theories as evidence accumulated — related

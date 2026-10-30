@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: xin-kang-2021
     resource: "https://doi.org/10.1038/s41539-021-00104-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In tenfold cross-validated SVR, L1 (Chinese) HKDSE grades alone significantly predicted L2 (English) HKDSE grades (mean cc = 0.257, p < 0.001, Cohen's d = 7.17). [→ Xin Kang 2021](#xin-kang-2021)

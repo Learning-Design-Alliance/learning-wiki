@@ -45,5 +45,7 @@ Frequency analysis of moderators/mediators (Table 8) based on 77 studies, of whi
 
 
 ## Related Claims
+
 - [Gender, age and English proficiency show nuanced group differences in chatbot attitudes and concerns](gender-age-proficiency-chatbot-differences.md) — related
 - [Written assignments are the most used object of peer assessment, and beliefs and perceptions are the most investigated outcome](peer-assessment-written-object-beliefs-outcome.md) — related
+- [Latent class analysis of 27 design elements yields a five-class solution in which only ten instructional design elements significantly contribute (R² .204–.880), showing peer assessment designs are less diverse than theoretically possible](lca-five-class-ten-design-elements.md)

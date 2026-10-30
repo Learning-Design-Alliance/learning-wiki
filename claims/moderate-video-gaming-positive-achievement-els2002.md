@@ -45,6 +45,6 @@ Same ELS:2002 hierarchical linear model analysis; the article reports "moderate 
 ## Related Claims
 - [Student use of computers for fun is positively and significantly associated with cross-sectional reading and mathematics achievement in high school, controlling for multiple covariates](computer-use-for-fun-positive-achievement-els2002.md) — related
 - [No significant moderators of the action video game effect were found in either meta-analysis](no-significant-moderators-avg-meta-analysis.md) — related
-- [Prior research on computer use, gaming, and achievement had focused on small intact and qualitative samples, with findings described variously as positive, negative, or neutral](prior-gaming-achievement-research-small-qualitative-samples.md) — related
+- Prior research on computer use, gaming, and achievement had focused on small intact and qualitative samples, with findings described variously as positive, negative, or neutral — related
 - [Recreational computer use and moderate video gaming were not related to growth in mathematics achievement from grade 10 to grade 12](recreational-computer-use-not-related-math-growth.md) — related
 - [The study's purpose is to examine the association between high school achievement and recreational computer use and video gaming using a large nationally representative sample](study-purpose-recreational-computer-use-achievement-association.md) — related

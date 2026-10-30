@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: weak
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: navarro-ibáñez-2026
     resource: "https://doi.org/10.1007/s10648-026-10208-6"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Across the reviewed studies, preservice teachers tended to rely more on informal help sources (peers, family, partners) than formal ones. [→ Navarro-Ibáñez 2026](#navarro-ibanez-2026)

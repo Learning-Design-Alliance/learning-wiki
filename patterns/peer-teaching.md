@@ -14,7 +14,7 @@ grain_size: lesson
 # Peer Teaching
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 34 claims (15 for, 16 mixed, 3 against) · 21 studies (11 quant-synthesis, 6 causal, 2 design, 1 review, 1 theoretical), `q1`–`q4` · 10 of 21 report an effect size · 31 claims rest on one study
+> **Evidence** · 33 claims (15 for, 15 mixed, 3 against) · 20 studies (10 quant-synthesis, 6 causal, 2 design, 1 review, 1 theoretical), `q1`–`q4` · 10 of 20 report an effect size · 30 claims rest on one study
 
 ## Description and scope
 
@@ -128,7 +128,6 @@ This pattern is scoped to learners teaching one another material they have met, 
 
 - [Staff-tutored tutorial groups achieve slightly but significantly higher marks than peer-tutored groups in problem-based learning](../claims/staff-tutoring-small-achievement-advantage-pbl.md) [-W]
 - [Students rated peer tutoring with the VoicePod as acceptable and helpful for learning vocabulary](../claims/social-validity-voicepod-tutoring.md) [+W]
-- [Publication bias evidence is mixed: marginal asymmetry for tutees but no missing studies, and no bias for tutors](../claims/cross-age-tutoring-publication-bias-mixed.md) [~W]
 - [Variable reciprocity assigns tutor roles for problems a student solved and tutee roles for problems not solved (as proposed by Evans and Moore)](../claims/variable-reciprocity-solved-problems-tutor.md) [~W]
 - [Sixth graders acting as peer tutors tended to take over problems and provide inaccurate feedback rather than help their tutee](../claims/sixth-graders-poor-peer-tutors.md) [-W]
 - [A synergistic effect between tutor and tutee roles may explain the peer agent's advantage](../claims/tutor-tutee-synergistic-effect.md) [+W]

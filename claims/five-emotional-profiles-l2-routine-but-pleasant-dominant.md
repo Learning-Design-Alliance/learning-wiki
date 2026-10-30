@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: peng-wang-2026
     resource: "https://doi.org/10.1007/s10648-026-10141-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Clustering momentary emotion reports from 92 adult L2 learners yielded five profiles: Stressful and Tedious (6.3%), Enjoyable and Relaxed (10.2%), Intense but Engaging (18.7%), Routine but Pleasant (57.8%), and Passive and Unengaging (7.0%). [→ Peng Wang 2026](#peng-wang-2026)
@@ -48,7 +49,7 @@ Gaussian mixture clustering of pooled momentary emotion ratings from the 21-day 
 - [Writing shifts episodes toward the Intense but Engaging profile (OR = 1.24) and classroom settings toward Stressful and Tedious (OR = 1.48), but the classroom effect likely reflects modality mix](modality-classroom-effects-emotional-profiles-gee.md) — a narrower finding that bears on this claim
 - [Time-series forecasting with TabPFN-TS markedly improves prediction of next-episode emotions and perceived proficiency over a static model (e.g., anxiety R² 0.458→0.866; boredom 0.596→0.953)](tabpfn-ts-forecasting-l2-emotions-high-accuracy.md) — related
 - [Latent profile analysis of four learning-related achievement emotions yields a five-class solution: four academic-control gradient profiles plus a distinct high-boredom profile](five-latent-emotion-profiles-lpa.md) — related
-- [Academic emotions cluster into four groups by antecedents, with anxiety and hopelessness highly correlated (r > .70) yet kept as separate scales](aeq-emotion-clusters-anxiety-hopelessness.md) — related
+- Academic emotions cluster into four groups by antecedents, with anxiety and hopelessness highly correlated (r > .70) yet kept as separate scales — related
 - [Internally divergent momentary engagement profiles occur within a single task, with students attentive yet emotionally and cognitively disengaged](divergent-internal-engagement-dynamics-single-task.md) — related
 - [Cluster analysis of medical students' emotions after diagnostic tasks reveals three distinct emotion clusters](three-emotion-clusters-diagnostic-tasks.md) — related
 - [Medical students' positive emotions correlate with better diagnostic performance in a computer-based learning environment](positive-emotions-correlate-diagnostic-performance-medical-students.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: felicia-warden-andrew-a-tawfik-2026
     resource: "https://doi.org/10.1007/s11423-026-10670-7"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q3 i?` The Robust Infrastructure construct showed significant librarian–teacher (p = .010) and librarian–administrator (p = .033) differences, with librarians rating themselves lowest (M = 2.04); the administrator–teacher comparison was not significant (p = .940). [→ Felicia Warden · Andrew A. Tawfik 2026](#felicia-warden-andrew-a-tawfik-2026)

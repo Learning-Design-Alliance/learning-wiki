@@ -67,4 +67,4 @@ In the same preschooler experiment, no significant group differences emerged for
 - [Preschoolers benefit more from the tablet game than toddlers (cross-experiment comparison)](preschoolers-benefit-more-than-toddlers-tablet-game.md) — related
 - [A brief tablet-based fast-mapping game improves toddlers' verbal communication skills relative to matched controls](tablet-fast-mapping-improves-toddler-communication.md) — related
 - [Language gains are weakly correlated with in-game performance, suggesting transfer relies on general-domain mechanisms](weak-correlation-gains-game-performance-general-domain.md) — related
-- [Included tablet-DGBL studies were generally methodologically rigorous by MERSQI standards](tablet-dgbl-studies-mersqi-rigor.md) — related
+- Included tablet-DGBL studies were generally methodologically rigorous by MERSQI standards — related

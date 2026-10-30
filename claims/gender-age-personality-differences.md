@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: wen-wu-2019
     resource: "https://doi.org/10.1007/s40593-018-00173-9"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Males scored significantly higher on Openness to Experience and Extraversion than females. [→ Wen Wu 2019](#wen-wu-2019)

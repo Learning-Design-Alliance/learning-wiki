@@ -47,4 +47,4 @@ Systematic review of 73 articles on online peer feedback in higher education, co
 
 ## Related Claims
 - [Rubrics and training were the most frequently implemented presentation modes of online peer feedback](rubrics-and-training-most-frequent-presentation-modes.md) — related
-- [Fewer than a quarter of studies evaluated student characteristics, with ability level and gender most explored](student-characteristics-understudied-peer-feedback.md) — related
+- Fewer than a quarter of studies evaluated student characteristics, with ability level and gender most explored — related

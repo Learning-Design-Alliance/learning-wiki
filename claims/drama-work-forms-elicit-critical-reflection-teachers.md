@@ -48,7 +48,9 @@ The review states its focus: drama and theatre-based work forms in teacher educa
 - [Academic and Critical Literacy](../learner-variables/academic-and-critical-literacy.md) — outcome: instruction changes it
 
 ## Related Claims
+
 - [Drama and theatre-based work forms can enhance teachers' equity literacy skills, or prerequisites to those skills](drama-work-forms-enhance-equity-literacy-skills.md) — a broader claim this one bears on
 - [A systematic review identified 26 eligible articles on drama and theatre-based work forms in teacher education, analysed using Gorski's equity literacy approach as a framework](systematic-review-26-articles-drama-equity-literacy.md) — related
 - [Drama and theatre-based work forms in teacher education are associated with equity-related outcomes including empathy, perspective-taking, collaboration, attitude shifts, and advocacy](drama-work-forms-equity-outcomes-empathy-advocacy.md) — a narrower finding that bears on this claim
 - [Exposure to diverse philosophical perspectives is viewed by teachers as key to developing critical reflection](diverse-perspectives-key-to-critical-reflection.md) — related
+- [A systematic review of 209 peer-reviewed articles (2009-2019) identifies three qualitatively different clusters of claims about how teachers can be prepared for diversity](three-claims-clusters-preparing-teachers-diversity.md)

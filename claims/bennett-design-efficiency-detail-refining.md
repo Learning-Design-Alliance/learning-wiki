@@ -47,4 +47,4 @@ The review reports, attributing to Bennett et al. (2017), that the findings "sug
 ## Related Claims
 - [A qualitative study of 30 university teachers reported three design practices that are incremental and iterative](three-incremental-iterative-design-practices-university-teachers.md) — possibly the same claim (merge candidate)
 - [Bennett et al.'s qualitative study found university instructors' design process is top-down, breadth-first, iterative, responsive, and reflective](university-instructor-design-process-characteristics.md) — related
-- [Bennett et al.'s research has limited detail about faculty design skills and emphasizes how faculty design resembles others' design approaches.](bennett-et-al-limited-detail-faculty-design-skills.md) — related
+- Bennett et al.'s research has limited detail about faculty design skills and emphasizes how faculty design resembles others' design approaches. — related

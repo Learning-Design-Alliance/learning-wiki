@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1917
+recheck_by: 1920
 sources:
   - id: arthuk-s-otis-stanford-university-1917
     resource: "https://eric.ed.gov/?q=Otis+criticism+Yerkes-Bridges+point+scale"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1920**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The Point Scale method of giving partial credit fails to use the full value of test data as its authors claimed it would. [→ ARTHUK S. OTIS (Stanford University) 1917](#arthuk-s-otis-stanford-university-1917)

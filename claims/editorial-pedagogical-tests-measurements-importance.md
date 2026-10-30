@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1910
+recheck_by: 1915
 sources:
   - id: j-c-b-1910
     resource: "https://psycnet.apa.org/journal/edu"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
-> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1915**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The editors judge pedagogical tests and measurements to be a field of perhaps even greater importance for education in the country than other fields, engaging many progressive school men, with great activity expected in the next few years. [→ J. C. B 1910](#j-c-b-1910)
@@ -45,5 +46,5 @@ Editorial statement (type e) about the emerging field of pedagogical tests and m
 
 
 ## Related Claims
-- [The journal's editorial gives special and continuing attention to general mental tests as a field for educational psychology](editorial-special-attention-general-mental-tests.md) — related
+- The journal's editorial gives special and continuing attention to general mental tests as a field for educational psychology — related
 - [The editor predicts NRC group tests will make intelligence testing a routine school measure and open the way for adjusting school work to pupil needs](nrc-tests-predicted-routine-school-intelligence-testing.md) — a narrower finding that bears on this claim

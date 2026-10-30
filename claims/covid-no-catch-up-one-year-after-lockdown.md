@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: di-pietro-giorgio-2023
     resource: "https://doi.org/10.1016/j.edurev.2023.100530"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q3 i?` There is no statistically significant difference in student performance between later assessments and those in the early stages of the pandemic. [→ Di Pietro Giorgio 2023](#di-pietro-giorgio-2023)
@@ -45,7 +46,7 @@ Meta-regression of 239 estimates comparing the 2021 assessment-timing moderator 
 
 
 ## Related Claims
-- [Estimated Covid-19 learning deficits are more pronounced in studies using experimental/quasi-experimental designs than in descriptive or correlational studies](covid-deficit-larger-quasi-experimental-designs.md) — related
+- Estimated Covid-19 learning deficits are more pronounced in studies using experimental/quasi-experimental designs than in descriptive or correlational studies — related
 - [COVID-19 learning deficits arose early in the pandemic and have neither closed nor substantially widened since then](covid-learning-deficits-early-onset-persistence.md) — possibly the same claim (merge candidate)
 - [Students in The Netherlands lost on average 3.16 percentile points (0.08 SD) in achievement during the 8-week COVID-19 lockdown](dutch-lockdown-learning-loss-3-percentile-points.md) — related
 - [COVID-19-related school closures in spring 2020 had a negative overall effect on student achievement (median −0.08 SD across eleven studies)](covid-school-closures-negative-achievement-effect.md) — related

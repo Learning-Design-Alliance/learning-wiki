@@ -52,4 +52,4 @@ This theoretical paper reports, citing its authors' prior study Slomowitz et al.
 - [Promotive factors are associated with positive outcomes equally in low- and high-risk contexts, producing gap-maintaining effects identified via main effects](promotive-factors-gap-maintaining-main-effects.md) — related
 - [Protective factors attenuate the effects of risk as risk rises, producing gap-closing effects represented analytically as Risk × Protective Factor interactions](protective-factors-gap-closing-interactions.md) — reports the opposite
 - [Explicit, instructional home numeracy activities acted as protective (not promotive) factors for 1st–2nd grade math performance in Torppa (2025)](home-numeracy-protective-math-torppa.md) — related
-- [Study designs and statistical analyses in literacy resilience research are often insufficient to distinguish promotive, protective, and skill-enhancing factors](designs-insufficient-distinguish-resilience-factor-types.md) — related
+- Study designs and statistical analyses in literacy resilience research are often insufficient to distinguish promotive, protective, and skill-enhancing factors — related

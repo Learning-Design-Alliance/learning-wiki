@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: frank-reichert-2020
     resource: "https://doi.org/10.1007/s11423-020-09825-x"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Unidimensional IRT models did not fit the ILPA technical DL data, whereas a four-dimensional exploratory MIRT model provided the best acceptable fit for P5, S2 and total samples. [→ Frank Reichert 2020](#frank-reichert-2020)

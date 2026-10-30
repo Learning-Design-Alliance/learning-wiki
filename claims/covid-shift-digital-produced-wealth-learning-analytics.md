@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: beerwinkle-2021
     resource: "https://doi.org/10.1007/s11423-020-09854-6"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q1 i?` During the 2020 pandemic, US K-12 schools moved to digital learning quickly and in large numbers, resulting in a wealth of digital learning analytics available for improving student learning outcomes. [→ Beerwinkle 2021](#beerwinkle-2021)

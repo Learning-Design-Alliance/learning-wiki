@@ -48,4 +48,4 @@ Structural model analysis (AMOS SEM) of 319 students testing H3, the direct digi
 - [Higher digital competence is positively associated with students' digital informal learning and academic engagement](digital-competence-positive-association-dil-engagement.md) — related
 - [Higher education students' digital competence has a positive effect on their digital informal learning](digital-competence-positive-effect-dil.md) — related
 - [Digital informal learning has a positive effect on higher education students' academic performance in a cross-sectional SEM study](dil-positive-effect-academic-performance.md) — related
-- [The hypothesised three-variable structural model fits the survey data well across printed fit indices](dil-sem-model-good-fit.md) — related
+- The hypothesised three-variable structural model fits the survey data well across printed fit indices — related

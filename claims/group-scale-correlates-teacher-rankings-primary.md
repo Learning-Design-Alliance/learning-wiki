@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 1919
+recheck_by: 1922
 sources:
   - id: pressey-1919
     resource: "https://doi.org/10.1037/h0072897"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
-> **Currency** · newest study 1919 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1919 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1922**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i3` Seventeen correlations between group test scores and teachers' rankings of pupils by ability averaged .47. [→ Pressey 1919](#pressey-1919)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: mehmet-bicakci-2026
     resource: "https://doi.org/10.1016/j.edurev.2026.100803"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Science raw quartiles (0.36, 0.69, 1.16) exceed mathematics raw quartiles (0.16, 0.38, 0.73), a difference the authors call highly consequential for interpretation. [→ Mehmet Bicakci 2026](#mehmet-bicakci-2026)
@@ -45,7 +46,7 @@ Subgroup analysis of the umbrella dataset by STEM field (Table 2) reports that "
 
 
 ## Related Claims
-- [Benchmarks are sensitive to precision and publication bias, but subgroup ordering remains stable and one-per-primary-study quartiles are broadly similar to raw values](benchmark-robustness-subgroup-ordering-stable.md) — related
+- Benchmarks are sensitive to precision and publication bias, but subgroup ordering remains stable and one-per-primary-study quartiles are broadly similar to raw values — related
 - [Cognitive, metacognitive, and strategic learning supports show the largest intervention-category benchmarks, while assessment and contextual interventions show the smallest](intervention-category-benchmark-heterogeneity.md) — related
 - [Raw effect size quartiles for STEM education interventions overall are 0.21, 0.48, and 0.86 at the 25th, 50th, and 75th percentiles](stem-raw-overall-benchmark-quartiles.md) — a broader claim this one bears on
 - [Science-related subject areas (mathematics, science, medical science) show larger effects than programming technology and other fields](subject-area-moderates-cps-critical-thinking-effects.md) — reports the opposite

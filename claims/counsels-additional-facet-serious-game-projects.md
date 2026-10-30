@@ -45,4 +45,4 @@ Authors' interpretive argument (type e) from the abstract: counsels are presente
 
 
 ## Related Claims
-- [Fifteen counsels of the RDU model were identified using seven Serious Game project examples from a corpus of 150](fifteen-counsels-identified-from-150-project-corpus.md) — a narrower finding that bears on this claim
+- Fifteen counsels of the RDU model were identified using seven Serious Game project examples from a corpus of 150 — a narrower finding that bears on this claim

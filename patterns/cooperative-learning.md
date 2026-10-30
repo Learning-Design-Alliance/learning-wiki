@@ -155,6 +155,7 @@ This pattern is scoped to small-group work where each member's individual learni
 - [Nine types of positive interdependence teachers can structure into cooperative activities](../elements/nine-types-positive-interdependence.md)
 
 ## Examples
+
 - [The science unit 'How does alcohol consumption affect our body?'](../designs/alcohol-consumption-multidisciplinary-unit.md) — disciplinary groups regrouped into multidisciplinary groups of three to build a shared model
 
 **Jigsaw (Aronson):** Each member of a home team learns one segment of material in an expert group, then teaches it to teammates. Every member is essential by design — the canonical positive-interdependence structure. See [https://www.jigsaw.org](https://www.jigsaw.org).
@@ -175,6 +176,7 @@ This pattern is scoped to small-group work where each member's individual learni
 - [Encourage Cooperation](../strategies/encourage_cooperation.md)
 - [Adopt and adapt parts of several cooperative learning models to fit your teaching style and situation](../strategies/adopt-and-adapt-multiple-cl-models.md)
 - [ARDESOS-DIAPROVE program](../products/ardesos-diaprove-program.md)
+- [Tutor-introduces-then-cooperative-groups lesson structure with a sports theme](../designs/fraction-face-off-cooperative-lesson-structure.md)
 
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)

@@ -12,7 +12,7 @@ generated:
 # An affordance framework for electronic collaborative learning environments
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article presents what it calls an affordance framework for electronic collaborative learning environments for learning and working. The framework is offered as a shared lens because designers currently build such environments according to their own constructivist interpretations, educators employ them in diverse situations, and researchers comparing them find no conclusive evidence about whether, where, when or why they work. The framework is intended to structure the design and evaluation of these environments.
@@ -23,7 +23,6 @@ The article presents what it calls an affordance framework for electronic collab
 
 ### Claims
 
-- [Three projects address the affordance framework, the interaction design procedure, and the educational affordance approach to tasks](../claims/three-projects-affordance-design-tasks.md) [+W]
 
 ## Related Research Methods
 -

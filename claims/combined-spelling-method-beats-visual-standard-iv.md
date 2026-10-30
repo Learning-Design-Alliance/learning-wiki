@@ -74,4 +74,4 @@ Preliminary dictation test in the same Standard IV experiment, used to check tha
 - [Twelve weeks of copy-and-home-study spelling practice with next-day dictation produced no improvement in Standard I boys' ability to acquire new spellings](home-copy-dictation-no-improvement-standard-i.md) — related
 - [A head-to-head teaching contest between a primarily visual method and a combined method produced nearly identical averages (22.9 vs 23.0) and could not decide between the methods because of uncontrolled confounds](uncontrolled-teacher-contest-inconclusive.md) — reports the opposite
 - [Reviewer credits the method with directness, concentration from flash-cards, valuable action responses, and stimulating effect](watkins-method-strengths-acknowledged.md) — related
-- [The journal prints a correction to the probable-error formula in W. H. Winch's article on learning to spell](winch-spelling-probable-error-correction.md) — related
+- The journal prints a correction to the probable-error formula in W. H. Winch's article on learning to spell — related

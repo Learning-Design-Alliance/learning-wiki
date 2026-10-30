@@ -48,6 +48,6 @@ Encoding Complex full measurement model (χ2(128)=465.40, RMSEA=.05, CFI=.96) fi
 - [Attention](../learner-variables/attention.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Arabic numeral formatted, small-problem-size outcomes (basic facts, computational fluency) retain high loadings on a specialized quantitative factor despite executive attention in the model](basic-facts-retain-encoding-complex-loadings.md) — related
+- Arabic numeral formatted, small-problem-size outcomes (basic facts, computational fluency) retain high loadings on a specialized quantitative factor despite executive attention in the model — related
 - [A post-hoc hybrid model combining Triple Code's three format-specific arithmetic factors with Encoding Complex's direct executive attention and language predictors fits best (CFI=.97)](hybrid-triple-code-encoding-complex-model-best-fit.md) — related
 - [Language is not a direct predictor of arithmetic outcomes once executive attention is accounted for, but language and executive attention are strongly related (r=.80 in the hybrid model)](language-not-direct-predictor-executive-attention.md) — related

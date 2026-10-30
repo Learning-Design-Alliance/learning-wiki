@@ -66,5 +66,5 @@ Follow-up multi-group comparison of the latent cross-lagged model: "invariance w
 ## Related Claims
 - [The authors conclude that MAP reading and mathematics CAT constructs are invariant across five time points in ten states (except Indiana mathematics), though their mathematics tables show strong-invariance CFI drops above 0.01 in most states](map-cat-longitudinal-construct-invariance-ten-states.md) — related
 - [MAP tests show metric invariance across grades for all studied tests except Michigan Mathematics tests](map-cat-metric-invariance-across-grades.md) — related
-- [Latent cross-lagged modeling yielded coefficients highly similar to the pooled analyses and a good model fit (CFI = .94, RMSEA = .08, SRMR = .04)](latent-sem-fit-similar-to-pooled-analyses.md) — related
+- Latent cross-lagged modeling yielded coefficients highly similar to the pooled analyses and a good model fit (CFI = .94, RMSEA = .08, SRMR = .04) — related
 - [MLGM model fit failed for the Indiana mathematics test, the sole exception to invariance support](indiana-mathematics-mlgm-fit-exception.md) — related

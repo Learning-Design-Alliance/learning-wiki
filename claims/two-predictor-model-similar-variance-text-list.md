@@ -10,6 +10,7 @@ generated:
 evidence_strength: moderate
 newest_evidence: 2019
 source_checked: 2026-10-25
+recheck_by: 2022
 sources:
   - id: altani-2019
     resource: "https://doi.org/10.1037/edu0000359"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2019 · checked against its sources 2026-10-25 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-10-25 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` The two-predictor model explained similar total variance in text reading as in serial word reading, contrary to the expectation that comprehension demands would reduce predictability of text reading. [→ Altani 2019](#altani-2019)

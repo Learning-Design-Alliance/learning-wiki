@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2019
+recheck_by: 2022
 sources:
   - id: peach-2019
     resource: "https://doi.org/10.1038/s41539-019-0054-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` SVM (RBF kernel) and depth-4 decision-tree classifiers trained on mean binge session length and percentage task completion predicted only 3-4 of 7 low-performance learners, versus 6 of 7 located by the unsupervised clustering. [→ Peach 2019](#peach-2019)

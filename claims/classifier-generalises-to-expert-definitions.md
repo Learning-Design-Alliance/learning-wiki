@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: moderate
 newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: donnellan-2021
     resource: "https://doi.org/10.1007/s10648-021-09622-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` The Study 1 classifier correctly classified 67/92 (72.83%) of expert definitions, with interest definitions classified more accurately (80.85%) than curiosity definitions (64.44%). [→ Donnellan 2021](#donnellan-2021)

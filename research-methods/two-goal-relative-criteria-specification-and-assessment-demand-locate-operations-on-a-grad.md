@@ -24,7 +24,8 @@ The framework supplies criteria applicable before instruction for classifying co
 ### Claims
 
 ## Related Research Methods
--
+
+- [Continuum for classifying instructional quality frameworks: generic, subject-specific, and hybrid](continuum-for-classifying-instructional-quality-frameworks-generic-subject-specific-and-hy.md)
 
 ## Key Sources
 - Daiki Nakamura. (2026). Augmentation or Erosion? Regulating Cognitive Offloading in Generative AI-Supported STEM Learning. Educational Psychology Review. https://doi.org/10.1007/s10648-026-10224-6

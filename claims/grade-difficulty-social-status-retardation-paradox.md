@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1918
+recheck_by: 1923
 sources:
   - id: toops-1918
     resource: "https://eric.ed.gov/?q=Mentality+and+School+Progress+Toops+Pintner"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1923**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` School A, of highest social status, has a consistently greater rate of increase than School C in the ratio of median mental age to median chronological age across grades, yet School A's entire-school retardation percentage (33.5) is smaller than School C's (38.4). [→ Toops 1918](#toops-1918)

@@ -33,7 +33,8 @@ The article proposes testing a theory's relative universalism—functional forms
 - [Students with SEN are more likely to belong to motivational profiles with maladaptive patterns](../claims/sen-students-more-likely-maladaptive-motivational-profiles.md) [+M]
 
 ## Related Research Methods
--
+
+- [Four levels of functional specificity of theoretical propositions, from non-causal association to functionally specified causal effects](four-levels-of-functional-specificity-of-theoretical-propositions-from-non-causal-associat.md)
 
 ## Key Sources
 - Dirk Tempelaar · Alexandra Niculescu. (2026). Testing the Relative Universalism of Psychological Theories: A Person-Centered Analysis of Control-Value Theory. Educational Psychology Review. https://doi.org/10.1007/s10648-026-10155-2

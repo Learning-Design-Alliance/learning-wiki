@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 2018
+recheck_by: 2021
 sources:
   - id: laninga-wijnen-2018
     resource: "https://doi.org/10.1037/edu0000210"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Peer-perceived achievement is highly correlated with grade point average (correlations varying from .60 to .70) and captures unique information on how well adolescents are doing at school. [→ Laninga-Wijnen 2018](#laninga-wijnen-2018)

@@ -45,8 +45,8 @@ Stratified Genomic SEM using 50 binary annotations from the BaselineLD Version 2
 
 
 ## Related Claims
-- [Transcriptome-wide SEM links the common factor to tissue-specific expression of RHEBL1 and LMBR1L within the same 12q13.12 locus](tsem-rhebl1-lmbr1l-expression.md) — related
-- [A multivariate GWAS on the common factor identifies a genome-wide significant locus on chromosome 12q13.12 that no univariate trait GWAS detected](multivariate-gwas-locus-12q13-12.md) — related
+- Transcriptome-wide SEM links the common factor to tissue-specific expression of RHEBL1 and LMBR1L within the same 12q13.12 locus — related
+- A multivariate GWAS on the common factor identifies a genome-wide significant locus on chromosome 12q13.12 that no univariate trait GWAS detected — related
 - [SuSiE fine-mapping of the common-factor locus resolves the signal into a 95% credible set of 22 variants near RHEBL1](susie-credible-set-22-variants.md) — related
 - [The common factor shows significant genetic correlations with six psychiatric disorders and six behavioral traits, strongest with PTSD (rg = -0.47) and educational attainment (rg = 0.74)](cg-genetic-correlations-psychiatric-behavioral.md) — related
 - [A common genetic factor captures shared genetic influences across four reading-related traits and ADHD, with ADHD loading negatively and reading traits positively](common-genetic-factor-reading-traits-adhd.md) — a broader claim this one bears on

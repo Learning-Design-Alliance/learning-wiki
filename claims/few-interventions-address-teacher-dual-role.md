@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: alazne-fernández-ortube-2024
     resource: "https://doi.org/10.1007/s10648-024-09919-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Thirteen of 66 interventions developed at least one subcategory of the self-regulated professional and one of the self-regulated promoter; only three covered all four subcategories. [→ Alazne Fernández Ortube 2024](#alazne-fernandez-ortube-2024)

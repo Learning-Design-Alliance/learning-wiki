@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: lm-richter-et-al-2021
     resource: "https://doi.org/10.1038/s41539-021-00106-7"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Median simulated costs of inaction for one year of not reaching SDG 4.2.2 were 0.58% of GDP (high-income), 2.54% (upper-middle), 6.24% (lower-middle) and 9.06% (low-income) countries, tending to be greater in lower-income countries. [→ L.M. Richter et al 2021](#lm-richter-et-al-2021)
@@ -49,4 +50,4 @@ Simulation of present discounted value of forgone lifetime earnings (net of prog
 - [The report's loss estimates are conservative because they exclude health, psychological, family, community, and broader societal costs that cannot be monetized](arizona-loss-estimates-conservative-exclusions.md) — related
 - [Early childhood development risks and learning opportunities show graded disadvantage from upper-middle- to lower-middle- to low-income countries, and within countries by wealth and rural residence](early-childhood-inequality-income-gradient.md) — related
 - [Pre-primary programme attendance is associated with higher science test scores at age 15 (0.09 SD for at least 1 year; 0.20 SD for 2 or more years)](pisa-pre-primary-science-association.md)
-- [Country GDP strongly correlates with the number of ITS research papers a country produces (r=0.88, p<0.001)](gdp-correlates-its-publication-output.md) — related
+- Country GDP strongly correlates with the number of ITS research papers a country produces (r=0.88, p<0.001) — related

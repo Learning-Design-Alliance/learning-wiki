@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: peng-wang-2026
     resource: "https://doi.org/10.1007/s10648-026-10141-8"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Training TabPFN-TS on each learner's first 85 episodes and forecasting the final 20 raised within-dataset R² from the static model: anxiety 0.458→0.866, boredom 0.596→0.953, self-perceived proficiency 0.515→0.832, enjoyment 0.651→0.934. [→ Peng Wang 2026](#peng-wang-2026)

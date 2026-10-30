@@ -46,8 +46,8 @@ Quantification of displacement over the first and final 30 s of the habituation 
 
 ## Related Claims
 - [Repeated ASH activation increases forward-movement probability and forward speed between stimuli, plasticity shared by PDF signaling mutants but reduced in magnitude](forward-locomotion-sensitization-between-stimuli.md) — related
-- [Sustained reversal responses to repeated ASH photoactivation in C. elegans require the glutamate receptor subunit GLR-1](glr-1-required-sustained-ash-reversal-responses.md) — related
+- Sustained reversal responses to repeated ASH photoactivation in C. elegans require the glutamate receptor subunit GLR-1 — related
 - [Neuropeptide synthesis enzymes EGL-3 and EGL-21 are required for habituation of ASH response latency and duration](neuropeptide-synthesis-required-ash-habituation.md) — related
 - [PDF ligands pdf-1 and pdf-2 function redundantly through PDFR-1 to promote habituation of ASH-mediated reversals](pdf-ligands-redundantly-promote-habituation.md) — related
 - [PDFR-1 promotes habituation via cAMP signaling in both neurons and body wall muscle, with probability, duration, and latency as dissociable metrics](pdfr-1-camp-neurons-muscles-dissociable-metrics.md) — related
-- [A systemic RNAi screen of neuropeptide GPCRs identifies PDFR-1 as the receptor whose knockdown suppresses the glr-1 habituation phenotype](rnai-screen-identifies-pdfr-1.md) — related
+- A systemic RNAi screen of neuropeptide GPCRs identifies PDFR-1 as the receptor whose knockdown suppresses the glr-1 habituation phenotype — related

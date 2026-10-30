@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 1915
+recheck_by: 1918
 sources:
   - id: woolley-1915
     resource: "https://doi.org/10.1037/h0075644"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1918**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The Pearson correlation between mental and physical composite ranks is .21 (P.E. .064) at fourteen and .33 (P.E. .060) at fifteen years, low enough that children can be roughly distinguished into five groups differing in mental and manual ability profiles. [→ Woolley 1915](#woolley-1915)

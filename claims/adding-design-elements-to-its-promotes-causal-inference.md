@@ -53,4 +53,4 @@ The article's central methodological demonstration, using the No Child Left Behi
 - [Ambiguous preintervention functional forms and other factors affecting posttest means and slopes are common in ITS applications](its-ambiguous-preintervention-functional-forms-common.md) — related
 - The single-group ITS design's counterfactual rests on the assumption that the pretest functional form can be validly estimated and extrapolated into the postintervention period, an assumption the authors call problematic — related
 - [Answering history explanation questions often requires causal inferences because causal relationships are frequently left implicit in textbooks](causal-links-implicit-in-history-textbooks.md) — related
-- [Causal inference always goes beyond the data, even in randomized experiments, because experimental manipulations may affect other variables that caused the effect](causal-inference-goes-beyond-data-even-in-experiments.md) — related
+- Causal inference always goes beyond the data, even in randomized experiments, because experimental manipulations may affect other variables that caused the effect — related

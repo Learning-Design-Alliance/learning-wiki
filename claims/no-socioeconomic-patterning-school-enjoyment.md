@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: tim-t-morris-2021
     resource: "https://doi.org/10.1038/s41539-021-00092-w"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Children with parents in more skilled occupations were as likely to report enjoying school as those with parents in less skilled and routine occupations. [→ Tim T. Morris 2021](#tim-t-morris-2021)

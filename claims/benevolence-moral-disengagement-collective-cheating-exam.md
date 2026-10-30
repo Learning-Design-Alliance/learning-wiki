@@ -68,4 +68,4 @@ Because Study 2 had a small sample, the authors ran two Monte-Carlo simulations 
 - [The benevolence effect is specific to collective cheating: it does not extend to individual cheating attitudes or to universalism values](benevolence-effect-specific-to-collective-not-individual-cheating.md) — related
 - [The benevolence-driven moral disengagement effect is strongest for group collectively copying off out-group students compared with individual copying](group-copying-drives-benevolence-disengagement.md) — possibly the same claim (merge candidate)
 - [Adherence to benevolence values positively predicts attitudes toward collective cheating when a competitive society is portrayed, but not in control or cooperative-society conditions](benevolence-predicts-collective-cheating-attitudes-competitive-society.md) — related
-- [Acceptance of individual and collective cheating form two distinct factors in students' responses](individual-collective-cheating-two-factor-distinction.md) — related
+- Acceptance of individual and collective cheating form two distinct factors in students' responses — related

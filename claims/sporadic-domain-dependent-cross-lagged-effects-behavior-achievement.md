@@ -46,6 +46,6 @@ Cross-lagged panel models (15 models, N = 461, five measurement points from grad
 
 ## Related Claims
 - [Reading achievement was nearly unrelated to behavioral problems across primary school, with only two significant cross-lagged paths](reading-achievement-unrelated-behavior-problems.md) — a narrower finding that bears on this claim
-- [The choice of longitudinal statistical model can determine whether reciprocal motivation-achievement relations are found](statistical-model-choice-reciprocal-effects.md) — related
+- The choice of longitudinal statistical model can determine whether reciprocal motivation-achievement relations are found — related
 - [Achievement rank-order stability is high across primary school, with written-language stability (β = 0.62–0.75) exceeding mathematics stability (β = 0.38–0.45)](high-achievement-stability-primary-school.md) — related
 - [Internalizing and externalizing behavioral problems show moderate to strong rank-order stability from grade 1 to grade 4](behavior-problems-stability-elementary.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-30
 evidence_strength: moderate
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: scanlon-2021
     resource: "https://doi.org/10.1016/j.compedu.2021.104291"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The achievement of teacher and learner agency is determined jointly by teachers, students, interdependent relationships, contextual factors and educational social processes, not by teachers and students alone. [→ Scanlon 2021](#scanlon-2021)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-30
 evidence_strength: moderate
 newest_evidence: 2011
+recheck_by: 2016
 sources:
   - id: donnelly-2011
     resource: "https://hdl.handle.net/10344/2340"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` When asked about ICT's role in meeting the challenges of teaching science, teachers' and stakeholders' responses centred on first-order barriers in terms of resources and students, including sharing resources, organisation, time saving and alternative transmission of information. [→ Donnelly 2011](#donnelly-2011)

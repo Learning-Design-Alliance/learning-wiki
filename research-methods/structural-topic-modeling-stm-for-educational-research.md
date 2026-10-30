@@ -23,6 +23,7 @@ The article applies a structural topic model (STM) to the abstracts and titles o
 
 ### Claims
 
+
 ## Related Research Methods
 -
 

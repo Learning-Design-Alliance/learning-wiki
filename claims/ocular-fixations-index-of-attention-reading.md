@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1910
+recheck_by: 1913
 sources:
   - id: bingham-1910
     resource: "https://doi.org/10.1037/h0071377"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
-> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1913**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Dearborn used the Dodge photographic method to record children's eye-movements, with suggestive but not conclusive evidence that fixation counts index attention and reveal whether a child reads by word-wholes or by letters and syllables. [→ Bingham 1910](#bingham-1910)

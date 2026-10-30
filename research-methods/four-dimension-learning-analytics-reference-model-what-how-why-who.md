@@ -12,7 +12,7 @@ generated:
 # Four-dimension learning analytics reference model (what, how, why, who)
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review adopts Chatti et al.'s (2012) reference model in which "LA consists of four dimensions including (1) what (what types of data does the system capture and analyze), (2) how (how does the system perform analytics), (3) why (for what reasons does the system gather and analyze data), and (4) who (who is served by the analytics)". This framework structures the review's coding scheme and four research questions, and underpins the conceptual framework the authors propose to guide implementation of LA for feedback systems in higher education.
@@ -23,7 +23,6 @@ The review adopts Chatti et al.'s (2012) reference model in which "LA consists o
 
 ### Claims
 - [Trace data is the dominant data type LA uses to support feedback in higher education (36% of coded data types)](../claims/trace-data-dominant-la-feedback.md) [+M]
-- [LA is used in higher-education feedback studies for a range of objectives beyond improving feedback itself, with reflection the most common (43% of studies)](../claims/la-feedback-objectives-reflection-most-common.md) [+M]
 
 ## Related Research Methods
 -

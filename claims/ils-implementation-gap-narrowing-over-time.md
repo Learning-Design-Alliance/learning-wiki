@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: de-jong-2021
     resource: "https://doi.org/10.1007/s11423-020-09904-z"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` An average of 5.8% of created ILSs were implemented over the reference period, with the proportion reaching 8.70% by the end of 2019 and classroom implementations increasing from 68 in 2015 to 971 in 2019. [→ de Jong 2021](#de-jong-2021)

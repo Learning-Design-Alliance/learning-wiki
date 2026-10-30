@@ -17,7 +17,7 @@ sources:
 # Learning experience (LX) design framework for integrating immersive VR in inquiry-based science learning
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article offers a learning experience (LX) design as an organizing framework for bringing an immersive VR simulation into an inquiry-based learning environment in Physics. The design specifies how the simulation and the inquiry process together support students' understanding of the Special Theory of Relativity. The authors "reflect on our LX design" after enactment and highlight questions for further research, positioning the design as a contribution to practice where learning designs are lacking.
@@ -39,7 +39,6 @@ The article offers a learning experience (LX) design as an organizing framework 
 
 ### Claims
 - [Lx Design Immersive Vr Special Relativity 109 Students](../claims/lx-design-immersive-vr-special-relativity-109-students.md) [+M]
-- [Mixed Method Evaluation Gains And Perceptions Immersive Vr](../claims/mixed-method-evaluation-gains-and-perceptions-immersive-vr.md) [+M]
 
 ## Related Designs
 - 

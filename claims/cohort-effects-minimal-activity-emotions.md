@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: dirk-tempelaar-alexandra-niculescu-2026
     resource: "https://doi.org/10.1007/s10648-026-10155-2"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Mean levels of learning-related emotions were temporally stable across 2010/2011–2023/2024 cohorts, including pre-, during, and post-COVID periods. [→ Dirk Tempelaar · Alexandra Niculescu 2026](#dirk-tempelaar-alexandra-niculescu-2026)
@@ -48,4 +49,4 @@ Descriptive analysis of fourteen cohorts' mean activity-emotion scores (Fig. 2).
 - [Emotional variability in L2 learning episodes is primarily intraindividual (62–68%), with modest lag-1 inertia (r ≈ .17–.19) and weak long-term trends or weekly cycles](l2-emotion-variability-within-person-inertia-modest.md) — related
 - [Most variance in students' epistemic emotions was situational (within-person) fluctuation, with 18–37% due to between-person variability.](within-person-fluctuation-dominates-epistemic-emotions.md) — related
 - [The cohort covariate's contribution to explained variance in all three writing measures fell well below the small-effect threshold](cohort-covariate-effect-below-small-threshold.md) — related
-- [Existing SLA emotion research methods cannot capture the dynamic nature of emotions in language learning situations](sla-emotion-methods-cannot-capture-dynamics.md) — related
+- Existing SLA emotion research methods cannot capture the dynamic nature of emotions in language learning situations — related

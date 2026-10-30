@@ -49,6 +49,6 @@ The article's abstract states this characterization directly, offering it as the
 - Narrative inquiry uses research puzzles rather than research problems because it is a searching again rather than a problem with a clear solution — related
 - [Stakeholder and faculty buy-in, time constraints, and lack of measurable definitions are the main challenges to integrating and assessing dispositions](challenges-integrating-dispositions-buy-in-time-definitions.md) — related
 - [The article argues that existing definitions of formative assessment lack a clear rationale delimiting the construct within broader theories of pedagogy.](formative-assessment-lacks-pedagogical-rationale.md) — a narrower finding that bears on this claim
-- [Proliferating definitions and incompatible measures of social presence have produced a confounding situation that prevents a coherent research field](social-presence-confounding-situation-jingle-fallacy.md) — a narrower finding that bears on this claim
-- [Previous research on authentic learning lacks clear definitions and operationalizations of authentic learning](authentic-learning-lacks-clear-definitions.md) — a narrower finding that bears on this claim
-- [Johnston argues that Fite's attack on the staffs of 300 college departments and 275 normal schools rests on an oversimplified philosophy](johnston-rebuttal-fite-teacher-training.md) — a narrower finding that bears on this claim
+- Proliferating definitions and incompatible measures of social presence have produced a confounding situation that prevents a coherent research field — a narrower finding that bears on this claim
+- Previous research on authentic learning lacks clear definitions and operationalizations of authentic learning — a narrower finding that bears on this claim
+- Johnston argues that Fite's attack on the staffs of 300 college departments and 275 normal schools rests on an oversimplified philosophy — a narrower finding that bears on this claim

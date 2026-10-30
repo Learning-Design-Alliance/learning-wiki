@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: yangchu-huang-2026
     resource: "https://doi.org/10.1038/s41539-025-00397-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i2` Prosocial model-based behavioural patterns correlated positively with self-other differences in model-based weights (r = 0.40) and model-free learning rates (r = 0.51). [→ Yangchu Huang 2026](#yangchu-huang-2026)

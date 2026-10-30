@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 1916
+recheck_by: 1919
 sources:
   - id: kate-gordon-1916
     resource: "https://www.jstor.org/journal/jeducpsych"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 1916 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1916 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1919**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Judging compositions with the Hillegas Scale narrows the spread of scores given to each composition, reducing average range by 11.5 points. [→ Kate Gordon 1916](#kate-gordon-1916)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1918
+recheck_by: 1921
 sources:
   - id: truman-l-kelley-ernest-c-witham-1918
     resource: "https://en.wikipedia.org/wiki/Journal_of_Educational_Psychology"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q1`
-> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1921**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` In a summer normal school class, 16 students rated a composition on the percentage basis and 15 of the same pupils rated the same composition by the Nassau Supplement the following day, with results arranged into ten groups for comparability. [→ Truman L. Kelley; Ernest C. Witham 1918](#truman-l-kelley-ernest-c-witham-1918)

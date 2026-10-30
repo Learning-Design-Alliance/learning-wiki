@@ -17,7 +17,7 @@ sources:
 # Target impulsivity through mindfulness training, structured environments, and executive-function interventions as candidate routes to improving college academic outcomes
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (3 for, 4 mixed) · 2 studies (1 review, 1 associational), `q2` · 1 of 2 report an effect size · 7 claims rest on one study
+> **Evidence** · 6 claims (3 for, 3 mixed) · 2 studies (1 review, 1 associational), `q2` · 1 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 The article proposes practical applications derived from its mediation findings: impulsivity is a more accessible intervention target than brain structure itself. It suggests "Educational strategies such as mindfulness training, which has been shown to reduce caudate volume and associated impulsivity, could be implemented in college settings", alongside structured learning environments that reduce impulsive decision-making, and executive-function training (planning, working memory, inhibitory control) tied to cerebellar function.
@@ -43,7 +43,6 @@ The article proposes practical applications derived from its mediation findings:
 
 - [Trait impulsivity is negatively associated with college GPA](../claims/impulsivity-negatively-associated-college-gpa.md) [+M]
 - [Impulsivity partially mediates the relationships of left cerebellar and right caudate gray matter volumes with college GPA](../claims/impulsivity-partially-mediates-brain-gpa-links.md) [+W]
-- [The study's brain–GPA and impulsivity findings are limited to young adults and cannot support causal claims](../claims/cross-sectional-young-adult-neuro-gpa-limitations.md) [~W]
 - [Curriculum add-ons PATHS and CSRP improve children's EFs and related outcomes in regular classrooms, with CSRP's academic gains mediated largely via EF improvement](../claims/paths-csrp-addon-ef-improvement.md) [+M]
 - [Left cerebellar and right caudate gray matter volumes also mediate the relationship between impulsivity and college GPA (exploratory)](../claims/brain-gmv-mediate-impulsivity-gpa-exploratory.md) [~W]
 - [Cerebellar and caudate gray matter volumes correlate in opposite directions with trait impulsivity in college students](../claims/cerebellum-caudate-gmv-opposite-impulsivity-correlations.md) [~W]

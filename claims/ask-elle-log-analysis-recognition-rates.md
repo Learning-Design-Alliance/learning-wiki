@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: gerdes-2016
     resource: "https://doi.org/10.1007/s40593-015-0080-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Analysis of 5950 log entries (3466 diagnosis interactions from 116 of 285 students) showed 56.1% of interactions and 46.3% of attempts were recognised as matching a model solution, with 82.9% of interactions classified. [→ Gerdes 2016](#gerdes-2016)

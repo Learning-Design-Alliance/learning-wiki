@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: mixed
 newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: howard-2021
     resource: "https://doi.org/10.1007/s11423-020-09913-y"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` The Remake Learning initiative was sustained and scaled through its network, but this success was not necessarily related to the research conducted. [→ Howard 2021](#howard-2021)

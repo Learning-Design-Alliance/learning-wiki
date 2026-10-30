@@ -46,5 +46,7 @@ Pre- and post-broadcast recall tests administered to samples of listeners of the
 
 
 ## Related Claims
+
 - [Listeners grasped the speaker's points in large majorities and showed preferences for an eminent speaker on a single theme, with Child Psychology most interesting to parents](listener-comprehension-and-topic-preferences.md) — related
 - [A large out-of-school audience was willing to listen systematically to educational broadcasts, with a combined potential audience of some 10 percent of the adult population](educational-broadcast-out-of-school-audience.md) — related
+- [Army reservists of all grades made statistically significant gains on information tests after viewing instructional telecasts](reservists-significant-gains-tv-telecasts.md)

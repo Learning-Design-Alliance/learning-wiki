@@ -45,6 +45,6 @@ The umbrella review's discussion of its synthesis of 23 reviews; earlier it note
 
 
 ## Related Claims
-- [Previous reviews of teachers' role in digitalizing education cluster into six main research themes, with digital literacy the most prominent (addressed in 14 of 23 reviews)](six-research-focus-themes-teacher-digitalization.md) — related
+- Previous reviews of teachers' role in digitalizing education cluster into six main research themes, with digital literacy the most prominent (addressed in 14 of 23 reviews) — related
 - [Rigorous investigation of GenAI's actual educational and cognitive effects remains limited despite increasing integration into learning environments](genai-pedagogical-effects-investigation-limited.md) — related
 - [Teachers' technology acceptance follows the TAM: perceived usefulness, perceived ease of use, and attitude toward technology predict technology integration, moderated by organizational, technological, and individual factors](tam-predicts-teacher-technology-integration.md) — related

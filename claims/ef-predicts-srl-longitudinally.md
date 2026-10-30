@@ -45,6 +45,6 @@ Table 1 entry for Davis et al. (2021), a longitudinal study of kindergarten-to-Y
 
 
 ## Related Claims
-- [The choice of longitudinal statistical model can determine whether reciprocal motivation-achievement relations are found](statistical-model-choice-reciprocal-effects.md) — related
+- The choice of longitudinal statistical model can determine whether reciprocal motivation-achievement relations are found — related
 - [RI-CLPM on simulated PALMA-like data shows positive reciprocal cross-lagged effects between within-individual math achievement and self-concept](riclpm-simulated-palma-positive-reciprocal-effects.md) — related
 - [LCSM on the same simulated PALMA-like data shows negative cross-lagged effects, contradicting the reciprocal effects model](lcsm-simulated-palma-negative-effects.md) — related

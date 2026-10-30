@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 2006
+recheck_by: 2011
 sources:
   - id: critten-2006
     resource: "https://doi.org/10.1037/0022-0663.99.1.207"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2011**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Six children appeared to show evidence of multiple levels and eleven E1A/E1B children produced some isolated Implicit-level responses, which the authors read as evidence of multiple representations co-existing. [→ Critten 2006](#critten-2006)

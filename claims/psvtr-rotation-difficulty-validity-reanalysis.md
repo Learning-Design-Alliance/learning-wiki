@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: mixed
 newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: buckley-2026
     resource: "https://doi.org/10.1007/s10648-026-10149-0"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i0`–`i3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i3` A pooled re-analysis of unmodified PSVT:R item data found degree of rotation strongly associated with item difficulty (pooled Spearman's ρ = −0.82), explaining 66.9% of variance and leaving 33.1% construct-irrelevant variance. [→ Buckley 2026](#buckley-2026)

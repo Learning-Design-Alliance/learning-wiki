@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: joost-c-f-de-winter-2024
     resource: "https://doi.org/10.1007/s40593-023-00372-z"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` With temperature 0, mean exam grades were 8.3 (March) and 8.1 (June), and bootstrapped grades 8.11 vs 8.21, yet the versions answered different individual questions incorrectly (14 vs 18 incorrect, only 9 overlapping). [→ Joost C. F. de Winter 2024](#joost-c-f-de-winter-2024)

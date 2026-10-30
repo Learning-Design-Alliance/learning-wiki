@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1918
+recheck_by: 1921
 sources:
   - id: stenquist-1918
     resource: "https://scholar.google.com/scholar?q=An+Improved+Form+for+Rating+by+the+Order+of+Merit+Method"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1921**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The author argues that because objective measures such as vocational tests and scales are established against order-of-merit judgment as the criterion, every effort should be made to raise ranking to as objective a level as possible. [→ Stenquist 1918](#stenquist-1918)

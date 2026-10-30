@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: wulff-2023
     resource: "https://doi.org/10.1007/s40593-022-00290-6"
@@ -40,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · design `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` BERT achieved the highest classification performance (weighted F1 .82) compared to FFNN (.62/.64) and LSTM (.72) models on validation data. [→ Wulff 2023](#wulff-2023)

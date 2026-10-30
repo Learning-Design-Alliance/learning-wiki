@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: xin-kang-2021
     resource: "https://doi.org/10.1038/s41539-021-00104-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` The crucial L1–L3 path in the second SEM was not statistically significant (b = −0.021 [CI: −0.101 to 0.059]), and adding it did not significantly improve fit over the LCH model (Δχ2 = 0.269, p = 0.604). [→ Xin Kang 2021](#xin-kang-2021)

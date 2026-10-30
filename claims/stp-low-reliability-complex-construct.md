@@ -73,11 +73,11 @@ Human inter-rater reliability measured with Fleiss' κ among three researchers c
 - [Cohen's kappa exhibits a paradox in which high observed agreement yields low kappa, making it unsuitable for pass/fail decision consistency](cohens-kappa-paradox-decision-consistency.md) — related
 - [The framework treats systems thinking and computational thinking as co-equal, separate entities within the context of modeling](st-and-ct-co-equal-separate-entities.md) — related
 - [Inter-rater agreement among pre-service teachers is low regardless of grading approach or essay quality](low-inter-rater-agreement-preservice-grading.md) — related
-- [Three expert coders reached 77.15% overall agreement (Fleiss' κ = 0.763) on the LCT MOOC sample, and over half of their disagreements lay between Exploration and Integration](coder-agreement-exploration-integration-disagreements.md) — related
-- [A structured negotiated-coding process reached nearly 98% interrater agreement before machine learning](negotiated-coding-98-consensus.md) — related
+- Three expert coders reached 77.15% overall agreement (Fleiss' κ = 0.763) on the LCT MOOC sample, and over half of their disagreements lay between Exploration and Integration — related
+- A structured negotiated-coding process reached nearly 98% interrater agreement before machine learning — related
 - [Machine learning detects five of eight reflective-writing categories with substantial or almost perfect reliability and three with moderate reliability (Cohen's κ .53–.85)](ml-detects-reflection-categories-kappa-053-085.md) — related
 - [Inter-rater reliability between human experts and AI coding is very low](low-irr-experts-vs-ai-coding.md) — related
 - [Kappa agreement with human experts shows a system is neither much worse nor much better than experts, but not that experts are a desirable comparison basis](kappa-expert-agreement-limits.md) — related
 - [An automated scoring engine matched experienced human markers yet was rejected over the confidentiality-explainability conflict](crase-scoring-equivalent-to-human-markers-rejected.md) — related
-- [The review's corpus comprises 39 peer-reviewed articles selected via a PRISMA protocol with substantial screening agreement](ile-psychomotor-review-corpus-39-articles-prisma.md) — related
-- [The proposed coding scheme achieves high inter-rater reliability across design object, design move, and communication move dimensions](coding-scheme-inter-rater-reliability.md) — related
+- The review's corpus comprises 39 peer-reviewed articles selected via a PRISMA protocol with substantial screening agreement — related
+- The proposed coding scheme achieves high inter-rater reliability across design object, design move, and communication move dimensions — related

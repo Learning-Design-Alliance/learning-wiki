@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: weak
 newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: steven-j-howard-2024
     resource: "https://doi.org/10.1007/s10648-023-09832-3"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Across the synthesised associations, there was little evidence that global ECEC quality indices (integrating process quality indicators with structural elements) related to child outcomes. [→ Steven J. Howard 2024](#steven-j-howard-2024)
@@ -45,8 +46,8 @@ The review's synthesis of associations across 90 studies, counting positive, neg
 
 
 ## Related Claims
-- [The review counts positive, negative and null associations rather than pooling effect sizes, because heterogeneity of measures and methods makes meta-analysis unsuitable](association-counting-synthesis-method-for-heterogeneous-quality-literature.md) — possibly the same claim (merge candidate)
-- [The review's evidence base comprises 90 studies reporting 870 associations of interaction quality with child developmental and educational outcomes, covering 108,693 children](ecec-quality-review-90-studies-870-associations.md) — related
+- The review counts positive, negative and null associations rather than pooling effect sizes, because heterogeneity of measures and methods makes meta-analysis unsuitable — possibly the same claim (merge candidate)
+- The review's evidence base comprises 90 studies reporting 870 associations of interaction quality with child developmental and educational outcomes, covering 108,693 children — related
 - [Prior meta-analyses report few or weak associations between ECEC quality indices and child progress, with process quality more predictive than structural quality](prior-meta-analyses-weak-quality-outcome-associations.md) — a broader claim this one bears on
 - [Measures of individual children's experiences within the ECEC group predict child development outcomes with higher effect sizes than global quality measures](individualised-measures-better-prediction-than-global.md) — related
 - [Interventions that change educator behaviour to match standard global definitions of quality have delivered negligible effects on children's developmental outcomes](educator-behaviour-interventions-negligible-child-outcomes.md) — related

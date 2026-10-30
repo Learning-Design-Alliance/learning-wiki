@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: weak
 newest_evidence: 1910
+recheck_by: 1915
 sources:
   - id: j-b-miner-1910
     resource: "https://www.google.com/search?q=%22The+College+Laggard%22+Miner+Journal+of+Educational+Psychology"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1915**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Of 78 laggards with principal reports, 47 would not have been certified for admission under the proposed 75/80 per cent entrance rule. [→ J. B. Miner 1910](#j-b-miner-1910)

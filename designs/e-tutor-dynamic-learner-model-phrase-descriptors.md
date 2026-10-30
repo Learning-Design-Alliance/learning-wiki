@@ -41,7 +41,8 @@ E-Tutor's learner model provides a dynamic assessment of each learner by conside
 - 
 
 ## Related Designs
-- 
+
+- [Retrieval-augmented Conversational AI Tutor with modular GROW-aligned coaching routines](rag-conversational-ai-tutor-modular-coaching-routines.md)
 
 ## Examples
 -

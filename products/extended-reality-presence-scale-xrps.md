@@ -25,7 +25,8 @@ The XRPS is a 17-item Likert survey developed and validated by Gandolfi et al. t
 - [The XRPS shows sufficient Rasch-based validity and reliability evidence for measuring presence in immersive 360-degree videos of gaming environments](../claims/xrps-valid-gaming-environment-360-videos.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Social Presence Measure (Kreijns et al., 2020)](social-presence-measure-kreijns-et-al-2020.md)
 
 ## Key Sources
 - Gandolfi, E., Soyturk, I., Kosko, K. W., Ferdig, R. E., & Clements, R. (2026). Measuring presence in virtual world teacher education: validation of the eXtended Reality Presence Scale. Education Tech Research Dev. https://doi.org/10.1007/s11423-026-10619-w

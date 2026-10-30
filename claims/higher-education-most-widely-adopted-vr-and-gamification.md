@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: lampropoulos-2024
     resource: "https://doi.org/10.1007/s11423-024-10351-3"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Higher education (71.21%) was by far the educational level that most studies focused on, followed by secondary education (10.61%). [→ Lampropoulos 2024](#lampropoulos-2024)
@@ -45,4 +46,4 @@ The review's analysis of the educational level of the 112 included studies found
 
 
 ## Related Claims
-- [Spain, the United Kingdom, Germany, Greece, and the United States conducted the most studies](countries-conducting-most-studies.md) — related
+- Spain, the United Kingdom, Germany, Greece, and the United States conducted the most studies — related

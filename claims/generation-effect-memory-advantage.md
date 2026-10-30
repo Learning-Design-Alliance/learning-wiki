@@ -49,4 +49,4 @@ The article describes the seminal generation-effect experiment in which particip
 - [Rereading Is A Low Utility Study Strategy](rereading-is-a-low-utility-study-strategy.md) — related
 - [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](concept-mapping-improves-learning.md) — related
 - [Pretesting enhances learning](pretesting-enhances-learning.md) — related
-- [Little cross-referencing exists between the behavioral techniques and their cognitive analogues in the published literature](literature-disconnect-between-fields.md) — related
+- Little cross-referencing exists between the behavioral techniques and their cognitive analogues in the published literature — related

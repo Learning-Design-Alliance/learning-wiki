@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1918
+recheck_by: 1921
 sources:
   - id: herring-1918
     resource: "https://doi.org/10.1037/h0075736"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1921**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Six judges chosen for mental acumen and long study of scientific method independently judged whether each of forty second-edition exercises tested its labelled ability, and exercises were modified until the judges reached practical agreement. [→ Herring 1918](#herring-1918)
@@ -45,7 +46,7 @@ Validity study of the second edition's forty exercises: six judges (philosophy, 
 
 
 ## Related Claims
-- [Five judges classifying 63 test units reached average inter-judge correlation of 0.542 ± 0.019 on the two scales](judge-agreement-classifying-test-units-scales.md) — related
+- Five judges classifying 63 test units reached average inter-judge correlation of 0.542 ± 0.019 on the two scales — related
 - [Judging learning-objective alignment of generated MCQs is more subjective than answering them, with only moderate human agreement](lo-alignment-judgment-more-subjective-than-answering.md) — related
 - [LLM-as-judge automated evaluation can achieve human-level agreement when carefully validated](llm-as-judge-human-level-agreement-with-validation.md) — a broader claim this one bears on
 - [The second edition was tried with 140 grade and 141 high school pupils; seven exercises were discarded, and about 1800 grade pupils took the final test in May 1917](test-administration-140-141-pupils-1800-may-1917.md) — related

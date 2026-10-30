@@ -64,6 +64,6 @@ Same item-reduction procedure applied to the PEoU items in the 512-teacher datas
 
 
 ## Related Claims
-- [In the EFA with 512 secondary school teachers, only two factors (PU and PEoU) were extracted from the proposed six-factor acceptance framework](efa-two-factors-pu-peou-gamified-efl.md) — related
-- [Most proposed constructs showed high internal consistency (Cronbach's alpha above 0.70) but control variables did not and were removed](scale-reliability-alphas-control-variables-removed.md) — related
-- [Perceived enjoyment merged statistically with PU, and perceived risks merged with PEoU, indicating face-validity problems for the proposed constructs](enjoyment-merged-pu-risks-merged-peou.md) — related
+- In the EFA with 512 secondary school teachers, only two factors (PU and PEoU) were extracted from the proposed six-factor acceptance framework — related
+- Most proposed constructs showed high internal consistency (Cronbach's alpha above 0.70) but control variables did not and were removed — related
+- Perceived enjoyment merged statistically with PU, and perceived risks merged with PEoU, indicating face-validity problems for the proposed constructs — related

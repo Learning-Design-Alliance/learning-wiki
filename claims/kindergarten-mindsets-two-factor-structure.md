@@ -73,4 +73,4 @@ Confirmatory factor analysis comparing a two-factor model against a unidimension
 - [In Study 1, measured fixed mindset correlated with fixed-trait attributions (r=.28), performance avoidance goals (r=.23), and hypothetical easy-problem choice (r=.12)](fixed-mindset-correlates-study1-replication.md) — related
 - [Kindergarteners who believe traits are malleable show better classroom behavioral self-regulation than children with a stable trait belief](malleable-trait-beliefs-better-cbsr-kindergarten.md) — related
 - [Task goals can be separated from learning goals and normative performance goals, each with approach and avoidance components.](task-goals-separable-from-learning-and-normative-goals.md) — related
-- [Acceptance of individual and collective cheating form two distinct factors in students' responses](individual-collective-cheating-two-factor-distinction.md) — related
+- Acceptance of individual and collective cheating form two distinct factors in students' responses — related

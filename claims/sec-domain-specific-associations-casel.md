@@ -49,5 +49,5 @@ Three-level mixed-effects models (M2, M3) examined teacher SEC domains and stude
 
 ## Related Claims
 - [Most cross-sectional studies report positive teacher-student SEC links, while teacher-targeted intervention trials show mixed distal effects on students](sec-narrative-findings-positive-links-mixed-trials.md) — related
-- [Research on SECs and engagement is unevenly distributed across the five CASEL domains, concentrating on self-management, self-awareness and relationship skills](casel-domains-unevenly-studied.md) — related
+- Research on SECs and engagement is unevenly distributed across the five CASEL domains, concentrating on self-management, self-awareness and relationship skills — related
 - [Most studies show social and emotional competencies are positively associated with student engagement and negatively associated with disengagement across school levels and backgrounds](secs-positively-associated-student-engagement.md) — related

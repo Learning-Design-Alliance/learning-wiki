@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2013
+recheck_by: 2018
 sources:
   - id: rapanta-2013
     resource: "https://doi.org/10.1007/s11423-013-9306-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Propose communication sequences occupy 45.9% of total team activity, followed by call for attention (12.9%), explain (12.8%), and comment (10.8%). [→ Rapanta 2013](#rapanta-2013)

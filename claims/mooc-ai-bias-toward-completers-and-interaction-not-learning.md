@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2017
+recheck_by: 2020
 sources:
   - id: yu-2017
     resource: "https://doi.org/10.1038/s41539-017-0016-3"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r2` · `q1`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Learning behaviour data are mostly from MOOC completers, so AI models trained on such data may be biased towards high performing learners. [→ Yu 2017](#yu-2017)

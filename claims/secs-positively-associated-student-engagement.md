@@ -50,8 +50,8 @@ The review's own synthesis of 91 included studies (92879 youth students, ages 10
 - [Social Awareness and Relationship Skills](../learner-variables/social-awareness-and-relationship-skills.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Emotional engagement is the most studied dimension of student engagement in SEC–SE research, largely surpassing multidimensional SE studies](emotional-engagement-most-studied-dimension.md) — related
-- [Research on SECs and engagement is unevenly distributed across the five CASEL domains, concentrating on self-management, self-awareness and relationship skills](casel-domains-unevenly-studied.md) — related
+- Emotional engagement is the most studied dimension of student engagement in SEC–SE research, largely surpassing multidimensional SE studies — related
+- Research on SECs and engagement is unevenly distributed across the five CASEL domains, concentrating on self-management, self-awareness and relationship skills — related
 - [Some SECs show no association with engagement dimensions in individual studies, including emotion regulation with behavioural engagement and intentional self-regulation compensation](null-associations-some-secs-engagement.md) — reports the opposite
 - [Longitudinal studies suggest reciprocal associations between some SECs and student engagement over time](reciprocal-sec-engagement-longitudinal.md) — related
 - [Social-emotional factors, including low academic self-efficacy and self-management, are related to rapid guessing behavior](sel-factors-related-to-rapid-guessing.md) — related

@@ -27,7 +27,8 @@ The article establishes a framework for continuous neural monitoring across a fu
 - [Machine learning models classify the three learning stages from EEG features with over 80% test accuracy, SVM highest at 82.6%](../claims/eeg-stage-classification-over-80.md) [+M]
 
 ## Related Research Methods
--
+
+- [EEG-based continuous online cognitive-load measurement](eeg-based-continuous-online-cognitive-load-measurement.md)
 
 ## Key Sources
 - Hui Xie, Chunli Jia, Yanxia Luo, Jiangshan He, Zexiao Dong, Dan Liang, Ziqi Ren, Mingzhe Jiang, Xinbo Gao & Xueli Chen. (2025). EEG analysis of brain dynamics in a simulated multi-task and multi-stage learning environment. npj Science of Learning. https://doi.org/10.1038/s41539-025-00376-5

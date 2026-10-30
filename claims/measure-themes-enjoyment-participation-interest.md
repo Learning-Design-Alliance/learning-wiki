@@ -45,7 +45,7 @@ Thematic analysis of engagement measures across the 31 measuring studies in the 
 
 
 ## Related Claims
-- [Among studies of young children's digital engagement in educational spaces, engagement was explicitly defined in only 18 of 88 studies (19.3%), theorised in 8 (9.1%), and measured in 31 (35.2%)](engagement-rarely-defined-theorised-measured-digital-child-studies.md) — related
+- Among studies of young children's digital engagement in educational spaces, engagement was explicitly defined in only 18 of 88 studies (19.3%), theorised in 8 (9.1%), and measured in 31 (35.2%) — related
 - [Topic-related interest, but not importance, utility, or self-efficacy, predicted task-related enjoyment while secondary students learned with an ITS](interest-predicts-task-enjoyment-its.md) — related
 - [Beyond cognitive gains, the experience increased girls' interest in computing and confidence, and fostered work ethics, perseverance, social development, digital citizenship, and independent learning](e5c-beyond-cognition-themes.md) — related
 - [Students exposed to robot storytelling report significantly higher enjoyment than students exposed to robot explanation in a 1-week classroom study](robot-storytelling-higher-enjoyment-than-explanation.md) — related

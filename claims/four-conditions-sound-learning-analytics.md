@@ -45,6 +45,6 @@ Editorial summary of Ifenthaler and colleagues' Delphi study reported in the spe
 
 
 ## Related Claims
-- [A Delphi panel of twelve international experts agreed on five important areas of development in learning analytics](delphi-experts-five-learning-analytics-development-areas.md) — related
+- A Delphi panel of twelve international experts agreed on five important areas of development in learning analytics — related
 - [Expert panelists overwhelmingly favor a hybrid governance model combining formal policies and flexible guidelines for GenAI in higher education](genai-hybrid-policy-guidelines-governance-consensus.md) — related
 - [AI adoption in higher education appears to progress faster than institutional policies, ethical frameworks, and governance structures, creating a policy–practice gap](ai-adoption-outpaces-governance-policy-practice-gap.md) — related

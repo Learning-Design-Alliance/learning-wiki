@@ -47,5 +47,5 @@ Three-level meta-analyses found non-significant pooled correlations: work experi
 ## Related Claims
 - [Region, study quality, and interaction domain moderate associations between factors and interactive skills](moderators-region-quality-domain.md) — related
 - [Demographic and experience-related learner factors show no or only weak relationships with SRL strategies in continuing education](srl-strategies-ce-learner-factors-null-weak.md) — related
-- [The evidence base on caregiver interactive skills is fragmented: 57% of identified factors were examined in only one study](fragmented-evidence-base-interactive-skills.md) — related
+- The evidence base on caregiver interactive skills is fragmented: 57% of identified factors were examined in only one study — related
 - [Higher caregiver salary is associated with higher interactive skills, though causality cannot be determined](salary-interactive-skills-positive-association.md) — related

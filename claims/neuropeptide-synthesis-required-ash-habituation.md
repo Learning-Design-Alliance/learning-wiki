@@ -46,8 +46,8 @@ Mutant analysis in the optogenetic habituation assay: the egl-3 single mutant ma
 
 ## Related Claims
 
-- [Sustained reversal responses to repeated ASH photoactivation in C. elegans require the glutamate receptor subunit GLR-1](glr-1-required-sustained-ash-reversal-responses.md) — related
-- [A systemic RNAi screen of neuropeptide GPCRs identifies PDFR-1 as the receptor whose knockdown suppresses the glr-1 habituation phenotype](rnai-screen-identifies-pdfr-1.md) — related
+- Sustained reversal responses to repeated ASH photoactivation in C. elegans require the glutamate receptor subunit GLR-1 — related
+- A systemic RNAi screen of neuropeptide GPCRs identifies PDFR-1 as the receptor whose knockdown suppresses the glr-1 habituation phenotype — related
 - [PDF ligands pdf-1 and pdf-2 function redundantly through PDFR-1 to promote habituation of ASH-mediated reversals](pdf-ligands-redundantly-promote-habituation.md) — related
 - [PDFR-1 promotes habituation via cAMP signaling in both neurons and body wall muscle, with probability, duration, and latency as dissociable metrics](pdfr-1-camp-neurons-muscles-dissociable-metrics.md) — related
 - [Repeated ASH activation increases dispersal (displacement) during habituation training, a plasticity that requires PDF signaling](pdf-signaling-promotes-habituation-induced-dispersal.md) — related

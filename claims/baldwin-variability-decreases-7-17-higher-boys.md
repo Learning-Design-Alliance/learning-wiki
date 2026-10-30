@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1921
+recheck_by: 1926
 sources:
   - id: new-publications-1921
     resource: "https://psycnet.apa.org/journals/edu"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
-> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1926**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Coefficients of variability of physical growth traits tend to decrease from seven to seventeen years of age. [→ New Publications 1921](#new-publications-1921)

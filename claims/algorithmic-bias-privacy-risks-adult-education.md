@@ -75,6 +75,6 @@ This conceptual policy paper, drawing on contemporary literature and internation
 - [Respondents identified algorithmic bias (31.9%), data privacy (27.5%), and technical reliability (27.5%) as the primary risks of AI in education](rfi-ai-risks-bias-privacy-reliability.md) — related
 - [Anonymization algorithms preserving result patterns may require sample sizes far larger than typical experiments](anonymization-requires-larger-samples.md) — related
 - [Arts-based methods in community-based research raise specific ethical challenges around anonymity, ownership, representation and emotions, alongside practical limits of time, training and cost](abr-ethical-practical-challenges.md) — related
-- [No included ITS study considered AI ethics, and the review calls for longer interventions, larger and more diverse samples, and ethical investigation](its-research-gaps-ethics-and-design.md) — related
+- No included ITS study considered AI ethics, and the review calls for longer interventions, larger and more diverse samples, and ethical investigation — related
 - [AI models trained on MOOC completion data risk bias toward high-performing learners, and machine-learned assessment reflects interaction rather than learning](mooc-ai-bias-toward-completers-and-interaction-not-learning.md) — a narrower finding that bears on this claim
 - [Using AIED poses technical, ethical and trust challenges for teachers](aied-challenges-technical-ethical.md) — related

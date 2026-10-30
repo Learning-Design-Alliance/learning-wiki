@@ -50,5 +50,5 @@ Descriptive comparison of z-standardized pre/post-test and survey variables acro
 ## Related Claims
 - [Adult learners' motivational profiles differ significantly in self-efficacy, learning strategies and behavioral engagement: the good-quality motivation group scores higher on all three, the high-quantity group on strategies and engagement only](profiles-predict-self-efficacy-strategies-engagement.md) — related
 - [Confused guessers had significantly lower pre- and post-test skill scores than most other clusters, but their science learning gains were not significantly different from those of Clusters 1, 2, and 4.](confused-guessers-lower-skills-similar-gains.md) — related
-- [Reading comprehension, self-concept and interest were collected prior to learning only to ensure comparability of conditions](pre-learning-comparability-measures-signaling.md) — related
+- Reading comprehension, self-concept and interest were collected prior to learning only to ensure comparability of conditions — related
 - [Cluster analysis of coherence metrics on 98 students revealed five distinct behavior profiles, with engaged and efficient students showing the highest reading scores and significantly higher science gains than all other clusters.](coherence-cluster-five-behavior-profiles-outcomes.md) — related

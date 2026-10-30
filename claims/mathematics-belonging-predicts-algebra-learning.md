@@ -81,7 +81,7 @@ The same follow-up study found "non-Asian racial and ethnic minority students re
 - [Middle school mathematics teachers frame low persistence in i-Ready Math as an interaction among motivational, cognitive, and contextual factors, with four recurring themes](teachers-frame-low-persistence-four-themes.md) — related
 - [Belonging, task relevance, and individual mindset together predict classroom self-efficacy, with belonging the strongest predictor](belonging-task-relevance-mindset-predict-self-efficacy.md) — related
 - [Sense of belonging to mathematics is positively related to algebraic thinking in reviewed studies](belonging-mathematics-positive-algebra.md) — a broader claim this one bears on
-- [Few algebra studies examine mathematical and motivational/socioemotional propensities in tandem](few-algebra-studies-integrate-propensities.md) — related
+- Few algebra studies examine mathematical and motivational/socioemotional propensities in tandem — related
 - [Mathematics self-efficacy is the most commonly studied motivational propensity and is usually positively related to algebraic thinking](math-self-efficacy-positive-algebra.md) — related
 - [A sense of relatedness moderates East Asian learners' internalization of others' choices, with benefits of other-made choices diminishing without belongingness](relatedness-moderates-other-made-choices.md) — related
 - [Belonging may be more predictive of students' classroom participation and learning behavior than self-efficacy](belonging-more-predictive-than-self-efficacy.md) — related

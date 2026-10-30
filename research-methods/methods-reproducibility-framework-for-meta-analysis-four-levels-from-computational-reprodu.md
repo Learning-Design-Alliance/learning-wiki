@@ -12,7 +12,7 @@ generated:
 # Methods Reproducibility framework for meta-analysis: four levels from Computational Reproducibility to Outcome Reproducibility
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article introduces a framework targeted at facilitating the reproducibility of meta-analysis, organized in four levels building on the TOP-guidelines, the Reproducibility Enhancement Principles, and Lakens et al.'s recommendations. It addresses "numerical accuracy (Computational Reproducibility: Level 1) and numerical validity (Computational Verification: Level 2)", then Analysis Reproducibility (Level 3) and Outcome Reproducibility (Level 4), which target researchers' degrees of freedom in analytical choices and database creation. The framework specifies what original authors must provide and what independent researchers or reviewers check at each level, and is demonstrated on the TRANSFER outcome of the Xie et al. meta-analysis.
@@ -24,7 +24,6 @@ The article introduces a framework targeted at facilitating the reproducibility 
 
 ### Claims
 - [Applying the reproducibility checks to TRANSFER performance, the Xie et al. (2018) results are (rather) robust, but RECALL and moderator results are doubtful](../claims/xie-2018-transfer-robust-recall-doubtful.md) [+M]
-- [Several RECALL effect sizes in the Xie et al. (2018) meta-analysis could not be reproduced, and one reported value (−0.639) is inconsistent with the primary study's data](../claims/xie-2018-recall-effect-sizes-unreproducible.md) [+M]
 
 ## Related Research Methods
 -

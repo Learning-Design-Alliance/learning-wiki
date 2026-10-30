@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: horoz-2025
     resource: "https://doi.org/10.1038/s41539-025-00354-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q3 i2` The correlation between household- and school-level parental education was positive (r = 0.32, p < 0.001). [→ Horoz 2025](#horoz-2025)

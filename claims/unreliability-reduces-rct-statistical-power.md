@@ -54,6 +54,6 @@ Analytical discussion in the reliability section of the paper, drawing on classi
 - [A low alpha for the dependent variable leaves the unstandardized regression coefficient unbiased but attenuates the standardized coefficient and reduces statistical power](low-alpha-dependent-variable-bias-and-power.md) — possibly the same claim (merge candidate)
 - [Defining facilitation as speech produced by facilitators imposes a low performance ceiling on predictive facilitative models](facilitator-speech-definition-performance-ceiling.md) — a narrower finding that bears on this claim
 - [Comprehension strategy instruction shows a large overall effect, but reliability is undermined by few standardized measures](comprehension-strategy-large-effect-unreliable.md) — a narrower finding that bears on this claim
-- [Most studies of literacy resilience have (very) small sample sizes and low statistical power to find relevant effects](literacy-resilience-studies-low-statistical-power.md) — related
+- Most studies of literacy resilience have (very) small sample sizes and low statistical power to find relevant effects — related
 - [Subjective symptoms are an unreliable measure of fatigue, and physiological tests have not yet yielded a reliable measurement method (Offner)](unreliable-subjective-physiological-fatigue-measures.md) — a narrower finding that bears on this claim
-- [The study was powered to detect effect sizes from d = 0.34 to 0.65 across the five tasks, so smaller effects would not have been reliably detected](power-analysis-detectable-effect-sizes-034-to-065.md) — related
+- The study was powered to detect effect sizes from d = 0.34 to 0.65 across the five tasks, so smaller effects would not have been reliably detected — related

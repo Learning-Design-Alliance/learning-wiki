@@ -10,6 +10,7 @@ generated:
 evidence_strength: moderate
 newest_evidence: 2023
 source_checked: 2026-10-30
+recheck_by: 2028
 sources:
   - id: anna-widlund-2023
     resource: "https://orcid.org/0000-0001-5563-5044"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2023 · checked against its sources 2026-10-30 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-10-30 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Significant linear declines occurred in both math and L1 self-concept, with a positive quadratic trend for math self-concept indicating the negative trend subsided. [→ Anna Widlund 2023](#anna-widlund-2023)

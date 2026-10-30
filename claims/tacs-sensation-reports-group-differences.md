@@ -46,4 +46,4 @@ Adverse-effects questionnaire completed after 20 min of tACS/Sham in the four-gr
 
 ## Related Claims
 - [Frontal theta tACS yields strong memory advantages over all other stimulation conditions at 2-hour, 24-hour, and 1-week delayed free recall tests](frontal-theta-tacs-hedges-g-delayed-recall.md) — related
-- [Participants were successfully blind to stimulation condition assignment across all four groups](tacs-participant-blindness-confirmed.md) — related
+- Participants were successfully blind to stimulation condition assignment across all four groups — related

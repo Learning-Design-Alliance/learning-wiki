@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: pozdniakov-2026
     resource: "https://doi.org/10.1016/j.compedu.2026.105591"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Among 304 sampled instances, 65% were fully correct, 55% were highly specific, but 36% provided no justifications for suggested changes. [→ Pozdniakov 2026](#pozdniakov-2026)

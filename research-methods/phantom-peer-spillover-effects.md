@@ -12,7 +12,7 @@ generated:
 # Phantom peer spillover effects
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article adopts the concept of phantom effects, coined by Harker and Tymms, defined as "misleadingly positive effects of aggregated variables in compositional models — peer spillover effects that are simply an artifact of the inadequacy in the statistical procedures used." Two facets of student-level under-specification produce them: measurement error bias, which can make non-existent compositional effects appear positive and significant, and omitted variable (selection) bias, whose direction depends on correlations among omitted and aggregated variables. The SIMS80 re-analysis empirically illustrates both facets.
@@ -22,7 +22,6 @@ The article adopts the concept of phantom effects, coined by Harker and Tymms, d
 - **Phantom peer spillover effects: measurement error and selection bias as sources of misleadingly positive compositional effects**: The article adopts the concept of phantom effects, coined by Harker and Tymms, defined as "misleadingly positive effects of aggregated variables in compositional models — peer spillover effects that are simply an artifact of the inadequacy in the statistical procedures used." Two facets of student-level under-specification produce them: measurement error bias, which can make non-existent compositional effects appear positive and significant, and omitted variable (selection) bias, whose direction depends on correlations among omitted and aggregated variables. The SIMS80 re-analysis empirically illustrates both facets. (Televantou et al. (2023))
 
 ### Claims
-- [Measurement error bias inflates peer spillover effects while attenuating the BFLPE; controls strengthen the BFLPE and weaken the spillover effect](../claims/measurement-error-bias-compositional-effects.md) [+M]
 
 ## Related Research Methods
 -

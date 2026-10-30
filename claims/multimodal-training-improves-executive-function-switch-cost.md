@@ -50,7 +50,7 @@ Omnibus ANCOVA on the set shifting task switch cost measure in the RCT. Table 2 
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Participant expectancies about intervention efficacy did not differ by intervention group](expectancies-did-not-differ-by-intervention-group.md) — related
+- Participant expectancies about intervention efficacy did not differ by intervention group — related
 - [Uni-modal HICRT fitness training improves belief assessment and information integration in healthy adults](hicrt-improves-belief-assessment-information-integration.md) — related
 - [Training effects are selective: active control improved processing efficiency but not executive function, and uni/multimodal interventions improved executive function but not processing efficiency](selective-transfer-active-control-processing-efficiency.md) — related
 - [Multimodal HICRT plus cognitive training, and HICRT plus cognitive training plus meditation, improve value assessment; meditation conferred an additional benefit](multimodal-training-improves-value-assessment.md) — related

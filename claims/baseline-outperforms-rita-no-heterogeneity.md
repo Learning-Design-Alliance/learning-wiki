@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: ilja-cornelisz-and-chris-van-klaveren-2022
     resource: "https://doi.org/10.1038/s41539-021-00117-4"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In World 1 (no heterogeneous treatment effects, intervention A more effective by 0.2), the baseline model reacts optimally in the first period and outperforms RITA, which incurs a median loss of -1.00 due to exploration. [→ Ilja Cornelisz and Chris van Klaveren 2022](#ilja-cornelisz-and-chris-van-klaveren-2022)

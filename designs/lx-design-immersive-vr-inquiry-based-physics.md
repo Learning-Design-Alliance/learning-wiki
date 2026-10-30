@@ -17,7 +17,7 @@ sources:
 # LX design pattern combining an immersive VR simulation with inquiry-based learning for complex scientific phenomena
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article presents a learning experience (LX) design that integrates an immersive VR simulation into an inquiry-based learning environment in Physics classrooms. The design is motivated by the argument that immersive VR simulations support learning of "complex scientific phenomena" via realistic graphics and interactions students can hardly experience otherwise. The pattern was enacted and evaluated with high-school students learning the Special Theory of Relativity.
@@ -38,7 +38,6 @@ The article presents a learning experience (LX) design that integrates an immers
 - Conceptual understanding of complex scientific phenomena, here the Special Theory of Relativity
 
 ### Claims
-- [Mixed Method Evaluation Gains And Perceptions Immersive Vr](../claims/mixed-method-evaluation-gains-and-perceptions-immersive-vr.md) [+M]
 
 ## Related Designs
 - 

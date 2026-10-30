@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: mixed
 newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: hartikainen-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2026.102474"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i1` small
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Event-level and segment-level EDA did not show robust associations with post-event emotional valence. [→ Hartikainen 2026](#hartikainen-2026)

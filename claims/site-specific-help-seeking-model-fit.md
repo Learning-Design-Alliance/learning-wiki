@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2015
+recheck_by: 2018
 sources:
   - id: amy-ogan-2015
     resource: "https://doi.org/10.1007/s40593-014-0034-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Cross-validated regression models of effective help seeking predicted learning within each site, with the Costa Rican model fitting best (cross-validated r = 0.462) and the Philippines model worst (r = 0.126); the combined multinational model reached only 0.216. [→ Amy Ogan 2015](#amy-ogan-2015)

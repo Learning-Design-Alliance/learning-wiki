@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 1917
+recheck_by: 1922
 sources:
   - id: grace-e-bird-1917
     resource: "https://doi.org/10.1037/h0072302"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
-> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1922**: baselines and conditions change
 
 ## Subclaims
 `q2 i3` By the Pearson product-moments formula, the correlation between high school girls' and boys' opinions is .80 (P.E. about .05), and between normal school girls and high school girls is .88 (P.E. .07). [→ Grace E. Bird 1917](#grace-e-bird-1917)

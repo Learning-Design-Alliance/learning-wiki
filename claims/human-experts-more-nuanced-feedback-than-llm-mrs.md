@@ -10,6 +10,7 @@ generated:
 evidence_strength: moderate
 newest_evidence: 2025
 source_checked: 2026-10-28
+recheck_by: 2028
 sources:
   - id: nygren-2025
     resource: "https://doi.org/10.1007/s40593-025-00484-8"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Human experts offered more mixed and nuanced feedback than ChatGPT-4o and Perplexity, especially when identifying missed teaching opportunities and balancing classroom discussions. [→ Nygren 2025](#nygren-2025)

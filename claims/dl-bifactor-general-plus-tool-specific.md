@@ -65,7 +65,7 @@ Authors' interpretation in the Discussion of the bifactor results: the specific 
 
 ## Related Claims
 - [Technical digital literacy measured with authentic software applications is not a unidimensional construct; a four-dimensional exploratory MIRT model fits best](dl-authentic-software-four-dimensions.md) — related
-- [Bifactor-ESEM shows the highest fit among CFA, ESEM, bifactor-CFA and bifactor-ESEM models, supporting AITAQS as one general factor plus four specific dimensions.](aitaqs-bifactor-esem-best-fit.md) — related
+- Bifactor-ESEM shows the highest fit among CFA, ESEM, bifactor-CFA and bifactor-ESEM models, supporting AITAQS as one general factor plus four specific dimensions. — related
 - [The same bifactor DL structure holds for primary and secondary students under partial measurement invariance, permitting comparison of performance levels across cohorts](dl-structure-invariant-across-cohorts.md) — related
 - [Secondary students outperformed primary students on general DL and online information seeking, but primary students performed slightly better on presentation-related DL](dl-cohort-differences-vary-by-dimension.md) — related
 - [Only about 62% of the reliable variance in total DL scores is attributable to the general dimension, supporting a multidimensional interpretation](dl-general-dimension-62-percent-reliable-variance.md) — related

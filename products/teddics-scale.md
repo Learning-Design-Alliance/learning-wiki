@@ -13,7 +13,7 @@ generated:
 # TEDDICS scale
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The TEDDICS scale is a teacher self-report assessment developed by Siddiq et al. to measure teachers' emphasis on students' skills in accessing, evaluating, and sharing and communicating digital information.
@@ -22,7 +22,6 @@ The TEDDICS scale is a teacher self-report assessment developed by Siddiq et al.
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [TEDDICS comprises three factors — accessing, evaluating, and sharing and communicating digital information — best represented by ESEM rather than CFA](../claims/teddics-three-factor-esem-structure.md) [+M]
 - [TEDDICS shows strict measurement invariance across gender and main subject groups](../claims/teddics-strict-invariance-gender-subject.md) [+M]
 
 ## Related Products and Programmes

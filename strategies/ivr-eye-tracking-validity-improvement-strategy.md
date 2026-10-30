@@ -17,7 +17,7 @@ sources:
 # Strengthen IVR eye-tracking validity through theory-driven metric selection, transparent data-quality documentation, and triangulation with complementary methods
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 quant-synthesis), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 quant-synthesis), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The review recommends that future IVR eye-tracking studies select metrics based on established theoretical rationales rather than scanning vendor-provided indices, document data-quality control procedures transparently, and avoid relying solely on manufacturer default settings. It states: "We recommend transparent documentation of data quality control procedures and advise researchers not to rely solely on manufacturer default settings." Triangulation with self-reports and interviews is encouraged to enhance convergent validity, and the proposed classification and scoring systems can serve as a reference for validating future measures.
@@ -39,7 +39,6 @@ The review recommends that future IVR eye-tracking studies select metrics based 
 ## Claims
 
 - [Overall validity of eye-tracking measures of learning in IVR is limited, averaging 1.93 of 4, with data quality the weakest component](../claims/ivr-eye-tracking-overall-validity-limited.md) [+W]
-- [IVR eye-tracking studies commonly use small samples, adult participants, professional-domain tasks, and default vendor hardware and software configurations](../claims/ivr-eye-tracking-methodological-characteristics.md) [+W]
 - [Eye-tracking measures of cognitive load show significantly higher validity than measures of other learning constructs in IVR](../claims/cognitive-load-measures-higher-validity-ivr.md) [~W]
 
 ## Related Strategies

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: moderate
 newest_evidence: 2010
+recheck_by: 2015
 sources:
   - id: lowrie-2010
     resource: "https://doi.org/10.1016/j.learninstruc.2009.11.005"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2015**: baselines and conditions change
 
 ## Subclaims
 `q3 i2` A significant main effect for year was found in the 3(year) x 2(gender) x 6(graphical languages) MANCOVA (partial η2 = .12), with post-hoc differences across all six languages. [→ Lowrie 2010](#lowrie-2010)

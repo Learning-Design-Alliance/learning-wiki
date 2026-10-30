@@ -45,5 +45,7 @@ This generalization is drawn from the author's own experiments and from reviewin
 
 
 ## Related Claims
+
 - [In Experiment 3, individual learners showed greater forgetting over 24 hours than paired learners](condition-by-delay-interaction-experiment-3.md) — related
 - [Sequential presentation of memory items produces less time-based forgetting than simultaneous presentation (Experiment 1)](sequential-presentation-less-forgetting-than-simultaneous.md) — related
+- [In Pyle's experiments women made better records than men](women-better-records-pyle-memory-experiments.md)

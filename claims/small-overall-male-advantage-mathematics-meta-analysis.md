@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: sara-caviola-2026
     resource: "https://doi.org/10.1007/s10648-026-10125-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q4 i?` Across 440 studies and over 15 million participants, males have a small overall advantage in mathematics performance (d = 0.083, 95% CI [0.060, 0.107]). [→ Sara Caviola 2026](#sara-caviola-2026)

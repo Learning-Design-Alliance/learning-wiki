@@ -74,5 +74,5 @@ Aggregate p-value tests (Simes/ACAT) over SBayesR results contrasted English- an
 - [Sample ancestry significantly moderates polygenic score predictions of educational attainment, with stronger predictions in European-ancestry samples](pgs-attainment-ancestry-moderator.md) — related
 - [Direct and indirect Reading-PGS effects remain largely after controlling for educational-attainment and cognitive-ability polygenic scores](reading-pgs-effects-specific-to-reading-not-education-iq.md) — related
 - [Gene-based tests identify associations including KCNC1 with pure-tone phonological composite, GTF3C1 with Chinese vocabulary measures, and CATSPERD with English word reading](gene-based-magma-associations-kcnc1-gtf3c1.md) — related
-- [The number of genome-wide significant loci associated with educational attainment increases with GWAS discovery sample size](education-gwas-loci-increase-with-discovery-sample-size.md) — related
+- The number of genome-wide significant loci associated with educational attainment increases with GWAS discovery sample size — related
 - [Genome-wide association studies and polygenic scores link genetic variants to individual differences in educational attainment, with small per-SNP but increasing aggregate effects](gwas-polygenic-scores-educational-attainment.md) — related

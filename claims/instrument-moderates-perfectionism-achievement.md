@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: weak
 newest_evidence: 2019
+recheck_by: 2022
 sources:
   - id: madigan-2019
     resource: "https://doi.org/10.1007/s10648-019-09484-2"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Subgroup analyses showed effects differed by instrument: the striving for perfection subscale showed larger positive effects (r+ = .40) than composite strivings (r+ = .21) or self-oriented perfectionism (r+ = .20), and the discrepancy subscale showed larger negative effects (r+ = −.16) than composite concerns (r+ = −.04). [→ Madigan 2019](#madigan-2019)

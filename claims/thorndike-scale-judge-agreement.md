@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1912
+recheck_by: 1915
 sources:
   - id: recent-studies-in-handwriting-1912
     resource: "https://doi.org/10.1037/h0068789"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 1912 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1912 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1915**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Agreement among ten different observers rating handwriting with the scale is surprisingly high, and the average of judgments gives a very accurate and constant determination. [→ Recent Studies in Handwriting 1912](#recent-studies-in-handwriting-1912)
@@ -46,6 +47,6 @@ The reviewer's assessment of Thorndike's monograph reports that agreement among 
 
 ## Related Claims
 - [An LLM-based AI Evaluator agrees with expert human raters on collaboration transcripts at a level similar to inter-expert agreement](llm-evaluator-agreement-matches-expert-raters.md) — related
-- [Five judges classifying 63 test units reached average inter-judge correlation of 0.542 ± 0.019 on the two scales](judge-agreement-classifying-test-units-scales.md) — related
+- Five judges classifying 63 test units reached average inter-judge correlation of 0.542 ± 0.019 on the two scales — related
 - [Comparison of seven school systems shows relatively little difference in handwriting quality at the same speed](seven-systems-quality-at-same-speed.md) — related
 - [Wilson's application of the Thorndike scale across a school system finds writing quality nearly the same in all grades while speed rises steeply](wilson-quality-constant-speed-rises.md) — related

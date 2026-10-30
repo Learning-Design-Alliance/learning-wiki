@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: istenič-2021
     resource: "https://doi.org/10.1007/s11423-021-09956-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The so-called usage gap in online resources, marked by gender, educational level and age, indicates lower educated individuals do not utilize advanced applications, especially in education and career, with profound impact on social inequality. [→ Istenič 2021](#istenic-2021)

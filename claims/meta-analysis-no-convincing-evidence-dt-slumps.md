@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: moderate
 newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: bruce-s-rawlings-sarah-j-cutting-2024
     resource: "https://doi.org/10.1007/s10648-024-09973-z"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q3 i?` A recent large-scale meta-analysis failed to find convincing evidence of developmental slumps in divergent thinking, and reported slump ages (9–10 years) do not correspond with educational-context changes for most children. [→ Bruce S. Rawlings & Sarah J. Cutting 2024](#bruce-s-rawlings-sarah-j-cutting-2024)
@@ -52,4 +53,4 @@ The review reports that a large-scale meta-analysis "failed to find convincing e
 - [DT test and country of study significantly moderate the Grade 3–4 originality trend, with a drop for WKCT and for eastern-country samples](test-and-country-moderate-grade4-originality.md) — related
 - [Task content domain significantly moderates the Grade 3–4 DT difference, with a positive SMD for figural tasks and a negative SMD for verbal tasks](content-domain-moderates-grade4-dt.md) — related
 - [Intellectual giftedness significantly moderates the Grade 3–4 fluency trend: gifted subjects tend to increase while non-gifted subjects tend to decline](giftedness-moderates-grade4-fluency.md) — related
-- [Publication bias was significant for the overall DT analysis but not for the fluency, flexibility, or originality indicator analyses](publication-bias-overall-dt.md) — related
+- Publication bias was significant for the overall DT analysis but not for the fluency, flexibility, or originality indicator analyses — related

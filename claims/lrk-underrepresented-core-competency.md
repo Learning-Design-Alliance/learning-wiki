@@ -54,4 +54,4 @@ Finding from the integrative literature review's thematic coding (Table 1). The 
 - [Existing legal and sector guidance each address only part of ethical learning analytics governance, and none integrates all six LEAGUE dimensions](existing-guidance-partial-ethical-coverage.md) — related
 - [The EU AI Act's ban on emotion recognition in education restricts an area of potential application for learning analytics](eu-emotion-recognition-ban-limits-la-applications.md) — related
 - [AIED, as a small academic society, is in a weak position to regulate the AI-in-education market](aied-weak-position-regulate-market.md) — related
-- [Most reviewed studies define digital competence by citing both research and EU policy documents](slr-digital-competence-definitions-policy-and-research.md) — related
+- Most reviewed studies define digital competence by citing both research and EU policy documents — related

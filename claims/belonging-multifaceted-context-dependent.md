@@ -52,6 +52,6 @@ Expert interview with Richard Lee in this qualitative narrative-analysis study. 
 - [Collaborative pedagogies such as problem- and project-based learning are more likely to promote students' sense of belonging than lecture-based pedagogies, but effects depend on the group's attributes](collaborative-pedagogy-promotes-belonging.md) — related
 - [Active participation in a community has a more significant impact on learning than mere membership](active-participation-beats-mere-membership-for-learning.md) — related
 - [A single 30-minute session co-authoring math word problems with AMPT significantly increased students' sense of belonging in mathematics](ampt-session-increased-math-belonging.md) — related
-- [Jingle-jangle fallacies fragment SR research in education and impede cumulative progress](jingle-jangle-fallacies-fragment-sr-research.md) — a broader claim this one bears on
-- [Jingle-jangle fallacies plague motivation constructs, requiring explicit justification of construct distinctions](jingle-jangle-motivation-constructs.md) — a broader claim this one bears on
+- Jingle-jangle fallacies fragment SR research in education and impede cumulative progress — a broader claim this one bears on
+- Jingle-jangle fallacies plague motivation constructs, requiring explicit justification of construct distinctions — a broader claim this one bears on
 - [Loose use of movement-based learning language risks conflating evidence-based embodied learning with debunked neuromyths](embodiment-terminology-neuromyth-conflation-risk.md) — related

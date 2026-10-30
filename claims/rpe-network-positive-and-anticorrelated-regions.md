@@ -55,7 +55,7 @@ Whole-group random-effects fMRI main-effect analysis of model-derived RPEs enter
 - [Brain responds similarly to prediction errors for human and slot-machine partners' generosity](prediction-errors-human-slot-machine-partners-continuum.md) — related
 - [Mentalizing-network regions (TPJ, STS, dmPFC, MTG) signal social prediction errors beyond ToM tasks](mentalizing-network-social-prediction-error.md) — related
 - [Feedback-stage reward prediction errors, signed or unsigned, do not modulate memory in either learning condition](feedback-rpe-no-memory-effect.md) — related
-- [Computational models of the amygdala are scarce relative to other brain areas, with a PubMed search yielding ~30 times fewer citations than for 'cortex'](amygdala-modelling-citations-scarcity.md) — related
+- Computational models of the amygdala are scarce relative to other brain areas, with a PubMed search yielding ~30 times fewer citations than for 'cortex' — related
 - [Following retrieval failure, feedback is accompanied by elevated prefrontal activity (outside VS), identified only at a lenient threshold](post-failure-feedback-prefrontal-activity-lenient-threshold.md) — related
 - [Adolescents show heightened striatal sensitivity to positive prediction errors, with context-specific valence asymmetries in learning](adolescent-positive-prediction-error-sensitivity.md) — related
 - [Observational prediction-error coding in dmPFC, dlPFC, inferior parietal cortex and insula is stronger in adults than children, and dmPFC PE activation predicts observational learning performance in both age groups](dmpfc-observational-pe-age-performance.md) — related

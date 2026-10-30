@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2011
+recheck_by: 2016
 sources:
   - id: ramasamy-2011
     resource: "https://www.aeu.edu.my"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Across the five IRFI sub-scales, means ranged from 13.45 to 15.31, with Slippery Slope the highest and False Analogy the lowest. [→ Ramasamy 2011](#ramasamy-2011)

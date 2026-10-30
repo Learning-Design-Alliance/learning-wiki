@@ -45,8 +45,10 @@ Small-n laboratory study of three trained observers across about thirty series e
 
 
 ## Related Claims
+
 - [Practice gains are greater for nonsense material (average final gain 28%) than for sense-material (average final gain 10%).](nonsense-material-gains-exceed-sense-material.md) — related
 - [Practice effects in visual reproduction are specific: they transfer to new conditions only in proportion to identical ability-conditioning factors.](practice-effects-specific-to-conditions.md) — related
 - [Systematic practise gives little warrant for markedly improving adults' quick visual perception; the slight poetry gain is attributed to familiarity with the poem](practise-negligible-effect-apprehension.md) — related
 - [Practise has a very slight effect on the range of attention, explicable by habituation and grouping tricks rather than any expansion of the range itself](practise-negligible-effect-range-of-attention.md) — related
 - [Retroactive inhibition fails to appear when memorized syllables are merely recognized rather than actively reproduced](retroactive-inhibition-absent-for-recognition.md) — related
+- [Percentage of conditioned eyelid responses increases across conditioning sessions, from 7% (initial) to 25% (halfway) to 81% (final)](conditioned-response-percentage-increases-across-sessions.md)

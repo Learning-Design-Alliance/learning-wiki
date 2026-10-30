@@ -46,6 +46,6 @@ Individual testing of selective judgment (judging good and poor reasons why gras
 
 
 ## Related Claims
-- [The study's conclusions rest on only sixty-five individually tested unretarded cases, limiting generalization](conclusions-rest-on-sixty-five-individual-cases.md) — related
+- The study's conclusions rest on only sixty-five individually tested unretarded cases, limiting generalization — related
 - [The twelve-year tests of the Binet-Simon scale were unsatisfactory, with several individual tests too difficult for the children tested](binet-simon-twelve-year-tests-unsatisfactory.md) — related
 - [Children aged 6–7 reliably identify the contestant whose copied shapes are closer in size to a target, replicating magnitude-of-error selective social learning](children-detect-relative-error-magnitude-informants.md) — related

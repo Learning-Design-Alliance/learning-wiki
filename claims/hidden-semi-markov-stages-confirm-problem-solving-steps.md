@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: arsalidou-2016
     resource: "https://doi.org/10.1038/npjscilearn.2016.16"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Multi-voxel pattern analysis using hidden semi-Markov models of mathematical problem-solving tasks yields a sequence of invariants indexing stages that confirm rationally expected steps of problem solving. [→ Arsalidou 2016](#arsalidou-2016)

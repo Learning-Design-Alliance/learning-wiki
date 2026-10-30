@@ -45,4 +45,3 @@ The reviewer reports the printed cube-test medians by age in Town's study: "the 
 
 
 ## Related Claims
-- [Town 52 Children Thorough Measurement](town-52-children-thorough-measurement.md)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: könül-karimova-2026
     resource: "https://doi.org/10.1007/s10648-026-10207-7"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i3` large
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i3` After direction alignment, associations were strongest for distress and vulnerability, learning strategy/self-regulation, and resilience-aligned constructs, and weakest for academic achievement. [→ Könül Karimova 2026](#konul-karimova-2026)

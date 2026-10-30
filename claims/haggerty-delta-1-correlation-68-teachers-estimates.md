@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1921
+recheck_by: 1924
 sources:
   - id: bell-1921
     resource: "https://doi.org/10.1037/h0073682"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1924**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The six-test Haggerty Delta 1 examination, used in the Virginia School Survey, gives a correlation of .68 with teachers' estimates. [→ Bell 1921](#bell-1921)
@@ -46,4 +47,4 @@ Annotated-list entry for M. E. Haggerty's Intelligence Examination Delta 1, a si
 
 ## Related Claims
 - [The Pressey Mental Survey Primer Scale for grades 1-3 requires neither reading nor writing and correlates .58 with teachers' estimates](pressey-primer-scale-correlation-58-teachers-estimates.md) — related
-- [The Haggerty survey report baseed its conclusions on testing of about 16,000 children with six to forty tests each](haggerty-survey-16000-children-tested.md) — related
+- The Haggerty survey report baseed its conclusions on testing of about 16,000 children with six to forty tests each — related

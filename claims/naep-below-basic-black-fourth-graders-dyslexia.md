@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: laura-cassidy-2023
     resource: "https://doi.org/10.1038/s41539-023-00204-8"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` For more than a decade NAEP data have shown that more than half of black fourth graders perform below the NAEP Basic level in reading, compared to about 20% of white students. [→ Laura Cassidy 2023](#laura-cassidy-2023)

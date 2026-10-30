@@ -48,4 +48,4 @@ Explorative whole-brain analyses showed no significant gender effects; ROI mixed
 ## Related Claims
 - [AU and OC conditions show distinct correlation patterns with external creativity and fluency measures, supporting their differentiation as divergent thinking versus verbal ability conditions](au-oc-conditions-distinct-correlation-patterns.md) — related
 - [Generating alternative uses relative to ordinary characteristics recruits mainly left temporo-parietal regions (left SMG, left AG, bilateral MTG) in both adolescents and adults](creative-idea-generation-left-temporo-parietal-recruitment.md) — related
-- [Experimental groups differed significantly on prior VR experience and gender composition, which were used as covariates](groups-differed-on-vr-experience-and-gender.md) — related
+- Experimental groups differed significantly on prior VR experience and gender composition, which were used as covariates — related

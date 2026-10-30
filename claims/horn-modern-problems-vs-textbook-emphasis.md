@@ -64,4 +64,6 @@ In the same examination of modern-problems books, eighteen per cent of reference
 
 
 ## Related Claims
+
 - [Bagley and Rugg's analysis of twenty-three US history textbooks (1865–1912) shows a shift from military toward political, economic and social content](bagley-rugg-textbook-shift-civil-military.md) — related
+- [Content analysis of twenty-nine school readers found poetry constituted fifty-one per cent of all selections](poetry-fifty-one-percent-primary-reader-selections.md)

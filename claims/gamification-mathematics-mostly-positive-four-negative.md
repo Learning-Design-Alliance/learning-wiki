@@ -45,7 +45,7 @@ Narrative synthesis of 45 quantitative studies (4,345 students, ages 13–38, 23
 
 
 ## Related Claims
-- [Engagement in gamified mathematics is rarely measured with validated instruments, preventing its meta-analytic synthesis](engagement-measurement-gap-gamified-mathematics.md) — related
+- Engagement in gamified mathematics is rarely measured with validated instruments, preventing its meta-analytic synthesis — related
 - [Effects of gamification on mathematics motivation show substantial heterogeneity (I² = 80.74%), mostly within-study](gamification-mathematics-heterogeneity-substantial.md) — related
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — related
 - [Extrinsic rewards deplete intrinsic motivation for already-motivated activities once the rewards are removed](extrinsic-rewards-deplete-intrinsic-motivation.md) — related

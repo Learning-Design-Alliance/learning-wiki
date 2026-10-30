@@ -17,7 +17,7 @@ sources:
 # Team leaders and trainees should monitor and adaptively manage their own and teammates' emotional arousal before and during high-stakes simulations
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 From the finding that physiological synchrony occurs before and during CRM simulations, the authors draw a practical recommendation: individuals training for high-stakes procedures should monitor and manage their own emotions and support teammates' emotions. They suggest that "team leaders might reflect that if they are feeling anxious, members of their team may very well be too", and might down-regulate a climbing negative, arousing state like anxiety or frustration before continuing. The recommendation extends to the pre-simulation period, when residents may be anticipating the scenario even while engaged in other tasks.
@@ -40,7 +40,6 @@ From the finding that physiological synchrony occurs before and during CRM simul
 
 - [During-simulation physiological synchrony is positively correlated with team leaders' CRM performance scores (preliminary, 9 teams)](../claims/ps-correlates-leader-crm-performance.md) [+W]
 - [Physiological synchrony is detectable among medical resident teams both before and during CRM simulation training, exceeding surrogate-data chance levels](../claims/ps-detected-pre-and-during-crm-simulation.md) [+W]
-- [Regression models of PS on CRM performance could not be conducted because four regression assumptions were not met](../claims/ps-regression-assumptions-not-met.md) [-W]
 
 ## Related Strategies
 - 

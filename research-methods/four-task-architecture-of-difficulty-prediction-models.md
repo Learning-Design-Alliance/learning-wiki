@@ -12,7 +12,7 @@ generated:
 # Four-task architecture of difficulty prediction models
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The review characterises difficulty prediction models as sharing four architectural components representing four fundamental tasks: "1) Ground truth labelling, 2) pre-processing, 3) feature extraction and 4) prediction." Ground truth is labelled via psychometric theories (CTT, IRT) or expert rating; pre-processing applies standard NLP techniques such as stemming, POS tagging and lemmatisation; feature extraction operates at syntactic (surface) or semantic levels; and prediction is overwhelmingly supervised. The review uses this structure to organise its findings sections.
@@ -23,8 +23,6 @@ The review characterises difficulty prediction models as sharing four architectu
 
 ### Claims
 
-- [Ground-truth difficulty labels in reviewed studies come roughly equally from expert/annotator labelling (34%), Classical Test Theory (34%), and Item Response Theory (26%)](../claims/ground-truth-labelling-methods-distribution.md) [+W]
-- [All surveyed automatic question difficulty prediction studies frame the task as supervised learning, mostly as classification of pre-defined difficulty categories](../claims/difficulty-prediction-supervised-dominant.md) [+W]
 
 ## Related Research Methods
 -

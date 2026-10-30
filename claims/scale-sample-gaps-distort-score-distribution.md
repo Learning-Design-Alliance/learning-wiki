@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1915
+recheck_by: 1918
 sources:
   - id: childs-1915
     resource: "https://doi.org/10.1037/h0075575"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1918**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Missing samples in parts of the scale's range lead to non-normal rating distributions, such as fewer 4 to 4.99 ratings than 3 to 3.99 ratings. [→ Childs 1915](#childs-1915)

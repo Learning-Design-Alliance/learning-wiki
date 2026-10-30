@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2018
+recheck_by: 2023
 sources:
   - id: li-2018
     resource: "https://doi.org/10.1038/s41539-018-0034-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` SES accounted for significant variance in functional connectivity in three of the four connections tested, with greater right hemisphere connectivity observed in children from low compared to high SES backgrounds. [→ Li 2018](#li-2018)

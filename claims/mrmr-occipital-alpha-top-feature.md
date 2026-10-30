@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: hui-xie-2025
     resource: "https://doi.org/10.1038/s41539-025-00376-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In MRMR feature selection, occipital alpha relative PSD received the highest classification weight, followed by frontal gamma, high-beta, and theta relative PSD. [→ Hui Xie 2025](#hui-xie-2025)

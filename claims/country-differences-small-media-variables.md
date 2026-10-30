@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: le-roux-2021
     resource: "https://doi.org/10.1016/j.compedu.2020.104056"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` ANOVAs across the three country samples showed significant differences for all study variables, with effect sizes ranging from η²p = .01 to η²p = .05, the largest for social media use (η²p = .05). [→ le Roux 2021](#le-roux-2021)

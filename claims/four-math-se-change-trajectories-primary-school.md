@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: peura-2026
     resource: "https://doi.org/10.1037/edu0001006"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Growth mixture modeling identified four qualitatively distinct math self-efficacy change trajectories, with most children (83.7%) in a high and stable trajectory and small subgroups showing low stable (8.5%), decreasing (4.2%), or increasing (3.6%) patterns. [→ Peura 2026](#peura-2026)

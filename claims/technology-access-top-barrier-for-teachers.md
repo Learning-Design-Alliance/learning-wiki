@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: lauren-e-margulieux-brendan-d-calandra-bryan-cox-2026
     resource: "https://doi.org/10.1007/s11423-026-10640-z"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Lack of access to technology was the most frequently cited barrier on both surveys (17 pre, 22 post), connected to cost and to readiness/digital literacy concerns. [→ Lauren E. Margulieux · Brendan D. Calandra · Bryan Cox 2026](#lauren-e-margulieux-brendan-d-calandra-bryan-cox-2026)

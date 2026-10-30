@@ -46,6 +46,7 @@ Qualitative evaluation in which three authors applied theory-driven codes from G
 
 
 ## Related Claims
+
 - [LDA topic modelling of 6,087 written student feedback responses yields six SET-related topics](lda-six-topics-from-student-feedback.md) — possibly the same claim (merge candidate)
 - [Feedback questionnaire wording affects LDA topic results, more for emotional value than content](questionnaire-wording-affects-lda-topics.md) — related
-- [Topic 4 (dissatisfaction with workload) contradicts thematic analysis and appears invalid](topic-4-workload-contradicts-thematic-analysis.md) — related
+- Topic 4 (dissatisfaction with workload) contradicts thematic analysis and appears invalid — related

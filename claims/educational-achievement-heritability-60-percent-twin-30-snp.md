@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2018
+recheck_by: 2023
 sources:
   - id: rimfeld-2018
     resource: "https://doi.org/10.1038/s41539-018-0030-0"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r3` · `q2`–`q3`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Twin ACE analyses show additive genetic factors explain about 60% of variance in achievement measures, with shared and non-shared environment each explaining about 20%. [→ Rimfeld 2018](#rimfeld-2018)
@@ -65,7 +66,7 @@ GCTA SNP-heritability analysis of the same achievement measures in the TEDS geno
 
 ## Related Claims
 - [GPAΔ is strikingly highly heritable (85%), exceeding the heritability of achievement itself (67%)](gpad-heritability-85-percent-exceeds-achievement.md) — related
-- [Adjusting published twin-study ACE estimates for assortative mating raises mean heritability by about 17 points and lowers shared environmental estimates by about 16 points](assortative-mating-adjustment-branigan-subsample.md) — related
+- Adjusting published twin-study ACE estimates for assortative mating raises mean heritability by about 17 points and lowers shared environmental estimates by about 16 points — related
 - [A Classical Twin Design model of educational attainment in the TwinLife sample estimates shared environmental influence at 43% and additive genetic influence at 34%](ctd-ea-ace-twinlife-43-c.md) — related
 - [Educational achievement is highly heritable, and the common environmental variance is attributable to SES effects](ea-heritable-common-env-variance-attributable-to-ses.md) — related
 - [The best-fitting NTFD model estimates heritability of educational attainment at 51% and total shared environmental influence at 26%, disaggregated into twin-specific (16%) and sibling-shared (10%) components](ntfd-best-fit-aste-51-26.md) — related

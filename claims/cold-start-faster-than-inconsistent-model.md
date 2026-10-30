@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2015
+recheck_by: 2018
 sources:
   - id: fabiano-dorça-2015
     resource: "https://doi.org/10.1007/s40593-015-0037-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` When LSp was initialized with cold start (0.50 in all dimensions), all 10 executions produced consistent results with fewer iterations (average 194.6) than experiments starting from an inconsistent model. [→ Fabiano Dorça 2015](#fabiano-dorca-2015)

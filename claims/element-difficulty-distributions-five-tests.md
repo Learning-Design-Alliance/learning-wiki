@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1917
+recheck_by: 1920
 sources:
   - id: arthur-s-otis-1917
     resource: "https://doi.org/10.1037/h0074753"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1920**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Ranking test elements by number of failures shows the Spelling Test too easy, the Synonym Test somewhat too easy, and Arithmetic problems bimodal in difficulty. [→ Arthur S. Otis 1917](#arthur-s-otis-1917)

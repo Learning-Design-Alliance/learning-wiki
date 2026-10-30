@@ -52,4 +52,4 @@ Chapter II's Key Approaches section defines the logistic regression method, noti
 - [A ninth-grade EXPLORE composite score of 17 is the tipping point for reaching an ACT score of 20, and can serve as an interim benchmark](explore-17-tipping-point-act-20.md) — related
 - [Grade 6 math CST proficiency alone is not an effective indicator of algebra readiness: students need a scale score of 367, about 0.27 SD above the cutpoint, to reach a 50 percent probability of grade 8 algebra I proficiency](grade6-proficiency-insufficient-algebra-readiness-indicator.md) — a narrower finding that bears on this claim
 - [ELPAC overall PL 4 remains the appropriate Criterion 1 reclassification threshold, with 2017-18 and 2022-23 data converging on the same level](elpac-pl4-threshold-validated-replication.md) — a narrower finding that bears on this claim
-- [Probit and multinomial probabilistic regressions estimated to assess impact on probability of higher scores](probit-multinomial-regressions-assess-probability-higher-scores.md) — related
+- Probit and multinomial probabilistic regressions estimated to assess impact on probability of higher scores — related

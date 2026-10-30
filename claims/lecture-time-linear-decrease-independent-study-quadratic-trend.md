@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: liborius-2019
     resource: "https://doi.org/10.1016/j.learninstruc.2017.10.006"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Aggregated time-series trend analysis shows a significant linear decrease in lecture time and significant linear and quadratic effects for independent study time over the 22-week term. [→ Liborius 2019](#liborius-2019)

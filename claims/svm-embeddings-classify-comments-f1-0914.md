@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: pierpaolo-vittorini-2021
     resource: "https://doi.org/10.1007/s40593-020-00230-2"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` A tuned SVM using sentence embeddings plus distance features classifies student comments as correct/incorrect with accuracy 0.891, F1 0.914, and Cohen's K 0.764. [→ Pierpaolo Vittorini 2021](#pierpaolo-vittorini-2021)

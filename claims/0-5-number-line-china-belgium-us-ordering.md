@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 2015
+recheck_by: 2020
 sources:
   - id: torbeyns-2015
     resource: "https://doi.org/10.1016/j.learninstruc.2014.03.002"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i3` large
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q3 i3` Country differences on 0-5 number line estimation were large (partial eta² = .28), PAE = 9%, 16%, and 23% for China, Belgium, and the U.S. [→ Torbeyns 2015](#torbeyns-2015)

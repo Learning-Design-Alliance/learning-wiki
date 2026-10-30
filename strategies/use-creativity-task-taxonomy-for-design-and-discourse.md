@@ -17,7 +17,7 @@ sources:
 # Use the creativity task taxonomy to design creativity activities and clarify research discussions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The review recommends its taxonomy of creativity tasks as a practical tool for educational practice and research communication. As stated, "The taxonomy of creativity tasks, introduced in this review, can be useful for both clarifying discussions in the creativity research discourse and designing creativity activities for educational practice." Designers can classify planned activities along the open-/close-ended and integrating/fragmenting dimensions, and by stimulus and response domain, to make task choices explicit.
@@ -43,7 +43,6 @@ The review recommends its taxonomy of creativity tasks as a practical tool for e
 
 - [Developmental patterns for general creativity and some subdimensions are less pronounced when tasks combine figural and verbal responses](../claims/mixed-figural-verbal-response-tasks-weaker-patterns.md) [+W]
 - [Developmental patterns are less pronounced for the originality subdimension of creativity in open-ended fragmenting tasks](../claims/originality-subdimension-less-pronounced-development.md) [+W]
-- [The creativity research body shows a varied picture of measurement, with open-ended integrating and open-ended fragmenting tasks most frequently used](../claims/varied-creativity-measurement-open-ended-tasks-frequent.md) [+W]
 
 ## Related Strategies
 

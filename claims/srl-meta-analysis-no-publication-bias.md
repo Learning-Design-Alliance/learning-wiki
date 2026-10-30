@@ -68,17 +68,17 @@ Publication-bias assessment of the 15 included studies using a funnel plot and E
 - [Most study, measurement, and intervention moderators did not explain significant variance in SRL intervention effect sizes](srl-intervention-moderators-most-nonsignificant.md) — related
 - [Regulation-of-learning interventions in programming education show an average effect of 0.59 on programming learning](regulation-interventions-programming-average-effect.md) — related
 - No clear evidence of publication bias or small study effects in the collaborative instruction literature — related
-- [Publication-bias tests found no evidence of substantial publication bias in the meta-analytic sample](no-publication-bias-teacher-self-efficacy-meta-analysis.md) — related
-- [No publication bias is detected in the collected Covid-19 achievement estimates](covid-meta-analysis-no-publication-bias.md) — related
+- Publication-bias tests found no evidence of substantial publication bias in the meta-analytic sample — related
+- No publication bias is detected in the collected Covid-19 achievement estimates — related
 - [The pooled self-efficacy–partnership correlation appears robust to the file-drawer problem](publication-bias-robustness.md) — related
 - [Publication bias is indicated for the performance-approach and performance-avoidance anxiety effects but not for the depression effects](publication-bias-performance-goal-anxiety-effects.md) — related
-- [Publication-bias tests (Egger's test and trim-and-fill) indicate absence of publication bias for the overall effect and moderators](drawing-support-no-publication-bias.md) — possibly the same claim (merge candidate)
-- [Publication bias was significant for the overall DT analysis but not for the fluency, flexibility, or originality indicator analyses](publication-bias-overall-dt.md) — related
-- [Publication bias evidence is mixed: marginal asymmetry for tutees but no missing studies, and no bias for tutors](cross-age-tutoring-publication-bias-mixed.md) — related
-- [No evidence of dissemination bias was detected in the meta-analysis](teacher-growth-mindset-no-dissemination-bias.md) — related
-- [Publication-bias checks indicate limited risk of publication bias in the extensive reading literature synthesized](er-publication-bias-limited.md) — related
+- Publication-bias tests (Egger's test and trim-and-fill) indicate absence of publication bias for the overall effect and moderators — possibly the same claim (merge candidate)
+- Publication bias was significant for the overall DT analysis but not for the fluency, flexibility, or originality indicator analyses — related
+- Publication bias evidence is mixed: marginal asymmetry for tutees but no missing studies, and no bias for tutors — related
+- No evidence of dissemination bias was detected in the meta-analysis — related
+- Publication-bias checks indicate limited risk of publication bias in the extensive reading literature synthesized — related
 - [Publication bias is minimal in the meta-analytic estimate of the inhibitory control–mathematical ability correlation](minimal-publication-bias-ic-math-meta-analysis.md) — related
-- [No evidence of publication bias was found in the achievement goal–dishonesty literature](no-publication-bias-goal-dishonesty.md) — related
-- [No evidence of publication bias was detected in the pooled L2 gender-difference literature](no-publication-bias-l2-gender-meta-analysis.md) — related
-- [Formal tests find no substantial evidence of publication bias or small-study effects in the meta-analysis](no-publication-bias-math-interventions-co-occurring.md) — related
+- No evidence of publication bias was found in the achievement goal–dishonesty literature — related
+- No evidence of publication bias was detected in the pooled L2 gender-difference literature — related
+- Formal tests find no substantial evidence of publication bias or small-study effects in the meta-analysis — related
 - [No evidence of publication bias was found for the overall effect of gamification on intrinsic motivation](gamification-meta-analysis-no-publication-bias.md) — related

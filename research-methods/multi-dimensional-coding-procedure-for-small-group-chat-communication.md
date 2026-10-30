@@ -12,7 +12,7 @@ generated:
 # Multi-dimensional coding procedure for small group chat communication
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 A multi-dimensional coding procedure for analyzing small group chat communication in CSCL research, developed by the authors to address three methodological issues: "the unit of analysis and unit fragmentation", "the reconstruction of the response structure" and "determining reliability without overestimation". The procedure treats analysis units and the connections between them — threading — as central, since threading "proved essential to handle unit fragmentation, to reconstruct the response structure and for reliability of coding". It extends chat analysis beyond the dyadic settings that have dominated CSCL research.
@@ -22,9 +22,6 @@ A multi-dimensional coding procedure for analyzing small group chat communicatio
 - **Multi-dimensional coding procedure for small group chat communication**: A multi-dimensional coding procedure for analyzing small group chat communication in CSCL research, developed by the authors to address three methodological issues: "the unit of analysis and unit fragmentation", "the reconstruction of the response structure" and "determining reliability without overestimation". The procedure treats analysis units and the connections between them — threading — as central, since threading "proved essential to handle unit fragmentation, to reconstruct the response structure and for reliability of coding". It extends chat analysis beyond the dyadic settings that have dominated CSCL research. (Jan Willem Strijbos (2007))
 
 ### Claims
-- [Threading — connections between analysis units — proved essential for handling unit fragmentation, reconstructing the response structure, and reliability of coding in small group chat](../claims/threading-essential-chat-coding.md) [+M]
-- [Developing a multi-dimensional coding procedure for small group chat communication raises three methodological issues: unit of analysis and fragmentation, response-structure reconstruction, and reliability without overestimation](../claims/chat-coding-three-methodological-issues.md) [+M]
-- [Conventional reliability determination risks overestimating coding reliability in small group chat analysis](../claims/reliability-overestimation-risk-chat-coding.md) [+M]
 
 ## Related Research Methods
 

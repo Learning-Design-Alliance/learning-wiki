@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: yang-fu-2024
     resource: "https://doi.org/10.1038/s41539-024-00266-2"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q3 i2` Adults with RD showed greater hemodynamic response than adults without RD during perception of Spanish syllables with high similarity to Chinese in right IFG and right DLPFC, with no child-group difference, indicating a smaller activation decrease from childhood to adulthood in RD. [→ Yang Fu 2024](#yang-fu-2024)

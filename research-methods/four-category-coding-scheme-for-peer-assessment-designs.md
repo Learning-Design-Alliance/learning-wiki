@@ -25,7 +25,8 @@ The review defines peer assessment as "a learning phenomenon where individuals o
 - [Latent class analysis of 27 design elements yields a five-class solution in which only ten instructional design elements significantly contribute (R² .204–.880), showing peer assessment designs are less diverse than theoretically possible](../claims/lca-five-class-ten-design-elements.md) [+M]
 
 ## Related Research Methods
--
+
+- [Three-category coding scheme for assessing PLC WhatsApp discourse](three-category-coding-scheme-for-assessing-plc-whatsapp-discourse.md)
 
 ## Key Sources
 - Alqassab, M., Strijbos, J.-W., Panadero, E., Fernández Ruiz, J., Warrens, M., & To, J. (2023). A Systematic Review of Peer Assessment Design Elements. Educational Psychology Review. https://doi.org/10.1007/s10648-023-09723-7

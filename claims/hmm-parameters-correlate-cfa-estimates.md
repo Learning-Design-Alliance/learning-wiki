@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: julia-ericson-and-torkel-klingberg-2023
     resource: "https://doi.org/10.1038/s41539-023-00161-2"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i3` ΔTS in the HMM correlated with TS in the CFA model (r = 0.78, p < 10−5), and βcap correlated with Cap (r = 0.45, p < 10−5) but not with TS (r = −0.01, p = 0.72). [→ Julia Ericson and Torkel Klingberg 2023](#julia-ericson-and-torkel-klingberg-2023)

@@ -49,7 +49,7 @@ Prediction-interval diagnostic reported alongside the primary synthesis. The art
 - [Effects of AI literacy interventions vary considerably across contexts, with most variance between studies (71.361%) and a wide prediction interval](ai-literacy-intervention-effects-highly-heterogeneous.md) — related
 - [GenAI effects on externally assessed learning are highly heterogeneous and conditional on prior knowledge, scaffolding, verification, and task design, with pooled effects unstable under publication-bias correction](genai-learning-effects-heterogeneous-conditional.md) — related
 - [Effects of game-based learning in STEM education vary substantially across studies, with prediction intervals spanning trivial-to-negative through very strong effects](games-stem-substantial-heterogeneity-prediction-intervals.md) — a broader claim this one bears on
-- [Effect sizes vary widely between studies and especially between comparisons within studies](large-variation-word-reading-intervention-effects.md) — related
+- Effect sizes vary widely between studies and especially between comparisons within studies — related
 - [Meta-analytic evidence on GenAI and critical thinking shows a positive mean association with a prediction interval spanning harm to benefit](genai-critical-thinking-metaanalysis-heterogeneity.md) — related
 - [Effect sizes across studies show substantial heterogeneity, with wide prediction intervals spanning large negative to large positive true effects](heterogeneity-math-interventions-co-occurring.md) — related
 - [Effect sizes for gender differences in L2 achievement are highly heterogeneous across studies (I² = 89.82%)](high-heterogeneity-l2-gender-effect-sizes.md) — related

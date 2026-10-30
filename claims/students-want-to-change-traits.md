@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: weak
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: hayley-k-jach-2023
     resource: "https://doi.org/10.1007/s10648-023-09807-4"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Almost all university students reported goals to change at least one Big Five trait, with 89% wanting to increase agreeableness and 97% wanting to increase conscientiousness. [→ Hayley K. Jach 2023](#hayley-k-jach-2023)

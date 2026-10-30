@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: okada-2024
     resource: "https://doi.org/10.21203/rs.3.rs-3960164/v1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Male students reported slightly greater perceptions of transversal skills than female students, and students identifying as other genders reported the lowest perceptions. [→ Okada 2024](#okada-2024)
@@ -55,5 +56,5 @@ Survey analysis by gender; the article reports 80% of male students scored above
 - [Cognitive strategy use was highest in social studies and lowest in mathematics, and females reported more use than males](cognitive-strategy-use-varies-by-subject-area.md) — related
 - [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — related
 - [Gender differences in AI perception scores appear only in the overall score and attitudes dimension, with males scoring higher](gender-differences-ai-perceptions-limited-dimensions.md) — related
-- [EFA of the CONNECT instrument identifies seven transversal-skill components](seven-transversal-skill-components-efa.md) — related
+- EFA of the CONNECT instrument identifies seven transversal-skill components — related
 - [Male students score significantly higher than females on Openness to Experience and Extraversion, while age shows no significant correlation with personality](gender-age-personality-differences.md) — related

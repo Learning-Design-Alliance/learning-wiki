@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: mixed
 newest_evidence: 2015
+recheck_by: 2018
 sources:
   - id: amy-ogan-2015
     resource: "https://doi.org/10.1007/s40593-014-0034-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In ten of 12 cross-site applications the model's predicted learning correlated positively with actual learning (sign test two-tailed p=0.04), but the U.S. model correlated negatively with learning on the Costa Rica data. [→ Amy Ogan 2015](#amy-ogan-2015)

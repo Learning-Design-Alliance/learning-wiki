@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: mingming-zhou-2022
     resource: "https://doi.org/10.1007/s11423-022-10080-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` During the pandemic, the percentage of Weibo users holding neutral views about online education dropped to 33.04% while those with negative views increased to 51.63%; after the pandemic neutral views again took the majority. [→ Mingming Zhou 2022](#mingming-zhou-2022)

@@ -46,7 +46,7 @@ The typewriting study determined that under the law of habit early associations 
 
 
 ## Related Claims
-- [Experimental work on method has concentrated in the habit group of studies, with extension to other curriculum subjects as the next step](habit-group-concentration-next-step.md) — related
+- Experimental work on method has concentrated in the habit group of studies, with extension to other curriculum subjects as the next step — related
 - [In natural learning, elemental and higher-order habits develop together, so the most economic method is to practice with the highest-order habits possible](habits-develop-together-natural-method.md) — related
 - [New adaptations in skill learning were made unintentionally and required intense, carefully applied effort under favorable conditions](higher-order-adaptations-unintentional-effort-driven.md) — related
 - [Learning-curve plateaus were caused by learners' failure to overcome specific difficulties at critical stages, not by the order in which habits developed](plateaus-caused-by-unovercome-difficulties.md) — related

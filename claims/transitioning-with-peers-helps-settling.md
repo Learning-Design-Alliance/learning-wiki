@@ -47,4 +47,4 @@ Peer-relationships finding from the systematic review's Relationships theme; the
 ## Related Claims
 - [A UK-focused systematic review identifies six key priority areas for primary-secondary school transitions: familiarity, relationships, intrapersonal skills, pastoral support, collaboration, and families](six-priority-areas-primary-secondary-transitions-review.md) — related
 - [Children (59 across 10 focus groups) conceptualise transitions-context emotional wellbeing around adapting to the unknown, fitting in, and signs of positive wellbeing](children-focus-groups-transitions-wellbeing-concepts.md) — related
-- [Most primary-secondary transitions research articles neither clearly define nor operationalise transitions, and nine conceptualisations appear across the 96-article literature](transitions-research-lacks-explicit-conceptualisation.md) — related
+- Most primary-secondary transitions research articles neither clearly define nor operationalise transitions, and nine conceptualisations appear across the 96-article literature — related

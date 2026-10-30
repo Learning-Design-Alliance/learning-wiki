@@ -45,8 +45,8 @@ Experiment with 46 male college students adding columns of ten one-place numbers
 
 
 ## Related Claims
-- [The data cannot be used to investigate end spurt because subjects were not told when each test would end](end-spurt-not-investigable-unninformed-subjects.md) — related
+- The data cannot be used to investigate end spurt because subjects were not told when each test would end — related
 - [Initial spurt takes place as a general rule in addition, which the author argues chance variation cannot explain](initial-spurt-general-rule-addition.md) — related
-- [Prior initial-spurt experiments failed because test periods were too lengthy and subjects too few](prior-spurt-experiments-two-weaknesses.md) — related
+- Prior initial-spurt experiments failed because test periods were too lengthy and subjects too few — related
 - [Efficiency in the work curve is conditioned by factors beyond fatigue proper: practice, adaptation, preparedness, warming up, spurts, voluntary effort, ennui, and diurnal rhythms (Offner)](work-curve-factors-beyond-fatigue.md) — a broader claim this one bears on
 - [In ten-minute arithmetic practice tests, pupils accomplish 6–21% more work in the first minute than in the average of the later minutes](first-minute-superiority-arithmetic-practice.md) — related

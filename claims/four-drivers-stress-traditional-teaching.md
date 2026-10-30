@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2015
+recheck_by: 2020
 sources:
   - id: peter-goodyear-2015
     resource: "https://www.herdsa.org.au/herdsa-review-higher-education-vol-2/27-50"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r?` · `q1`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Diversifying student needs, rising expectations about graduate capabilities, accelerating technological change and intensification of pressures on staff combine to stress traditional teaching. [→ Peter Goodyear 2015](#peter-goodyear-2015)

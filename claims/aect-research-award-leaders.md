@@ -45,5 +45,5 @@ Analysis of AECT award data collected from division leaders and the AECT main of
 
 
 ## Related Claims
-- [Handbook authorship and AECT awards are markedly less internationally diverse than journal publication, suggesting a North American bias in those indicators](handbook-awards-north-american-bias.md) — related
-- [First-author publication counts across 20 selected IDT journals (2005-2014) identify leading institutions worldwide, with Nanyang Technological University, National Taiwan Normal University, and National Central University at the top](idt-top-publishing-institutions-20-journals.md) — related
+- Handbook authorship and AECT awards are markedly less internationally diverse than journal publication, suggesting a North American bias in those indicators — related
+- First-author publication counts across 20 selected IDT journals (2005-2014) identify leading institutions worldwide, with Nanyang Technological University, National Taiwan Normal University, and National Central University at the top — related

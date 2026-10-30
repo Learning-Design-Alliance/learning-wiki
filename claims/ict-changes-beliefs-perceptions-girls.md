@@ -69,7 +69,7 @@ The review synthesizes that girls may have different gaming experiences and moti
 
 ## Related Claims
 - [Digital game-based learning aligns most with practice/participation and belief/perception dimensions, while mobile-enabled learning leads access to assets](dgbl-leads-participation-perception-alignment.md) — related
-- [Four ICT-enabled learning approaches are used in empirical studies of schoolgirls' learning in Asia, with computer-assisted learning the most common](four-ict-approaches-schoolgirls-asia.md) — related
+- Four ICT-enabled learning approaches are used in empirical studies of schoolgirls' learning in Asia, with computer-assisted learning the most common — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — a broader claim this one bears on
 - [AI applications in STEM education foster positive affective perception, including attitude, interest, and motivation](ai-stem-positive-affective-perception-effects.md) — related

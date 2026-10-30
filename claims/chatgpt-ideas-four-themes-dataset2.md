@@ -45,7 +45,7 @@ Analysis of 35 written ideas submitted by K12-to-higher-education educators in a
 
 
 ## Related Claims
-- [Educators' ideas on AI and VR in teaching were classified into three main categories: AI acting as a character, emerging technology to assist students' learning, and emerging technology to help the teacher](educator-needs-three-categories-ai-vr.md) — a broader claim this one bears on
+- Educators' ideas on AI and VR in teaching were classified into three main categories: AI acting as a character, emerging technology to assist students' learning, and emerging technology to help the teacher — a broader claim this one bears on
 - [Topic modeling of open-ended responses revealed five themes centered on ChatGPT's simplicity, speed, and role as a support tool](lda-five-themes-chatgpt-perceptions.md) — related
 - [Teachers viewed ChatGPT as a source of inspiration rather than a generator of genuinely innovative lesson content](chatgpt-inspiration-not-innovation-lesson-planning.md) — related
 - [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related

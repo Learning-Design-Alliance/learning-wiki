@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1918
+recheck_by: 1921
 sources:
   - id: truman-l-kelley-ernest-c-witham-1918
     resource: "https://en.wikipedia.org/wiki/Journal_of_Educational_Psychology"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
-> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1921**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The article names three causes of overlapping: unreliability of tests, unimportance of the function tested, and failure to properly classify; improper classification is established only when the first two are known not to be the causes. [→ Truman L. Kelley; Ernest C. Witham 1918](#truman-l-kelley-ernest-c-witham-1918)

@@ -17,7 +17,7 @@ sources:
 # Engage the AI in Education community actively with the public and key stakeholders to mitigate the in-credible AI effect
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The authors recommend that the "AI in Education community should attempt to be more actively engaged with the public to help mitigate such an effect", including providing training opportunities on AI basics and creating shared understanding among stakeholders such as educators, the public, and developers. They argue academics should be given time and encouragement to provide accessible research evidence and guidance.
@@ -42,7 +42,6 @@ The authors recommend that the "AI in Education community should attempt to be m
 
 - [Composite credibility scores differ significantly between the AI frame and both the neuroscience and educational psychology frames](../claims/ai-frame-lower-composite-credibility.md) [+W]
 - [Regression models identify attitudes toward educational psychology's scientific adherence as the main predictor of credibility judgments](../claims/attitude-predictors-of-credibility.md) [+W]
-- [Educators judge AI-framed educational evidence as significantly less credible than educational-psychology-framed evidence](../claims/educators-ai-frame-less-credible.md) [+W]
 - [Familiarity with the article topic correlates positively with bias against credibility of framed evidence](../claims/familiarity-correlates-credibility-bias.md) [+W]
 - [Framing educational research evidence within AI reduces its perceived credibility compared with neuroscience and educational psychology frames (the in-credible AI effect)](../claims/in-credible-ai-effect-reduced-credibility.md) [+W]
 - [The public perceives AI as less helpful for understanding how children learn, less adherent to scientific methods, and less prestigious than neuroscience and educational psychology](../claims/negative-attitudes-toward-ai-discipline.md) [+W]

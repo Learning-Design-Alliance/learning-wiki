@@ -48,6 +48,6 @@ Repeated measures ANOVA in a crossover study of 73 Swedish middle-school childre
 - [The PC-over-VR recall difference was significant only for children with higher sustained attention](condition-difference-only-high-sustained-attention.md) — related
 - [VR behavioural measures (word gaze, assembly time, rotation) did not predict word learning outcomes](vr-behavioural-measures-null-prediction.md) — related
 - [Sustained attention, not learning condition, was the strongest predictor of children's word recall](sart-strongest-predictor-word-recall.md) — related
-- [Experimental groups differed significantly on prior VR experience and gender composition, which were used as covariates](groups-differed-on-vr-experience-and-gender.md) — related
+- Experimental groups differed significantly on prior VR experience and gender composition, which were used as covariates — related
 - [Neither immersion nor interactivity produced significant effects on transfer measures](no-immersion-interactivity-effect-on-transfer.md) — related
 - [Referential gaze from a virtual teacher boosts L2 word-object mapping unconsciously in immersive VR, mirroring joint-attention mechanisms in first language acquisition](vr-referential-gaze-boosts-l2-word-learning.md) — related

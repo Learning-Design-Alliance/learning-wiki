@@ -49,4 +49,4 @@ Theoretical argument responding to ZaO's recommendation of cutoff values for the
 - [Retest reliability may be more appropriate than alpha for knowledge tests, but requires a testing interval without learning](retest-reliability-knowledge-tests.md) — related
 - [Meta-analytic average Cronbach's Alpha of domain-specific knowledge tests is 0.85 with expected item intercorrelation of 0.22](meta-analytic-alpha-knowledge-tests-085.md) — related
 - [A low alpha does not necessarily indicate high content validity, because reliability and validity can both be high](low-alpha-not-evidence-of-content-validity.md) — related
-- [Fixed alpha cutoff values create publication bias so knowledge tests with low alphas are underrepresented in the literature](alpha-cutoffs-publication-bias.md) — related
+- Fixed alpha cutoff values create publication bias so knowledge tests with low alphas are underrepresented in the literature — related

@@ -17,7 +17,7 @@ sources:
 # Use systematic, direct phonics instruction delivered one-to-one when teaching decoding to students with intellectual disability
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 1 study (1 quant-synthesis), `q4` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 quant-synthesis), `q4` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article's implications for practice rest on its finding that phonics instruction improves decoding for students with intellectual disability, with most effective studies using "a systematic and direct instruction approach and a one-to-one format". Practitioners should implement phonics instruction explicitly and systematically, in individualized sessions, targeting decoding skills.
@@ -43,7 +43,6 @@ The article's implications for practice rest on its finding that phonics instruc
 - [Type of interventionist was not a significant moderator of phonics instruction effects on decoding for students with intellectual disability](../claims/interventionist-type-not-significant-moderator-phonics-id.md) [+W]
 - [Phonics instruction has a large overall effect on the decoding skills of students with intellectual disability (g = 1.42)](../claims/phonics-large-effect-decoding-intellectual-disability.md) [+W]
 - [Researcher-designed decoding tests yielded larger effect sizes than standardized tests in studies of phonics instruction for students with intellectual disability](../claims/researcher-designed-tests-larger-effects-than-standardized.md) [~W]
-- [Single-case studies yielded a larger average effect size (g = 1.94) than group studies (g = 0.41) in this meta-analysis](../claims/single-case-larger-effects-than-group-studies-phonics-id.md) [~W]
 
 ## Related Strategies
 

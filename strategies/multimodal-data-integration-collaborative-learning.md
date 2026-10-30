@@ -17,7 +17,7 @@ sources:
 # Integrate physiological, dialog, video, and self-report data to analyze collaboration at individual and group levels
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The review recommends methodological approaches that integrate different data types, since 'Isolated verbal dialogues do not portray the complexity of the process, nor do they give us access to bodily performance in the process.' It proposes pairing analysis of physiological data relevant to interaction features with group dialogues, video observations, and guided self-reports to provide information for individual and group level analysis. This responds to the field's call for multimodal research designs addressing multiple layers of analysis.
@@ -40,7 +40,6 @@ The review recommends methodological approaches that integrate different data ty
 
 - [Gestures and bodily actions lighten cognitive load and extend mathematical ideas across group members during collaboration](../claims/gestures-material-scaffolding-collaboration.md) [+W]
 - [Physiological synchrony during collaborative interaction shows initial positive correlations with collaboration quality, task performance, and learning gains](../claims/physiological-synchrony-collaboration-quality-correlation.md) [+W]
-- [Verbal-utterance-based methods leave collaboration in groups with asymmetrical interactions, such as young children, unexamined](../claims/verbal-methods-exclude-asymmetric-groups.md) [+W]
 
 ## Related Strategies
 

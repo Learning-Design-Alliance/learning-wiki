@@ -13,7 +13,7 @@ generated:
 # Act It Out
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 29 claims (19 for, 7 mixed, 3 against) · 36 studies (17 causal, 7 review, 6 quant-synthesis, 3 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 7 of 36 report an effect size · 25 claims rest on one study
+> **Evidence** · 28 claims (19 for, 6 mixed, 3 against) · 36 studies (17 causal, 7 review, 6 quant-synthesis, 3 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 7 of 36 report an effect size · 24 claims rest on one study
 
 ## Description
 Act It Out asks learners to physically perform a concept, process, historical event, social interaction, or procedure rather than only describe or discuss it. Learners take on roles, gesture abstract relationships, or simulate a system's behavior with their bodies, producing an enactive representation of the content that complements verbal and visual encoding.
@@ -60,7 +60,6 @@ Enactment leverages the self-performed, embodied encoding of content: motor enga
 - [Movement-meaning congruency is the only moderator consistently associated with stronger embodied vocabulary learning effects across both research designs](../claims/movement-meaning-congruency-moderates-vocabulary-learning.md) [~W]
 - [Amount of sensorimotor engagement, target language, proficiency, and type of embodied interaction do not significantly moderate embodied vocabulary learning effects](../claims/non-significant-moderators-embodied-vocabulary.md) [+W]
 - [A prior meta-analysis reports that embodied designs helped improve learning efficiency and academic performance in education, including language education](../claims/zhang-meta-analysis-embodied-designs-improve-learning.md) [+M]
-- [Empirical research on embodied learning in language education is a small but rapidly growing area, with 41 studies identified and most published 2019–2020](../claims/embodied-language-learning-research-growing-41-studies.md) [~W]
 - [VR improved movement-based transfer test performance versus reading in security training, while learning in VR without the possibility to act was detrimental](../claims/vr-transfer-benefit-but-actionless-vr-detrimental.md) [+W]
 - [A 4-week embodied learning intervention with movement-phonemes improves grade 1 children's letter-sound knowledge more than regular classroom teaching](../claims/movement-phonemes-improve-letter-sound-knowledge-grade-1.md) [+W] — attached 2026-10-21 from Damsgaard et al. (2023), which proposed "Movement-phoneme activity program: paired whole-body letter-sound exercises over 4 weeks"; tests this page's relationship.
 - [Gesture instructions impaired narrative recall only for participants with average or above-average verbal memory, not those below average (Study 1)](../claims/gesture-instruction-harms-recall-high-verbal-memory.md) [~W]

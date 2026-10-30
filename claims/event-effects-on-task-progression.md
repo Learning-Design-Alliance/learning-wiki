@@ -48,7 +48,6 @@ Qualitative reading of the task progression graph of one Narrative Condition sub
 ## Related Claims
 
 - [The Narrative Manager generated an additional full spill task for users advancing quickly, widening their distance to the goal by 23 points, while slow users received only small difficulties](narrative-manager-adaptive-extra-spill.md) — related
-- [The evaluation was a blind, two-condition study in which 30 informatics students ran the Bio-safety Lab scenario both with and without the Narrative Manager across three stages](blind-crossover-biosafety-evaluation-design.md)
 - [Trait-score trajectories over time are inconclusive as learning-curve evidence: one StudyChat trait increases while the significant SWE-Chat traits stay flat](trait-temporal-trends-inconclusive-learning-curves.md)
 - [In Graphical Jogthrough, evaluators’ ratings yield a graph of estimated proportion of effective users versus the time needed to achieve effectiveness](graphical-jogthrough-graph-of-effective-users-over-time.md) — related
 - [Graphical Jogthrough applied to educational software offers quantitative and qualitative data for a rough estimation of the novice–becoming–expert pace](graphical-jogthrough-estimates-novice-expert-pace.md) — related

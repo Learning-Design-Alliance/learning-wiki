@@ -65,7 +65,9 @@ Expert audit of 74 rejected questions from a random 100-question sample of PRISM
 
 
 ## Related Claims
+
 - [Expert audit attributes 95.20% of audited benchmark rejections to benchmark or grader errors rather than model errors](expert-audit-most-physics-benchmark-rejections-are-benchmark-or-grader-errors.md) — related
 - [On public-source benchmark subsets, corrected scores for all three frontier models rise dramatically after excluding flawed questions](public-source-benchmark-corrected-scores-rise-dramatically.md) — related
 - [After expert correction of benchmark materials, GPT-5.6-Sol's measured accuracy rises substantially on HLE-Physics, CMT-Benchmark, and CritPt](corrected-benchmark-scores-rise-substantially-after-expert-audit.md) — related
 - [The HLE-adapted evaluator shows the lowest grader error rate (4.08%) among the evaluators audited](hle-adapted-evaluator-lowest-grader-error-rate.md) — related
+- [Calibrating a production LLM-as-judge suite raised per-flag precision from 0.6% to 48.9% while cutting confirmed false positives by 99%](llm-judge-calibration-precision-gain-magicschool.md)

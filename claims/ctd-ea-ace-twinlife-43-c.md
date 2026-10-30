@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: wolfram-2023
     resource: "https://doi.org/10.1038/s41539-023-00173-y"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In the same German families, a CTD ACE model produced A = 34% (95% CIs: 23–47%), C = 43% (31–53%), and E = 23% (20–26%) for educational attainment. [→ Wolfram 2023](#wolfram-2023)
@@ -45,7 +46,7 @@ Model-fitting of a CTD ACE structural equation model to twin-only data from the 
 
 
 ## Related Claims
-- [Adjusting published twin-study ACE estimates for assortative mating raises mean heritability by about 17 points and lowers shared environmental estimates by about 16 points](assortative-mating-adjustment-branigan-subsample.md) — related
+- Adjusting published twin-study ACE estimates for assortative mating raises mean heritability by about 17 points and lowers shared environmental estimates by about 16 points — related
 - [Twin-specific shared environments account for a substantial portion of CTD shared-environment estimates for educational attainment and cannot be interpreted as between-family environmental differences](twin-specific-environments-not-between-family.md) — related
 - [Under phenotypic assortment NTFD models, parental education shows no environmental effect on offspring educational attainment once genetic influences are accounted for](parental-education-no-environmental-effect-pa-models.md) — related
 - [The best-fitting NTFD model estimates heritability of educational attainment at 51% and total shared environmental influence at 26%, disaggregated into twin-specific (16%) and sibling-shared (10%) components](ntfd-best-fit-aste-51-26.md) — related

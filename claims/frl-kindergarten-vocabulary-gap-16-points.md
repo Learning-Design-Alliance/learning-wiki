@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: quinn-2020
     resource: "https://doi.org/10.1037/edu0000382"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In this Title 1 sample, FRL eligibility in kindergarten was associated with a 16-point PPVT gap (mean 87 versus 103), with similar gaps for students with an LD. [→ Quinn 2020](#quinn-2020)

@@ -55,4 +55,4 @@ Frequency analysis of the full WAT corpus (N = 436; 1376 coded responses) found 
 - [Educators' use of AI in PBL is accompanied by persistent ethical concerns about data privacy, algorithmic bias, and educator autonomy](ai-pbl-ethical-concerns-privacy-bias-autonomy.md) — related
 - [The most reported risks of AI tools in science and chemistry education are ethical issues, including gender and racial bias, hallucinations, copyright infringement, and plagiarism](ethical-issues-most-reported-ai-risk.md) — related
 - [Algorithmic and technical-mechanism concepts are marginal in students' AI networks: machine learning was produced by a single participant across 436 respondents](algorithmic-concepts-marginal-machine-learning-single-response.md) — related
-- [No included ITS study considered AI ethics, and the review calls for longer interventions, larger and more diverse samples, and ethical investigation](its-research-gaps-ethics-and-design.md) — related
+- No included ITS study considered AI ethics, and the review calls for longer interventions, larger and more diverse samples, and ethical investigation — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: le-roux-2021
     resource: "https://doi.org/10.1016/j.compedu.2020.104056"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The model including online vigilance explained 9% of variance in academic performance (R² = .09), with online vigilance (β = −0.33) and media multitasking (β = −0.12) the strongest negative predictors, but the ΔR² of .02 was judged negligible explanatory power. [→ le Roux 2021](#le-roux-2021)

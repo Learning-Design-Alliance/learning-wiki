@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: alexandra-o-cohen-2020
     resource: "https://doi.org/10.1038/s41539-020-00075-3"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Trial-wise attributions showed a significant reward outcome by territory interaction, with negative outcomes attributed most to the Robber and positive outcomes most to the Millionaire. [→ Alexandra O. Cohen 2020](#alexandra-o-cohen-2020)

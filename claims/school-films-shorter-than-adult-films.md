@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 1954
+recheck_by: 1959
 sources:
   - id: wagner-1954
     resource: "https://www.jstor.org/stable/i331617"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 1954 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1954 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1959**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` School films average 15 minutes running time versus 22 minutes for adult films. [→ Wagner 1954](#wagner-1954)

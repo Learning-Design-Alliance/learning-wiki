@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: mike-sharples-2022
     resource: "https://doi.org/10.1007/s40593-022-00300-7"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` GPT-3, given the prompt 'The construct of "learning styles" is problematic because', generated the rest of a coherent short essay including heading and citation on the first attempt. [→ Mike Sharples 2022](#mike-sharples-2022)

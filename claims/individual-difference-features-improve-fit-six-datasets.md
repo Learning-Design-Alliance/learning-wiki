@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: eglington-2022
     resource: "https://doi.org/10.1007/s40593-022-00296-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Across six datasets, models including features adjusting for individual differences achieved lower student-stratified cross-validated RMSE than PFAP or RKCPFA. [→ Eglington 2022](#eglington-2022)

@@ -17,7 +17,7 @@ sources:
 # Use online peer feedback platforms and supports to address offline peer feedback limitations
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The review recommends leveraging online platforms and instructional supports when implementing peer feedback, because online settings address limitations of offline practice. It states that "online platforms, such as Peergrade, FeedbackFruits, and Eli Review, could provide students with greater flexibility to engage in the feedback process without any limitation on time and location" and that online platforms can "integrate diverse instructional supports (e.g., scripting and guidance) tailored for specific courses, tasks, or student needs." The digital environment also streamlines the process and alleviates teacher workload, especially in larger class sizes.
@@ -42,7 +42,6 @@ The review recommends leveraging online platforms and instructional supports whe
 - [Only six reviewed studies combined peer feedback with feedback from other sources](../claims/few-studies-combine-multi-source-feedback.md) [+W]
 - [Most studies used online peer feedback to improve students' task performance](../claims/peer-feedback-function-task-performance-dominant.md) [+W]
 - [Rubrics and training were the most frequently implemented presentation modes of online peer feedback](../claims/rubrics-and-training-most-frequent-presentation-modes.md) [+W]
-- [Fewer than a quarter of studies evaluated student characteristics, with ability level and gender most explored](../claims/student-characteristics-understudied-peer-feedback.md) [+W]
 
 ## Related Strategies
 - 

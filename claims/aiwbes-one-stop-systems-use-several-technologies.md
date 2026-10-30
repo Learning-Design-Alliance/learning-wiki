@@ -46,5 +46,5 @@ The authors' comparative analysis of AIWBES versus pre-Web systems, illustrated 
 
 ## Related Claims
 - [Adaptive and intelligent Web-based educational systems form a new development paradigm in AI-Ed, distinct from AI-CAI and ITS](aiwbes-new-paradigm-distinct-from-ai-cai-and-its.md) — related
-- [Web-based systems offer AI-Ed researchers longer system lifespan, better visibility, and greater influence on practitioners](web-platform-benefits-for-ai-ed-research.md) — related
+- Web-based systems offer AI-Ed researchers longer system lifespan, better visibility, and greater influence on practitioners — related
 - [Intelligent solution analysis became more attractive than interactive problem solving support in the Web context due to its fit to the low-interactive HTTP protocol](intelligent-solution-analysis-fits-low-interactive-http.md) — related

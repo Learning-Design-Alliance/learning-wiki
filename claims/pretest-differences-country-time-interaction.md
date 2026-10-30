@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2015
+recheck_by: 2020
 sources:
   - id: amy-ogan-2015
     resource: "https://doi.org/10.1007/s40593-014-0034-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` There was a significant country by test time interaction, with the U.S. site (M=0.634) higher in prior knowledge than Costa Rica (M=0.331) and the Philippines (M=0.181). [→ Amy Ogan 2015](#amy-ogan-2015)

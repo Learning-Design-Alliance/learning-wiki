@@ -47,6 +47,7 @@ The article frames learning through non-guided everyday problem-solving as free-
 
 - [Informal Learning](informal-learning.md)
 - [Free-Choice Learning Environment Design](../principles/free-choice-learning-environment-design.md)
+- [Structured creative problem solving task with vignette-based problem situations and four pre-structured steps](../designs/structured-cps-task-vignette-four-steps.md)
 
 ## Key Sources
 - Gitari, W. (2016). The Application of School Science by Urban High School Youth through Problem-solving in Everyday Life. Science Education International, 27(3), 344-368. https://eric.ed.gov/?id=EJ1118432

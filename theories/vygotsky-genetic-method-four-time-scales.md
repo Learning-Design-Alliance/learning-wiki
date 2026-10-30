@@ -46,6 +46,7 @@ The genetic (developmental) method is Vygotsky's historically based methodology 
 - [Zone of Proximal Development: the gap between independent and assisted problem solving](zpd-gap-independent-versus-assisted-problem-solving.md)
 - [Baldwin's genetic logic as the elaboration of natural thought processes](baldwin-genetic-logic-three-logics.md)
 - [Piaget's genetic epistemology studies how the human mind moves from less sufficient to higher knowledge](piaget-genetic-epistemology-constructivist-knowing.md)
+- [Earth Science logical reasoning framework: logical inference, hermeneutics, and historical method](earth-science-logical-reasoning-framework.md)
 
 ## Examples
 

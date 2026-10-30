@@ -48,4 +48,4 @@ Scoping review synthesis of actions through others, mostly taken by educational 
 - [One adult educator's first-person reflection reports that facilitated class discussions left her feeling empowered as an individual contributor](facilitated-self-directed-learning-empowers-adults.md) — related
 - [Dispositions such as openness and shared responsibility are shaped by conditions, not fixed individual traits](dispositions-shaped-by-conditions.md) — related
 - [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related
-- [Research on transdisciplinary sustainability learning disproportionately examines students, with educational staff and societal partners underrepresented](td-learning-participant-underrepresentation.md) — related
+- Research on transdisciplinary sustainability learning disproportionately examines students, with educational staff and societal partners underrepresented — related

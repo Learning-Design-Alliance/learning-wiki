@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: the-dynamic-interplay-between-goal-setting-2022
     resource: "https://gpemodel.shinyapps.io/gpe-model/"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In a parameter recovery simulation with 300 fictitious participants, estimated parameter values closely matched true values, with differences centered around zero. [→ The Dynamic Interplay Between Goal Setting 2022](#the-dynamic-interplay-between-goal-setting-2022)

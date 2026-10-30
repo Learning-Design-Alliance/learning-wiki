@@ -24,7 +24,8 @@ Using a Lakatosian framework of research programs, the article categorizes SR re
 ### Claims
 
 ## Related Research Methods
--
+
+- [Four-category taxonomy of 12 preschool SR/EF intervention approaches](four-category-taxonomy-of-12-preschool-sref-intervention-approaches.md)
 
 ## Key Sources
 - Wortha, F., Gerjets, P., Azevedo, R., Bernacki, M., Brucker, B., Bühler, B., Ehlis, A.-C., Kasneci, E., Miyake, A., Murayama, K., Nagengast, B., Roberts, B., Tibus, M., & Trautwein, U. (2026). A Conceptual Framework to Integrate Research Programs on Self-Regulation in Education. Educational Psychology Review. https://doi.org/10.1007/s10648-026-10196-7

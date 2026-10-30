@@ -52,8 +52,8 @@ Publication bias detection in the cross-sectional meta-analysis using modified E
 - [Evidence of publication bias exists, but the pooled video effects are robust to it](publication-bias-present-but-effects-robust.md) — related
 - [GenAI effects on externally assessed learning are highly heterogeneous and conditional on prior knowledge, scaffolding, verification, and task design, with pooled effects unstable under publication-bias correction](genai-learning-effects-heterogeneous-conditional.md) — related
 - [Evidence of small-study effects exists for cognition and motivation, but trim-and-fill adjustment leaves the moderate motivating effect essentially unchanged](publication-bias-small-study-effects-games-stem.md) — related
-- [The bias-adjusted mean moderator effect in STEM education meta-analyses is g = 0.27 with substantial heterogeneity, and the published record shows overwhelming evidence of publication-bias-type selection](bias-adjusted-moderator-effect-stem.md) — related
-- [Publication-bias tests (Egger's test and trim-and-fill) indicate absence of publication bias for the overall effect and moderators](drawing-support-no-publication-bias.md) — related
-- [The included scaffolding studies show small-study effects, which the Bayesian approach addresses by shrinking overweighted effect sizes](small-study-effects-bma-shrinking.md) — related
-- [No evidence of dissemination bias was detected in the meta-analysis](teacher-growth-mindset-no-dissemination-bias.md) — reports the opposite
-- [Formal tests find no substantial evidence of publication bias or small-study effects in the meta-analysis](no-publication-bias-math-interventions-co-occurring.md) — related
+- The bias-adjusted mean moderator effect in STEM education meta-analyses is g = 0.27 with substantial heterogeneity, and the published record shows overwhelming evidence of publication-bias-type selection — related
+- Publication-bias tests (Egger's test and trim-and-fill) indicate absence of publication bias for the overall effect and moderators — related
+- The included scaffolding studies show small-study effects, which the Bayesian approach addresses by shrinking overweighted effect sizes — related
+- No evidence of dissemination bias was detected in the meta-analysis — reports the opposite
+- Formal tests find no substantial evidence of publication bias or small-study effects in the meta-analysis — related

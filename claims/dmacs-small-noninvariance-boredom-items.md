@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: test-boredom-while-working-on-difficult-versus-easy-tasks-online-supplementary-materials-2022
     resource: "https://www.google.com/search?q=%22Test+Boredom+While+Working+on+Difficult+Versus+Easy+Tasks%22"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2` · `i0` negligible
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i0` dMACS effect sizes for measurement noninvariance across situations were small for items 2 and 3 (0.032-0.110), with the easy part underchallenge condition as reference group. [→ Test Boredom While Working on Difficult Versus Easy Tasks: Online Supplementary Materials 2022](#test-boredom-while-working-on-difficult-versus-easy-tasks-online-supplementary-materials-2022)
@@ -46,4 +47,4 @@ Table S2a reports dMACS effect sizes for measurement noninvariance across situat
 
 ## Related Claims
 - [A single boredom item correlated strongly with the full TBS-S scale in both the easy and difficult test parts](single-item-boredom-part-whole-correlations.md) — related
-- [Residual covariances were specified between specific item pairs in the Study 1 measurement-invariance test of the TBS-S across difficult and easy test parts](tbs-s-residual-covariances-invariance.md) — related
+- Residual covariances were specified between specific item pairs in the Study 1 measurement-invariance test of the TBS-S across difficult and easy test parts — related

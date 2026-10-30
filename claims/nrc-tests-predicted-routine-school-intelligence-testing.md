@@ -58,8 +58,8 @@ This is the editor's forward-looking prediction (type e), offered with no eviden
 - [Comparison with standard scores suggested three groupings of pupils with distinct instructional needs](three-groupings-from-standard-scores.md) — a narrower finding that bears on this claim
 - [Schooling adjusted to the average under-serves exceptionally intelligent pupils and can be morally dangerous for them](average-paced-school-morally-dangerous-for-exceptional.md) — related
 - [The field's greatest need is an extensive experimental and critical study of the relative diagnostic value of available individual tests, followed by establishment of norms](need-for-critical-study-of-test-relative-value-and-norms.md) — related
-- [The editorial names the learning process as the continuing central theme of educational psychology](editorial-learning-process-central-theme.md) — related
+- The editorial names the learning process as the continuing central theme of educational psychology — related
 - [The editorial identifies pedagogical tests and measurements as a field of great and growing importance for education in the United States](editorial-pedagogical-tests-measurements-importance.md) — a broader claim this one bears on
-- [The journal's editorial gives special and continuing attention to general mental tests as a field for educational psychology](editorial-special-attention-general-mental-tests.md) — related
+- The journal's editorial gives special and continuing attention to general mental tests as a field for educational psychology — related
 - [Teaching efficiency is impossible without continuous adjustment of the work to pupils' advancing attainments](continuous-adjustment-attainments-teaching-efficiency.md) — a narrower finding that bears on this claim
 - [School surveys with the scale found clear-cut group differences between sections, schools, and institutional children](cross-out-scale-survey-group-differences.md) — related

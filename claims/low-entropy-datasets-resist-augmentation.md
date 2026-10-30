@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: keith-cochran-2025
     resource: "https://doi.org/10.1007/s40593-025-00473-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Only one classifier/augmentation combination outperformed blind majority-label guessing on concept C1 (89% majority, entropy 0.485), and the authors conclude datasets with entropy below 0.5 are hard to augment sufficiently. [→ Keith Cochran 2025](#keith-cochran-2025)

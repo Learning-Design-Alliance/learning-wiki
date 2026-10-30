@@ -67,4 +67,4 @@ Subgroup analysis of the vocabulary experiment: among the eleven individuals wit
 - [Spaced retrieval practice (successive relearning) produced multi-year retention of foreign language vocabulary in adults, as reported by the review](spaced-retrieval-multiyear-vocabulary-retention.md) — reports the opposite
 - [Total retrieval spacing improved one-week vocabulary recall while relative schedules were not distinguished](total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished.md) — related
 - [Expanding retrieval schedules have not shown consistent advantages over equally spaced or contracting schedules matched on total spacing](expanding-retrieval-schedules-are-not-superior-to-equal-or-contracting-schedules.md) — related
-- [Thorndike reports a conflict between his vocabulary recall results and deductions psychologists made from the law of forward conduction, urging repetition of the experiment](recall-results-conflict-forward-conduction.md) — related
+- Thorndike reports a conflict between his vocabulary recall results and deductions psychologists made from the law of forward conduction, urging repetition of the experiment — related

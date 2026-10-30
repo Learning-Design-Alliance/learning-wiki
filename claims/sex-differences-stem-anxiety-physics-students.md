@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2019
+recheck_by: 2024
 sources:
   - id: ariel-a-gonzalez-2019
     resource: "https://doi.org/10.1038/s41539-019-0058-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Mixed-model ANOVA showed significant main effects of sex on all four anxiety measures, with females higher on every measure at both time points. [→ Ariel A. Gonzalez 2019](#ariel-a-gonzalez-2019)

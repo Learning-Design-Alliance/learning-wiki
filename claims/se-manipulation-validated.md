@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2019
+recheck_by: 2022
 sources:
   - id: betty-tärning-2019
     resource: "https://doi.org/10.1007/s40593-018-0167-2"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i3` large
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i3` A Mann-Whitney U-test showed students rated the low-SE tutee as significantly less confident in math than the high-SE tutee, with a medium-to-large effect size. [→ Betty Tärning 2019](#betty-tarning-2019)

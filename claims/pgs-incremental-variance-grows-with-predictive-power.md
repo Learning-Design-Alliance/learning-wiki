@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: shero-2021
     resource: "https://doi.org/10.1038/s41539-021-00090-y"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` At 10% and 20% PGS predictive power, PGS adds as much as 4% and 8.9% unique variance respectively when progress monitoring is least effective, and 1–2.3% when progress monitoring is most effective. [→ Shero 2021](#shero-2021)

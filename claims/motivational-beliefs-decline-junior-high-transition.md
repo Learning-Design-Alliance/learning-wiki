@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: moderate
 newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: jacquelynne-s-eccles-allan-wigfield-2024
     resource: "https://doi.org/10.1007/s10648-024-09888-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q3`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q3 i?` In a longitudinal study of about 3000 students measured twice yearly across the school transition, the strongest declines in self-esteem and ability/expectancy beliefs occurred between spring of the pre-transition year and fall of the post-transition year. [→ Jacquelynne S. Eccles · Allan Wigfield 2024](#jacquelynne-s-eccles-allan-wigfield-2024)

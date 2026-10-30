@@ -54,4 +54,4 @@ In the randomized IVR experiment, regression of dispositional computational-thin
 - [Experimental conditions did not affect felt presence or perceived realism, which were high across all IVR configuration conditions](ivr-presence-realism-high-uniform.md) — related
 - [Students' perceived class performance level fully mediates the effect of classmates' hand-raising behavior on situational self-concept](perceived-performance-mediates-bflpe.md) — related
 - [Sixth-graders' mathematics self-concept and individual interest both decline over one school year](math-self-concept-interest-decline-one-school-year.md) — related
-- [Reading comprehension, self-concept and interest were collected prior to learning only to ensure comparability of conditions](pre-learning-comparability-measures-signaling.md) — related
+- Reading comprehension, self-concept and interest were collected prior to learning only to ensure comparability of conditions — related

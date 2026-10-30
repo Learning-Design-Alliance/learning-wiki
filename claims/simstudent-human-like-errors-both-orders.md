@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2013
+recheck_by: 2016
 sources:
   - id: nan-li-2013
     resource: "https://doi.org/10.1007/s40593-013-0005-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q1`
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` All errors SimStudent made during fraction-addition training were among the three most common human error types, and error types did not differ between problem orders. [→ Nan Li 2013](#nan-li-2013)

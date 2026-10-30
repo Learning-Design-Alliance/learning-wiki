@@ -45,6 +45,6 @@ The review's new two-dimensional classification (level of understanding; transfo
 
 
 ## Related Claims
-- [AQG evaluation suffers from insufficient and heterogeneous experimental reporting and metrics](aqg-evaluation-reporting-gaps.md) — related
+- AQG evaluation suffers from insufficient and heterogeneous experimental reporting and metrics — related
 - [Text remains the most popular AQG input, while Semantic Web sources are used mainly for domain-unspecific questions](aqg-text-most-popular-input.md) — related
 - [Prior automatic MCQ generation approaches produce structurally simple questions (at most two stem entities) testing mainly recall](prior-aqg-simple-recall-questions.md) — related

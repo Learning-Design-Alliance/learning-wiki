@@ -12,7 +12,7 @@ generated:
 # Taxonomy of 27 validity criteria for technology-enhanced learning with synonyms
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The review assembles a taxonomy of validity criteria considered in TEL research, including effectiveness, statistical validity, external validity, rigour, authenticity, fairness, trustworthiness, usability and usefulness, each paired with synonyms observed in the literature (e.g., generalisability for external validity). Rather than prescribing definitions, the authors "take author's claims of assessing particular criteria at face value" and pair each criterion with a quote from the relevant study to document implicit definitions. The taxonomy structures the review's data extraction and analysis.
@@ -23,7 +23,6 @@ The review assembles a taxonomy of validity criteria considered in TEL research,
 
 ### Claims
 
-- [Effectiveness and statistical validity are the most commonly assessed validity criteria in TEL research](../claims/effectiveness-statistical-validity-most-common-criteria.md) [+W]
 
 ## Related Research Methods
 -

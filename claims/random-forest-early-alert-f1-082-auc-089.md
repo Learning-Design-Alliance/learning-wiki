@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: zeynab-artemis-mohseni-2026
     resource: "https://doi.org/10.1007/s11423-025-10577-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The Random Forest Classifier generating early alerts about course completion risk yielded F1 = 0.82 and AUC = 0.89, judged satisfactory for formative use. [→ Zeynab (Artemis) Mohseni 2026](#zeynab-artemis-mohseni-2026)

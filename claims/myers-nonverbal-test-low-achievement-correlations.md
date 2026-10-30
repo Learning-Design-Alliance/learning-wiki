@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1923
+recheck_by: 1926
 sources:
   - id: arthur-i-gates-1923
     resource: "https://psycnet.apa.org/record/1923-02675-001"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 1923 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1923 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1926**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The Myers test's mean inter-correlation with all other tests is 0.21 versus 0.47 for the other tests, and its correlations with achievement measures are very low compared to other tests. [→ Arthur I. Gates 1923](#arthur-i-gates-1923)

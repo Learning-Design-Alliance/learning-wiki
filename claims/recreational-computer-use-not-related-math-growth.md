@@ -43,7 +43,7 @@ Longitudinal growth component of the ELS:2002 two-level hierarchical linear mode
 
 
 ## Related Claims
-- [Prior research on computer use, gaming, and achievement had focused on small intact and qualitative samples, with findings described variously as positive, negative, or neutral](prior-gaming-achievement-research-small-qualitative-samples.md) — related
+- Prior research on computer use, gaming, and achievement had focused on small intact and qualitative samples, with findings described variously as positive, negative, or neutral — related
 - [The study's purpose is to examine the association between high school achievement and recreational computer use and video gaming using a large nationally representative sample](study-purpose-recreational-computer-use-achievement-association.md) — a broader claim this one bears on
 - [Student use of computers for fun is positively and significantly associated with cross-sectional reading and mathematics achievement in high school, controlling for multiple covariates](computer-use-for-fun-positive-achievement-els2002.md) — related
 - [Moderate levels of video gaming are positively and significantly associated with cross-sectional reading and mathematics achievement in high school, controlling for covariates](moderate-video-gaming-positive-achievement-els2002.md) — related

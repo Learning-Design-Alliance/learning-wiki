@@ -48,5 +48,5 @@ The review summarises quantitative research on consequent variables of relations
 - [The quality of the coach-athlete relationship as defined by the 4Cs is instrumental to performance success and wellbeing](4cs-quality-instrumental-performance-wellbeing.md) — a broader claim this one bears on
 - [Coach-athlete relationship and coach leadership or behaviours considered together are better predictors of athletes' and coaches' outcomes than either alone](relationship-plus-leadership-better-predictors.md) — related
 - [Same-gender coach-athlete dyads perceive higher relationship quality (closeness, commitment, complementarity) than other-gender dyads](same-gender-dyads-higher-relationship-quality.md) — related
-- [Adolescent motivation research relies almost exclusively on student self-report of relationships, with dyadic and non-dyadic configurations both common](tsr-adolescent-student-self-report-dominant.md) — related
+- Adolescent motivation research relies almost exclusively on student self-report of relationships, with dyadic and non-dyadic configurations both common — related
 - [Team spirit motivated slower teams to persist, and the co-located classroom setting revealed the physical, face-to-face nature of teamwork](team-spirit-and-face-to-face-benefits.md) — related

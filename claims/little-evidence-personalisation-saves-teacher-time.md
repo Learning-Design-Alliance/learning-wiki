@@ -48,7 +48,7 @@ Theoretical claim in this commentary: the time-saving promise, attributed to Wat
 - [Critical ed-tech researchers argue personalised learning justifies a neoliberal agenda shifting education resources to IT corporations](critical-tradition-neoliberal-personalisation.md) — a broader claim this one bears on
 - [The commentary argues personalised learning circumvents rather than saves teacher work, relocating responsibility to individual learners](personalisation-circumvents-teacher-role.md) — related
 - [Educators benefit from AI chatbots through time-saving administrative assistance and improved pedagogy](chatbot-educator-time-saving-pedagogy.md) — reports the opposite
-- [Active learning algorithms reduce abstract-screening workload in education systematic reviews, saving on average 58% of irrelevant-record screening and 1.66 days at 95% sensitivity](ml-screening-reduces-workload-education-reviews.md) — related
+- Active learning algorithms reduce abstract-screening workload in education systematic reviews, saving on average 58% of irrelevant-record screening and 1.66 days at 95% sensitivity — related
 - [Educators see AI as having potential to increase capacity for high-quality formative assessment, which is an operational challenge at scale](ai-formative-assessment-capacity-demand.md) — related
 - [AI scheduling systems reportedly reduce administrative workload by up to 40% and enrollment prediction exceeds 85% accuracy (as reported in the reviewed literature)](ai-administrative-efficiency-reported-gains.md) — reports the opposite
 - [Nearly all educators most want AI to free up time in existing workflows and return capacity to overburdened staff](educators-want-ai-time-savings.md) — related

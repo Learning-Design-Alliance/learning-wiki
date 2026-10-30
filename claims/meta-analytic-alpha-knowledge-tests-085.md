@@ -76,4 +76,4 @@ Derived from the meta-analytic Alpha using the Spearman–Brown formula. The exp
 - [Alpha is negatively related to sample mean age, and knowledge type shows no effect after controlling for test length](knowledge-test-alpha-age-and-type.md) — related
 - [Academic resilience scales show high pooled internal consistency (α/ω = 0.89) with substantial heterogeneity](pooled-internal-consistency-resilience-scales.md) — related
 - [Confidence intervals around alpha do not resolve the problem because they inherit alpha's failure to indicate knowledge-test reliability](alpha-ci-does-not-fix-reliability.md) — related
-- [Fixed alpha cutoff values create publication bias so knowledge tests with low alphas are underrepresented in the literature](alpha-cutoffs-publication-bias.md) — related
+- Fixed alpha cutoff values create publication bias so knowledge tests with low alphas are underrepresented in the literature — related

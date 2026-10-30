@@ -17,7 +17,7 @@ sources:
 # Emotion-aware AI and multimodal analytics to support self-regulation of emotions in mathematics
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article proposes emotion-aware AI systems, virtual mentors and chatbots at point ⑥, and future research on natural language processing algorithms identifying the "fingerprints of both positive and negative emotional meaning" in students' extended textual responses, supplemented by multimodal learning analytics such as computer vision and audio analysis tracking facial expressions, tonal variation and gestures. Such a dataset could provide support and strategies assisting students' self-regulation and emotional moderation.
@@ -42,7 +42,6 @@ The article proposes emotion-aware AI systems, virtual mentors and chatbots at p
 
 ## Claims
 
-- [Multimodal SRL research shows a historical shift from unimodal toward integrated analytical designs, but motivational and affective dimensions remain underrepresented](../claims/srl-multimodal-shift-integrated-designs-motivation-affect-gap.md) [~W]
 
 ## Related Strategies
 

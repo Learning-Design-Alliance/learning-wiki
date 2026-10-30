@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: singh-2025
     resource: "https://doi.org/10.1038/s41539-024-00288-w"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Education systems oriented to economic growth show positive trends in literacy, numeracy, enrolment, merit, credentials and technology but negative trends in agency, humanistic values, relationships and civic engagement, which the assessment argues warrants reorienting education toward human flourishing. [→ Singh 2025](#singh-2025)

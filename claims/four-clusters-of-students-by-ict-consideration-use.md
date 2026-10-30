@@ -45,5 +45,5 @@ Cluster analysis of 2117 students using coordinates from a three-factor principa
 
 
 ## Related Claims
-- [Four factors of ICT use explain 57.4% of the total variance in university students' types of ICT use](four-ict-use-factors-57-percent-variance.md) — related
+- Four factors of ICT use explain 57.4% of the total variance in university students' types of ICT use — related
 - [Exploratory K-means clustering identifies four heterogeneous student AI-user profiles differing in experience, competence, usefulness, trust, and control, but the solution's optimality and stability are not established](exploratory-four-cluster-student-ai-profiles.md) — related

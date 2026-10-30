@@ -74,4 +74,4 @@ Subsidiary experiment, second method: same flash-card procedure but with twenty 
 - [Both directed multisensory and silent visual spelling methods produced large improvement from baseline after 40 minutes of practice spread over four days](both-spelling-methods-large-improvement-baseline.md) — related
 - [Across Standards II and IV (ages 8 to 11) in the same school, the spelling method with pronounced auditory, articulatory, and visual factors plus directed attention proved definitely superior to a more purely visual method with less directed attention](combined-spelling-superiority-ages-8-11-same-school.md) — related
 - [Reviewer credits the method with directness, concentration from flash-cards, valuable action responses, and stimulating effect](watkins-method-strengths-acknowledged.md) — related
-- [The journal prints a correction to the probable-error formula in W. H. Winch's article on learning to spell](winch-spelling-probable-error-correction.md) — related
+- The journal prints a correction to the probable-error formula in W. H. Winch's article on learning to spell — related

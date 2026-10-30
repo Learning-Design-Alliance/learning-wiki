@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: weak
 newest_evidence: 2017
+recheck_by: 2022
 sources:
   - id: grosemans-2017
     resource: "https://doi.org/10.1016/j.edurev.2017.03.001"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r?` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Across studies reviewed on the transition from higher education to the labour market, the competences receiving most emphasis are theoretical knowledge, communication, problem-solving, and learning skills. [→ Grosemans 2017](#grosemans-2017)

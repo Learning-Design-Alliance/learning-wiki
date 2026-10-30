@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1917
+recheck_by: 1920
 sources:
   - id: arthur-s-otis-1917
     resource: "https://doi.org/10.1037/h0074753"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1920**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The reliability coefficient of the Point Scale is .968, its probable error is 13.7 points, and the probable error of a mental age by the scale is approximately 3.44 months, comparable to the Stanford Revision of the Binet Scale. [→ Arthur S. Otis 1917](#arthur-s-otis-1917)

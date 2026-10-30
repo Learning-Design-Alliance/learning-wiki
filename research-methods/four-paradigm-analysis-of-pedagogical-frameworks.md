@@ -12,7 +12,7 @@ generated:
 # Four-paradigm analysis of pedagogical frameworks
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article examines its framework in terms of the primary currents in educational psychology: behaviorism, cognitivism, constructivism and social constructivism. This four-paradigm analysis serves as an organizing pattern for evaluating how a pedagogical design aligns with established learning theories. Each paradigm provides a different lens on how the framework supports knowledge acquisition and competency development.
@@ -23,7 +23,6 @@ The article examines its framework in terms of the primary currents in education
 
 ### Claims
 
-- [Giannakas et al. (2018) mixes instructional methods with learning theories, listing problem solving, experiential learning, situated learning, and task-based language learning as learning theories](../claims/mgbl-review-mixes-methods-with-learning-theories.md) [+W]
 
 ## Related Research Methods
 -

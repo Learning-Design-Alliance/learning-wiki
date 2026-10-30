@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: qi-liu-2025
     resource: "https://doi.org/10.1038/s41539-025-00372-9"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3` · `i0` negligible
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` SVM classification accuracy for positive vs. neutral faces using IFG increased significantly post-FISL (AUC increase 0.134), and negative-face accuracy improved across ROIs. [→ Qi Liu 2025](#qi-liu-2025)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2017
+recheck_by: 2022
 sources:
   - id: jessica-joiner-2017
     resource: "https://doi.org/10.1038/s41539-017-0009-2"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` When participants take another person's advice into account for reward decisions, dmPFC, MTG, STS, and TPJ activations signal social prediction error. [→ Jessica Joiner 2017](#jessica-joiner-2017)
@@ -45,7 +46,7 @@ Review of human neuroimaging findings on advice-taking decisions. The review not
 
 
 ## Related Claims
-- [Anterior cingulate gyrus specializes in other-referenced social valuation and prediction errors, dissociable from the sulcus](accg-other-referenced-prediction-error-dissociation.md) — related
+- Anterior cingulate gyrus specializes in other-referenced social valuation and prediction errors, dissociable from the sulcus — related
 - [Prefrontal cortex separates other-referenced prediction errors by subtype: dlPFC for other's actions, vmPFC for other's outcomes](prefrontal-subtype-other-referenced-prediction-errors.md) — related
 - [Brain responds similarly to prediction errors for human and slot-machine partners' generosity](prediction-errors-human-slot-machine-partners-continuum.md) — related
 - [Striatum computes other-referenced prediction errors in social and economic games, including without added payoff](striatum-other-referenced-prediction-errors-economic-games.md) — related

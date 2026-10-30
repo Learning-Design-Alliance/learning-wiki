@@ -38,7 +38,7 @@ The DRDP-PS is a California Department of Education teacher-rated developmental 
 ## Key Sources
 - Emily Moiduddin, Celina Kamler, Lizabeth Malone, Kathryn Gonzalez. (2014). Milpitas Early Learning Transitions Model: Using Assessment Data to Inform Teacher Practice. Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/milpitas-early-learning-transitions-model-using-assessment-data-to-inform-teacher-practice
 <!-- merged 2026-10-10 from elements/drdp-ps-teacher-rating-element ("Desired Results Development Profile-Preschool (DRDP-PS)"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
-- Sussman, J., Melnick, H., Newton, E., Kriener-Althen, K., Draney, K., Mangione, P., & Gochyyev, P. (2022). Preschool quality and child development: How are learning gains related to program ratings? Learning Policy Institute. https://doi.org/10.54300/422.974
+- Sussman, J., Melnick, H., Newton, E., Kriener-Althen, K., Draney, K., Mangione, P., & Gochyyev, P. (2022). How do California preschool quality ratings relate to children's development? Learning Policy Institute. https://doi.org/10.54300/422.974
 
 # Desired Results Development Profile-Preschool (DRDP-PS)
 

@@ -45,8 +45,8 @@ Publication-bias assessment used publication status as a moderator, funnel plot 
 
 
 ## Related Claims
-- [Funnel-plot asymmetry suggests possible selection or publication bias, but p-curve analyses indicate evidential value for the pooled relationships](publication-bias-asymmetry-but-pcurve-evidential-value.md) — related
+- Funnel-plot asymmetry suggests possible selection or publication bias, but p-curve analyses indicate evidential value for the pooled relationships — related
 - [The pooled effect of writing instruction for US ELL students is robust to sensitivity analyses but funnel plot asymmetry suggests possible missing positive effect sizes](sensitivity-and-bias-checks-ell-writing-meta.md) — related
 - [Publication bias is present in the embodied vocabulary learning literature, suggesting pooled effects may overestimate the true benefit](publication-bias-embodied-vocabulary-meta-analysis.md) — related
-- [Publication bias evidence is mixed: marginal asymmetry for tutees but no missing studies, and no bias for tutors](cross-age-tutoring-publication-bias-mixed.md) — related
+- Publication bias evidence is mixed: marginal asymmetry for tutees but no missing studies, and no bias for tutors — related
 - [Teachers' SEC shows a moderate overall correlation with students' SEC across K-12 studies, with considerable between-study variability](teacher-student-sec-moderate-overall-correlation.md) — related

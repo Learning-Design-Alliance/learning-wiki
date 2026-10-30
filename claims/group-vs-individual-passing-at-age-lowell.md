@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: weak
 newest_evidence: 1917
+recheck_by: 1920
 sources:
   - id: lowell-1917
     resource: "https://psycnet.apa.org/journals/edu"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1917 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1920**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` 78 percent of six-year-old children pass the six-year individual tests while only 60 percent of them pass the six-year group tests, a difference the author attributes partly to children's need to comprehend orally presented directions without individual help. [→ Lowell 1917](#lowell-1917)

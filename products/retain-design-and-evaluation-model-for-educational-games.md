@@ -25,7 +25,8 @@ A design and evaluation framework developed by Gunter et al. for judging and gui
 - [The authors' review of standalone educational games found they are not always based on sound educational principles and theories](../claims/standalone-educational-games-not-always-theory-based.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [ARIN-561](arin-561.md)
 
 ## Key Sources
 - Gunter, G.A., Kenny, R.F. & Vick, E.H. (2008). Taking educational games seriously: using the RETAIN model to design endogenous fantasy into standalone educational games. Education Tech Research Dev, 56, 511–537. https://doi.org/10.1007/s11423-007-9073-2

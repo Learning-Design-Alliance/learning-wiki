@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: pasqualotto-2025
     resource: "https://doi.org/10.1038/s41539-025-00382-7"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Children with DD consistently showed lower performance than age-matched and reading-matched children in reading, reading-related and cognitive skills, except for nonverbal reasoning skills and syntactic comprehension. [→ Pasqualotto 2025](#pasqualotto-2025)

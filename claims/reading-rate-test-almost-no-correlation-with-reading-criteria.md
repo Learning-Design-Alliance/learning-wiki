@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1921
+recheck_by: 1924
 sources:
   - id: wyman-1921
     resource: "https://eric.ed.gov/?q=%22What+is+Reading+Ability%22"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
-> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1924**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Monroe Rate correlated 0.10 ± 0.11 with Reading Ability T and 0.16 with the weighted Reading Ability C criterion. [→ Wyman 1921](#wyman-1921)

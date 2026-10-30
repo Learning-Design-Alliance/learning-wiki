@@ -52,7 +52,7 @@ Heterogeneity assessment across the pooled short-term effect sizes in the review
 - [Effects of AI literacy interventions vary considerably across contexts, with most variance between studies (71.361%) and a wide prediction interval](ai-literacy-intervention-effects-highly-heterogeneous.md) — related
 - [Self-management intervention configurations show strong mean effect sizes but substantial effect size heterogeneity in single-case research](self-management-strong-mean-effects-with-heterogeneity.md) — related
 - [Meta-analytic path analysis supports model hypotheses but shows substantial unexplained heterogeneity across studies](meta-analytic-path-analysis-supports-tcm-with-heterogeneity.md) — related
-- [Effect sizes vary widely between studies and especially between comparisons within studies](large-variation-word-reading-intervention-effects.md) — related
+- Effect sizes vary widely between studies and especially between comparisons within studies — related
 - [Effect sizes across included studies show high heterogeneity (all I² above 75%)](high-heterogeneity-er-burnout-effects.md) — related
 - [Model 2 prediction accuracy for intervention effectiveness was low (r = .094), indicating significant unexplained variance.](low-accuracy-predicting-intervention-effectiveness.md) — a narrower finding that bears on this claim
 - [Quality of technology integration varies substantially across lessons, with most variance unexplained by teacher traits or time course](tech-integration-quality-varies-across-lessons.md) — related

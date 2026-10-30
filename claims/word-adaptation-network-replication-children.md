@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: girard-2021
     resource: "https://doi.org/10.1038/s41539-021-00112-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Whole-brain analysis in French children revealed word adaptation effects in temporal, frontal, and visual cortices largely similar to Perrachione et al.'s typical adult readers, with significant ROI effects in pIFs (d = 0.407), pdSTS (d = 0.572), and pTF (d = 0.695) after Bonferroni correction. [→ Girard 2021](#girard-2021)

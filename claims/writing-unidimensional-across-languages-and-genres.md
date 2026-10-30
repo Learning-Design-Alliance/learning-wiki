@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: kim-young-suk-grace-2022
     resource: "https://doi.org/10.1037/edu0000516"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Among nine alternative models, the model with a unidimensional writing factor across languages and genres fit best (Model 3 vs Model 2: ΔnBIC = −8.74). [→ Kim Young-Suk Grace 2022](#kim-young-suk-grace-2022)

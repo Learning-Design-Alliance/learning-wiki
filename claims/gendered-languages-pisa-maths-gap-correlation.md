@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: tamar-kricheli-katz-and-tali-regev-2021
     resource: "https://doi.org/10.1038/s41539-021-00087-7"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The 2015 PISA average maths gender gap is 6.15 in gendered-language countries versus 1.90 in genderless or gender-neutral language countries (t-test, p = 0.039); similar patterns hold in 2018 data. [→ Tamar Kricheli-Katz and Tali Regev 2021](#tamar-kricheli-katz-and-tali-regev-2021)

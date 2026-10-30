@@ -46,6 +46,6 @@ The commentary authors' re-examination of the meta-analysis's forest plot agains
 
 
 ## Related Claims
-- [Several RECALL effect sizes in the Xie et al. (2018) meta-analysis could not be reproduced, and one reported value (−0.639) is inconsistent with the primary study's data](xie-2018-recall-effect-sizes-unreproducible.md) — related
+- Several RECALL effect sizes in the Xie et al. (2018) meta-analysis could not be reproduced, and one reported value (−0.639) is inconsistent with the primary study's data — related
 - [Applying the reproducibility checks to TRANSFER performance, the Xie et al. (2018) results are (rather) robust, but RECALL and moderator results are doubtful](xie-2018-transfer-robust-recall-doubtful.md) — related
-- [Misclassification of moderating variables in the Xie et al. (2018) meta-analysis decreases the trustworthiness of its moderator analysis](xie-2018-moderator-misclassification.md) — related
+- Misclassification of moderating variables in the Xie et al. (2018) meta-analysis decreases the trustworthiness of its moderator analysis — related

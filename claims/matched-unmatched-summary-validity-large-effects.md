@@ -47,4 +47,4 @@ Post-hoc concurrent-validity test on 94 professional section summaries from the 
 
 ## Related Claims
 - [On new crowd-sourced Prolific summaries, the Content model generalized well (r = 0.70) but the Wording model predicted human scores poorly (r = 0.29)](prolific-generalizability-content-strong-wording-weak.md) — related
-- [A principal component analysis distills the seven-criterion summary rubric into two components, Content and Wording, explaining approximately 73% of shared variance](pca-two-component-summary-rubric-content-wording.md) — related
+- A principal component analysis distills the seven-criterion summary rubric into two components, Content and Wording, explaining approximately 73% of shared variance — related

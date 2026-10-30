@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: mixed
 newest_evidence: 2002
+recheck_by: 2005
 sources:
   - id: ce-holdich-2002
     resource: "http://creativecommons.org/licenses/by-nc-nd/2.5/"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2` · `i0` negligible
-> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2005**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The TTR of the first 100 words gave the clearest indication of vocabulary diversity, broadly rising with attainment level (0.54 at Level 2c to 0.75 at Level 5+). [→ C.E. Holdich 2002](#ce-holdich-2002)

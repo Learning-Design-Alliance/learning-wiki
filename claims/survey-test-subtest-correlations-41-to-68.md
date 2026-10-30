@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 1918
+recheck_by: 1921
 sources:
   - id: rudolf-pintner-and-florence-fitzgerald-1918
     resource: "https://psycnet.apa.org/journal/edu"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1921**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Average per-subject correlations between the short form's separate tests and the corresponding long scales range from .41 (grammar) to .68 (history). [→ Rudolf Pintner and Florence Fitzgerald 1918](#rudolf-pintner-and-florence-fitzgerald-1918)

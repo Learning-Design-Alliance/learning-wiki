@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: damien-s-fleur-2021
     resource: "https://doi.org/10.1038/s41539-021-00089-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Developmental research indicates meta-knowledge emerges around age 5, meta-control around age 8, and both develop over the years, with meta-knowledge developing into adolescence. [→ Damien S. Fleur 2021](#damien-s-fleur-2021)

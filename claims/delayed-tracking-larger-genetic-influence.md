@@ -89,6 +89,6 @@ Likelihood-ratio comparison of the constrained versus unconstrained multigroup A
 - [School quality does not moderate genetic and shared-environmental influences on educational performance once moderation by school SES and parental SES is considered](school-quality-no-moderation-gene-env.md) — related
 - [Moderation findings are sensitive to the assumed genetic relatedness of same-sex twins: no school-quality moderation at rSSG 0.75 or 0.80, and the gene-SES moderation holds at 0.75 but not 0.80](robustness-genetic-relatedness-assumptions.md) — related
 - [A large share of the genetic influence on secondary-school attainment is due to genes that did not influence primary-school performance](genes-unique-to-attainment-beyond-cito.md) — related
-- [In a genetically informed twin study, the effect of shared family environment was substantially reduced among twins whose tracking was delayed until a later age](delayed-tracking-reduced-family-environment-effect.md) — related
+- In a genetically informed twin study, the effect of shared family environment was substantially reduced among twins whose tracking was delayed until a later age — related
 - [Parental education is not related to whether children are tracked immediately or delayed](parental-education-not-related-delayed-tracking.md) — related
 - [Twin ratings show chaos in the home is partially genetically confounded with school achievement (22% genetic variance; 37% of association via shared genes)](chaos-home-genetic-confound-school-achievement.md) — related

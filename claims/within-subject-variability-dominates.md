@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: inmaculada-márquez-mario-treviño-2025
     resource: "https://doi.org/10.1038/s41539-025-00377-4"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Across the three tasks, within-subject variability exceeded between-subject variability (about 12 times in the visuomotor task, about 6 times in detection, and about 24 times in the no-feedback motor task). [→ Inmaculada Márquez & Mario Treviño 2025](#inmaculada-marquez-mario-trevino-2025)

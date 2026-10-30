@@ -24,7 +24,10 @@ A 27-item Rasch-validated, two-dimensional self-report instrument developed by K
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [eXtended Reality Presence Scale (XRPS)](extended-reality-presence-scale-xrps.md)
+- [Community of Inquiry Survey and Metacognition Questionnaire](community-of-inquiry-survey-and-metacognition-questionnaire.md)
+- [34-item Community of Inquiry Survey](34-item-community-of-inquiry-survey.md)
 
 ## Key Sources
 - Karel Kreijns, Kate Xu, Joshua Weidlich. (2022). Social Presence: Conceptualization and Measurement. Educational Psychology Review. https://doi.org/10.1007/s10648-021-09623-8

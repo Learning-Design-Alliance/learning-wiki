@@ -46,7 +46,7 @@ Qualitative interview study of educational technology decision-makers at U.S. hi
 
 ## Related Claims
 - [In 78% of interviews, higher education decision-makers reported conducting their own internal investigations of educational technology products](internal-investigations-78-percent-interviews.md) — related
-- [Decision-makers cite barriers to using research: research takes too long relative to fast technology change, and institutions view their students and faculty as unique](barriers-research-timing-and-context-uniqueness.md) — related
+- Decision-makers cite barriers to using research: research takes too long relative to fast technology change, and institutions view their students and faculty as unique — related
 - [Districts rely more on peer recommendations and pilots than on rigorous evidence when choosing ed-tech products](districts-rely-peer-recommendations-pilots-over-rigorous-evidence.md) — related
 - [Evidence and evaluation standards for educational AI are immature, widening the gap between product release pace and rigorous evaluation](edtech-ai-evidence-standards-immature.md) — related
-- [The research activities decision-makers most often counted as research were internal: staff/student/faculty interviews, surveys or focus groups (40% of interviews) and looking at student outcomes after implementation (38%)](most-named-research-activities-are-internal.md) — related
+- The research activities decision-makers most often counted as research were internal: staff/student/faculty interviews, surveys or focus groups (40% of interviews) and looking at student outcomes after implementation (38%) — related

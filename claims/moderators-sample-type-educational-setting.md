@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: weak
 newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: sijing-zhou-2024
     resource: "https://doi.org/10.1007/s10648-024-09886-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Exploratory moderator analyses on overall wellbeing found moderation by sample type and educational setting; age and education level showed nonsignificant associations with wellbeing types. [→ Sijing Zhou 2024](#sijing-zhou-2024)

@@ -46,5 +46,5 @@ The abstract reports McInerney's belief as a research-agenda statement with no e
 
 ## Related Claims
 - [McInerney's scholarly position holds that culture is a missing link in most motivation research](culture-missing-link-motivation-research.md) — a broader claim this one bears on
-- [McInerney's work invited reconsideration of how motivation research is conceptualized, assessed, and applied in teaching and learning practices](reconsider-conceptualize-assess-apply-motivation-research.md) — a broader claim this one bears on
+- McInerney's work invited reconsideration of how motivation research is conceptualized, assessed, and applied in teaching and learning practices — a broader claim this one bears on
 - [Students' social and work avoidance goals are psychological parameters of motivation identifiable through qualitative investigation](social-work-avoidance-goals-qualitative.md) — related

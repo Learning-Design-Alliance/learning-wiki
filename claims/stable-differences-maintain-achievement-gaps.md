@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: scammacca-nancy-2020
     resource: "https://doi.org/10.1037/edu0000400"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` After one and two years of instruction, reading score differences between initial-quartile groups indicated a predominant pattern of stable differences maintaining achievement gaps. [→ Scammacca Nancy 2020](#scammacca-nancy-2020)

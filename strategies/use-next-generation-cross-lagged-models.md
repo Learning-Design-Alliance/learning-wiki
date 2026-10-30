@@ -17,7 +17,7 @@ sources:
 # Use next-generation cross-lagged models to test reciprocal effects in school motivation research
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 4 studies (3 review, 1 associational), `q1`–`q2` · 0 of 4 report an effect size · 4 claims rest on one study
+> **Evidence** · 2 claims (2 mixed) · 2 studies (1 review, 1 associational), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends that educational researchers move from conventional cross-lagged models to "next-generation cross-lagged models" when studying reciprocal effects, and supports this with supplementary "open-source data and scripts for R and Mplus" provided "to aid educational researchers use and compare these alternative models". The strategy is to compare alternative models rather than rely on a single specification whose convergence assumption may be violated.
@@ -38,10 +38,8 @@ The article recommends that educational researchers move from conventional cross
 
 ## Claims
 
-- [Next-generation cross-lagged models relax the convergence assumption in school motivation panel data](../claims/next-generation-cross-lagged-models-relax-convergence.md) [+M]
 - [Simulation evidence shows RI-CLPM estimates are biased when the true model is a CLPM with lag-2 effects, and fit statistics cannot decide between the two](../claims/rudtke-robitzsch-simulation-ri-clpm-bias-lag2.md) [~W]
 - [Adding lag-2 paths to CLPMs substantially improves fit and provides stronger controls for preexisting differences, positioning extended CLPMs as viable alternatives to RI-CLPMs](../claims/lag-2-paths-improve-clpm-fit-and-control.md) [~M]
-- [The choice of longitudinal statistical model can determine whether reciprocal motivation-achievement relations are found](../claims/statistical-model-choice-reciprocal-effects.md) [+M]
 
 ## Related Strategies
 - 

@@ -10,6 +10,7 @@ generated:
 evidence_strength: moderate
 newest_evidence: 2025
 source_checked: 2026-10-22
+recheck_by: 2028
 sources:
   - id: peter-a-edelsbrunner-2025
     resource: "https://doi.org/10.1007/s10648-025-10023-5"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Low item interrelatedness (low alpha) in knowledge tests can reflect heterogeneous knowledge facets rather than high measurement error, so alpha is not equivalent to test reliability for knowledge. [→ Peter A. Edelsbrunner 2025](#peter-a-edelsbrunner-2025)
@@ -47,7 +48,7 @@ Theoretical argument in this commentary: for heterogeneous knowledge tests like 
 
 ## Related Claims
 - [Confidence intervals around alpha do not resolve the problem because they inherit alpha's failure to indicate knowledge-test reliability](alpha-ci-does-not-fix-reliability.md) — a narrower finding that bears on this claim
-- [Fixed alpha cutoff values create publication bias so knowledge tests with low alphas are underrepresented in the literature](alpha-cutoffs-publication-bias.md) — a narrower finding that bears on this claim
+- Fixed alpha cutoff values create publication bias so knowledge tests with low alphas are underrepresented in the literature — a narrower finding that bears on this claim
 - [A low alpha does not necessarily indicate high content validity, because reliability and validity can both be high](low-alpha-not-evidence-of-content-validity.md) — related
 - [Adding items to a knowledge test can increase reliability without requiring the added items to be redundant with existing items](adding-items-increases-reliability-without-redundancy.md) — related
 - [A high Cronbach's alpha across items measuring distinct knowledge aspects indicates the test is not working as intended](high-alpha-indicates-domain-knowledge-test-failure.md) — related

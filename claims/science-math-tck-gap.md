@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: jingwan-tang-2023
     resource: "https://doi.org/10.1007/s40593-022-00292-4"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Seven of nine science teachers scored above the good TCK level, while only three of eight math teachers did. [→ Jingwan Tang 2023](#jingwan-tang-2023)

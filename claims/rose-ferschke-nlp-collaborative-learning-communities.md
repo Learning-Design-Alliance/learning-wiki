@@ -45,5 +45,5 @@ The editors' summary of Rose and Ferschke's paper on discussion as a pedagogical
 
 
 ## Related Claims
-- [Final-section papers present bold futures: ecosystem of adaptive tools, grand challenges, collaboration models, and 2041 visions](bold-futures-ecosystem-grand-challenges-2041.md) — related
+- Final-section papers present bold futures: ecosystem of adaptive tools, grand challenges, collaboration models, and 2041 visions — related
 - [NLP models classify factual (knowledge transmitter) learner questions well but face challenges distinguishing higher-order facilitator and co-learner questions](nlp-models-excel-factual-struggle-higher-order-questions.md) — related

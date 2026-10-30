@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2011
+recheck_by: 2014
 sources:
   - id: francisco-gonzález-gómez-2011
     resource: "http://www.ugr.es/~biblio/biblioteca_ugr/bibliotecas_centros/economicas/index.html"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2014**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` OLS models regressing all questionnaire items on global satisfaction explain approximately 75 percent of the variability in students' global valuation, with all sets of variables important. [→ Francisco González-Gómez 2011](#francisco-gonzalez-gomez-2011)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: jakub-kuzilek-2023
     resource: "https://doi.org/10.1007/s40593-022-00303-4"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The majority of passing students fail to pass Physics I., and students across groups typically leave a week gap before the Physics I. attempt, suggesting higher preparation requirements. [→ Jakub Kuzilek 2023](#jakub-kuzilek-2023)

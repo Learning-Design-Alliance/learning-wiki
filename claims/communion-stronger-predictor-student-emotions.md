@@ -64,8 +64,8 @@ Bivariate correlational analyses at the class/teacher level. Higher communion pe
 
 
 ## Related Claims
-- [Observer, student, and teacher perspectives on teacher agency overlap largely, but observed and teacher-self-reported communion are not significantly associated](perspective-overlap-agency-not-communion.md) — related
+- Observer, student, and teacher perspectives on teacher agency overlap largely, but observed and teacher-self-reported communion are not significantly associated — related
 - [Same-rater associations between teacher behavior ratings and emotions are unlikely to result from common-method bias only](common-method-bias-not-full-explanation.md) — related
-- [Standard multiple regression analyses showed suppressor effects that the novel correction method revealed and corrected](suppressor-effects-corrected-variance-split.md) — related
+- Standard multiple regression analyses showed suppressor effects that the novel correction method revealed and corrected — related
 - [Perspectives on teacher behavior are not interchangeable: combining observer and student perspectives on agency approximates the teacher perspective for teacher emotions, while students' own perspective is irreplaceable for student emotions](perspectives-not-interchangeable.md) — related
 - [Higher AI agency is associated with lower intention to use AI in education, while transparency, explainability, and privacy do not directly predict intention to use](ai-agency-negative-direct-predictor-itu.md) — related

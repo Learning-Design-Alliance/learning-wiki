@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: hu-2021
     resource: "https://doi.org/10.1007/s11423-020-09920-z"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The authors assert that adaptive skill, resulting from the development of adaptive worldviews, is becoming increasingly essential for life and work. [→ Hu 2021](#hu-2021)

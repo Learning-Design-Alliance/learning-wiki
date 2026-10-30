@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 2018
+recheck_by: 2023
 sources:
   - id: laninga-wijnen-2018
     resource: "https://doi.org/10.1037/edu0000210"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Adolescents remained friends with similarly achieving peers in classrooms with low performance goal popularity norms but not in classrooms with high performance goal popularity norms. [→ Laninga-Wijnen 2018](#laninga-wijnen-2018)

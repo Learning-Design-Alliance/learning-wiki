@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: van-de-werfhorst-2024
     resource: "https://doi.org/10.1038/s41539-024-00283-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q3 i?` For students from lower-income families without a college-educated parent, pandemic effects were -0.111 levels on track recommendation and -0.083 levels on seventh-grade enrollment. [→ van de Werfhorst 2024](#van-de-werfhorst-2024)

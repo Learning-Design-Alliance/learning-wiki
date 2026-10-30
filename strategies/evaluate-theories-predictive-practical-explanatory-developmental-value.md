@@ -17,7 +17,7 @@ sources:
 # Evaluate motivational theories rigorously on predictive, practical, explanatory, and developmental value before integrating
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 3 studies (2 theoretical, 1 associational), `q1`–`q3` · 0 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 3 studies (2 theoretical, 1 associational), `q2`–`q3` · 0 of 3 report an effect size
 
 ## Description
 The essay recommends that researchers rigorously evaluate the theories they use rather than inheriting them from supervisors or social contagion. It proposes four evaluation criteria: predictive value (how much theories predict real-world outcomes), practical value (how much they inform end-users and what factors teachers, school leaders, or students could change), explanatory value (conceptual breadth), and developmental trajectory, noting most current theories lack foundations for developmental hypotheses.
@@ -40,7 +40,6 @@ The essay recommends that researchers rigorously evaluate the theories they use 
 ## Claims
 
 - [Predictive modeling across four theories found critical teacher behaviors for engagement that did not fit within one theoretical model](../claims/cross-theoretical-71-teacher-behaviors-predict-engagement.md) [+W]
-- [Fragmentation is caused by researchers themselves via misaligned incentives that favor staying in theoretical camps](../claims/fragmentation-caused-by-misaligned-incentives.md) [+W]
 
 ## Related Strategies
 

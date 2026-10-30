@@ -49,6 +49,6 @@ Methodological exposition of the shrinkage factor applied to strata-level residu
 - [Empirical Bayes shrinkage could be used to address bias in proxy pre-test value-added estimates](empirical-bayes-shrinkage-for-proxy-pretest-bias.md) — related
 - [Empirical Bayes shrinkage increases the precision of value-added estimates and reduces their absolute value for teachers of hard-to-predict students](shrinkage-increases-precision-reduces-absolute-va.md) — related
 - [Teachers of students with hard-to-predict achievement levels tend to have less precise value-added estimates than teachers of other students](hard-to-predict-students-less-precise-teacher-va-estimates.md) — related
-- [In the PISA 2018 German illustration, students were assigned to 40 intersectional strata with sample sizes ranging from 3 to 512](pisa-germany-40-strata-sample-sizes.md) — a narrower finding that bears on this claim
-- [A systematic review identified 21 publications applying intersectional MAIHDA analysis, primarily in the health sciences](systematic-review-21-intersectional-maihda-studies.md) — related
+- In the PISA 2018 German illustration, students were assigned to 40 intersectional strata with sample sizes ranging from 3 to 512 — a narrower finding that bears on this claim
+- A systematic review identified 21 publications applying intersectional MAIHDA analysis, primarily in the health sciences — related
 - [The variance partition coefficient from the simple intersectional model quantifies how useful intersectional strata are for predicting educational outcomes](vpc-measures-strata-discriminatory-accuracy.md) — related

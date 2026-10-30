@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2011
+recheck_by: 2016
 sources:
   - id: jantine-l-spilt-2011
     resource: "https://doi.org/10.1007/s10648-011-9170-y"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2016**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Teacher perceptions of student misbehavior are directly and positively associated with emotional exhaustion, a core dimension of burnout. [→ Jantine L. Spilt 2011](#jantine-l-spilt-2011)

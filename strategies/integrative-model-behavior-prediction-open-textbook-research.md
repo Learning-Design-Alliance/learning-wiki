@@ -37,7 +37,8 @@ The commentary proposes that future research apply the integrative model of beha
 - effective use of open textbooks to empower digital learning
 
 ## Related Strategies
-- 
+
+- [Future OER perception studies should use blind evaluation settings where students and teachers compare textbooks they have not created, used or purchased.](blind-evaluation-oer-perceptions.md)
 
 ## Examples
 -

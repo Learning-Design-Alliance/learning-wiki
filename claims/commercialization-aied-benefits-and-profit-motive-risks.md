@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: ken-koedinger-2024
     resource: "https://doi.org/10.1007/s40593-023-00350-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Commercialization has been positive in bringing more funding, innovation and sustainable systems with impact on student learning, but profit motives are not always aligned with the longer-term goals of education. [→ Ken Koedinger 2024](#ken-koedinger-2024)

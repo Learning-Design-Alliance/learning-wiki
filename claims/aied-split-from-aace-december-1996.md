@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: john-self-2015
     resource: "https://doi.org/10.1007/s40593-015-0040-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q1`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: local conditions change quickly
 
 ## Subclaims
 `q1 i?` Triggered by disputes over scope and administration, including AACE's 1996 attempt to widen the scope of AIED 97, the committee voted to leave AACE; the new society, journal and conference came into existence simultaneously in December 1996. [→ John Self 2015](#john-self-2015)
@@ -46,6 +47,6 @@ The memoir recounts that after a vigorous email debate in 1996, in which AACE as
 
 ## Related Claims
 - [The AIED Society was formed in 1991 primarily to protect and develop the AIED conference series after the rebranded AIED/ICLS 91 conference](aied-society-formed-1991-protect-conferences.md) — related
-- [The 1987 Pittsburgh AIED conference marked a turning point at which the AIED community cohered and subsequent conferences adopted more rigorous standards](pittsburgh-1987-aied-conference-turning-point.md) — related
-- [The AIED research community emerged as a self-identifying community through the conference series, drawing members from adjacent fields](aied-community-emerged-through-conference-series.md) — related
-- [Special issues of IJAIED in 1997–2001 played a significant part in developing AIED sub-fields such as collaborative learning and modelling teaching](ijaied-special-issues-developed-aied-subfields.md) — related
+- The 1987 Pittsburgh AIED conference marked a turning point at which the AIED community cohered and subsequent conferences adopted more rigorous standards — related
+- The AIED research community emerged as a self-identifying community through the conference series, drawing members from adjacent fields — related
+- Special issues of IJAIED in 1997–2001 played a significant part in developing AIED sub-fields such as collaborative learning and modelling teaching — related

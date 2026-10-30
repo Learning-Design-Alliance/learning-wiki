@@ -55,5 +55,5 @@ Risk of bias assessment using ROBINS-I across the 15 studies in the synthesis; t
 - [Inclusion shows a small, non-significant pooled advantage over segregated placement for overall psychosocial adjustment of children with SEN](inclusion-psychosocial-adjustment-smd-020-nonsignificant.md) — related
 - Reporting quality of comparative TGA studies was mostly low, with moderate to serious risk of bias — related
 - [A meta-synthesis of 90 qualitative studies across 26 countries identifies adolescents' positive online experiences with digital flourishing](meta-synthesis-90-studies-adolescent-digital-flourishing.md) — related
-- [All included studies were coded high risk for selection bias and nearly half high risk for information bias](included-studies-high-risk-selection-bias.md) — related
-- [The methodological quality of forest-school studies is poor: most are at high or moderate risk of bias, with no follow-ups and inadequate statistical procedures](forest-school-studies-high-risk-of-bias.md) — related
+- All included studies were coded high risk for selection bias and nearly half high risk for information bias — related
+- The methodological quality of forest-school studies is poor: most are at high or moderate risk of bias, with no follow-ups and inadequate statistical procedures — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2018
+recheck_by: 2021
 sources:
   - id: jill-jêenn-vie-2018
     resource: "https://doi.org/10.1007/s40593-017-0163-y"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Asking 7 questions via InitialD yields on average the same estimation error as 12 random questions or 19 questions from a traditional adaptive test, and 12 questions suffice for a diagnostic predicting 70% of outcomes. [→ Jill-Jêenn Vie 2018](#jill-jeenn-vie-2018)

@@ -17,7 +17,7 @@ sources:
 # Establish a central agency or endowed fund devoted to systematic, thorough series of experiments on teaching, interpreted in light of known facts about the learning process.
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The editorial proposes an institutional mechanism for scientific solution of educational problems: "Some central agency, or some endowed fund, should be devoted to the scientific solution of these problems by systematic and thorough series of experiments". The proposed work includes interpretation of results in the light of the known facts about the learning process, with psychological facts brought to bear in normal schools and school systems. This is the authors' forward-looking recommendation, not an implemented design.
@@ -38,7 +38,6 @@ The editorial proposes an institutional mechanism for scientific solution of edu
 
 ## Claims
 
-- [The editorial argues that fundamental questions about teaching music should be settled by controlled experiment rather than by trial and error.](../claims/music-teaching-questions-need-controlled-experiments.md) [+W]
 
 ## Related Strategies
 

@@ -69,5 +69,5 @@ The same Experiment 3 regression tested the video type × interest interaction o
 - [Computer-based distractions (phone calls, texts, emails, notifications) do not significantly impair comprehension of lecture videos at 1x or 2x speed](on-screen-distractions-no-comprehension-cost.md) — related
 - [Interest and familiarity positively predict comprehension of speeded audio clips, but the benefit of familiarity decreases as playback speed increases](interest-familiarity-predict-speeded-comprehension.md) — related
 - [Pictorial narratives are comprehended better than textual narratives across all education and age groups](pictorial-narratives-better-comprehended-than-textual.md) — reports the opposite
-- [Early research on audio-visual materials in teacher training was repeated in 1958 and 1968, providing a 30-year view](thirty-year-view-audio-visual-teacher-training.md) — related
+- Early research on audio-visual materials in teacher training was repeated in 1958 and 1968, providing a 30-year view — related
 - [Adding visuals of the instructor to online video lectures impairs comprehension relative to audio-only and audio+text formats](instructor-visuals-impair-lecture-comprehension.md) — related

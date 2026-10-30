@@ -49,4 +49,4 @@ The reviewer quotes the reviewed book's own characterization of an approaching t
 - [The editor predicts NRC group tests will make intelligence testing a routine school measure and open the way for adjusting school work to pupil needs](nrc-tests-predicted-routine-school-intelligence-testing.md) — related
 - [The reviewer finds the tests-and-scales book's intelligence-measurement chapter useful but its least satisfactory part, criticizing the Stanford-Binet treatment and the omission of the National Tests](intelligence-chapter-least-satisfactory.md) — related
 - [Group scales allow examining fifty or a hundred children in an hour, whereas individual Binet testing restricts use to special cases](group-scale-throughput-versus-binet-individual.md) — related
-- [Psychology has helped develop methods for determining school-system efficiency, including pedagogical retardation statistics and measurement scales](retardation-statistics-and-scales-school-efficiency.md) — related
+- Psychology has helped develop methods for determining school-system efficiency, including pedagogical retardation statistics and measurement scales — related

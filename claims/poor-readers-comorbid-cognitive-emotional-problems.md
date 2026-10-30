@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2017
+recheck_by: 2022
 sources:
   - id: genevieve-mcarthur-and-anne-castles-2017
     resource: "https://doi.org/10.1038/s41539-017-0008-3"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` A significant proportion of poor readers have spoken language impairments, atypically high rates of attention deficit disorder, and as a group higher levels of anxiety and low self-concept than typical readers. [→ Genevieve McArthur and Anne Castles 2017](#genevieve-mcarthur-and-anne-castles-2017)

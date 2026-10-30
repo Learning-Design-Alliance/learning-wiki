@@ -56,11 +56,11 @@ In the reanalysis of the simulated and PALMA data, the article reports that "The
 - [RI-CLPMs control unmeasured time-invariant covariates better than CLPMs, but neither controls unmeasured time-varying covariates well](ri-clpm-unmeasured-covariate-control.md) — related
 - [With young primary-school readers, REM support appeared in CLPMs but not RI-CLPMs, motivating tests with older students](ehm-reading-rem-clpm-not-ri-clpm.md) — related
 - [RI-CLPM on simulated PALMA-like data shows positive reciprocal cross-lagged effects between within-individual math achievement and self-concept](riclpm-simulated-palma-positive-reciprocal-effects.md) — related
-- [The reciprocal effects are robust to alternative models attributing them to latent confounding or residual error (RI-LTVC, STARTS)](reciprocal-effects-robust-to-spuriousness-models.md) — related
+- The reciprocal effects are robust to alternative models attributing them to latent confounding or residual error (RI-LTVC, STARTS) — related
 - [Reciprocal effects are robust to time-invariant confounders, but the French lagged self-concept effect did not survive the lag2 carryover stress test](robustness-to-confounders-french-lagged-mixed.md) — related
-- [The choice of longitudinal statistical model can determine whether reciprocal motivation-achievement relations are found](statistical-model-choice-reciprocal-effects.md) — related
+- The choice of longitudinal statistical model can determine whether reciprocal motivation-achievement relations are found — related
 - [The ESDM's unidirectional trait-ACH-to-trait-ASC path is not empirically identified, and the confounder-based RI-LTVC alternative shows poor fit with no support for a time-varying confounder](esdm-directional-path-not-identified-ri-ltvc-no-support.md) — reports the opposite
 - [Sorjonen et al.'s (2023) simulation lacked a temporal structure and therefore cannot justify replacing autoregressive effects with covariances in the LCSM](simulation-2023-lacked-temporal-structure-invalid-for-lcsm-justification.md) — related
 - [The reciprocal relations model fits better than unidirectional alternatives, supporting reciprocal causation between emotions and achievement](reciprocal-model-superior-fit.md) — related
 - [When marks and tests are modeled as separate latent variables with cross-lagged effects between them, effects of self-concept on achievement completely disappear](separate-indicators-self-concept-effects-disappear.md) — related
-- [Reciprocal relations models fit better than unidirectional or baseline alternatives for both CLPM and RI-CLPM](reciprocal-model-better-fit-than-nested.md) — related
+- Reciprocal relations models fit better than unidirectional or baseline alternatives for both CLPM and RI-CLPM — related

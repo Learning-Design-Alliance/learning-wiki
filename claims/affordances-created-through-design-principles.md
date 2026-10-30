@@ -48,4 +48,4 @@ The editors' organizing argument for the issue, stated at the outset as a take-h
 - [CSCL relations matter in two ways: interventions informed by empirical studies can support collaboration, and CSCL environments can foster key competencies](cscl-relations-matter-two-ways.md) — related
 - [Without attention, educational innovations tend to exacerbate rather than reduce learning gaps between well-off and lower-resourced individuals](educational-innovations-exacerbate-learning-gaps-without-attention.md) — related
 - [Computer-supported collaboration can promote important cognitive results among kindergarten students when properly structured](kindergarten-cscl-cognitive-results-structured.md) — related
-- [Special-issue frameworks argue for design-thinking-based and originary theory development in learning design and technology](design-thinking-and-originary-theory-development.md) — related
+- Special-issue frameworks argue for design-thinking-based and originary theory development in learning design and technology — related

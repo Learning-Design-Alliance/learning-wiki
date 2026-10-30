@@ -58,6 +58,6 @@ The paper's key finding on regression discontinuity designs: robust methods guar
 - [In Clark County, One-Star designation significantly raises math and ELA scores for all students](one-star-designation-clark-county-all-students.md) — a narrower finding that bears on this claim
 - [When well implemented, RD and experimental estimators produce impact estimates that are not significantly different and similar in magnitude on average](rd-well-implemented-matches-experimental-estimates.md) — related
 - [Author-reported RD findings count toward effectiveness ratings only if standard errors account for clustering of students at unique forcing variable values](rd-clustering-and-discreteness-requirement.md) — related
-- [Most studies of literacy resilience have (very) small sample sizes and low statistical power to find relevant effects](literacy-resilience-studies-low-statistical-power.md) — related
-- [The study was adequately powered only for medium-to-large effects on the critical three-way interaction](power-limited-three-way-interaction.md) — related
-- [The study was powered to detect effect sizes from d = 0.34 to 0.65 across the five tasks, so smaller effects would not have been reliably detected](power-analysis-detectable-effect-sizes-034-to-065.md) — related
+- Most studies of literacy resilience have (very) small sample sizes and low statistical power to find relevant effects — related
+- The study was adequately powered only for medium-to-large effects on the critical three-way interaction — related
+- The study was powered to detect effect sizes from d = 0.34 to 0.65 across the five tasks, so smaller effects would not have been reliably detected — related

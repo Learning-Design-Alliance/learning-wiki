@@ -48,6 +48,7 @@ Regression analysis in 86 third graders; the Bayes factor of 13 376 272 for symb
 - [Number Sense](../learner-variables/number-sense.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
 - [Inhibition's role in arithmetic fact retrieval may be limited to atypically developing children](inhibition-fact-retrieval-scope-atypical-children.md) — related
 - [Both numerical magnitude processing tasks correlate positively with arithmetic fact retrieval, more strongly for symbolic](nmp-correlates-fact-retrieval-symbolic-stronger.md) — related
 - [Cognitive inhibition is not significantly associated with arithmetic fact retrieval in typically developing third graders](no-association-inhibition-arithmetic-fact-retrieval.md) — related
@@ -56,3 +57,4 @@ Regression analysis in 86 third graders; the Bayes factor of 13 376 272 for symb
 - [Mathematics achievement is more strongly related to inhibition measured in numerical than non-numerical contexts](numerical-inhibition-stronger-math-achievement-link.md) — related
 - [Numerical magnitude comparison explains significant unique variance in multiplication fact performance over and above phonological processing, intellectual ability, and general reaction time](magnitude-comparison-unique-variance-multiplication.md) — related
 - [Accuracy in arithmetical reasoning and accuracy in numerical computation were highly positively correlated in each school, but such correlation does not warrant inferring causal relation or transfer](winch-high-positive-correlations-reasoning-computation.md) — related
+- [Understanding numerical order explains unique variance in children's arithmetic and becomes the best predictor of arithmetic performance by the end of primary school](numerical-order-predicts-arithmetic-development.md)

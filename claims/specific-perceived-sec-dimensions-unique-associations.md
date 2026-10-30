@@ -52,5 +52,5 @@ In the SEM of 414 Australian secondary students, these two specific factors show
 
 ## Related Claims
 - [Global perceived-SEC is positively associated with autonomous motivation, introjected motivation, and prosocial behavior, and negatively with conduct problems](global-perceived-sec-predicts-motivation-and-behaviors.md) — related
-- [Perceived social-emotional competence is best modeled as a bifactor structure with one global factor and five specific factors among Australian adolescents](perceived-sec-bifactor-global-and-specific-factors.md) — related
+- Perceived social-emotional competence is best modeled as a bifactor structure with one global factor and five specific factors among Australian adolescents — related
 - [Global perceived-SEC is indirectly associated with greater prosocial behavior via autonomous motivation (β = .23), the only significant indirect path](indirect-path-global-sec-autonomous-motivation-prosocial.md) — related

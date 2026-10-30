@@ -28,7 +28,8 @@ A computer-based experiential learning application described by Hall et al. that
 - [Most children did not accept that different rule sets were not cheating, with under 30% judging neither team had cheated](../claims/mixer-cheating-misconception-persists.md) [~M]
 
 ## Related Products and Programmes
--
+
+- [FAtiMA (Fearnot AffecTIve Mind Architecture)](fatima-fearnot-affective-mind-architecture.md)
 
 ## Key Sources
 - Hall, L., Tazzyman, S., Hume, C., Endrass, B., Lim, M.-Y., Hofstede, G., Paiva, A., Andre, E., Kappas, A., & Aylett, R. (2014). Learning to Overcome Cultural Conflict through Engaging with Intelligent Agents in Synthetic Cultures. Int J Artif Intell Educ. https://doi.org/10.1007/s40593-014-0031-y

@@ -10,6 +10,7 @@ generated:
 evidence_strength: moderate
 newest_evidence: 2023
 source_checked: 2026-10-29
+recheck_by: 2028
 sources:
   - id: carlos-gonzález-2023
     resource: "https://doi.org/10.1007/s11423-023-10200-9"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2023 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Teachers with good self-perceived digital skills were well positioned to respond to the pandemic, while teachers with self-perceived poor skills struggled, particularly at the beginning of the sanitary crisis. [→ Carlos González 2023](#carlos-gonzalez-2023)

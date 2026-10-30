@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: felicia-warden-andrew-a-tawfik-2026
     resource: "https://doi.org/10.1007/s11423-026-10670-7"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: local conditions change quickly
 
 ## Subclaims
 `q3 i?` MANOVA found no significant group differences on Literacy (p = .137), Curriculum, Instruction and Assessment (p = .134), Community Partnerships (p = .449), Collaborative Leadership (p = .226), or Data and Privacy (p = .849). [→ Felicia Warden · Andrew A. Tawfik 2026](#felicia-warden-andrew-a-tawfik-2026)

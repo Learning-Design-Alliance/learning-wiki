@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: slot-2021
     resource: "https://doi.org/10.1037/edu0000475"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q3 i?` 40.8% of the sampled students had a nondifferentiated interest structure (low, neutral, or broad vocational interest) and 59.2% had a differentiated interest structure. [→ Slot 2021](#slot-2021)

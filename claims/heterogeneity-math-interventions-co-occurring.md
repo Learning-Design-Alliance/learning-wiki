@@ -50,7 +50,7 @@ Heterogeneity assessment in the CHE meta-analysis of 60 effect sizes nested in n
 - [The positive GenAI writing effect is robust across dependence-aware, sensitivity, and risk-of-bias specifications, but the wide prediction interval spans near-zero to large effects](genai-writing-effect-robustness-checks.md) — related
 - [Effects of AI literacy interventions vary considerably across contexts, with most variance between studies (71.361%) and a wide prediction interval](ai-literacy-intervention-effects-highly-heterogeneous.md) — related
 - [Feedback has a medium overall effect on student learning (d = 0.48 after outlier removal) with substantial heterogeneity](feedback-medium-overall-effect-d048-heterogeneous.md) — related
-- [Effect sizes vary widely between studies and especially between comparisons within studies](large-variation-word-reading-intervention-effects.md) — related
+- Effect sizes vary widely between studies and especially between comparisons within studies — related
 - [Effect sizes across shared text reading studies show substantial true heterogeneity (I2 = 80.09)](substantial-heterogeneity-shared-reading-effects.md) — related
 - [Effect sizes across included studies show high heterogeneity (all I² above 75%)](high-heterogeneity-er-burnout-effects.md) — related
 - [Meta-analytic evidence on GenAI and critical thinking shows a positive mean association with a prediction interval spanning harm to benefit](genai-critical-thinking-metaanalysis-heterogeneity.md) — related

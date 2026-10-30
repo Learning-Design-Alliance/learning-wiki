@@ -64,8 +64,8 @@ BERTopic analysis of the tweet corpus after c-TF-IDF outlier reassignment (outli
 - [GenAI guidelines at top U.S. universities cluster into four topics: learning and assessment integration, visual/multimodal media, security and ethics, and academic integrity](four-topics-genai-guidelines-heis.md) — related
 - [GenAI education discourse on Reddit spans 17 themes across 5 clusters, with Academic Integrity the largest at 37.1% of records](genai-education-reddit-17-theme-taxonomy.md) — related
 - [Impression narratives rely on weakly diagnostic suspicion heuristics such as response speed, fluency, and perceived scriptedness](suspicion-heuristics-weakly-diagnostic.md) — related
-- [Research on SECs and engagement is unevenly distributed across the five CASEL domains, concentrating on self-management, self-awareness and relationship skills](casel-domains-unevenly-studied.md) — related
+- Research on SECs and engagement is unevenly distributed across the five CASEL domains, concentrating on self-management, self-awareness and relationship skills — related
 - [Topic modeling reveals 20 topics in six communities, with special education and collaborative knowledge construction thematically isolated](twenty-topics-six-communities-isolated-clusters.md) — related
-- [AIED ethics publication output is concentrated in Europe, led by the United Kingdom (47%) and Finland (20%)](aied-ethics-publications-european-concentration.md) — related
-- [AIED ethics discussions are dominated by Science (over 50%) with scarce humanities and arts coverage](aied-ethics-subject-area-dominance-science.md) — related
-- [Research priorities in AWE have shifted from technical validation toward pedagogical integration and ethical considerations (2015–2024)](awe-research-priority-shift-implementation-ethics.md) — related
+- AIED ethics publication output is concentrated in Europe, led by the United Kingdom (47%) and Finland (20%) — related
+- AIED ethics discussions are dominated by Science (over 50%) with scarce humanities and arts coverage — related
+- Research priorities in AWE have shifted from technical validation toward pedagogical integration and ethical considerations (2015–2024) — related

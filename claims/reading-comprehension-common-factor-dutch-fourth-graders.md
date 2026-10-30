@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 2017
+recheck_by: 2020
 sources:
   - id: mml-muijselaar-2017
     resource: "https://doi.org/10.1037/edu0000120"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Confirmatory factor analyses showed that measures differing by text and question type hardly reflected systematic variation after a general reading comprehension factor was accounted for. [→ M.M.L. Muijselaar 2017](#mml-muijselaar-2017)
@@ -45,6 +46,6 @@ Confirmatory factor analyses within a multitrait, multimethod modeling approach 
 
 
 ## Related Claims
-- [A bifactor model of oral language and reading fits better than one-, three-, and four-factor models in every grade from 4th through 10th](bifactor-model-best-fit-grades-4-10.md) — related
+- A bifactor model of oral language and reading fits better than one-, three-, and four-factor models in every grade from 4th through 10th — related
 - [No common underlying proficiency emerges for oral language: bifactor models of expressive and definitional vocabulary did not converge](no-common-underlying-proficiency-oral-language.md) — reports the opposite
 - [Specific text- and question-type factor scores were not reliable and were hardly related to word reading speed, vocabulary, and working memory](specific-comprehension-factor-scores-unreliable-unrelated-cognitive-abilities.md) — possibly the same claim (merge candidate)

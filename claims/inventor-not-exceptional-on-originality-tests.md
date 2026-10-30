@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1916
+recheck_by: 1919
 sources:
   - id: chassell-1916
     resource: "https://doi.org/10.1037/h0070310"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q1`
-> **Currency** · newest study 1916 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1916 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1919**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` One internationally renowned inventor scored within the first half of the 100-student group but not exceptionally high. [→ Chassell 1916](#chassell-1916)

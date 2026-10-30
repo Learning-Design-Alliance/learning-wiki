@@ -48,6 +48,7 @@ Hierarchical regression (N = 63) controlling Raven's intellectual ability, motor
 - [Number Sense](../learner-variables/number-sense.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
 - [Symbolic magnitude comparison contributes more unique variance to fourth graders' multiplication fact performance than nonsymbolic magnitude comparison](symbolic-beats-nonsymbolic-multiplication-variance.md) — related
 - [Phonological short-term memory (nonword repetition) shows a modest unique contribution to multiplication fact performance, while phonological awareness shows no relation](phonological-memory-modest-multiplication-contribution.md) — related
 - [Fourth graders' multiplication fact solving speed correlates significantly with both symbolic and nonsymbolic magnitude comparison speed](magnitude-comparison-correlates-multiplication-facts.md) — related
@@ -57,3 +58,4 @@ Hierarchical regression (N = 63) controlling Raven's intellectual ability, motor
 - [General processing speed (choice reaction time and figure matching) does not significantly predict mathematics achievement in Grade 7 or Grade 9](general-processing-speed-does-not-predict-math.md) — related
 - [Symbolic numerical magnitude processing is a powerful unique predictor of arithmetic fact retrieval](symbolic-nmp-strong-predictor-fact-retrieval.md) — related
 - [Numerical abilities and serial retrieval fluency predict third-grade multiplication fluency, while working memory shows no significant association in the baseline model](numerical-abilities-retrieval-fluency-predict-multiplication-baseline.md) — related
+- [Understanding numerical order explains unique variance in children's arithmetic and becomes the best predictor of arithmetic performance by the end of primary school](numerical-order-predicts-arithmetic-development.md)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: herrera-2024
     resource: "https://doi.org/10.1007/s11423-024-10422-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Across 21 participants, only one 6-year-old with intellectual disability felt dizzy and uncomfortable in session 1, which did not recur in session 2; no significant safety issues were identified. [→ Herrera 2024](#herrera-2024)

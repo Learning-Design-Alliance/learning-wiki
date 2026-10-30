@@ -17,7 +17,7 @@ sources:
 # Build a publicly available repository of standardised datasets for item difficulty prediction research
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Among the challenges the review poses to the item difficulty prediction community is "the need for a publicly available repository of standardised data-sets", alongside further investigation into alternative feature elicitation and prediction models. The strategy addresses the field's fragmentation: studies use heterogeneous data sources, domains and item types, which the review identifies as an obstacle to comparative evaluation of prediction models. A shared repository would enable like-for-like benchmarking of models.
@@ -38,7 +38,6 @@ Among the challenges the review poses to the item difficulty prediction communit
 
 ## Claims
 
-- [Ground-truth difficulty labels in reviewed studies come roughly equally from expert/annotator labelling (34%), Classical Test Theory (34%), and Item Response Theory (26%)](../claims/ground-truth-labelling-methods-distribution.md) [+W]
 
 ## Related Strategies
 - 

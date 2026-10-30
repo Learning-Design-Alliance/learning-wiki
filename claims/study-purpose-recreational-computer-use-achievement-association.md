@@ -43,7 +43,7 @@ The article's stated purpose sentence, naming the data source ("the large nation
 
 
 ## Related Claims
-- [Prior research on computer use, gaming, and achievement had focused on small intact and qualitative samples, with findings described variously as positive, negative, or neutral](prior-gaming-achievement-research-small-qualitative-samples.md) — related
+- Prior research on computer use, gaming, and achievement had focused on small intact and qualitative samples, with findings described variously as positive, negative, or neutral — related
 - [Recreational computer use and moderate video gaming were not related to growth in mathematics achievement from grade 10 to grade 12](recreational-computer-use-not-related-math-growth.md) — a narrower finding that bears on this claim
 - [Student use of computers for fun is positively and significantly associated with cross-sectional reading and mathematics achievement in high school, controlling for multiple covariates](computer-use-for-fun-positive-achievement-els2002.md) — related
 - [Moderate levels of video gaming are positively and significantly associated with cross-sectional reading and mathematics achievement in high school, controlling for covariates](moderate-video-gaming-positive-achievement-els2002.md) — related

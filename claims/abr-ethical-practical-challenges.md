@@ -64,11 +64,11 @@ The review reports a lack of time as a limitation of many studies, that more tra
 
 
 ## Related Claims
-- [Arts-based methods in community-based research with vulnerable populations grew steadily in use from 1993 to 2013, with 90% of the 131 reviewed studies published between 2004 and 2013](abr-community-based-inquiry-growth-1993-2013.md) — related
-- [Analyzing arts-based data was one of the biggest challenges in community-based arts-based research: what counts as data was unclear, conventional textual analyses dominated, and researcher-led versus participant-led interpretation each risked stereotyping](abr-data-analysis-challenge.md) — related
+- Arts-based methods in community-based research with vulnerable populations grew steadily in use from 1993 to 2013, with 90% of the 131 reviewed studies published between 2004 and 2013 — related
+- Analyzing arts-based data was one of the biggest challenges in community-based arts-based research: what counts as data was unclear, conventional textual analyses dominated, and researcher-led versus participant-led interpretation each risked stereotyping — related
 - [Students raised four categories of concern about potential misuse of MMLA data: judgment, privacy, career impact, and academic integrity](mmla-data-misuse-concerns-four-themes.md) — related
 - [Ethics, privacy, bias, over-reliance, accuracy, usability and cost are key challenges AI use poses for learner satisfaction and engagement](ai-challenges-engagement-satisfaction.md) — related
 - [Algorithmic bias and data privacy are central ethical risks of AI in adult education](algorithmic-bias-privacy-risks-adult-education.md) — related
 - [The review identifies data privacy, algorithmic fairness, academic integrity, and unequal access as interconnected ethical concerns in AI-supported mathematics education](ai-math-ethical-concerns-interconnected.md) — related
 - [Privacy protections lag behind reputational concerns: institutions rarely consider implications of capturing audio-visual and behavioral data from private spaces, and AI algorithms are seldom transparent about error rates](privacy-transparency-lags-proctoring-adoption.md) — related
-- [Researchers adopt arts-based methods in community-based inquiry to challenge language-oriented methods, reduce power imbalances, give voice to vulnerable participants, engage hard-to-verbalize issues, motivate participation, and reach wider audiences](abr-rationales-vulnerable-populations.md) — related
+- Researchers adopt arts-based methods in community-based inquiry to challenge language-oriented methods, reduce power imbalances, give voice to vulnerable participants, engage hard-to-verbalize issues, motivate participation, and reach wider audiences — related

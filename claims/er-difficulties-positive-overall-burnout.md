@@ -52,6 +52,6 @@ Random-effects meta-analysis of 20 studies of children, adolescents, and youth; 
 - [Grade level significantly moderates the ER difficulties–burnout association, with larger effects at pre-university than university level](grade-level-moderates-er-difficulties-burnout.md) — related
 - [ER difficulties are positively associated with each burnout dimension: cynicism, emotional exhaustion, and lack of efficacy](er-difficulties-burnout-dimensions.md) — related
 - [Female percentage and mean age significantly moderate the ER difficulties–burnout association; study quality does not](female-percentage-age-moderate-er-burnout.md) — related
-- [Publication-bias adjustments render the ER difficulties–lack of efficacy and adaptive ER–emotional exhaustion effects non-significant](publication-bias-weakens-some-er-burnout-effects.md) — related
+- Publication-bias adjustments render the ER difficulties–lack of efficacy and adaptive ER–emotional exhaustion effects non-significant — related
 - [Effect sizes across included studies show high heterogeneity (all I² above 75%)](high-heterogeneity-er-burnout-effects.md) — related
 - [Student burnout is positively associated with dropout intentions, with a pooled meta-analytic correlation of r+ = .46](burnout-dropout-intentions-pooled-r46.md) — related

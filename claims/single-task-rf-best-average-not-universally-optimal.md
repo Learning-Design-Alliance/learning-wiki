@@ -52,4 +52,4 @@ Held-out test set evaluation of multiple regression model types across 15 geneti
 - [Concepts associated with only a single post-test question yield markedly low predictive performance across all modeling approaches](single-question-concepts-low-predictive-performance.md)
 - [Sequential deep learning models outperform static models for concepts mapped to multiple post-test questions](sequential-models-outperform-static-multi-question-concepts.md) — related
 - [A hybrid stealth assessment framework selecting the optimal model per concept outperforms any single homogeneous modeling technique for predicting student competencies](hybrid-stealth-assessment-outperforms-single-model.md) — a broader claim this one bears on
-- [Regression optimizes explanation of data at hand while machine learning optimizes out-of-sample prediction, and studies must state which aim they pursue](explaining-versus-predicting-development.md) — related
+- Regression optimizes explanation of data at hand while machine learning optimizes out-of-sample prediction, and studies must state which aim they pursue — related

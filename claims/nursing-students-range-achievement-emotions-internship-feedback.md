@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: feedback-processing-and-emotion-regulation-in-nursing-students-during-internship-2022
     resource: "https://eric.ed.gov/?q=feedback+processing+and+emotion+regulation+in+nursing+students+during+internship"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Students experience a range of emotions in feedback situations, identified and illustrated with students' words across positive and negative valence. [→ Feedback processing and emotion regulation in nursing students during internship 2022](#feedback-processing-and-emotion-regulation-in-nursing-students-during-internship-2022)

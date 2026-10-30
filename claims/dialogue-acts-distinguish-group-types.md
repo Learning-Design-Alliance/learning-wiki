@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: goodman-2016
     resource: "https://doi.org/10.1007/s40593-015-0041-4"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Analysis of dialogue acts underlying communication showed extensive differences indicating whether a group was balanced and supportive or unbalanced and unsupportive. [→ Goodman 2016](#goodman-2016)

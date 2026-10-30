@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: johannes-schneider-2023
     resource: "https://doi.org/10.1007/s40593-022-00289-z"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` When samples near the similarity threshold are excluded from autograding and graded manually, accuracy on autograded samples rises above the single-threshold accuracy. [→ Johannes Schneider 2023](#johannes-schneider-2023)

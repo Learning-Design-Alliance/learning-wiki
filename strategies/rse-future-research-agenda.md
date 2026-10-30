@@ -17,7 +17,7 @@ sources:
 # Future RSE research should standardise terminology, fully describe pedagogy, and use rigorous evaluation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review's forward-looking agenda for the field: "Future research should seek to identify consistency in terminology and content, identify pedagogical approaches that are fully described building on the field of expertise in education, and engage highly rigorous methods and expertise in evaluation". It further argues the field of sex education must be recognised socially and institutionally so appropriate funding and resources can be distributed to progress the field.
@@ -38,11 +38,7 @@ The review's forward-looking agenda for the field: "Future research should seek 
 
 ## Claims
 
-- [Most RSE studies do not report the teaching approach used](../claims/rse-approach-underreported.md) [+W]
-- [Growth in RSE research has been accompanied by divergence rather than convergence of content](../claims/rse-content-divergence.md) [+W]
 - [Evaluation methods for RSE are varied and hybridised, with qualitative methods most common](../claims/rse-evaluation-methods-varied.md) [+W]
-- [Over a third of RSE studies report no outcomes, and student outcome measurement prioritises knowledge](../claims/rse-outcomes-knowledge-prioritised.md) [+W]
-- [Most RSE studies in the review corpus did not define their central term](../claims/rse-studies-lack-definitions.md) [+W]
 
 ## Related Strategies
 

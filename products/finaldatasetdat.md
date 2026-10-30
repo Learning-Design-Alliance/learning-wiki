@@ -25,7 +25,9 @@ A publicly downloadable OSF-hosted study dataset containing item-level self-conc
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [OSF repository](osf-repository.md)
+- [Open-source data and scripts for R and Mplus for comparing cross-lagged models](open-source-data-and-scripts-for-r-and-mplus-for-comparing-cross-lagged-models.md)
 
 ## Key Sources
 - Boosting Students' Academic Self-Concepts. (2024). https://osf.io/xbv4q/?view_only=62ce423079de44dba59a9e7b132417e6

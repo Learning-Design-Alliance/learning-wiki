@@ -58,7 +58,7 @@ Reliability and validity analysis of the 34-item scale on Sample two (N = 342). 
 - [Exploratory factor analysis supports a five-factor GAA-LS structure explaining 67.82% of variance](gaa-ls-five-factor-efa-structure.md) — related
 - [Existing online SRL questionnaires show reliability problems, with most having at least one scale outside the acceptable Cronbach's alpha range](existing-online-srl-scales-reliability-issues.md) — related
 - [AITAQS dimension reliabilities fall within 0.721–0.745 Cronbach's α, exceeding acceptability thresholds, with all CR values above 0.7 though some AVE values fall below 0.5.](aitaqs-reliability-alpha-cr-ave.md) — related
-- [EFA of the CONNECT instrument identifies seven transversal-skill components](seven-transversal-skill-components-efa.md) — related
+- EFA of the CONNECT instrument identifies seven transversal-skill components — related
 - [The DIGISOC instrument was developed through a literature review, dimension and item construction, and validity and reliability assessment](digisoc-development-process.md) — related
 - [The 23-item SETSES shows acceptable reliability and convergent validity, with partial discriminant validity (mastery experiences not distinct from vicarious information)](setses-validity-reliability-23-item.md) — related
 - [All eight SAICS dimensions showed high internal consistency (Cronbach's alpha ≥ 0.89), high factor loadings (0.76–0.96), and convergent validity (inter-dimension correlations r > 0.34)](saics-reliability-convergent-validity.md) — related

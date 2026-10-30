@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: cetron-2026
     resource: "https://doi.org/10.1038/s41539-025-00394-3"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Classifier scores derived from participants' pairwise similarity ratings neither correlated with individual quiz scores nor showed a clear learning trajectory over time. [→ Cetron 2026](#cetron-2026)

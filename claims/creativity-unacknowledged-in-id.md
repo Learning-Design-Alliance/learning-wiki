@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: carolina-cuesta-hincapie-2025
     resource: "https://doi.org/10.1007/s11423-025-10560-4"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Participants in Category 2 reported that creativity happens in ID education but is not acknowledged, lacking shared vocabulary and being confined to the form component of design. [→ Carolina Cuesta-Hincapie 2025](#carolina-cuesta-hincapie-2025)

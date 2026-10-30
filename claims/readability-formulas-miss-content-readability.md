@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 1955
+recheck_by: 1958
 sources:
   - id: audio-visual-communication-review-1955
     resource: "https://eric.ed.gov/?q=audio-visual+communication+review"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r?` · `q2`
-> **Currency** · newest study 1955 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1955 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1958**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Readability formulas deal with stylistic qualities of prose rather than its meaning, leaving content readability unmeasured. [→ Audio-Visual Communication Review 1955](#audio-visual-communication-review-1955)

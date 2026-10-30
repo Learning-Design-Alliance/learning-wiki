@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: aymee-alvarez-rivero-2023
     resource: "https://doi.org/10.1038/s41539-023-00191-w"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Teachers estimated that students attending regularly increased linearly with SES levels (F(4; 611) = 2.41, p = 0.048), and irregular attendance decreased across SES levels (F(4; 611) = 3.34, p = 0.010). [→ Aymee Alvarez-Rivero 2023](#aymee-alvarez-rivero-2023)

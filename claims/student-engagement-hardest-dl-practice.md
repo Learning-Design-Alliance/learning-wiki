@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: vidergor-hava-e-2023
     resource: "https://doi.org/10.1016/j.compedu.2023.104777"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Descriptive means showed class management rated highest, teaching strategies second, and student engagement lowest among DL teaching practice sub-dimensions. [→ Vidergor Hava E 2023](#vidergor-hava-e-2023)

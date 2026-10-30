@@ -17,7 +17,7 @@ sources:
 # A set of discriminable surface colors and symbols for coding in animated training panels
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A Naval Training Devices Center technical report developed a color-code and symbol system for animated training panels indicating organizational and functional relationships among components and changes in physical state, such as fuel as it is burned. Ten colors were selected with federal specification numbers, and the symbols included diamonds, pyramids, dashes, squares, wavy line, straight line, large dots, and small dots. Codes were chosen from a literature study and laboratory-tested against selected backgrounds.
@@ -37,7 +37,8 @@ A Naval Training Devices Center technical report developed a color-code and symb
 - reading organizational and functional relationships among components and changes in physical state on training panels
 
 ### Claims
-- 
+
+- [Signaling with on-screen text, color, contrast, or symbols improves retention and transfer from animations and video](../claims/signaling-improves-retention-transfer-video.md) [+W]
 
 ## Related Designs
 - 

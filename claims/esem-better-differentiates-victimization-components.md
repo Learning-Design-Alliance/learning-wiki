@@ -47,5 +47,5 @@ The review attributes to Marsh et al. (2011) that "ESEM improved the goodness-of
 ## Related Claims
 - [A three-component (tripartite) model of victimization shows superior explanatory power to unidimensional and two-component models in cross-national PISA2018 data](tripartite-model-superior-fit-pisa2018.md) — related
 - [The six achievement emotion regulation strategies are empirically separable constructs, and corresponding strategies across emotions are sufficiently distinct to warrant emotion-specific measures](raeq-strategies-separable-emotion-specific-constructs.md) — a narrower finding that bears on this claim
-- [Bifactor-ESEM shows the highest fit among CFA, ESEM, bifactor-CFA and bifactor-ESEM models, supporting AITAQS as one general factor plus four specific dimensions.](aitaqs-bifactor-esem-best-fit.md) — a narrower finding that bears on this claim
-- [TEDDICS comprises three factors — accessing, evaluating, and sharing and communicating digital information — best represented by ESEM rather than CFA](teddics-three-factor-esem-structure.md) — a narrower finding that bears on this claim
+- Bifactor-ESEM shows the highest fit among CFA, ESEM, bifactor-CFA and bifactor-ESEM models, supporting AITAQS as one general factor plus four specific dimensions. — a narrower finding that bears on this claim
+- TEDDICS comprises three factors — accessing, evaluating, and sharing and communicating digital information — best represented by ESEM rather than CFA — a narrower finding that bears on this claim

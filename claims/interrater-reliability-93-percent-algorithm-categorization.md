@@ -46,4 +46,4 @@ Meta-synthesis of 33 empirical studies. The review reports that "Interrater reli
 
 ## Related Claims
 - [Making trustworthiness metrics and visualizations explicit increased inter-rater reliability among learning engineers evaluating LLM responses](trustworthiness-metrics-visualizations-increase-expert-agreement.md) — related
-- [A structured negotiated-coding process reached nearly 98% interrater agreement before machine learning](negotiated-coding-98-consensus.md) — related
+- A structured negotiated-coding process reached nearly 98% interrater agreement before machine learning — related

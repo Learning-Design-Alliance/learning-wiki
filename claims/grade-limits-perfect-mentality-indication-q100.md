@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 1918
+recheck_by: 1921
 sources:
   - id: toops-1918
     resource: "https://eric.ed.gov/?q=Mentality+and+School+Progress+Toops+Pintner"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1921**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` With the normal mentality group defined as those within four grades retarded to one grade advanced, school retardation of four or more grades never co-occurs with above-normal mentality, and advancement of more than one grade never co-occurs with below-normal mentality, giving a perfect positive association QVI = +1.00. [→ Toops 1918](#toops-1918)

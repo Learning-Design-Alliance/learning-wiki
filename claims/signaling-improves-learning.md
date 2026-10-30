@@ -160,6 +160,6 @@ Signaling is one of the most consistently supported principles in multimedia lea
 - [Signaling principle: highlighting essential words improves transfer from multimedia lessons](signaling-principle-mayer-2008.md) — a narrower finding that bears on this claim
 - [Coherence principle: people learn better when extraneous material is excluded rather than included (d = 0.86 across 19 tests)](coherence-principle-extraneous-material-effect.md) — related
 - [Anthropomorphic and colour features can capture and guide attention, overlapping with the signaling principle](emotional-design-attention-guidance-signaling-overlap.md) — a narrower finding that bears on this claim
-- [Mayer published seven pieces in Educational Psychology Review, including the Select–Organize–Integrate model of learning and a research-based analysis of animation as an aid to multimedia learning.](mayer-seven-epr-pieces-soi-animation.md) — related
+- Mayer published seven pieces in Educational Psychology Review, including the Select–Organize–Integrate model of learning and a research-based analysis of animation as an aid to multimedia learning. — related
 - [All-in-one lesson structure with prior knowledge, optional help and challenge, and chunking supported autonomy and competence](all-in-one-lesson-structure-supported-autonomy-competence.md) — related
 - [DHH students' feedback suggests the signaling principle may be a valuable design consideration](dhh-signaling-principle-valuable.md) — a narrower finding that bears on this claim

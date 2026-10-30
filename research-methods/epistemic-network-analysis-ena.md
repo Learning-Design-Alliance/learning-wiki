@@ -18,7 +18,7 @@ sources:
 # Epistemic network analysis (ENA)
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 9 claims (9 for) · 4 studies (1 causal, 1 qualitative, 1 design, 1 theoretical), `q2`–`q3` · 1 of 4 report an effect size · 9 claims rest on one study
+> **Evidence** · 8 claims (8 for) · 3 studies (1 causal, 1 design, 1 theoretical), `q2`–`q3` · 1 of 3 report an effect size · 8 claims rest on one study
 
 ## Description
 Epistemic network analysis (ENA) is a non-parametric analytic method developed for epistemic game data; the article focuses on its social-network based variant. Chat utterances are automatically scored into binary indicators of SKIVE element use, aggregated into adjacency and cumulative adjacency matrices across evidentiary segments. The weighted density (WD) statistic summarizes, for each learner, "the total number of unique pair-wise associations / connections between SKIVE elements", and the article evaluates its utility via a simulation study in Land Science.
@@ -39,7 +39,6 @@ Epistemic network analysis (ENA) is a non-parametric analytic method developed f
 - [Segmentation boundary choices differentially affect statistics computed on epistemic-game process data](../claims/segmentation-boundaries-differentially-affect-statistics.md) [+W]
 - [A mirroring dashboard shifts teacher attention toward epistemic over social aspects of learning, while a guiding dashboard divides interventions more equally](../claims/mirroring-versus-guiding-dashboard-attention-balance.md) [+M]
 - [Pre-written prompts increase Justifications and Alternative ideas in children's pair-programming talk and shift the role of Simple questions](../claims/prompts-increase-exploratory-talk-elements-pair-programming.md) [+M]
-- [Combining Epistemic Network Analysis with deep qualitative ethnographies improves understanding of complex socioemotional phenomena in learning communities](../claims/combining-ena-with-qualitative-ethnography.md) [+M]
 
 ## Related Research Methods
 -

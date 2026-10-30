@@ -48,6 +48,7 @@ Pearson (partial, motor-RT-controlled) correlations in 86 third graders; the sym
 - [Number Sense](../learner-variables/number-sense.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
 - [Symbolic numerical magnitude processing is a powerful unique predictor of arithmetic fact retrieval](symbolic-nmp-strong-predictor-fact-retrieval.md) — related
 - [Number line estimation and numerical magnitude comparison correlate with mathematics achievement (r = .24 to .44), with number line estimation more strongly related in older children](number-sense-tasks-correlate-with-math-achievement.md) — a broader claim this one bears on
 - [Both symbolic and nonsymbolic magnitude processing correlate with subtraction accuracy, but subtraction speed is associated only with symbolic tasks](symbolic-nonsymbolic-accuracy-speed-dissociation.md) — related
@@ -60,3 +61,4 @@ Pearson (partial, motor-RT-controlled) correlations in 86 third graders; the sym
 - [Inhibition does not uniquely predict arithmetic fact retrieval above numerical magnitude processing](inhibition-no-unique-contribution-fact-retrieval.md) — related
 - [Symbolic magnitude comparison is a stronger longitudinal predictor of mathematical achievement than nonsymbolic comparison](symbolic-stronger-predictor-than-nonsymbolic.md) — related
 - [Accuracy in arithmetical reasoning and accuracy in numerical computation were highly positively correlated in each school, but such correlation does not warrant inferring causal relation or transfer](winch-high-positive-correlations-reasoning-computation.md) — related
+- [Understanding numerical order explains unique variance in children's arithmetic and becomes the best predictor of arithmetic performance by the end of primary school](numerical-order-predicts-arithmetic-development.md)

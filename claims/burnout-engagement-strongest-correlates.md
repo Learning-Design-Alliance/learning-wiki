@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: moderate
 newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: sijing-zhou-2024
     resource: "https://doi.org/10.1007/s10648-024-09886-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i3` large
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q3 i3` Burnout was the strongest significant correlate of all five wellbeing types (ρ = −.55 to −.71), and work engagement correlated .53 to .65 with four wellbeing types. [→ Sijing Zhou 2024](#sijing-zhou-2024)

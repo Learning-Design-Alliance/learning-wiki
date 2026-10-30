@@ -17,7 +17,7 @@ sources:
 # Treat educator implementation concerns as speed bumps: slow down and discuss nuances of the research to address them
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 This strategy reframes educator concerns about retrieval practice not as roadblocks that stop implementation but as "speed bumps, opportunities to slow down and discuss some of the nuances of retrieval practice research that can serve to address the concerns". In practice, science communicators and workshop leaders use each raised concern as a prompt to discuss relevant nuances of the research literature with educators. The article reports using this approach in its own workshops.
@@ -38,7 +38,6 @@ This strategy reframes educator concerns about retrieval practice not as roadblo
 
 ## Claims
 
-- [The authors call for formal research that systematically identifies educators' implementation concerns and evaluates effective ways to communicate the science of learning](../claims/call-for-implementation-reform-research.md) [+W]
 - [The three named educator concerns are time or workload of planning, enacting, and evaluating retrieval practice; perceived usefulness limited to basic knowledge; and test anxiety](../claims/retrieval-practice-concerns-workload-scope-anxiety.md) [+W]
 - [Three concerns about retrieval practice implementation consistently arise during educators' workshop conversations: workload, perceived restriction to basic knowledge, and test anxiety](../claims/three-recurring-educator-concerns-retrieval-practice.md) [+W]
 

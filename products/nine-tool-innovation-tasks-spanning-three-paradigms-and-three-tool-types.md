@@ -13,7 +13,7 @@ generated:
 # Nine tool innovation tasks spanning three paradigms and three tool types
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A validated nine-task battery developed by Guo et al. for assessing tool innovation, strategic flexibility, and problem solving in children aged 3–6.
@@ -23,7 +23,6 @@ A validated nine-task battery developed by Guo et al. for assessing tool innovat
 
 ### Claims
 - [The nine new tool innovation tasks showed varied difficulty levels, with task success rates ranging from 33% to 94% and ideal manipulation rates from 24% to 91%](../claims/nine-tool-innovation-tasks-varied-difficulty-33-94.md) [+M]
-- [Single latent factor models fitted both task success and ideal manipulation well, suggesting robust internal consistency, though Cling-subtract loaded weakly on task success](../claims/cfa-single-factor-internal-consistency-tool-innovation.md) [+M]
 
 ## Related Products and Programmes
 -

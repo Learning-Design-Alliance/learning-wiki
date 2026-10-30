@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 2006
+recheck_by: 2009
 sources:
   - id: goetz-2006
     resource: "https://psycnet.apa.org/journals/edu"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2009**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The strongest emotion–achievement relations occurred within the same domain, with positive emotions positively related and negative emotions negatively related to achievement. [→ Goetz 2006](#goetz-2006)

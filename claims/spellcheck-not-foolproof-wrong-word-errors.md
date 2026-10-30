@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: moderate
 newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: steven-c-pan-2021
     resource: "https://doi.org/10.1007/s10648-021-09611-y"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In a corpus analysis of over 3000 student papers, the overall error rate was stable across decades (2.45 errors per 100 words in 2008 vs 2.26 in 1988), but misspellings fell to 5th place while correctly spelled but incorrect words became the most common error, comprising nearly 14% of all mistakes. [→ Steven C. Pan 2021](#steven-c-pan-2021)

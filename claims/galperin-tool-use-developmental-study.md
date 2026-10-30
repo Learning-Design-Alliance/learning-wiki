@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: weak
 newest_evidence: 2005
+recheck_by: 2010
 sources:
   - id: arievitch-2005
     resource: "https://doi.org/10.1207/s15326985ep4003_2"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
-> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2010**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Across five age groups, children displayed gradual progress from unspecific manual use of a spade-like tool to specific instrumental use. [→ Arievitch 2005](#arievitch-2005)

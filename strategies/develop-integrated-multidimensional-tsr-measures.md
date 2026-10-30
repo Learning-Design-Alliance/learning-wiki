@@ -17,7 +17,7 @@ sources:
 # Develop and select relationship measures that reflect an integrated understanding of core relationship components — dyadic and multidimensional — identified across relational and motivation theories
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 As a path forward, the review recommends that researchers appropriately distinguish existing measures of teacher–student relationships from teacher support, and develop new measures that critically engage with conceptual concerns. The authors "highlight the need for the development of measures which critically engage with conceptual concerns regarding teacher–student relationships and which reflect an integrated understanding of core relationship components (e.g., dyadic, multidimensional)". This addresses the current lack of alignment between theorizing and measurement.
@@ -38,9 +38,6 @@ As a path forward, the review recommends that researchers appropriately distingu
 
 ## Claims
 
-- [Adolescent motivation research relies almost exclusively on student self-report of relationships, with dyadic and non-dyadic configurations both common](../claims/tsr-adolescent-student-self-report-dominant.md) [+W]
-- [Teacher–student relationships and teacher support are used interchangeably in adolescent motivation research, in both terminology and measurement](../claims/tsr-and-teacher-support-used-interchangeably.md) [+W]
-- [Most adolescent motivation studies measure teacher–student relationships unidimensionally rather than multidimensionally](../claims/tsr-measured-unidimensionally-in-motivation-research.md) [+W]
 
 ## Related Strategies
 

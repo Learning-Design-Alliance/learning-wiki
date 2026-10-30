@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 1915
+recheck_by: 1920
 sources:
   - id: wallin-1915
     resource: "https://search.worldcat.org/search?q=Age+Norms+of+Psycho-Motor+Capacity"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1915 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1920**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Form-board performance improves at every age investigated from two to seventeen, disproving claims that improvement stops at age 12 or 14, and the authors indicate development likely continues beyond 17. [→ Wallin 1915](#wallin-1915)

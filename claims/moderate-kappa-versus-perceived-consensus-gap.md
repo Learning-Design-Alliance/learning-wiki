@@ -73,6 +73,5 @@ Authors' interpretation of the mismatch between survey-reported consensus and co
 - [Inter-rater agreement among the 20 expert teachers was low, at or below chance across QM criteria](low-inter-rater-agreement-qm-criteria.md) — related
 - [Judging learning-objective alignment of generated MCQs is more subjective than answering them, with only moderate human agreement](lo-alignment-judgment-more-subjective-than-answering.md) — related
 - [Systems Thinking Practices is the hardest CT construct to code reliably for both human raters and the LLM, requiring more explicitly operationalized rubrics](stp-low-reliability-complex-construct.md) — related
-- [Risk of bias among included studies was mixed, with Newcastle–Ottawa ratings ranging from 3 to 9 and high inter-rater agreement](newcastle-ottawa-risk-of-bias-mixed-across-included-studies.md)
 - [Inter-rater agreement among pre-service teachers is low regardless of grading approach or essay quality](low-inter-rater-agreement-preservice-grading.md) — reports the opposite
 - [Lower model performance on Prompt 2 tracks poor inter-annotator agreement (QWK 0.560 vs 0.758)](prompt2-low-performance-tracks-annotator-agreement.md) — related

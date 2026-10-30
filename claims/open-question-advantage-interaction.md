@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2015
+recheck_by: 2018
 sources:
   - id: pérez-sanagustín-2015
     resource: "https://doi.org/10.1016/j.compedu.2015.03.019"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: tool and model accuracy changes quickly
 > **Design limits** · Pérez-Sanagustín 2015: the intervention came bundled with another change (read from the study by two models, 2026-10-29)
 
 ## Subclaims

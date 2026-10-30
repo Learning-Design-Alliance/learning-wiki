@@ -46,10 +46,10 @@ The authors argue that when movement-based learning is used loosely, educators m
 
 
 ## Related Claims
-- [Inconsistent embodiment labels cause functionally similar experiments to go uncited across disciplines, hindering meta-analysis](terminology-silos-uncited-parallel-experiments.md) — related
+- Inconsistent embodiment labels cause functionally similar experiments to go uncited across disciplines, hindering meta-analysis — related
 - [Instruments show conceptual inconsistency: the same terms label different competence aspects, and disciplinary origin does not significantly correlate with definition or terminology choice](inconsistent-terminology-competence-aspects-autism-instruments.md) — related
-- [The article reports that research terminology such as 'diagnosis' and 'analysis' is used ambiguously and needs more careful definition](zirbes-1922-diagnosis-analysis-term-ambiguity.md) — related
+- The article reports that research terminology such as 'diagnosis' and 'analysis' is used ambiguously and needs more careful definition — related
 - [Instructional designers define dispositions in varied and divergent ways, with several conflating them with soft skills](ids-varied-definitions-of-dispositions.md) — related
 - [Belonging is multi-faceted and context-dependent, with different expressions (group membership, momentary feeling, durable sense) often conflated in research](belonging-multifaceted-context-dependent.md) — related
-- [Embodiment research lacks a shared vocabulary, with over 20 distinct labels for embodiment-related concepts appearing in the last decade](embodiment-terminology-fragmentation-over-twenty-labels.md) — related
-- [Jingle-jangle fallacies plague motivation constructs, requiring explicit justification of construct distinctions](jingle-jangle-motivation-constructs.md) — related
+- Embodiment research lacks a shared vocabulary, with over 20 distinct labels for embodiment-related concepts appearing in the last decade — related
+- Jingle-jangle fallacies plague motivation constructs, requiring explicit justification of construct distinctions — related

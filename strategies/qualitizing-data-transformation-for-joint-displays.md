@@ -17,7 +17,7 @@ sources:
 # Use qualitizing data transformation to convert quantitative results into narrative profiles for comparison with qualitative data
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The article illustrates qualitizing as a data transformation technique in which quantitative results are "transformed into a qualitative format that could be used for comparison with qualitatively accessed data". Following Onwuegbuzie et al. (2011), the process involves developing narrative profiles from numeric data and then comparing and integrating this data with qualitatively accessed data. The article presents a narrative profile of a Knowmadic learner, one of four profiles generated through hierarchical cluster analysis of survey data, as an example rarely seen in the EdTech literature.
@@ -38,12 +38,12 @@ The article illustrates qualitizing as a data transformation technique in which 
 
 ## Claims
 
-- [Mixed methods studies that demonstrate explicit integration are scarce in EdTech research, and few apply recommended integration strategies such as visual joint displays](../claims/explicit-integration-scarce-in-edtech-mixed-methods-research.md) [~W]
 
 ## Related Strategies
 
 - [Follow guidelines distinguishing joint display development for analysis (process) versus reporting (product) purposes](guidelines-analysis-versus-reporting-joint-displays.md)
 - [Use a pillar integration process to merge equivalent qualitative and quantitative constructs and draw out meta-inferences](pillar-integration-process-for-meta-inferences.md)
+- [Use Downey's will-profile technique as a model requiring exact qualitative study of the test situation before quantitative standardization](qualitative-study-before-standardization.md)
 
 ## Examples
 -

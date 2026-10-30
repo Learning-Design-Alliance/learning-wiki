@@ -47,5 +47,5 @@ High School English study: the arithmetic exercise in the Terman Group Test was 
 ## Related Claims
 - [Under the expert-weighted criterion (Reading Ability C), the Terman Group Test correlates highest, raising the question whether the criterion measures general intelligence](weighted-reading-criterion-highest-with-terman.md) — related
 - [Teachers' judgments of pupils' reading ability correlate more highly with a general mental ability test than with any of the so-called reading tests](teachers-reading-estimates-correlate-more-with-mental-ability-test.md) — related
-- [Corrected (disattenuated) correlations exceeding unity, when read with their probable errors, show Spearman's contention that corrected coefficients tend toward 1.00 is unsound](corrected-correlations-probable-errors-refute-spearman.md) — related
+- Corrected (disattenuated) correlations exceeding unity, when read with their probable errors, show Spearman's contention that corrected coefficients tend toward 1.00 is unsound — related
 - [None of the English tests correlates markedly with teachers' English grades, the highest raw correlation being 0.49](english-tests-low-correlation-with-teacher-grades.md) — related

@@ -49,4 +49,4 @@ The systematic review reports that the most widely documented drawback is that l
 
 ## Related Claims
 - [Lecture capture facilitates students' learning and/or revision, the most widely documented benefit across 41 of 71 reviewed articles](lecture-capture-facilitates-learning-revision.md) — related
-- [Descriptive and exploratory research dominates the lecture capture literature while causative evidence is relatively limited](lecture-capture-research-limited-causative-evidence.md) — related
+- Descriptive and exploratory research dominates the lecture capture literature while causative evidence is relatively limited — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1914
+recheck_by: 1919
 sources:
   - id: chapman-1914
     resource: "https://doi.org/10.1037/h0070019"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
-> **Currency** · newest study 1914 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1914 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1919**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` For the addition function studied, the author concludes that initial spurt takes place as a general rule, and argues that no explanation based on chance variations can account for the period-to-period exceedance figures. [→ Chapman 1914](#chapman-1914)
@@ -45,7 +46,7 @@ Tabulation in the same addition experiment of how often each period's score exce
 
 
 ## Related Claims
-- [The data cannot be used to investigate end spurt because subjects were not told when each test would end](end-spurt-not-investigable-unninformed-subjects.md) — related
-- [Prior initial-spurt experiments failed because test periods were too lengthy and subjects too few](prior-spurt-experiments-two-weaknesses.md) — related
+- The data cannot be used to investigate end spurt because subjects were not told when each test would end — related
+- Prior initial-spurt experiments failed because test periods were too lengthy and subjects too few — related
 - [Addition efficiency drops sharply from the first to the second two-minute period, indicating initial spurt](initial-spurt-in-addition-two-minute-periods.md) — related
 - [Efficiency in the work curve is conditioned by factors beyond fatigue proper: practice, adaptation, preparedness, warming up, spurts, voluntary effort, ennui, and diurnal rhythms (Offner)](work-curve-factors-beyond-fatigue.md) — a broader claim this one bears on

@@ -17,7 +17,7 @@ sources:
 # Use less artificial, more useful practice tasks in class experiments on learning, such as higher multiplication tables, square and square-root tables, stenographic characters, or proofreader's marks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 In its closing recommendations the article proposes replacing artificial code tasks with more useful classroom practice materials. It states it "would be desirable if the particular exercises chosen for the classroom tests and for the practice series represented tasks less artificial and more useful than those discussed in this experiment," and lists candidate tasks: higher tables of multiplication, tables of squares or square roots, short methods of multiplication, stenographic characters, and correcting faulty proof with proofreader's marks. Some of these suggestions may be tried out with subsequent classes.
@@ -35,6 +35,10 @@ In its closing recommendations the article proposes replacing artificial code ta
 
 ### Target Learning Goals
 - illustrating practice effects, transfer, and interference with meaningful classroom material
+
+## Claims
+
+- [Practice in writing code produced practically no transfer to digit-letter substitution: the practiced group gained 12%, two percent less than the unpracticed control group.](../claims/code-practice-no-transfer-digit-letter-substitution.md) [+W]
 
 ## Related Strategies
 - 

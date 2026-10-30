@@ -17,7 +17,7 @@ sources:
 # Leverage self-regulated learning measurement methods in feedback research
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The third step recommends importing measurement advances from the self-regulated learning field into feedback research. The article argues "it would be advantageous to leverage insights from the self-regulated learning field, which has made significant strides in advancing measurement methods applicable to feedback research". This positions SRL methodology as a resource for improving how feedback processes and effects are measured.
@@ -38,7 +38,6 @@ The third step recommends importing measurement advances from the self-regulated
 
 ## Claims
 
-- [The feedback research field may already be experiencing a paradigm shift that five further steps could solidify](../claims/feedback-field-potential-paradigm-shift-five-steps.md) [+W]
 
 ## Related Strategies
 

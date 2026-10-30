@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: moderate
 newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: chan-2023
     resource: "https://orcid.org/0000-0001-6451-2417"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Because the index weighs large groups more via the square of each group's proportion, two school contexts with different distributions can both yield a Simpson's D of .50. [→ Chan 2023](#chan-2023)
@@ -45,5 +46,5 @@ Analytical demonstration (Figure 3) comparing School A (50% Latinx, 50% White) a
 
 
 ## Related Claims
-- [The range and value of diversity indices are constrained by the number of racial/ethnic groups included, complicating comparisons across studies](diversity-index-range-constrained-by-group-count.md) — related
-- [In school racial/ethnic diversity research, mathematical diversity indices operationalizing dual-concept diversity are the dominant measure, with Simpson's D the most widely applied, and most studies assess static diversity at a single timepoint](diversity-indices-dominant-dual-concept-static.md) — related
+- The range and value of diversity indices are constrained by the number of racial/ethnic groups included, complicating comparisons across studies — related
+- In school racial/ethnic diversity research, mathematical diversity indices operationalizing dual-concept diversity are the dominant measure, with Simpson's D the most widely applied, and most studies assess static diversity at a single timepoint — related

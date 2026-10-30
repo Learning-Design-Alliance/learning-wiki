@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: wachs-2021
     resource: "http://dx.doi.org/10.1016/j.compedu.2020.104026"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The tested model explained 33% of variance in ethnic-related cyberhate victimization and 50% of variance in religious-related cyberhate victimization, with good overall model fit. [→ Wachs 2021](#wachs-2021)

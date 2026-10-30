@@ -50,6 +50,6 @@ The review's synthesis of the four studies measuring feedback effects on motivat
 - [External rewards can undermine intrinsic motivation for learners who are already motivated](external-rewards-undermine-intrinsic-motivation-for-motivated-learners.md) — related
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — related
 - [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — related
-- [Studies of oral-reading feedback seldom engage established feedback theories, relying instead on empirical research, and none advanced theory](oral-reading-feedback-studies-seldom-use-feedback-theory.md) — related
+- Studies of oral-reading feedback seldom engage established feedback theories, relying instead on empirical research, and none advanced theory — related
 - [Effects of performance feedback during oral reading are mixed across studies, precluding clear conclusions](performance-feedback-oral-reading-mixed-effects.md) — related
 - [Rewards combined with feedback temporarily boosted reading performance, especially for struggling readers, with variable long-term effects](rewards-with-feedback-temporary-boost-struggling-readers.md) — related

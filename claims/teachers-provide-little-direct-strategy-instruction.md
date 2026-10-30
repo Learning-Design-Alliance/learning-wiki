@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: moderate
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: charlotte-dignath-marcel-v-j-veenman-2021
     resource: "https://doi.org/10.1007/s10648-020-09534-0"
@@ -40,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In Moely et al.'s observation study, teachers' suggestion of strategy use occurred only in 2% of the observed intervals. [→ Charlotte Dignath & Marcel V. J. Veenman 2021](#charlotte-dignath-marcel-v-j-veenman-2021)

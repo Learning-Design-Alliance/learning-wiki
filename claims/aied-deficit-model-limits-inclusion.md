@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: kaśka-porayskapomsta-2024
     resource: "https://doi.org/10.1007/s40593-023-00346-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Learners are diagnosed like medical patients for conceptual bugs to remediate, and this model falls short in promoting inclusive practices or pedagogical innovation. [→ Kaśka Porayska‑Pomsta 2024](#kaska-porayskapomsta-2024)

@@ -65,4 +65,4 @@ Italian seventh-grade study (Mason et al., 2017, n = 104) using an adapted readi
 ## Related Claims
 - [Across 25 studies of K-12 readers, individual differences in literacy, cognition, metacognition, knowledge, beliefs, and motivation are positively and moderately associated with intertextual integration](individual-differences-moderately-associated-intertextual-integration-k12.md) — a broader claim this one bears on
 - [Single-document comprehension is the most studied literacy correlate of K-12 intertextual integration, with correlations ranging from near zero to moderate-strong](single-document-comprehension-correlates-intertextual-integration.md) — related
-- [Research on K-12 intertextual integration is dominated by secondary-level samples, essay tasks, and informational socioscientific document sets](task-document-features-k12-intertextual-integration-research.md) — related
+- Research on K-12 intertextual integration is dominated by secondary-level samples, essay tasks, and informational socioscientific document sets — related

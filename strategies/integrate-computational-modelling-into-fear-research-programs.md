@@ -17,7 +17,7 @@ sources:
 # Integrate computational modelling into basic and translational fear-learning research programs (Computational Psychiatry)
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The review recommends that the field integrate biophysical computational modelling into both basic and translational research programs on fear learning. The authors state "the field would beneﬁt from the integration of computational modelling in both basic and translational research programs", predicting this will yield cross-level understanding of fear-learning mechanisms and support more specific theories linking circuit dysregulation to psychiatric disorders, an approach they call Computational Psychiatry. Concrete modelling targets they name include BNST–CeA interactions and the multivalent influence of medial prefrontal cortex.
@@ -45,7 +45,6 @@ The review recommends that the field integrate biophysical computational modelli
 
 ## Claims
 
-- [Computational models of the amygdala are scarce relative to other brain areas, with a PubMed search yielding ~30 times fewer citations than for 'cortex'](../claims/amygdala-modelling-citations-scarcity.md) [~W]
 - [Experimental work indicates basolateral amygdala cells activated by appetitive CSs mainly encode behavioural output, not CS identity, challenging amygdalo-centric feedforward accounts](../claims/bl-cells-encode-behavioural-output.md) [~W]
 - [A biophysical model suggested that more excitable LA neurons are preferentially recruited into the fear memory trace via competitive synaptic interactions, validated experimentally](../claims/competitive-recruitment-la-neurons.md) [+W]
 - [Model ablation of engram neurons showed other neurons emerge to support memory, indicating competitive neuronal interactions underlie learning](../claims/engram-ablation-competitive-interactions.md) [+W]

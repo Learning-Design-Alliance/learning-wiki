@@ -17,7 +17,7 @@ sources:
 # Scale to multisite, large, representative longitudinal samples while complementing them with exploratory small-sample studies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 3 studies (2 review, 1 associational), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 associational), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends moving from widely used convenience samples, which often consist of a biased selection and relatively few participants, to multisite studies that "scale studies to large, representative samples" needed to integrate multiple levels, functions, and time points. It stresses representativeness in socioeconomic status and cultural background with worldwide coverage, and argues large-scale and exploratory studies are complementary: exploratory work generates hypotheses and theories that large-scale studies later test.
@@ -42,7 +42,6 @@ The article recommends moving from widely used convenience samples, which often 
 
 - [The study's invariance findings may be biased by excluding students who missed a test and by sample heterogeneity](../claims/map-invariance-study-sample-bias-limitations.md) [+W]
 - [Empirical research on the Pepper robot in formal education is recent, concentrated in primary education, and dominated by qualitative designs with small samples](../claims/pepper-formal-education-evidence-small-qualitative.md) [+W]
-- [School-based intensive longitudinal studies show wide heterogeneity in sample size, study duration, and assessment frequency, with a median sample of 157 participants and average duration of about 13 days](../claims/ilm-school-research-heterogeneous-parameters.md) [+W]
 
 ## Related Strategies
 

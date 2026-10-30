@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: jennie-k-grammer-2021
     resource: "https://doi.org/10.1038/s41539-021-00094-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i2` In contrast to EEG, observer ratings showed no significant difference between teacher-initiated and student-initiated activities (r = 0.11), and rated inattentiveness higher during group work (22%) than independent work (6%), r = 0.34. [→ Jennie K. Grammer 2021](#jennie-k-grammer-2021)

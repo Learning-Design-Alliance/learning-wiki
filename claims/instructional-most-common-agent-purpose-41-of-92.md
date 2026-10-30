@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: habeeb-yusuf-2025
     resource: "https://doi.org/10.1007/s11423-025-10447-4"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Of the 92 surveyed studies, 41 agents serve instructional purposes, 37 pastoral and 14 cognitive, making cognitive the smallest sample. [→ Habeeb Yusuf 2025](#habeeb-yusuf-2025)
@@ -48,7 +49,7 @@ Thematic categorisation of the review's 92-study literature sample, reported in 
 - [Cognitive-purpose agents concentrate on simulate-and-experience intents and face-to-face delivery](cognitive-agents-simulate-experience-face-to-face.md) — related
 - [Motivate-and-inspire is the largest pastoral intent, deployed mostly in face-to-face programmes](motivate-inspire-largest-pastoral-intent.md) — a narrower finding that bears on this claim
 - [Mentoring and coaching is the largest conversational agent intent among instructional agents](mentoring-coaching-largest-instructional-intent.md) — a narrower finding that bears on this claim
-- [Assessment is among the least explored conversational agent intents in higher education](assessment-intent-underexplored.md) — a narrower finding that bears on this claim
+- Assessment is among the least explored conversational agent intents in higher education — a narrower finding that bears on this claim
 - [In university physics education, AI has been applied for tutoring and explanations, formative feedback and scaffolding, collaborative problem solving, simulation and modeling, instructional design, and AI literacy development](ai-university-physics-six-pedagogical-functions.md) — related
 - [Many contemporary generative AI tools serve multiple educational purposes, with several tools appearing in multiple typology categories](genai-tools-multipurpose-multiple-categories.md) — related
 - [The most common purpose of AI in instructional design is enhancing or assisting the design process itself (22 of 28 studies, 78.5%)](ai-mostly-enhances-assists-id-process.md) — related

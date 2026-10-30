@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: patricia-a-alexander-2016
     resource: "https://doi.org/10.1038/npjscilearn.2016.4"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` TORR performance shows a significant positive correlation with Raven's Matrices performance, while the TORR proved more difficult for participants than the Raven's. [→ Patricia A Alexander 2016](#patricia-a-alexander-2016)

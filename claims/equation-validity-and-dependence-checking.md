@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2005
+recheck_by: 2008
 sources:
   - id: joel-a-shapiro-2005
     resource: "https://telearn.hal.science/hal-00197304"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`
-> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2008**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The subsystem checks the validity of student-entered equations and, when an equation is not independent of a set of other equations, determines on which equations it does depend. [→ Joel A. Shapiro 2005](#joel-a-shapiro-2005)

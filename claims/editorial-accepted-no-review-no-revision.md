@@ -46,4 +46,4 @@ A first-person statement of editorial practice by the journal's editor, describi
 
 ## Related Claims
 - [The editor characterizes AERA's direction over the past 20 years as less about research and more about politics](aera-direction-politics-over-research.md) — related
-- [The editor reports that Levin's response to poetic-inquiry advocacy was rejected by Educational Researcher without review](levin-response-rejected-without-review.md) — related
+- The editor reports that Levin's response to poetic-inquiry advocacy was rejected by Educational Researcher without review — related

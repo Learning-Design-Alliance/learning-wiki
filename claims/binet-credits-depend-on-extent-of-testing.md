@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1921
+recheck_by: 1924
 sources:
   - id: wallin-1921
     resource: "https://psycnet.apa.org/journal/edu"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1924**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Pupils given a wide-range test earned 0.75 to 1.75 years more extra credits than those given a narrow-range test. [→ Wallin 1921](#wallin-1921)

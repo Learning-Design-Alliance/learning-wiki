@@ -45,6 +45,6 @@ The abstract states that Philipsen et al. "conducted a systematic meta-aggregati
 
 
 ## Related Claims
-- [The response discusses limitations of the Philipsen et al. (2019) review and suggestions for future research](an-2021-discusses-limitations-and-future-research.md) — related
-- [The response article reviews Philipsen et al.'s (2019) systematic meta-aggregative review of teacher professional development for online and blended learning from a practice perspective](an-2021-response-reviews-philipsen-pd-review-practice-perspective.md) — related
+- The response discusses limitations of the Philipsen et al. (2019) review and suggestions for future research — related
+- The response article reviews Philipsen et al.'s (2019) systematic meta-aggregative review of teacher professional development for online and blended learning from a practice perspective — related
 - [The Philipsen et al. TPD review findings apply to guiding teacher professional development for education recovery and resilient education systems, per this response](framework-guidance-recovery-resilient-education.md) — related

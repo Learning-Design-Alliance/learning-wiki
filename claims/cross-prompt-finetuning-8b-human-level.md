@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: funayama-2025
     resource: "https://doi.org/10.1007/s40593-025-00474-w"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` With only 50 instances per prompt, cross-prompt finetuning matched or improved performance on 18 of 21 prompts and averaged 0.85 QWK versus human agreement of 0.87. [→ Funayama 2025](#funayama-2025)

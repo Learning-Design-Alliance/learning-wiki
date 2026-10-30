@@ -45,5 +45,5 @@ Theoretical argument in the article's abstract: the author describes a sociocult
 
 
 ## Related Claims
-- [The ontogenesis of conceptual change in scientific thinking serves as a central case for examining situated cultural learning](ontogenesis-conceptual-change-central-case.md) — a broader claim this one bears on
+- The ontogenesis of conceptual change in scientific thinking serves as a central case for examining situated cultural learning — a broader claim this one bears on
 - [Teachers report AI tools foster collaborative, socially constructed learning through shared data and critical negotiation of AI outputs](ai-fosters-collaborative-social-construction.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2015
+recheck_by: 2018
 sources:
   - id: amy-ogan-w-lewis-johnson-2015
     resource: "https://doi.org/10.1007/s40593-015-0036-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The special-issue authors found popular dimensional models of national culture did not live up to their apparent promise for culturally aware educational technology design. [→ Amy Ogan & W. Lewis Johnson 2015](#amy-ogan-w-lewis-johnson-2015)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2015
+recheck_by: 2018
 sources:
   - id: mcmanus-2015
     resource: "https://doi.org/10.1007/s40593-015-0068-6"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Sentence openers matched the intended attributes in only 68% of conversation unless adjusted for face-to-face versus online interaction differences. [→ McManus 2015](#mcmanus-2015)

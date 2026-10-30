@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1924
+recheck_by: 1927
 sources:
   - id: stone-1924
     resource: "https://psycnet.apa.org"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
-> **Currency** · newest study 1924 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1924 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1927**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Correlations between the Rosanoff High Standard Frequency score and scholarship differed markedly between groups: about 0.63 in the control group versus about 0.00 in the discrepancy group. [→ Stone 1924](#stone-1924)

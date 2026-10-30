@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: giang-pham-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2026.102366"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` K-means clustering with silhouette validation on PISA 2022 Global Crises Module country-level data identified three subgroups of countries with similar teaching and learning conditions for sustaining learning. [→ Giang Pham 2026](#giang-pham-2026)

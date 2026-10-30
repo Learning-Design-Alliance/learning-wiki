@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: abigail-gurin-schleifer-2025
     resource: "https://doi.org/10.1007/s40593-025-00485-7"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Within-KP median cosine similarity declines as KP quality decreases, for all three embedding models and both items. [→ Abigail Gurin Schleifer 2025](#abigail-gurin-schleifer-2025)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-30
 evidence_strength: moderate
 newest_evidence: 2020
+recheck_by: 2025
 sources:
   - id: tsai-2020
     resource: "https://doi.org/10.1016/j.compedu.2020.103933"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Respondents rated senior manager buy-in, teaching staff/tutors buy-in, legal framework, privacy protection, and ethics guidelines as critically important elements for achieving LA potential. [→ Tsai 2020](#tsai-2020)

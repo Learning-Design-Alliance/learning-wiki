@@ -45,5 +45,5 @@ The review's methodological synthesis: 29 of 42 samples used self-report; only n
 
 
 ## Related Claims
-- [Research on teachers' SRL knowledge is methodologically dominated by cross-sectional quantitative designs with non-standardized measures](cross-sectional-quantitative-dominance-srl-teacher-knowledge.md) — related
+- Research on teachers' SRL knowledge is methodologically dominated by cross-sectional quantitative designs with non-standardized measures — related
 - [Empathy's association with student outcomes, especially cognitive achievement, is weakest and largely non-significant](teacher-empathy-student-outcomes-weakest.md) — related

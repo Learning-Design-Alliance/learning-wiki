@@ -49,7 +49,7 @@ Reanalysis of repeated-measurement data (10 tasks per participant) from Blissett
 - [Certainty predicts diagnostic performance; mental effort adds no predictive value beyond certainty](certainty-predicts-performance-effort-adds-nothing.md) — related
 - [Mental effort is more suitably modeled as a non-linear than linear predictor of learning outcomes in most re-analyzed studies](mental-effort-nonlinear-predictor-reanalyses.md) — a broader claim this one bears on
 - [Mental effort relates to response time in a J-shaped quadratic rather than linear pattern](mental-effort-response-time-quadratic.md) — related
-- [Evidence on the mental effort–workload relation is mixed: AIC prefers quadratic, BIC prefers linear](mental-effort-workload-mixed-evidence.md) — related
+- Evidence on the mental effort–workload relation is mixed: AIC prefers quadratic, BIC prefers linear — related
 - [Mental effort relates to article viewing time linearly; no evidence against the linear model was found](mental-effort-viewing-time-linear.md) — related
 - [In a visual-spatial integration task, the interaction between visual-spatial working memory capacity and visual design is quadratic, with the inverted-U progression more strongly accentuated for the dynamic design](quadratic-ati-spatial-ability-visual-design-study1.md) — related
 - [Quadratic and cubic trends significantly improved the linear model of teacher and student behavior, showing the importance of studying nonlinearity](quadratic-cubic-trends-improve-linear-model-teacher-behavior.md) — related

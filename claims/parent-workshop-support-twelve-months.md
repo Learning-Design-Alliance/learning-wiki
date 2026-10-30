@@ -51,4 +51,4 @@ From the propensity-weighted latent state models of the longitudinal quasi-exper
 - [The treatment group reported higher state family obligations than Control Group 2 at six months, with group differences dissipating by 12 months](family-obligations-reversed-dissipated.md) — related
 - [The parent intervention did not change students' perceptions of parents' STEM values at either follow-up](parent-workshop-no-effect-stem-values.md) — related
 - [A parent STEM workshop increased students' reported state-level parent-child STEM conversations at the six-month follow-up, with effects no longer present at 12 months](parent-workshop-stem-conversations-six-months.md) — related
-- [Propensity score weighting balanced the two non-intervention control groups on all outcomes at T2 and T3, supporting internal validity](placebo-test-controls-balanced.md) — related
+- Propensity score weighting balanced the two non-intervention control groups on all outcomes at T2 and T3, supporting internal validity — related

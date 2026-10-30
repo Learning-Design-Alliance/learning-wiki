@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1921
+recheck_by: 1924
 sources:
   - id: colvin-1921
     resource: "https://www.apa.org/pubs/journals/edu"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1924**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` From his work with students at Brown University, Colvin reports many instances in which intelligence test results failed to indicate, or varied from, actual college performance, often because qualities other than intelligence were decisive. [→ Colvin 1921](#colvin-1921)

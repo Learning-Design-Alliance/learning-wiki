@@ -12,7 +12,7 @@ generated:
 # Zirbes's periodical-search method for identifying educational research problems
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article describes a search procedure that reads recent issues of nine educational periodicals and extracts statements of unsolved research problems, which are usually mentioned incidentally in connection with practical situations. Problems are recorded with periodical number and page references "so that those who are in a position to conduct research may readily find the original statement of any problem in its setting," and original phrasing is retained wherever possible. The article is presented as one of a series intended to define research trends and hasten solutions by re-statement and accessibility.
@@ -23,7 +23,6 @@ The article describes a search procedure that reads recent issues of nine educat
 
 ### Claims
 
-- [Across 1921 educational periodicals, unsolved research problems cluster most heavily in mental tests (16 mentions) and curriculum studies (15 mentions)](../claims/zirbes-1922-problem-frequency-by-category.md) [+W]
 - [The article argues that frequency of mention is not a valid measure of a problem's significance](../claims/zirbes-1922-frequency-not-significance.md) [+W]
 
 ## Related Research Methods

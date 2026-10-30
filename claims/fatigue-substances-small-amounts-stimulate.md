@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1910
+recheck_by: 1915
 sources:
   - id: g-m-w-1910
     resource: "https://doi.org/10.1037/h0069029"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1915**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Fatigue-substances such as carbon dioxid and lactic acid, when present in small quantity, increase protoplasmic activity and augment muscular energy, which Lee uses to explain the Treppe. [→ G. M. W 1910](#g-m-w-1910)

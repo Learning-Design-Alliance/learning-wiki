@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 1955
+recheck_by: 1958
 sources:
   - id: audio-visual-administration-abstract-of-barnard-1955
     resource: "https://doi.org/10.1007/bf02717089"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 1955 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1955 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1958**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Audio-visual in-service training was casual and relatively unplanned. [→ AUDIO-VISUAL ADMINISTRATION. Abstract of Barnard 1955](#audio-visual-administration-abstract-of-barnard-1955)
@@ -49,5 +50,5 @@ Interview findings from the 15 Wisconsin vocational and adult schools: in-servic
 - [Vocational and adult education schools in Wisconsin provided almost no administration or supervision of audio-visual functions for evening school programs](almost-no-av-administration-evening-school-programs.md) — related
 - [Audio-visual coordinators in the surveyed schools lacked sufficient time and no organized procedures existed for previewing, evaluating, and selecting materials](av-coordinators-insufficient-time-no-selection-procedures.md) — related
 - [The surveyed schools had no materials purchase policies, no long-range equipment planning, and budgets not based on planned needs of frequency-of-use and amortization](no-av-purchase-policies-or-long-range-planning.md) — related
-- [Early research on audio-visual materials in teacher training was repeated in 1958 and 1968, providing a 30-year view](thirty-year-view-audio-visual-teacher-training.md) — related
+- Early research on audio-visual materials in teacher training was repeated in 1958 and 1968, providing a 30-year view — related
 - [College music educators made the most extensive use of audio-visual materials while college music specialists made the least, and every group reported difficulty finding suitable material](music-av-use-group-differences.md) — related

@@ -48,4 +48,4 @@ Conceptual argument in the review's CLT section: prior knowledge substantially a
 - [Students' self-reports of task effortfulness do not validly indicate a task's object-level cognitive requirements](effort-self-reports-not-valid-cognitive-requirements.md) — related
 - [Segmentation Benefits Shrink With Expertise](segmentation-benefits-shrink-with-expertise.md) — related
 - [Prior knowledge and intervention condition predict repeated cognitive load and interest measures: prior knowledge lowers effort and difficulty and raises interest and understanding, and prompting groups perceive tasks as more difficult](prior-knowledge-and-prompting-moderate-load-and-interest.md) — related
-- [Domain-specific prior knowledge, mental effort and related ratings serve as moderator or dependent measures in the signaling study](prior-knowledge-moderator-signaling-dataset.md) — related
+- Domain-specific prior knowledge, mental effort and related ratings serve as moderator or dependent measures in the signaling study — related

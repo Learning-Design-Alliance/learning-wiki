@@ -53,7 +53,7 @@ Path analysis mediation model (final pruned model) fitted to longitudinal data f
 ## Related Claims
 - [Crossover effects: early reading fluency predicts later mathematics outcomes more strongly than early mathematics skills predict later reading](crossover-effects-reading-mathematics.md) — related
 - [Early working memory, processing speed, and attentive behavior predict later calculations, word-problem solving, and reading, but nonverbal reasoning is not significantly associated with any outcome](domain-general-predictors-null-nonverbal-reasoning.md) — related
-- [The final pruned mediation model fits the data excellently and accounts for 58.0%, 62.2%, and 53.2% of variance in later calculations, word-problem solving, and reading](final-model-fit-variance-explained.md) — related
+- The final pruned mediation model fits the data excellently and accounts for 58.0%, 62.2%, and 53.2% of variance in later calculations, word-problem solving, and reading — related
 - [Early listening comprehension directly predicts later word-problem solving and word reading but not calculations, and numerical cognition does not mediate this relation](listening-comprehension-predicts-wps-reading-not-calculations.md) — reports the opposite
 - [End-of-first-grade numerical cognition directly predicts later calculations, word-problem solving, and word reading, with the strongest relation to calculations](numerical-cognition-predicts-all-three-outcomes.md) — related
 - [Working memory fully mediates the effects of math anxiety and attention on children's non-verbal Numerical Operations](wm-fully-mediates-anxiety-attention-numerical-operations.md) — related

@@ -47,6 +47,6 @@ Review of human fMRI studies of observational and economic-game learning. The st
 ## Related Claims
 - [Prefrontal cortex separates other-referenced prediction errors by subtype: dlPFC for other's actions, vmPFC for other's outcomes](prefrontal-subtype-other-referenced-prediction-errors.md) — related
 - [Observer rats show ventral striatal dopamine release to another's reward, weaker than for own reward](observer-rat-ventral-striatum-dopamine-vicarious-reward.md) — a narrower finding that bears on this claim
-- [Anterior cingulate gyrus specializes in other-referenced social valuation and prediction errors, dissociable from the sulcus](accg-other-referenced-prediction-error-dissociation.md) — related
+- Anterior cingulate gyrus specializes in other-referenced social valuation and prediction errors, dissociable from the sulcus — related
 - [Mentalizing-network regions (TPJ, STS, dmPFC, MTG) signal social prediction errors beyond ToM tasks](mentalizing-network-social-prediction-error.md) — related
 - [Brain responds similarly to prediction errors for human and slot-machine partners' generosity](prediction-errors-human-slot-machine-partners-continuum.md) — a narrower finding that bears on this claim

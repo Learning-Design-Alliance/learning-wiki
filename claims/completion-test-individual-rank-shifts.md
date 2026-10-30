@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 1916
+recheck_by: 1919
 sources:
   - id: uhl-1916
     resource: "https://psycnet.apa.org/journals/edu"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1916 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1916 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1919**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Although group results were similar, individual students changed positions substantially between tests K and M, with practically as many scoring low on one as on the other. [→ Uhl 1916](#uhl-1916)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2022
+recheck_by: 2027
 sources:
   - id: emily-berger-2022
     resource: "https://doi.org/10.1007/s10648-022-09690-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q3 i?` The reviewed initiatives overwhelmingly address individual educators rather than workplace demands or education setting culture, despite wellbeing being determined by both. [→ Emily Berger 2022](#emily-berger-2022)

@@ -35,7 +35,7 @@ sources:
 # Multiple Methods of Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 45 claims (25 for, 18 mixed, 2 against) · 51 studies (12 causal, 10 review, 8 theoretical, 7 associational, 5 quant-synthesis, 5 qualitative, 4 design), `q1`–`q4` · 5 of 51 report an effect size · 39 claims rest on one study
+> **Evidence** · 44 claims (25 for, 17 mixed, 2 against) · 50 studies (12 causal, 9 review, 8 theoretical, 7 associational, 5 quant-synthesis, 5 qualitative, 4 design), `q1`–`q4` · 5 of 50 report an effect size · 38 claims rest on one study
 
 ## Conditional relationship
 
@@ -182,7 +182,6 @@ Agreement between methods, accuracy of a decision, later achievement and motivat
 - [Vygotsky Zone Of Proximal Development](../theories/vygotsky-zone-of-proximal-development.md) [+S]
 - [Low questionnaire–think-aloud correlations may have two alternative explanations besides poor self-report ability: the methods may measure different strategies or be aimed at different tasks](../claims/alternative-explanations-low-correlations-strategies-tasks.md) [~W]
 - [Combining peer assessment with self-assessment brings marks closer to the teacher's marks](../claims/peer-plus-self-assessment-closer-to-teacher.md) [~W]
-- [Forest-school benefits are measured with heterogeneous methods, mostly questionnaires and tasks administered to children, with only two studies using objective measures](../claims/forest-school-measurement-methods-heterogeneous.md) [~W]
 - [Self-report empathy measures predominate and may inflate associations via common method bias and self-serving bias](../claims/empathy-self-report-method-bias.md) [+W]
 - [Monroe's silent reading test permits substantial chance success, inflating comprehension scores](../claims/monroe-test-chance-success-defect.md) [+W]
 - [Adding the verbal group test to Stanford MA raises the multiple correlation with achievement from 0.54 to 0.605](../claims/group-test-adds-to-stanford-ma-prediction.md) [~W]

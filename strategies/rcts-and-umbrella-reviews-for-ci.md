@@ -17,7 +17,7 @@ sources:
 # Prioritize high-quality randomized controlled trials and umbrella reviews over producing further redundant CI meta-analyses
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The authors propose a forward-looking research agenda for the CI field: rather than adding more meta-analyses on top of low-quality primary studies, the field should invest in well-powered original experiments and in syntheses of existing syntheses. They write: "we emphasize the urgent need for high-quality, well-powered randomized controlled trials that emphasize the simultaneous comparison of multiple motor learning approaches and advocate for a shift toward comprehensive umbrella reviews to evaluate and synthesize existing meta-analyses". They also call for field-specific quality appraisal tools and caution against unnecessary or duplicative evidence syntheses.
@@ -38,8 +38,6 @@ The authors propose a forward-looking research agenda for the CI field: rather t
 
 ## Claims
 
-- [A comparison of 193 pre-registered and 193 non-preregistered studies found no significant differences in positive results, effect sizes, or error rates](../claims/preregistration-no-outcome-difference.md) [+W]
-- [Randomization does not ensure baseline equivalence in small-sample motor learning studies, so unbalanced pre-tests can overstate random-practice benefits](../claims/randomization-no-baseline-equivalence.md) [+W]
 
 ## Related Strategies
 - 

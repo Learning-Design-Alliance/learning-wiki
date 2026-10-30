@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 2017
+recheck_by: 2020
 sources:
   - id: mml-muijselaar-2017
     resource: "https://doi.org/10.1037/edu0000120"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Factor scores intended to reflect specific comprehension factors were not reliable. [→ M.M.L. Muijselaar 2017](#mml-muijselaar-2017)

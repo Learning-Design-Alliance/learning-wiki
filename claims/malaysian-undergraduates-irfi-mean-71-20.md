@@ -45,5 +45,7 @@ Descriptive statistical analysis of IRFI scores in the cross-sectional survey of
 
 
 ## Related Claims
+
 - [Undergraduates' fallacy sub-scale means ranged from 13.45 to 15.31, with slippery slope highest and false analogy lowest](fallacy-subscale-means-slippery-slope-highest.md) — related
 - [Among undergraduates who fell into a fallacy trap, false analogy was the most common and slippery slope the least common](false-analogy-most-common-fallacy-trap.md) — related
+- [Malaysian undergraduates' overall CCTDI disposition was moderate to positive: 47% positive, 53% ambivalent, none negative](cctdi-composite-moderate-positive-disposition.md)

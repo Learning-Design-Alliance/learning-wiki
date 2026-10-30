@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: tae-lee-lee-2023
     resource: "https://doi.org/10.1038/s41539-022-00152-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Across 34 studies reporting side-effect data, approximately 46.2% of participants may experience potential side effects, most commonly tingling, itching, and phosphene flickering. [→ Tae Lee Lee 2023](#tae-lee-lee-2023)

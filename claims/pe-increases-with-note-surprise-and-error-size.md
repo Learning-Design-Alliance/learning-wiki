@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: marc-deosdad-díez-josep-marco-pallarés-2025
     resource: "https://doi.org/10.1038/s41539-025-00353-y"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Pe increased with information content (F(1,55046) = 218.42, p < 0.001) and asynchrony (F(1,75) = 52.86, p < 0.001) during synchronization. [→ Marc Deosdad-Díez & Josep Marco-Pallarés 2025](#marc-deosdad-diez-josep-marco-pallares-2025)

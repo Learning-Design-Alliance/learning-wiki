@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: john-hattie-2025
     resource: "https://doi.org/10.1007/s10648-025-10002-w"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` A systematic review of 37 studies of 15,405 educators from 18 countries found 89% of teachers agreed students learn better when taught in their preferred learning style, and pre-service teachers (95%) believed more than qualified teachers (88%). [→ John Hattie 2025](#john-hattie-2025)

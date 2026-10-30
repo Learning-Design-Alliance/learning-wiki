@@ -17,7 +17,7 @@ sources:
 # Deliver low-intensity parental engagement support via short, actionable school text messages rather than apps or face-to-face sessions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (1 mixed, 3 against) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (3 against) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article positions text messages as a low-cost, nonintrusive channel for supporting parents who face barriers to structured programs: the 160-character limit enforces concision, and parents attend closely to messages from their child's school. It argues that "text messages provide one of the simplest and most effective methods for delivering content," avoiding app-download and notification problems and the digital divide that disadvantages lower-SES families. Schools' existing logistical texting platforms can be repurposed for developmental content.
@@ -38,7 +38,6 @@ The article positions text messages as a low-cost, nonintrusive channel for supp
 
 ## Claims
 
-- [COVID-19 school closures caused approximately 70% attrition on the primary outcome, limiting the trial's power to detect effects](../claims/covid-attrition-limited-power.md) [~W]
 - [The Tips by Text intervention did not produce significant improvements in children's early reading-related skills (YARC) relative to control](../claims/tips-by-text-no-reading-improvement.md) [-W]
 - [The Tips by Text intervention did not produce significant improvements in children's socioemotional outcomes (SDQ) relative to control](../claims/tips-by-text-no-socioemotional-improvement.md) [-W]
 - [The intervention showed no meaningful differential effects for children facing socioeconomic disadvantage, EAL, SEN, or multiple overlapping challenges](../claims/tips-by-text-no-subgroup-differences.md) [-W]

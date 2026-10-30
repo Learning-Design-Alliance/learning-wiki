@@ -46,6 +46,6 @@ Omnibus repeated-measures ANOVA on post-intervention free recall (tests 4–6) i
 
 ## Related Claims
 - [Frontal theta tACS yields strong memory advantages over all other stimulation conditions at 2-hour, 24-hour, and 1-week delayed free recall tests](frontal-theta-tacs-hedges-g-delayed-recall.md) — related
-- [Baseline equivalence across stimulation groups rules out prior memory-ability differences as an explanation for post-intervention effects](tacs-baseline-equivalence-pre-intervention-recall.md) — related
+- Baseline equivalence across stimulation groups rules out prior memory-ability differences as an explanation for post-intervention effects — related
 - [Frontal midline theta tACS applied after learning produces significant off-line retrieval gains at all assessment time points relative to beta, parietal theta, and sham conditions](frontal-theta-tacs-offline-episodic-consolidation-gains.md) — related
-- [Participants were successfully blind to stimulation condition assignment across all four groups](tacs-participant-blindness-confirmed.md) — related
+- Participants were successfully blind to stimulation condition assignment across all four groups — related

@@ -17,7 +17,7 @@ sources:
 # Provide university teachers with specially tailored professional development in systematic design, including design models and tools
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 3 studies (3 theoretical), `q1`–`q2` · 0 of 3 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 3 studies (3 theoretical), `q1`–`q2` · 0 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 The commentary highlights Bennett et al.'s identification of "key areas where university educators require support and professional development, to engage in systematic design of learning, in particular the use of design models and tools". It notes the lack of bespoke resources and tools for teachers' design work, and that while generic design training may be useful, "teachers may need specially tailored approaches that are both relevant and responsive to the particular exigencies and requirements they face". This is framed as especially important given the pandemic-driven shift to online education.
@@ -40,7 +40,6 @@ The commentary highlights Bennett et al.'s identification of "key areas where un
 
 - [Research on university teachers as educational designers is an emerging field, and the professional development of educational designers is neither well understood nor effectively supported](../claims/educational-designer-professional-development-gap.md) [+W]
 - [Bennett et al.'s qualitative study found university instructors' design process is top-down, breadth-first, iterative, responsive, and reflective](../claims/university-instructor-design-process-characteristics.md) [+W]
-- [Bennett et al.'s research has limited detail about faculty design skills and emphasizes how faculty design resembles others' design approaches.](../claims/bennett-et-al-limited-detail-faculty-design-skills.md) [~W]
 - [Bennett et al.'s study establishes faculty roles as designers of learning, an essential consideration when institutions seek digital design talent.](../claims/faculty-roles-as-designers-essential-for-digital-design-talent.md) [+W]
 - [Bennett et al.'s study engaged a diverse cross-section of university teachers across disciplines and modalities, yet reported common shared design practices](../claims/diverse-cohort-common-shared-design-practices.md) [+W]
 

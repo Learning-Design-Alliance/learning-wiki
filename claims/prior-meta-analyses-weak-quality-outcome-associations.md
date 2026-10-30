@@ -64,7 +64,7 @@ The review attributes this broad conclusion to Keys et al. (2013), noting these 
 
 
 ## Related Claims
-- [The review's evidence base comprises 90 studies reporting 870 associations of interaction quality with child developmental and educational outcomes, covering 108,693 children](ecec-quality-review-90-studies-870-associations.md) — related
+- The review's evidence base comprises 90 studies reporting 870 associations of interaction quality with child developmental and educational outcomes, covering 108,693 children — related
 - [Global ECEC quality indices show little evidence of relating to child outcomes](global-ecec-quality-indices-little-evidence-child-outcomes.md) — a narrower finding that bears on this claim
 - [National quality rating systems show divergent operationalisations across countries, and links between ratings and child development are often shielded from scrutiny](national-quality-rating-systems-divergent-and-opaque.md) — related
 - [Measures of individual children's experiences within the ECEC group predict child development outcomes with higher effect sizes than global quality measures](individualised-measures-better-prediction-than-global.md) — related

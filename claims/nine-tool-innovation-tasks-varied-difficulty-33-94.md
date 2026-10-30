@@ -46,6 +46,6 @@ Descriptive analysis of the nine tasks administered to 139 children aged 3–6 f
 
 ## Related Claims
 - [Task difficulty moderated the facilitating effect of flexibility on ideal manipulation only, with the effect more salient for harder tasks](difficulty-moderates-flexibility-ideal-manipulation-only.md) — related
-- [Single latent factor models fitted both task success and ideal manipulation well, suggesting robust internal consistency, though Cling-subtract loaded weakly on task success](cfa-single-factor-internal-consistency-tool-innovation.md) — related
+- Single latent factor models fitted both task success and ideal manipulation well, suggesting robust internal consistency, though Cling-subtract loaded weakly on task success — related
 - [Task difficulty moderated the detrimental effect of fixation, which was stronger for easier compared to harder tasks](difficulty-moderates-fixation-effect-easier-tasks.md) — related
 - [Children's age, general intelligence, and divergent thinking positively predicted tool innovation performance, while executive function measures predicted only ideal manipulation](age-intelligence-divergent-thinking-predict-tool-innovation.md) — related

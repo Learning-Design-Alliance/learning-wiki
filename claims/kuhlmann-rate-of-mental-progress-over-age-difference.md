@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1914
+recheck_by: 1917
 sources:
   - id: kohs-1914
     resource: "https://www.google.com/search?q=%22Binet-Simon+Measuring+Scale+for+Intelligence%22+Kohs+annotated+bibliography"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 1914 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1914 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1917**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The review reports, citing Kuhlmann's 1913 paper, that the difference between mental age and chronological age does not represent the true degree of deficiency, and that the rate of mental progress was chosen as much more representative. [→ Kohs 1914](#kohs-1914)

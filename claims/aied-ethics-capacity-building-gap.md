@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: ana-mouta-2023
     resource: "https://doi.org/10.1007/s40593-023-00384-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Although 42 studies address AIED ethics capacity building, only four covered the impact assessment phase of these training programmes, and ethical training for AI implementation in education was found almost absent. [→ Ana Mouta 2023](#ana-mouta-2023)

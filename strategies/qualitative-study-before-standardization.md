@@ -37,7 +37,9 @@ A proposed methodological attack suggested by Downey's will-profile technique: h
 - accurate measurement and interpretation of individual differences in test performance
 
 ## Related Strategies
-- 
+
+- [Direct research effort toward measuring temperament and character factors, which operate largely independently of intelligence and may be more educable](research-measure-temperament-character-factors.md)
+- [Use qualitizing data transformation to convert quantitative results into narrative profiles for comparison with qualitative data](qualitizing-data-transformation-for-joint-displays.md)
 
 ## Examples
 -

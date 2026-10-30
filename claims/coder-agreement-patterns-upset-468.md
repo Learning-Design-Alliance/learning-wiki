@@ -49,4 +49,4 @@ UpSet-plot analysis of agreement combinations across all coders and standards in
 - [Human-human agreement (average κ = 0.644) was lower than the best LLM-LLM agreement (average κ = 0.856) across constructs](human-human-agreement-lower-than-llm-llm.md) — related
 - [Human-LLM agreement remains low across constructs (κ = 0.000 to 0.419), with self-efficacy showing the best alignment and Prior KSAs none](human-llm-agreement-low-construct-varying.md) — related
 - [Hallucinations were rare for both human and LLM coders, whereas omission errors were more frequent and varied by coder](llm-hallucinations-rare-omissions-frequent.md) — related
-- [Neither LLM nor human coders showed systematic over- or under-estimation in extracting data from educational meta-analyses](no-systematic-bias-llm-extraction.md) — related
+- Neither LLM nor human coders showed systematic over- or under-estimation in extracting data from educational meta-analyses — related

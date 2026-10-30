@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: van-atteveldt-2021
     resource: "https://doi.org/10.1038/s41539-021-00088-6"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Development can only be understood when considering bidirectional interactions between levels, called circular causality. [→ van Atteveldt 2021](#van-atteveldt-2021)

@@ -46,5 +46,5 @@ Linear probability models predicting positive responses on individual ICCS trust
 
 ## Related Claims
 - [Lockdown stringency and school closure duration are associated with greater declines in student trust in civic institutions](lockdown-trust-civic-institutions-declines.md) — related
-- [Robustness of the lockdown-civic outcome associations varies by outcome, with legal protest and trust/closure results most consistent](lockdown-civic-results-outlier-sensitivity.md) — related
+- Robustness of the lockdown-civic outcome associations varies by outcome, with legal protest and trust/closure results most consistent — related
 - [Political party membership appeared not to influence viewers' action on the corruption problem](kefauver-party-membership-no-influence.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2021
+recheck_by: 2026
 sources:
   - id: stephan-e-vogel-and-bert-de-smedt-2021
     resource: "https://doi.org/10.1038/s41539-021-00099-3"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Cross-sectional comparisons show that with increasing age, brain activity decreases in prefrontal areas and increases in the parietal cortex and the occipitotemporal cortex during arithmetic. [→ Stephan E. Vogel and Bert De Smedt 2021](#stephan-e-vogel-and-bert-de-smedt-2021)

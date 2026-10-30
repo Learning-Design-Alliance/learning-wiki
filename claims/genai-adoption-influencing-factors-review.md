@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: stella-y-kim-2026
     resource: "https://doi.org/10.1007/s11423-026-10713-z"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The literature review reports that perceived value, hedonic motivation, and habit predict GenAI intention; knowledge and awareness foster positive dispositions; optimism and enjoyment positively influence perceptions while anxiety and perceived cost negatively impact them; and ethical concerns around bias, privacy, and inaccurate responses negatively affect perceptions. [→ Stella Y. Kim 2026](#stella-y-kim-2026)

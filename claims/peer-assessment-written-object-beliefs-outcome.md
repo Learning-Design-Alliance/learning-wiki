@@ -45,6 +45,8 @@ Frequency analysis of assessment objects (Table 6) across the reviewed studies. 
 
 
 ## Related Claims
+
 - [AI and peer feedback differed in complementary ways: AI gave general, rubric-driven, actionable feedback while peers gave more specific, contextual feedback](ai-and-peer-feedback-complementary.md) — related
 - [Gender and ability/skills are the most investigated moderators/mediators of peer assessment](peer-assessment-gender-ability-top-moderators.md) — related
 - [Assignment support was the highest-rated Class Companion function (83% Effective/Very Effective, M = 3.38), while assessing knowledge and skills was the lowest (71%)](assignment-support-highest-rated-ai-companion-function.md) — related
+- [Latent class analysis of 27 design elements yields a five-class solution in which only ten instructional design elements significantly contribute (R² .204–.880), showing peer assessment designs are less diverse than theoretically possible](lca-five-class-ten-design-elements.md)

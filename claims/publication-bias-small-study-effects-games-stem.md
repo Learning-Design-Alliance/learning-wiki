@@ -50,4 +50,4 @@ Publication-bias analysis using Egger's regression test and Duval & Tweedie's tr
 - [Game-based learning in primary and early secondary STEM education shows moderate positive effects on cognition, motivation, and behaviour compared to traditional classrooms](games-stem-moderate-positive-effects-cognition-motivation-behaviour.md) — related
 - The text generation research field shows a small-study effect suggesting publication bias — related
 - [Publication bias is detected in the cross-sectional data set, and bias-corrected estimates are highly heterogeneous](publication-bias-cross-sectional-avg-data.md) — related
-- [Publication-bias tests (Egger's test and trim-and-fill) indicate absence of publication bias for the overall effect and moderators](drawing-support-no-publication-bias.md) — related
+- Publication-bias tests (Egger's test and trim-and-fill) indicate absence of publication bias for the overall effect and moderators — related

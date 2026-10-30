@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1911
+recheck_by: 1914
 sources:
   - id: de-sanctis-1911
     resource: "https://doi.org/10.1037/h0069835"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1914**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Because higher ideation is not yet developed in children, measuring attention or memory via psychic correlation is a legitimate indirect route to the intellectual level of children. [→ De Sanctis 1911](#de-sanctis-1911)

@@ -48,5 +48,7 @@ Interview study with 104 children aged seven to seventeen, stratified by age, se
 - [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
+
 - [Present-day comics meet children's needs for identification objects more effectively than the literature available to the past generation](comics-identification-objects-better-than-past-literature.md) — related
 - [The normal child is a moderate reader who uses comics as a means of (digest text breaks off)](normal-child-moderate-comic-reader.md) — related
+- [Content analysis of 52 nationally syndicated Sunday comic strips finds over twice as many male as female characters](comic-strips-twice-as-many-male-characters.md)

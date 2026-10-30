@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1916
+recheck_by: 1921
 sources:
   - id: j-c-b-1916
     resource: "https://en.wikipedia.org/wiki/Journal_of_Educational_Psychology"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
-> **Currency** · newest study 1916 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1916 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1921**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Musical people show a more decided tendency to involuntary reactions (starting, crying out) to unexpected stimuli such as loud sounds or sudden appearances, yet the proportion of strongly motor individuals is as large among non-musical as among musical people. [→ J. C. B 1916](#j-c-b-1916)

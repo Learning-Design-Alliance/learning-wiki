@@ -45,7 +45,7 @@ The review's overall conclusion from its systematic search of empirical studies 
 
 
 ## Related Claims
-- [Study designs and statistical analyses in literacy resilience research are often insufficient to distinguish promotive, protective, and skill-enhancing factors](designs-insufficient-distinguish-resilience-factor-types.md) — related
+- Study designs and statistical analyses in literacy resilience research are often insufficient to distinguish promotive, protective, and skill-enhancing factors — related
 - [Evidence for promotive and skill-enhancing factors in literacy resilience is underrecognized while the same evidence is overinterpreted towards protective effects](overinterpretation-towards-protective-effects.md) — related
-- [Most studies of literacy resilience have (very) small sample sizes and low statistical power to find relevant effects](literacy-resilience-studies-low-statistical-power.md) — related
+- Most studies of literacy resilience have (very) small sample sizes and low statistical power to find relevant effects — related
 - [Emerging reading and math resilience literatures suggest candidate resilience factors across cognitive, emotion/motivation, social/environmental, and neural levels, most not yet classified as promotive or protective](candidate-resilience-factors-reading-math.md) — a broader claim this one bears on

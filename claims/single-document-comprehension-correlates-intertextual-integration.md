@@ -49,4 +49,4 @@ Secondary-level study (Strømsø and Bråten, n = 282) in which participants rea
 - [Verbal working memory shows mixed associations with intertextual integration, from near zero to moderate-strong depending on study](verbal-working-memory-mixed-correlates-intertextual-integration.md) — related
 - [Metacognition and comprehension strategy use are weakly to moderately associated with intertextual integration among K-12 students](metacognition-strategy-use-correlates-intertextual-integration.md) — related
 - [Word-level reading fluency is positively associated with intertextual integration among K-12 students, including readers with developmental dyslexia](word-reading-fluency-correlates-intertextual-integration.md) — related
-- [Research on K-12 intertextual integration is dominated by secondary-level samples, essay tasks, and informational socioscientific document sets](task-document-features-k12-intertextual-integration-research.md) — related
+- Research on K-12 intertextual integration is dominated by secondary-level samples, essay tasks, and informational socioscientific document sets — related

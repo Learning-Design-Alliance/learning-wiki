@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 1911
+recheck_by: 1914
 sources:
   - id: e-d-jennings-1911
     resource: "https://eric.ed.gov/?q=elimination+of+freshmen+from+the+university+of+texas"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1911 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1914**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Computing elimination from student histories gives appreciably lower percentages than computing from class populations, because class populations include advanced-standing entrants. [→ E. D. Jennings 1911](#e-d-jennings-1911)

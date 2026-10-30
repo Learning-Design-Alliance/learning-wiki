@@ -53,5 +53,5 @@ Repeated-measures MANOVA on CK, PK, and PCK pre–post knowledge tests in the th
 - [Pupils in all three conditions gained significantly from pre-test to post-test and retention test, with no prior-knowledge differences between conditions](all-conditions-significant-gains-history-tasks.md) — related
 - [Project performance improved significantly from pre- to post-feedback across all three feedback conditions with no significant differences between feedback sources](ai-teacher-feedback-equal-project-performance-gains.md) — related
 - [Pre-service teachers' second-order knowledge integration is mediated by their first-order knowledge integration](first-order-knowledge-integration-mediation.md) — related
-- [Reading comprehension, self-concept and interest were collected prior to learning only to ensure comparability of conditions](pre-learning-comparability-measures-signaling.md) — related
+- Reading comprehension, self-concept and interest were collected prior to learning only to ensure comparability of conditions — related
 - [Integration prompts improve structural integration of knowledge across professional domains in pre-service teachers' mental models](integration-prompts-improve-structural-integration-teacher-knowledge.md) — related

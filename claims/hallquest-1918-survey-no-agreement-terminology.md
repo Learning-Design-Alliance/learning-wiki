@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 1918
+recheck_by: 1923
 sources:
   - id: hall-quest-1918
     resource: "https://eric.ed.gov/?id=EJ"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1918 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1923**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` A questionnaire sent to teachers of educational psychology in the Society of College Teachers of Education drew sixty-seven replies, and the responses showed considerable confusion in terminology and no universal agreement on the contents of educational psychology. [→ Hall-Quest 1918](#hall-quest-1918)

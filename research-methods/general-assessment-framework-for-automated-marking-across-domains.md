@@ -24,7 +24,8 @@ The authors specify a general framework for the assessment process consisting of
 ### Claims
 
 ## Related Research Methods
--
+
+- [Five-category answer categorization scheme based on completeness and accuracy](five-category-answer-categorization-scheme-based-on-completeness-and-accuracy.md)
 
 ## Key Sources
 - Grivokostopoulou, F., Perikos, I., & Hatzilygeroudis, I. (2016). An Educational System for Learning Search Algorithms and Automatically Assessing Student Performance. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-016-0116-x

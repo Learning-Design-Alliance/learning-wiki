@@ -17,7 +17,7 @@ sources:
 # Use argument-based validation as the guiding structure for holistic TEL validation frameworks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The review recommends the argument-based approach to validation, in which "an inference chain is constructed pertaining to the design in question, whereby evidence is collected to inform arguments supporting the validity of each step in the inference chain", as the structure TEL validation currently lacks. The authors argue that existing adapted frameworks building on this approach, together with the temporal stability of the criteria landscape, show "clear promise for future holistic validation frameworks such as those based on the argument-based approach".
@@ -38,8 +38,6 @@ The review recommends the argument-based approach to validation, in which "an in
 
 ## Claims
 
-- [Use of evaluation and validation frameworks in TEL research is rare and fragmented](../claims/framework-usage-rare-fragmented.md) [+W]
-- [Validity criteria co-occurrence network can help select an epistemologically complete set of criteria for validation frameworks](../claims/co-occurrence-network-criteria-selection.md) [+W]
 
 ## Related Strategies
 - 

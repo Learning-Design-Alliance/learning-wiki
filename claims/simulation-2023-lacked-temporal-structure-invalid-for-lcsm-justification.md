@@ -47,6 +47,6 @@ Design inspection of the Sorjonen et al. (2023) simulation: X1 and X2 were indep
 ## Related Claims
 - [Reanalyses of simulated and PALMA data provide converging support for the extended reciprocal effects model, including an effect of academic self-concept on achievement](reanalyses-converging-support-extended-rem-asc-effect.md) — related
 - [The RI-CCLPM-C indicates a positive self-concept effect on achievement even when data are generated without any direct effects between self-concept and achievement](ri-cclpm-c-positive-effect-without-causal-datagenerating-process.md) — related
-- [Correcting the wave-1 change-score misspecification in Sorjonen et al.'s LCSM yields a proper solution with positive effects between academic self-concept and achievement](corrected-lcsm-proper-solution-positive-asc-ach-effects.md) — related
+- Correcting the wave-1 change-score misspecification in Sorjonen et al.'s LCSM yields a proper solution with positive effects between academic self-concept and achievement — related
 - [The extended REM was robust to several alternative modeling specifications proposed by Sorjonen et al.](extended-rem-robust-alternative-specifications.md) — related
 - [Validation with simulated TRAIN-like data replicates the divergence: RI-CLPM positive, LCSM negative, ESDM no-direct-effects](train-validation-divergent-model-findings.md) — related

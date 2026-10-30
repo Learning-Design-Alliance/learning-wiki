@@ -10,6 +10,7 @@ generated:
 evidence_strength: moderate
 newest_evidence: 2023
 source_checked: 2026-10-26
+recheck_by: 2028
 sources:
   - id: wolfram-2023
     resource: "https://doi.org/10.1038/s41539-023-00173-y"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2023 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Under the best-fitting PA ASTE model, A = 51% (46–56%), S = 10% (0.1–18%), T = 16% (8–26%), and E = 23% (21–26%). [→ Wolfram 2023](#wolfram-2023)
@@ -46,7 +47,7 @@ Structural equation model fitting across six NTFD baseline models (three phenoty
 
 
 ## Related Claims
-- [Adjusting published twin-study ACE estimates for assortative mating raises mean heritability by about 17 points and lowers shared environmental estimates by about 16 points](assortative-mating-adjustment-branigan-subsample.md) — related
+- Adjusting published twin-study ACE estimates for assortative mating raises mean heritability by about 17 points and lowers shared environmental estimates by about 16 points — related
 - [A Classical Twin Design model of educational attainment in the TwinLife sample estimates shared environmental influence at 43% and additive genetic influence at 34%](ctd-ea-ace-twinlife-43-c.md) — related
 - [Dizygotic twin correlations for educational attainment are consistently higher than non-twin sibling correlations across countries, suggesting twin-specific shared environments are a general phenomenon](dz-twin-correlations-exceed-sibling-correlations.md) — related
 - [Twin-specific shared environments account for a substantial portion of CTD shared-environment estimates for educational attainment and cannot be interpreted as between-family environmental differences](twin-specific-environments-not-between-family.md) — related

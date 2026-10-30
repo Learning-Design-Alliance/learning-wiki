@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 1920
+recheck_by: 1923
 sources:
   - id: e-b-skaggs-1920
     resource: "https://doi.org/10.1037/h0076088"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1920 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1920 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1923**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` A child who ranks at a given age by the Healy Picture Completion test will, in all likelihood, test below age on the Binet, especially among children of lower mentality; the article's summary states the Picture Completion test is easier. [→ E. B. Skaggs 1920](#e-b-skaggs-1920)

@@ -46,4 +46,4 @@ CFA of the student readiness scale (N=460) using robust maximum likelihood estim
 
 ## Related Claims
 - [The faculty readiness scale required two model modifications (a cross-loading item and two residual correlations) to reach adequate fit](genai-rp-faculty-readiness-modified-model.md) — related
-- [A confirmatory factor analysis on a new sample confirms the three-factor structure with acceptable model fit and moderate convergent validity](cfa-confirms-three-factor-cognitive-load-structure.md) — related
+- A confirmatory factor analysis on a new sample confirms the three-factor structure with acceptable model fit and moderate convergent validity — related

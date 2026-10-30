@@ -48,4 +48,4 @@ CFA of the faculty readiness scale (N=132): the initial three-factor model showe
 - [The Challenge scale's three-factor structure was confirmed for students but did not reach satisfactory fit for faculty](genai-rp-challenge-scale-faculty-poor-fit.md) — related
 - [Exploratory factor analysis in the pilot stage supported a four-factor solution, with three items removed (a weak loading, a cross-loading, and a low item–total correlation with duplicated content)](pilot-efa-four-factor-solution.md) — related
 - [The student GenAI-RP readiness scale shows a validated three-factor structure: GenAI Comprehension, Ethical Awareness, and GenAI Utilization and Proficiency](genai-rp-student-readiness-three-factors.md) — related
-- [A confirmatory factor analysis on a new sample confirms the three-factor structure with acceptable model fit and moderate convergent validity](cfa-confirms-three-factor-cognitive-load-structure.md) — related
+- A confirmatory factor analysis on a new sample confirms the three-factor structure with acceptable model fit and moderate convergent validity — related

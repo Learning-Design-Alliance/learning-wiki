@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: aleknavičiūtė-2023
     resource: "https://doi.org/10.1016/j.edurev.2023.100556"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2`–`r3` · `q3`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Intervention studies occurred at all levels of education, with upper secondary students the most common population. [→ Aleknavičiūtė 2023](#aleknaviciute-2023)
@@ -64,5 +65,5 @@ Sample-size descriptives across the reviewed studies: "The mean sample size was 
 
 
 ## Related Claims
-- [Evolution is the most investigated topic and text-reading the most common intervention type in biology conceptual change research](biology-cc-topics-and-intervention-types.md) — related
-- [Effect sizes of biology conceptual change interventions were strongly influenced by sample size and publication bias](biology-cc-effect-sizes-sample-size-publication-bias.md) — related
+- Evolution is the most investigated topic and text-reading the most common intervention type in biology conceptual change research — related
+- Effect sizes of biology conceptual change interventions were strongly influenced by sample size and publication bias — related

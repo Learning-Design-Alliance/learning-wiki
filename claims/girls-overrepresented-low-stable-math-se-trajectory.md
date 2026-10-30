@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: peura-2026
     resource: "https://doi.org/10.1037/edu0001006"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3` · `i3` large
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q3 i3` The proportion of girls in the Low Stable SE trajectory (67.1%) was significantly higher than in the High Stable (45.0%, d = 0.90) and Decreasing (45.1%, d = 0.86) trajectories. [→ Peura 2026](#peura-2026)

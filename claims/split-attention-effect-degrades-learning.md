@@ -177,7 +177,7 @@ Boundary conditions follow from the same mechanism. Integration benefits are lar
 - [Graphical spatial representations of rhythm timing reduce tapping asynchrony compared with categorical and meaningless visual cues](graphical-spatial-cues-reduce-rhythm-asynchrony.md) — a narrower finding that bears on this claim
 - [DHH students suggest applying spatial contiguity between interpreter and visuals to reduce split attention](dhh-spatial-contiguity-interpreter-visuals.md) — a narrower finding that bears on this claim
 - [Temporal contiguity of simultaneous visual, spoken, and signed events may be unfavorable for DHH students](dhh-temporal-contiguity-unfavorable.md) — related
-- [Visual joint displays can reduce the cognitive burden of integration analysis and reporting compared to tabular joint displays](visual-joint-displays-reduce-cognitive-burden.md) — related
+- Visual joint displays can reduce the cognitive burden of integration analysis and reporting compared to tabular joint displays — related
 - [In Experiment 1, text-picture integration did not differ significantly between spatial and normal audio guides](no-text-picture-integration-effect-experiment-1.md) — related
 - [No split-attention difference in comprehension or learning efficiency between text+picture on a mobile device and text on a mobile device plus real objects](no-split-attention-effect-mobile-text-picture-versus-text-real-objects.md) — a narrower finding that bears on this claim
 - [Learner pacing is a proposed moderator that may explain the absence of a split-attention effect in visually-based mobile learning](self-pacing-may-moderate-split-attention-in-mobile-learning.md) — related

@@ -49,5 +49,5 @@ Publication-bias assessment within the meta-analysis: an Egger-type meta-regress
 - [Evidence of publication bias exists, but the pooled video effects are robust to it](publication-bias-present-but-effects-robust.md) — related
 - [The pooled self-efficacy–partnership correlation appears robust to the file-drawer problem](publication-bias-robustness.md) — related
 - [The ratio–interactive-skills association may be partly or entirely attributable to small-study publication bias](publication-bias-ratio-association.md) — related
-- [Formal tests find no substantial evidence of publication bias or small-study effects in the meta-analysis](no-publication-bias-math-interventions-co-occurring.md) — related
+- Formal tests find no substantial evidence of publication bias or small-study effects in the meta-analysis — related
 - [No evidence of publication bias was found for the overall effect of gamification on intrinsic motivation](gamification-meta-analysis-no-publication-bias.md) — related

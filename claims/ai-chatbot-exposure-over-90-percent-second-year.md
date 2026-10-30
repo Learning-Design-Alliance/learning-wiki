@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: ruishi-chen-2026
     resource: "https://doi.org/10.1007/s11423-026-10587-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In the 2023-24 academic year, more than 90% of surveyed students reported either knowing about or having used an AI chatbot, which the authors describe as a substantial increase in exposure compared to the prior year's data. [→ Ruishi Chen 2026](#ruishi-chen-2026)

@@ -13,7 +13,7 @@ generated:
 # AICO_edu (AI Competence Educators) questionnaire
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (1 for, 1 against) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 against) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 AICO_edu is a teacher self-report questionnaire developed by Delcker et al. for assessing perceived AI competence across six dimensions in pre-service and in-service vocational school teachers.
@@ -25,7 +25,6 @@ AICO_edu is a teacher self-report questionnaire developed by Delcker et al. for 
 ### Claims
 
 - [PF and AT scales carry a bidirectional interpretation problem for AI competence](../claims/pf-at-bidirectional-interpretation-problem.md) [-W]
-- [CFA partially supports the six-dimension structure of perceived AI competence](../claims/cfa-partially-supports-six-dimension-structure.md) [+W]
 
 ## Related Products and Programmes
 -

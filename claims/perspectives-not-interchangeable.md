@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: moderate
 newest_evidence: 2021
+recheck_by: 2024
 sources:
   - id: donker-2021
     resource: "https://doi.org/10.1016/j.learninstruc.2020.101414"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Combining the observer and student perspective on teacher agency explained almost the same amount of variance in teachers' positive emotions as including only the teacher perspective. [→ Donker 2021](#donker-2021)
@@ -46,7 +47,7 @@ Discussion of the shared/unique variance results (Table 2, Fig. 3): observer and
 
 
 ## Related Claims
-- [Standard multiple regression analyses showed suppressor effects that the novel correction method revealed and corrected](suppressor-effects-corrected-variance-split.md) — related
+- Standard multiple regression analyses showed suppressor effects that the novel correction method revealed and corrected — related
 - [Same-rater associations between teacher behavior ratings and emotions are unlikely to result from common-method bias only](common-method-bias-not-full-explanation.md) — related
-- [Observer, student, and teacher perspectives on teacher agency overlap largely, but observed and teacher-self-reported communion are not significantly associated](perspective-overlap-agency-not-communion.md) — related
+- Observer, student, and teacher perspectives on teacher agency overlap largely, but observed and teacher-self-reported communion are not significantly associated — related
 - [Teacher communion is a stronger predictor of student emotions than teacher agency](communion-stronger-predictor-student-emotions.md) — related

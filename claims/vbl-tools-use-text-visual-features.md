@@ -45,6 +45,6 @@ Review analysis of tasks and technologies across the tool-development articles (
 
 
 ## Related Claims
-- [VBL research falls into four main methodological approaches, with tools (57%) and controlled experiments (25%) dominating](vbl-four-methodological-approaches-tools-experiments-dominate.md) — related
-- [Textual features are the most explored video characteristics in VBL research, followed by visual features, learners' activities, and interactive features](vbl-textual-features-most-explored.md) — related
+- VBL research falls into four main methodological approaches, with tools (57%) and controlled experiments (25%) dominating — related
+- Textual features are the most explored video characteristics in VBL research, followed by visual features, learners' activities, and interactive features — related
 - [Removing any single modality degrades CF–KG only moderately, with text removal causing the largest drop (NDCG 0.625 to 0.593)](cfkg-robust-modality-removal.md) — related

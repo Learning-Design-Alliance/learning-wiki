@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: sapey-triomphe-2023
     resource: "https://doi.org/10.1038/s41539-023-00207-5"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2` · `i2`–`i3`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i2` In Exp. II's last blocks, autistic participants had a lower precision ratio than NT, especially in the first TOE block, reflecting relatively higher prior precision. [→ Sapey-Triomphe 2023](#sapey-triomphe-2023)

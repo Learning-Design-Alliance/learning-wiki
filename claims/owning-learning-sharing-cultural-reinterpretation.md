@@ -47,4 +47,4 @@ The commentary's central argument, offered as an international perspective on Le
 ## Related Claims
 - [Commentators recommend contextual adaptations of the Own It, Learn It, Share It framework](six-scholar-critiques-context-needed-for-ols-framework.md) — related
 - [Multiculturalist discourse prioritizes diversity over universal frameworks and recommends curricula of self-understanding, encounter with the Other, and intercultural competency](multiculturalist-discourse-diversity-curriculum.md) — related
-- [Studies of teachers' SRL knowledge use heterogeneous, often implicit definitions, limiting comparability](heterogeneous-definitions-limit-comparability.md) — related
+- Studies of teachers' SRL knowledge use heterogeneous, often implicit definitions, limiting comparability — related

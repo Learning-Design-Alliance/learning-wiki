@@ -45,6 +45,6 @@ The commentary attributes this three-way framing to Eynon and Young (2021), repo
 
 
 ## Related Claims
-- [Ethics discussions in AIED are largely consequentialist, specifically utilitarian, in nature](aied-ethics-consequentialist-utilitarian.md) — related
+- Ethics discussions in AIED are largely consequentialist, specifically utilitarian, in nature — related
 - [Critical knowledge traditions theorise technology as an artefact embodying social, cultural and political practices](critical-traditions-technology-as-artefact.md) — related
 - [Storying is socially and politically non-neutral: it privileges some storylines and silences others](storying-privileges-some-storylines-silences-others.md) — related

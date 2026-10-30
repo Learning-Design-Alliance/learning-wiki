@@ -17,7 +17,7 @@ sources:
 # Three-strand research agenda for reminiscing and elaborative style in early childhood settings
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The review concludes by proposing a research agenda to investigate reminiscing and elaborative styles in early childhood settings consisting of three strands: "description and taxonomy; individual differences; and links to child outcomes". It argues that research into educator–child reminiscing, combined with wider application of formalized micro-level approaches to analyzing educator–child conversations, is needed to broaden understanding of early child development and effective provision. The agenda addresses the current absence of studies of educators' elaborative style during reminiscing.
@@ -40,7 +40,6 @@ The review concludes by proposing a research agenda to investigate reminiscing a
 ## Claims
 
 - [Intervention studies suggest elaborative style during reminiscing plays a causal role in children's language, narrative and theory-of-mind development](../claims/elaborative-reminiscing-interventions-causal-role.md) [+W]
-- [Utterance-level micro-coding of reminiscing reveals outcome relationships that global coding may obscure, varying by participant gender and event type](../claims/micro-coding-reveals-elaborative-style-complexity.md) [+W]
 - [Elaborative reminiscing delivered by non-parents benefits children, with strongest effects for low-SES and lower-ability children](../claims/non-parent-elaborative-reminiscing-low-ses-benefits.md) [+W]
 - [Open-ended questions in preschool settings encourage individual thinking and developmentally significant sustained dialog](../claims/open-ended-questions-preschool-sustained-dialog.md) [+W]
 - [Parental elaborative style during reminiscing relates to children's vocabulary, narrative skills, autobiographical memory, and social-emotional skills](../claims/parental-elaborative-reminiscing-relates-to-child-outcomes.md) [+W]

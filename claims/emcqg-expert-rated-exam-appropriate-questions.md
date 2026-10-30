@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2019
+recheck_by: 2022
 sources:
   - id: j-leo-2019
     resource: "https://doi.org/10.1007/s40593-018-00172-w"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In a user study with 15 medical experts rating a stratified random sample of 435 generated questions, 129 (30%) were considered appropriate for exams by both experts and a further 216 (50%) by at least one expert. [→ J. Leo 2019](#j-leo-2019)

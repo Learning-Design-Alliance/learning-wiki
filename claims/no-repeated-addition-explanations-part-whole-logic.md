@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: weak
 newest_evidence: 2017
+recheck_by: 2022
 sources:
   - id: lortie-forgues-2017
     title: Lortie-Forgues 2017
@@ -22,7 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 > **Design limits** · Lortie-Forgues 2017: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims

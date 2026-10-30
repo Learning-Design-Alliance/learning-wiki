@@ -17,7 +17,7 @@ sources:
 # Use ChatGPT via API to convert counterfactual analytics outputs into human-readable prescriptive feedback for learners
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The strategy converts numeric counterfactual outputs into natural-language prescriptive feedback using ChatGPT and available APIs. The article proposes that "the conversion is performed using ChatGPT and automated using available APIs," with the LLM primed by devising "an ideal template response" and extracting feature names and values into a structured JSON format from which feedback text is constructed. Feedback can be dispensed directly via LA dashboards and emails or through conversations with academic advisors, and human-readable format also helps advisors filter and select the most suitable candidate feedback.
@@ -39,7 +39,6 @@ The strategy converts numeric counterfactual outputs into natural-language presc
 
 ## Claims
 
-- [Predictive LA research neglects interpretability, explainability, and prescriptive analytics, with course-level prediction dominating over programme-level](../claims/la-interpretability-prescriptive-gap.md) [+W]
 
 ## Related Strategies
 

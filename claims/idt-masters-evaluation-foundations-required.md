@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2017
+recheck_by: 2020
 sources:
   - id: west-2017
     resource: "https://doi.org/10.1007/s11423-016-9490-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Evaluation course requirements were universal at the master's level but rare at the doctoral level; the master's level also showed a universal foundations requirement with otherwise wide variety between programs. [→ West 2017](#west-2017)

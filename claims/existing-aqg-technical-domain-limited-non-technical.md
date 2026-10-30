@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2024
+recheck_by: 2027
 sources:
   - id: praveen-kumar-2024
     resource: "https://doi.org/10.1007/s40593-023-00333-6"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The majority of existing ontology- and ML-based AQG approaches concentrate on non-technical domains and therefore have no relevance to Bloom's-Taxonomy-based question evaluation. [→ Praveen Kumar 2024](#praveen-kumar-2024)
@@ -51,5 +52,5 @@ In the Summary of Related Work, the article derives from its Tables 3 and 4 that
 - [The Bloom-driven framework generalizes to social-science questions, with automated rubrics agreeing strongly with experts on usability but only modestly on Bloom level](social-science-generalization-human-agreement.md) — related
 - [LLM-assigned difficulty labels fail to predict empirical item difficulty in classroom retrieval practice (ρ=0.06), as do co-generated Bloom levels (ρ=0.02)](llm-difficulty-labels-fail-to-predict-empirical-item-difficulty.md) — related
 - [Assessment remains the dominant purpose of educational AQG, mirroring pre-2014 findings](aqg-assessment-dominant-purpose.md) — related
-- [AQG evaluation suffers from insufficient and heterogeneous experimental reporting and metrics](aqg-evaluation-reporting-gaps.md) — related
+- AQG evaluation suffers from insufficient and heterogeneous experimental reporting and metrics — related
 - [Text remains the most popular AQG input, while Semantic Web sources are used mainly for domain-unspecific questions](aqg-text-most-popular-input.md) — related

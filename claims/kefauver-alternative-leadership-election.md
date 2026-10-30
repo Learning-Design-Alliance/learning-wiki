@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 1952
+recheck_by: 1955
 sources:
   - id: wiebe-1952
     resource: "https://www.jstor.org/stable/2745943"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q1`
-> **Currency** · newest study 1952 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1952 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1955**: local conditions change quickly
 
 ## Subclaims
 `q1 i?` About six months after the hearings, Rudolf Halley was elected president of the City Council of New York City over the opposition of the two major party candidates, which the author interprets as the function of an alternative leadership. [→ Wiebe 1952](#wiebe-1952)

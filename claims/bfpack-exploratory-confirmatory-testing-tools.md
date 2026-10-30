@@ -47,4 +47,4 @@ Descriptive statement from the article's abstract about the BFpack package's cap
 
 ## Related Claims
 - [BFpack handles common statistical analyses with default priors and data missing at random](bfpack-default-priors-missing-data.md) — related
-- [Statistical tests applied to exploratory analyses lack evidential impact because the denominator of tests becomes unspecified](exploratory-tests-lack-evidential-impact.md) — related
+- Statistical tests applied to exploratory analyses lack evidential impact because the denominator of tests becomes unspecified — related

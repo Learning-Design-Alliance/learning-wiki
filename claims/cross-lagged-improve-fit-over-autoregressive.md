@@ -46,7 +46,7 @@ Across all tested LISREL models (Models 1, 2a, 2b, 3 variants) on the 697-studen
 
 ## Related Claims
 - [Across basic and extended RI-CLPMs and CLPMs of five-wave secondary-school data, math self-concept and achievement show consistent reciprocal (bidirectional) directional ordering](rem-reciprocal-effects-ri-clpm-clpm-palma.md) — related
-- [The choice of longitudinal statistical model can determine whether reciprocal motivation-achievement relations are found](statistical-model-choice-reciprocal-effects.md) — related
+- The choice of longitudinal statistical model can determine whether reciprocal motivation-achievement relations are found — related
 - [The RI-CCLPM-C indicates a positive self-concept effect on achievement even when data are generated without any direct effects between self-concept and achievement](ri-cclpm-c-positive-effect-without-causal-datagenerating-process.md) — reports the opposite
 - [Adding lag-2 paths to CLPMs substantially improves fit and provides stronger controls for preexisting differences, positioning extended CLPMs as viable alternatives to RI-CLPMs](lag-2-paths-improve-clpm-fit-and-control.md) — related
 - [RI-CLPMs control unmeasured time-invariant covariates better than CLPMs, but neither controls unmeasured time-varying covariates well](ri-clpm-unmeasured-covariate-control.md) — related

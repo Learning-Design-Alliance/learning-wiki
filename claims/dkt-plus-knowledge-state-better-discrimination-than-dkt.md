@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2018
+recheck_by: 2021
 sources:
   - id: yeung-2018
     resource: "https://arxiv.org/abs/1806.03256"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Independent sample t-tests per skill show the knowledge state extracted from DKT+ has a better discrimination power between STEM and non-STEM classes than DKT, with higher t-score magnitudes for the majority of skills. [→ Yeung 2018](#yeung-2018)

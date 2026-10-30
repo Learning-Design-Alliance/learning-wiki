@@ -9,6 +9,7 @@ generated:
   at: 2026-10-30
 evidence_strength: moderate
 newest_evidence: 2015
+recheck_by: 2020
 sources:
   - id: siddiq-f-2015
     resource: "https://doi.org/10.1016/j.compedu.2015.10.006"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q2 i1` Significant mean differences favored humanities, language and arts teachers (d = -0.24 to -0.62 relative to reference), while no significant gender differences were found. [→ Siddiq F. 2015](#siddiq-f-2015)

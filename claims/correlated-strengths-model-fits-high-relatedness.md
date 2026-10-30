@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: gupta-2026
     resource: "https://doi.org/10.1038/s41539-026-00416-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Simulation incorporating a free parameter ρ for the correlation between study and test memory strengths yielded a best fit at ρ = .334, which fit the mean data and the bulk of the distribution for high relatedness items. [→ Gupta 2026](#gupta-2026)

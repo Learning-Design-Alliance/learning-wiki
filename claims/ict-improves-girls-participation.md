@@ -65,7 +65,7 @@ The review reports, citing Khan et al. (2017), Yang & Quadir (2018) and Tsai (20
 
 ## Related Claims
 - [Digital game-based learning aligns most with practice/participation and belief/perception dimensions, while mobile-enabled learning leads access to assets](dgbl-leads-participation-perception-alignment.md) — related
-- [Four ICT-enabled learning approaches are used in empirical studies of schoolgirls' learning in Asia, with computer-assisted learning the most common](four-ict-approaches-schoolgirls-asia.md) — related
+- Four ICT-enabled learning approaches are used in empirical studies of schoolgirls' learning in Asia, with computer-assisted learning the most common — related
 - [ICT-enabled learning improves schoolgirls' access to resources, knowledge, and skills](ict-improves-girls-access-resources.md) — related
 - [ICT-enabled learning may change beliefs and perceptions about girls' capacity and ICT's value](ict-changes-beliefs-perceptions-girls.md) — related
 - [Fewer reviewed studies align with the policy dimension, and policies ignoring gender differences may deter girls' participation](policies-accommodate-inclusiveness.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2030
 sources:
   - id: bowen-2025
     resource: "https://doi.org/10.1038/s41539-025-00370-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Thematic analysis of a two-day workshop involving five heads of research labs from the UK, France, and Chile identified gaps in five areas: existing theory and knowledge, the research-practice divide, research methodologies, empirical testing and evidence verification, and research with specific populations. [→ Bowen 2025](#bowen-2025)

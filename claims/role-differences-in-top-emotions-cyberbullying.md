@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2014
+recheck_by: 2019
 sources:
   - id: ana-m-giménez-gualdo-2014
     resource: "https://doi.org/10.1016/j.compedu.2014.11.013"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` The most common emotion expected of victims by cyberbullies was 'scared' (M=3.15), while cybervictims reported 'sad' (M=2.18) as most intense, and cyberbully-victims reported 'offended' (M=2.25). [→ Ana M. Giménez Gualdo 2014](#ana-m-gimenez-gualdo-2014)
@@ -45,7 +46,9 @@ Descriptive analysis of individual impact items (Table 2) from the survey, rated
 
 
 ## Related Claims
+
 - [Bullying and cyberbullying involvement declines with age, but neither cyberbullies' perceived impact nor cybervictims' reported impact correlates with age.](age-decline-in-involvement-but-not-in-perceived-impact.md) — related
 - [Cyberbullies believe their victims would experience more negative emotional impact than cybervictims actually report experiencing.](cyberbullies-overestimate-victim-emotional-impact.md) — related
 - [Cyberbully-victims did not differ significantly from pure cyberbullies or pure cybervictims in perceptions or reported feelings, nor did their own perceptions differ from their reported feelings.](cyberbully-victims-no-differences-in-perceptions-or-feelings.md) — related
 - [Adolescents victimized in both traditional and cyber contexts report greater negative emotional impact from cyberbullying than cyber-only victims.](dual-context-victims-report-greater-cyberbullying-impact.md) — related
+- [In this Spanish adolescent sample, involvement in cyberbullying (7.7%) was lower than involvement in traditional bullying (11.9%), with 4.2% involved in both.](cyberbullying-prevalence-lower-than-traditional-spanish-sample.md)

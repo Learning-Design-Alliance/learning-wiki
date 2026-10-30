@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2016
+recheck_by: 2019
 sources:
   - id: dmello-2016
     resource: "https://doi.org/10.1007/s40593-016-0104-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` A support vector machine discriminated mind wandering from eye gaze with a precision of 69% and a recall of 67%, designed to generalize to new learners. [→ D’Mello 2016](#dmello-2016)
@@ -45,5 +46,5 @@ Data from 98 learners reading a 57-page scientific text on surface tension, trac
 
 
 ## Related Claims
-- [D'Mello proposes attention tracking and management as a new AIED research direction](dello-attention-tracking-vision.md) — a broader claim this one bears on
+- D'Mello proposes attention tracking and management as a new AIED research direction — a broader claim this one bears on
 - [Lab-trained mind wandering detectors generalize to in-the-wild lecture viewing across task, setting, and cultural group, with BiLSTM on latent features reaching F1 = 0.352](cross-dataset-generalization-mind-wandering-detection.md) — related

@@ -46,5 +46,5 @@ Review's categorisation of instructional agents in the 92-study sample. The arti
 
 ## Related Claims
 - [Surveyed conversational agents split roughly evenly between face-to-face and distance-education delivery](agent-mode-of-study-split-face-to-face-distance.md) — related
-- [Assessment is among the least explored conversational agent intents in higher education](assessment-intent-underexplored.md) — related
+- Assessment is among the least explored conversational agent intents in higher education — related
 - [Instructional is the most common pedagogical purpose of surveyed conversational agents, with pastoral close behind and cognitive smallest](instructional-most-common-agent-purpose-41-of-92.md) — a broader claim this one bears on

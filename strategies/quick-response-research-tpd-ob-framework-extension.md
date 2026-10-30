@@ -17,7 +17,7 @@ sources:
 # Combine quick response research approaches with meta-aggregative review methodology to capture educator experiences of rapid digital shifts and extend the TPD-for-OBL framework
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 4 studies (2 theoretical, 1 review, 1 design), `q1`–`q2` · 0 of 4 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 3 studies (1 review, 1 design, 1 theoretical), `q1`–`q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The article recommends a research strategy for crisis contexts: apply Quarantelli's (2002) quick response research approach, as Mackey et al. (2012) did to capture educator experiences in a post-earthquake shift to blended learning in New Zealand, combined with the Philipsen et al. meta-aggregative methodology. This would "obtain the important perspectives of teachers and professional development personnel regarding their rapid shift to digital" and could extend the TPD for OBL framework for the after-COVID era.
@@ -41,7 +41,6 @@ The article recommends a research strategy for crisis contexts: apply Quarantell
 
 - [The COVID-19 mandated shift to digital teaching created learning and performance contexts so different that the Philipsen et al. TPD-for-OBL framework's applicability may be limited](../claims/covid-context-limits-tpd-ob-framework.md) [+W]
 - [The Philipsen et al. framework of TPD components for online and blended learning is biased toward higher education settings](../claims/philipsen-framework-higher-education-bias.md) [+W]
-- [The meta-aggregative review lacks an explicitly critical framework and under-addresses equity](../claims/meta-aggregative-review-lacks-critical-framework.md) [~W]
 - [Prior TPD research focused on teacher impact, leaving student-centered evaluation of TPD for OBL unexamined](../claims/student-centered-tpd-evaluation-gap.md) [+W]
 
 ## Related Strategies

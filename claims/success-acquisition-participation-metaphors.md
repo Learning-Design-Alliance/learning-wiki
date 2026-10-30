@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: kailea-saplan-sam-abramovich-peter-wardrip-2024
     resource: "https://doi.org/10.1007/s11423-023-10286-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Educators' examples of demonstrated success split into acquisition-type evidence (skills, mindsets) and participation-type evidence (aha moments, pride, showing work), which the authors map onto Sfard's two metaphors for learning. [→ Kailea Saplan · Sam Abramovich · Peter Wardrip 2024](#kailea-saplan-sam-abramovich-peter-wardrip-2024)

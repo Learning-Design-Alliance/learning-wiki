@@ -66,7 +66,7 @@ Thematic analysis of interviews across the pilot districts identified four barri
 - [A two-year professional learning community helped eight REL Midwest researchers identify collaborative-research challenges and apply solutions in their alliance work](rel-midwest-plc-collaborative-research-lessons.md) — related
 - [Four implementation themes emerged from UK process evaluations: intervention format, policy consistency, staff buy-in, and perceived effectiveness](four-implementation-themes-exclusion-interventions.md) — related
 - [The RCS Core Team's root cause analysis identified fear and political influence, lack of comprehensive and inclusive curriculum, and lack of awareness as central causes of the discourse challenge](rcs-root-causes-fear-curriculum-awareness.md) — related
-- [The authors call for formal research that systematically identifies educators' implementation concerns and evaluates effective ways to communicate the science of learning](call-for-implementation-reform-research.md) — related
+- The authors call for formal research that systematically identifies educators' implementation concerns and evaluates effective ways to communicate the science of learning — related
 - [Thematic analysis of teacher interviews identifies barriers to implementation and factors for success](mast-implementation-barriers-success-factors.md) — related
 - [No statistically significant stakeholder differences on Literacy, Curriculum, Instruction and Assessment, Community Partnerships, Collaborative Leadership, or Data and Privacy](no-significant-differences-on-five-frs-lf-constructs.md) — related
 - [Educators face challenges at the student level, teacher level, and institutional level](makerspace-three-level-challenges.md) — related

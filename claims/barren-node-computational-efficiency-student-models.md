@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2004
+recheck_by: 2007
 sources:
   - id: jim-reye-2004
     resource: "https://telearn.hal.science/hal-00197306"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
-> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2007**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The barren node concept is important for computational efficiency in belief-net-based student models. [→ Jim Reye 2004](#jim-reye-2004)

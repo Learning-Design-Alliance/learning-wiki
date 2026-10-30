@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: weak
 newest_evidence: 2024
+recheck_by: 2029
 sources:
   - id: lachner-2024
     resource: "https://doi.org/10.1007/s10648-024-09876-z"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2029: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In a survey of 4415 educators, around one-third lamented that research is not localized enough to provide constructive guidance for solving problems at schools. [→ Lachner 2024](#lachner-2024)

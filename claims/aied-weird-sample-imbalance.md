@@ -64,10 +64,10 @@ Same Table 6 analysis of relevant AIED sample origins; the paper reports "There 
 
 
 ## Related Claims
-- [AIED conference authorship is strongly WEIRD-imbalanced, with 90% of first authors from WEIRD institutions and no African first authors](aied-weird-authorship-imbalance.md) — related
+- AIED conference authorship is strongly WEIRD-imbalanced, with 90% of first authors from WEIRD institutions and no African first authors — related
 - [Top-tier psychology journals show extreme WEIRD dominance: 97% of first authors and 95% of samples](psychology-weird-representation-imbalance.md) — a broader claim this one bears on
-- [Conference localization in non-WEIRD countries coincided with the highest rates of papers from Latin America and Asia](conference-localization-diversity-effect.md) — related
+- Conference localization in non-WEIRD countries coincided with the highest rates of papers from Latin America and Asia — related
 - [Research on generative AI in secondary STEM education is concentrated in the Global North, with 73% of affiliations and the United States accounting for 30% of publications](global-north-concentration-generative-ai-stem-research.md) — related
-- [Authorship of AIED systematic reviews is concentrated in Asia and Europe, with China, Spain, and the United States the most productive countries](aied-review-authorship-geographic-distribution.md) — a narrower finding that bears on this claim
-- [Handbook authorship and AECT awards are markedly less internationally diverse than journal publication, suggesting a North American bias in those indicators](handbook-awards-north-american-bias.md) — related
+- Authorship of AIED systematic reviews is concentrated in Asia and Europe, with China, Spain, and the United States the most productive countries — a narrower finding that bears on this claim
+- Handbook authorship and AECT awards are markedly less internationally diverse than journal publication, suggesting a North American bias in those indicators — related
 - [Adoption of Wikipedia assignments shows a global digital divide, concentrated in English-speaking countries](wikipedia-assignments-global-digital-divide.md) — related

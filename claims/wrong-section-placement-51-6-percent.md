@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1921
+recheck_by: 1924
 sources:
   - id: geyer-1921
     resource: "https://www.jstor.org/journal/jeduapsy"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1924**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` If the 120 pupils were divided into four class-sections by one test's scores, 51.6 per cent would be in the wrong section according to the other test, and 31.8 per cent would be out of place by at least half the range of a class-section. [→ Geyer 1921](#geyer-1921)

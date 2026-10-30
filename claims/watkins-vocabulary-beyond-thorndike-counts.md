@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1922
+recheck_by: 1925
 sources:
   - id: l-z-1922
     resource: "https://eric.ed.gov/?q=journal+of+educational+psychology"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1925**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` The reviewer contends that some words in Watkins' first-grade vocabulary appear so infrequently that they are absent from the 10,000 words in the Thorndike word counts. [→ L. Z 1922](#l-z-1922)

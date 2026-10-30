@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1921
+recheck_by: 1924
 sources:
   - id: geyer-1921
     resource: "https://www.jstor.org/journal/jeduapsy"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q1`
-> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1921 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1924**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Based on the extent to which rankings by one group test varied from rankings by another, the author concludes there is much yet to be done before group intelligence tests can be very fully relied upon for trustworthy placing of individual pupils. [→ Geyer 1921](#geyer-1921)

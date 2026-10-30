@@ -24,7 +24,8 @@ The article proposes that propositions differ in specificity, which determines t
 ### Claims
 
 ## Related Research Methods
--
+
+- [Person-centered latent-profile analysis for testing relative universalism of psychological theories](person-centered-latent-profile-analysis-for-testing-relative-universalism-of-psychological.md)
 
 ## Key Sources
 - Reinhard Pekrun. (2024). Overcoming Fragmentation in Motivation Science: Why, When, and How Should We Integrate Theories? Educational Psychology Review. https://doi.org/10.1007/s10648-024-09846-5

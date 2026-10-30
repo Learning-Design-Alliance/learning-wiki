@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: ethan-roy-2025
     resource: "https://doi.org/10.1038/s41539-025-00314-5"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r3` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Correct responses per minute (RPM) over the 3-minute tablet session was highly reliable (r = 0.97) and 3 minutes of single-digit fluency data explained roughly 36% of variance in SBAC standardized math scores. [→ Ethan Roy 2025](#ethan-roy-2025)

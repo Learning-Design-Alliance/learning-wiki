@@ -47,4 +47,4 @@ Secondary null analyses in the same study: a one-way ANOVA on pre-test scores an
 ## Related Claims
 - [Engagement profile membership predicts delayed chemistry knowledge (six to eight weeks later) above and beyond prior knowledge](profiles-predict-delayed-knowledge-beyond-prior-knowledge.md) — related
 - [Changes in mathematics self-concept and interest are independent of prior achievement and do not predict later achievement](motivation-changes-independent-of-achievement.md) — related
-- [Reading comprehension, self-concept and interest were collected prior to learning only to ensure comparability of conditions](pre-learning-comparability-measures-signaling.md) — related
+- Reading comprehension, self-concept and interest were collected prior to learning only to ensure comparability of conditions — related

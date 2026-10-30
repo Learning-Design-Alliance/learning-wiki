@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: strong
 newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: keller-2020
     resource: "https://doi.org/10.1037/edu0000533"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Across the interrupted regression analyses, a single linear coefficient did not accurately describe the achievement–self-concept relation for an average of 12% (TIMSS Grade 8) to 22% (PISA verbal domain) of students, depending on domain, age group, and assessment. [→ Keller 2020](#keller-2020)

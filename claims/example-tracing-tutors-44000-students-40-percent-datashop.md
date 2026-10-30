@@ -47,4 +47,4 @@ The article reports adoption figures for CTAT-built tutors, stating "CTA T-built
 ## Related Claims
 - [CTAT-built example-tracing tutors have been shown to be effective in helping students learn in real educational settings, often with large pre/post effect sizes.](example-tracing-tutors-effective-real-settings-large-effect-sizes.md) — related
 - [Building example-tracing tutors with CTAT is 4–8 times as cost-effective as estimates for ITS development from the literature.](example-tracing-tutors-4-8-times-cost-effective.md) — related
-- [Model-tracing/cognitive tutors and example-tracing tutors are the predominant ITS types designed with authoring tools, together accounting for almost 40% of included studies](model-tracing-example-tracing-dominant-authored-types.md) — related
+- Model-tracing/cognitive tutors and example-tracing tutors are the predominant ITS types designed with authoring tools, together accounting for almost 40% of included studies — related

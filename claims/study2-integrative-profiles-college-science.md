@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 2018
+recheck_by: 2023
 sources:
   - id: linnenbrink-garcia-2018
     resource: "https://doi.org/10.1037/edu0000245"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Latent profile analysis of the same five motivational constructs in a college science sample identified Moderate-High All, Intrinsic and Confident, and Average All profiles, plus a Moderate Intrinsic and Confident profile. [→ Linnenbrink-Garcia 2018](#linnenbrink-garcia-2018)

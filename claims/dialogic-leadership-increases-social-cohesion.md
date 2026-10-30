@@ -46,7 +46,7 @@ Thematic synthesis of the review's institutional-level outcomes; the review repo
 
 ## Related Claims
 - [Dialogic leadership is democratic: every participating individual has agency and power in decision-making](dialogic-leadership-democratic-decision-making.md) — related
-- [The evidence base on dialogic leadership is entirely qualitative, with the majority (n = 17, 63%) of studies being case studies](dialogic-leadership-evidence-all-qualitative.md) — related
+- The evidence base on dialogic leadership is entirely qualitative, with the majority (n = 17, 63%) of studies being case studies — related
 - [Participation in dialogic-interaction interventions is associated with improved well-being, self-confidence and quality of life](dialogic-leadership-improves-wellbeing-self-confidence.md) — related
 - [Dialogic leadership values diversity as an asset and fosters inclusion of marginalized groups](dialogic-leadership-diversity-inclusion.md) — related
 - [DLGs bring the community in and take new learnings out, with family involvement increasing children's motivation](dlg-community-involvement-family-motivation.md) — related

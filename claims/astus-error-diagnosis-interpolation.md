@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2015
+recheck_by: 2018
 sources:
   - id: luc-paquette-2015
     resource: "https://doi.org/10.1007/s40593-014-0030-z"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` When a learner executes an off-path step, Astus attempts to diagnose the error by manipulating the episodic tree to instantiate a step matching the off-path step. [→ Luc Paquette 2015](#luc-paquette-2015)

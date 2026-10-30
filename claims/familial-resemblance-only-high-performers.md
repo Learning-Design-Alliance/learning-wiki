@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 2015
+recheck_by: 2020
 sources:
   - id: hart-2015
     resource: "https://doi.org/10.1037/edu0000045"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Class 4 (high performers) showed twin concordance of 76%, indicating familial resemblance, while struggling classes showed discordance or no statistical familial effect. [→ Hart 2015](#hart-2015)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1910
+recheck_by: 1915
 sources:
   - id: g-m-w-1910
     resource: "https://doi.org/10.1037/h0069029"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1910 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1915**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Psychological analysis of the work curve identifies, in addition to fatigue proper, practice, adaptation, preparedness, warming up, spurts of several types, voluntary effort, ennui, and diurnal rhythms as factors conditioning efficiency. [→ G. M. W 1910](#g-m-w-1910)
@@ -55,8 +56,8 @@ The review summarizes Offner's analysis of factors other than fatigue that condi
 - [Performance on difficult mental multiplication improves during a continuous work period of about two hours](mental-multiplication-improves-during-continuous-work.md) — a narrower finding that bears on this claim
 - [Thirty to forty-eight hours of sleep loss produced no greater efficiency loss than the gain due to practice, despite reported feelings of fatigue](sleep-loss-efficiency-no-worse-than-practice-gain.md) — related
 - [Individual learning curves rise by irregular increments with occasional losses, with plateau-like periods attributed to changes in method and waning interest](irregular-individual-learning-increments-plateaus.md) — related
-- [The data cannot be used to investigate end spurt because subjects were not told when each test would end](end-spurt-not-investigable-unninformed-subjects.md) — related
+- The data cannot be used to investigate end spurt because subjects were not told when each test would end — related
 - [Initial spurt takes place as a general rule in addition, which the author argues chance variation cannot explain](initial-spurt-general-rule-addition.md) — a narrower finding that bears on this claim
 - [Addition efficiency drops sharply from the first to the second two-minute period, indicating initial spurt](initial-spurt-in-addition-two-minute-periods.md) — a narrower finding that bears on this claim
-- [Prior initial-spurt experiments failed because test periods were too lengthy and subjects too few](prior-spurt-experiments-two-weaknesses.md) — related
+- Prior initial-spurt experiments failed because test periods were too lengthy and subjects too few — related
 - [General skill learning appears to occur during rest periods, but fatigue release cannot be excluded as an explanation](general-skill-learning-offline-fatigue-caveat.md) — a narrower finding that bears on this claim

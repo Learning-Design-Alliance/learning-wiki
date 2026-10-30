@@ -82,14 +82,14 @@ Publication bias assessment using funnel plots, trim-and-fill, and Egger's regre
 - Funnel-plot analysis finds no evidence of missing small-effect studies, though asymmetry from few negative estimates suggests possible small bias against null-negative results — related
 - [The pooled self-efficacy–partnership correlation appears robust to the file-drawer problem](publication-bias-robustness.md) — related
 - [Publication bias is indicated for the performance-approach and performance-avoidance anxiety effects but not for the depression effects](publication-bias-performance-goal-anxiety-effects.md) — related
-- [Publication bias evidence is mixed: marginal asymmetry for tutees but no missing studies, and no bias for tutors](cross-age-tutoring-publication-bias-mixed.md) — related
-- [Publication bias analyses suggest possible small-sample bias for SCED studies, with trim-and-fill reducing the adjusted mean effect to 1.01](sced-publication-bias-trim-and-fill-101.md) — related
-- [No evidence of dissemination bias was detected in the meta-analysis](teacher-growth-mindset-no-dissemination-bias.md) — related
-- [Publication-bias checks indicate limited risk of publication bias in the extensive reading literature synthesized](er-publication-bias-limited.md) — related
+- Publication bias evidence is mixed: marginal asymmetry for tutees but no missing studies, and no bias for tutors — related
+- Publication bias analyses suggest possible small-sample bias for SCED studies, with trim-and-fill reducing the adjusted mean effect to 1.01 — related
+- No evidence of dissemination bias was detected in the meta-analysis — related
+- Publication-bias checks indicate limited risk of publication bias in the extensive reading literature synthesized — related
 - [Publication bias is minimal in the meta-analytic estimate of the inhibitory control–mathematical ability correlation](minimal-publication-bias-ic-math-meta-analysis.md) — related
-- [No evidence of publication bias was detected in the pooled L2 gender-difference literature](no-publication-bias-l2-gender-meta-analysis.md) — related
-- [Formal tests find no substantial evidence of publication bias or small-study effects in the meta-analysis](no-publication-bias-math-interventions-co-occurring.md) — related
-- [Funnel-plot asymmetry suggests possible selection or publication bias, but p-curve analyses indicate evidential value for the pooled relationships](publication-bias-asymmetry-but-pcurve-evidential-value.md) — related
+- No evidence of publication bias was detected in the pooled L2 gender-difference literature — related
+- Formal tests find no substantial evidence of publication bias or small-study effects in the meta-analysis — related
+- Funnel-plot asymmetry suggests possible selection or publication bias, but p-curve analyses indicate evidential value for the pooled relationships — related
 - [Publication bias could not be ruled out in the pooled teacher-student SEC estimate, though the association persisted across sensitivity analyses](sec-pooled-estimate-publication-bias-caution.md) — related
 - [Publication bias analyses suggest the pooled effect may be underestimated: trim-and-fill raises the mean effect from g = 0.24 to g = 0.29, with no evidence of funnel plot asymmetry](publication-bias-trim-fill-raises-effect.md) — related
 - [Sensitivity testing indicates the performance effects of tablet use are robust and not subject to moderation effects](tablet-performance-effects-robust.md) — related

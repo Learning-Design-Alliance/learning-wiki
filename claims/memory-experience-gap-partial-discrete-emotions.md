@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: mixed
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: keller-2025
     resource: "https://doi.org/10.1007/s10648-025-09995-1"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Self-reported traits were rated statistically significantly higher than aggregated states for anger (T1, T3), pride (all timepoints), shame (T3), and boredom (T2, T3), while most differences were small and many did not reach significance. [→ Keller 2025](#keller-2025)

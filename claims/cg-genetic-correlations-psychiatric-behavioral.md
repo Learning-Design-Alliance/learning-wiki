@@ -46,6 +46,6 @@ LDSC genetic correlation analysis of Cg summary statistics against PGC and UK Bi
 
 ## Related Claims
 - [Stratified Genomic SEM finds the common factor enriched only in primate-conserved genomic regions](cg-enrichment-primate-conserved-regions.md) — related
-- [A multivariate GWAS on the common factor identifies a genome-wide significant locus on chromosome 12q13.12 that no univariate trait GWAS detected](multivariate-gwas-locus-12q13-12.md) — related
-- [The common factor model is specific to reading and ADHD rather than broader psychiatric liability, and stability analyses support the reading-ADHD structure](common-factor-specificity-reading-adhd.md) — related
+- A multivariate GWAS on the common factor identifies a genome-wide significant locus on chromosome 12q13.12 that no univariate trait GWAS detected — related
+- The common factor model is specific to reading and ADHD rather than broader psychiatric liability, and stability analyses support the reading-ADHD structure — related
 - [A common genetic factor captures shared genetic influences across four reading-related traits and ADHD, with ADHD loading negatively and reading traits positively](common-genetic-factor-reading-traits-adhd.md) — related

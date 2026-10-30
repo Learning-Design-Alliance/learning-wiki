@@ -17,7 +17,7 @@ sources:
 # Treat composition effects as subject-specific when making grouping and differentiation decisions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Because composition effects proved "highly subject-dependent and often differ between achievement and motivation," practitioners should not assume that findings from one subject transfer to another. The article suggests that subject-specific interaction structures may underlie this: mathematics lessons may involve more individual or partner work, whereas language lessons often involve collaborative work with a range of classmates, making achievement differences more salient. Decisions about class placement, tracking, and instructional adaptation should therefore be made per subject rather than on generic composition assumptions.
@@ -37,6 +37,10 @@ Because composition effects proved "highly subject-dependent and often differ be
 ### Target Learning Goals
 - academic achievement
 - academic interest
+
+## Claims
+
+- [Students with higher initial achievement in German benefited more from higher class mean achievement levels](../claims/german-class-mean-achievement-benefits-high-initial-achievers.md) [+W]
 
 ## Related Strategies
 - 

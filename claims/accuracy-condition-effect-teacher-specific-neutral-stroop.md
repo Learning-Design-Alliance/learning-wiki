@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: samuel-fynes-clinton-2022
     resource: "https://doi.org/10.1038/s41539-022-00123-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i3` Accuracy showed a significant main effect of condition (ηp2 = 0.44), driven by lower accuracy for teacher-specific neutral words relative to general negative, general neutral, and teacher-specific negative words. [→ Samuel Fynes-Clinton 2022](#samuel-fynes-clinton-2022)

@@ -46,6 +46,6 @@ A systematic review of 71 articles reports that the most widely documented benef
 
 ## Related Claims
 - [Lecture capture has an adverse impact on lecture attendance, the most widely documented drawback across 20 of 71 reviewed articles](lecture-capture-adverse-impact-attendance.md) — related
-- [Most lecture capture research focuses on the US, UK and Australia, with Biological Sciences the most studied STEM subject area](lecture-capture-research-context-distribution.md) — related
-- [Descriptive and exploratory research dominates the lecture capture literature while causative evidence is relatively limited](lecture-capture-research-limited-causative-evidence.md) — related
+- Most lecture capture research focuses on the US, UK and Australia, with Biological Sciences the most studied STEM subject area — related
+- Descriptive and exploratory research dominates the lecture capture literature while causative evidence is relatively limited — related
 - [Several reviewed studies found no significant relationship between lecture capture viewing and academic performance](lecture-capture-no-significant-performance-relationship.md) — related

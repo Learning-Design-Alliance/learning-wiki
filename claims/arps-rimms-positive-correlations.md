@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: enrico-gandolfi-richard-e-ferdig-2025
     resource: "https://doi.org/10.1007/s11423-025-10446-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i3` ARPS correlates positively with attention, relevance, confidence, and satisfaction as measured by RIMMS, with Pearson r values of .646, .614, .616, and .608 respectively (all p < .001). [→ Enrico Gandolfi · Richard E. Ferdig 2025](#enrico-gandolfi-richard-e-ferdig-2025)

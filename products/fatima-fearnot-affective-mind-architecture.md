@@ -25,7 +25,8 @@ A cognitive-appraisal agent architecture for authoring synthetic agents with goa
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [MIXER (Moderating Interactions for Cross-Cultural Empathic Relationships)](mixer-moderating-interactions-for-cross-cultural-empathic-relationships.md)
 
 ## Key Sources
 - Hall, L., Tazzyman, S., Hume, C., Endrass, B., Lim, M.-Y., Hofstede, G., Paiva, A., Andre, E., Kappas, A., & Aylett, R. (2014). Learning to Overcome Cultural Conflict through Engaging with Intelligent Agents in Synthetic Cultures. Int J Artif Intell Educ. https://doi.org/10.1007/s40593-014-0031-y

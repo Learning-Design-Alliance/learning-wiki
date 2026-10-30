@@ -50,4 +50,4 @@ Delphi survey phase in which 70 international experts rated 15 AI-in-education t
 - [Evolved teacher roles with AI agents rank high in impact but are rated among the most challenging themes, with a negative priority indicator](evolved-teacher-roles-high-impact-high-challenge.md) — related
 - [Automated formative assessment and feedback with AI agents ranks second-highest in impact with moderate perceived challenge](automated-ai-assessment-high-impact-moderate-challenge.md) — related
 - [Monte Carlo simulation confirms weight and score stability of the expert-derived priorities under judgment perturbation](mc-simulation-robustness-ahp-fahp-weights.md) — related
-- [A Delphi panel of twelve international experts agreed on five important areas of development in learning analytics](delphi-experts-five-learning-analytics-development-areas.md) — related
+- A Delphi panel of twelve international experts agreed on five important areas of development in learning analytics — related

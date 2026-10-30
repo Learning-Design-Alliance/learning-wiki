@@ -53,7 +53,7 @@ Table 3 summary of socioemotional propensity findings lists sense of belonging t
 ## Related Claims
 - [Sense of mathematics belonging predicts algebra learning, even after controlling for prior knowledge and background factors](mathematics-belonging-predicts-algebra-learning.md) — a narrower finding that bears on this claim
 - [Belongingness is among the factors that most strongly and reliably affect learners' academic motivation and achievement](belongingness-strongly-affects-motivation-achievement.md) — a broader claim this one bears on
-- [Few algebra studies examine mathematical and motivational/socioemotional propensities in tandem](few-algebra-studies-integrate-propensities.md) — related
+- Few algebra studies examine mathematical and motivational/socioemotional propensities in tandem — related
 - [Integrated models combining mathematical and motivational propensities significantly explain algebra performance](integrated-propensity-model-explains-algebra-performance.md) — related
 - [Mathematics self-efficacy is the most commonly studied motivational propensity and is usually positively related to algebraic thinking](math-self-efficacy-positive-algebra.md) — related
 - [Sense of belonging in learning contexts is robustly associated with psychological well-being, academic motivation, and academic performance](belonging-associated-wellbeing-motivation-performance.md) — a broader claim this one bears on

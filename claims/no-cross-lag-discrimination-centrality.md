@@ -54,5 +54,5 @@ Longitudinal SEM of the three-wave adolescent sample testing racial centrality a
 - [Perceived racial discrimination at Time 1 is negatively linked to public regard at Time 2 among African American adolescents](discrimination-negatively-predicts-public-regard.md) — related
 - [Age moderates the discrimination–private regard relation: discrimination at Time 2 predicts lower private regard at Time 3 among late (17–18) but not middle adolescents](age-moderates-discrimination-private-regard.md) — related
 - [Public regard decreased linearly over time while reported discrimination dipped at Time 2 and rose again at Time 3](public-regard-decreases-discrimination-fluctuates.md) — related
-- [Latent cross-lagged modeling yielded coefficients highly similar to the pooled analyses and a good model fit (CFI = .94, RMSEA = .08, SRMR = .04)](latent-sem-fit-similar-to-pooled-analyses.md) — related
+- Latent cross-lagged modeling yielded coefficients highly similar to the pooled analyses and a good model fit (CFI = .94, RMSEA = .08, SRMR = .04) — related
 - [Three distinct racial-mathematical identity profiles emerge among Black adolescents and are robust across two time points one year apart](three-racial-mathematical-identity-profiles-lpa.md) — related

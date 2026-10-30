@@ -13,7 +13,7 @@ generated:
 # Multidisciplinary project dataset on signaling in multimedia learning with up to 400 participants from 15 classes
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 A research dataset from a multidisciplinary multimedia-learning project involving up to 400 students in 15 classes, with measures of prior knowledge, learning outcomes, ratings, usability, log data, and delayed retention.
@@ -23,7 +23,6 @@ A research dataset from a multidisciplinary multimedia-learning project involvin
 
 ### Claims
 
-- [Domain-specific prior knowledge, mental effort and related ratings serve as moderator or dependent measures in the signaling study](../claims/prior-knowledge-moderator-signaling-dataset.md) [~W]
 
 ## Related Products and Programmes
 

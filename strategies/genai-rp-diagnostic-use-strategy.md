@@ -17,7 +17,7 @@ sources:
 # Use the GenAI-RP Scale as a diagnostic tool to identify institutional resource, training, and support needs for GenAI adoption
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article recommends that institutions and instructors administer the GenAI-RP Scale diagnostically: 'Data collected using this instrument can help identify areas where additional resources, training, or support are needed to enhance student learning through the adoption of GenAI.' Accurate readiness measurement is framed as a precondition for equitable access to GenAI's personalized learning benefits and for instructors optimizing teaching with GenAI feedback. Researchers can also use the instrument to correlate GenAI perceptions with external variables such as motivation, academic performance, or teaching effectiveness.
@@ -44,7 +44,6 @@ The article recommends that institutions and instructors administer the GenAI-RP
 ## Claims
 
 - [The student GenAI-RP readiness scale shows a validated three-factor structure: GenAI Comprehension, Ethical Awareness, and GenAI Utilization and Proficiency](../claims/genai-rp-student-readiness-three-factors.md) [+W]
-- [The Benefit scale's two factors (Effectiveness and Empowerment) fit satisfactorily for both groups, but their near-1.00 correlation suggests a potential unidimensional structure](../claims/genai-rp-benefit-scale-two-factors-unidimensionality.md) [+W]
 - [The Challenge scale's three-factor structure was confirmed for students but did not reach satisfactory fit for faculty](../claims/genai-rp-challenge-scale-faculty-poor-fit.md) [+W]
 - [The faculty readiness scale required two model modifications (a cross-loading item and two residual correlations) to reach adequate fit](../claims/genai-rp-faculty-readiness-modified-model.md) [+W]
 - [No previously validated GenAI perception or readiness instrument was designed for both instructors and students in AI-enhanced higher education](../claims/no-prior-genai-scale-for-both-faculty-and-students.md) [+W]

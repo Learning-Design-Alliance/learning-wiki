@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 1922
+recheck_by: 1927
 sources:
   - id: walter-f-dearborn-and-edward-a-lincoln-1922
     resource: "https://doi.org/10.1037/h0075378"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q1`
-> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1922 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1927**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` The authors report that in the foreign section of a city where adults work mostly in unskilled or semi-skilled labor, IQs on both group and individual examinations are likely to run low. [→ Walter F. Dearborn and Edward A. Lincoln 1922](#walter-f-dearborn-and-edward-a-lincoln-1922)

@@ -65,4 +65,3 @@ The introduction reports the second of two classroom-based studies of Rimac in t
 
 ## Related Claims
 
-- [Part 1 of the Festschrift contains 7 papers on learner modelling and personalization and 4 on evaluation, reflecting Jim Greer's early interests](greer-festschrift-part1-topic-distribution.md)

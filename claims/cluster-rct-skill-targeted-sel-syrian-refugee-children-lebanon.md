@@ -51,7 +51,7 @@ The manuscript title, as printed on the Open Practices Disclosure page, states t
 ## Related Claims
 - [The trial population is Syrian refugee children in Lebanon](trial-population-syrian-refugee-children-lebanon.md) — possibly the same claim (merge candidate)
 - [The trial examines variation in curriculum impact by pre- and post-migration conflict experiences](sel-impact-variation-pre-post-migration-conflict-experiences.md) — related
-- [The article includes an Open Practices Disclosure indicating eligibility for open data, materials, and preregistration badges](open-practices-disclosure-sel-refugee-trial.md) — related
+- The article includes an Open Practices Disclosure indicating eligibility for open data, materials, and preregistration badges — related
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — a broader claim this one bears on
 - [Social and emotional competence can be enhanced through explicit instruction, teaching practices, and curriculum integration](sel-classroom-approaches-three-types.md) — a broader claim this one bears on
 - [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](sel-programs-improve-behavior-and-achievement.md) — a broader claim this one bears on

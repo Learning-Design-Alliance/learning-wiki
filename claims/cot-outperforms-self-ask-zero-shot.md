@@ -10,6 +10,7 @@ generated:
 evidence_strength: weak
 newest_evidence: 2026
 source_checked: 2026-10-28
+recheck_by: 2029
 sources:
   - id: lehesvuori-2026
     resource: "https://doi.org/10.1007/s11423-025-10545-3"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` With GPT-3.5-turbo zero-shot on seven lessons, CoT prompting had a higher F1 (0.2931 vs 0.2789) and precision (0.2818 vs 0.2387) than Self-Ask prompting, but lower recall (0.3054 vs 0.3352) and balanced accuracy (0.6245 vs 0.6289); the authors summarise this as CoT performing better and kept CoT for later experiments. [→ Lehesvuori 2026](#lehesvuori-2026)

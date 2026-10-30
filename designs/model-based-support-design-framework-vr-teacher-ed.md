@@ -41,7 +41,8 @@ The article proposes a design framework for model-based support in simulation-ba
 - 
 
 ## Related Designs
-- 
+
+- [Dual Empowerment (DE) framework: staged instructional integration of VR-based cognitive precision and authentic physical practice](dual-empowerment-framework.md)
 
 ## Examples
 -
