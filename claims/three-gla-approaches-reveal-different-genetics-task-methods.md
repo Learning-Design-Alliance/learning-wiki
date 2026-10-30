@@ -47,3 +47,6 @@ Study of student exploration of high school level Mendelian genetics in the mult
 ## Related Claims
 - [Clustering n-gram flip sequences per task yields three distinct problem-solving strategy groups across the binary challenges](three-strategy-clusters-from-ngram-flip-sequences.md) — related
 - [A BERT-based prediction task distinguishes between successful and unsuccessful math strategies in MATHia, yielding insights into student strategies](bert-predicts-successful-unsuccessful-strategies.md) — related
+- [Gameplay data analysis demonstrated multiple strategies and pathways available to Radix players for quest completion.](radix-multiple-pathways-quest-completion.md) — a narrower finding that bears on this claim
+- [Use of certain tools in the Radix genetics quest may influence content-related game choices.](tool-use-influences-content-related-choices.md) — related
+- [Use of the trait examiner tool in the Radix genetics quest was most likely to lead to quest success, though greater numbers of trait decoder tool uses could also lead to success.](trait-examiner-tool-most-likely-quest-success.md) — related

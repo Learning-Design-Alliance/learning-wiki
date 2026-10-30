@@ -51,3 +51,4 @@ Weighted descriptive statistics from the survey (N = 2,247); mean digital data u
 - [Teacher characteristics from the will-skill-tool model — data literacy, availability of data technologies, and positive beliefs — predict teachers' pedagogical use of digital data, with data literacy the strongest predictor](wst-characteristics-predict-teacher-digital-data-use.md) — related
 - [Teachers' digital competence is a critical factor influencing both AI tool adoption and its pedagogical effectiveness](teacher-digital-competence-critical-ai-adoption.md) — related
 - [Most U.S. schools report teachers are not sufficiently trained to use technology, and half of teachers cite lack of training as a major obstacle](teacher-technology-training-gap.md) — related
+- [The concept of the digital native lacks empirical grounding: children immersed in digital culture do not know how to adopt a critical approach to screens.](digital-native-concept-lacks-empirical-grounding.md) — related

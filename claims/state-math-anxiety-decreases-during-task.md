@@ -71,3 +71,4 @@ Same LMM (Model E) testing the time × trait math anxiety interaction across the
 - [Production paradigms elicit higher state math anxiety than decision paradigms, particularly for individuals with high trait math anxiety](production-paradigms-higher-state-math-anxiety.md) — related
 - [State math anxiety decreases linearly from pre- to post-task, with a stronger decrease for individuals with higher trait math anxiety](state-math-anxiety-decreases-pre-to-post.md) — related
 - [Immediate task repetition benefits oral performance, including fluency, self-correction and reduced anxiety](immediate-repetition-benefits-oral-performance.md) — a broader claim this one bears on
+- [Repeated brief VR exposures reduced state anxiety during the first two practice sessions.](vr-practice-sessions-reduce-state-anxiety.md) — a narrower finding that bears on this claim

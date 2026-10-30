@@ -58,3 +58,4 @@ The article reviews prior task-repetition research (Bygate 2001; Ahmadian and Ta
 - [AI-powered corrective feedback and repeated practice enhance oral language skills (Communicative Capacity Pathway)](ai-improves-speaking-proficiency-feedback-practice.md) — related
 - [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — related
 - [State math anxiety decreases across repeated measurement points during the arithmetic task, consistent with habituation](state-math-anxiety-decreases-during-task.md) — a narrower finding that bears on this claim
+- [Repeated brief VR exposures reduced state anxiety during the first two practice sessions.](vr-practice-sessions-reduce-state-anxiety.md) — a narrower finding that bears on this claim

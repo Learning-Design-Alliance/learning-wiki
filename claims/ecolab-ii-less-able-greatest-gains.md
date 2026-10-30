@@ -49,3 +49,4 @@ Evaluation of Ecolab II in which separate groups of learners used the software e
 - [Children who interacted with multiple complexity phases and completed above-average actions were far more likely to achieve above-average learning gains](ecolab-multi-phase-above-average-gains-odds-ratio.md) — related
 - [Goal orientation affects children's help-seeking behaviour in Ecolab II](goal-orientation-affects-help-seeking-ecolab-ii.md) — related
 - [Matching system goal-orientation feedback to child's goal orientation may improve learning gains](matching-goal-orientation-improves-gains.md) — related
+- [Less able and less knowledgeable learners are ineffective at selecting challenging tasks and seeking support](less-able-learners-ineffective-task-selection.md) — reports the opposite

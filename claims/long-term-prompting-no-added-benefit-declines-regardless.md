@@ -75,3 +75,4 @@ Mixed ANOVA on self-reported metacognitive strategy use across t5–t8 comparing
 - [Short-term prompting increases the quantity of cognitive strategy use in open-ended learning journals, but not the quantity of metacognitive strategy use](prompting-raises-quantity-of-cognitive-strategy-segments.md) — related
 - [Prompted and control groups show no significant differences in separative elaborations within domains or in additions](no-prompt-effect-within-domain-elaborations-additions.md) — related
 - [Self-efficacy increases significantly over the first interval of inquiry training and stays higher through and after training](self-efficacy-rises-early-inquiry-training.md) — related
+- [SRL skills increased over time across all conditions, with no significant differences between conditions](srl-skills-increase-all-conditions.md) — related

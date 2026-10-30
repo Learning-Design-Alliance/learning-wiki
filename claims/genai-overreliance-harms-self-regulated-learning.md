@@ -113,3 +113,4 @@ Narrative review reporting cited evidence that over-reliance on generative AI "m
 - [Computer-based metacognitive scaffolding shows limited evidence of long-term retention or transfer of the scaffolded skills](limited-evidence-long-term-metacognitive-retention.md) — related
 - [Metacognition and critical-thinking tutors show mixed results: Operation ARA gained 1.4 σ, SEEK showed no significant improvement, and MetaTutor's learning-efficiency advantage disappeared when agent time was counted](metacognition-tutoring-mixed-outcomes.md) — related
 - [Sustained interactive dialogue with generative AI over 14 weeks may catalyze rather than constrain learner agency, unlike shorter one-way automated feedback](sustained-ai-dialogue-catalyzes-agency.md) — reports the opposite
+- [A fully scripted, non-generative conversational agent can effectively deliver structured SRL support at scale](scripted-agent-delivers-srl-support.md) — related

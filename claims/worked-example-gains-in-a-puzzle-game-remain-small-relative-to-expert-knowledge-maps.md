@@ -52,3 +52,4 @@ Comparison, in the SafeCracker worked example experiment, of the treatment group
 - The FTS proposes that fading distinguishes expert from non-expert peers via a game-progress threshold, and peer-tutoring collaboration is expected to improve non-expert game progress and knowledge gained — related
 - [Adult players who studied worked examples scored significantly higher on a game-based problem-solving transfer question than a control group](worked-examples-improve-problem-solving-strategy-transfer-in-a-puzzle-game.md) — related
 - [Adult players who studied worked examples scored significantly higher on a game-based problem-solving retention question than a control group](worked-examples-improve-problem-solving-strategy-retention-in-a-puzzle-game.md) — related
+- [Switching from strategy building to puzzle solving overcame the implementation impasse](puzzle-solving-overcame-implementation-impasse.md) — related

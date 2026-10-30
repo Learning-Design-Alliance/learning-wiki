@@ -40,7 +40,8 @@ The report lays out a three-part process for identifying feedback loops in an or
 - [Feedback Loop Structures Taxonomy](../theories/feedback-loop-structures-taxonomy.md)
 
 ## Related Strategies
-- 
+
+- [Analyze gameplay data as part of a feedback loop to improve a digital learning experience.](gameplay-data-feedback-loop-strategy.md)
 
 ## Examples
 -

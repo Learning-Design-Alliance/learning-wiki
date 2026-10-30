@@ -71,3 +71,4 @@ The review's stated caution about language-based interaction: it may improve cla
 - [Textual evidence for interpretive claims appeared in whole-class discussion but students struggled to reason about why evidence supported claims](evidence-in-discussion-but-reasoning-struggle.md) — related
 - [AI-supported design iteration consists of generation, selection, evaluation, and revision rather than one-off generation](ai-iteration-generation-selection-evaluation-revision.md) — related
 - [Embodied hands-on practices remain important learning activities in AI-era design education](embodied-hands-on-remains-present.md) — related
+- [Peer feedback exposed rigidity and techno-centricity in early storyboard designs](peer-feedback-exposed-interface-rigidity.md) — related

@@ -78,3 +78,4 @@ Model comparison on a 20% scenario-held-out test set, with 3-fold cross-validati
 - [SVM with RoBERTa sentence embeddings was the most accurate automatic scoring method (κ = .82) among the four tested combinations](roberta-svm-most-accurate-scoring-pisa.md) — related
 - [Machine learning, including neural nets, can detect localized instances of good or poor collaboration during collaborative learning](neural-nets-detect-collaboration-quality.md) — related
 - [CatBoost is the best-performing algorithm for predicting programme non-completion, with F1-measure of 94.5±0.6, slightly better than Random Forest](catboost-best-f1-programme-completion.md) — reports the opposite
+- [Random Forest is the best classifier for discriminating trained from untrained VR trainees](random-forest-best-classifier-vrts-student-model.md) — related

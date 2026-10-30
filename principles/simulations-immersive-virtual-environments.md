@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 127 claims (51 for, 68 mixed, 8 against) · 90 studies (31 causal, 21 review, 12 quant-synthesis, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 22 of 90 report an effect size · 122 claims rest on one study
+> **Evidence** · 128 claims (52 for, 68 mixed, 8 against) · 91 studies (32 causal, 21 review, 12 quant-synthesis, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 23 of 91 report an effect size · 123 claims rest on one study
 
 ## Conditional relationship
 
@@ -317,6 +317,7 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [Desktop VR with scaffolded interaction and reflective self-explanation reduces extraneous and intrinsic cognitive load compared to traditional instruction](../claims/desktop-vr-scaffolded-self-explanation-cognitive-load.md) [+W] — attached 2026-10-28 from Adurangba Victor Oje (2026), which proposed "Structure VR learning activities with scaffolded interaction and reflective explanation to support learning efficiency and learner confidence"; tests this page's relationship.
 - [An inexpensive mockup was a better training aid than the tank hull trainer for teaching starting and stopping procedures, and actual participation was not required](../claims/mockup-beats-hull-trainer-starting-stopping.md) [+W] — attached 2026-10-29 from Twyford et al. (1955), which proposed "Use inexpensive mockups in place of actual equipment when the training objective does not require actual participation"; tests this page's relationship.
 - [The mockup, hull trainer, and tank were equally effective for teaching instruments-and-controls nomenclature, while the hull trainer beat the tank itself for track and suspension content](../claims/trainer-effectiveness-varies-by-content.md) [~W] — attached 2026-10-29 from Twyford et al. (1955), which proposed "Use inexpensive mockups in place of actual equipment when the training objective does not require actual participation"; tests this page's relationship.
+- [Participants in the 360° VR video condition report higher interest and enjoyment than those learning via traditional video or posters](../claims/360-vr-higher-interest-enjoyment.md) [+W] — attached 2026-10-30 from Araiza-Alba et al. (2020), which proposed "Use 360° VR videos to teach safety skills for hazardous situations without exposing learners to real danger".
 
 ## Objective and learner-valued goal
 

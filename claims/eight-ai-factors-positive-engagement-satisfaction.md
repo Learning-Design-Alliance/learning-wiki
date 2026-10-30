@@ -60,3 +60,4 @@ Systematic review of 30 studies (2020–2025) identified via PRISMA screening of
 - [Teachers have far more power to shape what happens to students than investors or scouts, partly through their opinions of each child](teachers-shape-student-outcomes-through-opinions.md) — related
 - [Chatbot support for goal setting and social presence in fully online activities was evaluated through behavioral engagement from conversation records plus perceptions and interviews](chatbot-engagement-conversation-records-evaluation.md) — a narrower finding that bears on this claim
 - [Investigating factors that influence learners' online interaction and engagement is framed as crucial for e-learning success](interaction-engagement-crucial-elearning-success.md) — a broader claim this one bears on
+- [Information quality, system quality, instructor attitude, assessment diversity, and learner interaction predict satisfaction](five-determinants-of-elearning-satisfaction.md) — related

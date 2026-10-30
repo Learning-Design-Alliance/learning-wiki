@@ -53,7 +53,9 @@ Rubric design is the element in which criteria and performance levels are made e
 - [Competency-Based Learning](../patterns/competency-based-learning.md)
 
 ## Examples
+
 - Learners co-design rubric descriptors before assessing exemplars or peer work.
+- [Use instructor-defined labeled rubric with ordinal levels to structure peer assessment and feedback](../strategies/labeled-rubric-ordinal-peer-assessment.md)
 
 ## Key Sources
 - Andrade, H. G. (2005). Teaching with rubrics: The good, the bad, and the ugly. *College Teaching, 53*(1), 27-31. [https://doi.org/10.3200/CTCH.53.1.27-31](https://doi.org/10.3200/CTCH.53.1.27-31)

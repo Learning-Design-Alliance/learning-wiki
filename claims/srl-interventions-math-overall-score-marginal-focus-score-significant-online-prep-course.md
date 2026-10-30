@@ -82,3 +82,4 @@ A second MANOVA replaced the overall score with a focus score on ten chapters ea
 - [In a randomised control study, university students in the combined condition (online SRL training with mobile-app diaries) improved more than participants in the other conditions](combined-srl-training-with-app-diaries-improved-more.md) — related
 - [Neither diary-keeping nor diary-plus-instruction improved university students' academic performance](no-academic-performance-improvement.md) — related
 - [HPL students learned as much as Scratch students, with equivalent improvement in both conditions](hpl-equivalent-learning-outcomes-scratch.md) — related
+- [SRL skills increased over time across all conditions, with no significant differences between conditions](srl-skills-increase-all-conditions.md) — related

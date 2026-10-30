@@ -51,3 +51,4 @@ Classroom deployment study of the Pulla tool in two courses (68 UH students, Spr
 - [State revisits within solving sessions were rarer in the Pulla deployments (6–12% of UH sessions, 0–3% at Aalto) than the 21–33% previously reported for similar Parsons tasks](state-revisits-rare-in-pulla-deployments.md) — a narrower finding that bears on this claim
 - [Student specification comments are predominantly natural language, except Return statements which show a high proportion of Strict-Code expressions](natural-language-except-strict-code-returns.md) — related
 - [Trace data is the dominant data type LA uses to support feedback in higher education (36% of coded data types)](trace-data-dominant-la-feedback.md) — a broader claim this one bears on
+- [Error patterns in VR trace data associated with misconceptions and confusion are identified via visualization with human expert aid](trace-error-patterns-misconceptions-confusion-vrts.md) — related

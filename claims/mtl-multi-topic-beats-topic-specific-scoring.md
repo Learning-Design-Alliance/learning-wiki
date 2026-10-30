@@ -47,3 +47,4 @@ The survey describes Xue et al. (2021)'s BERT-based multi-task learning essay sc
 ## Related Claims
 - [The multi-task QBERT-RR generalist achieves comparable or better accuracy than single-task SBERT models on question topic, equivalence, and answering tasks](qbert-rr-comparable-or-better-than-single-task.md) — a broader claim this one bears on
 - [Training NQG models on multiple datasets with different answer types improved performance over single-dataset training](multi-dataset-training-improves-nqg-answer-types.md) — a broader claim this one bears on
+- [A multitask matrix factorization approach that jointly learns grades across multiple assessment labels outperforms a single-task (binary relevance) baseline that learns each label separately.](multitask-matrix-factorization-outperforms-single-task-baseline.md) — a narrower finding that bears on this claim

@@ -51,3 +51,4 @@ Multiple regression on the 523-child sample: videogame genres by scenario relate
 - [Boys in both Turkish and British samples spend more time playing videogames than girls](boys-more-videogame-time-both-cultures.md) — related
 - [Casual games yield social and emotional benefits when sought for those purposes, played mindfully, and used within robust social contexts, but negative effects in other contexts](casual-games-social-emotional-benefits-context-dependent.md) — related
 - [Girls' social problem-solving scores exceed boys' overall and in the Turkish sample but not in the British sample](girls-higher-spsic-turkish-not-british.md) — related
+- [Switching from strategy building to puzzle solving overcame the implementation impasse](puzzle-solving-overcame-implementation-impasse.md) — related

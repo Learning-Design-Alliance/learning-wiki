@@ -26,7 +26,7 @@ sources:
 # Goal Setting & Monitoring
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 13 claims (7 for, 5 mixed, 1 against) · 18 studies (5 quant-synthesis, 5 review, 4 causal, 4 theoretical), `q1`–`q4` · 3 of 18 report an effect size · 7 claims rest on one study
+> **Evidence** · 15 claims (8 for, 5 mixed, 2 against) · 19 studies (5 causal, 5 quant-synthesis, 5 review, 4 theoretical), `q1`–`q4` · 4 of 19 report an effect size · 9 claims rest on one study
 
 ## Conditional relationship
 
@@ -108,6 +108,7 @@ Keep the task, learners, comparator (no goal, "do your best", outcome goal), out
 <!-- Restored 2026-10-02 (maintainer's decision): claims this page cited before the 2026-10-02 rewrite, which kept only claims whose sources it had re-read. Each marker keeps its old direction, capped by the claim's recorded evidence (strength_cap); each label says how far the claim's own entries have been checked against their sources by check_load_bearing.py. None has been re-read for the conditional model above, so treat them as candidates for it, not as part of it. -->
 Claims this page cited before it was rewritten as a conditional model. Both claims it cited before the 2026-10-02 rewrite are now read above as core evidence, so none remains here; the old `[+S]` marker on the specific-goals claim is capped at `[+M]` by its recorded evidence.
 - [Pre-post performance improvement with the robot was credibly lower in the control and outcome conditions than the process condition](../claims/pre-post-with-robot-negative-control-outcome.md) [+W] — attached 2026-10-26 from Tsuda et al. (2026), which proposed "Decompose rehabilitation goals into achievable components and continually adjust them to sustain self-efficacy"; tests this page's relationship.
+- [Monitoring support delivered via a scripted conversational agent significantly improves goal attainment compared with reflection-only and control conditions](../claims/monitoring-improves-goal-attainment.md) [+M] — attached 2026-10-30 from Martins van Jaarsveld et al. (2025), which proposed "Prioritize goal-monitoring activities in SRL interventions to support the transition from goal setting to goal striving"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -127,6 +128,7 @@ Effects on effort, persistence, completion, on-task behaviour, self-efficacy, im
 - [The tribute reports that process and transitional goals could outperform outcome goals in dart-throwing practice](../claims/process-transitional-goals-outperform-outcome-goals-dart-throwing.md) [~W]
 - [Goal-setting interventions with action plans and public commitment improved academic performance (review-reported)](../claims/goal-setting-intervention-academic-performance-gains.md) [+W]
 - [Goal condition showed no credible effects on post-test performance, robot-specific self-efficacy, softness, negative perceptions, or satisfaction](../claims/goal-condition-null-on-performance-and-other-outcomes.md) [-W]
+- [Neither time nor the condition-by-time interaction significantly affected goal attainment over the five-week intervention](../claims/no-time-or-interaction-effect-goal-attainment.md) [-W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — goals provide the structure that can be scaffolded and then faded.

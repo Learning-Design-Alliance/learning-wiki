@@ -82,3 +82,5 @@ Planned pre-to-post gain contrasts in the randomized four-group trial: "Groups C
 - [Strategy Instruction Improves Academic Performance](strategy-instruction-improves-academic-performance.md) — related
 - [Most included studies report a significant positive metacognition–math association, with some null and mixed findings](most-studies-significant-positive-association.md) — related
 - [Strategy Instruction Improves Learning](strategy-instruction-improves-learning.md) — related
+- [The monitoring and reflection intervention had no significant effect on post-intervention academic performance](no-academic-performance-effect.md) — related
+- [A fully scripted, non-generative conversational agent can effectively deliver structured SRL support at scale](scripted-agent-delivers-srl-support.md) — related

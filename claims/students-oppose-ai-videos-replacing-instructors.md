@@ -60,3 +60,4 @@ Likert items on future inclusion of AI videos in coursework, from the same post-
 - [Nearly nine in ten students ranked a personalized video as their top choice](personalized-video-top-choice-88-percent.md) — related
 - [Students preferred human-recorded over AI-generated videos when personalization was held constant, but this effect was smaller than the personalization effect](human-presence-preference-smaller-than-personalization.md) — related
 - [Participants reported preferring learning from videos over learning from digital texts](students-prefer-learning-from-videos.md) — related
+- [Human-made teaching videos produce a statistically significant but small advantage over AI-generated videos in participants' learning experience ratings](human-made-videos-small-advantage-learning-experience.md) — related

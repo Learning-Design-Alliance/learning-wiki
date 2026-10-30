@@ -50,3 +50,4 @@ Numerical result from the real ASAG system evaluation on the UNT dataset (Fig. 7
 - [GPT-4 surpasses other LLMs in the AGE query selection with an accuracy rate 15% better](gpt4-surpasses-other-llms-15-percent.md) — related
 - [The two-stage query with SCS elevates grading process up to 40% on the LL dataset and up to 30% at the beginning on the JRL dataset compared to conventional AL](age-elevates-grading-ll-jrl.md) — related
 - [On the SciC classification task, AGE achieves more than 80% accuracy after roughly the first 30 graded student answers](age-over-80-percent-accuracy-scic.md)
+- [A matrix factorization model trained on sparse peer assessment data can predict grades for answers from students who did not participate in grading, reducing the grading burden on students.](matrix-factorization-predicts-grades-for-nongrading-students.md) — related

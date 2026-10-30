@@ -49,6 +49,7 @@ The article recommends that business programmes move towards structured AI liter
 - [Institutional governance should establish practical conditions supporting AI literacy, learner agency, and critical evaluation rather than relying on prohibition and detection](governance-beyond-prohibition-detection.md)
 - [Embed GenAI literacy and ethical use directly in nursing curricula rather than prohibiting it](embed-genai-literacy-ethics-nursing-curricula.md)
 - [Focus staff development on the judgement work of AI integration rather than tool training](staff-development-judgement-work-of-ai-integration.md)
+- [Supersede restriction-based education and advance toward education that makes new generations aware of the negative consequences of technology use.](move-beyond-restriction-based-screen-education.md)
 
 ## Examples
 -

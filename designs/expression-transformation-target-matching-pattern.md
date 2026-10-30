@@ -40,7 +40,8 @@ The core design pattern of FH2T is a transformation puzzle: "The program present
 ### Claims
 
 ## Related Designs
-- 
+
+- [Diagnostic computer-based arithmetical puzzle task implemented in Imagine Logo](imagine-logo-arithmetical-puzzle-task.md)
 
 ## Examples
 -

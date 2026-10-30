@@ -55,3 +55,4 @@ Model comparison of CFA, ESEM, bifactor-CFA and bifactor-ESEM on separate formal
 - [The AITAQS item pool shows sampling adequacy for factor analysis, with KMO = 0.758 and a significant Bartlett test (χ² = 438.75, df = 66, p < 0.001).](aitaqs-kmo-bartlett-adequacy.md) — related
 - [Principal component analysis of the AITAQS extracts four factors accounting for 65.421% of variance, with item loadings from 0.64 to 0.85 matching the four hypothesized dimensions.](aitaqs-four-factor-pca-structure.md) — related
 - [DL performance comprises a general dimension plus four tool-specific residual dimensions, with the specific dimensions defined by the software applications used](dl-bifactor-general-plus-tool-specific.md) — related
+- [TEDDICS comprises three factors — accessing, evaluating, and sharing and communicating digital information — best represented by ESEM rather than CFA](teddics-three-factor-esem-structure.md) — related

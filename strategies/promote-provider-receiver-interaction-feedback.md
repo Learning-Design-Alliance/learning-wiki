@@ -50,6 +50,7 @@ The authors recommend increasing the effectiveness of modeling examples by stimu
 
 - [Use clear assessment criteria and consider anonymity carefully when designing peer feedback interventions to reduce friendship bias](clear-criteria-and-careful-anonymity-against-friendship-bias.md)
 - [Directly teach students when, why, and how to elaborate on new information](directly-teach-elaborative-processing-strategies.md)
+- [Implement a structured PFB template and foresee multiple practice occasions when involving students as assessors and assessees](structured-pfb-template-multiple-practice-occasions.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ ITT estimate (Table 7) from the cluster RCT, using an index adapted from the CAQ
 - [Students in secondary mathematics report high acceptance of the domain-specific AI chatbot ADA across all Technology Acceptance Model dimensions](ada-high-tam-acceptance-secondary-math.md) — related
 - [Teachers report strongly positive attitudes toward AI, low concern, high confidence in using AI tools, and strong but uneven institutional support](descriptive-profile-teacher-ai-attitudes-concerns-confidence.md) — related
 - [University students held positive attitudes toward GAI in DST creation but expressed moderate concern about over-reliance and low concern about reduced social interaction](student-perceptions-gai-dst-mixed-attitudes.md) — related
+- [Computer-assisted instruction improved attitudes toward mathematics and toward computer-assisted learning](frizbi-improved-attitudes.md) — related

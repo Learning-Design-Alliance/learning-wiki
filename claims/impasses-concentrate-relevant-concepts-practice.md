@@ -50,3 +50,4 @@ Cross-tabulation of 6,630 impasse turns across eight problem-solving practices i
 - [Prompt specificity changes AI tutor pedagogy: a no-direct-answer guardrail alone produces uniform questioning, while a detailed guided protocol produces varied, impasse-sensitive responses](prompt-specificity-shapes-tutor-pedagogy.md) — related
 - [The association between tutor questioning and impasse recovery decays as impasses persist, while addressing the student's error becomes more beneficial](questioning-benefit-decays-with-impasse-depth.md) — related
 - [After a failed scripted question, repeating it is followed by lower recovery than switching to addressing the student's error](repeating-scripted-question-lowers-recovery.md) — related
+- [Switching from strategy building to puzzle solving overcame the implementation impasse](puzzle-solving-overcame-implementation-impasse.md) — related

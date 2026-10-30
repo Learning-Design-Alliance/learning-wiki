@@ -46,3 +46,4 @@ Thematic analysis of the open-ended surveys in the absolute leaderboard study; a
 - [Bottom-ranked students prefer anonymous comparison on an absolute leaderboard but public comparison on a relative leaderboard](position-dependent-preference-for-anonymous-versus-public-ranking.md) — related
 - [On an absolute leaderboard, top-ranked online students report significantly higher post-intervention intrinsic motivation than bottom-ranked students](absolute-leaderboard-top-ranked-higher-intrinsic-motivation.md) — related
 - [On a relative leaderboard, intrinsic motivation is equal across top, middle, and bottom ranked students](relative-leaderboard-equal-intrinsic-motivation.md) — related
+- [Collaborative learning did not appear to sustain trainees' motivation in the online programme](collaborative-learning-did-not-sustain-motivation.md) — related

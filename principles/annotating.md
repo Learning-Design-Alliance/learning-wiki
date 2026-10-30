@@ -13,7 +13,7 @@ generated:
 # Annotating
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (10 for, 15 mixed, 4 against) · 36 studies (15 causal, 8 review, 6 quant-synthesis, 3 associational, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 8 of 36 report an effect size · 20 claims rest on one study
+> **Evidence** · 31 claims (10 for, 16 mixed, 5 against) · 37 studies (15 causal, 8 review, 6 quant-synthesis, 4 associational, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 8 of 37 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -113,6 +113,8 @@ Part 1 should weaken if well-selected learner highlighting fails to improve perf
 - [Appropriately identifying the author's statement and grounds while underlining was not associated with essay coherence or constructiveness scores](../claims/identification-during-underlining-not-critical-for-essay-quality.md) [~W]
 - [The two classes did not differ in the amount of underlining/highlighting or in appropriate identification of the argument while underlining](../claims/no-class-difference-in-underlining-amount-or-identification.md) [-W]
 - [Learners using annotations report higher self-assessed knowledge gain than learners using hyperlinks](../claims/annotations-higher-self-assessed-knowledge-gain.md) [+W]
+- [Tablet-supported annotation and sharing is associated with higher performance on procedural, equation-based exam questions](../claims/tablet-annotation-higher-procedural-performance.md) [~W]
+- [Tablet-supported annotation and sharing is associated with lower performance on theoretical, extended-response exam questions](../claims/tablet-annotation-lower-theoretical-performance.md) [-W]
 
 ## Related Principles
 - [Note-taking](note-taking.md) — annotation is note-taking anchored directly to a source text

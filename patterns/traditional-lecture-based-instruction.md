@@ -21,7 +21,7 @@ sources:
 # Traditional Lecture-Based Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 29 claims (2 for, 18 mixed, 9 against) · 38 studies (10 review, 9 causal, 7 theoretical, 5 qualitative, 4 quant-synthesis, 2 associational, 1 design), `q1`–`q4` · 5 of 38 report an effect size · 22 claims rest on one study
+> **Evidence** · 30 claims (3 for, 18 mixed, 9 against) · 39 studies (10 causal, 10 review, 7 theoretical, 5 qualitative, 4 quant-synthesis, 2 associational, 1 design), `q1`–`q4` · 5 of 39 report an effect size · 23 claims rest on one study
 
 ## Description and scope
 
@@ -151,6 +151,7 @@ This pattern is scoped to courses where a lecturer's explanation to a whole grou
 - [Lecture-based learning events show a clearer decline in EDA across within-event segments than flipped learning events](../claims/lecture-based-events-clearer-eda-decline-across-segments.md) [~W]
 - [The within-student pre–post valence association holds in the lecture-based group but not in the flipped group, while between-student associations are positive in both](../claims/pre-post-valence-stability-varies-by-implementation.md) [~W]
 - [Probability of failing is higher under traditional methodology](../claims/traditional-methodology-higher-failure-probability.md) [-W]
+- [Computer-assisted instruction with Frizbi Mathematics 4 improved fourth-grade mathematics achievement more than traditional lecture-based instruction](../claims/frizbi-cai-improved-achievement.md) [+W]
 
 ## Related Patterns
 - [Direct Instruction](direct-instruction.md) — the explain, model, guided-practice and hand-over policy; a lecture segment is its explanation step delivered to a large group

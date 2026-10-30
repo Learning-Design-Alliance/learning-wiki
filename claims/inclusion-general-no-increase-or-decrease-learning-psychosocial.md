@@ -64,3 +64,4 @@ The review's authors' conclusion drawn from three non-significant random effects
 - [Inclusion shows a negligible, non-significant pooled difference for language and literacy learning outcomes](inclusion-language-literacy-smd-004-nonsignificant.md) — a narrower finding that bears on this claim
 - [Inclusion shows a negligible, non-significant pooled difference for math learning outcomes](inclusion-math-outcomes-smd-005-nonsignificant.md) — a narrower finding that bears on this claim
 - [A state funding report's research review, citing earlier studies, states that inclusive preschool special education benefits students with and without disabilities and that effective early education reduces later special education identification](inclusive-preschool-benefits-reduced-identification.md) — reports the opposite
+- [Including pupils with certified special needs strengthened the study results](special-needs-inclusion-strengthens-vr-results.md) — reports the opposite

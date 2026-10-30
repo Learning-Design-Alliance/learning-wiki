@@ -27,7 +27,8 @@ Graphical Jogthrough is a modification of the typical Jogthrough method for eval
 - [Graphical Jogthrough applied to educational software offers quantitative and qualitative data for a rough estimation of the novice–becoming–expert pace](../claims/graphical-jogthrough-estimates-novice-expert-pace.md) [+W]
 
 ## Related Research Methods
--
+
+- [Annotated log documentation technique for single-learner collaboration](annotated-log-documentation-technique-for-single-learner-collaboration.md)
 
 ## Key Sources
 - Stavros Demetriadis, Athanasios Karoulis, Andreas Pombortsis. (1999). “Graphical” Jogthrough: expert based methodology for user interface evaluation, applied in the case of an educational simulation interface. Computers and Education. https://telearn.hal.science/hal-00197391

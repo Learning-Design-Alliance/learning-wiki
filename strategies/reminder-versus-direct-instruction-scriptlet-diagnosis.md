@@ -46,7 +46,8 @@ This implementable strategy operationalizes adaptive external support: when a sc
 - [Fading of instructional support in collaborative argumentation has produced mixed results, with effectiveness depending on the fading criterion used](../claims/fading-collaborative-argumentation-mixed-results.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Use adaptable collaboration scripts that fade structure in or out over time according to students' needs](fade-peer-assessment-structure-over-time.md)
 
 ## Examples
 -

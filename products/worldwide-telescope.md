@@ -31,7 +31,8 @@ WorldWide Telescope is an interactive scientific data-visualization and aggregat
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Microsoft PowerPoint](microsoft-powerpoint.md)
 
 ## Key Sources
 - Nathan E. Sanders, Chris Faesi, Alyssa A. Goodman. (2013). A New Approach to Developing Interactive Software Modules through Graduate Education. https://arxiv.org/abs/1308.1908

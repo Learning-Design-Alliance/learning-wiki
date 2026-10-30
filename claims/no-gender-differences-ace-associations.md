@@ -61,3 +61,4 @@ Interactions between gender and each ACE operationalisation were tested in the m
 - [Studies of preservice teachers found no statistically significant associations between gender or other sociodemographic variables and AHS](no-gender-sociodemographic-ahs-association.md) — related
 - [Girls scored significantly higher than boys on writing quality, handwriting fluency, and attitude toward writing](girls-outperform-boys-on-grade-2-writing-measures.md) — related
 - [Demographic and socioeconomic variables did not significantly predict parental resistance to educational smartphone use](demographics-do-not-predict-parental-resistance.md) — related
+- [Higher socioeconomic index predicts better pressure scores, but gender does not](ses-predicts-pressure-scores-gender-does-not.md) — related

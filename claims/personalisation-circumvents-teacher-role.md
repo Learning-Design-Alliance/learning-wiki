@@ -50,3 +50,4 @@ Theoretical argument in the commentary: framing benefits as obvious relocates th
 - [The commentary argues 'learning at your own pace' is a contradiction in terms that presupposes a deficit view of knowledge](own-pace-contradiction-in-terms.md) — possibly the same claim (merge candidate)
 - [The commentary argues that the 'one size fits all' critique of common curricula mischaracterises both the empirical reality and the professional ideal of education](one-size-fits-all-neither-reality-nor-ideal.md) — related
 - [AI chatbots enable flexible personalized learning by adapting teaching strategies to individual student needs](chatbot-flexible-personalized-learning.md) — related
+- [SWOT analysis concluded blended learning is the ideal future teaching concept and e-Learning implementation creates new cooperation opportunities without saving time](swot-blended-learning-ideal-concept.md) — related

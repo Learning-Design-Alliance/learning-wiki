@@ -73,3 +73,4 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [Three barriers impede replication, meta-analysis, and large-scale impact research: funding, researcher incentives, and instrument sharing](three-barriers-replication-impact-research.md) — related
 - [Teachers support interdisciplinary curriculum integration but identify resource limitations, not curricular constraints, as the main barrier](e-textile-steam-integration-attitudes-barriers.md) — related
 - [MISTT analysis revealed mismatches in teacher identity expectations which may hinder effective technology integration](mistt-identity-expectation-mismatches-hinder-technology-integration.md) — related
+- [Some teachers declined to use the VCL citing organisational difficulties and curriculum fit](teachers-declined-vcl-organisational-curriculum.md) — a narrower finding that bears on this claim

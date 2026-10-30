@@ -49894,5 +49894,509 @@
  "technology-tool\tAI text generation\tAI video creation": {
   "label": "AI text generation vs AI video creation",
   "treatment_is_a": true
+ },
+ "autonomy-support\taccessibility in time and place\tother enrollment factors": {
+  "label": "accessible in time and place vs other enrollment factors",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tteacher-led demonstration of VCL features\tstudents explore and play with the VCL beforehand": {
+  "label": "explicit instruction vs exploration",
+  "treatment_is_a": true
+ },
+ "feedback-type\tpeer assessment using multiple annotation labels plus an overall grade\tpeer assessment providing only a final grade": {
+  "label": "peer assessment with annotation labels plus an overall grade vs grade-only peer assessment",
+  "treatment_is_a": true
+ },
+ "feedback-type\tpeer grading with instructor-defined annotation labels plus an overall grade\tpeer grading with an overall grade only": {
+  "label": "peer assessment with annotation labels plus an overall grade vs grade-only peer assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tcontent checklist condition after the structuring intervention\tcontent checklist condition before the structuring intervention": {
+  "label": "after vs before structuring intervention",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tcontrol condition after the structuring intervention\tcontrol condition before the structuring intervention": {
+  "label": "after vs before structuring intervention",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tfeedback request condition after the structuring intervention\tfeedback request condition before the structuring intervention": {
+  "label": "after vs before structuring intervention",
+  "treatment_is_a": true
+ },
+ "formative-assessment\trequest plus content condition after the structuring intervention\trequest plus content condition before the structuring intervention": {
+  "label": "after vs before structuring intervention",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlater VR practice session\tearlier VR practice session": {
+  "label": "later vs earlier practice session",
+  "treatment_is_a": true
+ },
+ "prompts\tMonitoring & Reflection\tControl": {
+  "label": "monitoring and reflection prompts vs control",
+  "treatment_is_a": true
+ },
+ "prompts\tMonitoring & Reflection\tReflection Only": {
+  "label": "monitoring and reflection prompts vs reflection-only prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tMonitoring Only\tControl": {
+  "label": "monitoring-only prompts vs control",
+  "treatment_is_a": true
+ },
+ "prompts\tMonitoring Only\tReflection Only": {
+  "label": "monitoring-only prompts vs reflection-only prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tMonitoring and/or reflection support\tControl": {
+  "label": "monitoring and/or reflection support vs control",
+  "treatment_is_a": true
+ },
+ "prompts\tfeedback request at time 2\tbaseline at time 1 without feedback request": {
+  "label": "feedback request vs no feedback request",
+  "treatment_is_a": true
+ },
+ "prompts\tfive-week scripted-agent goal-setting intervention\tpre-intervention baseline": {
+  "label": "scripted-agent goal-setting intervention vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "prompts\tlater goal-attainment measurement points\tearlier goal-attainment measurement points": {
+  "label": "later goal-attainment measurement points vs earlier goal-attainment measurement points",
+  "treatment_is_a": true
+ },
+ "prompts\tmonitoring and reflection prompts\tcontrol goal-setting support without monitoring or reflection": {
+  "label": "monitoring and reflection prompts vs control",
+  "treatment_is_a": true
+ },
+ "prompts\tmonitoring/reflection conditions over time\tcontrol condition over time": {
+  "label": "monitoring/reflection support vs control",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcontent checklist\tno content checklist": {
+  "label": "content checklist vs no content checklist",
+  "treatment_is_a": true
+ },
+ "scaffolding\tfeedback request condition\tcombination condition": {
+  "label": "feedback request plus content checklist vs feedback request alone",
+  "treatment_is_a": false
+ },
+ "scaffolding\tfeedback request condition\tconditions without a feedback request": {
+  "label": "feedback request vs no feedback request",
+  "treatment_is_a": true
+ },
+ "scaffolding\tfeedback request condition\tcontent checklist condition": {
+  "label": "feedback request vs content checklist",
+  "treatment_is_a": true
+ },
+ "scaffolding\tfeedback request plus content checklist at time 2\tbaseline at time 1 without the added scripts": {
+  "label": "additional scaffolding scripts vs baseline without added scripts",
+  "treatment_is_a": true
+ },
+ "scaffolding\tlater feedback cycles (times 2 and 3)\tinitial feedback cycle": {
+  "label": "later feedback cycles vs initial feedback cycle",
+  "treatment_is_a": true
+ },
+ "scaffolding\tscripted conditions with a feedback request and/or content checklist\tcontrol condition with the peer-feedback template only": {
+  "label": "additional scaffolding scripts vs peer-feedback-template-only control",
+  "treatment_is_a": true
+ },
+ "technology-tool\t360° VR video\tposter": {
+  "label": "360° VR video vs poster",
+  "treatment_is_a": true
+ },
+ "technology-tool\t360° VR video\ttraditional video": {
+  "label": "360° VR video vs traditional video",
+  "treatment_is_a": true
+ },
+ "technology-tool\t360° VR video without instructor interaction\ttraditional video and poster instruction with instructor interaction": {
+  "label": "360° VR video without instructor interaction vs traditional video/poster instruction with instructor interaction",
+  "treatment_is_a": true
+ },
+ "technology-tool\t360° VR videos\tposter": {
+  "label": "360° VR video vs poster",
+  "treatment_is_a": true
+ },
+ "technology-tool\t360° VR videos\ttraditional video": {
+  "label": "360° VR video vs traditional video",
+  "treatment_is_a": true
+ },
+ "technology-tool\t360° VR videos\ttraditional video and poster": {
+  "label": "360° VR video vs traditional video and poster",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI tools for grading, feedback and routine administrative tasks\tmanual or non-AI teacher work": {
+  "label": "AI-supported teacher work vs manual or non-AI teacher work",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based English learning support system\tno AI support system": {
+  "label": "AI learning support vs no AI support",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based open schooling activities within CARE-KNOW-DO\tnot stated": {
+  "label": "AI-supported learning activity vs unspecified alternative",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based teaching and learning\tunspecified alternative": {
+  "label": "AI-supported teaching and learning vs unspecified alternative",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven EFL tools\ttraditional learning methods": {
+  "label": "AI-driven EFL tools vs traditional EFL learning",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven EFL tools and applications\ttraditional EFL teaching": {
+  "label": "AI-driven EFL tools vs traditional EFL teaching",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven personalized support and learning analytics\tnon-AI teaching and assessment": {
+  "label": "AI-driven personalized support and learning analytics vs non-AI teaching and assessment",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven systems for personalized learning\tnon-AI learning approaches": {
+  "label": "AI-driven personalized learning systems vs non-AI learning approaches",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enabled EFL learning\tnon-AI or traditional instruction": {
+  "label": "AI-enabled EFL learning vs non-AI or traditional instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enabled EFL teaching\ttraditional EFL pedagogy": {
+  "label": "AI-enabled EFL teaching vs traditional EFL pedagogy",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enabled EFL tools and applications\ttraditional or non-AI instruction not uniformly specified": {
+  "label": "AI-enabled EFL tools vs traditional or non-AI instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enabled learning analytics and automatic feedback\tunspecified alternative": {
+  "label": "AI-enabled learning analytics and automatic feedback vs unspecified alternative",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-featured computational problem-solving with ChatGPT\tconventional computational problem-solving": {
+  "label": "AI-featured computational problem solving with ChatGPT vs conventional computational problem solving",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-featured essay research and writing\tconventional essay research and writing": {
+  "label": "AI-featured essay research and writing vs conventional essay research and writing",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-featured essay writing with ChatGPT\tconventional essay research and writing": {
+  "label": "AI-featured essay writing with ChatGPT vs conventional essay research and writing",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-featured essay-writing with ChatGPT\tconventional essay-writing research methods": {
+  "label": "AI-featured essay writing with ChatGPT vs conventional essay-writing research methods",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated context-personalized learning material\tAI-generated standard learning material": {
+  "label": "AI-generated context-personalized learning material vs AI-generated standard learning material",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated feedback before submission\tfeedback received only through traditional instructor review": {
+  "label": "AI-generated pre-submission feedback vs traditional instructor review only",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated mentoring in simulated classroom environments\thuman expert mentoring": {
+  "label": "AI-generated mentoring vs human expert mentoring",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated teaching videos\thuman-generated teaching videos": {
+  "label": "AI-generated teaching videos vs human-generated teaching videos",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated thesis content\tnon-AI-generated content": {
+  "label": "AI-generated thesis content vs non-AI-generated content",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-integrated PBL inquiry\tPBL without AI": {
+  "label": "AI-integrated PBL inquiry vs PBL without AI",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-integrated database course\tpre-instruction baseline": {
+  "label": "AI-integrated database course vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-integrated database course with prompting, critique, and error analysis\tpre-course baseline assessment": {
+  "label": "AI-integrated database course with prompting, critique, and error analysis vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-integrated database design course with structured prompting, critique, and error analysis\tpre-course assessment baseline": {
+  "label": "AI-integrated database design course with structured prompting, critique, and error analysis vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-integrated doctoral writing process\ttraditional discrete-stage composition process": {
+  "label": "AI-integrated doctoral writing process vs traditional discrete-stage composition",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-integrated literacy lessons\tno comparison condition reported": {
+  "label": "AI-integrated literacy lessons vs unspecified alternative",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-integrated literacy lessons\tnot stated": {
+  "label": "AI-integrated literacy lessons vs unspecified alternative",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-integrated online learning\tnot reported": {
+  "label": "AI-integrated online learning vs unspecified alternative",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-integrated online learning\tonline learning without AI or conventional instruction": {
+  "label": "AI-integrated online learning vs online learning without AI or conventional instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-integrated role-rotation case analysis\tno comparison condition": {
+  "label": "AI-integrated role-rotation case analysis vs unspecified alternative",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-integrated role-rotation model\tno comparison condition reported": {
+  "label": "AI-integrated role-rotation model vs unspecified alternative",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-integrated science teaching with teacher ethical supervision\tnot stated": {
+  "label": "AI-integrated science teaching with teacher ethical supervision vs unspecified alternative",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-integrated teaching, learning, and administrative systems\tconventional non-AI provision": {
+  "label": "AI-integrated teaching, learning, and administration vs conventional non-AI provision",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-integrated teaching, learning, assessment, or curriculum tools\ttraditional or existing educational practices": {
+  "label": "AI-integrated educational tools vs traditional or existing educational practices",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-labeled rewrites after Undetectable AI v11 humanization\tAI-labeled rewrites before humanization": {
+  "label": "AI-labeled rewrites after humanization vs before humanization",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-led assistance\tpeer feedback": {
+  "label": "AI-led assistance vs peer feedback",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-mediated activity design and redesign\tinitial unmediated activity design": {
+  "label": "AI-mediated activity redesign vs initial unmediated activity design",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-mediated artifact used as evidence of competence\tartifact produced without generative AI used as evidence": {
+  "label": "AI-mediated artifact as competence evidence vs non-AI-produced artifact as competence evidence",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-mediated authentic interaction simulation\tnon-AI or unspecified comparison": {
+  "label": "AI-mediated authentic interaction simulation vs non-AI or unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-mediated classroom interaction\tteacher-centered knowledge transmission": {
+  "label": "AI-mediated classroom interaction vs teacher-centered knowledge transmission",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-mediated cognitive hands-on\tembodied hands-on": {
+  "label": "AI-mediated cognitive hands-on activity vs embodied hands-on activity",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-mediated cognitive hands-on\tembodied hands-on through making and material manipulation": {
+  "label": "AI-mediated cognitive hands-on activity vs embodied hands-on making and material manipulation",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-mediated cognitive interaction\tembodied hands-on practice": {
+  "label": "AI-mediated cognitive interaction vs embodied hands-on practice",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-mediated collaboration\thuman-only or non-AI collaboration": {
+  "label": "AI-mediated collaboration vs human-only or non-AI collaboration",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-mediated education in culturally and religiously grounded contexts\tTraditional forms of scholarly authority and pedagogical relationships": {
+  "label": "AI-mediated education vs traditional scholarly authority and pedagogical relationships",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-mediated intervention by Spritz\tdirect request from a teammate": {
+  "label": "AI-mediated intervention by Spritz vs direct request from a teammate",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-mediated language interaction with technical instability\tnot stated": {
+  "label": "AI-mediated language interaction with technical instability vs unspecified alternative",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-mediated magnetism activity design\tinitial unmediated activity design": {
+  "label": "AI-mediated magnetism activity design vs initial unmediated activity design",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-mediated private prompting and anonymized synthesis\tdirect teammate-to-teammate disagreement": {
+  "label": "AI-mediated private prompting and anonymized synthesis vs direct teammate-to-teammate disagreement",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-mediated prompting as an iterative language interface\tlanguage used only to explain a completed design": {
+  "label": "AI-mediated iterative prompting interface vs language used only to explain a completed design",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-mediated self-testing\tlearner-generated self-testing": {
+  "label": "AI-mediated self-testing vs learner-generated self-testing",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-mediated speaking practice\tconventional instruction or baseline performance": {
+  "label": "AI-mediated speaking practice vs conventional instruction or baseline performance",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-mediated speaking practice\tnon-AI or teacher-led speaking practice": {
+  "label": "AI-mediated speaking practice vs non-AI or teacher-led speaking practice",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-model grading\thuman-teacher grading": {
+  "label": "AI-model grading vs human-teacher grading",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-optimized scheduling systems\tnot stated": {
+  "label": "AI-optimized scheduling systems vs unspecified alternative",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-peer integrated feedback\tconventional peer feedback": {
+  "label": "AI-peer integrated feedback vs conventional peer feedback",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-permitted CS1-CR with mandatory code reviews\tFall 2024 AI-prohibited course": {
+  "label": "AI-permitted CS1-CR with mandatory code reviews vs AI-prohibited course",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-permitted research-shaped homework\tno reported comparison condition": {
+  "label": "AI-permitted research-shaped homework vs unspecified alternative",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-permitted research-shaped homework\ttraditional tools without AI or standard homework": {
+  "label": "AI-permitted research-shaped homework vs traditional tools without AI or standard homework",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-permitted, collaborative, resource-rich homework\tindividual, AI- and tools-free written examination": {
+  "label": "AI-permitted collaborative resource-rich homework vs individual AI-free written examination",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-personalized learning and feedback\tnot using AI personalization": {
+  "label": "AI-personalized learning and feedback vs no AI personalization",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-powered AWE tools\tnot stated": {
+  "label": "AI-powered AWE tools vs unspecified alternative",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-powered automated assessment tools using natural language processing\tnot stated": {
+  "label": "AI-powered automated assessment tools vs unspecified alternative",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-powered chatbot use\tnot stated": {
+  "label": "AI-powered chatbot use vs unspecified alternative",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-powered chatbot use by educators\tnot stated": {
+  "label": "AI-powered chatbot use by educators vs unspecified alternative",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-powered chatbots providing individualized guidance and feedback\tnot stated": {
+  "label": "AI-powered individualized chatbot guidance and feedback vs unspecified alternative",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-powered curriculum design tools\tnot stated": {
+  "label": "AI-powered curriculum design tools vs unspecified alternative",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-powered enrollment management systems\tnot stated": {
+  "label": "AI-powered enrollment management systems vs unspecified alternative",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-powered intelligent tutoring and adaptive learning tools\tconventional or non-adaptive instruction": {
+  "label": "AI-powered intelligent tutoring and adaptive learning tools vs conventional or non-adaptive instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-powered intelligent tutoring systems using natural language processing and cognitive modeling\tnot stated": {
+  "label": "AI-powered NLP and cognitive-modeling intelligent tutoring systems vs unspecified alternative",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-powered interactive video\tnon-interactive broadcast video": {
+  "label": "AI-powered interactive video vs non-interactive broadcast video",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-powered interactive video\tpseudo-interactive video": {
+  "label": "AI-powered interactive video vs pseudo-interactive video",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-powered interactive video with contingent dialogue\tstandard non-interactive broadcast video": {
+  "label": "AI-powered interactive video with contingent dialogue vs standard non-interactive broadcast video",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-powered learning\tnot stated": {
+  "label": "AI-powered learning vs unspecified alternative",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-powered multimodal approaches monitoring emotional and physiological responses\tlearning activities without AI-supported multimodal adaptation": {
+  "label": "AI-powered multimodal adaptive monitoring vs learning activities without AI-supported multimodal adaptation",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-powered predictive analytics\ttraditional learning methods": {
+  "label": "AI-powered predictive analytics vs traditional learning methods",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-powered reading assistants\tnot stated": {
+  "label": "AI-powered reading assistants vs unspecified alternative",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-powered reading assistants with transcription and meta-analysis\tnot stated": {
+  "label": "AI-powered reading assistants with transcription and meta-analysis vs unspecified alternative",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-powered real-time feedback and assessment\tnot stated": {
+  "label": "AI-powered real-time feedback and assessment vs unspecified alternative",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-powered simulations\tno comparator; acceptance ratings": {
+  "label": "AI-powered simulations vs no comparator",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-powered simulations and VR/AR environments for realistic application\tno comparison condition reported": {
+  "label": "AI-powered simulations and VR/AR environments vs unspecified alternative",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-predicted attention heatmap using Attention Insight\tuser eye-tracking heatmap using Gaze Recorder": {
+  "label": "AI-predicted attention heatmap vs user eye-tracking heatmap",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-provided solutions or reasoning\tdirect engagement with underlying material": {
+  "label": "AI-provided solutions or reasoning vs direct engagement with underlying material",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-related STEM education research after 2022\tAI-related STEM education research in 2015–2018": {
+  "label": "AI-related STEM education research after 2022 vs AI-related STEM education research in 2015–2018",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-responsive interactive character\tpseudo-interactive character": {
+  "label": "AI-responsive interactive character vs pseudo-interactive character",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-rewritten letters\tprofessional human editor rewrites": {
+  "label": "AI-rewritten letters vs professional human editor rewrites",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-saturated educational environment\tAI-driven dehumanisation or displacement of human pedagogical work": {
+  "label": "AI-saturated educational environment vs AI-driven dehumanization or displacement of human pedagogical work",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-specific orchestration types\texisting orchestration types": {
+  "label": "AI-specific orchestration types vs existing orchestration types",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported EFL instruction\tno comparison reported": {
+  "label": "AI-supported EFL instruction vs unspecified alternative",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported EFL instruction\tnot stated": {
+  "label": "AI-supported EFL instruction vs unspecified alternative",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported EFL learning\tnon-AI or alternative condition": {
+  "label": "AI-supported EFL learning vs non-AI or alternative condition",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported EFL learning\tvaried or not stated": {
+  "label": "AI-supported EFL learning vs unspecified or varied comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported EL2 instruction\tconventional instruction or baseline performance": {
+  "label": "AI-supported EL2 instruction vs conventional instruction or baseline performance",
+  "treatment_is_a": true
  }
 }

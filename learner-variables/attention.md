@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 157 claims (106 show a difference, 31 mixed, 20 no difference) · 116 studies (36 causal, 30 associational, 21 review, 12 quant-synthesis, 7 qualitative, 7 design, 3 theoretical), `q1`–`q4` · 24 of 116 report an effect size · 152 claims rest on one study
+> **Evidence** · 158 claims (106 show a difference, 32 mixed, 20 no difference) · 117 studies (36 causal, 30 associational, 22 review, 12 quant-synthesis, 7 qualitative, 7 design, 3 theoretical), `q1`–`q4` · 24 of 117 report an effect size · 153 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -195,6 +195,7 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Mind wandering rates remain relatively stable over time during live lectures](../claims/mind-wandering-stable-over-lecture-time.md) [-M] — instruction changes it
 - [Non-users or limited users of pornography who are distracted from studies show the highest sense of online risk](../claims/non-pornography-distracted-highest-risk-perception.md) [+M] — learners who differ on it differ in outcomes
 - [Students seated at the back of the lecture hall media multitask more than those seated at the front](../claims/back-seating-more-media-multitasking.md) [+M] — instruction changes it
+- [Research findings on screens and ADHD/attention are contradictory: some studies link prolonged screen exposure to reduced attention and increased hyperactivity, while a recent longitudinal study finds no effect on hyperactivity or attention.](../claims/contradictory-screen-attention-adhd-findings.md) [~M] — instruction changes it
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

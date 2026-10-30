@@ -28,7 +28,8 @@ Clicker is Crick Software's accessible visual word processor with voice output, 
 - [Students report a far higher likelihood of answering questions in class when handsets are used than when responding by raising hands or verbally](../claims/evs-raises-participation-likelihood-vs-hands-verbal.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Microsoft PowerPoint](microsoft-powerpoint.md)
 
 ## Key Sources
 - Amina Cviko, Susan McKenney, Joke Voogt. (2012). Teachers enacting a technology-rich curriculum for emergent literacy. Education Tech Research Dev. https://doi.org/10.1007/s11423-011-9208-3

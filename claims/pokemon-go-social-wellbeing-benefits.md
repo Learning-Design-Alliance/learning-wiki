@@ -50,3 +50,4 @@ The review's synthesis of Pokémon Go research reports that eleven studies found
 - [Students with belonging, purpose, collaboration, goal-setting, and perseverance skills alongside academic knowledge are more likely to reach their full potential](sel-skills-plus-academics-full-potential.md) — a broader claim this one bears on
 - [Casual games show promise for mitigating anxiety, depression, stress, and low mood across the range of mental health issues examined](casual-games-mental-health-promise.md) — related
 - [Pedagogy has evolved to include gaming, social interaction and play, and contemplative practices](pedagogy-evolved-new-methods.md) — a broader claim this one bears on
+- [Excessive smartphone use in childhood is linked to higher levels of perceived depression, anxiety, and stress and unregulated emotional states, while educational applications and games drive pupils' motivation and engagement.](screen-use-risks-and-benefits-childhood.md) — related

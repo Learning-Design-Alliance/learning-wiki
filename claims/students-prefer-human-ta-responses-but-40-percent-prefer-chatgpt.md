@@ -69,3 +69,4 @@ Survey results on the sources of differing student preferences, reported in the 
 - [Students found ChatGPT responses useful but insufficient in depth and detail compared with TA responses](students-find-chatgpt-useful-but-lacking-depth.md) — related
 - [ChatGPT sustains coherent, human-like multi-topic conversation and produces convincing creative content, as shown by the authors' own prompting test](chatgpt-interactive-conversational-capability.md) — related
 - [In a pilot with 10 participants, retrieved example recipes were perceived as better (60%) or same level (40%), with none rated much better, supporting the (+0.4, +0.8) quality range.](relex-pilot-quality-range-perception.md) — related
+- [Human-made teaching videos produce a statistically significant but small advantage over AI-generated videos in participants' learning experience ratings](human-made-videos-small-advantage-learning-experience.md) — related

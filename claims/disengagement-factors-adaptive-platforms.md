@@ -65,3 +65,4 @@ The review reports, citing included studies, that W-Pal lesson activity "decreas
 - [Affective states shifted over tutor usage: confusion decreased while engaged concentration and boredom increased](affect-shifts-over-tutor-usage.md) — related
 - [Data and experiment challenges include scarcity, validity, and arrangement](data-experiment-challenges-srl-recommenders.md) — related
 - [Behavior and contribution quality are shaped by platform incentives and features rather than self-reported motivations](platform-features-shape-behavior-and-quality.md) — related
+- [Some teachers declined to use the VCL citing organisational difficulties and curriculum fit](teachers-declined-vcl-organisational-curriculum.md) — related

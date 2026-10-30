@@ -126,3 +126,4 @@ Follow-up univariate repeated-measures ANOVAs in the same randomized trial: SRL 
 - [Self-efficacy increases significantly over the first interval of inquiry training and stays higher through and after training](self-efficacy-rises-early-inquiry-training.md) — a narrower finding that bears on this claim
 - [SRL support modules (progress dashboard and reflection prompts) in a flipped unit produced higher SRL skills, engagement, and learning performance than control](yoon-2021-srl-modules-fc-benefits.md) — related
 - [Students in the integrated training program showed significantly greater performance progress between course assessments than students in the original program](integrated-training-greater-performance-progress.md) — related
+- [SRL skills increased over time across all conditions, with no significant differences between conditions](srl-skills-increase-all-conditions.md) — reports the opposite

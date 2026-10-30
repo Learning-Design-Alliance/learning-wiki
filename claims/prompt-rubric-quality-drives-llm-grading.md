@@ -100,3 +100,4 @@ The review reports, from a single chemistry study in its table, that detailed ru
 - [SES gap patterns in PISA-like items are robust to scoring responses with generative AI instead of hand-coding](genai-scoring-replicates-ses-gap-patterns.md) — a narrower finding that bears on this claim
 - [GPT-4 grading agrees best with the instructor when the prompt includes the instructor's model answer with a rubric, and worst with an AI-generated rubric alone](prompt-design-model-answer-plus-rubric-best.md) — a narrower finding that bears on this claim
 - [LLMs can grade short-answer reading comprehension questions with accuracy comparable to human experts, supporting formative assessment grading](llm-grading-reading-comprehension-expert-comparable.md) — related
+- [Peer assessment systems can generate explanatory feedback for students by having graders assess multiple labeled aspects of an answer, not just an overall grade.](peer-assessment-multi-label-feedback.md) — related

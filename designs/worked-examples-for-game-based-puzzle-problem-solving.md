@@ -44,6 +44,10 @@ A worked example intervention inserted between two rounds of a commercial comput
 - [Worked Examples Improve Problem Solving Strategy Transfer In A Puzzle Game](../claims/worked-examples-improve-problem-solving-strategy-transfer-in-a-puzzle-game.md) [+M]
 - [Worked Example Gains In A Puzzle Game Remain Small Relative To Expert Knowledge Maps](../claims/worked-example-gains-in-a-puzzle-game-remain-small-relative-to-expert-knowledge-maps.md) [~M]
 
+## Related Designs
+
+- [Diagnostic computer-based arithmetical puzzle task implemented in Imagine Logo](imagine-logo-arithmetical-puzzle-task.md)
+
 ## Related Patterns
 - [Worked Examples](../patterns/worked-examples.md)
 - [Game Based Learning](../principles/game-based-learning.md)

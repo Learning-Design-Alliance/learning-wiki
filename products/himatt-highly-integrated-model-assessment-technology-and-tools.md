@@ -28,6 +28,7 @@ HIMATT is a suite of three integrated software tools that assesses skill and kno
 
 - [ALA-Reader](ala-reader.md)
 - [T-MITOCAR (Text-Model Inspection Trace of Concepts and Relations)](t-mitocar-text-model-inspection-trace-of-concepts-and-relations.md)
+- [Leximancer](leximancer.md)
 
 ## Key Sources
 - Dirk Ifenthaler, Pedro Isaías, J. Michael Spector, Kinshuk, Demetrios Sampson. (2009). Editors' introduction to the special issue on cognition & learning technology. Education Tech Research Dev. https://doi.org/10.1007/s11423-009-9127-8

@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 413 claims (185 for, 173 mixed, 55 against) · 282 studies (105 causal, 60 review, 38 design, 28 theoretical, 19 quant-synthesis, 17 associational, 15 qualitative), `q1`–`q4` · 58 of 282 report an effect size · 397 claims rest on one study
+> **Evidence** · 414 claims (185 for, 174 mixed, 55 against) · 283 studies (106 causal, 60 review, 38 design, 28 theoretical, 19 quant-synthesis, 17 associational, 15 qualitative), `q1`–`q4` · 58 of 283 report an effect size · 398 claims rest on one study
 
 ## Description and scope
 
@@ -394,6 +394,7 @@ This pattern is scoped to the tutor's moves within tasks and the handoff to peop
 - [Prior studies summarised in one article report that students rate instructor feedback above AI-generated feedback, and rate AI feedback lower once they know its origin](../claims/students-prefer-human-feedback-over-ai.md) [-W]
 - [Highly scaffolded tutoring with an unfamiliar strategy yields larger conceptual learning gains than lowly scaffolded tutoring with strategy freedom](../claims/high-scaffolding-unfamiliar-strategy-conceptual-gains.md) [+W]
 - [Procedural learning gains do not significantly differ between the highly and lowly scaffolded tutoring systems](../claims/procedural-gains-no-difference-between-scaffolding-levels.md) [~W]
+- [A fully scripted, non-generative conversational agent can effectively deliver structured SRL support at scale](../claims/scripted-agent-delivers-srl-support.md) [~W]
 
 ## Examples
 - [ChatGPT as a virtual laboratory assistant in a sociotechnical system](../designs/sts-theory-chatgpt-virtual-laboratory-assistant.md) — ChatGPT answers lab questions beside human TAs, not in their place

@@ -49,3 +49,4 @@ A 2 (Test Moment) x 2 (Context) x 2 (Training) mixed ANOVA on proportion correct
 - [Critical-reflective thinking training reduces the tendency to commit the fundamental attribution error on in-context measurements during murder case two](training-reduces-fae-in-context.md) — related
 - [Contrasting examples, correct examples, erroneous examples, and practice problems produced no differences in learning gains or transfer of unbiased-reasoning skills](no-condition-differences-ct-practice-formats.md) — related
 - [Training did not reduce confirmation bias on in-context measurements embedded in the second murder case](no-cb-reduction-in-context.md) — related
+- [The monitoring and reflection intervention had no significant effect on post-intervention academic performance](no-academic-performance-effect.md) — related

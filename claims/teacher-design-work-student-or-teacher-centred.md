@@ -48,3 +48,4 @@ The commentary reports, based on its reading of Bennett et al. (2017), that "uni
 - [University teachers follow a top-down design approach considering learning outcomes, content scope, activities and assessment](teachers-top-down-design-process.md) — related
 - [Staff recognise substantial opportunities to use GenAI to enhance teaching through streamlined administrative processes, improved curriculum and assessment design, and student-centred learning activities.](staff-see-genai-opportunities-teaching-enhancement.md) — related
 - [The four schemes of work showed replicable significant heterogeneity in effectiveness, with the predicted-least-effective teacher-centred/non-human scheme among the most effective](sow-heterogeneity-unexpected-rank-order.md) — related
+- [Teachers used the VCL in ways that re-enforced their current practice, whether student-centred or teacher-centred](vcl-use-reinforced-current-practice.md) — a narrower finding that bears on this claim

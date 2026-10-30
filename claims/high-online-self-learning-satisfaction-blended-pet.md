@@ -52,3 +52,4 @@ Descriptive analysis of the 10-item survey (Cronbach's alpha = .914, KMO = .846)
 - [Students experiencing more major challenges reported lower satisfaction with their post-COVID STEM course and learning](more-challenges-lower-post-covid-satisfaction.md) — related
 - [Personal instructor messages and reflective assignments showed the largest individual associations with online course satisfaction, and personal messages with fewer motivation problems](personal-messages-largest-satisfaction-effect.md) — related
 - [Students' active participation in offline group-learning (60.1%) was lower than in online self-learning](offline-participation-lower-than-online.md) — related
+- [Tablet use is positively associated with student satisfaction and engagement](tablet-use-satisfaction-engagement.md) — related

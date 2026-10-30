@@ -53,3 +53,4 @@ Qualitative demonstration using an Immunology checkpoint blockade example and a 
 - [Frontier LLMs achieve the best balance between detecting misconceptions in correct-answer cases and not over-flagging correct students, while fine-tuned local models achieve under 58% TM recall](frontier-llms-best-balance-tm-detection.md) — related
 - [GPT-4's error-diagnosis accuracy varies by error type: near-perfect on correct answers, weakest on Wrong Field and multiple-error responses](gpt4-diagnosis-accuracy-varies-by-error-type.md) — related
 - [Longitudinal learner data reveal individual differences in grammar acquisition not apparent in aggregate data, calling for fine-grained student models](longitudinal-data-reveal-fine-grained-learner-variability.md) — related
+- [Error patterns in VR trace data associated with misconceptions and confusion are identified via visualization with human expert aid](trace-error-patterns-misconceptions-confusion-vrts.md) — related

@@ -43,6 +43,7 @@ The chapter proposes three methods for using persistence detection to enhance le
 ## Related Strategies
 
 - [Use the solver as a hint engine for intelligent tutoring of spatial reasoning in puzzle games](solver-as-tutoring-hint-engine-spatial-games.md)
+- [Apply gameplay data analysis findings to validate and refine game design and provide feedback to students and teachers.](apply-findings-validate-refine-game-design.md)
 
 ## Examples
 -

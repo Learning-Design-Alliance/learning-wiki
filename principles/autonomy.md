@@ -42,7 +42,7 @@ sources:
 # Autonomy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 59 claims (26 for, 30 mixed, 3 against) · 56 studies (12 review, 10 causal, 10 associational, 9 theoretical, 6 qualitative, 5 design, 4 quant-synthesis), `q1`–`q4` · 7 of 56 report an effect size · 51 claims rest on one study
+> **Evidence** · 60 claims (26 for, 31 mixed, 3 against) · 57 studies (12 review, 11 associational, 10 causal, 9 theoretical, 6 qualitative, 5 design, 4 quant-synthesis), `q1`–`q4` · 7 of 57 report an effect size · 52 claims rest on one study
 
 ## Conditional relationship
 
@@ -156,6 +156,7 @@ Read against the model on 2026-10-19. Of the eighteen claims that had gathered h
 - [Autonomy-supportive instructions dampen the impairing effects of difficult math exercises on need-based experiences](../claims/autonomy-supportive-instructions-dampen-difficulty-effects.md) [+W] — attached 2026-10-24 from Baten et al. (2020), which proposed "Introduce difficult math tasks with autonomy-supportive instructions to buffer their impairing effects".
 - [Autonomy-supportive versus controlling instructions have limited main effects, enhancing autonomy satisfaction only](../claims/instructional-style-main-effect-limited-autonomy-satisfaction.md) [~W] — attached 2026-10-24 from Baten et al. (2020), which proposed "Introduce difficult math tasks with autonomy-supportive instructions to buffer their impairing effects"; tests this page's relationship.
 - [The autonomy-supportive physics unit fostered need satisfaction, positive achievement emotions, and learning behaviors, and reduced negative emotions](../claims/autonomy-support-fosters-need-satisfaction-emotions-behaviors.md) [+W] — attached 2026-10-25 from Flunger et al. (2019), which proposed "Provide autonomy support in physics instruction because it benefits students' motivation and learning behaviors"; tests this page's relationship.
+- [Forums were perceived as serial monologues with mandatory participation and were rarely a preferred tool](../claims/forums-serial-monologues-mandatory-participation.md) [~W] — attached 2026-10-30 from Banegas et al. (2014), which proposed "Do not make forum participation or group-work tasks mandatory in online teacher education".
 
 ## Objective and learner-valued goal
 
