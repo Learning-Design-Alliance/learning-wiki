@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 252 claims (114 for, 126 mixed, 12 against) · 186 studies (59 associational, 50 causal, 27 review, 17 quant-synthesis, 15 theoretical, 9 qualitative, 9 design), `q1`–`q4` · 44 of 186 report an effect size · 236 claims rest on one study
+> **Evidence** · 253 claims (114 for, 127 mixed, 12 against) · 187 studies (60 associational, 50 causal, 27 review, 17 quant-synthesis, 15 theoretical, 9 qualitative, 9 design), `q1`–`q4` · 44 of 187 report an effect size · 237 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -299,6 +299,7 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [The integrated training program increased total reported self-regulated learning utterances, specifically planning, monitoring, reflective evaluation, and error analysis, but not orientation, adjusting, positive evaluation, or evaluation of learning and performance](../claims/integrated-training-increases-srl-utterances-selectively.md) [+W]
 - [The integrated training program did not improve self-assessment accuracy on any of six ATC competences](../claims/integrated-training-no-self-assessment-accuracy-gain.md) [-W]
 - [Less able and less knowledgeable learners are ineffective at selecting challenging tasks and seeking support](../claims/less-able-learners-ineffective-task-selection.md) [-W]
+- [Scaffold compliance varied significantly: compliers engaged in more frequent metacognitive processes than non-compliers](../claims/scaffold-compliance-metacognitive-processes.md) [~W]
 
 ## The evidence by question
 

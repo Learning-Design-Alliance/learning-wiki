@@ -53,3 +53,4 @@ Meta-analytic moderator analysis comparing outcome-specific effect sizes. The ar
 - [Business Writing students valued AI feedback for higher-order and sentence-level comments but found it sometimes too general, while appreciating peers' contextual knowledge](business-writing-students-value-ai-feedback-but-find-it-general.md) — reports the opposite
 - [Students reported recognizing writing improvements after revising in response to AI feedback, with observed rubric-score gains on resubmission](students-recognize-writing-improvement-ai-feedback.md) — reports the opposite
 - [Teachers report AI tools enhance students' higher-order scientific skills including experimental design, inquiry, hypothesis testing, and argumentation](ai-enhances-higher-order-scientific-skills.md) — reports the opposite
+- [High-affordance feedback tools supported accurate self-assessment while low-affordance tools hindered self-reflection](feedback-affordance-self-assessment.md) — related

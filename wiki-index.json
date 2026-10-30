@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":34609,
+"claim":34620,
 "design":1339,
 "element":1057,
 "learner-variable":75,
@@ -8,9 +8,9 @@
 "pattern":54,
 "principle":170,
 "process":18,
-"product":2319,
+"product":2321,
 "research-method":839,
-"strategy":7691,
+"strategy":7692,
 "theory":1360
 },
 "kinds":[
@@ -10442,6 +10442,16 @@
 "path":"claims/age-by-sample-interaction-wm-change.md",
 "status":"review",
 "title":"Age interacts with sample type in predicting WM change: younger participants changed more during 2-year development, while older participants improved more during 25-day training (interaction p = 0.04).",
+"type":"claim"
+},
+{
+"description":"Age is a central network node: older participants read more and watch more TV, younger participants use social networks and study more",
+"evidence_strength":"moderate",
+"id":"age-central-node-free-time-activities",
+"newest_evidence":"2023",
+"path":"claims/age-central-node-free-time-activities.md",
+"status":"review",
+"title":"Age is a central network node: older participants read more and watch more TV, younger participants use social networks and study more",
 "type":"claim"
 },
 {
@@ -115009,6 +115019,16 @@
 "type":"claim"
 },
 {
+"description":"High-affordance feedback tools supported accurate self-assessment while low-affordance tools hindered self-reflection",
+"evidence_strength":"moderate",
+"id":"feedback-affordance-self-assessment",
+"newest_evidence":"2025",
+"path":"claims/feedback-affordance-self-assessment.md",
+"status":"review",
+"title":"High-affordance feedback tools supported accurate self-assessment while low-affordance tools hindered self-reflection",
+"type":"claim"
+},
+{
 "description":"Providing feedback after initial multiple-choice tests cut lure intrusions on final short-answer tests roughly in half, with immediate and delayed feedback equally effective",
 "evidence_strength":"weak",
 "id":"feedback-after-multiple-choice-tests-halves-lure-intrusions",
@@ -128612,6 +128632,16 @@
 "type":"claim"
 },
 {
+"description":"GenAI chatbot support increased executive help-seeking but reduced metacognitive engagement compared to human expert support",
+"evidence_strength":"moderate",
+"id":"genai-chatbot-increased-executive-help-seeking-reduced-metacognition",
+"newest_evidence":"2025",
+"path":"claims/genai-chatbot-increased-executive-help-seeking-reduced-metacognition.md",
+"status":"review",
+"title":"GenAI chatbot support increased executive help-seeking but reduced metacognitive engagement compared to human expert support",
+"type":"claim"
+},
+{
 "description":"Evidence on GenAI in chemistry education is concentrated in short-term outcomes, with durable transfer and retention rarely tested",
 "evidence_strength":"moderate",
 "id":"genai-chemistry-evidence-short-term-outcomes",
@@ -129513,6 +129543,16 @@
 "path":"claims/genai-immediacy-reduces-teacher-interactions.md",
 "status":"review",
 "title":"GenAI's immediate answers reduce engineering students' teacher-student interactions for generalizable tasks, while teachers remain preferred for complex problem-solving",
+"type":"claim"
+},
+{
+"description":"GenAI chatbot yielded immediate essay score gains but no gains in intrinsic motivation or longer-term knowledge outcomes",
+"evidence_strength":"moderate",
+"id":"genai-immediate-gains-no-motivation-longterm",
+"newest_evidence":"2025",
+"path":"claims/genai-immediate-gains-no-motivation-longterm.md",
+"status":"review",
+"title":"GenAI chatbot yielded immediate essay score gains but no gains in intrinsic motivation or longer-term knowledge outcomes",
 "type":"claim"
 },
 {
@@ -229317,6 +229357,16 @@
 "type":"claim"
 },
 {
+"description":"Orthography scores increase with years of formal education and with number of books read per year",
+"evidence_strength":"moderate",
+"id":"orthography-improves-with-education-and-books-read",
+"newest_evidence":"2023",
+"path":"claims/orthography-improves-with-education-and-books-read.md",
+"status":"review",
+"title":"Orthography scores increase with years of formal education and with number of books read per year",
+"type":"claim"
+},
+{
 "description":"Orthographic specificity moderates comprehension-based switching costs: language-specific orthography can abolish or alter mixing and switch costs",
 "evidence_strength":"weak",
 "id":"orthography-role-in-comprehension-switching",
@@ -264441,6 +264491,16 @@
 "type":"claim"
 },
 {
+"description":"Reading enjoyment is strongly associated with better orthographic skills through books read per year",
+"evidence_strength":"moderate",
+"id":"reading-enjoyment-linked-to-orthography",
+"newest_evidence":"2023",
+"path":"claims/reading-enjoyment-linked-to-orthography.md",
+"status":"review",
+"title":"Reading enjoyment is strongly associated with better orthographic skills through books read per year",
+"type":"claim"
+},
+{
 "description":"Prolonged reading failure leads students to attribute failure to fixed low ability and define reading as a failure situation",
 "evidence_strength":"weak",
 "id":"reading-failure-fixed-ability-attribution",
@@ -264747,6 +264807,16 @@
 "path":"claims/reading-pgs-modest-associations-reading-endophenotypes.md",
 "status":"review",
 "title":"Reading-PGS is modestly but significantly associated with phonological awareness, rapid bimodal temporal processing, decoding and comprehension in 8-year-old twins",
+"type":"claim"
+},
+{
+"description":"Reading pleasure shows a weak negative direct connection with social network use",
+"evidence_strength":"weak",
+"id":"reading-pleasure-negative-social-network-link",
+"newest_evidence":"2023",
+"path":"claims/reading-pleasure-negative-social-network-link.md",
+"status":"review",
+"title":"Reading pleasure shows a weak negative direct connection with social network use",
 "type":"claim"
 },
 {
@@ -278428,6 +278498,16 @@
 "path":"claims/scaffold-benefits-more-salient-for-difficult-concept.md",
 "status":"review",
 "title":"Differential scaffold benefits were more salient for the more difficult learning concept",
+"type":"claim"
+},
+{
+"description":"Scaffold compliance varied significantly: compliers engaged in more frequent metacognitive processes than non-compliers",
+"evidence_strength":"moderate",
+"id":"scaffold-compliance-metacognitive-processes",
+"newest_evidence":"2025",
+"path":"claims/scaffold-compliance-metacognitive-processes.md",
+"status":"review",
+"title":"Scaffold compliance varied significantly: compliers engaged in more frequent metacognitive processes than non-compliers",
 "type":"claim"
 },
 {
@@ -297937,6 +298017,16 @@
 "type":"claim"
 },
 {
+"description":"In a highly educated adult sample, social media use shows no direct connection with orthographic skills",
+"evidence_strength":"moderate",
+"id":"social-media-no-direct-orthography-link-highly-educated",
+"newest_evidence":"2023",
+"path":"claims/social-media-no-direct-orthography-link-highly-educated.md",
+"status":"review",
+"title":"In a highly educated adult sample, social media use shows no direct connection with orthographic skills",
+"type":"claim"
+},
+{
 "description":"A 4-week social media training workshop improved inhibitory control within the intervention group of older adults, with a large effect over the full study period",
 "evidence_strength":"moderate",
 "id":"social-media-training-improves-inhibitory-control-older-adults",
@@ -297954,6 +298044,16 @@
 "path":"claims/social-media-use-gains-not-sustained-after-training.md",
 "status":"review",
 "title":"Social media use rose sharply during the workshop (d = .954) but significantly declined in the following three months (d = .553), though remaining above baseline at 4 months",
+"type":"claim"
+},
+{
+"description":"Greater social media use is linked to both more solitary and more sociable free-time activities",
+"evidence_strength":"moderate",
+"id":"social-media-use-solitary-and-social-activities",
+"newest_evidence":"2023",
+"path":"claims/social-media-use-solitary-and-social-activities.md",
+"status":"review",
+"title":"Greater social media use is linked to both more solitary and more sociable free-time activities",
 "type":"claim"
 },
 {
@@ -344374,6 +344474,7 @@
 "id":"utility-value-predicts-tech-integration",
 "newest_evidence":"2021",
 "path":"claims/utility-value-predicts-tech-integration.md",
+"source_checked":"2026-10-30",
 "status":"review",
 "title":"Teachers' perceived utility-value of technology is associated with how often and how well they integrate it; self-efficacy showed no significant association with frequency, exploitation or task-specific quality",
 "type":"claim"
@@ -350484,6 +350585,16 @@
 "path":"claims/vsdr-increased-student-talk-proportion.md",
 "status":"review",
 "title":"Student proportion of words spoken in whole-class talk increased in both dose groups after VSDR",
+"type":"claim"
+},
+{
+"description":"Some VSP history-taking behaviors correlated with clinical reasoning metrics",
+"evidence_strength":"moderate",
+"id":"vsp-behaviors-correlate-clinical-reasoning",
+"newest_evidence":"2025",
+"path":"claims/vsp-behaviors-correlate-clinical-reasoning.md",
+"status":"review",
+"title":"Some VSP history-taking behaviors correlated with clinical reasoning metrics",
 "type":"claim"
 },
 {
@@ -387832,6 +387943,14 @@
 "type":"product"
 },
 {
+"description":"An AI-powered learning platform described by Li et al.",
+"id":"flora-engine",
+"path":"products/flora-engine.md",
+"status":"review",
+"title":"FLoRA Engine",
+"type":"product"
+},
+{
 "description":"An AI-powered web-based creative-coding environment developed by Tseng et al.",
 "id":"flowcode",
 "path":"products/flowcode.md",
@@ -396933,6 +397052,14 @@
 "path":"products/spanish-map-reading-fluency-foundational-skills.md",
 "status":"review",
 "title":"Spanish MAP Reading Fluency Foundational Skills",
+"type":"product"
+},
+{
+"description":"A sentence-based assessment in which adult learners judge and correct Spanish orthographic errors to measure knowledge of Spanish orthographic norms.",
+"id":"spanish-orthography-test-with-54-sentences-as-proxy-for-written-language-skills",
+"path":"products/spanish-orthography-test-with-54-sentences-as-proxy-for-written-language-skills.md",
+"status":"review",
+"title":"Spanish orthography test with 54 sentences as proxy for written language skills",
 "type":"product"
 },
 {
@@ -450787,6 +450914,14 @@
 "type":"strategy"
 },
 {
+"description":"Based on findings that reading enjoyment supplies better orthographic skills and helps overcome social barriers, the authors state that \\\"present data support the idea of using promotion of reading programs and the fre...",
+"id":"reading-promotion-libraries-social-change",
+"path":"strategies/reading-promotion-libraries-social-change.md",
+"status":"review",
+"title":"Promote reading programs and free universal access to libraries as a strategy to induce social change",
+"type":"strategy"
+},
+{
 "description":"The review enumerates the lesson components of Reading Recovery's daily tutoring sessions: \\\"fluency instruction, letter and word identification skills, phonemic and orthographic awareness instruction, reading a new, c...",
 "id":"reading-recovery-lesson-component-recipe",
 "path":"strategies/reading-recovery-lesson-component-recipe.md",
@@ -480853,6 +480988,7 @@
 "age-by-attention-interaction-linguistic-p1-latency":"age-by-attention-interaction-linguistic-p1-latency",
 "age-by-presentation-interaction-dse":"age-by-presentation-interaction-dse",
 "age-by-sample-interaction-wm-change":"age-by-sample-interaction-wm-change",
+"age-central-node-free-time-activities":"age-central-node-free-time-activities",
 "age-coherence-agent-material-fosters-learning":"age-coherence-agent-material-fosters-learning",
 "age-converges-faster-jrl-30-percent":"age-converges-faster-jrl-30-percent",
 "age-correlates-detection-performance":"age-correlates-detection-performance",
@@ -491068,6 +491204,7 @@
 "feeble-mindedness-arrested-development-distinct-from-disease":"feeble-mindedness-arrested-development-distinct-from-disease",
 "feedback-abstract-constraints-overgeneral-rule-objective":"feedback-abstract-constraints-overgeneral-rule-objective",
 "feedback-addressing-task-improves-learning":"feedback-most-effective-at-task-and-process-levels",
+"feedback-affordance-self-assessment":"feedback-affordance-self-assessment",
 "feedback-after-multiple-choice-tests-halves-lure-intrusions":"feedback-after-multiple-choice-tests-halves-lure-intrusions",
 "feedback-alerts-before-task":"feedback-alerts-before-task",
 "feedback-answers-three-questions":"feedback-answers-three-questions-improves-learning",
@@ -492415,6 +492552,7 @@
 "genai-card-sorting-concept-agreement":"genai-card-sorting-concept-agreement",
 "genai-cbl-faculty-guided-conditional-benefits":"genai-cbl-faculty-guided-conditional-benefits",
 "genai-chat-tutor-rct-physics-improved-performance":"genai-chat-tutor-rct-physics-improved-performance",
+"genai-chatbot-increased-executive-help-seeking-reduced-metacognition":"genai-chatbot-increased-executive-help-seeking-reduced-metacognition",
 "genai-chemistry-evidence-short-term-outcomes":"genai-chemistry-evidence-short-term-outcomes",
 "genai-coding-assistance-moderate-positive-productivity-effect":"genai-coding-assistance-moderate-positive-productivity-effect",
 "genai-cognitive-offloading-benefits-and-risks":"genai-cognitive-offloading-benefits-and-risks",
@@ -492502,6 +492640,7 @@
 "genai-hot-dimension-effect-sizes":"genai-hot-dimension-effect-sizes",
 "genai-hybrid-policy-guidelines-governance-consensus":"genai-hybrid-policy-guidelines-governance-consensus",
 "genai-immediacy-reduces-teacher-interactions":"genai-immediacy-reduces-teacher-interactions",
+"genai-immediate-gains-no-motivation-longterm":"genai-immediate-gains-no-motivation-longterm",
 "genai-implicit-rules-self-directed-efficient-learning":"genai-implicit-rules-self-directed-efficient-learning",
 "genai-incentive-interaction-memory-difficulty":"genai-incentive-interaction-memory-difficulty",
 "genai-influence-discussion-facilitator-acceptance":"genai-influence-discussion-facilitator-acceptance",
@@ -502285,6 +502424,7 @@
 "orthographic-ltm-deficits-frontal-ventral-temporal":"orthographic-ltm-deficits-frontal-ventral-temporal",
 "orthographic-projection-tutorial-gains":"orthographic-projection-tutorial-gains",
 "orthographic-wm-deficits-left-parietal-ips":"orthographic-wm-deficits-left-parietal-ips",
+"orthography-improves-with-education-and-books-read":"orthography-improves-with-education-and-books-read",
 "orthography-role-in-comprehension-switching":"orthography-role-in-comprehension-switching",
 "orton-clinical-interviews-elementary-calculus":"orton-clinical-interviews-elementary-calculus",
 "orton-common-errors-misconceptions-integration-limits":"orton-common-errors-misconceptions-integration-limits",
@@ -505737,6 +505877,7 @@
 "reading-curricula-no-impacts-one-year-after-implementation":"reading-curricula-no-impacts-one-year-after-implementation",
 "reading-development-structural-maturation-left-language-tracts":"reading-development-structural-maturation-left-language-tracts",
 "reading-effects-smaller-nonsignificant-most-grades":"reading-effects-smaller-nonsignificant-most-grades",
+"reading-enjoyment-linked-to-orthography":"reading-enjoyment-linked-to-orthography",
 "reading-failure-fixed-ability-attribution":"reading-failure-fixed-ability-attribution",
 "reading-for-knowledge-negative-impact-year-one":"reading-for-knowledge-negative-impact-year-one",
 "reading-for-study-slower-reading-times":"reading-for-study-slower-reading-times",
@@ -505770,6 +505911,7 @@
 "reading-peaks-early-adolescence-girls-1920":"reading-peaks-early-adolescence-girls-1920",
 "reading-pgs-effects-specific-to-reading-not-education-iq":"reading-pgs-effects-specific-to-reading-not-education-iq",
 "reading-pgs-modest-associations-reading-endophenotypes":"reading-pgs-modest-associations-reading-endophenotypes",
+"reading-pleasure-negative-social-network-link":"reading-pleasure-negative-social-network-link",
 "reading-plus-evidence-extent-small-one-study":"reading-plus-evidence-extent-small-one-study",
 "reading-plus-small-significant-comprehension-effect-low-achievers":"reading-plus-small-significant-comprehension-effect-low-achievers",
 "reading-position-judgments-cue-conditions":"reading-position-judgments-cue-conditions",
@@ -507123,6 +507265,7 @@
 "sc-outweigh-ip-elementary-group-levels":"sc-outweigh-ip-elementary-group-levels",
 "sc-repeatable-but-weaker-agreement":"sc-repeatable-but-weaker-agreement",
 "scaffold-benefits-more-salient-for-difficult-concept":"scaffold-benefits-more-salient-for-difficult-concept",
+"scaffold-compliance-metacognitive-processes":"scaffold-compliance-metacognitive-processes",
 "scaffold-use-subgroups-problem-solving":"scaffold-use-subgroups-problem-solving",
 "scaffolded-close-reading-improves-comprehension-for-struggling-readers":"scaffolded-close-reading-improves-comprehension-for-struggling-readers",
 "scaffolded-coach-no-assignment-performance-advantage":"scaffolded-coach-no-assignment-performance-advantage",
@@ -509056,8 +509199,10 @@
 "social-manipulation-credibility-check":"social-manipulation-credibility-check",
 "social-media-educational-challenges-overload-misinformation-privacy":"social-media-educational-challenges-overload-misinformation-privacy",
 "social-media-growth-future-empirical-research-warranted":"social-media-growth-future-empirical-research-warranted",
+"social-media-no-direct-orthography-link-highly-educated":"social-media-no-direct-orthography-link-highly-educated",
 "social-media-training-improves-inhibitory-control-older-adults":"social-media-training-improves-inhibitory-control-older-adults",
 "social-media-use-gains-not-sustained-after-training":"social-media-use-gains-not-sustained-after-training",
+"social-media-use-solitary-and-social-activities":"social-media-use-solitary-and-social-activities",
 "social-mobility-predicts-competency-mediation":"social-mobility-predicts-competency-mediation",
 "social-motivation-model-dependent-indirect-pathway":"social-motivation-model-dependent-indirect-pathway",
 "social-network-perspective-three-assumptions":"social-network-perspective-three-assumptions",
@@ -514235,6 +514380,7 @@
 "vsdr-alternative-problem-solving-reflection":"vsdr-alternative-problem-solving-reflection",
 "vsdr-high-dose-significant-knowledge-gain":"vsdr-high-dose-significant-knowledge-gain",
 "vsdr-increased-student-talk-proportion":"vsdr-increased-student-talk-proportion",
+"vsp-behaviors-correlate-clinical-reasoning":"vsp-behaviors-correlate-clinical-reasoning",
 "vssp-predicts-nonsymbolic-approximate-addition":"vssp-predicts-nonsymbolic-approximate-addition",
 "vstm-declines-with-age-all-measures":"vstm-declines-with-age-all-measures",
 "vswm-positive-association-mathematics-performance":"vswm-positive-association-mathematics-performance",
@@ -518931,6 +519077,7 @@
 "flashlight360":"flashlight360",
 "flight":"flight",
 "flight-sos":"flight-sos",
+"flora-engine":"flora-engine",
 "flowcode":"flowcode",
 "fluency-formula":"fluency-formula",
 "flux-smartphone-ambulatory-assessment-application":"flux-smartphone-ambulatory-assessment-application",
@@ -520078,6 +520225,7 @@
 "spanish-map-growth-reading":"spanish-map-growth-reading",
 "spanish-map-reading-fluency":"spanish-map-reading-fluency",
 "spanish-map-reading-fluency-foundational-skills":"spanish-map-reading-fluency-foundational-skills",
+"spanish-orthography-test-with-54-sentences-as-proxy-for-written-language-skills":"spanish-orthography-test-with-54-sentences-as-proxy-for-written-language-skills",
 "spatial-spy":"spatial-spy",
 "speakapp-kids":"speakapp-kids",
 "special-education-leadership-academy-massachusetts":"special-education-leadership-academy-massachusetts",
@@ -527051,6 +527199,7 @@
 "reading-fluency-practice":"reading-fluency-practice",
 "reading-go-professional-development-model":"reading-go-professional-development-model",
 "reading-partners-tiered-tutor-training-strategy":"reading-partners-tiered-tutor-training-strategy",
+"reading-promotion-libraries-social-change":"reading-promotion-libraries-social-change",
 "reading-recovery-lesson-component-recipe":"reading-recovery-lesson-component-recipe",
 "reading-with-a-need-to-know":"reading-with-a-need-to-know",
 "reading-workshop":"reading-workshop",

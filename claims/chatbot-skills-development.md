@@ -59,3 +59,4 @@ Narrative synthesis in the student-advantages section of the systematic review. 
 - Students found using a chatbot to solve a photoelectric-effect problem and evaluating its answer insightful, and the authors propose group checking as a way to verify chatbot answers — a narrower finding that bears on this claim
 - [Students primarily benefit from AI chatbots in three key areas: homework and study assistance, personalized learning, and skills development](ai-chatbots-three-student-benefit-areas.md) — a broader claim this one bears on
 - [Learning analytics tools can provide personalized feedback on students' academic writing by identifying mistakes and offering constructive suggestions (e.g., AcaWriter)](acawriter-personalized-writing-feedback.md) — related
+- [High-affordance feedback tools supported accurate self-assessment while low-affordance tools hindered self-reflection](feedback-affordance-self-assessment.md) — related

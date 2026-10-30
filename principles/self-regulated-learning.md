@@ -35,7 +35,7 @@ sources:
 # Self-Regulated Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 169 claims (72 for, 87 mixed, 10 against) · 114 studies (36 causal, 24 review, 19 associational, 17 quant-synthesis, 13 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 32 of 114 report an effect size · 158 claims rest on one study
+> **Evidence** · 171 claims (72 for, 88 mixed, 11 against) · 115 studies (37 causal, 24 review, 19 associational, 17 quant-synthesis, 13 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 32 of 115 report an effect size · 160 claims rest on one study
 
 ## Conditional relationship
 
@@ -261,6 +261,8 @@ Gains in strategy knowledge, self-reported regulation, self-efficacy, study time
 - [Adding goal-monitoring prompts to a scripted conversational agent's weekly goal-setting raised undergraduates' self-reported goal attainment over reflection-only and goal-setting-only conditions](../claims/scripted-agent-delivers-srl-support.md) [+W]
 - [The monitoring and reflection intervention had no significant effect on post-intervention academic performance](../claims/no-academic-performance-effect.md) [-W]
 - [Self-reported SRL questionnaire scores rose over a five-week goal-setting intervention in all conditions, with no differences between conditions](../claims/srl-skills-increase-all-conditions.md) [~W]
+- [Scaffold compliance varied significantly: compliers engaged in more frequent metacognitive processes than non-compliers](../claims/scaffold-compliance-metacognitive-processes.md) [~W]
+- [GenAI chatbot support increased executive help-seeking but reduced metacognitive engagement compared to human expert support](../claims/genai-chatbot-increased-executive-help-seeking-reduced-metacognition.md) [-W]
 
 ## Related Principles
 - [Goal Setting & Monitoring](goal-setting-monitoring.md)

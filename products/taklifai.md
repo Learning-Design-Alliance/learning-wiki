@@ -32,6 +32,7 @@ Taklif.AI is an LLM-powered platform developed by Kurdya et al. for automaticall
 ## Related Products and Programmes
 
 - [Waterproof](waterproof.md)
+- [FLoRA Engine](flora-engine.md)
 
 ## Key Sources
 - Zaki Kurdya, Mohammed Zuqlam, Salem Amassi, Shady Telbany, Motaz Saad. (2026). Taklif.AI: LLM-Powered Platform for Interest-Based Personalized College Assignments. https://arxiv.org/abs/2605.05842

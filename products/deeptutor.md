@@ -30,6 +30,7 @@ DeepTutor is an AI-powered personalized tutoring platform developed by Zhao et a
 ## Related Products and Programmes
 
 - [KT4EQG](kt4eqg.md)
+- [FLoRA Engine](flora-engine.md)
 
 ## Key Sources
 - Bingxi Zhao, Jiahao Zhang, Xubin Ren, Zirui Guo, Tianzhe Chu, Yi Ma, Chao Huang. (2026). DeepTutor: Towards Agentic Personalized Tutoring. Technical Report, The University of Hong Kong. https://arxiv.org/abs/2604.26962

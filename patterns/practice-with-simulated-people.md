@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 133 claims (62 for, 55 mixed, 16 against) · 68 studies (18 review, 16 causal, 12 quant-synthesis, 9 qualitative, 9 design, 4 theoretical), `q1`–`q4` · 17 of 68 report an effect size · 128 claims rest on one study
+> **Evidence** · 134 claims (63 for, 55 mixed, 16 against) · 69 studies (18 review, 16 causal, 12 quant-synthesis, 9 qualitative, 9 design, 4 theoretical, 1 associational), `q1`–`q4` · 17 of 69 report an effect size · 129 claims rest on one study
 
 ## Description and scope
 
@@ -162,6 +162,7 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 - [Patient simulation is the most prevalent role in higher education, concentrated in medical training contexts](../claims/higher-education-patient-simulator-role.md) [+W]
 - [The TARDIS system improved at-risk young people's interview answers and verbal and nonverbal behaviours](../claims/tardis-open-learner-model-improved-interview-behaviours.md) [+W]
 - [Cognitive-purpose agents concentrate on simulate-and-experience intents and face-to-face delivery](../claims/cognitive-agents-simulate-experience-face-to-face.md) [~W]
+- [Some VSP history-taking behaviors correlated with clinical reasoning metrics](../claims/vsp-behaviors-correlate-clinical-reasoning.md) [+W]
 
 ## Examples
 

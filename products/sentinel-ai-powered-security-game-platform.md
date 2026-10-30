@@ -27,7 +27,8 @@ Sentinel is a mobile game platform developed by Bingjun Li et al. that uses AI-d
 - [College students overwhelmingly prefer short, mobile-friendly gamified security training over long desktop training or videos](../claims/students-prefer-mobile-gamified-security-training.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [FLoRA Engine](flora-engine.md)
 
 ## Key Sources
 - Bingjun Li, Christopher Buzaid, Weihao Qu. (2025). Security Education in Higher Education through AI-Powered Gamification. Journal of Cybersecurity, Digital Forensics and Jurisprudence. https://doi.org/10.65879/3070-5789.2025.01.07

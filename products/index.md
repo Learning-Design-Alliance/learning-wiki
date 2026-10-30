@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**2319 entries** · 0 stable · 2319 in review · 0 drafts
+**2321 entries** · 0 stable · 2321 in review · 0 drafts
 
 ---
 
@@ -741,6 +741,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Flashlight360](flashlight360.md) - Flashlight360 is a browser-based platform for educators and administrators to monitor and assess multilingual students' speaking and writing progress, providing scoring and feedback across defined language-skill areas.
 * [FLIGHT](flight.md) - FLIGHT is a Florida school-based mentoring and college-access programme supported by staff workshops, dedicated mentoring and advocacy activities, scholarships, and public-private funding.
 * [Flight SOS](flight-sos.md) - Flight SOS is an interactive video English-as-a-foreign-language program co-produced by Gale et al.
+* [FLoRA Engine](flora-engine.md) - An AI-powered learning platform described by Li et al.
 * [Flowcode](flowcode.md) - An AI-powered web-based creative-coding environment developed by Tseng et al.
 * [Fluency Formula™](fluency-formula.md) - A Scholastic supplemental curriculum for grades 1–6 that provides brief daily lessons and materials designed to develop word-recognition automaticity, decoding accuracy, and oral reading expressiveness.
 * [FLUX smartphone ambulatory assessment application](flux-smartphone-ambulatory-assessment-application.md) - A dedicated smartphone application developed by the Technology Based Assessment Group at DIPF for the FLUX project to administer working-memory, sleep, and tiredness assessments to elementary-school children in daily-life settings.
@@ -1916,6 +1917,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Spanish MAP Growth Reading](spanish-map-growth-reading.md) - A Spanish-language, computer-adaptive K–8 reading achievement assessment developed by NWEA and linked to the English MAP Growth Reading scale.
 * [Spanish MAP Reading Fluency](spanish-map-reading-fluency.md) - Spanish MAP Reading Fluency is NWEA's adaptive Spanish-language assessment for oral reading fluency and foundational reading skills, administered in group settings with automatic speech scoring and reports for educators.
 * [Spanish MAP Reading Fluency Foundational Skills](spanish-map-reading-fluency-foundational-skills.md) - NWEA's Spanish-language early-grades reading assessment measures foundational skills across kindergarten through grade 3 and provides achievement and growth norms for interpreting scores over time.
+* [Spanish orthography test with 54 sentences as proxy for written language skills](spanish-orthography-test-with-54-sentences-as-proxy-for-written-language-skills.md) - A sentence-based assessment in which adult learners judge and correct Spanish orthographic errors to measure knowledge of Spanish orthographic norms.
 * [Spatial Spy](spatial-spy.md) - Spatial Spy is a browser-based gamified virtual-environment battery developed by Malanchini et al.
 * [SpeakApp-Kids!](speakapp-kids.md) - SpeakApp-Kids!
 * [Special Education Leadership Academy (Massachusetts)](special-education-leadership-academy-massachusetts.md) - A WestEd Learning Innovations leadership-development programme, funded by the Massachusetts Department of Elementary and Secondary Education, that supports experienced Massachusetts special education directors through sessions, follow-up meetings, and peer networking.

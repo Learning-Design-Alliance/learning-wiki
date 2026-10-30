@@ -64,3 +64,5 @@ Random effects models across the same 16-study meta-analysis produced moderate a
 - [Syllable stress awareness and spelling skills correlate with each other and with in-game training performance](stress-awareness-spelling-validity-correlations.md) — related
 - [Text reading is strongly related to reading comprehension overall (r = .61)](text-reading-comprehension-overall-relation-r61.md) — related
 - [Poor readers are highly heterogeneous and do not all display the same type of reading impairment](poor-readers-heterogeneous-reading-behaviours.md) — related
+- [Reading enjoyment is strongly associated with better orthographic skills through books read per year](reading-enjoyment-linked-to-orthography.md) — related
+- [In a highly educated adult sample, social media use shows no direct connection with orthographic skills](social-media-no-direct-orthography-link-highly-educated.md) — related

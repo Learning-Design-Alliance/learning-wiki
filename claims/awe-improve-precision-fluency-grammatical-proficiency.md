@@ -62,3 +62,4 @@ Systematic literature review synthesizing 50 empirical studies published 2019–
 - [AWE technology has evolved through four distinct generations from traditional NLP-based systems to AI-driven LLM-integrated tools (2000–2024)](awe-four-generations-evolution.md) — related
 - [AWE is more effective when complemented by teacher feedback rather than used as a standalone tool](awe-more-effective-with-teacher-feedback.md) — related
 - [AWE is more effective for surface-level writing skills than for higher-order skills such as argumentation and coherence](awe-surface-level-stronger-than-higher-order.md) — related
+- [High-affordance feedback tools supported accurate self-assessment while low-affordance tools hindered self-reflection](feedback-affordance-self-assessment.md) — related

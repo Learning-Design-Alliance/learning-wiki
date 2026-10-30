@@ -88,3 +88,4 @@ The review reports countervailing findings in the same category, including that 
 - [CLT-aligned e-learning modules improved cognitive load profiles and OSCE performance in simulation-based medical training (review-attributed to Gutierrez et al., 2023)](clt-aligned-e-learning-modules-improve-osce-performance.md) — related
 - [In an evaluative study, medical learners interpreted MedEasy as a connected consultation environment and used its components together to judge case coherence](learners-interpret-medeasy-connected-environment.md) — related
 - [Patient simulation is the most prevalent role in higher education, concentrated in medical training contexts](higher-education-patient-simulator-role.md) — related
+- [Some VSP history-taking behaviors correlated with clinical reasoning metrics](vsp-behaviors-correlate-clinical-reasoning.md) — related
