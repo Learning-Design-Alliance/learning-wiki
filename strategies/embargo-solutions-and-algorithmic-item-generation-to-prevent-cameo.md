@@ -9,7 +9,8 @@ generated:
   at: 2026-10-30
 sources:
   - id: northcutt-2015
-    title: "Northcutt, C. G., Ho, A. D., & Chuang, I. L. (2015). Detecting and Preventing “Multiple-Account” Cheating in Massive Open Online Courses."
+    resource: "https://doi.org/10.48550/arxiv.1508.05699"
+    title: "Northcutt, C. G., Ho, A. D., & Chuang, I. L. (2015). Detecting and Preventing “Multiple-Account” Cheating in Massive Open Online Courses. arXiv:1508.05699."
     author: "Northcutt, C. G., Ho, A. D., & Chuang, I. L"
 ---
 
@@ -49,4 +50,4 @@ The article identifies two mechanisms that logically prevent CAMEO: "restricting
 -
 
 ## Key Sources
-- Northcutt, C. G., Ho, A. D., & Chuang, I. L. (2015). Detecting and Preventing “Multiple-Account” Cheating in Massive Open Online Courses.
+- Northcutt, C. G., Ho, A. D., & Chuang, I. L. (2015). Detecting and Preventing “Multiple-Account” Cheating in Massive Open Online Courses. *arXiv preprint* arXiv:1508.05699. [doi:10.48550/arxiv.1508.05699](https://doi.org/10.48550/arxiv.1508.05699)

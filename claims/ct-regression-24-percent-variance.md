@@ -9,6 +9,7 @@ generated:
   at: 2026-10-30
 evidence_strength: moderate
 newest_evidence: 2022
+source_checked: 2026-10-30
 sources:
   - id: tsarava-2022
     resource: "https://doi.org/10.1016/j.compedu.2021.104425"
@@ -32,11 +33,11 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
-> **Currency** · newest study 2022 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-10-30 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The multiple regression model significantly predicted CTt performance (F(6, 179) = 9.635; p < .001, R2 = .244). [→ Tsarava 2022](#tsarava-2022)
-`q3 i?` Calculation abilities and multiplication were no significant predictors of CTt performance in the regression. [→ Tsarava 2022 (2)](#tsarava-2022-2)
+`q3 i?` Calculation abilities (β = -.073) and multiplication (β = .101) were not significant predictors of CTt performance in the regression. [→ Tsarava 2022 (2)](#tsarava-2022-2)
 
 ## Evidence
 
@@ -56,7 +57,7 @@ Tsarava, K., Moeller, K., Román-González, M., Golle, J., Leifheit, L., Butz, M
 
 `q3 · i?` · `associational · r2`
 
-Null regression findings from the same model: calculation abilities and multiplication skills were not significant predictors of CTt performance; no effect size was printed.
+Non-significant predictors in the same cross-sectional regression: calculation abilities (standardized β = -.073, p = .482) and multiplication skills (β = .101, p = .296) did not significantly predict CTt performance once the other cognitive measures were in the model. Non-significance here is not evidence of no relationship; the impact code stays `i?` because a standardized regression coefficient is not converted to a d-tier.
 
 > "Calculation abilities (CALC; β = -.073, p = .482) and multiplication (MUL; β = .101, p = .296) skills were no significant predictors of CTt performance."
 

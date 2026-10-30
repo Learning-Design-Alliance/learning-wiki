@@ -30,4 +30,4 @@ The article uses dedicated algorithms to identify two types of fake learners: "C
 
 ## Key Sources
 - Alexandron, G., Yoo, L. Y., Ruipérez-Valiente, J. A., Lee, S., & Pritchard, D. E. (2019). Are MOOC Learning Analytics Results Trustworthy? With Fake Learners, They Might Not Be! International Journal of Artificial Intelligence in Education, 29, 484–506. https://doi.org/10.1007/s40593-019-00183-1
-- Northcutt, C. G., Ho, A. D., & Chuang, I. L. (2015). Detecting and Preventing “Multiple-Account” Cheating in Massive Open Online Courses. https://doi.org/10.1145/2724660.2728663
+- Northcutt, C. G., Ho, A. D., & Chuang, I. L. (2015). Detecting and Preventing “Multiple-Account” Cheating in Massive Open Online Courses. *arXiv preprint* arXiv:1508.05699. https://doi.org/10.48550/arxiv.1508.05699

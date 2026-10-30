@@ -8,10 +8,11 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-30
 evidence_strength: moderate
-newest_evidence: 2008
+newest_evidence: 2010
 sources:
   - id: carbonaro-2008
-    title: "Carbonaro, M., Szafron, D., Cutumisu, M., & Schaeffer, J. (2008). Computer-game Construction: A Gender-neutral Attractor to Computing Science. Informing Science? No—venue not printed."
+    resource: "https://doi.org/10.1016/j.compedu.2010.05.007"
+    title: "Carbonaro, M., Szafron, D., Cutumisu, M., & Schaeffer, J. (2010). Computer-game construction: A gender-neutral attractor to Computing Science. *Computers & Education, 55*(3), 1098–1111. [doi:10.1016/j.compedu.2010.05.007](https://doi.org/10.1016/j.compedu.2010.05.007)"
     author: "Carbonaro, M., Szafron, D., Cutumisu, M., & Schaeffer, J."
     q: 2
     i: "?"
@@ -23,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The mean higher-order thinking score for females (15.92) was significantly higher than for males (15.12), p = 0.015. [→ Carbonaro 2008](#carbonaro-2008)
@@ -32,7 +33,7 @@ sources:
 
 ### Carbonaro 2008
 
-Carbonaro, M., Szafron, D., Cutumisu, M., & Schaeffer, J. (2008). Computer-game Construction: A Gender-neutral Attractor to Computing Science. Informing Science? No—venue not printed.
+Carbonaro, M., Szafron, D., Cutumisu, M., & Schaeffer, J. (2010). Computer-game construction: A gender-neutral attractor to Computing Science. *Computers & Education, 55*(3), 1098–1111. [doi:10.1016/j.compedu.2010.05.007](https://doi.org/10.1016/j.compedu.2010.05.007)
 
 `q2 · i?` · `design · r2`
 
