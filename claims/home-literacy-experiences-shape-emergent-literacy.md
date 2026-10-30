@@ -51,6 +51,6 @@ The article's framing premise, stated in the abstract as "young children's liter
 
 ## Related Claims
 - [Frequency of e-book reading on tablets shows no association with children's emergent literacy skills](ebook-reading-frequency-no-association-emergent-literacy.md) — a narrower finding that bears on this claim
-- [Children's frequency of writing with touch screen tablets at home is positively associated with print awareness, print knowledge and sound awareness](tablet-writing-frequency-positively-associated-emergent-literacy.md) — a narrower finding that bears on this claim
+- [Children's frequency of writing with touch screen tablets at home is positively associated with print awareness, print knowledge and sound knowledge](tablet-writing-frequency-positively-associated-emergent-literacy.md) — a narrower finding that bears on this claim
 - [Children's access to tablet apps at home is positively associated with print knowledge](tablet-app-access-positively-associated-print-knowledge.md) — a narrower finding that bears on this claim
 - [Joint Book Reading Predicts Literacy Success](joint-book-reading-predicts-literacy-success.md) — a narrower finding that bears on this claim

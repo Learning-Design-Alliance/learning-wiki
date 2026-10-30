@@ -1,6 +1,6 @@
 {
 "coverage":{
-"claims->claims":34357,
+"claims->claims":34355,
 "claims->designs":12,
 "claims->elements":103,
 "claims->learner-variables":6023,
@@ -27158,12 +27158,10 @@
 "scripted-interaction-eliminates-observer-drift":{"claims":[{"slug":"default-persona-self-report-observer-gap"},{"slug":"intensity-dependent-between-conversation-stability"},{"slug":"llm-persona-self-report-stable-within-conversation"},{"slug":"model-and-prompt-moderate-persona-expression"},{"slug":"observer-rated-persona-drift-unscripted-conversations"}],"patterns":[{"polarity":"+","slug":"ai-tutoring","strength":"M"}]},
 "scripted-personal-inquiry-associated-with-inquiry-knowledge-gains":{"claims":[{"slug":"ai-ibi-mainly-supports-creativity-and-affect"},{"slug":"ci-cycle-metric-guided-solution-quarry-problem"},{"slug":"inquiry-based-teaching-improves-science-achievement"},{"slug":"interdisciplinary-humanities-units-improve-interdisciplinary-competences"},{"slug":"task-value-increases-motivation-and-engagement"}],"elements":[{"polarity":"+","slug":"inquiry-based-learning","strength":"W"}],"principles":[{"polarity":"~","slug":"inquiry-based-learning","strength":"W"}],"theories":[{"polarity":"~","slug":"personal-inquiry","strength":"M"}]},
 "scripted-roles-scaffold-cognitive-responsibility-knowledge-building":{"claims":[{"slug":"fragmented-premature-shared-understanding"},{"slug":"grade-5-sustain-productive-collaboration-whole-year-knowledge-building"}],"elements":[{"polarity":"+","slug":"group-roles","strength":"W"}],"principles":[{"polarity":"~","slug":"scaffolding","strength":"W"}]},
-"scripting-interface-higher-quality-peer-feedback":{"claims":[{"slug":"scripting-interface-longer-peer-feedback-comments"},{"slug":"scripting-interface-more-critical-evaluations"},{"slug":"scripting-self-monitoring-scaffolds-higher-engagement"},{"slug":"scripting-self-monitoring-scaffolds-higher-quality"}]},
-"scripting-interface-longer-peer-feedback-comments":{"claims":[{"slug":"scripting-interface-higher-quality-peer-feedback"},{"slug":"scripting-interface-more-critical-evaluations"},{"slug":"scripting-self-monitoring-scaffolds-higher-engagement"},{"slug":"scripting-self-monitoring-scaffolds-higher-quality"}],"elements":[{"polarity":"~","slug":"peer-assessment","strength":"W"}]},
-"scripting-interface-more-critical-evaluations":{"claims":[{"slug":"scripting-interface-higher-quality-peer-feedback"},{"slug":"scripting-interface-longer-peer-feedback-comments"},{"slug":"scripting-self-monitoring-scaffolds-higher-engagement"},{"slug":"scripting-self-monitoring-scaffolds-higher-quality"}]},
+"scripting-interface-higher-quality-peer-feedback":{"claims":[{"slug":"scripting-interface-longer-peer-feedback-comments"},{"slug":"scripting-interface-more-critical-evaluations"}]},
+"scripting-interface-longer-peer-feedback-comments":{"claims":[{"slug":"scripting-interface-higher-quality-peer-feedback"},{"slug":"scripting-interface-more-critical-evaluations"}],"elements":[{"polarity":"~","slug":"peer-assessment","strength":"W"}]},
+"scripting-interface-more-critical-evaluations":{"claims":[{"slug":"scripting-interface-higher-quality-peer-feedback"},{"slug":"scripting-interface-longer-peer-feedback-comments"}]},
 "scripting-little-difference-learning-outcomes":{"claims":[{"slug":"device-ratio-affordances-role-interaction"},{"slug":"evidence-based-rubric-scripting-more-quality-discussion"},{"slug":"modeling-outlasts-scripting-after-withdrawal"},{"slug":"no-difference-final-diagram-quality-interfaces"},{"slug":"no-script-effect-on-summary-quantity-quality"},{"slug":"script-improves-adherence-activity-order"},{"slug":"script-increases-discussion-on-differences"},{"slug":"script-increases-grounding-input-amount-length"},{"slug":"structured-cscl-interface-acts-and-symmetry"}],"elements":[{"polarity":"~","slug":"group-roles","strength":"W"}]},
-"scripting-self-monitoring-scaffolds-higher-engagement":{"claims":[{"slug":"scripting-interface-higher-quality-peer-feedback"},{"slug":"scripting-interface-longer-peer-feedback-comments"},{"slug":"scripting-interface-more-critical-evaluations"},{"slug":"scripting-self-monitoring-scaffolds-higher-quality"}],"elements":[{"polarity":"~","slug":"review","strength":"W"}],"principles":[{"polarity":"~","slug":"self-regulated-learning","strength":"W"}]},
-"scripting-self-monitoring-scaffolds-higher-quality":{"claims":[{"slug":"scripting-interface-higher-quality-peer-feedback"},{"slug":"scripting-interface-longer-peer-feedback-comments"},{"slug":"scripting-interface-more-critical-evaluations"},{"slug":"scripting-self-monitoring-scaffolds-higher-engagement"}],"patterns":[{"polarity":"+","slug":"self-regulated-learning","strength":"W"}],"principles":[{"polarity":"~","slug":"peer-learning","strength":"W"},{"polarity":"+","slug":"scaffolding","strength":"W"}]},
 "scripts-disturb-convergence-increase-interaction-intensity":{"claims":[{"slug":"conflicting-evidence-increases-argumentation"},{"slug":"coordination-dominates-communication-rare"},{"slug":"internal-scripts-determine-collaboration-behavior"},{"slug":"macro-scripts-foster-productive-interactions"},{"slug":"regulation-macro-script-monitoring-support"}],"designs":[{"polarity":"+","slug":"perturbation-model-cscl-macro-scripts","strength":"M"}]},
 "scrum-classes-significant-within-group-perception-increases":{"claims":[{"slug":"perceived-teacher-support-fidelity-check-split-experimental-group"}],"strategies":[{"polarity":"+","slug":"stand-up-meeting-at-start-of-every-lesson","strength":"M"}],"theories":[{"polarity":"~","slug":"self-regulated-learning","strength":"W"}]},
 "scy-missions-prepost-gains":{"claims":[{"slug":"scy-navigation-little-trouble"}],"products":[{"polarity":"+","slug":"scy-lab","strength":"M"}]},
@@ -38896,7 +38894,7 @@
 },
 "note":"Reverse edges: for each page, which pages link TO it. Built by scripts/build_reverse_index.py; see its docstring for why this direction rather than ## Examples.",
 "totals":{
-"claims":34440,
+"claims":34438,
 "designs":1333,
 "elements":1057,
 "learner-variables":75,

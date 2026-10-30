@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Children's frequency of writing with touch screen tablets at home is positively associated with print awareness, print knowledge and sound awareness"
-description: "Children's frequency of writing with touch screen tablets at home is positively associated with print awareness, print knowledge and sound awareness"
+title: Children's frequency of writing with touch screen tablets at home is positively associated with print awareness, print knowledge and sound knowledge
+description: Children's frequency of writing with touch screen tablets at home is positively associated with print awareness, print knowledge and sound knowledge
 id: tablet-writing-frequency-positively-associated-emergent-literacy
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 1
 ---
 
-# Children's frequency of writing with touch screen tablets at home is positively associated with print awareness, print knowledge and sound awareness
+# Children's frequency of writing with touch screen tablets at home is positively associated with print awareness, print knowledge and sound knowledge
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Frequency of writing with tablets is positively associated with print awareness, print knowledge and sound awareness in children aged 2–4 years. [→ Neumann 2016](#neumann-2016)
+`q2 i?` Frequency of writing with tablets is positively associated with print awareness, print knowledge and sound knowledge in children aged 2–4 years. [→ Neumann 2016](#neumann-2016)
 
 ## Evidence
 
@@ -37,7 +37,7 @@ Neumann, Michelle M. (2016). Young children's use of touch screen tablets for wr
 
 `q2 · i?` · `associational · r1`
 
-Correlational analysis of home tablet use reported by parents of 57 children aged 2–4 years found "a positive association was found between the frequency of writing with tablets and print awareness, print knowledge, and sound knowledge". No effect size is printed.
+Correlational analysis of home tablet use among 57 children aged 2–4 years found "a positive association was found between the frequency of writing with tablets and print awareness, print knowledge, and sound knowledge". No effect size is printed.
 
 > "A positive association was found between the frequency of writing with tablets and print awareness, print knowledge, and sound knowledge."
 

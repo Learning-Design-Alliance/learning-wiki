@@ -51,7 +51,7 @@ sources:
 # Peer Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 48 claims (23 for, 24 mixed, 1 against) · 53 studies (14 causal, 13 quant-synthesis, 7 review, 5 associational, 5 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 13 of 53 report an effect size · 40 claims rest on one study
+> **Evidence** · 47 claims (23 for, 23 mixed, 1 against) · 52 studies (13 causal, 13 quant-synthesis, 7 review, 5 associational, 5 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 13 of 52 report an effect size · 39 claims rest on one study
 
 ## Conditional relationship
 
@@ -190,7 +190,6 @@ Pair performance, each learner's immediate unaided performance, delayed retentio
 - [Variable reciprocity assigns tutor roles for problems a student solved and tutee roles for problems not solved (as proposed by Evans and Moore)](../claims/variable-reciprocity-solved-problems-tutor.md) [~W]
 - [Sixth graders acting as peer tutors tended to take over problems and provide inaccurate feedback rather than help their tutee](../claims/sixth-graders-poor-peer-tutors.md) [-W]
 - [A synergistic effect between tutor and tutee roles may explain the peer agent's advantage](../claims/tutor-tutee-synergistic-effect.md) [+W]
-- [Scripting and self-monitoring scaffolds lead to higher quality peer feedback than no scaffolding](../claims/scripting-self-monitoring-scaffolds-higher-quality.md) [~W]
 
 ## Related Principles
 - [Peer Discussion](peer-discussion.md) — one of the clearest vehicles for peer learning

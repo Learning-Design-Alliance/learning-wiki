@@ -8,16 +8,16 @@ This wiki is written by language models, from published research, and checked by
 
 | | |
 |---|---|
-| Claims | 34,440, from 8,556 sources |
+| Claims | 34,438, from 8,556 sources |
 | Reviewed by a person | 0 |
 | Every evidence entry compared with its source by the faithfulness judge | 5,434 claims (16%) |
-| Claims citing at least one DOI | 26,639 claims (77%) |
+| Claims citing at least one DOI | 26,637 claims (77%) |
 | Sources whose citations went through the Crossref identity gate | 7,901 of 8,556 |
 | Sources read for impossible statistics and invented references | 6,251 of 7,135 (2026-10-25) |
 | Cited DOIs checked for retraction | 6,793 of 6,793 (2026-10-25) |
 | Retracted sources found and acted on | 4 |
 | Claims past their recheck year (fast-ageing kinds only) | 2,571 of 5,710 with one |
-| Claims removed by a check, all time | 4,432 |
+| Claims removed by a check, all time | 4,434 |
 
 ## The checks, in the order a claim meets them
 
@@ -51,7 +51,7 @@ A claim whose evidence has no DOI after a Crossref and DataCite search is remove
 
 **Cannot catch.** Whether the DOI'd source is any good.
 
-**Coverage.** 26,639 of 34,440 claims (77%) cite a DOI; 2,880 claims removed for having none.
+**Coverage.** 26,637 of 34,438 claims (77%) cite a DOI; 2,880 claims removed for having none.
 
 ### 5. Faithfulness to the source
 
@@ -83,7 +83,7 @@ Each evidence entry carries a design tier (`q1`–`q4`), an impact code (`i0`–
 
 **Cannot catch.** Whether a study's conclusion is true. The codes describe how a study was done, not whether it was right.
 
-**Coverage.** 41,319 evidence entries; 5,895 rest on a printed effect size and 35,443 report none (`i?`); 36,140 carry a rigour rating.
+**Coverage.** 41,317 evidence entries; 5,895 rest on a printed effect size and 35,441 report none (`i?`); 36,138 carry a rigour rating.
 
 ### 9. Duplicates and merges
 
@@ -121,7 +121,7 @@ Removals are logged with their reason in `eval/removed/pages.ndjson`; git histor
 | Source cannot be believed (impossible statistics, invented references, retraction) | 12 |
 | Citation chase: a retracted article or off-topic methods literature | 83 |
 | Misfiled or thin page folded or dropped | 239 |
-| Other (see eval/removed/pages.ndjson) | 6 |
+| Other (see eval/removed/pages.ndjson) | 8 |
 
 ## What no check here does
 

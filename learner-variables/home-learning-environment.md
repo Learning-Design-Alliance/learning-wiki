@@ -107,7 +107,7 @@ The home learning environment is what families, caregivers and communities provi
 - [A parents' information evening improved parents' skills and prompted information-sharing, but reached only a minority of parents](../claims/parents-evening-partial-reach.md) [~M] — instruction changes it
 - [Children aged 2–4 years' home literacy experiences relate to their emergent literacy skill development](../claims/home-literacy-experiences-shape-emergent-literacy.md) [+M] — learners who differ on it differ in outcomes
 - [Children's access to tablet apps at home is positively associated with print knowledge](../claims/tablet-app-access-positively-associated-print-knowledge.md) [+M] — learners who differ on it differ in outcomes
-- [Children's frequency of writing with touch screen tablets at home is positively associated with print awareness, print knowledge and sound awareness](../claims/tablet-writing-frequency-positively-associated-emergent-literacy.md) [+M] — learners who differ on it differ in outcomes
+- [Children's frequency of writing with touch screen tablets at home is positively associated with print awareness, print knowledge and sound knowledge](../claims/tablet-writing-frequency-positively-associated-emergent-literacy.md) [+M] — learners who differ on it differ in outcomes
 - [Frequency of e-book reading on tablets shows no association with children's emergent literacy skills](../claims/ebook-reading-frequency-no-association-emergent-literacy.md) [-M] — learners who differ on it differ in outcomes
 
 ## Measures

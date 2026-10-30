@@ -47,5 +47,5 @@ In the randomised controlled field experiment with 149 students, feedback qualit
 ## Related Claims
 - [Students using a scripting interface for peer feedback provide longer comments than students using a self-monitoring interface](scripting-interface-longer-peer-feedback-comments.md) — related
 - [Students using a scripting interface exhibit a more critical perspective in their peer feedback evaluations than students using a self-monitoring interface](scripting-interface-more-critical-evaluations.md) — related
-- [Scripting and self-monitoring scaffolds lead to higher quality peer feedback than no scaffolding](scripting-self-monitoring-scaffolds-higher-quality.md) — related
-- [Scripting and self-monitoring scaffolds lead to higher engagement than no scaffolding in peer feedback](scripting-self-monitoring-scaffolds-higher-engagement.md) — related
+- Scripting and self-monitoring scaffolds lead to higher quality peer feedback than no scaffolding — related
+- Scripting and self-monitoring scaffolds lead to higher engagement than no scaffolding in peer feedback — related

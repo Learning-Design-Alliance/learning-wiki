@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":34440,
+"claim":34438,
 "design":1333,
 "element":1057,
 "learner-variable":75,
@@ -281208,26 +281208,6 @@
 "type":"claim"
 },
 {
-"description":"Scripting and self-monitoring scaffolds lead to higher engagement than no scaffolding in peer feedback",
-"evidence_strength":"weak",
-"id":"scripting-self-monitoring-scaffolds-higher-engagement",
-"newest_evidence":"2025",
-"path":"claims/scripting-self-monitoring-scaffolds-higher-engagement.md",
-"status":"review",
-"title":"Scripting and self-monitoring scaffolds lead to higher engagement than no scaffolding in peer feedback",
-"type":"claim"
-},
-{
-"description":"Scripting and self-monitoring scaffolds lead to higher quality peer feedback than no scaffolding",
-"evidence_strength":"weak",
-"id":"scripting-self-monitoring-scaffolds-higher-quality",
-"newest_evidence":"2025",
-"path":"claims/scripting-self-monitoring-scaffolds-higher-quality.md",
-"status":"review",
-"title":"Scripting and self-monitoring scaffolds lead to higher quality peer feedback than no scaffolding",
-"type":"claim"
-},
-{
 "description":"Macro scripts disturb a team's natural convergence and increase required interaction intensity",
 "evidence_strength":"weak",
 "id":"scripts-disturb-convergence-increase-interaction-intensity",
@@ -317370,13 +317350,13 @@
 "type":"claim"
 },
 {
-"description":"Children's frequency of writing with touch screen tablets at home is positively associated with print awareness, print knowledge and sound awareness",
+"description":"Children's frequency of writing with touch screen tablets at home is positively associated with print awareness, print knowledge and sound knowledge",
 "evidence_strength":"moderate",
 "id":"tablet-writing-frequency-positively-associated-emergent-literacy",
 "newest_evidence":"2016",
 "path":"claims/tablet-writing-frequency-positively-associated-emergent-literacy.md",
 "status":"review",
-"title":"Children's frequency of writing with touch screen tablets at home is positively associated with print awareness, print knowledge and sound awareness",
+"title":"Children's frequency of writing with touch screen tablets at home is positively associated with print awareness, print knowledge and sound knowledge",
 "type":"claim"
 },
 {
@@ -505199,8 +505179,6 @@
 "scripting-interface-longer-peer-feedback-comments":"scripting-interface-longer-peer-feedback-comments",
 "scripting-interface-more-critical-evaluations":"scripting-interface-more-critical-evaluations",
 "scripting-little-difference-learning-outcomes":"scripting-little-difference-learning-outcomes",
-"scripting-self-monitoring-scaffolds-higher-engagement":"scripting-self-monitoring-scaffolds-higher-engagement",
-"scripting-self-monitoring-scaffolds-higher-quality":"scripting-self-monitoring-scaffolds-higher-quality",
 "scripts-disturb-convergence-increase-interaction-intensity":"scripts-disturb-convergence-increase-interaction-intensity",
 "scrum-classes-significant-within-group-perception-increases":"scrum-classes-significant-within-group-perception-increases",
 "scy-missions-prepost-gains":"scy-missions-prepost-gains",

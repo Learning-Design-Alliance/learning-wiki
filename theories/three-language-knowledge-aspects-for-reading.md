@@ -45,7 +45,7 @@ In analyzing how home-school language switching affects reading development, the
 - [Language-independent phonological awareness and print knowledge factors relate to each other and to language-specific early literacy factors, suggesting a general language-learning capacity](../claims/cross-construct-relations-general-factors.md) [+W]
 - [Genetic and residual covariance patterns diverge between oral language and literacy/phonological awareness](../claims/genetic-residual-divergence-oral-language-literacy.md) [~W]
 - [More frequent home literacy practices are associated with children's vocabulary skill but not with reading accuracy or speed](../claims/home-literacy-vocabulary-not-reading-fluency.md) [~W] — attached 2026-10-27 from Girard et al. (2021), which proposed "Vocabulary-mediation model of home literacy effects on the reading brain".
-- [Children's frequency of writing with touch screen tablets at home is positively associated with print awareness, print knowledge and sound awareness](../claims/tablet-writing-frequency-positively-associated-emergent-literacy.md) [+W] — attached 2026-10-30 from Neumann (2016), which proposed "Emergent literacy framework linking home digital and print experiences to print awareness, print knowledge and sound knowledge".
+- [Children's frequency of writing with touch screen tablets at home is positively associated with print awareness, print knowledge and sound knowledge](../claims/tablet-writing-frequency-positively-associated-emergent-literacy.md) [+W] — attached 2026-10-30 from Neumann (2016), which proposed "Emergent literacy framework linking home digital and print experiences to print awareness, print knowledge and sound knowledge".
 
 ## Related Patterns
 - 

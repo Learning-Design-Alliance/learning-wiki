@@ -105,7 +105,7 @@ Whether a learner can *operate* the interface — distinct from [access](access.
 - [High-scoring Chilean 10th graders focused and concentrated on school assignments online and adopted cognitive and organizational strategies when using the Internet](../claims/high-scorers-concentration-and-strategies-digital-skills.md) [+W] — learners who differ on it differ in outcomes
 - [24% of students added conditions and 8% added situations, demonstrating exposure to Booleans, selection control structures, and event handling.](../claims/condition-and-situation-adaptations.md) [+M] — instruction changes it
 - [96% of students learned to select a computational artifact from a library and customize it by setting options.](../claims/scriptease-library-selection-and-options.md) [+M] — instruction changes it
-- [Children's frequency of writing with touch screen tablets at home is positively associated with print awareness, print knowledge and sound awareness](../claims/tablet-writing-frequency-positively-associated-emergent-literacy.md) [+W] — learners who differ on it differ in outcomes
+- [Children's frequency of writing with touch screen tablets at home is positively associated with print awareness, print knowledge and sound knowledge](../claims/tablet-writing-frequency-positively-associated-emergent-literacy.md) [+W] — learners who differ on it differ in outcomes
 - [Frequency of e-book reading on tablets shows no association with children's emergent literacy skills](../claims/ebook-reading-frequency-no-association-emergent-literacy.md) [-W] — learners who differ on it differ in outcomes
 
 ## The evidence by question

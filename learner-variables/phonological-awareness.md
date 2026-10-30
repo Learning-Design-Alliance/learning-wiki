@@ -139,7 +139,7 @@ It sits within the wiki's broader [reading and language](reading-and-language.md
 - [Neither speech therapy nor serious non-action video games produced significant phonemic awareness gains in at-risk pre-readers](../claims/active-controls-no-phonemic-awareness-gain.md) [-M] — instruction changes it
 - [Phonemic awareness gains after AVG training occur in more than 80% of at-risk pre-readers](../claims/avg-phonemic-awareness-gain-majority-responder.md) [+M] — instruction changes it
 - [Phonemic awareness improvements from AVG training are maintained at a 6-month follow-up](../claims/avg-phonemic-awareness-gain-6month-maintenance.md) [+M] — instruction changes it
-- [Children's frequency of writing with touch screen tablets at home is positively associated with print awareness, print knowledge and sound awareness](../claims/tablet-writing-frequency-positively-associated-emergent-literacy.md) [+W] — instruction changes it
+- [Children's frequency of writing with touch screen tablets at home is positively associated with print awareness, print knowledge and sound knowledge](../claims/tablet-writing-frequency-positively-associated-emergent-literacy.md) [+W] — instruction changes it
 
 ## Measures
 - **The Phonological Awareness Test 2 (PAT 2)** (Robertson & Salter, 2007): covers rhyming and detecting and manipulating phonemes, ages 5 to 9.

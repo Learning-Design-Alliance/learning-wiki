@@ -40,7 +40,7 @@ The article's findings suggest that the frequency of writing with tablets, not j
 
 ## Claims
 
-- [Children's frequency of writing with touch screen tablets at home is positively associated with print awareness, print knowledge and sound awareness](../claims/tablet-writing-frequency-positively-associated-emergent-literacy.md) [+W]
+- [Children's frequency of writing with touch screen tablets at home is positively associated with print awareness, print knowledge and sound knowledge](../claims/tablet-writing-frequency-positively-associated-emergent-literacy.md) [+W]
 - [Frequency of e-book reading on tablets shows no association with children's emergent literacy skills](../claims/ebook-reading-frequency-no-association-emergent-literacy.md) [+W]
 - [Children aged 2–4 years' home literacy experiences relate to their emergent literacy skill development](../claims/home-literacy-experiences-shape-emergent-literacy.md) [+W]
 
