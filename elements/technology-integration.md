@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 134 claims (61 for, 62 mixed, 11 against) · 116 studies (25 associational, 23 qualitative, 20 causal, 18 review, 14 design, 11 quant-synthesis, 5 theoretical), `q1`–`q4` · 20 of 116 report an effect size · 131 claims rest on one study
+> **Evidence** · 135 claims (62 for, 62 mixed, 11 against) · 117 studies (26 associational, 23 qualitative, 20 causal, 18 review, 14 design, 11 quant-synthesis, 5 theoretical), `q1`–`q4` · 20 of 117 report an effect size · 132 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -159,6 +159,7 @@ Technology integration is the element in which digital tools are used in direct 
 - [Field instructors positioned technology as a presentation aid to be tempered with traditional teaching](../claims/field-instructors-technology-as-presentation-aid-tempered.md) [-W]
 - [MISTT analysis revealed mismatches in teacher identity expectations which may hinder effective technology integration](../claims/mistt-identity-expectation-mismatches-hinder-technology-integration.md) [~W]
 - [Teacher-led robot curriculum with teacher education improves pupils' debugging scores relative to control](../claims/teacher-education-robot-curriculum-improves-debugging.md) [+W]
+- [The more pre-service teachers perceive the six ICT-integration strategies occurring in their teacher education, the higher their perceived ICT competence](../claims/perceived-strategy-occurrence-positively-associated-ict-competence.md) [+W]
 
 ## The evidence by question
 - *Does building AI tools into instruction raise achievement over teaching the same content without them, and in which settings?* [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](../claims/ai-instruction-stem-moderate-positive-effect.md) [+M]

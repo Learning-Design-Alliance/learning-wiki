@@ -63,3 +63,4 @@ A quasi-experiment in a courseware project compared two classes: one randomly as
 - [ChatGPT in a flipped classroom with hands-on coding significantly increased computational thinking, self-efficacy, and motivation](chatgpt-flipped-classroom-increased-ct-self-efficacy-motivation.md) — related
 - [Majorities of students reported self-improvements in information literacy, multimedia material processing, and courseware design after the blended course](self-reported-skill-gains-blended-pet-course.md) — related
 - [Students' self-directed learning and creative thinking skills increased significantly after QIMS inquiry-based lessons](qims-lessons-increase-self-directed-learning-creative-thinking.md) — related
+- [Learners reported mostly positive attitudes toward flipped learning in the learner-generated-materials pronunciation course](positive-attitudes-flipped-pronunciation.md) — related

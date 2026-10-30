@@ -44,7 +44,7 @@ sources:
 # Formative Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 38 claims (23 for, 15 mixed) · 49 studies (12 causal, 12 quant-synthesis, 12 review, 5 theoretical, 4 associational, 2 qualitative, 2 design), `q1`–`q4` · 16 of 49 report an effect size · 26 claims rest on one study
+> **Evidence** · 39 claims (24 for, 15 mixed) · 50 studies (12 causal, 12 quant-synthesis, 12 review, 5 associational, 5 theoretical, 2 qualitative, 2 design), `q1`–`q4` · 16 of 50 report an effect size · 27 claims rest on one study
 
 ## Description
 
@@ -131,6 +131,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Learning analytics research most often supports the 'where the learner is now' stage of formative assessment (51% of studies) and rarely the 'how to get there' stage (2%)](../claims/la-support-concentrated-where-learner-is-now.md) [~W] — attached 2026-10-20 from Seyyed Kazem Banihashem et al. (2025), which proposed "Use learning analytics to deliver scaled, real-time, personalized feedback that relieves teacher workload constraints on formative assessment".
 - [Formative assessment with validated analytic rubrics in the Viewbrics tool produced higher oral presentation performance than conventional rating-scale rubrics in Dutch secondary education](../claims/analytic-rubrics-outperform-conventional-rubrics-oral-presentation.md) [+M] — attached 2026-10-29 from Rob J. Nadolski et al. (2021), which proposed "Six-step formative assessment method for oral presentation skills with analytic rubrics"; tests this page's relationship.
 - [Students rank understanding-checks, problem identification and interactivity as the top benefits of EVS use, with fun ranked last](../claims/evs-benefit-ranking-feedback-top.md) [+W] — attached 2026-10-29 from Samuel O. King et al. (2008), which proposed "Use EVS primarily in formative-assessment mode so instant feedback empowers students and informs lecturers' pedagogical adjustments".
+- [Students who used EVS only for summative assessment reported lower learning benefits and higher challenges than students who used it formatively or in combination](../claims/evs-summative-use-negative-impact.md) [+W] — attached 2026-10-30 from Marija Cubric et al. (2015), which proposed "Focus on the formative benefits of EVS rather than summative use to gain the promised rewards of the technology"; tests this page's relationship.
 
 ## Source verification and open tests
 

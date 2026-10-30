@@ -55,3 +55,4 @@ The umbrella review reports this meta-analysis of 46 correlation matrices on in-
 - [Students' willingness to accept learning analytics systems is moderately predicted by their attitudes toward data control and sharing](privacy-attitudes-predict-analytics-acceptance.md) — a narrower finding that bears on this claim
 - [Perceived usefulness partially mediates the effect of perceived ease of use on behavioral intention to use m-learning apps](pu-partially-mediates-peou-bi.md) — a narrower finding that bears on this claim
 - [The extended TAM model explains 42.3% of the variance in intention to use mobile library applications](extended-tam-explains-42-percent-variance-mla-intention.md) — a narrower finding that bears on this claim
+- [Pre-service teachers' attitudes towards ICT (in education) and ease of use positively impact their ICT competence for educational practice](attitudes-ease-of-use-impact-ict-competence.md) — a narrower finding that bears on this claim

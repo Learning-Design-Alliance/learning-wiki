@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**2316 entries** · 0 stable · 2316 in review · 0 drafts
+**2319 entries** · 0 stable · 2319 in review · 0 drafts
 
 ---
 
@@ -13,6 +13,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 #### A {: #letter-a }
 
 * [A guide for states on evaluating ARRA-funded programs and other educational reforms](a-guide-for-states-on-evaluating-arra-funded-programs-and-other-educational-reforms.md) - A jointly developed evaluation-planning guide from the American Institutes for Research and Mathematica Policy Research to help state education agencies evaluate ARRA-funded initiatives and other educational reforms.
+* [A Monte Carlo stochastic simulator of student academic performance along a university curriculum](a-monte-carlo-stochastic-simulator-of-student-academic-performance-along-a-university-curr.md) - A computer-based Monte Carlo simulator developed by Caro Huertas et al.
 * [A six-category, 28-theme conceptual framework of open data use in learning](a-six-category-28-theme-conceptual-framework-of-open-data-use-in-learning.md) - Tim Coughlan's framework organises open-data learning practice into six categories and 28 themes to help educators design and support activities involving open data.
 * [A Toolkit to Support Evidence-Based Writing Instruction in Grades 2 Through 4 (Historical)](a-toolkit-to-support-evidence-based-writing-instruction-in-grades-2-through-4-historical.md) - A historical toolkit providing evidence-based writing-instruction guidance, tip sheets, and professional-development supports for grades 2–4 teachers and school leaders.
 * [A Wearable Exam Stress Dataset for Predicting Cognitive Performance in Real-World Settings](a-wearable-exam-stress-dataset-for-predicting-cognitive-performance-in-real-world-settings.md) - An open-access PhysioNet dataset of Empatica E4 physiological signals collected from college students during exams, released for studying stress and predicting cognitive performance.
@@ -111,6 +112,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Analyst image-detection open code, data, and stimulus release](analyst-image-detection-open-code-data-and-stimulus-release.md) - A public GitHub release by Negar Kamali and colleagues containing study code, de-identified data, and balanced real and AI-generated stimulus images for research on human detection of diffusion-model imagery.
 * [Analytics Layers for Learning Design framework](analytics-layers-for-learning-design-framework.md) - A framework that organizes analytics for learning-design decision-making into learning-experience, learning-design-element, and educator-community layers, developed for use by learning-design stakeholders.
 * [Andes2 physics tutoring system](andes2-physics-tutoring-system.md) - Andes2 is an intelligent tutoring system for supporting students solving introductory physics homework problems, including algebraic equation solving and validity checking.
+* [ANECA-defined academic performance metrics framework](aneca-defined-academic-performance-metrics-framework.md) - A Spanish National Quality Evaluation and Accreditation Agency (ANECA) framework of subject-, semester-, and degree-level indicators for measuring university students’ academic progression, efficiency, success, and graduation.
 * [Annotated oral English corpus of 4,374 recordings from 486 Chinese university students across five diagnostic dimensions](annotated-oral-english-corpus-of-4374-recordings-from-486-chinese-university-students-acro.md) - A corpus created by Chai Rui containing 4,374 recorded oral-English performances from 486 Chinese university students, scored by trained evaluators across five diagnostic dimensions for model training and evaluation.
 * [Annotated R syntax and OSF repository for replicating MAIHDA analyses](annotated-r-syntax-and-osf-repository-for-replicating-maihda-analyses.md) - An OSF-hosted set of annotated R scripts and step-by-step analytical code for conducting and reproducing intersectional MAIHDA analyses, created by Keller et al.
 * [Annotated reflective-writing sentence dataset of 5080 sentences from 76 student essays](annotated-reflective-writing-sentence-dataset-of-5080-sentences-from-76-student-essays.md) - A corpus of 5,080 sentence-level annotations from higher-education reflective writings, created by Thomas Daniel Ullmann to support automated assessment of reflective writing.
@@ -143,6 +145,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [ASReview](asreview.md) - ASReview is an open-source machine-learning platform developed for efficient abstract screening in systematic reviews by iteratively prioritizing records for reviewer classification.
 * [Assessmake21](assessmake21.md) - Assessmake21 is a web-based digital self-assessment tool developed by Ourania Miliou and colleagues to help K–12 learners identify, reflect on, and document 21st-century skills during makerspace activities.
 * [Assessment Integration Management (AIM)](assessment-integration-management-aim.md) - Assessment Integration Management (AIM) is a web-based system for creating tests, uploading test models and item pools, and running large-scale computerized-based-exam simulations with configurable testing and student parameters.
+* [ASSET](asset.md) - ASSET is a Web 2.0 video-feedback storage and sharing platform developed by the University of Reading for staff-created feedback resources with tiered learner access.
 * [ASSISTments](assistments.md) - ASSISTments is a free web-based platform developed and operated by the ASSISTments Project for assigning mathematics practice, providing feedback, and reporting student-performance data to teachers.
 * [ASSISTments2009, EdNet-KT1, and XES3G5M knowledge-tracing benchmark datasets](assistments2009-ednet-kt1-and-xes3g5m-knowledge-tracing-benchmark-datasets.md) - A set of publicly used learner–question interaction datasets from online tutoring and exercise platforms, used to develop and evaluate knowledge-tracing models.
 * [ASTRA](astra.md) - ASTRA is an end-to-end air-traffic-control training simulator developed by Ethan Chew and colleagues that automates the simpilot role through speech recognition, response generation, and geospatial scenario visualization.

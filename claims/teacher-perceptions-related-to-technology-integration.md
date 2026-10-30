@@ -67,3 +67,4 @@ Cross-case interpretation linking the facilitative teachers' moderate integratio
 - [High pupil learning gains were not related to a high extent of teacher technology integration; junior classes gained more than senior class 2b](learning-gains-not-related-to-integration-extent.md) — related
 - [Review reports that teachers' beliefs, attitudes and TPACK—not AI knowledge alone—mediate AI integration](teacher-beliefs-mediate-ai-integration.md) — related
 - [Teachers' expectancy beliefs about successfully using AI applications shape their motivation to use them (theoretical argument).](teacher-expectancy-beliefs-shape-motivation-to-use-ai.md) — related
+- [Use of pre-existing domain-specific technology applications facilitates higher teaching quality than generic applications requiring teacher integration](domain-specific-materials-support-quality.md) — related

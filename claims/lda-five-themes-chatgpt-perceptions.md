@@ -54,3 +54,4 @@ Topic modeling of Spanish-language open-ended responses using LDA (following Ble
 - [GenAI education discourse on Reddit spans 17 themes across 5 clusters, with Academic Integrity the largest at 37.1% of records](genai-education-reddit-17-theme-taxonomy.md) — related
 - [Educators' written ideas about ChatGPT in education followed four themes: fostering AI literacy, acting as a character, improving learning, and serving as a teacher's help](chatgpt-ideas-four-themes-dataset2.md) — related
 - [Current research focus on Linked Data in education overlaps with modern PLE topics](linked-data-education-research-focus.md) — related
+- [LDA topic modelling of 6,087 written student feedback responses yields six SET-related topics](lda-six-topics-from-student-feedback.md) — related

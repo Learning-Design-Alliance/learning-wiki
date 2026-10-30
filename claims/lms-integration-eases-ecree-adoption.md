@@ -51,3 +51,4 @@ Key finding from the brief's grade 8–11 ELA classroom study: "Technical integr
 - [Teachers used Ecree less than intended, and some reported they did not have enough time to learn it and integrate it with instruction](teachers-used-ecree-less-than-intended-lacking-time.md) — related
 - [Teachers and students found Ecree easy to use and helpful for improving writing](ecree-easy-to-use-and-helpful-per-teachers-and-students.md) — related
 - [Integrating the IDSA into an existing learning management system limited usability, as the platform predefined frontend structure and navigation](idsa-lms-integration-usability-tradeoff.md) — related
+- [Use of pre-existing domain-specific technology applications facilitates higher teaching quality than generic applications requiring teacher integration](domain-specific-materials-support-quality.md) — related

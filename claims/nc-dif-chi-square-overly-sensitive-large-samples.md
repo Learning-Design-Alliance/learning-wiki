@@ -56,3 +56,4 @@ The article attributes the sensitivity finding to Fleer (1993). In this study, 2
 - [Raters differed significantly in severity/leniency in the MFRM analysis](raters-differed-severity-mfrm.md) — related
 - [Test length, focal group distribution, number of DIF items, and direction of DIF had little effect on detection rates](polytomous-dfit-factors-little-effect.md) — related
 - [Item purification made both DIF methods more sensitive, flagging more items](item-purification-increases-dif-detection-sensitivity.md) — related
+- [The sensitivity of the simulator's performance metrics to some of its parameters is analyzed using Design of Experiments](sensitivity-analysis-design-of-experiments.md) — related

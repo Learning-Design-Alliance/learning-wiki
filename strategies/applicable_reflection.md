@@ -59,8 +59,10 @@ Applicable reflection converts experience into transferable self-knowledge by pr
 5. Periodically review reflections yourself to identify class-wide misconceptions and adjust instruction
 
 ## Related Strategies
+
 - Error analysis and revision cycles — applicable reflection is the bridge between receiving feedback and acting on it
 - Portfolio assessment — provides the documented reflection history that makes feed-forward possible
+- [Plan and structure video feedback around signposts and feed-forward points before recording.](plan-video-feedback-with-signposts.md)
 
 ## Examples
 - A composition instructor returns drafts with comments, then asks: "What did you learn from your last writing assignment, and how will you apply it to your next one?" Students paste their answers at the top of the next draft, making the reflection operational.

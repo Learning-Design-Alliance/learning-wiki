@@ -86,6 +86,7 @@ The strategy combines generative learning with authentic purpose: summarizing so
 - Case-based discussion — magazine articles can serve as entry cases for subsequent class discussion
 - Peer review and editing cycles — the mechanism that converts publication into learning
 - [Design AI scaffolds for STEM learning by linking learners' goals and interests to real scientific applications of AI](strategy-design-field-specific-ai-scaffolds-stem.md)
+- [Use team-produced learner-generated materials built with user-friendly authoring tools as the in-class inquiry activity in a flipped language class](team-learner-generated-materials-strategy.md)
 
 ## Examples
 - **Alessandra King's algebra class** (Holton-Arms School, described in *Edutopia*): students produced a magazine of articles on real-world math — gerrymandering, fractals in Jackson Pollock's paintings, invisibility cloaks — each based on a closely read primary source such as a *Scientific American* article (https://www.edutopia.org).

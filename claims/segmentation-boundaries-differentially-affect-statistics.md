@@ -56,3 +56,4 @@ The paper reports, citing Rupp et al. (2009b), initial research on process-data 
 - [A sensitivity analysis indicates the content-derived information density metrics are robust to reasonable operationalizations](sensitivity-analysis-content-metrics-robust.md) — related
 - [In case examples, leaders and team members showed markedly different average peaks-per-segment EDA values during the same simulation segments](leader-team-member-eda-divergence-case-examples.md) — related
 - [No published research describes colleges using segmentation to improve student success, though authors and experts see promise in the approach](no-published-segmentation-application-example.md) — related
+- [The sensitivity of the simulator's performance metrics to some of its parameters is analyzed using Design of Experiments](sensitivity-analysis-design-of-experiments.md) — related
