@@ -45,5 +45,5 @@ The only substantive content in the supplied text is the manuscript title, which
 
 
 ## Related Claims
-- [A narrative review of intelligent tutoring systems asserts, citing one source, that students in personalized learning environments outperform peers in standardized settings](personalized-learning-outperforms-standardized-settings.md) — related
+- [A systematic literature review of intelligent tutoring systems asserts, citing one source, that students in personalized learning environments outperform peers in standardized settings](personalized-learning-outperforms-standardized-settings.md) — related
 - [Pseudo-interactive responses showed significantly more repetition: a lower type-token ratio than interactive responses (t = 3.371, p = .001)](pseudo-interactive-repetition-type-token.md) — related

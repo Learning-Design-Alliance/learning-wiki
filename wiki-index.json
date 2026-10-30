@@ -237786,13 +237786,14 @@
 "type":"claim"
 },
 {
-"description":"A narrative review of intelligent tutoring systems asserts, citing one source, that students in personalized learning environments outperform peers in standardized settings",
+"description":"A systematic literature review of intelligent tutoring systems asserts, citing one source, that students in personalized learning environments outperform peers in standardized settings",
 "evidence_strength":"weak",
 "id":"personalized-learning-outperforms-standardized-settings",
 "newest_evidence":"2025",
 "path":"claims/personalized-learning-outperforms-standardized-settings.md",
+"source_checked":"2026-10-30",
 "status":"review",
-"title":"A narrative review of intelligent tutoring systems asserts, citing one source, that students in personalized learning environments outperform peers in standardized settings",
+"title":"A systematic literature review of intelligent tutoring systems asserts, citing one source, that students in personalized learning environments outperform peers in standardized settings",
 "type":"claim"
 },
 {
@@ -332625,6 +332626,7 @@
 "id":"trails-partially-successful-technologically",
 "newest_evidence":"2010",
 "path":"claims/trails-partially-successful-technologically.md",
+"source_checked":"2026-10-30",
 "status":"review",
 "title":"Trails were only partially successful technologically due to device and network problems",
 "type":"claim"

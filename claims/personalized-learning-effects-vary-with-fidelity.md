@@ -71,7 +71,7 @@ RAND matched students in NGLC schools implementing PL practices (adaptive softwa
 
 ## Related Claims
 
-- [A narrative review of intelligent tutoring systems asserts, citing one source, that students in personalized learning environments outperform peers in standardized settings](personalized-learning-outperforms-standardized-settings.md) — the general claim this finding bears on, with the studies behind it
+- [A systematic literature review of intelligent tutoring systems asserts, citing one source, that students in personalized learning environments outperform peers in standardized settings](personalized-learning-outperforms-standardized-settings.md) — the general claim this finding bears on, with the studies behind it
 
 - [Gatekeeper course completion rates were slightly lower for CBE participants than for comparison students, and credential completion differences varied by college](cbe-gatekeeper-completion-lower-than-comparison.md) — the general claim this finding bears on, with the studies behind it
 

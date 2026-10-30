@@ -66,7 +66,7 @@ The review reports, citing its included studies, that "engagement increases when
 
 ## Related Claims
 - [AI-driven personalized and adaptive learning pathways support learner engagement and satisfaction in online courses](ai-adaptive-pathways-support-engagement.md) — related
-- [A narrative review of intelligent tutoring systems asserts, citing one source, that students in personalized learning environments outperform peers in standardized settings](personalized-learning-outperforms-standardized-settings.md) — related
+- [A systematic literature review of intelligent tutoring systems asserts, citing one source, that students in personalized learning environments outperform peers in standardized settings](personalized-learning-outperforms-standardized-settings.md) — related
 - [AI in online learning offers personalization, predictive analytics, and potential reduction of instructor time on tasks](ai-online-learning-benefits-personalization-prediction-time.md) — related
 - [Adaptive learning systems report academic performance gains of 15–25% and engagement increases of up to 40%](adaptive-learning-gains-15-25-percent.md) — related
 - [A systematic review identifies four overarching themes of factors affecting student engagement in adaptive learning platforms: system quality, information quality, learner characteristics and preferences, and affordances that mimic real-life social interactions](four-themes-engagement-adaptive-platforms.md) — related
