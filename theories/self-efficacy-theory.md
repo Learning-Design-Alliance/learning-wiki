@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 107 claims (66 for, 38 mixed, 3 against) · 78 studies (38 associational, 19 causal, 16 review, 3 quant-synthesis, 1 design, 1 theoretical), `q1`–`q3` · 20 of 78 report an effect size · 105 claims rest on one study
+> **Evidence** · 108 claims (67 for, 38 mixed, 3 against) · 79 studies (38 associational, 20 causal, 16 review, 3 quant-synthesis, 1 design, 1 theoretical), `q1`–`q3` · 20 of 79 report an effect size · 106 claims rest on one study
 
 ## Description
 Self-efficacy is "people's beliefs in their ability to perform a course of action required to achieve a specific task" ([Bandura, 1977](https://doi.org/10.1037/0033-295x.84.2.191)). The theory's central claim is specificity: self-efficacy is not a general trait like self-confidence or self-concept, and it is not the same as documented ability. A learner's self-efficacy for "correctly subtracting fractions" is a distinct belief from their self-efficacy for "writing a persuasive essay," even though both might contribute to a broader (and much less predictive) sense of being "good at school" ([Seifert & Sutton, 2018](https://edtechbooks.org/lidtfoundations/motivation_theories_on_learning)). Because self-efficacy beliefs are self-constructed rather than measured, they can diverge from true capability in either direction; the most functional level is at or slightly above actual capacity (Bandura, 1997).
@@ -154,6 +154,7 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [An integrated ATC training program with a development portfolio increased students' self-efficacy for learning and task value, but not self-efficacy for performance](../claims/integrated-training-increases-self-efficacy-learning-task-value.md) [~W]
 - [Self-efficacy, but not attitudes towards technology, predicted negative experiences, explaining 23% of variance; openness to change and school support predicted neither outcome.](../claims/self-efficacy-predicts-negative-online-teaching-experiences.md) [~W]
 - [Self-efficacy is associated with higher video trustworthiness ratings regardless of source expertise](../claims/self-efficacy-higher-ratings-regardless-expertise.md) [~W]
+- [Self-efficacy increases after tutoring practice but does not differ by tutoring system](../claims/self-efficacy-increases-no-system-difference.md) [+W]
 
 ## The evidence by question
 

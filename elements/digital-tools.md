@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 70 claims (36 for, 31 mixed, 3 against) · 66 studies (13 review, 12 causal, 12 associational, 11 design, 7 theoretical, 6 quant-synthesis, 5 qualitative), `q1`–`q4` · 9 of 66 report an effect size · 69 claims rest on one study
+> **Evidence** · 72 claims (36 for, 32 mixed, 4 against) · 67 studies (13 causal, 13 review, 12 associational, 11 design, 7 theoretical, 6 quant-synthesis, 5 qualitative), `q1`–`q4` · 9 of 67 report an effect size · 71 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -105,6 +105,8 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [SVA daily usage and recommender reliance negatively predict verbal ability only in the younger cohort](../claims/sva-use-negative-verbal-ability-younger-cohort-only.md) [~W]
 - [EVS use showed no significant difference in student grades on a second-year Engineering mathematics module across two cohorts](../claims/evs-no-grade-difference-two-cohorts.md) [~W]
 - [Trails were only partially successful technologically due to device and network problems](../claims/trails-partially-successful-technologically.md) [~W]
+- [Familiarity with technology gained from prior face-to-face tablet use does not significantly contribute to learning activities, cognitive activation, or effort in digital distance teaching](../claims/technology-familiarity-no-effect-on-distance-teaching-quality.md) [~W]
+- [Technology was rarely used for interactive learning activities during digital distance teaching](../claims/technology-rarely-used-for-interactive-activities-distance-teaching.md) [-W]
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

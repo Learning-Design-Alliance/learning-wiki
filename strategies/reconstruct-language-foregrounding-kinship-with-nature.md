@@ -44,6 +44,7 @@ The authors recommend that educators "participate in the creative teconstruction
 
 - [Intentionally activate symbols so they assist transformative learning](intentionally-activate-symbols-for-learning.md)
 - [Creative Writing](creative_writing.md)
+- [Use design fiction activities in HCI courses to support students' critical reflection on technology](design-fiction-hci-reflection-strategy.md)
 
 ## Examples
 -

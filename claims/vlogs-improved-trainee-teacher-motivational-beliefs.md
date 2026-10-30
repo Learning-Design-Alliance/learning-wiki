@@ -50,3 +50,4 @@ Mixed-methods study of 56 trainee teachers at a Turkish university; the experime
 ## Related Claims
 - [More effective programs targeted teachers, trainees, and individuals with an autonomy causality orientation](recipient-moderators-teachers-trainees-autonomy-orientation.md) — related
 - [Pre-actional metacognitive, motivational, and positive-emotional components are positively associated with regulatory behavior in the actional phase, while anger and anxiety are negatively associated](pre-actional-components-predict-actional-regulation.md) — related
+- [Positive motivational beliefs are associated with high-level learning strategies, consistent with Pintrich and García's self-regulated learning proposal](motivation-cognition-patterns-srl.md) — related

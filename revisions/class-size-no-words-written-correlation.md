@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/class-size-no-words-written-correlation.md
+---
+
+# Revision history: [claims/class-size-no-words-written-correlation](../claims/class-size-no-words-written-correlation.md)
+
+### 2026-10-30 · ingest · process:wiki-ingest
+Ingested from jrnl-978c780bb320 (The relationship between class size and online activity patterns in asynchronous computer conferencing environments) via eval_harness.py + ingest_extractions.py

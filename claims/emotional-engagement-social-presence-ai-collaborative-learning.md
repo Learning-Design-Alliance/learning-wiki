@@ -60,3 +60,4 @@ The review's synthesis of affective-factor studies (narrative review attributing
 - [Social presence influences how social interaction unfolds in online group learning, which in turn affects learning outcomes](social-presence-shapes-online-group-interaction-and-outcomes.md) — related
 - [Challenging study demands combined with resources boost emotional engagement, though interaction effects on cognitive and behavioral engagement were mainly nonsignificant](boost-hypothesis-study-demands-resources.md) — related
 - [CASTLE's interaction hypothesis states that social processes influence and are influenced by motivational, emotional, and metacognitive processes](social-processes-interact-with-motivational-emotional-metacognitive.md) — related
+- [Emotional engagement positively influences active learning and mediates the effects of interactions and social presence](emotional-engagement-mediation-active-learning.md) — related

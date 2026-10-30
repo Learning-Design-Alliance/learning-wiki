@@ -73,3 +73,4 @@ Differences in Initial Inquiry behavior were significant, H(3) = 10.50, p = .015
 - [High-frequency LLM users show higher minimum course outcomes and reduced score variability, though interaction level is not a dominant outcome predictor](high-usage-lower-variance-higher-minimum.md) — related
 - [Motivational variables rarely explain more than 10% of the variance in behavior and outcomes](motivational-variables-rarely-exceed-10-percent-variance.md) — a broader claim this one bears on
 - [Counts of specific tool-use events (WorkTime, Command, Compile, Editor, Profiler, IDE) correlate positively and significantly with final course grade](tool-use-events-correlate-with-final-grade.md) — related
+- [The five clustering variables differed significantly across the four clusters, with large effect sizes for all five.](five-variables-differentiate-four-clusters.md) — related

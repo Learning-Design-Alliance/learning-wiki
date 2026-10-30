@@ -49,3 +49,4 @@ A companion film-instruction study abstracted in the same review column, summari
 - [A second showing of an educational film produced substantial learning increments, but a third showing failed to add materially or significantly](second-film-showing-substantial-third-adds-little.md) — related
 - [Audience participation during a factual film improves learning of the practiced verbal material compared with simple viewing, with gains attributable to practice rather than motivation](audience-participation-practice-gains.md) — related
 - [Modified film commentaries were consistently superior to the original commentary although differences were not statistically significant at a high level of confidence](modified-commentaries-consistently-superior-not-significant.md) — related
+- [AR could add information to improve the audience experience in sport](ar-additional-information-improves-audience-experience.md) — related

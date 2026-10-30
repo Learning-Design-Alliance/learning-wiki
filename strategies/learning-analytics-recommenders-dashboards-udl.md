@@ -48,6 +48,7 @@ The article proposes that identifying usage-pattern clusters is a starting point
 ## Related Strategies
 
 - [Use early-session timing signals, interpreted relative to proficiency, to identify students needing adaptive support](early-session-timing-signals-target-adaptive-support.md)
+- [Use clustering of LMS interaction patterns to identify at-risk students early.](cluster-lms-patterns-to-identify-at-risk-students.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ Interview and survey findings across studio courses: students reported that "stu
 - [Youth motivation to persist in everyday problem-solving is minimal, costing them collaboration and new knowledge](minimal-persistence-everyday-problem-solving-youth.md) — related
 - [Employers value social and emotional development alongside content knowledge for workforce preparation](employers-value-social-emotional-skills.md) — related
 - [Teaching science and mathematics through human modeling and collaborative cross-border projects can serve the purpose of developing tolerance and international understanding](science-teaching-modeling-international-understanding.md) — related
+- [Evolved disciplinary modules produced more motivating and more efficient learning outcomes closer to employer expectations](evolved-modules-more-motivating-efficient-employer-aligned.md) — related

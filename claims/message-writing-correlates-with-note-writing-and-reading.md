@@ -67,3 +67,4 @@ Same correlational analysis over all 222 students. The quote reports "r = 0.36,p
 - [Frequent private-message writers show a lower note scan rate, scanning fewer opened notes (r = −.18)](message-writers-scan-notes-less.md) — related
 - [Students who write more synchronous messages spend more time online (r = .61)](message-writing-correlates-with-time-online.md) — related
 - [No significant correlation between number of messages written and average length of notes written](no-correlation-message-writing-note-length.md) — related
+- [Students in large online classes scan lengthy notes (over 350 words) more frequently than students in small classes](large-classes-scan-lengthy-notes.md) — related

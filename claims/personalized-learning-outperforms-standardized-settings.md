@@ -51,7 +51,7 @@ Attribution within a review: the paper describes itself as a systematic literatu
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| Meriem Zerkouk 2025 | q2 · review · r2 | i? | this claim |
+| [Meriem Zerkouk 2025](https://doi.org/10.48550/arxiv.2507.18882) | q2 · review · r2 | i? | this claim |
 | [Pane et al. 2017](https://doi.org/10.7249/rr2042) | q2 · causal · r2 | i0 · negligible-to-small, overall effect size 0.09 SD (math, sig.) / 0.07 SD (reading, n.s.) | [Personalized Learning Effects Vary With Fidelity](personalized-learning-effects-vary-with-fidelity.md) (qualifies) |
 | [Ikram M 2026](https://doi.org/10.3389/feduc.2026.1782626) | q2 · review · r2 | i? | [Reviewed studies indicate AI-enabled personalization benefits both academic performance an](ai-personalization-benefits-performance-motivation.md) (supports) |
 | [Wenting Ma 2014](https://doi.org/10.1037/a0037123) | q4 · quant-synthesis · r3 | i2; i? | [ITS significantly outperform large-group human instruction, individual computer-based inst](its-beats-large-group-cbi-textbooks-not-human-tutoring.md) (qualifies) |

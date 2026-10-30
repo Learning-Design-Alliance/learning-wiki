@@ -49,3 +49,5 @@ Participant-observation estimation scale (24 items) compared via Mann–Whitney 
 - [Collaborative knowledge construction episodes are significantly longer in the conceptual physics task but almost three times more frequent in the robotics task](ckc-longer-simsketch-more-frequent-simua.md) — related
 - [The robotics task prompted longer group-level regulation of emotion–motivation than the conceptual physics task](emotion-motivation-regulation-longer-robotics.md) — related
 - [Group-level cognitive regulation occurs significantly more in the conceptual physics task than in the robotics task](cognitive-regulation-more-in-physics-task.md) — related
+- [24% of students added conditions and 8% added situations, demonstrating exposure to Booleans, selection control structures, and event handling.](condition-and-situation-adaptations.md) — related
+- [Plugged-in Scratch learning yields better mastery of computational concepts than unplugged learning in primary students](plugged-in-better-computational-concepts.md) — related

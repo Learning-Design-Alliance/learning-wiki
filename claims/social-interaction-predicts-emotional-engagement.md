@@ -51,3 +51,4 @@ Path model results (Fig. 2, unstandardized coefficients, N = 1161) from the two-
 - [The benefits of social interaction during online classes have limits: more is not always better, quality matters, and some students may find interactive courses burdensome](social-interaction-limits-not-panacea.md) — related
 - [CASTLE's interaction hypothesis states that social processes influence and are influenced by motivational, emotional, and metacognitive processes](social-processes-interact-with-motivational-emotional-metacognitive.md) — a broader claim this one bears on
 - [First-year students differed between 2020 and 2021 in interaction opportunities, emotional engagement, and self-directed study time, but not behavioral engagement](year-differences-interaction-engagement-study-time.md) — related
+- [Teacher-student interaction positively influences active learning directly and via emotional engagement](teacher-student-interaction-active-learning.md) — related

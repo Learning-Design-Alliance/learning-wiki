@@ -52,3 +52,4 @@ Exploratory factor analysis (maximum likelihood, oblimin rotation, loading cut-o
 - [MAKQ dimensions correlate moderately with each other, with strategy knowledge only weakly related to the self-perception scales](makq-intercorrelations-self-strategy.md) — related
 - [The metacognitive scale yields two factors: Global/Monitoring and Problem Solving](metacognitive-scale-two-factors-global-monitoring-problem-solving.md) — related
 - Metacognition items loaded as a single factor, and time management combined with planning, in the SRL-O structure — related
+- [Motivation and learning-strategy scales cluster into three factors: High-Level Learning Strategies, High-Level Motivation, and Low-Level Learning Strategies and Motivation](three-motivation-strategy-factors.md) — related

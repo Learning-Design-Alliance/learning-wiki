@@ -54,3 +54,4 @@ Logistic regression on survey and platform data from 4,831 learners across six M
 - [Open-ended planning prompts at the start of a MOOC increase course completion by 29%](planning-prompts-increase-mooc-completion.md) — related
 - [Elaboration was not correlated with goal attainment in MOOCs](elaboration-not-correlated-goal-attainment.md) — related
 - [Forming implementation intentions (if-then plans) improves goal attainment](implementation-intentions-improve-goal-attainment.md) — related
+- [Elaboration, Intrinsic Goals, and Task Value significantly predict Educational Platform Use](elaboration-intrinsic-goals-task-value-predict-epu.md) — related

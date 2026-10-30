@@ -53,3 +53,4 @@ Questionnaire evaluation within the field test, using six Likert-scale usability
 - [Students rated Zoo U highly for engagement and likeability, with every usability area rated at least 3.8 on a four-point scale](zoo-u-high-student-engagement-likeability.md) — related
 - [Students rate AI's helpfulness positively overall, with academic challenges receiving the highest usefulness, satisfaction, and intent-to-continue scores](academic-domain-highest-ai-helpfulness-ratings.md) — related
 - [Stakeholder and literature analysis yields seven IDSA requirement groups covering functionalities, contact options, data-based individuality, testing, marketing, data protection, and usability](seven-idsa-requirement-groups-stakeholder-analysis.md) — related
+- [Students prefer the lowly scaffolded, strategy-free tutoring system for usability and enjoyment](students-prefer-low-scaffolded-strategy-free-tutor.md) — related

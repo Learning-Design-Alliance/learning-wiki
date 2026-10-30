@@ -50,3 +50,4 @@ Regression analysis with grade as dependent variable over N = 173 groups; Table 
 - [Low-performing students tended to procrastinate more on graded problem-solving exercises and on video watching with formative MCQs](low-performers-procrastinated-exercises-and-videos.md) — related
 - [Procrastination is the strongest negative predictor of daily study satisfaction, reducing satisfaction above and beyond time investment, planning, and effort](procrastination-strongest-negative-predictor-satisfaction.md) — related
 - [Online discussion participation predicted team project grades: students who answered others' questions more frequently and had a positive attitude received better grades](discussion-participation-predicts-project-grade.md) — related
+- [Greater procrastination (more days to hand in tasks) was associated with lower final marks.](procrastination-associated-with-lower-marks.md) — related

@@ -45,6 +45,7 @@ The article identifies two concrete improvements for future MR-MCI training syst
 
 - [Integrate MR training into existing first-responder curricula as a phased supplement, starting with scenarios that are hard to implement in routine training](phased-mr-integration-into-curricula.md)
 - [Simulation Based Medical Training](simulation-based-medical-training.md)
+- [Design training scenarios that exploit AR while accounting for current system limitations](design-ar-training-scenarios-with-limitation-awareness.md)
 
 ## Examples
 -

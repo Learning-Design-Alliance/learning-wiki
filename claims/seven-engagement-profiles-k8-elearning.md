@@ -69,3 +69,4 @@ Observational log analysis of anonymized activity data from 67,686 students in 2
 - [K-means clustering of LMS log data identified two distinct SRL profiles (high and low) among online students](two-srl-profiles-from-lms-log-clustering.md) — related
 - [K-means clustering on EFA-derived features yields six learner groups with distinct usage patterns of UDL-guided elements](kmeans-six-learner-clusters-udl-elements.md) — related
 - [Portal users can be classified into four types (new, light, medium, heavy) based on observed usage parameters](four-portal-user-types-new-light-medium-heavy.md) — related
+- [Four distinct LMS interaction patterns with different final marks were found among 140 undergraduates in an authentic Moodle course.](four-lms-interaction-patterns-different-final-marks.md) — related

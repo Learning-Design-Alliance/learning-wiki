@@ -17,7 +17,7 @@ sources:
 # ICAP theory: a taxonomy of four cognitive engagement modes with a hierarchical learning prediction
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 23 claims (12 for, 9 mixed, 2 against) · 13 studies (6 associational, 3 theoretical, 2 design, 1 causal, 1 review), `q1`–`q3` · 3 of 13 report an effect size · 22 claims rest on one study
+> **Evidence** · 24 claims (13 for, 9 mixed, 2 against) · 14 studies (7 associational, 3 theoretical, 2 design, 1 causal, 1 review), `q1`–`q3` · 4 of 14 report an effect size · 23 claims rest on one study
 
 ## Description
 ICAP defines four modes of cognitive engagement — Interactive, Constructive, Active, and Passive — operationally differentiated by students' overt behaviors and products. The article states that "ICAP encompasses three components: a taxonomy of four engagement modes and the operational definition of each mode, a metric that can define the degree of engagement based on the cognitive processes corresponding to the four behavioral modes, and a hypothesis that can predict the hierarchical levels of student learning as a function of the mode of engagement." Each mode is mapped to underlying knowledge-change processes (storing, activating, linking, inferring), and the modes are hierarchically ordered so that Interactive subsumes Constructive, which subsumes Active, which subsumes Passive.
@@ -65,6 +65,7 @@ ICAP defines four modes of cognitive engagement — Interactive, Constructive, A
 - [In the Menekse et al. studies cited as strong ICAP tests, the interactive and constructive modes did not differ significantly in learning](../claims/menekse-studies-weak-icap-support.md) [-W]
 - [No systematic evaluation exists of the ICAP hypothesis that engagement modes are ordered I > C > A > P in effectiveness](../claims/no-systematic-evaluation-icap-hierarchy.md) [~W]
 - [Students who chose to comment on videos and rate comments (active/constructive) were reported to gain conceptual understanding of presentation skills while passive watchers did not, in self-selected groups](../claims/active-constructive-engagement-improves-video-conceptual-understanding.md) [+W] — attached 2026-10-28 from Vania Dimitrova et al. (2021), which proposed "ICAP-based operationalisation of learner engagement categories in AVW-Space"; tests this page's relationship.
+- [Student-observed learning activities along the ICAP framework are positively related to students' effort in learning during digital distance teaching](../claims/icap-learning-activities-relate-to-effort-in-digital-distance-teaching.md) [+W] — attached 2026-10-30 from Fütterer et al. (2023), which proposed "ICAP hypothesis applied to digital distance teaching".
 
 ## The evidence by question
 - *Which kind of activity: manipulating material, generating beyond it, or building on a partner's ideas?* [Constructive learning beats active and passive learning](../claims/constructive-learning-beats-active-passive.md) [+M]

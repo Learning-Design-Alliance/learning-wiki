@@ -54,3 +54,4 @@ The review's framing statement, citing Tu and McIsaac (2002) and Zhao et al. (20
 - [Investigating factors that influence learners' online interaction and engagement is framed as crucial for e-learning success](interaction-engagement-crucial-elearning-success.md) — related
 - [Online collaborative tools positively and significantly influence student interaction in work groups.](collaborative-tools-boost-group-interaction.md) — related
 - [Teacher-student interaction has a positive and significant influence on student interaction in work groups during online collaborative learning.](teacher-student-interaction-boosts-group-interaction.md) — a narrower finding that bears on this claim
+- [Social presence positively influences active learning in social web-based collaborative learning](social-presence-positive-influence-active-learning-swbcl.md) — related

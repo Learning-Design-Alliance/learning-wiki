@@ -72,3 +72,4 @@ Same mediation analysis (Table 8, all paths labelled PM, partial mediation). Bec
 - [Perceived usefulness of the AI assistant significantly and partially mediated the relationship between AI-assisted programming and collaborative outcomes and performance](perceived-usefulness-mediation-ai-programming-outcomes.md) — related
 - [Sequential mediation through both intellectual helplessness and working memory is not significant](no-sequential-mediation-helplessness-working-memory.md) — related
 - [The TUGA, motivation, and self-efficacy jointly explain 75.3% of the variance in undergraduates’ self-directed learning](model-explains-75-percent-sdl-variance.md) — related
+- [Student-perceived cognitive activation partially mediates the relation between student-observed learning activities and students' effort in learning](cognitive-activation-mediates-icap-effort-relation-distance-teaching.md) — related

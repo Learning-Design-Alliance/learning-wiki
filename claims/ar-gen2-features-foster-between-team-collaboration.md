@@ -51,3 +51,4 @@ Design-narrative evaluation across iterations of the redesigned AR engine, illus
 - [The authors contend that a new design paradigm must be developed if academic learning is to take place in educational games](new-design-paradigm-needed-for-game-learning.md) — related
 - [Stegman (2021) proposes blended designs combining simulations/games with strategically placed authentic home-based experiences for iterative learning](stegman-blended-design-iterative-learning.md) — related
 - [Team members' technical aptitude shaped role adoption, with less game-experienced members taking passive roles and power asymmetries limiting exploration](technical-aptitude-shapes-team-roles.md) — related
+- [AR-introduced new rules could reduce the gap between players with different experience levels](ar-new-rules-reduce-experience-gap-between-players.md) — related

@@ -94,3 +94,4 @@ Age ANOVA on concern about being accused of breaching academic integrity (F = 2.
 - [Humanities students report higher perceived usefulness, ease of use, and behavioral intention for AI-assisted English tools than STEM students, with small effect sizes](humanities-stem-acceptance-mean-differences.md) — related
 - [Gender and ability/skills are the most investigated moderators/mediators of peer assessment](peer-assessment-gender-ability-top-moderators.md) — related
 - [Gender differences in perceived transversal skills, with male students higher](gender-differences-transversal-skills-male-higher.md) — related
+- [CAMEO users are more likely to be young, male, less educated, and international than other certificate earners](cameo-users-more-likely-young-male-international.md) — related

@@ -52,3 +52,4 @@ Independent samples t-test comparing math anxiety of 148 girls (M= 1.55, Sd= 0.3
 - [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](pisa-sex-differences-math-small-reading-three-times-larger.md) — related
 - [Girls show less confidence and interest in math and science from early adolescence, and a strong math/science self-concept predicts course choice and performance for both genders](girls-confidence-interest-gap-self-concept-predicts-choices.md) — related
 - [Boys outperform girls on the final two-digit number test in this sample](gender-gap-final-math-test-first-graders.md) — related
+- [No significant sex difference in CTt performance was observed in the primary school sample](no-sex-difference-ctt-primary-school.md) — related

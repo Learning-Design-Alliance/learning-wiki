@@ -69,3 +69,4 @@ The article's discussion of the diary data reports procrastination as "the facto
 - [Daily lecture time and independent study time each positively predict students' daily study satisfaction, with relations differing significantly between students](time-investment-predicts-daily-study-satisfaction.md) — related
 - [Using breaks between lectures for independent study is an independent positive predictor of daily study satisfaction beyond overall time investment](breaks-for-independent-study-predict-satisfaction.md) — related
 - [Earlier participation relative to project deadlines (higher APTTD) predicts higher project grades](early-posting-apttd-predicts-grades.md) — related
+- [Greater procrastination (more days to hand in tasks) was associated with lower final marks.](procrastination-associated-with-lower-marks.md) — related

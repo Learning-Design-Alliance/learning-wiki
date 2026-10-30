@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**1331 entries** · 0 stable · 1331 in review · 0 drafts
+**1332 entries** · 0 stable · 1332 in review · 0 drafts
 
 ---
 
@@ -1225,6 +1225,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Threading, Weaving, Patternmaking](threading-weaving-patternmaking.md) - A three-phase science unit sequence that moves learners from critical annotation of texts exposing embedded bias, through cross-source synthesis, to speculative multimedia redesign of a more just future.
 * [Three AI-deterrence-modified autogradable Qiskit assignment packages (HW1–HW3) with layered personalization and grading](ai-deterrence-qiskit-assignment-packages.md) - Three complete take-home homework packages for an undergraduate quantum software course: HW1 (seeded basis-state circuits with bit flips and customized measurement mappings), HW2 (QFT followed by inverse-transform rec...
 * [Three boundary-spanning events linking field data to community impact (field co-design, collaborative alignment, mutual validation)](three-boundary-spanning-events-cbl.md) - The CBL course is structured as three structured occasions traversing institutional interfaces: Week 3 field co-design generating museum digital assets, Week 4 collaborative alignment of proposals with four SDGs (4, 8...
+* [Three case studies of disciplinary module evolution](three-case-studies-module-evolution.md) - The article presents and analyzes three case studies showing the evolution of three disciplinary course modules.
 * [Three core concepts organizing introductory statistics: statistical model, distribution, and randomness](statistics-three-core-concepts-model-distribution-randomness.md) - In their introductory statistics textbook the authors selected three core concepts to organize the domain: statistical model (captured as DATA = MODEL + ERROR), distribution (following Wild, \"the pattern of variation...
 * [Three design considerations for a child-friendly educational chatbot: topic focus, age-appropriate context management, and a simple fun interface](child-friendly-chatbot-design-considerations.md) - The authors enumerate three design considerations for AMA: \"(1) to encourage engagement by focusing conversation on specific topics; (2) to respond to children in an age-appropriate and on-topic manner (context manage...
 * [Three design principles for an AI system facilitating LGC-based learning](three-design-principles-lgc-ai-system.md) - From a literature review on LGC, self-determined learning, and second-language strategies, the authors derived three design principles: learners are \"creators capable of generating their own contexts and studying auto...

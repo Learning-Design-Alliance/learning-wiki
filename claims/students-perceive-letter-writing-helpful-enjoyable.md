@@ -68,3 +68,4 @@ Interview data on attitudes toward the writing task: "Most (63%) claimed that wr
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - [Proactive flow-aware highlighting helps fiction writers recognize latent knowledge gaps they would not search for on their own](proactive-highlighting-reveals-latent-knowledge-gaps.md) — related
 - [Writing scores differed significantly by audience, with younger-student letters rated highest and teacher-directed letters lowest](writing-scores-differ-by-audience.md) — related
+- [63.3% of students would like to write more interactive stories in school versus 34.0% for traditional stories, a significant difference.](preference-interactive-stories.md) — related

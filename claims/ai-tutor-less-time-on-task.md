@@ -58,3 +58,4 @@ Platform usage tracking in the crossover RCT measured AI-group time on task, sho
 - [University students remain highly on-task throughout 70-minute lectures, refuting the 15–20 minute attention-span myth](rosengrant-vigilance-no-15-minute-decline.md) — related
 - [A carefully engineered AI tutor produced more than twice the learning of a strong active-learning class, in less time (Kestin et al., 2025, as reported)](engineered-ai-tutor-doubled-learning-vs-active-learning.md) — a broader claim this one bears on
 - [An intelligent reading tutor used 20 minutes a day offered time efficiencies over conventional human tutoring of 30 or more minutes a day](intelligent-reading-tutor-time-efficiency-over-human-tutoring.md) — related
+- [Time spent on tasks, days to hand in, and words in forums were the variables most related to final marks.](time-task-days-handin-word-forum-related-to-marks.md) — related

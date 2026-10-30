@@ -69,3 +69,4 @@ Same secondary analysis for deletions: most deleted words came from red-rated pa
 - [SITU use nearly doubled the time students spent on major edits to paragraphs written by peers](situ-doubled-major-peer-edit-time.md) — related
 - [SITU use reduced time to first major peer action by more than 50%](situ-reduced-time-to-first-major-peer-action.md) — related
 - [Novice designers deleted ideas only when confronted with stakeholder friction; unsupported self-reflection produced no deletions](idea-deletion-requires-stakeholder-friction.md) — related
+- [94% of students used pattern adaptations beyond setting options, with 80% deleting situations, 84% replacing actions/definitions, and 50% adding actions/definitions.](pattern-adaptation-skill-percentages.md) — related

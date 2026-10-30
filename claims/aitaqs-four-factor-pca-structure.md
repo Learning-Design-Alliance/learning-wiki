@@ -49,3 +49,5 @@ PCA with Varimax rotation on the validation sample. Four factors with eigenvalue
 - [The AITAQS item pool shows sampling adequacy for factor analysis, with KMO = 0.758 and a significant Bartlett test (χ² = 438.75, df = 66, p < 0.001).](aitaqs-kmo-bartlett-adequacy.md) — related
 - [Bifactor-ESEM shows the highest fit among CFA, ESEM, bifactor-CFA and bifactor-ESEM models, supporting AITAQS as one general factor plus four specific dimensions.](aitaqs-bifactor-esem-best-fit.md) — related
 - [Exploratory factor analysis in the pilot stage supported a four-factor solution, with three items removed (a weak loading, a cross-loading, and a low item–total correlation with duplicated content)](pilot-efa-four-factor-solution.md) — related
+- [Four factors of ICT use explain 57.4% of the total variance in university students' types of ICT use](four-ict-use-factors-57-percent-variance.md) — related
+- [Motivation and learning-strategy scales cluster into three factors: High-Level Learning Strategies, High-Level Motivation, and Low-Level Learning Strategies and Motivation](three-motivation-strategy-factors.md) — related

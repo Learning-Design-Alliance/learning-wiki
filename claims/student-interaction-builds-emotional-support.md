@@ -50,3 +50,4 @@ In the same PLS-SEM analysis of survey data from 106 students, the path from stu
 - [Student interaction in work groups has a positive and significant influence on collaborative learning.](student-interaction-drives-collaborative-learning.md) — related
 - [Teacher-student interaction has a positive and significant influence on student interaction in work groups during online collaborative learning.](teacher-student-interaction-boosts-group-interaction.md) — related
 - [CASTLE's interaction hypothesis states that social processes influence and are influenced by motivational, emotional, and metacognitive processes](social-processes-interact-with-motivational-emotional-metacognitive.md) — a broader claim this one bears on
+- [Teacher-student interaction positively influences active learning directly and via emotional engagement](teacher-student-interaction-active-learning.md) — related

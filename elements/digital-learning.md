@@ -13,7 +13,7 @@ generated:
 # Digital Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 24 claims (10 for, 13 mixed, 1 against) · 24 studies (5 associational, 5 qualitative, 4 causal, 4 theoretical, 3 design, 2 quant-synthesis, 1 review), `q1`–`q4` · 1 of 24 report an effect size · 23 claims rest on one study
+> **Evidence** · 25 claims (10 for, 14 mixed, 1 against) · 25 studies (5 causal, 5 associational, 5 qualitative, 4 theoretical, 3 design, 2 quant-synthesis, 1 review), `q1`–`q4` · 1 of 25 report an effect size · 24 claims rest on one study
 
 ## Description
 Digital learning is the element in which instruction, resources, or interaction are mediated through digital tools, platforms, or networks. It is useful when learners need flexible access, interactive media, or non-linear exploration.
@@ -60,6 +60,7 @@ Digital learning is the element in which instruction, resources, or interaction 
 - [Assaf argues the pandemic shift to digital is a mindset shift, not only a technology shift, modeled via an instructional interface analogy](../claims/digital-shift-mindset-not-only-technology.md) [~W]
 - [Most pedagogical-category statements were positive: teachers perceived online distance teaching as an opportunity to diversify teaching methods and maintain routine.](../claims/online-teaching-pedagogy-majority-positive.md) [+W]
 - [Trails were only partially successful technologically due to device and network problems](../claims/trails-partially-successful-technologically.md) [~W]
+- [Familiarity with technology gained from prior face-to-face tablet use does not significantly contribute to learning activities, cognitive activation, or effort in digital distance teaching](../claims/technology-familiarity-no-effect-on-distance-teaching-quality.md) [~W]
 
 ## Related Elements
 

@@ -87,3 +87,4 @@ Paired t-test comparing each student's average percentage of Academic Word List 
 - [Students communicate more frequently but with lower-quality content in the synchronous chat room than in the asynchronous discussion forum](synchronous-vs-asynchronous-communication-quality.md) — related
 - [Forum discussion contains more social and regulative comments and longer messages; anchored discussion is briefer with more messages](forum-more-social-regulative-comments.md) — related
 - [No significant correlation between number of messages written and average length of notes written](no-correlation-message-writing-note-length.md) — related
+- [Students write shorter notes as online class size increases](larger-classes-shorter-notes.md) — related

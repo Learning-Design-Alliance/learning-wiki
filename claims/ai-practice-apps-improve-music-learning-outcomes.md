@@ -56,3 +56,4 @@ The article reports, citing Ou et al., that AI-assisted practice applications "d
 - [Frequent generative AI use enhances perceived confidence and efficiency but increases technological dependence among university students](genai-self-efficacy-paradox-technological-dependence.md) — related
 - [As cited second-hand in an AI-literacy framework paper: ChatGPT use improved short-term essay scores but triggered metacognitive laziness with no significant knowledge-transfer gains](chatgpt-metacognitive-laziness-fan-2025.md) — related
 - [AI literacy instruction widened a confidence-knowledge gap: students' perceived understanding of AI tools increased significantly after instruction while actual knowledge improved minimally](ai-literacy-confidence-knowledge-gap.md) — related
+- [Self-efficacy increases after tutoring practice but does not differ by tutoring system](self-efficacy-increases-no-system-difference.md) — related

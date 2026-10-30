@@ -74,3 +74,4 @@ Same meta-analytic synthesis (43 studies, 2,147 children, random effects model).
 - Study design moderates the technology effect: between-subject studies yield a significantly higher average effect than within-subject studies — related
 - [Technology-enhanced stories show no significant effect on child engagement and communication during reading](technology-stories-no-engagement-effect.md) — related
 - [Educational technology interventions show positive effects on reading comprehension in elementary school](edtech-positive-effects-reading-comprehension.md) — related
+- [63.3% of students would like to write more interactive stories in school versus 34.0% for traditional stories, a significant difference.](preference-interactive-stories.md) — related

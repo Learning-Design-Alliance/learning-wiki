@@ -66,3 +66,4 @@ The review reports, citing Chen et al. (2018), that game design rather than lear
 - [Intervention effects of SRI did not differ by student background or ability variables](sri-no-differential-effects-background-ability.md) — related
 - [Theoretically augmented game designs significantly outperform standard versions of the same games (g = 0.34), with enhanced scaffolding designs showing g = 0.41](value-added-augmented-designs-benefit-learning.md) — related
 - [Adding a narrative theme to the Cache 17 game did not improve transfer posttest performance](narrative-theme-cache17-no-transfer-gain.md) — related
+- [Grade 10 students who constructed game adventures with ScriptEase scored in the mid-range (14-17) of the Video Game Cognitive Variability Scale, indicating the activity stimulates higher order thinking skills.](game-construction-higher-order-thinking-midrange.md) — related
