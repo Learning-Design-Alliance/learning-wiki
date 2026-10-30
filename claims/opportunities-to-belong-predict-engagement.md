@@ -49,3 +49,4 @@ Narrative review reporting Gray et al. (2024), a survey study of 255 sixth-grade
 - [Teachers' empathetic caring is associated with stronger mathematics classroom connectedness among Black and Latine students than transactional care](empathetic-care-math-connectedness.md) — related
 - [Perceived collaboration among peers positively predicts academic engagement, but competitive climates can undercut collaboration](peer-collaboration-predicts-engagement.md) — related
 - [Racial/ethnic composition of classrooms and schools shapes Black and Latine students' sense of belonging in mathematics](racial-ethnic-composition-shapes-math-belonging.md) — related
+- [Students reporting more optimal classroom climate reported higher usability, usefulness, and desirability for MI Write](classroom-climate-positive-predictor-perceptions.md) — related

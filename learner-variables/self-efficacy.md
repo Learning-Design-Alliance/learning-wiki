@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 173 claims (127 show a difference, 26 mixed, 20 no difference) · 140 studies (55 associational, 28 causal, 21 review, 14 qualitative, 9 design, 7 theoretical, 6 quant-synthesis), `q1`–`q4` · 31 of 140 report an effect size · 169 claims rest on one study
+> **Evidence** · 175 claims (129 show a difference, 26 mixed, 20 no difference) · 141 studies (56 associational, 28 causal, 21 review, 14 qualitative, 9 design, 7 theoretical, 6 quant-synthesis), `q1`–`q4` · 31 of 141 report an effect size · 171 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -204,6 +204,8 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Self-innovativeness, accountability, DL self-efficacy, and DL teaching practices are all positively and significantly intercorrelated](../claims/dl-dimensions-positive-correlations.md) [+M] — learners who differ on it differ in outcomes
 - [Teachers' DL self-efficacy shows the strongest direct effect on their DL teaching practices](../claims/dl-self-efficacy-predicts-dl-teaching-practices.md) [+M] — learners who differ on it differ in outcomes
 - [Teachers' self-innovativeness significantly affects DL self-efficacy and DL teaching practices both directly and indirectly via accountability and self-efficacy](../claims/self-innovativeness-drives-dl-efficacy-and-practices.md) [+M] — learners who differ on it differ in outcomes
+- [Student self-efficacy moderates the relationship between lecturer charismatic leadership and behavioral engagement, with stronger effects for lower self-efficacy students](../claims/self-efficacy-moderates-charismatic-behavioral-engagement.md) [+M] — an instructional effect differs with it
+- [Student self-efficacy moderates the relationship between lecturer technology use and behavioral engagement, with stronger effects for lower self-efficacy students](../claims/self-efficacy-moderates-technology-behavioral-engagement.md) [+M] — an instructional effect differs with it
 
 ## The evidence by question
 

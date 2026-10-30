@@ -49,3 +49,6 @@ Pearson correlation analysis (Table 2) among the study measures; post-test corre
 - [Path analysis supports an indirect path from competition through motivation and in-game accuracy to post-test scores](path-analysis-competition-motivation-accuracy.md) — related
 - [No correlation between motivation or engagement measures and tutor learning gains](no-correlation-motivation-learning-gain.md) — reports the opposite
 - [The competitive Game Show increased students' tutoring engagement relative to baseline](game-show-increases-tutoring-engagement.md) — related
+- [Higher response time, accuracy, and motivation correlate with higher post-test scores; reading time of explanations does not](correlations-post-test-behavioral-measures.md) — reports the opposite
+- [Motivation is positively related to accuracy and response time during game-based learning](motivation-accuracy-response-time-relation.md) — related
+- [Post-test performance is positively associated with accuracy, response time, uncertainty, and motivation](post-test-associated-with-accuracy-response-time-uncertainty-motivation.md) — possibly the same claim (merge candidate)

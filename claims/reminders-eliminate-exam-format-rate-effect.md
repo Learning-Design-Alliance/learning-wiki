@@ -50,3 +50,6 @@ Study 3 (N = 191, Foundations of Psychology) added academic integrity reminders 
 - [Study 4 replicated lower cheating rates in unproctored exams with reminders present, though with anecdotal Bayes evidence](study4-unproctored-rate-replication-reminders.md) — reports the opposite
 - [In Study 3, among students who cheated, cheating extent was lower in unproctored exams, with a gender by exam type interaction driven by male students](study3-cheating-extent-gender-interaction.md) — related
 - [Unproctored exams produce significantly lower cheating rates than teacher-proctored exams in actual course exams without integrity reminders](unproctored-exams-lower-cheating-rate.md) — reports the opposite
+- [Displaying a honor code reminder during an unproctored online test lowers the odds of cheating compared to a control condition](honor-code-reminder-lowers-cheating-odds.md) — related
+- [Anti-cheating interventions do not significantly affect test-taking self-efficacy](interventions-no-self-efficacy-effect.md) — related
+- [Monitoring messages do not significantly reduce cheating in unproctored online assessments](monitoring-message-no-significant-cheating-reduction.md) — related

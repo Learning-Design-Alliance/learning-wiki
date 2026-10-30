@@ -49690,5 +49690,33 @@
  "retrieval-practice\tseeing the same question more than once\tseeing the question once": {
   "label": "repeated vs single retrieval",
   "treatment_is_a": true
+ },
+ "gamification\tTeachQuest persuasive game\tGravity Heist control game": {
+  "label": "persuasive game vs control game",
+  "treatment_is_a": true
+ },
+ "prompts\tSCAMPER prompts during individual brainstorming\tno additional support": {
+  "label": "SCAMPER prompts vs no additional support",
+  "treatment_is_a": true
+ },
+ "prompts\tSCAMPER prompts during the first individual phase\tno additional support": {
+  "label": "SCAMPER prompts vs no additional support",
+  "treatment_is_a": true
+ },
+ "prompts\tSCAMPER prompts plus cognitive group awareness support\tno additional support": {
+  "label": "SCAMPER prompts plus cognitive group awareness support vs no additional support",
+  "treatment_is_a": true
+ },
+ "prompts\tSCAMPER prompts plus cognitive group awareness support during group brainstorming\tno additional support": {
+  "label": "SCAMPER prompts plus cognitive group awareness support vs no additional support",
+  "treatment_is_a": true
+ },
+ "scaffolding\tprompts plus cognitive group awareness\tprompts only": {
+  "label": "Prompts plus cognitive group awareness vs prompts only",
+  "treatment_is_a": true
+ },
+ "simulation\trealistic job preview\tGravity Heist control game": {
+  "label": "realistic simulation vs control game",
+  "treatment_is_a": true
  }
 }

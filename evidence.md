@@ -6,10 +6,10 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 ## In short
 
-The wiki holds **8,370 distinct studies** behind 34,150 claims. What they add up to (the sections below have the detail):
+The wiki holds **8,389 distinct studies** behind 34,244 claims. What they add up to (the sections below have the detail):
 
 - **Few studies can show a cause.** 32% are experiments or systematic reviews (`q3` or `q4`); only 2% are pre-registered trials or well-powered meta-analyses (`q4`). 56% are quasi-experiments, observational studies or narrative reviews, and 12% are case studies, opinion or theory.
-- **Few print an effect size.** 2,130 of 8,370 studies (25%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
+- **Few print an effect size.** 2,136 of 8,389 studies (25%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
 - **Strong work is not only trials.** 963 studies are rated `r3`, done well for their kind; 611 of them are qualitative, design, theoretical or review work, which the design tier alone would rank low.
 - **Most findings stand alone.** 98% of claims rest on one study; a finding reported once, in one setting, has not been shown to hold elsewhere.
 - **Not all research reaches design.** 73% of studies, and 45% of claims, are cited by a principle, pattern, element, strategy or design; the rest are recorded but not connected to a design decision, either because none has been written or because the finding does not bear on one.
@@ -21,32 +21,32 @@ These figures describe two things at once: what education research has produced,
 
 | | |
 |---|---|
-| Claims | 34,150 |
-| Evidence entries | 40,827 |
-| Distinct studies | 8,370 |
-| Claims resting on one study | 33,600 (98%) |
+| Claims | 34,244 |
+| Evidence entries | 40,923 |
+| Distinct studies | 8,389 |
+| Claims resting on one study | 33,694 (98%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 2,130 of 8,370 (25%) |
+| Studies reporting an effect size | 2,136 of 8,389 (25%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 110 | 1,199 | 425 | 404 | 2,138 |
+| causal | 110 | 1,206 | 425 | 404 | 2,145 |
 | quant-synthesis | 117 | 197 | 42 | 135 | 491 |
 | review | 180 | 645 | 133 | 155 | 1,113 |
-| associational | 125 | 1,223 | 521 | 304 | 2,173 |
+| associational | 125 | 1,227 | 523 | 306 | 2,181 |
 | qualitative | 155 | 364 | 80 | 103 | 702 |
-| design | 83 | 705 | 153 | 37 | 978 |
+| design | 83 | 708 | 153 | 38 | 982 |
 | theoretical | 193 | 423 | 88 | 71 | 775 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 1,040 (12%) | 4,691 (56%) | 2,480 (30%) | 159 (2%) |
+| 1,042 (12%) | 4,698 (56%) | 2,489 (30%) | 160 (2%) |
 
-**Studies per claim:** 0: 0, 1: 33,600, 2: 465, 3: 68, 4 or more: 17.
+**Studies per claim:** 0: 0, 1: 33,694, 2: 465, 3: 68, 4 or more: 17.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -138,7 +138,7 @@ Claims cited as support on some pages and as counter-evidence on others (`[+]` a
 | [Executive functions do not directly predict syntactic complexity or story content once …](claims/ef-no-direct-effect-syntactic-complexity-story-content.md) | 2 | 0 | 4 | 1 |
 | [Taking initial multiple-choice tests without feedback can lead students to later produce …](claims/multiple-choice-lures-can-be-learned-as-false-knowledge.md) | 2 | 1 | 4 | 1 |
 | [Redundant on-screen text impairs learning when it competes with a visualization, though …](claims/redundancy-principle.md) | 6 | 8 | 4 | 1 |
-| [Worked examples reduce unnecessary search for novices.](claims/worked-examples-reduce-novice-search.md) | 63 | 9 | 4 | 1 |
+| [Students find computer-based simulation feedback insufficient because incorrect responses …](claims/simucase-feedback-insufficient.md) | 1 | 0 | 4 | 1 |
 
 ## Evidence by kind of page
 
@@ -147,16 +147,16 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | Kind | Pages | Citing a claim | Median studies behind a citing page | Citing pages whose claims have no studies |
 |---|---|---|---|---|
 | [principles](principles/index.md) | 170 | 170 | 31 | 0 |
-| [elements](elements/index.md) | 1,057 | 789 | 2 | 0 |
+| [elements](elements/index.md) | 1,057 | 790 | 2 | 0 |
 | [patterns](patterns/index.md) | 54 | 54 | 31.5 | 0 |
-| [strategies](strategies/index.md) | 7,619 | 4,341 | 2 | 0 |
+| [strategies](strategies/index.md) | 7,635 | 4,357 | 2 | 0 |
 | [processes](processes/index.md) | 18 | 17 | 13 | 0 |
 | [methods](methods/index.md) | 37 | 22 | 1.5 | 0 |
 | [theories](theories/index.md) | 1,360 | 920 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 75 | 75 | 58 | 0 |
-| [designs](designs/index.md) | 1,329 | 948 | 1 | 0 |
-| [products](products/index.md) | 2,291 | 1,728 | 1 | 0 |
-| [research-methods](research-methods/index.md) | 828 | 698 | 1 | 0 |
+| [designs](designs/index.md) | 1,331 | 949 | 1 | 0 |
+| [products](products/index.md) | 2,297 | 1,734 | 1 | 0 |
+| [research-methods](research-methods/index.md) | 829 | 699 | 1 | 0 |
 
 ## Toward pooled estimates
 

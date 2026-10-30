@@ -65,6 +65,7 @@ Curation manages extraneous cognitive load by removing the costs of search, eval
 - [Curate and connect open education resources for making, re-formatted and linked to standards, to meet champions' demand for student project guides](curate-open-education-resources-for-making.md)
 - [Govern tutor knowledge through teacher-curated document corpora with RAG and document-driven adaptation](teacher-curated-knowledge-governance-rag.md)
 - [Work through four data-sharing decisions: what data to share, how to organize it, what documentation to include, and where to share it](four-data-sharing-decisions-sequence.md)
+- [Include both knowledge resources and cognitive supports in museum mobile learning materials](knowledge-resources-plus-cognitive-supports-trails.md)
 
 ## Examples
 - **OER commons and MERLOT (https://www.merlot.org)** — curated repositories where editorial boards apply review criteria and user ratings to open educational resources.

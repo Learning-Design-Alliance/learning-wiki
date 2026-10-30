@@ -52,3 +52,5 @@ The review's framing statement, citing Tu and McIsaac (2002) and Zhao et al. (20
 - [Interactivity, information sharing, and collaborative environment are each positively associated with perceived social presence in agentic AI-supported online learning](affordances-positive-social-presence-agentic-ai.md) — related
 - [CASTLE's interaction hypothesis states that social processes influence and are influenced by motivational, emotional, and metacognitive processes](social-processes-interact-with-motivational-emotional-metacognitive.md) — related
 - [Investigating factors that influence learners' online interaction and engagement is framed as crucial for e-learning success](interaction-engagement-crucial-elearning-success.md) — related
+- [Online collaborative tools positively and significantly influence student interaction in work groups.](collaborative-tools-boost-group-interaction.md) — related
+- [Teacher-student interaction has a positive and significant influence on student interaction in work groups during online collaborative learning.](teacher-student-interaction-boosts-group-interaction.md) — a narrower finding that bears on this claim

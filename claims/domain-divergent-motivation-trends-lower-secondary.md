@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-10-30
 sources:
   - id: anna-widlund-2023
     resource: "https://orcid.org/0000-0001-5563-5044"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-10-30 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Significant linear declines occurred in both math and L1 self-concept, with a positive quadratic trend for math self-concept indicating the negative trend subsided. [→ Anna Widlund 2023](#anna-widlund-2023)
@@ -56,3 +57,4 @@ Combined growth model of the 612-student sample (quadratic factors for math, lin
 - [Adolescents' math and L1 self-concept and interest development across Grades 7–9 is best described by a single homogeneous trajectory profile](one-class-motivational-trajectory-grades-7-9.md) — related
 - [Over a full term, aggregated lecture time decreases linearly while independent study time follows a negative quadratic trajectory, rising until the end of the lecture period and then declining](lecture-time-linear-decrease-independent-study-quadratic-trend.md) — related
 - [Students' interest in the lesson content declined as the semester progressed regardless of condition](lesson-interest-declines-over-time.md) — related
+- [Changes in motivation outcomes were non-linear over six weeks, with TeachQuest sustaining interest and RJP maintaining self-efficacy](nonlinear-motivation-change-six-weeks.md) — related

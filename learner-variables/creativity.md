@@ -13,7 +13,7 @@ generated:
 # Creativity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 109 claims (77 show a difference, 25 mixed, 7 no difference) · 60 studies (19 associational, 18 causal, 12 review, 4 quant-synthesis, 4 design, 2 theoretical, 1 qualitative), `q1`–`q3` · 16 of 60 report an effect size · 107 claims rest on one study
+> **Evidence** · 113 claims (81 show a difference, 25 mixed, 7 no difference) · 61 studies (19 causal, 19 associational, 12 review, 4 quant-synthesis, 4 design, 2 theoretical, 1 qualitative), `q1`–`q3` · 17 of 61 report an effect size · 111 claims rest on one study
 
 ## Description
 Creativity as a learner characteristic is the ability to produce ideas that are both new and fitting. It is most often measured with divergent-thinking tests (how many and how varied the uses someone can find for an object). It correlates with intelligence and with achievement, including in mathematics, where generating several solution paths may deepen understanding. Creativity can also be an outcome that instruction aims at; this page is about learners who differ in it.
@@ -144,6 +144,10 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 - [Creative behavior persistence, operationalized as time spent in the second activity, predicts producing a creative solution](../claims/creative-behavior-persistence-predicts-creative-solution.md) [+M] — learners who differ on it differ in outcomes
 - [A peer assessment-based game development approach improved elementary science students' deep learning status in in-depth thinking, creativity and motivation](../claims/peer-assessment-game-deep-learning-gains.md) [+M] — instruction changes it
 - [Students' self-directed learning and creative thinking skills increased significantly after QIMS inquiry-based lessons](../claims/qims-lessons-increase-self-directed-learning-creative-thinking.md) [+M] — instruction changes it
+- [Cognitive group awareness support during the group phase carries over to improve originality, fluency, and flexibility in the subsequent individual phase](../claims/group-awareness-carries-over-to-second-individual-phase.md) [+M] — instruction changes it
+- [Flexibility mediates the effect of cognitive group awareness on originality in the subsequent individual phase, acting as a complementary mediator](../claims/flexibility-mediate-group-awareness-originality.md) [+W] — instruction changes it
+- [SCAMPER-based question prompts during the first individual phase of hybrid brainstorming increase the originality of individually generated ideas](../claims/scamper-prompts-increase-individual-brainstorming-originality.md) [+M] — instruction changes it
+- [Sharing individually generated ideas during the group phase (cognitive group awareness) increases the originality of collaboratively generated ideas](../claims/cognitive-group-awareness-raises-group-phase-originality.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

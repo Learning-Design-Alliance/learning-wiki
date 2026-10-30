@@ -55,3 +55,4 @@ Ensemble evaluation in Sec. 5.3 comparing pedagogy-expertise-weighted ensembles 
 - [Current GenAI tools are not designed to support active learning and their apparent domain expertise is brittle](genai-tools-not-designed-for-active-learning.md) — related
 - [Model self-confidence, weighted probabilistic scoring, and ensemble modeling each significantly improve LLM-based divergent thinking scoring, raising correlation with human judges from r = 0.781 to r = 0.823](llm-scoring-three-techniques-raise-human-judge-correlation.md) — related
 - [Coaching effects on instruction and achievement are positively correlated, but large instructional improvements are needed for modest achievement gains](instruction-achievement-weak-link-coaching.md) — related
+- [Unweighted voting simplifies processing when underlying techniques have similar performance](unweighted-voting-similar-performance.md) — reports the opposite

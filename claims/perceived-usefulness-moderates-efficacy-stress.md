@@ -55,3 +55,4 @@ SPSS moderation regression with standardized ASE, AS, and PU from the survey sam
 - [Educational cross-sectional studies link stronger AI reliance or dependence scores with lower academic self-efficacy, higher academic stress, and stronger performance expectations](academic-reliance-linked-stress-low-self-efficacy.md) — related
 - [Learners' perceived self-efficacy during learning moderated the effect of prompts on learning outcomes](self-efficacy-moderates-prompt-effect-outcomes.md) — related
 - [Enjoyment inhibits stress during the oral presentation](enjoyment-inhibits-stress.md) — related
+- [Student self-efficacy moderates the relationship between lecturer technology use and behavioral engagement, with stronger effects for lower self-efficacy students](self-efficacy-moderates-technology-behavioral-engagement.md) — related

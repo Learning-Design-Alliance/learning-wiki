@@ -50,3 +50,4 @@ A scoping review using a multi-database keyword search selected frequently occur
 - [Interpersonal skills, including communication, active listening, and gaining buy-in, are heavily emphasized by ID/ET professionals](interpersonal-skills-emphasized-by-id-et-professionals.md) — related
 - [Existing digital citizenship and online safety frameworks were appraised as too broad and not addressing serious online risks](existing-frameworks-not-comprehensive-online-safety.md) — related
 - [No included ITS study considered AI ethics, and the review calls for longer interventions, larger and more diverse samples, and ethical investigation](its-research-gaps-ethics-and-design.md) — related
+- [Technology's impact on learning depends heavily on teachers' skills, values, and dispositions — core elements of teacher identity](technology-impact-depends-on-teacher-identity.md) — related

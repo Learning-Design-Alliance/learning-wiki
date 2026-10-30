@@ -55,3 +55,4 @@ Sufficiency analysis in the fsQCA identified three configurations for high learn
 - [Satisfaction of basic psychological needs is positively associated with autonomous motivation, with competence the strongest predictor](basic-needs-satisfaction-autonomous-motivation.md) — related
 - [In EERs, autonomy, competence, and relatedness are each supported by specific design features per self-determination theory](eer-sdt-needs-design-features.md) — related
 - [The autonomy-supportive physics unit fostered need satisfaction, positive achievement emotions, and learning behaviors, and reduced negative emotions](autonomy-support-fosters-need-satisfaction-emotions-behaviors.md) — related
+- [Student online engagement (cognitive, emotional, behavioral) positively predicts learning performance and satisfaction](online-engagement-predicts-performance-satisfaction.md) — related

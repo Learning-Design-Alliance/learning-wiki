@@ -48,3 +48,4 @@ Figure 4 reports average UEQ-S ratings (normalized -3 to +3) per task from the i
 - [A qualitative study with 14 students found very positive perceived task-difficulty and user-experience assessments for the Nemo+nev environment](nev-study-positive-task-difficulty-ux.md) — related
 - [Structured prompting raises perceived interaction clarity and dependability but reduces perceived novelty of AI-supported learning](prompting-raises-perspicuity-dependability-lowers-novelty.md) — related
 - [Traditional teaching was rated easier, more efficient, and clearer, while iVR was rated more inventive and leading-edge](traditional-rated-easier-ivr-more-inventive.md) — related
+- [Privacy-non-invasive anti-cheating interventions do not significantly affect user experience or emotional experience in unproctored online tests](interventions-no-ux-emotion-effect.md) — a narrower finding that bears on this claim

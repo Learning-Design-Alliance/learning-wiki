@@ -50,6 +50,7 @@ The article recommends deploying automatic reflection-level classifiers as assis
 - [Implement AI in assessment as a hybrid support tool for low-stakes, formative stages while humans retain final grading authority](hybrid-ai-human-assessment-implementation.md)
 - [Deploy automated analysis tools to support tutors' time-consuming analysis of CSCL conversations](automated-tools-supporting-tutor-conversation-analysis.md)
 - [Deploy automated reflection analytics for immediate, scalable feedback on reflective writing](automated-reflection-analytics-immediate-scalable.md)
+- [Suggest targeted exercises from weak essay categories based on relative student performance](targeted-exercises-weak-essay-categories.md)
 
 ## Examples
 -

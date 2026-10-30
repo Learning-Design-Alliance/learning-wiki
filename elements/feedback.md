@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 227 claims (103 for, 108 mixed, 16 against) · 169 studies (67 causal, 33 review, 20 quant-synthesis, 16 associational, 13 design, 10 qualitative, 10 theoretical), `q1`–`q4` · 42 of 169 report an effect size · 203 claims rest on one study
+> **Evidence** · 228 claims (103 for, 109 mixed, 16 against) · 170 studies (67 causal, 33 review, 20 quant-synthesis, 17 associational, 13 design, 10 qualitative, 10 theoretical), `q1`–`q4` · 42 of 170 report an effect size · 204 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -275,6 +275,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Prior studies summarised in one article report that students rate instructor feedback above AI-generated feedback, and rate AI feedback lower once they know its origin](../claims/students-prefer-human-feedback-over-ai.md) [~W]
 - [Uptake of AI assistance in peer feedback was low, with just 9% of AI suggestions leading to revisions](../claims/low-uptake-ai-assistance-peer-feedback.md) [~W]
 - [Most AI assistance focused on pedagogical strengths, with 79% of instances addressing feedback effectiveness](../claims/ai-assistance-focused-on-pedagogical-strengths.md) [+W]
+- [Middle school students rated MI Write as moderately easy to use but found its scoring easier to understand than its feedback](../claims/mi-write-usability-moderate-scoring-easier-than-feedback.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

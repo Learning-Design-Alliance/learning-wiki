@@ -44,6 +44,7 @@ The authors' forward-looking recommendation for deploying analytic assessment: w
 ## Related Strategies
 
 - [Combine holistic with analytic scores as a complementary approach to enhance rating validity](combine-holistic-analytic-complementary-scoring.md)
+- [Suggest targeted exercises from weak essay categories based on relative student performance](targeted-exercises-weak-essay-categories.md)
 
 ## Examples
 -

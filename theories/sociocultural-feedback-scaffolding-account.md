@@ -49,6 +49,7 @@ The article frames feedback within sociocultural theory, in which language learn
 ## Examples
 
 - [Use scaffolding techniques to help students complete tasks within their zones of proximal development](../strategies/scaffolding-within-zpd-classroom-strategy.md)
+- [Scaffolding-based pedagogical model with adaptive feedback grounded in Zone of Proximal Development](../designs/scaffolding-adaptive-feedback-summary-assessment.md)
 
 ## Key Sources
 - Adnan F. Saad Mohamed. (2020). Feedback in Computer-Assisted Language Learning: A Meta-Analysis. TESL-EJ, 24(2). https://tesl-ej.org/wordpress/issues/volume24/ej84/ej84a1/

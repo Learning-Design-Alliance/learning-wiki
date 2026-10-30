@@ -46,3 +46,4 @@ Observational click-rate data from the author's newsletter reading list, which s
 
 ## Related Claims
 - [Dissemination data from the author's resources show approximately 15,000 monthly website visitors, at least 250,000 practice-guide downloads, and a newsletter with nearly 18,000 subscribers and a 50% open rate](retrievalpractice-org-dissemination-metrics.md) — related
+- [No significant difference between intervention groups in clicking a link to a government ITE webpage](no-group-difference-ite-webpage-clicks.md) — related

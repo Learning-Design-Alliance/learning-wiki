@@ -47,7 +47,7 @@ sources:
 # Collaborative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 87 claims (33 for, 48 mixed, 6 against) · 88 studies (21 causal, 16 review, 16 theoretical, 11 associational, 10 quant-synthesis, 9 qualitative, 5 design), `q1`–`q4` · 13 of 88 report an effect size · 81 claims rest on one study
+> **Evidence** · 88 claims (34 for, 48 mixed, 6 against) · 89 studies (21 causal, 16 review, 16 theoretical, 12 associational, 10 quant-synthesis, 9 qualitative, 5 design), `q1`–`q4` · 14 of 89 report an effect size · 82 claims rest on one study
 
 ## Conditional relationship
 
@@ -188,6 +188,7 @@ Group performance during the task, individual understanding straight after it, d
 - [Meta-analysis finds collaboration, computer use, and learning environments/tools/scaffolds each have significantly positive effects on knowledge acquisition in CSCL](../claims/chen-2018-meta-analysis-cscl-positive-effects.md) [+W]
 - [A joint workspace scaffold on a multi-touch table improved discussion intensity, mutual understanding, and decision performance in hidden profile tasks](../claims/joint-workspace-multitouch-hidden-profile.md) [+W]
 - [Representational scripting produced no individual learning gains: overall post-test scores did not exceed pre-test scores](../claims/no-individual-learning-gains.md) [-W]
+- [Student interaction in work groups has a positive and significant influence on collaborative learning.](../claims/student-interaction-drives-collaborative-learning.md) [+W]
 
 ## Related Principles
 - Conditions for Productive Group Creativity — specializes collaborative learning's general quality-control problem for open-ended creative tasks specifically

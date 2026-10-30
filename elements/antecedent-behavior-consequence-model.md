@@ -13,7 +13,7 @@ generated:
 # Antecedent-Behavior-Consequence (ABC) Model
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Applied behavior analysis — using behaviorist techniques to change socially important behavior (Lovitt, 1994) — begins by analyzing a behavior into three components: **antecedents** (the environmental events or stimuli that trigger a behavior), **behaviors** (what the person actually does, says, or observably does), and **consequences** (the outcome that either encourages or discourages the behavior's recurrence). If a behavior reliably occurs when a specific antecedent is present, that pattern implies a favorable outcome has been reinforcing it, making the antecedent a genuine "trigger" for the next occurrence.
@@ -49,7 +49,7 @@ Only observable actions qualify as "behaviors" in this sense — attitudes, valu
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [The decision to cheat is influenced by perceived monitoring and likelihood of getting caught rather than severity of punishment](../claims/cheating-decision-perceived-surveillance-and-catch-likelihood.md) [~W]
 
 ## Related Elements
 - [Fading Scaffolding](fading-scaffolding.md) — the ABA five-step procedure's step 5 (fading punishment/reinforcement once behavior change is established) parallels general fading logic elsewhere in instructional design

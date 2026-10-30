@@ -110,6 +110,7 @@ Emotions are not noise around learning — they shape attention, working memory 
 - [Reduce anxiety first when multiple achievement emotions co-occur](../strategies/reduce-anxiety-first-strategy.md)
 - [Manage pre-task expectation anxiety with cognitive restructuring or relaxation alongside gradual exposure to mathematics](../strategies/manage-anticipatory-math-anxiety-strategy.md)
 - [Design emotion awareness tools to support both emotion-oriented and appraisal-oriented regulation strategies](../strategies/design-emotion-awareness-tools-emotion-and-appraisal-regulation.md)
+- [Combine video-based reflection on one’s own teaching with reappraisal and mindfulness-based strategies to foster professional vision and well-being.](../strategies/reflection-reappraisal-mindfulness-combination.md)
 
 ## Key Sources
 - Gross, J. J. (1998). The emerging field of emotion regulation: An integrative review. *Review of General Psychology, 2*(3), 271–299. [doi:10.1037/1089-2680.2.3.271](https://doi.org/10.1037/1089-2680.2.3.271)

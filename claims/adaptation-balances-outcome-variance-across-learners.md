@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-10-30
 sources:
   - id: koskinen-2023
     resource: "https://doi.org/10.1016/j.compedu.2022.104694"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-10-30 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Mean variance of adapted-game level task correctness (var = 0.05) was significantly smaller than in basic-game levels (var = 0.7). [→ Koskinen 2023](#koskinen-2023)

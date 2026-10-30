@@ -50,3 +50,4 @@ Bootstrapped mediation analysis in the same SEM of 398 student parents. The scho
 - [Parental self-efficacy is positively associated with family satisfaction among student parents, both directly and indirectly through school-family balance](parental-self-efficacy-predicts-family-satisfaction-student-parents.md) — related
 - [Partnered student parents report higher school and family satisfaction, and part-time enrolment is associated with higher family satisfaction](partner-status-enrolment-subgroup-satisfaction-differences.md) — related
 - [School-family balance is predicted by both academic and parental self-efficacy and in turn predicts school and family satisfaction](school-family-balance-predicted-by-efficacy-predicts-satisfaction.md) — related
+- [Student engagement fully mediates the relationships between lecturer charismatic leadership/technology use and learning performance](engagement-fully-mediates-performance.md) — related

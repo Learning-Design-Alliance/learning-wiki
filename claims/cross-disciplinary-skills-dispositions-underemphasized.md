@@ -70,3 +70,4 @@ The abstract reports that knowledge and skills aligned with the literature, but 
 - [POG frameworks most frequently emphasize communication, critical thinking, collaboration, and perseverance/adaptability among their competencies](pog-competencies-communication-critical-thinking-most-frequent.md) — related
 - [Dispositions such as positivity, lifelong learning orientation, and persistence are reported as essential for ID/ET practice](dispositions-essential-for-id-et-practice.md) — related
 - [Communication skills are consistently ranked the most important competencies yet underemphasized in professional preparation](communication-skills-most-important-but-underemphasized.md) — a narrower finding that bears on this claim
+- [Technology's impact on learning depends heavily on teachers' skills, values, and dispositions — core elements of teacher identity](technology-impact-depends-on-teacher-identity.md) — related

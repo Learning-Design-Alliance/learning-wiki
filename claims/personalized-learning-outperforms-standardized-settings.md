@@ -1,7 +1,7 @@
 ---
 type: claim
-title: A narrative review of intelligent tutoring systems asserts, citing one source, that students in personalized learning environments outperform peers in standardized settings
-description: "A narrative review of intelligent tutoring systems asserts, citing one source, that students in personalized learning environments outperform peers in standardized settings"
+title: A systematic literature review of intelligent tutoring systems asserts, citing one source, that students in personalized learning environments outperform peers in standardized settings
+description: A systematic literature review of intelligent tutoring systems asserts, citing one source, that students in personalized learning environments outperform peers in standardized settings
 id: personalized-learning-outperforms-standardized-settings
 status: review
 generated:
@@ -9,10 +9,11 @@ generated:
   at: 2026-10-12
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-10-30
 sources:
   - id: meriem-zerkouk-2025
-    resource: "https://arxiv.org/abs/2507.18882"
-    title: "Meriem Zerkouk, Miloud Mihoubi and Belkacem Chikhaoui. (2025). A Comprehensive Review of AI-based Intelligent Tutoring Systems: Applications and Challenges. arXiv preprint. https://arxiv.org/abs/2507.18882"
+    resource: "https://doi.org/10.48550/arXiv.2507.18882"
+    title: "Meriem Zerkouk, Miloud Mihoubi and Belkacem Chikhaoui. (2025). A Comprehensive Review of AI-based Intelligent Tutoring Systems: Applications and Challenges. arXiv preprint. [doi:10.48550/arXiv.2507.18882](https://doi.org/10.48550/arXiv.2507.18882)"
     author: Meriem Zerkouk, Miloud Mihoubi and Belkacem Chikhaoui
     q: 2
     i: "?"
@@ -20,11 +21,11 @@ sources:
     rigour: 2
 ---
 
-# A narrative review of intelligent tutoring systems asserts, citing one source, that students in personalized learning environments outperform peers in standardized settings
+# A systematic literature review of intelligent tutoring systems asserts, citing one source, that students in personalized learning environments outperform peers in standardized settings
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-30 (automated, 1 of 1 entry) · not reviewed by a person
 
 <!-- title before 2026-10-15: Empirical studies reviewed report that students in personalized learning environments outperform peers in standardized settings -->
 
@@ -35,11 +36,11 @@ sources:
 
 ### Meriem Zerkouk 2025
 
-Meriem Zerkouk, Miloud Mihoubi and Belkacem Chikhaoui. (2025). A Comprehensive Review of AI-based Intelligent Tutoring Systems: Applications and Challenges. arXiv preprint. https://arxiv.org/abs/2507.18882
+Meriem Zerkouk, Miloud Mihoubi and Belkacem Chikhaoui. (2025). A Comprehensive Review of AI-based Intelligent Tutoring Systems: Applications and Challenges. arXiv preprint. [doi:10.48550/arXiv.2507.18882](https://doi.org/10.48550/arXiv.2507.18882)
 
 `q2 · i?` · `review · r2`
 
-Narrative review attribution: the review reports, citing [17], that empirical studies show personalized learning environments outperforming standardized settings. The reviewed study's design is not described in the supplied text, so this is a second-hand assertion with no printed effect size.
+Attribution within a review: the paper describes itself as a systematic literature review (following Kitchenham et al. and PRISMA reporting; elsewhere it calls the process a scoping review) of ITS studies from 2010 to 2025. In its background it reports, citing [17], that empirical studies show personalized learning environments outperforming standardized settings. The reviewed study's design is not described in the supplied text, so this is a second-hand assertion with no printed effect size.
 
 > "Empirical studies consistently show that students in personalized learning environments outperform their peers in standardized settings [17], mainly due to the tailored support they receive, which aligns with their specific learning needs."
 

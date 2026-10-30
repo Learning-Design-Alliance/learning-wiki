@@ -72,3 +72,4 @@ Participants' Feedback section quoting Maggie Deagon, a K12 educator and researc
 - [Teacher education students in PBL identified valuing others' perspectives, interdependence, and learning about self as attitudes necessary for collaborative learning](pbl-attitudes-valuing-interdependence-self.md) — related
 - [The value of the student-staff collaboration was explored from student, staff, and institutional perspectives, with benefits, limitations, and recommendations presented](student-staff-collaboration-value-three-perspectives.md) — related
 - [Exposure to diverse philosophical perspectives is viewed by teachers as key to developing critical reflection](diverse-perspectives-key-to-critical-reflection.md) — related
+- [Multi-perspective, tutor-created trails were the most popular, and students valued hearing multiple views of the same object](multi-perspective-trails-popular.md) — related

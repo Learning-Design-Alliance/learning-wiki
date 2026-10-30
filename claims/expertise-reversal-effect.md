@@ -152,7 +152,7 @@ The review describes the expertise reversal effect (Kalyuga 2007) as evidence th
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*For whom: does support that helps novices stop helping as task-specific expertise grows?* This table gathers the studies behind this claim and the 38 narrower claims that bear on it: **30 distinct studies** (11 causal, 9 review, 5 theoretical, 5 quant-synthesis), `q1`–`q4`, 4 of 30 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Do the cues still help learners who already know the material, or do they add load?* This table gathers the studies behind this claim and the 38 narrower claims that bear on it: **30 distinct studies** (11 causal, 9 review, 5 theoretical, 5 quant-synthesis), `q1`–`q4`, 4 of 30 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|

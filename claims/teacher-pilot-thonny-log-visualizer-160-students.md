@@ -9,6 +9,7 @@ generated:
   at: 2026-10-11
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-10-30
 sources:
   - id: heidi-taveter-and-marina-lepp-2026
     resource: "https://doi.org/10.48550/arxiv.2607.24757"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-30 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers using the tool in a 160-student introductory programming course appreciated the visual overview of activity types and clearly marked pauses, and reported that the tool helped identify largely copied solutions and incorrect or incomplete log files. [→ Heidi Taveter and Marina Lepp 2026](#heidi-taveter-and-marina-lepp-2026)

@@ -44,7 +44,8 @@ The authors recommend that, because Facebook helps new students settle in, highe
 - [Facebook acted as part of the 'social glue' helping first-year students settle into university life, though most students did not see it as crucial to overcoming loneliness.](../claims/facebook-social-glue-settling-in.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Professors integrating Facebook should leverage its social dimension while providing training and addressing privacy concerns.](leverage-social-dimension-facebook-training-privacy.md)
 
 ## Examples
 -

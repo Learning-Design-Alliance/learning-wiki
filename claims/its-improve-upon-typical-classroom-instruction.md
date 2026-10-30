@@ -46,7 +46,7 @@ The review's own summary assertion, stated in its abstract without a printed eff
 
 ## Related Claims
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — possibly the same claim (merge candidate)
-- [A narrative review of intelligent tutoring systems asserts, citing one source, that students in personalized learning environments outperform peers in standardized settings](personalized-learning-outperforms-standardized-settings.md) — related
+- [A systematic literature review of intelligent tutoring systems asserts, citing one source, that students in personalized learning environments outperform peers in standardized settings](personalized-learning-outperforms-standardized-settings.md) — related
 - [In university physics education, AI has been applied for tutoring and explanations, formative feedback and scaffolding, collaborative problem solving, simulation and modeling, instructional design, and AI literacy development](ai-university-physics-six-pedagogical-functions.md) — related
 - [Schools using the ASSISTment formative assessment platform significantly outperformed matched schools on the state mathematics test](assistment-schools-outperformed-matched-schools.md) — a narrower finding that bears on this claim
 - [Veenman's 2007 discussion addresses assessment and instruction of self-regulation in computer-based environments with attention to metacognitive skill measurement and intelligent tutoring systems](veenman-2007-discussion-self-regulation-computer-based.md) — related
