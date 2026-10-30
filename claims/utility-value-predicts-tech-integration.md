@@ -9,6 +9,7 @@ generated:
   at: 2026-10-30
 evidence_strength: moderate
 newest_evidence: 2021
+source_checked: 2026-10-30
 sources:
   - id: backfisch-2021
     resource: "https://doi.org/10.1016/j.compedu.2021.104159"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-10-30 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Utility-value was significantly related to frequency of technology integration, technology exploitation, and task-specific teaching quality, while self-efficacy was not related to any of these outcomes. [→ Backfisch 2021](#backfisch-2021)

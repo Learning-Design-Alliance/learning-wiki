@@ -216,3 +216,4 @@ Review synthesis on uncritical trust in AI outputs. The authors conclude that "u
 - [Optimizing pedagogical parameters on proxy measures risks trading learning for engagement, and simulated students carry their own accuracy limits](proxy-optimization-engagement-trap.md) — related
 - [Technical challenges include lack of stability, security, and limitations in modeling complex learning behaviors](technical-challenges-srl-recommenders.md) — related
 - [Less accurate, less complete, or less positively worded AI assistance was more likely to prompt revision, with small-to-medium effect sizes](ai-assistance-characteristics-predict-uptake.md) — related
+- [GenAI chatbot support increased executive help-seeking but reduced metacognitive engagement compared to human expert support](genai-chatbot-increased-executive-help-seeking-reduced-metacognition.md) — related

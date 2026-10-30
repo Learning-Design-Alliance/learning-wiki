@@ -22,7 +22,7 @@ sources:
 # Self-Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 67 claims (14 for, 39 mixed, 14 against) · 55 studies (26 causal, 12 associational, 6 review, 5 theoretical, 3 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 19 of 55 report an effect size · 63 claims rest on one study
+> **Evidence** · 68 claims (14 for, 40 mixed, 14 against) · 56 studies (27 causal, 12 associational, 6 review, 5 theoretical, 3 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 19 of 56 report an effect size · 64 claims rest on one study
 
 ## Description
 Self-assessment is the element in which learners judge their own work, understanding, or progress against explicit criteria. It is useful when the goal is not only better immediate performance, but stronger self-monitoring and more accurate judgments about what to improve next.
@@ -117,6 +117,7 @@ Self-assessment is the element in which learners judge their own work, understan
 - [Students feel quite confident about their monitoring and regulation judgments even before self-scoring](../claims/students-confident-judgments-before-self-scoring.md) [~W]
 - [Confidence bias is not linked to course grades or task accuracy, but lower confidence bias is associated with more left inferior frontal gyrus activity during error evaluation](../claims/confidence-bias-left-ifg-activity-not-grades.md) [~W]
 - [Law students overestimated their writing performance when self-assessing against the formal rubric](../claims/law-students-overestimate-rubric-self-assessment.md) [-W]
+- [High-affordance feedback tools supported accurate self-assessment while low-affordance tools hindered self-reflection](../claims/feedback-affordance-self-assessment.md) [~W]
 
 ## The evidence by question
 

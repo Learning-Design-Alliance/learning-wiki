@@ -89,3 +89,4 @@ The article reports, citing Zhai et al., that frequent chatbot interaction for a
 - [Generative AI support can foster self-regulated learning more effectively than traditional AI-based implementations](generative-ai-supports-self-regulated-learning.md) — related
 - [Advanced learners may benefit from learner-controlled selection of learning tasks and levels of generality](learner-control-advanced-learners-flexibility.md) — related
 - [AI over-reliance can produce inversion effects, reducing cognitive processing depth and learning outcomes](ai-inversion-effects-overreliance-reduce-learning.md) — a narrower finding that bears on this claim
+- [GenAI chatbot yielded immediate essay score gains but no gains in intrinsic motivation or longer-term knowledge outcomes](genai-immediate-gains-no-motivation-longterm.md) — related

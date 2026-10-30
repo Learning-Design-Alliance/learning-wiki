@@ -2,7 +2,7 @@
 
 Concrete teaching activity recipes — specific, implementable approaches.
 
-**7691 entries** · 0 stable · 7691 in review · 0 drafts
+**7692 entries** · 0 stable · 7692 in review · 0 drafts
 
 ---
 
@@ -4626,6 +4626,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Promote knowledge creation by coordinating group practices, technology affordances, interaction genres, community metaskills, and trialogical learning through design-based research](coordinated-dbr-knowledge-creation-culture.md) - Drawing on Hakkarainen's reflection, facilitating sharing and building on ideas is not enough; a classroom must develop a culture of knowledge-creation practices, with technology iteratively developed in response to e...
 * [Promote motivation alongside executive functioning and early numeracy development from the earliest stages of mathematics education](promote-motivation-from-earliest-stages-math.md) - Based on the finding that motivation exerts an indirect effect on later mathematical performance, the authors recommend that educators and parents enhance children's motivation as a basic driver of learning from the e...
 * [Promote networks of learning spaces in which non-formal and informal learning complement formal institutions](networks-of-learning-spaces.md) - Responding to the digital revolution and the multiplication of information sources, the report recommends organizing education as a network of learning spaces.
+* [Promote reading programs and free universal access to libraries as a strategy to induce social change](reading-promotion-libraries-social-change.md) - Based on findings that reading enjoyment supplies better orthographic skills and helps overcome social barriers, the authors state that \"present data support the idea of using promotion of reading programs and the fre...
 * [Promote self-regulation competence through high-quality teaching and whole-school approaches](high-quality-teaching-whole-school-self-regulation.md) - The article recommends that promoting self-regulation competence become a guiding principle of education systems, orchestrated through high-quality teaching and whole-school approaches.
 * [Promote social practices supporting mutual insight and address reflexivity dissonance through targeted interventions](promote-mutual-insight-social-practices.md) - The authors recommend that facilitators address potential dissonance between a student's reflexive profile and the demands of an online learning environment through targeted interventions.
 * [Promote spaced practice for mathematics learning, and design future studies to control whether learners must retrieve during practice](spacing-recommendation-mathematics-design.md) - Based on the robust spacing findings, the article concludes \"there is sufficient evidence to promote the use of spacing for mathematics learning as a means to improve mathematics learning\".

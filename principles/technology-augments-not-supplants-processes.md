@@ -31,7 +31,7 @@ sources:
 # Technology should augment, not supplant, learning processes in student-centered environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 158 claims (100 for, 47 mixed, 11 against) · 126 studies (30 theoretical, 28 qualitative, 26 review, 20 causal, 12 design, 10 associational), `q1`–`q4` · 8 of 126 report an effect size · 154 claims rest on one study
+> **Evidence** · 159 claims (100 for, 47 mixed, 12 against) · 127 studies (30 theoretical, 28 qualitative, 26 review, 21 causal, 12 design, 10 associational), `q1`–`q4` · 8 of 127 report an effect size · 155 claims rest on one study
 
 ## Conditional relationship
 
@@ -281,6 +281,7 @@ Assisted performance, unaided immediate performance, delayed retention, transfer
 - [AWE is more effective when complemented by teacher feedback rather than used as a standalone tool](../claims/awe-more-effective-with-teacher-feedback.md) [~W]
 - [Wary Thinkers share over-reliance and privacy concerns with Pessimists but acknowledge ChatGPT's time-saving benefits](../claims/wary-thinkers-overreliance-privacy-time-saving.md) [~W]
 - [A subset of students showed over-reliance and algorithmic conformity patterns, consulting GenAI before independent analysis or revising to match AI output](../claims/over-reliance-algorithmic-conformity-risk.md) [-W]
+- [GenAI chatbot support increased executive help-seeking but reduced metacognitive engagement compared to human expert support](../claims/genai-chatbot-increased-executive-help-seeking-reduced-metacognition.md) [-W]
 
 ## Related Principles
 

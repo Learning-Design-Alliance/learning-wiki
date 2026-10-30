@@ -50,3 +50,4 @@ Teachers' self-reports within the Brighton project, not a controlled comparison;
 - [Joint Book Reading Predicts Literacy Success](joint-book-reading-predicts-literacy-success.md) — related
 - [Dialogic Reading Improves Language Outcomes](dialogic-reading-improves-language-outcomes.md) — related
 - [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — related
+- [Reading enjoyment is strongly associated with better orthographic skills through books read per year](reading-enjoyment-linked-to-orthography.md) — related

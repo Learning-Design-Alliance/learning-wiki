@@ -156,3 +156,4 @@ A systematic review of 35 studies of approaches to support self-regulated learni
 - [Metacognitive scaffolding outperforms conceptual scaffolding alone in online learning environments](metacognitive-scaffolding-outperforms-conceptual.md) — related
 - [Metacognitive strategies such as self-monitoring and reflective questioning have been shown to mitigate epistemic uncertainty](metacognitive-strategies-mitigate-epistemic-uncertainty.md) — a narrower finding that bears on this claim
 - [Self-explanation prompts placed before instruction are more effective than those embedded during or placed after instruction](self-explanation-prompts-before-instruction-most-effective.md) — related
+- [Scaffold compliance varied significantly: compliers engaged in more frequent metacognitive processes than non-compliers](scaffold-compliance-metacognitive-processes.md) — a narrower finding that bears on this claim

@@ -52,3 +52,4 @@ The introduction reports, citing Van der Graaf et al. (2023), a read-and-write t
 - [Higher compliance with MetaTutor's review-notes prompt is associated with larger proportional learning gains](review-notes-compliance-predicts-learning-gains.md) — related
 - [Real-time detection of SRL processes can personalize scaffold content, with all five scaffolds personalized to some extent but to varying degrees (scaffolds 2 and 5 most, scaffold 3 least).](real-time-srl-detection-personalizes-scaffold-content-varying-degrees.md) — related
 - [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — a broader claim this one bears on
+- [Scaffold compliance varied significantly: compliers engaged in more frequent metacognitive processes than non-compliers](scaffold-compliance-metacognitive-processes.md) — related

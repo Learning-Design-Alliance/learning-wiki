@@ -26,7 +26,8 @@ A web-based programming-learning platform developed by Leyi Li et al. that combi
 - [The AI+Robot condition is associated with lower perceived workload than AI-Only on effort, frustration, temporal demand, physical demand, and Raw TLX](../claims/ai-robot-condition-lower-workload.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [FLoRA Engine](flora-engine.md)
 
 ## Key Sources
 - Leyi Li, Chenyu Du, Jiafei Sun, Erick Purwanto, and Qing Zhang. (2026). RoboBlockly Studio: Conversational Block Programming with Embodied Robot Feedback for Computational Thinking. Designing Interactive Systems Conference (DIS '26). https://doi.org/10.1145/3800645.3813071

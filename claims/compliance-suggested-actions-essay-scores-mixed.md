@@ -54,3 +54,4 @@ Separate t-tests in the generalized condition comparing essay scores of complier
 - [Personalized SRL scaffolds showed higher compliance than no and non-personalized scaffolds, linked to better essay scores](personalized-scaffolds-compliance-essay-scores.md) — related
 - [Higher model quality was associated with less goal viewing and note taking, while lab report scores correlated positively with regulative tool use and negatively with helpfile viewing](tool-use-outcome-correlations-diverge.md) — related
 - [Pop-up cues contributed only modestly to note taking, triggering note taking in under 4% of instances](cues-low-note-taking-response.md) — related
+- [Scaffold compliance varied significantly: compliers engaged in more frequent metacognitive processes than non-compliers](scaffold-compliance-metacognitive-processes.md) — related

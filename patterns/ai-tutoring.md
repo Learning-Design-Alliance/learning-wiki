@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 414 claims (185 for, 174 mixed, 55 against) · 283 studies (106 causal, 60 review, 38 design, 28 theoretical, 19 quant-synthesis, 17 associational, 15 qualitative), `q1`–`q4` · 58 of 283 report an effect size · 398 claims rest on one study
+> **Evidence** · 416 claims (185 for, 175 mixed, 56 against) · 284 studies (107 causal, 60 review, 38 design, 28 theoretical, 19 quant-synthesis, 17 associational, 15 qualitative), `q1`–`q4` · 58 of 284 report an effect size · 400 claims rest on one study
 
 ## Description and scope
 
@@ -395,6 +395,8 @@ This pattern is scoped to the tutor's moves within tasks and the handoff to peop
 - [Highly scaffolded tutoring with an unfamiliar strategy yields larger conceptual learning gains than lowly scaffolded tutoring with strategy freedom](../claims/high-scaffolding-unfamiliar-strategy-conceptual-gains.md) [+W]
 - [Procedural learning gains do not significantly differ between the highly and lowly scaffolded tutoring systems](../claims/procedural-gains-no-difference-between-scaffolding-levels.md) [~W]
 - [Adding goal-monitoring prompts to a scripted conversational agent's weekly goal-setting raised undergraduates' self-reported goal attainment over reflection-only and goal-setting-only conditions](../claims/scripted-agent-delivers-srl-support.md) [~W]
+- [GenAI chatbot yielded immediate essay score gains but no gains in intrinsic motivation or longer-term knowledge outcomes](../claims/genai-immediate-gains-no-motivation-longterm.md) [~W]
+- [GenAI chatbot support increased executive help-seeking but reduced metacognitive engagement compared to human expert support](../claims/genai-chatbot-increased-executive-help-seeking-reduced-metacognition.md) [-W]
 
 ## Examples
 - [ChatGPT as a virtual laboratory assistant in a sociotechnical system](../designs/sts-theory-chatgpt-virtual-laboratory-assistant.md) — ChatGPT answers lab questions beside human TAs, not in their place
