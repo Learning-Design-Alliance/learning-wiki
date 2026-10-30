@@ -58,3 +58,4 @@ An LDA analysis of titles and abstracts from the 242 catalogued syntheses "revea
 - [Topic modeling reveals 20 topics in six communities, with special education and collaborative knowledge construction thematically isolated](twenty-topics-six-communities-isolated-clusters.md) — related
 - [Systematic reviews of AIED were absent from 2015 to 2018 in this corpus and increased steadily from 2019 onward](aied-review-publication-trend-2019-increase.md) — related
 - [Previous reviews of teachers' role in digitalizing education cluster into six main research themes, with digital literacy the most prominent (addressed in 14 of 23 reviews)](six-research-focus-themes-teacher-digitalization.md) — related
+- [Most lecture capture research focuses on the US, UK and Australia, with Biological Sciences the most studied STEM subject area](lecture-capture-research-context-distribution.md) — related

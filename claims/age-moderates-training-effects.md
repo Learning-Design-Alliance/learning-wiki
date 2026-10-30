@@ -9,7 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: weak
 newest_evidence: 2025
-source_checked: 2026-10-23
+source_checked: 2026-10-29
 sources:
   - id: nadja-lindner-2025
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102191"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` ANCOVA considering age as covariate suggested training effects on comprehension and verbal number skills tended to show up in younger children. [→ Nadja Lindner 2025](#nadja-lindner-2025)

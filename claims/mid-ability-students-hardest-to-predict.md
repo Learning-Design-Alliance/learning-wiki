@@ -47,3 +47,4 @@ Ability-cohort analysis (Figure 9) binning test students by mean exam score excl
 ## Related Claims
 - [In Mnemosyne log data, item-specific difficulty parameters outperform a global difficulty for lower and higher Leitner decks, while global difficulty performs better for intermediate decks.](item-specific-difficulty-helps-only-at-low-and-high-leitner-decks.md) — related
 - [Model and student error patterns on IVDA MCQs show limited question-level consistency but comparable difficulty distributions for easiest and hardest questions](limited-model-student-question-level-alignment.md) — related
+- [Student ability distribution lies far to the right of easy-item difficulty, so item design must give even the best students difficult items on their personalized scale](ability-distribution-right-of-item-difficulty.md) — related

@@ -49,6 +49,7 @@ The article's implementable recipe is to let a machine learning algorithm determ
 ## Related Strategies
 
 - [Spaced Retrieval Practice](spaced-retrieval-practice.md)
+- [Item allocation rules: start easy, increase difficulty with grade, and re-select past incorrect and old material with some probability](item-allocation-rules-difficulty-with-grade.md)
 
 ## Examples
 -

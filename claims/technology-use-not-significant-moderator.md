@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: weak
 newest_evidence: 2024
+source_checked: 2026-10-29
 sources:
   - id: rachel-sermier-dessemontet-2024
     resource: "https://doi.org/10.1016/j.edurev.2024.100615"
@@ -24,10 +25,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` Studies using technology for the read aloud (t(3.7) = 0.03, p = .975), as a response mode (t(3.9) = 0.49, p = .648), or as interactive instructional support (t(4.2) = 0.19, p = .857) did not yield larger or smaller effect sizes than studies without such technology. [→ Rachel Sermier Dessemontet 2024](#rachel-sermier-dessemontet-2024)
+`q3 i?` Studies using technology for the read aloud (t(3.7) = -0.03, p = .975), as a response mode (t(3.9) = -0.49, p = .648), or as interactive instructional support (t(4.2) = 0.19, p = .857) did not yield significantly larger or smaller effect sizes than studies without such technology. [→ Rachel Sermier Dessemontet 2024](#rachel-sermier-dessemontet-2024)
 
 ## Evidence
 
@@ -37,13 +38,13 @@ Rachel Sermier Dessemontet, Megan Geyer, Anne-Laure Linder, Myrto Atzemian, Cath
 
 `q3 · i?` · `quant-synthesis · r3`
 
-Moderator analyses testing three uses of technology (presentation/read-aloud, response mode, interactive features) across the included studies; none was significant. The authors caution the read-aloud and response-mode tests had degrees of freedom slightly below 4 and may be unreliable.
+Moderator analyses testing three uses of technology (presentation/read-aloud, response mode, interactive features) across the included studies; none was significant. The authors caution the read-aloud and response-mode tests had degrees of freedom slightly below 4 and may be unreliable. Signs restored: the PDF's extracted text had lost its minus signs.
 
-> "The result does not show a significant impact of the use of technology for the read aloud (t(3.7) = 0.03, p = .975), as a response mode (t(3.9) = 0.49, p = .648), or as a support for interactive instruction (t(4.2) = 0.19, p = .857)."
+> "The result does not show a significant impact of the use of technology for the read aloud (t(3.7) = -0.03, p = .975), as a response mode (t(3.9) = -0.49, p = .648), or as a support for interactive instruction (t(4.2) = 0.19, p = .857)."
 
 ## Discussion
 
 
 ## Related Claims
-- [Shared text reading benefits students with intellectual disability whether or not they need augmentative and alternative communication systems](shared-reading-effective-regardless-aac-status.md) — related
+- [Shared text reading effects for students with intellectual disability did not differ significantly between students who need augmentative and alternative communication and those who communicate verbally](shared-reading-effective-regardless-aac-status.md) — related
 - [Dialogic Reading Improves Language Outcomes](dialogic-reading-improves-language-outcomes.md) — related

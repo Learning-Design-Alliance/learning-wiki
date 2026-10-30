@@ -46,6 +46,6 @@ Survey item asking teachers whether the gap between their highest- and lowest-pe
 
 ## Related Claims
 - [Achievement gaps between low-poverty and high-poverty elementary schools grew by .10–.20 SD, primarily during 2020–2021](covid-poverty-gap-grew-010-020-sd-elementary.md) — related
-- [Kindergarten closures hit children in low-SES schools hardest in basic counting and numeracy skills (d = 0.2 in 2020; d = 0.3 in 2021), widening inequalities](kindergarten-low-ses-numeracy-loss.md) — related
+- [Kindergarten closures hit children in low-SES schools hardest in basic counting and numeracy skills (d = -0.2 in 2020; d = -0.3 in 2021), widening inequalities](kindergarten-low-ses-numeracy-loss.md) — related
 - [Differences in engagement and achievement between high- and low-GPA students grew more sharply during the pandemic among Chicago Connected participants than among eligible non-participants](chicago-connected-participants-widening-gpa-disparities.md) — related
 - [COVID-19 learning deficits arose early in the pandemic and have neither closed nor substantially widened since then](covid-learning-deficits-early-onset-persistence.md) — related

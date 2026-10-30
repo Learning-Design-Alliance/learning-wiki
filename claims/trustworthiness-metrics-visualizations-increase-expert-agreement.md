@@ -9,7 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-15
+source_checked: 2026-10-29
 sources:
   - id: adam-coscia-2026
     resource: "https://doi.org/10.48550/arxiv.2608.04006"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-15 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Making trustworthiness explicit through metrics and visualizations increased inter-rater reliability and helped learning engineers produce more consistent judgments. [→ Adam Coscia 2026](#adam-coscia-2026)

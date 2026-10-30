@@ -63,3 +63,4 @@ PLS-SEM analysis in the 434-teacher sample testing H1–H4. PU→AOU (β = 0.178
 - [Students' favourable attitudes towards CSCL significantly positively influence perceived impact on learning and perceived enjoyment](attitude-influences-impact-and-enjoyment-cscl.md) — related
 - [Perceived ease of use is a robust predictor, positively and significantly influencing students' attitudes towards CSCL and their perceptions of usefulness](ease-of-use-predicts-attitude-and-usefulness-cscl.md) — related
 - [Perceived usefulness significantly positively influences satisfaction, perceived impact on learning, and attitude towards CSCL](perceived-usefulness-influences-satisfaction-impact-attitude.md) — related
+- [Attitude is the strongest predictor of behavioral intention for new users, while perceived usefulness is strongest for light, medium and heavy users](attitude-predicts-intention-new-users-usefulness-existing-users.md) — related

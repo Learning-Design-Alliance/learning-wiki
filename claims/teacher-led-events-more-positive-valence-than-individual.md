@@ -56,9 +56,11 @@ Hartikainen, S., Nokelainen, P., Puhakka, I., & Kangaslampi, R. (2026). Emotions
 
 `q3 · i?` · `associational · r2`
 
-Table 3 Model 4i prints the within-student teacher-led × teaching implementation interaction (shown with a negative sign, ¡1.31, CI excluding zero), supporting the abstract's statement that the teacher-led advantage held "particularly in the lecture-based group". The omnibus learning-mode × implementation interaction is reported here rather than only pairwise contrasts.
+Table 3 Model 4i prints the within-student teacher-led × teaching implementation interaction (B = -1.31, 95% CI [-2.23, -0.38], excluding zero), supporting the abstract's statement that the teacher-led advantage held "particularly in the lecture-based group". The model reports separate interactions for the peer-versus-individual and teacher-led-versus-individual contrasts; this coefficient is the teacher-led one.
 
-> "Teacher-led vs. ind. learning (cwc) × Teaching impl. ¡1.31 [ 2.23, 0.38]"
+> "The teaching implementation × teacher-led (cwc) interaction was negative (B =-1.31, 95% CI [-2.23, -0.38], p = .006; OR = 0.27, 95% CI [0.11, 0.68])"
+
+Signs restored: the PDF's extracted text had lost its minus signs.
 
 ## Discussion
 

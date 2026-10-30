@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Model answers and self-assessment instructions do not improve monitoring accuracy after delayed diagramming
-description: Model answers and self-assessment instructions do not improve monitoring accuracy after delayed diagramming
+title: Model answers and self-assessment instructions showed no significant effect on monitoring accuracy after delayed diagramming
+description: In one randomized experiment, neither model answers, self-assessment instructions nor their interaction significantly affected monitoring accuracy after delayed diagramming; equivalence was not tested
 id: model-answers-no-monitoring-accuracy-effect
 status: review
 generated:
@@ -9,7 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 2024
-source_checked: 2026-10-23
+source_checked: 2026-10-29
 sources:
   - id: hepner-2024
     resource: "https://doi.org/10.1016/j.learninstruc.2024.101922"
@@ -21,11 +21,11 @@ sources:
     rigour: 2
 ---
 
-# Model answers and self-assessment instructions do not improve monitoring accuracy after delayed diagramming
+# Model answers and self-assessment instructions showed no significant effect on monitoring accuracy after delayed diagramming
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2024 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Neither the number of model answers, self-assessment instructions, nor their interaction significantly affected phase-2 monitoring accuracy. [→ Hepner 2024](#hepner-2024)

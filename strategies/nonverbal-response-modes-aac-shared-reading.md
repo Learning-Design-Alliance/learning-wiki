@@ -38,7 +38,7 @@ In all studies conducted with students who were AAC users or minimally verbal, m
 
 ## Claims
 
-- [Shared text reading benefits students with intellectual disability whether or not they need augmentative and alternative communication systems](../claims/shared-reading-effective-regardless-aac-status.md) [+W]
+- [Shared text reading effects for students with intellectual disability did not differ significantly between students who need augmentative and alternative communication and those who communicate verbally](../claims/shared-reading-effective-regardless-aac-status.md) [+W]
 - [Technology use (read-aloud, response mode, or interactive instruction) does not significantly moderate shared text reading effects](../claims/technology-use-not-significant-moderator.md) [+W]
 
 ## Related Strategies

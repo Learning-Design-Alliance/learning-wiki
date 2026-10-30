@@ -137,3 +137,4 @@ A meta-analysis of 50 independent studies of peer-tutoring programs in mathemati
 - [Cross-age tutoring effects on tutees do not significantly differ by number of sessions, tutor type, tutee risk type, or subject area](cross-age-tutoring-tutee-moderators-null.md) — a narrower finding that bears on this claim
 - [Variable reciprocity assigns tutor roles for problems a student solved and tutee roles for problems not solved (as proposed by Evans and Moore)](variable-reciprocity-solved-problems-tutor.md) — related
 - [Sixth graders acting as peer tutors tended to take over problems and provide inaccurate feedback rather than help their tutee](sixth-graders-poor-peer-tutors.md) — reports the opposite
+- [The adaptive peer-like agent brought the most benefit to children's vocabulary learning and affective engagement compared with fixed-role agents](adaptive-peer-agent-most-benefit.md) — a narrower finding that bears on this claim

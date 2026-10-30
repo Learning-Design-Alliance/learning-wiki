@@ -51,3 +51,4 @@ PLS structural model result from the 701-student study; the article reports posi
 - [Perceived enjoyment of GenAI tools is positively associated with in-service teachers' attitudes, perceived ease of use and behavioural intention in a Dominican Republic survey](enjoyment-predicts-attitude-ease-intention-genai.md) — related
 - [Perceived usefulness and perceived ease of use of GenAI tools significantly predict teachers' attitudes and behavioural intention](usefulness-ease-predict-attitude-intention-genai.md) — related
 - [Students' satisfaction during CSCL positively and significantly influences their perceived impact on learning](satisfaction-influences-perceived-impact-cscl.md) — related
+- [Positive attitude increases satisfaction, and satisfaction increases course recommendation](attitude-satisfaction-recommendation-chain.md) — related

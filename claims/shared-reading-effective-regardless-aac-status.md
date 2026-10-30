@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Shared text reading benefits students with intellectual disability whether or not they need augmentative and alternative communication systems
-description: Shared text reading benefits students with intellectual disability whether or not they need augmentative and alternative communication systems
+title: Shared text reading effects for students with intellectual disability did not differ significantly between students who need augmentative and alternative communication and those who communicate verbally
+description: In a multilevel meta-analysis, a moderator test found no significant difference in shared text reading effect sizes between students with intellectual disability who need augmentative and alternative communication and those who communicate verbally; equivalence was not tested
 id: shared-reading-effective-regardless-aac-status
 status: review
 generated:
@@ -9,7 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2024
-source_checked: 2026-10-21
+source_checked: 2026-10-29
 sources:
   - id: rachel-sermier-dessemontet-2024
     resource: "https://doi.org/10.1016/j.edurev.2024.100615"
@@ -21,11 +21,11 @@ sources:
     rigour: 3
 ---
 
-# Shared text reading benefits students with intellectual disability whether or not they need augmentative and alternative communication systems
+# Shared text reading effects for students with intellectual disability did not differ significantly between students who need augmentative and alternative communication and those who communicate verbally
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
-> **Currency** · newest study 2024 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A moderator analysis found no significant difference in the intervention's effect size between participants who could not communicate effectively verbally and those who could. [→ Rachel Sermier Dessemontet 2024](#rachel-sermier-dessemontet-2024)
@@ -38,9 +38,9 @@ Rachel Sermier Dessemontet, Megan Geyer, Anne-Laure Linder, Myrto Atzemian, Cath
 
 `q3 · i?` · `quant-synthesis · r3`
 
-Moderator analysis within the multilevel meta-analysis comparing effect sizes of participants with complex communication needs against verbally communicating participants; no significant difference was detected (equivalence was not tested).
+Moderator analysis within the multilevel meta-analysis comparing effect sizes of participants with complex communication needs against verbally communicating participants; no significant difference was detected (equivalence was not tested). Signs restored: the PDF's extracted text had lost its minus signs.
 
-> "We found no significant difference in the intervention's effect size between participants who could not communicate effectively verbally and those who could (t(9.8) = 1.01, p = .992)."
+> "We found no significant difference in the intervention's effect size between participants who could not communicate effectively verbally and those who could (t(9.8) = -1.01, p = .992)."
 
 ## Discussion
 

@@ -68,3 +68,5 @@ Tukey post-hoc comparisons in Experiment 2's discussion show the cross-format co
 - [Textual slide content yields a small comprehension advantage over pictorial slide content in speeded audio-visual lectures, with no effect of speed](textual-beats-pictorial-slides-speeded-lectures.md) — related
 - [Voice-based multimedia settings (animation+voice and picture+voice) produce better learning performance than picture+text](voice-media-outperform-picture-text-overall.md) — related
 - [Computer-based distractions (phone calls, texts, emails, notifications) do not significantly impair comprehension of lecture videos at 1x or 2x speed](on-screen-distractions-no-comprehension-cost.md) — related
+- [Instructional video clips improved macroeconomics test scores relative to control](instructional-video-clips-improve-macroeconomics-test-scores.md) — related
+- [Students prefer weblectures with a visible lecturer over audio and slides only](student-preference-visible-lecturer-weblectures.md) — related

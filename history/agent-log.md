@@ -5,6 +5,34 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-10-30 — lost minus signs: PDF text that read negative statistics as positive
+
+- **Found by** the load-bearing judge on Cebollero-Salinas et al. (2022), batch j-ce-3: four claims gave its
+  correlations and SEM betas as positive. Every minus sign in the extracted text was a NUL byte, so "r = −0.33"
+  had become "r = \0 0.33", and the model writing the claims read it as 0.33. Maintainer approved a fix and an
+  audit (2026-10-29).
+- **Two encodings.** pypdf returns a NUL where a font maps the minus to no character (96 cached sources, 3,615
+  signs), and "¡" where it maps it to that glyph (28 sources, 521 signs). `fetch_article._extract_pdf_text` now
+  turns a lone NUL or "¡" before a number into "-". **A NUL is not always a minus**: one in a run, or beside
+  another control character, is something else (Kendeou et al. 2007 encodes "=" as \x15 between NULs; a
+  download stamp pads an IP address with NULs). The first version of the rule put three false minus signs into
+  Kendeou's cache before an agent caught it, so the rule excludes both. A NUL inside a word is a lost ligature
+  (fi, ffi) and is left alone. The cache (ignored, local) was repaired the same way; five "¡" right after a
+  letter were left, since what they are cannot be told.
+- **The audit was targeted, not a reread.** A claim was flagged only where it prints, without a minus, a number
+  its own source prints with a restored one: 123 claims from 49 NUL sources and 16 from the "¡" sources (10 of
+  them already on the first list). Four agents checked each against the repaired text.
+- **Result: 42 claims corrected, none reversed in direction.** 13, 19 and 8 from the three NUL lists and 2 more
+  in the j-ce-4 load-bearing triage; the "¡" list needed none. In every corrected claim the words ("lower",
+  "negative", "decreased") were already right and only the printed number had lost its sign, so no marker
+  changed polarity. Four retitles printed signed d values or softened a null result. Each corrected entry says
+  "Signs restored: the PDF's extracted text had lost its minus signs." The re-judge found five unrelated faults
+  on the corrected pages (an "omnibus" mislabel, a sample attributed to the whole review, a regression stated
+  backwards, two pooled figures), fixed and passing.
+- **Why direction survived when numbers did not**: the model reads the authors' prose for direction and copies
+  numbers from tables and parentheses, where the lost sign sits. The risk is a reader comparing two printed
+  values, not a reversed claim.
+
 ## 2026-10-25 — can the sources be believed? Source-validity checks, an audit, and a public checks page
 
 - **Prompted by** O'Neill (2026, preprint), an audit of 14 AI-in-education meta-analyses that found 61% of

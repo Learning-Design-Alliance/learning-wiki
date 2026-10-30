@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-29
 sources:
   - id: de-jonge-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2026.102422"
@@ -32,11 +33,11 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1`–`i2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-29 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
-`q3 i2` A recording–expected angle match lowered cognitive load while watching the video (β =  0.25, described as moderately sized). [→ de Jonge 2026](#de-jonge-2026)
-`q3 i1` A recording–expected angle match lowered cognitive load during task execution (β =  0.17, described as small). [→ de Jonge 2026 (2)](#de-jonge-2026-2)
+`q3 i2` A recording–expected angle match lowered cognitive load while watching the video (β = -0.25, described as moderately sized). [→ de Jonge 2026](#de-jonge-2026)
+`q3 i1` A recording–expected angle match lowered cognitive load during task execution (β = -0.17, described as small). [→ de Jonge 2026 (2)](#de-jonge-2026-2)
 
 ## Evidence
 
@@ -46,9 +47,9 @@ de Jonge, T. H. S., de Koning, B. B., & van Wermeskerken, M. (2026). It's all a 
 
 `q3 · i2` · `causal · r2`
 
-Linear mixed-effects model on cognitive load during video observation; the match contrast was significant, t(125) = 3.03, p = .003, described as moderately sized. The model shows "only the match between recording angle and expected angle was significant (β =  0.25)".
+Linear mixed-effects model on cognitive load during video observation; the match contrast was significant, t(125) = -3.03, p = .003, described as moderately sized. Signs restored: the PDF's extracted text had lost its minus signs. The model shows "only the match between recording angle and expected angle was significant (β = -0.25)".
 
-> "For cognitive load during the video, only the match between recording angle and expected angle was significant (β =  0.25), whereas recording angle itself showed no significant effect (β = 0.05)."
+> "For cognitive load during the video, only the match between recording angle and expected angle was significant (β = -0.25), whereas recording angle itself showed no significant effect (β = 0.05)."
 
 ### de Jonge 2026 (2)
 
@@ -56,9 +57,9 @@ de Jonge, T. H. S., de Koning, B. B., & van Wermeskerken, M. (2026). It's all a 
 
 `q3 · i1` · `causal · r2`
 
-Linear mixed-effects model on cognitive load during task execution. Match conditions showed significantly lower load than mismatch, "t (125) =  2.99, p = .003"; the article reports "This effect was small; (β =  0.17)".
+Linear mixed-effects model on cognitive load during task execution. Match conditions showed significantly lower load than mismatch, "t (125) = -2.99, p = .003"; the article reports "This effect was small; (β = -0.17)". Signs restored: the PDF's extracted text had lost its minus signs.
 
-> "The model revealed that if there was a match between the recording angle and the expected angle, cognitive load while performing the task was significantly lower compared to if there was a mismatch, t (125) =  2.99, p = .003 (see Fig. 5, bottom panel). This effect was small; (β =  0.17)."
+> "The model revealed that if there was a match between the recording angle and the expected angle, cognitive load while performing the task was significantly lower compared to if there was a mismatch, t (125) = -2.99, p = .003 (see Fig. 5, bottom panel). This effect was small; (β = -0.17)."
 
 ## Discussion
 

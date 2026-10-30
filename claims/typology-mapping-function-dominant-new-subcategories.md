@@ -48,3 +48,4 @@ Coding of 283 labels onto the typology adapted from the feedback literature, wit
 - [The digital prompting literature uses 283 distinct prompt labels, most of which appear in only one publication](283-prompt-labels-long-tail-fragmentation.md) — related
 - [A small set of dominant prompt labels structures the literature, led by metacognitive and self-explanation prompts](dominant-prompt-labels-metacognitive-self-explanation.md) — related
 - [Co-occurrence patterns link prompt functions with presentation formats, such as self-explanation prompts with response format and adaptive presentation labels](function-presentation-co-occurrence-patterns.md) — related
+- [Presentation software dominated references to technology, at 87% of mentions in 2011 and 72% in 2016](presentation-software-dominated-technology-mentions.md) — related

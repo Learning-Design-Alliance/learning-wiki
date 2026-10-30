@@ -40,7 +40,9 @@ Zhu, S., Yao, Y., Cheong, C. M., & Zhu, X. (2026). Latent motivational-emotional
 
 Multigroup path analysis of behavioral strategies (disorientation, control) on OMR performance across the three profiles; the article characterizes the coefficients as "small to moderate negative associations" and reports no significant effects for disorientation in G1 or for control in any group (p > .05).
 
-> "the "Disorientation" strategy in the G2 and G3 demonstrated a statistically significant negative effect, with β =  .276, p < .01, and β =  .296, p < .01, respectively, indicating small to moderate negative associations"
+> "the "Disorientation" strategy in the G2 and G3 demonstrated a statistically significant negative effect, with β = -.276, p < .01, and β = -.296, p < .01, respectively, indicating small to moderate negative associations"
+
+Signs restored: the PDF's extracted text had lost its minus signs.
 
 ## Discussion
 

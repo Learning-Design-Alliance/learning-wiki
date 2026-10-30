@@ -9,7 +9,6 @@ generated:
   at: 2026-10-12
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-19
 sources:
   - id: sibley-2026
     resource: "https://doi.org/10.1016/j.caeo.2026.100420"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i0` negligible
-> **Currency** · newest study 2026 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Linear regressions revealed no significant condition effects on mental effort, subjective difficulty, or enjoyment after a 30-minute tutoring session (partial η² .00, .01 and .00); a non-significant result does not show the effect is zero. [→ Sibley 2026](#sibley-2026)

@@ -76,6 +76,10 @@ def _pdftotext_page(content: bytes, n: int) -> str:
     return r.stdout if r.returncode == 0 else ""
 
 
+_LOST_MINUS_NUL = re.compile(r"(?<![\x00-\x08\x0b\x0c\x0e-\x1f])\x00[ \t]?(?=[.,]?\d)")
+_LOST_MINUS_EXCL = re.compile(r"(?<=[\s(=,;:\[|/<>])¡[ \t]?(?=[.,]?\d)")
+
+
 def _extract_pdf_text(content: bytes) -> str:
     try:
         from pypdf import PdfReader
@@ -88,7 +92,15 @@ def _extract_pdf_text(content: bytes) -> str:
             pages.append(page.extract_text() or "")
         except Exception:  # noqa: BLE001 - one malformed font or stream must not lose the whole paper
             pages.append(_pdftotext_page(content, n))
-    text = "\n\n".join(pages)
+    # Some PDFs' fonts map the minus sign to no character, and pypdf returns a NUL byte: an
+    # article's "r = -0.33" came out as "r = \0 0.33", and the claims written from it said the
+    # correlation was positive (Cebollero-Salinas et al. 2022, batch j-ce-3; 96 cached sources).
+    # Others map it to "¡" (28 sources). A lone NUL or "¡" before a number is a minus. A NUL in
+    # a run, or beside another control character, is not: Kendeou et al. 2007 encodes "=" as
+    # \x15 between NULs, and a download stamp pads an IP address with NULs. A NUL inside a word
+    # is a lost ligature (fi, ffi) and is left alone, since which one cannot be told.
+    text = _LOST_MINUS_NUL.sub("-", "\n\n".join(pages))
+    text = _LOST_MINUS_EXCL.sub("-", text)
     if len(text.strip()) < 500:
         raise FetchError("Extracted PDF text is suspiciously short (<500 chars) — "
                           "likely a scanned/image PDF that needs OCR.")

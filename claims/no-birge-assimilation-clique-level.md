@@ -37,9 +37,9 @@ Tanja Auer, Marion Reindl, Burkhard Gniewosz. (2025). Is the clique a pond? The 
 
 `q3 · i?` · `associational · r2`
 
-BIRGE was tested with a continuous clique-level indicator (clique-average achievement subtracted from classroom-average achievement) in the same three-level model. The printed interval [–0.323, 0.104] includes zero; no effect size is reported, so the null is not evidence of equivalence.
+BIRGE was tested with a continuous clique-level indicator (clique-average achievement subtracted from classroom-average achievement) in the same three-level model. The printed interval [–0.323, 0.104] includes zero; no effect size is reported, so the null is not evidence of equivalence. Signs restored: the PDF's extracted text had lost its minus signs.
 
-> "However, no statistically significant assimilations (BIRGE) were found at the clique level: b = 0.10, posterior SD = 0.11, 95% CI [–0.323, 0.104]."
+> "However, no statistically significant assimilations (BIRGE) were found at the clique level: b = -0.10, posterior SD = 0.11, 95% CI [–0.323, 0.104]."
 
 ## Discussion
 

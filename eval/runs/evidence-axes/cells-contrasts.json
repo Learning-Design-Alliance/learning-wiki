@@ -49578,5 +49578,117 @@
  "media-design\ttexts with pictures on the mobile device (TP)\ttexts on the mobile device and real objects (TO)": {
   "label": "texts with pictures on a mobile device (TP) vs texts on a mobile device and real objects (TO)",
   "treatment_is_a": true
+ },
+ "active-learning\tnon-peer-facilitated learning without distributed pair programming\tdistributed pair programming without peer facilitation": {
+  "label": "distributed pair programming vs no distributed pair programming",
+  "treatment_is_a": false
+ },
+ "active-learning\tonline peer-facilitated learning\tdistributed pair programming without peer facilitation": {
+  "label": "peer-facilitated vs non-peer-facilitated learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tonline peer-facilitated learning\tnon-peer-facilitated traditional teaching": {
+  "label": "peer-facilitated vs non-peer-facilitated learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer-facilitated learning plus distributed pair programming\tother study groups": {
+  "label": "peer-facilitated learning plus distributed pair programming vs other study groups",
+  "treatment_is_a": true
+ },
+ "feedback-type\tAI-A less complete in describing the original peer feedback\tAI-A more complete in describing the original peer feedback": {
+  "label": "more complete vs less complete feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\tAI-A less positively worded\tAI-A more positively worded": {
+  "label": "more positively worded vs less positively worded feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\tAI-A with lower accuracy\tAI-A with higher accuracy": {
+  "label": "higher accuracy vs lower accuracy feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\tless accurate AI assistance\tmore accurate AI assistance": {
+  "label": "more accurate vs less accurate feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\tless accurate AI-A\tmore accurate AI-A": {
+  "label": "more accurate vs less accurate feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\tless complete AI assistance description\tmore complete AI assistance description": {
+  "label": "more complete vs less complete feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\tless complete AI-A description\tmore complete AI-A description": {
+  "label": "more complete vs less complete feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\tless positively worded AI assistance\tmore positively worded AI assistance": {
+  "label": "more positively worded vs less positively worded feedback",
+  "treatment_is_a": false
+ },
+ "feedback-type\tless positively worded AI-A\tmore positively worded AI-A": {
+  "label": "more positively worded vs less positively worded feedback",
+  "treatment_is_a": false
+ },
+ "media-design\taddressing\tcomparison condition": {
+  "label": "Direct addressing vs no direct addressing",
+  "treatment_is_a": true
+ },
+ "media-design\tfrontal addressing\t40° lateral addressing": {
+  "label": "Frontal addressing vs lateral addressing",
+  "treatment_is_a": true
+ },
+ "media-design\tlarge image of lecturer with small slides\tsmall image of lecturer with large slides": {
+  "label": "Large lecturer image vs large slide image",
+  "treatment_is_a": true
+ },
+ "media-design\tsegmented instructional videos\tunsegmented instructional videos": {
+  "label": "Segmented videos vs unsegmented videos",
+  "treatment_is_a": true
+ },
+ "media-design\tvisibility modes with lecturer large, small, or absent\tother visibility modes": {
+  "label": "Lecturer visibility modes vs other visibility modes",
+  "treatment_is_a": true
+ },
+ "media-design\tvisible lecturer with lecturer appeal as moderator\tno lecturer-appeal moderation of visibility": {
+  "label": "Lecturer visibility moderated by lecturer appeal vs unmoderated lecturer visibility",
+  "treatment_is_a": true
+ },
+ "media-design\tweblecture with a visible lecturer\tweblecture with audio and slides only": {
+  "label": "Visible lecturer vs audio and slides only",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlater questions after more drill practice\tearlier questions with less drill practice": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmany total question attempts\tfewer total question attempts": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore drill questions seen\tfewer drill questions seen": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore questions or repeated exposure\tfewer questions or less exposure": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tanswering more drill questions\tanswering fewer drill questions": {
+  "label": "more vs fewer retrieval-practice questions",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tlast questions in a drill session\tfirst questions in a drill session": {
+  "label": "later vs earlier retrieval-practice questions",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tmore drill questions seen\tfewer drill questions seen": {
+  "label": "more vs fewer retrieval-practice questions",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tseeing the same question more than once\tseeing the question once": {
+  "label": "repeated vs single retrieval",
+  "treatment_is_a": true
  }
 }

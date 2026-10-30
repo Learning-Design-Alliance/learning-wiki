@@ -56,4 +56,4 @@ Review article. It summarises an experiment by Van Loon et al. (2014), not run b
 - [Instructing students to draw relations between text ideas (organizational drawing) improves relative monitoring accuracy more than representational drawing](organizational-drawing-instruction-improves-monitoring-accuracy.md) — related
 - [Visualizing support—provided diagrams or learner-generated drawings—facilitates higher-quality explanations and better comprehension than explaining text alone](visualizing-support-facilitates-explaining.md) — related
 - [Receiving two model answer diagrams improves secondary students' delayed-diagramming text comprehension relative to no model answers](two-model-answers-improve-comprehension-delayed-diagramming.md) — related
-- [Model answers and self-assessment instructions do not improve monitoring accuracy after delayed diagramming](model-answers-no-monitoring-accuracy-effect.md) — related
+- [Model answers and self-assessment instructions showed no significant effect on monitoring accuracy after delayed diagramming](model-answers-no-monitoring-accuracy-effect.md) — related

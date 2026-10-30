@@ -59,3 +59,4 @@ The review attributes this to Tsai and Liu (2018), reporting that learners using
 - [Captioning second-language videos produces large benefits for comprehension and vocabulary acquisition](captioning-second-language-videos-large-benefits.md) — related
 - [Extramural English gaming relates to better L2 proficiency, but effects vary by activity type and strategy](extramural-gaming-vocabulary-effects-mixed.md) — related
 - [Grades themselves, regardless of formula, detrimentally affect creative thinking, long-term retention, interest in learning, and preference for challenging tasks](grades-detrimental-creative-thinking-retention.md) — related
+- [Children's vocabulary acquisition benefited from the robot tutor's instruction and knowledge demonstration](robot-tutor-role-vocabulary-gains.md) — related

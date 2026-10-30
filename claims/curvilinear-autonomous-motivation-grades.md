@@ -9,7 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 2021
-source_checked: 2026-10-23
+source_checked: 2026-10-29
 sources:
   - id: mouratidis-2021
     resource: "https://doi.org/10.1016/j.learninstruc.2020.101433"
@@ -25,10 +25,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2021 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` In the full polynomial model, both the linear and quadratic terms of autonomous motivation positively and significantly predicted grades, indicating an accelerating rate of increase. [→ Mouratidis 2021](#mouratidis-2021)
+`q3 i?` In the full polynomial model, both the linear and quadratic terms of autonomous motivation positively and significantly predicted later grades (quadratic term β = .07 and .17 in the two samples), an association indicating an accelerating rate of increase. [→ Mouratidis 2021](#mouratidis-2021)
 
 ## Evidence
 
@@ -38,7 +38,7 @@ Mouratidis, A., Michou, A., Sayil, M., & Altan, S. (2021). It is autonomous, not
 
 `q3 · i?` · `associational · r2`
 
-Sample 1 full polynomial regression: autonomous motivation squared was a significant positive predictor (b = 1.95, p < .01, from Table 2). In Sample 2, autonomous motivation squared also predicted grades (b = 1.94, p = .044). Both samples' surfaces were mildly convex with highest estimated grades at high autonomous and low controlled motivation. No standardized effect size is printed for the quadratic term.
+Grades six months (Sample 1) and two months (Sample 2) later were regressed on students' self-reported autonomous and controlled motivation, so the relation is an association and cannot show that motivation caused the grades. Sample 1 full polynomial regression: autonomous motivation squared was a significant positive predictor (B = 1.95, p < .01, standardized β = .07, Table 2). In Sample 2, where the full polynomial model as a step was not significant (F change (2, 248) = 2.40), autonomous motivation squared still predicted grades (Table 2: B = 2.09, β = .17, p < .05; the text reports b = 1.94, p = .044, β = 0.15). Both samples' surfaces were mildly convex with highest estimated grades at high autonomous and low controlled motivation. The standardized coefficients are small and are not converted here to a d.
 
 > "In that model both the linear and curvilinear relations of autonomous motivation to grades were positive and statistically significant. This finding suggests an accelerating rate of increase in grades"
 

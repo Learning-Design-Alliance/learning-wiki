@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-10-29
 sources:
   - id: femke-van-der-wilt-2025
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102217"
@@ -24,10 +25,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i2` For children with below-median teacher-child closeness, peer rejection T1 correlated significantly negatively with language competence T2 (r = .24, p = .004); for above-median closeness the correlation was non-significant (r = .01, p = .951). [→ Femke van der Wilt 2025](#femke-van-der-wilt-2025)
+`q3 i2` For children with below-median teacher-child closeness, peer rejection T1 correlated significantly negatively with language competence T2 (r = -.24, p = .004); for above-median closeness the correlation was non-significant (r = .01, p = .951). [→ Femke van der Wilt 2025](#femke-van-der-wilt-2025)
 
 ## Evidence
 
@@ -37,9 +38,11 @@ Femke van der Wilt, Jantine Spilt, Sharisse van Driel, Hilde Colpin. (2025). The
 
 `q3 · i2` · `associational · r2`
 
-Post hoc correlation analyses in a longitudinal study of N = 328 Dutch children aged four to six, split at the median of teacher-child closeness. The below-median group showed a "significant, negative correlation" (r = .24, p = .004); the above-median group's correlation was non-significant (r = .01, p = .951).
+Post hoc correlation analyses in a longitudinal study of N = 328 Dutch children aged four to six, split at the median of teacher-child closeness. The below-median group showed a "significant, negative correlation" (r = -.24, p = .004); the above-median group's correlation was non-significant (r = .01, p = .951).
 
-> "A significant, negative correlation between peer rejection T1 and language competence T2 was observed for children with below-median levels of teacher-child closeness (r = .24, p = .004), while a non-significant correlation was found for children with above-median levels (r = .01, p = .951)."
+> "A significant, negative correlation between peer rejection T1 and language competence T2 was observed for children with below-median levels of teacher-child closeness (r = -.24, p = .004), while a non-significant correlation was found for children with above-median levels (r = .01, p = .951)."
+
+Signs restored: the PDF's extracted text had lost its minus signs.
 
 ## Discussion
 

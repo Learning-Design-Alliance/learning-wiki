@@ -149,3 +149,4 @@ Meta-analysis of the segmenting effect covering "56 investigations including 88 
 - [In complex materials, interim testing improves learning of new lecture-video segments and passage sections, including comprehension and integration](forward-testing-complex-materials.md) — related
 - [Studying dynamic phenomena as discrete time steps supports students' understanding of system behavior compared with continuous-time equation-derived processes.](discrete-time-steps-support-understanding.md) — a narrower finding that bears on this claim
 - [Segmenting online multimedia lessons into short user-paced segments improves transfer and reduces cognitive load](segmenting-improves-transfer-and-reduces-load.md) — related
+- [Segmentation of instructional videos enhances learning outcomes](segmentation-enhances-video-learning.md) — possibly the same claim (merge candidate)

@@ -13,7 +13,7 @@ generated:
 # Pre-Class Video/Lecture
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 25 claims (12 for, 10 mixed, 3 against) · 30 studies (12 causal, 6 review, 4 quant-synthesis, 3 associational, 3 qualitative, 2 theoretical), `q1`–`q4` · 7 of 30 report an effect size · 20 claims rest on one study
+> **Evidence** · 26 claims (13 for, 10 mixed, 3 against) · 31 studies (13 causal, 6 review, 4 quant-synthesis, 3 associational, 3 qualitative, 2 theoretical), `q1`–`q4` · 7 of 31 report an effect size · 21 claims rest on one study
 
 ## Description
 Instructional content — exposition, worked demonstrations, or recorded lectures — is delivered via video before class, so that synchronous time can be spent on application, discussion, and feedback rather than first exposure. The video functions as the initial-instruction component of a [Flipped Classroom](../principles/flipped-learning.md), shifting information transmission outside the group learning space.
@@ -71,6 +71,7 @@ Pre-class video works only when paired with accountability and application: stud
 - [The video lectures were effective overall, producing significant knowledge gains](../claims/video-lecture-overall-effectiveness.md) [+W]
 - [Learners recognize an instructor's positive versus negative emotional tone in video lectures.](../claims/learners-recognize-instructor-emotional-tone-video.md) [~W]
 - [Self-reported preparation behaviors, especially watching tutorial videos, predict performance in the e-learning sessions](../claims/preparation-behaviors-predict-session-performance.md) [+W]
+- [Experimental and control groups differed only in use of instructional videos](../claims/experimental-control-groups-differed-only-in-video-use.md) [+W]
 
 ## The evidence by question
 - *Does a flipped course raise academic performance over the same course taught by lecture?* [In a low-certainty meta-analysis of 44 studies with very high heterogeneity (I² = 98%), undergraduate health professional students in flipped classes score higher than those in traditional classes (SMD = 0.57)](../claims/flipped-classroom-improves-academic-performance-hpe.md) [+M]

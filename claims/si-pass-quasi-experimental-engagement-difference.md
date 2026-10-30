@@ -47,3 +47,4 @@ Exploratory quasi-experimental analysis comparing online exercise completion of 
 ## Related Claims
 - [SI-PASS participants did not engage more with online exercises than controls in the RCT, but attendance correlated with online exercise engagement](si-pass-engagement-ecology-patterns.md) — related
 - [A quasi-experimental comparison of SI-PASS participants with non-volunteering enrolled students shows significantly higher exam performance, contrasting with the null RCT result](si-pass-quasi-experimental-significant-effect.md) — related
+- [Online peer-facilitated learning significantly improves programming skills, enjoyment of learning, and intention to learn compared to non-peer-facilitated learning](peer-facilitated-learning-improves-programming-outcomes.md) — related

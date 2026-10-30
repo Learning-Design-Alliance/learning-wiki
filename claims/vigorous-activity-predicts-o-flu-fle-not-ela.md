@@ -9,6 +9,7 @@ generated:
   at: 2026-10-17
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-10-29
 sources:
   - id: romance-2023
     resource: "https://doi.org/10.1016/j.tsc.2023.101295"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i0` negligible
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-10-29 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Vigorous physical activity significantly accounted for 6.1% of variance of originality (F (1, 136) = 8.888, p = 0.003) and 6.4% of variance of flexibility (F (1, 136) = 9.254, p = 0.003). [→ Romance 2023](#romance-2023)
@@ -56,7 +57,7 @@ Romance, R., Nielsen-Rodríguez, A., Sousa Mendes, R., Dobado-Castañeda, J. C.,
 
 `q2 · i0` · `associational · r2`
 
-Null regression result from Table 4 of the same analysis: elaboration showed R2 = 0.006 (adjusted R2 = -0.002, t = 0.887, p = 0.376) with vigorous physical activity. A non-significant test with a printed near-zero R² is coded as a negligible association.
+Null regression result from Table 4 of the same analysis: elaboration showed R2 = 0.006 (adjusted R2 = -0.002, B = -0.080, t = -0.887, p = 0.376) with vigorous physical activity. A non-significant test with a printed near-zero R² is coded as a negligible association. Signs restored: the PDF's extracted text had lost its minus signs.
 
 > "However, the relationship between the ELA variable and vigorous physical activity was not significant."
 

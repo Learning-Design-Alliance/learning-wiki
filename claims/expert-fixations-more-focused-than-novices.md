@@ -58,3 +58,4 @@ Eye-tracking experiment in which 67 teachers viewed four authentic lesson videos
 - [Expert teachers fixate more on struggling, underestimating, and uninterested students during individual seatwork, while novices show longer fixations on strong and overestimating students](expert-gaze-attends-to-support-needed-profiles.md) — related
 - [Both novice and expert teachers state valid behavioral cues when inferring student profiles, but novices rely more on salient cues such as hand raising and quality of answers](novices-rely-on-salient-cues-hand-raising.md) — related
 - [Expert teachers show expertise-related eye movement patterns in some classroom tasks but not others, indicating task and context specificity](expert-teacher-gaze-context-specific.md) — related
+- [Classroom management self-efficacy and perceived cognitive load correlate with visual attention measures](self-efficacy-cognitive-load-correlate-attention.md) — related

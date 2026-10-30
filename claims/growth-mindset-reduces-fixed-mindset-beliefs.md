@@ -72,3 +72,4 @@ Self-reported fixed mindset measured at the end of the second session in the nat
 - [A short growth mindset intervention raised growth mindset belief but produced no significant difference from control in recall performance, interest, enjoyment or perceived difficulty and effort, for either knowledge type](growth-mindset-no-effect-vocabulary-learning.md) — related
 - [The growth mindset intervention successfully fostered mindset beliefs but this did not transfer to learning outcomes](mindset-belief-fostered-without-outcome-change.md) — related
 - [When delivered by master's students, the intervention additionally improved growth mindsets and standardized math achievement](moma-masters-student-mindset-achievement-effects.md) — related
+- [The growth mindset intervention had a small but statistically significant positive effect on GPA.](small-significant-gpa-effect-of-mindset-intervention.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-12
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-29
 recheck_by: 2029
 sources:
   - id: pedro-c-mendonça-2026
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Pooled across LLM evaluators, structured rubrics differed from the human baseline by −4.46 points and free-form rubrics by −0.66 points, a statistically significant difference (p < 0.001). [→ Pedro C. Mendonça 2026](#pedro-c-mendonca-2026)
@@ -38,9 +39,9 @@ Pedro C. Mendonça, Filipe Quintal, Mário Figueiredo, Karolina Baras, Fábio Me
 
 `q3 · i?` · `causal · r2`
 
-Paired Wilcoxon signed-rank comparisons of structured versus free-form rubric performance across three LLM evaluators (Table 6; 1848 pairs overall from 308 responses). Format differences were significant for text (p < 0.001) and code (p < 0.001) pooled rows.
+Paired Wilcoxon signed-rank comparisons of structured versus free-form rubric performance across three LLM evaluators (Table 6; 1848 pairs overall from 308 responses). Format differences were significant for text (p < 0.001) and code (p < 0.001) pooled rows. Signs restored: the PDF's extracted text had lost its minus signs.
 
-> "The pooled comparison showed mean differences of  4.46 points for structured rubrics and  0.66 points for free-form rubrics, with a statistically significant difference between the two approaches (p < 0.001), as reported in Table 6."
+> "The pooled comparison showed mean differences of -4.46 points for structured rubrics and -0.66 points for free-form rubrics, with a statistically significant difference between the two approaches (p < 0.001), as reported in Table 6."
 
 ## Discussion
 

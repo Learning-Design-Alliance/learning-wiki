@@ -9,7 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: moderate
 newest_evidence: 2022
-source_checked: 2026-10-23
+source_checked: 2026-10-29
 sources:
   - id: reinhard-pekrun-2022
     resource: "https://doi.org/10.1016/j.learninstruc.2022.101626"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
-> **Currency** · newest study 2022 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Grades had positive within-person predictive effects on subsequent enjoyment and pride, and enjoyment and pride had positive effects on subsequent grades. [→ Reinhard Pekrun 2022](#reinhard-pekrun-2022)

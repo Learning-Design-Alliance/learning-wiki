@@ -80,3 +80,4 @@ Same correlational intent-enactment analysis, reporting null associations for le
 - [Metacognitive knowledge and intentions to use effective strategies do not reliably translate into actual strategy use (intention-behavior gap)](intention-behavior-gap-strategy-use.md) — related
 - [Adolescent digital self-regulation is enacted through a typology of four strategy types differing in executive effort versus external scaffolding](adolescent-digital-self-regulation-strategy-typology.md) — related
 - [Goal orientation affects children's help-seeking behaviour in Ecolab II](goal-orientation-affects-help-seeking-ecolab-ii.md) — related
+- [After-school moderated chat sessions enable scaffolded problem-solving discussion beyond classroom hours](after-school-chat-sessions-scaffold-problem-solving.md) — related

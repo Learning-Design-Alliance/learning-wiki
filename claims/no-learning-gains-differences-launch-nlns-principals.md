@@ -9,7 +9,7 @@ generated:
   at: 2026-10-08
 evidence_strength: moderate
 newest_evidence: 2006
-source_checked: 2026-10-15
+source_checked: 2026-10-29
 sources:
   - id: hart-2006
     resource: "https://consortium.uchicago.edu/publications/principal-and-teacher-leadership-chicago-continuing-analysis-three-initiatives"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2006 · checked against its sources 2026-10-15 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2006 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Neither LAUNCH nor NLNS principals showed significantly different ITBS learning gains from comparably experienced principals, and splitting LAUNCH principals by experience level also showed no differences. [→ Hart 2006](#hart-2006)

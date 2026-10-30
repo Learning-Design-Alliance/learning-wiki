@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-29
 sources:
   - id: sorkkila-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102298"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students' positive lesson-specific emotions predicted less negative emotions in their teacher. [→ Sorkkila 2026](#sorkkila-2026)
@@ -37,9 +38,9 @@ Sorkkila, M., Malmberg, L.-E., Pöysä, S., Kiuru, N., Lerkkanen, M.-K., & Pakar
 
 `q2 · i?` · `associational · r2`
 
-Cross-classified model (M2) regressing 61 teacher lesson-reports on students' same-lesson emotions. The article reports the student-positive-emotion path with unstandardized B = 0.027 whose credibility interval excluded zero; no effect size is printed.
+Cross-classified model (M2) regressing 61 teacher lesson-reports on students' same-lesson emotions. The article reports the student-positive-emotion path with unstandardized B = -0.027 whose credibility interval excluded zero; no effect size is printed. Signs restored: the PDF's extracted text had lost its minus signs.
 
-> "However, students' positive emotions predicted less negative emotions in teachers (B = 0.027, [ 0.048,  0.007])."
+> "However, students' positive emotions predicted less negative emotions in teachers (B =-0.027, [-0.048, -0.007])."
 
 ## Discussion
 

@@ -110,3 +110,4 @@ Same agreement analysis at the model level. LLM-LLM Jaccard ranged from 0.37 to 
 - [A customised GPT-4 agreed with a human coder on over 90% of coded dialogue turns in both math and Chinese lessons](gpt4-human-coder-agreement-over-90-percent.md) — related
 - [Multi-label classification of open-ended course feedback was challenging even for expert human annotators who developed the label set, with average inter-rater Jaccard similarity of 81.24%](multi-label-survey-classification-challenging-expert-annotators.md) — related
 - [The three human experts showed significantly high Pearson and Spearman correlations in their individual novelty scores before consensus scoring](high-expert-inter-rater-correlation-novelty.md) — related
+- [GPT-4-Turbo as an LLM Judge reliably selects better scaffolds and mitigates hallucination errors, while weaker LLM Judges do not](gpt4-turbo-judge-mitigates-hallucinations-weaker-judges-do-not.md) — related

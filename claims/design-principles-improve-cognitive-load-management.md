@@ -79,3 +79,4 @@ The article reports that "a small number of primary studies found large effects"
 - [Multimedia feedback yields higher overall accuracy during practice with feedback, but without iterative improvement over scenarios](multimedia-feedback-higher-practice-accuracy.md) — related
 - [Personalized, conversational narration shows moderate-to-large effects on friendliness, cognitive processing, retention, and transfer](personalization-effect-sizes-multimedia.md) — related
 - [Segmenting online multimedia lessons into short user-paced segments improves transfer and reduces cognitive load](segmenting-improves-transfer-and-reduces-load.md) — a narrower finding that bears on this claim
+- [Segmentation of instructional videos enhances learning outcomes](segmentation-enhances-video-learning.md) — related

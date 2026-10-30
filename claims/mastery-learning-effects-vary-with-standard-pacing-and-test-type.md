@@ -9,7 +9,6 @@ generated:
   at: 2026-10-13
 evidence_strength: moderate
 newest_evidence: 1990
-source_checked: 2026-10-15
 sources:
   - id: kulik-et-al-1990
     resource: "https://doi.org/10.3102/00346543060002265"
@@ -26,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · n=103 studies
-> **Currency** · newest study 1990 · checked against its sources 2026-10-15 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 1990 · not yet checked against its sources · not reviewed by a person
 
 Which features of a mastery learning program, and of the evaluation, go with larger achievement effects.
 
@@ -42,7 +41,7 @@ Kulik, C.-L. C., Kulik, J. A., & Bangert-Drowns, R. L. (1990). Effectiveness of 
 
 `q4 · meta-analysis (moderator regression over 103 studies)` · `i? · moderator coefficients, no single effect size for the finding` · `n=103 studies` · `quant-synthesis · r?`
 
-The authors regressed study effect sizes on program and design features. Group-based programs produced larger effects than self-paced ones; programs with a high unit mastery standard (the percentage correct required before moving on) beat programs with lower standards; effects measured on locally developed tests were larger than on standardized commercial tests (in four studies with both, standardized effects were near zero, from -0.05 to 0.09, against local effects up to 0.64); and effects were smaller where the comparison group received as much quiz feedback as the mastery group. Group-based social-science courses with a high standard averaged 0.89 SD on local tests and 0.76 on standardized ones.
+The authors regressed study effect sizes on program and design features. These are associations across studies, not comparisons in which programs were assigned to a feature, so they cannot show that a feature caused the difference. Group-based programs were associated with larger effects than self-paced ones; programs with a high unit mastery standard (the percentage correct required before moving on) were associated with larger effects than programs with lower standards; effects measured on locally developed tests were larger than on standardized commercial tests (in four studies with both, standardized effects were near zero, from -0.05 to 0.09, against local effects up to 0.64); and effects were smaller where the comparison group received as much quiz feedback as the mastery group. Group-based social-science courses with a high standard averaged 0.89 SD on local tests and 0.76 on standardized ones.
 
 > "First, group-based programs produced larger effects than did self-paced ones. Second, programs with a high mastery standard were more effective than programs with lower standards. Third, programs whose effects were measured on locally developed tests produced larger effects than did programs whose effects were measured on standardized, commercial tests. Fourth, effects were larger in studies in which control groups received less quiz feedback than did experimental groups."
 
@@ -63,7 +62,7 @@ The authors regressed study effect sizes on program and design features. Group-b
 
 ## Discussion
 
-For design: set a high unit standard and keep the class moving together where possible. For reading the evidence: part of the headline 0.52 SD is the extra quiz feedback mastery students receive, and part is tests written to the course; effects on standardized tests are much smaller.
+For design, these cross-study associations suggest, without showing cause, that a high unit standard and keeping the class moving together go with larger effects. For reading the evidence: part of the headline 0.52 SD is the extra quiz feedback mastery students receive, and part is tests written to the course; effects on standardized tests are much smaller.
 
 ## Related Claims
 

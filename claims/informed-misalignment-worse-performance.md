@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-29
 sources:
   - id: de-jonge-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2026.102422"
@@ -24,10 +25,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i2` Informed participants performed significantly worse (d = 0.72) and reported higher cognitive load during the video (d = 0.72) than uninformed participants. [→ de Jonge 2026](#de-jonge-2026)
+`q3 i2` Informed participants performed significantly worse (d = -0.72) and reported higher cognitive load during the video (d = 0.72) than uninformed participants. [→ de Jonge 2026](#de-jonge-2026)
 
 ## Evidence
 
@@ -37,9 +38,9 @@ de Jonge, T. H. S., de Koning, B. B., & van Wermeskerken, M. (2026). It's all a 
 
 `q3 · i2` · `causal · r2`
 
-Exploratory analysis of the subsample of 128 participants who performed the task from a different angle than shown; half (n = 64) were informed of the misalignment beforehand. Informed participants "performed significantly worse", d = 0.72, with higher video cognitive load, d = 0.72.
+Exploratory analysis of the subsample of 128 participants who performed the task from a different angle than shown; half (n = 64) were informed of the misalignment beforehand. Informed participants "performed significantly worse", d = -0.72, with higher video cognitive load, d = 0.72. Signs restored: the PDF's extracted text had lost its minus signs.
 
-> "Independent-samples t-tests revealed that those who were informed performed significantly worse than those who were not, t(126) =  4.09, p < .001, d =  0.72 (large effect, mean difference =  1.73), and reported higher cognitive load during the video, t(126) = 2.67, p = .008, d = 0.72 (medium effect, mean difference = 1.00)."
+> "Independent-samples t-tests revealed that those who were informed performed significantly worse than those who were not, t(126) = -4.09, p < .001, d = -0.72 (large effect, mean difference = -1.73), and reported higher cognitive load during the video, t(126) = 2.67, p = .008, d = 0.72 (medium effect, mean difference = 1.00)."
 
 ## Discussion
 

@@ -93,3 +93,4 @@ SEM models including academic precursors (Figures 3 and 4) showed spelling and m
 - [GPAΔ at age 7 correlates negatively with subsequent achievement slopes, with students regressing on average 38.4% toward genomically predicted levels by age 16](gpad-regression-toward-genomic-prediction-one-third.md) — related
 - [Working memory predicts GPA in the initial model but not the final full-sample model](working-memory-gpa-mixed-older-learners.md) — related
 - [Prior domain knowledge predicts learning outcomes but not, on average, learning gains](prior-knowledge-predicts-outcomes-not-gains.md) — related
+- [Student-level variables significantly predict GPA change in the control condition, with prior GPA and self-reported grades as top predictors.](student-variables-predict-control-condition-gpa-change.md) — a narrower finding that bears on this claim

@@ -50,3 +50,4 @@ Preregistered online experiment (Prolific, N = 219 adults) randomly assigned par
 - [Instructor presence did not raise self-reported social presence or perceived learning, contrary to a recent meta-analytic finding](instructor-presence-no-social-presence-effect.md) — related
 - [Instructor video presence produced no significant difference in retention or transfer of Mandarin tone distinction among true-beginner learners](instructor-presence-no-retention-transfer-effect.md) — related
 - [No effects of visible instructor on learning outcomes across three field studies](no-visible-instructor-learning-effects.md) — a broader claim this one bears on
+- [Students prefer weblectures with a visible lecturer over audio and slides only](student-preference-visible-lecturer-weblectures.md) — related

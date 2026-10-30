@@ -75,3 +75,5 @@ Blinded Bayesian machine-learning robustness analysis (Bayesian causal forest) r
 - [Fixed mindset correlates negatively with GPA among U.S. 9th-grade students (average r = −.22) in a nationally representative sample](fixed-mindset-gpa-correlation-national-sample.md) — related
 - [The growth mindset intervention reduced fixed-mindset beliefs among lower-achieving adolescents, with no significant variation in this effect detected across schools](growth-mindset-reduces-fixed-mindset-beliefs.md) — related
 - [Growth mindset beliefs are positively associated with academic achievement in nearly all nations, with stronger associations among structurally disadvantaged students](growth-mindset-achievement-association-global.md) — related
+- [Prior academic achievement is the most important predictor of growth mindset intervention effectiveness on GPA.](prior-achievement-predicts-mindset-intervention-effectiveness.md) — related
+- [The growth mindset intervention had a small but statistically significant positive effect on GPA.](small-significant-gpa-effect-of-mindset-intervention.md) — related

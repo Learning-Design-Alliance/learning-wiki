@@ -9,7 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-20
+source_checked: 2026-10-29
 recheck_by: 2029
 sources:
   - id: saqib-shouqi-2026
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · `i3` large
-> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i3` Pearson correlations between mean human scores and automated scores were r = 0.82 for RF, r = 0.78 for ED, and r = 0.75 for CS (all p < 0.001), with inter-annotator agreement of Fleiss' kappa = 0.71. [→ Saqib Shouqi 2026](#saqib-shouqi-2026)

@@ -50,3 +50,4 @@ Moderator analyses across the 192-effect-size dataset examined conditions under 
 - [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md) — the general claim this finding bears on, with the studies behind it
 -
 - [Transfer of test-enhanced learning is greatest across test formats, to application and inference questions, to medical diagnosis problems, and to mediator and related word cues](transfer-greatest-test-formats-application-inference-medical-mediator-cues.md) — related
+- [Mood-affect congruency between learner mood and video affective charge influences retention and transfer (study 3)](mood-affect-congruency-retention-transfer.md) — related

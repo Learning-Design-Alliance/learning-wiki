@@ -50,3 +50,4 @@ Editorial opinion in the Journal of Educational Psychology, offered without data
 - [The editorial holds that the formal disciplinary idea of science as developing accuracy of method dominates science instruction and underlies claims of elementary pupils' immaturity.](formal-disciplinary-ideal-dominates-science-instruction.md) — related
 - [Investigations in educational psychology percolate slowly into the thinking of college administrators](ed-psychology-slow-uptake-administrators.md) — related
 - [Dewey argues the scientific attitude is achieved by pupils taking a hand in the making of knowledge through inquiry](dewey-making-knowledge-through-inquiry.md) — related
+- [Field instructors positioned technology as a presentation aid to be tempered with traditional teaching](field-instructors-technology-as-presentation-aid-tempered.md) — related

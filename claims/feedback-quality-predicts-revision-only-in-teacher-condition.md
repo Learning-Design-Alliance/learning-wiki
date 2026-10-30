@@ -96,3 +96,4 @@ Multiple regression in the CoT condition (model F(2, 19) = 8.80, p = .002, R2 = 
 - [Revision conditions offering more reader insight produced contrasting benefits for young writers' descriptive revision](reader-insight-conditions-contrasting-benefits.md) — related
 - [Chain-of-thought prompting yields higher-quality GenAI feedback on argumentative essays than Zero-shot prompting and teacher feedback](cot-prompting-higher-feedback-quality-than-zero-shot-and-teacher.md) — related
 - [Dwell time on the essay correlates positively with the quality of revised essays as assessed by professors](dwell-time-on-essay-correlates-with-revision-quality.md) — related
+- [Less accurate, less complete, or less positively worded AI assistance was more likely to prompt revision, with small-to-medium effect sizes](ai-assistance-characteristics-predict-uptake.md) — related

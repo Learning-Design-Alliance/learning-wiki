@@ -37,9 +37,9 @@ Tanja Auer, Marion Reindl, Burkhard Gniewosz. (2025). Is the clique a pond? The 
 
 `q3 · i?` · `associational · r2`
 
-Same three-level longitudinal model as the clique finding; this entry reports the classroom-level BFLPE estimate from the Results section. The printed confidence interval [ 1.615, 0.356] includes zero, so no effect size is claimed; equivalence was not tested.
+Same three-level longitudinal model as the clique finding; this entry reports the classroom-level BFLPE estimate from the Results section. The printed confidence interval [-1.615, 0.356] includes zero, so no effect size is claimed; equivalence was not tested. Signs restored: the PDF's extracted text had lost its minus signs.
 
-> "At the classroom level, the BFLPE was not statistically significant: b = 0.68, posterior SD = 0.48, 95% CI [ 1.615, 0.356]. Average classroom academic achievement did not predict ASC development."
+> "At the classroom level, the BFLPE was not statistically significant: b = -0.68, posterior SD = 0.48, 95% CI [-1.615, 0.356]. Average classroom academic achievement did not predict ASC development."
 
 ## Discussion
 

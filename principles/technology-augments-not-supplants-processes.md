@@ -31,7 +31,7 @@ sources:
 # Technology should augment, not supplant, learning processes in student-centered environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 157 claims (99 for, 47 mixed, 11 against) · 125 studies (30 theoretical, 28 qualitative, 25 review, 20 causal, 12 design, 10 associational), `q1`–`q4` · 8 of 125 report an effect size · 153 claims rest on one study
+> **Evidence** · 158 claims (100 for, 47 mixed, 11 against) · 126 studies (30 theoretical, 28 qualitative, 26 review, 20 causal, 12 design, 10 associational), `q1`–`q4` · 8 of 126 report an effect size · 154 claims rest on one study
 
 ## Conditional relationship
 
@@ -259,6 +259,7 @@ Claims this page cited that the model above does not use. Each keeps its old mar
 - [In the model, high-quality AI on hard tasks produces the highest regret despite moderate overreliance, because agents over-defer and rarely self-rely](../claims/high-regret-overdeferral-good-ai-hard-tasks.md) [-W] — one study · theoretical `r3` · `q2`. Read 2026-10-19 (linked by the orphan-claim linker): an agent-based simulation of reliance on AI, with simulated agents rather than learners and no learning outcome; it suggests a good tool on hard tasks invites the most deferral, a hypothesis for the "accepts every AI answer" diagnosis row, not evidence for it.
 - [AI over-reliance can produce inversion effects, reducing cognitive processing depth and learning outcomes](../claims/ai-inversion-effects-overreliance-reduce-learning.md) [+W] — attached 2026-10-22 from Bauer et al. (2025), which proposed "Mitigate AI over-reliance by keeping learners actively engaged in reflective processes before or during AI output generation".
 - [A perspective article warns that students risk overreliance on LMFM outputs and that overuse may impede critical thinking, research skills, and independent problem-solving](../claims/lmfm-overreliance-impedes-critical-thinking.md) [+W] — attached 2026-10-26 from Küchemann et al. (2025), which proposed "Keep the human in the loop: treat LMFMs as supplementary tools that complement rather than replace human teaching"; tests this page's relationship.
+- [Lecture capture works well if and only if students use it as a supplementary resource rather than an alternative to live lectures](../claims/lecture-capture-works-as-supplement-not-alternative.md) [+W] — attached 2026-10-29 from Banerjee (2021), which proposed "Explicitly tell students about the benefits and drawbacks of lecture capture so they use it as a supplement rather than an alternative"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

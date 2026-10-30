@@ -35,7 +35,7 @@ sources:
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i?` The ANCOVA on conceptual knowledge showed a significant combined effect, with a negative beta-coefficient of .19 for DI-PS assignment and -.21 for preferences towards DI-PS. [→ Sabrina Ludwig 2026](#sabrina-ludwig-2026)
+`q3 i?` The ANCOVA on conceptual knowledge showed a significant combined effect, with a negative beta-coefficient of -.19 for DI-PS assignment and -.21 for preferences towards DI-PS. [→ Sabrina Ludwig 2026](#sabrina-ludwig-2026)
 `q3 i?` For procedural knowledge, the design-by-preference interaction was significant (p = .01), with a positive beta-coefficient of .03 suggesting procedural knowledge acquisition increases when receiving the preferred design. [→ Sabrina Ludwig 2026 (2)](#sabrina-ludwig-2026-2)
 
 ## Evidence
@@ -46,7 +46,7 @@ Sabrina Ludwig, Andreas Rausch, Michelle Taub. (2026). Effects of instructional 
 
 `q3 · i?` · `causal · r2`
 
-ANCOVA on conceptual knowledge acquisition with instructional preferences as covariate (Table 6; n = 77). The design effect showed "a negative relationship" (beta .19, p = .09), preferences for DI-PS beta -.21 (p = .05), and a significant interaction (p = .04, beta .09).
+ANCOVA on conceptual knowledge acquisition with instructional preferences as covariate (Table 6; n = 77). The design effect showed "a negative relationship" (Table 6: beta -.19, p = .09), preferences for DI-PS beta -.21 (p = .05), and a significant interaction (p = .04, beta .09). Table 6 prints the design coefficient as "-.19"; the authors' prose below gives it without the sign. Signs restored: the PDF's extracted text had lost its minus signs.
 
 > "The beta-coefficient of .19 indicates a negative relationship, meaning that the DI-PS group may be associated with a decrease in conceptual knowledge compared to the PS-DI group."
 

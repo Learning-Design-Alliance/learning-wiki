@@ -63,3 +63,4 @@ The essay reports, citing Szpunar et al. (2013), a comparison of interpolated-qu
 - [Continuously thematically structured lectures led to worse free recall than discontinuous lectures, contrary to intuition](lecture-structure-worse-recall-continuous.md) — related
 - [In complex materials, interim testing improves learning of new lecture-video segments and passage sections, including comprehension and integration](forward-testing-complex-materials.md) — possibly the same claim (merge candidate)
 - [Lab-trained mind wandering detectors generalize to in-the-wild lecture viewing across task, setting, and cultural group, with BiLSTM on latent features reaching F1 = 0.352](cross-dataset-generalization-mind-wandering-detection.md) — related
+- [Segmentation of instructional videos enhances learning outcomes](segmentation-enhances-video-learning.md) — a broader claim this one bears on

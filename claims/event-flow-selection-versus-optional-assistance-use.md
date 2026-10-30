@@ -51,3 +51,4 @@ First-order Markov model analysis of event-flow transitions from the relevant fe
 - [TAs adapt rather than copy AI feedback drafts, with moderate draft–final overlap (ROUGE-L F1 = 0.60)](tas-adapt-rather-than-copy-ai-drafts.md) — related
 - [Revision after chatbot feedback predominantly results in successful uptake, indicating effective error correction](penny-feedback-successful-uptake.md) — related
 - [AI-assisted feedback drafts increase discretionary feedback provision by TAs by 10.81 percentage points](ai-drafts-increase-discretionary-feedback-provision.md) — related
+- [Uptake of AI assistance in peer feedback was low, with just 9% of AI suggestions leading to revisions](low-uptake-ai-assistance-peer-feedback.md) — related

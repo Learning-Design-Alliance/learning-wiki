@@ -8,7 +8,6 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
-source_checked: 2026-10-20
 sources:
   - id: gero-et-al-2026
     title: Gero et al. 2026
@@ -28,7 +27,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2` · `q3`
-> **Currency** · no dated study recorded · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The ai draft condition differed from the average of ai plan and ai revision by −1.65 ownership points (p<.001). [→ Gero et al. 2026](#gero-et-al-2026)

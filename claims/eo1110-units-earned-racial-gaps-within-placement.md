@@ -54,3 +54,4 @@ Observational analysis of units earned by race/ethnicity within QR placement (Fi
 - [Black/African American and Hispanic/Latino students were overrepresented in lower QR placement categories relative to their share of the 2018 CSU entering cohort](eo1110-racial-disproportionality-qr-placement.md) — related
 - [Retention rates for Black/African American and Hispanic/Latino students dropped more steeply between the second and third semesters than for White and Asian students in both cohorts](eo1110-retention-gaps-widen-by-ethnicity.md) — related
 - [Natural uptake of the freely available Exam Playbook differed by gender and race but not academic ability or first-generation status](exam-playbook-natural-uptake-demographics.md) — related
+- [Race/ethnicity was among the most important predictors of intervention effectiveness, with lower predicted effects for Black/African American students.](race-ethnicity-predicts-intervention-effectiveness.md) — related

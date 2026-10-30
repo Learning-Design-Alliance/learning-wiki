@@ -52,3 +52,4 @@ The review reports, citing Yaneva et al. (2019), that readability measures under
 - [Readability levels of film narrations were found to be at or near the theoretical reading level of the intended audience.](film-narration-readability-matches-audience.md) — related
 - [The Dale-Chall and Flesch readability formulas appear most efficient at discriminating less from more readable materials](dale-chall-flesch-most-efficient-formulas.md) — related
 - [Readability formulas measure stylistic qualities and miss content readability, so they cannot substitute for editorial judgment](readability-formulas-miss-content-readability.md) — a broader claim this one bears on
+- [AI assistance was typically positive in tone and of college-level reading difficulty](ai-assistance-positive-tone-college-reading-difficulty.md) — related

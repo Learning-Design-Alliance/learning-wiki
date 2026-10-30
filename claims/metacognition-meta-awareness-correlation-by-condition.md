@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Metacognition correlates with meta-awareness in the gradually increasing complexity group in Round 2, but not in the consistently high complexity group
-description: Metacognition correlates with meta-awareness in the gradually increasing complexity group in Round 2, but not in the consistently high complexity group
+title: Metacognition correlates with meta-awareness in the gradually increasing complexity group in Round 2, but not significantly in the consistently high complexity group
+description: Metacognition correlates with meta-awareness in the gradually increasing complexity group in Round 2, but not significantly in the consistently high complexity group
 id: metacognition-meta-awareness-correlation-by-condition
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-10-29
 sources:
   - id: ines-zeitlhofer-2024
     resource: "https://doi.org/10.1016/j.learninstruc.2024.102001"
@@ -28,14 +29,14 @@ sources:
     rigour: 2
 ---
 
-# Metacognition correlates with meta-awareness in the gradually increasing complexity group in Round 2, but not in the consistently high complexity group
+# Metacognition correlates with meta-awareness in the gradually increasing complexity group in Round 2, but not significantly in the consistently high complexity group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-10-29 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
-`q3 i3` In the gradually increasing complexity group, metacognitive regulation and knowledge each correlated positively with meta-awareness in Round 2 (r = 0.44). [→ Ines Zeitlhofer 2024](#ines-zeitlhofer-2024)
+`q3 i3` In the gradually increasing complexity group, metacognitive regulation and knowledge each correlated positively with meta-awareness in Round 2 (r = 0.44 and r = 0.43 in the correlation table). [→ Ines Zeitlhofer 2024](#ines-zeitlhofer-2024)
 `q3 i?` No significant correlations between metacognition and meta-awareness appeared in the consistently high complexity group. [→ Ines Zeitlhofer 2024 (2)](#ines-zeitlhofer-2024-2)
 
 ## Evidence
@@ -46,7 +47,7 @@ Ines Zeitlhofer, Joerg Zumbach, Judith Schweppe. (2024). Complexity affects perf
 
 `q3 · i3` · `causal · r2`
 
-Correlation analysis split by group in the N = 98 study found, in the gradually increasing complexity group, "moderate positive correlations" between both metacognition subscales and Round 2 meta-awareness, with printed correlation r = 0.44 (r(49), p < .02).
+Correlation analysis split by group in the N = 98 study found, in the gradually increasing complexity group, "moderate positive correlations" between both metacognition subscales and Round 2 meta-awareness, with printed correlations in the group's correlation table of r = 0.44 (regulation) and r = 0.43 (knowledge); the prose below gives both as 0.44 (r(49), p < .02).
 
 > "The analysis revealed moderate positive correlations in the gradually increasing complexity group between metacognitive regulation and meta-awareness and between metacognitive knowledge and meta-awareness in Round 2 (r(49) = 0.44, p < .02)."
 
@@ -56,9 +57,9 @@ Ines Zeitlhofer, Joerg Zumbach, Judith Schweppe. (2024). Complexity affects perf
 
 `q3 · i?` · `causal · r2`
 
-In the consistently high complexity group no significant correlations emerged between metacognitive regulation or knowledge and meta-awareness in any round; the authors suggest all learners there developed some meta-awareness regardless of metacognition level.
+In the consistently high complexity group no statistically significant correlations emerged (Table 3 coefficients from -0.13 to 0.17; not a demonstration of no relationship) between metacognitive regulation or knowledge and meta-awareness in any round; the authors suggest all learners there developed some meta-awareness regardless of metacognition level. Signs restored: the PDF's extracted text had lost its minus signs.
 
-> "For the consistently high complexity group, the findings indicated no significant relationships between metacognitive regulation and meta-awareness across all three rounds (Round 1: r(49) = 0.08, p < .60; Round 2: r(49) = 0.13, p < .37; post-test: r(49) = 0.04, p < .79)."
+> "For the consistently high complexity group, the findings indicated no significant relationships between metacognitive regulation and meta-awareness across all three rounds (Round 1: r(49) =-0.08, p < .60; Round 2: r(49) =-0.13, p < .37; post-test: r(49) = 0.04, p < .79)."
 
 ## Discussion
 

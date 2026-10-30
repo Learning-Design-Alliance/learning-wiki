@@ -215,3 +215,4 @@ Review synthesis on uncritical trust in AI outputs. The authors conclude that "u
 - [Students were far more likely to accept peer-written alternative endings as valid conclusions to the novel than ChatGPT-generated endings](peer-endings-accepted-more-than-chatgpt-endings.md) — a narrower finding that bears on this claim
 - [Optimizing pedagogical parameters on proxy measures risks trading learning for engagement, and simulated students carry their own accuracy limits](proxy-optimization-engagement-trap.md) — related
 - [Technical challenges include lack of stability, security, and limitations in modeling complex learning behaviors](technical-challenges-srl-recommenders.md) — related
+- [Less accurate, less complete, or less positively worded AI assistance was more likely to prompt revision, with small-to-medium effect sizes](ai-assistance-characteristics-predict-uptake.md) — related

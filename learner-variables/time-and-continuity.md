@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 140 claims (97 show a difference, 33 mixed, 10 no difference) · 122 studies (47 causal, 29 associational, 20 review, 12 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 25 of 122 report an effect size · 136 claims rest on one study
+> **Evidence** · 142 claims (98 show a difference, 34 mixed, 10 no difference) · 124 studies (47 causal, 30 associational, 21 review, 12 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 26 of 124 report an effect size · 138 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -170,7 +170,7 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [In a computer learning environment for electricity, the benefit of exploratory simulation time depended on instructional treatment (rule induction vs. rule application)](../claims/ati-exploration-time-by-rule-treatment-electricity.md) [~M] — an instructional effect differs with it
 - [Higher weekly childcare dosage was associated with lower probability of higher education enrollment](../claims/childcare-dosage-negative-association.md) [+M] — learners who differ on it differ in outcomes
 - [Students needed to attend at least five SI-PASS meetings before their exam performance significantly improved](../claims/si-pass-attendance-threshold-five-meetings.md) [+M] — learners who differ on it differ in outcomes
-- [First graders who missed kindergarten during COVID closures showed the greatest school-readiness loss in basic counting and numeracy skills against pre-pandemic cohorts: d = 0.16 after three months of closures and d = 0.23 for the cohort entering school a year later](../claims/kindergarten-closure-numeracy-loss.md) [+W] — learners who differ on it differ in outcomes
+- [First graders who missed kindergarten during COVID closures showed the greatest school-readiness loss in basic counting and numeracy skills against pre-pandemic cohorts: d = -0.16 after three months of closures and d = -0.23 for the cohort entering school a year later](../claims/kindergarten-closure-numeracy-loss.md) [+W] — learners who differ on it differ in outcomes
 - [Performance trajectories diverge over time: the simultaneous condition improves after instruction while sequential conditions hold or decline](../claims/condition-by-time-interaction-gesture-timing.md) [+M] — an instructional effect differs with it
 - [Performance on difficult mental multiplication improves during a continuous work period of about two hours](../claims/mental-multiplication-improves-during-continuous-work.md) [+M] — learners who differ on it differ in outcomes
 - [Negative psychosocial effects of preschool concentrate in full-day programs, with no academic difference between full- and part-day attendance and no program-type differences](../claims/preschool-dosage-full-day-behavioral-effects.md) [~M] — learners who differ on it differ in outcomes
@@ -197,6 +197,8 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [No instruction characteristic (dosage, program availability, literacy domain) significantly moderated effects, though phonics and spelling instruction approached significance descriptively favoring treatments that included them](../claims/no-instruction-moderators-phonics-spelling-marginal.md) [-M] — an instructional effect differs with it
 - [Increasing narration speed by up to 1.8 times has no negative impact on learning and reduces instruction time](../claims/narration-speed-up-to-1-8x-no-learning-cost.md) [+M] — instruction changes it
 - [A continuous cycle of authentic experiences and feedback supports preservice teachers to build their digital practice](../claims/authentic-experience-feedback-cycle-digital-practice.md) [+M] — learners who differ on it differ in outcomes
+- [Lecture capture has an adverse impact on lecture attendance, the most widely documented drawback across 20 of 71 reviewed articles](../claims/lecture-capture-adverse-impact-attendance.md) [+M] — instruction changes it
+- [The variance of planning time shows no significant fixed effect on CPS performance but a significant task-dependent random effect correlated with task difficulty](../claims/variance-planning-time-task-dependent-cps.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

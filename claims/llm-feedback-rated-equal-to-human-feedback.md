@@ -52,3 +52,4 @@ Experiment 3: 80 respondents rated blinded human and ChatGPT feedback on 5-point
 - [Students preferred AI-generated personalized videos over human-recorded non-personalized videos in direct comparison](ai-personalized-videos-preferred-over-human-non-personalized.md) — related
 - [Children perceive LLM-generated adaptive feedback as more helpful and more motivating than generic guidance](children-perceive-llm-feedback-more-helpful-motivating.md) — related
 - [Students perceived personalized and generic feedback messages as equally helpful and motivating](equal-perceptions-personalized-generic-feedback.md) — related
+- [Prior studies summarised in one article report that students rate instructor feedback above AI-generated feedback, and rate AI feedback lower once they know its origin](students-prefer-human-feedback-over-ai.md) — reports the opposite

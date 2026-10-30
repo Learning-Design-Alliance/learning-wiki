@@ -45,7 +45,7 @@ Randomized 3×2 between-subjects experiment with 258 grade 11–12 students; lin
 
 
 ## Related Claims
-- [Model answers and self-assessment instructions do not improve monitoring accuracy after delayed diagramming](model-answers-no-monitoring-accuracy-effect.md) — related
+- [Model answers and self-assessment instructions showed no significant effect on monitoring accuracy after delayed diagramming](model-answers-no-monitoring-accuracy-effect.md) — related
 - [Delayed diagram completion improves students' relative monitoring accuracy of text comprehension compared with no diagramming](delayed-diagram-completion-improves-relative-monitoring-accuracy.md) — related
 - [Visualizing support—provided diagrams or learner-generated drawings—facilitates higher-quality explanations and better comprehension than explaining text alone](visualizing-support-facilitates-explaining.md) — related
 - [Diagramming scaffold also improves absolute metacomprehension accuracy for causal relations, extending the effect beyond relative accuracy](diagramming-improves-absolute-metacomprehension-accuracy.md) — related

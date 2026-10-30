@@ -49,4 +49,4 @@ Meta-regression moderator analyses across the 19 included single-case studies te
 - [Reciprocal Teaching Improves Reading Comprehension](reciprocal-teaching-improves-reading-comprehension.md) — related
 - [Reading Strategy Instruction Improves Comprehension](reading-strategy-instruction-improves-comprehension.md) — related
 - [Vocabulary Instruction Improves Comprehension](vocabulary-instruction-improves-comprehension.md) — related
-- [Shared text reading benefits students with intellectual disability whether or not they need augmentative and alternative communication systems](shared-reading-effective-regardless-aac-status.md) — related
+- [Shared text reading effects for students with intellectual disability did not differ significantly between students who need augmentative and alternative communication and those who communicate verbally](shared-reading-effective-regardless-aac-status.md) — related

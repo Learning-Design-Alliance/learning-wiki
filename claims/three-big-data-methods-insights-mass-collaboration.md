@@ -56,3 +56,4 @@ The editorial reports that Holtz et al. describe three prototypical big data met
 - Artifacts and their interconnected structure operationalize collective knowledge processes in large-scale Wikipedia analysis — related
 - [Wikipedia history analysis shows external assimilation: a user added only the CSILE/Knowledge Forum link without further changes](wikipedia-cscl-external-assimilation-example.md) — a narrower finding that bears on this claim
 - [Reviewed CSCL systems are further characterized by interaction data type, derivation processes, and feedback type](cscl-systems-characterized-data-processes-feedback.md) — related
+- [Portal users can be classified into four types (new, light, medium, heavy) based on observed usage parameters](four-portal-user-types-new-light-medium-heavy.md) — related

@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 184 claims (118 show a difference, 49 mixed, 17 no difference) · 109 studies (40 associational, 29 causal, 13 review, 10 qualitative, 10 theoretical, 7 design), `q1`–`q4` · 27 of 109 report an effect size · 181 claims rest on one study
+> **Evidence** · 188 claims (122 show a difference, 49 mixed, 17 no difference) · 110 studies (41 associational, 29 causal, 13 review, 10 qualitative, 10 theoretical, 7 design), `q1`–`q4` · 27 of 110 report an effect size · 185 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -219,6 +219,10 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Frustration during the design process was related to unexpected events, with more unexpected events yielding greater frustration and worse perceived performance](../claims/frustration-related-to-unexpected-design-events.md) [+M] — instruction changes it
 - [NASA-TLX dimensions varied systematically by design phase: frustration and mental demand were highest in initial modules and mental demand low during manufacturing](../claims/nasa-tlx-dimensions-vary-by-design-phase.md) [+M] — instruction changes it
 - [Perceived enjoyment significantly positively influences both satisfaction and perceived impact on learning in CSCL](../claims/enjoyment-influences-satisfaction-and-impact-cscl.md) [+M] — learners who differ on it differ in outcomes
+- [Enjoyment fully mediates the relationship between extroversion and attitude toward the activity](../claims/enjoyment-full-mediation-extroversion-attitude.md) [+M] — learners who differ on it differ in outcomes
+- [Enjoyment inhibits stress during the oral presentation](../claims/enjoyment-inhibits-stress.md) [+M] — learners who differ on it differ in outcomes
+- [More extroverted students perceive greater enjoyment in the combined use of video recording and a wiki](../claims/extroversion-increases-enjoyment-wiki-video-activity.md) [+M] — instruction changes it
+- [In a cross-sectional survey, attitude statistically fully mediated the associations of perceived relative advantages and enjoyment with satisfaction](../claims/attitude-full-mediation-advantages-enjoyment-satisfaction.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

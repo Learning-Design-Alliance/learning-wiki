@@ -13,7 +13,7 @@ generated:
 # Mindset
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 62 claims (34 show a difference, 22 mixed, 6 no difference) · 31 studies (14 associational, 6 causal, 6 review, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 10 of 31 report an effect size · 60 claims rest on one study
+> **Evidence** · 63 claims (34 show a difference, 22 mixed, 7 no difference) · 32 studies (14 associational, 7 causal, 6 review, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 10 of 32 report an effect size · 61 claims rest on one study
 
 ## Description
 Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset holds that ability is set, a growth mindset that it can be developed. It is measured with short self-report scales. Research tests it as a predictor of achievement, as a moderator, and above all as an outcome of brief growth-mindset interventions. Large preregistered trials and meta-analyses find that the average effect of those interventions on achievement is small and concentrated in lower-achieving students in supportive settings, and that the correlation between mindset and achievement is weak.
@@ -93,6 +93,7 @@ Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset h
 - [Growth mindset is positively associated with PISA reading, science and math performance overall (Model B standardized βs .21, .20, .16)](../claims/growth-mindset-positive-association-pisa-scores.md) [+M] — learners who differ on it differ in outcomes
 - [Growth mindset is associated with better PISA performance across SES levels, but appears less beneficial at low SES and advantaged students still achieve better outcomes](../claims/mindset-benefit-weaker-at-low-ses.md) [~W] — learners who differ on it differ in outcomes
 - [The mediated interaction between SES and growth mindset is small but positive (about 0.006), indicating only minimal moderation of the SES effect](../claims/mediated-interaction-ses-mindset-minimal.md) [~W] — learners who differ on it differ in outcomes
+- [Prior fixed mindset was not an important predictor of intervention effectiveness despite the intervention reducing fixed mindset.](../claims/prior-mindset-not-a-key-moderator.md) [-M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do growth-mindset interventions raise achievement, and for which learners and in which settings?* [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](../claims/growth-mindset-improves-achievement.md) [+S]

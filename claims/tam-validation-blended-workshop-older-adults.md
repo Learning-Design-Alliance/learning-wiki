@@ -51,3 +51,4 @@ TAM-based validation test (five-point Likert scale) applied to the blended works
 - [Adult ESL learners report above-neutral perceptions of ASR as a writing tool on usefulness, ease of use, and intention to use](esl-learners-positive-perceptions-asr-writing.md) — related
 - [Students perceived HPL as positively as Scratch across TAM dimensions](hpl-student-perception-equal-scratch.md) — related
 - [Teachers perceived OUA as useful and easy to use, with positive cognitive evaluations suggesting low academic resistance](teachers-perceive-oua-useful-easy.md) — related
+- [Students report positive attitudes towards studying physics in the blended web-based environment](web-based-learning-positive-attitudes-toward-physics.md) — related

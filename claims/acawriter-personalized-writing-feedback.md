@@ -50,3 +50,4 @@ The review reports, citing Knight et al. (2020), that "A study by Knight et al. 
 - [AI chatbots support skills development in writing, problem-solving, and group discussion facilitation](chatbot-skills-development.md) — related
 - [AI in online learning offers personalization, predictive analytics, and potential reduction of instructor time on tasks](ai-online-learning-benefits-personalization-prediction-time.md) — a broader claim this one bears on
 - [AI-supported adaptive systems are reported to enhance adult learner engagement, motivation, and outcomes when aligned with learner goals and prior knowledge](ai-adaptive-systems-enhance-adult-engagement.md) — a broader claim this one bears on
+- [AI-led assistance in prior work tended to be more descriptive and lacked specific, actionable suggestions compared to peer feedback](ai-led-assistance-more-descriptive-than-peer-feedback.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-29
 sources:
   - id: sorkkila-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102298"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers' negative lesson-specific emotions decreased across the lessons of one school day, whereas their positive emotions did not change. [→ Sorkkila 2026](#sorkkila-2026)
@@ -37,9 +38,9 @@ Sorkkila, M., Malmberg, L.-E., Pöysä, S., Kiuru, N., Lerkkanen, M.-K., & Pakar
 
 `q2 · i?` · `associational · r2`
 
-Cross-classified multilevel change model (M1) of 61 teacher lesson-reports nested in 20 teachers, each reporting emotions at the end of 1–4 lessons on one school day. The article reports "teachers' negative emotions decreased during the day" with unstandardized B = 0.084; no effect size is printed.
+Cross-classified multilevel change model (M1) of 61 teacher lesson-reports nested in 20 teachers, each reporting emotions at the end of 1–4 lessons on one school day. The article reports "teachers' negative emotions decreased during the day" with unstandardized B = -0.084; no effect size is printed. Signs restored: the PDF's extracted text had lost its minus signs.
 
-> "Among teachers (see Fig. 4, M1), there was no change in their positive emotions during the day (B =  0.017, [ 0.063, 0.031]), but teachers' negative emotions decreased during the day (B = 0.084, [ 0.111,  0.056])."
+> "Among teachers (see Fig. 4, M1), there was no change in their positive emotions during the day (B = -0.017, [-0.063, 0.031]), but teachers' negative emotions decreased during the day (B =-0.084, [-0.111, -0.056])."
 
 ## Discussion
 

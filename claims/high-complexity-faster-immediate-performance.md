@@ -67,4 +67,4 @@ In the delayed post-test two days later, both groups solved the six-disk task on
 - [Task complexity strongly affects germane cognitive load in Round 1, with effects dissipating by post-test](complexity-germane-load-round-effects.md) — related
 - [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](worked-examples-with-practice-improve-transfer.md) — a broader claim this one bears on
 - [The teacher-conference problem met the sweet spot of complexity: 10th graders generated solution ideas containing the targeted errors without solving the problem canonically](pf-problem-sweet-spot-complexity-pilot-tests.md) — related
-- [Metacognition correlates with meta-awareness in the gradually increasing complexity group in Round 2, but not in the consistently high complexity group](metacognition-meta-awareness-correlation-by-condition.md) — related
+- [Metacognition correlates with meta-awareness in the gradually increasing complexity group in Round 2, but not significantly in the consistently high complexity group](metacognition-meta-awareness-correlation-by-condition.md) — related

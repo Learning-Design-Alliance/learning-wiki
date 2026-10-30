@@ -43,6 +43,7 @@ When a learner answers a quiz question incorrectly, the system generates "a targ
 - [Interactive Video Quizzing](interactive-video-quizzing.md)
 - [Question Answering](question-answering.md)
 - [Errors as Learning Opportunities](embrace_errors_as_learning_opportunities.md)
+- [Remedial strategies using remedial SEMs to correct misconceptions](remedial-sem-misconception-correction.md)
 
 ## Examples
 -

@@ -15,7 +15,7 @@ sources:
     title: "Van der Beek, J.P.J.; Van der Ven, S.H.G.; Van de Weijer-Bergsma, E.; Kroesbergen, E.H. (2025). How feedback affects emotions, performance and self-concept in mathematics. Learning and Instruction 99, 102169. https://doi.org/10.1016/j.learninstruc.2025.102169"
     author: Van der Beek, J.P.J.; Van der Ven, S.H.G.; Van de Weijer-Bergsma, E.; Kroesbergen, E.H.
     q: 3
-    i: 2
+    i: 1
     kind: causal
     rigour: 2
 ---
@@ -23,11 +23,11 @@ sources:
 # Negative normative feedback lowered math performance indirectly via reduced hope
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i2` Negative feedback had a small significant negative indirect effect on math performance via hope (β = -.11, p = .027); hope positively predicted performance (β = .20), while anxiety, anger and enjoyment did not predict performance. [→ Van der Beek 2025](#van-der-beek-2025)
+`q3 i1` Negative feedback had a small significant negative indirect effect on math performance via hope (β = -.11, p = .027); hope positively predicted performance (β = .20), while anxiety, anger and enjoyment did not predict performance. [→ Van der Beek 2025](#van-der-beek-2025)
 
 ## Evidence
 
@@ -35,11 +35,11 @@ sources:
 
 Van der Beek, J.P.J.; Van der Ven, S.H.G.; Van de Weijer-Bergsma, E.; Kroesbergen, E.H. (2025). How feedback affects emotions, performance and self-concept in mathematics. Learning and Instruction 99, 102169. https://doi.org/10.1016/j.learninstruc.2025.102169
 
-`q3 · i2` · `causal · r2`
+`q3 · i1 · small indirect effect (β = -.11), as the authors label it` · `causal · r2`
 
-Indirect-effect estimate from Model 1 of the randomized path analysis (n = 219): "a small negative indirect effect of negative feedback via hope on math performance"; hope itself positively predicted performance (β = .20, p = .011), while anxiety, anger and enjoyment did not.
+Indirect-effect estimate from Model 1 of the randomized path analysis (n = 219): "a small negative indirect effect of negative feedback via hope on math performance"; hope itself positively predicted performance (β = .20, p = .011), while anxiety, anger and enjoyment did not. Signs restored: the PDF's extracted text had lost its minus signs.
 
-> "Furthermore, the results showed a small negative indirect effect of negative feedback via hope on math performance (β = .11, SE = .05, p = .027)."
+> "Furthermore, the results showed a small negative indirect effect of negative feedback via hope on math performance (β =-.11, SE = .05, p = .027)."
 
 ## Discussion
 

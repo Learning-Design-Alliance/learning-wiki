@@ -52,3 +52,4 @@ Pre-registered moderation test in the national experiment, standardized β = −
 - [GPA treatment effects among lower-achieving students were larger in schools whose peer norms supported challenge-seeking](peer-norms-sustain-mindset-gpa-effects.md) — related
 - [Brief online growth-mindset interventions produce modest academic gains concentrated among students at risk of underperformance](online-growth-mindset-intervention-modest-effects.md) — related
 - [Growth-mindset intervention gains varied by school context, being greatest where peer norms favored seeking challenge and in lower-achieving schools](mindset-gains-vary-school-context.md) — a broader claim this one bears on
+- [Prior academic achievement is the most important predictor of growth mindset intervention effectiveness on GPA.](prior-achievement-predicts-mindset-intervention-effectiveness.md) — a broader claim this one bears on

@@ -9,7 +9,7 @@ generated:
   at: 2026-10-12
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-20
+source_checked: 2026-10-29
 recheck_by: 2029
 sources:
   - id: tongxi-liu-2026
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Of the five LLMs tested on 60 undergraduate essays scored against the IELTS Task 2 rubric, most systematically assigned lower scores than human raters, a consistent negative bias the article interprets as a calibration offset rather than random fluctuation. [→ Tongxi Liu 2026](#tongxi-liu-2026)

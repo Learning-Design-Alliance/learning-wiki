@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-10-29
 sources:
   - id: de-jonge-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2026.102422"
@@ -32,11 +33,11 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-29 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` MRT significantly moderated the effect of recording–expected angle alignment on task performance (β = 0.23), with higher MRT associated with greater benefit from alignment. [→ de Jonge 2026](#de-jonge-2026)
-`q3 i2` MRT had a significant main effect on cognitive load during the task (β =  0.20), with higher MRT scores associated with lower load. [→ de Jonge 2026 (2)](#de-jonge-2026-2)
+`q3 i2` MRT had a significant main effect on cognitive load during the task (β = -0.20), with higher MRT scores associated with lower load. [→ de Jonge 2026 (2)](#de-jonge-2026-2)
 
 ## Evidence
 
@@ -56,9 +57,9 @@ de Jonge, T. H. S., de Koning, B. B., & van Wermeskerken, M. (2026). It's all a 
 
 `q3 · i2` · `causal · r2`
 
-Exploratory model for cognitive load during the task: MRT main effect significant, "β =  0.20"; higher MRT scores were associated with less cognitive load during the task. MRT did not significantly moderate the recording–task angle alignment effect (p = .118).
+Exploratory model for cognitive load during the task: MRT main effect significant, "β = -0.20"; higher MRT scores were associated with less cognitive load during the task. MRT did not significantly moderate the recording–task angle alignment effect (p = .118). Signs restored: the PDF's extracted text had lost its minus signs.
 
-> "In the model for cognitive load during the task, MRT had a significant main effect (t(126) =  2.36, p = .020, SE = 0.04, β =  0.20). On average, individuals with higher MRT scores experienced less cognitive load during the task (a moderately small effect)."
+> "In the model for cognitive load during the task, MRT had a significant main effect (t(126) = -2.36, p = .020, SE = 0.04, β = -0.20). On average, individuals with higher MRT scores experienced less cognitive load during the task (a moderately small effect)."
 
 ## Discussion
 
