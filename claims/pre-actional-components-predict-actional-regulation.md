@@ -89,3 +89,4 @@ Longitudinal multilevel analysis (HLM) of weekly self-reports from 194 universit
 - [Creating educational Vlogs improved trainee teachers' motivational beliefs relative to written reflections](vlogs-improved-trainee-teacher-motivational-beliefs.md) — related
 - [Positive emotions are associated with higher academic performance while negative emotions are associated with poorer performance](positive-emotions-associated-with-higher-performance.md) — related
 - [Dual Empowerment positively predicts affective, motivational, and cognitive mediating processes](dual-empowerment-predicts-psychological-mediators.md) — related
+- [Positive motivational beliefs are associated with high-level learning strategies, consistent with Pintrich and García's self-regulated learning proposal](motivation-cognition-patterns-srl.md) — related

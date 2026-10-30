@@ -50,3 +50,4 @@ The paper reports, citing the Evans, Homme, and Glaser ruleg work, that the rule
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — a broader claim this one bears on
 - [Self-discovery through errorful exploration is basically incompatible with error minimization in instruction](self-discovery-incompatible-with-error-minimization.md) — related
 - [The article's title asserts that worked examples are more efficient for learning than high-assistance instructional software, but the article has been retracted due to a clerical error and no supporting content is present in this document](retracted-worked-examples-more-efficient-than-high-assistance-software.md) — related
+- [AR-introduced new rules could reduce the gap between players with different experience levels](ar-new-rules-reduce-experience-gap-between-players.md) — related

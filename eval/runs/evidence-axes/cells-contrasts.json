@@ -49718,5 +49718,37 @@
  "simulation\trealistic job preview\tGravity Heist control game": {
   "label": "realistic simulation vs control game",
   "treatment_is_a": true
+ },
+ "active-learning\tmore-interactive in-school learning\tmore-traditional in-school learning": {
+  "label": "more interactive learning vs more traditional learning",
+  "treatment_is_a": true
+ },
+ "scaffolding\tStoichTutor: highly scaffolded instruction using an unfamiliar factor-label strategy\tORCCA: low scaffolding with support for strategy freedom": {
+  "label": "high scaffolding vs low scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\thighly scaffolded StoichTutor\tlowly scaffolded ORCCA with strategy freedom": {
+  "label": "high scaffolding vs low scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\thighly scaffolded StoichTutor using an unfamiliar factor-label strategy\tlowly scaffolded ORCCA supporting strategy freedom": {
+  "label": "high scaffolding vs low scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\thighly scaffolded StoichTutor with fine-grained unit and substance steps\tlowly scaffolded ORCCA where unit and substance specification was optional": {
+  "label": "high scaffolding vs low scaffolding",
+  "treatment_is_a": true
+ },
+ "technology-tool\t10-week blended instruction with Getsmart website\ttraditional instruction with homework and text-based materials": {
+  "label": "blended website-supported instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\t10-week blended physics instruction using the teacher-developed Getsmart website\ttraditional classroom instruction with homework and text-based materials": {
+  "label": "blended website-supported instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\t10-week blended physics instruction with the Getsmart website\ttraditional instruction with homework and text-based materials": {
+  "label": "blended website-supported instruction vs traditional instruction",
+  "treatment_is_a": true
  }
 }

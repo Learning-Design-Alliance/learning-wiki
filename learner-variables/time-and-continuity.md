@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 142 claims (98 show a difference, 34 mixed, 10 no difference) · 124 studies (47 causal, 30 associational, 21 review, 12 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 26 of 124 report an effect size · 138 claims rest on one study
+> **Evidence** · 143 claims (99 show a difference, 34 mixed, 10 no difference) · 125 studies (47 causal, 31 associational, 21 review, 12 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 27 of 125 report an effect size · 139 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -199,6 +199,7 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [A continuous cycle of authentic experiences and feedback supports preservice teachers to build their digital practice](../claims/authentic-experience-feedback-cycle-digital-practice.md) [+M] — learners who differ on it differ in outcomes
 - [Lecture capture has an adverse impact on lecture attendance, the most widely documented drawback across 20 of 71 reviewed articles](../claims/lecture-capture-adverse-impact-attendance.md) [+M] — instruction changes it
 - [The variance of planning time shows no significant fixed effect on CPS performance but a significant task-dependent random effect correlated with task difficulty](../claims/variance-planning-time-task-dependent-cps.md) [~M] — learners who differ on it differ in outcomes
+- [Time spent on tasks, days to hand in, and words in forums were the variables most related to final marks.](../claims/time-task-days-handin-word-forum-related-to-marks.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

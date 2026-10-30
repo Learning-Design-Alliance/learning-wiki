@@ -204,3 +204,4 @@ The key constraint is specificity: telling learners they are "smart" or "good at
 - [The intervention improves focus-related mindsets, self-efficacy, and (in Study 1) emotion regulation](focus-coach-mindset-self-efficacy-emotion-regulation-gains.md) — a narrower finding that bears on this claim
 - [ICT-enabled learning may change beliefs and perceptions about girls' capacity and ICT's value](ict-changes-beliefs-perceptions-girls.md) — a narrower finding that bears on this claim
 - [Tagging skills and completing challenges engaged students in self-assessment and reflection on their skill development](assessmake21-tagging-challenges-engaged-self-assessment.md) — related
+- [Positive motivational beliefs are associated with high-level learning strategies, consistent with Pintrich and García's self-regulated learning proposal](motivation-cognition-patterns-srl.md) — related

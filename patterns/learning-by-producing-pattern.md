@@ -30,7 +30,7 @@ sources:
 # Learning by Producing (multimedia production as learning)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 22 claims (14 for, 8 mixed) · 33 studies (10 causal, 9 quant-synthesis, 5 design, 4 theoretical, 2 review, 2 qualitative, 1 associational), `q1`–`q4` · 10 of 33 report an effect size · 14 claims rest on one study
+> **Evidence** · 25 claims (16 for, 9 mixed) · 34 studies (10 causal, 9 quant-synthesis, 6 design, 4 theoretical, 2 review, 2 qualitative, 1 associational), `q1`–`q4` · 10 of 34 report an effect size · 17 claims rest on one study
 
 ## Description and scope
 
@@ -134,6 +134,8 @@ Do not rank these against one another: their comparators (traditional instructio
 - [Philanthropic Studies case: ePortfolio moved from a capstone-only final project to full curricular integration across four required courses over a decade](../claims/philanthropic-studies-epportfolio-curricular-integration.md) [+W] — attached 2026-10-08 from IUPUI's HIP Taxonomy for ePortfolio: A Tool for Development, Implementation, and Scaling. , which proposed "IUPUI ePortfolio HIP taxonomy: four attributes of high-impact ePortfolio practice at three ascending levels of impact".
 - [Public capstone ePortfolio showcases gave students an authentic audience and renewed energy and focus for integrative work](../claims/public-capstone-epportfolio-showcase-audience-effect.md) [+W] — attached 2026-10-08 from IUPUI's HIP Taxonomy for ePortfolio: A Tool for Development, Implementation, and Scaling. , which proposed "IUPUI ePortfolio HIP taxonomy: four attributes of high-impact ePortfolio practice at three ascending levels of impact".
 - [University students who created digital stories with generative-AI help rated their own collaborative problem-solving skills higher than traditionally taught students](../claims/gai-assisted-dst-improves-cps-skills.md) [~M] — attached 2026-10-15 from Wei et al. (2025), which proposed "GAI-assisted DST creation pattern integrating problem-based learning across four DST stages and six projects".
+- [Grade 10 students who constructed game adventures with ScriptEase scored in the mid-range (14-17) of the Video Game Cognitive Variability Scale, indicating the activity stimulates higher order thinking skills.](../claims/game-construction-higher-order-thinking-midrange.md) [+W] — attached 2026-10-30 from Carbonaro et al. (2008), which proposed "Computer game construction as a gender-neutral attractor to Computing Science.".
+- [Students enjoyed interactive game adventure writing significantly more than traditional story writing, with no significant gender difference.](../claims/enjoyment-interactive-over-traditional.md) [~W] — attached 2026-10-30 from Carbonaro et al. (2008), which proposed "Computer game construction as a gender-neutral attractor to Computing Science.".
 
 ## Illustrative design instance and observation record
 
@@ -154,6 +156,7 @@ This pattern is scoped to units in which a team or individual makes a media prod
 - [Blinded panel ratings of design presentations did not differ significantly between GenARch and Control teams](../claims/genarch-panel-presentation-no-significant-difference.md) [~W]
 - [Girls produced 34 comprehensive PSAs and dozens of mini-Scratch projects, providing project-based evidence of computing knowledge gain](../claims/e5c-scratch-project-artifacts.md) [+W]
 - [Learning by creation shifts learners from consumers to creators of learning content and increases their awareness of taking learning ownership](../claims/learning-by-creation-increases-ownership-awareness.md) [+W]
+- [63.3% of students would like to write more interactive stories in school versus 34.0% for traditional stories, a significant difference.](../claims/preference-interactive-stories.md) [+W]
 
 ## Related Patterns
 

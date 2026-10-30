@@ -13,7 +13,7 @@ generated:
 # Digital Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 69 claims (48 show a difference, 11 mixed, 10 no difference) · 55 studies (16 associational, 11 causal, 9 qualitative, 8 review, 4 quant-synthesis, 4 theoretical, 3 design), `q1`–`q4` · 10 of 55 report an effect size · 67 claims rest on one study
+> **Evidence** · 71 claims (50 show a difference, 11 mixed, 10 no difference) · 56 studies (16 associational, 11 causal, 9 qualitative, 8 review, 4 quant-synthesis, 4 design, 4 theoretical), `q1`–`q4` · 10 of 56 report an effect size · 69 claims rest on one study
 
 ## Description
 Whether a learner can *operate* the interface — distinct from [access](access.md), which is whether they can load it at all. It covers navigation, file handling, knowing what is clickable, and the confidence to explore without fear of breaking something. Every course here is delivered digitally, so this is never out of scope, and it is the dimension most often assumed away: a designer fluent in the interface cannot see it.
@@ -103,6 +103,8 @@ Whether a learner can *operate* the interface — distinct from [access](access.
 - [Teachers and students reported that the digital self-assessment tool raised students' awareness of 21st-century skills and helped them identify the skills during making](../claims/assessmake21-raised-skill-awareness.md) [+W] — instruction changes it
 - [Gender, prior digital experience, training and related factors influence digital competence](../claims/digital-competence-influencing-factors.md) [+W] — learners who differ on it differ in outcomes
 - [High-scoring Chilean 10th graders focused and concentrated on school assignments online and adopted cognitive and organizational strategies when using the Internet](../claims/high-scorers-concentration-and-strategies-digital-skills.md) [+W] — learners who differ on it differ in outcomes
+- [24% of students added conditions and 8% added situations, demonstrating exposure to Booleans, selection control structures, and event handling.](../claims/condition-and-situation-adaptations.md) [+M] — instruction changes it
+- [96% of students learned to select a computational artifact from a library and customize it by setting options.](../claims/scriptease-library-selection-and-options.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Do learners who differ in digital literacy differ in learning, engagement and later outcomes?* [Digital skills gaps span demographic groups and shape e-learning, job performance, and earnings](../claims/digital-literacy-gaps-span-demographics.md) [+M]

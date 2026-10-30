@@ -53,6 +53,7 @@ The authors recommend that "curriculum developers could create subject-specific 
 - [Embed AI literacy across disciplines by identifying intersections with existing content and using case studies, interdisciplinary modules, and collaborative projects](embed-ai-literacy-across-disciplines.md)
 - [Embed AIL across disciplines by adding modules to existing Digital Literacy courses and offering interdisciplinary AI ethics and legal seminars](embed-ail-modules-and-interdisciplinary-seminars.md)
 - [Infuse social psychological concepts into existing pre-service courses and professional development rather than new standalone courses](infuse-social-psychology-teacher-education.md)
+- [Evolve existing disciplinary modules rather than replacing them with new courses](evolve-existing-modules-strategy.md)
 
 ## Examples
 -

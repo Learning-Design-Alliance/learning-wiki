@@ -48,3 +48,4 @@ Review synthesis based on all 72 studies (Table 3 contingency table of domain by
 - [In Quiet Eye Training literature, the EMME video is typically one component of a larger training package rather than the main manipulation](qet-emme-part-of-larger-training.md) — related
 - [EMME study designs vary widely: most experiments added information, used dynamic scan-path visualizations, and over half did not report how eye movement data were processed](emme-design-heterogeneity.md) — related
 - [Most EMME experiments that measured immediate learning scores reported at least one positive effect of gaze visualization on immediate learning](emme-positive-immediate-learning-effects.md) — related
+- [Different AR approaches might be used for learning and providing feedback in sports training](ar-approaches-support-sport-learning-and-feedback.md) — related

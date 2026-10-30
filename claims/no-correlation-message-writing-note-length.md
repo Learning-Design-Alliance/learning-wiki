@@ -49,3 +49,4 @@ Correlational analysis of logs from all 222 students in nine dual-mode courses, 
 - [Students who write more synchronous messages also write more asynchronous notes and read more notes (r = .60 and r = .36)](message-writing-correlates-with-note-writing-and-reading.md) — related
 - [Frequent private-message writers show a lower note scan rate, scanning fewer opened notes (r = −.18)](message-writers-scan-notes-less.md) — related
 - [Synchronous private messages are shorter, easier to read, and use fewer academic words than asynchronous notes in dual-mode online courses](sync-messages-shorter-easier-less-academic-than-notes.md) — related
+- [Students write shorter notes as online class size increases](larger-classes-shorter-notes.md) — related

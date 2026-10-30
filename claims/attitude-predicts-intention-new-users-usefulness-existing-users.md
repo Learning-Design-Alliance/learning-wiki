@@ -48,3 +48,4 @@ Path analyses per user type in AMOS 6.0 tested the C-TAM-TPB model. The abstract
 - [User types differ significantly in acceptance of the portal, with perceived behavioral control more important for heavy users and subjective norms and ease of use more important for light and medium users](user-types-differ-in-acceptance-determinants.md) — reports the opposite
 - [Perceived usefulness, attitude, and behavioral intention form a significant TAM pathway predicting GenAI adoption among law students](tam-pathway-genai-adoption-law-students.md) — related
 - [Perceived usefulness and perceived ease of use of GenAI tools significantly predict teachers' attitudes and behavioural intention](usefulness-ease-predict-attitude-intention-genai.md) — related
+- [The extended TAM model explains 42.3% of the variance in intention to use mobile library applications](extended-tam-explains-42-percent-variance-mla-intention.md) — related

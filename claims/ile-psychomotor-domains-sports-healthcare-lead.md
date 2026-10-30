@@ -47,3 +47,4 @@ Frequency analysis of the review's 39-article corpus, reported in the Results se
 ## Related Claims
 - [ITS for psychomotor skills cluster in medicine, with sport second and other domains marginal](its-domain-distribution-medicine.md) — related
 - [Existing ITS for psychomotor skills predominantly target fine, closed, internally paced, discrete, individual, and simple skills](its-psychomotor-skills-fine-closed-individual.md) — related
+- [Different AR approaches might be used for learning and providing feedback in sports training](ar-approaches-support-sport-learning-and-feedback.md) — related

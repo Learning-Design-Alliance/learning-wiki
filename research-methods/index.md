@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**829 entries** · 0 stable · 829 in review · 0 drafts
+**830 entries** · 0 stable · 830 in review · 0 drafts
 
 ---
 
@@ -321,6 +321,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Four-level response safety classification for evaluating educational LLM safety](four-level-response-safety-classification-for-evaluating-educational-llm-safety.md) - EduZone grades every model response into one of four ordered safety levels rather than a binary safe/unsafe decision.
 * [Four-level rubric for teachers' reflective prompts adapted from Van Manen's reflective levels](four-level-rubric-for-teachers-reflective-prompts-adapted-from-van-manens-reflective-level.md) - The study adapts Van Manen's (1977) cumulative levels of reflection into a four-level rubric for classifying teachers' reflective prompts in learning modules.
 * [Four-metric behavioral taxonomy for distinguishing authentic iterative coding from automated workflows](four-metric-behavioral-taxonomy-for-distinguishing-authentic-iterative-coding-from-automat.md) - The article defines four analytical metrics derived from explicit API event logs to \"differentiate authentic learning behaviors from automated or externally synthesized workflows\": (a) a class rhythm heatmap of temporal interaction density, (b) cumulative platform engagement showing staircase-like g
+* [Four-paradigm analysis of pedagogical frameworks](four-paradigm-analysis-of-pedagogical-frameworks.md) - The article examines its framework in terms of the primary currents in educational psychology: behaviorism, cognitivism, constructivism and social constructivism.
 * [Four-process framework for collaborative problem solving in ill-structured STEM tasks (P1–P4)](four-process-framework-for-collaborative-problem-solving-in-ill-structured-stem-tasks-p1p4.md) - The article operationalizes Ge and Land's four problem-solving processes for ill-structured engineering tasks: P1 (exploring and representing the problem, including joint FBD construction), P2 (planning how to solve, considering multiple approaches), P3 (attempting to solve with justifications), and
 * [Four-profile classification of creative intention versus effective solution in repeated tasks](four-profile-classification-of-creative-intention-versus-effective-solution-in-repeated-ta.md) - The article classifies participants along two axes — creative versus conservative intention, and creative versus conservative effective solution — yielding four profiles: the creatives, the conservatives, the non-intentional creatives and the non-intentional conservatives.
 * [Four-requirement framework for education-facing LLMs](four-requirement-framework-for-education-facing-llms.md) - The article organizes evaluation around four requirements an education-facing model should jointly satisfy, drawn from the learning-sciences literature (Shulman's pedagogical content knowledge, Vygotsky's zone of proximal development, Bloom's tutoring ideal, and AI-in-education ethics frameworks).

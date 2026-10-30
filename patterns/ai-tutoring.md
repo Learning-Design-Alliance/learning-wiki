@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 411 claims (184 for, 172 mixed, 55 against) · 281 studies (104 causal, 60 review, 38 design, 28 theoretical, 19 quant-synthesis, 17 associational, 15 qualitative), `q1`–`q4` · 57 of 281 report an effect size · 395 claims rest on one study
+> **Evidence** · 413 claims (185 for, 173 mixed, 55 against) · 282 studies (105 causal, 60 review, 38 design, 28 theoretical, 19 quant-synthesis, 17 associational, 15 qualitative), `q1`–`q4` · 58 of 282 report an effect size · 397 claims rest on one study
 
 ## Description and scope
 
@@ -392,6 +392,8 @@ This pattern is scoped to the tutor's moves within tasks and the handoff to peop
 - [Age coherence between pedagogical agent and learning material fosters learning (study 2)](../claims/age-coherence-agent-material-fosters-learning.md) [~W]
 - [AI-led assistance in prior work tended to be more descriptive and lacked specific, actionable suggestions compared to peer feedback](../claims/ai-led-assistance-more-descriptive-than-peer-feedback.md) [-W]
 - [Prior studies summarised in one article report that students rate instructor feedback above AI-generated feedback, and rate AI feedback lower once they know its origin](../claims/students-prefer-human-feedback-over-ai.md) [-W]
+- [Highly scaffolded tutoring with an unfamiliar strategy yields larger conceptual learning gains than lowly scaffolded tutoring with strategy freedom](../claims/high-scaffolding-unfamiliar-strategy-conceptual-gains.md) [+W]
+- [Procedural learning gains do not significantly differ between the highly and lowly scaffolded tutoring systems](../claims/procedural-gains-no-difference-between-scaffolding-levels.md) [~W]
 
 ## Examples
 - [ChatGPT as a virtual laboratory assistant in a sociotechnical system](../designs/sts-theory-chatgpt-virtual-laboratory-assistant.md) — ChatGPT answers lab questions beside human TAs, not in their place

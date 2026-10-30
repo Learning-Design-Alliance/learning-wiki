@@ -50,3 +50,4 @@ SEM path analysis in the same 639-respondent survey shows compatibility signific
 - [Service quality positively influences perceived usefulness but not perceived ease of use of m-learning apps outside the classroom](service-quality-predicts-pu-not-peou.md) — related
 - [Perceived usefulness and perceived ease of use both significantly predict behavioral intention to use m-learning apps outside the classroom](pu-peou-predict-behavioral-intention.md) — related
 - [Perceived usefulness partially mediates the effect of perceived ease of use on behavioral intention to use m-learning apps](pu-partially-mediates-peou-bi.md) — related
+- [Habit has a positive significant effect on perceived usefulness and perceived ease of use of mobile library applications](habit-positive-effect-pu-peou-mla.md) — related

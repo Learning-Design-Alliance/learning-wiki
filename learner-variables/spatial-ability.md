@@ -13,7 +13,7 @@ generated:
 # Spatial Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 72 claims (51 show a difference, 14 mixed, 7 no difference) · 42 studies (17 associational, 13 causal, 7 review, 2 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 11 of 42 report an effect size · 71 claims rest on one study
+> **Evidence** · 74 claims (53 show a difference, 14 mixed, 7 no difference) · 43 studies (18 associational, 13 causal, 7 review, 2 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 12 of 43 report an effect size · 73 claims rest on one study
 
 ## Description
 Spatial ability covers mental rotation, visualising objects from other viewpoints, holding visual-spatial information in memory and reasoning about the relations among shapes. It is measured with timed tasks (mental rotation, paper folding, embedded figures). It correlates moderately with mathematics and science achievement and is strongly associated with entry into and success in STEM fields, and training studies show it can be improved. It overlaps with [general cognitive ability](general-cognitive-ability.md) and with visual-spatial [working memory](working-memory.md).
@@ -108,6 +108,8 @@ Spatial ability covers mental rotation, visualising objects from other viewpoint
 - [A 6-week LSAT Logic Games course produced greater improvement on a composite of four visuospatial reasoning assessments than a Reading Comprehension course](../claims/lsat-logic-games-transfer-composite-reasoning.md) [+M] — instruction changes it
 - [Spatial skill-mathematics associations may be particularly strong for lower-SES children, suggesting spatial instruction could promote equity](../claims/spatial-instruction-equity-lower-ses.md) [~W] — learners who differ on it differ in outcomes
 - [High verbal comprehension, general reasoning, and spatial orientation characterize superior film learners](../claims/mental-abilities-superior-film-learning.md) [+M] — learners who differ on it differ in outcomes
+- [Computational thinking performance in primary school children is positively correlated with non-verbal visuospatial reasoning](../claims/ct-visuospatial-correlation-primary-school.md) [+M] — learners who differ on it differ in outcomes
+- [Verbal reasoning, problem completion, and visuospatial reasoning significantly predict CT performance, with the regression model explaining about 24% of variance](../claims/ct-regression-24-percent-variance.md) [+W] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

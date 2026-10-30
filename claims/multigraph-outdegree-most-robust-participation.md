@@ -53,3 +53,4 @@ Observational SNA analysis across the 12 PBL courses comparing multigraph, weigh
 - [Multigraph indegree centrality is consistently and positively correlated with student performance across 12 PBL courses, with stronger correlations than other configurations in eight courses](multigraph-indegree-consistent-performance-correlation.md)
 - [Courses with a low number of forum interactions show inconsistent participation-dimension results, while eigenvector centrality remains robust there.](low-interaction-courses-inconsistent-participation-measures.md)
 - [Post size is not a reliable tie weight for centrality measures; receiving interactions better indicates the value of a contribution.](post-size-unreliable-tie-weight.md) — related
+- [Educational Platform Use is the only ICT use significantly correlated with academic performance (negatively)](epu-only-ict-use-correlated-with-performance.md) — related

@@ -49,3 +49,6 @@ SEM hypothesis testing (Table 5) shows SQ→PU supported (β = 0.26, p < 0.001, 
 - [Perceived compatibility of an m-learning app positively influences both perceived usefulness and perceived ease of use in out-of-classroom settings](compatibility-predicts-pu-peou-out-of-classroom.md) — related
 - [Perceived mobility of an m-learning app positively influences both perceived usefulness and perceived ease of use in out-of-classroom settings](mobility-predicts-pu-peou-out-of-classroom.md) — related
 - [Perceived usefulness and perceived ease of use both significantly predict behavioral intention to use m-learning apps outside the classroom](pu-peou-predict-behavioral-intention.md) — related
+- [Habit has a positive significant effect on perceived usefulness and perceived ease of use of mobile library applications](habit-positive-effect-pu-peou-mla.md) — related
+- [Perceived usefulness and perceived ease of use are direct significant predictors of intention to use mobile library applications](pu-peou-predict-intention-mobile-library-apps.md) — related
+- [System quality has a positive significant effect on perceived usefulness and perceived ease of use of mobile library applications](system-quality-positive-effect-pu-peou-mla.md) — related

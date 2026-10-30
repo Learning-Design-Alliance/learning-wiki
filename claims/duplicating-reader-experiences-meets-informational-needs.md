@@ -51,3 +51,4 @@ The authors' stated interpretation of the study's results, presented in the abst
 - [Skilled EFL writers possess audience awareness, keeping readers in mind to judge whether their writing is understandable and coherent.](skilled-writers-audience-awareness.md) — related
 - [Authentic Audiences Improve Student Work](authentic-audiences-improve-student-work.md) — related
 - [Successful writing requires that the writer first become a sufficiently skillful reader to estimate the effect of the text on a prospective audience](skilled-reader-estimate-audience-effect.md) — related
+- [AR could add information to improve the audience experience in sport](ar-additional-information-improves-audience-experience.md) — related

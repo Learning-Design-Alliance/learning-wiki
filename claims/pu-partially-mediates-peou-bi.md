@@ -50,3 +50,5 @@ Mediation analysis within the SEM decomposed the total PEOU→BI effect (0.701) 
 - [Perceived mobility of an m-learning app positively influences both perceived usefulness and perceived ease of use in out-of-classroom settings](mobility-predicts-pu-peou-out-of-classroom.md) — related
 - [Perceived usefulness and perceived ease of use both significantly predict behavioral intention to use m-learning apps outside the classroom](pu-peou-predict-behavioral-intention.md) — related
 - [Teachers' technology acceptance follows the TAM: perceived usefulness, perceived ease of use, and attitude toward technology predict technology integration, moderated by organizational, technological, and individual factors](tam-predicts-teacher-technology-integration.md) — a broader claim this one bears on
+- [Perceived ease of use has a positive significant effect on perceived usefulness of mobile library applications](peou-positive-effect-pu-mla.md) — related
+- [Perceived usefulness and perceived ease of use are direct significant predictors of intention to use mobile library applications](pu-peou-predict-intention-mobile-library-apps.md) — related

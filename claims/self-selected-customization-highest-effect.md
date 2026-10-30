@@ -50,3 +50,4 @@ Subgroup analysis of the scaffolding customization method moderator (performance
 - [System-controlled adaptive instruction does not necessarily yield higher transfer than nonadaptive static approaches](system-control-not-superior-transfer.md) — related
 - [Fading support promotes the transfer of responsibility from instructor to learner.](fading-support-promotes-transfer-of-responsibility.md) — related
 - [Adaptive fading with periodic reinforcement yields higher independence than fixed-high or linear-decay scaffolding in simulation](adaptive-fading-beats-fixed-and-linear-scaffolding.md) — related
+- [96% of students learned to select a computational artifact from a library and customize it by setting options.](scriptease-library-selection-and-options.md) — related

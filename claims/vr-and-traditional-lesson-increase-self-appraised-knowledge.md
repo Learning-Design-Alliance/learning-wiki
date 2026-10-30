@@ -70,3 +70,4 @@ Same within-subject t-test design applied to the 64-student traditional-lesson c
 - [Test condition did not affect pre-post learning-outcome differences, but school type was a significant factor in the multivariate model](school-type-significant-condition-not.md)
 - [The VR application did not increase students' interest in biodiversity, and only the academic-track control group showed a significant interest increase](vr-did-not-increase-interest.md)
 - [Knowledge-test scores correlated significantly with the self-assessed knowledge item at both pretest and posttest](knowledge-test-correlates-with-self-assessment.md) — related
+- [Attitude toward science and self-belief show no significant change in either condition](no-change-attitude-self-belief.md) — related

@@ -50,3 +50,4 @@ Standardized calculation test (HRT 1–4) administered to the 45 children with C
 - [Number line estimation error increases more strongly for children with cochlear implants when the range extends from 0–100 to 0–1000](ci-number-line-place-value-range-interaction.md)
 - [In children with cochlear implants, hearing age correlates with fewer non-table multiplication errors and faster borrow subtraction, unlike in hearing peers](ci-hearing-age-correlates-arithmetic-error-patterns.md) — related
 - [The subtraction borrowing effect is more pronounced in children with cochlear implants than in hearing peers](ci-borrow-subtraction-specific-difficulty.md) — related
+- [Computational thinking in primary school children correlates with complex arithmetic (problem completion) and, more weakly, with basic arithmetic operations but not with writing speed](ct-numerical-correlation-primary-school.md) — related

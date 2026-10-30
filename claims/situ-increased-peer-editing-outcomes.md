@@ -69,3 +69,4 @@ Same outcome analysis: words deleted from peers' paragraphs were "five times gre
 - [Editing by readiness level: word additions did not differ by group, but deletion patterns differed, with SITU users refraining from deleting words from paragraphs marked ready](situ-editing-by-readiness-level-patterns.md) — related
 - [SITU use more than halved off-document web surfing during the OCW task](situ-reduced-off-document-behavior.md) — related
 - [SITU use reduced time to first major peer action by more than 50%](situ-reduced-time-to-first-major-peer-action.md) — related
+- [94% of students used pattern adaptations beyond setting options, with 80% deleting situations, 84% replacing actions/definitions, and 50% adding actions/definitions.](pattern-adaptation-skill-percentages.md) — related

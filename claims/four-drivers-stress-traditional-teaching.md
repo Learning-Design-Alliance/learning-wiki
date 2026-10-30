@@ -66,3 +66,4 @@ The article's central economic and educational argument from the overview sectio
 ## Related Claims
 - [AI technologies in education enhance teaching and learning through personalization and data analytics while reshaping administrative functions and decision-making](ai-enhances-teaching-administration-education.md) — related
 - [One year into the pandemic, faculty clustered into four new profiles (Struggling, Self-reliant, Complying, Thriving) that differed in technology-engagement practices measured with the ICAP scale](four-faculty-profiles-stasis-phase-online-teaching.md) — related
+- [Changing student profiles, business expectations, and ICT capabilities necessitate changing teaching practices in higher education](changing-profiles-ict-necessitate-teaching-change.md) — possibly the same claim (merge candidate)

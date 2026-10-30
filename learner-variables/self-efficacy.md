@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 175 claims (129 show a difference, 26 mixed, 20 no difference) · 141 studies (56 associational, 28 causal, 21 review, 14 qualitative, 9 design, 7 theoretical, 6 quant-synthesis), `q1`–`q4` · 31 of 141 report an effect size · 171 claims rest on one study
+> **Evidence** · 176 claims (130 show a difference, 26 mixed, 20 no difference) · 142 studies (57 associational, 28 causal, 21 review, 14 qualitative, 9 design, 7 theoretical, 6 quant-synthesis), `q1`–`q4` · 31 of 142 report an effect size · 172 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -206,6 +206,7 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Teachers' self-innovativeness significantly affects DL self-efficacy and DL teaching practices both directly and indirectly via accountability and self-efficacy](../claims/self-innovativeness-drives-dl-efficacy-and-practices.md) [+M] — learners who differ on it differ in outcomes
 - [Student self-efficacy moderates the relationship between lecturer charismatic leadership and behavioral engagement, with stronger effects for lower self-efficacy students](../claims/self-efficacy-moderates-charismatic-behavioral-engagement.md) [+M] — an instructional effect differs with it
 - [Student self-efficacy moderates the relationship between lecturer technology use and behavioral engagement, with stronger effects for lower self-efficacy students](../claims/self-efficacy-moderates-technology-behavioral-engagement.md) [+M] — an instructional effect differs with it
+- [Positive motivational beliefs are associated with high-level learning strategies, consistent with Pintrich and García's self-regulated learning proposal](../claims/motivation-cognition-patterns-srl.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

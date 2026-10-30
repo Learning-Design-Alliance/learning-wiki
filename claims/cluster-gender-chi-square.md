@@ -51,3 +51,4 @@ Chi-square analysis of cluster membership against the two demographic variables 
 - [Gender is unevenly distributed across participation profiles: boys are overrepresented among disconnected and girls among diligent students](gender-distribution-participation-profiles.md) — related
 - [Teachers' SRL competence profiles do not differ by gender, age, or teaching experience](srl-profiles-no-demographic-differences.md) — reports the opposite
 - [The Devalued/Ambivalent profile is significantly overrepresented in academically selective magnet schools, and Resistors are underrepresented there](devalued-ambivalent-profile-overrepresented-in-magnet-schools.md) — related
+- [The five clustering variables differed significantly across the four clusters, with large effect sizes for all five.](five-variables-differentiate-four-clusters.md) — related

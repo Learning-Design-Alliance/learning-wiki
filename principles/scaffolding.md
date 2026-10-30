@@ -27,7 +27,7 @@ sources:
 # Scaffolding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 84 claims (23 for, 51 mixed, 10 against) · 61 studies (29 causal, 11 review, 6 quant-synthesis, 6 design, 5 theoretical, 2 associational, 2 qualitative), `q1`–`q4` · 18 of 61 report an effect size · 77 claims rest on one study
+> **Evidence** · 86 claims (24 for, 52 mixed, 10 against) · 62 studies (30 causal, 11 review, 6 quant-synthesis, 6 design, 5 theoretical, 2 associational, 2 qualitative), `q1`–`q4` · 19 of 62 report an effect size · 79 claims rest on one study
 
 ## Conditional relationship
 
@@ -167,6 +167,8 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 - [Lower-experience students used GPTs as conceptual tutors while technically stronger students used them as professional collaborators, consistent with adaptive scaffolding](../claims/gpt-differentiated-use-by-experience.md) [~W]
 - [Presenting supportive information during learning task clusters tended to yield higher quality knowledge construction than presenting it before the clusters](../claims/information-during-timing-tends-better-knowledge-construction.md) [~W]
 - [Teachers and students expect PAs to scaffold self-regulated learning by providing hints and questions rather than directly giving solutions](../claims/pa-scaffolding-hints-not-solutions.md) [~W]
+- [Highly scaffolded tutoring with an unfamiliar strategy yields larger conceptual learning gains than lowly scaffolded tutoring with strategy freedom](../claims/high-scaffolding-unfamiliar-strategy-conceptual-gains.md) [+W]
+- [Procedural learning gains do not significantly differ between the highly and lowly scaffolded tutoring systems](../claims/procedural-gains-no-difference-between-scaffolding-levels.md) [~W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md)

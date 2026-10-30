@@ -14,7 +14,7 @@ generated:
 # Problem Solving
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 19 claims (9 for, 8 mixed, 2 against) · 28 studies (9 causal, 6 review, 5 theoretical, 3 design, 2 quant-synthesis, 2 qualitative, 1 associational), `q1`–`q4` · 6 of 28 report an effect size · 15 claims rest on one study
+> **Evidence** · 20 claims (9 for, 9 mixed, 2 against) · 29 studies (10 causal, 6 review, 5 theoretical, 3 design, 2 quant-synthesis, 2 qualitative, 1 associational), `q1`–`q4` · 7 of 29 report an effect size · 16 claims rest on one study
 
 ## Description
 Problem solving is the element in which learners identify, analyze, and respond to a challenge by generating and evaluating possible solutions. It is useful when the instructional goal is not only recall, but reasoned action in the face of constraints.
@@ -67,6 +67,7 @@ Problem solving is the element in which learners identify, analyze, and respond 
 - [MicroDYN is a stronger predictor of the in-game problem solving estimates than Raven's, with the rule-application facet more relevant than rule acquisition](../claims/microdyn-stronger-predictor-than-ravens.md) [~W]
 - [Successful and unsuccessful complex problem solvers differ in transition frequencies between questions and decisions](../claims/transition-frequencies-differ-successful-solvers.md) [~W]
 - [Providing subgoals did not help on the Missionaries and Cannibals problem but facilitated performance on an extended 5-Missionaries and 5-Cannibals variant](../claims/subgoals-facilitate-performance-larger-problem-space.md) [~W]
+- [Plugged-in Scratch learning yields higher algorithmic problem-solving scores than unplugged learning, especially on complex exercises](../claims/plugged-in-better-algorithmic-problem-solving.md) [~W]
 
 ## The evidence by question
 - *How much guidance do novices need inside a problem-centred design?* [Minimal guidance is less effective for novices than explicit instruction](../claims/minimal-guidance-less-effective-for-novices.md) [+S]

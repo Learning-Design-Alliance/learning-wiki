@@ -62,3 +62,4 @@ The review reports, citing Janebi and Haghighatpasand (2019), that an adventure 
 - [Practice defined as meaningful language use plus effortful practice of difficult features is beneficial and even essential for second language acquisition](meaningful-effortful-practice-beneficial-essential-l2.md) — related
 - [Scaffolding in a handheld sensor-based vocabulary game significantly improved low-achieving EFL students' motivation and performance](scaffolding-sensor-vocabulary-game-improves-low-achievers.md) — related
 - [A digital board game for genuine communication improved EFL students' learning performance](digital-board-game-efl-performance.md) — related
+- [Grade 10 students who constructed game adventures with ScriptEase scored in the mid-range (14-17) of the Video Game Cognitive Variability Scale, indicating the activity stimulates higher order thinking skills.](game-construction-higher-order-thinking-midrange.md) — related

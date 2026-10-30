@@ -48,3 +48,4 @@ K-means clustering (k=4, chosen by elbow method and silhouette analysis) of norm
 - [High-frequency LLM users show higher minimum course outcomes and reduced score variability, though interaction level is not a dominant outcome predictor](high-usage-lower-variance-higher-minimum.md) — related
 - [The six clusters differ substantially in academic performance: Final Grade ANOVA η² = 0.770, with C0 exceeding C1 by 40.17 exam-score points](cluster-performance-anova-tukey.md) — related
 - [In the first deployment, exam scores on the induction question were visibly lower than in previous semesters taught without the tool](first-deployment-exam-scores-lower.md) — related
+- [The five clustering variables differed significantly across the four clusters, with large effect sizes for all five.](five-variables-differentiate-four-clusters.md) — related

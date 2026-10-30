@@ -76,3 +76,4 @@ Chi-square test of independence examining gender distribution across the three c
 - [Female gender and Irish ethnicity predict membership of less positively engaged momentary profiles relative to the engaged profile](gender-ethnicity-predict-engagement-profile-membership.md) — related
 - [The Devalued/Ambivalent profile is significantly overrepresented in academically selective magnet schools, and Resistors are underrepresented there](devalued-ambivalent-profile-overrepresented-in-magnet-schools.md) — related
 - [Response rates to a learning analytics consent email differ by gender and ethnicity, with Black students underrepresented and White students overrepresented among respondents](la-consent-response-gap-gender-ethnicity.md) — related
+- [The five clustering variables differed significantly across the four clusters, with large effect sizes for all five.](five-variables-differentiate-four-clusters.md) — related

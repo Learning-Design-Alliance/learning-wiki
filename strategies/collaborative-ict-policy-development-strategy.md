@@ -51,6 +51,7 @@ Based on the finding that only teachers' perceptions of policy matter for classr
 ## Related Strategies
 
 - [Use the HeDiCom framework as a common reference and blueprint for ICT policy planning, with indicators to measure teachers' competencies](hedicom-as-policy-blueprint-strategy.md)
+- [Use the four-pattern ICT-use taxonomy to design ICT training programs aligned with students' actual technology use](ict-training-aligned-with-use-patterns.md)
 
 ## Examples
 -

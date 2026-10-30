@@ -13,7 +13,7 @@ generated:
 # Self Efficacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 93 claims (54 for, 36 mixed, 3 against) · 79 studies (36 associational, 18 causal, 15 review, 5 quant-synthesis, 4 design, 1 qualitative), `q1`–`q4` · 24 of 79 report an effect size · 88 claims rest on one study
+> **Evidence** · 95 claims (55 for, 36 mixed, 4 against) · 81 studies (36 associational, 20 causal, 15 review, 5 quant-synthesis, 4 design, 1 qualitative), `q1`–`q4` · 24 of 81 report an effect size · 90 claims rest on one study
 
 ## Description
 Self efficacy is a learner's belief in their capability to succeed at a specific task or domain, not a general sense of self-worth. It functions as a proximal driver of learning: learners with higher efficacy set more ambitious goals, persist longer through difficulty, and recover faster from failure [Bandura, 1997]. Because it is domain-specific and malleable, it is a design target rather than a fixed learner trait.
@@ -141,6 +141,8 @@ Instructional design shapes self efficacy primarily through the four sources Ban
 - [Self-efficacy and attitudes towards technology integration predicted positive experiences in online distance teaching, jointly explaining 52% of variance.](../claims/efficacy-attitudes-predict-positive-online-teaching-experiences.md) [~W]
 - [Self-efficacy, but not attitudes towards technology, predicted negative experiences, explaining 23% of variance; openness to change and school support predicted neither outcome.](../claims/self-efficacy-predicts-negative-online-teaching-experiences.md) [~W]
 - [Evaluation of layperson videos is predicted by self-efficacy, personal justification, respect for others' viewpoint, and negatively by age](../claims/layperson-video-evaluation-disposition-predictors.md) [+W]
+- [Self-efficacy increases after tutoring practice but does not differ by tutoring system](../claims/self-efficacy-increases-no-system-difference.md) [+W]
+- [Attitude toward science and self-belief show no significant change in either condition](../claims/no-change-attitude-self-belief.md) [-W]
 
 ## The evidence by question
 

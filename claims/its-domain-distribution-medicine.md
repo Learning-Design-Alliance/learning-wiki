@@ -53,3 +53,4 @@ State-of-the-art overview from the systematic search across IEEE, MDPI, ScienceD
 - [Existing ITS for psychomotor skills predominantly target fine, closed, internally paced, discrete, individual, and simple skills](its-psychomotor-skills-fine-closed-individual.md) — related
 - [GIFT serves as a testbed for developing and validating expert models for psychomotor tasks such as rifle marksmanship](gift-testbed-psychomotor-expert-models.md) — related
 - [Sports and healthcare dominate the application domains of ILE-based psychomotor training](ile-psychomotor-domains-sports-healthcare-lead.md) — related
+- [Different AR approaches might be used for learning and providing feedback in sports training](ar-approaches-support-sport-learning-and-feedback.md) — related

@@ -59,3 +59,5 @@ Pilot EFA (principal axis factoring with oblimin rotation) with an independent s
 - [Children's scientific reasoning at the end of primary school has a three-component structure: Hypothesis validation, Experimentation, and Generating conclusions](three-component-scientific-reasoning-structure.md) — related
 - [Principal component analysis of the AITAQS extracts four factors accounting for 65.421% of variance, with item loadings from 0.64 to 0.85 matching the four hypothesized dimensions.](aitaqs-four-factor-pca-structure.md) — related
 - [The faculty readiness scale required two model modifications (a cross-loading item and two residual correlations) to reach adequate fit](genai-rp-faculty-readiness-modified-model.md) — related
+- [Four factors of ICT use explain 57.4% of the total variance in university students' types of ICT use](four-ict-use-factors-57-percent-variance.md) — related
+- [Motivation and learning-strategy scales cluster into three factors: High-Level Learning Strategies, High-Level Motivation, and Low-Level Learning Strategies and Motivation](three-motivation-strategy-factors.md) — related

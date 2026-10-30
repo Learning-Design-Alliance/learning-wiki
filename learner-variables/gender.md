@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 351 claims (207 show a difference, 76 mixed, 68 no difference) · 233 studies (146 associational, 44 causal, 14 quant-synthesis, 11 review, 7 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 42 of 233 report an effect size · 343 claims rest on one study
+> **Evidence** · 355 claims (209 show a difference, 77 mixed, 69 no difference) · 236 studies (148 associational, 44 causal, 14 quant-synthesis, 11 review, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 42 of 236 report an effect size · 347 claims rest on one study
 
 ## How to read this page
 
@@ -390,6 +390,10 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [There is a negative relationship between presential sessions and female students' global valuation of e-learning, but a positive one for male students](../claims/presential-sessions-negative-female-valuation.md) [+M] — an instructional effect differs by group
 - [Tutor contribution is important for female students' global satisfaction but irrelevant for male students](../claims/tutor-contribution-female-satisfaction.md) [+M] — an instructional effect differs by group
 - [Gender showed no significant effect on test outcomes](../claims/gender-no-significant-effect-on-test-outcomes.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [CAMEO users are more likely to be young, male, less educated, and international than other certificate earners](../claims/cameo-users-more-likely-young-male-international.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Female students scored significantly higher than males on higher-order thinking skills (p = 0.015).](../claims/females-higher-hot-scores.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Males significantly favored writing interactive stories over traditional stories at school, while females showed no significant difference.](../claims/males-favor-interactive-females-no-difference.md) [~M] — an instructional effect differs by group
+- [No significant sex difference in CTt performance was observed in the primary school sample](../claims/no-sex-difference-ctt-primary-school.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

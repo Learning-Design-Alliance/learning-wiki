@@ -20,6 +20,7 @@ The article uses dedicated algorithms to identify two types of fake learners: "C
 ## Accounts
 <!-- How each source describes or uses the method -->
 - **Fake-learner detection algorithms for CUMA and unauthorized collaboration in MOOCs.**: The article uses dedicated algorithms to identify two types of fake learners: "Copying Using Multiple Accounts (CUMA)", where a master account receives credit while harvesting accounts collect correct answers, and unauthorized "Collaborators" who submit assignments together, detected using dissimilarity metrics on submission timing. In the 8.MReVx course, the CUMA algorithm detects 65 master accounts out of 478 certificate earners (a lower bound), and the collaborator algorithm identifies 20 (~4%) of certificate earners. (Alexandron et al. (2019))
+- **Five-filter CAMEO detection algorithm using clickstream timestamp distributions**: A detection algorithm that considers all ordered pairs of accounts as candidate harvester–master pairs and applies five conjunctive filters: a Bayesian criterion requiring 90% confidence that the proportion of positive Δt values exceeds 0.9; a 90th-percentile Δt cutoff of 5 minutes; certified master with uncertified harvester; shared IP address via transitive closure of modal IPs and usernames; and exclusion of groups with 10 or more accounts sharing a modal IP. The algorithm "is comprised of five filters with highly conservative cutoffs intended to reduce false positives." (Northcutt et al. (2015))
 
 ### Claims
 - [Fake learners spent significantly less time on each type of instructional resource than true learners in the MITx 8.MReVx MOOC.](../claims/fake-learners-less-time-on-instructional-resources.md) [+M]
@@ -29,3 +30,4 @@ The article uses dedicated algorithms to identify two types of fake learners: "C
 
 ## Key Sources
 - Alexandron, G., Yoo, L. Y., Ruipérez-Valiente, J. A., Lee, S., & Pritchard, D. E. (2019). Are MOOC Learning Analytics Results Trustworthy? With Fake Learners, They Might Not Be! International Journal of Artificial Intelligence in Education, 29, 484–506. https://doi.org/10.1007/s40593-019-00183-1
+- Northcutt, C. G., Ho, A. D., & Chuang, I. L. (2015). Detecting and Preventing “Multiple-Account” Cheating in Massive Open Online Courses. *arXiv preprint* arXiv:1508.05699. https://doi.org/10.48550/arxiv.1508.05699
