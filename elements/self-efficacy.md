@@ -145,7 +145,7 @@ Instructional design shapes self efficacy primarily through the four sources Ban
 - [Attitude toward science and self-belief show no significant change in either condition](../claims/no-change-attitude-self-belief.md) [-W]
 - [The mixed VR intervention and the information-session-only intervention both produced positive effects on phonetographic surface, vocal effort, and self-efficacy](../claims/both-interventions-improve-phonetographic-surface-vocal-effort-self-efficacy.md) [+W]
 - [Men report higher computer self-efficacy, domain identification, knowledge, and motivation than women](../claims/gender-gaps-computer-self-efficacy-knowledge-motivation.md) [~W]
-- [Perceived utility-value predicts quantity and quality of technology integration, but self-efficacy does not](../claims/utility-value-predicts-tech-integration.md) [-W]
+- [Teachers' perceived utility-value of technology is associated with how often and how well they integrate it; self-efficacy showed no significant association with frequency, exploitation or task-specific quality](../claims/utility-value-predicts-tech-integration.md) [-W]
 
 ## The evidence by question
 

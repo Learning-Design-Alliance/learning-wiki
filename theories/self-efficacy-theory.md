@@ -155,7 +155,7 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [Self-efficacy, but not attitudes towards technology, predicted negative experiences, explaining 23% of variance; openness to change and school support predicted neither outcome.](../claims/self-efficacy-predicts-negative-online-teaching-experiences.md) [~W]
 - [Self-efficacy is associated with higher video trustworthiness ratings regardless of source expertise](../claims/self-efficacy-higher-ratings-regardless-expertise.md) [~W]
 - [Self-efficacy increases after tutoring practice but does not differ by tutoring system](../claims/self-efficacy-increases-no-system-difference.md) [+W]
-- [Perceived utility-value predicts quantity and quality of technology integration, but self-efficacy does not](../claims/utility-value-predicts-tech-integration.md) [-W]
+- [Teachers' perceived utility-value of technology is associated with how often and how well they integrate it; self-efficacy showed no significant association with frequency, exploitation or task-specific quality](../claims/utility-value-predicts-tech-integration.md) [-W]
 
 ## The evidence by question
 

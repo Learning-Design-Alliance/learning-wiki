@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Perceived utility-value predicts quantity and quality of technology integration, but self-efficacy does not
-description: Perceived utility-value predicts quantity and quality of technology integration, but self-efficacy does not
+title: Teachers' perceived utility-value of technology is associated with how often and how well they integrate it; self-efficacy showed no significant association with frequency, exploitation or task-specific quality
+description: Teachers' perceived utility-value of technology is associated with how often and how well they integrate it; self-efficacy showed no significant association with frequency, exploitation or task-specific quality
 id: utility-value-predicts-tech-integration
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 2
 ---
 
-# Perceived utility-value predicts quantity and quality of technology integration, but self-efficacy does not
+# Teachers' perceived utility-value of technology is associated with how often and how well they integrate it; self-efficacy showed no significant association with frequency, exploitation or task-specific quality
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
@@ -37,7 +37,7 @@ Backfisch, I., Lachner, A., Stürmer, K., & Scheiter, K. (2021). Variability of 
 
 `q2 · i?` · `associational · r2`
 
-Linear mixed effect models on diary data from 18 teachers found utility-value predicted technology exploitation and task-specific teaching quality, while self-efficacy showed no significant relation. The article reports "utility-value was related to technology-exploitation" with the printed estimates and confidence intervals excluding zero.
+Linear mixed effect models on diary data from 18 teachers found utility-value was related to the frequency of technology integration, technology exploitation and task-specific teaching quality, while self-efficacy showed no significant relation to any of these. Both utility-value and self-efficacy were related to task-general teaching quality (smoothness of integration; self-efficacy Estimate = 0.448, 95% CI [0.124, 0.771]). The authors note the correlational design cannot say whether utility-value is a cause or a consequence of integration. The article reports "utility-value was related to technology-exploitation" with the printed estimates and confidence intervals excluding zero.
 
 > "utility-value was related to technology-exploitation, Estimate = 0.367, SE = 0.325, 95% CI [0.161, 0.573], and task-specific teaching quality, Estimate = 0.189, SE = 0.070, 95% CI [0.050, 0.327]."
 

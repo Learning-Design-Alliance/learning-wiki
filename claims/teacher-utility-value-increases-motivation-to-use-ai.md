@@ -94,4 +94,4 @@ Theoretical argument summarising the utility value section, with no data: when A
 - [Chatbot integration in a smart classroom is expected by the authors to increase learner engagement and academic achievement](chatbot-engagement-achievement-expectation.md) — related
 - [Teachers' beliefs show no correlation with their 3D printing integration levels](no-correlation-teacher-beliefs-3d-printing.md) — related
 - [Qualitative analysis suggests reciprocal relationship between utility-value and quality of technology integration, dependent on instructional context](reciprocal-utility-quality-relationship.md) — related
-- [Perceived utility-value predicts quantity and quality of technology integration, but self-efficacy does not](utility-value-predicts-tech-integration.md) — related
+- [Teachers' perceived utility-value of technology is associated with how often and how well they integrate it; self-efficacy showed no significant association with frequency, exploitation or task-specific quality](utility-value-predicts-tech-integration.md) — related

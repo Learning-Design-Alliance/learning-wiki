@@ -330575,6 +330575,7 @@
 "id":"thematic-analysis-lda-topics-set-themes",
 "newest_evidence":"2020",
 "path":"claims/thematic-analysis-lda-topics-set-themes.md",
+"source_checked":"2026-10-30",
 "status":"review",
 "title":"Thematic analysis of LDA topics identifies six SET themes matching prior literature",
 "type":"claim"
@@ -344368,13 +344369,13 @@
 "type":"claim"
 },
 {
-"description":"Perceived utility-value predicts quantity and quality of technology integration, but self-efficacy does not",
+"description":"Teachers' perceived utility-value of technology is associated with how often and how well they integrate it; self-efficacy showed no significant association with frequency, exploitation or task-specific quality",
 "evidence_strength":"moderate",
 "id":"utility-value-predicts-tech-integration",
 "newest_evidence":"2021",
 "path":"claims/utility-value-predicts-tech-integration.md",
 "status":"review",
-"title":"Perceived utility-value predicts quantity and quality of technology integration, but self-efficacy does not",
+"title":"Teachers' perceived utility-value of technology is associated with how often and how well they integrate it; self-efficacy showed no significant association with frequency, exploitation or task-specific quality",
 "type":"claim"
 },
 {

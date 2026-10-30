@@ -49,7 +49,7 @@ A theoretical application of Expectancy-Value Theory to why teachers do or do no
 - [Educators report affective costs of AI-related grading, including derealisation, exhaustion, and burnout](../claims/educator-affective-toll-ai-grading.md) [-W]
 - [Teachers rate AI-interaction training as useful and relevant and report positive adoption intentions](../claims/teachers-rate-ai-training-useful-positive-adoption.md) [+W]
 - [Teachers' confidence and interest in ML integration progressively increased from the Teachers-as-Learners to the Teachers-as-Designers session.](../claims/ml-confidence-interest-increase.md) [+W]
-- [Perceived utility-value predicts quantity and quality of technology integration, but self-efficacy does not](../claims/utility-value-predicts-tech-integration.md) [+W]
+- [Teachers' perceived utility-value of technology is associated with how often and how well they integrate it; self-efficacy showed no significant association with frequency, exploitation or task-specific quality](../claims/utility-value-predicts-tech-integration.md) [+W]
 
 ## The evidence by question
 - *Do teachers who are more confident they can use AI well (expectancy) hold more favourable attitudes towards it and use it more?* [Teachers' expectancy beliefs about successfully using AI applications shape their motivation to use them (theoretical argument).](../claims/teacher-expectancy-beliefs-shape-motivation-to-use-ai.md) [+W]

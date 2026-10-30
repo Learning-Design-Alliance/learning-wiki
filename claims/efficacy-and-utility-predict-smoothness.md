@@ -45,5 +45,5 @@ Linear mixed effect models found both self-efficacy and utility-value predicted 
 
 
 ## Related Claims
-- [Perceived utility-value predicts quantity and quality of technology integration, but self-efficacy does not](utility-value-predicts-tech-integration.md) — reports the opposite
+- [Teachers' perceived utility-value of technology is associated with how often and how well they integrate it; self-efficacy showed no significant association with frequency, exploitation or task-specific quality](utility-value-predicts-tech-integration.md) — reports the opposite
 - [Quality of technology integration varies substantially across lessons, with most variance unexplained by teacher traits or time course](tech-integration-quality-varies-across-lessons.md) — related
