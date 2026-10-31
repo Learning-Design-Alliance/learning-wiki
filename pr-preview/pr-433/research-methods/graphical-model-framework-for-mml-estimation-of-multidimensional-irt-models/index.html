@@ -1,0 +1,194 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Graphical model framework for MML estimation of multidimensional IRT models - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<link rel="stylesheet" href="../../assets/stylesheets/lt.css">
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script src="../../assets/javascripts/lt-palette.js" data-root="../../"></script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../research-methods/">Research methods</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Research method">
+<h1 id="graphical-model-framework-for-mml-estimation-of-multidimensional-irt-models">Graphical model framework for MML estimation of multidimensional IRT models<a class="headerlink" href="#graphical-model-framework-for-mml-estimation-of-multidimensional-irt-models" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Research Method</strong> · <a href="../">All research methods</a><br />
+<strong>Evidence</strong> · 3 claims (3 for) · 1 study (1 theoretical), <code>q2</code> · 0 of 1 report an effect size · 3 claims rest on one study</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>The article presents a framework in which a multidimensional IRT model is represented as a directed acyclic graph whose nodes are random variables and whose edges encode conditional (in)dependence relations. The DAG is moralized, triangulated, and transformed into a junction tree, and the E-step of the EM algorithm is carried out via local computations on the tree. A stated advantage is that "these subsets of variables can be derived in a fully automatic way by applying algorithms to the graphical representation of the model", making the approach generally applicable and rendering hand derivations obsolete.</p>
+<h2 id="accounts">Accounts<a class="headerlink" href="#accounts" title="Permanent link">&para;</a></h2>
+<!-- How each source describes or uses the method -->
+<ul>
+<li><strong>Graphical model framework for deriving efficient MML estimation schemes for multidimensional IRT models</strong>: The article presents a framework in which a multidimensional IRT model is represented as a directed acyclic graph whose nodes are random variables and whose edges encode conditional (in)dependence relations. The DAG is moralized, triangulated, and transformed into a junction tree, and the E-step of the EM algorithm is carried out via local computations on the tree. A stated advantage is that "these subsets of variables can be derived in a fully automatic way by applying algorithms to the graphical representation of the model", making the approach generally applicable and rendering hand derivations obsolete. (Rijmen (2009))</li>
+<li><strong>Graphical model framework for exploiting conditional independence to make multidimensional IRT estimation tractable</strong>: The article presents a framework in which a statistical model is represented as a directed acyclic graph, moralized, triangulated, and converted into a junction tree whose cliques define conditionally independent subsets of latent variables. The author states that "the computational complexity of a multidimensional model is inversely related to the number of conditional independence relations one is willing to assume." The framework provides algorithms to partition the joint latent space so that brute force integration can be replaced by local computations on cliques, applied to a family of multidimensional IRT growth models. (Rijmen (2010))</li>
+</ul>
+<h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../../claims/mml-bifactor-two-dimensional-integrals-general-conditions/">Full information MML estimation of the bi-factor model requires only two-dimensional integrations under more general conditions than the probit-link, multivariate-normal derivation of Gibbons and Hedeker</a> [+M]</li>
+<li><a href="../../claims/mml-complexity-scales-with-clique-state-spaces/">Computational complexity of the graph-based MML procedure scales with the number of latent variables within a conditionally independent subset, and brute-force integration scales exponentially with dimensionality</a> [+M]</li>
+<li><a href="../../claims/mml-second-order-dimension-two-dimensional-integrals/">Full information MML estimation of a multidimensional IRT model with a second-order dimension also requires only two-dimensional integrals</a> [+W]</li>
+</ul>
+<h2 id="related-research-methods">Related Research Methods<a class="headerlink" href="#related-research-methods" title="Permanent link">&para;</a></h2>
+<p>-</p>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Rijmen, F. (2009). Efficient Full Information Maximum Likelihood Estimation for Multidimensional IRT Models. ETS Research Report RR-09-03. http://www.ets.org/research/contact.html. <a href="https://doi.org/10.1002/j.2333-8504.2009.tb02160.x">doi:10.1002/j.2333-8504.2009.tb02160.x</a></li>
+<li>Rijmen, F. (2010). Measuring Multidimensional Latent Growth. ETS Research Report RR-10-24. https://www.ets.org/research/contact.html</li>
+</ul>
+<!-- merged 2026-10-10 from theories/graphical-model-framework-mml-irt-estimation ("Graphical model framework for deriving efficient MML estimation schemes for multidimensional IRT models"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Graphical model framework for deriving efficient MML estimation schemes for multidimensional IRT models
+
+> **Theory** · [All theories](../)
+> **Evidence** · 6 claims (5 for, 1 against) · 2 studies (2 theoretical), `q2` · 0 of 2 report an effect size · 6 claims rest on one study
+
+## Description
+The article presents a framework in which a multidimensional IRT model is represented as a directed acyclic graph whose nodes are random variables and whose edges encode conditional (in)dependence relations. The DAG is moralized, triangulated, and transformed into a junction tree, and the E-step of the EM algorithm is carried out via local computations on the tree. A stated advantage is that "these subsets of variables can be derived in a fully automatic way by applying algorithms to the graphical representation of the model", making the approach generally applicable and rendering hand derivations obsolete.
+
+## Design Implications
+
+### Context
+#### Requirements
+- The statistical model must be representable as a directed acyclic graph, with latent variables approximated by discrete latent variables when continuous parents would have discrete children
+- Conditional independence relations must be imposed by the model structure for the efficiency gains to materialize
+#### Constraints
+- A thorough account of the graph theory behind the general procedure is stated to be outside the scope of the paper, with main results given without proof
+- Finding an optimal triangulation is NP-hard, though well performing heuristic algorithms are available
+
+### Target Learners
+- Educational measurement researchers and psychometricians estimating multidimensional IRT models
+
+### Target Learning Objectives
+- Efficient, feasible estimation of parameters of structured multidimensional item response theory models
+
+### Claims
+
+- [Mml Bifactor Two Dimensional Integrals General Conditions](../../claims/mml-bifactor-two-dimensional-integrals-general-conditions/) [+M]
+- [Mml Complexity Scales With Clique State Spaces](../../claims/mml-complexity-scales-with-clique-state-spaces/) [+M]
+- [Full information MML estimation of a multidimensional IRT model with a second-order dimension also requires only two-dimensional integrals](../../claims/mml-second-order-dimension-two-dimensional-integrals/) [+W]
+
+## Related Theories
+
+- [Graphical model framework for exploiting conditional independence to make multidimensional IRT estimation tractable](./)
+- [Item Response Theory as a framework for scale development](../../theories/irt-framework-scale-development/)
+- [Graphical modeling as learning the conditional dependence structure of multivariate relations](../../theories/graphical-modeling-conditional-dependence-framework/)
+
+## Examples
+
+- [Bayes Net Toolbox for Matlab used to carry out graph transformations algorithmically](../../products/bayes-net-toolbox-for-matlab/)
+- [BNL (Bayesian networks with logistic regression nodes)](../../products/bnl-bayesian-networks-with-logistic-regression-nodes/)
+- [Explore candidate models with limited-information estimation first, then estimate the structured model with the efficient EM algorithm](../../strategies/limited-information-then-efficient-em-sequential-procedure/)
+
+## Key Sources
+- Rijmen, F. (2009). Efficient Full Information Maximum Likelihood Estimation for Multidimensional IRT Models. ETS Research Report RR-09-03. http://www.ets.org/research/contact.html. [doi:10.1002/j.2333-8504.2009.tb02160.x](https://doi.org/10.1002/j.2333-8504.2009.tb02160.x)
+-->
+
+<!-- merged 2026-10-17 from research-methods/graphical-model-framework-for-junction-tree-estimation-of-multidimensional-irt-growth-mode ("Graphical model framework for junction-tree estimation of multidimensional IRT growth models"), thin research-method page folded into the method it is a variant of (maintainer, 2026-10-17): its body as it stood. Its bullets this page lacked were added above.
+
+# Graphical model framework for junction-tree estimation of multidimensional IRT growth models
+
+> **Research Method** · [All research methods](../)
+> **Evidence** · no claims cited
+
+## Description
+The article presents a framework in which a statistical model is represented as a directed acyclic graph, moralized, triangulated, and converted into a junction tree whose cliques define conditionally independent subsets of latent variables. The author states that "the computational complexity of a multidimensional model is inversely related to the number of conditional independence relations one is willing to assume." The framework provides algorithms to partition the joint latent space so that brute force integration can be replaced by local computations on cliques, applied to a family of multidimensional IRT growth models.
+
+## Accounts
+<!- - How each source describes or uses the method - ->
+- **Graphical model framework for exploiting conditional independence to make multidimensional IRT estimation tractable**: The article presents a framework in which a statistical model is represented as a directed acyclic graph, moralized, triangulated, and converted into a junction tree whose cliques define conditionally independent subsets of latent variables. The author states that "the computational complexity of a multidimensional model is inversely related to the number of conditional independence relations one is willing to assume." The framework provides algorithms to partition the joint latent space so that brute force integration can be replaced by local computations on cliques, applied to a family of multidimensional IRT growth models. (Rijmen (2010))
+
+### Claims
+
+## Related Research Methods
+-
+
+## Key Sources
+- Rijmen, F. (2010). Measuring Multidimensional Latent Growth. ETS Research Report RR-10-24. https://www.ets.org/research/contact.html
+
+<!- - merged 2026-10-10 from theories/graphical-model-framework-multidimensional-irt-complexity ("Graphical model framework for exploiting conditional independence to make multidimensional IRT estimation tractable"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Graphical model framework for exploiting conditional independence to make multidimensional IRT estimation tractable
+
+> **Theory** · [All theories](../)
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+
+## Description
+The article presents a framework in which a statistical model is represented as a directed acyclic graph, moralized, triangulated, and converted into a junction tree whose cliques define conditionally independent subsets of latent variables. The author states that "the computational complexity of a multidimensional model is inversely related to the number of conditional independence relations one is willing to assume." The framework provides algorithms to partition the joint latent space so that brute force integration can be replaced by local computations on cliques, applied to a family of multidimensional IRT growth models.
+
+## Design Implications
+
+### Context
+#### Requirements
+- The researcher must be willing to incorporate conditional independence assumptions on the latent structure, such as bifactor or higher-order structure within occasions and a first-order Markov assumption across occasions
+#### Constraints
+- The results require latent variables to be discrete, so continuous latent variables are handled as discrete approximations equivalent to numerical integration over a grid
+
+### Target Learners
+- K-12 and other examinees assessed repeatedly over time in longitudinal educational measurement programs
+
+### Target Learning Objectives
+- Measurement of growth on multidimensional achievement constructs
+
+### Claims
+
+
+## Related Theories
+
+- [Graphical model framework for deriving efficient MML estimation schemes for multidimensional IRT models](./)
+
+## Examples
+-
+
+## Key Sources
+- Rijmen, F. (2010). Measuring Multidimensional Latent Growth. ETS Research Report RR-10-24. https://www.ets.org/research/contact.html
+- ->
+-->
+
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>aliases</code></td>
+<td><code>graphical-model-framework-for-junction-tree-estimation-of-multidimensional-irt-growth-mode</code></td>
+</tr>
+<tr>
+<td><code>moved_from</code></td>
+<td><code>theory/graphical-model-framework-mml-irt-estimation</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:sweep-kinds</code> on <code>2026-10-10</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+<script src="../../assets/javascripts/lt-nav.js" data-root="../../" data-folder="research-methods"></script>
+</body>
+</html>

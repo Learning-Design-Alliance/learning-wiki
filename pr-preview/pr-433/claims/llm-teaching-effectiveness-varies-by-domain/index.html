@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>LLM teaching effectiveness varies substantially across subject domains, strongest where knowledge points apply directly and weakest in physics and chemistry - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<link rel="stylesheet" href="../../assets/stylesheets/lt.css">
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script src="../../assets/javascripts/lt-palette.js" data-root="../../"></script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../claims/">Claims</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="llm-teaching-effectiveness-varies-substantially-across-subject-domains-strongest-where-knowledge-points-apply-directly-and-weakest-in-physics-and-chemistry">LLM teaching effectiveness varies substantially across subject domains, strongest where knowledge points apply directly and weakest in physics and chemistry<a class="headerlink" href="#llm-teaching-effectiveness-varies-substantially-across-subject-domains-strongest-where-knowledge-points-apply-directly-and-weakest-in-physics-and-chemistry" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a><br />
+<strong>Evidence</strong> · 1 study (2 entries) · causal <code>r2</code> · <code>q2</code><br />
+<strong>Currency</strong> · newest study 2026 · checked against its sources 2026-10-19 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly</p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> Across six additional subjects, teaching outcomes rank Mathematics, History, and Politics strongest, Geography and Biology intermediate, and Physics and Chemistry weakest. <a href="#zheng-li-2026">→ Zheng Li 2026</a>
+<code>q2 i?</code> In physics and chemistry, teaching often fails to help or even hurts: e.g., Qwen3-235B shows -6.30 accuracy change in Chemistry and -5.65 in Physics versus gains in Politics and History. <a href="#zheng-li-2026-2">→ Zheng Li 2026 (2)</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="zheng-li-2026">Zheng Li 2026<a class="headerlink" href="#zheng-li-2026" title="Permanent link">&para;</a></h3>
+<p>Zheng Li, Siyao Song, Jingyuan Ma, Rui Li, Ying Zeng, Minghao Li, Zhifang Sui. (2026). TeachBench: A Syllabus-Grounded Framework for Evaluating Teaching Ability in Large Language Models. https://arxiv.org/abs/2601.21375 <a href="https://doi.org/10.48550/arxiv.2601.21375">doi:10.48550/arxiv.2601.21375</a></p>
+<p><code>q2 · i?</code> · <code>causal · r2</code></p>
+<p>Cross-domain experiment (Table 4) evaluating teacher agents on Biology, Chemistry, Physics, Politics, History, and Geography subsets, showing "substantial variation in teaching outcomes across domains" and domain dependence of LLM teaching capability.</p>
+<blockquote>
+<p>"Across domains, we observe a clear performance ranking. Mathematics, History, and Politics exhibit the strongest teaching outcomes, followed by Geography and Biology, while Physics and Chemistry show the weakest performance."</p>
+</blockquote>
+<h3 id="zheng-li-2026-2">Zheng Li 2026 (2)<a class="headerlink" href="#zheng-li-2026-2" title="Permanent link">&para;</a></h3>
+<p>Zheng Li, Siyao Song, Jingyuan Ma, Rui Li, Ying Zeng, Minghao Li, Zhifang Sui. (2026). TeachBench: A Syllabus-Grounded Framework for Evaluating Teaching Ability in Large Language Models. https://arxiv.org/abs/2601.21375</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>Table 4 row for Qwen3-235B: accuracy changes of -6.30 in Chemistry and -5.65 in Physics versus +2.95 in Politics and +4.65 in History, illustrating that teaching can reduce student accuracy in integration-heavy domains. Values are descriptive; no significance tests are reported.</p>
+<blockquote>
+<p>"Qwen3-235B 77.12 -1.22 65.85 -6.30 66.28 -5.65 81.69 2.95 82.03 4.65 77.14 -2.59"</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../multi-turn-dialogue-amplifies-tutor-harm/">Multi-turn interaction amplifies pedagogical harm: mean harm rises 6-11 percentage points across subjects and pedagogical-relationship harm surges from 17.7% to 77.8%</a> — related</li>
+<li><a href="../tutor-harm-subject-dependent-mitigations/">Harm profiles are subject-dependent: metacognitive harm crosses 90% in all three subjects in multi-turn, peaking at 97.44% for Qwen2.5-32B in Mathematics</a> — related</li>
+<li><a href="../vieteduqwen-subject-wise-stem-gains-error-modes/">VietEduQwen improves over its base model across all eight exam subjects, with the largest gains in STEM disciplines, and its residual errors concentrate in multi-step computation and cross-concept integration</a> — related</li>
+<li><a href="../llms-struggle-most-chemistry-nsmq-riddles/">LLMs struggle most with Chemistry riddles, with best EM accuracy at or below 75% versus above 90% in other subjects</a> — related</li>
+<li><a href="../multi-turn-teaching-beats-knowledge-point-exposure/">Multi-turn teaching by LLM teacher agents yields larger student gains than knowledge-point exposure alone</a> — related</li>
+<li><a href="../deeptutor-gains-stable-across-five-domains/">DeepTutor's interactive tutoring gains are stable across five university-level domains, varying only 0.16 points in overall quality</a> — related</li>
+<li><a href="../medly-positive-effects-all-three-science-subjects/">Positive subject-specific effects of Medly in Physics, Chemistry and Biology, with no evidence the effect differed across subjects</a> — related</li>
+<li><a href="../k12-train-cross-subject-transfer/">SFT on K12-Train improves out-of-domain subjects (Chinese, Humanities Math), suggesting acquisition of a transferable structurally-grounded answer style</a> — related</li>
+<li><a href="../concept-map-effects-vary-by-science-subject/">Concept-mapping effect sizes vary by science subject (physics/earth science g = 1.040, biology g = 0.671, chemistry g = 0.590) but not significantly</a> — related</li>
+<li><a href="../jigsaw-vs-tau-null-semester-e3a/">In a semester-long crossover experiment with a real teacher, learning scores under jigsaw were not higher than under teaching-as-usual in physics and chemistry</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-11</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+<script src="../../assets/javascripts/lt-nav.js" data-root="../../" data-folder="claims"></script>
+</body>
+</html>

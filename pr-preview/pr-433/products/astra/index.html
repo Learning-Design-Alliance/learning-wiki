@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>ASTRA - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<link rel="stylesheet" href="../../assets/stylesheets/lt.css">
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script src="../../assets/javascripts/lt-palette.js" data-root="../../"></script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../products/">Products and programmes</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Product or programme">
+<h1 id="astra">ASTRA<a class="headerlink" href="#astra" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Product or Programme</strong> · <a href="../">All products and programmes</a><br />
+<strong>Evidence</strong> · 2 claims (2 for) · 1 study (1 design), <code>q2</code> · 0 of 1 report an effect size · 2 claims rest on one study</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>ASTRA is an end-to-end air-traffic-control training simulator developed by Ethan Chew and colleagues that automates the simpilot role through speech recognition, response generation, and geospatial scenario visualization.</p>
+<h2 id="components">Components<a class="headerlink" href="#components" title="Permanent link">&para;</a></h2>
+<!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+<ul>
+<li><strong>ASTRA Synthetic Benchmark Dataset: an open synthetic trace dataset for collaborative programming evaluation</strong>: An openly archived synthetic dataset mirroring the ASTRA logging schema, encoding a prespecified between-subjects design across three conditions (alone_tutor, pair_tutor, pair_multiagent) and a bank of 20 short Python tasks. It provides turn-level dialogue traces with speaker roles, task-level artefacts (submitted code, correctness, retries, time-to-correct, verification indicators), and a derived-metrics table with precomputed summaries. The article states it is "best interpreted as simulated evidence that supports benchmarking and method development". (Solomon Sunday Oyelere (2026))</li>
+<li><strong>ASTRA prototype: open-source multi-agent tutoring web application with JSONL trace logging</strong>: A Python Streamlit web application wrapping a multi-agent backend around an LLM API (gpt-4o-mini by default). It instantiates a Pedagogical Tutor Agent (PTA) for conceptual and metacognitive support and a Collaborative Group Agent (CGA) for participation balance and coordination, maintains a lightweight CASM learner-state profile inferred as JSON after each student message, and writes turn-level and solution records to JSON Lines files. The article states the implementation and logging schema are released "as open-source software (Oyelere, 2026b), enabling replication, stress-testing, and extension of trace-based analyses". (Solomon Sunday Oyelere (2026))</li>
+<li><strong>ASTRA social–cognitive framework for multi-agent tutoring</strong>: A framework formalising how social, cognitive, and regulatory information guides multi-agent tutoring in collaborative programming. It models a session as a partially observable multi-agent process in which "ASTRA instantiates the latent state z_t using a structured Cognitive–Affective–Social Model (CASM)" with cognitive, metacognitive, socio-emotional, and group-regulation components. Role-differentiated agents (Tutor, Facilitator, optional Coordinator) condition policies on a belief state over this latent state, and support is framed as optimising a multi-objective reward over task progress, metacognitive quality, and participation-oriented equity proxies. (Solomon Sunday Oyelere (2026))</li>
+</ul>
+<h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../../claims/astra-tts-mos-xtts-orpheus-best/">XTTS and Orpheus achieve the highest human-rated MOS for Singaporean-accented ATC speech synthesis (3.71 and 3.70), with female voices preferred across models</a> [+W]</li>
+<li><a href="../../claims/dspy-optimization-communication-evaluator-gains/">DSPy prompt optimization improves all radiotelephony evaluators, with the largest gain in accuracy (+7.9%)</a> [+W]</li>
+</ul>
+<h2 id="related-products-and-programmes">Related Products and Programmes<a class="headerlink" href="#related-products-and-programmes" title="Permanent link">&para;</a></h2>
+<p>-</p>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Ethan Chew, Enjia Wu, Iruss Eng, Ian Lim, Ranen Sim, Brandon Koh, Kaleb Nim, Caden Toh, Wei Dong Soin, Darius Koh, Galen Tay, Prannaya Gupta, Jonathan Koong, Yong Zhi Lim. (2026). ASTRA: A Scalable Next-Generation ATCO Training Simulator with Autonomous Simpilots. https://arxiv.org/abs/2606.18319</li>
+<li>Solomon Sunday Oyelere. (2026). ASTRA: A synthetic benchmark for trace-based evaluation of socially intelligent multi-agent tutoring and participation-balanced collaboration in introductory programming. Computers and Education: Artificial Intelligence. https://doi.org/10.1016/j.caeai.2026.100633</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:settle-candidates</code> on <code>2026-10-10</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+<script src="../../assets/javascripts/lt-nav.js" data-root="../../" data-folder="products"></script>
+</body>
+</html>

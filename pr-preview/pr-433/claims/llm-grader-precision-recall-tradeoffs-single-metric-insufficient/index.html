@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>LLM graders show model-specific precision/recall trade-offs, so a single metric is insufficient to judge grading quality - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<link rel="stylesheet" href="../../assets/stylesheets/lt.css">
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script src="../../assets/javascripts/lt-palette.js" data-root="../../"></script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../claims/">Claims</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="llm-graders-show-model-specific-precisionrecall-trade-offs-so-a-single-metric-is-insufficient-to-judge-grading-quality">LLM graders show model-specific precision/recall trade-offs, so a single metric is insufficient to judge grading quality<a class="headerlink" href="#llm-graders-show-model-specific-precisionrecall-trade-offs-so-a-single-metric-is-insufficient-to-judge-grading-quality" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a><br />
+<strong>Evidence</strong> · 1 study · design <code>r2</code> · <code>q2</code><br />
+<strong>Currency</strong> · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly</p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> The six evaluated LLMs exhibit differing precision/recall tendencies—e.g., deepseek-coder-6.7b-instruct shows higher Precision (0.5808) than Recall (0.5373) while Qwen2-7B-Instruct shows higher Recall (0.5000) but lower Precision (0.2866)—implying the same answer can receive inconsistent judgments across models. <a href="#fuan-xiao-2026">→ Fuan Xiao 2026</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="fuan-xiao-2026">Fuan Xiao 2026<a class="headerlink" href="#fuan-xiao-2026" title="Permanent link">&para;</a></h3>
+<p>Fuan Xiao, Jiahui Huang, Jia-Xin Huang, Huali Ren and Lang Li. (2026). Integrating LLM with consortium blockchain for personalized and verifiable online education in higher education. International Journal of Educational Technology in Higher Education. https://doi.org/10.1186/s41239-026-00618-5</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>Authors' interpretation of the Table 2 benchmark results: model-specific biases in thresholding, output style, and uncertainty mean "a single metric is insufficient to judge quality". The Precision/Recall trade-offs imply inconsistent judgments across models and decoding setups.</p>
+<blockquote>
+<p>"These differences highlight meaningful, model-specific biases in thresholding, output style, and uncertainty; consequently, a single metric is insufficient to judge quality, and F1 should be considered alongside the application's tolerance for errors."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../glm4-leads-ricechem-grading-benchmark/">On the RiceChem ALAG grading benchmark GLM-4-9B-chat leads six LLMs (Accuracy 0.6492, F1 0.6054)</a> — related</li>
+<li><a href="../bradley-terry-model-selection-matters-more-than-source-type/">In blind verification, model selection matters more than source type: Bradley-Terry ranking interleaves human coders and LLMs, with per-model win rates spanning significant human advantage to numerical LLM advantage</a> — related</li>
+<li><a href="../non-verifiability-crisis-llm-judges-misalign/">Automated metrics and LLM judges can misalign with expert human preferences in non-verifiable educational evaluation</a> — related</li>
+<li><a href="../human-llm-agreement-low-construct-varying/">Human-LLM agreement remains low across constructs (κ = 0.000 to 0.419), with self-efficacy showing the best alignment and Prior KSAs none</a> — related</li>
+<li><a href="../llm-fast-mode-limited-thinking-mode-better-agreement/">LLM agreement with human examiners is limited in fast mode and improves in reasoning or thinking modes</a> — related</li>
+<li><a href="../llms-differ-liberal-restrictive-balanced-grading-styles/">LLMs differ systematically in grading strictness, forming liberal, restrictive, and balanced grading styles on programming assignments</a> — a broader claim this one bears on</li>
+<li><a href="../unanimous-panels-40-percent-activation-reduction/">Unanimous-fail panels alone reduced benchmark activation by approximately 40% on average for three Critical evaluators, but were insufficient on their own</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-12</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+<script src="../../assets/javascripts/lt-nav.js" data-root="../../" data-folder="claims"></script>
+</body>
+</html>

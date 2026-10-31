@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Author by tutoring a machine-learning agent rather than demonstrating solutions - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<link rel="stylesheet" href="../../assets/stylesheets/lt.css">
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script src="../../assets/javascripts/lt-palette.js" data-root="../../"></script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../strategies/">Strategies</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Strategy">
+<h1 id="author-by-tutoring-a-machine-learning-agent-rather-than-demonstrating-solutions">Author by tutoring a machine-learning agent rather than demonstrating solutions<a class="headerlink" href="#author-by-tutoring-a-machine-learning-agent-rather-than-demonstrating-solutions" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Strategy</strong> · <a href="../">All strategies</a><br />
+<strong>Evidence</strong> · 4 claims (4 for) · 1 study (1 causal), <code>q2</code> · 0 of 1 report an effect size · 4 claims rest on one study</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>When authoring an expert model for a cognitive tutor, interactively tutor a machine-learning agent by posing problems, providing yes/no feedback on its suggested steps, and demonstrating steps only when the agent cannot proceed. This strategy embeds formative assessment naturally, since observing the agent's performance reveals flaws in the expert model, and reduces the number of demonstrations needed as learning progresses. The article recommends this over pure demonstration based on both simulation and case study results.</p>
+<h2 id="design-implications">Design Implications<a class="headerlink" href="#design-implications" title="Permanent link">&para;</a></h2>
+<h3 id="context">Context<a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
+<h4 id="requirements">Requirements<a class="headerlink" href="#requirements" title="Permanent link">&para;</a></h4>
+<ul>
+<li>The author must be able to identify errors in solution attempts and provide correctness feedback on the agent's suggested steps.</li>
+</ul>
+<h4 id="constraints">Constraints<a class="headerlink" href="#constraints" title="Permanent link">&para;</a></h4>
+<ul>
+<li>Authors must tag purposefully demonstrated incorrect production rules accordingly, since the agent does not recognize incorrect steps as incorrect.</li>
+</ul>
+<h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Domain experts authoring cognitive tutors</li>
+</ul>
+<h3 id="target-learning-goals">Target Learning Goals<a class="headerlink" href="#target-learning-goals" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Efficient and accurate creation of expert models for intelligent tutoring systems</li>
+</ul>
+<h2 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../../claims/authoring-by-tutoring-higher-accuracy-than-demonstration/">Authoring by Tutoring yields a more accurate expert model than Authoring by Demonstration while maintaining the same level of completeness</a> [+W]</li>
+<li><a href="../../claims/authoring-by-tutoring-more-efficient-than-demonstration/">Authoring by Tutoring requires less time than Authoring by Demonstration</a> [+W]</li>
+<li><a href="../../claims/negative-feedback-drives-tutoring-accuracy-advantage/">Explicit negative feedback on incorrect production applications drives the accuracy advantage of Authoring by Tutoring</a> [+W]</li>
+<li><a href="../../claims/tutoring-fewer-error-types-than-demonstration/">Authoring by Tutoring produces fewer errors of all types than Authoring by Demonstration</a> [+W]</li>
+</ul>
+<h2 id="related-strategies">Related Strategies<a class="headerlink" href="#related-strategies" title="Permanent link">&para;</a></h2>
+<ul>
+<li></li>
+</ul>
+<h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
+<p>-</p>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Matsuda, N., Cohen, W. W., &amp; Koedinger, K. R. (2015). Teaching the Teacher: Tutoring SimStudent Leads to More Effective Cognitive Tutor Authoring. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-014-0020-1</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-28</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+<script src="../../assets/javascripts/lt-nav.js" data-root="../../" data-folder="strategies"></script>
+</body>
+</html>

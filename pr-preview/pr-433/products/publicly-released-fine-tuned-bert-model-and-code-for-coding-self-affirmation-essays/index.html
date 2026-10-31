@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Publicly released fine-tuned BERT model and code for coding self-affirmation essays - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<link rel="stylesheet" href="../../assets/stylesheets/lt.css">
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script src="../../assets/javascripts/lt-palette.js" data-root="../../"></script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../products/">Products and programmes</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Product or programme">
+<h1 id="publicly-released-fine-tuned-bert-model-and-code-for-coding-self-affirmation-essays">Publicly released fine-tuned BERT model and code for coding self-affirmation essays<a class="headerlink" href="#publicly-released-fine-tuned-bert-model-and-code-for-coding-self-affirmation-essays" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Product or Programme</strong> · <a href="../">All products and programmes</a><br />
+<strong>Evidence</strong> · 4 claims (3 for, 1 mixed) · 2 studies (1 causal, 1 design), <code>q2</code>–<code>q3</code> · 0 of 2 report an effect size · 4 claims rest on one study</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>Ye et al.'s publicly released Keras implementation and fine-tuned BERT classifier automate coding student essays as self-affirming or general for research use.</p>
+<h2 id="components">Components<a class="headerlink" href="#components" title="Permanent link">&para;</a></h2>
+<!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+
+<h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../../claims/bert-consistent-performance-across-student-subgroups/">The fine-tuned BERT model's classification performance is consistent across stereotype-threatened and non-threatened students and other demographic subgroups</a> [+W]</li>
+<li><a href="../../claims/bert-generalizes-external-self-affirmation-dataset/">The fine-tuned BERT model generalizes to an external dataset collected by a different research team, maintaining almost perfect agreement with human coders</a> [+W]</li>
+<li><a href="../../claims/fine-tuned-bert-matches-human-coders-self-affirmation-essays/">A fine-tuned BERT model achieves almost perfect agreement with human coders when classifying student self-affirmation essays, matching human-human reliability</a> [+W]</li>
+<li><a href="../../claims/task-specific-adaptation-conditions-mid-range-degradation/">Mid-range degradation is conditioned on task-specific adaptation: it is most severe for few-shot LLMs with few examples, decreases with more task-specific data, and is mildest for the fine-tuned encoder</a> [~W]</li>
+</ul>
+<h2 id="related-products-and-programmes">Related Products and Programmes<a class="headerlink" href="#related-products-and-programmes" title="Permanent link">&para;</a></h2>
+<p>-</p>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Ye, C., Borman, T. H., &amp; Borman, G. D. (2026). Automating Self-Affirmation Essay Coding: Fine-Tuned BERT Performance Comparable to Human Coders and Comparison with GPT-4. Journal of Educational Data Mining, Volume 18, No 1. https://github.com/visortown/bert-self-affirm</li>
+</ul>
+<!-- merged 2026-10-10 from elements/bert-self-affirmation-essay-classifier-released-model ("Publicly released fine-tuned BERT model and code for coding self-affirmation essays"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Publicly released fine-tuned BERT model and code for coding self-affirmation essays
+
+> **Element** · [All elements](../)
+> **Evidence** · 6 claims (6 for) · 1 study (1 design), `q3` · 0 of 1 report an effect size · 6 claims rest on one study
+
+## Description
+A fine-tuned BERT-base (uncased) binary classifier, built in Keras with a frozen pre-trained BERT layer, a sigmoid output layer, class weighting, and early stopping, that labels student writing exercises as self-affirming or general. The article states: "We make the fine -tuned model publicly available to help the research community automate the burdensome task of coding". It was trained on labeled essays from a large-scale randomized trial and validated against human coders and on an external dataset.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Labeled student essays for fine-tuning or reuse of the released model
+- Validation by double-coding a random sample when deployed in new work
+#### Constraints
+- Trained on 7th-grade self-affirmation writing exercises; the article recommends retraining with new coded samples if the context shifts
+
+### Target Learners
+- 7th-grade students in self-affirmation intervention studies
+
+### Target Learning Goals
+- Automated classification of self-affirming content in student writing to support value-affirmation intervention research and implementation
+
+## Claims
+
+- [The fine-tuned BERT model's classification performance is consistent across stereotype-threatened and non-threatened students and other demographic subgroups](../../claims/bert-consistent-performance-across-student-subgroups/) [+W]
+- [The fine-tuned BERT model generalizes to an external dataset collected by a different research team, maintaining almost perfect agreement with human coders](../../claims/bert-generalizes-external-self-affirmation-dataset/) [+W]
+- [A fine-tuned BERT model achieves almost perfect agreement with human coders when classifying student self-affirmation essays, matching human-human reliability](../../claims/fine-tuned-bert-matches-human-coders-self-affirmation-essays/) [+W]
+
+## Related Elements
+- 
+
+## Examples
+
+- [Automate self-affirmation essay coding with a fine-tuned model while double-coding a random sample for reliability](../../strategies/automated-coding-with-random-sample-double-coding/)
+
+## Key Sources
+- Ye, C., Borman, T. H., & Borman, G. D. (2026). Automating Self-Affirmation Essay Coding: Fine-Tuned BERT Performance Comparable to Human Coders and Comparison with GPT-4. Journal of Educational Data Mining, Volume 18, No 1. https://github.com/visortown/bert-self-affirm
+-->
+
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>moved_from</code></td>
+<td><code>element/bert-self-affirmation-essay-classifier-released-model</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:sweep-kinds</code> on <code>2026-10-10</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+<script src="../../assets/javascripts/lt-nav.js" data-root="../../" data-folder="products"></script>
+</body>
+</html>

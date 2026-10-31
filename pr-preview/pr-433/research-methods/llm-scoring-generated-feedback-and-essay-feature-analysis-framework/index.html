@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>LLM scoring, generated-feedback, and essay-feature analysis framework - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<link rel="stylesheet" href="../../assets/stylesheets/lt.css">
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script src="../../assets/javascripts/lt-palette.js" data-root="../../"></script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../research-methods/">Research methods</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Research method">
+<h1 id="llm-scoring-generated-feedback-and-essay-feature-analysis-framework">LLM scoring, generated-feedback, and essay-feature analysis framework<a class="headerlink" href="#llm-scoring-generated-feedback-and-essay-feature-analysis-framework" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Research Method</strong> · <a href="../">All research methods</a><br />
+<strong>Evidence</strong> · 10 claims (4 for, 6 mixed) · 6 studies (3 associational, 1 causal, 1 review, 1 design), <code>q2</code> · 0 of 6 report an effect size · 10 claims rest on one study</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>The article proposes an analysis framework in which "Essays are first evaluated by LLMs to produce both predicted scores and textual feedback." Essay-level features (length, Flesch Reading Ease readability, and LanguageTool error counts) and feedback-derived signals (trait-specific praise and criticism via aspect-based sentiment analysis with a DeBERTa-v3 ABSA model, confidence above 0.9) are then extracted and related to the scores. The framework was applied to GPT-3.5, GPT-4.1, GPT-5-mini, and Llama 2, 3, and 4 models on the ASAP and DREsS datasets to compare LLM scores with human ratings and examine how feedback sentiment and essay characteristics relate to assigned scores.</p>
+<h2 id="accounts">Accounts<a class="headerlink" href="#accounts" title="Permanent link">&para;</a></h2>
+<!-- How each source describes or uses the method -->
+<ul>
+<li><strong>Framework combining LLM scoring, generated feedback, and essay-feature analysis</strong>: The article proposes an analysis framework in which "Essays are first evaluated by LLMs to produce both predicted scores and textual feedback." Essay-level features (length, Flesch Reading Ease readability, and LanguageTool error counts) and feedback-derived signals (trait-specific praise and criticism via aspect-based sentiment analysis with a DeBERTa-v3 ABSA model, confidence above 0.9) are then extracted and related to the scores. The framework was applied to GPT-3.5, GPT-4.1, GPT-5-mini, and Llama 2, 3, and 4 models on the ASAP and DREsS datasets to compare LLM scores with human ratings and examine how feedback sentiment and essay characteristics relate to assigned scores. (Jerin George Mathew et al. (2026))</li>
+<li><strong>Three-layered assessment framework for evaluating LLMs in essay assessment</strong>: A framework the article operationalizes to evaluate LLM essay scoring along three layers: consistency and reliability evaluation, human-LLM alignment analysis, and causal discovery analysis. Consistency assesses whether a model "maintains stable relative rankings of essay quality across repeated runs using identical prompts", while reliability captures absolute agreement of numeric outputs across runs; alignment serves as a measure of external validity against expert judgments; and causal discovery identifies "causal relationships between linguistic features and predicted scores". The article applies it to five LLMs scoring 60 higher-education essays. (Tongxi Liu et al. (2026))</li>
+</ul>
+<h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../../claims/llm-feedback-sentiment-tracks-scores/">LLM feedback sentiment tracks assigned scores: low scores come with more criticism, high scores with more praise</a> [+M] — (also cited [~W])</li>
+<li><a href="../../claims/llm-essay-scoring-weak-human-agreement/">Out-of-the-box LLMs agree with human essay grades far less than human raters agree with each other</a> [+M]</li>
+<li><a href="../../claims/llama-strongest-human-llm-alignment-claude-weakest/">Llama 4 Maverick shows the strongest human-LLM alignment, while Claude Sonnet 4 performs weakest with poor calibration</a> [+M]</li>
+<li><a href="../../claims/llm-causal-feature-dependencies-lexical-versus-syntactic/">Causal discovery analysis finds four of five LLMs prioritize lexical features in scoring, while DeepSeek R1 uniquely prioritizes syntactic complexity</a> [+M]</li>
+<li><a href="../../claims/gpt4-essay-score-inflation/">In one reviewed study, GPT-4 automated essay scoring showed score inflation, with AI–human rating discrepancies exceeding 1.5 standard deviations in 38% of graduate-level bibliographies</a> [~W]</li>
+<li><a href="../../claims/implicit-conditioning-inflates-aes-scores-llama-70b/">Implicit demographic conditioning inflates AES scores in some models, with Llama-70B scores rising 1.57 points over its own default, while GPT models remain stable</a> [~W]</li>
+<li><a href="../../claims/llm-high-consensus-agreement-circularity-risk/">LLMs agree strongly with their own consensus grades (most ICC &gt; 0.8), far more than with human teachers' grades</a> [~W]</li>
+<li><a href="../../claims/full-scale-llms-outperform-mini-nano-grading/">Full-scale LLM versions consistently achieve higher agreement with human grades than their mini and nano counterparts</a> [~W]</li>
+<li><a href="../../claims/teachers-grade-higher-than-all-llm-models/">Teachers systematically assign higher grades than all evaluated LLM grading models</a> [~W]</li>
+<li><a href="../../claims/sliding-window-controls-document-length-effects/">Document length alone carries some signal (word-count classifier ROC-AUC 0.68), but the fixed-word sliding-window design largely prevents stylometric features from capturing length differences</a> [~W]</li>
+</ul>
+<h2 id="related-research-methods">Related Research Methods<a class="headerlink" href="#related-research-methods" title="Permanent link">&para;</a></h2>
+<p>-</p>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Jerin George Mathew, Sumayya Taher, Anindita Kundu, Denilson Barbosa. (2026). LLMs Do Not Grade Essays Like Humans. https://arxiv.org/abs/2603.23714</li>
+<li>Tongxi Liu, Luyao Ye, Wei Yan. (2026). A framework for evaluation of large language models in essay assessment: Reliability, alignment, and causal reasoning. Computers and Education: Artificial Intelligence. https://doi.org/10.1016/j.caeai.2026.100565</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:settle-candidates</code> on <code>2026-10-12</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+<script src="../../assets/javascripts/lt-nav.js" data-root="../../" data-folder="research-methods"></script>
+</body>
+</html>

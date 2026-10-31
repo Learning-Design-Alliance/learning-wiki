@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Multi-agent LLM parsers achieve near-perfect agreement with human experts when evaluating the reliability of LLM-generated SRL scaffolds - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<link rel="stylesheet" href="../../assets/stylesheets/lt.css">
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script src="../../assets/javascripts/lt-palette.js" data-root="../../"></script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../claims/">Claims</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="multi-agent-llm-parsers-achieve-near-perfect-agreement-with-human-experts-when-evaluating-the-reliability-of-llm-generated-srl-scaffolds">Multi-agent LLM parsers achieve near-perfect agreement with human experts when evaluating the reliability of LLM-generated SRL scaffolds<a class="headerlink" href="#multi-agent-llm-parsers-achieve-near-perfect-agreement-with-human-experts-when-evaluating-the-reliability-of-llm-generated-srl-scaffolds" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a><br />
+<strong>Evidence</strong> · 1 study (2 entries) · design <code>r2</code> · <code>q2</code><br />
+<strong>Currency</strong> · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly</p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> A multi-agent LLM parser using GPT-4-Turbo achieved near-perfect agreement with human expert annotations (κ = 0.808) and accuracy of 0.931 when evaluating which SRL processes LLM-generated scaffolds support. <a href="#qian-2025">→ Qian 2025</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="qian-2025">Qian 2025<a class="headerlink" href="#qian-2025" title="Permanent link">&para;</a></h3>
+<p>Qian, K., Liu, S., Li, T., Raković, M., Li, X., Guan, R., Molenaar, I., Nawaz, S., Swiecki, Z., Yan, L., &amp; Gašević, D. (2025). Towards Reliable Generative AI-Driven Scaffolding: Reducing Hallucinations and Enhancing Quality in Self-Regulated Learning Support. https://arxiv.org/abs/2508.05929</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>Evaluation of 594 LLM-generated scaffolds against a human expert benchmark of 72 scaffolds labelled by two coders with almost-perfect inter-rater agreement (κ = 0.879 in round one). The multi-agent GPT-4-Turbo parser reached</p>
+<blockquote>
+<p>"Among the multi-agent parsers, GPT-4-Turbo demonstrated the highest reliability, achieving near-perfect agreement with human results (𝜅 = 0.808, 95% CI [0.765, 0.852]; accuracy = 0.931, 95% CI [0.915, 0.946])"</p>
+</blockquote>
+<h3 id="qian-2025-2">Qian 2025 (2)<a class="headerlink" href="#qian-2025-2" title="Permanent link">&para;</a></h3>
+<p>Qian, K., Liu, S., Li, T., Raković, M., Li, X., Guan, R., Molenaar, I., Nawaz, S., Swiecki, Z., Yan, L., &amp; Gašević, D. (2025). Towards Reliable Generative AI-Driven Scaffolding: Reducing Hallucinations and Enhancing Quality in Self-Regulated Learning Support. https://arxiv.org/abs/2508.05929</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>The human expert benchmark (κ = 0.869, accuracy = 0.956) remained the gold standard that no LLM configuration exceeded.</p>
+<blockquote>
+<p>"Importantly, none of the LLM configurations exceeded the human expert benchmark (𝜅 = 0.869, 95% CI [0.854, 0.903], accuracy = 0.956, 95% CI [0.930, 0.981]), which remained the gold standard."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../gpt4-turbo-judge-mitigates-hallucinations-weaker-judges-do-not/">GPT-4-Turbo as an LLM Judge reliably selects better scaffolds and mitigates hallucination errors, while weaker LLM Judges do not</a> — related</li>
+<li><a href="../llm-scaffolds-low-precision-high-irrelevance/">LLM-generated scaffolds show low precision and high irrelevance rates in targeting intended SRL processes</a> — related</li>
+<li><a href="../multi-agent-llm-parsers-outperform-single-agent-and-bert/">Multi-agent LLM parsers outperform single-agent structures and BERT baselines in evaluating scaffold reliability</a> — possibly the same claim (merge candidate)</li>
+<li><a href="../gradeopt-substantial-agreement-pck-outperforms-baselines/">The multi-agent LLM GradeOpt achieved substantial agreement with human coders on overall PCK items (κ = .68, QWK = .79) and outperformed RoBERTa, SBERT, and naïve GPT-4o prompting</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-29</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+<script src="../../assets/javascripts/lt-nav.js" data-root="../../" data-folder="claims"></script>
+</body>
+</html>

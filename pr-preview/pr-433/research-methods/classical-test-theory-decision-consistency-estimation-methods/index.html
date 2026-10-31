@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Classical test theory decision consistency estimation methods - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<link rel="stylesheet" href="../../assets/stylesheets/lt.css">
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script src="../../assets/javascripts/lt-palette.js" data-root="../../"></script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../research-methods/">Research methods</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Research method">
+<h1 id="classical-test-theory-decision-consistency-estimation-methods">Classical test theory decision consistency estimation methods<a class="headerlink" href="#classical-test-theory-decision-consistency-estimation-methods" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Research Method</strong> · <a href="../">All research methods</a><br />
+<strong>Evidence</strong> · 5 claims (4 for, 1 against) · 1 study (1 design), <code>q2</code> · 0 of 1 report an effect size · 5 claims rest on one study</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>The article organizes single-administration decision consistency estimation around three CTT methods: Livingston and Lewis (LL-DC), which assumes a beta-binomial distribution and uses effective test length; Peng-Subkoviak (PS-DC), a normal approximation extending Huynh's procedure; and Wolkowitz (W-DC), which uses 95% confidence intervals about observed scores. The article states "All three methods require total scores, reliability, and the cut score as input," with LL-DC additionally requiring minimum and maximum possible scores. Complexity of understanding ranges from high (LL-DC) to low (W-DC).</p>
+<h2 id="accounts">Accounts<a class="headerlink" href="#accounts" title="Permanent link">&para;</a></h2>
+<!-- How each source describes or uses the method -->
+<ul>
+<li><strong>Three classical test theory decision consistency estimation methods differing in assumptions and complexity</strong>: The article organizes single-administration decision consistency estimation around three CTT methods: Livingston and Lewis (LL-DC), which assumes a beta-binomial distribution and uses effective test length; Peng-Subkoviak (PS-DC), a normal approximation extending Huynh's procedure; and Wolkowitz (W-DC), which uses 95% confidence intervals about observed scores. The article states "All three methods require total scores, reliability, and the cut score as input," with LL-DC additionally requiring minimum and maximum possible scores. Complexity of understanding ranges from high (LL-DC) to low (W-DC). (Wolkowitz et al. (2024))</li>
+</ul>
+<h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../../claims/dc-methods-similar-normal-distributions/">The LL-DC, PS-DC, and W-DC methods produce similar decision consistency estimates (within 0.044) for normally or close to normally distributed datasets</a> [+M]</li>
+<li><a href="../../claims/dc-methods-skewed-data-w-dc-ll-dc-preferred/">For skewed datasets, W-DC and LL-DC produce similar and preferred estimates, while PS-DC diverges at high-frequency scores</a> [+M]</li>
+<li><a href="../../claims/cohens-kappa-paradox-decision-consistency/">Cohen's kappa exhibits a paradox in which high observed agreement yields low kappa, making it unsuitable for pass/fail decision consistency</a> [-W]</li>
+<li><a href="../../claims/dc-estimate-differences-largest-at-mode/">The greatest differences among the three DC estimates occur when the cut score is set at the mode of a skewed score distribution</a> [+M]</li>
+<li><a href="../../claims/dc-lowest-at-score-distribution-peak/">DC estimates tend to be lowest when the cut score is set at the peak of the score distribution, where inconsistent decisions are most likely</a> [+W]</li>
+</ul>
+<h2 id="related-research-methods">Related Research Methods<a class="headerlink" href="#related-research-methods" title="Permanent link">&para;</a></h2>
+<p>-</p>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Wolkowitz, A. A., &amp; Smith, R. (2024). A Practical Comparison of Decision Consistency Estimates. Practical Assessment, Research &amp; Evaluation, 29(6). https://pareonline.net/getvn.asp?v=29&amp;n=6</li>
+</ul>
+<!-- merged 2026-10-10 from theories/ctt-decision-consistency-methods-taxonomy ("Three classical test theory decision consistency estimation methods differing in assumptions and complexity"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Three classical test theory decision consistency estimation methods differing in assumptions and complexity
+
+> **Theory** · [All theories](../)
+> **Evidence** · 5 claims (4 for, 1 against) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+
+## Description
+The article organizes single-administration decision consistency estimation around three CTT methods: Livingston and Lewis (LL-DC), which assumes a beta-binomial distribution and uses effective test length; Peng-Subkoviak (PS-DC), a normal approximation extending Huynh's procedure; and Wolkowitz (W-DC), which uses 95% confidence intervals about observed scores. The article states "All three methods require total scores, reliability, and the cut score as input," with LL-DC additionally requiring minimum and maximum possible scores. Complexity of understanding ranges from high (LL-DC) to low (W-DC).
+
+## Design Implications
+
+### Context
+#### Requirements
+- Total scores, reliability, and the cut score for all three methods; LL-DC additionally requires the minimum and maximum possible scores on the exam
+#### Constraints
+- LL-DC assumes a beta-binomial distribution; PS-DC assumes bivariate normality and may be less accurate with non-normal data; W-DC makes a practical but non-theoretical assumption that a 95% confidence interval is best
+
+### Target Learners
+- measurement professionals
+- classroom educators and other non-measurement professionals
+- credentialing program staff
+
+### Target Learning Objectives
+- estimating and interpreting decision consistency indices for pass/fail exams
+- selecting an appropriate DC estimation method for a given dataset
+
+### Claims
+
+- [Dc Methods Similar Normal Distributions](../../claims/dc-methods-similar-normal-distributions/) [+M]
+- [Dc Methods Skewed Data W Dc Ll Dc Preferred](../../claims/dc-methods-skewed-data-w-dc-ll-dc-preferred/) [+M]
+- [Cohen's kappa exhibits a paradox in which high observed agreement yields low kappa, making it unsuitable for pass/fail decision consistency](../../claims/cohens-kappa-paradox-decision-consistency/) [-W]
+- [The greatest differences among the three DC estimates occur when the cut score is set at the mode of a skewed score distribution](../../claims/dc-estimate-differences-largest-at-mode/) [+M]
+- [DC estimates tend to be lowest when the cut score is set at the peak of the score distribution, where inconsistent decisions are most likely](../../claims/dc-lowest-at-score-distribution-peak/) [+W]
+
+## Related Theories
+
+- [Classical Test Theory (CTT) and its stated limitations](../classical-test-theory/)
+
+## Examples
+
+- [Target a decision consistency estimate of at least 0.85 for high stakes exams while interpreting lower values in light of cut score location, reliability, and population heterogeneity](../../principles/validity-reliability-and-bias-in-classroom-assessment/)
+- [Select a DC estimation method based on score distribution shape, the user's measurement background, and the intended audience](../../strategies/dc-method-selection-guidance/)
+
+## Key Sources
+- Wolkowitz, A. A., & Smith, R. (2024). A Practical Comparison of Decision Consistency Estimates. Practical Assessment, Research & Evaluation, 29(6). https://pareonline.net/getvn.asp?v=29&n=6
+-->
+
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>moved_from</code></td>
+<td><code>theory/ctt-decision-consistency-methods-taxonomy</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:sweep-kinds</code> on <code>2026-10-10</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+<script src="../../assets/javascripts/lt-nav.js" data-root="../../" data-folder="research-methods"></script>
+</body>
+</html>

@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Extended labelled dataset of 345 OER sentences with ethnic-bias annotations from 193 students - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<link rel="stylesheet" href="../../assets/stylesheets/lt.css">
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script src="../../assets/javascripts/lt-palette.js" data-root="../../"></script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../products/">Products and programmes</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Product or programme">
+<h1 id="extended-labelled-dataset-of-345-oer-sentences-with-ethnic-bias-annotations-from-193-students">Extended labelled dataset of 345 OER sentences with ethnic-bias annotations from 193 students<a class="headerlink" href="#extended-labelled-dataset-of-345-oer-sentences-with-ethnic-bias-annotations-from-193-students" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Product or Programme</strong> · <a href="../">All products and programmes</a><br />
+<strong>Evidence</strong> · 5 claims (5 for) · 1 study (1 design), <code>q2</code> · 1 of 1 report an effect size · 5 claims rest on one study</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>A dataset released by Josmario Albuquerque and colleagues containing 345 contextualized OER sentences annotated by 193 higher-education students for perceived ethnic bias, with contextual metadata, aggregate labels, bias scores, and reproducibility code.</p>
+<h2 id="components">Components<a class="headerlink" href="#components" title="Permanent link">&para;</a></h2>
+<!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+
+<h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../../claims/linguistic-features-correlate-ethnic-bias/">Linguistic and psycholinguistic features such as verb ratio and aggressiveness are positively correlated with perceived ethnic bias</a> [+W]</li>
+<li><a href="../../claims/naive-bayes-highest-precision-bias-detection/">The naive Bayes model achieved the highest precision (0.75) for ethnic bias detection on the test set</a> [+W]</li>
+<li><a href="../../claims/social-sciences-content-correlates-ethnic-bias/">Social sciences content is positively correlated with perceived ethnic bias in text-based learning materials</a> [+W]</li>
+<li><a href="../../claims/stacking-ensemble-best-finetuning-f1/">A stacking ensemble of LG, SVM, NB, KNN and XGB achieved the best fine-tuning F1-score (0.88), outperforming individual models such as SVM (0.86)</a> [+W]</li>
+<li><a href="../../claims/svm-rf-consistent-bias-classification/">SVM and random forest classifiers showed consistent performance in classifying ethnic bias, with F1-scores of 0.71 and 0.70 on the test set</a> [+W]</li>
+</ul>
+<h2 id="related-products-and-programmes">Related Products and Programmes<a class="headerlink" href="#related-products-and-programmes" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../dataset-nutrition-label/">Dataset Nutrition Label</a></li>
+</ul>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Josmario Albuquerque, Bart Rienties, Martin Hlosta, Wayne Holmes. (2026). Learning Analytics to Uncover Ethnic Bias in Educational Texts: An Ensemble Learning Approach. Journal of Learning Analytics 13(1). https://doi.org/10.18608/jla.2026.8905</li>
+</ul>
+<!-- merged 2026-10-10 from elements/ethnic-bias-oer-labelled-dataset ("Extended labelled dataset of 345 OER sentences with ethnic-bias annotations from 193 students"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Extended labelled dataset of 345 OER sentences with ethnic-bias annotations from 193 students
+
+> **Element** · [All elements](../)
+> **Evidence** · 5 claims (5 for) · 1 study (1 design), `q2` · 1 of 1 report an effect size · 5 claims rest on one study
+
+## Description
+A released dataset of "345 contextualized sentences extracted from various OERs" annotated by "193 higher education students from the UK and US" who self-identified as Asian, Black, mixed, or white. Each sentence carries contextual attributes (OER title, type, subject, group reference) and counts of biased, not biased, and undecided marks, plus derived bias scores and binary labels. The article offers it "for promoting fairer artificial intelligence (AI) applications" and hosts code on GitHub for reproducibility.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Access to the released dataset (figshare link printed in the article) and the companion code repository to reproduce the classification pipeline
+#### Constraints
+- Labels reflect perceived bias by higher education students in the UK and US; perceptions varied across individuals, reflecting the subjective nature of bias
+
+### Target Learners
+- Higher education students
+
+### Target Learning Goals
+- Detection and classification of ethnic bias in text-based learning materials
+- Development of fairer AI and learning analytics tools
+
+## Claims
+
+- [Linguistic and psycholinguistic features such as verb ratio and aggressiveness are positively correlated with perceived ethnic bias](../../claims/linguistic-features-correlate-ethnic-bias/) [+W]
+- [The naive Bayes model achieved the highest precision (0.75) for ethnic bias detection on the test set](../../claims/naive-bayes-highest-precision-bias-detection/) [+W]
+- [Social sciences content is positively correlated with perceived ethnic bias in text-based learning materials](../../claims/social-sciences-content-correlates-ethnic-bias/) [+W]
+- [A stacking ensemble of LG, SVM, NB, KNN and XGB achieved the best fine-tuning F1-score (0.88), outperforming individual models such as SVM (0.86)](../../claims/stacking-ensemble-best-finetuning-f1/) [+W]
+- [SVM and random forest classifiers showed consistent performance in classifying ethnic bias, with F1-scores of 0.71 and 0.70 on the test set](../../claims/svm-rf-consistent-bias-classification/) [+W]
+
+## Related Elements
+- 
+
+## Examples
+
+- [Use interpretable feature-driven machine learning as a human-in-the-loop baseline for flagging ethnic bias in learning content](../../strategies/feature-driven-ml-baseline-bias-flagging/)
+
+## Key Sources
+- Josmario Albuquerque, Bart Rienties, Martin Hlosta, Wayne Holmes. (2026). Learning Analytics to Uncover Ethnic Bias in Educational Texts: An Ensemble Learning Approach. Journal of Learning Analytics 13(1). https://doi.org/10.18608/jla.2026.8905
+-->
+
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>moved_from</code></td>
+<td><code>element/ethnic-bias-oer-labelled-dataset</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:sweep-kinds</code> on <code>2026-10-10</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+<script src="../../assets/javascripts/lt-nav.js" data-root="../../" data-folder="products"></script>
+</body>
+</html>

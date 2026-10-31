@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>CLaaS (Cybersecurity Labs-as-a-Service) - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<link rel="stylesheet" href="../../assets/stylesheets/lt.css">
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script src="../../assets/javascripts/lt-palette.js" data-root="../../"></script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../products/">Products and programmes</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Product or programme">
+<h1 id="claas-cybersecurity-labs-as-a-service">CLaaS (Cybersecurity Labs-as-a-Service)<a class="headerlink" href="#claas-cybersecurity-labs-as-a-service" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Product or Programme</strong> · <a href="../">All products and programmes</a><br />
+<strong>Evidence</strong> · 3 claims (2 for, 1 mixed) · 1 study (1 design), <code>q2</code> · 0 of 1 report an effect size · 3 claims rest on one study</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>CLaaS is an AWS-based, browser-accessible cybersecurity lab platform developed for university cybersecurity courses, with an integrated OCR-to-LLM assistant for simplifying lab instructions.</p>
+<h2 id="components">Components<a class="headerlink" href="#components" title="Permanent link">&para;</a></h2>
+<!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+<ul>
+<li><strong>CLaaS platform with integrated OCR-to-LLM instructional assistant</strong>: CLaaS (Cybersecurity Labs-as-a-Service) is an AWS cloud-based platform delivering browser-accessible cybersecurity labs via EC2 virtual machines, supporting tasks such as DDoS attacks, buffer overflows, packet sniffing, and ransomware attacks. This paper extends it with an "Instruction Simplification" button that captures the current slide as an image, extracts text with Tesseract OCR, and sends the raw text with a crafted prompt to an LLM (gpt-4) via API to generate a simplified, zero-shot explanation delivered in the CLaaS interface. Students rate the output on a 1-10 feedback scale stored for later analysis and prompt personalization. (Patel et al. (2025))</li>
+</ul>
+<h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../../claims/student-feedback-7-83-ocr-llm-instructions/">Students rate LLM-generated simplified instructions positively, averaging 7.83 on a 1-10 usefulness scale across 42 ratings in a live cybersecurity course</a> [+M]</li>
+<li><a href="../../claims/multimodal-vs-ocr-pipeline-slide-type-comparison/">Multimodal LLMs outperform the OCR-based pipeline on visually dense slides, while the OCR pipeline produces comparable instruction on text-centric slides</a> [+M]</li>
+<li><a href="../../claims/llm-compensates-for-noisy-ocr-input/">The text-based LLM compensates for noisy OCR input, generating contextually accurate explanations even when OCR produces jumbled text from UI screenshots</a> [~W]</li>
+</ul>
+<h2 id="related-products-and-programmes">Related Products and Programmes<a class="headerlink" href="#related-products-and-programmes" title="Permanent link">&para;</a></h2>
+<p>-</p>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Patel, K., Lin, Y.-Z., Raul, G., Shih, B. P.-J., Redondo, M. W., Latibari, B. S., Pacheco, J., Salehi, S., &amp; Satam, P. (2025). Integrating Generative AI into Cybersecurity Education: A Study of OCR and Multimodal LLM-assisted Instruction. arXiv. https://arxiv.org/abs/2509.02998. <a href="https://doi.org/10.48550/arxiv.2509.02998">doi:10.48550/arxiv.2509.02998</a></li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:settle-candidates</code> on <code>2026-10-10</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+<script src="../../assets/javascripts/lt-nav.js" data-root="../../" data-folder="products"></script>
+</body>
+</html>

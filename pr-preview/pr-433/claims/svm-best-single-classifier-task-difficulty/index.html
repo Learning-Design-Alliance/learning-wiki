@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Log-file features are suitable for recognising perceived task-difficulty per task, with SVM the best single classifier (25.24% average test error). - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<link rel="stylesheet" href="../../assets/stylesheets/lt.css">
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script src="../../assets/javascripts/lt-palette.js" data-root="../../"></script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../claims/">Claims</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="log-file-features-are-suitable-for-recognising-perceived-task-difficulty-per-task-with-svm-the-best-single-classifier-2524-average-test-error">Log-file features are suitable for recognising perceived task-difficulty per task, with SVM the best single classifier (25.24% average test error).<a class="headerlink" href="#log-file-features-are-suitable-for-recognising-perceived-task-difficulty-per-task-with-svm-the-best-single-classifier-2524-average-test-error" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a><br />
+<strong>Evidence</strong> · 1 study · design <code>r2</code> · <code>q2</code><br />
+<strong>Currency</strong> · newest study 2016 · not yet checked against its sources · not reviewed by a person · <strong>overdue for a recheck since 2019</strong>: tool and model accuracy changes quickly</p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> Applied to per-task log-file features with leave-one-student-out cross-validation, SVM achieved 25.24% average classification test error, outperforming KNN (29.62%) and DCT (30.62%). <a href="#ruth-janning-2016">→ Ruth Janning 2016</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="ruth-janning-2016">Ruth Janning 2016<a class="headerlink" href="#ruth-janning-2016" title="Permanent link">&para;</a></h3>
+<p>Ruth Janning, Carlotta Schatten, Lars Schmidt-Thieme. (2016). Perceived Task-Difficulty Recognition from Log-file Information for the Use in Adaptive Intelligent Tutoring Systems. Int J Artif Intell Educ. https://doi.org/10.1007/s40593-016-0097-9</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>Multi-class classification experiments (classes hard, appropriate, easy) on 234 labelled tasks from the 7-student study, using leave-one-student-out cross-validation with oversampling for balancing. SVM with RBF-kernel, DCT and KNN were compared; the authors conclude the features "are suitable for recognising the perceived task-difficulty per task". Only test error and F-measures are printed, no effect size.</p>
+<blockquote>
+<p>"These first experiments delivered an average classification test error of 25.24 % for the SVM, of 29.62 % for KNN and of 30.62 % for the DCT as well as F-measures for the 3 classes of 0.67, 0.68, 0.84 for the SVM, of 0.66, 0.67, 0.80 for KNN and of 0.60, 0.63, 0.83 for the DCT (see Table 9). These results show, that the features are suitable for recognising the perceived task-difficulty per task and that SVM performed best."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../plait-ensemble-outperforms-single-and-standard-ensembles/">Each generalised plait ensemble (SVM, KNN, DCT) beats the single classifier, majority-vote and stacking ensemble of the same type in perceived task-difficulty classification (e.g., SVM plait error 14.54%, KNN plait 12.84%), though the DCT plait does not beat SVM stacking</a> — related</li>
+<li><a href="../single-per-task-features-weak-fit/">Single log-file features per task show very small p-values but weak fit, with number of hints seen the strongest single predictor of perceived task-difficulty.</a> — related</li>
+<li><a href="../log-feature-combination-significant-accumulated-difficulty/">A two-feature combination of average time until skip and average time until first hint request statistically significantly describes students' accumulated perceived task-difficulty across a learning session.</a> — related</li>
+<li><a href="../stacking-ensemble-best-finetuning-f1/">A stacking ensemble of LG, SVM, NB, KNN and XGB achieved the best fine-tuning F1-score (0.88), outperforming individual models such as SVM (0.86)</a> — related</li>
+<li><a href="../logfile-ensemble-outperforms-classical-ensembles/">The review reports that a log-file ensemble approach for perceived task-difficulty recognition outperforms classical ensemble methods</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-27</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+<script src="../../assets/javascripts/lt-nav.js" data-root="../../" data-folder="claims"></script>
+</body>
+</html>

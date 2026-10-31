@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Deploying a trace-capturing Parsons tool in two university courses surfaced recurring difficulty patterns including exception-type misidentification, return-for-throw confusion, and incorrect control-flow ordering - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<link rel="stylesheet" href="../../assets/stylesheets/lt.css">
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script src="../../assets/javascripts/lt-palette.js" data-root="../../"></script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../claims/">Claims</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="deploying-a-trace-capturing-parsons-tool-in-two-university-courses-surfaced-recurring-difficulty-patterns-including-exception-type-misidentification-return-for-throw-confusion-and-incorrect-control-flow-ordering">Deploying a trace-capturing Parsons tool in two university courses surfaced recurring difficulty patterns including exception-type misidentification, return-for-throw confusion, and incorrect control-flow ordering<a class="headerlink" href="#deploying-a-trace-capturing-parsons-tool-in-two-university-courses-surfaced-recurring-difficulty-patterns-including-exception-type-misidentification-return-for-throw-confusion-and-incorrect-control-flow-ordering" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a><br />
+<strong>Evidence</strong> · 1 study · design <code>r2</code> · <code>q2</code><br />
+<strong>Currency</strong> · newest study 2026 · not yet checked against its sources · not reviewed by a person</p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> Analysis of behavioral traces from two university deployments identified common difficulty patterns: misidentifying exception types, confusing return with the throw/raise mechanism, and incorrect control-flow ordering. <a href="#daniel-prol-2026">→ Daniel Prol 2026</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="daniel-prol-2026">Daniel Prol 2026<a class="headerlink" href="#daniel-prol-2026" title="Permanent link">&para;</a></h3>
+<p>Daniel Prol, Juho Leinonen, Arto Hellas, Saleh Alkhamees, Amin Alipour. (2026). Pulla: A Parsons Problem Tool for Fine-Grained Behavioral Tracing and Instructor-Facing Problem-Solving Analysis. arXiv. https://arxiv.org/abs/2609.15944 <a href="https://doi.org/10.48550/arxiv.2609.15944">doi:10.48550/arxiv.2609.15944</a></p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>Classroom deployment study of the Pulla tool in two courses (68 UH students, Spring 2026; 36 Aalto students, Summer 2026) solving three exception-handling Parsons problems. The authors report that "we identified common difficulty patterns, including misidentifying exception types, confusing return with the throw/raise mechanism, and incorrect control-flow ordering."</p>
+<blockquote>
+<p>"We deployed the tool in two university courses: an upper-division software design course at the University of Houston (United States) and an introductory programming course at Aalto University (Finland). By analyzing the data collected, we identified common difficulty patterns, including misidentifying exception types, confusing return with the throw/raise mechanism, and incorrect control-flow ordering."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../control-flow-ordering-errors-context-dependent/">Control-flow ordering errors appeared across all UH problems (43–52% of incorrect attempts) but were only a secondary pattern at Aalto, with the conceptual barrier apparently shifting with problem structure</a> — a narrower finding that bears on this claim</li>
+<li><a href="../exception-type-confusion-dominant-pattern/">Exception-type confusion was the dominant difficulty pattern in SafeDivide at the University of Houston (90% of incorrect attempts) and persisted across harder problems in both deployments</a> — a narrower finding that bears on this claim</li>
+<li><a href="../return-for-raise-substitution-pattern/">Students across both deployments substituted return statements for exception-raising constructs, treating error conditions as reasons to exit early</a> — a narrower finding that bears on this claim</li>
+<li><a href="../state-revisits-rare-in-pulla-deployments/">State revisits within solving sessions were rarer in the Pulla deployments (6–12% of UH sessions, 0–3% at Aalto) than the 21–33% previously reported for similar Parsons tasks</a> — a narrower finding that bears on this claim</li>
+<li><a href="../natural-language-except-strict-code-returns/">Student specification comments are predominantly natural language, except Return statements which show a high proportion of Strict-Code expressions</a> — related</li>
+<li><a href="../trace-data-dominant-la-feedback/">Trace data is the dominant data type LA uses to support feedback in higher education (36% of coded data types)</a> — a broader claim this one bears on</li>
+<li><a href="../trace-error-patterns-misconceptions-confusion-vrts/">Error patterns in VR trace data associated with misconceptions and confusion are identified via visualization with human expert aid</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-11</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+<script src="../../assets/javascripts/lt-nav.js" data-root="../../" data-folder="claims"></script>
+</body>
+</html>

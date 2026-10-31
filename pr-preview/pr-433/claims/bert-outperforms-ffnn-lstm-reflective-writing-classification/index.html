@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Fine-tuned BERT outperforms FFNN and LSTM deep learning architectures for classifying segments of written reflections, with weighted F1 average of .82 - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<link rel="stylesheet" href="../../assets/stylesheets/lt.css">
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script src="../../assets/javascripts/lt-palette.js" data-root="../../"></script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../claims/">Claims</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="fine-tuned-bert-outperforms-ffnn-and-lstm-deep-learning-architectures-for-classifying-segments-of-written-reflections-with-weighted-f1-average-of-82">Fine-tuned BERT outperforms FFNN and LSTM deep learning architectures for classifying segments of written reflections, with weighted F1 average of .82<a class="headerlink" href="#fine-tuned-bert-outperforms-ffnn-and-lstm-deep-learning-architectures-for-classifying-segments-of-written-reflections-with-weighted-f1-average-of-82" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a><br />
+<strong>Evidence</strong> · 1 study (3 entries) · design <code>r2</code> · <code>q2</code><br />
+<strong>Currency</strong> · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly</p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> BERT achieved the highest classification performance (weighted F1 .82) compared to FFNN (.62/.64) and LSTM (.72) models on validation data. <a href="#wulff-2023">→ Wulff 2023</a>
+<code>q2 i?</code> BERT maintained its advantage under iterated k-fold cross-validation (weighted F1 .81), suggesting better generalizability than FFNN models. <a href="#wulff-2023-2">→ Wulff 2023 (2)</a>
+<code>q2 i?</code> On held-out test data, BERT achieved a weighted F1 average of .81 and Cohen's kappa of .74. <a href="#wulff-2023-3">→ Wulff 2023 (3)</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="wulff-2023">Wulff 2023<a class="headerlink" href="#wulff-2023" title="Permanent link">&para;</a></h3>
+<p>Wulff, P., Mientus, L., Nowak, A., &amp; Borowski, A. (2023). Utilizing a Pretrained Language Model (BERT) to Classify Preservice Physics Teachers' Written Reflections. International Journal of Artificial Intelligence in Education, 33, 439–466. https://doi.org/10.1007/s40593-022-00290-6</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>Grid-search-optimized models were evaluated on validation data from 270 reflections by 92 preservice physics teachers. BERT reached a "weighted F1 average of .82" while FFNNs reached .62/.64 and LSTMs .72.</p>
+<blockquote>
+<p>"Overall, BERT was the most performant model to classify segments in the written reflections according to the reflection-supporting model, with a weighted F1 average of .82. The Cohen's kappa values for the classification performance were: FFNN: 0.48, FFNN<em>: 0.48, LSTM: 0.56, LSTM</em>: 0.58, BERT (1): 0.66, BERT: 0.75."</p>
+</blockquote>
+<h3 id="wulff-2023-2">Wulff 2023 (2)<a class="headerlink" href="#wulff-2023-2" title="Permanent link">&para;</a></h3>
+<p>Wulff, P., Mientus, L., Nowak, A., &amp; Borowski, A. (2023). Utilizing a Pretrained Language Model (BERT) to Classify Preservice Physics Teachers' Written Reflections. International Journal of Artificial Intelligence in Education, 33, 439–466. https://doi.org/10.1007/s40593-022-00290-6</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>Iterated k-fold cross-validation (ten splits, iterated ten times) confirmed BERT's advantage with smaller standard deviations than FFNN models; the authors note hold-out results are "likely inflated".</p>
+<blockquote>
+<p>"The weighted F1 averages (standard deviations) for iterated k-fold cross-validation were as follows: FFNN: 0.60 (0.07), FFNN<em>: 0.57 (0.17), LSTM: 0.71 (0.02), LSTM</em>: 0.71 (0.02), BERT (1): 0.76 (0.02), BERT: 0.81 (0.02)."</p>
+</blockquote>
+<h3 id="wulff-2023-3">Wulff 2023 (3)<a class="headerlink" href="#wulff-2023-3" title="Permanent link">&para;</a></h3>
+<p>Wulff, P., Mientus, L., Nowak, A., &amp; Borowski, A. (2023). Utilizing a Pretrained Language Model (BERT) to Classify Preservice Physics Teachers' Written Reflections. International Journal of Artificial Intelligence in Education, 33, 439–466. https://doi.org/10.1007/s40593-022-00290-6</p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>The full fine-tuned BERT model was fit to held-out test data (20% of the dataset), achieving "a weighted F1 average of .81" and Cohen's kappa of .74.</p>
+<blockquote>
+<p>"When fit to the test data, BERT reached a weighted F1 average of .81. The Cohen's kappa value was .74."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../bert-cba-beats-bert-ffnn/">BERT-CBA outperformed BERT-FFNN by 6–15% on Precision@K, with t(5) = 6.56, p = .001, d = 4.64</a> — related</li>
+<li><a href="../bert-cba-beats-lstm-gru/">BERT-CBA outperformed BERT-LSTM by 4–9% and BERT-GRU by 2–10% on F1@K</a> — related</li>
+<li><a href="../bert-cba-outperforms-baselines-cross-validation/">BERT-CBA outperformed baseline tag recommendation methods on Precision@K, Recall@K, and F1@K under cross-validation</a> — related</li>
+<li><a href="../bert-encoder-layer-count-affects-classification-performance/">Reducing BERT to a single encoder layer (BERT (1)) decreases classification performance by .05 points in weighted F1 average compared to the full 12-layer model</a> — related</li>
+<li><a href="../bert-outperforms-at-20-30-percent-training-data/">BERT outperforms other models once trained on about 20 to 30% of the training data, with all performance curves flattening as training size increases</a> — related</li>
+<li><a href="../bert-best-unimodal-f1-075/">BERT was the best unimodal text classifier for Key Stage classification with an F1 score of 0.75</a> — related</li>
+<li><a href="../nlp-la-performance-kappa-accuracy-benchmarks/">NLP models in LA studies typically reach moderate agreement (mean Cohen's kappa 0.54) and mean accuracy 0.79, with deep learning models outperforming others in most studies from 2021 onward</a> — a broader claim this one bears on</li>
+<li><a href="../fine-tuned-bert-matches-human-coders-self-affirmation-essays/">A fine-tuned BERT model achieves almost perfect agreement with human coders when classifying student self-affirmation essays, matching human-human reliability</a> — related</li>
+<li><a href="../bert-fybio-outperforms-bilstm/">BERT-FYBIO, which uses post text plus annotated reading context, significantly outperforms a Bi-LSTM baseline for emoji prediction</a> — a narrower finding that bears on this claim</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-28</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+<script src="../../assets/javascripts/lt-nav.js" data-root="../../" data-folder="claims"></script>
+</body>
+</html>

@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Static Knowledge Grounding and Dynamic Personal Memory are complementary: removing both yields the largest quality degradation - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<link rel="stylesheet" href="../../assets/stylesheets/lt.css">
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script src="../../assets/javascripts/lt-palette.js" data-root="../../"></script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../claims/">Claims</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="static-knowledge-grounding-and-dynamic-personal-memory-are-complementary-removing-both-yields-the-largest-quality-degradation">Static Knowledge Grounding and Dynamic Personal Memory are complementary: removing both yields the largest quality degradation<a class="headerlink" href="#static-knowledge-grounding-and-dynamic-personal-memory-are-complementary-removing-both-yields-the-largest-quality-degradation" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a><br />
+<strong>Evidence</strong> · 1 study · causal <code>r?</code> · <code>q2</code><br />
+<strong>Currency</strong> · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly</p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> Ablation shows removing SKG mainly weakens grounding metrics while removing DPM mainly weakens Personalization and Fitness, and removing both yields the largest overall degradation. <a href="#bingxi-zhao-2026">→ Bingxi Zhao 2026</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="bingxi-zhao-2026">Bingxi Zhao 2026<a class="headerlink" href="#bingxi-zhao-2026" title="Permanent link">&para;</a></h3>
+<p>Bingxi Zhao, Jiahao Zhang, Xubin Ren, Zirui Guo, Tianzhe Chu, Yi Ma, Chao Huang. (2026). DeepTutor: Towards Agentic Personalized Tutoring. Technical Report, The University of Hong Kong. https://arxiv.org/abs/2604.26962 <a href="https://doi.org/10.48550/arxiv.2604.26962">doi:10.48550/arxiv.2604.26962</a></p>
+<p><code>q2 · i?</code> · <code>causal · r?</code></p>
+<p>Component ablation (Figure 9) of SKG, DPM, or both from the full pipeline. The article reports SKG removal drops Groundedness most, while DPM removal most sharply declines Personalization and Fitness; no standardized effect sizes are printed.</p>
+<blockquote>
+<p>"Removing DPMmainly weakens adaptation.PersonalizationandFitnessdecline most sharply, showing that the learner profile is central to gap-aware explanation and difficulty-calibrated practice; the smaller drop inGroundedness"</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../ablation-structural-components-lower-judge-scores/">Ablating expert-informed structural components lowered LLM-judge scores on all dimensions, with largest drops in challenge quality, intent alignment, and domain grounding</a> — related</li>
+<li><a href="../deeptutor-gains-stable-across-five-domains/">DeepTutor's interactive tutoring gains are stable across five university-level domains, varying only 0.16 points in overall quality</a> — related</li>
+<li><a href="../cognitive-load-module-largest-ablation-drop/">Removing the cognitive load module causes the largest ablation performance drop, while state fusion has a smaller effect</a> — related</li>
+<li><a href="../pipeline-components-complementary-ablation/">Pipeline components play complementary roles: hierarchical generation has the largest effect, grounding improves specificity and factual accuracy, and cluster-informed TOC planning improves structure and audience fit</a> — related</li>
+<li><a href="../knowledge-behavior-profile-complementary-signals/">Knowledge and behavior profile components provide complementary signals: removing either hurts metrics tied to the other</a> — related</li>
+<li><a href="../mastery-information-needed-for-adaptivity/">Removing explicit mastery information from learner profiles mainly degrades Adaptivity</a> — related</li>
+<li><a href="../verification-components-ablation-contributions/">Each pedagogical verification component contributes to a distinct quality dimension: layout verification most strongly</a> — related</li>
+<li><a href="../ablation-metadata-embeddings-largest-accuracy-drop/">Ablation study shows metadata-enriched embeddings produce the largest accuracy drop, while attention masking, KV caching and dynamic batching primarily support inference efficiency</a> — related</li>
+<li><a href="../cfkg-component-ablation-complementary/">Both CF-only and KG-only ablated variants underperform the full CF–KG model, indicating complementary behavioral and semantic signals</a> — related</li>
+<li><a href="../ablation-trust-module-largest-contribution/">Ablations show the trustworthiness module contributes most to performance, and the explanation generator cuts human review time by 41%</a> — related</li>
+<li><a href="../deeptutor-improves-interactive-tutoring-quality-10-76/">DeepTutor improves overall first-person interactive tutoring quality by 10.76% over a Naive Tutor baseline on TutorBench</a> — related</li>
+<li><a href="../ablation-simplification-ordering-transformations-most-effective/">Ablation testing shows simplification and ordering transformations contribute most to canonical reduction, while many domain-specific functions had no effect</a> — related</li>
+<li><a href="../semantic-messaging-tool-tutor-decoupling/">Semantic-level communication between tool and tutor allows changes in either component without modifying both together</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-10</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+<script src="../../assets/javascripts/lt-nav.js" data-root="../../" data-folder="claims"></script>
+</body>
+</html>

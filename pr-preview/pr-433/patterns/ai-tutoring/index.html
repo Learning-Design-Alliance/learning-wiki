@@ -1,0 +1,1843 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="A reusable policy for tutoring by software, from step-based intelligent tutoring systems to conversational AI tutors and pedagogical or teachable agents: decide how much the tutor gives away, keep the learner doing the reasoning, judge it on unaided performance rather than assisted practice, and decide when a human tutor or mentor takes over.">
+      
+      
+      
+        <link rel="canonical" href="https://wiki.learningdesignalliance.org/patterns/ai-tutoring/">
+      
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../branding/lda-monogram-dawn.svg">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.8.0">
+    
+    
+      
+        <title>AI Tutoring - Learning Design Wiki</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+    
+    
+      <link rel="stylesheet" href="../../branding/lda-theme.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#ai-tutoring" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Learning Design Wiki" class="md-header__button md-logo" aria-label="Learning Design Wiki" data-md-component="logo">
+      
+  <img src="../../branding/lda-monogram-lapis.svg" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Learning Design Wiki
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              AI Tutoring
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+    
+      <form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki" ></form><div class="md-header__source">
+        <a href="https://github.com/Learning-Design-Alliance/learning-wiki" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Learning-Design-Alliance/learning-wiki
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Learning Design Wiki" class="md-nav__button md-logo" aria-label="Learning Design Wiki" data-md-component="logo">
+      
+  <img src="../../branding/lda-monogram-lapis.svg" alt="logo">
+
+    </a>
+    Learning Design Wiki
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Learning-Design-Alliance/learning-wiki" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Learning-Design-Alliance/learning-wiki
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../situations/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Design for a Situation
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Application
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Application
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../principles/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Principles
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Patterns
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elements/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Elements
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../strategies/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Strategies
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../designs/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Designs
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../products/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Products & Programmes
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Research
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Research
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../claims/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Claims
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../theories/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Theories
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Methods
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Methods
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../processes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Design Processes
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../methods/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Design Methods
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../research-methods/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Research Methods
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    About
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    About
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evidence/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    State of the Evidence
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../checks/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    How Claims Are Checked
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../CLAUDE/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Schema & Guide
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#description-and-scope" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Description and scope
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#inputs-establish-the-design-brief" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Inputs: establish the design brief
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sequence-and-conditional-policy" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Sequence and conditional policy
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#choosing-configurations-from-evidence" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Choosing configurations from evidence
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#fitting-the-design-to-a-situation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Fitting the design to a situation
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-evidence-by-question" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The evidence by question
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#further-evidence-not-yet-read-against-this-model" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Further evidence, not yet read against this model
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#illustrative-design-instance-and-observation-record" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Illustrative design instance and observation record
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#elements-and-limits" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Elements and limits
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#claims" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Claims
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#examples" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Examples
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#related-patterns" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Related Patterns
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#key-sources" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Key Sources
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+                
+
+
+
+  
+
+
+              
+              <article class="md-content__inner md-typeset" data-pagefind-body data-pagefind-filter="kind:Pattern"><span data-pagefind-filter="tier:canonical"></span>
+                
+                  
+
+
+
+<h1 id="ai-tutoring">AI Tutoring<a class="headerlink" href="#ai-tutoring" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Pattern</strong> · <a href="../">All patterns</a><br />
+<strong>Evidence</strong> · 416 claims (185 for, 175 mixed, 56 against) · 284 studies (107 causal, 60 review, 38 design, 28 theoretical, 19 quant-synthesis, 17 associational, 15 qualitative), <code>q1</code>–<code>q4</code> · 58 of 284 report an effect size · 400 claims rest on one study</p>
+</blockquote>
+<h2 id="description-and-scope">Description and scope<a class="headerlink" href="#description-and-scope" title="Permanent link">&para;</a></h2>
+<p>Tutoring delivered by software rather than a person: step-based intelligent tutoring systems that track a learner's work on each step and give hints and feedback, and conversational tutors built on large language models that answer, question and explain in dialogue. The decisions it covers are how much the tutor gives away (answers, hints, Socratic questions), how it keeps the learner doing the thinking, how it checks understanding rather than accepting a correct-looking answer, how it guards against over-reliance and wrong answers, and when it refers the learner to a human tutor, mentor or instructor.</p>
+<p>It draws on three older literatures that conversational AI tutors inherit: <strong>pedagogical agents</strong> (animated or embodied on-screen characters that explain, model, give feedback and motivate), <strong>teachable agents</strong> (learning by teaching a computer agent that learns from the learner, as in Betty's Brain, and the protégé effect), and <strong>computer-supported collaborative learning (CSCL)</strong>, where software scripts, scaffolds or takes part in a learning conversation as a peer or partner.</p>
+<p>The study configurations below are evidence; the response-dependent policy is an <strong>untested design proposal</strong>. Use it to gather better evidence about a learner group and a tutor configuration, not to certify that a tutor "works" or that a learner has mastered something because the tutor says so.</p>
+<p><strong>What the evidence does and does not test.</strong> The wiki's strongest evidence is on <em>step-based intelligent tutoring systems</em> against conventional instruction: three meta-analyses (Ma et al. 2014, k = 107; Kulik &amp; Fletcher 2016, 50 evaluations; <a href="https://doi.org/10.1080/00461520.2011.611369">VanLehn 2011</a>) agree on a moderate advantage over classroom instruction, textbooks and other computer-based instruction and no detected difference from one-to-one human tutoring, with much smaller effects on standardized than on locally developed tests. For <em>LLM tutors</em> the wiki records a handful of randomized studies, mostly single-session and immediate: an unguarded GPT-4 interface raised practice scores and lowered later unaided exam scores, while a guardrailed tutor removed the harm without a detected gain (<a href="https://doi.org/10.1073/pnas.2422633122">Bastani et al. 2025</a>); a research-designed physics tutor beat an in-class active-learning lesson on an immediate post-test (<a href="https://doi.org/10.1038/s41598-025-97652-6">Kestin et al. 2025</a>); over five weeks, a structured tutor raised a post-test over a holdout group free to use consumer chatbots, in a small preregistered field experiment (<a href="https://doi.org/10.48550/arxiv.2609.10939">Yang et al. 2026</a>; 86 randomised, 46 analysed); and with about 2,400 adults practising GRE items, AI tutoring and expert human tutoring each beat no tutoring by similar amounts in roughly one session each (Northcutt et al. 2026). No study recorded here follows an LLM tutor across a whole course to a delayed or transfer outcome. Pedagogical-agent evidence rests largely on reviews of older multimedia experiments; teachable-agent evidence on one meta-analysis of learning by teaching and a few small studies; CSCL evidence here is two meta-analyses of collaboration scripts by one research group (Vogel et al. 2016; <a href="https://doi.org/10.1007/s11412-020-09316-4">Radkowitsch et al. 2020</a>): a small effect on domain learning and a larger one on collaboration skills, against unscripted collaboration, with no AI partner in the studies. So the configuration this page defends is narrow: a tutor that works step by step, withholds final answers by default, escalates help contingently, is judged on unaided and delayed performance, and has a named human route.</p>
+<p><a href="../mastery-learning/">Mastery learning</a> decides when a learner moves on; <a href="../self-regulated-learning/">self-regulated learning</a> concerns the learner's own planning and monitoring; <a href="../practice-with-simulated-people/">practice with simulated people</a> covers AI role-play partners and simulated patients or clients; <a href="../mentor-support-in-self-paced-online-learning/">mentor support in self-paced online learning</a> covers the human side of the handoff. This pattern is about the tutor's moves inside a task.</p>
+<h2 id="inputs-establish-the-design-brief">Inputs: establish the design brief<a class="headerlink" href="#inputs-establish-the-design-brief" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Record or elicit</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Learner and starting observation</td>
+<td>Task-specific starting knowledge (<code>novice</code>, <code>intermediate</code>, <code>advanced</code>, or <code>?</code>); an unaided attempt at a representative task, with reasoning; prior use of AI tools and how the learner says they use them (for answers, hints, checking). Preserve unknowns.</td>
+</tr>
+<tr>
+<td>Context and activities</td>
+<td>Setting and mode (<code>classroom</code>, <code>online-instructor-led</code>, <code>online-self-paced</code>, <code>workplace-clinical</code>); whether a human tutor, mentor or instructor is reachable and how fast; time per session and number of sessions; the exact tutor configuration: model or system, system prompt or tutoring rules, answer-withholding rules, hint ladder, problem-specific content given to the tutor, agent persona or voice, logging.</td>
+</tr>
+<tr>
+<td>Learner-valued goal</td>
+<td>Ask what the learner wants from the tutor (finish the assignment, pass the assessment, be able to do this at work) and why. Record disagreement with the designer objective: a learner who wants answers and a designer who wants independent skill want different tutors, and the evidence below says which one each will get.</td>
+</tr>
+<tr>
+<td>Designer objective</td>
+<td>The capability (<code>procedure</code>, <code>concept</code>, <code>complex-skill</code>, <code>judgement</code>), whether the domain is well structured (steps can be checked) or ill structured, and which aids are permitted when the capability is assessed.</td>
+</tr>
+<tr>
+<td>Outcome</td>
+<td>Separate measures for assisted performance during practice, unaided performance at the end, a delayed unaided measure and, where it matters, transfer to a changed task. Say whether the test is developed locally (close to the tutored problems) or standardized. Add a reliance or verification measure if over-reliance is a risk.</td>
+</tr>
+</tbody>
+</table>
+<p>A request to "add an AI tutor" does not specify these inputs. Ask for them before choosing a tutor configuration or predicting a gain. Check first that the tutor's answers on the course's own problems are correct: in the wiki, LLM-generated hints were wrong, too general or gave the answer away about a third of the time in one coding study, and <a href="../../claims/genai-hints-effective-but-require-validation/">expert reviewers discarded a quarter to nearly half of generated hints</a> [~M] in another. Do not take a learner's stated intention as a forecast of how they will use the tutor: among 98 adolescents, <a href="../../claims/intent-enactment-gap-genai-help-seeking/">learning-oriented intentions did not predict enacted help-seeking</a> [~M], while those who asked for "just the final answers" did request more answers. Read the log as well as asking.</p>
+<h2 id="sequence-and-conditional-policy">Sequence and conditional policy<a class="headerlink" href="#sequence-and-conditional-policy" title="Permanent link">&para;</a></h2>
+<ol>
+<li><strong>Elicit an unaided attempt first.</strong> Before the tutor opens, ask for the learner's own attempt and reasoning on a representative task. Keep it short and record it as a learning exposure. This is the baseline against which tutored practice is later read.</li>
+<li><strong>Configure the tutor for the objective, not for helpfulness.</strong> For a structured task, set the tutor to work step by step, to withhold final answers by default, and to give problem-specific hints (teacher- or designer-written content in the prompt, or a validated hint bank). Ground it in the course's own materials (slides, notes, worked solutions) and have it say which one it is drawing on; a tutor answering from general knowledge invents content (see the grounding row below). Start contingent: the least help that moves the learner, beginning with a cue or leading question, more only after a failed attempt, less after success. Do not pass identity labels about the learner (group membership, a disability or motivation label) into the tutor's prompt; personalise from the learner's work instead. Test the tutor on the course's own problems before learners see it, and do not judge it by how helpful its turns are rated: <a href="../../claims/per-turn-leakage-coupling-primary-base/">turns that leaked the answer were rated more helpful and followed by less independent work</a> [~M]. Include in that test a learner who insists on the answer: in a teacher-configured K-12 tutor, <a href="../../claims/student-pressure-shifts-ai-toward-answers/">direct requests for answers doubled the rate of direct answers (26.1% against 12.5%)</a> [~M], although the tutor kept scaffolding in most turns. Show the learner the tutor's answer or a short summary of its reasoning, not a full reasoning trace: in a preregistered experiment with 559 adults, <a href="../../claims/full-traces-impair-ai-assisted-reasoning-performance/">full traces lowered AI-assisted reasoning performance against answer-only (d = −0.54) and summary traces (d = −0.48)</a> [-M] while <a href="../../claims/trace-exposure-raises-trust-and-hedonic-appeal/">raising trust in the AI</a> [~M].</li>
+<li><strong>Tutored practice, dose by session.</strong> Early sessions (the first one or two in a unit): 20–40 minutes of tutored step-based practice with hints available and an explanation request at each step. Middle sessions: raise the threshold for help (a hint only after an attempt; no worked step without a learner explanation) and add prompts to check the tutor's claims. Late sessions: tutor off for at least one unaided practice set before the assessment. Fade per skill on the learner's own performance rather than by calendar where the tutor can track skills: in a step-based geometry tutor, <a href="../../claims/adaptive-fading-worked-examples-benefits/">fading worked steps adaptively, skill by skill, beat fixed fading and plain tutored problem solving</a> [+W] (on the delayed test in the classroom replication). Move a learner on when unaided work on a changed problem meets the agreed criterion, not when tutored practice does. The session doses are a proposal; that one claim tests fading inside a step-based tutor, and none tests a dose or a fading schedule for a conversational AI tutor.</li>
+<li><strong>Read the log, not only the score.</strong> Record what was asked (answer, hint, explanation, check), how many hints, whether the full answer was given, and how often the learner verified the tutor. Where the tutor tracks skills, read accuracy per skill, not overall: <a href="../../claims/constant-error-rate-rising-skill-correct/">overall percent correct can stay flat while each skill's accuracy rises, because later tasks are harder</a> [~M], and a skill with no rising curve points to a fault in the tutor's model of the skill, as <a href="../../claims/learning-curve-revealed-coefficient-one-flaw/">log analysis found in an algebra tutor</a> [+M] and as <a href="../../claims/datashop-model-improved-geometry-mastery/">a data-derived model that improved mastery when used to redesign a geometry unit</a> [+M] illustrates. Watch for learners who never signal confusion: in one tutor deployment <a href="../../claims/itas-behavioral-archetypes/">a "passive consumer" pattern was visible only in longitudinal analytics</a> [~M], not in any single session. Use the table below.</li>
+<li><strong>Hand off to a human on named triggers.</strong> Repeated impasse at the same step, a learner asking for the answer repeatedly, a tutor error the learner accepted, distress, or a question the tutor cannot answer. Name who takes over and how fast. As a proposed default, change approach after a second failed turn at the same impasse and hand off after about three: in 6,630 impasse turns with guided LLM tutors, <a href="../../claims/recovery-declines-with-impasse-depth/">next-turn recovery fell from 39.7% at onset to 26.2% at the third turn and 18.8% from the sixth, about 13% lower odds with each turn</a> [~M], and help-seeking impasses fell most steeply once the first help had failed (an association in logs, not a test of a trigger). Two studies recorded here support human involvement alongside software; none tests a specific trigger.</li>
+<li><strong>Reobserve unaided and later.</strong> Score an unaided, changed task at the end of the unit and again after a delay, separately from tutored practice. If tutored practice is high and unaided performance is not, treat it as a configuration problem, not as learning.</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>Observation</th>
+<th>Discriminating probe</th>
+<th>Proposed action, with its uncertainty</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tutored practice scores high, unaided scores flat or lower</td>
+<td>Compare the log: share of turns asking for the answer or receiving it; give one matched unaided item mid-unit.</td>
+<td>If answer-taking dominates, tighten answer-withholding and require an attempt before a hint. This is the pattern Bastani et al. observed with an unguarded interface; the guarded configuration removed the harm but did not show a gain, so expect no more than parity until an unaided measure shows otherwise.</td>
+</tr>
+<tr>
+<td>Learner asks for the answer repeatedly, or skips</td>
+<td>Ask what they are trying to get done and by when; check whether the task is beyond reach with the current hints; check where in the session it happens.</td>
+<td>If the task is out of reach, step back (a worked example or a simpler step) rather than release the answer. If the goal is completion under time pressure, negotiate the goal; refer to a human mentor if it persists. Expect drift: <a href="../../claims/within-session-hs-shifts-toward-closure-srl-increases/">within a session, requests shifted from conceptual and procedural help toward answers and verification</a> [~M], so hold the answer-withholding rule late in a session, not only early. Expect it most from learners who are struggling: in 482 biology students' trace data, <a href="../../claims/solution-access-differs-hints-do-not/">the lowest-scoring quartile opened worked solutions more often while hint use did not differ by quartile</a> [~M] (small effect, associational). The branch itself is untested.</td>
+</tr>
+<tr>
+<td>Learner accepts a wrong tutor answer</td>
+<td>Ask them to check the step against a source or a second method.</td>
+<td>Add a short reflection or verification prompt; warning labels alone did not reduce reliance in one study recorded here. Do not rely on learners checking unprompted: in one classroom log <a href="../../claims/instrumental-help-seeking-procedural-low-verification/">verification was 16% of requests on average and the median learner made none</a> [~M], although most had said they wanted the AI to check their understanding. Log the error and fix the tutor's content.</td>
+</tr>
+<tr>
+<td>Learner rarely asks for help but fails unaided</td>
+<td>Compare hint use with errors; ask whether they avoided help.</td>
+<td>Expect it: <a href="../../claims/students-avoid-help-seeking-despite-need/">most students in one course said they sometimes avoided asking for help when they needed it</a> [~M]. A warning that the tutor can be wrong raised hint requests in one classroom study; a metacognitive help-seeking tutor <a href="../../claims/help-tutor-improved-in-tutor-help-seeking/">improved some kinds of help-seeking</a> [~M] but <a href="../../claims/help-tutor-no-domain-learning-gains/">produced no domain learning gain</a> [~M] in another. Prompt help at impasse rather than waiting to be asked: <a href="../../claims/propact-feedback-increases-feedback-uptake/">proactive feedback raised feedback uptake</a> [+M] in a within-subjects pair-programming study, and in a randomised distance-education experiment with 120 learners a tutor that reached out raised use of <a href="../../claims/proactive-tutoring-increases-lexical-help-use/">lexical</a> [+M] and <a href="../../claims/proactive-tutoring-increases-metacognitive-help-use/">metacognitive help tools</a> [+M] whether the tutor was a person or the computer, while <a href="../../claims/no-tutoring-effect-on-conceptual-help-use/">use of the conceptual help tool did not change</a> [~M]. Still an untested branch for learning outcomes.</td>
+</tr>
+<tr>
+<td>Learner stops asking the tutor questions</td>
+<td>Look back at what the tutor answered when they did ask: relevant, correct?</td>
+<td>Route open questions to a human or a curated source and fix the tutor's grounding. In AutoTutor, answers to student questions were often irrelevant or wrong, and <a href="../../claims/autotutor-student-questions-extinguish/">student questions extinguished quickly</a> [-M].</td>
+</tr>
+<tr>
+<td>Correct with hints at the first step, stuck later</td>
+<td>Probe the later step alone.</td>
+<td>Escalate the hint ladder for that step only; change approach (address the error) rather than repeat the same question: in one tutor-log study <a href="../../claims/repeating-scripted-question-lowers-recovery/">a scripted question repeated after a failed one halved the odds of recovery</a> [-M]. If the impasse persists past about three turns, hand off (step 5).</td>
+</tr>
+<tr>
+<td>Fluent explanation in dialogue, weak on a changed problem</td>
+<td>A changed problem without the tutor.</td>
+<td>Add varied unaided practice; the dialogue may have carried the reasoning. Untested branch.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="choosing-configurations-from-evidence">Choosing configurations from evidence<a class="headerlink" href="#choosing-configurations-from-evidence" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong>Whether to expect a step-based tutor to beat ordinary instruction.</strong> <a href="../../claims/adaptive-learning-improves-outcomes/">Intelligent tutoring systems improve achievement over non-individualised instruction</a> [+S]: Ma et al. (107 effect sizes, 14,321 participants) and Kulik &amp; Fletcher (50 controlled evaluations, median 0.66 SD; random-effects g = 0.50, 95% CI [0.40, 0.59]) both find a moderate advantage. <a href="../../claims/its-meta-analysis-overall-effect-0-41/">The overall weighted effect was g = .41 under random effects</a> [+M]. <a href="../../claims/its-beats-large-group-cbi-textbooks-not-human-tutoring/">By comparator</a> [~M], tutoring systems beat large-group human instruction (g = .44), individual computer-based instruction (g = .57) and textbooks or workbooks (g = .36), but showed no significant difference from small-group (k = 4, g = .05) or individual human tutoring (k = 5, g = −.11); equivalence was not tested. In Kulik &amp; Fletcher's set, <a href="../../claims/its-beat-controls-in-92-percent-of-evaluations/">tutored students outscored controls in 46 of 50 evaluations, by more than 0.25 SD in 39</a> [+M], with <a href="../../claims/its-meta-analysis-median-es-066-sd/">a median of 0.66 SD (random-effects g = 0.50)</a> [+M]. For school STEM, <a href="../../claims/ai-personalized-stem-overall-effect-g0455/">AI-enabled personalised instruction gave g = 0.455 across 99 effects from 32 randomised trials</a> [+M]; its subgroup of <a href="../../claims/comprehensive-courses-largest-subject-effect/">comprehensive courses (g = 2.16)</a> [~M] is an outlier, not a forecast. Against no instruction at all the effect is larger, <a href="../../claims/its-versus-no-treatment-controls-g-1-23/">g = 1.23 across nine effect sizes in Ma et al.</a> [+M], which is why the comparator has to be named. Within the same classes, <a href="../../claims/tutor-practice-greater-learning-gains-than-paper/">ninth-graders gained more from tutor-based than from paper-based practice on matched problems</a> [+M] (counterbalanced, 54 students, no effect size printed).</li>
+<li><strong>Human tutoring is the ceiling to compare against, and it is lower than often said.</strong> <a href="../../claims/tutoring-effectiveness-comes-from-scaffolding-and-feedback/">Human tutoring had a medium effect over no tutoring</a> [+S]: VanLehn's review found d = 0.79 for human tutoring and d = 0.76 for step-based tutoring systems against no tutoring (abstract only). In a small study in the same claim (11 tutor–student pairs), students learned as well when tutors only prompted them to construct explanations as when tutors also explained and gave feedback, which is one reason this page defaults to eliciting rather than telling. An editorial reports a study in which <a href="../../claims/pedagogical-experts-less-deep-learning-tutoring/">pedagogically expert biology tutors who reverted to explaining produced less deep learning than more interactive tutors who scaffolded</a> [+W], and in a real programming course <a href="../../claims/elicit-agent-more-reflection-messages-lad/">an LLM agent that elicited drew more reflection messages from students than one that told</a> [+M] (a process measure, not learning). <a href="../../claims/autotutor-gains-equivalent-to-human-tutoring/">AutoTutor's gains were virtually equivalent to experienced human tutors</a> [+M] in typed or spoken physics tutoring, with no effect size printed, and <a href="../../claims/autotutor-learning-gains-0-3-to-0-8-sigma-vs-reading/">AutoTutor gains of 0.3 to 0.8 sigma over reading text for the same time</a> [+M] (<a href="../../claims/autotutor-improves-learning-one-letter-grade/">about one letter grade over reading a textbook</a> [+M], in a review's summary of a dozen experiments). Not every synthesis finds parity with human tutors: a review reports that Steenbergen-Hu and Cooper found <a href="../../claims/its-moderate-effect-less-than-human-tutoring/">tutoring systems moderately effective but less effective than human tutoring</a> [~M], while still ahead of classroom instruction, reading and homework. For LLM tutors, a randomised study of about 2,400 adults practising GRE items found <a href="../../claims/ai-human-tutoring-beat-control-gre-gains/">AI and expert human tutoring both raised gains over no tutoring</a> [+M] (AI by 6.15 percentage points, about 1.5–2 more of 27 items), <a href="../../claims/pooled-ai-tutoring-equivalent-gre-learning-gains/">pooled AI tutoring statistically equivalent to human tutoring</a> [+M] within ±0.25 SD, and <a href="../../claims/gemma-4-31b-equivalent-human-tutoring-918x-cheaper/">one open model individually equivalent to the human tutors at far lower cost</a> [+M]; but <a href="../../claims/best-ai-tutors-lead-quantitative-not-verbal-domains/">human tutors stayed ahead of the pooled AI tutors in every verbal domain, while the best AI tutors led in quantitative ones</a> [~M] (descriptive). That was roughly one session per learner on an immediate test. So "as good as a human tutor" is not a safe forecast; "better than the usual alternative" is the safer one.</li>
+<li><strong>The test decides the size of the effect.</strong> <a href="../../claims/test-type-moderates-its-effects/">Effects were large on locally developed tests and small on standardized ones</a> [~M]: average ES 0.73 against 0.13 (g 0.62 against 0.09) across Kulik &amp; Fletcher's evaluations. Plan an outcome that is not written by the tutor's designers, or expect a smaller effect on it. <a href="../../claims/darpa-digital-tutor-largest-its-effects/">The largest effects in that set</a> [+M] (ES 1.97 and 3.18) came from one system for Navy technicians compared with longer classroom courses on locally developed tests; they are outliers, not a forecast. The same gap shows within one system: Cognitive Tutor Algebra students <a href="../../claims/cognitive-tutor-algebra-standardized-test-advantage/">outscored peers by about 0.3 SD on standardized tests and by 0.7 to 1.2 SD on problem-solving tests</a> [~W], and a teacher-comparison study in Moore, Oklahoma, which met What Works Clearinghouse standards, <a href="../../claims/cognitive-tutor-moore-oklahoma-outcomes/">found about 0.4 SD on a standardized end-of-course test</a> [+M]. For LLM hints in a non-randomised physics course, <a href="../../claims/ai-hints-aligned-exam-performance-only/">hint use was associated with exam performance only on items that matched the homework</a> [~M]. Whether the AI is allowed in the test matters as much: in a meta-analysis of generative AI in programming education, <a href="../../claims/exam-environment-moderates-genai-learning-effects/">the learning effect was g = 0.76 when AI tools were permitted in the assessment and g = −0.06 (not significant) when they were not</a> [~M] (11 effect sizes). And short-term gains can fade: <a href="../../claims/air-tutors-short-term-gains-did-not-persist/">benchmark gains from one tutoring programme did not persist to statewide mathematics tests a year later</a> [~M] (a matched-comparison evaluation; its claim page does not describe an AI tutor).</li>
+<li><strong>An unguarded LLM tutor can raise practice and lower learning.</strong> In a randomized trial with nearly a thousand high-school mathematics students (2,848 observations), <a href="../../claims/gpt-base-improves-assisted-practice-performance/">a standard GPT-4 interface raised assisted practice scores by 0.137 (out of 1) over a textbook-only control mean of 0.28</a> [~M], and <a href="../../claims/gpt-base-harms-unassisted-exam-performance/">lowered the later unaided exam by 0.054, about 17% of the control mean</a> [-M]. <a href="../../claims/gpt-tutor-improves-practice-more-than-gpt-base/">A guardrailed tutor with teacher-designed, problem-specific hints raised practice more (0.361)</a> [+M] and <a href="../../claims/gpt-tutor-exam-effect-null/">removed the exam harm (−0.004, not significant) without a detected exam gain</a> [~M]. In a separate experiment, <a href="../../claims/persistence-costs-concentrated-among-direct-solution-users/">costs concentrated among participants who used the AI for direct solutions</a> [-M] (61% of the AI group; d = −0.36 against controls on later solving, cross-sectional within the AI arm), while hint users resembled controls.</li>
+<li><strong>A research-designed LLM tutor against active learning.</strong> In a crossover randomized trial in an undergraduate physics course, <a href="../../claims/ai-tutor-beats-active-learning-post-test/">students learned more from an AI tutor than from an in-class active-learning lesson on the same content</a> [+M] (median post-test 4.5 against 3.5; N = 142 and 174), <a href="../../claims/ai-tutor-regression-large-effect-size/">a regression effect of 0.63 after controls, which the authors call an underestimate because of a ceiling</a> [+M], in <a href="../../claims/ai-tutor-less-time-on-task/">a median of 49 minutes against a 60-minute class</a> [+M], with <a href="../../claims/ai-tutor-advantage-holds-subpopulations/">the advantage holding above and below 40% on the pre-test concept inventory</a> [+M] and <a href="../../claims/ai-tutor-engagement-motivation-higher/">higher self-reported engagement (4.1 against 3.6 of 5) and motivation</a> [+M]. The outcome was an immediate post-test of one lesson; the trial says nothing about retention or a whole course. Over five weeks, in a preregistered field experiment, <a href="../../claims/structured-ai-tutor-raises-post-test-scores-field-experiment/">students randomised to a structured AI tutor scored about 6.6 points higher on a 55-point post-test than holdout peers</a> [+M] (46 analysed of 86 randomised), and <a href="../../claims/ambient-consumer-ai-did-not-close-tutor-gap/">the advantage held although 21–42% of the holdout used consumer chatbots in any week</a> [+M]: the comparison was a structured tutor against the chatbots learners already have. Within the same students, <a href="../../claims/voice-text-mastery-equivalent-interaction-transformed/">voice and text weeks gave statistically equivalent weekly mastery, while voice roughly doubled turns and questions at 2.8 times the cost</a> [~M].</li>
+<li><strong>Answer-giving is not always worse on an immediate test, which is why the horizon matters.</strong> In a 50-person experiment, <a href="../../claims/unrestricted-chatbot-higher-learning-delta-than-socratic-and-adaptive/">an unrestricted chatbot produced larger immediate learning deltas than a Socratic chatbot (d = 0.80) or an adaptive exercise system (d = 0.85)</a> [~M]; in a proctored experiment with 211 undergraduates, <a href="../../claims/genai-access-raises-immediate-test-scores/">any generative AI during a 35-minute learning phase raised an immediate unaided test by 7.2 points (0.28 SD)</a> [+M]. In writing, <a href="../../claims/genai-supported-performance-independent-divergence/">open AI collaboration gave the best supported writing and bounded support the best independent Week 8 writing</a> [~M]; in creativity, <a href="../../claims/chatgpt-free-use-originality-gains-vanish-unassisted/">free ChatGPT use raised originality on the assisted task (d = 0.79) and the advantage vanished unaided (d = 0.04)</a> [~M], and in another randomised experiment <a href="../../claims/chatgpt-improves-quality-elaboration-originality-pit/">ChatGPT raised the quality and originality of solutions to an ill-defined problem</a> [+M], measured on the assisted task only. Not every unaided measure falls: in a preregistered online experiment with 2,238 adults, <a href="../../claims/ai-practice-improved-writing-skill-persisted-one-day/">practising cover letters with an AI tool improved later writing without AI (d = .38 against practice without AI), and the gain held a day later</a> [+M], although <a href="../../claims/ai-practice-less-effortful-fewer-keystrokes/">the AI group spent less time and typed about a quarter as many keystrokes</a> [~M]; the practice followed a lesson on five writing principles, and the horizon was one day. In peer feedback, <a href="../../claims/genai-performance-gains-diminish-without-assistance/">gains with AI assistance diminished once it was removed</a> [-M] and <a href="../../claims/ai-assistance-peer-feedback-overreliance/">students struggled to do the task alone</a> [-M] (one study, reported by two sources). The syntheses agree that the pooled number mostly measures assisted performance: <a href="../../claims/genai-meta-analysis-g-0-7-performance-not-learning/">a meta-analytic g = 0.7 for generative AI is argued to be task success rather than learning</a> [~M]; a STEM meta-analysis had <a href="../../claims/genai-learning-effects-heterogeneous-conditional/">extreme heterogeneity (I² = 96%), a prediction interval spanning harm to benefit, and no overall effect after adjusting for publication bias</a> [~M]; and in a meta-analysis of 29 experiments on higher-order thinking <a href="../../claims/genai-instructional-method-moderator/">instructional method did not significantly moderate the effect</a> [~M]. Read immediate gains as provisional until a delayed unaided measure agrees.</li>
+<li><strong>Contingent help, and how much to give away.</strong> <a href="../../claims/scaffolding-improves-learning/">Computer-based scaffolding showed g = 0.46 across 144 STEM studies</a> [+S], and <a href="../../claims/contingent-scaffolding-improves-learning/">contingent scaffolding beat fixed or absent support</a> [+M] in small tutoring studies. In an LLM tutor comparison, <a href="../../claims/contingent-scaffolding-surrenders-full-answer-least/">a tutor that escalated and faded on what the learner did gave away the full answer in one session in sixteen, against one in six for a question-only tutor and three in five for an answer-giving one</a> [+M]. <a href="../../claims/leakage-reduces-next-turn-independence-all-bases/">Answer-revealing turns were followed by less independent student work on every tutor model tested</a> [-M]. In a logic tutor with 113 undergraduates, <a href="../../claims/adaptive-icap-scaffolding-improves-posttest-logic-tutor/">adaptive scaffolding policies beat a non-adaptive control on the post-test</a> [+M]. How a model is trained changes how much it gives away, though these results are benchmark or simulated-student evaluations with no learners: <a href="../../claims/tactutor-guardrail-flags-improve-accept-leak/">guardrail post-training cut leak-or-overhelp turns from 0.35 to 0.03</a> [+M], and <a href="../../claims/grpo-without-directness-raises-socratic-scaffolding-effectiveness/">reinforcement-learning alignment without a directness reward cut leakage from 27% to 13% and raised Socratic scaffolding</a> [+M], but in another tutor <a href="../../claims/alignment-shifts-mkt-collapse-exploratory-surge/">alignment collapsed teaching-knowledge explanations from 18% to 6.5% of sentences</a> [~M] in favour of questions. A tutor tuned only to withhold can stop explaining; test both. A live deployment shows the same trade with learners: in a K-12 mathematics tutor, <a href="../../claims/math-agent-guidance-limit-tradeoff/">removing a verbose guidance section cut answer giveaways by about 85% and cognitive engagement by about 18%</a> [~M].</li>
+<li><strong>Feedback content.</strong> <a href="../../claims/feedback-improves-learning/">Feedback averages d = 0.48 (435 studies) but more than a third of feedback interventions in an older meta-analysis reduced performance</a> [~S]; information-rich feedback is the moderator. <a href="../../claims/feedback-praise-reduces-learning/">Praise for intelligence after success undermined later persistence</a> [-S], so a tutor's encouragement should name the process, not the person. <a href="../../claims/chatgpt-hints-significant-gains-versus-control/">ChatGPT-generated hints produced significant gains over no hints</a> [+M] in an online algebra experiment (N = 274, crowd workers), but <a href="../../claims/gpt4-feedback-66-percent-targeted-35-percent-flawed/">GPT-4 feedback was targeted for 66% of errors and too general, wrong or answer-revealing for about 35%</a> [~M], and on real student data <a href="../../claims/gpt-feedback-passes-automated-helpfulness-35-percent/">it passed simulated-student helpfulness checks only about 35% of the time</a> [-M]. Two results support the default of cueing before telling and of giving feedback during the step: a review of human tutoring reports that <a href="../../claims/subtle-cueing-feedback-higher-impact/">cueing with leading questions tends to have higher impact than other feedback</a> [+M], and within one adaptive tutor <a href="../../claims/real-time-feedback-its-solo-progression-advantage/">adding automated real-time feedback improved learners' progression on a four-level understanding scale (d = 0.73, as a review reports it)</a> [+M]. "During the step" need not mean "at the first error": in a randomised spreadsheet-tutor experiment, <a href="../../claims/intelligent-novice-error-correction-better-transfer/">a tutor that let learners notice and correct their own errors before stepping in gave better delayed transfer (74% against 60%) than one that flagged each error at once</a> [~M]. Hints need not come from an LLM: <a href="../../claims/hint-factory-mdp-hints-effective/">hints derived from past students' solution paths were correct over 80% of the time, and logic students solved more proofs with them in a pilot</a> [+W] (as a review reports it). For second-language writing, <a href="../../claims/gpt4-feedback-no-superior-linguistic-progress-enl/">GPT-4 feedback and human tutor feedback produced no detected difference in progress over six weeks</a> [~M] (48 students, quasi-experimental; equivalence not tested). Emotional support is not a substitute for cognitive help, nor has it been shown to add to it: in a classroom experiment with 42 seventh-graders, <a href="../../claims/its-reduces-executive-state-ma-improves-algebra/">an LLM giving mindful, reflective support and one giving cognitive support produced the same algebra gains and the same fall in maths anxiety</a> [~M].</li>
+<li><strong>Over-reliance is not fixed by a warning.</strong> <a href="../../claims/reflection-reduces-incorrect-ai-advice-acceptance/">A brief metacognitive reflection prompt cut acceptance of incorrect AI advice (62.4% to 39.7%; OR = 0.40)</a> [+M], whereas <a href="../../claims/genai-warning-labels-insufficient-reliance/">warning labels alone did not reduce reliance</a> [-M] in the medical-education studies a review reports. Learners can spot an error and follow the system anyway: <a href="../../claims/surface-validation-works-substantive-validation-fails/">80.7% detected flawed recommendations yet deferred</a> [-M]; <a href="../../claims/checking-coexists-with-unresolved-error-zhang/">7 of 15 students failed a task with plausible falsehoods despite checking</a> [-M]. Where verification was measured, <a href="../../claims/checking-ai-claims-predicts-gains/">checking the AI's claims against sources predicted gains</a> [+M]; within a randomised trial with 318 university students, <a href="../../claims/proactive-critical-ai-engagement-higher-exam-scores/">trying first, verifying and correcting the AI's errors were associated with higher exam scores, and copying its solutions was not</a> [+M] (an association within the AI arm, not a randomised contrast of behaviours). The reflection prompt worked selectively: <a href="../../claims/reflection-selective-not-blanket-ai-rejection/">students kept following correct advice and rejected more incorrect advice</a> [+M]. In the same study, <a href="../../claims/chatgpt-support-increases-final-confidence/">open ChatGPT support raised students' final confidence over deciding alone, and reflection reduced the boost</a> [~M]. How the tutor presents itself moves trust more than accuracy: <a href="../../claims/trace-exposure-raises-trust-and-hedonic-appeal/">full reasoning traces raised trust without raising performance</a> [~M], and a review reports that <a href="../../claims/calibration-gap-configuration-dependent/">users' confidence in model answers exceeded the models' own, and explanations reflecting the model's confidence narrowed the gap</a> [+W], so have the tutor state its uncertainty. A short AI-literacy intervention did not stop the reverse problem, <a href="../../claims/intervention-did-not-reduce-error-propagation/">an assistant carrying the user's own errors into its advice</a> [~M] (60 participants; a null test, not equivalence); test the tutor for agreeing with a learner's wrong step.</li>
+<li><strong>Guided prompting of the learner's AI use.</strong> <a href="../../claims/structured-prompting-improves-open-ended-ai-learning/">Theory-guided five-step prompting improved open-ended explanations over unprompted AI access and slides</a> [+M] (95 undergraduates, construction engineering; 12.41 against 10.45 and 9.68).</li>
+<li><strong>Human in the loop.</strong> In a preregistered randomized trial with about 900 tutors, <a href="../../claims/tutor-copilot-raises-exit-ticket-mastery-4pp/">students whose human tutors had real-time AI suggestions were 4 percentage points more likely to master the session's topic</a> [+S] (9 points for students of lower-rated tutors, per a review). In a quasi-experiment with 635 middle-school students, <a href="../../claims/human-ai-tutoring-improves-map-growth-over-ai-only/">adding human tutors to AI tutoring raised relative MAP growth by 61% within the analysis bandwidth</a> [+M] (the full-sample 26% was not significant) and <a href="../../claims/human-ai-tutoring-increases-time-on-task/">time on task by 25%</a> [+M]. Within that study, sending human tutors proactively to lower-performing students is not yet shown to beat letting students call for help: <a href="../../claims/didc-cutoff-null-proactive-benefit-increases-below-cutoff/">at the assignment cutoff the proactive and reactive groups did not differ significantly</a> [~M], and <a href="../../claims/human-ai-tutoring-skill-proficiency-gap-widens/">skill proficiency rose in both while the gap between them widened, in favour of the reactive group</a> [~M], which started higher.</li>
+<li><strong>Pedagogical agents: the content and the voice matter more than the face.</strong> A review reports that <a href="../../claims/pedagogical-agents-enhance-learning/">a meta-analysis of 43 studies found agents enhance learning against no agent</a> [+M] (no effect size printed). <a href="../../claims/autotutor-content-matters-not-talking-head/">AutoTutor's talking head added little beyond the content of the dialogue</a> [~M]; <a href="../../claims/agent-effects-due-to-voice-not-visual-presence/">effects are attributed mainly to the agent's voice</a> [~M], with transfer rather than recall improved; <a href="../../claims/apa-appearance-null-effect/">iconic and realistic appearance did not differ</a> [~M]. In one 2×2 experiment with 72 undergraduates, <a href="../../claims/high-competency-pal-improves-application/">a high-competency learning companion improved application (d = 0.46)</a> [+M], <a href="../../claims/low-competency-pal-raises-self-efficacy/">a low-competency one raised self-efficacy (d = 0.49)</a> [~M], and <a href="../../claims/proactive-pal-improves-recall/">a proactive companion improved recall over a responsive one (d = 0.78)</a> [+M]; <a href="../../claims/high-competency-pal-more-positive-attitudes/">the high-competency companion was also liked more (d = 0.91)</a> [+M], and <a href="../../claims/responsive-pal-no-attitude-benefit-no-interaction/">a responsive companion did not improve attitudes</a> [~M]. Reviews of older agent studies add that <a href="../../claims/animated-persona-and-voice-effects/">animated personas beat static ones and the voice contributes, sometimes more than the animation</a> [+M]; that <a href="../../claims/apa-affective-gain-stronger-than-cognitive/">gains are clearer for motivation than for learning</a> [~M]; that <a href="../../claims/no-evidence-mere-visual-presence-social-cue-hypothesis/">mere human-like presence shows no effect, while likeable agents raised motivation and transfer</a> [~M]; that <a href="../../claims/nonverbal-effects-depend-on-task-type/">facial expressions helped attitudinal learning but hurt procedural learning</a> [~M]; and that <a href="../../claims/speech-gesture-redundancy-better/">speech and gesture saying the same thing aided recall more than complementary ones</a> [+M]. One review reports that <a href="../../claims/same-ethnicity-agents-more-credible/">students rated agents of their own ethnicity as more credible and engaging, while agent ethnicity did not change learning in another study</a> [~W]. More agents are not better: <a href="../../claims/second-agent-increases-cognitive-load-writing/">adding a second writing agent raised reported overload</a> [~M]. The most recent meta-analysis in the wiki puts the overall benefit low: <a href="../../claims/pedagogical-agents-small-overall-learning-benefit/">learning with a multimedia agent beat learning without one by g+ = 0.20</a> [+M] (32 effect sizes, N = 2,104), <a href="../../claims/2d-agents-tend-more-effective-than-3d/">2D agents tended to do better than 3D ones (g+ = 0.38 against 0.11)</a> [~M], and <a href="../../claims/agent-characteristics-mostly-not-moderators/">most agent features, including gesture, motion and voice, did not moderate the effect</a> [~M]. So budget for the dialogue, not the character.</li>
+<li><strong>Teachable agents and learning by teaching.</strong> <a href="../../claims/learning-by-teaching-improves-tutor-learning/">Preparing to teach and then teaching gave g = 0.56 across 28 studies, larger when the teaching was interactive</a> [+S]. <a href="../../claims/ta-improves-basic-and-added-value-gains-fourth-grade/">Adding a teachable agent to a fourth-grade science kit improved gains on curriculum and reasoning tests (d = 1.1 and 0.93)</a> [+M] in a two-year quasi-experiment with seven classrooms. With an LLM, <a href="../../claims/chatgpt-teachable-agent-knowledge-gains/">students who taught a ChatGPT agent outscored a video group on knowledge</a> [+M] (n = 20 and 21; the printed η² = 0.74 overstates an effect the paper's own figures put nearer d ≈ 0.7) but <a href="../../claims/chatgpt-teachable-agent-no-correctness-gain/">not on code correctness</a> [~M], though <a href="../../claims/chatgpt-teachable-agent-code-clearness-readability/">scored higher on code clarity and readability</a> [+M] (low rigour, small groups). Betty's Brain, the best-studied teachable-agent system, shows why a teachable agent needs its own monitoring: in one classroom study <a href="../../claims/betty-brain-classroom-performance-dichotomy/">18 of 40 students made very little progress teaching Betty while 16 taught a correct or nearly correct map</a> [~W], in a video study <a href="../../claims/betty-brain-feedback-ignored-77-percent/">77% of the feedback from Betty and the mentor agent was ignored</a> [-W], and <a href="../../claims/more-successful-students-higher-gains-focused-actions/">students who succeeded combined reading, map editing and quizzing in focused sequences and gained more</a> [~W] (associational). Scaffolding inside the agent changes what learners do before it changes what they learn: in a four-hour Betty's Brain study, <a href="../../claims/scaffolding-alters-strategy-use-not-learning-gains/">three scaffolding conditions produced different strategy use but no difference in learning gains</a> [~M]. The protégé effect itself has no claim of its own in the wiki.</li>
+<li><strong>Collaboration scripts and AI in groups.</strong> Scripting who does what in a collaboration helps: <a href="../../claims/cscl-scripts-small-positive-domain-learning-effect/">CSCL scripts raised domain learning over unscripted collaboration</a> [+M] (d = 0.20 across 33 effects in Vogel et al.; g = 0.24 across 54 independent effects in Radkowitsch et al., the later and larger pool from the same group), with <a href="../../claims/cscl-scripts-large-effect-collaboration-skills/">a larger effect on collaboration skills</a> [+M] (d = 0.95, 0.65 without two outliers; <a href="../../claims/cscl-scripts-medium-positive-collaboration-skills-effect/">g = 0.72 in the update</a> [+M]) and <a href="../../claims/cscl-scripts-motivation-non-significant-meta-analysis/">no significant effect on motivation (g = 0.13)</a> [~M]; <a href="../../claims/further-moderators-discipline-duration-measurement-level/">only subject discipline moderated the effect on collaboration skills, and study duration did not</a> [~M]. An AI partner that runs a script inherits this evidence only by analogy: none of these studies had one. The nearest test recorded here is one experiment, reported by journal editors, in which <a href="../../claims/conversational-agent-prompts-improve-individual-and-dyad-outcomes/">a conversational agent's prompts improved outcomes for computer-science students individually and for each pair as a whole</a> [+W] (no effect size printed), while <a href="../../claims/agent-interruptions-perceived-disruption-varies/">students found its automatic interruptions disruptive and reacted to them differently</a> [~W]. In the collaboration-scripts moderator analyses, <a href="../../claims/transactivity-moderator-not-significant/">prompting transactive activities</a> [~M], <a href="../../claims/script-level-moderator-not-significant/">the script level</a> [~M] and <a href="../../claims/content-support-moderator-not-significant/">extra content support</a> [~M] did not significantly moderate effects, but each test had low power (8–16%), so "no detected difference" is not "no difference". In a preregistered online experiment (315 participants), <a href="../../claims/tutor-plus-peers-strongest-unassisted-math-accuracy/">a tutor plus LLM peers produced the highest unaided accuracy (about 65% against 42% for control)</a> [+M]; <a href="../../claims/tutor-alone-significant-peers-alone-not-math/">the tutor alone also beat control, while error-making LLM peers alone did not reach significance</a> [~M] (exploratory pairwise tests), so the tutor carries most of that result.</li>
+</ul>
+<p>Do not rank these results against one another: comparators (no tutoring, textbooks, classroom instruction, active learning, an unguarded chatbot), outcomes (practice, immediate unaided, standardized, transfer) and learners differ. A precise abstention names the missing comparison, outcome or observation and the next way to resolve it.</p>
+<h2 id="fitting-the-design-to-a-situation">Fitting the design to a situation<a class="headerlink" href="#fitting-the-design-to-a-situation" title="Permanent link">&para;</a></h2>
+<p>Ask for four facts when the brief omits them: <strong>is the task structured enough for the tutor to check each step?</strong>, <strong>what is assessed, with what aids, and when (immediately, at the end of the course, later at work)?</strong>, <strong>is a human tutor, mentor or instructor reachable, and how quickly?</strong>, and <strong>what will the tutor actually say, tested on the course's own problems?</strong></p>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Learners are novices in the domain</td>
+<td>Step-based tutoring with contingent hints and worked steps available; a coach or tutor agent rather than open chat</td>
+<td><a href="../../claims/agents-most-effective-novice-learners/">Agents as coaches and tutors are most useful with novices</a> [~M]; <a href="../../claims/expertise-reversal-effect/">Guidance that helps novices becomes redundant with expertise</a> [~S]</td>
+</tr>
+<tr>
+<td>Learners are already competent and practising for fluency or transfer</td>
+<td>Reduce step-level hinting; use the tutor for challenge problems, explanation checking or as a learner to teach</td>
+<td><a href="../../claims/expertise-reversal-effect/">Guidance that helps novices becomes redundant with expertise</a> [~S]; <a href="../../claims/learning-by-teaching-improves-tutor-learning/">Learning by teaching</a> [+S]</td>
+</tr>
+<tr>
+<td>Adult or professional learners (higher education, workforce)</td>
+<td>Keep the answer-withholding default; most LLM-tutor trials recorded here were undergraduates or high-school students, and the harm-after-withdrawal result was in high school. Leave decisions with the learner: adult learners asked for AI that points to what to improve rather than giving the final answer</td>
+<td><a href="../../claims/gpt-base-harms-unassisted-exam-performance/">GPT-4 access harmed the unaided exam</a> [-M] (high school); <a href="../../claims/ai-tutor-beats-active-learning-post-test/">AI tutor beat active learning</a> [+M] (undergraduates); <a href="../../claims/its-vet-foster-declarative-procedural-knowledge/">ITS fostered declarative and procedural knowledge in vocational education</a> [+M] (systematic review, no pooled effect); <a href="../../claims/human-in-the-loop-ai-design-pf/">adult learners want human-in-the-loop AI</a> [+M] (focus groups)</td>
+</tr>
+<tr>
+<td>Children or young adolescents</td>
+<td>Prefer a structured tutor or teachable agent with teacher oversight to open chat; test the tutor's safety over long multi-turn conversations and against requests to cheat, not only single prompts, and do not rely on an off-the-shelf safety filter</td>
+<td><a href="../../claims/ta-improves-basic-and-added-value-gains-fourth-grade/">Teachable agent improved fourth-graders' science reasoning</a> [+M]; <a href="../../claims/ai-fallibility-warning-increases-help-seeking/">warning about AI mistakes raised seventh-graders' hint requests</a> [+M]; <a href="../../claims/dynamic-multi-turn-amplifies-conventional-risks/">multi-turn interactions raised attack success on conventional risks three to five times</a> [-M] and <a href="../../claims/llama-guard-failure-cases-subtle-education-risks/">safety classifiers passed exam-answer and cheating requests as safe</a> [-M] (model evaluations, no learners)</td>
+</tr>
+<tr>
+<td>The goal is a procedure in a well-structured domain (mathematics, physics problems, programming)</td>
+<td>A step-based tutor with problem-specific hints written or checked by a teacher</td>
+<td><a href="../../claims/gpt-tutor-improves-practice-more-than-gpt-base/">Guardrailed tutor with teacher-designed hints</a> [+M]; <a href="../../claims/adaptive-learning-improves-outcomes/">ITS improve achievement</a> [+S]; <a href="../../claims/its-improve-outcomes-structured-domains/">ITS help especially where knowledge is structured</a> [+M] (review, no effect size)</td>
+</tr>
+<tr>
+<td>The goal is an ill-structured judgement (writing, design, ethics, clinical reasoning)</td>
+<td>Use the tutor for questioning and critique of the learner's draft, not for producing it; unlock the AI only after the learner's own attempt; an AI-improved version of the learner's own practice draft, after the attempt, can teach; assess independent work</td>
+<td><a href="../../claims/engage-to-unlock-lower-ai-text-coverage/">Requiring engagement before the AI unlocked cut verbatim AI text in final essays (27% against 47%, d = −0.47)</a> [+M]; <a href="../../claims/ai-practice-improved-writing-skill-persisted-one-day/">AI-assisted cover-letter practice improved unaided writing a day later</a> [+M] (after a lesson on the principles); <a href="../../claims/genai-supported-performance-independent-divergence/">Bounded support gave the best independent writing</a> [~M]; <a href="../../claims/chatgpt-free-use-originality-gains-vanish-unassisted/">originality gains vanished unaided</a> [~M]; <a href="../../claims/llm-group-worse-neural-linguistic-scoring-four-sessions/">an LLM-assisted essay group did worse than a no-tool group across four sessions</a> [-M] (small preprint, 18 completed the fourth session); <a href="../../claims/genai-scaffolded-augments-human-judgment-design-thinking/">scaffolded GenAI augmented rather than replaced judgement in a design-thinking course</a> [+M] (student reflections)</td>
+</tr>
+<tr>
+<td>The assessment is unaided, or delayed, or at work</td>
+<td>Schedule tutor-off practice before it; measure unaided performance separately from tutored practice; do not forecast from studies whose test allowed the AI</td>
+<td><a href="../../claims/gpt-base-harms-unassisted-exam-performance/">Practice up, unaided exam down</a> [-M]; <a href="../../claims/test-type-moderates-its-effects/">Effects small on standardized tests</a> [~M]; <a href="../../claims/exam-environment-moderates-genai-learning-effects/">g = 0.76 with AI allowed in the test, −0.06 without</a> [~M] (programming)</td>
+</tr>
+<tr>
+<td>Online self-paced or asynchronous, no instructor watching</td>
+<td>Answer-withholding by default, a hint ladder, logged reliance signals, and a named human handoff with a response time; add reflection prompts before accepting the tutor's answer</td>
+<td><a href="../../claims/reflection-reduces-incorrect-ai-advice-acceptance/">Reflection prompt cut acceptance of wrong advice</a> [+M]; <a href="../../claims/human-ai-tutoring-improves-map-growth-over-ai-only/">Human-AI tutoring raised MAP growth over AI alone</a> [+M]</td>
+</tr>
+<tr>
+<td>Learners will use a general chatbot anyway</td>
+<td>Offer a structured tutor as well, and teach a structured way to use any chatbot (attempt first, ask for hints, check claims) rather than relying on a warning; make the learner's own reliance visible to them</td>
+<td><a href="../../claims/ambient-consumer-ai-did-not-close-tutor-gap/">A structured tutor beat a holdout group that freely used consumer chatbots, over five weeks</a> [+M] (small field experiment); <a href="../../claims/structured-prompting-improves-open-ended-ai-learning/">Structured prompting improved explanations; unprompted access did not</a> [+M]; <a href="../../claims/genai-warning-labels-insufficient-reliance/">warning labels insufficient</a> [-M]; <a href="../../claims/reliance-awareness-most-valued-outcome/">students named awareness of their reliance as the most useful outcome</a> [+M] (six interviews, programming course)</td>
+</tr>
+<tr>
+<td>Short time: one session or a single lesson</td>
+<td>A research-designed tutor can replace a lesson for an immediate outcome; do not extrapolate to a course</td>
+<td><a href="../../claims/ai-tutor-less-time-on-task/">AI tutor beat active learning in less time</a> [+M] (one lesson, immediate test)</td>
+</tr>
+<tr>
+<td>A course of many weeks</td>
+<td>Fade tutor help across sessions on each learner's performance, add tutor-off checkpoints, and plan the curriculum the tutor follows rather than leaving it to the tutor; no claim here follows an LLM tutor over a course with real learners</td>
+<td><a href="../../claims/adaptive-fading-worked-examples-benefits/">Adaptive fading beat fixed fading in a step-based tutor</a> [+W]; <a href="../../claims/educlaw-bench-plateau-within-days/">tutoring agents' simulated students plateaued within 5–10 of 30 days, mostly for lack of a curriculum</a> [-M] (simulated learners only)</td>
+</tr>
+<tr>
+<td>Human tutors or mentors are available but stretched</td>
+<td>Give them AI suggestions in real time. Routing learners below a threshold to proactive human contact is plausible but not shown to beat on-request help; if you do it, compare the two</td>
+<td><a href="../../claims/tutor-copilot-raises-exit-ticket-mastery-4pp/">Tutor CoPilot raised mastery 4 points</a> [+S]; <a href="../../claims/proactive-tutoring-larger-relative-map-growth/">Proactive tutoring had larger relative growth</a> [~M]; <a href="../../claims/didc-cutoff-null-proactive-benefit-increases-below-cutoff/">no significant proactive–reactive difference at the cutoff</a> [~M]</td>
+</tr>
+<tr>
+<td>No human is available at all</td>
+<td>Narrow the tutor's scope to checkable tasks and accept that it may underperform a human at helping</td>
+<td><a href="../../claims/conversational-agents-behind-human-helping-students/">Conversational agents were well behind humans at helping the student</a> [~M]</td>
+</tr>
+<tr>
+<td>High stakes (certification, patient or client safety)</td>
+<td>Do not let the tutor's judgement of mastery stand alone; validate its content and its errors, and assess with a human-scored or proctored task</td>
+<td><a href="../../claims/gpt4-feedback-66-percent-targeted-35-percent-flawed/">GPT-4 feedback flawed in about 35% of hints</a> [~M]; <a href="../../claims/genai-hallucination-convincing-incorrect-explanations/">convincing incorrect explanations</a> [-M]</td>
+</tr>
+<tr>
+<td>A voice tutor is planned instead of text</td>
+<td>Choose voice to buy engagement and questioning, text to buy the same measured mastery for less; measure both if it matters</td>
+<td><a href="../../claims/voice-text-mastery-equivalent-interaction-transformed/">Voice and text gave equivalent weekly mastery; voice doubled turns and questions at 2.8 times the cost</a> [~M] (within-student, one five-week field experiment)</td>
+</tr>
+<tr>
+<td>Learners writing in a second language want feedback on drafts</td>
+<td>AI feedback can extend a human tutor's feedback; keep the human for follow-up questions and spoken practice, and measure progress rather than assuming parity</td>
+<td><a href="../../claims/gpt4-feedback-no-superior-linguistic-progress-enl/">GPT-4 and human tutor feedback produced no detected difference over six weeks</a> [~M] (equivalence not tested); <a href="../../claims/human-feedback-preference-face-to-face-reasons/">students preferring the human cited follow-up questions and speaking practice</a> [~M]</td>
+</tr>
+<tr>
+<td>An animated or avatar agent is planned</td>
+<td>Spend effort on what the agent says and its voice before its face; avoid adding visual load on complex content</td>
+<td><a href="../../claims/autotutor-content-matters-not-talking-head/">Talking head added little</a> [~M]; <a href="../../claims/agent-effects-due-to-voice-not-visual-presence/">voice, not visual presence</a> [~M]; <a href="../../claims/apa-visual-channel-overload/">visual-channel overload</a> [-M]</td>
+</tr>
+<tr>
+<td>Group work with an AI participant</td>
+<td>Give the AI a bounded role (tutor or critic) and have the group verify its output together; do not use one AI agent to check another; time its prompts to pauses rather than interrupting</td>
+<td><a href="../../claims/tutor-plus-peers-strongest-unassisted-math-accuracy/">Tutor plus peers gave the best unaided accuracy</a> [+M]; <a href="../../claims/conversational-agent-prompts-improve-individual-and-dyad-outcomes/">conversational-agent prompts improved individual and pair outcomes</a> [+W] <a href="../../claims/agent-interruptions-perceived-disruption-varies/">but were felt as disruptive</a> [~W] (one experiment, reported second-hand); <a href="../../claims/judge-verification-propagates-peer-errors/">judge agents propagated peer errors</a> [-M]; groups verifying chatbot solutions together supported problem solving [+M] (exploratory, grade 12 physics)</td>
+</tr>
+<tr>
+<td>Health professions (clinical interviewing, diagnosis)</td>
+<td>Use multi-agent simulated patients with scaffolding for interview practice, with faculty review of errors; test long dialogues, where role-play failures cluster</td>
+<td><a href="../../claims/ma-scaffolding-improves-osce-exam-score/">Multi-agent simulated-patient training raised OSCE-aligned scores (71.8% vs 55.6%)</a> [+M]; <a href="../../claims/rpla-failure-onset-second-half-of-dialogue/">role-play failures rise after turn 6</a> [-M]</td>
+</tr>
+<tr>
+<td>Teacher education</td>
+<td>Use the tutor to support novice tutors or teachers in the moment (suggested moves), not to replace them</td>
+<td><a href="../../claims/tutor-copilot-raises-exit-ticket-mastery-4pp/">Tutor CoPilot</a> [+S] (tutors of K-12 students; not tested with teacher candidates)</td>
+</tr>
+<tr>
+<td>Business or management courses (case analysis, decisions)</td>
+<td>Use the tutor to question the learner's analysis and to check claims against case data; keep the decision and justification the learner's</td>
+<td><a href="../../claims/checking-ai-claims-predicts-gains/">Checking AI claims against sources predicted decision-making gains</a> [+M] (secondary school, socio-scientific issues; carried to business untested)</td>
+</tr>
+<tr>
+<td>Technology and computing courses</td>
+<td>Configure hint-not-solution behaviour and test it; small models frequently give direct code solutions</td>
+<td><a href="../../claims/hint-not-solution-most-challenging-dimension/">Hint-not-solution was the hardest dimension, 6% to 81% across models</a> [-M]; <a href="../../claims/learning-by-teaching-llm-improves-assignments-projects/">learning by teaching an LLM improved assignments, not exams</a> [~M]; <a href="../../claims/ai-assistance-lower-comprehension-17-percent/">developers who used AI assistance scored 17% lower on a later comprehension test</a> [-M] (cited study, steepest for full delegation); <a href="../../claims/no-ai-use-high-comprehension-level3-low/">in a project course, students who coded without AI kept high code comprehension while the heaviest AI users showed little</a> [-M] (descriptive, instructor-rated)</td>
+</tr>
+<tr>
+<td>Learners with low self-regulation</td>
+<td>Add more external structure (planning prompts, check-ins, hint budgets) rather than open access</td>
+<td><a href="../../claims/genai-srl-moderator/">Gen-AI effect on higher-order thinking was larger for high-SRL students (ES 0.86 vs 0.28)</a> [~M]</td>
+</tr>
+<tr>
+<td>The tutor would answer from its general knowledge, with no course materials given to it</td>
+<td>Ground it in the course's slides, notes and worked solutions, have it cite which it used, and tune retrieval per discipline</td>
+<td><a href="../../claims/genai-self-study-fabrication-curated-resources/">ungrounded ChatGPT self-study taught 6 of 23 students a fabricated answer</a> [-M]; <a href="../../claims/kbd-manipulation-check-behavioral-differences-transcripts/">a robot tutor given the lecture slides cited them and made no false statements, while the control made ten</a> [+M] (six transcripts); <a href="../../claims/gsr-context-knowledge-materials-strategies-environment/">students and lecturers want the tutor to have the official materials</a> [+M]; <a href="../../claims/rag-configuration-discipline-dependent-moodle-tutor/">the best retrieval settings differed between STEM and humanities</a> [+M] (automated evaluation)</td>
+</tr>
+<tr>
+<td>The tutor is to be given learner profile labels (group membership, disability, "unmotivated")</td>
+<td>Leave the labels out of the prompt; personalise from the learner's work, and audit the tutor's feedback across groups for less criticism and more praise</td>
+<td><a href="../../claims/marked-students-praise-withholding-bias/">LLM feedback gave students marked by group or label less constructive criticism and more praise for the same essays</a> [-M] — a bias in the model's treatment of the label, not a property of the learners</td>
+</tr>
+<tr>
+<td>Learners receiving special-education services or learning in a second language</td>
+<td>Keep a step-based tutor inside teacher-led instruction and track these learners' unaided results separately; the evidence is a district comparison, not a trial</td>
+<td><a href="../../claims/cognitive-tutor-miami-dade-fcat-pass-rates/">higher state-test pass rates for Cognitive Tutor students receiving special education (35.7% against 10.9%) and with limited English (27% against 18.9%)</a> [+M] (no effect size, not randomised); <a href="../../claims/ai-tools-potential-marginalized-students-contingent-safeguards/">potential for marginalised students, contingent on safeguards</a> [~M] (review)</td>
+</tr>
+<tr>
+<td>Young readers practising oral reading</td>
+<td>A speech-recognition tutor that listens and supplies a word or hint at a miscue can give practice time a human cannot; keep a teacher reading the reports</td>
+<td><a href="../../claims/asr-tutoring-supports-word-identification-attention-motivation/">speech-recognition tutoring supports word identification, attention and motivation</a> [+M]; <a href="../../claims/intelligent-reading-tutor-time-efficiency-over-human-tutoring/">time efficiencies over human tutoring</a> [+M] (both from a vendor evidence summary, no effect sizes)</td>
+</tr>
+<tr>
+<td>Learners are disengaged, or game the hints</td>
+<td>Personalise problem contexts to learners' interests; when the log shows gaming, give the skipped material as supplementary exercises; check engagement over weeks, not only in the first session</td>
+<td><a href="../../claims/gaming-agent-reduced-gaming-improved-learning/">an agent that responded to detected gaming with exercises on the bypassed material halved gaming and improved those students' learning</a> [+W] (one classroom study, as a review reports it); <a href="../../claims/personalization-reduces-gaming-behavior/">interest-personalised problems reduced gaming (d = 0.35)</a> [+M] and <a href="../../claims/personalization-improves-hard-kc-accuracy-algebra-its/">raised accuracy on the hardest skills</a> [+M] (ninth-grade algebra, one randomised study); <a href="../../claims/saga-implementation-engagement-challenges/">staff of a technology-driven tutoring programme reported engagement as a challenge</a> [-M]</td>
+</tr>
+</tbody>
+</table>
+<h2 id="the-evidence-by-question">The evidence by question<a class="headerlink" href="#the-evidence-by-question" title="Permanent link">&para;</a></h2>
+<ul>
+<li><em>Does a step-based tutoring system improve learning over ordinary instruction?</em> <a href="../../claims/adaptive-learning-improves-outcomes/">Intelligent tutoring systems improve achievement over non-individualised instruction</a> [+S]</li>
+<li><em>How does it compare with a human tutor?</em> <a href="../../claims/its-beats-large-group-cbi-textbooks-not-human-tutoring/">ITS beat large-group instruction and textbooks but not small-group or individual human tutoring</a> [~M]; <a href="../../claims/tutoring-effectiveness-comes-from-scaffolding-and-feedback/">Human tutoring d = 0.79, step-based tutoring d = 0.76, against no tutoring</a> [+S]</li>
+<li><em>Does an LLM tutor help or harm learning?</em> <a href="../../claims/gpt-base-harms-unassisted-exam-performance/">Unguarded GPT-4 access harmed the unaided exam</a> [-M]; <a href="../../claims/gpt-tutor-exam-effect-null/">guardrails removed the harm</a> [~M]; <a href="../../claims/ai-tutor-beats-active-learning-post-test/">a research-designed tutor beat active learning on an immediate test</a> [+M]</li>
+<li><em>Does a structured LLM tutor help over weeks when learners already have chatbots?</em> <a href="../../claims/structured-ai-tutor-raises-post-test-scores-field-experiment/">A structured tutor raised a five-week post-test over a holdout</a> [+M] <a href="../../claims/ambient-consumer-ai-did-not-close-tutor-gap/">that used consumer chatbots freely</a> [+M]</li>
+<li><em>Can an LLM tutor match a human tutor?</em> <a href="../../claims/pooled-ai-tutoring-equivalent-gre-learning-gains/">Pooled AI tutoring was equivalent to expert human tutoring on GRE gains in one session</a> [+M]; <a href="../../claims/best-ai-tutors-lead-quantitative-not-verbal-domains/">humans led the pooled AI tutors in verbal domains</a> [~M]</li>
+<li><em>When should a stuck learner be handed on?</em> <a href="../../claims/recovery-declines-with-impasse-depth/">Recovery falls with each turn at an impasse</a> [~M] (association; no trigger tested)</li>
+<li><em>How much should the tutor give away?</em> <a href="../../claims/leakage-reduces-next-turn-independence-all-bases/">Answer-revealing turns reduce next-turn independent work</a> [-M]; <a href="../../claims/contingent-scaffolding-surrenders-full-answer-least/">a contingent tutor gave away the answer least</a> [+M]</li>
+<li><em>Does an on-screen agent help?</em> <a href="../../claims/pedagogical-agents-enhance-learning/">Pedagogical agents enhance learning compared with no agent</a> [+M]; <a href="../../claims/pedagogical-agents-small-overall-learning-benefit/">a small overall benefit, g+ = 0.20</a> [+M]; <a href="../../claims/autotutor-content-matters-not-talking-head/">the talking head contributes little</a> [~M]</li>
+<li><em>Does teaching an agent help the learner?</em> <a href="../../claims/learning-by-teaching-improves-tutor-learning/">Learning by teaching improves tutor learning</a> [+S]; <a href="../../claims/betty-brain-classroom-performance-dichotomy/">many Betty's Brain students made little progress</a> [~W]</li>
+<li><em>Does scripting collaboration help?</em> <a href="../../claims/cscl-scripts-small-positive-domain-learning-effect/">CSCL scripts raise domain learning a little</a> [+M] <a href="../../claims/cscl-scripts-large-effect-collaboration-skills/">and collaboration skills more</a> [+M]</li>
+<li><em>When should a human be involved?</em> <a href="../../claims/tutor-copilot-raises-exit-ticket-mastery-4pp/">Real-time AI support for human tutors raised mastery</a> [+S]; <a href="../../claims/didc-cutoff-null-proactive-benefit-increases-below-cutoff/">proactive and on-request human tutoring did not differ significantly at the cutoff</a> [~M]</li>
+<li><em>Should the tutor fade its help, and how?</em> <a href="../../claims/adaptive-fading-worked-examples-benefits/">Adaptive, skill-by-skill fading of worked steps beat fixed fading</a> [+W] (a step-based tutor; no conversational tutor tested)</li>
+<li><em>Does the tutor need the course's materials?</em> <a href="../../claims/genai-self-study-fabrication-curated-resources/">Ungrounded self-study taught a fabricated answer</a> [-M]; <a href="../../claims/kbd-manipulation-check-behavioral-differences-transcripts/">a tutor given the slides made no false statements where its control made ten</a> [+M]</li>
+<li><em>Do assisted gains carry over once the AI is removed?</em> <a href="../../claims/genai-performance-gains-diminish-without-assistance/">Peer-feedback gains diminished without assistance</a> [-M]; <a href="../../claims/genai-meta-analysis-g-0-7-performance-not-learning/">a pooled g = 0.7 reflects task success, not learning</a> [~M]; <a href="../../claims/exam-environment-moderates-genai-learning-effects/">effects vanished when the AI was not allowed in the test</a> [~M]; <a href="../../claims/ai-practice-improved-writing-skill-persisted-one-day/">AI writing practice improved unaided writing a day later</a> [+M]</li>
+</ul>
+<h2 id="further-evidence-not-yet-read-against-this-model">Further evidence, not yet read against this model<a class="headerlink" href="#further-evidence-not-yet-read-against-this-model" title="Permanent link">&para;</a></h2>
+<!-- Added 2026-10-17 on writing the page; re-read 2026-10-19: all 154 bullets were read against the model, 74 were moved into it, and those left here carry a note saying why. Second pass 2026-10-19: 93 claims the linker added afterwards under a separate Claims section were read; 38 moved into the model, 2 were already cited in a situation row, and 53 are listed below under "Linked after the first re-read" with a dated note. Each marker is capped by the claim's recorded evidence (strength_cap). -->
+<p>Claims linked to this pattern that the model above does not use. All were read against the model on 2026-10-19; each note says why it stays here (most restate a study the model already cites, test a tutor's outputs rather than learners' learning, or argue rather than measure).</p>
+<p><strong>Intelligent tutoring systems</strong>
+- <a href="../../claims/its-meta-analytic-positive-outcomes/">Meta-analytic evidence indicates ITS yield positive outcomes</a> [+M] — a review restating Ma et al. (2014), already used.
+- <a href="../../claims/its-improve-upon-typical-classroom-instruction/">ITS improve upon typical classroom instruction</a> [+M] — a review's summary sentence; the meta-analyses above carry the comparison.
+- <a href="../../claims/its-improve-learning-outcomes-with-actionable-feedback/">ITS improve outcomes particularly with immediate actionable feedback</a> [+M] — a position paper's reading of VanLehn and Kulik &amp; Fletcher; the feedback bullet uses the primary evidence.
+- <a href="../../claims/its-mature-implementation-personalized-learning/">ITS are a mature implementation of personalized learning</a> [+M] — a review's characterisation, no comparison.
+- <a href="../../claims/personalized-learning-outperforms-standardized-settings/">Personalized learning environments outperform standardized settings</a> [+W] — second-hand review assertion with no design described.
+- <a href="../../claims/autotutor-learning-gains-comparable-human-tutors/">AutoTutor achieved gains comparable to human tutors</a> [+M] — restates the AutoTutor result already used.
+- <a href="../../claims/human-tutoring-effect-d-079/">Human tutoring d ≈ 0.79 (VanLehn, as reported)</a> [+M] — restates VanLehn (2011), already used.
+- <a href="../../claims/individualized-bkt-reduces-questions-needed-for-mastery/">Individualized BKT reduced questions needed for mastery</a> [+M] — about knowledge tracing for mastery decisions; belongs with <a href="../mastery-learning/">mastery learning</a>; second-hand, no design reported.
+- <a href="../../claims/tutor-model-sample-efficiency-classroom-insufficient/">Classroom-scale data is insufficient for tutor-model misconception acquisition</a> [-M] — about training a model of misconceptions, no learners.
+- <a href="../../claims/tutor-model-multi-misconception-no-accuracy-tradeoff/">Tutor models trained on ten misconceptions keep accuracy</a> [+M] — same study, model accuracy only.
+- <a href="../../claims/aied-step-based-domain-focus-collaboration-growth/">The field moved toward step-based problem solving and collaboration support</a> [+M] — a description of research trends, not of effects.</p>
+<p><strong>LLM and generative-AI tutors</strong>
+- <a href="../../claims/gpt4-access-harms-learning-after-withdrawal/">Reviews citing Bastani et al. report harm after withdrawal of GPT-4 access</a> [-M] — second-hand accounts of Bastani et al. (2025), whose own claims the model uses.
+- <a href="../../claims/pedagogically-designed-ai-tutors-outperform-active-learning/">Pedagogically designed AI tutors outperformed active learning (as reported)</a> [+M] — restates Kestin et al. (2025), already used.
+- <a href="../../claims/engineered-ai-tutor-doubled-learning-vs-active-learning/">An engineered AI tutor doubled learning versus active learning (as reported)</a> [+M] — restates Kestin et al. (2025).
+- <a href="../../claims/genai-chat-tutor-rct-physics-improved-performance/">A prompt-engineered chat tutor improved performance in a physics course (as reported)</a> [+M] — restates Kestin et al. (2025).
+- <a href="../../claims/gai-value-contingent-on-pedagogical-integration/">GAI value is contingent on pedagogical integration</a> [~M] — a narrative summary that agrees with the model; no new data.
+- <a href="../../claims/immediate-performance-not-evidence-of-independent-learning/">Immediate performance is not evidence of independent learning</a> [-W] — a review's reading that agrees with the model's horizon rule (the marker records polarity toward AI tutoring, not toward this page's policy); no new data.
+- <a href="../../claims/ai-substitution-impedes-long-term-skill-development/">AI substitution may impede long-term skill development</a> [-W] — an argument; the model rests the same point on trials.
+- <a href="../../claims/llm-teaching-effectiveness-varies-by-domain/">LLM teaching effectiveness varies by domain</a> [~M] — LLM teacher agents teaching simulated students; suggests testing per domain, no learners.
+- <a href="../../claims/adaptive-mode-per-question-delta-increase-warm-up/">Adaptive mode showed a warm-up per-question increase</a> [+M] — a within-session detail of the 50-person chatbot experiment already used.
+- <a href="../../claims/hallucination-as-pedagogical-resource/">AI hallucination as a pedagogical resource</a> [+W] — an argument for teaching verification; the model's verification prompts rest on measured results.
+- <a href="../../claims/ai-overreliance-impairs-decision-making/">A review reports over-reliance on AI dialogue systems may weaken decision-making</a> [-W] — two small qualitative studies reported in a review; agrees with the model's default.
+- <a href="../../claims/ai-math-risks-overreliance-errors-uncritical-trust/">Reviewed literature reports over-reliance, errors and uncritical trust in AI for mathematics</a> [-M] — a review's risk list; agrees with the model's default.
+- <a href="../../claims/excessive-genai-reliance-hinders-foundational-knowledge/">Excessive GenAI reliance risks undermining foundational knowledge</a> [-M] — a document analysis recommending supervised assessment of foundational computing knowledge; consistent with the unaided-assessment row.
+- <a href="../../claims/awe-overreliance-lowers-critical-thinking-creativity/">Overreliance on automated writing evaluation may lower critical thinking</a> [-W] — about automated writing evaluation, a review's risk statement.
+- <a href="../../claims/llm-cognitive-debt-weakens-critical-thinking/">LLM cognitive debt weakens critical thinking</a> [-W] — an argument citing the essay-writing study the model uses directly.
+- <a href="../../claims/cognitive-debt-reactive-ai-approaches-insufficient/">Reactive approaches to cognitive debt are insufficient</a> [-W] — an argument; no data.
+- <a href="../../claims/contradictory-meta-reviews-ai-critical-thinking/">Contradictory meta-reviews on AI and critical thinking</a> [~M] — notes design limits in that literature; no effect.
+- <a href="../../claims/brain-connectivity-scales-down-with-external-support-essay-writing/">Brain connectivity scales down with external support in essay writing</a> [-M] — a neural measure from the essay study whose performance result the model uses; not a learning outcome.
+- <a href="../../claims/ai-substitution-inclusion-and-time-tradeoffs/">AI substitution: inclusion and time trade-offs</a> [~W] — a conjecture, not tested.
+- <a href="../../claims/placebo-effect-of-ai-perceived-capabilities/">Placebo effect of perceived AI capabilities</a> [~M] — cited HCI work, not tested in a learning setting here.
+- <a href="../../claims/verification-visibility-counter-cascade-interventions/">Verification visibility interventions reduce overreliance in a model</a> [+M] — an agent-based simulation, no learners; a hypothesis for the group-work row.
+- <a href="../../claims/reflection-themes-copilot-comment-workflow/">Student reflections on a copilot comment workflow</a> [~M] — perceptions of a code-generation exercise, not tutoring.
+- <a href="../../claims/ai-scaffolding-fading-learned-helplessness/">Over-reliance on AI scaffolding risks learned helplessness</a> [-W] — an argument; the fading step already answers it.
+- <a href="../../claims/adaptive-learning-dominance-limits-student-agency/">Adaptive learning dominance limits student agency</a> [-W] — an argument; no data.
+- <a href="../../claims/genai-personalization-bias-tensions/">GenAI personalization and bias tensions</a> [~W] — framing only, no evidence.
+- <a href="../../claims/student-ethical-agency-genai-use/">Students exercise ethical agency in GenAI use</a> [+M] — about students' ethics of AI use, not tutoring moves.
+- <a href="../../claims/exploratory-four-cluster-student-ai-profiles/">Four exploratory student AI-user profiles</a> [~M] — exploratory survey clusters of attitudes; no outcome.
+- <a href="../../claims/agentic-instructor-sustained-engagement-iisc/">An agentic AI instructor sustained engagement in a field deployment</a> [+W] — a qualitative report of engagement, no comparison.
+- <a href="../../claims/copilot-embedded-support-real-time-troubleshooting/">Embedded AI let a novice troubleshoot in real time</a> [+W] — an anecdote.
+- <a href="../../claims/ai-university-physics-six-pedagogical-functions/">AI in university physics serves six pedagogical functions</a> [+M] — a review's description of uses, no effects.
+- <a href="../../claims/phase-vi-ai-systems-six-challenges/">Phase VI AI systems face six challenges</a> [-W] — agrees with the gap the page states: controlled studies of transfer over time remain scarce.</p>
+<p><strong>Building and evaluating LLM tutors</strong>
+- <a href="../../claims/emotion-plus-theory-prompting-ablation-gain/">Emotion features help only with theory-grounded strategies</a> [~M] — a prompt ablation scored on model outputs, no learners.
+- <a href="../../claims/task-specific-prompt-beats-pedcot-prompting/">A task-specific prompt beat PedCoT prompting</a> [+M] — model accuracy on 61 test cases, no learners.
+- <a href="../../claims/leap-prompt-design-generates-cognitively-activating-feedback/">Prompt design can generate cognitively activating feedback</a> [+M] — a demonstration; no learning outcome measured.
+- <a href="../../claims/gpt4-feedback-useful-for-error-identification/">GPT-4 feedback was useful for identifying scoring errors</a> [+M] — about AI grading of exams, outside this page's scope.
+- <a href="../../claims/verification-layer-one-mixed-results/">Automated verification of AI-drafted content gave mixed results</a> [~M] — about AI-generated course content, outside this page's scope.
+- <a href="../../claims/rl-reward-misalignment-failure-modes/">RL reward misalignment failure modes</a> [-W] — an analysis of risks (hints creating dependency, easy content chosen for engagement); agrees with judging on unaided outcomes; no data.
+- <a href="../../claims/aura-rl-improves-response-quality/">Within-session RL improved response quality</a> [+M] — response-quality ratings over 20 conversations per condition, not learning.
+- <a href="../../claims/purpose-field-goals-rules-field-pedagogical-behavior/">Teachers used Purpose for goals and Rules for pedagogical behaviour</a> [+M] — how 27 teachers configured a chatbot; useful when recording the tutor configuration, no outcome.
+- <a href="../../claims/pedagogical-score-predicts-exercise-conversion/">Higher pedagogical scores associated with exercise conversion</a> [+M] — a small same-day association in a live deployment; not strong enough to set a configuration.
+- <a href="../../claims/equation-handling-dominates-ai-tutor-discourse/">Equation handling dominates AI tutor discourse</a> [+M] — a description of what students do in one physics tutor.
+- <a href="../../claims/scripted-interaction-eliminates-observer-drift/">Scripted prompts nearly eliminate persona drift</a> [+M] — LLM persona consistency, no learners.
+- <a href="../../claims/persona-adaptation-perceptible-to-raters/">Systems adapt perceptibly to a learner persona</a> [+M] — raters judging generated videos, no learning outcome.
+- <a href="../../claims/collearn-adaptive-mastery-mae-convergence/">Adaptive sessions converge on simulated mastery</a> [+M] — simulated personas only.
+- <a href="../../claims/socratic-test-pilot-beyond-recall/">Socratic test pilot: conversation forced explanation</a> [+M] — a conversational exam (assessment, not tutoring); student perceptions only.
+- <a href="../../claims/socratic-test-pilot-scaffolding-acceptance/">Socratic test pilot: students accepted the scaffolding</a> [+M] — same pilot, perceptions only.
+- <a href="../../claims/socratic-test-faculty-differentiation/">Socratic test: one pilot instructor saw differentiation</a> [+W] — one instructor's report.
+- <a href="../../claims/kbd-robot-perceived-more-responsible-tutoring-behavior/">Knowledge-based design robot perceived as more responsible</a> [+M] — perception with 12 per group; the same study's transcript result is used in the grounding row.
+- <a href="../../claims/kbd-no-difference-acceptance-motivation-subjective-learning/">Knowledge-based design: no difference in acceptance or motivation</a> [~M] — same small study; no detected difference, equivalence not tested.
+- <a href="../../claims/twelve-kbd-requirements-gsr-higher-education/">Twelve design requirements for tutoring social robots</a> [+M] — interview-derived requirements; the materials requirement is used in the grounding row.
+- <a href="../../claims/lea-pilot-positive-usability-chat-quiz-trust/">A learning-assistant pilot rated chat and quiz modes positively</a> [+M] — eight students' ratings.
+- <a href="../../claims/maic-funcgen-outperforms-baselines/">MAIC script generation outscored baselines</a> [+M] — generated lecture scripts, outside this page's scope.
+- <a href="../../claims/computer-generated-self-explanation-prompts-recommendation/">Computer-generated self-explanation prompts recommended</a> [+W] — a recommendation for future research, not a test.
+- <a href="../../claims/avp-subjective-ratings-persona-divergence/">Subjective ratings diverged by persona in an adaptive system</a> [~M] — ratings of a simulated conversational partner, no learning outcome.</p>
+<p><strong>Feedback, hints and help-seeking</strong>
+- <a href="../../claims/self-questioning-improves-comprehension/">Self-questioning improves comprehension</a> [+S] — about teaching learners to generate their own questions about text, not a tutor's move; a tutor could prompt it, untested here.
+- <a href="../../claims/staged-disclosure-diagnostic-error-patterns/">Staged disclosure and diagnostic error patterns</a> [~W] — illustrative cases of how a tutor's hidden diagnosis diverged from its feedback; no prevalence estimate.</p>
+<p><strong>Pedagogical agents</strong>
+- <a href="../../claims/minimal-social-cues-trigger-automatic-social-reactions/">Minimal social cues trigger social reactions</a> [~M] — explains why agents draw social responses; no learning outcome.
+- <a href="../../claims/avatar-social-presence-increases-tutor-engagement/">Avatars said to increase tutor engagement (vendor white paper)</a> [+W] — vendor assertion; the agent meta-analyses carry this question.</p>
+<p><strong>Collaboration and humans in the loop</strong>
+- <a href="../../claims/human-ai-collaborative-personalized-learning/">Personalized learning as a human–AI collaboration</a> [+M] — a review's conclusion that agrees with the human-handoff step; no new test.
+- <a href="../../claims/rejection-of-ai-replacing-instructor-expertise/">Practitioners reject AI replacing instructor expertise</a> [+M] — practitioner beliefs (survey of 72).
+- <a href="../../claims/students-prefer-hybrid-ai-instructor-feedback/">Students prefer hybrid AI and instructor feedback</a> [+M] — preference of 30 students for essay feedback; a learner-valued input, not an outcome.
+- <a href="../../claims/ai-pbl-enhances-educator-student-collaboration/">AI-driven PBL enhances educator-student collaboration</a> [+W] — a review theme, no effect.
+- <a href="../../claims/over-reliance-ai-reduces-human-interaction/">Over-reliance on AI may reduce human interaction</a> [-M] — a policy argument; agrees with the human-handoff step.</p>
+<p><strong>Role-play and simulated people</strong> (not about this page: these concern AI role-play agents and simulated patients, covered by <a href="../practice-with-simulated-people/">practice with simulated people</a>)
+- <a href="../../claims/residencyrl-reduces-missed-red-flags/">RL training reduced missed red flags in a clinical agent</a> [+M] (not about this page)
+- <a href="../../claims/cross-model-rpla-degradation-consistent/">Role-play agents degrade consistently under attack across models</a> [-M] (not about this page)
+- <a href="../../claims/authority-challenge-emotional-manipulation-most-effective/">Authority challenge and emotional manipulation are the most effective attacks</a> [-M] (not about this page)
+- <a href="../../claims/automated-judge-human-alignment-conservative-bias/">Automated judging aligns with experts with a conservative bias</a> [~M] (not about this page)
+- <a href="../../claims/leakage-strongest-communication-personality/">Persona leakage strongest for communication style and personality</a> [-M] (not about this page)
+- <a href="../../claims/pal-competency-self-efficacy-application-tradeoff/">The review reports that highly competent PALs increased learners' application of acquired knowledge while low-competent PALs increased self-efficacy</a> [+W] — attached 2026-10-17 from Yanghee Kim et al. (2006); restates the Kim, Baylor et al. (2006) experiment whose claims the agents bullet already uses.</p>
+<p><strong>Linked after the first re-read; read 2026-10-19 (second pass)</strong></p>
+<p><em>Learning outcomes and reliance</em>
+- <a href="../../claims/ai-assistance-withdrawal-performance-decline/">When AI assistance is withdrawn, performance tends to decline</a> [~W] — read 2026-10-19: a position paper citing one study, no effect size; agrees with the horizon rule the trials above already carry.
+- <a href="../../claims/ai-assisted-performance-no-unassisted-transfer/">AI-assisted performance does not transfer to unassisted performance</a> [~W] — read 2026-10-19: a theoretical article's report of a cited experiment, no effect size; same point as the unaided-assessment row.
+- <a href="../../claims/ai-assistance-performance-without-internalization/">AI assistance can improve short-term performance while reducing independent capability</a> [-W] — read 2026-10-19: a conceptual synthesis, no new data.
+- <a href="../../claims/ai-performance-metacognition-dissociation/">AI support can improve performance while weakening metacognitive accuracy</a> [~W] — read 2026-10-19: a workshop paper's report of two cited studies; the trace and confidence results in the over-reliance bullet measure this directly.
+- <a href="../../claims/prior-genai-use-poorer-unaided-reasoning/">Prior genAI use shows some evidence of poorer unaided reasoning</a> [~W] — read 2026-10-19: the preregistered tests were null and the one significant estimate is exploratory; does not change the default.
+- <a href="../../claims/genai-reduces-perceived-task-difficulty/">GenAI access reduces perceived difficulty of the assisted task</a> [~W] — read 2026-10-19: perceived difficulty only, same lab study.
+- <a href="../../claims/reliance-type-differential-outcomes-regression/">Early reliance relates to both benefit and negative impact</a> [-W] — read 2026-10-19: self-reported benefit and harm in a 118-student survey; no learning measure.
+- <a href="../../claims/early-reliance-evaluation-literacy-interaction/">Early reliance and evaluation literacy interact</a> [~W] — read 2026-10-19: same survey, self-report outcomes.
+- <a href="../../claims/exploratory-profile-interaction-ai-gains/">Exploratory profile interaction with AI-assisted gains</a> [~W] — read 2026-10-19: interactions with prior knowledge and university ranking were not significant; nothing to act on.
+- <a href="../../claims/boundary-conditions-verification-reliance-genai/">Boundary conditions on verification and reliance</a> [~W] — read 2026-10-19: a review's list of expected moderators, which it calls analytic expectations rather than established effects.
+- <a href="../../claims/longitudinal-trust-studies-omit-skill-outcomes/">Longitudinal trust studies omit skill outcomes</a> [~W] — read 2026-10-19: an argument that agrees with the gap stated under Elements and limits.
+- <a href="../../claims/prompt-response-interface-limits-learning-value/">Prompt–response interfaces limit learning value without guidance</a> [+W] — read 2026-10-19: a perspective citing earlier work; the structured-prompting trial in the model carries the point.
+- <a href="../../claims/standalone-llm-tutors-lack-trajectory-control/">Standalone LLM tutors lack control over the learning trajectory</a> [-W] — read 2026-10-19: a review chapter's argument; agrees with the course-length row's call for a planned curriculum.
+- <a href="../../claims/llm-explanations-no-significant-grade-impact/">LLM use for extra explanations did not significantly affect grades</a> [~W] — read 2026-10-19: a non-significant correlation in one programming course; not evidence of no effect.
+- <a href="../../claims/standard-chatbot-essays-closest-to-ai-only-semantics/">Essays under a standard chatbot sat closest to AI-only essays</a> [~W] — read 2026-10-19: exploratory embedding analysis from the Engage-to-Unlock study, whose text-coverage result is in the ill-structured row.
+- <a href="../../claims/withholding-improves-output-bound-accuracy-help-seeking-not/">Withholding answers improves output-bound accuracy, help-seeking does not</a> [+M] — read 2026-10-19: about letting quiz-takers answer "don't know", not about a tutor's moves; no bearing on the configuration.</p>
+<p><em>Tutoring systems and deployments</em>
+- <a href="../../claims/vista-mathspace-significant-summer-math-gains/">Mathspace summer users showed significant gains in one district</a> [~W] — read 2026-10-19: a pre-post brief of 27 students with no comparison group and low engagement.
+- <a href="../../claims/chatgpt-experimental-mean-81-81-vs-control-70-45/">ChatGPT class mean 81.81 against 70.45</a> [+W] — read 2026-10-19: descriptive means from two classes of 31, low rigour; does not change the expectation.
+- <a href="../../claims/frequency-distribution-experimental-79-83-control-56-61/">Final-test score distributions differed by class</a> [+W] — read 2026-10-19: frequency tables from the same study.
+- <a href="../../claims/chatgpt-teachable-agent-fewer-submission-attempts/">Teaching a ChatGPT agent: fewer code submissions</a> [+W] — read 2026-10-19: descriptive log counts from the teachable-agent study already cited; no test.
+- <a href="../../claims/bettys-brain-strategy-detection-activity-sequences/">Betty's Brain strategies can be detected from activity sequences</a> [~W] — read 2026-10-19: a method result reported in a commentary; supports reading the log (step 4) but measures no outcome.
+- <a href="../../claims/promptings-limited-explanatory-power-help-use/">Proactive prompts and information items explain little of help-tool use</a> [~W] — read 2026-10-19: a regression inside the distance-education experiment whose main results are in the help-seeking row.
+- <a href="../../claims/math-agent-reduction-livelatency-engagement-gains/">Math Agent concision raised behavioural engagement and cut latency</a> [~W] — read 2026-10-19: engagement and speed, not learning.
+- <a href="../../claims/router-reduces-turns-long-conversations/">An adaptive router reduced turns in long conversations</a> [~W] — read 2026-10-19: efficiency in a live A/B test; no learning outcome.
+- <a href="../../claims/scaffolding-associated-with-next-student-move/">Scaffolding level is associated with the student's next move</a> [~W] — read 2026-10-19: a turn-level association that agrees with the leakage results already used.
+- <a href="../../claims/worked-examples-discouraged-cognitive-tutor-algebra/">Use of worked examples was discouraged in the Cognitive Tutor Algebra course</a> [~W] — read 2026-10-19: a historical note about instructors' beliefs, not evidence; the fading result in step 3 tests worked steps directly.
+- <a href="../../claims/respe-pilot-privacy-reflection-repetitiveness-issues/">RESPE pilot: privacy concerns and repetitive scaffolds</a> [~W] — read 2026-10-19: ten students' comments on a regulation-scaffolding prototype; a reminder to tell learners who sees their data.
+- <a href="../../claims/ai-tutor-scale-benefit-teachers-perceive/">Teachers see AI tutors as help at a scale no teacher can give</a> [~W] — read 2026-10-19: teachers' perceptions in interviews; a stakeholder input, not an outcome.
+- <a href="../../claims/scenario-lessons-pooled-74-percent-gain/">Scenario-based tutor-training lessons gave a pooled 7.4% gain</a> [+W] — read 2026-10-19: about training human tutors with AI-scored lessons; closer to teacher education than to AI tutoring of learners.
+- <a href="../../claims/interpretable-ai-mechanisms-clearer-benefits/">Interpretable AI mechanisms give clearer learning benefits</a> [+W] — read 2026-10-19: a review of AI game-based learning; consistent with preferring a configuration you can state, no direct test here.
+- <a href="../../claims/pn-ps-counterfactuals-help-and-skill-effects/">Counterfactual probabilities quantify the effect of hints and skills</a> [~W] — read 2026-10-19: a modelling method for assessment with support; no tutoring outcome.</p>
+<p><em>Building and evaluating LLM tutors (no learners)</em>
+- <a href="../../claims/dtr-does-not-predict-tutoring-quality/">Deep-thinking ratio does not predict tutoring quality</a> [~W] — read 2026-10-19: a model-side metric; benchmark only.
+- <a href="../../claims/emotion-aware-prompting-improves-pedagogical-quality/">Emotion-aware prompting improves pedagogical quality ratings</a> [+W] — read 2026-10-19: LLM-judged quality, no learners.
+- <a href="../../claims/educlaw-bench-responsiveness-helpfulness-tradeoff/">Responsiveness and helpfulness trade off in a long-horizon benchmark</a> [~W] — read 2026-10-19: simulated learners; agrees with the withholding default.
+- <a href="../../claims/grpo-parameter-training-beats-prompt-engineering-socratic/">Parameter training beat prompt engineering on Socratic scaffolding</a> [+W] — read 2026-10-19: a 30-question benchmark; no learners.
+- <a href="../../claims/omniedu-largest-gains-scaffolding-longitudinal-evidence/">Education-oriented tuning raised use of longitudinal student evidence</a> [+W] — read 2026-10-19: benchmark scores of a model family.
+- <a href="../../claims/teaching-sessions-conclude-within-30-turns/">Teaching dialogues conclude within 30 turns</a> [~W] — read 2026-10-19: a benchmark design choice between simulated agents.
+- <a href="../../claims/learner-context-personalizes-ai-tutor-explanations/">Learner context changes an AI tutor's explanations</a> [+W] — read 2026-10-19: a two-persona demonstration; personalisation from the learner's work stays the default.
+- <a href="../../claims/lsa-word-overlap-regex-best-semantic-matcher/">AutoTutor's best semantic matcher combines LSA, word overlap and regular expressions</a> [~W] — read 2026-10-19: engineering of an older system.
+- <a href="../../claims/policy-multilabel-concentrated-constraints-scaffolding-personalization/">Policy in reviewed systems is expressed as assistance boundaries</a> [+W] — read 2026-10-19: a scoping review's description of 90 programming-support systems; useful vocabulary for recording the configuration, no outcome.</p>
+<p><em>Feedback, preferences and perceptions</em>
+- <a href="../../claims/feedback-source-no-posttest-effect-enl/">Feedback source (human tutor or GPT-4) had no significant effect on post-test writing</a> [~W] — read 2026-10-19: the between-groups test from the same study as the second-language writing row; adds nothing beyond it.
+- <a href="../../claims/genai-feedback-rated-higher-genuineness-blind/">Blind ratings favoured GenAI feedback on genuineness</a> [~M] — read 2026-10-19: perceptions of 41 students; no learning outcome.
+- <a href="../../claims/ai-assisted-feedback-preserves-student-usefulness/">AI-assisted instructor feedback kept its rated usefulness</a> [~W] — read 2026-10-19: AI helping instructors write feedback, a human-in-the-loop use outside the tutor's moves; usefulness ratings only.
+- <a href="../../claims/ai-feedback-reduces-perceived-personal-risk/">AI feedback reduces the perceived risk of exposing weaknesses</a> [+W] — read 2026-10-19: a review's report of learners' experience; useful when eliciting why a learner prefers the tutor, not an outcome.
+- <a href="../../claims/learners-selectively-filter-ai-feedback-agency/">Learners selectively filtered AI feedback</a> [~W] — read 2026-10-19: thematic coding of reflections; no outcome.
+- <a href="../../claims/trust-customized-agents-accuracy-contextual-alignment/">Trust in customised agents followed accurate, contextual feedback</a> [~W] — read 2026-10-19: perceptions; consistent with the grounding row.
+- <a href="../../claims/prompting-raises-perspicuity-dependability-lowers-novelty/">Structured prompting raised perceived clarity and lowered novelty</a> [~W] — read 2026-10-19: user-experience ratings from the structured-prompting study already used.
+- <a href="../../claims/students-find-chatgpt-useful-but-lacking-depth/">Students found ChatGPT useful but lacking depth against TA answers</a> [~W] — read 2026-10-19: one student's comment.
+- <a href="../../claims/students-view-llms-useful-but-requiring-critical-use/">Students see LLM chatbots as useful but requiring critical use</a> [~W] — read 2026-10-19: self-report.
+- <a href="../../claims/chatbot-homework-study-assistance/">AI chatbots give feedback, step-by-step solutions and self-quizzing</a> [+W] — read 2026-10-19: a review's description of uses, no effects.
+- <a href="../../claims/chatgpt-education-benefits-taxonomy/">ChatGPT-generated synthesis lists education benefits</a> [+W] — read 2026-10-19: text generated by ChatGPT and printed in a review; not evidence.
+- <a href="../../claims/flipped-learning-personalised-guidance-gap/">Personalised guidance for all students at once is a flipped-learning gap</a> [+W] — read 2026-10-19: an article's motivating statement, no data.
+- <a href="../../claims/explanations-widen-fairness-gap/">Explanations widen the human–AI fairness gap</a> [~W] (not about this page) — read 2026-10-19: acceptance of AI grading decisions; AI grading is outside this page's scope.
+- <a href="../../claims/chattutor-delayed-conceptual-knowledge-study1/">In Study 1, university students using ChatTutor scored significantly higher than teaching-as-usual students on a delayed conceptual knowledge test four weeks after the lesson, but did not differ significantly from ChatGPT students</a> [+M] — attached 2026-10-20 from Guido Makransky et al. (2025), which proposed "Use theoretically informed GenAI chatbots to scale personalized scaffolding of generative learning activities where instructor formative assessment is not feasible"; tests this page's relationship.
+- <a href="../../claims/model-tracing-superior-remediation-increases-with-goal-structure-complexity/">Model tracing is superior for targeted, high-quality remediation, and this superiority increases with the complexity of the solution process goal structure</a> [+W] — attached 2026-10-27 from Viswanathan Kodaganallur et al. (2005), which proposed "Choose between model-tracing and constraint-based tutoring paradigms by assessing solution information richness and goal-structure complexity".
+- <a href="../../claims/tutoring-feedback-greatest-analogy-gains-children/">Interactive tutoring feedback leads to greater progression in children's analogy solving than multiple-try feedback, which is more effective than no feedback</a> [+W] — attached 2026-10-28 from Stevenson (2017), which proposed "Use graduated-prompt tutoring feedback in digital learning environments to help children with low initial ability learn analogy solving"; tests this page's relationship.
+- <a href="../../claims/non-analogical-reasoners-gain-more-feedback/">Children who initially used non-analogical strategies improved more from pretest to posttest than analogical reasoners, especially with tutoring feedback</a> [+W] — attached 2026-10-28 from Stevenson (2017), which proposed "Use graduated-prompt tutoring feedback in digital learning environments to help children with low initial ability learn analogy solving".
+- <a href="../../claims/wm-moderates-feedback-effects-analogy/">Working memory moderates feedback effects: higher working memory children gain more from tutoring feedback and no feedback, but gains in the multiple-try condition are unrelated to working memory</a> [~W] — attached 2026-10-28 from Stevenson (2017), which proposed "Use graduated-prompt tutoring feedback in digital learning environments to help children with low initial ability learn analogy solving"; tests this page's relationship.
+- <a href="../../claims/se-match-increases-low-se-students/">Low self-efficacy students significantly increased their self-efficacy when matched with a low self-efficacy tutee, but mismatched students did not</a> [+M] — attached 2026-10-28 from Betty Tärning et al. (2019), which proposed "Design teachable agents to express low self-efficacy"; tests this page's relationship.
+- <a href="../../claims/within-domain-socratic-genai-raises-critical-thinking/">Within-domain Socratic GenAI dialogue yields higher self-assessed critical thinking than outside-domain dialogue across all participants</a> [+W] — attached 2026-10-29 from Aleksandra Bereznikova et al. (2026), which proposed "Guide conversational GenAI interactions with Socratic reasoning grounded in learners' domain of expertise".
+- <a href="../../claims/socratic-genai-ct-gains-vary-by-group/">Self-rated critical thinking rose significantly after a within-domain Socratic GenAI dialogue for teachers and undergraduates but not for graduate students (no separate control; order and topic bundled)</a> [~M] — attached 2026-10-29 from Aleksandra Bereznikova et al. (2026), which proposed "Guide conversational GenAI interactions with Socratic reasoning grounded in learners' domain of expertise".
+- <a href="../../claims/adaptive-peer-agent-most-benefit/">The adaptive peer-like agent brought the most benefit to children's vocabulary learning and affective engagement compared with fixed-role agents</a> [+W] — attached 2026-10-29 from Chen et al. (2020), which proposed "Design educational agents to adaptively switch between tutor and tutee roles based on the student's engagement and learning needs"; tests this page's relationship.</p>
+<h2 id="illustrative-design-instance-and-observation-record">Illustrative design instance and observation record<a class="headerlink" href="#illustrative-design-instance-and-observation-record" title="Permanent link">&para;</a></h2>
+<p><em>Illustration only, invented, not a tested course.</em> An online, self-paced introductory statistics module for working adults, with a mentor who answers within one business day. The designer's objective is that each learner can choose and run the right test on a new data set and explain the result; one learner says she wants to pass the module quickly while working full time. Agree that the module assessment is unaided and proctored, and that a delayed check a month later matters to the programme. The first activity asks each learner to choose a test for a short scenario without help. The tutor is configured to work step by step, never to give the final test choice or computed value, to give problem-specific hints written by the course team, and to ask the learner to check its claims against the course notes. Sessions one and two: about 30 minutes of tutored practice; sessions three and four: hints only after an attempt; session five: an unaided practice set with the tutor off. The log flags a learner who asks for the answer three times on one step, or accepts a tutor statement later marked wrong, and sends a message to the mentor.</p>
+<p>Record: <strong>unaided first attempt → tutor configuration and content actually used → per-step requests (answer, hint, explanation, check), hints given, answer released or not → tutor errors and whether the learner accepted them → handoffs to a human and their response time → unaided score on a changed task at the end → delayed unaided score</strong>. Preserve the learner's stated purpose and any change in it. An agent may summarize this record, but must not fabricate missing inputs or assign numerical mastery probabilities without a calibrated model.</p>
+<h2 id="elements-and-limits">Elements and limits<a class="headerlink" href="#elements-and-limits" title="Permanent link">&para;</a></h2>
+<p><a href="../../elements/hints/">Hints</a>, <a href="../../elements/feedback/">feedback</a>, <a href="../../elements/immediate-feedback/">immediate feedback</a>, <a href="../../elements/scaffolding/">scaffolding</a>, <a href="../../elements/fading-scaffolding/">fading scaffolding</a>, <a href="../../elements/socratic-questioning/">Socratic questioning</a>, <a href="../../elements/self-explanation/">self-explanation</a>, <a href="../../elements/worked-examples/">worked examples</a>, <a href="../../elements/pedagogical-agent-signaling/">pedagogical agent signaling</a>, <a href="../../elements/peer-teaching/">peer teaching</a>, <a href="../../elements/collaborative-problem-solving/">collaborative problem solving</a> and <a href="../../elements/metacognitive-reflection/">metacognitive reflection</a>.</p>
+<p>This pattern is scoped to the tutor's moves within tasks and the handoff to people. It does not cover AI grading, AI-generated course content, proctoring or AI role-play as a practice partner (see <a href="../practice-with-simulated-people/">practice with simulated people</a>). The wiki records no randomized comparison of an LLM tutor across a whole course with a delayed or transfer outcome (the longest is a five-week field experiment with 46 analysed and an end-of-period post-test), no test of a handoff trigger, and no test of fading a conversational tutor's help across sessions (the one fading result is for worked steps in a step-based tutor); no trial of grounding a tutor in course materials against an ungrounded one with a learning outcome; and no test of withholding learner identity labels from a tutor's prompt beyond the feedback-bias audit it rests on. Much of the newer LLM-tutor evidence here is benchmark or simulated-student evaluation of the tutor's outputs, which says what a tutor does, not what learners learn. The diagnostic branches above remain to be tested with actual learners.</p>
+<h2 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../../claims/its-augmentation-benefits-over-unsupported-learning/">ITS augmentation: meta-analyses find medium to large learning benefits of ITS over unsupported learning and small to medium gains over less adaptive computer-assisted learning</a> [+M]</li>
+<li><a href="../../claims/students-misjudge-hint-images-as-helpful/">Students incorrectly considered partially hinting images helpful</a> [~W]</li>
+<li><a href="../../claims/response-rate-trend-contingency/">Contingent AI interaction increased children's likelihood of responding over time (OR = 1.026 per question), while pseudo-interactive interaction decreased it (OR = 0.96)</a> [~W]</li>
+<li><a href="../../claims/its-vs-non-intelligent-ts-mitigated/">Effects of ITSs are mitigated when compared to non-intelligent tutoring systems: three of four comparisons found no significant difference in learning gains</a> [~W]</li>
+<li><a href="../../claims/children-hint-recipients-learn-more/">Children aged 6–9 think peers who receive hints will learn more than peers who receive correct answers</a> [~W]</li>
+<li><a href="../../claims/motivational-pa-null-conceptual-gains/">Motivational pedagogical agents did not significantly improve posttest scores or error rates in an adaptive algebra system after controlling for pretest</a> [-W]</li>
+<li><a href="../../claims/agent-condition-learning-gains-trend-lpk/">Agent-condition learning gains trended higher (marginal), with Agent LPK students gaining significantly more than Non-Agent HPK students</a> [~W]</li>
+<li><a href="../../claims/saic-agent-improves-schematic-knowledge/">SAIC dialogue agent improved children's schematic knowledge more than a multimedia system without it (statistically significant U-test difference)</a> [+W]</li>
+<li><a href="../../claims/tutoring-systems-culturally-dependent/">Tutoring systems appear to be culturally dependent, per insights the paper attributes to Ogan and Johnson</a> [~W]</li>
+<li><a href="../../claims/expertise-agents-improved-learning/">Agents with expertise (Expert and Mentor) improved learning outcomes and were perceived as more credible</a> [+W]</li>
+<li><a href="../../claims/motivational-agents-improved-self-efficacy/">Motivational agent roles (Motivator and Mentor) were perceived as more human-like and improved learner self-efficacy</a> [~W]</li>
+<li><a href="../../claims/bottom-out-hint-time-positive-learning-relation/">Time spent with bottom-out hints correlates positively with learning, consistent with spontaneous self-explanation</a> [~W]</li>
+<li><a href="../../claims/help-avoidance-understanding-evolving/">Understanding of Help Avoidance is evolving: persistence may beat help at low mastery, yet Help Avoidance predicted poorer transfer performance</a> [~W]</li>
+<li><a href="../../claims/failure-feedback-not-cumulative-later-trials/">Failure learning and transfer parameters are not sustained in later trials, suggesting repeating the same feedback does not provide sustained assistance</a> [~W]</li>
+<li><a href="../../claims/kulik-fletcher-2015-its-effect-test-tuning/">Kulik and Fletcher (2015) found similar-sized ITS improvements to other meta-analyses, with larger effect sizes when tests were tuned to the tutoring system than when standardised tests were used</a> [+M]</li>
+<li><a href="../../claims/vanlehn-2011-step-based-its-nearly-average-human-tutors/">VanLehn (2011) found step-based intelligent tutoring systems nearly as effective as average human tutors, and both more effective than no tutoring but less effective than expert human tutors</a> [+M]</li>
+<li><a href="../../claims/pane-2014-cognitive-tutor-limited-effectiveness-scale/">A large-scale USA study of Cognitive Tutors found only limited evidence of relative effectiveness over conventional teaching, with classroom use not strongly controlled</a> [~W]</li>
+<li><a href="../../claims/ma-2014-its-beats-no-tutoring-large-group-not-small-or-one-to-one/">Ma et al. (2014) meta-analysis: step-based ITSs outperformed no tutoring and large-group teacher-led instruction, but showed no differences against small-group or one-to-one human tutoring</a> [~W]</li>
+<li><a href="../../claims/dynamic-dams-recognize-all-student-solutions/">Dynamically generated proof graphs let LOGAX recognize all correct student solutions and give hints on them</a> [+W]</li>
+<li><a href="../../claims/learners-prefer-own-error-correction-85-percent/">Most learners (85%) prefer to work through error correction on their own, with proficiency moderating help use</a> [~W]</li>
+<li><a href="../../claims/nl-perceived-helpful-not-reflected-in-gains/">Teaching via paraphrased natural language is perceived as more helpful for learning than sentence-selection, but this perception is not reflected in actual learning gains</a> [~W]</li>
+<li><a href="../../claims/assertions-more-hints-given-than-messages/">The Assertions condition delivered significantly more unsolicited hints than the Messages condition during training</a> [~W]</li>
+<li><a href="../../claims/genie2-previously-published-outcomes/">Previously published work associates Genie 2 with high acceptance, test-score increases over business-as-usual, high time on task, and a positive affective profile</a> [+W]</li>
+<li><a href="../../claims/tutor-tactics-three-attempt-bottom-out/">Human-tutoring transcript analysis informed BEETLE II tactics, including defaulting to the full answer after three unsuccessful elicitation attempts</a> [~W]</li>
+<li><a href="../../claims/cross-cultural-tutor-learning-gains-all-sites/">Students at all three international sites showed significant pre-test to post-test learning gains with the Scatterplot Tutor</a> [+W]</li>
+<li><a href="../../claims/hpk-improved-only-low-agency/">HPK students improved significantly only in the Low-Agency condition, with a large post-test advantage over HPK peers in High-Agency (d = .95)</a> [~W]</li>
+<li><a href="../../claims/no-agency-effect-sql-tutor-learning/">High- and Low-Agency conditions in SQL-Tutor do not differ in learning outcomes, though both improve significantly from pre- to post-test</a> [~W]</li>
+<li><a href="../../claims/on-demand-hint-requests-rare-and-equivalent/">Students rarely request on-demand hints in this tutor, with no significant differences between conditions or proficiency groups</a> [~W]</li>
+<li><a href="../../claims/guru-evaluation-similar-gains-to-human-augmentation/">GURU, a tutor embodying expert-teacher behaviour, produced learning gains similar to small-group human teaching and better than classroom teaching alone</a> [+W]</li>
+<li><a href="../../claims/emotional-feedback-engaging-not-performance/">Emotional feedback from an animated pedagogical agent produced no significant learning performance gain but made the learning process more engaging</a> [~W]</li>
+<li><a href="../../claims/a-little-intelligence-can-go-a-long-way/">A minimalist approach to intelligence and adaptivity can still achieve practical success at scale in real classrooms</a> [~W]</li>
+<li><a href="../../claims/action-selection-speed-evaluation/">The article evaluated the action selection engines' speed for real-time tutoring use</a> [~W]</li>
+<li><a href="../../claims/woz2-hidden-wizard-hints-mostly-positive/">In the hidden-wizard WOZ II study, students' reactions to the wizard's Slack hints were mostly positive, though some hints were read without discussion</a> [~W]</li>
+<li><a href="../../claims/agent-plus-partner-synergy-1-24-sd/">In a thermodynamics course, pairs working with a tutorial dialogue agent learned about 1.24 standard deviations more than students working alone, with partner and agent support synergistic rather than redundant</a> [+W]</li>
+<li><a href="../../claims/proxy-optimization-engagement-trap/">Optimizing pedagogical parameters on proxy measures risks trading learning for engagement, and simulated students carry their own accuracy limits</a> [~W]</li>
+<li><a href="../../claims/simulated-students-evaluate-action-selection/">Simulated students were used to evaluate whether the prototype engines select rational tutorial actions emulating human tutors</a> [~W]</li>
+<li><a href="../../claims/cts-high-learner-control-ease-of-use-tg1-cg/">WritingTutor with high learner control was rated easier to use than static tutoring (TG1 vs CG), but not after Bonferroni correction.</a> [~W]</li>
+<li><a href="../../claims/genetics-tutor-18-percentage-point-gains/">The Genetics Tutor produced average pretest-to-posttest learning gains of about 18 percentage points across 45 single-unit evaluations.</a> [~W]</li>
+<li><a href="../../claims/example-tracing-tutors-effective-real-settings-large-effect-sizes/">CTAT-built example-tracing tutors have been shown to be effective in helping students learn in real educational settings, often with large pre/post effect sizes.</a> [+W]</li>
+<li><a href="../../claims/example-tracing-tutors-support-varied-pedagogies/">Example-tracing tutors support a variety of pedagogical approaches beyond step-based problem solving, including collaborative learning, educational games, and guided invention activities.</a> [+W]</li>
+<li><a href="../../claims/fractions-tutor-significant-learning-gains/">The Fractions Tutor leads to significant learning gains in fractions knowledge that persist over at least one week.</a> [+W]</li>
+<li><a href="../../claims/human-experts-more-nuanced-feedback-than-llm-mrs/">Human experts provide more nuanced and mixed feedback than ChatGPT-4o and Perplexity in mixed reality simulation mentoring</a> [-W]</li>
+<li><a href="../../claims/llm-feedback-no-significant-grade-gain/">LLM-enhanced feedback did not yield a statistically significant improvement in final grades compared with traditional AI feedback</a> [~W]</li>
+<li><a href="../../claims/virtual-character-pedagogical-benefits-weak-evidence/">The empirical evidence for claimed pedagogical benefits of virtual characters is weak and inconclusive</a> [-W]</li>
+<li><a href="../../claims/next-step-hints-outperform-waypoints-posttest/">Next-Step hints outperform Waypoint hints on posttest total steps and accuracy</a> [+W]</li>
+<li><a href="../../claims/waypoints-lower-justification-adoption/">Waypoint hints show lower justification and adoption rates than Next-Step hints</a> [~W]</li>
+<li><a href="../../claims/no-correlation-motivation-learning-gain/">No correlation between motivation or engagement measures and tutor learning gains</a> [~W]</li>
+<li><a href="../../claims/next-step-hints-outperform-waypoints-training/">Next-Step hints outperform Waypoint hints during training on time, steps, accuracy, and score</a> [~W]</li>
+<li><a href="../../claims/adaptive-tutorial-dialogues-effect-size-069/">Students receiving adaptive tutorial dialogues in EER-Tutor outperformed peers receiving non-adaptive dialogues, with effect size 0.69 on learning gains</a> [+W]</li>
+<li><a href="../../claims/deeptutor-macro-adaptivity-gains/">DeepTutor's macro-adaptive learning-progressions selection produced 0.79 σ pretest-posttest gains in a small evaluation, versus very little learning without dynamic dialog selection</a> [+W]</li>
+<li><a href="../../claims/early-autotutor-gains-test-type-dependence/">Early AutoTutor versions gained about 0.5 σ over textbook controls, with gains depending on test type (cloze 0.64 σ, deep 0.28 σ, shallow 0.15 σ)</a> [+W]</li>
+<li><a href="../../claims/hint-level-feedback-superior-sql-tutor/">Hint-level feedback about violated domain principles produced faster and more effective learning than other feedback levels in SQL-Tutor</a> [+W]</li>
+<li><a href="../../claims/reinforcement-learning-micro-adaptation-gains/">Reinforcement learning used for micro-adaptation showed potential learning gains of up to 1 sigma over poorly-optimized dialog or no dialog (per the article, citing Chi et al. 2014)</a> [~W]</li>
+<li><a href="../../claims/theory-based-feedback-more-effective-eer-tutor/">Theory-based feedback in EER-Tutor was more effective in supporting learning than the original designer-intuition feedback</a> [+W]</li>
+<li><a href="../../claims/vbsa-significant-growth-across-iterations/">Repetitive training with the synthetic assistant produced statistically significant performance growth across successive tests, whereas the control group's growth was largely insignificant</a> [+W]</li>
+<li><a href="../../claims/sustained-ai-dialogue-catalyzes-agency/">Sustained interactive dialogue with generative AI over 14 weeks may catalyze rather than constrain learner agency, unlike shorter one-way automated feedback</a> [~W]</li>
+<li><a href="../../claims/why2-autotutor-physics-gains/">In WHY2 physics studies, AutoTutor outperformed read-textbook and no-materials controls and performed comparably to WHY2/Atlas and non-expert human tutors</a> [+W]</li>
+<li><a href="../../claims/aits-learning-effectiveness-pre-post-study/">AITS learning effectiveness evaluated via pre-test/post-test experimental/control group study showed very encouraging results</a> [+W]</li>
+<li><a href="../../claims/llm-plan-generation-adaptive-scaffolding-gbl/">LLM-generated student plans in a game-based learning environment are valid, with T5 plans closely matching student-created plans and GPT-3.5 producing more diverse plans, supporting real-time adaptive scaffolding</a> [+W]</li>
+<li><a href="../../claims/changed-correctness-method-evaluated/">A changed meaning of equation correctness and derivation method is discussed and its effect on tutor effectiveness evaluated</a> [~W]</li>
+<li><a href="../../claims/petal-effective-six-week-control-study/">The introduction reports that the PETAL recursive programming tutor was shown to be highly effective in a 6-week control group study</a> [+W]</li>
+<li><a href="../../claims/vcr-tutor-significant-performance-gains/">The introduction reports that the VCR tutor produced statistically significant performance gains in using the VCR, a rare result for ITSs at the time</a> [+W]</li>
+<li><a href="../../claims/uncontrolled-hint-use-reduces-learning/">Uncontrolled hint use can considerably reduce students' learning and autonomous solving capacity</a> [~W]</li>
+<li><a href="../../claims/tardis-open-learner-model-improved-interview-behaviours/">The TARDIS system improved at-risk young people's interview answers and verbal and nonverbal behaviours</a> [~W]</li>
+<li><a href="../../claims/srl-cgf-improves-learning-motivation/">Chatbot-guided feedback SRL improved university students' learning motivation more than conventional SRL</a> [~W]</li>
+<li><a href="../../claims/srl-cgf-student-perceptions-interviews/">Students in the chatbot-assisted SRL condition reported personalized learning opportunities, enhanced reflection, and improved performance in interviews</a> [+W]</li>
+<li><a href="../../claims/over-reliance-algorithmic-conformity-risk/">A subset of students showed over-reliance and algorithmic conformity patterns, consulting GenAI before independent analysis or revising to match AI output</a> [~W]</li>
+<li><a href="../../claims/gpt-differentiated-use-by-experience/">Lower-experience students used GPTs as conceptual tutors while technically stronger students used them as professional collaborators, consistent with adaptive scaffolding</a> [~W]</li>
+<li><a href="../../claims/tutor-perceived-as-social-actor/">Students spoke of the digital tutor as if it were a human being, suggesting it was perceived as a social actor in line with the CASA principle</a> [~W]</li>
+<li><a href="../../claims/genai-usage-patterns-dialogue-effective/">Case analysis assistance and Socratic dialogue simulation dominated GenAI usage, and dialogue-based interaction patterns were associated with better outcomes than passive use</a> [+W]</li>
+<li><a href="../../claims/automarker-feedback-active-error-resolution-37/">Most surveyed students actively engaged in resolving coding errors based on automarker feedback</a> [~W]</li>
+<li><a href="../../claims/genai-feedback-improves-low-srl-composite/">Low-SRL students receiving GenAI feedback showed significantly higher post-intervention overall SRLs scores than tutor-feedback peers</a> [+M]</li>
+<li><a href="../../claims/pa-scaffolding-hints-not-solutions/">Teachers and students expect PAs to scaffold self-regulated learning by providing hints and questions rather than directly giving solutions</a> [~W]</li>
+<li><a href="../../claims/human-to-human-scripts-baseline-pa-communication/">Teachers and students apply human-to-human communication scripts, using teacher communication as the baseline, when outlining desired PA communication</a> [~W]</li>
+<li><a href="../../claims/multi-agent-vs-mooc-chatbot-engagement-and-pre-post-gain/">Students in the multi-agent environment interacted far more than MOOC students with a Q&amp;A chatbot, and overall scores improved significantly from pre-test to post-test</a> [~W]</li>
+<li><a href="../../claims/age-coherence-agent-material-fosters-learning/">Age coherence between pedagogical agent and learning material fosters learning (study 2)</a> [~W]</li>
+<li><a href="../../claims/ai-led-assistance-more-descriptive-than-peer-feedback/">AI-led assistance in prior work tended to be more descriptive and lacked specific, actionable suggestions compared to peer feedback</a> [-W]</li>
+<li><a href="../../claims/students-prefer-human-feedback-over-ai/">Prior studies summarised in one article report that students rate instructor feedback above AI-generated feedback, and rate AI feedback lower once they know its origin</a> [-W]</li>
+<li><a href="../../claims/high-scaffolding-unfamiliar-strategy-conceptual-gains/">Highly scaffolded tutoring with an unfamiliar strategy yields larger conceptual learning gains than lowly scaffolded tutoring with strategy freedom</a> [+W]</li>
+<li><a href="../../claims/procedural-gains-no-difference-between-scaffolding-levels/">Procedural learning gains do not significantly differ between the highly and lowly scaffolded tutoring systems</a> [~W]</li>
+<li><a href="../../claims/scripted-agent-delivers-srl-support/">Adding goal-monitoring prompts to a scripted conversational agent's weekly goal-setting raised undergraduates' self-reported goal attainment over reflection-only and goal-setting-only conditions</a> [~W]</li>
+<li><a href="../../claims/genai-immediate-gains-no-motivation-longterm/">GenAI chatbot yielded immediate essay score gains but no gains in intrinsic motivation or longer-term knowledge outcomes</a> [~W]</li>
+<li><a href="../../claims/genai-chatbot-increased-executive-help-seeking-reduced-metacognition/">GenAI chatbot support increased executive help-seeking but reduced metacognitive engagement compared to human expert support</a> [-W]</li>
+</ul>
+<h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../../designs/sts-theory-chatgpt-virtual-laboratory-assistant/">ChatGPT as a virtual laboratory assistant in a sociotechnical system</a> — ChatGPT answers lab questions beside human TAs, not in their place</li>
+</ul>
+<h2 id="related-patterns">Related Patterns<a class="headerlink" href="#related-patterns" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../mastery-learning/">Mastery Learning</a></li>
+<li><a href="../self-regulated-learning/">Self-Regulated Learning</a></li>
+<li><a href="../worked-examples/">Worked Examples</a></li>
+<li><a href="../formative-assessment/">Formative Assessment</a></li>
+<li><a href="../cognitive-apprenticeship/">Cognitive Apprenticeship</a></li>
+<li><a href="../collaborative-learning/">Collaborative Learning</a></li>
+<li><a href="../practice-with-simulated-people/">Practice with Simulated People</a></li>
+<li><a href="../mentor-support-in-self-paced-online-learning/">Mentor Support in Self-Paced Online Learning</a></li>
+<li><a href="../competency-based-learning/">Competency-Based Learning</a></li>
+<li><a href="../online-course-design/">Online Course Design</a></li>
+</ul>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Ma, W., Adesope, O. O., Nesbit, J. C., &amp; Liu, Q. (2014). Intelligent tutoring systems and learning outcomes: A meta-analysis. <em>Journal of Educational Psychology, 106</em>(4), 901–918. <a href="https://doi.org/10.1037/a0037123">doi:10.1037/a0037123</a></li>
+<li>Kulik, J. A., &amp; Fletcher, J. D. (2016). Effectiveness of intelligent tutoring systems: A meta-analytic review. <em>Review of Educational Research, 86</em>(1), 42–78. <a href="https://doi.org/10.3102/0034654315581420">doi:10.3102/0034654315581420</a></li>
+<li>VanLehn, K. (2011). The relative effectiveness of human tutoring, intelligent tutoring systems, and other tutoring systems. <em>Educational Psychologist, 46</em>(4), 197–221. <a href="https://doi.org/10.1080/00461520.2011.611369">doi:10.1080/00461520.2011.611369</a></li>
+<li>Chi, M. T. H., Siler, S. A., Jeong, H., Yamauchi, T., &amp; Hausmann, R. G. (2001). Learning from human tutoring. <em>Cognitive Science, 25</em>(4), 471–533. <a href="https://doi.org/10.1207/s15516709cog2504_1">doi:10.1207/s15516709cog2504_1</a></li>
+<li>Graesser, A. C. (2016). Conversations with AutoTutor Help Students Learn. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-015-0086-4</li>
+<li>Bastani Hamsa, Bastani Osbert, Sungu Alp, Ge Haosen, Kabakcı Özge, Mariman Rei. (2025). Generative AI without guardrails can harm learning: Evidence from high school mathematics. Proceedings of the National Academy of Sciences of the United States of America. https://doi.org/10.1073/pnas.2422633122</li>
+<li>Kestin, G., Miller, K., Klales, A., Milbourne, T. &amp; Ponti, G. (2025). AI tutoring outperforms in-class active learning: an RCT introducing a novel research-based design in an authentic educational setting. Scientific Reports 15:17458. https://doi.org/10.1038/s41598-025-97652-6</li>
+<li>Zara Contractor and Germán Reyes. (2026). Experimental Evidence on the Learning Impact of Generative AI. https://arxiv.org/abs/2607.08849 <a href="https://doi.org/10.48550/arxiv.2607.08849">doi:10.48550/arxiv.2607.08849</a></li>
+<li>Grace Liu, Brian Christian, Tsvetomira Dumbalska, Michiel A. Bakker, Rachit Dubey. (2026). AI Assistance Reduces Persistence and Hurts Independent Performance. Published as a conference paper at COLM 2026. https://arxiv.org/abs/2604.04721</li>
+<li>Pardos ZA, Bhandari S (2024) ChatGPT-generated help produces learning gains equivalent to human tutor-authored help on mathematics skills. PLoS ONE 19(5): e0304013. https://doi.org/10.1371/journal.pone.0304013</li>
+<li>Reddig, J. M., Arora, A., &amp; MacLellan, C. J. (2025). Generating In-Context, Personalized Feedback for Intelligent Tutors with Large Language Models. Int J Artif Intell Educ. https://doi.org/10.1007/s40593-025-00505-6</li>
+<li>Hou, X., Weng, Y., Yeh, C. H., Lee, D. L., Zheng, L., Li, F., Wang, W., &amp; Liu, Y. (2026). Adaptive Scaffolding Needs Contingency: An AI Tutor That Escalates and Fades on What the Learner Does. arXiv preprint. https://arxiv.org/abs/2609.22993 <a href="https://doi.org/10.48550/arxiv.2609.22993">doi:10.48550/arxiv.2609.22993</a></li>
+<li>Shuyi Fan, Boyuan Deng, Mengyu Xu, Jiale Liu, Hongyang Zhang, Qiaoxin Yang, Chongyang Gao. (2026). Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models. arXiv. https://arxiv.org/abs/2607.28128 <a href="https://doi.org/10.48550/arxiv.2607.28128">doi:10.48550/arxiv.2607.28128</a></li>
+<li>Belland, B. R., Walker, A. E., Kim, N. J., &amp; Lefler, M. (2017). Synthesizing Results From Empirical Research on Computer-Based Scaffolding in STEM Education: A Meta-Analysis. <em>Review of Educational Research, 87</em>(2), 309–344. <a href="https://doi.org/10.3102/0034654316670999">doi:10.3102/0034654316670999</a></li>
+<li>Wisniewski, B., Zierer, K., &amp; Hattie, J. (2020). The power of feedback revisited: A meta-analysis of educational feedback research. <em>Frontiers in Psychology, 10</em>, 3087. <a href="https://doi.org/10.3389/fpsyg.2019.03087">doi:10.3389/fpsyg.2019.03087</a></li>
+<li>Kluger, A. N., &amp; DeNisi, A. (1996). The effects of feedback interventions on performance: A historical review, a meta-analysis, and a preliminary feedback intervention theory. <em>Psychological Bulletin, 119</em>(2), 254–284. <a href="https://doi.org/10.1037/0033-2909.119.2.254">doi:10.1037/0033-2909.119.2.254</a></li>
+<li>Ren S (2026) College students’ metacognitive awareness of generative-AI reliance: an experimental study of decision confidence and attribution bias. Front. Psychol. 17:1926110. https://doi.org/10.3389/fpsyg.2026.1926110</li>
+<li>Xiaoyu Hou, Bo Xiao, Hexu Liu and Shane Mueller. (2026). The Role of Instructional Guidance in Generative AI-Assisted Learning: Empirical Evidence from Construction Engineering Education. https://arxiv.org/abs/2606.05509 <a href="https://doi.org/10.48550/arxiv.2606.05509">doi:10.48550/arxiv.2606.05509</a></li>
+<li>Tomohiro Nagashima, Mirella Hladký, and Vera Rief. (2026). Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System. https://arxiv.org/abs/2606.03822 <a href="https://doi.org/10.48550/arxiv.2606.03822">doi:10.48550/arxiv.2606.03822</a></li>
+<li>Wong, S. S. H., &amp; Qiu, S. X. (2026). Think First, ChatGPT Later: Guiding Human–AI Collaboration for Learning Gains in Independent Human Creativity. Educational Psychology Review. https://doi.org/10.1007/s10648-026-10118-7</li>
+<li>Chen X (2026) Layer-sensitive cognitive offloading in generative AI-assisted writing: supported performance and independent no-AI outcomes. Front. Psychol. 17:1906199. https://doi.org/10.3389/fpsyg.2026.1906199</li>
+<li>Zhao Yan, Yue Yuhe, Sun Zhonghua, Jiang Qiang, Li Gangsheng. (2025). Does Generative Artificial Intelligence Improve Students’ Higher-Order Thinking? A Meta-Analysis Based on 29 Experiments and Quasi-Experiments. Journal of Intelligence. https://doi.org/10.3390/jintelligence13120160</li>
+<li>Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky. (2025). Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise. arXiv:2410.03017v2. https://arxiv.org/abs/2410.03017 <a href="https://doi.org/10.48550/arxiv.2410.03017">doi:10.48550/arxiv.2410.03017</a></li>
+<li>Ashish Gurung, Ge Gao, Jordan Gutterman, Danielle R. Thomas, Shivang Gupta, Lee Branstetter, Emma Brunskill, Vincent Aleven, Kenneth R. Koedinger. (2026). Improving Hybrid Human-AI Tutoring by Differentiating Human Tutor Roles Based on Student Needs. arXiv preprint. https://arxiv.org/abs/2605.11155 <a href="https://doi.org/10.48550/arxiv.2605.11155">doi:10.48550/arxiv.2605.11155</a></li>
+<li>Koedinger, K., Aleven, V., Roll, I., &amp; Baker, R. (2008). In vivo experiments on whether supporting metacognition in intelligent tutoring systems yields robust learning. https://learnlab.org/</li>
+<li>W. Lewis Johnson &amp; James C. Lester. (2015). Face-to-Face Interaction with Pedagogical Agents, Twenty Years Later. Int J Artif Intell Educ. https://doi.org/10.1007/s40593-015-0065-9</li>
+<li>Nicole C. Krämer &amp; Gary Bente. (2010). Personalizing e-Learning. The Social Effects of Pedagogical Agents. Educ Psychol Rev. https://doi.org/10.1007/s10648-010-9123-x</li>
+<li>Woo, H.L. (2009). Designing multimedia learning environments using animated pedagogical agents: factors and issues. Journal of Computer Assisted Learning, 25, 203-218. https://doi.org/10.1111/j.1365-2729.2008.00299.x</li>
+<li>Kim, Y., Baylor, A. L., &amp; PALS Group. (2006). Pedagogical Agents as Learning Companions: The Role of Agent Competency and Type of Interaction. Educational Technology Research and Development, 54(3), 223-243. https://doi.org/10.1007/s11423-006-8805-z</li>
+<li>Kobayashi, K. (2019). Learning by preparing-to-teach and teaching: A meta-analysis. <em>Japanese Psychological Research, 61</em>(3), 192–203. <a href="https://doi.org/10.1111/jpr.12221">doi:10.1111/jpr.12221</a></li>
+<li>Doris B. Chin, Ilsa M. Dohmen, and Daniel L. Schwartz. (2013). Young Children Can Learn Scientific Reasoning with Teachable Agents. IEEE Transactions on Learning Technologies. https://doi.org/10.1109/TLT.2013.24</li>
+<li>Angxuan Chen, Yuang Wei, Huixiao Le, Yan Zhang. (2024). Learning-by-Teaching with ChatGPT: The Effect of Teachable ChatGPT Agent on Programming Education. arXiv. https://arxiv.org/abs/2412.15226 <a href="https://doi.org/10.48550/arxiv.2412.15226">doi:10.48550/arxiv.2412.15226</a></li>
+<li>Castro-Alonso, J. C., Wong, R. M., Adesope, O. O., &amp; Paas, F. (2021). Effectiveness of Multimedia Pedagogical Agents Predicted by Diverse Theories: a Meta-Analysis. <em>Educational Psychology Review</em>. https://doi.org/10.1007/s10648-020-09587-1</li>
+<li>Biswas, G., Segedy, J. R., &amp; Bunchongchit, K. (2016). From Design to Implementation to Practice a Learning by Teaching System: Betty's Brain. <em>International Journal of Artificial Intelligence in Education</em>. https://doi.org/10.1007/s40593-015-0057-9</li>
+<li>Radkowitsch, A., Vogel, F., &amp; Fischer, F. (2020). Good for learning, bad for motivation? A meta-analysis on the effects of computer-supported collaboration scripts. <em>International Journal of Computer-Supported Collaborative Learning, 15</em>, 5–47. https://doi.org/10.1007/s11412-020-09316-4</li>
+<li>Freydis Vogel &amp; Christof Wecker &amp; Ingo Kollar &amp; Frank Fischer. (2016). Socio-Cognitive Scaffolding with Computer-Supported Collaboration Scripts: a Meta-Analysis. Educ Psychol Rev (2017) 29:477–511. https://doi.org/10.1007/s10648-016-9361-7</li>
+<li>Ritter, S., Anderson, J. R., Koedinger, K. R., &amp; Corbett, A. (2007). Cognitive Tutor: Applied research in mathematics education. Psychonomic Bulletin &amp; Review, 14(2), 249-255. https://doi.org/10.3758/bf03194060</li>
+<li>Li, S., Zeng, C., Liu, H., Jia, J., Liang, M., Cha, Y., Lim, C. P., &amp; Wu, X. (2025). A meta-analysis of AI-enabled personalized STEM education in schools. International Journal of STEM Education. https://doi.org/10.1186/s40594-025-00566-y</li>
+<li>Walkington, C. A. (2013). Using adaptive learning technologies to personalize instruction to student interests: The impact of relevant contexts on performance and learning outcomes. <em>Journal of Educational Psychology, 105</em>(4), 932–945. <a href="https://doi.org/10.1037/a0031882">doi:10.1037/a0031882</a></li>
+<li>Kalyuga, S., &amp; Renkl, A. (2010). Expertise reversal effect and its instructional implications: introduction to the special issue. Instructional Science. https://doi.org/10.1007/s11251-009-9102-0</li>
+<li>Yan, L., Greiff, S., Lodge, J. M., &amp; Gašević, D. (2025). Distinguishing performance gains from learning when using generative AI. Nature Reviews Psychology, 4, 435–436. https://doi.org/10.1038/s44159-025-00467-5</li>
+<li>Urban, M., Děchtěrenko, F., Lukavský, J., Hrabalová, V., Svacha, F., Brom, C., &amp; Urban, K. (2024). ChatGPT Improves Creative Problem-Solving Performance in University Students: An Experimental Study. Computers &amp; Education. https://doi.org/10.1016/j.compedu.2024.105031</li>
+<li>Kosmyna, N., Hauptmann, E., Yuan, Y. T., Situ, J., Liao, X.-H., Beresnitzky, A. V., Braunstein, I., &amp; Maes, P. (2025). Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task. Preprint. https://arxiv.org/abs/2506.08872 <a href="https://doi.org/10.48550/arxiv.2506.08872">doi:10.48550/arxiv.2506.08872</a></li>
+<li>Ahtisham, B., Vanacore, K., Napoli, A., Arens, J., Ionova, K., Cohn, C., Salehi, S., &amp; Kizilcec, R. (2026). Examining Variation in How Guided AI Tutors Resolve Student Impasses. arXiv. https://arxiv.org/abs/2609.38346 <a href="https://doi.org/10.48550/arxiv.2609.38346">doi:10.48550/arxiv.2609.38346</a></li>
+<li>Abdelghani, R., Kaiser, P., &amp; Murayama, K. (2026). Regulating the AI Tutor: Intentions, Help-Seeking, and Self-Regulated Learning in Adolescent GenAI Use. NextGen Learning Interfaces Workshop, AIED 2026. https://arxiv.org/abs/2606.08568 <a href="https://doi.org/10.48550/arxiv.2606.08568">doi:10.48550/arxiv.2606.08568</a></li>
+<li>Tan, M., Phalen, L., &amp; Demszky, D. (2026). Marked Pedagogies: Examining Linguistic Biases in Personalized Automated Writing Feedback. LAK 2026. ACM. <a href="https://doi.org/10.1145/3785022.3785113">doi:10.1145/3785022.3785113</a></li>
+<li>Vonschallen, S., Kaufmann, K., Oberle, D., Eyssel, F., &amp; Schmiedel, T. (2026). Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education. arXiv. https://arxiv.org/abs/2607.22345 <a href="https://doi.org/10.48550/arxiv.2607.22345">doi:10.48550/arxiv.2607.22345</a></li>
+<li>Zhao, J., Yang, K., Gao, H., &amp; Jiang, G. (2026). Generative artificial intelligence and the transformation of medical education: a scoping review. Front. Educ. 11:1907589. https://doi.org/10.3389/feduc.2026.1907589</li>
+<li>Yang, L., Liu, H., Li, S., Jia, R., Xiao, Y., Chen, G., &amp; Lu, L. (2026). Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training. https://arxiv.org/abs/2609.10939 <a href="https://doi.org/10.48550/arxiv.2609.10939">doi:10.48550/arxiv.2609.10939</a></li>
+<li>Shihao Yang, Marshall Van Alstyne, and Chrysanthos Dellarocas. (2026). When AI Tutors Speak: Evidence from a Randomized Field Experiment. https://arxiv.org/abs/2609.23958 <a href="https://doi.org/10.48550/arxiv.2609.23958">doi:10.48550/arxiv.2609.23958</a></li>
+<li>Curtis Northcutt, Inaara Hasmani, Kevin Feng, Trevor Khangi, Andreas Plesner, Jonas Mueller. (2026). StudentBench: AI and human tutoring yield equivalent GRE learning gains. https://arxiv.org/abs/2609.28470 <a href="https://doi.org/10.48550/arxiv.2609.28470">doi:10.48550/arxiv.2609.28470</a></li>
+<li>Benjamin Lira, Todd Rogers, Daniel G. Goldstein, Lyle Ungar, and Angela L. Duckworth. (2025). Coach not crutch: Evidence that AI can improve writing skill despite reducing effort. https://arxiv.org/abs/2502.02880 <a href="https://doi.org/10.48550/arxiv.2502.02880">doi:10.48550/arxiv.2502.02880</a></li>
+<li>Maier, S., Gunzenhäuser, M., Schweisthal, J., Schneider, M., &amp; Feuerriegel, S. (2026). A meta-analysis of the effect of generative AI on productivity and learning in programming. arXiv preprint. https://arxiv.org/abs/2605.04779 <a href="https://doi.org/10.48550/arxiv.2605.04779">doi:10.48550/arxiv.2605.04779</a></li>
+<li>Fernandes, D., Buschek, D., Tankelevitch, L., Kosch, T., &amp; Welsch, R. (2026). Explaining Too Much? Understanding How Large Language Model Reasoning Traces Influence Performance and Metacognition. https://arxiv.org/abs/2605.25856 <a href="https://doi.org/10.48550/arxiv.2605.25856">doi:10.48550/arxiv.2605.25856</a></li>
+<li>Bruno De Lièvre, Christian Depover &amp; Pierre Dillenbourg. (2006). The relationship between tutoring mode and learners' use of help tools in distance education. Instructional Science. https://doi.org/10.1007/s11251-005-6076-4</li>
+<li>Escalante, J., Pack, A., &amp; Barrett, A. (2023). AI-generated feedback on writing: insights into efficacy and ENL student preference. International Journal of Educational Technology in Higher Education, 20:57. https://doi.org/10.1186/s41239-023-00425-2</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>pattern</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>ai-tutoring</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>AI Tutoring</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>A reusable policy for tutoring by software, from step-based intelligent tutoring systems to conversational AI tutors and pedagogical or teachable agents: decide how much the tutor gives away, keep the learner doing the reasoning, judge it on unaided performance rather than assisted practice, and decide when a human tutor or mentor takes over.</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>grain_size</code></td>
+<td><code>course</code></td>
+</tr>
+<tr>
+<td><code>canonical</code></td>
+<td><code>True</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>claude/unspecified</code> on <code>2026-10-19</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      <span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)
+    </div>
+  
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.sections", "navigation.top", "navigation.tracking", "navigation.path", "navigation.prune", "toc.follow", "content.code.copy", "content.tooltips"], "search": "../../assets/javascripts/workers/search.a7633da7.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.c21346df.min.js"></script>
+      
+    
+  </body>
+</html>

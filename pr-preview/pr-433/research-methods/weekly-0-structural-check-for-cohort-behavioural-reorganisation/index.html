@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Weekly β0 structural check for cohort behavioural reorganisation - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<link rel="stylesheet" href="../../assets/stylesheets/lt.css">
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script src="../../assets/javascripts/lt-palette.js" data-root="../../"></script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../research-methods/">Research methods</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Research method">
+<h1 id="weekly-0-structural-check-for-cohort-behavioural-reorganisation">Weekly β0 structural check for cohort behavioural reorganisation<a class="headerlink" href="#weekly-0-structural-check-for-cohort-behavioural-reorganisation" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Research Method</strong> · <a href="../">All research methods</a><br />
+<strong>Evidence</strong> · 5 claims (3 for, 2 mixed) · 1 study (1 design), <code>q2</code> · 0 of 1 report an effect size · 5 claims rest on one study</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>A structural summary of how a cohort divides in each week: learners are represented as points in a feature space, connected when Euclidean distance falls below a threshold ε, and β0 counts the connected components of the graph, read as "the number of distinct behavioural groups the cohort forms that week". Tracked across weeks it describes reorganisation rather than level. It requires no optimisation or random seed, is defined for disconnected graphs, and is computed identically on real and synthetic cohorts.</p>
+<h2 id="accounts">Accounts<a class="headerlink" href="#accounts" title="Permanent link">&para;</a></h2>
+<!-- How each source describes or uses the method -->
+<ul>
+<li><strong>Weekly β0 structural check: connected components of a weekly proximity graph over learners tracked across a term</strong>: A structural summary of how a cohort divides in each week: learners are represented as points in a feature space, connected when Euclidean distance falls below a threshold ε, and β0 counts the connected components of the graph, read as "the number of distinct behavioural groups the cohort forms that week". Tracked across weeks it describes reorganisation rather than level. It requires no optimisation or random seed, is defined for disconnected graphs, and is computed identically on real and synthetic cohorts. (Inoue et al. (2026))</li>
+</ul>
+<h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../../claims/synthetic-cohorts-understate-weekly-beta0-variation/">Synthetic cohorts reproduce the level and shape of the weekly β0 partition but vary 2.6–4.9 times less across the term than real cohorts at a common working point</a> [+M]</li>
+<li><a href="../../claims/structural-check-calibrated-passable-separability-not-fidelity/">In a control experiment on data of known construction, the check is calibrated, can be passed, and separability from marginals is not fidelity</a> [+M]</li>
+<li><a href="../../claims/rule-selected-thresholds-make-cross-dataset-beta0-comparison-invalid/">The routine rule for selecting the graph threshold makes naive comparisons of β0 between two datasets invalid</a> [~W]</li>
+<li><a href="../../claims/synthetic-cohorts-reproduce-partition-descriptors-and-study-volume-association/">Partition descriptors and the component-membership–study-volume association are reproduced by the synthetic cohorts</a> [~W]</li>
+<li><a href="../../claims/real-cohorts-separate-from-marginal-surrogates-synthetic-do-not/">Real cohorts separate from marginal-preserving surrogates of themselves in all four years, while three of four synthetic cohorts do not</a> [+W]</li>
+</ul>
+<h2 id="related-research-methods">Related Research Methods<a class="headerlink" href="#related-research-methods" title="Permanent link">&para;</a></h2>
+<p>-</p>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Inoue, H., &amp; Yasutake, K. (2026). What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data. Proceedings of the 34th International Conference on Computers in Education. Asia-Pacific Society for Computers in Education. https://library.apsce.net. <a href="https://doi.org/10.48550/arxiv.2609.27265">doi:10.48550/arxiv.2609.27265</a></li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:settle-candidates</code> on <code>2026-10-11</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+<script src="../../assets/javascripts/lt-nav.js" data-root="../../" data-folder="research-methods"></script>
+</body>
+</html>

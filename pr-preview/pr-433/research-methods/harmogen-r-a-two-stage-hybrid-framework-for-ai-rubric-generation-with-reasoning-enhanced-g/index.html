@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>HARMOGEN-R: a two-stage hybrid framework for AI rubric generation with reasoning-enhanced generation and low-temperature synthesis - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<link rel="stylesheet" href="../../assets/stylesheets/lt.css">
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script src="../../assets/javascripts/lt-palette.js" data-root="../../"></script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../research-methods/">Research methods</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Research method">
+<h1 id="harmogen-r-a-two-stage-hybrid-framework-for-ai-rubric-generation-with-reasoning-enhanced-generation-and-low-temperature-synthesis">HARMOGEN-R: a two-stage hybrid framework for AI rubric generation with reasoning-enhanced generation and low-temperature synthesis<a class="headerlink" href="#harmogen-r-a-two-stage-hybrid-framework-for-ai-rubric-generation-with-reasoning-enhanced-generation-and-low-temperature-synthesis" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Research Method</strong> · <a href="../">All research methods</a><br />
+<strong>Evidence</strong> · 2 claims (2 for) · 1 study (1 causal), <code>q3</code> · 0 of 1 report an effect size · 2 claims rest on one study</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>HARMOGEN-R (Hybrid Assessment Rubric Model Generation with Reasoning) is a two-stage rubric generation pipeline. In stage one, reasoning-capable LLMs generate several candidate rubrics under a high temperature setting "to promote variation in criterion formulation and scoring structure"; in stage two, a synthesis model from the same provider family consolidates the candidates into a single rubric at low temperature (T = 1.0 for generation, T = 0.1 for synthesis). It supports a structured mode, in which predefined criteria and point allocations from the human baseline are supplied, and a free-form mode, in which the model defines criteria autonomously. Implemented with OpenAI (o3-mini, GPT-4o) and DeepSeek (deepseek-r1-distill-llama-70b, deepseek-chat) families, it produced four AI rubric variants per assessment for comparison against a human-created baseline.</p>
+<h2 id="accounts">Accounts<a class="headerlink" href="#accounts" title="Permanent link">&para;</a></h2>
+<!-- How each source describes or uses the method -->
+<ul>
+<li><strong>HARMOGEN-R: a two-stage hybrid framework for AI rubric generation with reasoning-enhanced generation and low-temperature synthesis</strong>: HARMOGEN-R (Hybrid Assessment Rubric Model Generation with Reasoning) is a two-stage rubric generation pipeline. In stage one, reasoning-capable LLMs generate several candidate rubrics under a high temperature setting "to promote variation in criterion formulation and scoring structure"; in stage two, a synthesis model from the same provider family consolidates the candidates into a single rubric at low temperature (T = 1.0 for generation, T = 0.1 for synthesis). It supports a structured mode, in which predefined criteria and point allocations from the human baseline are supplied, and a free-form mode, in which the model defines criteria autonomously. Implemented with OpenAI (o3-mini, GPT-4o) and DeepSeek (deepseek-r1-distill-llama-70b, deepseek-chat) families, it produced four AI rubric variants per assessment for comparison against a human-created baseline. (Pedro C. Mendonça et al. (2026))</li>
+</ul>
+<h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../../claims/ai-rubrics-pooled-equivalence-human-evaluators/">When applied by human evaluators, all four AI-generated rubrics met pooled scoring equivalence with a human-created baseline within a ±5-point margin</a> [+M]</li>
+<li><a href="../../claims/open-weight-proprietary-rubric-equivalence/">Open-weight (DeepSeek) and proprietary (OpenAI) rubrics produced equivalent grading outcomes in every assignment-approach comparison except Assignment 1 free-form</a> [+M]</li>
+</ul>
+<h2 id="related-research-methods">Related Research Methods<a class="headerlink" href="#related-research-methods" title="Permanent link">&para;</a></h2>
+<p>-</p>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Pedro C. Mendonça, Filipe Quintal, Mário Figueiredo, Karolina Baras, Fábio Mendonça. (2026). A hybrid reasoning framework for artificial intelligence assessment rubric generation in human and automated contexts: Evidence from an undergraduate programming course. Computers and Education: Artificial Intelligence 11 (2026) 100663. https://doi.org/10.1016/j.caeai.2026.100663</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:settle-candidates</code> on <code>2026-10-12</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+<script src="../../assets/javascripts/lt-nav.js" data-root="../../" data-folder="research-methods"></script>
+</body>
+</html>

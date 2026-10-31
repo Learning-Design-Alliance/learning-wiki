@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Rank-averaged ensembling stabilized predictions but did not outperform the single base model - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<link rel="stylesheet" href="../../assets/stylesheets/lt.css">
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script src="../../assets/javascripts/lt-palette.js" data-root="../../"></script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../claims/">Claims</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="rank-averaged-ensembling-stabilized-predictions-but-did-not-outperform-the-single-base-model">Rank-averaged ensembling stabilized predictions but did not outperform the single base model<a class="headerlink" href="#rank-averaged-ensembling-stabilized-predictions-but-did-not-outperform-the-single-base-model" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a><br />
+<strong>Evidence</strong> · 1 study · design <code>r2</code> · <code>q3</code><br />
+<strong>Currency</strong> · newest study 2024 · not yet checked against its sources · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly</p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q3 i?</code> The ensemble achieved the best public evaluation AUC and second-best private AUC, but did not perform better than Model 1. <a href="#lu-2024">→ Lu 2024</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="lu-2024">Lu 2024<a class="headerlink" href="#lu-2024" title="Permanent link">&para;</a></h3>
+<p>Lu, Y., Tong, L., &amp; Cheng, Y. (2024). Advanced Knowledge Tracing: Incorporating Process Data and Curricula Information via an Attention-Based Framework for Accuracy and Interpretability. Journal of Educational Data Mining, 16(2). https://osf.io/mdpzc/ <a href="https://doi.org/10.31219/osf.io/3k7z2">doi:10.31219/osf.io/3k7z2</a></p>
+<p><code>q3 · i? · the article prints no effect size for this finding</code> · <code>design · r2</code></p>
+<p>Results section, Table 4: the rank-averaging ensemble of five trained models reached public AUC 0.79038 and private 0.78969. The authors report "the ensemble model does not perform better than Model 1, suggesting that we can just use Model 1 in practice".</p>
+<blockquote>
+<p>"However, note that the ensemble model does not perform better than Model 1, suggesting that we can just use Model 1 in practice."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../ablation-all-features-maximize-auc/">Ablation study: removing any component lowers evaluation AUC, and removing all additional features yields the lowest public and private AUCs</a> — related</li>
+<li><a href="../model1-outperforms-complex-model2/">The single-head base model (Model 1) outperformed the more complex Model 2, suggesting overfitting in the larger architecture</a> — related</li>
+<li><a href="../transformer-kt-first-place-edm-cup-2023/">The proposed Transformer-based framework achieved first place in the EDM Cup 2023 with an AUC of 78.969% on the private evaluation dataset</a> — related</li>
+<li><a href="../ensembling-worsens-llm-alignment-with-learning/">Both pedagogy-expertise-weighted and unanimous-vote ensembles frequently worsen LLM alignment with student learning</a> — related</li>
+<li><a href="../ensemble-models-performance-gains-llm-scoring/">Ensemble modeling of multiple LLM scorers yields performance gains in automated divergent thinking scoring</a> — reports the opposite</li>
+<li>Majority-vote ensembling across three runs produced only modest accuracy gains (1% to 5%) with no model showing degradation — related</li>
+<li><a href="../stacking-ensemble-best-finetuning-f1/">A stacking ensemble of LG, SVM, NB, KNN and XGB achieved the best fine-tuning F1-score (0.88), outperforming individual models such as SVM (0.86)</a> — related</li>
+<li><a href="../soft-voting-ensemble-behavioral-attrition-f1/">A Soft-Voting Ensemble achieves the best behavioral-dataset attrition prediction (CV F1 = 0.737, test recall = 0.769)</a> — related</li>
+<li><a href="../rater-ensembles-outperform-llms-feedback/">Ensembles of operational raters outperform the LLMs: two raters suffice on average across aspects, but larger ensembles are needed for individual aspects</a> — related</li>
+<li><a href="../llm-scoring-three-techniques-raise-human-judge-correlation/">Model self-confidence, weighted probabilistic scoring, and ensemble modeling each significantly improve LLM-based divergent thinking scoring, raising correlation with human judges from r = 0.781 to r = 0.823</a> — related</li>
+<li><a href="../multi-gps-gpad-no-better-than-ea4-alone/">A multi-polygenic-score GPAΔ predicted achievement no better than the EA4 GPS alone</a> — related</li>
+<li><a href="../ensemble-outperforms-base-learners-exam-grade/">An ensemble learner outperforms every individual base learner for predicting final exam score and course grade in a large introductory statistics course</a> — related</li>
+<li><a href="../plait-ensemble-outperforms-single-and-standard-ensembles/">Each generalised plait ensemble (SVM, KNN, DCT) beats the single classifier, majority-vote and stacking ensemble of the same type in perceived task-difficulty classification (e.g., SVM plait error 14.54%, KNN plait 12.84%), though the DCT plait does not beat SVM stacking</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-09-25</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+<script src="../../assets/javascripts/lt-nav.js" data-root="../../" data-folder="claims"></script>
+</body>
+</html>

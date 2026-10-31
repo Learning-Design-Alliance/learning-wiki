@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Multi-armed randomized trial analysis - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<link rel="stylesheet" href="../../assets/stylesheets/lt.css">
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script src="../../assets/javascripts/lt-palette.js" data-root="../../"></script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../research-methods/">Research methods</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Research method">
+<h1 id="multi-armed-randomized-trial-analysis">Multi-armed randomized trial analysis<a class="headerlink" href="#multi-armed-randomized-trial-analysis" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Research Method</strong> · <a href="../">All research methods</a><br />
+<strong>Evidence</strong> · 1 claim (1 for) · 1 study (1 theoretical), <code>q2</code> · 0 of 1 report an effect size · 1 claim rests on one study</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>The report's guidance is that analysts running studies with several intervention arms should not simply reuse two-group methods: estimators "need to be modified for the multi-armed design," hypothesis tests across pairwise contrasts require multiple comparison adjustments, and CACE estimation demands attention to its complex identifying assumptions. The principle directs evaluation design and analysis choices in multi-armed education studies.</p>
+<h2 id="accounts">Accounts<a class="headerlink" href="#accounts" title="Permanent link">&para;</a></h2>
+<!-- How each source describes or uses the method -->
+<ul>
+<li><strong>Researchers conducting multi-armed RCTs should adapt estimation, multiplicity testing, and CACE methods from two-group practice</strong>: The report's guidance is that analysts running studies with several intervention arms should not simply reuse two-group methods: estimators "need to be modified for the multi-armed design," hypothesis tests across pairwise contrasts require multiple comparison adjustments, and CACE estimation demands attention to its complex identifying assumptions. The principle directs evaluation design and analysis choices in multi-armed education studies. (Peter Z. Schochet (2017))</li>
+<li><strong>Design-based estimation framework extended from two-group RCTs to multi-armed RCTs</strong>: The article develops design-based estimators for average treatment effects in randomized controlled trials with multiple research groups, building on an existing framework for single treatment-control designs. As the abstract states, "This article builds on this framework to develop design-based estimators for evaluations with multiple research groups." The framework addresses how two-group estimators must be adjusted when analysis involves pairwise contrasts across research groups. (Peter Z. Schochet (2018))</li>
+<li><strong>Recurrent Individual Treatment Assignment (RITA) algorithm: sequential RCTs with rank-based probability updating that avoids explicit ITE estimation</strong>: RITA is a longitudinal individual assignment algorithm based on sequential RCTs or A/B-tests. Rather than estimating ITEs, it ranks each individual's observed treatment response each period, updates individual mean ranks per intervention, and adjusts assignment probabilities using an exponential learning parameter. The article states RITA 'refrains from attempting to estimate ITE and focuses on individual treatment response and assignment instead.' It maintains a minimum exploration level to allow for dynamic treatment effects. (Ilja Cornelisz et al. (2022))</li>
+<li><strong>AI-controlled experimental sampling: multi-armed bandit and adaptive design optimization methods for running education experiments at scale</strong>: The article frames the experimental process itself as an efficient search problem that AI can play a major role in. It notes that educational data mining research "has already started looking at dynamically assigning subjects to different learning conditions based on multi-armed bandit models," that cognitive model-comparison experiments have used adaptive design optimization, and that adaptive sampling is common in medical research. In the long term, automated experimentation may compare the effectiveness of different services or content modules by randomly selecting them from open repositories, allowing direct comparison of theories and exploration of interactions between theoretically-grounded constructs. (Nye (2016))</li>
+</ul>
+<h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../../claims/variance-adjustment-reduces-precision-multi-armed/">Variance terms in multi-armed RCT estimators need slight adjustment under the finite-population framework, which can reduce precision</a> [+W]</li>
+</ul>
+<h2 id="related-research-methods">Related Research Methods<a class="headerlink" href="#related-research-methods" title="Permanent link">&para;</a></h2>
+<p>-</p>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Peter Z. Schochet. (2017). Multi-Armed RCTs: A Design-Based Framework. Washington, DC: U.S. Department of Education, Institute of Education Sciences, National Center for Education Evaluation and Regional Assistance. https://ies.ed.gov</li>
+<li>Peter Z. Schochet. (2018). Design-Based Estimators for Average Treatment Effects for Multi-Armed RCTs. Journal of Educational and Behavioral Statistics, vol. 43, issue 5. https://www.mathematica.org/publications/design-based-estimators-for-average-treatment-effects-for-multi-armed-rcts</li>
+</ul>
+<!-- merged 2026-10-10 from theories/design-based-estimators-multi-armed-rcts ("Design-based estimation framework extended from two-group RCTs to multi-armed RCTs"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Ilja Cornelisz and Chris van Klaveren. (2022). Recurrent individual treatment assignment: a treatment policy approach to account for heterogeneous treatment effects. npj Science of Learning 7:3. https://doi.org/10.1038/s41539-021-00117-4
+- Nye, B. D. (2016). ITS, The End of the World as We Know It: Transitioning AIED into a Service-Oriented Ecosystem. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-016-0098-8
+
+# Design-based estimation framework extended from two-group RCTs to multi-armed RCTs
+
+> **Theory** · [All theories](../)
+> **Evidence** · 5 claims (5 for) · 2 studies (2 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 5 claims rest on one study
+
+## Description
+The article develops design-based estimators for average treatment effects in randomized controlled trials with multiple research groups, building on an existing framework for single treatment-control designs. As the abstract states, "This article builds on this framework to develop design-based estimators for evaluations with multiple research groups." The framework addresses how two-group estimators must be adjusted when analysis involves pairwise contrasts across research groups.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Evaluations with multiple research groups analyzed via pairwise contrasts across the research groups
+#### Constraints
+- Builds on design-based methods previously developed for designs with a single treatment and control group
+
+### Target Learners
+- education researchers analyzing multi-armed RCT data
+
+### Target Learning Objectives
+- accurate estimation of average treatment effects in education evaluations
+
+### Claims
+
+- [Variance terms in multi-armed RCT estimators need slight adjustment under the finite-population framework, which can reduce precision](../../claims/variance-adjustment-reduces-precision-multi-armed/) [+W]
+
+## Related Theories
+
+- [Multi-armed RCT design-based framework for examining multiple interventions in a single study](../../theories/multi-armed-rct-design-based-framework/)
+- [Multisite randomized trials as a design for estimating both average effects and cross-site variation](../../theories/multisite-rct-design-average-and-variation/)
+
+## Examples
+
+- [Empirical example using data from a multi-armed education RCT](../../elements/empirical-example-multi-armed-education-rct/)
+
+## Key Sources
+- Peter Z. Schochet. (2018). Design-Based Estimators for Average Treatment Effects for Multi-Armed RCTs. Journal of Educational and Behavioral Statistics, vol. 43, issue 5. https://www.mathematica.org/publications/design-based-estimators-for-average-treatment-effects-for-multi-armed-rcts
+-->
+
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>moved_from</code></td>
+<td><code>theory/design-based-estimators-multi-armed-rcts</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:settle-candidates</code> on <code>2026-10-09</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+<script src="../../assets/javascripts/lt-nav.js" data-root="../../" data-folder="research-methods"></script>
+</body>
+</html>

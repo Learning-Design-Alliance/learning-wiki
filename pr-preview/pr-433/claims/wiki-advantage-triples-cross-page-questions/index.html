@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The wiki&#x27;s advantage over vector RAG is roughly three times larger on cross-page questions than on topic-page questions, in both score and groundedness - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<link rel="stylesheet" href="../../assets/stylesheets/lt.css">
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script src="../../assets/javascripts/lt-palette.js" data-root="../../"></script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../claims/">Claims</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="the-wikis-advantage-over-vector-rag-is-roughly-three-times-larger-on-cross-page-questions-than-on-topic-page-questions-in-both-score-and-groundedness">The wiki's advantage over vector RAG is roughly three times larger on cross-page questions than on topic-page questions, in both score and groundedness<a class="headerlink" href="#the-wikis-advantage-over-vector-rag-is-roughly-three-times-larger-on-cross-page-questions-than-on-topic-page-questions-in-both-score-and-groundedness" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a><br />
+<strong>Evidence</strong> · 1 study · causal <code>r2</code> · <code>q2</code><br />
+<strong>Currency</strong> · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly</p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> Splitting 59 questions by class, the wiki arm was nearly indifferent to question class (9.96 vs. 9.93 score) while vector RAG dropped from 9.33 on topic-page to 8.14 on cross-page questions, widening the score gap from 0.62 to 1.79 points and the groundedness gap from 87% vs. 98% to 64% vs. 100%. <a href="#brian-wright-2026">→ Brian Wright 2026</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="brian-wright-2026">Brian Wright 2026<a class="headerlink" href="#brian-wright-2026" title="Permanent link">&para;</a></h3>
+<p>Brian Wright. (2026). Potential for Enhanced Learning in Machine Learning Classes by Using Wiki LLM Indexing. https://arxiv.org/abs/2609.25303 <a href="https://doi.org/10.48550/arxiv.2609.25303">doi:10.48550/arxiv.2609.25303</a></p>
+<p><code>q2 · i?</code> · <code>causal · r2</code></p>
+<p>Question-class split of the same head-to-head evaluation (45 topic-page and 14 cross-page questions). The article reports the wiki arm "nearly indifferent to question class" at 9.96 vs. 9.93, while RAG's gap widened to 1.79 on cross-page questions with groundedness falling to 64% vs. 100%.</p>
+<blockquote>
+<p>"vector RAG is not (9.33 vs. 8.14 score, an 0.62 point gap on topic page [95% CI on the gap: 0.16, 1.18] widening to 1.79 oncrosspage[95%CI:0.57,3.14];87%vs.64%grounded)"</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../topic-page-groundedness-gap-not-significant/">The topic-page groundedness gap between wiki and vector RAG was the study's only comparison not reaching significance at the 95% level</a> — related</li>
+<li><a href="../fabrication-despite-successful-retrieval/">Retrieval failure explained only 2 of vector RAG's 11 ungrounded answers; 9 answers retrieved the correct material and were still ungrounded, suggesting chunked context invites fabrication</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-12</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+<script src="../../assets/javascripts/lt-nav.js" data-root="../../" data-folder="claims"></script>
+</body>
+</html>

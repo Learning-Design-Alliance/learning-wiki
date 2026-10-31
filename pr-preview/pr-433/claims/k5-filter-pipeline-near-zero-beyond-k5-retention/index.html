@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The multi-stage filtering pipeline reduces Beyond-K-5 retention to near zero while preserving a minority of K-5 content - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<link rel="stylesheet" href="../../assets/stylesheets/lt.css">
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script src="../../assets/javascripts/lt-palette.js" data-root="../../"></script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../claims/">Claims</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="the-multi-stage-filtering-pipeline-reduces-beyond-k-5-retention-to-near-zero-while-preserving-a-minority-of-k-5-content">The multi-stage filtering pipeline reduces Beyond-K-5 retention to near zero while preserving a minority of K-5 content<a class="headerlink" href="#the-multi-stage-filtering-pipeline-reduces-beyond-k-5-retention-to-near-zero-while-preserving-a-minority-of-k-5-content" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a><br />
+<strong>Evidence</strong> · 1 study (2 entries) · causal <code>r2</code> · <code>q2</code><br />
+<strong>Currency</strong> · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly<br />
+<strong>Design limits</strong> · Fanfei Li 2026 (2): no comparison group (read from the study by two models, 2026-10-25)</p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> On the held-out CommonCoreText ground-truth set, the pipeline reduces Beyond-K-5 retention to 0% while preserving about 35% of K-5 documents. <a href="#fanfei-li-2026">→ Fanfei Li 2026</a>
+<code>q2 i?</code> On the external WeeBit corpus the filter retains 2.48% of 6,000 Beyond-K-5 passages, with genuinely out-of-scope concepts in only three passages (0.05%). <a href="#fanfei-li-2026-2">→ Fanfei Li 2026 (2)</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="fanfei-li-2026">Fanfei Li 2026<a class="headerlink" href="#fanfei-li-2026" title="Permanent link">&para;</a></h3>
+<p>Fanfei Li, Jana Zeller, Manuel Prada-Corral, Thaddäus Wiedemer, Prasanna Mayilvahanan, Ryan Cotterell, Wieland Brendel. (2026). LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure. Preprint. https://arxiv.org/abs/2608.13545 <a href="https://doi.org/10.48550/arxiv.2608.13545">doi:10.48550/arxiv.2608.13545</a></p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>Validation of the filtering pipeline on CommonCoreText, a held-out ground-truth dataset of recommended reading materials and textbooks with grade-level labels. The pipeline achieves "the retention ofBeyond-K–5content to 0%" while preserving ~35% of K-5, a deliberate precision-over-recall design; removed K-5 passages were systematically longer and lexically more complex.</p>
+<blockquote>
+<p>"The pipeline successfully reduces the retention ofBeyond-K–5content to 0% while preserving ~35% ofK–5(Figure 2, left)."</p>
+</blockquote>
+<h3 id="fanfei-li-2026-2">Fanfei Li 2026 (2)<a class="headerlink" href="#fanfei-li-2026-2" title="Permanent link">&para;</a></h3>
+<p>Fanfei Li, Jana Zeller, Manuel Prada-Corral, Thaddäus Wiedemer, Prasanna Mayilvahanan, Ryan Cotterell, Wieland Brendel. (2026). LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure. Preprint. https://arxiv.org/abs/2608.13545</p>
+<p><code>q2 · i?</code> · <code>causal · r2</code></p>
+<p>Independent leakage check applying the same pipeline to WeeBit, an external grade-labeled corpus. Retention of Beyond-K-5 passages was 2.48% of 6,000, and manual inspection attributed most retained content to web scraping artifacts, with genuinely out-of-scope concepts in only three passages (0.05%). A corpus-wide scan of 126 Beyond-K-5 n-grams found matches in only 0.09% of retained passages.</p>
+<blockquote>
+<p>"The filter retains 2.48% of 6,000Beyond-K–5passages; manual inspection identifies genuinely out-of-scope concepts in only three passages, corresponding to 0.05% of theBeyond-K–5split"</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../grpo-post-training-fails-beyond-k5/">GRPO post-training boosts in-scope K-5 capabilities but fails to recover Beyond-K-5 capabilities, even when post-trained on out-of-scope data</a> — related</li>
+<li><a href="../littlelearner-capabilities-track-controlled-exposure/">LittleLearner's capabilities tightly track its controlled exposure: strong on in-scope tasks, degrading beyond the K-5 boundary</a> — related</li>
+<li><a href="../pretraining-filter-sets-capability-ceiling/">Across scaling, post-training, and in-context learning, the pretraining filter rather than the intervention sets LittleLearner's capability ceiling</a> — related</li>
+<li><a href="../multi-layer-beats-regex-only-bypass/">Multi-layer defense significantly reduces bypass relative to regex-only filtering (69.65% to 46.34%), confirmed by exact McNemar test</a> — related</li>
+<li>A three-stage filtering pipeline (internal, association, and cluster-quality metrics) reduced 20,724 tested clustering models to select the optimal model per analysis — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-11</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+<script src="../../assets/javascripts/lt-nav.js" data-root="../../" data-folder="claims"></script>
+</body>
+</html>

@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Micro-optimization models currently transfer poorly across tasks and contexts, and tight fitting to interface or content creates versioning and transferability issues - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<link rel="stylesheet" href="../../assets/stylesheets/lt.css">
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script src="../../assets/javascripts/lt-palette.js" data-root="../../"></script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../claims/">Claims</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="micro-optimization-models-currently-transfer-poorly-across-tasks-and-contexts-and-tight-fitting-to-interface-or-content-creates-versioning-and-transferability-issues">Micro-optimization models currently transfer poorly across tasks and contexts, and tight fitting to interface or content creates versioning and transferability issues<a class="headerlink" href="#micro-optimization-models-currently-transfer-poorly-across-tasks-and-contexts-and-tight-fitting-to-interface-or-content-creates-versioning-and-transferability-issues" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a><br />
+<strong>Evidence</strong> · 1 study (2 entries) · theoretical <code>r2</code>–<code>r3</code> · <code>q1</code><br />
+<strong>Currency</strong> · newest study 2016 · not yet checked against its sources · not reviewed by a person · <strong>overdue for a recheck since 2019</strong>: tool and model accuracy changes quickly</p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q1 i?</code> The article states that many models for micro-optimization, such as reinforcement learning, have not transferred well to new tasks or contexts, even for the same domain. <a href="#nye-2016">→ Nye 2016</a>
+<code>q1 i?</code> Micro-level optimization tightly fits a specific user interface or content and will likely suffer from versioning issues (small problem-element changes potentially invalidating prior data and policies) and transferability issues across contexts such as desktop versus mobile. <a href="#nye-2016-2">→ Nye 2016 (2)</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="nye-2016">Nye 2016<a class="headerlink" href="#nye-2016" title="Permanent link">&para;</a></h3>
+<p>Nye, B. D. (2016). ITS, The End of the World as We Know It: Transitioning AIED into a Service-Oriented Ecosystem. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-016-0098-8</p>
+<p><code>q1 · i?</code> · <code>theoretical · r2</code></p>
+<p>The author's stated limitation on micro-optimization in the Micro-Adaptation section: such models "have not transferred well to new tasks or contexts," attributed to Chi et al. (2014). This is an interpretive statement about the state of the field, offered without new data.</p>
+<blockquote>
+<p>"At present, many models for micro-optimization (e.g., reinforcement learning) have not transferred well to new tasks or contexts, even for the same domain (Chi et al., 2014)."</p>
+</blockquote>
+<h3 id="nye-2016-2">Nye 2016 (2)<a class="headerlink" href="#nye-2016-2" title="Permanent link">&para;</a></h3>
+<p>Nye, B. D. (2016). ITS, The End of the World as We Know It: Transitioning AIED into a Service-Oriented Ecosystem. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-016-0098-8</p>
+<p><code>q1 · i?</code> · <code>theoretical · r3</code></p>
+<p>The author's argument that micro-level optimization "will likely suffer from versioning issues" and transferability issues such as an optimized case "not transferring well from a desktop to a mobile context." The article offers this as a reasoned prediction, not an empirical result.</p>
+<blockquote>
+<p>"However, micro-level optimization will likely suffer from versioning issues (e.g., changes to small problem elements potentially invalidating prior data and policies) and also transferability issues (e.g., an optimized case not transferring well from a desktop to a mobile context)."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../reinforcement-learning-micro-adaptation-gains/">Reinforcement learning used for micro-adaptation showed potential learning gains of up to 1 sigma over poorly-optimized dialog or no dialog (per the article, citing Chi et al. 2014)</a> — related</li>
+<li><a href="../rl-reward-misalignment-failure-modes/">An analytical chapter identifies reward hacking, engagement optimization over learning, and scaffolding dependency as risks of RL policies with poorly specified rewards</a> — related</li>
+<li><a href="../help-seeking-models-not-transferable-across-cultures/">Help-seeking skill models built from ITS practice data were not transferable across Costa Rican, Philippine, and US contexts (reported by Ogan et al., 2014)</a> — a narrower finding that bears on this claim</li>
+<li><a href="../help-seeking-model-transfer-mixed/">Help-seeking models transfer above chance across sites but perform poorly on the Costa Rican data</a> — related</li>
+<li><a href="../sensor-free-disengagement-detectors-accuracy/">Automated detectors of disengaged behaviors inferred from interaction-log data alone reached AUC over 0.8 for gaming and correlated 0.55 with observed off-task behavior</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-28</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+<script src="../../assets/javascripts/lt-nav.js" data-root="../../" data-folder="claims"></script>
+</body>
+</html>

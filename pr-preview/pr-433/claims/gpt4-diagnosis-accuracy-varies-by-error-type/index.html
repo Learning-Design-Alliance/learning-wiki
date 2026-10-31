@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>GPT-4&#x27;s error-diagnosis accuracy varies by error type: near-perfect on correct answers, weakest on Wrong Field and multiple-error responses - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<link rel="stylesheet" href="../../assets/stylesheets/lt.css">
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script src="../../assets/javascripts/lt-palette.js" data-root="../../"></script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../claims/">Claims</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="gpt-4s-error-diagnosis-accuracy-varies-by-error-type-near-perfect-on-correct-answers-weakest-on-wrong-field-and-multiple-error-responses">GPT-4's error-diagnosis accuracy varies by error type: near-perfect on correct answers, weakest on Wrong Field and multiple-error responses<a class="headerlink" href="#gpt-4s-error-diagnosis-accuracy-varies-by-error-type-near-perfect-on-correct-answers-weakest-on-wrong-field-and-multiple-error-responses" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a><br />
+<strong>Evidence</strong> · 1 study · design <code>r3</code> · <code>q2</code><br />
+<strong>Currency</strong> · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly</p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> GPT-4 recognized matching correct answers 99% of the time but failed to recognize Wrong Field errors nearly 30% of the time. <a href="#reddig-2025">→ Reddig 2025</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="reddig-2025">Reddig 2025<a class="headerlink" href="#reddig-2025" title="Permanent link">&para;</a></h3>
+<p>Reddig, J. M., Arora, A., &amp; MacLellan, C. J. (2025). Generating In-Context, Personalized Feedback for Intelligent Tutors with Large Language Models. Int J Artif Intell Educ. https://doi.org/10.1007/s40593-025-00505-6</p>
+<p><code>q2 · i?</code> · <code>design · r3</code></p>
+<p>Error-type breakdown of the same GPT-4 diagnosis analysis across all tutoring topics (Table 4, final prompt). Correct Answer accuracy was 99.0% (238), Wrong Field 72.3% (162), and multiple-error answers 71.67% (42).</p>
+<blockquote>
+<p>"The LLM is most adept at identifying a correct answer, recognizing a matching answer 99% of the time, and questioning the validity of the correct answer only 1% of the time. GPT-4 performed the poorest on Wrong Field errors, unable to recognize nearly 30% of the time when a student had skipped a step in the problem solving process."</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../gpt4-diagnoses-its-errors-87-8-accuracy/">Given sufficient prompt context, GPT-4 describes student errors in a College Algebra ITS with 87.8% accuracy</a> — related</li>
+<li><a href="../prompt-context-improves-gpt4-error-diagnosis/">Adding tutor interface and skill-estimate context to the prompt substantially improves GPT-4's error-diagnosis accuracy</a> — related</li>
+<li><a href="../gpt-models-more-rubric-errors-than-gemini/">GPT models showed lower accuracy with more rubric-related errors (28% vs. 13% for Gemini 3 Flash) and near parity between false positives and negatives</a> — related</li>
+<li>Fine-tuned classifiers detect only about 57% of correct-answer misconceptions despite near-perfect wrong-answer classification — related</li>
+<li><a href="../gpt4-feedback-66-percent-targeted-35-percent-flawed/">GPT-4 generates targeted corrective feedback for 66% of student errors, but 35% of hints are too general, incorrect, or give away the answer</a> — related</li>
+<li><a href="../llm-misconception-analysis-reveals-insights-beyond-performance-data/">LLM misconception analysis that ties student errors to instructional content reveals insights not apparent from performance data alone</a> — related</li>
+<li><a href="../gpt4-correct-answer-choices-97-percent/">GPT-4 identified a correct answer choice for nearly all generated questions, with a minority of spelling or selection errors</a> — related</li>
+<li><a href="../error-specific-feedback-improves-similar-problems/">Direct feedback on each possible error in multiple-choice questions improves performance on similar problems</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-12</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+<script src="../../assets/javascripts/lt-nav.js" data-root="../../" data-folder="claims"></script>
+</body>
+</html>

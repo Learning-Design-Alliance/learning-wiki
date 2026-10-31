@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Source-anchored instruction pairs reduce hallucination: they achieve mean Teacher Fidelity 1.4 points higher than non-anchored pairs, and models trained on anchored subsets produce 23% fewer factual hallucinations - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<link rel="stylesheet" href="../../assets/stylesheets/lt.css">
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script src="../../assets/javascripts/lt-palette.js" data-root="../../"></script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../claims/">Claims</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="source-anchored-instruction-pairs-reduce-hallucination-they-achieve-mean-teacher-fidelity-14-points-higher-than-non-anchored-pairs-and-models-trained-on-anchored-subsets-produce-23-fewer-factual-hallucinations">Source-anchored instruction pairs reduce hallucination: they achieve mean Teacher Fidelity 1.4 points higher than non-anchored pairs, and models trained on anchored subsets produce 23% fewer factual hallucinations<a class="headerlink" href="#source-anchored-instruction-pairs-reduce-hallucination-they-achieve-mean-teacher-fidelity-14-points-higher-than-non-anchored-pairs-and-models-trained-on-anchored-subsets-produce-23-fewer-factual-hallucinations" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a><br />
+<strong>Evidence</strong> · 1 study · design <code>r2</code> · <code>q2</code><br />
+<strong>Currency</strong> · newest study 2026 · not yet checked against its sources · not reviewed by a person</p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> Source-anchored pairs score higher on Teacher Fidelity and yield fewer factual hallucinations in held-out evaluations than non-anchored pairs. <a href="#shwetha-singaravelu-2026">→ Shwetha Singaravelu 2026</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="shwetha-singaravelu-2026">Shwetha Singaravelu 2026<a class="headerlink" href="#shwetha-singaravelu-2026" title="Permanent link">&para;</a></h3>
+<p>Shwetha Singaravelu, Gayathri Muruganantham, Lakshmi Rajendran, Santhosh Sivasubramani. (2026). IKS-Instruct: A 24,000-Example Multilingual Dataset for Teaching Language Models Indian Knowledge Systems. arXiv. https://arxiv.org/abs/2607.23322 <a href="https://doi.org/10.48550/arxiv.2607.23322">doi:10.48550/arxiv.2607.23322</a></p>
+<p><code>q2 · i?</code> · <code>design · r2</code></p>
+<p>Data-quality analysis in Section 6.2 comparing source-anchored versus template-generated pairs without source anchoring, reporting mean TF scores of 7.8 versus 6.4 and a 23% reduction in factual hallucinations; no standardized effect size is printed.</p>
+<blockquote>
+<p>"source-anchored pairs achieve mean TF scores 1.4 points higher than non-anchored pairs (7.8 vs. 6.4), and fine-tuned models trained on source-anchored subsets produce 23% fewer factual hallucinations in held-out evaluations"</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../non-monotonic-quality-volume-iks-instruct/">Model-level judge quality is non-monotonic in dataset size: the 13,882-pair v1.1 yields the best model (6.39), while both expansion to ~20,000 pairs (6.33) and aggressive curation to 7,130 pairs (6.12) reduce quality</a> — related</li>
+<li>LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers — related</li>
+<li><a href="../genai-self-study-fabrication-curated-resources/">Poorly grounded GenAI self-study risks fabricated content and inferior learning relative to curated resources</a> — related</li>
+<li><a href="../eduguard-verifier-threshold-sensitivity/">The verification threshold trades hallucination reduction against over-refusal, with the default tau of 0.20 providing the best balance</a> — related</li>
+<li><a href="../five-error-types-llm-diagnosis-vague-evidence/">Qualitative error analysis yields five recurring error types, with over-inference most prevalent (33.5%), followed by evidence misidentification (23.4%) and hallucination (19.8%)</a> — related</li>
+<li><a href="../llm-hallucination-rate-education/">LLMs in educational applications hallucinate in 15–25% of responses and can amplify bias against non-native language inputs</a> — related</li>
+<li><a href="../high-nonempty-ocr-rate-anchors-capture-visual-content/">Recall-oriented anchor selection achieved a 17.93% anchor rate and 94.63% non-empty OCR rate, which the authors interpret as anchors frequently capturing visible educational content that transcript chunks omit</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-11</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+<script src="../../assets/javascripts/lt-nav.js" data-root="../../" data-folder="claims"></script>
+</body>
+</html>

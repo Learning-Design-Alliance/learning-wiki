@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Conversation-based assessment chat log corpus - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<link rel="stylesheet" href="../../assets/stylesheets/lt.css">
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script src="../../assets/javascripts/lt-palette.js" data-root="../../"></script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../products/">Products and programmes</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Product or programme">
+<h1 id="conversation-based-assessment-chat-log-corpus">Conversation-based assessment chat log corpus<a class="headerlink" href="#conversation-based-assessment-chat-log-corpus" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Product or Programme</strong> · <a href="../">All products and programmes</a><br />
+<strong>Evidence</strong> · 5 claims (4 for, 1 against) · 1 study (1 design), <code>q2</code> · 0 of 1 report an effect size · 5 claims rest on one study</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>A research dataset created by Ober et al. containing more than 10,000 student dialogue turns from English-learning middle school students interacting with a conversation-based mathematics assessment and its pedagogical agents.</p>
+<h2 id="components">Components<a class="headerlink" href="#components" title="Permanent link">&para;</a></h2>
+<!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+<ul>
+<li><strong>Conversation-based assessment (CBA) chat log corpus for middle school mathematics</strong>: A chat log dataset of over 10,000 student turns (human coder 1 coded N = 10,919 turns) collected from 107 middle school students classified as English learners (mean age 12.4 years) interacting with a conversation-based assessment for middle school mathematics. The CBA comprised "a sequence of six structured, interactive conversations between the student and three pedagogical agents, a teacher agent and two peer agents," designed to simulate small-group mathematical problem solving with NLP-based dialogue adaptation. Students completed up to seven tasks targeting six competencies including proportional reasoning. (Ober et al. (2026))</li>
+</ul>
+<h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../../claims/human-human-agreement-lower-than-llm-llm/">Human-human agreement (average κ = 0.644) was lower than the best LLM-LLM agreement (average κ = 0.856) across constructs</a> [+W]</li>
+<li><a href="../../claims/human-llm-agreement-low-construct-varying/">Human-LLM agreement remains low across constructs (κ = 0.000 to 0.419), with self-efficacy showing the best alignment and Prior KSAs none</a> [-W]</li>
+<li><a href="../../claims/llm-pairwise-agreement-model-type-temperature/">Same-model LLM configuration pairs agree more than cross-model pairs, and agreement decreases monotonically as temperature difference increases</a> [+W]</li>
+<li><a href="../../claims/llm-within-configuration-reliability-high/">LLM configurations show high within-configuration reliability when re-coding the same chat log dataset, with ChatGPT4o/temperature=0 highest</a> [+W]</li>
+<li><a href="../../claims/temperature-construct-type-interaction-coding/">Temperature-construct interactions: constructs with moderate theoretical coherence benefited from higher temperatures, while well-defined constructs required deterministic settings</a> [+W]</li>
+</ul>
+<h2 id="related-products-and-programmes">Related Products and Programmes<a class="headerlink" href="#related-products-and-programmes" title="Permanent link">&para;</a></h2>
+<p>-</p>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Ober, T. M., Zhang, S., Zapata-Rivera, D., Schroeder, N. L., &amp; Botelho, A. F. (2026). Using LLMs to Identify Indicators of Persistence from Students' Dialogues with a Pedagogical Agent. Journal of Educational Data Mining, Volume 18, No 1. https://doi.org/10.17605/osf.io/s85ck</li>
+</ul>
+<!-- merged 2026-10-10 from elements/cba-middle-school-math-chat-log-corpus ("Conversation-based assessment (CBA) chat log corpus for middle school mathematics"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Conversation-based assessment (CBA) chat log corpus for middle school mathematics
+
+> **Element** · [All elements](../)
+> **Evidence** · 7 claims (6 for, 1 against) · 2 studies (2 design), `q2` · 0 of 2 report an effect size · 7 claims rest on one study
+
+## Description
+A chat log dataset of over 10,000 student turns (human coder 1 coded N = 10,919 turns) collected from 107 middle school students classified as English learners (mean age 12.4 years) interacting with a conversation-based assessment for middle school mathematics. The CBA comprised "a sequence of six structured, interactive conversations between the student and three pedagogical agents, a teacher agent and two peer agents," designed to simulate small-group mathematical problem solving with NLP-based dialogue adaptation. Students completed up to seven tasks targeting six competencies including proportional reasoning.
+
+## Design Implications
+
+### Context
+#### Requirements
+- The system uses NLP to analyze student input and adjust the dialogue path based on characteristics of the student input, using a match score system
+#### Constraints
+- Participation varied between the human student and the pedagogical agents, with students producing fewer turns on average (mean = 24.55, SD = 8.28) and shorter responses (~7 words per turn) than the pedagogical agents
+
+### Target Learners
+- middle school students classified as English learners
+
+### Target Learning Goals
+- upper elementary and middle school math competencies including ratios, proportions, and proportional reasoning
+
+## Claims
+
+- [Human-human agreement (average κ = 0.644) was lower than the best LLM-LLM agreement (average κ = 0.856) across constructs](../../claims/human-human-agreement-lower-than-llm-llm/) [+W]
+- [Human-LLM agreement remains low across constructs (κ = 0.000 to 0.419), with self-efficacy showing the best alignment and Prior KSAs none](../../claims/human-llm-agreement-low-construct-varying/) [-W]
+- [Same-model LLM configuration pairs agree more than cross-model pairs, and agreement decreases monotonically as temperature difference increases](../../claims/llm-pairwise-agreement-model-type-temperature/) [+W]
+- [LLM configurations show high within-configuration reliability when re-coding the same chat log dataset, with ChatGPT4o/temperature=0 highest](../../claims/llm-within-configuration-reliability-high/) [+W]
+- [Temperature-construct interactions: constructs with moderate theoretical coherence benefited from higher temperatures, while well-defined constructs required deterministic settings](../../claims/temperature-construct-type-interaction-coding/) [+W]
+
+## Related Elements
+- 
+
+## Examples
+-
+
+## Key Sources
+- Ober, T. M., Zhang, S., Zapata-Rivera, D., Schroeder, N. L., & Botelho, A. F. (2026). Using LLMs to Identify Indicators of Persistence from Students' Dialogues with a Pedagogical Agent. Journal of Educational Data Mining, Volume 18, No 1. https://doi.org/10.17605/osf.io/s85ck
+-->
+
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>moved_from</code></td>
+<td><code>element/cba-middle-school-math-chat-log-corpus</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:sweep-kinds</code> on <code>2026-10-10</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+<script src="../../assets/javascripts/lt-nav.js" data-root="../../" data-folder="products"></script>
+</body>
+</html>

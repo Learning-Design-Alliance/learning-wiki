@@ -1,0 +1,1565 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="For anyone writing or reading an evaluation of an instructional intervention, reporting a standardized effect size with its interval, comparison and measure beside every p value, and reading it against effects for the same kind of outcome rather than a universal label, is expected to lead to better adopt-or-revise decisions than significance alone; no claim in the wiki tests that expectation, though claims show significance and size diverging, significance filtering inflating sizes, and sizes depending on the measure.">
+      
+      
+      
+        <link rel="canonical" href="https://wiki.learningdesignalliance.org/principles/always-report-interpret-effect-sizes/">
+      
+      
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../branding/lda-monogram-dawn.svg">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.8.0">
+    
+    
+      
+        <title>Always report and interpret effect sizes alongside p values for primary outcomes - Learning Design Wiki</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+    
+    
+      <link rel="stylesheet" href="../../branding/lda-theme.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#always-report-and-interpret-effect-sizes-alongside-p-values-for-primary-outcomes" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Learning Design Wiki" class="md-header__button md-logo" aria-label="Learning Design Wiki" data-md-component="logo">
+      
+  <img src="../../branding/lda-monogram-lapis.svg" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Learning Design Wiki
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Always report and interpret effect sizes alongside p values for primary outcomes
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+    
+      <form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki" ></form><div class="md-header__source">
+        <a href="https://github.com/Learning-Design-Alliance/learning-wiki" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Learning-Design-Alliance/learning-wiki
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Learning Design Wiki" class="md-nav__button md-logo" aria-label="Learning Design Wiki" data-md-component="logo">
+      
+  <img src="../../branding/lda-monogram-lapis.svg" alt="logo">
+
+    </a>
+    Learning Design Wiki
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Learning-Design-Alliance/learning-wiki" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Learning-Design-Alliance/learning-wiki
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../situations/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Design for a Situation
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Application
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Application
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Principles
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../patterns/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Patterns
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elements/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Elements
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../strategies/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Strategies
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../designs/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Designs
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../products/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Products & Programmes
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Research
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Research
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../claims/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Claims
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../theories/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Theories
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../learner-variables/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Learner Variables
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Methods
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Methods
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../processes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Design Processes
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../methods/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Design Methods
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../research-methods/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Research Methods
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    About
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    About
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../evidence/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    State of the Evidence
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../checks/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    How Claims Are Checked
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../CLAUDE/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Schema & Guide
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#conditional-relationship" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Conditional relationship
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#default-design-while-the-relationship-is-untested" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Default design, while the relationship is untested
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#fitting-the-design-to-a-situation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Fitting the design to a situation
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#observation-state-and-explanation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Observation, state and explanation
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#evidence-and-qualifications" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Evidence and qualifications
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-evidence-by-question" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The evidence by question
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#further-evidence-not-yet-read-against-this-model" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Further evidence, not yet read against this model
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#objective-and-learner-valued-goal" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Objective and learner-valued goal
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#what-would-revise-this-model" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        What would revise this model?
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#claims" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Claims
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#related-principles" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Related Principles
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#examples" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Examples
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#key-sources" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Key Sources
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+                
+
+
+
+  
+
+
+              
+              <article class="md-content__inner md-typeset" data-pagefind-body data-pagefind-filter="kind:Principle"><span data-pagefind-filter="tier:canonical"></span><span data-pagefind-meta="aliases:report effect sizes with p values"></span>
+                
+                  
+
+
+
+<h1 id="always-report-and-interpret-effect-sizes-alongside-p-values-for-primary-outcomes">Always report and interpret effect sizes alongside p values for primary outcomes<a class="headerlink" href="#always-report-and-interpret-effect-sizes-alongside-p-values-for-primary-outcomes" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Principle</strong> · <a href="../">All principles</a><br />
+<strong>Evidence</strong> · 25 claims (17 for, 8 mixed) · 26 studies (10 quant-synthesis, 6 causal, 5 review, 5 theoretical), <code>q1</code>–<code>q4</code> · 7 of 26 report an effect size · 24 claims rest on one study</p>
+</blockquote>
+<h2 id="conditional-relationship">Conditional relationship<a class="headerlink" href="#conditional-relationship" title="Permanent link">&para;</a></h2>
+<p>This page owns one decision: <strong>what a report of an instructional intervention must say about the size of its effect, and how a reader should read that size before acting on it.</strong> The person here is whoever writes or reads an evaluation: a researcher or graduate student writing up a study, a designer reporting a pilot of their own course, a teacher, leader or purchaser reading a study before adopting a design (an <code>adult</code>, often a <code>novice</code> at reading statistics). Their usual starting response is to treat "statistically significant" as "it works" and "not significant" as "it does not work". The principle says: for every primary outcome, report a standardized effect size with its interval beside the p value, say what was compared with what, on which measure, at which horizon, and interpret the size against effects found for the same kind of outcome, measure and learners, not against a universal label. The expectation is that decisions made this way (adopt, revise, drop, test again) follow the size and reliability of the effect rather than the accident of whether a test crossed p &lt; .05.</p>
+<p><strong>No claim in the wiki tests that expectation</strong>: nothing here compares the decisions or the later learning outcomes of readers given effect sizes with those of readers given p values alone. What the claims establish are the premises, each in education data:</p>
+<ul>
+<li><strong>Significance and size come apart.</strong> In What Works Clearinghouse re-analyses, author-reported significant effects were no longer significant once clustering and multiple comparisons were corrected for, while one of those effects (0.35 on a reading test) was still large enough to count as substantively important by the Clearinghouse's convention.</li>
+<li><strong>Filtering on significance inflates the size.</strong> A methodological commentary reports that applying the significance filter in education produces large magnitude (Type M) errors; a meta-analysis of test-enhanced learning found that publication-bias corrections cut its average transfer prediction substantially.</li>
+<li><strong>The size depends on the measure.</strong> Across reviews of tutoring systems, early literacy, critical thinking and mindset, effects were larger, or more often significant, on researcher-made or aligned tests than on standardized ones.</li>
+<li><strong>Universal labels mislead.</strong> Effects differ by subject tested and by grade, and shrink as a program scales up, so "0.4 is medium" says little without a reference class.</li>
+</ul>
+<p><strong>The relationship is conditional on</strong> the reader's decision (adopt a program, revise a design, plan a larger study); the outcome measure (aligned with what was taught, or standardized); the design (randomized or not, individuals or clusters, how many); and whether the reported effect survived a significance filter or a selective search. It rests on the view, set out in <a href="../../theories/statistical-significance-effect-criterion/">Statistical significance as the criterion distinguishing a program effect from chance</a>, that a program "has an effect" when a group difference is significant (A program is said to have an effect when the difference between program and non-program groups is statistically significant [~W]); this page keeps that criterion for chance and adds the size beside it.</p>
+<p><strong>How this sits beside the converted siblings.</strong> <a href="../evidence-based-teaching-and-scientific-reasoning/">Evidence-Based Teaching and Scientific Reasoning</a> holds the wider decision of adopting an approach on the grounds of a comparison that could have come out otherwise; reading the size of that comparison's effect is one move inside it, and this page gives that move's detail without repeating its model. <a href="../validity-reliability-and-bias-in-classroom-assessment/">Validity, Reliability and Bias in Classroom Assessment</a> holds whether a classroom measure measures what it claims; this page takes the measure as given and asks how big the difference on it is. How a study should be designed so its effect can be trusted at all is in <a href="../../methods/designing-a-valid-experiment/">Designing a Valid Experiment</a>.</p>
+<h2 id="default-design-while-the-relationship-is-untested">Default design, while the relationship is untested<a class="headerlink" href="#default-design-while-the-relationship-is-untested" title="Permanent link">&para;</a></h2>
+<p>The earlier page's requirements, made into a routine a writer or reader can follow. Each step is a proposal; its evidence status is stated beside it.</p>
+<ol>
+<li><strong>Report a standardized effect size for every primary outcome, with an interval.</strong> Give the group means, standard deviations and n, the effect size (Cohen's d or Hedges' g for two groups; name the index), and its 95% confidence interval, every time a p value is reported. From the earlier page and its source (the APA Task Force); the requirement itself is untested here as a cause of better decisions. Where a study reports only test statistics, as one randomized trial of self-regulated learning training reported group-by-time interactions with no effect size per outcome, the reader cannot tell how much each outcome moved (<a href="../../claims/srl-web-training-peer-feedback-group-by-time-interaction-online-math-prep/">In a randomized trial of SRL interventions in an online mathematics preparation course, group and time interacted significantly on SRL knowledge, self-efficacy and the SRL overall score, with Group TDP (training + diary + peer feedback) showing the most prominent gains</a> [~W]).</li>
+<li><strong>Say what was compared with what.</strong> Name the comparison condition (business as usual, an active alternative, no treatment, a pre-test), the unit assigned (learners, classes, schools) and the horizon of the outcome (<code>immediate-performance</code>, <code>delayed-retention</code>). An effect size without its comparison cannot be read. Untested proposal.</li>
+<li><strong>Name the measure and its alignment.</strong> Say whether the outcome is a researcher-made test of what was taught or a standardized test, and report them separately when both exist. Evidence: effects were much larger on local than on standardized tests across tutoring-system evaluations (<a href="../../claims/test-type-moderates-its-effects/">ITS evaluation results depend strongly on test type: effects are large on locally developed tests (ES = 0.73) and small on standardized tests (ES = 0.13)</a> [+M]).</li>
+<li><strong>Correct the significance test for the design, and keep the effect size whatever the test says.</strong> In a class- or school-randomized study, test at the level assigned or correct for clustering; report the effect size whether or not the corrected test is significant. Evidence: <a href="../../claims/cwpt-ctbs-effect-significance-discrepancy/">Greenwood et al. (1993) reported a statistically significant CWPT effect on CTBS-Reading, but the WWC-corrected analysis was not statistically significant</a> [+M].</li>
+<li><strong>Read a non-significant result against the smallest effect the study could detect.</strong> Report the minimum detectable effect size; if it is larger than the effect that would matter, call the result inconclusive, not "no effect". Evidence: a 50-person, 10-school study reported it could detect only d = 0.81 (<a href="../../claims/cluster-randomized-quasi-experiment-powered-for-large-effects/">The evaluation used a school-level cluster-randomized quasi-experiment (N = 50) that was powered only to detect large effects (d = 0.81)</a> [+M]).</li>
+<li><strong>Interpret the size against a reference class, not a universal label.</strong> Compare it with effects from studies of the same kind of outcome, measure type, subject and grade, and with earlier studies of the same program. Where a convention is needed for a reader, the Clearinghouse's +0.25 "substantively important" line (about 10 percentile points) is a convention, not a finding (<a href="../../claims/effect-size-025-substantively-important-threshold/">The guide treats an effect size of +0.25 or higher as substantively important, equivalent to raising performance at least 10 percentile points</a> [+W]). Cohen's labels (0.2, 0.5, 0.8) are untested as a guide for education decisions here.</li>
+<li><strong>Translate the size into the reader's terms.</strong> Add one plain sentence: the improvement in percentile points, or the raw-score difference on the test the reader knows. Never write a d of 0.65 as "65%"; a meta-analysis of self-regulated learning interventions did (<a href="../../claims/srl-interventions-moderate-effect-online-blended/">Self-regulated learning interventions have a moderate effect (0.65) on learning outcomes in online and blended environments</a> [~W]: the claim page quotes the authors saying the interventions "affect learning results ... by 65%"). Untested proposal, from the earlier page's "practical significance".</li>
+<li><strong>Expect a single significant result to be too large.</strong> Before acting on one significant study, especially a small one or one found by a search for positive results, discount its size and look for a replication or a pre-registered test. Evidence: Large Type M (magnitude) errors almost certainly exist when applying the statistical significance filter in education research [+M]. The amount to discount is not given by any claim here.</li>
+</ol>
+<p><strong>Dose and progression across sessions</strong> (for teaching this to graduate students or teachers, the earlier page's target learners). An untested proposal: four sessions of about 60 minutes. Session 1: from one real report, the learner extracts means, SDs and n and computes d by hand (20 minutes), then reads two studies with the same p value and very different d (20 minutes), then writes the one-sentence translation (20 minutes); the teacher supplies the studies and a worked calculation. Session 2: the learner reads a study with a significant author-reported result that a re-analysis corrected (step 4), and a non-significant one with a large minimum detectable effect (step 5); the teacher supplies the pairs, learners write the reading. Session 3: the learner places a reported effect against a reference class (same measure type, subject and grade) the teacher has gathered, then finds one themselves. Session 4: the learner writes the effect-size paragraph for a study of their own choice, or their own pilot, unaided, and a peer checks it against steps 1–8. A learner moves on when their unaided paragraph for a new study covers the comparison, the measure, the interval and the translation; one who still writes "significant, so it works" repeats session 2 with a new pair.</p>
+<p>When the routine cannot be followed in full: if the source prints no SDs, report the test statistic, the n per group and that no effect size could be computed; do not estimate one by assumption.</p>
+<h2 id="fitting-the-design-to-a-situation">Fitting the design to a situation<a class="headerlink" href="#fitting-the-design-to-a-situation" title="Permanent link">&para;</a></h2>
+<p>The three facts that most change the decision:</p>
+<ul>
+<li><strong>Who reads the report, and what will they decide with it.</strong> A journal referee, a funder, a school board choosing a program and a designer revising a course need the same numbers but different translations and different reference classes. If unstated, ask: who acts on this result, and what are their options?</li>
+<li><strong>What the outcome measure is.</strong> A test written for the intervention and a standardized test give different sizes for the same program, so a size means nothing until the measure is named. If unstated, ask: who wrote the test, and how close is it to what was taught?</li>
+<li><strong>How the study was designed and found.</strong> Clustering, a small sample, adaptive assignment, or a result picked because it was significant each change how far the reported size can be trusted. If unstated, ask: what was randomized, how many units were there, and how was this study chosen from others?</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>If the brief says…</th>
+<th>Then change…</th>
+<th>Basis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>The reader is a teacher, leader or purchaser, <code>novice</code> at statistics, or has low confidence with numbers</td>
+<td>Lead with one sentence in percentile points or raw-score difference on a test they know, then the d and its interval; keep the p value in a note</td>
+<td><a href="../../claims/effect-size-025-substantively-important-threshold/">The guide treats an effect size of +0.25 or higher as substantively important, equivalent to raising performance at least 10 percentile points</a> [+W] (a reporting convention, not tested with readers)</td>
+</tr>
+<tr>
+<td>The learners are graduate students in educational research (a course on reading studies)</td>
+<td>Run the four-session arc above; use real published pairs where significance and size disagree as the compared cases</td>
+<td>untested proposal; the earlier page's source proposes the Task Force report as a teaching framework</td>
+</tr>
+<tr>
+<td>The outcome is a researcher-made or aligned test</td>
+<td>Report it apart from any standardized outcome; compare its size only with other aligned-test effects; expect a smaller effect on a standardized test</td>
+<td><a href="../../claims/test-type-moderates-its-effects/">ITS evaluation results depend strongly on test type: effects are large on locally developed tests (ES = 0.73) and small on standardized tests (ES = 0.13)</a> [+M]; <a href="../../claims/researcher-developed-measures-larger-language-effects/">Language and early writing interventions showed larger effects on researcher-developed than standardized outcome measures, while phonological awareness, print knowledge, and decoding effects were comparable across measure types</a> [~M] (tutoring systems and early literacy; the gap is not the same for every skill)</td>
+</tr>
+<tr>
+<td>The study randomized classes or schools</td>
+<td>Test significance at the level assigned or correct for clustering; report the effect size either way; state the number of clusters</td>
+<td><a href="../../claims/cwpt-ctbs-effect-significance-discrepancy/">Greenwood et al. (1993) reported a statistically significant CWPT effect on CTBS-Reading, but the WWC-corrected analysis was not statistically significant</a> [+M]; <a href="../../claims/clustering-effects-large-school-samples-education-trials/">Clustering effects vary by design but are typically large in education random-assignment evaluations</a> [+M]</td>
+</tr>
+<tr>
+<td>A small pilot of one course or class, or a single session only</td>
+<td>Report the effect size, interval and minimum detectable effect; call a non-significant result inconclusive; plan the next test rather than a verdict</td>
+<td><a href="../../claims/cluster-randomized-quasi-experiment-powered-for-large-effects/">The evaluation used a school-level cluster-randomized quasi-experiment (N = 50) that was powered only to detect large effects (d = 0.81)</a> [+M] (pre-service teachers; carried to any small pilot)</td>
+</tr>
+<tr>
+<td>The decision rests on one significant study, or on studies found by searching for positive results</td>
+<td>Discount the reported size; look for a replication, a pre-registered trial or a bias-corrected meta-analytic estimate before adopting</td>
+<td>Large Type M (magnitude) errors almost certainly exist when applying the statistical significance filter in education research [+M]; <a href="../../claims/publication-bias-reduces-intercept-no-transfer-without-moderators/">Publication-bias assessments substantially reduce the intercept prediction, often indicating no positive transfer when the identified moderators are absent</a> [+M] (test-enhanced learning transfer)</td>
+</tr>
+<tr>
+<td>An online platform assigned learners adaptively (a multi-armed bandit or similar)</td>
+<td>Report that assignment was adaptive and treat the effect size as likely overstated, especially a small one; confirm with a fixed-allocation comparison</td>
+<td><a href="../../claims/mab-overestimates-effect-sizes/">MAB assignment overestimates effect sizes for normally distributed rewards, with greater overestimation for smaller true effects</a> [+M] (simulation)</td>
+</tr>
+<tr>
+<td>A program moves from pilot to wide use (a district, a state)</td>
+<td>Expect the scaled effect to be smaller than the pilot's; set the adoption threshold against the scaled estimate, not the pilot's</td>
+<td><a href="../../claims/pre-k-math-effect-sizes-decreased-over-scale-up/">Effect sizes of Pre-K Mathematics decreased over time as the intervention moved through successive scale-up phases</a> [~M] (one pre-K mathematics program)</td>
+</tr>
+<tr>
+<td>Comparing effects across subjects or grades (a mathematics program against a reading program; primary against secondary)</td>
+<td>Compare sizes only within the same subject and grade band; do not rank a mathematics effect above a reading effect on size alone</td>
+<td><a href="../../claims/math-test-effects-larger-than-reading/">Effect sizes based on mathematics tests are significantly larger than effect sizes based on reading tests in targeted secondary interventions</a> [~M]; <a href="../../claims/grade-level-moderates-effect-size/">Interventions in higher Grades tend to have somewhat lower effect sizes; other study characteristics show few significant moderator effects</a> [~M] (struggling learners, targeted interventions)</td>
+</tr>
+<tr>
+<td>The report uses a non-standard index (a gain ratio, a percentage gain, a pre-post change only)</td>
+<td>Report the raw means and SDs as well, name the index and its own threshold, and do not compare it with d benchmarks</td>
+<td><a href="../../claims/emi-effect-size-larger-for-awareness-than-comprehension/">Within the explicit morphology instruction group, the pre-to-post gain ratio was above Blake's 1.2 minimum for morphological awareness (1.28) and below it for reading comprehension (1.06)</a> [~M] (one EFL study reporting Blake's modified gain ratio from experimental-group pre-post means)</td>
+</tr>
+<tr>
+<td>The report says an effect of 0.65 means a 65% improvement, or a reader made that error</td>
+<td>Use the error as the worked contrast: show what a d of 0.65 means in percentile points and why it is not a percentage</td>
+<td><a href="../../claims/srl-interventions-moderate-effect-online-blended/">Self-regulated learning interventions have a moderate effect (0.65) on learning outcomes in online and blended environments</a> [~W] (the misreading is quoted on the claim page)</td>
+</tr>
+<tr>
+<td>Several outcomes reported only as a multivariate test or interaction</td>
+<td>Give an effect size per primary outcome, with its interval, beside the omnibus test</td>
+<td><a href="../../claims/srl-web-training-peer-feedback-group-by-time-interaction-online-math-prep/">In a randomized trial of SRL interventions in an online mathematics preparation course, group and time interacted significantly on SRL knowledge, self-efficacy and the SRL overall score, with Group TDP (training + diary + peer feedback) showing the most prominent gains</a> [~W] (reported no per-outcome effect size)</td>
+</tr>
+<tr>
+<td>The brief names its own reporting template, standard or rubric (a journal's, a funder's, the Clearinghouse's)</td>
+<td>Keep it and its categories as given; add only what it lacks among: effect size with interval, comparison, measure type, horizon</td>
+<td>untested proposal</td>
+</tr>
+<tr>
+<td>A fixed short time budget (a 45-minute professional-development slot for teachers)</td>
+<td>One study, 10 minutes extracting the numbers, 15 computing d and the percentile translation, 15 reading it against a supplied reference class, 5 writing the one-sentence verdict</td>
+<td>untested proposal</td>
+</tr>
+<tr>
+<td>Mixed modes: some readers in the room, some remote or on phones; or a self-paced online module</td>
+<td>Put the numbers in a shared table everyone can see, give the d calculation as a fill-in template, and collect each person's one-sentence translation in writing</td>
+<td>untested proposal</td>
+</tr>
+<tr>
+<td>One facilitator for many teachers, or scarce facilitator time</td>
+<td>Give a worked example and an answer key so peers check each other's calculations; the facilitator reads only the final translations</td>
+<td>untested proposal</td>
+</tr>
+<tr>
+<td>The audience is a board, funder or the public, who should see the conclusion and not the analysis</td>
+<td>Give the translated effect, the comparison and the uncertainty in two sentences; put the effect sizes, intervals and test statistics in an appendix</td>
+<td>untested proposal</td>
+</tr>
+<tr>
+<td>Data are from a small group of identifiable learners (one class, a small program)</td>
+<td>Report effect sizes for groups only; suppress cells too small to protect privacy and say so; the learners or institution decide who sees individual results</td>
+<td>untested proposal</td>
+</tr>
+<tr>
+<td>The brief wants a whole results section or evaluation report written, not separate exercises</td>
+<td>Keep it whole: draft the full section once, then revise once against steps 1–8</td>
+<td>untested proposal</td>
+</tr>
+</tbody>
+</table>
+<p>Eleven of the nineteen rows rest on a claim. None tests the reporting move itself on readers' decisions; each shows a reason the move matters (sizes diverge from significance, depend on the measure, shrink with scale) in the settings its study covered, and the rows carry that to the reader's setting. The rest are untested proposals.</p>
+<h2 id="observation-state-and-explanation">Observation, state and explanation<a class="headerlink" href="#observation-state-and-explanation" title="Permanent link">&para;</a></h2>
+<p>What can be observed is what a report contains (which numbers, which comparison, which measure) and what a reader writes or decides after reading it. "Understands practical significance" and "over-trusts p values" are inferred states.</p>
+<table>
+<thead>
+<tr>
+<th>Response</th>
+<th>Plausible explanations</th>
+<th>Observation that could change the interpretation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A report gives p values and no effect sizes</td>
+<td>The writer was not asked for them; the analysis (a multivariate test, an interaction) has no obvious single effect size; the effect is small and the writer prefers not to show it</td>
+<td>Ask for the means, SDs and n per outcome and compute d; compare with the significance verdict.</td>
+</tr>
+<tr>
+<td>A large effect from a small or single study</td>
+<td>A real large effect; inflation from the significance filter; an aligned measure written for the intervention</td>
+<td>Check the measure, the sample, the minimum detectable effect, and whether a larger or independent study found a similar size.</td>
+</tr>
+<tr>
+<td>A significant result with a tiny effect</td>
+<td>A very large sample; a real but practically small effect</td>
+<td>Translate into percentile points or raw score; ask whether that difference would change the reader's decision.</td>
+</tr>
+<tr>
+<td>A non-significant result with a moderate effect size</td>
+<td>Too few units to detect it; clustering not accounted for; no effect, with a noisy estimate</td>
+<td>Report the interval and the minimum detectable effect; look for other studies.</td>
+</tr>
+<tr>
+<td>A reader concludes "it works" or "it doesn't" from p alone, or reads d as a percentage</td>
+<td>Habit from training that emphasized significance; no translation given</td>
+<td>Ask the reader to state the size in percentile points and the comparison condition; see whether their decision changes.</td>
+</tr>
+</tbody>
+</table>
+<p>These rows are proposals, untested with readers as diagnostics. A second look at a report can change the reader's reading of it, so record what was asked and in what order.</p>
+<h2 id="evidence-and-qualifications">Evidence and qualifications<a class="headerlink" href="#evidence-and-qualifications" title="Permanent link">&para;</a></h2>
+<p>No claim in the wiki tests whether reporting and interpreting effect sizes improves the decisions or outcomes that follow. The claims below support its premises in education data, and qualify it.</p>
+<ul>
+<li><a href="../../claims/test-type-moderates-its-effects/">ITS evaluation results depend strongly on test type: effects are large on locally developed tests (ES = 0.73) and small on standardized tests (ES = 0.13)</a> [+M]: one meta-analysis of 50 intelligent tutoring evaluations (<a href="https://doi.org/10.3102/0034654315581420">Kulik &amp; Fletcher 2016</a>), three entries coded <code>q2</code>–<code>q4</code>, <code>quant-synthesis</code>; test type was the moderator most strongly related to effect size (local 0.73, standardized 0.13, both 0.45; a homogeneity analysis gave 0.62, 0.09 and 0.46). One study within it, reported second-hand, found 0.99 on local tests against 0.36 on standardized ones. It supports naming the measure beside every effect size.</li>
+<li><a href="../../claims/cwpt-ctbs-effect-significance-discrepancy/">Greenwood et al. (1993) reported a statistically significant CWPT effect on CTBS-Reading, but the WWC-corrected analysis was not statistically significant</a> [+M]: a WWC intervention report on a randomized trial of 218 sixth graders in six schools; after correction for clustering the effect was not significant, but its size (0.35, improvement index +14) was still substantively important by the WWC's +0.25 convention. Coded <code>q3</code>, <code>i1</code>. It is the clearest case here of significance and size giving different readings of the same result.</li>
+<li><a href="../../claims/wwc-corrections-eliminate-author-reported-significance/">Author-reported statistically significant program effects did not remain significant after WWC corrections for clustering and multiple comparisons</a> [+M]: a WWC report on two randomized trials of a drug-prevention program; significant author-reported findings were not significant after correction. No effect size is attached. It supports correcting the test for the design; it does not show the size of the effects.</li>
+<li>Large Type M (magnitude) errors almost certainly exist when applying the statistical significance filter in education research [+M]: an invited commentary (Deke 2023, <code>q2</code>, <code>theoretical</code>) reporting two methodological studies' conclusion that significance filtering in education produces large magnitude errors. It prints no figure. It supports reading a lone significant effect as an overestimate; it is second-hand.</li>
+<li><a href="../../claims/publication-bias-reduces-intercept-no-transfer-without-moderators/">Publication-bias assessments substantially reduce the intercept prediction, often indicating no positive transfer when the identified moderators are absent</a> [+M]: one meta-analysis of test-enhanced learning (Pan &amp; Rickard 2018, <code>q4</code>); bias corrections left moderator estimates almost unchanged but cut the predicted transfer effect, often to none. It shows how much a published average can fall once selection is accounted for, in one literature.</li>
+<li><a href="../../claims/cluster-randomized-quasi-experiment-powered-for-large-effects/">The evaluation used a school-level cluster-randomized quasi-experiment (N = 50) that was powered only to detect large effects (d = 0.81)</a> [+M]: one study of 50 pre-service teachers in 10 schools; its sensitivity analysis gave a minimum detectable d of 0.81, so small and moderate effects could go undetected. It is an example of reporting the minimum detectable effect, not a test of doing so.</li>
+<li><a href="../../claims/clustering-effects-large-school-samples-education-trials/">Clustering effects vary by design but are typically large in education random-assignment evaluations</a> [+M]: a methodological paper on power in education experiments (Schochet 2005); large school samples are needed. It supports step 4 and the clustering row.</li>
+<li><a href="../../claims/mab-overestimates-effect-sizes/">MAB assignment overestimates effect sizes for normally distributed rewards, with greater overestimation for smaller true effects</a> [+M]: simulations of adaptive (multi-armed bandit) assignment in educational experiments; a true effect of 0.2 was measured as 0.30 on average, a true 0.8 as 0.93. It limits trust in effect sizes from adaptive platforms, not in effect sizes as such.</li>
+<li><strong>Qualifications.</strong> Universal size labels do not travel: in a review of targeted secondary interventions, effect sizes on mathematics tests were larger than on reading tests, and quasi-experiments gave larger effects than randomized trials (<a href="../../claims/math-test-effects-larger-than-reading/">Effect sizes based on mathematics tests are significantly larger than effect sizes based on reading tests in targeted secondary interventions</a> [~M]); in the companion K–6 review, higher grades tended to show somewhat lower effects, with no significant differences between quasi-experiments and randomized trials, general and subdomain tests, or mathematics and reading tests (<a href="../../claims/grade-level-moderates-effect-size/">Interventions in higher Grades tend to have somewhat lower effect sizes; other study characteristics show few significant moderator effects</a> [~M]); and one program's effects decreased through successive scale-up phases (<a href="../../claims/pre-k-math-effect-sizes-decreased-over-scale-up/">Effect sizes of Pre-K Mathematics decreased over time as the intervention moved through successive scale-up phases</a> [~M]). An effect size is also not self-interpreting: the WWC's +0.25 line is a stated convention with no data behind it (<a href="../../claims/effect-size-025-substantively-important-threshold/">The guide treats an effect size of +0.25 or higher as substantively important, equivalent to raising performance at least 10 percentile points</a> [+W]), and in the early-literacy review the gap between researcher-developed and standardized measures held for language and early writing but not for phonological awareness, so the measure gap is not the same everywhere.</li>
+<li><strong>The old page's own examples.</strong> <a href="../../claims/emi-effect-size-larger-for-awareness-than-comprehension/">Within the explicit morphology instruction group, the pre-to-post gain ratio was above Blake's 1.2 minimum for morphological awareness (1.28) and below it for reading comprehension (1.06)</a> [~M]: the merged page's source (one EFL secondary study, <code>q2</code>, <code>causal</code>, <code>r1</code>–<code>r2</code>) reported Blake's modified gain ratio from the experimental group's pre- and post-test means alongside significance tests. It illustrates reporting a size beside significance; it also shows a within-group gain index that cannot be compared with between-group d benchmarks, which is why the routine asks for the index to be named. <a href="../../claims/srl-interventions-moderate-effect-online-blended/">Self-regulated learning interventions have a moderate effect (0.65) on learning outcomes in online and blended environments</a> [~W] (one meta-analysis of 15 studies, <code>q3</code>, <code>i2</code>) reports a pooled d with the misreading "65%". <a href="../../claims/srl-web-training-peer-feedback-group-by-time-interaction-online-math-prep/">In a randomized trial of SRL interventions in an online mathematics preparation course, group and time interacted significantly on SRL knowledge, self-efficacy and the SRL overall score, with Group TDP (training + diary + peer feedback) showing the most prominent gains</a> [~W] (one randomized trial, <code>q3</code>, <code>i?</code>) reports interactions without per-outcome effect sizes. The earlier page cited both SRL claims as support; they bear on this page only as examples of reporting, not on its relationship. The second carries a <code>## Studies bearing on this claim</code> table gathering 7 distinct studies, which is about self-regulated learning, not reporting.</li>
+</ul>
+<p>None of these claims measures what a reader does differently with an effect size in hand. Do not rank them by their own effect sizes; they are about different questions.</p>
+<h2 id="the-evidence-by-question">The evidence by question<a class="headerlink" href="#the-evidence-by-question" title="Permanent link">&para;</a></h2>
+<ul>
+<li><em>Does the kind of outcome measure (a researcher-made or aligned test against a standardized one) change the size of the effect a study reports?</em> <a href="../../claims/test-type-moderates-its-effects/">ITS evaluation results depend strongly on test type: effects are large on locally developed tests (ES = 0.73) and small on standardized tests (ES = 0.13)</a> [+M]</li>
+<li><em>Does a significance verdict alone give a reliable reading of an intervention's effect in education studies?</em> Large Type M (magnitude) errors almost certainly exist when applying the statistical significance filter in education research [+M]</li>
+</ul>
+<h2 id="further-evidence-not-yet-read-against-this-model">Further evidence, not yet read against this model<a class="headerlink" href="#further-evidence-not-yet-read-against-this-model" title="Permanent link">&para;</a></h2>
+<ul>
+<li>"P Values Confounded Indices" [+M]: listed on the earlier page with no link and no claim page; it names the Task Force report's point that a p value confounds effect size with sample size. No claim page in the wiki carries it, so it supports nothing here until one is written from the source.</li>
+<li><a href="../../claims/ct-measure-type-influences-effectiveness-evaluation/">The type of CT measure employed (standardized vs. non-standardized; item format) influences evaluation of intervention effectiveness</a> [+M]: a systematic review of 33 critical-thinking intervention studies in higher education; 93% of studies with non-standardized measures reported significant improvement against 55% with standardized ones. Bears on the measure question (it counts significant results, not sizes); member of the first question above.</li>
+<li><a href="../../claims/alignment-trained-skill-larger-effects-phonological-awareness/">Training effects were larger on outcome measures aligned with the trained skill (blending, segmenting) than on less aligned measures</a> [+M]: a WWC footnote on phonological awareness training studies. Bears on the measure question; no figures.</li>
+<li><a href="../../claims/achievement-measure-moderator-lab-exclusion/">Type of achievement measure moderates the correlation only when laboratory measures are excluded; course-exam correlation drops to r = .04</a> [+M]: a growth-mindset meta-analysis's sensitivity analysis; a correlational outcome, so it bears on the measure question only indirectly.</li>
+<li>For within-subjects designs, the author recommends reporting Cohen's d_rm or Cohen's d_av rather than Cohen's dz [+W] — attached 2026-10-16 from Lakens (2013), which proposed "Always report effect sizes, specify the standardizer used, report generalized eta squared for ANOVAs, and interpret effect sizes rather than relying on Cohen's benchmarks".</li>
+<li><a href="../../claims/cohen-benchmarks-arbitrary/">Cohen's small, medium, and large effect size benchmarks are arbitrary and should not be interpreted rigidly</a> [+W] — attached 2026-10-16 from Lakens (2013), which proposed "Always report effect sizes, specify the standardizer used, report generalized eta squared for ANOVAs, and interpret effect sizes rather than relying on Cohen's benchmarks".</li>
+<li>Effect size indices are almost never reported in published educational research using ANOVA, MANOVA, or repeated-measures analyses [+W] — attached 2026-10-20 from Keselman et al. (1998), which proposed "Use robust test procedures, focused hypothesis tests, and routine effect size reporting when analyzing between-subjects designs".</li>
+<li>Effect size indices and power analyses are rarely reported in educational research across all four design paradigms [+W] — attached 2026-10-21 from Keselman et al. (1998), which proposed "Adopt robust statistical test procedures and routinely report effect sizes when analyzing group differences".</li>
+<li><a href="../../claims/stem-field-benchmark-heterogeneity/">STEM field benchmarks differ markedly: science shows the largest quartiles and mathematics the smallest</a> [+W] — attached 2026-10-21 from Mehmet Bicakci et al. (2026), which proposed "Interpret STEM education intervention effects against empirically derived, context-sensitive benchmark distributions rather than Cohen's universal thresholds".</li>
+<li>Effect size measures may be perceived by teachers as telling little about the changes of real students [+W] — attached 2026-10-21 from Zitzmann et al. (2023), which proposed "Report responder rates in addition to effect sizes so stakeholders can understand the consequences of implementing a treatment".</li>
+</ul>
+<h2 id="objective-and-learner-valued-goal">Objective and learner-valued goal<a class="headerlink" href="#objective-and-learner-valued-goal" title="Permanent link">&para;</a></h2>
+<p>The objective this page serves is a decision about a design or program that follows the size and reliability of its effect on an outcome that matters, at the horizon that matters. Elicit separately what the person writing or reading the report values: a researcher may value a publishable significant result; a graduate student, passing the methods course; a purchaser, a clear yes or no; a teacher, whether their own learners will do better. Agreement and divergence are both observations. A writer who values publication may leave out a small effect size; a reader who wants a yes or no may skip the interval. Make the translated size and its uncertainty the shortest sentence in the report, so it is the one most readers see.</p>
+<p>For example, a school leader wants to know whether a reading program will help the struggling readers in their own school. The study reports a significant effect on a researcher-made test and a small, non-significant effect on the state test. The objective this page sets is to state both sizes with their measures; the leader's goal is the state test, so the second number is the one that bears on their decision. Record both.</p>
+<h2 id="what-would-revise-this-model">What would revise this model?<a class="headerlink" href="#what-would-revise-this-model" title="Permanent link">&para;</a></h2>
+<p>The expectation should weaken if studies of readers (teachers, leaders, researchers) given effect sizes with intervals and translations make no better, or worse, adoption decisions than readers given p values alone, judged against later outcomes; or if readers routinely misread effect sizes in ways that cost more than misreading p values. If measure-type gaps disappear in studies with well-aligned standardized tests, step 3 becomes a reporting detail rather than an interpretive rule. If bias-corrected or pre-registered estimates in education turn out close to the significant published ones, step 8's discount should shrink. Do not protect the model by blaming every misread effect on a missing translation.</p>
+<p>Reporting an effect size, interpreting it against a reference class, and the decision that follows are separate claims. The present evidence establishes no threshold that makes an education effect worth acting on, no discount factor for a single study, and no reference class that serves every outcome.</p>
+<h2 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../../claims/comprehension-strategy-large-effect-unreliable/">Comprehension strategy instruction shows a large overall effect, but reliability is undermined by few standardized measures</a> [~W]</li>
+<li><a href="../../claims/genai-writing-effect-robustness-checks/">The positive GenAI writing effect is robust across dependence-aware, sensitivity, and risk-of-bias specifications, but the wide prediction interval spans near-zero to large effects</a> [+W]</li>
+<li><a href="../../claims/meta-analysis-lower-feedback-effect-than-visible-learning-synthesis/">Meta-analysis yields a lower feedback effect (d = 0.48) than the Visible Learning meta-synthesis (d = 0.79), with three synthesized values overestimated</a> [+M]</li>
+<li><a href="../../claims/significant-differences-small-effects-approaches/">Statistically significant differences in approaches to learning can constitute small effects of little theoretical or practical importance</a> [+W]</li>
+<li><a href="../../claims/spatial-training-effect-compares-favorably-to-other-interventions/">The g = 0.28 effect of spatial training on mathematics compares favorably to average effects of other educational and mathematics interventions</a> [+W]</li>
+</ul>
+<h2 id="related-principles">Related Principles<a class="headerlink" href="#related-principles" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../../methods/designing-a-valid-experiment/">Designing a Valid Experiment</a></li>
+<li><a href="../evidence-based-teaching-and-scientific-reasoning/">Evidence-Based Teaching and Scientific Reasoning</a> — the wider decision of adopting an approach on a comparison; reading the effect's size is one move in it.</li>
+<li><a href="../validity-reliability-and-bias-in-classroom-assessment/">Validity, Reliability and Bias in Classroom Assessment</a> — whether the measure behind an effect size measures what it claims.</li>
+</ul>
+<h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
+<p>-</p>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Thompson, B. (2000). The APA Task Force on Statistical Inference (TFSI) Report as a Framework for Teaching and Evaluating Students' Understandings of Study Validity. Paper presented at the annual meeting of the American Educational Research Association. https://eric.ed.gov/?id=ED440121</li>
+<li>Mohamed Farrag Ahmed Badawi. (2019). The Effect of Explicit English Morphology Instruction on EFL Secondary School Students’ Morphological Awareness and Reading Comprehension. English Language Teaching, 12(4). https://doi.org/10.5539/elt.v12n4p166</li>
+</ul>
+<!-- deprecated 2026-10-15: superseded by the conditional model above. The previous body, kept verbatim.
+
+## Description
+The principle, drawn from the APA Task Force on Statistical Inference report, is that researchers must report effect-size estimates whenever p values are reported, and interpret them in practical and theoretical context against previously reported effects. The paper notes the 1994 APA manual merely "encourage" (p. 18) effect size reporting, and that this encouragement proved ineffectual, so journals now require it.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Effect-size estimates must accompany reported p values; interpretation requires placing effect sizes in the context of previously reported effects.
+- Compute and report an effect-size measure alongside significance tests when evaluating an instructional intervention
+#### Constraints
+- The 1994 APA manual's mere encouragement of effect-size reporting was ineffectual across 23 journals, per the paper's summary of 11 empirical studies.
+- The article's illustration uses Blake's modified gain ratio in a single quasi-experimental study; it does not claim this measure generalizes to all designs
+
+### Target Learners
+- graduate students in educational research
+- behavioral science researchers
+- EFL first-year secondary school students
+
+### Target Learning Objectives
+- interpreting research results
+- understanding statistical significance versus practical significance
+- Morphological awareness
+- Reading comprehension
+
+### Claims
+- P Values Confounded Indices [+M]
+- [Emi Effect Size Larger For Awareness Than Comprehension](../../claims/emi-effect-size-larger-for-awareness-than-comprehension/) [+M]
+- [In a randomized trial of SRL interventions in an online mathematics preparation course, group and time interacted significantly on SRL knowledge, self-efficacy and the SRL overall score, with Group TDP (training + diary + peer feedback) showing the most prominent gains](../../claims/srl-web-training-peer-feedback-group-by-time-interaction-online-math-prep/) [+W]
+- [Self-regulated learning interventions have a moderate effect (0.65) on learning outcomes in online and blended environments](../../claims/srl-interventions-moderate-effect-online-blended/) [+W]
+
+## Related Principles
+
+- [Designing a Valid Experiment](../methods/designing-a-valid-experiment.md)
+
+## Examples
+-
+
+## Key Sources
+- Thompson, B. (2000). The APA Task Force on Statistical Inference (TFSI) Report as a Framework for Teaching and Evaluating Students' Understandings of Study Validity. Paper presented at the annual meeting of the American Educational Research Association. https://eric.ed.gov/?id=ED440121
+- Mohamed Farrag Ahmed Badawi. (2019). The Effect of Explicit English Morphology Instruction on EFL Secondary School Students’ Morphological Awareness and Reading Comprehension. English Language Teaching, 12(4). https://doi.org/10.5539/elt.v12n4p166
+
+-->
+<!-- merged 2026-10-07 from principles/report-effect-sizes-with-p-values ("Report effect sizes alongside p values when evaluating instructional interventions"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Report effect sizes alongside p values when evaluating instructional interventions
+
+> **Principle** · [All principles](index.md)
+> **Evidence** · 3 claims (3 for) · 3 studies (2 causal, 1 quant-synthesis), `q2`–`q3` · 2 of 3 report an effect size · 3 claims rest on one study
+
+## Description
+The article argues that statistical significance alone can mislead about the practical value of an intervention, because most prior EFL morphology studies failed to report effect sizes, making it "impossible for readers/researchers to estimate how practically significant the findings were". It therefore reports both p and t values and Blake's modified gain ratio, citing Huck's caution that a statistically significant result can be "completely devoid of any practical significance whatsoever". The principle is that both substantive significance (effect size) and statistical significance should be reported.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Compute and report an effect-size measure alongside significance tests when evaluating an instructional intervention
+#### Constraints
+- The article's illustration uses Blake's modified gain ratio in a single quasi-experimental study; it does not claim this measure generalizes to all designs
+
+### Target Learners
+- EFL first-year secondary school students
+
+### Target Learning Objectives
+- Morphological awareness
+- Reading comprehension
+
+### Claims
+
+- [Emi Effect Size Larger For Awareness Than Comprehension](../../claims/emi-effect-size-larger-for-awareness-than-comprehension/) [+M]
+- [In a randomized trial of SRL interventions in an online mathematics preparation course, group and time interacted significantly on SRL knowledge, self-efficacy and the SRL overall score, with Group TDP (training + diary + peer feedback) showing the most prominent gains](../../claims/srl-web-training-peer-feedback-group-by-time-interaction-online-math-prep/) [+W]
+- [Self-regulated learning interventions have a moderate effect (0.65) on learning outcomes in online and blended environments](../../claims/srl-interventions-moderate-effect-online-blended/) [+W]
+
+## Related Principles
+
+- [Always report and interpret effect sizes alongside p values for primary outcomes](always-report-interpret-effect-sizes.md)
+
+## Examples
+-
+
+## Key Sources
+- Mohamed Farrag Ahmed Badawi. (2019). The Effect of Explicit English Morphology Instruction on EFL Secondary School Students’ Morphological Awareness and Reading Comprehension. English Language Teaching, 12(4). https://doi.org/10.5539/elt.v12n4p166
+-->
+
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>principle</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>always-report-interpret-effect-sizes</code></td>
+</tr>
+<tr>
+<td><code>aliases</code></td>
+<td><code>report-effect-sizes-with-p-values</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Always report and interpret effect sizes alongside p values for primary outcomes</code></td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td><code>For anyone writing or reading an evaluation of an instructional intervention, reporting a standardized effect size with its interval, comparison and measure beside every p value, and reading it against effects for the same kind of outcome rather than a universal label, is expected to lead to better adopt-or-revise decisions than significance alone; no claim in the wiki tests that expectation, though claims show significance and size diverging, significance filtering inflating sizes, and sizes depending on the measure.</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>canonical</code></td>
+<td><code>True</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>claude/unspecified</code> on <code>2026-10-15</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>2 — <code>thompson-2000</code>, <code>mohamed-farrag-ahmed-badawi-2019</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      <span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)
+    </div>
+  
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.sections", "navigation.top", "navigation.tracking", "navigation.path", "navigation.prune", "toc.follow", "content.code.copy", "content.tooltips"], "search": "../../assets/javascripts/workers/search.a7633da7.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.c21346df.min.js"></script>
+      
+    
+  </body>
+</html>

@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Transformer-encoder knowledge tracing framework with IEU/IIU input vectors - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<link rel="stylesheet" href="../../assets/stylesheets/lt.css">
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script src="../../assets/javascripts/lt-palette.js" data-root="../../"></script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../research-methods/">Research methods</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Research method">
+<h1 id="transformer-encoder-knowledge-tracing-framework-with-ieuiiu-input-vectors">Transformer-encoder knowledge tracing framework with IEU/IIU input vectors<a class="headerlink" href="#transformer-encoder-knowledge-tracing-framework-with-ieuiiu-input-vectors" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Research Method</strong> · <a href="../">All research methods</a><br />
+<strong>Evidence</strong> · 6 claims (6 for) · 1 study (1 design), <code>q2</code> · 1 of 1 report an effect size · 6 claims rest on one study</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>A deep knowledge tracing framework for the ASSISTments dataset that predicts students' responses to end-of-unit test problems from action logs of in-unit assignments. It constructs IEU vectors (problem, sequence, student, and class information) as queries and IIU vectors (adding action-type embeddings and action features with positional encoding) as keys and values for a Transformer Encoder. The article states it is "a novel Transformer-based framework for the ASSISTments dataset which integrates several data-preprocessing techniques with a Transformer-based predictive model". Code, saved models, and predictions are released on OSF.</p>
+<h2 id="accounts">Accounts<a class="headerlink" href="#accounts" title="Permanent link">&para;</a></h2>
+<!-- How each source describes or uses the method -->
+<ul>
+<li><strong>Transformer-encoder knowledge tracing framework with IEU/IIU input vectors and released code, models, and predictions</strong>: A deep knowledge tracing framework for the ASSISTments dataset that predicts students' responses to end-of-unit test problems from action logs of in-unit assignments. It constructs IEU vectors (problem, sequence, student, and class information) as queries and IIU vectors (adding action-type embeddings and action features with positional encoding) as keys and values for a Transformer Encoder. The article states it is "a novel Transformer-based framework for the ASSISTments dataset which integrates several data-preprocessing techniques with a Transformer-based predictive model". Code, saved models, and predictions are released on OSF. (Lu et al. (2024))</li>
+</ul>
+<h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../../claims/model1-outperforms-complex-model2/">The single-head base model (Model 1) outperformed the more complex Model 2, suggesting overfitting in the larger architecture</a> [+M]</li>
+<li><a href="../../claims/ablation-all-features-maximize-auc/">Ablation study: removing any component lowers evaluation AUC, and removing all additional features yields the lowest public and private AUCs</a> [+M]</li>
+<li><a href="../../claims/isa-help-seeking-more-informative-than-correct-response/">Single instances of help-seeking actions (answer requested, explanation requested) carry more predictive information than single correct or open responses (ISA)</a> [+M]</li>
+<li><a href="../../claims/transformer-kt-first-place-edm-cup-2023/">The proposed Transformer-based framework achieved first place in the EDM Cup 2023 with an AUC of 78.969% on the private evaluation dataset</a> [+M]</li>
+<li><a href="../../claims/nca-scores-align-with-main-effects/">NCA scores of IIU input vectors order action types identically to the main-effects ordering (Spearman's ρ = 1)</a> [+M]</li>
+<li><a href="../../claims/answer-requested-lowest-main-effect/">In artificial action logs, \"answer requested\" yields the lowest average predicted probability of a correct end-of-unit response, below even \"wrong response\"</a> [+M]</li>
+</ul>
+<h2 id="related-research-methods">Related Research Methods<a class="headerlink" href="#related-research-methods" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../coherence-analysis-framework-and-its-six-activity-trace-measures/">Coherence analysis framework and its six activity-trace measures</a></li>
+</ul>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Lu, Y., Tong, L., &amp; Cheng, Y. (2024). Advanced Knowledge Tracing: Incorporating Process Data and Curricula Information via an Attention-Based Framework for Accuracy and Interpretability. Journal of Educational Data Mining, 16(2). https://osf.io/mdpzc/. <a href="https://doi.org/10.31219/osf.io/3k7z2">doi:10.31219/osf.io/3k7z2</a></li>
+</ul>
+<!-- merged 2026-10-10 from elements/transformer-ieu-iiu-kt-framework ("Transformer-encoder knowledge tracing framework with IEU/IIU input vectors and released code, models, and predictions"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Transformer-encoder knowledge tracing framework with IEU/IIU input vectors and released code, models, and predictions
+
+> **Element** · [All elements](../)
+> **Evidence** · 6 claims (6 for) · 1 study (1 design), `q2` · 1 of 1 report an effect size · 6 claims rest on one study
+
+## Description
+A deep knowledge tracing framework for the ASSISTments dataset that predicts students' responses to end-of-unit test problems from action logs of in-unit assignments. It constructs IEU vectors (problem, sequence, student, and class information) as queries and IIU vectors (adding action-type embeddings and action features with positional encoding) as keys and values for a Transformer Encoder. The article states it is "a novel Transformer-based framework for the ASSISTments dataset which integrates several data-preprocessing techniques with a Transformer-based predictive model". Code, saved models, and predictions are released on OSF.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Auxiliary information on problems, sequences, students, and classes (e.g., BERT+PCA problem text embeddings, curriculum folder paths, class memberships for SVD embeddings) is available in the training data.
+#### Constraints
+- The framework is designed for the distinction between in-unit assignments and end-of-unit tests; some dataset items lack features beyond their IDs, introducing missing or incomplete data the model must account for.
+
+### Target Learners
+- K-12 mathematics students using the ASSISTments online learning platform
+
+### Target Learning Goals
+- Predicting student performance on end-of-unit mathematics test problems from clickstream process data
+
+### Claims
+<!- - Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] - ->
+- [The single-head base model (Model 1) outperformed the more complex Model 2, suggesting overfitting in the larger architecture](../../claims/model1-outperforms-complex-model2/) [+M]
+- [Ablation study: removing any component lowers evaluation AUC, and removing all additional features yields the lowest public and private AUCs](../../claims/ablation-all-features-maximize-auc/) [+M]
+- [Single instances of help-seeking actions (answer requested, explanation requested) carry more predictive information than single correct or open responses (ISA)](../../claims/isa-help-seeking-more-informative-than-correct-response/) [+M]
+- [The proposed Transformer-based framework achieved first place in the EDM Cup 2023 with an AUC of 78.969% on the private evaluation dataset](../../claims/transformer-kt-first-place-edm-cup-2023/) [+M]
+- [NCA scores of IIU input vectors order action types identically to the main-effects ordering (Spearman's ρ = 1)](../../claims/nca-scores-align-with-main-effects/) [+M]
+- [In artificial action logs, \"answer requested\" yields the lowest average predicted probability of a correct end-of-unit response, below even \"wrong response\"](../../claims/answer-requested-lowest-main-effect/) [+M]
+
+## Related Elements
+- 
+
+## Examples
+-
+
+## Key Sources
+- Lu, Y., Tong, L., & Cheng, Y. (2024). Advanced Knowledge Tracing: Incorporating Process Data and Curricula Information via an Attention-Based Framework for Accuracy and Interpretability. Journal of Educational Data Mining, 16(2). https://osf.io/mdpzc/. [doi:10.31219/osf.io/3k7z2](https://doi.org/10.31219/osf.io/3k7z2)
+-->
+
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>moved_from</code></td>
+<td><code>element/transformer-ieu-iiu-kt-framework</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:sweep-kinds</code> on <code>2026-10-10</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+<script src="../../assets/javascripts/lt-nav.js" data-root="../../" data-folder="research-methods"></script>
+</body>
+</html>

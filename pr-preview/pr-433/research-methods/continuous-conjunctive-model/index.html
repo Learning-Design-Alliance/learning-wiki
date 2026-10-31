@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Continuous Conjunctive Model - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<link rel="stylesheet" href="../../assets/stylesheets/lt.css">
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script src="../../assets/javascripts/lt-palette.js" data-root="../../"></script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../research-methods/">Research methods</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Research method">
+<h1 id="continuous-conjunctive-model">Continuous Conjunctive Model<a class="headerlink" href="#continuous-conjunctive-model" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Research Method</strong> · <a href="../">All research methods</a><br />
+<strong>Evidence</strong> · 4 claims (4 for) · 1 study (1 design), <code>q3</code> · 1 of 1 report an effect size · 4 claims rest on one study</p>
+</blockquote>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p>The CCM is an extension of the NIDA cognitive diagnostic model that "utilizes continuous variables instead of binary latent variables to represent attributes, thus it offers a more generalized diagnosis" (Hong et al., 2015). Because it assumes conjunctive relations among latent attributes, learners must apply all required attributes to answer an item correctly. It involves no item-level parameters, so a learner's attribute profile can be estimated even when the number of skills is large, making it suited to DGBL where items are randomly generated. This study applied it to fit The Nomads game log data, estimating skill profiles for the first and second halves of gameplay.</p>
+<h2 id="accounts">Accounts<a class="headerlink" href="#accounts" title="Permanent link">&para;</a></h2>
+<!-- How each source describes or uses the method -->
+<ul>
+<li><strong>Continuous Conjunctive Model (CCM) for stealth assessment in game learning analytics</strong>: The CCM is an extension of the NIDA cognitive diagnostic model that "utilizes continuous variables instead of binary latent variables to represent attributes, thus it offers a more generalized diagnosis" (Hong et al., 2015). Because it assumes conjunctive relations among latent attributes, learners must apply all required attributes to answer an item correctly. It involves no item-level parameters, so a learner's attribute profile can be estimated even when the number of skills is large, making it suited to DGBL where items are randomly generated. This study applied it to fit The Nomads game log data, estimating skill profiles for the first and second halves of gameplay. (Jiaqi Yu et al. (2022))</li>
+</ul>
+<h3 id="claims">Claims<a class="headerlink" href="#claims" title="Permanent link">&para;</a></h3>
+<ul>
+<li><a href="../../claims/ccm-model-data-fit-adequate-except-tasks-7-9/">CCM showed adequate model-data fit for game log data, except for infrequent tasks 7 and 9</a> [+M]</li>
+<li><a href="../../claims/ccm-external-validation-correlations-pre-post-tests/">CCM-estimated skill profiles showed minor positive correlations with external pre- and post-test scores, ranging from .018 to .495</a> [+W]</li>
+<li><a href="../../claims/ccm-attribute-mastery-improved-during-gameplay/">Students' skill mastery for all five attributes improved during gameplay in The Nomads, with all quantiles differing significantly between halves</a> [+W]</li>
+<li><a href="../../claims/scaffolding-correlates-mastery-three-of-five-attributes/">Scaffold use correlated significantly with mastery of attributes 1, 3, and 4, but not attributes 2 and 5</a> [+W]</li>
+</ul>
+<h2 id="related-research-methods">Related Research Methods<a class="headerlink" href="#related-research-methods" title="Permanent link">&para;</a></h2>
+<p>-</p>
+<h2 id="key-sources">Key Sources<a class="headerlink" href="#key-sources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Jiaqi Yu, Wenchao Ma, Jewoong Moon, Andre R. Denham. (2022). Developing a Stealth Assessment System Using a Continuous Conjunctive Model. Journal of Learning Analytics, 9(3), 11–31. https://doi.org/10.18608/jla.2022.7639</li>
+</ul>
+<!-- merged 2026-10-10 from theories/ccm-continuous-conjunctive-model-theory ("Continuous Conjunctive Model (CCM) for stealth assessment in game learning analytics"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Continuous Conjunctive Model (CCM) for stealth assessment in game learning analytics
+
+> **Theory** · [All theories](../)
+> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q3` · 1 of 1 report an effect size · 4 claims rest on one study
+
+## Description
+The CCM is an extension of the NIDA cognitive diagnostic model that "utilizes continuous variables instead of binary latent variables to represent attributes, thus it offers a more generalized diagnosis" (Hong et al., 2015). Because it assumes conjunctive relations among latent attributes, learners must apply all required attributes to answer an item correctly. It involves no item-level parameters, so a learner's attribute profile can be estimated even when the number of skills is large, making it suited to DGBL where items are randomly generated. This study applied it to fit The Nomads game log data, estimating skill profiles for the first and second halves of gameplay.
+
+## Design Implications
+
+### Context
+#### Requirements
+- A Q-matrix specifying which attributes each game task requires, determined by subject experts
+- Randomly generated items with no item-level parameters, so items sharing attribute patterns share psychometric properties
+#### Constraints
+- The CCM assumes learners cannot answer an item correctly by guessing; this study adopted a revised CCM with a guessing parameter for tasks 7 and 9 to accommodate this
+
+### Target Learners
+- Fourth to sixth graders learning rational number arithmetic
+
+### Target Learning Objectives
+- Adaptive expertise in rational number arithmetic
+- Fine-grained diagnosis of five math attributes (operations, flexibility/adaptivity, nice numbers, algebraic thinking, ratio and area/volume reasoning)
+
+### Claims
+
+- [Ccm Model Data Fit Adequate Except Tasks 7 9](../../claims/ccm-model-data-fit-adequate-except-tasks-7-9/) [+M]
+- [Ccm External Validation Correlations Pre Post Tests](../../claims/ccm-external-validation-correlations-pre-post-tests/) [+W]
+- [Students' skill mastery for all five attributes improved during gameplay in The Nomads, with all quantiles differing significantly between halves](../../claims/ccm-attribute-mastery-improved-during-gameplay/) [+W]
+- [Scaffold use correlated significantly with mastery of attributes 1, 3, and 4, but not attributes 2 and 5](../../claims/scaffolding-correlates-mastery-three-of-five-attributes/) [+W]
+
+## Related Theories
+
+- [Rule Space Model of cognitive diagnosis](../rule-space-model/)
+
+## Examples
+
+- [Use in-game scaffolds with automatic feedback displays in math game tasks, monitoring scaffold use against mastery data](../../strategies/in-game-scaffolds-with-usage-tracking/)
+
+## Key Sources
+- Jiaqi Yu, Wenchao Ma, Jewoong Moon, Andre R. Denham. (2022). Developing a Stealth Assessment System Using a Continuous Conjunctive Model. Journal of Learning Analytics, 9(3), 11–31. https://doi.org/10.18608/jla.2022.7639
+-->
+
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>moved_from</code></td>
+<td><code>theory/ccm-continuous-conjunctive-model-theory</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:sweep-kinds</code> on <code>2026-10-10</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+<script src="../../assets/javascripts/lt-nav.js" data-root="../../" data-folder="research-methods"></script>
+</body>
+</html>

@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>LoRA adaptation significantly increases closed-book accuracy on the PhysicsMate test set at all three Qwen3 scales - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<link rel="stylesheet" href="../../assets/stylesheets/lt.css">
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script src="../../assets/javascripts/lt-palette.js" data-root="../../"></script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../claims/">Claims</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="lora-adaptation-significantly-increases-closed-book-accuracy-on-the-physicsmate-test-set-at-all-three-qwen3-scales">LoRA adaptation significantly increases closed-book accuracy on the PhysicsMate test set at all three Qwen3 scales<a class="headerlink" href="#lora-adaptation-significantly-increases-closed-book-accuracy-on-the-physicsmate-test-set-at-all-three-qwen3-scales" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a><br />
+<strong>Evidence</strong> · 1 study · causal <code>r1</code> · <code>q2</code><br />
+<strong>Currency</strong> · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly</p>
+</blockquote>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<p><code>q2 i?</code> Fine-tuning with a unified LoRA recipe improves every metric at every scale, with accuracy gains of +5.5, +15.0 and +23.3 percentage points at 0.6B, 1.7B and 4B. <a href="#rashid-azraf-jahin-2026">→ Rashid Azraf Jahin 2026</a></p>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="rashid-azraf-jahin-2026">Rashid Azraf Jahin 2026<a class="headerlink" href="#rashid-azraf-jahin-2026" title="Permanent link">&para;</a></h3>
+<p>Rashid Azraf Jahin, Saadman Sajid, Khan Raiyan Ibne Reza, Sumaiya Tabassum Nimi. (2026). PhysicsMate: A Curriculum-Grounded Bengali Benchmark for Secondary Physics QA with Small-Model Adaptation. IEEE CSDE 2026. https://arxiv.org/abs/2610.00664 <a href="https://doi.org/10.48550/arxiv.2610.00664">doi:10.48550/arxiv.2610.00664</a></p>
+<p><code>q2 · i?</code> · <code>causal · r1</code></p>
+<p>Evaluation on the 275 held-out test questions with greedy decoding, LLM-judge accuracy (Gemini-2.5-Flash-Lite). The 1.7B model's accuracy "is doubled, from 10.5% to 25.5%", and the 4B model reaches 50.9% fine-tuned versus 27.6% raw. No effect sizes are printed.</p>
+<blockquote>
+<p>"Fine-tuning improves every metric at every scale. The base model, Qwen3-0.6B, is not able to get the correct answer rate on the test set, but following adaptation, the rate becomes 5.5%"</p>
+</blockquote>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../adaptation-gains-grow-with-model-capacity/">Adaptation gains grow monotonically with model capacity under the same LoRA recipe, though three data points cannot establish a scaling law</a> — a broader claim this one bears on</li>
+<li><a href="../lora-improves-reference-answer-similarity-control-systems/">LoRA fine-tuning on control systems course data increases lexical and semantic similarity between model responses and course reference answers at both 3B and 7B model sizes</a> — related</li>
+<li><a href="../model-size-and-lora-rank-joint-effects/">Base-model size effects persist after LoRA adaptation: the 7B model gained more on ROUGE-2 and ROUGE-L, yet 3B-r16 outperformed 7B-r4 on ROUGE-L and BERTScore-F1</a> — related</li>
+<li><a href="../omniedu-general-capability-retained-after-specialization/">Specializing models for K-12 education does not require a broad loss of general capability, with MMMU-Pro accuracy increasing at all three scales</a> — related</li>
+<li><a href="../omniedu-tuning-improves-all-three-educational-capability-groups/">Education-oriented instruction tuning consistently improves curriculum grounding, K-12 problem solving, and pedagogical tutoring at every evaluated model scale</a> — related</li>
+<li><a href="../structured-knowledge-benefits-most-from-adaptation/">Adaptation benefits structured curricular knowledge (quantities, laws, definitions) most and loosely specified entity-level knowledge least</a> — related</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>process:wiki-ingest</code> on <code>2026-10-11</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> &copy; Learning Design Alliance — content licensed CC BY-SA 4.0 where copyright applies; pages are written largely by AI (<a href="https://wiki.learningdesignalliance.org/checks/#who-wrote-this-and-the-license">who wrote this, and the license</a>)</footer>
+<script src="../../assets/javascripts/lt-nav.js" data-root="../../" data-folder="claims"></script>
+</body>
+</html>
