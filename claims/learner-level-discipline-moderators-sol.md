@@ -67,7 +67,7 @@ Mixed-effects moderator analysis on the synchronous-vs-asynchronous cognitive co
 - [Subject discipline significantly moderates CSCL script effects on collaboration skills, while study duration and measurement level do not significantly moderate effects](further-moderators-discipline-duration-measurement-level.md) — related
 - [Synchronous online learning did not significantly affect affective outcomes compared with asynchronous online learning (g = 0.32, p = .051)](sol-asynchronous-affective-null.md) — related
 - [Synchronous online learning was statistically comparable to face-to-face learning for both cognitive and affective outcomes](sol-face-to-face-no-difference.md) — related
-- [Non-random assignment studies showed larger synchronous-learning effect sizes than random-assignment studies](student-equivalence-moderator-sol.md) — related
+- Non-random assignment studies showed larger synchronous-learning effect sizes than random-assignment studies — related
 - [Interactive synchronous lessons yielded larger effects than lectures for affective outcomes versus asynchronous learning](interactive-lesson-moderator-sol-affective.md) — related
 - [Courses shorter than one semester showed larger synchronous-learning effect sizes than semester-or-longer courses](course-duration-moderator-sol.md) — related
 - [Synchronous online learning significantly and positively impacts cognitive outcomes compared with asynchronous online learning (g = 0.37)](sol-beats-asynchronous-cognitive-outcomes.md) — related

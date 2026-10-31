@@ -51,6 +51,6 @@ Meta-analytic publication-status moderator analysis from Table 2: 44 effect size
 - Journal-published studies show larger concept-mapping effects than dissertations and conference papers (g = 1.039 vs. 0.254) — related
 - Publication bias is present to a varying degree, with published studies reporting larger belief and student-behavior effects than unpublished studies — related
 - Studies published before 1998 report much larger private-schooling civic effects than studies from 1998 onward, which the authors treat as evidence of publication bias limited to earlier studies. — a narrower finding that bears on this claim
-- [Published and unpublished studies show no significant difference in achievement effect sizes, though unpublished studies show a higher point estimate (d+ = 0.88 vs 0.44)](cooperative-learning-publication-bias-moderator.md) — related
-- [Publication-bias analysis indicates 51 unpublished studies would be needed to reverse the meta-analysis findings](mall-file-drawer-51-studies-needed-to-reverse.md) — related
-- [Effect sizes are larger for peer-reviewed published articles than dissertations and for quasiexperimental pre-post designs than comparative post-only designs](publication-type-and-design-moderate-small-group-effects.md) — related
+- Published and unpublished studies show no significant difference in achievement effect sizes, though unpublished studies show a higher point estimate (d+ = 0.88 vs 0.44) — related
+- Publication-bias analysis indicates 51 unpublished studies would be needed to reverse the meta-analysis findings — related
+- Effect sizes are larger for peer-reviewed published articles than dissertations and for quasiexperimental pre-post designs than comparative post-only designs — related

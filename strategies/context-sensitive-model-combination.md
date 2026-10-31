@@ -17,7 +17,7 @@ sources:
 # Combine clinical teaching models flexibly and in a context-sensitive way rather than relying on a single framework
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The review recommends "flexible, context-sensitive combination of clinical teaching models rather than reliance on a single framework," arguing that no single model addresses all dimensions of clinical competence. The strategy pairs complementary models: reasoning-oriented models may underdevelop procedural mastery, while procedural models may underdevelop reflective thinking and professional identity formation. Hybrid approaches combining reasoning, procedural competence, feedback, reflection, and workplace learning are presented as offering greater educational value in competency-based curricula.
@@ -38,7 +38,6 @@ The review recommends "flexible, context-sensitive combination of clinical teach
 
 ## Claims
 
-- [The evidence base on clinical teaching models is limited by methodological weaknesses, descriptive orientation, and poor representation of low-resource settings](../claims/clinical-teaching-evidence-methodological-limits.md) [+W]
 - [Evidence on clinical teaching models is concentrated in high-income settings: most included studies were conducted in the United States and none originated from Africa](../claims/clinical-teaching-models-us-concentration.md) [+W]
 - [Contextual resource constraints in low- and middle-income settings may limit implementation of structured, feedback-intensive clinical teaching models](../claims/resource-constraints-limit-model-transferability.md) [+W]
 

@@ -47,7 +47,7 @@ Meta-analysis of three studies measuring EBP competence with scales such as the 
 ## Related Claims
 - [Educational interventions significantly improve nurse leaders' EBP implementation leadership (SMD = 0.74)](ebp-education-improves-nurse-leader-implementation-leadership.md) — related
 - [Educational interventions improve nurse leaders' EBP knowledge (SMD = 1.05)](ebp-education-improves-nurse-leader-knowledge.md) — related
-- [Certainty of evidence for all outcomes was rated low due to serious risk of bias and heterogeneity](low-certainty-ebp-leader-education-evidence.md) — related
+- Certainty of evidence for all outcomes was rated low due to serious risk of bias and heterogeneity — related
 - [In one randomized trial, EBP leadership education improved EBP beliefs and implementation self-efficacy but not evidence-based nursing practice scores](tucker-trial-beliefs-selfefficacy-gains-ebnp-null.md) — related
 - [Educational interventions for nurse leaders improve implementation climate (SMD = 1.60)](nurse-leader-ebp-education-improves-implementation-climate.md) — related
 - [Educational interventions for nurse leaders improve organizational readiness (SMD = 0.65)](nurse-leader-ebp-education-improves-organizational-readiness.md) — related

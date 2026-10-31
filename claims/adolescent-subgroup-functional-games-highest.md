@@ -50,7 +50,7 @@ Exploratory age-stratified subgroup network (nine adolescent studies, broad outc
 ## Related Claims
 - [In the under-18 primary network, Hybrid TGfU-SE, Nonlinear, and Functional games are the only nodes whose estimates versus Control exclude zero, led by Hybrid TGfU-SE (SMD 1.35)](tgfu-se-nonlinear-functional-games-beat-control-under18.md) — related
 - [The treatment ordering is sensitive to outcome definition, participant age, and individual studies, including the reconstructed Orangi effect](ranking-sensitive-to-outcome-age-and-studies.md) — related
-- [The primary network retains substantial heterogeneity and significant local inconsistency, with four linked node splits significant at p = 0.039](primary-network-heterogeneity-inconsistency.md) — related
+- The primary network retains substantial heterogeneity and significant local inconsistency, with four linked node splits significant at p = 0.039 — related
 - [Cooperative learning's top rank in the broad network rests entirely on a single visual-motor integration study and disappears when that study is removed](cooperative-rank-single-study-artifact.md) — related
 - [Standalone serious games show large, relatively consistent effects on knowledge acquisition compared with other gamification categories](serious-games-consistent-knowledge-effects.md) — related
 - [Traditional instruction is approximately null versus Control in the primary network, and the analysis does not support claims that every active or structured node outperforms Control](traditional-null-versus-control-no-universal-superiority.md) — related

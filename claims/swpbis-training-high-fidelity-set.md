@@ -75,4 +75,4 @@ Annual SET assessments by trained assessors blind to condition in all 37 schools
 - [SWPBIS training significantly improved staff-reported implementation fidelity on all four EBS subscales](swpbis-training-improved-ebs-staff-reports.md) — related
 - [Teachers implemented Preschool PATHS with high fidelity and positive engagement in the trial](paths-preschool-high-implementation-fidelity.md) — related
 - [The SWPBIS effect on the responding-to-behavioral-violations subscale was significant only when comparing Year 1 and Year 4](swpbis-behavioral-violations-subscale-mixed.md) — related
-- [Included single-case design studies show high risk of bias on procedural fidelity and outcome-assessor blinding](sced-risk-of-bias-procedural-fidelity.md) — related
+- Included single-case design studies show high risk of bias on procedural fidelity and outcome-assessor blinding — related

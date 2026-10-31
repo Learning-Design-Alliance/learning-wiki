@@ -17,7 +17,7 @@ sources:
 # Future gamification research should be qualitative or mixed and include educators' perspectives
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 Based on the descriptive gaps its review exposed — only 2% qualitative studies and 2% covering both students and educators — the review recommends that "future studies... conduct qualitative and mixed research that considers the perspective of educators in the results". It further recommends more research on the relationship between gamification and critical thinking, where studies are still insufficient. This is a forward-looking research-agenda recommendation grounded in the corpus's documented imbalances.
@@ -40,8 +40,6 @@ Based on the descriptive gaps its review exposed — only 2% qualitative studies
 
 ## Claims
 
-- [Research on gamification in higher education is predominantly quantitative, English-language and review-scarce](../claims/gamification-higher-ed-research-predominantly-quantitative.md) [+W]
-- [92% of reviewed gamification studies focus on students, with educators understudied](../claims/gamification-studies-focus-on-students-92-percent.md) [+W]
 
 ## Related Strategies
 

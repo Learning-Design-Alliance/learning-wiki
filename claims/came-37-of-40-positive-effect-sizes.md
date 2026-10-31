@@ -45,5 +45,5 @@ Descriptive analysis of the Hedges' d effect sizes calculated for each of the 40
 
 
 ## Related Claims
-- [Effect sizes of the included CAME studies are statistically homogeneous overall (QT = 30.1670; p = .8439)](came-effect-sizes-homogeneous-qt.md) — related
+- Effect sizes of the included CAME studies are statistically homogeneous overall (QT = 30.1670; p = .8439) — related
 - [Computer-Assisted Mathematics Education has a large positive overall effect on academic achievement (ES = .8999) in Turkish experimental and quasi-experimental studies](came-large-positive-effect-academic-achievement.md) — related

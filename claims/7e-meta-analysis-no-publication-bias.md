@@ -48,11 +48,11 @@ Publication bias evaluation within the meta-analysis using a funnel plot and the
 - [Most individual 7E effect sizes were positive, but three were negative, with effect sizes ranging from -.473 to 3.953](7e-effect-sizes-wide-range-three-negative.md) — related
 - [The 7E model showed larger science effects than the 3E model, but evidence for 7E superiority is limited by few and geographically concentrated studies](7e-larger-effects-than-3e-science.md) — related
 - [The 7E learning cycle has a very large positive overall effect on students' achievement in science teaching (random-effects Hedges's g = 1.245)](7e-learning-cycle-large-positive-effect-achievement.md) — related
-- [The meta-analysis shows no publication bias (Begg-Mazumdar p = .196) and is resistant to it (fail-safe N = 463)](pbl-meta-analysis-no-publication-bias.md) — related
-- [The meta-analysis shows signs of publication bias, with smaller studies tending to give more positive results than larger studies](publication-bias-gloss-meta-analysis.md) — related
-- [Fail-safe analyses indicate the meta-analysis findings are not attributable to publication bias](seitla-no-publication-bias-failsafe.md) — related
-- [Publication bias checks (funnel plot and Orwin's Fail-Safe N = 3182) found no evidence of bias in the meta-analysis](no-publication-bias-fail-safe-n-3182.md) — related
+- The meta-analysis shows no publication bias (Begg-Mazumdar p = .196) and is resistant to it (fail-safe N = 463) — related
+- The meta-analysis shows signs of publication bias, with smaller studies tending to give more positive results than larger studies — related
+- Fail-safe analyses indicate the meta-analysis findings are not attributable to publication bias — related
+- Publication bias checks (funnel plot and Orwin's Fail-Safe N = 3182) found no evidence of bias in the meta-analysis — related
 - [No evidence of publication bias was found for the overall effect of gamification on intrinsic motivation](gamification-meta-analysis-no-publication-bias.md) — related
 - [Publication bias is present and may inflate the overall hands-on effect size estimate](hands-on-publication-bias-inflates-estimate.md) — related
-- [The meta-analytic result is robust to publication bias, with a fail-safe number of 33,896.6 null studies needed to nullify the observed effect](cbt-meta-analysis-fail-safe-number-publication-bias.md) — related
-- [Publication bias in the meta-analysis is low, as indicated by a fail-safe N of 4860 and funnel plot inspection.](low-publication-bias-failsafe-4860.md) — related
+- The meta-analytic result is robust to publication bias, with a fail-safe number of 33,896.6 null studies needed to nullify the observed effect — related
+- Publication bias in the meta-analysis is low, as indicated by a fail-safe N of 4860 and funnel plot inspection. — related

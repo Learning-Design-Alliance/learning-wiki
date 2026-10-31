@@ -48,6 +48,6 @@ Quantitative meta-analysis of 40 studies: the heterogeneity test indicated "the 
 - [Effect sizes across creative drama studies in Social Studies are highly heterogeneous (Q = 90.019, p < .05; I² = 78.893%)](creative-drama-social-studies-heterogeneous-effect-sizes.md) — related
 - [The effect sizes of drama-based social studies instruction are highly heterogeneous across studies](drama-social-studies-effect-sizes-heterogeneous.md) — related
 - [Effect sizes across the included studies are highly heterogeneous (I² = 91.37%), indicating moderating factors](high-heterogeneity-innovative-models-critical-thinking.md) — related
-- [Individual studies of digital story effects are highly heterogeneous, requiring a random effects model](digital-story-studies-heterogeneous-random-effects.md) — related
-- [Effect sizes across the 38 comparisons are highly heterogeneous, requiring a random-effects model](stem-digital-meta-heterogeneous-random-effects.md) — related
+- Individual studies of digital story effects are highly heterogeneous, requiring a random effects model — related
+- Effect sizes across the 38 comparisons are highly heterogeneous, requiring a random-effects model — related
 - [Thematic analysis of 14 studies of student views found creative drama produced influential outcomes across cognitive, creative/critical-thinking, learning-environment, and social-affective domains, along with negative aspects](creative-drama-thematic-outcomes-domains.md) — related

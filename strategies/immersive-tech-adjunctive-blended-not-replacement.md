@@ -17,7 +17,7 @@ sources:
 # Position immersive technologies and virtual patients as supplementary components within blended learning rather than stand-alone replacements for established clinical communication training
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 3 claims (3 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The review recommends a measured adoption strategy: immersive technologies and virtual patients should be implemented strategically, not as default innovations, where (1) learning objectives clearly match the affordances of the technology, (2) educator support and feedback structures are in place, and (3) institutional resources allow for sustainable integration. Their potential value is greatest for preparing students for sensitive communication encounters, risk-free rehearsal before real patient contact, perspective-taking experiences such as dementia or mental health simulations, and repeated practice without extensive clinical placement resources.
@@ -45,8 +45,6 @@ The review recommends a measured adoption strategy: immersive technologies and v
 - [VR/AR and metaverse-based approaches were more frequently associated with favorable findings than screen-based virtual patient approaches, which yielded mixed findings with no clear advantage over non-technology-based simulation](../claims/vr-ar-more-favorable-than-screen-based-vps-communication.md) [~W]
 - [Reported barriers to immersive and VP-based communication training include limited authenticity of non-verbal interaction, unrealistic student perceptions, high institutional resource requirements, technical challenges, and scalability constraints](../claims/vp-communication-implementation-barriers-authenticity-resources.md) [~W]
 - [Evidence on long-term retention and transfer of clinical communication skills to clinical practice remained inconsistent or lacking across included reviews](../claims/vp-communication-long-term-retention-transfer-inconsistent.md) [~W]
-- [All nine included systematic reviews were rated critically low in methodological quality on AMSTAR-2, limiting confidence in the synthesized evidence](../claims/umbrella-review-vp-communication-all-reviews-critically-low-quality.md) [~W]
-- [Substantial heterogeneity in intervention design, outcome measures, and feedback structures limited comparability across reviews, and no pooled meta-analysis was feasible](../claims/vp-communication-heterogeneity-limits-comparability.md) [~W]
 
 ## Related Strategies
 

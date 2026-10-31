@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-10-31
 sources:
   - id: nava-e-2026
     resource: "https://doi.org/10.1002/ase.70169"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the study by Aristotle et al. (2021) included in the review, the blended flipped classroom method showed statistically significantly higher post-test scores compared with traditional teaching (p < 0.0001). [→ Nava E 2026](#nava-e-2026)
@@ -47,4 +48,4 @@ The review reports, from the included study by Aristotle et al. (2021) on histol
 ## Related Claims
 - [In a low-certainty meta-analysis of 44 studies with very high heterogeneity (I² = 98%), undergraduate health professional students in flipped classes score higher than those in traditional classes (SMD = 0.57)](flipped-classroom-improves-academic-performance-hpe.md) — a broader claim this one bears on
 - [Histology and pathology teaching methods in digital and blended environments have become more accessible, interactive, and student-centered than traditional instruction, with e-learning modules the most frequently used method](digital-histology-teaching-methods-more-student-centered.md) — related
-- [Research output on digital histology and pathology teaching increased steadily from 2013 to 2024, with first-year medical students the most frequently studied group](publication-trends-first-year-students-most-studied.md) — related
+- Research output on digital histology and pathology teaching increased steadily from 2013 to 2024, with first-year medical students the most frequently studied group — related

@@ -66,7 +66,7 @@ Moderator analysis reported in the Findings section (Table 9): 74 Turkey studies
 ## Related Claims
 - [Teaching level significantly moderates the digital story effect, with kindergarten showing the highest joint effect size](digital-story-effect-moderated-by-teaching-level.md) — related
 - [Effect sizes of PBL on science achievement differ significantly by publication type, with conference proceedings showing a negative effect](pbl-effect-differs-by-publication-type.md) — related
-- [Effect sizes are larger for peer-reviewed published articles than dissertations and for quasiexperimental pre-post designs than comparative post-only designs](publication-type-and-design-moderate-small-group-effects.md) — related
+- Effect sizes are larger for peer-reviewed published articles than dissertations and for quasiexperimental pre-post designs than comparative post-only designs — related
 - [Application period, publication type, database, grade level, scale used, school starting age, country and sample size do not significantly moderate the effect of student-centred methods on mathematics achievement](non-significant-moderators-meta-analysis-primary-math.md) — related
 - [Academic achievement effects of STEM practices differ significantly by publication type and education level but not by lesson type](stem-achievement-moderators-publication-type-education-level.md) — related
 - [Digital story applications have a high positive average effect on students' academic achievement compared to other teaching methods (ES = 0.750)](digital-story-high-positive-effect-academic-achievement.md) — related

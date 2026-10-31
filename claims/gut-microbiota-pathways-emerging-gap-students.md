@@ -45,8 +45,8 @@ Narrative synthesis of gut microbiota-related pathways across included studies. 
 
 
 ## Related Claims
-- [Included AI-VP studies lack consistent theoretical frameworks and standardized outcome measures, preventing statistical aggregation](ai-vp-studies-lack-theory-and-standardized-measures.md) — related
-- [Only a limited subset of student lifestyle-cognition studies include direct biological or psychophysiological measures](limited-direct-biological-measures-student-studies.md) — a broader claim this one bears on
+- Included AI-VP studies lack consistent theoretical frameworks and standardized outcome measures, preventing statistical aggregation — related
+- Only a limited subset of student lifestyle-cognition studies include direct biological or psychophysiological measures — a broader claim this one bears on
 - [Poorer sleep quality is associated with lower proportions of the gut microbial phyla Verrucomicrobia and Lentisphaerae in healthy older adults](poorer-sleep-quality-lower-verrucomicrobia-lentisphaerae-proportions.md) — related
 - [Sleep quality remains a significant predictor of Stroop Color-Word performance independent of Lentisphaerae proportion, while the Lentisphaerae-Stroop relationship reduces to non-significance](sleep-quality-predicts-color-word-independent-lentisphaerae.md) — related
 - [Greater Lentisphaerae proportion is associated with better Stroop Color-Word performance independent of carbohydrate intake](lentisphaerae-proportion-associated-stroop-color-word-performance.md) — related

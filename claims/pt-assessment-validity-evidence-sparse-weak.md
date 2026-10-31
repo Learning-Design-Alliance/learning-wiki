@@ -47,6 +47,6 @@ Descriptive synthesis across the 139 included studies, rating each assessment's 
 
 
 ## Related Claims
-- [Only 5% of physical therapy assessment studies used a contemporary validity framework and only 13.7% fully reported intended interpretation and use](pt-assessment-studies-classical-validity-framework.md) — related
+- Only 5% of physical therapy assessment studies used a contemporary validity framework and only 13.7% fully reported intended interpretation and use — related
 - [Performance-based assessments dominate the studied assessments in entry-level physical therapy education, with simulation-based the most common format](pt-education-assessments-performance-based-dominant.md) — related
-- [Knowledge-level assessments (written and oral exams) are underrepresented in the physical therapy assessment literature relative to performance-based assessments](pt-knows-level-assessments-underrepresented.md) — related
+- Knowledge-level assessments (written and oral exams) are underrepresented in the physical therapy assessment literature relative to performance-based assessments — related

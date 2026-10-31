@@ -17,7 +17,7 @@ sources:
 # Broaden data collection in future blended-learning meta-analyses to capture further moderator variables
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 In its conclusions and suggestions the authors recommend extending the evidence base: 'it is recommended to conduct future research by broadening data collection further to obtain other nece ssary affected variables'. Because the synthesis rests on 36 studies and some research could not be evaluated due to limited methodological knowledge, broadening collection is presented as the route to identifying additional variables that affect the size of blended learning's impact on mathematical ability.
@@ -38,7 +38,6 @@ In its conclusions and suggestions the authors recommend extending the evidence 
 
 ## Claims
 
-- [Effect sizes across the included Indonesian blended-learning studies are heterogeneous, so a random effects model is used](../claims/heterogeneous-effect-sizes-random-effects-model.md) [+W]
 
 ## Related Strategies
 - 

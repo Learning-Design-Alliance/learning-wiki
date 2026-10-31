@@ -48,6 +48,6 @@ Random-effects meta-analysis of eleven studies comparing synchronous with asynch
 - [Interactive synchronous lessons yielded larger effects than lectures for affective outcomes versus asynchronous learning](interactive-lesson-moderator-sol-affective.md) — related
 - [Synchronous online learning significantly and positively impacts cognitive outcomes compared with asynchronous online learning (g = 0.37)](sol-beats-asynchronous-cognitive-outcomes.md) — related
 - [Learner level and discipline moderated effect sizes, with graduate/professional learners and the education discipline showing larger estimates](learner-level-discipline-moderators-sol.md) — related
-- [Non-random assignment studies showed larger synchronous-learning effect sizes than random-assignment studies](student-equivalence-moderator-sol.md) — related
+- Non-random assignment studies showed larger synchronous-learning effect sizes than random-assignment studies — related
 - [Synchronous online learning was statistically comparable to face-to-face learning for both cognitive and affective outcomes](sol-face-to-face-no-difference.md) — related
 - [Synchronous online discussions produce higher behavioral, emotional, and cognitive engagement than asynchronous online discussions in online math courses](synchronous-discussion-increases-engagement.md) — related

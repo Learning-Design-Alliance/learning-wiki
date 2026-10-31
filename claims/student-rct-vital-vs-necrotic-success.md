@@ -48,5 +48,5 @@ Weighted pooled success rates from a random‐effects meta‐analysis (DerSimoni
 - [Student clinic success rates do not differ significantly from those reported for experienced clinicians and residents](student-outcomes-comparable-specialist-practice.md) — related
 - [Student root canal treatment success is lower in teeth with preoperative periapical radiolucencies (56.3%) than without (86.8%)](student-rct-preoperative-radiolucency-success.md) — related
 - [Anterior and pre‐molar teeth show higher student treatment success rates (82.2% and 79.4%) than molars (68.7%)](student-rct-tooth-type-success-gradient.md) — related
-- [Only 4 of 11 studies (36.4%) of student root canal treatment had low risk of bias](student-rct-evidence-low-risk-bias-minority.md) — related
+- Only 4 of 11 studies (36.4%) of student root canal treatment had low risk of bias — related
 - [Pooled risk difference across 11 student‐clinic studies is 0.43 but with considerable heterogeneity (I² = 93%)](student-rct-pooled-risk-difference-heterogeneous.md) — related

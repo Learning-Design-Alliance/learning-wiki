@@ -54,4 +54,4 @@ Meta-analysis of five non-randomized studies (345 participants) measuring compet
 - [Bilingual immunology teaching significantly increases the percentage of Chinese undergraduates achieving course scores above 80](bilingual-immunology-teaching-improves-course-performance.md) — related
 - [Bilingual immunology teaching significantly improves professional English proficiency among Chinese undergraduates](bilingual-immunology-teaching-improves-professional-english-proficiency.md) — related
 - [Bilingual teaching benefits on course performance may not extend to second-year students who already meet an English proficiency threshold](bilingual-immunology-benefits-vary-by-grade-level.md) — related
-- [Publication bias tests and sensitivity analyses support the robustness of the pooled bilingual teaching effects](bilingual-immunology-pooled-effects-robust-to-sensitivity-analysis.md) — related
+- Publication bias tests and sensitivity analyses support the robustness of the pooled bilingual teaching effects — related

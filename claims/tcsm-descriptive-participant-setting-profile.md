@@ -63,9 +63,9 @@ The review's descriptive analysis of independent variables: device types and whe
 
 
 ## Related Claims
-- [Most TCSM studies lacked numerical indices of procedural integrity: seven of nine omitted initial-training indices and five of nine omitted treatment-fidelity indices](tcsm-procedural-integrity-gaps.md) — related
-- [Visual inspection showed strong experimental control in two studies, moderate-to-strong in three, and mixed in one of eight evaluable TCSM studies](tcsm-experimental-control-visual-inspection.md) — related
+- Most TCSM studies lacked numerical indices of procedural integrity: seven of nine omitted initial-training indices and five of nine omitted treatment-fidelity indices — related
+- Visual inspection showed strong experimental control in two studies, moderate-to-strong in three, and mixed in one of eight evaluable TCSM studies — related
 - [Maintenance and generalization evidence is sparse: five of nine studies had no maintenance data, and only one study reported generalization results](tcsm-sparse-maintenance-generalization.md) — related
-- [TCSM intervention research is recent: no qualifying studies were published from 1973 through 2002, and five of nine appeared in 2012–2013](tcsm-recent-emerging-evidence-base.md) — related
+- TCSM intervention research is recent: no qualifying studies were published from 1973 through 2002, and five of nine appeared in 2012–2013 — related
 - [Instituting TCSM produced larger Phi effects (Md = 0.74) than removing TCSM in reversal designs (Md = 0.32)](tcsm-instituting-larger-phi-than-removing.md) — related
 - [Tactile-cued self-monitoring interventions show moderate to strong effects, with calculated Phi effect sizes ranging from 0.18 to 0.89 across 34 phase comparisons](tcsm-moderate-strong-phi-effects.md) — related

@@ -47,7 +47,7 @@ Limitations section of the PRISMA-ScR scoping review of 42 studies; the authors 
 ## Related Claims
 - [Adoption of Wikipedia assignments shows a global digital divide, concentrated in English-speaking countries](wikipedia-assignments-global-digital-divide.md) — related
 - [AI-motivation research is geographically and educationally concentrated: over half of reviewed studies were conducted in China and most in higher education](ai-motivation-research-china-higher-ed-concentration.md) — related
-- [Evidence on public health competency assessment is concentrated in high-income countries, with no studies from Latin America or Africa](geographic-concentration-high-income-countries-ph-competency-assessment.md) — related
+- Evidence on public health competency assessment is concentrated in high-income countries, with no studies from Latin America or Africa — related
 - [The GTA literature is skewed towards the Global North and largely omits patient perspectives, despite patient-centred justifications for GTA programmes](gta-literature-gaps-patient-voice-global-north.md) — related
 - [Anatomy teachers in healthcare professions education do not share a single profile; the majority hold a doctorate in anatomy or a related discipline, sometimes combined with a medical degree](anatomy-teachers-no-single-profile.md) — related
-- [No included study established a relationship between anatomy educators' profiles and their teaching or evaluation strategies, or between content taught and pedagogical approaches](no-link-teacher-profile-strategies.md) — related
+- No included study established a relationship between anatomy educators' profiles and their teaching or evaluation strategies, or between content taught and pedagogical approaches — related

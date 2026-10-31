@@ -47,4 +47,4 @@ Discussion-section framework comparison. CanMEDS overlaps named: "promote a safe
 
 ## Related Claims
 - [A systematic mapping review identifies twelve student P2P-teaching competencies and three medical competency categories forming a competency-profile for student P2P-teachers](mapping-review-12-p2p-teaching-competencies.md) — related
-- [P2P-teaching qualification research shows weak grounding in learning and teaching theories and low levels of evidence](p2p-research-weak-theory-low-evidence.md) — related
+- P2P-teaching qualification research shows weak grounding in learning and teaching theories and low levels of evidence — related

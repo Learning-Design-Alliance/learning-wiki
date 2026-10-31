@@ -71,7 +71,7 @@ Results-section synthesis describing narrative medicine as an approach that "has
 
 ## Related Claims
 - [Communication skills training programs improve clinician patient-centeredness, but training approaches are variable and long-term retention is untested](cst-programs-improve-patient-centeredness-short-term.md) — related
-- [Empathy is the most frequently studied soft skill in medical education literature (22 of 83 included studies)](empathy-most-frequent-soft-skill-focus-medical-education.md) — related
+- Empathy is the most frequently studied soft skill in medical education literature (22 of 83 included studies) — related
 - [Experiential knowledge from clinicians and patients is underrepresented in the obstetric emergency literature](experiential-knowledge-underrepresented-oe-literature.md) — related
 - [Students perceive that interacting with others in experiential learning fosters empathy and a sense of community by enhancing perspective-taking (beauty)](students-interaction-empathy-perspective-taking.md) — related
 - [Empathy and communication interventions show short-term gains but evidence on persistence over time is inconsistent](soft-skills-intervention-gains-not-sustained.md) — related

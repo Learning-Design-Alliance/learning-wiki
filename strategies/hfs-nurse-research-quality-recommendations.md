@@ -17,7 +17,7 @@ sources:
 # Future HFS trials for practising nurses need larger samples, rigorous randomised design and standardised, fully reported measures
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The review recommends strengthening the evidence base through "more rigorous RCTs with larger sample sizes, adequate reporting of HFS design, and standardised outcome measures". It advises following EQUATOR guidelines, particularly the CONSORT extensions for health care simulation research, in trial design, execution and reporting, and suggests multicentre studies to overcome recruitment difficulties with working nurses. It also proposes exploring integration of HFS with other simulation modalities such as computer-based simulation for more flexible, cost-effective training.
@@ -43,7 +43,6 @@ The review recommends strengthening the evidence base through "more rigorous RCT
 
 - [High-fidelity simulation training improves knowledge acquisition among practising registered nurses (moderate pooled effect)](../claims/hfs-knowledge-acquisition-practising-nurses.md) [+W]
 - [High-fidelity simulation training yields a large effect on learning satisfaction among practising registered nurses](../claims/hfs-learning-satisfaction-practising-nurses.md) [+W]
-- [The HFS evidence base for practising nurses comprises eight small studies with risk-of-bias concerns](../claims/hfs-nurse-evidence-base-eight-studies-275-nurses.md) [+W]
 - [High-fidelity simulation training improves professional skills among practising registered nurses (moderate pooled effect)](../claims/hfs-professional-skills-practising-nurses.md) [+W]
 - [The effect of high-fidelity simulation on practising nurses' self-confidence is inconclusive, varying by study design](../claims/hfs-self-confidence-inconclusive-design-dependent.md) [+W]
 

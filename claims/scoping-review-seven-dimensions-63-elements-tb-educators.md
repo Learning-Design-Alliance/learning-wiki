@@ -46,4 +46,4 @@ Scoping review following the Arksey and O'Malley five-stage framework across sev
 
 
 ## Related Claims
-- [Delphi revision reduced the initial framework from 7 dimensions, 25 categories, and 80 elements to 7 dimensions, 24 categories, and 63 elements](delphi-revision-80-to-63-competency-elements.md) — related
+- Delphi revision reduced the initial framework from 7 dimensions, 25 categories, and 80 elements to 7 dimensions, 24 categories, and 63 elements — related

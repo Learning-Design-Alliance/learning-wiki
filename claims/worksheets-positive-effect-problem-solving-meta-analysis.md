@@ -45,8 +45,8 @@ Meta-analysis of 40 studies (45 comparisons) from research and development, expe
 
 
 ## Related Claims
-- [The meta-analysis corpus comprised 40 studies yielding 45 data comparisons from 2013-2022](worksheet-meta-analysis-40-studies-45-comparisons.md) — a broader claim this one bears on
+- The meta-analysis corpus comprised 40 studies yielding 45 data comparisons from 2013-2022 — a broader claim this one bears on
 - [The mean population correlation between worksheet use and problem-solving skills is r = 0.3705, falling within its confidence interval](worksheet-problem-solving-population-correlation-0-3705.md) — related
 - [The positive worksheet effect was obtained mainly in secondary-school studies with large samples (more than 30 students) and random sampling](worksheet-effect-secondary-large-random-samples.md) — a narrower finding that bears on this claim
-- [Sampling error accounts for only 0.015% of the variance, suggesting small bias from sampling error](worksheet-meta-analysis-sampling-error-0-015-percent.md) — related
+- Sampling error accounts for only 0.015% of the variance, suggesting small bias from sampling error — related
 - [Basketball players solved average and percentage problems better when framed by basketball practices than as school math worksheets, using different strategies across contexts](basketball-players-better-on-basketball-framed-math-problems.md) — related

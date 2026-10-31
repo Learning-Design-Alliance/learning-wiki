@@ -47,8 +47,8 @@ Random-effects meta-analysis of 16 Korean journal articles and dissertations (31
 ## Related Claims
 - [Effect sizes of Arduino-based education do not differ statistically between gifted and general classes](arduino-effect-giftedness-no-difference.md) — related
 - [Effect sizes of Arduino-based education are statistically larger for textual than for visual programming language](arduino-effect-textual-language-larger.md) — related
-- [Effect sizes of Arduino-based education are statistically larger in academic papers than in dissertations](arduino-effect-publication-status-difference.md) — related
+- Effect sizes of Arduino-based education are statistically larger in academic papers than in dissertations — related
 - [Effect sizes of Arduino-based education do not differ statistically between formal and non-formal curriculum settings](arduino-effect-curriculum-no-difference.md) — related
 - [Meta-regression finds number of students, but not publication year or number of sessions, significantly related to Arduino education effect size](arduino-meta-regression-students-significant.md) — related
 - [Effect sizes of Arduino-based education do not differ statistically by school level, though high school estimates rest on minimal data](arduino-effect-school-level-no-difference.md) — related
-- [Publication bias tests indicate the meta-analysis results are reliable, with fail-safe N of 1930](arduino-meta-analysis-publication-bias-reliable.md) — related
+- Publication bias tests indicate the meta-analysis results are reliable, with fail-safe N of 1930 — related

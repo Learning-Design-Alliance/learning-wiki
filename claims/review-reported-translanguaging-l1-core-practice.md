@@ -45,5 +45,5 @@ Within the review's teaching-practices theme, it reports that Barahona (2020), "
 
 
 ## Related Claims
-- [Research studies on EFL methodology in Chile (2011–2021) cluster around perceptions and beliefs, core teaching practices, e-learning during COVID-19, motivation, and assessment](chilean-efl-methodology-review-major-topic-areas.md) — a broader claim this one bears on
+- Research studies on EFL methodology in Chile (2011–2021) cluster around perceptions and beliefs, core teaching practices, e-learning during COVID-19, motivation, and assessment — a broader claim this one bears on
 - [No consensus exists on strategies, approaches and perspectives under the concept of methodology for teaching EFL in Chile](no-consensus-efl-methodology-chile.md) — related

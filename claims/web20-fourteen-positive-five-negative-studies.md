@@ -45,5 +45,5 @@ Figure 1 forest plot of individual study effect sizes under the random effects m
 
 
 ## Related Claims
-- [Twelve of the nineteen included studies examined web 2.0 in English as a foreign language teaching, indicating wikis and blogs are concentrated in EFL contexts](web20-studies-concentrated-efl-teaching.md) — related
+- Twelve of the nineteen included studies examined web 2.0 in English as a foreign language teaching, indicating wikis and blogs are concentrated in EFL contexts — related
 - [Individual study effect sizes range from negative to very strong, with one study showing no effect](study-level-effect-sizes-range-including-null.md) — related

@@ -46,7 +46,7 @@ Random-effects meta-analysis of 60 primary studies (75 experiments) of education
 
 ## Related Claims
 - [Pedagogical interventions have an average effect size 0.862 standard deviations higher than any other intervention type](pedagogical-interventions-0-862-sd-higher.md) — a narrower finding that bears on this claim
-- [Rigorous evidence on education interventions in Sub-Saharan Africa is unevenly distributed, with over 30% of studies from Kenya alone and relevant topics unstudied](ssa-evidence-uneven-kenya-concentration.md) — related
+- Rigorous evidence on education interventions in Sub-Saharan Africa is unevenly distributed, with over 30% of studies from Kenya alone and relevant topics unstudied — related
 - [Comprehensive equity interventions, instructional time increases, and pedagogical interventions have the strongest pooled effects on learning in Sub-Saharan Africa](ssa-highest-effect-intervention-types.md) — a narrower finding that bears on this claim
 - [Abolishing school fees, school-based management, and school supplies provision have the lowest pooled effect sizes on learning in Sub-Saharan Africa](ssa-lowest-effect-intervention-types.md) — a narrower finding that bears on this claim
 - [Interventions targeting students or the classroom have average effects 1.13 standard deviations higher than interventions targeting teachers or the school community](intervention-target-classroom-student-higher.md) — related

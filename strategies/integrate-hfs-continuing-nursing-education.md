@@ -17,7 +17,7 @@ sources:
 # Integrate high-fidelity simulation into continuing nursing education and professional development programs
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (4 for, 3 mixed) · 3 studies (2 quant-synthesis, 1 review), `q3`–`q4` · 2 of 3 report an effect size · 7 claims rest on one study
+> **Evidence** · 6 claims (4 for, 2 mixed) · 3 studies (2 quant-synthesis, 1 review), `q3`–`q4` · 2 of 3 report an effect size · 6 claims rest on one study
 
 ## Description
 The review concludes that HFS training can be used in ongoing training for practising registered nurses, noting it "adds to the literature by showing that HFS training can be utilised in continuing education and professional development for practising registered nurses". HFS uses computer-controlled full-size manikins mimicking realistic clinical scenarios in a safe setting, suited to refreshing skills in high-stakes, infrequent situations. The evidence base is small, so adoption should be accompanied by evaluation.
@@ -42,7 +42,6 @@ The review concludes that HFS training can be used in ongoing training for pract
 
 - [High-fidelity simulation training improves knowledge acquisition among practising registered nurses (moderate pooled effect)](../claims/hfs-knowledge-acquisition-practising-nurses.md) [+W]
 - [High-fidelity simulation training yields a large effect on learning satisfaction among practising registered nurses](../claims/hfs-learning-satisfaction-practising-nurses.md) [+W]
-- [The HFS evidence base for practising nurses comprises eight small studies with risk-of-bias concerns](../claims/hfs-nurse-evidence-base-eight-studies-275-nurses.md) [~W]
 - [High-fidelity simulation training improves professional skills among practising registered nurses (moderate pooled effect)](../claims/hfs-professional-skills-practising-nurses.md) [+W]
 - [The effect of high-fidelity simulation on practising nurses' self-confidence is inconclusive, varying by study design](../claims/hfs-self-confidence-inconclusive-design-dependent.md) [~W]
 - [Simulation Based Education Improves Outcomes](../claims/simulation-based-education-improves-outcomes.md) [+M]

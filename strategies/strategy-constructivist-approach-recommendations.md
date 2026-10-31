@@ -17,7 +17,7 @@ sources:
 # Use the constructivist learning approach to improve academic achievement, especially at college and high school levels and across subjects other than religious instruction.
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (7 for) · 2 studies (2 quant-synthesis), `q3` · 1 of 2 report an effect size · 7 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 2 studies (2 quant-synthesis), `q3` · 1 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 The article's recommendations for practitioners and program developers, based on its meta-analytic findings. It concludes that "the constructivist learning approach makes more significant contribution to learners' academic achievement than traditional learning methods", so teachers can adopt it, and that it can be used in almost all areas except religious instruction, with particular emphasis on university and high school programs.
@@ -40,10 +40,8 @@ The article's recommendations for practitioners and program developers, based on
 
 - [The constructivist learning approach has a strong positive overall effect on students' academic achievement compared to traditional teaching methods (ES = 1.156).](../claims/constructivist-approach-overall-effect-achievement.md) [+M]
 - [50 of the 53 studies in the meta-analysis show positive effect sizes favoring the constructivist approach; 3 show negative effects favoring traditional teaching.](../claims/fifty-of-53-studies-positive-effect.md) [+M]
-- [Publication bias in the meta-analysis is low, as indicated by a fail-safe N of 4860 and funnel plot inspection.](../claims/low-publication-bias-failsafe-4860.md) [+M]
 - [Effect sizes differ significantly by course, with the highest effects in science learning, English, and computer courses and the lowest in religion.](../claims/moderator-course-effect.md) [+M]
 - [Effect sizes differ significantly by educational level, with the highest effect at university level (ES = 2.254) and the lowest at primary level (ES = 0.936).](../claims/moderator-educational-level-effect.md) [+M]
-- [Effect sizes differ significantly by publication type, with master's theses and articles showing higher effects than PhD theses.](../claims/moderator-publication-type-effect.md) [+M]
 - [Constructivist learning models show high-level effects on thinking skills (ES=.88) and academic success (ES=.81) but a medium-level effect on attitudes (ES=.51)](../claims/clm-effect-varies-by-outcome-type.md) [+M]
 
 ## Related Strategies

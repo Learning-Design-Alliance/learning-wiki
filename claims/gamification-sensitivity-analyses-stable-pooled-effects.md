@@ -46,5 +46,5 @@ Sensitivity analyses accompanying the review's meta-analyses: exclusion of the t
 
 ## Related Claims
 - [The pooled gamification effect is robust across dependence assumptions, quality thresholds, and model specifications, with no evidence of publication bias](gamification-mathematics-robustness-publication-bias.md) — related
-- [Pooled effects are robust in sensitivity analyses, but 10 of 13 studies carry serious risk of bias and publication bias is indicated](dementia-experiential-review-bias-and-robustness.md) — related
-- [Research on gamification in higher education is predominantly quantitative, English-language and review-scarce](gamification-higher-ed-research-predominantly-quantitative.md) — related
+- Pooled effects are robust in sensitivity analyses, but 10 of 13 studies carry serious risk of bias and publication bias is indicated — related
+- Research on gamification in higher education is predominantly quantitative, English-language and review-scarce — related

@@ -45,7 +45,7 @@ Review synthesis of scenario development approaches charted across the 21 includ
 
 
 ## Related Claims
-- [The evidence base for AI-SSP assessment remained concentrated in pilot, feasibility, proof-of-concept, and validation work, with only 10% of studies providing evidence beyond initial development or short-term evaluation](ai-ssp-evidence-maturity-mostly-feasibility.md) — related
+- The evidence base for AI-SSP assessment remained concentrated in pilot, feasibility, proof-of-concept, and validation work, with only 10% of studies providing evidence beyond initial development or short-term evaluation — related
 - [AI-SSP backend architectures shifted from rule-based or NLP systems before 2022 to LLM-based systems in all studies published after 2022](ai-ssp-architecture-shift-rule-based-to-llm.md) — related
-- [History-taking was the most frequently assessed competency in AI-SSP studies (52%), and assessed domains shifted over time toward interactional competencies](history-taking-most-assessed-ai-ssp-competency.md) — related
-- [Twenty-one studies describing 20 unique AI-SSP systems for clinical competency assessment were published between 2008 and 2026, with 71% published in 2024 or later](scoping-review-21-studies-20-ai-ssp-systems.md) — a broader claim this one bears on
+- History-taking was the most frequently assessed competency in AI-SSP studies (52%), and assessed domains shifted over time toward interactional competencies — related
+- Twenty-one studies describing 20 unique AI-SSP systems for clinical competency assessment were published between 2008 and 2026, with 71% published in 2024 or later — a broader claim this one bears on

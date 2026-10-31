@@ -45,8 +45,8 @@ Moderator analysis grouping the included studies by the region of Turkey where t
 
 
 ## Related Claims
-- [Effect sizes of the included CAME studies are statistically homogeneous overall (QT = 30.1670; p = .8439)](came-effect-sizes-homogeneous-qt.md) — related
-- [Effect sizes across primary studies are highly heterogeneous (Q = 283.659, I² = 77%), justifying the random-effects model](heterogeneity-i2-77-percent-random-effects.md) — related
+- Effect sizes of the included CAME studies are statistically homogeneous overall (QT = 30.1670; p = .8439) — related
+- Effect sizes across primary studies are highly heterogeneous (Q = 283.659, I² = 77%), justifying the random-effects model — related
 - [Geographical region does not significantly moderate the effect of constructivism on attitudes towards lessons](geographical-region-not-significant-moderator-constructivism-attitudes.md) — related
-- [Effect sizes across included studies were heterogeneous (Q=13.886, p<.05), and the article concludes a random-effects model is appropriate](heterogeneity-metacognitive-training-effect-sizes.md) — related
+- Effect sizes across included studies were heterogeneous (Q=13.886, p<.05), and the article concludes a random-effects model is appropriate — related
 - [Effect of MIT-based instruction does not differ significantly across Turkey's geographical regions](mit-effect-homogeneous-geographical-region.md) — related

@@ -65,7 +65,7 @@ Heterogeneity analysis of the same forest plot (Figure 2), with the review attri
 
 ## Related Claims
 - [Students report more confidence and less anxiety when supervised by clinicians experienced in endodontics (review‐attributed)](endodontic-supervisor-expertise-student-confidence.md) — related
-- [Only 4 of 11 studies (36.4%) of student root canal treatment had low risk of bias](student-rct-evidence-low-risk-bias-minority.md) — related
+- Only 4 of 11 studies (36.4%) of student root canal treatment had low risk of bias — related
 - [All three ECE modalities show significant positive effects, with real clinical interactions showing the largest pooled effect](ece-types-subgroup-effects.md) — related
 - [Structured clinical performance shows the largest pooled signal (SMD 3.39) but rests on a very small evidence base](llm-teaching-structured-clinical-performance-large-signal.md) — related
 - [Student root canal treatment success is lower in teeth with preoperative periapical radiolucencies (56.3%) than without (86.8%)](student-rct-preoperative-radiolucency-success.md) — a narrower finding that bears on this claim

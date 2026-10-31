@@ -47,6 +47,6 @@ The review's interpretive evaluation of instrument content coverage against univ
 
 ## Related Claims
 - [The TCPERSS is identified as one of the most promising instruments for the health professions education context because of its teacher–student relations focus and multisource Student Form](tcperss-most-promising-for-health-professions-education.md) — related
-- [A COSMIN-based systematic review identified 6 instruments assessing the ethics of teaching from 246 records](six-instruments-ethics-of-teaching-review.md) — a broader claim this one bears on
+- A COSMIN-based systematic review identified 6 instruments assessing the ethics of teaching from 246 records — a broader claim this one bears on
 - [Existing legal and sector guidance each address only part of ethical learning analytics governance, and none integrates all six LEAGUE dimensions](existing-guidance-partial-ethical-coverage.md) — related
 - [No existing ethics-of-teaching instrument was developed specifically for health professions education](no-instruments-specific-to-health-professions-education.md) — related

@@ -17,7 +17,7 @@ sources:
 # Use the indicator system for competency assessment, training needs diagnosis, pre-post training evaluation, and talent development pathways
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article recommends four applications of its indicator system: quantitative competency assessment for personnel selection, job matching, and performance evaluation; diagnosing individual or group competency gaps to inform targeted training plans; benchmarking competency-building effectiveness through pre-post measurement of training program impacts; and planning differentiated development paths based on competency level classification (e.g., excellent, good, average, competent, needs improvement).
@@ -39,8 +39,6 @@ The article recommends four applications of its indicator system: quantitative c
 ## Claims
 
 - [AHP weighting ranks Communication and Health Education Skills highest (0.235) among the seven competency dimensions](../claims/ahp-weights-communication-highest-tb-educator-competency.md) [+W]
-- [Two Delphi rounds with 20 Chinese CDC experts achieved consensus, with Kendall's W rising significantly from 0.295 to 0.328](../claims/delphi-consensus-kendalls-w-increase-tb-educator-competency.md) [+W]
-- [Delphi revision reduced the initial framework from 7 dimensions, 25 categories, and 80 elements to 7 dimensions, 24 categories, and 63 elements](../claims/delphi-revision-80-to-63-competency-elements.md) [+W]
 - [The final indicator system shows good reliability (ICC = 0.86) and content validity (S-CVI = 0.92; I-CVI 0.85–1.00)](../claims/icc-and-cvi-reliability-validity-tb-educator-indicator-system.md) [+W]
 - [A scoping review of 36 studies on TB health educator competency yields seven dimensions, 24 categories, and 63 specific competency elements](../claims/scoping-review-seven-dimensions-63-elements-tb-educators.md) [+W]
 

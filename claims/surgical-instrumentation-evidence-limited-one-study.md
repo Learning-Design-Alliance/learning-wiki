@@ -47,4 +47,4 @@ Evidence-mapping result of the scoping review itself. The one direct study (Acev
 ## Related Claims
 - [Most learner-facing studies of technology-enhanced simulation in laparoscopic training report favorable learner responses, mainly confidence, satisfaction, perceived safety and self-efficacy](simulation-laparoscopic-favorable-perceptions.md) — related
 - [Experimental and quasi-experimental included studies describe improvements in time, precision, movement economy, task quality or perceived competence after laparoscopic simulation exposure](laparoscopic-simulation-performance-improvements.md) — related
-- [Marked heterogeneity of assessment methods, many lacking formal validation, limits comparability between studies and standardisation of the field](heterogeneity-limits-comparability-standardisation-gap.md) — related
+- Marked heterogeneity of assessment methods, many lacking formal validation, limits comparability between studies and standardisation of the field — related

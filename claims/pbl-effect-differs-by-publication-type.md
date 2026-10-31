@@ -46,8 +46,8 @@ Moderator analysis by publication type across the 55 datasets (random effects mo
 
 ## Related Claims
 - [Publication type and study origin do not significantly moderate the digital story effect on academic achievement](digital-story-effect-not-moderated-by-publication-type-or-origin.md) — related
-- [Effect size of creative drama on skills varies significantly by publication type, with theses showing larger effects than articles](creative-drama-publication-type-moderator.md) — related
+- Effect size of creative drama on skills varies significantly by publication type, with theses showing larger effects than articles — related
 - [Publication type (article vs. thesis) does not significantly moderate the effect of formative assessment on student learning](publication-type-no-moderation-formative-assessment.md) — related
 - [Academic achievement effects of STEM practices differ significantly by publication type and education level but not by lesson type](stem-achievement-moderators-publication-type-education-level.md) — related
 - [PBL has a high positive effect on science academic achievement compared to traditional instruction (random-effects g = 1.009)](pbl-high-effect-science-achievement-meta-analysis.md) — related
-- [Effect sizes differ significantly by publication type, with master's theses highest (g = 1.443) and research articles lowest (g = 0.278)](significant-difference-by-publication-type.md) — related
+- Effect sizes differ significantly by publication type, with master's theses highest (g = 1.443) and research articles lowest (g = 0.278) — related

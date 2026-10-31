@@ -49,4 +49,4 @@ Narrative review of Lin et al.'s study on students' ability to translate between
 - [Manipulatives Improve Math Learning](manipulatives-improve-math-learning.md) — related
 - [Post-interviews with props and embodiment revealed understanding of macro–micro particle changes that the multiple-choice post-test did not capture.](step-interview-surfaces-micro-micro-understanding.md) — related
 - [Students showed growth in representational competence and conceptual understanding of particle motion across an online sequence of representational challenges](online-rca-growth-particle-motion.md) — related
-- [Inquiry-based learning and manipulatives/models/multiple representations were the most studied chemistry teaching methods, while project-based, combination, and multicultural approaches were least studied](chemistry-method-research-frequency-distribution.md) — related
+- Inquiry-based learning and manipulatives/models/multiple representations were the most studied chemistry teaching methods, while project-based, combination, and multicultural approaches were least studied — related

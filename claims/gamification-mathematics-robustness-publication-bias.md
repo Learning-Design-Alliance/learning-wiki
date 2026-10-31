@@ -53,6 +53,6 @@ Publication-bias assessment within the meta-analysis: an Egger-type meta-regress
 - Formal tests find no substantial evidence of publication bias or small-study effects in the meta-analysis — related
 - [No evidence of publication bias was found for the overall effect of gamification on intrinsic motivation](gamification-meta-analysis-no-publication-bias.md) — related
 - [Pooled gamification effects remain stable when high-risk-of-bias studies are excluded and in leave-one-out and fixed-effect sensitivity analyses](gamification-sensitivity-analyses-stable-pooled-effects.md) — related
-- [Publication bias tests and sensitivity analyses support the robustness of the pooled bilingual teaching effects](bilingual-immunology-pooled-effects-robust-to-sensitivity-analysis.md) — related
-- [Pooled effects are robust in sensitivity analyses, but 10 of 13 studies carry serious risk of bias and publication bias is indicated](dementia-experiential-review-bias-and-robustness.md) — related
-- [Sensitivity and publication-bias analyses support the robustness of the pooled accuracy estimate](sensitivity-analyses-support-pooled-accuracy-robustness.md) — related
+- Publication bias tests and sensitivity analyses support the robustness of the pooled bilingual teaching effects — related
+- Pooled effects are robust in sensitivity analyses, but 10 of 13 studies carry serious risk of bias and publication bias is indicated — related
+- Sensitivity and publication-bias analyses support the robustness of the pooled accuracy estimate — related

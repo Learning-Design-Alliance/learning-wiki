@@ -50,4 +50,4 @@ Synthesis of psychometric findings across the 6 included instrument-validation s
 - [The GAA-LS shows satisfactory-to-strong internal consistency and evidence of convergent and discriminant validity](gaa-ls-reliability-convergent-discriminant.md) — related
 - [The MAKQ dimensions show acceptable internal consistency across both studies (alphas 0.77-0.93)](makq-reliability-alphas.md) — related
 - [No existing ethics-of-teaching instrument was developed specifically for health professions education](no-instruments-specific-to-health-professions-education.md) — related
-- [A COSMIN-based systematic review identified 6 instruments assessing the ethics of teaching from 246 records](six-instruments-ethics-of-teaching-review.md) — related
+- A COSMIN-based systematic review identified 6 instruments assessing the ethics of teaching from 246 records — related

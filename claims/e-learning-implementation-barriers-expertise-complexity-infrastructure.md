@@ -45,5 +45,5 @@ Scoping review synthesis of barriers reported across the seven included studies,
 
 
 ## Related Claims
-- [Determinants related to organizational context, implementation processes, and external conditions were reported less frequently than intervention and individual characteristics](organizational-process-determinants-underreported-e-learning-primary-care.md) — related
+- Determinants related to organizational context, implementation processes, and external conditions were reported less frequently than intervention and individual characteristics — related
 - [Design features such as straightforward access, mobile-ready platforms, self-paced modular formats, and scenario-based content are reported facilitators of e-learning implementation](e-learning-design-features-facilitators-accessibility-self-paced-scenario.md) — related

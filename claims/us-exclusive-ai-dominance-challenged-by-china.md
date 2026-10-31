@@ -51,4 +51,4 @@ Editorial argument dismantling the US-dominance myth. The authors state the beli
 - [AI-motivation research is geographically and educationally concentrated: over half of reviewed studies were conducted in China and most in higher education](ai-motivation-research-china-higher-ed-concentration.md) — related
 - Research on K‑5 writing motivation self‑reports grew sharply after 2009 and is geographically concentrated in North America and Asia — related
 - Authorship of AIED systematic reviews is concentrated in Asia and Europe, with China, Spain, and the United States the most productive countries — related
-- [Included AI-framework literature is concentrated in 2025 publications and in US and China outputs, indicating regional disparity](ai-framework-literature-temporal-regional-concentration.md) — related
+- Included AI-framework literature is concentrated in 2025 publications and in US and China outputs, indicating regional disparity — related

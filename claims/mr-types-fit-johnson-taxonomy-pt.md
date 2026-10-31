@@ -46,7 +46,7 @@ Qualitative synthesis across the 36 included articles. The review reports that "
 
 ## Related Claims
 - [MR timing codes fit the literature except pre-task timing (underrepresented at 14%), and tasks are dominated by global management (60%) and cognitive (44%)](mr-timing-task-distribution-pt-review.md) — related
-- [A scoping review following JBI and PRISMA-ScR guidelines identified 1,025 documents and analyzed 36 on metacognitive regulation in physical therapy clinical reasoning](scoping-review-36-mr-pt-clinical-reasoning.md) — related
+- A scoping review following JBI and PRISMA-ScR guidelines identified 1,025 documents and analyzed 36 on metacognitive regulation in physical therapy clinical reasoning — related
 - [Metacognitive regulation in PT clinical reasoning is relational and often co-constructed in interaction with the self, patient, family, professionals and peers](mr-relational-interactive-co-constructed.md) — related
 - [Inductive analysis identified a new 'focal' characteristic of MR with four focals: clinical, ethical, epistemological and ontological](four-focals-mr-analysis-grids.md) — related
 - [Assessment of metacognitive regulation appears underexploited in physical therapy, with existing methods not adequately capturing tasks-focals interplay or interaction dynamics](mr-assessment-underdeveloped-in-pt.md) — related

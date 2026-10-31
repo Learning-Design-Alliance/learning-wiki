@@ -65,6 +65,6 @@ Post-adjustment fixed effects model diagnostics as printed in the Results and Ta
 
 ## Related Claims
 - [Before propensity score adjustment, the creative learning activities management model shows the highest effect size for developing students' creative thinking among five instructional models, with extreme heterogeneity across studies](pre-psm-creative-activities-highest-effect-size.md) — related
-- [Propensity score matching eliminates the statistically significant differences of 12 research attribute variables between low and high effect size studies](psm-eliminates-twelve-attribute-variables.md) — related
-- [The research groups attribute variable remains statistically significant after propensity score adjustment, indicating incomplete elimination of extraneous effects](research-groups-variable-remains-significant-post-psm.md) — related
-- [Logistic regression yields propensity scores separating 256 low effect size studies (d̄=1.345) from 144 high effect size studies (d̄=7.284) with overlapping distributions suitable for matching](propensity-scores-low-high-groups.md) — related
+- Propensity score matching eliminates the statistically significant differences of 12 research attribute variables between low and high effect size studies — related
+- The research groups attribute variable remains statistically significant after propensity score adjustment, indicating incomplete elimination of extraneous effects — related
+- Logistic regression yields propensity scores separating 256 low effect size studies (d̄=1.345) from 144 high effect size studies (d̄=7.284) with overlapping distributions suitable for matching — related

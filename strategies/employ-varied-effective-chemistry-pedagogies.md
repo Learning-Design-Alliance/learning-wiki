@@ -17,7 +17,7 @@ sources:
 # Chemistry teachers should employ varied effective pedagogies, especially inquiry-based and problem-based approaches, supplemented with visualization and real-world materials
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 1 study (1 quant-synthesis), `q2` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends that chemistry teachers and educators adopt the teaching methods its synthesis found effective, particularly constructivist inquiry-based and problem-based approaches combined with collaborative learning. It states "Chemistry teachers and educators should consider employing one of the various forms of pedagogies and methods that are effective in improving student performance", and suggests teaching with visualization using maps, graphs, videos, images, models and materials, and presenting material through real-world examples and authentic experiences.
@@ -45,9 +45,7 @@ The article recommends that chemistry teachers and educators adopt the teaching 
 ## Claims
 
 - [All innovative teaching-method categories showed statistically significant positive effects on chemistry performance, with weighted mean effect sizes ranging from 0.50 to 1.80](../claims/all-innovative-categories-significant-positive.md) [+W]
-- [Inquiry-based learning and manipulatives/models/multiple representations were the most studied chemistry teaching methods, while project-based, combination, and multicultural approaches were least studied](../claims/chemistry-method-research-frequency-distribution.md) [~W]
 - [Inquiry-based learning has the largest mean effect size on chemistry academic performance among the treatment categories (d = 1.783)](../claims/inquiry-based-learning-largest-effect-chemistry.md) [+W]
-- [Small sample sizes and publication bias against non-significant findings may inflate meta-analytic effect size estimates in the chemistry teaching-method categories](../claims/small-samples-publication-bias-inflate-chemistry-es.md) [~W]
 
 ## Related Strategies
 

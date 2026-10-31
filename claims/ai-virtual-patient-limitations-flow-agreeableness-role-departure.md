@@ -72,5 +72,5 @@ Subgroup analysis of studies published before 2023, prior to the LLM era: the re
 - [Learner-level challenges of ChatGPT in STEAM IBL include over-reliance, inaccurate or irrelevant feedback, conceptual confusion, and diminished creativity](chatgpt-steam-ibl-learner-challenges.md) — related
 - [AWE feedback has limited depth and questionable accuracy for evaluating complex writing aspects](awe-limited-feedback-depth-accuracy-complex-writing.md) — related
 - [AI-generated virtual patients in HPE are used mainly for teaching and learning communication skills, diagnostic reasoning and management reasoning, with assessment a minority use case](ai-virtual-patients-hpe-use-case-range.md) — related
-- [Outcome evaluation of AI-generated virtual patients in HPE is concentrated at Kirkpatrick level 1, with no studies reporting level 3 or 4 outcomes](ai-virtual-patients-kirkpatrick-level-1-dominant.md) — related
+- Outcome evaluation of AI-generated virtual patients in HPE is concentrated at Kirkpatrick level 1, with no studies reporting level 3 or 4 outcomes — related
 - [Reviewed GenAI virtual patients show underdeveloped emotional-behavioral complexity, limited adaptability beyond dialog, and no memory across interactions](genai-vp-emotional-complexity-and-memory-limitations.md) — a narrower finding that bears on this claim

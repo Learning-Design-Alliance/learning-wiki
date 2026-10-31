@@ -17,7 +17,7 @@ sources:
 # Prioritize longitudinal and intervention studies integrating behavioral, nutritional, cognitive, academic, and biological measures within the same design
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review's central forward-looking recommendation is that future research move beyond associative models by combining all measurement layers in one framework. It states: "Future research should prioritize longitudinal and intervention studies integrating behavioral, nutritional, cognitive, academic, and biological measures within the same design." Such designs are presented as necessary to determine whether neuroendocrine, autonomic, inflammatory, metabolic, or microbiota-related changes actually mediate effects on educationally relevant outcomes.
@@ -41,10 +41,7 @@ The review's central forward-looking recommendation is that future research move
 
 ## Claims
 
-- [Cognitive outcomes are more consistently assessed than academic outcomes, and the cognitive-to-academic link is rarely tested within the same design](../claims/cognitive-outcomes-assessed-more-than-academic-link-untested.md) [+W]
 - [Gut microbiota-related pathways remain a preliminary, largely theoretical area in student populations, with very few studies directly assessing microbiota-related variables](../claims/gut-microbiota-pathways-emerging-gap-students.md) [+W]
-- [Only a limited subset of student lifestyle-cognition studies include direct biological or psychophysiological measures](../claims/limited-direct-biological-measures-student-studies.md) [+W]
-- [The student lifestyle-cognition literature is broad but unevenly distributed, with physical activity exposures and cognitive outcomes dominating over nutrition and academic outcomes](../claims/scoping-review-76-studies-uneven-evidence-distribution.md) [+W]
 
 ## Related Strategies
 - 

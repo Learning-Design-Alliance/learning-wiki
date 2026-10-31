@@ -17,7 +17,7 @@ sources:
 # Research recommendations: broaden TCSM populations, subjects, and target behaviors, and increase the self-determination element in self-monitoring
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 From its findings on the limited scope of existing TCSM research, the review issues forward-looking recommendations for researchers. It recommends expanding the age range beyond the 10-to-15-year-olds studied to date, expanding academic subjects beyond math and algebra, and broadening the range and depth of dependent variables through replication or extension studies. As printed, "We also recommend that researchers attempt to increase the "self" in self-monitoring interventions, for example, by having students identify the task or behavior that they self-monitor." It further recommends continuing to investigate TCSM alone and combined with other components and using dismantling strategies for multi-component packages.
@@ -39,11 +39,8 @@ From its findings on the limited scope of existing TCSM research, the review iss
 ## Claims
 
 - [Most TCSM studies targeted students with disabilities aged 10–15 (17 of 22 male), mainly in special education classrooms, using the MotivAider in seven of nine studies](../claims/tcsm-descriptive-participant-setting-profile.md) [+W]
-- [Visual inspection showed strong experimental control in two studies, moderate-to-strong in three, and mixed in one of eight evaluable TCSM studies](../claims/tcsm-experimental-control-visual-inspection.md) [+W]
 - [Instituting TCSM produced larger Phi effects (Md = 0.74) than removing TCSM in reversal designs (Md = 0.32)](../claims/tcsm-instituting-larger-phi-than-removing.md) [+W]
 - [Tactile-cued self-monitoring interventions show moderate to strong effects, with calculated Phi effect sizes ranging from 0.18 to 0.89 across 34 phase comparisons](../claims/tcsm-moderate-strong-phi-effects.md) [+W]
-- [Most TCSM studies lacked numerical indices of procedural integrity: seven of nine omitted initial-training indices and five of nine omitted treatment-fidelity indices](../claims/tcsm-procedural-integrity-gaps.md) [+W]
-- [TCSM intervention research is recent: no qualifying studies were published from 1973 through 2002, and five of nine appeared in 2012–2013](../claims/tcsm-recent-emerging-evidence-base.md) [+W]
 
 ## Related Strategies
 

@@ -48,7 +48,7 @@ Moderator analysis by course type: science (d = 0.863), social science (d = 0.96
 - [The effect of computer-based teaching on academic success does not differ significantly by type of course, though social studies showed the largest effect size (1.54) and mathematics the lowest (1.06)](cbt-effect-no-difference-by-course-type.md) — related
 - [The effect of multiple intelligence practices does not differ significantly by course type, though Social Sciences shows the highest and Physics-Chemistry the lowest value](mi-effect-no-difference-course-type.md) — related
 - [Effect of MIT-based instruction does not differ significantly across Turkey's geographical regions](mit-effect-homogeneous-geographical-region.md) — related
-- [Effect of MIT-based instruction does not differ significantly by study sample size](mit-effect-homogeneous-sample-size.md) — related
+- Effect of MIT-based instruction does not differ significantly by study sample size — related
 - [Effect of MIT-based instruction does not differ significantly by duration of experimental procedure](mit-effect-homogeneous-experiment-duration.md) — related
 - [The pooled effect of self-regulated learning does not differ significantly by course type, though mathematics shows the largest descriptive effect](srl-effect-no-course-type-difference.md) — related
 - [Effect of MIT-based instruction does not differ significantly between master's theses and doctoral dissertations](mit-effect-homogeneous-thesis-type.md) — related

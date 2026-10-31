@@ -53,4 +53,4 @@ Meta-analysis of five non-randomized studies (727 participants) assessing profes
 - [Evidence for bilingual immunology teaching rests on few, mostly moderate-quality non-randomized studies with substantial heterogeneity](bilingual-immunology-evidence-base-limited-heterogeneous.md) — related
 - [Bilingual immunology teaching significantly increases the percentage of Chinese undergraduates achieving course scores above 80](bilingual-immunology-teaching-improves-course-performance.md) — related
 - [Bilingual immunology teaching significantly improves undergraduates' competence in English application](bilingual-immunology-teaching-improves-english-application.md) — related
-- [Publication bias tests and sensitivity analyses support the robustness of the pooled bilingual teaching effects](bilingual-immunology-pooled-effects-robust-to-sensitivity-analysis.md) — a broader claim this one bears on
+- Publication bias tests and sensitivity analyses support the robustness of the pooled bilingual teaching effects — a broader claim this one bears on

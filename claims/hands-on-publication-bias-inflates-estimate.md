@@ -65,11 +65,11 @@ Author's interpretation of the included studies' reporting pattern: "Negative im
 
 ## Related Claims
 - [Publication bias does not explain the significant positive outcomes of the 7E learning cycle in this meta-analysis](7e-meta-analysis-no-publication-bias.md) — related
-- [Funnel plot analysis showed no publication bias among the 15 studies included in the AR meta-analysis](ar-meta-analysis-no-publication-bias.md) — related
-- [Publication-bias checks give mixed results: Egger's test indicates funnel-plot asymmetry while Trim and Fill and Fail-Safe N indicate no bias](mixed-publication-bias-evidence-meta-analysis.md) — related
+- Funnel plot analysis showed no publication bias among the 15 studies included in the AR meta-analysis — related
+- Publication-bias checks give mixed results: Egger's test indicates funnel-plot asymmetry while Trim and Fill and Fail-Safe N indicate no bias — related
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](srl-meta-analysis-publication-bias-absent.md) — related
-- [Publication bias in the dataset is low and unimportant: Egger's test is non-significant and the trim-and-fill adjusted effect size (ES=.76) differs from the observed value by only about .02](clm-dataset-low-publication-bias.md) — related
-- [No publication bias is detected in the meta-analysis by rank correlation, regression, Fail-Safe N, and Trim and Fill checks](no-publication-bias-cooperative-learning-meta-analysis.md) — related
-- [Publication-bias analysis indicates 51 unpublished studies would be needed to reverse the meta-analysis findings](mall-file-drawer-51-studies-needed-to-reverse.md) — related
+- Publication bias in the dataset is low and unimportant: Egger's test is non-significant and the trim-and-fill adjusted effect size (ES=.76) differs from the observed value by only about .02 — related
+- No publication bias is detected in the meta-analysis by rank correlation, regression, Fail-Safe N, and Trim and Fill checks — related
+- Publication-bias analysis indicates 51 unpublished studies would be needed to reverse the meta-analysis findings — related
 - [The pooled effect of multiple intelligence practices is resistant to publication bias](mi-effect-resistant-publication-bias.md) — related
-- [Small sample sizes and publication bias against non-significant findings may inflate meta-analytic effect size estimates in the chemistry teaching-method categories](small-samples-publication-bias-inflate-chemistry-es.md) — related
+- Small sample sizes and publication bias against non-significant findings may inflate meta-analytic effect size estimates in the chemistry teaching-method categories — related

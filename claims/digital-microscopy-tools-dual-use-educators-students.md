@@ -66,4 +66,4 @@ The review reports that digital microscopy made microscopy more accessible, allo
 ## Related Claims
 - [Histology and pathology teaching methods in digital and blended environments have become more accessible, interactive, and student-centered than traditional instruction, with e-learning modules the most frequently used method](digital-histology-teaching-methods-more-student-centered.md) — related
 - [Comparisons of digital microscopy and light microscopy show mixed results: students rated light microscopy higher for satisfaction while digital microscopy showed higher examination averages in one study, and several studies found no significant performance differences](digital-versus-light-microscopy-mixed-performance.md) — related
-- [Research output on digital histology and pathology teaching increased steadily from 2013 to 2024, with first-year medical students the most frequently studied group](publication-trends-first-year-students-most-studied.md) — related
+- Research output on digital histology and pathology teaching increased steadily from 2013 to 2024, with first-year medical students the most frequently studied group — related

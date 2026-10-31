@@ -52,6 +52,6 @@ Qualitative synthesis of Kirkpatrick level 2 findings reported in three included
 - [AI-powered simulations show short-term gains in communication confidence and structured knowledge in RCTs, with limited or inferior effects for tactile psychomotor skills](ai-simulation-short-term-gains-nursing.md) — related
 - [Student satisfaction with virtual patients is generally positive, with item-level comparisons dominating and some confidence exceptions](vp-satisfaction-generally-positive.md) — related
 - [AI-generated virtual patients in HPE are used mainly for teaching and learning communication skills, diagnostic reasoning and management reasoning, with assessment a minority use case](ai-virtual-patients-hpe-use-case-range.md) — related
-- [Outcome evaluation of AI-generated virtual patients in HPE is concentrated at Kirkpatrick level 1, with no studies reporting level 3 or 4 outcomes](ai-virtual-patients-kirkpatrick-level-1-dominant.md) — related
+- Outcome evaluation of AI-generated virtual patients in HPE is concentrated at Kirkpatrick level 1, with no studies reporting level 3 or 4 outcomes — related
 - [Repeated exposure to AI-VPs is associated with improved perceived self-efficacy and more positive attitudes toward communication training](ai-vp-self-efficacy-attitudes.md) — reports the opposite
 - [Evidence of transfer from AI-VP training to real clinical practice is scarce, and one cohort study found lower field assessment scores after AI-VP training](ai-vp-transfer-to-practice-scarce.md) — a narrower finding that bears on this claim

@@ -48,5 +48,5 @@ Meta-ANOVA comparing curriculum settings in the 16-study meta-analysis. The arti
 - [Arduino-based education in Korean primary and secondary schools has a medium overall average effect size of 0.656](arduino-education-medium-overall-effect.md) — related
 - [Alignment, rewards, and setting do not discriminate between peer assessment design classes, because a single practice typically dominates each](peer-assessment-nondiscriminating-elements.md) — related
 - [Effect sizes of Arduino-based education do not differ statistically between gifted and general classes](arduino-effect-giftedness-no-difference.md) — related
-- [Effect sizes of Arduino-based education are statistically larger in academic papers than in dissertations](arduino-effect-publication-status-difference.md) — related
+- Effect sizes of Arduino-based education are statistically larger in academic papers than in dissertations — related
 - [Effect sizes of Arduino-based education do not differ statistically by school level, though high school estimates rest on minimal data](arduino-effect-school-level-no-difference.md) — related

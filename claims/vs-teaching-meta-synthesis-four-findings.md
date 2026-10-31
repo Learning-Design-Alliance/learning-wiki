@@ -45,7 +45,7 @@ Systematic search of nine databases (inception to February 7, 2025) with JBI cri
 
 
 ## Related Claims
-- [The 17 included qualitative studies scored between 12 and 20 points on the JBI critical appraisal checklist, with primary deficiencies in researcher positioning and researcher influence](jbi-appraisal-quality-included-studies.md) — related
+- The 17 included qualitative studies scored between 12 and 20 points on the JBI critical appraisal checklist, with primary deficiencies in researcher positioning and researcher influence — related
 - [The vast majority of nursing students report positive emotional experiences in virtual simulation teaching, including excitement, reduced psychological burden, and boosted confidence](vs-positive-emotional-experiences.md) — a narrower finding that bears on this claim
 - [Virtual simulation teaching enhances learning outcomes and deepens professional cognition through repeated practice, trial-and-error, and error-correction feedback](vs-advantages-learning-outcomes.md) — a narrower finding that bears on this claim
 - [The most frequently reported challenge of virtual simulation teaching is its lack of realism, alongside operational complexity, English-language demands, cultural mismatch, and adverse physical reactions](vs-challenges-realism-and-usability.md) — a narrower finding that bears on this claim

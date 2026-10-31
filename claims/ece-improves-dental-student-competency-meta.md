@@ -48,4 +48,4 @@ Random-effects meta-analysis of 27 studies (2995 students; 1787 ECE, 1211 contro
 - [ECE benefits both junior and senior preclinical dental students, with a larger pooled effect in junior students](ece-benefits-junior-and-senior-students.md) — a narrower finding that bears on this claim
 - [ECE improves theoretical knowledge, clinical practice performance and self-efficacy, with the largest effect on self-efficacy](ece-competency-domain-effects.md) — related
 - [All three ECE modalities show significant positive effects, with real clinical interactions showing the largest pooled effect](ece-types-subgroup-effects.md) — a narrower finding that bears on this claim
-- [Pooled ECE estimates are robust in leave-one-out sensitivity analysis and show no significant publication bias](ece-sensitivity-and-publication-bias.md) — related
+- Pooled ECE estimates are robust in leave-one-out sensitivity analysis and show no significant publication bias — related

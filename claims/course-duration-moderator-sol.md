@@ -50,6 +50,6 @@ Mixed-effects moderator analysis on the synchronous-vs-face-to-face affective co
 - [Interventions longer than one month showed the largest effect size for robot-assisted STEM learning, though duration was not a significant moderator overall](duration-over-one-month-largest-robotics-effect.md) — related
 - [Duration of an average PLL session (50–180 minutes) did not significantly moderate the effect on cognitive achievement; the descriptive 60-versus-120-minute advantage did not generalise across durations](session-duration-nonsignificant-moderator.md) — related
 - [Synchronous online learning was statistically comparable to face-to-face learning for both cognitive and affective outcomes](sol-face-to-face-no-difference.md) — related
-- [Non-random assignment studies showed larger synchronous-learning effect sizes than random-assignment studies](student-equivalence-moderator-sol.md) — related
+- Non-random assignment studies showed larger synchronous-learning effect sizes than random-assignment studies — related
 - [Interactive synchronous lessons yielded larger effects than lectures for affective outcomes versus asynchronous learning](interactive-lesson-moderator-sol-affective.md) — related
 - [Learner level and discipline moderated effect sizes, with graduate/professional learners and the education discipline showing larger estimates](learner-level-discipline-moderators-sol.md) — related

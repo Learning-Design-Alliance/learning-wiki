@@ -47,11 +47,11 @@ Authors' synthesis-based interpretation from the evaluation section of the narra
 
 ## Related Claims
 - [Inductive analysis identified a new 'focal' characteristic of MR with four focals: clinical, ethical, epistemological and ontological](four-focals-mr-analysis-grids.md) — related
-- [A scoping review following JBI and PRISMA-ScR guidelines identified 1,025 documents and analyzed 36 on metacognitive regulation in physical therapy clinical reasoning](scoping-review-36-mr-pt-clinical-reasoning.md) — related
+- A scoping review following JBI and PRISMA-ScR guidelines identified 1,025 documents and analyzed 36 on metacognitive regulation in physical therapy clinical reasoning — related
 - [Metacognitive regulation in PT clinical reasoning is relational and often co-constructed in interaction with the self, patient, family, professionals and peers](mr-relational-interactive-co-constructed.md) — related
 - [Focal scenario analysis reveals that no existing theory explains coordination of multiple monitoring sources](monitoring-multiplicity-theoretical-gap.md) — related
 - [Metacognition assessment is shifting from self-report questionnaires toward process-oriented multimodal methods, which face validity and data-alignment challenges](process-oriented-metacognition-assessment-shift.md) — related
 - [Metacognitive regulation in PT clinical reasoning fits Johnson's three types (self-observation, self-judgment, self-reaction), with all types represented in 58–75% of included articles](mr-types-fit-johnson-taxonomy-pt.md) — related
 - [Traditional self-report methods face significant limitations in capturing the dynamic nature of SRL](self-report-srl-limitations-dynamic-nature.md) — a broader claim this one bears on
 - [Errors in clinical reasoning arise from 4 primary areas: inadequate knowledge, flawed data gathering, faulty data processing, or impaired metacognition](clinical-reasoning-errors-four-areas.md) — related
-- [Only 5% of physical therapy assessment studies used a contemporary validity framework and only 13.7% fully reported intended interpretation and use](pt-assessment-studies-classical-validity-framework.md) — related
+- Only 5% of physical therapy assessment studies used a contemporary validity framework and only 13.7% fully reported intended interpretation and use — related

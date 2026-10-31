@@ -68,5 +68,5 @@ Q-test of homogeneity across all 994 effect sizes shows "The probability of homo
 - [Meta-analysis yields a lower feedback effect (d = 0.48) than the Visible Learning meta-synthesis (d = 0.79), with three synthesized values overestimated](meta-analysis-lower-feedback-effect-than-visible-learning-synthesis.md) — related
 - [Effect sizes across included studies show high heterogeneity (all I² above 75%)](high-heterogeneity-er-burnout-effects.md) — related
 - [Effect sizes across studies show substantial heterogeneity, with wide prediction intervals spanning large negative to large positive true effects](heterogeneity-math-interventions-co-occurring.md) — related
-- [Effect sizes across included studies were heterogeneous (Q=13.886, p<.05), and the article concludes a random-effects model is appropriate](heterogeneity-metacognitive-training-effect-sizes.md) — related
-- [Substantial between-study heterogeneity remained unexplained after the three design characteristics were accounted for (τ² = 0.03; QE = 101.25, df = 24, p < 0.001)](residual-heterogeneity-unexplained-design-factors.md) — related
+- Effect sizes across included studies were heterogeneous (Q=13.886, p<.05), and the article concludes a random-effects model is appropriate — related
+- Substantial between-study heterogeneity remained unexplained after the three design characteristics were accounted for (τ² = 0.03; QE = 101.25, df = 24, p < 0.001) — related

@@ -17,7 +17,7 @@ sources:
 # Integrate bilingual immunology teaching with active learning strategies and establish standardized implementation guidelines
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 1 study (1 quant-synthesis), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 1 study (1 quant-synthesis), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article recommends pairing bilingual immunology teaching with student-centered active learning approaches and developing a standardized implementation guideline to improve comparability across institutions. It reports that case-based learning, application-based flipped classroom, and patient-oriented problem-solving "are effective instructional strategies for enhancing students’ motivation to learn", and that at its own institution English must be used for more than 70% of instructional time with over 50% of assignments completed in English.
@@ -46,7 +46,6 @@ The article recommends pairing bilingual immunology teaching with student-center
 
 - [Bilingual teaching benefits on course performance may not extend to second-year students who already meet an English proficiency threshold](../claims/bilingual-immunology-benefits-vary-by-grade-level.md) [~W]
 - [Evidence for bilingual immunology teaching rests on few, mostly moderate-quality non-randomized studies with substantial heterogeneity](../claims/bilingual-immunology-evidence-base-limited-heterogeneous.md) [~W]
-- [Publication bias tests and sensitivity analyses support the robustness of the pooled bilingual teaching effects](../claims/bilingual-immunology-pooled-effects-robust-to-sensitivity-analysis.md) [+W]
 - [Bilingual immunology teaching significantly increases the percentage of Chinese undergraduates achieving course scores above 80](../claims/bilingual-immunology-teaching-improves-course-performance.md) [+W]
 - [Bilingual immunology teaching significantly improves undergraduates' competence in English application](../claims/bilingual-immunology-teaching-improves-english-application.md) [+W]
 - [Bilingual immunology teaching significantly improves professional English proficiency among Chinese undergraduates](../claims/bilingual-immunology-teaching-improves-professional-english-proficiency.md) [+W]

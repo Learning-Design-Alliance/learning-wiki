@@ -65,4 +65,4 @@ The article's own significance test for the attitude effect: z=2.252 at p=0.431,
 
 ## Related Claims
 - [The 5E model shows a large pooled effect on retention scores versus traditional methods, though the article's own Z-test is reported as non-significant](5e-model-large-effect-retention.md) — related
-- [Effect sizes for achievement, retention and attitude were heterogeneous across studies, prompting the shift from fixed to random effects modelling](5e-meta-analysis-heterogeneity-random-effects.md) — related
+- Effect sizes for achievement, retention and attitude were heterogeneous across studies, prompting the shift from fixed to random effects modelling — related

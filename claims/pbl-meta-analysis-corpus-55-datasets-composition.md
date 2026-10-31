@@ -49,4 +49,4 @@ Descriptive statistics (RQ1, Table 1) on the 55 datasets retrieved from ERIC, Sc
 - [PBL effect sizes on science achievement do not differ significantly across physics, chemistry, and biology](pbl-effect-similar-across-science-subjects.md) — related
 - [The effect of constructivist learning models on student outcomes varies significantly by location, with Turkey (ES=.87) and Indonesia (ES=1.07) showing high-level effects and China (ES=.58) and mixed-country samples (ES=.67) medium-level effects](clm-effect-varies-by-location.md) — related
 - [Science effects differed by country of evaluation, with U.S. studies (g = 0.46) showing smaller effects than Turkish studies (g = 0.96)](country-moderates-5e-science-effects.md) — related
-- [The meta-analysis corpus comprised 40 studies yielding 45 data comparisons from 2013-2022](worksheet-meta-analysis-40-studies-45-comparisons.md) — related
+- The meta-analysis corpus comprised 40 studies yielding 45 data comparisons from 2013-2022 — related

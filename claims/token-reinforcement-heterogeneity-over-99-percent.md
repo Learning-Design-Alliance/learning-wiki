@@ -46,4 +46,4 @@ Heterogeneity testing of the 31 aggregated effect sizes using the mareg function
 
 ## Related Claims
 - [The overall effect size for token reinforcement interventions in middle schools is large (g ≈ 1.04) but not statistically significant](token-reinforcement-overall-effect-not-significant.md) — related
-- [Reporting and publication bias pervade the token reinforcement literature: 38.71% of studies reported large significant effects while 29.03% lacked statistical significance](token-reinforcement-reporting-bias.md) — related
+- Reporting and publication bias pervade the token reinforcement literature: 38.71% of studies reported large significant effects while 29.03% lacked statistical significance — related

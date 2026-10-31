@@ -46,5 +46,5 @@ Meta-analysis by treatment category (Table 3): combination learning d = 0.687, c
 
 ## Related Claims
 - [Inquiry-based learning has the largest mean effect size on chemistry academic performance among the treatment categories (d = 1.783)](inquiry-based-learning-largest-effect-chemistry.md) — a narrower finding that bears on this claim
-- [Small sample sizes and publication bias against non-significant findings may inflate meta-analytic effect size estimates in the chemistry teaching-method categories](small-samples-publication-bias-inflate-chemistry-es.md) — related
-- [Inquiry-based learning and manipulatives/models/multiple representations were the most studied chemistry teaching methods, while project-based, combination, and multicultural approaches were least studied](chemistry-method-research-frequency-distribution.md) — related
+- Small sample sizes and publication bias against non-significant findings may inflate meta-analytic effect size estimates in the chemistry teaching-method categories — related
+- Inquiry-based learning and manipulatives/models/multiple representations were the most studied chemistry teaching methods, while project-based, combination, and multicultural approaches were least studied — related

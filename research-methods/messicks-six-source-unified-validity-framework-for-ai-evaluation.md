@@ -12,7 +12,7 @@ generated:
 # Messick's six-source unified validity framework for AI evaluation
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 4 claims (4 for) · 3 studies (2 review, 1 theoretical), `q2`–`q3` · 0 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 3 studies (2 review, 1 theoretical), `q2`–`q3` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The article anchors its validity discussion in Messick's unified theory of validity, which holds that validity is a property of inferences and decisions based on scores, not of instruments. It enumerates six interlocking evidence sources (content, substantive, structural, generalizability, external, and consequential) and gives each an AI analogue, such as item-level factor analysis for structural evidence and out-of-distribution testing for generalizability evidence.
@@ -27,7 +27,6 @@ The article anchors its validity discussion in Messick's unified theory of valid
 - [Distillation from a behaviourally shaped teacher model can transmit an underlying trait even when the training data is filtered to remove visible traces of it](../claims/consequential-validity-failure-distillation.md) [+M]
 - [No objective assessment tool for laparoscopic cholecystectomy demonstrates comprehensive validity across all Messick domains, so no gold standard exists](../claims/no-gold-standard-lc-skill-assessment-tools.md) [+M]
 - [Content evidence is the most prevalent type of validity evidence for physical therapy educational assessments, but median evidence ratings are 0 or 1 across all five Messick categories](../claims/pt-assessment-validity-evidence-sparse-weak.md) [+M]
-- [Only 5% of physical therapy assessment studies used a contemporary validity framework and only 13.7% fully reported intended interpretation and use](../claims/pt-assessment-studies-classical-validity-framework.md) [+M]
 
 ## Related Research Methods
 -

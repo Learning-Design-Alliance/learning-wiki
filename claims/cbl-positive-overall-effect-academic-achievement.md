@@ -46,7 +46,7 @@ Random-effects meta-analysis of 42 primary studies (3938 students, 54 effect siz
 
 ## Related Claims
 - [Context-based learning has a statistically significant positive overall effect on learning retention (g=0.791) compared to traditional lecture-based instruction](cbl-positive-overall-effect-learning-retention.md) — related
-- [Publication bias tests indicate the observed effects for both outcomes were not influenced by publication bias](cbl-meta-analysis-no-publication-bias.md) — related
+- Publication bias tests indicate the observed effects for both outcomes were not influenced by publication bias — related
 - [In a randomised trial of 80 first-year postgraduate oncology trainees, CBL produced significantly higher examination scores and satisfaction than traditional lecture-based learning, though confidence intervals crossed the null for examination results](bi-rct-cbl-higher-posttest-scores-satisfaction.md) — related
 - [Problem-based learning shows a large positive pooled effect on academic achievement (REM ES = 1.560), with heterogeneous study effects](pbl-large-positive-effect-academic-achievement.md) — related
 - [The constructivist learning approach has a strong positive overall effect on students' academic achievement compared to traditional teaching methods (ES = 1.156).](constructivist-approach-overall-effect-achievement.md) — related

@@ -48,5 +48,5 @@ Systematic review using the PRISMA method across Scopus, WOS and Scielo, with a 
 - [Critical Thinking](../learner-variables/critical-thinking.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Research on gamification in higher education is predominantly quantitative, English-language and review-scarce](gamification-higher-ed-research-predominantly-quantitative.md) — related
+- Research on gamification in higher education is predominantly quantitative, English-language and review-scarce — related
 - [The review reports a positive relationship between gamification and motivation in learning processes](gamification-motivation-positive-relationship-review.md) — related

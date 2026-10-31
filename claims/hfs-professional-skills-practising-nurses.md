@@ -47,6 +47,6 @@ Random-effects meta-analysis of three RCTs and one quasi-experiment on professio
 ## Related Claims
 - [High-fidelity simulation training improves knowledge acquisition among practising registered nurses (moderate pooled effect)](hfs-knowledge-acquisition-practising-nurses.md) — related
 - [High-fidelity simulation training yields a large effect on learning satisfaction among practising registered nurses](hfs-learning-satisfaction-practising-nurses.md) — related
-- [The HFS evidence base for practising nurses comprises eight small studies with risk-of-bias concerns](hfs-nurse-evidence-base-eight-studies-275-nurses.md) — related
+- The HFS evidence base for practising nurses comprises eight small studies with risk-of-bias concerns — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [High-fidelity simulation improves ECT procedural skills substantially but does not reliably improve theoretical knowledge or confidence](hfs-ect-procedural-skills.md) — related

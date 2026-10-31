@@ -46,5 +46,5 @@ Publication bias assessment of the 36 included studies using funnel-plot visuali
 
 ## Related Claims
 - [Large language models achieve a pooled accuracy of 72% on medical licensing examination questions across 36 studies](llm-pooled-accuracy-72-medical-licensing-exams.md) — related
-- [Egger's regression found no statistically significant evidence of publication bias among the 28 collected studies](egger-test-no-publication-bias.md) — related
+- Egger's regression found no statistically significant evidence of publication bias among the 28 collected studies — related
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](srl-meta-analysis-publication-bias-absent.md) — related

@@ -47,6 +47,6 @@ Review content finding from the in-depth analysis of the 18 studies: medical sub
 ## Related Claims
 - [Feedback provision is emphasized more than receiving feedback in P2P-teacher qualification measures](feedback-provision-over-receiving-p2p.md) — related
 - [A systematic mapping review identifies twelve student P2P-teaching competencies and three medical competency categories forming a competency-profile for student P2P-teachers](mapping-review-12-p2p-teaching-competencies.md) — related
-- [P2P-teaching qualification research shows weak grounding in learning and teaching theories and low levels of evidence](p2p-research-weak-theory-low-evidence.md) — related
-- [The reviewed P2P-teacher studies focus on cross-year teaching and rarely on same-year teaching](p2p-studies-cross-year-focus.md) — related
-- [Digital competencies are entirely absent from the P2P-teacher qualification literature, forming a gap](digital-competencies-gap-p2p-teachers.md) — related
+- P2P-teaching qualification research shows weak grounding in learning and teaching theories and low levels of evidence — related
+- The reviewed P2P-teacher studies focus on cross-year teaching and rarely on same-year teaching — related
+- Digital competencies are entirely absent from the P2P-teacher qualification literature, forming a gap — related

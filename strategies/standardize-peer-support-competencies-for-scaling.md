@@ -17,7 +17,7 @@ sources:
 # Standardize peer support around a small universal competency set and invest in training and supervision best practices to enable scale-up
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The review's authors recommend that the consistently deployed competencies be treated as a basis for standardization and scaling of peer support services, since findings confirm "the salience of a relatively small set of competencies across peer support interventions which could be considered universal for standardization and scaling up, as well as best practices for training and supervision." They further recommend future research identify additional competencies that are contextually sensitive or address the needs of vulnerable groups. This follows their finding that heterogeneity in role definitions, training quality, and supervision limits scaling.
@@ -44,7 +44,6 @@ The review's authors recommend that the consistently deployed competencies be tr
 - [Mental health diagnosis and psychoeducation is the most frequently demonstrated clinical competency in peer support RCTs](../claims/mental-health-diagnosis-psychoeducation-most-frequent-clinical-competency.md) [+W]
 - [Peer supporter supervision was most often weekly and consisted of reviewing fidelity ratings and discussing problems, with supervisors including experienced peers, clinicians, and research staff](../claims/peer-supporter-supervision-fidelity-review.md) [+W]
 - [Peer supporter training duration ranged from a few hours to 192 hours, was most often in person, and intensive six-week training led all recruited peers to resign in one trial](../claims/peer-supporter-training-duration-and-burden.md) [+W]
-- [Implementation reporting in peer support RCTs is substantially incomplete, with 29% to 67% missing data per implementation component](../claims/peer-support-implementation-missing-data.md) [~W]
 - [Peer supporters in peer support RCTs were primarily recruited from community organizations and required lived experience and a similar diagnosis to service recipients](../claims/peer-supporter-recruitment-community-lived-experience.md) [+W]
 
 ## Related Strategies

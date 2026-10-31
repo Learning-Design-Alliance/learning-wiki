@@ -17,7 +17,7 @@ sources:
 # Develop worksheets adapted to the form of learning, student characteristics, and students' environment to improve problem-solving
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 quant-synthesis), `q2` · 1 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 quant-synthesis), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article recommends that future worksheet development tailor worksheets to the learning situation rather than assembling them generically. It argues worksheets must be prepared before learning and adapted to student characteristics, and that tasks should address the stages of problem-solving. The recommendation follows from the meta-analytic finding of a positive worksheet effect.
@@ -39,8 +39,6 @@ The article recommends that future worksheet development tailor worksheets to th
 ## Claims
 
 - [The positive worksheet effect was obtained mainly in secondary-school studies with large samples (more than 30 students) and random sampling](../claims/worksheet-effect-secondary-large-random-samples.md) [+W]
-- [The meta-analysis corpus comprised 40 studies yielding 45 data comparisons from 2013-2022](../claims/worksheet-meta-analysis-40-studies-45-comparisons.md) [+W]
-- [Sampling error accounts for only 0.015% of the variance, suggesting small bias from sampling error](../claims/worksheet-meta-analysis-sampling-error-0-015-percent.md) [+W]
 - [The mean population correlation between worksheet use and problem-solving skills is r = 0.3705, falling within its confidence interval](../claims/worksheet-problem-solving-population-correlation-0-3705.md) [+W]
 - [Worksheets have a positive effect on students' problem-solving skills, with a pooled effect size of 1.281 (very high level)](../claims/worksheets-positive-effect-problem-solving-meta-analysis.md) [+W]
 

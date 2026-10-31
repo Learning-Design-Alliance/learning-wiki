@@ -45,9 +45,9 @@ Mixed-effects subgroup analysis comparing 33 effect sizes from published article
 
 
 ## Related Claims
-- [Effect of learning stations does not differ significantly by study type (article vs master's thesis)](learning-stations-study-type-null-moderator.md) — related
-- [The effect of multiple intelligence practices does not differ significantly by type of study (article, master's thesis, doctoral thesis)](mi-effect-no-difference-study-type.md) — related
-- [Effect sizes differ significantly by publication type, with master's theses and articles showing higher effects than PhD theses.](moderator-publication-type-effect.md) — reports the opposite
+- Effect of learning stations does not differ significantly by study type (article vs master's thesis) — related
+- The effect of multiple intelligence practices does not differ significantly by type of study (article, master's thesis, doctoral thesis) — related
+- Effect sizes differ significantly by publication type, with master's theses and articles showing higher effects than PhD theses. — reports the opposite
 - [Effect sizes of PBL on science achievement differ significantly by publication type, with conference proceedings showing a negative effect](pbl-effect-differs-by-publication-type.md) — related
 - [Type of publication does not significantly moderate the effect of constructivism on attitudes towards lessons](publication-type-not-significant-moderator-constructivism-attitudes.md) — related
 - [Academic achievement effects of STEM practices differ significantly by publication type and education level but not by lesson type](stem-achievement-moderators-publication-type-education-level.md) — related

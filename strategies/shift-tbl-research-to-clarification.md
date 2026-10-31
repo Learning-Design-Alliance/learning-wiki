@@ -17,7 +17,7 @@ sources:
 # Shift TBL research from endless justification to cumulative, theory-based clarification research using diversified methods
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The review recommends that future TBL research "must shift from its carousel of endless justification to studies which build on what has come before, identify and address gaps in knowledge and which are guided by a sound theoretical foundation". It names specific gaps: team dynamics and functioning, interdisciplinary versus uni-professional TBL implementation, context and cross-cultural comparison, the spatial and socio-material setting including online TBL, and the teacher's role. It urges more qualitative, context-sensitive, theoretically framed methodologies.
@@ -42,10 +42,6 @@ The review recommends that future TBL research "must shift from its carousel of 
 
 ## Claims
 
-- [Justification studies dominate TBL research (52%) while clarification studies remain rare (15%) and never catch up over time](../claims/tbl-research-justification-dominates-clarification-rare.md) [+W]
-- [TBL research is stuck in justification mode rather than progressing as cumulative scientific inquiry, likely because local implementation drives instrumental evaluation studies](../claims/tbl-research-stuck-in-justification.md) [+W]
-- [TBL research concentrates on learning outcomes (76%) and individual characteristics such as student perceptions (69%), neglecting other components of the seven-component TBL model](../claims/tbl-research-foci-outcomes-and-perceptions.md) [+W]
-- [The TBL-in-medical-education evidence base comprises 288 empirical studies that primarily use quantitative descriptive methods, most commonly surveys](../claims/tbl-medical-education-288-studies-survey-dominated.md) [+W]
 - [Most TBL is delivered to uni-professional groups of medical students, raising concerns about preparation for multi-disciplinary health-care teams](../claims/tbl-mostly-uni-professional-delivery.md) [+W]
 - [The review warns that uncritical adoption of TBL may transport rather than translate the method into settings where it is not fit-for-purpose](../claims/tbl-uncritical-adoption-risk.md) [+W]
 

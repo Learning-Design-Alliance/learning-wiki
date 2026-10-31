@@ -60,4 +60,4 @@ Reliability validation of the LLM coding pipeline: an expert independently coded
 - [A heuristic for assigning blame to rules behind incorrect steps agreed with human coders at kappa=0.78](heuristic-blame-assignment-kappa-078.md) — related
 - [LLMs prompted with diverse strategies can analyze educational survey feedback and generate corrective tutor feedback at or above expert human performance in specific scenarios](llm-prompting-human-level-educational-feedback.md) — reports the opposite
 - The proposed coding scheme achieves high inter-rater reliability across design object, design move, and communication move dimensions — related
-- [Coding of included studies reached 100% inter-coder reliability using the agreement formula](coding-reliability-100-percent-meta-analysis.md) — related
+- Coding of included studies reached 100% inter-coder reliability using the agreement formula — related

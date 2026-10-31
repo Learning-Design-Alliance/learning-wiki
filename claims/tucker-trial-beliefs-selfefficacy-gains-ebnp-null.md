@@ -70,4 +70,4 @@ Narratively summarized outcome from one study (Caramanica and Spiva 2018) using 
 - [Educational interventions substantially improve nurse leaders' EBP competence (SMD = 1.76)](ebp-education-improves-nurse-leader-ebp-competence.md) — related
 - [Educational interventions significantly improve nurse leaders' EBP implementation leadership (SMD = 0.74)](ebp-education-improves-nurse-leader-implementation-leadership.md) — related
 - [Educational interventions improve nurse leaders' EBP knowledge (SMD = 1.05)](ebp-education-improves-nurse-leader-knowledge.md) — related
-- [Certainty of evidence for all outcomes was rated low due to serious risk of bias and heterogeneity](low-certainty-ebp-leader-education-evidence.md) — related
+- Certainty of evidence for all outcomes was rated low due to serious risk of bias and heterogeneity — related

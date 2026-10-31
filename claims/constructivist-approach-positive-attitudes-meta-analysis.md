@@ -47,7 +47,7 @@ Meta-analysis of 43 studies (28 theses, 15 articles) conducted in Turkey between
 
 ## Related Claims
 - [Constructivist learning models show high-level effects on thinking skills (ES=.88) and academic success (ES=.81) but a medium-level effect on attitudes (ES=.51)](clm-effect-varies-by-outcome-type.md) — related
-- [The 43 studies on constructivism and attitudes are highly heterogeneous (I² = 92.562%), requiring a random effects model](constructivism-attitude-studies-high-heterogeneity.md) — related
+- The 43 studies on constructivism and attitudes are highly heterogeneous (I² = 92.562%), requiring a random effects model — related
 - [The constructivist learning approach has a strong positive overall effect on students' academic achievement compared to traditional teaching methods (ES = 1.156).](constructivist-approach-overall-effect-achievement.md) — related
 - [STEM educational practices have a moderate positive effect on students' attitude toward the course (REM ES = 0.620)](stem-practices-moderate-attitude-effect.md) — related
 - [50 of the 53 studies in the meta-analysis show positive effect sizes favoring the constructivist approach; 3 show negative effects favoring traditional teaching.](fifty-of-53-studies-positive-effect.md) — related

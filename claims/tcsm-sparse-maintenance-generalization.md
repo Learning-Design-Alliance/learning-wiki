@@ -64,8 +64,8 @@ The review's analysis of generalization evidence, identifying a single study wit
 
 ## Related Claims
 - [Most TCSM studies targeted students with disabilities aged 10–15 (17 of 22 male), mainly in special education classrooms, using the MotivAider in seven of nine studies](tcsm-descriptive-participant-setting-profile.md) — related
-- [Visual inspection showed strong experimental control in two studies, moderate-to-strong in three, and mixed in one of eight evaluable TCSM studies](tcsm-experimental-control-visual-inspection.md) — related
-- [Most TCSM studies lacked numerical indices of procedural integrity: seven of nine omitted initial-training indices and five of nine omitted treatment-fidelity indices](tcsm-procedural-integrity-gaps.md) — related
+- Visual inspection showed strong experimental control in two studies, moderate-to-strong in three, and mixed in one of eight evaluable TCSM studies — related
+- Most TCSM studies lacked numerical indices of procedural integrity: seven of nine omitted initial-training indices and five of nine omitted treatment-fidelity indices — related
 - [Adaptive G-UKT reportedly establishes competitive state-of-the-art knowledge tracing performance, particularly under sparse observation regimes](adaptive-g-ukt-competitive-performance-sparse-regimes.md) — related
 - [Tactile-cued self-monitoring interventions show moderate to strong effects, with calculated Phi effect sizes ranging from 0.18 to 0.89 across 34 phase comparisons](tcsm-moderate-strong-phi-effects.md) — related
-- [TCSM intervention research is recent: no qualifying studies were published from 1973 through 2002, and five of nine appeared in 2012–2013](tcsm-recent-emerging-evidence-base.md) — related
+- TCSM intervention research is recent: no qualifying studies were published from 1973 through 2002, and five of nine appeared in 2012–2013 — related

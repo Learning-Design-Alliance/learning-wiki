@@ -45,6 +45,6 @@ Meta-analysis of 15 SCI/SSCI-indexed studies (2005–2015) with a combined sampl
 
 
 ## Related Claims
-- [Effect size distributions across AR-in-education studies were heterogeneous (Q=35.692, I²=60.776%), requiring a random effects model](ar-meta-analysis-heterogeneity-random-effects.md) — related
-- [SCI/SSCI-indexed publications on AR in education increased in recent years, concentrated in Computers & Education (21 of 171 studies)](ar-education-publication-trends-journals.md) — related
+- Effect size distributions across AR-in-education studies were heterogeneous (Q=35.692, I²=60.776%), requiring a random effects model — related
+- SCI/SSCI-indexed publications on AR in education increased in recent years, concentrated in Computers & Education (21 of 171 studies) — related
 - [Individual study effect sizes range from -0.07 to 3.35, with most classified as moderate to amazing effects](effect-size-distribution-range-indonesian-studies.md) — related

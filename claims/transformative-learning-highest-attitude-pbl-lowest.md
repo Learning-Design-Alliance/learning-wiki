@@ -47,5 +47,5 @@ Meta-analysis of the fourteen attitude studies using Hedges' d. The review repor
 ## Related Claims
 - [Attitude effect sizes of other applications ranged from negligible (Project Based Learning, d=-0,3678) to very large (Guess-Observe-Explain Method, d=1,0249)](attitude-effect-size-range-other-applications.md) — related
 - [Among applications for retention of pre-service teachers, the Learning Together Technique had the highest effect size (d=2,0606, huge) and the Jigsaw Technique the lowest (d=0,5461, medium)](learning-together-highest-retention-jigsaw-lowest-meta-analysis.md) — related
-- [The meta-analysis corpus comprised 23 studies (9 retention, 14 attitude) with a total of 1204 pre-service teachers across experimental and control groups](meta-analysis-corpus-23-studies-1204-pre-service-teachers.md) — related
+- The meta-analysis corpus comprised 23 studies (9 retention, 14 attitude) with a total of 1204 pre-service teachers across experimental and control groups — related
 - [Learning Cycle Model, Use of Animation, Reflective Diaries and Multiple Intelligence Theory Based Teaching each had very large retention effect sizes for pre-service teachers](retention-very-large-effect-sizes-meta-analysis.md) — related

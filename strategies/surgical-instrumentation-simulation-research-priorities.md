@@ -17,7 +17,7 @@ sources:
 # Prioritize multicenter, competency-oriented studies in Surgical Instrumentation students testing retention, transfer and objective assessment
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 2 studies (2 review), `q2`–`q3` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The review's stated research agenda: "For research, priorities include multicenter studies in Surgical Instrumentation students, validated perception instruments, comparative studies between low-cost and high-fidelity simulators, assessment of skill retention, and evaluation of supervised transfer to clinical practice." Such evidence would determine not only whether learners value the resources but how, when and under what institutional conditions they contribute to safe, progressive, competency-based laparoscopic training.
@@ -40,7 +40,6 @@ The review's stated research agenda: "For research, priorities include multicent
 
 - [Only one of 11 included studies directly addressed Surgical Instrumentation students, making most evidence indirect for that field](../claims/surgical-instrumentation-evidence-limited-one-study.md) [+W]
 - [Favorable learner perception of laparoscopic simulation should not be equated with competence, clinical readiness or transfer of learning](../claims/laparoscopic-simulation-perception-not-competence.md) [+W]
-- [Marked heterogeneity of assessment methods, many lacking formal validation, limits comparability between studies and standardisation of the field](../claims/heterogeneity-limits-comparability-standardisation-gap.md) [+W]
 - [Cost, equipment availability, maintenance and faculty training are reported implementation barriers for laparoscopic simulation, especially in resource-constrained settings](../claims/laparoscopic-simulation-implementation-barriers.md) [~W]
 
 ## Related Strategies

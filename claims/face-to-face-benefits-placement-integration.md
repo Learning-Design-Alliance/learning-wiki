@@ -64,7 +64,7 @@ The review reports, citing the included studies, that the online tool showed les
 
 
 ## Related Claims
-- [A scoping review identified 48 studies of technology-based teaching for health students' stroke clinical skills, most published recently and of lower methodological quality](48-studies-tech-teaching-stroke-skills-review.md) — a broader claim this one bears on
+- A scoping review identified 48 studies of technology-based teaching for health students' stroke clinical skills, most published recently and of lower methodological quality — a broader claim this one bears on
 - [VR tools enhance acquisition and retention of clinical and procedural skills but face barriers including cybersickness, limited tactile feedback and variable long-term skill transfer](vr-enhances-practical-skill-acquisition-with-barriers.md) — related
 - [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — related
 - [Two included studies allowed participants to act on feedback from an earlier simulation attempt, enabling a 'second go'](second-go-feedback-iteration-simulation.md) — related

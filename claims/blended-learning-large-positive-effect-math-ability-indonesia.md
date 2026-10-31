@@ -45,4 +45,4 @@ Meta-analysis of 36 effect sizes from ERIC, SAGE, SpringerLink and Google Schola
 
 
 ## Related Claims
-- [Effect sizes across the included Indonesian blended-learning studies are heterogeneous, so a random effects model is used](heterogeneous-effect-sizes-random-effects-model.md) — related
+- Effect sizes across the included Indonesian blended-learning studies are heterogeneous, so a random effects model is used — related

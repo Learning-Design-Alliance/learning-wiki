@@ -17,7 +17,7 @@ sources:
 # Use the eight-domain competency framework to structure curriculum development, professional evaluation and future research in family medicine
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review proposes its eight interrelated competency categories as a practical tool: the findings "support its use in curriculum development, professional evaluation and future research aimed at strengthening primary care systems". The authors position the framework as serving "the training and evaluation of health professionals" and as "a practical guide to strengthen PHC", aiming to improve quality of care and promote contextualised clinical decision-making.
@@ -46,7 +46,6 @@ The review proposes its eight interrelated competency categories as a practical 
 ## Claims
 
 - [A scoping review of 2010–2025 literature analysed 34 studies and grouped family physician competencies into eight categories](../claims/scoping-review-34-studies-eight-competency-categories.md) [+W]
-- [The review did not conduct critical appraisal of included studies, which the authors state may influence the strength of its conclusions](../claims/no-critical-appraisal-limitation-scoping-review.md) [~W]
 
 ## Related Strategies
 - 

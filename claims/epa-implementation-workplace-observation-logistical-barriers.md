@@ -47,5 +47,5 @@ Frequency analysis of EPA implementation methodologies across the included studi
 ## Related Claims
 - [Global entrustment scales and standardised rubrics dominate EPA assessment, but validation of assessment tools is reported in only a small minority of studies](epa-assessment-tools-validation-gap.md) — related
 - [Consensus methods and focus groups are the most common EPA development methodologies, with medical education experts and clinicians the most involved stakeholders](epa-development-consensus-focus-groups-stakeholders.md) — related
-- [Most EPA research focuses on early phases of development and implementation, with few randomised controlled trials](epa-research-early-phases-few-rcts.md) — related
-- [EPA studies concentrate on implementation, with development and assessment secondary](epa-studies-focus-implementation-over-development.md) — related
+- Most EPA research focuses on early phases of development and implementation, with few randomised controlled trials — related
+- EPA studies concentrate on implementation, with development and assessment secondary — related

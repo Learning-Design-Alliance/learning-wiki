@@ -85,6 +85,6 @@ Prespecified leave-one-study-out analysis of Orangi (47), the only primary-netwo
 ## Related Claims
 - [In the adolescent subgroup network, Functional games had the highest P-score (0.830; SMD 2.568), but rankings differed by age stratum and inconsistency remained significant](adolescent-subgroup-functional-games-highest.md) — related
 - [Cooperative learning's top rank in the broad network rests entirely on a single visual-motor integration study and disappears when that study is removed](cooperative-rank-single-study-artifact.md) — related
-- [The primary network retains substantial heterogeneity and significant local inconsistency, with four linked node splits significant at p = 0.039](primary-network-heterogeneity-inconsistency.md) — related
+- The primary network retains substantial heterogeneity and significant local inconsistency, with four linked node splits significant at p = 0.039 — related
 - [In the under-18 primary network, Hybrid TGfU-SE, Nonlinear, and Functional games are the only nodes whose estimates versus Control exclude zero, led by Hybrid TGfU-SE (SMD 1.35)](tgfu-se-nonlinear-functional-games-beat-control-under18.md) — related
 - [Traditional instruction is approximately null versus Control in the primary network, and the analysis does not support claims that every active or structured node outperforms Control](traditional-null-versus-control-no-universal-superiority.md) — related

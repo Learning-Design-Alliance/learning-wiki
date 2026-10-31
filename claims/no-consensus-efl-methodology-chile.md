@@ -46,5 +46,5 @@ The review's conclusion section, synthesizing its thematic analysis of 40 studie
 
 
 ## Related Claims
-- [Research studies on EFL methodology in Chile (2011–2021) cluster around perceptions and beliefs, core teaching practices, e-learning during COVID-19, motivation, and assessment](chilean-efl-methodology-review-major-topic-areas.md) — related
+- Research studies on EFL methodology in Chile (2011–2021) cluster around perceptions and beliefs, core teaching practices, e-learning during COVID-19, motivation, and assessment — related
 - [Review-reported study: translanguaging and effective integration of L1 suggested as effective core practices for teaching English in Chile](review-reported-translanguaging-l1-core-practice.md) — related

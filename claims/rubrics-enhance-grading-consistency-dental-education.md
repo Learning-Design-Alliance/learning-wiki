@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-31
 sources:
   - id: gadbail-amol-ramchandra-2026
     resource: "https://doi.org/10.1186/s12909-026-09218-3"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across the included studies, rubric use was associated with greater inter-rater agreement and faculty grading consistency, with sixteen studies explicitly reporting high inter-rater reliability. [→ Gadbail Amol Ramchandra 2026](#gadbail-amol-ramchandra-2026)

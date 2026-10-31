@@ -52,5 +52,5 @@ Sensitivity analyses of the multilevel meta-analysis: four effects flagged by Co
 - No evidence of publication bias was detected in the pooled L2 gender-difference literature — related
 - [Sensitivity reanalyses (outlier removal and sample-standardized age) confirmed that PGS is significantly associated with WM change (all p < 0.01) with no PGS × group interaction.](sensitivity-analyses-confirm-pgs-wm-change-association.md) — a narrower finding that bears on this claim
 - [Publication bias tests indicate the pooled flipped classroom effect is unlikely to be inflated by publication bias](flipped-classroom-meta-analysis-publication-bias-robust.md) — related
-- [Funnel-plot analyses showed no significant asymmetry, and the overall effect remained significant after removing outliers](no-significant-funnel-plot-asymmetry.md) — related
-- [Publication bias tests and sensitivity analyses support the robustness of the pooled bilingual teaching effects](bilingual-immunology-pooled-effects-robust-to-sensitivity-analysis.md) — related
+- Funnel-plot analyses showed no significant asymmetry, and the overall effect remained significant after removing outliers — related
+- Publication bias tests and sensitivity analyses support the robustness of the pooled bilingual teaching effects — related

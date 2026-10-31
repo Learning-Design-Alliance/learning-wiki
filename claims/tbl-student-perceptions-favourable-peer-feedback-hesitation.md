@@ -65,6 +65,6 @@ The review attributes peer-feedback hesitation to Burgess et al. and Lerchenfeld
 
 ## Related Claims
 - [TBL remains largely supplementary in pre-clinical medical education, with only a few institutions using it as the primary teaching method](tbl-largely-supplementary-preclinical.md) — related
-- [Pre-clinical TBL research is dominated by first-year, in-person implementations, with most studies using classical rather than modified TBL](tbl-preclinical-implementation-profile-37-studies.md) — related
-- [Reporting of the 4S framework in application design and of peer evaluation is limited: only 3 of 37 studies used 4S principles and about one-third reported peer evaluation](4s-framework-and-peer-evaluation-underreported.md) — related
+- Pre-clinical TBL research is dominated by first-year, in-person implementations, with most studies using classical rather than modified TBL — related
+- Reporting of the 4S framework in application design and of peer evaluation is limited: only 3 of 37 studies used 4S principles and about one-third reported peer evaluation — related
 - [Students perceived peer group feedback as contextually rich but sometimes subjective, and ChatGPT-4o feedback as more objective and well structured but occasionally lacking contextual sensitivity](student-perceptions-human-contextual-ai-objective-structured.md) — related

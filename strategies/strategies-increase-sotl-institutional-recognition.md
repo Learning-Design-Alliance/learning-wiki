@@ -17,7 +17,7 @@ sources:
 # Increase SoTL recognition through individual, organizational, and field-level efforts: institutional entrepreneurs, hiring and socialization, and clearer SoTL definitions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review proposes three levers grounded in institutional logics theory. At the individual level, an "institutional entrepreneur" is needed who can see or create a window of opportunity and is socially positioned with authority, skills, and knowledge to champion SoTL. At the organizational level, hiring SoTL-supportive faculty and socializing them can raise the logic's centrality over years. At the field level, clearly articulating SoTL's prescriptions for action—via the scholarly teaching/SoTL/educational research distinctions—supports compatibility with the research logic.
@@ -44,11 +44,7 @@ The review proposes three levers grounded in institutional logics theory. At the
 
 ## Claims
 
-- [HPE articles consistently conceptualize SoTL via Boyer, Glassick et al., and Hutchings & Shulman, with 82% aligning explicitly or implicitly and none offering critiques](../claims/sotl-conceptualized-via-three-seminal-works-unrevised.md) [+W]
 - [SoTL is inconsistently recognized by P&T committees: 58 articles (45%) addressed P&T, 15 described guideline revisions, and 40 (69%) warned of obstructions](../claims/sotl-inconsistently-recognized-by-promotion-tenure-committees.md) [+W]
-- [SoTL was operationalized in 35 distinct ways across 12 categories, many blurring the SoTL/scholarly-teaching distinction by targeting local rather than public audiences](../claims/sotl-operationalizations-35-ways-12-categories-audience-groups.md) [+W]
-- [Descriptions of SoTL gaining institutional acceptance peaked in 2005–2014 and were absent in medicine since 2020, while obstruction descriptions persisted throughout](../claims/sotl-p-and-t-acceptance-descriptions-peaked-2005-2014-declined.md) [+W]
-- [Publication frequency of SoTL-related HPE articles peaked in 2010–2014 with a steady slow decline thereafter](../claims/sotl-publication-frequency-peaked-2010-2014.md) [+W]
 
 ## Related Strategies
 - 

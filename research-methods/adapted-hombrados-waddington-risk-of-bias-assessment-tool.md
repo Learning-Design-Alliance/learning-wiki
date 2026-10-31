@@ -12,7 +12,7 @@ generated:
 # Adapted Hombrados & Waddington risk-of-bias assessment tool
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 3 claims (3 for) · 3 studies (2 quant-synthesis, 1 review), `q2`–`q3` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A risk-of-bias assessment instrument adapted from a tool developed by Hombrados & Waddington (2012), used to code and critically appraise the quality of quantitative effectiveness studies before meta-analysis. The tool "specifically focuses on the likelihood of 1) selection bias, 2) bias from spillovers, 3) outcome and analysis reporting bias, and 4) other biases such as relying on recall data or not accounting for clustering in the standard errors". Studies are rated high, medium, or low risk for each of the four categories.
@@ -23,9 +23,7 @@ A risk-of-bias assessment instrument adapted from a tool developed by Hombrados 
 
 ### Claims
 
-- [All included simulation-based research studies were judged to have high or critical risk of bias, and only 16 of 2481 screened studies met Level 4 inclusion criteria](../claims/high-critical-risk-of-bias-all-level-4-simulation-studies.md) [+M]
 - [The evidence base on inclusion effects is methodologically weak: no randomised studies and nearly all synthesised studies at serious risk of bias](../claims/inclusion-evidence-low-quality-serious-risk-of-bias.md) [+M]
-- [Included single-case design studies show high risk of bias on procedural fidelity and outcome-assessor blinding](../claims/sced-risk-of-bias-procedural-fidelity.md) [+W]
 
 ## Related Research Methods
 -

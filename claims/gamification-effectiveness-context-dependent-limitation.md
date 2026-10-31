@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-10-31
 sources:
   - id: gamarra-vargas-nm-2025
     resource: "https://doi.org/10.12688/f1000research.164232.1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The review states gamification effectiveness can vary depending on the type of task, the population studied and the cultural context. [→ Gamarra-Vargas NM 2025](#gamarra-vargas-nm-2025)
@@ -48,4 +49,4 @@ The review's stated limitation section, an author interpretation rather than a t
 - [Model accuracy of vision-based proctoring systems can vary across demographics, lighting conditions, and hardware setups, potentially disadvantaging some students](proctoring-accuracy-demographic-bias.md) — related
 - [Children's explicit preferences for collaboration varied markedly across populations and ages: German children preferred collaboration, Hai||om children preferred individual activity, and Ovambo children shifted toward individual preference with age](collaboration-preferences-vary-culture-age.md) — a narrower finding that bears on this claim
 - [Student perceptions of AI use in academic work are neutral and range from viewing AI as valid learning assistance to viewing it as cheating, depending on task type, transparency, and assessment design](student-ai-perceptions-neutral-task-dependent.md) — related
-- [92% of reviewed gamification studies focus on students, with educators understudied](gamification-studies-focus-on-students-92-percent.md) — related
+- 92% of reviewed gamification studies focus on students, with educators understudied — related

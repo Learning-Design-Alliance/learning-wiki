@@ -64,6 +64,6 @@ The review's GRADE appraisal (Supplementary Appendix S2) of certainty per outcom
 
 
 ## Related Claims
-- [Outcome evaluation of AI-generated virtual patients in HPE is concentrated at Kirkpatrick level 1, with no studies reporting level 3 or 4 outcomes](ai-virtual-patients-kirkpatrick-level-1-dominant.md) — related
+- Outcome evaluation of AI-generated virtual patients in HPE is concentrated at Kirkpatrick level 1, with no studies reporting level 3 or 4 outcomes — related
 - [Evidence on transfer to clinical behavior and patient outcomes is scarce: only 2 studies reached Kirkpatrick level 3 and 1 reached level 4](transfer-and-patient-outcomes-scarce.md) — related
 - [Multimodal feedback systems produced greater simulator score improvements than conventional feedback in basic robotic skills training](multimodal-feedback-outperforms-conventional.md) — a narrower finding that bears on this claim

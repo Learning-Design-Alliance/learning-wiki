@@ -48,5 +48,5 @@ Systematic review (PRISMA 2020) of nine studies at six German medical schools, w
 - [Students rated CM and TK course offerings as satisfactory or very satisfactory at all study sites](cm-tk-courses-high-student-satisfaction.md) — related
 - [All identified CM/TK courses were elective, so structured culinary medicine teaching reaches only a limited number of German medical students](cm-tk-elective-only-limited-reach.md) — related
 - [Göttingen CM elective improved counselling skills, knowledge, attitudes, well-being and eating habits in both virtual and in-person formats, while cooking frequency did not change](goettingen-cm-gains-virtual-in-person-cooking-frequency-null.md) — a narrower finding that bears on this claim
-- [Included study quality is moderate, with a median MMERSQI score of 60 out of 100](cm-studies-moderate-quality-mmersqi-median-60.md) — related
+- Included study quality is moderate, with a median MMERSQI score of 60 out of 100 — related
 - [Objective nutrition knowledge increased significantly after the 'Eat This!' online lecture series](eat-this-objective-knowledge-increase-significant.md) — a narrower finding that bears on this claim

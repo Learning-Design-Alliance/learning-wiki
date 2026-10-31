@@ -45,7 +45,7 @@ Qualitative content analysis with an inductive approach applied to verbatim stat
 
 
 ## Related Claims
-- [A scoping review identified 48 studies of technology-based teaching for health students' stroke clinical skills, most published recently and of lower methodological quality](48-studies-tech-teaching-stroke-skills-review.md) — a broader claim this one bears on
+- A scoping review identified 48 studies of technology-based teaching for health students' stroke clinical skills, most published recently and of lower methodological quality — a broader claim this one bears on
 - [Online delivery was reported to enhance geographical access, enable flexible student-led learning, and increase teaching efficiency](online-delivery-facilitators-access-flexibility.md) — a narrower finding that bears on this claim
 - [Multimedia design was a frequently reported facilitator, and one study found e-modules with more sophisticated visual and interactive features led to stronger learning outcomes](multimedia-design-facilitator-sophisticated-features.md) — a narrower finding that bears on this claim
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on

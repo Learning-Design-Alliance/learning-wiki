@@ -17,7 +17,7 @@ sources:
 # Implement formal peer tutor training programs under faculty supervision within simulation curricula
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The review recommends formal tutor training programs embedded in undergraduate simulation curricula, combining peer tutoring with expert faculty supervision. Nine of the 11 included studies provided tutor training, focused on INACSL best-practice standards and online modules on adult education, simulation frameworks, feedback, and time management. Training is presented as addressing the identified lack of pedagogical preparation among peer tutors and supporting sustainability.
@@ -43,7 +43,6 @@ The review recommends formal tutor training programs embedded in undergraduate s
 - [Peer tutoring benefits extend to the tutors themselves, including confidence, autonomy, leadership, teamwork, and empowerment](../claims/peer-tutor-role-benefits-to-tutors.md) [+W]
 - [Peer tutoring contributes to psychological safety and reduced anxiety in demanding simulation learning environments](../claims/peer-tutoring-psychological-safety-anxiety.md) [+W]
 - [Peer tutoring in clinical simulation is associated with gains in non-technical skills including self-efficacy, self-confidence, self-perception of learning, and reflective abilities](../claims/peer-tutoring-simulation-non-technical-gains.md) [+W]
-- [Most included studies carried a high risk of bias or some concerns, particularly for confounding and outcome measurement, limiting certainty](../claims/peer-tutoring-simulation-risk-of-bias.md) [-W]
 - [Peer tutoring in clinical simulation is associated with improved technical skills such as laparoscopic tasks, lumbar puncture, and cardiovascular examination](../claims/peer-tutoring-simulation-technical-skill-gains.md) [+W]
 
 ## Related Strategies

@@ -45,4 +45,4 @@ The survey's coding of feedback source across the 306 studies (Table 5 lists 119
 
 
 ## Related Claims
-- [Feedback research shifted from balanced L1/L2 coverage to predominantly English-learner populations by the mid-1990s](shift-to-english-learner-focus-mid-1990s.md) — related
+- Feedback research shifted from balanced L1/L2 coverage to predominantly English-learner populations by the mid-1990s — related

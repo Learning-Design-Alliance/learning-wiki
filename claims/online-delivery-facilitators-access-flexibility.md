@@ -45,7 +45,7 @@ The review's content analysis of facilitatory features, aggregating statements f
 
 
 ## Related Claims
-- [A scoping review identified 48 studies of technology-based teaching for health students' stroke clinical skills, most published recently and of lower methodological quality](48-studies-tech-teaching-stroke-skills-review.md) — a broader claim this one bears on
+- A scoping review identified 48 studies of technology-based teaching for health students' stroke clinical skills, most published recently and of lower methodological quality — a broader claim this one bears on
 - [Content analysis identified four facilitatory features of technology-based teaching: delivery mode, multimedia design, clinical skill practice, and interaction or feedback](four-facilitatory-features-tech-stroke-teaching.md) — a broader claim this one bears on
 - [ChatGPT use in STEAM IBL is reported to improve teaching efficiency, student engagement, and flexible instructional design](chatgpt-steam-ibl-teaching-process-advantages.md) — related
 - [Technology can remove geographical barriers and allow rural and external students to engage in WIL activities](ewil-removes-geographical-barriers.md) — related

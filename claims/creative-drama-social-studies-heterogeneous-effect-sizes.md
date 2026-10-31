@@ -47,6 +47,6 @@ Heterogeneity testing within the same meta-analysis of 19 studies, using Q and I
 ## Related Claims
 - [Creative drama method has a very large positive effect on Social Studies course achievement in favor of experimental groups (random-effects d = 1.171)](creative-drama-large-positive-effect-social-studies-achievement.md) — related
 - [The effect sizes of drama-based social studies instruction are highly heterogeneous across studies](drama-social-studies-effect-sizes-heterogeneous.md) — possibly the same claim (merge candidate)
-- [Individual studies of digital story effects are highly heterogeneous, requiring a random effects model](digital-story-studies-heterogeneous-random-effects.md) — related
-- [Effect sizes across the 38 comparisons are highly heterogeneous, requiring a random-effects model](stem-digital-meta-heterogeneous-random-effects.md) — related
+- Individual studies of digital story effects are highly heterogeneous, requiring a random effects model — related
+- Effect sizes across the 38 comparisons are highly heterogeneous, requiring a random-effects model — related
 - [Effect sizes of creative drama studies are heterogeneous (Q = 60.78, df = 39, p < .05), motivating moderator analyses](creative-drama-effect-sizes-heterogeneous.md) — related

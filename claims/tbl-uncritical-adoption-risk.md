@@ -45,4 +45,4 @@ The review's concluding argument, an interpretive claim (type e) drawn from its 
 
 
 ## Related Claims
-- [TBL research is stuck in justification mode rather than progressing as cumulative scientific inquiry, likely because local implementation drives instrumental evaluation studies](tbl-research-stuck-in-justification.md) — related
+- TBL research is stuck in justification mode rather than progressing as cumulative scientific inquiry, likely because local implementation drives instrumental evaluation studies — related

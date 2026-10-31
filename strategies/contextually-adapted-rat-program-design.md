@@ -17,7 +17,7 @@ sources:
 # Adapt RaT curricula to local cultural, institutional, and workforce characteristics rather than directly adopting Western-designed programs
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy addresses the review's geographic-gap finding: Western-designed RaT curricula should not be transplanted without adaptation to local contexts. The review states that "educational approaches shown to be effective in Western settings may not fully account for differences in motivational drivers, professional identity formation, interprofessional dynamics, and clinical workflow structures within GCC healthcare environments." It calls for "locally developed approaches" reflecting cultural, institutional, and workforce characteristics.
@@ -40,7 +40,6 @@ This strategy addresses the review's geographic-gap finding: Western-designed Ra
 
 ## Claims
 
-- [RaT research is heavily concentrated in Western healthcare systems, with no published studies from the GCC region](../claims/rat-evidence-western-concentration-gcc-gap.md) [+W]
 - [Institutional culture, prior teaching experience, and motivational profiles shape residents' teaching effectiveness](../claims/factors-shaping-resident-teaching-effectiveness.md) [+W]
 
 ## Related Strategies

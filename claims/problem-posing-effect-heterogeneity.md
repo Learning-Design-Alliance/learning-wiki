@@ -45,9 +45,9 @@ Homogeneity analysis using Q statistics (chi-square) on the Hedges' g distributi
 
 
 ## Related Claims
-- [Effect size distributions across AR-in-education studies were heterogeneous (Q=35.692, I²=60.776%), requiring a random effects model](ar-meta-analysis-heterogeneity-random-effects.md) — related
-- [Effect sizes across the modelling study pool were heterogeneous, requiring a random-effects model](modelling-study-pool-heterogeneous-random-effects.md) — related
-- [Effect sizes across the included Indonesian blended-learning studies are heterogeneous, so a random effects model is used](heterogeneous-effect-sizes-random-effects-model.md) — related
+- Effect size distributions across AR-in-education studies were heterogeneous (Q=35.692, I²=60.776%), requiring a random effects model — related
+- Effect sizes across the modelling study pool were heterogeneous, requiring a random-effects model — related
+- Effect sizes across the included Indonesian blended-learning studies are heterogeneous, so a random effects model is used — related
 - [Effect sizes of technology-delivered literacy instruction are heterogeneous across studies (Q = 165.38, I2 = 68.56)](tech-literacy-effect-heterogeneity.md) — related
 - [Moderators of problem posing effects: educational setting, publication source, and presentation type relate to effect sizes, with preservice teachers strongly influenced](problem-posing-effect-moderators.md) — related
 - [Problem posing interventions show a large positive effect on students' levels and kinds of problems posed (mean Hedges' g = 0.77)](problem-posing-positive-effect-ability-based.md) — related

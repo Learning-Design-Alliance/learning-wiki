@@ -46,6 +46,6 @@ Theme 3 of the narrative synthesis, drawn from cross-sectional surveys in Canada
 
 
 ## Related Claims
-- [RaT research is heavily concentrated in Western healthcare systems, with no published studies from the GCC region](rat-evidence-western-concentration-gcc-gap.md) — related
+- RaT research is heavily concentrated in Western healthcare systems, with no published studies from the GCC region — related
 - [Residents recognize teaching as central to their professional identity yet carry substantial informal teaching loads without formal preparation](residents-informal-teaching-load-underprepared.md) — related
 - [Longitudinal, integrated RaT programs produce more durable teaching skill gains than brief stand-alone workshops](longitudinal-rat-programs-durable-gains.md) — related

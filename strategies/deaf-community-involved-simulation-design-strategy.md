@@ -17,7 +17,7 @@ sources:
 # Develop D/deaf patient simulation with Deaf community involvement from the start, and evaluate with rigorous longitudinal designs
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The review recommends that simulation educators incorporate a D/deaf patient experience into their immersive or virtual modalities, and that future work align "rigorous content, educational and simulation design quality standards". It highlights Deaf-led, user-centred development, in which content is built from focus-group and forum data gathered with Deaf communities from initial project stages, as the exemplar approach, alongside strong inter-disciplinary teams.
@@ -41,8 +41,6 @@ The review recommends that simulation educators incorporate a D/deaf patient exp
 ## Claims
 
 - [Two included studies were Deaf-led or user-centred, developing simulation content from data gathered with Deaf communities from the start](../claims/deaf-led-user-centred-simulation-development.md) [+W]
-- [Only six studies of simulation-based education about D/deaf patient experiences met inclusion criteria, indicating a paucity of evidence](../claims/six-studies-simulation-deaf-patients-paucity.md) [+W]
-- [Included studies reported improved comfort, confidence and empathy, but used no standardised outcome measures](../claims/self-reported-outcomes-no-standardised-measures.md) [+W]
 - [Participants with very little prior experience with Deaf communities reported greater post-intervention gains](../claims/low-prior-experience-greater-gains.md) [+W]
 
 ## Related Strategies

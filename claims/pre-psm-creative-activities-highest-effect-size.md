@@ -46,6 +46,6 @@ Random effects model heterogeneity estimates for the pre-adjustment synthesis of
 
 ## Related Claims
 - [After propensity score matching, the knowledge integration-based media and technology model has the highest effect size for developing students' creative thinking, with no residual heterogeneity](post-psm-knowledge-integration-media-technology-highest.md) — related
-- [Propensity score matching eliminates the statistically significant differences of 12 research attribute variables between low and high effect size studies](psm-eliminates-twelve-attribute-variables.md) — related
-- [The research groups attribute variable remains statistically significant after propensity score adjustment, indicating incomplete elimination of extraneous effects](research-groups-variable-remains-significant-post-psm.md) — related
-- [Logistic regression yields propensity scores separating 256 low effect size studies (d̄=1.345) from 144 high effect size studies (d̄=7.284) with overlapping distributions suitable for matching](propensity-scores-low-high-groups.md) — related
+- Propensity score matching eliminates the statistically significant differences of 12 research attribute variables between low and high effect size studies — related
+- The research groups attribute variable remains statistically significant after propensity score adjustment, indicating incomplete elimination of extraneous effects — related
+- Logistic regression yields propensity scores separating 256 low effect size studies (d̄=1.345) from 144 high effect size studies (d̄=7.284) with overlapping distributions suitable for matching — related

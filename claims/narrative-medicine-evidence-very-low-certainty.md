@@ -45,9 +45,9 @@ The review's own GRADE assessment across all pooled outcomes, downgraded for ris
 
 
 ## Related Claims
-- [Certainty of evidence for all outcomes was rated low due to serious risk of bias and heterogeneity](low-certainty-ebp-leader-education-evidence.md) — related
+- Certainty of evidence for all outcomes was rated low due to serious risk of bias and heterogeneity — related
 - [The overall certainty of evidence for educational programme effects on nurses' knowledge and practice is very low (GRADE), driven by bias, inconsistency and imprecision](grade-very-low-certainty-nurse-foot-education.md) — related
-- [No included randomized comparison was at low risk of bias, and all 17 non-randomized comparisons were rated serious risk under ROBINS-I](pe-teaching-model-evidence-risk-of-bias-serious.md) — related
+- No included randomized comparison was at low risk of bias, and all 17 non-randomized comparisons were rated serious risk under ROBINS-I — related
 - [The evidence base on inclusion effects is methodologically weak: no randomised studies and nearly all synthesised studies at serious risk of bias](inclusion-evidence-low-quality-serious-risk-of-bias.md) — related
-- [Most included studies carried a high risk of bias or some concerns, particularly for confounding and outcome measurement, limiting certainty](peer-tutoring-simulation-risk-of-bias.md) — related
+- Most included studies carried a high risk of bias or some concerns, particularly for confounding and outcome measurement, limiting certainty — related
 - [Educational programmes are consistently associated with statistically significant improvements in nurses' knowledge of diabetic foot care across nine quasi-experimental studies, with very low certainty of evidence](educational-programmes-improve-nurse-diabetic-foot-knowledge.md) — related

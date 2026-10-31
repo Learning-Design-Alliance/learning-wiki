@@ -47,6 +47,6 @@ Sub-group moderator analysis across courses grouped as Biology, Religious Educat
 ## Related Claims
 - [The effect of computer-based teaching on academic success does not differ significantly by type of course, though social studies showed the largest effect size (1.54) and mathematics the lowest (1.06)](cbt-effect-no-difference-by-course-type.md) — related
 - [The effect of learning-styles-tailored instruction on academic achievement does not differ significantly by course type](achievement-effect-independent-of-course-type.md) — related
-- [The effect of multiple intelligence practices does not differ significantly by type of study (article, master's thesis, doctoral thesis)](mi-effect-no-difference-study-type.md) — related
+- The effect of multiple intelligence practices does not differ significantly by type of study (article, master's thesis, doctoral thesis) — related
 - [Effect sizes differ significantly by course, with the highest effects in science learning, English, and computer courses and the lowest in religion.](moderator-course-effect.md) — reports the opposite
 - [Effect of MIT-based instruction does not differ significantly by course type, though foreign-language courses show the largest point estimate (d = 1.958)](mit-effect-homogeneous-course-type.md) — related

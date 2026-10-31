@@ -64,7 +64,7 @@ Review synthesis noting variability in facilitation models. The review reports o
 
 
 ## Related Claims
-- [Facilitation practices are under-documented in IPE studies: only nine of 41 studies reported facilitator numbers and only seven reported facilitator roles](facilitation-underdocumented-ipe.md) — related
+- Facilitation practices are under-documented in IPE studies: only nine of 41 studies reported facilitator numbers and only seven reported facilitator roles — related
 - [Case-based discussion is the most commonly used learning activity type in interprofessional education for undergraduate healthcare students](cbd-most-common-ipe-activity.md) — related
 - [Most simulation participants preferred high-tech video-assisted debriefing over lower-tech VAD and verbal debriefing, mainly for its better audio/video quality and focused review](participants-prefer-high-tech-vad-debriefing.md) — related
 - [All interviewed facilitators preferred video-assisted debriefing over verbal debriefing because video allowed precise, objective feedback whose credibility was not restricted by facilitator hierarchy](facilitators-prefer-vad-objective-feedback.md) — related

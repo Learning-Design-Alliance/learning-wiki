@@ -46,6 +46,6 @@ Meta-regression Model 3 on 27 studies. The article reports "QM (df = 8) = 25.7; 
 
 ## Related Claims
 - [Number of vocabulary words taught alone does not significantly predict effect sizes in meta-regression](number-words-taught-non-significant-meta-regression.md) — related
-- [Sample size alone significantly predicts between-study variance in effect sizes, explaining 45.7% of heterogeneity](sample-size-meta-regression-explains-457-percent.md) — related
+- Sample size alone significantly predicts between-study variance in effect sizes, explaining 45.7% of heterogeneity — related
 - [None of five moderators (pilot study, retention test, word-selection method, vocabulary outcome, number of words taught) significantly explained heterogeneity in effect sizes](five-moderators-non-significant-vocabulary-meta-analysis.md) — related
-- [Substantial between-study heterogeneity remained unexplained after the three design characteristics were accounted for (τ² = 0.03; QE = 101.25, df = 24, p < 0.001)](residual-heterogeneity-unexplained-design-factors.md) — related
+- Substantial between-study heterogeneity remained unexplained after the three design characteristics were accounted for (τ² = 0.03; QE = 101.25, df = 24, p < 0.001) — related

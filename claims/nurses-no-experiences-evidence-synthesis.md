@@ -47,5 +47,5 @@ Meta‐aggregation of 89 extracted findings from 17 qualitative studies, categor
 ## Related Claims
 - [Nurses' competence in enhancing evidence generation comprises research engagement, barriers to research engagement, support systems and mentorship in research, and professional development](nurses-ebhc-competence-evidence-generation-sf2.md) — related
 - [Nurses' competence in global health comprises foundations of evidence‐based practice, continuous professional growth and evolution, and knowledge gaps and learning barriers](nurses-ebhc-competence-global-health-sf1.md) — related
-- [The review extracted 89 findings from 17 studies with 408 nurse participants, of which 35 were unequivocal and 54 credible](qualitative-evidence-corpus-nurses-ebhc.md) — related
+- The review extracted 89 findings from 17 studies with 408 nurse participants, of which 35 were unequivocal and 54 credible — related
 - [Nurses' competence in effective implementation of evidence comprises evaluating and reflecting on outcomes, contextual understanding and analysis, and facilitating and managing change in practice](nurses-ebhc-competence-evidence-implementation-sf4.md) — related

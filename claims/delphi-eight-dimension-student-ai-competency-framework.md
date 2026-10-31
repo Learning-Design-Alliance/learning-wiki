@@ -48,4 +48,4 @@ A three-round Delphi study with 29 K-12 AI education professionals in Hong Kong,
 - [A three-round Delphi study with 17 experts from education, industry, and cultural expertise produced the SAIL AI literacy framework](sail-framework-produced-by-three-round-delphi-study.md) — related
 - [Delphi and wider-review feedback led Level 4 to be repositioned as beyond AI literacy, clarifying the boundary of AI literacy](sail-level-four-beyond-ai-literacy-boundary.md) — related
 - [A review of 13 recent AI literacy frameworks found most lack explicit scaffolded progression and are context-bound](recent-ai-literacy-frameworks-lack-scaffolded-progression.md) — related
-- [Delphi revision reduced the initial framework from 7 dimensions, 25 categories, and 80 elements to 7 dimensions, 24 categories, and 63 elements](delphi-revision-80-to-63-competency-elements.md) — related
+- Delphi revision reduced the initial framework from 7 dimensions, 25 categories, and 80 elements to 7 dimensions, 24 categories, and 63 elements — related

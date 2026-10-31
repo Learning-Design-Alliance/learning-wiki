@@ -46,5 +46,5 @@ The review reports, citing the Resultados SIMCE inglés 2010 report and Yilorm &
 
 
 ## Related Claims
-- [Research studies on EFL methodology in Chile (2011–2021) cluster around perceptions and beliefs, core teaching practices, e-learning during COVID-19, motivation, and assessment](chilean-efl-methodology-review-major-topic-areas.md) — related
+- Research studies on EFL methodology in Chile (2011–2021) cluster around perceptions and beliefs, core teaching practices, e-learning during COVID-19, motivation, and assessment — related
 - [English learners lag behind their peers in achievement and attainment; limited exposure to academic content is offered as a partial explanation, not tested](el-lag-limited-academic-content-exposure.md) — related

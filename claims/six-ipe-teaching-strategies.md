@@ -66,4 +66,4 @@ Frequency analysis of the six strategies in the review's Table 3. The review rep
 ## Related Claims
 - [Case-based discussion is the most commonly used learning activity type in interprofessional education for undergraduate healthcare students](cbd-most-common-ipe-activity.md) — related
 - [Faculty reluctance and limited expertise are common challenges in implementing IPE, which can harm interprofessional relationships if poorly planned](faculty-reluctance-ipe-challenge.md) — related
-- [Facilitation practices are under-documented in IPE studies: only nine of 41 studies reported facilitator numbers and only seven reported facilitator roles](facilitation-underdocumented-ipe.md) — related
+- Facilitation practices are under-documented in IPE studies: only nine of 41 studies reported facilitator numbers and only seven reported facilitator roles — related

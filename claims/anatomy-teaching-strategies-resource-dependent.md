@@ -47,4 +47,4 @@ Narrative synthesis across included studies in the scoping review's discussion; 
 ## Related Claims
 - [Cost, equipment availability, maintenance and faculty training are reported implementation barriers for laparoscopic simulation, especially in resource-constrained settings](laparoscopic-simulation-implementation-barriers.md) — a broader claim this one bears on
 - [Tertiary institutions face substantial ICT infrastructure constraints, with 54.2% of colleges lacking well-equipped computer laboratories and only 46% ICT usage reported](ict-infrastructure-constraints-tertiary-colleges.md) — related
-- [No included study established a relationship between anatomy educators' profiles and their teaching or evaluation strategies, or between content taught and pedagogical approaches](no-link-teacher-profile-strategies.md) — related
+- No included study established a relationship between anatomy educators' profiles and their teaching or evaluation strategies, or between content taught and pedagogical approaches — related

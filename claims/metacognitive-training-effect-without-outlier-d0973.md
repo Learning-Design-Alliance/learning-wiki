@@ -45,6 +45,6 @@ Reconstructed meta-analysis excluding the outlier study, over 17 studies (k=17, 
 
 
 ## Related Claims
-- [Outlier diagnostics detected no significant outliers among the included effect size estimates](hands-on-meta-analysis-no-outliers.md) — related
-- [One included study (Sun-Lin & Chiou, 2017) was determined to be an outlier, prompting a reconstructed meta-analysis without it](sun-lin-chiou-2017-outlier-d22203.md) — related
+- Outlier diagnostics detected no significant outliers among the included effect size estimates — related
+- One included study (Sun-Lin & Chiou, 2017) was determined to be an outlier, prompting a reconstructed meta-analysis without it — related
 - [Metacognitive training has a statistically significant positive effect on K-12 students' algebraic reasoning across 18 studies (initial pooled d=2.284)](metacognitive-training-positive-effect-algebraic-reasoning.md) — related

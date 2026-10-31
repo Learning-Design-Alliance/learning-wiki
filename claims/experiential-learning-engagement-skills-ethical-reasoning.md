@@ -84,4 +84,4 @@ Narrative review attribution: the article reports, citing Gates and Dauenhauer (
 - [Successful program completion increased participants' self-confidence, self-esteem, and autonomy, which aided their settlement and integration into Canadian society](program-completion-increased-confidence-autonomy-settlement.md) — related
 - [Instructors perceive that experiential learning cultivates enjoyment, satisfaction, and self-confidence through peer and community engagement (beauty)](instructors-enjoyment-peer-community-engagement.md) — related
 - [Two included studies allowed participants to act on feedback from an earlier simulation attempt, enabling a 'second go'](second-go-feedback-iteration-simulation.md) — a narrower finding that bears on this claim
-- [Included studies reported improved comfort, confidence and empathy, but used no standardised outcome measures](self-reported-outcomes-no-standardised-measures.md) — related
+- Included studies reported improved comfort, confidence and empathy, but used no standardised outcome measures — related

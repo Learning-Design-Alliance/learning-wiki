@@ -49,6 +49,6 @@ Moderator analysis of eleven urban-area and six rural-area studies. The printed 
 - [Education level does not significantly moderate the effect of RME on mathematical literacy](education-level-no-moderating-effect-rme-literacy.md) — related
 - [Class capacity does not significantly moderate the effect of RME on mathematical literacy](class-capacity-no-moderating-effect-rme-literacy.md) — related
 - [Associations with school belonging are generally stronger in rural than urban locations](belonging-effects-stronger-rural-than-urban.md) — related
-- [RME effects are larger in studies with small samples (30 or fewer) than large samples (31 or more)](rme-effect-moderated-by-sample-size.md) — related
+- RME effects are larger in studies with small samples (30 or fewer) than large samples (31 or more) — related
 - [RME is more effective in Indonesia, Malaysia, Turkey, and Thailand than in Greece and the United States](rme-effect-varies-by-country.md) — related
 - [RME learning has a large positive overall effect on Indonesian students' mathematical literacy (g = 1.031)](rme-large-positive-effect-mathematical-literacy-indonesia.md) — related

@@ -48,7 +48,7 @@ Systematic review per PRISMA searching five databases to May 2025; nine studies 
 ## Related Claims
 - [Gamified mobile microlearning improved written exam scores but not global clinical performance assessments in psychiatry clerkship students](gamified-microlearning-exam-only.md) — a narrower finding that bears on this claim
 - [Empathy and communication interventions show short-term gains but evidence on persistence over time is inconsistent](soft-skills-intervention-gains-not-sustained.md) — a broader claim this one bears on
-- [Study design moderates reported effects: RCTs gave more conservative or mixed results while non-randomized and uncontrolled designs more consistently reported positive effects](design-moderates-ed-tech-effects.md) — related
+- Study design moderates reported effects: RCTs gave more conservative or mixed results while non-randomized and uncontrolled designs more consistently reported positive effects — related
 - [Virtual patient simulations show mixed effects: improved diagnostic accuracy in one trial, no advantage over video teaching in another, and short-lived knowledge gains](virtual-patients-mixed-psychiatry.md) — related
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related
 - [Evidence on long-term retention and transfer of clinical communication skills to clinical practice remained inconsistent or lacking across included reviews](vp-communication-long-term-retention-transfer-inconsistent.md) — a broader claim this one bears on

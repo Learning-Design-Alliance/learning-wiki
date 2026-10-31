@@ -45,5 +45,5 @@ Scoping review finding about the seven included studies: although one applied th
 
 
 ## Related Claims
-- [Reported implementation determinants for e-learning on infection management in primary care map mainly to the CFIR Innovation and Individuals domains](organizational-process-determinants-underreported-e-learning-primary-care.md) — related
+- Reported implementation determinants for e-learning on infection management in primary care map mainly to the CFIR Innovation and Individuals domains — related
 - [In bottom-quartile schools the School Improvement Plan is largely not implemented, with most teachers negative or mixed](bottom-quartile-schools-sip-not-implemented.md) — related

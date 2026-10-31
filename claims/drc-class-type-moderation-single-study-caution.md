@@ -49,5 +49,5 @@ Fully conditional HLM model testing classroom type (0 = general education, 1 = s
 - [Neither age nor gender significantly moderated DRC treatment effects, though subgroup samples were small](drc-age-gender-no-moderation.md) — related
 - [In single-case DRC data, after reversal students showed faster change from baseline to intervention, and goal type (on-task versus disruptive) did not differentially affect outcomes](drc-hlm-order-and-goal-type-effects.md) — related
 - [Home-school communication was not significantly related to DRC outcomes for students with ADHD, contrary to a prior meta-analysis](drc-home-school-communication-null-moderation.md) — related
-- [Higher study quality is associated with greater behavioral gains from the DRC in students with ADHD](drc-study-quality-moderates-gains.md) — related
+- Higher study quality is associated with greater behavioral gains from the DRC in students with ADHD — related
 - [Non-overlap-based effect sizes averaging 0.59 to 0.94 support the DRC as a moderate- to highly-effective stand-alone intervention for students with ADHD](drc-nonoverlap-effect-sizes-059-to-094.md) — related

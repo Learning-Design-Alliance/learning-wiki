@@ -13,7 +13,7 @@ generated:
 # Flipped Classroom
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 22 claims (10 for, 11 mixed, 1 against) · 12 studies (7 quant-synthesis, 2 causal, 2 review, 1 design), `q2`–`q4` · 5 of 12 report an effect size · 21 claims rest on one study
+> **Evidence** · 19 claims (9 for, 9 mixed, 1 against) · 12 studies (7 quant-synthesis, 2 causal, 2 review, 1 design), `q2`–`q4` · 5 of 12 report an effect size · 18 claims rest on one study
 
 ## Description
 Flipped classroom is the element in which initial content exposure happens before class so in-class time can focus on application and feedback.
@@ -38,11 +38,8 @@ Flipped classroom is the element in which initial content exposure happens befor
 - [Testing student preparation is associated with slightly higher learning gains in flipped classroom implementations](../claims/test-of-preparation-moderates-flipped-learning.md) [+W]
 - [STEM education with 7E instruction, flipped learning, problem-based learning or technology-enhanced learning showed no significant effect on learning achievement](../claims/seitla-nonsignificant-approaches.md) [-W]
 - [Smaller, underpowered studies report larger flipped classroom effect sizes, indicating small-study and publication bias](../claims/small-study-bias-inflates-flipped-classroom-effects.md) [~W]
-- [Included flipped classroom studies show substantial heterogeneity, requiring a random-effects model](../claims/flipped-classroom-meta-analysis-high-heterogeneity.md) [~W]
 - [Within the cognitive domain, flipped classrooms show the largest effects on understanding and achievement and a negative effect on evaluation](../claims/flipped-classroom-cognitive-suboutcome-effect-sizes.md) [+W]
 - [Flipped classrooms are associated with improved self-directed learning ability in medical education (pooled SMD = 2.54), but extreme heterogeneity precludes interpreting this as a uniform effect](../claims/flipped-classroom-self-directed-learning-ability.md) [~W]
-- [Publication year significantly moderates flipped classroom effect sizes in meta-regression](../claims/flipped-classroom-effect-sizes-publication-year-moderation.md) [~W]
-- [No evidence of publication bias was found in the flipped classroom literature, though dissertations showed a larger (non-significantly different) effect size than journal articles](../claims/flipped-classroom-no-publication-bias.md) [+W]
 - [Gamified flipped classroom/animation knowledge effects are inconclusive due to few studies and extreme heterogeneity](../claims/gamified-flipped-classroom-inconclusive-knowledge.md) [~W]
 - [Effect sizes do not differ significantly between selected-student and whole-class applications, with class-based applications slightly higher (g = 1.253 vs 1.245)](../claims/no-significant-difference-by-application-type.md) [~W]
 - [A blended flipped classroom produced statistically significantly higher post-test scores than traditional teaching in one included histology study (p < 0.0001)](../claims/blended-flipped-classroom-higher-posttest-scores.md) [+W]

@@ -46,5 +46,5 @@ Meta-analysis of 13 studies (2008–2015) meeting criteria of quasi-experimental
 
 ## Related Claims
 - [MALL effectiveness shows no pattern restricted to a particular age group of learners](mall-effective-irrespective-of-age-group.md) — a narrower finding that bears on this claim
-- [MALL research to 2015 concentrates on vocabulary learning, SMS delivery, and sophomore university learners](mall-research-landscape-vocabulary-sms-sophomores.md) — related
+- MALL research to 2015 concentrates on vocabulary learning, SMS delivery, and sophomore university learners — related
 - [MALL effect sizes show no visible correlation with grade level or sample size](mall-effect-independent-of-grade-and-sample-size.md) — related

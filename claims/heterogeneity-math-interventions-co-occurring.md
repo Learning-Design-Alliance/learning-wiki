@@ -56,7 +56,7 @@ Heterogeneity assessment in the CHE meta-analysis of 60 effect sizes nested in n
 - [Meta-analytic evidence on GenAI and critical thinking shows a positive mean association with a prediction interval spanning harm to benefit](genai-critical-thinking-metaanalysis-heterogeneity.md) — related
 - [Mathematics interventions produce a positive overall mean effect on mathematical outcomes for students with co-occurring mathematics and reading difficulties compared to business-as-usual control](math-interventions-positive-effect-co-occurring-md-rd.md) — related
 - [Effects of the 5E model on science outcomes are highly heterogeneous, with a 95% prediction interval spanning −0.38 to 1.92](5e-science-effect-heterogeneity.md) — a narrower finding that bears on this claim
-- [Included flipped classroom studies show substantial heterogeneity, requiring a random-effects model](flipped-classroom-meta-analysis-high-heterogeneity.md) — related
+- Included flipped classroom studies show substantial heterogeneity, requiring a random-effects model — related
 - [Effect size estimates for hands-on science interventions are highly heterogeneous across studies](hands-on-effect-sizes-high-heterogeneity.md) — a narrower finding that bears on this claim
 - [Individual study effect sizes range from negative to very strong, with one study showing no effect](study-level-effect-sizes-range-including-null.md) — a narrower finding that bears on this claim
 - [Heterogeneity across flipped-classroom studies was consistently high (I² > 90%) and was largely not explained by prespecified subgroup analyses, indicating context-dependent effects](flipped-classroom-high-heterogeneity-context-dependent.md) — a narrower finding that bears on this claim

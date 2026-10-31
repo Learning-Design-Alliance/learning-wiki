@@ -17,7 +17,7 @@ sources:
 # Prioritize research on treatment numbers, supervisor type and ratio, magnification access, and innovative teaching methods in undergraduate endodontic education
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (7 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 7 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 The review sets out unanswered educational questions for future work: whether "innovative approaches such as 3D printed models, mobile apps or teaching methodologies improve clinical outcomes"; how many treatments students perform before graduation and whether this suffices for competence and self‐efficacy; the impact of supervisor type and the ideal supervisor‐to‐student ratio; and what infrastructure, including magnification, students use. It treats these as the levers for shaping endodontic education.
@@ -41,7 +41,6 @@ The review sets out unanswered educational questions for future work: whether "i
 
 - [Students report more confidence and less anxiety when supervised by clinicians experienced in endodontics (review‐attributed)](../claims/endodontic-supervisor-expertise-student-confidence.md) [+W]
 - [Student clinic success rates do not differ significantly from those reported for experienced clinicians and residents](../claims/student-outcomes-comparable-specialist-practice.md) [+W]
-- [Only 4 of 11 studies (36.4%) of student root canal treatment had low risk of bias](../claims/student-rct-evidence-low-risk-bias-minority.md) [+W]
 - [Pooled risk difference across 11 student‐clinic studies is 0.43 but with considerable heterogeneity (I² = 93%)](../claims/student-rct-pooled-risk-difference-heterogeneous.md) [+W]
 - [Student root canal treatment success is lower in teeth with preoperative periapical radiolucencies (56.3%) than without (86.8%)](../claims/student-rct-preoperative-radiolucency-success.md) [+W]
 - [Anterior and pre‐molar teeth show higher student treatment success rates (82.2% and 79.4%) than molars (68.7%)](../claims/student-rct-tooth-type-success-gradient.md) [+W]

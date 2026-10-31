@@ -49,7 +49,7 @@ Random-effects meta-analysis of 33 experimental and quasi-experimental studies o
 - [Evidence-based learning, blended learning and computer-based learning combined with STEM showed large significant effects on learning achievement](seitla-evidence-blended-computer-large-effects.md) — a narrower finding that bears on this claim
 - [Project-based learning was the most frequently studied SEITLA approach but showed a modest significant effect (g = 0.44)](seitla-project-based-modest-effect.md) — a narrower finding that bears on this claim
 - [STEM education with 7E instruction, flipped learning, problem-based learning or technology-enhanced learning showed no significant effect on learning achievement](seitla-nonsignificant-approaches.md) — a narrower finding that bears on this claim
-- [Fail-safe analyses indicate the meta-analysis findings are not attributable to publication bias](seitla-no-publication-bias-failsafe.md) — related
+- Fail-safe analyses indicate the meta-analysis findings are not attributable to publication bias — related
 - [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](ai-instruction-stem-moderate-positive-effect.md) — related
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — related
 - [The constructivist learning approach has a strong positive overall effect on students' academic achievement compared to traditional teaching methods (ES = 1.156).](constructivist-approach-overall-effect-achievement.md) — related

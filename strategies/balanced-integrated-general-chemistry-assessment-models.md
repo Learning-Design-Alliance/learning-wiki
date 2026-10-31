@@ -17,7 +17,7 @@ sources:
 # Design balanced, integrated assessment models that combine theoretical and laboratory learning and incorporate both formative and summative dimensions supported by technology
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 2 studies (1 review, 1 associational), `q2`–`q3` · 0 of 2 report an effect size · 5 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (1 review, 1 associational), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 This strategy addresses the review's headline gap: because research concentrates on theory-only and formative-only assessment, the authors recommend designing assessments that integrate theoretical and laboratory contexts and pair formative feedback with summative evaluation. They write that "more attention is needed from researchers to develop more holistic and balanced assessments, by integrating formative and summative aspects effectively," and that future studies should explore comprehensive assessment models "supported by technological innovations". The strategy targets educators, researchers and policy makers designing assessment for general chemistry courses.
@@ -41,8 +41,6 @@ This strategy addresses the review's headline gap: because research concentrates
 ## Claims
 
 - [Participation in paired online laboratory formative assessments is associated with higher summative attainment](../claims/formative-lab-participation-higher-summative-attainment.md) [+W]
-- [Assessment research in undergraduate general chemistry focuses predominantly on theoretical learning rather than laboratory assessment or integration of both](../claims/general-chemistry-assessment-research-theory-dominant.md) [+W]
-- [Formative assessment dominates the general chemistry assessment literature while summative assessment and combined formative–summative approaches remain underrepresented](../claims/general-chemistry-formative-dominates-summative-limited.md) [+W]
 - [Technology-based assessment innovations, including digital question banks, machine learning-assisted systems, LMS-based assessments and game-based quizzes, are increasingly adopted in general chemistry assessment](../claims/digital-assessment-innovation-trend-general-chemistry.md) [+W]
 - [Students who used EVS only for summative assessment reported lower learning benefits and higher challenges than students who used it formatively or in combination](../claims/evs-summative-use-negative-impact.md) [+W]
 

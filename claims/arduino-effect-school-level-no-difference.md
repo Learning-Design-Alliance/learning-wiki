@@ -47,7 +47,7 @@ Meta-ANOVA across school levels: elementary 0.574 (18 studies), middle 0.807 (12
 ## Related Claims
 - [Arduino-based education in Korean primary and secondary schools has a medium overall average effect size of 0.656](arduino-education-medium-overall-effect.md) — related
 - [Effect sizes of Arduino-based education do not differ statistically between gifted and general classes](arduino-effect-giftedness-no-difference.md) — related
-- [Effect sizes of Arduino-based education are statistically larger in academic papers than in dissertations](arduino-effect-publication-status-difference.md) — related
+- Effect sizes of Arduino-based education are statistically larger in academic papers than in dissertations — related
 - [Effect sizes of Arduino-based education do not differ statistically between formal and non-formal curriculum settings](arduino-effect-curriculum-no-difference.md) — related
 - [Effect sizes of Arduino-based education are statistically larger for textual than for visual programming language](arduino-effect-textual-language-larger.md) — related
 - [Meta-regression finds number of students, but not publication year or number of sessions, significantly related to Arduino education effect size](arduino-meta-regression-students-significant.md) — related

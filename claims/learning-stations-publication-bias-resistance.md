@@ -45,13 +45,13 @@ Publication-bias assessment using the Funnel Scatter Graph, Crop and Fill, and F
 
 
 ## Related Claims
-- [Fail-safe N analyses (Rosenthal N = 902.2; Orwin N = 140.0) indicate the meta-analytic result is robust to unpublished conflicting studies](came-fail-safe-n-robustness.md) — related
-- [Fail-safe analyses indicate the meta-analysis findings are not attributable to publication bias](seitla-no-publication-bias-failsafe.md) — related
+- Fail-safe N analyses (Rosenthal N = 902.2; Orwin N = 140.0) indicate the meta-analytic result is robust to unpublished conflicting studies — related
+- Fail-safe analyses indicate the meta-analysis findings are not attributable to publication bias — related
 - [The pooled effect of multiple intelligence practices is resistant to publication bias](mi-effect-resistant-publication-bias.md) — related
-- [Publication bias tests give mixed evidence: Egger's test indicates bias, but fail-safe N calculations lead the authors to conclude no publication bias](publication-bias-mixed-egger-failsafe.md) — related
+- Publication bias tests give mixed evidence: Egger's test indicates bias, but fail-safe N calculations lead the authors to conclude no publication bias — related
 - [The digital story meta-analysis is resistant to publication bias by fail-safe N and trim-and-fill tests](digital-story-meta-analysis-resistant-publication-bias.md) — related
-- [Publication bias checks (funnel plot and Orwin's Fail-Safe N = 3182) found no evidence of bias in the meta-analysis](no-publication-bias-fail-safe-n-3182.md) — related
-- [The meta-analytic result is robust to publication bias, with a fail-safe number of 33,896.6 null studies needed to nullify the observed effect](cbt-meta-analysis-fail-safe-number-publication-bias.md) — related
-- [The meta-analysis is resistant to publication bias by Rosenthal's fail-safe N criterion](rme-meta-analysis-publication-bias-resistant.md) — related
-- [Fail-safe N analyses indicate the pooled effect is resistant to publication bias (Rosenthal FSN = 2139; Orwin FSN = 1048)](fsn-resistance-publication-bias-cre-meta-analysis.md) — related
-- [The meta-analysis results are resistant to publication bias, per fail-safe N of 1791](game-math-meta-resistant-to-publication-bias.md) — related
+- Publication bias checks (funnel plot and Orwin's Fail-Safe N = 3182) found no evidence of bias in the meta-analysis — related
+- The meta-analytic result is robust to publication bias, with a fail-safe number of 33,896.6 null studies needed to nullify the observed effect — related
+- The meta-analysis is resistant to publication bias by Rosenthal's fail-safe N criterion — related
+- Fail-safe N analyses indicate the pooled effect is resistant to publication bias (Rosenthal FSN = 2139; Orwin FSN = 1048) — related
+- The meta-analysis results are resistant to publication bias, per fail-safe N of 1791 — related

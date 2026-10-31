@@ -59,6 +59,6 @@ Random-effects meta-analysis reporting heterogeneity statistics: I2 ranges from 
 - [Effect sizes of technology-delivered literacy instruction are heterogeneous across studies (Q = 165.38, I2 = 68.56)](tech-literacy-effect-heterogeneity.md) — related
 - [Effects of the 5E model on science outcomes are highly heterogeneous, with a 95% prediction interval spanning −0.38 to 1.92](5e-science-effect-heterogeneity.md) — a narrower finding that bears on this claim
 - [Effect size estimates for hands-on science interventions are highly heterogeneous across studies](hands-on-effect-sizes-high-heterogeneity.md) — a narrower finding that bears on this claim
-- [The dissertations in the STEM meta-analysis show very high heterogeneity (I2 = 92.765%)](stem-dissertations-high-heterogeneity.md) — related
+- The dissertations in the STEM meta-analysis show very high heterogeneity (I2 = 92.765%) — related
 - [Across all 58 effect sizes, STEM practices showed positive effects in 56 comparisons and negative effects in 2](stem-practices-56-of-58-positive-effect-sizes.md) — related
 - [Individual study effect sizes range from negative to very strong, with one study showing no effect](study-level-effect-sizes-range-including-null.md) — a narrower finding that bears on this claim

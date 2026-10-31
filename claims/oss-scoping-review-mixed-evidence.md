@@ -45,7 +45,7 @@ Scoping review following the Arksey and O'Malley framework refined by JBI, searc
 
 
 ## Related Claims
-- [The reviewed evidence base comprises 15 studies (N=645) with heterogeneous designs, predominantly text-based, GPT-model virtual patients](genai-vp-evidence-base-15-studies-characteristics.md) — related
-- [The 41 included IPE studies were heterogeneous in design, scale, and professions, with no randomized controlled trials](ipe-review-study-heterogeneity.md) — related
+- The reviewed evidence base comprises 15 studies (N=645) with heterogeneous designs, predominantly text-based, GPT-model virtual patients — related
+- The 41 included IPE studies were heterogeneous in design, scale, and professions, with no randomized controlled trials — related
 - [Effects on the ATOP scale were inconsistent across the three studies that used it](oss-atop-inconsistent-across-studies.md) — possibly the same claim (merge candidate)
 - [Included studies acknowledge OSS cannot fully reproduce the lived experience of people with obesity](oss-cannot-replicate-lived-experience.md) — a narrower finding that bears on this claim

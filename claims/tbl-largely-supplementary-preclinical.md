@@ -47,6 +47,6 @@ The review's synthesis of 37 studies reports that TBL is "largely supplementary"
 
 ## Related Claims
 - [Individual readiness assurance tests (i-RATs) in pre-clinical TBL are almost universally MCQ-based, mostly closed-book, typically 5 to 30 items lasting 10 to 30 minutes](irat-mcq-closed-book-5-30-items.md) — related
-- [Pre-clinical TBL research is dominated by first-year, in-person implementations, with most studies using classical rather than modified TBL](tbl-preclinical-implementation-profile-37-studies.md) — related
+- Pre-clinical TBL research is dominated by first-year, in-person implementations, with most studies using classical rather than modified TBL — related
 - [Student perceptions of pre-clinical TBL are generally favourable, but peer feedback is sometimes met with hesitation](tbl-student-perceptions-favourable-peer-feedback-hesitation.md) — related
-- [Reporting of the 4S framework in application design and of peer evaluation is limited: only 3 of 37 studies used 4S principles and about one-third reported peer evaluation](4s-framework-and-peer-evaluation-underreported.md) — related
+- Reporting of the 4S framework in application design and of peer evaluation is limited: only 3 of 37 studies used 4S principles and about one-third reported peer evaluation — related

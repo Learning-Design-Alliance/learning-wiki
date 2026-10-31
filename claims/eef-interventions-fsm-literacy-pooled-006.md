@@ -45,7 +45,7 @@ IPD meta-analysis of 81 EEF trials (90,218 FSM pupils) using Bayesian multilevel
 
 
 ## Related Claims
-- [The simplified IPD model produced a greater pooled literacy effect size than two-stage meta-analysis models](sipd-greater-literacy-effect-than-two-stage.md) — related
+- The simplified IPD model produced a greater pooled literacy effect size than two-stage meta-analysis models — related
 - [Small group and one-to-one interventions produced larger literacy gains for FSM pupils than whole class or whole school approaches](small-group-one-to-one-literacy-fsm-largest.md) — a narrower finding that bears on this claim
 - [Literacy benefits for FSM pupils were greatest in Key Stage 1 (ES 0.09) and Key Stage 3 (ES 0.08) and smallest in Key Stages 2 and 4](eef-fsm-literacy-key-stage-pattern.md) — a narrower finding that bears on this claim
 - [EEF interventions showed a small overall narrowing of the literacy attainment gap in favour of FSM pupils, dependent on Key Stage](eef-literacy-attainment-gap-fsm-narrowing.md) — related

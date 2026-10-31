@@ -49,4 +49,4 @@ Subgroup meta-analysis of three studies (one quasi-experimental, two RCTs; n = 2
 - [GenAI significantly improves academic writing scores for both clinical medicine and nursing students](genai-improves-academic-writing-scores.md) — related
 - [GenAI does not significantly improve knowledge exam scores of clinical medicine students compared with traditional teaching, with high heterogeneity](genai-no-knowledge-gain-clinical-medicine-students.md) — related
 - [GenAI does not significantly improve clinical skills of clinical medicine students compared with traditional teaching](genai-no-clinical-skill-gain-clinical-medicine-students.md) — related
-- [Single studies drive the null findings for knowledge and clinical skills: removing Bhatia 2024 or Briones-Zamora 2026 restores significance](leave-one-out-single-studies-drive-null-findings.md) — related
+- Single studies drive the null findings for knowledge and clinical skills: removing Bhatia 2024 or Briones-Zamora 2026 restores significance — related

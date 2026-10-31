@@ -5,6 +5,26 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-10-31 — the ingest's citation gate re-read the whole wiki for every page it wrote
+
+- **Found by profiling, not guessing.** j-scrsyn-3's `ingest_extractions.py` ran 105 minutes at 99% CPU.
+  Stack samples (`py-spy dump`, a dozen, seconds apart) put nearly all of it in
+  `check_citations.load_all_citations`, which `enrich.verify_page_citations` calls four times for every
+  page written, each call reading and regex-parsing all ~50,000 content pages.
+- **`load_all_citations` now caches each page's parsed citations**, keyed on the file's mtime, size and
+  inode, and re-reads only pages that changed; it lists folders with `os.scandir`. It still reflects the
+  files as they are on every call, and returns fresh dicts so a caller's edits cannot reach the next
+  caller. Tested against the old function on the live tree (85,391 citations, 7,309 keys), after a
+  caller mutates the result, and after a page is edited, added and removed: identical. Per written page
+  the gate went from 15–18 s to 2 s; no check was removed or weakened.
+- **The sweep's restarts were idle reclamation**, about an hour after the session's keep-alive ran out
+  (15 of 22 resumes since 2026-10-26 came 60–75 minutes after the session went quiet). The check-in now
+  replaces the keep-alive every hour; j-scrsyn-3 was the first batch since 2026-10-30 with no restart
+  (3.4 h, against 5.5 h for j-scrsyn-2 with two). A bare `git fetch origin` pulled every remote branch
+  into a 5.8 GB pack and left 4 GB of disk: fetch named branches only, as the session rules say.
+- **224 of j-scrsyn-3's 493 new claims were research practice** (publication bias, heterogeneity,
+  study counts in a review), removed on both sort models' agreement under the 2026-10-16 rule.
+
 ## 2026-10-30 — journal sweep complete; post-sweep health pass
 
 - **The sweep is done.** 15 journal queues, batches of 80, ending with Computers & Education (j-ce-1 to

@@ -46,6 +46,6 @@ Sensitivity analysis using the FAT-PET-PEESE meta-regression correction method, 
 
 ## Related Claims
 - [Interventions providing more than 15 total hours significantly moderate mathematics outcomes for students with MD in grades 4–12](more-than-15-hours-moderates-math-outcomes.md) — related
-- [Publication bias is present in the mathematics intervention literature for grades 4–12, with adjusted estimates lower than the unadjusted random-effects estimate](publication-bias-math-intervention-meta-analysis.md) — related
+- Publication bias is present in the mathematics intervention literature for grades 4–12, with adjusted estimates lower than the unadjusted random-effects estimate — related
 - [Remediating mathematics difficulty for older students appears more challenging than for younger students, with lower adjusted effects than prior elementary-focused reviews](older-students-remediation-more-challenging.md) — related
 - [Mathematics interventions for students with mathematics difficulty in grades 4–12 show a statistically significant pooled treatment effect of 0.85 under a random-effects model](math-interventions-grades-4-12-rve-effect-085.md) — related

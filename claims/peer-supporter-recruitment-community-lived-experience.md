@@ -66,5 +66,5 @@ Synthesis of peer characteristics across the included trials; the review states 
 ## Related Claims
 - [Peer supporter training duration ranged from a few hours to 192 hours, was most often in person, and intensive six-week training led all recruited peers to resign in one trial](peer-supporter-training-duration-and-burden.md) — related
 - [Peer supporter supervision was most often weekly and consisted of reviewing fidelity ratings and discussing problems, with supervisors including experienced peers, clinicians, and research staff](peer-supporter-supervision-fidelity-review.md) — related
-- [Implementation reporting in peer support RCTs is substantially incomplete, with 29% to 67% missing data per implementation component](peer-support-implementation-missing-data.md) — a broader claim this one bears on
+- Implementation reporting in peer support RCTs is substantially incomplete, with 29% to 67% missing data per implementation component — a broader claim this one bears on
 - [Sharing lived experience of recovery was more frequently included in non-United States-based peer support trials than in United States-based trials](sharing-lived-experience-more-frequent-non-us-trials.md) — related

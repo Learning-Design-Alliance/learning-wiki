@@ -49,6 +49,6 @@ RCT of 120 medical and nursing students comparing VR with live simulation, asses
 
 ## Related Claims
 - [Immersive VR simulation is noninferior to live simulation for developing teamwork and communication skills](vr-noninferior-to-live-simulation-teamwork-communication.md) — related
-- [Only 16 of 36 studies assessed BLS knowledge retention over time, with follow-ups generally between 1 and 6 months and only two exceeding 1 year](bls-knowledge-retention-rarely-assessed.md) — a broader claim this one bears on
+- Only 16 of 36 studies assessed BLS knowledge retention over time, with follow-ups generally between 1 and 6 months and only two exceeding 1 year — a broader claim this one bears on
 - [Exploratory 3-month follow-up suggested a sleeper effect on parent-rated empathy, but no maintained gains in other outcomes](zirkus-empathico-followup-sleeper-empathy.md) — related
 - [Cognitive training gains are maintained or further enhanced at two-month follow-up](act-cognitive-gains-sustained-follow-up.md) — related

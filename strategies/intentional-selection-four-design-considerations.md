@@ -17,7 +17,7 @@ sources:
 # Select technology-based learning elements intentionally across four design considerations, chosen to align with stakeholders and learning theory
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The review's concluding recommendation is that among the heterogeneity of teaching strategies, educators should work with four prominent design considerations: "selecting online versus face-to-face learning tasks, optimising multimedia design, ensuring there is clinical skill practice and enabling high-quality interaction with educators and peers". These elements should be chosen intentionally to align with students, educators and stroke survivors, and based on theories and models of teaching and learning. In rural contexts, solutions may need to account for resource challenges such as technology infrastructure and stroke clinical expertise.
@@ -42,7 +42,6 @@ The review's concluding recommendation is that among the heterogeneity of teachi
 
 ## Claims
 
-- [A scoping review identified 48 studies of technology-based teaching for health students' stroke clinical skills, most published recently and of lower methodological quality](../claims/48-studies-tech-teaching-stroke-skills-review.md) [+W]
 - [Face-to-face learning enabled direct educator feedback and skill practice, and one online clinical tool showed less value in clinical placement than classroom use](../claims/face-to-face-benefits-placement-integration.md) [~W]
 - [Performance feedback supported skill accuracy and was equally effective when provided by an educator as by automated means in a virtual simulation](../claims/feedback-educator-versus-automated-equally-effective.md) [+W]
 - [Content analysis identified four facilitatory features of technology-based teaching: delivery mode, multimedia design, clinical skill practice, and interaction or feedback](../claims/four-facilitatory-features-tech-stroke-teaching.md) [+W]

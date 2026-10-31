@@ -65,4 +65,4 @@ The review reports from the included study by Mantaring et al. (2023) that stude
 
 ## Related Claims
 - [Thirty studies described digital learning tools with digital microscopy integrated, used by educators for teaching and by students for independent study](digital-microscopy-tools-dual-use-educators-students.md) — related
-- [Research output on digital histology and pathology teaching increased steadily from 2013 to 2024, with first-year medical students the most frequently studied group](publication-trends-first-year-students-most-studied.md) — related
+- Research output on digital histology and pathology teaching increased steadily from 2013 to 2024, with first-year medical students the most frequently studied group — related

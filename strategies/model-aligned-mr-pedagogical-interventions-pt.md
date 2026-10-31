@@ -17,7 +17,7 @@ sources:
 # Design future pedagogical interventions aligned with the integrative model: case discussions requiring epistemological/ontological reflection, debriefings stimulating emotional and psychomotor awareness, and triangulated multi-dimensional assessment
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The review proposes directions for targeted pedagogical interventions grounded in its integrative model. The article recommends "integrating case-based discussions that explicitly require epistemological or ontological reflection, simulation debriefings that stimulate emotional and psychomotor awareness; or multi-dimensional assessment with triangulation of data sources (e.g., written reflections, clinical observations, verbal reasoning during simulations)". It further suggests future studies examine how training programs can align with the model and how evaluation tools might capture not only the presence of MR but its quality, depth, and contextual sensitivity.
@@ -49,7 +49,6 @@ The review proposes directions for targeted pedagogical interventions grounded i
 - [Metacognitive regulation in PT clinical reasoning is relational and often co-constructed in interaction with the self, patient, family, professionals and peers](../claims/mr-relational-interactive-co-constructed.md) [+W]
 - [MR timing codes fit the literature except pre-task timing (underrepresented at 14%), and tasks are dominated by global management (60%) and cognitive (44%)](../claims/mr-timing-task-distribution-pt-review.md) [+W]
 - [Metacognitive regulation in PT clinical reasoning fits Johnson's three types (self-observation, self-judgment, self-reaction), with all types represented in 58–75% of included articles](../claims/mr-types-fit-johnson-taxonomy-pt.md) [+W]
-- [A scoping review following JBI and PRISMA-ScR guidelines identified 1,025 documents and analyzed 36 on metacognitive regulation in physical therapy clinical reasoning](../claims/scoping-review-36-mr-pt-clinical-reasoning.md) [+W]
 
 ## Related Strategies
 

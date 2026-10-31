@@ -47,4 +47,4 @@ Moderator analysis of study sample size in the meta-analysis. Removing one influ
 ## Related Claims
 - [Guided notes produce a moderate positive effect on post-secondary student achievement overall](guided-notes-moderate-overall-effect.md) — related
 - [Guided notes benefit achievement more relative to student-generated notes than relative to professor-provided full lecture notes](guided-notes-vs-note-type-moderator.md) — related
-- [RME effects are larger in studies with small samples (30 or fewer) than large samples (31 or more)](rme-effect-moderated-by-sample-size.md) — related
+- RME effects are larger in studies with small samples (30 or fewer) than large samples (31 or more) — related

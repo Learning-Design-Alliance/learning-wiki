@@ -64,7 +64,7 @@ The review reports, citing one included study, that "e-modules with more sophist
 
 
 ## Related Claims
-- [A scoping review identified 48 studies of technology-based teaching for health students' stroke clinical skills, most published recently and of lower methodological quality](48-studies-tech-teaching-stroke-skills-review.md) — a broader claim this one bears on
+- A scoping review identified 48 studies of technology-based teaching for health students' stroke clinical skills, most published recently and of lower methodological quality — a broader claim this one bears on
 - [Content analysis identified four facilitatory features of technology-based teaching: delivery mode, multimedia design, clinical skill practice, and interaction or feedback](four-facilitatory-features-tech-stroke-teaching.md) — a broader claim this one bears on
 - [Emotional design features are implemented inconsistently within and between studies, especially in visual sophistication and anthropomorphic elements](emotional-design-implementation-heterogeneity.md) — related
 - [Visual sophistication of emotional design materials varies substantially and may act as a boundary condition for emotional design effects](design-sophistication-boundary-condition.md) — related

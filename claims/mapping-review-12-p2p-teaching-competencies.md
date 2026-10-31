@@ -46,9 +46,9 @@ Systematic mapping review applying PICOS and PRISMA, reducing search results "fr
 
 
 ## Related Claims
-- [Digital competencies are entirely absent from the P2P-teacher qualification literature, forming a gap](digital-competencies-gap-p2p-teachers.md) — related
+- Digital competencies are entirely absent from the P2P-teacher qualification literature, forming a gap — related
 - [Feedback provision is emphasized more than receiving feedback in P2P-teacher qualification measures](feedback-provision-over-receiving-p2p.md) — a narrower finding that bears on this claim
-- [P2P-teaching qualification research shows weak grounding in learning and teaching theories and low levels of evidence](p2p-research-weak-theory-low-evidence.md) — related
+- P2P-teaching qualification research shows weak grounding in learning and teaching theories and low levels of evidence — related
 - [P2P-teacher trainings integrate medical subject content with teaching skills, sometimes explicitly and sometimes implicitly](p2p-training-integrates-medical-and-teaching-skills.md) — related
 - [The student P2P-competency-profile proves compatible with the CanMEDS and NKLM physician-teaching frameworks](p2p-profile-compatible-canmeds-nklm.md) — related
-- [The reviewed P2P-teacher studies focus on cross-year teaching and rarely on same-year teaching](p2p-studies-cross-year-focus.md) — related
+- The reviewed P2P-teacher studies focus on cross-year teaching and rarely on same-year teaching — related

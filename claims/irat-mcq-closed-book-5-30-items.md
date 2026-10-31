@@ -70,4 +70,4 @@ The same synthesis section reports format parameters: most i-RATs closed-book, "
 - [Students' IRAT scores were consistently poorer than their TRAT scores, suggesting team collaboration benefits team test performance](trat-scores-exceed-irat-scores.md) — related
 - [Both course sections show the same team-over-individual RAT trend despite a significant difference in scores between the sections](rat-section-difference-same-trend.md) — related
 - [Included studies report positive correlations between TBL participation and assessment performance, with i-RAT scores predicting final examination performance](tbl-participation-correlates-assessment-performance.md) — related
-- [Pre-clinical TBL research is dominated by first-year, in-person implementations, with most studies using classical rather than modified TBL](tbl-preclinical-implementation-profile-37-studies.md) — related
+- Pre-clinical TBL research is dominated by first-year, in-person implementations, with most studies using classical rather than modified TBL — related

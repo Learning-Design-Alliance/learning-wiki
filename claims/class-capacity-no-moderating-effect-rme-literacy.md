@@ -45,7 +45,7 @@ Moderator analysis of nine large-class and eight small-class studies using the Q
 
 
 ## Related Claims
-- [RME effects are larger in studies with small samples (30 or fewer) than large samples (31 or more)](rme-effect-moderated-by-sample-size.md) — related
+- RME effects are larger in studies with small samples (30 or fewer) than large samples (31 or more) — related
 - [Effect sizes are highest in medium-sized classes (50–99 students), with class-size differences only marginally significant](ai-effect-medium-class-size-highest.md) — related
 - [Geographical location does not significantly moderate the effect of RME on mathematical literacy](geographic-location-no-moderating-effect-rme-literacy.md) — related
 - [PISA content domain does not significantly moderate the effect of RME on mathematical literacy](pisa-content-no-moderating-effect-rme-literacy.md) — related

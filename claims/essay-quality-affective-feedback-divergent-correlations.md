@@ -53,4 +53,4 @@ Spearman's correlation analysis (Table 2) of essay quality against the affective
 - [Feedback quality provided correlates positively with both EIR recognition and EIR application skills](feedback-quality-correlates-eir-skills.md)
 - [ChatGPT produced more descriptive feedback than peers on argumentative essays](chatgpt-more-descriptive-feedback-than-peers.md) — related
 - [GenAI feedback quality correlates with initial essay quality while teacher feedback quality does not](genai-feedback-quality-tracks-initial-essay-quality.md) — related
-- [Only 17 of 306 feedback studies report the tone of feedback, almost always mixed positive and negative](tone-of-feedback-underreported.md) — related
+- Only 17 of 306 feedback studies report the tone of feedback, almost always mixed positive and negative — related

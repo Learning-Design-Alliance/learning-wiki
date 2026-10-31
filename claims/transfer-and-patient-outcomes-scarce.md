@@ -48,6 +48,6 @@ Review synthesis using Kirkpatrick's framework across 104 studies; the review re
 - [Training on a simple low-fidelity 'choose-the-hole' bench model transferred to real clinical fibreoptic intubation performance in an RCT](choose-the-hole-bench-model-predictive-validity-rct.md) — related
 - [Evidence for technology-enhanced basic robotic skills training is concentrated at Kirkpatrick level 2, with no studies reporting transfer to operative behaviour or patient outcomes](kirkpatrick-level2-only-evidence-base.md) — related
 - [Reviewed peer-tutoring simulation studies mostly reached only Kirkpatrick Level 2, with no assessment of behavior change or clinical-practice results](kirkpatrick-level2-ceiling-peer-tutoring-sbe.md) — related
-- [Outcome evaluation of AI-generated virtual patients in HPE is concentrated at Kirkpatrick level 1, with no studies reporting level 3 or 4 outcomes](ai-virtual-patients-kirkpatrick-level-1-dominant.md) — related
+- Outcome evaluation of AI-generated virtual patients in HPE is concentrated at Kirkpatrick level 1, with no studies reporting level 3 or 4 outcomes — related
 - [Competency-based simulation effects are large for skills measured in the simulation lab but small and non-significant for clinical behaviors and patient outcomes](competency-simulation-large-skill-small-clinical-effects.md) — related
 - [In 18% (3/16) of included simulation studies, positive clinical trends did not reach statistical significance](positive-trends-not-significant-18-percent-simulation-studies.md) — related

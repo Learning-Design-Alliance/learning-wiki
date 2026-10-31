@@ -47,7 +47,7 @@ Qualitative synthesis of a second set of data initially coded as 'other', which 
 
 ## Related Claims
 - [Assessment of metacognitive regulation appears underexploited in physical therapy, with existing methods not adequately capturing tasks-focals interplay or interaction dynamics](mr-assessment-underdeveloped-in-pt.md) — related
-- [A scoping review following JBI and PRISMA-ScR guidelines identified 1,025 documents and analyzed 36 on metacognitive regulation in physical therapy clinical reasoning](scoping-review-36-mr-pt-clinical-reasoning.md) — related
+- A scoping review following JBI and PRISMA-ScR guidelines identified 1,025 documents and analyzed 36 on metacognitive regulation in physical therapy clinical reasoning — related
 - [Script-supported groups mainly engaged in accepted intra-group metacognitive interaction, with co-constructed interaction infrequent and highly variable between groups](accepted-interaction-dominant-co-construction-rare.md) — related
 - [Regulatory sequencing in synchronous CSCL: cognitive interactions initiate cycles, co-regulation iterates with task execution, and SSRL follows socio-emotional interactions](regulation-sequencing-pattern-synchronous-cscl.md) — related
 - [Student-AI interaction in a multi-agent learning environment is organized into two significant engagement patterns: co-construction of knowledge and co-regulation](multi-agent-two-engagement-patterns-co-construction-co-regulation.md) — related

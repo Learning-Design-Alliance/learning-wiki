@@ -46,7 +46,7 @@ Synthesis of measurement properties across the 6 included instruments. The revie
 
 ## Related Claims
 - [There is a lack of standardized, culturally adapted, psychometrically robust assessment tools tailored to postgraduate mental health nursing](lack-standardized-culturally-adapted-postgraduate-mhn-tools.md) — related
-- [A COSMIN-based systematic review identified 6 instruments assessing the ethics of teaching from 246 records](six-instruments-ethics-of-teaching-review.md) — related
+- A COSMIN-based systematic review identified 6 instruments assessing the ethics of teaching from 246 records — related
 - [All 6 instruments received only moderate-quality GRADE evidence due to single-study evidence, limited cross-context validation, and absent temporal stability data](moderate-grade-evidence-ethics-teaching-instruments.md) — related
 - [Instruments show great heterogeneity in measurement quality, with validity or reliability information lacking in many cases](heterogeneous-measurement-quality-teacher-competence-instruments.md) — related
 - [Included ethics-of-teaching instruments show acceptable-to-excellent internal consistency (Cronbach's α=0.74–0.97) and supported structural validity](ethics-teaching-instruments-internal-consistency-structural-validity.md) — related

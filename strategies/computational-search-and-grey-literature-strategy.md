@@ -17,7 +17,7 @@ sources:
 # Computational search methods plus grey literature retrieval to identify early grade reading evidence and minimize publication bias
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The review's search strategy combines four primary search methods (pre-defined databases, journals and development organizations; development-focused databases; LAC regional databases and websites; bibliography review) with computational document identification. The authors state that "topic modeling, information retrieval and clustering, and search term strategies widely used in library science and bibliometrics" flag potentially relevant studies for expert screening. Grey literature is identified through Google Scholar and expert surveys to minimize publication bias.
@@ -38,7 +38,6 @@ The review's search strategy combines four primary search methods (pre-defined d
 
 ## Claims
 
-- [The first search for early grade reading evidence in the LAC region identified 7080 potentially relevant studies, narrowed to 1,203 abstracts for expert review](../claims/lac-reading-review-search-7080-studies.md) [+W]
 
 ## Related Strategies
 

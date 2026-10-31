@@ -67,7 +67,7 @@ Publication-type and lesson-type moderator analyses of attitude effect sizes: na
 - [Educational level does not significantly moderate the effect of constructivism on attitudes towards lessons](education-level-not-significant-moderator-constructivism-attitudes.md) — related
 - [The effect of multiple intelligence practices does not differ significantly by instructional level](mi-effect-no-difference-instructional-level.md) — related
 - [Effect sizes differ significantly by educational level, with the highest effect at university level (ES = 2.254) and the lowest at primary level (ES = 0.936).](moderator-educational-level-effect.md) — related
-- [Effect sizes differ significantly by publication type, with master's theses and articles showing higher effects than PhD theses.](moderator-publication-type-effect.md) — related
+- Effect sizes differ significantly by publication type, with master's theses and articles showing higher effects than PhD theses. — related
 - [Academic achievement effects of STEM practices differ significantly by publication type and education level but not by lesson type](stem-achievement-moderators-publication-type-education-level.md) — related
 - [Scientific process skills effects of STEM practices differ significantly by lesson type and education level, favoring science and math lessons and basic-education and higher-education students](stem-sps-moderators-lesson-type-education-level.md) — related
 - [Type of publication does not significantly moderate the effect of constructivism on attitudes towards lessons](publication-type-not-significant-moderator-constructivism-attitudes.md) — related

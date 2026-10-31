@@ -46,6 +46,6 @@ Narrative review attribution to an included South African multi-school study [48
 
 ## Related Claims
 - [Evidence on clinical teaching models is concentrated in high-income settings: most included studies were conducted in the United States and none originated from Africa](clinical-teaching-models-us-concentration.md) — related
-- [Most EPA research targets postgraduate programmes in single-centre USA settings, with Asia, Africa and South America underrepresented](epa-research-pgme-usa-dominance-underrepresented-regions.md) — related
-- [Paediatric SBE research is geographically concentrated in high- and upper-middle-income regions, with no studies from the Middle East/North Africa region in the specified timeframe](mena-afro-gap-paediatric-sbe-research.md) — related
-- [Evidence on public health competency assessment is concentrated in high-income countries, with no studies from Latin America or Africa](geographic-concentration-high-income-countries-ph-competency-assessment.md) — related
+- Most EPA research targets postgraduate programmes in single-centre USA settings, with Asia, Africa and South America underrepresented — related
+- Paediatric SBE research is geographically concentrated in high- and upper-middle-income regions, with no studies from the Middle East/North Africa region in the specified timeframe — related
+- Evidence on public health competency assessment is concentrated in high-income countries, with no studies from Latin America or Africa — related

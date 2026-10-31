@@ -45,7 +45,7 @@ Homogeneity test across the 81 comparisons in the meta-analysis. The article rep
 
 
 ## Related Claims
-- [Effect sizes across primary studies are highly heterogeneous (Q = 283.659, I² = 77%), justifying the random-effects model](heterogeneity-i2-77-percent-random-effects.md) — related
+- Effect sizes across primary studies are highly heterogeneous (Q = 283.659, I² = 77%), justifying the random-effects model — related
 - [Effect sizes across the included studies are highly heterogeneous (I² = 91.37%), indicating moderating factors](high-heterogeneity-innovative-models-critical-thinking.md) — related
-- [Individual studies of digital story effects are highly heterogeneous, requiring a random effects model](digital-story-studies-heterogeneous-random-effects.md) — related
-- [Effect size distributions across AR-in-education studies were heterogeneous (Q=35.692, I²=60.776%), requiring a random effects model](ar-meta-analysis-heterogeneity-random-effects.md) — related
+- Individual studies of digital story effects are highly heterogeneous, requiring a random effects model — related
+- Effect size distributions across AR-in-education studies were heterogeneous (Q=35.692, I²=60.776%), requiring a random effects model — related

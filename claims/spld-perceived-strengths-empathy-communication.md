@@ -46,6 +46,6 @@ Review synthesis of qualitative studies; the authors caution these findings "sho
 
 
 ## Related Claims
-- [Empathy is the most frequently studied soft skill in medical education literature (22 of 83 included studies)](empathy-most-frequent-soft-skill-focus-medical-education.md) — related
+- Empathy is the most frequently studied soft skill in medical education literature (22 of 83 included studies) — related
 - [Medical students with SpLDs report persistent academic, emotional, and social challenges including reading and writing difficulties, time pressure, anxiety, and isolation](spld-qualitative-challenges-emotional-burden.md) — related
 - [Prevalence of SpLDs among medical students averages 5.5%, ranging from 2% to 11.5% across studies](spld-prevalence-medical-students-5-5-percent.md) — related

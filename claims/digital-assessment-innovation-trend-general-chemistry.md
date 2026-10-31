@@ -69,5 +69,5 @@ The review reports, citing the included study by Yik et al. (2021) on a machine 
 - [Educational game adoption is hindered along socio-cultural, educational, and technological dimensions, including social rejection, limited accessibility to games and technology, and high development costs.](barriers-to-educational-games-three-dimensions.md) — related
 - [Compatibility and relative advantage strongly enhance perceived innovation attributes of AI technologies](compatibility-relative-advantage-enhance-innovation-attributes.md) — related
 - [Participation in paired online laboratory formative assessments is associated with higher summative attainment](formative-lab-participation-higher-summative-attainment.md) — related
-- [Assessment research in undergraduate general chemistry focuses predominantly on theoretical learning rather than laboratory assessment or integration of both](general-chemistry-assessment-research-theory-dominant.md) — related
-- [Formative assessment dominates the general chemistry assessment literature while summative assessment and combined formative–summative approaches remain underrepresented](general-chemistry-formative-dominates-summative-limited.md) — related
+- Assessment research in undergraduate general chemistry focuses predominantly on theoretical learning rather than laboratory assessment or integration of both — related
+- Formative assessment dominates the general chemistry assessment literature while summative assessment and combined formative–summative approaches remain underrepresented — related

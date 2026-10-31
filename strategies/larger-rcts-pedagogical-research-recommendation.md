@@ -17,7 +17,7 @@ sources:
 # Prioritize larger randomized trials in pedagogical research and more representative evaluations across Africa
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The author closes the meta-analysis with recommendations for researchers: because the highest-impact pedagogical evaluations are small and the evidence base is geographically concentrated, future work should use "larger randomized trials, particularly in the field of pedagogical research" and increase the focus on evaluations more representative of the continent and the issues facing African education systems.
@@ -38,7 +38,6 @@ The author closes the meta-analysis with recommendations for researchers: becaus
 
 ## Claims
 
-- [Rigorous evidence on education interventions in Sub-Saharan Africa is unevenly distributed, with over 30% of studies from Kenya alone and relevant topics unstudied](../claims/ssa-evidence-uneven-kenya-concentration.md) [+W]
 
 ## Related Strategies
 

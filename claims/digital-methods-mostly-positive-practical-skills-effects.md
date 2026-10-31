@@ -46,7 +46,7 @@ The review's narrative synthesis across its 292 included studies. It reports tha
 
 
 ## Related Claims
-- [A scoping review identified 292 studies of digital teaching of practical skills, with simulators (n = 65), blended/hybrid formats (n = 55) and VR (n = 48) the most frequent intervention types](292-studies-digital-practical-skills-intervention-distribution.md) — related
+- A scoping review identified 292 studies of digital teaching of practical skills, with simulators (n = 65), blended/hybrid formats (n = 55) and VR (n = 48) the most frequent intervention types — related
 - [VR tools enhance acquisition and retention of clinical and procedural skills but face barriers including cybersickness, limited tactile feedback and variable long-term skill transfer](vr-enhances-practical-skill-acquisition-with-barriers.md) — a narrower finding that bears on this claim
 - [Virtual reality was particularly effective for procedural skill development and knowledge retention in paediatric undergraduate training](vr-effective-procedural-skills-retention.md) — a narrower finding that bears on this claim
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on

@@ -12,7 +12,7 @@ generated:
 # Three-level classification of mechanistic evidence: direct biological, indirect physiological, and inferred mechanistic
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The review proposes a qualitative classification of mechanistic evidence into three levels to improve transparency and limit overinterpretation. It states that "direct biological evidence was defined as evidence derived from objective biological, biochemical, neuroimaging, or neurophysiological measurements", indirect physiological evidence rests on validated proxies such as heart rate variability, and inferred mechanistic evidence proposes a pathway without direct measurement. The classification structures the review's focused mechanistic synthesis.
@@ -22,7 +22,6 @@ The review proposes a qualitative classification of mechanistic evidence into th
 - **Three-level classification of mechanistic evidence: direct biological, indirect physiological, and inferred mechanistic**: The review proposes a qualitative classification of mechanistic evidence into three levels to improve transparency and limit overinterpretation. It states that "direct biological evidence was defined as evidence derived from objective biological, biochemical, neuroimaging, or neurophysiological measurements", indirect physiological evidence rests on validated proxies such as heart rate variability, and inferred mechanistic evidence proposes a pathway without direct measurement. The classification structures the review's focused mechanistic synthesis. (Tafuri Maria Giovanna et al. (2026))
 
 ### Claims
-- [Only a limited subset of student lifestyle-cognition studies include direct biological or psychophysiological measures](../claims/limited-direct-biological-measures-student-studies.md) [+M]
 
 ## Related Research Methods
 -

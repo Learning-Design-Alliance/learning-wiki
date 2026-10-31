@@ -45,7 +45,7 @@ Moderator analysis by educational level (Table 3): primary (33 studies, ES = 0,7
 
 
 ## Related Claims
-- [The 43 studies on constructivism and attitudes are highly heterogeneous (I² = 92.562%), requiring a random effects model](constructivism-attitude-studies-high-heterogeneity.md) — related
+- The 43 studies on constructivism and attitudes are highly heterogeneous (I² = 92.562%), requiring a random effects model — related
 - [Education level does not significantly moderate the effect of formative assessment on student learning](education-level-no-moderation-formative-assessment.md) — related
 - [Type of publication does not significantly moderate the effect of constructivism on attitudes towards lessons](publication-type-not-significant-moderator-constructivism-attitudes.md) — related
 - [Geographical region does not significantly moderate the effect of constructivism on attitudes towards lessons](geographical-region-not-significant-moderator-constructivism-attitudes.md) — related

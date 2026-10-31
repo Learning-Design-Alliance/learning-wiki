@@ -64,9 +64,9 @@ The review's narrative synthesis of included studies reports that direct patient
 
 
 ## Related Claims
-- [Outcome evaluation of AI-generated virtual patients in HPE is concentrated at Kirkpatrick level 1, with no studies reporting level 3 or 4 outcomes](ai-virtual-patients-kirkpatrick-level-1-dominant.md) — related
+- Outcome evaluation of AI-generated virtual patients in HPE is concentrated at Kirkpatrick level 1, with no studies reporting level 3 or 4 outcomes — related
 - [Frequent brief on-site Helping Babies Breathe simulation training was associated with a significant decrease in 24-hour neonatal mortality in a Tanzanian before–after study](hbb-simulation-training-reduced-24h-neonatal-mortality.md) — a narrower finding that bears on this claim
 - [The review suggests current observational evidence may overestimate simulation's impact, since more rigorous cluster-RCTs showed only time-limited mortality reductions or nonsignificant results](observational-evidence-may-overestimate-simulation-impact.md) — related
-- [Single-center simulation studies were more likely to demonstrate significant patient-outcome improvements than multicenter studies](single-center-studies-more-likely-significant-patient-outcomes.md) — related
+- Single-center simulation studies were more likely to demonstrate significant patient-outcome improvements than multicenter studies — related
 - [In 18% (3/16) of included simulation studies, positive clinical trends did not reach statistical significance](positive-trends-not-significant-18-percent-simulation-studies.md) — related
-- [All included simulation-based research studies were judged to have high or critical risk of bias, and only 16 of 2481 screened studies met Level 4 inclusion criteria](high-critical-risk-of-bias-all-level-4-simulation-studies.md) — a narrower finding that bears on this claim
+- All included simulation-based research studies were judged to have high or critical risk of bias, and only 16 of 2481 screened studies met Level 4 inclusion criteria — a narrower finding that bears on this claim

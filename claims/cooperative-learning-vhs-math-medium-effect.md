@@ -49,7 +49,7 @@ Random-effects meta-analysis of 22 quasi-experimental studies (cooperative exper
 - [Cooperative learning is more effective for grade 11 than grade 10 vocational high school mathematics students](cooperative-learning-grade-11-more-effective-than-grade-10.md) — a narrower finding that bears on this claim
 - [Cooperative learning produces a medium, positive, significant effect on mathematics achievement compared with traditional methods (d++ = 0.59)](cooperative-learning-medium-positive-effect-math-achievement.md) — related
 - [Cooperative learning is more effective in classes of 1-30 students than in classes of more than 30 students](cooperative-learning-small-class-size-more-effective.md) — related
-- [The 22 included studies are heterogeneous, requiring a random-effects model](heterogeneity-random-effects-model-vhs-math.md) — related
-- [Estimated cooperative learning efficacy is higher in studies published in SINTA and GARUDA indexed journals (1.04) than in Google Scholar indexed articles or proceedings (0.73)](journal-index-moderator-cooperative-learning-effect.md) — related
-- [No publication bias is detected in the meta-analysis by rank correlation, regression, Fail-Safe N, and Trim and Fill checks](no-publication-bias-cooperative-learning-meta-analysis.md) — related
+- The 22 included studies are heterogeneous, requiring a random-effects model — related
+- Estimated cooperative learning efficacy is higher in studies published in SINTA and GARUDA indexed journals (1.04) than in Google Scholar indexed articles or proceedings (0.73) — related
+- No publication bias is detected in the meta-analysis by rank correlation, regression, Fail-Safe N, and Trim and Fill checks — related
 - [Innovative learning is more effective than conventional learning for junior high school students' mathematical problem-solving ability (summary effect 0.95, 95% CI 0.71–1.19)](innovative-learning-more-effective-problem-solving-meta-analysis.md) — related

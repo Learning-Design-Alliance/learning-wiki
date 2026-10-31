@@ -66,6 +66,6 @@ In the risk-of-bias results, "all kinematic studies were rated doubtful or inade
 
 ## Related Claims
 - [No objective assessment tool for laparoscopic cholecystectomy demonstrates comprehensive validity across all Messick domains, so no gold standard exists](no-gold-standard-lc-skill-assessment-tools.md) — a broader claim this one bears on
-- [Methodological quality of LC assessment-tool studies is moderate (MERSQI median 12.5) and outcomes rarely extend beyond performance-level measures](mersqi-moderate-quality-lc-assessment-studies.md) — a broader claim this one bears on
+- Methodological quality of LC assessment-tool studies is moderate (MERSQI median 12.5) and outcomes rarely extend beyond performance-level measures — a broader claim this one bears on
 - [Manual assessment tools have the largest body of validity evidence in laparoscopic cholecystectomy but show variable reliability and no links to patient outcomes](manual-tools-largest-evidence-base-no-outcomes.md) — related
 - [AI-based assessment systems show strong internal performance and early real-time deployment for critical view of safety detection, but lack external validation and clinical impact evidence](ai-lc-assessment-strong-internal-weak-external.md) — related

@@ -51,7 +51,7 @@ Narrative synthesis in the Discussion contrasting two included reviews' retentio
 
 ## Related Claims
 - [Evidence of transfer from AI-VP training to real clinical practice is scarce, and one cohort study found lower field assessment scores after AI-VP training](ai-vp-transfer-to-practice-scarce.md) — a narrower finding that bears on this claim
-- [Longitudinal studies examining retention of practical skills over time remain scarce in the digital teaching literature](longitudinal-retention-studies-scarce.md) — related
+- Longitudinal studies examining retention of practical skills over time remain scarce in the digital teaching literature — related
 - [Technology-based interventions in psychiatry education mostly show positive short-term effects on knowledge, skills, confidence, and empathy, but evidence of sustained learning is inconsistent](psychiatry-ed-tech-short-term-gains.md) — a narrower finding that bears on this claim
 - [Empathy and communication interventions show short-term gains but evidence on persistence over time is inconsistent](soft-skills-intervention-gains-not-sustained.md) — possibly the same claim (merge candidate)
 - [Reflective and cognitively oriented CPR approaches show potential for enhancing long-term skill retention, particularly at follow-up](reflective-practice-enhances-cpr-retention.md) — related

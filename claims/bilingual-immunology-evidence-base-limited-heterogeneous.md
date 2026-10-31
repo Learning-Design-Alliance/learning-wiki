@@ -51,4 +51,4 @@ Quality assessment of the nine included non-randomized studies using MINORS (12 
 - [Effect sizes across the included studies are highly heterogeneous (I² = 91.37%), indicating moderating factors](high-heterogeneity-innovative-models-critical-thinking.md) — a broader claim this one bears on
 - [Effect sizes across included studies show high heterogeneity (all I² above 75%)](high-heterogeneity-er-burnout-effects.md) — a broader claim this one bears on
 - [Bilingual teaching benefits on course performance may not extend to second-year students who already meet an English proficiency threshold](bilingual-immunology-benefits-vary-by-grade-level.md) — related
-- [Publication bias tests and sensitivity analyses support the robustness of the pooled bilingual teaching effects](bilingual-immunology-pooled-effects-robust-to-sensitivity-analysis.md) — related
+- Publication bias tests and sensitivity analyses support the robustness of the pooled bilingual teaching effects — related

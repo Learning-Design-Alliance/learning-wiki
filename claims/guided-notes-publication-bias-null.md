@@ -45,5 +45,5 @@ Meta-analytic comparison across study source (12 studies: seven published, five 
 
 
 ## Related Claims
-- [Published and unpublished studies show no significant difference in achievement effect sizes, though unpublished studies show a higher point estimate (d+ = 0.88 vs 0.44)](cooperative-learning-publication-bias-moderator.md) — related
-- [Publication bias does not threaten the pooled effect estimates](integrated-instruction-publication-bias-robust.md) — related
+- Published and unpublished studies show no significant difference in achievement effect sizes, though unpublished studies show a higher point estimate (d+ = 0.88 vs 0.44) — related
+- Publication bias does not threaten the pooled effect estimates — related

@@ -46,7 +46,7 @@ The review's narrative synthesis of perception outcomes across the included stud
 
 ## Related Claims
 - [GenAI-condition students rated their PBL tutorial significantly higher after the tutorial than they rated their previous ePBLM-based experiences, especially clinical accuracy](genai-virtual-patient-higher-perceived-tutorial-quality.md) — a narrower finding that bears on this claim
-- [The reviewed evidence base comprises 15 studies (N=645) with heterogeneous designs, predominantly text-based, GPT-model virtual patients](genai-vp-evidence-base-15-studies-characteristics.md) — related
+- The reviewed evidence base comprises 15 studies (N=645) with heterogeneous designs, predominantly text-based, GPT-model virtual patients — related
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related
 - [Students report negative experiences with ChatGPT including inaccurate outputs, lack of emotional connection, and risk of overreliance, which constrain competence](chatgpt-negative-experiences-inaccuracy-overreliance.md) — related
 - [Persistent challenges include feedback inaccuracy, learner overreliance, and limited transparency](customized-ai-writing-persistent-challenges.md) — related

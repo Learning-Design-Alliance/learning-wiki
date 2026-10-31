@@ -47,4 +47,4 @@ The review's interpretive synthesis (Discussion), not a tested comparison. It re
 ## Related Claims
 - [Existing instruments cover justice and beneficence but show gaps regarding nonmaleficence and student autonomy](ethics-instruments-gaps-nonmaleficence-student-autonomy.md) — related
 - [No existing ethics-of-teaching instrument was developed specifically for health professions education](no-instruments-specific-to-health-professions-education.md) — related
-- [A COSMIN-based systematic review identified 6 instruments assessing the ethics of teaching from 246 records](six-instruments-ethics-of-teaching-review.md) — related
+- A COSMIN-based systematic review identified 6 instruments assessing the ethics of teaching from 246 records — related

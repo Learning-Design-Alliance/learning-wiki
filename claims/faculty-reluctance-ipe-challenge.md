@@ -45,7 +45,7 @@ Review discussion of implementation challenges, attributed to the reviewed liter
 
 
 ## Related Claims
-- [Facilitation practices are under-documented in IPE studies: only nine of 41 studies reported facilitator numbers and only seven reported facilitator roles](facilitation-underdocumented-ipe.md) — related
+- Facilitation practices are under-documented in IPE studies: only nine of 41 studies reported facilitator numbers and only seven reported facilitator roles — related
 - [Six teaching strategies are used in IPE, with participating in a collaborative activity the most frequently reported](six-ipe-teaching-strategies.md) — related
 - [Case-based discussion is the most commonly used learning activity type in interprofessional education for undergraduate healthcare students](cbd-most-common-ipe-activity.md) — related
 - [Cost, equipment availability, maintenance and faculty training are reported implementation barriers for laparoscopic simulation, especially in resource-constrained settings](laparoscopic-simulation-implementation-barriers.md) — related

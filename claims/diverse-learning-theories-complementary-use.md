@@ -70,5 +70,5 @@ The review's discussion asserts, without new data, that "No theory isolated is s
 - [Dialogue underpins networked learning: thinking in networks means thinking through collaborative dialogue](dialogue-underpins-networked-learning.md) — related
 - [The authors argue that constructivists talking about constructivist learning environments is not necessarily a paradox](no-paradox-constructivist-learning-environments.md) — related
 - [Connectivism is an iteration of architectonic/constructivist thought rather than a new theory of learning](connectivism-iteration-of-architectonics.md) — related
-- [P2P-teaching qualification research shows weak grounding in learning and teaching theories and low levels of evidence](p2p-research-weak-theory-low-evidence.md) — related
-- [A scoping review identified 11 studies (2010–2025) characterizing learning environments for teaching Pharmaceutical Care, predominantly conducted in the United States](scoping-review-11-studies-pharmaceutical-care-learning-environments.md) — related
+- P2P-teaching qualification research shows weak grounding in learning and teaching theories and low levels of evidence — related
+- A scoping review identified 11 studies (2010–2025) characterizing learning environments for teaching Pharmaceutical Care, predominantly conducted in the United States — related

@@ -17,7 +17,7 @@ sources:
 # Research priorities: conduct validation studies across assessments and transition to contemporary validity frameworks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Based on the review findings and consultation phase, the authors recommend that physical therapy education researchers conduct validation studies for a wide variety of assessments, gather validity evidence for both formative and summative assessment, ensure coverage of all locally relevant Domains of Competence and EPAs in competency-based programs, investigate systems of assessment and programmatic assessment, and transition to the validity framework of the current Standards for Educational and Psychological Testing. They also flag qualitative assessment data interpretation and artificial intelligence in assessment data interpretation as ripe topics.
@@ -41,7 +41,6 @@ Based on the review findings and consultation phase, the authors recommend that 
 
 ## Claims
 
-- [Only 5% of physical therapy assessment studies used a contemporary validity framework and only 13.7% fully reported intended interpretation and use](../claims/pt-assessment-studies-classical-validity-framework.md) [+W]
 - [Content evidence is the most prevalent type of validity evidence for physical therapy educational assessments, but median evidence ratings are 0 or 1 across all five Messick categories](../claims/pt-assessment-validity-evidence-sparse-weak.md) [+W]
 
 ## Related Strategies

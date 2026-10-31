@@ -17,7 +17,7 @@ sources:
 # Prepare and train IPE facilitators in group facilitation skills, conflict resolution, and simulation-specific competencies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review recommends that facilitators require preparation before implementing interprofessional activities. It states "Facilitators require training before implementing interprofessional activities to ensure that they are adequately prepared to effectively lead and support such activities", and that facilitators must have a distinct skill set encompassing relevant knowledge, skills, and attitudes, including managing group dynamics, resolving conflicts among students, and, for simulation, equipment operation and running preset scenarios. The review also recommends facilitators facilitate learning rather than transmit knowledge and exhibit empathetic listening and a supportive atmosphere.
@@ -39,7 +39,6 @@ The review recommends that facilitators require preparation before implementing 
 ## Claims
 
 - [Faculty reluctance and limited expertise are common challenges in implementing IPE, which can harm interprofessional relationships if poorly planned](../claims/faculty-reluctance-ipe-challenge.md) [+W]
-- [Facilitation practices are under-documented in IPE studies: only nine of 41 studies reported facilitator numbers and only seven reported facilitator roles](../claims/facilitation-underdocumented-ipe.md) [+W]
 
 ## Related Strategies
 - 

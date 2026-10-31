@@ -49,4 +49,4 @@ Three-round Delphi survey of Hong Kong school teachers, who refined an initial a
 - [Among the 20 ChatGPT learning activities, performance and self-reflection are each better supported by eight activities, and forethought by four.](chatgpt-activities-srl-phase-distribution.md) — related
 - [Competence is the only SDT need that ChatGPT learning activities satisfy across all three SRL phases; relatedness and autonomy are not adequately satisfied at every phase.](competence-only-need-satisfied-all-srl-phases.md) — related
 - [Competence is the strongest independent psychological predictor of AI literacy performance, followed by autonomy; relatedness has no significant independent effect](competence-strongest-predictor-relatedness-null.md) — related
-- [Two Delphi rounds with 20 Chinese CDC experts achieved consensus, with Kendall's W rising significantly from 0.295 to 0.328](delphi-consensus-kendalls-w-increase-tb-educator-competency.md) — related
+- Two Delphi rounds with 20 Chinese CDC experts achieved consensus, with Kendall's W rising significantly from 0.295 to 0.328 — related

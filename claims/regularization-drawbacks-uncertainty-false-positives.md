@@ -55,4 +55,4 @@ The article asserts, citing prior literature (Bühlmann et al., 2014; Donald R. 
 - [In simulations, Bayesian GLASSO estimation outperforms frequentist GLASSO on bias in edge weights, centrality measures, correlation between estimated and true partial correlations, and specificity](bayesian-glasso-outperforms-frequentist-glasso-network-estimation.md) — a narrower finding that bears on this claim
 - [Sensitivity is better for the frequentist GLASSO than for the Bayesian GLASSO, though Bayesian GLASSO performance is usually close](frequentist-glasso-higher-sensitivity-network-estimation.md) — related
 - [In simulations, the Bayesian GLASSO performed better than the Horseshoe prior for estimating symptom networks](bayesian-glasso-beats-horseshoe-prior.md) — related
-- [The Bayesian meta-analytic approach provides an assessment of uncertainty that includes the probability that a relationship is positive](bayesian-meta-analysis-probability-positive-benefit.md) — related
+- The Bayesian meta-analytic approach provides an assessment of uncertainty that includes the probability that a relationship is positive — related

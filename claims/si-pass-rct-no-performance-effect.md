@@ -56,4 +56,4 @@ Signs restored: the PDF's extracted text had lost its minus signs.
 - [SI-PASS participation showed no significant effect on socio-affective dimensions including well-being and academic adjustment](si-pass-no-socio-affective-effect.md) — related
 - [Implementation intentions did not affect final exam performance, whereas prior performance strongly predicted exam grade](implementation-intentions-no-exam-performance-effect.md) — related
 - [Choice-based personalization did not affect final exam performance in the MOOC](choice-personalization-no-final-exam-effect.md) — related
-- [Study design moderates reported effects: RCTs gave more conservative or mixed results while non-randomized and uncontrolled designs more consistently reported positive effects](design-moderates-ed-tech-effects.md) — a broader claim this one bears on
+- Study design moderates reported effects: RCTs gave more conservative or mixed results while non-randomized and uncontrolled designs more consistently reported positive effects — a broader claim this one bears on

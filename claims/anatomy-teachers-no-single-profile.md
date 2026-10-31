@@ -46,5 +46,5 @@ Narrative synthesis of 42 studies included from 6,779 screened in a PRISMA-ScR s
 
 
 ## Related Claims
-- [No included study established a relationship between anatomy educators' profiles and their teaching or evaluation strategies, or between content taught and pedagogical approaches](no-link-teacher-profile-strategies.md) — related
+- No included study established a relationship between anatomy educators' profiles and their teaching or evaluation strategies, or between content taught and pedagogical approaches — related
 - [The evidence base on anatomy teacher profiles is geographically skewed toward the Americas and toward medicine, limiting generalizability](anatomy-teacher-evidence-geographic-bias.md) — related

@@ -17,7 +17,7 @@ sources:
 # Adopt student-centered innovative learning models and build teacher capacity to implement them in mathematics and statistics
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (1 for, 4 mixed) · 2 studies (2 quant-synthesis), `q3` · 1 of 2 report an effect size · 5 claims rest on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Based on the pooled effect, the article recommends that educators "adopt innovative learning models such as problem-based learning, blended learning, and metaverse-based instruction", applied through student-centered and inquiry-based strategies. It further recommends professional development programs equipping teachers with the pedagogical and technological competencies to implement these models effectively, and policymaker support via curriculum revision and digital-infrastructure investment for equitable access.
@@ -42,8 +42,6 @@ Based on the pooled effect, the article recommends that educators "adopt innovat
 - [Innovative learning models produce a large pooled effect on mathematical and statistical critical thinking compared with conventional instruction](../claims/innovative-models-large-effect-critical-thinking-math-stat.md) [+M]
 - [Effect sizes across the included studies are highly heterogeneous (I² = 91.37%), indicating moderating factors](../claims/high-heterogeneity-innovative-models-critical-thinking.md) [~W]
 - [Individual study effect sizes range from negative to very strong, with one study showing no effect](../claims/study-level-effect-sizes-range-including-null.md) [~W]
-- [Publication-bias checks give mixed results: Egger's test indicates funnel-plot asymmetry while Trim and Fill and Fail-Safe N indicate no bias](../claims/mixed-publication-bias-evidence-meta-analysis.md) [~W]
-- [Effect sizes across the modelling study pool were heterogeneous, requiring a random-effects model](../claims/modelling-study-pool-heterogeneous-random-effects.md) [~W]
 
 ## Related Strategies
 

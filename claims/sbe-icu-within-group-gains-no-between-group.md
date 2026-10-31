@@ -52,5 +52,5 @@ This single-blind, parallel-group randomized controlled trial randomized 72 crit
 - [Simulation-based education increases post-registration nurses' odds of satisfactory observed delirium-care practice at 6 weeks in a cluster RCT](sbe-delirium-odds-satisfactory-practice-rct.md) — related
 - [High-fidelity simulation training improves knowledge acquisition among practising registered nurses (moderate pooled effect)](hfs-knowledge-acquisition-practising-nurses.md) — related
 - [Delirium knowledge gains from simulation-based education were sustained over time in repeated-survey and delayed-assessment studies](sbe-delirium-knowledge-sustained-gains.md) — related
-- [Study design moderates reported effects: RCTs gave more conservative or mixed results while non-randomized and uncontrolled designs more consistently reported positive effects](design-moderates-ed-tech-effects.md) — a broader claim this one bears on
+- Study design moderates reported effects: RCTs gave more conservative or mixed results while non-randomized and uncontrolled designs more consistently reported positive effects — a broader claim this one bears on
 - [High-fidelity simulation improves ECT procedural skills substantially but does not reliably improve theoretical knowledge or confidence](hfs-ect-procedural-skills.md) — related

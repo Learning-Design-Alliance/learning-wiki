@@ -17,7 +17,7 @@ sources:
 # Adopt a differentiated integration strategy for GenAI in undergraduate medical education rather than uniform adoption
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 1 study (1 quant-synthesis), `q2` · 1 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The review concludes that GenAI's educational benefits are concentrated in specific domains and recommends matching adoption to those domains. It states that GenAI's "efficacy is concentrated in cognitive clinical skills, academic writing, and nursing education", and that "these findings support a differentiated integration strategy rather than uniform adoption". The strategy directs educators to deploy GenAI where pooled evidence shows benefit and to await stronger evidence elsewhere.
@@ -45,7 +45,6 @@ The review concludes that GenAI's educational benefits are concentrated in speci
 - [Nursing students show significant knowledge improvement with GenAI (SMD = 1.11) unlike clinical medicine students](../claims/genai-knowledge-gain-nursing-students.md) [+W]
 - [GenAI does not significantly improve clinical skills of clinical medicine students compared with traditional teaching](../claims/genai-no-clinical-skill-gain-clinical-medicine-students.md) [+W]
 - [GenAI does not significantly improve knowledge exam scores of clinical medicine students compared with traditional teaching, with high heterogeneity](../claims/genai-no-knowledge-gain-clinical-medicine-students.md) [+W]
-- [Single studies drive the null findings for knowledge and clinical skills: removing Bhatia 2024 or Briones-Zamora 2026 restores significance](../claims/leave-one-out-single-studies-drive-null-findings.md) [~W]
 
 ## Related Strategies
 

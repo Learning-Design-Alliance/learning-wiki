@@ -54,6 +54,6 @@ Narrative synthesis section of the review reporting observed increases in non-te
 - [Reviewed peer-tutoring simulation studies mostly reached only Kirkpatrick Level 2, with no assessment of behavior change or clinical-practice results](kirkpatrick-level2-ceiling-peer-tutoring-sbe.md) — related
 - [Skills outcomes mostly showed no between-role differences, with active participant advantages limited to delayed technical skills, non-technical affective outcomes, and role-continuity effects](skills-outcomes-delayed-technical-advantage.md) — related
 - [Favorable learner perception of laparoscopic simulation should not be equated with competence, clinical readiness or transfer of learning](laparoscopic-simulation-perception-not-competence.md) — related
-- [Most included studies carried a high risk of bias or some concerns, particularly for confounding and outcome measurement, limiting certainty](peer-tutoring-simulation-risk-of-bias.md) — related
+- Most included studies carried a high risk of bias or some concerns, particularly for confounding and outcome measurement, limiting certainty — related
 - [Most learner-facing studies of technology-enhanced simulation in laparoscopic training report favorable learner responses, mainly confidence, satisfaction, perceived safety and self-efficacy](simulation-laparoscopic-favorable-perceptions.md) — related
-- [Included studies reported improved comfort, confidence and empathy, but used no standardised outcome measures](self-reported-outcomes-no-standardised-measures.md) — related
+- Included studies reported improved comfort, confidence and empathy, but used no standardised outcome measures — related

@@ -49,5 +49,5 @@ Narrative synthesis of autonomic pathway studies within the review. The review r
 - [Physical Well-Being](../learner-variables/physical-wellbeing.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [The student lifestyle-cognition literature is broad but unevenly distributed, with physical activity exposures and cognitive outcomes dominating over nutrition and academic outcomes](scoping-review-76-studies-uneven-evidence-distribution.md) — related
+- The student lifestyle-cognition literature is broad but unevenly distributed, with physical activity exposures and cognitive outcomes dominating over nutrition and academic outcomes — related
 - [Physical well-being — exercise, sleep, and nutrition — impacts learning](physical-wellbeing-impacts-learning.md) — related

@@ -17,7 +17,7 @@ sources:
 # Address theoretical grounding, longitudinal study designs, and standardized design protocols before broad implementation of GenAI virtual patients
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 against) · 2 studies (2 review), `q2`–`q3` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 against) · 2 studies (2 review), `q2`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The review concludes that safe and effective implementation of GenAI-supported virtual patients requires closing three gaps it identifies: "the need for theoretical grounding, longitudinal studies, and standardized design protocols—that must be addressed for safe and effective implementation." Only 3 of 15 included studies referenced established educational frameworks, none used longitudinal designs, and designs varied widely in modality, duration, and evaluation. Educators, instructional designers, and policymakers should treat current positive findings as provisional until these gaps are addressed.
@@ -40,7 +40,6 @@ The review concludes that safe and effective implementation of GenAI-supported v
 
 ## Claims
 
-- [The reviewed evidence base comprises 15 studies (N=645) with heterogeneous designs, predominantly text-based, GPT-model virtual patients](../claims/genai-vp-evidence-base-15-studies-characteristics.md) [+W]
 - [Reviewed GenAI virtual patients show underdeveloped emotional-behavioral complexity, limited adaptability beyond dialog, and no memory across interactions](../claims/genai-vp-emotional-complexity-and-memory-limitations.md) [+W]
 - [One RCT found AI-assisted simulation inferior to standardized patient simulation for breast self-examination skills](../claims/ai-simulation-inferior-bse-skills.md) [-W]
 

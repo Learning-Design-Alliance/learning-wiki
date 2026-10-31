@@ -48,5 +48,5 @@ Review finding on the learning assessment and feedback provision category, menti
 - [A systematic mapping review identifies twelve student P2P-teaching competencies and three medical competency categories forming a competency-profile for student P2P-teachers](mapping-review-12-p2p-teaching-competencies.md) — a broader claim this one bears on
 - [P2P-teacher trainings integrate medical subject content with teaching skills, sometimes explicitly and sometimes implicitly](p2p-training-integrates-medical-and-teaching-skills.md) — related
 - [Interpersonal skills, including communication, active listening, and gaining buy-in, are heavily emphasized by ID/ET professionals](interpersonal-skills-emphasized-by-id-et-professionals.md) — related
-- [P2P-teaching qualification research shows weak grounding in learning and teaching theories and low levels of evidence](p2p-research-weak-theory-low-evidence.md) — related
-- [The reviewed P2P-teacher studies focus on cross-year teaching and rarely on same-year teaching](p2p-studies-cross-year-focus.md) — related
+- P2P-teaching qualification research shows weak grounding in learning and teaching theories and low levels of evidence — related
+- The reviewed P2P-teacher studies focus on cross-year teaching and rarely on same-year teaching — related

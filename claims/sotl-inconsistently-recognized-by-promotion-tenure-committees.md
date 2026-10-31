@@ -64,7 +64,7 @@ Content analysis of obstruction categories across the corpus, with some articles
 
 
 ## Related Claims
-- [HPE articles consistently conceptualize SoTL via Boyer, Glassick et al., and Hutchings & Shulman, with 82% aligning explicitly or implicitly and none offering critiques](sotl-conceptualized-via-three-seminal-works-unrevised.md) — related
-- [A scoping review of US health professions education literature identified 4,588 articles and included 130, with 52 on medical education and 78 on other health professions](sotl-hpe-scoping-review-corpus-130-articles.md) — related
-- [Descriptions of SoTL gaining institutional acceptance peaked in 2005–2014 and were absent in medicine since 2020, while obstruction descriptions persisted throughout](sotl-p-and-t-acceptance-descriptions-peaked-2005-2014-declined.md) — related
-- [SoTL was operationalized in 35 distinct ways across 12 categories, many blurring the SoTL/scholarly-teaching distinction by targeting local rather than public audiences](sotl-operationalizations-35-ways-12-categories-audience-groups.md) — related
+- HPE articles consistently conceptualize SoTL via Boyer, Glassick et al., and Hutchings & Shulman, with 82% aligning explicitly or implicitly and none offering critiques — related
+- A scoping review of US health professions education literature identified 4,588 articles and included 130, with 52 on medical education and 78 on other health professions — related
+- Descriptions of SoTL gaining institutional acceptance peaked in 2005–2014 and were absent in medicine since 2020, while obstruction descriptions persisted throughout — related
+- SoTL was operationalized in 35 distinct ways across 12 categories, many blurring the SoTL/scholarly-teaching distinction by targeting local rather than public audiences — related

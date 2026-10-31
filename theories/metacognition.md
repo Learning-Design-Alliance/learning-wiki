@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 475 claims (223 for, 228 mixed, 24 against) · 246 studies (118 causal, 51 associational, 31 review, 16 theoretical, 13 quant-synthesis, 10 qualitative, 7 design), `q1`–`q4` · 83 of 246 report an effect size · 468 claims rest on one study
+> **Evidence** · 474 claims (222 for, 228 mixed, 24 against) · 246 studies (118 causal, 51 associational, 31 review, 16 theoretical, 13 quant-synthesis, 10 qualitative, 7 design), `q1`–`q4` · 83 of 246 report an effect size · 467 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -516,7 +516,7 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Metacognitive training has a statistically significant positive effect on K-12 students' algebraic reasoning across 18 studies (initial pooled d=2.284)](../claims/metacognitive-training-positive-effect-algebraic-reasoning.md) [+W] — attached 2026-10-31 from Yujin Lee et al. (2018), which proposed "Metacognitive training as small-group self-questioning built on metacognitive regulation".
 - [After removing one outlier study, metacognitive training still shows a statistically significant positive effect on algebraic reasoning (d=0.973, SE=0.196)](../claims/metacognitive-training-effect-without-outlier-d0973.md) [+W] — attached 2026-10-31 from Yujin Lee et al. (2018), which proposed "Metacognitive training as small-group self-questioning built on metacognitive regulation".
 - [Metacognitive regulation in PT clinical reasoning is relational and often co-constructed in interaction with the self, patient, family, professionals and peers](../claims/mr-relational-interactive-co-constructed.md) [+W] — attached 2026-10-31 from Perdrix Yannick et al. (2026), which proposed "Integrative model of metacognitive regulation in physical therapists' clinical reasoning structured around five key characteristics".
-- [A scoping review following JBI and PRISMA-ScR guidelines identified 1,025 documents and analyzed 36 on metacognitive regulation in physical therapy clinical reasoning](../claims/scoping-review-36-mr-pt-clinical-reasoning.md) [+W] — attached 2026-10-31 from Perdrix Yannick et al. (2026), which proposed "Four overarching purposes of metacognitive regulation in PT clinical reasoning: pedagogical, clinical, professional developmental and sociopolitical".
+- A scoping review following JBI and PRISMA-ScR guidelines identified 1,025 documents and analyzed 36 on metacognitive regulation in physical therapy clinical reasoning [+W] — attached 2026-10-31 from Perdrix Yannick et al. (2026), which proposed "Four overarching purposes of metacognitive regulation in PT clinical reasoning: pedagogical, clinical, professional developmental and sociopolitical".
 - [Learner self-reported improvement after AI-generated virtual patient training is sometimes discordant with observed or cohort-comparison performance](../claims/ai-virtual-patient-self-report-performance-discordance.md) [+W]
 
 ## The evidence by question

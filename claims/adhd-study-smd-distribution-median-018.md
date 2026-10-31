@@ -48,7 +48,7 @@ Descriptive analysis of the 123 between-group studies' effect sizes, presented i
 - [Psychosocial interventions for ADHD show a small positive overall weighted average effect (SMD = 0.26) in between-group studies, with substantial heterogeneity](adhd-interventions-overall-smd-026.md) — related
 - [Exercise effect sizes on ADHD functional outcomes are not related to exercise intensity, mean age of participants, or gender distribution](exercise-adhd-effects-unrelated-to-intensity-age-gender.md) — related
 - [Behavioral parent training yields its strongest proximal effect on parenting behaviors (SMD = 0.70, parent rater) among ADHD psychosocial treatments](behavioral-parent-training-parenting-behaviors-smd-070.md) — related
-- [Prior meta-analyses of ADHD psychosocial treatment overlapped minimally in the studies they included (2% to 46%), undermining confidence in any single review](prior-adhd-meta-analyses-low-study-overlap.md) — related
-- [Study year of publication was not significantly related to effect size magnitude in the ADHD psychosocial treatment meta-analysis](study-year-unrelated-adhd-effect-size.md) — related
+- Prior meta-analyses of ADHD psychosocial treatment overlapped minimally in the studies they included (2% to 46%), undermining confidence in any single review — related
+- Study year of publication was not significantly related to effect size magnitude in the ADHD psychosocial treatment meta-analysis — related
 - [Mean effect sizes across the 13 reviewed meta-analyses ranged from -.11 to .57](mean-effect-sizes-range-negative-11-to-57.md) — related
-- [Whether studies randomly allocated participants was not significantly related to effect size magnitude in the ADHD psychosocial treatment meta-analysis](random-allocation-unrelated-adhd-effect-size.md) — related
+- Whether studies randomly allocated participants was not significantly related to effect size magnitude in the ADHD psychosocial treatment meta-analysis — related

@@ -48,4 +48,4 @@ Moderator testing within each category for the 31 studies. The article reports t
 - [Aggregated effect sizes differ by outcome type: behavior highest (g = 2.38), performance large (g = 0.91), motivation small and negative (g = -0.39), none statistically significant](token-reinforcement-outcome-type-effect-sizes.md) — related
 - [The overall effect size for token reinforcement interventions in middle schools is large (g ≈ 1.04) but not statistically significant](token-reinforcement-overall-effect-not-significant.md) — related
 - [61.29% of studies showed positive effects of token reinforcement, but only 6.45% had sample sizes sufficient for generalizable large effects](token-reinforcement-positive-studies-sample-size-limits.md) — related
-- [Reporting and publication bias pervade the token reinforcement literature: 38.71% of studies reported large significant effects while 29.03% lacked statistical significance](token-reinforcement-reporting-bias.md) — related
+- Reporting and publication bias pervade the token reinforcement literature: 38.71% of studies reported large significant effects while 29.03% lacked statistical significance — related

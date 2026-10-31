@@ -48,7 +48,7 @@ Moderator analysis by region: southeastern Anatolia had the largest estimate (d 
 - [Effect of MIT-based instruction does not differ significantly by course type, though foreign-language courses show the largest point estimate (d = 1.958)](mit-effect-homogeneous-course-type.md) — related
 - [Geographical region does not significantly moderate the effect of constructivism on attitudes towards lessons](geographical-region-not-significant-moderator-constructivism-attitudes.md) — related
 - [Effect of MIT-based instruction does not differ significantly between master's theses and doctoral dissertations](mit-effect-homogeneous-thesis-type.md) — related
-- [Effect of MIT-based instruction does not differ significantly by study sample size](mit-effect-homogeneous-sample-size.md) — related
+- Effect of MIT-based instruction does not differ significantly by study sample size — related
 - [Effect of MIT-based instruction does not differ significantly by duration of experimental procedure](mit-effect-homogeneous-experiment-duration.md) — related
 - [Effect of MIT-based instruction differs significantly by educational level, largest at high school (d = 1.516) and smallest at elementary (d = 0.925)](mit-effect-differs-by-educational-level.md) — related
 - [The effect of CAME on mathematics achievement varies significantly by region of implementation (QB = 13.2191; p = .0162; I2 = 62.1759%)](came-effect-varies-by-region.md) — related

@@ -47,6 +47,6 @@ Meta-analysis of 13 studies (1,861 healthcare students) using the Dementia Attit
 ## Related Claims
 - [Artistic experiential interventions produce significantly greater attitude improvements than non-artistic interventions](artistic-interventions-greater-dementia-attitude-gains.md) — a narrower finding that bears on this claim
 - [Single-session and multi-session experiential learning programs show comparable attitude improvements](short-and-long-term-dementia-programs-comparable.md) — a narrower finding that bears on this claim
-- [Pooled effects are robust in sensitivity analyses, but 10 of 13 studies carry serious risk of bias and publication bias is indicated](dementia-experiential-review-bias-and-robustness.md) — related
+- Pooled effects are robust in sensitivity analyses, but 10 of 13 studies carry serious risk of bias and publication bias is indicated — related
 - [Face-to-face and non-face-to-face formats both improve attitudes, but virtual formats show inconsistent outcomes](virtual-dementia-learning-inconsistent-outcomes.md) — a narrower finding that bears on this claim
 - [Meta-regression identifies percentage of female participants, sample size, and interdisciplinary participation as moderators of effect size](meta-regression-moderators-dementia-attitudes.md) — related

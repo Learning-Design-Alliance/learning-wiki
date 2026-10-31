@@ -47,4 +47,4 @@ Random-effects meta-regression (REML estimation with Knapp-Hartung modification)
 
 ## Related Claims
 - [Meta-regression identifies percentage of female participants, sample size, and interdisciplinary participation as moderators of effect size](meta-regression-moderators-dementia-attitudes.md) — related
-- [The effect size does not vary significantly with sample size or publication year in meta-regression](meta-regression-sample-size-year-null.md) — related
+- The effect size does not vary significantly with sample size or publication year in meta-regression — related

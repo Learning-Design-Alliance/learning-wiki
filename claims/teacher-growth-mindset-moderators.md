@@ -73,5 +73,5 @@ Two-level moderator regressions for separate outcomes. Dimensionality significan
 - [Teachers' growth mindset is unrelated to performance-approach goals, performance-avoidance goals, teachers' test performance, and student achievement](teacher-growth-mindset-null-performance-student-achievement.md) — related
 - [Region, study quality, and interaction domain moderate associations between factors and interactive skills](moderators-region-quality-domain.md) — related
 - [The SES–heritability interaction on intelligence differs cross-nationally: positive in US studies but absent in more egalitarian Western European and Australian studies](ses-heritability-interaction-cross-national.md) — related
-- [Study quality is modest but improving over time, with a moderate positive correlation between publication year and QATSDD score](epa-study-quality-qatsdd-improving-over-time.md) — related
-- [Publication year significantly moderates flipped classroom effect sizes in meta-regression](flipped-classroom-effect-sizes-publication-year-moderation.md) — related
+- Study quality is modest but improving over time, with a moderate positive correlation between publication year and QATSDD score — related
+- Publication year significantly moderates flipped classroom effect sizes in meta-regression — related

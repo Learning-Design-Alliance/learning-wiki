@@ -66,4 +66,4 @@ Narrative synthesis in the review's conclusions. The authors state that ad hoc i
 ## Related Claims
 - [Instrument type relates to assessed domains: ad hoc questionnaires were virtually limited to practical CPR techniques, while psychometrically validated tools covered scene safety, arrest recognition, emergency activation, and functional AED use](validated-instruments-broader-domain-coverage.md) — a narrower finding that bears on this claim
 - [CPR maneuvers are the most frequently assessed BLS content domain in secondary school questionnaires, while AED use and the early chain-of-survival steps are assessed less often](cpr-maneuvers-most-assessed-aed-underassessed.md) — related
-- [Only 16 of 36 studies assessed BLS knowledge retention over time, with follow-ups generally between 1 and 6 months and only two exceeding 1 year](bls-knowledge-retention-rarely-assessed.md) — related
+- Only 16 of 36 studies assessed BLS knowledge retention over time, with follow-ups generally between 1 and 6 months and only two exceeding 1 year — related

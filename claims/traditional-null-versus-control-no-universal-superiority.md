@@ -50,7 +50,7 @@ Under-18 primary network meta-analysis results section. The authors conclude: "T
 - [Social Supports](../learner-variables/social-supports.md) — outcome: instruction changes it
 
 ## Related Claims
-- [The primary network retains substantial heterogeneity and significant local inconsistency, with four linked node splits significant at p = 0.039](primary-network-heterogeneity-inconsistency.md) — related
+- The primary network retains substantial heterogeneity and significant local inconsistency, with four linked node splits significant at p = 0.039 — related
 - [In the under-18 primary network, Hybrid TGfU-SE, Nonlinear, and Functional games are the only nodes whose estimates versus Control exclude zero, led by Hybrid TGfU-SE (SMD 1.35)](tgfu-se-nonlinear-functional-games-beat-control-under18.md) — related
 - [Teaching Games for Understanding improves tactical decision-making more than traditional physical education instruction.](teaching-games-for-understanding-improves-tactical-decision-making.md) — related
 - [Cooperative learning's top rank in the broad network rests entirely on a single visual-motor integration study and disappears when that study is removed](cooperative-rank-single-study-artifact.md) — related

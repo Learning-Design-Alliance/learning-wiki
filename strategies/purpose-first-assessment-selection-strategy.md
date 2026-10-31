@@ -17,7 +17,7 @@ sources:
 # Purpose-first assessment selection: identify construct, intended interpretations, and decisions before choosing an assessment tool
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review recommends that educators first identify the purpose of an assessment — what construct they aim to measure, what interpretations they intend to make about student knowledge and skills, and what decisions will result — and then select a tool whose target construct, assessment type, and validity evidence best match that purpose. For example, if a simulation-based assessment determines readiness for direct patient care, relations with other variables evidence linking assessment performance to future patient performance would be high priority. Educators should also gather local empirical or theoretical evidence.
@@ -41,7 +41,6 @@ The review recommends that educators first identify the purpose of an assessment
 
 ## Claims
 
-- [Only 5% of physical therapy assessment studies used a contemporary validity framework and only 13.7% fully reported intended interpretation and use](../claims/pt-assessment-studies-classical-validity-framework.md) [+W]
 - [Content evidence is the most prevalent type of validity evidence for physical therapy educational assessments, but median evidence ratings are 0 or 1 across all five Messick categories](../claims/pt-assessment-validity-evidence-sparse-weak.md) [+W]
 
 ## Related Strategies

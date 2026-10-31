@@ -70,4 +70,4 @@ Meta-regression with discipline, preparation testing, social activity, group equ
 - [Flipped classroom interventions produce a small positive effect on continuous learning outcomes, around one fifth of a standard deviation after correcting for small-study bias](flipped-classroom-small-positive-learning-effect.md) — related
 - [STEM education with 7E instruction, flipped learning, problem-based learning or technology-enhanced learning showed no significant effect on learning achievement](seitla-nonsignificant-approaches.md) — reports the opposite
 - [The social nature of learning activities shows no detectable moderating effect on flipped classroom learning gains](social-activity-no-moderating-effect-flipped.md) — related
-- [Publication year significantly moderates flipped classroom effect sizes in meta-regression](flipped-classroom-effect-sizes-publication-year-moderation.md) — related
+- Publication year significantly moderates flipped classroom effect sizes in meta-regression — related
