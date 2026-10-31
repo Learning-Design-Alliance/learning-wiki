@@ -51,3 +51,4 @@ Implementation report of network growth under a youth coordinator funded by a co
 - AIASA student club membership fluctuated in step with the presence of an AIAA-supported student club coordinator — related
 - [Through Project Cal-Well, SCOE established or renewed 70 community partnerships to improve school-based mental health services](scoe-70-community-partnerships.md) — related
 - [Project Cal-Well training at SCOE reached 833 mental health workforce members and 3,104 individuals outside the workforce](scoe-cal-well-training-833-and-3104.md) — related
+- [The support of champions is evidenced as favourable in the application of the educational intervention.](champions-support-favourable-in-educational-intervention.md) — related

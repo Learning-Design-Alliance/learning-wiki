@@ -48,3 +48,4 @@ Online experiment (final N = 92, random assignment) replicating the predictive l
 - [Explicitly instructing learners to expect high variability in the application context broadens generalization in a predictive learning task](expected-variability-instructions-broaden-generalization.md) — related
 - [A larger expected temporal distance between learning and application increases learners' expected variability of the application context](temporal-distance-increases-expected-variability.md) — related
 - [Outcome proximity moderates the dose–response relation: distal outcomes outperform proximal outcomes at dosages at or below 5.43 h, while proximal outcomes exceed distal outcomes at or above 22.6 h](proximity-by-dosage-interaction.md) — related
+- [Students were more engaged in SDL when it was an assessed activity with anticipated outcomes and relevance to their future profession](assessment-relevance-engage-sdl.md) — related

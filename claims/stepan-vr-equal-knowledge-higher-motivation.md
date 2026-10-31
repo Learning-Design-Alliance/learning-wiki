@@ -52,3 +52,4 @@ Randomised controlled study with 66 medical students (33 per group) comparing a 
 - [An AR application produced smaller test-score gains than cross-section study and higher extraneous cognitive load (Henssen et al.)](henssen-ar-lower-gains-higher-extraneous-load.md) — related
 - [VR and video instruction groups reported comparable cognitive load in the anatomy lesson](vr-video-comparable-cognitive-load.md) — related
 - [Improvements in objective knowledge outcomes (Kirkpatrick Level 2) from technology-enhanced learning were inconsistent across neuroanatomy interventions](tl-neuroanatomy-l2-knowledge-inconsistent.md) — a broader claim this one bears on
+- [Digital learning platforms and virtual learning environments enhance knowledge retention and flexibility in orthodontic education](digital-platforms-enhance-orthodontic-knowledge-retention.md) — related

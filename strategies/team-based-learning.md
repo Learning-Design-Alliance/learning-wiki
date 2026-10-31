@@ -59,9 +59,12 @@ TBL operationalizes [Active Learning](../principles/active-learning.md) at scale
 6. Conclude with structured peer evaluation and periodic team maintenance check-ins ([Check-In](../elements/check-in.md)).
 
 ## Related Strategies
+
 - [Case-Based Learning](case-based-learning.md) — TBL application activities are frequently built as cases; the case supplies the "significant problem" TBL requires
 - [Cooperative Learning](cooperative-learning.md) — TBL is a highly structured form of cooperative learning adding the readiness assurance and accountability machinery
 - [Peer Instruction](peer-instruction.md) — shares the commit-then-discuss-then-recommit structure at the team level
+- [Mitigate the free-rider phenomenon in TBL through peer assessment and individual accountability](tbl-free-rider-mitigation-peer-assessment.md)
+- [Implement TBL with dedicated teaching teams, systematic teacher training, and diversified assessment](tbl-implementation-strategy-dedicated-teams.md)
 
 ## Examples
 - **[Team-Based Learning Collaborative](https://www.teambasedlearning.org)** — professional community and published TBL modules, especially in health sciences education

@@ -60,6 +60,7 @@ The review recommends treating CPR education as an ongoing, reinforcement-based 
 - [Embed recurrent, context-aligned ALS rehearsal with feedback supported by protected training time, accessible infrastructure, and ongoing performance monitoring](embed-recurrent-als-rehearsal-with-organisational-support.md)
 - [Select feedback technology to match the learner population, setting and learning objective, and reinforce with spaced booster training](match-feedback-device-to-context-plus-booster-training.md)
 - [Integrate simulation as a curriculum-embedded component with trained instructors and technological infrastructure](embed-simulation-in-curriculum-strategy.md)
+- [Schedule deliberate practice with repetitive reinforcement sessions to sustain NTS knowledge and behaviors over time](deliberate-practice-reinforcement-nts-retention.md)
 
 ## Examples
 -

@@ -105,3 +105,4 @@ Review synthesis reporting the grade-by-SES interaction from the Australian stud
 - [Literacy loss among post-COVID girls was concentrated among disadvantaged subgroups (poorest quintile, rural, OBC caste)](literacy-loss-disadvantaged-girls-subgroups.md) — a narrower finding that bears on this claim
 - [Markers of vulnerability (rural residence, disadvantaged caste, poverty) amplified pandemic learning loss for girls but not boys](vulnerability-markers-amplify-girls-learning-loss.md) — a narrower finding that bears on this claim
 - [Tablet-based DGBL shows strong efficacy for children from low-SES families](tablet-dgbl-effective-low-ses-children.md) — related
+- [SES is negatively associated with children's cognitive and academic performance, leading to long-term educational and economic disparities](ses-negative-association-cognitive-academic.md) — related

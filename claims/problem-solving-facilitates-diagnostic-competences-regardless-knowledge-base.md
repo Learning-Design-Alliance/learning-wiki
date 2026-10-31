@@ -54,3 +54,4 @@ Meta-analytic moderator result reported in the article's abstract summary: probl
 - [Long video-based modelling examples did not improve diagnostic strategy knowledge, skills, self-efficacy, or cognitive load relative to independently practising in a computer simulation](modelling-examples-no-effect-complex-diagnostic-strategy.md) — related
 - [Example-first conditions outperformed problem-first conditions on an immediate circuit test](worked-example-problem-sequences.md) — related
 - [Instructional support has a moderate positive effect on diagnostic competences in higher education (g = 0.39)](instructional-support-moderate-effect-diagnostic-competences.md)
+- [Clinical reasoning facilitation employs both analytical and non-analytical thinking approaches](analytical-non-analytical-clinical-reasoning-facilitation.md) — related

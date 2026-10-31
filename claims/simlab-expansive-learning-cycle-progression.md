@@ -55,3 +55,4 @@ Qualitative case-study analysis of 157 minutes of audio-recorded group discussio
 - [A full assessment of a potentially expansive mini-cycle of learning calls for extending the time scale of the analysis beyond a single session](assessing-minicycle-requires-extended-time-scale.md) — related
 - [Mixed interprofessional group training promoted mutual respect, understanding of roles, and appreciation of teamwork among ED participants](interprofessional-mixed-groups-mutual-respect-consent-training.md) — related
 - [Theory-of-change development functions as an iterative cycle that incorporates new research as it emerges and the product evolves](theory-of-change-iterative-cycle.md) — related
+- [Interprofessional training in a psychiatric ward improved all three subscales of the Assessment of Interprofessional Team Collaboration Scale](ipe-psychiatric-ward-improved-aitcs-subscale.md) — related

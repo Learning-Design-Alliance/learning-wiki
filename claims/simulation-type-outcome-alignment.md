@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-10-31
 sources:
   - id: daneshfar-majid-moonaghi-hossein-karimi-2025
     resource: "https://doi.org/10.1186/s12909-025-07790-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` High-fidelity simulations were particularly associated with enhanced clinical judgment and decision-making accuracy, while virtual reality and game-based simulations appeared more effective in fostering empathy and reflective thinking, especially among early-year students. [→ Daneshfar Majid; Moonaghi Hossein Karimi 2025](#daneshfar-majid-moonaghi-hossein-karimi-2025)
@@ -50,3 +51,6 @@ The review's cross-study synthesis of the included literature found modality–o
 - [Review syntheses: VR/AR most often improved academic achievement and motivation, but sometimes performed no better than conventional technologies](vr-ar-advantages-achievement-motivation-with-null-contrast.md) — related
 - [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation while leaving retention unaffected](immersion-cost-benefit-transfer-motivation.md) — related
 - [Virtual reality was particularly effective for procedural skill development and knowledge retention in paediatric undergraduate training](vr-effective-procedural-skills-retention.md) — related
+- [Very high majorities of students rated high-fidelity simulation as enhancing learning, clinical reasoning, decision-making, and value](coffey-hfs-student-ratings.md) — related
+- [High-fidelity simulation is the most commonly used simulation type in studies of critical thinking](hfs-most-common-simulation-type-critical-thinking.md) — related
+- [The included studies do not reflect which intervention is better or which favours the acquisition and retention of knowledge more effectively.](studies-do-not-reflect-which-intervention-is-better.md) — reports the opposite

@@ -78,3 +78,4 @@ The report's school-leadership subsection synthesizes survey research on why tea
 - [Accountability pressures overshadowed the survey's improvement potential without reducing its predictive power](accountability-overshadows-improvement-potential.md) — related
 - [Teachers who strongly disagree that their administration is supportive are more than twice as likely to leave as those who strongly agree](administrative-support-strongest-turnover-predictor.md) — related
 - [Teacher salaries influence entry, supply, and retention in teaching](salary-increases-influence-teacher-supply-and-retention.md) — related
+- [Mandatory attendance policy initially raised attendance but was abolished due to dissatisfaction, administrative burden and declining performance](mandatory-attendance-policy-mixed-outcomes.md) — related

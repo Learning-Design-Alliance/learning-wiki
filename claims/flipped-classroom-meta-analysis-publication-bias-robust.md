@@ -51,3 +51,5 @@ Publication bias assessment (Figure 2 funnel plot plus Egger test) of the 20 inc
 - [Smaller, underpowered studies report larger flipped classroom effect sizes, indicating small-study and publication bias](small-study-bias-inflates-flipped-classroom-effects.md) — reports the opposite
 - No evidence of publication bias was found in the flipped classroom literature, though dissertations showed a larger (non-significantly different) effect size than journal articles — possibly the same claim (merge candidate)
 - Publication bias tests and sensitivity analyses support the robustness of the pooled bilingual teaching effects — related
+- [Funnel plots suggest low publication bias for score outcomes but possible small-sample bias for autonomous learning ability](funnel-plots-publication-bias-teaching-methods-nma.md) — related
+- [Publication bias is present in the flipped classroom meta-analysis evidence base](publication-bias-flipped-classroom-meta-analysis.md) — reports the opposite

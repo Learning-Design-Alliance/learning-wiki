@@ -54,3 +54,4 @@ Null result from the between-subjects study (n=40) using three MSLQ subscales (m
 - [HelpCoach increased spontaneous question specificity during chatbot problem-solving compared with pre-task training alone](helpcoach-increased-spontaneous-question-specificity.md) — related
 - [Self-regulated problem-solving instruction produced immediate, marked increases in target behaviors for all four students, with a mean of 2.3 training sessions to reach 80% mastery](problem-solving-instruction-increases-target-behaviors-developmental-disabilities.md) — related
 - [University students who choose e-textbooks report greater self-regulation of learning than students who choose print textbooks](e-textbook-choice-higher-self-regulation.md) — related
+- [Trainer-led online training outperformed self-paced online training for behavioral activation skills](trainer-led-beats-self-paced-online-skills-training.md) — related

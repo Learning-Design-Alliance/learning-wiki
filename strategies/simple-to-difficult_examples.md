@@ -57,8 +57,10 @@ Sequencing examples from simple to complex manages intrinsic load during schema 
 5. Assess classification of both simple and complex instances; recycle difficult cases via [Practice](../elements/practice.md) until learners classify them reliably
 
 ## Related Strategies
+
 - [Use Worked Examples](worked-examples-first.md) — the example format most commonly sequenced from simple to difficult
 - [Think-Aloud Modeling](think-aloud-modeling.md) — narration that makes the reasoning on each example visible
+- [Select relatively simple cases and simplify preparation tasks to reduce the burden of SCL](scl-select-simple-cases-simplify-preparation.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — how early simple examples are typically presented

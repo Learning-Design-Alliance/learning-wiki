@@ -50,3 +50,4 @@ Observation-based fidelity data summarized in Table 4 across three Developing Ta
 - [Personalized Learning Effects Vary With Fidelity](personalized-learning-effects-vary-with-fidelity.md) — related
 - Practitioners identified classroom complexities and fidelity-of-implementation variability as considerations experimental research should account for beyond causal effects — related
 - [The script improved adherence to the prescribed order of grounding discussions before group activities, with an additional effect of the structured interface](script-improves-adherence-activity-order.md) — related
+- [DP adherence varied widely across studies, with the most structured programs yielding the greatest benefits](dp-adherence-variability-influences-outcomes.md) — a narrower finding that bears on this claim

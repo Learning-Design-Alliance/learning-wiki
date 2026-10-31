@@ -76,3 +76,5 @@ Focus group vignette in which teachers described difficulty fitting OpenSciEd wo
 - [Manual content analysis of reflective writing is time-consuming, constraining pedagogical use and large-scale research](manual-reflection-analysis-costly-constrains-use.md) — a narrower finding that bears on this claim
 - [A needs assessment with 14 teachers yielded eight main design issues for the BE COOL! learning environment, from curriculum fit to teacher monitoring and a teacher manual](teacher-needs-assessment-eight-issues.md) — related
 - [The main challenge of Wikipedia assignments is the MediaWiki learning curve, making them time-consuming](wikipedia-assignment-mediawiki-learning-curve-challenge.md) — a narrower finding that bears on this claim
+- [Assessment and feedback strategies enable constructive ongoing feedback to improve learning and academic growth](assessment-feedback-strategies-improve-learning.md) — related
+- [SDL is implemented through two main categories: theoretical (knowledge-focused) and practical (hands-on procedural) approaches](sdl-two-categories-theoretical-practical.md) — related

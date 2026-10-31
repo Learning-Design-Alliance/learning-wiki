@@ -63,3 +63,6 @@ The review reports, citing three prior studies, that PBL appeared more effective
 - [Student preference for CBL, PBL or TBL over traditional teaching was reported in 15 of 22 studies (68.1%), but only two studies used a controlled comparison with lecture](preference-over-lecture-15-studies-only-two-controlled.md) — related
 - [First-year medical students in the single first-year-focused study reported high engagement (97%) and perceived improved teamwork (87%) with PBL](first-year-students-high-engagement-teamwork-pbl.md) — related
 - [Systematic review finds PBL improves clinical reasoning in OB/GYN education](pbl-improves-clinical-reasoning-obgyn.md) — related
+- [Of 4310 screened abstracts, 21 studies of PBL in PGME were included, spanning eight specialties and four Kirkpatrick outcome levels](pbl-pgme-21-studies-kirkpatrick-coverage.md) — related
+- [PBL and conventional instruction produce similar learning outcomes in postgraduate medical education (pooled mean difference 0.13%, 95% CI -6.74 to 7.00)](pbl-similar-learning-outcomes-pgme.md) — related
+- [Problem-based learning in orthodontic postgraduate education enhances student engagement and understanding](problem-based-learning-enhances-orthodontic-engagement.md) — related

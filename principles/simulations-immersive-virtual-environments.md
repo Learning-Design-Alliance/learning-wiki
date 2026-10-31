@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 178 claims (79 for, 88 mixed, 11 against) · 118 studies (41 review, 32 causal, 19 quant-synthesis, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 29 of 118 report an effect size · 173 claims rest on one study
+> **Evidence** · 185 claims (83 for, 91 mixed, 11 against) · 124 studies (47 review, 32 causal, 19 quant-synthesis, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 29 of 124 report an effect size · 180 claims rest on one study
 
 ## Conditional relationship
 
@@ -324,6 +324,7 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [Structured communication tools such as SBAR incorporated into simulation are associated with improved team coordination and information transfer](../claims/sbar-structured-communication-in-simulation.md) [+W] — attached 2026-10-31 from González-Sanz A et al. (2026), which proposed "Integrate structured simulation into nursing curricula to bridge the theory-practice gap"; tests this page's relationship.
 - [Robotic novices trained with extended reality simulators complete tasks significantly faster than novices with no additional training](../claims/xr-training-faster-time-to-complete-than-no-training.md) [+W] — attached 2026-10-31 from Bickford Michael et al. (2025), which proposed "Use extended reality simulators as a low-cost, low-risk environment for training robotic surgery novices"; tests this page's relationship.
 - [High-fidelity simulation methods (simulators, 3D models, cadaver-based practice) are associated with superior Acquisition retention, though some studies report contradictory findings](../claims/high-fidelity-simulation-associated-with-superior-acquisition-retention.md) [+W] — attached 2026-10-31 from Wang L‐W et al. (2025), which proposed "Design PoCUS curricula that integrate high-fidelity hands-on simulation and clinical context rather than relying on one-time short-course instruction"; tests this page's relationship.
+- [Only two studies evaluated learning outcomes, with small improvements and very low to moderate certainty](../claims/nts-training-icu-learning-outcomes-limited.md) [+W] — attached 2026-10-31 from Fernandes Pimenta Isac Davidson Santiago et al (2025), which proposed "Use simulation-based training as the primary strategy for teaching non-technical skills in ICUs"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -412,6 +413,12 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Recurring features across XR-simulation in dentistry are stereoscopic vision, immersion, interaction, modification and haptic feedback](../claims/xr-recurring-features-dental-simulation.md) [~W]
 - [VR simulation training improves orthopaedic trainees' technical proficiency and shortens operative times](../claims/vr-simulation-improves-ortho-technical-proficiency.md) [+W]
 - [XR training shows a large but non-significant effect on GEARS scores compared to no additional training](../claims/xr-gears-vs-no-training-large-non-significant-effect.md) [~W]
+- [Low-fidelity models are non-inferior to high-fidelity ones, which may induce overconfidence, per literature cited in the review](../claims/low-fidelity-non-inferiority-overconfidence.md) [~W]
+- [Intermediate-fidelity mannequin simulation increased knowledge but not confidence compared with no additional instruction (Tiffen et al. study)](../claims/intermediate-fidelity-simulation-knowledge-not-confidence.md) [~W]
+- [AR-based remote neurosurgical training system combining cloud computing and AR/VR showed significant skill improvements, with AR outperforming VR in tactile realism and scene authenticity](../claims/remote-ar-training-cloud-5g-skill-gains.md) [+W]
+- [Simulation and virtual-reality training improved technical performance, task completion time, and perceived realism in thyroid surgery trainees](../claims/simulation-vr-improves-thyroid-surgery-technical-performance.md) [+W]
+- [Immersive VR assessments of nursing and medical students are concentrated in settings that are difficult to replicate, especially emergencies](../claims/vr-assessments-concentrated-in-difficult-to-replicate-emergency-settings.md) [+W]
+- [Standardized patients produced higher knowledge scores than high-fidelity simulation, but performance scores did not differ (Tuzer et al. study)](../claims/standardized-patients-vs-high-fidelity-simulator-knowledge.md) [~W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.

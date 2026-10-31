@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: mixed
 newest_evidence: 2026
+source_checked: 2026-10-31
 sources:
   - id: zhou-jie-2026
     resource: "https://doi.org/10.1111/jocn.70206"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2`–`r3` · `q2`–`q3` · `i3` large
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Random-effects meta-analysis of four studies (140 nurses) found no statistically significant effect of HFS on self-confidence (SMD = 0.59, p = 0.07), though the fixed-effect model was significant (SMD = 0.48). [→ Zhou Jie 2026](#zhou-jie-2026)
@@ -71,3 +72,5 @@ Subgroup analysis by study design of the self-confidence meta-analysis. The revi
 - [High-fidelity simulation improves ECT procedural skills substantially but does not reliably improve theoretical knowledge or confidence](hfs-ect-procedural-skills.md) — related
 - [IVR simulation significantly improves nursing students' self-efficacy but not satisfaction or confidence](ivr-improves-self-efficacy-not-satisfaction-confidence.md) — related
 - [Simulation-based education improves nursing students' clinical decision-making, judgment, and self-confidence](simulation-improves-nursing-decision-making-confidence.md) — related
+- [Self-confidence is an additional critical attribute of clinical readiness for practice among student nurses beyond previously identified attributes](self-confidence-additional-attribute-clinical-readiness.md) — related
+- [Simulation's impact on student reflection remains inconclusive due to limited evidence](simulation-reflection-inconclusive-limited-evidence.md) — related

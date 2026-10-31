@@ -47,3 +47,4 @@ Pre-specified sensitivity analysis of the score meta-analysis removing the Dhok 
 ## Related Claims
 - [Initial pooled analysis shows no statistically significant difference between VSAQ and MCQ scores but with extreme heterogeneity](vsaq-mcq-initial-pooled-no-difference-high-heterogeneity.md) — related
 - [VSAQ assessments demonstrate strong discriminatory power between high- and low-performing students](vsaq-strong-discrimination-pooled-fishers-z-1-45.md) — related
+- [Clinical analysis skills effect size is unstable and sensitive to two studies, dropping to d = 0.50 after their exclusion](clinical-analysis-skills-effect-unstable-sensitive-to-two-studies.md) — related

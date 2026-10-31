@@ -51,3 +51,4 @@ Random-effects meta-analysis across seven studies reporting traction time in hip
 - [Surgeon experience in hip arthroscopy is associated with significantly shorter operative time in late versus early experience phases](hip-arthroscopy-experience-shorter-operative-time.md) — related
 - [HOS-SSS scores do not differ significantly between late and early hip arthroscopy experience phases](hip-arthroscopy-hos-sss-no-experience-difference.md) — related
 - [Late-experience hip arthroscopy cases show modest but significant gains in mHHS and NAHS compared with early cases](hip-arthroscopy-experience-modest-prom-gains.md)
+- [Fellowship-trained surgeons showed shorter operative times and fewer complications compared with non-fellowship peers](fellowship-trained-surgeons-shorter-operative-times-fewer-complications.md) — related

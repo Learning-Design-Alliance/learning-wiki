@@ -45,6 +45,8 @@ Systematic review of electronic databases identifying 26 eligible articles; the 
 
 
 ## Related Claims
+
 - [Drama and theatre-based work forms are used in teacher education to elicit critical reflection among teachers as preparation for the diverse classroom](drama-work-forms-elicit-critical-reflection-teachers.md) — related
 - [Drama and theatre-based work forms can enhance teachers' equity literacy skills, or prerequisites to those skills](drama-work-forms-enhance-equity-literacy-skills.md) — related
 - [Drama and theatre-based work forms in teacher education are associated with equity-related outcomes including empathy, perspective-taking, collaboration, attitude shifts, and advocacy](drama-work-forms-equity-outcomes-empathy-advocacy.md) — related
+- [A search of five databases yielded 1020 papers, of which 703 remained after deduplication and 190 were eligible for full‐text review](search-yielded-1020-papers-190-full-text-review.md)

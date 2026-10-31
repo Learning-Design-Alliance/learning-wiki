@@ -72,3 +72,4 @@ The same synthesis section reports format parameters: most i-RATs closed-book, "
 - [Included studies report positive correlations between TBL participation and assessment performance, with i-RAT scores predicting final examination performance](tbl-participation-correlates-assessment-performance.md) — related
 - Pre-clinical TBL research is dominated by first-year, in-person implementations, with most studies using classical rather than modified TBL — related
 - [Most published studies of prescribing competence assessment use multiple-choice formats, with scenario-based skills tests, short answer questions and calculations also common](mcq-most-common-prescribing-assessment-format.md) — related
+- [Multiple-choice question scores may not fully represent medical students' overall performance](mcq-scores-limited-assessment-scope.md) — related

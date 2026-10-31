@@ -68,3 +68,4 @@ The review reports, citing Zhu et al. (2026), a three-wave study of 589 universi
 - [More teacher support in AI-based instruction is not always better; a review found support worked well when balanced with students' autonomy and independent thinking](teacher-support-benefits-conditional-on-autonomy-balance.md) — related
 - [GenAI shows a dual-mechanism profile: meta-analytic learning benefits coexist with dependence-related costs to critical thinking](genai-dual-mechanism-amplifier-substitute.md) — related
 - [GenAI cognitive offloading of lower-order tasks frees cognitive resources but risks reduced human evaluation skills](genai-cognitive-offloading-benefits-and-risks.md) — related
+- [Student-centered teaching strategies promote autonomy and critical thinking in higher education](student-centered-strategies-promote-autonomy-critical-thinking.md) — related

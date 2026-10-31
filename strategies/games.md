@@ -67,6 +67,7 @@ Games are powerful because they embed [Practice](../elements/practice.md) and [A
 - [Case-based learning](case-based-learning.md) — analytic alternative when live decision-making is impractical
 - [Use experiential intercultural training methods such as simulations, role-playing and critical incidents to encounter perceptual and value differences](experiential-intercultural-training-methods.md)
 - [Add a game mode with input fields and customized feedback to a physics simulation for concept testing](simulation-game-mode-concept-testing-feedback.md)
+- [Pair online lectures with virtual role-play or simulation sessions to add experiential learning](online-lecture-virtual-roleplay-simulation.md)
 
 ## Examples
 - **[Duolingo](https://www.duolingo.com)** — gamified language learning using streaks, points, and levels to sustain daily practice.

@@ -52,3 +52,4 @@ Thematic synthesis of the motivational pathway codes 39 studies to learning moti
 - [Students reported that the dashboard boosted learning motivation and that predictive and prescriptive insights were beneficial to their learning](sensenablr-boosted-motivation-perceptions.md) — related
 - [AI-powered corrective feedback and repeated practice enhance oral language skills (Communicative Capacity Pathway)](ai-improves-speaking-proficiency-feedback-practice.md) — related
 - [The review reports mixed findings on AI's motivational effects: some studies show enhancement, others nonsignificant or negative effects](ai-motivation-effects-mixed-evidence.md) — related
+- [Review reports contradictory findings in prior literature on whether gamification yields long-term benefits for motivation and learning outcomes](prior-literature-contradictory-long-term-benefits-gamification.md) — related

@@ -52,3 +52,4 @@ Descriptive analysis of the 123 between-group studies' effect sizes, presented i
 - Study year of publication was not significantly related to effect size magnitude in the ADHD psychosocial treatment meta-analysis — related
 - [Mean effect sizes across the 13 reviewed meta-analyses ranged from -.11 to .57](mean-effect-sizes-range-negative-11-to-57.md) — related
 - Whether studies randomly allocated participants was not significantly related to effect size magnitude in the ADHD psychosocial treatment meta-analysis — related
+- [Average effect sizes for the most relevant teaching strategies range from 0.01 to 1.68, with a median of 0.42.](average-effect-sizes-teaching-strategies-range-0-01-to-1-68-median-0-42.md) — related

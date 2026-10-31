@@ -13,7 +13,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 210 claims (147 show a difference, 37 mixed, 26 no difference) · 149 studies (43 causal, 38 associational, 35 review, 13 quant-synthesis, 11 theoretical, 6 qualitative, 3 design), `q1`–`q4` · 31 of 149 report an effect size · 201 claims rest on one study
+> **Evidence** · 212 claims (149 show a difference, 37 mixed, 26 no difference) · 151 studies (43 causal, 38 associational, 36 review, 14 quant-synthesis, 11 theoretical, 6 qualitative, 3 design), `q1`–`q4` · 31 of 151 report an effect size · 203 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -259,6 +259,8 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [The co-creation environment significantly influenced post-test self-regulation after controlling for the pretest](../claims/cocreation-environment-causal-self-regulation.md) [+M] — instruction changes it
 - [Low-SRL students receiving GenAI feedback scored higher than tutor-feedback peers on LMS log measures of goal setting](../claims/genai-feedback-improves-low-srl-goal-setting.md) [+M] — an instructional effect differs with it
 - [Metacognitive strategies such as self-monitoring and reflective questioning have been shown to mitigate epistemic uncertainty](../claims/metacognitive-strategies-mitigate-epistemic-uncertainty.md) [+W] — learners who differ on it differ in outcomes
+- [Goal setting and time management skills are important drivers for improving the student learning experience of SDL](../claims/goal-setting-time-management-sdl-drivers.md) [+M] — learners who differ on it differ in outcomes
+- [SDL is associated with nurturing autonomy, curiosity, and self-regulation qualities in medical students](../claims/sdl-nurtures-autonomy-curiosity-self-regulation.md) [+W] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]

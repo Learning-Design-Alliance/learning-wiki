@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 148 claims (72 for, 60 mixed, 16 against) · 77 studies (24 review, 17 causal, 13 quant-synthesis, 9 qualitative, 9 design, 4 theoretical, 1 associational), `q1`–`q4` · 17 of 77 report an effect size · 143 claims rest on one study
+> **Evidence** · 150 claims (73 for, 61 mixed, 16 against) · 79 studies (26 review, 17 causal, 13 quant-synthesis, 9 qualitative, 9 design, 4 theoretical, 1 associational), `q1`–`q4` · 17 of 79 report an effect size · 145 claims rest on one study
 
 ## Description and scope
 
@@ -129,6 +129,7 @@ Ask for four facts when the brief omits them: **what exactly is the performance 
 - *Does teaching a simulated learner help the one who teaches?* [Learning by teaching](../claims/learning-by-teaching-improves-tutor-learning.md) [+M]; [Teachable agent in fourth grade](../claims/ta-improves-basic-and-added-value-gains-fourth-grade.md) [+M]
 
 ## Further evidence, not yet read against this model
+
 Read against the model on 2026-10-19; these bear on the page but do not change a configuration, a situation row or the default.
 - [AI-driven case simulations in ambulatory settings support diagnostic reasoning in nursing education](../claims/ai-ambulatory-case-simulations-diagnostic-reasoning.md) [+W]: a review's narrative statement with no effect size, about AI case simulations with diagnostic suggestions rather than a simulated person; it does not outweigh the trial in which a simulated patient left diagnostic accuracy unchanged, so the diagnostic row stands.
 - [Students report more assessment confidence after a simulated clinical course](../claims/simucase-increases-assessment-confidence.md) [+W]: confidence from the same ten-student pilot already cited; confidence is recorded separately from performance in this pattern.
@@ -139,6 +140,7 @@ Read against the model on 2026-10-19; these bear on the page but do not change a
 - [Simulation is a site where professional knowledge is produced and reshaped, not only rehearsed](../claims/simulation-site-professional-knowledge-transformation.md) [~W]: read 2026-10-19; an editorial's interpretive synthesis of qualitative studies (forestry, nursing, rescue, military); a framing, not a test.
 - [A social-chatbot intervention was followed by lower loneliness and social anxiety](../claims/quasi-experimental-chatbot-intervention-lowered-loneliness-short-term.md) [+W] (not about this page): read 2026-10-19; companionship for wellbeing, reported in a review, not rehearsal of a performance.
 - [Student satisfaction with virtual patients is generally positive](../claims/vp-satisfaction-generally-positive.md) [+W]: read 2026-10-19; 17 satisfaction studies, most items indifferent between groups; satisfaction is recorded separately from performance here and does not change the model.
+- [Virtual patient simulations for SUD training report positive learning outcomes across the 12 included studies](../claims/vp-sud-simulations-positive-learning-outcomes.md) [+W] — attached 2026-10-31 from Morvannou Adèle et al. (2024), which proposed "Diversify SUD populations portrayed in virtual patient simulations".
 
 ## Illustrative design instance and observation record
 
@@ -177,6 +179,7 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 - [High-fidelity simulation particularly enhances core clinical competencies such as CPR, infection control, and diagnostic reasoning](../claims/high-fidelity-simulation-enhances-core-competencies.md) [+W]
 - [VR-based nurse-physician communication team training is non-inferior to live simulation for communication performance and improves interprofessional attitudes](../claims/vr-noninferior-live-simulation-team-communication.md) [+W]
 - [VR simulation shows signals of benefit for communication training in undergraduate nursing students, especially for self-reported knowledge, self-efficacy, attitudes and confidence](../claims/vr-communication-training-nursing-benefit-signals.md) [+W]
+- [Standardized patients produced higher knowledge scores than high-fidelity simulation, but performance scores did not differ (Tuzer et al. study)](../claims/standardized-patients-vs-high-fidelity-simulator-knowledge.md) [~W]
 
 ## Examples
 
@@ -185,6 +188,7 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 - [Use teaching approximations (role play, microteaching) to scaffold pre-service teachers' pedagogical reasoning](../strategies/teaching-approximations-pedagogical-reasoning.md)
 - [Sequence interview training stepwise from AI-VPs to standardized patients to real patients](../strategies/stepwise-ai-vp-to-standardized-to-real-patients.md)
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](../strategies/tiered-ece-implementation-strategy.md)
+- [Pair online lectures with virtual role-play or simulation sessions to add experiential learning](../strategies/online-lecture-virtual-roleplay-simulation.md)
 
 ## Related Patterns
 - [Case-Based Learning](case-based-learning.md)

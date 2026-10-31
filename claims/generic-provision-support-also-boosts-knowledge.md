@@ -72,3 +72,4 @@ Meta-analysis of 8 studies (k = 45 effect sizes) for generic provision support o
 - [A feedback provision scaffold of prompts plus a sample solution significantly improves the quality of feedback messages pre-service teachers provide on peers' case analyses](feedback-provision-scaffold-improves-feedback-quality.md) — a narrower finding that bears on this claim
 - [During feedback provision, most students compared the text with internal manifestations of quality criteria, which supported error identification and evaluation](internal-quality-criteria-guide-error-identification.md) — related
 - [Neither scaffold significantly improves pre-service teachers' EIR application skills](no-scaffold-effect-eir-application.md) — related
+- [Educator influence through motivating, mentorship, evaluation and feedback supports student SDL development](educator-influence-motivation-mentorship-feedback-sdl.md) — related

@@ -53,3 +53,5 @@ Random-effects meta-analysis of 57 studies (2,902 control, 2,723 GAI-assisted pa
 - [GAI-assisted teaching significantly improves self-directed learning ability compared with traditional teaching (SMD = 1.25; OR = 7.37)](gai-teaching-improves-self-directed-learning-ability.md) — related
 - [GAI-assisted teaching significantly increases student satisfaction with teaching compared with traditional teaching (SMD = 1.52; OR = 5.58)](gai-teaching-increases-student-satisfaction.md) — related
 - [Virtual patients blended with traditional education improve knowledge more than traditional education alone (pooled SMD=0.73)](vp-blended-knowledge-advantage.md) — related
+- [Blended teaching shows no significant difference in multiple-choice question scores compared to traditional teaching](blended-teaching-no-significant-difference-mcq-scores.md) — related
+- [Simulation teaching improves medical students' multiple-choice question scores compared to traditional teaching](simulation-teaching-improves-mcq-scores-medical-students.md) — related

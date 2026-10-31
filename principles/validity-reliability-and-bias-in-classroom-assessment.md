@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 317 claims (136 for, 158 mixed, 23 against) · 241 studies (89 associational, 61 design, 34 review, 25 theoretical, 22 causal, 7 quant-synthesis, 3 qualitative), `q1`–`q3` · 20 of 241 report an effect size · 310 claims rest on one study
+> **Evidence** · 323 claims (140 for, 160 mixed, 23 against) · 244 studies (90 associational, 61 design, 35 review, 25 theoretical, 22 causal, 8 quant-synthesis, 3 qualitative), `q1`–`q3` · 20 of 244 report an effect size · 316 claims rest on one study
 
 ## Conditional relationship
 
@@ -234,6 +234,8 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Unproctored online exam results are biased toward higher ratings compared with proctored results](../claims/unproctored-online-exams-bias-toward-higher-ratings.md) [+W] — attached 2026-10-29 from Ardid Ramírez et al. (2015), which proposed "In blended assessment, treat the administration mode of online exams as a design decision that changes scores"; tests this page's relationship.
 - [Agreement between AI-generated competency scores and human ratings was mixed across studies, with some reporting moderate to strong agreement and others showing score inflation and inconsistent performance](../claims/ai-ssp-score-agreement-with-human-ratings-mixed.md) [~W] — attached 2026-10-31 from Zhang Wenjia (Stella) et al. (2026), which proposed "Deploy AI-SSPs to pursue scalable, more standardized clinical competency assessment, but treat validity and reliability across diverse learner groups as unproven"; tests this page's relationship.
 - [Modified Angoff with reality check achieves excellent inter-rater reliability](../claims/modified-angoff-reality-check-reliability.md) [+W] — attached 2026-10-31 from Kannan et al. (2025), which proposed "Select the Angoff variant deliberately, aligned with assessment purpose and context"; tests this page's relationship.
+- [OSCE designs with 5-10 stations achieve good internal consistency (Cronbach's alpha = 0.83), outperforming designs with fewer than 5 or more than 10 stations](../claims/osce-5-10-stations-optimal-reliability.md) [+W] — attached 2026-10-31 from Peng Qiyun et al. (2025), which proposed "Design OSCEs with 5-10 stations, each lasting less than 10 minutes, to achieve good internal consistency"; tests this page's relationship.
+- [When OSCEs have 5-10 stations, duration per station under 10 minutes yields significantly better internal consistency (alpha = 0.88) than 10 or more minutes (alpha = 0.64)](../claims/osce-station-duration-under-10-minutes-better-reliability.md) [+W] — attached 2026-10-31 from Peng Qiyun et al. (2025), which proposed "Design OSCEs with 5-10 stations, each lasting less than 10 minutes, to achieve good internal consistency"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -391,6 +393,10 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [The abbreviated 21-item German CTt shows adequate reliability and a unidimensional factor structure for primary school children](../claims/abbreviated-ctt-reliability-primary-school.md) [+W]
 - [Rubrics enhance grading consistency and inter-rater reliability in dental education assessment](../claims/rubrics-enhance-grading-consistency-dental-education.md) [+W]
 - [AI-based assessment of therapeutic communication skills showed high reliability (ICC > 0.97) in a cited quasi-experimental nursing study](../claims/ai-communication-assessment-high-reliability.md) [+W]
+- [When station number varies widely, duration time per station is not a major factor affecting OSCE internal consistency](../claims/osce-duration-not-major-factor-when-station-number-varies.md) [~W]
+- [Training reviewers and using rubrics reduces inconsistent evaluation and bias in CBA/HA](../claims/reviewer-training-rubrics-reduce-bias.md) [+W]
+- [Cronbach's alpha values for OSCE scores vary widely across studies, ranging from 0.43 to 0.93, with most studies not reaching good internal consistency](../claims/osce-cronbach-alpha-wide-variability.md) [~W]
+- [Virtual patient simulators show construct validity for assessing psychopharmacology proficiency](../claims/virtual-patient-simulator-construct-validity-psychopharmacology.md) [+W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

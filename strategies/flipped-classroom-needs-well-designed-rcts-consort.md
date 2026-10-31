@@ -42,7 +42,8 @@ Based on the low certainty of evidence for both academic performance and satisfa
 - [Undergraduate health professional students report more positive satisfaction with flipped class learning than with traditional class learning (SMD = 0.48), at low certainty](../claims/flipped-classroom-student-satisfaction-positive.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Prioritize high-quality RCTs with standardized assessment tools and subjective outcomes in future flipped classroom research](prioritize-high-quality-rcts-standardized-assessment.md)
 
 ## Examples
 -

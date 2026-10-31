@@ -50,6 +50,7 @@ The article's conclusion recommends that "Instructors and other educational lead
 - [Standard Inverted Classroom](standard_inverted_classroom.md)
 - [Flipped Learning](flipped-learning.md)
 - [Flipped Classroom](flipped-classroom.md)
+- [Promote the flipped classroom in low-resource settings using free digital tools, peer instruction, and group discussions.](flipped-classroom-low-resource-settings-strategy.md)
 
 ## Examples
 -

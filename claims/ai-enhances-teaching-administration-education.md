@@ -62,3 +62,4 @@ This is the review's framing statement about the dual scope of AI's influence �
 - [Personalization and differentiated instruction are rare in blended learning designs](personalization-limited-blended-designs.md) — reports the opposite
 - [AIED offers opportunities for personalized, efficient online teaching but teachers lack readiness to use it](aied-opportunities-teacher-readiness-gap.md) — related
 - [Four forces place traditional teaching practices under increasing stress, making design-based strategies necessary](four-drivers-stress-traditional-teaching.md) — related
+- [Integration of educational technology and digital tools enhances teaching and enables rapid feedback in virtual university environments](educational-technology-integration-enhances-teaching-feedback.md) — a broader claim this one bears on

@@ -84,3 +84,4 @@ The review reports Dwisaptarini et al.'s RCT of minimal invasive caries removal 
 - [Active methodologies show no definitive superiority over traditional teaching in undergraduate dentistry](no-definitive-superiority-active-methods-dentistry.md) — a broader claim this one bears on
 - [VR training's effect on OSATS-assisted skill acquisition shows conflicting evidence](vr-osats-conflicting-evidence.md) — related
 - [VR simulation training improves orthopaedic trainees' technical proficiency and shortens operative times](vr-simulation-improves-ortho-technical-proficiency.md) — reports the opposite
+- [Simulation with patient-specific 3D-printed teeth improved crown preparation quality versus traditional patient care](3d-printed-teeth-simulation-crown-preparation.md) — related

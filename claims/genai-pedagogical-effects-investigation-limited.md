@@ -58,3 +58,4 @@ The review's analysis of challenge-theme distribution by agent type (RQ2), obser
 - [GenAI models span multiple agent types, mainly model-based and goal-based, but categorisation is difficult without model specifics](genai-agent-type-characterisation.md) — related
 - [Only 4 of 23 reviewed conversational agent studies explicitly apply learning theories, indicating a gap between CA development and pedagogical grounding](only-four-ca-studies-apply-learning-theories.md) — related
 - [Reviews propose abundant strategies for developing digital literacy and supporting technology integration but provide no evidence of their actual impact](digitalization-strategies-lack-impact-evidence.md) — related
+- [The review identifies a significant gap in focused studies on competencies required for AI use in health care](knowledge-gap-ai-competency-studies.md) — a narrower finding that bears on this claim

@@ -57,3 +57,4 @@ Narrative summary of Table 2 effect sizes for individual method and approach stu
 - [Fluency training shows the largest intervention effect (g = 1.78) among intervention methods](fluency-training-largest-effect-chinese-children.md) — related
 - [Individual study effect sizes vary, with four studies showing statistically insignificant effects and eighteen significant ones](per-study-effect-sizes-vary-four-insignificant.md) — related
 - [Effect sizes of e-learning in VET vary widely across studies: 11 articles showed large, 4 medium, and 3 small effects](vet-e-learning-effect-size-distribution.md) — a broader claim this one bears on
+- [The certainty of evidence for the effects of teaching strategies on critical thinking ranges from very low to moderate, with no strategy rated high.](certainty-of-evidence-teaching-strategies-critical-thinking-very-low-to-moderate.md) — related

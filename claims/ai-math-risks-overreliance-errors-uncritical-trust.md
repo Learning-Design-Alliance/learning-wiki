@@ -218,3 +218,4 @@ Review synthesis on uncritical trust in AI outputs. The authors conclude that "u
 - [Less accurate, less complete, or less positively worded AI assistance was more likely to prompt revision, with small-to-medium effect sizes](ai-assistance-characteristics-predict-uptake.md) — related
 - [GenAI chatbot support increased executive help-seeking but reduced metacognitive engagement compared to human expert support](genai-chatbot-increased-executive-help-seeking-reduced-metacognition.md) — related
 - [Unstructured LLM use is associated with reduced engagement with primary reference texts and lower ability to identify hallucinations](unguided-llm-use-critical-appraisal-erosion.md) — related
+- [Regulatory oversight by bodies such as the US FDA is presented as critical for fostering trust in AI among clinicians and patients](regulatory-oversight-fosters-trust-in-ai.md) — related

@@ -47,3 +47,4 @@ Secondhand report of a Center for American Progress analysis of nine states that
 ## Related Claims
 - [Alternative and traditionally certified teachers were similar on academic credentials but differed in race, education major, concurrent coursework, and first-year mentoring](teacher-characteristics-differ-by-certification-route.md) — related
 - [Course grades and GPA predict high school and college outcomes better than standardized test scores or coursework](grades-better-predictor-than-test-scores.md) — related
+- [HA implementation increased diversity without decreasing academic metrics at UIC College of Nursing](uic-ha-diversity-without-academic-decline.md) — related

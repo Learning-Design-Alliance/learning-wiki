@@ -47,6 +47,7 @@ For researchers studying SRL scaffolds, the article recommends methodological ch
 - [Conduct systematic ablation studies comparing levels of interface scaffolding and tailoring to identify when scaffolding approaches are effective](ablation-studies-scaffolding-levels-and-tailoring.md)
 - [Rigorously compare PBL with traditional methods before broad PGME implementation, using larger samples, controls, and follow-up](compare-pbl-traditional-methods-before-pgme-implementation.md)
 - [Future active-learning research should use randomised controlled designs with larger samples and standardised outcome measures](rigorous-rct-design-future-active-learning-research.md)
+- [Conduct large-scale, well-designed RCTs with multiple outcome indicators to evaluate new teaching methods](large-scale-rcts-multiple-outcome-indicators-teaching-methods.md)
 
 ## Examples
 -

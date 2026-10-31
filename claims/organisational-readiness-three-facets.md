@@ -51,3 +51,4 @@ Authors' synthesis of the qualitative findings in the Discussion. The article ad
 - [Leadership commitment to adaptive learning was identified by both panels as a prerequisite, strengthened by strategy alignment and communication of empirical results](leadership-commitment-prerequisite-implementation.md) — related
 - [Educators face challenges at the student level, teacher level, and institutional level](makerspace-three-level-challenges.md) — related
 - [Equity commitments in technology adoption face ongoing constraints from infrastructure, funding, and organizational capacity](equity-commitments-constrained-infrastructure-capacity.md) — related
+- [The leadership and commitment of administrators and heads of units were fundamental for attendance at the educational programme.](leadership-and-commitment-fundamental-for-programme-attendance.md) — related

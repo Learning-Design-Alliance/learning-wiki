@@ -46,6 +46,7 @@ Drawing on the "hidden talents" literature, the article proposes that classroom 
 - [Design interventions at teacher and test levels to reduce content bias in math tests](teacher-and-test-level-bias-reduction-interventions.md)
 - [Strengths-Based Teaching](strengths-based_teaching.md)
 - [Respect Diverse Talents and Ways of Learning](respect_diverse_talents_and_ways_of_learning.md)
+- [Interventions targeting cognitive stimulation may help reduce SES-related cognitive and educational disparities](cognitive-stimulation-interventions-disadvantaged.md)
 
 ## Examples
 -

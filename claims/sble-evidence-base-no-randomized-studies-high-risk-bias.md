@@ -62,3 +62,4 @@ In the Results section on risk of bias, the review reports "The risk of bias in 
 - The methodological quality of forest-school studies is poor: most are at high or moderate risk of bias, with no follow-ups and inadequate statistical procedures — related
 - Most included studies carried a high risk of bias or some concerns, particularly for confounding and outcome measurement, limiting certainty — related
 - Included active-methodology studies had a high overall risk of bias — related
+- [All twelve included studies carried at least moderate risk of bias, with none rated low on at least six criteria](moderate-risk-of-bias-all-studies.md) — related

@@ -84,3 +84,4 @@ Authors' interpretation in the Discussion of the null graduation finding from th
 - Subject-matter-centered reform that ignores climate may raise achievement scores while increasing dropout rates — related
 - [Grade retention and tracking students into remedial instruction undermine achievement, while formative assessment with acceleration strategies improves learning](retention-and-downtracking-undermine-achievement.md) — related
 - [College enrollment and persistence did not improve after the science requirement, and college-going declined in later years](cps-science-requirement-no-college-gains.md) — related
+- [HA implementation increased diversity without decreasing academic metrics at UIC College of Nursing](uic-ha-diversity-without-academic-decline.md) — related

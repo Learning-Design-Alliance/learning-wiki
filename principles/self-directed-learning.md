@@ -18,7 +18,7 @@ sources:
 # Self-Directed Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 37 claims (12 for, 22 mixed, 3 against) · 44 studies (15 review, 9 theoretical, 7 causal, 6 quant-synthesis, 4 associational, 2 qualitative, 1 design), `q1`–`q4` · 7 of 44 report an effect size · 28 claims rest on one study
+> **Evidence** · 41 claims (14 for, 24 mixed, 3 against) · 46 studies (16 review, 9 theoretical, 7 causal, 7 quant-synthesis, 4 associational, 2 qualitative, 1 design), `q1`–`q4` · 7 of 46 report an effect size · 32 claims rest on one study
 
 ## Conditional relationship
 
@@ -119,6 +119,7 @@ Read against the model on 2026-10-15; the one claim below does not bear on a ste
 
 - [Tough's 1971 study found nearly all adults had undertaken a learning project in the past year, 68% self-planned and under 1% for credit, with women's categories logging fewer hours](../claims/tough-1971-learning-projects-prevalence-self-planned.md) [+W]: background only. A 1994 review's report of an interview study of 66 adults; it says most adult learning projects are self-planned, which is context for designing for adults, not evidence about how a hand-over should be run or whether it works.
 - [Evidence that PBL fosters SDL is mixed across studies](../claims/pbl-fosters-sdl-mixed-evidence.md) [~W] — attached 2026-10-19 from Loyens et al. (2008), which proposed "Provide conceptual clarity and guidance to teachers and students so PBL can produce self-directed learners".
+- [Self-directed learning yields higher mean exam scores than traditional didactic learning in undergraduate medical education](../claims/sdl-outperforms-tdl-exam-scores-medical-education.md) [+W] — attached 2026-10-31 from Aulakh Jasmine et al. (2025), which proposed "SDL should be incorporated into undergraduate medical curricula as an effective learning strategy"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -145,6 +146,9 @@ Completion, achievement at the end of the course, self-reported autonomy or moti
 - [SDL interventions produce significantly larger effects when SDL is the experimental condition rather than the control condition](../claims/sdl-experimental-condition-larger-effects.md) [~W]
 - [No included SDL studies measured Kirkpatrick Level 4 (patient/system) outcomes](../claims/sdl-no-kirkpatrick-level-4-outcomes.md) [-W]
 - [SDL effects are stronger for knowledge/test outcomes than for clinical performance or behavioral outcomes](../claims/sdl-stronger-knowledge-than-clinical-performance.md) [~W]
+- [PBL and active learning activities promote SDL while lectures and tests deter it, though evidence is inconsistent](../claims/pbl-promotes-sdl-lectures-deter.md) [~W]
+- [Clinical placement experiences, including early placement and patient interactions, enhance SDL](../claims/clinical-placement-enhances-sdl.md) [+W]
+- [Theoretical SDL shows a significant pooled advantage over TDL, while practical SDL does not reach statistical significance](../claims/sdl-theoretical-significant-practical-not.md) [~W]
 
 ## Related Principles
 - [Self-Regulated Learning](self-regulated-learning.md) — provides the mechanism-level account of how learners plan, monitor, and revise

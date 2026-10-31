@@ -59,3 +59,4 @@ Conceptual synthesis in the technical foundation section of the review, arguing 
 - [Immersive modalities, particularly virtual reality, are associated with higher perceived presence, engagement, and realism than less immersive formats](vr-immersion-higher-presence-engagement.md) — related
 - VR was defined in 95 studies, with stereoscopic visualisation and user interaction the most recurrent features — related
 - [Recurring features across XR-simulation in dentistry are stereoscopic vision, immersion, interaction, modification and haptic feedback](xr-recurring-features-dental-simulation.md) — related
+- [Realism of technology is a prominent enabler of critical thinking development in technologically supported SBL, mapped to the information quality dimension of the D&M IS Success Model](realism-enabler-critical-thinking-sbl.md) — related

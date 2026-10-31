@@ -49,6 +49,7 @@ The review recommends that published research on prescribing assessment clearly 
 
 - [Extend prescribing competence assessment research to professions other than medicine](recommend-extend-assessment-research-to-other-professions.md)
 - [Tailor Angoff implementation to programme and assessment needs, using trained multi-disciplinary panels with consensus-building](tailor-angoff-implementation-context.md)
+- [Adopt standardized, competency-based frameworks that align instructional content and assessment strategies with clearly defined clinical outcomes](standardized-competency-based-frameworks-orthodontic-education.md)
 
 ## Examples
 -

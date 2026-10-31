@@ -52,3 +52,4 @@ The review quotes Paas et al. (2004) to show the extraneous/germane distinction 
 - [Intrinsic and extraneous load are distinguished by whether element interactivity is essential to the task or a function of instructional procedures](intrinsic-extraneous-distinction-essential-vs-instructional.md) — reports the opposite
 - [The worked example effect is explained by reduced element interactivity relative to problem solving, and reverses with expertise](worked-example-effect-element-interactivity-explanation.md) — related
 - [AI tutoring imposes significantly higher extraneous cognitive load than expert instruction](ai-tutoring-higher-extraneous-cognitive-load.md) — related
+- [Cognitive load theory explains how clinical reasoning learning manages working memory capacity](cognitive-load-theory-clinical-reasoning-working-memory.md) — related

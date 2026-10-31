@@ -13,7 +13,7 @@ generated:
 # Social Supports
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 91 claims (72 show a difference, 13 mixed, 6 no difference) · 81 studies (23 associational, 15 qualitative, 14 review, 11 causal, 8 theoretical, 6 quant-synthesis, 4 design), `q1`–`q3` · 8 of 81 report an effect size · 91 claims rest on one study
+> **Evidence** · 93 claims (73 show a difference, 14 mixed, 6 no difference) · 83 studies (23 associational, 15 review, 15 qualitative, 11 causal, 8 theoretical, 7 quant-synthesis, 4 design), `q1`–`q3` · 8 of 83 report an effect size · 93 claims rest on one study
 
 ## Description
 Social supports are the people available to help a learner if needed, and the learner's perception that they are there: parents and family, friends and classmates, teachers and other school staff, and the wider community. The support they give can be emotional (care and compassion), appraisal (useful feedback), instrumental (time, money, resources) and informational (advice). The LVN stresses perception: feeling that support would be there, even if it is never called on, contributes to well-being and academic success, and help that is actually received can strengthen that perception and a learner's sense of efficacy. Effective support looks different across families and cultures and can be provided across income levels; what matters is what the people around a learner do. Supports can be eroded by family separation, bereavement, parental imprisonment, substance misuse or illness, by bullying and discrimination, and by moving schools, and a relationship with another trusted adult can partly make up for that. It is measured with perceived-support scales for children, adolescents and adults. It overlaps with [belonging](belonging.md) and with the [home learning environment](home-learning-environment.md).
@@ -127,6 +127,8 @@ Social supports are the people available to help a learner if needed, and the le
 - [Non-academic student supports, including social-emotional learning strategies and parent and family outreach, are positively associated with early literacy intervention effects on alphabetics outcomes](../claims/non-academic-supports-positively-associated-alphabetics.md) [+M] — an instructional effect differs with it
 - [Traditional instruction is approximately null versus Control in the primary network, and the analysis does not support claims that every active or structured node outperforms Control](../claims/traditional-null-versus-control-no-universal-superiority.md) [-M] — instruction changes it
 - [Intrinsic motivation, resilience, emotional intelligence, and perceived social support show mostly positive associations with academic performance in medical students](../claims/protective-psychosocial-factors-positive-association-medical-students.md) [+M] — learners who differ on it differ in outcomes
+- [Peers have an essential role in promoting SDL through collaboration, motivation and support, though effects are mixed](../claims/peers-promote-sdl-collaboration-motivation.md) [~M] — learners who differ on it differ in outcomes
+- [Preschool attendance, home learning activities, and parental support buffer the association between low SES and lower cognitive and language outcomes](../claims/preschool-home-learning-parental-support-buffer.md) [+W] — an instructional effect differs with it
 
 ## Measures
 - **Social Support Questionnaire, Short Form** (Sarason et al., 1987): self-report of the number of supportive relationships an adult has and satisfaction with them.

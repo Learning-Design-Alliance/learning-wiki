@@ -71,3 +71,4 @@ Meta-analytic moderator analysis of control-condition strategy across classroom 
 - [The classroom testing effect increases with the number of test repetitions on the same content.](test-repetitions-positive-relationship-classroom.md) — related
 - [Non-interactive teaching yields higher immediate scientific knowledge than restudy in secondary physics classrooms](non-interactive-teaching-immediate-knowledge-advantage.md) — a narrower finding that bears on this claim
 - [Retrieval practice boosts learning, and the testing effect generalizes to the acquisition of entirely new material (forward testing effect)](testing-effect-backward-and-forward.md) — related
+- [Practice tests are probably more effective than restudying for both retention of information and transfer of knowledge or skills.](practice-tests-probably-more-effective-than-restudying.md) — related

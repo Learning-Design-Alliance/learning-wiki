@@ -76,3 +76,5 @@ Publication bias assessment using funnel plots, Kendall's Tau, Egger's regressio
 - Publication year significantly moderates flipped classroom effect sizes in meta-regression — related
 - No evidence of publication bias was found in the flipped classroom literature, though dissertations showed a larger (non-significantly different) effect size than journal articles — related
 - No evidence of publication bias in the SDL meta-analysis — related
+- [Publication bias inflates flipped classroom effect estimates for knowledge outcomes but not for baseline knowledge.](flipped-classroom-publication-bias-knowledge-outcomes.md) — related
+- [Publication bias is present in the flipped classroom meta-analysis evidence base](publication-bias-flipped-classroom-meta-analysis.md) — related

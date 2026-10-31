@@ -47,3 +47,4 @@ The review's narrative analysis of the 19 included interventions observes that l
 ## Related Claims
 - Project/problem-based learning (n=17), lecturing (n=11) and place-based environmental education (n=9) were the most frequently used pedagogical approaches in the reviewed interventions — related
 - [Project-based learning was the most frequently studied SEITLA approach but showed a modest significant effect (g = 0.44)](seitla-project-based-modest-effect.md) — related
+- [Reported rheumatology teaching methods include lectures, PBL, inpatient service, shadowing, electives and patient educators](rheumatology-teaching-methods-included-studies.md) — related

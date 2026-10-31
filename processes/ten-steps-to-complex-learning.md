@@ -14,7 +14,7 @@ grain_size: programme
 # Ten Steps to Complex Learning
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 8 claims (5 for, 2 mixed, 1 against) · 14 studies (4 causal, 3 quant-synthesis, 3 theoretical, 2 review, 1 qualitative, 1 design), `q1`–`q4` · 1 of 14 report an effect size · 4 claims rest on one study
+> **Evidence** · 9 claims (6 for, 2 mixed, 1 against) · 15 studies (4 causal, 4 quant-synthesis, 3 theoretical, 2 review, 1 qualitative, 1 design), `q1`–`q4` · 1 of 15 report an effect size · 5 claims rest on one study
 
 ## Description
 Ten Steps is the design process that produces a [4C/ID](../patterns/4cid-four-component-instructional-design.md) blueprint. The pattern describes what the resulting instruction looks like — learning tasks, supportive information, procedural information, part-task practice. This page describes what a designer does to arrive at it, which is a different object and a genuinely different way of working.
@@ -66,6 +66,7 @@ The canonical enumeration of the ten steps is in van Merriënboer and Kirschner'
 
 - [Ten Steps design of a workplace PD program is time and resource-intensive, spanning nearly two years for a five-month program](../claims/ten-steps-design-cost-time-intensive.md) [-W]
 - [Task complexity and task difficulty are distinct concepts](../claims/task-complexity-distinct-from-difficulty.md) [~W]
+- [Stepwise task progression was reported in five of ten included studies and identified as important for skills training](../claims/stepwise-task-progression-in-dp-sbst.md) [+W]
 
 #### Supporting
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+M] — the model's central bet

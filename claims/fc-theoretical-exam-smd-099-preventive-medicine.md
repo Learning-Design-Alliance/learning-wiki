@@ -56,3 +56,5 @@ Meta-analysis of 24 studies comparing theoretical exam scores between FC and LBL
 - [Flipped classroom improves problem analysis and solving ability (pooled RR 1.47)](fc-problem-solving-rr-147.md) — related
 - [Flipped classroom improves teacher-student interaction (pooled RR 1.35), based on few studies](fc-teacher-student-interaction-rr-135.md) — related
 - [Exploratory subgroup analysis suggests larger effects in practice courses than theory courses, driven by only 2 practice-oriented studies](llm-teaching-practice-course-subgroup-signal.md) — related
+- [Flipped classroom instruction is associated with higher student satisfaction than traditional instruction in medical education (SMD 0.82).](flipped-classroom-higher-student-satisfaction-medical-education.md) — related
+- [Flipped classrooms yield higher theoretical knowledge scores than traditional lectures in Chinese clinical practice students (pooled SMD = 8.33)](flipped-classroom-higher-theoretical-scores-clinical-practice.md) — related

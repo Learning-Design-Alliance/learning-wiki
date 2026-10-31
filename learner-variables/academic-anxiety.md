@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 175 claims (114 show a difference, 40 mixed, 21 no difference) · 107 studies (43 associational, 22 causal, 22 review, 7 quant-synthesis, 6 theoretical, 5 qualitative, 2 design), `q1`–`q4` · 27 of 107 report an effect size · 168 claims rest on one study
+> **Evidence** · 178 claims (117 show a difference, 40 mixed, 21 no difference) · 110 studies (43 associational, 24 review, 23 causal, 7 quant-synthesis, 6 theoretical, 5 qualitative, 2 design), `q1`–`q4` · 27 of 110 report an effect size · 171 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -211,6 +211,9 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [The divergence between attendance and anxiety effects may reflect increased school exposure, which improves attendance quickly but may raise anxiety short-term](../claims/school-exposure-explains-attendance-anxiety-divergence.md) [~W] — instruction changes it
 - [Stress, anxiety, and depressive symptoms show predominantly negative associations with academic performance in medical students](../claims/stress-anxiety-depression-negative-association-medical-students.md) [+M] — learners who differ on it differ in outcomes
 - [VDT use was associated with reduced cadaveric dissection-related anxiety, including lower pre-exam STAI scores](../claims/vdt-reduces-dissection-anxiety-stai.md) [+M] — instruction changes it
+- [PP interventions reduce language learning anxiety](../claims/pp-interventions-reduce-language-anxiety.md) [+M] — instruction changes it
+- [Students performed not as well and experienced higher levels of anxiety if the language of the virtual simulation was not in their native language](../claims/non-native-language-virtual-simulation-worse-performance-higher-anxiety.md) [+M] — instruction changes it
+- [VR/haptics intravenous simulator training reduced state anxiety in all groups with no significant group differences](../claims/vr-haptics-iv-simulator-anxiety-no-group-difference.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

@@ -55,3 +55,4 @@ A two-factor ANCOVA on posttest EPST scores of 109 8th graders (CPS N=56, IPS N=
 - [Structured GenAI scaffolding training raises sophomore STEM students' posttest CSEM electromagnetism scores over problem-solving training (d = 0.81)](genai-scaffolding-training-improves-revision-performance.md) — related
 - [Online problem-solving solution performance predicted students' posttest performance on both the concept test and problem-solving test](online-ps-solutions-predict-posttests.md) — related
 - [CPS and IPS raised electromagnetism concept-test performance equally, so CPS's advantage was specific to problem-solving performance](cps-ips-equal-concept-test-gains.md) — related
+- [TBL benefits on scores differ by academic standing: high achievers gain more while low achievers may benefit less in problem-solving](tbl-benefits-vary-by-academic-standing.md) — related

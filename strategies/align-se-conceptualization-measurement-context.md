@@ -50,6 +50,7 @@ The review recommends that future SE research in undergraduate mathematics align
 - [Future social presence research should use solid conceptualization, report instrument validity, consider media generalization, and use diverse measurement approaches](social-presence-measurement-research-recommendations.md)
 - [Use statistical and conceptual procedures to distinguish sibling constructs and compare sibling theories' predictions](lawson-robins-sibling-construct-validation.md)
 - [Educators should state the empathy definition to be adopted, specify which components to emphasise, and align curricular design and assessment metrics accordingly](explicit-empathy-definition-alignment-strategy.md)
+- [Establish standard definitions and mission-aligned competencies for admissions](standardize-admissions-definitions-mission-aligned-competencies.md)
 
 ## Examples
 -

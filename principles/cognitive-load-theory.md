@@ -32,7 +32,7 @@ sources:
 # Cognitive Load Theory
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 69 claims (29 for, 39 mixed, 1 against) · 66 studies (30 causal, 15 review, 13 theoretical, 6 quant-synthesis, 2 qualitative), `q1`–`q4` · 14 of 66 report an effect size · 58 claims rest on one study
+> **Evidence** · 70 claims (30 for, 39 mixed, 1 against) · 67 studies (30 causal, 16 review, 13 theoretical, 6 quant-synthesis, 2 qualitative), `q1`–`q4` · 14 of 67 report an effect size · 59 claims rest on one study
 
 ## Conditional relationship
 
@@ -151,6 +151,7 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - [Gesture type affects reported mental effort, with lower effort for beat gestures in Experiment 1 and for deictic gestures in Experiment 2, but no effect on mental load](../claims/gesture-type-mental-effort-effects.md) [~W]
 - [Teachers valued the VCL for removing the physicality of practical work and raising the cognitive level of problem-solving](../claims/vcl-removes-physicality-raises-cognition.md) [+W]
 - [An AR application produced smaller test-score gains than cross-section study and higher extraneous cognitive load (Henssen et al.)](../claims/henssen-ar-lower-gains-higher-extraneous-load.md) [+W]
+- [Cognitive load theory explains how clinical reasoning learning manages working memory capacity](../claims/cognitive-load-theory-clinical-reasoning-working-memory.md) [+W]
 
 ## Related Principles
 - [Scaffolding](scaffolding.md)

@@ -54,3 +54,4 @@ Narrative synthesis of ideation studies within RQ1. The review reports, citing L
 - [Divergent thinking performance (AU-score) positively correlates with left IFG/MFG activation for AU relative to OC trials](au-performance-correlates-left-ifg-mfg-activation.md) — related
 - [Implicit pedagogical approaches—inquiry, open-ended tasks, cross-disciplinary and student-centered learning—contribute significantly to creativity development](implicit-pedagogies-foster-creativity.md) — related
 - [Research-led creativity training for teachers enhances children's divergent thinking and moves teachers' conceptions closer to researchers' definitions](teacher-creativity-training-enhances-children-divergent-thinking.md) — a narrower finding that bears on this claim
+- [Students performed better on knowledge tests after creative project interventions, per studies included in the review](knowledge-test-gains-after-creative-projects.md) — related

@@ -50,3 +50,4 @@ Narrative synthesis of the nine included reviews in the Strength of evidence sec
 - [Virtual patient simulations show mixed effects: improved diagnostic accuracy in one trial, no advantage over video teaching in another, and short-lived knowledge gains](virtual-patients-mixed-psychiatry.md) — a narrower finding that bears on this claim
 - [Immersion principle: people do not necessarily learn better in 3D immersive virtual reality than with a corresponding 2D desktop presentation (d = -0.10 across 9 tests)](immersion-principle-no-vr-benefit.md) — related
 - [Hybrid sequences combining VR with conventional practice yielded the most favorable outcomes in one trial](hybrid-vr-conventional-sequence-favorable.md) — a narrower finding that bears on this claim
+- [Virtual patient simulations for SUD training report positive learning outcomes across the 12 included studies](vp-sud-simulations-positive-learning-outcomes.md) — related

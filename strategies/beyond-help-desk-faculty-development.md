@@ -47,6 +47,7 @@ The preface describes the Dexter article's post-hoc analysis, which provided pri
 - [Support teachers' digital competence development through operationalisations connecting technical and pedagogical knowledge while protecting educator well-being](connect-technical-pedagogical-support-wellbeing.md)
 - [Institutional support package: professional development, technical support, engagement strategies, and assessment reform](institutional-support-technology-integration-strategy.md)
 - [Future research should examine how the extent of ICT-tool use in classroom settings directly influences students' overall academic achievement rather than individual subjects](future-research-classroom-ict-overall-achievement.md)
+- [Develop healthcare leaders' digital competence through continuous education, mentoring, and organizational structures](develop-leaders-digital-competence-education-mentoring.md)
 
 ## Examples
 -

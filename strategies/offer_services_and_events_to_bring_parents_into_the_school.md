@@ -67,6 +67,7 @@ Parent involvement research shows that families participate more when schools ac
 - [Families partner with schools on attendance and grades through belonging, collaborative support, and joint monitoring](family-engagement-three-playbook-actions.md)
 - [Teachers guide parents on homework support types and hold family meetings on learning goals](teacher-guidance-family-meetings-homework-support.md)
 - [Hold parents' meetings at which a principal, doctor, or minister persuades parents to give sex instruction at home and to permit class and lecture instruction at school.](parents-meetings-for-sex-instruction.md)
+- [Interventions targeting educational expectations in low SES families and schools may help bridge the achievement gap](educational-expectations-interventions-achievement-gap.md)
 
 ## Related Elements
 - [Check-In](../elements/check-in.md) — low-stakes relational routines that turn attendance into community

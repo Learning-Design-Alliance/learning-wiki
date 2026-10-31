@@ -45,6 +45,7 @@ The review recommends that professional development move beyond imported Western
 
 - [Indigenous–non-Indigenous academic collaboration grounded in trust, collegiality and un-learning of Western epistemic authority](indigenous-non-indigenous-collaborative-pedagogy.md)
 - [Test generalizability of curiosity and interest constructs across age groups and socio-cultural contexts](generalizability-curiosity-interest-contexts.md)
+- [Utilizing an inclusive pedagogy framework may prove advantageous in generating inclusive teaching approaches to support all students](utilize-inclusive-pedagogy-framework-for-inclusive-teaching.md)
 
 ## Examples
 -

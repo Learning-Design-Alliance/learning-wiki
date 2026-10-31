@@ -39,7 +39,7 @@ sources:
 # Cognitive Load Management
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 86 claims (36 for, 47 mixed, 3 against) · 73 studies (32 causal, 15 review, 10 quant-synthesis, 10 theoretical, 3 design, 2 associational, 1 qualitative), `q1`–`q4` · 25 of 73 report an effect size · 77 claims rest on one study
+> **Evidence** · 87 claims (37 for, 47 mixed, 3 against) · 74 studies (32 causal, 16 review, 10 quant-synthesis, 10 theoretical, 3 design, 2 associational, 1 qualitative), `q1`–`q4` · 25 of 74 report an effect size · 78 claims rest on one study
 
 ## Conditional relationship
 
@@ -168,6 +168,7 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - [Educators simplified open data sources and activities to prevent learners being overwhelmed by complexity and time constraints](../claims/open-data-simplification-of-activities.md) [+W]
 - [Cognitive load during the IVR-based PVAS task was generally low despite unsatisfactory perception and interpretation performance](../claims/ivr-pvas-low-cognitive-load-poor-performance.md) [~W]
 - [Students used GPT dialogue to manage perceived conceptual complexity, with simplification the most evident cognitive load management strategy, though cognitive load was not measured directly](../claims/gpt-cognitive-load-management-strategies.md) [+W]
+- [Cognitive load theory explains how clinical reasoning learning manages working memory capacity](../claims/cognitive-load-theory-clinical-reasoning-working-memory.md) [+W]
 
 ## Related Principles
 - [Segmenting Principle](segmenting.md)

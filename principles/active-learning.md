@@ -63,7 +63,7 @@ sources:
 # Active Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 44 claims (21 for, 22 mixed, 1 against) · 43 studies (11 causal, 8 quant-synthesis, 8 associational, 7 review, 5 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 6 of 43 report an effect size · 36 claims rest on one study
+> **Evidence** · 47 claims (22 for, 24 mixed, 1 against) · 46 studies (11 causal, 10 quant-synthesis, 8 review, 8 associational, 5 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 7 of 46 report an effect size · 39 claims rest on one study
 
 ## Conditional relationship
 
@@ -153,6 +153,7 @@ Claims read against the model on 2026-10-19 that do not change it. Each says why
 - [In the Python-based CS1 course at UofT, GATs produced no significant overall or topic-specific immediate performance effects](../claims/gats-no-immediate-performance-effect-uoft.md) [-W] — (not about this page) AI-generated program traces compared with another study resource in a flipped CS1 course; neither condition is a contrast of active tasks with listening.
 - [Amount of listening time while active was not significantly related to End-of-Unit exam performance](../claims/listening-time-not-significantly-related-to-exam-score.md) [~W] — (not about this page) "active" there means physically active while listening to vocabulary audio (14 learners, a correlation), not cognitive activity with content.
 - [Active learning opportunities in professional development moderate gains in teachers' skills, with alternating input-praxis design far outperforming blocked design for teaching-method use](../claims/active-learning-moderates-skill-gains.md) [+W] — attached 2026-10-22 from Johanna L. Donath et al. (2023), which proposed "Design inclusive-education professional development with active learning, practical relevance, and participation prerequisites to facilitate transfer to schools"; tests this page's relationship.
+- [Multiple new teaching methods (PBL + CBL, CBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on theoretical scores](../claims/new-methods-outperform-lbl-theoretical-scores.md) [+W] — attached 2026-10-31 from Guan Cheng Ye et al. (2025), which proposed "Replace passive lecture-based learning with active, problem-oriented methods in resident standardized training"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -175,6 +176,8 @@ Every claim this page cites is in the model above or under Further evidence (re-
 - [Simulation games are more effective when they actively rather than passively convey course material](../claims/simulation-games-effective-when-instruction-active.md) [+W]
 - [About two-thirds of Freeman et al. (2014) articles reported results favoring only the active learning group, but most comparisons were active learning versus lecture with weak internal validity controls](../claims/active-learning-results-favor-experimental-group.md) [~M]
 - [TBL in medical ethics education improves knowledge retention compared to lectures](../claims/tbl-improves-ethics-knowledge-retention.md) [+W]
+- [TBL benefits on scores differ by academic standing: high achievers gain more while low achievers may benefit less in problem-solving](../claims/tbl-benefits-vary-by-academic-standing.md) [~W]
+- [PBL and active learning activities promote SDL while lectures and tests deter it, though evidence is inconsistent](../claims/pbl-promotes-sdl-lectures-deter.md) [~W]
 
 ## Related Principles
 - [Guided Practice](guided-practice.md)

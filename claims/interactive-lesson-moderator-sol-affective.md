@@ -51,3 +51,4 @@ Mixed-effects moderator analysis on the synchronous-vs-asynchronous affective co
 - [Courses shorter than one semester showed larger synchronous-learning effect sizes than semester-or-longer courses](course-duration-moderator-sol.md) — related
 - [Learner level and discipline moderated effect sizes, with graduate/professional learners and the education discipline showing larger estimates](learner-level-discipline-moderators-sol.md) — related
 - [Synchronous online learning significantly and positively impacts cognitive outcomes compared with asynchronous online learning (g = 0.37)](sol-beats-asynchronous-cognitive-outcomes.md) — related
+- [Proposed course provides highest human interaction among compared courses](proposed-course-highest-human-interaction.md) — related

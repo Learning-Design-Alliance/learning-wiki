@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 360 claims (211 show a difference, 78 mixed, 71 no difference) · 240 studies (150 associational, 44 causal, 15 quant-synthesis, 12 review, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 43 of 240 report an effect size · 352 claims rest on one study
+> **Evidence** · 362 claims (212 show a difference, 79 mixed, 71 no difference) · 242 studies (150 associational, 44 causal, 15 quant-synthesis, 14 review, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 43 of 242 report an effect size · 354 claims rest on one study
 
 ## How to read this page
 
@@ -399,6 +399,8 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [TEDDICS differs across main subjects — humanities teachers emphasize digital skills more — but not across gender groups](../claims/teddics-subject-differences-no-gender-differences.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Female students consistently reported higher distress while male students reported higher resilience, a pattern observed across multiple countries](../claims/gender-patterns-distress-resilience-university-students.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Male students show higher PSMU scores than female students in three of five studies examining gender](../claims/males-higher-psmu-scores-mena-students.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [ALCs show sex-differentiated effects on mental health: improvements in girls, no improvement or worsening in boys](../claims/alc-mental-health-sex-differences.md) [~M] — an instructional effect differs by group
+- [Gender is associated with healthcare leaders' digital competence, with females' computer and patient monitoring system knowledge lower than males'](../claims/gender-associated-leaders-digital-competence.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

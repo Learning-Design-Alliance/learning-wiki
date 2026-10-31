@@ -80,3 +80,4 @@ An LLM prompt tournament with 12 learning engineers comparing 5 prompt templates
 - [Interrater reliability of algorithm categorizations was 93% using percent-agreement method](interrater-reliability-93-percent-algorithm-categorization.md) — related
 - [Performance-based assessments score low on generalizability, reliability, and standardization, with rater effects influencing scores](pba-psychometric-weaknesses.md) — related
 - [An automated scoring engine matched experienced human markers yet was rejected over the confidentiality-explainability conflict](crase-scoring-equivalent-to-human-markers-rejected.md) — related
+- [Standardized personal statements and letters of recommendation improve inter-rater reliability and mitigate bias](standardized-admissions-tools-reliability.md) — related

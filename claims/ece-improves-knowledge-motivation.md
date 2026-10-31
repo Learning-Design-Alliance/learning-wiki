@@ -52,3 +52,4 @@ Interventional study synthesized narratively: "mean test scores significantly in
 - [Most medical students report that early clinical exposure improves their communication skills](ece-improves-communication-skills-perceptions.md) — related
 - [All three ECE modalities show significant positive effects, with real clinical interactions showing the largest pooled effect](ece-types-subgroup-effects.md) — related
 - [ECE improves theoretical knowledge, clinical practice performance and self-efficacy, with the largest effect on self-efficacy](ece-competency-domain-effects.md) — a broader claim this one bears on
+- [Early clinical exposure in undergraduate dental education shows evidence of effectiveness in knowledge, psychomotor skills, and affective domains](ece-dental-effectiveness-cognitive-psychomotor-affective.md) — related

@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 86 claims (60 show a difference, 21 mixed, 5 no difference) · 65 studies (21 causal, 15 review, 10 associational, 7 theoretical, 5 qualitative, 4 design, 3 quant-synthesis), `q1`–`q3` · 13 of 65 report an effect size · 84 claims rest on one study
+> **Evidence** · 91 claims (65 show a difference, 21 mixed, 5 no difference) · 69 studies (21 causal, 19 review, 10 associational, 7 theoretical, 5 qualitative, 4 design, 3 quant-synthesis), `q1`–`q3` · 13 of 69 report an effect size · 89 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -126,6 +126,11 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [PBL is associated with perceived improvements in critical thinking and communication skills among undergraduate medical students in both resource-limited and resource-rich settings](../claims/pbl-associated-perceived-critical-thinking-communication-improvements-medical-students.md) [+M] — instruction changes it
 - [Cross-sectional studies in resource-limited settings suggest PBL is associated with perceived critical-thinking and communication gains, with collaborative discussion possibly compensating for infrastructural constraints](../claims/pbl-effective-resource-limited-settings-collaboration-compensates.md) [+M] — instruction changes it
 - [TEPBLL promotes eight language skills and knowledge areas: speaking, listening, reading, writing, vocabulary, creative and critical thinking, intercultural awareness, and content knowledge](../claims/tepbll-eight-skills-knowledge-promoted.md) [+M] — instruction changes it
+- [Engagement and motivation, including safe learning environment, immersion, and autonomy, are prominent enablers of critical thinking in technologically supported SBL](../claims/engagement-motivation-enablers-sbl.md) [+M] — instruction changes it
+- [Nursing students perceived that SBL using technology can enhance critical thinking development through opportunities for meta-cognition and reflection](../claims/metacognition-net-benefits-sbl.md) [+M] — instruction changes it
+- [Scenario-based learning significantly improves critical thinking and practical skills in orthodontic postgraduate training](../claims/scenario-based-learning-improves-orthodontic-critical-thinking.md) [+M] — instruction changes it
+- [Simulation improves critical thinking in nursing and medical students compared to traditional teaching](../claims/simulation-improves-critical-thinking-nursing-medical-students.md) [+M] — instruction changes it
+- [Student-centered teaching strategies promote autonomy and critical thinking in higher education](../claims/student-centered-strategies-promote-autonomy-critical-thinking.md) [+M] — instruction changes it
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

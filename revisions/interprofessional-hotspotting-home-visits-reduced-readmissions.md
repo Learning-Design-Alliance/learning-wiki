@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/interprofessional-hotspotting-home-visits-reduced-readmissions.md
+---
+
+# Revision history: [claims/interprofessional-hotspotting-home-visits-reduced-readmissions](../claims/interprofessional-hotspotting-home-visits-reduced-readmissions.md)
+
+### 2026-10-31 · ingest · process:wiki-ingest
+Ingested from pmc-11924666 (A scoping review of interprofessional education in healthcare: evaluating competency development, educational outcomes and challenges.) via eval_harness.py + ingest_extractions.py

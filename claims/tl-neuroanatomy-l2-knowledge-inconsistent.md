@@ -54,3 +54,4 @@ Narrative synthesis across the nine included RCTs assessing Kirkpatrick Level 2 
 - [Mind maps and concept maps significantly enhance knowledge retention, recall, and assessment performance in four of six RCTs among preclinical medical students](mind-concept-maps-improve-preclinical-performance-four-of-six-rcts.md) — related
 - [Self-assessed abilities are uncorrelated with actual performance measures, and Kirkpatrick level 1 is generally not recommended](self-assessment-uncorrelated-with-performance.md) — related
 - [Greatest VDT performance gains were observed in musculoskeletal and neuroanatomy modules](vdt-greatest-gains-msk-neuroanatomy.md) — related
+- [Video review improves knowledge and skills outcomes (Kirkpatrick level 2), with mixed findings across studies](video-review-kirkpatrick-level-2-knowledge-skills.md) — related

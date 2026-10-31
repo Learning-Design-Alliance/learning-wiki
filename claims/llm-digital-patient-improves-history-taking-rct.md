@@ -55,3 +55,5 @@ RCT reported in the review's Table 3 (Luo et al, n=13 per group, 1-hour session)
 - [A social robotic LLM-enhanced virtual patient was rated higher than a conventional computer-based platform for authenticity and learning effect](robotic-vp-higher-authenticity-than-computer-platform.md) — related
 - [Near-peer feedback improved clinical note scores compared to no feedback in one included study](near-peer-feedback-improves-clinical-note-scores.md) — related
 - [Software-based platforms generally improve examination scores, diagnostic accuracy, and decision-making performance](software-platforms-improve-knowledge-and-decision-making.md) — a broader claim this one bears on
+- [The one pretest-post-test study (Li B et al.) found significant score improvement after ophthalmology teaching (p < 0.01)](pretest-posttest-significant-improvement-li-b.md) — related
+- [Competency level (β = 0.50) and training duration (β = 0.42) are the strongest predictors of ophthalmology education outcomes](regression-competency-duration-strongest-predictors.md) — related

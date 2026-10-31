@@ -51,3 +51,4 @@ This narrative synthesis spans studies including a single-group pretest–post t
 - [Delirium knowledge gains from simulation-based education were sustained over time in repeated-survey and delayed-assessment studies](sbe-delirium-knowledge-sustained-gains.md) — related
 - [Increasing the proportion of simulation within a nursing course shows mixed effects on competency outcomes (Hayden et al. trial)](more-vs-less-simulation-mixed.md) — related
 - [Learner confidence consistently improved following e‐learning interventions in ENT education](elearning-ent-confidence-consistently-improved.md) — related
+- [In the Albright RCT, knowledge, skills, and likelihood to screen increased significantly from pre- to post-test and versus control](albright-rct-significant-gains.md) — related

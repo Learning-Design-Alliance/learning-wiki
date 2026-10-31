@@ -56,3 +56,5 @@ Correlational analysis across both conditions of the survey study. The article r
 - [Social capital among teachers has been associated with five categories of outcomes, including teacher professional development and improved student achievement](teacher-social-capital-five-outcome-categories.md) — a broader claim this one bears on
 - [Forums fostered feelings of relatedness through positive peer connections and shared struggles](forums-fostered-relatedness-peer-connections.md) — related
 - [TBL fosters professional identity development](tbl-fosters-professional-identity.md) — related
+- [Interventions including chatbots, blended learning programs, and mobile devices show positive effects on SDL among healthcare professionals](interventions-positive-effects-sdl-hcp.md) — related
+- [WhatsApp use during clinical placements was positively associated with professional identity and placement satisfaction but negatively associated with feelings of professional isolation](whatsapp-placement-correlates.md) — a narrower finding that bears on this claim

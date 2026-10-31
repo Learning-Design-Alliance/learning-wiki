@@ -64,3 +64,4 @@ The article's review section defines peer assisted learning as "acquiring knowle
 - [A 2007 report on an online peer-assisted learning community asserts, citing no studies, that peer coaching has proved a highly effective form of teacher professional development in the UK, US and other countries since the 1980s](peer-coaching-supports-teacher-professional-development.md) — related
 - [Interpersonal relationships are framed as supports for motivation at school](interpersonal-relationships-support-school-motivation.md) — related
 - [Maker education can promote STEM-related learning outcomes, collaboration, and empathy](maker-education-benefits-claim.md) — related
+- [Peers have an essential role in promoting SDL through collaboration, motivation and support, though effects are mixed](peers-promote-sdl-collaboration-motivation.md) — a narrower finding that bears on this claim

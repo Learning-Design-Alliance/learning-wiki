@@ -52,6 +52,7 @@ The authors recommend a "scaffolded integration of these methods": utilizing "Ca
 - [Align teaching method with competency gap and prioritize TBL for communication-focused courses](align-method-to-competency-gap-tbl-communication.md)
 - [Weekly trainee-led CBL sessions with case presentation, self-directed research between sessions, and attendance and utility tracking](trainee-led-weekly-cbl-feasibility-session-cycle.md)
 - [Integrate TBL with real-world clinical scenarios and clear discussion guidelines](tbl-real-world-scenarios-clear-guidelines.md)
+- [Integrate TBL with other teaching methods and modern educational technologies](tbl-integration-with-other-methods.md)
 
 ## Examples
 -

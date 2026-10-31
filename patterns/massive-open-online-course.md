@@ -13,7 +13,7 @@ generated:
 # Massive Open Online Course (MOOC)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 44 claims (11 for, 27 mixed, 6 against) · 40 studies (9 review, 9 associational, 7 causal, 6 theoretical, 5 quant-synthesis, 3 design, 1 qualitative), `q1`–`q4` · 6 of 40 report an effect size · 40 claims rest on one study
+> **Evidence** · 45 claims (11 for, 28 mixed, 6 against) · 41 studies (10 review, 9 associational, 7 causal, 6 theoretical, 5 quant-synthesis, 3 design, 1 qualitative), `q1`–`q4` · 6 of 41 report an effect size · 41 claims rest on one study
 
 ## Description and scope
 
@@ -163,6 +163,7 @@ This pattern is scoped to open courses at a scale where teacher time per learner
 - [MOOC learners provide personal opinions and vote on peer posts, not only feedback on course content](../claims/mooc-learners-vote-on-peer-posts.md) [~W]
 - [MOOCs are evolving from self-contained educational platforms into socialized and politicized informational tools](../claims/moocs-becoming-socialized-informational-tools.md) [~W]
 - [In a case study of N = 3550 learners, network graph analysis of navigational sequences showed only 608 sequences were evidenced despite open-ended choice](../claims/network-analysis-3550-learners-608-sequences.md) [-W]
+- [Large-scale psychiatry MOOC achieved steady test-score gains despite low completion rate](../claims/psychiatry-mooc-cbt-score-gains-low-completion.md) [~W]
 
 ## Related Patterns
 - [Online Course Design (Community of Inquiry)](online-course-design.md) — shares concern for interaction design, but MOOC scale makes deep learner-instructor interaction impractical in a way a smaller online course does not face

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-31
 sources:
   - id: pang-xuefei-2026
     resource: "https://doi.org/10.1016/j.identj.2026.109483"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4` · `i3` large
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i3` ECE showed significant positive effects on theoretical knowledge (SMD = 1.02), clinical practice performance (SMD = 1.47) and self-efficacy (SMD = 1.62). [→ Pang Xuefei 2026](#pang-xuefei-2026)
@@ -54,3 +55,5 @@ Competency-domain subgroup analysis of the 27 included studies, assessed via exa
 - [The positive effect of ECE holds in both randomised and nonrandomised study designs](ece-effect-both-rct-and-nrsi.md) — related
 - [Early clinical exposure improves the clinical skills of medical students compared with traditional teaching](ece-improves-clinical-skills.md) — related
 - [Early clinical exposure increases medical knowledge test scores and motivates learning](ece-improves-knowledge-motivation.md) — a narrower finding that bears on this claim
+- [Early clinical exposure in undergraduate dental education shows evidence of effectiveness in knowledge, psychomotor skills, and affective domains](ece-dental-effectiveness-cognitive-psychomotor-affective.md) — possibly the same claim (merge candidate)
+- [ECE reduces transition stress from preclinical to clinical training and supports smoother student transition](ece-reduces-transition-stress.md) — related

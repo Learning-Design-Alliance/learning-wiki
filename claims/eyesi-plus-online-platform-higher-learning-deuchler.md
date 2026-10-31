@@ -48,3 +48,4 @@ Pre-test/post-test study of 86 medical students reviewed within the systematic r
 - [EyeSi virtual reality simulator training produces statistically higher OSCE scores than control in Boden et al.'s randomised trial](eyesi-simulator-higher-osce-scores-boden.md) — related
 - [CLT-aligned e-learning modules improved cognitive load profiles and OSCE performance in simulation-based medical training (review-attributed to Gutierrez et al., 2023)](clt-aligned-e-learning-modules-improve-osce-performance.md) — related
 - [Plastic cannister designs are the most common direct ophthalmoscopy simulation model in the literature](plastic-cannister-most-common-do-simulation-model.md) — related
+- [Included studies report consistent weakness in advanced examination skills such as slit-lamp use and ophthalmoscopy](weak-advanced-examination-skills.md) — related

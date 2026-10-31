@@ -68,3 +68,5 @@ Study-level frequency analysis across the 54 included studies identifies infrast
 - [Trails were only partially successful technologically due to device and network problems](trails-partially-successful-technologically.md) — a narrower finding that bears on this claim
 - [Time allocation and power are the dominant reported problems in implementing JAS](jas-time-and-power-problems.md) — related
 - [Design features such as straightforward access, mobile-ready platforms, self-paced modular formats, and scenario-based content are reported facilitators of e-learning implementation](e-learning-design-features-facilitators-accessibility-self-paced-scenario.md) — related
+- [Internet access and trust in information are the main barriers to caregiver self-directed learning via mobile health](internet-access-and-trust-barriers-caregiver-self-directed-learning.md) — related
+- [Leaders report negative perceptions of technology centring on poor interoperability, data availability problems, and resource limitations](negative-perceptions-interoperability-data-availability.md) — related

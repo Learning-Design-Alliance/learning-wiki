@@ -56,3 +56,4 @@ Re-estimated main models testing whether pandemic effects vary by socioeconomic 
 - [Contrary to the hidden-talents hypothesis, low-SES students scored 18% lower on mathematics items of real-world importance](real-world-math-items-lower-low-ses-scores.md) — related
 - [Assessments like PISA-VET risk reinforcing inequalities in VET if underlying socioeconomic inequities are unaddressed](pisa-vet-equity-risk.md) — related
 - [The COVID-19 pandemic pushed institutions globally to abruptly shift instruction digital](covid-19-abrupt-digital-shift-instruction.md) — related
+- [SES is negatively associated with children's cognitive and academic performance, leading to long-term educational and economic disparities](ses-negative-association-cognitive-academic.md) — related

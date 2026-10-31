@@ -128,3 +128,4 @@ Follow-up univariate repeated-measures ANOVAs in the same randomized trial: SRL 
 - [Students in the integrated training program showed significantly greater performance progress between course assessments than students in the original program](integrated-training-greater-performance-progress.md) — related
 - [Self-reported SRL questionnaire scores rose over a five-week goal-setting intervention in all conditions, with no differences between conditions](srl-skills-increase-all-conditions.md) — reports the opposite
 - [The combined Climate and Preventure (CAP) trial showed no significant difference in cannabis use or cannabis-related harms between groups at any follow-up, despite greater cannabis-knowledge gains](cap-climate-preventure-no-cannabis-use-effect.md) — related
+- [Trainer-led online training outperformed self-paced online training for behavioral activation skills](trainer-led-beats-self-paced-online-skills-training.md) — related

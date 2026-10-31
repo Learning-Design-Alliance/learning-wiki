@@ -145,3 +145,4 @@ This research synthesis meta-analysed 99 studies (N = 7,669) of leisure-time rea
 - [Frequency of e-book reading on tablets shows no association with children's emergent literacy skills](ebook-reading-frequency-no-association-emergent-literacy.md) — related
 - [Children aged 2–4 years' home literacy experiences relate to their emergent literacy skill development](home-literacy-experiences-shape-emergent-literacy.md) — a broader claim this one bears on
 - [Orthography scores increase with years of formal education and with number of books read per year](orthography-improves-with-education-and-books-read.md) — related
+- [Preschool attendance, home learning activities, and parental support buffer the association between low SES and lower cognitive and language outcomes](preschool-home-learning-parental-support-buffer.md) — related

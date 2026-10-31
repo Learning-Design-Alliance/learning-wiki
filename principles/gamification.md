@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 59 claims (31 for, 25 mixed, 3 against) · 53 studies (19 causal, 14 quant-synthesis, 13 review, 3 associational, 2 design, 2 theoretical), `q1`–`q4` · 16 of 53 report an effect size · 51 claims rest on one study
+> **Evidence** · 61 claims (32 for, 26 mixed, 3 against) · 54 studies (19 causal, 14 quant-synthesis, 14 review, 3 associational, 2 design, 2 theoretical), `q1`–`q4` · 16 of 54 report an effect size · 53 claims rest on one study
 
 ## Conditional relationship
 
@@ -225,6 +225,8 @@ The expectation should weaken if controlled comparisons of the same practice wit
 - [Gamification improved CPR learning among younger learners compared with conventional teaching methods](../claims/gamification-effective-cpr-younger-learners.md) [+W]
 - [Gamified ALS training produced mixed short-term findings, with lower ALS-algorithm knowledge in the gamification group in a cluster randomised trial](../claims/gamification-mixed-als-algorithm-knowledge.md) [-W]
 - [The review reports a positive relationship between gamification and motivation in learning processes](../claims/gamification-motivation-positive-relationship-review.md) [+W]
+- [Review reports contradictory findings in prior literature on whether gamification yields long-term benefits for motivation and learning outcomes](../claims/prior-literature-contradictory-long-term-benefits-gamification.md) [~W]
+- [Scoping review of 33 studies finds increased motivation was the most frequently reported outcome of gamified applications in TEFL](../claims/scoping-review-gamification-tefl-motivation-most-reported-outcome.md) [+W]
 
 ## Related Principles
 - [Autonomy](autonomy.md) — gamification works when it expands meaningful choice, not when it controls learners through rewards

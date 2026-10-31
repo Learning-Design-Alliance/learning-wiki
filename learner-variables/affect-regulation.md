@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 225 claims (162 show a difference, 42 mixed, 21 no difference) · 141 studies (52 associational, 27 causal, 27 review, 12 qualitative, 10 quant-synthesis, 8 theoretical, 5 design), `q1`–`q4` · 35 of 141 report an effect size · 219 claims rest on one study
+> **Evidence** · 226 claims (163 show a difference, 42 mixed, 21 no difference) · 142 studies (52 associational, 28 review, 27 causal, 12 qualitative, 10 quant-synthesis, 8 theoretical, 5 design), `q1`–`q4` · 35 of 142 report an effect size · 220 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -265,6 +265,7 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Negative emotions, most commonly stress, were inversely correlated with clinical performance in some simulated or educational acute care settings](../claims/negative-emotions-inversely-correlated-performance-simulated-acute-care.md) [+M] — learners who differ on it differ in outcomes
 - [Paramedic trainees randomized to a low-stress condition calculated drug doses more accurately than those in the high-stress group](../claims/low-stress-condition-more-accurate-drug-dose-calculations.md) [+M] — learners who differ on it differ in outcomes
 - [The effects of emotions on non-procedural skills in real-world clinical settings were inconclusive, with contrasting findings on stress and performance](../claims/stress-nonprocedural-skills-real-world-inconclusive.md) [~M] — learners who differ on it differ in outcomes
+- [High stress and healthcare environment complexity are the primary barriers to effective decision-making](../claims/stress-complexity-primary-barriers-decision-making.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

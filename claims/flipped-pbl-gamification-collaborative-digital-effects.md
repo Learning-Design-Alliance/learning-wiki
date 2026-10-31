@@ -61,3 +61,5 @@ Narrative synthesis of the included innovation studies: the named active-learnin
 - [First-year medical students in the single first-year-focused study reported high engagement (97%) and perceived improved teamwork (87%) with PBL](first-year-students-high-engagement-teamwork-pbl.md) — related
 - [PBL and flipped classrooms frequently show better post-test performance and knowledge retention than traditional methods](pbl-flipped-better-post-test-performance.md) — related
 - PBL is the most investigated active teaching methodology in undergraduate dentistry, followed by flipped classroom and gamification — related
+- [Flipped classroom combined with gamification improves academic performance and autonomy](flipped-classroom-gamification-improves-performance-autonomy.md) — a narrower finding that bears on this claim
+- [Problem-based learning, case-based learning, small group discussion, flipped learning, and blended learning were the most common online active learning strategies employed.](oal-dental-education-common-strategies.md) — related

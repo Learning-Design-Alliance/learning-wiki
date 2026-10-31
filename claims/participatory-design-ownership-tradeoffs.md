@@ -68,3 +68,4 @@ Commentary noting that students in Cober et al.'s studies were considered passiv
 - [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related
 - [User-centered and participatory AIEd approaches engage users mainly in early design, limiting recognition of FATE issues arising in use](participatory-design-limits-fate-in-use.md) — possibly the same claim (merge candidate)
 - [FATE issues in AIEd present themselves when users gain ownership and adapt systems to their local contexts](ownership-process-surfaces-fate-issues.md) — related
+- [The inclusion of students in the design of online simulation approaches is limited to one participatory co‐design approach](student-co-design-limited-to-one-study.md) — related

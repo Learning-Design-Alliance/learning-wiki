@@ -45,9 +45,11 @@ PRISMA-ScR-guided scoping review searching Ovid-MEDLINE, Ovid-EMBASE, and the Co
 
 
 ## Related Claims
+
 - [A US Delphi study identified 42 competencies for geriatric dental fellowship training across seven domains, with no clear continuity to undergraduate curricula](forty-two-fellowship-competencies-seven-domains.md) — related
 - [Geriatric dentistry has been increasingly recognized as a distinct educational domain separate from special care dentistry since the mid-2010s, but curricular implementation remains heterogeneous](geriatric-dentistry-distinct-domain-heterogeneous-implementation.md) — related
 - Only 112 of 306 studies were potentially suitable for meta-analysis, with most excluded for design and reporting inadequacies — related
 - [Postgraduate geriatric dentistry training availability varies substantially across regions: about 30% of European schools, 6.9% of Latin American schools, and 69% of US dental schools](postgraduate-training-availability-regional-variation.md) — related
 - [Experiential learning in authentic clinical environments (community engagement, home visits, outreach rotations) was reported to produce the greatest positive impact on student attitudes, confidence, and perceived competence, but is the most resource-intensive](experiential-learning-greatest-impact-geriatric-dentistry.md) — related
 - Twenty-two studies were included from 1,286 screened records, with heterogeneous designs and disciplines — related
+- [A search of five databases yielded 1020 papers, of which 703 remained after deduplication and 190 were eligible for full‐text review](search-yielded-1020-papers-190-full-text-review.md)

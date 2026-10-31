@@ -52,3 +52,5 @@ Descriptive direction-of-effect synthesis across haptic simulator RCTs; the revi
 - [Haptic virtual reality simulation reduces procedural time for pulpotomy training compared with conventional simulators](ir-reduces-procedural-time-dental.md) — related
 - [Sensor-based force measurement discriminates skill levels, with experts suturing faster and with lower applied force than novices](force-sensing-discriminates-surgical-skill.md) — related
 - [Pre-training educational video review improved simulator scores and shortened the learning curve but temporarily increased completion time](video-review-improves-scores-plateau-earlier.md) — related
+- [DP-informed simulation-based surgical training is associated with improved psychomotor skill acquisition in laparoscopic surgery](dp-informed-sbst-improves-laparoscopic-psychomotor-skills.md) — related
+- [VR/haptics intravenous simulator training reduced state anxiety in all groups with no significant group differences](vr-haptics-iv-simulator-anxiety-no-group-difference.md) — related

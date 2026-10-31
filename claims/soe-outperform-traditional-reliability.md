@@ -48,3 +48,4 @@ Systematic review synthesis of reliability data across the 102 included studies 
 - [Student and examiner satisfaction is high for structured and virtual oral formats (72–96% agreement), with preference for SOEs over traditional viva](high-satisfaction-structured-oral.md) — related
 - [Examiner training and standardization are the most recommended solutions, and structured/mock formats show improved inter-rater reliability (kappa > 0.70)](training-standardization-solutions.md) — related
 - [Examiner variability (66.7% of studies) and student anxiety (41.2%) are the most frequently reported challenges of oral examinations](examiner-variability-top-challenge.md) — related
+- [Standardized personal statements and letters of recommendation improve inter-rater reliability and mitigate bias](standardized-admissions-tools-reliability.md) — a narrower finding that bears on this claim

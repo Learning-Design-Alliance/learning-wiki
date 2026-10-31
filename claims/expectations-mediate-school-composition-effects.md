@@ -52,3 +52,4 @@ Longitudinal SEM using Mplus indirect-effect estimation in the ELS:2002 sample; 
 - [Teacher expectations correlate most strongly with achievement among Year-10 expectation and aspiration measures](teacher-expectations-highest-achievement-correlations.md) — related
 - [Compositional effects of school-average achievement and SES on long-term outcomes are partly mediated by ASC and particularly by GPA](compositional-effects-mediated-by-asc-and-gpa.md) — related
 - [School-average SES positively predicts ASC and the three age-26 outcomes but not GPA](school-average-ses-positive-compositional-effect.md) — related
+- [Educational expectations, classroom and school environment, and teacher–student relationships mediate the association of SES with academic achievement](educational-expectations-school-environment-mediation-achievement.md) — related

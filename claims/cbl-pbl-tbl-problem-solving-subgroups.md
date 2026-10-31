@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-31
 sources:
   - id: zou-ya-2026
     resource: "https://doi.org/10.1186/s12909-026-08602-3"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i3` large
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Subgroup analyses show CBL (SMD = 1.36), PBL (SMD = 0.56), and TBL (SMD = 1.52) each significantly improve problem-solving abilities. [→ Zou Ya 2026](#zou-ya-2026)
@@ -52,3 +53,4 @@ Subgroup meta-analysis by teaching method for problem-solving abilities, reporte
 - [Student satisfaction with CBL, PBL and TBL in public health education was high, reported in 21 of 22 studies (95.4%)](high-satisfaction-21-of-22-public-health-active-learning.md) — related
 - [PBL and TBL significantly improve nursing students' self-directed learning](pbl-tbl-self-directed-learning-subgroups.md) — related
 - [TBL improves ethical reasoning and moral sensitivity](tbl-improves-ethical-reasoning-moral-sensitivity.md) — related
+- [Cluster analysis identifies PBL + WeChat, TBL and CBL + WeChat as most promising for theoretical and practical performance with low dissatisfaction](cluster-analysis-pbl-wechat-tbl-cbl-wechat-most-promising.md) — related

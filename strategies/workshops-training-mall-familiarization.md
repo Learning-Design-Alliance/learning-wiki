@@ -42,6 +42,7 @@ The article recommends structured familiarization activities to support MALL ado
 ## Related Strategies
 
 - [Foster positive learning communities and supportive environments to strengthen MALL attitudes and intentions](positive-community-support-mall-adoption.md)
+- [Build an orientation activity into XR study designs and use multiple sessions to increase tool familiarity](xr-orientation-activity-multiple-sessions.md)
 
 ## Examples
 -

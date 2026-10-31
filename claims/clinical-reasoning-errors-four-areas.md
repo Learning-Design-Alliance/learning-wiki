@@ -54,3 +54,4 @@ Definitional statement in the review's introduction, attributed to prior literat
 - [Students in virtual, technology-enhanced environments generally do not deploy effective metacognitive strategies unless guided by appropriate scaffolding](vle-learners-need-metacognitive-scaffolding.md) — related
 - [Metacognitive regulation in PT clinical reasoning is relational and often co-constructed in interaction with the self, patient, family, professionals and peers](mr-relational-interactive-co-constructed.md) — related
 - [Learner-related factors are the most frequently identified barriers to effective remediation of clinical reasoning skill deficits](learner-factors-most-frequent-remediation-barriers.md) — related
+- [Providing clinical cases is the primary method to enhance students' clinical reasoning](clinical-cases-primary-method-clinical-reasoning.md) — related

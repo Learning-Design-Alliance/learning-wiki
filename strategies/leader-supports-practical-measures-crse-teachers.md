@@ -44,6 +44,7 @@ The brief specifies supports school and district leaders should provide: advocat
 - [Five-step practical measurement process for improving CRSE mathematics instruction](five-step-practical-measurement-process-crse.md)
 - [Use guiding questions to diversify existing mathematics curriculum and assessments when adopting a new curriculum is not possible](guiding-questions-diversify-math-curriculum-assessments.md)
 - [Protect teachers from social and political backlash by communicating CRSE's value and providing norms and probing questions for sociopolitical discussions](protect-teachers-sociopolitical-backlash-crse.md)
+- [Leaders should act as advocates and role models when implementing technology into practice](leaders-as-advocates-technology-implementation.md)
 
 ## Examples
 -

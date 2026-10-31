@@ -66,7 +66,7 @@ sources:
 # Signaling Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 35 claims (18 for, 16 mixed, 1 against) · 29 studies (12 causal, 11 review, 4 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q4` · 9 of 29 report an effect size · 31 claims rest on one study
+> **Evidence** · 36 claims (19 for, 16 mixed, 1 against) · 30 studies (12 causal, 11 review, 5 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q4` · 9 of 30 report an effect size · 32 claims rest on one study
 
 ## Conditional relationship
 
@@ -196,6 +196,7 @@ The expectation should weaken if comparisons with comparable novice learners, ho
 - [In a three-group eye-tracking experiment, the pointing group significantly outperformed both the tracing group and the no-touch group on comprehension performance](../claims/pointing-outperforms-tracing-and-no-touch-comprehension.md) [+W]
 - [Realism can serve as signaling when a drastic contrast in shading and rendering highlights relevant parts](../claims/realism-signaling-drastic-contrast.md) [~W]
 - [DHH students' feedback suggests the signaling principle may be a valuable design consideration](../claims/dhh-signaling-principle-valuable.md) [+W]
+- [Signalling, integrated pictures and words, and pedagogical agents probably improve learning outcomes.](../claims/signalling-integrated-pictures-and-pedagogical-agents-probably-improve-learning.md) [+W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

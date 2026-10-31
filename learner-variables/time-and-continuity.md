@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 144 claims (99 show a difference, 34 mixed, 11 no difference) · 126 studies (47 causal, 31 associational, 21 review, 13 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 27 of 126 report an effect size · 140 claims rest on one study
+> **Evidence** · 148 claims (102 show a difference, 35 mixed, 11 no difference) · 127 studies (47 causal, 31 associational, 22 review, 13 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 27 of 127 report an effect size · 144 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -201,6 +201,10 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [The variance of planning time shows no significant fixed effect on CPS performance but a significant task-dependent random effect correlated with task difficulty](../claims/variance-planning-time-task-dependent-cps.md) [~M] — learners who differ on it differ in outcomes
 - [Time spent on tasks, days to hand in, and words in forums were the variables most related to final marks.](../claims/time-task-days-handin-word-forum-related-to-marks.md) [+M] — learners who differ on it differ in outcomes
 - [Intervention dosage (duration, frequency, intensity) shows no consistent association with app effect sizes](../claims/app-dosage-no-consistent-association.md) [-M] — an instructional effect differs with it
+- [Attendance is generally positively correlated with medical student academic performance, though findings are mixed](../claims/attendance-performance-positive-correlation-mixed.md) [~M] — learners who differ on it differ in outcomes
+- [Electronic resources as adjuncts to in-person teaching were associated with increased attendance in three studies](../claims/electronic-resources-adjunct-increased-attendance.md) [+M] — instruction changes it
+- [Mandatory attendance policy initially raised attendance but was abolished due to dissatisfaction, administrative burden and declining performance](../claims/mandatory-attendance-policy-mixed-outcomes.md) [+M] — instruction changes it
+- [Removal of an attendance credit policy coincided with a statistically significant attendance decrease](../claims/attendance-credit-removal-decrease.md) [+M] — instruction changes it
 
 ## The evidence by question
 

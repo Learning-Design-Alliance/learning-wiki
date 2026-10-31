@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 35 claims (19 for, 13 mixed, 3 against) · 24 studies (8 causal, 7 review, 5 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 7 of 24 report an effect size · 34 claims rest on one study
+> **Evidence** · 37 claims (20 for, 14 mixed, 3 against) · 25 studies (8 causal, 8 review, 5 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 7 of 25 report an effect size · 36 claims rest on one study
 
 ## Description
 Gamification is the element in which points, progress indicators, challenges, or other game-like structures are used to shape participation and persistence.
@@ -59,6 +59,8 @@ Gamification is the element in which points, progress indicators, challenges, or
 - [Gamification effectiveness varies by task type, population and cultural context, limiting generalization](../claims/gamification-effectiveness-context-dependent-limitation.md) [~W]
 - [The review reports a positive relationship between gamification and motivation in learning processes](../claims/gamification-motivation-positive-relationship-review.md) [+W]
 - [Gamified ALS training produced mixed short-term findings, with lower ALS-algorithm knowledge in the gamification group in a cluster randomised trial](../claims/gamification-mixed-als-algorithm-knowledge.md) [-W]
+- [Review reports contradictory findings in prior literature on whether gamification yields long-term benefits for motivation and learning outcomes](../claims/prior-literature-contradictory-long-term-benefits-gamification.md) [~W]
+- [Scoping review of 33 studies finds increased motivation was the most frequently reported outcome of gamified applications in TEFL](../claims/scoping-review-gamification-tefl-motivation-most-reported-outcome.md) [+W]
 
 ## Related Elements
 - [Adaptive Difficulty](adaptive-difficulty.md)

@@ -48,6 +48,8 @@ The report recommends that districts first be clear about what they want to lear
 - [Develop Observable Criteria](develop_observable_criteria.md)
 - [Setting Goals](setting_goals.md)
 - [Understanding By Design Unit Template](understanding-by-design-unit-template.md)
+- [Establish standard definitions and mission-aligned competencies for admissions](standardize-admissions-definitions-mission-aligned-competencies.md)
+- [Adopt standardized, competency-based frameworks that align instructional content and assessment strategies with clearly defined clinical outcomes](standardized-competency-based-frameworks-orthodontic-education.md)
 
 ## Examples
 -

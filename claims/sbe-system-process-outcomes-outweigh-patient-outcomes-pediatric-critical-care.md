@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the reviewed pediatric/neonatal critical care studies, significant Level 4a system-process improvements were demonstrated (e.g., faster ECMO deployment, fewer unplanned PICU admissions). [→ Zanin A 2026](#zanin-a-2026)
@@ -73,3 +73,5 @@ The review's narrative synthesis of included studies reports that direct patient
 - [Low-cost simulation studies in nursing most frequently target specific clinical competencies (79.5%), with obstetric and neonatal emergency management the single largest group](scoping-review-low-cost-simulation-competency-coverage.md) — related
 - [No included SDL studies measured Kirkpatrick Level 4 (patient/system) outcomes](sdl-no-kirkpatrick-level-4-outcomes.md) — related
 - [In one included study, simulation-based team training in a trauma bay was followed by a 16 percent reduction in total resuscitation time and faster completion of primary surveys.](steinemann-resuscitation-time-reduction.md) — a narrower finding that bears on this claim
+- [NTS training in ICUs shows no significant changes in patient safety culture, length of stay or mortality rates](nts-training-icu-no-organizational-mortality-effect.md) — related
+- [Fewer studies assessed Kirkpatrick level 3 behaviour and level 4 patient outcomes, and higher‐level feature combinations remain unclear](usra-few-high-kirkpatrick-studies.md) — related

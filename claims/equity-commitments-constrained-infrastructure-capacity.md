@@ -65,3 +65,4 @@ Focus group finding: virtually every participant stressed equity, but campuses l
 - [Organisational readiness for adaptive learning is a multi-faceted construct operationalised through technological, individual, and leadership readiness](organisational-readiness-three-facets.md) — related
 - [Wardrip proposes online learning support roles help educators build awareness for criticizing technological tools' capabilities](support-roles-awareness-tool-critique.md) — a narrower finding that bears on this claim
 - [An institutional vision of digital technology use, supported by group commitment and professional learning, is needed to train teachers for the future of educational technology](institutional-vision-group-commitment-digital-technology.md) — related
+- [Integration of educational technology and digital tools enhances teaching and enables rapid feedback in virtual university environments](educational-technology-integration-enhances-teaching-feedback.md) — related

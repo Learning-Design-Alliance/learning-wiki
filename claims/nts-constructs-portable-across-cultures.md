@@ -50,3 +50,4 @@ The review notes that inclusion of studies "from North America, Europe, and Asia
 - Low-cost simulation studies in nursing span multiple continents, with 89.7% conducted on a single continent and North America the most common location — related
 - [The GTA literature is skewed towards the Global North and largely omits patient perspectives, despite patient-centred justifications for GTA programmes](gta-literature-gaps-patient-voice-global-north.md) — related
 - [NTS training for emergency department professionals is associated with consistent pre- to post-training improvements in knowledge, teamwork attitudes, and self-confidence (low to moderate certainty).](nts-training-improves-ed-learning-outcomes.md) — a narrower finding that bears on this claim
+- [NTS training in ICUs shows no significant changes in patient safety culture, length of stay or mortality rates](nts-training-icu-no-organizational-mortality-effect.md) — related

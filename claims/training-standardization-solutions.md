@@ -67,3 +67,4 @@ Review synthesis of solution outcomes. The review reports that "structured and m
 - [Examiner variability (66.7% of studies) and student anxiety (41.2%) are the most frequently reported challenges of oral examinations](examiner-variability-top-challenge.md) — related
 - [Structured oral examinations show higher reliability than traditional formats, with median Cronbach's alpha of 0.75 across studies](soe-outperform-traditional-reliability.md) — related
 - [Three independent expert instructors reached exceptionally high inter-rater reliability when grading 1200 bash exam responses, establishing a reliable human reference standard](expert-triad-high-inter-rater-reliability-bash-grading.md) — related
+- [Standardized personal statements and letters of recommendation improve inter-rater reliability and mitigate bias](standardized-admissions-tools-reliability.md) — a narrower finding that bears on this claim

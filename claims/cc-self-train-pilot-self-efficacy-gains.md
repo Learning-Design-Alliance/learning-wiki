@@ -79,3 +79,4 @@ Non-parametric confirmation of the overall pre/post gain in the same pilot. The 
 - [Intervention-cohort students reported positive pre–post shifts in Innovation and Motivation and Self-Directed Learning Ability](prepost-shifts-innovation-motivation-self-directed-learning.md) — related
 - [Improvements over baselines are statistically significant, with Cohen's d ranging from 1.2 to 1.8 for key metrics](statistical-significance-effect-sizes-key-metrics.md) — related
 - [Single-group studies uniformly reported improvement after distance simulation training in self-assessment, knowledge, or skills](single-group-prepost-all-improved.md) — related
+- [Knowledge and self-efficacy in COVID-19 caregiving increased after a self-learning software intervention](self-learning-software-increased-covid-caregiving-knowledge.md) — related

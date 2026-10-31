@@ -73,3 +73,4 @@ The review reports, citing the included studies, that the online tool showed les
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related
 - [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
 - [Non-traditional clinical placements (Recovery Camp) reduce stigma more than typical placements](recovery-camp-reduces-stigma-more-than-typical-placement.md) — related
+- [Integration of educational technology and digital tools enhances teaching and enables rapid feedback in virtual university environments](educational-technology-integration-enhances-teaching-feedback.md) — related

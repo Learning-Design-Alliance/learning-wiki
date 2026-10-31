@@ -69,3 +69,4 @@ Meta-analysis of partial correlations for math (20 effect sizes controlling for 
 - Egger's test indicates asymmetry bias in the cross-sectional ToM–achievement evidence base despite a right-skewed p-curve — related
 - [Earlier academic achievement longitudinally predicts later theory of mind (pooled r = .32), based on few studies](early-achievement-predicts-later-tom.md) — related
 - [A combination of sociocognitive variables predicts concurrent academic outcomes at school entry](sociocognitive-combination-predicts-school-entry-outcomes.md) — a broader claim this one bears on
+- [SES is a powerful predictor of executive function, language ability, and academic achievement](ses-predictor-ef-language-achievement.md) — related

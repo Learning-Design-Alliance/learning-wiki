@@ -60,3 +60,4 @@ Theoretical argument in the commentary about measurement limits: relying on self
 - [University students adapt their behavioral processing of discrepant science content as a function of their epistemic cognition and discrepancy type](srl-processing-adapts-to-epistemic-cognition-and-discrepancy-type.md) — related
 - [Traditional self-report methods face significant limitations in capturing the dynamic nature of SRL](self-report-srl-limitations-dynamic-nature.md) — related
 - [Learning analytics can reliably record certain behaviors but cannot necessarily validate inferences about what learners know or are motivated to learn](trace-data-reliability-vs-validity-inference.md) — related
+- [The review could not conclude whether creative projects affect metacognition outcomes because no included study used validated metacognition inventories](metacognition-not-formally-assessed-creative-projects.md) — related

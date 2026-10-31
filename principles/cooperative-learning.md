@@ -13,7 +13,7 @@ generated:
 # Cooperative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 45 claims (19 for, 26 mixed) · 37 studies (16 quant-synthesis, 11 causal, 5 review, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 15 of 37 report an effect size · 38 claims rest on one study
+> **Evidence** · 46 claims (20 for, 26 mixed) · 38 studies (16 quant-synthesis, 11 causal, 6 review, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 15 of 38 report an effect size · 39 claims rest on one study
 
 ## Conditional relationship
 
@@ -116,6 +116,7 @@ Immediate group performance, individual achievement at the end of a unit, delaye
 - [The effect of cooperative learning on mathematics achievement does not differ significantly by educational level](../claims/educational-level-moderator-not-significant.md) [~W]
 - [The effect of cooperative learning on mathematics achievement differs significantly by implemented technique, with multiple intelligence-assisted and STAD techniques largest](../claims/cooperative-technique-moderator-significant-stad-mi.md) [~W]
 - [The effect of cooperative learning on mathematics achievement does not differ significantly by implementation period](../claims/implementation-period-moderator-not-significant.md) [~W]
+- [Cooperative learning, computer-supported collaborative learning, and digital games probably improve learning.](../claims/cooperative-learning-cscl-and-digital-games-probably-improve-learning.md) [+W]
 
 ## Related Principles
 

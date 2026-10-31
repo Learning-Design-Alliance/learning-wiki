@@ -50,3 +50,5 @@ Systematic review of 15 studies (2010–2025) on clinical simulation in nursing 
 - [AI-enhanced simulation in high-acuity nursing training improves clinical confidence and emergency preparedness](ai-simulation-improves-clinical-confidence-nursing.md) — related
 - [Simulation-based education compared to patient-based clinical teaching alone shows a large pooled advantage in objectively assessed outcomes in undergraduate nursing students](sbe-vs-clinical-pooled-smd-0-96.md) — related
 - [The effect of high-fidelity simulation on practising nurses' self-confidence is inconclusive, varying by study design](hfs-self-confidence-inconclusive-design-dependent.md) — related
+- [Very high majorities of students rated high-fidelity simulation as enhancing learning, clinical reasoning, decision-making, and value](coffey-hfs-student-ratings.md) — related
+- [Simulation's impact on student reflection remains inconclusive due to limited evidence](simulation-reflection-inconclusive-limited-evidence.md) — related

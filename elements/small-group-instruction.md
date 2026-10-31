@@ -13,7 +13,7 @@ generated:
 # Small-Group Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (7 for, 2 mixed, 2 against) · 11 studies (6 quant-synthesis, 2 review, 2 qualitative, 1 causal), `q2`–`q3` · 6 of 11 report an effect size · 11 claims rest on one study
+> **Evidence** · 12 claims (8 for, 2 mixed, 2 against) · 12 studies (6 quant-synthesis, 3 review, 2 qualitative, 1 causal), `q2`–`q3` · 6 of 12 report an effect size · 12 claims rest on one study
 
 ## Description
 Small-group instruction is the element in which learners work with an instructor or facilitator in a reduced-size group for targeted teaching, discussion, or support. It is useful when instruction benefits from more responsiveness than whole-class delivery allows.
@@ -46,6 +46,7 @@ Small-group instruction is the element in which learners work with an instructor
 - [Small group and one-to-one interventions produced larger literacy gains for FSM pupils than whole class or whole school approaches](../claims/small-group-one-to-one-literacy-fsm-largest.md) [+W]
 - [Small-group learning effects vary by classroom gender and ethnic diversity, with effects smaller in female-dominated and predominately White classrooms](../claims/diversity-composition-moderates-small-group-effects.md) [~W]
 - [Small group sizes produced the largest CMC effect compared with no grouping or groups of more than 3 students](../claims/cmc-small-group-sizes-largest-effect.md) [+W]
+- [Higher SDL ability is reported when students work in small groups with peers and an educator rather than one-on-one](../claims/small-groups-peers-educator-higher-sdl.md) [+W]
 
 ## The evidence by question
 - *Does targeted instruction by an adult in a small group raise struggling learners' achievement more than whole-class delivery or other intervention components, and how small does the group need to be?* [Small group instruction is associated with significantly larger effect sizes than CAI and incentive components in targeted secondary interventions](../claims/small-group-instruction-outperforms-cai-incentives.md) [+M]

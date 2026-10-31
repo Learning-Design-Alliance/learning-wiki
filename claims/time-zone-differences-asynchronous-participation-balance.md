@@ -49,3 +49,4 @@ Interview finding from the case study. Students found asynchronous discussion cl
 - [Moderation of synchronous computer-mediated interaction differs from face-to-face or asynchronous moderation](moderation-synchronous-cmc-differs-from-other-modes.md) — related
 - [Introductory face-to-face meetings are the dominant strategy for stimulating social interaction in blended learning](introductory-f2f-meeting-stimulates-interaction.md) — related
 - [Synchronous and asynchronous communication technologies are commonly employed to support communication between students, industry partners and teaching staff during WIL](communication-technologies-support-wil.md) — related
+- [A trend toward blended educational approaches combining synchronous and asynchronous learning activities emerged after 2019 in SBL for critical thinking](blended-sync-async-trend-sbl.md) — related

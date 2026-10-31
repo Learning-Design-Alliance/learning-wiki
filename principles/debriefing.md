@@ -177,6 +177,7 @@ A good debrief conversation, a correct stated change, the next performance, dela
 - [Use the simulated class as low-stakes deliberate practice placed late in teacher preparation, with transcript-based debriefs](../strategies/simulated-class-deliberate-practice-late-placement.md)
 - [Blend the PEARLS debrief with CHAT-guided facilitation to extend debriefing from the individual to the team and system](../strategies/blended-pearls-chat-debrief-strategy.md)
 - [Include debriefing with reflective questions after simulation sessions before receiving feedback](../strategies/debriefing-before-feedback-simulations.md)
+- [Use clinical pause points during simulation debriefing to promote timely knowledge construction and clinical judgement](../strategies/clinical-pause-simulation-debriefing.md)
 
 ## Key Sources
 - Cheng, A., Grant, V., Dieckmann, P., Arora, S., Robinson, T., & Eppich, W. (2015). Faculty development for simulation programs. *Simulation in Healthcare, 10*(4), 217-222. [doi:10.1097/SIH.0000000000000090](https://doi.org/10.1097/SIH.0000000000000090)

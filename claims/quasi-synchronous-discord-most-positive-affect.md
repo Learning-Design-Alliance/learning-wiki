@@ -50,3 +50,4 @@ Sentiment analysis (AFINN, BING, NRC lexicons) of debate chatlogs from one cours
 - [Content analysis found comparable evidence of cognitive engagement across all three modalities, with forums having the most instances](comparable-cognitive-engagement-across-modalities.md) — related
 - [Logistical flexibility of the asynchronous and quasi-synchronous modalities supported behavioral engagement, while the synchronous modality's scheduling demands disrupted participation](logistical-flexibility-behavioral-engagement.md) — related
 - [The time students had to prepare responses before interacting was connected with all three dimensions of online learner engagement across asynchronous, synchronous, and quasi-synchronous debates](time-to-prepare-connected-all-ole-dimensions.md) — related
+- [Proposed course provides highest human interaction among compared courses](proposed-course-highest-human-interaction.md) — related

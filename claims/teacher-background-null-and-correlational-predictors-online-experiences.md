@@ -68,3 +68,4 @@ Pearson correlations (Table 7) among the 229 teachers. "the more children teache
 - [Demographic moderators (child gender, parent gender, ethnicity, sample type, socio-economic status) show limited moderating effects on the self-efficacy–partnership association](limited-demographic-moderators.md) — related
 - [Exploratory moderation analyses found no significant moderators (age, gender, SES, baseline self-control, baseline life events) of the life events–self-control relation](no-moderators-life-events-self-control.md) — related
 - [Age, gender, developmental status, SES, and sample region do not significantly moderate the inhibitory control–mathematical ability correlation](no-demographic-moderation-inhibitory-control-math.md) — related
+- [SDL readiness among nurses shows no significant correlation with age, gender, academic status, or marital status](sdl-readiness-no-demographic-correlations.md) — related

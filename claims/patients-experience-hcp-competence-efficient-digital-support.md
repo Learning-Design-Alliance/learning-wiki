@@ -67,3 +67,4 @@ The review's meta-aggregation (Table 5) identified 'Technology disruptions' and 
 - [Patients experience healthcare professionals as competent in digital counselling when they support self-management through tailored guidance and disease-specific information](patients-experience-hcp-competence-self-management-support.md) — related
 - [Patients experience healthcare professionals as competent in digital counselling when they establish a reciprocal relationship built on trust, listening, and a comfortable atmosphere](patients-experience-hcp-competence-reciprocal-relationship.md) — related
 - [During ERT, teachers selected technologies based on familiarity, availability, functionality, and technical competence](ert-technology-selection-four-factors.md) — related
+- [Nurse-led telecare and telemedicine improve communication, self-management, and continuity of care in biologics therapy](nurse-led-telecare-improves-biologics-care.md) — related

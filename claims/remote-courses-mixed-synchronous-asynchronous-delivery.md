@@ -52,3 +52,4 @@ Table 1 of the national student survey (n = 1,008) reports delivery mechanisms: 
 - [Time zone differences affected international students' timely participation in asynchronous forums, and a balance of synchronous and asynchronous communication was regarded as beneficial](time-zone-differences-asynchronous-participation-balance.md) — related
 - [Asynchronous lessons were rated higher than synchronous lessons on the POET-O](poet-o-asynchronous-rated-higher-than-synchronous.md) — related
 - [Several students voluntarily used Zoom's recording and transcription features asynchronously after the live debate to support cognitive engagement](zoom-recording-transcription-cognitive-engagement.md) — a narrower finding that bears on this claim
+- [Electronic resources as adjuncts to in-person teaching were associated with increased attendance in three studies](electronic-resources-adjunct-increased-attendance.md) — related

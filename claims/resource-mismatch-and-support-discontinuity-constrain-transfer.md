@@ -84,3 +84,4 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [A 'Learning as Teachers' approach with comprehensive post-training materials and program-director roles is associated with sustained or enhanced competency over time](learning-as-teachers-associated-with-sustained-pocus-competency.md) — related
 - [Reported barriers to simulation effectiveness include insufficient debriefing, lack of repeated exposure, and inadequate faculty development](simulation-barriers-debriefing-faculty.md) — related
 - [Common barriers to pressure injury prevention include staff shortages, high workload, limited resources, and insufficient institutional support.](systemic-barriers-pi-prevention.md) — related
+- [Integrative SDL frameworks combining individual motivation with structured organizational support yielded the best outcomes in fostering lifelong learning among healthcare professionals](integrative-sdl-frameworks-best-outcomes.md) — related

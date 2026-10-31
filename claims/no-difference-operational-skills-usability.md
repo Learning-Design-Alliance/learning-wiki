@@ -63,3 +63,4 @@ Primary outcome domains B and E in the within-participants comparison of 20 stud
 - [Hybrid sequences combining VR with conventional practice yielded the most favorable outcomes in one trial](hybrid-vr-conventional-sequence-favorable.md) — related
 - [Virtual lab simulations improved blood typing knowledge and motivation but faced technical and language barriers](virtual-labs-improve-blood-typing-knowledge-motivation.md) — related
 - [VR simulation training improves orthopaedic trainees' technical proficiency and shortens operative times](vr-simulation-improves-ortho-technical-proficiency.md) — reports the opposite
+- [Across all modalities, training interventions improved either performance or safety outcomes](training-interventions-improve-performance-or-safety-across-modalities.md) — related

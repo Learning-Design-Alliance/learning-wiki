@@ -73,3 +73,4 @@ Evaluator-blinded parallel RCT (n=20 medical students) comparing Vuzix M300XL sm
 - [Three comparative studies reported superior outcomes for distance simulation over traditional training, involving augmented reality telementoring, remote robotic teaching, and a virtual classroom](distance-simulation-superior-outcomes-three-studies.md) — reports the opposite
 - [Sensor-based force measurement discriminates skill levels, with experts suturing faster and with lower applied force than novices](force-sensing-discriminates-surgical-skill.md) — related
 - [Remote teaching achieves competency outcomes equivalent to traditional learning for basic surgical skills in most studies](rt-equivalent-to-tl-basic-surgical-skills.md) — related
+- [Simulation and virtual-reality training improved technical performance, task completion time, and perceived realism in thyroid surgery trainees](simulation-vr-improves-thyroid-surgery-technical-performance.md) — related

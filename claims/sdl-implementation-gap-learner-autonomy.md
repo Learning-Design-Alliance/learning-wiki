@@ -47,3 +47,4 @@ Systematic characterization of SDL implementation across 125 included studies, c
 ## Related Claims
 - [Educator involvement in choosing a pilot tool is associated with higher engagement and implementation fidelity, while lack of autonomy contributed to low usage and negative feelings](educator-buy-in-engagement-fidelity-edtech-pilots.md) — related
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — a broader claim this one bears on
+- [SDL is associated with nurturing autonomy, curiosity, and self-regulation qualities in medical students](sdl-nurtures-autonomy-curiosity-self-regulation.md) — related

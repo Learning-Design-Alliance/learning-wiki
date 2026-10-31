@@ -49,3 +49,4 @@ The review reports, citing Li et al. (2019), a study with 123 undergraduates (85
 - [Pointing and tracing gestures improved retention and comprehension over no gesturing (review attributes this to Macken & Ginns, 2014)](pointing-tracing-gestures-improve-retention-comprehension.md) — related
 - [Most agent characteristics, including nonverbal communication, motion, and voice, did not moderate the instructional effectiveness of pedagogical agents](agent-characteristics-mostly-not-moderators.md) — reports the opposite
 - [Mimicking tracing and pointing gestures on a touchscreen during timed multimedia worked examples hindered adolescent learners' geometry learning](touchscreen-tracing-hinders-timed-worked-examples.md) — reports the opposite
+- [Signalling, integrated pictures and words, and pedagogical agents probably improve learning outcomes.](signalling-integrated-pictures-and-pedagogical-agents-probably-improve-learning.md) — a broader claim this one bears on

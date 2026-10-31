@@ -59,3 +59,4 @@ Authors' interpretation in the discussion, not a tested result: they state the i
 - [Students attributed improved understanding to the discussion process of the implementation model rather than the clicker technology itself](learning-attributed-to-process-not-technology.md) — a narrower finding that bears on this claim
 - [Learning Space Redesign Alone Insufficient](learning-space-redesign-alone-insufficient.md) — a broader claim this one bears on
 - [CLASP students achieved an average normalized FCI gain of 0.39, above the traditional-course range and in the middle of the interactive-engagement range, despite only about a third of one quarter on mechanics](clasp-fci-normalized-gain.md) — related
+- [Teachers in ALCs use more student-centred and collaborative pedagogies than in traditional classrooms](alc-student-centred-pedagogy.md) — related

@@ -92,3 +92,4 @@ Vermunt (2005) compared learning patterns of students of seven disciplines at a 
 - [Perceived GenAI gains differ by discipline: arts and economics/management students report stronger cognitive and motivational gains than education and law students](genai-disciplinary-differences-hss.md) — related
 - [Review of 23 ILS studies since 2004 finds more dimensionality in learning patterns than previously considered](ils-learning-patterns-greater-dimensionality.md) — related
 - [Bennett et al.'s study engaged a diverse cross-section of university teachers across disciplines and modalities, yet reported common shared design practices](diverse-cohort-common-shared-design-practices.md) — related
+- [Internal and external factors influence clinical reasoning facilitation in clinical settings](internal-external-factors-clinical-reasoning-facilitation.md) — related

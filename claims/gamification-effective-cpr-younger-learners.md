@@ -49,3 +49,4 @@ The review reports, citing Otero-Agra et al. (2019), that gamification methodolo
 - [Real-time feedback systems generally improve CPR quality in simulation-based training, particularly compression rate and depth](real-time-feedback-improves-cpr-quality-simulation.md) — related
 - [Gamification produces a statistically significant small-to-moderate positive effect on motivation in secondary and higher education mathematics (g = .383)](gamification-motivation-mathematics-meta-effect.md) — related
 - [In one mixed-methods study of university students, reported in a review, gamified vocabulary learning gave better test results, motivation and satisfaction than traditional instruction](gamification-raises-motivation-satisfaction.md) — related
+- [Neonatal resuscitation VR gamification showed no significant anxiety improvement over simulation and control groups](neonatal-resuscitation-vr-no-significant-anxiety-gain.md) — related

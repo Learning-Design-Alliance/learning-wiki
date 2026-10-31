@@ -23,7 +23,7 @@ sources:
 # Deliberate Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 17 claims (9 for, 8 mixed) · 31 studies (13 quant-synthesis, 7 review, 6 theoretical, 5 causal), `q1`–`q4` · 11 of 31 report an effect size · 8 claims rest on one study
+> **Evidence** · 19 claims (11 for, 8 mixed) · 32 studies (14 quant-synthesis, 7 review, 6 theoretical, 5 causal), `q1`–`q4` · 11 of 32 report an effect size · 10 claims rest on one study
 
 ## Conditional relationship
 
@@ -117,6 +117,8 @@ Re-read against the model on 2026-10-15; these two do not bear on its relationsh
 
 - [Students in a deliberate practice group reported satisfaction with the learning process on a survey given only to that group](../claims/deliberate-practice-increases-student-satisfaction.md) [+W] — the same dissertation as the licensing claim; self-reported satisfaction, and the claim page is unclear whether the traditional group was surveyed at all. Too thin to bear on whether learners sustain the effort the design asks for.
 - [Deliberate practice can expand short-term memory capacity beyond the conventional seven-item limit](../claims/deliberate-practice-expands-memory-capacity.md) [+W] — a second-hand report, in the same dissertation, of the digit-span training studies; one entry at `q1`. Shows that specific practice can change a capacity thought fixed; not a design finding.
+- [DP-informed simulation-based surgical training is associated with improved psychomotor skill acquisition in laparoscopic surgery](../claims/dp-informed-sbst-improves-laparoscopic-psychomotor-skills.md) [+W] — attached 2026-10-31 from Wickramasinghe D (2025), which proposed "Structure simulation-based surgical training according to deliberate practice principles, including immediate feedback and stepwise task progression"; tests this page's relationship.
+- [DP adherence varied widely across studies, with the most structured programs yielding the greatest benefits](../claims/dp-adherence-variability-influences-outcomes.md) [+W] — attached 2026-10-31 from Wickramasinghe D (2025), which proposed "Structure simulation-based surgical training according to deliberate practice principles, including immediate feedback and stepwise task progression"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

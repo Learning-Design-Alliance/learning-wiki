@@ -44,7 +44,8 @@ An online PD developed in Articulate Rise for K-12 administrators, technology fa
 - [Cybersecurity Pd Positive Perceptions](../claims/cybersecurity-pd-positive-perceptions.md) [+M]
 
 ## Related Designs
-- 
+
+- [Seven-module progressive course structure with longitudinal manuscript preparation](seven-module-progressive-srma-course-structure.md)
 
 ## Examples
 -

@@ -72,3 +72,4 @@ The agenda reports, citing Montgomery, Allensworth, & Correa (2010), that under 
 - [Taking English I instead of remedial English increased English credit earning with no adverse consequences on failure rates or test scores](english-enrollment-effect-increased-credit-no-adverse.md) — related
 - [Chicago's College-Prep-for-All policy nearly universalized ninth-grade Algebra I and English I enrollment and closed course-taking gaps by race, ability, and special education status](college-prep-all-increased-ninth-grade-enrollment-equity.md) — related
 - [Enrolling in English I instead of remedial English increased credit earning with no adverse consequences, but few other benefits](english-enrollment-credit-gains-few-benefits.md) — related
+- [Mandatory attendance policy initially raised attendance but was abolished due to dissatisfaction, administrative burden and declining performance](mandatory-attendance-policy-mixed-outcomes.md) — related

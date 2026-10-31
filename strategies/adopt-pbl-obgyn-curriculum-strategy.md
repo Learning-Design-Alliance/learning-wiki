@@ -52,6 +52,7 @@ Based on the review's synthesis, the authors recommend PBL as an interesting too
 ## Related Strategies
 
 - [Scaffold method choice by student progression: CBL early, transitioning to PBL and TBL](scaffold-cbl-early-transition-pbl-tbl.md)
+- [Orient learners to the expectations and active nature of PBL to prevent lower satisfaction](orient-learners-to-pbl-expectations.md)
 
 ## Examples
 -

@@ -49,6 +49,8 @@ The review's challenges section recommends that institutions implementing gamifi
 - [Prepare educational staff early for digital transformation competency and train teachers to select and use appropriate communication technology tools](early-staff-preparation-digital-competency-training.md)
 - [Pursue continuous collaboration between digital learning platform providers and school districts, with teacher training, to interconnect platform use with instruction](provider-district-collaboration-for-dlp-use.md)
 - [Use regulated, supervised interactive tablet games as a low-cost stimulation support for early childhood educators](regulated-tablet-games-early-educator-support.md)
+- [Address technology access disparities with offline or low-tech alternatives when implementing gamified learning](offline-low-tech-alternatives-for-technology-access-disparities.md)
+- [Provide professional development to equip educators with gamification implementation skills](professional-development-for-gamification-implementation.md)
 
 ## Examples
 -

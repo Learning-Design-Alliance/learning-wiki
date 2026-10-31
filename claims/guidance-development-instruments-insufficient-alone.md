@@ -49,3 +49,4 @@ The report reviews two types of policy instruments used to promote intellectuall
 - [None of the three key organizational characteristics is individually sufficient for strong freshman course performance in CHSRI small schools](individual-conditions-insufficient-course-performance.md) — a broader claim this one bears on
 - [Internal organisational conditions strengthen internal social drivers promoting technological change](organisational-culture-sustainability-strengthen-social-drivers-ai-adoption.md) — related
 - [Meier and Stefaniak highlight educators' professional development and organizational support as policy-level needs for online learning](professional-development-organizational-support-policy.md) — related
+- [Supportive organizational cultures enhance self-directed learning practices among healthcare professionals, whereas restrictive policies hinder them](organizational-culture-enhances-sdl-hcp.md) — related

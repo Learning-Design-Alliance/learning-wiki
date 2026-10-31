@@ -55,3 +55,4 @@ The article's review of the empirical evidence base for PBL states that "conside
 - [Tutorial group size moderates SDL gains in PBL: small and medium groups gained SDL, large groups declined](tutorial-group-size-moderates-sdl.md) — related
 - [Learning through the experience of solving problems can build both content knowledge and thinking strategies](problem-experience-builds-content-and-thinking-strategies.md) — related
 - [Evidence that PBL fosters SDL is mixed across studies](pbl-fosters-sdl-mixed-evidence.md) — related
+- [Peers have an essential role in promoting SDL through collaboration, motivation and support, though effects are mixed](peers-promote-sdl-collaboration-motivation.md) — related

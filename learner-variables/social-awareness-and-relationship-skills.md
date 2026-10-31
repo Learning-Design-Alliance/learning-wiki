@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 148 claims (98 show a difference, 34 mixed, 16 no difference) · 109 studies (35 review, 26 associational, 18 causal, 14 quant-synthesis, 7 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 29 of 109 report an effect size · 144 claims rest on one study
+> **Evidence** · 149 claims (99 show a difference, 34 mixed, 16 no difference) · 110 studies (36 review, 26 associational, 18 causal, 14 quant-synthesis, 7 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 30 of 110 report an effect size · 145 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -189,6 +189,7 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [Simulation increases participants' empathy, communication and interpersonal skills and decreases anxiety](../claims/simulation-increases-empathy-communication-skills.md) [+W] — instruction changes it
 - [Simulation-based interventions produce a small but statistically significant improvement in nursing students' empathy](../claims/simulation-small-significant-empathy-gain.md) [+M] — instruction changes it
 - [Virtual patient interventions improved medical students' empathy in all 19 included studies, with effects reported immediately after intervention in 17 studies](../claims/vp-interventions-empathy-improvements-all-19-studies.md) [+W] — instruction changes it
+- [Early preclinical exposure group outperformed late exposure group on theory, OSCE communication, and empathy measures](../claims/epce-higher-theory-osce-empathy-scores.md) [+M] — instruction changes it
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

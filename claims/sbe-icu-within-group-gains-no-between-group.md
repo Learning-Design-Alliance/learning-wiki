@@ -56,3 +56,8 @@ This single-blind, parallel-group randomized controlled trial randomized 72 crit
 - [High-fidelity simulation improves ECT procedural skills substantially but does not reliably improve theoretical knowledge or confidence](hfs-ect-procedural-skills.md) — related
 - [Self-confidence gains from single-session simulation are often temporary, suggesting a dose–response effect](simulation-confidence-dose-response.md) — related
 - [Simulation-based education improves nursing students' clinical decision-making, judgment, and self-confidence](simulation-improves-nursing-decision-making-confidence.md) — related
+- [In the Albright RCT, knowledge, skills, and likelihood to screen increased significantly from pre- to post-test and versus control](albright-rct-significant-gains.md) — related
+- [Consequences of clinical readiness include personal and job-related satisfactory outcomes](consequences-personal-job-related-outcomes.md) — related
+- [High-fidelity simulation improved auscultation performance in the intervention group, with no statistical or clinical differences between groups (Menon et al. pilot study)](high-fidelity-simulation-auscultation-pilot.md) — related
+- [Intermediate-fidelity mannequin simulation increased knowledge but not confidence compared with no additional instruction (Tiffen et al. study)](intermediate-fidelity-simulation-knowledge-not-confidence.md) — related
+- [Standardized patients produced higher knowledge scores than high-fidelity simulation, but performance scores did not differ (Tuzer et al. study)](standardized-patients-vs-high-fidelity-simulator-knowledge.md) — related

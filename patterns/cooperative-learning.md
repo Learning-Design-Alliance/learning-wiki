@@ -30,7 +30,7 @@ sources:
 # Cooperative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 52 claims (29 for, 23 mixed) · 44 studies (19 quant-synthesis, 7 causal, 6 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 18 of 44 report an effect size · 44 claims rest on one study
+> **Evidence** · 53 claims (30 for, 23 mixed) · 45 studies (19 quant-synthesis, 7 causal, 7 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 18 of 45 report an effect size · 45 claims rest on one study
 
 ## Description and scope
 
@@ -157,6 +157,7 @@ This pattern is scoped to small-group work where each member's individual learni
 - [The effect of cooperative learning on mathematics achievement does not differ significantly by implementation period](../claims/implementation-period-moderator-not-significant.md) [~W]
 - [The effect of cooperative learning on mathematics achievement does not differ significantly by educational level](../claims/educational-level-moderator-not-significant.md) [~W]
 - [Among applications for retention of pre-service teachers, the Learning Together Technique had the highest effect size (d=2,0606, huge) and the Jigsaw Technique the lowest (d=0,5461, medium)](../claims/learning-together-highest-retention-jigsaw-lowest-meta-analysis.md) [+W]
+- [Cooperative learning, computer-supported collaborative learning, and digital games probably improve learning.](../claims/cooperative-learning-cscl-and-digital-games-probably-improve-learning.md) [+W]
 
 ## Related Patterns
 

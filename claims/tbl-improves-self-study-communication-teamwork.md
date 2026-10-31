@@ -54,3 +54,8 @@ Meta-analysis of secondary outcomes across small sets of RCTs: self-study abilit
 - [TBL is associated with higher theoretical knowledge scores than LBL in Chinese neurology education (SMD = 1.16)](tbl-higher-theoretical-knowledge-scores-neurology-china.md) — related
 - [Students in TBL groups report higher satisfaction than students in LBL groups](tbl-higher-student-satisfaction-neurology.md) — related
 - [TBL significantly improves communication skills while PBL does not](tbl-significant-pbl-not-communication.md) — related
+- [PBL alone most improves self-directed learning ability of internal medicine residents versus LBL](pbl-improves-self-directed-learning-residents.md) — related
+- [Both Chinese and Western students benefit from TBL, with Western students showing larger score improvements](tbl-benefits-chinese-and-western-students.md) — related
+- [TBL students show significantly higher classroom engagement than LBL students](tbl-higher-engagement-than-lbl.md) — related
+- [TBL students achieve significantly higher post-test final scores than LBL students in medical education](tbl-higher-post-test-scores-than-lbl.md) — related
+- [Team-based learning outperforms LBL in improving practical test scores of internal medicine residents](tbl-outperforms-lbl-practical-scores-residents.md) — related

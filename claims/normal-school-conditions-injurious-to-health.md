@@ -50,3 +50,4 @@ Questionnaire returns on school conditions from 67 schools; in the summary, near
 - [Poor indoor air quality harms student health and can hinder academic success directly or indirectly](poor-iaq-harms-student-health-and-learning.md) — related
 - [Reducing student density in classrooms and shared school spaces, combined with precautions such as physical distancing, some mask wearing, and good ventilation, allows for a safer school reopening during COVID-19](reduced-density-precautions-safer-school-reopening.md) — related
 - [Classroom Design Affects Learning Progress](classroom-design-affects-learning-progress.md) — related
+- [Up to 67% of injuries in vocational settings occur within the initial weeks of employment (first-month vulnerability).](first-month-vulnerability-67-percent-injuries.md) — related

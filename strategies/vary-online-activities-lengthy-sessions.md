@@ -46,6 +46,7 @@ Based on the finding that Chinese users became more critical of online education
 
 - [Use online platform discussion boards as a window into learners' pandemic-related anxieties and needs](use-boards-to-understand-learner-anxieties.md)
 - [Redesign preview content and vary examples across video types to raise coverage](vary-examples-and-slim-previews-to-raise-coverage.md)
+- [Pace and vary gamified activities, and offer self-directed options, to mitigate learner fatigue](pace-and-vary-gamified-activities-to-mitigate-learner-fatigue.md)
 
 ## Examples
 -

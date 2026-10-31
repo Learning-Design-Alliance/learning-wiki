@@ -56,3 +56,6 @@ The review's own GRADE assessment across nine studies (589 participants for know
 - [Certainty of evidence for narrative medicine education effects is rated very low under GRADE](narrative-medicine-evidence-very-low-certainty.md) — related
 - Included active-methodology studies had a high overall risk of bias — related
 - Risk-of-bias assessment finds 76% of included RCTs at low risk of bias using the Cochrane RoB-2 tool — related
+- [All twelve included studies carried at least moderate risk of bias, with none rated low on at least six criteria](moderate-risk-of-bias-all-studies.md) — related
+- [Only two studies evaluated learning outcomes, with small improvements and very low to moderate certainty](nts-training-icu-learning-outcomes-limited.md) — related
+- [Methodological quality of included studies is generally low, with only one RCT rated high quality](simulation-studies-low-methodological-quality.md) — related

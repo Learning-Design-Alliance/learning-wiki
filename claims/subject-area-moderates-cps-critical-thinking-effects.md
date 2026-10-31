@@ -64,3 +64,4 @@ Subgroup analysis by subject area (Table 4): mathematics (4 effect quantities, E
 - [Five TPACK-related moderators are most salient across meta-analyses: grade level, assessment, duration, instructional modality, and mathematics subject matter](five-tpack-moderators-salient.md) — related
 - [Flipped classrooms benefit students in STEM subjects such as chemistry, engineering, mathematics, and physics less than students in other subjects](flipped-classroom-smaller-effects-stem-subjects.md) — reports the opposite
 - [Stratified teaching positively affects all seven studied subjects, with larger effects in English, physics, and geography than in chemistry, biology, and mathematics](stratified-teaching-subject-effects-english-physics-geography.md) — related
+- [The flipped classroom effect on knowledge scores is larger in basic science subjects than in clinical or public health subjects.](flipped-classroom-larger-effect-basic-science-subjects.md) — related

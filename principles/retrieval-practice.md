@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 150 claims (66 for, 74 mixed, 10 against) · 76 studies (37 causal, 16 review, 9 quant-synthesis, 6 theoretical, 5 associational, 3 qualitative), `q1`–`q4` · 22 of 76 report an effect size · 143 claims rest on one study
+> **Evidence** · 151 claims (67 for, 74 mixed, 10 against) · 77 studies (37 causal, 16 review, 10 quant-synthesis, 6 theoretical, 5 associational, 3 qualitative), `q1`–`q4` · 22 of 77 report an effect size · 144 claims rest on one study
 
 ## Conditional relationship
 
@@ -276,6 +276,7 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - [Hints in multiple-try feedback improve performance on a delayed test one week later](../claims/hints-improve-delayed-testing-one-week-later.md) [+W]
 - [Practice testing outperforms no-activity controls and restudy, with format and feedback moderators](../claims/practice-testing-superior-to-restudy.md) [~W]
 - [Science effects differed by country of evaluation, with U.S. studies (g = 0.46) showing smaller effects than Turkish studies (g = 0.96)](../claims/country-moderates-5e-science-effects.md) [~W]
+- [Practice tests are probably more effective than restudying for both retention of information and transfer of knowledge or skills.](../claims/practice-tests-probably-more-effective-than-restudying.md) [+W]
 
 ## Related Principles
 - [Pretesting (Prequestions Before Study)](pretesting.md)

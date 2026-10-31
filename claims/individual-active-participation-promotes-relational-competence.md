@@ -50,3 +50,4 @@ Thematic synthesis of forty included studies (qualitative n = 18, quantitative n
 - [The evidence supporting curricular interventions to promote reflection in health professional education remains largely theoretical](reflection-curricular-evidence-largely-theoretical.md) — related
 - [Activities to promote reflection are being incorporated across undergraduate, postgraduate, and continuing health professions education](reflection-activities-incorporated-across-education-levels.md) — related
 - [Reflective capacity is regarded by many as an essential characteristic of professional competence in the health professions](reflective-capacity-essential-professional-competence.md) — related
+- [The included studies do not reflect which intervention is better or which favours the acquisition and retention of knowledge more effectively.](studies-do-not-reflect-which-intervention-is-better.md) — related

@@ -51,6 +51,8 @@ The review recommends that future research "adopt cluster-randomised or stepped-
 
 - [Incorporate quality control measures with standardized photographic or video-based assessments using predefined anatomic landmarks](quality-control-photographic-video-llnd.md)
 - [Future active-learning research should use randomised controlled designs with larger samples and standardised outcome measures](rigorous-rct-design-future-active-learning-research.md)
+- [Use cluster randomized clinical trials and blinded simulation-based behavior assessment to strengthen NTS training evidence](cluster-rct-blinded-simulation-assessment-nts.md)
+- [Future simulation research should use rigorous designs, standardized tools, and transparent reporting](strategy-rigorous-simulation-research-design.md)
 
 ## Examples
 -

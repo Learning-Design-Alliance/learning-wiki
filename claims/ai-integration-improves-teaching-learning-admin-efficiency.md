@@ -83,3 +83,4 @@ Thematic synthesis of 155 studies (2019–2024) retrieved via PRISMA procedures;
 - [Empirical evidence surrounding innovative technology-enhanced-learning practices in K-12 education is at best patchy](k12-innovative-tel-evidence-patchy.md) — related
 - [ICT integration depends on teachers mastering new tools; transforming students' learning opportunities requires first transforming teachers' learning opportunities](ict-integration-depends-on-teacher-learning.md) — related
 - [The review finds that pedagogical innovations in digital environments improved motivation, self-regulation, academic performance, and digital skills in higher education](pedagogical-innovation-digital-environments-gains-higher-education.md) — related
+- [Integration of educational technology and digital tools enhances teaching and enables rapid feedback in virtual university environments](educational-technology-integration-enhances-teaching-feedback.md) — a broader claim this one bears on

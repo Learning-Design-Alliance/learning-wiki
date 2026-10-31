@@ -18,7 +18,7 @@ sources:
 # Procedural Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 34 claims (18 for, 15 mixed, 1 against) · 51 studies (25 causal, 11 review, 7 theoretical, 6 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 4 of 51 report an effect size · 24 claims rest on one study
+> **Evidence** · 36 claims (20 for, 15 mixed, 1 against) · 53 studies (25 causal, 12 review, 7 quant-synthesis, 7 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 4 of 53 report an effect size · 26 claims rest on one study
 
 ## Conditional relationship
 
@@ -159,6 +159,8 @@ Accuracy with help, unaided accuracy, speed, delayed retention, choice among pro
 - [Demonstration-based CPR training tended to produce more accurate performance than lecture-based approaches](../claims/demonstration-beats-lecture-cpr-training.md) [+W]
 - [Combining video-based feedback with verbal feedback enhanced both skill acquisition and knowledge retention](../claims/video-plus-verbal-feedback-enhances-retention.md) [~W]
 - [Learning curves: residents require roughly 45–90 attempts to achieve competency in neuraxial procedures](../claims/learning-curve-attempts-neuraxial-competency.md) [~W]
+- [Supervised resident training reduced operative time after 30–50 cases, approximating senior benchmarks](../claims/supervised-resident-training-reduces-operative-time-30-50-cases.md) [+W]
+- [Feedback-oriented and interactive instructional methods are associated with improvements in clinical reasoning, procedural skills, and learner confidence in orthodontic postgraduate education](../claims/feedback-oriented-interactive-methods-improve-orthodontic-clinical-competence.md) [+W]
 
 ## Related Principles
 - [Explicit Instruction](direct-instruction.md) — often supplies the visible model and sequence that procedural learning needs

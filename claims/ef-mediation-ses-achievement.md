@@ -53,3 +53,5 @@ Narrative review citing Albert et al. (2020): the article reports executive func
 - [Poverty predicts children's cortisol and executive function, partially mediated by parental sensitive caregiving](poverty-cortisol-executive-function-mediation.md) — related
 - [Children's executive functions at 54 months partly account for the association between mothers' early autonomy support and achievement in elementary and high school](executive-functions-mediate-autonomy-support-achievement.md) — related
 - [Motivation's effect on later mathematical performance is indirect, mediated by executive functioning and early numeracy skills](motivation-indirect-effect-mediated-by-ef-and-numeracy.md) — related
+- [Cognitive stimulation mediates the association between SES and executive function, language ability, and academic achievement](cognitive-stimulation-mediation-ses-cognition.md) — related
+- [SES is a powerful predictor of executive function, language ability, and academic achievement](ses-predictor-ef-language-achievement.md) — related

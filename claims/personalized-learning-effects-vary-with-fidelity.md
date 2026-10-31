@@ -104,3 +104,4 @@ RAND matched students in NGLC schools implementing PL practices (adaptive softwa
 - [Technology-supported adaptive teaching units showed significant learning gains, larger for low-prior-knowledge students and high implementation fidelity](adaptive-teaching-units-learning-gains-moderated.md) — related
 - Included reports are methodologically robust overall but weak on implementation fidelity, which was assessed in only about half of the programs — related
 - [Adult learners value personalized mastery-based learning in AI-powered curricula, while some caution it can reduce exposure to new or unexpected content](personalized-mastery-based-learning-adult-ai.md) — related
+- [DP adherence varied widely across studies, with the most structured programs yielding the greatest benefits](dp-adherence-variability-influences-outcomes.md) — a narrower finding that bears on this claim

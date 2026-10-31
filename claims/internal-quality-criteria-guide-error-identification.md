@@ -49,3 +49,4 @@ Qualitative thematic analysis of think-aloud recordings during feedback provisio
 - [Students focused more on errors than on pluses both when providing and when processing peer-feedback](students-focus-more-on-errors-than-pluses.md) — related
 - [During feedback provision, content-specific support improves feedback provision quality (g = 0.75) but not knowledge, while generic support improves both provision quality (g = 0.70) and subject-matter-related knowledge (g = 0.55)](generic-provision-support-also-boosts-knowledge.md) — related
 - [During peer-feedback processing, students deal with errors in one of two patterns: immediately knowing whether they agree with feedback, or first having to study the feedback more thoroughly](two-patterns-error-feedback-processing.md) — related
+- [Educator influence through motivating, mentorship, evaluation and feedback supports student SDL development](educator-influence-motivation-mentorship-feedback-sdl.md) — related

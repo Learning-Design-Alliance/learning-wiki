@@ -52,3 +52,4 @@ Descriptive district-level outcome reporting in a qualitative case study of one 
 - [Chronic absence among students in foster care peaked after the pandemic, with nearly half chronically absent in 2021–22](foster-care-chronic-absence-peaked.md) — related
 - [More students were very chronically absent (missing 20% or more of days) and fewer students had strong attendance (under 5%) after the pandemic](very-chronic-absence-up-strong-attendance-down.md) — related
 - [CEP exposure improved daily attendance and graduation rates in new quasi-experimental studies, with effects strengthening over sustained implementation](cep-attendance-graduation-improvements.md) — related
+- [Removal of an attendance credit policy coincided with a statistically significant attendance decrease](attendance-credit-removal-decrease.md) — related

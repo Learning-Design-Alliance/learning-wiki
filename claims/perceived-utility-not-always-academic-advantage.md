@@ -50,3 +50,4 @@ In Anand et al.'s 3-hour neuroanatomy session study, the Anatomage group reporte
 - [PBL in family medicine residency programs is associated with high learner satisfaction, though not always rated above lectures](pbl-high-learner-satisfaction-family-medicine-pgme.md) — related
 - [Greatest VDT performance gains were observed in musculoskeletal and neuroanatomy modules](vdt-greatest-gains-msk-neuroanatomy.md) — related
 - [VDT use was associated with reduced cadaveric dissection-related anxiety, including lower pre-exam STAI scores](vdt-reduces-dissection-anxiety-stai.md) — related
+- [Dedicated education units produced high student satisfaction and employability, though one study found no significant differences versus traditional settings](deu-benefits-and-null-comparison.md) — related

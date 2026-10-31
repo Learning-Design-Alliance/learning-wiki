@@ -29,7 +29,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 71 claims (18 for, 48 mixed, 5 against) · 51 studies (16 causal, 9 quant-synthesis, 9 review, 7 theoretical, 5 qualitative, 3 design, 2 associational), `q1`–`q4` · 10 of 51 report an effect size · 66 claims rest on one study
+> **Evidence** · 79 claims (23 for, 51 mixed, 5 against) · 55 studies (16 causal, 12 quant-synthesis, 10 review, 7 theoretical, 5 qualitative, 3 design, 2 associational), `q1`–`q4` · 11 of 55 report an effect size · 74 claims rest on one study
 
 ## Description and scope
 
@@ -134,6 +134,9 @@ On 2026-10-19 (wave 2) the other twenty-three links the orphan-claim linker had 
 
 The twelve claims listed here before that wave were read against the model on 2026-10-19 (wave 1) and now sit in it: prior knowledge before discussion (Van Blankenstein et al. 2013), whole and part tasks, the ninth-grade productive-failure experiment, the collaboration-skills and group-products rows ([Murray-Harvey et al. 2013](https://eric.ed.gov/?id=EJ1108330)), the scripted-unit row and the AI and self-paced rows.
 - [First-year medical students in the single first-year-focused study reported high engagement (97%) and perceived improved teamwork (87%) with PBL](../claims/first-year-students-high-engagement-teamwork-pbl.md) [+W] — attached 2026-10-31 from Abugri Bruce Ayabilla et al. (2026), which proposed "Support first-year medical students transitioning to PBL with structured orientation, guided early cases, and explicit collaboration teaching".
+- [PBL and conventional instruction produce similar learning outcomes in postgraduate medical education (pooled mean difference 0.13%, 95% CI -6.74 to 7.00)](../claims/pbl-similar-learning-outcomes-pgme.md) [~W] — attached 2026-10-31 from Mensour Emma A et al. (2025), which proposed "PGME programs should consider incorporating PBL into curricula for its satisfaction and behavioural benefits at no detriment to knowledge acquisition"; tests this page's relationship.
+- [PBL is associated with improved trainee satisfaction in PGME (8 of 12 reaction studies reported high satisfaction)](../claims/pbl-improves-resident-satisfaction.md) [+W] — attached 2026-10-31 from Mensour Emma A et al. (2025), which proposed "PGME programs should consider incorporating PBL into curricula for its satisfaction and behavioural benefits at no detriment to knowledge acquisition"; tests this page's relationship.
+- [PBL is associated with improved self-reported behavioural outcomes in PGME residents](../claims/pbl-improves-self-reported-behaviours.md) [+W] — attached 2026-10-31 from Mensour Emma A et al. (2025), which proposed "PGME programs should consider incorporating PBL into curricula for its satisfaction and behavioural benefits at no detriment to knowledge acquisition"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 
@@ -163,6 +166,11 @@ This pattern is scoped to problem-centred units in which an explicit consolidati
 - [Scientific discipline does not significantly moderate PBL’s effect on secondary science achievement](../claims/pbl-discipline-moderator-no-significant-difference.md) [~W]
 - [STEM education with 7E instruction, flipped learning, problem-based learning or technology-enhanced learning showed no significant effect on learning achievement](../claims/seitla-nonsignificant-approaches.md) [-W]
 - [PBL has a large and positive effect (ES = .871) on secondary students’ achievement in science compared with conventional teaching](../claims/pbl-large-positive-effect-secondary-science-achievement.md) [+W]
+- [3D + PBL improves passing rate of exams in orthopedic education](../claims/3d-pbl-improves-exam-passing-rate.md) [~W]
+- [3D + PBL improves excellent theoretical grades in orthopedic education](../claims/3d-pbl-improves-excellent-theoretical-grades.md) [~W]
+- [Of 4310 screened abstracts, 21 studies of PBL in PGME were included, spanning eight specialties and four Kirkpatrick outcome levels](../claims/pbl-pgme-21-studies-kirkpatrick-coverage.md) [+M]
+- [Problem-based learning in orthodontic postgraduate education enhances student engagement and understanding](../claims/problem-based-learning-enhances-orthodontic-engagement.md) [+W]
+- [Cluster analysis identifies PBL + WeChat, TBL and CBL + WeChat as most promising for theoretical and practical performance with low dissatisfaction](../claims/cluster-analysis-pbl-wechat-tbl-cbl-wechat-most-promising.md) [+W]
 
 ## Related Patterns
 - [Anchored Instruction](anchored-instruction.md)

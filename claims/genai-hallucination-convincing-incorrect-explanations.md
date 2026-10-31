@@ -86,3 +86,4 @@ Observation from the WBA transcripts (e.g. a developmental psychology question i
 - [The main concern in all critical evaluations was the veracity of ChatGPT-provided references, which often do not exist](chatgpt-references-often-do-not-exist.md) — related
 - [AI-generated content lacking references reduced participants' intellectual curiosity and sustained attention](ai-content-without-references-reduces-curiosity-attention.md) — related
 - [Unstructured LLM use is associated with reduced engagement with primary reference texts and lower ability to identify hallucinations](unguided-llm-use-critical-appraisal-erosion.md) — related
+- [LLMs provide more detailed explanations for incorrect answers than correct ones in dental licensing examinations](llms-more-detailed-explanations-incorrect-answers-dental.md) — related

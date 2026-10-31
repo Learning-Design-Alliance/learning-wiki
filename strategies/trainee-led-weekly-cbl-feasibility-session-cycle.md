@@ -49,6 +49,7 @@ The authors' planned feasibility programme for CBL within their own institution:
 ## Related Strategies
 
 - [Scaffold method choice by student progression: CBL early, transitioning to PBL and TBL](scaffold-cbl-early-transition-pbl-tbl.md)
+- [Keep sessions voluntary to identify less useful teaching; reserve mandatory attendance for crucial content](voluntary-attendance-utility-signal.md)
 
 ## Examples
 -

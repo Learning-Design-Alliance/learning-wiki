@@ -52,3 +52,4 @@ Synthesis of diagnostic accuracy evidence for screeners against the acceptabilit
 - [Recommended MAP Growth screening cut scores yield sensitivity, specificity, and lower-bound AUC of at least 0.8 for most grades and terms](map-growth-screening-accuracy-08-criteria.md) — related
 - [Only 15 of the identified measurement tools met common acceptability thresholds for more than two areas of psychometric evidence](only-15-tools-meet-two-plus-thresholds.md) — a broader claim this one bears on
 - Included studies show considerable variation in the cut-off criteria used to identify students with co-occurring mathematics and reading difficulties — related
+- [Included studies demonstrated mixed evidence of construct validity, with some metrics distinguishing skill levels but others failing to do so.](mixed-construct-validity-robotic-hysterectomy-metrics.md) — related

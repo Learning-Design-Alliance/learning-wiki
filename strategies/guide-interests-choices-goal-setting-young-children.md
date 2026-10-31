@@ -52,6 +52,7 @@ A concrete teaching activity in which teachers use the Self-Determined Learning 
 - [Explicit Instruction in Self-Advocacy and Self-Determination](explicit_instruction_in_self-advocacy_and_self-determination.md)
 - [Encouraging Self Advocacy](encouraging_self-advocacy.md)
 - [Make Learning Relevant](make_learning_relevant.md)
+- [Align video recording decisions with residents' self-regulated learning goals rather than investigator-determined parameters](resident-initiated-video-recording-alignment.md)
 
 ## Examples
 -

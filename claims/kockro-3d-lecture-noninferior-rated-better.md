@@ -58,3 +58,4 @@ Randomised study of 169 second-year medical students comparing 3D VR and 2D lect
 - [Immersive and non-immersive VR video formats showed no significant difference in learning success for clinical procedures, though immersive VR was rated more positively](immersive-vs-non-immersive-vr-no-learning-difference.md) — related
 - [In anaesthesia education, e-learning shows no consistent benefit over traditional learning across trials](e-learning-no-consistent-benefit-anaesthesia.md) — a broader claim this one bears on
 - [Head-mounted display interventions improve anatomy recognition, spatial orientation, and learner confidence versus conventional instruction](hmd-improves-spatial-understanding-and-confidence.md) — related
+- [Online CBT training satisfaction was noninferior to in-person training](online-cbt-training-noninferior-satisfaction.md) — related

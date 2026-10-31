@@ -78,3 +78,4 @@ Pre/posttest of conceptual and procedural knowledge of linear systems (six items
 - [Math learning gains did not differ between the Mindful and Cognitive conditions](no-condition-difference-math-learning.md) — related
 - [Mathematics anxiety shows mixed relations to algebraic thinking across studies](math-anxiety-mixed-algebra-relations.md) — related
 - [An intelligent affective tutoring system recognizing facial expressions reduced anxiety and improved Japanese learning](affective-tutoring-reduces-japanese-learning-anxiety.md) — related
+- [PP interventions reduce language learning anxiety](pp-interventions-reduce-language-anxiety.md) — related

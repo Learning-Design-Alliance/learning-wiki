@@ -79,3 +79,5 @@ Synthesized student-challenges finding; one student described sweating and feeli
 - [Visual and auditory features of DPBL technologies are appreciated but tactile realism is limited](dpbl-visual-auditory-appreciated-tactile-limited.md) — related
 - [Linguistic and cultural barriers are the most frequently mentioned challenges CALD students face in SBL](linguistic-cultural-barriers-sbl-cald-students.md) — related
 - [VR communication training faces challenges of scenario realism, lack of clinical urgency in virtual characters, and language barriers](vr-communication-training-challenges-realism-urgency-language.md) — related
+- [Students performed not as well and experienced higher levels of anxiety if the language of the virtual simulation was not in their native language](non-native-language-virtual-simulation-worse-performance-higher-anxiety.md) — related
+- [Realism of technology is a prominent enabler of critical thinking development in technologically supported SBL, mapped to the information quality dimension of the D&M IS Success Model](realism-enabler-critical-thinking-sbl.md) — related

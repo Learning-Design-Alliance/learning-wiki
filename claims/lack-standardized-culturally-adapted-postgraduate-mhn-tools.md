@@ -50,3 +50,4 @@ Discussion-level synthesis of the scoping review's tool mapping. The review repo
 - [Most mental health nursing assessment tools target specific competences such as physical health and therapeutic restraint, with fewer addressing crosscutting competences](mhn-tools-target-specific-over-crosscutting-competences.md) — related
 - [No existing ethics-of-teaching instrument was developed specifically for health professions education](no-instruments-specific-to-health-professions-education.md) — related
 - [Of 100 assessment tools for mental health nursing competences, 66 are validated and 34 are researcher-developed](mhn-100-tools-66-validated-34-researcher-developed.md) — related
+- [The reviewed articles did not report studies that assessed nurses' knowledge using a specific and/or standardised tool designed to evaluate that.](no-standardised-tool-to-assess-nurses-knowledge.md) — related

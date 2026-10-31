@@ -52,3 +52,6 @@ Student-type subgroup analysis of the meta-analysis, defining junior as second y
 - [The positive effect of ECE holds in both randomised and nonrandomised study designs](ece-effect-both-rct-and-nrsi.md) — related
 - [Early clinical exposure is associated with higher empathy scores regardless of gender and academic year](ece-higher-empathy-scores.md) — related
 - [Problem-solving benefits of modern methods hold across durations, designs, sample sizes, and sophomore/senior grades, but not third-year students](problem-solving-benefits-robust-across-moderators.md) — related
+- [Early clinical exposure in undergraduate dental education shows evidence of effectiveness in knowledge, psychomotor skills, and affective domains](ece-dental-effectiveness-cognitive-psychomotor-affective.md) — a broader claim this one bears on
+- [ECE reduces transition stress from preclinical to clinical training and supports smoother student transition](ece-reduces-transition-stress.md) — related
+- [Early preclinical exposure group outperformed late exposure group on theory, OSCE communication, and empathy measures](epce-higher-theory-osce-empathy-scores.md) — related

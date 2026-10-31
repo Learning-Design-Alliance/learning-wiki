@@ -55,3 +55,4 @@ Developmental review (Annual Review of Psychology) summarizing findings from the
 - [Household and community factors—parenting knowledge, stress, depression, and resource scarcity—may mediate or constrain SES-related differences in input and learning](household-community-factors-constrain-input.md) — a broader claim this one bears on
 - [Executive function partially mediates the link between family SES and middle-school academic achievement](ef-mediation-ses-achievement.md) — related
 - [The school environment can serve as a source of chronic stress: bullying at school is linked to higher hair cortisol and poorer executive function](school-environment-chronic-stress-hair-cortisol.md) — related
+- [Stress, support, and stimulation mediate the association of SES with EF, language ability, and academic achievement](stress-support-stimulation-mediation-ses.md) — related

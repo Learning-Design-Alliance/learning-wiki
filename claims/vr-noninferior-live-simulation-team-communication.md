@@ -49,3 +49,6 @@ A randomized controlled trial with 60 medical and 60 nursing students compared 3
 - [VR simulation shows signals of benefit for communication training in undergraduate nursing students, especially for self-reported knowledge, self-efficacy, attitudes and confidence](vr-communication-training-nursing-benefit-signals.md) — related
 - [Immersive VR simulation is noninferior to live simulation for developing teamwork and communication skills](vr-noninferior-to-live-simulation-teamwork-communication.md) — possibly the same claim (merge candidate)
 - [Skill retention after simulation is rarely measured; at 2-month follow-up only the VR group maintained significant ISVS improvement](simulation-skill-retention-two-month-follow-up.md) — related
+- [Interprofessional training in a psychiatric ward improved all three subscales of the Assessment of Interprofessional Team Collaboration Scale](ipe-psychiatric-ward-improved-aitcs-subscale.md) — related
+- [Neonatal resuscitation VR gamification showed no significant anxiety improvement over simulation and control groups](neonatal-resuscitation-vr-no-significant-anxiety-gain.md) — related
+- [VR/haptics intravenous simulator training reduced state anxiety in all groups with no significant group differences](vr-haptics-iv-simulator-anxiety-no-group-difference.md) — related

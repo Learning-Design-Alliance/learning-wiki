@@ -17,7 +17,7 @@ sources:
 # Follow transparent, replicable meta-analysis practices tailored to PBL: multiple databases, gray literature, full heterogeneity reporting, funnel plots with Egger's test, and RVE for dependent outcomes
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy distills the article's recommendations for conducting a PBL meta-analysis. Search should be "transparent, replicable, and fully cover relevant research," using multiple databases (ERIC, PsychInfo, Digital Dissertations, ScienceDirect, Scopus, Web of Science, plus health databases for medical education) and including gray literature to minimize the file drawer problem. Heterogeneity should be reported with Q, Tau2, and I2; publication bias should be assessed with a funnel plot and Egger's test rather than vote counting; and robust variance estimation should address multiple outcomes per study. R is recommended as free and up to date.
@@ -39,6 +39,10 @@ This strategy distills the article's recommendations for conducting a PBL meta-a
 
 ### Target Learning Goals
 - Rigorous quantitative synthesis of problem-based learning intervention effects
+
+## Claims
+
+- [Publication bias is present in the OSCE reliability literature, with funnel plot asymmetry detected by Egger's regression test (p < 0.001)](../claims/osce-reliability-publication-bias-detected.md) [~W]
 
 ## Related Strategies
 

@@ -46,3 +46,4 @@ Quantitative analysis in iteration 1 with 40 postgraduate IS students used a one
 
 ## Related Claims
 - [Regression analysis in iteration 1 identifies which skill sets significantly predict student assessment scores](regression-iteration1-skill-predictors.md) — related
+- [Education and training programmes increase knowledge and skills of skilled birth attendants in perineal anatomy, assessment and classification of perineal tears.](perineal-tear-training-increases-knowledge-skills.md) — related
