@@ -52,3 +52,4 @@ Conceptual prediction in the review's section on the learner's experience of the
 - [Interactivity, information sharing, and collaborative environment are each positively associated with perceived social presence in agentic AI-supported online learning](affordances-positive-social-presence-agentic-ai.md) — related
 - [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — related
 - [Adult learners perceive immersive game-based platforms and interactive AI interfaces as effective mediums for enhancing learner-AI artifact-mediated interaction](immersive-platforms-interactive-interfaces-artifact-mediated.md) — related
+- [Immersive modalities, particularly virtual reality, are associated with higher perceived presence, engagement, and realism than less immersive formats](vr-immersion-higher-presence-engagement.md) — related

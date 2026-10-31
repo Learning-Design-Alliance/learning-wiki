@@ -43,7 +43,8 @@ The report defines digital learning as "the educational approach that integrates
 - [Powerful learning with technology is the product of meaningful use, inclusive access, and school leadership](powerful-learning-meaningful-use-inclusive-access-leadership.md)
 
 ## Examples
--
+
+- [Explicitly consider local IT conditions and digital infrastructure when planning e-learning implementation in primary care](../strategies/consider-it-infrastructure-when-planning-e-learning-primary-care.md)
 
 ## Key Sources
 - The Power of Digital Learning: Integrating Digital Content. The CEO Forum School Technology and Readiness Report, Year Three. (2000). https://eric.ed.gov/?id=ED447781

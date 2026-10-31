@@ -53,3 +53,4 @@ Heterogeneity test within the same three-level random-effects meta-analysis. The
 - [Effects of game-based learning in STEM education vary substantially across studies, with prediction intervals spanning trivial-to-negative through very strong effects](games-stem-substantial-heterogeneity-prediction-intervals.md) — related
 - [Label-effect sizes are highly heterogeneous, with variance split between and within studies](label-effect-heterogeneity-multilevel-variance.md) — related
 - Effect sizes vary widely between studies and especially between comparisons within studies — related
+- [Between-study heterogeneity in LLM dental-question accuracy is very high (I² = 91.5%), with a prediction interval spanning 29.65% to 91.71%](high-heterogeneity-llm-dental-accuracy.md) — related

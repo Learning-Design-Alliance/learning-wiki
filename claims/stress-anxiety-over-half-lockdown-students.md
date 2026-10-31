@@ -53,3 +53,4 @@ Questionnaire findings from the national study; the table shows stress selected 
 - [Across all RCTs, mindfulness-based interventions significantly improve mindfulness, executive functioning, attention, depression, anxiety/stress and negative behaviours in youth, with small effect sizes](mbis-small-positive-effects-all-rcts-youth.md) — related
 - [School-based mindfulness interventions produce small-to-moderate significant pre-post improvements in youth mental health and well-being compared to control groups](school-mindfulness-small-moderate-effect-youth-mental-health.md) — related
 - [Internet addiction shows strong comorbidity with depression, anxiety, and stress among health sciences students](ia-mental-health-comorbidity-strong.md) — related
+- [Examiner variability (66.7% of studies) and student anxiety (41.2%) are the most frequently reported challenges of oral examinations](examiner-variability-top-challenge.md) — related

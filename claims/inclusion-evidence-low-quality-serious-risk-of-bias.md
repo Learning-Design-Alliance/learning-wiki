@@ -63,3 +63,5 @@ Risk of bias assessment using ROBINS-I across the 15 studies in the synthesis; t
 - [Methodological quality of included studies was limited: RCTs often lacked randomisation description and blinding, and cohort/case-control studies did not account for confounding](quality-limits-rct-case-control.md) — a narrower finding that bears on this claim
 - [Most included studies carried a high risk of bias or some concerns, particularly for confounding and outcome measurement, limiting certainty](peer-tutoring-simulation-risk-of-bias.md) — related
 - [The review synthesizes 13 RCTs and pilot studies (2014-2025), most at low risk of bias, with meta-analysis prevented by heterogeneity](systematic-review-13-rcts-ir-dental.md) — related
+- [Certainty of evidence for narrative medicine education effects is rated very low under GRADE](narrative-medicine-evidence-very-low-certainty.md) — related
+- [All nine included systematic reviews were rated critically low in methodological quality on AMSTAR-2, limiting confidence in the synthesized evidence](umbrella-review-vp-communication-all-reviews-critically-low-quality.md) — related

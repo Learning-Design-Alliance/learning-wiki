@@ -55,3 +55,4 @@ Separate three-level meta-regressions with cluster-robust inference on the 42-st
 - [Intervention duration does not significantly predict GenAI writing effect sizes, which the authors attribute to limited temporal diversity in the evidence base](duration-nonsignificant-moderator-genai-writing.md) — related
 - [Intervention duration in weeks and study-quality characteristics did not significantly moderate extensive reading effects](er-duration-study-characteristics-null-moderators.md) — related
 - [No significant moderators of effects among research design features or intervention characteristics](integrated-instruction-no-significant-moderators.md) — related
+- [Meta-regression finds intervention methods, duration, and participant type do not explain the heterogeneity in TBL effects](meta-regression-variables-fail-explain-heterogeneity.md) — related

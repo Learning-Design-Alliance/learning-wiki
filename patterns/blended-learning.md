@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 31 claims (18 for, 13 mixed) · 22 studies (8 quant-synthesis, 6 associational, 2 causal, 2 design, 2 theoretical, 1 review, 1 qualitative), `q1`–`q4` · 8 of 22 report an effect size · 29 claims rest on one study
+> **Evidence** · 34 claims (21 for, 13 mixed) · 24 studies (8 quant-synthesis, 6 associational, 3 review, 2 causal, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 8 of 24 report an effect size · 32 claims rest on one study
 
 ## Description and scope
 
@@ -136,6 +136,9 @@ This pattern is scoped to dividing a course between online and in-person work. I
 - [Teaching period significantly moderates blended instruction effects, with one to three months producing the largest effect (SMD = 0.845)](../claims/teaching-period-moderates-blended-instruction-effects.md) [~W]
 - [Group learning yields a larger effect (SMD = 0.678) than independent learning (SMD = 0.584) in blended instruction, without significant between-group difference](../claims/group-learning-larger-effect-than-individual-in-blended-instruction.md) [~W]
 - [Blended instruction effects exceed 0.5 at every education level, peaking at senior secondary (SMD = 0.867), with no significant between-group difference](../claims/blended-instruction-effects-education-levels.md) [+W]
+- [A blended flipped classroom produced statistically significantly higher post-test scores than traditional teaching in one included histology study (p < 0.0001)](../claims/blended-flipped-classroom-higher-posttest-scores.md) [+W]
+- [Frailty education is most effective when it combines practical strategies with online and face-to-face demonstrations or mentoring](../claims/blended-practical-frailty-education-effective.md) [+W]
+- [Lack of physical interaction between students, peers, and educators was reported as a disadvantage of digital learning, and blended approaches were identified as a possible solution](../claims/physical-interaction-loss-blended-solution.md) [+W]
 
 ## Examples
 

@@ -192,3 +192,4 @@ A meta-analysis of 50 controlled evaluations of intelligent computer tutoring sy
 - [In WHY2 physics studies, AutoTutor outperformed read-textbook and no-materials controls and performed comparably to WHY2/Atlas and non-expert human tutors](why2-autotutor-physics-gains.md) — a narrower finding that bears on this claim
 - [The introduction reports that the PETAL recursive programming tutor was shown to be highly effective in a 6-week control group study](petal-effective-six-week-control-study.md) — a narrower finding that bears on this claim
 - [Teachers across the reviewed studies used varied digital learning platforms, including learning management systems, adaptive platforms, and intelligent tutoring systems](platforms-teachers-use-lms-its-adaptive.md) — related
+- [No significant difference in ICEMS performance scores between AI tutoring and expert instruction](ai-tutoring-no-icems-difference.md) — a narrower finding that bears on this claim

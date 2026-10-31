@@ -55,3 +55,4 @@ The review's synthesis reports that 17 studies examined affective outcomes. Stud
 - [Teachers hold conflicting attitudes about whether gameful assessments support students’ intrinsic motivation and desire to learn](teacher-attitudes-gameful-assessment-conflicted.md) — related
 - [EAI modalities were associated with higher student motivation and changes in attitudes toward STEM knowledge areas](eai-motivation-attitude-stem-effects.md) — possibly the same claim (merge candidate)
 - [ICT-enabled learning may change beliefs and perceptions about girls' capacity and ICT's value](ict-changes-beliefs-perceptions-girls.md) — related
+- [Affective outcomes (satisfaction, confidence, engagement) are consistently positive across ADS modalities but rest predominantly on subjective, short-term measures](ads-affective-outcomes-consistent-subjective.md) — a broader claim this one bears on

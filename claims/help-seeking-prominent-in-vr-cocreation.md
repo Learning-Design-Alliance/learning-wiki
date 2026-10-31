@@ -48,3 +48,4 @@ Construct-level ANCOVAs (Table 5) with post hoc direction: (1) control 2D > (2) 
 ## Related Claims
 - [The co-creation environment significantly influenced post-test self-regulation after controlling for the pretest](cocreation-environment-causal-self-regulation.md) — related
 - [Immersion principle: people do not necessarily learn better in 3D immersive virtual reality than with a corresponding 2D desktop presentation (d = -0.10 across 9 tests)](immersion-principle-no-vr-benefit.md) — related
+- [Virtual environments favor clinical reasoning, self-regulation and peer collaboration, while physical environments engage critical reasoning, professionalism and communication abilities](virtual-physical-environments-different-competencies.md) — related

@@ -55,3 +55,4 @@ Bias assessment using funnel plots (Figures 3 and 4), regression-based tests for
 - [Publication bias analyses suggest the negative correlation is robust but trim-and-fill adjusts it to r = −.227](publication-bias-trim-and-fill-adjustment.md) — related
 - [Funnel-plot asymmetry suggests small studies with negative or null results may be missing from the simulation-versus-clinical meta-analysis](funnel-plot-missing-negative-studies.md) — related
 - [Sensitivity analyses found no evidence of publication bias in the meta-analysis](no-publication-bias-sensitivity-analysis.md) — related
+- [Sensitivity and publication-bias analyses support the robustness of the pooled accuracy estimate](sensitivity-analyses-support-pooled-accuracy-robustness.md) — related

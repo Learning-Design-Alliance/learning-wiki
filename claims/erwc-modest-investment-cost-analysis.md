@@ -52,3 +52,4 @@ Cost analysis using the ingredients method, in which researchers identified all 
 - [Washington, DC's PEF sustained a positive social return on investment of 21 percent in FY 2024, similar to 23 percent in FY 2023](pef-fy2024-roi-21-percent-similar-to-fy2023.md) — related
 - [Most ERWC teachers completed required professional learning (82-99 percent), but only 0-3 percent taught the curriculum with fidelity across the three study years](erwc-high-pd-fidelity-low-curriculum-fidelity.md) — related
 - [Teachers viewed the ERWC 3.0 as an improved curriculum that promoted high student engagement and supported students' academic and personal growth](teachers-viewed-erwc-3-engaging-and-growth-supporting.md) — related
+- [Financial demands are a key barrier to GTA implementation, but cost-effectiveness improves when faculty involvement is reduced and value is assessed over a career trajectory](gta-financial-barriers-cost-effectiveness.md) — related

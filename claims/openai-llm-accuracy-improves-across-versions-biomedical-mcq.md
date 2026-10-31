@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: strong
 newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: cheverko-cm-2026
     resource: "https://doi.org/10.1002/ase.70262"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q4 i?` GPT‐4o through GPT o1 achieved 90.1% pooled accuracy on text‐based biomedical MCQs, significantly higher than GPT‐4 (81.9%) and GPT‐3/3.5 (59.3%). [→ Cheverko CM 2026](#cheverko-cm-2026)
@@ -51,3 +52,5 @@ Random‐effects proportional meta‐analysis of 41 articles comprising 207 prop
 - [GPT‐4 through o1 models show significantly lower pooled accuracy in pathology (75%) than in other biomedical disciplines](lower-llm-accuracy-pathology-biomedical-mcq.md) — a narrower finding that bears on this claim
 - [Question type, stem type, MCQ source, and web accessibility did not independently explain LLM accuracy heterogeneity in biomedical MCQ meta‐regressions](mcq-covariates-not-explaining-llm-accuracy-heterogeneity.md) — related
 - [GPT-4 achieves passing accuracy on USMLE Steps 1–3 (mean 86%), significantly exceeding GPT-3.5 (mean 56%)](gpt4-usme-passing-accuracy-exceeds-gpt35.md) — related
+- [Direct comparisons confirm ChatGPT-4 significantly outperformed earlier versions and some competitor models on dental examination questions](chatgpt4-outperforms-earlier-versions-dental-questions.md) — a narrower finding that bears on this claim
+- [Studies using both text- and image-based questions show higher pooled LLM accuracy (78%) than text-only studies (71%)](multimodal-questions-higher-llm-accuracy.md) — related

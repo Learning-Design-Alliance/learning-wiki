@@ -47,3 +47,4 @@ The author's interpretation of score patterns across the 69-student cohort, offe
 
 - [Students perform significantly higher on the team portion of the Readiness Assessment Test than on the individual portion in a TBL laboratory module](team-rat-scores-higher-than-individual-rat.md) — the general claim this finding bears on, with the studies behind it
 - [In both TBL formats, tRAT and iSAT scores significantly improve over preceding iRAT scores](tbl-trat-isat-improve-over-irat.md) — related
+- [Individual readiness assurance tests (i-RATs) in pre-clinical TBL are almost universally MCQ-based, mostly closed-book, typically 5 to 30 items lasting 10 to 30 minutes](irat-mcq-closed-book-5-30-items.md) — related

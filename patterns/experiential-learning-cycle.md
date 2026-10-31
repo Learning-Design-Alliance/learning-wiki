@@ -38,7 +38,7 @@ grain_size: unit, course
 # Experiential Learning Cycle
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 22 claims (11 for, 8 mixed, 3 against) · 42 studies (15 quant-synthesis, 11 causal, 7 review, 5 design, 2 qualitative, 2 theoretical), `q1`–`q4` · 12 of 42 report an effect size · 12 claims rest on one study
+> **Evidence** · 23 claims (12 for, 8 mixed, 3 against) · 43 studies (15 quant-synthesis, 11 causal, 8 review, 5 design, 2 qualitative, 2 theoretical), `q1`–`q4` · 12 of 43 report an effect size · 13 claims rest on one study
 
 ## Description and scope
 
@@ -158,6 +158,7 @@ This pattern is scoped to repeated loops of experience, prompted debrief, stated
 ## Claims
 
 - [The post-visit lesson supported reflection and synthesis, but students could not effectively process all collected items in one lesson](../claims/post-visit-reflection-limited-by-item-volume.md) [~W]
+- [Two included studies allowed participants to act on feedback from an earlier simulation attempt, enabling a 'second go'](../claims/second-go-feedback-iteration-simulation.md) [+W]
 
 ## Related Patterns
 - [Cognitive Apprenticeship](cognitive-apprenticeship.md) — shares the reflection and articulation stages, but leads with expert modeling rather than learner experience

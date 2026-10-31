@@ -52,3 +52,4 @@ Moderator analyses of achievement effect sizes reported Qb=3.510 (p>0.05) for pu
 - [Group size significantly moderates the effect of context-based learning on academic achievement, with studies under 100 participants showing stronger effects than studies over 100](cbl-achievement-moderated-by-group-size.md) — related
 - [Effect of learning stations does not differ significantly by application duration](learning-stations-duration-null-moderator.md) — related
 - [Effect of MIT-based instruction does not differ significantly by duration of experimental procedure](mit-effect-homogeneous-experiment-duration.md) — related
+- [Meta-regression finds intervention methods, duration, and participant type do not explain the heterogeneity in TBL effects](meta-regression-variables-fail-explain-heterogeneity.md) — related

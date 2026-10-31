@@ -68,3 +68,4 @@ Omnibus QM test of the joint regression coefficients for task type, training, an
 - [Peer-led learning is associated with higher post-secondary cognitive achievement than non-peer-led learning, with a moderate pooled effect of g = 0.36](pll-moderate-positive-effect-cognitive-achievement.md) — a broader claim this one bears on
 - [Small-group learning improves undergraduate STEM achievement](small-group-learning-improves-stem-achievement.md) — related
 - [Substantial between-study heterogeneity remained unexplained after the three design characteristics were accounted for (τ² = 0.03; QE = 101.25, df = 24, p < 0.001)](residual-heterogeneity-unexplained-design-factors.md) — related
+- [Peer supporter training duration ranged from a few hours to 192 hours, was most often in person, and intensive six-week training led all recruited peers to resign in one trial](peer-supporter-training-duration-and-burden.md) — related

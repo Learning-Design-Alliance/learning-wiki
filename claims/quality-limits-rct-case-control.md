@@ -50,3 +50,6 @@ Quality assessment using CASP checklists across the 42 studies: for RCTs, "many 
 - [The HFS evidence base for practising nurses comprises eight small studies with risk-of-bias concerns](hfs-nurse-evidence-base-eight-studies-275-nurses.md) — related
 - [No included comparative study assessed patient-based clinical outcomes, patient acceptability of care, or staff resource time](no-patient-outcomes-assessed.md) — related
 - [No included randomized comparison was at low risk of bias, and all 17 non-randomized comparisons were rated serious risk under ROBINS-I](pe-teaching-model-evidence-risk-of-bias-serious.md) — possibly the same claim (merge candidate)
+- [The 17 included qualitative studies scored between 12 and 20 points on the JBI critical appraisal checklist, with primary deficiencies in researcher positioning and researcher influence](jbi-appraisal-quality-included-studies.md) — related
+- [The review did not conduct critical appraisal of included studies, which the authors state may influence the strength of its conclusions](no-critical-appraisal-limitation-scoping-review.md) — related
+- [All nine included systematic reviews were rated critically low in methodological quality on AMSTAR-2, limiting confidence in the synthesized evidence](umbrella-review-vp-communication-all-reviews-critically-low-quality.md) — related

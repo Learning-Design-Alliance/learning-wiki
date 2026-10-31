@@ -53,3 +53,5 @@ Narrative synthesis of a limited number of cognitive–psychological studies; th
 - [Short-term, non-longitudinal training programmes pose challenges for estimating long-term skill retention](short-term-training-challenges-long-term-skill-retention.md) — related
 - [Spaced CPR training is associated with improved skill retention compared with single-session massed instruction](spaced-cpr-training-improves-retention.md) — a narrower finding that bears on this claim
 - [Empathy and communication interventions show short-term gains but evidence on persistence over time is inconsistent](soft-skills-intervention-gains-not-sustained.md) — related
+- [Single-session and multi-session experiential learning programs show comparable attitude improvements](short-and-long-term-dementia-programs-comparable.md) — related
+- [Evidence on long-term retention and transfer of clinical communication skills to clinical practice remained inconsistent or lacking across included reviews](vp-communication-long-term-retention-transfer-inconsistent.md) — related

@@ -51,3 +51,4 @@ Systematic review narrative synthesis of nine quasi-experimental studies; knowle
 - [An interactive workshop produced higher post-test knowledge scores than an e-learning course of equivalent content among nurses](interactive-workshop-outperforms-elearning-nurse-knowledge.md) — related
 - [Post-intervention knowledge and practice scores are positively correlated, suggesting education should be designed to bridge the knowledge-practice gap](knowledge-practice-correlation-diabetic-foot-care.md) — related
 - [No included comparative study assessed patient-based clinical outcomes, patient acceptability of care, or staff resource time](no-patient-outcomes-assessed.md) — related
+- [Certainty of evidence for narrative medicine education effects is rated very low under GRADE](narrative-medicine-evidence-very-low-certainty.md) — related

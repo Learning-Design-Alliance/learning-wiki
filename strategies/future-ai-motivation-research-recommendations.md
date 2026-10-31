@@ -48,6 +48,7 @@ The review's forward-looking recommendations urge researchers to move "beyond is
 - [Define a shared empirical research agenda grounding K-12 AI education designs](k12-ai-education-research-agenda.md)
 - [Future research should examine drama's effects on attitudes, values, skills, and motivation in social studies, and include more doctoral-level studies](future-drama-social-studies-research-directions.md)
 - [Recommendations for STEM research and implementation practice](stem-meta-analysis-recommendations.md)
+- [Future gamification research should be qualitative or mixed and include educators' perspectives](future-gamification-research-qualitative-educator-perspectives.md)
 
 ## Examples
 -

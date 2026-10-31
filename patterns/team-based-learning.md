@@ -15,7 +15,7 @@ grain_size: unit, course
 # Team Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 26 claims (12 for, 12 mixed, 2 against) · 26 studies (8 causal, 8 quant-synthesis, 4 review, 2 associational, 2 design, 2 theoretical), `q1`–`q4` · 8 of 26 report an effect size · 19 claims rest on one study
+> **Evidence** · 34 claims (19 for, 13 mixed, 2 against) · 29 studies (9 quant-synthesis, 8 causal, 6 review, 2 associational, 2 design, 2 theoretical), `q1`–`q4` · 9 of 29 report an effect size · 27 claims rest on one study
 
 ## Description and scope
 
@@ -100,6 +100,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Assessment for learning improves achievement.](../claims/assessment-for-learning-improves-achievement.md) [+S] — not settled: the text available could not confirm the entries (abstract)
 - [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+M] — partly checked: 1 of 2 entries pass, the rest could not be confirmed (abstract)
 - [Belonging interventions improve outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+M] — checked by the judge: all 2 entries pass (abstract)
+- [TBL effects on theoretical knowledge and practical skills are larger in interventions lasting more than 4 weeks](../claims/tbl-effect-larger-interventions-over-four-weeks.md) [+W] — attached 2026-10-31 from Fu Jie et al. (2026), which proposed "Allocate sufficient instructional hours so TBL interventions can mature before expecting full benefits".
 
 ## Illustrative design instance and observation record
 
@@ -124,6 +125,13 @@ The retrieval evidence supports the readiness tests as retrieval with feedback; 
 - [50% of neurodivergent students report some discomfort with semester-long teams compared to 22% of neurotypical students](../claims/nd-semester-long-team-discomfort.md) [~W]
 - [No significant relative pre–post changes for attitudes toward collaborative learning, overall teamwork, or remaining teamwork subscales](../claims/genarch-null-did-collaborative-attitudes-teamwork.md) [-W]
 - [Testing student preparation is associated with slightly higher learning gains in flipped classroom implementations](../claims/test-of-preparation-moderates-flipped-learning.md) [+W]
+- [TBL alone and TBL combined with other methods both outperform LBL, with no significant difference between the two TBL formats](../claims/tbl-alone-versus-blended-no-significant-difference.md) [+W]
+- [Two controlled studies found significantly higher examination scores and satisfaction in TBL groups compared with traditional lecture-based instruction](../claims/tbl-exam-scores-higher-than-lecture-two-studies.md) [+W]
+- [TBL is associated with higher practical skill scores than LBL in Chinese neurology education (SMD = 1.72)](../claims/tbl-higher-practical-skill-scores-neurology-china.md) [+W]
+- [Students in TBL groups report higher satisfaction than students in LBL groups](../claims/tbl-higher-student-satisfaction-neurology.md) [+W]
+- [TBL is associated with higher theoretical knowledge scores than LBL in Chinese neurology education (SMD = 1.16)](../claims/tbl-higher-theoretical-knowledge-scores-neurology-china.md) [+W]
+- [Team RATs almost always reuse the i-RAT MCQs immediately afterwards, with in-session immediate feedback via IF-AT mechanisms and facilitator-led clarification](../claims/trat-same-mcqs-immediate-feedback-ifat.md) [+W]
+- [Meta-regression finds intervention methods, duration, and participant type do not explain the heterogeneity in TBL effects](../claims/meta-regression-variables-fail-explain-heterogeneity.md) [~W]
 
 ## Related Patterns
 - [Cooperative Learning](cooperative-learning.md) — shares positive interdependence and individual accountability; TBL adds the readiness assurance cycle and simultaneous reporting

@@ -51,3 +51,4 @@ Delphi expert-consultation study conducted in Aotearoa New Zealand with three su
 - [A review of 13 recent AI literacy frameworks found most lack explicit scaffolded progression and are context-bound](recent-ai-literacy-frameworks-lack-scaffolded-progression.md) — related
 - [Delphi experts reached 80% or higher consensus on all major CSM-SU components](delphi-consensus-csm-su-components.md) — related
 - [A three-round Delphi study with 29 K-12 AI teachers produced an eight-dimension, 32-item student AI competency framework at a 75% agreement level](delphi-eight-dimension-student-ai-competency-framework.md) — related
+- [Delphi revision reduced the initial framework from 7 dimensions, 25 categories, and 80 elements to 7 dimensions, 24 categories, and 63 elements](delphi-revision-80-to-63-competency-elements.md) — related

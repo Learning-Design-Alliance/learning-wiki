@@ -25,7 +25,7 @@ sources:
 # Competency-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 66 claims (23 for, 36 mixed, 7 against) · 66 studies (20 causal, 10 quant-synthesis, 9 associational, 8 review, 7 design, 6 qualitative, 6 theoretical), `q1`–`q4` · 13 of 66 report an effect size · 58 claims rest on one study
+> **Evidence** · 67 claims (24 for, 36 mixed, 7 against) · 67 studies (20 causal, 10 quant-synthesis, 9 review, 9 associational, 7 design, 6 qualitative, 6 theoretical), `q1`–`q4` · 13 of 67 report an effect size · 59 claims rest on one study
 
 ## Description and scope
 
@@ -173,6 +173,7 @@ This pattern is scoped to a course organised around a competency map with criter
 - [El uso de IA para evaluaciones basadas en competencias no es actualmente la mejor práctica](../claims/ai-assessment-not-best-practice-microcredentials.md) [~W]
 - [Competency-focused internships improved the depth, clarity, and practicality of principal preparation internships compared with hour-accumulation models](../claims/competency-focused-internships-improved-experience.md) [+W]
 - [The age-graded system was built on an assumption of uniform progress that a substantial number of students never met, creating organizational deviants and stigma](../claims/age-graded-system-uniform-progress-assumption.md) [+W]
+- [Competency-based progression simulation combined with e-learning yields higher communication competence than e-learning alone or standard simulation](../claims/competency-based-progression-simulation-communication.md) [+W]
 
 ## Related Patterns
 - [Mastery Learning](mastery-learning.md)

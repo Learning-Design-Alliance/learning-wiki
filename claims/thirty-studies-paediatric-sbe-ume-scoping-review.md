@@ -51,3 +51,7 @@ Systematic search of PubMed, Scopus, Embase and Cochrane (January 2010–July 20
 - [Paediatric SBE research is geographically concentrated in high- and upper-middle-income regions, with no studies from the Middle East/North Africa region in the specified timeframe](mena-afro-gap-paediatric-sbe-research.md) — related
 - [The review reports that high-fidelity simulation outperformed case-based discussion for clinical reasoning and leadership in paediatric emergencies](hfs-superior-case-based-discussion-reasoning.md) — related
 - [Telesimulation and remote-facilitated paediatric simulation achieved outcomes comparable to in-person training](telesimulation-comparable-in-person-outcomes.md) — related
+- [The evidence base is dominated by randomized controlled trials (42.5%) and medical education (75%), with nursing (17.8%) and physiotherapy (3.1%) underrepresented](evidence-base-rct-dominated-medicine-dominated.md) — related
+- [The reviewed evidence base comprises 15 studies (N=645) with heterogeneous designs, predominantly text-based, GPT-model virtual patients](genai-vp-evidence-base-15-studies-characteristics.md) — related
+- [The 41 included IPE studies were heterogeneous in design, scale, and professions, with no randomized controlled trials](ipe-review-study-heterogeneity.md) — related
+- [Scoping review included 23 of 1750 retrieved studies on educational AI application frameworks](scoping-review-23-of-1750-ai-framework-studies.md) — related

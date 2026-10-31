@@ -51,3 +51,4 @@ Continuous moderator analysis reported in Table 5 of the meta-analysis; neither 
 - [Sample size alone significantly predicts between-study variance in effect sizes, explaining 45.7% of heterogeneity](sample-size-meta-regression-explains-457-percent.md) — reports the opposite
 - [GenAI function, intervention duration, publication year, and gender were not significant moderators of GenAI's motivational effect](genai-motivation-null-moderators-function-duration-year-gender.md) — related
 - [Number of vocabulary words taught alone does not significantly predict effect sizes in meta-regression](number-words-taught-non-significant-meta-regression.md) — related
+- [Meta-regression identifies country, outcome type, grade and sample size as significant moderators of GenAI's clinical-skills effect, while intervention type is not](meta-regression-moderators-clinical-skills.md) — related

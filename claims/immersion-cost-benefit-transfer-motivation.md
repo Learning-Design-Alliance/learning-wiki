@@ -89,3 +89,6 @@ The review reports, citing Frederiksen et al. (2020) in surgical training, that 
 - [Virtual-reality delirium training increased nurses' empathy and knowledge, with larger empathy gains when VR preceded didactic instruction](vr-delirium-empathy-order-effect.md) — related
 - [Virtual reality was particularly effective for procedural skill development and knowledge retention in paediatric undergraduate training](vr-effective-procedural-skills-retention.md) — reports the opposite
 - [AR and 2D methods boosted knowledge similarly, but the 3D AR method drew greater satisfaction and student preference (Lopez et al.)](lopez-ar-similar-knowledge-higher-satisfaction.md) — related
+- [Immersive and non-immersive VR video formats showed no significant difference in learning success for clinical procedures, though immersive VR was rated more positively](immersive-vs-non-immersive-vr-no-learning-difference.md) — related
+- [Immersive modalities, particularly virtual reality, are associated with higher perceived presence, engagement, and realism than less immersive formats](vr-immersion-higher-presence-engagement.md) — related
+- [A VR simulation of psychosis reduced stigma and increased empathy and knowledge among medical students](vr-psychosis-empathy-stigma.md) — related

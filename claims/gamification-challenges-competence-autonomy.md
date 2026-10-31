@@ -75,3 +75,4 @@ From the same systematic review of 31 studies: autonomy challenges appeared in s
 - [Gamification has minimal impact on students' perceived competence](gamification-minimal-impact-perceived-competence.md) — related
 - Gamification studies measure intrinsic motivation almost exclusively through self-report instruments, with no study using free-choice behavioral measures — related
 - [On an absolute leaderboard, top-ranked online students report significantly higher post-intervention intrinsic motivation than bottom-ranked students](absolute-leaderboard-top-ranked-higher-intrinsic-motivation.md) — related
+- [Research on gamification in higher education is predominantly quantitative, English-language and review-scarce](gamification-higher-ed-research-predominantly-quantitative.md) — related

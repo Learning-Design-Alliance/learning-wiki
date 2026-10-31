@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: almarzooqi-lm-2026
     resource: "https://doi.org/10.1186/s12909-026-09920-2"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Across specialties and healthcare systems, residents view teaching as integral to professional identity but report substantial informal teaching loads and minimal formal preparation. [→ AlMarzooqi LM 2026](#almarzooqi-lm-2026)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: mixed
 newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: zhang-wenjia-stella-2026
     resource: "https://doi.org/10.2196/92826"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Among studies comparing AI-generated scores with human ratings, findings were mixed: some reported moderate to strong agreement while others showed score inflation and inconsistent performance. [→ Zhang Wenjia (Stella) 2026](#zhang-wenjia-stella-2026)

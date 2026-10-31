@@ -55,3 +55,4 @@ Descriptive bibliometric analysis of annual publication and citation counts from
 - Research on assistive technology in education shows an increasing publication trend from 2017 onwards but low citation impact — related
 - Annual metacognition publications rose through the period, peaking at over 250 in 2022 before dropping to 125 in 2023 — related
 - Research applying learning analytics to inquiry-based learning grew steadily from a first 2012 conference paper, peaking in 2019 with seven publications, with most outputs as journal articles — related
+- [Publication output on gamification peaked in 2023 with 57 articles and dropped 63% in 2024](gamification-publication-trends-2022-2024.md) — related

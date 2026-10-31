@@ -79,3 +79,4 @@ Results-section synthesis describing narrative medicine as an approach that "has
 - [Review reports a game-based learning course increased adolescents' empathy and compassion in migration/refugee context](game-based-learning-empathy-sec.md) — related
 - [Simulation dominates the literature on obstetric emergency knowledge-building, but evidence for sustained behaviour change and clinical impact remains limited](simulation-dominates-oe-training-limited-clinical-impact.md) — related
 - [A progressive transition from knowledge-centred assessment towards performance-based and experiential assessment is evident across the included studies](transition-knowledge-to-performance-based-assessment.md) — related
+- [Student-centered innovative strategies (PBL, EBL, simulation, TBL, blended and online learning) showed positive effects in pharmaceutical care learning](innovative-strategies-positive-effects-pharmaceutical-care.md) — related

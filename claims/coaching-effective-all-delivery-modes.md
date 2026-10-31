@@ -51,3 +51,5 @@ The report's review of the features-of-effective-coaching literature states ther
 - [Effective skill training combines theory presentation, demonstration, practice with feedback, and coaching for transfer (review attribution)](skill-training-effective-techniques.md) — related
 - [Coaching effects do not differ significantly across school levels, and in-person versus virtual delivery shows no significant difference](coaching-no-school-level-or-mode-differences.md) — related
 - [Media comparison studies produce uninterpretable "no significant difference" findings.](media-comparison-studies-produce-uninterpretable-results.md) — related
+- [Frailty education is most effective when it combines practical strategies with online and face-to-face demonstrations or mentoring](blended-practical-frailty-education-effective.md) — a narrower finding that bears on this claim
+- [Face-to-face and non-face-to-face formats both improve attitudes, but virtual formats show inconsistent outcomes](virtual-dementia-learning-inconsistent-outcomes.md) — related

@@ -67,3 +67,5 @@ Risk-of-bias assessment of the 39 included studies used an expert-validated inst
 - [Thirty empirical studies of paediatric simulation-based education in undergraduate medical education were identified, predominantly randomized controlled trials and quasi-experimental designs](thirty-studies-paediatric-sbe-ume-scoping-review.md) — related
 - [The meta-analysis corpus comprised 23 studies (9 retention, 14 attitude) with a total of 1204 pre-service teachers across experimental and control groups](meta-analysis-corpus-23-studies-1204-pre-service-teachers.md) — related
 - [The HFS evidence base for practising nurses comprises eight small studies with risk-of-bias concerns](hfs-nurse-evidence-base-eight-studies-275-nurses.md) — related
+- [The reviewed evidence base comprises 15 studies (N=645) with heterogeneous designs, predominantly text-based, GPT-model virtual patients](genai-vp-evidence-base-15-studies-characteristics.md) — related
+- [Over half of included studies (22/39, 56.4%) were judged at high risk of bias in item selection and sampling, mainly due to author-generated question sets](high-risk-of-bias-item-selection-llm-dental-studies.md) — related

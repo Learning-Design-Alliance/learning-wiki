@@ -74,3 +74,4 @@ Content analysis comparing the two partly matched conditions found causal-only t
 - [No significant performance difference was found between the causal-only and simulation-only conditions, nor between the mismatched and partly matched conditions](no-difference-single-tool-and-mismatched-conditions.md) — related
 - [Recall from bar graphs is more accurate when the recall format matches the studied graph format, a small effect that the content's thematic emphasis can override](mismatched-graphic-organizers-increase-extraneous-load.md) — a broader claim this one bears on
 - [Students successfully performed quantitative data analysis in spreadsheets, though this unit was the most challenging](spreadsheet-data-analysis-unit-outcomes.md) — related
+- [Checklist-supported simulation teams missed fewer critical actions (6%) than unsupported teams (23%) in simulated crises](checklists-reduce-missed-critical-actions-simulation.md) — related

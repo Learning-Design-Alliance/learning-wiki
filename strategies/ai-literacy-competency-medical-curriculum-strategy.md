@@ -55,6 +55,7 @@ The review recommends a three-part practice response to its synthesis: treat LLM
 - [Redesign assessment toward progressive, authentic, and reflective methods rather than intensive paperwork](redesign-assessment-authentic-progressive-methods.md)
 - [Strategies for integrating GenAI in STEAM teaching: outcome-anchored lesson planning, differentiation, inquiry and project variants, assessment redesign, and integrity as pedagogy](genai-steam-integration-strategies.md)
 - [Adapt non-invigilated written assessments and their marking criteria in response to Gen-AI susceptibility](adapt-non-invigilated-assessments-marking-criteria-for-genai.md)
+- [Adopt a differentiated integration strategy for GenAI in undergraduate medical education rather than uniform adoption](differentiated-genai-integration-strategy.md)
 
 ## Examples
 -

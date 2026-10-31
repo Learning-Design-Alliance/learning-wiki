@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/ar-noninferiority-basic-skills.md
+---
+
+# Revision history: [claims/ar-noninferiority-basic-skills](../claims/ar-noninferiority-basic-skills.md)
+
+### 2026-10-31 · ingest · process:wiki-ingest
+Ingested from pmc-13233012 (Augmented Reality in Surgical Training: Systematic Review of Its Impact on Technical Performance in Surgical Trainees.) via eval_harness.py + ingest_extractions.py

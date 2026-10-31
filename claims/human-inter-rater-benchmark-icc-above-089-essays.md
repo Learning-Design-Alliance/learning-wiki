@@ -56,3 +56,4 @@ Baseline inter-rater reliability assessment using ICC(3,1) among three expert gr
 - [Automated grading achieves excellent agreement with human grading (ICC = 0.893)](automated-grading-excellent-agreement-icc-0893.md) — related
 - The review's corpus comprises 39 peer-reviewed articles selected via a PRISMA protocol with substantial screening agreement — related
 - [Expert graders show high agreement among themselves when scoring a written exam on first degree equations](expert-inter-rater-agreement-high-written-exam.md) — related
+- [Faculty calibration with instructional rubrics yields high inter-rater reliability, rising after repeated calibration](faculty-calibration-icc-rises-with-repeated-calibration.md) — related

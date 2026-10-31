@@ -52,3 +52,5 @@ Descriptive mapping of the 30 included studies' countries of origin, reported al
 - [Samples used to investigate human features in AIED research are 94% WEIRD and 62% US, with no African samples](aied-weird-sample-imbalance.md) — related
 - [The evidence base on public health competency assessment in undergraduate medical education comprises 30 studies with marked methodological heterogeneity across designs](scoping-review-30-studies-heterogeneous-designs.md) — a broader claim this one bears on
 - [The evidence base is geographically uneven: no study simultaneously examined all three constructs within a sub-Saharan African context](no-integrative-three-construct-studies-sub-saharan-africa.md) — related
+- [The evidence base on anatomy teacher profiles is geographically skewed toward the Americas and toward medicine, limiting generalizability](anatomy-teacher-evidence-geographic-bias.md) — related
+- [Timed and untimed spot tests show no significant difference in anatomy students' academic performance](timed-untimed-spot-tests-no-difference.md) — related

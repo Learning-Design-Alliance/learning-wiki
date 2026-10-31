@@ -51,6 +51,7 @@ The review recommends strengthening the evidence base through "more rigorous RCT
 
 - [Integrate high-fidelity simulation into continuing nursing education and professional development programs](integrate-hfs-continuing-nursing-education.md)
 - [Prioritize larger randomized trials in pedagogical research and more representative evaluations across Africa](larger-rcts-pedagogical-research-recommendation.md)
+- [Prioritize rigorous RCTs with retention tests and transfer measures before expanding distance simulation programs](rigorous-rcts-for-distance-simulation-retention-transfer.md)
 
 ## Examples
 -

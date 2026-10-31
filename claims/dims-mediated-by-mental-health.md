@@ -48,3 +48,4 @@ Parallel multiple mediation analysis (PROCESS macro, 5,000 bootstrap samples) wi
 - [Persistent sleep problems (DIMS at both ages 7–9 and 11–13) increase the risk of poor academic performance even after adjusting for mental health, gender, pubertal status and SES](persistent-dims-poor-academic-performance.md) — a narrower finding that bears on this claim
 - [Concurrent sleep problems at age 11–13 do not increase the risk of poor academic performance after controlling for mental health problems](concurrent-dims-no-adjusted-risk.md) — related
 - [Transitory sleep problems (DIMS at age 7–9 only) do not increase the risk of later poor academic performance](transitory-dims-no-increased-risk.md) — related
+- [Behavioral health conditions and school processes partially mediate the association between cumulative ACEs and school outcomes](aces-school-outcomes-mediated-behavioral-health-school-processes.md) — related

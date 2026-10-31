@@ -91,3 +91,4 @@ The chapter reports, citing prior systematic reviews, that the assumption that m
 - [IVR serious games validate evacuation facility designs, with participants preferring green and white flashing exit-portal lights](ivr-sgs-evacuation-facility-validation.md) — related
 - [Knowledge transfer outcomes show the largest effect sizes of immersive procedural training (g = 1.80), while knowledge gain and retention effects are not significant](ivr-knowledge-transfer-largest-effect.md) — reports the opposite
 - [Immersive procedural training in VR shows a significant medium positive effect on learning outcomes compared to less immersive environments (Hedges' g = 0.58)](ivr-procedural-training-medium-positive-effect.md) — related
+- [Adding task interruptions to ALS simulation to increase realism did not improve technical or non-technical performance, including at 3-month retention](task-interruptions-no-performance-benefit.md) — a narrower finding that bears on this claim

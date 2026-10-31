@@ -48,3 +48,4 @@ Qualitative thematic analysis of interviews, field notes, artifacts, and final p
 - [Designing and building robot costumes supported students' learning about robot structure and factors affecting precise motion](costume-design-supports-robot-structure-learning.md) — related
 - [Students developed AI understanding by reasoning about how physical setup and environmental conditions affect sensor perception and machine learning data quality](physical-setup-reasoning-builds-ai-understanding.md) — related
 - [Playful and creative engagement with robots supported students' learning of robotics and AI, including recognizing that robot behavior is driven by sensor data rather than human-like perception](playful-exploration-supports-robotics-ai-learning.md) — related
+- [Pre-operative errors stem largely from insufficient preparation, including setup issues and cognitive distractions that affect accuracy](preoperative-preparation-and-distraction-errors.md) — related

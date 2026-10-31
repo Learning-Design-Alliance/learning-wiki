@@ -67,3 +67,4 @@ The article's concluding synthesis, an authors' interpretation connecting proces
 - [Thesis Writer, a domain-specific online scaffolding environment for academic writing, was used and deemed supportive by first-year business administration students](thesis-writer-used-and-deemed-supportive-by-students.md) — related
 - [Review-reported studies: writing portfolios were valued for improving writing and reflection and reported to reduce EFL learners' test anxiety](review-reported-writing-portfolios-reduce-anxiety-build-skills.md) — a narrower finding that bears on this claim
 - [Methodological features explain variation in structure findings: methods centering teachers' and students' experiences and aligning with the focal outcome matter](structure-findings-vary-with-method-features.md) — related
+- [Song-based instruction is consistently associated with increased affective engagement in EFL listening classrooms](song-based-instruction-affective-engagement.md) — related

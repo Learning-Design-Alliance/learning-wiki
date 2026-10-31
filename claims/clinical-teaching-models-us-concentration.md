@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: munguiko-clement-2026
     resource: "https://doi.org/10.1186/s12909-026-09710-w"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Of the 26 included studies, 17 were conducted in the United States and 5 in South Asia, with one each from China, Iraq, the United Kingdom, and Colombia, and no studies from Africa. [→ Munguiko Clement 2026](#munguiko-clement-2026)
@@ -53,3 +54,5 @@ Geographical frequency analysis in the scoping review's characteristics of inclu
 - [General chemistry assessment research is geographically concentrated in developed countries and published in a small set of high-quartile chemistry education journals](assessment-research-geographic-journal-concentration.md) — a narrower finding that bears on this claim
 - [The evidence base is geographically uneven: no study simultaneously examined all three constructs within a sub-Saharan African context](no-integrative-three-construct-studies-sub-saharan-africa.md) — related
 - [Supporting evidence is unevenly distributed across the eight clinical teaching models, with OMP and SNAPPS the most extensively studied](omp-snapps-most-studied.md) — related
+- [A scoping review identified 48 studies of technology-based teaching for health students' stroke clinical skills, most published recently and of lower methodological quality](48-studies-tech-teaching-stroke-skills-review.md) — related
+- [Timed and untimed spot tests show no significant difference in anatomy students' academic performance](timed-untimed-spot-tests-no-difference.md) — related

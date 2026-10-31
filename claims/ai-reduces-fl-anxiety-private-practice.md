@@ -108,3 +108,4 @@ Thematic synthesis codes 31 studies to self-efficacy and self-confidence enhance
 - [An intelligent affective tutoring system recognizing facial expressions reduced anxiety and improved Japanese learning](affective-tutoring-reduces-japanese-learning-anxiety.md) — a narrower finding that bears on this claim
 - [Students in both groups valued the AI speaking app for autonomous practice, and AI-GFCA students reported reduced anxiety and more peer interaction](interview-positive-learning-experience.md) — a narrower finding that bears on this claim
 - [Peer tutoring contributes to psychological safety and reduced anxiety in demanding simulation learning environments](peer-tutoring-psychological-safety-anxiety.md) — related
+- [Song-based instruction is consistently associated with increased affective engagement in EFL listening classrooms](song-based-instruction-affective-engagement.md) — related

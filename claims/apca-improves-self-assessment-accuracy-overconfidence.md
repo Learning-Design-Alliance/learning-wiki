@@ -84,3 +84,4 @@ Descriptive statistics across the four groups (Table 1) show the APCA group's lo
 - [Students taught by teachers who received training outperformed those in the control condition, and adding the AIED-U system did not improve learning gains further beyond training alone](teacher-training-improves-numeracy-gains-aied-u-no-additional.md) — related
 - [Law students overestimated their writing performance when self-assessing against the formal rubric](law-students-overestimate-rubric-self-assessment.md) — related
 - [Students perceived greater writing improvements than evaluators confirmed](student-perceived-gains-exceed-evaluator-ratings.md) — related
+- [Students tend to overestimate their own performance when self-assessing with rubrics](students-overestimate-self-assessment-with-rubrics.md) — related

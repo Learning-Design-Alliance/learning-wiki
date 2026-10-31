@@ -64,3 +64,4 @@ Heterogeneity test of the 19 coded studies using Q and I² statistics with a 95%
 - [Heterogeneity across flipped-classroom studies was consistently high (I² > 90%) and was largely not explained by prespecified subgroup analyses, indicating context-dependent effects](flipped-classroom-high-heterogeneity-context-dependent.md) — a narrower finding that bears on this claim
 - [The pooled effect-size distribution is highly heterogeneous but resistant to publication bias](heterogeneity-and-publication-bias-assessment.md) — related
 - [Effect sizes across included studies are highly heterogeneous (I² = 94.79%), requiring a random-effects model](high-heterogeneity-random-effects-cre-meta-analysis.md) — related
+- [Evidence for bilingual immunology teaching rests on few, mostly moderate-quality non-randomized studies with substantial heterogeneity](bilingual-immunology-evidence-base-limited-heterogeneous.md) — a narrower finding that bears on this claim

@@ -58,3 +58,4 @@ Cross-sectional survey of 2,432 Norwegian adolescents (1258 girls, 1187 boys) ag
 - [Quality of habitual breakfast, in terms of variety of food groups and adequate energy, is positively related to school performance](breakfast-quality-school-performance.md)
 - [A binding SBP mandate increases milk and fruit consumption and decreases soda consumption, but its effects on attendance are imprecise, suggesting the achievement effect operates through improved nutrition](sbp-improves-nutrition-not-attendance.md) — related
 - [School breakfast programs show suggestive positive effects on academic performance, with clearest effects on mathematics and arithmetic grades in undernourished children](sbp-positive-academic-performance-undernourished.md) — related
+- [Breakfast skipping is associated with poor academic performance among Ethiopian students (pooled effect size 3.47)](breakfast-skipping-poor-academic-performance-ethiopia.md) — related

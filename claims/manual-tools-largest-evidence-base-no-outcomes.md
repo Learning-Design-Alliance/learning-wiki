@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: mainwaring-elizabeth-m-a-2026
     resource: "https://doi.org/10.1007/s00464-026-13309-z"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Manual observational tools (41 studies) are the most well-studied LC assessment instruments, with the largest body of evidence across multiple independent cohorts, but no study evaluated associations between assessment scores and patient outcomes. [→ Mainwaring Elizabeth M. A. 2026](#mainwaring-elizabeth-m-a-2026)

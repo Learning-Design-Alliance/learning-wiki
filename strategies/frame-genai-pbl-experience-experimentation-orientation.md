@@ -42,6 +42,7 @@ The authors recommend supporting history-taking from genAI-enabled virtual patie
 
 - [Evaluate AI standardized patient systems with both endpoint and process-sensitive outcomes](evaluate-ai-sp-with-endpoint-and-process-outcomes.md)
 - [Design future AI curricula to fit the school day, centering student and teacher needs for K-12 in-person and virtual learning](design-recommendations-future-k12-ai-curricula.md)
+- [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 
 ## Examples
 -

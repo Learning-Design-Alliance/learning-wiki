@@ -63,3 +63,4 @@ Thematic analysis of student post-surveys (n=79) and focus groups (n=18) in a qu
 - [Students reported satisfaction with the detailed analyses, personalized multi-dimensional recommendations and motivational guidance provided by the AI systems](students-satisfied-with-genai-feedback-quality.md) — related
 - [Rubric-based AI feedback allowed teachers to scaffold learning while reducing their workload, per the authors' interpretation](rubric-ai-feedback-scaffolds-and-reduces-workload.md) — related
 - [Students agreed MI Write was useful, particularly for revising writing and identifying areas of improvement rather than learning about writing](mi-write-usefulness-revision-identification-over-learning.md) — related
+- [Students and faculty generally view rubrics positively but emphasize different functions](positive-student-faculty-perceptions-of-rubrics.md) — related

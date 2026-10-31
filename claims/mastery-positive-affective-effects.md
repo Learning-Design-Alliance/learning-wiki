@@ -76,3 +76,4 @@ In the Denton, Ory, Glassnap, & Poggio (1976) study included in the synthesis, g
 - [Group-based mastery learning programs yield positive achievement effects in every included study, but effect sizes vary so widely that an average was deemed inappropriate](group-mastery-positive-achievement-all-studies.md) — related
 - [Mastery and control groups show no significant differences in entry knowledge, academic self-concept, or affect toward education](mastery-control-no-entry-differences.md) — related
 - [Using the ICLS improved students' knowledge of modular programming but produced no significant change in self-esteem or interest in the subject](icls-achievement-gain-self-esteem-null.md) — related
+- [Students report more confidence and less anxiety when supervised by clinicians experienced in endodontics (review‐attributed)](endodontic-supervisor-expertise-student-confidence.md) — a narrower finding that bears on this claim

@@ -13,7 +13,7 @@ generated:
 # Peer Teaching
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (4 for, 3 mixed) · 8 studies (5 causal, 2 quant-synthesis, 1 associational), `q1`–`q4` · 1 of 8 report an effect size · 6 claims rest on one study
+> **Evidence** · 8 claims (4 for, 4 mixed) · 9 studies (5 causal, 2 quant-synthesis, 1 review, 1 associational), `q1`–`q4` · 1 of 9 report an effect size · 7 claims rest on one study
 
 ## Description
 Peer teaching places learners in the role of instructor: they explain, question, and elaborate material for classmates, then receive questions that probe their understanding. Preparing to teach and teaching itself force learners to reorganize knowledge, fill gaps, and articulate reasoning — a form of generative processing that benefits the teacher as much as the taught.
@@ -59,6 +59,7 @@ Peer teaching works because explaining to another person demands deeper processi
 - [Staff tutors rated higher on using subject-matter knowledge and relevance, but peer tutors rated higher on these behaviors in year one](../claims/tutor-behavior-ratings-interaction-year.md) [~W]
 - [Students rated peer tutoring with the VoicePod as acceptable and helpful for learning vocabulary](../claims/social-validity-voicepod-tutoring.md) [+W]
 - [A synergistic effect between tutor and tutee roles may explain the peer agent's advantage](../claims/tutor-tutee-synergistic-effect.md) [+W]
+- [The reviewed P2P-teacher studies focus on cross-year teaching and rarely on same-year teaching](../claims/p2p-studies-cross-year-focus.md) [~W]
 
 ## Related Elements
 - [Collaboration](collaboration.md) — the broader interaction structure peer teaching sits within

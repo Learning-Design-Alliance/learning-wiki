@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-10-31
 sources:
   - id: zhou-jie-2026
     resource: "https://doi.org/10.1111/jocn.70206"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Eight eligible studies (five RCTs, three quasi-experiments) totalling 275 practising nurses were identified, with two RCTs at high risk of bias and small sample sizes ranging widely. [→ Zhou Jie 2026](#zhou-jie-2026)
@@ -51,3 +52,5 @@ Systematic review screening 1404 records under PRISMA 2020, quality-assessed wit
 - [High-fidelity simulation training improves professional skills among practising registered nurses (moderate pooled effect)](hfs-professional-skills-practising-nurses.md) — related
 - [Methodological quality of included studies was limited: RCTs often lacked randomisation description and blinding, and cohort/case-control studies did not account for confounding](quality-limits-rct-case-control.md) — related
 - [The review's search identified 539 studies, of which 39 met inclusion criteria, spanning 9927 participants with samples from 7 to 3268](review-corpus-539-identified-39-included-9927-participants.md) — related
+- [The reviewed evidence base comprises 15 studies (N=645) with heterogeneous designs, predominantly text-based, GPT-model virtual patients](genai-vp-evidence-base-15-studies-characteristics.md) — related
+- [High-fidelity simulation improves ECT procedural skills substantially but does not reliably improve theoretical knowledge or confidence](hfs-ect-procedural-skills.md) — related

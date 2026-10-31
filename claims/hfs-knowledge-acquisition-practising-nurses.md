@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-31
 sources:
   - id: zhou-jie-2026
     resource: "https://doi.org/10.1111/jocn.70206"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i2` medium
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Meta-analysis of six studies (185 nurses) found HFS training produced a moderate, significant improvement in knowledge acquisition compared with traditional methods (SMD = 0.65), with no heterogeneity. [→ Zhou Jie 2026](#zhou-jie-2026)
@@ -52,3 +53,5 @@ Inverse-variance random-effects meta-analysis of five RCTs and one quasi-experim
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [The review reports that high-fidelity simulation outperformed case-based discussion for clinical reasoning and leadership in paediatric emergencies](hfs-superior-case-based-discussion-reasoning.md) — related
 - [In an RCT of ICU nurses, simulation-based education produced within-group gains in knowledge, confidence and competence but no between-group differences at 6 weeks](sbe-icu-within-group-gains-no-between-group.md) — related
+- [High-fidelity simulation improves ECT procedural skills substantially but does not reliably improve theoretical knowledge or confidence](hfs-ect-procedural-skills.md) — related
+- [IVR simulation significantly improves nursing students' knowledge acquisition with a small-to-medium effect](ivr-improves-nursing-knowledge-acquisition.md) — related

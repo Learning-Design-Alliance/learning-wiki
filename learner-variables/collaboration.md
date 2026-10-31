@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 69 claims (55 show a difference, 8 mixed, 6 no difference) · 59 studies (16 causal, 13 review, 11 qualitative, 8 associational, 5 design, 5 theoretical, 1 quant-synthesis), `q1`–`q3` · 5 of 59 report an effect size · 69 claims rest on one study
+> **Evidence** · 76 claims (59 show a difference, 10 mixed, 7 no difference) · 64 studies (16 causal, 16 review, 11 qualitative, 8 associational, 5 design, 5 theoretical, 3 quant-synthesis), `q1`–`q3` · 6 of 64 report an effect size · 76 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -111,6 +111,13 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Observers rated collaboration quality as good on most dimensions for both versions](../claims/good-collaboration-quality-most-dimensions.md) [+M] — instruction changes it
 - [Flipped classroom improves cooperation and communication skills (pooled RR 1.60)](../claims/fc-cooperation-communication-rr-160.md) [+M] — instruction changes it
 - [Peer tutoring benefits extend to the tutors themselves, including confidence, autonomy, leadership, teamwork, and empowerment](../claims/peer-tutor-role-benefits-to-tutors.md) [+M] — instruction changes it
+- [Collaboration and care is the most frequently demonstrated peer support competency across peer support RCTs, followed by providing support and communication](../claims/collaboration-care-most-frequent-peer-support-competency.md) [+M] — instruction changes it
+- [Immersive VR simulation is noninferior to live simulation for developing teamwork and communication skills](../claims/vr-noninferior-to-live-simulation-teamwork-communication.md) [+M] — instruction changes it
+- [Simulation complemented by other techniques improves patient safety competency more than simulation alone, but added classroom teaching did not improve teamwork attitudes](../claims/blended-simulation-versus-simulation-alone-mixed.md) [-W] — instruction changes it
+- [Simulation-based training is associated with communication and teamwork gains of approximately 2–3 points and NOTSS domain means of 2.8–3.5 on 4-point scales](../claims/simulation-communication-teamwork-gains-notss.md) [+M] — instruction changes it
+- [Skill retention after simulation is rarely measured; at 2-month follow-up only the VR group maintained significant ISVS improvement](../claims/simulation-skill-retention-two-month-follow-up.md) [~M] — instruction changes it
+- [TBL is associated with improved self-study ability, communication skills, and teamwork ability versus LBL](../claims/tbl-improves-self-study-communication-teamwork.md) [+M] — instruction changes it
+- [Virtual environments favor clinical reasoning, self-regulation and peer collaboration, while physical environments engage critical reasoning, professionalism and communication abilities](../claims/virtual-physical-environments-different-competencies.md) [~W] — instruction changes it
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

@@ -47,3 +47,4 @@ Single-moderator CHE-RVE models (k = 11 clusters) tested educational level, MMAT
 ## Related Claims
 - [Gamification produces a statistically significant small-to-moderate positive effect on motivation in secondary and higher education mathematics (g = .383)](gamification-motivation-mathematics-meta-effect.md) — related
 - [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](gamification-has-small-positive-effects-on-learning-outcomes.md) — related
+- [Research on gamification in higher education is predominantly quantitative, English-language and review-scarce](gamification-higher-ed-research-predominantly-quantitative.md) — related

@@ -53,6 +53,7 @@ Drawing on the converging gaps across the reviewed literature, the review recomm
 - [Prioritize construct-to-data mappings, multimodal validation, ethical implementation, and cross-disciplinary collaboration for domain-specific adaptive systems](domain-specific-adaptivity-research-priorities.md)
 - [Prioritize longer-term longitudinal studies and analysis of learners' virtual-world behaviors for SLA research](longitudinal-virtual-world-sla-research-agenda.md)
 - [Direct future pedagogical agent research toward assessment, reflective practice, administration, personalisation and media richness](future-research-assessment-reflective-personalisation.md)
+- [Address theoretical grounding, longitudinal study designs, and standardized design protocols before broad implementation of GenAI virtual patients](genai-vp-theory-longitudinal-protocol-strategy.md)
 
 ## Examples
 -

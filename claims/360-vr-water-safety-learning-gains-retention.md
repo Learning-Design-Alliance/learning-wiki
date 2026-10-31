@@ -50,3 +50,4 @@ Two-way ANOVA on 115 randomly assigned children (360° VR n = 46, TV n = 28, Pos
 - [Teachers perceive 360° VR videos as engaging, feasible, and useful for explaining concepts difficult to demonstrate traditionally](teacher-focus-groups-vr-engagement.md) — related
 - [Prior single-exposure IVR studies show mixed cognitive outcomes: affective gains without cognitive benefits (Parong & Mayer) and short-lived retention gains (Christopoulos)](ivr-single-exposure-mixed-cognitive-outcomes.md) — related
 - [Immersive lessons show a small effect size advantage over less immersive technology, but increased presence does not necessarily lead to more learning](immersive-lessons-small-advantage-presence-not-sufficient.md) — related
+- [Real-time augmented reality speed overlays nearly doubled novice instrument velocity in bimanual carrying, with gains retained at two weeks](ar-speed-overlay-instrument-velocity-retention.md) — related

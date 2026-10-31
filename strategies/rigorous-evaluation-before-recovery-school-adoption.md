@@ -37,7 +37,8 @@ The review's authors recommend caution in adopting recovery schools broadly and 
 - academic success and sustained recovery support for students in recovery
 
 ## Related Strategies
-- 
+
+- [Rigorously compare PBL with traditional methods before broad PGME implementation, using larger samples, controls, and follow-up](compare-pbl-traditional-methods-before-pgme-implementation.md)
 
 ## Examples
 -

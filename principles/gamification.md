@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 55 claims (29 for, 24 mixed, 2 against) · 50 studies (19 causal, 14 quant-synthesis, 10 review, 3 associational, 2 design, 2 theoretical), `q1`–`q4` · 16 of 50 report an effect size · 47 claims rest on one study
+> **Evidence** · 59 claims (31 for, 25 mixed, 3 against) · 53 studies (19 causal, 14 quant-synthesis, 13 review, 3 associational, 2 design, 2 theoretical), `q1`–`q4` · 16 of 53 report an effect size · 51 claims rest on one study
 
 ## Conditional relationship
 
@@ -221,6 +221,10 @@ The expectation should weaken if controlled comparisons of the same practice wit
 - [Gamified clinical skill learning produces a large positive effect on knowledge acquisition in undergraduate nursing students](../claims/gamified-learning-large-knowledge-gains-nursing.md) [+W]
 - [Gamified simulation-based learning shows a large knowledge effect but with substantial heterogeneity](../claims/gamified-simulation-large-variable-knowledge-effect.md) [+W]
 - [Gamified flipped classroom/animation knowledge effects are inconclusive due to few studies and extreme heterogeneity](../claims/gamified-flipped-classroom-inconclusive-knowledge.md) [~W]
+- [Gamification effectiveness varies by task type, population and cultural context, limiting generalization](../claims/gamification-effectiveness-context-dependent-limitation.md) [~W]
+- [Gamification improved CPR learning among younger learners compared with conventional teaching methods](../claims/gamification-effective-cpr-younger-learners.md) [+W]
+- [Gamified ALS training produced mixed short-term findings, with lower ALS-algorithm knowledge in the gamification group in a cluster randomised trial](../claims/gamification-mixed-als-algorithm-knowledge.md) [-W]
+- [The review reports a positive relationship between gamification and motivation in learning processes](../claims/gamification-motivation-positive-relationship-review.md) [+W]
 
 ## Related Principles
 - [Autonomy](autonomy.md) — gamification works when it expands meaningful choice, not when it controls learners through rewards

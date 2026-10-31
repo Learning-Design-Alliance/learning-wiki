@@ -51,3 +51,4 @@ Narrative synthesis of the review's main-findings section over 11 experimental a
 - [Most included studies carried a high risk of bias or some concerns, particularly for confounding and outcome measurement, limiting certainty](peer-tutoring-simulation-risk-of-bias.md) — related
 - [Most learner-facing studies of technology-enhanced simulation in laparoscopic training report favorable learner responses, mainly confidence, satisfaction, perceived safety and self-efficacy](simulation-laparoscopic-favorable-perceptions.md) — related
 - [Favorable learner perception of laparoscopic simulation should not be equated with competence, clinical readiness or transfer of learning](laparoscopic-simulation-perception-not-competence.md) — related
+- [GTA-trained students outperform manikin- or clinical-patient-trained peers in examination technique and procedural sequencing, but not in diagnostic ability](gta-training-improves-technical-skill-not-diagnostic-ability.md) — related

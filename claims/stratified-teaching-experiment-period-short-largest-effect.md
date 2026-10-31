@@ -48,3 +48,4 @@ Experiment-period moderator analysis (Table 5) of the included studies: 3 short,
 - [Stratified teaching has a moderate positive effect on Chinese middle and high school students' academic performance (SMD = 0.53)](stratified-teaching-positive-moderate-effect-chinese-secondary.md) — a broader claim this one bears on
 - [Stratified teaching has a larger effect in medium-size classes (SMD = 0.64) than in large classes (SMD = 0.44)](stratified-teaching-medium-class-size-larger-effect.md) — related
 - [Shift-class stratification shows a larger effect (SMD = 0.99) than in-class stratification (SMD = 0.51), though the between-group difference is not statistically significant](shift-class-stratification-larger-effect-than-in-class.md) — related
+- [Single-session and multi-session experiential learning programs show comparable attitude improvements](short-and-long-term-dementia-programs-comparable.md) — related

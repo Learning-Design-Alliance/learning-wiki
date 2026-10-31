@@ -14,7 +14,7 @@ generated:
 # Rubrics
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 30 claims (13 for, 13 mixed, 4 against) · 28 studies (11 causal, 6 design, 4 review, 4 associational, 3 quant-synthesis), `q1`–`q3` · 4 of 28 report an effect size · 27 claims rest on one study
+> **Evidence** · 32 claims (14 for, 14 mixed, 4 against) · 29 studies (11 causal, 6 design, 5 review, 4 associational, 3 quant-synthesis), `q1`–`q3` · 4 of 29 report an effect size · 29 claims rest on one study
 
 ## Description
 Rubrics are the element in which criteria and performance levels are made explicit to guide quality work and evaluation.
@@ -60,6 +60,8 @@ Rubrics are the element in which criteria and performance levels are made explic
 - [Text-based rubrics alone provide insufficient contextual, dynamic and procedural information to support rich mental model development of complex skills](../claims/text-rubrics-lack-contextual-dynamic-procedural-information.md) [~W] — attached 2026-10-28 from Kevin Ackermans et al. (2019), which proposed "Video Enhanced Rubric (VER): a digital multimedia application combining video-modeling examples with analytic rubrics".
 - [By the final assessment, 82% of artefacts demonstrated mapping between content descriptors, assessment tasks, and success criteria aligned with AITSL Graduate Standards 2.1, 2.2, and 3.2](../claims/artefact-pedagogical-alignment-improvement.md) [+W]
 - [Global entrustment scales and standardised rubrics dominate EPA assessment, but validation of assessment tools is reported in only a small minority of studies](../claims/epa-assessment-tools-validation-gap.md) [~W]
+- [Students and faculty generally view rubrics positively but emphasize different functions](../claims/positive-student-faculty-perceptions-of-rubrics.md) [~W]
+- [Rubrics enhance grading consistency and inter-rater reliability in dental education assessment](../claims/rubrics-enhance-grading-consistency-dental-education.md) [+W]
 
 ## The evidence by question
 - *Does giving learners the criteria, and having them apply them to their own or peers' work, improve the work?* [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](../claims/rubrics-improve-student-work.md) [+M]

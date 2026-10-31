@@ -54,3 +54,4 @@ Paired comparison of questionnaire purposefulness scores from the 34-student cor
 - [Supportive competence grew continuously through Workshop 4 while basic observation ability remained stable across sequential AV workshops](support-growth-observation-stable-longitudinal.md) — related
 - [Analytical competence showed a leap-plateau trajectory across sequential authentic-video workshops, improving mainly between Workshops 2 and 3](analysis-leap-plateau-trajectory.md) — related
 - [Video review scaffolds self-regulated learning, and hands-on activity groups show greater self-regulation than virtual simulation groups](video-review-scaffolds-self-regulated-learning.md) — related
+- [A social robotic LLM-enhanced virtual patient was rated higher than a conventional computer-based platform for authenticity and learning effect](robotic-vp-higher-authenticity-than-computer-platform.md) — related

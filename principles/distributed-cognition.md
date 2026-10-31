@@ -13,7 +13,7 @@ generated:
 # Distributed Cognition
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 50 claims (27 for, 23 mixed) · 44 studies (13 theoretical, 10 review, 9 causal, 6 qualitative, 3 design, 2 associational, 1 quant-synthesis), `q1`–`q4` · 6 of 44 report an effect size · 45 claims rest on one study
+> **Evidence** · 51 claims (28 for, 23 mixed) · 45 studies (13 theoretical, 11 review, 9 causal, 6 qualitative, 3 design, 2 associational, 1 quant-synthesis), `q1`–`q4` · 6 of 45 report an effect size · 46 claims rest on one study
 
 ## Conditional relationship
 
@@ -167,6 +167,7 @@ Claims the earlier page cited, each now placed above (in the model, the evidence
 - [Higher reliance on AI tools is correlated with lower critical-thinking performance, mediated by cognitive offloading](../claims/ai-reliance-correlated-lower-critical-thinking-offloading.md) [~W]
 - [Some content-based offloading profiles differed in prompting volume even though volume was not a clustering variable, suggesting what is offloaded constrains how much is offloaded](../claims/offloading-content-constrains-volume.md) [~W]
 - [A joint workspace scaffold on a multi-touch table improved discussion intensity, mutual understanding, and decision performance in hidden profile tasks](../claims/joint-workspace-multitouch-hidden-profile.md) [+W]
+- [Introducing a designated nursing team leader was associated with lower cognitive load for the medical team leader and improved objective performance in the CANLEAD trial](../claims/designated-nurse-leader-lower-cognitive-load.md) [+W]
 
 ## Related Principles
 - [Social Learning](../theories/sociocultural-theory.md) — distributed cognition often depends on learning through interaction with others

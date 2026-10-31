@@ -55,3 +55,5 @@ Background/experience section of the survey of 222 educators. The authors report
 - [Geographical region significantly moderates AI literacy intervention effects, with Europe and East Asia outperforming North America](geographic-region-moderates-ai-literacy-effects.md) — related
 - [Samples used to investigate human features in AIED research are 94% WEIRD and 62% US, with no African samples](aied-weird-sample-imbalance.md) — related
 - [Participant samples in AI trust research skew WEIRD: mostly Western, adult, university-educated participants, limiting external validity](weird-bias-ai-trust-research.md) — related
+- [The evidence base on anatomy teacher profiles is geographically skewed toward the Americas and toward medicine, limiting generalizability](anatomy-teacher-evidence-geographic-bias.md) — related
+- [The GTA literature is skewed towards the Global North and largely omits patient perspectives, despite patient-centred justifications for GTA programmes](gta-literature-gaps-patient-voice-global-north.md) — a narrower finding that bears on this claim

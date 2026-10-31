@@ -70,3 +70,4 @@ The review's challenges analysis states that CST research shows positive short-t
 - [Innovative andragogical strategies — simulation, narrative medicine, reflective writing — enhance empathy, compassion, and communication skills in medical students](innovative-teaching-practices-soft-skills-medical-students.md) — related
 - [Short-term, non-longitudinal training programmes pose challenges for estimating long-term skill retention](short-term-training-challenges-long-term-skill-retention.md) — a broader claim this one bears on
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related
+- [Evidence on simulation-based leadership training lacks longitudinal follow-up and objective patient-centered outcomes, limiting causal inference](limited-longitudinal-evidence-simulation-leadership.md) — related

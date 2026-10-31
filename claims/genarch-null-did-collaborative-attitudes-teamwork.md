@@ -55,3 +55,4 @@ Difference-in-differences regressions on the pre–post survey instruments in a 
 - [Prospective teachers' qualitative feedback credited CCCT with communication, teamwork and engagement gains but noted unequal participation and time constraints](ccct-qualitative-strengths-challenges.md) — related
 - [Blinded panel ratings of design presentations did not differ significantly between GenARch and Control teams](genarch-panel-presentation-no-significant-difference.md) — related
 - [Cooperative learning has a small, positive, significant effect on attitudes towards mathematics (d++ = 0.16)](cooperative-learning-small-effect-attitude-math.md) — related
+- [Simulation-based training is associated with communication and teamwork gains of approximately 2–3 points and NOTSS domain means of 2.8–3.5 on 4-point scales](simulation-communication-teamwork-gains-notss.md) — reports the opposite

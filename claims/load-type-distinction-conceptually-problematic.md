@@ -51,3 +51,4 @@ The review quotes Paas et al. (2004) to show the extraneous/germane distinction 
 - [Prior knowledge and worked-example type (full vs completion) interact significantly on self-reported germane cognitive load, but not on intrinsic or extraneous load](prior-knowledge-by-worked-example-type-interaction-on-germane-load.md) — related
 - [Intrinsic and extraneous load are distinguished by whether element interactivity is essential to the task or a function of instructional procedures](intrinsic-extraneous-distinction-essential-vs-instructional.md) — reports the opposite
 - [The worked example effect is explained by reduced element interactivity relative to problem solving, and reverses with expertise](worked-example-effect-element-interactivity-explanation.md) — related
+- [AI tutoring imposes significantly higher extraneous cognitive load than expert instruction](ai-tutoring-higher-extraneous-cognitive-load.md) — related

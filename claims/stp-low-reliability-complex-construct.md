@@ -81,3 +81,4 @@ Human inter-rater reliability measured with Fleiss' κ among three researchers c
 - [An automated scoring engine matched experienced human markers yet was rejected over the confidentiality-explainability conflict](crase-scoring-equivalent-to-human-markers-rejected.md) — related
 - The review's corpus comprises 39 peer-reviewed articles selected via a PRISMA protocol with substantial screening agreement — related
 - The proposed coding scheme achieves high inter-rater reliability across design object, design move, and communication move dimensions — related
+- [Rubrics enhance grading consistency and inter-rater reliability in dental education assessment](rubrics-enhance-grading-consistency-dental-education.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: cheverko-cm-2026
     resource: "https://doi.org/10.1002/ase.70262"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Pooled accuracy: Claude 3–3.7 = 86.2% and DeepSeek R1 = 86.0%, modestly underperforming GPT‐4o_o1; Gemini series = 75.5% and Copilot = 69.4% trailed the leading companies. [→ Cheverko CM 2026](#cheverko-cm-2026)
@@ -53,3 +54,6 @@ Random‐effects proportional meta‐analysis comparing newer LLM models from co
 - [GPT-4 achieves passing accuracy on USMLE Steps 1–3 (mean 86%), significantly exceeding GPT-3.5 (mean 56%)](gpt4-usme-passing-accuracy-exceeds-gpt35.md) — related
 - [GPT‐4 through o1 models show significantly lower pooled accuracy in pathology (75%) than in other biomedical disciplines](lower-llm-accuracy-pathology-biomedical-mcq.md) — related
 - [Question type, stem type, MCQ source, and web accessibility did not independently explain LLM accuracy heterogeneity in biomedical MCQ meta‐regressions](mcq-covariates-not-explaining-llm-accuracy-heterogeneity.md) — related
+- [Direct comparisons confirm ChatGPT-4 significantly outperformed earlier versions and some competitor models on dental examination questions](chatgpt4-outperforms-earlier-versions-dental-questions.md) — related
+- [GPT-4 achieves the highest pooled accuracy among LLMs (81%), significantly outperforming GPT-3.5 (60%)](gpt4-highest-accuracy-81-outperforms-gpt35.md) — related
+- [Subgroup analyses show significant between-model differences, with Copilot (75.25%) and ChatGPT-4 (72.97%) achieving the highest pooled accuracies](llm-subgroup-copilot-chatgpt4-highest-accuracy.md) — reports the opposite

@@ -53,3 +53,4 @@ Cross-sectional correlational analysis in 37 healthy older adults (mean age 64.5
 - [Poorer sleep quality is associated with lower proportions of the gut microbial phyla Verrucomicrobia and Lentisphaerae in healthy older adults](poorer-sleep-quality-lower-verrucomicrobia-lentisphaerae-proportions.md) — related
 - [Higher Verrucomicrobia proportion is associated with better Stroop Word performance after controlling for carbohydrate intake and hypertension](verrucomicrobia-proportion-associated-stroop-word-performance.md) — related
 - [Five nights of sleep restriction cause lower quiz performance in a simulated classroom among adolescents](sleep-restriction-lowers-simulated-classroom-quiz-scores.md)
+- [Gut microbiota-related pathways remain a preliminary, largely theoretical area in student populations, with very few studies directly assessing microbiota-related variables](gut-microbiota-pathways-emerging-gap-students.md) — related

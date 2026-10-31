@@ -45,6 +45,7 @@ The article recommends deploying out-of-the-box LLMs in notarial work only in su
 
 - [Use LLM persona simulation only for preliminary experimentation, stress testing, and hypothesis generation, with separate validation for consequential applications](persona-simulation-preliminary-use-only.md)
 - [Use reward-aligned LLM scoring as a teacher-supervised auxiliary tool for preliminary essay scoring at scale](teacher-supervised-auxiliary-llm-essay-scoring.md)
+- [Use LLMs cautiously as supplementary learning tools in dental education, with output verification and professional supervision](cautious-llm-supplementary-tools-dental-education.md)
 
 ## Examples
 -

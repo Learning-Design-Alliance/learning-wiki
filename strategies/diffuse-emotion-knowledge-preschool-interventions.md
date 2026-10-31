@@ -47,7 +47,8 @@ Based on the finding that emotion knowledge gains mediate the link between presc
 - [A replication trial with 267 preschoolers found greater gains in social skills and stronger teacher-child and parent-teacher relationships than controls](../claims/getting-ready-replication-relationships.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Integrate social-emotional learning into school programs alongside academic content](integrate-sel-curricula-academic-content.md)
 
 ## Examples
 -

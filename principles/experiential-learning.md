@@ -35,7 +35,7 @@ sources:
 # Experiential Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 32 claims (23 for, 9 mixed) · 40 studies (12 causal, 8 quant-synthesis, 7 qualitative, 5 review, 4 theoretical, 2 associational, 2 design), `q1`–`q4` · 8 of 40 report an effect size · 26 claims rest on one study
+> **Evidence** · 33 claims (24 for, 9 mixed) · 41 studies (12 causal, 8 quant-synthesis, 7 qualitative, 6 review, 4 theoretical, 2 associational, 2 design), `q1`–`q4` · 8 of 41 report an effect size · 27 claims rest on one study
 
 ## Conditional relationship
 
@@ -164,6 +164,7 @@ An engaging experience, an immediate skill gain, an explanation, near transfer, 
 - [Interpersonal feedback improved creativity transfer to novel tasks more than all control conditions](../claims/if-improves-creativity-transfer.md) [+W]
 - [Subjective memory strength is higher for images from experiential than observational learning trials](../claims/memory-strength-higher-experiential.md) [+W]
 - [Step 1 (Work on an activity) of the VAS facilitated participants' reflection on both their knowledge and their teaching experiences](../claims/vas-step1-facilitated-reflection-knowledge-teaching.md) [+W]
+- [Two included studies allowed participants to act on feedback from an earlier simulation attempt, enabling a 'second go'](../claims/second-go-feedback-iteration-simulation.md) [+W]
 
 ## Related Principles
 - [Debriefing](debriefing.md) — a core mechanism for making experience educative
@@ -194,6 +195,7 @@ An engaging experience, an immediate skill gain, an explanation, near transfer, 
 - [Use isomorphic framing to draw parallels between the empowerment model and the program's primary therapeutic theme](../strategies/isomorphic-framing-empowerment-model.md)
 - [Embed synthetic-culture interaction in teacher-led debriefing and repeated blended sessions](../strategies/mixer-embed-debriefing-whole-learning-experience.md)
 - [Design future pedagogical interventions aligned with the integrative model: case discussions requiring epistemological/ontological reflection, debriefings stimulating emotional and psychomotor awareness, and triangulated multi-dimensional assessment](../strategies/model-aligned-mr-pedagogical-interventions-pt.md)
+- [Deliver artistic experiential dementia education weekly over 4–8 weeks with direct interaction, guided creative expression, and facilitated reflective discussion](../strategies/art-based-dementia-education-implementation-guidelines.md)
 
 ## Key Sources
 - Dernova, M. (2015). Experiential learning theory as one of the foundations of adult learning practice worldwide. *Comparative Professional Pedagogy, 5*(2). [doi:10.1515/rpp-2015-0040](https://doi.org/10.1515/rpp-2015-0040)

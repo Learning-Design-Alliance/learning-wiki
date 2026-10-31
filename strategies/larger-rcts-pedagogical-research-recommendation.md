@@ -45,6 +45,7 @@ The author closes the meta-analysis with recommendations for researchers: becaus
 - [Prioritize high-quality randomized controlled trials and umbrella reviews over producing further redundant CI meta-analyses](rcts-and-umbrella-reviews-for-ci.md)
 - [Future MBI trials for youth should use scaled-up definitive designs with active intervention controls and embedded mechanism measures](definitive-mbi-trials-active-controls-mechanisms.md)
 - [Future HFS trials for practising nurses need larger samples, rigorous randomised design and standardised, fully reported measures](hfs-nurse-research-quality-recommendations.md)
+- [Rigorously compare PBL with traditional methods before broad PGME implementation, using larger samples, controls, and follow-up](compare-pbl-traditional-methods-before-pgme-implementation.md)
 
 ## Examples
 -

@@ -78,3 +78,4 @@ Non-parametric confirmation of the overall pre/post gain in the same pilot. The 
 - [All participants reported higher teaching self-efficacy after the teaching-simulation training](teaching-simulation-training-raises-self-efficacy.md) — related
 - [Intervention-cohort students reported positive pre–post shifts in Innovation and Motivation and Self-Directed Learning Ability](prepost-shifts-innovation-motivation-self-directed-learning.md) — related
 - [Improvements over baselines are statistically significant, with Cohen's d ranging from 1.2 to 1.8 for key metrics](statistical-significance-effect-sizes-key-metrics.md) — related
+- [Single-group studies uniformly reported improvement after distance simulation training in self-assessment, knowledge, or skills](single-group-prepost-all-improved.md) — related

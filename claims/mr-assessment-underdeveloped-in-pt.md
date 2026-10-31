@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: perdrix-yannick-2026
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13563282/"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The review's very limited evaluation evidence shows PT assessment of MR lags other professions, with no qualitative or psychometric evaluation of methods and inadequate accounting of the tasks-focals interplay and interaction dynamics. [→ Perdrix Yannick 2026](#perdrix-yannick-2026)
@@ -52,3 +53,5 @@ Authors' synthesis-based interpretation from the evaluation section of the narra
 - [Metacognition assessment is shifting from self-report questionnaires toward process-oriented multimodal methods, which face validity and data-alignment challenges](process-oriented-metacognition-assessment-shift.md) — related
 - [Metacognitive regulation in PT clinical reasoning fits Johnson's three types (self-observation, self-judgment, self-reaction), with all types represented in 58–75% of included articles](mr-types-fit-johnson-taxonomy-pt.md) — related
 - [Traditional self-report methods face significant limitations in capturing the dynamic nature of SRL](self-report-srl-limitations-dynamic-nature.md) — a broader claim this one bears on
+- [Errors in clinical reasoning arise from 4 primary areas: inadequate knowledge, flawed data gathering, faulty data processing, or impaired metacognition](clinical-reasoning-errors-four-areas.md) — related
+- [Only 5% of physical therapy assessment studies used a contemporary validity framework and only 13.7% fully reported intended interpretation and use](pt-assessment-studies-classical-validity-framework.md) — related

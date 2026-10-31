@@ -68,3 +68,5 @@ Subgroup analysis by study design of the self-confidence meta-analysis. The revi
 - [High-fidelity simulation training yields a large effect on learning satisfaction among practising registered nurses](hfs-learning-satisfaction-practising-nurses.md) — related
 - [The HFS evidence base for practising nurses comprises eight small studies with risk-of-bias concerns](hfs-nurse-evidence-base-eight-studies-275-nurses.md) — related
 - [In an RCT of ICU nurses, simulation-based education produced within-group gains in knowledge, confidence and competence but no between-group differences at 6 weeks](sbe-icu-within-group-gains-no-between-group.md) — related
+- [High-fidelity simulation improves ECT procedural skills substantially but does not reliably improve theoretical knowledge or confidence](hfs-ect-procedural-skills.md) — related
+- [IVR simulation significantly improves nursing students' self-efficacy but not satisfaction or confidence](ivr-improves-self-efficacy-not-satisfaction-confidence.md) — related

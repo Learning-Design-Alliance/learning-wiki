@@ -16,7 +16,7 @@ grain_size: lesson
 # Game-Based Mastery Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 26 claims (13 for, 12 mixed, 1 against) · 32 studies (11 causal, 9 review, 7 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 6 of 32 report an effect size · 20 claims rest on one study
+> **Evidence** · 27 claims (13 for, 13 mixed, 1 against) · 33 studies (11 causal, 10 review, 7 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 6 of 33 report an effect size · 21 claims rest on one study
 
 ## Description and scope
 
@@ -152,6 +152,7 @@ This pattern is scoped to cumulative skills that break into items scored on the 
 - [Cognitive challenge, incrementally increased as children gain competence, was a feature of all the most efficacious interventions](../claims/cognitive-challenge-high-efficacy-interventions.md) [+W]
 - [More extreme potential reward values are associated with reduced memory strength across learning conditions and choices](../claims/extreme-trial-values-reduce-memory.md) [~W]
 - [Students' perceived usability of the game declined significantly across lessons while focused attention, aesthetics, and satisfaction remained stable](../claims/gbl-perceived-usability-declined-across-lessons.md) [~W]
+- [Gamification effectiveness varies by task type, population and cultural context, limiting generalization](../claims/gamification-effectiveness-context-dependent-limitation.md) [~W]
 
 ## Related Patterns
 - [Programmed Instruction](programmed-instruction.md) — the historic ancestor of this pattern's small-step, immediate-feedback, self-paced core

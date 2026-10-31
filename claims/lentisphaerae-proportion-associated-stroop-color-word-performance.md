@@ -50,3 +50,4 @@ Partial correlation analysis in 37 healthy older adults controlling for carbohyd
 - [Poorer sleep quality is associated with lower proportions of the gut microbial phyla Verrucomicrobia and Lentisphaerae in healthy older adults](poorer-sleep-quality-lower-verrucomicrobia-lentisphaerae-proportions.md) — related
 - [Sleep quality and Verrucomicrobia are not independently associated with Stroop Word performance](sleep-quality-verrucomicrobia-not-independent-stroop-word.md) — related
 - [Higher Verrucomicrobia proportion is associated with better Stroop Word performance after controlling for carbohydrate intake and hypertension](verrucomicrobia-proportion-associated-stroop-word-performance.md) — related
+- [Gut microbiota-related pathways remain a preliminary, largely theoretical area in student populations, with very few studies directly assessing microbiota-related variables](gut-microbiota-pathways-emerging-gap-students.md) — related

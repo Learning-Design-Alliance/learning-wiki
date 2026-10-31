@@ -53,3 +53,4 @@ Moderator analysis by educational level across 52 elementary, 21 high-school and
 - [Effect of MIT-based instruction does not differ significantly by study sample size](mit-effect-homogeneous-sample-size.md) — related
 - [The effect of multiple intelligence practices does not differ significantly by type of study (article, master's thesis, doctoral thesis)](mi-effect-no-difference-study-type.md) — related
 - [Effect of MIT-based instruction does not differ significantly by course type, though foreign-language courses show the largest point estimate (d = 1.958)](mit-effect-homogeneous-course-type.md) — related
+- [The relationship between student characteristics and academic achievement is strongest at kindergarten level and declines through elementary and secondary school](school-level-moderates-characteristics-achievement-link.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: mainwaring-elizabeth-m-a-2026
     resource: "https://doi.org/10.1007/s00464-026-13309-z"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Only 6 studies evaluated kinematic motion-modelling systems, with sample sizes of 6 to 47 procedures, and no study evaluated clinical outcomes. [→ Mainwaring Elizabeth M. A. 2026](#mainwaring-elizabeth-m-a-2026)

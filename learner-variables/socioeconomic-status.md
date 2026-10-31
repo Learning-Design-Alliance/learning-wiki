@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 176 claims (107 show a difference, 45 mixed, 24 no difference) · 131 studies (74 associational, 26 causal, 14 review, 10 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 15 of 131 report an effect size · 175 claims rest on one study
+> **Evidence** · 180 claims (111 show a difference, 45 mixed, 24 no difference) · 133 studies (74 associational, 26 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 16 of 133 report an effect size · 179 claims rest on one study
 
 ## How to read this page
 
@@ -261,6 +261,10 @@ A learner's economic and social position: family income or poverty (often measur
 - [Summer math program effects differ by income status, with low-income samples showing d=0.11 and mixed-income samples showing a non-significant d=-0.02.](../claims/summer-math-income-moderator-between-study.md) [~M] — an instructional effect differs by group
 - [Within the same summer math programs, low-income students benefited more than higher-income students, a statistically significant difference.](../claims/summer-math-income-moderator-within-study.md) [+M] — an instructional effect differs by group
 - [Within-study income moderation replicates for reading, with low-income students benefiting more than middle-income students (difference d=0.25).](../claims/summer-reading-income-moderator-within-study.md) [+M] — an instructional effect differs by group
+- [Household economic and educational disadvantage is associated with poorer progression through medical school, with effects larger for progression than for selection](../claims/household-disadvantage-poorer-medical-progression.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Household economic and educational disadvantage is associated with reduced odds of admission to medical programs (pooled OR = 0.6)](../claims/household-disadvantage-reduced-medical-admission-odds.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Socioeconomic disadvantage and contextual stressors are negatively associated with academic performance in medical students](../claims/socioeconomic-disadvantage-negative-association-medical-students.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Socioeconomic disadvantage shows a persistent adverse association across both selection and progression stages of medical education](../claims/ses-disadvantage-persistent-across-continuum.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

@@ -51,3 +51,4 @@ Within the review's training-duration synthesis, Vincent et al.'s restorative de
 - [Haptic virtual reality simulation reduces procedural time for pulpotomy training compared with conventional simulators](ir-reduces-procedural-time-dental.md) — related
 - [Qualitative analysis found radiation became perceptible in VR for all participants, while all reported operability differences favoring conventional training](qualitative-themes-visualization-versus-operability.md) — related
 - [No significant differences between VR-based and conventional training in operational understanding, technical skills, or system usability](no-difference-operational-skills-usability.md) — related
+- [Pre-training educational video review improved simulator scores and shortened the learning curve but temporarily increased completion time](video-review-improves-scores-plateau-earlier.md) — related

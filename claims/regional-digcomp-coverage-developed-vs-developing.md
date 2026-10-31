@@ -48,3 +48,4 @@ Descriptive cross-framework mapping of 28 student/citizen frameworks onto DigCom
 - [No developing-region digital literacy framework in the review explicitly represents the copyright and licenses sub-competence](copyright-licenses-absent-developing-region-frameworks.md) — related
 - [DigComp 2.2 added 73 novel AI examples, concentrated in communication and collaboration, problem solving, and information and data literacy](digcomp-2-2-seventy-three-ai-examples-distribution.md) — related
 - [Student-focused digital literacy frameworks most frequently emphasize five DigComp-aligned element categories, led by information and data literacy](student-frameworks-five-digcomp-aligned-categories.md) — related
+- [Included studies show uneven KAS coverage: K1, K3, A2, S2, and S4 attract wide consensus while technical and collaborative dimensions are scarcely addressed](uneven-kas-dimension-consensus.md) — related

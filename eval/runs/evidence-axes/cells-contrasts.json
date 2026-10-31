@@ -51098,5 +51098,1197 @@
  "formative-assessment\tusing student assessment data to drive instructional decisions\tnot using student assessment data to drive instructional decisions": {
   "label": "assessment-informed instruction vs non-assessment-informed instruction",
   "treatment_is_a": true
+ },
+ "active-learning\t45-minute mind mapping session\t45-minute didactic lecture": {
+  "label": "Mind mapping vs didactic lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tCBL, PBL or TBL\tconventional instruction": {
+  "label": "Active learning (CBL/PBL/TBL) vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tCBL, PBL or TBL\ttraditional instruction or no active-learning comparator": {
+  "label": "Active learning (CBL/PBL/TBL) vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tCBL, PBL or TBL\ttraditional lecture or conventional instruction": {
+  "label": "Active learning (CBL/PBL/TBL) vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tCBL, PBL or TBL\ttraditional or passive teaching": {
+  "label": "Active learning (CBL/PBL/TBL) vs passive or traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tEat This! online synchronous interactive lectures\tcontrol group": {
+  "label": "Interactive synchronous lecture vs control",
+  "treatment_is_a": true
+ },
+ "active-learning\tPBL\tlecture instruction": {
+  "label": "Problem-based learning vs lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tPBL\tslide-and-lecture teaching": {
+  "label": "Problem-based learning vs lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tPBL and related problem-based approaches\tpre-intervention or alternative teaching methods": {
+  "label": "Problem-based learning vs traditional or alternative instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tPBL blended learning\tbaseline failure rate": {
+  "label": "Blended problem-based learning vs baseline or control",
+  "treatment_is_a": true
+ },
+ "active-learning\tPBL module\tpre-PBL baseline": {
+  "label": "Problem-based learning vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tPBL prompts\tcontrol group": {
+  "label": "Problem-based learning prompts vs control",
+  "treatment_is_a": true
+ },
+ "active-learning\tPBL, team-based learning, students as partners, and experience-based learning\ttraditional teaching model or not stated": {
+  "label": "Student-centered active learning vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tPBL-based educational interventions\tpre-intervention or usual curriculum": {
+  "label": "Problem-based learning vs usual curriculum or pre-intervention",
+  "treatment_is_a": true
+ },
+ "active-learning\tPBL/case-based seminar\tanother family medicine program": {
+  "label": "Problem-based or case-based seminar vs alternative program",
+  "treatment_is_a": true
+ },
+ "active-learning\tParticipating in a collaborative activity\tOther teaching strategies": {
+  "label": "Collaborative activity vs other teaching strategies",
+  "treatment_is_a": true
+ },
+ "active-learning\tTBL alone\tlecture-based learning": {
+  "label": "Team-based learning vs lecture-based learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tTBL alone or TBL combined with other methods\ttraditional lecture-based learning": {
+  "label": "Team-based learning vs traditional lecture-based learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tTBL alone or TBL combined with other teaching methods\ttraditional lecture-based learning": {
+  "label": "Team-based learning vs traditional lecture-based learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tTBL alone or combined with other methods\ttraditional lecture-based learning": {
+  "label": "Team-based learning vs traditional lecture-based learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tTBL combined with other teaching methods\tlecture-based learning": {
+  "label": "Team-based learning vs lecture-based learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tTBL or TBL combined with other methods\ttraditional lecture-based learning": {
+  "label": "Team-based learning vs traditional lecture-based learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tTBL versus LBL\ttraditional LBL": {
+  "label": "Team-based learning vs lecture-based learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tTBL versus LBL, intervention duration >4 weeks\ttraditional LBL": {
+  "label": "Team-based learning vs lecture-based learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tTBL versus LBL, intervention duration not reported\ttraditional LBL": {
+  "label": "Team-based learning vs lecture-based learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tTBL versus LBL, intervention duration ≤4 weeks\ttraditional LBL": {
+  "label": "Team-based learning vs lecture-based learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive learning methods\tno comparison reported": {
+  "label": "Active learning methods vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "active-learning\tcase-based breastfeeding seminar\tsimilar program without this training": {
+  "label": "Case-based seminar vs similar program without the training",
+  "treatment_is_a": true
+ },
+ "active-learning\tclassroom teaching plus clinical simulation\tclinical simulation alone": {
+  "label": "Classroom teaching plus clinical simulation vs clinical simulation alone",
+  "treatment_is_a": true
+ },
+ "active-learning\tculinary medicine and teaching-kitchen training\tpre-intervention baseline or control": {
+  "label": "Culinary medicine or teaching-kitchen training vs baseline or control",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive culinary medicine or teaching-kitchen training\tpre-intervention or control condition": {
+  "label": "Interactive culinary medicine or teaching-kitchen training vs baseline or control",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive, scenario-based formats with feedback\tmainly passive video-and-text formats": {
+  "label": "Interactive scenario-based learning with feedback vs passive video-and-text learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tmind mapping for neuroanatomy\tdidactic lecture": {
+  "label": "Mind mapping vs didactic lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem-based learning\ttraditional or alternative teaching methods, where reported": {
+  "label": "Problem-based learning vs traditional or alternative instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudent-centered active and innovative strategies\ttraditional teacher-centered models": {
+  "label": "Student-centered active learning vs teacher-centered instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tteam retake with discussion\tindividual readiness test": {
+  "label": "Team retake with discussion vs individual readiness test",
+  "treatment_is_a": true
+ },
+ "active-learning\tteam-based learning\tnot stated": {
+  "label": "Team-based learning vs comparator not stated",
+  "treatment_is_a": true
+ },
+ "active-learning\tteam-based learning\tother educational approaches": {
+  "label": "Team-based learning vs other educational approaches",
+  "treatment_is_a": true
+ },
+ "active-learning\tteam-based learning\ttraditional lecture": {
+  "label": "Team-based learning vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tteam-based learning (TBL)\tother educational approaches": {
+  "label": "Team-based learning vs other educational approaches",
+  "treatment_is_a": true
+ },
+ "debriefing\tFacilitator-led debriefing\tNo debriefing or unspecified debriefing": {
+  "label": "Debriefing vs no debriefing",
+  "treatment_is_a": true
+ },
+ "debriefing\tIVR simulation with debriefing\tconventional education": {
+  "label": "IVR simulation with debriefing vs conventional education",
+  "treatment_is_a": true
+ },
+ "debriefing\tIVR simulation without debriefing\tconventional education": {
+  "label": "IVR simulation without debriefing vs conventional education",
+  "treatment_is_a": true
+ },
+ "debriefing\toral feedback, with or without video assistance\tno debriefing": {
+  "label": "Debriefing vs no debriefing",
+  "treatment_is_a": true
+ },
+ "debriefing\tvideo-assisted plus verbal debriefing\tverbal-only debriefing": {
+  "label": "Video-assisted plus verbal debriefing vs verbal-only debriefing",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcontinuing-education interventions\tno or less continuing education": {
+  "label": "explicit instruction vs no or less instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\teducational program\tbefore the program": {
+  "label": "explicit instruction vs no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\teducational programs\tless or no training": {
+  "label": "explicit instruction vs no or less instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tpsychoeducational training program\tpre-training": {
+  "label": "explicit instruction vs no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tstress management program\tcontrol group": {
+  "label": "explicit instruction vs no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tvirtual reality training combined with theoretical training\tvirtual reality training alone": {
+  "label": "explicit instruction vs no explicit instruction",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tAI simulation plus AI feedback\tAI simulation only": {
+  "label": "AI feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tAI virtual patient with explicit empathy feedback\tnarrative backstory without feedback": {
+  "label": "Explicit empathy feedback vs narrative backstory without feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tAI virtual-patient interview with immediate feedback\tAI virtual-patient interview without feedback": {
+  "label": "Immediate feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tGTA teaching with immediate embodied feedback\tmanikin-based or clinical-patient teaching": {
+  "label": "GTA embodied-feedback teaching vs manikin/clinical-patient teaching",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tGTA teaching with real-time embodied feedback\tmanikin-based, faculty, standardised-patient or other teaching": {
+  "label": "GTA embodied-feedback teaching vs manikin/faculty/standardised-patient or other teaching",
+  "treatment_is_a": true
+ },
+ "feedback-presence\teducator feedback\tautomated feedback": {
+  "label": "Educator feedback vs automated feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tfeedback during distance simulation\tno feedback": {
+  "label": "Feedback during distance simulation vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tfeedback from quality ratings provided during supervision\tnot reported": {
+  "label": "Quality-rating feedback vs no or unspecified feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tfeedback or social interaction\tno feedback or social interaction": {
+  "label": "Feedback or social interaction vs neither",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tfeedback tools\tconditions without the feedback tool": {
+  "label": "Feedback tools vs no feedback tool",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tformative feedback for self-evaluation\tnot stated": {
+  "label": "Formative feedback vs no or unspecified feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tlater simulation after feedback and reflection\tinitial simulation before feedback": {
+  "label": "Post-feedback simulation vs pre-feedback simulation",
+  "treatment_is_a": true
+ },
+ "feedback-presence\treal-time feedback systems\tno or standard feedback": {
+  "label": "Real-time feedback vs no or standard feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\treal-time feedback systems\tno real-time feedback or standard training": {
+  "label": "Real-time feedback vs no real-time or standard training",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tsecond simulation after performance feedback and suggestions for improvement\tfirst simulation": {
+  "label": "Post-feedback simulation vs pre-feedback simulation",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tup to three standardized instructor feedback sessions during virtual laparoscopy training\tindependent practice without instructor feedback until proficiency": {
+  "label": "Instructor feedback vs independent practice without feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tvirtual patient interaction with immediate feedback\tvirtual patient interaction without feedback": {
+  "label": "Immediate feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tvirtual patient with explicit immediate empathy feedback\tvirtual patient with narrative backstory without feedback": {
+  "label": "Explicit empathy feedback vs narrative backstory without feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tvirtual-patient interaction with immediate feedback\tvirtual-patient interaction without feedback": {
+  "label": "Immediate feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-timing\timmediate facilitator-led clarification after t-RAT\twritten or delayed faculty feedback": {
+  "label": "immediate vs delayed feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tCESIR multimodal feedback\tconventional feedback": {
+  "label": "multimodal feedback vs conventional feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tGTA-based teaching with structured immediate feedback\tnon-GTA teaching or alternative teaching methods": {
+  "label": "structured immediate feedback vs alternative teaching methods",
+  "treatment_is_a": true
+ },
+ "feedback-type\tautomated feedback\tnonautomated feedback": {
+  "label": "automated feedback vs nonautomated feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\teducator feedback\tautomated feedback": {
+  "label": "educator feedback vs automated feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\teducator-provided performance feedback\tautomated performance feedback": {
+  "label": "educator-provided performance feedback vs automated performance feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tmultimodal performance feedback\tconventional feedback": {
+  "label": "multimodal feedback vs conventional feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tpeer feedback with TBL\tnot stated": {
+  "label": "peer feedback vs no stated peer feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tintegrated examination-based and non-examination-based assessment\tsingle assessment method": {
+  "label": "multiple assessment methods vs single assessment method",
+  "treatment_is_a": true
+ },
+ "formative-assessment\trubric-based student self-assessment\tfaculty assessment": {
+  "label": "student self-assessment vs faculty assessment",
+  "treatment_is_a": true
+ },
+ "gamification\tgamification\tVFC and TC methods": {
+  "label": "gamification vs non-gamified/alternative instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tgamification\tnot stated in the review": {
+  "label": "gamification vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "gamification\tgamification group\tcomparison group": {
+  "label": "gamification vs non-gamified comparison",
+  "treatment_is_a": true
+ },
+ "gamification\tgamification in higher-education learning\tnot stated": {
+  "label": "gamification vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "gamification\tgamification in higher-education learning processes\tnot stated": {
+  "label": "gamification vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "gamification\tgamification in learning environments\tnot stated": {
+  "label": "gamification vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "gamification\tgamification in learning processes\tnot stated": {
+  "label": "gamification vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified mobile microlearning\ttraditional training or control": {
+  "label": "gamified instruction vs traditional/non-gamified training",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified mobile microlearning app\tcontrol condition": {
+  "label": "gamified instruction vs control",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified mobile microlearning application\tcontrol condition": {
+  "label": "gamified instruction vs control",
+  "treatment_is_a": true
+ },
+ "gamification\ttransferring game mechanics to the educational environment\tnot stated": {
+  "label": "gamification vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tcompetency-based simulation\tnoncompetency-based simulation": {
+  "label": "competency-based simulation vs noncompetency-based simulation",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tcompetency-based simulation training\tnoncompetency-based simulation training": {
+  "label": "competency-based simulation vs noncompetency-based simulation",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tcompetency-based simulation with equal training time\tnoncompetency-based simulation with equal training time": {
+  "label": "competency-based simulation vs noncompetency-based simulation (equal training time)",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tcompetency-based simulation with longer training time\tnoncompetency-based simulation with shorter training time": {
+  "label": "competency-based simulation with longer training time vs noncompetency-based simulation with shorter training time",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tcompetency-based simulation with shorter training time\tnoncompetency-based simulation with longer training time": {
+  "label": "competency-based simulation with longer training time vs noncompetency-based simulation with shorter training time",
+  "treatment_is_a": false
+ },
+ "media-design\tbackground music with lyrics\tbackground music without lyrics": {
+  "label": "background music with lyrics vs background music without lyrics",
+  "treatment_is_a": true
+ },
+ "media-design\tbackground music without lyrics\tbackground music with lyrics": {
+  "label": "background music with lyrics vs background music without lyrics",
+  "treatment_is_a": false
+ },
+ "media-design\te-modules with more sophisticated visual and interactive features\te-modules with less sophisticated visual and interactive features": {
+  "label": "more sophisticated visual and interactive features vs less sophisticated visual and interactive features",
+  "treatment_is_a": true
+ },
+ "media-design\tmore sophisticated visual and interactive e-modules\tless sophisticated e-modules": {
+  "label": "more sophisticated visual and interactive features vs less sophisticated visual and interactive features",
+  "treatment_is_a": true
+ },
+ "media-design\tmore sophisticated visual and interactive features\tless sophisticated features": {
+  "label": "more sophisticated visual and interactive features vs less sophisticated visual and interactive features",
+  "treatment_is_a": true
+ },
+ "media-design\ttext and image questions\ttext-only questions": {
+  "label": "text-and-image questions vs text-only questions",
+  "treatment_is_a": true
+ },
+ "media-design\ttext-and-image questions\ttext-only questions": {
+  "label": "text-and-image questions vs text-only questions",
+  "treatment_is_a": true
+ },
+ "media-design\ttext-only questions\timage involvement or not reported": {
+  "label": "text-and-image questions vs text-only questions",
+  "treatment_is_a": false
+ },
+ "practice-amount\tat-home practice\tno practice": {
+  "label": "practice vs no practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\thome practice for 15 minutes daily\tno home practice": {
+  "label": "practice vs no practice",
+  "treatment_is_a": true
+ },
+ "problem-first\tblended PBL learning\tprior failure-rate baseline": {
+  "label": "problem-first vs non-problem-first",
+  "treatment_is_a": true
+ },
+ "problem-first\tproblem-based learning\tprior or comparison teaching condition not specified": {
+  "label": "problem-first vs non-problem-first",
+  "treatment_is_a": true
+ },
+ "problem-first\tproblem-based learning prompts group\tcontrol group": {
+  "label": "problem-first vs non-problem-first",
+  "treatment_is_a": true
+ },
+ "prompts\tPBL cognitive-support prompts\tcontrol group": {
+  "label": "cognitive-support prompts vs no prompts",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tPractice with very short answer questions\tPractice with multiple choice questions": {
+  "label": "short-answer vs multiple-choice practice",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tVSAQ practice\tMCQ practice": {
+  "label": "short-answer vs multiple-choice practice",
+  "treatment_is_a": true
+ },
+ "simulation\tAI-driven simulation\ttraditional methods": {
+  "label": "AI-driven simulation vs traditional or non-AI teaching",
+  "treatment_is_a": true
+ },
+ "simulation\tAI-driven simulation\ttraditional or conventional training": {
+  "label": "AI-driven simulation vs traditional or non-AI teaching",
+  "treatment_is_a": true
+ },
+ "simulation\tAI-driven simulation\ttraditional or non-AI teaching": {
+  "label": "AI-driven simulation vs traditional or non-AI teaching",
+  "treatment_is_a": true
+ },
+ "simulation\tAI-driven simulation (ADS)\ttraditional methods": {
+  "label": "AI-driven simulation vs traditional or non-AI teaching",
+  "treatment_is_a": true
+ },
+ "simulation\tAI-driven simulation modalities\ttraditional or non-AI teaching": {
+  "label": "AI-driven simulation vs traditional or non-AI teaching",
+  "treatment_is_a": true
+ },
+ "simulation\tAccuTouch simulator training\tpre-training performance": {
+  "label": "Simulator training vs pre-training baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tEndoVR virtual-reality warm-up\tcontrol condition": {
+  "label": "VR simulation warm-up vs control condition",
+  "treatment_is_a": true
+ },
+ "simulation\tGenAI-supported virtual patient\tcontrol condition": {
+  "label": "GenAI/LLM-based virtual patient vs control condition",
+  "treatment_is_a": true
+ },
+ "simulation\tGenelyn-embalmed donor model\tacross dissection sessions over three weeks": {
+  "label": "Genelyn-embalmed donor model vs conventional dissection sessions",
+  "treatment_is_a": true
+ },
+ "simulation\tLLM-based digital patient\tcontrol": {
+  "label": "GenAI/LLM-based virtual patient vs control condition",
+  "treatment_is_a": true
+ },
+ "simulation\tOSS educational activities\tbaseline or usual educational conditions": {
+  "label": "Obesity simulation suit-based education vs usual or baseline education",
+  "treatment_is_a": true
+ },
+ "simulation\tOSS with mindfulness-based empathy training\tcontrol group": {
+  "label": "Obesity simulation suit-based education plus mindfulness empathy training vs control condition",
+  "treatment_is_a": true
+ },
+ "simulation\tSBAR-based fall simulation program\tcontrol condition": {
+  "label": "SBAR-based simulation training vs control condition",
+  "treatment_is_a": true
+ },
+ "simulation\tSIM-ECT high-fidelity simulation training\ttraditional didactic training": {
+  "label": "High-fidelity simulation vs traditional or didactic training",
+  "treatment_is_a": true
+ },
+ "simulation\tSPOC plus simulation and other instructional techniques\tsimulation alone": {
+  "label": "SPOC plus simulation vs simulation alone",
+  "treatment_is_a": true
+ },
+ "simulation\tThiel-embalmed body donors for bariatric surgery training\tnone stated": {
+  "label": "Thiel-embalmed body donor training vs no stated comparator",
+  "treatment_is_a": true
+ },
+ "simulation\tThiel-embalmed body donors for colorectal surgery training\tnone stated": {
+  "label": "Thiel-embalmed body donor training vs no stated comparator",
+  "treatment_is_a": true
+ },
+ "simulation\tThiel-embalmed body donors for hernia surgery training\tnone stated": {
+  "label": "Thiel-embalmed body donor training vs no stated comparator",
+  "treatment_is_a": true
+ },
+ "simulation\tThiel-embalmed body donors for vascular surgery training\tnone stated": {
+  "label": "Thiel-embalmed body donor training vs no stated comparator",
+  "treatment_is_a": true
+ },
+ "simulation\tVR-haptic simulators and intelligent tutoring systems\ttraditional or non-AI teaching methods": {
+  "label": "AI-enhanced simulation vs traditional or non-AI teaching",
+  "treatment_is_a": true
+ },
+ "simulation\tWearing an obesity simulation suit and reflecting on the experience\tNot stated": {
+  "label": "Obesity simulation suit experience vs no stated comparator",
+  "treatment_is_a": true
+ },
+ "simulation\tWearing an obesity simulation suit during experiential tasks\tNot stated": {
+  "label": "Obesity simulation suit experience vs no stated comparator",
+  "treatment_is_a": true
+ },
+ "simulation\tbody donor model curriculum\tconventional residency pathway": {
+  "label": "Body donor model curriculum vs conventional residency pathway",
+  "treatment_is_a": true
+ },
+ "simulation\tchoose-the-hole bench model\tdidactic teaching alone": {
+  "label": "Choose-the-hole bench model vs didactic teaching alone",
+  "treatment_is_a": true
+ },
+ "simulation\tchoose-the-hole fibreoptic training model\tdidactic teaching alone": {
+  "label": "Choose-the-hole bench model vs didactic teaching alone",
+  "treatment_is_a": true
+ },
+ "simulation\tcompetency-based progression simulation plus e-learning\te-learning alone": {
+  "label": "Competency-based simulation plus e-learning vs e-learning alone",
+  "treatment_is_a": true
+ },
+ "simulation\tcompetency-based progression simulation plus e-learning\te-learning or standard simulation plus e-learning": {
+  "label": "Competency-based simulation plus e-learning vs e-learning or standard simulation plus e-learning",
+  "treatment_is_a": true
+ },
+ "simulation\tcompetency-based progression simulation plus e-learning\tstandard simulation plus e-learning": {
+  "label": "Competency-based simulation plus e-learning vs standard simulation plus e-learning",
+  "treatment_is_a": true
+ },
+ "simulation\tdistance simulation training\tpre-training baseline": {
+  "label": "Distance simulation training vs pre-training baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tfresh-frozen body donor model\tlive anaesthetised porcine model": {
+  "label": "Fresh-frozen body donor model vs live anaesthetised porcine model",
+  "treatment_is_a": true
+ },
+ "simulation\thigh-fidelity simulation\ttraditional or didactic training": {
+  "label": "High-fidelity simulation vs traditional or didactic training",
+  "treatment_is_a": true
+ },
+ "simulation\thigh-fidelity simulation\ttraditional training": {
+  "label": "High-fidelity simulation vs traditional training",
+  "treatment_is_a": true
+ },
+ "simulation\thigh-fidelity simulation ECT training\ttraditional training": {
+  "label": "High-fidelity simulation vs traditional training",
+  "treatment_is_a": true
+ },
+ "simulation\thigh-fidelity simulation for ECT\ttraditional training": {
+  "label": "High-fidelity simulation vs traditional training",
+  "treatment_is_a": true
+ },
+ "simulation\timmersive virtual reality simulation\tconventional education": {
+  "label": "Virtual or VR simulation vs conventional education",
+  "treatment_is_a": true
+ },
+ "simulation\tinteractive, simulation-based or VR-supported formats\tconventional training methods": {
+  "label": "Virtual or simulation-based formats vs conventional training",
+  "treatment_is_a": true
+ },
+ "simulation\tlow-fidelity choose-the-hole bench model\tdidactic teaching alone": {
+  "label": "Choose-the-hole bench model vs didactic teaching alone",
+  "treatment_is_a": true
+ },
+ "simulation\tmanikin-based high-fidelity simulation\ttraditional clinical practice": {
+  "label": "High-fidelity manikin simulation vs traditional clinical practice",
+  "treatment_is_a": true
+ },
+ "simulation\tmultimedia virtual patient module\tpre-module assessment": {
+  "label": "Virtual patient module vs pre-module baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tobesity simulation suit experience\tlived experience of obesity": {
+  "label": "Obesity simulation suit experience vs lived experience of obesity",
+  "treatment_is_a": true
+ },
+ "simulation\tobesity simulation suit in healthcare education\tbaseline, control, or alternative educational conditions": {
+  "label": "Obesity simulation suit-based education vs baseline, control, or alternative education",
+  "treatment_is_a": true
+ },
+ "simulation\tobesity simulation suit-based education\tbaseline or control conditions": {
+  "label": "Obesity simulation suit-based education vs baseline or control condition",
+  "treatment_is_a": true
+ },
+ "simulation\tobesity simulation suit-based educational interventions\tpre-intervention scores or control group": {
+  "label": "Obesity simulation suit-based education vs pre-intervention or control condition",
+  "treatment_is_a": true
+ },
+ "simulation\treal simulated pharmaceutical-care activities\taverage performance benchmark": {
+  "label": "Simulated pharmaceutical-care activity vs performance benchmark",
+  "treatment_is_a": true
+ },
+ "simulation\trepeated recorded standardised-patient simulations with reflection\tearlier simulation iteration": {
+  "label": "Repeated simulated interactions with reflection vs earlier simulation iteration",
+  "treatment_is_a": true
+ },
+ "simulation\trepeated simulated nurse–Deaf patient interactions with reflection\tearlier simulation iteration": {
+  "label": "Repeated simulated interactions with reflection vs earlier simulation iteration",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulated clinical interactions\ttraditional teaching": {
+  "label": "Simulation-based clinical interactions vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulated learning modalities for Deaf patient experiences\tnot stated": {
+  "label": "Simulated learning for Deaf patient experiences vs no stated comparator",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation scenarios for systematic thinking\tpatient-safety course cohort without the intervention": {
+  "label": "Simulation for systematic thinking vs patient-safety course without the intervention",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based digital teaching\tconventional teaching": {
+  "label": "Simulation-based digital teaching vs conventional teaching",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based education\tnon-simulation or alternative training": {
+  "label": "Simulation-based education vs non-simulation or alternative training",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based informed-consent practice\tpre-intervention self-assessment": {
+  "label": "Simulation-based informed-consent training vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based informed-consent training\tpre-intervention confidence": {
+  "label": "Simulation-based informed-consent training vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based leadership and NTS training\tnon-simulation training, no intervention, or pre-training": {
+  "label": "Simulation-based leadership or NTS training vs non-simulation training, no intervention, or baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based leadership or NTS training\tno structured intervention, traditional or other leadership education, or baseline performance": {
+  "label": "Simulation-based leadership or NTS training vs non-simulation, no intervention, or baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based leadership or NTS training\ttraditional, non-simulation, no intervention, or pre-training": {
+  "label": "Simulation-based leadership or NTS training vs traditional, non-simulation, no intervention, or baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based leadership training\tnot stated": {
+  "label": "Simulation-based leadership training vs no stated comparator",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based rehearsal with feedback and debriefing\tnot stated": {
+  "label": "Simulation-based rehearsal with feedback and debriefing vs no stated comparator",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based training with safety checklists or cognitive aids\tstandard practice or no checklist support": {
+  "label": "Simulation-based training with safety checklists or cognitive aids vs standard practice or no checklist support",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based training with safety checklists or cognitive aids\tstandard practice or unsupported team performance": {
+  "label": "Simulation-based training with safety checklists or cognitive aids vs standard practice or unsupported team performance",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulator training\tnot specified": {
+  "label": "Simulator training vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "simulation\ttask-interrupted ALS simulation\tstandard ALS simulation": {
+  "label": "Task-interrupted ALS simulation vs standard ALS simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tvirtual patient module\tpre-module assessment": {
+  "label": "Virtual patient module vs pre-module baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tvirtual reality team training\tconventional live simulation": {
+  "label": "Virtual or VR simulation vs conventional live simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tvirtual simulation teaching\tclinical practice training": {
+  "label": "Virtual simulation teaching vs clinical practice training",
+  "treatment_is_a": true
+ },
+ "simulation\tvirtual simulation teaching\ttraditional experimental teaching": {
+  "label": "Virtual simulation teaching vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "simulation\tvirtual simulation teaching\tunspecified traditional or clinical-practice baseline": {
+  "label": "Virtual simulation teaching vs traditional or clinical-practice baseline",
+  "treatment_is_a": true
+ },
+ "simulation\twearing an OSS or weighted vest during experiential tasks\tordinary activity without simulated additional body mass or anticipated experience": {
+  "label": "Obesity simulation suit or weighted-vest experience vs ordinary activity without simulated body mass",
+  "treatment_is_a": true
+ },
+ "spacing\tspaced simulation reinforcement\tnot stated": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3-hour robotic-surgery tips-and-tricks videos\tno video and no instruction": {
+  "label": "robotic-surgery educational videos vs no video/instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3-hour tips-and-tricks educational videos\tno video instruction": {
+  "label": "educational videos vs no video instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\t360-video education intervention with optional VR headset\tno comparison condition reported": {
+  "label": "360-video education with optional VR vs no comparison condition",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D clinical procedure videos via VR headsets\t2D clinical procedure videos on standard devices": {
+  "label": "3D VR video vs 2D standard-device video",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D stereoscopic lecture\t2D PowerPoint lecture": {
+  "label": "3D stereoscopic lecture vs 2D PowerPoint lecture",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D stereoscopic neuroanatomy video\t2D neuroanatomy video": {
+  "label": "3D stereoscopic video vs 2D video",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAED with audiovisual feedback\tcontrol condition without audiovisual feedback": {
+  "label": "audiovisual-feedback AED vs AED without audiovisual feedback",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI direct skill-classification models\tother AI-based assessment models": {
+  "label": "AI direct skill classification vs other AI assessment models",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI evaluation of therapeutic communication skills\tnot stated": {
+  "label": "AI evaluation vs not stated",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI plus faculty guidance\tAI-only": {
+  "label": "AI plus faculty guidance vs AI-only",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI plus faculty guidance\ttraditional teaching": {
+  "label": "AI plus faculty guidance vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI tutoring system\texpert instruction without AI": {
+  "label": "AI tutoring system vs expert instruction without AI",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI tutoring system\texpert-led instruction without AI": {
+  "label": "AI tutoring system vs expert-led instruction without AI",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI tutoring systems\texpert instruction": {
+  "label": "AI tutoring system vs expert instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-VP simulation training\thistorical cohort without simulation": {
+  "label": "AI virtual-patient simulation vs historical no-simulation cohort",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-assisted PBL and CBL\tnot stated": {
+  "label": "AI-assisted PBL/CBL vs not stated",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based assessment systems\tkinematic assessment systems": {
+  "label": "AI-based assessment vs kinematic assessment",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-based assessment systems\tmanual and kinematic assessment systems": {
+  "label": "AI-based assessment vs manual/kinematic assessment",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven simulation\ttraditional methods": {
+  "label": "AI-driven simulation vs traditional methods",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven simulation\ttraditional or non-AI teaching": {
+  "label": "AI-driven simulation vs traditional/non-AI teaching",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven simulation\ttraditional or non-AI teaching methods": {
+  "label": "AI-driven simulation vs traditional/non-AI teaching",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven simulation\ttraditional teaching methods": {
+  "label": "AI-driven simulation vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven simulation assessed with self-reported instruments\ttraditional or other teaching methods": {
+  "label": "AI-driven simulation vs traditional/other teaching methods",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-driven simulation modalities, including generative AI and chatbot-based systems\tvaried comparators or no comparator": {
+  "label": "AI-driven simulation modalities vs varied/no comparators",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-enhanced virtual-patient training\tvaried comparison conditions or no comparator": {
+  "label": "AI-enhanced virtual-patient training vs varied/no comparators",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated competency scores\thuman ratings": {
+  "label": "AI-generated competency scores vs human ratings",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated virtual patients\texisting teaching methods using faculty or human standardized patients": {
+  "label": "AI-generated virtual patients vs faculty/human standardized-patient teaching",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated virtual patients\tnone stated": {
+  "label": "AI-generated virtual patients vs not stated",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-generated virtual patients for teaching and learning\tAI-generated virtual patients primarily used for assessment": {
+  "label": "AI-generated virtual patients for teaching/learning vs AI-generated virtual patients for assessment",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported experimental-design project\tpre-project baseline in traditional laboratory learning": {
+  "label": "AI-supported experimental-design project vs pre-project traditional laboratory learning",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported experimental-design project\tstandard cookbook laboratory courses": {
+  "label": "AI-supported experimental-design project vs standard cookbook laboratory course",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported experimental-design project\tstandard laboratory courses": {
+  "label": "AI-supported experimental-design project vs standard laboratory course",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported exploration assignment using a context prompt\tconventional course engagement without the AI exploration assignment": {
+  "label": "AI-supported exploration assignment vs conventional course engagement",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported feedback\tpretest before the intervention": {
+  "label": "AI-supported feedback vs pretest",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported feedback and comparative evaluation\tevaluation without AI support": {
+  "label": "AI-supported feedback/evaluation vs evaluation without AI support",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported flipped classroom\ttraditional methods": {
+  "label": "AI-supported flipped classroom vs traditional methods",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported fluent responses\tspontaneous unaided communication": {
+  "label": "AI-supported fluent responses vs spontaneous unaided communication",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported formative assessment\tformative assessment without digital support": {
+  "label": "AI-supported formative assessment vs formative assessment without digital support",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported game-based learning\tvaried comparison conditions": {
+  "label": "AI-supported game-based learning vs varied comparators",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported game-based learning\tvaried non-AI, conventional, or control conditions": {
+  "label": "AI-supported game-based learning vs conventional/non-AI/control conditions",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported generation followed by learner selection, adjustment, and development\tgenerated AI outcomes used without further development": {
+  "label": "AI generation plus learner development vs AI outcomes without further development",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported goal orientation with real-time monitoring and goal breakdown\tno AI support": {
+  "label": "AI-supported goal orientation/monitoring vs no AI support",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported group formation\tself-selected group formation": {
+  "label": "AI-supported group formation vs self-selected group formation",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported group work\tmore evenly distributed peer collaboration": {
+  "label": "AI-supported group work vs evenly distributed peer collaboration",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported groups\thuman-only groups": {
+  "label": "AI-supported groups vs human-only groups",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported groups\thuman-only teams": {
+  "label": "AI-supported groups vs human-only teams",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported homework aligned with exam content\tother examination items": {
+  "label": "AI-supported homework aligned with exam content vs other examination items",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported initiatives evaluated by relational densiﬁcation\tinitiatives evaluated only by efficiency, personalisation, or scale": {
+  "label": "AI-supported initiatives evaluated by relational densification vs initiatives evaluated by other criteria",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported inquiry-based learning\tconventional instruction": {
+  "label": "AI-supported inquiry-based learning vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported inquiry-based learning and computational-thinking cultivation\tearlier AI applications centered on intelligent tutoring and knowledge transmission": {
+  "label": "AI-supported inquiry/CT cultivation vs earlier AI knowledge-transmission applications",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported instruction\ttraditional teaching": {
+  "label": "AI-supported instruction vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported instruction\ttraditional teaching methods": {
+  "label": "AI-supported instruction vs traditional teaching methods",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported instruction lasting 5 hours or less\ttraditional teaching methods": {
+  "label": "AI-supported instruction of 5 hours or less vs traditional teaching methods",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported instruction lasting more than 1 and up to 7 days\ttraditional teaching methods": {
+  "label": "AI-supported instruction of more than 1 and up to 7 days vs traditional teaching methods",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported instructional design\thuman professional judgment and verification": {
+  "label": "AI-supported instructional design vs human professional judgment/verification",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported instructional design using LLMs\tother content areas or more consistent performance": {
+  "label": "LLM-supported instructional design vs other content areas/consistent performance",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported instructional interventions\ttraditional teaching methods": {
+  "label": "AI-supported instructional interventions vs traditional teaching methods",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported instructional interventions across educational levels\ttraditional teaching methods": {
+  "label": "AI-supported instructional interventions vs traditional teaching methods",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported instructional interventions at high school level\ttraditional teaching methods": {
+  "label": "AI-supported high-school interventions vs traditional teaching methods",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported intellectual work\teffortful work without AI support": {
+  "label": "AI-supported intellectual work vs effortful work without AI",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported intellectual work\twork without AI support": {
+  "label": "AI-supported intellectual work vs work without AI",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported interactive and adaptive mathematics environments\tconventional or less interactive learning environments": {
+  "label": "AI-supported interactive/adaptive mathematics environment vs conventional/less interactive environment",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported interactive homework with assessment, task selection, feedback and instruction\thomework without available support": {
+  "label": "AI-supported interactive homework vs unsupported homework",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported iterative project work\tnot stated": {
+  "label": "AI-supported iterative project work vs not stated",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported lab-manual design project with professional validation\tpre-project confidence after conventional cookbook laboratory experience": {
+  "label": "AI-supported lab-manual design vs pre-project conventional laboratory confidence",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported language learning\tconventional or non-AI learning": {
+  "label": "AI-supported language learning vs conventional/non-AI learning",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported learning\tcomparison conditions in the included experiments": {
+  "label": "AI-supported learning vs included-experiment comparison conditions",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported learning\tnon-AI learning conditions": {
+  "label": "AI-supported learning vs non-AI learning",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported learning\tnot stated": {
+  "label": "AI-supported learning vs not stated",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported learning activities\tindependent performance without AI support": {
+  "label": "AI-supported learning activities vs independent performance without AI",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported learning design\tnon-AI learning design": {
+  "label": "AI-supported learning design vs non-AI learning design",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported learning environment\tcounterpart not using the AI-supported environment": {
+  "label": "AI-supported learning environment vs counterpart without AI environment",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported learning tools\tconventional or non-AI learning": {
+  "label": "AI-supported learning tools vs conventional/non-AI learning",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported online learning with adaptive personalization\tnot stated": {
+  "label": "AI-supported adaptive online learning vs not stated",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported personalized and adaptive instruction\tnon-adaptive instruction": {
+  "label": "AI-supported personalized/adaptive instruction vs non-adaptive instruction",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported personalized feedback and learning\tnot stated in text": {
+  "label": "AI-supported personalized feedback/learning vs not stated",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported personalized learning with teacher partnership\tAI-only or teacher-only personalization": {
+  "label": "AI-supported personalized learning with teacher partnership vs AI-only/teacher-only personalization",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported physics education\tvaried comparison or baseline conditions": {
+  "label": "AI-supported physics education vs varied/baseline comparators",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported physics learning\tnon-AI or alternative conditions": {
+  "label": "AI-supported physics learning vs non-AI/alternative conditions",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported platform interaction, time on task, or task completion\tevidence of cognitive engagement with mathematical ideas": {
+  "label": "AI-supported platform interaction/time-on-task vs cognitive engagement with mathematical ideas",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported prediction and scenario tools\thuman-only or traditional decision making": {
+  "label": "AI-supported prediction/scenario tools vs human/traditional decision making",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported problem-based learning\tconventional PBL/control": {
+  "label": "AI-supported PBL vs conventional PBL/control",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported problem-based learning\ttraditional lecture": {
+  "label": "AI-supported PBL vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported prompt engineering with ChatGPT\tnot stated": {
+  "label": "AI-supported prompt engineering with ChatGPT vs not stated",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported prototyping\tdeveloping prototypes without AI support": {
+  "label": "AI-supported prototyping vs prototyping without AI",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported reading workflow\tno AI-supported reading workflow": {
+  "label": "AI-supported reading workflow vs no AI-supported workflow",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported science learning\tconventional knowledge-learning role": {
+  "label": "AI-supported science learning vs conventional knowledge-learning role",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported science learning\tlearning with less or no reliance on AI": {
+  "label": "AI-supported science learning vs less/no AI reliance",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported science learning\tnot stated": {
+  "label": "AI-supported science learning vs not stated",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported speaking practice\tunspecified comparison": {
+  "label": "AI-supported speaking practice vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported student-designed experiments\tstandard experiments": {
+  "label": "AI-supported student-designed experiments vs standard experiments",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported sustainability initiatives\tfull institutional integration and adoption": {
+  "label": "AI-supported sustainability initiatives vs full institutional integration/adoption",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported teaching and assessment tasks\tteaching and assessment without AI support": {
+  "label": "AI-supported teaching/assessment tasks vs teaching/assessment without AI",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported teaching, learning, and administration\tconventional teaching, learning, and administration": {
+  "label": "AI-supported teaching/learning/administration vs conventional practice",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported translation services\tnot using AI translation": {
+  "label": "AI-supported translation vs no AI translation",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported virtual environments and simulations\ttraditional classroom learning without equivalent AI-mediated contexts": {
+  "label": "AI-supported virtual environments/simulations vs traditional classroom learning",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported virtual practice before real laboratory work\treal laboratory work without prior virtual practice": {
+  "label": "AI-supported virtual practice before real laboratory work vs real laboratory work without virtual practice",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported virtual practice before real-material experimentation\tno reported virtual practice": {
+  "label": "AI-supported virtual practice before real-material experimentation vs no virtual practice",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported virtual practice followed by use of real materials\tuse of real materials without prior virtual practice": {
+  "label": "AI-supported virtual practice before real materials vs real materials without prior virtual practice",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI-supported weekly readings\tcomparable course without AI assistance": {
+  "label": "AI-supported weekly readings vs comparable course without AI assistance",
+  "treatment_is_a": true
+ },
+ "test-format\tMCQ quizzes\twritten examinations": {
+  "label": "MCQ quizzes vs written examinations",
+  "treatment_is_a": true
+ },
+ "test-format\tVSAQ practice\tMCQ practice": {
+  "label": "VSAQ practice vs MCQ practice",
+  "treatment_is_a": true
+ },
+ "test-format\tVSAQs\tMCQs": {
+  "label": "VSAQs vs MCQs",
+  "treatment_is_a": true
+ },
+ "test-format\tVery short answer questions\tMultiple choice questions": {
+  "label": "VSAQs vs MCQs",
+  "treatment_is_a": true
+ },
+ "test-format\tVery short answer questions (VSAQs)\tMultiple choice questions (MCQs)": {
+  "label": "VSAQs vs MCQs",
+  "treatment_is_a": true
+ },
+ "test-format\tclosed-book i-RATs\tnot stated": {
+  "label": "closed-book i-RATs vs other or unreported i-RAT formats",
+  "treatment_is_a": true
+ },
+ "test-format\texclusive systematic multiple-choice questions\tother or mixed assessment methods": {
+  "label": "exclusive systematic MCQs vs other or mixed assessment methods",
+  "treatment_is_a": true
+ },
+ "test-format\tidentification of anatomical structures using imagery\tother assessment methods (not specified)": {
+  "label": "identification of anatomical structures using imagery vs other assessment methods",
+  "treatment_is_a": true
+ },
+ "test-format\timage-based quizzes\tnot stated": {
+  "label": "image-based quizzes vs other or unreported assessment formats",
+  "treatment_is_a": true
+ },
+ "test-format\tmultiple-choice and open-ended questions\tother assessment methods (not specified)": {
+  "label": "multiple-choice and open-ended questions vs other assessment methods",
+  "treatment_is_a": true
+ },
+ "test-format\tmultiple-choice questions\topen-ended questions": {
+  "label": "multiple-choice questions vs open-ended questions",
+  "treatment_is_a": true
+ },
+ "test-format\toral examinations\tother assessment methods (not specified)": {
+  "label": "oral examinations vs other assessment methods",
+  "treatment_is_a": true
+ },
+ "test-format\tsingle-best-answer MCQs for i-RATs\tother or unreported i-RAT formats": {
+  "label": "single-best-answer MCQs for i-RATs vs other or unreported i-RAT formats",
+  "treatment_is_a": true
+ },
+ "test-format\tstructured oral examination\ttraditional oral examination": {
+  "label": "structured oral examinations vs traditional oral examinations",
+  "treatment_is_a": true
+ },
+ "test-format\tstructured oral examinations (SOEs)\ttraditional oral examinations": {
+  "label": "structured oral examinations vs traditional oral examinations",
+  "treatment_is_a": true
+ },
+ "test-format\ttimed spot tests\tuntimed spot tests": {
+  "label": "timed spot tests vs untimed spot tests",
+  "treatment_is_a": true
+ },
+ "test-format\ttimed tests\tuntimed tests": {
+  "label": "timed tests vs untimed tests",
+  "treatment_is_a": true
  }
 }

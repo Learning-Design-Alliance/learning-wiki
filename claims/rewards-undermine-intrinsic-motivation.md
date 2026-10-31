@@ -232,3 +232,4 @@ Responding directly to Cameron and Pierce's (1994) conclusion that the undermini
 - Gamification studies measure intrinsic motivation almost exclusively through self-report instruments, with no study using free-choice behavioral measures — related
 - [Reward contingency significantly moderates gamification's effect on intrinsic motivation, with 'each unit solved' contingencies showing larger effects](reward-contingency-moderates-gamification-effect.md) — related
 - [Behavior and contribution quality are shaped by platform incentives and features rather than self-reported motivations](platform-features-shape-behavior-and-quality.md) — related
+- [Autonomous or intrinsic motivation is positively associated with academic performance, while controlled or extrinsic motivation shows minimal or negative associations](autonomous-motivation-positive-controlled-motivation-not.md) — related

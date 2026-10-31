@@ -40,7 +40,8 @@ In the Talent Development domain, the guide's practice description directs distr
 - [Four Domains Rapid Improvement Framework Lea Guide](../products/four-domains-for-rapid-school-improvement.md)
 
 ## Related Strategies
-- 
+
+- [Use the indicator system for competency assessment, training needs diagnosis, pre-post training evaluation, and talent development pathways](applications-tb-educator-competency-indicator-system.md)
 
 ## Examples
 -

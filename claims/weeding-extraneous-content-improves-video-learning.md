@@ -53,3 +53,4 @@ The essay reports, citing Ibrahim et al. (2012), that weeding "can improve reten
 - [Signaling with on-screen text, color, contrast, or symbols improves retention and transfer from animations and video](signaling-improves-retention-transfer-video.md) — related
 - [On-screen text that duplicates the narration of a diagram can hurt learning, but spoken–written redundancy is not harmful on average and helps over spoken-only presentation in some conditions](redundancy-hurts-learning.md) — related
 - [Weeding seductive details fostered learning only in a mandatory (high-reward) learning situation, not a voluntary one](weeding-effective-only-mandatory-learning.md) — related
+- [Background music with lyrics impaired reading comprehension and listening performance, especially under high linguistic load](lyrical-bgm-interference.md) — a narrower finding that bears on this claim

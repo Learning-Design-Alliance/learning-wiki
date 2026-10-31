@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 65 claims (30 for, 34 mixed, 1 against) · 50 studies (16 causal, 15 quant-synthesis, 10 review, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 18 of 50 report an effect size · 57 claims rest on one study
+> **Evidence** · 66 claims (31 for, 34 mixed, 1 against) · 51 studies (16 causal, 15 quant-synthesis, 11 review, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 18 of 51 report an effect size · 58 claims rest on one study
 
 ## Conditional relationship
 
@@ -199,6 +199,7 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - [Flipped classrooms are associated with improved self-directed learning ability in medical education (pooled SMD = 2.54), but extreme heterogeneity precludes interpreting this as a uniform effect](../claims/flipped-classroom-self-directed-learning-ability.md) [~W]
 - [Effect sizes do not differ significantly between selected-student and whole-class applications, with class-based applications slightly higher (g = 1.253 vs 1.245)](../claims/no-significant-difference-by-application-type.md) [~W]
 - [Within the cognitive domain, flipped classrooms show the largest effects on understanding and achievement and a negative effect on evaluation](../claims/flipped-classroom-cognitive-suboutcome-effect-sizes.md) [~W]
+- [A blended flipped classroom produced statistically significantly higher post-test scores than traditional teaching in one included histology study (p < 0.0001)](../claims/blended-flipped-classroom-higher-posttest-scores.md) [+W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — how support in the pre-class work and the live session is withdrawn across a term

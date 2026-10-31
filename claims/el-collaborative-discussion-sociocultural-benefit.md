@@ -58,3 +58,4 @@ Theoretical argument in the brief's introduction, citing Vygotsky. The brief ass
 - [Learner-centeredness is a universal theme across SLA theories and language teaching methods](learner-centeredness-universal-theme-sla.md) — related
 - [American Indian and Alaska Native students often do not willingly participate in the question-answer activity that constitutes most classroom discussions, because direct questioning in front of peers contradicts community norms](ai-an-students-question-answer-participation.md) — related
 - [The Good Language Learner metanarrative persists in sociocultural accounts by equating success with access to community conversations](gll-metanarrative-persists-sociocultural-theory.md) — related
+- [Included studies grounded their learning environments in diverse learning theories, and the review argues no single theory suffices](diverse-learning-theories-complementary-use.md) — a broader claim this one bears on

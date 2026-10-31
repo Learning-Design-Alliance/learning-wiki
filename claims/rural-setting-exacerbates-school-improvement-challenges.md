@@ -59,3 +59,4 @@ The article's framing of a purposive-sample study of rural SIG schools states th
 - [The study's generalizability is limited by its rural, small, relatively homogeneous context](ai-helper-case-study-generalizability-limits.md) — related
 - [School administrators underestimate parental demand for computer science education and face resource and prioritization barriers](administrators-underestimate-cs-demand-barriers.md) — related
 - [Youth and parents reimagined schools with more resources and supportive infrastructure, including transportation, everyday-life programs, and activities for economically constrained families](school-resources-supportive-infrastructure.md) — related
+- [Only one included study described technology-based teaching in a rural or remote clinical education setting, leaving rural implications unclear](rural-gap-one-study-tech-stroke-teaching.md) — related

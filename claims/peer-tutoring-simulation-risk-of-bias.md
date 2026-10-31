@@ -52,3 +52,4 @@ Review's ROBINS-E and RoB-2 assessments across the 11 included studies, reported
 - [The overall certainty of evidence for educational programme effects on nurses' knowledge and practice is very low (GRADE), driven by bias, inconsistency and imprecision](grade-very-low-certainty-nurse-foot-education.md) — related
 - [Peer tutoring in clinical simulation is associated with gains in non-technical skills including self-efficacy, self-confidence, self-perception of learning, and reflective abilities](peer-tutoring-simulation-non-technical-gains.md) — related
 - [The evidence base on inclusion effects is methodologically weak: no randomised studies and nearly all synthesised studies at serious risk of bias](inclusion-evidence-low-quality-serious-risk-of-bias.md) — related
+- [Certainty of evidence for narrative medicine education effects is rated very low under GRADE](narrative-medicine-evidence-very-low-certainty.md) — related

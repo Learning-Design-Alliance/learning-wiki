@@ -54,3 +54,4 @@ Robust variance random-effects meta-analysis pooling exhaustion–achievement co
 - [Teacher ill-being shows a small negative association with student motivation and achievement (r = –.13)](teacher-ill-being-negative-student-outcomes-r13.md) — related
 - [Teacher burnout dimensions show the strongest correlations with CMSE among teacher-level psychometric constructs](cmse-teacher-burnout-strongest-teacher-level-correlate.md) — related
 - [The burnout–dropout intentions association is moderated by burnout dimension, being highest for cynicism](burnout-dimension-moderates-dropout-intentions.md) — related
+- [Higher burnout is associated with poorer academic outcomes in medical students](burnout-associated-poorer-academic-outcomes-medical-students.md) — a broader claim this one bears on

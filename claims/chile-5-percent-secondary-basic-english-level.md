@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: philominraj-2023
     resource: "https://www.mextesol.net/journal/"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` A 2010 national diagnostic administered to 11,000 students from 299 public schools showed that only 5% of secondary school students reached the basic requirement level by the end of twelfth grade. [→ Philominraj 2023](#philominraj-2023)

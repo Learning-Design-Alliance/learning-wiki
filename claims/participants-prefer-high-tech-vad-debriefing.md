@@ -52,3 +52,4 @@ Qualitative focus group interviews after three one-day simulation trainings in t
 - [Video evidence in VAD increased participants' acceptance of feedback and its credibility, reducing disputes over whether critical observations were correct](video-evidence-increases-feedback-acceptance.md) — related
 - [Participants reported preferring learning from videos over learning from digital texts](students-prefer-learning-from-videos.md) — related
 - [Equipment and display choices affect educational TV quality: black-on-white for fine-line charts, lapel microphone, two cameras, and a 16-inch minimum screen for 20 viewers](educational-tv-equipment-display-conclusions.md) — related
+- [Low facilitator-to-student ratios (roughly 1:6 to 1:16) are preferred in CBD- and simulation-based IPE and were associated with more interaction and feedback opportunities](low-facilitator-ratios-ipe.md) — related

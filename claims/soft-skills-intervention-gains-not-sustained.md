@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-10-31
 sources:
   - id: zagalo-daniela-mariana-2026
     resource: "https://doi.org/10.1186/s12909-026-09059-0"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Several interventions demonstrate short-term improvements in empathy and communication skills among medical students, but evidence regarding their persistence over time remains inconsistent. [→ Zagalo Daniela Mariana 2026](#zagalo-daniela-mariana-2026)
@@ -74,3 +75,7 @@ The review attributes longitudinal findings to named recent investigations: Baug
 - [Reflective and cognitively oriented CPR approaches show potential for enhancing long-term skill retention, particularly at follow-up](reflective-practice-enhances-cpr-retention.md) — related
 - [The largest checklist-item gain from multi-agent scaffolding was in observable empathic expression, with additional gains in selected history-taking items](empathy-checklist-item-largest-gain.md) — related
 - [Confidence gains after brief RaT workshops do not automatically translate into improved teaching performance](confidence-gains-not-translate-performance.md) — related
+- [Feedback in AI-VP training shows a differential corrective effect for learners with low baseline empathy](adaptive-feedback-low-baseline-empathy.md) — a narrower finding that bears on this claim
+- [Longitudinal studies examining retention of practical skills over time remain scarce in the digital teaching literature](longitudinal-retention-studies-scarce.md) — related
+- [Technology-based interventions in psychiatry education mostly show positive short-term effects on knowledge, skills, confidence, and empathy, but evidence of sustained learning is inconsistent](psychiatry-ed-tech-short-term-gains.md) — a narrower finding that bears on this claim
+- [Evidence on long-term retention and transfer of clinical communication skills to clinical practice remained inconsistent or lacking across included reviews](vp-communication-long-term-retention-transfer-inconsistent.md) — possibly the same claim (merge candidate)

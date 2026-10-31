@@ -47,3 +47,4 @@ Follow-up analyses within the same preregistered meta-analytic dataset of 67 stu
 ## Related Claims
 - [Metacognition interventions enhance cognitive and academic outcomes in typically developing children up to age 12 at immediate post-test (g = 0.48)](metacognition-interventions-effective-immediate-posttest-young-children.md) — related
 - [Metacognition interventions enhance children's self-efficacy only at follow-up, suggesting effects unfold over a protracted period](metacognition-interventions-self-efficacy-only-followup.md) — related
+- [IVR knowledge benefits appear immediately post-intervention but attenuate at later follow-up](ivr-knowledge-gains-attenuate-at-follow-up.md) — related

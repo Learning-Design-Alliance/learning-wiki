@@ -56,6 +56,7 @@ The brief recommends that districts address AI literacy gaps through comprehensi
 - [Staged readiness strategy: establish policy clarity and faculty capacity-building before ambitious AI-enabled or online scale-up](staged-readiness-policy-clarity-before-scale-up.md)
 - [Combine bottom-up co-design with top-down executive sponsorship, cross-unit collaboration and dedicated R&D capacity to embed institutional GenAI](bottom-up-codesign-top-down-sponsorship-genai-embedding.md)
 - [Four-phase development roadmap for creating an SRL-Scaffolding Architecture](four-phase-roadmap-srl-scaffolding-architecture.md)
+- [Prioritize infrastructure-light KAS sub-dimensions in resource-constrained nursing curricula](infrastructure-light-kas-priorities.md)
 
 ## Examples
 -

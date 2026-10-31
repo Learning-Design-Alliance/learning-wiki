@@ -54,3 +54,4 @@ Trim-and-fill (Card, 2012) funnel-plot asymmetry analysis applied to each meta-a
 - [Publication bias analyses suggest the pooled effect may be underestimated: trim-and-fill raises the mean effect from g = 0.24 to g = 0.29, with no evidence of funnel plot asymmetry](publication-bias-trim-fill-raises-effect.md) — related
 - [Funnel-plot asymmetry suggests small studies with negative or null results may be missing from the simulation-versus-clinical meta-analysis](funnel-plot-missing-negative-studies.md) — related
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](srl-meta-analysis-publication-bias-absent.md) — related
+- [Funnel-plot asymmetry in the TBL meta-analyses is not supported by formal tests of publication bias](no-evidence-publication-bias-tbl-meta-analysis.md) — reports the opposite

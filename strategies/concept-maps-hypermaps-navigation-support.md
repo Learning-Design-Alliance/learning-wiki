@@ -45,6 +45,7 @@ The article recommends supplying visual representations of lesson content and st
 - [Graphic Organizers and Visual Aids (Attention)](graphic-organizers-and-visual-aids-attention.md)
 - [Visual Supports](visual-supports.md)
 - [Design concept maps so learners can find a meaningful reading order and do not feel disoriented](design-concept-maps-to-prevent-disorientation.md)
+- [Integrate mind and concept maps into preclinical curricula with structured training, weekly review use, and collaborative mapping](integrate-mapping-structured-training-preclinical.md)
 
 ## Examples
 -

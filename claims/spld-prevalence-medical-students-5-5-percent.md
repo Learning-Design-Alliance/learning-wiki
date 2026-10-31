@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: pavletič-bernarda-2026
     resource: "https://doi.org/10.1186/s12909-026-09574-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Across the included quantitative studies, reported prevalence of medical students with SpLDs ranged from 2.0% to 11.5% with an average of 5.5%. [→ Pavletič Bernarda 2026](#pavletic-bernarda-2026)

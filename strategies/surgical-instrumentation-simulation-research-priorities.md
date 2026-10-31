@@ -44,7 +44,8 @@ The review's stated research agenda: "For research, priorities include multicent
 - [Cost, equipment availability, maintenance and faculty training are reported implementation barriers for laparoscopic simulation, especially in resource-constrained settings](../claims/laparoscopic-simulation-implementation-barriers.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Research agenda: standardize reporting, run comparative efficacy studies, and track longitudinal transfer to clinical practice](competency-simulation-research-agenda-reporting-transfer.md)
 
 ## Examples
 -

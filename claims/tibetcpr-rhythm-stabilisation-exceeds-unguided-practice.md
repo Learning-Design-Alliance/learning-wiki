@@ -9,6 +9,7 @@ generated:
   at: 2026-10-11
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-31
 sources:
   - id: yibo-meng-2026
     resource: "https://doi.org/10.48550/arxiv.2606.07765"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` The experimental group's pre-to-post reduction in compression rate deviation substantially exceeded the control group's change (Cohen's d = −1.52), and gains transferred to an unscaffolded one-minute post-test. [→ Yibo Meng 2026](#yibo-meng-2026)
@@ -52,3 +53,5 @@ Randomised controlled study (T1 pre-test, T2 10-minute intervention, T3 post-tes
 - [Students show large immediate pre-to-post knowledge gains within a single LLM-supported learning session](large-immediate-gains-llm-supported-session.md) — related
 - [Rhythm or pacing aids during CPR training were associated with more consistent compression rates](pacing-aids-consistent-compression-rates.md) — a broader claim this one bears on
 - [Demonstration-based CPR training tended to produce more accurate performance than lecture-based approaches](demonstration-beats-lecture-cpr-training.md) — related
+- [Real-time feedback systems generally improve CPR quality in simulation-based training, particularly compression rate and depth](real-time-feedback-improves-cpr-quality-simulation.md) — a broader claim this one bears on
+- [Rhythm-shadowing training produced measurable improvements in mean length of run and pause ratio as fluency indicators](rhythm-shadowing-fluency-gains.md) — related

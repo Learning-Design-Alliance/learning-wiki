@@ -42,6 +42,7 @@ The article's design recommendation is that integrating GenAI in higher educatio
 
 - [Implement GenAI in higher education in ways that support autonomy, competence, relatedness, and value to sustain motivation and engagement](motivation-supportive-genai-integration-higher-education.md)
 - [Provide differentiated scaffolding matched to teachers' behavioral-cognitive profiles when supporting multi-agent AI workflow design](differentiated-scaffolding-teacher-ai-design-profiles.md)
+- [Adopt a differentiated integration strategy for GenAI in undergraduate medical education rather than uniform adoption](differentiated-genai-integration-strategy.md)
 
 ## Examples
 -

@@ -57,3 +57,4 @@ Weighted linear regression moderator analysis across cross-sectional effect size
 - [Study region significantly moderates the ANS-well-being correlation among K-12 youth, with the abstract reporting a stronger association in East Asian contexts](region-moderates-ans-wellbeing-k12.md) — a narrower finding that bears on this claim
 - [Region, study quality, and interaction domain moderate associations between factors and interactive skills](moderators-region-quality-domain.md) — related
 - [The effect of traditional methods does not differ significantly by learning domain, department, grade, or geographical region](no-moderator-differences-categorical.md) — reports the opposite
+- [ECE effects are significant in Europe and Asia but did not reach statistical significance in the Americas](ece-geographic-subgroup-effects.md) — related

@@ -49,3 +49,4 @@ Heterogeneity analysis of the 19 included effect size estimates using the Q-stat
 - [Effect sizes across studies show substantial heterogeneity, with wide prediction intervals spanning large negative to large positive true effects](heterogeneity-math-interventions-co-occurring.md) — a broader claim this one bears on
 - [Emerging technologies show a small-to-moderate positive overall effect on TEFL outcomes (g = 0.38, corrected to 0.28 for publication bias)](emerging-tech-tefl-pooled-effect-g038.md) — related
 - [Effect sizes across the included studies are highly heterogeneous (I² = 91.37%), indicating moderating factors](high-heterogeneity-innovative-models-critical-thinking.md) — related
+- [Between-study heterogeneity in LLM dental-question accuracy is very high (I² = 91.5%), with a prediction interval spanning 29.65% to 91.71%](high-heterogeneity-llm-dental-accuracy.md) — related

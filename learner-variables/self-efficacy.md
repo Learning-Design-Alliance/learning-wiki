@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 184 claims (137 show a difference, 27 mixed, 20 no difference) · 150 studies (58 associational, 30 causal, 25 review, 14 qualitative, 9 design, 7 quant-synthesis, 7 theoretical), `q1`–`q4` · 31 of 150 report an effect size · 180 claims rest on one study
+> **Evidence** · 187 claims (140 show a difference, 27 mixed, 20 no difference) · 153 studies (58 associational, 30 causal, 26 review, 14 qualitative, 9 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 32 of 153 report an effect size · 183 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -215,6 +215,9 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Anatomy Glove Learning System improved hand-anatomy knowledge in both groups, with 3D-group self-confidence increasing over time while 2D-group confidence declined](../claims/agls-knowledge-gains-sustained-confidence-3d-group.md) [~M] — instruction changes it
 - [Findings from other postgraduate specialties suggest PBL and CBL improve performance, knowledge and confidence, but overall RCT quality in this field is deemed unsatisfactory](../claims/other-postgraduate-specialty-reviews-pbl-cbl-quality-unsatisfactory.md) [+M] — instruction changes it
 - [This synthesis is the first comprehensive quantitative meta-analysis of links between teachers' observed or perceived classroom structure practice and students' engagement, competence beliefs, disengagement, and achievement](../claims/structure-meta-analysis-first-comprehensive-synthesis.md) [+M] — instruction changes it
+- [ECE improves theoretical knowledge, clinical practice performance and self-efficacy, with the largest effect on self-efficacy](../claims/ece-competency-domain-effects.md) [+M] — instruction changes it
+- [GTA programmes are consistently associated with reduced student anxiety and improved confidence in pelvic examination, though evidence is frequently short-term and self-reported](../claims/gta-programmes-reduce-anxiety-improve-confidence.md) [+W] — instruction changes it
+- [In one randomized trial, EBP leadership education improved EBP beliefs and implementation self-efficacy but not evidence-based nursing practice scores](../claims/tucker-trial-beliefs-selfefficacy-gains-ebnp-null.md) [+W] — instruction changes it
 
 ## The evidence by question
 

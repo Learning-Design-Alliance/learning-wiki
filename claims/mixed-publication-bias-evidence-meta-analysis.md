@@ -91,3 +91,5 @@ Rosenthal's Fail-Safe N analysis with K = 19 studies; the computed threshold 5(1
 - [Publication bias was detected in all four meta-analytic models, so additional studies could change the results](publication-bias-sol-meta-analysis.md) — related
 - [Trim-and-fill analyses suggest publication bias affected three of the four meta-analyses, indicating true mean effects may be lower than originally reported.](tier2-k3-publication-bias-lower-true-effects.md) — related
 - [Sensitivity analyses found no evidence of publication bias in the meta-analysis](no-publication-bias-sensitivity-analysis.md) — reports the opposite
+- [Funnel-plot asymmetry in the TBL meta-analyses is not supported by formal tests of publication bias](no-evidence-publication-bias-tbl-meta-analysis.md) — reports the opposite
+- [Funnel plot and Egger's test show no statistical evidence of publication bias for the composite household-disadvantage selection effect](no-publication-bias-household-selection-effect.md) — related

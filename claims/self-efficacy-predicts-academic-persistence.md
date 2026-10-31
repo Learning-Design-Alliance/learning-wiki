@@ -206,3 +206,4 @@ The key constraint is specificity: telling learners they are "smart" or "good at
 - [Tagging skills and completing challenges engaged students in self-assessment and reflection on their skill development](assessmake21-tagging-challenges-engaged-self-assessment.md) — related
 - [Positive motivational beliefs are associated with high-level learning strategies, consistent with Pintrich and García's self-regulated learning proposal](motivation-cognition-patterns-srl.md) — related
 - [Attitudinal outcomes did not differ significantly between roles across most studies, with isolated exceptions in self-efficacy and 3-month perceived learning transfer](attitudinal-outcomes-mostly-null-exceptions.md) — related
+- [Intrinsic motivation, resilience, emotional intelligence, and perceived social support show mostly positive associations with academic performance in medical students](protective-psychosocial-factors-positive-association-medical-students.md) — related

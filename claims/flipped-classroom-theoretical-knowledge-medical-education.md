@@ -75,3 +75,5 @@ Leave-one-out sensitivity analysis for theoretical knowledge: pooled effects sta
 - [Flipped classroom significantly improves practical exam scores over lecture-based learning (pooled SMD 0.50)](fc-practical-exam-smd-050.md) — related
 - [Flipped classroom improves teacher-student interaction (pooled RR 1.35), based on few studies](fc-teacher-student-interaction-rr-135.md) — related
 - [Flipped classrooms are associated with improved procedural/technical skills in medical education (pooled SMD = 1.80), with larger effects among residents and in theoretical-course settings](flipped-classroom-procedural-skills-medical-education.md) — related
+- [Evidence on AI-driven simulation in dental education shows moderate-to-high heterogeneity and limited certainty](ads-evidence-heterogeneity-limited-certainty.md) — related
+- [Substantial heterogeneity in intervention design, outcome measures, and feedback structures limited comparability across reviews, and no pooled meta-analysis was feasible](vp-communication-heterogeneity-limits-comparability.md) — related

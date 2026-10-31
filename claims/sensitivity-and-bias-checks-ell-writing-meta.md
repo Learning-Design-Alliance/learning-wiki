@@ -107,3 +107,8 @@ Publication bias assessment using funnel plots, trim-and-fill, and Egger's regre
 - [Funnel-plot asymmetry suggests small studies with negative or null results may be missing from the simulation-versus-clinical meta-analysis](funnel-plot-missing-negative-studies.md) — related
 - [Trim-and-fill analyses suggest publication bias affected three of the four meta-analyses, indicating true mean effects may be lower than originally reported.](tier2-k3-publication-bias-lower-true-effects.md) — related
 - [Sensitivity analyses found no evidence of publication bias in the meta-analysis](no-publication-bias-sensitivity-analysis.md) — related
+- [Publication bias tests and sensitivity analyses support the robustness of the pooled bilingual teaching effects](bilingual-immunology-pooled-effects-robust-to-sensitivity-analysis.md) — related
+- [Pooled effects are robust in sensitivity analyses, but 10 of 13 studies carry serious risk of bias and publication bias is indicated](dementia-experiential-review-bias-and-robustness.md) — related
+- [Funnel-plot asymmetry in the TBL meta-analyses is not supported by formal tests of publication bias](no-evidence-publication-bias-tbl-meta-analysis.md) — related
+- [Funnel plot and Egger's test show no statistical evidence of publication bias for the composite household-disadvantage selection effect](no-publication-bias-household-selection-effect.md) — related
+- [Sensitivity and publication-bias analyses support the robustness of the pooled accuracy estimate](sensitivity-analyses-support-pooled-accuracy-robustness.md) — related

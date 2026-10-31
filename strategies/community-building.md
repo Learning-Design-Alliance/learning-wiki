@@ -86,6 +86,7 @@ Sense of belonging predicts persistence and engagement, particularly for at-risk
 - [Mitigate reluctance to participate in group activities with clearly defined roles and an icebreaker interaction with the materials](defined-roles-and-nerf-icebreaker-for-group-activities.md)
 - [Facilitation conditions for the drawing and Facebook activities: clear presentation, small rotating comparison groups, climate of trust, and active participation in online sharing](drawingvoice-facilitation-conditions.md)
 - [Facilitate online educational collaboration by matching participants on comfort and gradually increasing openness](gradual-openness-matching-comfort-collaboration.md)
+- [Build structured feedback mechanisms, explicit team formation and clear workload expectations into active learning environments in public health education](structured-feedback-team-formation-workload-expectations.md)
 
 ## Examples
 - **PBL teams with role rotation and team charters** — interdependent roles (facilitator, recorder, skeptic) with individual deliverables prevent free-riding while building team cohesion.

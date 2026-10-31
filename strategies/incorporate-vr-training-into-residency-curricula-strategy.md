@@ -49,6 +49,8 @@ Based on the pooled findings, the review recommends that training programs adopt
 ## Related Strategies
 
 - [Incorporate theoretically based pedagogical elements (e.g., enactment, generative learning strategies) into IVR procedural training](pair-ivr-with-generative-strategies.md)
+- [Adopt competency-based, outcome-targeted simulation training rather than merely allocating simulation time](adopt-competency-based-outcome-targeted-simulation.md)
+- [Integrate AI-driven simulation into dental curricula as a complement to traditional training, attending to domain-specific effectiveness and the lack of long-term validated outcomes](ads-curricular-integration-strategy.md)
 
 ## Examples
 -

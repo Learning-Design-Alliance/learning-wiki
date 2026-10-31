@@ -157,3 +157,4 @@ Program of controlled experiments in the author's lab comparing concise versus e
 - [The authors propose a humor principle: humor may not improve learning of particular items but may drive learners to preferentially select a course](proposed-humor-principle-course-selection.md) — related
 - [In the lab study, adding irrelevant information impaired performance only among low-working-memory participants in the distal condition](irrelevant-info-impairs-low-kmax-distal.md) — a narrower finding that bears on this claim
 - [Age coherence between pedagogical agent and learning material fosters learning (study 2)](age-coherence-agent-material-fosters-learning.md) — a narrower finding that bears on this claim
+- [Background music with lyrics impaired reading comprehension and listening performance, especially under high linguistic load](lyrical-bgm-interference.md) — a narrower finding that bears on this claim

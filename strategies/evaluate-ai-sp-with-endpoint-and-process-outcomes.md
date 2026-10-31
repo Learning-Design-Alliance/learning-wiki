@@ -45,6 +45,7 @@ The article recommends that "Future evaluations of LLM-based simulated patient s
 
 - [Evaluate AI literacy interventions with behavioral measures of LLM interaction in addition to self-reports](behavioral-measures-for-ai-literacy-evaluation.md)
 - [Frame genAI virtual patient experiences: prompt experimentation with AI capabilities and orient students to its limits](frame-genai-pbl-experience-experimentation-orientation.md)
+- [Future research should use standardized validated outcome measures, longitudinal follow-up designs, and methods linking learner gains to patient-relevant outcomes](vp-communication-future-research-validated-longitudinal.md)
 
 ## Examples
 -

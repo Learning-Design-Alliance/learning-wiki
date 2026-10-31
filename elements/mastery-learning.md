@@ -13,7 +13,7 @@ generated:
 # Mastery Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q4` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 quant-synthesis, 1 review), `q3`–`q4` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Mastery learning is the element in which progression depends on demonstrated understanding rather than time alone.
@@ -27,6 +27,7 @@ Mastery learning is the element in which progression depends on demonstrated und
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Mastery Learning Improves Outcomes](../claims/mastery-learning-improves-outcomes.md) [+M]
+- [Competency-based progression simulation combined with e-learning yields higher communication competence than e-learning alone or standard simulation](../claims/competency-based-progression-simulation-communication.md) [+W]
 
 ## Related Elements
 - [Reassessment](reassessment.md)

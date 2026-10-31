@@ -48,3 +48,4 @@ Observational study of 32 observations of eight integrated activities taught by 
 - [High pupil learning gains were not related to a high extent of teacher technology integration; junior classes gained more than senior class 2b](learning-gains-not-related-to-integration-extent.md) — related
 - [Senior kindergarteners engaged to a higher extent in on-computer activities than junior kindergarteners](senior-pupils-higher-engagement-computer-activities.md) — related
 - [Time working within PictoPal explained significant variance in teacher integration and pupil engagement across the eight-week implementation](integration-engagement-increase-over-time.md) — related
+- [Senior trainees scored approximately 30–40% higher than juniors on technical performance measures in simulation studies](senior-junior-technical-performance-gap-simulation.md) — related

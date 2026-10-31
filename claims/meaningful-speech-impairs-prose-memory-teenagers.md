@@ -69,3 +69,4 @@ The review reports inconsistent transportation-noise findings across studies; Lj
 - [Chronic aircraft noise exposure is associated with lower reading comprehension in children, with a linear exposure–effect relationship](chronic-aircraft-noise-lower-reading-comprehension.md) — related
 - [In the RANCH study, increasing road traffic noise exposure was associated with enhanced episodic memory, an unexplained counter-intuitive finding](ranch-road-traffic-noise-enhanced-episodic-memory.md) — related
 - [Children are more susceptible than adults to the effects of environmental noise on cognitive performance](children-more-susceptible-to-noise-than-adults.md) — related
+- [Background music with lyrics impaired reading comprehension and listening performance, especially under high linguistic load](lyrical-bgm-interference.md) — related

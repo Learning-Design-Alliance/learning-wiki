@@ -51,3 +51,5 @@ Cross-sectional secondary analysis of the 2016-17 NSCH (n = 44,686 children ages
 - [Family resilience partially mediates the association between ACEs and child flourishing, with mediation proportions varying by race/ethnicity and income](family-resilience-partially-mediates-aces-flourishing.md) — related
 - [The moderated-mediation effect of family resilience on the ACEs-curiosity-in-learning relationship is significantly greater for Black than for White children](moderated-mediation-curiosity-greater-black-children.md) — related
 - [Above-FPL children improved more in staying calm and in control as family resilience increased, but no significant FPL moderated-mediation effects emerged](fpl-moderation-calm-control-no-moderated-mediation.md) — related
+- [Moderation of ACE-school outcome associations is sparse, mixed, and outcome-specific](aces-moderation-sparse-mixed-outcome-specific.md) — related
+- [Cumulative ACEs are associated with reduced likelihood of high school completion among US adolescents](cumulative-aces-reduced-high-school-completion.md) — related

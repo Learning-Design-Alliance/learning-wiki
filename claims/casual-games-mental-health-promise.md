@@ -48,3 +48,4 @@ The review reports, citing Pine and colleagues [2020], a meta-analysis of 13 stu
 - [Mental health, especially depression, is probably the single most decisive factor in refugee language learning](depression-decisive-factor-refugee-language-learning.md) — related
 - [Many students reported stress, anxiety and related wellbeing challenges while studying online, with over 50% of respondents naming stress or anxiety as key challenges](stress-anxiety-over-half-lockdown-students.md) — related
 - [Excessive smartphone use in childhood is linked to higher levels of perceived depression, anxiety, and stress and unregulated emotional states, while educational applications and games drive pupils' motivation and engagement.](screen-use-risks-and-benefits-childhood.md) — related
+- [Examiner variability (66.7% of studies) and student anxiety (41.2%) are the most frequently reported challenges of oral examinations](examiner-variability-top-challenge.md) — related

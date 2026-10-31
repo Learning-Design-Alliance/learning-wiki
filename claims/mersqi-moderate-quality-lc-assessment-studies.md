@@ -69,3 +69,4 @@ In the risk-of-bias results, "QUADAS-2 identified patient selection as the princ
 - [Mean CT centring knowledge score indicates only moderate proficiency, with greater score variability among less experienced and lower-volume radiographers](moderate-knowledge-score-variability-early-career-radiographers.md) — related
 - [Composite accountability indicators such as A–F letter grades fail to capture the cognitive and noncognitive competencies of deeper learning and college and career readiness](composite-indicators-poor-conceptual-alignment-deeper-learning.md) — related
 - [No objective assessment tool for laparoscopic cholecystectomy demonstrates comprehensive validity across all Messick domains, so no gold standard exists](no-gold-standard-lc-skill-assessment-tools.md) — related
+- [Included study quality is moderate, with a median MMERSQI score of 60 out of 100](cm-studies-moderate-quality-mmersqi-median-60.md) — related

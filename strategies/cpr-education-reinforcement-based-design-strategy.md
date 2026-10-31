@@ -57,6 +57,8 @@ The review recommends treating CPR education as an ongoing, reinforcement-based 
 
 - [Sustain doctoral methodological competence through continued practice, feedback, and authentic application rather than isolated short courses](sustained-practice-for-doctoral-methodological-skills.md)
 - [Design RaT programs as longitudinal, integrated curricula with structured instruction, direct practice, formative feedback, and ongoing coaching](longitudinal-integrated-rat-program-design.md)
+- [Embed recurrent, context-aligned ALS rehearsal with feedback supported by protected training time, accessible infrastructure, and ongoing performance monitoring](embed-recurrent-als-rehearsal-with-organisational-support.md)
+- [Select feedback technology to match the learner population, setting and learning objective, and reinforce with spaced booster training](match-feedback-device-to-context-plus-booster-training.md)
 
 ## Examples
 -

@@ -90,6 +90,7 @@ Simulation works because it lets learners generate and test hypotheses in an env
 - [Use experiential intercultural training methods such as simulations, role-playing and critical incidents to encounter perceptual and value differences](experiential-intercultural-training-methods.md)
 - [Embed the ReACT reasoning-acting-observing-reflecting cycle in tutoring systems to mirror inquiry-based learning](react-cycle-inquiry-based-learning.md)
 - [Use the observer role alongside active participation as a resource-efficient strategy to expand access to simulation-based education](observer-role-scaling-sbe-access-strategy.md)
+- [Adopt competency-based, outcome-targeted simulation training rather than merely allocating simulation time](adopt-competency-based-outcome-targeted-simulation.md)
 
 ## Examples
 - **[Laerdal SimMan](https://www.laerdal.com)** and standardized-patient programs in health professions education — high-fidelity patient simulation with structured debriefing; meta-analytic evidence shows large gains over no simulation and comparable or better outcomes than traditional instruction Cook et al., 2013

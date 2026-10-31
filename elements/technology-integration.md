@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 143 claims (66 for, 66 mixed, 11 against) · 123 studies (25 associational, 23 qualitative, 20 causal, 19 review, 17 quant-synthesis, 14 design, 5 theoretical), `q1`–`q4` · 25 of 123 report an effect size · 140 claims rest on one study
+> **Evidence** · 151 claims (72 for, 68 mixed, 11 against) · 126 studies (25 associational, 23 qualitative, 21 review, 20 causal, 18 quant-synthesis, 14 design, 5 theoretical), `q1`–`q4` · 27 of 126 report an effect size · 148 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -168,6 +168,14 @@ Technology integration is the element in which digital tools are used in direct 
 - [CMC integration yields an overall small-to-medium positive effect (d = .554) on L2 learning outcomes compared with face-to-face communication](../claims/cmc-small-to-medium-positive-effect-l2.md) [+W]
 - [Improvements in objective knowledge outcomes (Kirkpatrick Level 2) from technology-enhanced learning were inconsistent across neuroanatomy interventions](../claims/tl-neuroanatomy-l2-knowledge-inconsistent.md) [~W]
 - [Educational apps produce effects about 0.17 SD higher on constrained than unconstrained skills](../claims/apps-larger-effects-constrained-skills.md) [~W]
+- [GAI-assisted teaching significantly improves clinical thinking ability compared with traditional teaching (SMD = 1.18; OR = 10.97)](../claims/gai-teaching-improves-clinical-thinking-ability.md) [+W]
+- [Ethics knowledge and positive future orientation empirically predict AI integration and ethical values in cited studies](../claims/ethics-knowledge-predicts-ai-integration.md) [~W]
+- [GAI-assisted teaching significantly improves learning initiative compared with traditional teaching (SMD = 1.20; OR = 9.44)](../claims/gai-teaching-improves-learning-initiative.md) [+W]
+- [GAI-assisted teaching significantly improves knowledge examination scores in medical students compared with traditional teaching (SMD = 0.95)](../claims/gai-teaching-improves-knowledge-scores-medical-students.md) [+W]
+- [GAI-assisted teaching significantly improves learning self-efficacy compared with traditional teaching (SMD = 0.75)](../claims/gai-teaching-improves-learning-self-efficacy.md) [+W]
+- [GAI-assisted teaching significantly improves practical examination scores in medical students compared with traditional teaching (SMD = 1.48)](../claims/gai-teaching-improves-practical-scores-medical-students.md) [+W]
+- [GAI-assisted teaching significantly improves self-directed learning ability compared with traditional teaching (SMD = 1.25; OR = 7.37)](../claims/gai-teaching-improves-self-directed-learning-ability.md) [+W]
+- [VR-enhanced basic robotic skills training sometimes required more training repetitions than conventional training to reach equivalent proficiency](../claims/vr-training-more-repetitions-to-proficiency.md) [~W]
 
 ## The evidence by question
 - *Does building AI tools into instruction raise achievement over teaching the same content without them, and in which settings?* [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](../claims/ai-instruction-stem-moderate-positive-effect.md) [+M]

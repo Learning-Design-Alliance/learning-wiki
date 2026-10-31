@@ -50,3 +50,4 @@ Random-effects meta-analysis of two RCTs and one quasi-experiment (102 nurses) o
 - [The effect of high-fidelity simulation on practising nurses' self-confidence is inconclusive, varying by study design](hfs-self-confidence-inconclusive-design-dependent.md) — related
 - [The HFS evidence base for practising nurses comprises eight small studies with risk-of-bias concerns](hfs-nurse-evidence-base-eight-studies-275-nurses.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
+- [High-fidelity simulation improves ECT procedural skills substantially but does not reliably improve theoretical knowledge or confidence](hfs-ect-procedural-skills.md) — related

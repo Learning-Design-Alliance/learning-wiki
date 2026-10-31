@@ -69,3 +69,4 @@ The same behavioural experiment found that among low-presence participants "did 
 - [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — related
 - [Vocabulary knowledge gained from eight encounters persisted over two weeks, with no significant immediate-to-delayed test differences](vocabulary-gains-persist-two-weeks.md) — related
 - [Learning each language in its own distinctive VR context reduced cross-language intrusions relative to learning both languages in a single context](dual-context-vr-reduced-language-intrusions.md) — related
+- [Real-time augmented reality speed overlays nearly doubled novice instrument velocity in bimanual carrying, with gains retained at two weeks](ar-speed-overlay-instrument-velocity-retention.md) — related

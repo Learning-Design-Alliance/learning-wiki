@@ -50,3 +50,5 @@ Bias assessment of the 28 included studies using Egger's regression: the interce
 - [The pooled effect of writing instruction for US ELL students is robust to sensitivity analyses but funnel plot asymmetry suggests possible missing positive effect sizes](sensitivity-and-bias-checks-ell-writing-meta.md) — related
 - [Funnel-plot asymmetry ran contrary to small-study effects because larger-sample studies reported larger effect sizes, likely reflecting longer training programs](funnel-asymmetry-contrary-to-small-study-effects.md) — related
 - [Publication bias tests give mixed evidence: Egger's test indicates bias, but fail-safe N calculations lead the authors to conclude no publication bias](publication-bias-mixed-egger-failsafe.md) — related
+- [Funnel plot and Egger's test show no statistical evidence of publication bias for the composite household-disadvantage selection effect](no-publication-bias-household-selection-effect.md) — related
+- [No evidence of publication bias is found in the meta-analysis of LLM examination accuracy](no-publication-bias-llm-exam-accuracy.md) — related

@@ -45,3 +45,4 @@ Generalized linear mixed model on forced-choice trial decisions (binomial error 
 ## Related Claims
 - [The link between children's affect index and their subsequent collaboration preferences varied with age, with the two proxies for social motivation becoming dissociated in older children](affect-preference-link-dissociates-with-age.md) — related
 - [Children across three diverse populations expressed more positive emotions during peer collaboration than during individual activity, with the effect strongest among German and weakest among Hai||om children](positive-emotions-during-collaboration-cross-cultural.md) — related
+- [Gamification effectiveness varies by task type, population and cultural context, limiting generalization](gamification-effectiveness-context-dependent-limitation.md) — a broader claim this one bears on

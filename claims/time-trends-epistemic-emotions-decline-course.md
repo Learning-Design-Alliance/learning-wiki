@@ -66,3 +66,4 @@ RDSEM within-person trend models (Model 3) on 212 session surveys; standardised 
 - [Anxiety, enjoyment and boredom are three critical emotions in language learning that affect outcomes and engagement](anxiety-enjoyment-boredom-critical-sla-emotions.md) — related
 - [Mathematics enjoyment decreases and boredom increases from first to third grade, while mean enjoyment stays fairly high and boredom low](enjoyment-decreases-boredom-increases-grades-1-3.md) — related
 - [Affective states shifted over tutor usage: confusion decreased while engaged concentration and boredom increased](affect-shifts-over-tutor-usage.md) — related
+- [Song-based instruction is consistently associated with increased affective engagement in EFL listening classrooms](song-based-instruction-affective-engagement.md) — related

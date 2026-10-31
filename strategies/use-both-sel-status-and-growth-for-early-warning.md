@@ -42,6 +42,7 @@ This strategy recommends that early-warning identification of at-risk students s
 - [Provide schools real-time early warning data reports and credit recovery reports to monitor student performance and support on-track progress](early-warning-data-and-credit-recovery-strategy.md)
 - [Use person-centered trajectory identification to target motivational interventions at at-risk students](person-centered-motivation-trajectory-screening.md)
 - [Proactively monitor engagement trajectories and address students who fail to improve or catch up](proactively-address-lack-of-engagement-catch-up.md)
+- [Early identification and preventive school health approaches addressing trauma exposure to improve academic trajectories](early-identification-preventive-school-health-aces.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ Spearman correlations between PSQI scores and gut microbial phylum proportions i
 - [Sleep quality and Verrucomicrobia are not independently associated with Stroop Word performance](sleep-quality-verrucomicrobia-not-independent-stroop-word.md) — related
 - [Higher Verrucomicrobia proportion is associated with better Stroop Word performance after controlling for carbohydrate intake and hypertension](verrucomicrobia-proportion-associated-stroop-word-performance.md) — related
 - [Hypertension is associated with poorer Stroop Word and Color performance in healthy older adults](hypertension-associated-poorer-stroop-word-color-performance.md) — related
+- [Gut microbiota-related pathways remain a preliminary, largely theoretical area in student populations, with very few studies directly assessing microbiota-related variables](gut-microbiota-pathways-emerging-gap-students.md) — related

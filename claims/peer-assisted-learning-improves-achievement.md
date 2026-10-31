@@ -86,3 +86,4 @@ Earlier Related Claims:
 - [Cross-age tutoring produces a small-to-moderate positive effect on academic outcomes for both tutors and tutees](cross-age-tutoring-positive-academic-effects-both-roles.md) — a narrower finding that bears on this claim
 - [Generating questions is effective for university students but likely ineffective for younger elementary students, working at intermediate ages only with instructional scaffolding](question-generation-ineffective-young.md) — related
 - [Variable reciprocity assigns tutor roles for problems a student solved and tutee roles for problems not solved (as proposed by Evans and Moore)](variable-reciprocity-solved-problems-tutor.md) — related
+- [Reporting of the 4S framework in application design and of peer evaluation is limited: only 3 of 37 studies used 4S principles and about one-third reported peer evaluation](4s-framework-and-peer-evaluation-underreported.md) — related

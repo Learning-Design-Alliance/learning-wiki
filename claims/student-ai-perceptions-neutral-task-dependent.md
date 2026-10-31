@@ -69,3 +69,4 @@ Systematic literature review (PRISMA framework) synthesizing recent studies of A
 - [RLHF rapidly shapes model outputs toward rater-endorsed norms, improving surface compliance while leaving principle-level generalization unresolved](rlhf-surface-compliance-gap.md) — related
 - [Skills gained from GenAI integration vary with teaching methodology, tool choice, and assessment methods, with student performance varying by engagement level](genai-skills-vary-by-methodology-engagement.md) — related
 - [Graduate students initially feared GenAI use constituted cheating but came to view it as a collaborative tool compatible with academic integrity when used responsibly](genai-collaboration-shifts-student-integrity-perceptions.md) — related
+- [Gamification effectiveness varies by task type, population and cultural context, limiting generalization](gamification-effectiveness-context-dependent-limitation.md) — related

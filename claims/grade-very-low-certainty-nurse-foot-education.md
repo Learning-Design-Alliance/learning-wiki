@@ -52,3 +52,5 @@ The review's own GRADE assessment across nine studies (589 participants for know
 - [Most included studies carried a high risk of bias or some concerns, particularly for confounding and outcome measurement, limiting certainty](peer-tutoring-simulation-risk-of-bias.md) — related
 - [No included randomized comparison was at low risk of bias, and all 17 non-randomized comparisons were rated serious risk under ROBINS-I](pe-teaching-model-evidence-risk-of-bias-serious.md) — related
 - [Nurses begin with low baseline knowledge of diabetic foot care, and educational qualifications may moderate post-training knowledge gains](low-baseline-nurse-knowledge-moderated-by-qualification.md) — a narrower finding that bears on this claim
+- [Certainty of evidence for all outcomes was rated low due to serious risk of bias and heterogeneity](low-certainty-ebp-leader-education-evidence.md) — related
+- [Certainty of evidence for narrative medicine education effects is rated very low under GRADE](narrative-medicine-evidence-very-low-certainty.md) — related

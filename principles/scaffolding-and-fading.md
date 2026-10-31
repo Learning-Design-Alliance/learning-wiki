@@ -188,6 +188,7 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 - [From models and closed cues to open cues](../designs/models-closed-cues-to-open-cues-language-independence.md) — teacher cues fade from restrictive to open to build pupils' independent language use
 - [Fade embodied support as schemas develop, starting with the least embodied task-relevant support](../strategies/fade-embodied-support-as-schemas-develop.md)
 - [Adapt multi-agent AI roles to learners' prior knowledge and regulate agent participation dynamically from interaction cues](../strategies/adaptive-agent-roles-by-prior-knowledge.md)
+- [Use AR as targeted early-training scaffolding with progressive withdrawal as competency develops](../strategies/progressive-withdrawal-ar-guidance.md)
 
 ## Key Sources
 - Kupers, E., van Dijk, M., & van Geert, P. (2017). Changing Patterns of Scaffolding and Autonomy During Individual Music Lessons: A Mixed Methods Approach. *Journal of the Learning Sciences, 26*(1), 131-166. [https://doi.org/10.1080/10508406.2016.1259624](https://doi.org/10.1080/10508406.2016.1259624)

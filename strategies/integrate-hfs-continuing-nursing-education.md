@@ -52,6 +52,7 @@ The review concludes that HFS training can be used in ongoing training for pract
 
 - [Future HFS trials for practising nurses need larger samples, rigorous randomised design and standardised, fully reported measures](hfs-nurse-research-quality-recommendations.md)
 - [Integrate interactive, competency-based diabetic foot care training into continuing professional development, supported by organizational resources](integrate-interactive-diabetic-foot-training-cpd.md)
+- [Integrate high-fidelity body donor models with low-fidelity simulators across the training progression](integrate-high-and-low-fidelity-simulation.md)
 
 ## Examples
 -

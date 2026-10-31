@@ -50,3 +50,4 @@ Simple-effects analyses within each group across pre-training, post-training, an
 - [Ten-day mental rotation training improves accuracy and response time, with behavioral benefits maintained up to 90 days post-training](mr-training-accuracy-rt-gains-90-days.md) — related
 - [Off-training cognitive transfer shows gains in working memory and focused attention for the ACT group only, with no significant group-by-session interactions](act-off-training-transfer-mixed.md) — related
 - [Mnemonic training yields limited far-transfer: only the number-noun pairs measure improved, persisting at 4-month follow-up](mnemonic-training-limited-transfer-number-noun-pairs.md) — related
+- [Skill retention after simulation is rarely measured; at 2-month follow-up only the VR group maintained significant ISVS improvement](simulation-skill-retention-two-month-follow-up.md) — related

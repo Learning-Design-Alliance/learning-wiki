@@ -58,3 +58,4 @@ Publication-bias assessment of the 38 included effect sizes using a funnel plot,
 - [Publication bias checks (funnel plot and Orwin's Fail-Safe N = 3182) found no evidence of bias in the meta-analysis](no-publication-bias-fail-safe-n-3182.md) — related
 - [The meta-analysis is resistant to publication bias by Rosenthal's fail-safe N criterion](rme-meta-analysis-publication-bias-resistant.md) — related
 - [Publication bias tests indicate the observed effects for both outcomes were not influenced by publication bias](cbl-meta-analysis-no-publication-bias.md) — related
+- [Publication bias in the data set is at an insignificant level after trim-and-fill adjustment](publication-bias-insignificant-trim-fill.md) — related

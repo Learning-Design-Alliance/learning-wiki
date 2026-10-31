@@ -54,3 +54,4 @@ Descriptive bibliometric analysis of 321 eligible WoS articles on WCF in L2 writ
 - First-author publication counts across 20 selected IDT journals (2005-2014) identify leading institutions worldwide, with Nanyang Technological University, National Taiwan Normal University, and National Central University at the top — related
 - [Feedback research grew dramatically over the past 30 years, yielding a 306-article corpus](feedback-research-growth-306-articles.md) — related
 - [Feedback research spans the full range of methodologies, with a qualitative surge in 2000–2004](feedback-research-methodological-range.md) — related
+- [Publication output on gamification peaked in 2023 with 57 articles and dropped 63% in 2024](gamification-publication-trends-2022-2024.md) — related

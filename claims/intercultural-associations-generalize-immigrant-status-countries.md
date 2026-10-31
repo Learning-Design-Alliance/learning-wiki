@@ -51,3 +51,4 @@ The PISA 2018 multilevel analyses examined whether associations differed by immi
 - [The interaction between school diversity climate (aggregated teachers' immigration attitudes) and immigrant status significantly predicts performance in science, mathematics, and reading](climate-immigration-status-interaction-significant-all-domains.md) — related
 - [Participant background (local vs. immigrant) did not significantly moderate the attitude–proficiency association](participant-background-null-moderator.md) — related
 - [Principal- and teacher-reported intercultural predictors show negligible associations with student psychosocial outcomes](principal-teacher-reported-predictors-negligible.md) — related
+- [Associations between psychosocial factors and academic performance are heterogeneous, with 13 of 45 studies reporting null or weak findings](heterogeneous-associations-null-findings-medical-students.md) — related

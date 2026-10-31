@@ -61,3 +61,4 @@ Theoretical review section (§3) categorizing error sources. The article states 
 - [Instruction-tuning a student model on a single misconception overgeneralizes the error across problems and degrades correct-solving accuracy](student-model-misconception-overgeneralization-degrades-accuracy.md) — related
 - [The study's objective was to determine empirically whether feedback can help learners learn abstract constraints on an overgeneral rule, not merely surface forms.](feedback-abstract-constraints-overgeneral-rule-objective.md) — related
 - [L1-induced errors persist in advanced learners and risk fossilization if learners rely on compensatory communication strategies](l1-interference-errors-fossilization-risk.md) — a narrower finding that bears on this claim
+- [Pre-operative errors stem largely from insufficient preparation, including setup issues and cognitive distractions that affect accuracy](preoperative-preparation-and-distraction-errors.md) — related

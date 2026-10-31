@@ -44,6 +44,7 @@ Recommendations 4 and 5 address the discrete tasks of college entry: preparing f
 
 - [Develop a four-year course trajectory with each 9th grader leading to a college-ready curriculum](four-year-course-trajectory-9th-grade.md)
 - [Provide navigator support through enrollment and financial aid, plus continued support after enrollment](navigator-support-enrollment-financial-aid-adults.md)
+- [Adopt longitudinal equity support spanning pre-application through graduation, with multidimensional disadvantage measures](longitudinal-equity-support-medical-education.md)
 
 ## Examples
 -

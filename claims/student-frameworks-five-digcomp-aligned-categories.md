@@ -53,3 +53,4 @@ Frequency analysis of element categories across 28 student/citizen digital liter
 - [OpenSciEd grade 7 units align with some data-practice frameworks but are less aligned with digital tools, large data sets, and full data cycles](open-scied-units-data-practice-gaps.md) — related
 - [Validation sessions reframed fostering students' digital literacy as empowering students for a digital society, adding ethical competences](hedicom-empowering-students-reframing.md) — related
 - [Educators prioritize a creative mindset including creative problem-solving, diversity of perspectives, and playful inquiry](makerspace-creative-mindset-competency.md) — related
+- [Knowledge management was the most frequently addressed competency (82.35% of included studies) and information and communications technology the least (14.70%)](competency-category-frequencies-knowledge-management-most.md) — related

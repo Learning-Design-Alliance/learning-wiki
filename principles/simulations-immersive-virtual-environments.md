@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 142 claims (58 for, 76 mixed, 8 against) · 97 studies (32 causal, 25 review, 14 quant-synthesis, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 24 of 97 report an effect size · 137 claims rest on one study
+> **Evidence** · 159 claims (67 for, 81 mixed, 11 against) · 107 studies (33 review, 32 causal, 16 quant-synthesis, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 28 of 107 report an effect size · 154 claims rest on one study
 
 ## Conditional relationship
 
@@ -320,6 +320,8 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [Participants in the 360° VR video condition report higher interest and enjoyment than those learning via traditional video or posters](../claims/360-vr-higher-interest-enjoyment.md) [+W] — attached 2026-10-30 from Araiza-Alba et al. (2020), which proposed "Use 360° VR videos to teach safety skills for hazardous situations without exposing learners to real danger".
 - [Immersive reality training produced higher knowledge and skill scores than conventional training in dental studies](../claims/ir-improves-dental-knowledge-skill-scores.md) [+W] — attached 2026-10-31 from Ruslin Muhammad et al. (2026), which proposed "Implement immersive reality as a complement to traditional dental education methods"; tests this page's relationship.
 - [Several included studies found haptic VR training equivalent rather than superior to conventional dental training](../claims/ir-dental-equivalence-mixed-findings.md) [~W] — attached 2026-10-31 from Ruslin Muhammad et al. (2026), which proposed "Implement immersive reality as a complement to traditional dental education methods"; tests this page's relationship.
+- [Simulation-based training is associated with improved patient safety-related skills and knowledge in undergraduate nursing students](../claims/simulation-improves-nursing-patient-safety-skills.md) [+W] — attached 2026-10-31 from González-Sanz A et al. (2026), which proposed "Integrate structured simulation into nursing curricula to bridge the theory-practice gap"; tests this page's relationship.
+- [Structured communication tools such as SBAR incorporated into simulation are associated with improved team coordination and information transfer](../claims/sbar-structured-communication-in-simulation.md) [+W] — attached 2026-10-31 from González-Sanz A et al. (2026), which proposed "Integrate structured simulation into nursing curricula to bridge the theory-practice gap"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -376,6 +378,21 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Simulation-based education consistently improved nurses' confidence in delirium recognition and assessment across included studies](../claims/sbe-delirium-confidence-gains.md) [+W]
 - [Virtual reality was particularly effective for procedural skill development and knowledge retention in paediatric undergraduate training](../claims/vr-effective-procedural-skills-retention.md) [+W]
 - [Virtual laboratories match physical laboratories on conceptual mastery, with domain-specific advantages and disadvantages](../claims/virtual-matches-physical-conceptual-mastery.md) [~W]
+- [Predictive validity of airway simulators is rarely evaluated, and the two tracheal-intubation studies assessing it found no improvement in real-world neonatal intubation outcomes after simulator training](../claims/airway-simulator-predictive-validity-rarely-shown.md) [-W]
+- [Training on a simple low-fidelity 'choose-the-hole' bench model transferred to real clinical fibreoptic intubation performance in an RCT](../claims/choose-the-hole-bench-model-predictive-validity-rct.md) [+W]
+- [Feedback during distance simulation improved performance, while one at-home robotic surgery practice program showed no improvement](../claims/feedback-benefits-at-home-practice-null.md) [~W]
+- [Most digital teaching methods demonstrated positive effects on practical skills acquisition, particularly simulation-based, VR-supported or interactive formats, but effect magnitude and consistency varied substantially](../claims/digital-methods-mostly-positive-practical-skills-effects.md) [+W]
+- [Real-time augmented reality speed overlays nearly doubled novice instrument velocity in bimanual carrying, with gains retained at two weeks](../claims/ar-speed-overlay-instrument-velocity-retention.md) [+W]
+- [High-fidelity simulation improves ECT procedural skills substantially but does not reliably improve theoretical knowledge or confidence](../claims/hfs-ect-procedural-skills.md) [~W]
+- [Three comparative studies reported superior outcomes for distance simulation over traditional training, involving augmented reality telementoring, remote robotic teaching, and a virtual classroom](../claims/distance-simulation-superior-outcomes-three-studies.md) [+M]
+- [IVR simulation does not significantly improve nursing students' skill performance](../claims/ivr-no-significant-skill-performance-effect.md) [-W]
+- [IVR simulation significantly improves nursing students' knowledge acquisition with a small-to-medium effect](../claims/ivr-improves-nursing-knowledge-acquisition.md) [+W]
+- [Virtual simulation teaching enhances learning outcomes and deepens professional cognition through repeated practice, trial-and-error, and error-correction feedback](../claims/vs-advantages-learning-outcomes.md) [+W]
+- [VR-enhanced basic robotic skills training sometimes required more training repetitions than conventional training to reach equivalent proficiency](../claims/vr-training-more-repetitions-to-proficiency.md) [~W]
+- [Included studies used a varied range of simulation modalities, from Deaf standardized patients to VR with manipulated audio and 360 video](../claims/varied-simulation-modalities-deaf-patient-education.md) [+W]
+- [Manikin-based simulation produced equal or superior competency outcomes versus traditional clinical practice, except in the Patient Safety domain](../claims/manikin-simulation-competency-versus-clinical.md) [~W]
+- [Validation quality does not consistently correlate with simulator fidelity, and high-fidelity VR simulators' superiority over simpler models for fibreoptic intubation has not been demonstrated](../claims/simulator-fidelity-does-not-track-validation-quality.md) [-W]
+- [Adding task interruptions to ALS simulation to increase realism did not improve technical or non-technical performance, including at 3-month retention](../claims/task-interruptions-no-performance-benefit.md) [~W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.

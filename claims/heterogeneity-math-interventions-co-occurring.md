@@ -60,3 +60,4 @@ Heterogeneity assessment in the CHE meta-analysis of 60 effect sizes nested in n
 - [Effect size estimates for hands-on science interventions are highly heterogeneous across studies](hands-on-effect-sizes-high-heterogeneity.md) — a narrower finding that bears on this claim
 - [Individual study effect sizes range from negative to very strong, with one study showing no effect](study-level-effect-sizes-range-including-null.md) — a narrower finding that bears on this claim
 - [Heterogeneity across flipped-classroom studies was consistently high (I² > 90%) and was largely not explained by prespecified subgroup analyses, indicating context-dependent effects](flipped-classroom-high-heterogeneity-context-dependent.md) — a narrower finding that bears on this claim
+- [Between-study heterogeneity in LLM dental-question accuracy is very high (I² = 91.5%), with a prediction interval spanning 29.65% to 91.71%](high-heterogeneity-llm-dental-accuracy.md) — related

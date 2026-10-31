@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2023
+recheck_by: 2026
 sources:
   - id: philominraj-2023
     resource: "https://www.mextesol.net/journal/"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: local conditions change quickly
 
 ## Subclaims
 `q2 i?` The systematic review concludes there is no consensus in terms of strategies, approaches, and perspectives used under the concept of methodology to teach EFL, identifying a lacuna on methodology used in Chile. [→ Philominraj 2023](#philominraj-2023)

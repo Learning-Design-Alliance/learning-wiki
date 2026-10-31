@@ -52,6 +52,7 @@ Based on identified gaps, the review recommends that future reviews use "broader
 - [Use broad and specific keywords and develop methodological search filters to improve retrieval of arts-based research](abr-keyword-indexation-strategy.md)
 - [Attach a minimal terminology statement (term, operational definition, hypothesized pathway) to each study](minimal-terminology-statement-per-study.md)
 - [Computational search methods plus grey literature retrieval to identify early grade reading evidence and minimize publication bias](computational-search-and-grey-literature-strategy.md)
+- [Future gamification research should be qualitative or mixed and include educators' perspectives](future-gamification-research-qualitative-educator-perspectives.md)
 
 ## Examples
 -

@@ -44,6 +44,7 @@ The brief recommends that to reduce chronic absenteeism among AI/AN students, sc
 - [Culturally appropriate Tier 1 attendance supports: recognize good and improved attendance, hold regular check-ins, and adapt school calendars](culturally-appropriate-tier1-attendance-supports.md)
 - [Partner with tribal governments to remove attendance barriers through staff expertise, transportation, and health and social services](tribal-government-partnerships-remove-barriers.md)
 - [Create positive, culturally inclusive, welcoming schools using strengths-based practices such as newcomer welcome centers, attendance cafés, and home-language-as-asset approaches](welcoming-culturally-inclusive-schools-english-learners.md)
+- [Early identification and preventive school health approaches addressing trauma exposure to improve academic trajectories](early-identification-preventive-school-health-aces.md)
 
 ## Examples
 -

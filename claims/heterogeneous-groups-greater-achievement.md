@@ -52,3 +52,4 @@ The article reports, citing Zhang et al. (2016), that heterogeneous groups outpe
 - [Heterogeneously grouped teams show more benefits than homogeneously formed teams](heterogeneous-teams-more-benefits-than-homogeneous.md) — a broader claim this one bears on
 - [Homogeneous grouping for reading instruction and heterogeneous grouping for discussion groups each serve distinct purposes](mixed-homogeneous-heterogeneous-grouping.md) — related
 - [Homogeneous CS-major groups reported higher CPSE in collaborative programming than homogeneous non-CS and heterogeneous groups, with no significant difference between the latter two](cpse-cs-major-groups-higher-collaborative.md) — related
+- [Participants with very little prior experience with Deaf communities reported greater post-intervention gains](low-prior-experience-greater-gains.md) — a narrower finding that bears on this claim

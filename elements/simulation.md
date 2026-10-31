@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 92 claims (52 for, 36 mixed, 4 against) · 75 studies (26 review, 16 causal, 15 quant-synthesis, 8 design, 5 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 15 of 75 report an effect size · 82 claims rest on one study
+> **Evidence** · 115 claims (63 for, 44 mixed, 8 against) · 87 studies (36 review, 17 quant-synthesis, 16 causal, 8 design, 5 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 20 of 87 report an effect size · 105 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -147,6 +147,29 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Simulation-based education combined with workflow redesign improved ICU nurses' delirium-assessment documentation rates on day and night shifts](../claims/sbe-delirium-documentation-improvement-icu.md) [+W]
 - [Virtual laboratories match physical laboratories on conceptual mastery, with domain-specific advantages and disadvantages](../claims/virtual-matches-physical-conceptual-mastery.md) [~W]
 - [Simulation dominates the literature on obstetric emergency knowledge-building, but evidence for sustained behaviour change and clinical impact remains limited](../claims/simulation-dominates-oe-training-limited-clinical-impact.md) [~W]
+- [AccuTouch VR simulator training improved live fibreoptic intubation performance in inexperienced paediatric residents, reducing time to intubation from 5.15 to 0.88 minutes](../claims/accutouch-training-improves-live-intubation-time.md) [+W]
+- [IVR simulation significantly improves nursing students' knowledge acquisition with a small-to-medium effect](../claims/ivr-improves-nursing-knowledge-acquisition.md) [+W]
+- [Most digital teaching methods demonstrated positive effects on practical skills acquisition, particularly simulation-based, VR-supported or interactive formats, but effect magnitude and consistency varied substantially](../claims/digital-methods-mostly-positive-practical-skills-effects.md) [+W]
+- [Training on a simple low-fidelity 'choose-the-hole' bench model transferred to real clinical fibreoptic intubation performance in an RCT](../claims/choose-the-hole-bench-model-predictive-validity-rct.md) [+W]
+- [IVR simulation does not significantly improve nursing students' skill performance](../claims/ivr-no-significant-skill-performance-effect.md) [-W]
+- [All three ECE modalities show significant positive effects, with real clinical interactions showing the largest pooled effect](../claims/ece-types-subgroup-effects.md) [~W]
+- [Predictive validity of airway simulators is rarely evaluated, and the two tracheal-intubation studies assessing it found no improvement in real-world neonatal intubation outcomes after simulator training](../claims/airway-simulator-predictive-validity-rarely-shown.md) [-W]
+- [Adverse effects of IVR simulation in nursing education are generally mild visual and vestibular symptoms](../claims/ivr-adverse-effects-mild-visual-vestibular.md) [~W]
+- [Feedback during distance simulation improved performance, while one at-home robotic surgery practice program showed no improvement](../claims/feedback-benefits-at-home-practice-null.md) [+W]
+- [Learner perceptions of GenAI-supported virtual patients were positive across 14 of the 15 reviewed studies](../claims/genai-vp-positive-learner-perceptions.md) [+W]
+- [Front-of-neck access simulators are severely under-validated, with only one study meeting inclusion criteria, and real-world predictive validity cannot ethically be evaluated for FONA](../claims/fona-simulators-undervalidated-single-study.md) [-W]
+- [In an RCT reviewed by this study, an LLM-based digital patient improved ophthalmology medical history-taking skills relative to control](../claims/llm-digital-patient-improves-history-taking-rct.md) [+W]
+- [Manikin-based simulation produced equal or superior competency outcomes versus traditional clinical practice, except in the Patient Safety domain](../claims/manikin-simulation-competency-versus-clinical.md) [+W]
+- [Two included studies allowed participants to act on feedback from an earlier simulation attempt, enabling a 'second go'](../claims/second-go-feedback-iteration-simulation.md) [~W]
+- [Performance-based assessments dominate the studied assessments in entry-level physical therapy education, with simulation-based the most common format](../claims/pt-education-assessments-performance-based-dominant.md) [+W]
+- [Virtual simulation teaching enhances learning outcomes and deepens professional cognition through repeated practice, trial-and-error, and error-correction feedback](../claims/vs-advantages-learning-outcomes.md) [+W]
+- [High-fidelity simulation improves ECT procedural skills substantially but does not reliably improve theoretical knowledge or confidence](../claims/hfs-ect-procedural-skills.md) [~W]
+- [Single-group studies uniformly reported improvement after distance simulation training in self-assessment, knowledge, or skills](../claims/single-group-prepost-all-improved.md) [~W]
+- [Included studies used a varied range of simulation modalities, from Deaf standardized patients to VR with manipulated audio and 360 video](../claims/varied-simulation-modalities-deaf-patient-education.md) [+W]
+- [A minority of nursing students report negative emotional responses to virtual simulation teaching, including fear, anxiety, and burnout](../claims/vs-negative-emotional-experiences.md) [~W]
+- [Validation quality does not consistently correlate with simulator fidelity, and high-fidelity VR simulators' superiority over simpler models for fibreoptic intubation has not been demonstrated](../claims/simulator-fidelity-does-not-track-validation-quality.md) [-W]
+- [Adding task interruptions to ALS simulation to increase realism did not improve technical or non-technical performance, including at 3-month retention](../claims/task-interruptions-no-performance-benefit.md) [~W]
+- [A social robotic LLM-enhanced virtual patient was rated higher than a conventional computer-based platform for authenticity and learning effect](../claims/robotic-vp-higher-authenticity-than-computer-platform.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice
@@ -227,6 +250,7 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Vocational education programs should let trainees experience and reflect on authentic errors, e.g. via error management training and negative knowledge-diaries](../strategies/error-management-training-negative-knowledge-diaries.md)
 - [Deliver a short post-exploration instructional video to complement science simulations](../strategies/short-post-simulation-video-strategy.md)
 - [Implement modelling as short, computer-simulation-supported activities at the high school level](../strategies/short-computer-supported-high-school-modelling-activities.md)
+- [Integrate AI-driven simulation into dental curricula as a complement to traditional training, attending to domain-specific effectiveness and the lack of long-term validated outcomes](../strategies/ads-curricular-integration-strategy.md)
 
 ## Key Sources
 - Garris, R., Ahlers, R., & Driskell, J. E. (2002). Games, motivation, and learning: A research and practice model. *Simulation & Gaming, 33*(4), 441–467. [doi:10.1177/1046878102238607](https://doi.org/10.1177/1046878102238607)

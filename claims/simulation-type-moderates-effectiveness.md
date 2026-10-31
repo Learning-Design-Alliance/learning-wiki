@@ -53,3 +53,4 @@ Metaregression moderator analysis of simulation type. Document-based simulations
 - [Virtual patients blended with traditional education show moderate positive skills effects, but the pooled interval crosses zero](vp-blended-skills-mixed.md) — related
 - [One RCT found AI-assisted simulation inferior to standardized patient simulation for breast self-examination skills](ai-simulation-inferior-bse-skills.md) — related
 - [Single-center simulation studies were more likely to demonstrate significant patient-outcome improvements than multicenter studies](single-center-studies-more-likely-significant-patient-outcomes.md) — related
+- [All three ECE modalities show significant positive effects, with real clinical interactions showing the largest pooled effect](ece-types-subgroup-effects.md) — related

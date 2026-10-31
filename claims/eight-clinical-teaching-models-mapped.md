@@ -50,3 +50,4 @@ Scoping review following the Joanna Briggs Institute guideline, searching CINAHL
 - [Evidence on clinical teaching models is concentrated in high-income settings: most included studies were conducted in the United States and none originated from Africa](clinical-teaching-models-us-concentration.md) — related
 - [Contextual resource constraints in low- and middle-income settings may limit implementation of structured, feedback-intensive clinical teaching models](resource-constraints-limit-model-transferability.md) — related
 - [RaT research is heavily concentrated in Western healthcare systems, with no published studies from the GCC region](rat-evidence-western-concentration-gcc-gap.md) — related
+- [A scoping review identified 48 studies of technology-based teaching for health students' stroke clinical skills, most published recently and of lower methodological quality](48-studies-tech-teaching-stroke-skills-review.md) — related

@@ -31,7 +31,7 @@ sources:
 # Technology should augment, not supplant, learning processes in student-centered environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 160 claims (100 for, 48 mixed, 12 against) · 128 studies (30 theoretical, 28 qualitative, 26 review, 21 causal, 12 design, 10 associational, 1 quant-synthesis), `q1`–`q4` · 8 of 128 report an effect size · 156 claims rest on one study
+> **Evidence** · 161 claims (100 for, 49 mixed, 12 against) · 129 studies (30 theoretical, 28 qualitative, 26 review, 22 causal, 12 design, 10 associational, 1 quant-synthesis), `q1`–`q4` · 8 of 129 report an effect size · 157 claims rest on one study
 
 ## Conditional relationship
 
@@ -283,6 +283,7 @@ Assisted performance, unaided immediate performance, delayed retention, transfer
 - [A subset of students showed over-reliance and algorithmic conformity patterns, consulting GenAI before independent analysis or revising to match AI output](../claims/over-reliance-algorithmic-conformity-risk.md) [-W]
 - [GenAI chatbot support increased executive help-seeking but reduced metacognitive engagement compared to human expert support](../claims/genai-chatbot-increased-executive-help-seeking-reduced-metacognition.md) [-W]
 - [Increasing the proportion of simulation within a nursing course shows mixed effects on competency outcomes (Hayden et al. trial)](../claims/more-vs-less-simulation-mixed.md) [~W]
+- [Instructor feedback during VR laparoscopy training reduced time and repetitions to proficiency, but the no-feedback group achieved a higher final performance score](../claims/instructor-feedback-vr-training-mixed-effects.md) [~W]
 
 ## Related Principles
 

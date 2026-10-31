@@ -70,3 +70,4 @@ Manual content analysis of 115 question papers from University of Agriculture Fa
 - [Students perform better overall on LOCS exam questions than on HOCS exam questions](locs-exam-questions-outperform-hocs.md) — related
 - [Students answer lower-taxonomy-category questions more frequently, but only by a factor of about 2](lower-taxonomy-questions-answered-more.md) — related
 - [Grading time varied systematically with Bloom's taxonomy category: procedural knowledge was fastest to grade and conceptual knowledge slowest](grading-time-varies-with-bloom-taxonomy-category.md) — related
+- [Knowledge-level assessments (written and oral exams) are underrepresented in the physical therapy assessment literature relative to performance-based assessments](pt-knows-level-assessments-underrepresented.md) — related

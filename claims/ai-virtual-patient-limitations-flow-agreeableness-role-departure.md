@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: fang-eric-kin-meng-2026
     resource: "https://doi.org/10.1186/s12909-026-10028-w"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`–`q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Reported limitations include lack of natural conversational flow, lack of emotional depth, excessive agreeableness, overly polished answers, deficient clinical accuracy, and inappropriately departing from the intended patient role, such as prematurely giving away the diagnosis. [→ Fang Eric Kin Meng 2026](#fang-eric-kin-meng-2026)
@@ -72,3 +73,4 @@ Subgroup analysis of studies published before 2023, prior to the LLM era: the re
 - [AWE feedback has limited depth and questionable accuracy for evaluating complex writing aspects](awe-limited-feedback-depth-accuracy-complex-writing.md) — related
 - [AI-generated virtual patients in HPE are used mainly for teaching and learning communication skills, diagnostic reasoning and management reasoning, with assessment a minority use case](ai-virtual-patients-hpe-use-case-range.md) — related
 - [Outcome evaluation of AI-generated virtual patients in HPE is concentrated at Kirkpatrick level 1, with no studies reporting level 3 or 4 outcomes](ai-virtual-patients-kirkpatrick-level-1-dominant.md) — related
+- [Reviewed GenAI virtual patients show underdeveloped emotional-behavioral complexity, limited adaptability beyond dialog, and no memory across interactions](genai-vp-emotional-complexity-and-memory-limitations.md) — a narrower finding that bears on this claim

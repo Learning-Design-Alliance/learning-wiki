@@ -13,7 +13,7 @@ generated:
 # Safety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 106 claims (75 show a difference, 21 mixed, 10 no difference) · 60 studies (20 associational, 14 review, 7 causal, 6 quant-synthesis, 6 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 6 of 60 report an effect size · 106 claims rest on one study
+> **Evidence** · 108 claims (76 show a difference, 22 mixed, 10 no difference) · 61 studies (20 associational, 15 review, 7 causal, 6 quant-synthesis, 6 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 6 of 61 report an effect size · 108 claims rest on one study
 
 ## Description
 Safety here means both being and feeling physically and psychologically secure in the places a learner spends time: home, school or work, the neighbourhood and the wider community. It covers violence and crime, bullying and cyberbullying, and, from adolescence on, a learner's own risk-taking behaviour such as substance use. It matters for learning because a learner who feels safe can focus on the task, while one who feels unsafe tends to miss school and take part less in class, losing learning opportunities. For adults, the LVN adds that learners who had bad experiences of school need to feel safe enough to learn again. It is measured with self-report bullying and victimisation scales, neighbourhood questionnaires and screening tools for risky behaviour. It overlaps with [adverse experiences](adverse-experiences.md), since feeling unsafe can be traumatic, and with [belonging](belonging.md).
@@ -142,6 +142,8 @@ Safety here means both being and feeling physically and psychologically secure i
 - [Virtual and remote labs provide additional benefits: distance learning support, accessibility for handicapped people, and safety for dangerous experimentation](../claims/virtual-remote-labs-additional-benefits.md) [+W] — instruction changes it
 - [Peer tutoring contributes to psychological safety and reduced anxiety in demanding simulation learning environments](../claims/peer-tutoring-psychological-safety-anxiety.md) [+M] — instruction changes it
 - [Special education and violence variables relate to academic achievement, with absence of reading disability (ES = 1.266) showing very large effects and peer victimization (ES = -.292) a medium negative effect](../claims/special-education-violence-effects-academic-achievement-meta-review.md) [+M] — learners who differ on it differ in outcomes
+- [The most frequently reported challenge of virtual simulation teaching is its lack of realism, alongside operational complexity, English-language demands, cultural mismatch, and adverse physical reactions](../claims/vs-challenges-realism-and-usability.md) [~M] — instruction changes it
+- [The vast majority of nursing students report positive emotional experiences in virtual simulation teaching, including excitement, reduced psychological burden, and boosted confidence](../claims/vs-positive-emotional-experiences.md) [+M] — instruction changes it
 
 ## Measures
 - **Electronic Bullying Questionnaire** (Kowalski & Limber, 2007): self-report of how often a person has been cyberbullied or has cyberbullied others.

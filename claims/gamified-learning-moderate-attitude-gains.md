@@ -52,3 +52,4 @@ Random-effects meta-analysis of four randomized controlled trials pooling 434 st
 - [Standalone serious games show large, relatively consistent effects on knowledge acquisition compared with other gamification categories](serious-games-consistent-knowledge-effects.md) — related
 - [Gamified flipped classroom/animation knowledge effects are inconclusive due to few studies and extreme heterogeneity](gamified-flipped-classroom-inconclusive-knowledge.md) — related
 - [STEM educational practices have a moderate positive effect on students' attitude toward the course (REM ES = 0.620)](stem-practices-moderate-attitude-effect.md) — related
+- [Gamified mobile microlearning improved written exam scores but not global clinical performance assessments in psychiatry clerkship students](gamified-microlearning-exam-only.md) — related

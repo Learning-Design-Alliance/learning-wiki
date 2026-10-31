@@ -58,3 +58,5 @@ Primary outcome domains B and E in the within-participants comparison of 20 stud
 - [Corrective feedback plus either GLA significantly improved students' safety behavior in VR, with no difference between re-experiencing and self-explaining](gla-corrective-feedback-improve-safety-vr.md) — related
 - [Several included studies found haptic VR training equivalent rather than superior to conventional dental training](ir-dental-equivalence-mixed-findings.md) — a narrower finding that bears on this claim
 - [Virtual haptic drilling training achieved outcomes similar to conventional practice in less time in restorative dentistry](ir-shortens-dental-training-duration.md) — related
+- [Distance simulation of technical skills achieves skill outcomes comparable to traditional on-site training in most comparative studies](distance-simulation-comparable-to-onsite-technical-skills.md) — a broader claim this one bears on
+- [VR-enhanced basic robotic skills training sometimes required more training repetitions than conventional training to reach equivalent proficiency](vr-training-more-repetitions-to-proficiency.md) — related

@@ -90,3 +90,4 @@ Non-randomized trial of the Chisanbop finger counting method (Stegemann, 2014); 
 - [Finger gnosia is associated with arithmetic skills in some studies but not others, with age and cognitive profile moderating the relation](finger-gnosia-arithmetic-mixed-evidence.md) — related
 - [Suppressing or restricting hand movements disrupts children's arithmetic performance, suggesting gestures play a functional role in calculation](hand-movement-interference-disrupts-calculation.md) — related
 - [Finger use is related to arithmetic performance in children, but the strength of this relation decreases significantly over development](finger-use-arithmetic-relation-decreases-over-time.md) — related
+- [Study design moderates reported effects: RCTs gave more conservative or mixed results while non-randomized and uncontrolled designs more consistently reported positive effects](design-moderates-ed-tech-effects.md) — a broader claim this one bears on

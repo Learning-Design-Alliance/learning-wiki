@@ -53,3 +53,4 @@ Review synthesis of modality comparisons including a randomized layperson trial 
 - [In a randomised study with 40 CPR-naive lay adults in Tibet, 10 minutes of TibetCPR training produced rhythm-stabilisation gains that substantially exceeded unguided practice and transferred to an unscaffolded post-test](tibetcpr-rhythm-stabilisation-exceeds-unguided-practice.md) — related
 - [Spaced CPR training is associated with improved skill retention compared with single-session massed instruction](spaced-cpr-training-improves-retention.md) — related
 - [Real-time audio feedback from the CPR Tutor is followed by a short-term decrease in Error Rates across all five target CPR classes within 10 seconds](cpr-tutor-short-term-error-rate-decrease.md) — related
+- [Combining video-based feedback with verbal feedback enhanced both skill acquisition and knowledge retention](video-plus-verbal-feedback-enhances-retention.md) — related

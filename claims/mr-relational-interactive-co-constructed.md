@@ -54,3 +54,5 @@ Qualitative synthesis of a second set of data initially coded as 'other', which 
 - [Metacognitive regulation in PT clinical reasoning fits Johnson's three types (self-observation, self-judgment, self-reaction), with all types represented in 58–75% of included articles](mr-types-fit-johnson-taxonomy-pt.md) — related
 - [Inductive analysis identified a new 'focal' characteristic of MR with four focals: clinical, ethical, epistemological and ontological](four-focals-mr-analysis-grids.md) — related
 - [MR timing codes fit the literature except pre-task timing (underrepresented at 14%), and tasks are dominated by global management (60%) and cognitive (44%)](mr-timing-task-distribution-pt-review.md) — related
+- [Errors in clinical reasoning arise from 4 primary areas: inadequate knowledge, flawed data gathering, faulty data processing, or impaired metacognition](clinical-reasoning-errors-four-areas.md) — related
+- [Virtual environments favor clinical reasoning, self-regulation and peer collaboration, while physical environments engage critical reasoning, professionalism and communication abilities](virtual-physical-environments-different-competencies.md) — related

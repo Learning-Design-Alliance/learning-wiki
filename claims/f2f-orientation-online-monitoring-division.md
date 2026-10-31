@@ -48,3 +48,4 @@ Discussion of research question 3 findings from the review of 20 studies: face-t
 - [Introductory face-to-face meetings are the dominant strategy for stimulating social interaction in blended learning](introductory-f2f-meeting-stimulates-interaction.md) — related
 - [Students prioritize teacher interaction for face-to-face learning but content interaction for online learning](interaction-priority-f2f-teacher-online-content.md) — related
 - [Online professional development offers potential advantages of reduced travel costs, increased convenience, and community building among participants](online-pd-reduces-travel-supports-community.md) — related
+- [Physical meetings and chatting during online lectures were the most frequent forms of student–educator interaction reported in digital and blended histology and pathology education](student-educator-interaction-physical-meetings-chat.md) — related

@@ -13,7 +13,7 @@ generated:
 # Emotional Intelligence
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 57 claims (41 show a difference, 8 mixed, 8 no difference) · 40 studies (12 causal, 11 review, 9 associational, 6 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q4` · 11 of 40 report an effect size · 56 claims rest on one study
+> **Evidence** · 65 claims (43 show a difference, 14 mixed, 8 no difference) · 43 studies (13 review, 12 causal, 9 associational, 7 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q4` · 11 of 43 report an effect size · 64 claims rest on one study
 
 ## Description
 Emotional intelligence is the ability to perceive emotions accurately, use them to support thinking, understand them and manage them. It is measured either as an ability (performance tests) or as a self-reported trait. It correlates with academic achievement, more strongly in the humanities than in STEM subjects, and overlaps with [affect regulation](affect-regulation.md) and with social-emotional skills that programmes aim to build.
@@ -93,6 +93,14 @@ Emotional intelligence is the ability to perceive emotions accurately, use them 
 - [Emotional e-regulation and e-self-control of impulsiveness are the strongest SEM predictors of fewer habitual digital behaviors across genders and age groups, in cross-sectional data](../claims/e-regulation-e-self-control-strongest-predictors.md) [+M] — learners who differ on it differ in outcomes
 - [Social e-competency is a positive statistical predictor of habitual digital behaviors, invariant across gender and age groups, in cross-sectional data](../claims/social-e-competency-positive-predictor.md) [+W] — learners who differ on it differ in outcomes
 - [Socio-emotional e-competencies correlate negatively with habitual digital behaviors in secondary students, except social e-competency (weakly positive) and emotional e-awareness (no significant correlation)](../claims/e-competencies-negative-relation-habitual-digital-behaviors.md) [~M] — learners who differ on it differ in outcomes
+- [Emotion regulation may reduce inappropriate prescriptions, while empathy shows no significant correlation with prescription volume or quality](../claims/emotion-regulation-prescribing-quality.md) [~W] — learners who differ on it differ in outcomes
+- [Emotional competence enhances diagnostic and therapeutic clinical reasoning most clearly in life-threatening emergency situations](../claims/ec-enhances-cr-in-life-threatening-emergencies.md) [~W] — learners who differ on it differ in outcomes
+- [Emotional regulation, especially tolerance of uncertainty, supports physicians' management of clinical uncertainty](../claims/emotion-regulation-supports-uncertainty-management.md) [+W] — learners who differ on it differ in outcomes
+- [Evidence for emotional competence improving clinical performance outside emergency and surgical contexts remains inconsistent, and empathy does not predict technical examination quality](../claims/ec-effects-uncertain-outside-emergency-contexts.md) [~W] — learners who differ on it differ in outcomes
+- [Evidence that emotional competence improves patient outcomes is limited and mixed](../claims/ec-patient-outcomes-limited-mixed.md) [~W] — learners who differ on it differ in outcomes
+- [Intrinsic motivation, resilience, emotional intelligence, and perceived social support show mostly positive associations with academic performance in medical students](../claims/protective-psychosocial-factors-positive-association-medical-students.md) [+W] — learners who differ on it differ in outcomes
+- [Single-study affective outcomes show mixed results: contrasting communication competency findings, greater emotional intelligence and stress reduction gains, and no significant cognitive load increase](../claims/ivr-single-study-affective-outcomes-mixed.md) [~W] — instruction changes it
+- [Work context, via acute stress and cognitive load, is a major moderator of emotional competence's impact on clinical reasoning](../claims/work-context-acute-stress-moderates-ec-cr.md) [~W] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

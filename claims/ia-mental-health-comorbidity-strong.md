@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: baghcheghi-nayereh-koohestani-hamid-reza-2026
     resource: "https://doi.org/10.1186/s40359-026-04883-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Across multiple included studies, internet addiction was strongly and consistently associated with depression, anxiety, and stress; the review calls this the strongest and most consistent finding. [→ Baghcheghi Nayereh; Koohestani Hamid Reza 2026](#baghcheghi-nayereh-koohestani-hamid-reza-2026)
@@ -53,3 +54,4 @@ The review's narrative synthesis reports, citing Sayed (2022), that Egyptian pha
 - [Internet use is a significant predictor of increased academic burnout among medical students](ia-predicts-academic-burnout.md) — related
 - [Reported prevalence of internet addiction among health sciences students varies widely across studies, from 6% to 84%](ia-prevalence-heterogeneity-health-sciences-students.md) — related
 - [Internet addiction and frequent smartphone use are associated with higher surface learning and lower deep learning among medical students](ia-surface-learning-deep-learning-association.md) — related
+- [Stress, anxiety, and depressive symptoms show predominantly negative associations with academic performance in medical students](stress-anxiety-depression-negative-association-medical-students.md) — related

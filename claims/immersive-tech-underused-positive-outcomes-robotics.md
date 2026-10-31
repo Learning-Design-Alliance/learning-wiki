@@ -83,3 +83,5 @@ Narrative synthesis of immersive-technology studies in Results §4.2.6, includin
 - [Formal learning context is a significant positive predictor of whether a robotics study reports quantifiable learning gains](formal-context-predicts-learning-gains-robotics.md) — related
 - [Integrating virtual reality and gamification increased students' learning outcomes, motivation, engagement, and self-efficacy](gamified-vr-increased-learning-outcomes-motivation-engagement-self-efficacy.md) — related
 - [Adult learners perceive immersive game-based platforms and interactive AI interfaces as effective mediums for enhancing learner-AI artifact-mediated interaction](immersive-platforms-interactive-interfaces-artifact-mediated.md) — related
+- [A social robotic LLM-enhanced virtual patient was rated higher than a conventional computer-based platform for authenticity and learning effect](robotic-vp-higher-authenticity-than-computer-platform.md) — related
+- [Immersive modalities, particularly virtual reality, are associated with higher perceived presence, engagement, and realism than less immersive formats](vr-immersion-higher-presence-engagement.md) — related

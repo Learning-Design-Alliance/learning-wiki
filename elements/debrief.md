@@ -14,7 +14,7 @@ generated:
 # Debrief
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 14 claims (11 for, 3 mixed) · 20 studies (9 quant-synthesis, 4 causal, 3 review, 2 qualitative, 1 associational, 1 design), `q1`–`q4` · 8 of 20 report an effect size · 8 claims rest on one study
+> **Evidence** · 15 claims (11 for, 4 mixed) · 21 studies (10 quant-synthesis, 4 causal, 3 review, 2 qualitative, 1 associational, 1 design), `q1`–`q4` · 8 of 21 report an effect size · 9 claims rest on one study
 
 ## Description
 A debrief is a facilitated reflective conversation conducted after a learning experience — a simulation, role-play, case discussion, experiment, or complex task — in which learners reconstruct what happened, analyze why, and draw out transferable lessons. It converts raw experience into articulated understanding, functioning as the sense-making phase of experiential learning cycles.
@@ -70,6 +70,7 @@ Debriefing is where much of the learning from experience is actually consolidate
 - [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](../claims/reflective-practice-evidence-mixed-in-professional-education.md) [~M]
 - [Students perceive debriefing and guided psychometric-property exploration as the most beneficial components of a simulated clinical course](../claims/debriefing-psychometric-instruction-valued.md) [+W]
 - [In the debriefings, students who observed a scenario via live video join facilitators in attempts to reconceptualise the experiences expressed by scenario participants, using audiovisual appearances as a resource](../claims/peer-students-reconceptualisation-supported.md) [+W]
+- [Debriefing presence shows a numerical trend toward stronger knowledge gains but the subgroup difference is not significant](../claims/ivr-debriefing-knowledge-subgroup-trend.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice
@@ -138,6 +139,7 @@ Debriefing is where much of the learning from experience is actually consolidate
 - [Send EQUIP data reports in advance of debriefs and use discussion protocols to guide data conversations](../strategies/advance-data-reports-with-debrief-protocols.md)
 - [Blend the PEARLS debrief with CHAT-guided facilitation to extend debriefing from the individual to the team and system](../strategies/blended-pearls-chat-debrief-strategy.md)
 - [Include debriefing with reflective questions after simulation sessions before receiving feedback](../strategies/debriefing-before-feedback-simulations.md)
+- [Deliver artistic experiential dementia education weekly over 4–8 weeks with direct interaction, guided creative expression, and facilitated reflective discussion](../strategies/art-based-dementia-education-implementation-guidelines.md)
 
 ## Key Sources
 - Fanning, R. M., & Gaba, D. M. (2007). The role of debriefing in simulation-based learning. *Simulation in Healthcare, 2*(2), 115–125. [doi:10.1097/SIH.0b013e3180315539](https://doi.org/10.1097/SIH.0b013e3180315539)
