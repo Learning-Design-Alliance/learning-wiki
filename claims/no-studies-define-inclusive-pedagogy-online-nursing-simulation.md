@@ -46,6 +46,6 @@ A scoping review of 38 papers published between 2011 and 2022 found that "No pri
 
 ## Related Claims
 - [The inclusion of students in the design of online simulation approaches is limited to one participatory co‐design approach](student-co-design-limited-to-one-study.md) — related
-- [Few studies position diversity among learners as a primary focus in online simulation‐based learning](few-studies-position-learner-diversity-as-primary-focus.md) — related
-- [Thirty‐eight papers published between 2011 and 2022 were included in the scoping review](38-papers-included-inclusive-pedagogy-scoping-review.md) — related
+- Few studies position diversity among learners as a primary focus in online simulation‐based learning — related
+- Thirty‐eight papers published between 2011 and 2022 were included in the scoping review — related
 - [Many commercial recorded simulations feature young, pale, well‐built actors, limiting diverse representation](commercial-simulations-lack-diverse-representation.md) — related

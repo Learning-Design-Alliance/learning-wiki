@@ -47,4 +47,4 @@ Network meta-analysis of 9 studies (615 trainees) on autonomous learning ability
 ## Related Claims
 - [PBL combined with clinical practice yields the largest improvement in medical record analysis scores versus LBL](pbl-clinical-practice-medical-record-scores.md) — related
 - [Multiple new teaching methods (PBL + CBL, CBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on theoretical scores](new-methods-outperform-lbl-theoretical-scores.md) — related
-- [TBL is associated with improved self-study ability, communication skills, and teamwork ability versus LBL](tbl-improves-self-study-communication-teamwork.md) — related
+- [In Chinese neurology education, TBL alone or combined with other methods is associated with improved self-study ability, communication skills, and teamwork ability versus LBL](tbl-improves-self-study-communication-teamwork.md) — related

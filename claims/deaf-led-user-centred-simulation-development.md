@@ -48,4 +48,4 @@ Qualitative synthesis of intervention development across the six studies. Two st
 - [Simulation interventions showed positive usability and feasibility, with technical preparation needs sometimes causing non-completion](usability-feasibility-technical-issues.md) — related
 - [Two included studies allowed participants to act on feedback from an earlier simulation attempt, enabling a 'second go'](second-go-feedback-iteration-simulation.md) — related
 - [Included studies used a varied range of simulation modalities, from Deaf standardized patients to VR with manipulated audio and 360 video](varied-simulation-modalities-deaf-patient-education.md) — related
-- [There is no evidence of public patient involvement in any of the reviewed studies](no-public-patient-involvement-reviewed-studies.md) — reports the opposite
+- There is no evidence of public patient involvement in any of the reviewed studies — reports the opposite

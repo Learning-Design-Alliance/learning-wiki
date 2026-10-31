@@ -55,4 +55,4 @@ Standardised Wellbeing Scale subsection of the review's Pastoral theme. The revi
 - [Teacher-student relationship measurement in middle/secondary wellbeing research is highly varied and mostly relies on tools formulated for primary school relationships](tsr-measurement-primary-tools-secondary-wellbeing-studies.md) — related
 - Marked heterogeneity of assessment methods, many lacking formal validation, limits comparability between studies and standardisation of the field — a broader claim this one bears on
 - [More longitudinal studies are needed to see if the effects are maintained over time.](more-longitudinal-studies-needed-to-see-if-effects-maintained.md) — related
-- [The reviewed articles did not report studies that assessed nurses' knowledge using a specific and/or standardised tool designed to evaluate that.](no-standardised-tool-to-assess-nurses-knowledge.md) — related
+- The reviewed articles did not report studies that assessed nurses' knowledge using a specific and/or standardised tool designed to evaluate that. — related

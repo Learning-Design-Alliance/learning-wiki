@@ -17,7 +17,7 @@ sources:
 # Future validation studies should build on existing assessment tools rather than develop new ones
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review recommends that future studies focus on gathering additional validity data on existing assessment tools instead of developing new ones, noting that of the abundance of developed tools for laparoscopic surgery, only a few have been investigated in more than one paper. It further suggests that future studies evaluating training interventions should use assessment tools supported by sufficient validity evidence. The recommendation follows from the review's finding of 31 different assessment tools with limited validity evidence for many of them.
@@ -39,7 +39,6 @@ The review recommends that future studies focus on gathering additional validity
 ## Claims
 
 - [Laparoscopic assessment tools dominate while open and robotic assessment tools are scarce](../claims/assessment-tool-abundance-laparoscopic-vs-open-robotic.md) [+W]
-- [Reporting of the validity source consequences is largely absent from identified assessment studies](../claims/validity-consequences-underreported-surgical-assessment.md) [+W]
 
 ## Related Strategies
 - 

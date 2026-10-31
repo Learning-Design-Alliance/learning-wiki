@@ -17,7 +17,7 @@ sources:
 # Promote the flipped classroom in low-resource settings using free digital tools, peer instruction, and group discussions.
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 1 mixed, 1 against) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 against) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article's conclusions recommend concrete steps for low-resource settings: "institutions should leverage free digital tools and open educational resources; prioritize low-cost, high-impact in-class strategies such as peer instruction and group discussions; and maximize existing infrastructure through community collaboration". This strategy adapts the flipped classroom to settings where expensive technology or new infrastructure is unavailable.
@@ -42,7 +42,6 @@ The article's conclusions recommend concrete steps for low-resource settings: "i
 - [Flipped classroom instruction is associated with higher student satisfaction than traditional instruction in medical education (SMD 0.82).](../claims/flipped-classroom-higher-student-satisfaction-medical-education.md) [+W]
 - [The flipped classroom effect on knowledge scores is larger in basic science subjects than in clinical or public health subjects.](../claims/flipped-classroom-larger-effect-basic-science-subjects.md) [+W]
 - [Publication bias inflates flipped classroom effect estimates for knowledge outcomes but not for baseline knowledge.](../claims/flipped-classroom-publication-bias-knowledge-outcomes.md) [-W]
-- [Baseline knowledge differences between flipped classroom and control groups are small and may inflate final knowledge effect estimates.](../claims/flipped-classroom-small-baseline-knowledge-differences.md) [~W]
 
 ## Related Strategies
 

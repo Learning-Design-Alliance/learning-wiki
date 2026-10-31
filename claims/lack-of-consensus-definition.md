@@ -46,9 +46,9 @@ The review's impact section states "this review highlights that the lack of cons
 
 
 ## Related Claims
-- [The scoping review identifies 43 studies on nurses' and midwives' experiences of clinical supervision across 16 countries.](43-studies-clinical-supervision-16-countries.md) — related
+- The scoping review identifies 43 studies on nurses' and midwives' experiences of clinical supervision across 16 countries. — related
 - [No studies were identified that explored nurses' and midwives' experiences of online clinical supervision.](no-studies-online-clinical-supervision.md) — related
-- [Most studies on nurses' and midwives' experiences of clinical supervision focus on group supervision models.](group-supervision-dominates-research.md) — related
-- [Nine of the 39 studies did not define clinical supervision.](nine-studies-no-definition.md) — a narrower finding that bears on this claim
-- [The most frequent terms used in definitions of clinical supervision are 'professional' and 'reflection'.](frequent-terms-in-definitions.md) — a narrower finding that bears on this claim
+- Most studies on nurses' and midwives' experiences of clinical supervision focus on group supervision models. — related
+- Nine of the 39 studies did not define clinical supervision. — a narrower finding that bears on this claim
+- The most frequent terms used in definitions of clinical supervision are 'professional' and 'reflection'. — a narrower finding that bears on this claim
 - [Only one study compared group versus one-to-one clinical supervision, revealing participant preference for group format.](one-study-compared-group-vs-one-to-one.md) — related

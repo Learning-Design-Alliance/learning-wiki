@@ -66,5 +66,5 @@ Publication-bias analyses using multilevel Egger's regression and power-enhanced
 - Funnel plot and Egger's test show no statistical evidence of publication bias for the composite household-disadvantage selection effect — related
 - No evidence of publication bias in the SDL meta-analysis — related
 - [Publication bias is present for theoretical knowledge outcomes but not for clinical practice performance in SP+CBL meta-analysis.](sp-cbl-publication-bias-asymmetric.md) — related
-- [Publication bias tests found no statistically significant evidence of publication bias](no-significant-publication-bias-detected.md) — related
+- Publication bias tests found no statistically significant evidence of publication bias — related
 - [Publication bias is present in the flipped classroom meta-analysis evidence base](publication-bias-flipped-classroom-meta-analysis.md) — related

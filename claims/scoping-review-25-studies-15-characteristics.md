@@ -50,4 +50,4 @@ Scoping review following PRISMA-ScR guidelines, searching Web of Science, Scopus
 - [Technology is consistently identified as a critical facilitator of nurse managers' decision-making](technology-facilitates-nurse-manager-decision-making.md) — related
 - [Electronic risk management systems are identified as the main facilitators of nurse managers' decision-making](electronic-risk-management-systems-main-facilitators.md) — related
 - [High stress and healthcare environment complexity are the primary barriers to effective decision-making](stress-complexity-primary-barriers-decision-making.md) — related
-- [Systematic review identifies 25 scholarly articles on innovative pedagogical practices in higher education published between 2015 and 2023](systematic-review-25-articles-innovative-pedagogical-practices.md) — related
+- Systematic review identifies 25 scholarly articles on innovative pedagogical practices in higher education published between 2015 and 2023 — related

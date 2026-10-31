@@ -45,6 +45,6 @@ The review reports that "Only one study compared nurses' and midwives' experienc
 
 
 ## Related Claims
-- [The scoping review identifies 43 studies on nurses' and midwives' experiences of clinical supervision across 16 countries.](43-studies-clinical-supervision-16-countries.md) — related
-- [Most studies on nurses' and midwives' experiences of clinical supervision focus on group supervision models.](group-supervision-dominates-research.md) — related
+- The scoping review identifies 43 studies on nurses' and midwives' experiences of clinical supervision across 16 countries. — related
+- Most studies on nurses' and midwives' experiences of clinical supervision focus on group supervision models. — related
 - [The review identifies a lack of consensus on a clinical supervision definition, causing ambiguity and reduced use of this support.](lack-of-consensus-definition.md) — related

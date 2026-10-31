@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-10-31
 sources:
   - id: juntunen-2025
     resource: "https://doi.org/10.1111/jan.16347"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The second synthesized finding comprises mentors' competencies in supporting students to work as a team, supporting shared learning among students, and supporting students' and teams' self-efficacy by standing back and encouraging autonomy. [→ Juntunen 2025](#juntunen-2025)

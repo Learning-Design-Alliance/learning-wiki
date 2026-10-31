@@ -62,4 +62,4 @@ The review reports, citing Yu (2023), a mixed-methods study of university studen
 - [Review-reported study: locally produced videos enhanced Chilean EFL learners' English language skills and motivation](review-reported-videos-enhance-efl-skills-motivation.md) — related
 - [Gamification improved CPR learning among younger learners compared with conventional teaching methods](gamification-effective-cpr-younger-learners.md) — related
 - [Active learning methods significantly improve safety motivation and internal locus of control compared to traditional passive instruction.](active-learning-improves-safety-motivation-locus-of-control.md) — related
-- [Review notes a decline in gamification-in-TEFL publications since 2018, hypothesizing a shift toward AI-driven and broader technology-enhanced methods](decline-in-gamification-publications-since-2018-ai-shift.md) — related
+- Review notes a decline in gamification-in-TEFL publications since 2018, hypothesizing a shift toward AI-driven and broader technology-enhanced methods — related

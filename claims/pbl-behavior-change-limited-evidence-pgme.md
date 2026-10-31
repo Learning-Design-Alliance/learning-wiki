@@ -50,4 +50,4 @@ Synthesis of three studies assessing subjective behavior change. Holmes et al. f
 - [Reviewed peer-tutoring simulation studies mostly reached only Kirkpatrick Level 2, with no assessment of behavior change or clinical-practice results](kirkpatrick-level2-ceiling-peer-tutoring-sbe.md) — related
 - [Objective knowledge assessments show no significant improvement after PBL in family medicine residency, with gains comparable to lectures](pbl-no-significant-objective-knowledge-gains-pgme.md) — related
 - [PBL is associated with improved self-reported behavioural outcomes in PGME residents](pbl-improves-self-reported-behaviours.md) — reports the opposite
-- [Of 4310 screened abstracts, 21 studies of PBL in PGME were included, spanning eight specialties and four Kirkpatrick outcome levels](pbl-pgme-21-studies-kirkpatrick-coverage.md) — related
+- Of 4310 screened abstracts, 21 studies of PBL in PGME were included, spanning eight specialties and four Kirkpatrick outcome levels — related

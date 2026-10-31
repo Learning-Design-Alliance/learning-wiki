@@ -46,4 +46,4 @@ The review's own synthesis of the 33 included studies reports that "Increase in 
 
 ## Related Claims
 - [Feedback was the most commonly employed gamification element in the reviewed TEFL studies, followed by challenges](scoping-review-feedback-most-common-gamification-element-tefl.md) — related
-- [Review notes a decline in gamification-in-TEFL publications since 2018, hypothesizing a shift toward AI-driven and broader technology-enhanced methods](decline-in-gamification-publications-since-2018-ai-shift.md) — related
+- Review notes a decline in gamification-in-TEFL publications since 2018, hypothesizing a shift toward AI-driven and broader technology-enhanced methods — related

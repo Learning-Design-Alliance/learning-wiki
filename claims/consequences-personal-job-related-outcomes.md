@@ -11,8 +11,9 @@ evidence_strength: weak
 newest_evidence: 2024
 sources:
   - id: diema-2024
-    title: "Diema, K.K., Dulamsuren, D., & Lee, T.W. (2024). Clinical Readiness for Practice of Nursing Students: A Concept Analysis. International Journal of Environmental Research and Public Health."
-    author: "Diema, K.K., Dulamsuren, D., & Lee, T.W."
+    resource: "https://doi.org/10.3390/ijerph21121610"
+    title: "Konlan, K. D., Damiran, D., & Lee, T. W. (2024). Clinical Readiness for Practice of Nursing Students: A Concept Analysis. International Journal of Environmental Research and Public Health. [doi:10.3390/ijerph21121610](https://doi.org/10.3390/ijerph21121610)"
+    author: "Konlan, K. D., Damiran, D., & Lee, T. W."
     q: 2
     i: "?"
     kind: review
@@ -32,7 +33,7 @@ sources:
 
 ### Diema 2024
 
-Diema, K.K., Dulamsuren, D., & Lee, T.W. (2024). Clinical Readiness for Practice of Nursing Students: A Concept Analysis. International Journal of Environmental Research and Public Health.
+Konlan, K. D., Damiran, D., & Lee, T. W. (2024). Clinical Readiness for Practice of Nursing Students: A Concept Analysis. International Journal of Environmental Research and Public Health. [doi:10.3390/ijerph21121610](https://doi.org/10.3390/ijerph21121610)
 
 `q2 · i?` · `review · r2`
 

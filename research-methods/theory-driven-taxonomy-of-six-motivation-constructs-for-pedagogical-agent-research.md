@@ -12,7 +12,7 @@ generated:
 # Theory-driven taxonomy of six motivation constructs for pedagogical agent research
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 6 claims (3 for, 3 against) · 2 studies (1 quant-synthesis, 1 review), `q3` · 1 of 2 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (2 for, 3 against) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article organizes PA motivation research around four prominent theories — social cognitive theory, situated expectancy-value theory, interest theory, and self-determination theory — arguing that lumping motivation into one meta-construct is "theoretically unstable." From these theories it derives six discrete constructs: "self-efficacy expectancies (SCT, SEVT), subjective task values or task relevance (SEVT), utility value (SEVT), engagement (SEVT), interest (interest theory), and intrinsic motivation (SDT)," plus a broad "motivation" category for unspecified measures. The taxonomy structures the seven meta-analyses and is offered as categories future PA researchers can use for theory-driven measurement.
@@ -28,7 +28,6 @@ The article organizes PA motivation research around four prominent theories — 
 - [Pedagogical agents do not significantly affect learners' value beliefs (g = 0.09, non-significant)](../claims/pa-no-effect-value-beliefs.md) [-M]
 - [Pedagogical agents do not significantly affect learners' engagement (g = -0.02, non-significant)](../claims/pa-no-effect-engagement.md) [-M]
 - [Pedagogical agents show essentially no effect on learners' intrinsic motivation (g = 0.00)](../claims/pa-no-effect-intrinsic-motivation.md) [-M]
-- [Half of experimental studies of online motivational design in health professions education target intrinsic value beliefs, making it the most frequently targeted motivational construct](../claims/half-of-motivational-design-studies-target-intrinsic-value-beliefs.md) [+M]
 
 ## Related Research Methods
 -

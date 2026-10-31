@@ -51,4 +51,3 @@ The review's own study-identification results: 3353 records found, 605 duplicate
 - [No study compared the effectiveness of different wound care educational approaches or against traditional lectures](no-comparative-effectiveness-wound-care-methods.md) — related
 - [Medical students and interns poorly identified pressure ulcer risk in a patient-safety simulation](poor-pressure-ulcer-risk-identification-room-of-horrors.md) — related
 - [Interprofessional teams identified pressure ulcer risks better than individuals in a simulation study](interprofessional-teams-better-pressure-ulcer-hazard-identification.md) — related
-- [A search of five databases yielded 1020 papers, of which 703 remained after deduplication and 190 were eligible for full‐text review](search-yielded-1020-papers-190-full-text-review.md)

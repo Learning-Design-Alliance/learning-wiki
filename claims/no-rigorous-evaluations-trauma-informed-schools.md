@@ -58,4 +58,4 @@ Systematic review searching nine electronic databases, registers, gray literatur
 - [There is not yet much rigorous evidence to guide decision making around instructional and support strategies for adult learners](little-rigorous-evidence-adult-learner-strategies.md) — related
 - All included simulation-based research studies were judged to have high or critical risk of bias, and only 16 of 2481 screened studies met Level 4 inclusion criteria — related
 - Only 112 of 306 studies were potentially suitable for meta-analysis, with most excluded for design and reporting inadequacies — related
-- [The systematic review screened 2457 articles and included 7 studies meeting all inclusion criteria](review-screened-2457-included-7-studies.md) — reports the opposite
+- The systematic review screened 2457 articles and included 7 studies meeting all inclusion criteria — reports the opposite

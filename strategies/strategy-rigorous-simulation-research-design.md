@@ -17,7 +17,7 @@ sources:
 # Future simulation research should use rigorous designs, standardized tools, and transparent reporting
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The review recommends that future research strengthen study designs through adequate randomization, allocation concealment, and blinding, and employ "standardized measurement tools, and transparent reporting." Standardizing control conditions is also advised to enhance comparability across studies and clarify the benefits of simulation-based learning.
@@ -40,7 +40,6 @@ The review recommends that future research strengthen study designs through adeq
 
 ## Claims
 
-- [Methodological quality of included studies is generally low, with only one RCT rated high quality](../claims/simulation-studies-low-methodological-quality.md) [+W]
 
 ## Related Strategies
 

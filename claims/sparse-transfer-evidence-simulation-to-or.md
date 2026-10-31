@@ -46,7 +46,7 @@ The review's Discussion states that "evidence supporting the transferability of 
 
 ## Related Claims
 - [AR simulators for tumor localization and intraoperative guidance were tested on small patient subsets, limiting generalizability](ar-simulation-small-samples-limited-generalizability.md) — related
-- [Scoping review identified 51 studies of simulation in neuro-oncological surgery, with AR the most frequently studied technology (25 of 51 articles)](scoping-review-51-simulation-studies-neuro-oncology.md) — related
+- Scoping review identified 51 studies of simulation in neuro-oncological surgery, with AR the most frequently studied technology (25 of 51 articles) — related
 - [Most reviewed simulation studies demonstrated face and content validity, but few assessed construct or predictive validity](simulation-validity-face-content-yes-predictive-rare.md) — related
 - [No longitudinal studies or RCTs demonstrate that AI-acquired skills transfer to the operating room](no-longitudinal-evidence-ai-skill-transfer-or.md) — related
 - [Evidence on transfer to clinical behavior and patient outcomes is scarce: only 2 studies reached Kirkpatrick level 3 and 1 reached level 4](transfer-and-patient-outcomes-scarce.md) — related

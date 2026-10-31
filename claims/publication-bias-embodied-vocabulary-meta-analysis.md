@@ -64,5 +64,5 @@ Multilevel Egger's regression tests on the meta-analytic corpus showed a signifi
 - [Publication bias could not be ruled out in the pooled teacher-student SEC estimate, though the association persisted across sensitivity analyses](sec-pooled-estimate-publication-bias-caution.md) — related
 - [Publication bias tests indicate the pooled flipped classroom effect is unlikely to be inflated by publication bias](flipped-classroom-meta-analysis-publication-bias-robust.md) — related
 - [Funnel-plot asymmetry suggests small studies with negative or null results may be missing from the simulation-versus-clinical meta-analysis](funnel-plot-missing-negative-studies.md) — related
-- [Publication bias is present in the OSCE reliability literature, with funnel plot asymmetry detected by Egger's regression test (p < 0.001)](osce-reliability-publication-bias-detected.md) — related
-- [Publication bias is present in studies of theoretical scores comparing 3D + PBL with LBL](publication-bias-theoretical-scores-3d-pbl.md) — related
+- Publication bias is present in the OSCE reliability literature, with funnel plot asymmetry detected by Egger's regression test (p < 0.001) — related
+- Publication bias is present in studies of theoretical scores comparing 3D + PBL with LBL — related

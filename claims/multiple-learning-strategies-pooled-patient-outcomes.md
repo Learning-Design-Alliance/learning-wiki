@@ -46,6 +46,6 @@ The review attributes to Cook et al. the finding that "multiple learning strateg
 
 ## Related Claims
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
-- [Fewer studies assessed Kirkpatrick level 3 behaviour and level 4 patient outcomes, and higher‐level feature combinations remain unclear](usra-few-high-kirkpatrick-studies.md) — related
+- Fewer studies assessed Kirkpatrick level 3 behaviour and level 4 patient outcomes, and higher‐level feature combinations remain unclear — related
 - [Expert instructor presence, repetitive practice and multiple learning strategies were the most common instructional design features](usra-common-design-features.md) — related
 - [Isolated feature comparisons: multiple learning strategies with repetitive practice increased self‐reported block success, and AI‐assisted nerve identification reduced patient complications](usra-isolated-feature-trials.md) — a narrower finding that bears on this claim

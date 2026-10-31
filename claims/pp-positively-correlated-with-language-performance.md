@@ -11,8 +11,9 @@ evidence_strength: moderate
 newest_evidence: 2025
 sources:
   - id: jia-2025
-    title: "Jia, M., Xin, T., Lina, Z., Baoling, Z., & Li, M. (2025). An analysis of the empirical research on SL/FL teaching and learning based on positive psychology: a systematic literature review. BMC Psychology, 13, 319."
-    author: "Jia, M., Xin, T., Lina, Z., Baoling, Z., & Li, M."
+    resource: "https://doi.org/10.1186/s40359-025-02576-5"
+    title: "Miao, J., Tian, X., Zhang, L., Zhang, B., & Ma, L. (2025). An analysis of the empirical research on SL/FL teaching and learning based on positive psychology: a systematic literature review. BMC Psychology, 13, 319. [doi:10.1186/s40359-025-02576-5](https://doi.org/10.1186/s40359-025-02576-5)"
+    author: "Miao, J., Tian, X., Zhang, L., Zhang, B., & Ma, L."
     q: 2
     i: "?"
     kind: review
@@ -32,7 +33,7 @@ sources:
 
 ### Jia 2025
 
-Jia, M., Xin, T., Lina, Z., Baoling, Z., & Li, M. (2025). An analysis of the empirical research on SL/FL teaching and learning based on positive psychology: a systematic literature review. BMC Psychology, 13, 319.
+Miao, J., Tian, X., Zhang, L., Zhang, B., & Ma, L. (2025). An analysis of the empirical research on SL/FL teaching and learning based on positive psychology: a systematic literature review. BMC Psychology, 13, 319. [doi:10.1186/s40359-025-02576-5](https://doi.org/10.1186/s40359-025-02576-5)
 
 `q2 · i?` · `review · r2`
 

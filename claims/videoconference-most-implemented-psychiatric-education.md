@@ -46,7 +46,7 @@ The review's synthesis of 82 included articles across three phases (prior to 201
 
 ## Related Claims
 - [Online modules show significant pre-post knowledge gains in psychiatric trainees](online-modules-knowledge-gains-psychiatric-trainees.md) — related
-- [Significant increase in relevant studies after the COVID-19 pandemic](post-pandemic-spike-psychiatric-online-education-studies.md) — related
+- Significant increase in relevant studies after the COVID-19 pandemic — related
 - [Online CBT training satisfaction was noninferior to in-person training](online-cbt-training-noninferior-satisfaction.md) — related
 - [Trainer-led online training outperformed self-paced online training for behavioral activation skills](trainer-led-beats-self-paced-online-skills-training.md) — related
 - [Virtual patient simulators show construct validity for assessing psychopharmacology proficiency](virtual-patient-simulator-construct-validity-psychopharmacology.md) — related

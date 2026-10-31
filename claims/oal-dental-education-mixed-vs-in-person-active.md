@@ -46,5 +46,5 @@ The review reports that "two found OAL inferior, one reported it as superior, an
 
 ## Related Claims
 - [Test results confirmed the improvement of knowledge through online active learning.](oal-dental-education-knowledge-improvement.md) — related
-- [Thirty-five studies on online active learning in undergraduate dental education were included in this scoping review.](oal-dental-education-scoping-review-35-studies.md) — related
+- Thirty-five studies on online active learning in undergraduate dental education were included in this scoping review. — related
 - [In anaesthesia education, e-learning shows no consistent benefit over traditional learning across trials](e-learning-no-consistent-benefit-anaesthesia.md) — related

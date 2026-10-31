@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-10-31
 sources:
   - id: de-azevedo-cardoso-t-2025
     resource: "https://doi.org/10.2196/60757"
@@ -24,10 +25,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i3` large
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i3` Across 127 studies with 21,171 participants, flipped classroom instruction produced significantly higher final knowledge scores than traditional instruction (SMD 0.90, 95% CI 0.68-1.13, P<.001), a large effect. [→ de Azevedo Cardoso T 2025](#de-azevedo-cardoso-t-2025)
+`q3 i3` Across 127 studies with 21,171 participants (90 observational, 37 RCTs), flipped classroom groups had significantly higher final knowledge scores than traditional-instruction groups (SMD 0.90, 95% CI 0.68-1.13, P<.001), a large difference, with substantial heterogeneity (I²=95.2%) and small-study effects; trim-and-fill attenuated it to SMD 0.30. [→ de Azevedo Cardoso T 2025](#de-azevedo-cardoso-t-2025)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ de Azevedo Cardoso T, Aung H H, Yeh W-Y, Ozdamli F, Ignjatovic A, Spaic D, Bukum
 
 `q3 · i3` · `quant-synthesis · r3`
 
-Meta-analysis of 127 studies (21,171 participants) comparing flipped classroom to traditional instruction in medical education, using random-effects models. The pooled SMD of 0.90 (95% CI 0.68-1.13) indicates a "large" effect favoring the flipped classroom, with the FC group outperforming approximately 74% of control individuals.
+Meta-analysis of 127 studies (21,171 participants; 90 observational studies and 37 RCTs) comparing flipped classroom to traditional instruction in medical education, using random-effects models. The pooled SMD of 0.90 (95% CI 0.68-1.13) is a "large" difference favoring the flipped classroom, with the FC group outperforming approximately 74% of control individuals; the RCT subgroup gave SMD 0.93 (95% CI 0.65-1.22). Heterogeneity was substantial (I²=95.2%), the funnel plot showed significant small-study effects, and trim-and-fill attenuated the estimate to SMD 0.30 (95% CI 0.002-0.59). Because most studies were observational, the pooled figure is a difference in scores, not by itself evidence that the flipped format caused it.
 
 > "The meta-analysis results identified significant differences in final knowledge scores between the FC and control groups (SMD 0.90, 95% CI 0.68-1.13; P<.001), thus favoring an FC"
 
@@ -54,4 +55,4 @@ Meta-analysis of 127 studies (21,171 participants) comparing flipped classroom t
 - [Flipped classrooms are associated with higher theoretical knowledge scores than lecture-based teaching in medical education (pooled SMD = 1.26), with very high heterogeneity](flipped-classroom-theoretical-knowledge-medical-education.md) — related
 - [The flipped classroom effect on knowledge scores does not differ significantly between RCT and observational study designs.](flipped-classroom-effect-similar-rct-observational.md) — related
 - [Flipped classroom teaching improves medical students' multiple-choice question scores compared to traditional teaching](flipped-classroom-improves-mcq-scores-medical-students.md) — a narrower finding that bears on this claim
-- [Baseline knowledge differences between flipped classroom and control groups are small and may inflate final knowledge effect estimates.](flipped-classroom-small-baseline-knowledge-differences.md) — related
+- Baseline knowledge differences between flipped classroom and control groups are small and may inflate final knowledge effect estimates. — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-10-31
 sources:
   - id: oxman-2024
     resource: "https://doi.org/10.12688/f1000research.158087.1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Signalling probably improves retention and transfer, integrated pictures and text are probably more effective for learning than spatially distant pictures and text, and pedagogical agents, agent gesturing, and embodying affect in agents probably improve learning outcomes. [→ Oxman 2024](#oxman-2024)

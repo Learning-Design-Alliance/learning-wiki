@@ -11,8 +11,9 @@ evidence_strength: moderate
 newest_evidence: 2025
 sources:
   - id: jia-2025
-    title: "Jia, M., Xin, T., Lina, Z., Baoling, Z., & Li, M. (2025). An analysis of the empirical research on SL/FL teaching and learning based on positive psychology: a systematic literature review. BMC Psychology, 13, 319."
-    author: "Jia, M., Xin, T., Lina, Z., Baoling, Z., & Li, M."
+    resource: "https://doi.org/10.1186/s40359-025-02576-5"
+    title: "Miao, J., Tian, X., Zhang, L., Zhang, B., & Ma, L. (2025). An analysis of the empirical research on SL/FL teaching and learning based on positive psychology: a systematic literature review. BMC Psychology, 13, 319. [doi:10.1186/s40359-025-02576-5](https://doi.org/10.1186/s40359-025-02576-5)"
+    author: "Miao, J., Tian, X., Zhang, L., Zhang, B., & Ma, L."
     q: 2
     i: "?"
     kind: review
@@ -32,7 +33,7 @@ sources:
 
 ### Jia 2025
 
-Jia, M., Xin, T., Lina, Z., Baoling, Z., & Li, M. (2025). An analysis of the empirical research on SL/FL teaching and learning based on positive psychology: a systematic literature review. BMC Psychology, 13, 319.
+Miao, J., Tian, X., Zhang, L., Zhang, B., & Ma, L. (2025). An analysis of the empirical research on SL/FL teaching and learning based on positive psychology: a systematic literature review. BMC Psychology, 13, 319. [doi:10.1186/s40359-025-02576-5](https://doi.org/10.1186/s40359-025-02576-5)
 
 `q2 · i?` · `review · r2`
 
@@ -46,7 +47,7 @@ The review's synthesis of intervention studies (e.g. PERMA-based listening/speak
 ## Related Claims
 - [Positive psychology enhances SL/FL learning engagement and well-being](pp-enhances-engagement-and-wellbeing.md) — a narrower finding that bears on this claim
 - [Positive psychological traits and emotions are significantly and positively correlated with SL/FL learning performance and can predict it](pp-positively-correlated-with-language-performance.md) — a narrower finding that bears on this claim
-- [PP–SL/FL research is dominated by university students (76%) and quantitative methods (~49%)](pp-research-dominated-by-university-quantitative-designs.md) — related
+- PP–SL/FL research is dominated by university students (76%) and quantitative methods (~49%) — related
 - [Grit and enjoyment are key positive-psychology predictors of language learning success](grit-and-enjoyment-predict-language-success.md) — related
 - [PP interventions reduce language learning anxiety](pp-interventions-reduce-language-anxiety.md) — a narrower finding that bears on this claim
 - [Utility-value interventions enhance perceived utility value, engagement, performance, and persistence in introductory college science courses](uvi-improve-engagement-performance-persistence.md) — a broader claim this one bears on

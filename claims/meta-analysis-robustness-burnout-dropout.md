@@ -54,4 +54,4 @@ Sensitivity analyses of the multilevel meta-analysis: four effects flagged by Co
 - [Publication bias tests indicate the pooled flipped classroom effect is unlikely to be inflated by publication bias](flipped-classroom-meta-analysis-publication-bias-robust.md) — related
 - Funnel-plot analyses showed no significant asymmetry, and the overall effect remained significant after removing outliers — related
 - Publication bias tests and sensitivity analyses support the robustness of the pooled bilingual teaching effects — related
-- [No publication bias detected across included studies in the TBL-LBL meta-analysis](no-publication-bias-tbl-meta-analysis.md) — related
+- No publication bias detected across included studies in the TBL-LBL meta-analysis — related

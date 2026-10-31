@@ -46,4 +46,3 @@ Narrative synthesis of the review's search results: the screening of 5313 record
 
 ## Related Claims
 
-- [A search of five databases yielded 1020 papers, of which 703 remained after deduplication and 190 were eligible for full‐text review](search-yielded-1020-papers-190-full-text-review.md)

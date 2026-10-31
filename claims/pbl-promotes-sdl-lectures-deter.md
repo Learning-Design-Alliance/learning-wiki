@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: mixed
 newest_evidence: 2025
+source_checked: 2026-10-31
 sources:
   - id: ashleigh-finn-2025
     resource: "https://doi.org/10.1007/s10459-024-10383-7"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Activities such as problem-based learning have a high influence on independent learning, while lectures and tests deter students' SDL ability. [→ Ashleigh Finn 2025](#ashleigh-finn-2025)

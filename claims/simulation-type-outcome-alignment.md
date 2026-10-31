@@ -52,5 +52,5 @@ The review's cross-study synthesis of the included literature found modality–o
 - [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation while leaving retention unaffected](immersion-cost-benefit-transfer-motivation.md) — related
 - [Virtual reality was particularly effective for procedural skill development and knowledge retention in paediatric undergraduate training](vr-effective-procedural-skills-retention.md) — related
 - [Very high majorities of students rated high-fidelity simulation as enhancing learning, clinical reasoning, decision-making, and value](coffey-hfs-student-ratings.md) — related
-- [High-fidelity simulation is the most commonly used simulation type in studies of critical thinking](hfs-most-common-simulation-type-critical-thinking.md) — related
+- High-fidelity simulation is the most commonly used simulation type in studies of critical thinking — related
 - [The included studies do not reflect which intervention is better or which favours the acquisition and retention of knowledge more effectively.](studies-do-not-reflect-which-intervention-is-better.md) — reports the opposite

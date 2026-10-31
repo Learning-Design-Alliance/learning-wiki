@@ -68,4 +68,4 @@ Risk-of-bias assessment using the Cochrane Collaboration's 'Risk of Bias' tool, 
 - [Adding medication to CBT yields significant attendance gains but no significant anxiety effect relative to placebo-plus-CBT](medication-plus-cbt-school-refusal-attendance-only.md) — related
 - [Psychosocial interventions for school refusal behavior produce moderate, statistically significant improvements in school attendance](school-refusal-interventions-improve-attendance-moderate.md) — related
 - [Psychosocial interventions for school refusal behavior show a very small, nonsignificant effect on anxiety at post-test](school-refusal-interventions-anxiety-nonsignificant.md) — related
-- [All twelve included studies carried at least moderate risk of bias, with none rated low on at least six criteria](moderate-risk-of-bias-all-studies.md) — related
+- All twelve included studies carried at least moderate risk of bias, with none rated low on at least six criteria — related

@@ -49,5 +49,5 @@ Systematic review of 166 peer-reviewed articles on CBA and HA in health professi
 - [Little evidence demonstrates effectiveness of CBA/HA in admitting well-prepared students](little-evidence-cba-ha-effectiveness.md) — related
 - [Training reviewers and using rubrics reduces inconsistent evaluation and bias in CBA/HA](reviewer-training-rubrics-reduce-bias.md) — related
 - [CBA and HA implementation is associated with increased diversity of admitted students](cba-ha-increased-diversity.md) — related
-- [Interviews are the most frequently cited method for assessing competencies in CBA and HA](interviews-most-cited-assessment-method.md) — related
+- Interviews are the most frequently cited method for assessing competencies in CBA and HA — related
 - [Standardized personal statements and letters of recommendation improve inter-rater reliability and mitigate bias](standardized-admissions-tools-reliability.md) — related

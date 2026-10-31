@@ -17,7 +17,7 @@ sources:
 # Future research should test design strategies targeting a broader range of motivational constructs, such as confidence, relatedness, and autonomy
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review recommends expanding research beyond strategies that make online instruction interesting and enjoyable toward constructs that are under-studied. The authors write: "We recommend that studies test design strategies targeting a broader range of motivational constructs to expand the set of design strategies that educators can choose from (eg, confidence-enhancing strategies or relatedness-enhancing strategies)." They suggest serious games, often framed as interest-enhancing, could be configured to support extrinsic value, confidence, social connectedness, and autonomy.
@@ -38,7 +38,6 @@ The review recommends expanding research beyond strategies that make online inst
 
 ## Claims
 
-- [Half of experimental studies of online motivational design in health professions education target intrinsic value beliefs, making it the most frequently targeted motivational construct](../claims/half-of-motivational-design-studies-target-intrinsic-value-beliefs.md) [+W]
 - [Theory-informed studies of online motivational design target a more pluralistic range of motivational constructs than studies without a theoretical basis](../claims/theory-informed-studies-more-pluralistic-in-constructs.md) [+W]
 
 ## Related Strategies

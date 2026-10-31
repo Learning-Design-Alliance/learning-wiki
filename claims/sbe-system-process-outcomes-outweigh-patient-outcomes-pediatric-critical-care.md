@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-31
 sources:
   - id: zanin-a-2026
     resource: "https://doi.org/10.1007/s00431-026-06925-3"
@@ -32,11 +33,11 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`
-> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the reviewed pediatric/neonatal critical care studies, significant Level 4a system-process improvements were demonstrated (e.g., faster ECMO deployment, fewer unplanned PICU admissions). [→ Zanin A 2026](#zanin-a-2026)
-`q2 i?` Direct positive impacts on patient health (Level 4b) were reported in the majority of included studies, though significance varied. [→ Zanin A 2026 (2)](#zanin-a-2026-2)
+`q2 i?` Direct patient-level outcomes (Level 4b) were reported in the majority of included studies (12 of 16), but only 8 of 16 demonstrated significant improvements; several reported nonsignificant or null patient outcomes. [→ Zanin A 2026 (2)](#zanin-a-2026-2)
 
 ## Evidence
 
@@ -56,7 +57,7 @@ Zanin A, Poletto E, Mencia S, Gawronski O, Jourdain G. (2026). Evaluating the im
 
 `q2 · i?` · `review · r3`
 
-The review's narrative synthesis of included studies reports that direct patient-level (4b) impacts were described in the majority of the 16 studies, spanning mortality, complication and infection outcomes.
+The review's narrative synthesis reports that direct patient-level (4b) outcomes, spanning mortality, complication and infection outcomes, were reported in the majority of the 16 studies (12 cited), but its abstract states that only 50% (8/16) demonstrated significant improvements in Level 4b outcomes, against 75% (12/16) reporting positive Level 4a impacts. Some studies reported nonsignificant results, such as the moderate but non-significant reduction in low Apgar scores in Lenguerrand et al. (2019).
 
 > "Kirkpatrick Level 4b (actual patient outcomes): Direct impacts on patient health were reported in the majority of studies [11, 24–30, 32, 34–36]."
 
@@ -74,4 +75,4 @@ The review's narrative synthesis of included studies reports that direct patient
 - [No included SDL studies measured Kirkpatrick Level 4 (patient/system) outcomes](sdl-no-kirkpatrick-level-4-outcomes.md) — related
 - [In one included study, simulation-based team training in a trauma bay was followed by a 16 percent reduction in total resuscitation time and faster completion of primary surveys.](steinemann-resuscitation-time-reduction.md) — a narrower finding that bears on this claim
 - [NTS training in ICUs shows no significant changes in patient safety culture, length of stay or mortality rates](nts-training-icu-no-organizational-mortality-effect.md) — related
-- [Fewer studies assessed Kirkpatrick level 3 behaviour and level 4 patient outcomes, and higher‐level feature combinations remain unclear](usra-few-high-kirkpatrick-studies.md) — related
+- Fewer studies assessed Kirkpatrick level 3 behaviour and level 4 patient outcomes, and higher‐level feature combinations remain unclear — related

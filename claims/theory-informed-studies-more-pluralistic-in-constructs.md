@@ -45,7 +45,7 @@ In the review's construct-targeting analysis, theory-informed studies showed a p
 
 
 ## Related Claims
-- [Half of experimental studies of online motivational design in health professions education target intrinsic value beliefs, making it the most frequently targeted motivational construct](half-of-motivational-design-studies-target-intrinsic-value-beliefs.md) — related
-- [Most experimental studies of online motivational design do not cite any theory of motivation](most-motivational-design-studies-cite-no-theory.md) — a broader claim this one bears on
-- [Nearly one-third of experimental studies of online motivational design do not specify which motivational constructs their strategies target](one-third-of-studies-do-not-specify-targeted-constructs.md) — related
+- Half of experimental studies of online motivational design in health professions education target intrinsic value beliefs, making it the most frequently targeted motivational construct — related
+- Most experimental studies of online motivational design do not cite any theory of motivation — a broader claim this one bears on
+- Nearly one-third of experimental studies of online motivational design do not specify which motivational constructs their strategies target — related
 - [Instruction should present the learning task as engaging and meaningful and promote positive expectations of success, because effort requires that learners value the task and believe they can succeed](effort-requires-task-value-and-expectation-of-success-arcs-rationale.md) — related

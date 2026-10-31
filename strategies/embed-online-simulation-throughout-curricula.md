@@ -17,7 +17,7 @@ sources:
 # Embedding online simulation throughout curricula and providing more student access to online simulation approaches
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Students recommended providing more information about the T&L approach along with sufficient time to engage in preparatory material. Some students and educators recommended increasing the time of the online simulation approach, and provide more student access to online simulation approaches overall, "recommending embedding online simulation throughout curricula". The review notes that these recommendations arose from student and educator feedback on their experiences of online simulation approaches.
@@ -39,7 +39,6 @@ Students recommended providing more information about the T&L approach along wit
 ## Claims
 
 - [Educators reported challenges including lacking confidence, feeling nervous, and requiring significant training and expertise when using online simulation approaches](../claims/educators-report-confidence-training-challenges-online-simulation.md) [~W]
-- [Twenty‐two out of twenty‐nine studies sought feedback from students](../claims/22-of-29-studies-sought-student-feedback.md) [+W]
 
 ## Related Strategies
 

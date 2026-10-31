@@ -46,7 +46,7 @@ The scoping review reports that the four included studies, primarily prospective
 
 ## Related Claims
 - [Nurse-led educational interventions may enhance nursing knowledge and decrease skin tear incidence.](nurse-led-education-improves-knowledge-and-reduces-skin-tear-incidence.md) — possibly the same claim (merge candidate)
-- [The reviewed articles did not report studies that assessed nurses' knowledge using a specific and/or standardised tool designed to evaluate that.](no-standardised-tool-to-assess-nurses-knowledge.md) — related
+- The reviewed articles did not report studies that assessed nurses' knowledge using a specific and/or standardised tool designed to evaluate that. — related
 - [The included studies do not reflect which intervention is better or which favours the acquisition and retention of knowledge more effectively.](studies-do-not-reflect-which-intervention-is-better.md) — related
 - [More longitudinal studies are needed to see if the effects are maintained over time.](more-longitudinal-studies-needed-to-see-if-effects-maintained.md) — related
 - [The support of champions is evidenced as favourable in the application of the educational intervention.](champions-support-favourable-in-educational-intervention.md) — related

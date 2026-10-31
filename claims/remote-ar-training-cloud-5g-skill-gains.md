@@ -49,4 +49,4 @@ The review attributes this finding to Liu et al., describing a remote training f
 - [Conventional training received significantly higher ratings for perceived realism and immersion than VR-based training (r=0.774)](conventional-training-higher-realism-immersion.md) — reports the opposite
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related
-- [Scoping review identified 51 studies of simulation in neuro-oncological surgery, with AR the most frequently studied technology (25 of 51 articles)](scoping-review-51-simulation-studies-neuro-oncology.md) — related
+- Scoping review identified 51 studies of simulation in neuro-oncological surgery, with AR the most frequently studied technology (25 of 51 articles) — related

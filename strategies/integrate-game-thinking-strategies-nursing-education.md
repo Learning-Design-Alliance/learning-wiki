@@ -17,7 +17,7 @@ sources:
 # Integrate game-thinking strategies to enhance engagement and academic performance in nursing education
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 quant-synthesis), `q2` · 1 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article recommends that educators integrate game-thinking strategies as a valuable method for creating engaging and effective learning experiences. The authors state that "integration of game-thinking strategies could serve as a valuable method for creating engaging and effective learning experiences for nursing students" and that "Educators should integrate various learning strategies and activities, both analog and digital, to maintain student engagement". This strategy is grounded in the meta-analytic evidence of improved academic achievement.
@@ -41,9 +41,7 @@ The article recommends that educators integrate game-thinking strategies as a va
 
 - [Game-thinking interventions improve nursing students' academic achievement (Pooled ES = 0.99)](../claims/game-thinking-improves-nursing-academic-achievement.md) [+M]
 - [Game-thinking effects are larger on academic knowledge performance than on academic skill performance](../claims/game-thinking-knowledge-over-skill-performance.md) [+M]
-- [Included studies comprised 26 RCTs and 44 quasi-experimental studies with 8348 participants](../claims/included-studies-26-rcts-44-quasi-8348-participants.md) [+M]
 - [Most included studies reported a positive effect of game-thinking on academic achievement](../claims/majority-studies-report-positive-effect.md) [+M]
-- [Publication bias tests found no statistically significant evidence of publication bias](../claims/no-significant-publication-bias-detected.md) [+M]
 
 ## Related Strategies
 

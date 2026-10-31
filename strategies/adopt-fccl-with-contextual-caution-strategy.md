@@ -17,7 +17,7 @@ sources:
 # Adopt FCCL in clinical medicine teaching except in Western surgical education, with rigorous RCT designs and expanded disciplines
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (3 for, 2 mixed, 1 against) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article recommends administering FCCL in clinical medicine teaching, with careful selection regarding surgical education in Western countries. It further recommends expanding FCCL application across disciplines such as "obstetrics, gynecology, pediatrics, and others," adopting rigorous experimental designs including "randomization through random number tables and blind assessment of exam scores," and evaluating student and faculty satisfaction through feedback surveys.
@@ -49,7 +49,6 @@ The article recommends administering FCCL in clinical medicine teaching, with ca
 - [FCCL outperforms LBL on theoretical scores with a moderate pooled effect (Cohen's d = 0.60)](../claims/fccl-outperforms-lbl-theoretical-scores-moderate-effect.md) [+W]
 - [Western students in FCCL groups outperform LBL peers in clinical analysis skills but not in theoretical scores](../claims/fccl-western-students-advantage-only-clinical-analysis-skills.md) [~W]
 - [Clinical analysis skills effect size is unstable and sensitive to two studies, dropping to d = 0.50 after their exclusion](../claims/clinical-analysis-skills-effect-unstable-sensitive-to-two-studies.md) [~W]
-- [Publication bias is absent for theoretical scores but present for clinical analysis skills](../claims/publication-bias-present-for-clinical-analysis-skills-only.md) [-W]
 
 ## Related Strategies
 - 

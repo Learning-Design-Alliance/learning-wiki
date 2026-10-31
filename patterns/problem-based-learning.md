@@ -29,7 +29,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 79 claims (23 for, 51 mixed, 5 against) · 55 studies (16 causal, 12 quant-synthesis, 10 review, 7 theoretical, 5 qualitative, 3 design, 2 associational), `q1`–`q4` · 11 of 55 report an effect size · 74 claims rest on one study
+> **Evidence** · 78 claims (22 for, 51 mixed, 5 against) · 55 studies (16 causal, 12 quant-synthesis, 10 review, 7 theoretical, 5 qualitative, 3 design, 2 associational), `q1`–`q4` · 11 of 55 report an effect size · 73 claims rest on one study
 
 ## Description and scope
 
@@ -168,7 +168,6 @@ This pattern is scoped to problem-centred units in which an explicit consolidati
 - [PBL has a large and positive effect (ES = .871) on secondary students’ achievement in science compared with conventional teaching](../claims/pbl-large-positive-effect-secondary-science-achievement.md) [+W]
 - [3D + PBL improves passing rate of exams in orthopedic education](../claims/3d-pbl-improves-exam-passing-rate.md) [~W]
 - [3D + PBL improves excellent theoretical grades in orthopedic education](../claims/3d-pbl-improves-excellent-theoretical-grades.md) [~W]
-- [Of 4310 screened abstracts, 21 studies of PBL in PGME were included, spanning eight specialties and four Kirkpatrick outcome levels](../claims/pbl-pgme-21-studies-kirkpatrick-coverage.md) [+M]
 - [Problem-based learning in orthodontic postgraduate education enhances student engagement and understanding](../claims/problem-based-learning-enhances-orthodontic-engagement.md) [+W]
 - [Cluster analysis identifies PBL + WeChat, TBL and CBL + WeChat as most promising for theoretical and practical performance with low dissatisfaction](../claims/cluster-analysis-pbl-wechat-tbl-cbl-wechat-most-promising.md) [+W]
 

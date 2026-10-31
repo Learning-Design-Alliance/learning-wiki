@@ -49,4 +49,4 @@ Narrative synthesis of reviewed studies: the review reports that "a lack of mand
 
 - [The review reports that most UK medical students receive less than 2 hours of nutrition education and that 75% of US medical schools have no required clinical nutrition classes](msad-insufficient-nutrition-curriculum-time.md) — related
 - [The review reports that low confidence in counselling patients and perceived insignificance of nutrition contribute to the knowledge deficit among medical students and doctors](msad-low-confidence-perceived-insignificance.md) — related
-- [The review reports that stigma, personal health habits and clinical practice constraints (time, funding, guidance, low dietitian referrals) widen the nutrition knowledge gap](msad-stigma-habits-clinical-challenges.md)
+- [The review names stigma, personal health habits and clinical practice constraints (time, funding, guidance, low dietitian referrals) among the reasons for the nutrition knowledge gap](msad-stigma-habits-clinical-challenges.md)

@@ -46,7 +46,7 @@ The scoping review's synthesis of health education skills reports that "Twenty-t
 
 ## Related Claims
 - [Nurse-led telecare and telemedicine improve communication, self-management, and continuity of care in biologics therapy](nurse-led-telecare-improves-biologics-care.md) — related
-- [Scoping review identified 24 eligible studies from 3,422 retrieved records](scoping-review-24-studies-nurse-biologics-competencies.md) — related
+- Scoping review identified 24 eligible studies from 3,422 retrieved records — related
 - [Sixteen studies support clinical specialized knowledge as a core nurse competency for biologics management](sixteen-studies-clinical-specialized-knowledge-competency.md) — related
 - [A systematic review of 13 articles found nurses achieved higher satisfaction in patient self-care and adherence than physicians](nurses-higher-satisfaction-self-care-adherence.md) — related
 - [Nurse-led biologics practices improve monitoring, therapy appropriateness, and quality of life while reducing costs](nurse-led-biologics-practices-improve-outcomes.md) — related

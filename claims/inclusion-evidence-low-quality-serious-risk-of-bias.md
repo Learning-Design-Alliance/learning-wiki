@@ -67,6 +67,6 @@ Risk of bias assessment using ROBINS-I across the 15 studies in the synthesis; t
 - All nine included systematic reviews were rated critically low in methodological quality on AMSTAR-2, limiting confidence in the synthesized evidence — related
 - Included active-methodology studies had a high overall risk of bias — related
 - Risk-of-bias assessment finds 76% of included RCTs at low risk of bias using the Cochrane RoB-2 tool — related
-- [Most included IPE studies were of medium methodological quality, with very low scores on theoretical framework and stakeholder engagement criteria](ipe-studies-medium-quality-quads.md) — related
-- [All twelve included studies carried at least moderate risk of bias, with none rated low on at least six criteria](moderate-risk-of-bias-all-studies.md) — related
-- [Methodological quality of included studies is generally low, with only one RCT rated high quality](simulation-studies-low-methodological-quality.md) — related
+- Most included IPE studies were of medium methodological quality, with very low scores on theoretical framework and stakeholder engagement criteria — related
+- All twelve included studies carried at least moderate risk of bias, with none rated low on at least six criteria — related
+- Methodological quality of included studies is generally low, with only one RCT rated high quality — related

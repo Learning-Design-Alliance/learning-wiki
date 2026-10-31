@@ -32,7 +32,7 @@ sources:
 # Problem-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 64 claims (21 for, 38 mixed, 5 against) · 54 studies (13 quant-synthesis, 11 review, 10 causal, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 10 of 54 report an effect size · 59 claims rest on one study
+> **Evidence** · 62 claims (20 for, 38 mixed, 4 against) · 53 studies (12 quant-synthesis, 11 review, 10 causal, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 10 of 53 report an effect size · 57 claims rest on one study
 
 ## Conditional relationship
 
@@ -159,8 +159,6 @@ At the curriculum level, the expectation of a small and variable average should 
 - [Problem-based learning in orthodontic postgraduate education enhances student engagement and understanding](../claims/problem-based-learning-enhances-orthodontic-engagement.md) [+W]
 - [3D + PBL improves communication ability in orthopedic education](../claims/3d-pbl-improves-communication-ability-orthopedics.md) [+W]
 - [3D + PBL improves passing rate of exams in orthopedic education](../claims/3d-pbl-improves-exam-passing-rate.md) [~W]
-- [Publication bias is present in studies of theoretical scores comparing 3D + PBL with LBL](../claims/publication-bias-theoretical-scores-3d-pbl.md) [-W]
-- [Of 4310 screened abstracts, 21 studies of PBL in PGME were included, spanning eight specialties and four Kirkpatrick outcome levels](../claims/pbl-pgme-21-studies-kirkpatrick-coverage.md) [+M]
 - [PBL and active learning activities promote SDL while lectures and tests deter it, though evidence is inconsistent](../claims/pbl-promotes-sdl-lectures-deter.md) [~W]
 
 ## Related Principles

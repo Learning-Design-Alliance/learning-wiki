@@ -17,7 +17,7 @@ sources:
 # Assuming that all students may require support at different times would set the foundation for educators to adopt a more responsive approach including the use of demographic data
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The review recommends that "Assuming that all students may require support at different times would set the foundation for educators to adopt a more responsive approach including the use of demographic data to guide educators in the development of inclusive T&L strategies". An initial step in responding to learner difference is to firstly acknowledge its effect on student learning and secondly, to go deeper into what that impact might be in different student cohorts. To support educators to support current students, clear and specific guidance is warranted.
@@ -40,7 +40,6 @@ The review recommends that "Assuming that all students may require support at di
 
 ## Claims
 
-- [Few studies position diversity among learners as a primary focus in online simulation‐based learning](../claims/few-studies-position-learner-diversity-as-primary-focus.md) [+W]
 
 ## Related Strategies
 

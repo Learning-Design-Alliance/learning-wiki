@@ -67,6 +67,6 @@ The review's synthesis concludes that "the lack of standardized and validated me
 ## Related Claims
 - [Only two of the included studies demonstrated predictive validity of their metrics for live robotic hysterectomy performance.](limited-predictive-validity-two-studies.md) — related
 - [The Robotic Hysterectomy Assessment Score (RHAS) is the only robotic hysterectomy-specific clinical skills assessment identified in the literature.](rhas-only-procedure-specific-assessment.md) — related
-- [Expert consensus-based methodologies, such as a modified Delphi process, were commonly used to develop robotic hysterectomy performance metrics.](delphi-consensus-develops-robotic-hysterectomy-metrics.md) — related
+- Expert consensus-based methodologies, such as a modified Delphi process, were commonly used to develop robotic hysterectomy performance metrics. — related
 - [Included studies demonstrated mixed evidence of construct validity, with some metrics distinguishing skill levels but others failing to do so.](mixed-construct-validity-robotic-hysterectomy-metrics.md) — related
 - [Virtual reality simulator performance has limited correlation with intraoperative robotic hysterectomy performance.](weak-correlation-vr-simulator-intraoperative-performance.md) — related

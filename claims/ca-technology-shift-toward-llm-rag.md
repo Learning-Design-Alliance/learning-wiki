@@ -56,4 +56,4 @@ The review's prototype technology analysis (RQ3), organized by a four-module arc
 - [Targeted enhancements (retrieval-augmented inference, multimodal training) substantially raise open-source models' phonology mastery to near-ceiling levels](targeted-enhancements-raise-phonology-mastery.md) — a narrower finding that bears on this claim
 - [AWE technology has evolved through four distinct generations from traditional NLP-based systems to AI-driven LLM-integrated tools (2000–2024)](awe-four-generations-evolution.md) — related
 - [AI-SSP backend architectures shifted from rule-based or NLP systems before 2022 to LLM-based systems in all studies published after 2022](ai-ssp-architecture-shift-rule-based-to-llm.md) — a narrower finding that bears on this claim
-- [Review notes a decline in gamification-in-TEFL publications since 2018, hypothesizing a shift toward AI-driven and broader technology-enhanced methods](decline-in-gamification-publications-since-2018-ai-shift.md) — related
+- Review notes a decline in gamification-in-TEFL publications since 2018, hypothesizing a shift toward AI-driven and broader technology-enhanced methods — related

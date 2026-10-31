@@ -51,5 +51,5 @@ The review's own limitations analysis of its 12 included studies, many of which 
 - [VR tools enhance acquisition and retention of clinical and procedural skills but face barriers including cybersickness, limited tactile feedback and variable long-term skill transfer](vr-enhances-practical-skill-acquisition-with-barriers.md) — related
 - Five research gaps were identified: lack of explicit empathy definitions, limited scenario diversity, absence of repeated interventions, self-report limitations, and insufficient long-term outcome evidence — related
 - [No longitudinal studies or RCTs demonstrate that AI-acquired skills transfer to the operating room](no-longitudinal-evidence-ai-skill-transfer-or.md) — a narrower finding that bears on this claim
-- [Review identifies limitations including restricted timeframe, limited full-text availability, and absence of formal quality assessment](review-limitations-timeframe-full-text-quality-assessment.md) — related
+- Review identifies limitations including restricted timeframe, limited full-text availability, and absence of formal quality assessment — related
 - [Evidence for transfer of simulation training to operating-room outcomes was sparse in neuro-oncological simulation research](sparse-transfer-evidence-simulation-to-or.md) — related

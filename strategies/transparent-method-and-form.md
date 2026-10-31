@@ -17,7 +17,7 @@ sources:
 # Future studies on clinical supervision should be transparent about the method and form of supervision used.
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review highlights "the need for further robust research on nurses' and midwives' experiences of clinical supervision to increase understanding and implementation of this support, and, the method and form of clinical supervision should be transparent in future studies". This strategy addresses the identified gaps in evidence and detail of supervision practices.
@@ -38,7 +38,6 @@ The review highlights "the need for further robust research on nurses' and midwi
 
 ## Claims
 
-- [Most studies on nurses' and midwives' experiences of clinical supervision focus on group supervision models.](../claims/group-supervision-dominates-research.md) [+W]
 - [No studies were identified that explored nurses' and midwives' experiences of online clinical supervision.](../claims/no-studies-online-clinical-supervision.md) [+W]
 
 ## Related Strategies

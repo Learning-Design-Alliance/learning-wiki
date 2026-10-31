@@ -121,6 +121,6 @@ Publication-bias assessment of the 21-study meta-analysis using a thesis-vs-arti
 - No evidence of publication bias in the SDL meta-analysis — related
 - [Publication bias is present for theoretical knowledge outcomes but not for clinical practice performance in SP+CBL meta-analysis.](sp-cbl-publication-bias-asymmetric.md) — reports the opposite
 - [Publication bias inflates flipped classroom effect estimates for knowledge outcomes but not for baseline knowledge.](flipped-classroom-publication-bias-knowledge-outcomes.md) — reports the opposite
-- [No publication bias detected across included studies in the TBL-LBL meta-analysis](no-publication-bias-tbl-meta-analysis.md) — related
-- [Publication bias tests found no statistically significant evidence of publication bias](no-significant-publication-bias-detected.md) — related
-- [Publication bias is present in the OSCE reliability literature, with funnel plot asymmetry detected by Egger's regression test (p < 0.001)](osce-reliability-publication-bias-detected.md) — related
+- No publication bias detected across included studies in the TBL-LBL meta-analysis — related
+- Publication bias tests found no statistically significant evidence of publication bias — related
+- Publication bias is present in the OSCE reliability literature, with funnel plot asymmetry detected by Egger's regression test (p < 0.001) — related

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: The review reports that stigma, personal health habits and clinical practice constraints (time, funding, guidance, low dietitian referrals) widen the nutrition knowledge gap
-description: The review reports that stigma, personal health habits and clinical practice constraints (time, funding, guidance, low dietitian referrals) widen the nutrition knowledge gap
+title: The review names stigma, personal health habits and clinical practice constraints (time, funding, guidance, low dietitian referrals) among the reasons for the nutrition knowledge gap
+description: The review names stigma, personal health habits and clinical practice constraints (time, funding, guidance, low dietitian referrals) among the reasons for the nutrition knowledge gap
 id: msad-stigma-habits-clinical-challenges
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-10-31
 recheck_by: 2030
 sources:
   - id: khiri-nasr-and-kristy-howells-2025
@@ -21,14 +22,14 @@ sources:
     rigour: 2
 ---
 
-# The review reports that stigma, personal health habits and clinical practice constraints (time, funding, guidance, low dietitian referrals) widen the nutrition knowledge gap
+# The review names stigma, personal health habits and clinical practice constraints (time, funding, guidance, low dietitian referrals) among the reasons for the nutrition knowledge gap
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
+> **Currency** · newest study 2025 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
-`q2 i?` Weight stigmatisation, avoidance of nutrition discussions, doctors' personal health habits, time pressure and low referral rates to dietitians contribute to the nutrition knowledge deficit. [→ Khiri Nasr and Kristy Howells 2025](#khiri-nasr-and-kristy-howells-2025)
+`q2 i?` The scoping review's thematic synthesis lists stigma and personal health habits, and challenges in clinical practice (lack of time, funding and guidance; low referral rates to dietitians), among the reasons for the nutrition knowledge deficit; it argues that stigma-driven avoidance and time and funding pressures widen the gap, while for health habits and referrals it reports associations and barriers rather than an effect on knowledge. [→ Khiri Nasr and Kristy Howells 2025](#khiri-nasr-and-kristy-howells-2025)
 
 ## Evidence
 
@@ -38,7 +39,7 @@ Khiri Nasr and Kristy Howells. (2025). Nutritional Education in Medical Curricul
 
 `q2 · i?` · `review · r2`
 
-Narrative synthesis: the review reports that "weight stigmatisation is prevalent in medical practice" and that stigma contributes to the knowledge deficit. Related subthemes include doctors' personal health habits and low referral rates to dietitians because junior doctors do not know how or when to refer.
+Scoping review (28 papers, thematic analysis) of why medical students and doctors in English-speaking countries lack nutrition knowledge. Under its first theme, the factors behind the knowledge deficit, "stigmas and health habits" and "challenges in clinical practice" are two of the four factor categories. The review argues that weight stigma and the avoidance of nutrition discussions limit chances to apply knowledge, "widening the knowledge gap", and that short consultations and no financial compensation for nutrition care deprioritise it, "further widening the gap in nutritional knowledge and practice". For the other subthemes it reports narrower findings: doctors with healthy eating habits are more likely to give nutrition advice (a correlation), clinical guidelines for nutrition care are lacking, and junior doctors made few referrals to dietitians because they did not know how or when to refer. It does not show that habits or referral rates change the knowledge deficit.
 
 > "Ganis and Christides [13] find that weight stigmatisation is prevalent in medical practice. The stigma surrounding nutrition not only impacts the quality of patient care but also contributes to the nutrition knowledge deficit among medical professionals."
 

@@ -45,5 +45,5 @@ Narrative synthesis of the six behaviour-level studies; the review notes "All be
 
 
 ## Related Claims
-- [Of 4310 screened abstracts, 21 studies of PBL in PGME were included, spanning eight specialties and four Kirkpatrick outcome levels](pbl-pgme-21-studies-kirkpatrick-coverage.md) — a broader claim this one bears on
+- Of 4310 screened abstracts, 21 studies of PBL in PGME were included, spanning eight specialties and four Kirkpatrick outcome levels — a broader claim this one bears on
 - [Limited evidence suggests PBL participants implement practice changes, but behavior-change data are sparse and mostly non-significant](pbl-behavior-change-limited-evidence-pgme.md) — reports the opposite

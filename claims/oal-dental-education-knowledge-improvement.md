@@ -46,5 +46,5 @@ The review states that "All four non‐comparative studies assessing the impact 
 
 ## Related Claims
 - [Comparative studies found mixed results when comparing online active learning with in-person active learning.](oal-dental-education-mixed-vs-in-person-active.md) — related
-- [Thirty-five studies on online active learning in undergraduate dental education were included in this scoping review.](oal-dental-education-scoping-review-35-studies.md) — related
+- Thirty-five studies on online active learning in undergraduate dental education were included in this scoping review. — related
 - [Four reviewed studies examined student-related impacts of LA-supported IBL on learning perception, activity engagement, content knowledge acquisition, and productive discourse](la-supported-ibl-student-impact-four-studies.md) — related

@@ -47,4 +47,4 @@ The review summarises Carr et al.'s (2023) mega-analysis of PPIs, which aggregat
 ## Related Claims
 - [Gratitude PPIs were subcategorised into letters, lists, induction, and action variants during toolbox selection](gratitude-ppi-subcategories-selection.md) — a narrower finding that bears on this claim
 - [Scoping review identifies 64 brief, stand-alone, evidence-based PPIs potentially adaptable to classroom lesson timeframes](sixty-four-brief-stand-alone-ppis-identified.md) — related
-- [There is no evidence of public patient involvement in any of the reviewed studies](no-public-patient-involvement-reviewed-studies.md) — related
+- There is no evidence of public patient involvement in any of the reviewed studies — related

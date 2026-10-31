@@ -17,7 +17,7 @@ sources:
 # Future research should position students and other stakeholders as partners in the design of online simulation approaches
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The review recommends that "Future research should position students and other stakeholders as partners in the design of online simulation approaches". EDI theorists believe that students represent a valuable source of knowledge and insight for the effective development of all T&L resources and that participatory co‐design effectively fosters negotiation, participation, and inclusion of the voice of the students. A collaborative and participatory approach to nursing education may be required to address the identified gap in evidence and educational practice.
@@ -40,7 +40,6 @@ The review recommends that "Future research should position students and other s
 
 ## Claims
 
-- [Twenty‐two out of twenty‐nine studies sought feedback from students](../claims/22-of-29-studies-sought-student-feedback.md) [+W]
 
 ## Related Strategies
 

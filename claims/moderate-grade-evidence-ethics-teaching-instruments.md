@@ -51,4 +51,4 @@ Certainty assessment applying COSMIN-modified GRADE across the 6 included instru
 - [Validation evidence across the 15 RCR measures is partial and heterogeneous, with no test–retest, criterion validity or factor-analytic evidence reported](rcr-measure-validation-evidence-heterogeneous-limited.md) — related
 - [No existing ethics-of-teaching instrument was developed specifically for health professions education](no-instruments-specific-to-health-professions-education.md) — related
 - A COSMIN-based systematic review identified 6 instruments assessing the ethics of teaching from 246 records — related
-- [Review identifies limitations including restricted timeframe, limited full-text availability, and absence of formal quality assessment](review-limitations-timeframe-full-text-quality-assessment.md) — related
+- Review identifies limitations including restricted timeframe, limited full-text availability, and absence of formal quality assessment — related

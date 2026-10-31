@@ -17,7 +17,7 @@ sources:
 # Prioritize high-quality RCTs with standardized assessment tools and subjective outcomes in future flipped classroom research
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 against) · 1 study (1 quant-synthesis), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 against) · 1 study (1 quant-synthesis), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The authors recommend that "Future studies should prioritize high-quality RCTs with standardized assessment tools and explore subjective outcomes such as student satisfaction". They also recommend "Multicenter and cross-cultural research" to validate and generalize results. This addresses limitations of the current evidence base, which used self-designed, non-standardized measurement tools and focused only on objective outcomes.
@@ -41,7 +41,6 @@ The authors recommend that "Future studies should prioritize high-quality RCTs w
 
 ## Claims
 
-- [Included RCTs of flipped classrooms in Chinese clinical practice show high risk of methodological bias](../claims/high-risk-of-bias-included-rcts.md) [-W]
 - [Publication bias is present in the flipped classroom meta-analysis evidence base](../claims/publication-bias-flipped-classroom-meta-analysis.md) [-W]
 
 ## Related Strategies

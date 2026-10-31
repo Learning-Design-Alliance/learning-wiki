@@ -45,6 +45,6 @@ The review explicitly states "This review did not identify any studies that expl
 
 
 ## Related Claims
-- [The scoping review identifies 43 studies on nurses' and midwives' experiences of clinical supervision across 16 countries.](43-studies-clinical-supervision-16-countries.md) — related
+- The scoping review identifies 43 studies on nurses' and midwives' experiences of clinical supervision across 16 countries. — related
 - [The review identifies a lack of consensus on a clinical supervision definition, causing ambiguity and reduced use of this support.](lack-of-consensus-definition.md) — related
-- [Nine of the 39 studies did not define clinical supervision.](nine-studies-no-definition.md) — related
+- Nine of the 39 studies did not define clinical supervision. — related

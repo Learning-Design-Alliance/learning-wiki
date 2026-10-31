@@ -25,7 +25,7 @@ sources:
 # Competency-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 69 claims (26 for, 36 mixed, 7 against) · 69 studies (20 causal, 11 review, 10 quant-synthesis, 9 associational, 7 design, 6 qualitative, 6 theoretical), `q1`–`q4` · 13 of 69 report an effect size · 61 claims rest on one study
+> **Evidence** · 68 claims (25 for, 36 mixed, 7 against) · 68 studies (20 causal, 10 quant-synthesis, 10 review, 9 associational, 7 design, 6 qualitative, 6 theoretical), `q1`–`q4` · 13 of 68 report an effect size · 60 claims rest on one study
 
 ## Description and scope
 
@@ -175,7 +175,6 @@ This pattern is scoped to a course organised around a competency map with criter
 - [The age-graded system was built on an assumption of uniform progress that a substantial number of students never met, creating organizational deviants and stigma](../claims/age-graded-system-uniform-progress-assumption.md) [+W]
 - [Competency-based progression simulation combined with e-learning yields higher communication competence than e-learning alone or standard simulation](../claims/competency-based-progression-simulation-communication.md) [+W]
 - [Surgical societies outlined RAS curricula featuring proficiency-based progression, modular intraoperative training, and objective assessment.](../claims/surgical-societies-ras-curricula-proficiency-modular-objective.md) [+W]
-- [Interviews are the most frequently cited method for assessing competencies in CBA and HA](../claims/interviews-most-cited-assessment-method.md) [+W]
 
 ## Related Patterns
 - [Mastery Learning](mastery-learning.md)

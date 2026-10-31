@@ -67,4 +67,4 @@ The same systematic review of RCTs in poor readers, as reported in the article. 
 - [Phonics instruction has a small but statistically confirmed effect for children with reading disabilities, while Orton-Gillingham structured-literacy programs show positive but non-significant effects](structured-literacy-interventions-help-struggling-readers.md) — possibly the same claim (merge candidate)
 - [The Torgerson et al. (2006) meta-analysis of randomized controlled trials found almost no strong evidence for systematic phonics](torgerson-rct-meta-analysis-weak-evidence-phonics.md) — reports the opposite
 - [Phonemic Awareness Training Improves Reading](phonemic-awareness-training-improves-reading.md) — related
-- [There were no randomized controlled trials or systematic reviews in the identified papers](no-rcts-or-systematic-reviews-identified.md) — related
+- There were no randomized controlled trials or systematic reviews in the identified papers — related

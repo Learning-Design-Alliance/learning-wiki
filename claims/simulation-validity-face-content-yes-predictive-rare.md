@@ -49,8 +49,8 @@ In the Discussion, the review reports that "the majority demonstrated face valid
 - [AR simulators for tumor localization and intraoperative guidance were tested on small patient subsets, limiting generalizability](ar-simulation-small-samples-limited-generalizability.md) — related
 - [Only two of the included studies demonstrated predictive validity of their metrics for live robotic hysterectomy performance.](limited-predictive-validity-two-studies.md) — related
 - [PLS simulator is the most commonly used pediatric MIS training model, with construct validity established for its pattern-cutting task](pls-simulator-most-used-construct-validity.md) — related
-- [Scoping review identified 51 studies of simulation in neuro-oncological surgery, with AR the most frequently studied technology (25 of 51 articles)](scoping-review-51-simulation-studies-neuro-oncology.md) — related
+- Scoping review identified 51 studies of simulation in neuro-oncological surgery, with AR the most frequently studied technology (25 of 51 articles) — related
 - [The ORSIM bronchoscopy simulator shows the most comprehensive validation among fibreoptic simulators, with construct validity (experts outperforming novices) and predictive validity](orsim-strongest-construct-predictive-validity.md) — a narrower finding that bears on this claim
 - [Validity evidence for data-driven assessment tools relies predominantly on construct validity, with 11 of 35 studies using unvalidated tools](validity-evidence-construct-dominant-unvalidated-tools.md) — related
 - [Evidence for transfer of simulation training to operating-room outcomes was sparse in neuro-oncological simulation research](sparse-transfer-evidence-simulation-to-or.md) — related
-- [Reporting of the validity source consequences is largely absent from identified assessment studies](validity-consequences-underreported-surgical-assessment.md) — related
+- Reporting of the validity source consequences is largely absent from identified assessment studies — related

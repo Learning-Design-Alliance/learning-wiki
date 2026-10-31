@@ -416,7 +416,7 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Low-fidelity models are non-inferior to high-fidelity ones, which may induce overconfidence, per literature cited in the review](../claims/low-fidelity-non-inferiority-overconfidence.md) [~W]
 - [Intermediate-fidelity mannequin simulation increased knowledge but not confidence compared with no additional instruction (Tiffen et al. study)](../claims/intermediate-fidelity-simulation-knowledge-not-confidence.md) [~W]
 - [AR-based remote neurosurgical training system combining cloud computing and AR/VR showed significant skill improvements, with AR outperforming VR in tactile realism and scene authenticity](../claims/remote-ar-training-cloud-5g-skill-gains.md) [+W]
-- [Simulation and virtual-reality training improved technical performance, task completion time, and perceived realism in thyroid surgery trainees](../claims/simulation-vr-improves-thyroid-surgery-technical-performance.md) [+W]
+- [In thyroid surgery training, simulation and virtual-reality training improved technical performance and task completion time, and simulators were rated as realistic](../claims/simulation-vr-improves-thyroid-surgery-technical-performance.md) [+W]
 - [Immersive VR assessments of nursing and medical students are concentrated in settings that are difficult to replicate, especially emergencies](../claims/vr-assessments-concentrated-in-difficult-to-replicate-emergency-settings.md) [+W]
 - [Standardized patients produced higher knowledge scores than high-fidelity simulation, but performance scores did not differ (Tuzer et al. study)](../claims/standardized-patients-vs-high-fidelity-simulator-knowledge.md) [~W]
 

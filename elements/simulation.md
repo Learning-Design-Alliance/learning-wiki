@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 144 claims (81 for, 54 mixed, 9 against) · 107 studies (52 review, 21 quant-synthesis, 16 causal, 8 design, 5 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 21 of 107 report an effect size · 134 claims rest on one study
+> **Evidence** · 143 claims (81 for, 53 mixed, 9 against) · 106 studies (52 review, 20 quant-synthesis, 16 causal, 8 design, 5 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 21 of 106 report an effect size · 133 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -188,8 +188,7 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [VR simulation training improves orthopaedic trainees' technical proficiency and shortens operative times](../claims/vr-simulation-improves-ortho-technical-proficiency.md) [+W]
 - [Simulation training improves fundus identification rate and time compared with simulated-patient-only training in a randomised trial](../claims/wu-3d-printed-eye-model-improves-fundus-identification.md) [+W]
 - [Interprofessional mass casualty incident simulation increased disaster-response confidence in 96% of participating pre-licensed nursing students](../claims/mass-casualty-simulation-confidence.md) [+W]
-- [High-fidelity simulation is the most commonly used simulation type in studies of critical thinking](../claims/hfs-most-common-simulation-type-critical-thinking.md) [~W]
-- [Simulation and virtual-reality training improved technical performance, task completion time, and perceived realism in thyroid surgery trainees](../claims/simulation-vr-improves-thyroid-surgery-technical-performance.md) [+W]
+- [In thyroid surgery training, simulation and virtual-reality training improved technical performance and task completion time, and simulators were rated as realistic](../claims/simulation-vr-improves-thyroid-surgery-technical-performance.md) [+W]
 - [Intermediate-fidelity mannequin simulation increased knowledge but not confidence compared with no additional instruction (Tiffen et al. study)](../claims/intermediate-fidelity-simulation-knowledge-not-confidence.md) [~W]
 - [Low-fidelity models are non-inferior to high-fidelity ones, which may induce overconfidence, per literature cited in the review](../claims/low-fidelity-non-inferiority-overconfidence.md) [~W]
 - [AR-based remote neurosurgical training system combining cloud computing and AR/VR showed significant skill improvements, with AR outperforming VR in tactile realism and scene authenticity](../claims/remote-ar-training-cloud-5g-skill-gains.md) [+W]

@@ -69,5 +69,5 @@ The review's GRADE appraisal (Supplementary Appendix S2) of certainty per outcom
 - [Multimodal feedback systems produced greater simulator score improvements than conventional feedback in basic robotic skills training](multimodal-feedback-outperforms-conventional.md) — a narrower finding that bears on this claim
 - [Kirkpatrick's four levels of evidence can be applied to RAS training, with level 2 equating to RAS skills assessed with validated scoring systems during simulation.](kirkpatrick-levels-applied-ras-training.md) — related
 - [No included SDL studies measured Kirkpatrick Level 4 (patient/system) outcomes](sdl-no-kirkpatrick-level-4-outcomes.md) — related
-- [All included studies performed outcome evaluations at the reaction and/or learning levels of Kirkpatrick's framework.](oal-dental-education-reaction-learning-levels-only.md) — related
-- [Fewer studies assessed Kirkpatrick level 3 behaviour and level 4 patient outcomes, and higher‐level feature combinations remain unclear](usra-few-high-kirkpatrick-studies.md) — related
+- All included studies performed outcome evaluations at the reaction and/or learning levels of Kirkpatrick's framework. — related
+- Fewer studies assessed Kirkpatrick level 3 behaviour and level 4 patient outcomes, and higher‐level feature combinations remain unclear — related

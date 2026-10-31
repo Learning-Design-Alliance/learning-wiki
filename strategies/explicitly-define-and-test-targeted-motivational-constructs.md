@@ -17,7 +17,7 @@ sources:
 # Researchers should explicitly define the motivational constructs their design strategies aim to influence and test their impact on those constructs
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review recommends that researchers studying online motivational design explicitly name the motivational constructs their strategies target and measure impact on those constructs, because motivational design expertise depends on knowing what constructs a strategy influences and under what conditions it works. The authors state: "we recommend that researchers explicitly define the motivational constructs their strategies aim to influence and test their impact on those constructs." They link this recommendation to greater use of motivational theories, which were cited in fewer than half of the reviewed studies.
@@ -38,8 +38,6 @@ The review recommends that researchers studying online motivational design expli
 
 ## Claims
 
-- [Nearly one-third of experimental studies of online motivational design do not specify which motivational constructs their strategies target](../claims/one-third-of-studies-do-not-specify-targeted-constructs.md) [+W]
-- [Most experimental studies of online motivational design do not cite any theory of motivation](../claims/most-motivational-design-studies-cite-no-theory.md) [+W]
 - [Theory-informed studies of online motivational design target a more pluralistic range of motivational constructs than studies without a theoretical basis](../claims/theory-informed-studies-more-pluralistic-in-constructs.md) [+W]
 
 ## Related Strategies

@@ -41,7 +41,7 @@ The review recommends a multidisciplinary approach in which dietitians lead nutr
 
 ## Claims
 
-- [The review reports that stigma, personal health habits and clinical practice constraints (time, funding, guidance, low dietitian referrals) widen the nutrition knowledge gap](../claims/msad-stigma-habits-clinical-challenges.md) [+W]
+- [The review names stigma, personal health habits and clinical practice constraints (time, funding, guidance, low dietitian referrals) among the reasons for the nutrition knowledge gap](../claims/msad-stigma-habits-clinical-challenges.md) [+W]
 
 ## Related Strategies
 

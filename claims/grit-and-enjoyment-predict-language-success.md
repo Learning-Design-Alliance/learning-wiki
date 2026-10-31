@@ -9,11 +9,11 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2025
-source_checked: 2026-10-31
 sources:
   - id: jia-2025
-    title: "Jia, M., Xin, T., Lina, Z., Baoling, Z., & Li, M. (2025). An analysis of the empirical research on SL/FL teaching and learning based on positive psychology: a systematic literature review. BMC Psychology, 13, 319."
-    author: "Jia, M., Xin, T., Lina, Z., Baoling, Z., & Li, M."
+    resource: "https://doi.org/10.1186/s40359-025-02576-5"
+    title: "Miao, J., Tian, X., Zhang, L., Zhang, B., & Ma, L. (2025). An analysis of the empirical research on SL/FL teaching and learning based on positive psychology: a systematic literature review. BMC Psychology, 13, 319. [doi:10.1186/s40359-025-02576-5](https://doi.org/10.1186/s40359-025-02576-5)"
+    author: "Miao, J., Tian, X., Zhang, L., Zhang, B., & Ma, L."
     q: 2
     i: "?"
     kind: review
@@ -24,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Grit and enjoyment are positively related and predict each other; grit is considered a key predictor of success in SL/FL learning. [→ Jia 2025](#jia-2025)
@@ -33,7 +33,7 @@ sources:
 
 ### Jia 2025
 
-Jia, M., Xin, T., Lina, Z., Baoling, Z., & Li, M. (2025). An analysis of the empirical research on SL/FL teaching and learning based on positive psychology: a systematic literature review. BMC Psychology, 13, 319.
+Miao, J., Tian, X., Zhang, L., Zhang, B., & Ma, L. (2025). An analysis of the empirical research on SL/FL teaching and learning based on positive psychology: a systematic literature review. BMC Psychology, 13, 319. [doi:10.1186/s40359-025-02576-5](https://doi.org/10.1186/s40359-025-02576-5)
 
 `q2 · i?` · `review · r2`
 

@@ -47,5 +47,5 @@ The review reports, citing prior studies, that most UK medical students receive 
 
 ## Related Claims
 - [The review reports a lack of comprehensive guidelines and mandatory enforcement as a principal reason for inconsistent nutrition education across medical schools](no-mandatory-nutrition-curriculum-enforcement.md) — related
-- [The review reports that stigma, personal health habits and clinical practice constraints (time, funding, guidance, low dietitian referrals) widen the nutrition knowledge gap](msad-stigma-habits-clinical-challenges.md) — related
+- [The review names stigma, personal health habits and clinical practice constraints (time, funding, guidance, low dietitian referrals) among the reasons for the nutrition knowledge gap](msad-stigma-habits-clinical-challenges.md) — related
 - [The review reports that low confidence in counselling patients and perceived insignificance of nutrition contribute to the knowledge deficit among medical students and doctors](msad-low-confidence-perceived-insignificance.md) — related

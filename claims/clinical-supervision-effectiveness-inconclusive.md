@@ -71,4 +71,4 @@ The monograph reports Graybeal's (1984) finding of dilution in practice: "the to
 - [In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate did not improve](probing-feedback-revise-resubmit-evidence.md) — related
 - [In a qualitative case study of three social-studies teacher candidates, pedagogical judgment appeared to grow over a clinical semester of structured, iterative support aligned to rubric competencies](structured-iterative-support-improves-pedagogical-judgment.md) — related
 - [Teachers use extracted analytics more for supervision than for guidance, with monitoring the dominant observed action](extracted-analytics-more-supervision-than-guidance.md) — related
-- [Nine of the 39 studies did not define clinical supervision.](nine-studies-no-definition.md) — related
+- Nine of the 39 studies did not define clinical supervision. — related

@@ -12,7 +12,7 @@ generated:
 # Kirkpatrick four-level evaluation model with Level 4a/4b distinction
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 13 claims (12 for, 1 mixed) · 7 studies (5 review, 2 quant-synthesis), `q2`–`q3` · 0 of 7 report an effect size · 13 claims rest on one study
+> **Evidence** · 12 claims (11 for, 1 mixed) · 7 studies (5 review, 2 quant-synthesis), `q2`–`q3` · 0 of 7 report an effect size · 12 claims rest on one study
 
 ## Description
 The review organizes its evidence synthesis around the Kirkpatrick model, "a widely used four-level framework for evaluating the effectiveness of educational interventions, including SBE". Level 1 assesses reaction, Level 2 learning, Level 3 behavior in clinical practice, and Level 4 results; the review adopts the subdivision of Level 4 into 4a (system-level process metrics such as response times and protocol adherence) and 4b (direct patient outcomes such as mortality and complications). This distinction structures its primary outcome coding and thematic synthesis.
@@ -44,7 +44,6 @@ The review organizes its evidence synthesis around the Kirkpatrick model, "a wid
 - [Video review improves resident behaviours in clinical practice (Kirkpatrick level 3), including leadership, prescribing accuracy and communication](../claims/video-review-kirkpatrick-level-3-behaviour.md) [+M]
 - [Video review improves patient outcomes (Kirkpatrick level 4) in the single study reporting this level](../claims/video-review-kirkpatrick-level-4-patient-outcome.md) [+M]
 - [Simulation training for ultrasound‐guided regional anaesthesia most often shows significant improvement at Kirkpatrick level 2 outcomes](../claims/usra-simulation-improves-kirkpatrick-level-2.md) [+M]
-- [Fewer studies assessed Kirkpatrick level 3 behaviour and level 4 patient outcomes, and higher‐level feature combinations remain unclear](../claims/usra-few-high-kirkpatrick-studies.md) [+M]
 
 ## Related Research Methods
 -

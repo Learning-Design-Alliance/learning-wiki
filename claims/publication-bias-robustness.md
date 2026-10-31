@@ -64,4 +64,4 @@ Three publication-bias tests were applied. Published studies had larger effect s
 - Publication-bias analyses indicate a low, negligible risk of publication bias in the synthesized effect sizes — related
 - Publication-bias analysis indicates 51 unpublished studies would be needed to reverse the meta-analysis findings — related
 - Publication bias due to small study effects was limited, and sensitivity analyses supported Winsorizing an outlying effect size — related
-- [No publication bias detected across included studies in the TBL-LBL meta-analysis](no-publication-bias-tbl-meta-analysis.md) — related
+- No publication bias detected across included studies in the TBL-LBL meta-analysis — related

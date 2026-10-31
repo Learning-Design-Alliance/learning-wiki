@@ -46,6 +46,6 @@ A scoping review based on JBI methodology searched eleven databases from June to
 
 ## Related Claims
 - [Included studies reported improved knowledge levels and reduced skin tear incidence or prevalence.](included-studies-report-improved-knowledge-and-reduced-skin-tear-incidence.md) — possibly the same claim (merge candidate)
-- [The reviewed articles did not report studies that assessed nurses' knowledge using a specific and/or standardised tool designed to evaluate that.](no-standardised-tool-to-assess-nurses-knowledge.md) — related
+- The reviewed articles did not report studies that assessed nurses' knowledge using a specific and/or standardised tool designed to evaluate that. — related
 - [More longitudinal studies are needed to see if the effects are maintained over time.](more-longitudinal-studies-needed-to-see-if-effects-maintained.md) — related
 - [The included studies do not reflect which intervention is better or which favours the acquisition and retention of knowledge more effectively.](studies-do-not-reflect-which-intervention-is-better.md) — related

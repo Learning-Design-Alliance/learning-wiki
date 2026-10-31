@@ -17,7 +17,7 @@ sources:
 # Integrate structured team-based IPE training programs and community-based placements in healthcare curricula
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (4 for, 1 mixed, 1 against) · 2 studies (1 review, 1 qualitative), `q2` · 0 of 2 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 against) · 2 studies (1 review, 1 qualitative), `q2` · 0 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 Based on the finding that teamwork and collaboration are the most frequently developed competencies through IPE, the review recommends that "healthcare institutions should consider integrating structured team-based training programs in both educational and clinical practice settings". It also recommends community-based IPE interventions that "bridge the gap between theoretical knowledge and practical application by placing students in real-world healthcare settings outside the traditional hospital environment", integrated clinical placements, and longitudinal capstone projects.
@@ -46,7 +46,6 @@ Based on the finding that teamwork and collaboration are the most frequently dev
 - [Mixed interprofessional group training promoted mutual respect, understanding of roles, and appreciation of teamwork among ED participants](../claims/interprofessional-mixed-groups-mutual-respect-consent-training.md) [+M]
 - [Interprofessional home visits by student teams reduced 30-day hospital readmission rates compared to a control group (p = 0.038)](../claims/interprofessional-hotspotting-home-visits-reduced-readmissions.md) [+M]
 - [IPE produces negative impacts including logistical challenges, power dynamics, communication barriers, and feeling overwhelmed by extra workload](../claims/ipe-negative-impacts-power-dynamics-workload.md) [-M]
-- [Most included IPE studies were of medium methodological quality, with very low scores on theoretical framework and stakeholder engagement criteria](../claims/ipe-studies-medium-quality-quads.md) [~M]
 
 ## Related Strategies
 

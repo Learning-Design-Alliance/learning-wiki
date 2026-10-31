@@ -12,7 +12,7 @@ generated:
 # Five-method taxonomy of online-based and technology-assisted psychiatric education for trainees
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The review organizes the literature on online-based and technology-assisted psychiatric education into five methods: videoconference, online modules/e-learning, virtual patients, software/applications, and social media. These methods were applied to objectives including "teaching theory knowledge, skills training, psychotherapy supervision, and information retrieval." The taxonomy is supported by a three-phase trend analysis (prior to 2015, 2015-2019, and 2020 onward) of 82 included articles.
@@ -24,7 +24,6 @@ The review organizes the literature on online-based and technology-assisted psyc
 ### Claims
 
 - [Videoconference-based learning was the most widely implemented online method in psychiatric trainee education](../claims/videoconference-most-implemented-psychiatric-education.md) [+W]
-- [Significant increase in relevant studies after the COVID-19 pandemic](../claims/post-pandemic-spike-psychiatric-online-education-studies.md) [+W]
 - [Virtual patient simulators show construct validity for assessing psychopharmacology proficiency](../claims/virtual-patient-simulator-construct-validity-psychopharmacology.md) [+W]
 - [Online modules show significant pre-post knowledge gains in psychiatric trainees](../claims/online-modules-knowledge-gains-psychiatric-trainees.md) [+W]
 - [Remote psychotherapy supervision showed comparable skill quality to face-to-face supervision but was less preferred](../claims/remote-psychotherapy-supervision-comparable-quality-less-preferred.md) [+W]

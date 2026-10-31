@@ -43,7 +43,7 @@ The review recommends allocating more time and resources for nutrition within cl
 ## Claims
 
 - [The review reports that most UK medical students receive less than 2 hours of nutrition education and that 75% of US medical schools have no required clinical nutrition classes](../claims/msad-insufficient-nutrition-curriculum-time.md) [+W]
-- [The review reports that stigma, personal health habits and clinical practice constraints (time, funding, guidance, low dietitian referrals) widen the nutrition knowledge gap](../claims/msad-stigma-habits-clinical-challenges.md) [+W]
+- [The review names stigma, personal health habits and clinical practice constraints (time, funding, guidance, low dietitian referrals) among the reasons for the nutrition knowledge gap](../claims/msad-stigma-habits-clinical-challenges.md) [+W]
 
 ## Related Strategies
 

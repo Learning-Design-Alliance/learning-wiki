@@ -45,7 +45,7 @@ This finding comes from the scoping review's synthesis of included studies in th
 
 
 ## Related Claims
-- [Scoping review identified 24 eligible studies from 3,422 retrieved records](scoping-review-24-studies-nurse-biologics-competencies.md) — related
+- Scoping review identified 24 eligible studies from 3,422 retrieved records — related
 - [Clinical Assessment and Clinical Management were the most frequently reported competency domains](clinical-assessment-management-most-frequent-obesity-competencies.md) — related
 - [Nurse-led telecare and telemedicine improve communication, self-management, and continuity of care in biologics therapy](nurse-led-telecare-improves-biologics-care.md) — related
 - [A systematic review of 13 articles found nurses achieved higher satisfaction in patient self-care and adherence than physicians](nurses-higher-satisfaction-self-care-adherence.md) — related

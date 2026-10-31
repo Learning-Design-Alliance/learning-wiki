@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Simulation and virtual-reality training improved technical performance, task completion time, and perceived realism in thyroid surgery trainees
-description: Simulation and virtual-reality training improved technical performance, task completion time, and perceived realism in thyroid surgery trainees
+title: In thyroid surgery training, simulation and virtual-reality training improved technical performance and task completion time, and simulators were rated as realistic
+description: In thyroid surgery training, simulation and virtual-reality training improved technical performance and task completion time, and simulators were rated as realistic
 id: simulation-vr-improves-thyroid-surgery-technical-performance
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-31
 sources:
   - id: zhang-daqi-2026
     resource: "https://doi.org/10.1007/s00423-026-04013-6"
@@ -20,14 +21,14 @@ sources:
     rigour: 2
 ---
 
-# Simulation and virtual-reality training improved technical performance, task completion time, and perceived realism in thyroid surgery trainees
+# In thyroid surgery training, simulation and virtual-reality training improved technical performance and task completion time, and simulators were rated as realistic
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` Simulation and virtual-reality training improved technical performance, task completion time, and perceived realism among surgical trainees. [→ Zhang Daqi 2026](#zhang-daqi-2026)
+`q3 i?` In the review's simulation and VR group of studies, the one randomised trial (16 residents) found VR training shortened task completion time and raised OSATS scores compared with textbook learning, a simulation study with 96 junior residents found improved non-technical skills, and realism was rated high by expert evaluators validating a low-cost simulator and by residents rating a high-fidelity scenario. [→ Zhang Daqi 2026](#zhang-daqi-2026)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Zhang Daqi, Brucchi Francesco, Barbieri Diego, Kim Hoon Yub, Colombo Carla, Dona
 
 `q3 · i?` · `review · r2`
 
-Systematic review of ten primary studies (2011–2025) on educational interventions in thyroid surgery. The review reports that "Simulation and virtual-reality training improved technical performance, task completion time, and perceived realism" across included studies.
+Systematic review of educational interventions in thyroid surgery (2011–2025), with narrative synthesis. The abstract says ten primary studies were included, but the Results section and Table 1 list nine. The abstract summarises that "Simulation and virtual-reality training improved technical performance, task completion time, and perceived realism". The evidence behind it is small: one RCT of 16 residents (VR group faster, 27.3 vs 35.3 min, and higher OSATS scores than textbook learning), a validation study in which 10 expert evaluators rated a low-cost simulator's realism 4.6/5, a technical feasibility study of an augmented-reality prototype, and a high-fidelity scenario in which 96 junior residents rated realism 4.3/5 and improved on non-technical skills (NOTSS, p < 0.01). Realism was thus a rating of the simulators, not a learning outcome.
 
 > "Simulation and virtual-reality training improved technical performance, task completion time, and perceived realism."
 

@@ -48,4 +48,4 @@ The review reports, citing a single included trial, that "a hybrid sequence comb
 - [Several included studies found haptic VR training equivalent rather than superior to conventional dental training](ir-dental-equivalence-mixed-findings.md) — related
 - [No significant differences between VR-based and conventional training in operational understanding, technical skills, or system usability](no-difference-operational-skills-usability.md) — related
 - [VR/AR and metaverse-based approaches were more frequently associated with favorable findings than screen-based virtual patient approaches, which yielded mixed findings with no clear advantage over non-technology-based simulation](vr-ar-more-favorable-than-screen-based-vps-communication.md) — a broader claim this one bears on
-- [Scoping review identified 51 studies of simulation in neuro-oncological surgery, with AR the most frequently studied technology (25 of 51 articles)](scoping-review-51-simulation-studies-neuro-oncology.md) — related
+- Scoping review identified 51 studies of simulation in neuro-oncological surgery, with AR the most frequently studied technology (25 of 51 articles) — related

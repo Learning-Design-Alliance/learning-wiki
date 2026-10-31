@@ -13,7 +13,7 @@ generated:
 # JBI critical appraisal checklists for RCT and quasi-experimental quality assessment
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Joanna Briggs Institute checklists used by reviewers to assess the internal validity and risk of bias of randomized and quasi-experimental studies.
@@ -23,7 +23,6 @@ Joanna Briggs Institute checklists used by reviewers to assess the internal vali
 
 ### Claims
 
-- [Methodological quality of included studies is generally low, with only one RCT rated high quality](../claims/simulation-studies-low-methodological-quality.md) [+W]
 
 ## Related Products and Programmes
 -

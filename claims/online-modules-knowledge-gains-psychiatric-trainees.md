@@ -47,4 +47,4 @@ The review reports that across studies of brief online modules on topics such as
 ## Related Claims
 - [Zlotos study found confidence gains at post-test and 6-month follow-up, with knowledge peaking immediately then declining but staying above pretest](zlotos-confidence-knowledge-trajectory.md) — related
 - [Videoconference-based learning was the most widely implemented online method in psychiatric trainee education](videoconference-most-implemented-psychiatric-education.md) — related
-- [Significant increase in relevant studies after the COVID-19 pandemic](post-pandemic-spike-psychiatric-online-education-studies.md) — related
+- Significant increase in relevant studies after the COVID-19 pandemic — related

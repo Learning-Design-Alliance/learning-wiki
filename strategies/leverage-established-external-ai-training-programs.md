@@ -17,7 +17,7 @@ sources:
 # Leverage established external AI training programs to address instructor shortage in health curricula
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 To address the shortage of instructors with expertise in clinical AI applications, the review proposes leveraging established training programs from other institutions, citing programs by Stanford University and Harvard University as examples. These programs "offer a comprehensive curriculum that covers essential AI concepts, practical applications, and ethical considerations". This gives curriculum designers a concrete route to embed AI education without new in-house faculty.
@@ -39,8 +39,6 @@ To address the shortage of instructors with expertise in clinical AI application
 
 ## Claims
 
-- [The review identifies a significant gap in focused studies on competencies required for AI use in health care](../claims/knowledge-gap-ai-competency-studies.md) [+W]
-- [The systematic review screened 2457 articles and included 7 studies meeting all inclusion criteria](../claims/review-screened-2457-included-7-studies.md) [+W]
 
 ## Related Strategies
 - 

@@ -47,4 +47,4 @@ Narrative synthesis across 62 included studies found "the presence of an expert 
 ## Related Claims
 - [Cook et al. found multiple learning strategies was the only instructional design feature with a significantly positive pooled effect on Kirkpatrick level 4 patient outcomes (0.53, p < 0.001)](multiple-learning-strategies-pooled-patient-outcomes.md) — related
 - [Isolated feature comparisons: multiple learning strategies with repetitive practice increased self‐reported block success, and AI‐assisted nerve identification reduced patient complications](usra-isolated-feature-trials.md) — related
-- [Fewer studies assessed Kirkpatrick level 3 behaviour and level 4 patient outcomes, and higher‐level feature combinations remain unclear](usra-few-high-kirkpatrick-studies.md) — related
+- Fewer studies assessed Kirkpatrick level 3 behaviour and level 4 patient outcomes, and higher‐level feature combinations remain unclear — related

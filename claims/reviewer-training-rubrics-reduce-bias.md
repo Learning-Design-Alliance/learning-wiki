@@ -48,7 +48,7 @@ Review found "Lack of consistency in reviewing has been seen as a challenge of C
 - [Little evidence demonstrates effectiveness of CBA/HA in admitting well-prepared students](little-evidence-cba-ha-effectiveness.md) — related
 - [Wide variation exists in definitions of competency-based and holistic admissions across health professions programs](wide-variation-cba-ha-definitions.md) — related
 - [CBA and HA implementation is associated with increased diversity of admitted students](cba-ha-increased-diversity.md) — related
-- [Interviews are the most frequently cited method for assessing competencies in CBA and HA](interviews-most-cited-assessment-method.md) — related
+- Interviews are the most frequently cited method for assessing competencies in CBA and HA — related
 - [The VCP rubric was difficult for teams to use because it lacked standardized calibration and its process and content categories were unclear](vcp-rubric-lacked-calibration-and-clarity.md) — related
 - [Exemplar-based calibration is expected to align student ratings with expert ratings at the criterion level](trainer-calibration-expected-align-rater-judgments.md) — related
 - [Higher stated education and SES levels receive responses with more positive sentiment, an implicit bias that can disadvantage lower-education users](education-ses-sentiment-bias-qa.md) — related
