@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: mainwaring-elizabeth-m-a-2026
     resource: "https://doi.org/10.1007/s00464-026-13309-z"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Internal structure evidence was reported in only 5 of 13 AI studies (38.5%), and generalisability was limited across the majority (8/13 AI studies, 61.5%). [→ Mainwaring Elizabeth M. A. 2026](#mainwaring-elizabeth-m-a-2026)

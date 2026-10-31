@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: bakken-2021
     resource: "https://doi.org/10.3390/educsci11100638"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The overall mean effect on transfer reading between treated and control groups was g = 0.49 (95% CI = [0.20, 0.78], p < 0.001), based on 14 effect sizes nested in five studies. [→ Bakken 2021](#bakken-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: mixed
+newest_evidence: 2017
 sources:
   - id: sedat-turgut-2017
     resource: "https://doi.org/10.26822/iejee.2017236115"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Between-group homogeneity for game type was significant (QB = 6.667, p = 0.036); musical games had the largest effect (1.341), computer-assisted the smallest (0.472). [→ Sedat Turgut 2017](#sedat-turgut-2017)

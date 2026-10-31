@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: strong
+newest_evidence: 2026
 sources:
   - id: cheverko-cm-2026
     resource: "https://doi.org/10.1002/ase.70262"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` GPT‐4o through GPT o1 achieved 90.1% pooled accuracy on text‐based biomedical MCQs, significantly higher than GPT‐4 (81.9%) and GPT‐3/3.5 (59.3%). [→ Cheverko CM 2026](#cheverko-cm-2026)

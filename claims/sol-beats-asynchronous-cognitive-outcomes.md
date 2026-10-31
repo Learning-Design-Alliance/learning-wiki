@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: florence-martin-2021
     resource: "https://www.irrodl.org/index.php/irrodl"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i1` small
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Across seven primary studies, synchronous online learning produced a small but statistically significant advantage over asynchronous online learning for cognitive outcomes under a random-effects model. [→ Florence Martin 2021](#florence-martin-2021)

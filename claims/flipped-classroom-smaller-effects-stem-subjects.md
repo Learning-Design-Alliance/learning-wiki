@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: hwan-young-jang-and-hye-jeong-kim-2020
     resource: "https://doi.org/10.3390/educsci10040115"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i1` small
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Subgroup analysis by subject found small effect sizes for Chemistry (ES = 0.10), Engineering (ES = 0.17), Physics (ES = 0.15), and Math (ES = 0.13), compared with larger effects for Computer Science (ES = 0.96) and Education (ES = 0.80). [→ Hwan Young Jang and Hye Jeong Kim 2020](#hwan-young-jang-and-hye-jeong-kim-2020)

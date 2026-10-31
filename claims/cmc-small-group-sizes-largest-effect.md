@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2012
 sources:
   - id: lin-2012
     resource: "https://eric.ed.gov/?id=ED574920"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r1` · `q3`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Among grouping configurations, small group sizes yielded the largest effect sizes, exceeding both no grouping and groups with more than 3 students. [→ Lin 2012](#lin-2012)

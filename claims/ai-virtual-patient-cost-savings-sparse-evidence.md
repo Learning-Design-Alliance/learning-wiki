@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: fang-eric-kin-meng-2026
     resource: "https://doi.org/10.1186/s12909-026-10028-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Only several studies evaluated cost; where cost was compared with existing teaching methods, savings arose from obviating faculty time and labour and human standardized patients. [→ Fang Eric Kin Meng 2026](#fang-eric-kin-meng-2026)

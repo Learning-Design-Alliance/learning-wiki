@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2023
+source_checked: 2026-10-31
 sources:
   - id: elias-walsh-2023
     resource: "https://ies.ed.gov/ncee/wwc/Publication/WWC-2023008"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The method identified positive associations between intervention impacts and components related to non-academic student supports, including teaching social-emotional learning strategies and outreach to parents and families. [→ Elias Walsh 2023](#elias-walsh-2023)

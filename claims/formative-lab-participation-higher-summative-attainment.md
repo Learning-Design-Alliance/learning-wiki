@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: oktariani-o-2026
     resource: "https://doi.org/10.12688/f1000research.182947.1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` One included study found students who participated in paired online laboratory formative assessments showed higher achievement on summative assessment than students who did not participate. [→ Oktariani O 2026](#oktariani-o-2026)

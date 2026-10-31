@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: veli-batdı-hacer-batdı-2015
     resource: "https://doi.org/10.12738/estp.2015.6.0156"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Between-group analysis across five grade levels (preschool N=2, primary N=10, secondary N=24, high school N=2, university N=2) found no significant between-group effect. [→ Veli Batdı & Hacer Batdı 2015](#veli-batd-hacer-batd-2015)

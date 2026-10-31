@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2020
+source_checked: 2026-10-31
 sources:
   - id: hwan-young-jang-and-hye-jeong-kim-2020
     resource: "https://doi.org/10.3390/educsci10040115"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i1` small
+> **Currency** · newest study 2020 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Across 43 studies, the random effects model estimated an overall effect size of ES = 0.35 (95% CI 0.24 to 0.47), a small-to-medium effect favouring flipped classrooms. [→ Hwan Young Jang and Hye Jeong Kim 2020](#hwan-young-jang-and-hye-jeong-kim-2020)

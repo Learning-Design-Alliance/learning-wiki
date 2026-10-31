@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: li-2022
     resource: "https://doi.org/10.15354/bece.22.ar018"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Effects across performance dimensions rank learning motivation (SMD = 0.936) above emotions and attitude (0.788), higher order thinking (0.764), academic achievements (0.696), practical skills (0.544), and learning satisfaction (0.516). [→ Li 2022](#li-2022)

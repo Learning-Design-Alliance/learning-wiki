@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: veli-batdı-hacer-batdı-2015
     resource: "https://doi.org/10.12738/estp.2015.6.0156"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across implementation-period groups (2–4, 5–6, 9–18 weeks, and unspecified), no significant between-group effect was found, although the 9–18-week group had the highest descriptive ES of 2.55 and the unspecified group the lowest (1.23). [→ Veli Batdı & Hacer Batdı 2015](#veli-batd-hacer-batd-2015)

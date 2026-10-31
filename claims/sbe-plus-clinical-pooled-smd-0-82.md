@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: prothero-2026
     resource: "https://doi.org/10.1002/nop2.70689"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Across 11 meta-analysed studies (n=918), simulation plus clinical teaching versus clinical teaching only gave SMD = 0.82 (95% CI 0.49–1.15). [→ Prothero 2026](#prothero-2026)

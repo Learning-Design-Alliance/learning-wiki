@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: pavletič-bernarda-2026
     resource: "https://doi.org/10.1186/s12909-026-09574-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Qualitative studies consistently report difficulties across knowledge acquisition, lectures, assessments, emotional well-being, social relationships, and systemic barriers. [→ Pavletič Bernarda 2026](#pavletic-bernarda-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: yahya-fahmi-2026
     resource: "https://doi.org/10.12688/f1000research.191181.1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Directive guidance raised knowledge for higher-prior-knowledge learners while suppressing attitudinal growth; just-in-time prompts facilitated rule learning moderated by prior knowledge; unguided exploratory freedom can add cognitive load. [→ Yahya Fahmi 2026](#yahya-fahmi-2026)

@@ -17,7 +17,7 @@ sources:
 # Subordinate digital resources to pedagogical principles: authentic problematization, scaffolding, formative evaluation, and timely feedback
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 unmarked) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The review recommends that active methodologies gain power when technology is designed "with" and not only "in" technology, subordinating digital resources to clear pedagogical principles of "authentic problematization, scaffolding, formative evaluation and timely feedback". This relocates the teacher as a designer of experiences rather than a user of platforms, supported by continuous professional development and institutional policies for pedagogical experimentation.
@@ -48,7 +48,7 @@ The review recommends that active methodologies gain power when technology is de
 
 ## Related Strategies
 
-- [Pedagogical Innovation Digital Environments Gains Higher Education](../claims/pedagogical-innovation-digital-environments-gains-higher-education.md)
+- [Pedagogical Innovation Digital Environments Gains Higher Education](../claims/pedagogical-innovation-digital-environments-gains-higher-education.md) [+W]
 - [Design AI-mediated cognitive supports with transparency, clear boundaries, and teacher evaluation](ai-supports-transparency-boundaries-evaluation.md)
 
 ## Examples

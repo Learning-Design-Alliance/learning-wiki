@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: mixed
+newest_evidence: 2026
 sources:
   - id: bodke-parag-2026
     resource: "https://doi.org/10.1186/s12909-026-09999-7"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q3` · `i1` small
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Across six studies, standardised mean differences for LLM-assisted learning ranged from d = 0.31 to d = 0.71 (median ~0.53), largest in biochemistry, pathology and pharmacology. [→ Bodke Parag 2026](#bodke-parag-2026)

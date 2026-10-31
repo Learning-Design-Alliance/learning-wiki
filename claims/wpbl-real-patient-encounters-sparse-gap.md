@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: stelling-h-2026
     resource: "https://doi.org/10.1136/bmjopen-2026-119725"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Accounts of workplace-based learning from real-patient encounters are sparse, making WPBL an under-investigated gap despite its central role in knowledge-building. [→ Stelling H 2026](#stelling-h-2026)

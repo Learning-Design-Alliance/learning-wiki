@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: el-hussein-mohamed-toufic-2026
     resource: "https://doi.org/10.1111/jan.70640"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After simulation-based education, ICU nursing documentation of delirium screening rose from 40% to 93% on day shifts and from 27% to 71% on night shifts following documentation changes. [→ EL Hussein Mohamed Toufic 2026](#el-hussein-mohamed-toufic-2026)

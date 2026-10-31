@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: şenel-elaldı-2016
     resource: "http://dx.doi.org/10.11114/jets.v4i7.1456"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Among the remaining attitude applications, Learning Cycle Model (d=0,0212) and Computer Aided Education (d=0,0242) had effect sizes close to zero, classified as small, while Blended Learning Method (d=0,3934) and Reflective Thinking Based Learning Activities (d=0,2097) had medium effect sizes; the GOE Method (d=1,0249) had a very large effect size. [→ Şenel Elaldı 2016](#senel-elald-2016)

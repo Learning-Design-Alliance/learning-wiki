@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: sedat-turgut-2017
     resource: "https://doi.org/10.26822/iejee.2017236115"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Between-group homogeneity for learning domain was not significant (QB = 0.618, p = 0.734); effects were medium and similar for mathematics (0.787), geometry (0.905), and combined domains (0.712). [→ Sedat Turgut 2017](#sedat-turgut-2017)

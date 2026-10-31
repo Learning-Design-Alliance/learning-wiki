@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-31
 sources:
   - id: loturco-2022
     resource: "https://doi.org/10.3390/educsci12020134"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2022 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Sub-group meta-analyses found the interventions were not capable of significantly improving academic achievement in language, reading, and composite scores. [→ Loturco 2022](#loturco-2022)

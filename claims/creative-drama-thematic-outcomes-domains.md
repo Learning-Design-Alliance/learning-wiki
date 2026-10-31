@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-31
 sources:
   - id: veli-batdı-hacer-batdı-2015
     resource: "https://doi.org/10.12738/estp.2015.6.0156"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Content analysis of student-view documents yielded four themes: effect on the cognitive domain; thinking, creativity, and critical thinking skills; learning environment and process; and social aspects, affective domain, and attitude, including negative codes such as confusion and time cost. [→ Veli Batdı & Hacer Batdı 2015](#veli-batd-hacer-batd-2015)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: hwan-young-jang-and-hye-jeong-kim-2020
     resource: "https://doi.org/10.3390/educsci10040115"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Meta-regression found a negative slope of effect size on publication year that was statistically significant (estimate −0.51, SE 0.070, z = −7.20, p = 0.001). [→ Hwan Young Jang and Hye Jeong Kim 2020](#hwan-young-jang-and-hye-jeong-kim-2020)

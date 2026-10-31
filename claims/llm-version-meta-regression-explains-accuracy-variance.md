@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: strong
+newest_evidence: 2026
 sources:
   - id: cheverko-cm-2026
     resource: "https://doi.org/10.1002/ase.70262"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Meta‐regression of OpenAI versions found version progression explained 54.9% of observed variance in accuracy (p < 0.001), with GPT‐4 OR = 3.13 and GPT‐4o_o1 OR = 6.36 versus GPT‐3/3.5. [→ Cheverko CM 2026](#cheverko-cm-2026)

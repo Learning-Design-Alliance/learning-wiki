@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: k-anniesmitha-2026
     resource: "https://doi.org/10.1186/s12909-026-09764-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Among 67 neuropsychology students, an AR 3D visualisation task and a 2D textbook-colouring task raised knowledge to a similar degree, while the 3D method received greater satisfaction ratings and was preferred by students. [→ K Anniesmitha 2026](#k-anniesmitha-2026)

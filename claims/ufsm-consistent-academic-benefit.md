@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: curnutte-mary-2026
     resource: "https://doi.org/10.1111/josh.70244"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across studies of UFSM/CEP reviewed, most found positive associations with attendance and test scores, with CEP studies consistently positive. [→ Curnutte Mary 2026](#curnutte-mary-2026)

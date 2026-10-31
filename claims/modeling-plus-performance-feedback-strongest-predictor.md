@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: matthew-e-brock-and-erik-w-carter-2017
     resource: "https://doi.org/10.1177/0741932516653477"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In meta-regression across all 12 studies, presence of a combination of modeling and performance feedback was the strongest single predictor of effect size, statistically significant and explaining 42.03% of random variance. [→ Matthew E. Brock and Erik W. Carter 2017](#matthew-e-brock-and-erik-w-carter-2017)

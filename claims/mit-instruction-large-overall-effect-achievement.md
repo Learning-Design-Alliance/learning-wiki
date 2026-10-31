@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: baş-2016
     resource: "https://doi.org/10.12738/estp.2016.6.0015"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2` · `i3` large
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Random effects meta-analysis yields an overall effect size of d = 1.077 (95% CI 0.921–1.232), large by Cohen's classification, significantly favoring MIT-based instruction. [→ Baş 2016](#bas-2016)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: kaitlyn-g-fitzgerald-and-elizabeth-tipton-2022
     resource: "https://doi.org/10.1080/19345747.2022.2031366"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Visualization type (Factor A) is a significant source of variation in practitioners' correctness scores, and the MARC plot yielded the highest average score (5.3 of 7 correct). [→ Kaitlyn G. Fitzgerald and Elizabeth Tipton 2022](#kaitlyn-g-fitzgerald-and-elizabeth-tipton-2022)

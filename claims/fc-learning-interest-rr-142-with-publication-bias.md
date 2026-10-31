@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: zheng-hui-2026
     resource: "https://doi.org/10.3389/fpubh.2026.1896815"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` FC students showed significantly greater learning interest than LBL students (pooled RR 1.42, 95% CI 1.33–1.53), but Begg’s test detected significant publication bias for this outcome (P = 0.049). [→ Zheng Hui 2026](#zheng-hui-2026)

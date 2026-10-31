@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: kaitlyn-g-fitzgerald-and-elizabeth-tipton-2022
     resource: "https://doi.org/10.1080/19345747.2022.2031366"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Practitioners were more likely to rate the evidence as positive when the summary effect was large (d = 0.2) and non-significant (condition c) than when it was large and significant (condition bc), apparently because condition bc included one study with a negative effect. [→ Kaitlyn G. Fitzgerald and Elizabeth Tipton 2022](#kaitlyn-g-fitzgerald-and-elizabeth-tipton-2022)

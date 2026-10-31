@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: koçak-2021
     resource: "https://eric.ed.gov/?id=EJ1286675"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · quant-synthesis `r2` · `q3` · `i2`–`i3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Classroom-based physical activities (ES = 2.987) have huge effects on academic achievement. [→ Koçak 2021](#kocak-2021)

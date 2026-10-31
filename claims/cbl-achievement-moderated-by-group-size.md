@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: tutal-2023
     resource: "https://doi.org/10.46809/jpse.v4i5.71"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` The between-group heterogeneity test for group size was statistically significant (Qb=15.421, p<0.05): studies with fewer than 50 participants showed g=1.116, studies with 50-100 participants g=1.096, and studies with more than 100 participants a modest g=0.498. [→ Tutal 2023](#tutal-2023)

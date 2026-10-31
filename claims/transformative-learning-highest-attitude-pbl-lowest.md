@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: mixed
+newest_evidence: 2016
 sources:
   - id: şenel-elaldı-2016
     resource: "http://dx.doi.org/10.11114/jets.v4i7.1456"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Transformative Learning Theory had the highest attitude effect size (d=1,4760, a huge level) in Biology pre-service teachers, while Problem Based Learning had the lowest (d=-0,3949) in Science pre-service teachers. [→ Şenel Elaldı 2016](#senel-elald-2016)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: wu-yaqiu-2026
     resource: "https://doi.org/10.1186/s12909-026-09526-8"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2`–`q3` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Pooled across four studies, flipped teaching significantly improved self-directed learning ability (SMD = 2.54, 95% CI 1.04–4.04) with extreme heterogeneity (I² = 98.8%). [→ Wu Yaqiu 2026](#wu-yaqiu-2026)

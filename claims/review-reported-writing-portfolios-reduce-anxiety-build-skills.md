@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2023
+source_checked: 2026-10-31
 sources:
   - id: philominraj-2023
     resource: "https://www.mextesol.net/journal/"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2023 · checked against its sources 2026-10-31 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports that writing portfolios were used to evaluate EFL and reduce learners' test-anxiety levels, keeping learners engaged, reducing anxiety and increasing confidence. [→ Philominraj 2023](#philominraj-2023)

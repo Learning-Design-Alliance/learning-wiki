@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: k-anniesmitha-2026
     resource: "https://doi.org/10.1186/s12909-026-09764-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a three-group randomised study of 60 clinical students, the hand-held scanner 3D imaging group outperformed the traditional teaching group on exam outcomes, clinical practice assessment and teacher satisfaction. [→ K Anniesmitha 2026](#k-anniesmitha-2026)

@@ -89,7 +89,7 @@ Hierarchical linear modeling meta-analysis of 46 single-case experimental design
 
 ## Related Claims
 
-- [Complete behavioral skills training produces significantly higher DTT implementation fidelity than trainings using only one, two, or three BST components](bst-more-effective-than-partial-component-training.md) — related
+- [In a meta-analysis of single-case studies, participants trained with complete behavioral skills training had significantly higher DTT implementation fidelity than those trained with only one, two, or three BST components](bst-more-effective-than-partial-component-training.md) — related
 - [Modeling, when analyzed as a separate moderator, shows no statistically significant effect on DTT implementation fidelity](modeling-component-not-significant.md) — related
 - [DTT implementation fidelity declines slightly after training ends, with a statistically significant difference between intervention and maintenance slopes](dtt-fidelity-declines-during-maintenance.md) — related
 - [DTT implementation fidelity declines slightly after training ends, though the decline may reflect outliers](fidelity-declines-in-maintenance.md) — related

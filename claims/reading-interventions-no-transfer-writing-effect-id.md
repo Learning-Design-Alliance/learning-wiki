@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: bakken-2021
     resource: "https://doi.org/10.3390/educsci11100638"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The mean effect on transfer writing for treated versus control groups was g = 0.04 (95% CI = [−0.36, 0.44], p < 0.844), which may indicate the instructions had no effect on transfer writing skills. [→ Bakken 2021](#bakken-2021)

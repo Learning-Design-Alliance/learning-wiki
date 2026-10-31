@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: casimiro-urcos-cn-2026
     resource: "https://doi.org/10.12688/f1000research.176682.1"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` PRISMA-based search of 2020–August 2025 literature identified 539 studies, of which 39 met inclusion criteria, with 9927 total participants (samples 7–3268, mean 254.54). [→ Casimiro Urcos CN 2026](#casimiro-urcos-cn-2026)

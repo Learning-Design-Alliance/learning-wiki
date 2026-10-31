@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: şenel-elaldı-2016
     resource: "http://dx.doi.org/10.11114/jets.v4i7.1456"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Of 324 preliminary studies (218 articles, 106 theses), 23 met inclusion criteria and were analyzed: 9 on retention and 14 on attitude, with a total sample of 1204 pre-service teachers. [→ Şenel Elaldı 2016](#senel-elald-2016)

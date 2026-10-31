@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: pavletič-bernarda-2026
     resource: "https://doi.org/10.1186/s12909-026-09574-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Random-effects meta-analysis of three studies shows no statistically significant difference in MCQ-based assessment performance between students with and without SpLDs when accommodations (typically extra time) were provided (d = 0.045, 95% CI: −0.094 to 0.183). [→ Pavletič Bernarda 2026](#pavletic-bernarda-2026)

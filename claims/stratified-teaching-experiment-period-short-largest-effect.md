@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: mixed
+newest_evidence: 2020
 sources:
   - id: shi-2020
     title: Shi 2020
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Between-period differences were not significant (QBET = 1.944, P = 0.378), yet the short-period effect size (0.82, 3 datasets) exceeded medium (0.45) and long (0.50) periods. [→ Shi 2020](#shi-2020)

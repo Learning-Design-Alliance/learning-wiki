@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: munguiko-clement-2026
     resource: "https://doi.org/10.1186/s12909-026-09710-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Within the review's tabular summary, SNAPPS is described as superior to OMP for enhancing clinical reasoning, while also improving diagnostic efficiency relative to traditional methods. [→ Munguiko Clement 2026](#munguiko-clement-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: tutal-2023
     resource: "https://doi.org/10.46809/jpse.v4i5.71"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Funnel plots showed no substantial asymmetry; classic fail-safe N (9,501 for achievement; 269 for retention), Orwin's fail-safe N, and trim-and-fill (no studies trimmed) all indicated no significant publication bias. [→ Tutal 2023](#tutal-2023)

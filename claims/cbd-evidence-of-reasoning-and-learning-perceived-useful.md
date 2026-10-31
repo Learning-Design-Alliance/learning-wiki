@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: vundum-jonathon-2025
     resource: "https://doi.org/10.1007/s13187-025-02651-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` A small qualitative study of 6 clinical oncology specialty registrars and 6 consultant clinical oncologists concluded that reasoning and learning were taking place during case-based discussions and that CBDs were perceived as useful. [→ Vundum Jonathon 2025](#vundum-jonathon-2025)

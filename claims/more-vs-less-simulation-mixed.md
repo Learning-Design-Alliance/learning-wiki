@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: mixed
+newest_evidence: 2026
+source_checked: 2026-10-31
 sources:
   - id: prothero-2026
     resource: "https://doi.org/10.1002/nop2.70689"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the more-versus-less simulation comparison, 50% simulation outperformed 25% and 10% on the Global Assessment of Clinical Competency, but lower-simulation groups outperformed 50% on Fundamentals of Nursing CCEI ratings, and NCLEX pass rates did not differ. [→ Prothero 2026](#prothero-2026)

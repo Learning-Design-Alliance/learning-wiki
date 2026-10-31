@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: bertiola-flores-claudio-2026
     resource: "https://doi.org/10.1186/s12909-026-09582-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Several reviewed studies identified benefits for peer tutors themselves, including development of confidence, autonomy, leadership, teamwork skills, and greater empowerment. [→ Bertiola-Flores Claudio 2026](#bertiola-flores-claudio-2026)

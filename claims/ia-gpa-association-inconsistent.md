@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: mixed
+newest_evidence: 2026
 sources:
   - id: baghcheghi-nayereh-koohestani-hamid-reza-2026
     resource: "https://doi.org/10.1186/s40359-026-04883-x"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Some studies reported a significant negative association between internet addiction and examination results or GPA, while several others found no direct significant association with GPA. [→ Baghcheghi Nayereh; Koohestani Hamid Reza 2026](#baghcheghi-nayereh-koohestani-hamid-reza-2026)

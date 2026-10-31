@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: maynard-2015
     resource: "https://eric.ed.gov/?id=ED562325"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The evidence base comprises four psychosocial-intervention studies and two medication-comparison studies; included studies were assessed as high risk for performance and detection biases. [→ Maynard 2015](#maynard-2015)

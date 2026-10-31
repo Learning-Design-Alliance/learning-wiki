@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: tian-qi-2026
     resource: "https://doi.org/10.3389/fpubh.2026.1905122"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` In the exploratory adolescent (13-17 years) broad-outcome subgroup network, Functional games had the highest P-score (0.830; SMD 2.568, 95% CI 1.277 to 3.859), followed by Game-based and Sport Education, with significant between-design inconsistency (p = 0.0046). [→ Tian Qi 2026](#tian-qi-2026)

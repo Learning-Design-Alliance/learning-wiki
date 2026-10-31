@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: cheverko-cm-2026
     resource: "https://doi.org/10.1002/ase.70262"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` GPT‐4_o1 versions achieved 87% pooled accuracy for the anatomical sciences versus 83% for GPT‐3/3.5, and ≥83% for USMLE Step 1/Equivalent and four other disciplines. [→ Cheverko CM 2026](#cheverko-cm-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: hwan-young-jang-and-hye-jeong-kim-2020
     resource: "https://doi.org/10.3390/educsci10040115"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i1` small
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Cognitive sub-outcomes ranked: understanding (ES = 0.60), achievement (ES = 0.59), synthesis (ES = 0.49), analysis (ES = 0.46), meta-cognition (ES = 0.26), application (ES = 0.25), knowledge (ES = 0.15), and evaluation (ES = −0.93). [→ Hwan Young Jang and Hye Jeong Kim 2020](#hwan-young-jang-and-hye-jeong-kim-2020)

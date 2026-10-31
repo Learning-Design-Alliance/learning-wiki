@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: li-2022
     resource: "https://doi.org/10.15354/bece.22.ar018"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Effect sizes exceed 0.8 for task-driven learning, role-playing, inquiry-based teaching, and case-based teaching; lecturing and demonstrative teaching show moderate effects; Q&A teaching shows no significant effect (P > 0.05). [→ Li 2022](#li-2022)

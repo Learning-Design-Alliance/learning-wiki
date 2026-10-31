@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: liu-xiaoliu-2026
     resource: "https://doi.org/10.1186/s12909-026-09879-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports the clearest signals in case-based progression, history-taking practice, simulated patients, and structured feedback training — settings sharing clearly defined tasks, immediate feedback, and repeated practice. [→ Liu Xiaoliu 2026](#liu-xiaoliu-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: matthew-e-brock-and-erik-w-carter-2017
     resource: "https://doi.org/10.1177/0741932516653477"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i3` large
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Across 12 group-design studies, training produced a large, statistically significant mean effect on implementation fidelity compared with no training or business-as-usual training. [→ Matthew E. Brock and Erik W. Carter 2017](#matthew-e-brock-and-erik-w-carter-2017)
@@ -43,7 +45,7 @@ Random-effects meta-analysis of 12 RCTs and quasi-experimental studies of educat
 
 
 ## Related Claims
-- [Complete behavioral skills training produces significantly higher DTT implementation fidelity than trainings using only one, two, or three BST components](bst-more-effective-than-partial-component-training.md) — related
+- [In a meta-analysis of single-case studies, participants trained with complete behavioral skills training had significantly higher DTT implementation fidelity than those trained with only one, two, or three BST components](bst-more-effective-than-partial-component-training.md) — related
 - [Behavioral skills training and other trainings raise DTT implementation fidelity from a low baseline of 40.61% to over 90% accuracy by the end of training](bst-improves-dtt-implementation-fidelity.md) — related
 - [Modeling as a training component shows no statistically significant effect on DTT implementation fidelity](modeling-component-not-significant.md) — related
 - [Training combining modeling and performance feedback is associated with larger implementation fidelity effects (β = .77, p = .04)](modeling-plus-performance-feedback-strongest-predictor.md) — related

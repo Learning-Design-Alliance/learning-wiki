@@ -49,7 +49,7 @@ The review synthesizes implementable strategies for improving AI-generated virtu
 - [AI-generated virtual patients exhibit limitations including inauthentic conversational flow, excessive agreeableness, role departure, and clinical inaccuracy](../claims/ai-virtual-patient-limitations-flow-agreeableness-role-departure.md) [+W]
 - [Adding regex-based rules to few-shot LLM labeling improves agreement with human annotation (0.818 to 0.852 overall)](../claims/regex-rules-improve-fewshot-llm-labeling-accuracy.md) [+W]
 - [Iterative prompt engineering stages progressively improve GPT-3.5 dialogue act recognition accuracy from 0.369 to 0.631 on the training set.](../claims/iterative-prompt-engineering-improves-gpt-dialogue-act-accuracy.md) [+W]
-- [In-context examples improve LLM Bloom classification: three-shot and ten-shot prompting outperform zero-shot across datasets](../claims/in-context-examples-improve-bloom-classification.md) [+W]
+- [In-context examples improve LLM Bloom classification: three-shot and ten-shot prompting score at or above zero-shot on every dataset tested, and above it in most comparisons](../claims/in-context-examples-improve-bloom-classification.md) [+W]
 
 ## Related Strategies
 

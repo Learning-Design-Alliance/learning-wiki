@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: tian-qi-2026
     resource: "https://doi.org/10.3389/fpubh.2026.1905122"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q2` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` In the 19-study broad network, Cooperative produced the largest estimated effect and highest P-score (0.994; SMD 3.855, 95% CI 2.141 to 5.568), but the node was defined solely by the Akil visual-motor integration study and did not constitute replicated evidence. [→ Tian Qi 2026](#tian-qi-2026)

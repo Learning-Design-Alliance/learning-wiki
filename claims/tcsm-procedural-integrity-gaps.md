@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: mcdougall-2015
     resource: "https://doi.org/10.64546/jaasep.289"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Seven of nine studies did not include a numerical index for adherence to initial training procedures; four of nine reported treatment fidelity indices, all 100% via checklists. [→ McDougall 2015](#mcdougall-2015)

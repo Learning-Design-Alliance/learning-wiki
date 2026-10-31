@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: ruslin-muhammad-2026
     resource: "https://doi.org/10.1186/s12909-026-09739-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students using HVRS with SIMtoCARE dente for pulpotomy completed procedures faster (23.7 ± 1 min) than students using conventional simulators (25.9 ± 8.9 min). [→ Ruslin Muhammad 2026](#ruslin-muhammad-2026)

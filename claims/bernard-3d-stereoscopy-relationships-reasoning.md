@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: k-anniesmitha-2026
     resource: "https://doi.org/10.1186/s12909-026-09764-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a single-site controlled study, the 3D group's post-test average scores were higher than the 2D group's on anatomical linkages and clinical inference/reasoning, while basic anatomical knowledge scores were comparable. [→ K Anniesmitha 2026](#k-anniesmitha-2026)

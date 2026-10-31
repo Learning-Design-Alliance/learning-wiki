@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: mixed
+newest_evidence: 2025
 sources:
   - id: björn-haßler-2025
     resource: "https://doi.org/10.53832/opendeved.1170"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q4` · `i0` negligible
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i0` In studies focused on disadvantaged populations (low SES, free school meals), there was no statistically significant positive impact (d = 0.0527, p = 0.2077). [→ Björn Haßler 2025](#bjorn-haler-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: tian-qi-2026
     resource: "https://doi.org/10.3389/fpubh.2026.1905122"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The 13-study under-18 primary network retained substantial heterogeneity (tau-squared 0.1531; I-squared 65.67%) and a significant between-design component (Q = 12.91, df = 2, p = 0.0016). [→ Tian Qi 2026](#tian-qi-2026)

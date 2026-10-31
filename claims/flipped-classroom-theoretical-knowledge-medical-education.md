@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-31
 sources:
   - id: wu-yaqiu-2026
     resource: "https://doi.org/10.1186/s12909-026-09526-8"
@@ -31,6 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2`–`q3` · `i3` large
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Pooled across 15 studies, the flipped classroom significantly improved theoretical knowledge scores (SMD = 1.26, 95% CI 0.80–1.71), with substantial heterogeneity (I² = 93.1%). [→ Wu Yaqiu 2026](#wu-yaqiu-2026)

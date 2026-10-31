@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: cheverko-cm-2026
     resource: "https://doi.org/10.1002/ase.70262"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Pooled accuracy: Claude 3–3.7 = 86.2% and DeepSeek R1 = 86.0%, modestly underperforming GPT‐4o_o1; Gemini series = 75.5% and Copilot = 69.4% trailed the leading companies. [→ Cheverko CM 2026](#cheverko-cm-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: li-2022
     resource: "https://doi.org/10.15354/bece.22.ar018"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Effects differ significantly across experimental periods (p = 0.017), with one to three months (SMD = 0.845) exceeding less than one month (0.705) and more than three months (0.530). [→ Li 2022](#li-2022)

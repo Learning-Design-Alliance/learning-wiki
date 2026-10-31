@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: zhandire-2026
     resource: "https://doi.org/10.1186/s40359-026-05242-6"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 53 included studies from 25 countries, 26 examined all three constructs, none of them in sub-Saharan Africa. [→ Zhandire 2026](#zhandire-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: fabiano-2021
     resource: "https://doi.org/10.3102/00346543211025092"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The distribution of the 123 studies' standardized mean differences spanned negative and positive values, with a median of 0.18 and most values larger than zero. [→ Fabiano 2021](#fabiano-2021)

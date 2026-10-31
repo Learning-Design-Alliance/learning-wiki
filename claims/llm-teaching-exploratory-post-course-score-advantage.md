@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: liu-xiaoliu-2026
     resource: "https://doi.org/10.1186/s12909-026-09879-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Across 7 studies (248 vs. 251 participants), LLM-based teaching showed a pooled advantage in post-course score-based outcomes (SMD 0.90, 95% CI 0.18 to 1.62, I² = 92.5%). [→ Liu Xiaoliu 2026](#liu-xiaoliu-2026)

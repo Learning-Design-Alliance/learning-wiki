@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: chen-w-l-2026
     resource: "https://doi.org/10.1097/jnr.0000000000000772"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i3` Meta-analysis of 17 RCTs (n=1,505) shows gamified learning significantly improves knowledge acquisition over traditional teaching (SMD=0.81, 95% CI [0.55, 1.07]). [→ Chen W.-L. 2026](#chen-w-l-2026)

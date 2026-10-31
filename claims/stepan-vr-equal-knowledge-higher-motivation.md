@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: k-anniesmitha-2026
     resource: "https://doi.org/10.1186/s12909-026-09764-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A randomised trial of 66 medical students found no significant difference in anatomy knowledge between a VR interactive model and an online textbook at preintervention, postintervention, or retention quizzes, while the VR group rated the experience significantly more engaging and scored higher on motivation. [→ K Anniesmitha 2026](#k-anniesmitha-2026)

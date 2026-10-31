@@ -43,7 +43,7 @@ The article enumerates prompting techniques used to improve LLM results without 
 
 - [Curricular chain-of-thought prompting improves competency-classification accuracy over zero-shot, with gains concentrated in larger models, while definition-based prompting does not improve performance](../claims/curricular-cot-improves-accuracy-larger-models.md) [+M]
 - [Prompt design significantly influences LLM accuracy on IVDA MCQs, with slide context reducing smaller-model accuracy but improving GPT models, while persona effects are inconsistent](../claims/prompt-design-affects-mcq-accuracy-asymmetrically.md) [+M]
-- [In-context examples improve LLM Bloom classification: three-shot and ten-shot prompting outperform zero-shot across datasets](../claims/in-context-examples-improve-bloom-classification.md) [~M]
+- [In-context examples improve LLM Bloom classification: three-shot and ten-shot prompting score at or above zero-shot on every dataset tested, and above it in most comparisons](../claims/in-context-examples-improve-bloom-classification.md) [~M]
 - [In-context learning did not consistently improve LLM annotation reliability over zero-shot prompting for engagement coding](../claims/icl-no-better-than-zero-shot-engagement-coding.md) [~M]
 
 ## Related Strategies

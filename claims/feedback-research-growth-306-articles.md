@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: douglas-biber-2011
     resource: "https://www.ets.org/toefl"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The literature search collected 306 articles addressing feedback effectiveness for writing development, and publication counts rose dramatically over the past 30 years. [→ Douglas Biber 2011](#douglas-biber-2011)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: schenck-2024
     resource: "https://eric.ed.gov/?id=EJ1457419"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` At the clausal level, output-based instruction was more effective than input-based instruction, with a difference in mean effect size of 1.12 that the article characterizes as a large effect. [→ Schenck 2024](#schenck-2024)

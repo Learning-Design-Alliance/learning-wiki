@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-31
 sources:
   - id: chen-w-l-2026
     resource: "https://doi.org/10.1097/jnr.0000000000000772"
@@ -23,9 +25,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q4 i?` Gamified flipped classroom/animation interventions showed a large but nonsignificant knowledge effect (SMD=1.62, 95% CI [0.18, 3.43]) with extremely high heterogeneity (I2=96%). [→ Chen W.-L. 2026](#chen-w-l-2026)
+`q4 i?` Gamified flipped classroom/animation interventions (two studies, n=99) showed a large pooled knowledge effect (SMD=1.62, printed 95% CI [0.18, 3.43]) with extremely high heterogeneity (I2=96%); the authors call it nonsignificant and say the interval crosses zero, but the interval as printed excludes zero, so its significance cannot be settled from the article. [→ Chen W.-L. 2026](#chen-w-l-2026)
 
 ## Evidence
 
@@ -35,7 +38,7 @@ Chen W.-L., Winitchayothin S., Cheng C.-H., Tonapa S.I., Chou F.-H., & Zimmerman
 
 `q4 · i?` · `quant-synthesis · r3`
 
-Subgroup analysis of two RCTs (n=99) of gamified flipped classroom/animation approaches. The review reports a pooled estimate quoting "a large effect size (SMD=1.62, 95% CI [0.18, 3.43])" but the interval crossed zero, indicating a nonsignificant effect.
+Subgroup analysis of two RCTs (n=99) of gamified flipped classroom/animation approaches. The review reports "a large effect size (SMD=1.62, 95% CI [0.18, 3.43])" and then describes the interval as crossing zero and the effect as nonsignificant. The printed interval does not cross zero, so the article's text and its numbers disagree; with two studies and I2=96%, the estimate is inconclusive either way.
 
 > "These interventions (two studies, n=99) exhibited a large effect size (SMD=1.62, 95% CI [0.18, 3.43]) with extremely high heterogeneity (I 2=96%). However, the confidence interval crossing zero indicates nonsignificant effects"
 

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: amechghal-a-2026
     resource: "https://doi.org/10.3352/jeehp.2026.23.24"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Clinical reasoning, clinical ability, medical management, overall performance, and composite non-technical skills showed no consistent active participant advantage across studies. [→ Amechghal A 2026](#amechghal-a-2026)

@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-31
 sources:
   - id: bertiola-flores-claudio-2026
     resource: "https://doi.org/10.1186/s12909-026-09582-0"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Peer tutoring was found to enhance psychological safety and lower anxiety levels in demanding learning environments across several included studies. [→ Bertiola-Flores Claudio 2026](#bertiola-flores-claudio-2026)

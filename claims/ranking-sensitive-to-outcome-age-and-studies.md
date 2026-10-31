@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: tian-qi-2026
     resource: "https://doi.org/10.3389/fpubh.2026.1905122"
@@ -39,6 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Excluding mixed/cognitive-perceptual outcome studies (Septiyanto, Akil, Pugliese) reduced heterogeneity (tau-squared 0.4238 to 0.2948; I-squared 80.89% to 72.64%) and made the between-design component non-significant, indicating outcome definition contributed to ranking instability. [→ Tian Qi 2026](#tian-qi-2026)

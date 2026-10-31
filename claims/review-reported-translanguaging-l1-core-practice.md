@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: philominraj-2023
     resource: "https://www.mextesol.net/journal/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review attributes to Barahona (2020) the suggestion of translanguaging and effective integration of L1 in the classroom as effective teaching practices in a Chilean EFL context. [→ Philominraj 2023](#philominraj-2023)

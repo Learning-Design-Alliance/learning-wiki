@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: el-hussein-mohamed-toufic-2026
     resource: "https://doi.org/10.1111/jan.70640"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q1`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` None of the 14 included studies directly measured critical thinking as an explicit outcome, and no study directly compared simulation modalities to determine which best supports critical-thinking development. [→ EL Hussein Mohamed Toufic 2026](#el-hussein-mohamed-toufic-2026)

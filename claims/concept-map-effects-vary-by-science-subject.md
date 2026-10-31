@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-10-31
 sources:
   - id: dimitris-anastasiou-clare-nangsin-wirngo-pantelis-bagos-2024
     resource: "https://doi.org/10.1007/s10648-024-09877-y"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Mean effect sizes were moderate to large by subject area, with physics/earth science largest and chemistry smallest, but between-subject differences were not statistically significant (p = 0.220). [→ Dimitris Anastasiou · Clare Nangsin Wirngo · Pantelis Bagos 2024](#dimitris-anastasiou-clare-nangsin-wirngo-pantelis-bagos-2024)

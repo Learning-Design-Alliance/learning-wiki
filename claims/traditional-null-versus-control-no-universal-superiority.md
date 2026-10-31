@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-31
 sources:
   - id: tian-qi-2026
     resource: "https://doi.org/10.3389/fpubh.2026.1905122"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i0` negligible
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Traditional instruction was approximately null relative to Control (SMD -0.01, 95% CI -0.95 to 0.93), and Linear had a negative imprecise point estimate (SMD -0.45, 95% CI -1.57 to 0.66), so the primary analysis does not support the claim that every active or structured teaching node outperformed Control. [→ Tian Qi 2026](#tian-qi-2026)

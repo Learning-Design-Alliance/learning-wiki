@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: fernandes-nuno-2026
     resource: "https://doi.org/10.1080/10872981.2026.2740871"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Implementation of EPAs was a main focus of 52.9% (n = 253) of included studies, Development of 33.3% (n = 159), and Assessment of 31.8% (n = 152). [→ Fernandes Nuno 2026](#fernandes-nuno-2026)

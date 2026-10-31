@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: young-2016
     resource: "https://doi.org/10.12973/ijem.2.1.19"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Prior meta-analyses report that CBI/CAI effects on mathematics achievement vary from small to medium, and consistently identify duration and instructional modality as statistically significant moderators of effect size. [→ Young 2016](#young-2016)

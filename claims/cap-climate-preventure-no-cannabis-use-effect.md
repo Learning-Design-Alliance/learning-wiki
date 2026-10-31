@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: bajpai-tewari-2026
     resource: "https://doi.org/10.3390/ijerph23081073"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the 4-arm cluster RCT (N = 1712), both Climate and CAP groups showed significantly greater cannabis-knowledge gains than control at 6, 12 and 24 months, converging by 36 months, but no significant difference in cannabis use or related harms between groups at any follow-up. [→ Bajpai Tewari 2026](#bajpai-tewari-2026)

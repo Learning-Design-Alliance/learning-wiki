@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: florence-martin-2021
     resource: "https://www.irrodl.org/index.php/irrodl"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Shorter duration also yielded larger effect sizes in the synchronous-versus-face-to-face affective condition (Q = 14.019, p < .001), but duration did not moderate the synchronous-versus-face-to-face cognitive condition. [→ Florence Martin 2021](#florence-martin-2021)

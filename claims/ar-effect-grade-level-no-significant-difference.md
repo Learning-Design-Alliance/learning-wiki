@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: ozdemir-m-2018
     resource: "https://doi.org/10.14689/ejer.2018.74.9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Differences in AR effect sizes across primary education, high school, and undergraduate levels were not statistically significant (QB = 3.876, p = 0.144). [→ Ozdemir M. 2018](#ozdemir-m-2018)

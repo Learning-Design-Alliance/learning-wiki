@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: zhang-wenjia-stella-2026
     resource: "https://doi.org/10.2196/92826"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Fourteen of 21 studies (67%) reported cases authored, adapted, or reviewed by clinical experts, faculty, residents, or other domain specialists, and only one study (5%) described cases developed by an LLM. [→ Zhang Wenjia (Stella) 2026](#zhang-wenjia-stella-2026)

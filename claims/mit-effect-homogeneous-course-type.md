@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: baş-2016
     resource: "https://doi.org/10.12738/estp.2016.6.0015"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Effect sizes across social science, science, foreign language, and ability courses were homogeneous, QB(3) = 7.085, so no significant course-type difference was found. [→ Baş 2016](#bas-2016)

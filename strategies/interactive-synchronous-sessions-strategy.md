@@ -46,7 +46,7 @@ The article's discussion recommends that synchronous online time be used for int
 
 ## Related Strategies
 
-- [Cognitive Activation](cognitive-activation.md)
+- [Cognitive Activation](../principles/cognitive-activation.md)
 - [Enrich live online lectures with visuals, varied instructor communication, and interactive structures to sustain attention and positive emotion](enrich-live-online-lectures-visuals-interaction.md)
 - [Increase Synchronous Teacher Presence](increase_synchronous_teacher_presence.md)
 - [Virtual Flipped Classroom](virtual_flipped_classroom.md)

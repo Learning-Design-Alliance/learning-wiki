@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: koçak-2021
     resource: "https://eric.ed.gov/?id=EJ1286675"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3` · `i1`–`i3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Parents' attitudes and behaviors (ES = .873), parental expectations (ES = .865) and academic socialization parental involvement (ES = .847) have large positive effects on academic achievement. [→ Koçak 2021](#kocak-2021)

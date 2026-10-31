@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2015
+source_checked: 2026-10-31
 sources:
   - id: maynard-2015
     resource: "https://eric.ed.gov/?id=ED562325"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2015 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The pooled post-test effect on anxiety is very small and nonsignificant (g = 0.06, 95% CI [-0.63, 0.75], p > .05). [→ Maynard 2015](#maynard-2015)

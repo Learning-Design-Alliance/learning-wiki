@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: fulya-turk-2017
     resource: "https://doi.org/10.5539/ies.v11n1p25"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The heterogeneity test showed Q = 422.282 exceeding the critical value of 33.924 and I² = 94.79%, indicating a heterogeneous distribution of effect sizes. [→ Fulya Turk 2017](#fulya-turk-2017)

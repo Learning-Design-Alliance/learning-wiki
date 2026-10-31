@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: mainwaring-elizabeth-m-a-2026
     resource: "https://doi.org/10.1007/s00464-026-13309-z"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across the 60 included studies, MERSQI scores ranged from 9.5 to 14.5 with a median of 12.5 (IQR 11.5–13.5), and no study evaluated downstream clinical or patient safety outcomes. [→ Mainwaring Elizabeth M. A. 2026](#mainwaring-elizabeth-m-a-2026)

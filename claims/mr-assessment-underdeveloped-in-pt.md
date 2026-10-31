@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: perdrix-yannick-2026
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13563282/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review's very limited evaluation evidence shows PT assessment of MR lags other professions, with no qualitative or psychometric evaluation of methods and inadequate accounting of the tasks-focals interplay and interaction dynamics. [→ Perdrix Yannick 2026](#perdrix-yannick-2026)

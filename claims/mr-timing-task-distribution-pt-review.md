@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: perdrix-yannick-2026
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13563282/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` All timings were fairly well represented (between 53 and 72%) except pre-task timing (14%), and tasks ranked: global management 60%, cognitive 44%, psychomotor 33%, emotional 28%, communicational 11%. [→ Perdrix Yannick 2026](#perdrix-yannick-2026)

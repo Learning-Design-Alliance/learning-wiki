@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2017
+source_checked: 2026-10-31
 sources:
   - id: nevin-kozcu-cakır-2017
     resource: "https://doi.org/10.11114/jets.v5i11.2649"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3` · `i3` large
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Across 6 studies, the random-effects combined effect size of the 5E learning model on science process skills was reported as 1,559 (95% CI 1,124–2,214), statistically significant and in favor of the experimental group. [→ Nevin Kozcu Cakır 2017](#nevin-kozcu-cakr-2017)

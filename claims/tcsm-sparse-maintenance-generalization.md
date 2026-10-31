@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: mcdougall-2015
     resource: "https://doi.org/10.64546/jaasep.289"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r1` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Five of nine studies included no maintenance data; maintenance was strong in three of the four studies assessing it, and only Amato-Zech, Hoff, and Doepke (2006) reported generalization data (moderate and mixed). [→ McDougall 2015](#mcdougall-2015)

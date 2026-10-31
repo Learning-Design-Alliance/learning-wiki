@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: maynard-2015
     resource: "https://eric.ed.gov/?id=ED562325"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` For medication + CBT studies, effects on attendance are moderate, positive and significant (g = 0.61, 95% CI [0.01, 1.21], p < .05), while anxiety effects are small and nonsignificant (g = -0.05). [→ Maynard 2015](#maynard-2015)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: matthew-e-brock-and-erik-w-carter-2017
     resource: "https://doi.org/10.1177/0741932516653477"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Based on the Cochrane Collaboration's tool, a high risk of bias exists across the 12 studies; however, the mean effect size excluding the five studies with known risks of bias was actually larger (g = 1.14) than the overall estimate. [→ Matthew E. Brock and Erik W. Carter 2017](#matthew-e-brock-and-erik-w-carter-2017)

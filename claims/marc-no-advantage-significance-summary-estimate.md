@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: kaitlyn-g-fitzgerald-and-elizabeth-tipton-2022
     resource: "https://doi.org/10.1080/19345747.2022.2031366"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Practitioners answered the sufficiency-of-evidence question (Q7) correctly only about half the time, and the MARC plot did not outperform the other visualizations on Q7 or on identifying the summary effect as the most certain estimate (Q6). [→ Kaitlyn G. Fitzgerald and Elizabeth Tipton 2022](#kaitlyn-g-fitzgerald-and-elizabeth-tipton-2022)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: el-hussein-mohamed-toufic-2026
     resource: "https://doi.org/10.1111/jan.70640"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a multisite cluster RCT, post-registration nurses receiving a delirium education package including an OSCE with a simulated patient had significantly higher odds of satisfactory observed delirium-care practice at 6 weeks than controls (OR 10.2, p = 0.009). [→ EL Hussein Mohamed Toufic 2026](#el-hussein-mohamed-toufic-2026)

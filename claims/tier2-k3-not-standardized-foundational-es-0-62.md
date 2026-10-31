@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: wanzek-2016
     resource: "https://eric.ed.gov/?id=ED579894"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Less extensive reading interventions produce a moderate positive effect on not-standardized (researcher- or intervention-developed) foundational reading skill measures in grades K-3. [→ Wanzek 2016](#wanzek-2016)

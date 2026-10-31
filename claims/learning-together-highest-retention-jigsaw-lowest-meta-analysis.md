@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: şenel-elaldı-2016
     resource: "http://dx.doi.org/10.11114/jets.v4i7.1456"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3` · `i3` large
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Learning Together Technique had the highest retention effect size (d=2,0606, a huge level) in primary school pre-service teachers, while the Jigsaw Technique had the lowest (d=0,5461, a medium level). [→ Şenel Elaldı 2016](#senel-elald-2016)

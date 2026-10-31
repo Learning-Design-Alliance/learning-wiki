@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: bodke-parag-2026
     resource: "https://doi.org/10.1186/s12909-026-09999-7"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`–`q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` One observational study found unrestricted LLM access associated with reduced engagement with validated primary reference texts (library access logs; p = 0.034). [→ Bodke Parag 2026](#bodke-parag-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: perdrix-yannick-2026
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13563282/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Of 1,025 identified documents, 36 were included and analyzed, published between 2000 and 2024, mostly from the US and Australia, with students represented twice as often as professionals. [→ Perdrix Yannick 2026](#perdrix-yannick-2026)

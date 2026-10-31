@@ -24,7 +24,7 @@ The article uses a three-level hierarchical linear model in which DTT implementa
 
 ### Claims
 - [Behavioral skills training and other trainings raise DTT implementation fidelity from a low baseline of 40.61% to over 90% accuracy by the end of training](../claims/bst-improves-dtt-implementation-fidelity.md) [+M]
-- [Complete behavioral skills training produces significantly higher DTT implementation fidelity than trainings using only one, two, or three BST components](../claims/bst-more-effective-than-partial-component-training.md) [+W]
+- [In a meta-analysis of single-case studies, participants trained with complete behavioral skills training had significantly higher DTT implementation fidelity than those trained with only one, two, or three BST components](../claims/bst-more-effective-than-partial-component-training.md) [+W]
 - [DTT implementation accuracy increases by 1.33 with each additional observation during the intervention phase](../claims/dtt-fidelity-increases-with-observations.md) [+W]
 - [DTT implementation fidelity declines slightly after training ends, with a statistically significant difference between intervention and maintenance slopes](../claims/dtt-fidelity-declines-during-maintenance.md) [+W]
 - [DTT implementation fidelity declines slightly after training ends, though the decline may reflect outliers](../claims/fidelity-declines-in-maintenance.md) [+W]

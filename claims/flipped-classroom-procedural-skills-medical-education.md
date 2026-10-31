@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: mixed
+newest_evidence: 2026
+source_checked: 2026-10-31
 sources:
   - id: wu-yaqiu-2026
     resource: "https://doi.org/10.1186/s12909-026-09526-8"
@@ -39,6 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · quant-synthesis `r2`–`r3` · `q2`–`q3` · `i3` large
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Pooled across four studies, flipped teaching significantly improved procedural/technical skills (SMD = 1.80, 95% CI 0.19–3.41) with very high heterogeneity (I² = 97.0%). [→ Wu Yaqiu 2026](#wu-yaqiu-2026)

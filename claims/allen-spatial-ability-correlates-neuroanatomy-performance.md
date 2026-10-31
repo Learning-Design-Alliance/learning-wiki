@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: k-anniesmitha-2026
     resource: "https://doi.org/10.1186/s12909-026-09764-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a crossover study of a 3D neuroanatomical e-learning module, participants' spatial ability scores showed significant positive relationships with performance on the pretest, Quiz 1 and Quiz 2. [→ K Anniesmitha 2026](#k-anniesmitha-2026)

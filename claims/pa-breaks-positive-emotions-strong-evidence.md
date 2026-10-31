@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: deng-qianting-wu-chongyun-yang-luodan-2026
     resource: "https://doi.org/10.1186/s12966-026-01936-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Six of seven studies of positive emotions reported significant improvements, resulting in relatively strong evidence strength (85.7%). [→ Deng Qianting; Wu Chongyun; Yang Luodan 2026](#deng-qianting-wu-chongyun-yang-luodan-2026)

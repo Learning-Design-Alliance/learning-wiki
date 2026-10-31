@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: mixed
 newest_evidence: 2022
+source_checked: 2026-10-31
 sources:
   - id: joelle-fingerhut-and-mariola-moeyaert-2022
     resource: "https://doi.org/10.1177/10883576221081076"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2`–`q3`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-10-31 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The change in rate between the intervention and maintenance slopes was −4.39, a statistically significant difference, indicating a slight decline in fidelity after training. [→ Joelle Fingerhut and Mariola Moeyaert 2022](#joelle-fingerhut-and-mariola-moeyaert-2022)
@@ -65,6 +66,6 @@ The authors' outlier analysis, using the interquartile range method they describ
 
 ## Related Claims
 - [Behavioral skills training and other trainings raise DTT implementation fidelity from a low baseline of 40.61% to over 90% accuracy by the end of training](bst-improves-dtt-implementation-fidelity.md) — related
-- [Complete behavioral skills training produces significantly higher DTT implementation fidelity than trainings using only one, two, or three BST components](bst-more-effective-than-partial-component-training.md) — related
+- [In a meta-analysis of single-case studies, participants trained with complete behavioral skills training had significantly higher DTT implementation fidelity than those trained with only one, two, or three BST components](bst-more-effective-than-partial-component-training.md) — related
 - [DTT implementation fidelity declines slightly after training ends, with a statistically significant difference between intervention and maintenance slopes](dtt-fidelity-declines-during-maintenance.md) — possibly the same claim (merge candidate)
 - [DTT implementation accuracy increases by 1.33 with each additional observation during the intervention phase](dtt-fidelity-increases-with-observations.md) — related

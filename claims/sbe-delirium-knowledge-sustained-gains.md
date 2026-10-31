@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: el-hussein-mohamed-toufic-2026
     resource: "https://doi.org/10.1111/jan.70640"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a repeated cross-sectional survey across four time points, correct responses on a delirium knowledge survey rose from 74.5% at baseline to 86.4% at the final time point, a significant improvement. [→ EL Hussein Mohamed Toufic 2026](#el-hussein-mohamed-toufic-2026)

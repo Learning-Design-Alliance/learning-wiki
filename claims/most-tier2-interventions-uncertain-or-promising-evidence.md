@@ -9,6 +9,7 @@ generated:
   at: 2026-10-08
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-10-31
 sources:
   - id: porowski-2024
     resource: "https://ies.ed.gov/use-work/resource-library/reports/"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` LetterWorks, Lexia Core5 Reading, and Seeing Stars had at most promising evidence, and the remaining 12 interventions had uncertain evidence of effects. [→ Porowski 2024](#porowski-2024)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: veli-batdı-hacer-batdı-2015
     resource: "https://doi.org/10.12738/estp.2015.6.0156"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across five subject-field categories (science N=8, math N=5, social sciences N=23, foreign languages N=2, others N=2), the difference in effect sizes was not statistically significant despite English/foreign-language lessons showing the largest descriptive effect size. [→ Veli Batdı & Hacer Batdı 2015](#veli-batd-hacer-batd-2015)

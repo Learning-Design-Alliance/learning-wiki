@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: chen-w-l-2026
     resource: "https://doi.org/10.1097/jnr.0000000000000772"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i3` Gamified simulation-based learning showed a large knowledge effect (SMD=0.79, 95% CI [0.28, 1.30]) with substantial heterogeneity (I2=85%). [→ Chen W.-L. 2026](#chen-w-l-2026)

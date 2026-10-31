@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: vundum-jonathon-2025
     resource: "https://doi.org/10.1007/s13187-025-02651-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In an educational pilot with 19 specialty registrars attending a 3-hour interactive CBL session, improvement in trainee confidence was statistically significant using a paired t test, with a magnitude of 2 on a 10-point scale. [→ Vundum Jonathon 2025](#vundum-jonathon-2025)

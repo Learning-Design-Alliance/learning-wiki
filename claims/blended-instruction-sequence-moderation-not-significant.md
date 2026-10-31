@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: li-2022
     resource: "https://doi.org/10.15354/bece.22.ar018"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The between-group test across five sequences is not significant (p = 0.908), though the face-to-face + online + face-to-face sequence shows the largest SMD (0.757) and weekly alternation the smallest (0.363). [→ Li 2022](#li-2022)

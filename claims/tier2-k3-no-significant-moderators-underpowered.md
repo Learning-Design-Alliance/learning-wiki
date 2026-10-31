@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: mixed
+newest_evidence: 2016
 sources:
   - id: wanzek-2016
     resource: "https://eric.ed.gov/?id=ED579894"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Intervention effectiveness did not significantly differ by intervention type, size of instructional group, grade level, implementer, or number of hours of intervention. [→ Wanzek 2016](#wanzek-2016)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: philominraj-2023
     resource: "https://www.mextesol.net/journal/"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A systematic review of 40 Chilean EFL studies identifies major topic areas: perceptions and beliefs about teaching methodologies, core practices, e-learning during the COVID-19 pandemic, motivation, and assessment. [→ Philominraj 2023](#philominraj-2023)

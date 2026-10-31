@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2012
+source_checked: 2026-10-31
 sources:
   - id: lin-2012
     resource: "https://eric.ed.gov/?id=ED574920"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2012 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The meta-analysis found that CMC's effectiveness differed by language skill, with outcomes coded into listening, speaking, reading and writing categories. [→ Lin 2012](#lin-2012)

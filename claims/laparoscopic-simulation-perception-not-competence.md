@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: vega-ochoa-ad-2026
     resource: "https://doi.org/10.1186/s12909-026-10009-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review concludes that positive perception reflects learner acceptance, not proof of competence or clinical transfer, because many included studies relied on subjective or self-perceived outcomes. [→ Vega Ochoa AD 2026](#vega-ochoa-ad-2026)

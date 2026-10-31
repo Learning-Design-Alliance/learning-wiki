@@ -17,7 +17,7 @@ sources:
 # Design AI-mediated cognitive supports with transparency, clear boundaries, and teacher evaluation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 unmarked) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review recommends that AI-mediated cognitive supports — such as text simplification and homework tutors — be integrated "with transparency, clear boundaries, and teacher evaluation". Collaborative text simplification improved comprehension and reduced barriers to accessing dense content only when integrated with didactic criteria and human feedback. Ethical design, including data minimization, explicit purposes, and informed consent, is required to maintain learner trust.
@@ -41,7 +41,7 @@ The review recommends that AI-mediated cognitive supports — such as text simpl
 
 ## Related Strategies
 
-- [Impact Depends On Pedagogical Design Review](../claims/impact-depends-on-pedagogical-design-review.md)
+- [Impact Depends On Pedagogical Design Review](../claims/impact-depends-on-pedagogical-design-review.md) [+W]
 - [Tailor AI deployment to specific applications and stakeholder groups rather than applying a one-size-fits-all integration approach](stakeholder-specific-ai-deployment-strategy.md)
 - [Provide explicit instructional boundary cues, process-oriented assessment, and peer modeling of verification to frame responsible GenAI use](boundary-cues-and-peer-modeling-for-genai-use.md)
 - [Stage GAI use in assessment: permit exploration, restrict independent reasoning, require justification](staged-gai-permission-assessment-strategy.md)

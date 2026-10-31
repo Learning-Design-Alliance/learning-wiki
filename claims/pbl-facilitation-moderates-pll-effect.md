@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: zha-2019
     resource: "https://ro.uow.edu.au/ajpl/vol12/iss1/2"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3` · `i1` small
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` In the conditional model, task type was the only variable that significantly moderated the effect size after controlling for training and duration (coefficient 0.30, p = 0.00, 95% CI 0.15–0.45). [→ Zha 2019](#zha-2019)

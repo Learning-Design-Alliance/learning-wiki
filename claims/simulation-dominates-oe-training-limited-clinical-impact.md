@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: stelling-h-2026
     resource: "https://doi.org/10.1136/bmjopen-2026-119725"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Simulation dominates the literature on OE knowledge-building, spanning low-cost improvised models to advanced immersive virtual reality systems. [→ Stelling H 2026](#stelling-h-2026)

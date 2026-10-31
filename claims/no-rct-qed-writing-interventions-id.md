@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: bakken-2021
     resource: "https://doi.org/10.3390/educsci11100638"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across nine included studies, none aimed to increase writing skills; three involved simple encoding instruction, but only two measured writing outcomes, and all specified reading as the main focus. [→ Bakken 2021](#bakken-2021)

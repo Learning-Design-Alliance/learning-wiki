@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: el-hussein-mohamed-toufic-2026
     resource: "https://doi.org/10.1111/jan.70640"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Confidence in delirium recognition and assessment improved significantly across studies, including confidence in using the CAM-ICU on four of five items in one study and increased observer-rated performance and self-confidence in another. [→ EL Hussein Mohamed Toufic 2026](#el-hussein-mohamed-toufic-2026)

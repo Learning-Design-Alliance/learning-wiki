@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2019
 sources:
   - id: zha-2019
     resource: "https://ro.uow.edu.au/ajpl/vol12/iss1/2"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` No statistically significant relationship was found between session duration and the effect size (coefficient −0.001, p = 0.31); shorter sessions did not have significantly better effects than longer sessions. [→ Zha 2019](#zha-2019)

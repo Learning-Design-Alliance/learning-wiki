@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: macsuga-gage-2015
     resource: "https://eric.ed.gov/?id=EJ1070193"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` All four studies exploring increased TD-OTR rates found positive effects on academic and behavioral variables; descriptive data suggest desired outcomes at roughly 3.00-5.00 TD-OTRs per minute. [→ MacSuga-Gage 2015](#macsuga-gage-2015)

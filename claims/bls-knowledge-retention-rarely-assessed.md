@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: mecíascalvo-m-2026
     resource: "https://doi.org/10.1111/josh.70223"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Only 16 of the 36 studies assessed knowledge retention, mostly over follow-ups of 1 to 6 months; only two studies followed up beyond 1 year. [→ Mecías‐Calvo M. 2026](#meciascalvo-m-2026)

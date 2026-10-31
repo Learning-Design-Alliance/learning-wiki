@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: mixed
+newest_evidence: 2026
 sources:
   - id: ruslin-muhammad-2026
     resource: "https://doi.org/10.1186/s12909-026-09739-x"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Vincent et al. found no significant differences between haptic simulator (VirtEasy) and conventional practice on plastic teeth in restorative dentistry training. [→ Ruslin Muhammad 2026](#ruslin-muhammad-2026)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: bodke-parag-2026
     resource: "https://doi.org/10.1186/s12909-026-09999-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 51% of faculty expressed overall positive views versus 74% of students; faculty concerns centred on clinical reasoning development, depth of learning, and reliability of LLM-generated teaching content (9/11 faculty studies). [→ Bodke Parag 2026](#bodke-parag-2026)

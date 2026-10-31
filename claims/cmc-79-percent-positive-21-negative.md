@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: lin-2012
     resource: "https://eric.ed.gov/?id=ED574920"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3`
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Of 56 study-weighted effect sizes, 79% (44 studies) were positive and favored CMC integration and 21% (12 studies) were negative and favored face-to-face or communication without computer-mediated devices. [→ Lin 2012](#lin-2012)

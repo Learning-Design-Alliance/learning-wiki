@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: bodke-parag-2026
     resource: "https://doi.org/10.1186/s12909-026-09999-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` GPT-4 accuracy on multi-step integration vignettes (61–71%) and image-dependent questions (48–63%) is substantially lower than on single-fact recall and pattern recognition items (83–88%), and the model shows systematically overconfident, poorly calibrated uncertainty. [→ Bodke Parag 2026](#bodke-parag-2026)

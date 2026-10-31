@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: elias-walsh-2023
     resource: "https://ies.ed.gov/ncee/wwc/Publication/WWC-2023008"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Professional development was implemented in 71 percent of interventions with positive effects and 88 percent with negative effects; reducing the student-to-teacher ratio in 43 percent versus 75 percent. [→ Elias Walsh 2023](#elias-walsh-2023)

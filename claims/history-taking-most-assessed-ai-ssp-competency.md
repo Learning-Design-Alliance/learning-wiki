@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: zhang-wenjia-stella-2026
     resource: "https://doi.org/10.2196/92826"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` History-taking or clinical inquiry was assessed in 11 of 21 studies (52%), more than diagnostic accuracy (38%) or communication, empathy, professionalism, or counseling (38%), and the focus shifted temporally toward interactional competencies as LLM systems replaced rule-based ones. [→ Zhang Wenjia (Stella) 2026](#zhang-wenjia-stella-2026)

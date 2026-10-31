@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: patall-2023
     resource: "https://eric.ed.gov/?id=ED631356"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i?` Associations between structure and engagement are stronger than associations between structure and disengagement, consistent with the dual process model. [→ Patall 2023](#patall-2023)

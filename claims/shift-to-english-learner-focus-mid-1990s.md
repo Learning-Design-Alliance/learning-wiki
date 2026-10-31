@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: douglas-biber-2011
     resource: "https://www.ets.org/toefl"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Through the 1980s research gave roughly equal attention to L1 and L2 English learners, but by the mid-1990s many more studies focused on learners of English than on native English speakers. [→ Douglas Biber 2011](#douglas-biber-2011)

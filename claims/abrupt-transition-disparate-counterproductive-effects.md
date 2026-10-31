@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-31
 sources:
   - id: casimiro-urcos-cn-2026
     resource: "https://doi.org/10.12688/f1000research.176682.1"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The effectiveness of pedagogical innovation in digital environments showed disparate and even counterproductive effects in scenarios of abrupt transition or communities with insufficient technological resources. [→ Casimiro Urcos CN 2026](#casimiro-urcos-cn-2026)

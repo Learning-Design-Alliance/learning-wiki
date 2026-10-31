@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: macsuga-gage-2015
     resource: "https://eric.ed.gov/?id=EJ1070193"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Blood (2010) found increased student response rates during SRS use, but no functional relation for on-task behavior or quiz/test achievement. [→ MacSuga-Gage 2015](#macsuga-gage-2015)

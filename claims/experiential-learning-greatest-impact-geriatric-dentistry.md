@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-31
 sources:
   - id: kim-junhewk-2026
     resource: "https://doi.org/10.1186/s12909-026-09625-6"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across reviewed teaching-method studies, experiential learning in authentic clinical environments was "consistently reported to produce the greatest positive impact on students’ attitudes, confidence, and perceived competence" while remaining the most resource-intensive and logistically challenging to implement. [→ Kim Junhewk 2026](#kim-junhewk-2026)

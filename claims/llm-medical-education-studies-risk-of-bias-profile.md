@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: liu-xiaoliu-2026
     resource: "https://doi.org/10.1186/s12909-026-09879-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across the mapped risk-of-bias domains, limitations were most visible in allocation concealment, participant/teacher blinding, and other design-sensitive bias, while incomplete outcome data were generally handled better. [→ Liu Xiaoliu 2026](#liu-xiaoliu-2026)

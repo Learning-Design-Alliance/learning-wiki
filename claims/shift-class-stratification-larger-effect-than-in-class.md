@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: mixed
+newest_evidence: 2020
 sources:
   - id: shi-2020
     title: Shi 2020
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r2`–`r3` · `q3`
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Both modes improved performance (combined Z = 13.770, P = 0.000), but the between-group difference was not significant (P = 0.147); descriptively shift-class (0.99) exceeded in-class (0.51). [→ Shi 2020](#shi-2020)

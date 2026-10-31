@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: elias-walsh-2023
     resource: "https://ies.ed.gov/ncee/wwc/Publication/WWC-2023008"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The primary benefit of the Bayesian approach is a more useful assessment of uncertainty, allowing researchers to calculate the probability that a relationship is positive. [→ Elias Walsh 2023](#elias-walsh-2023)

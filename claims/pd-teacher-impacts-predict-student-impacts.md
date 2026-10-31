@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: lynch-2025
     resource: "https://doi.org/10.1177/23328584251335302"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across PD studies, larger teacher-level impacts were linked to significantly larger mean impacts on student achievement. [→ Lynch 2025](#lynch-2025)

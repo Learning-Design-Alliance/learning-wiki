@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: vega-ochoa-ad-2026
     resource: "https://doi.org/10.1186/s12909-026-10009-z"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Included implementation evidence maps barriers of cost, equipment availability, maintenance, faculty training, lack of standardized protocols and institutional inequalities, particularly relevant for Latin American and other resource-constrained contexts. [→ Vega Ochoa AD 2026](#vega-ochoa-ad-2026)

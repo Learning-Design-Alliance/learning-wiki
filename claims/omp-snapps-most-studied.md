@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: munguiko-clement-2026
     resource: "https://doi.org/10.1186/s12909-026-09710-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` OMP appears in 16 of 26 included articles and SNAPPS in 6 of 26, while STEPS, RIME, Aunt Minnie, BOPPPS, ED STAT, and MiPLAN each appear in only one article. [→ Munguiko Clement 2026](#munguiko-clement-2026)

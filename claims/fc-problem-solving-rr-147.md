@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: zheng-hui-2026
     resource: "https://doi.org/10.3389/fpubh.2026.1896815"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` FC students showed significantly higher analytical and problem-solving abilities than LBL students, with a pooled RR of 1.47 (95% CI 1.13–1.91) and substantial heterogeneity; no standardized effect size was printed. [→ Zheng Hui 2026](#zheng-hui-2026)

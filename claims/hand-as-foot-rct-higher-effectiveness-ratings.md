@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: vats-shivangi-2026
     resource: "https://doi.org/10.1002/jdd.70190"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports, citing Su et al., that an RCT found the Hand as Foot group rated teaching significantly higher than the traditional group across all dimensions of teaching effectiveness. [→ Vats Shivangi 2026](#vats-shivangi-2026)

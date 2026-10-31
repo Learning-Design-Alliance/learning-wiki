@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: muasaad-alrasheedi-and-luiz-fernando-capretz-2015
     resource: "https://eric.ed.gov/?id=EJ1057286"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3` · `i3` large
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Across the shortlisted studies, content ranked first in influence and correlated r = 0.80454 with learner perceptions. [→ Muasaad Alrasheedi and Luiz Fernando Capretz 2015](#muasaad-alrasheedi-and-luiz-fernando-capretz-2015)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: casimiro-urcos-cn-2026
     resource: "https://doi.org/10.12688/f1000research.176682.1"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Strategies such as flipped classroom, problem-based learning, gamification, experiential learning, and collaborative learning, adapted to digital environments, generated positive effects on motivation, participation, and transversal competences. [→ Casimiro Urcos CN 2026](#casimiro-urcos-cn-2026)

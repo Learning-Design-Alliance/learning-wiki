@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: fang-eric-kin-meng-2026
     resource: "https://doi.org/10.1186/s12909-026-10028-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across 97 included studies, 87.6% focused primarily on teaching and learning, 8.2% on assessment, and 4.1% combined learning and assessment; use cases centered on communication skills, diagnostic reasoning and management reasoning. [→ Fang Eric Kin Meng 2026](#fang-eric-kin-meng-2026)

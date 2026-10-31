@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: fabiano-2021
     resource: "https://doi.org/10.3102/00346543211025092"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i2` medium
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` For behavioral classroom management, teacher ratings of ADHD symptoms showed SMD = 0.66 and teacher-rated impairment showed SMD = 0.72. [→ Fabiano 2021](#fabiano-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: baghcheghi-nayereh-koohestani-hamid-reza-2026
     resource: "https://doi.org/10.1186/s40359-026-04883-x"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` No longitudinal or cohort studies capable of explaining temporal sequences and inferring causal relationships were found, and no interventional study evaluated strategies for reducing IA and improving academic performance in this population. [→ Baghcheghi Nayereh; Koohestani Hamid Reza 2026](#baghcheghi-nayereh-koohestani-hamid-reza-2026)

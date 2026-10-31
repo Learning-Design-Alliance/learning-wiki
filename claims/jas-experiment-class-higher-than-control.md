@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-10-31
 sources:
   - id: s-ngabekti-2017
     resource: "https://doi.org/10.15294/jpii.v6i1.8490"
@@ -24,10 +25,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Across reviewed quasi-experimental studies, experiment classes using JAS had higher average scores than control classes. [→ S. Ngabekti 2017](#s-ngabekti-2017)
+`q2 i?` A review of 106 JAS research reports, using qualitative descriptive, quasi-experimental, classroom action (PTK) and R&D designs, concludes that many of them found experiment classes using JAS had higher average scores than control classes; it gives no count or pooled result for the controlled comparisons. [→ S. Ngabekti 2017](#s-ngabekti-2017)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ S. Ngabekti, S. Ridlo, E. Peniati, R. Martanto. (2017). META-ANALYSIS OF JELAJAH
 
 `q2 · i?` · `quant-synthesis · r1`
 
-The meta-analysis's synthesis of reviewed quasi-experimental and PTK studies, reported in the Conclusion. Individual reviewed studies (e.g., Wahyuni 2012: 100% > 57%; Safarini 2014: 90% vs 70%) are narrated as showing experiment-class advantages.
+The review's Conclusion, summarising 106 research reports of several designs (qualitative descriptive, quasi-experimental, PTK and R&D); it does not isolate or quantify the studies that compared experiment and control classes. Individual reviewed studies (e.g., Wahyuni 2012: 100% > 57%; Safarini 2014: 90% vs 70%) are narrated as showing experiment-class advantages.
 
 > "Many types of research proved JAS approach succeeded in increasing the study result, can differentiate the resulting study between experiment class and control class where the experiment class has a higher average score."
 

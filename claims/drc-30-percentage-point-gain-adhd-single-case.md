@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: pyle-2017
     resource: "https://eric.ed.gov/?id=ED583708"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In an HLM analysis of 1570 coded data points from 40 cases across 14 studies, the average treatment effect across studies was significant, with participants gaining approximately 30 percentage points from baseline to treatment. [→ Pyle 2017](#pyle-2017)

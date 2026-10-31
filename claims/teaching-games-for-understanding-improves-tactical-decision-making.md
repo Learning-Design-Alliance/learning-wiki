@@ -9,6 +9,7 @@ generated:
   at: 2026-09-24
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-31
 sources:
   - id: guo-et-al-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1766890"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` network meta-analysis of quasi-experiments · `i3` large · n=65 studies (8,027 participants)
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 Teaching Games for Understanding (TGfU) sets students a tactical problem in a modified game before any
 technical skill work, where traditional physical education drills the technique first and plays the
@@ -38,7 +39,7 @@ education, on decision-making in games.
 
 `q3 i2` TGfU also outperformed traditional instruction on motor skill execution, SMD = 0.56 (95% CrI 0.25 to 0.87), but the authors detected publication bias on skill-execution outcomes (Egger's test p = 0.0077) and ask for that effect to be read cautiously. [→ Guo et al. 2026](#guo-et-al-2026)
 
-`q3 i?` Interventions approaching or exceeding about 720 minutes, roughly one sustained instructional unit, were associated with more consistent effects and less heterogeneity across pedagogical models. [→ Guo et al. 2026](#guo-et-al-2026)
+`q3 i?` In subgroup analyses by instructional duration, TGfU's effects against traditional instruction were larger above about 720 minutes, roughly one sustained instructional unit (decision-making SMD 0.95 at 720–1,440 min vs 0.45 below; skill execution 0.72 vs 0.01), and the authors treat ≈720 minutes as a threshold. The pattern was not consistent across models and outcomes: Sport Education's motivation and enjoyment estimates were slightly smaller at 720–1,440 min, and heterogeneity rose in some longer-duration subgroups (TGfU skill execution, I² 52% to 83%). [→ Guo et al. 2026](#guo-et-al-2026)
 
 ## Evidence
 
@@ -48,7 +49,7 @@ Guo, J., Yu, Q., & Malik, Z. bin A. (2026). A network meta-analysis of pedagogic
 
 `q3 · network meta-analysis of quasi-experimental studies` · `i3 · SMD 0.83 on decision-making` · `n=65 studies (8,027 participants)` · `quant-synthesis · r3`
 
-A Bayesian random-effects network meta-analysis of 65 pre/post studies from 16 countries, K-12 through higher education, with middle-school students the largest group. It compared five pedagogical models (Sport Education, TGfU, [Cooperative Learning](../principles/cooperative-learning.md), Teaching Personal and Social Responsibility, and hybrids of these) with traditional [direct instruction](../elements/direct-instruction.md) of physical education. None of the included studies was randomised, and study quality was rated with MINORS: 35 high, 26 medium, 4 low. The structured record of the study is `observations/guo-2026.yaml`.
+A Bayesian random-effects network meta-analysis of 65 pre/post studies from 16 countries, K-12 through higher education, with middle-school students the largest group. It compared five pedagogical models (Sport Education, TGfU, [Cooperative Learning](../principles/cooperative-learning.md), Teaching Personal and Social Responsibility, and hybrids of these) with traditional [direct instruction](../elements/direct-instruction.md) of physical education. The authors describe all 65 as quasi-experimental pre/post studies, although the search admitted randomised trials and at least one included study is titled a group-randomised controlled trial (Viciana et al., 2020); study quality was rated with MINORS, a tool for non-randomised studies: 35 high, 26 medium, 4 low. The structured record of the study is `observations/guo-2026.yaml`.
 
 ## Discussion
 
@@ -61,14 +62,14 @@ from −0.07 to 2.92, and Sport Education, Cooperative Learning and TPSR all had
 zero. TGfU's is the one decision-making estimate the evidence actually separates from no effect, and
 it rests on direct comparisons rather than on inference through the network.
 
-**Strength is limited by the primary studies.** Every included study is quasi-experimental, so the
+**Strength is limited by the primary studies.** The authors describe the included studies as quasi-experimental, so the
 pooled estimate inherits whatever selection and teacher effects those designs carry. The
 publication bias found for skill execution is a warning that the same may hold for other outcomes,
 where it was not detected. The claim is rated moderate for that reason rather than on the size of
 the effect.
 
-**Duration matters for design.** The 720-minute figure is a moderator across all models, not a
-TGfU result. For a designer it argues for committing a whole unit to a game-centred model rather
+**Duration matters for design.** The 720-minute figure comes from subgroup analyses across several
+models, not a TGfU-only result, and it held in some comparisons and not others. For a designer it argues for committing a whole unit to a game-centred model rather
 than inserting one or two lessons into a technique-led programme.
 
 **Scope.** School and university physical education, in person. Nothing here tests transfer of

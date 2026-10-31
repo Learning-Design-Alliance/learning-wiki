@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: young-2016
     resource: "https://doi.org/10.12973/ijem.2.1.19"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Mean effect sizes of technology in mathematics classrooms vary by didactical functionality from small to medium, with the largest variations observed for the didactical function of developing conceptual understanding. [→ Young 2016](#young-2016)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: vundum-jonathon-2025
     resource: "https://doi.org/10.1007/s13187-025-02651-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A PRISMA-guided systematic review identified only three eligible studies of CBL in populations resembling medical oncology specialty trainees, with a total of 111 participants published between 2012 and 2024. [→ Vundum Jonathon 2025](#vundum-jonathon-2025)

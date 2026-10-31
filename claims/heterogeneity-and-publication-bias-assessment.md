@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: turgut-2018
     resource: "https://doi.org/10.12973/iji.2018.11345a"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The 59 effect sizes show a heterogeneous distribution (Q=339,497 exceeding the critical value of 76,778; I²=82,916%, high heterogeneity), and Rosenthal's fail-safe N (891) indicates resistance to publication bias. [→ Turgut 2018](#turgut-2018)

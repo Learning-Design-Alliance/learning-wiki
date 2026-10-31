@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: strong
+newest_evidence: 2026
 sources:
   - id: almarzooqi-lm-2026
     resource: "https://doi.org/10.1186/s12909-026-09920-2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Of 32 included RaT studies, 21 (66%) originated from the United States, no studies were identified from the Gulf Cooperation Council region, and only two came from the broader Middle East. [→ AlMarzooqi LM 2026](#almarzooqi-lm-2026)

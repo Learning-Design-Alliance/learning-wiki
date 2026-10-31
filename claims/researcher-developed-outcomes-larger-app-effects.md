@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: james-kim-2021
     resource: "https://doi.org/10.1177/23328584211004183"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Standardized outcome measures moderated app effects: impacts were about 0.42 SD lower on standardized than researcher-developed outcomes. [→ James Kim 2021](#james-kim-2021)

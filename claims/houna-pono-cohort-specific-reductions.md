@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: bajpai-tewari-2026
     resource: "https://doi.org/10.3390/ijerph23081073"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The Native Hawaiian curriculum's effects were cohort-specific: small but significant deceleration in cigarette/e-cigarette and hard-drug use growth for one cohort each, no significant effect on marijuana use, and a flatter alcohol growth trajectory only for the latest-exposed cohort. [→ Bajpai Tewari 2026](#bajpai-tewari-2026)

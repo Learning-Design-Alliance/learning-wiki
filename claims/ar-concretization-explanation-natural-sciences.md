@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: ozdemir-m-2018
     resource: "https://doi.org/10.14689/ejer.2018.74.9"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q1`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors' stated explanation is that abstract concepts in Natural-Science courses can be concretized more easily in an AR learning environment than those in Social-Science courses. [→ Ozdemir M. 2018](#ozdemir-m-2018)

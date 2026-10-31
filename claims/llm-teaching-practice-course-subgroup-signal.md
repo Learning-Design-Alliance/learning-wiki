@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: liu-xiaoliu-2026
     resource: "https://doi.org/10.1186/s12909-026-09879-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Exploratory subgroup analysis showed pooled SMD 0.60 (95% CI -0.10 to 1.30) for theory courses and SMD 1.60 (95% CI -0.21 to 3.41) for practice courses, with a course-type interaction (Qbetween = 24.31, P = 8.2e-07) but no interaction for learning duration (Qbetween = 0.26, P = 0.608). [→ Liu Xiaoliu 2026](#liu-xiaoliu-2026)

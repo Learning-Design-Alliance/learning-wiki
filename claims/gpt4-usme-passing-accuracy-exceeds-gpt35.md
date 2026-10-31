@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: bodke-parag-2026
     resource: "https://doi.org/10.1186/s12909-026-09999-7"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across 9 USMLE benchmark studies, GPT-4 achieved mean accuracy of 86% (IQR 81–89%), above the ~60% passing standard, while GPT-3.5 averaged 56% (IQR 52–62%). [→ Bodke Parag 2026](#bodke-parag-2026)

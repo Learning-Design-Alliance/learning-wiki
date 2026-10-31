@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: quinn-2014
     resource: "https://eric.ed.gov/?id=ED562949"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Across 12 studies of school-based summer math programs, random effects meta-analysis yields a significant positive pooled effect of d=0.08 on math scores. [→ Quinn 2014](#quinn-2014)

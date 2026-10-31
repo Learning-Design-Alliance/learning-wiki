@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: quinn-2014
     resource: "https://eric.ed.gov/?id=ED562949"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r1`–`r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` In a between-study random effects moderator analysis, low-income samples benefited from summer math programs (d=0.11, significant) while mixed-income samples did not (d=-0.02, not significant). [→ Quinn 2014 (2)](#quinn-2014-2)

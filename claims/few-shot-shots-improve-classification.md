@@ -66,5 +66,5 @@ Discussion-section interpretation of the Table 7 classification results across t
 ## Related Claims
 - [Classification was weakest for the Determining What Students Know lesson, where zero-shot learning scored F1 0.66 and AUC 0.668](classification-weakest-determining-students-know.md) — related
 - [A GPT-4 few-shot binary classifier effectively identifies correct/incorrect trainee responses across three tutor-training lessons, with average F1 of 0.84 and AUC of 0.85](gpt4-few-shot-classifies-trainee-responses.md) — a broader claim this one bears on
-- [In-context examples improve LLM Bloom classification: three-shot and ten-shot prompting outperform zero-shot across datasets](in-context-examples-improve-bloom-classification.md) — a broader claim this one bears on
+- [In-context examples improve LLM Bloom classification: three-shot and ten-shot prompting score at or above zero-shot on every dataset tested, and above it in most comparisons](in-context-examples-improve-bloom-classification.md) — a broader claim this one bears on
 - [For Reacting to Errors, GPT-4 rephrasings were rated more accurate than human rephrasings (few-shot p < 0.01, zero-shot p < 0.05) with no significant responsiveness difference](gpt4-rephrasing-reacting-to-errors-accuracy.md) — related

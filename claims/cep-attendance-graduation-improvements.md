@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: curnutte-mary-2026
     resource: "https://doi.org/10.1111/josh.70244"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Attending a CEP school increased the probability of daily attendance by 0.24 percentage points, and graduation rates improved by 1.506 percentage points at schools with the largest increases in free meal access. [→ Curnutte Mary 2026](#curnutte-mary-2026)

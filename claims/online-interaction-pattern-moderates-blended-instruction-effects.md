@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: li-2022
     resource: "https://doi.org/10.15354/bece.22.ar018"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Effect sizes differ significantly across interaction patterns (p = 0.000), with synchronous + asynchronous interaction (1.189) and synchronous interaction (1.134) largest, asynchronous interaction moderate (0.521), and absence of interaction smallest (0.130). [→ Li 2022](#li-2022)

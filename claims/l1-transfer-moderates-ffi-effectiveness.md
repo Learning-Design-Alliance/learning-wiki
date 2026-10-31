@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: schenck-2024
     resource: "https://eric.ed.gov/?id=EJ1457419"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Experimental studies examining features similar to the Persian L1 had higher effect sizes for input-based instruction, while features highly disparate from the L1 benefited more from output-based FFI. [→ Schenck 2024](#schenck-2024)

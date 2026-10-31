@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: zha-2019
     resource: "https://ro.uow.edu.au/ajpl/vol12/iss1/2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i1` small
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Across 28 studies, peer-led learning groups scored on average 0.36 standard deviation units higher in cognitive achievement than non-peer-led groups. [→ Zha 2019](#zha-2019)

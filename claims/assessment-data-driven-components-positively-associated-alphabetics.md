@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: elias-walsh-2023
     resource: "https://ies.ed.gov/ncee/wwc/Publication/WWC-2023008"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Descriptively, the testing and screening domain was present in 90 percent of interventions with positive effects but only 63 percent of those with negative effects, and student placement in 71 percent versus 50 percent. [→ Elias Walsh 2023](#elias-walsh-2023)

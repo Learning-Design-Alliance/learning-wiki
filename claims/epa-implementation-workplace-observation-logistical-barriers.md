@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: fernandes-nuno-2026
     resource: "https://doi.org/10.1080/10872981.2026.2740871"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Observation by faculty of EPA execution in the workplace was referenced in 42.3% (n = 202) of studies and practice evaluation by faculty in the workplace was the most common assessment method (44.6%, n = 213); logistical difficulties (29.5%, n = 141) and faculty development issues (15.7%, n = 75) were the most reported factors influencing implementation. [→ Fernandes Nuno 2026](#fernandes-nuno-2026)

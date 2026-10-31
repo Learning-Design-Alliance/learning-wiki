@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: lynch-2025
     resource: "https://doi.org/10.1177/23328584251335302"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Kennedy's graphical review concluded programs fostering teachers' intellectual involvement with the material and voluntary teacher enrollment tended to be more effective. [→ Lynch 2025](#lynch-2025)

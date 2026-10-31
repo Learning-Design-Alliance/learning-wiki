@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: strong
+newest_evidence: 2023
 sources:
   - id: patall-2023
     resource: "https://eric.ed.gov/?id=ED631356"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The synthesis categorizes the components of structure into seven groups, the last two of which are typically only included in research from classroom management perspectives. [→ Patall 2023](#patall-2023)

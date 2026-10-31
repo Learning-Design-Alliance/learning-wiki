@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: mixed
+newest_evidence: 2025
 sources:
   - id: björn-haßler-2025
     resource: "https://doi.org/10.53832/opendeved.1170"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q4` · `i2`–`i3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i2` Pooled effects were higher in secondary education (d = 0.565) than primary education (d = 0.3403). [→ Björn Haßler 2025](#bjorn-haler-2025)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: fernandes-nuno-2026
     resource: "https://doi.org/10.1080/10872981.2026.2740871"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Global entrustment scales were the most used EPA assessment tools (30.8%, n = 147), followed by standardised rubrics (20.9%, n = 100), yet validation efforts of assessment tools were referenced in only 12.8% (n = 61) of studies. [→ Fernandes Nuno 2026](#fernandes-nuno-2026)

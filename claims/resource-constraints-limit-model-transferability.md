@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2026
+source_checked: 2026-10-31
 sources:
   - id: munguiko-clement-2026
     resource: "https://doi.org/10.1186/s12909-026-09710-w"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review argues that high patient volumes, workforce shortages, and constrained infrastructure in low- and middle-income settings may hinder application of structured, time-intensive, feedback-demanding models, so direct transferability should not be assumed. [→ Munguiko Clement 2026](#munguiko-clement-2026)

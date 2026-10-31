@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: bakken-2021
     resource: "https://doi.org/10.3390/educsci11100638"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3` · `i3` large
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Meta-analysis of three RCT/QED effect sizes shows interventions improved students' ability to read taught words, with a large mean effect (g = 0.95, 95% CI [0.51, 1.38], p < 0.001). [→ Bakken 2021](#bakken-2021)

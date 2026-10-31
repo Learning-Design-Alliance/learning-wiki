@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: tian-qi-2026
     resource: "https://doi.org/10.3389/fpubh.2026.1905122"
@@ -31,6 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In the 13-study under-18 primary network, Hybrid TGfU-SE, Nonlinear, and Functional games had positive effect estimates versus Control with 95% CIs excluding zero, with Hybrid TGfU-SE highest (P-score 0.871; SMD 1.35, 95% CI 0.60 to 2.11). [→ Tian Qi 2026](#tian-qi-2026)

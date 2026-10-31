@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: quinn-2014
     resource: "https://eric.ed.gov/?id=ED562949"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i0` negligible
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` In fixed effect within-study analysis of reading studies, low-income students benefited more than middle-income students in the same programs (difference d=0.25, CI 0.15 to 0.35, k=7). [→ Quinn 2014](#quinn-2014)

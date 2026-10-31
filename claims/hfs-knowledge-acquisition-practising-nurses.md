@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: zhou-jie-2026
     resource: "https://doi.org/10.1111/jocn.70206"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Meta-analysis of six studies (185 nurses) found HFS training produced a moderate, significant improvement in knowledge acquisition compared with traditional methods (SMD = 0.65), with no heterogeneity. [→ Zhou Jie 2026](#zhou-jie-2026)

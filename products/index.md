@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**2329 entries** · 0 stable · 2329 in review · 0 drafts
+**2328 entries** · 0 stable · 2328 in review · 0 drafts
 
 ---
 
@@ -1013,7 +1013,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 * [Janssen et al.'s twelve-element digital competence model](janssen-et-als-twelve-element-digital-competence-model.md) - A twelve-element framework developed by Janssen et al.
 * [Jastudy](jastudy.md) - Jastudy is a computer-assisted language-learning program developed by Liu et al.
-* [Jelajah Alam Sekitar (JAS)](jelajah-alam-sekitar-jas.md) - A biology-learning approach developed by the Biology Department of FMIPA UNNES that integrates environmental exploration, scientific work, constructivist learning, learning communities, edutainment, and authentic assessment in indoor and outdoor instruction.
 * [Jelajah Alam Sekitar (JAS) learning approach](jelajah-alam-sekitar-jas-learning-approach.md) - A nature-exploration biology learning approach developed and disseminated by the Biology Department of FMIPA UNNES in Indonesia, using learners' direct experience of the natural environment.
 * [JEU SERAI vocational guidance profiling game](jeu-serai-vocational-guidance-profiling-game.md) - JEU SERAI is a serious game developed by a consortium of two companies, two universities, and an adult training association that uses mini-games and questionnaires to generate players' Holland RIASEC vocational-interest profiles.
 * [jmatayoshi/affect-transitions](jmatayoshiaffect-transitions.md) - An open-source Python module by Jeffrey Matayoshi for simulating affect transitions and computing L and L* statistics.

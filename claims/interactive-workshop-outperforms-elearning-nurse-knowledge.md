@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: almeani-mohammad-2026
     resource: "https://doi.org/10.1002/edm2.70324"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Both e-learning and interactive workshop formats improved diabetic foot care knowledge, but post-test scores were significantly higher in the interactive workshop group. [→ Al‐Me'ani Mohammad 2026](#almeani-mohammad-2026)

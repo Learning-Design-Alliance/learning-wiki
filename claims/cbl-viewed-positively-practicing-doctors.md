@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2025
 sources:
   - id: vundum-jonathon-2025
     resource: "https://doi.org/10.1007/s13187-025-02651-w"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` All three included studies universally demonstrated that CBL was viewed positively by practicing doctors, with no reported negative aspects. [→ Vundum Jonathon 2025](#vundum-jonathon-2025)

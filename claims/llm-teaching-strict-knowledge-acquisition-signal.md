@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: liu-xiaoliu-2026
     resource: "https://doi.org/10.1186/s12909-026-09879-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` A sensitivity analysis restricted to stricter post-course knowledge outcomes (5 studies; 164 vs. 164 participants) yielded a pooled SMD 0.80 (95% CI 0.07 to 1.53; I² = 88.6%). [→ Liu Xiaoliu 2026](#liu-xiaoliu-2026)

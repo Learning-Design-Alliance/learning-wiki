@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-10-31
 sources:
   - id: s-ngabekti-2017
     resource: "https://doi.org/10.15294/jpii.v6i1.8490"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the analyzed studies, 97% were judged to show the JAS approach's effectiveness. [→ S. Ngabekti 2017](#s-ngabekti-2017)

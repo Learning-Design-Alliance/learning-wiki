@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2018
+source_checked: 2026-10-31
 sources:
   - id: turgut-2018
     resource: "https://doi.org/10.12973/iji.2018.11345a"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2018 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Between-group homogeneity testing finds no statistically significant difference in effect sizes across implementation periods (QB=10,594, below the critical value of 11,070 for 5 degrees of freedom). [→ Turgut 2018](#turgut-2018)

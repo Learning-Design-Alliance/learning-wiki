@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: zanin-a-2026
     resource: "https://doi.org/10.1007/s00431-026-06925-3"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Weekly 3–5 minute on-site simulation training was associated with a significant decrease in 24-h neonatal mortality (p = 0.040). [→ Zanin A 2026](#zanin-a-2026)

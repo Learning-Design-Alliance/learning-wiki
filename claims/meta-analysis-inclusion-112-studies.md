@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: douglas-biber-2011
     resource: "https://www.ets.org/toefl"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Four screening criteria identified 112 studies as potentially relevant for the meta-analysis, but a second round of scrutiny excluded many for unsuitable designs, different research questions, incomplete reporting, or no clear basis for comparison. [→ Douglas Biber 2011](#douglas-biber-2011)

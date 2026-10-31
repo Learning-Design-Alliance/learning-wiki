@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: zhang-wenjia-stella-2026
     resource: "https://doi.org/10.2196/92826"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Most studies were single-arm pilot feasibility testing or proof-of-concept evaluations, and only 2 of 21 studies (10%) provided evidence beyond initial development or short-term evaluation. [→ Zhang Wenjia (Stella) 2026](#zhang-wenjia-stella-2026)

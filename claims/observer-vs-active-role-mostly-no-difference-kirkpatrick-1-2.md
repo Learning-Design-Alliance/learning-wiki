@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: amechghal-a-2026
     resource: "https://doi.org/10.3352/jeehp.2026.23.24"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Narrative synthesis of 15 studies (1,799 participants) found most studies reported no significant between-role differences at Levels 1 and 2; no study assessed Levels 3 or 4. [→ Amechghal A 2026](#amechghal-a-2026)

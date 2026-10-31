@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: zha-2019
     resource: "https://ro.uow.edu.au/ajpl/vol12/iss1/2"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` After controlling for task type, training, and duration, the remaining between-study variance was large (τ² = 0.03) and significantly different from zero (QE = 101.25, df = 24, p < 0.001). [→ Zha 2019](#zha-2019)

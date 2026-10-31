@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: zagalo-daniela-mariana-2026
     resource: "https://doi.org/10.1186/s12909-026-09059-0"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the 83 studies included in this scoping review, empathy was the most frequently highlighted soft-skill focus, addressed in 22 studies, followed by humanism (9) and communication skills (1). [→ Zagalo Daniela Mariana 2026](#zagalo-daniela-mariana-2026)

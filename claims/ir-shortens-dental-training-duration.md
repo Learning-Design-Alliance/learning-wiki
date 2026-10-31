@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
+source_checked: 2026-10-31
 sources:
   - id: ruslin-muhammad-2026
     resource: "https://doi.org/10.1186/s12909-026-09739-x"
@@ -23,6 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Virtual drilling time decreased from 216 ± 107 to 150 ± 60 s while conventional method time reduced from 547 ± 73 to 424 ± 105 s, with virtual training achieving similar outcomes in less time. [→ Ruslin Muhammad 2026](#ruslin-muhammad-2026)

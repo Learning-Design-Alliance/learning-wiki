@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: sedat-turgut-2017
     resource: "https://doi.org/10.26822/iejee.2017236115"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Between-group homogeneity for educational level was significant (QB = 7.830, p = 0.050), and effects ranged from 0.661 (middle school) to 1.207 (higher school). [→ Sedat Turgut 2017](#sedat-turgut-2017)

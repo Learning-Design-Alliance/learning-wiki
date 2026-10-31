@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: schenck-2024
     resource: "https://eric.ed.gov/?id=EJ1457419"
@@ -23,6 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Analysis of individual studies suggests complex grammatical features benefit more from input-based FFI when proficiency is low, whereas simple features benefit more from output-based instruction when proficiency is high. [→ Schenck 2024](#schenck-2024)

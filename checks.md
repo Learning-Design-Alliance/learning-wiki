@@ -10,7 +10,7 @@ This wiki is written by language models, from published research, and checked by
 |---|---|
 | Claims | 34,936, from 8,756 sources |
 | Reviewed by a person | 0 |
-| Every evidence entry compared with its source by the faithfulness judge | 5,450 claims (16%) |
+| Every evidence entry compared with its source by the faithfulness judge | 5,506 claims (16%) |
 | Claims citing at least one DOI | 26,928 claims (77%) |
 | Sources whose citations went through the Crossref identity gate | 7,981 of 8,756 |
 | Sources read for impossible statistics and invented references | 6,251 of 7,135 (2026-10-25) |
@@ -59,7 +59,7 @@ A second model, from a different provider, reads each evidence entry beside the 
 
 **Cannot catch.** A claim checked only against an abstract, for detail an abstract does not carry. The judge is a model and has been wrong; its failures are read before they are acted on.
 
-**Coverage.** 5,450 claims (16%) have had every evidence entry compared with its source and passed; 163 judge failures were read and recorded with a reason. Each claim states this on its page, in its *Currency* line.
+**Coverage.** 5,506 claims (16%) have had every evidence entry compared with its source and passed; 163 judge failures were read and recorded with a reason. Each claim states this on its page, in its *Currency* line.
 
 ### 6. Can the source be believed?
 
@@ -91,7 +91,7 @@ Two claims stating the same finding are merged, and two pages on the same thing 
 
 **Cannot catch.** Near-duplicates phrased far apart.
 
-**Coverage.** 3,337 pair decisions recorded.
+**Coverage.** 3,338 pair decisions recorded.
 
 ### 10. Currency
 
