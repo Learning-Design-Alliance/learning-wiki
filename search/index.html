@@ -984,7 +984,7 @@
   const esc = s => String(s).replace(/[&<>"]/g, c => ({"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;"})[c]);
   let seq = 0;
   // The canonical pages first, then the rest of the curated tier (principles, patterns,
-  // designs, products, methods, canonical elements and theories), above the full results.
+  // designs, processes, methods, canonical elements and theories), above the full results.
   async function mainPages(term) {
     const n = ++seq;
     if (!term || term.trim().length < 2) { box.hidden = true; return; }

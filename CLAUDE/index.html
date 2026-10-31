@@ -2176,8 +2176,10 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
 <ul>
 <li><strong>The docs site has two tiers.</strong> mkdocs renders principles, patterns, designs, processes,
   methods, learner variables and the elements and theories marked <code>canonical: true</code>;
-  <code>scripts/build_longtail.py</code> renders claims, strategies and the other elements and theories
-  as light pages at the same URLs, with letter-paged listings. Pagefind indexes both.
+  <code>scripts/build_longtail.py</code> renders claims, strategies, products, research methods and the
+  other elements and theories as light pages at the same URLs, with letter-paged listings.
+  <strong>The repo is for agent retrieval and the site for human navigation</strong> (maintainer, 2026-10-31):
+  shrink the site by changing how pages render, never by taking a page or field out of the repo. Pagefind indexes both.
   <code>scripts/build_site.sh</code> is the one build, used by all three workflows; <code>docs_hooks/two_tier.py</code>
   says which page is in which tier. PR previews run only for PRs that change the site build
   (or carry the <code>preview</code> label).</li>
@@ -2191,7 +2193,10 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
   at 44,700 pages (long tail 371 MB, Pagefind 113 MB; about 12 KB a long-tail page), so the 1 GB
   Pages limit is roughly 30,000 pages away. The 2026-10-12 figure (21 KB a page, 48,000 pages) read
   disk blocks, not bytes. The deploy warns past 850 MB; then the long tail moves off GitHub Pages or
-  is stored compressed and rendered in the browser.</li>
+  is stored compressed and rendered in the browser. On 2026-10-31 a full build measured 713 MB at
+  48,940 content pages; moving products and research methods to the long tail, sharing the long
+  tail's style and script, and trimming its metadata panel brought it to 587 MB. The source sweep's
+  driver holds at a content-page limit set from such a measured build.</li>
 <li><strong><code>log.md</code> holds the current month</strong>; <code>okf_lib.rotate_log()</code> moves earlier months to
   <code>log/YYYY-MM.md</code>. The log is not on the site.</li>
 <li><strong><code>wiki-index.json</code> and <code>reverse-index.json</code> are written one record per line</strong>
