@@ -1489,7 +1489,7 @@
 <h3 id="1-inclusion">1. Inclusion<a class="headerlink" href="#1-inclusion" title="Permanent link">&para;</a></h3>
 <p>Each source is screened against the published <a href="https://github.com/Learning-Design-Alliance/learning-wiki/blob/main/INCLUSION.md">inclusion criteria</a> before anything is extracted: opinion pieces, out-of-scope work, sources with nothing extractable and sources already covered are refused. Every decision, either way, is logged in <code>sources/manifest.ndjson</code>, so anyone can check whether a given article was reviewed.</p>
 <p><strong>Cannot catch.</strong> A source that is in scope and badly done. Inclusion is about what a source is, not how good it is.</p>
-<p><strong>Coverage.</strong> 8,843 sources reviewed: 8,599 ingested, 244 refused (out-of-scope 120, validation-error 99, uncoded 22, no-contributions-extracted 2, parse-error 1).</p>
+<p><strong>Coverage.</strong> 10,818 sources reviewed: 8,599 ingested, 2,219 refused (out-of-scope 1,871, no-ingestable-content 207, validation-error 99, uncoded 22, opinion-piece 17, no-contributions-extracted 2, parse-error 1).</p>
 <h3 id="2-extraction-and-structural-validation">2. Extraction and structural validation<a class="headerlink" href="#2-extraction-and-structural-validation" title="Permanent link">&para;</a></h3>
 <p>A model reads the article and writes claims with their evidence. A validator refuses any extraction whose structure is broken, whose citation does not match the article, or whose codes are out of range; a refused article contributes nothing.</p>
 <p><strong>Cannot catch.</strong> A well-formed claim that misreads its article (step 5 looks for that).</p>
