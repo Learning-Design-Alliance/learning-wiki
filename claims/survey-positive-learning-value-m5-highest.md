@@ -50,3 +50,4 @@ Voluntary end-of-course group survey (10 of 24 groups responded, a 42% group res
 - [Voluntary classroom uptake of teacher-assigned AI discussions was high on average (85.0% classroom participation) but heterogeneous across teachers and discussions](high-but-heterogeneous-voluntary-ai-discussion-uptake.md) — related
 - [Teachers rate LearnLens positively across usability, relevance, and accuracy, with all nine Likert items averaging at least 4.1/5](learnlens-teacher-satisfaction-4-1-of-5.md) — related
 - [Student ratings of the AI-generated materials ranged from an average of 8.5 to 9.9 out of 10 across validated modules, based on over 600 voluntary anonymous evaluations.](student-ratings-8-5-to-9-9-generated-materials.md) — related
+- [PBL students gave positive feedback on the implementation of PBL in a nine-question Likert survey](pbl-positive-student-feedback-survey.md) — related

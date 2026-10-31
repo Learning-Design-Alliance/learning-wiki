@@ -53,3 +53,5 @@ A pragmatic randomized controlled trial with 84 second-year nursing students (42
 - [VR tools enhance acquisition and retention of clinical and procedural skills but face barriers including cybersickness, limited tactile feedback and variable long-term skill transfer](vr-enhances-practical-skill-acquisition-with-barriers.md) — a broader claim this one bears on
 - [Virtual patient simulations show mixed effects: improved diagnostic accuracy in one trial, no advantage over video teaching in another, and short-lived knowledge gains](virtual-patients-mixed-psychiatry.md) — related
 - [VR clinical simulation produced higher anxiety than face-to-face manikin simulation in maternal-newborn nursing](vr-simulation-higher-anxiety-than-face-to-face.md) — reports the opposite
+- [VR simulation of orthodontic treatment produced higher student engagement and learning satisfaction than PowerPoint analysis](vr-higher-engagement-than-powerpoint-orthodontics.md) — related
+- [VR teaching outperforms traditional teaching on secondary outcomes including course participation, learning efficiency, and shorter train time](vr-secondary-outcomes-favor-vr.md) — related

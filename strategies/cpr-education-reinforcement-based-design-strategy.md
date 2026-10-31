@@ -61,6 +61,7 @@ The review recommends treating CPR education as an ongoing, reinforcement-based 
 - [Select feedback technology to match the learner population, setting and learning objective, and reinforce with spaced booster training](match-feedback-device-to-context-plus-booster-training.md)
 - [Integrate simulation as a curriculum-embedded component with trained instructors and technological infrastructure](embed-simulation-in-curriculum-strategy.md)
 - [Schedule deliberate practice with repetitive reinforcement sessions to sustain NTS knowledge and behaviors over time](deliberate-practice-reinforcement-nts-retention.md)
+- [Use targeted educational interventions — continuing education, dissection courses, generative retrieval and integrated anatomy training — to sustain basic science retention](targeted-interventions-sustain-basic-science-retention.md)
 
 ## Examples
 -

@@ -54,3 +54,6 @@ Meta-analysis of six RCTs (N = 340) with a random-effects model found "3D + PBL 
 - [3D + PBL improves understanding of orthopedic anatomical structures](3d-pbl-improves-understanding-orthopedic-anatomy.md) — related
 - [3D + PBL improves teaching satisfaction in orthopedic education](3d-pbl-improves-teaching-satisfaction-orthopedics.md) — related
 - [3D + PBL improves overall satisfaction in orthopedic education](3d-pbl-improves-overall-satisfaction-orthopedics.md) — related
+- [3D-PBL showed the greatest improvement in communication skills versus lecture-based learning, rated high-quality evidence](3d-pbl-greatest-communication-skills-gains.md) — related
+- [3D-PBL is the most effective orthopedic teaching method across all measured outcomes in Chinese undergraduate and postgraduate education](3d-pbl-most-effective-orthopedic-teaching-china.md) — related
+- [PBL shows no benefits for hands-on, communication, or self-directed learning skills and no advantage in operational skills for diagnostic imaging](pbl-no-benefit-hands-on-communication-self-directed.md) — reports the opposite

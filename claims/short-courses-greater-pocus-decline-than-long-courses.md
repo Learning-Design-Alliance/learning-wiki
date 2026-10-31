@@ -47,3 +47,4 @@ Stratified analysis of 43 courses across the included studies, categorized using
 ## Related Claims
 - [PoCUS competency declines across all I-AIM domains over 1–12 months, with Acquisition showing the most pronounced decline (median −11.8%)](pocus-acquisition-domain-most-pronounced-retention-decline.md) — related
 - [A 'Learning as Teachers' approach with comprehensive post-training materials and program-director roles is associated with sustained or enhanced competency over time](learning-as-teachers-associated-with-sustained-pocus-competency.md) — related
+- [Peer teacher training in undergraduate ultrasound is predominantly course-based, often combined with internships, with a median duration of about ten days](peer-teacher-training-course-based-median-ten-days.md) — related

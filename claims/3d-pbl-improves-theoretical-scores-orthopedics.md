@@ -56,3 +56,5 @@ Meta-analysis of twelve RCTs (N = 751) with a random-effects model found "3D + P
 - [3D + PBL improves learning motivation in orthopedic education](3d-pbl-improves-learning-motivation.md) — related
 - [3D + PBL improves understanding of orthopedic anatomical structures](3d-pbl-improves-understanding-orthopedic-anatomy.md) — related
 - [3D + PBL improves teaching satisfaction in orthopedic education](3d-pbl-improves-teaching-satisfaction-orthopedics.md) — related
+- [In the RCT, PBL students obtained significantly better final exam grades than LBL students, but the meta-analysis found no significant final-exam difference](pbl-final-exam-rct-vs-meta-analysis-discrepancy.md) — related
+- [PBL shows no benefits for hands-on, communication, or self-directed learning skills and no advantage in operational skills for diagnostic imaging](pbl-no-benefit-hands-on-communication-self-directed.md) — related

@@ -48,3 +48,4 @@ Meta-analysis of 14 controlled studies (12 RCTs, one pseudorandom, one cohort; n
 - [GenAI significantly improves academic writing scores for both clinical medicine and nursing students](genai-improves-academic-writing-scores.md) — related
 - [Nursing students show significant knowledge improvement with GenAI (SMD = 1.11) unlike clinical medicine students](genai-knowledge-gain-nursing-students.md) — related
 - [GenAI does not significantly improve clinical skills of clinical medicine students compared with traditional teaching](genai-no-clinical-skill-gain-clinical-medicine-students.md) — related
+- [GAI-based teaching and traditional teaching produce comparable knowledge acquisition scores in medical students](gai-traditional-comparable-knowledge-acquisition.md) — a broader claim this one bears on

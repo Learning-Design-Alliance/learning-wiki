@@ -13,7 +13,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 109 claims (78 show a difference, 19 mixed, 12 no difference) · 78 studies (26 associational, 24 causal, 14 quant-synthesis, 9 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 19 of 78 report an effect size · 106 claims rest on one study
+> **Evidence** · 110 claims (79 show a difference, 19 mixed, 12 no difference) · 79 studies (26 associational, 24 causal, 15 quant-synthesis, 9 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 19 of 79 report an effect size · 107 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.
@@ -150,6 +150,7 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [Digital storytelling projects can promote incidental vocabulary acquisition when learners create multimedia resources illustrating vocabulary use](../claims/dst-incidental-vocabulary-acquisition.md) [+M] — instruction changes it
 - [TEPBLL promotes eight language skills and knowledge areas: speaking, listening, reading, writing, vocabulary, creative and critical thinking, intercultural awareness, and content knowledge](../claims/tepbll-eight-skills-knowledge-promoted.md) [+M] — instruction changes it
 - [WhatsApp-based mobile instant messaging projects enhanced communicative skills and vocabulary knowledge](../claims/whatsapp-projects-communicative-skills-vocabulary.md) [+M] — instruction changes it
+- [PBL, including PBL combined with VR, improves EFL vocabulary acquisition](../claims/pbl-improves-efl-vocabulary-acquisition.md) [+M] — instruction changes it
 
 ## Measures
 - **Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)** (Dunn, 2018): receptive vocabulary for learners of all ages (earlier edition: Dunn & Dunn, 2007).

@@ -52,3 +52,4 @@ Subgroup analysis of the knowledge-acquisition meta-analysis by assessment timin
 - [The RT propensity–learning relationship is strongest early in the class session and attenuates later](rt-learning-relationship-strongest-early-session.md) — related
 - [Onsite training skill effects are larger at immediate post‐intervention than at follow‐up, while hybrid skill effects do not differ by assessment point](onsite-skill-effects-larger-immediate-post-intervention.md) — related
 - [Zlotos study found confidence gains at post-test and 6-month follow-up, with knowledge peaking immediately then declining but staying above pretest](zlotos-confidence-knowledge-trajectory.md) — a narrower finding that bears on this claim
+- [Two implementation-strategies interventions showed mixed effectiveness, with gains immediately after intervention but not at follow-up](implementation-strategies-mixed-followup-results.md) — a narrower finding that bears on this claim

@@ -52,3 +52,4 @@ Subgroup analyses were performed according to discipline, item type, and learner
 - [The Angoff method produced lower cut-off scores and higher pass rates than Cohen and Hofstee methods in dental written assessments, especially in early and middle years](angoff-lower-cutoffs-higher-pass-rates.md) — related
 - [Angoff methods produce significantly higher pass rates than conventional fixed standard-setting methods](angoff-higher-pass-rates-than-fixed.md) — related
 - [Number of judges positively influences cut scores, while test length influences pass rates](angoff-moderators-judges-items.md)
+- [The Modified Angoff method was acceptable for setting different pass marks for senior and junior residents on the same OSCE](modified-angoff-different-pass-marks.md) — related

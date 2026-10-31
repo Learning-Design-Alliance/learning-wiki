@@ -62,3 +62,4 @@ Multiple regression on MSLQ learning-strategy factors from 97 Japanese universit
 - [Effort regulation and student engagement were the most consistent predictors of learning strategy use and self-reported achievement](effort-regulation-engagement-consistent-predictors.md) — related
 - [Metacognitive strategy use correlates positively with EFL reading comprehension achievement (r = .54)](metacognitive-strategy-use-reading-achievement-correlation.md) — related
 - [Self-efficacy positively and test anxiety negatively predicted classroom grades, while test anxiety positively predicted cognitive strategy use but negatively predicted regulatory strategy use](self-efficacy-and-test-anxiety-predict-performance.md) — related
+- [PBL improves EFL reading proficiency and metacognitive reading strategies, though some studies lack control groups](pbl-improves-efl-reading-proficiency.md) — related

@@ -57,3 +57,4 @@ Publication bias detection in the cross-sectional meta-analysis using modified E
 - The included scaffolding studies show small-study effects, which the Bayesian approach addresses by shrinking overweighted effect sizes — related
 - No evidence of dissemination bias was detected in the meta-analysis — reports the opposite
 - Formal tests find no substantial evidence of publication bias or small-study effects in the meta-analysis — related
+- [No significant publication bias was detected for the knowledge and skill outcomes](no-publication-bias-sbl-endocrinology.md) — related

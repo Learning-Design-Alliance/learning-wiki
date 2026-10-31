@@ -52,3 +52,5 @@ Meta-analysis of 39 studies of LLMs answering dental examination questions, usin
 - Question provenance and format vary widely across studies: author-constructed sets dominate (53.8%), and 97.4% of studies used text-only questions — related
 - [Newer LLM versions generally outperformed older versions on dental examination questions](newer-llms-outperform-older-dental-exams.md) — related
 - [Bard achieves an integrated accuracy of 56% on dental licensing examinations](bard-integrated-accuracy-56-percent-dental-licensing.md) — a narrower finding that bears on this claim
+- [ChatGPT accuracy on health licensing examinations is highest in pharmacy and lowest in nursing](chatgpt-accuracy-field-order-pharmacy-nursing.md) — related
+- [ChatGPT models achieve a pooled accuracy of 70.1% on national health licensing examinations](chatgpt-pooled-accuracy-70-percent-licensing-exams.md) — related

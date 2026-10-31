@@ -55,3 +55,4 @@ This is the protocol's discussion-section synthesis (authors' interpretation) of
 - [Evidence on simulation-based leadership training lacks longitudinal follow-up and objective patient-centered outcomes, limiting causal inference](limited-longitudinal-evidence-simulation-leadership.md) — possibly the same claim (merge candidate)
 - [Evidence on long-term retention and transfer of clinical communication skills to clinical practice remained inconsistent or lacking across included reviews](vp-communication-long-term-retention-transfer-inconsistent.md) — related
 - [Lack of long-term follow-up limits evidence on sustained effectiveness of active methodologies](lack-follow-up-limits-long-term-evidence.md) — possibly the same claim (merge candidate)
+- [No included study applied automated video metrics longitudinally to training or assessed non-technical skills](no-longitudinal-or-nontechnical-skill-application.md) — related

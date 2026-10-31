@@ -73,3 +73,8 @@ Random-effects meta-analysis of randomized trials comparing virtual patients wit
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [Live simulations with real patients showed the greatest effects among simulation types (g = 2.27, medical education only)](simulation-type-moderates-effectiveness.md) — related
 - [Blended teaching shows no significant difference in multiple-choice question scores compared to traditional teaching](blended-teaching-no-significant-difference-mcq-scores.md) — related
+- [Digital teaching of clinical skills improves medical trainees' assessment outcomes compared with other formats, with a pooled mean difference of 1.93](digital-clinical-skills-teaching-assessment-outcome-md-1-93.md) — related
+- [Virtual simulations are less effective than mannequins or real persons for procedural skills among nursing participants](vs-less-effective-procedural-skills-nursing.md) — related
+- [Virtual simulations and mannequins or real persons show no significant difference in fostering clinical reasoning, but the evidence is inconclusive](vs-mannequin-rp-no-difference-clinical-reasoning.md) — related
+- [Virtual simulations and mannequins or real persons show no significant difference in improving knowledge in medical and nursing education](vs-mannequin-rp-no-difference-knowledge.md) — related
+- [Virtual simulations and real persons show no significant difference in enhancing communication skills](vs-rp-no-difference-communication-skills.md) — reports the opposite

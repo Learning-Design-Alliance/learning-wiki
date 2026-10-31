@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 143 claims (81 for, 53 mixed, 9 against) · 106 studies (52 review, 20 quant-synthesis, 16 causal, 8 design, 5 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 21 of 106 report an effect size · 133 claims rest on one study
+> **Evidence** · 153 claims (85 for, 58 mixed, 10 against) · 116 studies (60 review, 22 quant-synthesis, 16 causal, 8 design, 5 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 22 of 116 report an effect size · 143 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -198,6 +198,16 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Immersive VR tracheostomy training reduced anxiety more than regular training at follow-up](../claims/vr-tracheostomy-training-reduced-anxiety.md) [+W]
 - [The inclusion of students in the design of online simulation approaches is limited to one participatory co‐design approach](../claims/student-co-design-limited-to-one-study.md) [~W]
 - [VR sepsis game decreased nursing students' anxiety by a reported 23.4%](../claims/vr-sepsis-game-anxiety-decrease.md) [~W]
+- [An intensive 5-day cataract surgery simulation program lowered posterior capsule rupture rates versus standard training, with competency gains normalizing by 15 months](../claims/cataract-simulation-lower-rupture-competency-normalizes.md) [+W]
+- [Comparative ISBTT studies suggest simulation added to training improves collaborative behaviors, with mixed results for modality and interprofessional versus uniprofessional comparisons](../claims/isbtt-comparative-studies-mixed-results.md) [+W]
+- [A 2-day foot ulcer simulation training workshop significantly improved podiatrists' confidence, theoretical knowledge, and practical skills](../claims/fust-workshop-improved-confidence-knowledge-skills.md) [+W]
+- [High-fidelity SBL does not outperform low-fidelity SBL on knowledge and skill gains, per one study the review cites](../claims/high-fidelity-not-superior-to-low-fidelity-sbl.md) [~W]
+- [VR simulation of orthodontic treatment produced higher student engagement and learning satisfaction than PowerPoint analysis](../claims/vr-higher-engagement-than-powerpoint-orthodontics.md) [+W]
+- [Friedman's prediction that training could occur anytime and anywhere has proven only partially true, as most simulation training still depends on dedicated centers with specialized equipment](../claims/space-dimension-partially-realized.md) [~W]
+- [Quasi-experimental Korean simulation-based IPE studies show mixed effectiveness: positive effects in Jeon (2022), environment-dependent effects in Jung et al. (2020), and null changes in Park and Park (2021)](../claims/korean-sim-ipe-quasi-experimental-mixed-effectiveness.md) [~W]
+- [Studies finding unaltered performance under simulation stress tended to involve more experienced participants and smaller samples](../claims/unaltered-performance-experience-underpowering.md) [~W]
+- [Virtual standardized patient training improved alcohol screening and brief intervention skills and diagnostic accuracy for depression and PTSD in two RCTs, while a suicide risk assessment RCT found no significant effect](../claims/vsp-training-skills-rct-mixed-results.md) [~W]
+- [Virtual simulations are less effective than mannequins or real persons for procedural skills among nursing participants](../claims/vs-less-effective-procedural-skills-nursing.md) [-W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

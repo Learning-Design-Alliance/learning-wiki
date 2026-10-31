@@ -57,3 +57,4 @@ Review analysis of intervention outcomes by Kirkpatrick level across the include
 - [Included wound care educational interventions showed positive effects on students' wound care knowledge and clinical skills, mainly via self-assessment](wound-care-interventions-improve-knowledge-skills-self-assessed.md) — related
 - All included studies performed outcome evaluations at the reaction and/or learning levels of Kirkpatrick's framework. — related
 - Fewer studies assessed Kirkpatrick level 3 behaviour and level 4 patient outcomes, and higher‐level feature combinations remain unclear — related
+- [Korean simulation-based IPE studies report high satisfaction but concentrate on Kirkpatrick levels 1 and 2, with no study measuring level 4 training efficacy](korean-sim-ipe-kirkpatrick-levels-1-2-only.md) — related

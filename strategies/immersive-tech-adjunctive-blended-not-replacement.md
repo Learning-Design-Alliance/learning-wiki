@@ -53,6 +53,8 @@ The review recommends a measured adoption strategy: immersive technologies and v
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 - [Use fidelity-aware simulated patients as a low-risk complement to supervision for deliberate psychotherapy practice](fidelity-aware-simulated-patients-deliberate-practice.md)
 - [Integrate virtual and augmented reality as supplementary tools rather than full replacements for traditional learning methods](integrate-vr-ar-as-supplementary-tools.md)
+- [Integrate GAI-based teaching into medical curricula with robust curricular integration, technological support, and systematic training for educators and students](gai-curricular-integration-training-strategy.md)
+- [Design high-quality simulation and metaverse content with alignment to learning objectives, interactivity, and developmentally integrated deliberate practice from basic to advanced skills](metaverse-content-quality-design-strategy.md)
 
 ## Examples
 -

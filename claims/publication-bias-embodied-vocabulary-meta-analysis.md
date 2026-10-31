@@ -66,3 +66,5 @@ Multilevel Egger's regression tests on the meta-analytic corpus showed a signifi
 - [Funnel-plot asymmetry suggests small studies with negative or null results may be missing from the simulation-versus-clinical meta-analysis](funnel-plot-missing-negative-studies.md) — related
 - Publication bias is present in the OSCE reliability literature, with funnel plot asymmetry detected by Egger's regression test (p < 0.001) — related
 - Publication bias is present in studies of theoretical scores comparing 3D + PBL with LBL — related
+- [The CBL exam-score advantage is robust to subgroup and leave-one-out sensitivity analyses but shows potential publication bias](cbl-exam-effect-robustness-publication-bias.md) — related
+- [Sensitivity analysis and funnel plots indicated the meta-analysis results were stable and free of significant publication bias](pbl-meta-analysis-stability-sensitivity.md) — reports the opposite

@@ -50,3 +50,5 @@ The review attributes this to two quasi-experimental studies it includes (Mohebi
 - [TBL in medical ethics education improves knowledge retention compared to lectures](tbl-improves-ethics-knowledge-retention.md) — related
 - [TBL increases student satisfaction and engagement in ethics education](tbl-increases-ethics-satisfaction-engagement.md) — related
 - [Team-based learning showed significantly higher performance than traditional learning in one included study](tbl-significantly-higher-performance-hossain.md) — related
+- [TBL is associated with higher satisfaction, positive attitudes and motivation versus lecture, but preferences are mixed](tbl-feeling-of-learning-satisfaction-mixed.md) — a broader claim this one bears on
+- [TBL outperforms lecture-based learning on short-term cognitive outcomes such as theoretical exam performance](tbl-superior-lecture-short-term-cognitive.md) — a broader claim this one bears on

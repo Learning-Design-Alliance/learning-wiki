@@ -49,3 +49,4 @@ The review's synthesis of reliability findings across included primary studies r
 - [The Angoff method produced lower cut-off scores and higher pass rates than Cohen and Hofstee methods in dental written assessments, especially in early and middle years](angoff-lower-cutoffs-higher-pass-rates.md) — related
 - [Rubrics enhance grading consistency and inter-rater reliability in dental education assessment](rubrics-enhance-grading-consistency-dental-education.md) — related
 - [Modified Angoff with reality check achieves excellent inter-rater reliability](modified-angoff-reality-check-reliability.md) — a narrower finding that bears on this claim
+- [The Modified Angoff method was acceptable for setting different pass marks for senior and junior residents on the same OSCE](modified-angoff-different-pass-marks.md) — related

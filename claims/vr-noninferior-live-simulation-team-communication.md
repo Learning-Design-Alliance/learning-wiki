@@ -52,3 +52,5 @@ A randomized controlled trial with 60 medical and 60 nursing students compared 3
 - [Interprofessional training in a psychiatric ward improved all three subscales of the Assessment of Interprofessional Team Collaboration Scale](ipe-psychiatric-ward-improved-aitcs-subscale.md) — related
 - [Neonatal resuscitation VR gamification showed no significant anxiety improvement over simulation and control groups](neonatal-resuscitation-vr-no-significant-anxiety-gain.md) — related
 - [VR/haptics intravenous simulator training reduced state anxiety in all groups with no significant group differences](vr-haptics-iv-simulator-anxiety-no-group-difference.md) — related
+- [3D printed foot models produced similar anxiety and confidence changes to standard teaching and increased self-confidence and task self-efficacy in scalpel skill practice](3d-printed-foot-models-scalpel-skills.md) — related
+- [Simulation-based IPE research in South Korea consists of ten studies concentrated on undergraduate nursing and medical students, with interventions lasting 2 hours to 2 weeks](korean-sim-ipe-ten-studies-nursing-medical-dominance.md) — related

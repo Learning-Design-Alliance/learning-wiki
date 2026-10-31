@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 152 claims (72 for, 69 mixed, 11 against) · 127 studies (25 associational, 23 qualitative, 22 review, 20 causal, 18 quant-synthesis, 14 design, 5 theoretical), `q1`–`q4` · 27 of 127 report an effect size · 149 claims rest on one study
+> **Evidence** · 153 claims (73 for, 69 mixed, 11 against) · 128 studies (25 associational, 23 qualitative, 22 review, 20 causal, 19 quant-synthesis, 14 design, 5 theoretical), `q1`–`q4` · 27 of 128 report an effect size · 150 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -177,6 +177,7 @@ Technology integration is the element in which digital tools are used in direct 
 - [GAI-assisted teaching significantly improves self-directed learning ability compared with traditional teaching (SMD = 1.25; OR = 7.37)](../claims/gai-teaching-improves-self-directed-learning-ability.md) [+W]
 - [VR-enhanced basic robotic skills training sometimes required more training repetitions than conventional training to reach equivalent proficiency](../claims/vr-training-more-repetitions-to-proficiency.md) [~W]
 - [Video-assisted learning decreased error rates by 49% and staff takeovers by 52%](../claims/video-assisted-learning-decreases-errors-49-percent.md) [~W]
+- [Digital teaching of clinical skills improves medical trainees' assessment outcomes compared with other formats, with a pooled mean difference of 1.93](../claims/digital-clinical-skills-teaching-assessment-outcome-md-1-93.md) [+W]
 
 ## The evidence by question
 - *Does building AI tools into instruction raise achievement over teaching the same content without them, and in which settings?* [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](../claims/ai-instruction-stem-moderate-positive-effect.md) [+M]

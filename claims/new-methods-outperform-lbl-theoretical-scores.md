@@ -57,3 +57,11 @@ In the theoretical-score NMA (72 studies, 4874 trainees), seven interventions ea
 - [TBL students show significantly higher knowledge retention than LBL students](tbl-higher-knowledge-retention-than-lbl.md) — related
 - [TBL students achieve significantly higher post-test final scores than LBL students in medical education](tbl-higher-post-test-scores-than-lbl.md) — a narrower finding that bears on this claim
 - [Team-based learning outperforms LBL in improving practical test scores of internal medicine residents](tbl-outperforms-lbl-practical-scores-residents.md) — related
+- [Blended BOPPPS teaching is associated with higher total scores than lecture-based learning in Chinese medical undergraduates](blended-boppps-higher-total-scores.md) — related
+- [CBL shows the largest effect on theoretical exam scores versus LBL (MD = 13.12) and ranks first among the seven methods](cbl-largest-theoretical-exam-effect-neurology-nma.md) — related
+- [Students learning CBL combined with other methods (e.g., CBL & PBL) reportedly score higher than those learning with CBL alone, per studies the review cites](combined-cbl-pbl-outperforms-cbl-alone-cited.md) — related
+- [In Chinese neurology training, CBL, PBL, TBL, FCM and EBM each significantly improve theoretical exam scores compared with lecture-based learning](nma-modern-methods-beat-lbl-theoretical-neurology.md) — related
+- [PBL-CBL produces significantly higher practical skills scores than LBL in orthopedic education](pbl-cbl-higher-practical-skills-orthopedics.md) — related
+- [PBL-CBL produces significantly higher theoretical knowledge scores than LBL in orthopedic education](pbl-cbl-higher-theoretical-scores-orthopedics.md) — a narrower finding that bears on this claim
+- [PBL-CBL outperforms LBL on subjective comprehensive competencies including self-learning, interest, efficiency, clinical thinking, teamwork, and communication](pbl-cbl-subjective-competencies-orthopedics.md) — related
+- [TBL produces significantly higher theoretical test scores than PBL in medical education (SMD = 0.37)](tbl-higher-theoretical-test-scores-than-pbl.md) — related

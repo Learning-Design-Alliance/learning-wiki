@@ -126,3 +126,4 @@ gamified vocabulary practice.
 - [Gamification improved CPR learning among younger learners compared with conventional teaching methods](gamification-effective-cpr-younger-learners.md) — a narrower finding that bears on this claim
 - [Gamified ALS training produced mixed short-term findings, with lower ALS-algorithm knowledge in the gamification group in a cluster randomised trial](gamification-mixed-als-algorithm-knowledge.md) — a narrower finding that bears on this claim
 - [PBL and flipped classrooms frequently show better post-test performance and knowledge retention than traditional methods](pbl-flipped-better-post-test-performance.md) — related
+- [VR teaching raises teaching interest and teaching satisfaction relative to traditional approaches](vr-teaching-interest-satisfaction.md) — related

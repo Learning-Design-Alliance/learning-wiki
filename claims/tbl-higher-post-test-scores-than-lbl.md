@@ -54,3 +54,7 @@ Meta-analysis of 28 studies comparing TBL and LBL final examination scores in me
 - [TBL is associated with higher practical skill scores than LBL in Chinese neurology education (SMD = 1.72)](tbl-higher-practical-skill-scores-neurology-china.md) — related
 - [TBL is associated with higher theoretical knowledge scores than LBL in Chinese neurology education (SMD = 1.16)](tbl-higher-theoretical-knowledge-scores-neurology-china.md) — a narrower finding that bears on this claim
 - [In Chinese neurology education, TBL alone or combined with other methods is associated with improved self-study ability, communication skills, and teamwork ability versus LBL](tbl-improves-self-study-communication-teamwork.md) — related
+- [CBL produces significantly higher exam scores than LBL in pharmacy education (SMD = 0.58)](cbl-higher-exam-scores-than-lbl-pharmacy.md) — related
+- [In Chinese neurology training, CBL, PBL, TBL, FCM and EBM each significantly improve theoretical exam scores compared with lecture-based learning](nma-modern-methods-beat-lbl-theoretical-neurology.md) — a broader claim this one bears on
+- [PBL produces higher examination scores than LBL in undergraduate pharmacology education (SMD = 2.03)](pbl-higher-examination-scores-pharmacology.md) — related
+- [TBL produces significantly higher theoretical test scores than PBL in medical education (SMD = 0.37)](tbl-higher-theoretical-test-scores-than-pbl.md) — related

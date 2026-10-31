@@ -49,3 +49,4 @@ Review synthesis coding assessments against Miller's pyramid. The review reports
 - [Computer vision and machine learning enable objective, automated surgical skill assessment](computer-vision-objective-skill-assessment.md) — related
 - [VR tools enhance acquisition and retention of clinical and procedural skills but face barriers including cybersickness, limited tactile feedback and variable long-term skill transfer](vr-enhances-practical-skill-acquisition-with-barriers.md) — related
 - [No longitudinal studies or RCTs demonstrate that AI-acquired skills transfer to the operating room](no-longitudinal-evidence-ai-skill-transfer-or.md) — related
+- [XR technologies improve surgical skills and procedural accuracy while reducing risks and operating room time (performance expectancy)](xr-improves-surgical-skills-accuracy-reduces-or-time.md) — related

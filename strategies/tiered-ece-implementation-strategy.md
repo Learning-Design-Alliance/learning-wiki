@@ -62,6 +62,8 @@ The authors recommend a sequenced implementation model: "It is recommended to ac
 - [Use virtual simulations to enhance cognitive learning while prioritizing in-person laboratory sessions for psychomotor and technical skills](virtual-simulations-cognitive-in-person-psychomotor.md)
 - [Integrate ECE into dental curricula through hybrid models balancing simulation and real patient contact](hybrid-ece-curriculum-integration-strategy.md)
 - [Use simulation and virtual reality to train nurse managers' decision-making competency](simulation-vr-training-nurse-manager-decision-making.md)
+- [Integrate GAI-based teaching into medical curricula with robust curricular integration, technological support, and systematic training for educators and students](gai-curricular-integration-training-strategy.md)
+- [Structure robotic surgery curricula as a stepwise progression in which training modalities complement rather than replace each other](stepwise-complementary-robotic-training-curriculum.md)
 
 ## Examples
 -

@@ -50,3 +50,5 @@ Meta-analysis of 10 RCTs (562 students) reporting skill scores. Found SCL "assoc
 - [The SCL model improves teaching effects including learning interest, self-learning ability, and clinical thinking ability compared to LBL](scl-improves-teaching-effects.md) — a broader claim this one bears on
 - [Western students in FCCL groups outperform LBL peers in clinical analysis skills but not in theoretical scores](fccl-western-students-advantage-only-clinical-analysis-skills.md) — related
 - [The SCL model improves theoretical knowledge scores compared to LBL in medical education](scl-improves-theoretical-knowledge-scores.md) — related
+- [Digital teaching of clinical skills improves medical trainees' assessment outcomes compared with other formats, with a pooled mean difference of 1.93](digital-clinical-skills-teaching-assessment-outcome-md-1-93.md) — related
+- [PBL significantly improves clinical skill scores compared with lecture-based learning in medical education](pbl-improves-clinical-skill-scores-versus-lbl.md) — related

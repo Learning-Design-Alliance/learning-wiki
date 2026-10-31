@@ -49,3 +49,4 @@ Pairwise meta-analysis of studies comparing ChatGPT 3.5 and Bard 1.0 found "no s
 - [GPT-4 achieves the highest pooled accuracy among LLMs (81%), significantly outperforming GPT-3.5 (60%)](gpt4-highest-accuracy-81-outperforms-gpt35.md) — related
 - [ChatGPT-4.0 outperformed ChatGPT-3.5 and Bard on the AAMC SJT in both raw and adjusted accuracy](chatgpt-4-outperforms-3-5-and-bard-aamc-sjt.md) — related
 - [No significant difference in item discrimination index or point biserial correlation between ChatGPT 3.5 and human-generated MCQs](chatgpt-35-human-item-discrimination-no-difference.md) — related
+- [Chat-GPT generated more valid physiology MCQs than Bard and Bing, but at a lower difficulty level](chatgpt-more-valid-lower-difficulty-than-bard-bing.md) — reports the opposite

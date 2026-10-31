@@ -50,3 +50,4 @@ The review's synthesis of curricula elements reports that "Objective assessment 
 - [The nature and volume of simulation training and mentorship varied widely across the 29 comprehensive RAS curricula.](ras-curricula-simulation-mentorship-varied-widely.md) — related
 - [Surgical societies outlined RAS curricula featuring proficiency-based progression, modular intraoperative training, and objective assessment.](surgical-societies-ras-curricula-proficiency-modular-objective.md) — related
 - [A standardised RAS curriculum is feasible and beneficial, and surgical societies have outlined RAS curricula which could be implemented locally.](standardised-ras-curriculum-feasible-beneficial.md) — related
+- [Communication, environmental factors, anticipation and teamwork are the key non-technical skills reported in robotic-assisted surgery](key-nts-communication-environment-anticipation-teamwork-ras.md) — related

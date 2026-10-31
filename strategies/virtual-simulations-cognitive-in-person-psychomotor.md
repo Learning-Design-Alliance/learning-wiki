@@ -46,6 +46,8 @@ The review's concluding recommendation for a balanced instructional approach: "t
 - [Adopt hierarchical hybrid teaching in vocational education: prioritize hands-on training with step-by-step instructional videos, and use industry-standard operational videos with virtual simulation for complicated tasks](hierarchical-hybrid-teaching-vocational-skills.md)
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 - [Integrate ECE into dental curricula through hybrid models balancing simulation and real patient contact](hybrid-ece-curriculum-integration-strategy.md)
+- [Integrate simulation technologies with traditional teaching through blended approaches tailored to specific clinical tasks](blended-simulation-integration-orthodontic-curricula.md)
+- [Integrate GAI-based teaching into medical curricula with robust curricular integration, technological support, and systematic training for educators and students](gai-curricular-integration-training-strategy.md)
 
 ## Examples
 -

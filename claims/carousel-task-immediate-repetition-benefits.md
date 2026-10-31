@@ -53,3 +53,4 @@ The article summarises Lynch and Maclean's (2000) ESP-course carousel study: pai
 - Speaking gains were significant for fluency, pronunciation and vocabulary but not for grammar — related
 - [Teachers' attention easily diverts to English learners' grammar, vocabulary, and pronunciation even when unrelated to the day's learning goal](teacher-attention-diverted-el-grammar.md) — related
 - [Task rehearsal improves fluency and complexity on the repeated task but does not transfer to a new task of the same type](task-repetition-fluency-complexity-same-task-only.md) — related
+- [PBL and hybrid PBL improve EFL speaking proficiency, including fluency, grammar, vocabulary, and pronunciation](pbl-improves-efl-speaking-proficiency.md) — a broader claim this one bears on

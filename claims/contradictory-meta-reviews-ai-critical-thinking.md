@@ -86,3 +86,4 @@ The review reports, citing Premkumar et al. (2024), that "small sample sizes, sh
 - [Meta-analytic evidence on GenAI and critical thinking shows a positive mean association with a prediction interval spanning harm to benefit](genai-critical-thinking-metaanalysis-heterogeneity.md) — related
 - [Within-domain Socratic GenAI dialogue yields higher self-assessed critical thinking than outside-domain dialogue across all participants](within-domain-socratic-genai-raises-critical-thinking.md) — a narrower finding that bears on this claim
 - [Literature reports mixed and contradictory findings on video effectiveness](mixed-findings-on-video-effectiveness.md) — a narrower finding that bears on this claim
+- [PBL improves EFL students' critical thinking disposition, creativity, and language scores, with noted gender differences](pbl-improves-efl-critical-thinking.md) — related

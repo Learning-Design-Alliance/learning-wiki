@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Schlupeck et al.'s online case-based course and Bergendahl et al.'s interprofessional skills course both significantly increased students' subjective knowledge of wound care. [→ Reiter Manuel 2025](#reiter-manuel-2025)
@@ -71,3 +71,4 @@ The review reports, from Ma et al.'s voluntary 30–60-minute online module with
 - [Included wound care educational interventions showed positive effects on students' wound care knowledge and clinical skills, mainly via self-assessment](wound-care-interventions-improve-knowledge-skills-self-assessed.md) — a broader claim this one bears on
 - [An interactive workshop produced higher post-test knowledge scores than an e-learning course of equivalent content among nurses](interactive-workshop-outperforms-elearning-nurse-knowledge.md) — related
 - [Education and training programmes increase knowledge and skills of skilled birth attendants in perineal anatomy, assessment and classification of perineal tears.](perineal-tear-training-increases-knowledge-skills.md) — a narrower finding that bears on this claim
+- [A 2-day foot ulcer simulation training workshop significantly improved podiatrists' confidence, theoretical knowledge, and practical skills](fust-workshop-improved-confidence-knowledge-skills.md) — related

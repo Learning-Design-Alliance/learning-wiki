@@ -56,3 +56,4 @@ Qualitative case-study analysis of 157 minutes of audio-recorded group discussio
 - [Mixed interprofessional group training promoted mutual respect, understanding of roles, and appreciation of teamwork among ED participants](interprofessional-mixed-groups-mutual-respect-consent-training.md) — related
 - [Theory-of-change development functions as an iterative cycle that incorporates new research as it emerges and the product evolves](theory-of-change-iterative-cycle.md) — related
 - [Interprofessional training in a psychiatric ward improved all three subscales of the Assessment of Interprofessional Team Collaboration Scale](ipe-psychiatric-ward-improved-aitcs-subscale.md) — related
+- [Comparative ISBTT studies suggest simulation added to training improves collaborative behaviors, with mixed results for modality and interprofessional versus uniprofessional comparisons](isbtt-comparative-studies-mixed-results.md) — related

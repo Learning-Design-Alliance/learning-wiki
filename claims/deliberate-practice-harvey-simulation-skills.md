@@ -51,3 +51,4 @@ Multicenter prospective quasi-experimental one-group pre-post study across four 
 - [Single-group studies uniformly reported improvement after distance simulation training in self-assessment, knowledge, or skills](single-group-prepost-all-improved.md) — a broader claim this one bears on
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [Simulation training increased nursing students' confidence in cardiopulmonary physical examination skills more than traditional training (Tawalbeh et al. study)](simulation-confidence-cardiopulmonary-tawalbeh.md) — related
+- [Simulation-based training improved PPE donning/doffing performance and reduced cognitive load from pre-test to post-test](simulation-ppe-donning-doffing-pre-post-gains.md) — a narrower finding that bears on this claim

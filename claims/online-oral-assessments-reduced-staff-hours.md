@@ -53,3 +53,4 @@ The review reports, citing Starr-Egger (2023), an operational analysis of online
 - [Preparing for oral assessments changes student study habits toward understanding over memorization](oral-assessments-change-study-habits.md)
 - [Students performed better on oral measures than written measures in comparison studies](students-perform-better-oral-than-written.md)
 - [Students taking online and proctored online exams report higher test anxiety than students taking on-campus exams and non-proctored online exams](proctored-online-exams-increase-test-anxiety.md) — related
+- [Students prefer open-book exams, citing reduced stress and less intrusive oversight, and OBEs offer institutions logistical advantages](student-preference-and-logistical-advantages-of-obe.md) — related

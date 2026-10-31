@@ -70,3 +70,4 @@ Risk of bias assessment using ROBINS-I across the 15 studies in the synthesis; t
 - Most included IPE studies were of medium methodological quality, with very low scores on theoretical framework and stakeholder engagement criteria — related
 - All twelve included studies carried at least moderate risk of bias, with none rated low on at least six criteria — related
 - Methodological quality of included studies is generally low, with only one RCT rated high quality — related
+- [Risk of bias was a concern across the review's randomised studies, largely because investigators acted as unblinded performance raters](simulation-stress-rct-bias-investigator-raters.md) — related

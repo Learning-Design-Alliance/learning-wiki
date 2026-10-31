@@ -85,3 +85,6 @@ The review reports Dwisaptarini et al.'s RCT of minimal invasive caries removal 
 - [VR training's effect on OSATS-assisted skill acquisition shows conflicting evidence](vr-osats-conflicting-evidence.md) — related
 - [VR simulation training improves orthopaedic trainees' technical proficiency and shortens operative times](vr-simulation-improves-ortho-technical-proficiency.md) — reports the opposite
 - [Simulation with patient-specific 3D-printed teeth improved crown preparation quality versus traditional patient care](3d-printed-teeth-simulation-crown-preparation.md) — related
+- [Skills trained in a haptic simulator were not transferable to a non-haptic simulator in one randomized trial](haptic-trained-skills-not-transferable-non-haptic-simulator.md) — related
+- [Across 51 included studies, most results favored haptic over non-haptic conditions in surgical virtual simulations](haptics-favored-in-majority-of-surgical-vs-studies.md) — a broader claim this one bears on
+- [Technology-enhanced simulation may result in superior retention of clinical knowledge and skills compared to traditional teaching methods alone, with durable retention for months to years](simulation-improves-knowledge-retention.md) — related

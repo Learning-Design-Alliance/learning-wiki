@@ -52,3 +52,5 @@ Pooled analysis by Kirkpatrick outcome level across the 12 competency-versus-non
 - [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — related
 - [Evidence on transfer to clinical behavior and patient outcomes is scarce: only 2 studies reached Kirkpatrick level 3 and 1 reached level 4](transfer-and-patient-outcomes-scarce.md) — related
 - [No included SDL studies measured Kirkpatrick Level 4 (patient/system) outcomes](sdl-no-kirkpatrick-level-4-outcomes.md) — related
+- [Most LMIC simulation-based education studies testing significance demonstrate at least partial improvement in patient-level (Kirkpatrick Level 4) outcomes](sbe-lmic-most-studies-partial-improvement-level4.md) — related
+- [Simulation training reached Kirkpatrick level 3 (behavioral change) in five studies, but no study assessed patient outcomes](simulation-kirkpatrick-level3-behavior-no-patient-outcomes.md) — related

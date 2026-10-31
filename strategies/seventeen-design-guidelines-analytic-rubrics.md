@@ -47,6 +47,7 @@ The article compiles seventeen guidelines for formative assessment with analytic
 
 - [Six practical design guidelines for building a Video Enhanced Rubric](six-ver-design-guidelines.md)
 - [Rubric Based Assessment](rubric-based-assessment.md)
+- [Develop standardised validated content-assessment tools and theory-based guidelines for TST video creators](standardised-tst-video-assessment-tool-and-creator-guidelines.md)
 
 ## Examples
 -

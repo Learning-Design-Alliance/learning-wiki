@@ -67,3 +67,4 @@ Fleiss Kappa restricted to incorrect answers under adjusted scoring. The article
 ## Related Claims
 - [ChatGPT-4.0 outperformed ChatGPT-3.5 and Bard on the AAMC SJT in both raw and adjusted accuracy](chatgpt-4-outperforms-3-5-and-bard-aamc-sjt.md) — related
 - [Solution sentiment showed no meaningful individual relationship with LLM accuracy despite a small statistically significant collective trend](sentiment-no-meaningful-relationship-llm-sjt-accuracy.md) — related
+- [Situational judgement tests show a statistically significant but negligible-magnitude effect on early program academic results (d=0.170), while personality test evidence was insufficient for meta-analysis](sjt-small-significant-early-academic-effect-personality-insufficient.md) — related

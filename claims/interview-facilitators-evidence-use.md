@@ -54,3 +54,4 @@ Phase 2 qualitative interviews with experts in evaluation, dissemination, and ev
 - [Eight enabling factors support relationship-centered school transformation in comprehensive high school settings](enabling-factors-relationship-centered-transformation.md) — related
 - [Problematic one-way links between production and consumption processes impede the technology's circulation, with only one manufacturer responding to users](problematic-production-consumption-links.md) — related
 - [In 78% of interviews, higher education decision-makers reported conducting their own internal investigations of educational technology products](internal-investigations-78-percent-interviews.md) — related
+- [Interviews revealed a discrepancy between researchers and policy-makers that impedes a unified language for planning and implementing health programmes](researcher-policy-maker-language-gap.md) — related

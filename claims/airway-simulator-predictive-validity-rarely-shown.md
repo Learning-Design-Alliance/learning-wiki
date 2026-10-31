@@ -46,9 +46,11 @@ Narrative synthesis of the 17 included studies in the systematic review. Both pr
 
 
 ## Related Claims
+
 - [AccuTouch VR simulator training improved live fibreoptic intubation performance in inexperienced paediatric residents, reducing time to intubation from 5.15 to 0.88 minutes](accutouch-training-improves-live-intubation-time.md) — related
 - [Of 939 screened studies, only 17 articles validating 29 airway simulators met inclusion criteria, and most studies assessed only one or two validity domains](airway-simulator-validation-sparse-17-studies-29-simulators.md) — a broader claim this one bears on
 - [Validation quality does not consistently correlate with simulator fidelity, and high-fidelity VR simulators' superiority over simpler models for fibreoptic intubation has not been demonstrated](simulator-fidelity-does-not-track-validation-quality.md) — related
 - [Training on a simple low-fidelity 'choose-the-hole' bench model transferred to real clinical fibreoptic intubation performance in an RCT](choose-the-hole-bench-model-predictive-validity-rct.md) — related
 - [Front-of-neck access simulators are severely under-validated, with only one study meeting inclusion criteria, and real-world predictive validity cannot ethically be evaluated for FONA](fona-simulators-undervalidated-single-study.md) — related
 - [Low-cost simulation studies in nursing most frequently target specific clinical competencies (79.5%), with obstetric and neonatal emergency management the single largest group](scoping-review-low-cost-simulation-competency-coverage.md) — related
+- [Aerosol boxes increased time to intubation and posed higher risk of hypoxia in COVID-19 airway management simulations](aerosol-box-increased-intubation-time-hypoxia-risk.md)

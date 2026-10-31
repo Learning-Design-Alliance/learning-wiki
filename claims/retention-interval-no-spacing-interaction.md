@@ -54,3 +54,4 @@ From the same mixed regression on MOOC log data: "shorter retention intervals be
 - [Expanding and uniform spaced practice better for long retention intervals; contracting better for short intervals](expanding-uniform-spacing-retention-interval-moderator.md) — related
 - [In a self-regulated MOOC, spacing study across more sessions predicts higher unit quiz performance within participants](self-regulated-spacing-predicts-mooc-quiz-performance.md) — related
 - [Students who spaced their study more also performed better on the MOOC final exam](spacing-predicts-final-exam-mooc.md) — related
+- [Age, curriculum type and retention interval predict basic science knowledge retention](age-curriculum-retention-interval-predict-retention.md) — related

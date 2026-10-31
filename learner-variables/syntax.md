@@ -13,7 +13,7 @@ generated:
 # Syntax
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 41 claims (23 show a difference, 9 mixed, 9 no difference) · 31 studies (9 associational, 7 causal, 6 review, 4 quant-synthesis, 3 design, 2 theoretical), `q2`–`q3` · 1 of 31 report an effect size · 38 claims rest on one study
+> **Evidence** · 43 claims (24 show a difference, 9 mixed, 10 no difference) · 33 studies (9 associational, 7 causal, 7 review, 5 quant-synthesis, 3 design, 2 theoretical), `q2`–`q3` · 2 of 33 report an effect size · 40 claims rest on one study
 
 ## Description
 Syntax is knowledge of how sentences work: how the order of words, the arrangement of clauses and the use of punctuation change what a sentence means. Readers draw on it to work out who did what to whom in a long sentence, and writers draw on it to turn an idea into a sentence that says what they intend. It is assessed through samples of a learner's speech or writing, coded for features such as words per clause and clauses per sentence, and through standardised language batteries with syntax subtests.
@@ -79,6 +79,8 @@ Syntactic knowledge starts to develop in early childhood and keeps growing throu
 - [Longitudinal learner data reveal individual differences in grammar acquisition not apparent in aggregate data, calling for fine-grained student models](../claims/longitudinal-data-reveal-fine-grained-learner-variability.md) [+W] — instruction changes it
 - [Students identified lack of sensitivity to linguistic nuance as a limitation of AWA feedback](../claims/awa-lacks-sensitivity-linguistic-nuance.md) [~W] — an instructional effect differs with it
 - [No significant difference in syntactic quality scores of questions across the three agent conditions](../claims/syntactic-scores-similar-across-agents.md) [-M] — instruction changes it
+- [Acute physical activity improves language performance overall (g = 0.28 multivariate), driven by reading, with no significant effect on spelling or sentence comprehension](../claims/acute-physical-activity-improves-language-performance.md) [-M] — instruction changes it
+- [PBL and hybrid PBL improve EFL speaking proficiency, including fluency, grammar, vocabulary, and pronunciation](../claims/pbl-improves-efl-speaking-proficiency.md) [+M] — instruction changes it
 
 ## Measures
 - **Measures of syntactic complexity** (Beers & Nagy, 2007): Student writing samples are coded to identify how many words per clause and clauses per T-units (sentences) students use.

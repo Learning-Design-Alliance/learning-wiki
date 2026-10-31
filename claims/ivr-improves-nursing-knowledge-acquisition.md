@@ -50,3 +50,4 @@ Systematic review and meta-analysis following PRISMA, pooling 11 RCTs comparing 
 - [Debriefing presence shows a numerical trend toward stronger knowledge gains but the subgroup difference is not significant](ivr-debriefing-knowledge-subgroup-trend.md) — a narrower finding that bears on this claim
 - [IVR knowledge benefits appear immediately post-intervention but attenuate at later follow-up](ivr-knowledge-gains-attenuate-at-follow-up.md) — a narrower finding that bears on this claim
 - [High-fidelity simulation training improves knowledge acquisition among practising registered nurses (moderate pooled effect)](hfs-knowledge-acquisition-practising-nurses.md) — related
+- [Simulation-based learning consistently improves nursing students' knowledge and skills acquisition across diverse designs and simulation topics](sbl-improves-nursing-knowledge-skills-acquisition.md) — a broader claim this one bears on

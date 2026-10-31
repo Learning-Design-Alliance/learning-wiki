@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 194 claims (147 show a difference, 27 mixed, 20 no difference) · 156 studies (58 associational, 30 causal, 29 review, 14 qualitative, 9 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 32 of 156 report an effect size · 190 claims rest on one study
+> **Evidence** · 195 claims (148 show a difference, 27 mixed, 20 no difference) · 157 studies (58 associational, 30 causal, 29 review, 14 qualitative, 10 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 32 of 157 report an effect size · 191 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -225,6 +225,7 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Multiple factors influence SLPs' perceived competence in managing stuttering, including support, knowledge, formal education, experience, familiarity, prior outcomes and perceived complexity](../claims/multiple-factors-influence-slp-perceived-competence-stuttering.md) [+M] — instruction changes it
 - [Perceived competence in stuttering management varies across different settings and regions](../claims/slp-perceived-competence-varies-across-settings-and-regions.md) [+M] — instruction changes it
 - [SLPs perceive themselves as less competent in treating stuttering than in assessing it](../claims/slps-lower-perceived-competence-treatment-than-assessment-stuttering.md) [+M] — instruction changes it
+- [Digital interventions show sustained improvements in performance and retention, with confidence and diagnostic ability remaining elevated four months post-intervention in some studies](../claims/digital-learning-knowledge-retention-four-months.md) [+M] — instruction changes it
 
 ## The evidence by question
 

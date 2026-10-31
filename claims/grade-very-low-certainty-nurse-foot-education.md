@@ -59,3 +59,4 @@ The review's own GRADE assessment across nine studies (589 participants for know
 - All twelve included studies carried at least moderate risk of bias, with none rated low on at least six criteria — related
 - [Only two studies evaluated learning outcomes, with small improvements and very low to moderate certainty](nts-training-icu-learning-outcomes-limited.md) — related
 - Methodological quality of included studies is generally low, with only one RCT rated high quality — related
+- [Evidence quality is limited: heterogeneity is high across all three outcomes, publication bias was detected for score outcomes, and all CINeMA-rated comparisons were very low quality](nma-high-heterogeneity-very-low-cinema-evidence.md) — related

@@ -55,3 +55,4 @@ Narrative synthesis of 28 perception studies (surveys, focus groups, mixed metho
 - [The main concern in all critical evaluations was the veracity of ChatGPT-provided references, which often do not exist](chatgpt-references-often-do-not-exist.md) — related
 - [Students report negative experiences with ChatGPT including inaccurate outputs, lack of emotional connection, and risk of overreliance, which constrain competence](chatgpt-negative-experiences-inaccuracy-overreliance.md) — related
 - [General-purpose LLMs show accuracy and reliability limits, including hallucinations and task-specific accuracy below perfect, making them risky as expert advice sources](llm-accuracy-hallucination-coaching-risk.md) — related
+- [Hallucination, fabrication and reduced explanation accuracy limit ChatGPT's potential as a medical learning tool](hallucination-and-explanation-accuracy-limit-chatgpt-learning-tool.md) — related

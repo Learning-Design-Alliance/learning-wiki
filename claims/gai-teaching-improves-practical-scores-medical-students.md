@@ -50,3 +50,5 @@ Random-effects meta-analysis of 50 studies (2,194 control, 2,088 experimental pa
 - [GAI-assisted teaching significantly improves knowledge examination scores in medical students compared with traditional teaching (SMD = 0.95)](gai-teaching-improves-knowledge-scores-medical-students.md) — related
 - [GAI-assisted teaching significantly improves learning self-efficacy compared with traditional teaching (SMD = 0.75)](gai-teaching-improves-learning-self-efficacy.md) — related
 - [GAI-assisted teaching significantly increases student satisfaction with teaching compared with traditional teaching (SMD = 1.52; OR = 5.58)](gai-teaching-increases-student-satisfaction.md) — related
+- [BOPPPS teaching significantly improves final examination scores compared with traditional teaching in undergraduate clinical and health education](boppps-improves-final-examination-scores.md) — related
+- [GAI-based teaching outperforms traditional teaching in practical skill development](gai-superior-practical-skill-development.md) — a narrower finding that bears on this claim

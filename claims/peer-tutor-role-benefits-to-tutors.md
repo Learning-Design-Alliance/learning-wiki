@@ -57,3 +57,4 @@ Synthesis of tutor-side outcomes from the main-findings section of the review; t
 - [Mixed interprofessional group training promoted mutual respect, understanding of roles, and appreciation of teamwork among ED participants](interprofessional-mixed-groups-mutual-respect-consent-training.md) — related
 - [Teams and teamwork is the most frequently developed IPEC core competency in interprofessional education, identified in 65 instances across 62 studies](ipe-teams-teamwork-most-frequent-competency.md) — related
 - [Supporting the learning process includes supporting student teamwork, shared learning, and student self-efficacy through standing back and enabling student-led learning](supporting-learning-process-competencies.md) — related
+- [SBL is associated with wider clinical performance benefits including self-confidence, self-efficacy, clinical reasoning and teamwork](sbl-wider-clinical-performance-benefits.md) — related

@@ -74,3 +74,5 @@ Subgroup analysis by study design of the self-confidence meta-analysis. The revi
 - [Simulation-based education improves nursing students' clinical decision-making, judgment, and self-confidence](simulation-improves-nursing-decision-making-confidence.md) — related
 - [Self-confidence is an additional critical attribute of clinical readiness for practice among student nurses beyond previously identified attributes](self-confidence-additional-attribute-clinical-readiness.md) — related
 - [Simulation's impact on student reflection remains inconclusive due to limited evidence](simulation-reflection-inconclusive-limited-evidence.md) — related
+- [Confidence during procedures and positive attitudes are associated with higher clinical practice competency (AOR = 2.70)](confidence-positive-attitude-associated-competency-ethiopia.md) — related
+- [Evidence on clinical reasoning teaching strategies is inconclusive, so no specific teaching strategy can currently be recommended](no-clinical-reasoning-strategy-recommendable-inconclusive-evidence.md) — related

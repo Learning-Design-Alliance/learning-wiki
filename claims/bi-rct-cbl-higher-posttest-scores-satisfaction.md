@@ -56,3 +56,4 @@ Randomised controlled trial (Bi et al., 2019) in which 80 first-year postgraduat
 - [A formal oncology CBL programme delivered via videoconferencing may enhance learning opportunities for rural and remote trainees in Australia](videoconferenced-cbl-for-rural-trainees.md) — related
 - [Student preference for CBL, PBL or TBL over traditional teaching was reported in 15 of 22 studies (68.1%), but only two studies used a controlled comparison with lecture](preference-over-lecture-15-studies-only-two-controlled.md) — related
 - [TBL in medical ethics education improves knowledge retention compared to lectures](tbl-improves-ethics-knowledge-retention.md) — related
+- [AI-powered PBL/CBL outperforms traditional lectures for knowledge acquisition, but shows no significant advantage over AI-free PBL/CBL](ai-pbl-cbl-knowledge-subgroups.md) — related

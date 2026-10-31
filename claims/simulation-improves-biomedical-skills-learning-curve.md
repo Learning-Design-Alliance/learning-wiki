@@ -49,3 +49,4 @@ The review reports, citing a systematic review of 41 studies on SBME, that "incl
 - [VR simulation training improves orthopaedic trainees' technical proficiency and shortens operative times](vr-simulation-improves-ortho-technical-proficiency.md) — related
 - [PBL combined with virtual simulation improved theoretical knowledge and practical skills in clinical biochemistry](pbl-virtual-simulation-improves-theory-and-skills.md) — related
 - [High-fidelity simulation improved pharmacology learning and retention compared to low-fidelity and sham groups](high-fidelity-simulation-improves-pharmacology-retention.md) — a narrower finding that bears on this claim
+- [Simulation-based training can significantly shorten learning curves for technical skills compared to traditional clinical training alone](simulation-shortens-learning-curves.md) — related

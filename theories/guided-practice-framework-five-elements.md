@@ -17,7 +17,7 @@ sources:
 # Guided practice framework: five interacting elements for analyzing close-to-the-classroom work with teachers
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The authors define guided practice as face-to-face, close-to-the-classroom work on teaching and learning to teach, carried out under labels such as clinical supervision, coaching, advising and mentoring. Rather than promote a specific model, they offer analytic tools: "These considerations led us to identify five interacting elements: (1) participants and their relationship, (2) goals, (3) practices, (4) context and (5) conceptual underpinnings." Practices sit at the center of the framework, and each element is analyzed descriptively and normatively. The framework is used to compare traditions and to study particular enactments of guided practice.
@@ -40,6 +40,7 @@ The authors define guided practice as face-to-face, close-to-the-classroom work 
 
 ### Claims
 
+- [Instructor supervision during procedures is associated with higher clinical practice competency (AOR = 2.97)](../claims/instructor-following-procedure-associated-competency-ethiopia.md) [+W]
 
 ## Related Theories
 - [Guided Practice Four Purposes](../patterns/professional-development.md)

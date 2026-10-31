@@ -76,3 +76,4 @@ Baseline equivalence analysis using independent-samples t-tests on pretest score
 - [The Diagnostic Review class gained more writing points across three cycles than the Control class (Hedges' g = 1.12)](diagnostic-review-larger-writing-gains.md) — related
 - [Using the Kakao-Talk mobile messaging tool outside class improved low-proficiency students' English to-verb writing](kakao-talk-improved-english-writing.md) — related
 - [Feedback produces a moderate, statistically significant positive overall effect on academic achievement (Hedges' g = .40)](feedback-moderate-positive-overall-effect-achievement.md) — related
+- [PBL improves EFL writing proficiency across nine reviewed studies, including essay, paragraph, and descriptive writing](pbl-improves-efl-writing-proficiency.md) — related

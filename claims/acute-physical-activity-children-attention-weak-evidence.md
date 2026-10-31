@@ -57,3 +57,5 @@ Systematic review per PRISMA of English studies from PubMed, Sportdiscus and Psy
 - [Five of six laboratory studies found significant effects of acute PA on cognitive control of attention, mainly on accuracy not reaction time](laboratory-studies-acute-pa-attention-accuracy.md) — related
 - [Two 20-min MVPA bouts in a school morning yielded better selective attention than one bout or remaining seated (B = −0.26; 95% CI (−0.52, −0.00))](two-bouts-better-than-one-selective-attention.md) — related
 - [Evidence on selective attention from classroom physical activity breaks is inconclusive, with one study reporting a negative effect](pa-breaks-selective-attention-inconclusive.md) — related
+- [A single bout of acute physical activity increases overall academic outcomes in school-aged youth (Hedge's g = 0.35)](acute-physical-activity-improves-overall-academic-outcomes.md) — reports the opposite
+- [Age, setting, design, number of conditions, activity type, duration, intensity and test timing showed no significant moderation of acute physical activity effects on academic outcomes](no-significant-moderators-other-than-behavior-change-techniques.md) — related

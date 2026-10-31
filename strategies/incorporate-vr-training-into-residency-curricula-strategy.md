@@ -51,6 +51,9 @@ Based on the pooled findings, the review recommends that training programs adopt
 - [Incorporate theoretically based pedagogical elements (e.g., enactment, generative learning strategies) into IVR procedural training](pair-ivr-with-generative-strategies.md)
 - [Adopt competency-based, outcome-targeted simulation training rather than merely allocating simulation time](adopt-competency-based-outcome-targeted-simulation.md)
 - [Integrate AI-driven simulation into dental curricula as a complement to traditional training, attending to domain-specific effectiveness and the lack of long-term validated outcomes](ads-curricular-integration-strategy.md)
+- [Integrate GAI-based teaching into medical curricula with robust curricular integration, technological support, and systematic training for educators and students](gai-curricular-integration-training-strategy.md)
+- [Integrate high-quality, high-fidelity simulation-based learning into endocrinology curricula alongside traditional methods](integrate-high-quality-sbl-endocrinology-curricula.md)
+- [Structure robotic surgery curricula as a stepwise progression in which training modalities complement rather than replace each other](stepwise-complementary-robotic-training-curriculum.md)
 
 ## Examples
 -

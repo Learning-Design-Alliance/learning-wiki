@@ -53,3 +53,4 @@ The review's Table 2 summarizes an empirical study by Lisk et al. evaluating the
 - [Air Anatomy hand gestures raised recall and applied-knowledge post-test scores, with the largest benefit for students of low to moderate spatial ability](air-anatomy-gestures-posttest-gains-low-spatial-ability.md) — related
 - [Spatial ability correlated positively with neuroanatomy performance across pretest and both quizzes in a crossover 3D-module study (Allen et al.)](allen-spatial-ability-correlates-neuroanatomy-performance.md) — related
 - [Head-mounted display interventions improve anatomy recognition, spatial orientation, and learner confidence versus conventional instruction](hmd-improves-spatial-understanding-and-confidence.md) — related
+- [3D printed foot models produced similar anxiety and confidence changes to standard teaching and increased self-confidence and task self-efficacy in scalpel skill practice](3d-printed-foot-models-scalpel-skills.md) — related

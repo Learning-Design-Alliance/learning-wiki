@@ -49,7 +49,8 @@ The review's forward-looking recommendation is that evaluation of technology-enh
 - [Adjunctive VR classroom training produces higher validated robotic skills scores than self-directed simulator learning alone in novice trainees](../claims/vr-classroom-training-higher-rosats-novices.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Develop standardised validated content-assessment tools and theory-based guidelines for TST video creators](standardised-tst-video-assessment-tool-and-creator-guidelines.md)
 
 ## Examples
 -

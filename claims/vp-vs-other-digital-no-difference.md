@@ -62,3 +62,6 @@ Narrative synthesis of the few trials comparing virtual patients with other digi
 - [Virtual simulation teaching enhances learning outcomes and deepens professional cognition through repeated practice, trial-and-error, and error-correction feedback](vs-advantages-learning-outcomes.md) — reports the opposite
 - [In anaesthesia education, e-learning shows no consistent benefit over traditional learning across trials](e-learning-no-consistent-benefit-anaesthesia.md) — a broader claim this one bears on
 - [In the Harris RCT, neither e-learning strategy improved substance abuse management outcomes versus no training](harris-rct-no-p-csat-difference.md) — related
+- [Digital clinical skills teaching produces higher student satisfaction and engagement across multiple modalities, despite mixed efficacy for skills](digital-clinical-skills-teaching-satisfaction-engagement.md) — related
+- [Virtual simulations and mannequins or real persons show no significant difference in improving knowledge in medical and nursing education](vs-mannequin-rp-no-difference-knowledge.md) — related
+- [Virtual simulations and real persons show no significant difference in enhancing communication skills](vs-rp-no-difference-communication-skills.md) — related

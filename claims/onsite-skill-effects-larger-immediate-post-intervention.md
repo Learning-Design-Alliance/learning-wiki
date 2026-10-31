@@ -49,3 +49,4 @@ Subgroup analysis based on assessment points found a significant difference for 
 - [Knowledge outcomes do not differ between immediate post‐intervention and follow‐up for online or hybrid training](knowledge-no-difference-assessment-points.md) — related
 - [IVR knowledge benefits appear immediately post-intervention but attenuate at later follow-up](ivr-knowledge-gains-attenuate-at-follow-up.md) — related
 - [Skill retention after simulation is rarely measured; at 2-month follow-up only the VR group maintained significant ISVS improvement](simulation-skill-retention-two-month-follow-up.md) — related
+- [Two implementation-strategies interventions showed mixed effectiveness, with gains immediately after intervention but not at follow-up](implementation-strategies-mixed-followup-results.md) — related

@@ -72,3 +72,4 @@ Thematic analysis of interviews (RQ4). A majority of IDs (N = 9) "agreed that pr
 - [Qualities metaphors depicted GenAI as unknowable, unreliable and unbounded, with participants unsettled by its opacity](qualities-metaphors-genai-unknowable-unreliable.md) — related
 - [Pessimistic Evaluators' foremost concern is misleading, inaccurate, or biased ChatGPT-generated information](pessimistic-evaluators-misleading-information-concern.md) — related
 - [Scholars raise three main concerns about AI chatbots in education: reliability and accuracy, fair assessment, and ethical issues](chatbot-concerns-reliability-assessment-ethics.md) — related
+- [Trainees and trainers hold mixed views on AI-generated heat maps for postoperative coaching](mixed-trainee-trainer-views-ai-heat-maps.md) — related

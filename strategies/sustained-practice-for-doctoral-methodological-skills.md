@@ -48,6 +48,7 @@ The article recommends that doctoral programs support durable methodological cap
 - [Prioritize sustained, pedagogically grounded faculty TPACK development over one-off technology workshops and infrastructure investment](sustained-faculty-tpack-development-programs.md)
 - [Sustain educational interventions throughout development and evaluate long-term rather than short-term efficacy](sustained-interventions-throughout-development.md)
 - [Design CPR education as an ongoing, reinforcement-based process combining spaced intervals, feedback, and cognitive components](cpr-education-reinforcement-based-design-strategy.md)
+- [Use targeted educational interventions — continuing education, dissection courses, generative retrieval and integrated anatomy training — to sustain basic science retention](targeted-interventions-sustain-basic-science-retention.md)
 
 ## Examples
 -

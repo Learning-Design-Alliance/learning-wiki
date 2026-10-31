@@ -54,3 +54,4 @@ Narrative synthesis of included studies. The review reports that "PBL [13, 14, 1
 - [In one reviewed study, flipped classrooms using AI tools raised cognitive and emotional engagement but behavioral engagement showed no significant difference from traditional methods](ai-flipped-classroom-behavioral-engagement-null.md) — related
 - [Flipped classroom combined with gamification improves academic performance and autonomy](flipped-classroom-gamification-improves-performance-autonomy.md) — related
 - [Problem-based learning, case-based learning, small group discussion, flipped learning, and blended learning were the most common online active learning strategies employed.](oal-dental-education-common-strategies.md) — related
+- [PBL approaches consistently enhance EFL student engagement, motivation, and active involvement in learning](pbl-enhances-efl-engagement-motivation.md) — related

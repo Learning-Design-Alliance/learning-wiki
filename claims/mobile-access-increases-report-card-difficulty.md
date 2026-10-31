@@ -59,3 +59,4 @@ Design-comparison study of the DC school report card. The summary states that "p
 - Fewer than 10% of recent ITS papers address most developing-world adoption barriers, and almost 95% of ITS research still targets traditional computers — related
 - [Mobile devices make education more accessible anytime and anywhere, but this attractiveness comes with limitations for adoption and usage](mobile-access-anytime-anywhere-with-adoption-limits.md) — a broader claim this one bears on
 - [Mobile devices served as the primary tool for learners and teachers during the emergent remote teaching process of the pandemic](mobile-devices-primary-tool-emergent-remote-teaching.md) — related
+- [Friedman's prediction that training could occur anytime and anywhere has proven only partially true, as most simulation training still depends on dedicated centers with specialized equipment](space-dimension-partially-realized.md) — related

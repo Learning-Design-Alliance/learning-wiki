@@ -65,3 +65,4 @@ Heterogeneity test of the 19 coded studies using Q and I² statistics with a 95%
 - The pooled effect-size distribution is highly heterogeneous but resistant to publication bias — related
 - Effect sizes across included studies are highly heterogeneous (I² = 94.79%), requiring a random-effects model — related
 - [Evidence for bilingual immunology teaching rests on few, mostly moderate-quality non-randomized studies with substantial heterogeneity](bilingual-immunology-evidence-base-limited-heterogeneous.md) — a narrower finding that bears on this claim
+- [Included studies show high heterogeneity (I2 = 94.5%), addressed with random effects modelling and meta-regression](high-heterogeneity-si-ei-meta-analysis.md) — related

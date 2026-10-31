@@ -51,3 +51,6 @@ Subgroup meta-analysis by teaching method for communication skills (Table 6). TB
 ## Related Claims
 - [PBL and TBL significantly improve nursing students' self-directed learning](pbl-tbl-self-directed-learning-subgroups.md) — related
 - [In Chinese neurology education, TBL alone or combined with other methods is associated with improved self-study ability, communication skills, and teamwork ability versus LBL](tbl-improves-self-study-communication-teamwork.md) — related
+- [PBL shows no benefits for hands-on, communication, or self-directed learning skills and no advantage in operational skills for diagnostic imaging](pbl-no-benefit-hands-on-communication-self-directed.md) — related
+- [TBL significantly improves teamwork skills compared with PBL (SMD = 1.18)](tbl-improves-teamwork-skills-versus-pbl.md) — related
+- [Non-technical skill outcomes of TBL are mixed, with positive findings for communication, decision-making, self-study and emotional intelligence](tbl-non-technical-skills-mixed.md) — related

@@ -53,3 +53,4 @@ Classification of learning stage from 10-s EEG segments (84 relative-PSD feature
 - [Relative PSD shows stage- and task-specific band patterns, including higher high-beta in Stage 3 of labs and quizzes](relative-psd-band-stage-patterns.md) — related
 - [On one graphical differentiation item, eye tracking data predicted students' specific difficulties as a multiclass classification problem](gaze-prediction-specific-math-difficulties-multiclass.md) — related
 - [SVM with RoBERTa sentence embeddings was the most accurate automatic scoring method (κ = .82) among the four tested combinations](roberta-svm-most-accurate-scoring-pisa.md) — related
+- [Cognitive and behavioral metrics via EEG and eye-tracking with machine learning predicted surgical training outcomes with 72.5% accuracy](eeg-eye-metrics-ml-predict-training-outcomes.md) — related

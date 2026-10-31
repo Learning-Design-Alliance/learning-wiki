@@ -59,3 +59,5 @@ Publication bias assessment using funnel plot, Egger's regression intercept (t(1
 - No publication bias was detected among the studies included in the meta-analysis — related
 - Publication bias due to small study effects was limited, and sensitivity analyses supported Winsorizing an outlying effect size — related
 - Sensitivity and publication-bias analyses support the robustness of the pooled accuracy estimate — related
+- [No significant publication bias was detected for the knowledge and skill outcomes](no-publication-bias-sbl-endocrinology.md) — related
+- [Publication bias tests provide mixed evidence but overall suggest bias is unlikely](publication-bias-tests-mixed-evidence.md) — related

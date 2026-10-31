@@ -54,3 +54,4 @@ In the Discussion, the review reports that "the majority demonstrated face valid
 - [Validity evidence for data-driven assessment tools relies predominantly on construct validity, with 11 of 35 studies using unvalidated tools](validity-evidence-construct-dominant-unvalidated-tools.md) — related
 - [Evidence for transfer of simulation training to operating-room outcomes was sparse in neuro-oncological simulation research](sparse-transfer-evidence-simulation-to-or.md) — related
 - Reporting of the validity source consequences is largely absent from identified assessment studies — related
+- [Most identified assessment tools demonstrate construct or concurrent validity, but predictive validity is absent across tool categories](construct-validity-common-predictive-absent.md) — related

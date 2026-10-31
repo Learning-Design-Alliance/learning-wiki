@@ -124,3 +124,8 @@ Publication-bias assessment of the 21-study meta-analysis using a thesis-vs-arti
 - No publication bias detected across included studies in the TBL-LBL meta-analysis — related
 - Publication bias tests found no statistically significant evidence of publication bias — related
 - Publication bias is present in the OSCE reliability literature, with funnel plot asymmetry detected by Egger's regression test (p < 0.001) — related
+- [The meta-analysis results are statistically stable under sensitivity analysis and show no evidence of publication bias](dental-meta-stable-no-publication-bias.md) — related
+- [No significant publication bias was detected for the knowledge and skill outcomes](no-publication-bias-sbl-endocrinology.md) — related
+- [Sensitivity analysis and funnel plots indicated the meta-analysis results were stable and free of significant publication bias](pbl-meta-analysis-stability-sensitivity.md) — related
+- [The pooled PSU–achievement estimate is robust to outlier removal and shows no evidence of publication bias](psu-estimate-robust-no-publication-bias.md) — related
+- [Publication bias tests provide mixed evidence but overall suggest bias is unlikely](publication-bias-tests-mixed-evidence.md) — related

@@ -57,3 +57,4 @@ The review's prototype technology analysis (RQ3), organized by a four-module arc
 - [AWE technology has evolved through four distinct generations from traditional NLP-based systems to AI-driven LLM-integrated tools (2000–2024)](awe-four-generations-evolution.md) — related
 - [AI-SSP backend architectures shifted from rule-based or NLP systems before 2022 to LLM-based systems in all studies published after 2022](ai-ssp-architecture-shift-rule-based-to-llm.md) — a narrower finding that bears on this claim
 - Review notes a decline in gamification-in-TEFL publications since 2018, hypothesizing a shift toward AI-driven and broader technology-enhanced methods — related
+- [Across the 25-year span of reviewed studies, educational approaches shifted from content-based to competency-based learning](shift-content-based-to-competency-based-learning.md) — related

@@ -82,6 +82,7 @@ CBL situates learning in authentic problems, which raises perceived relevance an
 6. **Reflect and Assess** — Document the process, evaluate impact, and debrief learning against both content and competency goals
 
 ## Related Strategies
+
 - Project-Based Learning — CBL is a variant of PBL distinguished by learner-identified challenges and a mandatory action phase
 - Case-Based Learning — shares authentic-problem grounding but analyzes existing cases rather than acting on live challenges; case-based approaches have their own evidence base for exam performance [Case-based learning improves exam performance.](../claims/case-based-learning-improves-exam-performance.md) [+M]
 - Service-Learning — overlaps in the Act phase when solutions serve a community partner
@@ -89,6 +90,7 @@ CBL situates learning in authentic problems, which raises perceived relevance an
 - [Problem-Based Learning](problem-based-learning.md) — similar inquiry structure but typically anchored in a case rather than a learner-defined challenge
 - [Case-Based Learning](case-based-learning.md) — provides the investigation material CBL teams often need
 - [Service Learning](service-learning.md) — overlaps in the Act phase when solutions serve a community partner
+- [Implement CBL successfully by ensuring pre-class preparation, authentic progressive cases, dual-competence facilitators, adequate time, and process-plus-outcome assessment](cbl-implementation-success-conditions.md)
 
 ## Related Elements
 - [Challenge Identification](../elements/challenge-identification.md) — the Engage-phase move that converts a big idea into a learner-owned challenge

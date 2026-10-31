@@ -13,7 +13,7 @@ generated:
 # Long-Term Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 191 claims (114 show a difference, 48 mixed, 29 no difference) · 120 studies (62 causal, 27 review, 13 quant-synthesis, 9 theoretical, 7 associational, 2 qualitative), `q1`–`q4` · 48 of 120 report an effect size · 183 claims rest on one study
+> **Evidence** · 199 claims (119 show a difference, 51 mixed, 29 no difference) · 126 studies (62 causal, 31 review, 15 quant-synthesis, 9 theoretical, 7 associational, 2 qualitative), `q1`–`q4` · 48 of 126 report an effect size · 191 claims rest on one study
 
 ## Description
 Long-term memory holds information, such as words, facts, events, concepts and procedures, so that it can be retrieved and used later, over spans from hours to decades, and in principle indefinitely. Skills and knowledge get there through repeated practice and use, and stay accessible while they continue to be used. It matters for learning because what is stored there is the base for everything that follows: the [prior knowledge](prior-knowledge.md) and vocabulary that support reading and writing, and the arithmetic facts and procedures that free a learner to work on new mathematics problems. It develops through childhood and adolescence as the brain systems supporting it mature, and older learners lean more on memory-based strategies, for example in mathematics. It is measured with standardised memory batteries that ask learners to recall stories, lists or figures after a delay. It is distinct from [working memory](working-memory.md), which holds information briefly while it is being used; rehearsal and use move material from one to the other.
@@ -226,6 +226,14 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 - [Evidence on long-term retention and transfer of clinical communication skills to clinical practice remained inconsistent or lacking across included reviews](../claims/vp-communication-long-term-retention-transfer-inconsistent.md) [~M] — instruction changes it
 - [Exclusive and systematic use of multiple-choice questions for anatomy assessment may adversely affect long-term retention](../claims/mcq-exclusive-use-retention-risk.md) [+M] — instruction changes it
 - [VR tools enhance acquisition and retention of clinical and procedural skills but face barriers including cybersickness, limited tactile feedback and variable long-term skill transfer](../claims/vr-enhances-practical-skill-acquisition-with-barriers.md) [~M] — instruction changes it
+- [Age, curriculum type and retention interval predict basic science knowledge retention](../claims/age-curriculum-retention-interval-predict-retention.md) [+M] — instruction changes it
+- [Basic science retention varies by discipline, with anatomy retained best and microbiology lowest](../claims/retention-varies-by-discipline-anatomy-microbiology.md) [+M] — instruction changes it
+- [Evidence on TBL's long-term knowledge retention is mixed](../claims/tbl-retention-mixed.md) [~M] — instruction changes it
+- [Peer-assisted ultrasound teaching can produce long-term retention of knowledge and skills](../claims/peer-teaching-long-term-retention-ultrasound.md) [+M] — instruction changes it
+- [Rehearsal significantly optimises retention of basic science knowledge among medical practitioners](../claims/rehearsal-optimises-basic-science-retention-practitioners.md) [+M] — instruction changes it
+- [TBL in clinical disciplines is associated with increased knowledge acquisition in many studies, but findings on long-term knowledge retention are contradictory](../claims/tbl-clinical-knowledge-acquisition-mixed-retention.md) [~M] — instruction changes it
+- [Technology-enhanced simulation may result in superior retention of clinical knowledge and skills compared to traditional teaching methods alone, with durable retention for months to years](../claims/simulation-improves-knowledge-retention.md) [+M] — instruction changes it
+- [The long-term impact of simulation-based learning on knowledge retention and clinical practice remains uncertain](../claims/sbl-long-term-retention-uncertain.md) [~W] — instruction changes it
 
 ## Measures
 - **Wechsler Memory Scale (WMS)** (Wechsler, 2010): its logical memory subtest asks for details of a story heard once, as a measure of declarative memory.

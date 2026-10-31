@@ -50,3 +50,4 @@ The review's synthesis of 37 studies reports that TBL is "largely supplementary"
 - Pre-clinical TBL research is dominated by first-year, in-person implementations, with most studies using classical rather than modified TBL — related
 - [Student perceptions of pre-clinical TBL are generally favourable, but peer feedback is sometimes met with hesitation](tbl-student-perceptions-favourable-peer-feedback-hesitation.md) — related
 - Reporting of the 4S framework in application design and of peer evaluation is limited: only 3 of 37 studies used 4S principles and about one-third reported peer evaluation — related
+- [Most implementations of TBL in clinical disciplines are modified versions missing one or more TBL steps, with the peer-review step most often omitted](tbl-clinical-disciplines-mostly-modified-implementation.md) — related

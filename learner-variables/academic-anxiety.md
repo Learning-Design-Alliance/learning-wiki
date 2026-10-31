@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 178 claims (117 show a difference, 40 mixed, 21 no difference) · 110 studies (43 associational, 24 review, 23 causal, 7 quant-synthesis, 6 theoretical, 5 qualitative, 2 design), `q1`–`q4` · 27 of 110 report an effect size · 171 claims rest on one study
+> **Evidence** · 180 claims (118 show a difference, 40 mixed, 22 no difference) · 112 studies (43 associational, 24 causal, 24 review, 8 quant-synthesis, 6 theoretical, 5 qualitative, 2 design), `q1`–`q4` · 27 of 112 report an effect size · 173 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -214,6 +214,8 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [PP interventions reduce language learning anxiety](../claims/pp-interventions-reduce-language-anxiety.md) [+M] — instruction changes it
 - [Students performed not as well and experienced higher levels of anxiety if the language of the virtual simulation was not in their native language](../claims/non-native-language-virtual-simulation-worse-performance-higher-anxiety.md) [+M] — instruction changes it
 - [VR/haptics intravenous simulator training reduced state anxiety in all groups with no significant group differences](../claims/vr-haptics-iv-simulator-anxiety-no-group-difference.md) [+M] — instruction changes it
+- [3D printed foot models produced similar anxiety and confidence changes to standard teaching and increased self-confidence and task self-efficacy in scalpel skill practice](../claims/3d-printed-foot-models-scalpel-skills.md) [-M] — instruction changes it
+- [Students prefer open-book exams, citing reduced stress and less intrusive oversight, and OBEs offer institutions logistical advantages](../claims/student-preference-and-logistical-advantages-of-obe.md) [+W] — instruction changes it
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

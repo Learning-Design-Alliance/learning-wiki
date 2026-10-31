@@ -48,3 +48,4 @@ Authors' interpretation in the Discussion of why bootstrapping flagged uncertain
 ## Related Claims
 - [Bootstrapped self-consistency at temperature 1.0 flags potentially incorrect GPT-4 answers: about half of inconsistent responses were incorrect versus about 5% of consistent ones](bootstrapping-self-consistency-flags-incorrect-answers.md) — related
 - [GPT-4's March and June 2023 versions showed no notable overall difference on the English exams, but differed on individual questions](gpt4-march-june-versions-comparable-overall.md) — related
+- [MELD analysis found no completion matched the MRCP sample paper at 95% or more, suggesting ChatGPT-4 was unlikely trained on it](meld-analysis-suggests-no-mrcp-training-data-memorisation.md) — related

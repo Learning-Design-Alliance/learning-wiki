@@ -98,3 +98,6 @@ Uncontrolled before-after study (RT-SIM) with 32 psychiatry residents completing
 - [OSCE use in orthodontic education improves diagnostic accuracy, procedural proficiency, and communication skills through simulated patient interactions](osce-improves-orthodontic-clinical-competence.md) — related
 - [Virtual patient simulators show construct validity for assessing psychopharmacology proficiency](virtual-patient-simulator-construct-validity-psychopharmacology.md) — related
 - [Virtual patient simulations for SUD training report positive learning outcomes across the 12 included studies](vp-sud-simulations-positive-learning-outcomes.md) — related
+- [Digital clinical skills teaching produces higher student satisfaction and engagement across multiple modalities, despite mixed efficacy for skills](digital-clinical-skills-teaching-satisfaction-engagement.md) — related
+- [Live case-based discussion outperformed paper cases on clinical reasoning performance at posttest and follow-up](live-ccd-outperforms-paper-cases-clinical-reasoning.md) — related
+- [Virtual standardized patient training improved alcohol screening and brief intervention skills and diagnostic accuracy for depression and PTSD in two RCTs, while a suicide risk assessment RCT found no significant effect](vsp-training-skills-rct-mixed-results.md) — related

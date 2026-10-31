@@ -50,3 +50,4 @@ Separate meta-analysis of the nine effect sizes (785 participants) from six publ
 - [Assigning schools to use RM-CC5 as their core Grade 5 mathematics curriculum for a full year did not significantly change state assessment achievement compared with business-as-usual schools](rm-cc5-core-curriculum-null-achievement-effect.md) — related
 - [Collaborative instruction yields a small, positive, statistically significant mean effect on student achievement compared to single-taught controls](collaborative-instruction-small-positive-mean-effect.md) — related
 - [Effect sizes are higher against education-as-usual controls and lower against reading-treatment control conditions](control-condition-moderates-word-reading-effects.md) — related
+- [Studies using pure control groups showed larger effect sizes than studies using education-as-usual controls](pure-control-larger-effects-education-as-usual.md) — related

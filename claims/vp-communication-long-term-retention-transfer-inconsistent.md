@@ -58,3 +58,7 @@ Narrative synthesis in the Discussion contrasting two included reviews' retentio
 - [Short-term, non-longitudinal training programmes pose challenges for estimating long-term skill retention](short-term-training-challenges-long-term-skill-retention.md) — related
 - [Lack of long-term follow-up limits evidence on sustained effectiveness of active methodologies](lack-follow-up-limits-long-term-evidence.md) — related
 - [Skill retention after neuraxial technical training tends to decline over time](skill-retention-declines-after-neuraxial-training.md) — related
+- [Digital interventions show sustained improvements in performance and retention, with confidence and diagnostic ability remaining elevated four months post-intervention in some studies](digital-learning-knowledge-retention-four-months.md) — related
+- [Peer-assisted ultrasound teaching can produce long-term retention of knowledge and skills](peer-teaching-long-term-retention-ultrasound.md) — related
+- [The long-term impact of simulation-based learning on knowledge retention and clinical practice remains uncertain](sbl-long-term-retention-uncertain.md) — possibly the same claim (merge candidate)
+- [Evidence on SBL retention of knowledge and skills is mixed and limited to two-to-five-month follow-ups](sbl-retention-mixed-limited-followup.md) — related

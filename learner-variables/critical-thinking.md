@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 91 claims (65 show a difference, 21 mixed, 5 no difference) · 69 studies (21 causal, 19 review, 10 associational, 7 theoretical, 5 qualitative, 4 design, 3 quant-synthesis), `q1`–`q3` · 13 of 69 report an effect size · 89 claims rest on one study
+> **Evidence** · 98 claims (69 show a difference, 21 mixed, 8 no difference) · 74 studies (23 causal, 20 review, 10 associational, 7 theoretical, 5 quant-synthesis, 5 qualitative, 4 design), `q1`–`q3` · 14 of 74 report an effect size · 96 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -131,6 +131,13 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [Scenario-based learning significantly improves critical thinking and practical skills in orthodontic postgraduate training](../claims/scenario-based-learning-improves-orthodontic-critical-thinking.md) [+M] — instruction changes it
 - [Simulation improves critical thinking in nursing and medical students compared to traditional teaching](../claims/simulation-improves-critical-thinking-nursing-medical-students.md) [+M] — instruction changes it
 - [Student-centered teaching strategies promote autonomy and critical thinking in higher education](../claims/student-centered-strategies-promote-autonomy-critical-thinking.md) [+M] — instruction changes it
+- [BOPPPS shows no significant improvement in problem-solving or critical thinking skills compared with traditional teaching](../claims/boppps-no-gain-problem-solving-critical-thinking.md) [-M] — instruction changes it
+- [Critical thinking had low significance in most interventions, typically addressed by a single under-specified method](../claims/low-significance-critical-thinking-most-interventions.md) [-M] — instruction changes it
+- [In first-year medical students, PBL showed no significant difference from non-PBL teaching in critical thinking, problem-solving, or self-directed learning](../claims/pbl-null-first-year-medical-students.md) [-M] — instruction changes it
+- [In the RCT, PBL students scored significantly higher on communication skills and critical thinking than LBL students](../claims/pbl-rct-higher-communication-critical-thinking.md) [+M] — instruction changes it
+- [Interventions with high or very high significance of critical thinking applied mainly problem-solving methods and involved pupils' activity](../claims/problem-solving-high-critical-thinking-significance.md) [+M] — instruction changes it
+- [PBL improves EFL students' critical thinking disposition, creativity, and language scores, with noted gender differences](../claims/pbl-improves-efl-critical-thinking.md) [+M] — instruction changes it
+- [PBL shows significant advantages in critical thinking compared with traditional education or team-based learning in nursing and clinical student populations](../claims/pbl-improves-critical-thinking-versus-traditional-teaching.md) [+W] — instruction changes it
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

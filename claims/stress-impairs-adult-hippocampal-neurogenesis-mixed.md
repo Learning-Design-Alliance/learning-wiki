@@ -49,3 +49,4 @@ Narrative review summarising rodent studies across stress paradigms (chronic unp
 - [Whether adult-born hippocampal neurons buffer or exacerbate the behavioural and endocrine effects of chronic stress remains unresolved, with conflicting ablation findings](buffer-versus-susceptibility-unresolved.md) — related
 - [Genetic or chemogenetic enhancement of adult hippocampal neurogenesis does not improve baseline mood but can promote behavioural resilience to chronic stressors](neurogenesis-enhancement-promotes-resilience.md) — related
 - [Chronic, but not acute, administration of clinical antidepressants enhances adult hippocampal neurogenesis across multiple stages of the neurogenic process](chronic-antidepressants-enhance-neurogenesis.md)
+- [The single study reporting enhanced performance under stress may reflect stressors that failed to induce sufficient stress](enhanced-performance-insufficient-stress.md) — related

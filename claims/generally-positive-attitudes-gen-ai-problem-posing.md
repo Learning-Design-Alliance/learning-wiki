@@ -55,3 +55,4 @@ Phenomenological coding of the same 49 students' post-training reflections on pr
 - [AI applications in STEM education foster positive affective perception, including attitude, interest, and motivation](ai-stem-positive-affective-perception-effects.md) — a broader claim this one bears on
 - [EAI modalities were associated with higher student motivation and changes in attitudes toward STEM knowledge areas](eai-motivation-attitude-stem-effects.md) — related
 - [University students held positive attitudes toward GAI in DST creation but expressed moderate concern about over-reliance and low concern about reduced social interaction](student-perceptions-gai-dst-mixed-attitudes.md) — related
+- [Trainees and trainers hold mixed views on AI-generated heat maps for postoperative coaching](mixed-trainee-trainer-views-ai-heat-maps.md) — related

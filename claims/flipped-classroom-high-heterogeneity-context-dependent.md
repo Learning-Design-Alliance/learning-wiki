@@ -54,3 +54,5 @@ Synthesis-wide finding from the review's discussion: heterogeneity exceeded I² 
 - [Gamified flipped classroom/animation knowledge effects are inconclusive due to few studies and extreme heterogeneity](gamified-flipped-classroom-inconclusive-knowledge.md) — a narrower finding that bears on this claim
 - [Flipped classrooms are associated with improved procedural/technical skills in medical education (pooled SMD = 1.80), with larger effects among residents and in theoretical-course settings](flipped-classroom-procedural-skills-medical-education.md) — a narrower finding that bears on this claim
 - Substantial heterogeneity in intervention design, outcome measures, and feedback structures limited comparability across reviews, and no pooled meta-analysis was feasible — related
+- [Included studies show high heterogeneity (I2 = 94.5%), addressed with random effects modelling and meta-regression](high-heterogeneity-si-ei-meta-analysis.md) — related
+- [Subgroup factors (study quality, participant status, region, simulation technique) did not explain the heterogeneity in SBL effects](subgroups-did-not-explain-sbl-heterogeneity.md) — related

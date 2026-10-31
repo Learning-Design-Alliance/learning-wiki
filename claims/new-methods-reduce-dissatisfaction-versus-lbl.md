@@ -50,3 +50,6 @@ In the dissatisfaction NMA (42 studies, 2921 trainees), ten interventions each s
 - [PBL combined with WeChat outperforms LBL in theoretical test scores and reduces dissatisfaction among Chinese internal medicine residents](pbl-wechat-outperforms-lbl-theoretical-scores-residents.md) — related
 - [Students in TBL groups report higher satisfaction than students in LBL groups](tbl-higher-student-satisfaction-neurology.md) — related
 - [PBL combined with clinical practice yields the largest improvement in medical record analysis scores versus LBL](pbl-clinical-practice-medical-record-scores.md) — a narrower finding that bears on this claim
+- [Students report higher class satisfaction with CBL than with LBL (RR = 1.63)](cbl-higher-class-satisfaction-than-lbl.md) — related
+- [In Chinese neurology training, CBL, PBL, TBL, FCM and EBM each significantly improve theoretical exam scores compared with lecture-based learning](nma-modern-methods-beat-lbl-theoretical-neurology.md) — related
+- [SBL is the highest-ranked strategy for medical students' satisfaction, significantly exceeding PBL and TBL as well as LBL](sbl-highest-ranked-student-satisfaction-nma.md) — related

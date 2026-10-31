@@ -49,3 +49,5 @@ Meta-analysis of 5 RCTs reporting student satisfaction. Found students in the SC
 - [Students in TBL groups report higher satisfaction than students in LBL groups](tbl-higher-student-satisfaction-neurology.md) — related
 - [The SCL model improves teaching effects including learning interest, self-learning ability, and clinical thinking ability compared to LBL](scl-improves-teaching-effects.md) — related
 - [The SCL model improves theoretical knowledge scores compared to LBL in medical education](scl-improves-theoretical-knowledge-scores.md) — related
+- [More PBL than LBL students report satisfaction with improved comprehension of knowledge (RR = 1.84)](pbl-satisfaction-comprehension-knowledge.md) — related
+- [More PBL than LBL students report satisfaction with improved thinking ability (RR = 1.42)](pbl-satisfaction-thinking-ability.md) — related

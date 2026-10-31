@@ -37,7 +37,7 @@ sources:
 # Case-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 47 claims (21 for, 25 mixed, 1 against) · 35 studies (13 causal, 7 review, 6 quant-synthesis, 3 associational, 3 design, 2 qualitative, 1 theoretical), `q2`–`q4` · 8 of 35 report an effect size · 42 claims rest on one study
+> **Evidence** · 53 claims (25 for, 27 mixed, 1 against) · 40 studies (13 causal, 11 quant-synthesis, 7 review, 3 associational, 3 design, 2 qualitative, 1 theoretical), `q2`–`q4` · 11 of 40 report an effect size · 48 claims rest on one study
 
 ## Description and scope
 
@@ -137,6 +137,8 @@ Claims this page cited before it was rewritten as a conditional model. Both clai
 - [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [~M] — some novices need component instruction or worked examples before cases become productive
 - [Studying theoretical content with text-based cases yields a small advantage in productive scientific knowledge application over studying the same content with theoretical models](../claims/text-based-cases-small-advantage-knowledge-application.md) [+M] — attached 2026-10-18 from Baier et al. (2021), which proposed "Use text-based cases to connect scientific theory to real-world classroom situations in teacher education, but treat them as one option rather than a panacea against inert knowledge"; tests this page's relationship.
 - [Both case-based and model-based interventions increase pre-service teachers' self-reported use of theory-based knowledge when analysing classroom situations](../claims/both-interventions-increase-theory-based-knowledge-usage.md) [+M] — attached 2026-10-18 from Baier et al. (2021), which proposed "Use text-based cases to connect scientific theory to real-world classroom situations in teacher education, but treat them as one option rather than a panacea against inert knowledge"; tests this page's relationship.
+- [CBL produces significantly higher exam scores than LBL in pharmacy education (SMD = 0.58)](../claims/cbl-higher-exam-scores-than-lbl-pharmacy.md) [+W] — attached 2026-10-31 from Chen Min et al. (2025), which proposed "Pharmacy courses suited to CBL over LBL require integrating theory with practice in complex, context-dependent scenarios"; tests this page's relationship.
+- [CBL significantly improves problem-solving abilities compared with LBL (RR = 2.19)](../claims/cbl-improves-problem-solving-abilities.md) [+W] — attached 2026-10-31 from Chen Min et al. (2025), which proposed "Pharmacy courses suited to CBL over LBL require integrating theory with practice in complex, context-dependent scenarios"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 
@@ -161,6 +163,10 @@ This pattern is scoped to lessons in which cases are analysed and compared and t
 - [Structure-emphasizing example sets, using varied cover stories across problem types, lead students to categorize problems by structure rather than surface features](../claims/structure-emphasizing-cover-stories-categorization.md) [+W]
 - [Case comparisons produced significantly higher learning gains than single cases for organic chemistry students with low prior knowledge (attributed to Kranz et al., under review)](../claims/case-comparisons-higher-learning-gain-low-prior-knowledge.md) [+W]
 - [Beneficial design features include diverse, authentic case variation and immediate, individualized, actionable, transparent feedback, yet only 52.6% of studies incorporated feedback](../claims/ai-virtual-patients-feedback-feature-underincorporated.md) [+W]
+- [CBL shows the largest effect on theoretical exam scores versus LBL (MD = 13.12) and ranks first among the seven methods](../claims/cbl-largest-theoretical-exam-effect-neurology-nma.md) [+W]
+- [Subgroup results: CBL ranks best for clinical curricula and across educational backgrounds, while PBL ranks best for basic courses, developing countries, and operational skills](../claims/nma-subgroup-cbl-clinical-pbl-basic.md) [~W]
+- [PBL-CBL improves physical examination and case analysis performance relative to LBL](../claims/pbl-cbl-physical-exam-case-analysis.md) [+W]
+- [AI-powered PBL/CBL shows favourable but heterogeneous effects on clinical reasoning capability that could not be statistically pooled](../claims/ai-pbl-cbl-clinical-reasoning.md) [~W]
 
 ## Related Patterns
 - [Problem-Based Learning (PBL)](problem-based-learning.md)

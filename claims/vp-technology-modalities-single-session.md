@@ -50,3 +50,4 @@ Review's mapping of technological formats (RQ4). The review reports that "virtua
 - [Virtual patient scenarios focused on psychiatric and chronic diseases, with major depressive disorder and cancer most common; acute, infectious, and rare conditions were absent](vp-scenario-disease-diversity-gaps.md) — related
 - [Immersion principle: people do not necessarily learn better in 3D immersive virtual reality than with a corresponding 2D desktop presentation (d = -0.10 across 9 tests)](immersion-principle-no-vr-benefit.md) — related
 - [In one meta-analysis, modality-effect studies using virtual reality head-mounted displays show larger effects than studies using computer screens or audio-tapes](modality-effect-stronger-in-virtual-reality.md) — related
+- [All included VR training interventions used non-immersive desktop systems; no immersive VR studies met the review's inclusion criteria](all-included-vr-interventions-non-immersive-desktop.md) — reports the opposite

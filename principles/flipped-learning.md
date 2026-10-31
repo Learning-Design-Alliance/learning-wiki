@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 69 claims (34 for, 34 mixed, 1 against) · 53 studies (16 causal, 16 quant-synthesis, 12 review, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 20 of 53 report an effect size · 61 claims rest on one study
+> **Evidence** · 70 claims (34 for, 35 mixed, 1 against) · 54 studies (17 quant-synthesis, 16 causal, 12 review, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 20 of 54 report an effect size · 62 claims rest on one study
 
 ## Conditional relationship
 
@@ -203,6 +203,7 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - [A blended flipped classroom produced statistically significantly higher post-test scores than traditional teaching in one included histology study (p < 0.0001)](../claims/blended-flipped-classroom-higher-posttest-scores.md) [+W]
 - [Blended learning or flipped classroom models may combine e-learning and traditional modalities](../claims/blended-flipped-classroom-anaesthesia.md) [~W]
 - [The flipped classroom effect on knowledge scores does not differ significantly between RCT and observational study designs.](../claims/flipped-classroom-effect-similar-rct-observational.md) [~W]
+- [Evidence quality is limited: heterogeneity is high across all three outcomes, publication bias was detected for score outcomes, and all CINeMA-rated comparisons were very low quality](../claims/nma-high-heterogeneity-very-low-cinema-evidence.md) [~W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — how support in the pre-class work and the live session is withdrawn across a term

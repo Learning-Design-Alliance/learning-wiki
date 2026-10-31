@@ -66,3 +66,7 @@ The review reports, citing three prior studies, that PBL appeared more effective
 - Of 4310 screened abstracts, 21 studies of PBL in PGME were included, spanning eight specialties and four Kirkpatrick outcome levels — related
 - [PBL and conventional instruction produce similar learning outcomes in postgraduate medical education (pooled mean difference 0.13%, 95% CI -6.74 to 7.00)](pbl-similar-learning-outcomes-pgme.md) — related
 - [Problem-based learning in orthodontic postgraduate education enhances student engagement and understanding](problem-based-learning-enhances-orthodontic-engagement.md) — related
+- [AI-powered PBL/CBL significantly improves students' knowledge acquisition compared with PBL/CBL without AI or traditional lectures](ai-pbl-cbl-improves-knowledge-acquisition.md) — related
+- [MDT-CBL showed the best improvement in clinical reasoning versus lecture-based learning, with 3D-CBL and 3D-PBL next, but only 3D-PBL had high-quality evidence](mdt-cbl-best-clinical-reasoning-gains.md) — related
+- [MDT-CBL produced the greatest increase in learning interest versus lecture-based learning, but 3D-PBL was the only top-ranked option with high-quality evidence](mdt-cbl-greatest-learning-interest-gains.md) — a narrower finding that bears on this claim
+- [Insufficient evidence exists to compare TBL with other active learning methods](tbl-vs-active-methods-insufficient-evidence.md) — related

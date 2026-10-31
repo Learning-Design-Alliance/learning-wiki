@@ -72,3 +72,5 @@ Random-effects meta-analysis of blended-learning skills outcomes. The pooled "SM
 - [Live simulations with real patients showed the greatest effects among simulation types (g = 2.27, medical education only)](simulation-type-moderates-effectiveness.md) — related
 - [Blended teaching shows no significant difference in multiple-choice question scores compared to traditional teaching](blended-teaching-no-significant-difference-mcq-scores.md) — related
 - [Team-based learning shows no significant difference in multiple-choice question scores compared to traditional teaching](team-based-learning-no-significant-difference-mcq-scores.md) — related
+- [Virtual simulations are less effective than mannequins or real persons for procedural skills among nursing participants](vs-less-effective-procedural-skills-nursing.md) — related
+- [Virtual simulations and mannequins or real persons show no significant difference in improving knowledge in medical and nursing education](vs-mannequin-rp-no-difference-knowledge.md) — related

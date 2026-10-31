@@ -21,7 +21,7 @@ sources:
 # Traditional Lecture-Based Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 41 claims (8 for, 21 mixed, 12 against) · 48 studies (14 review, 10 causal, 9 quant-synthesis, 7 theoretical, 5 qualitative, 2 associational, 1 design), `q1`–`q4` · 8 of 48 report an effect size · 33 claims rest on one study
+> **Evidence** · 53 claims (13 for, 23 mixed, 17 against) · 54 studies (15 quant-synthesis, 14 review, 10 causal, 7 theoretical, 5 qualitative, 2 associational, 1 design), `q1`–`q4` · 9 of 54 report an effect size · 45 claims rest on one study
 
 ## Description and scope
 
@@ -163,6 +163,18 @@ This pattern is scoped to courses where a lecturer's explanation to a whole grou
 - [Narrative medicine education improves residents' procedural skill scores compared with lecture-based learning](../claims/narrative-medicine-improves-procedural-skill.md) [-W]
 - [TBL in medical ethics education improves knowledge retention compared to lectures](../claims/tbl-improves-ethics-knowledge-retention.md) [-W]
 - [One included study reported a 13.2% per-student cost reduction with CBL versus TL, but cost-efficiency was not consistently reported](../claims/cbl-cost-reduction-13-2-percent-single-study.md) [~W]
+- [3D-PBL showed the greatest improvement in self-directed learning ability versus lecture-based learning, rated high-quality evidence](../claims/3d-pbl-greatest-self-directed-learning-gains.md) [-W]
+- [3D-PBL showed the greatest improvement in communication skills versus lecture-based learning, rated high-quality evidence](../claims/3d-pbl-greatest-communication-skills-gains.md) [+W]
+- [CBL shows the largest effect on theoretical exam scores versus LBL (MD = 13.12) and ranks first among the seven methods](../claims/cbl-largest-theoretical-exam-effect-neurology-nma.md) [-W]
+- [MDT-CBL produced the greatest increase in learning interest versus lecture-based learning, but 3D-PBL was the only top-ranked option with high-quality evidence](../claims/mdt-cbl-greatest-learning-interest-gains.md) [+W]
+- [MDT-CBL showed the best improvement in clinical reasoning versus lecture-based learning, with 3D-CBL and 3D-PBL next, but only 3D-PBL had high-quality evidence](../claims/mdt-cbl-best-clinical-reasoning-gains.md) [~W]
+- [AI-powered PBL/CBL outperforms traditional lectures for knowledge acquisition, but shows no significant advantage over AI-free PBL/CBL](../claims/ai-pbl-cbl-knowledge-subgroups.md) [-W]
+- [Compared to lecture-based learning, PACS-CBL produced the greatest improvement in practical skills exam scores, with 3D-PBL and PBL-CBL next at high evidence quality](../claims/pacs-cbl-greatest-skills-exam-gains.md) [+W]
+- [Compared to lecture-based learning, PACS-CBL produced the greatest improvement in theoretical exam scores, with 3D-PBL and 3D-CBL next, but PACS-CBL evidence was low quality](../claims/pacs-cbl-greatest-theoretical-exam-gains.md) [+W]
+- [For practical skills, EBM shows the largest effect versus LBL (MD = 13.34) and the ranking is CBL > EBM > PBL > TBL > FCM > CP > LBL](../claims/practical-skills-ranking-ebm-cbl-neurology-nma.md) [+W]
+- [In the RCT, PBL students obtained significantly better final exam grades than LBL students, but the meta-analysis found no significant final-exam difference](../claims/pbl-final-exam-rct-vs-meta-analysis-discrepancy.md) [~W]
+- [TBL outperforms lecture-based learning on short-term cognitive outcomes such as theoretical exam performance](../claims/tbl-superior-lecture-short-term-cognitive.md) [-W]
+- [SBL is the highest-ranked strategy for medical students' satisfaction, significantly exceeding PBL and TBL as well as LBL](../claims/sbl-highest-ranked-student-satisfaction-nma.md) [-W]
 
 ## Related Patterns
 - [Direct Instruction](direct-instruction.md) — the explain, model, guided-practice and hand-over policy; a lecture segment is its explanation step delivered to a large group

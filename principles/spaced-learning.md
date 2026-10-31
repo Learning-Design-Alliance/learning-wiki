@@ -71,7 +71,7 @@ sources:
 # Spaced Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 80 claims (41 for, 37 mixed, 2 against) · 54 studies (28 causal, 13 review, 9 quant-synthesis, 3 theoretical, 1 associational), `q1`–`q4` · 16 of 54 report an effect size · 73 claims rest on one study
+> **Evidence** · 81 claims (41 for, 37 mixed, 3 against) · 55 studies (28 causal, 14 review, 9 quant-synthesis, 3 theoretical, 1 associational), `q1`–`q4` · 16 of 55 report an effect size · 74 claims rest on one study
 
 ## Description
 
@@ -481,6 +481,7 @@ The article concludes that AI-generated podcasts are best positioned as a 'mobil
 - [Shorter retention intervals predict higher quiz grades, and the spacing benefit holds even at short retention intervals](../claims/retention-interval-no-spacing-interaction.md) [~W]
 - [Varying the inter-skill rest interval from 0 to 30 seconds does not modify one-trial generalization from skill A to skill B](../claims/rest-interval-no-impact-one-trial-generalization.md) [~W]
 - [Offline change in general skill between sessions 12 h apart was significant, but between sessions a week apart was not](../claims/long-offline-general-skill-12h-not-week.md) [~W]
+- [Concentrated high-duration virtual reality training (>30 h over several weeks) was associated with reduced complication rates, while spaced-out simulator sessions were not](../claims/concentrated-vrs-training-reduces-complications.md) [-W]
 
 ## Key Sources
 

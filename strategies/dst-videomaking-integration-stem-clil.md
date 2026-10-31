@@ -49,6 +49,7 @@ The article recommends integrating DST within STEM-A as an educational technolog
 - [Integrate AI literacy into disciplinary core subjects rather than adding a new AI subject](integrate-ai-literacy-into-core-subjects.md)
 - [Integrate AI literacy across grades and subject-area learning rather than confining it to electives](integrate-ai-literacy-across-subject-areas.md)
 - [Embed AI literacy across disciplines by identifying intersections with existing content and using case studies, interdisciplinary modules, and collaborative projects](embed-ai-literacy-across-disciplines.md)
+- [Shift post-graduate health policy education from teacher-centred approaches toward student-centred methods with contemporary teaching training](student-centred-postgraduate-health-policy-teaching.md)
 
 ## Examples
 -

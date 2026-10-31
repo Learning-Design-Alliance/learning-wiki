@@ -58,6 +58,7 @@ The review recommends that future research adopt more rigorous methodologies, in
 - [Conduct large-scale, well-designed RCTs with multiple outcome indicators to evaluate new teaching methods](large-scale-rcts-multiple-outcome-indicators-teaching-methods.md)
 - [Prioritize high-quality RCTs with standardized assessment tools and subjective outcomes in future flipped classroom research](prioritize-high-quality-rcts-standardized-assessment.md)
 - [Future simulation research should use rigorous designs, standardized tools, and transparent reporting](strategy-rigorous-simulation-research-design.md)
+- [Methodological recommendations for future clinical reasoning education studies: report effect sizes with confidence intervals, control confounders, use ITT analysis, and determine MCID](clinical-reasoning-study-methodology-recommendations.md)
 
 ## Examples
 -

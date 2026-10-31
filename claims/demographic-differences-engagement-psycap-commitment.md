@@ -53,3 +53,4 @@ Independent-samples t-tests and one-way ANOVA on demographic differences in the 
 - [Female students reported higher learning agency than male students after controlling for GenAI literacy and year of study](female-higher-learning-agency-genai-contexts.md) — related
 - [Gender is associated with small differences in GenAI use, literacy, and monitoring, while educational level shows no significant differences](gender-small-differences-genai-use.md) — related
 - [Male faculty report modestly higher self-perceived GenAI knowledge than female faculty in TK and TPK, with small effect sizes](gender-differences-technological-genai-knowledge-small-effects.md) — related
+- [Open, autonomous, familiar, and controlled school climate types significantly affect adolescent psychological hardiness dimensions, with gender differences favoring male students](school-climate-type-psychological-hardiness-gender.md) — related

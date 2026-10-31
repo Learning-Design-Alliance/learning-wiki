@@ -58,3 +58,5 @@ Meta-analysis of 24 studies comparing theoretical exam scores between FC and LBL
 - [Exploratory subgroup analysis suggests larger effects in practice courses than theory courses, driven by only 2 practice-oriented studies](llm-teaching-practice-course-subgroup-signal.md) — related
 - [Flipped classroom instruction is associated with higher student satisfaction than traditional instruction in medical education (SMD 0.82).](flipped-classroom-higher-student-satisfaction-medical-education.md) — related
 - [Flipped classrooms yield higher theoretical knowledge scores than traditional lectures in Chinese clinical practice students (pooled SMD = 8.33)](flipped-classroom-higher-theoretical-scores-clinical-practice.md) — related
+- [Blended BOPPPS teaching is associated with higher total scores than lecture-based learning in Chinese medical undergraduates](blended-boppps-higher-total-scores.md) — related
+- [Flipped classroom shows a significant pooled advantage over lecture-based learning in dental education (SMD = 0.50)](flipped-classroom-significant-vs-lbl-dental.md) — related

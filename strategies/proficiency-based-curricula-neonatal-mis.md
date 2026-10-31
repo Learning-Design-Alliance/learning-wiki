@@ -49,7 +49,8 @@ The review recommends integrating cost-effective simulation into pediatric MIS t
 - [Prior basic SuSiPed training significantly increases performance on the more advanced pediatric MIS simulator (SuSiPed 2.0)](../claims/susiped2-prior-basic-training-improves-advanced-performance.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Design high-quality simulation and metaverse content with alignment to learning objectives, interactivity, and developmentally integrated deliberate practice from basic to advanced skills](metaverse-content-quality-design-strategy.md)
 
 ## Examples
 -

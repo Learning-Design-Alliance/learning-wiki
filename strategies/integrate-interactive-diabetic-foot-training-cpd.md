@@ -60,6 +60,7 @@ The review recommends that structured, interactive and hands-on diabetic foot ca
 - [Design CPD programs with hands-on skill development, ongoing reinforcement, and integration into workplace protocols](cpd-hands-on-skills-reinforcement-protocol-integration.md)
 - [Use competency frameworks and assessment tools to structure nurse training in biologics management](competency-framework-strategy-nurse-biologics-training.md)
 - [Tailor curricula, programs, and support systems to clinical readiness components](tailor-curricula-to-clinical-readiness-components.md)
+- [Use targeted educational interventions — continuing education, dissection courses, generative retrieval and integrated anatomy training — to sustain basic science retention](targeted-interventions-sustain-basic-science-retention.md)
 
 ## Examples
 -

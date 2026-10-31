@@ -57,3 +57,5 @@ RCT of 120 medical and nursing students comparing VR with live simulation, asses
 - [VR-based nurse-physician communication team training is non-inferior to live simulation for communication performance and improves interprofessional attitudes](vr-noninferior-live-simulation-team-communication.md) — related
 - [Interprofessional training in a psychiatric ward improved all three subscales of the Assessment of Interprofessional Team Collaboration Scale](ipe-psychiatric-ward-improved-aitcs-subscale.md) — related
 - [Immersive VR tracheostomy training reduced anxiety more than regular training at follow-up](vr-tracheostomy-training-reduced-anxiety.md) — related
+- [Most ISBTT studies report improvement in collaborative behaviors immediately after training, but longer-term and clinical-setting outcomes are rarely measured](isbtt-behavior-improvements-mostly-immediate.md) — related
+- [Evidence on SBL retention of knowledge and skills is mixed and limited to two-to-five-month follow-ups](sbl-retention-mixed-limited-followup.md) — related

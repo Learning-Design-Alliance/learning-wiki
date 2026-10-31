@@ -12,7 +12,7 @@ generated:
 # Experiential Learning Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 quant-synthesis, 1 review), `q2`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 3 studies (2 review, 1 quant-synthesis), `q2`–`q3` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 David Kolb's Experiential Learning Theory (ELT) is "a holistic model of the learning process and a multi-linear model of adult development" (Baker, Jensen, & Kolb, 2002, p. 51), rooted explicitly in Dewey, Kurt Lewin, and Piaget. It models learning as a four-stage cycle — concrete experience, reflective observation, abstract conceptualization, and active experimentation — organized around two underlying dialectical continuums: **apprehension** (concrete experience) versus **comprehension** (abstract conceptualization), and **intension** (reflective observation) versus **extension** (active experimentation). Kolb's central theoretical claim is that learning requires actively resolving the discomfort of whichever pole of each continuum a learner is *not* naturally comfortable with: "perception alone is not sufficient for learning; something must be done with it," and "transformation alone cannot represent learning, for there must be something to be transformed" (Baker, Jensen, & Kolb, pp. 56–67). This dialectical-resolution requirement is the theory's core explanatory mechanism, distinguishing it from a purely descriptive account of "learning by doing."
@@ -44,6 +44,7 @@ In response to the last two criticisms, some accounts propose a **revised experi
 
 - [Experiential learning significantly improves healthcare students' attitudes towards dementia (WMD = 9.46 on the DAS)](../claims/experiential-learning-improves-dementia-attitudes.md) [+W] — attached 2026-10-31 from Wong Ion Hong et al. (2026), which proposed "Theoretical accounts of why experiential learning shifts dementia attitudes: Kolb's Experiential Learning Theory, Construal Level Theory, and the Affect Heuristic".
 - [Experiential learning is the most frequently cited learning theory guiding faculty development initiatives in IPE](../claims/experiential-learning-most-cited-ipe-faculty-development.md) [+W]
+- [Only eight of 43 theory-informed IPP education initiatives used an EL-specific theory or model (KELT or the Leicester Model)](../claims/only-eight-articles-el-specific-theory.md) [+W] — attached 2026-10-31 from Nagel Daniel A. et al. (2024), which proposed "Kolb's experiential learning theory (KELT) and its four-mode experiential learning cycle".
 
 ## Related Theories
 

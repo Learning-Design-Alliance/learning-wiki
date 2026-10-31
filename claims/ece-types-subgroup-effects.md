@@ -58,3 +58,4 @@ Subgroup analysis by ECE type in the meta-analysis. All three modalities were si
 - [Early clinical exposure increases medical knowledge test scores and motivates learning](ece-improves-knowledge-motivation.md) — related
 - [Students perceive that early clinical exposure improves problem-solving and confidence, and many redefine their understanding of professionalism](ece-perceived-problem-solving-professionalism-confidence.md) — related
 - [Early clinical exposure in undergraduate dental education shows evidence of effectiveness in knowledge, psychomotor skills, and affective domains](ece-dental-effectiveness-cognitive-psychomotor-affective.md) — related
+- [Digital teaching of clinical skills improves medical trainees' assessment outcomes compared with other formats, with a pooled mean difference of 1.93](digital-clinical-skills-teaching-assessment-outcome-md-1-93.md) — related

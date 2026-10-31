@@ -32,7 +32,7 @@ sources:
 # Problem-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 62 claims (20 for, 38 mixed, 4 against) · 53 studies (12 quant-synthesis, 11 review, 10 causal, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 10 of 53 report an effect size · 57 claims rest on one study
+> **Evidence** · 77 claims (30 for, 43 mixed, 4 against) · 59 studies (18 quant-synthesis, 11 review, 10 causal, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 12 of 59 report an effect size · 72 claims rest on one study
 
 ## Conditional relationship
 
@@ -160,6 +160,21 @@ At the curriculum level, the expectation of a small and variable average should 
 - [3D + PBL improves communication ability in orthopedic education](../claims/3d-pbl-improves-communication-ability-orthopedics.md) [+W]
 - [3D + PBL improves passing rate of exams in orthopedic education](../claims/3d-pbl-improves-exam-passing-rate.md) [~W]
 - [PBL and active learning activities promote SDL while lectures and tests deter it, though evidence is inconsistent](../claims/pbl-promotes-sdl-lectures-deter.md) [~W]
+- [All outcome comparisons showed high heterogeneity (I² > 50%), and three indicators showed statistically significant publication bias](../claims/high-heterogeneity-and-publication-bias-orthopedic-nma.md) [+W]
+- [AI-powered PBL/CBL shows favourable but heterogeneous effects on clinical reasoning capability that could not be statistically pooled](../claims/ai-pbl-cbl-clinical-reasoning.md) [~W]
+- [3D-PBL showed the greatest improvement in communication skills versus lecture-based learning, rated high-quality evidence](../claims/3d-pbl-greatest-communication-skills-gains.md) [+W]
+- [3D-PBL showed the greatest improvement in self-directed learning ability versus lecture-based learning, rated high-quality evidence](../claims/3d-pbl-greatest-self-directed-learning-gains.md) [+W]
+- [AI-powered PBL/CBL significantly improves students' knowledge acquisition compared with PBL/CBL without AI or traditional lectures](../claims/ai-pbl-cbl-improves-knowledge-acquisition.md) [~W]
+- [PBL-CBL improves physical examination and case analysis performance relative to LBL](../claims/pbl-cbl-physical-exam-case-analysis.md) [+W]
+- [Students report higher satisfaction with PBL-CBL teaching than with LBL in orthopedic education](../claims/pbl-cbl-higher-teaching-satisfaction.md) [+W]
+- [In the RCT, PBL students obtained significantly better final exam grades than LBL students, but the meta-analysis found no significant final-exam difference](../claims/pbl-final-exam-rct-vs-meta-analysis-discrepancy.md) [~W]
+- [Pooled PBL-CBL versus LBL estimates show high heterogeneity and publication bias but remain robust in sensitivity and trim-and-fill analyses](../claims/pbl-cbl-meta-heterogeneity-publication-bias.md) [~W]
+- [Compared to lecture-based learning, PACS-CBL produced the greatest improvement in practical skills exam scores, with 3D-PBL and PBL-CBL next at high evidence quality](../claims/pacs-cbl-greatest-skills-exam-gains.md) [+W]
+- [PBL students reported significantly higher satisfaction and interest in the course than LBL students](../claims/pbl-higher-satisfaction-interest.md) [+W]
+- [PBL-CBL improves procedural skills: plaster immobilization, debridement proficiency, and aseptic awareness](../claims/pbl-cbl-procedural-skills-plaster-debridement-aseptic.md) [+W]
+- [More PBL than LBL students report satisfaction with improved self-study ability (RR = 1.44)](../claims/pbl-satisfaction-self-study-ability.md) [+W]
+- [For practical skills examination scores in TACE teaching, PBL combined with TBL ranked best, followed by PBL alone](../claims/pbl-tbl-best-practical-skills-scores-tace.md) [~W]
+- [More PBL than LBL students report satisfaction with improved thinking ability (RR = 1.42)](../claims/pbl-satisfaction-thinking-ability.md) [+W]
 
 ## Related Principles
 - [Inquiry-based Learning](inquiry-based-learning.md) — PBL is one inquiry form centered on authentic problems.

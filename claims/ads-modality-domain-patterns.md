@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-10-31
 sources:
   - id: gadbail-amol-ramchandra-2026
     resource: "https://doi.org/10.1186/s12909-026-09390-6"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Immersive and feedback-driven technologies (VR-haptic simulators, ITS) were more frequently associated with improvements in objectively measured psychomotor and cognitive performance outcomes. [→ Gadbail Amol Ramchandra 2026](#gadbail-amol-ramchandra-2026)

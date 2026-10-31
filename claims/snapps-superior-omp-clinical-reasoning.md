@@ -47,3 +47,4 @@ Assertion recorded in the review's Table 2 summary of SNAPPS benefits, which als
 ## Related Claims
 - [A JBI-guided scoping review identified eight structured clinical teaching models for healthcare trainees published between 2000 and 2025, from 26 included articles](eight-clinical-teaching-models-mapped.md) — related
 - [Supporting evidence is unevenly distributed across the eight clinical teaching models, with OMP and SNAPPS the most extensively studied](omp-snapps-most-studied.md) — related
+- [SNAPPS outperformed the one-minute preceptor and both outperformed traditional clinical teaching for clinical reasoning skill](snapps-superior-one-minute-preceptor-traditional-teaching.md) — possibly the same claim (merge candidate)

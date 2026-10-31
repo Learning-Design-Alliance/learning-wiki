@@ -69,3 +69,4 @@ In the manual-tools synthesis section, the review reports that relations-to-othe
 - [No objective assessment tool for laparoscopic cholecystectomy demonstrates comprehensive validity across all Messick domains, so no gold standard exists](no-gold-standard-lc-skill-assessment-tools.md) — a broader claim this one bears on
 - Methodological quality of LC assessment-tool studies is moderate (MERSQI median 12.5) and outcomes rarely extend beyond performance-level measures — a broader claim this one bears on
 - [AI-based assessment systems show strong internal performance and early real-time deployment for critical view of safety detection, but lack external validation and clinical impact evidence](ai-lc-assessment-strong-internal-weak-external.md) — related
+- [Most identified assessment tools demonstrate construct or concurrent validity, but predictive validity is absent across tool categories](construct-validity-common-predictive-absent.md) — related

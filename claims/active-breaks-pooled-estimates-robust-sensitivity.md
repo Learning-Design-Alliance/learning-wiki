@@ -58,3 +58,4 @@ Sensitivity analyses of the RVE models: LOSO exclusions produced maximum changes
 - [Classroom active breaks produce a small but statistically significant positive effect on working memory in schoolchildren aged 6–16](active-breaks-small-positive-effect-working-memory.md) — related
 - [Moderate-to-vigorous intensity active breaks are associated with slightly greater working-memory improvements than moderate intensity, in exploratory meta-regression](mvpa-intensity-moderates-working-memory-effect.md) — related
 - Pooled effects are robust in sensitivity analyses, but 10 of 13 studies carry serious risk of bias and publication bias is indicated — related
+- [The meta-analysis results are statistically stable under sensitivity analysis and show no evidence of publication bias](dental-meta-stable-no-publication-bias.md) — related

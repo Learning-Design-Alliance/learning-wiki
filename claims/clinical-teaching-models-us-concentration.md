@@ -60,3 +60,4 @@ Geographical frequency analysis in the scoping review's characteristics of inclu
 - [Most health diplomacy training initiatives originated in the United States, followed by Europe, South Asia, and the Middle East](health-diplomacy-training-global-north-dominance.md) — related
 - All eight included studies were cross-sectional, conducted in Asia, and most lacked a comparator — related
 - More than half of the included records were published by authors in the United States, with no records originating from South American or African countries. — related
+- [Published research on differential attainment in postgraduate surgical assessment is dominated by quantitative, gender-focused studies from the USA and UK](da-surgical-review-53-studies-quantitative-gender-dominated.md) — related

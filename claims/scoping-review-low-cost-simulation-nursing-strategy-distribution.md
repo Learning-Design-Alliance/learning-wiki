@@ -48,3 +48,4 @@ The review's synthesis of the 39 included studies reports the frequency of each 
 - [Online simulation training costs as little as 29% of mannequin-based simulation training with no quantitative difference in learning](online-simulation-29-percent-cost.md) — related
 - Low-cost simulation studies in nursing span multiple continents, with 89.7% conducted on a single continent and North America the most common location — related
 - [Low-cost simulation studies in nursing most frequently target specific clinical competencies (79.5%), with obstetric and neonatal emergency management the single largest group](scoping-review-low-cost-simulation-competency-coverage.md) — related
+- [LMIC SBE most commonly uses low-technology modalities, chiefly mannequins, scenario-based simulation, and synthetic part-task trainers](lmic-sbe-low-technology-modalities-prevalent.md) — related

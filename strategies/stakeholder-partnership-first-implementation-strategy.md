@@ -50,6 +50,7 @@ The article's concrete recommendation for researchers and practitioners beginnin
 - [Pilot guidance documents with a small set of schools and iterate before wide dissemination](pilot-then-refine-guidance-dissemination.md)
 - [Use university–district research partnerships to build district evaluation capacity and train practitioner-scholars](university-district-partnership-practitioner-scholar-strategy.md)
 - [Assess organisational readiness at the start of an adaptive learning implementation project by selecting context-relevant determinants from the framework](assess-organisational-readiness-determinants-selection.md)
+- [Conduct stakeholder analysis before implementing a national competency framework](stakeholder-analysis-before-framework-implementation.md)
 
 ## Examples
 -

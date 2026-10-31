@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 339 claims (224 show a difference, 82 mixed, 33 no difference) · 245 studies (90 associational, 71 causal, 38 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 67 of 245 report an effect size · 327 claims rest on one study
+> **Evidence** · 340 claims (225 show a difference, 82 mixed, 33 no difference) · 246 studies (90 associational, 71 causal, 39 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 67 of 246 report an effect size · 328 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -389,6 +389,7 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Effort expectancy has no direct effect on behavioral intention; its effect is fully mediated by attitude.](../claims/effort-expectancy-mediated-by-attitude.md) [~W] — learners who differ on it differ in outcomes
 - [Performance expectancy significantly predicts both behavioral intention and actual use of MALL.](../claims/performance-expectancy-predicts-intention-and-use.md) [+M] — learners who differ on it differ in outcomes
 - [Autonomous or intrinsic motivation is positively associated with academic performance, while controlled or extrinsic motivation shows minimal or negative associations](../claims/autonomous-motivation-positive-controlled-motivation-not.md) [~M] — learners who differ on it differ in outcomes
+- [All studies measuring student engagement reported higher engagement when TBL was used in clinical disciplines](../claims/tbl-clinical-higher-student-engagement.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

@@ -54,3 +54,4 @@ The review reports that Marcussen et al. investigated interprofessional training
 - [Skill retention after simulation is rarely measured; at 2-month follow-up only the VR group maintained significant ISVS improvement](simulation-skill-retention-two-month-follow-up.md) — related
 - [Mixed interprofessional group training promoted mutual respect, understanding of roles, and appreciation of teamwork among ED participants](interprofessional-mixed-groups-mutual-respect-consent-training.md) — related
 - [Simulation-based training is associated with communication and teamwork gains of approximately 2–3 points and NOTSS domain means of 2.8–3.5 on 4-point scales](simulation-communication-teamwork-gains-notss.md) — related
+- [Comparative ISBTT studies suggest simulation added to training improves collaborative behaviors, with mixed results for modality and interprofessional versus uniprofessional comparisons](isbtt-comparative-studies-mixed-results.md) — related

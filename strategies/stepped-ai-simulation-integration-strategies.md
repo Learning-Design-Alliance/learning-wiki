@@ -51,6 +51,7 @@ The review's synthesized design strategies position AI simulations as complement
 - [Combine real people and artificial agents as complements in blended learning environments](blending-human-teachers-and-agents.md)
 - [Integrate complementary methods — simulations, feedback, and targeted tools — into mental health nurse training and assessment](integrate-simulations-feedback-targeted-tools-mhn-assessment.md)
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
+- [Design high-quality simulation and metaverse content with alignment to learning objectives, interactivity, and developmentally integrated deliberate practice from basic to advanced skills](metaverse-content-quality-design-strategy.md)
 
 ## Examples
 -

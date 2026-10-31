@@ -50,3 +50,4 @@ Narrative synthesis of reviewed studies: the review reports that "most medical s
 - [The review names stigma, personal health habits and clinical practice constraints (time, funding, guidance, low dietitian referrals) among the reasons for the nutrition knowledge gap](msad-stigma-habits-clinical-challenges.md) — related
 - [The review reports a lack of comprehensive guidelines and mandatory enforcement as a principal reason for inconsistent nutrition education across medical schools](no-mandatory-nutrition-curriculum-enforcement.md) — related
 - [Facilitators of nurses' diabetes knowledge acquisition include experience, refresher nutrition courses and NCD training](facilitators-nurse-diabetes-knowledge-ssa.md)
+- [PPS is absent or minimal in medical curricula, with just 11% of newly qualified doctors receiving formal PPS teaching](pps-absent-medical-curricula-11-percent.md) — related

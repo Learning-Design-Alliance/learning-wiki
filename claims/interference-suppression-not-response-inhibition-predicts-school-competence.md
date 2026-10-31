@@ -104,3 +104,4 @@ ERP interference suppression scores (incongruent minus congruent amplitude, 460�
 - [Early interference suppression, but not response inhibition, correlates with emergent literacy measures in both 4–5- and 5–6-year-old subsamples](fish-task-correlates-emergent-literacy-circle-does-not.md) — related
 - [Interference suppression assessed at 28–36 months is the only significant predictor of early orthographic knowledge at 4–6 years in the full regression model](interference-suppression-predicts-early-orthographic-knowledge.md) — related
 - [Interference inhibition correlates more strongly with mathematical ability than response inhibition](interference-inhibition-stronger-than-response-inhibition-math.md) — related
+- [None of the five reviewed studies of executive function in adolescents with MDD reported quantitative educational achievement results](no-mdd-adolescent-ef-studies-report-educational-achievement.md) — related

@@ -53,3 +53,5 @@ The review's own GRADE assessment across all pooled outcomes, downgraded for ris
 - [Educational programmes are consistently associated with statistically significant improvements in nurses' knowledge of diabetic foot care across nine quasi-experimental studies, with very low certainty of evidence](educational-programmes-improve-nurse-diabetic-foot-knowledge.md) — related
 - Included active-methodology studies had a high overall risk of bias — related
 - All twelve included studies carried at least moderate risk of bias, with none rated low on at least six criteria — related
+- [Evidence quality is limited: heterogeneity is high across all three outcomes, publication bias was detected for score outcomes, and all CINeMA-rated comparisons were very low quality](nma-high-heterogeneity-very-low-cinema-evidence.md) — related
+- [The RCTs showed some concern or high overall risk of bias and the non-randomized studies moderate to serious risk, making the evidence base uncertain](vr-mental-health-review-high-risk-of-bias.md) — related

@@ -69,3 +69,4 @@ Exploratory subgroup analysis of competency frequencies grouped by three serious
 ## Related Claims
 - [Mental health diagnosis and psychoeducation is the most frequently demonstrated clinical competency in peer support RCTs](mental-health-diagnosis-psychoeducation-most-frequent-clinical-competency.md) — related
 - Knowledge management was the most frequently addressed competency (82.35% of included studies) and information and communications technology the least (14.70%) — related
+- [Most included studies were intervention studies (87%, n=176), including 41 randomized controlled trials](majority-intervention-studies-41-rcts.md) — related

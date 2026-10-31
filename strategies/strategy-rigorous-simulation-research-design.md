@@ -53,6 +53,7 @@ The review recommends that future research strengthen study designs through adeq
 - [Future research should use standardized validated outcome measures, longitudinal follow-up designs, and methods linking learner gains to patient-relevant outcomes](vp-communication-future-research-validated-longitudinal.md)
 - [Future psychiatry education technology studies should use active comparators, standardized assessment tools, and long-term follow-up](psychiatry-ed-tech-future-research-strategy.md)
 - [Employ experimental and longitudinal designs with standardised measurement tools in future pressure injury prevention research.](experimental-longitudinal-pi-research-designs.md)
+- [Develop standardised validated content-assessment tools and theory-based guidelines for TST video creators](standardised-tst-video-assessment-tool-and-creator-guidelines.md)
 
 ## Examples
 -

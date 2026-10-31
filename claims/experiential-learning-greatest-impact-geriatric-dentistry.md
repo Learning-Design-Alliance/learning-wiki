@@ -60,3 +60,4 @@ The review's cross-study synthesis of 10 teaching-and-learning-method studies ca
 - [Student-centered innovative strategies (PBL, EBL, simulation, TBL, blended and online learning) showed positive effects in pharmaceutical care learning](innovative-strategies-positive-effects-pharmaceutical-care.md) — a broader claim this one bears on
 - [Active methodologies show no definitive superiority over traditional teaching in undergraduate dentistry](no-definitive-superiority-active-methods-dentistry.md) — related
 - PBL is the most investigated active teaching methodology in undergraduate dentistry, followed by flipped classroom and gamification — related
+- [The review attributes implementation-strategies effectiveness to experiential, interactive, and patient-centered learning methods alongside traditional lectures](interactive-patient-centered-methods-attributed-effectiveness.md) — related

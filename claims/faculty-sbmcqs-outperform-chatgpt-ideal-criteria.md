@@ -55,3 +55,4 @@ Item analysis of four test sessions in a crossover study that enrolled all 120 f
 - [Most LLM-generated MCQs from video transcripts met established quality criteria, with 84.05% rated clear, 86.38% containing plausible distractors, and 93.39% directly answerable](llm-mcq-video-quality-ratings-majority-clear.md) — related
 - [47.08% of the 242 correct MCQs met all evaluated criteria and only four items exhibited three or more flaws](mcq-flaw-cooccurrence-121-pass-all.md) — related
 - [ChatPDF.com generates more difficult and discriminating MCQs than ChatGPT 3.5 and ChatGPT 4](chatpdf-com-more-difficult-discriminating-mcqs.md) — related
+- [In the one human-vs-LLM comparison, human-written MCQs outperformed ChatGPT-generated MCQs in quality and validity, while AI was far faster](humans-outperform-chatgpt-mcq-quality.md) — possibly the same claim (merge candidate)

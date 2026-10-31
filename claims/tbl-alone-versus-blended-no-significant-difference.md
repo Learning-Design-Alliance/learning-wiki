@@ -60,3 +60,10 @@ Subgroup analysis of theoretical knowledge scores by intervention method (TBL al
 - [TBL students show significantly higher classroom engagement than LBL students](tbl-higher-engagement-than-lbl.md) — related
 - [TBL students show significantly higher knowledge retention than LBL students](tbl-higher-knowledge-retention-than-lbl.md) — related
 - [Team-based learning outperforms LBL in improving practical test scores of internal medicine residents](tbl-outperforms-lbl-practical-scores-residents.md) — related
+- [AI-powered PBL/CBL outperforms traditional lectures for knowledge acquisition, but shows no significant advantage over AI-free PBL/CBL](ai-pbl-cbl-knowledge-subgroups.md) — related
+- [Blended BOPPPS teaching is associated with higher practical skills scores than LBL](blended-boppps-higher-practice-scores.md) — related
+- [In Chinese neurology training, CBL, PBL, TBL, FCM and EBM each significantly improve theoretical exam scores compared with lecture-based learning](nma-modern-methods-beat-lbl-theoretical-neurology.md) — related
+- [PBL-CBL outperforms LBL on subjective comprehensive competencies including self-learning, interest, efficiency, clinical thinking, teamwork, and communication](pbl-cbl-subjective-competencies-orthopedics.md) — related
+- [TBL produces significantly higher theoretical test scores than PBL in medical education (SMD = 0.37)](tbl-higher-theoretical-test-scores-than-pbl.md) — related
+- [Team formation and size are the most studied TBL elements, with smaller team sizes linked to better content knowledge outcomes](tbl-team-size-formation-most-studied.md) — related
+- [Insufficient evidence exists to compare TBL with other active learning methods](tbl-vs-active-methods-insufficient-evidence.md) — related

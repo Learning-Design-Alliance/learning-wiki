@@ -57,3 +57,6 @@ Random‐effects proportional meta‐analysis of 41 articles comprising 207 prop
 - [Newer LLM versions generally outperformed older versions on dental examination questions](newer-llms-outperform-older-dental-exams.md) — a narrower finding that bears on this claim
 - [GPT-3.5 achieves an integrated accuracy of 54% on dental licensing examinations](gpt-3-5-integrated-accuracy-54-percent-dental-licensing.md) — related
 - [LLMs perform worse on dental licensing examinations than on medical licensing examinations](llms-perform-worse-dental-than-medical-licensing-exams.md) — related
+- [GPT-4 achieves a pooled MCQ accuracy of 81% on medical licensing examinations, significantly surpassing GPT-3.5's 58%](gpt4-81-percent-pooled-accuracy-surpasses-gpt35.md) — related
+- [ChatGPT's accuracy on image-based MCQs ranged from 13.1% to 100% across studies, and it performed significantly worse on open-ended questions than on MCQs](image-mcq-and-open-ended-question-performance.md) — related
+- [Any type of prompt significantly improved performance for both GPT-3.5 (68% vs 54%, P=.03) and GPT-4 (85% vs 79%, P<.01)](prompts-improve-chatgpt-exam-accuracy.md) — related

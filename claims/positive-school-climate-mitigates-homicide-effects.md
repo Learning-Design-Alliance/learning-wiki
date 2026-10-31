@@ -55,3 +55,4 @@ OLS regressions related 5Essentials survey measures of school climate and organi
 - [Meaningful family and community engagement is associated with reduced absenteeism, improved academic outcomes, and more positive school climates](family-community-engagement-positive-outcomes.md) — related
 - [A positive school climate improves academic achievement and reduces the negative effects of poverty on achievement](positive-school-climate-improves-achievement.md) — related
 - [Homicides of school-aged children are far less likely to occur on school grounds than elsewhere](school-homicides-less-likely-on-school-grounds.md)
+- [School climate correlates positively with academic achievement in included Indian studies, with reported correlations of 0.637 and 0.55 and higher grades in strong learning climates](school-climate-academic-achievement-correlations-india.md) — related

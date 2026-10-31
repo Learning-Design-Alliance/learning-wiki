@@ -18,7 +18,7 @@ sources:
 # Procedural Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 36 claims (20 for, 15 mixed, 1 against) · 53 studies (25 causal, 12 review, 7 quant-synthesis, 7 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 4 of 53 report an effect size · 26 claims rest on one study
+> **Evidence** · 37 claims (21 for, 15 mixed, 1 against) · 54 studies (25 causal, 12 review, 8 quant-synthesis, 7 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 5 of 54 report an effect size · 27 claims rest on one study
 
 ## Conditional relationship
 
@@ -161,6 +161,7 @@ Accuracy with help, unaided accuracy, speed, delayed retention, choice among pro
 - [Learning curves: residents require roughly 45–90 attempts to achieve competency in neuraxial procedures](../claims/learning-curve-attempts-neuraxial-competency.md) [~W]
 - [Supervised resident training reduced operative time after 30–50 cases, approximating senior benchmarks](../claims/supervised-resident-training-reduces-operative-time-30-50-cases.md) [+W]
 - [Feedback-oriented and interactive instructional methods are associated with improvements in clinical reasoning, procedural skills, and learner confidence in orthodontic postgraduate education](../claims/feedback-oriented-interactive-methods-improve-orthodontic-clinical-competence.md) [+W]
+- [Instructor supervision during procedures is associated with higher clinical practice competency (AOR = 2.97)](../claims/instructor-following-procedure-associated-competency-ethiopia.md) [+W]
 
 ## Related Principles
 - [Explicit Instruction](direct-instruction.md) — often supplies the visible model and sequence that procedural learning needs

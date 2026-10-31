@@ -51,6 +51,7 @@ The review's concluding recommendation is that among the heterogeneity of teachi
 ## Related Strategies
 
 - [Select feedback technology to match the learner population, setting and learning objective, and reinforce with spaced booster training](match-feedback-device-to-context-plus-booster-training.md)
+- [Design high-quality simulation and metaverse content with alignment to learning objectives, interactivity, and developmentally integrated deliberate practice from basic to advanced skills](metaverse-content-quality-design-strategy.md)
 
 ## Examples
 -

@@ -48,6 +48,7 @@ The article recommends incorporating reliability evaluation and quality evaluati
 
 - [Incorporate learning context external to the chat into future scaffolding benchmarks, rubrics, and alignment datasets](incorporate-learning-context-into-scaffolding-benchmarks.md)
 - [Integrate GPT models into LA-supported feedback systems with an iterative instructor-student validation loop to improve reliability](iterative-validation-loop-gpt-feedback-systems.md)
+- [Use Chain-of-Thought and Tree-of-Thought prompting to mitigate hallucination and weak complex reasoning in LLMs used for learning](cot-tot-prompting-mitigate-llm-hallucination.md)
 
 ## Examples
 -

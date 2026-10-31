@@ -47,3 +47,4 @@ Exploratory random-effects meta-analysis (JASP) of correlation-based studies, Fi
 ## Related Claims
 - [Most included MENA studies report a negative association between PSMU and academic performance, with none reporting a positive one](psmu-ap-negative-association-mena-review.md) — related
 - [Higher PSMU independently predicts lower odds of high academic performance after confounder adjustment](psmu-independent-predictor-lower-ap-or.md) — related
+- [Problematic smartphone use shows a small negative pooled correlation with academic achievement (r = −0.110)](psu-negative-small-correlation-academic-achievement.md) — related

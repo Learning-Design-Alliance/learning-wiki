@@ -29,7 +29,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 78 claims (22 for, 51 mixed, 5 against) · 55 studies (16 causal, 12 quant-synthesis, 10 review, 7 theoretical, 5 qualitative, 3 design, 2 associational), `q1`–`q4` · 11 of 55 report an effect size · 73 claims rest on one study
+> **Evidence** · 96 claims (29 for, 61 mixed, 6 against) · 63 studies (20 quant-synthesis, 16 causal, 10 review, 7 theoretical, 5 qualitative, 3 design, 2 associational), `q1`–`q4` · 14 of 63 report an effect size · 91 claims rest on one study
 
 ## Description and scope
 
@@ -137,6 +137,8 @@ The twelve claims listed here before that wave were read against the model on 20
 - [PBL and conventional instruction produce similar learning outcomes in postgraduate medical education (pooled mean difference 0.13%, 95% CI -6.74 to 7.00)](../claims/pbl-similar-learning-outcomes-pgme.md) [~W] — attached 2026-10-31 from Mensour Emma A et al. (2025), which proposed "PGME programs should consider incorporating PBL into curricula for its satisfaction and behavioural benefits at no detriment to knowledge acquisition"; tests this page's relationship.
 - [PBL is associated with improved trainee satisfaction in PGME (8 of 12 reaction studies reported high satisfaction)](../claims/pbl-improves-resident-satisfaction.md) [+W] — attached 2026-10-31 from Mensour Emma A et al. (2025), which proposed "PGME programs should consider incorporating PBL into curricula for its satisfaction and behavioural benefits at no detriment to knowledge acquisition"; tests this page's relationship.
 - [PBL is associated with improved self-reported behavioural outcomes in PGME residents](../claims/pbl-improves-self-reported-behaviours.md) [+W] — attached 2026-10-31 from Mensour Emma A et al. (2025), which proposed "PGME programs should consider incorporating PBL into curricula for its satisfaction and behavioural benefits at no detriment to knowledge acquisition"; tests this page's relationship.
+- [In first-year medical students, PBL showed no significant difference from non-PBL teaching in critical thinking, problem-solving, or self-directed learning](../claims/pbl-null-first-year-medical-students.md) [~W] — attached 2026-10-31 from Ge Wei-Li et al. (2025), which proposed "Introduce organized learning early in the curriculum and gradually expand active, self-directed learning as students master foundational knowledge"; tests this page's relationship.
+- [3D-PBL is the most effective orthopedic teaching method across all measured outcomes in Chinese undergraduate and postgraduate education](../claims/3d-pbl-most-effective-orthopedic-teaching-china.md) [+W] — attached 2026-10-31 from Gu Peng et al. (2026), which proposed "Educational institutions should adopt 3D-PBL and invest in 3D-technology teacher training, practical teaching platforms, and diversified evaluation"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 
@@ -170,6 +172,22 @@ This pattern is scoped to problem-centred units in which an explicit consolidati
 - [3D + PBL improves excellent theoretical grades in orthopedic education](../claims/3d-pbl-improves-excellent-theoretical-grades.md) [~W]
 - [Problem-based learning in orthodontic postgraduate education enhances student engagement and understanding](../claims/problem-based-learning-enhances-orthodontic-engagement.md) [+W]
 - [Cluster analysis identifies PBL + WeChat, TBL and CBL + WeChat as most promising for theoretical and practical performance with low dissatisfaction](../claims/cluster-analysis-pbl-wechat-tbl-cbl-wechat-most-promising.md) [+W]
+- [3D-PBL showed the greatest improvement in self-directed learning ability versus lecture-based learning, rated high-quality evidence](../claims/3d-pbl-greatest-self-directed-learning-gains.md) [+W]
+- [AI-powered PBL/CBL shows favourable but heterogeneous effects on clinical reasoning capability that could not be statistically pooled](../claims/ai-pbl-cbl-clinical-reasoning.md) [~W]
+- [AI-powered PBL/CBL significantly improves students' knowledge acquisition compared with PBL/CBL without AI or traditional lectures](../claims/ai-pbl-cbl-improves-knowledge-acquisition.md) [~W]
+- [3D-PBL showed the greatest improvement in communication skills versus lecture-based learning, rated high-quality evidence](../claims/3d-pbl-greatest-communication-skills-gains.md) [+W]
+- [Evidence for AI-powered PBL/CBL is limited: small study count, some concerns risk of bias, and no long-term effectiveness data](../claims/ai-pbl-cbl-evidence-limitations.md) [~W]
+- [Pooled PBL-CBL versus LBL estimates show high heterogeneity and publication bias but remain robust in sensitivity and trim-and-fill analyses](../claims/pbl-cbl-meta-heterogeneity-publication-bias.md) [~W]
+- [Subgroup results: CBL ranks best for clinical curricula and across educational backgrounds, while PBL ranks best for basic courses, developing countries, and operational skills](../claims/nma-subgroup-cbl-clinical-pbl-basic.md) [~W]
+- [In the RCT, PBL students obtained significantly better final exam grades than LBL students, but the meta-analysis found no significant final-exam difference](../claims/pbl-final-exam-rct-vs-meta-analysis-discrepancy.md) [~W]
+- [PBL students reported significantly higher satisfaction and interest in the course than LBL students](../claims/pbl-higher-satisfaction-interest.md) [+W]
+- [PBL-CBL produces significantly higher practical skills scores than LBL in orthopedic education](../claims/pbl-cbl-higher-practical-skills-orthopedics.md) [+W]
+- [More PBL than LBL students report satisfaction with improved thinking ability (RR = 1.42)](../claims/pbl-satisfaction-thinking-ability.md) [+W]
+- [For practical skills examination scores in TACE teaching, PBL combined with TBL ranked best, followed by PBL alone](../claims/pbl-tbl-best-practical-skills-scores-tace.md) [~W]
+- [More PBL than LBL students report satisfaction with improved self-study ability (RR = 1.44)](../claims/pbl-satisfaction-self-study-ability.md) [+W]
+- [PBL students gave positive feedback on the implementation of PBL in a nine-question Likert survey](../claims/pbl-positive-student-feedback-survey.md) [~W]
+- [For learning interest and learning efficiency in TACE teaching, PBL combined with TBL ranked best, followed by PBL combined with CBL](../claims/pbl-tbl-best-learning-interest-efficiency-tace.md) [~W]
+- [SBL is the highest-ranked strategy for medical students' satisfaction, significantly exceeding PBL and TBL as well as LBL](../claims/sbl-highest-ranked-student-satisfaction-nma.md) [-W]
 
 ## Related Patterns
 - [Anchored Instruction](anchored-instruction.md)

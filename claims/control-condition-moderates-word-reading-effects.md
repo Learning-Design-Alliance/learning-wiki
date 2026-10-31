@@ -49,3 +49,4 @@ Control-condition moderator analysis in the meta-analysis of 67 studies; the rev
 - [Against no-treatment controls, ITS produce a large statistically significant effect (g = 1.23) under a random-effects model](its-versus-no-treatment-controls-g-1-23.md) — related
 - [Intervention effect sizes are moderated by treatment length, subword-level criterion variables, and speeded tests](word-reading-intervention-moderators-length-speeded.md) — related
 - [Formative assessment shows positive effects on learning, with d = 0.32 in regular classrooms](formative-assessment-d-032.md) — related
+- [Studies using pure control groups showed larger effect sizes than studies using education-as-usual controls](pure-control-larger-effects-education-as-usual.md) — reports the opposite

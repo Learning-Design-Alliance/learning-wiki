@@ -83,3 +83,5 @@ Simple main effects follow-up from the same ANCOVA study, reported in the Result
 - [Girls in the online E-5C-guided clubs showed significant pretest-to-posttest gains in creativity, critical thinking, and overall computational thinking, but not in algorithmic thinking, cooperativity, or problem solving](e5c-ct-survey-significant-gains.md) — related
 - [The systematically designed learning environment did not produce a significantly greater pretest–posttest improvement in domain-general CT than regular instruction](first-principles-no-domain-general-ct-gain.md) — related
 - [After playing Factory Craft, middle school students showed no statistically significant overall gain in computational thinking competency](gbl-no-overall-ct-competency-gain.md) — related
+- [AI-powered PBL/CBL outperforms traditional lectures for knowledge acquisition, but shows no significant advantage over AI-free PBL/CBL](ai-pbl-cbl-knowledge-subgroups.md) — related
+- [PBL improves EFL students' critical thinking disposition, creativity, and language scores, with noted gender differences](pbl-improves-efl-critical-thinking.md) — related

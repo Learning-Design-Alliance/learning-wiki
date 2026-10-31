@@ -55,3 +55,4 @@ Synthesis of barriers across the 25 included studies. The review reports that "h
 - [Twenty-five studies were included identifying 15 core characteristics of nurse managers' decision-making competency](scoping-review-25-studies-15-characteristics.md) — related
 - [Prolonged or overwhelming stress disrupts self-regulation development by physically changing brain wiring toward emotional reactivity](toxic-stress-disrupts-self-regulation-development.md) — related
 - [Contextual resource constraints in low- and middle-income settings may limit implementation of structured, feedback-intensive clinical teaching models](resource-constraints-limit-model-transferability.md) — related
+- [Inducing a high-stress environment during healthcare simulation is generally associated with impaired performance](high-stress-simulation-impairs-performance.md) — a narrower finding that bears on this claim

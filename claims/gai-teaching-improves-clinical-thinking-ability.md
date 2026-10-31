@@ -54,3 +54,5 @@ Random-effects meta-analysis of 14 continuous-variable studies (I2 = 85%) and fi
 - [GAI-assisted teaching significantly improves knowledge examination scores in medical students compared with traditional teaching (SMD = 0.95)](gai-teaching-improves-knowledge-scores-medical-students.md) — related
 - [GAI-assisted teaching significantly improves practical examination scores in medical students compared with traditional teaching (SMD = 1.48)](gai-teaching-improves-practical-scores-medical-students.md) — related
 - [GenAI does not significantly improve clinical skills of clinical medicine students compared with traditional teaching](genai-no-clinical-skill-gain-clinical-medicine-students.md) — related
+- [BOPPPS teaching improves clinical thinking ability compared with traditional teaching](boppps-improves-clinical-thinking-ability.md) — related
+- [VR-based teaching improves clinical understanding and clinical thinking ability more than traditional teaching](vr-clinical-understanding-thinking.md) — related

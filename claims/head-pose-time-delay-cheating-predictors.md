@@ -52,3 +52,4 @@ Reviewed study (Chuang et al.) with 42 US undergraduates in learning sessions, o
 - [Remote proctoring is perceived as an effective deterrent against cheating in nursing assessments, with 98–100% of graduate NP students agreeing webcam proctoring and lockdown browsers deterred cheating](remote-proctoring-perceived-deterrent-nursing.md) — related
 - [Head and eye movements increase over time and with task difficulty during computer-based learning sessions.](head-eye-movements-increase-time-difficulty.md) — related
 - [The decision to cheat is influenced by perceived monitoring and likelihood of getting caught rather than severity of punishment](cheating-decision-perceived-surveillance-and-catch-likelihood.md) — related
+- [Proctoring effects on exam performance are mixed, and technical difficulties and cheating were reported in open-book online exams](proctoring-technical-cheating-mixed-findings.md) — related

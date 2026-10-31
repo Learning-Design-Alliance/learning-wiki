@@ -56,6 +56,7 @@ The review recommends strengthening the evidence base through "more rigorous RCT
 - [Use cluster randomized clinical trials and blinded simulation-based behavior assessment to strengthen NTS training evidence](cluster-rct-blinded-simulation-assessment-nts.md)
 - [Engage target learners to identify needs before designing XR educational tools](engage-learners-before-xr-tool-design.md)
 - [Future simulation research should use rigorous designs, standardized tools, and transparent reporting](strategy-rigorous-simulation-research-design.md)
+- [Prioritize rigorous VR training studies with larger samples, validated outcome measures, immersive designs, and LLM integration in mental health education research](future-vr-mental-health-research-recommendations.md)
 
 ## Examples
 -

@@ -80,3 +80,4 @@ RQ3 thematic analysis of focus groups reports these output-quality concerns; par
 - [IDs expressed quality concerns over GenAI-generated content, including bias, inaccuracy, hallucinations, and lack of authenticity](genai-quality-concerns-bias-hallucination.md) — related
 - [Students broadly endorse LLMs as educational aids (74% positive) while 61% raise integrity concerns, 59% cite hallucination risk, and 82% report no institutional guidance](student-llm-perceptions-no-guidance-majority.md) — related
 - [Faculty hold more tempered views of LLMs than students (51% vs 74% positive), centred on clinical reasoning development and content reliability](faculty-student-perception-gap-llms.md) — related
+- [Hallucination, fabrication and reduced explanation accuracy limit ChatGPT's potential as a medical learning tool](hallucination-and-explanation-accuracy-limit-chatgpt-learning-tool.md) — related

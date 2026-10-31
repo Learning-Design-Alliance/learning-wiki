@@ -58,3 +58,4 @@ Univariate ANOVAs across TEDS continuous variables; the article reports sex expl
 - [Male secondary students report higher self-efficacy than female students after learning from video modeling examples, without higher performance](male-students-higher-self-efficacy-video-modeling.md) — related
 - [Maths interest in adolescence is a significant independent predictor of STEM career choice in emerging adulthood, for both males and females, including after adjusting for maths achievement and SES](maths-interest-predicts-stem-career-choice.md) — related
 - [Female students report higher job finding anxiety, AI anxiety, and negative AI attitudes than male students](female-students-higher-ai-and-job-anxiety.md) — related
+- [Male students reported higher confidence in using VR simulation technology independently than female students](gender-gap-vr-confidence-orthodontics.md) — related

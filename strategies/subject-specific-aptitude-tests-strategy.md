@@ -44,6 +44,7 @@ Given the low intercorrelations among school subjects, the article recommends at
 ## Related Strategies
 
 - [Standardize handwriting-interpretation tests before using them as measures of form- or position-perception](standardize-handwriting-interpretation-tests.md)
+- [When using aptitude tests for selection, consider each subtest component separately and weight components by their known predictive power and curriculum emphases](weight-aptitude-subtests-separately-in-selection.md)
 
 ## Examples
 -

@@ -48,6 +48,7 @@ For researchers studying SRL scaffolds, the article recommends methodological ch
 - [Rigorously compare PBL with traditional methods before broad PGME implementation, using larger samples, controls, and follow-up](compare-pbl-traditional-methods-before-pgme-implementation.md)
 - [Future active-learning research should use randomised controlled designs with larger samples and standardised outcome measures](rigorous-rct-design-future-active-learning-research.md)
 - [Conduct large-scale, well-designed RCTs with multiple outcome indicators to evaluate new teaching methods](large-scale-rcts-multiple-outcome-indicators-teaching-methods.md)
+- [Methodological recommendations for future clinical reasoning education studies: report effect sizes with confidence intervals, control confounders, use ITT analysis, and determine MCID](clinical-reasoning-study-methodology-recommendations.md)
 
 ## Examples
 -

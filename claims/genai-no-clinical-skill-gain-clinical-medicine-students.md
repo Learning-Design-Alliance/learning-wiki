@@ -51,3 +51,4 @@ Meta-analysis of 9 controlled studies (n = 726 clinical medicine students) pooli
 - [GenAI does not significantly improve knowledge exam scores of clinical medicine students compared with traditional teaching, with high heterogeneity](genai-no-knowledge-gain-clinical-medicine-students.md) — related
 - [GAI-assisted teaching significantly improves clinical thinking ability compared with traditional teaching (SMD = 1.18; OR = 10.97)](gai-teaching-improves-clinical-thinking-ability.md) — related
 - Single studies drive the null findings for knowledge and clinical skills: removing Bhatia 2024 or Briones-Zamora 2026 restores significance — reports the opposite
+- [GAI-based teaching and traditional teaching produce comparable knowledge acquisition scores in medical students](gai-traditional-comparable-knowledge-acquisition.md) — related

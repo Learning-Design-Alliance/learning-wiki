@@ -53,3 +53,8 @@ Meta-analysis of 15 RCTs with 1237 students (619 TBL, 618 LBL) using a random-ef
 - [TBL students show significantly higher knowledge retention than LBL students](tbl-higher-knowledge-retention-than-lbl.md) — related
 - [TBL students achieve significantly higher post-test final scores than LBL students in medical education](tbl-higher-post-test-scores-than-lbl.md) — a broader claim this one bears on
 - [TBL students achieve significantly higher pre-test scores than LBL students after team-based preparation](tbl-higher-pre-test-scores-than-lbl.md) — related
+- [Blended teaching (TBL plus feedback and reflection) outperformed traditional bedside teaching on clinical reasoning performance](blended-teaching-tbl-feedback-reflection-beats-bedside-teaching.md) — related
+- [Freshmen, academically weaker students, undergraduates, Chinese female students and nursing students appear to benefit most from TBL](tbl-beneficiary-groups.md) — related
+- [TBL produces significantly higher theoretical test scores than PBL in medical education (SMD = 0.37)](tbl-higher-theoretical-test-scores-than-pbl.md) — related
+- [TBL shows favorable outcomes for clinical performance, skills and learner engagement](tbl-performance-engagement-favorable.md) — a broader claim this one bears on
+- [Insufficient evidence exists to compare TBL with other active learning methods](tbl-vs-active-methods-insufficient-evidence.md) — related

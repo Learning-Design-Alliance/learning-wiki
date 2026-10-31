@@ -53,6 +53,8 @@ The review recommends that future research prioritize standardized and validated
 - [Use cluster randomized clinical trials and blinded simulation-based behavior assessment to strengthen NTS training evidence](cluster-rct-blinded-simulation-assessment-nts.md)
 - [Prioritize multicenter, randomized designs with standardized reporting and longitudinal follow-up in future surgical education research](prioritize-multicenter-randomized-standardized-reporting-research.md)
 - [Future simulation research should use rigorous designs, standardized tools, and transparent reporting](strategy-rigorous-simulation-research-design.md)
+- [Improve SBE reporting detail and involve LMIC perspectives in developing future reporting standards](improve-sbe-reporting-lmic-inclusive-standards.md)
+- [Prioritise longitudinal research and cost analysis when evaluating digital clinical skills modalities](longitudinal-cost-research-digital-clinical-skills.md)
 
 ## Examples
 -

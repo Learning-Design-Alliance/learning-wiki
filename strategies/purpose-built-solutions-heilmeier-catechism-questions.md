@@ -43,6 +43,7 @@ Teams should identify use cases that fit the solution being designed and collect
 
 - [Preliminary Data Collection](preliminary_data_collection.md)
 - [Inclusive Innovation Process](inclusive_innovation_process.md)
+- [Conduct stakeholder analysis before implementing a national competency framework](stakeholder-analysis-before-framework-implementation.md)
 
 ## Examples
 -

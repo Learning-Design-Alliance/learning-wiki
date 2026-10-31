@@ -13,7 +13,7 @@ generated:
 # Emotional Intelligence
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 65 claims (43 show a difference, 14 mixed, 8 no difference) · 43 studies (13 review, 12 causal, 9 associational, 7 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q4` · 11 of 43 report an effect size · 64 claims rest on one study
+> **Evidence** · 68 claims (45 show a difference, 15 mixed, 8 no difference) · 46 studies (14 review, 12 causal, 9 quant-synthesis, 9 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 12 of 46 report an effect size · 67 claims rest on one study
 
 ## Description
 Emotional intelligence is the ability to perceive emotions accurately, use them to support thinking, understand them and manage them. It is measured either as an ability (performance tests) or as a self-reported trait. It correlates with academic achievement, more strongly in the humanities than in STEM subjects, and overlaps with [affect regulation](affect-regulation.md) and with social-emotional skills that programmes aim to build.
@@ -101,6 +101,9 @@ Emotional intelligence is the ability to perceive emotions accurately, use them 
 - [Intrinsic motivation, resilience, emotional intelligence, and perceived social support show mostly positive associations with academic performance in medical students](../claims/protective-psychosocial-factors-positive-association-medical-students.md) [+W] — learners who differ on it differ in outcomes
 - [Single-study affective outcomes show mixed results: contrasting communication competency findings, greater emotional intelligence and stress reduction gains, and no significant cognitive load increase](../claims/ivr-single-study-affective-outcomes-mixed.md) [~W] — instruction changes it
 - [Work context, via acute stress and cognitive load, is a major moderator of emotional competence's impact on clinical reasoning](../claims/work-context-acute-stress-moderates-ec-cr.md) [~W] — learners who differ on it differ in outcomes
+- [Emotional intelligence is positively correlated with student achievement (pooled r = 0.50)](../claims/emotional-intelligence-correlated-student-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Non-technical skill outcomes of TBL are mixed, with positive findings for communication, decision-making, self-study and emotional intelligence](../claims/tbl-non-technical-skills-mixed.md) [~M] — instruction changes it
+- [TBL is associated with improved teamwork measures, including higher team emotional intelligence after clerkship and improved perceived value of team work](../claims/tbl-clinical-teamwork-emotional-intelligence-gains.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

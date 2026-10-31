@@ -48,7 +48,8 @@ The review recommends integrating "validated assessment tools early in surgical 
 - [Validity evidence for data-driven assessment tools relies predominantly on construct validity, with 11 of 35 studies using unvalidated tools](../claims/validity-evidence-construct-dominant-unvalidated-tools.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Prioritize predictive-validity research, benchmarking of existing tools, and integration of kinematic data and AI in surgical skill assessment](future-migs-assessment-kinematic-ai-benchmarking.md)
 
 ## Examples
 -

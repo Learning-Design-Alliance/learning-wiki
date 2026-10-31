@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 149 claims (99 show a difference, 34 mixed, 16 no difference) · 110 studies (36 review, 26 associational, 18 causal, 14 quant-synthesis, 7 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 30 of 110 report an effect size · 145 claims rest on one study
+> **Evidence** · 151 claims (101 show a difference, 34 mixed, 16 no difference) · 112 studies (37 review, 26 associational, 18 causal, 15 quant-synthesis, 7 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 31 of 112 report an effect size · 147 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -190,6 +190,8 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [Simulation-based interventions produce a small but statistically significant improvement in nursing students' empathy](../claims/simulation-small-significant-empathy-gain.md) [+M] — instruction changes it
 - [Virtual patient interventions improved medical students' empathy in all 19 included studies, with effects reported immediately after intervention in 17 studies](../claims/vp-interventions-empathy-improvements-all-19-studies.md) [+W] — instruction changes it
 - [Early preclinical exposure group outperformed late exposure group on theory, OSCE communication, and empathy measures](../claims/epce-higher-theory-osce-empathy-scores.md) [+M] — instruction changes it
+- [Behavioural empathy interventions for physicians and medical students improve empathy skills with a moderate pooled effect (d = 0.50)](../claims/empathy-interventions-physicians-moderate-effect.md) [+M] — instruction changes it
+- [Interpersonal capabilities — building connectedness and seeking permission — foster trust and psychosocial safety in serious illness conversations](../claims/sic-interpersonal-connectedness-permission.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

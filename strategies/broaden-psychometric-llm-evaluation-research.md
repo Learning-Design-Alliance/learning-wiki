@@ -41,6 +41,7 @@ The authors' forward-looking recommendation for the emerging field of applying p
 
 - [Future improvements: real-world user studies, advanced student modeling, and spaced repetition](future-work-user-studies-student-modeling-spaced-repetition.md)
 - [Broaden measured outcomes beyond high-stakes assessments to include durable skills](broaden-outcomes-to-durable-skills.md)
+- [Future research should use broader question formats, non-English training data, and LLMs beyond ChatGPT](future-research-broader-questions-non-english-llms.md)
 
 ## Examples
 -

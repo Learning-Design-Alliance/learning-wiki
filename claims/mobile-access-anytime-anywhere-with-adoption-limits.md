@@ -54,3 +54,4 @@ The editor's framing statement introducing the special-issue responses to Joo et
 - [Institutional approval processes, privacy regulations, technology access, and limited classroom time constrained chatbot adoption beyond instructional value](institutional-privacy-practical-barriers-chatbot-adoption.md) — related
 - [Commercial games are attractive and accessible to game-based learning advocates but their pedagogical value is often not documented](commercial-games-pedagogical-value-undocumented.md) — related
 - [Digital game-based learning aligns most with practice/participation and belief/perception dimensions, while mobile-enabled learning leads access to assets](dgbl-leads-participation-perception-alignment.md) — related
+- [Friedman's prediction that training could occur anytime and anywhere has proven only partially true, as most simulation training still depends on dedicated centers with specialized equipment](space-dimension-partially-realized.md) — related

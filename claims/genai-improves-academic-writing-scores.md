@@ -69,3 +69,4 @@ Meta-analysis pooling academic writing scores for nursing students: one quasi-ex
 - [Nursing students show significant, homogeneous clinical skills benefit from GenAI (SMD = 0.98), and the overall clinical-skills effect differs between majors](genai-clinical-skills-nursing-significant-homogeneous.md) — related
 - [GenAI does not significantly improve clinical skills of clinical medicine students compared with traditional teaching](genai-no-clinical-skill-gain-clinical-medicine-students.md) — related
 - [GAI-assisted teaching significantly increases student satisfaction with teaching compared with traditional teaching (SMD = 1.52; OR = 5.58)](gai-teaching-increases-student-satisfaction.md) — related
+- [Digital teaching of clinical skills improves medical trainees' assessment outcomes compared with other formats, with a pooled mean difference of 1.93](digital-clinical-skills-teaching-assessment-outcome-md-1-93.md) — related

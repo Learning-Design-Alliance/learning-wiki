@@ -49,3 +49,4 @@ Moderator analysis classifying the 34 studies into randomized experiments (N=9) 
 - [Sample size does not significantly moderate the gloss effect: large studies (ES = 0.88) versus small studies (ES = 0.72) do not differ significantly](sample-size-not-significant-gloss-moderator.md) — related
 - [Program intensity is a significant moderator: high-duration gloss interventions yield larger effects (ES = 1.48) than low-duration ones (ES = 0.57)](program-intensity-moderates-gloss-effect.md) — related
 - [L2 proficiency level is a significant moderator: multiple glosses benefit intermediate and advanced learners more than elementary learners](proficiency-level-moderates-gloss-effect.md) — related
+- [Studies using pure control groups showed larger effect sizes than studies using education-as-usual controls](pure-control-larger-effects-education-as-usual.md) — related

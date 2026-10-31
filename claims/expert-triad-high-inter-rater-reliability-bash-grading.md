@@ -79,3 +79,4 @@ Inter-rater reliability analysis of the three instructors' independent blind gra
 - [Faculty calibration with instructional rubrics yields high inter-rater reliability, rising after repeated calibration](faculty-calibration-icc-rises-with-repeated-calibration.md) — related
 - [Rubrics enhance grading consistency and inter-rater reliability in dental education assessment](rubrics-enhance-grading-consistency-dental-education.md) — related
 - [Examiner training and standardization are the most recommended solutions, and structured/mock formats show improved inter-rater reliability (kappa > 0.70)](training-standardization-solutions.md) — related
+- [Inter-rater reliability of the ANTS system reached substantial agreement in most raters that reported it](ants-inter-rater-reliability-substantial.md) — related

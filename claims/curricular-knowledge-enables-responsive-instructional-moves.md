@@ -63,3 +63,4 @@ This is a single-institution, single-curriculum case study without a control gro
 - McKenney et al.'s ecological framework emphasizes knowing but not applying design knowledge — related
 - [Similar introductory lessons on the same topics were observed across grades separated by multiple years, indicating little curricular development](similar-lessons-across-grades-little-development.md) — related
 - [Fixed degree structures struggle to keep pace with evolving knowledge, leading to program proliferation with marginal differentiation](fixed-degrees-struggle-with-evolving-knowledge.md) — related
+- [Course feedback was consistently positive, and instructors made small iterative adjustments in response to each cohort's feedback](srss-course-feedback-iterative-adjustment.md) — related

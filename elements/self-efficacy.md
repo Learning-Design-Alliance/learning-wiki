@@ -13,7 +13,7 @@ generated:
 # Self Efficacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 99 claims (57 for, 37 mixed, 5 against) · 85 studies (37 associational, 22 causal, 15 review, 6 quant-synthesis, 4 design, 1 qualitative), `q1`–`q4` · 26 of 85 report an effect size · 94 claims rest on one study
+> **Evidence** · 100 claims (58 for, 37 mixed, 5 against) · 86 studies (37 associational, 22 causal, 15 review, 7 quant-synthesis, 4 design, 1 qualitative), `q1`–`q4` · 27 of 86 report an effect size · 95 claims rest on one study
 
 ## Description
 Self efficacy is a learner's belief in their capability to succeed at a specific task or domain, not a general sense of self-worth. It functions as a proximal driver of learning: learners with higher efficacy set more ambitious goals, persist longer through difficulty, and recover faster from failure [Bandura, 1997]. Because it is domain-specific and malleable, it is a design target rather than a fixed learner trait.
@@ -147,6 +147,7 @@ Instructional design shapes self efficacy primarily through the four sources Ban
 - [Men report higher computer self-efficacy, domain identification, knowledge, and motivation than women](../claims/gender-gaps-computer-self-efficacy-knowledge-motivation.md) [~W]
 - [Teachers' perceived utility-value of technology is associated with how often and how well they integrate it; self-efficacy showed no significant association with frequency, exploitation or task-specific quality](../claims/utility-value-predicts-tech-integration.md) [-W]
 - [IVR simulation significantly improves nursing students' self-efficacy but not satisfaction or confidence](../claims/ivr-improves-self-efficacy-not-satisfaction-confidence.md) [+W]
+- [Confidence during procedures and positive attitudes are associated with higher clinical practice competency (AOR = 2.70)](../claims/confidence-positive-attitude-associated-competency-ethiopia.md) [+W]
 
 ## The evidence by question
 

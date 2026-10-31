@@ -49,3 +49,4 @@ Narrative synthesis of five NEET-PG and three PLAB benchmark studies. The review
 - [GPT-4 examination accuracy is moderated by item type: multi-step vignettes (61–71%) and image-dependent items (48–63%) fall well below single-fact recall (83–88%)](gpt4-accuracy-item-type-moderators.md) — related
 - [GPT-4 achieves passing accuracy on USMLE Steps 1–3 (mean 86%), significantly exceeding GPT-3.5 (mean 56%)](gpt4-usme-passing-accuracy-exceeds-gpt35.md) — related
 - [LLMs, particularly GPT-4, can match or exceed medical students' examination performance](llms-match-or-exceed-medical-students-exam-performance.md) — related
+- [In the combined review analysis, ChatGPT-3.5 failed eight of nine UK postgraduate exams while ChatGPT-4 passed nine of eleven](chatgpt-4-passed-nine-of-eleven-postgraduate-exams.md) — related

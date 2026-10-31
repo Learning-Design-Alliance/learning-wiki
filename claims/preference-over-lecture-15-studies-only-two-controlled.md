@@ -55,3 +55,6 @@ Review synthesis of preference data across the 22 included studies; the preferen
 - [Team-based learning showed significantly higher performance than traditional learning in one included study](tbl-significantly-higher-performance-hossain.md) — related
 - [PBL is associated with improved trainee satisfaction in PGME (8 of 12 reaction studies reported high satisfaction)](pbl-improves-resident-satisfaction.md) — related
 - [Reported rheumatology teaching methods include lectures, PBL, inpatient service, shadowing, electives and patient educators](rheumatology-teaching-methods-included-studies.md) — related
+- [AI-powered PBL/CBL outperforms traditional lectures for knowledge acquisition, but shows no significant advantage over AI-free PBL/CBL](ai-pbl-cbl-knowledge-subgroups.md) — related
+- [Most health-education interventions did not examine the effectiveness of their teaching methods](most-interventions-no-effectiveness-examined.md) — related
+- [Insufficient evidence exists to compare TBL with other active learning methods](tbl-vs-active-methods-insufficient-evidence.md) — related

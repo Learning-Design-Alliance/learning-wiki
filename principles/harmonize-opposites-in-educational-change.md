@@ -35,7 +35,7 @@ sources:
 # Harmonize opposites: strike a balance between competing educational ideas rather than embracing one method wholesale
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 36 claims (25 for, 11 mixed) · 30 studies (9 review, 9 theoretical, 6 causal, 4 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 4 of 30 report an effect size · 34 claims rest on one study
+> **Evidence** · 37 claims (25 for, 12 mixed) · 31 studies (10 review, 9 theoretical, 6 causal, 4 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 4 of 31 report an effect size · 35 claims rest on one study
 
 ## Conditional relationship
 
@@ -165,6 +165,7 @@ Combining two methods, the share of time each gets, the order of the two, and th
 - [Loizzo and Ertmer propose combining c-MOOC and xMOOC designs to foster a flexible, learner-centered culture](../claims/combining-cmooc-xmooc-flexible-culture.md) [+W]
 - [The review reports that an AI-plus-faculty-guidance approach outperformed both AI-only and traditional teaching in ultrasonography training](../claims/faculty-guided-ai-outperformed-ai-only-ultrasonography.md) [+W]
 - [E-learning is an important adjunct to traditional learning methods in anaesthesia education](../claims/e-learning-adjunct-anaesthesia-education.md) [+W]
+- [Peer teaching effectiveness varies by ultrasound application and student prior knowledge, with faculty favored for complex applications and novices](../claims/peer-teaching-limits-complex-applications-novices.md) [~W]
 
 ## Related Principles
 

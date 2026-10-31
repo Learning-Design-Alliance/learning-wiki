@@ -70,3 +70,5 @@ The review's synthesis concludes that "the lack of standardized and validated me
 - Expert consensus-based methodologies, such as a modified Delphi process, were commonly used to develop robotic hysterectomy performance metrics. — related
 - [Included studies demonstrated mixed evidence of construct validity, with some metrics distinguishing skill levels but others failing to do so.](mixed-construct-validity-robotic-hysterectomy-metrics.md) — related
 - [Virtual reality simulator performance has limited correlation with intraoperative robotic hysterectomy performance.](weak-correlation-vr-simulator-intraoperative-performance.md) — related
+- [A systematic review of robotic surgery training identified 209 studies that included an assessment tool, out of 1591 records screened](209-studies-robotic-training-assessment-review.md) — related
+- [A systematic review of minimally invasive gynecological surgery identified 37 objective assessment tools across 72 included studies](37-assessment-tools-migs-systematic-review.md) — related

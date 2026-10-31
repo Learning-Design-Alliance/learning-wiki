@@ -50,6 +50,7 @@ The authors' planned feasibility programme for CBL within their own institution:
 
 - [Scaffold method choice by student progression: CBL early, transitioning to PBL and TBL](scaffold-cbl-early-transition-pbl-tbl.md)
 - [Keep sessions voluntary to identify less useful teaching; reserve mandatory attendance for crucial content](voluntary-attendance-utility-signal.md)
+- [Implement CBL successfully by ensuring pre-class preparation, authentic progressive cases, dual-competence facilitators, adequate time, and process-plus-outcome assessment](cbl-implementation-success-conditions.md)
 
 ## Examples
 -

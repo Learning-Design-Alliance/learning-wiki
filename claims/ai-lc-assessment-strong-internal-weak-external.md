@@ -90,3 +90,4 @@ The discussion notes that "AI-based CVS detection systems are the only tools to 
 - [Manual assessment tools have the largest body of validity evidence in laparoscopic cholecystectomy but show variable reliability and no links to patient outcomes](manual-tools-largest-evidence-base-no-outcomes.md) — related
 - [No objective assessment tool for laparoscopic cholecystectomy demonstrates comprehensive validity across all Messick domains, so no gold standard exists](no-gold-standard-lc-skill-assessment-tools.md) — a broader claim this one bears on
 - [Regulatory oversight by bodies such as the US FDA is presented as critical for fostering trust in AI among clinicians and patients](regulatory-oversight-fosters-trust-in-ai.md) — related
+- [No included study applied automated video metrics longitudinally to training or assessed non-technical skills](no-longitudinal-or-nontechnical-skill-application.md) — related

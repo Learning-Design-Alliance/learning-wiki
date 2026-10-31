@@ -59,3 +59,7 @@ Model-stratified subgroup analysis within the meta-analysis of 39 studies. Copil
 - [GPT-3.5 achieves an integrated accuracy of 54% on dental licensing examinations](gpt-3-5-integrated-accuracy-54-percent-dental-licensing.md) — related
 - [GPT-4 outperforms GPT-3.5 and Bard on dental licensing examinations, achieving an integrated accuracy of 72%](gpt-4-outperforms-gpt-3-5-and-bard-dental-licensing-accuracy.md) — related
 - [LLMs perform worse on dental licensing examinations than on medical licensing examinations](llms-perform-worse-dental-than-medical-licensing-exams.md) — related
+- [Included studies report ChatGPT-3.5 accuracy from 36% to 77% and GPT-4 accuracy from 64.4% to 100%](accuracy-ranges-35-versus-gpt4-studies.md) — related
+- [ChatGPT models achieve a pooled accuracy of 70.1% on national health licensing examinations](chatgpt-pooled-accuracy-70-percent-licensing-exams.md) — related
+- [GPT-4 achieves a pooled MCQ accuracy of 81% on medical licensing examinations, significantly surpassing GPT-3.5's 58%](gpt4-81-percent-pooled-accuracy-surpasses-gpt35.md) — related
+- [GPT-4 significantly outperforms ChatGPT-3.5 in accuracy on national health licensing examinations](gpt4-outperforms-chatgpt35-licensing-exams.md) — related

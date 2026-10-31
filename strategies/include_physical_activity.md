@@ -64,6 +64,7 @@ Single bouts of moderate physical activity acutely improve attention and executi
 - [Active Recess](../strategies/active-recess.md) — structured recess as a scheduled complement to in-class breaks
 - [Include opportunities for mini-breaks during lessons, such as drawing, music, games, stretching, or going outside](mini-breaks-during-lessons.md)
 - [Incorporate a 3-minute low-intensity exercise break about 20 minutes into university lessons](three-minute-slow-aerobics-class-break.md)
+- [Implement acute physical activity breaks of at least 10 minutes at moderate intensity with behavior change techniques](strategy-acute-pa-breaks-10min-moderate-with-bcts.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — movement can be the vehicle for retrieval practice, not just a reset

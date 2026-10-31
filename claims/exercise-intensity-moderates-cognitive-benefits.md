@@ -85,3 +85,4 @@ Narrative review describing a treadmill-walking study in individuals with Down s
 - [Executive functions in childhood benefit from moderate-to-vigorous intensity and aerobic physical activity interventions](mvpa-aerobic-pa-benefits-executive-functions.md) — related
 - [Mathematics outcomes benefit from PA with academic instruction of 6–10-week duration at moderate or moderate-to-vigorous intensity, and language outcomes from enriched PA programmes](pa-academic-instruction-benefits-maths-enriched-benefits-language.md) — related
 - [Greater exercise intensity, not merely increased frequency, is associated with larger academic gains](exercise-intensity-moderates-academic-gains.md) — related
+- [Age, setting, design, number of conditions, activity type, duration, intensity and test timing showed no significant moderation of acute physical activity effects on academic outcomes](no-significant-moderators-other-than-behavior-change-techniques.md) — reports the opposite

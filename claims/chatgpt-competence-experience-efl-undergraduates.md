@@ -51,3 +51,4 @@ Thematic analysis of semi-structured interviews (30–45 min) with 25 Malaysian 
 - [Students experience a perceived sense of support and connectedness through conversational ChatGPT interaction, though this is not genuine human relatedness](chatgpt-perceived-relatedness-support.md) — related
 - [Students report negative experiences with ChatGPT including inaccurate outputs, lack of emotional connection, and risk of overreliance, which constrain competence](chatgpt-negative-experiences-inaccuracy-overreliance.md) — related
 - [EFL proficiency significantly shapes chatbot interaction: high-proficiency learners over-engage in dialogue while low-proficiency learners over-rely on feedback requests](proficiency-shapes-chatbot-interaction.md) — related
+- [PBL improves EFL writing proficiency across nine reviewed studies, including essay, paragraph, and descriptive writing](pbl-improves-efl-writing-proficiency.md) — related

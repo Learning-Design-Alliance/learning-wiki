@@ -25,7 +25,7 @@ sources:
 # Debriefing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (17 for, 8 mixed, 1 against) · 42 studies (13 quant-synthesis, 11 causal, 9 review, 4 qualitative, 2 associational, 2 theoretical, 1 design), `q1`–`q4` · 9 of 42 report an effect size · 15 claims rest on one study
+> **Evidence** · 29 claims (20 for, 8 mixed, 1 against) · 45 studies (13 quant-synthesis, 12 review, 11 causal, 4 qualitative, 2 associational, 2 theoretical, 1 design), `q1`–`q4` · 9 of 45 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -133,6 +133,8 @@ Claims about debriefs or group reflection that the earlier page did not cite, an
 - [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and a substantial share of feedback effects are negative](../claims/feedback-improves-learning.md) [~S]: the general feedback claim behind step 8; the warning that over a third of feedback interventions made performance worse is the reason a debrief's feedback must carry usable information.
 - [Metacognitive prompts improve learning](../claims/metacognitive-prompts-improve-learning.md) [+M]: prompts to plan, monitor and evaluate in computer-based environments (g = 0.40), stronger when task-specific, adaptive and paired with feedback; used above only for the self-paced row.
 - [Video evidence in VAD increased participants' acceptance of feedback and its credibility, reducing disputes over whether critical observations were correct](../claims/video-evidence-increases-feedback-acceptance.md) [+W] — attached 2026-10-18 from Stefan A. Schreder et al. (2025), which proposed "Implement video-assisted debriefing with careful facilitation that balances positive and negative feedback to protect psychological safety".
+- [Structured briefing and debriefing were largely absent from studies showing stress-impaired performance, and may contribute to impaired outcomes](../claims/briefing-debriefing-absent-impaired-studies.md) [+W] — attached 2026-10-31 from Vage A et al. (2024), which proposed "Design simulation courses with structured briefing and debriefing and avoid relying on extensively stressful content as a learning tool".
+- [Participants perceive manikin death as reflecting inadequate resuscitation, but facilitator reassurance and debriefing resolve this](../claims/death-perceived-as-failure-mitigated-by-debrief.md) [+W] — attached 2026-10-31 from Apara Teleireoluwa et al. (2024), which proposed "Debriefs after paediatric manikin death need skilled facilitation with designated time for emotional and communication discussion"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -156,6 +158,7 @@ A good debrief conversation, a correct stated change, the next performance, dela
 - [Reflections immediately following the events of interest facilitate greater and more situated recall and precision](../claims/immediate-reflection-situated-recall.md) [+W]
 - [Debriefing presence shows a numerical trend toward stronger knowledge gains but the subgroup difference is not significant](../claims/ivr-debriefing-knowledge-subgroup-trend.md) [~W]
 - [Feedback and debriefing are the most important educational components of simulation-based learning in cardiac arrest education](../claims/feedback-debriefing-most-important-simulation-components.md) [+W]
+- [Post-assessment debriefing supported positive effects on non-technical skills ability in four studies](../claims/debriefing-positive-effect-on-nts-ability.md) [+W]
 
 ## Related Principles
 - [Purposeful Reflection](reflection.md) — debriefing is one of the most structured forms of reflection after action

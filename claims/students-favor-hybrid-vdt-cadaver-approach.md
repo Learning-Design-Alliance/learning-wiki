@@ -47,3 +47,5 @@ Perception study reported within the review: in Koney et al.'s survey after a fu
 ## Related Claims
 - [Student satisfaction with VDTs ranged from 64 to 95%, with preference for VDT-exclusive learning low (2.4–30.2%)](vdt-satisfaction-high-exclusive-preference-low.md) — a broader claim this one bears on
 - [Choice of anatomy teaching strategies depends on institutional resource availability, with well-equipped institutions combining traditional and modern approaches](anatomy-teaching-strategies-resource-dependent.md) — related
+- [First-year podiatry students felt unprepared for cadaver dissection and experienced significant negative reactions](cadaver-dissection-unprepared-negative-reactions.md) — related
+- [Students preferred e-models used alongside physical models, suggesting digital tools alone may not fully replace traditional methods](e-models-preferred-alongside-physical-models.md) — possibly the same claim (merge candidate)

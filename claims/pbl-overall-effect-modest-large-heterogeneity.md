@@ -71,3 +71,5 @@ Heterogeneity assessment in the re-analysis of Leary et al. (2013) data across 3
 - [Problem-based learning shows a large positive pooled effect on academic achievement (REM ES = 1.560), with heterogeneous study effects](pbl-large-positive-effect-academic-achievement.md) — reports the opposite
 - [AI-supported PBL cohorts produced sixteen student-authored peer-reviewed publications and consistently high peer evaluations](pbl-ai-sixteen-publications-high-peer-evaluations.md) — related
 - Effect sizes across the 38 comparisons are highly heterogeneous, requiring a random-effects model — related
+- [Included studies show high heterogeneity (I2 = 94.5%), addressed with random effects modelling and meta-regression](high-heterogeneity-si-ei-meta-analysis.md) — related
+- [Evidence for PBL effectiveness is rated low quality with considerable heterogeneity, attributed to instructor supervision, participant characteristics, and unstandardized assessment](pbl-evidence-low-quality-heterogeneous.md) — related

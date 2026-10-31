@@ -28,7 +28,8 @@ The article organizes computer-based scaffolding research along several coded di
 - [Scaffolding's effect was highest in project-based learning contexts; design-based learning was the only context not significantly greater than zero](../claims/project-based-context-highest-scaffolding-effect.md) [+M]
 
 ## Related Research Methods
--
+
+- [Taxonomy of clinical reasoning educational interventions by focus and case presentation](taxonomy-of-clinical-reasoning-educational-interventions-by-focus-and-case-presentation.md)
 
 ## Key Sources
 - Belland, B. R., Walker, A. E., Kim, N. J., & Lefler, M. (2017). Synthesizing Results From Empirical Research on Computer-Based Scaffolding in STEM Education: A Meta-Analysis. Review of Educational Research, 87(2), 309-344. https://doi.org/10.3102/0034654316670999

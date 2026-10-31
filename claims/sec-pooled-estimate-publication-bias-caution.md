@@ -55,3 +55,7 @@ Publication-bias assessment used publication status as a moderator, funnel plot 
 - The meta-analysis shows no publication bias (Begg-Mazumdar p = .196) and is resistant to it (fail-safe N = 463) — related
 - No evidence of publication bias in the SDL meta-analysis — related
 - Publication bias is present in the OSCE reliability literature, with funnel plot asymmetry detected by Egger's regression test (p < 0.001) — related
+- [The CBL exam-score advantage is robust to subgroup and leave-one-out sensitivity analyses but shows potential publication bias](cbl-exam-effect-robustness-publication-bias.md) — related
+- [No significant publication bias was detected for the knowledge and skill outcomes](no-publication-bias-sbl-endocrinology.md) — related
+- [Sensitivity analysis and funnel plots indicated the meta-analysis results were stable and free of significant publication bias](pbl-meta-analysis-stability-sensitivity.md) — reports the opposite
+- [The pooled PSU–achievement estimate is robust to outlier removal and shows no evidence of publication bias](psu-estimate-robust-no-publication-bias.md) — related

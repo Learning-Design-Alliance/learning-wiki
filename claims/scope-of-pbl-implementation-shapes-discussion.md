@@ -73,3 +73,4 @@ Same study, results section: the hybrid implementation had a countervailing enha
 - [Six contextual factors mediate the influence of cultural factors on discussion behaviors, either inhibiting or enhancing discussion](six-contextual-factors-mediate-discussion.md) — a broader claim this one bears on
 - [Student-centered education is feasible in different cultural contexts, but processes and outcomes are likely to differ across them](student-centered-education-feasible-across-cultures.md) — a broader claim this one bears on
 - [Behavior and contribution quality are shaped by platform incentives and features rather than self-reported motivations](platform-features-shape-behavior-and-quality.md) — related
+- [PBL approaches consistently enhance EFL student engagement, motivation, and active involvement in learning](pbl-enhances-efl-engagement-motivation.md) — related

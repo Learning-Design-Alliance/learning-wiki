@@ -51,3 +51,4 @@ Descriptive pre/post comparison in the Customized Co-Creation Layer using six sc
 - [Diagram-comprehension scores were already high before the treatment and showed no significant pre-to-post increase](visigarp-diagram-prepost-null.md) — related
 - [Client interviews suggest a recurring shift from treating AI as a passive answer machine (\"Oracle\") to engaging it as a collaborative tool under human direction (\"Process Partner\")](oracle-to-process-partner-shift.md) — related
 - [Retrospective pre/post confidence rose on all four course learning objectives with large rank-biserial effects (N=159)](retrospective-confidence-gains-me373.md) — related
+- [Participants in the Essential Searching Skills course showed increased pre-test to post-test confidence and knowledge on skills covered in the course](srss-course-pre-post-knowledge-gains.md) — related

@@ -53,3 +53,4 @@ Meta-analysis of four RCTs (N = 186) with a fixed-effect model found "students d
 - [3D + PBL improves theoretical scores in orthopedic education](3d-pbl-improves-theoretical-scores-orthopedics.md) — related
 - [3D + PBL improves understanding of orthopedic anatomical structures](3d-pbl-improves-understanding-orthopedic-anatomy.md) — related
 - [3D + PBL improves teaching satisfaction in orthopedic education](3d-pbl-improves-teaching-satisfaction-orthopedics.md) — related
+- [PBL shows no benefits for hands-on, communication, or self-directed learning skills and no advantage in operational skills for diagnostic imaging](pbl-no-benefit-hands-on-communication-self-directed.md) — reports the opposite

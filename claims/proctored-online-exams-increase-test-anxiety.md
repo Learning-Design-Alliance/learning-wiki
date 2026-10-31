@@ -107,3 +107,4 @@ Separate multi-level model on the same survey data comparing exam types. The stu
 - [Moving oral assessments online reduced required support staff hours from almost 8 days to 3 days](online-oral-assessments-reduced-staff-hours.md) — related
 - [Oral assessments can induce more anxiety than written ones, yet many students still prefer them](oral-assessments-anxiety-but-preferred.md) — related
 - [Poorly designed or misused assessment practices can harm students through increased anxiety, lost learning time, and deficit-based messages](poor-assessment-practices-harm-students-anxiety-lost-time.md) — a broader claim this one bears on
+- [Students prefer open-book exams, citing reduced stress and less intrusive oversight, and OBEs offer institutions logistical advantages](student-preference-and-logistical-advantages-of-obe.md) — related
