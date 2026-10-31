@@ -27,7 +27,7 @@ Each source is screened against the published [inclusion criteria](https://githu
 
 **Cannot catch.** A source that is in scope and badly done. Inclusion is about what a source is, not how good it is.
 
-**Coverage.** 8,843 sources reviewed: 8,599 ingested, 244 refused (out-of-scope 120, validation-error 99, uncoded 22, no-contributions-extracted 2, parse-error 1).
+**Coverage.** 10,818 sources reviewed: 8,599 ingested, 2,219 refused (out-of-scope 1,871, no-ingestable-content 207, validation-error 99, uncoded 22, opinion-piece 17, no-contributions-extracted 2, parse-error 1).
 
 ### 2. Extraction and structural validation
 
