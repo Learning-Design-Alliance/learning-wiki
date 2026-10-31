@@ -43,16 +43,9 @@ TEMPLATE = """<!doctype html>
 <title>{title} - Learning Design Wiki</title>
 <link rel="icon" href="{rel}branding/lda-monogram-dawn.svg" type="image/svg+xml">
 {css}
-<style>
-.lt-header{{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}}
-.lt-header a{{color:inherit;text-decoration:none;margin-right:.6rem}}
-.lt-header a:hover{{text-decoration:underline}}
-.lt-header form{{display:inline;float:right}}
-.lt-main{{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}}
-</style>
 </head>
 <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
-<script>try{{var s=new URL("{rel}"||".",location).pathname,p=JSON.parse(localStorage.getItem(s+".__palette"));if(p&&p.color){{for(var k of ["scheme","primary","accent"])if(p.color[k])document.body.setAttribute("data-md-color-"+k,p.color[k])}}}}catch(e){{}}</script>
+<script src="{rel}assets/javascripts/lt-palette.js" data-root="{rel}"></script>
 <header class="lt-header">
 <a class="lt-logo" href="{rel}"><img src="{rel}branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
 <a href="{rel}{folder}/">{label}</a>
@@ -75,6 +68,7 @@ def _init(site: str, css_paths: list, owned: set) -> None:
     import yaml
     import page_metadata
     page_metadata.LEGEND_URL = "../evidence-codes/"
+    page_metadata.COMPACT = True
     # The footer line is mkdocs.yml's `copyright`, so the two tiers carry the same one.
     footer = yaml.safe_load((ROOT / "mkdocs.yml").read_text(encoding="utf-8")).get("copyright", "")
     _state.update(site=Path(site), css=css_paths, owned=owned, yaml=yaml, pm=page_metadata, footer=footer,
@@ -221,6 +215,29 @@ def render_nav() -> None:
     out.write_text(NAV_JS % (dump(nav), dump(letters)), encoding="utf-8")
 
 
+# The style and the palette script every long-tail page shares, written once rather than inline on
+# each of tens of thousands of pages (about 1 KB a page; 2026-10-31, GitHub Pages size). The palette
+# script still runs synchronously at the top of <body>, so the saved scheme applies before paint.
+LT_CSS = """.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+"""
+LT_PALETTE_JS = ('try{var s=new URL(document.currentScript.dataset.root||".",location).pathname,'
+                 'p=JSON.parse(localStorage.getItem(s+".__palette"));if(p&&p.color){for(var k of '
+                 '["scheme","primary","accent"])if(p.color[k])document.body.setAttribute("data-md-color-"+k,'
+                 'p.color[k])}}catch(e){}\n')
+
+
+def render_assets() -> None:
+    site = _state["site"]
+    (site / "assets" / "stylesheets").mkdir(parents=True, exist_ok=True)
+    (site / "assets" / "javascripts").mkdir(parents=True, exist_ok=True)
+    (site / "assets" / "stylesheets" / "lt.css").write_text(LT_CSS, encoding="utf-8")
+    (site / "assets" / "javascripts" / "lt-palette.js").write_text(LT_PALETTE_JS, encoding="utf-8")
+
+
 def render_legend() -> None:
     """The one shared copy of the claim pages' evidence-code legend, open."""
     import textwrap
@@ -245,12 +262,13 @@ def main() -> None:
     site = Path(args.site)
     css = sorted(str(p.relative_to(site)) for p in (site / "assets" / "stylesheets").glob("main.*.min.css"))
     css += sorted(str(p.relative_to(site)) for p in (site / "assets" / "stylesheets").glob("palette.*.min.css"))
-    css += ["branding/lda-theme.css"]
+    css += ["branding/lda-theme.css", "assets/stylesheets/lt.css"]
     if not css[0].startswith("assets/"):
         sys.exit(f"no Material stylesheet in {site}/assets: run mkdocs build first")
     owned = sorted(two_tier.longtail(ROOT))
     _init(str(site), css, set(owned))
     assert "claims/evidence-codes" not in owned, "a claim's slug collides with the legend page"
+    render_assets()
     render_legend()
     render_nav()
     for folder in two_tier.LONGTAIL_FOLDERS:
