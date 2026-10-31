@@ -48,3 +48,4 @@ Study of middle and high school basketball players (Nasir, 1996, 2000) who solve
 
 - [The increase in students inventing their own ways of solving tasks was minor, but there was a marked increase in students agreeing the CCS tasks required inventing their own ideas](ccs-marked-increase-inventing-own-ideas.md) — related
 - [Problem order produced an order effect: solving basketball problems first improved performance on all problems, while school problems first lowered performance](basketball-problem-order-effect-on-performance.md)
+- [Worksheets have a positive effect on students' problem-solving skills, with a pooled effect size of 1.281 (very high level)](worksheets-positive-effect-problem-solving-meta-analysis.md) — related

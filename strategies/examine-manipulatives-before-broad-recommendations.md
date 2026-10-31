@@ -45,6 +45,7 @@ The commentary argues that coarse endorsements such as "manipulatives work" can 
 ## Related Strategies
 
 - [Adopt model-based reasoning to improve communication and implementation between researchers and practitioners](model-based-reasoning-research-practice-communication.md)
+- [Consider purchasing more inexpensive manipulative materials and reserving funds for higher-impact interventions](purchase-inexpensive-manipulatives-reserve-funds.md)
 
 ## Examples
 -

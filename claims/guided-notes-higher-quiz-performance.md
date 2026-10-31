@@ -48,3 +48,4 @@ The article reports a meta-analytic review of guided notes research including ei
 - [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](desirable-difficulties-enhance-learning.md) — related
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — related
 - [Practice testing yields transferrable learning relative to a nontesting reexposure control condition (d = 0.40)](testing-yields-transfer-versus-reexposure-control-d-040.md) — related
+- [Guided-notes effects do not differ significantly by research design, assessment type, or study source](guided-notes-null-moderators-design-assessment.md) — related

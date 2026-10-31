@@ -100,3 +100,4 @@ Ngo et al. (2024) support the general claim that ASR practice improves pronuncia
 - [Against no-treatment controls, ITS produce a large statistically significant effect (g = 1.23) under a random-effects model](its-versus-no-treatment-controls-g-1-23.md) — related
 - [Students reported significantly less difficulty with comprehensibility and accuracy of pronunciation between the first and final audio discussion activity](decreased-perceived-pronunciation-difficulty.md) — related
 - [Teachers attribute students' lack of pronunciation progress mainly to instruction and practice factors rather than learner factors](teachers-blame-instruction-over-learners-for-progress.md) — related
+- [The Korean meta-analysis's overall effect (.80) differs from Flower et al.'s (2007) near-zero finding, attributed to age, combined formats, and longer duration](korean-results-differ-from-flower-2007-attributed-age-format-duration.md) — related

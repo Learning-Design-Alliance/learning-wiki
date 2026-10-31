@@ -53,3 +53,4 @@ The article's problem-specification section reviews prior attempts at collecting
 - [One student group compared outputs across three LLMs and judged Gemini more accurate overall, though it still failed fine-grained distinctions](multi-llm-comparison-gemini-more-accurate.md) — related
 - [Research favors fine-grained knowledge components, but fine granularity brings practical costs that can outweigh better data fit](fine-granularity-knowledge-components-practical-costs.md) — related
 - [Students' stated interests are highly heterogeneous and fine-grained, with 226 unique interests spanning broad categories to individual athletes](gai-student-interest-heterogeneity-granularity.md) — related
+- [A meta-analysis of literature and policy sources yields climate resilience education ideas groupable into content, methods, goals and actions aligned with learning objectives](meta-analysis-groups-climate-resilience-education-into-content-methods-goals-actions.md) — related

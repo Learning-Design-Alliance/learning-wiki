@@ -89,3 +89,21 @@ Publication-bias assessment of the 21-study meta-analysis using a thesis-vs-arti
 - Formal tests find no substantial evidence of publication bias or small-study effects in the meta-analysis — related
 - Funnel-plot asymmetry suggests possible selection or publication bias, but p-curve analyses indicate evidential value for the pooled relationships — reports the opposite
 - [No evidence of publication bias was found for the overall effect of gamification on intrinsic motivation](gamification-meta-analysis-no-publication-bias.md) — related
+- [Publication bias tests indicate the meta-analysis results are reliable, with fail-safe N of 1930](arduino-meta-analysis-publication-bias-reliable.md) — related
+- [Fail-safe N analyses (Rosenthal N = 902.2; Orwin N = 140.0) indicate the meta-analytic result is robust to unpublished conflicting studies](came-fail-safe-n-robustness.md) — related
+- [Publication bias in the dataset is low and unimportant: Egger's test is non-significant and the trim-and-fill adjusted effect size (ES=.76) differs from the observed value by only about .02](clm-dataset-low-publication-bias.md) — related
+- [Funnel plot asymmetry indicates publication bias, lowering the bias-adjusted effect size to 0.642](constructivism-attitudes-publication-bias-funnel-plot.md) — reports the opposite
+- [The digital story meta-analysis is resistant to publication bias by fail-safe N and trim-and-fill tests](digital-story-meta-analysis-resistant-publication-bias.md) — related
+- [Publication bias is present and may inflate the overall hands-on effect size estimate](hands-on-publication-bias-inflates-estimate.md) — related
+- [Publication bias does not threaten the pooled effect estimates](integrated-instruction-publication-bias-robust.md) — related
+- [Diagnostic analyses show the pooled effect sizes for achievement, attitude and retention are robust and not attributable to publication bias](learning-styles-meta-analysis-no-publication-bias.md) — related
+- [Publication bias in the meta-analysis is low, as indicated by a fail-safe N of 4860 and funnel plot inspection.](low-publication-bias-failsafe-4860.md) — related
+- [Publication-bias analyses indicate a low, negligible risk of publication bias in the synthesized effect sizes](low-publication-bias-formative-assessment-meta-analysis.md) — related
+- [Publication bias due to small study effects was limited, and sensitivity analyses supported Winsorizing an outlying effect size](manipulatives-meta-publication-bias-limited.md) — related
+- [The pooled effect of multiple intelligence practices is resistant to publication bias](mi-effect-resistant-publication-bias.md) — related
+- [Publication-bias checks give mixed results: Egger's test indicates funnel-plot asymmetry while Trim and Fill and Fail-Safe N indicate no bias](mixed-publication-bias-evidence-meta-analysis.md) — related
+- [No publication bias is detected in the meta-analysis by rank correlation, regression, Fail-Safe N, and Trim and Fill checks](no-publication-bias-cooperative-learning-meta-analysis.md) — related
+- [Funnel-plot analyses showed no significant asymmetry, and the overall effect remained significant after removing outliers](no-significant-funnel-plot-asymmetry.md) — related
+- [The meta-analysis shows no publication bias (Begg-Mazumdar p = .196) and is resistant to it (fail-safe N = 463)](pbl-meta-analysis-no-publication-bias.md) — related
+- [Publication bias tests give mixed evidence: Egger's test indicates bias, but fail-safe N calculations lead the authors to conclude no publication bias](publication-bias-mixed-egger-failsafe.md) — related
+- [Smaller, underpowered studies report larger flipped classroom effect sizes, indicating small-study and publication bias](small-study-bias-inflates-flipped-classroom-effects.md) — related

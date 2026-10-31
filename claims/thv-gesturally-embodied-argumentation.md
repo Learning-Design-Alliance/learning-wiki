@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2024
+source_checked: 2026-10-31
 sources:
   - id: walkington-2024
     resource: "https://doi.org/10.1007/s11423-023-10254-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` MAET of high school students using the Conjecture Builder revealed that much of their mathematical conversation was expressed in rich gesture sequences rather than precise mathematical speech, coded as gesturally embodied argumentation spurred by pose creation. [→ Walkington 2024](#walkington-2024)

@@ -56,3 +56,4 @@ Exploratory two-level MLM extension with multiply imputed data, adding time logg
 - [Prior cross-sectional between-group research on the platform found a positive usage–test-score relationship but could not rule out unobserved confounding](prior-cross-sectional-platform-usage-achievement-link.md) — related
 - [Longitudinal within-student analysis of a mathematics mastery learning platform replicates positive effects on standardized math test scores](mastery-platform-longitudinal-positive-effects.md) — related
 - [Teacher-student interaction quality may reflect pre-existing student characteristics rather than teacher skill unless prior achievement is accounted for](interaction-quality-confounded-by-prior-achievement.md) — related
+- [The article reports that usage of specialized software increased the positive effect of CAE on mathematics achievement](specialized-software-increased-cae-effect.md) — related

@@ -51,3 +51,4 @@ Targeted nine-question community survey with 52 valid responses among power-and-
 - Institutional barriers to AI integration — ethics concerns, insufficient training, policy gaps, and infrastructure limits — are widespread and co-occurring — related
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
 - [Infrastructure and access constraints were reported in 18 of 54 studies (33%) as the second higher-order technical limitation category](infrastructure-access-constraints-ai-efl.md) — related
+- [Time allocation and power are the dominant reported problems in implementing JAS](jas-time-and-power-problems.md) — related

@@ -210,6 +210,7 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Implement AI simulations as complements within a stepped simulation continuum, with layered interaction modes and blended feedback](../strategies/stepped-ai-simulation-integration-strategies.md)
 - [Vocational education programs should let trainees experience and reflect on authentic errors, e.g. via error management training and negative knowledge-diaries](../strategies/error-management-training-negative-knowledge-diaries.md)
 - [Deliver a short post-exploration instructional video to complement science simulations](../strategies/short-post-simulation-video-strategy.md)
+- [Implement modelling as short, computer-simulation-supported activities at the high school level](../strategies/short-computer-supported-high-school-modelling-activities.md)
 
 ## Key Sources
 - Garris, R., Ahlers, R., & Driskell, J. E. (2002). Games, motivation, and learning: A research and practice model. *Simulation & Gaming, 33*(4), 441–467. [doi:10.1177/1046878102238607](https://doi.org/10.1177/1046878102238607)

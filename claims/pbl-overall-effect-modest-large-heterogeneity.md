@@ -70,3 +70,4 @@ Heterogeneity assessment in the re-analysis of Leary et al. (2013) data across 3
 - [PBL's empirical evidence base is equivocal, attributed by the essay to implementation failures rather than design flaws](pbl-evidence-base-equivocal.md) — related
 - [Problem-based learning shows a large positive pooled effect on academic achievement (REM ES = 1.560), with heterogeneous study effects](pbl-large-positive-effect-academic-achievement.md) — reports the opposite
 - [AI-supported PBL cohorts produced sixteen student-authored peer-reviewed publications and consistently high peer evaluations](pbl-ai-sixteen-publications-high-peer-evaluations.md) — related
+- [Effect sizes across the 38 comparisons are highly heterogeneous, requiring a random-effects model](stem-digital-meta-heterogeneous-random-effects.md) — related

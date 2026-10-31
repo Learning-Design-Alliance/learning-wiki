@@ -52,3 +52,4 @@ The review reports the Lillard and Heise (2016) experimental implementation stud
 - [Removing supplementary materials from Montessori classrooms improved letter-word identification and executive function but not vocabulary, theory of mind, maths or social problem-solving](montessori-material-removal-experiment.md) — possibly the same claim (merge candidate)
 - [In a lottery-based comparison, Montessori children showed advantages on academic, executive function, social and theory-of-mind measures, with no differences on all measures](montessori-lottery-study-advantages.md) — related
 - [The stronger a school's adherence to Montessori principles (implementation fidelity), the stronger its positive impact on maths](montessori-fidelity-moderates-maths-impact.md) — related
+- [Use of educational materials in classroom instruction has a large positive effect on students' academic achievement (g = 1.269)](material-use-large-positive-effect-achievement.md) — related

@@ -108,6 +108,7 @@ Behaviorism is criticized as overly deterministic and as denying free will; by t
 - [Learning Hierarchy Task Analysis](../methods/learning-hierarchy-task-analysis.md) — sequencing prerequisite skills into a learning hierarchy
 - [Teach response precision and new associations with minimal errors, using mediators and stimulus fading](../principles/minimize-errors-for-precision-and-associations.md)
 - [Use tasks without explicit feedback or rewards to study intrinsic reinforcement responses](../strategies/no-feedback-paradigm-for-intrinsic-reinforcement.md)
+- [Use token reinforcement as a flexible differentiation strategy while applying standards-based practices and larger samples to strengthen generalizability](../strategies/token-reinforcement-differentiation-with-standards.md)
 
 ## Key Sources
 - Skinner, B. F. (1954). The science of learning and the art of teaching. *Harvard Educational Review, 24*, 86–97.

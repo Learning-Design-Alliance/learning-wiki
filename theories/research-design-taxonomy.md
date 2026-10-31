@@ -59,6 +59,7 @@ People also perceive relationships between variables that don't actually exist a
 
 - A study reporting that students who use a particular study app have higher grades (correlational) is a different, weaker claim than a study that randomly assigns students to use the app or not and then compares outcomes (experimental)
 - [Call for combined quantitative and qualitative studies to identify which contexts favor explicit versus implicit grammar teaching](../strategies/more-studies-explicit-implicit-contexts.md)
+- [Mixed-methods systematic review combining random-effects meta-analysis of experimental and quasi-experimental studies with narrative synthesis of qualitative and non-intervention evidence](../strategies/mixed-methods-lac-reading-review-design.md)
 
 ## Key Sources
 - Rotton, J., & Kelly, I. W. (1985). Much ado about the full moon: A meta-analysis of lunar-lunacy research. *Psychological Bulletin, 97*(2), 286-306. [doi:10.1037/0033-2909.97.2.286](https://doi.org/10.1037/0033-2909.97.2.286)

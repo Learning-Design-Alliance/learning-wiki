@@ -51,3 +51,4 @@ Review's account of Spencer et al.'s (2022) blended/hybrid FC implementation in 
 - [In a low-certainty meta-analysis of 44 studies with very high heterogeneity (I² = 98%), undergraduate health professional students in flipped classes score higher than those in traditional classes (SMD = 0.57)](flipped-classroom-improves-academic-performance-hpe.md) — a broader claim this one bears on
 - [Peer-teaching flipped classroom students show higher calculus conceptual understanding than conventional flipped classroom students after controlling for pretest](ptfc-beats-cfc-conceptual-understanding.md) — related
 - [Blended Learning Improves Outcomes](blended-learning-improves-outcomes.md) — a broader claim this one bears on
+- [Flipped classroom has a moderately positive effect on college students' academic performance (SMD = 0.66)](flipped-classroom-moderate-positive-effect-college.md) — related

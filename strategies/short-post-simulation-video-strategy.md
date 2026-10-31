@@ -46,6 +46,7 @@ The article recommends a brief instructional video delivered after students expl
 ## Related Strategies
 
 - [Guided Inquiry](guided_inquiry.md)
+- [Implement modelling as short, computer-simulation-supported activities at the high school level](short-computer-supported-high-school-modelling-activities.md)
 
 ## Examples
 -

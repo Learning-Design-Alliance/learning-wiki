@@ -50,3 +50,4 @@ Narrative review across 49 studies with participants aged 2 to 17 years (median 
 - [Child age, caregiver education and country income level do not moderate book-sharing intervention effects on child language](book-sharing-effects-invariant-age-education-income.md) — related
 - [Mindfulness and yoga interventions improved self-regulation in 4 of 8 interventions (50%), mostly applied within the adolescent age group.](mindfulness-yoga-interventions-improved-sr-4-of-8.md) — related
 - [Some interventions brought more improvements in self-regulation measures of those with lower baseline scores, offering promise for resource-constrained settings.](greater-sr-gains-for-lower-baseline-scores.md) — related
+- [MALL effectiveness shows no pattern restricted to a particular age group of learners](mall-effective-irrespective-of-age-group.md) — related

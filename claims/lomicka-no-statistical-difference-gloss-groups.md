@@ -53,3 +53,4 @@ The dissertation reports, citing Lomicka (1998), a study of 12 native English sp
 - [Proficiency moderates gloss effects: vocabulary benefits appear at Levels 2 and 3 but not Levels 1 and 4](proficiency-moderates-gloss-vocabulary-effects.md) — related
 - [Multimedia glosses improve EFL students' vocabulary retention two weeks after treatment relative to no glosses](multimedia-glosses-improve-efl-vocabulary-retention.md) — related
 - [Only L1-gloss-L2-ex and L1-in-text-gloss conditions significantly outperform the no-gloss control on all three vocabulary recall tests](gloss-l2-ex-and-in-text-gloss-beat-control-scheffe.md) — related
+- [Multiple (text+visual) hypertext glosses have a large, positive effect on L2 vocabulary acquisition compared with single (text-only) glosses](multiple-glosses-large-positive-effect-l2-vocabulary.md) — reports the opposite

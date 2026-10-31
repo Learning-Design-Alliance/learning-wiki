@@ -53,3 +53,4 @@ Cluster-assigned posttest-only experiment with 30 sixth-grade girls (15 per cond
 - [Teachers reported that simulations, adaptive feedback, and hands-on STEM activities supported students' conceptual understanding and engagement with scientific problem solving](simulations-adaptive-feedback-support-engagement.md) — related
 - [Open inquiry improves students' conceptual understanding of science, supported by seven reviewed studies](open-inquiry-improves-conceptual-understanding.md) — related
 - [Retention gains from computer-assisted instruction held for multiplication and division units but not for fractions](frizbi-retention-multiplication-division-not-fractions.md) — related
+- [Scientific process skills effects of STEM practices differ significantly by lesson type and education level, favoring science and math lessons and basic-education and higher-education students](stem-sps-moderators-lesson-type-education-level.md) — related

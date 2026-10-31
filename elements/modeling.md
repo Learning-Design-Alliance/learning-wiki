@@ -13,7 +13,7 @@ generated:
 # Modeling
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 19 claims (9 for, 9 mixed, 1 against) · 16 studies (9 causal, 4 review, 1 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q3` · 5 of 16 report an effect size · 16 claims rest on one study
+> **Evidence** · 20 claims (10 for, 9 mixed, 1 against) · 17 studies (9 causal, 4 review, 1 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q3` · 5 of 17 report an effect size · 17 claims rest on one study
 
 ## Description
 Modeling is the instructional element in which an instructor, expert, or advanced peer demonstrates expert thinking and behavior — making both the actions and the reasoning behind them visible. It functions as the observational entry point to skill acquisition: learners study a competent performance, including its decision points and self-monitoring, before producing their own attempts.
@@ -69,6 +69,7 @@ Modeling provides structured exposure to expert-level reasoning, reducing the un
 - [Congruent observation reduces error (overall d = -1.71) while incongruent observation increases error (overall d = 1.19)](../claims/congruent-versus-incongruent-observation-directional-effects.md) [~W]
 - [Aftereffects are largely absent after observational practice (overall d = -3.05 favouring physical practice), suggesting inverse but not forward models are updated](../claims/observational-practice-lacks-aftereffects-inverse-models.md) [~W]
 - [Adding reviews or a second demonstration did not significantly improve self-efficacy or learning over the control condition](../claims/no-condition-effect-reviews-second-demonstrations.md) [-W]
+- [Video modeling interventions yield strong or moderate treatment effects in 56% of reviewed studies of students with EBD](../claims/vm-ebd-56-percent-strong-moderate-pnd.md) [+W]
 
 ## The evidence by question
 - *Should modelling come before the learner's first attempts?* [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S]

@@ -9,12 +9,11 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-17
 sources:
   - id: angela-chen-2026
     resource: "https://doi.org/10.48550/arxiv.2606.10051"
-    title: "Angela Chen, Siwei Jin, Catherine Bao, Canwen Wang, Robert E. Kraut, Tongshuang Wu, and Haiyi Zhu. (2026). Empirically Grounded Behavioral Adaptivity for LLM-Based Virtual Patients in Psychotherapy Training. https://arxiv.org/abs/2606.10051 [doi:10.48550/arxiv.2606.10051](https://doi.org/10.48550/arxiv.2606.10051)"
-    author: Angela Chen, Siwei Jin, Catherine Bao, Canwen Wang, Robert E. Kraut, Tongshuang Wu, and Haiyi Zhu
+    title: "Angela Chen, Siwei Jin, Catherine Bao, Canwen Wang, Yi-Chia Wang, Robert E. Kraut, Tongshuang Wu, and Haiyi Zhu. (2026). Empirically Grounded Behavioral Adaptivity for LLM-Based Virtual Patients in Psychotherapy Training. https://arxiv.org/abs/2606.10051 [doi:10.48550/arxiv.2606.10051](https://doi.org/10.48550/arxiv.2606.10051)"
+    author: Angela Chen, Siwei Jin, Catherine Bao, Canwen Wang, Yi-Chia Wang, Robert E. Kraut, Tongshuang Wu, and Haiyi Zhu
     q: 2
     i: "?"
     kind: design
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` OLS regression of per-turn disclosure change found exploration drove AVP state change while the empathy coefficient was effectively zero; in the static VP exploration was only marginal and the joint model not significant. [→ Angela Chen 2026](#angela-chen-2026)
@@ -34,7 +33,7 @@ sources:
 
 ### Angela Chen 2026
 
-Angela Chen, Siwei Jin, Catherine Bao, Canwen Wang, Robert E. Kraut, Tongshuang Wu, and Haiyi Zhu. (2026). Empirically Grounded Behavioral Adaptivity for LLM-Based Virtual Patients in Psychotherapy Training. https://arxiv.org/abs/2606.10051 [doi:10.48550/arxiv.2606.10051](https://doi.org/10.48550/arxiv.2606.10051)
+Angela Chen, Siwei Jin, Catherine Bao, Canwen Wang, Yi-Chia Wang, Robert E. Kraut, Tongshuang Wu, and Haiyi Zhu. (2026). Empirically Grounded Behavioral Adaptivity for LLM-Based Virtual Patients in Psychotherapy Training. https://arxiv.org/abs/2606.10051 [doi:10.48550/arxiv.2606.10051](https://doi.org/10.48550/arxiv.2606.10051)
 
 `q2 · i?` · `design · r2`
 

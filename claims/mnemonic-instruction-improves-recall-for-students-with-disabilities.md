@@ -64,7 +64,7 @@ This systematic review looked at 20 studies of mnemonic interventions with 669 s
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Do cue-based (mnemonic) methods help students with mild disabilities recall academic facts and vocabulary?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **5 distinct studies** (3 review, 2 quant-synthesis), `q2`–`q3`, 2 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Do mnemonic (cue-based) methods improve recall of facts and vocabulary, and how do they compare with other study techniques such as retrieval practice?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **5 distinct studies** (3 review, 2 quant-synthesis), `q2`–`q3`, 2 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|

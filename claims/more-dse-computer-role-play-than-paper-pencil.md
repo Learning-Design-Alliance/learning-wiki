@@ -50,3 +50,4 @@ Repeated measures 3 × 2 factorial ANOVA with 54 typically developing children (
 - The authors report this as the first study to quantify DSE and social vulnerability in typically developing middle-childhood populations — related
 - [Theory of Mind is negatively correlated with DSE/social vulnerability scores on both task formats](tom-negatively-correlated-dse.md) — related
 - [Parent and teacher Relationship Problems Questionnaire scores did not correlate with children's DSE on either task](rpq-no-correlation-dse-typical-children.md) — related
+- [Computer simulations yield a slightly higher achievement effect than pen-and-paper modelling activities](computer-simulations-slightly-higher-effect-than-pen-and-paper.md) — related

@@ -1,0 +1,49 @@
+---
+type: claim
+title: EEF interventions showed a small overall narrowing of the literacy attainment gap in favour of FSM pupils, dependent on Key Stage
+description: EEF interventions showed a small overall narrowing of the literacy attainment gap in favour of FSM pupils, dependent on Key Stage
+id: eef-literacy-attainment-gap-fsm-narrowing
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-31
+evidence_strength: weak
+newest_evidence: 2021
+sources:
+  - id: bilal-ashraf-2021
+    resource: "https://eric.ed.gov/?id=ED625398"
+    title: "Bilal Ashraf, Akansha Singh, Germaine Uwimpuhwe, Tahani Coolen-Maturi, Jochen Einbeck, Steve Higgins and Adetayo Kasim. (2021). Individual participant data meta-analysis of the impact of EEF trials on the educational attainment of pupils on Free School Meals: 2011 - 2019. Education Endowment Foundation. https://eric.ed.gov/?id=ED625398"
+    author: Bilal Ashraf, Akansha Singh, Germaine Uwimpuhwe, Tahani Coolen-Maturi, Jochen Einbeck, Steve Higgins and Adetayo Kasim
+    q: 3
+    i: 0
+---
+
+# EEF interventions showed a small overall narrowing of the literacy attainment gap in favour of FSM pupils, dependent on Key Stage
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q3 i0` The overall literacy attainment gap was 0.01 (-0.01, 0.04) in favour of FSM pupils, with gap-narrowing greatest at KS1 (0.07, 0.00 to 0.14) and near zero at KS2 and KS4. [→ Bilal Ashraf 2021](#bilal-ashraf-2021)
+
+## Evidence
+
+### Bilal Ashraf 2021
+
+Bilal Ashraf, Akansha Singh, Germaine Uwimpuhwe, Tahani Coolen-Maturi, Jochen Einbeck, Steve Higgins and Adetayo Kasim. (2021). Individual participant data meta-analysis of the impact of EEF trials on the educational attainment of pupils on Free School Meals: 2011 - 2019. Education Endowment Foundation. https://eric.ed.gov/?id=ED625398
+
+`q3 · i0`
+
+Pooled attainment-gap estimate from the sIPD model with a treatment-by-FSM interaction term, reported in the executive summary; the printed gap of 0.01 is below d = 0.2 and its interval includes zero. The report defines the gap as the difference in gain between FSM and non-FSM pupils when both receive the intervention.
+
+> "The attainment gap observed for the literacy outcomes was improved in favour of FSM pupils with an overall attainment gap of 0.01  (-0.01, 0.04)."
+
+## Discussion
+
+
+## Related Claims
+- [Literacy benefits for FSM pupils were greatest in Key Stage 1 (ES 0.09) and Key Stage 3 (ES 0.08) and smallest in Key Stages 2 and 4](eef-fsm-literacy-key-stage-pattern.md) — related
+- [EEF-funded interventions improved FSM pupils' literacy outcomes with a pooled effect size of 0.06, equivalent to about one month's progress](eef-interventions-fsm-literacy-pooled-006.md) — related
+- [EEF-funded interventions showed no evidence of positive or negative overall effects on FSM pupils' mathematics outcomes](eef-interventions-fsm-maths-null-pooled.md) — related
+- [Small group and one-to-one interventions produced larger literacy gains for FSM pupils than whole class or whole school approaches](small-group-one-to-one-literacy-fsm-largest.md) — related

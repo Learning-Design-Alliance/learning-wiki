@@ -47,7 +47,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 78 claims (38 for, 39 mixed, 1 against) · 60 studies (20 causal, 14 quant-synthesis, 14 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 17 of 60 report an effect size · 72 claims rest on one study
+> **Evidence** · 80 claims (40 for, 39 mixed, 1 against) · 62 studies (20 causal, 14 quant-synthesis, 14 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 18 of 62 report an effect size · 74 claims rest on one study
 
 ## Conditional relationship
 
@@ -199,6 +199,8 @@ A gain in the game, a gain on an aligned outside test, delayed retention, transf
 - [Motivation is positively related to accuracy and response time during game-based learning](../claims/motivation-accuracy-response-time-relation.md) [~W]
 - [Uncertainty is positively associated with learner motivation in game-like environments](../claims/uncertainty-positively-associated-motivation.md) [+W]
 - [Half of the reviewed games have a multiplayer design, mostly team-based, with distinct roles and inter-team competition less utilized](../claims/multiplayer-team-design-heritage-games.md) [~W]
+- [Game-based learning has a large positive effect on academic success in Turkish language instruction (REM ES = 1.538)](../claims/game-based-learning-large-effect-turkish.md) [+W]
+- [The application approach (which student-centred method or technique is used) significantly moderates the effect size, with Activities Based on Multiple Intelligences and Educational Games showing the largest effects](../claims/application-approach-significant-moderator-abmi-educational-games.md) [+W]
 
 ## Related Principles
 - [Simulations & Immersive Virtual Environments](simulations-immersive-virtual-environments.md) — simulations overlap with game-based learning when the experience models a system learners must navigate.

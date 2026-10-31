@@ -64,3 +64,5 @@ Meta-analysis of 21 Turkish empirical (9) and relational (12) studies, total sam
 - [SRL scaffolds in computer-based learning environments produce a medium, significantly positive effect on academic performance (ES = 0.438)](srl-scaffolds-positive-effect-academic-performance.md) — related
 - [Project-based learning improves achievement](project-based-learning-improves-achievement.md) — related
 - [Research indicates moderate effect sizes for engagement, project-based learning, self-regulation, and feedback](moderate-effect-sizes-engagement-pbl-self-regulation-feedback.md) — related
+- [Collaborative learning has a large positive effect on academic success in Turkish language instruction (REM ES = 0.816)](collaborative-learning-large-effect-turkish.md) — related
+- [Student-centered methods have an overall positive and high-level effect on academic success in Turkish language instruction](student-centered-methods-positive-effect-turkish-instruction.md) — related

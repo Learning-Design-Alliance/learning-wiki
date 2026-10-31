@@ -94,3 +94,6 @@ Null moderator analyses within the meta-analysis: intervention duration and moti
 - [Gender does not significantly moderate the effect of AI-supported PBL on computational thinking or academic achievement](gender-does-not-moderate-ai-pbl-effects.md) — related
 - Effect sizes were not moderated by publication year, age, or percentage of females, but were related to study quality; publication-bias tests gave mixed signals — related
 - [Exam Playbook benefits were larger for female users and for first-generation students, reducing achievement gaps](exam-playbook-moderation-demographic-benefits.md) — related
+- [The effect of computer-based teaching on academic success does not differ significantly by publication year of the studies](cbt-effect-no-difference-by-publication-year.md) — related
+- [Samples with a majority of female students showed significantly smaller science effects than evenly distributed samples](majority-female-samples-smaller-5e-science-effects.md) — related
+- [The effect size does not vary significantly with sample size or publication year in meta-regression](meta-regression-sample-size-year-null.md) — related

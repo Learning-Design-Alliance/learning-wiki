@@ -78,3 +78,5 @@ In the same duration moderator analysis, the 1–7 day group showed a small, non
 - [Intervention duration in weeks and study-quality characteristics did not significantly moderate extensive reading effects](er-duration-study-characteristics-null-moderators.md) — related
 - [Intervention duration of 3–9 weeks yields the greatest AWE gains, with diminishing returns beyond 10 weeks](awe-duration-3-9-weeks-optimal.md) — related
 - [Effect sizes are larger when the same instructor teaches both gamified and control groups, and when interventions run one to three months](gamification-moderators-instructor-and-duration.md) — related
+- [The effect of drama on social studies achievement does not differ significantly by duration of application (1–4 vs 5–10 weeks)](drama-effect-no-duration-difference.md) — related
+- [RME effects are greater when treatment lasts 3-4 meetings and are reduced when treatment continues beyond four meetings](rme-effect-reduced-beyond-four-meetings.md) — related

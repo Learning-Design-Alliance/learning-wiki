@@ -69,7 +69,7 @@ The report's literature review attributes this to a recent meta-analysis of "60 
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does coaching teachers on their classroom practice change their observed instruction?* This table gathers the studies behind this claim and the 17 narrower claims that bear on it: **14 distinct studies** (4 review, 4 causal, 3 associational, 2 qualitative, 1 quant-synthesis), `q2`–`q4`, 2 of 14 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does adding ongoing coaching or colleague collaboration to in-service professional development change teachers' classroom practice and their students' achievement?* This table gathers the studies behind this claim and the 17 narrower claims that bear on it: **14 distinct studies** (4 review, 4 causal, 3 associational, 2 qualitative, 1 quant-synthesis), `q2`–`q4`, 2 of 14 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|

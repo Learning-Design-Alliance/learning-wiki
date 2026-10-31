@@ -51,3 +51,4 @@ The commentary reports, citing Forbes et al. (2020), an analysis of PISA 2015 in
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — related
 - [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md) — related
 - [Instructional approaches that include inquiry learning are more effective than direct instruction for acquiring conceptual knowledge, per the review's synthesis of meta-analyses](inquiry-more-effective-than-direct-conceptual-knowledge.md) — reports the opposite
+- [Among pedagogical interventions, procedural and conceptual learning programs have the highest pooled effect sizes while inquiry-based learning is least effective](pedagogical-subtypes-procedural-conceptual-highest.md) — related

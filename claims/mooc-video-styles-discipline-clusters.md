@@ -49,3 +49,4 @@ Narrative review attributing to Santos-Espino et al. (2016) a survey of instruct
 - Kolb's inventory successfully differentiated group learning styles by students' subject majors — related
 - [Guo et al. found engagement depends on video production style: short videos, talking heads on slides, Khan-style drawing more engaging than slides or coding, classroom recording weak online](guo-video-style-engagement-findings.md) — related
 - [The editorial argues that among four fundamental subjects, natural science should rank second only to English in importance for education.](natural-science-second-only-to-english.md) — related
+- [Flipped classroom effects differ by subject type, favoring science (SMD = 0.75) and liberal arts (SMD = 0.72) over engineering (SMD = 0.34)](flipped-classroom-effect-varies-by-subject-type.md) — related

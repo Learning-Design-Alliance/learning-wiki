@@ -13,7 +13,7 @@ generated:
 # Collaborative Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 17 claims (9 for, 8 mixed) · 22 studies (6 quant-synthesis, 4 review, 4 associational, 3 causal, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 7 of 22 report an effect size · 14 claims rest on one study
+> **Evidence** · 18 claims (10 for, 8 mixed) · 23 studies (6 quant-synthesis, 4 review, 4 associational, 3 causal, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 8 of 23 report an effect size · 15 claims rest on one study
 
 ## Description
 Collaborative learning organizes learners into structured teams that jointly solve problems, complete tasks, and construct shared understanding. The structure matters as much as the grouping: effective designs assign roles, interdependence, and individual accountability rather than simply seating learners together.
@@ -67,6 +67,7 @@ Collaboration supports learning when it forces learners to articulate, defend, a
 - [Leadership in collaborative learning is an interactional group phenomenon requiring bids to be taken up](../claims/leadership-interactional-group-phenomenon.md) [~W]
 - [Experienced groups show higher instructional efficiency than inexperienced groups in the delayed retention test after collaborative learning](../claims/zambrano-2019-experienced-groups-more-efficient-retention.md) [~W]
 - [Visualization support at the planning phase helped collaborating groups report more effective planning and teamwork strategies than groups without it](../claims/visualization-support-planning-improves-group-strategies.md) [+W]
+- [Cooperative and collaborative learning show larger achievement effects than problem-based and peer-led team learning in engineering and technology classrooms](../claims/cooperative-collaborative-larger-effects-than-pbl-peer-led.md) [+W]
 
 ## The evidence by question
 - *Does working jointly on a task raise achievement over working alone or instruction without group work?* [Collaborative Learning Improves Outcomes](../claims/collaborative-learning-improves-outcomes.md) [+S]

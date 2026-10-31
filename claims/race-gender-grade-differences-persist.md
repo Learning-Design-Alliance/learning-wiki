@@ -86,3 +86,4 @@ Coefficients from Model 5a on the CPS grade dataset show these differences exist
 - [Young women outperformed young men in every grading category family in unweighted points, with the largest gap in assignments and smallest in assessments; weighting reversed this ordering](gender-gap-varies-by-grading-category-family.md) — related
 - [The GPA advantage of high-use tutoring visitors held across math SAT score, high school GPA, ethnicity, and first-generation status](tutoring-gpa-advantage-no-interaction-background.md) — related
 - [Teacher-assigned grades are susceptible to systematic biases, including halo effects and ethnicity-based grading differences (review-reported)](grading-biases-halo-ethnicity.md) — related
+- [Small-group learning effects vary by classroom gender and ethnic diversity, with effects smaller in female-dominated and predominately White classrooms](diversity-composition-moderates-small-group-effects.md) — related

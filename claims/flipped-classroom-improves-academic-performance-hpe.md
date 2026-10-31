@@ -70,3 +70,6 @@ Random-effects inverse-variance meta-analysis of 44 studies (n = 7813) comparing
 - [Time-on-task is frequently unequal across compared conditions, with active learning conditions typically requiring more home time](time-on-task-unequal-in-active-learning-comparisons.md) — related
 - [Blended Learning Improves Outcomes](blended-learning-improves-outcomes.md) — related
 - [A blended/hybrid flipped calculus course with an FC Orientation module improved student learning performance and perceptions significantly over the traditional lecture format](spencer-2022-hybrid-fc-improved-performance.md) — a narrower finding that bears on this claim
+- [Flipped classroom shows significant positive effects across class sizes, with the largest reported effect for medium-sized classes](flipped-classroom-class-size-moderation.md) — related
+- [Flipped classroom has a moderately positive effect on college students' academic performance (SMD = 0.66)](flipped-classroom-moderate-positive-effect-college.md) — related
+- [The social nature of learning activities shows no detectable moderating effect on flipped classroom learning gains](social-activity-no-moderating-effect-flipped.md) — related

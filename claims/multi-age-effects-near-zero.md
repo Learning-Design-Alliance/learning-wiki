@@ -55,3 +55,4 @@ Meta-analysis of 11 multi-age studies (Table 2): cognitive effects d = -.05 (N =
 - [Multigrade classes show negative weighted effects for science and social studies but not English as a foreign language](multigrade-science-social-studies-negative.md) — related
 - Evidence for a selection bias favoring multigrade classes is limited, found explicitly in only 4 of 51 studies — related
 - [Staff development for multigrade teachers improved time-on-task and teaching skills but did not raise achievement relative to untrained single-grade classes](staff-development-multigrade-teachers-effects.md) — related
+- [Science effects differed by country of evaluation, with U.S. studies (g = 0.46) showing smaller effects than Turkish studies (g = 0.96)](country-moderates-5e-science-effects.md) — related

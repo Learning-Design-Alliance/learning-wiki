@@ -60,3 +60,4 @@ Illustrative hypothetical example of 100 examinees with 95% observed agreement a
 - [Prior non-LLM automated coding approaches yielded variable and often lower agreement with human coders on teacher knowledge measures, especially PCK](prior-automated-coding-variable-lower-agreement-pck.md) — related
 - A prior-study corpus of 84 peer tutoring sessions was coded for help type and conceptual content with kappa of 0.83 and 0.72 — related
 - The review's corpus comprises 39 peer-reviewed articles selected via a PRISMA protocol with substantial screening agreement — related
+- [Coding of included studies reached 100% inter-coder reliability using the agreement formula](coding-reliability-100-percent-meta-analysis.md) — related

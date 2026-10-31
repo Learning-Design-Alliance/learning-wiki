@@ -85,7 +85,7 @@ A narrative review of the classroom formative assessment literature, the source 
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does adjusting instruction to evidence of learners' thinking gathered during teaching raise achievement over teaching the plan unchanged?* This table gathers the studies behind this claim and the 20 narrower claims that bear on it: **18 distinct studies** (4 design, 4 qualitative, 3 quant-synthesis, 3 review, 2 causal, 1 theoretical, 1 associational), `q1`–`q3`, 3 of 18 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does using assessment evidence during instruction raise achievement compared with the usual teaching?* This table gathers the studies behind this claim and the 20 narrower claims that bear on it: **18 distinct studies** (4 design, 4 qualitative, 3 quant-synthesis, 3 review, 2 causal, 1 theoretical, 1 associational), `q1`–`q3`, 3 of 18 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|

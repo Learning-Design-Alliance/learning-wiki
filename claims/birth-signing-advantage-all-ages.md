@@ -47,3 +47,4 @@ In the discussion of the mixed effects results for the 688-student sample, the a
 - [Non-native signers entering a signing school before age 6 had better ASL abilities than those entering later, but did not equal native signers](early-entry-non-native-better-asl.md) — related
 - [Native signers (children of at least one Deaf parent) outperform non-native signers on ASL syntactic judgment and analogical reasoning tasks](native-signers-outperform-non-native-asl.md) — related
 - [Native signers of ASL show more proficient bilingual abilities than non-native signers](native-signers-higher-bilingual-abilities.md) — related
+- [No specific age bracket is established for teaching home language; the article recommends starting as early as birth and using home language in primary school](no-age-bracket-home-language-teaching.md) — related

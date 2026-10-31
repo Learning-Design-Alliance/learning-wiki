@@ -9,6 +9,7 @@ generated:
   at: 2026-10-16
 evidence_strength: moderate
 newest_evidence: 2007
+source_checked: 2026-10-31
 sources:
   - id: pyc-2007
     resource: "https://link.springer.com/article/10.3758/BF03192925"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
-> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2007 · checked against its sources 2026-10-31 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Initially incorrect items were significantly more likely to be correct at final test in the 23-drop group than in either conventional group. [→ Pyc 2007](#pyc-2007)

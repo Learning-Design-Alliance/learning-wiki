@@ -47,3 +47,4 @@ Comparison of long-period A groups with short-period B groups in each grade, usi
 ## Related Claims
 - [The effectiveness of dropout schedules depends critically on the length of the interval between presentations of an item](dropout-effectiveness-depends-on-interval.md) — related
 - [Thorndike's addition experiment found that the fastest students made fewer errors than the slowest students.](thorndike-addition-fast-students-fewer-errors.md) — related
+- [The effect of multiple intelligence practices on achievement increases as the implementation period becomes longer](mi-effect-increases-with-implementation-period.md) — related

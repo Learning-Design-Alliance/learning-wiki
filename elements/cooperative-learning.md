@@ -13,7 +13,7 @@ generated:
 # Cooperative Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (5 for, 3 mixed) · 10 studies (4 quant-synthesis, 2 causal, 2 review, 1 associational, 1 qualitative), `q2`–`q3` · 5 of 10 report an effect size · 6 claims rest on one study
+> **Evidence** · 15 claims (11 for, 4 mixed) · 13 studies (4 quant-synthesis, 2 causal, 2 review, 1 associational, 1 qualitative), `q2`–`q3` · 8 of 13 report an effect size · 13 claims rest on one study
 
 ## Description
 Cooperative learning organizes instruction so that small groups of learners work interdependently toward a shared goal, with each member responsible for both their own learning and their teammates' learning. It is distinguished from mere group work by deliberate structuring: positive interdependence, individual accountability, promotive interaction, social skills, and group processing (Johnson & Johnson's five elements).
@@ -60,6 +60,13 @@ Cooperative learning reliably improves achievement when group goals and individu
 - [Structured and ill-structured mCSCL teaching methods show similar effects; competitive methods (TGT, STAD) were not significant](../claims/mcscl-teaching-method-moderator.md) [~W]
 - [Individualized instruction shows low effects compared to cooperative and collaborative learning](../claims/individualized-instruction-low-effects-versus-collaborative.md) [+W]
 - [Pre-to-post gains in cooperative science learning occur for listing cell organelles (d = 0.70) but not for describing their functions](../claims/structure-gains-not-function-gains.md) [~W]
+- [Cooperative and collaborative learning show larger achievement effects than problem-based and peer-led team learning in engineering and technology classrooms](../claims/cooperative-collaborative-larger-effects-than-pbl-peer-led.md) [+W]
+- [Cooperative learning produces a medium, positive, significant effect on mathematics achievement compared with traditional methods (d++ = 0.59)](../claims/cooperative-learning-medium-positive-effect-math-achievement.md) [+W]
+- [Achievement effects of cooperative learning are similar across experiment durations of 3–8, 9–14, and 15–20 weeks](../claims/cooperative-learning-achievement-duration-moderator.md) [+W]
+- [Cooperative learning is more effective in classes of 1-30 students than in classes of more than 30 students](../claims/cooperative-learning-small-class-size-more-effective.md) [~W]
+- [Cooperative learning has a small, positive, significant effect on attitudes towards mathematics (d++ = 0.16)](../claims/cooperative-learning-small-effect-attitude-math.md) [+W]
+- [Cooperative learning has a medium positive effect (0.89) on vocational high school students' mathematics learning outcomes compared with conventional learning](../claims/cooperative-learning-vhs-math-medium-effect.md) [+W]
+- [Achievement effects do not differ significantly across cooperative learning techniques; unstructured and STAD show the highest point estimates](../claims/cooperative-learning-technique-moderator.md) [+W]
 
 ## Related Elements
 - [Coaching](coaching.md) — the teacher's role shifts to monitoring groups and intervening at the process level

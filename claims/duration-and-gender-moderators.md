@@ -71,3 +71,4 @@ Meta-regression on immediate post-tests: percentage of boys coefficient b = 0.02
 - [Interventions delivered by researchers have larger effects on reading comprehension than interventions delivered by others, mostly teachers](researcher-delivered-larger-comprehension-effects.md) — related
 - [Effects on affirming motivations were largest for teacher reports, but this rests on a single study](teacher-report-measurement-moderator.md) — related
 - [Longer total intervention time is associated with greater learning gains, especially for low achievers](longer-time-on-task-greater-gains.md) — related
+- [Publication year and instructional duration do not significantly predict variation in small-group learning effect sizes in metaregression](metaregression-year-duration-nonsignificant-predictors.md) — reports the opposite

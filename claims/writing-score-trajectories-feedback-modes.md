@@ -50,3 +50,4 @@ Repeated-measures score data from the 8-week quasi-experiment (control n = 31, e
 - [AI-generated (GPT-4) feedback produced no greater linguistic progress than human tutor feedback among ENL students over six weeks](gpt4-feedback-no-superior-linguistic-progress-enl.md) — related
 - [Feedback source (human tutor vs GPT-4) had no significant effect on ENL students' posttest writing scores](feedback-source-no-posttest-effect-enl.md) — related
 - [Only six reviewed studies combined peer feedback with feedback from other sources](few-studies-combine-multi-source-feedback.md) — related
+- [Studies report experiment classes using JAS achieve higher average study results than control classes](jas-experiment-class-higher-than-control.md) — related

@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 128 claims (52 for, 68 mixed, 8 against) · 91 studies (32 causal, 21 review, 12 quant-synthesis, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 23 of 91 report an effect size · 123 claims rest on one study
+> **Evidence** · 129 claims (52 for, 69 mixed, 8 against) · 92 studies (32 causal, 21 review, 12 quant-synthesis, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 23 of 92 report an effect size · 124 claims rest on one study
 
 ## Conditional relationship
 
@@ -362,6 +362,7 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Motion sickness remains a disagreeable side effect of IVR serious games for a minority of participants](../claims/ivr-sgs-motion-sickness-side-effect.md) [~W]
 - [VR listening mode significantly enhanced affective engagement during listening tasks](../claims/vr-enhances-affective-engagement-listening.md) [~W]
 - [Immersion in the virtual classroom did not induce unwanted negative side effects (cybersickness)](../claims/vr-immersion-no-cybersickness.md) [+W]
+- [Simulations shorter than 800 minutes show larger effects than simulations of 800 minutes or more](../claims/simulation-duration-under-800-minutes-larger-effects.md) [~W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.

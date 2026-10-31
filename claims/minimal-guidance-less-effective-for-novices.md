@@ -121,7 +121,7 @@ This narrative review builds its case on human cognitive architecture, expert–
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Should learners explore a new idea with guidance, rather than be told it or left to find it alone?* This table gathers the studies behind this claim and the 34 narrower claims that bear on it: **36 distinct studies** (12 causal, 9 review, 6 quant-synthesis, 4 theoretical, 4 qualitative, 1 design), `q1`–`q4`, 5 of 36 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does explaining and modelling a new method beat leaving learners to discover it with little support?* This table gathers the studies behind this claim and the 34 narrower claims that bear on it: **36 distinct studies** (12 causal, 9 review, 6 quant-synthesis, 4 theoretical, 4 qualitative, 1 design), `q1`–`q4`, 5 of 36 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|

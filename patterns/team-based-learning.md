@@ -15,7 +15,7 @@ grain_size: unit, course
 # Team Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 25 claims (11 for, 12 mixed, 2 against) · 25 studies (8 causal, 7 quant-synthesis, 4 review, 2 associational, 2 design, 2 theoretical), `q1`–`q4` · 8 of 25 report an effect size · 18 claims rest on one study
+> **Evidence** · 26 claims (12 for, 12 mixed, 2 against) · 26 studies (8 causal, 7 quant-synthesis, 4 review, 2 associational, 2 design, 2 theoretical), `q1`–`q4` · 8 of 26 report an effect size · 19 claims rest on one study
 
 ## Description and scope
 
@@ -123,6 +123,7 @@ The retrieval evidence supports the readiness tests as retrieval with feedback; 
 - [Neurodivergent students prefer teams of 3–5 students while neurotypical students most prefer teams of 2](../claims/nd-prefer-teams-of-3-to-5-nt-prefer-pairs.md) [~W]
 - [50% of neurodivergent students report some discomfort with semester-long teams compared to 22% of neurotypical students](../claims/nd-semester-long-team-discomfort.md) [~W]
 - [No significant relative pre–post changes for attitudes toward collaborative learning, overall teamwork, or remaining teamwork subscales](../claims/genarch-null-did-collaborative-attitudes-teamwork.md) [-W]
+- [Testing student preparation is associated with slightly higher learning gains in flipped classroom implementations](../claims/test-of-preparation-moderates-flipped-learning.md) [+W]
 
 ## Related Patterns
 - [Cooperative Learning](cooperative-learning.md) — shares positive interdependence and individual accountability; TBL adds the readiness assurance cycle and simultaneous reporting

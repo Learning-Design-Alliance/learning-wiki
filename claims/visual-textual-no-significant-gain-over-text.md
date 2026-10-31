@@ -54,3 +54,4 @@ Post-test ANOVA follow-up in the same classroom experiment: the Visual group (n=
 - [In one middle-school quasi-experiment, adding written text to spoken narration makes no significant difference to achievement with either abstract or concrete animation](redundancy-effect-not-significant-middle-school.md) — related
 - [Groups using the Graphical Debate-tool constructed representations of significantly higher quality than groups using the Textual Debate-tool, for both debate positions.](gd-tool-higher-quality-representations.md) — related
 - [Representational scripting produced no individual learning gains: overall post-test scores did not exceed pre-test scores](no-individual-learning-gains.md) — related
+- [Effect sizes of Arduino-based education are statistically larger for textual than for visual programming language](arduino-effect-textual-language-larger.md) — related

@@ -88,3 +88,4 @@ The review reports two findings from the same meta-analysis: explicit feedback b
 - [High-confidence errors are more likely than low-confidence errors to be corrected on a later test after feedback.](high-confidence-errors-improve-retention.md) — related
 - [Feature-focused information-literacy trainings appear effective, but lack delayed-posttest evidence](feature-focused-info-literacy-trainings-effective.md) — related
 - [Long-term effects of systematic phonics are short-lived, reducing from d = 0.29 immediately after training to d = 0.07 after about a year](suggate-phonics-long-term-effects-short-lived.md) — related
+- [Effects of text structure instruction are maintained over time (g = 0.57 at delayed posttest)](tsi-maintenance-temporal-transfer.md) — a narrower finding that bears on this claim

@@ -78,3 +78,4 @@ A meta-analysis of 52 studies (125 effects) of whole-classroom reading-strategy 
 - [The study could not determine whether knowledge gains transferred to participants' classroom teaching](no-follow-through-classroom-transfer-unknown.md)
 - [Self-questioning improves comprehension](self-questioning-improves-comprehension.md) — related
 - [Strategy Instruction Needs Conditional Knowledge](strategy-instruction-needs-conditional-knowledge.md) — related
+- [Integrated instruction significantly improves content knowledge of taught science and social studies material (g = 0.89), but not on standardized knowledge measures](integrated-instruction-content-knowledge-g-089.md) — related

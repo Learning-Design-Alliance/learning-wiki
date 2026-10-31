@@ -53,3 +53,4 @@ Univariate mixed-effects meta-regression across 16 productivity effect sizes com
 - [Baseline capability moderates AI productivity benefits non-monotonically across AI's capability frontier](baseline-capability-nonmonotonic-ai-benefit.md) — related
 - Study design moderates the technology effect: between-subject studies yield a significantly higher average effect than within-subject studies — related
 - [GenAI assistance shows no statistically significant pooled effect on programming learning outcomes (g = 0.14, 95% CI (-0.18, 0.47)), with substantial heterogeneity.](genai-assistance-no-significant-learning-outcome-effect.md) — related
+- [Laboratory environments produce a larger creativity effect than ordinary classrooms in robotics education](robotics-creativity-laboratory-vs-classroom.md) — related

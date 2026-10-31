@@ -27,7 +27,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 99 claims (55 for, 36 mixed, 8 against) · 102 studies (31 review, 23 causal, 13 theoretical, 11 associational, 10 qualitative, 9 design, 5 quant-synthesis), `q1`–`q4` · 8 of 102 report an effect size · 94 claims rest on one study
+> **Evidence** · 102 claims (56 for, 38 mixed, 8 against) · 103 studies (31 review, 23 causal, 13 theoretical, 11 associational, 10 qualitative, 9 design, 5 quant-synthesis), `q1`–`q4` · 9 of 103 report an effect size · 97 claims rest on one study
 
 ## Conditional relationship
 
@@ -209,6 +209,9 @@ Engagement, immediate achievement on an aligned test, time saved, delayed retent
 - [LLM-generated student plans in a game-based learning environment are valid, with T5 plans closely matching student-created plans and GPT-3.5 producing more diverse plans, supporting real-time adaptive scaffolding](../claims/llm-plan-generation-adaptive-scaffolding-gbl.md) [+W]
 - [DHH students' communication preferences partly predict which multimedia tutorial features they attend to](../claims/dhh-communication-preference-predicts-feature-attention.md) [~W]
 - [Number of completed adaptive assignments is positively associated with student performance](../claims/adaptive-assignment-completion-performance.md) [+W]
+- [Instruction tailored to students' learning styles shows a large pooled random-effects effect on academic achievement (d = 1.029) across 29 Turkish experimental studies](../claims/learning-styles-instruction-large-pooled-achievement-effect.md) [~W]
+- [Learning-styles-tailored instruction shows a large pooled effect on retention, with inconsistent printed values (d = 1.763 in Table 7; d = 1.290 in the abstract and discussion)](../claims/learning-styles-instruction-large-pooled-retention-effect.md) [+W]
+- [Learning-styles-tailored instruction shows a large pooled effect on students' attitudes toward courses (d = 1.113)](../claims/learning-styles-instruction-large-pooled-attitude-effect.md) [~W]
 
 ## Related Principles
 - [Adaptive Learning](adaptive-learning.md) — the system-driven end of the personalization spectrum, where algorithms adjust difficulty and sequencing

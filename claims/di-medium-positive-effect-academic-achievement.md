@@ -52,3 +52,6 @@ Random-effects meta-analysis of three differentiated-instruction studies; pooled
 - Effect sizes across the included studies were highly heterogeneous (I2 = 97.30%), requiring a random effects model — related
 - [Individually analyzed method and approach studies show widely varying effects, with analogy-enhanced teaching rated most effective and two studies insignificant](method-approach-effect-sizes-vary-analogy-largest.md) — related
 - [Teacher efficacy underpins the ability to differentiate instruction effectively, with efficacy dependent on pedagogical content knowledge](teacher-efficacy-pck-underpin-differentiation.md) — related
+- [STEM educational practices have a large positive effect on students' scientific process skills (REM ES = 0.820)](stem-practices-large-scientific-process-skills-effect.md) — a narrower finding that bears on this claim
+- [STEM educational practices have a moderate positive effect on students' academic achievement compared with traditional teaching (REM ES = 0.442)](stem-practices-moderate-academic-achievement-effect.md) — related
+- [Effect sizes of e-learning in VET vary widely across studies: 11 articles showed large, 4 medium, and 3 small effects](vet-e-learning-effect-size-distribution.md) — related

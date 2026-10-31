@@ -54,3 +54,4 @@ Difference-in-differences regressions on the pre–post survey instruments in a 
 - [CCCT participation improved prospective teachers' attitudes towards cooperativeness (g = 0.751)](ccct-improved-cooperativeness-attitudes.md) — related
 - [Prospective teachers' qualitative feedback credited CCCT with communication, teamwork and engagement gains but noted unequal participation and time constraints](ccct-qualitative-strengths-challenges.md) — related
 - [Blinded panel ratings of design presentations did not differ significantly between GenARch and Control teams](genarch-panel-presentation-no-significant-difference.md) — related
+- [Cooperative learning has a small, positive, significant effect on attitudes towards mathematics (d++ = 0.16)](cooperative-learning-small-effect-attitude-math.md) — related

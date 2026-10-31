@@ -48,3 +48,4 @@ Path analysis of Rasch-calibrated person measures from 293 Vietnamese learners s
 - [Attitude is the strongest predictor of behavioral intention for new users, while perceived usefulness is strongest for light, medium and heavy users](attitude-predicts-intention-new-users-usefulness-existing-users.md) — related
 - [In a Vietnamese EFL sample, all six Meta-UTAUT hypotheses on MALL adoption were accepted with p-values below 0.05](meta-utaut-hypotheses-accepted-mall-efl.md) — related
 - [Attitude, facilitating conditions, and social influence correlate most strongly with behavioral intention, while perceived ease of use correlates weakest](at-fc-si-strongest-bi-correlates-peou-weakest.md) — related
+- [MALL effect sizes show no visible correlation with grade level or sample size](mall-effect-independent-of-grade-and-sample-size.md) — related

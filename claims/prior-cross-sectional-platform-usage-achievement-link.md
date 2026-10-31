@@ -55,3 +55,4 @@ The article describes prior research on the same platform using a between-group 
 - [Confounding may explain the large retention effects reported for the Course Signals early warning system](course-signals-confounding-number-of-classes.md) — related
 - [Sensitivity analysis indicated medium-to-large unobserved confounding would be needed to eliminate the reported pandemic effects](unobserved-confounder-sensitivity-pandemic-effects.md) — related
 - [Large-scale online platforms can run continuously-randomized trials across thousands of participants varying dozens or hundreds of parameters (per the article, citing prior work)](large-scale-platforms-randomized-trials.md) — related
+- [The article reports that usage of specialized software increased the positive effect of CAE on mathematics achievement](specialized-software-increased-cae-effect.md) — related

@@ -30,7 +30,7 @@ sources:
 # Cooperative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 41 claims (22 for, 19 mixed) · 38 studies (13 quant-synthesis, 7 causal, 6 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 14 of 38 report an effect size · 33 claims rest on one study
+> **Evidence** · 49 claims (28 for, 21 mixed) · 42 studies (13 quant-synthesis, 7 causal, 6 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 17 of 42 report an effect size · 41 claims rest on one study
 
 ## Description and scope
 
@@ -146,6 +146,14 @@ This pattern is scoped to small-group work where each member's individual learni
 - [High-school students in cooperative learning appear on-task about 60% of the time, off-task 11%, and idle 13%](../claims/on-task-60-percent-cooperative-learning.md) [~W]
 - [Pre-to-post gains in cooperative science learning occur for listing cell organelles (d = 0.70) but not for describing their functions](../claims/structure-gains-not-function-gains.md) [~W]
 - [Structuring means interdependence via Jigsaw in Minecraft increased learning outcomes and invested mental effort but not perceived cognitive load](../claims/jigsaw-interdependence-mental-effort.md) [+W]
+- [Achievement effects of cooperative learning do not differ significantly across mathematics sub-fields, though geometry and algebra show the highest point estimates](../claims/cooperative-learning-achievement-subfield-moderator.md) [+W]
+- [The achievement effect of cooperative learning differs significantly across student grade levels, largest at university level (d+ = 1.33)](../claims/cooperative-learning-achievement-grade-moderator.md) [~W]
+- [Cooperative learning produces a medium, positive, significant effect on mathematics achievement compared with traditional methods (d++ = 0.59)](../claims/cooperative-learning-medium-positive-effect-math-achievement.md) [+W]
+- [Cooperative learning is more effective for grade 11 than grade 10 vocational high school mathematics students](../claims/cooperative-learning-grade-11-more-effective-than-grade-10.md) [+W]
+- [Cooperative learning has a medium positive effect (0.89) on vocational high school students' mathematics learning outcomes compared with conventional learning](../claims/cooperative-learning-vhs-math-medium-effect.md) [+W]
+- [Cooperative learning has a small, positive, significant effect on attitudes towards mathematics (d++ = 0.16)](../claims/cooperative-learning-small-effect-attitude-math.md) [+W]
+- [The article identifies creative drama, cooperative learning, educational games, and animations as particularly beneficial vocabulary-teaching methods](../claims/innovative-methods-beneficial-vocabulary-acquisition.md) [+W]
+- [Self-selected and randomly formed small groups show larger achievement effects than ability-based grouping, and groups of three to five students outperform pairs](../claims/group-formation-and-size-moderate-small-group-effects.md) [~W]
 
 ## Related Patterns
 

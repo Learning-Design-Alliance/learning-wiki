@@ -56,3 +56,5 @@ Meta-analysis of single-case research on aided AAC with individuals with ASD, sy
 - Heterogeneity across reviewed single-subject studies limits broad AAC comparisons, warranting more focused syntheses — related
 - [Parent Implemented Intervention Improves Outcomes](parent-implemented-intervention-improves-outcomes.md) — related
 - [Aided AAC systems show advantages over manual signs for acquiring requests, and motor imitation and matching skills predict manual sign acquisition](aided-systems-advantage-over-manual-signs.md) — a narrower finding that bears on this claim
+- [AAC interventions yield moderately large average effects on communication outcomes for school-aged participants with ASD and/or ID, with substantial between-study heterogeneity](aac-interventions-moderately-large-effects-asd-id.md) — related
+- [AAC intervention research overwhelmingly targets behavior regulation and communication production, neglecting joint attention, social interaction, and comprehension](aac-research-targets-behavior-regulation-production-dominance.md) — related

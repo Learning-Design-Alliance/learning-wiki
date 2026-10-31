@@ -42,6 +42,7 @@ Before the PBL cases began, the course prepared students for collaboration throu
 ## Related Strategies
 
 - [Problem Based Learning](problem-based-learning.md)
+- [Include self and collaborative reflection in future PBL research and practice to evaluate students’ own learning and progress](pbl-self-collaborative-reflection-emphasis.md)
 
 ## Examples
 -

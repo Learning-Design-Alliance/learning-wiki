@@ -130,3 +130,4 @@ This synthesis analyzed 138 studies conducted between 1984 and 2002 addressing t
 - [Scaffolding effectiveness depends on knowledge base: high-guidance scaffolding suits less advanced learners, high-self-regulation scaffolding suits advanced learners](scaffolding-guidance-self-regulation-moderated-by-knowledge-base.md) — related
 - [Quasi-experimental and experimental interventions can positively change epistemic cognition, but the theory-of-change remains unidentified](interventions-change-epistemic-cognition.md) — related
 - [Teachers tend to exert more control online while students are underprepared for autonomy, per cited literature](teacher-control-versus-student-autonomy-online.md) — reports the opposite
+- [Among pedagogical interventions, procedural and conceptual learning programs have the highest pooled effect sizes while inquiry-based learning is least effective](pedagogical-subtypes-procedural-conceptual-highest.md) — reports the opposite

@@ -59,3 +59,4 @@ Subgroup analysis of the same QED using the partially nested model on the low-pe
 - [Across the full sample, students receiving the ASSISTments intervention performed comparably to their virtual comparison peers on end-of-year MAP Growth](assistments-full-sample-no-significant-effect.md) — related
 - [Rural students in the 2nd baseline achievement quartile significantly outperformed their comparison peers by 1.53 points](assistments-rural-q2-significant-gains.md) — related
 - [Impacts varied across teachers: 40 of 59 teachers had a majority of their students outperform their virtual comparison counterparts](assistments-teacher-variation-outperformance.md) — related
+- [An average-scoring student rises from the 50th to the 82nd percentile after application of CAME](came-percentile-gain-50-to-82.md) — related

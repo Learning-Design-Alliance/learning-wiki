@@ -56,3 +56,5 @@ Publication bias assessment using funnel plot, Egger's regression intercept (t(1
 - Publication-bias tests (Egger's test and trim-and-fill) indicate absence of publication bias for the overall effect and moderators — related
 - No evidence of dissemination bias was detected in the meta-analysis — related
 - No evidence of publication bias was detected in the pooled L2 gender-difference literature — related
+- [No publication bias was detected among the studies included in the meta-analysis](drama-social-studies-meta-analysis-no-publication-bias.md) — related
+- [Publication bias due to small study effects was limited, and sensitivity analyses supported Winsorizing an outlying effect size](manipulatives-meta-publication-bias-limited.md) — related

@@ -53,3 +53,4 @@ Variance component analysis of diary data from 18 teachers found that 70-88% of 
 - [Most variance in students' epistemic emotions was situational (within-person) fluctuation, with 18–37% due to between-person variability.](within-person-fluctuation-dominates-epistemic-emotions.md) — a broader claim this one bears on
 - [Writing intervention effects for US ELL students do not vary significantly by study quality indicators, participant characteristics, or intervention characteristics](no-significant-moderators-ell-writing-effects.md) — related
 - [SEL can be improved by both short-term targeted interventions and longer-term strategies to improve school contextual factors](sel-improvable-short-and-long-term.md) — related
+- [Effect sizes across the included studies are highly heterogeneous (I² = 91.37%), indicating moderating factors](high-heterogeneity-innovative-models-critical-thinking.md) — related

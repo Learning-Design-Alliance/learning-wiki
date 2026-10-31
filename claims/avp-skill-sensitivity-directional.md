@@ -12,8 +12,8 @@ newest_evidence: 2026
 sources:
   - id: angela-chen-2026
     resource: "https://doi.org/10.48550/arxiv.2606.10051"
-    title: "Angela Chen, Siwei Jin, Catherine Bao, Canwen Wang, Robert E. Kraut, Tongshuang Wu, and Haiyi Zhu. (2026). Empirically Grounded Behavioral Adaptivity for LLM-Based Virtual Patients in Psychotherapy Training. https://arxiv.org/abs/2606.10051 [doi:10.48550/arxiv.2606.10051](https://doi.org/10.48550/arxiv.2606.10051)"
-    author: Angela Chen, Siwei Jin, Catherine Bao, Canwen Wang, Robert E. Kraut, Tongshuang Wu, and Haiyi Zhu
+    title: "Angela Chen, Siwei Jin, Catherine Bao, Canwen Wang, Yi-Chia Wang, Robert E. Kraut, Tongshuang Wu, and Haiyi Zhu. (2026). Empirically Grounded Behavioral Adaptivity for LLM-Based Virtual Patients in Psychotherapy Training. https://arxiv.org/abs/2606.10051 [doi:10.48550/arxiv.2606.10051](https://doi.org/10.48550/arxiv.2606.10051)"
+    author: Angela Chen, Siwei Jin, Catherine Bao, Canwen Wang, Yi-Chia Wang, Robert E. Kraut, Tongshuang Wu, and Haiyi Zhu
     q: 2
     i: "?"
     kind: design
@@ -33,7 +33,7 @@ sources:
 
 ### Angela Chen 2026
 
-Angela Chen, Siwei Jin, Catherine Bao, Canwen Wang, Robert E. Kraut, Tongshuang Wu, and Haiyi Zhu. (2026). Empirically Grounded Behavioral Adaptivity for LLM-Based Virtual Patients in Psychotherapy Training. https://arxiv.org/abs/2606.10051 [doi:10.48550/arxiv.2606.10051](https://doi.org/10.48550/arxiv.2606.10051)
+Angela Chen, Siwei Jin, Catherine Bao, Canwen Wang, Yi-Chia Wang, Robert E. Kraut, Tongshuang Wu, and Haiyi Zhu. (2026). Empirically Grounded Behavioral Adaptivity for LLM-Based Virtual Patients in Psychotherapy Training. https://arxiv.org/abs/2606.10051 [doi:10.48550/arxiv.2606.10051](https://doi.org/10.48550/arxiv.2606.10051)
 
 `q2 · i?` · `design · r2`
 

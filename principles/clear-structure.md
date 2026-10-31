@@ -31,7 +31,7 @@ sources:
 # Clear Structure
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 35 claims (23 for, 11 mixed, 1 against) · 38 studies (13 causal, 7 quant-synthesis, 7 review, 6 qualitative, 4 theoretical, 1 associational), `q1`–`q4` · 9 of 38 report an effect size · 26 claims rest on one study
+> **Evidence** · 36 claims (23 for, 12 mixed, 1 against) · 39 studies (13 causal, 7 quant-synthesis, 7 review, 6 qualitative, 4 theoretical, 1 associational), `q1`–`q4` · 9 of 39 report an effect size · 27 claims rest on one study
 
 ## Conditional relationship
 
@@ -129,6 +129,7 @@ A gain on an immediate test, a change in what is recalled, delayed retention, tr
 - [DHH students' feedback suggests the signaling principle may be a valuable design consideration](../claims/dhh-signaling-principle-valuable.md) [+W]
 - [Greater use of the navigation map is associated with less relevant searching in a hypermedia learning task](../claims/map-use-negative-search-correlation.md) [~W]
 - [Trainees in the unstructured navigation condition showed better operational performance on the transfer task than trainees in the structured condition, approaching significance.](../claims/unstructured-navigation-better-transfer-performance.md) [-W]
+- [School level, explicit instruction, and signal words did not significantly moderate text structure instruction effects](../claims/tsi-null-moderators-school-explicit-signal-words.md) [~W]
 
 ## Related Principles
 

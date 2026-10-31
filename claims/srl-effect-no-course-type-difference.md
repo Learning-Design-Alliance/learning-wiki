@@ -53,3 +53,5 @@ Moderator analysis across Science (k=4), Mathematics (k=8), Social Sciences (k=6
 - [Self-regulated learning ability significantly moderates Gen-AI's effect on HOT: high-SRL students show ES = 0.863 versus ES = 0.284 for low-SRL students](genai-srl-moderator.md) — related
 - [Mixed courses show the largest effect among teaching types (ES = 1.34), and effects decline as group size increases beyond 2–3 members](mixed-courses-and-small-groups-strongest-cps-effects.md) — related
 - [The pooled effect of self-regulated learning does not differ significantly by school level](srl-effect-no-school-level-difference.md) — related
+- [The effect of learning-styles-tailored instruction on academic achievement does not differ significantly by course type](achievement-effect-independent-of-course-type.md) — related
+- [Course type significantly moderates the digital story effect: mathematical/statistical courses show a larger effect (1.085) than non-mathematical courses (0.585)](digital-story-effect-moderated-by-course-type.md) — related

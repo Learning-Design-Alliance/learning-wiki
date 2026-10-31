@@ -60,8 +60,10 @@ Role play in a familiar, realistic setting lets learners externalize and rehears
 5. Close with a [Check-In](../elements/check-in.md) and individual reflection: learners name the emotions they portrayed, what caused them, and what they noticed about others' characters ([Application](../elements/application.md), [Practice](../elements/practice.md)).
 
 ## Related Strategies
+
 - [Acting-Role-Play](acting-role-play.md) — the broader strategy; the home living center is a themed, early-childhood instantiation of it
 - [Act It Out](act_it_out.md) — enactment of emotions or content in physical performance
+- [Pair JAS with student-centered models and strategies](jas-with-student-centered-models.md)
 
 ## Related Elements
 - [Act-It-Out](../elements/act-it-out.md) — the core enactment move

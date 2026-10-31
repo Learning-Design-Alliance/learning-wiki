@@ -53,3 +53,4 @@ Narrative review of user studies, section 2.1. The review reports this from Rose
 - 79% of literacy apps include adult-directed information, but few offer performance feedback (17%) or detail on educational content (14%) — related
 - [Hyper-reference dictionary users consulted vocabulary twice as often as paper-dictionary users, though comprehension did not differ significantly](hyper-reference-consultation-frequency-no-comprehension-gain.md) — related
 - [Listening was the most frequently practiced language skill in the applications, while grammar was the least frequently practiced](listening-most-practiced-skill-apps.md) — related
+- [MALL research to 2015 concentrates on vocabulary learning, SMS delivery, and sophomore university learners](mall-research-landscape-vocabulary-sms-sophomores.md) — related

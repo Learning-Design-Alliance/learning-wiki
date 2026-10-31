@@ -46,6 +46,7 @@ The review recommends that future evaluations of MBIs for youth move beyond smal
 ## Related Strategies
 
 - [Scale to multisite, large, representative longitudinal samples while complementing them with exploratory small-sample studies](multisite-representative-longitudinal-samples.md)
+- [Prioritize larger randomized trials in pedagogical research and more representative evaluations across Africa](larger-rcts-pedagogical-research-recommendation.md)
 
 ## Examples
 -

@@ -82,3 +82,4 @@ WWC calculations from the Bowen et al. (2014) RCT: final exam effect size 0.11, 
 - [OLI evidence base covers community college and postsecondary students across diverse racial and ethnic groups](oli-evidence-scope-postsecondary-populations.md) — related
 - [OLI has potentially positive effects on credit accumulation and persistence among postsecondary students](oli-potentially-positive-credit-accumulation-persistence.md) — related
 - [Suh et al. (2019) found a positive but non-significant effect on course passing rate (effect size 0.80) and a negative non-significant effect on final exam score](suh-2019-mixed-achievement-findings.md) — related
+- [CAI has a moderate positive effect on student achievement in postsecondary statistics education (d = 0.566)](cai-moderate-positive-effect-postsecondary-statistics.md) — related

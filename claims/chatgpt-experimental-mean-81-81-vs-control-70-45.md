@@ -51,3 +51,4 @@ Descriptive comparison of final-test means from the results section, with 31 res
 - [ChatGPT-integrated instruction produced significantly higher post-test writing motivation scores than conventional instruction among EFL learners, with a medium effect size](chatgpt-instruction-enhanced-efl-writing-motivation.md) — related
 - ChatGPT-enhanced instruction produced significantly higher overall post-test achievement in Grade 12 Quantum Theory than traditional teaching, with a large effect size (η² > 0.14) — related
 - [In a 16-week quasi-experiment, A-Level STEM students receiving high-frequency automated marking scored 16.8 percentage points higher on a blind-graded final mock exam than control students with human marking](automated-marking-16-point-mock-gain-a-level-stem.md) — related
+- [Studies report experiment classes using JAS achieve higher average study results than control classes](jas-experiment-class-higher-than-control.md) — related

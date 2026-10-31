@@ -47,7 +47,8 @@ The authors propose extending GI/E research along several lines: examining furth
 - [The GI/E pattern of relations between achievement and learning-environment perceptions is more pronounced for math achievement than for language achievement.](../claims/stronger-gie-pattern-for-math.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Future research should examine drama's effects on attitudes, values, skills, and motivation in social studies, and include more doctoral-level studies](future-drama-social-studies-research-directions.md)
 
 ## Examples
 -

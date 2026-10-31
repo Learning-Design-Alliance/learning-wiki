@@ -47,7 +47,7 @@ The authors meta-analyzed 29 experimental and quasi-experimental studies of stud
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does teaching writing as a staged process with feedback on drafts raise writing quality, and what has to be inside it for the gain to appear?* This table gathers the studies behind this claim and the 13 narrower claims that bear on it: **14 distinct studies** (6 causal, 4 quant-synthesis, 2 theoretical, 1 qualitative, 1 design), `q1`–`q4`, 5 of 14 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Do time for revision and explicit criteria condition the gain?* This table gathers the studies behind this claim and the 13 narrower claims that bear on it: **14 distinct studies** (6 causal, 4 quant-synthesis, 2 theoretical, 1 qualitative, 1 design), `q1`–`q4`, 5 of 14 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -114,3 +114,4 @@ The authors meta-analyzed 29 experimental and quasi-experimental studies of stud
 - [Combining collaborative-writing observation, text analysis, and retrospective-prospective interviews provides productive tools to assess writing processes and knowledge of struggling adult writers](triangulated-assessment-writing-processes-adults.md) — related
 - [Most interviewees attributed writing improvement to explicit instruction, scaffolding and collaborative learning, and self-regulated writing, though some felt uncomfortable in pair work](gbsri-interview-attributions-and-pair-work-discomfort.md) — a narrower finding that bears on this claim
 - [Writing instruction produces a statistically significant positive overall effect on the writing performance of K-12 English language learners in the United States (g = 0.33)](writing-instruction-positive-overall-effect-us-ell.md) — related
+- [Writing instruction effects on quality were descriptively larger for weak writers (0.47) than typical writers (0.08), but not statistically significant without considering instructional focus](weak-writers-larger-quality-effects-descriptive.md) — related

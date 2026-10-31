@@ -13,7 +13,7 @@ generated:
 # Inquiry
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 12 claims (5 for, 7 mixed) · 25 studies (9 quant-synthesis, 8 review, 4 causal, 3 theoretical, 1 associational), `q1`–`q4` · 9 of 25 report an effect size · 6 claims rest on one study
+> **Evidence** · 13 claims (6 for, 7 mixed) · 26 studies (9 quant-synthesis, 8 review, 4 causal, 3 theoretical, 1 associational), `q1`–`q4` · 10 of 26 report an effect size · 7 claims rest on one study
 
 ## Description
 Inquiry places learners in the role of investigator: they pose or pursue questions, collect and evaluate evidence, and construct explanations with instructor support. It ranges along a continuum from structured (instructor-provided question and procedure) to open (learner-generated questions and methods), with the instructor acting as [Coaching](coaching.md) and facilitator rather than primary explainer.
@@ -58,6 +58,7 @@ Inquiry supports learning by engaging learners in knowledge construction, which 
 - [No significant difference in motivation for learning science between computer-based and regular-classroom inquiry groups](../claims/no-motivation-difference-ibl-environments.md) [~W]
 - [Systematic review identifies five distinct general inquiry phases: Orientation, Conceptualization, Investigation, Conclusion, and Discussion](../claims/five-general-inquiry-phases-identified.md) [~W]
 - [Open inquiry affects students' motivation, though one reviewed study found no significant difference in collaborative attitudes](../claims/open-inquiry-student-motivation.md) [~W]
+- [Problem posing interventions show a large positive effect on students' levels and kinds of problems posed (mean Hedges' g = 0.77)](../claims/problem-posing-positive-effect-ability-based.md) [+W]
 
 ## The evidence by question
 

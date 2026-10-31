@@ -72,3 +72,4 @@ Heterogeneity analysis within the same three-level model: "total I² = 72.7%", w
 - [Technology effects on TEFL outcomes trend upward across educational levels (primary g = 0.29, secondary g = 0.35, tertiary g = 0.44), though between-level differences are not statistically significant](tefl-tech-effects-increase-by-educational-level.md) — related
 - Effect sizes vary widely between studies and especially between comparisons within studies — related
 - [Effect sizes across included studies show high heterogeneity (all I² above 75%)](high-heterogeneity-er-burnout-effects.md) — related
+- [Metacognitive training has a statistically significant positive effect on K-12 students' algebraic reasoning across 18 studies (initial pooled d=2.284)](metacognitive-training-positive-effect-algebraic-reasoning.md) — related

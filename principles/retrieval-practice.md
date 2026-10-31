@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 149 claims (66 for, 73 mixed, 10 against) · 75 studies (37 causal, 16 review, 8 quant-synthesis, 6 theoretical, 5 associational, 3 qualitative), `q1`–`q4` · 22 of 75 report an effect size · 142 claims rest on one study
+> **Evidence** · 150 claims (66 for, 74 mixed, 10 against) · 76 studies (37 causal, 16 review, 8 quant-synthesis, 6 theoretical, 5 associational, 3 qualitative), `q1`–`q4` · 22 of 76 report an effect size · 143 claims rest on one study
 
 ## Conditional relationship
 
@@ -275,6 +275,7 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - [Failure learning and transfer parameters are not sustained in later trials, suggesting repeating the same feedback does not provide sustained assistance](../claims/failure-feedback-not-cumulative-later-trials.md) [~W]
 - [Hints in multiple-try feedback improve performance on a delayed test one week later](../claims/hints-improve-delayed-testing-one-week-later.md) [+W]
 - [Practice testing outperforms no-activity controls and restudy, with format and feedback moderators](../claims/practice-testing-superior-to-restudy.md) [~W]
+- [Science effects differed by country of evaluation, with U.S. studies (g = 0.46) showing smaller effects than Turkish studies (g = 0.96)](../claims/country-moderates-5e-science-effects.md) [~W]
 
 ## Related Principles
 - [Pretesting (Prequestions Before Study)](pretesting.md)

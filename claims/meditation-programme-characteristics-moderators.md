@@ -53,3 +53,4 @@ The review's percentage-of-significant-effects analysis of programme characteris
 - [Interventions lasting one to two months show the largest effect, and effects do not increase consistently with longer duration](ai-effect-duration-one-to-two-months-peak.md) — related
 - [SRL intervention effects are moderated by delivery agent, duration, domain, and student age, with inconsistent duration findings](srl-intervention-moderators-agent-domain-age.md) — reports the opposite
 - [Longer total intervention time is associated with greater learning gains, especially for low achievers](longer-time-on-task-greater-gains.md) — related
+- [Achievement effects of cooperative learning are similar across experiment durations of 3–8, 9–14, and 15–20 weeks](cooperative-learning-achievement-duration-moderator.md) — related

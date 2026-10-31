@@ -9,6 +9,7 @@ generated:
   at: 2026-10-16
 evidence_strength: weak
 newest_evidence: 2007
+source_checked: 2026-10-31
 sources:
   - id: pyc-2007
     resource: "https://link.springer.com/article/10.3758/BF03192925"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2007 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Comparison of the 1-5-9 expanding and 5-5-5 fixed conventional schedules in Experiment 1 showed no advantage for the expanding schedule. [→ Pyc 2007](#pyc-2007)

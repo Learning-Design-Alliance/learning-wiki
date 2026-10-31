@@ -13,7 +13,7 @@ generated:
 # Concrete Modeling
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (1 for, 1 mixed, 2 against) · 3 studies (1 causal, 1 quant-synthesis, 1 review), `q3`–`q4` · 1 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (1 for, 2 mixed, 2 against) · 4 studies (1 causal, 1 quant-synthesis, 1 review), `q3`–`q4` · 2 of 4 report an effect size · 5 claims rest on one study
 
 ## Description
 Concrete modeling is the element in which physical or tangible representations are used to make abstract relationships visible.
@@ -27,6 +27,7 @@ Concrete modeling is the element in which physical or tangible representations a
 - [Manipulatives Improve Math Learning](../claims/manipulatives-improve-math-learning.md) [+M]
 - [The abstract advantage stems from the use of multiple representations rather than concreteness itself: single concrete and abstract conditions did not differ, and both outperformed multiple concrete representations](../claims/multiple-representations-cost-not-concreteness.md) [-W]
 - [In Experiment 1, abstract representations produced better symbol learning than multiple concrete representations, but only for children who completed the concrete condition first](../claims/exp1-abstract-advantage-order-interaction.md) [-M]
+- [Virtual manipulatives show a non-significant advantage over physical manipulatives on mathematics achievement](../claims/virtual-vs-physical-manipulatives-non-significant.md) [~W]
 
 ## Related Elements
 - [Conceptual Overviews](conceptual-overviews.md)

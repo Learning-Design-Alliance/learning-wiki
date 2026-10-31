@@ -52,3 +52,5 @@ Discipline moderator analysis across the 35 studies. Science g = 0.676, mathemat
 - [Discipline significantly moderates the effects of educational robotics on STEM learning, with larger effects in technology and cross-disciplinary contexts than in science and mathematics](discipline-moderates-robotics-stem-effects.md) — reports the opposite
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — related
 - [Mathematics and technology show the highest pre–post scaffolding effect sizes among STEM disciplines (ḡ = 1.29 and ḡ = 1.06)](scaffolding-stem-discipline-moderation.md) — reports the opposite
+- [Effect sizes for the flipped classroom are higher in humanities studies than in STEM, but the difference should not be given too much weight](discipline-moderates-flipped-classroom-effect.md) — related
+- [Digital technology-assisted STEM education shows a significantly larger effect on science achievement (d=2.838) than on mathematics achievement (d=1.255)](stem-digital-effect-science-larger-than-math.md) — reports the opposite

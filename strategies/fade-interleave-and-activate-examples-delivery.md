@@ -52,6 +52,7 @@ The review's design and delivery recommendations: use completion problems with i
 
 - [Extending game-based worked examples with practice problems, fading, self-explanation, verbal instruction and subgoals](extending-game-based-worked-examples-for-greater-improvement.md)
 - [Provide subgoal hints alongside step hints in proof construction](subgoal-hints-in-proof-tutoring.md)
+- [Embed discussion and high-quality explanations within explicit, step-by-step mathematics instruction](embed-discussion-within-explicit-math-instruction.md)
 
 ## Examples
 -

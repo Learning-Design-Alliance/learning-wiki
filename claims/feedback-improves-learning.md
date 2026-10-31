@@ -201,3 +201,4 @@ Open questions: how durable feedback effects are over time, how feedback interac
 - [Teachers provided targeted extra support, immediate feedback, and reinforcers to learners with DD](targeted-support-feedback-reinforcers-dd.md) — related
 - [AI feedback after sessions can provide on average eight qualified comments aligned with expert feedback per 30-min lesson](ai-feedback-eight-comments-per-lesson.md) — related
 - [A large meta-analysis found that feedback channel per se is non-significant](feedback-channel-non-significant-moderator.md) — related
+- [A prior meta-analysis cited in the review found feedback interventions worsened performance in 50 of 131 well-designed studies](kluger-denis-feedback-worse-50-of-131.md) — a narrower finding that bears on this claim

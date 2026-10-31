@@ -49,3 +49,4 @@ Null result from the LCA of 891 cases: these elements showed no evidence of disc
 - [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — related
 - [Student choice is rare in authentic assessment designs while assigned, sometimes graded, self-reflection is more common](aa-student-choice-rare-reflection-assigned.md) — related
 - [Latent class analysis of 27 design elements yields a five-class solution in which only ten instructional design elements significantly contribute (R² .204–.880), showing peer assessment designs are less diverse than theoretically possible](lca-five-class-ten-design-elements.md)
+- [Effect sizes of Arduino-based education do not differ statistically between formal and non-formal curriculum settings](arduino-effect-curriculum-no-difference.md) — related

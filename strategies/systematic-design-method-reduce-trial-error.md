@@ -43,7 +43,7 @@ Based on the case study findings, the authors recommend following a systematic, 
 
 - [Frustration during the design process was related to unexpected events, with more unexpected events yielding greater frustration and worse perceived performance](../claims/frustration-related-to-unexpected-design-events.md) [+W]
 - [Module VI (conceptual design) showed the highest perceived workload, attributed to sketch-based conceptualization with extensive trial and error](../claims/module-vi-highest-workload-conceptualization.md) [+W]
-- [NASA-TLX dimensions varied systematically by design phase: frustration and mental demand were highest in initial modules and mental demand low during manufacturing](../claims/nasa-tlx-dimensions-vary-by-design-phase.md) [+W]
+- [NASA-TLX dimensions varied by design phase: frustration and mental demand rose considerably in the initial modules, and mental demand was lower during the final manufacturing steps](../claims/nasa-tlx-dimensions-vary-by-design-phase.md) [+W]
 - [Designer workload across an 11-module instructional design model for product development averaged normal-to-high (50–75%)](../claims/nasa-tlx-normal-high-workload-design-process.md) [+W]
 
 ## Related Strategies

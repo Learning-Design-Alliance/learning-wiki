@@ -53,3 +53,4 @@ Moderator analysis (Model 3) probing the significant proximity × dosage interac
 - [Dosage significantly predicts intervention effects in a linear model (β = 0.03 per hour), but the dosage main effect is no longer significant after controlling for moderators](dosage-slope-nonsignificant-with-moderators.md) — related
 - [Intervention dosage moderates child language outcomes: brief interventions under 60 minutes show no significant effect](book-sharing-dosage-moderates-language-outcomes.md) — related
 - [Anticipating application of learning in the distant future broadens generalization relative to anticipating near-future application](temporal-distance-broadens-generalization.md) — related
+- [Variation in instructional dosage did not explain variation in writing instruction effect sizes](instructional-dosage-no-moderation-writing-instruction.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-12
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-31
 sources:
   - id: leyi-li-2026
     resource: "https://doi.org/10.1145/3800645.3813071"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2`–`i3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Effort scores were lower in AI+Robot (M = 4.92) than AI-Only (M = 7.50), dz = 0.72. [→ Leyi Li 2026](#leyi-li-2026)

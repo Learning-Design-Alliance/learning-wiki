@@ -45,6 +45,7 @@ The article recommends that AAC implementation extend beyond introducing the com
 ## Related Strategies
 
 - [Parent-teacher collaboration on independent self-care tasks and patience training to promote EF](parent-teacher-collaboration-independent-tasks-patience.md)
+- [Design comprehensive AAC intervention protocols that extend beyond requesting to maintenance, generalization, and naturalistic contexts](aac-protocols-beyond-requesting-maintenance-generalization.md)
 
 ## Examples
 -

@@ -71,3 +71,4 @@ Item-level correlations between training and six APPS/ATTS items, with r values 
 - [Attitudes and demographics predicted empathy in the prostitute-label group but not the trafficking-label group](label-condition-moderates-empathy-predictors.md) — related
 - [Previous dyslexia training and confidence predict teachers' dyslexia knowledge, but years of experience do not](training-confidence-predict-dyslexia-knowledge-not-experience.md) — related
 - [Participants with prior communication-training experience achieved higher overall 3E scores than those without](prior-training-higher-3e-scores.md) — related
+- [Programs reduce rape myth acceptance relative to control (g = −0.47)](tdv-programs-reduce-rape-myth-acceptance.md) — related

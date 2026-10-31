@@ -47,6 +47,7 @@ Drawing on the study's findings together with prior causal evidence, the article
 ## Related Strategies
 
 - [Assess and target discourse-level oral language and transcription skills to locate and address sources of writing difficulty](assess-target-discourse-oral-language-and-transcription-skills.md)
+- [Target multiple writing components (as in SRSD) rather than transcription skills alone for primary grade writing instruction](multi-component-writing-instruction-primary-grades.md)
 
 ## Examples
 -

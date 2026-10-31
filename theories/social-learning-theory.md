@@ -12,7 +12,7 @@ generated:
 # Social Learning Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 25 claims (14 for, 8 mixed, 3 against) · 16 studies (9 causal, 2 quant-synthesis, 2 review, 2 associational, 1 qualitative), `q1`–`q3` · 6 of 16 report an effect size · 25 claims rest on one study
+> **Evidence** · 26 claims (15 for, 8 mixed, 3 against) · 17 studies (9 causal, 2 quant-synthesis, 2 review, 2 associational, 1 qualitative), `q1`–`q3` · 6 of 17 report an effect size · 26 claims rest on one study
 
 ## Description
 Social Learning Theory, developed primarily by Albert Bandura, proposes that learning occurs not only through direct reinforcement (as behaviorism holds) but also through observation of others and the cognitive processing of those observations. The core mechanism is *modeling*: learners observe a model performing a behavior, encode the behavioral pattern, and reproduce it — with reproduction mediated by attention, retention, motor reproduction, and motivation. Bandura's Bobo doll studies (Bandura, Ross, & Ross, 1961) are the theory's signature demonstration: children who watched an adult model act aggressively toward an inflatable doll reproduced that aggression themselves. Observational learning can occur in at least three ways (Lefrançois, 2012): a learner acquires an entirely new response; a learner decides whether to imitate a model based on what happened to the model; or a learner extracts a general rule applicable beyond the specific modeled instance. Bandura distinguished three kinds of models: a **live model** demonstrates the behavior in person; a **verbal instructional model** describes or explains the behavior without performing it (e.g., a coach describing correct kicking technique); and a **symbolic model** is a real or fictional figure demonstrating behavior through media (books, film, television, video games, the internet).
@@ -76,6 +76,7 @@ Social Cognitive Theory is not a fully unified theory: the literature offers no 
 - [Observing a peer's choices and outcomes improves probabilistic learning performance relative to individual learning in both children and young adults](../claims/observing-peer-outcomes-improves-probabilistic-learning.md) [+W]
 - [Participants perceived the observational task as social learning: 93% reported attending to the observed peer and rated them as similar, reliable and believable](../claims/social-manipulation-credibility-check.md) [+W]
 - [The two films were equally effective in motivating men to perform observed acts associated with approved personal hygiene practices](../claims/films-equal-motivation-hygiene-acts.md) [+W]
+- [Video modeling interventions yield strong or moderate treatment effects in 56% of reviewed studies of students with EBD](../claims/vm-ebd-56-percent-strong-moderate-pnd.md) [+W]
 
 ## Related Theories
 

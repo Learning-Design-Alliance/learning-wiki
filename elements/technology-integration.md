@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 134 claims (61 for, 62 mixed, 11 against) · 116 studies (25 associational, 23 qualitative, 20 causal, 18 review, 14 design, 11 quant-synthesis, 5 theoretical), `q1`–`q4` · 20 of 116 report an effect size · 131 claims rest on one study
+> **Evidence** · 140 claims (65 for, 64 mixed, 11 against) · 120 studies (25 associational, 23 qualitative, 20 causal, 18 review, 14 design, 11 quant-synthesis, 5 theoretical), `q1`–`q4` · 23 of 120 report an effect size · 137 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -159,6 +159,12 @@ Technology integration is the element in which digital tools are used in direct 
 - [MISTT analysis revealed mismatches in teacher identity expectations which may hinder effective technology integration](../claims/mistt-identity-expectation-mismatches-hinder-technology-integration.md) [~W]
 - [Teacher-led robot curriculum with teacher education improves pupils' debugging scores relative to control](../claims/teacher-education-robot-curriculum-improves-debugging.md) [+W]
 - [The more pre-service teachers perceive the six ICT-integration strategies occurring in their teacher education, the higher their perceived ICT competence](../claims/perceived-strategy-occurrence-positively-associated-ict-competence.md) [+W]
+- [Computer-Assisted Mathematics Education has a large positive overall effect on academic achievement (ES = .8999) in Turkish experimental and quasi-experimental studies](../claims/came-large-positive-effect-academic-achievement.md) [+W]
+- [E-learning has a significant positive influence on VET learning, with an average effect size of η² = 0.344 across 18 studies](../claims/e-learning-significant-effect-vet-learning.md) [+W]
+- [Meta-analysis finds MALL intervention has a positive overall effect on EFL learning (ES = 0.425)](../claims/mall-meta-analysis-positive-overall-effect-efl.md) [+W]
+- [Success of e-learning implementation depends on facilities, management ability, learners' 21st-century technology skills, ease of use, pedagogic focus, collaboration, content quality, and user satisfaction](../claims/e-learning-success-factors-vet.md) [~W]
+- [Aided versus unaided AAC does not statistically moderate AAC effects, though exclusive aided AAC descriptively yields the largest estimates](../claims/aided-vs-unaided-aac-no-significant-difference.md) [~W]
+- [The article reports that usage of specialized software increased the positive effect of CAE on mathematics achievement](../claims/specialized-software-increased-cae-effect.md) [+W]
 
 ## The evidence by question
 - *Does building AI tools into instruction raise achievement over teaching the same content without them, and in which settings?* [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](../claims/ai-instruction-stem-moderate-positive-effect.md) [+M]

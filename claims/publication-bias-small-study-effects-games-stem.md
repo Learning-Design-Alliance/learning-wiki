@@ -51,3 +51,4 @@ Publication-bias analysis using Egger's regression test and Duval & Tweedie's tr
 - The text generation research field shows a small-study effect suggesting publication bias — related
 - [Publication bias is detected in the cross-sectional data set, and bias-corrected estimates are highly heterogeneous](publication-bias-cross-sectional-avg-data.md) — related
 - Publication-bias tests (Egger's test and trim-and-fill) indicate absence of publication bias for the overall effect and moderators — related
+- [Flipped classroom interventions show no reliable average gain in student satisfaction after bias correction](flipped-classroom-no-satisfaction-gain.md) — related

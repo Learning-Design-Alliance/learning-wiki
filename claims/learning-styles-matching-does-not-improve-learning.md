@@ -85,7 +85,7 @@ The review attributes this to Stahl (1999), a reading researcher, and notes Will
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does assigning tasks or formats to match a learner's measured style improve learning more than giving every learner the same well-chosen task?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **7 distinct studies** (5 causal, 2 review), `q2`–`q3`, 2 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*What should the adaptation be based on: responses, or learner styles and preferences?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **7 distinct studies** (5 causal, 2 review), `q2`–`q3`, 2 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -160,3 +160,5 @@ The review attributes this to Stahl (1999), a reading researcher, and notes Will
 - [Meta-analyses testing the matching hypothesis show a negligible overall effect of matching teaching to students' learning styles (d = 0.04)](matching-learning-styles-negligible-effect.md) — possibly the same claim (merge candidate)
 - [Learning-styles models (particularly VAK) continue to be believed in by most teachers and persist in teacher training despite evidence of no positive impact on educational outcomes](learning-styles-vak-persist-teacher-training.md) — related
 - [Strong unmet learning-style preferences produce stronger negative effects on performance than moderate or weak unmet preferences](strong-preferences-stronger-mismatch-effects.md) — reports the opposite
+- [The effect of learning-styles-tailored instruction on academic achievement does not differ significantly by learning style model](achievement-effect-independent-of-learning-style-model.md) — reports the opposite
+- [The included studies did not test the learning-style-by-instructional-method interaction, so the achievement gains cannot be attributed to matching instruction to styles](learning-styles-studies-lack-style-method-interaction-test.md) — a narrower finding that bears on this claim

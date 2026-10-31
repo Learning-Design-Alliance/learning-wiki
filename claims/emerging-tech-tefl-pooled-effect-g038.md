@@ -56,3 +56,5 @@ Random-effects meta-analysis of 33 experimental and quasi-experimental studies (
 - [Technology-supported educational interventions are associated with higher metacognitive outcomes on average (g = 0.653), with substantial between-study heterogeneity](technology-interventions-positive-pooled-metacognition-effect.md) — related
 - [GenAI effects on externally assessed learning are highly heterogeneous and conditional on prior knowledge, scaffolding, verification, and task design, with pooled effects unstable under publication-bias correction](genai-learning-effects-heterogeneous-conditional.md) — related
 - [Effect sizes of technology-delivered literacy instruction are heterogeneous across studies (Q = 165.38, I2 = 68.56)](tech-literacy-effect-heterogeneity.md) — related
+- [Effect size estimates for hands-on science interventions are highly heterogeneous across studies](hands-on-effect-sizes-high-heterogeneity.md) — related
+- [Web 2.0 technologies (wikis and blogs) show a positive, moderate pooled effect on academic performance (E++ = 0.740) across 19 quasi-experimental studies](web20-pooled-effect-academic-performance-0740.md) — related

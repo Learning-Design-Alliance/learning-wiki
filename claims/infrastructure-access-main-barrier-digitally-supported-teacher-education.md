@@ -58,3 +58,4 @@ Descriptive frequency analysis of primary barriers in the RQ1/RQ2 subset (N = 15
 - [Teacher training need and access difficulties are the main reported barriers to using assistive technology with students with disabilities](at-barriers-teacher-training-access.md) — related
 - [Teachers' most frequently cited barrier to classroom technology use was lack of access to technology, on both pre- and post-surveys](technology-access-top-barrier-for-teachers.md) — possibly the same claim (merge candidate)
 - Data collection implementation and sample size are the most frequent limitations in digital competence research — related
+- [Tertiary institutions face substantial ICT infrastructure constraints, with 54.2% of colleges lacking well-equipped computer laboratories and only 46% ICT usage reported](ict-infrastructure-constraints-tertiary-colleges.md) — a narrower finding that bears on this claim

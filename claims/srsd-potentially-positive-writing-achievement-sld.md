@@ -54,3 +54,4 @@ The WWC's systematic review of single-case design studies of SRSD for students w
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [No SRSD study met WWC group design standards; 10 of 14 eligible single-case design studies met pilot standards with reservations](srsd-evidence-base-group-design-null.md) — related
 - [Single-case design evidence for SRSD on math achievement does not reach the WWC threshold for inclusion in effectiveness ratings](srsd-math-evidence-below-threshold.md) — related
+- [SRSD instruction had large and consistent positive effects across composition outcomes (0.59–1.04) for primary grade students](srsd-large-consistent-effects-primary-grades.md) — related

@@ -44,6 +44,7 @@ The article recommends a "multi-faceted, ongoing assessment strategy" combining 
 
 - [Research agenda: investigate affective dynamics with within-person, longitudinal, and multi-channel methods](affective-dynamics-research-agenda-curiosity-interest.md)
 - [Select and train motivational mentors who regulate their own motivation and use autonomy-supportive behaviors](select-train-autonomy-supportive-motivational-mentors.md)
+- [Include self and collaborative reflection in future PBL research and practice to evaluate students’ own learning and progress](pbl-self-collaborative-reflection-emphasis.md)
 
 ## Examples
 -

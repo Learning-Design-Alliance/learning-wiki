@@ -50,3 +50,8 @@ Heterogeneity analysis within the same meta-analysis of 53 studies. The article 
 - [Emerging technologies show a small-to-moderate positive overall effect on TEFL outcomes (g = 0.38, corrected to 0.28 for publication bias)](emerging-tech-tefl-pooled-effect-g038.md) — related
 - [Effects of game-based learning in STEM education vary substantially across studies, with prediction intervals spanning trivial-to-negative through very strong effects](games-stem-substantial-heterogeneity-prediction-intervals.md) — related
 - [Technology-delivered literacy instruction produces a small, statistically significant positive effect on norm- or criterion-referenced literacy outcomes for K-5 students (g = 0.24)](tech-literacy-instruction-small-positive-effect-k5.md) — related
+- [Significant heterogeneity exists among service-learning effect sizes across studies](heterogeneity-service-learning-effect-sizes.md) — related
+- [Effect sizes across the included studies are highly heterogeneous (I² = 91.37%), indicating moderating factors](high-heterogeneity-innovative-models-critical-thinking.md) — related
+- [Effect sizes across the modelling study pool were heterogeneous, requiring a random-effects model](modelling-study-pool-heterogeneous-random-effects.md) — related
+- [Effect size distributions were heterogeneous for knowledge-based, ability-based, and attitude-belief outcomes but homogeneous for skill-based outcomes](problem-posing-effect-heterogeneity.md) — related
+- [Effect sizes of small-group learning studies in engineering and technology education are significantly heterogeneous, justifying moderator analyses](small-group-effect-sizes-heterogeneous-engineering-technology.md) — a narrower finding that bears on this claim

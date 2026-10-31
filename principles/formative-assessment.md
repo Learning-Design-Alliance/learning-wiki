@@ -44,7 +44,7 @@ sources:
 # Formative Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 39 claims (24 for, 15 mixed) · 50 studies (12 causal, 12 quant-synthesis, 12 review, 5 associational, 5 theoretical, 2 qualitative, 2 design), `q1`–`q4` · 16 of 50 report an effect size · 27 claims rest on one study
+> **Evidence** · 40 claims (24 for, 16 mixed) · 51 studies (12 causal, 12 quant-synthesis, 12 review, 5 associational, 5 theoretical, 2 qualitative, 2 design), `q1`–`q4` · 16 of 51 report an effect size · 28 claims rest on one study
 
 ## Description
 
@@ -270,6 +270,7 @@ The article recommends that pronunciation-focused audio discussions be embedded 
 - [Peer assessment of oral presentations improves self-concept relative to control and improves presentation performance, but outcome studies remain few](../claims/peer-oral-presentation-outcomes.md) [+W]
 - [LA-enhanced feedback practices are associated with improved student academic performance, the most frequently reported pedagogical objective (37% of studies)](../claims/la-feedback-academic-performance-improved.md) [+W]
 - [Measures of what an individual does reveal little about his achievement, whereas measures of what he can do help locate his difficulties and virtues](../claims/capacity-measures-diagnose-difficulties-and-virtues.md) [+W]
+- [Education level does not significantly moderate the effect of formative assessment on student learning](../claims/education-level-no-moderation-formative-assessment.md) [~W]
 
 ## Key Sources
 

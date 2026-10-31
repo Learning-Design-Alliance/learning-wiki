@@ -49,3 +49,4 @@ Study within a medical-education context testing whether sensing-style learners 
 - [Visualizer–Verbalizer Questionnaire scores did not predict modality-specific free recall; visual presentation aided recall overall](constantinidou-baker-vvq-no-recall-relation.md)
 - [Problem-based tutorial discussion of a relevant problem before studying an expository text increases the number of accurate propositions recalled from that text](pbl-discussion-prior-to-text-increases-free-recall.md) — related
 - [Learning Styles Matching Does Not Improve Learning](learning-styles-matching-does-not-improve-learning.md) — a broader claim this one bears on
+- [The included studies did not test the learning-style-by-instructional-method interaction, so the achievement gains cannot be attributed to matching instruction to styles](learning-styles-studies-lack-style-method-interaction-test.md) — a broader claim this one bears on

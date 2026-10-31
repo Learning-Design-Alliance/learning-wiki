@@ -86,7 +86,7 @@ Mayer responds to Barnes and Clawson's (1975) conclusion that organizers "do not
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does other material given before the lesson (an organizer, an activation prompt) do the same job?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **9 distinct studies** (4 quant-synthesis, 4 causal, 1 review), `q2`–`q4`, 6 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Do organizers given before or alongside the material help, and for whom?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **9 distinct studies** (4 quant-synthesis, 4 causal, 1 review), `q2`–`q4`, 6 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -164,3 +164,4 @@ Open questions: most of the evidence base predates modern multimedia learning re
 - [Available prior knowledge affects learning only when it is activated before the task](activation-required-prior-knowledge-effects.md) — related
 - [All-in-one lesson structure with prior knowledge, optional help and challenge, and chunking supported autonomy and competence](all-in-one-lesson-structure-supported-autonomy-competence.md) — related
 - [Prior mathematical ability moderates tablet-DGBL gains, with mixed direction across studies](prior-math-ability-mixed-moderator.md) — related
+- [Prior reviews and meta-analyses of manipulative use yielded conflicting findings, with mean effect sizes ranging from zero to 1.03](prior-manipulatives-meta-analyses-conflicting.md) — related

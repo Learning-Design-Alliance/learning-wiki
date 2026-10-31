@@ -51,3 +51,8 @@ Four publication-bias analyses were run on the meta-analytic dataset: funnel plo
 - [The pooled gamification effect is robust across dependence assumptions, quality thresholds, and model specifications, with no evidence of publication bias](gamification-mathematics-robustness-publication-bias.md) — related
 - Formal tests find no substantial evidence of publication bias or small-study effects in the meta-analysis — related
 - [Publication bias is unlikely to explain the consistency of SRL intervention effect sizes](srl-meta-analysis-no-publication-bias.md) — related
+- [Publication bias does not explain the significant positive outcomes of the 7E learning cycle in this meta-analysis](7e-meta-analysis-no-publication-bias.md) — related
+- [The meta-analytic result is robust to publication bias, with a fail-safe number of 33,896.6 null studies needed to nullify the observed effect](cbt-meta-analysis-fail-safe-number-publication-bias.md) — related
+- [Publication bias in the meta-analysis is low, as indicated by a fail-safe N of 4860 and funnel plot inspection.](low-publication-bias-failsafe-4860.md) — related
+- [The meta-analysis shows no publication bias (Begg-Mazumdar p = .196) and is resistant to it (fail-safe N = 463)](pbl-meta-analysis-no-publication-bias.md) — related
+- [Publication bias tests give mixed evidence: Egger's test indicates bias, but fail-safe N calculations lead the authors to conclude no publication bias](publication-bias-mixed-egger-failsafe.md) — related

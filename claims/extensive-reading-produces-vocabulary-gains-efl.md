@@ -58,3 +58,4 @@ In the 60-participant extensive reading study over 37 weeks, even the low-level 
 - [Vocabulary learning gains in Term 2 of the extensive reading program were consistent with those from Term 1](term2-gains-consistent-with-term1.md) — related
 - [Pretest-posttest correlation coefficients for state assessment data vary by student achievement level (low-performing, average-performing, proficient).](pretest-posttest-correlations-vary-by-achievement-level.md) — related
 - [Reading proficiency level moderates incidental vocabulary gains: higher-proficiency readers gained more, consistent with i+1](proficiency-level-moderates-incidental-vocabulary-gains.md) — related
+- [Extensive reading produces a huge pre-post improvement in vocabulary learning (d = 3.26), to be interpreted cautiously without control groups](extensive-reading-huge-effect-prepost-contrasts.md) — related

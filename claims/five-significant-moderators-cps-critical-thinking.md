@@ -54,3 +54,5 @@ Subgroup moderator analysis of the 79 effect quantities across 36 studies (Table
 - [Scaffolding's effect was highest in project-based learning contexts; design-based learning was the only context not significantly greater than zero](project-based-context-highest-scaffolding-effect.md) — related
 - [Collaborative problem-solving significantly improves students' critical thinking overall (ES = 0.82)](collaborative-problem-solving-improves-critical-thinking-overall.md) — related
 - [Dynamic (adaptive) scaffolding is linked to stronger effects of ICT-supported writing interventions](dynamic-scaffolding-stronger-writing-effects.md) — related
+- [Cooperative and collaborative learning show larger achievement effects than problem-based and peer-led team learning in engineering and technology classrooms](cooperative-collaborative-larger-effects-than-pbl-peer-led.md) — related
+- [Effect size of creative drama on skills varies significantly with duration of experimental application, with longer applications showing larger effects](creative-drama-duration-moderator.md) — related

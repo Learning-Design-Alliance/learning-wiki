@@ -51,7 +51,7 @@ sources:
 # Inquiry-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 66 claims (38 for, 20 mixed, 8 against) · 73 studies (21 causal, 15 quant-synthesis, 10 review, 10 theoretical, 7 design, 6 qualitative, 4 associational), `q1`–`q4` · 17 of 73 report an effect size · 53 claims rest on one study
+> **Evidence** · 71 claims (40 for, 22 mixed, 9 against) · 76 studies (21 causal, 15 quant-synthesis, 10 review, 10 theoretical, 7 design, 6 qualitative, 4 associational), `q1`–`q4` · 19 of 76 report an effect size · 58 claims rest on one study
 
 ## Conditional relationship
 
@@ -197,6 +197,11 @@ An engaging investigation, an immediate conceptual gain, near transfer, far tran
 - [Wavelength (and analogously voltage) is a difficult concept for learners: most show no improvement and some regress, even under systematic inquiry](../claims/wavelength-voltage-hard-to-learn-simulations.md) [-W]
 - [Teacher Feedback Led to Increased TU Duration by 50 Percent and Two Guidance Levels](../claims/teacher-feedback-tu-improvements.md) [+W]
 - [Desktop VR showed no significant declarative-knowledge advantage over traditional instruction after unguided exploration (d = 0.24), and a marginal, non-significant one after scaffolded guidance (d = 0.63, p = .06)](../claims/desktop-vr-scaffolded-guidance-declarative-knowledge-statics.md) [+W]
+- [The 5E and related models significantly improve student motivation outcomes (g = 0.24)](../claims/5e-model-improves-motivation.md) [~W]
+- [Effects of the 5E model on science outcomes are highly heterogeneous, with a 95% prediction interval spanning −0.38 to 1.92](../claims/5e-science-effect-heterogeneity.md) [~W]
+- [The 5E and related instructional models significantly improve pre-K–12 science achievement (g = 0.82)](../claims/5e-model-improves-science-achievement.md) [+W]
+- [Among pedagogical interventions, procedural and conceptual learning programs have the highest pooled effect sizes while inquiry-based learning is least effective](../claims/pedagogical-subtypes-procedural-conceptual-highest.md) [-W]
+- [The 5E learning model has a large positive effect on students' science process skills compared with traditional teaching](../claims/5e-model-large-effect-science-process-skills.md) [+W]
 
 ## Related Principles
 

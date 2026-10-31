@@ -49,7 +49,8 @@ The report organizes its design guidance around "five of the prevailing theories
 - [Self-directed learning as a five-step process learners control themselves](self-directed-learning-five-step-process.md)
 
 ## Examples
--
+
+- [Transform community climate attitudes through student fieldwork using learning by doing, demonstrations and workshops](../strategies/community-transformation-learning-by-doing-strategy.md)
 
 ## Key Sources
 - Designing Technology for Adult Learners: Applying Adult Learning Theory. (2016). https://digitalpromise.dspacedirect.org/items/bb3f892f-a74d-4da1-8086-0334fd227316

@@ -53,3 +53,4 @@ In the path analysis of 293 learners' Rasch-calibrated measures, the direct path
 - [The modified UTAUT model accounts for 62% of variance in behavioral intention and 19% of variance in use behavior.](modified-utaut-variance-explained-mall.md) — related
 - [Performance expectancy, effort expectancy, and social influence positively predict behavioral intention to use ChatGPT among Lesotho higher education students](pe-ee-si-predict-chatgpt-intention-lesotho.md) — related
 - [Behavioral intention has a statistically significant but weak positive effect on actual MALL usage behavior in EFL learning](bi-weak-effect-actual-mall-use.md) — related
+- [MALL effect sizes show no visible correlation with grade level or sample size](mall-effect-independent-of-grade-and-sample-size.md) — related

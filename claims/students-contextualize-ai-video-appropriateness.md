@@ -58,3 +58,4 @@ Inductive thematic analysis of open-ended survey responses from 163 students. Ap
 - [MI Write's automated feedback is most useful to students when it supplements, not replaces, teacher feedback](automated-feedback-supplements-not-replaces-teacher-feedback.md) — a narrower finding that bears on this claim
 - [Task complexity moderates whether users experience the constructive information search process](task-complexity-moderates-information-search-process.md) — related
 - [Participants view virtual training as a resource-efficient supplement to, not a replacement for, real-life exercises](virtual-training-supplement-not-replacement.md) — related
+- [CAI supplements instruction effectively but shows no benefit as a complete replacement for instruction](cai-supplement-effective-replacement-not.md) — a narrower finding that bears on this claim

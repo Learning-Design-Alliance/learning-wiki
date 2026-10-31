@@ -65,7 +65,7 @@ In the Belonging and Collaboration in Practice section, the primer attributes th
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*What in a learning setting builds learners' sense of belonging?* This table gathers the studies behind this claim and the 12 narrower claims that bear on it: **8 distinct studies** (2 associational, 2 causal, 1 quant-synthesis, 1 review, 1 theoretical, 1 design), `q1`–`q3`, 0 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*What in a school or course goes with a stronger sense of belonging?* This table gathers the studies behind this claim and the 12 narrower claims that bear on it: **8 distinct studies** (2 associational, 2 causal, 1 quant-synthesis, 1 review, 1 theoretical, 1 design), `q1`–`q3`, 0 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|

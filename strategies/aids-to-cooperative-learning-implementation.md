@@ -44,6 +44,7 @@ The handbook lists eight aids to cooperative learning for adult classrooms. It w
 - [Use named cooperative learning structures adapted to adult classrooms, including Student Team Learning, Think-Pair-Share, Jigsaw, Teaming Together, and Group Investigation](cooperative-structures-for-adult-classrooms.md)
 - [Establish Group Norms](establish-group-norms.md)
 - [Team-Building Through Problem-Based Learning](team-building_through_problem-based_learning.md)
+- [Pair JAS with student-centered models and strategies](jas-with-student-centered-models.md)
 
 ## Examples
 -

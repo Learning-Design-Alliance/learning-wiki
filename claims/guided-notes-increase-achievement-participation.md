@@ -47,3 +47,4 @@ The article attributes this comparison to behavior-analytic studies of guided no
 ## Related Claims
 - [Guided Notes Improve Note Accuracy](guided-notes-improve-note-accuracy.md) — related
 - [Students in courses with guided note-taking and other active learning activities reported less difficulty with motivation and engagement after the shift online](guided-note-taking-supported-remote-engagement.md) — related
+- [Guided notes benefit achievement more relative to student-generated notes than relative to professor-provided full lecture notes](guided-notes-vs-note-type-moderator.md) — related

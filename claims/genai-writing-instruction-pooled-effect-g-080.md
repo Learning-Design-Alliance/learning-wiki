@@ -73,3 +73,5 @@ Within the same 11-study synthesis, one graduate-level study (Ding et al., 2025,
 - [Gen-AI has a moderate positive overall effect on students' higher-order thinking (g = 0.609) across 29 experimental and quasi-experimental studies](genai-moderate-positive-effect-hot.md) — related
 - [ICT-supported writing interventions targeting higher-level writing processes show a large overall positive effect on students' writing quality (g = 1.264)](ict-writing-interventions-large-overall-effect.md) — related
 - [Effect sizes for gender differences in L2 achievement are highly heterogeneous across studies (I² = 89.82%)](high-heterogeneity-l2-gender-effect-sizes.md) — related
+- [Feedback produces a moderate, statistically significant positive overall effect on academic achievement (Hedges' g = .40)](feedback-moderate-positive-overall-effect-achievement.md) — related
+- [Effect sizes across the 38 comparisons are highly heterogeneous, requiring a random-effects model](stem-digital-meta-heterogeneous-random-effects.md) — related

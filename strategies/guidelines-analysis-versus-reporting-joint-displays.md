@@ -43,6 +43,7 @@ The article synthesizes guidelines from Guetterman et al. (2021) and McCrudden e
 
 - [Use a pillar integration process to merge equivalent qualitative and quantitative constructs and draw out meta-inferences](pillar-integration-process-for-meta-inferences.md)
 - [Use qualitizing data transformation to convert quantitative results into narrative profiles for comparison with qualitative data](qualitizing-data-transformation-for-joint-displays.md)
+- [Mixed-methods systematic review combining random-effects meta-analysis of experimental and quasi-experimental studies with narrative synthesis of qualitative and non-intervention evidence](mixed-methods-lac-reading-review-design.md)
 
 ## Examples
 -

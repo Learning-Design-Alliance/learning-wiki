@@ -9,6 +9,7 @@ generated:
   at: 2026-10-16
 evidence_strength: mixed
 newest_evidence: 2025
+source_checked: 2026-10-31
 sources:
   - id: haozhe-jiang-2025
     resource: "https://doi.org/10.1007/s10639-024-13210-z"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2` · `i3` large
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-31 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across reviewed studies, the largest advantage category was academic achievement (60 studies), followed by motivation (27 studies), cognitive-load reduction (17 studies) and self-efficacy (14 studies), though some studies found no advantage over digital video. [→ Haozhe Jiang 2025](#haozhe-jiang-2025)

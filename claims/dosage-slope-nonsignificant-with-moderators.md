@@ -77,3 +77,6 @@ Model 3 of the same meta-regression added instructional focus, outcome proximity
 - [Mathematics outcomes benefit from PA with academic instruction of 6–10-week duration at moderate or moderate-to-vigorous intensity, and language outcomes from enriched PA programmes](pa-academic-instruction-benefits-maths-enriched-benefits-language.md) — related
 - [Increases in learning duration and screen time predict change in academic grades over 2 years, while BMI change has no main effect](learning-duration-screen-time-main-effects-grades.md) — related
 - [Longer total intervention time is associated with greater learning gains, especially for low achievers](longer-time-on-task-greater-gains.md) — related
+- [Variation in instructional dosage did not explain variation in writing instruction effect sizes](instructional-dosage-no-moderation-writing-instruction.md) — related
+- [Publication year and instructional duration do not significantly predict variation in small-group learning effect sizes in metaregression](metaregression-year-duration-nonsignificant-predictors.md) — reports the opposite
+- [Interventions providing more than 15 total hours significantly moderate mathematics outcomes for students with MD in grades 4–12](more-than-15-hours-moderates-math-outcomes.md) — related

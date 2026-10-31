@@ -71,3 +71,4 @@ Same Table 6 analysis of relevant AIED sample origins; the paper reports "There 
 - Authorship of AIED systematic reviews is concentrated in Asia and Europe, with China, Spain, and the United States the most productive countries — a narrower finding that bears on this claim
 - Handbook authorship and AECT awards are markedly less internationally diverse than journal publication, suggesting a North American bias in those indicators — related
 - [Adoption of Wikipedia assignments shows a global digital divide, concentrated in English-speaking countries](wikipedia-assignments-global-digital-divide.md) — related
+- [Rigorous evidence on education interventions in Sub-Saharan Africa is unevenly distributed, with over 30% of studies from Kenya alone and relevant topics unstudied](ssa-evidence-uneven-kenya-concentration.md) — related

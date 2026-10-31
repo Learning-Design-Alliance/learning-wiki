@@ -53,3 +53,6 @@ Omnibus moderator analysis across 30 effect sizes in the multilevel model. Disci
 - [Educational robotics has a moderate effect on students' STEM learning attitudes](educational-robotics-effect-learning-attitudes.md) — related
 - [Differences in AI-supported instruction effects across STEM disciplines are not statistically significant](ai-effect-discipline-differences-nonsignificant.md) — reports the opposite
 - [Science-related subject areas (mathematics, science, medical science) show larger effects than programming technology and other fields](subject-area-moderates-cps-critical-thinking-effects.md) — related
+- [Effect sizes for the flipped classroom are higher in humanities studies than in STEM, but the difference should not be given too much weight](discipline-moderates-flipped-classroom-effect.md) — related
+- [Lesson subject significantly moderates the effect of constructivism on attitudes: positive for science and technology and other subjects, not significant for mathematics](lesson-subject-moderates-constructivism-attitude-effect.md) — related
+- [Digital technology-assisted STEM education shows a significantly larger effect on science achievement (d=2.838) than on mathematics achievement (d=1.255)](stem-digital-effect-science-larger-than-math.md) — related

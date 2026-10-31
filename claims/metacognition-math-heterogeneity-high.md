@@ -52,3 +52,4 @@ The meta-analysis reports "significant heterogeneity between studies" in the poo
 - [The combination of online metacognition measures with complex math assessments is associated with the largest effect sizes](online-complex-combination-largest-effects.md) — related
 - [More complex (versus simple) math performance measures are associated with larger metacognition–math effect sizes](complex-math-measures-larger-effects.md) — related
 - [Metacognitive measures show large variability, and online measures relate to each other more than to offline measures](online-offline-metacognitive-measures-dissociate.md) — related
+- [Significant heterogeneity exists among service-learning effect sizes across studies](heterogeneity-service-learning-effect-sizes.md) — related
