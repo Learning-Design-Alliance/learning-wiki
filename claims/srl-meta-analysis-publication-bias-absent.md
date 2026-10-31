@@ -118,3 +118,5 @@ Publication-bias assessment of the 21-study meta-analysis using a thesis-vs-arti
 - [No evidence of publication bias is found in the meta-analysis of LLM examination accuracy](no-publication-bias-llm-exam-accuracy.md) — related
 - Publication bias in the data set is at an insignificant level after trim-and-fill adjustment — related
 - Sensitivity and publication-bias analyses support the robustness of the pooled accuracy estimate — related
+- [No evidence of publication bias in the SDL meta-analysis](sdl-meta-analysis-no-publication-bias.md) — related
+- [Publication bias is present for theoretical knowledge outcomes but not for clinical practice performance in SP+CBL meta-analysis.](sp-cbl-publication-bias-asymmetric.md) — reports the opposite

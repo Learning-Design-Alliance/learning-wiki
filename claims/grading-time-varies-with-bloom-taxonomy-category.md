@@ -48,3 +48,4 @@ Descriptive analysis of timed grading from the retake exam, averaging grading ti
 - [University examination questions concentrate at the lower cognitive levels of Bloom's Taxonomy, dominated by comprehension and knowledge](exam-questions-concentrate-lower-bloom-levels.md) — related
 - [Students answer lower-taxonomy-category questions more frequently, but only by a factor of about 2](lower-taxonomy-questions-answered-more.md) — related
 - [Assignments at the first five levels of Bloom's taxonomy are suited to LLM grading, while Create-level assignments are more challenging for LLMs to assess](bloom-levels-limit-llm-grading-suitability.md) — related
+- [59.14% of geriatric core competencies are classified as Apply in Bloom's cognitive process dimension and 64.2% as Conceptual Knowledge](geriatric-competencies-apply-conceptual-bloom.md) — related

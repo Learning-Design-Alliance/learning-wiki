@@ -91,6 +91,9 @@ Simulation works because it lets learners generate and test hypotheses in an env
 - [Embed the ReACT reasoning-acting-observing-reflecting cycle in tutoring systems to mirror inquiry-based learning](react-cycle-inquiry-based-learning.md)
 - [Use the observer role alongside active participation as a resource-efficient strategy to expand access to simulation-based education](observer-role-scaling-sbe-access-strategy.md)
 - [Adopt competency-based, outcome-targeted simulation training rather than merely allocating simulation time](adopt-competency-based-outcome-targeted-simulation.md)
+- [Use timely facilitator-led debriefing, realistic scenario fidelity, and immediate feedback to enhance simulation learning](debriefing-fidelity-feedback-strategies.md)
+- [Use hybrid simulations combining real-world materials with low-cost simulators to enable realistic, interactive scenarios at reduced cost](hybrid-simulation-real-world-materials-low-cost-simulators.md)
+- [Deliver NTS training through simulation-based courses with structured debriefing focused on Crisis Resource Management principles, supplemented by in-situ refreshers and visual reminders.](simulation-crm-debriefing-delivery-strategy.md)
 
 ## Examples
 - **[Laerdal SimMan](https://www.laerdal.com)** and standardized-patient programs in health professions education — high-fidelity patient simulation with structured debriefing; meta-analytic evidence shows large gains over no simulation and comparable or better outcomes than traditional instruction Cook et al., 2013

@@ -48,3 +48,4 @@ The review's synthesis of reliability findings across included primary studies r
 - [Percentage rating format in the Modified Angoff method yields higher reliability than the Yes/No format, with ICCs of 0.48–0.65 versus a maximum of 0.41](percentage-format-more-reliable-than-yes-no-angoff.md) — related
 - [The Angoff method produced lower cut-off scores and higher pass rates than Cohen and Hofstee methods in dental written assessments, especially in early and middle years](angoff-lower-cutoffs-higher-pass-rates.md) — related
 - [Rubrics enhance grading consistency and inter-rater reliability in dental education assessment](rubrics-enhance-grading-consistency-dental-education.md) — related
+- [Modified Angoff with reality check achieves excellent inter-rater reliability](modified-angoff-reality-check-reliability.md) — a narrower finding that bears on this claim

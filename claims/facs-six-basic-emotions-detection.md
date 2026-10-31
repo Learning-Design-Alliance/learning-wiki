@@ -51,3 +51,4 @@ Narrative review reporting the Face Reader software's stated 89% accuracy for si
 - [In a within-subject user study, participants showed longer positive facial expressions under the emotion-aware (Emotion ON) tutoring condition](emotion-on-longer-positive-facial-expressions.md) — related
 - [Recurrence indicators (gaze, lexical, emotional) predicted collaborative learning process measures but not learning performance](recurrence-indicators-predict-process-not-performance.md) — related
 - [EATS detected disgust with lower agreement (90%) than other basic emotions, highlighting a limitation of facial-expression-only measurement](eats-disgust-lower-agreement-limitation.md) — related
+- [Empathy was assessed primarily through questionnaires and semi-structured interviews; only two studies used objective indicators such as facial emotion recognition](empathy-assessment-methods-questionnaire-dominance.md) — related

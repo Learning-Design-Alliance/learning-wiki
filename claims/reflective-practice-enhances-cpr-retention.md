@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-10-31
 sources:
   - id: lee-hyeon-ji-2026
     resource: "https://doi.org/10.1186/s12909-026-09538-4"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Reflective practice–based interventions were associated with improved long-term skill retention at follow-up assessments, and team-based communication training improved psychological outcomes such as confidence and role clarity. [→ Lee Hyeon-Ji 2026](#lee-hyeon-ji-2026)
@@ -55,3 +56,4 @@ Narrative synthesis of a limited number of cognitive–psychological studies; th
 - [Empathy and communication interventions show short-term gains but evidence on persistence over time is inconsistent](soft-skills-intervention-gains-not-sustained.md) — related
 - [Single-session and multi-session experiential learning programs show comparable attitude improvements](short-and-long-term-dementia-programs-comparable.md) — related
 - [Evidence on long-term retention and transfer of clinical communication skills to clinical practice remained inconsistent or lacking across included reviews](vp-communication-long-term-retention-transfer-inconsistent.md) — related
+- [High-fidelity simulation particularly enhances core clinical competencies such as CPR, infection control, and diagnostic reasoning](high-fidelity-simulation-enhances-core-competencies.md) — related

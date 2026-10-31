@@ -51,3 +51,4 @@ The review reports a pre/post-test study (attributed to Creighton et al., 2025) 
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [AI-driven case simulations in ambulatory settings support diagnostic reasoning and anticipatory thinking in nursing education](ai-ambulatory-case-simulations-diagnostic-reasoning.md) — related
 - [An LLM-based Q&A practice system reduced presentation anxiety and improved perceived preparedness among first-time conference participants](llm-qa-practice-reduces-presentation-anxiety.md) — related
+- [Simulation-based education improves nursing students' clinical decision-making, judgment, and self-confidence](simulation-improves-nursing-decision-making-confidence.md) — related

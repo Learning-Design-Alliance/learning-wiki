@@ -56,3 +56,4 @@ Requisite Relationship Components section: focus group data showed coaches empha
 - [In the Tucson household ethnography, exchanges within households' social networks were often reciprocal and built mutual trust through shared practical activities.](household-exchange-networks-are-reciprocal-and-build-trust.md) — related
 - [Mixed interprofessional group training promoted mutual respect, understanding of roles, and appreciation of teamwork among ED participants](interprofessional-mixed-groups-mutual-respect-consent-training.md) — related
 - [Relational goals are associated with recognition, grouping, and classroom mutual respect practices](lao-relational-goals-targets-recognition-grouping-respect.md) — related
+- [Patients experience healthcare professionals as competent in digital counselling when they establish a reciprocal relationship built on trust, listening, and a comfortable atmosphere](patients-experience-hcp-competence-reciprocal-relationship.md) — related

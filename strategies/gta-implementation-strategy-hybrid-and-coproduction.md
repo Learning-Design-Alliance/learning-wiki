@@ -56,6 +56,7 @@ The review recommends treating GTA programmes as part of a broader educational s
 
 - [Combine simulation sessions with practical and workplace learning, since limited simulated experiences are insufficient for complex skills](simulation-plus-workplace-learning-complex-skills.md)
 - [Develop standardized simulation-based leadership curricula with longitudinal evaluation and multi-center randomized comparison of formats](standardized-leadership-simulation-research-agenda.md)
+- [Integrate simulation as a curriculum-embedded component with trained instructors and technological infrastructure](embed-simulation-in-curriculum-strategy.md)
 
 ## Examples
 -

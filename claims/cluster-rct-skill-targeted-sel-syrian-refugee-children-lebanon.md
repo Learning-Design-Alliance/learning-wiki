@@ -55,3 +55,4 @@ The manuscript title, as printed on the Open Practices Disclosure page, states t
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — a broader claim this one bears on
 - [Social and emotional competence can be enhanced through explicit instruction, teaching practices, and curriculum integration](sel-classroom-approaches-three-types.md) — a broader claim this one bears on
 - [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](sel-programs-improve-behavior-and-achievement.md) — a broader claim this one bears on
+- [Single-arm pre-post pilot studies were the most common design (21.1%), followed by RCTs (10.5%) and mixed-methods designs (10.5%)](vp-empathy-study-design-distribution.md) — related

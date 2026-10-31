@@ -9,6 +9,7 @@ generated:
   at: 2026-10-18
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-10-31
 sources:
   - id: stefan-a-schreder-2025
     resource: "https://doi.org/10.1007/s11251-025-09716-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` All five facilitators preferred VAD over VD, valuing the visualisation of important events for precise feedback and the objectivity of video that reduced the need to justify negative feedback. [→ Stefan A. Schreder 2025](#stefan-a-schreder-2025)
@@ -52,3 +53,4 @@ Individual interviews with the five facilitators of the SIMMed training cycle. F
 - [Video-assisted debriefing enhances precision but risks psychological safety and narrows reflection to individual performance](video-debriefing-precision-safety-tradeoffs.md) — related
 - [Reflections immediately following the events of interest facilitate greater and more situated recall and precision](immediate-reflection-situated-recall.md) — related
 - [Low facilitator-to-student ratios (roughly 1:6 to 1:16) are preferred in CBD- and simulation-based IPE and were associated with more interaction and feedback opportunities](low-facilitator-ratios-ipe.md) — related
+- [Objective, device-based feedback is preferred in cardiac arrest simulation education](device-based-feedback-preferred.md) — related

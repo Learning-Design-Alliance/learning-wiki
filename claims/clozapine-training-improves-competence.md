@@ -68,3 +68,4 @@ The review describes the Freudenreich Clozapine Training Programme, combining fa
 - [Health care professionals show substantial knowledge gaps about clozapine side effects, especially myocarditis and seizures](clozapine-side-effect-knowledge-gaps-professionals.md) — related
 - [Professionals self-report competence with clozapine guidelines but express less confidence in adhering to them](hcp-self-reported-competence-exceeds-confidence-clozapine.md) — related
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
+- [Higher education, specialised experience, recent training, and seniority are associated with better knowledge, attitudes, and practices.](education-training-seniority-better-kap.md) — related

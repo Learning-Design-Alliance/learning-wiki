@@ -50,3 +50,4 @@ Random-effects moderator analysis over all effect measures combined; Table 1 rep
 ## Related Claims
 - [Interventions targeting different reading and skill content domains show mostly small differences, with average effect sizes of 0.14–0.22 all statistically significant](content-domain-effects-similar-range.md) — a broader claim this one bears on
 - [Extensive reading has a small, significant positive effect on second and foreign language skills (d = 0.41 across 86 experimental comparisons; d = 0.38 for the 82 immediate-posttest comparisons)](er-positive-effect-second-foreign-language.md) — a narrower finding that bears on this claim
+- [TEPBLL promotes eight language skills and knowledge areas: speaking, listening, reading, writing, vocabulary, creative and critical thinking, intercultural awareness, and content knowledge](tepbll-eight-skills-knowledge-promoted.md) — related

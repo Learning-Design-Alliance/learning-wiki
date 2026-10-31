@@ -13,7 +13,7 @@ moved_from: [principle/behaviorism, principle/reinforcement-theory]
 # Behaviorism
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 20 claims (7 for, 9 mixed, 4 against) · 24 studies (11 causal, 6 review, 4 theoretical, 3 quant-synthesis), `q1`–`q4` · 3 of 24 report an effect size · 16 claims rest on one study
+> **Evidence** · 21 claims (8 for, 9 mixed, 4 against) · 25 studies (11 causal, 7 review, 4 theoretical, 3 quant-synthesis), `q1`–`q4` · 3 of 25 report an effect size · 17 claims rest on one study
 
 ## Description
 Behaviorism is a learning theory that defines learning as a change in observable behavior produced by environmental stimuli and reinforcement contingencies. Associated with Watson, Thorndike, and Skinner, behaviorism holds that the internal workings of the mind are not directly accessible and therefore not the proper object of scientific study — what matters is the measurable relationship between stimulus and response ("conclusions about human development should be based on observation of overt behavior rather than speculation about subconscious motives or latent cognitive processes," Shaffer, 2000). Learning occurs when a desired behavior is reliably elicited and strengthened through reinforcement or extinguished through removal of reinforcement.
@@ -81,6 +81,7 @@ Behaviorism is criticized as overly deterministic and as denying free will; by t
 - [Reward-condition learning depended on session order: reward-round-1 participants did not correct the perturbation, while reward-round-2 participants corrected most of it](../claims/reward-condition-learning-session-order-effect.md) [~W]
 - [CR percentage improves significantly with each additional day of multi-day embedded eyeblink conditioning training](../claims/multi-day-embedded-eyeblink-cr-percentage-increases.md) [+W] — attached 2026-10-27 from Robert Winton et al. (2025), which proposed "Embedded eyeblink conditioning protocol: the US is embedded within CS duration without co-termination".
 - [The decision to cheat is influenced by perceived monitoring and likelihood of getting caught rather than severity of punishment](../claims/cheating-decision-perceived-surveillance-and-catch-likelihood.md) [-W]
+- [Repeated response-to-stimulus writing practice improved SOAP note scores across multiple single-group studies](../claims/repeated-writing-practice-improves-soap-scores.md) [+W]
 
 ## The evidence by question
 - *Does reinforcing a target behaviour with rewards, praise or planned consequences raise learners' performance?* Planned contingency-of-reinforcement designs can raise academic achievement above normal classroom levels across a wide range of children [+M]

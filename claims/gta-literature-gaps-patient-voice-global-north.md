@@ -56,3 +56,7 @@ Descriptive findings of the scoping review of 83 sources: 44 from North America,
 - The evidence base is geographically uneven: no study simultaneously examined all three constructs within a sub-Saharan African context — a broader claim this one bears on
 - Paediatric SBE research is geographically concentrated in high- and upper-middle-income regions, with no studies from the Middle East/North Africa region in the specified timeframe — a broader claim this one bears on
 - [Samples used to investigate human features in AIED research are 94% WEIRD and 62% US, with no African samples](aied-weird-sample-imbalance.md) — a broader claim this one bears on
+- [The vast majority of academic global surgery programs are based in the Region of the Americas (North America), particularly in high-income countries](ags-programs-concentrated-in-north-america.md) — a narrower finding that bears on this claim
+- [Most health diplomacy training initiatives originated in the United States, followed by Europe, South Asia, and the Middle East](health-diplomacy-training-global-north-dominance.md) — related
+- [Similar behavioural domains improved across diverse organisational cultures in North America, Europe, and Asia, suggesting core NTS constructs are portable and adaptable locally.](nts-constructs-portable-across-cultures.md) — related
+- [More than half of the included records were published by authors in the United States, with no records originating from South American or African countries.](records-usa-dominant-no-south-american-african-countries.md) — related

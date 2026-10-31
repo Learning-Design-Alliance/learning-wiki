@@ -51,3 +51,4 @@ Comparison of survey perceptions with expert ratings in the pilot found students
 - [Most preservice teachers were overconfident in the completeness of their fraction comparison explanations at both first draft and revision](pst-overconfidence-fraction-explanation-calibration.md) — related
 - [SRSD instruction improved students' accuracy in self-evaluating their texts' quality, although overestimation persisted](srsd-improves-monitoring-accuracy-overestimation-persists.md) — related
 - [Students tend to overestimate their own performance when self-assessing with rubrics](students-overestimate-self-assessment-with-rubrics.md) — related
+- [Students tend to overestimate their clinical judgment ability relative to evaluator-assessed scores](students-overestimate-clinical-judgment.md) — related

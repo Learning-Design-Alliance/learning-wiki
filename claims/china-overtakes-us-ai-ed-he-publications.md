@@ -57,3 +57,4 @@ Country coding of the 138 included studies shows Asia had the largest share at 4
 - [Deployments concentrate in special education areas and primary/secondary institutions, with the USA leading country counts](deployment-areas-special-education-largest-share.md) — related
 - First-author publication counts across 20 selected IDT journals (2005-2014) identify leading institutions worldwide, with Nanyang Technological University, National Taiwan Normal University, and National Central University at the top — related
 - Included AI-framework literature is concentrated in 2025 publications and in US and China outputs, indicating regional disparity — related
+- [All eight included studies were cross-sectional, conducted in Asia, and most lacked a comparator](pbl-review-studies-cross-sectional-asia-no-comparator.md) — related

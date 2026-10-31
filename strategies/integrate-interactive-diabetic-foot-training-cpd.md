@@ -57,6 +57,7 @@ The review recommends that structured, interactive and hands-on diabetic foot ca
 - [Integrate high-fidelity simulation into continuing nursing education and professional development programs](integrate-hfs-continuing-nursing-education.md)
 - [Embed ethics in AI capacity building using hands-on approaches, case studies, and role reversal](hands-on-case-study-ai-ethics-training.md)
 - [Operationalize the faculty standards through structured professional learning pathways with modules, microcredentials, and peer review](professional-learning-pathways-standards-operationalization.md)
+- [Design CPD programs with hands-on skill development, ongoing reinforcement, and integration into workplace protocols](cpd-hands-on-skills-reinforcement-protocol-integration.md)
 
 ## Examples
 -

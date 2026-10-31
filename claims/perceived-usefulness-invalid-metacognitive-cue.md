@@ -51,3 +51,4 @@ Exploratory correlational analysis within the experimental group (N = 77) report
 - [Teachers' self-reported AI literacy correlates only weakly with their objectively measured performance (r = 0.07–0.24)](weak-sr-ob-correlation-ai-literacy.md) — a broader claim this one bears on
 - [Students' self-reported perception of peer assessment's benefit is virtually uncorrelated with their actual measured benefit](perception-of-peer-assessment-benefit-uncorrelated-with-actual-benefit.md) — a broader claim this one bears on
 - [Students' self-reported AI literacy was moderately negatively correlated with objectively measured AI competency, suggesting potential overestimation of AI abilities](perceived-ai-ability-misaligns-objective-competency.md) — related
+- [Self-assessed abilities are uncorrelated with actual performance measures, and Kirkpatrick level 1 is generally not recommended](self-assessment-uncorrelated-with-performance.md) — a broader claim this one bears on

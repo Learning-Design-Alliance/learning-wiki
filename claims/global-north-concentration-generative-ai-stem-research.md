@@ -77,3 +77,7 @@ Country categorization of all 183 publications by author affiliations shows "73%
 - The evidence base is geographically uneven: no study simultaneously examined all three constructs within a sub-Saharan African context — related
 - Included AI-framework literature is concentrated in 2025 publications and in US and China outputs, indicating regional disparity — related
 - [The GTA literature is skewed towards the Global North and largely omits patient perspectives, despite patient-centred justifications for GTA programmes](gta-literature-gaps-patient-voice-global-north.md) — a narrower finding that bears on this claim
+- [The vast majority of academic global surgery programs are based in the Region of the Americas (North America), particularly in high-income countries](ags-programs-concentrated-in-north-america.md) — a narrower finding that bears on this claim
+- [Educational outcome research for autistic students is geographically concentrated in North America and Europe, with no disciplinary or attendance items from Asia or South America](autism-outcome-research-geographic-concentration.md) — related
+- [A major gap identified in the review was the underrepresentation of Global South leadership in global health diplomacy training](global-south-underrepresentation-ghd-training.md) — related
+- [More than half of the included records were published by authors in the United States, with no records originating from South American or African countries.](records-usa-dominant-no-south-american-african-countries.md) — related

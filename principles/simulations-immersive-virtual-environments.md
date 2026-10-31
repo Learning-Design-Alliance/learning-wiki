@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 159 claims (67 for, 81 mixed, 11 against) · 107 studies (33 review, 32 causal, 16 quant-synthesis, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 28 of 107 report an effect size · 154 claims rest on one study
+> **Evidence** · 178 claims (79 for, 88 mixed, 11 against) · 118 studies (41 review, 32 causal, 19 quant-synthesis, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 29 of 118 report an effect size · 173 claims rest on one study
 
 ## Conditional relationship
 
@@ -322,6 +322,8 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [Several included studies found haptic VR training equivalent rather than superior to conventional dental training](../claims/ir-dental-equivalence-mixed-findings.md) [~W] — attached 2026-10-31 from Ruslin Muhammad et al. (2026), which proposed "Implement immersive reality as a complement to traditional dental education methods"; tests this page's relationship.
 - [Simulation-based training is associated with improved patient safety-related skills and knowledge in undergraduate nursing students](../claims/simulation-improves-nursing-patient-safety-skills.md) [+W] — attached 2026-10-31 from González-Sanz A et al. (2026), which proposed "Integrate structured simulation into nursing curricula to bridge the theory-practice gap"; tests this page's relationship.
 - [Structured communication tools such as SBAR incorporated into simulation are associated with improved team coordination and information transfer](../claims/sbar-structured-communication-in-simulation.md) [+W] — attached 2026-10-31 from González-Sanz A et al. (2026), which proposed "Integrate structured simulation into nursing curricula to bridge the theory-practice gap"; tests this page's relationship.
+- [Robotic novices trained with extended reality simulators complete tasks significantly faster than novices with no additional training](../claims/xr-training-faster-time-to-complete-than-no-training.md) [+W] — attached 2026-10-31 from Bickford Michael et al. (2025), which proposed "Use extended reality simulators as a low-cost, low-risk environment for training robotic surgery novices"; tests this page's relationship.
+- [High-fidelity simulation methods (simulators, 3D models, cadaver-based practice) are associated with superior Acquisition retention, though some studies report contradictory findings](../claims/high-fidelity-simulation-associated-with-superior-acquisition-retention.md) [+W] — attached 2026-10-31 from Wang L‐W et al. (2025), which proposed "Design PoCUS curricula that integrate high-fidelity hands-on simulation and clinical context rather than relying on one-time short-course instruction"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -393,6 +395,23 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Manikin-based simulation produced equal or superior competency outcomes versus traditional clinical practice, except in the Patient Safety domain](../claims/manikin-simulation-competency-versus-clinical.md) [~W]
 - [Validation quality does not consistently correlate with simulator fidelity, and high-fidelity VR simulators' superiority over simpler models for fibreoptic intubation has not been demonstrated](../claims/simulator-fidelity-does-not-track-validation-quality.md) [-W]
 - [Adding task interruptions to ALS simulation to increase realism did not improve technical or non-technical performance, including at 3-month retention](../claims/task-interruptions-no-performance-benefit.md) [~W]
+- [Clinical simulation improved pathophysiology learning with a significant grade shift toward higher marks](../claims/clinical-simulation-improves-pathophysiology-grades.md) [+W]
+- [High-fidelity simulation improved pharmacology learning and retention compared to low-fidelity and sham groups](../claims/high-fidelity-simulation-improves-pharmacology-retention.md) [~W]
+- [High-fidelity simulation particularly enhances core clinical competencies such as CPR, infection control, and diagnostic reasoning](../claims/high-fidelity-simulation-enhances-core-competencies.md) [+W]
+- [The COVID-19 epidemic simulation among MPH students demonstrated significant self-reported gains in diplomacy, negotiation, and public health emergency response skills](../claims/covid-simulation-significant-self-reported-gains.md) [+W]
+- [PBL combined with virtual simulation improved theoretical knowledge and practical skills in clinical biochemistry](../claims/pbl-virtual-simulation-improves-theory-and-skills.md) [+W]
+- [Training fidelity: low-fidelity manikins performed comparably to high-fidelity manikins for epidural skill acquisition](../claims/low-fidelity-manikins-comparable-to-high-fidelity-epidural.md) [~W]
+- [Same-context advantage may account for the benefit of simulation-based traditional learning over e-learning](../claims/same-context-advantage-simulation-benefit.md) [~W]
+- [Simulation-based training enhances outcomes across multiple Kirkpatrick levels in neuraxial space access education](../claims/simulation-based-training-enhances-neuraxial-outcomes.md) [+W]
+- [SBL enhances clinical skills and confidence in health professions students from CALD backgrounds](../claims/sbl-enhances-cald-student-clinical-skills-confidence.md) [+W]
+- [Simulation-based education improves medical students' biomedical science skills and shortens the learning curve](../claims/simulation-improves-biomedical-skills-learning-curve.md) [+W]
+- [Independent samples t-test shows significantly higher GEARS scores for XR-trained novices versus no additional training](../claims/t-test-gears-xr-significantly-higher-than-no-training.md) [+M]
+- [VR simulation shows signals of benefit for communication training in undergraduate nursing students, especially for self-reported knowledge, self-efficacy, attitudes and confidence](../claims/vr-communication-training-nursing-benefit-signals.md) [+W]
+- [Virtual lab simulations improved blood typing knowledge and motivation but faced technical and language barriers](../claims/virtual-labs-improve-blood-typing-knowledge-motivation.md) [~W]
+- [VR training's effect on OSATS-assisted skill acquisition shows conflicting evidence](../claims/vr-osats-conflicting-evidence.md) [~W]
+- [Recurring features across XR-simulation in dentistry are stereoscopic vision, immersion, interaction, modification and haptic feedback](../claims/xr-recurring-features-dental-simulation.md) [~W]
+- [VR simulation training improves orthopaedic trainees' technical proficiency and shortens operative times](../claims/vr-simulation-improves-ortho-technical-proficiency.md) [+W]
+- [XR training shows a large but non-significant effect on GEARS scores compared to no additional training](../claims/xr-gears-vs-no-training-large-non-significant-effect.md) [~W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.

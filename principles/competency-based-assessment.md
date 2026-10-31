@@ -28,7 +28,7 @@ sources:
 # Competency-Based Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 41 claims (10 for, 29 mixed, 2 against) · 41 studies (9 theoretical, 8 causal, 8 design, 6 review, 6 associational, 2 quant-synthesis, 2 qualitative), `q1`–`q4` · 2 of 41 report an effect size · 36 claims rest on one study
+> **Evidence** · 42 claims (11 for, 29 mixed, 2 against) · 42 studies (9 theoretical, 8 causal, 8 design, 7 review, 6 associational, 2 quant-synthesis, 2 qualitative), `q1`–`q4` · 2 of 42 report an effect size · 37 claims rest on one study
 
 ## Conditional relationship
 
@@ -114,6 +114,7 @@ Re-read 2026-10-15: eleven of the claims listed here were worked into the model 
 
 - [Transcript grades are a blurred currency of performance information, partly due to grade inflation driven by student pressure](../claims/transcript-grades-blurred-currency.md) [+W] — an author's framing statement (1976) with no data, about why course grades carry little information; it motivates the page's comparison but does not test either side of it
 - [The hybrid grading contract helps resist grade inflation by reserving grades above B for exceptionally high quality](../claims/hybrid-contract-resists-grade-inflation.md) [+W] — the authors' reasoned position from their own writing courses, about keeping high grades scarce; bears on what a grade signals, not on judging a competency against a threshold
+- [Written knowledge tests, OSCEs and situational judgement tests all show predictive validity for later clinical performance](../claims/assessments-predictive-validity-later-clinical-performance.md) [+W] — attached 2026-10-31 from McLachlan JC et al. (2025), which proposed "Commission research on the predictive validity of prescribing competence assessments"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

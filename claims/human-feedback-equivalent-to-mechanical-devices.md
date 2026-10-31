@@ -52,3 +52,4 @@ The review reports, citing Pavo et al. (2016), that in a two-rescuer scenario wi
 - [Peer-led and school-based CPR training achieves outcomes comparable to instructor-led models](peer-led-cpr-training-non-inferior.md) — related
 - [Some accelerometer-based and AED-integrated audiovisual feedback devices improved certain CPR parameters but reduced compression depth](some-feedback-devices-reduce-compression-depth.md) — related
 - [An augmented-reality CPR training application did not improve CPR quality compared with a standard audio-visual feedback manikin](ar-cpr-training-no-improvement-over-manikin.md) — related
+- [All feedback, whether human or device-based, improves performance in cardiac arrest simulation education](all-feedback-improves-cardiac-arrest-simulation-performance.md) — related

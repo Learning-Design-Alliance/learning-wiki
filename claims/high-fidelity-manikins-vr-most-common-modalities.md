@@ -52,3 +52,4 @@ The review's synthesis of Table 3 modality data across the 30 included studies. 
 - [Telesimulation and remote-facilitated paediatric simulation achieved outcomes comparable to in-person training](telesimulation-comparable-in-person-outcomes.md) — related
 - [Resource limitations, technical hurdles and time constraints were the primary reported barriers to implementing paediatric SBE](sbe-implementation-barriers-cost-faculty-maintenance.md) — related
 - [Manikins show anatomical discrepancies against human imaging data, yet may still support effective skill acquisition, suggesting educational fidelity can matter more than anatomical replication](anatomical-discrepancy-does-not-preclude-skill-acquisition.md) — related
+- [Virtual patient scenarios focused on psychiatric and chronic diseases, with major depressive disorder and cancer most common; acute, infectious, and rare conditions were absent](vp-scenario-disease-diversity-gaps.md) — related

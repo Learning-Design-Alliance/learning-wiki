@@ -41,6 +41,7 @@ The article recommends using LCF-identified risk subgroups to decide which stude
 ## Related Strategies
 
 - [Use early-session timing signals, interpreted relative to proficiency, to identify students needing adaptive support](early-session-timing-signals-target-adaptive-support.md)
+- [Choose TBL over PBL when faculty resources are constrained](tbl-resource-efficient-faculty-shortages.md)
 
 ## Examples
 -

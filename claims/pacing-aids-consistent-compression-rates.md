@@ -50,3 +50,4 @@ Narrative synthesis within the cognitive–psychological theme; the review repor
 - [Feedback-based CPR training is associated with more accurate chest compression performance than standard instruction](feedback-based-cpr-training-improves-compression-performance.md) — related
 - [Real-time audio feedback from the CPR Tutor is followed by a short-term decrease in Error Rates across all five target CPR classes within 10 seconds](cpr-tutor-short-term-error-rate-decrease.md) — related
 - [Real-time feedback systems generally improve CPR quality in simulation-based training, particularly compression rate and depth](real-time-feedback-improves-cpr-quality-simulation.md) — related
+- [Non-procedural skills scores during simulated CPR were significantly lower when external stressors were present](external-stressors-lower-nonprocedural-skills-simulated-cpr.md) — related

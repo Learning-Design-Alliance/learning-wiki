@@ -52,3 +52,4 @@ From the promising-practice box on empathy exercises in the interview study: at 
 - [Equity-oriented leadership preparation through applied and reflective learning can deepen aspiring principals' understanding of bias and equitable practices](equity-oriented-principal-preparation.md) — related
 - [Educators in a UDL Math and Design Thinking professional development attributed shifts in their beliefs and practices to empathy, both as a value and as a practice of empathy interviews](empathy-attributed-shifts-beliefs-practices-udl-math-pd.md) — related
 - [Empathy interviews became a widely adopted data-gathering technique for understanding stakeholder perspectives on problems](empathy-interviews-adopted-by-improvement-teams.md) — related
+- [Sixteen of 19 studies explicitly defined empathy, most commonly combining cognitive and affective components; no study defined empathy solely as affective](empathy-definitions-cognitive-affective-patterns.md) — related

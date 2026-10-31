@@ -71,3 +71,6 @@ Table 5 of the review reports per-study main results, including a PBL study's "R
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related
 - [Experiential learning in authentic clinical environments (community engagement, home visits, outreach rotations) was reported to produce the greatest positive impact on student attitudes, confidence, and perceived competence, but is the most resource-intensive](experiential-learning-greatest-impact-geriatric-dentistry.md) — a narrower finding that bears on this claim
 - A scoping review identified 11 studies (2010–2025) characterizing learning environments for teaching Pharmaceutical Care, predominantly conducted in the United States — related
+- [First-year medical students in the single first-year-focused study reported high engagement (97%) and perceived improved teamwork (87%) with PBL](first-year-students-high-engagement-teamwork-pbl.md) — related
+- [Systematic review finds PBL improves clinical reasoning in OB/GYN education](pbl-improves-clinical-reasoning-obgyn.md) — related
+- [TBL improves ethical reasoning and moral sensitivity](tbl-improves-ethical-reasoning-moral-sensitivity.md) — a narrower finding that bears on this claim

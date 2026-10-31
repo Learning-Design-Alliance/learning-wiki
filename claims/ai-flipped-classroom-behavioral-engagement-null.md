@@ -54,3 +54,4 @@ The review reports, citing Hava (2021), that "behavioral engagement showed no si
 - [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](gamification-has-small-positive-effects-on-learning-outcomes.md) — related
 - [No significant main effect of learning approach on behavioral, emotional, or cognitive engagement](no-main-effect-learning-approach-engagement.md) — related
 - [Flipped classroom shows significant positive effects across class sizes, with the largest reported effect for medium-sized classes](flipped-classroom-class-size-moderation.md) — related
+- [PBL and flipped classrooms frequently show better post-test performance and knowledge retention than traditional methods](pbl-flipped-better-post-test-performance.md) — related

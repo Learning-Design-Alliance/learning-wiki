@@ -1,0 +1,56 @@
+---
+type: claim
+title: School-based physical activity programs significantly improve mathematics achievement in children and adolescents (SMD = 0.11)
+description: School-based physical activity programs significantly improve mathematics achievement in children and adolescents (SMD = 0.11)
+id: school-based-physical-activity-improves-mathematics-achievement
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-31
+evidence_strength: moderate
+newest_evidence: 2025
+sources:
+  - id: he-hongxue-2025
+    resource: "https://doi.org/10.3389/fpubh.2025.1651883"
+    title: "He Hongxue, Yang Yahui, Sun Jiaojiao, Wang Fang, Zhang Wei and Zhu Fengshu. (2025). Effects of school-based physical activity on academic achievement in children and adolescents: a systematic review and meta-analysis. Frontiers in Public Health. https://doi.org/10.3389/fpubh.2025.1651883"
+    author: He Hongxue, Yang Yahui, Sun Jiaojiao, Wang Fang, Zhang Wei and Zhu Fengshu
+    q: 3
+    i: 1
+    kind: quant-synthesis
+    rigour: 3
+---
+
+# School-based physical activity programs significantly improve mathematics achievement in children and adolescents (SMD = 0.11)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i1` small
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q3 i1` Meta-analysis of 13 studies shows a small but statistically significant positive effect of school-based physical activity on mathematics achievement (SMD = 0.11, 95% CI: 0.04–0.18, p = 0.001). [→ He Hongxue 2025](#he-hongxue-2025)
+
+## Evidence
+
+### He Hongxue 2025
+
+He Hongxue, Yang Yahui, Sun Jiaojiao, Wang Fang, Zhang Wei and Zhu Fengshu. (2025). Effects of school-based physical activity on academic achievement in children and adolescents: a systematic review and meta-analysis. Frontiers in Public Health. https://doi.org/10.3389/fpubh.2025.1651883
+
+`q3 · i1` · `quant-synthesis · r3`
+
+Systematic review and meta-analysis pooling 13 RCTs on mathematics outcomes using a random-effects model. The pooled estimate was significant: "SMD = 0.11, 95% CI: 0.04–0.18, p = 0.001". Moderate heterogeneity (I² = 55%) was reported.
+
+> "Figure 3 shows that the combined effect size of 13 studies (25–30, 33–37, 39, 40) was SMD = 0.11, 95% CI: 0.04–0.18, p = 0.001, indicating a significant positive impact of physical activity on mathematics achievement."
+
+## Discussion
+
+
+## Learner Variables
+- [Physical Well-Being](../learner-variables/physical-wellbeing.md) — predictor: learners who differ on it differ in outcomes
+
+## Related Claims
+- [High-intensity physical activity shows a positive effect on mathematics achievement (SMD = 0.41)](high-intensity-activity-improves-mathematics-achievement.md) — a narrower finding that bears on this claim
+- [Moderate-intensity physical activity is positively associated with mathematics and overall academic achievement](moderate-intensity-activity-improves-mathematics-and-overall-achievement.md) — related
+- [School-based physical activity significantly improves overall academic achievement (SMD = 0.22)](school-based-physical-activity-improves-overall-academic-achievement.md) — a broader claim this one bears on
+- [Interventions lasting ≥24 weeks show larger effects on mathematics and overall academic achievement than shorter interventions](longer-interventions-improve-mathematics-and-overall-achievement.md) — a narrower finding that bears on this claim
+- [A significant overall improvement in academic achievement was detected after physical activity programs compared with controls](pa-interventions-improve-overall-academic-achievement.md) — a broader claim this one bears on
+- [School-based physical activity shows no significant effect on language expression achievement](school-based-physical-activity-no-effect-language-expression.md) — related

@@ -55,3 +55,4 @@ Review-level synthesis of the studies' score accuracy and reliability evaluation
 - [LLM-generated 7C collaboration assessment scores fall within the range of human expert variability across ten discussions](llm-7c-scores-within-expert-variability.md) — related
 - History-taking was the most frequently assessed competency in AI-SSP studies (52%), and assessed domains shifted over time toward interactional competencies — related
 - Twenty-one studies describing 20 unique AI-SSP systems for clinical competency assessment were published between 2008 and 2026, with 71% published in 2024 or later — a broader claim this one bears on
+- [LLM-generated essay scores correlated moderately to strongly with expert human assessor scores](llm-essay-scoring-correlates-with-experts.md) — a narrower finding that bears on this claim

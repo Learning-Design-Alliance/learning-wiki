@@ -50,3 +50,4 @@ Geographic subgroup analysis of the meta-analysis. The Americas subgroup had an 
 - [Geographical region significantly moderates AI literacy intervention effects, with Europe and East Asia outperforming North America](geographic-region-moderates-ai-literacy-effects.md) — related
 - [The ToM–achievement association is significantly weaker in European samples than in Asian and North American samples](european-samples-weaker-tom-achievement-link.md) — related
 - [All three ECE modalities show significant positive effects, with real clinical interactions showing the largest pooled effect](ece-types-subgroup-effects.md) — related
+- [Similar behavioural domains improved across diverse organisational cultures in North America, Europe, and Asia, suggesting core NTS constructs are portable and adaptable locally.](nts-constructs-portable-across-cultures.md) — related

@@ -44,7 +44,8 @@ The review recommends that German universities move CM beyond electives into the
 - [Göttingen CM elective improved counselling skills, knowledge, attitudes, well-being and eating habits in both virtual and in-person formats, while cooking frequency did not change](../claims/goettingen-cm-gains-virtual-in-person-cooking-frequency-null.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Integrate structured, evidence-based wound care education—including hands-on and interprofessional components—into undergraduate medical curricula](structured-wound-care-education-medical-curricula.md)
 
 ## Examples
 -

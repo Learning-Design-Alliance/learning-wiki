@@ -61,3 +61,5 @@ The review's synthesis of Table 3 outcome data across the 30 studies, assessed v
 - [Participant satisfaction with simulation-based leadership training was generally high, often above 90%](high-satisfaction-simulation-leadership-training.md) — related
 - Included studies reported improved comfort, confidence and empathy, but used no standardised outcome measures — related
 - [VR tools enhance acquisition and retention of clinical and procedural skills but face barriers including cybersickness, limited tactile feedback and variable long-term skill transfer](vr-enhances-practical-skill-acquisition-with-barriers.md) — a narrower finding that bears on this claim
+- [High-fidelity simulation particularly enhances core clinical competencies such as CPR, infection control, and diagnostic reasoning](high-fidelity-simulation-enhances-core-competencies.md) — a narrower finding that bears on this claim
+- [Active methodologies show no definitive superiority over traditional teaching in undergraduate dentistry](no-definitive-superiority-active-methods-dentistry.md) — reports the opposite

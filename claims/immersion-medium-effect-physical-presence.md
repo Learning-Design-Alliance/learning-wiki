@@ -48,3 +48,5 @@ The review reports, citing Cummings and Bailenson (2016), a meta-analysis aggreg
 - [Immersive media environments enable higher visual and behavioral realism of pedagogical agents than non-immersive formats](xr-higher-agent-realism-than-non-immersive.md) — related
 - [Stereoscopic display of realistic visualizations may support spatial perception and transfer-oriented learning](stereoscopic-realism-transfer-potential.md) — related
 - [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — related
+- [VR was defined in 95 studies, with stereoscopic visualisation and user interaction the most recurrent features](vr-defined-95-studies-features.md) — related
+- [Recurring features across XR-simulation in dentistry are stereoscopic vision, immersion, interaction, modification and haptic feedback](xr-recurring-features-dental-simulation.md) — related

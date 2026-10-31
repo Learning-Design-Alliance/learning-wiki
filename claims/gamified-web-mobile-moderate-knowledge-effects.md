@@ -53,3 +53,4 @@ Subgroup analysis of six RCTs (n=295) of gamified web/mobile platforms in the kn
 - [Standalone serious games show large, relatively consistent effects on knowledge acquisition compared with other gamification categories](serious-games-consistent-knowledge-effects.md) — related
 - [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](gamification-has-small-positive-effects-on-learning-outcomes.md) — a broader claim this one bears on
 - [Gamified mobile microlearning improved written exam scores but not global clinical performance assessments in psychiatry clerkship students](gamified-microlearning-exam-only.md) — a narrower finding that bears on this claim
+- [E‐learning produces a pooled normalized knowledge gain of 26.8% in undergraduate ENT education, classified as low gain](elearning-ent-pooled-normalized-gain-26-8.md) — related

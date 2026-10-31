@@ -52,3 +52,6 @@ RCT of 120 medical and nursing students comparing VR with live simulation, asses
 - Only 16 of 36 studies assessed BLS knowledge retention over time, with follow-ups generally between 1 and 6 months and only two exceeding 1 year — a broader claim this one bears on
 - [Exploratory 3-month follow-up suggested a sleeper effect on parent-rated empathy, but no maintained gains in other outcomes](zirkus-empathico-followup-sleeper-empathy.md) — related
 - [Cognitive training gains are maintained or further enhanced at two-month follow-up](act-cognitive-gains-sustained-follow-up.md) — related
+- [Onsite training skill effects are larger at immediate post‐intervention than at follow‐up, while hybrid skill effects do not differ by assessment point](onsite-skill-effects-larger-immediate-post-intervention.md) — related
+- [Simulation increases participants' empathy, communication and interpersonal skills and decreases anxiety](simulation-increases-empathy-communication-skills.md) — related
+- [VR-based nurse-physician communication team training is non-inferior to live simulation for communication performance and improves interprofessional attitudes](vr-noninferior-live-simulation-team-communication.md) — related

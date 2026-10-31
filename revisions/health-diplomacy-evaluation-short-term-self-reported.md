@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/health-diplomacy-evaluation-short-term-self-reported.md
+---
+
+# Revision history: [claims/health-diplomacy-evaluation-short-term-self-reported](../claims/health-diplomacy-evaluation-short-term-self-reported.md)
+
+### 2026-10-31 · ingest · process:wiki-ingest
+Ingested from pmc-12755105 (Health diplomacy training, pedagogical approaches, and skills assessment: a scoping review.) via eval_harness.py + ingest_extractions.py

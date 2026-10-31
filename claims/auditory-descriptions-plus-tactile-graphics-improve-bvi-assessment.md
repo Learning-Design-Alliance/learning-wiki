@@ -51,3 +51,4 @@ The review reports preliminary results from Ferrell et al. (2017) on auditory im
 - [BVI students face material and instructional barriers: late STEM materials, error-laden tactile worksheets, and variable teacher graphic descriptions](bvi-material-instructional-barriers.md) — related
 - [Score-access barriers push musicians with BLV toward memorization and listening-based learning, and accessible notation tools miss performance-critical details](blv-score-access-memorization-default.md) — related
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — a broader claim this one bears on
+- [Visual and auditory features of DPBL technologies are appreciated but tactile realism is limited](dpbl-visual-auditory-appreciated-tactile-limited.md) — related

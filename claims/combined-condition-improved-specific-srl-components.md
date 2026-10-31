@@ -62,3 +62,4 @@ Outcome results from the randomised control study of 73 university students, in 
 - [Training in metacognitive regulation combined with a cognitive learning strategy transfers to better metacognitive regulation of mental effort (far transfer), with small effect sizes](far-transfer-metacognitive-regulation-mental-effort.md) — related
 - [Students in differentiated classes grow significantly more on elaboration, critical thinking, metacognitive self-regulation and effort regulation](growth-on-learning-strategy-scales.md) — related
 - [Neither GenAI intervention outperformed standard ChatGPT control on effort, domain-specific knowledge, or elaboration-based strategy use](genai-srl-interventions-no-advantage-over-control.md) — related
+- [Worked examples combined with practice writing improved clinical note checklist scores more than worked examples alone](worked-examples-plus-practice-improve-note-scores.md) — related

@@ -51,3 +51,4 @@ The systematic review assessed the thirty included quantitative outcome studies 
 - [Effects of AI literacy interventions vary considerably across contexts, with most variance between studies (71.361%) and a wide prediction interval](ai-literacy-intervention-effects-highly-heterogeneous.md) — related
 - [School-based prevention practices appear effective in reducing alcohol and drug use, dropout and nonattendance, and other conduct problems, with small average effects and considerable heterogeneity across studies](school-based-prevention-small-heterogeneous-effects.md) — related
 - [The evidence base on ICT and high-ability students is limited and methodologically heterogeneous](ict-high-ability-limited-heterogeneous-evidence.md) — a narrower finding that bears on this claim
+- [The review included 19 studies, predominantly from the United States (n=9) and Canada (n=5), with heterogeneous methodological quality](19-studies-included-heterogeneous-quality.md) — related

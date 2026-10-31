@@ -79,3 +79,4 @@ Experiential-learning theme from the same interviews: AI simulations let learner
 - [Role-playing in a ship simulator constitutes an activity context whose ephemeral resources can collapse](role-play-activity-context-simulator.md) — related
 - [Expectations about the application context, not only actual experience at learning, shape generalization breadth](expectations-shape-generalization-not-only-experience.md) — related
 - [Adult learners prefer scenario-based, unobtrusive gamified, and competency-based assessment in AI-powered learning](adult-learners-ai-assessment-preferences.md) — related
+- [Curricula predominantly featured interactive and experiential teaching methods such as simulation and project-based learning](mlm-curricula-interactive-experiential-methods.md) — related

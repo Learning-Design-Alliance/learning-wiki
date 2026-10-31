@@ -52,3 +52,5 @@ Competency-domain subgroup analysis of the 27 included studies, assessed via exa
 - [All three ECE modalities show significant positive effects, with real clinical interactions showing the largest pooled effect](ece-types-subgroup-effects.md) — related
 - [Early clinical exposure significantly improves dental students' overall competency compared with traditional teaching (SMD = 1.25), though evidence certainty is low](ece-improves-dental-student-competency-meta.md) — related
 - [The positive effect of ECE holds in both randomised and nonrandomised study designs](ece-effect-both-rct-and-nrsi.md) — related
+- [Early clinical exposure improves the clinical skills of medical students compared with traditional teaching](ece-improves-clinical-skills.md) — related
+- [Early clinical exposure increases medical knowledge test scores and motivates learning](ece-improves-knowledge-motivation.md) — a narrower finding that bears on this claim

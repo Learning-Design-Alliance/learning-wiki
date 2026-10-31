@@ -86,3 +86,4 @@ The paper cites Basori et al. (2011) for the claim that realistic avatars commun
 - [Asynchronous video communication and feedback enhance social presence and helped sustain engagement and connections between socially isolated faculty and students during the COVID-19 shift online](asynchronous-video-enhances-social-presence-covid.md) — related
 - [Embodied actions appear in all reviewed ILE designs, while learner control over environment attributes is rare](ile-psychomotor-design-characteristics-embodied-actions.md) — related
 - [VR can replicate fieldwork in the physical sciences but loses embodied presence in Geography, and Geography teachers need discipline-specific capabilities in GIS, remote sensing and UAVs](geography-vr-fieldwork-limits.md) — related
+- [Students report mixed social perceptions of DPBL, with some feeling isolated and others valuing the focused learning environment](dpbl-mixed-social-perceptions-isolation-focus.md) — related

@@ -51,3 +51,5 @@ Discussion statement summarizing the discrimination-index classification across 
 - [Faculty-generated SBMCQs met all three ideal item-analysis criteria more often than ChatGPT-generated SBMCQs (19 vs. 9 of 40)](faculty-sbmcqs-outperform-chatgpt-ideal-criteria.md) — related
 - [ChatGPT-generated SBMCQs skewed easier than faculty-generated SBMCQs, whose difficulty was predominantly in the appropriate range](chatgpt-sbmcqs-easier-difficulty-index.md) — related
 - [AI-generated assessment items frequently need faculty correction, supporting AI as a draft generator within quality assurance](genai-assessment-items-draft-generator-quality-assurance.md) — related
+- [ChatGPT 3.5 performs worse than ChatGPT 4 and Llama 2 on question clarity and distractor quality](chatgpt-35-worse-clarity-distractor-quality.md) — related
+- [ChatPDF.com generates more difficult and discriminating MCQs than ChatGPT 3.5 and ChatGPT 4](chatpdf-com-more-difficult-discriminating-mcqs.md) — related

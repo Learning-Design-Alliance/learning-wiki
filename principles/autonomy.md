@@ -42,7 +42,7 @@ sources:
 # Autonomy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 60 claims (26 for, 31 mixed, 3 against) · 57 studies (12 review, 11 associational, 10 causal, 9 theoretical, 6 qualitative, 5 design, 4 quant-synthesis), `q1`–`q4` · 7 of 57 report an effect size · 52 claims rest on one study
+> **Evidence** · 61 claims (27 for, 31 mixed, 3 against) · 58 studies (13 review, 11 associational, 10 causal, 9 theoretical, 6 qualitative, 5 design, 4 quant-synthesis), `q1`–`q4` · 7 of 58 report an effect size · 53 claims rest on one study
 
 ## Conditional relationship
 
@@ -193,6 +193,7 @@ Motivation during a task, free-choice engagement afterwards, immediate learning,
 - [No significant quantitative change in autonomy after the SDT-based online unit](../claims/sdt-based-online-unit-autonomy-not-significant.md) [-W]
 - [Situational comic play creation improved elementary students' English performance and expressed learning autonomy](../claims/comic-drama-creation-improved-english-autonomy.md) [+W]
 - [Teachers tend to exert more control online while students are underprepared for autonomy, per cited literature](../claims/teacher-control-versus-student-autonomy-online.md) [~W]
+- [Hybrid models combining SDVT with real-time feedback may enhance learner autonomy while maintaining instructional oversight](../claims/hybrid-sdvt-rt-feedback-benefits.md) [+W]
 
 ## Related Principles
 - [Check-ins](check-ins.md) — regular, non-controlling check-ins are a core teacher behavior of autonomy support, signaling interest rather than surveillance

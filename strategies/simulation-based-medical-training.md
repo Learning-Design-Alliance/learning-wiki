@@ -72,6 +72,7 @@ Simulation works because it allows deliberate practice with immediate feedback â
 - [Blend the PEARLS debrief with CHAT-guided facilitation to extend debriefing from the individual to the team and system](blended-pearls-chat-debrief-strategy.md)
 - [Improve MR training by adjusting scenario complexity for stress elicitation and implementing communication capabilities with virtual patients](improve-mr-scenario-complexity-and-communication.md)
 - [Design future pedagogical interventions aligned with the integrative model: case discussions requiring epistemological/ontological reflection, debriefings stimulating emotional and psychomotor awareness, and triangulated multi-dimensional assessment](model-aligned-mr-pedagogical-interventions-pt.md)
+- [Deliver NTS training through simulation-based courses with structured debriefing focused on Crisis Resource Management principles, supplemented by in-situ refreshers and visual reminders.](simulation-crm-debriefing-delivery-strategy.md)
 
 ## Examples
 - **[Center for Medical Simulation, Harvard](https://harvardmedsim.org)** â€” pioneer of the "debriefing with good judgment" method now widely adopted in simulation faculties.

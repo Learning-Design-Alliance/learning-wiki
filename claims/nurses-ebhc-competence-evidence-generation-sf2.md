@@ -52,3 +52,4 @@ JBI meta‐aggregation synthesising 13 findings from the included qualitative st
 - [Nurses' competence in effective implementation of evidence comprises evaluating and reflecting on outcomes, contextual understanding and analysis, and facilitating and managing change in practice](nurses-ebhc-competence-evidence-implementation-sf4.md) — related
 - [Nurses expressed no experiences or perceptions of evidence synthesis, so the review's findings map to four rather than five EBHC sub‐dimensions](nurses-no-experiences-evidence-synthesis.md) — related
 - The review extracted 89 findings from 17 studies with 408 nurse participants, of which 35 were unequivocal and 54 credible — related
+- [Associations of work experience and age with nurses' EBHC competence are mixed, with both shorter and longer durations and both younger and older age reported as positive](mixed-work-experience-age-associations-ebhc-competence.md) — related

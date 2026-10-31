@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 250 claims (156 show a difference, 44 mixed, 50 no difference) · 167 studies (50 associational, 41 causal, 35 quant-synthesis, 26 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 39 of 167 report an effect size · 241 claims rest on one study
+> **Evidence** · 252 claims (158 show a difference, 44 mixed, 50 no difference) · 168 studies (50 associational, 41 causal, 35 quant-synthesis, 27 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 39 of 168 report an effect size · 243 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -301,6 +301,8 @@ What a learner can read without effort, and whether the language of instruction 
 - [Bilingual immunology teaching significantly improves professional English proficiency among Chinese undergraduates](../claims/bilingual-immunology-teaching-improves-professional-english-proficiency.md) [+M] — instruction changes it
 - [Bilingual immunology teaching significantly improves undergraduates' competence in English application](../claims/bilingual-immunology-teaching-improves-english-application.md) [+M] — instruction changes it
 - [Bilingual teaching benefits on course performance may not extend to second-year students who already meet an English proficiency threshold](../claims/bilingual-immunology-benefits-vary-by-grade-level.md) [~M] — an instructional effect differs with it
+- [TEPBLL promotes eight language skills and knowledge areas: speaking, listening, reading, writing, vocabulary, creative and critical thinking, intercultural awareness, and content knowledge](../claims/tepbll-eight-skills-knowledge-promoted.md) [+M] — instruction changes it
+- [WhatsApp-based mobile instant messaging projects enhanced communicative skills and vocabulary knowledge](../claims/whatsapp-projects-communicative-skills-vocabulary.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

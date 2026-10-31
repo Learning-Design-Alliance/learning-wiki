@@ -72,3 +72,4 @@ The review reports, citing the included studies, that the online tool showed les
 - [Most learner-facing studies of technology-enhanced simulation in laparoscopic training report favorable learner responses, mainly confidence, satisfaction, perceived safety and self-efficacy](simulation-laparoscopic-favorable-perceptions.md) — related
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related
 - [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
+- [Non-traditional clinical placements (Recovery Camp) reduce stigma more than typical placements](recovery-camp-reduces-stigma-more-than-typical-placement.md) — related

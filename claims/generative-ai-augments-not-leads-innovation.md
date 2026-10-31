@@ -52,3 +52,4 @@ Interpretive argument in the innovation-management contribution, reasoning that 
 - [AI is not yet ready to replace teachers but presents a real possibility to augment them](ai-augments-not-replaces-teachers.md) — related
 - [AI solutions can automate routine tasks but cannot yet handle the complex tasks of higher learning](ai-limited-to-automatable-tasks-in-higher-learning.md) — a broader claim this one bears on
 - [Teachers transitioned from using AI for basic routine tasks to leveraging it as a tool for innovation](ai-use-transition-routine-to-innovation.md) — a narrower finding that bears on this claim
+- [ChatGPT-4.0 and 3.5 cannot replace the comprehensive skill set required for effective medical practice](chatgpt-cannot-replace-comprehensive-medical-practice-skills.md) — related

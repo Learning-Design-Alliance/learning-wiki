@@ -49,7 +49,8 @@ The article's practical implications recommend that vocational instructors adopt
 - [Video review produces more structured reflective behavior patterns, with modality-specific video interaction sequences](../claims/video-review-structured-reflective-behavior-patterns.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use virtual simulations to enhance cognitive learning while prioritizing in-person laboratory sessions for psychomotor and technical skills](virtual-simulations-cognitive-in-person-psychomotor.md)
 
 ## Examples
 -

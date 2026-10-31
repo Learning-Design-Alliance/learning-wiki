@@ -13,7 +13,7 @@ generated:
 # Flipped Classroom
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 19 claims (9 for, 9 mixed, 1 against) · 12 studies (7 quant-synthesis, 2 causal, 2 review, 1 design), `q2`–`q4` · 5 of 12 report an effect size · 18 claims rest on one study
+> **Evidence** · 20 claims (9 for, 10 mixed, 1 against) · 13 studies (7 quant-synthesis, 3 review, 2 causal, 1 design), `q1`–`q4` · 5 of 13 report an effect size · 19 claims rest on one study
 
 ## Description
 Flipped classroom is the element in which initial content exposure happens before class so in-class time can focus on application and feedback.
@@ -43,6 +43,7 @@ Flipped classroom is the element in which initial content exposure happens befor
 - [Gamified flipped classroom/animation knowledge effects are inconclusive due to few studies and extreme heterogeneity](../claims/gamified-flipped-classroom-inconclusive-knowledge.md) [~W]
 - [Effect sizes do not differ significantly between selected-student and whole-class applications, with class-based applications slightly higher (g = 1.253 vs 1.245)](../claims/no-significant-difference-by-application-type.md) [~W]
 - [A blended flipped classroom produced statistically significantly higher post-test scores than traditional teaching in one included histology study (p < 0.0001)](../claims/blended-flipped-classroom-higher-posttest-scores.md) [+W]
+- [Blended learning or flipped classroom models may combine e-learning and traditional modalities](../claims/blended-flipped-classroom-anaesthesia.md) [~W]
 
 ## Related Elements
 - [Pre-Class Preparation](pre-class-preparation.md)

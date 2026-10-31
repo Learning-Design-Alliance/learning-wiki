@@ -51,3 +51,4 @@ Random-effects meta-analysis of 17 randomized controlled trials in undergraduate
 - [Gamified simulation-based learning shows a large knowledge effect but with substantial heterogeneity](gamified-simulation-large-variable-knowledge-effect.md) — a narrower finding that bears on this claim
 - [Gamified flipped classroom/animation knowledge effects are inconclusive due to few studies and extreme heterogeneity](gamified-flipped-classroom-inconclusive-knowledge.md) — a narrower finding that bears on this claim
 - [Gamified web and mobile learning show moderate knowledge effects with greater variability than serious games](gamified-web-mobile-moderate-knowledge-effects.md) — a narrower finding that bears on this claim
+- [E‐learning produces a pooled normalized knowledge gain of 26.8% in undergraduate ENT education, classified as low gain](elearning-ent-pooled-normalized-gain-26-8.md) — related

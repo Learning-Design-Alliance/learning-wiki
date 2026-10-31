@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/most-frequent-geriatric-competencies-disease-medication-cognition.md
+---
+
+# Revision history: [claims/most-frequent-geriatric-competencies-disease-medication-cognition](../claims/most-frequent-geriatric-competencies-disease-medication-cognition.md)
+
+### 2026-10-31 · ingest · process:wiki-ingest
+Ingested from pmc-12751425 (Geriatric core competencies for non-geriatricians and nurses: a scoping review.) via eval_harness.py + ingest_extractions.py

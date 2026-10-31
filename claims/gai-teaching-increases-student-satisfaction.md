@@ -55,3 +55,4 @@ Meta-analysis of 15 continuous-variable studies (random effects, I2 = 96%) and 2
 - [GAI-assisted teaching shows no significant effect on critical thinking skills in the continuous-variable analysis, but the single dichotomous-variable study reports a large difference](gai-teaching-critical-thinking-null-continuous.md) — related
 - [GenAI significantly improves academic writing scores for both clinical medicine and nursing students](genai-improves-academic-writing-scores.md) — related
 - [Students in TBL groups report higher satisfaction than students in LBL groups](tbl-higher-student-satisfaction-neurology.md) — related
+- [SP+CBL pedagogy significantly improves teaching satisfaction compared with LBL in Chinese clinical education.](sp-cbl-improves-teaching-satisfaction.md) — related

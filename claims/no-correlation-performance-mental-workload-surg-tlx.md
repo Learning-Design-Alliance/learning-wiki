@@ -47,3 +47,4 @@ Pearson correlation analysis of performance scores against SURG-TLX mental-workl
 ## Related Claims
 - [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related
 - [No significant correlation between hours of RAS practice and simulator task performance](no-correlation-practice-hours-performance.md) — related
+- [Participants perceive skills as transferable between the Hugo RAS and dV-trainer, with higher workload reported on the SP platform](participant-perceptions-transferability-workload.md) — related

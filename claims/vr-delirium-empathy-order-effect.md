@@ -56,3 +56,5 @@ This was a prospective, single-centre, quasi-experimental crossover study with 1
 - [Knowledge transfer outcomes show the largest effect sizes of immersive procedural training (g = 1.80), while knowledge gain and retention effects are not significant](ivr-knowledge-transfer-largest-effect.md) — related
 - [Immersion principle: people do not necessarily learn better in 3D immersive virtual reality than with a corresponding 2D desktop presentation (d = -0.10 across 9 tests)](immersion-principle-no-vr-benefit.md) — reports the opposite
 - [A VR simulation of psychosis reduced stigma and increased empathy and knowledge among medical students](vr-psychosis-empathy-stigma.md) — related
+- [A docudrama helped graduate nurses gain empathy and understanding of families experiencing dementia](docudrama-built-graduate-nurse-empathy-dementia.md) — related
+- [Simulation-based interventions produce a small but statistically significant improvement in nursing students' empathy](simulation-small-significant-empathy-gain.md) — related

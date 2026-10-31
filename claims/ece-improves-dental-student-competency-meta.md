@@ -49,3 +49,6 @@ Random-effects meta-analysis of 27 studies (2995 students; 1787 ECE, 1211 contro
 - [ECE improves theoretical knowledge, clinical practice performance and self-efficacy, with the largest effect on self-efficacy](ece-competency-domain-effects.md) — related
 - [All three ECE modalities show significant positive effects, with real clinical interactions showing the largest pooled effect](ece-types-subgroup-effects.md) — a narrower finding that bears on this claim
 - Pooled ECE estimates are robust in leave-one-out sensitivity analysis and show no significant publication bias — related
+- [Early clinical exposure is associated with higher empathy scores regardless of gender and academic year](ece-higher-empathy-scores.md) — related
+- [Early clinical exposure improves the clinical skills of medical students compared with traditional teaching](ece-improves-clinical-skills.md) — related
+- [Early clinical exposure increases medical knowledge test scores and motivates learning](ece-improves-knowledge-motivation.md) — related

@@ -61,3 +61,5 @@ The review reports, citing three prior studies, that PBL appeared more effective
 - [Student satisfaction with CBL, PBL and TBL in public health education was high, reported in 21 of 22 studies (95.4%)](high-satisfaction-21-of-22-public-health-active-learning.md) — related
 - [Limited evidence suggests PBL participants implement practice changes, but behavior-change data are sparse and mostly non-significant](pbl-behavior-change-limited-evidence-pgme.md) — related
 - [Student preference for CBL, PBL or TBL over traditional teaching was reported in 15 of 22 studies (68.1%), but only two studies used a controlled comparison with lecture](preference-over-lecture-15-studies-only-two-controlled.md) — related
+- [First-year medical students in the single first-year-focused study reported high engagement (97%) and perceived improved teamwork (87%) with PBL](first-year-students-high-engagement-teamwork-pbl.md) — related
+- [Systematic review finds PBL improves clinical reasoning in OB/GYN education](pbl-improves-clinical-reasoning-obgyn.md) — related

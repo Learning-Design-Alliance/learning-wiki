@@ -62,3 +62,4 @@ Item-level analysis of the concluding survey (Likert scale 1–10) administered 
 - [Students in a 13-week lecture-free course reported accepting the weekly closed-book gate and rated the format as deeper and faster than lectures](tdaa-student-acceptance-weekly-gate.md) — related
 - [Students rated all major course activities as highly useful, with scores between 7.5 and 8.4 on a 0-9 scale](high-activity-usefulness-ratings.md) — related
 - [Students rated all student-facing design principles positively, with formative assessment and learning content rated highest (above 6 on a 7-point scale)](design-principles-rated-positively-survey.md) — related
+- [ChatGPT accuracy varies substantially across countries and specialties, from 73% on Italian to 22% on French examinations](chatgpt-accuracy-varies-across-countries-and-specialties.md) — related

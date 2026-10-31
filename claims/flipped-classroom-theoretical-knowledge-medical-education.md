@@ -77,3 +77,4 @@ Leave-one-out sensitivity analysis for theoretical knowledge: pooled effects sta
 - [Flipped classrooms are associated with improved procedural/technical skills in medical education (pooled SMD = 1.80), with larger effects among residents and in theoretical-course settings](flipped-classroom-procedural-skills-medical-education.md) — related
 - [Evidence on AI-driven simulation in dental education shows moderate-to-high heterogeneity and limited certainty](ads-evidence-heterogeneity-limited-certainty.md) — related
 - Substantial heterogeneity in intervention design, outcome measures, and feedback structures limited comparability across reviews, and no pooled meta-analysis was feasible — related
+- [E‐learning produces a pooled normalized knowledge gain of 26.8% in undergraduate ENT education, classified as low gain](elearning-ent-pooled-normalized-gain-26-8.md) — related

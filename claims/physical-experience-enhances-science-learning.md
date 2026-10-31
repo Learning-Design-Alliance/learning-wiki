@@ -121,3 +121,4 @@ Undergraduates studying heat and temperature were assigned to physical manipulat
 - [Physical and virtual laboratory modalities produce different learning processes and transfer despite equivalent test scores](modality-differences-in-process-and-transfer.md) — related
 - [Virtual laboratories match physical laboratories on conceptual mastery, with domain-specific advantages and disadvantages](virtual-matches-physical-conceptual-mastery.md) — related
 - [Combining real and virtual laboratories outperforms either single modality in physics learning outcomes](combined-real-virtual-labs-outperform-single-modes.md) — related
+- [Virtual labs increase confidence but cannot fully replace hands-on experimental learning](virtual-labs-cannot-replace-hands-on-learning.md) — related

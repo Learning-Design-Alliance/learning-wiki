@@ -50,3 +50,4 @@ This was a quality-improvement project using Lean Six Sigma with PDSA cycles in 
 - [Simulation-based education increases post-registration nurses' odds of satisfactory observed delirium-care practice at 6 weeks in a cluster RCT](sbe-delirium-odds-satisfactory-practice-rct.md) — related
 - [Delirium knowledge gains from simulation-based education were sustained over time in repeated-survey and delayed-assessment studies](sbe-delirium-knowledge-sustained-gains.md) — related
 - [No included comparative study assessed patient-based clinical outcomes, patient acceptability of care, or staff resource time](no-patient-outcomes-assessed.md) — related
+- [Positive patient outcomes were reported in 14 of 17 included CPD studies](cpd-positive-outcomes-14-of-17-studies.md) — related

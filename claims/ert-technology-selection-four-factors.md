@@ -49,3 +49,4 @@ Phase 1 thematic review of 15 empirical ERT studies (nine surveys and six case s
 - [Teachers tended to adopt district-provided tools, and single-application step-by-step training supported uptake of Forms](district-provided-tools-single-tool-training.md) — related
 - [Selecting appropriate digital technologies is the only ERT digital competence explicitly reflected in all ten Australian university frameworks](n1-selection-present-all-ten-frameworks.md) — related
 - [Familiarity with technology relates to how distance teaching is organized but not to its quality constructs](familiarity-shapes-organization-not-quality-of-distance-teaching.md) — related
+- [Patients experience healthcare professionals as competent in digital counselling when they can efficiently provide digital support and solve technological problems](patients-experience-hcp-competence-efficient-digital-support.md) — related

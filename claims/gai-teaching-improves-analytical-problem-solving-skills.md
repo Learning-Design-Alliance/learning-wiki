@@ -56,3 +56,4 @@ Random-effects meta-analysis of eight continuous-variable studies (I2 = 95%) and
 - [GAI-assisted teaching significantly improves clinical thinking ability compared with traditional teaching (SMD = 1.18; OR = 10.97)](gai-teaching-improves-clinical-thinking-ability.md) — related
 - [GAI-assisted teaching significantly improves practical examination scores in medical students compared with traditional teaching (SMD = 1.48)](gai-teaching-improves-practical-scores-medical-students.md) — related
 - [GAI-assisted teaching significantly improves knowledge examination scores in medical students compared with traditional teaching (SMD = 0.95)](gai-teaching-improves-knowledge-scores-medical-students.md) — related
+- [Modern teaching methods significantly improve nursing students' problem-solving abilities (SMD = 1.05)](modern-methods-improve-nursing-problem-solving-meta.md) — related

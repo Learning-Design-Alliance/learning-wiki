@@ -57,3 +57,4 @@ Shahrokni's (2009) empirical study assigned 90 Iranian EFL learners to three gro
 - [In Chun and Plass's CyberBuch studies, the text + picture annotation group significantly outperformed text-definition and text + video groups on a vocabulary test](chun-plass-text-picture-outperformed-text-video.md) — related
 - [In Lomicka's think-aloud study, no statistical differences emerged among no-gloss, single-gloss, and multiple-gloss groups despite apparent vocabulary gains from multiple annotations](lomicka-no-statistical-difference-gloss-groups.md) — related
 - [Pictorial narratives are comprehended better than textual narratives across all education and age groups](pictorial-narratives-better-comprehended-than-textual.md) — related
+- [Digital storytelling projects can promote incidental vocabulary acquisition when learners create multimedia resources illustrating vocabulary use](dst-incidental-vocabulary-acquisition.md) — related

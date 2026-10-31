@@ -78,3 +78,9 @@ The review reports Dwisaptarini et al.'s RCT of minimal invasive caries removal 
 - [Distance simulation of technical skills achieves skill outcomes comparable to traditional on-site training in most comparative studies](distance-simulation-comparable-to-onsite-technical-skills.md) — a broader claim this one bears on
 - [VR tools enhance acquisition and retention of clinical and procedural skills but face barriers including cybersickness, limited tactile feedback and variable long-term skill transfer](vr-enhances-practical-skill-acquisition-with-barriers.md) — related
 - [VR-enhanced basic robotic skills training sometimes required more training repetitions than conventional training to reach equivalent proficiency](vr-training-more-repetitions-to-proficiency.md) — related
+- [AR/VR training shows equal or superior outcomes versus conventional training in dental and OMFS education](arvr-noninferior-or-superior-dental-omfs-training.md) — related
+- [Haptic simulator trials more frequently show superior accuracy outcomes when force-feedback and structured guidance are included](haptic-simulator-force-feedback-accuracy-gains.md) — reports the opposite
+- [Hybrid sequences combining VR with conventional practice yielded the most favorable outcomes in one trial](hybrid-vr-conventional-sequence-favorable.md) — related
+- [Active methodologies show no definitive superiority over traditional teaching in undergraduate dentistry](no-definitive-superiority-active-methods-dentistry.md) — a broader claim this one bears on
+- [VR training's effect on OSATS-assisted skill acquisition shows conflicting evidence](vr-osats-conflicting-evidence.md) — related
+- [VR simulation training improves orthopaedic trainees' technical proficiency and shortens operative times](vr-simulation-improves-ortho-technical-proficiency.md) — reports the opposite

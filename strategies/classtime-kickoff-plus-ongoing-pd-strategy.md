@@ -59,6 +59,7 @@ The summary describes a professional development model for successful Classtime 
 - [Build coordinator capacity through a structured weekly professional learning community with personalized coaching and targeted assets-and-needs-assessment training](weekly-plc-coaching-for-community-school-coordinators.md)
 - [Implement strategy interventions through regular teachers with minimal professional development and structured materials](teacher-led-minimal-pd-intervention-strategy.md)
 - [Follow-up supports for integrated computing PD: technical programming coursework, professional learning communities, and student-outcome study](integrated-computing-pd-followup-supports.md)
+- [Adopt a 'bolus and drip' longitudinal training paradigm combining structured didactic material with frequent practical scanning sessions](bolus-and-drip-pocus-training-strategy.md)
 
 ## Examples
 -

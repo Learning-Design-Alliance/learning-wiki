@@ -47,7 +47,9 @@ The review recommends that dental educators tailor standard-setting implementati
 - [Percentage rating format in the Modified Angoff method yields higher reliability than the Yes/No format, with ICCs of 0.48–0.65 versus a maximum of 0.41](../claims/percentage-format-more-reliable-than-yes-no-angoff.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Adopt structured reporting standards for prescribing assessment research including reliability, validity, cut scores and costs](recommend-structured-reporting-prescribing-assessment.md)
+- [Tailor active methodologies to the specific educational context and subject matter](tailor-active-methods-to-context-dentistry.md)
 
 ## Examples
 -

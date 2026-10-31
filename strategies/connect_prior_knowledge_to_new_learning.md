@@ -85,6 +85,7 @@ Prior knowledge is the single strongest predictor of new learning; learners comp
 - [Activate Background Knowledge](../strategies/activate_background_knowledge.md) — classroom routine variant emphasizing learner experience sharing
 - [Accessing Students' Background Knowledge](../strategies/accessing_students_background_knowledge.md) — diagnostic and culturally responsive variant
 - [Embed the KWL strategy across inquiry phases to guide question generation and question-quality monitoring](kwl-integrated-inquiry-question-generation.md)
+- [Combine theoretical background and experience-based teaching strategies to develop relational competence](combine-theoretical-and-experience-based-teaching.md)
 
 ## Examples
 - **[Anchored Instruction (Jasper Woodbury series)](https://peabody.vanderbilt.edu/projects/funded/jasper/)** — video-based adventures anchor new mathematical reasoning in a rich, familiar story context, requiring students to connect existing knowledge to the problem.

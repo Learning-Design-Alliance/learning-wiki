@@ -50,3 +50,4 @@ Narrative synthesis of the review's included studies, citing Fischer et al.'s ra
 - [Feedback from trained humans was in some settings as effective as mechanical feedback devices for CPR quality](human-feedback-equivalent-to-mechanical-devices.md) — related
 - [Real-time feedback systems generally improve CPR quality in simulation-based training, particularly compression rate and depth](real-time-feedback-improves-cpr-quality-simulation.md) — reports the opposite
 - [Feedback-based CPR training is associated with more accurate chest compression performance than standard instruction](feedback-based-cpr-training-improves-compression-performance.md) — a broader claim this one bears on
+- [Objective, device-based feedback is preferred in cardiac arrest simulation education](device-based-feedback-preferred.md) — related

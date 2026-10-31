@@ -50,3 +50,4 @@ Random-effects meta-analysis of six RCTs on overall screw placement success prin
 - [VR-trained trainees show shorter screw penetration distances and fewer displaced screws per resident](vr-training-shorter-penetration-fewer-displaced-screws.md) — related
 - [High authenticity simulations show higher effects than low authenticity simulations](high-authenticity-simulations-higher-effects.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
+- [VR simulation training improves orthopaedic trainees' technical proficiency and shortens operative times](vr-simulation-improves-ortho-technical-proficiency.md) — a broader claim this one bears on

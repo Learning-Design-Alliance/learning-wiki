@@ -53,3 +53,4 @@ Thematic synthesis of a scoping review of 83 sources; Table 1 lists 28 papers re
 - [Evidence for improved OSCE performance from GTA training is mixed, and the evidence base relies heavily on self-reported, short-term, single-centre measures](gta-osce-evidence-mixed-self-reported-short-term.md) — related
 - [GTA-trained students outperform manikin- or clinical-patient-trained peers in examination technique and procedural sequencing, but not in diagnostic ability](gta-training-improves-technical-skill-not-diagnostic-ability.md) — related
 - [Standardisation of GTA programmes improves quality but may narrow representations of bodily diversity, promoting a hidden curriculum of 'normality'](gta-standardisation-narrows-bodily-diversity.md) — related
+- [Learner confidence consistently improved following e‐learning interventions in ENT education](elearning-ent-confidence-consistently-improved.md) — related

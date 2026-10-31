@@ -29,7 +29,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 70 claims (17 for, 48 mixed, 5 against) · 50 studies (16 causal, 9 quant-synthesis, 8 review, 7 theoretical, 5 qualitative, 3 design, 2 associational), `q1`–`q4` · 10 of 50 report an effect size · 65 claims rest on one study
+> **Evidence** · 71 claims (18 for, 48 mixed, 5 against) · 51 studies (16 causal, 9 quant-synthesis, 9 review, 7 theoretical, 5 qualitative, 3 design, 2 associational), `q1`–`q4` · 10 of 51 report an effect size · 66 claims rest on one study
 
 ## Description and scope
 
@@ -133,6 +133,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 On 2026-10-19 (wave 2) the other twenty-three links the orphan-claim linker had added in a `## Claims` section were read and moved into the model: the evidence-base and outcome claims, staff against peer tutoring, the de Grave et al. (2001) recall trial, pre-test prediction, self-generated learning issues, the productive-failure qualifications (solution rates, the non-STEM replication failure, the piloted problem, the small-group variance study, the second-hand "deeper learning" account), lectures alongside PBL, the discussion-analysis studies, the unanswered conceptual question, group size, online drift, the AI rows and the preparation strategy.
 
 The twelve claims listed here before that wave were read against the model on 2026-10-19 (wave 1) and now sit in it: prior knowledge before discussion (Van Blankenstein et al. 2013), whole and part tasks, the ninth-grade productive-failure experiment, the collaboration-skills and group-products rows ([Murray-Harvey et al. 2013](https://eric.ed.gov/?id=EJ1108330)), the scripted-unit row and the AI and self-paced rows.
+- [First-year medical students in the single first-year-focused study reported high engagement (97%) and perceived improved teamwork (87%) with PBL](../claims/first-year-students-high-engagement-teamwork-pbl.md) [+W] — attached 2026-10-31 from Abugri Bruce Ayabilla et al. (2026), which proposed "Support first-year medical students transitioning to PBL with structured orientation, guided early cases, and explicit collaboration teaching".
 
 ## Illustrative design instance and observation record
 

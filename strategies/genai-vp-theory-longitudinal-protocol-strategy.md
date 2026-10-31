@@ -47,6 +47,7 @@ The review concludes that safe and effective implementation of GenAI-supported v
 
 - [Prioritise longitudinal validation, pedagogical grounding, governed adoption of agent infrastructures, and ethics with human oversight in educational agentic AI research](agentic-ai-education-future-priorities.md)
 - [Adopt a roadmap for ethical CAI implementation in education](roadmap-ethical-cai-implementation-education.md)
+- [Establish standardized implementation frameworks and conduct multi-center longitudinal studies on VR communication training](standardized-implementation-frameworks-vr-communication.md)
 
 ## Examples
 -

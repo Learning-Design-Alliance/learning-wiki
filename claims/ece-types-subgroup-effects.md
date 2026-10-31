@@ -53,3 +53,7 @@ Subgroup analysis by ECE type in the meta-analysis. All three modalities were si
 - [Live simulations with real patients showed the greatest effects among simulation types (g = 2.27, medical education only)](simulation-type-moderates-effectiveness.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [Pooled risk difference across 11 student‐clinic studies is 0.43 but with considerable heterogeneity (I² = 93%)](student-rct-pooled-risk-difference-heterogeneous.md) — related
+- [Early clinical exposure improves the clinical skills of medical students compared with traditional teaching](ece-improves-clinical-skills.md) — related
+- [Most medical students report that early clinical exposure improves their communication skills](ece-improves-communication-skills-perceptions.md) — related
+- [Early clinical exposure increases medical knowledge test scores and motivates learning](ece-improves-knowledge-motivation.md) — related
+- [Students perceive that early clinical exposure improves problem-solving, professionalism, and confidence](ece-perceived-problem-solving-professionalism-confidence.md) — related

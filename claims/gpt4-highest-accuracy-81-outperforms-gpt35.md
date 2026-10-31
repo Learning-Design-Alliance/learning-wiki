@@ -50,3 +50,5 @@ Subgroup analysis by LLM type across the 36 included studies (GPT-4 n=30, GPT-3.
 - [GPT-4 achieves passing accuracy on USMLE Steps 1–3 (mean 86%), significantly exceeding GPT-3.5 (mean 56%)](gpt4-usme-passing-accuracy-exceeds-gpt35.md) — related
 - [Large language models achieve a pooled accuracy of 72% on medical licensing examination questions across 36 studies](llm-pooled-accuracy-72-medical-licensing-exams.md) — related
 - [Subgroup analyses show significant between-model differences, with Copilot (75.25%) and ChatGPT-4 (72.97%) achieving the highest pooled accuracies](llm-subgroup-copilot-chatgpt4-highest-accuracy.md) — related
+- [No significant difference in accuracy between ChatGPT 3.5 and Bard 1.0 generated MCQs](chatgpt-35-bard-accuracy-no-difference.md) — related
+- [ChatGPT-4.0 outperforms ChatGPT-3.5 in medical licensing exams, achieving a pooled accuracy of 81.8% versus 60.8%](chatgpt-4-pooled-accuracy-818-percent-licensing-exams.md) — possibly the same claim (merge candidate)

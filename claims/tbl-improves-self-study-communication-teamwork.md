@@ -53,3 +53,4 @@ Meta-analysis of secondary outcomes across small sets of RCTs: self-study abilit
 - [TBL is associated with higher practical skill scores than LBL in Chinese neurology education (SMD = 1.72)](tbl-higher-practical-skill-scores-neurology-china.md) — related
 - [TBL is associated with higher theoretical knowledge scores than LBL in Chinese neurology education (SMD = 1.16)](tbl-higher-theoretical-knowledge-scores-neurology-china.md) — related
 - [Students in TBL groups report higher satisfaction than students in LBL groups](tbl-higher-student-satisfaction-neurology.md) — related
+- [TBL significantly improves communication skills while PBL does not](tbl-significant-pbl-not-communication.md) — related

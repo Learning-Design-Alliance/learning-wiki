@@ -50,3 +50,7 @@ The review reports from Kim and Yang's comparison of Yes/No versus Percentage ra
 - [Angoff and Modified Angoff standard-setting show good inter-rater reliability in dental education, with reported coefficients ranging from 0.65 to 0.94](angoff-good-inter-rater-reliability-dental.md) — related
 - [The Borderline Regression method produced higher OSCE pass rates than Angoff methods (97.5% vs 86.6%) and discrepancies raise concerns for small cohorts](borderline-regression-higher-pass-rates-than-angoff-osce.md) — related
 - [The Angoff method produced lower cut-off scores and higher pass rates than Cohen and Hofstee methods in dental written assessments, especially in early and middle years](angoff-lower-cutoffs-higher-pass-rates.md) — related
+- [Contextual factors (learner level, discipline, format) moderate Angoff outcomes](angoff-contextual-moderators.md) — related
+- [Angoff methods produce significantly higher pass rates than conventional fixed standard-setting methods](angoff-higher-pass-rates-than-fixed.md) — related
+- [Angoff (Yes/No) variant shows the highest variability in cut scores](angoff-yes-no-highest-variability.md) — related
+- [Modified Angoff with reality check achieves excellent inter-rater reliability](modified-angoff-reality-check-reliability.md) — related

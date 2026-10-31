@@ -40,7 +40,8 @@ The article recommends that future studies evaluate and assess the applicability
 - [Kolb Elt Cycle Engineering Module Basis](../theories/kolb-elt-cycle-engineering-module-basis.md)
 
 ## Related Strategies
-- 
+
+- [Integrate MLM education longitudinally with experiential learning and robust program evaluation](mlm-longitudinal-experiential-integration-strategy.md)
 
 ## Examples
 -

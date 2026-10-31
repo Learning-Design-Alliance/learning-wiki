@@ -56,3 +56,7 @@ Geographical frequency analysis in the scoping review's characteristics of inclu
 - [Supporting evidence is unevenly distributed across the eight clinical teaching models, with OMP and SNAPPS the most extensively studied](omp-snapps-most-studied.md) — related
 - A scoping review identified 48 studies of technology-based teaching for health students' stroke clinical skills, most published recently and of lower methodological quality — related
 - [Timed and untimed spot tests show no significant difference in anatomy students' academic performance](timed-untimed-spot-tests-no-difference.md) — related
+- [Educational outcome research for autistic students is geographically concentrated in North America and Europe, with no disciplinary or attendance items from Asia or South America](autism-outcome-research-geographic-concentration.md) — related
+- [Most health diplomacy training initiatives originated in the United States, followed by Europe, South Asia, and the Middle East](health-diplomacy-training-global-north-dominance.md) — related
+- [All eight included studies were cross-sectional, conducted in Asia, and most lacked a comparator](pbl-review-studies-cross-sectional-asia-no-comparator.md) — related
+- [More than half of the included records were published by authors in the United States, with no records originating from South American or African countries.](records-usa-dominant-no-south-american-african-countries.md) — related

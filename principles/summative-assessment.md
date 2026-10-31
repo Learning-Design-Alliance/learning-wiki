@@ -20,7 +20,7 @@ sources:
 # Summative Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 68 claims (15 for, 40 mixed, 13 against) · 57 studies (17 associational, 15 theoretical, 7 review, 6 causal, 6 qualitative, 4 design, 2 quant-synthesis), `q1`–`q4` · 4 of 57 report an effect size · 66 claims rest on one study
+> **Evidence** · 69 claims (15 for, 41 mixed, 13 against) · 58 studies (17 associational, 15 theoretical, 7 review, 6 causal, 6 qualitative, 4 design, 3 quant-synthesis), `q1`–`q4` · 4 of 58 report an effect size · 67 claims rest on one study
 
 ## Conditional relationship
 
@@ -162,6 +162,7 @@ A summative score at the end of a course, retention months later, transfer to a 
 - [The Key Stage 3 ICT assessment has more potential than CWRA and PISA to measure the full range of 21st century capabilities](../claims/key-stage-3-assessment-potential-advantage.md) [~W]
 - [Logistic regression can identify the ELP score at which students have a probability of 0.5 of being proficient on the academic content assessment, as a candidate English-proficient standard](../claims/logistic-regression-half-probability-criterion.md) [~W]
 - [Graduate attributes ('wicked competences') may not be amenable to conventional assessment because they are context-dependent, partly specifiable and developed over years](../claims/wicked-competences-resist-conventional-assessment.md) [-W]
+- [Contextual factors (learner level, discipline, format) moderate Angoff outcomes](../claims/angoff-contextual-moderators.md) [~W]
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md)

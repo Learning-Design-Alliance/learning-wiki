@@ -27,7 +27,7 @@ sources:
 # Standardized Test Fairness and Bias
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 58 claims (15 for, 38 mixed, 5 against) · 38 studies (11 associational, 10 causal, 8 review, 4 design, 3 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 4 of 38 report an effect size · 57 claims rest on one study
+> **Evidence** · 59 claims (16 for, 38 mixed, 5 against) · 39 studies (11 associational, 10 causal, 9 review, 4 design, 3 theoretical, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 4 of 39 report an effect size · 58 claims rest on one study
 
 ## Conditional relationship
 
@@ -146,6 +146,7 @@ Claims found while rewriting, used in the default design or the situation table 
 - [On a task stereotypically associated with women's strengths (empathy reading comprehension), women perform better when addressed in the masculine](../claims/masculine-address-helps-women-on-female-stereotyped-task.md) [+W] — attached 2026-10-27 from Tamar Kricheli-Katz et al. (2021), which proposed "Grant test takers the choice of being addressed in the feminine or the masculine in exams"; tests this page's relationship.
 - [The proximal-content advantage on AAT questions is more pronounced for low-achieving examinees](../claims/proximity-advantage-low-achievers-corpus.md) [+W] — attached 2026-10-27 from Britt Hadar et al. (2023), which proposed "Test developers should pre-test question materials so content is not psychologically closer to some examinees than to others"; tests this page's relationship.
 - [In a high-stakes field exam, proximity improved performance of low-achieving examinees only on questions containing irrelevant details](../claims/proximity-helps-low-achievers-irrelevant-details-field.md) [+W] — attached 2026-10-27 from Britt Hadar et al. (2023), which proposed "Test developers should pre-test question materials so content is not psychologically closer to some examinees than to others"; tests this page's relationship.
+- [National demographic data show significant differential attainment on prescribing-related assessments by age, sex and ethnicity](../claims/differential-attainment-national-prescribing-assessments.md) [+W] — attached 2026-10-31 from McLachlan JC et al. (2025), which proposed "Routinely collect demographic data in prescribing competence assessments to enable subgroup analysis".
 
 ## Objective and learner-valued goal
 

@@ -49,3 +49,4 @@ Small pilot study in Spring 2024 using web-based chat interfaces with eight sour
 - [LLMs are substantially less accurate at extracting and categorizing derived data based on predefined categories than at extracting explicitly stated data](llms-less-accurate-derived-categorical-data-extraction.md) — related
 - [LLMs show moderate agreement with human coders when extracting explicitly stated data from education studies](llms-moderate-agreement-explicit-data-extraction-education.md) — related
 - [LLMs are not ready to be used as primary data extraction tools without explicit human validation in education research synthesis](llms-not-ready-primary-data-extraction-without-human-validation.md) — related
+- [AI tools accelerate orthopaedic research through literature review, data extraction and evidence synthesis](ai-accelerates-ortho-research-workflows.md) — related

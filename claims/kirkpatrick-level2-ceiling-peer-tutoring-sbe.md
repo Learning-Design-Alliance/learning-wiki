@@ -51,3 +51,7 @@ Review analysis of intervention outcomes by Kirkpatrick level across the include
 - [No included comparative study assessed patient-based clinical outcomes, patient acceptability of care, or staff resource time](no-patient-outcomes-assessed.md) — related
 - [Limited evidence suggests PBL participants implement practice changes, but behavior-change data are sparse and mostly non-significant](pbl-behavior-change-limited-evidence-pgme.md) — related
 - [Evidence on transfer to clinical behavior and patient outcomes is scarce: only 2 studies reached Kirkpatrick level 3 and 1 reached level 4](transfer-and-patient-outcomes-scarce.md) — related
+- [Most direct ophthalmoscopy simulation studies achieve only Kirkpatrick Level 1 or 2 outcomes](most-do-simulation-studies-kirkpatrick-level-1-2.md) — related
+- [No included SDL studies measured Kirkpatrick Level 4 (patient/system) outcomes](sdl-no-kirkpatrick-level-4-outcomes.md) — related
+- [Self-assessed abilities are uncorrelated with actual performance measures, and Kirkpatrick level 1 is generally not recommended](self-assessment-uncorrelated-with-performance.md) — related
+- [Included wound care educational interventions showed positive effects on students' wound care knowledge and clinical skills, mainly via self-assessment](wound-care-interventions-improve-knowledge-skills-self-assessed.md) — related

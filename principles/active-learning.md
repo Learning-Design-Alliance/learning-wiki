@@ -63,7 +63,7 @@ sources:
 # Active Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 43 claims (20 for, 22 mixed, 1 against) · 42 studies (11 causal, 8 quant-synthesis, 8 associational, 6 review, 5 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 6 of 42 report an effect size · 35 claims rest on one study
+> **Evidence** · 44 claims (21 for, 22 mixed, 1 against) · 43 studies (11 causal, 8 quant-synthesis, 8 associational, 7 review, 5 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 6 of 43 report an effect size · 36 claims rest on one study
 
 ## Conditional relationship
 
@@ -174,6 +174,7 @@ Every claim this page cites is in the model above or under Further evidence (re-
 - [The authors conclude that students in Just-in-Time Teaching courses better understand Newton's Third Law after instruction than students in traditional lecture courses](../claims/jitt-better-newtons-third-law-understanding.md) [+W]
 - [Simulation games are more effective when they actively rather than passively convey course material](../claims/simulation-games-effective-when-instruction-active.md) [+W]
 - [About two-thirds of Freeman et al. (2014) articles reported results favoring only the active learning group, but most comparisons were active learning versus lecture with weak internal validity controls](../claims/active-learning-results-favor-experimental-group.md) [~M]
+- [TBL in medical ethics education improves knowledge retention compared to lectures](../claims/tbl-improves-ethics-knowledge-retention.md) [+W]
 
 ## Related Principles
 - [Guided Practice](guided-practice.md)

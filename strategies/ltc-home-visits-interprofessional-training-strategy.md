@@ -45,6 +45,7 @@ Based on the reviewed evidence, the review highlights concrete instructional str
 ## Related Strategies
 
 - [Integrate experiential learning activities — community outreach projects, collaborative policy simulations, and applied research opportunities — into dental hygiene curricula](dh-experiential-learning-policy-research-advocacy.md)
+- [Integrate structured, evidence-based wound care education—including hands-on and interprofessional components—into undergraduate medical curricula](structured-wound-care-education-medical-curricula.md)
 
 ## Examples
 -

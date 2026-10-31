@@ -75,3 +75,4 @@ Same qualitative dataset; the discussion also notes ChatGPT's wrong string name 
 - [AI in adult education risks reinforcing existing inequalities via the digital divide, particularly for rural, low-income, and marginalized learners](ai-digital-divide-reinforces-inequality.md) — related
 - [Learner-level challenges of ChatGPT in STEAM IBL include over-reliance, inaccurate or irrelevant feedback, conceptual confusion, and diminished creativity](chatgpt-steam-ibl-learner-challenges.md) — related
 - [A great diversity of technologies, including AI techniques, software solutions and distributed technologies, is used to develop ITS authoring tools](diverse-technologies-develop-its-authoring-tools.md) — related
+- [Students report that feedback in DPBL is occasionally lacking despite general contentment with tasks](dpbl-feedback-occasionally-lacking.md) — related

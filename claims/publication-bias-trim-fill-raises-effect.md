@@ -57,3 +57,4 @@ Publication bias analyses (funnel plot, Egger's regression, trim-and-fill) withi
 - [Trim-and-fill analyses suggest publication bias affected three of the four meta-analyses, indicating true mean effects may be lower than originally reported.](tier2-k3-publication-bias-lower-true-effects.md) — related
 - Funnel-plot asymmetry in the TBL meta-analyses is not supported by formal tests of publication bias — reports the opposite
 - Funnel plot and Egger's test show no statistical evidence of publication bias for the composite household-disadvantage selection effect — related
+- [No evidence of publication bias in the SDL meta-analysis](sdl-meta-analysis-no-publication-bias.md) — related

@@ -49,3 +49,4 @@ The author reports, from ibstpi standards work that surveys practitioners about 
 - [ID/ET professionals report that cross-disciplinary skills and dispositions are crucial and under-emphasized in existing competency lists](cross-disciplinary-skills-dispositions-underemphasized.md) — a broader claim this one bears on
 - [Interpersonal skills, including communication, active listening, and gaining buy-in, are heavily emphasized by ID/ET professionals](interpersonal-skills-emphasized-by-id-et-professionals.md) — related
 - [Stakeholders worry administrative and managerial skills have been de-emphasized despite instructional leadership being a clear focus](managerial-skills-deemphasized-worry.md) — related
+- [Competencies in overarching domains (communication, professionalism) were more consistent across disciplines than clinical domains](cross-discipline-competency-convergence-communication-professionalism.md) — related

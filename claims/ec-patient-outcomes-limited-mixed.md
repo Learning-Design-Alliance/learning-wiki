@@ -71,3 +71,5 @@ Narrative synthesis reporting the mixed obstetric findings and, separately, that
 - [Emotional competence enhances diagnostic and therapeutic clinical reasoning most clearly in life-threatening emergency situations](ec-enhances-cr-in-life-threatening-emergencies.md) — related
 - [Emotion regulation may reduce inappropriate prescriptions, while empathy shows no significant correlation with prescription volume or quality](emotion-regulation-prescribing-quality.md) — related
 - [The review attributes to Japanese survey evidence that family physicians with stronger communication abilities are perceived as more effective and achieve higher patient satisfaction](communication-ability-perceived-effectiveness-japan.md) — related
+- [Clinicians' emotional responses to patients impacted patient engagement and diagnostic decisions, with negative emotions associated with poorer quality care and positive emotions with more comprehensive care](clinician-emotions-shape-patient-engagement-and-care-quality.md) — related
+- [Early clinical exposure is associated with higher empathy scores regardless of gender and academic year](ece-higher-empathy-scores.md) — related

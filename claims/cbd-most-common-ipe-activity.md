@@ -48,3 +48,4 @@ Synthesis of learning activities across the 41 included studies in this scoping 
 - [Six teaching strategies are used in IPE, with participating in a collaborative activity the most frequently reported](six-ipe-teaching-strategies.md) — related
 - [Faculty reluctance and limited expertise are common challenges in implementing IPE, which can harm interprofessional relationships if poorly planned](faculty-reluctance-ipe-challenge.md) — related
 - [Low facilitator-to-student ratios (roughly 1:6 to 1:16) are preferred in CBD- and simulation-based IPE and were associated with more interaction and feedback opportunities](low-facilitator-ratios-ipe.md) — related
+- [Experiential learning is the most frequently cited learning theory guiding faculty development initiatives in IPE](experiential-learning-most-cited-ipe-faculty-development.md) — related

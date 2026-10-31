@@ -67,3 +67,4 @@ Conclusion drawn from the study's consultations and implementation case study; t
 - [Teachers customizing online approaches may reduce lack of interaction in large classes and isolation in distance education](customized-online-learning-reduces-interaction-deficits.md) — related
 - [Access boundaries of learning communities can be physical or virtual, with the required amount and nature of presence still undefined](access-boundary-physical-or-virtual.md) — related
 - [Virtual environments favor clinical reasoning, self-regulation and peer collaboration, while physical environments engage critical reasoning, professionalism and communication abilities](virtual-physical-environments-different-competencies.md) — related
+- [Students report mixed social perceptions of DPBL, with some feeling isolated and others valuing the focused learning environment](dpbl-mixed-social-perceptions-isolation-focus.md) — related

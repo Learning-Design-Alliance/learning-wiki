@@ -54,6 +54,7 @@ Drawing on the converging gaps across the reviewed literature, the review recomm
 - [Prioritize longer-term longitudinal studies and analysis of learners' virtual-world behaviors for SLA research](longitudinal-virtual-world-sla-research-agenda.md)
 - [Direct future pedagogical agent research toward assessment, reflective practice, administration, personalisation and media richness](future-research-assessment-reflective-personalisation.md)
 - [Address theoretical grounding, longitudinal study designs, and standardized design protocols before broad implementation of GenAI virtual patients](genai-vp-theory-longitudinal-protocol-strategy.md)
+- [Employ experimental and longitudinal designs with standardised measurement tools in future pressure injury prevention research.](experimental-longitudinal-pi-research-designs.md)
 
 ## Examples
 -

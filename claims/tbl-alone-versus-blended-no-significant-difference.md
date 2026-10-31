@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-31
 sources:
   - id: fu-jie-2026
     resource: "https://doi.org/10.1186/s12909-026-09468-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Both TBL-alone and blended-TBL subgroups significantly outperformed LBL, and no significant difference was detected between the subgroups. [→ Fu Jie 2026](#fu-jie-2026)
@@ -51,3 +52,4 @@ Subgroup analysis of theoretical knowledge scores by intervention method (TBL al
 - [TBL is associated with higher theoretical knowledge scores than LBL in Chinese neurology education (SMD = 1.16)](tbl-higher-theoretical-knowledge-scores-neurology-china.md) — related
 - [TBL is associated with improved self-study ability, communication skills, and teamwork ability versus LBL](tbl-improves-self-study-communication-teamwork.md) — related
 - [TBL effects on theoretical knowledge and practical skills are larger in interventions lasting more than 4 weeks](tbl-effect-larger-interventions-over-four-weeks.md) — related
+- [PBL and TBL significantly improve nursing students' self-directed learning](pbl-tbl-self-directed-learning-subgroups.md) — related

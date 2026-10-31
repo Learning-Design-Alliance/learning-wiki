@@ -51,3 +51,4 @@ Aggregation of the 31 studies' effect sizes by outcome category (Performance, Be
 - [The overall effect size for token reinforcement interventions in middle schools is large (g ≈ 1.04) but not statistically significant](token-reinforcement-overall-effect-not-significant.md) — related
 - [61.29% of studies showed positive effects of token reinforcement, but only 6.45% had sample sizes sufficient for generalizable large effects](token-reinforcement-positive-studies-sample-size-limits.md) — related
 - Reporting and publication bias pervade the token reinforcement literature: 38.71% of studies reported large significant effects while 29.03% lacked statistical significance — related
+- [SDL effects are stronger for knowledge/test outcomes than for clinical performance or behavioral outcomes](sdl-stronger-knowledge-than-clinical-performance.md) — related

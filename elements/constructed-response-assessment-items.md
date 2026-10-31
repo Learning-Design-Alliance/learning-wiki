@@ -13,7 +13,7 @@ generated:
 # Constructed-Response Assessment Items
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 83 claims (26 for, 55 mixed, 2 against) · 61 studies (22 design, 15 associational, 10 causal, 9 review, 2 quant-synthesis, 2 theoretical, 1 qualitative), `q1`–`q4` · 9 of 61 report an effect size · 83 claims rest on one study
+> **Evidence** · 84 claims (26 for, 56 mixed, 2 against) · 62 studies (22 design, 15 associational, 10 causal, 10 review, 2 quant-synthesis, 2 theoretical, 1 qualitative), `q1`–`q4` · 9 of 62 report an effect size · 84 claims rest on one study
 
 ## Description
 Constructed-response items ask students to recall information and produce their own answer rather than recognize a provided one, which reduces guessing compared with [selected-response items](selected-response-assessment-items.md). Two major kinds are used: **completion/short-answer** items (answerable in a word, phrase, number, or symbol — the same underlying format whether phrased as a statement to complete or a question to answer) and **extended-response** items (answers ranging from a paragraph to several pages, often called essay questions when they run long).
@@ -127,6 +127,7 @@ The central disadvantage of extended-response items is unreliable scoring: diffe
 - [No correlation between evenness of response score distribution and ML model performance](../claims/no-correlation-evenness-ml-performance.md) [~W]
 - [An automated scoring engine matched experienced human markers yet was rejected over the confidentiality-explainability conflict](../claims/crase-scoring-equivalent-to-human-markers-rejected.md) [~W]
 - [Expert graders show high agreement among themselves when scoring a written exam on first degree equations](../claims/expert-inter-rater-agreement-high-written-exam.md) [+W]
+- [LLM-generated essay scores correlated moderately to strongly with expert human assessor scores](../claims/llm-essay-scoring-correlates-with-experts.md) [~W]
 
 ## The evidence by question
 - *Which practice format: short answer, multiple choice, or matching the final test?* [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](../claims/short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) [~M]

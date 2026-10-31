@@ -48,3 +48,6 @@ The review reports from Yousef et al.'s retrospective studies of Saudi dental MC
 - [The Angoff method produced lower cut-off scores and higher pass rates than Cohen and Hofstee methods in dental written assessments, especially in early and middle years](angoff-lower-cutoffs-higher-pass-rates.md) — related
 - [Percentage rating format in the Modified Angoff method yields higher reliability than the Yes/No format, with ICCs of 0.48–0.65 versus a maximum of 0.41](percentage-format-more-reliable-than-yes-no-angoff.md) — related
 - [The Borderline Regression method produced higher OSCE pass rates than Angoff methods (97.5% vs 86.6%) and discrepancies raise concerns for small cohorts](borderline-regression-higher-pass-rates-than-angoff-osce.md) — related
+- [Contextual factors (learner level, discipline, format) moderate Angoff outcomes](angoff-contextual-moderators.md) — related
+- [Angoff methods produce significantly higher pass rates than conventional fixed standard-setting methods](angoff-higher-pass-rates-than-fixed.md) — related
+- [Mastery Angoff produces the highest cut scores and lowest pass rates among Angoff variants](mastery-angoff-highest-cut-scores.md) — related

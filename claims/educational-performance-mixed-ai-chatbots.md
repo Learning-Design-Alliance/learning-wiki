@@ -56,3 +56,5 @@ Narrative synthesis of educational-performance studies: nursing students with an
 - [Evidence for sustained or clinically meaningful outcomes of AI chatbot coaching is mixed and does not guarantee improvement across outcomes](sustained-clinical-outcomes-mixed-ai-coaching.md) — related
 - [AI-powered simulations show short-term gains in communication confidence and structured knowledge in RCTs, with limited or inferior effects for tactile psychomotor skills](ai-simulation-short-term-gains-nursing.md) — a narrower finding that bears on this claim
 - [GenAI/LLM modalities provide the strongest evidence for cognitive and communication outcomes, while chatbots show weak independent effects](genai-llm-strongest-evidence-cognitive-communication.md) — related
+- [LLM use as an educational resource showed mixed effects on student learning outcomes compared with conventional methods](llm-educational-resource-mixed-learning-effects.md) — a narrower finding that bears on this claim
+- [Evidence on PBL performance in evaluation tests is mixed, with some studies showing PBL inferior](pbl-evaluation-test-performance-mixed.md) — a narrower finding that bears on this claim

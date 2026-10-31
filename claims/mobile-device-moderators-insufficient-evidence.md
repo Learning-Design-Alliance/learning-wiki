@@ -68,3 +68,4 @@ The review's own moderator analysis plan (age, gender, screen size, dosage, SAMR
 - [No instruction characteristic (dosage, program availability, literacy domain) significantly moderated effects, though phonics and spelling instruction approached significance descriptively favoring treatments that included them](no-instruction-moderators-phonics-spelling-marginal.md) — related
 - Under-reported participant characteristics and implementation factors, plus effect-size metric limitations, explain the scarcity of significant moderator differences — related
 - [Intervention dosage (duration, frequency, intensity) shows no consistent association with app effect sizes](app-dosage-no-consistent-association.md) — related
+- [Knowledge gains from e‐learning are not significantly moderated by study design, student level, delivery synchronicity, intervention duration, or repeat testing](elearning-ent-knowledge-moderators-null.md) — related

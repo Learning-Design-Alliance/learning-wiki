@@ -13,7 +13,7 @@ generated:
 # Physical Well-Being
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 102 claims (71 show a difference, 22 mixed, 9 no difference) · 51 studies (19 causal, 13 review, 11 associational, 4 quant-synthesis, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 9 of 51 report an effect size · 98 claims rest on one study
+> **Evidence** · 107 claims (74 show a difference, 22 mixed, 11 no difference) · 52 studies (19 causal, 13 review, 11 associational, 5 quant-synthesis, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 10 of 52 report an effect size · 103 claims rest on one study
 
 ## Description
 Physical well-being covers a learner's overall physical health: nutrition, regular physical activity and fitness, and good sleep. The LVN's case for it is that the benefits reach beyond the body: learners in good health benefit in cognitive skills, focus and mood, which can support academic performance, and in the early years it frames the same idea as physical fitness, with regular exercise strengthening cognitive skills. Exercise is described as particularly helpful for learners with ADHD. Physical activity tends to fall during adolescence, and for adults, education can itself improve health as health literacy grows and learners become better able to advocate for their needs. Body mass index is the one measure the LVN lists. It overlaps with [sleep](sleep.md), which is one of its components, and with [attention](attention.md) and [executive function](executive-function.md), which are among the outcomes exercise is linked to.
@@ -139,6 +139,11 @@ Physical well-being covers a learner's overall physical health: nutrition, regul
 - [Intestinal parasitic infection is associated with poorer academic performance (pooled effect size 0.570)](../claims/intestinal-parasitic-infection-academic-performance-ethiopia.md) [+M] — learners who differ on it differ in outcomes
 - [Nutrition and WASH exposures show a pooled positive association with academic performance among Ethiopian schoolchildren (pooled effect size 2.05) with very high heterogeneity](../claims/pooled-nutrition-wash-academic-performance-ethiopia-2-05.md) [+M] — learners who differ on it differ in outcomes
 - [Underweight children are less likely to achieve high academic scores (pooled effect size 0.605)](../claims/underweight-lower-academic-scores-ethiopia.md) [+M] — learners who differ on it differ in outcomes
+- [High-intensity physical activity shows a positive effect on mathematics achievement (SMD = 0.41)](../claims/high-intensity-activity-improves-mathematics-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [School-based physical activity programs significantly improve mathematics achievement in children and adolescents (SMD = 0.11)](../claims/school-based-physical-activity-improves-mathematics-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [School-based physical activity shows no significant effect on language expression achievement](../claims/school-based-physical-activity-no-effect-language-expression.md) [-M] — learners who differ on it differ in outcomes
+- [School-based physical activity shows no significant effect on reading comprehension achievement](../claims/school-based-physical-activity-no-effect-reading-comprehension.md) [-M] — learners who differ on it differ in outcomes
+- [School-based physical activity significantly improves overall academic achievement (SMD = 0.22)](../claims/school-based-physical-activity-improves-overall-academic-achievement.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Body Mass Index (BMI)**: a measure of body fat calculated from height and weight.

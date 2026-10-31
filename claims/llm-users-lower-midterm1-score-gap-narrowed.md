@@ -74,3 +74,4 @@ Follow-up comparison across the three midterms in the same course dataset. The g
 - [Flagged Spring 2026 students scored lower on all three exams than non-flagged peers, with performance declining as flagged assignments increased](flagged-students-lower-exam-scores-dose-response.md) — related
 - [High-frequency LLM users show higher minimum course outcomes and reduced score variability, though interaction level is not a dominant outcome predictor](high-usage-lower-variance-higher-minimum.md) — related
 - [Across three physics assessments, students who declared GenAI use scored slightly higher than non-users, but none of the differences were statistically significant](genai-users-slightly-higher-scores-not-significant-physics.md) — reports the opposite
+- [LLM use as an educational resource showed mixed effects on student learning outcomes compared with conventional methods](llm-educational-resource-mixed-learning-effects.md) — related

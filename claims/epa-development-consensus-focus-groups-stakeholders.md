@@ -49,3 +49,5 @@ Frequency analysis of EPA development methodologies across the included studies 
 - EPA studies concentrate on implementation, with development and assessment secondary — related
 - [Workplace observation by faculty is the dominant EPA implementation and assessment method, and logistical difficulties and faculty development issues are leading implementation barriers](epa-implementation-workplace-observation-logistical-barriers.md) — related
 - Most EPA research focuses on early phases of development and implementation, with few randomised controlled trials — related
+- [EPA development and review processes require key stakeholder engagement in nutrition and dietetics education.](epa-development-requires-key-stakeholder-engagement.md) — related
+- [Iterative revision of EPAs based on feedback was undertaken in two included studies.](iterative-revision-of-epas-from-feedback.md) — related

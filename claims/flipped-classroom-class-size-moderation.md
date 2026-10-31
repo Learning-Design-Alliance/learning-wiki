@@ -54,3 +54,4 @@ Moderator analysis of class size (Table 4) across the included studies. The arti
 - [In a low-certainty meta-analysis of 44 studies with very high heterogeneity (I² = 98%), undergraduate health professional students in flipped classes score higher than those in traditional classes (SMD = 0.57)](flipped-classroom-improves-academic-performance-hpe.md) — related
 - [Flipped classroom has a moderately positive effect on college students' academic performance (SMD = 0.66)](flipped-classroom-moderate-positive-effect-college.md) — related
 - [Stratified teaching has a larger effect in medium-size classes (SMD = 0.64) than in large classes (SMD = 0.44)](stratified-teaching-medium-class-size-larger-effect.md) — related
+- [SEM effectiveness is greatest in small class sizes and non-significant in large classes](sem-class-size-moderator.md) — related

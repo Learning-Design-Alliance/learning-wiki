@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 145 claims (69 for, 60 mixed, 16 against) · 75 studies (22 review, 17 causal, 13 quant-synthesis, 9 qualitative, 9 design, 4 theoretical, 1 associational), `q1`–`q4` · 17 of 75 report an effect size · 140 claims rest on one study
+> **Evidence** · 148 claims (72 for, 60 mixed, 16 against) · 77 studies (24 review, 17 causal, 13 quant-synthesis, 9 qualitative, 9 design, 4 theoretical, 1 associational), `q1`–`q4` · 17 of 77 report an effect size · 143 claims rest on one study
 
 ## Description and scope
 
@@ -174,6 +174,9 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 - [Included studies used a varied range of simulation modalities, from Deaf standardized patients to VR with manipulated audio and 360 video](../claims/varied-simulation-modalities-deaf-patient-education.md) [+W]
 - [Competency-based progression simulation combined with e-learning yields higher communication competence than e-learning alone or standard simulation](../claims/competency-based-progression-simulation-communication.md) [~W]
 - [A social robotic LLM-enhanced virtual patient was rated higher than a conventional computer-based platform for authenticity and learning effect](../claims/robotic-vp-higher-authenticity-than-computer-platform.md) [~W]
+- [High-fidelity simulation particularly enhances core clinical competencies such as CPR, infection control, and diagnostic reasoning](../claims/high-fidelity-simulation-enhances-core-competencies.md) [+W]
+- [VR-based nurse-physician communication team training is non-inferior to live simulation for communication performance and improves interprofessional attitudes](../claims/vr-noninferior-live-simulation-team-communication.md) [+W]
+- [VR simulation shows signals of benefit for communication training in undergraduate nursing students, especially for self-reported knowledge, self-efficacy, attitudes and confidence](../claims/vr-communication-training-nursing-benefit-signals.md) [+W]
 
 ## Examples
 

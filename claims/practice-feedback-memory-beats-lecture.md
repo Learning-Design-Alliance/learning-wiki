@@ -54,3 +54,4 @@ Study 1, a three-cell randomized online experiment (N = 297) comparing lecture, 
 - [Generalization from practice requires explanatory feedback and sufficient prior knowledge or confidence, with benefits concentrated among better-prepared learners](generalization-needs-explanatory-feedback-and-prior-knowledge.md) — related
 - [Teacher-created video mistake messages were not harmful but produced no significant learning differences compared with answer-only feedback (n = 649)](teacher-video-mistake-messages-null.md) — related
 - [Explanatory feedback has a greater benefit for students than corrective feedback in digital environments](explanatory-feedback-beats-corrective-digital.md) — related
+- [Receiving knowledge passively hampers the development of relational competence](receiving-knowledge-passively-hampers-relational-competence.md) — a narrower finding that bears on this claim

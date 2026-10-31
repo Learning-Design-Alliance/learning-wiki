@@ -48,3 +48,6 @@ Subgroup analysis by question source reported in the Discussion as a check on po
 ## Related Claims
 - [Large language models achieve a pooled accuracy of 72% on medical licensing examination questions across 36 studies](llm-pooled-accuracy-72-medical-licensing-exams.md) — related
 - [Subgroup analyses show significant between-model differences, with Copilot (75.25%) and ChatGPT-4 (72.97%) achieving the highest pooled accuracies](llm-subgroup-copilot-chatgpt4-highest-accuracy.md) — related
+- [ChatGPT-4.0 outperforms ChatGPT-3.5 in medical licensing exams, achieving a pooled accuracy of 81.8% versus 60.8%](chatgpt-4-pooled-accuracy-818-percent-licensing-exams.md) — related
+- [In in-training residency exams, ChatGPT-4.0 achieved 72.2% accuracy compared to 57.7% for ChatGPT-3.5](chatgpt-4-residency-exam-accuracy-722-percent.md) — related
+- [ChatGPT accuracy varies substantially across countries and specialties, from 73% on Italian to 22% on French examinations](chatgpt-accuracy-varies-across-countries-and-specialties.md) — related

@@ -45,7 +45,8 @@ The article defines systematic reviews as a distinct genre of research synthesis
 - [The response summarizes the key findings of the Philipsen et al. (2019) meta-aggregative review](../claims/an-2021-summarizes-key-findings-pd-review.md) [+W]
 
 ## Related Research Methods
--
+
+- [Systematic literature mapping (SLM)](systematic-literature-mapping-slm.md)
 
 ## Key Sources
 - Jill Constantine. (2013). Systematic Reviews as a Tool in Evidence-Based Decision Making: Improving Research and Informing Practice. Jacobs Foundation. https://www.jacobsfoundation.de/en/

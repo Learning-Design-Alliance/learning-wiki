@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 231 claims (104 for, 110 mixed, 17 against) · 173 studies (67 causal, 34 review, 22 quant-synthesis, 17 associational, 13 design, 10 qualitative, 10 theoretical), `q1`–`q4` · 42 of 173 report an effect size · 207 claims rest on one study
+> **Evidence** · 234 claims (106 for, 111 mixed, 17 against) · 175 studies (67 causal, 35 review, 23 quant-synthesis, 17 associational, 13 design, 10 qualitative, 10 theoretical), `q1`–`q4` · 43 of 175 report an effect size · 210 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -279,6 +279,9 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [A prior meta-analysis cited in the review found feedback interventions worsened performance in 50 of 131 well-designed studies](../claims/kluger-denis-feedback-worse-50-of-131.md) [-M]
 - [Feedback is found to result in gains in writing development across kinds of feedback](../claims/feedback-results-in-writing-development-gains.md) [+W]
 - [Low facilitator-to-student ratios (roughly 1:6 to 1:16) are preferred in CBD- and simulation-based IPE and were associated with more interaction and feedback opportunities](../claims/low-facilitator-ratios-ipe.md) [~W]
+- [Near-peer feedback improved clinical note scores compared to no feedback in one included study](../claims/near-peer-feedback-improves-clinical-note-scores.md) [+W]
+- [All feedback, whether human or device-based, improves performance in cardiac arrest simulation education](../claims/all-feedback-improves-cardiac-arrest-simulation-performance.md) [+W]
+- [Objective, device-based feedback is preferred in cardiac arrest simulation education](../claims/device-based-feedback-preferred.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

@@ -42,6 +42,7 @@ The review recommends that future AR enhanced analytics research adopt standardi
 
 - [Adopt unified KPIs and rigorously assess learner diversity, recommender fairness, and long-term engagement when evaluating ITS](unified-kpis-longitudinal-its-evaluation.md)
 - [Report complete statistical data and use standardized success tests to enable future meta-analysis](standardized-tests-and-complete-statistics-recommendation.md)
+- [Use a uniform XR taxonomy to support device selection and evidence comparison in dental education](uniform-xr-taxonomy-device-selection.md)
 
 ## Examples
 -

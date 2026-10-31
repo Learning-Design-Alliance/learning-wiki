@@ -49,6 +49,7 @@ The review recommends that competence assessment of Mental Health Nurses combine
 ## Related Strategies
 
 - [Implement AI simulations as complements within a stepped simulation continuum, with layered interaction modes and blended feedback](stepped-ai-simulation-integration-strategies.md)
+- [Use multiple assessment methods to comprehensively evaluate a healthcare provider's competence in all aspects of dysphagia management.](multiple-assessment-methods-dysphagia-competence.md)
 
 ## Examples
 -

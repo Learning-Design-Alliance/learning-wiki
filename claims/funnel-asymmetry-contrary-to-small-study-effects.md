@@ -64,3 +64,5 @@ Publication-bias analyses using multilevel Egger's regression and power-enhanced
 - Egger's regression found no statistically significant evidence of publication bias among the 28 collected studies — related
 - [Funnel-plot asymmetry suggests small studies with negative or null results may be missing from the simulation-versus-clinical meta-analysis](funnel-plot-missing-negative-studies.md) — related
 - Funnel plot and Egger's test show no statistical evidence of publication bias for the composite household-disadvantage selection effect — related
+- [No evidence of publication bias in the SDL meta-analysis](sdl-meta-analysis-no-publication-bias.md) — related
+- [Publication bias is present for theoretical knowledge outcomes but not for clinical practice performance in SP+CBL meta-analysis.](sp-cbl-publication-bias-asymmetric.md) — related

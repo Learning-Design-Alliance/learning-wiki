@@ -53,6 +53,7 @@ The review's future-directions recommendations call for comparative and better-p
 - [Future psychiatry education technology studies should use active comparators, standardized assessment tools, and long-term follow-up](psychiatry-ed-tech-future-research-strategy.md)
 - [Require rigorous evaluation studies of recovery schools before widespread implementation](rigorous-evaluation-before-recovery-school-adoption.md)
 - [Prioritize larger randomized trials in pedagogical research and more representative evaluations across Africa](larger-rcts-pedagogical-research-recommendation.md)
+- [Future active-learning research should use randomised controlled designs with larger samples and standardised outcome measures](rigorous-rct-design-future-active-learning-research.md)
 
 ## Examples
 -

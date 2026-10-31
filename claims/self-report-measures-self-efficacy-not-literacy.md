@@ -51,3 +51,4 @@ A conceptual argument in the literature-review section, not a tested result. The
 - [Questionnaire data may capture learners' perceptions rather than the strategies they actually performed](questionnaires-measure-perception-not-performed-strategies.md) — possibly the same claim (merge candidate)
 - [Findings are limited by perception-based self-report measures and a single online context, requiring further research on generalizability](als-employability-study-limitations-perception-single-context.md) — related
 - [Integrating examination-based and non-examination-based assessments is the most effective strategy for identifying weaknesses in clinical reasoning skills](combined-assessment-approach-clinical-reasoning-identification.md) — related
+- [The Assessment of Clinical Skills/Competence/Performance framework indicates four domains of competence: knowledge, competence, performance, and action.](four-domains-knowledge-competence-performance-action.md) — related

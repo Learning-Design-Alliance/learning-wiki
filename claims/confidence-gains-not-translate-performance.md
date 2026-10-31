@@ -51,3 +51,4 @@ The review's synthesis of multiple short-term pre-post intervention studies in w
 - [Multi-stakeholder school interventions yielded broader and more durable outcomes than school-only models, though the pattern was not universal](multi-stakeholder-school-interventions-durable-outcomes.md) — a broader claim this one bears on
 - [Empathy and communication interventions show short-term gains but evidence on persistence over time is inconsistent](soft-skills-intervention-gains-not-sustained.md) — related
 - [Technology-based interventions in psychiatry education mostly show positive short-term effects on knowledge, skills, confidence, and empathy, but evidence of sustained learning is inconsistent](psychiatry-ed-tech-short-term-gains.md) — related
+- [Sustained interventions with regular reinforcement show more substantial improvements than short-term CPD programs](sustained-cpd-reinforcement-superior-outcomes.md) — related

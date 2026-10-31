@@ -52,3 +52,5 @@ Narrative synthesis across the nine included RCTs assessing Kirkpatrick Level 2 
 - [VR module matched a textbook on anatomy knowledge at pre-, post- and retention testing while being rated more engaging and motivating (Stepan et al.)](stepan-vr-equal-knowledge-higher-motivation.md) — a narrower finding that bears on this claim
 - [An AR application produced smaller test-score gains than cross-section study and higher extraneous cognitive load (Henssen et al.)](henssen-ar-lower-gains-higher-extraneous-load.md) — a narrower finding that bears on this claim
 - [Mind maps and concept maps significantly enhance knowledge retention, recall, and assessment performance in four of six RCTs among preclinical medical students](mind-concept-maps-improve-preclinical-performance-four-of-six-rcts.md) — related
+- [Self-assessed abilities are uncorrelated with actual performance measures, and Kirkpatrick level 1 is generally not recommended](self-assessment-uncorrelated-with-performance.md) — related
+- [Greatest VDT performance gains were observed in musculoskeletal and neuroanatomy modules](vdt-greatest-gains-msk-neuroanatomy.md) — related

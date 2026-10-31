@@ -50,3 +50,4 @@ The commentary's audit of systematic reviews and meta-analyses in the topical co
 - [Cultural variations exist in emotion and other psychological topics of interest to AIED, so psychology research influencing AIED is likely WEIRD-imbalanced](cultural-variation-emotion-aied-topics.md) — a broader claim this one bears on
 - General chemistry assessment research is geographically concentrated in developed countries and published in a small set of high-quartile chemistry education journals — a narrower finding that bears on this claim
 - Paediatric SBE research is geographically concentrated in high- and upper-middle-income regions, with no studies from the Middle East/North Africa region in the specified timeframe — related
+- [The vast majority of academic global surgery programs are based in the Region of the Americas (North America), particularly in high-income countries](ags-programs-concentrated-in-north-america.md) — a narrower finding that bears on this claim

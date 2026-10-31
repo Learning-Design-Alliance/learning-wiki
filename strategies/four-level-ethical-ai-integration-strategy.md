@@ -78,6 +78,7 @@ The study's concluding recommendation is that ethical AI use in higher education
 - [Institutions should adopt clear, prominently displayed AI policies and cultivate AI literacy for ethical, employability-oriented use](clear-ai-policies-and-ai-literacy-strategy.md)
 - [Use the classification tool to shape AI-in-education guidelines, professional development, and teacher adaptation of ChatGPT activities](use-classification-tool-policy-pd.md)
 - [Institutional support package: professional development, technical support, engagement strategies, and assessment reform](institutional-support-technology-integration-strategy.md)
+- [Establish standardized, ethically sound guidelines and coordinated stakeholder efforts for integrating LLMs into dental education](llm-integration-guidelines-dental-education-strategy.md)
 
 ## Examples
 -

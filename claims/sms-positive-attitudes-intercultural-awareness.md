@@ -70,3 +70,4 @@ The review attributes to Li and Erben (2007) the report that instant messaging u
 - [Social-support strategies are the most generalised technology-based SRL strategies, with most students interacting via instant messaging and sharing material via the cloud](social-support-strategies-most-generalised-with-technology.md) — related
 - [Users successfully localized the hard-to-use mobile text messaging technology into their daily lives despite poor developer localization](users-localize-hard-to-use-text-messaging.md) — related
 - MALL research to 2015 concentrates on vocabulary learning, SMS delivery, and sophomore university learners — related
+- [WhatsApp-based mobile instant messaging projects enhanced communicative skills and vocabulary knowledge](whatsapp-projects-communicative-skills-vocabulary.md) — related

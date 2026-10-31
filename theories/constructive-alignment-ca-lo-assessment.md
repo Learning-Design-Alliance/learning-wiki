@@ -51,6 +51,7 @@ The article adopts Biggs's (1996) concept of constructive alignment, which "emph
 ## Examples
 
 - [CA Mapping Model linking course learning outcomes, assessment tasks and teaching-learning activities](../designs/sppa-ca-mapping-model.md)
+- [Educators should state the empathy definition to be adopted, specify which components to emphasise, and align curricular design and assessment metrics accordingly](../strategies/explicit-empathy-definition-alignment-strategy.md)
 
 ## Key Sources
 - Mónica Hernández-Campos, Isabel Hilliger and Francisco José García-Peñalvo. (2026). Assessing 21st Century Competencies: A Two-Case Study on Curriculum Analytics to Inform Continuous Improvement in Higher Education. Journal of Learning Analytics 13(1). https://doi.org/10.18608/jla.2026.9131

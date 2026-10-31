@@ -50,3 +50,5 @@ Student-type subgroup analysis of the meta-analysis, defining junior as second y
 - [ECE effects are significant in Europe and Asia but did not reach statistical significance in the Americas](ece-geographic-subgroup-effects.md) — related
 - [Early clinical exposure significantly improves dental students' overall competency compared with traditional teaching (SMD = 1.25), though evidence certainty is low](ece-improves-dental-student-competency-meta.md) — a broader claim this one bears on
 - [The positive effect of ECE holds in both randomised and nonrandomised study designs](ece-effect-both-rct-and-nrsi.md) — related
+- [Early clinical exposure is associated with higher empathy scores regardless of gender and academic year](ece-higher-empathy-scores.md) — related
+- [Problem-solving benefits of modern methods hold across durations, designs, sample sizes, and sophomore/senior grades, but not third-year students](problem-solving-benefits-robust-across-moderators.md) — related

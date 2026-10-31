@@ -35,7 +35,7 @@ sources:
 # Experiential Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 33 claims (24 for, 9 mixed) · 41 studies (12 causal, 8 quant-synthesis, 7 qualitative, 6 review, 4 theoretical, 2 associational, 2 design), `q1`–`q4` · 8 of 41 report an effect size · 27 claims rest on one study
+> **Evidence** · 36 claims (27 for, 9 mixed) · 42 studies (12 causal, 8 quant-synthesis, 7 review, 7 qualitative, 4 theoretical, 2 associational, 2 design), `q1`–`q4` · 8 of 42 report an effect size · 30 claims rest on one study
 
 ## Conditional relationship
 
@@ -138,6 +138,9 @@ Claims this page cited before the 2026-10-02 rewrite. They are evidence about th
 - [Perturbation Stimulates Philosophy Change](../claims/perturbation-stimulates-philosophy-change.md) [+W]
 - [Four Contexts Influential Preservice Philosophy](../claims/four-contexts-influential-preservice-philosophy.md) [+W]
 - [Adventure Programs Teach Empowerment Process](../claims/adventure-programs-teach-empowerment-process.md) [+W]
+- [Early clinical exposure improves the clinical skills of medical students compared with traditional teaching](../claims/ece-improves-clinical-skills.md) [+W] — attached 2026-10-31 from Shaban Eman E. et al. (2025), which proposed "Integrate early clinical exposure into the pre-clinical undergraduate medical curriculum".
+- [Most medical students report that early clinical exposure improves their communication skills](../claims/ece-improves-communication-skills-perceptions.md) [+W] — attached 2026-10-31 from Shaban Eman E. et al. (2025), which proposed "Integrate early clinical exposure into the pre-clinical undergraduate medical curriculum".
+- [Early clinical exposure increases medical knowledge test scores and motivates learning](../claims/ece-improves-knowledge-motivation.md) [+W] — attached 2026-10-31 from Shaban Eman E. et al. (2025), which proposed "Integrate early clinical exposure into the pre-clinical undergraduate medical curriculum".
 
 ## Objective and learner-valued goal
 

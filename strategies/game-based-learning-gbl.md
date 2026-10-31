@@ -68,6 +68,7 @@ Learning in games is driven by cycles of decision, feedback, and adjustment; wel
 - [Cooperative Learning](cooperative-learning.md) — multiplayer game structures often enact cooperative goals and individual accountability
 - [Activate learners' known material when designing online courses](activate-known-material-online-transition.md)
 - [Support transfer of implicit game-based CT knowledge into explicit, usable knowledge](support-implicit-to-explicit-ct-transfer.md)
+- [Incorporate game elements such as rewards, adaptive difficulty, immersive environments, and clear feedback into digital interventions for ADHD](game-elements-strategy-adhd-digital-interventions.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — the game loop is repeated, feedback-rich practice

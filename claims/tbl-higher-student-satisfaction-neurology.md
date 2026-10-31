@@ -50,3 +50,6 @@ Meta-analysis of student satisfaction from 10 studies, analyzed separately by da
 - [GAI-assisted teaching significantly increases student satisfaction with teaching compared with traditional teaching (SMD = 1.52; OR = 5.58)](gai-teaching-increases-student-satisfaction.md) — related
 - [Residents report higher satisfaction with narrative medicine education than lecture-based learning, but the effect is not robust to publication-bias adjustment](narrative-medicine-satisfaction-publication-bias.md) — related
 - [TBL is associated with improved self-study ability, communication skills, and teamwork ability versus LBL](tbl-improves-self-study-communication-teamwork.md) — related
+- [TBL in medical ethics education improves knowledge retention compared to lectures](tbl-improves-ethics-knowledge-retention.md) — related
+- [TBL increases student satisfaction and engagement in ethics education](tbl-increases-ethics-satisfaction-engagement.md) — related
+- [Team-based learning showed significantly higher performance than traditional learning in one included study](tbl-significantly-higher-performance-hossain.md) — related

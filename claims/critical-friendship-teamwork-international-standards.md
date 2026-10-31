@@ -49,3 +49,4 @@ Editorial summary of the international-perspective response by Dr. Altınay, Dr.
 - [Interacting repeatedly across convenings built trust that enabled districts to give and receive critiques of one another's plans](repeated-convenings-trust-enables-critique.md) — related
 - [Interpersonal skills, including communication, active listening, and gaining buy-in, are heavily emphasized by ID/ET professionals](interpersonal-skills-emphasized-by-id-et-professionals.md) — related
 - [Nussbaum and colleagues argue critical thinking and creativity, intersected with grit, are central 21st-century components in online learning design](critical-thinking-creativity-grit-online-design.md) — related
+- [Faculty development for interprofessional education emphasizes interprofessional collaborative and facilitation competencies, with communication and teamwork as the most highlighted domains](ipe-faculty-development-competencies-communication-teamwork.md) — related

@@ -50,6 +50,8 @@ The review's forward-looking recommendations for VS teaching design: future devi
 
 - [Virtual Reality Simulations](virtual-reality-simulations.md)
 - [Virtual Reality Immersive Training](virtual-reality-immersive-training.md)
+- [Virtual patient scenarios should encompass acute illnesses, emergencies, invasive procedures, and infectious diseases to broaden empathy development across diverse clinical settings](broaden-vp-scenarios-beyond-psychological-distress.md)
+- [Co-design VR communication scenarios with nurse educators and technology developers, incorporating authentic clinical cases and language resources](co-design-vr-scenarios-educators-developers.md)
 
 ## Examples
 -

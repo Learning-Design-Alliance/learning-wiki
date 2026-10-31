@@ -50,3 +50,4 @@ Study of 60 clinical students randomised across traditional instruction, hand-he
 - [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — related
 - [Interactive 3D stereoscopic video produced higher post-test scores on anatomical relationships and clinical reasoning than 2D video (Bernard et al.)](bernard-3d-stereoscopy-relationships-reasoning.md) — related
+- [Simulation training improves fundus identification rate and time compared with simulated-patient-only training in a randomised trial](wu-3d-printed-eye-model-improves-fundus-identification.md) — related

@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 64 claims (31 for, 32 mixed, 1 against) · 50 studies (16 causal, 14 quant-synthesis, 11 review, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 18 of 50 report an effect size · 56 claims rest on one study
+> **Evidence** · 65 claims (31 for, 33 mixed, 1 against) · 51 studies (16 causal, 14 quant-synthesis, 12 review, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 18 of 51 report an effect size · 57 claims rest on one study
 
 ## Conditional relationship
 
@@ -198,6 +198,7 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - [Effect sizes do not differ significantly between selected-student and whole-class applications, with class-based applications slightly higher (g = 1.253 vs 1.245)](../claims/no-significant-difference-by-application-type.md) [~W]
 - [Within the cognitive domain, flipped classrooms show the largest effects on understanding and achievement and a negative effect on evaluation](../claims/flipped-classroom-cognitive-suboutcome-effect-sizes.md) [~W]
 - [A blended flipped classroom produced statistically significantly higher post-test scores than traditional teaching in one included histology study (p < 0.0001)](../claims/blended-flipped-classroom-higher-posttest-scores.md) [+W]
+- [Blended learning or flipped classroom models may combine e-learning and traditional modalities](../claims/blended-flipped-classroom-anaesthesia.md) [~W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — how support in the pre-class work and the live session is withdrawn across a term

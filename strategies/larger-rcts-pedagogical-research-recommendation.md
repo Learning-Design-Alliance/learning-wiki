@@ -45,6 +45,7 @@ The author closes the meta-analysis with recommendations for researchers: becaus
 - [Future MBI trials for youth should use scaled-up definitive designs with active intervention controls and embedded mechanism measures](definitive-mbi-trials-active-controls-mechanisms.md)
 - [Future HFS trials for practising nurses need larger samples, rigorous randomised design and standardised, fully reported measures](hfs-nurse-research-quality-recommendations.md)
 - [Rigorously compare PBL with traditional methods before broad PGME implementation, using larger samples, controls, and follow-up](compare-pbl-traditional-methods-before-pgme-implementation.md)
+- [Future active-learning research should use randomised controlled designs with larger samples and standardised outcome measures](rigorous-rct-design-future-active-learning-research.md)
 
 ## Examples
 -

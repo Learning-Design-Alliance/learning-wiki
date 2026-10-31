@@ -13,7 +13,7 @@ generated:
 # Promote a Sense of Home
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (7 for, 3 mixed) · 11 studies (4 qualitative, 2 causal, 2 review, 2 theoretical, 1 quant-synthesis), `q1`–`q3` · 0 of 11 report an effect size · 8 claims rest on one study
+> **Evidence** · 11 claims (8 for, 3 mixed) · 12 studies (4 qualitative, 3 review, 2 causal, 2 theoretical, 1 quant-synthesis), `q1`–`q3` · 0 of 12 report an effect size · 9 claims rest on one study
 
 ## Description
 Promote a sense of home is the element of creating belonging, familiarity, and social warmth within a learning environment.
@@ -32,6 +32,7 @@ Promote a sense of home is the element of creating belonging, familiarity, and s
 - [A sense of belonging is firmly linked with improved student attainment, increased learners' satisfaction and reduced attrition rates in campus-based learning](../claims/sob-linked-attainment-satisfaction-attrition.md) [+W]
 - [Students in three consortium districts reported positive experiences with the cross-grade mentorship program and with campus social workers](../claims/west-kern-student-climate-survey-outcomes.md) [~W]
 - [Belonging is multi-faceted and context-dependent, with different expressions (group membership, momentary feeling, durable sense) often conflated in research](../claims/belonging-multifaceted-context-dependent.md) [~W]
+- [Exclusive use of white manikins heightened CALD students' sense of underrepresentation in SBL](../claims/white-manikins-underrepresentation-cald-students.md) [+W]
 
 ## The evidence by question
 - *Does a brief intervention that frames doubts about belonging as common and temporary improve learners' persistence and grades, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]

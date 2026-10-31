@@ -47,3 +47,4 @@ The review reports a randomised crossover study of 11 novice surgical trainees a
 ## Related Claims
 - [Multimodal feedback systems produced greater simulator score improvements than conventional feedback in basic robotic skills training](multimodal-feedback-outperforms-conventional.md) — related
 - [Three comparative studies reported superior outcomes for distance simulation over traditional training, involving augmented reality telementoring, remote robotic teaching, and a virtual classroom](distance-simulation-superior-outcomes-three-studies.md) — related
+- [VR training's effect on OSATS-assisted skill acquisition shows conflicting evidence](vr-osats-conflicting-evidence.md) — related

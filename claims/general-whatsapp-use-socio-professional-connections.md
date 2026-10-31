@@ -55,3 +55,4 @@ Correlational analysis across both conditions of the survey study. The article r
 - [Moderated WhatsApp groups increased professional knowledge among newly graduated nurses relative to an untreated control group](moderated-whatsapp-groups-higher-knowledge-nurses.md) — related
 - [Social capital among teachers has been associated with five categories of outcomes, including teacher professional development and improved student achievement](teacher-social-capital-five-outcome-categories.md) — a broader claim this one bears on
 - [Forums fostered feelings of relatedness through positive peer connections and shared struggles](forums-fostered-relatedness-peer-connections.md) — related
+- [TBL fosters professional identity development](tbl-fosters-professional-identity.md) — related

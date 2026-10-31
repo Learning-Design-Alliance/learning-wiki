@@ -52,3 +52,4 @@ Controlled experiment with 120 third-year pre-university students (86 analyzed) 
 - [Combining a video experiment with a virtual experiment does not foster conceptual understanding more than a virtual experiment alone during remote schooling](video-virtual-combination-no-advantage-over-virtual-only.md) — related
 - [Leveraging appropriate types of guidance during the relevant phases of inquiry benefits student inquiry in virtual and remote labs](phase-appropriate-guidance-benefits-inquiry-labs.md) — related
 - [Virtual laboratories match physical laboratories on conceptual mastery, with domain-specific advantages and disadvantages](virtual-matches-physical-conceptual-mastery.md) — related
+- [Virtual lab simulations improved blood typing knowledge and motivation but faced technical and language barriers](virtual-labs-improve-blood-typing-knowledge-motivation.md) — related

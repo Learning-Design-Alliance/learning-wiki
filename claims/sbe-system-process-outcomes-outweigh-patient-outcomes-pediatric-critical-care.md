@@ -70,3 +70,6 @@ The review's narrative synthesis of included studies reports that direct patient
 - Single-center simulation studies were more likely to demonstrate significant patient-outcome improvements than multicenter studies — related
 - [In 18% (3/16) of included simulation studies, positive clinical trends did not reach statistical significance](positive-trends-not-significant-18-percent-simulation-studies.md) — related
 - All included simulation-based research studies were judged to have high or critical risk of bias, and only 16 of 2481 screened studies met Level 4 inclusion criteria — a narrower finding that bears on this claim
+- [Low-cost simulation studies in nursing most frequently target specific clinical competencies (79.5%), with obstetric and neonatal emergency management the single largest group](scoping-review-low-cost-simulation-competency-coverage.md) — related
+- [No included SDL studies measured Kirkpatrick Level 4 (patient/system) outcomes](sdl-no-kirkpatrick-level-4-outcomes.md) — related
+- [In one included study, simulation-based team training in a trauma bay was followed by a 16 percent reduction in total resuscitation time and faster completion of primary surveys.](steinemann-resuscitation-time-reduction.md) — a narrower finding that bears on this claim

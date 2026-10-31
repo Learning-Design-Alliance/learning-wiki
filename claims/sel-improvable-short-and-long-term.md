@@ -55,3 +55,4 @@ The abstract asserts, citing prior research without detail, that "SEL can be imp
 - [SEL programs cannot produce meaningful long-term growth in authoritarian, punitive, or exclusionary environments; restorative practices are needed](sel-requires-educative-inclusive-environments.md) — related
 - [Schoolwide SEL programs are associated with long-term achievement gains, with multiple meta-analyses estimating an 11-percentile-point gain on average for participating students](schoolwide-sel-meta-analytic-11-percentile-achievement-gain.md) — related
 - [Quality of technology integration varies substantially across lessons, with most variance unexplained by teacher traits or time course](tech-integration-quality-varies-across-lessons.md) — related
+- [Sustained interventions with regular reinforcement show more substantial improvements than short-term CPD programs](sustained-cpd-reinforcement-superior-outcomes.md) — related

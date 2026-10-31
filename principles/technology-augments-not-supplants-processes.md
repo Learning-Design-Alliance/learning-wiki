@@ -31,7 +31,7 @@ sources:
 # Technology should augment, not supplant, learning processes in student-centered environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 161 claims (100 for, 49 mixed, 12 against) · 129 studies (30 theoretical, 28 qualitative, 26 review, 22 causal, 12 design, 10 associational, 1 quant-synthesis), `q1`–`q4` · 8 of 129 report an effect size · 157 claims rest on one study
+> **Evidence** · 163 claims (101 for, 50 mixed, 12 against) · 131 studies (30 theoretical, 28 review, 28 qualitative, 22 causal, 12 design, 10 associational, 1 quant-synthesis), `q1`–`q4` · 8 of 131 report an effect size · 159 claims rest on one study
 
 ## Conditional relationship
 
@@ -260,6 +260,7 @@ Claims this page cited that the model above does not use. Each keeps its old mar
 - [AI over-reliance can produce inversion effects, reducing cognitive processing depth and learning outcomes](../claims/ai-inversion-effects-overreliance-reduce-learning.md) [+W] — attached 2026-10-22 from Bauer et al. (2025), which proposed "Mitigate AI over-reliance by keeping learners actively engaged in reflective processes before or during AI output generation".
 - [A perspective article warns that students risk overreliance on LMFM outputs and that overuse may impede critical thinking, research skills, and independent problem-solving](../claims/lmfm-overreliance-impedes-critical-thinking.md) [+W] — attached 2026-10-26 from Küchemann et al. (2025), which proposed "Keep the human in the loop: treat LMFMs as supplementary tools that complement rather than replace human teaching"; tests this page's relationship.
 - [Lecture capture works well if and only if students use it as a supplementary resource rather than an alternative to live lectures](../claims/lecture-capture-works-as-supplement-not-alternative.md) [+W] — attached 2026-10-29 from Banerjee (2021), which proposed "Explicitly tell students about the benefits and drawbacks of lecture capture so they use it as a supplement rather than an alternative"; tests this page's relationship.
+- [Students overwhelmingly favored a hybrid approach combining VDTs with cadaveric dissection over full replacement](../claims/students-favor-hybrid-vdt-cadaver-approach.md) [+W] — attached 2026-10-31 from Telecan Teodora et al. (2025), which proposed "Use virtual dissection tables as a complement to, not a substitute for, cadaveric dissection within a multimodal curriculum"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -284,6 +285,7 @@ Assisted performance, unaided immediate performance, delayed retention, transfer
 - [GenAI chatbot support increased executive help-seeking but reduced metacognitive engagement compared to human expert support](../claims/genai-chatbot-increased-executive-help-seeking-reduced-metacognition.md) [-W]
 - [Increasing the proportion of simulation within a nursing course shows mixed effects on competency outcomes (Hayden et al. trial)](../claims/more-vs-less-simulation-mixed.md) [~W]
 - [Instructor feedback during VR laparoscopy training reduced time and repetitions to proficiency, but the no-feedback group achieved a higher final performance score](../claims/instructor-feedback-vr-training-mixed-effects.md) [~W]
+- [Virtual labs increase confidence but cannot fully replace hands-on experimental learning](../claims/virtual-labs-cannot-replace-hands-on-learning.md) [~W]
 
 ## Related Principles
 

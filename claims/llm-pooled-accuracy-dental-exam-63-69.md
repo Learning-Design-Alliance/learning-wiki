@@ -50,3 +50,4 @@ Meta-analysis of 39 studies of LLMs answering dental examination questions, usin
 - [Between-study heterogeneity in LLM dental-question accuracy is very high (I² = 91.5%), with a prediction interval spanning 29.65% to 91.71%](high-heterogeneity-llm-dental-accuracy.md) — related
 - [Direct comparisons confirm ChatGPT-4 significantly outperformed earlier versions and some competitor models on dental examination questions](chatgpt4-outperforms-earlier-versions-dental-questions.md) — related
 - Question provenance and format vary widely across studies: author-constructed sets dominate (53.8%), and 97.4% of studies used text-only questions — related
+- [Newer LLM versions generally outperformed older versions on dental examination questions](newer-llms-outperform-older-dental-exams.md) — related

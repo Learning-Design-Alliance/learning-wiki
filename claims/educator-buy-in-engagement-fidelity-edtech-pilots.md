@@ -77,3 +77,4 @@ Discussion section example: Highline teachers who reviewed and recommended Ratio
 - [Early trends suggest students of teachers using ASSISTments as the sole math edtech tool may have benefited more than students where it was part of a suite of tools](assistments-sole-tool-early-trends.md) — related
 - [The report attributes stagnant learning results to program implementation rather than to the ed-tech tools themselves](implementation-not-tools-stagnant-results.md) — related
 - [Students hesitated to share learning data except with their own teachers, while teachers insisted on data access for instruction and feared selective sharing by low-performing students would undermine the system's usefulness](data-sharing-hesitation-versus-teacher-access.md) — related
+- [Most SDL-labeled interventions lack authentic learner autonomy in resource selection and self-assessment](sdl-implementation-gap-learner-autonomy.md) — related

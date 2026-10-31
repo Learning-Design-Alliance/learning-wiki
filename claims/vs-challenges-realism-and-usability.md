@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-31
 recheck_by: 2029
 sources:
   - id: zhang-guoyong-2026
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Students most frequently cited lack of realism — inability to experience real emotional nuance or tactile sensation — leading some to believe VS cannot replace hands-on clinical practice. [→ Zhang Guoyong 2026](#zhang-guoyong-2026)
@@ -75,3 +76,6 @@ Synthesized student-challenges finding; one student described sweating and feeli
 - [A minority of nursing students report negative emotional responses to virtual simulation teaching, including fear, anxiety, and burnout](vs-negative-emotional-experiences.md) — related
 - [The vast majority of nursing students report positive emotional experiences in virtual simulation teaching, including excitement, reduced psychological burden, and boosted confidence](vs-positive-emotional-experiences.md) — reports the opposite
 - [A JBI meta-synthesis of 17 qualitative studies integrates nursing students' virtual simulation experiences into nine categories and four synthesized findings](vs-teaching-meta-synthesis-four-findings.md) — a broader claim this one bears on
+- [Visual and auditory features of DPBL technologies are appreciated but tactile realism is limited](dpbl-visual-auditory-appreciated-tactile-limited.md) — related
+- [Linguistic and cultural barriers are the most frequently mentioned challenges CALD students face in SBL](linguistic-cultural-barriers-sbl-cald-students.md) — related
+- [VR communication training faces challenges of scenario realism, lack of clinical urgency in virtual characters, and language barriers](vr-communication-training-challenges-realism-urgency-language.md) — related

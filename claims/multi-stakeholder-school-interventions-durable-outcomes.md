@@ -54,3 +54,4 @@ Narrative synthesis (Section 3.2.2) comparing stakeholder composition across the
 - [Cultural tailoring moderated intervention effectiveness in the kiR programme family, with culturally grounded adaptations producing more favourable attitudes and behaviours](cultural-adaptation-moderates-substance-prevention-effectiveness.md) — related
 - [The article argues the durability of the WSS co-design approach depends on institutionalizing authentic engagement as core practice, not a one-time initiative](wss-sustainability-requires-institutionalization.md) — related
 - [Parent Coaching Outperforms Information Only](parent-coaching-outperforms-information-only.md) — related
+- [Interventions combining core simulation with in-situ refreshers, visual prompts, and structured micro-debriefs more often reported larger or more durable behavioural improvements.](workflow-reinforcement-durable-behavioural-change.md) — related

@@ -58,3 +58,5 @@ Pairwise moderator comparisons of presentation modality (audio-tape, computer sc
 - [In an immersive VR learning environment, visual-only text yields higher recall than audio-visual text (reverse modality effect)](vr-reverse-modality-effect-recall.md) — reports the opposite
 - [Within-subjects designs also show a moderate-to-large modality effect (d = 0.73)](modality-effect-within-subjects-d073.md) — related
 - [Immersive VR L2 vocabulary learning outperforms word-to-word association, especially for struggling learners, with manipulable-context words learned better](ivr-vocabulary-beats-association-strugglers-gain-more.md) — related
+- [Head-mounted display interventions improve anatomy recognition, spatial orientation, and learner confidence versus conventional instruction](hmd-improves-spatial-understanding-and-confidence.md) — related
+- [Virtual patient simulations were delivered via immersive systems (nine studies) or desktop-based platforms (ten studies), all as single-session interventions](vp-technology-modalities-single-session.md) — related

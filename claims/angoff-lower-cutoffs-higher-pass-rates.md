@@ -45,7 +45,12 @@ The review reports, from Khalid et al.'s comparison of Angoff with relative/norm
 
 
 ## Related Claims
+
 - [Angoff-derived cut-off scores exceeded the arbitrary 60% fixed passing mark, with one study reporting a 74.31% cut-off that would have produced a 41% failure rate](angoff-cutoffs-exceed-fixed-60-benchmark.md) — related
 - [Angoff and Modified Angoff standard-setting show good inter-rater reliability in dental education, with reported coefficients ranging from 0.65 to 0.94](angoff-good-inter-rater-reliability-dental.md) — related
 - [The Borderline Regression method produced higher OSCE pass rates than Angoff methods (97.5% vs 86.6%) and discrepancies raise concerns for small cohorts](borderline-regression-higher-pass-rates-than-angoff-osce.md) — related
 - [Percentage rating format in the Modified Angoff method yields higher reliability than the Yes/No format, with ICCs of 0.48–0.65 versus a maximum of 0.41](percentage-format-more-reliable-than-yes-no-angoff.md) — related
+- [Contextual factors (learner level, discipline, format) moderate Angoff outcomes](angoff-contextual-moderators.md) — related
+- [Angoff methods produce significantly higher pass rates than conventional fixed standard-setting methods](angoff-higher-pass-rates-than-fixed.md) — related
+- [Mastery Angoff produces the highest cut scores and lowest pass rates among Angoff variants](mastery-angoff-highest-cut-scores.md) — related
+- [Number of judges positively influences cut scores, while test length influences pass rates](angoff-moderators-judges-items.md)

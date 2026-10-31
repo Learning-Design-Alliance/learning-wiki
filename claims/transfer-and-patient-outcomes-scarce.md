@@ -51,3 +51,6 @@ Review synthesis using Kirkpatrick's framework across 104 studies; the review re
 - Outcome evaluation of AI-generated virtual patients in HPE is concentrated at Kirkpatrick level 1, with no studies reporting level 3 or 4 outcomes — related
 - [Competency-based simulation effects are large for skills measured in the simulation lab but small and non-significant for clinical behaviors and patient outcomes](competency-simulation-large-skill-small-clinical-effects.md) — related
 - [In 18% (3/16) of included simulation studies, positive clinical trends did not reach statistical significance](positive-trends-not-significant-18-percent-simulation-studies.md) — related
+- [Kirkpatrick's four levels of evidence can be applied to RAS training, with level 2 equating to RAS skills assessed with validated scoring systems during simulation.](kirkpatrick-levels-applied-ras-training.md) — related
+- [No longitudinal studies or RCTs demonstrate that AI-acquired skills transfer to the operating room](no-longitudinal-evidence-ai-skill-transfer-or.md) — a narrower finding that bears on this claim
+- [No included SDL studies measured Kirkpatrick Level 4 (patient/system) outcomes](sdl-no-kirkpatrick-level-4-outcomes.md) — related

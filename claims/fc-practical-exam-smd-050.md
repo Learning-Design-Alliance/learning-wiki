@@ -55,3 +55,4 @@ Meta-analysis of 7 studies of practical skills assessment in preventive medicine
 - [Exploratory subgroup analysis suggests larger effects in practice courses than theory courses, driven by only 2 practice-oriented studies](llm-teaching-practice-course-subgroup-signal.md) — related
 - [Flipped classrooms are associated with higher theoretical knowledge scores than lecture-based teaching in medical education (pooled SMD = 1.26), with very high heterogeneity](flipped-classroom-theoretical-knowledge-medical-education.md) — related
 - [Flipped classroom improves teacher-student interaction (pooled RR 1.35), based on few studies](fc-teacher-student-interaction-rr-135.md) — related
+- [Blended learning or flipped classroom models may combine e-learning and traditional modalities](blended-flipped-classroom-anaesthesia.md) — a broader claim this one bears on
