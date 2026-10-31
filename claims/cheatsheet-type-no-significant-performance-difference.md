@@ -81,3 +81,4 @@ The final-exam t-test did not reach significance, but the article reports a prin
 - [High- and low-performing students differed significantly on the final-exam ENA network X dimension but not the Y dimension](final-exam-ena-x-dimension-significant.md) — related
 - [Most participants reported that cheat sheets boosted their confidence and efficiency during exams](cheatsheets-boost-confidence-efficiency.md) — related
 - [Preferences for instructor-provided sheets were grounded in trust, alignment and efficiency, while self-created preferences reflected personalization, control and studying through creation](trust-efficiency-versus-personalization-choice-rationales.md) — related
+- [Meta-analysis shows open-book exams yield higher STEM exam scores than closed-book exams, with an overall mean difference of 5.91 despite very high heterogeneity](obe-higher-scores-than-cbe-meta-analysis.md) — related

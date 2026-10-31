@@ -52,3 +52,4 @@ The review reports that among nine simulated/educational studies, "In five of th
 - [The effects of emotions on non-procedural skills in real-world clinical settings were inconclusive, with contrasting findings on stress and performance](stress-nonprocedural-skills-real-world-inconclusive.md) — related
 - [Work context, via acute stress and cognitive load, is a major moderator of emotional competence's impact on clinical reasoning](work-context-acute-stress-moderates-ec-cr.md) — related
 - [Several studies found no relationship between emotions and performance in simulated contexts](no-emotion-performance-relationship-some-simulated-studies.md) — related
+- [Impaired performance under simulation stress is concentrated among healthcare students and junior residents, with rising perceived anxiety, cognitive load and stress linked to poorer performance](stress-impairment-junior-learners-anxiety.md) — related

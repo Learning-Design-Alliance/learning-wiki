@@ -46,7 +46,9 @@ The review recommends a structured, cross-platform training curriculum for robot
 - [Prior robotic surgical experience is the main driver of better baseline performance and skills progression](../claims/prior-robotic-experience-driver-transfer.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Train robotic surgery teams regularly by simulating intraoperative emergencies and maintain a dedicated team](ras-team-emergency-simulation-training-strategy.md)
+- [Structure robotic surgery curricula as a stepwise progression in which training modalities complement rather than replace each other](stepwise-complementary-robotic-training-curriculum.md)
 
 ## Examples
 -

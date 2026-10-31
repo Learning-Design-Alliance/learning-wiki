@@ -66,5 +66,5 @@ Numerical evaluation of Success Rate Percentage SRP(k) for k = 1, 5 and 10 over 
 
 ## Related Claims
 - [Exact-match (k=1) job role prediction requires approximately 24 questionnaire questions to achieve an average success rate of 90%, while at least six questions yield a top-10 success rate above 70%](c3-ioc-exact-match-needs-24-questions.md) — related
-- [LLM accuracy increases monotonically with prompt sophistication across semantically equivalent medical questions, with Low Literacy users scoring significantly below Prompt Engineer users](prompt-privilege-monotonic-accuracy-gap-medqa.md) — related
+- [On MedQA, GPT-5.4-mini's accuracy increases monotonically with prompt sophistication across semantically equivalent questions, with generated Low Literacy prompt variants scoring significantly below Prompt Engineer variants](prompt-privilege-monotonic-accuracy-gap-medqa.md) — related
 - [User trial participants rated the C3-IoC system positively for usability, with the Job roles map and Job roles overview the highest-rated components](c3-ioc-user-trial-usability-positive.md) — related

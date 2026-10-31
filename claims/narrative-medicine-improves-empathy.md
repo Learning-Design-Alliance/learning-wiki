@@ -53,3 +53,4 @@ Random-effects meta-analysis of 14 randomized controlled studies (408 vs 410 res
 - [Residents report higher satisfaction with narrative medicine education than lecture-based learning, but the effect is not robust to publication-bias adjustment](narrative-medicine-satisfaction-publication-bias.md) — related
 - [Narrative medicine education shows no significant effect on residents' theoretical knowledge scores compared with lecture-based learning](narrative-medicine-no-effect-theoretical-knowledge.md) — related
 - Empathy was assessed primarily through questionnaires and semi-structured interviews; only two studies used objective indicators such as facial emotion recognition — related
+- [Behavioural empathy interventions for physicians and medical students improve empathy skills with a moderate pooled effect (d = 0.50)](empathy-interventions-physicians-moderate-effect.md) — related

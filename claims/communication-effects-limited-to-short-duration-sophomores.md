@@ -69,3 +69,4 @@ Grade-level subgroup analysis for communication skills (Table 6): only second-ye
 - [Modern teaching methods significantly improve nursing students' communication skills (SMD = 1.80)](modern-methods-improve-nursing-communication-meta.md) — a broader claim this one bears on
 - [Short-duration (<24 weeks) interventions positively impact reading comprehension (SMD = 0.24)](short-duration-interventions-improve-reading-comprehension.md) — related
 - [Problem-solving benefits of modern methods hold across durations, designs, sample sizes, and sophomore/senior grades, but not third-year students](problem-solving-benefits-robust-across-moderators.md) — related
+- [GAI-based teaching improves knowledge scores when learning duration exceeds one week](gai-knowledge-gains-extended-duration.md) — related

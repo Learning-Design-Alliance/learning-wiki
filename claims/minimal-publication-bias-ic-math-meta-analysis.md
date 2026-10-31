@@ -54,3 +54,4 @@ Publication bias assessment using contour-enhanced funnel plots, Robust Bayesian
 - [The pooled effect of writing instruction for US ELL students is robust to sensitivity analyses but funnel plot asymmetry suggests possible missing positive effect sizes](sensitivity-and-bias-checks-ell-writing-meta.md) — related
 - Publication bias does not threaten the pooled effect estimates — related
 - Publication bias tests found no statistically significant evidence of publication bias — related
+- Funnel plots suggest potential publication bias across the meta-analysis outcomes — reports the opposite

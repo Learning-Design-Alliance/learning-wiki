@@ -58,3 +58,7 @@ Review synthesis using Kirkpatrick's framework across 104 studies; the review re
 - Fewer studies assessed Kirkpatrick level 3 behaviour and level 4 patient outcomes, and higher‐level feature combinations remain unclear — possibly the same claim (merge candidate)
 - [Simulation training for ultrasound‐guided regional anaesthesia most often shows significant improvement at Kirkpatrick level 2 outcomes](usra-simulation-improves-kirkpatrick-level-2.md) — related
 - [Video review improves patient outcomes (Kirkpatrick level 4) in the single study reporting this level](video-review-kirkpatrick-level-4-patient-outcome.md) — a narrower finding that bears on this claim
+- [Most LMIC simulation-based education studies testing significance demonstrate at least partial improvement in patient-level (Kirkpatrick Level 4) outcomes](sbe-lmic-most-studies-partial-improvement-level4.md) — reports the opposite
+- [Simulation training reached Kirkpatrick level 3 (behavioral change) in five studies, but no study assessed patient outcomes](simulation-kirkpatrick-level3-behavior-no-patient-outcomes.md) — a narrower finding that bears on this claim
+- [In 82% of studies on transferability, simulation performance was correlated with better operating room performance](simulation-performance-correlated-better-or-performance.md) — related
+- [Significant patient-safety improvements were found in 80% of comparative virtual reality simulation studies for cataract surgery training](vrs-comparative-studies-safety-improvements.md) — reports the opposite

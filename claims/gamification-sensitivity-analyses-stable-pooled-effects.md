@@ -49,3 +49,4 @@ Sensitivity analyses accompanying the review's meta-analyses: exclusion of the t
 - Pooled effects are robust in sensitivity analyses, but 10 of 13 studies carry serious risk of bias and publication bias is indicated — related
 - Research on gamification in higher education is predominantly quantitative, English-language and review-scarce — related
 - [Clinical analysis skills effect size is unstable and sensitive to two studies, dropping to d = 0.50 after their exclusion](clinical-analysis-skills-effect-unstable-sensitive-to-two-studies.md) — related
+- [Removing high-risk-of-bias studies does not materially change the pooled accuracy estimate](sensitivity-analysis-robust-high-risk-exclusion.md) — possibly the same claim (merge candidate)

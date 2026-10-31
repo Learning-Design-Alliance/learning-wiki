@@ -73,3 +73,4 @@ Within-subject Pearson correlations between NASA-TLX and performance score acros
 - [Personalized paths reduced self-reported cognitive load on all six adapted NASA-TLX dimensions with large effect sizes](personalized-paths-lower-cognitive-load.md) — related
 - [The AI+Robot condition is associated with lower perceived workload than AI-Only on effort, frustration, temporal demand, physical demand, and Raw TLX](ai-robot-condition-lower-workload.md) — related
 - [AR telestration lowers cognitive workload during surgical training as measured by validated instruments](ar-lowers-cognitive-workload.md) — related
+- [AR-assisted training reduces subjective workload (NASA-TLX) in novice learners](ar-training-reduces-subjective-workload.md) — related

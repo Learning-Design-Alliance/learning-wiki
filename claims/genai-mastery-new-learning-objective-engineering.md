@@ -78,3 +78,4 @@ Second finding within the objectives-of-learning theme, reporting "widespread un
 - [Students express concerns about GenAI, with non-users (never/rarely) significantly more concerned than other users, and concerns uncorrelated with knowledge](genai-concerns-nonusers-differ.md) — related
 - [The skills required in a world powered by ChatGPT and related technologies will be different from those demanded previously](chatgpt-era-skills-reorganisation.md) — a broader claim this one bears on
 - [Employers value social and emotional development alongside content knowledge for workforce preparation](employers-value-social-emotional-skills.md) — related
+- [Students preferred e-models used alongside physical models, suggesting digital tools alone may not fully replace traditional methods](e-models-preferred-alongside-physical-models.md) — related

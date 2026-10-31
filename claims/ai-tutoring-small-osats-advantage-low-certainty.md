@@ -48,3 +48,4 @@ Meta-analysis of four studies (3 RCTs and 1 pilot prospective study, 268 total p
 - [No significant difference in ICEMS performance scores between AI tutoring and expert instruction](ai-tutoring-no-icems-difference.md) — related
 - [Pooled AI tutoring produces statistically equivalent GRE learning gains to expert human tutoring](pooled-ai-tutoring-equivalent-gre-learning-gains.md) — related
 - [AI-enabled personalized STEM education yields a statistically significant overall effect of g = 0.455, which its authors class as small, compared with traditional non-AI instruction in K-12 schools](ai-personalized-stem-overall-effect-g0455.md) — related
+- [AR-assisted training improves OSATS Global scores in novice laparoscopic learners](ar-training-improves-osats-global-laparoscopic.md) — related

@@ -45,7 +45,7 @@ Network meta-analysis of 27 studies (1746 trainees) on medical record test score
 
 
 ## Related Claims
-- [Multiple new teaching methods (PBL + CBL, CBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on theoretical scores](new-methods-outperform-lbl-theoretical-scores.md) — related
+- [Eight new teaching methods (PBL + CBL, PBL + CP, CBL + WeChat, PBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on residents' theoretical scores](new-methods-outperform-lbl-theoretical-scores.md) — related
 - [Most new teaching methods reduce dissatisfaction relative to LBL, with WeChat-based combinations most favoured by residents](new-methods-reduce-dissatisfaction-versus-lbl.md) — a broader claim this one bears on
 - [PBL combined with WeChat outperforms LBL in theoretical test scores and reduces dissatisfaction among Chinese internal medicine residents](pbl-wechat-outperforms-lbl-theoretical-scores-residents.md) — related
 - [PBL alone most improves self-directed learning ability of internal medicine residents versus LBL](pbl-improves-self-directed-learning-residents.md) — related

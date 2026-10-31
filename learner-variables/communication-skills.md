@@ -13,7 +13,7 @@ generated:
 # Communication Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 98 claims (65 show a difference, 20 mixed, 13 no difference) · 80 studies (22 review, 16 causal, 16 associational, 12 quant-synthesis, 5 design, 5 theoretical, 4 qualitative), `q1`–`q3` · 14 of 80 report an effect size · 96 claims rest on one study
+> **Evidence** · 104 claims (69 show a difference, 20 mixed, 15 no difference) · 85 studies (23 review, 16 causal, 16 quant-synthesis, 16 associational, 5 design, 5 theoretical, 4 qualitative), `q1`–`q3` · 14 of 85 report an effect size · 102 claims rest on one study
 
 ## Description
 Communication is expressing one's thoughts, ideas and emotions and understanding those of others. Language is its main medium (spoken and signed language, reading and writing, listening), but it also includes gesture, drawing, numbers and technology, and the use of more than one language. Using several modes, and mixing languages when a learner's vocabularies do not overlap, is described as extending thinking and making ideas easier for others to engage with. It is measured through vocabulary and language tests, self-assessments of oral competence, and, in mathematics, by coding the detail and soundness of students' spoken explanations and their participation in discussion.
@@ -139,6 +139,12 @@ It overlaps with [reading and language](reading-and-language.md) and [English-le
 - [IPE interventions show significant improvements in role clarity, communication skills, and teamwork dynamics](../claims/ipe-improves-role-clarity-communication-teamwork.md) [+M] — instruction changes it
 - [OSCE use in orthodontic education improves diagnostic accuracy, procedural proficiency, and communication skills through simulated patient interactions](../claims/osce-improves-orthodontic-clinical-competence.md) [+M] — instruction changes it
 - [Structured clinical assessments such as Mini-CEX and OSCE improve diagnostic accuracy, patient communication, and procedural skills in orthodontic postgraduate education](../claims/structured-assessments-mini-cex-osce-improve-orthodontic-competencies.md) [+M] — instruction changes it
+- [CBL significantly enhances communication and collaboration skills compared with LBL (RR = 2.49)](../claims/cbl-enhances-communication-collaboration-skills.md) [+M] — instruction changes it
+- [More PBL than LBL students report satisfaction with improved communication skills (RR = 1.66)](../claims/pbl-satisfaction-communication-skills.md) [+M] — instruction changes it
+- [PBL shows no benefits for hands-on, communication, or self-directed learning skills and no advantage in operational skills for diagnostic imaging](../claims/pbl-no-benefit-hands-on-communication-self-directed.md) [-W] — instruction changes it
+- [Publication year has a positive effect on communication skill outcomes favoring virtual simulations in more recent studies](../claims/publication-year-positive-communication-skills.md) [+M] — instruction changes it
+- [Scenario simulation combined with case teaching improved doctor-patient communication skills more than traditional lecture-based training](../claims/scenario-simulation-improves-doctor-patient-communication.md) [+M] — instruction changes it
+- [Virtual simulations and real persons show no significant difference in enhancing communication skills](../claims/vs-rp-no-difference-communication-skills.md) [-M] — instruction changes it
 
 ## Measures
 - **Expressive One-Word Picture Vocabulary Test, Fourth Edition (EOWPVT-4)** (Martin & Brownell, 2011): expressive vocabulary across all age groups.

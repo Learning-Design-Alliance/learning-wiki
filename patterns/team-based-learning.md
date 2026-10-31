@@ -15,7 +15,7 @@ grain_size: unit, course
 # Team Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 46 claims (27 for, 17 mixed, 2 against) · 33 studies (12 quant-synthesis, 8 causal, 7 review, 2 associational, 2 design, 2 theoretical), `q1`–`q4` · 10 of 33 report an effect size · 38 claims rest on one study
+> **Evidence** · 57 claims (32 for, 22 mixed, 3 against) · 36 studies (14 quant-synthesis, 8 causal, 8 review, 2 associational, 2 design, 2 theoretical), `q1`–`q4` · 11 of 36 report an effect size · 49 claims rest on one study
 
 ## Description and scope
 
@@ -102,6 +102,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Belonging interventions improve outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+M] — checked by the judge: all 2 entries pass (abstract)
 - [TBL effects on theoretical knowledge and practical skills are larger in interventions lasting more than 4 weeks](../claims/tbl-effect-larger-interventions-over-four-weeks.md) [+W] — attached 2026-10-31 from Fu Jie et al. (2026), which proposed "Allocate sufficient instructional hours so TBL interventions can mature before expecting full benefits".
 - [TBL students achieve significantly higher post-test final scores than LBL students in medical education](../claims/tbl-higher-post-test-scores-than-lbl.md) [+M] — attached 2026-10-31 from Xie Zhi-Bo et al. (2025), which proposed "Generalize TBL pedagogy in medical education classrooms"; tests this page's relationship.
+- [Most implementations of TBL in clinical disciplines are modified versions missing one or more TBL steps, with the peer-review step most often omitted](../claims/tbl-clinical-disciplines-mostly-modified-implementation.md) [+W] — attached 2026-10-31 from Sterpu Irene et al. (2024), which proposed "Implement TBL in clinical disciplines as the full concept and evaluate it against interactive seminars with rigorous study designs".
+- [TBL in clinical disciplines is associated with increased knowledge acquisition in many studies, but findings on long-term knowledge retention are contradictory](../claims/tbl-clinical-knowledge-acquisition-mixed-retention.md) [~W] — attached 2026-10-31 from Sterpu Irene et al. (2024), which proposed "Implement TBL in clinical disciplines as the full concept and evaluate it against interactive seminars with rigorous study designs"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 
@@ -139,11 +141,20 @@ The retrieval evidence supports the readiness tests as retrieval with feedback; 
 - [TBL in medical ethics education improves knowledge retention compared to lectures](../claims/tbl-improves-ethics-knowledge-retention.md) [+W]
 - [TBL increases student satisfaction and engagement in ethics education](../claims/tbl-increases-ethics-satisfaction-engagement.md) [+W]
 - [Cluster analysis identifies PBL + WeChat, TBL and CBL + WeChat as most promising for theoretical and practical performance with low dissatisfaction](../claims/cluster-analysis-pbl-wechat-tbl-cbl-wechat-most-promising.md) [+W]
-- [TBL benefits on scores differ by academic standing: high achievers gain more while low achievers may benefit less in problem-solving](../claims/tbl-benefits-vary-by-academic-standing.md) [~W]
+- [TBL effects on scores differ by academic standing: in one study high achievers outperformed LBL peers in problem-solving while low achievers scored lower, and in another weaker students gained more](../claims/tbl-benefits-vary-by-academic-standing.md) [~W]
 - [Both Chinese and Western students benefit from TBL, with Western students showing larger score improvements](../claims/tbl-benefits-chinese-and-western-students.md) [+M]
 - [TBL students achieve significantly higher pre-test scores than LBL students after team-based preparation](../claims/tbl-higher-pre-test-scores-than-lbl.md) [+W]
 - [TBL requires more student preparation time than LBL](../claims/tbl-requires-more-preparation-time-than-lbl.md) [~W]
 - [Team-based learning shows no significant difference in multiple-choice question scores compared to traditional teaching](../claims/team-based-learning-no-significant-difference-mcq-scores.md) [~W]
+- [Freshmen, academically weaker students, undergraduates, Chinese female students and nursing students appear to benefit most from TBL](../claims/tbl-beneficiary-groups.md) [~W]
+- [Effects of TBL on clinical decision-making and clinical reasoning are mixed across studies and seminar topics](../claims/tbl-clinical-decision-making-mixed-effects.md) [~W]
+- [Most studies report positive student satisfaction with TBL in clinical disciplines, but firm conclusions are limited by uncontrolled designs](../claims/tbl-clinical-student-satisfaction-positive-limited-comparators.md) [+W]
+- [TBL shows favorable outcomes for clinical performance, skills and learner engagement](../claims/tbl-performance-engagement-favorable.md) [+W]
+- [Faculty experience an initial workload increase with TBL but generally hold positive attitudes, while faculty development is limited](../claims/tbl-faculty-workload-development-limited.md) [~W]
+- [TBL is associated with higher satisfaction, positive attitudes and motivation versus lecture, but preferences are mixed](../claims/tbl-feeling-of-learning-satisfaction-mixed.md) [+W]
+- [TBL outperforms lecture-based learning on short-term cognitive outcomes such as theoretical exam performance](../claims/tbl-superior-lecture-short-term-cognitive.md) [+W]
+- [Team formation and size are the most studied TBL elements, with smaller team sizes linked to better content knowledge outcomes](../claims/tbl-team-size-formation-most-studied.md) [~W]
+- [SBL is the highest-ranked strategy for medical students' satisfaction, significantly exceeding PBL and TBL as well as LBL](../claims/sbl-highest-ranked-student-satisfaction-nma.md) [-W]
 
 ## Related Patterns
 - [Cooperative Learning](cooperative-learning.md) — shares positive interdependence and individual accountability; TBL adds the readiness assurance cycle and simultaneous reporting

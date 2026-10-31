@@ -57,3 +57,4 @@ In the review's ambulatory-settings theme, it describes longitudinal case-based 
 - [AI-enhanced simulation in high-acuity nursing training improves clinical confidence and emergency preparedness](ai-simulation-improves-clinical-confidence-nursing.md) — related
 - [AI-generated virtual patients in HPE are used mainly for teaching and learning communication skills, diagnostic reasoning and management reasoning, with assessment a minority use case](ai-virtual-patients-hpe-use-case-range.md) — related
 - [Virtual patient simulations show mixed effects: improved diagnostic accuracy in one trial, no advantage over video teaching in another, and short-lived knowledge gains](virtual-patients-mixed-psychiatry.md) — related
+- [Immediate feedback combined with reflection improved diagnostic accuracy on training cases versus outpatient clinic attendance or lecture](immediate-feedback-reflection-diagnostic-accuracy-training-cases.md) — related

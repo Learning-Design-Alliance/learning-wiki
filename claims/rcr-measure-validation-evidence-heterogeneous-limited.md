@@ -75,3 +75,4 @@ Review synthesis of validity evidence: most validity evidence was content or fac
 - [Retest reliability may be more appropriate than alpha for knowledge tests, but requires a testing interval without learning](retest-reliability-knowledge-tests.md) — related
 - [All 6 instruments received only moderate-quality GRADE evidence due to single-study evidence, limited cross-context validation, and absent temporal stability data](moderate-grade-evidence-ethics-teaching-instruments.md) — related
 - [Only 16% of validated measures examined construct validity; none tested criterion validity](few-measures-construct-validity-none-criterion.md) — related
+- [Assessment of RI teaching effectiveness relies predominantly on custom in-house surveys, with validated measures used in a minority of sources](ri-teaching-assessment-in-house-surveys.md) — related

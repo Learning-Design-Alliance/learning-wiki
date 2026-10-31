@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../strategies/ants-rater-training-and-revalidation-strategy.md
+---
+
+# Revision history: [strategies/ants-rater-training-and-revalidation-strategy](../strategies/ants-rater-training-and-revalidation-strategy.md)
+
+### 2026-10-31 · ingest · process:wiki-ingest
+Ingested from pmc-10961570 (Development and applications of the Anaesthetists' Non-Technical Skills behavioural marker system: a systematic review.) via eval_harness.py + ingest_extractions.py

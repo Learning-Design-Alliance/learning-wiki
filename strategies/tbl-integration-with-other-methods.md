@@ -51,6 +51,8 @@ The authors recommend integrating TBL with other teaching methods such as Proble
 - [Align teaching method with competency gap and prioritize TBL for communication-focused courses](align-method-to-competency-gap-tbl-communication.md)
 - [Integrate innovative instructional approaches (gamification, VR/AR, robotic coding, STEM) and out-of-school settings into PBL](integrate-innovative-approaches-into-pbl.md)
 - [Teachers can combine educational technologies, or use non-technology-based exploratory learning activities before an ITS, to leverage the combination effect](teachers-combine-technologies-for-combination-effect.md)
+- [Adopt TBL preferentially for theoretical knowledge outcomes in medical education, applied flexibly by context](adopt-tbl-for-theoretical-outcomes-medical-education.md)
+- [Combine CBL and PBL approaches in clinical teaching settings to target both theory and practical outcomes](combine-cbl-pbl-clinical-teaching.md)
 
 ## Examples
 -

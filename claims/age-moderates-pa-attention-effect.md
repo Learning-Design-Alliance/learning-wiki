@@ -62,3 +62,4 @@ Review's discussion of Caterino & Polak (1999), a school experiment with 177 chi
 - [The effect of a single exercise bout on children's short-term memory depends on an interaction of time, age, and exercise type.](time-age-exercise-interaction-stm.md) — related
 - [Physical activity, including brief aerobic exercise sessions, improves children's selective attention](physical-activity-improves-children-selective-attention.md) — related
 - [Feedback features shift with age: scaffolds (prompts, audio, physical demonstrations) cluster in ages 3-7 while written and paper-based feedback appears only from age 8](feedback-features-tailored-by-age.md) — related
+- [Acute physical activity improves mathematics performance in school-aged youth (Hedge's g = 0.29 multivariate)](acute-physical-activity-improves-mathematics-performance.md) — related

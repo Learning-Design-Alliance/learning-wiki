@@ -53,3 +53,6 @@ Ozgonul (2017) compared TBL and lecture-based instruction in a medical ethics cl
 - [Two controlled studies found significantly higher examination scores and satisfaction in TBL groups compared with traditional lecture-based instruction](tbl-exam-scores-higher-than-lecture-two-studies.md) — related
 - [In a randomised trial of 80 first-year postgraduate oncology trainees, CBL produced significantly higher examination scores and satisfaction than traditional lecture-based learning, though confidence intervals crossed the null for examination results](bi-rct-cbl-higher-posttest-scores-satisfaction.md) — related
 - [Student preference for CBL, PBL or TBL over traditional teaching was reported in 15 of 22 studies (68.1%), but only two studies used a controlled comparison with lecture](preference-over-lecture-15-studies-only-two-controlled.md) — related
+- [TBL in clinical disciplines is associated with increased knowledge acquisition in many studies, but findings on long-term knowledge retention are contradictory](tbl-clinical-knowledge-acquisition-mixed-retention.md) — related
+- [Evidence on TBL's long-term knowledge retention is mixed](tbl-retention-mixed.md) — reports the opposite
+- [TBL outperforms lecture-based learning on short-term cognitive outcomes such as theoretical exam performance](tbl-superior-lecture-short-term-cognitive.md) — related

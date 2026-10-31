@@ -53,3 +53,4 @@ Funnel plot analysis and Egger's test for theoretical knowledge outcomes reveale
 - No publication bias detected across included studies in the TBL-LBL meta-analysis — related
 - Publication bias is absent for theoretical scores but present for clinical analysis skills — related
 - Publication bias is present in studies of theoretical scores comparing 3D + PBL with LBL — related
+- Evidence quality is limited: high risk of bias in allocation concealment and blinding, small samples, subjective outcome measures, and limited generalizability — related

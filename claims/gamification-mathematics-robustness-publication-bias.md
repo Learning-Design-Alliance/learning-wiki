@@ -57,3 +57,4 @@ Publication-bias assessment within the meta-analysis: an Egger-type meta-regress
 - Pooled effects are robust in sensitivity analyses, but 10 of 13 studies carry serious risk of bias and publication bias is indicated — related
 - Sensitivity and publication-bias analyses support the robustness of the pooled accuracy estimate — related
 - Publication bias tests found no statistically significant evidence of publication bias — related
+- The meta-analysis results are statistically stable under sensitivity analysis and show no evidence of publication bias — related

@@ -68,3 +68,4 @@ The review synthesizes that "there was an overall weak and negative correlation 
 - [A systematic search identified six studies of performance metrics for robotic hysterectomy, revealing a lack of standardized and validated metrics specific to the procedure.](robotic-hysterectomy-metrics-systematic-review-six-studies.md) — related
 - [Included studies demonstrated mixed evidence of construct validity, with some metrics distinguishing skill levels but others failing to do so.](mixed-construct-validity-robotic-hysterectomy-metrics.md) — related
 - [Only two of the included studies demonstrated predictive validity of their metrics for live robotic hysterectomy performance.](limited-predictive-validity-two-studies.md) — related
+- [Automated video metrics correlate with validated expert-based assessment tools](automated-video-metrics-correlate-with-validated-tools.md) — related

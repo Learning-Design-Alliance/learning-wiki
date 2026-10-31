@@ -49,3 +49,4 @@ Pairwise meta-analysis found "no significant difference in the average item disc
 - [ChatPDF.com generates more difficult and discriminating MCQs than ChatGPT 3.5 and ChatGPT 4](chatpdf-com-more-difficult-discriminating-mcqs.md) — related
 - [No significant difference in accuracy between ChatGPT 3.5 and Bard 1.0 generated MCQs](chatgpt-35-bard-accuracy-no-difference.md) — related
 - [Exploratory analysis found item difficulty differed across sources, driven by the Google Gemini versus NLE contrast](item-difficulty-differs-across-sources-gemini-nle.md) — related
+- [A post-search study found no significant difference in item difficulty between AI- and human-generated MCQs, but higher discriminatory power for human questions](laupichler-difficulty-equal-discrimination-human-higher.md) — related

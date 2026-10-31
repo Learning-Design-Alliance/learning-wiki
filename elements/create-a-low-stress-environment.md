@@ -13,7 +13,7 @@ generated:
 # Create a Low-Stress Environment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (6 for, 2 mixed) · 9 studies (6 review, 1 causal, 1 quant-synthesis, 1 associational), `q1`–`q3` · 2 of 9 report an effect size · 7 claims rest on one study
+> **Evidence** · 9 claims (7 for, 2 mixed) · 10 studies (7 review, 1 causal, 1 quant-synthesis, 1 associational), `q1`–`q3` · 2 of 10 report an effect size · 8 claims rest on one study
 
 ## Description
 Create a low-stress environment is the element of designing routines, norms, and spaces that reduce unnecessary anxiety during learning.
@@ -30,6 +30,7 @@ Create a low-stress environment is the element of designing routines, norms, and
 - [Strong early-warning monitoring systems paired with strong norms and routines help students recover emotionally and engage academically](../claims/early-warning-systems-norms-routines-support-recovery.md) [~W]
 - [Studying flashcards in pairs raised negative affect in Experiment 1, but not in Experiment 2, which added an icebreaker and relaxed feedback rules](../claims/paired-flashcards-negative-affect-icebreaker.md) [+W]
 - [Lower-than-average math ability, low working memory capacity, susceptibility to public embarrassment, and a nonsupportive teacher are proposed risk factors for developing math anxiety](../claims/risk-factors-for-developing-math-anxiety.md) [~W]
+- [Inducing a high-stress environment during healthcare simulation is generally associated with impaired performance](../claims/high-stress-simulation-impairs-performance.md) [+W]
 
 ## The evidence by question
 

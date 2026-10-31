@@ -57,3 +57,5 @@ The review's synthesis of 15 included studies (two RCTs, one quasi-experimental,
 - [Teams and teamwork is the most frequently developed IPEC core competency in interprofessional education, identified in 65 instances across 62 studies](ipe-teams-teamwork-most-frequent-competency.md) — related
 - [NTS training programs in ICUs are associated with improved teamwork, situational awareness, leadership and communication behaviors, with varying evidence certainty](nts-training-icu-improves-teamwork-behaviors.md) — related
 - [Only two studies evaluated learning outcomes, with small improvements and very low to moderate certainty](nts-training-icu-learning-outcomes-limited.md) — related
+- [Post-assessment debriefing supported positive effects on non-technical skills ability in four studies](debriefing-positive-effect-on-nts-ability.md) — related
+- [SBL is associated with wider clinical performance benefits including self-confidence, self-efficacy, clinical reasoning and teamwork](sbl-wider-clinical-performance-benefits.md) — related

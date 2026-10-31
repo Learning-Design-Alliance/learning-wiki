@@ -79,3 +79,4 @@ Critical-thinking theme: participants wanted AI to challenge them to ask better 
 - [Learning through the experience of solving problems can build both content knowledge and thinking strategies](problem-experience-builds-content-and-thinking-strategies.md) — related
 - [Generative learning involves mentally reorganizing and integrating to-be-learned information with prior knowledge, enabling application to new situations](generative-learning-reorganizing-integrating-prior-knowledge.md) — related
 - [Simulated student reasoning shifted teachers from task-solvers to teacher-reasoners who interpreted misconceptions as student logic](simulated-student-reasoning-pck-rehearsal.md) — related
+- [Interventions with high or very high significance of critical thinking applied mainly problem-solving methods and involved pupils' activity](problem-solving-high-critical-thinking-significance.md) — related

@@ -48,6 +48,7 @@ The review recommends future directions for dental education, including explorin
 
 - [Augmented Reality (AR) for Medical Education and Training](augmented-reality-ar-for-medical-education-and-training.md)
 - [Prefer mixed reality with hand tracking over head-mounted-display controllers for gesture-simulation training](mr-hand-tracking-over-hmd-controllers.md)
+- [Advocate and popularize emerging teaching methods as routine dental teaching, while combining them with traditional models to offset cost and time weaknesses](promote-emerging-methods-routine-dental-teaching.md)
 
 ## Examples
 -

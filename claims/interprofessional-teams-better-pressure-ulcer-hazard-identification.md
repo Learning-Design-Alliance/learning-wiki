@@ -47,5 +47,5 @@ The review reports, from Clay et al.'s mandatory two-part simulation with 144 me
 ## Related Claims
 - [A competency-based pressure ulcer curriculum improved competency scores across curriculum phases](competency-based-pressure-ulcer-curriculum-score-gains.md) — related
 - [Medical students and interns poorly identified pressure ulcer risk in a patient-safety simulation](poor-pressure-ulcer-risk-identification-room-of-horrors.md) — related
-- [Online and interprofessional wound care courses increased students' subjective knowledge and were well accepted](online-interprofessional-courses-subjective-knowledge-gains.md) — related
+- [Online and interprofessional wound care courses increased students' subjective knowledge, and the online courses were well accepted](online-interprofessional-courses-subjective-knowledge-gains.md) — related
 - [Only nine studies of educational interventions for chronic wound care targeting medical students were identified in a scoping review of six databases](nine-studies-medical-student-wound-care-education.md) — related

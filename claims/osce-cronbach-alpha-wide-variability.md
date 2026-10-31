@@ -48,3 +48,4 @@ Descriptive synthesis of all 26 alpha values from 23 studies. The wide range (0.
 ## Related Claims
 - [OSCE designs with 5-10 stations achieve good internal consistency (Cronbach's alpha = 0.83), outperforming designs with fewer than 5 or more than 10 stations](osce-5-10-stations-optimal-reliability.md) — related
 - [When station number varies widely, duration time per station is not a major factor affecting OSCE internal consistency](osce-duration-not-major-factor-when-station-number-varies.md) — related
+- [A six-station sport medicine OSCE showed high reliability and construct validity, with senior residents outscoring junior residents](dwyer-sem-osce-reliability-validity.md) — a narrower finding that bears on this claim

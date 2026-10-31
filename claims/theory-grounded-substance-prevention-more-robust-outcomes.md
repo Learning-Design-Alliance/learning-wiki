@@ -48,3 +48,4 @@ Narrative synthesis (Section 3.2.1) of the scoping review's 43 included studies,
 - [Adolescent substance use is associated with low academic outcomes, delinquency, and risky sexual behaviors, per cited prior work](adolescent-substance-use-negative-consequences.md) — related
 - [No school-based intervention model for students already using substances was found: all examined models were preventive or protective in approach](no-corrective-school-substance-model-exists.md) — related
 - [School-only substance use interventions such as HeadOn and SUPEP improved knowledge and attitudes without corresponding behavioural change](school-only-interventions-knowledge-attitude-no-behaviour-change.md) — related
+- [Health topics of school health-education interventions shifted over four decades and varied by region](health-topic-trends-over-decades.md) — related

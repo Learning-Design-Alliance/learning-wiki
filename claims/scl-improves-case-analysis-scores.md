@@ -48,3 +48,4 @@ Meta-analysis of 8 RCTs (504 students) reporting case analysis scores. Found SCL
 - [The SCL model improves teaching effects including learning interest, self-learning ability, and clinical thinking ability compared to LBL](scl-improves-teaching-effects.md) — a broader claim this one bears on
 - [The SCL model improves theoretical knowledge scores compared to LBL in medical education](scl-improves-theoretical-knowledge-scores.md) — related
 - [The SCL model improves skill scores compared to LBL in medical education](scl-improves-skill-scores.md) — related
+- [PBL significantly improves clinical skill scores compared with lecture-based learning in medical education](pbl-improves-clinical-skill-scores-versus-lbl.md) — related

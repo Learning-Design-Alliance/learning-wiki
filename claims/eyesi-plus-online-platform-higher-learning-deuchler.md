@@ -49,3 +49,4 @@ Pre-test/post-test study of 86 medical students reviewed within the systematic r
 - [CLT-aligned e-learning modules improved cognitive load profiles and OSCE performance in simulation-based medical training (review-attributed to Gutierrez et al., 2023)](clt-aligned-e-learning-modules-improve-osce-performance.md) — related
 - [Plastic cannister designs are the most common direct ophthalmoscopy simulation model in the literature](plastic-cannister-most-common-do-simulation-model.md) — related
 - [Included studies report consistent weakness in advanced examination skills such as slit-lamp use and ophthalmoscopy](weak-advanced-examination-skills.md) — related
+- [Simulation-based training improved PPE donning/doffing performance and reduced cognitive load from pre-test to post-test](simulation-ppe-donning-doffing-pre-post-gains.md) — related

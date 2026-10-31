@@ -49,3 +49,4 @@ The review's synthesis of included studies found that when traditional learning 
 - [Online simulation training costs as little as 29% of mannequin-based simulation training with no quantitative difference in learning](online-simulation-29-percent-cost.md) — related
 - [Virtual patients show larger advantages over passive traditional learning (lectures, reading) than over active learning](vp-passive-versus-active-comparison.md) — related
 - [The review reports that high-fidelity simulation outperformed case-based discussion for clinical reasoning and leadership in paediatric emergencies](hfs-superior-case-based-discussion-reasoning.md) — related
+- [LMIC SBE most commonly uses low-technology modalities, chiefly mannequins, scenario-based simulation, and synthetic part-task trainers](lmic-sbe-low-technology-modalities-prevalent.md) — related

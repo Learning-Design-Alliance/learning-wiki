@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 150 claims (73 for, 61 mixed, 16 against) · 79 studies (26 review, 17 causal, 13 quant-synthesis, 9 qualitative, 9 design, 4 theoretical, 1 associational), `q1`–`q4` · 17 of 79 report an effect size · 145 claims rest on one study
+> **Evidence** · 152 claims (74 for, 62 mixed, 16 against) · 81 studies (28 review, 17 causal, 13 quant-synthesis, 9 qualitative, 9 design, 4 theoretical, 1 associational), `q1`–`q4` · 17 of 81 report an effect size · 147 claims rest on one study
 
 ## Description and scope
 
@@ -177,9 +177,11 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 - [Competency-based progression simulation combined with e-learning yields higher communication competence than e-learning alone or standard simulation](../claims/competency-based-progression-simulation-communication.md) [~W]
 - [A social robotic LLM-enhanced virtual patient was rated higher than a conventional computer-based platform for authenticity and learning effect](../claims/robotic-vp-higher-authenticity-than-computer-platform.md) [~W]
 - [High-fidelity simulation particularly enhances core clinical competencies such as CPR, infection control, and diagnostic reasoning](../claims/high-fidelity-simulation-enhances-core-competencies.md) [+W]
-- [VR-based nurse-physician communication team training is non-inferior to live simulation for communication performance and improves interprofessional attitudes](../claims/vr-noninferior-live-simulation-team-communication.md) [+W]
+- [VR-based nurse-physician communication team training produced communication performance and interprofessional-attitude gains similar to live simulation](../claims/vr-noninferior-live-simulation-team-communication.md) [+W]
 - [VR simulation shows signals of benefit for communication training in undergraduate nursing students, especially for self-reported knowledge, self-efficacy, attitudes and confidence](../claims/vr-communication-training-nursing-benefit-signals.md) [+W]
 - [Standardized patients produced higher knowledge scores than high-fidelity simulation, but performance scores did not differ (Tuzer et al. study)](../claims/standardized-patients-vs-high-fidelity-simulator-knowledge.md) [~W]
+- [Comparative ISBTT studies suggest simulation added to training improves collaborative behaviors, with mixed results for modality and interprofessional versus uniprofessional comparisons](../claims/isbtt-comparative-studies-mixed-results.md) [+W]
+- [Virtual standardized patient training improved alcohol screening and brief intervention skills and diagnostic accuracy for depression and PTSD in two RCTs, while a suicide risk assessment RCT found no significant effect](../claims/vsp-training-skills-rct-mixed-results.md) [~M]
 
 ## Examples
 

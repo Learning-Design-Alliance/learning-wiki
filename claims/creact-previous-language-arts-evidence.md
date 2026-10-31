@@ -54,3 +54,4 @@ The article reports, citing Sak & Oz (2009), a one group pretest-posttest study 
 - [Short-term creativity interventions can be effective in changing creativity positively](short-term-interventions-change-creativity.md) — a broader claim this one bears on
 - Critical thinking gains were significant for creative critical thought but not for logic and reasoning — related
 - [Girls in the online E-5C-guided clubs showed significant pretest-to-posttest gains in creativity, critical thinking, and overall computational thinking, but not in algorithmic thinking, cooperativity, or problem solving](e5c-ct-survey-significant-gains.md) — related
+- [PBL improves EFL students' critical thinking disposition, creativity, and language scores, with noted gender differences](pbl-improves-efl-critical-thinking.md) — related

@@ -48,3 +48,4 @@ Randomised controlled trial of 34 medical students reviewed within the systemati
 - [Deuchler et al. found learning occurs with EyeSi simulator training but is higher when combined with an online theory platform](eyesi-plus-online-platform-higher-learning-deuchler.md) — related
 - [Simulation training improves fundus identification rate and time compared with simulated-patient-only training in a randomised trial](wu-3d-printed-eye-model-improves-fundus-identification.md) — related
 - [Plastic cannister designs are the most common direct ophthalmoscopy simulation model in the literature](plastic-cannister-most-common-do-simulation-model.md) — related
+- [Candidates receiving additional musculoskeletal training (lectures, workshops, video, spaced education, or SCIM) scored higher or similar on OSCEs compared with controls](additional-msk-training-osce-higher-or-similar.md) — related

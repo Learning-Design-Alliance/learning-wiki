@@ -68,3 +68,4 @@ Publication-bias analyses using multilevel Egger's regression and power-enhanced
 - [Publication bias is present for theoretical knowledge outcomes but not for clinical practice performance in SP+CBL meta-analysis.](sp-cbl-publication-bias-asymmetric.md) — related
 - Publication bias tests found no statistically significant evidence of publication bias — related
 - [Publication bias is present in the flipped classroom meta-analysis evidence base](publication-bias-flipped-classroom-meta-analysis.md) — related
+- Funnel plots suggest potential publication bias across the meta-analysis outcomes — related

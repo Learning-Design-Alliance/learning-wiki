@@ -68,3 +68,4 @@ The review attributes peer-feedback hesitation to Burgess et al. and Lerchenfeld
 - Pre-clinical TBL research is dominated by first-year, in-person implementations, with most studies using classical rather than modified TBL — related
 - Reporting of the 4S framework in application design and of peer evaluation is limited: only 3 of 37 studies used 4S principles and about one-third reported peer evaluation — related
 - [Students perceived peer group feedback as contextually rich but sometimes subjective, and ChatGPT-4o feedback as more objective and well structured but occasionally lacking contextual sensitivity](student-perceptions-human-contextual-ai-objective-structured.md) — related
+- [Most implementations of TBL in clinical disciplines are modified versions missing one or more TBL steps, with the peer-review step most often omitted](tbl-clinical-disciplines-mostly-modified-implementation.md) — related

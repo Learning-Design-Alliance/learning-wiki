@@ -9,6 +9,7 @@ generated:
   at: 2026-10-12
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-31
 recheck_by: 2029
 sources:
   - id: marcin-jukiewicz-and-michał-wyrwa-2026
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`–`q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` AI effectiveness often decreases for complex assignments requiring broader context or subjective judgment, while it performs very well with short, clearly formulated answers. [→ Marcin Jukiewicz and Michał Wyrwa 2026](#marcin-jukiewicz-and-micha-wyrwa-2026)
@@ -77,3 +78,6 @@ The review reports, from one university chemistry study in its evidence table, t
 - [ASAG and AEG systems differ on answer length, grading focus, and question openness](asag-content-focus-versus-aeg-style.md) — a narrower finding that bears on this claim
 - [LLM grading performance is markedly worse for open-ended history and philosophy questions than for content-based astronomy and astrobiology questions](llm-grading-worse-on-open-ended-questions.md) — a narrower finding that bears on this claim
 - [LLMs can grade short-answer reading comprehension questions with accuracy comparable to human experts, supporting formative assessment grading](llm-grading-reading-comprehension-expert-comparable.md) — related
+- [Only 40% of ChatGPT-generated dermatology board-style questions were applicable for exams](dermatology-mcqs-40-percent-applicable.md) — a narrower finding that bears on this claim
+- [ChatGPT-4's incorrect MRCP Part 1 answers showed no significant difference between factual recall and complex reasoning question types](mrcp-error-types-factual-recall-vs-reasoning-null.md) — a narrower finding that bears on this claim
+- [Longer question text impaired GPT-3.5's performance but not GPT-4's, and both versions performed worse on difficult questions](question-length-and-difficulty-effects.md) — a narrower finding that bears on this claim

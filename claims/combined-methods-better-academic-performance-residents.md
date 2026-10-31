@@ -46,6 +46,7 @@ Authors' interpretation in the discussion of their NMA findings; they explicitly
 
 ## Related Claims
 - [Cluster analysis identifies PBL + WeChat, TBL and CBL + WeChat as most promising for theoretical and practical performance with low dissatisfaction](cluster-analysis-pbl-wechat-tbl-cbl-wechat-most-promising.md) — related
-- [Multiple new teaching methods (PBL + CBL, CBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on theoretical scores](new-methods-outperform-lbl-theoretical-scores.md) — related
+- [Eight new teaching methods (PBL + CBL, PBL + CP, CBL + WeChat, PBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on residents' theoretical scores](new-methods-outperform-lbl-theoretical-scores.md) — related
 - [TBL alone and TBL combined with other methods both outperform LBL, with no significant difference between the two TBL formats](tbl-alone-versus-blended-no-significant-difference.md) — related
 - [PBL combined with WeChat outperforms LBL in theoretical test scores and reduces dissatisfaction among Chinese internal medicine residents](pbl-wechat-outperforms-lbl-theoretical-scores-residents.md) — a narrower finding that bears on this claim
+- [Students learning CBL combined with other methods (e.g., CBL & PBL) reportedly score higher than those learning with CBL alone, per studies the review cites](combined-cbl-pbl-outperforms-cbl-alone-cited.md) — a narrower finding that bears on this claim

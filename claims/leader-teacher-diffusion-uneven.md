@@ -80,3 +80,4 @@ CPRE's account of the Leader Teacher diffusion strategy: success depended on sel
 - [Insights from the National Writing Project's teacher-leader preparation are presented as relevant for facilitating professional learning in all areas of instruction](nwp-insights-generalize-across-instruction-areas.md) — related
 - [Literacy coaching responsibilities fall into two major areas: teacher mentoring and literacy program advocacy](coaching-responsibilities-mentoring-and-advocacy.md) — related
 - [Most teachers report precise identification of OER sources plus at least two diffusion improvements when implementing a diffusion strategy](oer-diffusion-strategy-implementation-self-reports.md) — related
+- [Peer-to-peer approaches were used in 54 of the tested interventions, as main or complementary strategy](peer-to-peer-approach-54-interventions.md) — related

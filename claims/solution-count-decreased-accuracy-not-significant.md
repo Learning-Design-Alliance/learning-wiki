@@ -47,4 +47,4 @@ Ordinal logistic regression of adjusted accuracy on solution count. Table III pr
 
 ## Related Claims
 - [ChatGPT-4.0 outperformed ChatGPT-3.5 and Bard on the AAMC SJT in both raw and adjusted accuracy](chatgpt-4-outperforms-3-5-and-bard-aamc-sjt.md) — related
-- [LLM accuracy increases monotonically with prompt sophistication across semantically equivalent medical questions, with Low Literacy users scoring significantly below Prompt Engineer users](prompt-privilege-monotonic-accuracy-gap-medqa.md) — related
+- [On MedQA, GPT-5.4-mini's accuracy increases monotonically with prompt sophistication across semantically equivalent questions, with generated Low Literacy prompt variants scoring significantly below Prompt Engineer variants](prompt-privilege-monotonic-accuracy-gap-medqa.md) — related

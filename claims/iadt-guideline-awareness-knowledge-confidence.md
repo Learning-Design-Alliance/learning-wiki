@@ -50,3 +50,4 @@ Review discussion attributing findings to included studies: Maloney et al. found
 - [Practitioners' self-assessment of their TDI knowledge usually accurately reflects their measured knowledge](self-assessment-reflects-tdi-knowledge.md) — related
 - [Exposure to traumatic dental injuries in practice is usually but not consistently associated with higher practitioner knowledge](tdi-exposure-knowledge-mixed.md) — related
 - [Evidence on whether attending TDI educational courses increases practitioner knowledge is inconclusive](tdi-courses-knowledge-inconclusive.md) — related
+- [Introduction of local guidelines was followed by improved SHO confidence in managing corneal abrasions](guidelines-improved-corneal-abrasion-confidence.md) — a narrower finding that bears on this claim

@@ -59,3 +59,4 @@ ANOVA on the global composite of four OSCE rating items (coefficient alpha = 0.8
 - [Second-year medical students improve their intercultural and interprofessional communication performance between first and second run-throughs of MPathic-VR scenarios](mpathic-vr-repeat-runthrough-improvement.md) — related
 - Experimental groups differed significantly on prior VR experience and gender composition, which were used as covariates — related
 - [No longitudinal studies or RCTs demonstrate that AI-acquired skills transfer to the operating room](no-longitudinal-evidence-ai-skill-transfer-or.md) — reports the opposite
+- [Faculty and standardized patient evaluations of student professionalism differed significantly in relationship-building and information-sharing domains](faculty-sp-professionalism-score-discrepancies.md) — related

@@ -58,3 +58,6 @@ Publication bias analyses (funnel plot, Egger's regression, trim-and-fill) withi
 - Funnel-plot asymmetry in the TBL meta-analyses is not supported by formal tests of publication bias — reports the opposite
 - Funnel plot and Egger's test show no statistical evidence of publication bias for the composite household-disadvantage selection effect — related
 - No evidence of publication bias in the SDL meta-analysis — related
+- Sensitivity analysis and funnel plots indicated the meta-analysis results were stable and free of significant publication bias — related
+- Funnel plots suggest potential publication bias across the meta-analysis outcomes — related
+- Publication bias tests provide mixed evidence but overall suggest bias is unlikely — related

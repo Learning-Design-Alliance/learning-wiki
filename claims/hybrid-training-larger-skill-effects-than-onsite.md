@@ -47,3 +47,4 @@ Subgroup analysis of nine studies (15 comparisons; 1249 participants) examining 
 ## Related Claims
 - [Community nurse training programs improve nurses' knowledge, with significantly different effect sizes across hybrid, online and onsite delivery subgroups](cntps-improve-nurse-knowledge-delivery-subgroups.md) — related
 - [Onsite training skill effects are larger at immediate post‐intervention than at follow‐up, while hybrid skill effects do not differ by assessment point](onsite-skill-effects-larger-immediate-post-intervention.md) — related
+- [Combined implementation-strategies–delivery-arrangements interventions improved knowledge and skills in two of three RCTs, with percentage score differences from 4.5% to 30%](combined-implementation-delivery-arrangements-improvements.md) — related

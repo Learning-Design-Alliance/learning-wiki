@@ -55,3 +55,4 @@ Meta-analysis of 7 studies testing GPT-4 on dental licensing examinations using 
 - [Newer LLM versions generally outperformed older versions on dental examination questions](newer-llms-outperform-older-dental-exams.md) — a broader claim this one bears on
 - [GPT-4's performance on dental licensing examinations does not differ significantly between English-speaking and non-English-speaking countries](gpt-4-performance-consistent-across-regions-dental-exams.md) — related
 - [LLMs perform worse on dental licensing examinations than on medical licensing examinations](llms-perform-worse-dental-than-medical-licensing-exams.md) — related
+- [ChatGPT models achieve a pooled accuracy of 70.1% on national health licensing examinations](chatgpt-pooled-accuracy-70-percent-licensing-exams.md) — related

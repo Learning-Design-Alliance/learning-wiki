@@ -70,3 +70,4 @@ The commentary states that "research on group testing versus individual testing 
 - [Classroom testing (quizzing) significantly boosts student academic achievement to a medium extent (g = 0.499).](classroom-quizzing-medium-effect-achievement.md) — a broader claim this one bears on
 - [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](desirable-difficulties-enhance-learning.md) — a broader claim this one bears on
 - [The classroom testing effect transfers to mismatched test formats, but consistent quiz–exam formats yield a significantly larger effect (g = 0.531 vs. g = 0.399).](format-consistency-moderates-classroom-testing-effect.md) — related
+- [Evidence on TBL's long-term knowledge retention is mixed](tbl-retention-mixed.md) — related

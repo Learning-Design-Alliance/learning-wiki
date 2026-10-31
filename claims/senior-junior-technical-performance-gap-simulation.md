@@ -49,3 +49,4 @@ Descriptive synthesis of technical performance outcomes across included studies 
 - [Seniors outperformed juniors in determining taxonomy and method-technique, but not in self-efficacy or strategy determination](seniors-better-taxonomy-method-technique.md) — related
 - [Senior kindergarten teachers integrated on- and off-computer activities to a significantly higher extent than junior kindergarten teachers](senior-teachers-higher-technology-integration.md) — related
 - [Supervised resident training reduced operative time after 30–50 cases, approximating senior benchmarks](supervised-resident-training-reduces-operative-time-30-50-cases.md) — related
+- Studies finding unaltered performance under simulation stress tended to involve more experienced participants and smaller samples — related

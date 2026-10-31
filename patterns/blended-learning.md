@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 37 claims (23 for, 14 mixed) · 27 studies (10 quant-synthesis, 6 associational, 4 review, 2 causal, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 9 of 27 report an effect size · 35 claims rest on one study
+> **Evidence** · 39 claims (23 for, 16 mixed) · 29 studies (11 quant-synthesis, 6 associational, 5 review, 2 causal, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 9 of 29 report an effect size · 37 claims rest on one study
 
 ## Description and scope
 
@@ -142,6 +142,8 @@ This pattern is scoped to dividing a course between online and in-person work. I
 - [Lack of physical interaction between students, peers, and educators was reported as a disadvantage of digital learning, and blended approaches were identified as a possible solution](../claims/physical-interaction-loss-blended-solution.md) [+W]
 - [Blended learning or flipped classroom models may combine e-learning and traditional modalities](../claims/blended-flipped-classroom-anaesthesia.md) [+W]
 - [Blended teaching shows no significant difference in multiple-choice question scores compared to traditional teaching](../claims/blended-teaching-no-significant-difference-mcq-scores.md) [~W]
+- [Blended learning improved manual skills in preclinical endodontics but showed no significant difference in conceptual knowledge](../claims/blended-learning-manual-skills-not-conceptual-knowledge.md) [~W]
+- [Digital effectiveness depends on the skill taught: virtual training matched face-to-face for suturing and knot-tying, but computer-based learning fell short for CPR](../claims/skill-type-moderates-digital-effectiveness-suturing-cpr.md) [~W]
 
 ## Examples
 
@@ -149,6 +151,7 @@ This pattern is scoped to dividing a course between online and in-person work. I
 - [Semester-long blended course design requiring first-year engineering students to collaborate and inquire](../designs/blended-first-year-engineering-collaborative-inquiry-course.md)
 - [Flipped classroom as a blended, student-centered instructional model expanding active learning into class time](../designs/flipped-classroom-blended-model-theory.md)
 - [Provide recorded lectures and web-based course management systems to support attendance](../strategies/recorded-lectures-moodle-support-attendance.md)
+- [Design PPS training as blended learning with short, concise online modules and in-person workshops focused on role-play skills practice](../strategies/blended-learning-pps-training-design.md)
 
 ## Key Sources
 - Graham, C. R. (2006). Blended learning systems. In C. J. Bonk & C. R. Graham (Eds.), *The handbook of blended learning*. Pfeiffer.

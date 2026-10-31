@@ -48,3 +48,4 @@ Thematic synthesis of nine of ten included studies in this scoping review, integ
 - [Linguistic and cultural barriers are the most frequently mentioned challenges CALD students face in SBL](linguistic-cultural-barriers-sbl-cald-students.md) — related
 - [CALD students showed significantly greater confidence and skill gains from SBL than domestic students in comparative studies](sbl-greater-gains-cald-than-domestic-students.md) — related
 - [Exclusive use of white manikins heightened CALD students' sense of underrepresentation in SBL](white-manikins-underrepresentation-cald-students.md) — related
+- [SBL is associated with wider clinical performance benefits including self-confidence, self-efficacy, clinical reasoning and teamwork](sbl-wider-clinical-performance-benefits.md) — a broader claim this one bears on

@@ -51,3 +51,4 @@ Moderator analysis of type of testing within the meta-analysis; the article repo
 - [Presenting related material contiguously in space and time yields large learning benefits](contiguity-spatial-temporal-large-learning-benefits.md) — a broader claim this one bears on
 - [Spatial and temporal contiguity effects do not differ significantly in mean magnitude](spatial-temporal-contiguity-equivalent-magnitudes.md) — related
 - [Contiguity effects show no statistically reliable difference between static and dynamic presentation of visual information](static-dynamic-presentation-no-moderation.md) — related
+- [Sub-group analysis: observational studies show a larger OBE advantage (MD 6.89) than quasi-experimental studies (MD 3.79), with no statistically significant difference between designs](obe-subgroup-observational-versus-quasi-experimental.md) — related

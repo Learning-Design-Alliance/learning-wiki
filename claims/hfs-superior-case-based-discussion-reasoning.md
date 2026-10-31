@@ -63,3 +63,5 @@ Narrative review assertion attributed to the included primary studies (Moliterno
 - [Very high majorities of students rated high-fidelity simulation as enhancing learning, clinical reasoning, decision-making, and value](coffey-hfs-student-ratings.md) — related
 - [The included studies do not reflect which intervention is better or which favours the acquisition and retention of knowledge more effectively.](studies-do-not-reflect-which-intervention-is-better.md) — reports the opposite
 - [Immersive VR assessments of nursing and medical students are concentrated in settings that are difficult to replicate, especially emergencies](vr-assessments-concentrated-in-difficult-to-replicate-emergency-settings.md) — related
+- [High-fidelity SBL does not outperform low-fidelity SBL on knowledge and skill gains, per one study the review cites](high-fidelity-not-superior-to-low-fidelity-sbl.md) — reports the opposite
+- [Simulation-based learning consistently improves nursing students' knowledge and skills acquisition across diverse designs and simulation topics](sbl-improves-nursing-knowledge-skills-acquisition.md) — related

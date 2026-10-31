@@ -50,3 +50,4 @@ The review's narrative synthesis of its seven VR studies states this qualificati
 - [Several included studies found haptic VR training equivalent rather than superior to conventional dental training](ir-dental-equivalence-mixed-findings.md) — related
 - [No significant differences between VR-based and conventional training in operational understanding, technical skills, or system usability](no-difference-operational-skills-usability.md) — related
 - [VR training's effect on OSATS-assisted skill acquisition shows conflicting evidence](vr-osats-conflicting-evidence.md) — related
+- [Skills trained in a haptic simulator were not transferable to a non-haptic simulator in one randomized trial](haptic-trained-skills-not-transferable-non-haptic-simulator.md) — related

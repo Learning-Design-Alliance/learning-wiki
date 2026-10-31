@@ -47,4 +47,4 @@ The review reports, from van Zuilen et al.'s four-year mandatory competency-base
 ## Related Claims
 - [Medical students and interns poorly identified pressure ulcer risk in a patient-safety simulation](poor-pressure-ulcer-risk-identification-room-of-horrors.md) — related
 - [Interprofessional teams identified pressure ulcer risks better than individuals in a simulation study](interprofessional-teams-better-pressure-ulcer-hazard-identification.md) — related
-- [Online and interprofessional wound care courses increased students' subjective knowledge and were well accepted](online-interprofessional-courses-subjective-knowledge-gains.md) — related
+- [Online and interprofessional wound care courses increased students' subjective knowledge, and the online courses were well accepted](online-interprofessional-courses-subjective-knowledge-gains.md) — related

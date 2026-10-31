@@ -49,3 +49,4 @@ Subgroup analysis of GPT-4 performance by examination origin country. The review
 - [GPT-3.5 achieves an integrated accuracy of 54% on dental licensing examinations](gpt-3-5-integrated-accuracy-54-percent-dental-licensing.md) — related
 - [GPT-3.5 performs significantly better on dental licensing examinations from English-speaking countries than non-English-speaking countries](gpt-3-5-significantly-better-english-speaking-dental-exams.md) — related
 - [GPT-4 outperforms GPT-3.5 and Bard on dental licensing examinations, achieving an integrated accuracy of 72%](gpt-4-outperforms-gpt-3-5-and-bard-dental-licensing-accuracy.md) — related
+- [GPT-4 performed significantly better on examinations from English-speaking countries (86% vs 80%, P=.02), while GPT-3.5 showed no such difference (P=.72)](gpt4-english-speaking-country-advantage.md) — reports the opposite

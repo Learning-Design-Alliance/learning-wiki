@@ -51,3 +51,4 @@ Subgroup meta-analysis by teaching method for self-directed learning (Table 5). 
 - [TBL significantly improves communication skills while PBL does not](tbl-significant-pbl-not-communication.md) — related
 - [TBL alone and TBL combined with other methods both outperform LBL, with no significant difference between the two TBL formats](tbl-alone-versus-blended-no-significant-difference.md) — related
 - [Cluster analysis identifies PBL + WeChat, TBL and CBL + WeChat as most promising for theoretical and practical performance with low dissatisfaction](cluster-analysis-pbl-wechat-tbl-cbl-wechat-most-promising.md) — related
+- [In first-year medical students, PBL showed no significant difference from non-PBL teaching in critical thinking, problem-solving, or self-directed learning](pbl-null-first-year-medical-students.md) — reports the opposite

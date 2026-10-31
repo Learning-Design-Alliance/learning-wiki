@@ -74,3 +74,4 @@ In class tests using a 'higher MCQ' format with described scenarios (e.g. patien
 - [LLM-generated retrieval practice was practical to deploy and well received, but high correctness rates (about 70% of items at p=1.0) restricted score variance](llm-generated-retrieval-practice-deployable-but-high-accuracy-limits-variance.md) — related
 - [GPT-4o and GPT-5.2 achieve higher accuracy and more fully correct answers on university IVDA multiple-choice questions than the smaller Mistral-7B and DeepSeek-R1 models](gpt-models-outperform-smaller-llms-on-ivda-mcqs.md) — related
 - [Exam questions that GPT-4 answered inconsistently or incorrectly were harder for human examinees, who scored about 63–68% on them versus about 75% on the rest](gpt4-inconsistent-questions-harder-for-students.md) — related
+- [Included studies report ChatGPT-3.5 accuracy from 36% to 77% and GPT-4 accuracy from 64.4% to 100%](accuracy-ranges-35-versus-gpt4-studies.md) — related

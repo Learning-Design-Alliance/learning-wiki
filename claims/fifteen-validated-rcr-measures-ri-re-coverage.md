@@ -53,3 +53,4 @@ Scoping review measure-selection stage: from 18 accessible measures with validat
 - [Most validated RCR measures assess a single learning outcome, with attitudes most common and only four measures testing knowledge](rcr-measures-single-learning-outcome-dominance.md)
 - [Validated RCR measures omit emerging and social-safety topics including EDI, whistleblower protections, AI use in research, predatory journals and open-science practices](validated-rcr-measures-missing-topics-edi-ai-open-science.md)
 - [Mono-disciplinary RCR courses were not more effective than multi-domain courses, contradicting prior reviews](rcr-mono-disciplinary-not-replicated.md) — related
+- [Assessment of RI teaching effectiveness relies predominantly on custom in-house surveys, with validated measures used in a minority of sources](ri-teaching-assessment-in-house-surveys.md) — related

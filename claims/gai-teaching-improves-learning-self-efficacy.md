@@ -53,3 +53,4 @@ Random-effects meta-analysis of seven continuous-variable studies reported in th
 - [GAI-assisted teaching significantly increases student satisfaction with teaching compared with traditional teaching (SMD = 1.52; OR = 5.58)](gai-teaching-increases-student-satisfaction.md) — related
 - [GAI-assisted teaching significantly improves practical examination scores in medical students compared with traditional teaching (SMD = 1.48)](gai-teaching-improves-practical-scores-medical-students.md) — related
 - [GAI-assisted teaching shows no significant effect on critical thinking skills in the continuous-variable analysis, but the single dichotomous-variable study reports a large difference](gai-teaching-critical-thinking-null-continuous.md) — related
+- [GAI-based teaching and traditional teaching produce comparable knowledge acquisition scores in medical students](gai-traditional-comparable-knowledge-acquisition.md) — related

@@ -57,3 +57,4 @@ Narrative synthesis section of the review reporting observed increases in non-te
 - Most included studies carried a high risk of bias or some concerns, particularly for confounding and outcome measurement, limiting certainty — related
 - [Most learner-facing studies of technology-enhanced simulation in laparoscopic training report favorable learner responses, mainly confidence, satisfaction, perceived safety and self-efficacy](simulation-laparoscopic-favorable-perceptions.md) — related
 - Included studies reported improved comfort, confidence and empathy, but used no standardised outcome measures — related
+- [SBL is associated with wider clinical performance benefits including self-confidence, self-efficacy, clinical reasoning and teamwork](sbl-wider-clinical-performance-benefits.md) — a broader claim this one bears on

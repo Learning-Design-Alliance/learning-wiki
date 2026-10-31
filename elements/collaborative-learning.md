@@ -13,7 +13,7 @@ generated:
 # Collaborative Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 19 claims (11 for, 8 mixed) · 24 studies (7 quant-synthesis, 5 review, 4 associational, 3 causal, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 8 of 24 report an effect size · 16 claims rest on one study
+> **Evidence** · 20 claims (12 for, 8 mixed) · 25 studies (7 quant-synthesis, 6 review, 4 associational, 3 causal, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 8 of 25 report an effect size · 17 claims rest on one study
 
 ## Description
 Collaborative learning organizes learners into structured teams that jointly solve problems, complete tasks, and construct shared understanding. The structure matters as much as the grouping: effective designs assign roles, interdependence, and individual accountability rather than simply seating learners together.
@@ -69,6 +69,7 @@ Collaboration supports learning when it forces learners to articulate, defend, a
 - [Visualization support at the planning phase helped collaborating groups report more effective planning and teamwork strategies than groups without it](../claims/visualization-support-planning-improves-group-strategies.md) [+W]
 - [Cooperative and collaborative learning show larger achievement effects than problem-based and peer-led team learning in engineering and technology classrooms](../claims/cooperative-collaborative-larger-effects-than-pbl-peer-led.md) [+W]
 - [Supporting the learning process includes supporting student teamwork, shared learning, and student self-efficacy through standing back and enabling student-led learning](../claims/supporting-learning-process-competencies.md) [+W]
+- [Small interdisciplinary teamwork was the most widely reported teaching strategy, explicitly reported in 62 articles](../claims/small-interdisciplinary-teams-62-articles.md) [+W]
 
 ## The evidence by question
 - *Does working jointly on a task raise achievement over working alone or instruction without group work?* [Collaborative Learning Improves Outcomes](../claims/collaborative-learning-improves-outcomes.md) [+S]

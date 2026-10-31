@@ -52,3 +52,4 @@ Frequency: Felt collaboration among other students in this course 0.09 0.01 *"
 - [The 2020 Post-Secondary Attainment Index is 27 percent, and no race/ethnicity and gender group reaches the 75 percent aspiration benchmark](cps-pai-27-percent-2020.md) — related
 - [The 2021 PAI ranges widely by race/ethnicity and gender, from 11.6% for Black young men to 67.3% for Asian/Pacific Islander young women, and no group reaches the 75% aspiration level](cps-pai-race-gender-disparities.md) — related
 - [Viewing STEM courses as competitive was associated with impostorship and, in turn, lower engagement and grades, especially for first-generation students](competitive-stem-courses-impostorship.md) — reports the opposite
+- [School environment is positively associated with educational aspiration among Indian secondary students (r = .346), motivating participation in school activities](school-environment-educational-aspiration-correlation.md) — related

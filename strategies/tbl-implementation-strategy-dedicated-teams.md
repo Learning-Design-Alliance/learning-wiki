@@ -54,6 +54,7 @@ The authors recommend establishing a dedicated TBL teaching team including exper
 - [Reduce stakes, align question difficulty with exams, and add game-like feedback when implementing TBL to lower student stress](low-stress-tbl-implementation-changes.md)
 - [Mitigate the free-rider phenomenon in TBL through peer assessment and individual accountability](tbl-free-rider-mitigation-peer-assessment.md)
 - [Shift TBL research from endless justification to cumulative, theory-based clarification research using diversified methods](shift-tbl-research-to-clarification.md)
+- [Adopt TBL preferentially for theoretical knowledge outcomes in medical education, applied flexibly by context](adopt-tbl-for-theoretical-outcomes-medical-education.md)
 
 ## Examples
 -

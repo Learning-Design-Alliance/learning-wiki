@@ -54,3 +54,4 @@ The review identifies a critical evidence gap: almost none of the included studi
 - [MPathic-VR-trained students achieve significantly higher composite scores than computer-based learning students on a subsequent advanced communication OSCE, several days later](mpathic-vr-osce-composite-transfer.md) — reports the opposite
 - [Evidence for transfer of simulation training to operating-room outcomes was sparse in neuro-oncological simulation research](sparse-transfer-evidence-simulation-to-or.md) — related
 - [Most VR assessments occur at Miller's performance level, with the action level absent](vr-assessments-mostly-performance-level-miller.md) — related
+- [Significant patient-safety improvements were found in 80% of comparative virtual reality simulation studies for cataract surgery training](vrs-comparative-studies-safety-improvements.md) — related

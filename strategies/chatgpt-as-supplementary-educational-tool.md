@@ -45,7 +45,8 @@ The review's included studies repeatedly characterize ChatGPT as a supplementary
 - [ChatGPT-4.0 and 3.5 cannot replace the comprehensive skill set required for effective medical practice](../claims/chatgpt-cannot-replace-comprehensive-medical-practice-skills.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Verify ChatGPT outputs against reliable resources and do not rely on it solely for high-stakes exam study](verify-chatgpt-outputs-high-stakes-exams.md)
 
 ## Examples
 -

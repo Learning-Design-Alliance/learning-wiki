@@ -91,3 +91,4 @@ Comparison across 11 early writing interventions (7 researcher-developed, 4 stan
 - [Among language-only interventions, instructional practices and one-on-one or small-group delivery produced significantly larger language gains than curricula and large-group or whole-class delivery](small-group-language-instruction-larger-effects.md) — related
 - [The type of CT measure employed (standardized vs. non-standardized; item format) influences evaluation of intervention effectiveness](ct-measure-type-influences-effectiveness-evaluation.md) — related
 - [Integrated instruction did not significantly improve standardized vocabulary outcomes](integrated-instruction-standardized-vocabulary-null.md) — a narrower finding that bears on this claim
+- [Intervention effects on empathy were larger on objective measures than on self-report measures](objective-measures-larger-empathy-effects.md) — related

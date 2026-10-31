@@ -47,3 +47,4 @@ Post-test-only RCT with 90 residents and 30 faculty physicians comparing two vir
 ## Related Claims
 - [Virtual patient design-variant comparisons rarely show significant differences, with feedback and scaffolding exceptions](vp-design-variants-mostly-null.md) — related
 - [In the few trials comparing them, virtual patients showed no significant knowledge differences versus other digital education, and skills differences in only one of three studies](vp-vs-other-digital-no-difference.md) — related
+- [A single-group pretest–posttest study found no significant effect of VSP training on attitudes toward individuals with substance abuse disorders but a significant increase in perceived competence](vsp-training-attitudes-null-competence-gain.md) — related

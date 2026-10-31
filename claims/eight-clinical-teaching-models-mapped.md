@@ -51,3 +51,4 @@ Scoping review following the Joanna Briggs Institute guideline, searching CINAHL
 - [Contextual resource constraints in low- and middle-income settings may limit implementation of structured, feedback-intensive clinical teaching models](resource-constraints-limit-model-transferability.md) — related
 - RaT research is heavily concentrated in Western healthcare systems, with no published studies from the GCC region — related
 - A scoping review identified 48 studies of technology-based teaching for health students' stroke clinical skills, most published recently and of lower methodological quality — related
+- [SNAPPS outperformed the one-minute preceptor and both outperformed traditional clinical teaching for clinical reasoning skill](snapps-superior-one-minute-preceptor-traditional-teaching.md) — related

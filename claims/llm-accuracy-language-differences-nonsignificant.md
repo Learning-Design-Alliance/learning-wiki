@@ -49,3 +49,5 @@ Subgroup analysis by question language (English n=21, Spanish n=11, Japanese n=1
 - [GPT‐4 through o1 models show significantly lower pooled accuracy in pathology (75%) than in other biomedical disciplines](lower-llm-accuracy-pathology-biomedical-mcq.md) — related
 - [Under unseen-answers evaluation, the German Transformer model's F-Scores are numerically similar to state-of-the-art Transformer results for English](german-english-fscore-comparable.md) — related
 - [Large language models achieve a pooled accuracy of 72% on medical licensing examination questions across 36 studies](llm-pooled-accuracy-72-medical-licensing-exams.md) — related
+- [Translating non-English examination questions into English improved GPT-3.5's performance but had limited effect on GPT-4](english-translation-improves-gpt35-not-gpt4.md) — related
+- [ChatGPT's accuracy on image-based MCQs ranged from 13.1% to 100% across studies, and it performed significantly worse on open-ended questions than on MCQs](image-mcq-and-open-ended-question-performance.md) — related

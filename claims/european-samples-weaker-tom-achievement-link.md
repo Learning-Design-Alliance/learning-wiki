@@ -58,3 +58,4 @@ Weighted linear regression moderator analysis across cross-sectional effect size
 - [Region, study quality, and interaction domain moderate associations between factors and interactive skills](moderators-region-quality-domain.md) — related
 - [The effect of traditional methods does not differ significantly by learning domain, department, grade, or geographical region](no-moderator-differences-categorical.md) — reports the opposite
 - [ECE effects are significant in Europe and Asia but did not reach statistical significance in the Americas](ece-geographic-subgroup-effects.md) — related
+- [Neither geographical location nor assessment timing moderated the comparative effectiveness of GAI-based teaching on knowledge scores](gai-knowledge-no-location-timing-moderation.md) — related

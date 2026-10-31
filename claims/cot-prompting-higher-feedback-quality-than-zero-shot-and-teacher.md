@@ -9,13 +9,14 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-31
 sources:
   - id: farrokhnia-2026
     resource: "https://doi.org/10.1186/s41239-026-00579-9"
     title: "Farrokhnia, M., Latifi, S., Papadopoulos, P. M., Hogenkamp, L., Gijlers, H., Khosravi, H., & Noroozi, O. (2026). Generative AI offers more, but students revise less: comparing the effects of teacher and AI feedback on student essay revisions. International Journal of Educational Technology in Higher Education. https://doi.org/10.1186/s41239-026-00579-9"
     author: "Farrokhnia, M., Latifi, S., Papadopoulos, P. M., Hogenkamp, L., Gijlers, H., Khosravi, H., & Noroozi, O."
     q: 3
-    i: 3
+    i: 2
     kind: causal
     rigour: 2
 ---
@@ -23,11 +24,11 @@ sources:
 # Chain-of-thought prompting yields higher-quality GenAI feedback on argumentative essays than Zero-shot prompting and teacher feedback
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i3` In a randomized three-group experiment, feedback quality differed significantly by source, with a moderate-to-large effect of feedback source on feedback quality. [→ Farrokhnia 2026](#farrokhnia-2026)
+`q3 i2` In a randomized three-group experiment, feedback quality differed significantly by source (ηp2 = 0.15, which the authors call a moderate effect), and post hoc tests found chain-of-thought feedback scored higher than both Zero-shot and teacher feedback, which did not differ from each other. [→ Farrokhnia 2026](#farrokhnia-2026)
 
 ## Evidence
 
@@ -35,7 +36,7 @@ sources:
 
 Farrokhnia, M., Latifi, S., Papadopoulos, P. M., Hogenkamp, L., Gijlers, H., Khosravi, H., & Noroozi, O. (2026). Generative AI offers more, but students revise less: comparing the effects of teacher and AI feedback on student essay revisions. International Journal of Educational Technology in Higher Education. https://doi.org/10.1186/s41239-026-00579-9
 
-`q3 · i3` · `causal · r2`
+`q3 · i2` · `causal · r2`
 
 One-way ANOVA in the randomized three-group experiment (teacher, Zero-shot, CoT; 70 bachelor's students) on overall feedback quality scored with a Toulmin-based rubric, showing a significant source effect with ηp2 = 0.15, "indicating a moderate effect size".
 

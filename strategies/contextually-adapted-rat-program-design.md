@@ -49,6 +49,7 @@ This strategy addresses the review's geographic-gap finding: Western-designed Ra
 - [Culturally tailored chatbot design: position chatbots as reflective companions for Chinese users and as thinking partners for Western users, while deploying cognitive support broadly](culturally-tailored-chatbot-design-strategy.md)
 - [Implement the CCSS with AI/AN students through expanded resources, localization of reform, and specialized extended professional development](ccss-implementation-ai-an-localization-pd.md)
 - [Tailor curricula, programs, and support systems to clinical readiness components](tailor-curricula-to-clinical-readiness-components.md)
+- [Adapt an existing European or global competency framework to national needs rather than developing one de novo](adapt-existing-competency-framework-to-national-needs.md)
 
 ## Examples
 -

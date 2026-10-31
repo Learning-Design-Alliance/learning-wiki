@@ -71,3 +71,4 @@ The review's GRADE appraisal (Supplementary Appendix S2) of certainty per outcom
 - [No included SDL studies measured Kirkpatrick Level 4 (patient/system) outcomes](sdl-no-kirkpatrick-level-4-outcomes.md) — related
 - All included studies performed outcome evaluations at the reaction and/or learning levels of Kirkpatrick's framework. — related
 - Fewer studies assessed Kirkpatrick level 3 behaviour and level 4 patient outcomes, and higher‐level feature combinations remain unclear — related
+- [Simulation training reached Kirkpatrick level 3 (behavioral change) in five studies, but no study assessed patient outcomes](simulation-kirkpatrick-level3-behavior-no-patient-outcomes.md) — related

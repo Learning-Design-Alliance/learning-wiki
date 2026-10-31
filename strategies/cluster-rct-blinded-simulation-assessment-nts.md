@@ -46,6 +46,8 @@ The review recommends methodological improvements for future NTS training evalua
 - [Future research should use standardized validated outcome measures, longitudinal follow-up designs, and methods linking learner gains to patient-relevant outcomes](vp-communication-future-research-validated-longitudinal.md)
 - [Future simulation research should use rigorous designs, standardized tools, and transparent reporting](strategy-rigorous-simulation-research-design.md)
 - [Future research should include long-term RCTs with adequate sample sizes, standardized outcome measures, and cost-effectiveness analyses](strategy-long-term-rcts-standardized-outcomes-arvr.md)
+- [Methodological recommendations for future clinical reasoning education studies: report effect sizes with confidence intervals, control confounders, use ITT analysis, and determine MCID](clinical-reasoning-study-methodology-recommendations.md)
+- [Prioritize rigorous VR training studies with larger samples, validated outcome measures, immersive designs, and LLM integration in mental health education research](future-vr-mental-health-research-recommendations.md)
 
 ## Examples
 -

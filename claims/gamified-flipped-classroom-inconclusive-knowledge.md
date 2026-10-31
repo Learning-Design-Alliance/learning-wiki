@@ -56,3 +56,4 @@ Subgroup analysis of two RCTs (n=99) of gamified flipped classroom/animation app
 - [School-based EdTech interventions show a moderate positive pooled effect on student attainment (d = 0.4), with high heterogeneity across studies](edtech-pooled-effect-attainment-d-0-4.md) — related
 - [Flipped classrooms are associated with improved self-directed learning ability in medical education (pooled SMD = 2.54), but extreme heterogeneity precludes interpreting this as a uniform effect](flipped-classroom-self-directed-learning-ability.md) — related
 - Substantial heterogeneity in intervention design, outcome measures, and feedback structures limited comparability across reviews, and no pooled meta-analysis was feasible — related
+- [Evidence on clinical reasoning teaching strategies is inconclusive, so no specific teaching strategy can currently be recommended](no-clinical-reasoning-strategy-recommendable-inconclusive-evidence.md) — related

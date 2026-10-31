@@ -70,3 +70,5 @@ Crossover RCT (n=60 laparoscopic novices) using iSurgeon AR telestration versus 
 - [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related
 - [AR training is consistently associated with reduced procedural errors across all studies measuring that outcome](ar-reduces-procedural-errors.md) — related
 - [Real-time augmented reality speed overlays nearly doubled novice instrument velocity in bimanual carrying, with gains retained at two weeks](ar-speed-overlay-instrument-velocity-retention.md) — related
+- [AR-assisted training improves GOALS Global scores in novice laparoscopic learners](ar-training-improves-goals-global-laparoscopic.md) — related
+- [AR-assisted training reduces subjective workload (NASA-TLX) in novice learners](ar-training-reduces-subjective-workload.md) — related

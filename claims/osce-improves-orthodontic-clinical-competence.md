@@ -55,3 +55,6 @@ The review reports that "Fields et al. (2007) highlight its role in improving di
 - [AI-powered simulations show short-term gains in communication confidence and structured knowledge in RCTs, with limited or inferior effects for tactile psychomotor skills](ai-simulation-short-term-gains-nursing.md) — related
 - [Software-based platforms generally improve examination scores, diagnostic accuracy, and decision-making performance](software-platforms-improve-knowledge-and-decision-making.md) — related
 - [Virtual patient simulations show mixed effects: improved diagnostic accuracy in one trial, no advantage over video teaching in another, and short-lived knowledge gains](virtual-patients-mixed-psychiatry.md) — related
+- [Scenario simulation combined with case teaching improved doctor-patient communication skills more than traditional lecture-based training](scenario-simulation-improves-doctor-patient-communication.md) — related
+- [Across the 25-year span of reviewed studies, educational approaches shifted from content-based to competency-based learning](shift-content-based-to-competency-based-learning.md) — related
+- [Simulation-based training enhances short-term diagnostic accuracy, treatment planning, and practical skills in orthodontic education](simulation-short-term-clinical-skills-orthodontics.md) — related

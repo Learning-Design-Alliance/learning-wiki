@@ -45,6 +45,7 @@ The article recommends a practical implementation pathway for MR training soluti
 ## Related Strategies
 
 - [Improve MR training by adjusting scenario complexity for stress elicitation and implementing communication capabilities with virtual patients](improve-mr-scenario-complexity-and-communication.md)
+- [Integrate GAI-based teaching into medical curricula with robust curricular integration, technological support, and systematic training for educators and students](gai-curricular-integration-training-strategy.md)
 
 ## Examples
 -

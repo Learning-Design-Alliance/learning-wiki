@@ -63,3 +63,6 @@ The review cites task- and model-specific accuracy investigations (Ding et al.; 
 - [Students broadly endorse LLMs as educational aids (74% positive) while 61% raise integrity concerns, 59% cite hallucination risk, and 82% report no institutional guidance](student-llm-perceptions-no-guidance-majority.md) — related
 - [Generative AI chatbots answer orthopaedic exam questions with moderate accuracy, below trainee performance](generative-ai-moderate-accuracy-ortho-exams.md) — a narrower finding that bears on this claim
 - [Hallucination — the generation of inaccurate, unverified, or illogical content — is the most frequently reported technical challenge for LLMs in dental education](hallucination-most-frequent-technical-challenge.md) — related
+- [Only 40% of ChatGPT-generated dermatology board-style questions were applicable for exams](dermatology-mcqs-40-percent-applicable.md) — a narrower finding that bears on this claim
+- [Hallucination, fabrication and reduced explanation accuracy limit ChatGPT's potential as a medical learning tool](hallucination-and-explanation-accuracy-limit-chatgpt-learning-tool.md) — a narrower finding that bears on this claim
+- [ChatGPT-4's incorrect MRCP Part 1 answers showed no significant difference between factual recall and complex reasoning question types](mrcp-error-types-factual-recall-vs-reasoning-null.md) — related

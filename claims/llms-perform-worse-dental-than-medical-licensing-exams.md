@@ -56,3 +56,6 @@ Comparison reported in the discussion section of this systematic review, contras
 - [GPT-4 achieves passing accuracy on USMLE Steps 1–3 (mean 86%), significantly exceeding GPT-3.5 (mean 56%)](gpt4-usme-passing-accuracy-exceeds-gpt35.md) — related
 - [Newer OpenAI LLM versions achieve significantly higher pooled accuracy on biomedical MCQs than earlier versions (GPT‐4o–o1: 90%; GPT‐4: 82%; GPT‐3/3.5: 59%)](openai-llm-accuracy-improves-across-versions-biomedical-mcq.md) — related
 - [ChatGPT-4.0 outperforms ChatGPT-3.5 in medical licensing exams, achieving a pooled accuracy of 81.8% versus 60.8%](chatgpt-4-pooled-accuracy-818-percent-licensing-exams.md) — related
+- [GPT-4 achieves a pooled MCQ accuracy of 81% on medical licensing examinations, significantly surpassing GPT-3.5's 58%](gpt4-81-percent-pooled-accuracy-surpasses-gpt35.md) — related
+- [GPT-4 performed significantly better on examinations from English-speaking countries (86% vs 80%, P=.02), while GPT-3.5 showed no such difference (P=.72)](gpt4-english-speaking-country-advantage.md) — related
+- [GPT-4 significantly outperforms ChatGPT-3.5 in accuracy on national health licensing examinations](gpt4-outperforms-chatgpt35-licensing-exams.md) — related

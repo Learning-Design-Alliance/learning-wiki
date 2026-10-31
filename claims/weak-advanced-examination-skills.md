@@ -48,3 +48,4 @@ Cross-sectional survey data synthesized in the review's results (Table 1); the r
 ## Related Claims
 - [Deuchler et al. found learning occurs with EyeSi simulator training but is higher when combined with an online theory platform](eyesi-plus-online-platform-higher-learning-deuchler.md) — related
 - [Chan et al. found physical-controller VR examination has higher ease of use and lower cognitive load than hand-tracking gestures](physical-controller-vr-higher-ease-of-use-lower-cognitive-load.md) — related
+- [Confidence in slit-lamp use among junior ED doctors declined between 1993 and 2018](slit-lamp-confidence-declined-junior-ed-doctors.md) — related

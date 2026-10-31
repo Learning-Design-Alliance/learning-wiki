@@ -52,3 +52,4 @@ Systematic review of 15 studies (2010–2025) on clinical simulation in nursing 
 - [The effect of high-fidelity simulation on practising nurses' self-confidence is inconclusive, varying by study design](hfs-self-confidence-inconclusive-design-dependent.md) — related
 - [Very high majorities of students rated high-fidelity simulation as enhancing learning, clinical reasoning, decision-making, and value](coffey-hfs-student-ratings.md) — related
 - [Simulation's impact on student reflection remains inconclusive due to limited evidence](simulation-reflection-inconclusive-limited-evidence.md) — related
+- [Simulation training in critical care during COVID-19 enhanced knowledge and confidence more than theoretical and clinical training alone](simulation-critical-care-covid-knowledge-confidence.md) — related

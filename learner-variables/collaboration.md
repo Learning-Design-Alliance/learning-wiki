@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 84 claims (66 show a difference, 11 mixed, 7 no difference) · 70 studies (21 review, 16 causal, 11 qualitative, 8 associational, 5 design, 5 theoretical, 4 quant-synthesis), `q1`–`q3` · 7 of 70 report an effect size · 84 claims rest on one study
+> **Evidence** · 89 claims (70 show a difference, 12 mixed, 7 no difference) · 75 studies (23 review, 16 causal, 11 qualitative, 8 associational, 7 quant-synthesis, 5 design, 5 theoretical), `q1`–`q3` · 9 of 75 report an effect size · 89 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -126,6 +126,11 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Interprofessional training in a psychiatric ward improved all three subscales of the Assessment of Interprofessional Team Collaboration Scale](../claims/ipe-psychiatric-ward-improved-aitcs-subscale.md) [+M] — instruction changes it
 - [IPE interventions show significant improvements in role clarity, communication skills, and teamwork dynamics](../claims/ipe-improves-role-clarity-communication-teamwork.md) [+M] — instruction changes it
 - [NTS training programs in ICUs are associated with improved teamwork, situational awareness, leadership and communication behaviors, with varying evidence certainty](../claims/nts-training-icu-improves-teamwork-behaviors.md) [~M] — instruction changes it
+- [Blended BOPPPS teaching is associated with favorable subjective outcomes including autonomous learning, teamwork, and problem-solving ability](../claims/blended-boppps-favorable-subjective-outcomes.md) [+M] — instruction changes it
+- [Non-technical skill outcomes of TBL are mixed, with positive findings for communication, decision-making, self-study and emotional intelligence](../claims/tbl-non-technical-skills-mixed.md) [~M] — instruction changes it
+- [SBL is associated with wider clinical performance benefits including self-confidence, self-efficacy, clinical reasoning and teamwork](../claims/sbl-wider-clinical-performance-benefits.md) [+M] — instruction changes it
+- [TBL is associated with improved teamwork measures, including higher team emotional intelligence after clerkship and improved perceived value of team work](../claims/tbl-clinical-teamwork-emotional-intelligence-gains.md) [+M] — instruction changes it
+- [TBL significantly improves teamwork skills compared with PBL (SMD = 1.18)](../claims/tbl-improves-teamwork-skills-versus-pbl.md) [+M] — instruction changes it
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

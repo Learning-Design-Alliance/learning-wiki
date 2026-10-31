@@ -50,3 +50,5 @@ Single-center prospective before–after study in Tanzania with 9708 newborns ac
 - All included simulation-based research studies were judged to have high or critical risk of bias, and only 16 of 2481 screened studies met Level 4 inclusion criteria — a broader claim this one bears on
 - Single-center simulation studies were more likely to demonstrate significant patient-outcome improvements than multicenter studies — related
 - [Low-cost simulation studies in nursing most frequently target specific clinical competencies (79.5%), with obstetric and neonatal emergency management the single largest group](scoping-review-low-cost-simulation-competency-coverage.md) — related
+- [Helping Babies Breathe simulation training was associated with reduced neonatal mortality in LMIC facilities, but skills decayed within 4–6 months without maintenance](hbb-simulation-reduced-mortality-skill-decay.md) — related
+- [A cluster-randomized PRONTO-based quality improvement package in Kenya and Uganda reduced neonatal mortality and stillbirth among intervention facilities](pronto-cluster-randomized-reduced-neonatal-mortality.md) — related

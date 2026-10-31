@@ -48,3 +48,4 @@ Meta-analysis comparing XR training to no additional training on GEARS scores. T
 - [Independent samples t-test shows significantly higher GEARS scores for XR-trained novices versus no additional training](t-test-gears-xr-significantly-higher-than-no-training.md) — reports the opposite
 - [Robotic novices trained with extended reality simulators complete tasks significantly faster than novices with no additional training](xr-training-faster-time-to-complete-than-no-training.md) — related
 - [Extended reality training shows no statistically significant difference in GEARS scores compared to dry lab training](xr-vs-dry-lab-gears-no-significant-difference.md) — related
+- [AR-assisted training shows no statistically significant reduction in task completion time](ar-training-time-not-significant.md) — related

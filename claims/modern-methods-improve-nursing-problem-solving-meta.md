@@ -51,3 +51,4 @@ Meta-analysis of 11 controlled studies (3 RCTs, 13 quasi-experimental with contr
 - [CBL, PBL, and TBL each significantly improve nursing students' problem-solving abilities](cbl-pbl-tbl-problem-solving-subgroups.md) — a narrower finding that bears on this claim
 - [Problem-solving benefits of modern methods hold across durations, designs, sample sizes, and sophomore/senior grades, but not third-year students](problem-solving-benefits-robust-across-moderators.md) — a narrower finding that bears on this claim
 - [GAI-assisted teaching significantly improves analytical and problem-solving skills compared with traditional teaching (SMD = 1.53; OR = 10.28)](gai-teaching-improves-analytical-problem-solving-skills.md) — related
+- [PBL shows significant advantages in critical thinking compared with traditional education or team-based learning in nursing and clinical student populations](pbl-improves-critical-thinking-versus-traditional-teaching.md) — related

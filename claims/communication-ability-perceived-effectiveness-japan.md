@@ -49,3 +49,4 @@ Narrative review attributing this to surveys of family physicians and general pr
 - [Evidence that emotional competence improves patient outcomes is limited and mixed](ec-patient-outcomes-limited-mixed.md) — related
 - [The review reports that family medicine training programmes targeted at underserved communities, including over 40 rural training programmes in the United States over 25 years, have proven effective in increasing physician availability in rural and underserved areas](rural-training-track-programmes-physician-availability.md) — related
 - [A systematic review of 13 articles found nurses achieved higher satisfaction in patient self-care and adherence than physicians](nurses-higher-satisfaction-self-care-adherence.md) — related
+- [Patients consulting trained practitioners reported higher satisfaction, significant in one RCT and non-significant in another](pps-training-patient-satisfaction-mixed.md) — related

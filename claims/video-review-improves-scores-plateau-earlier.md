@@ -72,3 +72,4 @@ The review's discussion of the video-review study reports improved accuracy with
 - [Simulation-based education improves medical students' biomedical science skills and shortens the learning curve](simulation-improves-biomedical-skills-learning-curve.md) — related
 - [Control groups in DP-informed SBST studies also improved but reached performance plateaus earlier and at lower competency levels](dp-sbst-control-groups-plateau-earlier-lower.md) — related
 - [In thyroid surgery training, simulation and virtual-reality training improved technical performance and task completion time, and simulators were rated as realistic](simulation-vr-improves-thyroid-surgery-technical-performance.md) — related
+- [Simulation-based training can significantly shorten learning curves for technical skills compared to traditional clinical training alone](simulation-shortens-learning-curves.md) — related

@@ -46,7 +46,7 @@ Cluster analysis (Fig. 6) across theoretical, practical, medical record, autonom
 
 ## Related Claims
 - [Most new teaching methods reduce dissatisfaction relative to LBL, with WeChat-based combinations most favoured by residents](new-methods-reduce-dissatisfaction-versus-lbl.md) — related
-- [Multiple new teaching methods (PBL + CBL, CBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on theoretical scores](new-methods-outperform-lbl-theoretical-scores.md) — related
+- [Eight new teaching methods (PBL + CBL, PBL + CP, CBL + WeChat, PBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on residents' theoretical scores](new-methods-outperform-lbl-theoretical-scores.md) — related
 - [PBL combined with WeChat outperforms LBL in theoretical test scores and reduces dissatisfaction among Chinese internal medicine residents](pbl-wechat-outperforms-lbl-theoretical-scores-residents.md) — related
 - [Combining teaching methods (PBL + WeChat, CBL + WeChat, PBL + CBL) achieves better academic performance than single methods in Chinese resident training](combined-methods-better-academic-performance-residents.md) — related
 - [CBL, PBL, and TBL each significantly improve nursing students' problem-solving abilities](cbl-pbl-tbl-problem-solving-subgroups.md) — related

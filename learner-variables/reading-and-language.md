@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 252 claims (158 show a difference, 44 mixed, 50 no difference) · 168 studies (50 associational, 41 causal, 35 quant-synthesis, 27 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 39 of 168 report an effect size · 243 claims rest on one study
+> **Evidence** · 253 claims (159 show a difference, 44 mixed, 50 no difference) · 169 studies (50 associational, 41 causal, 36 quant-synthesis, 27 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 39 of 169 report an effect size · 244 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -303,6 +303,7 @@ What a learner can read without effort, and whether the language of instruction 
 - [Bilingual teaching benefits on course performance may not extend to second-year students who already meet an English proficiency threshold](../claims/bilingual-immunology-benefits-vary-by-grade-level.md) [~M] — an instructional effect differs with it
 - [TEPBLL promotes eight language skills and knowledge areas: speaking, listening, reading, writing, vocabulary, creative and critical thinking, intercultural awareness, and content knowledge](../claims/tepbll-eight-skills-knowledge-promoted.md) [+M] — instruction changes it
 - [WhatsApp-based mobile instant messaging projects enhanced communicative skills and vocabulary knowledge](../claims/whatsapp-projects-communicative-skills-vocabulary.md) [+M] — instruction changes it
+- [For literature reading ability in TACE teaching, PBL combined with CBL ranked best, followed by PBL alone](../claims/pbl-cbl-best-literature-reading-ability-tace.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

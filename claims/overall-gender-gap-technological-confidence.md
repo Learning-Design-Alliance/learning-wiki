@@ -79,3 +79,4 @@ Independent samples t-test with Welch's correction on the survey's gender-based 
 - [Variables of experience, gender, age and degree do not negatively affect academic interaction or VLE learning performance](no-negative-effect-demographics-vle-interaction.md) — reports the opposite
 - [CT self-efficacy gains varied by gender, grade, and prior Minecraft experience, with significant increases for female students, Grade 8 students, and students with limited Minecraft experience](gbl-ct-self-efficacy-moderators.md) — related
 - [Gender is associated with healthcare leaders' digital competence, with females' computer and patient monitoring system knowledge lower than males'](gender-associated-leaders-digital-competence.md) — related
+- [Male students reported higher confidence in using VR simulation technology independently than female students](gender-gap-vr-confidence-orthodontics.md) — a narrower finding that bears on this claim

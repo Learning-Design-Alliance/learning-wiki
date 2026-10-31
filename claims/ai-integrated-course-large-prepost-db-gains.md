@@ -71,3 +71,4 @@ Effect-size analysis of the same pre/post gains in the 13-student course, follow
 - [Students' overall AI knowledge improved significantly after four integrated AI-biology lessons](ai-knowledge-significant-gain-integrated-biology-lessons.md) — related
 - [The integrated G4L approach combining graph-based modeling, database-driven tracking, and generative content creation successfully supported learner navigation and domain comprehension](g4l-integrated-approach-supports-navigation.md) — related
 - [Every group of college freshmen learned significantly from each educational film as measured by pre-test to post-test gains](every-group-learned-significantly-from-each-film.md) — related
+- [Participants in the Essential Searching Skills course showed increased pre-test to post-test confidence and knowledge on skills covered in the course](srss-course-pre-post-knowledge-gains.md) — related

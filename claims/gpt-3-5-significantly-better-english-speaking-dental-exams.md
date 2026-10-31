@@ -50,3 +50,4 @@ Subgroup analysis of GPT-3.5 performance by examination origin country using a r
 - [GPT-4's performance on dental licensing examinations does not differ significantly between English-speaking and non-English-speaking countries](gpt-4-performance-consistent-across-regions-dental-exams.md) — related
 - [GPT-4 outperforms GPT-3.5 and Bard on dental licensing examinations, achieving an integrated accuracy of 72%](gpt-4-outperforms-gpt-3-5-and-bard-dental-licensing-accuracy.md) — related
 - [LLMs perform worse on dental licensing examinations than on medical licensing examinations](llms-perform-worse-dental-than-medical-licensing-exams.md) — related
+- [GPT-4 performed significantly better on examinations from English-speaking countries (86% vs 80%, P=.02), while GPT-3.5 showed no such difference (P=.72)](gpt4-english-speaking-country-advantage.md) — reports the opposite

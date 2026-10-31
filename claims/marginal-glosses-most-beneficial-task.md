@@ -53,3 +53,4 @@ The review reports Xu's (2010) study of "125 ESL freshmen" reading a passage wit
 - [Multimedia glosses improve EFL students' immediate vocabulary acquisition relative to reading the same texts without glosses](multimedia-glosses-improve-efl-vocabulary-acquisition.md) — related
 - [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — a broader claim this one bears on
 - [Adult ESL students who read a short story could use incidentally acquired words in sentences, while students who learned word meanings in isolation could not](incidental-reading-enables-productive-word-use.md) — related
+- [PBL, including PBL combined with VR, improves EFL vocabulary acquisition](pbl-improves-efl-vocabulary-acquisition.md) — related

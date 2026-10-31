@@ -82,3 +82,7 @@ Pooled analysis of two studies measuring student satisfaction, using a fixed-eff
 - [TBL students show significantly higher classroom engagement than LBL students](tbl-higher-engagement-than-lbl.md) — related
 - [TBL students achieve significantly higher post-test final scores than LBL students in medical education](tbl-higher-post-test-scores-than-lbl.md) — related
 - [Team-based learning outperforms LBL in improving practical test scores of internal medicine residents](tbl-outperforms-lbl-practical-scores-residents.md) — related
+- [Trainees report higher satisfaction with simulation-based learning than with non-simulation-based learning in endocrinology education](sbl-higher-satisfaction-endocrinology.md) — related
+- [TBL is associated with higher satisfaction, positive attitudes and motivation versus lecture, but preferences are mixed](tbl-feeling-of-learning-satisfaction-mixed.md) — possibly the same claim (merge candidate)
+- [TBL outperforms lecture-based learning on short-term cognitive outcomes such as theoretical exam performance](tbl-superior-lecture-short-term-cognitive.md) — related
+- [VR teaching raises teaching interest and teaching satisfaction relative to traditional approaches](vr-teaching-interest-satisfaction.md) — related

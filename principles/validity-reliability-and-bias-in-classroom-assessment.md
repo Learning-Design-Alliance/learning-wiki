@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 323 claims (140 for, 160 mixed, 23 against) · 244 studies (90 associational, 61 design, 35 review, 25 theoretical, 22 causal, 8 quant-synthesis, 3 qualitative), `q1`–`q3` · 20 of 244 report an effect size · 316 claims rest on one study
+> **Evidence** · 327 claims (141 for, 163 mixed, 23 against) · 247 studies (90 associational, 61 design, 38 review, 25 theoretical, 22 causal, 8 quant-synthesis, 3 qualitative), `q1`–`q3` · 20 of 247 report an effect size · 320 claims rest on one study
 
 ## Conditional relationship
 
@@ -397,6 +397,10 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Training reviewers and using rubrics reduces inconsistent evaluation and bias in CBA/HA](../claims/reviewer-training-rubrics-reduce-bias.md) [+W]
 - [Cronbach's alpha values for OSCE scores vary widely across studies, ranging from 0.43 to 0.93, with most studies not reaching good internal consistency](../claims/osce-cronbach-alpha-wide-variability.md) [~W]
 - [Virtual patient simulators show construct validity for assessing psychopharmacology proficiency](../claims/virtual-patient-simulator-construct-validity-psychopharmacology.md) [+W]
+- [Blind expert assessment of GPT-4-generated MCQs found the majority valid as exam questions, with problematic-question rates varying by field](../claims/gpt4-blind-assessment-majority-valid.md) [~W]
+- [OSATS was the most frequently used technical-skills assessment tool, but many OSATS variations were used without validity evidence](../claims/osats-most-common-ts-tool-variations-lack-validity.md) [+W]
+- [Raters of a videotaped fracture-scenario OSCE showed high internal consistency but only moderate inter-rater reliability across subspecialties and seniority levels](../claims/videotaped-osce-rater-reliability.md) [~W]
+- [In the one human-vs-LLM comparison, human-written MCQs outperformed ChatGPT-generated MCQs in quality and validity, while AI was far faster](../claims/humans-outperform-chatgpt-mcq-quality.md) [~W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

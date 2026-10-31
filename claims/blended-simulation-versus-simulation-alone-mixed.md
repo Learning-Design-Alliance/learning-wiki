@@ -74,3 +74,5 @@ Mixed-methods study of 46 interprofessional students comparing combined classroo
 - [Manikin-based simulation produced equal or superior competency outcomes versus traditional clinical practice, except in the Patient Safety domain](manikin-simulation-competency-versus-clinical.md) — related
 - [Active methodologies show no definitive superiority over traditional teaching in undergraduate dentistry](no-definitive-superiority-active-methods-dentistry.md) — related
 - [PBL combined with virtual simulation improved theoretical knowledge and practical skills in clinical biochemistry](pbl-virtual-simulation-improves-theory-and-skills.md) — related
+- [The review attributes implementation-strategies effectiveness to experiential, interactive, and patient-centered learning methods alongside traditional lectures](interactive-patient-centered-methods-attributed-effectiveness.md) — related
+- [Comparative ISBTT studies suggest simulation added to training improves collaborative behaviors, with mixed results for modality and interprofessional versus uniprofessional comparisons](isbtt-comparative-studies-mixed-results.md) — related

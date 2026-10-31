@@ -48,6 +48,7 @@ The review recommends that, "integrated alongside active participation, the obse
 ## Related Strategies
 
 - [Simulation Based Learning](simulation-based-learning.md)
+- [Design simulation-based IPE scenarios that give every profession an active problem-solving role](scenario-design-active-participation-across-professions.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Crossed-random-intercepts multi-level model of final exam grades (available for 
 - [Students taking online and proctored online exams report higher test anxiety than students taking on-campus exams and non-proctored online exams](proctored-online-exams-increase-test-anxiety.md) — related
 - [Familiarity with online and proctored exams, approximated by exam quartile, shows no effect on test anxiety](familiarity-no-effect-test-anxiety.md) — related
 - CS1-CR exam scores showed a slight, statistically insignificant increase compared to prior semesters — related
+- [Proctoring effects on exam performance are mixed, and technical difficulties and cheating were reported in open-book online exams](proctoring-technical-cheating-mixed-findings.md) — related

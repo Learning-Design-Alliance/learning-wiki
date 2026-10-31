@@ -48,6 +48,9 @@ The review recommends that future research prioritize longitudinal designs conne
 - [Develop standardized simulation-based leadership curricula with longitudinal evaluation and multi-center randomized comparison of formats](standardized-leadership-simulation-research-agenda.md)
 - [Prioritize multicenter, randomized designs with standardized reporting and longitudinal follow-up in future surgical education research](prioritize-multicenter-randomized-standardized-reporting-research.md)
 - [Research agenda: standardize reporting, run comparative efficacy studies, and track longitudinal transfer to clinical practice](competency-simulation-research-agenda-reporting-transfer.md)
+- [Combine objective metrics with validated subjective tools and audio-visual recording to contextualize interpretation of surgical performance data](combine-objective-metrics-with-subjective-and-av-context.md)
+- [Prioritize larger multi-center RCTs with standardized AR systems, uniform metrics, and long-term follow-up when evaluating AR surgical training](strategy-standardized-ar-training-protocols-research.md)
+- [Validate automated video analytics and reach metric consensus before widespread adoption in surgical training](validate-video-analytics-before-adoption.md)
 
 ## Examples
 -

@@ -74,3 +74,4 @@ Table 5 of the review reports per-study main results, including a PBL study's "R
 - [First-year medical students in the single first-year-focused study reported high engagement (97%) and perceived improved teamwork (87%) with PBL](first-year-students-high-engagement-teamwork-pbl.md) — related
 - [Systematic review finds PBL improves clinical reasoning in OB/GYN education](pbl-improves-clinical-reasoning-obgyn.md) — related
 - [TBL improves ethical reasoning and moral sensitivity](tbl-improves-ethical-reasoning-moral-sensitivity.md) — a narrower finding that bears on this claim
+- [TBL shows favorable outcomes for clinical performance, skills and learner engagement](tbl-performance-engagement-favorable.md) — a narrower finding that bears on this claim

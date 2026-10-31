@@ -58,3 +58,4 @@ Correlation test on questionnaire and reading-test data from the same 76 partici
 - [All metacognitive strategy factors and critical thinking subfactors were significantly and positively correlated with each other and with academic writing](metacognition-critical-thinking-writing-correlations.md) — related
 - [Metacognitive strategies, effort regulation, and coping with problems significantly predict Japanese EFL learners' proficiency](three-srl-strategy-factors-predict-efl-proficiency.md) — related
 - [Metacognitive strategy use correlates with comprehension non-monotonically across grades, which the model attributes to unconscious self-regulation in experienced learners](metacognitive-strategy-correlation-nonmonotonic-grades.md) — related
+- [PBL improves EFL reading proficiency and metacognitive reading strategies, though some studies lack control groups](pbl-improves-efl-reading-proficiency.md) — related

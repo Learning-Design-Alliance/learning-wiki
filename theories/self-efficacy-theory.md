@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 112 claims (68 for, 40 mixed, 4 against) · 83 studies (39 associational, 20 causal, 18 review, 4 quant-synthesis, 1 design, 1 theoretical), `q1`–`q3` · 21 of 83 report an effect size · 110 claims rest on one study
+> **Evidence** · 113 claims (69 for, 40 mixed, 4 against) · 84 studies (39 associational, 20 causal, 19 review, 4 quant-synthesis, 1 design, 1 theoretical), `q1`–`q3` · 21 of 84 report an effect size · 111 claims rest on one study
 
 ## Description
 Self-efficacy is "people's beliefs in their ability to perform a course of action required to achieve a specific task" ([Bandura, 1977](https://doi.org/10.1037/0033-295x.84.2.191)). The theory's central claim is specificity: self-efficacy is not a general trait like self-confidence or self-concept, and it is not the same as documented ability. A learner's self-efficacy for "correctly subtracting fractions" is a distinct belief from their self-efficacy for "writing a persuasive essay," even though both might contribute to a broader (and much less predictive) sense of being "good at school" ([Seifert & Sutton, 2018](https://edtechbooks.org/lidtfoundations/motivation_theories_on_learning)). Because self-efficacy beliefs are self-constructed rather than measured, they can diverge from true capability in either direction; the most functional level is at or slightly above actual capacity (Bandura, 1997).
@@ -159,6 +159,7 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [Nursing home managers report significantly higher palliative care self-efficacy than residential care home managers](../claims/nursing-vs-residential-manager-confidence.md) [~W] — attached 2026-10-31 from Xu Hongxuan et al. (2026), which proposed "Competence-confidence framework: confidence shapes how nurse managers develop and demonstrate palliative care competence".
 - [IVR simulation significantly improves nursing students' self-efficacy but not satisfaction or confidence](../claims/ivr-improves-self-efficacy-not-satisfaction-confidence.md) [+W]
 - [GDP confidence in TDI management is lowest among recently qualified practitioners and declines as injury complexity increases](../claims/gdp-confidence-experience-complexity.md) [~W]
+- [PPS training increased healthcare practitioners' confidence and self-efficacy, with 48% reporting better ways of making the link between symptoms and psychosocial stressors](../claims/pps-training-confidence-self-efficacy.md) [+W]
 
 ## The evidence by question
 

@@ -47,6 +47,7 @@ The publication positions itself as "a global reference" that "guides the develo
 
 - [Ground AI integration in higher education on core principles of human agency, academic freedom, transparency, ethics, inclusivity, and critical thinking](core-principles-ai-integration-higher-education.md)
 - [Design AI-integrated, ethically grounded, and adaptable business education models guided by bibliometric evidence](design-ai-integrated-ethical-business-education-models.md)
+- [Adapt an existing European or global competency framework to national needs rather than developing one de novo](adapt-existing-competency-framework-to-national-needs.md)
 
 ## Examples
 -

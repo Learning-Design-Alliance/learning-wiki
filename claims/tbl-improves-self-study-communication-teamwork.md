@@ -60,3 +60,13 @@ Meta-analysis of 16 RCTs (1,267 students, interns and residents) in neurology ed
 - [TBL students show significantly higher classroom engagement than LBL students](tbl-higher-engagement-than-lbl.md) — related
 - [TBL students achieve significantly higher post-test final scores than LBL students in medical education](tbl-higher-post-test-scores-than-lbl.md) — related
 - [Team-based learning outperforms LBL in improving practical test scores of internal medicine residents](tbl-outperforms-lbl-practical-scores-residents.md) — related
+- [3D-PBL showed the greatest improvement in communication skills versus lecture-based learning, rated high-quality evidence](3d-pbl-greatest-communication-skills-gains.md) — related
+- [Blended BOPPPS teaching is associated with favorable subjective outcomes including autonomous learning, teamwork, and problem-solving ability](blended-boppps-favorable-subjective-outcomes.md) — related
+- [In the RCT, PBL students rated their own communication skills and critical thinking significantly higher on a questionnaire than LBL students did](pbl-rct-higher-communication-critical-thinking.md) — related
+- [More PBL than LBL students report satisfaction with improved self-study ability (RR = 1.44)](pbl-satisfaction-self-study-ability.md) — related
+- [Freshmen, academically weaker students, undergraduates, Chinese female students and nursing students appear to benefit most from TBL](tbl-beneficiary-groups.md) — related
+- [TBL is associated with improved teamwork measures, including higher team emotional intelligence after clerkship and improved perceived value of team work](tbl-clinical-teamwork-emotional-intelligence-gains.md) — related
+- [TBL produces significantly higher theoretical test scores than PBL in medical education (SMD = 0.37)](tbl-higher-theoretical-test-scores-than-pbl.md) — related
+- [TBL significantly improves teamwork skills compared with PBL (SMD = 1.18)](tbl-improves-teamwork-skills-versus-pbl.md) — related
+- [Non-technical skill outcomes of TBL are mixed, with positive findings for communication, decision-making, self-study and emotional intelligence](tbl-non-technical-skills-mixed.md) — related
+- [Insufficient evidence exists to compare TBL with other active learning methods](tbl-vs-active-methods-insufficient-evidence.md) — related

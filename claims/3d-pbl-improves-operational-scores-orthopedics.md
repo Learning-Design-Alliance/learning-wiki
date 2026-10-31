@@ -54,3 +54,4 @@ Meta-analysis of nine RCTs (N = 565) with a random-effects model found "3D + PBL
 - [3D + PBL improves self-learning ability in orthopedic education](3d-pbl-improves-self-learning-ability.md) — related
 - [3D + PBL improves teaching satisfaction in orthopedic education](3d-pbl-improves-teaching-satisfaction-orthopedics.md) — related
 - [3D + PBL improves overall satisfaction in orthopedic education](3d-pbl-improves-overall-satisfaction-orthopedics.md) — related
+- [PBL shows no benefits for hands-on, communication, or self-directed learning skills and no advantage in operational skills for diagnostic imaging](pbl-no-benefit-hands-on-communication-self-directed.md) — related

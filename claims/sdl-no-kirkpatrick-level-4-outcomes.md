@@ -57,3 +57,5 @@ Systematic characterization of outcome levels across all 125 included studies us
 - There is no evidence of public patient involvement in any of the reviewed studies — related
 - All included studies performed outcome evaluations at the reaction and/or learning levels of Kirkpatrick's framework. — reports the opposite
 - Fewer studies assessed Kirkpatrick level 3 behaviour and level 4 patient outcomes, and higher‐level feature combinations remain unclear — related
+- [Most LMIC simulation-based education studies testing significance demonstrate at least partial improvement in patient-level (Kirkpatrick Level 4) outcomes](sbe-lmic-most-studies-partial-improvement-level4.md) — related
+- [Simulation training reached Kirkpatrick level 3 (behavioral change) in five studies, but no study assessed patient outcomes](simulation-kirkpatrick-level3-behavior-no-patient-outcomes.md) — related

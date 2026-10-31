@@ -50,4 +50,5 @@ Pooled analysis of four studies measuring knowledge retention, defined as the pr
 - [TBL alone and TBL combined with other methods both outperform LBL, with no significant difference between the two TBL formats](tbl-alone-versus-blended-no-significant-difference.md) — related
 - [TBL is associated with higher theoretical knowledge scores than LBL in Chinese neurology education (SMD = 1.16)](tbl-higher-theoretical-knowledge-scores-neurology-china.md) — related
 - [TBL students achieve significantly higher post-test final scores than LBL students in medical education](tbl-higher-post-test-scores-than-lbl.md) — related
-- [Multiple new teaching methods (PBL + CBL, CBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on theoretical scores](new-methods-outperform-lbl-theoretical-scores.md) — related
+- [Eight new teaching methods (PBL + CBL, PBL + CP, CBL + WeChat, PBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on residents' theoretical scores](new-methods-outperform-lbl-theoretical-scores.md) — related
+- [TBL produces significantly higher theoretical test scores than PBL in medical education (SMD = 0.37)](tbl-higher-theoretical-test-scores-than-pbl.md) — related

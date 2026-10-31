@@ -41,7 +41,8 @@ The review recommends that facilitators require preparation before implementing 
 - [Faculty reluctance and limited expertise are common challenges in implementing IPE, which can harm interprofessional relationships if poorly planned](../claims/faculty-reluctance-ipe-challenge.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Implement CBL successfully by ensuring pre-class preparation, authentic progressive cases, dual-competence facilitators, adequate time, and process-plus-outcome assessment](cbl-implementation-success-conditions.md)
 
 ## Examples
 -

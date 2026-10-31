@@ -55,6 +55,8 @@ The review recommends that future research focus on large-scale, well-controlled
 - [Future research should include long-term RCTs with adequate sample sizes, standardized outcome measures, and cost-effectiveness analyses](strategy-long-term-rcts-standardized-outcomes-arvr.md)
 - [Conduct large-scale, well-designed RCTs with multiple outcome indicators to evaluate new teaching methods](large-scale-rcts-multiple-outcome-indicators-teaching-methods.md)
 - [Future simulation research should use rigorous designs, standardized tools, and transparent reporting](strategy-rigorous-simulation-research-design.md)
+- [Methodological recommendations for future clinical reasoning education studies: report effect sizes with confidence intervals, control confounders, use ITT analysis, and determine MCID](clinical-reasoning-study-methodology-recommendations.md)
+- [Prioritise longitudinal research and cost analysis when evaluating digital clinical skills modalities](longitudinal-cost-research-digital-clinical-skills.md)
 
 ## Examples
 -

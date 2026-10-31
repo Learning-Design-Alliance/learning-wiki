@@ -48,6 +48,7 @@ The review recommends that researchers and practitioners use its graded ASP scal
 ## Related Strategies
 
 - [Integrate multiple strategies in a context-based and community-involved approach to reverse violence and promote peace](context-based-community-involved-violence-response-strategy.md)
+- [Whole-school approach with school-based intervention packages to improve school climate in Indian secondary schools](whole-school-approach-school-climate-interventions-india.md)
 
 ## Examples
 -

@@ -61,3 +61,4 @@ Authors' conclusion to the teacher-role theme of the interview study. A student 
 - [In a small case study, students given ChatGPT feedback valued its immediacy and alternative analytical perspectives, but one distrusted its answers as 'often made up' for complex data analysis](chatgpt-feedback-hallucination-undermines-trust.md) — related
 - [Sysadmins find GenAI most effective for accelerating routine tasks such as scripting, troubleshooting, and documentation](genai-accelerates-routine-sysadmin-tasks.md) — related
 - [Students bound their reliance on AI feedback and advocate a hybrid model assigning AI broad language concerns and instructors individualized relational guidance](bounded-reliance-hybrid-feedback-preference.md) — related
+- [AR reduces reliance on instructor supervision and enables autonomous laparoscopic practice](ar-reduces-instructor-reliance-autonomous-practice.md) — related

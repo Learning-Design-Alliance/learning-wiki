@@ -76,3 +76,4 @@ The review's narrative synthesis reports that direct patient-level (4b) outcomes
 - [In one included study, simulation-based team training in a trauma bay was followed by a 16 percent reduction in total resuscitation time and faster completion of primary surveys.](steinemann-resuscitation-time-reduction.md) — a narrower finding that bears on this claim
 - [NTS training in ICUs shows no significant changes in patient safety culture, length of stay or mortality rates](nts-training-icu-no-organizational-mortality-effect.md) — related
 - Fewer studies assessed Kirkpatrick level 3 behaviour and level 4 patient outcomes, and higher‐level feature combinations remain unclear — related
+- [Most LMIC simulation-based education studies testing significance demonstrate at least partial improvement in patient-level (Kirkpatrick Level 4) outcomes](sbe-lmic-most-studies-partial-improvement-level4.md) — related

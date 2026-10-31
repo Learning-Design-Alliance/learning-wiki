@@ -56,3 +56,4 @@ Meta-analysis of 127 studies (21,171 participants; 90 observational studies and 
 - [The flipped classroom effect on knowledge scores does not differ significantly between RCT and observational study designs.](flipped-classroom-effect-similar-rct-observational.md) — related
 - [Flipped classroom teaching improves medical students' multiple-choice question scores compared to traditional teaching](flipped-classroom-improves-mcq-scores-medical-students.md) — a narrower finding that bears on this claim
 - Baseline knowledge differences between flipped classroom and control groups are small and may inflate final knowledge effect estimates. — related
+- [Generative retrieval improves anatomy knowledge retention in anaesthesiology residents at one week and one month](generative-retrieval-improves-anatomy-retention-residents.md) — a narrower finding that bears on this claim

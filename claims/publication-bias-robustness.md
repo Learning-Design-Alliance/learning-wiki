@@ -65,3 +65,5 @@ Three publication-bias tests were applied. Published studies had larger effect s
 - Publication-bias analysis indicates 51 unpublished studies would be needed to reverse the meta-analysis findings — related
 - Publication bias due to small study effects was limited, and sensitivity analyses supported Winsorizing an outlying effect size — related
 - No publication bias detected across included studies in the TBL-LBL meta-analysis — related
+- Funnel plots suggest potential publication bias across the meta-analysis outcomes — reports the opposite
+- Publication bias tests provide mixed evidence but overall suggest bias is unlikely — related

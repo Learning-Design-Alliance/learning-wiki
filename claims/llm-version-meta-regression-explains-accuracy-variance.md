@@ -52,3 +52,4 @@ Meta‐regression (maximum‐likelihood, random effects) on the pooled all‐dis
 - [Question type, stem type, MCQ source, and web accessibility did not independently explain LLM accuracy heterogeneity in biomedical MCQ meta‐regressions](mcq-covariates-not-explaining-llm-accuracy-heterogeneity.md) — related
 - [GPT-4 achieves passing accuracy on USMLE Steps 1–3 (mean 86%), significantly exceeding GPT-3.5 (mean 56%)](gpt4-usme-passing-accuracy-exceeds-gpt35.md) — related
 - [Newer LLM versions generally outperformed older versions on dental examination questions](newer-llms-outperform-older-dental-exams.md) — a narrower finding that bears on this claim
+- [Any type of prompt significantly improved performance for both GPT-3.5 (68% vs 54%, P=.03) and GPT-4 (85% vs 79%, P<.01)](prompts-improve-chatgpt-exam-accuracy.md) — related

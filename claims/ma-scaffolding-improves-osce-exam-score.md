@@ -80,3 +80,4 @@ Linear-model analysis of the same randomized comparison confirmed the exam-score
 - [In an RCT reviewed by this study, an LLM-based digital patient improved ophthalmology medical history-taking skills relative to control](llm-digital-patient-improves-history-taking-rct.md) — related
 - [Near-peer feedback improved clinical note scores compared to no feedback in one included study](near-peer-feedback-improves-clinical-note-scores.md) — related
 - [Software-based platforms generally improve examination scores, diagnostic accuracy, and decision-making performance](software-platforms-improve-knowledge-and-decision-making.md) — a broader claim this one bears on
+- [Candidates receiving additional musculoskeletal training (lectures, workshops, video, spaced education, or SCIM) scored higher or similar on OSCEs compared with controls](additional-msk-training-osce-higher-or-similar.md) — related

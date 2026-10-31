@@ -59,3 +59,6 @@ Narrative synthesis of 9 USMLE benchmark evaluation studies within the review's 
 - [ChatGPT-4.0 outperforms ChatGPT-3.5 in medical licensing exams, achieving a pooled accuracy of 81.8% versus 60.8%](chatgpt-4-pooled-accuracy-818-percent-licensing-exams.md) — a broader claim this one bears on
 - [Newer LLM versions generally outperformed older versions on dental examination questions](newer-llms-outperform-older-dental-exams.md) — a narrower finding that bears on this claim
 - [LLMs perform worse on dental licensing examinations than on medical licensing examinations](llms-perform-worse-dental-than-medical-licensing-exams.md) — related
+- [In the combined review analysis, ChatGPT-3.5 failed eight of nine UK postgraduate exams while ChatGPT-4 passed nine of eleven](chatgpt-4-passed-nine-of-eleven-postgraduate-exams.md) — related
+- [GPT-4 achieves a pooled MCQ accuracy of 81% on medical licensing examinations, significantly surpassing GPT-3.5's 58%](gpt4-81-percent-pooled-accuracy-surpasses-gpt35.md) — a broader claim this one bears on
+- [GPT-4 passed medical licensing examinations in 26 of 29 cases and outperformed average medical students in 13 of 17 cases, while GPT-3.5 passed in only 10 of 26 and surpassed students in 4 of 14](gpt4-pass-and-student-comparison-rates.md) — related

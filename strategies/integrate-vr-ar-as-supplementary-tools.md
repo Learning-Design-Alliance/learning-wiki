@@ -46,6 +46,8 @@ The review recommends that immersive technologies like VR and AR be used as supp
 ## Related Strategies
 
 - [Position immersive technologies and virtual patients as supplementary components within blended learning rather than stand-alone replacements for established clinical communication training](immersive-tech-adjunctive-blended-not-replacement.md)
+- [Integrate simulation technologies with traditional teaching through blended approaches tailored to specific clinical tasks](blended-simulation-integration-orthodontic-curricula.md)
+- [Integrate GAI-based teaching into medical curricula with robust curricular integration, technological support, and systematic training for educators and students](gai-curricular-integration-training-strategy.md)
 
 ## Examples
 -

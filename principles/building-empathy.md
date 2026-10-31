@@ -22,7 +22,7 @@ sources:
 # Building Empathy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 15 claims (11 for, 4 mixed) · 26 studies (10 causal, 7 quant-synthesis, 4 review, 2 qualitative, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 6 of 26 report an effect size · 9 claims rest on one study
+> **Evidence** · 16 claims (12 for, 4 mixed) · 27 studies (10 causal, 8 quant-synthesis, 4 review, 2 qualitative, 1 associational, 1 design, 1 theoretical), `q1`–`q4` · 7 of 27 report an effect size · 10 claims rest on one study
 
 ## Conditional relationship
 
@@ -106,6 +106,7 @@ An immediate change in a rating, a delayed change in attitude, more accurate inf
 - [An empathy-enhancing intervention for teachers reduced suspension rates, especially for students of color](../claims/brief-intervention-empathic-discipline-cuts-suspensions.md) [+W]
 - [Personas developed without care and empathy can create stereotypes](../claims/personas-risk-stereotypes-without-empathy.md) [~W]
 - [A combined intervention of positive information about peers with disabilities plus imagined contact improved all measured outcomes in elementary school children](../claims/combined-information-imagined-contact-improves-attitudes-toward-peers-with-disabilities.md) [+W]
+- [In-person group formats were more effective than online or independent formats for empathy training](../claims/in-person-group-format-empathy-training.md) [+W]
 
 ## Related Principles
 - [Perspective Seeking/Multiple Perspectives](cognitive-flexibility.md) — empathy often grows when learners examine the same issue from more than one position.

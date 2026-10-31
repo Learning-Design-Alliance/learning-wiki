@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-10-31
 sources:
   - id: zhang-yukun-2026
     resource: "https://doi.org/10.1186/s13049-026-01574-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Steinemann (2011) reported a 16 percent reduction in total resuscitation time and faster completion of primary surveys after simulation-based team training in a trauma bay setting. [→ Zhang YuKun 2026](#zhang-yukun-2026)
@@ -49,3 +50,4 @@ The review attributes this Level 4 finding to Steinemann (2011), a before-and-af
 - [Simulation-based education studies in pediatric and neonatal critical care more consistently report system-level process improvements (Level 4a) than significant direct patient-level outcome improvements (Level 4b)](sbe-system-process-outcomes-outweigh-patient-outcomes-pediatric-critical-care.md) — a broader claim this one bears on
 - [A team-focused, video-reviewed ED CPR bundle combining mechanical compression device training, in situ simulation, and multidisciplinary video review was followed by higher ROSC](ed-cpr-bundle-higher-rosc.md) — related
 - [NTS training in ICUs is associated with reduced CPR response time and lower adjusted mortality and complication rates](nts-training-icu-process-indicator-improvements.md) — related
+- [Simulation-based emergency open-conversion training reduced time to conversion and improved leadership and role delineation in robotic prostatectomy teams](conversion-simulation-training-reduces-conversion-time.md) — related

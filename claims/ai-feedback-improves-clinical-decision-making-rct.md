@@ -57,3 +57,4 @@ RCT reported in the review's Table 3 (control n=11, feedback n=10, 4 sessions of
 - [In an RCT reviewed by this study, an LLM-based digital patient improved ophthalmology medical history-taking skills relative to control](llm-digital-patient-improves-history-taking-rct.md) — related
 - [Near-peer feedback improved clinical note scores compared to no feedback in one included study](near-peer-feedback-improves-clinical-note-scores.md) — related
 - [Software-based platforms generally improve examination scores, diagnostic accuracy, and decision-making performance](software-platforms-improve-knowledge-and-decision-making.md) — a broader claim this one bears on
+- [Immediate feedback combined with reflection improved diagnostic accuracy on training cases versus outpatient clinic attendance or lecture](immediate-feedback-reflection-diagnostic-accuracy-training-cases.md) — related

@@ -59,3 +59,5 @@ Meta-analysis of 7 studies of practical skills assessment in preventive medicine
 - [Flipped classroom instruction is associated with higher final knowledge scores than traditional instruction in medical education (SMD 0.90).](flipped-classroom-higher-knowledge-scores-medical-education.md) — related
 - [Flipped classrooms yield higher skill scores than traditional lectures in Chinese clinical practice students (pooled SMD = 7.91)](flipped-classroom-higher-skill-scores-clinical-practice.md) — a narrower finding that bears on this claim
 - [Flipped classroom instruction is associated with higher student satisfaction than traditional instruction in medical education (SMD 0.82).](flipped-classroom-higher-student-satisfaction-medical-education.md) — related
+- [Blended BOPPPS teaching is associated with higher total scores than lecture-based learning in Chinese medical undergraduates](blended-boppps-higher-total-scores.md) — related
+- [Flipped classroom shows a significant pooled advantage over lecture-based learning in dental education (SMD = 0.50)](flipped-classroom-significant-vs-lbl-dental.md) — related

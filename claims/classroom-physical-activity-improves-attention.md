@@ -135,3 +135,5 @@ A registered systematic review of single (acute) bouts of classroom movement bre
 - [Classroom physical activity breaks show strong evidence of improving sustained attention in university students](pa-breaks-sustained-attention-university-strong-evidence.md) — related
 - [Performance in mathematics tests significantly improved after school-based physical activity interventions compared with control groups](pa-interventions-improve-math-performance.md) — related
 - [ALCs increase engagement in learning across studies, with no consistent detriment to academic performance](alc-engagement-increased.md) — related
+- [Acute physical activity increases on-task classroom behavior, with off-task behavior patterns differing by time of day](acute-physical-activity-increases-on-task-behavior.md) — a narrower finding that bears on this claim
+- [Age, setting, design, number of conditions, activity type, duration, intensity and test timing showed no significant moderation of acute physical activity effects on academic outcomes](no-significant-moderators-other-than-behavior-change-techniques.md) — related

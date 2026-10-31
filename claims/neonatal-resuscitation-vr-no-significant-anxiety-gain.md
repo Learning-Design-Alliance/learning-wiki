@@ -47,6 +47,6 @@ The review reports this nonrandomized quasi-experimental study of 88 prelicensur
 ## Related Claims
 - [Active methodologies show no definitive superiority over traditional teaching in undergraduate dentistry](no-definitive-superiority-active-methods-dentistry.md) — a broader claim this one bears on
 - [Gamification improved CPR learning among younger learners compared with conventional teaching methods](gamification-effective-cpr-younger-learners.md) — related
-- [VR-based nurse-physician communication team training is non-inferior to live simulation for communication performance and improves interprofessional attitudes](vr-noninferior-live-simulation-team-communication.md) — related
+- [VR-based nurse-physician communication team training produced communication performance and interprofessional-attitude gains similar to live simulation](vr-noninferior-live-simulation-team-communication.md) — related
 - [VR sepsis game decreased nursing students' anxiety by a reported 23.4%](vr-sepsis-game-anxiety-decrease.md) — related
 - [XR gesture-simulation interventions reduce anxiety in most included midwifery and nursing education studies](xr-gesture-simulation-reduces-nursing-anxiety.md) — reports the opposite

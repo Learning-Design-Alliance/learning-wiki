@@ -48,6 +48,7 @@ The article presents six generalizable guidelines for designing and implementing
 ## Related Strategies
 
 - [Apply seventeen evidence-based design guidelines when developing formative assessment with analytic rubrics for complex skills](seventeen-design-guidelines-analytic-rubrics.md)
+- [Develop standardised validated content-assessment tools and theory-based guidelines for TST video creators](standardised-tst-video-assessment-tool-and-creator-guidelines.md)
 
 ## Examples
 -

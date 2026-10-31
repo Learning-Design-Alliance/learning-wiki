@@ -46,6 +46,7 @@ The program's delivery model pairs brief, frequent classroom lessons with struct
 ## Related Strategies
 
 - [Social Emotional Learning Curricula](social-emotional-learning-curricula.md)
+- [Design PPS training as blended learning with short, concise online modules and in-person workshops focused on role-play skills practice](blended-learning-pps-training-design.md)
 
 ## Examples
 -

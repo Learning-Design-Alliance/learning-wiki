@@ -63,3 +63,4 @@ Narrative synthesis of the included innovation studies: the named active-learnin
 - PBL is the most investigated active teaching methodology in undergraduate dentistry, followed by flipped classroom and gamification — related
 - [Flipped classroom combined with gamification improves academic performance and autonomy](flipped-classroom-gamification-improves-performance-autonomy.md) — a narrower finding that bears on this claim
 - [Problem-based learning, case-based learning, small group discussion, flipped learning, and blended learning were the most common online active learning strategies employed.](oal-dental-education-common-strategies.md) — related
+- [PBL approaches consistently enhance EFL student engagement, motivation, and active involvement in learning](pbl-enhances-efl-engagement-motivation.md) — a narrower finding that bears on this claim

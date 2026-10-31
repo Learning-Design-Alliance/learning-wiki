@@ -83,3 +83,4 @@ Reliability analysis of essay scoring by three high school physics teachers of 1
 - Coding of included studies reached 100% inter-coder reliability using the agreement formula — related
 - [Faculty calibration with instructional rubrics yields high inter-rater reliability, rising after repeated calibration](faculty-calibration-icc-rises-with-repeated-calibration.md) — related
 - [Rubrics enhance grading consistency and inter-rater reliability in dental education assessment](rubrics-enhance-grading-consistency-dental-education.md) — related
+- [Inter-rater reliability of the ANTS system reached substantial agreement in most raters that reported it](ants-inter-rater-reliability-substantial.md) — related

@@ -13,7 +13,7 @@ generated:
 # Exercise Breaks
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 24 claims (11 for, 10 mixed, 3 against) · 16 studies (5 quant-synthesis, 5 review, 4 causal, 1 qualitative, 1 design), `q1`–`q3` · 5 of 16 report an effect size · 22 claims rest on one study
+> **Evidence** · 25 claims (12 for, 10 mixed, 3 against) · 17 studies (6 quant-synthesis, 5 review, 4 causal, 1 qualitative, 1 design), `q1`–`q3` · 6 of 17 report an effect size · 23 claims rest on one study
 
 ## Description
 Exercise breaks are brief (typically 4–20 minute) episodes of moderate-to-vigorous physical activity — movement games, stretching, jumping, or walking — inserted between instructional segments. They function as attention-restoration and consolidation opportunities rather than as fitness interventions, though regular classroom physical activity also contributes to health outcomes.
@@ -74,6 +74,7 @@ Short aerobic activity reliably improves subsequent attention and on-task behavi
 - [Across-session focus gains extend to students with ADHD, though within-session gains do not](../claims/focus-coach-gains-extend-adhd-students.md) [~W]
 - [Effects of classroom physical activity breaks on academic performance in university students are mixed or inconclusive](../claims/pa-breaks-academic-performance-mixed.md) [~W]
 - [Evidence on selective attention from classroom physical activity breaks is inconclusive, with one study reporting a negative effect](../claims/pa-breaks-selective-attention-inconclusive.md) [~W]
+- [A single bout of acute physical activity increases overall academic outcomes in school-aged youth (Hedge's g = 0.35)](../claims/acute-physical-activity-improves-overall-academic-outcomes.md) [+W] — attached 2026-10-31 from Muntaner-Mas A et al. (2024), which proposed "Active breaks as the predominant form of acute physical activity in the reviewed interventions".
 
 ## Related Elements
 - [Attention](attention.md) — the resource exercise breaks restore; schedule breaks against attentional demand, not the clock alone
@@ -94,6 +95,7 @@ Short aerobic activity reliably improves subsequent attention and on-task behavi
 **[The Daily Mile](https://thedailymile.org)** — 15 minutes of daily running or walking embedded in the school day; implemented in over 80 countries as a scheduled whole-class activity break.
 - [Incorporate a 3-minute low-intensity exercise break about 20 minutes into university lessons](../strategies/three-minute-slow-aerobics-class-break.md)
 - [Pair Active Learning Classroom implementation with organisational and pedagogical strategies for using flexible space, and structured active breaks](../strategies/alc-pair-with-pedagogical-strategies.md)
+- [Implement acute physical activity breaks of at least 10 minutes at moderate intensity with behavior change techniques](../strategies/strategy-acute-pa-breaks-10min-moderate-with-bcts.md)
 
 ## Key Sources
 - Hillman, C. H., Erickson, K. I., & Kramer, A. F. (2008). Be smart, exercise your heart: Exercise effects on brain and cognition. *Nature Reviews Neuroscience, 9*(1), 58–65. [doi:10.1038/nrn2298](https://doi.org/10.1038/nrn2298)

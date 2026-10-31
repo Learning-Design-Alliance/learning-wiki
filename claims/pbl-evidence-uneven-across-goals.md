@@ -56,3 +56,4 @@ The article's review of the empirical evidence base for PBL states that "conside
 - [Learning through the experience of solving problems can build both content knowledge and thinking strategies](problem-experience-builds-content-and-thinking-strategies.md) — related
 - [Evidence that PBL fosters SDL is mixed across studies](pbl-fosters-sdl-mixed-evidence.md) — related
 - [Peers have an essential role in promoting SDL through collaboration, motivation and support, though effects are mixed](peers-promote-sdl-collaboration-motivation.md) — related
+- [PBL shows no benefits for hands-on, communication, or self-directed learning skills and no advantage in operational skills for diagnostic imaging](pbl-no-benefit-hands-on-communication-self-directed.md) — related

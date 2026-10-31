@@ -47,3 +47,4 @@ Review synthesis comparing coded pedagogical orientations with publication year.
 ## Related Claims
 - [School swimming programmes predominantly adopt a technical-utilitarian orientation rather than an educational-curricular one (75% versus 25%)](school-swimming-technical-utilitarian-predominance.md) — related
 - [Assessment instruments in school swimming research focus on technical execution, with few tools aligned to functional aquatic competence](swimming-assessment-instruments-technical-bias.md) — related
+- [Across the 25-year span of reviewed studies, educational approaches shifted from content-based to competency-based learning](shift-content-based-to-competency-based-learning.md) — related

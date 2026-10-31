@@ -14,7 +14,7 @@ grain_size: course
 # Learner Experience Design (LXD)
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 27 claims (16 for, 10 mixed, 1 against) · 34 studies (12 causal, 8 design, 6 review, 3 quant-synthesis, 2 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 4 of 34 report an effect size · 23 claims rest on one study
+> **Evidence** · 28 claims (17 for, 10 mixed, 1 against) · 35 studies (12 causal, 8 design, 7 review, 3 quant-synthesis, 2 associational, 2 theoretical, 1 qualitative), `q1`–`q4` · 4 of 35 report an effect size · 24 claims rest on one study
 
 ## Description
 Learner Experience Design imports the methods of user-centred design — user research, personas and scenarios, prototyping, usability testing, heuristic evaluation — into instructional design, and makes one substantive claim while doing it: **usability is not polish applied after the instruction, it is part of the instruction.**
@@ -87,6 +87,7 @@ LXD inherits the empathize-and-test moves from [Design Thinking](design-thinking
 - [Students found Myartspace easy to use and reported the visit was more engaging than traditional museum visits](../claims/myartspace-easy-to-use-and-engaging.md) [+W]
 - [High-affordance feedback tools supported accurate self-assessment while low-affordance tools hindered self-reflection](../claims/feedback-affordance-self-assessment.md) [~W]
 - [Design features such as straightforward access, mobile-ready platforms, self-paced modular formats, and scenario-based content are reported facilitators of e-learning implementation](../claims/e-learning-design-features-facilitators-accessibility-self-paced-scenario.md) [+W]
+- [User-friendly XR systems are accessible to trainees with various levels of expertise (effort expectancy)](../claims/xr-effort-expectancy-user-friendly-systems.md) [+W]
 
 #### Supporting
 - [Cognitive Load Reduction Improves Learning](../claims/cognitive-load-reduction-improves-learning.md) [+S] — the mechanism the whole argument rests on

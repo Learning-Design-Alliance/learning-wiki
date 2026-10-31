@@ -50,3 +50,4 @@ Meta-analysis of 13 RCTs (814 students) using a random-effects model due to high
 - [The SCL model improves skill scores compared to LBL in medical education](scl-improves-skill-scores.md) — related
 - [Students in the SCL group report greater satisfaction than those in the LBL group](scl-greater-student-satisfaction.md) — related
 - [Students in the SCL group experience a greater sense of burden than those in the LBL group](scl-greater-burden-of-learning.md) — related
+- [PBL significantly improves clinical skill scores compared with lecture-based learning in medical education](pbl-improves-clinical-skill-scores-versus-lbl.md) — related

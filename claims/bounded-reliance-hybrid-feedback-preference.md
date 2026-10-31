@@ -59,3 +59,4 @@ Third theme of the interview-based thematic analysis. A participant explained: "
 - [Direct GenAI-supported feedback improves immediate argument-quality gain over peer feedback, while reflective and hybrid designs outperform direct GenAI feedback](genai-feedback-design-argument-quality-gain.md) — related
 - [Most participants rejected the chatbot's guidance when revising fabricated peer feedback](majority-reject-chatbot-guidance-revision.md) — related
 - [Prior studies summarised in one article report that students rate instructor feedback above AI-generated feedback, and rate AI feedback lower once they know its origin](students-prefer-human-feedback-over-ai.md) — related
+- [AR reduces reliance on instructor supervision and enables autonomous laparoscopic practice](ar-reduces-instructor-reliance-autonomous-practice.md) — related

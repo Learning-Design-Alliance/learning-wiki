@@ -53,3 +53,4 @@ Narrative background synthesis citing prior qualitative studies of AAC users' ex
 - [Participants who accessed the report card site with mobile devices had more difficulty using it](mobile-access-increases-report-card-difficulty.md) — related
 - [Parental factors including emotional unreadiness, feeling overwhelmed, and unrealistic expectations can contribute to AAC device abandonment](parent-factors-aac-abandonment.md) — related
 - [User experience challenges include poor matching, inadequate scaffolding, and suboptimal interface design](user-experience-challenges-srl-recommenders.md) — related
+- [User-friendly XR systems are accessible to trainees with various levels of expertise (effort expectancy)](xr-effort-expectancy-user-friendly-systems.md) — related

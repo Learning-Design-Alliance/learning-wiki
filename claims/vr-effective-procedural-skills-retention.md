@@ -65,3 +65,4 @@ The review's cross-study synthesis, drawing on Blonsky et al. (multicenter RCT, 
 - [Virtual lab simulations improved blood typing knowledge and motivation but faced technical and language barriers](virtual-labs-improve-blood-typing-knowledge-motivation.md) — related
 - [The included studies do not reflect which intervention is better or which favours the acquisition and retention of knowledge more effectively.](studies-do-not-reflect-which-intervention-is-better.md) — reports the opposite
 - [VR clinical simulation produced higher anxiety than face-to-face manikin simulation in maternal-newborn nursing](vr-simulation-higher-anxiety-than-face-to-face.md) — related
+- [Digital effectiveness depends on the skill taught: virtual training matched face-to-face for suturing and knot-tying, but computer-based learning fell short for CPR](skill-type-moderates-digital-effectiveness-suturing-cpr.md) — a narrower finding that bears on this claim

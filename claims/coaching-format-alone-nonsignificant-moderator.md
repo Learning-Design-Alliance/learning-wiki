@@ -47,3 +47,4 @@ Meta-regression model across all 12 studies testing coaching format as a moderat
 ## Related Claims
 - [Performance feedback alone is not a statistically significant predictor of training effect size in group-design studies](performance-feedback-alone-nonsignificant-moderator.md) — related
 - [Training combining modeling and performance feedback is associated with larger implementation fidelity effects (β = .77, p = .04)](modeling-plus-performance-feedback-strongest-predictor.md) — related
+- [In-person group formats were more effective than online or independent formats for empathy training](in-person-group-format-empathy-training.md) — related

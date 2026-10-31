@@ -41,7 +41,8 @@ The article recommends deploying TAs as an augmentation of district-adopted curr
 - [Teachable Agent Three Design Principles](../designs/teachable-agent-three-design-principles.md)
 
 ## Related Strategies
-- 
+
+- [Integrate GAI-based teaching into medical curricula with robust curricular integration, technological support, and systematic training for educators and students](gai-curricular-integration-training-strategy.md)
 
 ## Examples
 -

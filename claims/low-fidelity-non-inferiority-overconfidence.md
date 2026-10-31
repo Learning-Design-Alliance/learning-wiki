@@ -47,3 +47,4 @@ Background statement of the review, attributed to a cited study (Massoth et al.)
 ## Related Claims
 - [Neural contrasts: confident trials recruit widespread fronto-parietal activation; confident-error trials recruit medial frontal and bilateral inferior prefrontal/insular regions; overconfidence differences are confined to the lingual gyrus](neural-contrasts-confidence-error-lingual-gyrus.md) — related
 - [Generative AI tools risk inducing overestimated abilities and diminishing training of foundational skills](generative-ai-overconfidence-risk.md) — related
+- [High-fidelity SBL does not outperform low-fidelity SBL on knowledge and skill gains, per one study the review cites](high-fidelity-not-superior-to-low-fidelity-sbl.md) — a narrower finding that bears on this claim

@@ -52,6 +52,7 @@ The predominant instructional strategy across included studies was "simulation-b
 - [Simulation Based Medical Training](simulation-based-medical-training.md)
 - [Simulation Based Training](simulation-based-training.md)
 - [Simulation Based Learning](simulation-based-learning.md)
+- [Adapt simulation delivery during pandemics using e-learning platforms, small groups, in-situ delivery, and PPE-conserving substitutions](pandemic-simulation-implementation-adaptations.md)
 
 ## Examples
 -

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: LLM accuracy increases monotonically with prompt sophistication across semantically equivalent medical questions, with Low Literacy users scoring significantly below Prompt Engineer users
-description: LLM accuracy increases monotonically with prompt sophistication across semantically equivalent medical questions, with Low Literacy users scoring significantly below Prompt Engineer users
+title: On MedQA, GPT-5.4-mini's accuracy increases monotonically with prompt sophistication across semantically equivalent questions, with generated Low Literacy prompt variants scoring significantly below Prompt Engineer variants
+description: On MedQA, GPT-5.4-mini's accuracy increases monotonically with prompt sophistication across semantically equivalent questions, with generated Low Literacy prompt variants scoring significantly below Prompt Engineer variants
 id: prompt-privilege-monotonic-accuracy-gap-medqa
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-11
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-31
 recheck_by: 2029
 sources:
   - id: lier-jin-2026
@@ -37,15 +38,15 @@ sources:
     rigour: 1
 ---
 
-# LLM accuracy increases monotonically with prompt sophistication across semantically equivalent medical questions, with Low Literacy users scoring significantly below Prompt Engineer users
+# On MedQA, GPT-5.4-mini's accuracy increases monotonically with prompt sophistication across semantically equivalent questions, with generated Low Literacy prompt variants scoring significantly below Prompt Engineer variants
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 3 of 3 entries) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 > **Design limits** · Lier Jin 2026 (3): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
-`q2 i?` Across semantically equivalent MedQA prompts answered by the same model, accuracy exhibits a consistent monotonic trend in which it increases with prompt sophistication. [→ Lier Jin 2026](#lier-jin-2026)
+`q2 i?` Across semantically equivalent MedQA prompt variants generated to represent user cohorts (not collected from real users) and answered by the same model, GPT-5.4-mini, accuracy exhibits a consistent monotonic trend in which it increases with prompt sophistication. [→ Lier Jin 2026](#lier-jin-2026)
 `q2 i?` The Low Literacy cohort achieves the lowest baseline accuracy (82.4%) and the Prompt Engineer cohort the highest (83.4%). [→ Lier Jin 2026 (2)](#lier-jin-2026-2)
 `q2 i?` Among all cohort pairs, only the Low Literacy versus Prompt Engineer comparison reaches statistical significance, a 1.0 percentage-point difference with a 95% confidence interval excluding zero. [→ Lier Jin 2026 (3)](#lier-jin-2026-3)
 

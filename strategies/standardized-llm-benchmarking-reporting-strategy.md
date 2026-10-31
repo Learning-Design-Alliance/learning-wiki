@@ -49,6 +49,7 @@ In its future directions, the article calls for standardized reporting in primar
 - [Develop rigorous benchmarks for LLM data extraction tasks in education systematic reviews](develop-benchmarks-llm-data-extraction-education.md)
 - [Extend educational LLM benchmarking toward multilingual contexts, real classroom interaction data, and targeted training for identified capability gaps](future-educational-llm-benchmark-extensions.md)
 - [Staged future-research agenda for transitioning LC assessment tools from developmental validation to safe clinical integration](lc-assessment-tools-future-research-agenda.md)
+- [Future research should use broader question formats, non-English training data, and LLMs beyond ChatGPT](future-research-broader-questions-non-english-llms.md)
 
 ## Examples
 -

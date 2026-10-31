@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 185 claims (83 for, 91 mixed, 11 against) · 124 studies (47 review, 32 causal, 19 quant-synthesis, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 29 of 124 report an effect size · 180 claims rest on one study
+> **Evidence** · 205 claims (96 for, 98 mixed, 11 against) · 134 studies (52 review, 32 causal, 24 quant-synthesis, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 30 of 134 report an effect size · 200 claims rest on one study
 
 ## Conditional relationship
 
@@ -325,6 +325,12 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [Robotic novices trained with extended reality simulators complete tasks significantly faster than novices with no additional training](../claims/xr-training-faster-time-to-complete-than-no-training.md) [+W] — attached 2026-10-31 from Bickford Michael et al. (2025), which proposed "Use extended reality simulators as a low-cost, low-risk environment for training robotic surgery novices"; tests this page's relationship.
 - [High-fidelity simulation methods (simulators, 3D models, cadaver-based practice) are associated with superior Acquisition retention, though some studies report contradictory findings](../claims/high-fidelity-simulation-associated-with-superior-acquisition-retention.md) [+W] — attached 2026-10-31 from Wang L‐W et al. (2025), which proposed "Design PoCUS curricula that integrate high-fidelity hands-on simulation and clinical context rather than relying on one-time short-course instruction"; tests this page's relationship.
 - [Only two studies evaluated learning outcomes, with small improvements and very low to moderate certainty](../claims/nts-training-icu-learning-outcomes-limited.md) [+W] — attached 2026-10-31 from Fernandes Pimenta Isac Davidson Santiago et al (2025), which proposed "Use simulation-based training as the primary strategy for teaching non-technical skills in ICUs"; tests this page's relationship.
+- [Simulation-based learning consistently improves nursing students' knowledge and skills acquisition across diverse designs and simulation topics](../claims/sbl-improves-nursing-knowledge-skills-acquisition.md) [+W] — attached 2026-10-31 from Alharbi et al. (2024), which proposed "Use simulation-based learning as a core teaching strategy in nursing education while continuing to evaluate and refine it"; tests this page's relationship.
+- [Evidence on SBL retention of knowledge and skills is mixed and limited to two-to-five-month follow-ups](../claims/sbl-retention-mixed-limited-followup.md) [~W] — attached 2026-10-31 from Alharbi et al. (2024), which proposed "Use simulation-based learning as a core teaching strategy in nursing education while continuing to evaluate and refine it"; tests this page's relationship.
+- [Virtual reality simulation training is associated with safer cataract surgery outcomes than supervised surgical training on actual patients alone](../claims/vrs-safer-than-supervised-cataract-training.md) [+W] — attached 2026-10-31 from Dormegny Lea et al. (2024), which proposed "Use virtual reality simulation prior to performing real cataract surgery cases"; tests this page's relationship.
+- [Significant patient-safety improvements were found in 80% of comparative virtual reality simulation studies for cataract surgery training](../claims/vrs-comparative-studies-safety-improvements.md) [+W] — attached 2026-10-31 from Dormegny Lea et al. (2024), which proposed "Use virtual reality simulation prior to performing real cataract surgery cases"; tests this page's relationship.
+- [Virtual simulations and mannequins or real persons show no significant difference in fostering clinical reasoning, but the evidence is inconclusive](../claims/vs-mannequin-rp-no-difference-clinical-reasoning.md) [~W] — attached 2026-10-31 from Jiang N et al. (2024), which proposed "Adopt virtual simulations as viable alternatives to face-to-face simulation where cost-utility and time-space flexibility matter".
+- [VR teaching yields significantly higher clinical operation scores than traditional teaching in orthopedic education](../claims/vr-higher-clinical-operation-scores.md) [+W] — attached 2026-10-31 from Li Ting et al. (2025), which proposed "Adopt VR technology in orthopedic medical education to improve surgical competence, pending stronger validation"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -419,6 +425,20 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [In thyroid surgery training, simulation and virtual-reality training improved technical performance and task completion time, and simulators were rated as realistic](../claims/simulation-vr-improves-thyroid-surgery-technical-performance.md) [+W]
 - [Immersive VR assessments of nursing and medical students are concentrated in settings that are difficult to replicate, especially emergencies](../claims/vr-assessments-concentrated-in-difficult-to-replicate-emergency-settings.md) [+W]
 - [Standardized patients produced higher knowledge scores than high-fidelity simulation, but performance scores did not differ (Tuzer et al. study)](../claims/standardized-patients-vs-high-fidelity-simulator-knowledge.md) [~W]
+- [An intensive 5-day cataract surgery simulation program lowered posterior capsule rupture rates versus standard training, with competency gains normalizing by 15 months](../claims/cataract-simulation-lower-rupture-competency-normalizes.md) [+W]
+- [Helping Babies Breathe simulation training was associated with reduced neonatal mortality in LMIC facilities, but skills decayed within 4–6 months without maintenance](../claims/hbb-simulation-reduced-mortality-skill-decay.md) [+W]
+- [A 2-day foot ulcer simulation training workshop increased podiatrists' confidence and significantly improved their theoretical knowledge and practical skills](../claims/fust-workshop-improved-confidence-knowledge-skills.md) [+W]
+- [Comparative ISBTT studies suggest simulation added to training improves collaborative behaviors, with mixed results for modality and interprofessional versus uniprofessional comparisons](../claims/isbtt-comparative-studies-mixed-results.md) [~W]
+- [Post-intervention knowledge and skill scores rise 20–50% over pre-intervention scores in reviewed SBL studies](../claims/sbl-post-intervention-gains-20-50-percent.md) [+W]
+- [VR-based teaching improves clinical understanding and clinical thinking ability more than traditional teaching](../claims/vr-clinical-understanding-thinking.md) [+W]
+- [Digital effectiveness depends on the skill taught: virtual training matched face-to-face for suturing and knot-tying, but computer-based learning fell short for CPR](../claims/skill-type-moderates-digital-effectiveness-suturing-cpr.md) [~W]
+- [High-fidelity SBL does not outperform low-fidelity SBL on knowledge and skill gains, per one study the review cites](../claims/high-fidelity-not-superior-to-low-fidelity-sbl.md) [~W]
+- [VR-based teaching yields significantly higher initiative ability than traditional teaching](../claims/vr-higher-initiative-ability.md) [+W]
+- [VR-based teaching yields significantly higher operative design scores than traditional teaching](../claims/vr-higher-operative-design-scores.md) [+W]
+- [VR simulation of orthodontic treatment produced higher student engagement and learning satisfaction than PowerPoint analysis](../claims/vr-higher-engagement-than-powerpoint-orthodontics.md) [+W]
+- [The motivational advantage of VR-based learning over traditional methods narrows over time, suggesting a novelty effect](../claims/vr-motivation-novelty-effect.md) [~W]
+- [XR technologies improve surgical skills and procedural accuracy while reducing risks and operating room time (performance expectancy)](../claims/xr-improves-surgical-skills-accuracy-reduces-or-time.md) [+W]
+- [Virtual simulations are less effective than mannequins or real persons for procedural skills among nursing participants](../claims/vs-less-effective-procedural-skills-nursing.md) [~W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.

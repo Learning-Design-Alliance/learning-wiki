@@ -55,3 +55,5 @@ Random-effects meta-analysis of 57 studies (2,902 control, 2,723 GAI-assisted pa
 - [Virtual patients blended with traditional education improve knowledge more than traditional education alone (pooled SMD=0.73)](vp-blended-knowledge-advantage.md) — related
 - [Blended teaching shows no significant difference in multiple-choice question scores compared to traditional teaching](blended-teaching-no-significant-difference-mcq-scores.md) — related
 - [Simulation teaching improves medical students' multiple-choice question scores compared to traditional teaching](simulation-teaching-improves-mcq-scores-medical-students.md) — related
+- [GAI-based teaching yields higher knowledge scores in practice courses but not theory courses](gai-knowledge-gains-practice-courses.md) — a narrower finding that bears on this claim
+- [GAI-based teaching and traditional teaching produce comparable knowledge acquisition scores in medical students](gai-traditional-comparable-knowledge-acquisition.md) — reports the opposite

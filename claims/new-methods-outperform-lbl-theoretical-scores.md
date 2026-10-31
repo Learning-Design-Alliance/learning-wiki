@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Multiple new teaching methods (PBL + CBL, CBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on theoretical scores
-description: Multiple new teaching methods (PBL + CBL, CBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on theoretical scores
+title: Eight new teaching methods (PBL + CBL, PBL + CP, CBL + WeChat, PBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on residents' theoretical scores
+description: Eight new teaching methods (PBL + CBL, PBL + CP, CBL + WeChat, PBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on residents' theoretical scores
 id: new-methods-outperform-lbl-theoretical-scores
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-10-31
 sources:
   - id: guan-cheng-ye-2025
     resource: "https://doi.org/10.1186/s12909-025-07020-1"
@@ -20,14 +21,14 @@ sources:
     rigour: 3
 ---
 
-# Multiple new teaching methods (PBL + CBL, CBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on theoretical scores
+# Eight new teaching methods (PBL + CBL, PBL + CP, CBL + WeChat, PBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on residents' theoretical scores
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i2` medium
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i2` PBL + CBL, PBL + CP, CBL + WeChat, TBL, PBL, PBL + EBM and CBL each show significantly higher theoretical scores than LBL, with SMDs from 0.98 to 2.07. [→ Guan Cheng Ye 2025](#guan-cheng-ye-2025)
+`q3 i2` In a network meta-analysis of internal medicine residents in China, PBL + CBL, PBL + CP, CBL + WeChat, PBL + WeChat, TBL, PBL, PBL + EBM and CBL each show significantly higher theoretical scores than LBL, with SMDs from 0.98 to 2.30. [→ Guan Cheng Ye 2025](#guan-cheng-ye-2025)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Guan Cheng Ye, Chun Ping Liu, Wei Li, Hua Chao Zhu, Liu Lv, Zhen Hong Zhu, Yong 
 
 `q3 · i2` · `quant-synthesis · r3`
 
-In the theoretical-score NMA (72 studies, 4874 trainees), seven interventions each beat LBL significantly (P < 0.05), with printed SMDs and 95% CIs as quoted.
+In the theoretical-score NMA (72 studies, 4874 trainees), eight interventions each beat LBL significantly (P < 0.05), with printed SMDs and 95% CIs as quoted.
 
 > "PBL + CBL method (SMD = 1.61, 95% CI [1.12, 2.1]) PBL + CP method (SMD = 2.07, 95% CI [0.81, 3.34]), CBL + Wechat method (SMD = 1.74, 95% CI [0.5, 2.99]), PBL + Wechat method (SMD = 2.3, 95% CI [1.19, 3.42]), TBL method (SMD = 1.57, 95% CI [0.28, 2.85]), PBL method (SMD = 1.35, 95% CI [0.78, 1.92]), PBL + EBM method (SMD = 1.28, 95% CI [0.3, 2.25]) and CBL method (SMD = 0.98, 95% CI [0.21, 1.75]) have significant advantages"
 
@@ -57,3 +58,11 @@ In the theoretical-score NMA (72 studies, 4874 trainees), seven interventions ea
 - [TBL students show significantly higher knowledge retention than LBL students](tbl-higher-knowledge-retention-than-lbl.md) — related
 - [TBL students achieve significantly higher post-test final scores than LBL students in medical education](tbl-higher-post-test-scores-than-lbl.md) — a narrower finding that bears on this claim
 - [Team-based learning outperforms LBL in improving practical test scores of internal medicine residents](tbl-outperforms-lbl-practical-scores-residents.md) — related
+- [Blended BOPPPS teaching is associated with higher total scores than lecture-based learning in Chinese medical undergraduates](blended-boppps-higher-total-scores.md) — related
+- [CBL shows the largest effect on theoretical exam scores versus LBL (MD = 13.12) and ranks first among the seven methods](cbl-largest-theoretical-exam-effect-neurology-nma.md) — related
+- [Students learning CBL combined with other methods (e.g., CBL & PBL) reportedly score higher than those learning with CBL alone, per studies the review cites](combined-cbl-pbl-outperforms-cbl-alone-cited.md) — related
+- [In Chinese neurology training, CBL, PBL, TBL, FCM and EBM each significantly improve theoretical exam scores compared with lecture-based learning](nma-modern-methods-beat-lbl-theoretical-neurology.md) — related
+- [PBL-CBL produces significantly higher practical skills scores than LBL in orthopedic education](pbl-cbl-higher-practical-skills-orthopedics.md) — related
+- [PBL-CBL produces significantly higher theoretical knowledge scores than LBL in orthopedic education](pbl-cbl-higher-theoretical-scores-orthopedics.md) — a narrower finding that bears on this claim
+- [PBL-CBL outperforms LBL on subjective comprehensive competencies including self-learning, interest, efficiency, clinical thinking, teamwork, and communication](pbl-cbl-subjective-competencies-orthopedics.md) — related
+- [TBL produces significantly higher theoretical test scores than PBL in medical education (SMD = 0.37)](tbl-higher-theoretical-test-scores-than-pbl.md) — related

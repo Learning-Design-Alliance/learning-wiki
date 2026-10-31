@@ -51,3 +51,6 @@ Meta-analysis of 14 RCTs with 1056 students (528 per arm), random-effects model 
 - [TBL effects on theoretical knowledge and practical skills are larger in interventions lasting more than 4 weeks](tbl-effect-larger-interventions-over-four-weeks.md) — related
 - [Both Chinese and Western students benefit from TBL, with Western students showing larger score improvements](tbl-benefits-chinese-and-western-students.md) — related
 - [TBL students achieve significantly higher post-test final scores than LBL students in medical education](tbl-higher-post-test-scores-than-lbl.md) — related
+- [Blended teaching (TBL plus feedback and reflection) outperformed traditional bedside teaching on clinical reasoning performance](blended-teaching-tbl-feedback-reflection-beats-bedside-teaching.md) — related
+- [Freshmen, academically weaker students, undergraduates, Chinese female students and nursing students appear to benefit most from TBL](tbl-beneficiary-groups.md) — related
+- [TBL shows favorable outcomes for clinical performance, skills and learner engagement](tbl-performance-engagement-favorable.md) — a broader claim this one bears on

@@ -49,3 +49,7 @@ The review reports a randomised crossover study of 11 novice surgical trainees a
 - [Three comparative studies reported superior outcomes for distance simulation over traditional training, involving augmented reality telementoring, remote robotic teaching, and a virtual classroom](distance-simulation-superior-outcomes-three-studies.md) — related
 - [VR training's effect on OSATS-assisted skill acquisition shows conflicting evidence](vr-osats-conflicting-evidence.md) — related
 - [In thyroid surgery training, simulation and virtual-reality training improved technical performance and task completion time, and simulators were rated as realistic](simulation-vr-improves-thyroid-surgery-technical-performance.md) — related
+- [AR-assisted training improves OSATS Global scores in novice laparoscopic learners](ar-training-improves-osats-global-laparoscopic.md) — related
+- [OSATS was the most frequently used technical-skills assessment tool, but many OSATS variations were used without validity evidence](osats-most-common-ts-tool-variations-lack-validity.md) — related
+- [Surgical performance improvement after virtual reality simulator training is limited to novice and intermediate trainees, not experienced or expert surgeons](vrs-performance-gains-novice-intermediate-only.md) — related
+- [Virtual reality simulation training is associated with safer cataract surgery outcomes than supervised surgical training on actual patients alone](vrs-safer-than-supervised-cataract-training.md) — related

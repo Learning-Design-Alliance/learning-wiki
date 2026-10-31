@@ -48,3 +48,4 @@ The review reports generative AI performance on orthopaedic board-style question
 ## Related Claims
 - [General-purpose LLMs show accuracy and reliability limits, including hallucinations and task-specific accuracy below perfect, making them risky as expert advice sources](llm-accuracy-hallucination-coaching-risk.md) — a broader claim this one bears on
 - [ChatGPT shows high success on open-ended general chemistry exam questions but lower accuracy at the university level, and unverified copying of its answers is a reported risk](chatgpt-accuracy-varies-by-question-level.md) — related
+- [Only 40% of ChatGPT-generated dermatology board-style questions were applicable for exams](dermatology-mcqs-40-percent-applicable.md) — related

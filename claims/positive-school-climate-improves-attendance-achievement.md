@@ -78,3 +78,4 @@ A cited pathway study reported in the review found "the strongest linkage to be 
 - [Principal turnover often has negative effects on student achievement, teacher retention, and school culture unless a much more effective principal replaces the prior one](principal-turnover-negative-effects.md) — related
 - [Among school-level factors, only principal leadership and school culture correlate positively with CMSE](cmse-school-level-correlates.md) — related
 - [Study resources buffer the negative impact of study demands on student psychological well-being](study-resources-buffer-demand-impact.md) — related
+- [School climate correlates positively with academic achievement in included Indian studies, with reported correlations of 0.637 and 0.55 and higher grades in strong learning climates](school-climate-academic-achievement-correlations-india.md) — a narrower finding that bears on this claim

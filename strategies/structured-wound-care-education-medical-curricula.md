@@ -42,7 +42,7 @@ The review concludes there is "an obvious need to integrate structured wound car
 - [Interprofessional teams identified pressure ulcer risks better than individuals in a simulation study](../claims/interprofessional-teams-better-pressure-ulcer-hazard-identification.md) [+W]
 - [Only nine studies of educational interventions for chronic wound care targeting medical students were identified in a scoping review of six databases](../claims/nine-studies-medical-student-wound-care-education.md) [+W]
 - [No study compared the effectiveness of different wound care educational approaches or against traditional lectures](../claims/no-comparative-effectiveness-wound-care-methods.md) [~W]
-- [Online and interprofessional wound care courses increased students' subjective knowledge and were well accepted](../claims/online-interprofessional-courses-subjective-knowledge-gains.md) [+W]
+- [Online and interprofessional wound care courses increased students' subjective knowledge, and the online courses were well accepted](../claims/online-interprofessional-courses-subjective-knowledge-gains.md) [+W]
 - [Medical students and interns poorly identified pressure ulcer risk in a patient-safety simulation](../claims/poor-pressure-ulcer-risk-identification-room-of-horrors.md) [+W]
 - [Included wound care educational interventions showed positive effects on students' wound care knowledge and clinical skills, mainly via self-assessment](../claims/wound-care-interventions-improve-knowledge-skills-self-assessed.md) [+W]
 

@@ -75,3 +75,4 @@ Table 6 summary of the author's lab's experimental tests reports the immersion p
 - [Head-mounted display interventions improve anatomy recognition, spatial orientation, and learner confidence versus conventional instruction](hmd-improves-spatial-understanding-and-confidence.md) — reports the opposite
 - [Virtual patient simulations were delivered via immersive systems (nine studies) or desktop-based platforms (ten studies), all as single-session interventions](vp-technology-modalities-single-session.md) — related
 - [Across all modalities, training interventions improved either performance or safety outcomes](training-interventions-improve-performance-or-safety-across-modalities.md) — related
+- [All included VR training interventions used non-immersive desktop systems; no immersive VR studies met the review's inclusion criteria](all-included-vr-interventions-non-immersive-desktop.md) — related

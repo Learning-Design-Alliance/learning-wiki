@@ -54,3 +54,10 @@ Subgroup analysis by LLM type across the 36 included studies (GPT-4 n=30, GPT-3.
 - [ChatGPT-4.0 outperforms ChatGPT-3.5 in medical licensing exams, achieving a pooled accuracy of 81.8% versus 60.8%](chatgpt-4-pooled-accuracy-818-percent-licensing-exams.md) — possibly the same claim (merge candidate)
 - [Bard achieves an integrated accuracy of 56% on dental licensing examinations](bard-integrated-accuracy-56-percent-dental-licensing.md) — reports the opposite
 - [GPT-4 outperforms GPT-3.5 and Bard on dental licensing examinations, achieving an integrated accuracy of 72%](gpt-4-outperforms-gpt-3-5-and-bard-dental-licensing-accuracy.md) — related
+- [Included studies report ChatGPT-3.5 accuracy from 36% to 77% and GPT-4 accuracy from 64.4% to 100%](accuracy-ranges-35-versus-gpt4-studies.md) — a narrower finding that bears on this claim
+- [ChatGPT-4 outperformed ChatGPT-3.5 in every postgraduate examination both models were tested on](chatgpt-4-outperformed-35-in-all-shared-exams.md) — a narrower finding that bears on this claim
+- [ChatGPT models achieve a pooled accuracy of 70.1% on national health licensing examinations](chatgpt-pooled-accuracy-70-percent-licensing-exams.md) — related
+- [GPT-4 achieves a pooled MCQ accuracy of 81% on medical licensing examinations, significantly surpassing GPT-3.5's 58%](gpt4-81-percent-pooled-accuracy-surpasses-gpt35.md) — related
+- [GPT-4 significantly outperforms ChatGPT-3.5 in accuracy on national health licensing examinations](gpt4-outperforms-chatgpt35-licensing-exams.md) — possibly the same claim (merge candidate)
+- [In the one human-vs-LLM comparison, human-written MCQs outperformed ChatGPT-generated MCQs in quality and validity, while AI was far faster](humans-outperform-chatgpt-mcq-quality.md) — related
+- [Any type of prompt significantly improved performance for both GPT-3.5 (68% vs 54%, P=.03) and GPT-4 (85% vs 79%, P<.01)](prompts-improve-chatgpt-exam-accuracy.md) — related

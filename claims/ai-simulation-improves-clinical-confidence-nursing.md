@@ -54,3 +54,4 @@ The review reports a pre/post-test study (attributed to Creighton et al., 2025) 
 - [Simulation-based education improves nursing students' clinical decision-making, judgment, and self-confidence](simulation-improves-nursing-decision-making-confidence.md) — related
 - [Extended immersive ward-based simulation may improve preparedness and self-confidence of nursing students](immersive-ward-simulation-improves-preparedness.md) — related
 - [Self-confidence is an additional critical attribute of clinical readiness for practice among student nurses beyond previously identified attributes](self-confidence-additional-attribute-clinical-readiness.md) — related
+- [Simulation-based training improved PPE donning/doffing performance and reduced cognitive load from pre-test to post-test](simulation-ppe-donning-doffing-pre-post-gains.md) — related

@@ -49,3 +49,4 @@ This is the review's cross-study synthesis of the 22 included empirical studies,
 - [AI-mediated language instruction produces significantly greater English learning achievement gains than traditional instruction among EFL learners](ai-instruction-greater-efl-achievement-gains.md) — related
 - [AWE tools such as Grammarly, Quillbot and DeepL Write significantly improve writing precision, fluency and grammatical proficiency through immediate and customized feedback](awe-improve-precision-fluency-grammatical-proficiency.md) — related
 - [In one mixed-methods study of university students, reported in a review, gamified vocabulary learning gave better test results, motivation and satisfaction than traditional instruction](gamification-raises-motivation-satisfaction.md) — related
+- [PBL, including PBL combined with VR, improves EFL vocabulary acquisition](pbl-improves-efl-vocabulary-acquisition.md) — related

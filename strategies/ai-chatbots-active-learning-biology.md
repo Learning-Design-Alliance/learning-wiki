@@ -41,6 +41,7 @@ The review recommends that AI tools including chatbots be "strategically employe
 - [Use asynchronous AI tutoring for students' first engagement with challenging material, reserving class time for higher-order skills](ai-tutor-first-exposure-flipped-strategy.md)
 - [Virtual Flipped Classroom](virtual_flipped_classroom.md)
 - [Introduce prompt-engineering training before students use Gen AI for structured self-study techniques](prompt-engineering-training-before-gen-ai-self-study.md)
+- [Introduce and promote PBL pedagogy in undergraduate pharmacology education](promote-pbl-undergraduate-pharmacology.md)
 
 ## Examples
 -

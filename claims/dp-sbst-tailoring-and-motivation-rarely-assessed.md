@@ -49,3 +49,4 @@ The review's synthesis of task design across included studies reports that "only
 - [DP-informed simulation-based surgical training is associated with improved psychomotor skill acquisition in laparoscopic surgery](dp-informed-sbst-improves-laparoscopic-psychomotor-skills.md) — related
 - [Stepwise task progression was reported in five of ten included studies and identified as important for skills training](stepwise-task-progression-in-dp-sbst.md) — related
 - [Human mentor feedback was often judged superior to automated simulator feedback for guiding skill acquisition](human-feedback-superior-to-automated-feedback-dp-sbst.md) — related
+- [Trainee satisfaction was rarely assessed in cataract surgery training studies and did not correlate with training outcomes](trainee-satisfaction-rarely-assessed-cataract-training.md) — related

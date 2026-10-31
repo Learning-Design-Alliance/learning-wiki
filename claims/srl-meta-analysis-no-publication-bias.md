@@ -100,3 +100,8 @@ Publication-bias assessment of the 15 included studies using a funnel plot and E
 - No publication bias detected across included studies in the TBL-LBL meta-analysis — related
 - Publication bias tests found no statistically significant evidence of publication bias — related
 - Publication bias is present in the OSCE reliability literature, with funnel plot asymmetry detected by Egger's regression test (p < 0.001) — related
+- The meta-analysis results are statistically stable under sensitivity analysis and show no evidence of publication bias — related
+- No significant publication bias was detected for the knowledge and skill outcomes — related
+- Sensitivity analysis and funnel plots indicated the meta-analysis results were stable and free of significant publication bias — related
+- [The pooled PSU–achievement estimate is robust to outlier removal and shows no evidence of publication bias](psu-estimate-robust-no-publication-bias.md) — related
+- Publication bias tests provide mixed evidence but overall suggest bias is unlikely — related

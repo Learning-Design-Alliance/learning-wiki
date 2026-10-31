@@ -54,6 +54,7 @@ The article recommends a blended debrief approach: the four PEARLS phases (react
 - [Debriefing](debriefing.md)
 - [Simulation Based Medical Training](simulation-based-medical-training.md)
 - [Use clinical pause points during simulation debriefing to promote timely knowledge construction and clinical judgement](clinical-pause-simulation-debriefing.md)
+- [Redesign ISBTT programs with explicit interprofessional learning goals, power-focused debriefing, matched facilitators, and longitudinal formats](isbtt-redesign-strategy.md)
 
 ## Examples
 -

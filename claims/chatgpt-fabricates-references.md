@@ -58,3 +58,4 @@ The authors' own verification test: ChatGPT cited "Ribeiro and Vala, 2020" with 
 - [The main concern in all critical evaluations was the veracity of ChatGPT-provided references, which often do not exist](chatgpt-references-often-do-not-exist.md) — a broader claim this one bears on
 - [GPT-3 fabricates plausible-looking but fake references and apparently invents the research studies they cite](gpt3-fabricates-fake-references.md) — possibly the same claim (merge candidate)
 - [Bard unexpectedly cited references including the 2021 AAMC SJT practice exam booklet, suggesting potential use as a reference manager despite its inaccuracy](bard-citation-behavior-reference-manager-potential.md) — related
+- [Hallucination, fabrication and reduced explanation accuracy limit ChatGPT's potential as a medical learning tool](hallucination-and-explanation-accuracy-limit-chatgpt-learning-tool.md) — a broader claim this one bears on

@@ -44,7 +44,8 @@ The review recommends the use of cross-method validity, as proposed by Hung et a
 - [Virtual reality simulator performance has limited correlation with intraoperative robotic hysterectomy performance.](../claims/weak-correlation-vr-simulator-intraoperative-performance.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Validate automated video analytics and reach metric consensus before widespread adoption in surgical training](validate-video-analytics-before-adoption.md)
 
 ## Examples
 -

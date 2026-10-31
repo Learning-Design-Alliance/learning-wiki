@@ -50,3 +50,4 @@ Qualitative theme with categories Benefits to SRL, Benefits to acting, and Issue
 - [A six-week SRL video annotation intervention was followed by a statistically significant increase in high school students' ITS-AR monologue scores](srl-video-annotation-improved-acting-rubric-scores.md) — related
 - [Participants unanimously reported increased confidence in acting performance over the course of the intervention](srl-intervention-increased-acting-confidence.md) — related
 - [Qualitative findings indicate perceived benefits of recognition, meaning-making, and practical tips, alongside mixed emotional responses including distress](story-mine-qualitative-mixed-experiences.md) — related
+- [Most students found the added workload of case-based simulation manageable, with benefits outweighing extra effort](simulation-workload-perceived-manageable.md) — related

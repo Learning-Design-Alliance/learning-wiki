@@ -51,3 +51,5 @@ Subgroup analysis of theoretical knowledge scores by intervention duration; the 
 - [TBL is associated with higher theoretical knowledge scores than LBL in Chinese neurology education (SMD = 1.16)](tbl-higher-theoretical-knowledge-scores-neurology-china.md) — related
 - [Short-duration (<24 weeks) interventions positively impact reading comprehension (SMD = 0.24)](short-duration-interventions-improve-reading-comprehension.md) — related
 - [Both Chinese and Western students benefit from TBL, with Western students showing larger score improvements](tbl-benefits-chinese-and-western-students.md) — related
+- [GAI-based teaching improves knowledge scores when learning duration exceeds one week](gai-knowledge-gains-extended-duration.md) — related
+- [Meta-regression finds discipline, country, year, and learner identity do not significantly explain heterogeneity in TBL-versus-PBL effects](meta-regression-covariates-not-significant-tbl-pbl.md) — related

@@ -71,4 +71,4 @@ The same ANCOVA found achievement level significant: "partial η2 = 0.157, effec
 - [Structured GenAI scaffolding training raises sophomore STEM students' posttest CSEM electromagnetism scores over problem-solving training (d = 0.81)](genai-scaffolding-training-improves-revision-performance.md) — related
 - [Collaborative problem-solving students significantly outperformed individual problem-solving students on the electromagnetism problem-solving posttest](cps-outperformed-ips-on-epst-posttest.md) — related
 - [CPS benefited low-achievers significantly more than IPS on problem-solving, closing the gap with high-achievers, while high-achievers gained equally from both](cps-benefits-low-achievers-closing-gap.md) — related
-- [TBL benefits on scores differ by academic standing: high achievers gain more while low achievers may benefit less in problem-solving](tbl-benefits-vary-by-academic-standing.md) — related
+- [TBL effects on scores differ by academic standing: in one study high achievers outperformed LBL peers in problem-solving while low achievers scored lower, and in another weaker students gained more](tbl-benefits-vary-by-academic-standing.md) — related

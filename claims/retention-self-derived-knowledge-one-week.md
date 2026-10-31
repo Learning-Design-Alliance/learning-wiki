@@ -55,3 +55,4 @@ One-week retention test in the classroom experiment with 96 second-graders. Open
 - [Skilled comprehenders show superior one-week retention of a taught knowledge base despite comparable immediate recall](skilled-comprehenders-better-delayed-knowledge-retention.md) — related
 - [Multiple-choice testing improves later cued recall of prose facts, a benefit that persists though reduced after a one-week delay](mc-testing-prose-cued-recall-benefit.md) — related
 - [Self-derivation through memory integration extends to science curriculum content, with open-ended performance comparable to general-knowledge stimuli](self-derivation-extends-science-curriculum.md) — related
+- [Age, curriculum type and retention interval predict basic science knowledge retention](age-curriculum-retention-interval-predict-retention.md) — related

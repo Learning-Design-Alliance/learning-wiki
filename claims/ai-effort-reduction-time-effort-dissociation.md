@@ -95,3 +95,4 @@ Completion-sample participants answered the 5-question NASA-TLX after each task.
 - [Designer workload across an 11-module instructional design model for product development averaged normal-to-high (50–75%)](nasa-tlx-normal-high-workload-design-process.md) — related
 - [Providing video feedback is easier than ever, making its cost-benefit question timely](video-feedback-easier-than-ever.md) — related
 - [AR telestration lowers cognitive workload during surgical training as measured by validated instruments](ar-lowers-cognitive-workload.md) — related
+- [AR-assisted training reduces subjective workload (NASA-TLX) in novice learners](ar-training-reduces-subjective-workload.md) — related

@@ -83,3 +83,4 @@ Results-section synthesis describing narrative medicine as an approach that "has
 - [Simulation increases participants' empathy, communication and interpersonal skills and decreases anxiety](simulation-increases-empathy-communication-skills.md) — a narrower finding that bears on this claim
 - [Virtual patient interventions improved medical students' empathy in all 19 included studies, with effects reported immediately after intervention in 17 studies](vp-interventions-empathy-improvements-all-19-studies.md) — a narrower finding that bears on this claim
 - [Clinical placement experiences, including early placement and patient interactions, enhance SDL](clinical-placement-enhances-sdl.md) — related
+- [Demonstrating compassion in serious illness conversations is more challenging via telehealth because the whole person cannot be seen](sic-compassion-telehealth-challenge.md) — related

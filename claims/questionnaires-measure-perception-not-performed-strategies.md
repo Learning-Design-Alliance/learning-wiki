@@ -62,3 +62,4 @@ The editorial's methodological-considerations section states this validity chall
 - [Students' perceptions of the tool's impact on learning were partly consistent with their self-reported metacognitive gains and logged tool use](perceived-impact-partly-corroborated-by-gains.md) — related
 - [Findings are limited by perception-based self-report measures and a single online context, requiring further research on generalizability](als-employability-study-limitations-perception-single-context.md) — related
 - [Integrating behavioral trace data with outcomes and self-report reveals feedback effects that perception and performance measures alone miss](behavioral-data-essential-for-feedback-evaluation.md) — related
+- [Self-report survey measures of integrity may diverge from actual behaviour, as illustrated by participants' self-perceptions versus admitted conduct](self-report-diverges-from-behaviour-ri.md) — a narrower finding that bears on this claim

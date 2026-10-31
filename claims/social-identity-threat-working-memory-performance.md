@@ -63,3 +63,4 @@ The review reports experimental social identity threat research (Beilock et al.,
 - [Stereotype threat compromises the test performance of learners whose group is the target of a negative stereotype](stereotype-threat-compromises-performance.md) — a broader claim this one bears on
 - [Fixed mindset peer cultures are theorized to erode belonging via identity threat, especially for minoritized students](fixed-mindset-peer-culture-identity-threat.md) — related
 - [Altering the order of administration of math and verbal tests serves as an ecological intervention that reduces stereotype threat on girls’ math performance.](test-order-intervention-reduces-stereotype-threat-girls-math.md) — related
+- [Technical skill assessments show mixed gender effects, with initial task differences disappearing after training and no evidence that stereotype threat impairs female performance](technical-skills-gender-mixed-training-erases-gaps.md) — related

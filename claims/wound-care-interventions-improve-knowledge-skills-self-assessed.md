@@ -47,6 +47,6 @@ The review's descriptive synthesis of the nine included quasi-experimental and m
 ## Related Claims
 - [Only nine studies of educational interventions for chronic wound care targeting medical students were identified in a scoping review of six databases](nine-studies-medical-student-wound-care-education.md) — related
 - [No study compared the effectiveness of different wound care educational approaches or against traditional lectures](no-comparative-effectiveness-wound-care-methods.md) — related
-- [Online and interprofessional wound care courses increased students' subjective knowledge and were well accepted](online-interprofessional-courses-subjective-knowledge-gains.md) — a narrower finding that bears on this claim
+- [Online and interprofessional wound care courses increased students' subjective knowledge, and the online courses were well accepted](online-interprofessional-courses-subjective-knowledge-gains.md) — a narrower finding that bears on this claim
 - [Reviewed peer-tutoring simulation studies mostly reached only Kirkpatrick Level 2, with no assessment of behavior change or clinical-practice results](kirkpatrick-level2-ceiling-peer-tutoring-sbe.md) — related
 - [Knowledge and self-efficacy in COVID-19 caregiving increased after a self-learning software intervention](self-learning-software-increased-covid-caregiving-knowledge.md) — related

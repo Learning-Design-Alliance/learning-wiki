@@ -52,3 +52,4 @@ Inter-rater analysis of rubric-component scores from 231 pre-service teachers gr
 - [Expert human raters established an inter-rater reliability benchmark above ICC 0.89 on all four IELTS dimensions for the essay corpus](human-inter-rater-benchmark-icc-above-089-essays.md) — reports the opposite
 - [An LLM-based AI Evaluator agrees with expert human raters on collaboration transcripts at a level similar to inter-expert agreement](llm-evaluator-agreement-matches-expert-raters.md) — related
 - [Grading variability: 40.7% of grade variance lies between teachers and essay quality is the largest random effect](variance-decomposition-teacher-grading.md) — related
+- [Inter-rater reliability of the ANTS system reached substantial agreement in most raters that reported it](ants-inter-rater-reliability-substantial.md) — related

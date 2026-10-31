@@ -49,6 +49,7 @@ The authors recommend that nursing educators adopt a strategic, outcome-driven a
 
 - [Scaffold method choice by student progression: CBL early, transitioning to PBL and TBL](scaffold-cbl-early-transition-pbl-tbl.md)
 - [Integrate TBL with other teaching methods and modern educational technologies](tbl-integration-with-other-methods.md)
+- [Adopt TBL preferentially for theoretical knowledge outcomes in medical education, applied flexibly by context](adopt-tbl-for-theoretical-outcomes-medical-education.md)
 
 ## Examples
 -

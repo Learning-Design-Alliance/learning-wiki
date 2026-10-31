@@ -96,3 +96,5 @@ Study of 11 novice surgical trainees evaluating a virtual classroom training pla
 - [Remote teaching achieves competency outcomes equivalent to traditional learning for basic surgical skills in most studies](rt-equivalent-to-tl-basic-surgical-skills.md) — related
 - [Robotic novices trained with extended reality simulators complete tasks significantly faster than novices with no additional training](xr-training-faster-time-to-complete-than-no-training.md) — related
 - [In thyroid surgery training, simulation and virtual-reality training improved technical performance and task completion time, and simulators were rated as realistic](simulation-vr-improves-thyroid-surgery-technical-performance.md) — related
+- [AR-assisted training improves OSATS Global scores in novice laparoscopic learners](ar-training-improves-osats-global-laparoscopic.md) — related
+- [Virtual reality simulation training is associated with safer cataract surgery outcomes than supervised surgical training on actual patients alone](vrs-safer-than-supervised-cataract-training.md) — related

@@ -50,4 +50,7 @@ Subgroup analysis of 6 studies focused on Chinese students and 20 studies on Wes
 - [TBL effects on theoretical knowledge and practical skills are larger in interventions lasting more than 4 weeks](tbl-effect-larger-interventions-over-four-weeks.md) — related
 - [TBL alone and TBL combined with other methods both outperform LBL, with no significant difference between the two TBL formats](tbl-alone-versus-blended-no-significant-difference.md) — related
 - [In Chinese neurology education, TBL alone or combined with other methods is associated with improved self-study ability, communication skills, and teamwork ability versus LBL](tbl-improves-self-study-communication-teamwork.md) — related
-- [Multiple new teaching methods (PBL + CBL, CBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on theoretical scores](new-methods-outperform-lbl-theoretical-scores.md) — related
+- [Eight new teaching methods (PBL + CBL, PBL + CP, CBL + WeChat, PBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on residents' theoretical scores](new-methods-outperform-lbl-theoretical-scores.md) — related
+- [In Chinese neurology training, CBL, PBL, TBL, FCM and EBM each significantly improve theoretical exam scores compared with lecture-based learning](nma-modern-methods-beat-lbl-theoretical-neurology.md) — related
+- [Freshmen, academically weaker students, undergraduates, Chinese female students and nursing students appear to benefit most from TBL](tbl-beneficiary-groups.md) — related
+- [Insufficient evidence exists to compare TBL with other active learning methods](tbl-vs-active-methods-insufficient-evidence.md) — related

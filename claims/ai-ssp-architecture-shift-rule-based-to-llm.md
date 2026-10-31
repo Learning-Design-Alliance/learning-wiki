@@ -52,3 +52,4 @@ Review synthesis across the 20 unique systems charted by publication year and un
 - Twenty-one studies describing 20 unique AI-SSP systems for clinical competency assessment were published between 2008 and 2026, with 71% published in 2024 or later — related
 - [Clearest LLM-teaching signals appear in settings with clearly defined tasks, immediate feedback, and repeated practice, such as simulated patients and structured feedback](llm-teaching-benefits-task-defined-feedback-settings.md) — related
 - The 11 included records spanned publication years 1991 to 2022, with most (n = 6) published in 2016 or later. — related
+- [Across the 25-year span of reviewed studies, educational approaches shifted from content-based to competency-based learning](shift-content-based-to-competency-based-learning.md) — related

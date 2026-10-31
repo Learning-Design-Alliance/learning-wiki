@@ -51,3 +51,5 @@ The review's Discussion states that "evidence supporting the transferability of 
 - [No longitudinal studies or RCTs demonstrate that AI-acquired skills transfer to the operating room](no-longitudinal-evidence-ai-skill-transfer-or.md) — related
 - [Evidence on transfer to clinical behavior and patient outcomes is scarce: only 2 studies reached Kirkpatrick level 3 and 1 reached level 4](transfer-and-patient-outcomes-scarce.md) — related
 - [Evidence on simulation-based leadership training lacks longitudinal follow-up and objective patient-centered outcomes, limiting causal inference](limited-longitudinal-evidence-simulation-leadership.md) — related
+- [In 82% of studies on transferability, simulation performance was correlated with better operating room performance](simulation-performance-correlated-better-or-performance.md) — reports the opposite
+- [XR technologies improve surgical skills and procedural accuracy while reducing risks and operating room time (performance expectancy)](xr-improves-surgical-skills-accuracy-reduces-or-time.md) — related

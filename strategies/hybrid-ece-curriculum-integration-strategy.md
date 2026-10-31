@@ -51,6 +51,7 @@ The review recommends that curriculum integration of ECE proceed "through hybrid
 
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 - [Use virtual simulations to enhance cognitive learning while prioritizing in-person laboratory sessions for psychomotor and technical skills](virtual-simulations-cognitive-in-person-psychomotor.md)
+- [Integrate high-quality, high-fidelity simulation-based learning into endocrinology curricula alongside traditional methods](integrate-high-quality-sbl-endocrinology-curricula.md)
 
 ## Examples
 -

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-10-31
 sources:
   - id: zagalo-daniela-mariana-2026
     resource: "https://doi.org/10.1186/s12909-026-09059-0"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Psychiatrists who participated in structured communication skills training demonstrated increased patient-centeredness and enhanced competence with open-ended questions and social communication categories. [→ Zagalo Daniela Mariana 2026](#zagalo-daniela-mariana-2026)
@@ -71,3 +72,5 @@ The review's challenges analysis states that CST research shows positive short-t
 - [Short-term, non-longitudinal training programmes pose challenges for estimating long-term skill retention](short-term-training-challenges-long-term-skill-retention.md) — a broader claim this one bears on
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related
 - [Evidence on simulation-based leadership training lacks longitudinal follow-up and objective patient-centered outcomes, limiting causal inference](limited-longitudinal-evidence-simulation-leadership.md) — related
+- [Appropriate communication skills — including silence, mirroring, and open-ended questions — are core competencies for serious illness conversations](sic-communication-skills-silence-mirroring.md) — related
+- [Effective use of the Serious Illness Conversation Guide is itself a competence requiring balance between structure and flexibility](sicg-use-structure-flexibility-competence.md) — related

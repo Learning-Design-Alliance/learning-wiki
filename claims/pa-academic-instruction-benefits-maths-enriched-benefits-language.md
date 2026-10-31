@@ -53,3 +53,4 @@ Meta-regressions on mathematics outcomes reported in the Results moderator secti
 - [Intervention dosage (duration, frequency, intensity) shows no consistent association with app effect sizes](app-dosage-no-consistent-association.md) — related
 - [Interventions lasting ≥24 weeks show larger effects on mathematics and overall academic achievement than shorter interventions](longer-interventions-improve-mathematics-and-overall-achievement.md) — related
 - [Moderate-intensity physical activity is positively associated with mathematics and overall academic achievement](moderate-intensity-activity-improves-mathematics-and-overall-achievement.md) — related
+- [Acute physical activity improves language performance overall (g = 0.28 multivariate), driven by reading, with no significant effect on spelling or sentence comprehension](acute-physical-activity-improves-language-performance.md) — related

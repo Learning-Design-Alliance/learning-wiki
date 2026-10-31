@@ -80,6 +80,7 @@ The flipped model's advantage comes from spending scarce synchronous time on act
 - [Design synchronous online sessions as interactive lessons rather than recorded-style lectures](interactive-synchronous-sessions-strategy.md)
 - [Use blended bookend learning combining self-paced online modules with synchronous interactive discussion and case supervision](blended-bookend-learning-psychiatric-education.md)
 - [Pair online lectures with virtual role-play or simulation sessions to add experiential learning](online-lecture-virtual-roleplay-simulation.md)
+- [Design PPS training as blended learning with short, concise online modules and in-person workshops focused on role-play skills practice](blended-learning-pps-training-design.md)
 
 ## Examples
 - **Michigan State University's fully online flipped calculus courses** — students watch short videos and complete online checks before live problem-solving sessions; published studies report improved pass rates over lecture-based online sections.

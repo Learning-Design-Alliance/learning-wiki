@@ -50,3 +50,4 @@ Evaluation of EMCQG's generated questions: a stratified random sample of 435 que
 - [Prior automatic MCQ generation approaches produce structurally simple questions (at most two stem entities) testing mainly recall](prior-aqg-simple-recall-questions.md) — related
 - [Expert evaluation found the hybrid system's generated MCQ stems promising in usefulness and grammatical correctness](expert-evaluation-mcq-stems-promising.md) — related
 - [Prior AQG work shows ML yields grammatically correct Cloze questions while ontology approaches struggle with Cloze but produce meaningful Wh-type questions](ml-cloze-ontology-wh-grammaticality-gap.md) — related
+- [Most reviewed studies (5 of 8) demonstrated that LLMs can produce MCQs valid for medical exams](llm-mcq-generation-majority-valid.md) — related

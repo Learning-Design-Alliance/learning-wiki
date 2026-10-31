@@ -82,3 +82,5 @@ The review attributes longitudinal findings to named recent investigations: Baug
 - Five research gaps were identified: lack of explicit empathy definitions, limited scenario diversity, absence of repeated interventions, self-report limitations, and insufficient long-term outcome evidence — related
 - [Lack of long-term follow-up limits evidence on sustained effectiveness of active methodologies](lack-follow-up-limits-long-term-evidence.md) — related
 - [Virtual patient interventions improved medical students' empathy in all 19 included studies, with effects reported immediately after intervention in 17 studies](vp-interventions-empathy-improvements-all-19-studies.md) — a narrower finding that bears on this claim
+- [Peer-assisted ultrasound teaching can produce long-term retention of knowledge and skills](peer-teaching-long-term-retention-ultrasound.md) — related
+- [The long-term impact of simulation-based learning on knowledge retention and clinical practice remains uncertain](sbl-long-term-retention-uncertain.md) — related

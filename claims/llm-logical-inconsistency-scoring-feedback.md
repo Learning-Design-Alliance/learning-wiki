@@ -63,3 +63,4 @@ Qualitative constant comparative analysis of GPT-4's reasoning chains during the
 - [AI models inconsistently capture expert feedback points across generation attempts](ai-feedback-inconsistent-across-attempts.md) — related
 - [Research-informed and ML-based rubrics assess students' mechanistic reasoning comparably, supporting ML techniques in rubric development](ml-and-research-informed-rubrics-assess-comparably.md) — related
 - [LLMs prompted with diverse strategies can analyze educational survey feedback and generate corrective tutor feedback at or above expert human performance in specific scenarios](llm-prompting-human-level-educational-feedback.md) — related
+- [The review concludes GPT-4 is not yet suitable for use in medical education despite its potential, due to insufficient accuracy, inconsistent performance, and country-specific policy and knowledge challenges](gpt4-not-yet-suitable-medical-education.md) — related

@@ -50,7 +50,8 @@ The review reports that Marcussen et al. investigated interprofessional training
 ## Related Claims
 - [Interprofessional home visits by student teams reduced 30-day hospital readmission rates compared to a control group (p = 0.038)](interprofessional-hotspotting-home-visits-reduced-readmissions.md) — related
 - [In a theory-guided in-situ simulation programme, an interprofessional primary care team progressed through the expansive learning cycle from questioning current practice to consolidating new practices](simlab-expansive-learning-cycle-progression.md) — related
-- [VR-based nurse-physician communication team training is non-inferior to live simulation for communication performance and improves interprofessional attitudes](vr-noninferior-live-simulation-team-communication.md) — related
+- [VR-based nurse-physician communication team training produced communication performance and interprofessional-attitude gains similar to live simulation](vr-noninferior-live-simulation-team-communication.md) — related
 - [Skill retention after simulation is rarely measured; at 2-month follow-up only the VR group maintained significant ISVS improvement](simulation-skill-retention-two-month-follow-up.md) — related
 - [Mixed interprofessional group training promoted mutual respect, understanding of roles, and appreciation of teamwork among ED participants](interprofessional-mixed-groups-mutual-respect-consent-training.md) — related
 - [Simulation-based training is associated with communication and teamwork gains of approximately 2–3 points and NOTSS domain means of 2.8–3.5 on 4-point scales](simulation-communication-teamwork-gains-notss.md) — related
+- [Comparative ISBTT studies suggest simulation added to training improves collaborative behaviors, with mixed results for modality and interprofessional versus uniprofessional comparisons](isbtt-comparative-studies-mixed-results.md) — related

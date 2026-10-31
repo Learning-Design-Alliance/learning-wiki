@@ -54,3 +54,4 @@ Subgroup meta-analysis by teaching method for problem-solving abilities, reporte
 - [PBL and TBL significantly improve nursing students' self-directed learning](pbl-tbl-self-directed-learning-subgroups.md) — related
 - [TBL improves ethical reasoning and moral sensitivity](tbl-improves-ethical-reasoning-moral-sensitivity.md) — related
 - [Cluster analysis identifies PBL + WeChat, TBL and CBL + WeChat as most promising for theoretical and practical performance with low dissatisfaction](cluster-analysis-pbl-wechat-tbl-cbl-wechat-most-promising.md) — related
+- [TBL produces significantly higher theoretical test scores than PBL in medical education (SMD = 0.37)](tbl-higher-theoretical-test-scores-than-pbl.md) — related

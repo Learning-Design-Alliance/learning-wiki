@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-31
 sources:
   - id: maes-m-2026
     resource: "https://doi.org/10.1186/s12909-025-08561-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Studies incorporating force-feedback and structured, real-time guidance more frequently reported improvements in accuracy and learning efficiency. [→ Maes M 2026](#maes-m-2026)
@@ -54,3 +55,6 @@ Descriptive direction-of-effect synthesis across haptic simulator RCTs; the revi
 - [Pre-training educational video review improved simulator scores and shortened the learning curve but temporarily increased completion time](video-review-improves-scores-plateau-earlier.md) — related
 - [DP-informed simulation-based surgical training is associated with improved psychomotor skill acquisition in laparoscopic surgery](dp-informed-sbst-improves-laparoscopic-psychomotor-skills.md) — related
 - [VR/haptics intravenous simulator training reduced state anxiety in all groups with no significant group differences](vr-haptics-iv-simulator-anxiety-no-group-difference.md) — related
+- [Qualitative synthesis indicates AR shortens learning curves, reduces errors, and differentiates proficiency levels in laparoscopic training](ar-qualitative-synthesis-learning-curves-errors.md) — related
+- [Simulator feedback frequency was significantly higher than human instructor feedback in one catheterization training study](simulator-feedback-frequency-higher-than-human-instructor.md) — related
+- [XR technologies improve surgical skills and procedural accuracy while reducing risks and operating room time (performance expectancy)](xr-improves-surgical-skills-accuracy-reduces-or-time.md) — a broader claim this one bears on

@@ -51,3 +51,5 @@ Bootstrapping analysis submitting each exam to GPT-4 50 times (API 'n' parameter
 - [Exam questions that GPT-4 answered inconsistently or incorrectly were harder for human examinees, who scored about 63–68% on them versus about 75% on the rest](gpt4-inconsistent-questions-harder-for-students.md) — related
 - [GPT-3.5 passes Dutch VWO English reading comprehension exams with a mean grade of 7.3 with re-prompting, and 6.5 when only its first responses are scored](gpt35-passes-dutch-vwo-english-exams.md) — related
 - [GPT-4 significantly outperforms the average Dutch student on VWO English reading comprehension, scoring 8.3 (March) and 8.1 (June) without re-prompting](gpt4-outperforms-average-student-english-exams.md) — related
+- [The authors argue that LLMs such as GPT-3 threaten OBE validity by enabling answers without deep understanding, particularly in unproctored settings](llms-threaten-obe-validity-argument.md) — related
+- [MELD analysis found no completion matched the MRCP sample paper at 95% or more, suggesting ChatGPT-4 was unlikely trained on it](meld-analysis-suggests-no-mrcp-training-data-memorisation.md) — related

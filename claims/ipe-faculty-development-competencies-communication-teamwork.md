@@ -53,3 +53,4 @@ This scoping review of 26 publications on faculty development in interprofession
 - [IPE interventions show significant improvements in role clarity, communication skills, and teamwork dynamics](ipe-improves-role-clarity-communication-teamwork.md) — related
 - [Teams and teamwork is the most frequently developed IPEC core competency in interprofessional education, identified in 65 instances across 62 studies](ipe-teams-teamwork-most-frequent-competency.md) — related
 - [Data analysis and management, communication and teamwork, and evaluation of AI tools were each identified by 43% of included studies](three-competencies-43-percent-studies.md) — related
+- [Small interdisciplinary teamwork was the most widely reported teaching strategy, explicitly reported in 62 articles](small-interdisciplinary-teams-62-articles.md) — related

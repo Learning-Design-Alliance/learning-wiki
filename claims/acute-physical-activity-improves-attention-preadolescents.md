@@ -52,3 +52,5 @@ Meta-analysis pooling 6 acute physical activity intervention studies in children
 - [Duration and intensity of PA bouts may moderate attention effects, consistent with an inverted-U hypothesis](pa-duration-intensity-inverted-u-attention.md) — related
 - [Type of PA may moderate acute effects: coordinative exercises outperformed a normal PE lesson of the same intensity](coordinative-exercises-attention-advantage.md) — related
 - [Two 20-min MVPA bouts in a school morning yielded better selective attention than one bout or remaining seated (B = −0.26; 95% CI (−0.52, −0.00))](two-bouts-better-than-one-selective-attention.md) — a narrower finding that bears on this claim
+- [Acute physical activity improves mathematics performance in school-aged youth (Hedge's g = 0.29 multivariate)](acute-physical-activity-improves-mathematics-performance.md) — related
+- [A single bout of acute physical activity increases overall academic outcomes in school-aged youth (Hedge's g = 0.35)](acute-physical-activity-improves-overall-academic-outcomes.md) — related

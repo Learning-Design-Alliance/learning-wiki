@@ -46,6 +46,9 @@ Network meta-analysis of 55 studies (3485 trainees) on practical test scores; TB
 
 ## Related Claims
 - [Students in TBL groups report higher satisfaction than students in LBL groups](tbl-higher-student-satisfaction-neurology.md) — related
-- [Multiple new teaching methods (PBL + CBL, CBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on theoretical scores](new-methods-outperform-lbl-theoretical-scores.md) — related
+- [Eight new teaching methods (PBL + CBL, PBL + CP, CBL + WeChat, PBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on residents' theoretical scores](new-methods-outperform-lbl-theoretical-scores.md) — related
 - [TBL alone and TBL combined with other methods both outperform LBL, with no significant difference between the two TBL formats](tbl-alone-versus-blended-no-significant-difference.md) — related
 - [In Chinese neurology education, TBL alone or combined with other methods is associated with improved self-study ability, communication skills, and teamwork ability versus LBL](tbl-improves-self-study-communication-teamwork.md) — related
+- [In Chinese neurology training, CBL, PBL, TBL, FCM and EBM each significantly improve theoretical exam scores compared with lecture-based learning](nma-modern-methods-beat-lbl-theoretical-neurology.md) — related
+- [PBL is the highest-ranked strategy for improving medical students' experimental or practical test scores, significantly outperforming LBL](pbl-highest-ranked-practical-test-scores-nma.md) — reports the opposite
+- [For practical skills, EBM shows the largest effect versus LBL (MD = 13.34) and the ranking is CBL > EBM > PBL > TBL > FCM > CP > LBL](practical-skills-ranking-ebm-cbl-neurology-nma.md) — reports the opposite

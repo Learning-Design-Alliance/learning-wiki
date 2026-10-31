@@ -56,3 +56,4 @@ Narrative synthesis of the review's 23 included studies on validity and reliabil
 - [Three independent expert instructors reached exceptionally high inter-rater reliability when grading 1200 bash exam responses, establishing a reliable human reference standard](expert-triad-high-inter-rater-reliability-bash-grading.md) — related
 - [The framework shows high scoring consistency, with 79% agreement and 81% inter-rater reliability on physics questions](framework-scoring-high-consistency-physics.md) — related
 - [Human inter-rater agreement on the writing rubric is imperfect: no rubric item reaches full agreement and the most discrepant rater generally falls below 80%](human-inter-rater-agreement-imperfect-upper-bound.md) — reports the opposite
+- [Raters of a videotaped fracture-scenario OSCE showed high internal consistency but only moderate inter-rater reliability across subspecialties and seniority levels](videotaped-osce-rater-reliability.md) — related

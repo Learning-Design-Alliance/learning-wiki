@@ -50,3 +50,4 @@ The review's computer vision theme reports that AI-driven systems can automatica
 - [VR tools enhance acquisition and retention of clinical and procedural skills but face barriers including cybersickness, limited tactile feedback and variable long-term skill transfer](vr-enhances-practical-skill-acquisition-with-barriers.md) — a broader claim this one bears on
 - [VR simulation training improves orthopaedic trainees' technical proficiency and shortens operative times](vr-simulation-improves-ortho-technical-proficiency.md) — related
 - [Most VR assessments occur at Miller's performance level, with the action level absent](vr-assessments-mostly-performance-level-miller.md) — related
+- [Computer vision tracking is the most common method of automated operative video analysis, with CNN the leading AI-based approach](computer-vision-tracking-most-common-video-analysis-method.md) — related
