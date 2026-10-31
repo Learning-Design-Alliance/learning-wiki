@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>In-context examples improve LLM Bloom classification: three-shot and ten-shot prompting outperform zero-shot across datasets - Learning Design Wiki</title>
+<title>In-context examples improve LLM Bloom classification: three-shot and ten-shot prompting score at or above zero-shot on every dataset tested, and above it in most comparisons - Learning Design Wiki</title>
 <link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
 <link rel="stylesheet" href="../../assets/stylesheets/main.57a0d79d.min.css">
 <link rel="stylesheet" href="../../assets/stylesheets/palette.fb2fffe2.min.css">
@@ -18,11 +18,11 @@
 <form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
 </header>
 <main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
-<h1 id="in-context-examples-improve-llm-bloom-classification-three-shot-and-ten-shot-prompting-outperform-zero-shot-across-datasets">In-context examples improve LLM Bloom classification: three-shot and ten-shot prompting outperform zero-shot across datasets<a class="headerlink" href="#in-context-examples-improve-llm-bloom-classification-three-shot-and-ten-shot-prompting-outperform-zero-shot-across-datasets" title="Permanent link">&para;</a></h1>
+<h1 id="in-context-examples-improve-llm-bloom-classification-three-shot-and-ten-shot-prompting-score-at-or-above-zero-shot-on-every-dataset-tested-and-above-it-in-most-comparisons">In-context examples improve LLM Bloom classification: three-shot and ten-shot prompting score at or above zero-shot on every dataset tested, and above it in most comparisons<a class="headerlink" href="#in-context-examples-improve-llm-bloom-classification-three-shot-and-ten-shot-prompting-score-at-or-above-zero-shot-on-every-dataset-tested-and-above-it-in-most-comparisons" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Claim</strong> · <a href="../">All claims</a><br />
 <strong>Evidence</strong> · 1 study · causal <code>r2</code> · <code>q2</code><br />
-<strong>Currency</strong> · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly</p>
+<strong>Currency</strong> · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly</p>
 </blockquote>
 <h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
 <details class="info">
@@ -31,12 +31,12 @@
 the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
 <p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
 </details>
-<p><code>q2 i?</code> Both three-shot and ten-shot prompting outperform zero-shot prompting across datasets, though zero-shot still yields reasonable performance. <a href="#abdolali-faraji-2026">→ Abdolali Faraji 2026</a></p>
+<p><code>q2 i?</code> Across five datasets and two models (GPT-5, GPT-5-mini), three-shot and ten-shot prompting scored higher weighted F1 than zero-shot in 16 of 20 comparisons and tied it in the other four (e.g., GPT-5 on Gani: 0.75 for zero-, three- and ten-shot); zero-shot still yields reasonable performance. <a href="#abdolali-faraji-2026">→ Abdolali Faraji 2026</a></p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
 <h3 id="abdolali-faraji-2026">Abdolali Faraji 2026<a class="headerlink" href="#abdolali-faraji-2026" title="Permanent link">&para;</a></h3>
 <p>Abdolali Faraji, Mohammadreza Molavi, Zohreh Rasoulkhani, Mohammadreza Tavakoli, and Gábor Kismihók. (2026). Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs. https://arxiv.org/abs/2606.13684 <a href="https://doi.org/10.48550/arxiv.2606.13684">doi:10.48550/arxiv.2606.13684</a></p>
 <p><code>q2 · i?</code> · <code>causal · r2</code></p>
-<p>RQ2 evaluation across five datasets and five prompting strategies (Table 3). Few-shot prompts with examples drawn from the same dataset beat zero-shot; zero-shot GPT-5 still achieved weighted F1 around 0.75 on most datasets.</p>
+<p>RQ2 evaluation across five datasets and five prompting strategies (Table 3). Few-shot prompts with examples drawn from the same dataset scored above zero-shot in most comparisons and never below it; Table 3 shows four ties (GPT-5 three-shot on Mohammed 0.76 and Gani 0.75, GPT-5 ten-shot on Gani 0.75, GPT-5-mini three-shot on Yahya 0.74), although the authors' text says few-shot outperforms zero-shot across datasets. Zero-shot GPT-5 still achieved weighted F1 around 0.75 on most datasets. No significance tests are reported.</p>
 <blockquote>
 <p>"Both three-shot and ten-shot prompting outperform zero-shot prompting across datasets, suggesting that additional contextual information helps to align model predictions with Bloom's cognitive levels."</p>
 </blockquote>
