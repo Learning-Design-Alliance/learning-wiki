@@ -311,7 +311,8 @@ def screen(name, limit, workers):
     key = os.environ.get("OPENROUTER_API_KEY") or sys.exit("OPENROUTER_API_KEY is not set")
     members = load_members(name)
     ids, dois = settled_ids()
-    done = decided()
+    # A record with a missing vote (a failed call) is asked again; its new record supersedes it.
+    done = {k for k, r in decided().items() if verdict(r)[0] != "retry"}
     todo = [m for m in members if (name, m["id"]) not in done
             and m["id"] not in ids and not (m.get("doi") and m["doi"] in dois)]
     if limit:
