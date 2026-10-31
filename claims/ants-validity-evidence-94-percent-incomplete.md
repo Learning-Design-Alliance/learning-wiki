@@ -47,4 +47,4 @@ The review graded studies by number of validity measures: five level-one studies
 
 ## Related Claims
 - [The ANTS behavioural marker system has been applied across 54 studies with diverse objectives, settings, units of analysis, designs and methods](ants-applied-across-54-diverse-studies.md) — related
-- [Most studies used the ANTS system only to guide data collection rather than analysis or reporting](ants-mostly-guides-data-collection-only.md) — related
+- Most studies used the ANTS system only to guide data collection rather than analysis or reporting — related

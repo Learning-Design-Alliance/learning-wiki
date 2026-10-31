@@ -51,4 +51,4 @@ Random-effects pairwise meta-analysis of 109 independent samples from 111 includ
 - [Including didactic teaching is associated with greater intervention effectiveness for teaching empathy to physicians](didactic-teaching-method-empathy-effectiveness.md) — a narrower finding that bears on this claim
 - [In-person group formats were more effective than online or independent formats for empathy training](in-person-group-format-empathy-training.md) — related
 - [Narrative medicine education improves residents' empathy ability compared with lecture-based learning, though with publication bias detected](narrative-medicine-improves-empathy.md) — related
-- [Studies using pure control groups showed larger effect sizes than studies using education-as-usual controls](pure-control-larger-effects-education-as-usual.md) — related
+- Studies using pure control groups showed larger effect sizes than studies using education-as-usual controls — related

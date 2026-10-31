@@ -45,5 +45,5 @@ Narrative synthesis classifying each study's assessment as objective (time, moti
 
 
 ## Related Claims
-- [A systematic review of robotic surgery training identified 209 studies that included an assessment tool, out of 1591 records screened](209-studies-robotic-training-assessment-review.md) — related
+- A systematic review of robotic surgery training identified 209 studies that included an assessment tool, out of 1591 records screened — related
 - [Only three bespoke rater-based assessment tools and one sensor-based method exist for assessing non-technical skills in robotic-assisted surgery](paucity-bespoke-nts-assessment-tools-ras.md) — related

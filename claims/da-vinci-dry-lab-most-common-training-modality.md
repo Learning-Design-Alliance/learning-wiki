@@ -45,6 +45,6 @@ Narrative synthesis of the 209 included studies, grouped by training modality. T
 
 
 ## Related Claims
-- [Most robotic surgery training studies (79%) concerned basic courses, while 21% concerned advanced courses](basic-courses-dominate-robotic-training-studies.md) — related
+- Most robotic surgery training studies (79%) concerned basic courses, while 21% concerned advanced courses — related
 - [Extended reality training shows no statistically significant difference in GEARS scores compared to dry lab training](xr-vs-dry-lab-gears-no-significant-difference.md) — related
-- [From 2014 onwards, robotic training studies shifted toward transfer of virtual and dry lab skills to the wet lab and operating room](post-2014-shift-toward-skill-transfer-studies.md) — related
+- From 2014 onwards, robotic training studies shifted toward transfer of virtual and dry lab skills to the wet lab and operating room — related

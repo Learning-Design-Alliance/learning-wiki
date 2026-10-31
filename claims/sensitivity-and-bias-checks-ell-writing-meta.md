@@ -114,7 +114,7 @@ Publication bias assessment using funnel plots, trim-and-fill, and Egger's regre
 - Sensitivity and publication-bias analyses support the robustness of the pooled accuracy estimate — related
 - No publication bias detected across included studies in the TBL-LBL meta-analysis — related
 - [The CBL exam-score advantage is robust to subgroup and leave-one-out sensitivity analyses but shows potential publication bias](cbl-exam-effect-robustness-publication-bias.md) — related
-- [The meta-analysis results are statistically stable under sensitivity analysis and show no evidence of publication bias](dental-meta-stable-no-publication-bias.md) — related
-- [Sensitivity analysis and funnel plots indicated the meta-analysis results were stable and free of significant publication bias](pbl-meta-analysis-stability-sensitivity.md) — related
-- [Funnel plots suggest potential publication bias across the meta-analysis outcomes](pbl-pharmacology-publication-bias.md) — a broader claim this one bears on
-- [Publication bias tests provide mixed evidence but overall suggest bias is unlikely](publication-bias-tests-mixed-evidence.md) — related
+- The meta-analysis results are statistically stable under sensitivity analysis and show no evidence of publication bias — related
+- Sensitivity analysis and funnel plots indicated the meta-analysis results were stable and free of significant publication bias — related
+- Funnel plots suggest potential publication bias across the meta-analysis outcomes — a broader claim this one bears on
+- Publication bias tests provide mixed evidence but overall suggest bias is unlikely — related

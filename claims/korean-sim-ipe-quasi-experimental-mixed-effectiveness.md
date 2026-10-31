@@ -85,5 +85,5 @@ The review reports this semi-randomized split study found age differed between g
 ## Related Claims
 - [Korean simulation-based IPE studies report high satisfaction but concentrate on Kirkpatrick levels 1 and 2, with no study measuring level 4 training efficacy](korean-sim-ipe-kirkpatrick-levels-1-2-only.md) — related
 - [Pharmacy students in one Korean simulation-based IPE study did not increase self-efficacy, attributed to scenarios limiting pharmacists' active problem-solving roles](pharmacy-students-self-efficacy-null-scenario-role-limits.md) — a narrower finding that bears on this claim
-- [Simulation-based IPE research in South Korea consists of ten studies concentrated on undergraduate nursing and medical students, with interventions lasting 2 hours to 2 weeks](korean-sim-ipe-ten-studies-nursing-medical-dominance.md) — related
-- [The Readiness for Interprofessional Learning Scale was the most commonly used outcome measure in Korean simulation-based IPE studies, with four of ten reporting significant pre-post score changes](ripls-most-common-outcome-measure-korean-sim-ipe.md) — related
+- Simulation-based IPE research in South Korea consists of ten studies concentrated on undergraduate nursing and medical students, with interventions lasting 2 hours to 2 weeks — related
+- The Readiness for Interprofessional Learning Scale was the most commonly used outcome measure in Korean simulation-based IPE studies, with four of ten reporting significant pre-post score changes — related

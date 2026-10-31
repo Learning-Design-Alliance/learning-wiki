@@ -49,4 +49,3 @@ The review reports, citing Vamadevan and colleagues, a randomized trial in which
 - [Several included studies found haptic VR training equivalent rather than superior to conventional dental training](ir-dental-equivalence-mixed-findings.md) — related
 - [VR-enhanced basic robotic skills training sometimes required more training repetitions than conventional training to reach equivalent proficiency](vr-training-more-repetitions-to-proficiency.md) — related
 - [Across 51 included studies, most results favored haptic over non-haptic conditions in surgical virtual simulations](haptics-favored-in-majority-of-surgical-vs-studies.md) — related
-- [Most included studies used post-intervention-only metrics and nearly a quarter provided no technological orientation](orientation-and-assessment-timing-gaps-haptics-studies.md)

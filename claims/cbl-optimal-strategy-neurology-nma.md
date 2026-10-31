@@ -67,6 +67,6 @@ Publication-bias assessment of the NMA: Begg's tests and comparison-adjusted fun
 - [CBL shows the largest effect on theoretical exam scores versus LBL (MD = 13.12) and ranks first among the seven methods](cbl-largest-theoretical-exam-effect-neurology-nma.md) — a narrower finding that bears on this claim
 - [In Chinese neurology training, CBL, PBL, TBL, FCM and EBM each significantly improve theoretical exam scores compared with lecture-based learning](nma-modern-methods-beat-lbl-theoretical-neurology.md) — related
 - [For practical skills, EBM shows the largest effect versus LBL (MD = 13.34) and the ranking is CBL > EBM > PBL > TBL > FCM > CP > LBL](practical-skills-ranking-ebm-cbl-neurology-nma.md) — reports the opposite
-- [The evidence network comprised 31 RCTs with 2,124 subjects and only direct two-arm comparisons, with no closed loops](neurology-nma-network-31-rcts-no-loops.md) — related
+- The evidence network comprised 31 RCTs with 2,124 subjects and only direct two-arm comparisons, with no closed loops — related
 - [CBL is the highest-ranked strategy for enhancing medical students' theoretical test scores, with CBL, PBL, SBL and FC each significantly outperforming LBL](cbl-highest-ranked-theoretical-test-scores-nma.md) — a narrower finding that bears on this claim
 - [Subgroup results: CBL ranks best for clinical curricula and across educational backgrounds, while PBL ranks best for basic courses, developing countries, and operational skills](nma-subgroup-cbl-clinical-pbl-basic.md) — reports the opposite

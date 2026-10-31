@@ -68,7 +68,7 @@ Review synthesis of correlational patterns within the 11 impaired-performance st
 
 ## Related Claims
 - [Inducing a high-stress environment during healthcare simulation is generally associated with impaired performance](high-stress-simulation-impairs-performance.md) — a broader claim this one bears on
-- [Studies finding unaltered performance under simulation stress tended to involve more experienced participants and smaller samples](unaltered-performance-experience-underpowering.md) — related
+- Studies finding unaltered performance under simulation stress tended to involve more experienced participants and smaller samples — related
 - [Stress biomarker and self-report measures show negative correlations with simulation performance across outcome categories](stress-measures-negative-correlation-performance.md) — related
 - [Negative emotions, most commonly stress, were inversely correlated with clinical performance in some simulated or educational acute care settings](negative-emotions-inversely-correlated-performance-simulated-acute-care.md) — related
-- [The single study reporting enhanced performance under stress may reflect stressors that failed to induce sufficient stress](enhanced-performance-insufficient-stress.md) — related
+- The single study reporting enhanced performance under stress may reflect stressors that failed to induce sufficient stress — related

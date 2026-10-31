@@ -13,7 +13,7 @@ generated:
 # The 'Diagnose, Treat and SUPPORT' competency framework for managing older adults with aspiration pneumonia
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A bedside and community healthcare framework developed by Yoshimatsu Yuki et al. to organize 12 competencies for multidisciplinary management of aspiration pneumonia in older adults.
@@ -23,7 +23,6 @@ A bedside and community healthcare framework developed by Yoshimatsu Yuki et al.
 
 ### Claims
 - [A scoping review of 99 studies identified 12 clinical competencies for managing older adults with aspiration pneumonia](../claims/scoping-review-12-ap-competencies.md) [+M]
-- [Discussion of the 12 competencies in the literature is uneven: five competencies appear in 15 or more studies while seven supportive-care competencies appear in only a few](../claims/ap-competency-discussion-frequency-uneven.md) [+M]
 
 ## Related Products and Programmes
 -

@@ -17,7 +17,7 @@ sources:
 # Develop a checklist to facilitate detailed description of health-education interventions and promote replicability
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review's forward-looking recommendation addresses the inadequate reporting that limited its synthesis. As the authors state, "We recommend that a checklist is developed to facilitate a detailed description of health educational interventions and thus promoting their replicability." Such a checklist would standardize reporting of teaching methods so their effects can be examined and interventions replicated.
@@ -39,7 +39,6 @@ The review's forward-looking recommendation addresses the inadequate reporting t
 ## Claims
 
 - [Critical thinking had low significance in most interventions, typically addressed by a single under-specified method](../claims/low-significance-critical-thinking-most-interventions.md) [+W]
-- [Most health-education interventions did not examine the effectiveness of their teaching methods](../claims/most-interventions-no-effectiveness-examined.md) [+W]
 
 ## Related Strategies
 

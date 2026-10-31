@@ -45,6 +45,6 @@ Scoping review of 58 articles on ISBTT programs; the review's charting of theore
 
 
 ## Related Claims
-- [Only a small minority of ISBTT studies used the IPEC competencies to design programs or assess participants](few-isbtt-studies-used-ipec-competencies.md) — related
+- Only a small minority of ISBTT studies used the IPEC competencies to design programs or assess participants — related
 - [Most ISBTT programs are one-time events involving two or three professions, with debriefing nearly universal and psychological safety rarely addressed](isbtt-design-features-one-time-two-professions.md) — related
 - [Assessed collaborative behaviors in ISBTT rarely cover all four IPEC domains, with values and ethics almost never assessed](isbtt-outcomes-rarely-cover-all-ipec-domains.md) — related

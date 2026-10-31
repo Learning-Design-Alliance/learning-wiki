@@ -17,7 +17,7 @@ sources:
 # Prioritize longitudinal, comparative-effectiveness, and patient-outcome research and standardized practices for podiatry simulation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review's forward-looking agenda calls for future research to address the lack of longitudinal studies on simulation's long-term impact, conduct comparative effectiveness research across modalities including high-fidelity versus low-fidelity simulation and VR, link simulation training to improved patient outcomes, and establish "standardized approaches and best practices for simulation in podiatry". It also urges expanding research to advanced procedures and interprofessional collaboration.
@@ -43,7 +43,6 @@ The review's forward-looking agenda calls for future research to address the lac
 
 ## Claims
 
-- [A scoping review identified 21 studies on podiatry simulation published between 1997 and 2023, all conducted in high-income countries](../claims/podiatry-simulation-21-studies-high-income-only.md) [+M]
 - [A pilot RCT found simulation workshop participants 16 times more likely to be assessed as competent in debridement skills and more confident than controls](../claims/simulation-workshop-debridement-competence-confidence.md) [+W]
 
 ## Related Strategies

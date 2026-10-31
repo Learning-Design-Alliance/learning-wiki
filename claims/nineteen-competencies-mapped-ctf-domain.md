@@ -47,6 +47,6 @@ Mapping and discursive analysis phase conducted by the lead researcher and indep
 
 ## Related Claims
 - [Most of the 19 retained behaviour competencies originated from the PSI, RPS and SHPA frameworks](competency-origins-psi-rps-shpa.md) — related
-- [A systematic review of 48 organisation websites and six databases identified 28 competency-related documents containing 379 behaviour competencies](sr-28-documents-379-behaviour-competencies.md) — a broader claim this one bears on
-- [A four-member expert panel of Austrian hospital pharmacists validated the draft framework, reaching consensus on every suggested change](expert-panel-validation-consensus.md) — related
-- [Quality of the included competency documents could not be fully assessed with the AGREE II checklist](agree-ii-quality-assessment-limited.md) — related
+- A systematic review of 48 organisation websites and six databases identified 28 competency-related documents containing 379 behaviour competencies — a broader claim this one bears on
+- A four-member expert panel of Austrian hospital pharmacists validated the draft framework, reaching consensus on every suggested change — related
+- Quality of the included competency documents could not be fully assessed with the AGREE II checklist — related

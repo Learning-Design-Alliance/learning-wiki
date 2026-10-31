@@ -49,4 +49,3 @@ Space dimension synthesis; the 13 space papers fell into four categories: virtua
 - [Mobile devices make education more accessible anytime and anywhere, but this attractiveness comes with limitations for adoption and usage](mobile-access-anytime-anywhere-with-adoption-limits.md) — related
 - [Participants who accessed the report card site with mobile devices had more difficulty using it](mobile-access-increases-report-card-difficulty.md) — related
 - [Digital game-based learning aligns most with practice/participation and belief/perception dimensions, while mobile-enabled learning leads access to assets](dgbl-leads-participation-perception-alignment.md) — related
-- [Across 173 reviewed publications, research effort is unevenly distributed across Friedman's dimensions, with content most heavily researched (102 papers), followed by assessment (37), time (21), and space (13)](metaverse-review-dimension-paper-distribution.md)

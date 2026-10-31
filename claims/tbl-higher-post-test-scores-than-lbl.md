@@ -50,7 +50,7 @@ Meta-analysis of 28 studies comparing TBL and LBL final examination scores in me
 - [TBL students show significantly higher knowledge retention than LBL students](tbl-higher-knowledge-retention-than-lbl.md) — related
 - [TBL students achieve significantly higher pre-test scores than LBL students after team-based preparation](tbl-higher-pre-test-scores-than-lbl.md) — related
 - [Students in TBL groups report higher satisfaction than students in LBL groups](tbl-higher-student-satisfaction-neurology.md) — related
-- [Multiple new teaching methods (PBL + CBL, CBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on theoretical scores](new-methods-outperform-lbl-theoretical-scores.md) — a broader claim this one bears on
+- [Eight new teaching methods (PBL + CBL, PBL + CP, CBL + WeChat, PBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on residents' theoretical scores](new-methods-outperform-lbl-theoretical-scores.md) — a broader claim this one bears on
 - [TBL is associated with higher practical skill scores than LBL in Chinese neurology education (SMD = 1.72)](tbl-higher-practical-skill-scores-neurology-china.md) — related
 - [TBL is associated with higher theoretical knowledge scores than LBL in Chinese neurology education (SMD = 1.16)](tbl-higher-theoretical-knowledge-scores-neurology-china.md) — a narrower finding that bears on this claim
 - [In Chinese neurology education, TBL alone or combined with other methods is associated with improved self-study ability, communication skills, and teamwork ability versus LBL](tbl-improves-self-study-communication-teamwork.md) — related

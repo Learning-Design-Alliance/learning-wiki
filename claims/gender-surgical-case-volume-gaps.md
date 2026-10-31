@@ -46,7 +46,7 @@ The review reports, citing Gong et al. and a systematic review, that female trai
 
 
 ## Related Claims
-- [Published research on differential attainment in postgraduate surgical assessment is dominated by quantitative, gender-focused studies from the USA and UK](da-surgical-review-53-studies-quantitative-gender-dominated.md) — related
+- Published research on differential attainment in postgraduate surgical assessment is dominated by quantitative, gender-focused studies from the USA and UK — related
 - [Gender differences appear in progression outcomes and workplace-based assessments, including ARCP outcomes, milestone ratings, feedback language and granted autonomy, with direction varying by specialty and rater](gender-progression-workplace-assessment-gaps.md) — related
 - [Evidence on gender gaps in surgical examination pass rates is mixed, with lower female MRCS pass rates in some UK studies but no differences in several other examinations](gender-exam-pass-rate-gaps-mixed.md) — related
 - [Technical skill assessments show mixed gender effects, with initial task differences disappearing after training and no evidence that stereotype threat impairs female performance](technical-skills-gender-mixed-training-erases-gaps.md) — related

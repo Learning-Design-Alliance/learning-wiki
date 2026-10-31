@@ -45,7 +45,7 @@ Descriptive synthesis of peer teacher characteristics across included studies. T
 
 
 ## Related Claims
-- [Included studies on peer ultrasound teaching show mostly fair-to-poor methodological quality on a modified Newcastle–Ottawa Scale](nos-quality-fair-poor-peer-ultrasound-studies.md) — related
+- Included studies on peer ultrasound teaching show mostly fair-to-poor methodological quality on a modified Newcastle–Ottawa Scale — related
 - [Peer teacher training in undergraduate ultrasound is predominantly course-based, often combined with internships, with a median duration of about ten days](peer-teacher-training-course-based-median-ten-days.md) — related
 - [Peer-assisted ultrasound instruction is comparably effective to faculty-led instruction in most comparative studies](peer-teaching-ultrasound-comparable-to-faculty.md) — related
 - [Peer-assisted ultrasound teaching can produce long-term retention of knowledge and skills](peer-teaching-long-term-retention-ultrasound.md) — related

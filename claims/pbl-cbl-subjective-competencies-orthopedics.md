@@ -89,7 +89,7 @@ Meta-analysis of 2 studies (162 students) on the critical thinking disposition i
 - [MDT-CBL produced the greatest increase in learning interest versus lecture-based learning, but 3D-PBL was the only top-ranked option with high-quality evidence](mdt-cbl-greatest-learning-interest-gains.md) — related
 - [PBL alone most improves self-directed learning ability of internal medicine residents versus LBL](pbl-improves-self-directed-learning-residents.md) — related
 - [TBL alone and TBL combined with other methods both outperform LBL, with no significant difference between the two TBL formats](tbl-alone-versus-blended-no-significant-difference.md) — related
-- [Multiple new teaching methods (PBL + CBL, CBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on theoretical scores](new-methods-outperform-lbl-theoretical-scores.md) — related
+- [Eight new teaching methods (PBL + CBL, PBL + CP, CBL + WeChat, PBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on residents' theoretical scores](new-methods-outperform-lbl-theoretical-scores.md) — related
 - [In TACE clinical teaching in China, combining PBL and CBL shows more effectiveness than other compared teaching methods across nine measured outcomes](pbl-cbl-combination-most-effective-tace-teaching.md) — related
 - [More PBL than LBL students report satisfaction with improved comprehension of knowledge (RR = 1.84)](pbl-satisfaction-comprehension-knowledge.md) — related
 - [More PBL than LBL students report satisfaction with improved learning interest (RR = 2.08)](pbl-satisfaction-learning-interest.md) — a narrower finding that bears on this claim

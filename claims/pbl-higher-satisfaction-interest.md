@@ -47,5 +47,5 @@ Randomized controlled trial of 57 pharmacy students; Table 1 reports satisfactio
 ## Related Claims
 - [More PBL than LBL students report satisfaction with improved learning interest (RR = 2.08)](pbl-satisfaction-learning-interest.md) — a narrower finding that bears on this claim
 - [Students report higher satisfaction with PBL-CBL teaching than with LBL in orthopedic education](pbl-cbl-higher-teaching-satisfaction.md) — related
-- [In the RCT, PBL students scored significantly higher on communication skills and critical thinking than LBL students](pbl-rct-higher-communication-critical-thinking.md) — related
-- [In an RCT, pharmacy students taught with PBL scored significantly higher on problem-solving and self-directed learning than LBL students](pbl-rct-higher-problem-solving-self-directed-learning.md) — related
+- [In the RCT, PBL students rated their own communication skills and critical thinking significantly higher on a questionnaire than LBL students did](pbl-rct-higher-communication-critical-thinking.md) — related
+- [In an RCT, pharmacy students taught with PBL rated their own problem-solving and self-directed learning significantly higher on a questionnaire than LBL students did](pbl-rct-higher-problem-solving-self-directed-learning.md) — related

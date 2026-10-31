@@ -67,7 +67,7 @@ The review reports, citing Milam et al. and Myers et al., that studies hypothesi
 - [Stereotype Threat](../learner-variables/stereotype-threat.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Published research on differential attainment in postgraduate surgical assessment is dominated by quantitative, gender-focused studies from the USA and UK](da-surgical-review-53-studies-quantitative-gender-dominated.md) — related
+- Published research on differential attainment in postgraduate surgical assessment is dominated by quantitative, gender-focused studies from the USA and UK — related
 - [Evidence on gender gaps in surgical examination pass rates is mixed, with lower female MRCS pass rates in some UK studies but no differences in several other examinations](gender-exam-pass-rate-gaps-mixed.md) — related
 - [Female trainees report fewer operative cases and less operative experience than male trainees in several surgical specialties](gender-surgical-case-volume-gaps.md) — related
 - [Stereotype threat compromises the test performance of learners whose group is the target of a negative stereotype](stereotype-threat-compromises-performance.md) — a broader claim this one bears on

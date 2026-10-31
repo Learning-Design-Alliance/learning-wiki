@@ -96,4 +96,4 @@ Umbrella review reports the Li et al. meta-analysis of 76 RCTs in Chinese standa
 - [The SCL model improves theoretical knowledge scores compared to LBL in medical education](scl-improves-theoretical-knowledge-scores.md) — related
 - [Compared to lecture-based learning, PACS-CBL produced the greatest improvement in practical skills exam scores, with 3D-PBL and PBL-CBL next at high evidence quality](pacs-cbl-greatest-skills-exam-gains.md) — related
 - [In first-year medical students, PBL showed no significant difference from non-PBL teaching in critical thinking, problem-solving, or self-directed learning](pbl-null-first-year-medical-students.md) — related
-- [In an RCT, pharmacy students taught with PBL scored significantly higher on problem-solving and self-directed learning than LBL students](pbl-rct-higher-problem-solving-self-directed-learning.md) — related
+- [In an RCT, pharmacy students taught with PBL rated their own problem-solving and self-directed learning significantly higher on a questionnaire than LBL students did](pbl-rct-higher-problem-solving-self-directed-learning.md) — related

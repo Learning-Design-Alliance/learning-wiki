@@ -47,6 +47,6 @@ Meta-analysis of 17 randomized controlled trials comparing SBL with NSBL in endo
 ## Related Claims
 - [Simulation-based learning improves practical skill test scores in endocrinology education compared with non-simulation-based learning](sbl-improves-endocrinology-practical-skills.md) — related
 - [Subgroup factors (study quality, participant status, region, simulation technique) did not explain the heterogeneity in SBL effects](subgroups-did-not-explain-sbl-heterogeneity.md) — related
-- [No significant publication bias was detected for the knowledge and skill outcomes](no-publication-bias-sbl-endocrinology.md) — related
+- No significant publication bias was detected for the knowledge and skill outcomes — related
 - [CBL is the highest-ranked strategy for enhancing medical students' theoretical test scores, with CBL, PBL, SBL and FC each significantly outperforming LBL](cbl-highest-ranked-theoretical-test-scores-nma.md) — related
 - [Simulation-based learning consistently improves nursing students' knowledge and skills acquisition across diverse designs and simulation topics](sbl-improves-nursing-knowledge-skills-acquisition.md) — a broader claim this one bears on

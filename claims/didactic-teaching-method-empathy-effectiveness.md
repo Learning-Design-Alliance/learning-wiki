@@ -50,4 +50,4 @@ Univariate mixed-effects meta-regression within the random-effects pairwise meta
 - [Behavioural empathy interventions for physicians and medical students improve empathy skills with a moderate pooled effect (d = 0.50)](empathy-interventions-physicians-moderate-effect.md) — a broader claim this one bears on
 - [Intervention effects on empathy were larger on objective measures than on self-report measures](objective-measures-larger-empathy-effects.md) — related
 - [In-person group formats were more effective than online or independent formats for empathy training](in-person-group-format-empathy-training.md) — related
-- [Studies using pure control groups showed larger effect sizes than studies using education-as-usual controls](pure-control-larger-effects-education-as-usual.md) — related
+- Studies using pure control groups showed larger effect sizes than studies using education-as-usual controls — related

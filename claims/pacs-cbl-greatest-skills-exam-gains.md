@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: mixed
 newest_evidence: 2026
+source_checked: 2026-10-31
 sources:
   - id: gu-peng-2026
     resource: "https://doi.org/10.1186/s12909-026-08582-4"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Versus LBL, PACS-CBL improved skills exam scores most (MD 18.81, 95% CI 17.46 to 20.16), followed by 3D-PBL (MD 7.84) and PBL-CBL (MD 7.42). [→ Gu Peng 2026](#gu-peng-2026)

@@ -50,5 +50,5 @@ Single quasi-experimental two-group pre-post study among 80 nurses (40 per forma
 - [Lecture-based and 4C/ID-based training produced comparable knowledge retention among emergency care professionals](no-knowledge-difference-lecture-vs-4cid-consent-training.md) — reports the opposite
 - [Nurses begin with low baseline knowledge of diabetic foot care, and educational qualifications may moderate post-training knowledge gains](low-baseline-nurse-knowledge-moderated-by-qualification.md) — related
 - [Educational programmes are associated with significant improvements in nurses' diabetic foot care practice, measured in seven of the nine included studies](educational-programmes-improve-nurse-foot-care-practice.md) — related
-- [Online and interprofessional wound care courses increased students' subjective knowledge and were well accepted](online-interprofessional-courses-subjective-knowledge-gains.md) — related
+- [Online and interprofessional wound care courses increased students' subjective knowledge, and the online courses were well accepted](online-interprofessional-courses-subjective-knowledge-gains.md) — related
 - [In-person group formats were more effective than online or independent formats for empathy training](in-person-group-format-empathy-training.md) — related

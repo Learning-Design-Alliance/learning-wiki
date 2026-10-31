@@ -141,7 +141,7 @@ The retrieval evidence supports the readiness tests as retrieval with feedback; 
 - [TBL in medical ethics education improves knowledge retention compared to lectures](../claims/tbl-improves-ethics-knowledge-retention.md) [+W]
 - [TBL increases student satisfaction and engagement in ethics education](../claims/tbl-increases-ethics-satisfaction-engagement.md) [+W]
 - [Cluster analysis identifies PBL + WeChat, TBL and CBL + WeChat as most promising for theoretical and practical performance with low dissatisfaction](../claims/cluster-analysis-pbl-wechat-tbl-cbl-wechat-most-promising.md) [+W]
-- [TBL benefits on scores differ by academic standing: high achievers gain more while low achievers may benefit less in problem-solving](../claims/tbl-benefits-vary-by-academic-standing.md) [~W]
+- [TBL effects on scores differ by academic standing: in one study high achievers outperformed LBL peers in problem-solving while low achievers scored lower, and in another weaker students gained more](../claims/tbl-benefits-vary-by-academic-standing.md) [~W]
 - [Both Chinese and Western students benefit from TBL, with Western students showing larger score improvements](../claims/tbl-benefits-chinese-and-western-students.md) [+M]
 - [TBL students achieve significantly higher pre-test scores than LBL students after team-based preparation](../claims/tbl-higher-pre-test-scores-than-lbl.md) [+W]
 - [TBL requires more student preparation time than LBL](../claims/tbl-requires-more-preparation-time-than-lbl.md) [~W]

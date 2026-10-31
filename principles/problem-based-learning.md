@@ -32,7 +32,7 @@ sources:
 # Problem-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 77 claims (30 for, 43 mixed, 4 against) · 59 studies (18 quant-synthesis, 11 review, 10 causal, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 12 of 59 report an effect size · 72 claims rest on one study
+> **Evidence** · 76 claims (29 for, 43 mixed, 4 against) · 59 studies (18 quant-synthesis, 11 review, 10 causal, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 12 of 59 report an effect size · 71 claims rest on one study
 
 ## Conditional relationship
 
@@ -160,7 +160,6 @@ At the curriculum level, the expectation of a small and variable average should 
 - [3D + PBL improves communication ability in orthopedic education](../claims/3d-pbl-improves-communication-ability-orthopedics.md) [+W]
 - [3D + PBL improves passing rate of exams in orthopedic education](../claims/3d-pbl-improves-exam-passing-rate.md) [~W]
 - [PBL and active learning activities promote SDL while lectures and tests deter it, though evidence is inconsistent](../claims/pbl-promotes-sdl-lectures-deter.md) [~W]
-- [All outcome comparisons showed high heterogeneity (I² > 50%), and three indicators showed statistically significant publication bias](../claims/high-heterogeneity-and-publication-bias-orthopedic-nma.md) [+W]
 - [AI-powered PBL/CBL shows favourable but heterogeneous effects on clinical reasoning capability that could not be statistically pooled](../claims/ai-pbl-cbl-clinical-reasoning.md) [~W]
 - [3D-PBL showed the greatest improvement in communication skills versus lecture-based learning, rated high-quality evidence](../claims/3d-pbl-greatest-communication-skills-gains.md) [+W]
 - [3D-PBL showed the greatest improvement in self-directed learning ability versus lecture-based learning, rated high-quality evidence](../claims/3d-pbl-greatest-self-directed-learning-gains.md) [+W]

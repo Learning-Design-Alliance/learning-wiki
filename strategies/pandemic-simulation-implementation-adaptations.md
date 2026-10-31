@@ -17,7 +17,7 @@ sources:
 # Adapt simulation delivery during pandemics using e-learning platforms, small groups, in-situ delivery, and PPE-conserving substitutions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The review identifies concrete adaptations for implementing simulation under pandemic constraints. For safety and social distancing, one included study "implemented... an e-learning platform to avoid close gatherings of participants" and another divided students into small groups; for PPE shortage, "participants used standard clinical gloves in order to conserve precious PPE supplies"; and for staff shortage, studies such as Begley JL et al. "were carried out in-situ". The review suggests creating a contingency plan for simulation programs with clinician buy-in.
@@ -46,7 +46,6 @@ The review identifies concrete adaptations for implementing simulation under pan
 - [Simulation training reached Kirkpatrick level 3 (behavioral change) in five studies, but no study assessed patient outcomes](../claims/simulation-kirkpatrick-level3-behavior-no-patient-outcomes.md) [+W]
 - [Simulation-based training improved PPE donning/doffing performance and reduced cognitive load from pre-test to post-test](../claims/simulation-ppe-donning-doffing-pre-post-gains.md) [+W]
 - [PPE, including FFP2 masks with and without valves, did not impair CPR quality in a randomized controlled trial](../claims/ppe-does-not-impair-cpr-quality-rct.md) [+W]
-- [The review's evidence base comprised seven studies with 12–108 participants (median 61) and interventions of 12 minutes to three hours (median 38 minutes)](../claims/covid-icu-simulation-review-corpus-characteristics.md) [~W]
 
 ## Related Strategies
 

@@ -50,5 +50,5 @@ Meta-analysis of 12 studies (760 students) on practical skills scores. Pooled es
 - [PBL-CBL improves physical examination and case analysis performance relative to LBL](pbl-cbl-physical-exam-case-analysis.md) — a narrower finding that bears on this claim
 - [Pooled PBL-CBL versus LBL estimates show high heterogeneity and publication bias but remain robust in sensitivity and trim-and-fill analyses](pbl-cbl-meta-heterogeneity-publication-bias.md) — related
 - [PBL-CBL improves procedural skills: plaster immobilization, debridement proficiency, and aseptic awareness](pbl-cbl-procedural-skills-plaster-debridement-aseptic.md) — a narrower finding that bears on this claim
-- [Multiple new teaching methods (PBL + CBL, CBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on theoretical scores](new-methods-outperform-lbl-theoretical-scores.md) — related
+- [Eight new teaching methods (PBL + CBL, PBL + CP, CBL + WeChat, PBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on residents' theoretical scores](new-methods-outperform-lbl-theoretical-scores.md) — related
 - [PBL produces higher examination scores than LBL in undergraduate pharmacology education (SMD = 2.03)](pbl-higher-examination-scores-pharmacology.md) — related

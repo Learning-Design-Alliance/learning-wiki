@@ -53,4 +53,4 @@ Publication bias assessment (Figure 2 funnel plot plus Egger test) of the 20 inc
 - Publication bias tests and sensitivity analyses support the robustness of the pooled bilingual teaching effects — related
 - Funnel plots suggest low publication bias for score outcomes but possible small-sample bias for autonomous learning ability — related
 - [Publication bias is present in the flipped classroom meta-analysis evidence base](publication-bias-flipped-classroom-meta-analysis.md) — reports the opposite
-- [Funnel plots suggest potential publication bias across the meta-analysis outcomes](pbl-pharmacology-publication-bias.md) — reports the opposite
+- Funnel plots suggest potential publication bias across the meta-analysis outcomes — reports the opposite

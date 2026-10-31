@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "A 2-day foot ulcer simulation training workshop significantly improved podiatrists' confidence, theoretical knowledge, and practical skills"
-description: "A 2-day foot ulcer simulation training workshop significantly improved podiatrists' confidence, theoretical knowledge, and practical skills"
+title: "A 2-day foot ulcer simulation training workshop increased podiatrists' confidence and significantly improved their theoretical knowledge and practical skills"
+description: "A 2-day foot ulcer simulation training workshop increased podiatrists' confidence and significantly improved their theoretical knowledge and practical skills"
 id: fust-workshop-improved-confidence-knowledge-skills
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-10-31
 sources:
   - id: anning-naomi-2024
     resource: "https://doi.org/10.1002/jfa2.70020"
@@ -20,11 +21,11 @@ sources:
     rigour: 3
 ---
 
-# A 2-day foot ulcer simulation training workshop significantly improved podiatrists' confidence, theoretical knowledge, and practical skills
+# A 2-day foot ulcer simulation training workshop increased podiatrists' confidence and significantly improved their theoretical knowledge and practical skills
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A before–after evaluation of a 2-day practical simulation training workshop (FUST) found significant improvements in podiatrists' theoretical knowledge and practical skills and increased confidence in managing foot ulcers. [→ Anning Naomi 2024](#anning-naomi-2024)
@@ -46,5 +47,5 @@ Before–after quasi-experimental study (Lazzarini et al., as charted in Table 1
 
 ## Related Claims
 - [3D printed foot models produced similar anxiety and confidence changes to standard teaching and increased self-confidence and task self-efficacy in scalpel skill practice](3d-printed-foot-models-scalpel-skills.md) — related
-- [Online and interprofessional wound care courses increased students' subjective knowledge and were well accepted](online-interprofessional-courses-subjective-knowledge-gains.md) — related
+- [Online and interprofessional wound care courses increased students' subjective knowledge, and the online courses were well accepted](online-interprofessional-courses-subjective-knowledge-gains.md) — related
 - [A pilot RCT found simulation workshop participants 16 times more likely to be assessed as competent in debridement skills and more confident than controls](simulation-workshop-debridement-competence-confidence.md) — related

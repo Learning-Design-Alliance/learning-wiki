@@ -47,7 +47,7 @@ Systematic review synthesis of 20 included studies (926 total participants; indi
 ## Related Claims
 - [Impaired performance under simulation stress is concentrated among healthcare students and junior residents, with rising perceived anxiety, cognitive load and stress linked to poorer performance](stress-impairment-junior-learners-anxiety.md) — a narrower finding that bears on this claim
 - [Stress biomarker and self-report measures show negative correlations with simulation performance across outcome categories](stress-measures-negative-correlation-performance.md) — a narrower finding that bears on this claim
-- [Studies finding unaltered performance under simulation stress tended to involve more experienced participants and smaller samples](unaltered-performance-experience-underpowering.md) — related
-- [The single study reporting enhanced performance under stress may reflect stressors that failed to induce sufficient stress](enhanced-performance-insufficient-stress.md) — a narrower finding that bears on this claim
+- Studies finding unaltered performance under simulation stress tended to involve more experienced participants and smaller samples — related
+- The single study reporting enhanced performance under stress may reflect stressors that failed to induce sufficient stress — a narrower finding that bears on this claim
 - [Structured briefing and debriefing were largely absent from studies showing stress-impaired performance, and may contribute to impaired outcomes](briefing-debriefing-absent-impaired-studies.md) — related
 - [High stress and healthcare environment complexity are the primary barriers to effective decision-making](stress-complexity-primary-barriers-decision-making.md) — a broader claim this one bears on

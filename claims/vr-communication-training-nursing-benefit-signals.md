@@ -45,7 +45,7 @@ The review's thematic synthesis of seven included studies reports benefit signal
 
 
 ## Related Claims
-- [VR-based nurse-physician communication team training is non-inferior to live simulation for communication performance and improves interprofessional attitudes](vr-noninferior-live-simulation-team-communication.md) — related
+- [VR-based nurse-physician communication team training produced communication performance and interprofessional-attitude gains similar to live simulation](vr-noninferior-live-simulation-team-communication.md) — related
 - [In a pragmatic RCT, VR communication simulation produced higher communication ability, confidence and satisfaction and lower clinical practice stress than video-based learning](vr-rct-chou-2024-communication-outcomes.md) — a narrower finding that bears on this claim
 - [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — related
 - [AI-powered simulations show short-term gains in communication confidence and structured knowledge in RCTs, with limited or inferior effects for tactile psychomotor skills](ai-simulation-short-term-gains-nursing.md) — related

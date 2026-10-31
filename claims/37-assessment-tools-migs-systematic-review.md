@@ -45,7 +45,7 @@ Systematic review following PRISMA with PROSPERO registration (ID CRD42022376552
 
 
 ## Related Claims
-- [A systematic review of robotic surgery training identified 209 studies that included an assessment tool, out of 1591 records screened](209-studies-robotic-training-assessment-review.md) — related
+- A systematic review of robotic surgery training identified 209 studies that included an assessment tool, out of 1591 records screened — related
 - [No objective assessment tool in minimally invasive gynecological surgery showed predictive validity correlating scores with patient outcomes](no-predictive-validity-migs-tools.md) — related
 - [Only two of 37 objective assessment tools in minimally invasive gynecological surgery showed substantial evidence of validity](only-two-migs-tools-substantial-validity.md) — related
 - [The majority of automated performance metrics in gynecological surgery have limited validity evidence, hindering transferability outside research settings](apms-limited-validity-evidence.md) — related

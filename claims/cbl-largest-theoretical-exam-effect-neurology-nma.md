@@ -65,7 +65,7 @@ Bayesian NMA pairwise results: CBL significantly outperformed PBL, FCM, EBM and 
 
 ## Related Claims
 - [CBL is the highest-ranked strategy for enhancing medical students' theoretical test scores, with CBL, PBL, SBL and FC each significantly outperforming LBL](cbl-highest-ranked-theoretical-test-scores-nma.md) — possibly the same claim (merge candidate)
-- [Multiple new teaching methods (PBL + CBL, CBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on theoretical scores](new-methods-outperform-lbl-theoretical-scores.md) — related
+- [Eight new teaching methods (PBL + CBL, PBL + CP, CBL + WeChat, PBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on residents' theoretical scores](new-methods-outperform-lbl-theoretical-scores.md) — related
 - [Compared to lecture-based learning, PACS-CBL produced the greatest improvement in theoretical exam scores, with 3D-PBL and 3D-CBL next, but PACS-CBL evidence was low quality](pacs-cbl-greatest-theoretical-exam-gains.md) — related
 - [CBL is the most effective method overall for both theoretical and practical neurology teaching outcomes, with no evidence of publication bias](cbl-optimal-strategy-neurology-nma.md) — a broader claim this one bears on
 - [In Chinese neurology training, CBL, PBL, TBL, FCM and EBM each significantly improve theoretical exam scores compared with lecture-based learning](nma-modern-methods-beat-lbl-theoretical-neurology.md) — a broader claim this one bears on

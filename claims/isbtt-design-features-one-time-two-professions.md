@@ -66,5 +66,5 @@ The review's summary of session format; separately it reports debriefing describ
 ## Related Claims
 - [Assessed collaborative behaviors in ISBTT rarely cover all four IPEC domains, with values and ethics almost never assessed](isbtt-outcomes-rarely-cover-all-ipec-domains.md) — related
 - [Most ISBTT studies report improvement in collaborative behaviors immediately after training, but longer-term and clinical-setting outcomes are rarely measured](isbtt-behavior-improvements-mostly-immediate.md) — related
-- [Only a small minority of ISBTT studies used the IPEC competencies to design programs or assess participants](few-isbtt-studies-used-ipec-competencies.md) — related
+- Only a small minority of ISBTT studies used the IPEC competencies to design programs or assess participants — related
 - [Most published ISBTT programs are grounded in crisis resource management and related frameworks rather than interprofessional education frameworks](isbtt-programs-grounded-in-crm-not-ipe.md) — related

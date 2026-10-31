@@ -65,7 +65,7 @@ Umbrella review synthesis: one meta-analysis reported freshmen derived greater b
 
 ## Related Claims
 - [Both Chinese and Western students benefit from TBL, with Western students showing larger score improvements](tbl-benefits-chinese-and-western-students.md) — related
-- [TBL benefits on scores differ by academic standing: high achievers gain more while low achievers may benefit less in problem-solving](tbl-benefits-vary-by-academic-standing.md) — reports the opposite
+- [TBL effects on scores differ by academic standing: in one study high achievers outperformed LBL peers in problem-solving while low achievers scored lower, and in another weaker students gained more](tbl-benefits-vary-by-academic-standing.md) — reports the opposite
 - [TBL is associated with higher practical skill scores than LBL in Chinese neurology education (SMD = 1.72)](tbl-higher-practical-skill-scores-neurology-china.md) — related
 - [TBL is associated with higher theoretical knowledge scores than LBL in Chinese neurology education (SMD = 1.16)](tbl-higher-theoretical-knowledge-scores-neurology-china.md) — related
 - [In Chinese neurology education, TBL alone or combined with other methods is associated with improved self-study ability, communication skills, and teamwork ability versus LBL](tbl-improves-self-study-communication-teamwork.md) — related

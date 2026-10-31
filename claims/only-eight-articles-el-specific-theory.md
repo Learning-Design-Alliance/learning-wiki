@@ -46,7 +46,7 @@ Synthesis of theory use across the 100 included articles in the scoping review. 
 
 ## Related Claims
 - [IPP education initiatives employed varied teaching and learning strategies, but few initiatives utilized a full experiential learning cycle](few-initiatives-full-el-cycle.md) — related
-- [The scoping review included 100 articles from 12 countries describing EL strategies for IPP education initiatives in three typologies of literature](scoping-review-100-articles-12-countries-three-typologies.md) — related
+- The scoping review included 100 articles from 12 countries describing EL strategies for IPP education initiatives in three typologies of literature — related
 - [Evaluations of IPP experiential learning spanned student learning outcomes, initiative evaluations, and other outcomes such as client satisfaction](evaluation-outcomes-three-categories.md) — related
 - [Reflective activities were explicitly reported in 23 articles as a strategy to help students process their IPP learning](reflective-activities-23-articles.md) — related
-- [Terminology for interprofessional practice education varied widely, with only two articles using IPP as the main concept](ipp-terminology-variation-two-articles.md) — related
+- Terminology for interprofessional practice education varied widely, with only two articles using IPP as the main concept — related

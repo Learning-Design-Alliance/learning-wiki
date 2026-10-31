@@ -55,5 +55,5 @@ Publication-bias assessment in the review's search-results section: the funnel p
 - Funnel plot asymmetry indicates publication bias, lowering the bias-adjusted effect size to 0.642 — related
 - [Simulation-based education compared to patient-based clinical teaching alone shows a large pooled advantage in objectively assessed outcomes in undergraduate nursing students](sbe-vs-clinical-pooled-smd-0-96.md) — related
 - [Trim-and-fill analyses suggest publication bias affected three of the four meta-analyses, indicating true mean effects may be lower than originally reported.](tier2-k3-publication-bias-lower-true-effects.md) — related
-- [Sensitivity analysis and funnel plots indicated the meta-analysis results were stable and free of significant publication bias](pbl-meta-analysis-stability-sensitivity.md) — reports the opposite
-- [Funnel plots suggest potential publication bias across the meta-analysis outcomes](pbl-pharmacology-publication-bias.md) — a broader claim this one bears on
+- Sensitivity analysis and funnel plots indicated the meta-analysis results were stable and free of significant publication bias — reports the opposite
+- Funnel plots suggest potential publication bias across the meta-analysis outcomes — a broader claim this one bears on

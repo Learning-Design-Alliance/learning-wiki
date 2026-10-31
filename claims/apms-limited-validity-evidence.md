@@ -69,4 +69,4 @@ Review analysis of response-process validity for APMs: because metrics are recor
 - [Only two of 37 objective assessment tools in minimally invasive gynecological surgery showed substantial evidence of validity](only-two-migs-tools-substantial-validity.md) — a broader claim this one bears on
 - [Most identified assessment tools demonstrate construct or concurrent validity, but predictive validity is absent across tool categories](construct-validity-common-predictive-absent.md) — related
 - [No objective assessment tool in minimally invasive gynecological surgery showed predictive validity correlating scores with patient outcomes](no-predictive-validity-migs-tools.md) — related
-- [Most included studies were conducted in simulation (n=48) rather than live surgery (n=32), and metrics such as eye-tracking and EEG were disproportionately used in simulation](sabermetrics-metrics-disproportionately-simulation.md) — related
+- Most included studies were conducted in simulation (n=48) rather than live surgery (n=32), and metrics such as eye-tracking and EEG were disproportionately used in simulation — related

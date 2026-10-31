@@ -74,4 +74,4 @@ The comparison is between two non-randomised cohorts, medical students in the or
 - [Analysis of 52 higher-education assessment plans found outcome-based orientation dominant, with dynamic elements subsumed under summative scoring](assessment-plans-outcome-based-dominant.md) — related
 - [In a Spring 2026 pilot (N=98), 52% of students reported lower stress during the AI-mediated Socratic Test than in traditional exams](socratic-test-pilot-lower-stress.md) — related
 - [Two-part collaborative assessment, individual then group answering, transforms summative testing into a learning experience and may reduce test anxiety](two-part-collaborative-assessment-learning-experience.md) — related
-- [TBL benefits on scores differ by academic standing: high achievers gain more while low achievers may benefit less in problem-solving](tbl-benefits-vary-by-academic-standing.md) — related
+- [TBL effects on scores differ by academic standing: in one study high achievers outperformed LBL peers in problem-solving while low achievers scored lower, and in another weaker students gained more](tbl-benefits-vary-by-academic-standing.md) — related

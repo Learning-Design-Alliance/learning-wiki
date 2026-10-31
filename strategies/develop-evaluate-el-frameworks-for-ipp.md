@@ -17,7 +17,7 @@ sources:
 # Develop and evaluate existing EL frameworks and models to support robust IPP educational initiatives
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The review's forward-looking recommendation is that further development and evaluation of existing EL frameworks and models would benefit IPP education for pre-licensure healthcare students. The authors state that "Further development and evaluation of existing EL frameworks and models would be beneficial in supporting robust IPP educational initiatives for students in healthcare disciplines." They add that intentional, thoughtful, and comprehensive use of EL informed by theory can advance IPP educational approaches and prepare the future health care workforce.
@@ -45,7 +45,6 @@ The review's forward-looking recommendation is that further development and eval
 
 - [IPP education initiatives employed varied teaching and learning strategies, but few initiatives utilized a full experiential learning cycle](../claims/few-initiatives-full-el-cycle.md) [+W]
 - [Only eight of 43 theory-informed IPP education initiatives used an EL-specific theory or model (KELT or the Leicester Model)](../claims/only-eight-articles-el-specific-theory.md) [+W]
-- [The scoping review included 100 articles from 12 countries describing EL strategies for IPP education initiatives in three typologies of literature](../claims/scoping-review-100-articles-12-countries-three-typologies.md) [+W]
 
 ## Related Strategies
 - 

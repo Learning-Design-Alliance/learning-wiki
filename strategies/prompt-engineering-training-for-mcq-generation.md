@@ -40,7 +40,7 @@ The review recommends that educators craft prompts carefully when generating MCQ
 ## Claims
 
 - [Prompt design significantly influences LLM accuracy on IVDA MCQs, with slide context reducing smaller-model accuracy but improving GPT models, while persona effects are inconsistent](../claims/prompt-design-affects-mcq-accuracy-asymmetrically.md) [+W]
-- [LLM accuracy increases monotonically with prompt sophistication across semantically equivalent medical questions, with Low Literacy users scoring significantly below Prompt Engineer users](../claims/prompt-privilege-monotonic-accuracy-gap-medqa.md) [+W]
+- [On MedQA, GPT-5.4-mini's accuracy increases monotonically with prompt sophistication across semantically equivalent questions, with generated Low Literacy prompt variants scoring significantly below Prompt Engineer variants](../claims/prompt-privilege-monotonic-accuracy-gap-medqa.md) [+W]
 - [Chain-of-thought and reasoning prompting significantly improve LLM proportional match with human-authored distractors over direct prompting on both math and science MCQs](../claims/reasoning-prompting-improves-llm-distractor-match.md) [+W]
 - [Hint-based prompts raise ChatGPT scoring agreement with human experts to 98–100%, while no-hint prompts are unstable (Q2 precision 0.42)](../claims/hint-prompts-raise-llm-scoring-agreement.md) [+W]
 - [Prompt quality and detailed scoring rubrics significantly influence the accuracy and consistency of LLM-generated grades](../claims/prompt-rubric-quality-drives-llm-grading.md) [+W]

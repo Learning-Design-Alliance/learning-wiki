@@ -55,6 +55,6 @@ RCT comparing immersive VR with conventional live simulation in 120 medical and 
 - [VR simulation better promoted lab-teaching knowledge development than live classroom simulation, while live simulation better fostered class-teaching knowledge development among university teaching assistants](vr-vs-live-simulation-domain-specific-teaching-knowledge.md) — related
 - [Immersion principle: people do not necessarily learn better in 3D immersive virtual reality than with a corresponding 2D desktop presentation (d = -0.10 across 9 tests)](immersion-principle-no-vr-benefit.md) — a broader claim this one bears on
 - [PBL structured steps develop teamwork and communication skills in OB/GYN students](pbl-teamwork-communication-skills-obgyn.md) — related
-- [VR-based nurse-physician communication team training is non-inferior to live simulation for communication performance and improves interprofessional attitudes](vr-noninferior-live-simulation-team-communication.md) — possibly the same claim (merge candidate)
+- [VR-based nurse-physician communication team training produced communication performance and interprofessional-attitude gains similar to live simulation](vr-noninferior-live-simulation-team-communication.md) — possibly the same claim (merge candidate)
 - [Online CBT training satisfaction was noninferior to in-person training](online-cbt-training-noninferior-satisfaction.md) — related
 - [Immersive VR tracheostomy training reduced anxiety more than regular training at follow-up](vr-tracheostomy-training-reduced-anxiety.md) — related

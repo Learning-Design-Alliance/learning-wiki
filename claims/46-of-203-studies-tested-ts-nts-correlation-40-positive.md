@@ -45,7 +45,7 @@ Scoping review of four databases (Embase, PubMed, Web of Science, Scopus) follow
 
 
 ## Related Claims
-- [149 of the included studies assessed both skill sets but did not test for correlation between NTS and TS](149-studies-no-correlation-test.md) — related
-- [Among correlation-testing studies, leadership and decision making (n=14 each) were the most common NTS tested, and surgical performance (n=27) the most common TS correlated with NTS](leadership-decision-making-most-tested-nts.md) — a narrower finding that bears on this claim
-- [Most included studies were intervention studies (87%, n=176), including 41 randomized controlled trials](majority-intervention-studies-41-rcts.md) — related
+- 149 of the included studies assessed both skill sets but did not test for correlation between NTS and TS — related
+- Among correlation-testing studies, leadership and decision making (n=14 each) were the most common NTS tested, and surgical performance (n=27) the most common TS correlated with NTS — a narrower finding that bears on this claim
+- Most included studies were intervention studies (87%, n=176), including 41 randomized controlled trials — related
 - [OSATS was the most frequently used technical-skills assessment tool, but many OSATS variations were used without validity evidence](osats-most-common-ts-tool-variations-lack-validity.md) — related

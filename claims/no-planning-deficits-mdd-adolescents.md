@@ -47,6 +47,6 @@ Review synthesis of the two included studies that assessed planning (Baune et al
 
 ## Related Claims
 - [Decision-making deficits were not clearly identified in adolescents with MDD, though poor risk adjustment appeared in one task but not another](decision-making-deficits-not-identified-mdd-adolescents.md) — related
-- [None of the five reviewed studies of executive function in adolescents with MDD reported quantitative educational achievement results](no-mdd-adolescent-ef-studies-report-educational-achievement.md) — related
+- None of the five reviewed studies of executive function in adolescents with MDD reported quantitative educational achievement results — related
 - [Inhibitory control results in adolescents with MDD are inconsistent across studies, with only one of three tests showing worse performance in one study](inconsistent-inhibitory-control-mdd-adolescents.md) — related
 - [The relationship between educational attainment and problem-solving and inhibitory control in adolescents with MDD cannot be established from existing literature](ef-academic-link-mdd-adolescents-cannot-be-established.md) — related

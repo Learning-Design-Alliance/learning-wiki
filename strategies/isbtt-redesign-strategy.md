@@ -17,7 +17,7 @@ sources:
 # Redesign ISBTT programs with explicit interprofessional learning goals, power-focused debriefing, matched facilitators, and longitudinal formats
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The review's conclusions recommend that programs add "learning with, from and about each other" as an explicit goal, use debriefing to create space for discussing how power dynamics, hierarchies, and conflicts influence collaboration, involve facilitators from the same professions as participants, favor longitudinal experiences, and target participants at similar training levels to reduce power discrepancies.
@@ -41,7 +41,6 @@ The review's conclusions recommend that programs add "learning with, from and ab
 
 ## Claims
 
-- [Only a small minority of ISBTT studies used the IPEC competencies to design programs or assess participants](../claims/few-isbtt-studies-used-ipec-competencies.md) [+W]
 - [Most ISBTT studies report improvement in collaborative behaviors immediately after training, but longer-term and clinical-setting outcomes are rarely measured](../claims/isbtt-behavior-improvements-mostly-immediate.md) [+W]
 - [Most ISBTT programs are one-time events involving two or three professions, with debriefing nearly universal and psychological safety rarely addressed](../claims/isbtt-design-features-one-time-two-professions.md) [+W]
 - [Assessed collaborative behaviors in ISBTT rarely cover all four IPEC domains, with values and ethics almost never assessed](../claims/isbtt-outcomes-rarely-cover-all-ipec-domains.md) [+W]

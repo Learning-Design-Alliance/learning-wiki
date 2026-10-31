@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-10-31
 sources:
   - id: chen-min-2025
     resource: "https://doi.org/10.1186/s12909-025-07927-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` CBL significantly improves pharmacy students' problem-solving abilities compared with LBL (RR = 2.19, 95% CI [1.26–3.80]). [→ Chen Min 2025](#chen-min-2025)
@@ -37,7 +38,7 @@ Chen Min, Li Xinyao, Liu Qingming, Zhou Jing, Fan Xiaofang, Liu Yantao, Lin Yunz
 
 `q2 · i?` · `quant-synthesis · r2`
 
-Meta-analysis of two of six questionnaire-survey studies (535 students assessed overall) with quantitative data. High heterogeneity (I2 = 79%); no standardized effect size printed, so impact is null.
+Meta-analysis of two of six questionnaire-survey studies (535 students assessed overall) with quantitative data. The pooled risk ratio is significant and favours CBL (RR = 2.19, 95% CI 1.26–3.80), with high heterogeneity (I2 = 79%). A risk ratio is not a standardized mean difference, so the impact tier is left uncoded (`i?`) rather than converted; the effect is positive, not null.
 
 > "Meta-analysis of the two studies [22, 23] with quantitative data showed that CBL significantly improved problem-solving abilities compared to LBL (RR = 2.19, 95% CI [1.26–3.80], I2 = 79%, P < 0.05)"
 

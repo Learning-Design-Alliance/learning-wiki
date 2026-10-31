@@ -45,6 +45,6 @@ Review synthesis of evaluation practices across included articles. The review ca
 
 
 ## Related Claims
-- [The scoping review included 100 articles from 12 countries describing EL strategies for IPP education initiatives in three typologies of literature](scoping-review-100-articles-12-countries-three-typologies.md) — related
+- The scoping review included 100 articles from 12 countries describing EL strategies for IPP education initiatives in three typologies of literature — related
 - [The reviewed competency assessments can be classified into three categories: broad assessments, narrow assessments, and unclear or unspecified assessments.](three-categories-broad-narrow-unclear-assessments.md) — a narrower finding that bears on this claim
 - [Only eight of 43 theory-informed IPP education initiatives used an EL-specific theory or model (KELT or the Leicester Model)](only-eight-articles-el-specific-theory.md) — related

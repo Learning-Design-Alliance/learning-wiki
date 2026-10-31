@@ -47,4 +47,4 @@ Review synthesis of decision-making findings from three studies using the MacCAT
 ## Related Claims
 - [No planning deficits were found in adolescents with MDD in either of the two studies assessing planning](no-planning-deficits-mdd-adolescents.md) — related
 - [Inhibitory control results in adolescents with MDD are inconsistent across studies, with only one of three tests showing worse performance in one study](inconsistent-inhibitory-control-mdd-adolescents.md) — related
-- [None of the five reviewed studies of executive function in adolescents with MDD reported quantitative educational achievement results](no-mdd-adolescent-ef-studies-report-educational-achievement.md) — related
+- None of the five reviewed studies of executive function in adolescents with MDD reported quantitative educational achievement results — related

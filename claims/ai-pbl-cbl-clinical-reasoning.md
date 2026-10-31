@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-10-31
 sources:
   - id: wei-h-2025
     resource: "https://doi.org/10.1016/j.identj.2025.100858"
@@ -40,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · quant-synthesis `r1`–`r2` · `q2` · `i3` large
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-31 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` LearnGuide, a customised ChatGPT tool, showed higher effectiveness than traditional PBL for clinical reasoning (SMD = 1.34, 95% CIs [0.91,1.77]). [→ Wei H 2025](#wei-h-2025)

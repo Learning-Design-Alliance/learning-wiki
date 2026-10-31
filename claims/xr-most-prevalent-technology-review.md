@@ -46,6 +46,6 @@ Subgroup analysis (Table 2) mapping educational technology, target learner group
 
 ## Related Claims
 - [XR technologies improve surgical skills and procedural accuracy while reducing risks and operating room time (performance expectancy)](xr-improves-surgical-skills-accuracy-reduces-or-time.md) — a narrower finding that bears on this claim
-- [The umbrella review included 44 systematic reviews, most covering XR training in orthopedics, neurology, and laparoscopy](xr-umbrella-review-44-reviews-specialties.md) — related
+- The umbrella review included 44 systematic reviews, most covering XR training in orthopedics, neurology, and laparoscopy — related
 - [Resource availability and addressing technical and financial limitations are emphasized as facilitating conditions for XR in surgical training](xr-facilitating-conditions-resources-costs.md) — related
 - [Positive feedback from experienced surgeons during XR-based surgical training enhances learning (social influence)](xr-social-influence-surgeon-feedback.md) — a narrower finding that bears on this claim

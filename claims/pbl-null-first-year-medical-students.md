@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-10-31
 sources:
   - id: ge-wei-li-2025
     resource: "https://doi.org/10.1186/s12909-025-06951-z"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A meta-analysis of first-year medical students found no significant differences between PBL and non-PBL groups on critical thinking knowledge assessment (p = 0.29), problem-solving (p = 0.47), or self-directed learning (p = 0.34). [→ Ge Wei-Li 2025](#ge-wei-li-2025)
@@ -37,7 +38,7 @@ Ge Wei-Li, Zhu Xia-Yin, Lin Jiang-Bo, Jiang Jian-Jun, Li Tao, Lu Yi-Fei, Mi Ya-F
 
 `q2 · i?` · `quant-synthesis · r2`
 
-Umbrella review reports the Manuaba et al. meta-analysis of 7 studies (622 first-year medical students), which found no significant differences between PBL and non-PBL groups on all three outcomes; no effect sizes were printed.
+Umbrella review reports the Manuaba et al. meta-analysis of 7 studies (622 first-year medical students), which found no significant differences between PBL and non-PBL groups on all three outcomes. The umbrella review's Table 2 lists estimates with 95% CIs of 0.9 (−0.76 to 2.56), −3.64 (−13.42 to 6.13) and 0.18 (−0.19 to 1.54), all crossing zero, without naming the effect metric, so no magnitude is coded.
 
 > "Manuaba’s study [10] revealed no significant difference in critical thinking knowledge assessment (p = 0.29), problem-solving (p = 0.47), or self-directed learning (p = 0.34) between the PBL group and non-PBL group."
 

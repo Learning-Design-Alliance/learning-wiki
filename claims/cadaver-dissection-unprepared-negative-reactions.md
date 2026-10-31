@@ -48,4 +48,4 @@ Cross-sectional survey (Weir and Thomas, as charted in Table 1) of first-year po
 ## Related Claims
 - [Students overwhelmingly favored a hybrid approach combining VDTs with cadaveric dissection over full replacement](students-favor-hybrid-vdt-cadaver-approach.md) — related
 - [Perceived VDT utility did not always correspond to measurable academic advantage](perceived-utility-not-always-academic-advantage.md) — related
-- [A scoping review identified 21 studies on podiatry simulation published between 1997 and 2023, all conducted in high-income countries](podiatry-simulation-21-studies-high-income-only.md) — related
+- A scoping review identified 21 studies on podiatry simulation published between 1997 and 2023, all conducted in high-income countries — related

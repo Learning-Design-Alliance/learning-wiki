@@ -47,5 +47,5 @@ Systematic review using a citation search strategy in Scopus and Web of Science 
 ## Related Claims
 - [Qualitative application of the ANTS system facilitated the generation of NTS frameworks across specialties and domains](ants-qualitative-application-generates-new-nts-frameworks.md) — related
 - [Validity evidence for the ANTS system was reported in 94% of studies, but no single study reported all four validity evidence sources](ants-validity-evidence-94-percent-incomplete.md) — related
-- [Most studies used the ANTS system only to guide data collection rather than analysis or reporting](ants-mostly-guides-data-collection-only.md) — related
+- Most studies used the ANTS system only to guide data collection rather than analysis or reporting — related
 - [Inter-rater reliability of the ANTS system reached substantial agreement in most raters that reported it](ants-inter-rater-reliability-substantial.md) — related

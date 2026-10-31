@@ -73,4 +73,4 @@ Author's interpretation of the included studies' reporting pattern: "Negative im
 - Publication-bias analysis indicates 51 unpublished studies would be needed to reverse the meta-analysis findings — related
 - [The pooled effect of multiple intelligence practices is resistant to publication bias](mi-effect-resistant-publication-bias.md) — related
 - Small sample sizes and publication bias against non-significant findings may inflate meta-analytic effect size estimates in the chemistry teaching-method categories — related
-- [Publication bias affects several blended BOPPPS outcome syntheses but trim-and-fill does not change significance](blended-boppps-publication-bias-trim-fill.md) — related
+- Publication bias affects several blended BOPPPS outcome syntheses but trim-and-fill does not change significance — related

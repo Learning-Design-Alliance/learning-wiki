@@ -56,4 +56,4 @@ Descriptive bibliometric analysis of 321 eligible WoS articles on WCF in L2 writ
 - Feedback research spans the full range of methodologies, with a qualitative surge in 2000–2004 — related
 - Publication output on gamification peaked in 2023 with 57 articles and dropped 63% in 2024 — related
 - Publication on intercultural competence and digital technologies grew sustainedly since 2019, peaking in 2021–2023 — related
-- [Reported competency proportions increased from studies published 2018–2020 (30.93%) to 2021–2024 (49.08%)](competency-increase-over-publication-year-ethiopia.md) — related
+- Reported competency proportions increased from studies published 2018–2020 (30.93%) to 2021–2024 (49.08%) — related

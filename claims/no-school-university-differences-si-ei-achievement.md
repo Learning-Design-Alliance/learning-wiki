@@ -49,4 +49,4 @@ Subgroup comparison of pooled means by educational level across the three forest
 - [Pooled mean scores: achievement 15.91, spiritual intelligence 138.27, emotional intelligence 128.94](pooled-mean-scores-si-ei-achievement.md) — related
 - [Emotional intelligence is positively correlated with student achievement (pooled r = 0.50)](emotional-intelligence-correlated-student-achievement.md) — related
 - [Spiritual intelligence is positively correlated with student achievement (pooled r = 0.36)](spiritual-intelligence-correlated-student-achievement.md) — related
-- [Included studies show high heterogeneity (I2 = 94.5%), addressed with random effects modelling and meta-regression](high-heterogeneity-si-ei-meta-analysis.md) — related
+- Included studies show high heterogeneity (I2 = 94.5%), addressed with random effects modelling and meta-regression — related

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "TBL benefits on scores differ by academic standing: high achievers gain more while low achievers may benefit less in problem-solving"
-description: "TBL benefits on scores differ by academic standing: high achievers gain more while low achievers may benefit less in problem-solving"
+title: "TBL effects on scores differ by academic standing: in one study high achievers outperformed LBL peers in problem-solving while low achievers scored lower, and in another weaker students gained more"
+description: "TBL effects on scores differ by academic standing: in one study high achievers outperformed LBL peers in problem-solving while low achievers scored lower, and in another weaker students gained more"
 id: tbl-benefits-vary-by-academic-standing
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-10-31
 sources:
   - id: xie-zhi-bo-2025
     resource: "https://doi.org/10.1186/s12909-025-07175-x"
@@ -20,11 +21,11 @@ sources:
     rigour: 2
 ---
 
-# TBL benefits on scores differ by academic standing: high achievers gain more while low achievers may benefit less in problem-solving
+# TBL effects on scores differ by academic standing: in one study high achievers outperformed LBL peers in problem-solving while low achievers scored lower, and in another weaker students gained more
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` High achievers in the TBL group performed better in problem-solving skills assessments, while low achievers in the TBL group had significantly lower scores in problem-solving exercises compared to those in the LBL group. [→ Xie Zhi-Bo 2025](#xie-zhi-bo-2025)

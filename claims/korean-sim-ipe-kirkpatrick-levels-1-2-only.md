@@ -66,6 +66,6 @@ The review's Discussion reports satisfaction averages across studies and caution
 ## Related Claims
 - [Korean simulation-based IPE employed role-playing, standardized patients (including holographic), and high-fidelity simulators, with no single method dominant](korean-sim-ipe-methods-role-play-standardized-high-fidelity.md) — related
 - [Quasi-experimental Korean simulation-based IPE studies show mixed effectiveness: positive effects in Jeon (2022), environment-dependent effects in Jung et al. (2020), and null changes in Park and Park (2021)](korean-sim-ipe-quasi-experimental-mixed-effectiveness.md) — related
-- [The Readiness for Interprofessional Learning Scale was the most commonly used outcome measure in Korean simulation-based IPE studies, with four of ten reporting significant pre-post score changes](ripls-most-common-outcome-measure-korean-sim-ipe.md) — related
+- The Readiness for Interprofessional Learning Scale was the most commonly used outcome measure in Korean simulation-based IPE studies, with four of ten reporting significant pre-post score changes — related
 - [Reviewed peer-tutoring simulation studies mostly reached only Kirkpatrick Level 2, with no assessment of behavior change or clinical-practice results](kirkpatrick-level2-ceiling-peer-tutoring-sbe.md) — related
-- [Simulation-based IPE research in South Korea consists of ten studies concentrated on undergraduate nursing and medical students, with interventions lasting 2 hours to 2 weeks](korean-sim-ipe-ten-studies-nursing-medical-dominance.md) — related
+- Simulation-based IPE research in South Korea consists of ten studies concentrated on undergraduate nursing and medical students, with interventions lasting 2 hours to 2 weeks — related

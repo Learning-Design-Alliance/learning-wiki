@@ -47,4 +47,4 @@ Review synthesis of teaching and learning strategies in IPP education initiative
 ## Related Claims
 - [IPP education initiatives employed varied teaching and learning strategies, but few initiatives utilized a full experiential learning cycle](few-initiatives-full-el-cycle.md) — related
 - [Only eight of 43 theory-informed IPP education initiatives used an EL-specific theory or model (KELT or the Leicester Model)](only-eight-articles-el-specific-theory.md) — related
-- [The scoping review included 100 articles from 12 countries describing EL strategies for IPP education initiatives in three typologies of literature](scoping-review-100-articles-12-countries-three-typologies.md) — a broader claim this one bears on
+- The scoping review included 100 articles from 12 countries describing EL strategies for IPP education initiatives in three typologies of literature — a broader claim this one bears on

@@ -46,4 +46,4 @@ Subgroup analysis of the pooled spiritual intelligence–achievement correlation
 
 ## Related Claims
 - [Spiritual intelligence is positively correlated with student achievement (pooled r = 0.36)](spiritual-intelligence-correlated-student-achievement.md) — a broader claim this one bears on
-- [Included studies show high heterogeneity (I2 = 94.5%), addressed with random effects modelling and meta-regression](high-heterogeneity-si-ei-meta-analysis.md) — related
+- Included studies show high heterogeneity (I2 = 94.5%), addressed with random effects modelling and meta-regression — related

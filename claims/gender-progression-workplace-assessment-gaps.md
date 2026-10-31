@@ -64,7 +64,7 @@ The review's synthesis of workplace-based assessment studies: narrative feedback
 
 
 ## Related Claims
-- [Published research on differential attainment in postgraduate surgical assessment is dominated by quantitative, gender-focused studies from the USA and UK](da-surgical-review-53-studies-quantitative-gender-dominated.md) — related
+- Published research on differential attainment in postgraduate surgical assessment is dominated by quantitative, gender-focused studies from the USA and UK — related
 - [Evidence on gender gaps in surgical examination pass rates is mixed, with lower female MRCS pass rates in some UK studies but no differences in several other examinations](gender-exam-pass-rate-gaps-mixed.md) — related
 - [Lower socioeconomic background, older age, graduate-entry and non-professional parental background are associated with lower MRCS pass rates and more non-satisfactory ARCP outcomes](socioeconomic-age-background-attainment-gaps.md) — related
 - [Female trainees report fewer operative cases and less operative experience than male trainees in several surgical specialties](gender-surgical-case-volume-gaps.md) — related

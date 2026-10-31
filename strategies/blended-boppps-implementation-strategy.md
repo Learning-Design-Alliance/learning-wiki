@@ -17,7 +17,7 @@ sources:
 # Implement blended BOPPPS teaching by combining online platform phases with the six BOPPPS steps
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 8 claims (7 for, 1 mixed) · 2 studies (2 quant-synthesis), `q3` · 1 of 2 report an effect size · 8 claims rest on one study
+> **Evidence** · 7 claims (6 for, 1 mixed) · 2 studies (2 quant-synthesis), `q3` · 1 of 2 report an effect size · 7 claims rest on one study
 
 ## Description
 The article recommends popularizing the online and offline blended BOPPPS teaching model in medical colleges and universities. Implementation combines students' pre-class preparation, in-class participation, and post-class follow-up on an online platform with the six BOPPPS steps: bridge-in with questions, classic cases and hot topics posted online; online pre-assessment tests with timely feedback; participatory learning through in-class or online discussions, group reporting, and role-playing; post-assessment self-testing; and two-layer summarization spanning in-class consolidation and post-class reflection.
@@ -50,7 +50,6 @@ The article recommends popularizing the online and offline blended BOPPPS teachi
 - [Blended BOPPPS teaching is associated with higher practical skills scores than LBL](../claims/blended-boppps-higher-practice-scores.md) [+W]
 - [Blended BOPPPS teaching is associated with higher classroom satisfaction than LBL](../claims/blended-boppps-higher-satisfaction.md) [+W]
 - [Blended BOPPPS teaching is associated with higher total scores than lecture-based learning in Chinese medical undergraduates](../claims/blended-boppps-higher-total-scores.md) [+W]
-- [Publication bias affects several blended BOPPPS outcome syntheses but trim-and-fill does not change significance](../claims/blended-boppps-publication-bias-trim-fill.md) [+W]
 - [Subgroup analyses show some blended BOPPPS effects are not significant for specific specialties and platforms](../claims/blended-boppps-subgroup-null-results.md) [~W]
 - [Differences among the six novel teaching strategies are minor, and in pairwise meta-analysis only BOPPPS and SBL significantly beat LBL on all three outcomes](../claims/minor-differences-among-novel-strategies-pairwise.md) [+W]
 

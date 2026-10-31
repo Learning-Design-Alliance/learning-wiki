@@ -17,7 +17,7 @@ sources:
 # Prioritise consistent methodologies and studies of stress-reduction interventions in future simulation stress research
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The review's forward-looking recommendation for the simulation community: conduct studies with consistent and comparable methodologies, and investigate stress-reduction interventions at scale. It states "future research opportunities lie in exploring the effect of stress-reduction interventions on learning in simulation" and that large scale studies would help identify effective interventions.
@@ -39,7 +39,6 @@ The review's forward-looking recommendation for the simulation community: conduc
 
 ## Claims
 
-- [Risk of bias was a concern across the review's randomised studies, largely because investigators acted as unblinded performance raters](../claims/simulation-stress-rct-bias-investigator-raters.md) [+W]
 
 ## Related Strategies
 - 

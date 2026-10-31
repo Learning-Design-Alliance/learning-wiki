@@ -50,6 +50,6 @@ Mixed methods study (Banwell et al., as charted in Table 1) combining an RCT, a 
 ## Related Claims
 - [Anatomy Glove Learning System improved hand-anatomy knowledge in both groups, with 3D-group self-confidence increasing over time while 2D-group confidence declined](agls-knowledge-gains-sustained-confidence-3d-group.md) — related
 - [A pilot RCT found simulation workshop participants 16 times more likely to be assessed as competent in debridement skills and more confident than controls](simulation-workshop-debridement-competence-confidence.md) — related
-- [A 2-day foot ulcer simulation training workshop significantly improved podiatrists' confidence, theoretical knowledge, and practical skills](fust-workshop-improved-confidence-knowledge-skills.md) — related
-- [VR-based nurse-physician communication team training is non-inferior to live simulation for communication performance and improves interprofessional attitudes](vr-noninferior-live-simulation-team-communication.md) — related
+- [A 2-day foot ulcer simulation training workshop increased podiatrists' confidence and significantly improved their theoretical knowledge and practical skills](fust-workshop-improved-confidence-knowledge-skills.md) — related
+- [VR-based nurse-physician communication team training produced communication performance and interprofessional-attitude gains similar to live simulation](vr-noninferior-live-simulation-team-communication.md) — related
 - [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](ai-reduces-fl-anxiety-private-practice.md) — a broader claim this one bears on

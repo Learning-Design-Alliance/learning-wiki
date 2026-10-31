@@ -48,4 +48,4 @@ Review-level synthesis of teaching and learning strategies across the 100 includ
 - [Reflective activities were explicitly reported in 23 articles as a strategy to help students process their IPP learning](reflective-activities-23-articles.md) — related
 - [Only eight of 43 theory-informed IPP education initiatives used an EL-specific theory or model (KELT or the Leicester Model)](only-eight-articles-el-specific-theory.md) — related
 - [Small interdisciplinary teamwork was the most widely reported teaching strategy, explicitly reported in 62 articles](small-interdisciplinary-teams-62-articles.md) — related
-- [The scoping review included 100 articles from 12 countries describing EL strategies for IPP education initiatives in three typologies of literature](scoping-review-100-articles-12-countries-three-typologies.md) — related
+- The scoping review included 100 articles from 12 countries describing EL strategies for IPP education initiatives in three typologies of literature — related

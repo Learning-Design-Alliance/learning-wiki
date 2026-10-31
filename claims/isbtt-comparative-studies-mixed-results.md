@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: mixed
 newest_evidence: 2025
+source_checked: 2026-10-31
 sources:
   - id: bochatay-n-2025
     resource: "https://doi.org/10.1097/SIH.0000000000000792"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Three articles comparing ISBTT to no training concluded simulation led to improvements; of four comparing training types, three showed greater improvements with simulation. [→ Bochatay N 2025](#bochatay-n-2025)

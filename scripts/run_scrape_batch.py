@@ -421,6 +421,19 @@ def run(args) -> None:
                   f"lines (exit {verify_rc}) ===", flush=True)
             return
 
+        # Sort the batch's new claims first, and drop the ones both sort models file as
+        # research practice (maintainer rule, 2026-10-16), before the steps below link, merge,
+        # code and judge them. Until 2026-10-31 the sort ran near the end and triage removed
+        # them by hand: 224, 62 and 53 claims in three synthesis batches, 45% of one batch's
+        # new claims, each already linked, coded and judged. The sort near the end stays, for
+        # anything a later step writes; it asks only about claims not yet sorted.
+        print(f"\n=== sorting new claims ===", flush=True)
+        _run_chained_step([sys.executable, "-u", "scripts/sort_claims.py", "--all"],
+                          SCRAPE_CONSOLE_LOG_PATH)
+        print(f"\n=== removing research-practice claims both sort models agree on ===", flush=True)
+        _run_chained_step([sys.executable, "-u", "scripts/remove_research_practice.py", "--apply"],
+                          SCRAPE_CONSOLE_LOG_PATH)
+
         # After verify, deliberately: these are Related Claims links, not citation edits,
         # and verify_citation_edits.py is right to refuse them. Without this step every
         # batch's claims land as orphans (1,226 of 2,248 claim pages had no link in or
@@ -553,8 +566,9 @@ def run(args) -> None:
         # (sort_claims.py --all asks only about claims not yet sorted). Nothing here did
         # until 2026-10-30, when 9,862 claims were found unsorted: the research-practice
         # rule never reached them, and add_currency.py below reads the sort for its
-        # recheck years. Settled research-practice claims are left for triage to remove.
-        print(f"\n=== sorting new claims ===", flush=True)
+        # recheck years. Research-practice claims are removed earlier, right after the
+        # first sort; this pass only sorts what a later step wrote.
+        print(f"\n=== sorting claims written since the first sort ===", flush=True)
         _run_chained_step([sys.executable, "-u", "scripts/sort_claims.py", "--all"],
                           SCRAPE_CONSOLE_LOG_PATH)
         # How current each claim is: its newest study, when the judge just above last

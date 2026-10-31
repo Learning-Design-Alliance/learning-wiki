@@ -52,6 +52,6 @@ Deductive framework analysis of 88 included studies mapped inductively derived t
 - [Altınay and colleagues emphasize critical thinking, critical friendship, teamwork, and network-based collaboration for international standards](critical-friendship-teamwork-international-standards.md) — related
 - [NTS training for emergency department professionals is associated with consistent pre- to post-training improvements in knowledge, teamwork attitudes, and self-confidence (low to moderate certainty).](nts-training-improves-ed-learning-outcomes.md) — related
 - [Interdisciplinary teamwork and patient/caregiver needs are significantly underrepresented in geriatric core competencies](geriatric-competencies-underrepresent-teamwork-caregiver-needs.md) — related
-- [Only a small minority of ISBTT studies used the IPEC competencies to design programs or assess participants](few-isbtt-studies-used-ipec-competencies.md) — related
+- Only a small minority of ISBTT studies used the IPEC competencies to design programs or assess participants — related
 - [Assessed collaborative behaviors in ISBTT rarely cover all four IPEC domains, with values and ethics almost never assessed](isbtt-outcomes-rarely-cover-all-ipec-domains.md) — related
 - [Small interdisciplinary teamwork was the most widely reported teaching strategy, explicitly reported in 62 articles](small-interdisciplinary-teams-62-articles.md) — related

@@ -46,4 +46,4 @@ The review reports this second-hand from Jung et al. (2020), a pre- and post-pro
 
 ## Related Claims
 - [Quasi-experimental Korean simulation-based IPE studies show mixed effectiveness: positive effects in Jeon (2022), environment-dependent effects in Jung et al. (2020), and null changes in Park and Park (2021)](korean-sim-ipe-quasi-experimental-mixed-effectiveness.md) — a broader claim this one bears on
-- [Simulation-based IPE research in South Korea consists of ten studies concentrated on undergraduate nursing and medical students, with interventions lasting 2 hours to 2 weeks](korean-sim-ipe-ten-studies-nursing-medical-dominance.md) — related
+- Simulation-based IPE research in South Korea consists of ten studies concentrated on undergraduate nursing and medical students, with interventions lasting 2 hours to 2 weeks — related

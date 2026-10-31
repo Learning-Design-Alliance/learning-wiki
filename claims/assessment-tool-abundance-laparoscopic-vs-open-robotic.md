@@ -49,4 +49,4 @@ Systematic review of 51 studies identified via Medline, Embase, Cochrane and Sco
 - [No training studies exist for open appendicectomy and no assessment studies for open appendicectomy and open rectal surgery](gaps-open-appendicectomy-training-assessment.md) — a narrower finding that bears on this claim
 - [The Robotic Hysterectomy Assessment Score (RHAS) is the only robotic hysterectomy-specific clinical skills assessment identified in the literature.](rhas-only-procedure-specific-assessment.md) — related
 - [Virtual reality simulation is used more for appendicectomy than for colorectal procedures](vr-simulation-more-appendicectomy-than-colorectal.md) — related
-- [A systematic review of robotic surgery training identified 209 studies that included an assessment tool, out of 1591 records screened](209-studies-robotic-training-assessment-review.md) — related
+- A systematic review of robotic surgery training identified 209 studies that included an assessment tool, out of 1591 records screened — related

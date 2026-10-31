@@ -66,7 +66,7 @@ Trim-and-fill analysis for theoretical scores (with 5 virtual studies added). Th
 ## Related Claims
 - [Case-based learning and combined emerging methods show non-significant pooled advantages over lecture-based learning](cbl-combined-methods-nonsignificant-dental.md) — related
 - [CBL produces significantly higher exam scores than LBL in pharmacy education (SMD = 0.58)](cbl-higher-exam-scores-than-lbl-pharmacy.md) — related
-- [Included studies show high heterogeneity (I2 = 94.5%), addressed with random effects modelling and meta-regression](high-heterogeneity-si-ei-meta-analysis.md) — related
+- Included studies show high heterogeneity (I2 = 94.5%), addressed with random effects modelling and meta-regression — related
 - [PBL-CBL produces significantly higher practical skills scores than LBL in orthopedic education](pbl-cbl-higher-practical-skills-orthopedics.md) — related
 - [PBL-CBL produces significantly higher theoretical knowledge scores than LBL in orthopedic education](pbl-cbl-higher-theoretical-scores-orthopedics.md) — related
 - [PBL's examination-score advantage holds across student majors, publication years, and class sizes, but heterogeneity remains high in all subgroups](pbl-exam-subgroup-analyses-heterogeneity.md) — related

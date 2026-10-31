@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: mixed
 newest_evidence: 2024
+source_checked: 2026-10-31
 sources:
   - id: chen-tu-2024
     resource: "https://doi.org/10.1371/journal.pone.0314017"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-10-31 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The PBL group obtained a significantly better final exam grade (79.86±1.38) than the LBL group (68.1±1.76) in the trial. [→ Chen Tu 2024](#chen-tu-2024)
@@ -68,4 +69,4 @@ Meta-analysis of 8 randomized controlled trials involving 1819 students, analyze
 - [PBL significantly improves clinical skill scores compared with lecture-based learning in medical education](pbl-improves-clinical-skill-scores-versus-lbl.md) — related
 - [3D + PBL improves theoretical scores in orthopedic education](3d-pbl-improves-theoretical-scores-orthopedics.md) — related
 - [PBL produces higher examination scores than LBL in undergraduate pharmacology education (SMD = 2.03)](pbl-higher-examination-scores-pharmacology.md) — related
-- [In an RCT, pharmacy students taught with PBL scored significantly higher on problem-solving and self-directed learning than LBL students](pbl-rct-higher-problem-solving-self-directed-learning.md) — related
+- [In an RCT, pharmacy students taught with PBL rated their own problem-solving and self-directed learning significantly higher on a questionnaire than LBL students did](pbl-rct-higher-problem-solving-self-directed-learning.md) — related

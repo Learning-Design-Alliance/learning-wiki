@@ -50,7 +50,7 @@ Meta-analysis pooling questionnaire surveys from 16 studies (2169 students) for 
 - [Problem Solving](../learner-variables/problem-solving.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Publication bias affects several blended BOPPPS outcome syntheses but trim-and-fill does not change significance](blended-boppps-publication-bias-trim-fill.md) — related
+- Publication bias affects several blended BOPPPS outcome syntheses but trim-and-fill does not change significance — related
 - [PBL-CBL outperforms LBL on subjective comprehensive competencies including self-learning, interest, efficiency, clinical thinking, teamwork, and communication](pbl-cbl-subjective-competencies-orthopedics.md) — related
 - [BOPPPS shows no significant improvement in problem-solving or critical thinking skills compared with traditional teaching](boppps-no-gain-problem-solving-critical-thinking.md) — reports the opposite
 - [In Chinese neurology education, TBL alone or combined with other methods is associated with improved self-study ability, communication skills, and teamwork ability versus LBL](tbl-improves-self-study-communication-teamwork.md) — related

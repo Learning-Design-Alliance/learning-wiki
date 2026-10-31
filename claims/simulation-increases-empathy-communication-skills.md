@@ -51,7 +51,7 @@ The review's synthesis of multiple included simulation studies reports that "Sim
 
 ## Related Claims
 - [Innovative andragogical strategies — simulation, narrative medicine, reflective writing — enhance empathy, compassion, and communication skills in medical students](innovative-teaching-practices-soft-skills-medical-students.md) — a broader claim this one bears on
-- [VR-based nurse-physician communication team training is non-inferior to live simulation for communication performance and improves interprofessional attitudes](vr-noninferior-live-simulation-team-communication.md) — related
+- [VR-based nurse-physician communication team training produced communication performance and interprofessional-attitude gains similar to live simulation](vr-noninferior-live-simulation-team-communication.md) — related
 - [Participants reported increased confidence, readiness and teamwork after completing the SimLab programme](simlab-confidence-teamwork-gains.md) — related
 - [Participants reported improved communication skills and faculty modeling of positive interpersonal interaction](prison-college-communication-skills-modeling.md) — related
 - [Skill retention after simulation is rarely measured; at 2-month follow-up only the VR group maintained significant ISVS improvement](simulation-skill-retention-two-month-follow-up.md) — related

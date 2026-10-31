@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 206 claims (96 for, 99 mixed, 11 against) · 134 studies (52 review, 32 causal, 24 quant-synthesis, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 30 of 134 report an effect size · 201 claims rest on one study
+> **Evidence** · 205 claims (96 for, 98 mixed, 11 against) · 134 studies (52 review, 32 causal, 24 quant-synthesis, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 30 of 134 report an effect size · 200 claims rest on one study
 
 ## Conditional relationship
 
@@ -427,7 +427,7 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Standardized patients produced higher knowledge scores than high-fidelity simulation, but performance scores did not differ (Tuzer et al. study)](../claims/standardized-patients-vs-high-fidelity-simulator-knowledge.md) [~W]
 - [An intensive 5-day cataract surgery simulation program lowered posterior capsule rupture rates versus standard training, with competency gains normalizing by 15 months](../claims/cataract-simulation-lower-rupture-competency-normalizes.md) [+W]
 - [Helping Babies Breathe simulation training was associated with reduced neonatal mortality in LMIC facilities, but skills decayed within 4–6 months without maintenance](../claims/hbb-simulation-reduced-mortality-skill-decay.md) [+W]
-- [A 2-day foot ulcer simulation training workshop significantly improved podiatrists' confidence, theoretical knowledge, and practical skills](../claims/fust-workshop-improved-confidence-knowledge-skills.md) [+W]
+- [A 2-day foot ulcer simulation training workshop increased podiatrists' confidence and significantly improved their theoretical knowledge and practical skills](../claims/fust-workshop-improved-confidence-knowledge-skills.md) [+W]
 - [Comparative ISBTT studies suggest simulation added to training improves collaborative behaviors, with mixed results for modality and interprofessional versus uniprofessional comparisons](../claims/isbtt-comparative-studies-mixed-results.md) [~W]
 - [Post-intervention knowledge and skill scores rise 20–50% over pre-intervention scores in reviewed SBL studies](../claims/sbl-post-intervention-gains-20-50-percent.md) [+W]
 - [VR-based teaching improves clinical understanding and clinical thinking ability more than traditional teaching](../claims/vr-clinical-understanding-thinking.md) [+W]
@@ -436,7 +436,6 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [VR-based teaching yields significantly higher initiative ability than traditional teaching](../claims/vr-higher-initiative-ability.md) [+W]
 - [VR-based teaching yields significantly higher operative design scores than traditional teaching](../claims/vr-higher-operative-design-scores.md) [+W]
 - [VR simulation of orthodontic treatment produced higher student engagement and learning satisfaction than PowerPoint analysis](../claims/vr-higher-engagement-than-powerpoint-orthodontics.md) [+W]
-- [Evidence quality is limited by heterogeneity in VR platforms, publication bias, and unclear randomization in included trials](../claims/vr-orthopedics-evidence-limitations.md) [~W]
 - [The motivational advantage of VR-based learning over traditional methods narrows over time, suggesting a novelty effect](../claims/vr-motivation-novelty-effect.md) [~W]
 - [XR technologies improve surgical skills and procedural accuracy while reducing risks and operating room time (performance expectancy)](../claims/xr-improves-surgical-skills-accuracy-reduces-or-time.md) [+W]
 - [Virtual simulations are less effective than mannequins or real persons for procedural skills among nursing participants](../claims/vs-less-effective-procedural-skills-nursing.md) [~W]

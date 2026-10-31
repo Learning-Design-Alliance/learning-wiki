@@ -55,4 +55,4 @@ Trim-and-fill (Card, 2012) funnel-plot asymmetry analysis applied to each meta-a
 - [Funnel-plot asymmetry suggests small studies with negative or null results may be missing from the simulation-versus-clinical meta-analysis](funnel-plot-missing-negative-studies.md) — related
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](srl-meta-analysis-publication-bias-absent.md) — related
 - Funnel-plot asymmetry in the TBL meta-analyses is not supported by formal tests of publication bias — reports the opposite
-- [Publication bias tests provide mixed evidence but overall suggest bias is unlikely](publication-bias-tests-mixed-evidence.md) — reports the opposite
+- Publication bias tests provide mixed evidence but overall suggest bias is unlikely — reports the opposite

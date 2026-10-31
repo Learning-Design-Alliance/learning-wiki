@@ -46,7 +46,7 @@ Systematic review per PRISMA searching PubMed, PsycINFO, MEDLINE and EMBASE; sev
 
 
 ## Related Claims
-- [A systematic review of robotic surgery training identified 209 studies that included an assessment tool, out of 1591 records screened](209-studies-robotic-training-assessment-review.md) — related
+- A systematic review of robotic surgery training identified 209 studies that included an assessment tool, out of 1591 records screened — related
 - [Only three bespoke rater-based assessment tools and one sensor-based method exist for assessing non-technical skills in robotic-assisted surgery](paucity-bespoke-nts-assessment-tools-ras.md) — related
 - [Higher team anticipation correlates with shorter operative time, while more requests correlate with longer operative time in robotic surgery](anticipation-ratio-shorter-operative-time-ras.md) — related
 - [Perceived deficits in communication quality during robotic surgery are associated with greater estimated blood loss and longer operative time](communication-deficit-blood-loss-operative-time.md) — related

@@ -52,7 +52,7 @@ Hands-on learning is the element in which learners manipulate materials, tools, 
 - [Embodied actions appear in all reviewed ILE designs, while learner control over environment attributes is rare](../claims/ile-psychomotor-design-characteristics-embodied-actions.md) [+W]
 - [Moderator analyses for manipulative effects are inconclusive, with no discernable heterogeneity across participant and intervention characteristics](../claims/manipulative-moderators-inconclusive-no-heterogeneity.md) [~W]
 - [Virtual labs increase confidence but cannot fully replace hands-on experimental learning](../claims/virtual-labs-cannot-replace-hands-on-learning.md) [~W]
-- [A 2-day foot ulcer simulation training workshop significantly improved podiatrists' confidence, theoretical knowledge, and practical skills](../claims/fust-workshop-improved-confidence-knowledge-skills.md) [+W]
+- [A 2-day foot ulcer simulation training workshop increased podiatrists' confidence and significantly improved their theoretical knowledge and practical skills](../claims/fust-workshop-improved-confidence-knowledge-skills.md) [+W]
 
 ## The evidence by question
 - *Does a concrete stage help at all over abstract symbols alone?* [Manipulatives Improve Math Learning](../claims/manipulatives-improve-math-learning.md) [+M]

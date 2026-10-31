@@ -17,7 +17,7 @@ sources:
 # Adapt an existing European or global competency framework to national needs rather than developing one de novo
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article's methodological approach adapts the European Common Training Framework to national context: extract behaviour competencies from a systematic review, remove duplicates against the CTF, review remaining competencies for contextual national appropriateness, and validate with a national expert panel. The authors state "The methodological approach of adapting the European CTF to national needs may be used by other countries which have a similar development need for clinical pharmacy practice."
@@ -40,9 +40,7 @@ The article's methodological approach adapts the European Common Training Framew
 ## Claims
 
 - [Most of the 19 retained behaviour competencies originated from the PSI, RPS and SHPA frameworks](../claims/competency-origins-psi-rps-shpa.md) [+W]
-- [A four-member expert panel of Austrian hospital pharmacists validated the draft framework, reaching consensus on every suggested change](../claims/expert-panel-validation-consensus.md) [+W]
 - [After duplicate removal, 19 behaviour competencies were mapped to the CTF Patient Care and Clinical Pharmacy Skills domain and reviewed for national appropriateness](../claims/nineteen-competencies-mapped-ctf-domain.md) [+W]
-- [A systematic review of 48 organisation websites and six databases identified 28 competency-related documents containing 379 behaviour competencies](../claims/sr-28-documents-379-behaviour-competencies.md) [+W]
 
 ## Related Strategies
 

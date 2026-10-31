@@ -46,7 +46,7 @@ Systematic review narrative synthesis of eight studies (four RCTs, four non-rand
 
 ## Related Claims
 - [VR training improved mental health knowledge in two non-randomized studies but showed no statistically significant effect on diagnostic recognition in a cohort study](vr-training-knowledge-nonrandomized-mixed.md) — a narrower finding that bears on this claim
-- [The RCTs showed some concern or high overall risk of bias and the non-randomized studies moderate to serious risk, making the evidence base uncertain](vr-mental-health-review-high-risk-of-bias.md) — possibly the same claim (merge candidate)
+- The RCTs showed some concern or high overall risk of bias and the non-randomized studies moderate to serious risk, making the evidence base uncertain — possibly the same claim (merge candidate)
 - [Virtual standardized patient training improved alcohol screening and brief intervention skills and diagnostic accuracy for depression and PTSD in two RCTs, while a suicide risk assessment RCT found no significant effect](vsp-training-skills-rct-mixed-results.md) — a narrower finding that bears on this claim
 - [All included VR training interventions used non-immersive desktop systems; no immersive VR studies met the review's inclusion criteria](all-included-vr-interventions-non-immersive-desktop.md) — related
 - [A single-group pretest–posttest study found no significant effect of VSP training on attitudes toward individuals with substance abuse disorders but a significant increase in perceived competence](vsp-training-attitudes-null-competence-gain.md) — a narrower finding that bears on this claim

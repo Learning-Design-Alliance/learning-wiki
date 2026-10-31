@@ -62,7 +62,7 @@ Meta-analysis of 16 RCTs (1,267 students, interns and residents) in neurology ed
 - [Team-based learning outperforms LBL in improving practical test scores of internal medicine residents](tbl-outperforms-lbl-practical-scores-residents.md) — related
 - [3D-PBL showed the greatest improvement in communication skills versus lecture-based learning, rated high-quality evidence](3d-pbl-greatest-communication-skills-gains.md) — related
 - [Blended BOPPPS teaching is associated with favorable subjective outcomes including autonomous learning, teamwork, and problem-solving ability](blended-boppps-favorable-subjective-outcomes.md) — related
-- [In the RCT, PBL students scored significantly higher on communication skills and critical thinking than LBL students](pbl-rct-higher-communication-critical-thinking.md) — related
+- [In the RCT, PBL students rated their own communication skills and critical thinking significantly higher on a questionnaire than LBL students did](pbl-rct-higher-communication-critical-thinking.md) — related
 - [More PBL than LBL students report satisfaction with improved self-study ability (RR = 1.44)](pbl-satisfaction-self-study-ability.md) — related
 - [Freshmen, academically weaker students, undergraduates, Chinese female students and nursing students appear to benefit most from TBL](tbl-beneficiary-groups.md) — related
 - [TBL is associated with improved teamwork measures, including higher team emotional intelligence after clerkship and improved perceived value of team work](tbl-clinical-teamwork-emotional-intelligence-gains.md) — related

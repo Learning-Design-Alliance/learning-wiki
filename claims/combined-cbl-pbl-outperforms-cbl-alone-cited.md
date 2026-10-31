@@ -47,4 +47,4 @@ A second-hand finding reported in the discussion, attributed by the review to pr
 ## Related Claims
 - [Combining teaching methods (PBL + WeChat, CBL + WeChat, PBL + CBL) achieves better academic performance than single methods in Chinese resident training](combined-methods-better-academic-performance-residents.md) — a broader claim this one bears on
 - [In TACE clinical teaching in China, combining PBL and CBL shows more effectiveness than other compared teaching methods across nine measured outcomes](pbl-cbl-combination-most-effective-tace-teaching.md) — related
-- [Multiple new teaching methods (PBL + CBL, CBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on theoretical scores](new-methods-outperform-lbl-theoretical-scores.md) — related
+- [Eight new teaching methods (PBL + CBL, PBL + CP, CBL + WeChat, PBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on residents' theoretical scores](new-methods-outperform-lbl-theoretical-scores.md) — related

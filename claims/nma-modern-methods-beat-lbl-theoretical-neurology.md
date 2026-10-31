@@ -47,10 +47,10 @@ Bayesian network meta-analysis (BUGSnet in R 4.3.2, random-effects model, mean d
 ## Related Claims
 - [CBL is the most effective method overall for both theoretical and practical neurology teaching outcomes, with no evidence of publication bias](cbl-optimal-strategy-neurology-nma.md) — related
 - [Emerging teaching methods (PBL, CBL, FC) significantly improve dental students' exam scores compared to lecture-based learning](emerging-methods-improve-dental-exam-scores.md) — related
-- [The evidence network comprised 31 RCTs with 2,124 subjects and only direct two-arm comparisons, with no closed loops](neurology-nma-network-31-rcts-no-loops.md) — related
+- The evidence network comprised 31 RCTs with 2,124 subjects and only direct two-arm comparisons, with no closed loops — related
 - [For practical skills, EBM shows the largest effect versus LBL (MD = 13.34) and the ranking is CBL > EBM > PBL > TBL > FCM > CP > LBL](practical-skills-ranking-ebm-cbl-neurology-nma.md) — related
 - [CBL shows the largest effect on theoretical exam scores versus LBL (MD = 13.12) and ranks first among the seven methods](cbl-largest-theoretical-exam-effect-neurology-nma.md) — a narrower finding that bears on this claim
-- [Multiple new teaching methods (PBL + CBL, CBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on theoretical scores](new-methods-outperform-lbl-theoretical-scores.md) — related
+- [Eight new teaching methods (PBL + CBL, PBL + CP, CBL + WeChat, PBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on residents' theoretical scores](new-methods-outperform-lbl-theoretical-scores.md) — related
 - [TBL students achieve significantly higher post-test final scores than LBL students in medical education](tbl-higher-post-test-scores-than-lbl.md) — a narrower finding that bears on this claim
 - [Team-based learning outperforms LBL in improving practical test scores of internal medicine residents](tbl-outperforms-lbl-practical-scores-residents.md) — related
 - [TBL alone and TBL combined with other methods both outperform LBL, with no significant difference between the two TBL formats](tbl-alone-versus-blended-no-significant-difference.md) — related

@@ -5,6 +5,22 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-10-31 — batches drop agreed research-practice claims themselves, before the expensive steps
+
+- **What triage did by hand, the batch now does.** Every synthesis batch left its research-practice
+  claims (both sort models agreeing, the 2026-10-16 rule) for the triage hold: 224, 62, 53 and 50 in
+  four batches, up to 45% of a batch's new claims, each already linked, merged, coded and judged.
+  `scripts/remove_research_practice.py` removes them (through `remove_pages.py`, which repairs the
+  pages that linked to them) and makes log.md links to them plain text; `run_scrape_batch.py` now
+  sorts right after ingest and runs it before linking. The rule is unchanged: a disputed sort stays.
+- **Tested on real data first.** It made j-scrsyn-6's own removal at its triage hold: exactly the
+  50 claims the hold listed, 172 links on 134 pages, 50 log.md links, nothing agreed left behind.
+  Its list is computed as the triage list is. Every later `--new` step finds claims from the working
+  tree or skips missing files, so removing them early cannot leave a step reading a deleted page.
+- **One study-validity finding settled at the same hold:** Chen et al. (2024)'s PBL trial measured
+  problem-solving, self-directed learning, communication and critical thinking by questionnaire, so
+  both claims resting on it now say students rated themselves higher, not that they scored higher.
+
 ## 2026-10-31 — the ingest's citation gate re-read the whole wiki for every page it wrote
 
 - **Found by profiling, not guessing.** j-scrsyn-3's `ingest_extractions.py` ran 105 minutes at 99% CPU.

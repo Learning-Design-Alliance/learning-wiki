@@ -48,5 +48,5 @@ Systematic review finding from the Results section. The review reports that "all
 - [Education focused on perineal tear assessment and classification only is associated with increased perineal tear detection rates.](assessment-only-training-increases-tear-detection.md) — related
 - [Education programmes including perineal tear prevention training are associated with reduced severe perineal tear rates.](prevention-inclusive-training-reduces-tear-rates.md) — related
 - [ANOVA in iteration 1 shows statistically significant pre-to-post differences for seven of eight skill sets, with cultural competency not significant](anova-iteration1-significant-skill-gains-except-cultural.md) — related
-- [Online and interprofessional wound care courses increased students' subjective knowledge and were well accepted](online-interprofessional-courses-subjective-knowledge-gains.md) — a broader claim this one bears on
+- [Online and interprofessional wound care courses increased students' subjective knowledge, and the online courses were well accepted](online-interprofessional-courses-subjective-knowledge-gains.md) — a broader claim this one bears on
 - [Objective nutrition knowledge increased significantly after the 'Eat This!' online lecture series](eat-this-objective-knowledge-increase-significant.md) — a broader claim this one bears on

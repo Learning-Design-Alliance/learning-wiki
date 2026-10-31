@@ -48,6 +48,6 @@ The review's overall conclusion, based on its systematic synthesis of five studi
 - [Executive Function](../learner-variables/executive-function.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [None of the five reviewed studies of executive function in adolescents with MDD reported quantitative educational achievement results](no-mdd-adolescent-ef-studies-report-educational-achievement.md) — possibly the same claim (merge candidate)
+- None of the five reviewed studies of executive function in adolescents with MDD reported quantitative educational achievement results — possibly the same claim (merge candidate)
 - [Inhibitory control results in adolescents with MDD are inconsistent across studies, with only one of three tests showing worse performance in one study](inconsistent-inhibitory-control-mdd-adolescents.md) — related
 - [No planning deficits were found in adolescents with MDD in either of the two studies assessing planning](no-planning-deficits-mdd-adolescents.md) — related

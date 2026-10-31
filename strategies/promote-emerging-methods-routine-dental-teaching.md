@@ -17,7 +17,7 @@ sources:
 # Advocate and popularize emerging teaching methods as routine dental teaching, while combining them with traditional models to offset cost and time weaknesses
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (5 for, 2 mixed) · 1 study (1 quant-synthesis), `q4` · 1 of 1 report an effect size · 7 claims rest on one study
+> **Evidence** · 6 claims (4 for, 2 mixed) · 1 study (1 quant-synthesis), `q4` · 1 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 Based on the meta-analytic evidence of improved exam scores, the authors recommend that emerging educational methods "can be advocated and popularized as routine teaching methods" in dental education, potentially advanced through educational system reform in China. They also caution that these methods "require a large amount of money and time, and hard to see results in a short time", and suggest that combining emerging educational models with traditional teaching models to expand strengths and weaken weaknesses "might a better teaching method in the future". The methods should be improved constantly to make up for their strengths and weaknesses.
@@ -43,7 +43,6 @@ Based on the meta-analytic evidence of improved exam scores, the authors recomme
 - [Flipped classroom shows a significant pooled advantage over lecture-based learning in dental education (SMD = 0.50)](../claims/flipped-classroom-significant-vs-lbl-dental.md) [+M]
 - [Problem-based learning shows a small but significant pooled advantage over lecture-based learning in dental education (SMD = 0.33)](../claims/pbl-small-significant-advantage-dental.md) [+M]
 - [Case-based learning and combined emerging methods show non-significant pooled advantages over lecture-based learning](../claims/cbl-combined-methods-nonsignificant-dental.md) [~M]
-- [The meta-analysis results are statistically stable under sensitivity analysis and show no evidence of publication bias](../claims/dental-meta-stable-no-publication-bias.md) [+M]
 - [Effects of emerging teaching methods vary by student grade and subject, with no significant differences in orthodontics and oral and maxillofacial surgery](../claims/grade-and-subject-moderators-dental-meta.md) [~M]
 
 ## Related Strategies

@@ -17,7 +17,7 @@ sources:
 # Prioritize rigorous VR training studies with larger samples, validated outcome measures, immersive designs, and LLM integration in mental health education research
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The review's forward-looking recommendations for VR training research in mental health care education. It states that "Future research on the effectiveness of VR training for specific learning outcomes in assessing and treating mental health disorders should encompass more rigorous experimental studies with larger sample sizes", with verifiable intervention descriptions and validated measurement tools. It further recommends in-depth designs evaluating broader learning processes, immersive VR applications, and exploring integration of large language models to augment interactive learning, plus agreed terms and classifications for reporting.
@@ -41,7 +41,6 @@ The review's forward-looking recommendations for VR training research in mental 
 
 - [All included VR training interventions used non-immersive desktop systems; no immersive VR studies met the review's inclusion criteria](../claims/all-included-vr-interventions-non-immersive-desktop.md) [+W]
 - [An RCT using self-reported combined knowledge and skills found a significant within-group pretest-to-posttest increase with a large effect size, but reported no between-group comparison](../claims/self-report-knowledge-skills-within-group-gain.md) [+W]
-- [The RCTs showed some concern or high overall risk of bias and the non-randomized studies moderate to serious risk, making the evidence base uncertain](../claims/vr-mental-health-review-high-risk-of-bias.md) [+W]
 - [VR training improved mental health knowledge in two non-randomized studies but showed no statistically significant effect on diagnostic recognition in a cohort study](../claims/vr-training-knowledge-nonrandomized-mixed.md) [~W]
 - [VR training interventions can promote knowledge and skills acquisition in health care professionals and students for assessing and treating mental health disorders, though the evidence base is uncertain](../claims/vr-training-promotes-mental-health-knowledge-skills.md) [+W]
 - [A single-group pretest–posttest study found no significant effect of VSP training on attitudes toward individuals with substance abuse disorders but a significant increase in perceived competence](../claims/vsp-training-attitudes-null-competence-gain.md) [~W]

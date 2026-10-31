@@ -132,7 +132,7 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [Blended BOPPPS teaching is associated with favorable subjective outcomes including autonomous learning, teamwork, and problem-solving ability](../claims/blended-boppps-favorable-subjective-outcomes.md) [+M] — instruction changes it
 - [BOPPPS shows no significant improvement in problem-solving or critical thinking skills compared with traditional teaching](../claims/boppps-no-gain-problem-solving-critical-thinking.md) [-M] — instruction changes it
 - [CBL significantly improves problem-solving abilities compared with LBL (RR = 2.19)](../claims/cbl-improves-problem-solving-abilities.md) [+M] — instruction changes it
-- [In an RCT, pharmacy students taught with PBL scored significantly higher on problem-solving and self-directed learning than LBL students](../claims/pbl-rct-higher-problem-solving-self-directed-learning.md) [+M] — instruction changes it
+- [In an RCT, pharmacy students taught with PBL rated their own problem-solving and self-directed learning significantly higher on a questionnaire than LBL students did](../claims/pbl-rct-higher-problem-solving-self-directed-learning.md) [+M] — instruction changes it
 - [In first-year medical students, PBL showed no significant difference from non-PBL teaching in critical thinking, problem-solving, or self-directed learning](../claims/pbl-null-first-year-medical-students.md) [-M] — instruction changes it
 
 ## Measures

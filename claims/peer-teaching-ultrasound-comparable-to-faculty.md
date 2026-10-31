@@ -45,7 +45,7 @@ Systematic review synthesis of six comparative studies of peer- versus faculty-l
 
 
 ## Related Claims
-- [Included studies on peer ultrasound teaching show mostly fair-to-poor methodological quality on a modified Newcastle–Ottawa Scale](nos-quality-fair-poor-peer-ultrasound-studies.md) — related
+- Included studies on peer ultrasound teaching show mostly fair-to-poor methodological quality on a modified Newcastle–Ottawa Scale — related
 - [Peer ultrasound teachers are typically fourth-year medical students about one year ahead of their students](peer-teachers-fourth-year-one-year-ahead.md) — related
 - [Peer teaching effectiveness varies by ultrasound application and student prior knowledge, with faculty favored for complex applications and novices](peer-teaching-limits-complex-applications-novices.md) — reports the opposite
 - [Peer-assisted ultrasound teaching can produce long-term retention of knowledge and skills](peer-teaching-long-term-retention-ultrasound.md) — related

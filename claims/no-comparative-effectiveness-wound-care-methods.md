@@ -47,4 +47,4 @@ The review's discussion of comparability: because of significant differences bet
 ## Related Claims
 - [Only nine studies of educational interventions for chronic wound care targeting medical students were identified in a scoping review of six databases](nine-studies-medical-student-wound-care-education.md) — related
 - [Included wound care educational interventions showed positive effects on students' wound care knowledge and clinical skills, mainly via self-assessment](wound-care-interventions-improve-knowledge-skills-self-assessed.md) — related
-- [Online and interprofessional wound care courses increased students' subjective knowledge and were well accepted](online-interprofessional-courses-subjective-knowledge-gains.md) — related
+- [Online and interprofessional wound care courses increased students' subjective knowledge, and the online courses were well accepted](online-interprofessional-courses-subjective-knowledge-gains.md) — related

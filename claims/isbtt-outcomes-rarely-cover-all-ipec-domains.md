@@ -64,7 +64,7 @@ The review reports that teamwork and communication dominated assessment, consist
 
 
 ## Related Claims
-- [Only a small minority of ISBTT studies used the IPEC competencies to design programs or assess participants](few-isbtt-studies-used-ipec-competencies.md) — related
+- Only a small minority of ISBTT studies used the IPEC competencies to design programs or assess participants — related
 - [Most ISBTT programs are one-time events involving two or three professions, with debriefing nearly universal and psychological safety rarely addressed](isbtt-design-features-one-time-two-professions.md) — related
 - [Most published ISBTT programs are grounded in crisis resource management and related frameworks rather than interprofessional education frameworks](isbtt-programs-grounded-in-crm-not-ipe.md) — related
 - [Teams and teamwork is the most frequently developed IPEC core competency in interprofessional education, identified in 65 instances across 62 studies](ipe-teams-teamwork-most-frequent-competency.md) — related

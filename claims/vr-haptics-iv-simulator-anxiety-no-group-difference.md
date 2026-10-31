@@ -48,8 +48,8 @@ The review reports this randomized control trial of 60 first-year nursing studen
 - [Academic Anxiety](../learner-variables/academic-anxiety.md) — outcome: instruction changes it
 
 ## Related Claims
-- [VR-based nurse-physician communication team training is non-inferior to live simulation for communication performance and improves interprofessional attitudes](vr-noninferior-live-simulation-team-communication.md) — related
+- [VR-based nurse-physician communication team training produced communication performance and interprofessional-attitude gains similar to live simulation](vr-noninferior-live-simulation-team-communication.md) — related
 - [Haptic simulator trials more frequently show superior accuracy outcomes when force-feedback and structured guidance are included](haptic-simulator-force-feedback-accuracy-gains.md) — related
 - [VR sepsis game decreased nursing students' anxiety by a reported 23.4%](vr-sepsis-game-anxiety-decrease.md) — related
 - [XR gesture-simulation interventions reduce anxiety in most included midwifery and nursing education studies](xr-gesture-simulation-reduces-nursing-anxiety.md) — a broader claim this one bears on
-- [Included haptics studies most often used crossover designs, followed by RCTs, with a mean sample size of 24](haptics-vs-study-designs-crossover-rct-small-samples.md) — related
+- Included haptics studies most often used crossover designs, followed by RCTs, with a mean sample size of 24 — related

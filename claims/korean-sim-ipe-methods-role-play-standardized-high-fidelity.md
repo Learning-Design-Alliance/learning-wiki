@@ -46,5 +46,5 @@ The review's Discussion characterizes simulation methods across the included stu
 
 ## Related Claims
 - [Korean simulation-based IPE studies report high satisfaction but concentrate on Kirkpatrick levels 1 and 2, with no study measuring level 4 training efficacy](korean-sim-ipe-kirkpatrick-levels-1-2-only.md) — related
-- [Simulation-based IPE research in South Korea consists of ten studies concentrated on undergraduate nursing and medical students, with interventions lasting 2 hours to 2 weeks](korean-sim-ipe-ten-studies-nursing-medical-dominance.md) — related
+- Simulation-based IPE research in South Korea consists of ten studies concentrated on undergraduate nursing and medical students, with interventions lasting 2 hours to 2 weeks — related
 - [High-fidelity manikins and virtual reality were the most common paediatric SBE modalities across the reviewed studies](high-fidelity-manikins-vr-most-common-modalities.md) — related

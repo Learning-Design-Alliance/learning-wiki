@@ -13,7 +13,7 @@ generated:
 # First national clinical pharmacy competency framework for hospital pharmacists in Austria
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Austrian hospital-pharmacy stakeholders developed this framework to define clinical pharmacy and medication-safety competencies for hospital pharmacists and clinical pharmacy trainees within Austrian legal authorisations.
@@ -23,7 +23,6 @@ Austrian hospital-pharmacy stakeholders developed this framework to define clini
 
 ### Claims
 - [After duplicate removal, 19 behaviour competencies were mapped to the CTF Patient Care and Clinical Pharmacy Skills domain and reviewed for national appropriateness](../claims/nineteen-competencies-mapped-ctf-domain.md) [+M]
-- [A four-member expert panel of Austrian hospital pharmacists validated the draft framework, reaching consensus on every suggested change](../claims/expert-panel-validation-consensus.md) [+M]
 
 ## Related Products and Programmes
 -

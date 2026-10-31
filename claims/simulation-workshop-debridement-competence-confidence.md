@@ -46,4 +46,4 @@ Pilot-RCT (Grollo et al., as charted in Table 1) comparing a simulation workshop
 
 ## Related Claims
 - [3D printed foot models produced similar anxiety and confidence changes to standard teaching and increased self-confidence and task self-efficacy in scalpel skill practice](3d-printed-foot-models-scalpel-skills.md) — related
-- [A 2-day foot ulcer simulation training workshop significantly improved podiatrists' confidence, theoretical knowledge, and practical skills](fust-workshop-improved-confidence-knowledge-skills.md) — related
+- [A 2-day foot ulcer simulation training workshop increased podiatrists' confidence and significantly improved their theoretical knowledge and practical skills](fust-workshop-improved-confidence-knowledge-skills.md) — related

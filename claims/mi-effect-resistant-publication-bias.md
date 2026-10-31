@@ -59,5 +59,5 @@ Publication-bias assessment of the meta-analysis using funnel scatter plot, clip
 - Fail-safe analyses indicate the meta-analysis findings are not attributable to publication bias — related
 - Fail-safe N analyses indicate the pooled effect is resistant to publication bias (Rosenthal FSN = 2139; Orwin FSN = 1048) — related
 - The meta-analysis results are resistant to publication bias, per fail-safe N of 1791 — related
-- [Funnel plots suggest potential publication bias across the meta-analysis outcomes](pbl-pharmacology-publication-bias.md) — reports the opposite
-- [Publication bias tests provide mixed evidence but overall suggest bias is unlikely](publication-bias-tests-mixed-evidence.md) — related
+- Funnel plots suggest potential publication bias across the meta-analysis outcomes — reports the opposite
+- Publication bias tests provide mixed evidence but overall suggest bias is unlikely — related

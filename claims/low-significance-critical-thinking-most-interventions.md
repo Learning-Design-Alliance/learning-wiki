@@ -50,4 +50,4 @@ The review's four-point significance rating (low, moderate, high, very high) of 
 ## Related Claims
 - [Interventions with high or very high significance of critical thinking applied mainly problem-solving methods and involved pupils' activity](problem-solving-high-critical-thinking-significance.md) — related
 - [Cooperative learning with Think-Pair-Share and RoundTable was followed by larger critical thinking gains than traditional teaching in 4th graders, in a two-class quasi-experiment](tps-roundtable-cooperative-learning-critical-thinking-gains.md) — related
-- [Most health-education interventions did not examine the effectiveness of their teaching methods](most-interventions-no-effectiveness-examined.md) — related
+- Most health-education interventions did not examine the effectiveness of their teaching methods — related

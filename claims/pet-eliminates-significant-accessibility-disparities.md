@@ -65,5 +65,5 @@ Pairwise accuracy differences with 95% bootstrap confidence intervals after PET 
 
 
 ## Related Claims
-- [LLM accuracy increases monotonically with prompt sophistication across semantically equivalent medical questions, with Low Literacy users scoring significantly below Prompt Engineer users](prompt-privilege-monotonic-accuracy-gap-medqa.md) — related
+- [On MedQA, GPT-5.4-mini's accuracy increases monotonically with prompt sophistication across semantically equivalent questions, with generated Low Literacy prompt variants scoring significantly below Prompt Engineer variants](prompt-privilege-monotonic-accuracy-gap-medqa.md) — related
 - [Applying PET raises accuracy for every user cohort, with the largest gain for the Low Literacy cohort](pet-raises-accuracy-all-cohorts-largest-low-literacy-gain.md) — related

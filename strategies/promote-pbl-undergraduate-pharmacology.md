@@ -17,7 +17,7 @@ sources:
 # Introduce and promote PBL pedagogy in undergraduate pharmacology education
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (5 for, 1 mixed) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article concludes that PBL, a student-centered method in which students "learn and discuss in small groups" and construct knowledge by solving problems, should be introduced and promoted among undergraduate pharmacology students. The recommendation rests on the meta-analytic evidence of higher examination scores and satisfaction with PBL versus LBL. The authors state it is "imperative that pharmacology pedagogues further introduce and promote PBL pedagogy among undergraduate students."
@@ -45,7 +45,6 @@ The article concludes that PBL, a student-centered method in which students "lea
 
 - [PBL's examination-score advantage holds across student majors, publication years, and class sizes, but heterogeneity remains high in all subgroups](../claims/pbl-exam-subgroup-analyses-heterogeneity.md) [+M]
 - [PBL produces higher examination scores than LBL in undergraduate pharmacology education (SMD = 2.03)](../claims/pbl-higher-examination-scores-pharmacology.md) [+M]
-- [Funnel plots suggest potential publication bias across the meta-analysis outcomes](../claims/pbl-pharmacology-publication-bias.md) [~M]
 - [More PBL than LBL students report satisfaction with improved communication skills (RR = 1.66)](../claims/pbl-satisfaction-communication-skills.md) [+M]
 - [More PBL than LBL students report satisfaction with improved comprehension of knowledge (RR = 1.84)](../claims/pbl-satisfaction-comprehension-knowledge.md) [+M]
 - [More PBL than LBL students report satisfaction with improved learning interest (RR = 2.08)](../claims/pbl-satisfaction-learning-interest.md) [+M]

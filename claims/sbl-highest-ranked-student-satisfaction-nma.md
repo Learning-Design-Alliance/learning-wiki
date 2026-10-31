@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2024
+source_checked: 2026-10-31
 sources:
   - id: zhang-shuai-long-2024
     resource: "https://doi.org/10.1186/s12909-024-06291-4"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i3` large
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In the network meta-analysis of 13 satisfaction studies (849 students), SBL ranked highest (SUCRA 96.2%), significantly outperforming PBL (SMD = 1.62), TBL (2.77), and LBL (2.64). [→ Zhang Shuai-Long 2024](#zhang-shuai-long-2024)

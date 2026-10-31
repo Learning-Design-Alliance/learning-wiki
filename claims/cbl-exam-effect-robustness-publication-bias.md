@@ -48,5 +48,5 @@ Sensitivity analysis of the exam-performance outcome across the included RCTs. S
 - [The pooled effect of writing instruction for US ELL students is robust to sensitivity analyses but funnel plot asymmetry suggests possible missing positive effect sizes](sensitivity-and-bias-checks-ell-writing-meta.md) — related
 - [Publication bias is present in the embodied vocabulary learning literature, suggesting pooled effects may overestimate the true benefit](publication-bias-embodied-vocabulary-meta-analysis.md) — related
 - [Publication bias could not be ruled out in the pooled teacher-student SEC estimate, though the association persisted across sensitivity analyses](sec-pooled-estimate-publication-bias-caution.md) — related
-- [The meta-analysis results are statistically stable under sensitivity analysis and show no evidence of publication bias](dental-meta-stable-no-publication-bias.md) — related
+- The meta-analysis results are statistically stable under sensitivity analysis and show no evidence of publication bias — related
 - [PBL's examination-score advantage holds across student majors, publication years, and class sizes, but heterogeneity remains high in all subgroups](pbl-exam-subgroup-analyses-heterogeneity.md) — related

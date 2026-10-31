@@ -17,7 +17,7 @@ sources:
 # Prioritise qualitative research, apply differential item functioning to surgical examinations, and study under-researched protected characteristics
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review recommends that the surgical community address gaps in differential attainment research by prioritising qualitative studies to uncover causes and protective factors, applying differential item functioning (used in MRCP exams) to multiple-choice surgical examinations such as MRCS Part A and FRCOphth Part 1, and ensuring all protected characteristics — especially disability and neurodiversity — are considered along with their interactions. It states "qualitative studies should be prioritised to uncover causes for and protective factors against DA".
@@ -43,7 +43,6 @@ The review recommends that the surgical community address gaps in differential a
 
 ## Claims
 
-- [Published research on differential attainment in postgraduate surgical assessment is dominated by quantitative, gender-focused studies from the USA and UK](../claims/da-surgical-review-53-studies-quantitative-gender-dominated.md) [+W]
 - [Lower socioeconomic background, older age, graduate-entry and non-professional parental background are associated with lower MRCS pass rates and more non-satisfactory ARCP outcomes](../claims/socioeconomic-age-background-attainment-gaps.md) [+W]
 
 ## Related Strategies

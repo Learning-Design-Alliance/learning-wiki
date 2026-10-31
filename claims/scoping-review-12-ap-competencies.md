@@ -46,7 +46,7 @@ Scoping review following JBI methodology and the PRISMA-ScR extension, searching
 
 
 ## Related Claims
-- [Scoping review data extraction renamed three competencies and added prevention, prognosis, and palliative care to the preliminary Delphi list](ap-competency-list-revisions.md) — related
-- [A preliminary literature phase defined aspiration pneumonia as pneumonia occurring in the context of aspiration or dysphagia](ap-definition-aspiration-dysphagia-context.md) — related
-- [Discussion of the 12 competencies in the literature is uneven: five competencies appear in 15 or more studies while seven supportive-care competencies appear in only a few](ap-competency-discussion-frequency-uneven.md) — a narrower finding that bears on this claim
+- Scoping review data extraction renamed three competencies and added prevention, prognosis, and palliative care to the preliminary Delphi list — related
+- A preliminary literature phase defined aspiration pneumonia as pneumonia occurring in the context of aspiration or dysphagia — related
+- Discussion of the 12 competencies in the literature is uneven: five competencies appear in 15 or more studies while seven supportive-care competencies appear in only a few — a narrower finding that bears on this claim
 - [The authors identify a particular need for research and education on supportive-care competencies and on how to train and assess professionals in them](supportive-care-competency-research-education-gap.md) — a narrower finding that bears on this claim

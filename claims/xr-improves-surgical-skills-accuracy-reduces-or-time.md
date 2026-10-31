@@ -52,4 +52,4 @@ Umbrella review of 44 systematic reviews and meta-analyses, synthesized descript
 - [Haptic simulator trials more frequently show superior accuracy outcomes when force-feedback and structured guidance are included](haptic-simulator-force-feedback-accuracy-gains.md) — a narrower finding that bears on this claim
 - [Evidence for transfer of simulation training to operating-room outcomes was sparse in neuro-oncological simulation research](sparse-transfer-evidence-simulation-to-or.md) — related
 - [Most VR assessments occur at Miller's performance level, with the action level absent](vr-assessments-mostly-performance-level-miller.md) — related
-- [The umbrella review included 44 systematic reviews, most covering XR training in orthopedics, neurology, and laparoscopy](xr-umbrella-review-44-reviews-specialties.md) — related
+- The umbrella review included 44 systematic reviews, most covering XR training in orthopedics, neurology, and laparoscopy — related

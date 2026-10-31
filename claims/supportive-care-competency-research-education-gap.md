@@ -46,7 +46,7 @@ Authors' interpretation in the Discussion: although studies exist on individual 
 
 
 ## Related Claims
-- [A preliminary literature phase defined aspiration pneumonia as pneumonia occurring in the context of aspiration or dysphagia](ap-definition-aspiration-dysphagia-context.md) — related
+- A preliminary literature phase defined aspiration pneumonia as pneumonia occurring in the context of aspiration or dysphagia — related
 - [A scoping review of 99 studies identified 12 clinical competencies for managing older adults with aspiration pneumonia](scoping-review-12-ap-competencies.md) — a broader claim this one bears on
-- [Discussion of the 12 competencies in the literature is uneven: five competencies appear in 15 or more studies while seven supportive-care competencies appear in only a few](ap-competency-discussion-frequency-uneven.md) — possibly the same claim (merge candidate)
-- [Scoping review data extraction renamed three competencies and added prevention, prognosis, and palliative care to the preliminary Delphi list](ap-competency-list-revisions.md) — related
+- Discussion of the 12 competencies in the literature is uneven: five competencies appear in 15 or more studies while seven supportive-care competencies appear in only a few — possibly the same claim (merge candidate)
+- Scoping review data extraction renamed three competencies and added prevention, prognosis, and palliative care to the preliminary Delphi list — related

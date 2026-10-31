@@ -90,5 +90,5 @@ Table 2 characterizes the Oliveira et al. 2016 Cochrane/meta-analysis of 19 stud
 - [PBL significantly improves clinical skill scores compared with lecture-based learning in medical education](pbl-improves-clinical-skill-scores-versus-lbl.md) — related
 - [Modern teaching methods significantly improve nursing students' problem-solving abilities (SMD = 1.05)](modern-methods-improve-nursing-problem-solving-meta.md) — related
 - [In first-year medical students, PBL showed no significant difference from non-PBL teaching in critical thinking, problem-solving, or self-directed learning](pbl-null-first-year-medical-students.md) — reports the opposite
-- [In the RCT, PBL students scored significantly higher on communication skills and critical thinking than LBL students](pbl-rct-higher-communication-critical-thinking.md) — related
+- [In the RCT, PBL students rated their own communication skills and critical thinking significantly higher on a questionnaire than LBL students did](pbl-rct-higher-communication-critical-thinking.md) — related
 - [Problem-based learning shows a small but significant pooled advantage over lecture-based learning in dental education (SMD = 0.33)](pbl-small-significant-advantage-dental.md) — related

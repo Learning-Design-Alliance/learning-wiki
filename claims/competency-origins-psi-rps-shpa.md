@@ -46,4 +46,4 @@ Descriptive accounting of the sources of the 19 retained competencies in the map
 
 ## Related Claims
 - [After duplicate removal, 19 behaviour competencies were mapped to the CTF Patient Care and Clinical Pharmacy Skills domain and reviewed for national appropriateness](nineteen-competencies-mapped-ctf-domain.md) — related
-- [A systematic review of 48 organisation websites and six databases identified 28 competency-related documents containing 379 behaviour competencies](sr-28-documents-379-behaviour-competencies.md) — related
+- A systematic review of 48 organisation websites and six databases identified 28 competency-related documents containing 379 behaviour competencies — related

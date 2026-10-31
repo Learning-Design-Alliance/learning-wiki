@@ -39,7 +39,7 @@ The review recommends that educators "use validated instruments for the evaluati
 ## Claims
 
 - [Included wound care educational interventions showed positive effects on students' wound care knowledge and clinical skills, mainly via self-assessment](../claims/wound-care-interventions-improve-knowledge-skills-self-assessed.md) [+W]
-- [Online and interprofessional wound care courses increased students' subjective knowledge and were well accepted](../claims/online-interprofessional-courses-subjective-knowledge-gains.md) [~W]
+- [Online and interprofessional wound care courses increased students' subjective knowledge, and the online courses were well accepted](../claims/online-interprofessional-courses-subjective-knowledge-gains.md) [~W]
 
 ## Related Strategies
 - 

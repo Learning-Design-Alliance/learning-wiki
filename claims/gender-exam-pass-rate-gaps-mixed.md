@@ -48,7 +48,7 @@ The review's synthesis of academic-achievement studies: two UK studies found low
 - [Gender](../learner-variables/gender.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
-- [Published research on differential attainment in postgraduate surgical assessment is dominated by quantitative, gender-focused studies from the USA and UK](da-surgical-review-53-studies-quantitative-gender-dominated.md) — related
+- Published research on differential attainment in postgraduate surgical assessment is dominated by quantitative, gender-focused studies from the USA and UK — related
 - [Gender differences appear in progression outcomes and workplace-based assessments, including ARCP outcomes, milestone ratings, feedback language and granted autonomy, with direction varying by specialty and rater](gender-progression-workplace-assessment-gaps.md) — related
 - [Technical skill assessments show mixed gender effects, with initial task differences disappearing after training and no evidence that stereotype threat impairs female performance](technical-skills-gender-mixed-training-erases-gaps.md) — related
 - [Female trainees report fewer operative cases and less operative experience than male trainees in several surgical specialties](gender-surgical-case-volume-gaps.md) — related

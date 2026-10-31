@@ -49,5 +49,5 @@ Review synthesis of inhibitory control findings across three studies using diffe
 - [Decision-making deficits were not clearly identified in adolescents with MDD, though poor risk adjustment appeared in one task but not another](decision-making-deficits-not-identified-mdd-adolescents.md) — related
 - [The relationship between educational attainment and problem-solving and inhibitory control in adolescents with MDD cannot be established from existing literature](ef-academic-link-mdd-adolescents-cannot-be-established.md) — related
 - [Inhibitory control did not relate to adolescents' communicative perspective-taking](inhibitory-control-not-related-perspective-taking.md) — related
-- [None of the five reviewed studies of executive function in adolescents with MDD reported quantitative educational achievement results](no-mdd-adolescent-ef-studies-report-educational-achievement.md) — related
+- None of the five reviewed studies of executive function in adolescents with MDD reported quantitative educational achievement results — related
 - [No planning deficits were found in adolescents with MDD in either of the two studies assessing planning](no-planning-deficits-mdd-adolescents.md) — related

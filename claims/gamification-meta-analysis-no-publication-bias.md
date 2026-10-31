@@ -57,4 +57,4 @@ Four publication-bias analyses were run on the meta-analytic dataset: funnel plo
 - The meta-analysis shows no publication bias (Begg-Mazumdar p = .196) and is resistant to it (fail-safe N = 463) — related
 - Publication bias tests give mixed evidence: Egger's test indicates bias, but fail-safe N calculations lead the authors to conclude no publication bias — related
 - No evidence of publication bias in the SDL meta-analysis — related
-- [No significant publication bias was detected for the knowledge and skill outcomes](no-publication-bias-sbl-endocrinology.md) — related
+- No significant publication bias was detected for the knowledge and skill outcomes — related

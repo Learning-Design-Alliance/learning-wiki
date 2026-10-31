@@ -47,9 +47,9 @@ Meta-analysis of nine institutional-based cross-sectional studies (2706 particip
 
 ## Related Claims
 - [Learning in a conducive clinical setting is associated with higher clinical practice competency among Ethiopian midwifery and nursing students (AOR = 2.92)](conducive-clinical-setting-associated-competency-ethiopia.md) — related
-- [Reported competency proportions increased from studies published 2018–2020 (30.93%) to 2021–2024 (49.08%)](competency-increase-over-publication-year-ethiopia.md) — related
+- Reported competency proportions increased from studies published 2018–2020 (30.93%) to 2021–2024 (49.08%) — related
 - [Confidence during procedures and positive attitudes are associated with higher clinical practice competency (AOR = 2.70)](confidence-positive-attitude-associated-competency-ethiopia.md) — related
-- [Subgroup analyses by sample size show high heterogeneity in both strata, with pooled proportions of 42.16% (102–250) and 37.53% (251–414)](sample-size-subgroup-heterogeneity-competency-ethiopia.md) — related
+- Subgroup analyses by sample size show high heterogeneity in both strata, with pooled proportions of 42.16% (102–250) and 37.53% (251–414) — related
 - [Encouragement from clinical staff is associated with higher clinical practice competency (AOR = 3.95)](clinical-staff-encouragement-associated-competency-ethiopia.md) — related
 - [Instructor supervision during procedures is associated with higher clinical practice competency (AOR = 2.97)](instructor-following-procedure-associated-competency-ethiopia.md) — related
 - [Clinical preceptor support shows the strongest association with clinical practice competency (AOR = 4.44)](preceptor-support-associated-competency-ethiopia.md) — related
