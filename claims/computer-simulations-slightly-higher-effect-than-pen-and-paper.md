@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: andrzej-sokolowski-2015
     resource: "https://journals.iafor.org/index.php/joe"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The effect size from computer simulations (ES = 0.72, SE = 0.06) was higher than pen-and-pencil activities (ES = 0.68, SE = 0.10), but the difference was small. [→ Andrzej Sokolowski 2015](#andrzej-sokolowski-2015)

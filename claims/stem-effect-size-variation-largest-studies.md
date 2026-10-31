@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: taşdemir-2022
     resource: "https://doi.org/10.31014/aior.1993.05.02.489"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The largest independent-group effect was Hedges's g = 2.768 (Adnan Menderes University PhD, 2018) and the largest paired-group effect was g = 3.030 (Marmara University postgraduate, 2019, digital game-based Minecraft STEM activities); some dissertations showed negative effects. [→ Taşdemir 2022](#tasdemir-2022)

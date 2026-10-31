@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: amelia-defrianti-putri-2024
     resource: "https://doi.org/10.11591/edulearn.v18i4.21650"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Despite descriptive differences (primary g = 1.278, middle school g = 0.855, high school g = 1.194), the heterogeneity test showed no statistically significant difference across education levels (Q = 2.522, p = 0.283). [→ Amelia Defrianti Putri 2024](#amelia-defrianti-putri-2024)

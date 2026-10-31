@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: lisa-de-la-rue-2017
     resource: "https://doi.org/10.3102/0034654316632061"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Intervention participants did not differ in levels of dating violence perpetration relative to control participants at posttest; the pooled effect was very small and non-statistically significant (g = −0.01, 95% CI [−0.04, 0.05]). [→ Lisa De La Rue 2017](#lisa-de-la-rue-2017)

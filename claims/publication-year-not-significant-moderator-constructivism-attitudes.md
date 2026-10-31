@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: toraman-2016
     resource: "http://dx.doi.org/10.14689/ejer.2016.62.8"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Differences among studies conducted before 2010, in 2010 and afterwards, and of unspecified year were not significant (Qb(2) = 2,484, p = 0,289). [→ Toraman 2016](#toraman-2016)

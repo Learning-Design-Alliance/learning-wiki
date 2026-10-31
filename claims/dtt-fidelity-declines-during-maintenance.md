@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: joelle-fingerhut-2022
     resource: "https://doi.org/10.1177/10883576221081076"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The change in rate between the intervention-phase slope and the maintenance-phase slope was −4.39, statistically significant at p < .025. [→ Joelle Fingerhut 2022](#joelle-fingerhut-2022)
@@ -46,4 +48,3 @@ Model 1 of the HLM meta-analysis applied to maintenance observations, which occu
 - [Complete behavioral skills training produces significantly higher DTT implementation fidelity than trainings using only one, two, or three BST components](bst-more-effective-than-partial-component-training.md) — related
 - [DTT implementation fidelity declines slightly after training ends, though the decline may reflect outliers](fidelity-declines-in-maintenance.md) — possibly the same claim (merge candidate)
 - [DTT implementation accuracy increases by 1.33 with each additional observation during the intervention phase](dtt-fidelity-increases-with-observations.md) — related
-- [Training in discrete trial implementation raises implementation fidelity from about 40.61% at baseline to about 90.58% at the end of training](dtt-training-raises-fidelity-40-to-90.md)

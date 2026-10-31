@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: imtiaz-hassan-taj-2016
     resource: "https://doi.org/10.7575/aiac.alls.v.7n.2p.76"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` No correlation was visible between grade level and effect sizes, or between sample size and effect sizes, suggesting the MALL effect is independent of both. [→ Imtiaz Hassan Taj 2016](#imtiaz-hassan-taj-2016)

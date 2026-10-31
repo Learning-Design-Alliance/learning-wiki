@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: mevlut-aydogmus-cihad-senturk-2019
     resource: "https://doi.org/10.17810/2015.87"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Fail-Safe N analyses (Rosenthal N=613; Orwin N=119 zero-effect studies needed) indicate the overall effect is highly resistant to publication bias. [→ Mevlut AYDOGMUS & Cihad SENTURK 2019](#mevlut-aydogmus-cihad-senturk-2019)

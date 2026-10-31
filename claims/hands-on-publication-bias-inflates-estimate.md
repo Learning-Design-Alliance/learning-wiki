@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: caglak-2017
     resource: "https://eric.ed.gov/?id=EJ1125775"
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Trim-and-fill analysis found only one missing study, leaving the funnel plot approximately symmetric, and fail-safe N analysis found 4646 null-result studies would be needed to reduce the combined significance to alpha .05. [→ Caglak 2017](#caglak-2017)

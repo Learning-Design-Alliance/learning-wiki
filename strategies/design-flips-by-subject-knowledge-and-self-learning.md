@@ -39,7 +39,7 @@ The article's Implications section recommends designing flipped classroom teachi
 - independent learning and self-regulation skills
 
 ### Affordances
-- [Flipped Classroom Blended Model Theory](../theories/flipped-classroom-blended-model-theory.md)
+- Flipped Classroom Blended Model Theory
 
 ## Claims
 

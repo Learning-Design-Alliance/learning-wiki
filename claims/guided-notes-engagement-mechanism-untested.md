@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: larwin-2013
     resource: "http://www.isetl.org/ijtlhe/"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q1` argument or single case
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors suggest engagement may be the mechanism by which guided notes improve achievement, while stating additional research is needed to test this relationship. [→ Larwin 2013](#larwin-2013)

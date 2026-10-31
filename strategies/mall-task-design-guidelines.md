@@ -37,7 +37,7 @@ The article endorses design guidelines for mobile-assisted language learning tas
 - Language learning task engagement and completion
 
 ### Affordances
-- [Mall Ubiquitous Platform Theory](../theories/mall-ubiquitous-platform-theory.md)
+- Mall Ubiquitous Platform Theory
 
 ## Related Strategies
 

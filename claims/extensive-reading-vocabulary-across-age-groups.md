@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: liu-2018
     resource: "https://doi.org/10.5539/elt.v11n6p1"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In group contrasts, effect sizes were d = 5.18 for children, d = 1.96 for adults, d = 1.10 for university students, d = 0.82 for high school students and d = 0.58 for junior high school students, with all confidence intervals excluding zero. [→ Liu 2018](#liu-2018)

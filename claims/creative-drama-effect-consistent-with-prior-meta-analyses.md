@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: hafize-er-türküresin-2020
     resource: "http://iojet.org/index.php/IOJET/article/view/1056"
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review attributes to prior meta-analyses effect sizes including d = 1.255 (Ulubey & Toraman, 2015), d = 1.68 (Batdı & Batdı, 2015), d = 1.648 (Akdemir & Karakus, 2016), and d = 1.24 (Özbey & Sarıkaya, 2019), all positive and medium or higher. [→ Hafize Er-Türküresin 2020](#hafize-er-turkuresin-2020)

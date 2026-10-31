@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 58 claims (28 for, 29 mixed, 1 against) · 46 studies (16 causal, 10 review, 8 quant-synthesis, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 16 of 46 report an effect size · 51 claims rest on one study
+> **Evidence** · 58 claims (28 for, 29 mixed, 1 against) · 46 studies (16 causal, 10 review, 8 quant-synthesis, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 16 of 46 report an effect size · 50 claims rest on one study
 
 ## Conditional relationship
 
@@ -183,7 +183,7 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - [Meta-analyses indicate the flipped classroom approach has a small effect on learning outcomes, which the authors attribute partly to varying design quality](../claims/fc-meta-analyses-small-effect-size.md) [~W]
 - [Flipped classroom shows significant positive effects across class sizes, with the largest reported effect for medium-sized classes](../claims/flipped-classroom-class-size-moderation.md) [+W]
 - [Flipped classroom has a moderately positive effect on college students' academic performance (SMD = 0.66)](../claims/flipped-classroom-moderate-positive-effect-college.md) [+W]
-- [Flipped classroom students have slightly higher pass rates than traditional classroom students (OR = 1.55, risk ratio 1.08)](../claims/flipped-classroom-pass-rates-or-155.md) [+W]
+- [Flipped classroom students have slightly higher pass rates than traditional classroom students (OR = 1.55, risk ratio 1.08)](../claims/traditional-methodology-higher-failure-probability.md) [+W]
 - [Effect sizes for the flipped classroom are higher in humanities studies than in STEM, but the difference should not be given too much weight](../claims/discipline-moderates-flipped-classroom-effect.md) [~W]
 - [Flipped classroom interventions produce a small positive effect on continuous learning outcomes, around one fifth of a standard deviation after correcting for small-study bias](../claims/flipped-classroom-small-positive-learning-effect.md) [~W]
 - [Flipped learning has a medium positive effect on students' academic achievement in Turkish experimental studies after publication-bias correction (Hedges's g = 0.713)](../claims/flipped-learning-medium-effect-turkey-meta-analysis.md) [+W]

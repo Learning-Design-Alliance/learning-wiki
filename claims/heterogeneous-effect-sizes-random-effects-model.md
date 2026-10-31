@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: setiawan-2022
     resource: "https://doi.org/10.29333/iji.2022.15249a"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The residual heterogeneity test is significant (Q = 279.146, df = 35, p < .001), leading the authors to reject homogeneity and select the random effects model. [→ Setiawan 2022](#setiawan-2022)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: pinar-karaman-2021
     resource: "https://doi.org/10.21449/ijate.870300"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Across 47 effect sizes from 32 experimental and quasi-experimental studies in Turkey, formative assessment interventions significantly improved student learning (g = .72, SE = .07, 95% CI .59–.85). [→ Pinar Karaman 2021](#pinar-karaman-2021)

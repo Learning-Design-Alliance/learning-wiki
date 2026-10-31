@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: toraman-2016
     resource: "http://dx.doi.org/10.14689/ejer.2016.62.8"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The included studies were heterogeneous (Q(42) = 564,690, p < .05; I² = 92.562%), so the random effect model was used for effect size calculation. [→ Toraman 2016](#toraman-2016)

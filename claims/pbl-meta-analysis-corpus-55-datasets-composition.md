@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: ufuk-uluçınar-2022
     resource: "https://doi.org/10.33828/sei.v34.i2.1"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Of the 55 datasets, 87.27% were conducted in Turkey; 76.36% were pure PBL; chemistry (40%) and physics (34.55%) subjects dominated; and middle school accounted for 60% of studies. [→ Ufuk Uluçınar 2022](#ufuk-ulucnar-2022)

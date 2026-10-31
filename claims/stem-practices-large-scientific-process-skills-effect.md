@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: saraç-2018
     resource: "https://eric.ed.gov/?id=EJ1176176"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Courses taught using STEM educational practices develop scientific process skills more effectively than traditional methods, with a random-effects mean effect size of 0.820 (large). [→ Saraç 2018](#sarac-2018)

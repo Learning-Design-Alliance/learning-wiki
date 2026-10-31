@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: kansızoğlu-2025
     resource: "https://doi.org/10.33902/JPR.202532083"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Under the random effects model, vocabulary development interventions show a statistically significant average effect of g = 1.179 (95% CI [0.985, 1.374]) on vocabulary-related cognitive outcomes, greater than traditional word teaching methods. [→ Kansızoğlu 2025](#kanszoglu-2025)

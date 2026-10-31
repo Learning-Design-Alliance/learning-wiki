@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: balta-2016
     resource: "https://doi.org/10.12973/eu-jer.5.2.61"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Sub-group analyses found non-significant between-group differences for school level (QB(2) = 2.847, p > .05), publication type (QB(2) = .128, p > .05), and duration (QB = 2.287, p = .242). [→ Balta 2016](#balta-2016)

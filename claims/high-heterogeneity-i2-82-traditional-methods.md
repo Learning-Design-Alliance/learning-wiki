@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: san-2018
     resource: "https://doi.org/10.21890/ijres.428950"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The heterogeneity test was significant (Q = 166.273, df = 30, p = 0.0000) with I² = 81.957%, indicating the studies do not share a common effect size. [→ San 2018](#san-2018)

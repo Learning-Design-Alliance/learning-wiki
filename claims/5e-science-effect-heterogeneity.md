@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: polanin-2024
     resource: "https://doi.org/10.1177/23328584241269866"
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Science-domain effect sizes showed large heterogeneity (τ = .56), and the 95% prediction interval for the true effect ranged from −0.38 to 1.92 standard deviations. [→ Polanin 2024](#polanin-2024)

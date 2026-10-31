@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: sugano-2020
     resource: "https://doi.org/10.29333/iji.2020.13259a"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among the 51 qualified studies, inquiry-based learning (n = 11) and manipulative, models and multiple representations (n = 10) were the most frequently studied methods; project-based learning (n = 3), combination learning (n = 2) and multicultural education (n = 1) were the least studied. [→ Sugano 2020](#sugano-2020)

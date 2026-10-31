@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2024
 sources:
   - id: polanin-2024
     resource: "https://doi.org/10.1177/23328584241269866"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the meta-regression, the percentage of female students was the only variable significantly related to effect size: majority-female samples (56–99%) had smaller effects than evenly distributed samples (b = −0.59, p = .05). [→ Polanin 2024](#polanin-2024)

@@ -39,6 +39,8 @@ sources:
 
 `q3 i?` The overall mean effect size for pass rates is an odds ratio of 1.55, corresponding to a risk ratio of 1.08, in favor of the flipped classroom. [→ Torstein Låg 2019](#torstein-lag-2019)
 
+`q3 i?` The overall mean effect size for pass rates is an odds ratio of 1.55, corresponding to a risk ratio of 1.08, in favor of the flipped classroom. [→ Torstein Låg 2019](#torstein-lag-2019)
+
 ## Evidence
 
 ### Torres-Martín 2022

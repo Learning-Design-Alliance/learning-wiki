@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: gloria-mothibi-2015
     resource: "https://eric.ed.gov/?id=EJ1082408"
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A study of tertiary educational institutions found that 54.2% of colleges lack well-equipped computer laboratories, limiting effective curriculum delivery. [→ Gloria Mothibi 2015](#gloria-mothibi-2015)

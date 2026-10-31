@@ -39,7 +39,7 @@ The article observes that the reflexive part of PBL was not emphasized by the an
 - holistic evaluation of learning
 
 ### Affordances
-- [Maastricht Seven Step Pbl Model](../theories/maastricht-seven-step-pbl-model.md)
+- Maastricht Seven Step Pbl Model
 
 ## Related Strategies
 

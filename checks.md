@@ -10,9 +10,9 @@ This wiki is written by language models, from published research, and checked by
 |---|---|
 | Claims | 34,426, from 8,677 sources |
 | Reviewed by a person | 0 |
-| Every evidence entry compared with its source by the faithfulness judge | 5,434 claims (16%) |
-| Claims citing at least one DOI | 26,514 claims (77%) |
-| Sources whose citations went through the Crossref identity gate | 8,021 of 8,677 |
+| Every evidence entry compared with its source by the faithfulness judge | 5,450 claims (16%) |
+| Claims citing at least one DOI | 26,521 claims (77%) |
+| Sources whose citations went through the Crossref identity gate | 7,968 of 8,677 |
 | Sources read for impossible statistics and invented references | 6,251 of 7,135 (2026-10-25) |
 | Cited DOIs checked for retraction | 6,793 of 6,793 (2026-10-25) |
 | Retracted sources found and acted on | 4 |
@@ -43,7 +43,7 @@ Every DOI written on a page is resolved against Crossref (DataCite after a Cross
 
 **Cannot catch.** A citation with no DOI and no registry record; a correct citation to a study that is itself wrong.
 
-**Coverage.** 8,021 of 8,677 ingested sources passed the gate with the registry reachable; 307 DOIs removed as the wrong paper, 75 flagged for a person; 3 book citations verified by a person.
+**Coverage.** 7,968 of 8,677 ingested sources passed the gate with the registry reachable; 292 DOIs removed as the wrong paper, 75 flagged for a person; 3 book citations verified by a person.
 
 ### 4. A verifiable source for every claim
 
@@ -51,7 +51,7 @@ A claim whose evidence has no DOI after a Crossref and DataCite search is remove
 
 **Cannot catch.** Whether the DOI'd source is any good.
 
-**Coverage.** 26,514 of 34,426 claims (77%) cite a DOI; 2,880 claims removed for having none.
+**Coverage.** 26,521 of 34,426 claims (77%) cite a DOI; 2,880 claims removed for having none.
 
 ### 5. Faithfulness to the source
 
@@ -59,7 +59,7 @@ A second model, from a different provider, reads each evidence entry beside the 
 
 **Cannot catch.** A claim checked only against an abstract, for detail an abstract does not carry. The judge is a model and has been wrong; its failures are read before they are acted on.
 
-**Coverage.** 5,434 claims (16%) have had every evidence entry compared with its source and passed; 162 judge failures were read and recorded with a reason. Each claim states this on its page, in its *Currency* line.
+**Coverage.** 5,450 claims (16%) have had every evidence entry compared with its source and passed; 163 judge failures were read and recorded with a reason. Each claim states this on its page, in its *Currency* line.
 
 ### 6. Can the source be believed?
 
@@ -83,7 +83,7 @@ Each evidence entry carries a design tier (`q1`–`q4`), an impact code (`i0`–
 
 **Cannot catch.** Whether a study's conclusion is true. The codes describe how a study was done, not whether it was right.
 
-**Coverage.** 41,292 evidence entries; 6,031 rest on a printed effect size and 35,280 report none (`i?`); 35,669 carry a rigour rating.
+**Coverage.** 41,287 evidence entries; 6,031 rest on a printed effect size and 35,284 report none (`i?`); 35,669 carry a rigour rating.
 
 ### 9. Duplicates and merges
 

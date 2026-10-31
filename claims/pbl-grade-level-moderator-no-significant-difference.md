@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: funa-2021
     resource: "https://doi.org/10.29333/iji.2021.1445a"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Moderator analysis shows no significant difference between JHS (ES = .745) and SHS (ES = 1.015) effect sizes (Q p = .342). [→ Funa 2021](#funa-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: kansızoğlu-2025
     resource: "https://doi.org/10.33902/JPR.202532083"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Model 3, combining sample size and number of vocabulary words taught, significantly explains variance among effect sizes (QM(df = 8) = 25.7, p < .05), accounting for 44.7% of the variance, leaving 55.3% unexplained. [→ Kansızoğlu 2025](#kanszoglu-2025)

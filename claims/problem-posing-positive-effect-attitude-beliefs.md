@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: roslinda-rosli-2014
     resource: "http://dx.doi.org/10.5539/ies.v7n13p227"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Across six weighted effect sizes, problem posing interventions had a large positive effect on attitude-belief outcomes, with a mean Hedges' g of 0.76 (95% CI 0.59-0.93). [→ Roslinda Rosli 2014](#roslinda-rosli-2014)

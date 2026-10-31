@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: daryanto-2022
     resource: "https://doi.org/10.46328/ijemst.2509"
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` E-learning's effect in VET is confined to theoretical learning outcomes and practical learning that uses computer and internet media such as digital simulation and web programming. [→ Daryanto 2022](#daryanto-2022)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: bilal-ashraf-2021
     resource: "https://eric.ed.gov/?id=ED625398"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The IPD model yielded a larger pooled literacy effect size (0.06) than two-stage fixed-effect (0.02) and random-effect (0.03) models, while most individual estimates corresponded in direction and magnitude. [→ Bilal Ashraf 2021](#bilal-ashraf-2021)

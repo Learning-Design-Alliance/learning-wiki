@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: juandi-2022
     resource: "https://doi.org/10.29333/iji.2022.15122a"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` The combined effect size for the small sample group (30 or less, g = 1.19) differs significantly from the large sample group (31 or over, g = 0.56). [→ Juandi 2022](#juandi-2022)

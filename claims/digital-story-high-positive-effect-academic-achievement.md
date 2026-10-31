@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: nurullah-sahin-and-ismail-coban-2020
     resource: "https://eric.ed.gov/?id=EJ1274516"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Across 94 effect sizes from 45 studies, lessons taught with digital story applications show an average effect size of 0.750 on students' academic achievement, in favor of the experimental group. [→ Nurullah Sahin and İsmail Coban 2020](#nurullah-sahin-and-ismail-coban-2020)

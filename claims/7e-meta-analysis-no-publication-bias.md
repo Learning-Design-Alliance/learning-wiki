@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: balta-2016
     resource: "https://doi.org/10.12973/eu-jer.5.2.61"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A classic fail-safe N analysis indicated 6327 additional null-effect studies would be needed to bring the significant finding to p = .05, and the funnel plot showed no potential bias. [→ Balta 2016](#balta-2016)

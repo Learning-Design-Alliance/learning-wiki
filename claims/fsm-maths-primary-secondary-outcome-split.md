@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: bilal-ashraf-2021
     resource: "https://eric.ed.gov/?id=ED625398"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Pooled maths effect sizes for FSM pupils were 0.01 (-0.02, 0.05) as a primary outcome and -0.07 (-0.15, 0.00) as a secondary outcome. [→ Bilal Ashraf 2021](#bilal-ashraf-2021)

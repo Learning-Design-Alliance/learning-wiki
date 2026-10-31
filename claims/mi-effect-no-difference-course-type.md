@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: eyüp-yurt-seyat-polat-2015
     resource: "https://eric.ed.gov/?id=EJ1105368"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The highest effect size (1,748) was for Social Sciences and the lowest (0,893) for Physics-Chemistry, with no significant difference by course type (QB=11,354; p=0,124). [→ Eyüp Yurt & Seyat Polat 2015](#eyup-yurt-seyat-polat-2015)

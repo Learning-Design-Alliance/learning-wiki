@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: hakan-tekedere-2016
     resource: "https://creativecommons.org/licenses/by/4.0/"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of the 171 studies scanned, publication counts were concentrated in Computers & Education (21 studies), followed by International Journal of Engineering Education (9), Neurosurgery (6), Multimedia Tools and Applications (4), and Universal Access in the Information Society (4). [→ Hakan Tekedere 2016](#hakan-tekedere-2016)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: san-2018
     resource: "https://doi.org/10.21890/ijres.428950"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q1` argument or single case
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The included theses provided no lesson plans for control groups and almost no information about control-group applications, undermining what the traditional method label means. [→ San 2018](#san-2018)

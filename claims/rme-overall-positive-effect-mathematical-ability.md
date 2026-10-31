@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: juandi-2022
     resource: "https://doi.org/10.29333/iji.2022.15122a"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Across 54 independent samples from 38 studies, RME implementation shows an overall effect size of 0.97 (large effect) on pupils' mathematical abilities. [→ Juandi 2022](#juandi-2022)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: mehmet-fatih-ayaz-2015
     resource: "https://eric.ed.gov/?id=EJ1077612"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Educational level is a significant moderator (QB = 9.838, p = 0.020); university (ES = 2.254) exceeds primary (ES = 0.936), with all levels showing high effect sizes. [→ Mehmet Fatih Ayaz 2015](#mehmet-fatih-ayaz-2015)

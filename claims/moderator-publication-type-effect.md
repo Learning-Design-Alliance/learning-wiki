@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: mehmet-fatih-ayaz-2015
     resource: "https://eric.ed.gov/?id=EJ1077612"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Publication type is a significant moderator (QB = 7.437, p = 0.024); master's thesis ES = 1.341 and article ES = 1.272 exceed PhD thesis ES = 0.420. [→ Mehmet Fatih Ayaz 2015](#mehmet-fatih-ayaz-2015)

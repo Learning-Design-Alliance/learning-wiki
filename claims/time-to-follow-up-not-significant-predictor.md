@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: natalie-s-pak-2023
     resource: "https://doi.org/10.1044/2023_JSLHR-22-00711"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Time to follow-up did not significantly predict long-term effects for either prelinguistic or linguistic outcomes. [→ Natalie S. Pak 2023](#natalie-s-pak-2023)

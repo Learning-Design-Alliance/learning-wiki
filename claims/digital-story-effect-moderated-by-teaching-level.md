@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: nurullah-sahin-and-ismail-coban-2020
     resource: "https://eric.ed.gov/?id=EJ1274516"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The level of education moderator makes a significant difference on effect sizes (p < .05); kindergarten has the highest joint effect size (0.982), followed by middle school (0.902), high school (0.887), university (0.556), and primary school (0.493). [→ Nurullah Sahin and İsmail Coban 2020](#nurullah-sahin-and-ismail-coban-2020)

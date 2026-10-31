@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: kalaian-2018
     resource: "https://scholar.lib.vt.edu/ejournals/JTE/"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Random-effects metaregression found regression coefficients of 0.03 for publication year and -0.004 for instructional duration, both close to not significant. [→ Kalaian 2018](#kalaian-2018)

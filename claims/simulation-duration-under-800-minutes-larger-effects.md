@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: mookyung-jeon-2018
     resource: "https://eric.ed.gov/?id=EJ1184078"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The weighted effect size for simulations under 800 minutes (.86) exceeds that for 800 minutes or more (.67), though the median for the longer group falls below .50. [→ Mookyung Jeon 2018](#mookyung-jeon-2018)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: bilal-ashraf-2021
     resource: "https://eric.ed.gov/?id=ED625398"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Pooled literacy effect sizes for FSM pupils by Key Stage were 0.09 (0.02, 0.16) at KS1, 0.08 (0.03, 0.13) at KS3, 0.03 (-0.01, 0.07) at KS2 and 0.02 (-0.05, 0.08) at KS4. [→ Bilal Ashraf 2021](#bilal-ashraf-2021)

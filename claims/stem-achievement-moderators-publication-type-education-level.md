@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: saraç-2018
     resource: "https://eric.ed.gov/?id=EJ1176176"
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For academic achievement, moderator analyses showed a statistically significant difference by publication type (QB = 8.289, p <.05) and education level (QB = 23.049, p <.05), favoring national articles, international theses, and basic-education and higher-education students. [→ Saraç 2018](#sarac-2018)

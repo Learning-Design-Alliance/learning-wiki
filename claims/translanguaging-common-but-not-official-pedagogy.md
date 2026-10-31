@@ -19,6 +19,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers use translanguaging to break communication barriers in multilingual classrooms, despite its lack of official pedagogical status. [→ Gobodwana 2024](#gobodwana-2024)

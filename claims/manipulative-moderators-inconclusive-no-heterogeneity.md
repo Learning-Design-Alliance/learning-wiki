@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: amy-b-holmes-2013
     resource: "https://eric.ed.gov/?id=ED563072"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Meta-regressions of manipulatives type, program duration, gender mix, and grade level were inconclusive, and effect-size heterogeneity was negligible, suggesting effects may not differ by these characteristics. [→ Amy B. Holmes 2013](#amy-b-holmes-2013)

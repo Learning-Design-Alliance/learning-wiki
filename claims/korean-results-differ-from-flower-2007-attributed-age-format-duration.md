@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: mookyung-jeon-2018
     resource: "https://eric.ed.gov/?id=EJ1184078"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The overall effect size of .80 in this replication differs from the .04 reported by Flower et al. (2007), and the author attributes the difference to participant age, use of combined formats, and longer simulation durations. [→ Mookyung Jeon 2018](#mookyung-jeon-2018)

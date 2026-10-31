@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: veli-batdı-2015
     resource: "https://doi.org/10.12738/estp.2015.5.2491"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across 78 pretest-posttest control-group studies, the random effects model yielded a mean effect size of ES = 1.13 (95% CI .97-1.29), which is large by Cohen's classification. [→ Veli Batdı 2015](#veli-batd-2015)

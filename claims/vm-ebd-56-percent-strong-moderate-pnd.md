@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: elias-clinton-2016
     resource: "https://eric.ed.gov/?id=EJ1166705"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of the 16 reviewed studies for which PND could be calculated, 6 yielded a strong treatment effect, 3 a moderate effect, 4 questionable, and 3 unreliable; 56% of studies indicated strong or moderate treatment effect. [→ Elias Clinton 2016](#elias-clinton-2016)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: lisa-de-la-rue-2017
     resource: "https://doi.org/10.3102/0034654316632061"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` At posttest intervention participants showed a non-statistically significant decrease in dating violence victimization (g = −0.21, 95% CI [−0.41, −0.02]), and at follow-up victimization showed no intervention effect (g = −0.01, 95% CI [−0.36, 0.21]). [→ Lisa De La Rue 2017](#lisa-de-la-rue-2017)

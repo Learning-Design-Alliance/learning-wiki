@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: setiawan-2022
     resource: "https://doi.org/10.29333/iji.2022.15249a"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Rosenthal's fail-safe N of 9093 exceeds the 5K + 10 = 190 threshold, so the authors conclude the meta-analysis is resistant to publication bias. [→ Setiawan 2022](#setiawan-2022)

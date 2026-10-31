@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: lisa-de-la-rue-2017
     resource: "https://doi.org/10.3102/0034654316632061"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` For posttest effect sizes, studies using random assignment produced larger effect sizes than nonrandom assignment for only one of the five outcomes, with the largest differences for victimization and CTS outcomes. [→ Lisa De La Rue 2017](#lisa-de-la-rue-2017)

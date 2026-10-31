@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: hafize-er-türküresin-2020
     resource: "http://iojet.org/index.php/IOJET/article/view/1056"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Moderator analysis by study type found article-type studies had a huge, positive effect size (d = 1.486) while thesis studies had a very large, positive effect size (d = 1.113). [→ Hafize Er-Türküresin 2020](#hafize-er-turkuresin-2020)

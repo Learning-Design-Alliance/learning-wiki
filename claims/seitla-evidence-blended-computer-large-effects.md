@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: mustafa-çevik-2022
     resource: "https://doi.org/10.29329/ijpe.2022.431.8"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` After mastery learning, evidence-based learning (g = 1.94), blended learning (g = 1.48) and computer-based learning (g = 1.46) had the next largest significant effects on learning achievement. [→ Mustafa Çevik 2022](#mustafa-cevik-2022)

@@ -19,6 +19,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` SA's PIRLS score dropped from 320 in 2016 (78%) to 288 (81%) in 2021, approximately 0,8 years of learning, with 81% of Grade 4 learners unable to read for meaning in any language. [→ Gobodwana 2024](#gobodwana-2024)

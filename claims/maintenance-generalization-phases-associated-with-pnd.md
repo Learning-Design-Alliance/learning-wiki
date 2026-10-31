@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: jemma-kim-christina-h-kimm-2017
     resource: "https://eric.ed.gov/?id=EJ1149575"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` PND size was significantly affected by conducted phases, H(3) = 12.4, p = .006, with treatment-only cases significantly lower than all-three-phase cases, U = -36.3, p = .006. [→ Jemma Kim & Christina H. Kimm 2017](#jemma-kim-christina-h-kimm-2017)

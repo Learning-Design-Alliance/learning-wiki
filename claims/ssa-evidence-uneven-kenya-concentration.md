@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: katharine-conn-2014
     resource: "https://eric.ed.gov/?id=ED562871"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The evidence base is not evenly distributed across topics or countries: over 30% of studies come from Kenya alone, and topics relevant to the African context such as multi-grade or multi-shift teaching are not under rigorous study at all. [→ Katharine Conn 2014](#katharine-conn-2014)

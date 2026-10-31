@@ -40,7 +40,7 @@ Based on the meta-analytic findings, the authors recommend that writing instruct
 - written composition skills
 
 ### Affordances
-- [Diew Direct Indirect Effects Model Writing](../theories/diew-direct-indirect-effects-model-writing.md)
+- Diew Direct Indirect Effects Model Writing
 
 ## Claims
 

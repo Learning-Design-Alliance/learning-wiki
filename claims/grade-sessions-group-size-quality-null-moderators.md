@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: stevens-2018
     resource: "https://doi.org/10.1177/0741932517731887"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Grade (elementary versus middle and high school), number of treatment sessions (30 or less versus more than 30), and group size (less than 8 versus 8 or more) did not significantly predict intervention effectiveness. [→ Stevens 2018](#stevens-2018)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: mixed
+newest_evidence: 2015
 sources:
   - id: andrzej-sokolowski-2015
     resource: "https://journals.iafor.org/index.php/joe"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Probability and statistics generated the highest subgroup effect (ES = 3.11, SE = 1.17), but removing the Eysink et al. outlier of 4.49 reduced it to ES = 0.21 (SE = 0.17); calculus produced the lowest effect (ES = 0.38, SE = 0.09). [→ Andrzej Sokolowski 2015](#andrzej-sokolowski-2015)

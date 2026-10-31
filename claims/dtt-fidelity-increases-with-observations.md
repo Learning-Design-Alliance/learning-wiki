@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: joelle-fingerhut-2022
     resource: "https://doi.org/10.1177/10883576221081076"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A statistically significant positive time trend during intervention (γ̂200 = 1.33, p < .001) indicates fidelity rises with each additional observation. [→ Joelle Fingerhut 2022](#joelle-fingerhut-2022)
@@ -46,4 +48,3 @@ Model 4 (no moderators) of the HLM meta-analysis across all 46 SCED studies, est
 - [DTT implementation fidelity declines slightly after training ends, with a statistically significant difference between intervention and maintenance slopes](dtt-fidelity-declines-during-maintenance.md) — related
 - [DTT implementation fidelity declines slightly after training ends, though the decline may reflect outliers](fidelity-declines-in-maintenance.md) — related
 - [Behavioral skills training and other trainings raise DTT implementation fidelity from a low baseline of 40.61% to over 90% accuracy by the end of training](bst-improves-dtt-implementation-fidelity.md) — related
-- [Training in discrete trial implementation raises implementation fidelity from about 40.61% at baseline to about 90.58% at the end of training](dtt-training-raises-fidelity-40-to-90.md)

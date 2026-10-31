@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: daryanto-2022
     resource: "https://doi.org/10.46328/ijemst.2509"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` The average effect size of e-learning on VET learning across 18 articles is 0.344, which the authors categorize as a significant/large effect because it exceeds 0.25. [→ Daryanto 2022](#daryanto-2022)

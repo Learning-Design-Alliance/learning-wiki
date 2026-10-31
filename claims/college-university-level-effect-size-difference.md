@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: caglak-2017
     resource: "https://eric.ed.gov/?id=EJ1125775"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The mean effect size estimate from studies conducted in college or university differed statistically from other school levels, with a subgroup estimate of g = 3.14 based on one study. [→ Caglak 2017](#caglak-2017)

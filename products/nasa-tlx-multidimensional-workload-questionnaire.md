@@ -28,7 +28,7 @@ A standardized six-subscale self-report assessment developed by NASA for measuri
 - [The AI+Robot condition is associated with lower perceived workload than AI-Only on effort, frustration, temporal demand, physical demand, and Raw TLX](../claims/ai-robot-condition-lower-workload.md) [+W]
 - [Teacher perceived workload was negatively associated with student learning gains, especially for Mental Demand and Effort](../claims/teacher-workload-negatively-associated-learning-gains.md) [+W]
 - [Subjective cognitive workload decreases across teleoperation training and lower workload is associated with higher performance](../claims/workload-decreases-with-teleoperation-skill.md) [+W]
-- [NASA-TLX dimensions varied systematically by design phase: frustration and mental demand were highest in initial modules and mental demand low during manufacturing](../claims/nasa-tlx-dimensions-vary-by-design-phase.md) [+W]
+- [NASA-TLX dimensions varied by design phase: frustration and mental demand rose considerably in the initial modules, and mental demand was lower during the final manufacturing steps](../claims/nasa-tlx-dimensions-vary-by-design-phase.md) [+W]
 - [Using the AIED-U system yielded a positive indirect effect on learning gains through a reduction in the effort teachers reported](../claims/aied-u-positive-indirect-effect-via-effort-reduction.md) [+W]
 - [Designer workload across an 11-module instructional design model for product development averaged normal-to-high (50–75%)](../claims/nasa-tlx-normal-high-workload-design-process.md) [+W]
 

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: juandi-2022
     resource: "https://doi.org/10.29333/iji.2022.15122a"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Effect magnitude was greater in the group whose treatment duration was not specified (g = 1.01) than in 3-4 meetings (g = 0.74) or 5+ meetings (g = 0.50); the authors attribute shorter-duration effects partly to the Hawthorne effect. [→ Juandi 2022](#juandi-2022)

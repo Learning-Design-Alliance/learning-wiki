@@ -9,7 +9,6 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2022
-source_checked: 2026-10-20
 sources:
   - id: sussman-2022
     resource: "https://doi.org/10.54300/422.974"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
-> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Compared to children in Tier 3 programs, children in Tier 4 programs gained an additional 1.2–1.7 months of learning and development, and those in Tier 5 programs gained an additional 2.2–2.5 months, with effect sizes of 0.08 to 0.16 standard deviations. [→ Sussman 2022](#sussman-2022)

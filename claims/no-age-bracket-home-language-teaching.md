@@ -19,6 +19,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Recent studies show no specific age bracket for teaching home language to children, and the article advocates starting language teaching as early as birth. [→ Gobodwana 2024](#gobodwana-2024)

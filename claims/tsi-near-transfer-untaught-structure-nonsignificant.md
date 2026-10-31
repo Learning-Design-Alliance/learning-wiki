@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: hebert-2016
     resource: "https://doi.org/10.1037/edu0000082"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Transfer of TSI skills to comprehension of expository text in an untaught structure yielded a non-significant average weighted effect size of 0.62, 95% CI [0.01, 1.23], with only four of seven studies positive. [→ Hebert 2016](#hebert-2016)

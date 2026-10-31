@@ -41,7 +41,7 @@ The article recommends that researchers and practitioners extend mobile device u
 - technology skills beyond assistive technology
 
 ### Affordances
-- [Functional Technology Paradigm Id](../theories/functional-technology-paradigm-id.md)
+- Functional Technology Paradigm Id
 
 ## Claims
 

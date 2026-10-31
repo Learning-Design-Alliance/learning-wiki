@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2025
 sources:
   - id: kansızoğlu-2025
     resource: "https://doi.org/10.33902/JPR.202532083"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Subgroup (Analog ANOVA) analyses found no statistically significant between-group differences for pilot study (p = .354), retention test (p = .384), word-selection method (p = .604), vocabulary output (p = .302), or number of words taught (p = .386). [→ Kansızoğlu 2025](#kanszoglu-2025)

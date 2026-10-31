@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: ufuk-uluçınar-2022
     resource: "https://doi.org/10.33828/sei.v34.i2.1"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Despite apparent subgroup differences (high school 1.360, middle school 1.007, university 0.898, elementary 0.609), between-level heterogeneity was not significant (Q = 3.313, p > 0.5). [→ Ufuk Uluçınar 2022](#ufuk-ulucnar-2022)

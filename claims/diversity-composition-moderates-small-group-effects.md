@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: kalaian-2018
     resource: "https://scholar.lib.vt.edu/ejournals/JTE/"
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1` small
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Female-dominated classrooms (more than 60%) showed a much lower effect size (d = 0.23) than classrooms that did not report gender diversity (d = 0.53) and male-dominated classrooms (d = 0.42). [→ Kalaian 2018](#kalaian-2018)

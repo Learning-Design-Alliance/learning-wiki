@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: mixed
+newest_evidence: 2024
 sources:
   - id: polanin-2024
     resource: "https://doi.org/10.1177/23328584241269866"
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Instructional model variant significantly moderated science effects (F = 5.03, p = .03), with the 7E model (g = 1.23) significantly larger than the 3E model (g = 0.42). [→ Polanin 2024](#polanin-2024)

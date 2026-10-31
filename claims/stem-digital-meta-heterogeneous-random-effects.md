@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: feyyaz-öztop-2023
     resource: "https://doi.org/10.17509/jsl.v6i2.52316"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The heterogeneity test was significant (p<0.05) with Q=560.135 and high I2, so effect sizes were combined under a random-effects model. [→ Feyyaz Öztop 2023](#feyyaz-oztop-2023)

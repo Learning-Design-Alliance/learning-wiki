@@ -46,4 +46,4 @@ Comparative analysis of NASA-TLX results across the 11 modules of the case study
 
 ## Related Claims
 - [Designer workload across an 11-module instructional design model for product development averaged normal-to-high (50–75%)](nasa-tlx-normal-high-workload-design-process.md) — a broader claim this one bears on
-- [NASA-TLX dimensions varied systematically by design phase: frustration and mental demand were highest in initial modules and mental demand low during manufacturing](nasa-tlx-dimensions-vary-by-design-phase.md) — related
+- [NASA-TLX dimensions varied by design phase: frustration and mental demand rose considerably in the initial modules, and mental demand was lower during the final manufacturing steps](nasa-tlx-dimensions-vary-by-design-phase.md) — related

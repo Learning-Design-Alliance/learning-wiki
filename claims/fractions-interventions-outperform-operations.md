@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: stevens-2018
     resource: "https://doi.org/10.1177/0741932517731887"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Fractions interventions were a statistically significant predictor of effect size relative to interventions in operations (p = .04). [→ Stevens 2018](#stevens-2018)

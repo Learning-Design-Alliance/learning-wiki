@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: liu-2018
     resource: "https://doi.org/10.5539/elt.v11n6p1"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Across 17 group-contrast studies, experimental groups receiving extensive reading perform better than control groups on vocabulary learning, with a pooled effect of d = 1.32. [→ Liu 2018](#liu-2018)

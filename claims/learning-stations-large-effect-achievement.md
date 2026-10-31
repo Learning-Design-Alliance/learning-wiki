@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: mevlut-aydogmus-cihad-senturk-2019
     resource: "https://doi.org/10.17810/2015.87"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Meta-analysis of 16 measurements from 13 Turkish studies found an average effect size of 0.84 (fixed effects) and 0.90 (random effects) favoring learning stations over traditional teaching, a large effect by Cohen's classification. [→ Mevlut AYDOGMUS & Cihad SENTURK 2019](#mevlut-aydogmus-cihad-senturk-2019)

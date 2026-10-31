@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: katharine-conn-2014
     resource: "https://eric.ed.gov/?id=ED562871"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` The pooled effect size across all interventions in the meta-analysis is 0.16 (SE=0.031; p = 0.0001), with 80.1% of observed variance attributable to real differences across studies. [→ Katharine Conn 2014](#katharine-conn-2014)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: vahideh-sadat-vahedi-2014
     resource: "http://www.tewtjournal.org"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The treatment had a medium impact in ESL contexts (ES = .67) and a large impact in EFL contexts, but the difference between the two conditions was not statistically significant (Q = 0.40, p = 0.52). [→ Vahideh Sadat Vahedi 2014](#vahideh-sadat-vahedi-2014)

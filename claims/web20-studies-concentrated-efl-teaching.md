@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: ergul-sonmez-2021
     resource: "https://doi.org/10.46328/ijtes.161"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Approximately 65% of the included studies (12 of 19) examined web 2.0 contribution to teaching English as a foreign language, leading the authors to suggest wikis and blogs are used most effectively in foreign language teaching. [→ Ergul Sonmez 2021](#ergul-sonmez-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: ufuk-uluçınar-2022
     resource: "https://doi.org/10.33828/sei.v34.i2.1"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Effect sizes were high in physics (1.069), biology (0.981), and chemistry (0.961), with homogeneous distribution across the three subjects (Q = 0.263, p > 0.5). [→ Ufuk Uluçınar 2022](#ufuk-ulucnar-2022)

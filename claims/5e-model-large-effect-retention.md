@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: mixed
+newest_evidence: 2015
 sources:
   - id: özgür-anil-2015
     resource: "https://doi.org/10.11114/jets.v3i6.1038"
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Meta-analysis of 5 studies found a random effects effect size of ES=1.417 for retention in favour of the 5E model, classified as large by Cohen (1992). [→ Özgür Anil 2015](#ozgur-anil-2015)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: demir-2014
     resource: "http://www.edam.com.tr/estp"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The large majority of included studies (37 of 40, 92.5%) had positive Hedges' d effect sizes, and 32 studies (80%) had extensive effect sizes. [→ Demir 2014](#demir-2014)

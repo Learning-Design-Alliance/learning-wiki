@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: gulfer-capar-2015
     resource: "https://doi.org/10.12738/estp.2015.2.2098"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The highest average effect sizes were for unstructured (d+ = 0.91) and STAD techniques (d+ = 0.72), but no significant differences were seen among the techniques' effect sizes. [→ Gulfer Capar 2015](#gulfer-capar-2015)

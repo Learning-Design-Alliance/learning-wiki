@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: m-rais-ridwan-2022
     resource: "http://dx.doi.org/10.17275/per.22.97.9.4"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The estimated summary effect size is larger for grade 11 (0.92) than grade 10 (0.87), both statistically significant. [→ M. Rais Ridwan 2022](#m-rais-ridwan-2022)

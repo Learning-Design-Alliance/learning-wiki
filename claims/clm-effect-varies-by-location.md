@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: demir-2022
     resource: "http://doi.org/10.30831/akukeg.1122136"
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · `q1`–`q3`
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Location moderates the effect of constructivist learning models (Qb(3)=15.55, p<.01), with meta-analyses of Turkey and Indonesia samples producing high-level effects and China and mixed-country samples medium-level effects. [→ Demir 2022](#demir-2022)

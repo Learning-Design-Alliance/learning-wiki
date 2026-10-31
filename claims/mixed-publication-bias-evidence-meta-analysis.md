@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: mixed
+newest_evidence: 2026
 sources:
   - id: saidah-2026
     resource: "https://doi.org/10.46328/ijres.5054"
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Egger's test returned z = 5.000, p < .001, which the article reads as funnel-plot asymmetry indicating publication bias. [→ Sa’idah 2026](#saidah-2026)

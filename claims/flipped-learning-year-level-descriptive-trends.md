@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: aydin-2021
     resource: "https://eric.ed.gov/?id=EJ1283687"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` When effect sizes were examined by year, newer studies had larger effect sizes, and primary-secondary and high school studies had larger effect size averages. [→ Aydin 2021](#aydin-2021)

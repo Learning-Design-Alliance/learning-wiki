@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: san-2018
     resource: "https://doi.org/10.21890/ijres.428950"
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the forest plot, 24 of 31 studies had statistically significant results while 7 did not; 28 studies' effect sizes favor posttest and 3 favor pretest. [→ San 2018 (2)](#san-2018-2)

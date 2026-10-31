@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: hou-2022
     resource: "https://doi.org/10.15354/bece.22.ab001"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Inquiry-driven teaching's influence on creativity is extremely significant (SMD = 0.927, P < 0.001), followed by design-based teaching (SMD = 0.598) and project-based teaching (SMD = 0.529). [→ Hou 2022](#hou-2022)

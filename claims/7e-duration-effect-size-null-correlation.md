@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: balta-2016
     resource: "https://doi.org/10.12973/eu-jer.5.2.61"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A negative but non-significant correlation was found between intervention duration and effect size (r = -.288, p = .158), and the long (≥20 hours, ES .992) versus short (<20 hours, ES 1.613) sub-group difference was not significant. [→ Balta 2016](#balta-2016)

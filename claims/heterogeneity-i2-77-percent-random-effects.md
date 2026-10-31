@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: hakan-ulum-2022
     resource: "https://ojs.unimal.ac.id/mjml/index"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The homogeneity test showed the effect size distribution was heterogeneous under the fixed-effects model, with Q = 283.659 exceeding the critical value of 84.821 and I² = 77% indicating high heterogeneity. [→ Hakan Ulum 2022](#hakan-ulum-2022)

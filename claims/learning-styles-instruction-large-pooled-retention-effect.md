@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: mixed
+newest_evidence: 2016
 sources:
   - id: kanadlı-2016
     resource: "https://doi.org/10.12738/estp.2016.6.0084"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` The random-effects common effect size on retention is large, though the article prints two different values for it. [→ Kanadlı 2016](#kanadl-2016)

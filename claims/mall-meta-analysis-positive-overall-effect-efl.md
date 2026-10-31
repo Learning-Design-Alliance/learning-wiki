@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: imtiaz-hassan-taj-2016
     resource: "https://doi.org/10.7575/aiac.alls.v.7n.2p.76"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Across 13 quasi-experimental studies, mobile-assisted language learning intervention produced an overall effect size of 0.425, significantly greater than zero. [→ Imtiaz Hassan Taj 2016](#imtiaz-hassan-taj-2016)

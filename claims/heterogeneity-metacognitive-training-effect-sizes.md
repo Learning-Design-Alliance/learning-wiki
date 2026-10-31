@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: yujin-lee-2018
     resource: "https://doi.org/10.5539/ies.v11n10p42"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The homogeneity test for the 22 effect sizes was significant (I2<0, Q=13.886, p<.05), indicating between-studies heterogeneity. [→ Yujin Lee 2018](#yujin-lee-2018)

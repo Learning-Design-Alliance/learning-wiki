@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: saraç-2018
     resource: "https://eric.ed.gov/?id=EJ1176176"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For scientific process skills, there was a statistically significant difference in lesson types (QB = 12.397, p <.05) and level of education (QB = 8.281, p <.05), favoring science and math lessons and basic-education and higher-education students. [→ Saraç 2018](#sarac-2018)

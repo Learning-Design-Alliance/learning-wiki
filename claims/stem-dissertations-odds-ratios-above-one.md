@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: taşdemir-2022
     resource: "https://doi.org/10.31014/aior.1993.05.02.489"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 22 out of 26 dissertations have OR > 1, and the overall odds ratio is 3.123 (Z=12.354, p<.05). [→ Taşdemir 2022](#tasdemir-2022)

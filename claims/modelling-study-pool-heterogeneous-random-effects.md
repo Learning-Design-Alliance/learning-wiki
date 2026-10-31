@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: andrzej-sokolowski-2015
     resource: "https://journals.iafor.org/index.php/joe"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Homogeneity statistics (QT = 329.74, df = 16, p < 0.01) indicated statistically significant variation of effect sizes, so a random-effect model was adopted. [→ Andrzej Sokolowski 2015](#andrzej-sokolowski-2015)

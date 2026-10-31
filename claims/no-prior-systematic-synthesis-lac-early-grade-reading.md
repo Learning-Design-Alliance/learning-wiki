@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: de-hoop-2016
     resource: "https://eric.ed.gov/?id=ED567508"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q1` argument or single case
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` To the authors' knowledge, no systematic synthesis of evidence on what works to improve early grade reading outcomes in the LAC region existed prior to this review. [→ de Hoop 2016](#de-hoop-2016)

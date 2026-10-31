@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: demir-2022
     resource: "http://doi.org/10.30831/akukeg.1122136"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The effect of constructivist learning models statistically varies by student outcome type (Qb(2)=6.32, p=.04), with high effects on thinking skills and achievement and a medium effect on attitude. [→ Demir 2022](#demir-2022)

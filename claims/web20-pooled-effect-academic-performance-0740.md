@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: ergul-sonmez-2021
     resource: "https://doi.org/10.46328/ijtes.161"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The random-effects pooled effect size of wiki and blog interventions on academic performance is 0.740 with a 95% confidence interval of 0.320-1.161, which the authors classify as moderate. [→ Ergul Sonmez 2021](#ergul-sonmez-2021)

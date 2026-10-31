@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: hakan-tekedere-2016
     resource: "https://creativecommons.org/licenses/by/4.0/"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The combined effect size of AR applications in education across 15 studies was ES=0.677 (95% CI 0.491–0.863, p=.000), a medium effect under the Thalheimer and Cook classification. [→ Hakan Tekedere 2016](#hakan-tekedere-2016)

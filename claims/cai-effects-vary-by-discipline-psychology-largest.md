@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: karen-larwin-david-larwin-2011
     resource: "https://eric.ed.gov/?id=EJ918907"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The greatest impact was observed for psychology majors (n = 76, d = 0.851), followed by catch-all sections (d = 0.543), education (d = 0.531), sociology (d = 0.502), business (d = 0.259), and mathematics (d = 0.204). [→ Karen Larwin & David Larwin 2011](#karen-larwin-david-larwin-2011)

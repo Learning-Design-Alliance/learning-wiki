@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: juandi-2022
     resource: "https://doi.org/10.29333/iji.2022.15122a"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Rosenthal's FSN was 1459; FSN/(5k+10) = 4.56 > 1, so the included studies were judged not skewed by publication of their findings. [→ Juandi 2022](#juandi-2022)

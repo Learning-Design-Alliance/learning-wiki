@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: setiawan-2022
     resource: "https://doi.org/10.29333/iji.2022.15249a"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across the 36 effect sizes, the overall range is -0.07 to 3.35; 38.89% are classified as amazing effect and 5.56% as no effect under Thalheimer and Cook's criteria. [→ Setiawan 2022](#setiawan-2022)

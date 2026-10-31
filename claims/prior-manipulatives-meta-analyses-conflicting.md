@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: amy-b-holmes-2013
     resource: "https://eric.ed.gov/?id=ED563072"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Earlier syntheses disagreed: Parham (1983) obtained a mean effect size of 1.03 for grades 1-6, while Sutawidjaja (1987) found an overall mean effect size of zero for primary grades, and Domino (2010) found 0.50 for K-6. [→ Amy B. Holmes 2013](#amy-b-holmes-2013)

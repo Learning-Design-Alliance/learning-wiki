@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: hebert-2016
     resource: "https://doi.org/10.1037/edu0000082"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` A breakout analysis of eight studies including only students with or at-risk for learning disabilities found a significant average weighted effect size of 0.96, 95% CI [0.44, 1.47]. [→ Hebert 2016](#hebert-2016)

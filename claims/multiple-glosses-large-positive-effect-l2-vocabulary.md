@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: vahideh-sadat-vahedi-2014
     resource: "http://www.tewtjournal.org"
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The overall weighted mean effect size of multiple versus single glosses on L2 vocabulary acquisition is +0.839, a large effect by Cohen's rules, with a 95% CI of 0.562 to 1.116 that excludes zero. [→ Vahideh Sadat Vahedi 2014](#vahideh-sadat-vahedi-2014)

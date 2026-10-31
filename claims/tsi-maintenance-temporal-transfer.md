@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: hebert-2016
     resource: "https://doi.org/10.1037/edu0000082"
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1`–`i2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Eleven studies with delayed posttests (one day to three months after posttest) showed a significant average weighted effect size of 0.57, 95% CI [0.26, 0.87]. [→ Hebert 2016](#hebert-2016)

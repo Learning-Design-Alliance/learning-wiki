@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2019
 sources:
   - id: mevlut-aydogmus-cihad-senturk-2019
     resource: "https://doi.org/10.17810/2015.87"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` No significant difference was found between effect sizes for applications of 2 weeks or less (0.804), 3-4 weeks (1.192), and 5 weeks or more (0.703) (QB=2.242; p=0.326). [→ Mevlut AYDOGMUS & Cihad SENTURK 2019](#mevlut-aydogmus-cihad-senturk-2019)

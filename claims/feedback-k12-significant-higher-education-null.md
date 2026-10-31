@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: nalline-s-baliram-jeffrey-j-youde-2018
     resource: "https://portal.issn.org/resource/ISSN/2198-5944"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The K-12 moderator analysis (n = 19) yielded a significant positive summary effect of Hedges' g = .55 (p = .001), while the higher education analysis (n = 7) yielded a non-significant effect of g = -.01 (p = .911). [→ Nalline S. Baliram & Jeffrey J. Youde 2018](#nalline-s-baliram-jeffrey-j-youde-2018)

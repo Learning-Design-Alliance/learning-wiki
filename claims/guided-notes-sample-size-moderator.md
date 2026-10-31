@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2013
 sources:
   - id: larwin-2013
     resource: "http://www.isetl.org/ijtlhe/"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Sample size moderated effects (Qw = 0.519, p < 0.05): studies with n ≤ 30 showed d = 0.892, n ≥ 101 showed d = 0.631, and 31–100 showed a non-significant d = 0.231. [→ Larwin 2013](#larwin-2013)

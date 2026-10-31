@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: natalie-s-pak-2023
     resource: "https://doi.org/10.1044/2023_JSLHR-22-00711"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For linguistic outcomes, effect size estimates were small and nonsignificant for children with DLD (g = .36, p = .052) and autism (g = .01, p = .881), with the DLD estimate larger. [→ Natalie S. Pak 2023](#natalie-s-pak-2023)

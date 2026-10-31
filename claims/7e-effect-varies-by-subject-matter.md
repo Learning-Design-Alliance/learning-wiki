@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: balta-2016
     resource: "https://doi.org/10.12973/eu-jer.5.2.61"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Between-group comparison of effect sizes by subject matter was significant, QB(3) = 11.885, p < .05, with chemistry showing the maximum group average (2.066) and science the minimum (1.002). [→ Balta 2016](#balta-2016)

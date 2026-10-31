@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: caglak-2017
     resource: "https://eric.ed.gov/?id=EJ1125775"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Heterogeneity across the 19 effect size estimates is statistically significant and very large (Q(18) = 175.12, p < .01; I2 = 90.45%). [→ Caglak 2017](#caglak-2017)

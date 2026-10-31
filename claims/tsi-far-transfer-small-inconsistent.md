@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2016
 sources:
   - id: hebert-2016
     resource: "https://doi.org/10.1037/edu0000082"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Transfer of TSI skills to norm-referenced measures of general reading comprehension yielded a significant but small average weighted effect size of 0.13, 95% CI [.03, 0.25], with only four of eight studies positive. [→ Hebert 2016](#hebert-2016)

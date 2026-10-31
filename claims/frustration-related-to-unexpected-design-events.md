@@ -49,6 +49,6 @@ Interpretive analysis combining NASA-TLX data with tape recordings in the case s
 
 ## Related Claims
 - [Confusion and frustration followed incorrect solution submissions and preceded hint requests, while coding was the central activity surrounding all affective states](affect-interaction-event-transitions-programming.md) — related
-- [NASA-TLX dimensions varied systematically by design phase: frustration and mental demand were highest in initial modules and mental demand low during manufacturing](nasa-tlx-dimensions-vary-by-design-phase.md) — related
+- [NASA-TLX dimensions varied by design phase: frustration and mental demand rose considerably in the initial modules, and mental demand was lower during the final manufacturing steps](nasa-tlx-dimensions-vary-by-design-phase.md) — related
 - [During novices' first programming lesson, engagement, confusion, frustration, boredom, and curiosity are the dominant affective states, collectively accounting for approximately 73% of affect judgments](novice-programming-affect-incidence-five-dominant-states.md) — related
 - [After partialling out control variables, boredom and frustration during scaffolded learning negatively correlated with fadeout performance, while confusion↔frustration transitions and boredom→engagement transition positively correlated with it](affect-learning-partial-correlations-programming.md) — related

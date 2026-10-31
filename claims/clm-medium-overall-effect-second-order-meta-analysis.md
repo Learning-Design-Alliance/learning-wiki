@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: demir-2022
     resource: "http://doi.org/10.30831/akukeg.1122136"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The second-order meta-analysis of 19 meta-analyses yields a mean effect size of ES=.78 (LL=.70, UL=.87) for constructivist learning models on student outcomes, with substantial heterogeneity (I2=81.68). [→ Demir 2022](#demir-2022)

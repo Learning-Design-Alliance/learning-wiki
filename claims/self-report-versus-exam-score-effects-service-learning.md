@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: jami-l-warren-2012
     resource: "https://quod.lib.umich.edu/m/mjcsl"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` When concrete measures were subdivided, self-reported learning (d = .365) yielded greater effects than exam scores (d = .259), yet t-tests revealed no statistically significant difference between the self-report and concrete measures. [→ Jami L. Warren 2012](#jami-l-warren-2012)

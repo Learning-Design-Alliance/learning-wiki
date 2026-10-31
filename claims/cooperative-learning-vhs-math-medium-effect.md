@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
+source_checked: 2026-10-31
 sources:
   - id: m-rais-ridwan-2022
     resource: "http://dx.doi.org/10.17275/per.22.97.9.4"
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Currency** · newest study 2022 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Across 22 studies, the random-effects summary effect size for cooperative versus conventional learning on VHS mathematics outcomes is 0.89 [0.70; 1.07], a medium effect. [→ M. Rais Ridwan 2022](#m-rais-ridwan-2022)

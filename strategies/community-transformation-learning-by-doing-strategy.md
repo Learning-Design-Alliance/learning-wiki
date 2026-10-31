@@ -40,7 +40,7 @@ The article recommends transforming community attitudes via students during real
 - adaptation and mitigation practices at household level
 
 ### Affordances
-- [Climate Resilience Education Framework](../theories/climate-resilience-education-framework.md)
+- Climate Resilience Education Framework
 
 ## Claims
 

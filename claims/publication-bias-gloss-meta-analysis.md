@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: vahideh-sadat-vahedi-2014
     resource: "http://www.tewtjournal.org"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The funnel plot was asymmetrical, and imputed studies revealed a tendency for smaller studies to give more positive results; the classic Fail-safe N estimated 2318 null-result studies would be needed to nullify the overall effect, and Orwin's Fail-safe N estimated 395. [→ Vahideh Sadat Vahedi 2014](#vahideh-sadat-vahedi-2014)

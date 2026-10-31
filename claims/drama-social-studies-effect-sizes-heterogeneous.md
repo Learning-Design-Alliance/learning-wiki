@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: yildirim-2022
     resource: "https://doi.org/10.46328/ijonses.301"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The Q test was significant and the I² statistic indicated high heterogeneity (78.695%) among the included effect sizes, justifying the random effects model. [→ Yildirim 2022](#yildirim-2022)

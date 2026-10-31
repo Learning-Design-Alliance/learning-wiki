@@ -39,7 +39,7 @@ The article recommends implementing JAS through student-centered learning models
 - critical thinking and creativity
 
 ### Affordances
-- [Jas Approach Six Characteristics](../theories/jas-approach-six-characteristics.md)
+- Jas Approach Six Characteristics
 
 ## Claims
 

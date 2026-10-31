@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: m-rais-ridwan-2022
     resource: "http://dx.doi.org/10.17275/per.22.97.9.4"
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i0` negligible
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Two studies (Discovery and STAD models) had weak effect sizes of 0.1716 and 0.1797 with confidence intervals containing zero. [→ M. Rais Ridwan 2022](#m-rais-ridwan-2022)

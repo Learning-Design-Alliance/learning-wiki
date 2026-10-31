@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: young-suk-grace-kim-2021
     resource: "https://doi.org/10.1016/j.edurev.2021.100408"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In meta-regression for writing quality, SRSD had a larger effect than transcription instruction, and instruction effects were larger for students with weak writing skills. [→ Young-Suk Grace Kim 2021](#young-suk-grace-kim-2021)

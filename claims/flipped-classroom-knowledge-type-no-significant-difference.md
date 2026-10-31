@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: zhang-2021
     resource: "https://doi.org/10.15354/sief.21.re019"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The inter-group test for knowledge type was not significant (p = 0.664), so no significant difference existed between theoretical (SMD = 0.63) and practical (SMD = 0.70) knowledge outcomes. [→ Zhang 2021](#zhang-2021)

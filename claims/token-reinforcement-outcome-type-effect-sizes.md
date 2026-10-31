@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: kelly-c-dreger-2022
     resource: "https://eric.ed.gov/?id=EJ1355660"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Behavior outcomes showed the highest aggregated effect size (g = 2.38, Vg = 0.10), performance showed a large effect (g = 0.91, Vg = 0.08), and motivation showed a small negative effect (g = -0.39, Vg = 0.04). [→ Kelly C. Dreger 2022](#kelly-c-dreger-2022)

@@ -19,6 +19,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Despite government recommendations for mother-tongue teaching, African children are primarily schooled in English from Grade 4 onwards, a second or third language for most. [→ Gobodwana 2024](#gobodwana-2024)

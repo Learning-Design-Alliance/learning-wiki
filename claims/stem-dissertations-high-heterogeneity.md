@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: taşdemir-2022
     resource: "https://doi.org/10.31014/aior.1993.05.02.489"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The Q statistic was significant and I2 indicated high heterogeneity among the 26 dissertations, justifying the random effects model. [→ Taşdemir 2022](#tasdemir-2022)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: elias-clinton-2016
     resource: "https://eric.ed.gov/?id=EJ1166705"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of studies examined that reported gender information, only 14% of participants were female, while females constitute approximately 24% of the population of students with EBD. [→ Elias Clinton 2016](#elias-clinton-2016)

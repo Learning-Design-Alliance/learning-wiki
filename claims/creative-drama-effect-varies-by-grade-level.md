@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: hafize-er-türküresin-2020
     resource: "http://iojet.org/index.php/IOJET/article/view/1056"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Grade-level moderator analysis found the 8th grade had the huge effect size (d = 2.733, based on only 2 studies) and the 4th grade the lowest (d = 0.709, moderate). [→ Hafize Er-Türküresin 2020](#hafize-er-turkuresin-2020)

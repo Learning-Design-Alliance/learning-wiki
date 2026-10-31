@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: hafize-er-türküresin-2020
     resource: "http://iojet.org/index.php/IOJET/article/view/1056"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Moderator analysis by publication year found the effect size of studies published between 2006-2012 was higher than that of studies published in 2013 and after, though both were very wide and positive. [→ Hafize Er-Türküresin 2020](#hafize-er-turkuresin-2020)

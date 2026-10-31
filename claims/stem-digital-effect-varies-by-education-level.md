@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: feyyaz-öztop-2023
     resource: "https://doi.org/10.17509/jsl.v6i2.52316"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Effect sizes differ significantly across education levels (QB=16.404, p<0.05), with high school (d=3.049) largest and primary school (d=1.257) smallest. [→ Feyyaz Öztop 2023](#feyyaz-oztop-2023)

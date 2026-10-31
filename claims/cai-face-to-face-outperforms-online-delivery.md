@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2011
 sources:
   - id: karen-larwin-david-larwin-2011
     resource: "https://eric.ed.gov/?id=EJ918907"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Face-to-face courses produced the greatest effect when using CAI (d = 0.706), while courses categorized as online delivery produced a negative effect (d = -0.149). [→ Karen Larwin & David Larwin 2011](#karen-larwin-david-larwin-2011)

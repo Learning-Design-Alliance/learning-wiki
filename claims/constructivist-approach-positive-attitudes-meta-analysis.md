@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2016
+source_checked: 2026-10-31
 sources:
   - id: toraman-2016
     resource: "http://dx.doi.org/10.14689/ejer.2016.62.8"
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Currency** · newest study 2016 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Across 43 studies analyzed with a random effects model, students taught with the constructivist approach held more positive attitudes towards lessons than students taught by traditional methods (ES = 0.728, Z = 5.115, p < .05). [→ Toraman 2016](#toraman-2016)

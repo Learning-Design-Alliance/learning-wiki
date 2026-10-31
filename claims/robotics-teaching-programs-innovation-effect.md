@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: hou-2022
     resource: "https://doi.org/10.15354/bece.22.ab001"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` All teaching programs in robotics curriculum significantly promote creativity, with hands-on creation, experimental verification, and process participation exceptionally effective for innovation ability. [→ Hou 2022](#hou-2022)

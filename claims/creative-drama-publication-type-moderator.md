@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: özgür-ulubey-2018
     resource: "https://eric.ed.gov/?id=EJ1172791"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Publication type is a significant moderator (QB=6.418, p<.05); master's theses (ES=1.040) and doctoral theses (ES=2.489) show higher effect sizes than articles (ES=.830). [→ Özgür Ulubey 2018](#ozgur-ulubey-2018)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-19
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-10-31
 sources:
   - id: lawson-2024
     resource: "https://doi.org/10.1007/s10648-024-09908-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In 14 of 17 comparisons where activities were not (or likely not) controlled, the IVR condition seemed to have a learning advantage, mostly because it had activities the conventional condition lacked. [→ Lawson 2024](#lawson-2024)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: daryanto-2022
     resource: "https://doi.org/10.46328/ijemst.2509"
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` An increase in facilities and development of e-learning management ability is needed for maximum usage of e-learning, with students' technology skills a key factor. [→ Daryanto 2022](#daryanto-2022)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: ergul-sonmez-2021
     resource: "https://doi.org/10.46328/ijtes.161"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the forest plot of individual study effect sizes, 14 of 19 studies favored web 2.0 use and 5 showed negative effect sizes, only one of which the authors describe as falling in a wide range. [→ Ergul Sonmez 2021](#ergul-sonmez-2021)

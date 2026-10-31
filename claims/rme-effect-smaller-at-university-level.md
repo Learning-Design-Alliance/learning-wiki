@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: juandi-2022
     resource: "https://doi.org/10.29333/iji.2022.15122a"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Combined effect sizes in primary (g = 0.80) and junior high school (g = 0.85) differ significantly from college (g = 0.38); the authors tentatively suggest RME is not recommended at university level. [→ Juandi 2022](#juandi-2022)

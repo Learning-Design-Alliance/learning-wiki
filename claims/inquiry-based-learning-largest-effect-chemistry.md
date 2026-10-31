@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: sugano-2020
     resource: "https://doi.org/10.29333/iji.2020.13259a"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Among the teaching-method categories, inquiry-based learning showed the largest weighted mean effect size (d = 1.783) on student academic performance in secondary chemistry, exceeding problem-based learning (d = 1.276) and cooperative learning (d = 1.268). [→ Sugano 2020](#sugano-2020)

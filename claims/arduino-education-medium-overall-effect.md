@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: lee-2020
     resource: "https://doi.org/10.12973/eu-jer.9.4.1503"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The overall average effect size of Arduino-based education across 31 effect sizes from 16 studies was 0.656, a medium effect by Cohen's standards. [→ Lee 2020](#lee-2020)

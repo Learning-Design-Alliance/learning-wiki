@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: hebert-2016
     resource: "https://doi.org/10.1037/edu0000082"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Across 45 studies, text structure instruction significantly improved proximal measures of expository reading comprehension, with an average weighted effect size of g = 0.57 (RVE) and 0.56 (aggregated model). [→ Hebert 2016](#hebert-2016)

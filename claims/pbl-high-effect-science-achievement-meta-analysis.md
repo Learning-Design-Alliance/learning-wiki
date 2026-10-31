@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: ufuk-uluçınar-2022
     resource: "https://doi.org/10.33828/sei.v34.i2.1"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Across 55 experimental study datasets, PBL in science education produced a high average effect size on academic achievement relative to traditional instruction (Hedges's g = 1.009, 95% CI 0.805–1.213). [→ Ufuk Uluçınar 2022](#ufuk-ulucnar-2022)

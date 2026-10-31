@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: mookyung-jeon-2018
     resource: "https://eric.ed.gov/?id=EJ1184078"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Across 22 effect sizes from eight Korean studies of elementary students, the weighted aggregated effect size of disability simulation is .80, with a median of .73. [→ Mookyung Jeon 2018](#mookyung-jeon-2018)

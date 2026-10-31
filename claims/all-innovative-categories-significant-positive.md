@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: sugano-2020
     resource: "https://doi.org/10.29333/iji.2020.13259a"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Every innovative teaching-method category in the synthesis exhibited a significant positive influence (p < 0.05) on student performance, with weighted mean effect sizes ranging from 0.50 to 1.80. [→ Sugano 2020](#sugano-2020)

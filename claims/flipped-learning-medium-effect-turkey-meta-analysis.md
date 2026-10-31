@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: aydin-2021
     resource: "https://eric.ed.gov/?id=EJ1283687"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` After publication-bias correction, the effect of the flipped learning model on students' success is medium (Hedges's g = 0.713). [→ Aydin 2021](#aydin-2021)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: itsarangkul-na-ayutthaya-2022
     resource: "https://doi.org/10.12973/eu-jer.11.4.2429"
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Propensity score analysis classified 400 studies into a low effect size group of 256 studies (d̄=1.345, SD=0.960) and a high effect size group of 144 studies (d̄=7.284, SD=0.277). [→ Itsarangkul Na Ayutthaya 2022](#itsarangkul-na-ayutthaya-2022)

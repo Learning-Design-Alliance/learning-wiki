@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: özgür-ulubey-2018
     resource: "https://eric.ed.gov/?id=EJ1172791"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The effect size does not vary significantly depending on whether the practitioner was a researcher (ES=1.154) or a teacher (ES=1.273); QB=.130, p>.05. [→ Özgür Ulubey 2018](#ozgur-ulubey-2018)

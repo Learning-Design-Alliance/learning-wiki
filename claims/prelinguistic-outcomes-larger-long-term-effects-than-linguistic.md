@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2023
 sources:
   - id: natalie-s-pak-2023
     resource: "https://doi.org/10.1044/2023_JSLHR-22-00711"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Estimates were significant for prelinguistic outcomes (g = .36, p < .001) and nonsignificant for linguistic outcomes (g = .14, p = .101) at long-term timepoints. [→ Natalie S. Pak 2023](#natalie-s-pak-2023)

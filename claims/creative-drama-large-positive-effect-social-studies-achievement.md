@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2020
 sources:
   - id: hafize-er-türküresin-2020
     resource: "http://iojet.org/index.php/IOJET/article/view/1056"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Across 19 experimental studies, the random-effects average effect size of creative drama on Social Studies achievement was 1.171 (95% CI 0.892-1.449), classified as very large under Thalheimer and Cook's (2002) criteria. [→ Hafize Er-Türküresin 2020](#hafize-er-turkuresin-2020)

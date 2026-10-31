@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: zeynel-kablan-2013
     resource: "https://doi.org/10.12738/estp.2013.3.1692"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The homogeneity test found no significant differences in effect sizes among different types of materials (QB=4.106; p=0.392). [→ Zeynel KABLAN 2013](#zeynel-kablan-2013)

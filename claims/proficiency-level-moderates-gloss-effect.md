@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: vahideh-sadat-vahedi-2014
     resource: "http://www.tewtjournal.org"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Heterogeneity across elementary (ES = 0.75), intermediate (ES = .85), and advanced (ES = .81) proficiency subgroups was statistically significant (Q = 6.53, p < 0.05), suggesting multiple glosses highly benefit advanced and intermediate learners relative to elementary learners. [→ Vahideh Sadat Vahedi 2014](#vahideh-sadat-vahedi-2014)

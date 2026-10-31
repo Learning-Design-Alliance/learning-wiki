@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: bilal-ashraf-2021
     resource: "https://eric.ed.gov/?id=ED625398"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` Small group interventions had a pooled literacy effect size of 0.14 (0.06, 0.22) and one-to-one 0.08 (0.04, 0.13), both exceeding whole school (0.02) and whole class (0.01) approaches. [→ Bilal Ashraf 2021](#bilal-ashraf-2021)

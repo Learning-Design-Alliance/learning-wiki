@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: hakan-tekedere-2016
     resource: "https://creativecommons.org/licenses/by/4.0/"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Among the 15 studies, 3 were at primary school level, 2 at secondary, 1 at both primary and secondary, 3 at high school, 5 at university, and 1 across all four levels; all 15 reported positive effects. [→ Hakan Tekedere 2016](#hakan-tekedere-2016)

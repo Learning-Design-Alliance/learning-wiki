@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2020
 sources:
   - id: lee-2020
     resource: "https://doi.org/10.12973/eu-jer.9.4.1503"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` ANOVA found no statistically significant difference between gifted class (0.785) and general class (0.613) effect sizes (p > .05). [→ Lee 2020](#lee-2020)

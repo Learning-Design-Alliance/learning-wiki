@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 sources:
   - id: ganz-2022
-    title: "Ganz, J. B., Pustejovsky, J. E., Reichle, J., Vannest, K. J., Foster, M., Fuller, M. C., Pierson, L. M., Wattanawongwan, S., Bernal, A. J., Chen, M., Haas, A. N., Skov, R., Smith, S. D., & Yllades, V. (2022). Augmentative and Alternative Communication Intervention Targets for School-Aged Participants with ASD and ID: a Single-Case Systematic Review and Meta-analysis. Review Journal of Autism and Developmental Disorders."
+    title: "Ganz, J. B., Pustejovsky, J. E., Reichle, J., Vannest, K. J., Foster, M., Fuller, M. C., Pierson, L. M., Wattanawongwan, S., Bernal, A. J., Chen, M., Haas, A. N., Skov, R., Smith, S. D., & Yllades, V. (2022). Augmentative and Alternative Communication Intervention Targets for School-Aged Participants with ASD and ID: a Single-Case Systematic Review and Meta-analysis. Review Journal of Autism and Developmental Disorders. [doi:10.1007/s40489-022-00326-6](https://doi.org/10.1007/s40489-022-00326-6)"
     author: "Ganz, J. B., Pustejovsky, J. E., Reichle, J., Vannest, K. J., Foster, M., Fuller, M. C., Pierson, L. M., Wattanawongwan, S., Bernal, A. J., Chen, M., Haas, A. N., Skov, R., Smith, S. D., & Yllades, V"
 ---
 
@@ -52,4 +52,4 @@ The article recommends that intervention protocols go beyond isolated settings, 
 -
 
 ## Key Sources
-- Ganz, J. B., Pustejovsky, J. E., Reichle, J., Vannest, K. J., Foster, M., Fuller, M. C., Pierson, L. M., Wattanawongwan, S., Bernal, A. J., Chen, M., Haas, A. N., Skov, R., Smith, S. D., & Yllades, V. (2022). Augmentative and Alternative Communication Intervention Targets for School-Aged Participants with ASD and ID: a Single-Case Systematic Review and Meta-analysis. Review Journal of Autism and Developmental Disorders.
+- Ganz, J. B., Pustejovsky, J. E., Reichle, J., Vannest, K. J., Foster, M., Fuller, M. C., Pierson, L. M., Wattanawongwan, S., Bernal, A. J., Chen, M., Haas, A. N., Skov, R., Smith, S. D., & Yllades, V. (2022). Augmentative and Alternative Communication Intervention Targets for School-Aged Participants with ASD and ID: a Single-Case Systematic Review and Meta-analysis. Review Journal of Autism and Developmental Disorders. [doi:10.1007/s40489-022-00326-6](https://doi.org/10.1007/s40489-022-00326-6)

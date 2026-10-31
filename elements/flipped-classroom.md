@@ -13,7 +13,7 @@ generated:
 # Flipped Classroom
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 15 claims (7 for, 7 mixed, 1 against) · 7 studies (2 causal, 1 review, 1 design), `q2`–`q3` · 3 of 7 report an effect size · 15 claims rest on one study
+> **Evidence** · 15 claims (7 for, 7 mixed, 1 against) · 7 studies (2 causal, 1 review, 1 design), `q2`–`q3` · 3 of 7 report an effect size · 14 claims rest on one study
 
 ## Description
 Flipped classroom is the element in which initial content exposure happens before class so in-class time can focus on application and feedback.
@@ -31,7 +31,7 @@ Flipped classroom is the element in which initial content exposure happens befor
 - [Probability of notable grades is substantially higher under flipped classroom methodology](../claims/flipped-classroom-notable-grade-odds.md) [+W]
 - [Effect sizes for the flipped classroom are higher in humanities studies than in STEM, but the difference should not be given too much weight](../claims/discipline-moderates-flipped-classroom-effect.md) [~W]
 - [Flipped classroom shows significant positive effects across class sizes, with the largest reported effect for medium-sized classes](../claims/flipped-classroom-class-size-moderation.md) [+W]
-- [Flipped classroom students have slightly higher pass rates than traditional classroom students (OR = 1.55, risk ratio 1.08)](../claims/flipped-classroom-pass-rates-or-155.md) [+W]
+- [Flipped classroom students have slightly higher pass rates than traditional classroom students (OR = 1.55, risk ratio 1.08)](../claims/traditional-methodology-higher-failure-probability.md) [+W]
 - [Publication bias tests indicate the pooled flipped classroom effect is unlikely to be inflated by publication bias](../claims/flipped-classroom-meta-analysis-publication-bias-robust.md) [~W]
 - [Flipped classroom has a moderately positive effect on college students' academic performance (SMD = 0.66)](../claims/flipped-classroom-moderate-positive-effect-college.md) [+W]
 - [The social nature of learning activities shows no detectable moderating effect on flipped classroom learning gains](../claims/social-activity-no-moderating-effect-flipped.md) [~W]

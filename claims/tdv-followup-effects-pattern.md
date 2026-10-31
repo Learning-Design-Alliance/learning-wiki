@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: lisa-de-la-rue-2017
     resource: "https://doi.org/10.3102/0034654316632061"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` At follow-up, knowledge effects remained significant (g = 0.36, CI [0.01, 0.71]), attitudes remained significant but small (g = 0.11, CI [0.01, 0.22]), and perpetration showed a decrease (g = −0.11, CI [−0.21, −0.01]). [→ Lisa De La Rue 2017](#lisa-de-la-rue-2017)

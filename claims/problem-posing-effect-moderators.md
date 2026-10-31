@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: mixed
+newest_evidence: 2014
 sources:
   - id: roslinda-rosli-2014
     resource: "http://dx.doi.org/10.5539/ies.v7n13p227"
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Educational setting and publication source had statistically different effects (p < .001) on knowledge-based outcomes, and all hypothesized moderators were significant for ability-based and attitude-belief outcomes. [→ Roslinda Rosli 2014](#roslinda-rosli-2014)

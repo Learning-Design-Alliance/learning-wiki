@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2026
 sources:
   - id: saidah-2026
     resource: "https://doi.org/10.46328/ijres.5054"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Only two of the 19 included studies measured statistical critical thinking, one reporting a weak effect (g = 0.192, group investigation) and one a very strong effect (g = 1.812, blended learning), underscoring the need for further studies. [→ Sa’idah 2026](#saidah-2026)

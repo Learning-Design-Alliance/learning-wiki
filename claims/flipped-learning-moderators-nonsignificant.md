@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: aydin-2021
     resource: "https://eric.ed.gov/?id=EJ1283687"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Homogeneity tests show no statistically significant difference between groups by educational level (Q=0.377), study type (Q=0.590), or year (Q=4.598), all p>0.05. [→ Aydin 2021](#aydin-2021)

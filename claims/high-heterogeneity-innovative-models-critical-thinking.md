@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2026
 sources:
   - id: saidah-2026
     resource: "https://doi.org/10.46328/ijres.5054"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Residual heterogeneity among the 19 studies is significant (Q = 132.358; df = 18; p < .001) with I² = 91.37%, far above the 75% high-heterogeneity criterion. [→ Sa’idah 2026](#saidah-2026)

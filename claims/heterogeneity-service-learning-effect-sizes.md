@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2012
 sources:
   - id: jami-l-warren-2012
     resource: "https://quod.lib.umich.edu/m/mjcsl"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The Q statistic indicated significant heterogeneity among the 11 effect sizes, motivating moderator analyses by learning-measure type. [→ Jami L. Warren 2012](#jami-l-warren-2012)

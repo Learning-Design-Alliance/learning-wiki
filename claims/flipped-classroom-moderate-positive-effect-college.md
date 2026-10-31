@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: zhang-2021
     resource: "https://doi.org/10.15354/sief.21.re019"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Across 20 experimental studies, flipped classroom teaching produced a moderate positive combined effect on college students' academic performance. [→ Zhang 2021](#zhang-2021)

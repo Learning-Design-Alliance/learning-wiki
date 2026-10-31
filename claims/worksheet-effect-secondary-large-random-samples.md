@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2023
 sources:
   - id: widodo-2023
     resource: "https://doi.org/10.12973/ijem.9.1.151"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The authors state the very high effect was obtained in research using secondary school students, large sample sizes (more than 30 students), and random samples. [→ Widodo 2023](#widodo-2023)

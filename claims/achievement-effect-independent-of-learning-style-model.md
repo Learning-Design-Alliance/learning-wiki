@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: kanadlı-2016
     resource: "https://doi.org/10.12738/estp.2016.6.0084"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Under the random effect model, the between-groups Q for learning style model was not significant (p > .05), so achievement effects do not differ meaningfully across models. [→ Kanadlı 2016](#kanadl-2016)

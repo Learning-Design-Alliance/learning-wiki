@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: mehmet-fatih-ayaz-2015
     resource: "https://eric.ed.gov/?id=EJ1077612"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` At least 4860 zero-effect studies would be needed to reduce the overall effect size to 0.01, and the funnel plot suggests low publication bias despite asymmetry. [→ Mehmet Fatih Ayaz 2015](#mehmet-fatih-ayaz-2015)

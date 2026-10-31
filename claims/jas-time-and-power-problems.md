@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: s-ngabekti-2017
     resource: "https://doi.org/10.15294/jpii.v6i1.8490"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 77% of surveyed users reported time problems and 54% reported power problems when implementing JAS. [→ S. Ngabekti 2017](#s-ngabekti-2017)

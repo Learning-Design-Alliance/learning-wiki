@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2013
 sources:
   - id: amy-b-holmes-2013
     resource: "https://eric.ed.gov/?id=ED563072"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Students who used manipulatives during mathematics instruction had statistically significant higher mathematics achievement than students who did not, with a random-effects weighted standardized mean difference effect size of 0.22 (about a 9-percentile-point gain). [→ Amy B. Holmes 2013](#amy-b-holmes-2013)

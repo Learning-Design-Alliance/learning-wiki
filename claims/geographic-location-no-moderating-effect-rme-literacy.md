@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2024
 sources:
   - id: amelia-defrianti-putri-2024
     resource: "https://doi.org/10.11591/edulearn.v18i4.21650"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Rural studies showed a larger descriptive effect (g = 1.223) than urban studies (g = 0.943), but the heterogeneity test was non-significant (Q = 0.976, p = 0.323). [→ Amelia Defrianti Putri 2024](#amelia-defrianti-putri-2024)

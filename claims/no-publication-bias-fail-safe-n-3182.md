@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: hakan-ulum-2022
     resource: "https://ojs.unimal.ac.id/mjml/index"
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Orwin's Fail-Safe N was 3182, meaning 3182 additional null studies would be needed to reduce the observed average effect size of 0.738 to a trivial 0.015, which the authors treat as evidence of no publication bias. [→ Hakan Ulum 2022](#hakan-ulum-2022)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: lisa-de-la-rue-2017
     resource: "https://doi.org/10.3102/0034654316632061"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Participants in the intervention increased their level of conflict tactic skills relative to control students at posttest, g = 0.18, 95% CI [0.12, 0.23]. [→ Lisa De La Rue 2017](#lisa-de-la-rue-2017)

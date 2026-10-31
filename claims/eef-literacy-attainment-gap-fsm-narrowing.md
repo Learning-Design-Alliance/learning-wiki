@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2021
 sources:
   - id: bilal-ashraf-2021
     resource: "https://eric.ed.gov/?id=ED625398"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i0` The overall literacy attainment gap was 0.01 (-0.01, 0.04) in favour of FSM pupils, with gap-narrowing greatest at KS1 (0.07, 0.00 to 0.14) and near zero at KS2 and KS4. [→ Bilal Ashraf 2021](#bilal-ashraf-2021)

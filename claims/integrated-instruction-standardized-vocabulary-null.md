@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: hyejin-hwang-2021
     resource: "https://doi.org/10.1080/10888438.2021.1954005"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The effect on standardized vocabulary measures was not statistically significant (g = 0.64, p = .42), while researcher-developed vocabulary measures showed a large significant effect (g = 0.86). [→ HyeJin Hwang 2021](#hyejin-hwang-2021)

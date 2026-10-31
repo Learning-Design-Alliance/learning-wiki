@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2014
 sources:
   - id: vahideh-sadat-vahedi-2014
     resource: "http://www.tewtjournal.org"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Multiple glosses had a large, positive effect in large studies (ES = 0.88) and a medium effect in small studies (ES = 0.72), but the difference between large and small studies was statistically non-significant (Q = 0.35, p > 0.05). [→ Vahideh Sadat Vahedi 2014](#vahideh-sadat-vahedi-2014)

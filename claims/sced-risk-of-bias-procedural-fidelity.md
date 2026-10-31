@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: joelle-fingerhut-and-mariola-moeyaert-2022
     resource: "https://doi.org/10.1177/10883576221081076"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Only 17 of 46 studies (40%) had low risk of bias for procedural fidelity, and 24 studies (56%) had high risk of bias for blinding outcome assessors. [→ Joelle Fingerhut and Mariola Moeyaert 2022](#joelle-fingerhut-and-mariola-moeyaert-2022)

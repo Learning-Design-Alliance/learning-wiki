@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2011
 sources:
   - id: karen-larwin-david-larwin-2011
     resource: "https://eric.ed.gov/?id=EJ918907"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students in introductory courses benefited more from CAI (d = 0.596) than students in advanced sections (d = 0.257), though only 16 studies (7%) covered intermediate/advanced sections. [→ Karen Larwin & David Larwin 2011](#karen-larwin-david-larwin-2011)

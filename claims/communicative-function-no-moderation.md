@@ -8,14 +8,17 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: ganz-2022
-    title: "Ganz, J. B., Pustejovsky, J. E., Reichle, J., Vannest, K. J., Foster, M., Fuller, M. C., Pierson, L. M., Wattanawongwan, S., Bernal, A. J., Chen, M., Haas, A. N., Skov, R., Smith, S. D., & Yllades, V. (2022). Augmentative and Alternative Communication Intervention Targets for School-Aged Participants with ASD and ID: a Single-Case Systematic Review and Meta-analysis. Review Journal of Autism and Developmental Disorders."
+    resource: "https://doi.org/10.1007/s40489-022-00326-6"
+    title: "Ganz, J. B., Pustejovsky, J. E., Reichle, J., Vannest, K. J., Foster, M., Fuller, M. C., Pierson, L. M., Wattanawongwan, S., Bernal, A. J., Chen, M., Haas, A. N., Skov, R., Smith, S. D., & Yllades, V. (2022). Augmentative and Alternative Communication Intervention Targets for School-Aged Participants with ASD and ID: a Single-Case Systematic Review and Meta-analysis. Review Journal of Autism and Developmental Disorders. [doi:10.1007/s40489-022-00326-6](https://doi.org/10.1007/s40489-022-00326-6)"
     author: "Ganz, J. B., Pustejovsky, J. E., Reichle, J., Vannest, K. J., Foster, M., Fuller, M. C., Pierson, L. M., Wattanawongwan, S., Bernal, A. J., Chen, M., Haas, A. N., Skov, R., Smith, S. D., & Yllades, V."
     q: 3
     i: "?"
   - id: ganz-2022-2
-    title: "Ganz, J. B., Pustejovsky, J. E., Reichle, J., Vannest, K. J., Foster, M., Fuller, M. C., Pierson, L. M., Wattanawongwan, S., Bernal, A. J., Chen, M., Haas, A. N., Skov, R., Smith, S. D., & Yllades, V. (2022). Augmentative and Alternative Communication Intervention Targets for School-Aged Participants with ASD and ID: a Single-Case Systematic Review and Meta-analysis. Review Journal of Autism and Developmental Disorders."
+    resource: "https://doi.org/10.1007/s40489-022-00326-6"
+    title: "Ganz, J. B., Pustejovsky, J. E., Reichle, J., Vannest, K. J., Foster, M., Fuller, M. C., Pierson, L. M., Wattanawongwan, S., Bernal, A. J., Chen, M., Haas, A. N., Skov, R., Smith, S. D., & Yllades, V. (2022). Augmentative and Alternative Communication Intervention Targets for School-Aged Participants with ASD and ID: a Single-Case Systematic Review and Meta-analysis. Review Journal of Autism and Developmental Disorders. [doi:10.1007/s40489-022-00326-6](https://doi.org/10.1007/s40489-022-00326-6)"
     author: "Ganz, J. B., Pustejovsky, J. E., Reichle, J., Vannest, K. J., Foster, M., Fuller, M. C., Pierson, L. M., Wattanawongwan, S., Bernal, A. J., Chen, M., Haas, A. N., Skov, R., Smith, S. D., & Yllades, V."
     q: 3
     i: "?"
@@ -25,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For AAC-related outcomes, average Tau did not differ significantly by communicative function (model A F(3,12.8) = 1.3, p = 0.305). [→ Ganz 2022](#ganz-2022)
@@ -34,7 +38,7 @@ sources:
 
 ### Ganz 2022
 
-Ganz, J. B., Pustejovsky, J. E., Reichle, J., Vannest, K. J., Foster, M., Fuller, M. C., Pierson, L. M., Wattanawongwan, S., Bernal, A. J., Chen, M., Haas, A. N., Skov, R., Smith, S. D., & Yllades, V. (2022). Augmentative and Alternative Communication Intervention Targets for School-Aged Participants with ASD and ID: a Single-Case Systematic Review and Meta-analysis. Review Journal of Autism and Developmental Disorders.
+Ganz, J. B., Pustejovsky, J. E., Reichle, J., Vannest, K. J., Foster, M., Fuller, M. C., Pierson, L. M., Wattanawongwan, S., Bernal, A. J., Chen, M., Haas, A. N., Skov, R., Smith, S. D., & Yllades, V. (2022). Augmentative and Alternative Communication Intervention Targets for School-Aged Participants with ASD and ID: a Single-Case Systematic Review and Meta-analysis. Review Journal of Autism and Developmental Disorders. [doi:10.1007/s40489-022-00326-6](https://doi.org/10.1007/s40489-022-00326-6)
 
 `q3 · i?`
 
@@ -44,7 +48,7 @@ Tau meta-regression on the AAC-related subsample across behavioral regulation (k
 
 ### Ganz 2022 (2)
 
-Ganz, J. B., Pustejovsky, J. E., Reichle, J., Vannest, K. J., Foster, M., Fuller, M. C., Pierson, L. M., Wattanawongwan, S., Bernal, A. J., Chen, M., Haas, A. N., Skov, R., Smith, S. D., & Yllades, V. (2022). Augmentative and Alternative Communication Intervention Targets for School-Aged Participants with ASD and ID: a Single-Case Systematic Review and Meta-analysis. Review Journal of Autism and Developmental Disorders.
+Ganz, J. B., Pustejovsky, J. E., Reichle, J., Vannest, K. J., Foster, M., Fuller, M. C., Pierson, L. M., Wattanawongwan, S., Bernal, A. J., Chen, M., Haas, A. N., Skov, R., Smith, S. D., & Yllades, V. (2022). Augmentative and Alternative Communication Intervention Targets for School-Aged Participants with ASD and ID: a Single-Case Systematic Review and Meta-analysis. Review Journal of Autism and Developmental Disorders. [doi:10.1007/s40489-022-00326-6](https://doi.org/10.1007/s40489-022-00326-6)
 
 `q3 · i?`
 

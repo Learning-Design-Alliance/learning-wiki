@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: hakan-ulum-2022
     resource: "https://ojs.unimal.ac.id/mjml/index"
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The standardized effect sizes of the 66 studies varied between 0.010 and 2.031, with confidence intervals between -0.444 and 1.238, and only two studies (İnan & Erkuş, 2017; Yi & Eu, 2016) exceeded 2.00. [→ Hakan Ulum 2022](#hakan-ulum-2022)

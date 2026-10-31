@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: itsarangkul-na-ayutthaya-2022
     resource: "https://doi.org/10.12973/eu-jer.11.4.2429"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Before adjustment, 13 attribute variables differed significantly at the .05 level between high and low effect size groups; after propensity score matching, 12 of them no longer differed significantly. [→ Itsarangkul Na Ayutthaya 2022](#itsarangkul-na-ayutthaya-2022)

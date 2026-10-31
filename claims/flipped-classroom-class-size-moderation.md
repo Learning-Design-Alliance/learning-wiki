@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: zhang-2021
     resource: "https://doi.org/10.15354/sief.21.re019"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Effects were positive and significant for small, medium, and large classes (Z = 9.344, p = 0.000), with no significant between-group difference (QBET = 3.286, p = 0.193); the text reports the medium-sized effect as largest (SMD = 0.81). [→ Zhang 2021](#zhang-2021)

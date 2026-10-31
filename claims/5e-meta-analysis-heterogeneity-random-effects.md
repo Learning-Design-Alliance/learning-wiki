@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2015
 sources:
   - id: özgür-anil-2015
     resource: "https://doi.org/10.11114/jets.v3i6.1038"
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Cochran's Q tests exceeded the chi-square critical values for all three outcomes, indicating heterogeneous distributions of effect sizes. [→ Özgür Anil 2015](#ozgur-anil-2015)

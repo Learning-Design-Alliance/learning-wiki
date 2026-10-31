@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2017
 sources:
   - id: nurşat-biçer-2017
     resource: "https://doi.org/10.13189/ujer.2017.050419"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` An independent second coder filled out the article evaluation form and the coding reliability rate calculated by the agreement/(agreement + disagreement) x 100 formula was 100%. [→ Nurşat Biçer 2017](#nursat-bicer-2017)

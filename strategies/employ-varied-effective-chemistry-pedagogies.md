@@ -40,7 +40,7 @@ The article recommends that chemistry teachers and educators adopt the teaching 
 - problem solving and critical thinking skills
 
 ### Affordances
-- [Chemistry Teaching Method Nine Category Taxonomy](../theories/chemistry-teaching-method-nine-category-taxonomy.md)
+- Chemistry Teaching Method Nine Category Taxonomy
 
 ## Claims
 

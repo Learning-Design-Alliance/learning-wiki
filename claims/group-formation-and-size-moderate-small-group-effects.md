@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2018
 sources:
   - id: kalaian-2018
     resource: "https://scholar.lib.vt.edu/ejournals/JTE/"
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1`–`i2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Self-selected groups (d = 0.51) and random selection (d = 0.46) produced higher effect sizes than ability grouping by GPA and SAT scores (d = 0.21). [→ Kalaian 2018](#kalaian-2018)

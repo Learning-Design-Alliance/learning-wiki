@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: hakan-ulum-2022
     resource: "https://ojs.unimal.ac.id/mjml/index"
@@ -27,6 +28,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Across 66 effect sizes from 63 studies, student-centred methods and techniques were more effective than traditional teaching methods on primary school mathematics achievement, with a random-effects effect size of 0.787. [→ Hakan Ulum 2022](#hakan-ulum-2022)

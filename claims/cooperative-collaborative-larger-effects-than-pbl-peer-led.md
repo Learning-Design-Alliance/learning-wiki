@@ -8,6 +8,8 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2018
+source_checked: 2026-10-31
 sources:
   - id: kalaian-2018
     resource: "https://scholar.lib.vt.edu/ejournals/JTE/"
@@ -21,6 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Currency** · newest study 2018 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Cooperative learning (d = 0.51) and collaborative learning (d = 0.46) subgroup effects exceeded problem-based learning (d = 0.36) and peer-led team learning (d = 0.20, one study). [→ Kalaian 2018](#kalaian-2018)

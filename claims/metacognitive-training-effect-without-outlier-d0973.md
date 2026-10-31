@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: yujin-lee-2018
     resource: "https://doi.org/10.5539/ies.v11n10p42"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The reconstructed meta-analysis over 17 studies (k=17, n=1397) yielded a positive overall effect size of d=0.973 with SE=0.196, which the article reports as statistically significant. [→ Yujin Lee 2018](#yujin-lee-2018)

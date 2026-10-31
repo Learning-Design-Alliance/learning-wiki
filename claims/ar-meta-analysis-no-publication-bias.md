@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: hakan-tekedere-2016
     resource: "https://creativecommons.org/licenses/by/4.0/"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The funnel scatter graphic showed the 15 studies distributed symmetrically on both sides of the vertical effect size line, with only 2 studies outside the pyramid, indicating no publication bias. [→ Hakan Tekedere 2016](#hakan-tekedere-2016)

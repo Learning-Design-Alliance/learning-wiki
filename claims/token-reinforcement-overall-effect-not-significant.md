@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: kelly-c-dreger-2022
     resource: "https://eric.ed.gov/?id=EJ1355660"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across 31 studies, the aggregated effect size for token reinforcement was approximately g = 1.04 with no significant treatment effect (p = 0.156). [→ Kelly C. Dreger 2022](#kelly-c-dreger-2022)

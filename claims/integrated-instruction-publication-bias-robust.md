@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2021
 sources:
   - id: hyejin-hwang-2021
     resource: "https://doi.org/10.1080/10888438.2021.1954005"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Although Egger's regression tests indicated potential publication bias for vocabulary and comprehension, sensitivity analyses showed no possible level of bias could attenuate the effect sizes to zero. [→ HyeJin Hwang 2021](#hyejin-hwang-2021)

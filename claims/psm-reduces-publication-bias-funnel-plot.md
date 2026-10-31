@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: itsarangkul-na-ayutthaya-2022
     resource: "https://doi.org/10.12973/eu-jer.11.4.2429"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Before matching, funnel plot data were asymmetrically distributed from the total mean effect size, indicating high publication bias; after matching, data were symmetrically distributed near the center line, indicating low publication bias. [→ Itsarangkul Na Ayutthaya 2022](#itsarangkul-na-ayutthaya-2022)

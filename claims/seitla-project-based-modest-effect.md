@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2022
 sources:
   - id: mustafa-çevik-2022
     resource: "https://doi.org/10.29329/ijpe.2022.431.8"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Project-based learning accounted for the largest share of studies (11 of 33, 33.33%) and its pooled effect on learning achievement was g = 0.44, significant at p < 0.01. [→ Mustafa Çevik 2022](#mustafa-cevik-2022)

@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: mixed
+newest_evidence: 2021
 sources:
   - id: ergul-sonmez-2021
     resource: "https://doi.org/10.46328/ijtes.161"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i2` The effect size for K12 studies (E++ = 0.845) exceeds that for higher education studies (E++ = 0.71), and negative effect sizes appear only among higher education studies. [→ Ergul Sonmez 2021](#ergul-sonmez-2021)

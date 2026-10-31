@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2017
 sources:
   - id: nurşat-biçer-2017
     resource: "https://doi.org/10.13189/ujer.2017.050419"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Under the random effects model, collaborative learning shows a mean effect size of 0.816, significantly greater than conventional teaching (z = 4.342, p = 0.000). [→ Nurşat Biçer 2017](#nursat-bicer-2017)

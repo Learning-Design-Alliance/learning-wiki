@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2014
 sources:
   - id: katharine-conn-2014
     resource: "https://eric.ed.gov/?id=ED562871"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Pedagogical interventions focusing on procedural learning (d = 1.830, p = 0.000) or conceptual learning (d = 2.075, p = 0.008) have the highest pooled effect sizes; inquiry-based learning (d = 0.257, p = 0.330) is the least effective pedagogical subtype. [→ Katharine Conn 2014](#katharine-conn-2014)

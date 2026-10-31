@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2018
 sources:
   - id: mookyung-jeon-2018
     resource: "https://eric.ed.gov/?id=EJ1184078"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Weighted effect sizes exceed .50 for grades 3-4 (.91) and 5-6 (.54), but the 95% confidence interval for grades 1-2 includes zero. [→ Mookyung Jeon 2018](#mookyung-jeon-2018)

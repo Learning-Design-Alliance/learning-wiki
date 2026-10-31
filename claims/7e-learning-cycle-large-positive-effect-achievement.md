@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+newest_evidence: 2016
 sources:
   - id: balta-2016
     resource: "https://doi.org/10.12973/eu-jer.5.2.61"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Across 35 effect sizes from 24 experimental studies comprising 2918 students, the 7E learning cycle showed a positive effect on students' achievement, with an overall random-effects Hedges's g = 1.245 (95% CI .956–1.534). [→ Balta 2016](#balta-2016)

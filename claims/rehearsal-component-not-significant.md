@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2022
 sources:
   - id: joelle-fingerhut-and-mariola-moeyaert-2022
     resource: "https://doi.org/10.1177/10883576221081076"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The moderation effect of rehearsal was −1.79% and not statistically significant (p = .32); participants who rehearsed averaged 88.28% fidelity. [→ Joelle Fingerhut and Mariola Moeyaert 2022](#joelle-fingerhut-and-mariola-moeyaert-2022)
@@ -45,5 +47,3 @@ HLM moderator analysis (Model 3) in the 46-study meta-analysis tested rehearsal 
 - [Behavioral skills training and other trainings raise DTT implementation fidelity from a low baseline of 40.61% to over 90% accuracy by the end of training](bst-improves-dtt-implementation-fidelity.md) — related
 - [Complete behavioral skills training produces significantly higher DTT implementation fidelity than trainings using only one, two, or three BST components](bst-more-effective-than-partial-component-training.md) — related
 - [Modeling as a training component shows no statistically significant effect on DTT implementation fidelity](modeling-component-not-significant.md) — related
-- [Modeling, when analyzed as a separate moderator, shows no statistically significant effect on DTT implementation fidelity](modeling-component-not-significant-dtt-training.md)
-- [Complete behavioral skills training is statistically significantly more effective than trainings using only some BST components for DTT implementation fidelity](bst-more-effective-than-partial-trainings.md)

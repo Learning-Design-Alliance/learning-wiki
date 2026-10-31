@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: weak
+newest_evidence: 2015
 sources:
   - id: mehmet-fatih-ayaz-2015
     resource: "https://eric.ed.gov/?id=EJ1077612"
@@ -21,6 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Course is a significant moderator (QB = 40.167, p = 0.000); science learning (ES = 2.890), English (ES = 2.743) and computer (ES = 2.621) show the highest values, religion the lowest (ES = 0.127). [→ Mehmet Fatih Ayaz 2015](#mehmet-fatih-ayaz-2015)
