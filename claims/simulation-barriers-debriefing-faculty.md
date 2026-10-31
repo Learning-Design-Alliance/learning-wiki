@@ -45,6 +45,6 @@ The review's synthesis of barriers across included studies reports "insufficient
 
 
 ## Related Claims
-- [Five research gaps were identified: lack of explicit empathy definitions, limited scenario diversity, absence of repeated interventions, self-report limitations, and insufficient long-term outcome evidence](five-research-gaps-vp-empathy-review.md) — related
+- Five research gaps were identified: lack of explicit empathy definitions, limited scenario diversity, absence of repeated interventions, self-report limitations, and insufficient long-term outcome evidence — related
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [VR tools enhance acquisition and retention of clinical and procedural skills but face barriers including cybersickness, limited tactile feedback and variable long-term skill transfer](vr-enhances-practical-skill-acquisition-with-barriers.md) — related

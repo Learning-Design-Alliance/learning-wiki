@@ -49,7 +49,7 @@ Theme from the same focus group thematic analysis with intervention participants
 - [Collaboration](../learner-variables/collaboration.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Organizational empowerment through clear role positioning and multidisciplinary support enables sustained training transfer](organizational-empowerment-enables-transfer.md) — related
+- [Specialty nurses and their managers describe clear role positioning and multidisciplinary support as facilitating training transfer](organizational-empowerment-enables-transfer.md) — related
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related
 - [Interacting repeatedly across convenings built trust that enabled districts to give and receive critiques of one another's plans](repeated-convenings-trust-enables-critique.md) — related
 - [Focus group participants described role-play as transformative for conceptual clarity and confidence in consent-taking](role-play-transformative-consent-clarity-confidence.md) — related

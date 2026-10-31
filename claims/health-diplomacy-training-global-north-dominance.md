@@ -46,8 +46,8 @@ The review's geographic distribution section reports the counts of initiatives b
 
 
 ## Related Claims
-- [Eight health diplomacy training initiatives and frameworks published between 2017 and 2025 were identified in the scoping review](eight-health-diplomacy-initiatives-2017-2025.md) — related
+- Eight health diplomacy training initiatives and frameworks published between 2017 and 2025 were identified in the scoping review — related
 - [A major gap identified in the review was the underrepresentation of Global South leadership in global health diplomacy training](global-south-underrepresentation-ghd-training.md) — possibly the same claim (merge candidate)
 - [The GTA literature is skewed towards the Global North and largely omits patient perspectives, despite patient-centred justifications for GTA programmes](gta-literature-gaps-patient-voice-global-north.md) — related
 - [Evidence on clinical teaching models is concentrated in high-income settings: most included studies were conducted in the United States and none originated from Africa](clinical-teaching-models-us-concentration.md) — related
-- [All eight included studies were cross-sectional, conducted in Asia, and most lacked a comparator](pbl-review-studies-cross-sectional-asia-no-comparator.md) — related
+- All eight included studies were cross-sectional, conducted in Asia, and most lacked a comparator — related

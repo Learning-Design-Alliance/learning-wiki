@@ -46,7 +46,7 @@ This scoping review of 26 publications on faculty development in interprofession
 
 ## Related Claims
 - [Active and interactive teaching-learning methodologies are widely used in faculty development for IPE, favoring exchange of experiences between educators and health professionals](active-interactive-methodologies-ipe-faculty-development.md) — related
-- [Most faculty development studies in IPE use the CIHC and IPEC frameworks to guide interprofessional collaborative competencies](ipe-faculty-development-uses-cihc-ipec-frameworks.md) — possibly the same claim (merge candidate)
+- Most faculty development studies in IPE use the CIHC and IPEC frameworks to guide interprofessional collaborative competencies — possibly the same claim (merge candidate)
 - [Mixed interprofessional group training promoted mutual respect, understanding of roles, and appreciation of teamwork among ED participants](interprofessional-mixed-groups-mutual-respect-consent-training.md) — related
 - [Altınay and colleagues emphasize critical thinking, critical friendship, teamwork, and network-based collaboration for international standards](critical-friendship-teamwork-international-standards.md) — related
 - [Faculty and facilitators in IPE have difficulty identifying interprofessional learning opportunities in practice settings, requiring experienced agents to support them](ipe-faculty-difficulty-identifying-learning-opportunities.md) — related

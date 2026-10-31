@@ -45,5 +45,5 @@ Domain mapping across the 88 unique measures found that "The most frequently ass
 
 
 ## Related Claims
-- [Scoping review identified 88 unique measures of health professionals’ health literacy competencies across 128 included studies](scoping-review-88-unique-hl-competency-measures.md) — related
+- Scoping review identified 88 unique measures of health professionals’ health literacy competencies across 128 included studies — related
 - [Heavy emphasis on knowledge assessment may limit measurement of complex competencies such as advocacy and system-level engagement](knowledge-emphasis-limits-complex-hl-competency-assessment.md) — related

@@ -219,7 +219,7 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [GTA programmes are consistently associated with reduced student anxiety and improved confidence in pelvic examination, though evidence is frequently short-term and self-reported](../claims/gta-programmes-reduce-anxiety-improve-confidence.md) [+W] — instruction changes it
 - [In one randomized trial, EBP leadership education improved EBP beliefs and implementation self-efficacy but not evidence-based nursing practice scores](../claims/tucker-trial-beliefs-selfefficacy-gains-ebnp-null.md) [+W] — instruction changes it
 - [In a pragmatic RCT, VR communication simulation produced higher communication ability, confidence and satisfaction and lower clinical practice stress than video-based learning](../claims/vr-rct-chou-2024-communication-outcomes.md) [+M] — instruction changes it
-- [Students perceive that early clinical exposure improves problem-solving, professionalism, and confidence](../claims/ece-perceived-problem-solving-professionalism-confidence.md) [+M] — instruction changes it
+- [Students perceive that early clinical exposure improves problem-solving and confidence, and many redefine their understanding of professionalism](../claims/ece-perceived-problem-solving-professionalism-confidence.md) [+M] — instruction changes it
 
 ## The evidence by question
 

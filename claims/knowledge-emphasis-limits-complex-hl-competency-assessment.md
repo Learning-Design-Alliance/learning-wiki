@@ -49,4 +49,4 @@ Authors’ interpretive synthesis of the domain distribution findings, in which 
 - [Implementation of competency-based progression was limited by a perceived need to emphasize grade-level content and external policy constraints](competency-progression-limited-grade-level-emphasis.md) — related
 - [Composite accountability indicators such as A–F letter grades fail to capture the cognitive and noncognitive competencies of deeper learning and college and career readiness](composite-indicators-poor-conceptual-alignment-deeper-learning.md) — a broader claim this one bears on
 - [Performance-based knowledge was the most frequently assessed domain (45 measures)](performance-based-knowledge-most-assessed-hl-domain.md) — related
-- [Scoping review identified 88 unique measures of health professionals’ health literacy competencies across 128 included studies](scoping-review-88-unique-hl-competency-measures.md) — a broader claim this one bears on
+- Scoping review identified 88 unique measures of health professionals’ health literacy competencies across 128 included studies — a broader claim this one bears on

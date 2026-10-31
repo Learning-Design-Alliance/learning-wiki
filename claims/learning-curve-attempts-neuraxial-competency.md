@@ -48,4 +48,4 @@ The review reports CUSUM-based learning curve studies finding that "residents re
 - [Proficiency-based training, including mastery learning, is effective for achieving competence in neuraxial access](proficiency-based-training-effective-neuraxial-competence.md) — related
 - [Skill retention after neuraxial technical training tends to decline over time](skill-retention-declines-after-neuraxial-training.md) — related
 - [Simulation-based training enhances outcomes across multiple Kirkpatrick levels in neuraxial space access education](simulation-based-training-enhances-neuraxial-outcomes.md) — related
-- [Most included studies were of low methodological quality, with only 22 of 99 rated high quality by MERSQI](low-methodological-quality-neuraxial-education-studies.md) — related
+- Most included studies were of low methodological quality, with only 22 of 99 rated high quality by MERSQI — related

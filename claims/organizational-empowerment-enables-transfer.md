@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Organizational empowerment through clear role positioning and multidisciplinary support enables sustained training transfer
-description: Organizational empowerment through clear role positioning and multidisciplinary support enables sustained training transfer
+title: Specialty nurses and their managers describe clear role positioning and multidisciplinary support as facilitating training transfer
+description: Specialty nurses and their managers describe clear role positioning and multidisciplinary support as facilitating training transfer
 id: organizational-empowerment-enables-transfer
 status: review
 generated:
@@ -9,35 +9,36 @@ generated:
   at: 2026-09-27
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-31
 sources:
   - id: liang-2026
     resource: "https://doi.org/10.3389/fneur.2026.1915268"
-    title: "Liang, Zhang, Jiang, Li, Shang, Ji and Chen. (2026). Exploring training transfer in neurosurgical specialty nurse education: a qualitative descriptive study. Frontiers in Neurology. https://doi.org/10.3389/fneur.2026.1915268"
-    author: Liang, Zhang, Jiang, Li, Shang, Ji and Chen
+    title: "Liang, S., Zhang, N., Jiang, Y., Li, J., Shang, Z., Ji, C., & Chen, L. (2026). Exploring training transfer in neurosurgical specialty nurse education: a qualitative descriptive study. Frontiers in Neurology. https://doi.org/10.3389/fneur.2026.1915268"
+    author: "Liang, S., Zhang, N., Jiang, Y., Li, J., Shang, Z., Ji, C., & Chen, L."
     q: 2
     i: "?"
     kind: qualitative
     rigour: 3
 ---
 
-# Organizational empowerment through clear role positioning and multidisciplinary support enables sustained training transfer
+# Specialty nurses and their managers describe clear role positioning and multidisciplinary support as facilitating training transfer
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` When hospitals clarified specialty nurses' roles and responsibilities and granted practical authority, training outcomes were more likely to become stable specialty practice; without clear roles, training content was difficult to implement. [→ Liang 2026](#liang-2026)
+`q2 i?` In interviews, trainees, instructors and managers described clarified roles, practical authority and multidisciplinary cooperation as facilitating the use of training in practice, and the lack of clear roles as making training content hard to implement; the cross-sectional design could not show whether transfer was sustained over time. [→ Liang 2026](#liang-2026)
 
 ## Evidence
 
 ### Liang 2026
 
-Liang, Zhang, Jiang, Li, Shang, Ji and Chen. (2026). Exploring training transfer in neurosurgical specialty nurse education: a qualitative descriptive study. Frontiers in Neurology. https://doi.org/10.3389/fneur.2026.1915268
+Liang, S., Zhang, N., Jiang, Y., Li, J., Shang, Z., Ji, C., & Chen, L. (2026). Exploring training transfer in neurosurgical specialty nurse education: a qualitative descriptive study. Frontiers in Neurology. https://doi.org/10.3389/fneur.2026.1915268
 
 `q2 · i?` · `qualitative · r3`
 
-Facilitator subtheme; trainees described head nurses assigning health education and quality control responsibilities, and a manager noted that without a defined MDT coordinator role, navigation and coordination skills learned in training were difficult to put into play.
+Qualitative descriptive interview study of 32 participants (15 neurosurgical specialty nurses, 11 instructors, 6 training managers) from 16 Chinese institutions. In the "organizational empowerment and team collaboration" facilitator subtheme, trainees described head nurses assigning health education and quality control responsibilities, and a manager noted that without a defined MDT coordinator role, navigation and coordination skills learned in training were difficult to put into play. These are participants' retrospective accounts of what helped, not a test of cause; the authors note the study was not longitudinal and so could not capture whether transfer was maintained, weakened or deepened over time.
 
 > "When hospitals clarified the roles and responsibilities of specialty nurses and granted them practical authority, training outcomes were more likely to be transformed into stable specialty practice."
 

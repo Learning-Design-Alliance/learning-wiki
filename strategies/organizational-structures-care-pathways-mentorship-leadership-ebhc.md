@@ -38,7 +38,7 @@ In its conclusions, the review recommends that "healthcare organizations and edu
 
 ## Claims
 
-- [Organizational empowerment through clear role positioning and multidisciplinary support enables sustained training transfer](../claims/organizational-empowerment-enables-transfer.md) [+W]
+- [Specialty nurses and their managers describe clear role positioning and multidisciplinary support as facilitating training transfer](../claims/organizational-empowerment-enables-transfer.md) [+W]
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](../claims/resource-mismatch-and-support-discontinuity-constrain-transfer.md) [+W]
 
 ## Related Strategies

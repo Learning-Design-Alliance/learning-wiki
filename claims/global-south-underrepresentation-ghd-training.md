@@ -46,6 +46,6 @@ The review's gaps section reports the underrepresentation of Global South leader
 
 
 ## Related Claims
-- [Eight health diplomacy training initiatives and frameworks published between 2017 and 2025 were identified in the scoping review](eight-health-diplomacy-initiatives-2017-2025.md) — related
+- Eight health diplomacy training initiatives and frameworks published between 2017 and 2025 were identified in the scoping review — related
 - [Most health diplomacy training initiatives originated in the United States, followed by Europe, South Asia, and the Middle East](health-diplomacy-training-global-north-dominance.md) — possibly the same claim (merge candidate)
 - [Research on generative AI in secondary STEM education is concentrated in the Global North, with 73% of affiliations and the United States accounting for 30% of publications](global-north-concentration-generative-ai-stem-research.md) — related

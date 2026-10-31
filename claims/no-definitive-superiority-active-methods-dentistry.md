@@ -46,7 +46,7 @@ The review's synthesis of controlled studies found that "most studies with contr
 
 
 ## Related Claims
-- [PBL is the most investigated active teaching methodology in undergraduate dentistry, followed by flipped classroom and gamification](pbl-most-investigated-active-methodology-dentistry.md) — related
+- PBL is the most investigated active teaching methodology in undergraduate dentistry, followed by flipped classroom and gamification — related
 - [PBL and flipped classrooms frequently show better post-test performance and knowledge retention than traditional methods](pbl-flipped-better-post-test-performance.md) — reports the opposite
 - [Several included studies found haptic VR training equivalent rather than superior to conventional dental training](ir-dental-equivalence-mixed-findings.md) — a narrower finding that bears on this claim
 - [Manikin-based simulation produced equal or superior competency outcomes versus traditional clinical practice, except in the Patient Safety domain](manikin-simulation-competency-versus-clinical.md) — related

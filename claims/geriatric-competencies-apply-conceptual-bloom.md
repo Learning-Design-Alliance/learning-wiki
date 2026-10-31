@@ -63,7 +63,7 @@ Results-section distribution of the cognitive process dimension across the 257 c
 
 
 ## Related Claims
-- [Only ten studies met inclusion criteria, yielding 257 core competencies across 18 domains](ten-studies-257-competencies-18-domains.md) — related
+- Only ten studies met inclusion criteria, yielding 257 core competencies across 18 domains — related
 - [Geriatric core competencies for physicians, medical students, and nurses most frequently cover disease and comorbidities, pharmacologic/medication management, and cognitive/dementia problems](most-frequent-geriatric-competencies-disease-medication-cognition.md) — related
 - [The most emphasized geriatric core competencies fall under the ACGME 'patient care' category](geriatric-competencies-map-to-acgme-patient-care.md) — related
 - [Grading time varied systematically with Bloom's taxonomy category: procedural knowledge was fastest to grade and conceptual knowledge slowest](grading-time-varies-with-bloom-taxonomy-category.md) — related

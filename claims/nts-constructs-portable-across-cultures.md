@@ -47,6 +47,6 @@ The review notes that inclusion of studies "from North America, Europe, and Asia
 ## Related Claims
 - [Geographical region significantly moderates AI literacy intervention effects, with Europe and East Asia outperforming North America](geographic-region-moderates-ai-literacy-effects.md) — related
 - [ECE effects are significant in Europe and Asia but did not reach statistical significance in the Americas](ece-geographic-subgroup-effects.md) — related
-- [Low-cost simulation studies in nursing span multiple continents, with 89.7% conducted on a single continent and North America the most common location](scoping-review-low-cost-simulation-geographic-distribution.md) — related
+- Low-cost simulation studies in nursing span multiple continents, with 89.7% conducted on a single continent and North America the most common location — related
 - [The GTA literature is skewed towards the Global North and largely omits patient perspectives, despite patient-centred justifications for GTA programmes](gta-literature-gaps-patient-voice-global-north.md) — related
 - [NTS training for emergency department professionals is associated with consistent pre- to post-training improvements in knowledge, teamwork attitudes, and self-confidence (low to moderate certainty).](nts-training-improves-ed-learning-outcomes.md) — a narrower finding that bears on this claim

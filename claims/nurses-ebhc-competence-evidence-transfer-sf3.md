@@ -50,7 +50,7 @@ JBI meta‐aggregation synthesising 18 findings from the included qualitative st
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [Ongoing professional development and mentorship are critical to coaches' growth and confidence in their coaching skills](ongoing-pd-mentorship-critical-coach-growth.md) — related
 - [Training transfer among neurosurgical specialty nurses is an adaptive reconstruction process, not linear replication of training content](training-transfer-as-adaptive-reconstruction.md) — related
-- [Organizational empowerment through clear role positioning and multidisciplinary support enables sustained training transfer](organizational-empowerment-enables-transfer.md) — related
+- [Specialty nurses and their managers describe clear role positioning and multidisciplinary support as facilitating training transfer](organizational-empowerment-enables-transfer.md) — related
 - [Nurses' competence in global health comprises foundations of evidence‐based practice, continuous professional growth and evolution, and knowledge gaps and learning barriers](nurses-ebhc-competence-global-health-sf1.md) — related
 - [Communities of practice emerged as vital to sustaining GHD capacity, with peer learning, mentorship, and tacit knowledge-sharing complementing formal training](communities-of-practice-sustain-ghd-capacity.md) — related
 - [Associations of work experience and age with nurses' EBHC competence are mixed, with both shorter and longer durations and both younger and older age reported as positive](mixed-work-experience-age-associations-ebhc-competence.md) — related

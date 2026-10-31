@@ -45,6 +45,6 @@ The review's own synthesis of its systematic search across seven databases up to
 
 
 ## Related Claims
-- [Internal structure is the most reported source of validity evidence (90%), while response processes (10%) and consequences (11%) are rarely reported](internal-structure-most-reported-response-process-consequences-rare.md) — a narrower finding that bears on this claim
-- [Mean MERSQI methodological quality score of included studies was 12.7 (SD 1.4; range 8–16 of 18)](mersqi-mean-12-7-range-8-16.md) — a narrower finding that bears on this claim
-- [Only 10% of CSA studies reported using a validity framework such as Messick's or Kane's](validity-framework-use-ten-percent.md) — related
+- Internal structure is the most reported source of validity evidence (90%), while response processes (10%) and consequences (11%) are rarely reported — a narrower finding that bears on this claim
+- Mean MERSQI methodological quality score of included studies was 12.7 (SD 1.4; range 8–16 of 18) — a narrower finding that bears on this claim
+- Only 10% of CSA studies reported using a validity framework such as Messick's or Kane's — related

@@ -47,6 +47,6 @@ The review's synthesis found that "Long‐term follow‐up studies provided inco
 ## Related Claims
 - [Evidence on long-term retention and transfer of clinical communication skills to clinical practice remained inconsistent or lacking across included reviews](vp-communication-long-term-retention-transfer-inconsistent.md) — related
 - [Short-term, non-longitudinal training programmes pose challenges for estimating long-term skill retention](short-term-training-challenges-long-term-skill-retention.md) — possibly the same claim (merge candidate)
-- [Five research gaps were identified: lack of explicit empathy definitions, limited scenario diversity, absence of repeated interventions, self-report limitations, and insufficient long-term outcome evidence](five-research-gaps-vp-empathy-review.md) — related
+- Five research gaps were identified: lack of explicit empathy definitions, limited scenario diversity, absence of repeated interventions, self-report limitations, and insufficient long-term outcome evidence — related
 - [Empathy and communication interventions show short-term gains but evidence on persistence over time is inconsistent](soft-skills-intervention-gains-not-sustained.md) — related
-- [PBL is the most investigated active teaching methodology in undergraduate dentistry, followed by flipped classroom and gamification](pbl-most-investigated-active-methodology-dentistry.md) — related
+- PBL is the most investigated active teaching methodology in undergraduate dentistry, followed by flipped classroom and gamification — related

@@ -52,4 +52,4 @@ Random-effects meta-analysis of 14 randomized controlled studies (408 vs 410 res
 - [Narrative medicine education improves residents' procedural skill scores compared with lecture-based learning](narrative-medicine-improves-procedural-skill.md) — related
 - [Residents report higher satisfaction with narrative medicine education than lecture-based learning, but the effect is not robust to publication-bias adjustment](narrative-medicine-satisfaction-publication-bias.md) — related
 - [Narrative medicine education shows no significant effect on residents' theoretical knowledge scores compared with lecture-based learning](narrative-medicine-no-effect-theoretical-knowledge.md) — related
-- [Empathy was assessed primarily through questionnaires and semi-structured interviews; only two studies used objective indicators such as facial emotion recognition](empathy-assessment-methods-questionnaire-dominance.md) — related
+- Empathy was assessed primarily through questionnaires and semi-structured interviews; only two studies used objective indicators such as facial emotion recognition — related

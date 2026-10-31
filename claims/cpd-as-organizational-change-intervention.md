@@ -46,6 +46,6 @@ Authors' interpretation in the discussion section of the scoping review. The aut
 
 ## Related Claims
 - [Organizational support, clear protocols, and ongoing reinforcement are associated with the most impactful CPD interventions](cpd-organizational-support-protocols-reinforcement.md) — related
-- [Most CPD evaluations focus on lower-level outcomes (knowledge and competence) with few studies examining patient and population health outcomes](cpd-evaluations-focus-lower-kirkpatrick-levels.md) — related
+- Most CPD evaluations focus on lower-level outcomes (knowledge and competence) with few studies examining patient and population health outcomes — related
 - [Teacher activities in CHSRI small schools' professional communities were primarily oriented toward supportive rather than developmental practices](chrsi-teachers-oriented-toward-supportive-practices.md) — related
 - [Sustained interventions with regular reinforcement show more substantial improvements than short-term CPD programs](sustained-cpd-reinforcement-superior-outcomes.md) — related

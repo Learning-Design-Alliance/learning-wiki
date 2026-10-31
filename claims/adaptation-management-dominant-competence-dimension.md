@@ -45,6 +45,6 @@ Competence-dimension frequency analysis across the 23 studies reports "adaptatio
 
 
 ## Related Claims
-- [Communication skills are the most frequent focus area (42%) of research on digital technologies in intercultural competence teaching](communication-skills-dominant-focus-area.md) — related
+- Communication skills are the most frequent focus area (42%) of research on digital technologies in intercultural competence teaching — related
 - [Experts rank Curriculum System and Content Design as the highest-priority dimension for AI certificate program evaluation, with Cross-Cultural Adaptability lowest](expert-priority-hierarchy-ai-certificate-dimensions.md) — related
 - [Digital platforms are the most used technology (68.18%) for teaching intercultural competences, followed by pedagogical approaches such as COIL (45.45%)](digital-platforms-most-used-technology-intercultural-teaching.md) — related

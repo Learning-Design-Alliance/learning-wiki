@@ -47,4 +47,4 @@ Nonequivalent control group quasi-experiment; all 168 pupils pre- and post-teste
 
 ## Related Claims
 - [High pupil learning gains were not related to a high extent of teacher technology integration; junior classes gained more than senior class 2b](learning-gains-not-related-to-integration-extent.md) — related
-- [Most included studies used quasi-experimental designs with single-group pre-post or repeated-measure structures](quasi-experimental-designs-dominate-documentation-studies.md) — related
+- Most included studies used quasi-experimental designs with single-group pre-post or repeated-measure structures — related

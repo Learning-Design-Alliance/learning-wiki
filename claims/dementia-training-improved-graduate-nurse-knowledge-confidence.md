@@ -47,6 +47,6 @@ Case report of dementia care training for newly graduated nurses; "all participa
 ## Related Claims
 - [Graduate nurses have little confidence in caring for people with dementia due to lack of knowledge and experience](graduate-nurses-low-confidence-dementia-care.md) — related
 - [No studies have assessed the dementia care knowledge, confidence and experience of graduate nurses caring for people living with dementia](no-studies-assess-graduate-nurse-dementia-knowledge.md) — related
-- [Only six qualitative studies on graduate nurses caring for people living with dementia were identified](six-qualitative-studies-graduate-nurses-dementia-care.md) — related
+- Only six qualitative studies on graduate nurses caring for people living with dementia were identified — related
 - [Barriers graduate nurses face in dementia care are similar to those of experienced nurses, with supportive colleagues and early exposure as facilitators](graduate-nurse-dementia-care-barriers-facilitators.md) — related
 - [A docudrama helped graduate nurses gain empathy and understanding of families experiencing dementia](docudrama-built-graduate-nurse-empathy-dementia.md) — related

@@ -49,4 +49,4 @@ Aggregation of competencies across the 16 included publications, with counts per
 - [Assessment commonly relied on reflective practice and multi-source feedback, with organizational competencies infrequently assessed](mlm-assessment-reflective-multisource-feedback.md) — related
 - [Balanced SEL frameworks cover intrapersonal, interpersonal, and cognitive competencies and mix skills, knowledge, and attitudes](balance-criterion-intrapersonal-interpersonal-cognitive-competencies.md) — related
 - [EdTech messaging about AI over-emphasizes individual, cognitive learning while curricular frameworks emphasize social, contextual learning](edtech-ai-messaging-individual-vs-social-curricula.md) — related
-- [Sixteen publications met inclusion criteria in a scoping review of MLM competency frameworks in undergraduate medical education](scoping-review-16-publications-mlm-ume.md) — related
+- Sixteen publications met inclusion criteria in a scoping review of MLM competency frameworks in undergraduate medical education — related

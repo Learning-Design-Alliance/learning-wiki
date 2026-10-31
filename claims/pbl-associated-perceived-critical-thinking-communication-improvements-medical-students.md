@@ -50,7 +50,7 @@ The scoping review's synthesis of eight included studies, all cross-sectional, f
 - [Critical Thinking](../learner-variables/critical-thinking.md) — outcome: instruction changes it
 
 ## Related Claims
-- [PBL remains effective in developing critical thinking and communication skills in resource-limited settings, with collaborative discussion compensating for infrastructural constraints](pbl-effective-resource-limited-settings-collaboration-compensates.md) — a narrower finding that bears on this claim
+- [Cross-sectional studies in resource-limited settings suggest PBL is associated with perceived critical-thinking and communication gains, with collaborative discussion possibly compensating for infrastructural constraints](pbl-effective-resource-limited-settings-collaboration-compensates.md) — a narrower finding that bears on this claim
 - [First-year medical students in the single first-year-focused study reported high engagement (97%) and perceived improved teamwork (87%) with PBL](first-year-students-high-engagement-teamwork-pbl.md) — related
-- [All eight included studies were cross-sectional, conducted in Asia, and most lacked a comparator](pbl-review-studies-cross-sectional-asia-no-comparator.md) — related
+- All eight included studies were cross-sectional, conducted in Asia, and most lacked a comparator — related
 - [AI-based educational technology use is positively associated with critical thinking among undergraduate medical students](ai-use-positively-associated-critical-thinking-medical-students.md) — related

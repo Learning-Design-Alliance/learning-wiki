@@ -47,5 +47,5 @@ The review's synthesis of reporting practices across included studies found that
 
 ## Related Claims
 - [National demographic data show significant differential attainment on prescribing-related assessments by age, sex and ethnicity](differential-attainment-national-prescribing-assessments.md) — related
-- [Quality assessment of EPAs and cost implications were not specifically evident in the included studies.](quality-assessment-and-cost-not-evident-in-studies.md) — possibly the same claim (merge candidate)
+- Quality assessment of EPAs and cost implications were not specifically evident in the included studies. — possibly the same claim (merge candidate)
 - [Written knowledge tests, OSCEs and situational judgement tests all show predictive validity for later clinical performance](assessments-predictive-validity-later-clinical-performance.md) — related

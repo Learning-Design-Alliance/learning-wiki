@@ -49,5 +49,5 @@ Qualitative synthesis of the six included studies' intervention characteristics,
 - Only six studies of simulation-based education about D/deaf patient experiences met inclusion criteria, indicating a paucity of evidence — related
 - [Two included studies were Deaf-led or user-centred, developing simulation content from data gathered with Deaf communities from the start](deaf-led-user-centred-simulation-development.md) — related
 - Included studies reported improved comfort, confidence and empathy, but used no standardised outcome measures — related
-- [Only a minority of included trials used AR or mixed reality; roughly 88% evaluated purely VR simulations](majority-of-trials-purely-vr-minority-ar.md) — related
+- Only a minority of included trials used AR or mixed reality; roughly 88% evaluated purely VR simulations — related
 - [Response-to-stimulus writing activities were the most frequently used pedagogical method across included studies](response-to-stimulus-writing-most-common-method.md) — related

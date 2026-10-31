@@ -17,7 +17,7 @@ sources:
 # Integrate MLM education longitudinally with experiential learning and robust program evaluation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The review recommends embedding MLM as a longitudinal, explicitly structured component of UME. It concludes that "Embedding MLM as a longitudinal, explicitly structured component of UME, supported by experiential learning opportunities and robust program evaluation, can better prepare future physicians to lead effectively in increasingly complex and evolving healthcare systems." This addresses the current underemphasis on systems-based leadership and the absence of long-term evaluation.
@@ -40,9 +40,7 @@ The review recommends embedding MLM as a longitudinal, explicitly structured com
 
 - [Assessment commonly relied on reflective practice and multi-source feedback, with organizational competencies infrequently assessed](../claims/mlm-assessment-reflective-multisource-feedback.md) [+W]
 - [Curricula predominantly featured interactive and experiential teaching methods such as simulation and project-based learning](../claims/mlm-curricula-interactive-experiential-methods.md) [+W]
-- [Longitudinal program evaluation strategies were described in only three studies](../claims/mlm-longitudinal-evaluation-rare.md) [+W]
 - [Intrapersonal and interpersonal competencies are widely represented across curricula whereas organizational-level competencies appear in relatively few studies](../claims/mlm-organizational-competencies-underrepresented.md) [+W]
-- [Sixteen publications met inclusion criteria in a scoping review of MLM competency frameworks in undergraduate medical education](../claims/scoping-review-16-publications-mlm-ume.md) [+W]
 
 ## Related Strategies
 

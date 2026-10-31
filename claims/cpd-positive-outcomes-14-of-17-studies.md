@@ -45,7 +45,7 @@ Scoping review of 17 studies meeting inclusion criteria from 1562 records screen
 
 
 ## Related Claims
-- [Most CPD evaluations focus on lower-level outcomes (knowledge and competence) with few studies examining patient and population health outcomes](cpd-evaluations-focus-lower-kirkpatrick-levels.md) — related
+- Most CPD evaluations focus on lower-level outcomes (knowledge and competence) with few studies examining patient and population health outcomes — related
 - [Simulation-based education combined with workflow redesign improved ICU nurses' delirium-assessment documentation rates on day and night shifts](sbe-delirium-documentation-improvement-icu.md) — related
 - [Simulation-based education increases post-registration nurses' odds of satisfactory observed delirium-care practice at 6 weeks in a cluster RCT](sbe-delirium-odds-satisfactory-practice-rct.md) — related
 - [Multi-component CPD interventions outperform single-approach strategies in improving patient outcomes](multicomponent-cpd-outperforms-single-approach.md) — related

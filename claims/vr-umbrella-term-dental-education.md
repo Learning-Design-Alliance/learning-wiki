@@ -45,5 +45,5 @@ Narrative synthesis of definitions extracted from the 141 included articles. The
 
 
 ## Related Claims
-- [141 articles from 2004 to 2024 were selected and categorised into VR, MR, AR, AV and CS](141-articles-categorised-xr-dental.md) — related
-- [Terminology for XR in dental education lacks consistency, with 70% of related medical digital simulation articles misidentified or misclassified](xr-terminology-inconsistency-dental-education.md) — a broader claim this one bears on
+- 141 articles from 2004 to 2024 were selected and categorised into VR, MR, AR, AV and CS — related
+- Terminology for XR in dental education lacks consistency, with 70% of related medical digital simulation articles misidentified or misclassified — a broader claim this one bears on

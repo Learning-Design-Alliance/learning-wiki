@@ -50,4 +50,4 @@ The introduction's summary of the Planey, Rajarathinam, Mercier, and Lindgren qu
 - [Young children collaboratively develop their own gestures to represent and explain challenging science concepts in a mixed-reality environment](young-children-collaborative-gestures-mr-science.md) — related
 - [The editorial reports that immersive VR became a resource for collaborative meaning making through 'emancipatory immersion' (Silseth et al.)](vr-collaborative-meaning-making-emancipatory-immersion.md) — related
 - [Collaborative gestures are associated with higher performance than individual gestures, per studies the review cites](collaborative-gestures-higher-performance.md) — related
-- [Only a minority of included trials used AR or mixed reality; roughly 88% evaluated purely VR simulations](majority-of-trials-purely-vr-minority-ar.md) — related
+- Only a minority of included trials used AR or mixed reality; roughly 88% evaluated purely VR simulations — related

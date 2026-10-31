@@ -59,4 +59,4 @@ Descriptive findings of the scoping review of 83 sources: 44 from North America,
 - [The vast majority of academic global surgery programs are based in the Region of the Americas (North America), particularly in high-income countries](ags-programs-concentrated-in-north-america.md) — a narrower finding that bears on this claim
 - [Most health diplomacy training initiatives originated in the United States, followed by Europe, South Asia, and the Middle East](health-diplomacy-training-global-north-dominance.md) — related
 - [Similar behavioural domains improved across diverse organisational cultures in North America, Europe, and Asia, suggesting core NTS constructs are portable and adaptable locally.](nts-constructs-portable-across-cultures.md) — related
-- [More than half of the included records were published by authors in the United States, with no records originating from South American or African countries.](records-usa-dominant-no-south-american-african-countries.md) — related
+- More than half of the included records were published by authors in the United States, with no records originating from South American or African countries. — related

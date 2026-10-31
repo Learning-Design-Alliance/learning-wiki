@@ -17,7 +17,7 @@ sources:
 # Support psychotherapy competence development through supervision, continuing education, communities of practice, and experience
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The review identifies four methods occupational therapists use to attain and maintain psychotherapy competence: entry-to-practice education, continuing education and training, learning from others, and experience. The authors report that "Thirteen articles recommended that supervision be available to those using psychotherapy, to help develop skills, implement training, determine future training needs, and ultimately maintain competence." Communities of practice, webinars, professional study groups, and discussing psychotherapy with experienced therapists are also reported to improve skills and confidence.
@@ -39,7 +39,6 @@ The review identifies four methods occupational therapists use to attain and mai
 
 ## Claims
 
-- [Attaining and Maintaining Competence is the largest subtheme, covering 87.5% of included articles](../claims/attaining-maintaining-competence-largest-subtheme.md) [+W]
 - [Experienced occupational therapists are more likely to feel competent delivering psychotherapy](../claims/experience-linked-ot-psychotherapy-competence-confidence.md) [+W]
 - [No consistent pathway exists for occupational therapists to attain psychotherapy competence](../claims/no-consistent-pathway-ot-psychotherapy-competence.md) [+W]
 

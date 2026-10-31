@@ -17,7 +17,7 @@ sources:
 # Include dementia care in the undergraduate nursing curriculum
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The review reports that three included studies recommended that "caring for people living with dementia should be a part of the undergraduate curriculum." Rationales include dispelling negative stereotypes about ageing, preventing graduates being "thrown in the deep end," and improving graduate confidence and competency. The review's recommendation section calls for assessing undergraduate curricula for sufficient dementia care focus.
@@ -45,7 +45,6 @@ The review reports that three included studies recommended that "caring for peop
 - [A docudrama helped graduate nurses gain empathy and understanding of families experiencing dementia](../claims/docudrama-built-graduate-nurse-empathy-dementia.md) [+W]
 - [Barriers graduate nurses face in dementia care are similar to those of experienced nurses, with supportive colleagues and early exposure as facilitators](../claims/graduate-nurse-dementia-care-barriers-facilitators.md) [+W]
 - [Dementia care training improved graduate nurses' knowledge and confidence in caring for people living with dementia](../claims/dementia-training-improved-graduate-nurse-knowledge-confidence.md) [+W]
-- [Only six qualitative studies on graduate nurses caring for people living with dementia were identified](../claims/six-qualitative-studies-graduate-nurses-dementia-care.md) [+W]
 - [No studies have assessed the dementia care knowledge, confidence and experience of graduate nurses caring for people living with dementia](../claims/no-studies-assess-graduate-nurse-dementia-knowledge.md) [+W]
 
 ## Related Strategies

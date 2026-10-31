@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":35615,
+"claim":35553,
 "design":1354,
 "element":1057,
 "learner-variable":75,
@@ -1677,16 +1677,6 @@
 "type":"claim"
 },
 {
-"description":"141 articles from 2004 to 2024 were selected and categorised into VR, MR, AR, AV and CS",
-"evidence_strength":"moderate",
-"id":"141-articles-categorised-xr-dental",
-"newest_evidence":"2025",
-"path":"claims/141-articles-categorised-xr-dental.md",
-"status":"review",
-"title":"141 articles from 2004 to 2024 were selected and categorised into VR, MR, AR, AV and CS",
-"type":"claim"
-},
-{
 "description":"Only 15 states and the District of Columbia mandate kindergarten attendance, and 11 of those states require students to take a KEA",
 "evidence_strength":"moderate",
 "id":"15-states-mandate-kindergarten-attendance",
@@ -1718,16 +1708,6 @@
 "source_checked":"2026-10-20",
 "status":"review",
 "title":"16PF-derived predicted-effectiveness indices correlate with supervisor and client ratings (.41, .87), but the review judges use of the 16PF for trainee selection premature",
-"type":"claim"
-},
-{
-"description":"The review included 19 studies, predominantly from the United States (n=9) and Canada (n=5), with heterogeneous methodological quality",
-"evidence_strength":"moderate",
-"id":"19-studies-included-heterogeneous-quality",
-"newest_evidence":"2025",
-"path":"claims/19-studies-included-heterogeneous-quality.md",
-"status":"review",
-"title":"The review included 19 studies, predominantly from the United States (n=9) and Canada (n=5), with heterogeneous methodological quality",
 "type":"claim"
 },
 {
@@ -21676,16 +21656,6 @@
 "type":"claim"
 },
 {
-"description":"Research on digital technologies in intercultural competence teaching is concentrated in the Americas and Europe (78%), led by Mexico (15%)",
-"evidence_strength":"moderate",
-"id":"americas-europe-concentration-intercultural-digital-research",
-"newest_evidence":"2025",
-"path":"claims/americas-europe-concentration-intercultural-digital-research.md",
-"status":"review",
-"title":"Research on digital technologies in intercultural competence teaching is concentrated in the Americas and Europe (78%), led by Mexico (15%)",
-"type":"claim"
-},
-{
 "description":"During the pilot, interaction sessions remained bounded in duration and frequency, and dependency-related risk signals were rare and addressed through prompts encouraging human contact",
 "evidence_strength":"weak",
 "id":"amico-bounded-usage-rare-dependency-signals",
@@ -21947,16 +21917,6 @@
 "path":"claims/anaerobic-sprint-bdnf-associative-learning.md",
 "status":"review",
 "title":"Short-duration anaerobic sprint exercise speeds vocabulary-type associative learning by 20% with increased serum BDNF that correlates with learning success",
-"type":"claim"
-},
-{
-"description":"Included studies were limited by small participant cohorts and single-centre designs",
-"evidence_strength":"weak",
-"id":"anaesthesia-e-learning-small-cohorts-limitation",
-"newest_evidence":"2025",
-"path":"claims/anaesthesia-e-learning-small-cohorts-limitation.md",
-"status":"review",
-"title":"Included studies were limited by small participant cohorts and single-centre designs",
 "type":"claim"
 },
 {
@@ -24945,16 +24905,6 @@
 "type":"claim"
 },
 {
-"description":"AR was defined in 50 studies, most frequently as a superimposition of digital information on the real world",
-"evidence_strength":"moderate",
-"id":"ar-defined-50-studies-superimposition",
-"newest_evidence":"2025",
-"path":"claims/ar-defined-50-studies-superimposition.md",
-"status":"review",
-"title":"AR was defined in 50 studies, most frequently as a superimposition of digital information on the real world",
-"type":"claim"
-},
-{
 "description":"AR effect sizes do not differ significantly between Natural Sciences and Social Sciences, though the descriptive Natural Sciences effect is higher (0.562 vs 0.409)",
 "evidence_strength":"moderate",
 "id":"ar-effect-educational-area-no-significant-difference",
@@ -27247,16 +27197,6 @@
 "type":"claim"
 },
 {
-"description":"Assessment and metrics (82.61%) is the most proposed future research line, including evaluating digital pedagogical strategies in multicultural contexts (21.74%)",
-"evidence_strength":"moderate",
-"id":"assessment-metrics-top-future-research-line",
-"newest_evidence":"2025",
-"path":"claims/assessment-metrics-top-future-research-line.md",
-"status":"review",
-"title":"Assessment and metrics (82.61%) is the most proposed future research line, including evaluating digital pedagogical strategies in multicultural contexts (21.74%)",
-"type":"claim"
-},
-{
 "description":"Teachers' felt need for clear assessment of CLEs was mostly not accompanied by awareness of new student competencies in the CLE classroom",
 "evidence_strength":"moderate",
 "id":"assessment-need-not-accompanied-by-new-competency-awareness",
@@ -28297,16 +28237,6 @@
 "recheck_by":"2027",
 "status":"review",
 "title":"The insertion attack succeeds primarily on low-confidence predictions, where soon-to-be adversarial examples receive probabilities between roughly 0.45 and 0.65",
-"type":"claim"
-},
-{
-"description":"Attaining and Maintaining Competence is the largest subtheme, covering 87.5% of included articles",
-"evidence_strength":"moderate",
-"id":"attaining-maintaining-competence-largest-subtheme",
-"newest_evidence":"2025",
-"path":"claims/attaining-maintaining-competence-largest-subtheme.md",
-"status":"review",
-"title":"Attaining and Maintaining Competence is the largest subtheme, covering 87.5% of included articles",
 "type":"claim"
 },
 {
@@ -29556,16 +29486,6 @@
 "type":"claim"
 },
 {
-"description":"All six included studies were conducted in Australia, highlighting a void of published literature on EPAs in nutrition and dietetics education outside Australia.",
-"evidence_strength":"moderate",
-"id":"australian-only-epa-literature-void",
-"newest_evidence":"2025",
-"path":"claims/australian-only-epa-literature-void.md",
-"status":"review",
-"title":"All six included studies were conducted in Australia, highlighting a void of published literature on EPAs in nutrition and dietetics education outside Australia.",
-"type":"claim"
-},
-{
 "description":"Combining authentic assessment with collaborative learning activities characterizes high-effectiveness cognitive studies and is absent from low-effectiveness studies",
 "evidence_strength":"weak",
 "id":"authentic-assessment-collaboration-high-effectiveness",
@@ -29944,26 +29864,6 @@
 "path":"claims/autism-outcome-research-geographic-concentration.md",
 "status":"review",
 "title":"Educational outcome research for autistic students is geographically concentrated in North America and Europe, with no disciplinary or attendance items from Asia or South America",
-"type":"claim"
-},
-{
-"description":"Reporting of demographic characteristics in educational outcome research for autistic students is limited, with ethnicity, socio-economic status and co-occurring conditions rarely reported",
-"evidence_strength":"moderate",
-"id":"autism-outcome-research-limited-demographic-reporting",
-"newest_evidence":"2026",
-"path":"claims/autism-outcome-research-limited-demographic-reporting.md",
-"status":"review",
-"title":"Reporting of demographic characteristics in educational outcome research for autistic students is limited, with ethnicity, socio-economic status and co-occurring conditions rarely reported",
-"type":"claim"
-},
-{
-"description":"Educational outcome research for autistic students has predominantly focused on academic achievement, with few items investigating disciplinary or attendance outcomes",
-"evidence_strength":"moderate",
-"id":"autism-outcome-research-predominantly-academic",
-"newest_evidence":"2026",
-"path":"claims/autism-outcome-research-predominantly-academic.md",
-"status":"review",
-"title":"Educational outcome research for autistic students has predominantly focused on academic achievement, with few items investigating disciplinary or attendance outcomes",
 "type":"claim"
 },
 {
@@ -37286,6 +37186,7 @@
 "id":"blended-flipped-classroom-anaesthesia",
 "newest_evidence":"2025",
 "path":"claims/blended-flipped-classroom-anaesthesia.md",
+"source_checked":"2026-10-31",
 "status":"review",
 "title":"Blended learning or flipped classroom models may combine e-learning and traditional modalities",
 "type":"claim"
@@ -52724,16 +52625,6 @@
 "type":"claim"
 },
 {
-"description":"Reliability evidence in prescribing assessment studies generally employs Classical Test Theory",
-"evidence_strength":"moderate",
-"id":"classical-test-theory-prescribing-assessment-reliability",
-"newest_evidence":"2025",
-"path":"claims/classical-test-theory-prescribing-assessment-reliability.md",
-"status":"review",
-"title":"Reliability evidence in prescribing assessment studies generally employs Classical Test Theory",
-"type":"claim"
-},
-{
 "description":"Classification accuracy met or exceeded benchmarks for 19 of 22 LO-assessment combinations, with three EMCS energy LOs below the acceptable range",
 "evidence_strength":"moderate",
 "id":"classification-accuracy-22-lo-combinations",
@@ -60564,16 +60455,6 @@
 "path":"claims/communication-most-operationalized-domain.md",
 "status":"review",
 "title":"Communication is the most extensively operationalized domain, with over 80 individual outcomes across all seven frameworks",
-"type":"claim"
-},
-{
-"description":"Communication skills are the most frequent focus area (42%) of research on digital technologies in intercultural competence teaching",
-"evidence_strength":"moderate",
-"id":"communication-skills-dominant-focus-area",
-"newest_evidence":"2025",
-"path":"claims/communication-skills-dominant-focus-area.md",
-"status":"review",
-"title":"Communication skills are the most frequent focus area (42%) of research on digital technologies in intercultural competence teaching",
 "type":"claim"
 },
 {
@@ -70881,16 +70762,6 @@
 "type":"claim"
 },
 {
-"description":"Most CPD evaluations focus on lower-level outcomes (knowledge and competence) with few studies examining patient and population health outcomes",
-"evidence_strength":"weak",
-"id":"cpd-evaluations-focus-lower-kirkpatrick-levels",
-"newest_evidence":"2025",
-"path":"claims/cpd-evaluations-focus-lower-kirkpatrick-levels.md",
-"status":"review",
-"title":"Most CPD evaluations focus on lower-level outcomes (knowledge and competence) with few studies examining patient and population health outcomes",
-"type":"claim"
-},
-{
 "description":"Organizational support, clear protocols, and ongoing reinforcement are associated with the most impactful CPD interventions",
 "evidence_strength":"moderate",
 "id":"cpd-organizational-support-protocols-reinforcement",
@@ -74744,16 +74615,6 @@
 "recheck_by":"2031",
 "status":"review",
 "title":"Students' LLM use in CS2 fell into three themes: understanding, assisting code writing, and writing code, with only a few using LLMs to write code",
-"type":"claim"
-},
-{
-"description":"Only 18% of studies provided a definition of communication skills and only 37% reported a communication framework",
-"evidence_strength":"moderate",
-"id":"csa-construct-definition-rarely-reported",
-"newest_evidence":"2025",
-"path":"claims/csa-construct-definition-rarely-reported.md",
-"status":"review",
-"title":"Only 18% of studies provided a definition of communication skills and only 37% reported a communication framework",
 "type":"claim"
 },
 {
@@ -90351,6 +90212,7 @@
 "id":"docudrama-built-graduate-nurse-empathy-dementia",
 "newest_evidence":"2025",
 "path":"claims/docudrama-built-graduate-nurse-empathy-dementia.md",
+"source_checked":"2026-10-31",
 "status":"review",
 "title":"A docudrama helped graduate nurses gain empathy and understanding of families experiencing dementia",
 "type":"claim"
@@ -96410,6 +96272,7 @@
 "id":"ece-improves-communication-skills-perceptions",
 "newest_evidence":"2025",
 "path":"claims/ece-improves-communication-skills-perceptions.md",
+"source_checked":"2026-10-31",
 "status":"review",
 "title":"Most medical students report that early clinical exposure improves their communication skills",
 "type":"claim"
@@ -96466,13 +96329,14 @@
 "type":"claim"
 },
 {
-"description":"Students perceive that early clinical exposure improves problem-solving, professionalism, and confidence",
+"description":"Students perceive that early clinical exposure improves problem-solving and confidence, and many redefine their understanding of professionalism",
 "evidence_strength":"weak",
 "id":"ece-perceived-problem-solving-professionalism-confidence",
 "newest_evidence":"2025",
 "path":"claims/ece-perceived-problem-solving-professionalism-confidence.md",
+"source_checked":"2026-10-31",
 "status":"review",
-"title":"Students perceive that early clinical exposure improves problem-solving, professionalism, and confidence",
+"title":"Students perceive that early clinical exposure improves problem-solving and confidence, and many redefine their understanding of professionalism",
 "type":"claim"
 },
 {
@@ -100474,16 +100338,6 @@
 "type":"claim"
 },
 {
-"description":"Eight health diplomacy training initiatives and frameworks published between 2017 and 2025 were identified in the scoping review",
-"evidence_strength":"moderate",
-"id":"eight-health-diplomacy-initiatives-2017-2025",
-"newest_evidence":"2025",
-"path":"claims/eight-health-diplomacy-initiatives-2017-2025.md",
-"status":"review",
-"title":"Eight health diplomacy training initiatives and frameworks published between 2017 and 2025 were identified in the scoping review",
-"type":"claim"
-},
-{
 "description":"Review analysis uncovered eight mediating factors for students' understanding of graphing motion, mentioned in 127 instances across the 62 learning environments",
 "evidence_strength":"moderate",
 "id":"eight-mediating-factors-embodied-graphing-motion",
@@ -103662,16 +103516,6 @@
 "type":"claim"
 },
 {
-"description":"Empathy was assessed primarily through questionnaires and semi-structured interviews; only two studies used objective indicators such as facial emotion recognition",
-"evidence_strength":"moderate",
-"id":"empathy-assessment-methods-questionnaire-dominance",
-"newest_evidence":"2025",
-"path":"claims/empathy-assessment-methods-questionnaire-dominance.md",
-"status":"review",
-"title":"Empathy was assessed primarily through questionnaires and semi-structured interviews; only two studies used objective indicators such as facial emotion recognition",
-"type":"claim"
-},
-{
 "description":"Educators in a UDL Math and Design Thinking professional development attributed shifts in their beliefs and practices to empathy, both as a value and as a practice of empathy interviews",
 "evidence_strength":"moderate",
 "id":"empathy-attributed-shifts-beliefs-practices-udl-math-pd",
@@ -103689,16 +103533,6 @@
 "path":"claims/empathy-checklist-item-largest-gain.md",
 "status":"review",
 "title":"The largest checklist-item gain from multi-agent scaffolding was in observable empathic expression, with additional gains in selected history-taking items",
-"type":"claim"
-},
-{
-"description":"Sixteen of 19 studies explicitly defined empathy, most commonly combining cognitive and affective components; no study defined empathy solely as affective",
-"evidence_strength":"moderate",
-"id":"empathy-definitions-cognitive-affective-patterns",
-"newest_evidence":"2025",
-"path":"claims/empathy-definitions-cognitive-affective-patterns.md",
-"status":"review",
-"title":"Sixteen of 19 studies explicitly defined empathy, most commonly combining cognitive and affective components; no study defined empathy solely as affective",
 "type":"claim"
 },
 {
@@ -116304,6 +116138,7 @@
 "newest_evidence":"2025",
 "path":"claims/faculty-sbmcqs-superior-discrimination.md",
 "recheck_by":"2028",
+"source_checked":"2026-10-31",
 "status":"review",
 "title":"Faculty-generated SBMCQs showed superior discrimination indices and distractor effectiveness compared with ChatGPT-generated SBMCQs",
 "type":"claim"
@@ -123081,16 +122916,6 @@
 "path":"claims/five-recommendations-together-improve-achievement.md",
 "status":"review",
 "title":"Implementing the guide's five recommendations together improves students' math achievement, while no component's isolated effectiveness was established",
-"type":"claim"
-},
-{
-"description":"Five research gaps were identified: lack of explicit empathy definitions, limited scenario diversity, absence of repeated interventions, self-report limitations, and insufficient long-term outcome evidence",
-"evidence_strength":"moderate",
-"id":"five-research-gaps-vp-empathy-review",
-"newest_evidence":"2025",
-"path":"claims/five-research-gaps-vp-empathy-review.md",
-"status":"review",
-"title":"Five research gaps were identified: lack of explicit empathy definitions, limited scenario diversity, absence of repeated interventions, self-report limitations, and insufficient long-term outcome evidence",
 "type":"claim"
 },
 {
@@ -130477,6 +130302,7 @@
 "id":"game-based-interventions-improve-visuospatial-short-term-memory-adhd",
 "newest_evidence":"2025",
 "path":"claims/game-based-interventions-improve-visuospatial-short-term-memory-adhd.md",
+"source_checked":"2026-10-31",
 "status":"review",
 "title":"Game-based digital interventions significantly improve visuospatial short-term memory in children and adolescents with ADHD",
 "type":"claim"
@@ -137078,16 +136904,6 @@
 "path":"claims/gender-reading-outcomes-depend-on-phonics-method.md",
 "status":"review",
 "title":"Gender differences in reading outcomes at age 10 depend on the type of phonics teaching received in early literacy programmes",
-"type":"claim"
-},
-{
-"description":"Gender was reported only as a binary characteristic across all included items, despite elevated prevalence of gender diversity among autistic people",
-"evidence_strength":"moderate",
-"id":"gender-reported-binary-only-in-autism-outcome-research",
-"newest_evidence":"2026",
-"path":"claims/gender-reported-binary-only-in-autism-outcome-research.md",
-"status":"review",
-"title":"Gender was reported only as a binary characteristic across all included items, despite elevated prevalence of gender diversity among autistic people",
 "type":"claim"
 },
 {
@@ -146514,16 +146330,6 @@
 "type":"claim"
 },
 {
-"description":"Most included literature on psychotherapy competence in occupational therapy was published after 2000, and half was non-empirical",
-"evidence_strength":"moderate",
-"id":"half-non-empirical-ot-psychotherapy-competence-literature",
-"newest_evidence":"2025",
-"path":"claims/half-non-empirical-ot-psychotherapy-competence-literature.md",
-"status":"review",
-"title":"Most included literature on psychotherapy competence in occupational therapy was published after 2000, and half was non-empirical",
-"type":"claim"
-},
-{
 "description":"About half of all children with DCD experience difficulty learning to write, making dysgraphia assessment essential because handwriting difficulties do not resolve without intervention",
 "evidence_strength":"moderate",
 "id":"half-of-children-with-dcd-have-dysgraphia",
@@ -147631,16 +147437,6 @@
 "path":"claims/health-behavior-change-short-term-promising.md",
 "status":"review",
 "title":"Purpose-built AI chatbots show generally promising short-term improvements in physical activity and dietary behaviors",
-"type":"claim"
-},
-{
-"description":"Evaluation methods across health diplomacy training initiatives were mostly short-term and self-reported, with limited evidence of long-term or institutional outcomes",
-"evidence_strength":"moderate",
-"id":"health-diplomacy-evaluation-short-term-self-reported",
-"newest_evidence":"2025",
-"path":"claims/health-diplomacy-evaluation-short-term-self-reported.md",
-"status":"review",
-"title":"Evaluation methods across health diplomacy training initiatives were mostly short-term and self-reported, with limited evidence of long-term or institutional outcomes",
 "type":"claim"
 },
 {
@@ -149803,6 +149599,7 @@
 "id":"high-fidelity-simulation-enhances-core-competencies",
 "newest_evidence":"2025",
 "path":"claims/high-fidelity-simulation-enhances-core-competencies.md",
+"source_checked":"2026-10-31",
 "status":"review",
 "title":"High-fidelity simulation particularly enhances core clinical competencies such as CPR, infection control, and diagnostic reasoning",
 "type":"claim"
@@ -150638,16 +150435,6 @@
 "path":"claims/high-risk-classification-declined-week4-to-week6.md",
 "status":"review",
 "title":"The proportion of participating students classified as high-risk fell from 59% in week 4 to 39% by week 6 of the semester",
-"type":"claim"
-},
-{
-"description":"Included active-methodology studies had a high overall risk of bias",
-"evidence_strength":"moderate",
-"id":"high-risk-of-bias-active-methodology-studies",
-"newest_evidence":"2026",
-"path":"claims/high-risk-of-bias-active-methodology-studies.md",
-"status":"review",
-"title":"Included active-methodology studies had a high overall risk of bias",
 "type":"claim"
 },
 {
@@ -159669,16 +159456,6 @@
 "type":"claim"
 },
 {
-"description":"The 11 included records spanned publication years 1991 to 2022, with most (n = 6) published in 2016 or later.",
-"evidence_strength":"moderate",
-"id":"included-records-1991-to-2022-most-2016-or-later",
-"newest_evidence":"2025",
-"path":"claims/included-records-1991-to-2022-most-2016-or-later.md",
-"status":"review",
-"title":"The 11 included records spanned publication years 1991 to 2022, with most (n = 6) published in 2016 or later.",
-"type":"claim"
-},
-{
 "description":"Effects of inclusion are heterogeneous and single-factor subgroup moderator analyses were inconclusive",
 "evidence_strength":"weak",
 "id":"inclusion-effects-heterogeneous-moderator-analyses-inconclusive",
@@ -167700,16 +167477,6 @@
 "type":"claim"
 },
 {
-"description":"Internal structure is the most reported source of validity evidence (90%), while response processes (10%) and consequences (11%) are rarely reported",
-"evidence_strength":"moderate",
-"id":"internal-structure-most-reported-response-process-consequences-rare",
-"newest_evidence":"2025",
-"path":"claims/internal-structure-most-reported-response-process-consequences-rare.md",
-"status":"review",
-"title":"Internal structure is the most reported source of validity evidence (90%), while response processes (10%) and consequences (11%) are rarely reported",
-"type":"claim"
-},
-{
 "description":"Text-only students based draw judgments on internal mental images while image-condition students recalled external visuals",
 "evidence_strength":"moderate",
 "id":"internal-vs-external-visual-cue-use-draw-judgments",
@@ -168081,16 +167848,6 @@
 "path":"claims/interrater-reliability-93-percent-algorithm-categorization.md",
 "status":"review",
 "title":"Interrater reliability of algorithm categorizations was 93% using percent-agreement method",
-"type":"claim"
-},
-{
-"description":"Interrater reliability was high at title/abstract screening (k = 0.865) but relatively low at full-text review (k = 0.423) due to the lack of a universal definition of competence.",
-"evidence_strength":"moderate",
-"id":"interrater-reliability-kappa-screening-versus-full-text",
-"newest_evidence":"2025",
-"path":"claims/interrater-reliability-kappa-screening-versus-full-text.md",
-"status":"review",
-"title":"Interrater reliability was high at title/abstract screening (k = 0.865) but relatively low at full-text review (k = 0.423) due to the lack of a universal definition of competence.",
 "type":"claim"
 },
 {
@@ -169458,16 +169215,6 @@
 "path":"claims/ipe-faculty-development-competencies-communication-teamwork.md",
 "status":"review",
 "title":"Faculty development for interprofessional education emphasizes interprofessional collaborative and facilitation competencies, with communication and teamwork as the most highlighted domains",
-"type":"claim"
-},
-{
-"description":"Most faculty development studies in IPE use the CIHC and IPEC frameworks to guide interprofessional collaborative competencies",
-"evidence_strength":"moderate",
-"id":"ipe-faculty-development-uses-cihc-ipec-frameworks",
-"newest_evidence":"2025",
-"path":"claims/ipe-faculty-development-uses-cihc-ipec-frameworks.md",
-"status":"review",
-"title":"Most faculty development studies in IPE use the CIHC and IPEC frameworks to guide interprofessional collaborative competencies",
 "type":"claim"
 },
 {
@@ -179067,6 +178814,7 @@
 "id":"large-virtual-class-instructional-content-control",
 "newest_evidence":"2023",
 "path":"claims/large-virtual-class-instructional-content-control.md",
+"source_checked":"2026-10-31",
 "status":"review",
 "title":"Teachers controlled instructional content in large virtual classes by creating interactive environments through questioning, student presentations and out-of-class discussions, and by using learner-centred methods such as breakout rooms, flipped classroom and case study techniques",
 "type":"claim"
@@ -185939,16 +185687,6 @@
 "type":"claim"
 },
 {
-"description":"Current cardiac arrest simulation feedback literature primarily focuses on technical skills measured quantitatively, with limited research on non-technical aspects",
-"evidence_strength":"moderate",
-"id":"literature-focuses-on-technical-skills-quantitative-methods",
-"newest_evidence":"2025",
-"path":"claims/literature-focuses-on-technical-skills-quantitative-methods.md",
-"status":"review",
-"title":"Current cardiac arrest simulation feedback literature primarily focuses on technical skills measured quantitatively, with limited research on non-technical aspects",
-"type":"claim"
-},
-{
 "description":"A literature review investigated whether assessment metadata can provide information on SEL constructs",
 "evidence_strength":"weak",
 "id":"literature-review-assessment-metadata-sel",
@@ -191329,6 +191067,7 @@
 "id":"low-baseline-nurse-knowledge-moderated-by-qualification",
 "newest_evidence":"2026",
 "path":"claims/low-baseline-nurse-knowledge-moderated-by-qualification.md",
+"source_checked":"2026-10-31",
 "status":"review",
 "title":"Nurses begin with low baseline knowledge of diabetic foot care, and educational qualifications may moderate post-training knowledge gains",
 "type":"claim"
@@ -191950,16 +191689,6 @@
 "type":"claim"
 },
 {
-"description":"Most included studies were of low methodological quality, with only 22 of 99 rated high quality by MERSQI",
-"evidence_strength":"moderate",
-"id":"low-methodological-quality-neuraxial-education-studies",
-"newest_evidence":"2025",
-"path":"claims/low-methodological-quality-neuraxial-education-studies.md",
-"status":"review",
-"title":"Most included studies were of low methodological quality, with only 22 of 99 rated high quality by MERSQI",
-"type":"claim"
-},
-{
 "description":"Lower trait motivation scores in ADHD adults are associated with more severe inattention symptoms, but not hyperactivity",
 "evidence_strength":"moderate",
 "id":"low-motivation-correlates-inattention-adhd",
@@ -192262,16 +191991,6 @@
 "path":"claims/low-reliance-outperformed-high-reliance-midterms.md",
 "status":"review",
 "title":"Among LLM users, Low-Reliance students (use in under half of submissions) consistently outperformed High-Reliance students by roughly 7-8% across all three midterms",
-"type":"claim"
-},
-{
-"description":"Risk-of-bias assessment finds 76% of included RCTs at low risk of bias using the Cochrane RoB-2 tool",
-"evidence_strength":"moderate",
-"id":"low-risk-of-bias-included-rcts-rob2",
-"newest_evidence":"2026",
-"path":"claims/low-risk-of-bias-included-rcts-rob2.md",
-"status":"review",
-"title":"Risk-of-bias assessment finds 76% of included RCTs at low risk of bias using the Cochrane RoB-2 tool",
 "type":"claim"
 },
 {
@@ -194943,16 +194662,6 @@
 "path":"claims/majority-moderate-few-extreme-tpack.md",
 "status":"review",
 "title":"Most teachers agreed they were moderately to more than moderately confident/useful but few were extremely confident/useful",
-"type":"claim"
-},
-{
-"description":"Only a minority of included trials used AR or mixed reality; roughly 88% evaluated purely VR simulations",
-"evidence_strength":"moderate",
-"id":"majority-of-trials-purely-vr-minority-ar",
-"newest_evidence":"2026",
-"path":"claims/majority-of-trials-purely-vr-minority-ar.md",
-"status":"review",
-"title":"Only a minority of included trials used AR or mixed reality; roughly 88% evaluated purely VR simulations",
 "type":"claim"
 },
 {
@@ -200593,16 +200302,6 @@
 "type":"claim"
 },
 {
-"description":"Of the nine included studies with human participants, the mean sample size was 160.4 participants, with a median of 72 ranging from 1 to 782.",
-"evidence_strength":"moderate",
-"id":"mean-sample-size-160-4-median-72",
-"newest_evidence":"2025",
-"path":"claims/mean-sample-size-160-4-median-72.md",
-"status":"review",
-"title":"Of the nine included studies with human participants, the mean sample size was 160.4 participants, with a median of 72 ranging from 1 to 782.",
-"type":"claim"
-},
-{
 "description":"Mean sentence length indicates both insecure and secure full-stop use, with roughly 12 to 16 words per sentence the aim for mature narrative writing",
 "evidence_strength":"weak",
 "id":"mean-sentence-length-indicates-full-stop-use",
@@ -200745,16 +200444,6 @@
 "source_checked":"2026-10-21",
 "status":"review",
 "title":"The choice of online versus offline measures of SRL moderates the strength of the relationship between SRL processes and achievement",
-"type":"claim"
-},
-{
-"description":"Measurement approaches differ by outcome area: academic achievement items mostly used published assessments while disciplinary items predominantly used government data",
-"evidence_strength":"moderate",
-"id":"measurement-approaches-differ-by-outcome-area",
-"newest_evidence":"2026",
-"path":"claims/measurement-approaches-differ-by-outcome-area.md",
-"status":"review",
-"title":"Measurement approaches differ by outcome area: academic achievement items mostly used published assessments while disciplinary items predominantly used government data",
 "type":"claim"
 },
 {
@@ -202722,26 +202411,6 @@
 "path":"claims/merrill-principles-feedback-no-moderation.md",
 "status":"review",
 "title":"Merrill's instructional design principles and feedback features did not significantly moderate the effects of ICT-supported writing interventions",
-"type":"claim"
-},
-{
-"description":"MERSQI appraisal found low methodological quality in study design and validity of evaluation instruments",
-"evidence_strength":"moderate",
-"id":"mersqi-low-quality-study-design-instrument-validity",
-"newest_evidence":"2025",
-"path":"claims/mersqi-low-quality-study-design-instrument-validity.md",
-"status":"review",
-"title":"MERSQI appraisal found low methodological quality in study design and validity of evaluation instruments",
-"type":"claim"
-},
-{
-"description":"Mean MERSQI methodological quality score of included studies was 12.7 (SD 1.4; range 8–16 of 18)",
-"evidence_strength":"moderate",
-"id":"mersqi-mean-12-7-range-8-16",
-"newest_evidence":"2025",
-"path":"claims/mersqi-mean-12-7-range-8-16.md",
-"status":"review",
-"title":"Mean MERSQI methodological quality score of included studies was 12.7 (SD 1.4; range 8–16 of 18)",
 "type":"claim"
 },
 {
@@ -208260,16 +207929,6 @@
 "type":"claim"
 },
 {
-"description":"Longitudinal program evaluation strategies were described in only three studies",
-"evidence_strength":"weak",
-"id":"mlm-longitudinal-evaluation-rare",
-"newest_evidence":"2025",
-"path":"claims/mlm-longitudinal-evaluation-rare.md",
-"status":"review",
-"title":"Longitudinal program evaluation strategies were described in only three studies",
-"type":"claim"
-},
-{
 "description":"Intrapersonal and interpersonal competencies are widely represented across curricula whereas organizational-level competencies appear in relatively few studies",
 "evidence_strength":"moderate",
 "id":"mlm-organizational-competencies-underrepresented",
@@ -212082,16 +211741,6 @@
 "type":"claim"
 },
 {
-"description":"Most measures (59%) were purpose-built and used only once",
-"evidence_strength":"moderate",
-"id":"most-hl-competency-measures-purpose-built-single-use",
-"newest_evidence":"2026",
-"path":"claims/most-hl-competency-measures-purpose-built-single-use.md",
-"status":"review",
-"title":"Most measures (59%) were purpose-built and used only once",
-"type":"claim"
-},
-{
 "description":"The Most Improved profile showed an integrated AI-support pattern with strong ENA connections among coaching, modeling, and reflection and frequent model uptake in group discussion",
 "evidence_strength":"weak",
 "id":"most-improved-profile-integrated-ai-support-pattern",
@@ -213448,16 +213097,6 @@
 "recheck_by":"2029",
 "status":"review",
 "title":"Assessment of metacognitive regulation appears underexploited in physical therapy, with existing methods not adequately capturing tasks-focals interplay or interaction dynamics",
-"type":"claim"
-},
-{
-"description":"MR was defined in only 13 studies, mainly as a blend between the physical and virtual worlds",
-"evidence_strength":"moderate",
-"id":"mr-defined-13-studies-blend",
-"newest_evidence":"2025",
-"path":"claims/mr-defined-13-studies-blend.md",
-"status":"review",
-"title":"MR was defined in only 13 studies, mainly as a blend between the physical and virtual worlds",
 "type":"claim"
 },
 {
@@ -231458,16 +231097,6 @@
 "type":"claim"
 },
 {
-"description":"Twenty-two studies were included from 1,286 screened records, with heterogeneous designs and disciplines",
-"evidence_strength":"moderate",
-"id":"obesity-competency-review-22-studies-heterogeneous-designs",
-"newest_evidence":"2025",
-"path":"claims/obesity-competency-review-22-studies-heterogeneous-designs.md",
-"status":"review",
-"title":"Twenty-two studies were included from 1,286 screened records, with heterogeneous designs and disciplines",
-"type":"claim"
-},
-{
 "description":"Obesity (BMI ≥30) is associated with lower performance in verbal abilities, processing speed, and cognitive flexibility in older adults",
 "evidence_strength":"moderate",
 "id":"obesity-lower-cognitive-performance-old-age",
@@ -236911,13 +236540,14 @@
 "type":"claim"
 },
 {
-"description":"Organizational empowerment through clear role positioning and multidisciplinary support enables sustained training transfer",
+"description":"Specialty nurses and their managers describe clear role positioning and multidisciplinary support as facilitating training transfer",
 "evidence_strength":"moderate",
 "id":"organizational-empowerment-enables-transfer",
 "newest_evidence":"2026",
 "path":"claims/organizational-empowerment-enables-transfer.md",
+"source_checked":"2026-10-31",
 "status":"review",
-"title":"Organizational empowerment through clear role positioning and multidisciplinary support enables sustained training transfer",
+"title":"Specialty nurses and their managers describe clear role positioning and multidisciplinary support as facilitating training transfer",
 "type":"claim"
 },
 {
@@ -237385,16 +237015,6 @@
 "path":"claims/oss-scoping-review-mixed-evidence.md",
 "status":"review",
 "title":"Evidence on obesity simulation suits in healthcare education is limited and heterogeneous, with mixed effects on attitudes and empathy",
-"type":"claim"
-},
-{
-"description":"Included articles span 1927 to 2020, with 81% published between 1996 and 2020",
-"evidence_strength":"moderate",
-"id":"ot-psychotherapy-competence-articles-1927-2020-distribution",
-"newest_evidence":"2025",
-"path":"claims/ot-psychotherapy-competence-articles-1927-2020-distribution.md",
-"status":"review",
-"title":"Included articles span 1927 to 2020, with 81% published between 1996 and 2020",
 "type":"claim"
 },
 {
@@ -243062,13 +242682,14 @@
 "type":"claim"
 },
 {
-"description":"PBL remains effective in developing critical thinking and communication skills in resource-limited settings, with collaborative discussion compensating for infrastructural constraints",
+"description":"Cross-sectional studies in resource-limited settings suggest PBL is associated with perceived critical-thinking and communication gains, with collaborative discussion possibly compensating for infrastructural constraints",
 "evidence_strength":"weak",
 "id":"pbl-effective-resource-limited-settings-collaboration-compensates",
 "newest_evidence":"2026",
 "path":"claims/pbl-effective-resource-limited-settings-collaboration-compensates.md",
+"source_checked":"2026-10-31",
 "status":"review",
-"title":"PBL remains effective in developing critical thinking and communication skills in resource-limited settings, with collaborative discussion compensating for infrastructural constraints",
+"title":"Cross-sectional studies in resource-limited settings suggest PBL is associated with perceived critical-thinking and communication gains, with collaborative discussion possibly compensating for infrastructural constraints",
 "type":"claim"
 },
 {
@@ -243265,16 +242886,6 @@
 "type":"claim"
 },
 {
-"description":"PBL is the most investigated active teaching methodology in undergraduate dentistry, followed by flipped classroom and gamification",
-"evidence_strength":"moderate",
-"id":"pbl-most-investigated-active-methodology-dentistry",
-"newest_evidence":"2026",
-"path":"claims/pbl-most-investigated-active-methodology-dentistry.md",
-"status":"review",
-"title":"PBL is the most investigated active teaching methodology in undergraduate dentistry, followed by flipped classroom and gamification",
-"type":"claim"
-},
-{
 "description":"Objective knowledge assessments show no significant improvement after PBL in family medicine residency, with gains comparable to lectures",
 "evidence_strength":"moderate",
 "id":"pbl-no-significant-objective-knowledge-gains-pgme",
@@ -243354,26 +242965,6 @@
 "source_checked":"2026-10-24",
 "status":"review",
 "title":"The recall benefit of prior problem-based discussion applies to both explanatory and descriptive propositions, with no interaction between treatment and proposition type",
-"type":"claim"
-},
-{
-"description":"Sample sizes among reviewed studies ranged from 52 to 464 participants with a median of 149",
-"evidence_strength":"weak",
-"id":"pbl-review-sample-sizes-52-464-median-149",
-"newest_evidence":"2026",
-"path":"claims/pbl-review-sample-sizes-52-464-median-149.md",
-"status":"review",
-"title":"Sample sizes among reviewed studies ranged from 52 to 464 participants with a median of 149",
-"type":"claim"
-},
-{
-"description":"All eight included studies were cross-sectional, conducted in Asia, and most lacked a comparator",
-"evidence_strength":"weak",
-"id":"pbl-review-studies-cross-sectional-asia-no-comparator",
-"newest_evidence":"2026",
-"path":"claims/pbl-review-studies-cross-sectional-asia-no-comparator.md",
-"status":"review",
-"title":"All eight included studies were cross-sectional, conducted in Asia, and most lacked a comparator",
 "type":"claim"
 },
 {
@@ -256366,16 +255957,6 @@
 "type":"claim"
 },
 {
-"description":"Project/problem-based learning (n=17), lecturing (n=11) and place-based environmental education (n=9) were the most frequently used pedagogical approaches in the reviewed interventions",
-"evidence_strength":"moderate",
-"id":"ppbl-lecturing-pbee-most-frequent-approaches",
-"newest_evidence":"2025",
-"path":"claims/ppbl-lecturing-pbee-most-frequent-approaches.md",
-"status":"review",
-"title":"Project/problem-based learning (n=17), lecturing (n=11) and place-based environmental education (n=9) were the most frequently used pedagogical approaches in the reviewed interventions",
-"type":"claim"
-},
-{
 "description":"A graded left superior parietal retrieval-success effect emerges by age 12 but is absent in 8-year-olds",
 "evidence_strength":"weak",
 "id":"ppc-retrieval-success-effect-emerges-age-12",
@@ -268446,16 +268027,6 @@
 "type":"claim"
 },
 {
-"description":"Publication on intercultural competence and digital technologies grew sustainedly since 2019, peaking in 2021–2023",
-"evidence_strength":"moderate",
-"id":"publication-growth-since-2019-intercultural-digital",
-"newest_evidence":"2025",
-"path":"claims/publication-growth-since-2019-intercultural-digital.md",
-"status":"review",
-"title":"Publication on intercultural competence and digital technologies grew sustainedly since 2019, peaking in 2021–2023",
-"type":"claim"
-},
-{
 "description":"Publication type (article vs.",
 "evidence_strength":"moderate",
 "id":"publication-type-no-moderation-formative-assessment",
@@ -269458,16 +269029,6 @@
 "type":"claim"
 },
 {
-"description":"Quality assessment of EPAs and cost implications were not specifically evident in the included studies.",
-"evidence_strength":"moderate",
-"id":"quality-assessment-and-cost-not-evident-in-studies",
-"newest_evidence":"2025",
-"path":"claims/quality-assessment-and-cost-not-evident-in-studies.md",
-"status":"review",
-"title":"Quality assessment of EPAs and cost implications were not specifically evident in the included studies.",
-"type":"claim"
-},
-{
 "description":"The book argues that quality assessments can provide accurate and timely information to maximize student learning, in contrast to punitive testing rhetoric",
 "evidence_strength":"weak",
 "id":"quality-assessments-accurate-timely-information-maximize-learning",
@@ -269791,16 +269352,6 @@
 "path":"claims/quasi-experimental-chatbot-intervention-lowered-loneliness-short-term.md",
 "status":"review",
 "title":"A quasi-experimental intervention reported short-term reductions in loneliness followed by lower social anxiety after a social-chatbot intervention",
-"type":"claim"
-},
-{
-"description":"Most included studies used quasi-experimental designs with single-group pre-post or repeated-measure structures",
-"evidence_strength":"moderate",
-"id":"quasi-experimental-designs-dominate-documentation-studies",
-"newest_evidence":"2025",
-"path":"claims/quasi-experimental-designs-dominate-documentation-studies.md",
-"status":"review",
-"title":"Most included studies used quasi-experimental designs with single-group pre-post or repeated-measure structures",
 "type":"claim"
 },
 {
@@ -271934,16 +271485,6 @@
 "type":"claim"
 },
 {
-"description":"Rater training was reported in 65% of studies and statements of rater bias in 29%, used as proxy indicators of study rigour",
-"evidence_strength":"moderate",
-"id":"rater-training-65-percent-bias-statement-29-percent",
-"newest_evidence":"2025",
-"path":"claims/rater-training-65-percent-bias-statement-29-percent.md",
-"status":"review",
-"title":"Rater training was reported in 65% of studies and statements of rater bias in 29%, used as proxy indicators of study rigour",
-"type":"claim"
-},
-{
 "description":"Raters scored significantly higher than AI on Emotional Support and significantly lower than AI on Instructional Support, with no difference for Classroom Organization",
 "evidence_strength":"moderate",
 "id":"raters-ai-mean-differences-class-domains",
@@ -273247,16 +272788,6 @@
 "path":"claims/reading-and-assignments-most-time-consuming.md",
 "status":"review",
 "title":"Reading core materials and completing assignments were the most time-consuming course activities",
-"type":"claim"
-},
-{
-"description":"Reading and maths are the most commonly reported academic outcomes, with 67.8% of academic items reporting reading and 53.3% reporting maths",
-"evidence_strength":"moderate",
-"id":"reading-and-maths-most-reported-academic-outcomes",
-"newest_evidence":"2026",
-"path":"claims/reading-and-maths-most-reported-academic-outcomes.md",
-"status":"review",
-"title":"Reading and maths are the most commonly reported academic outcomes, with 67.8% of academic items reporting reading and 53.3% reporting maths",
 "type":"claim"
 },
 {
@@ -275523,16 +275054,6 @@
 "path":"claims/recording-angle-no-cognitive-load-effect.md",
 "status":"review",
 "title":"Recording angle alone does not affect self-reported cognitive load during video observation or task execution",
-"type":"claim"
-},
-{
-"description":"More than half of the included records were published by authors in the United States, with no records originating from South American or African countries.",
-"evidence_strength":"moderate",
-"id":"records-usa-dominant-no-south-american-african-countries",
-"newest_evidence":"2025",
-"path":"claims/records-usa-dominant-no-south-american-african-countries.md",
-"status":"review",
-"title":"More than half of the included records were published by authors in the United States, with no records originating from South American or African countries.",
 "type":"claim"
 },
 {
@@ -291644,16 +291165,6 @@
 "type":"claim"
 },
 {
-"description":"The scoping review's database searches identified 1,277 records, of which 11 were included in the final corpus for data extraction.",
-"evidence_strength":"moderate",
-"id":"scoping-review-1277-records-11-included",
-"newest_evidence":"2025",
-"path":"claims/scoping-review-1277-records-11-included.md",
-"status":"review",
-"title":"The scoping review's database searches identified 1,277 records, of which 11 were included in the final corpus for data extraction.",
-"type":"claim"
-},
-{
 "description":"Scoping review identifies 146 studies (98,394 participants) of communication skills assessment validity evidence in health professions education",
 "evidence_strength":"moderate",
 "id":"scoping-review-146-csa-studies-98394-participants",
@@ -291661,16 +291172,6 @@
 "path":"claims/scoping-review-146-csa-studies-98394-participants.md",
 "status":"review",
 "title":"Scoping review identifies 146 studies (98,394 participants) of communication skills assessment validity evidence in health professions education",
-"type":"claim"
-},
-{
-"description":"Sixteen publications met inclusion criteria in a scoping review of MLM competency frameworks in undergraduate medical education",
-"evidence_strength":"moderate",
-"id":"scoping-review-16-publications-mlm-ume",
-"newest_evidence":"2025",
-"path":"claims/scoping-review-16-publications-mlm-ume.md",
-"status":"review",
-"title":"Sixteen publications met inclusion criteria in a scoping review of MLM competency frameworks in undergraduate medical education",
 "type":"claim"
 },
 {
@@ -291695,16 +291196,6 @@
 "type":"claim"
 },
 {
-"description":"Scoping review identified 88 unique measures of health professionals’ health literacy competencies across 128 included studies",
-"evidence_strength":"moderate",
-"id":"scoping-review-88-unique-hl-competency-measures",
-"newest_evidence":"2026",
-"path":"claims/scoping-review-88-unique-hl-competency-measures.md",
-"status":"review",
-"title":"Scoping review identified 88 unique measures of health professionals’ health literacy competencies across 128 included studies",
-"type":"claim"
-},
-{
 "description":"Low-cost simulation studies in nursing most frequently target specific clinical competencies (79.5%), with obstetric and neonatal emergency management the single largest group",
 "evidence_strength":"moderate",
 "id":"scoping-review-low-cost-simulation-competency-coverage",
@@ -291712,16 +291203,6 @@
 "path":"claims/scoping-review-low-cost-simulation-competency-coverage.md",
 "status":"review",
 "title":"Low-cost simulation studies in nursing most frequently target specific clinical competencies (79.5%), with obstetric and neonatal emergency management the single largest group",
-"type":"claim"
-},
-{
-"description":"Low-cost simulation studies in nursing span multiple continents, with 89.7% conducted on a single continent and North America the most common location",
-"evidence_strength":"moderate",
-"id":"scoping-review-low-cost-simulation-geographic-distribution",
-"newest_evidence":"2025",
-"path":"claims/scoping-review-low-cost-simulation-geographic-distribution.md",
-"status":"review",
-"title":"Low-cost simulation studies in nursing span multiple continents, with 89.7% conducted on a single continent and North America the most common location",
 "type":"claim"
 },
 {
@@ -292432,16 +291913,6 @@
 "path":"claims/sdl-implementation-gap-learner-autonomy.md",
 "status":"review",
 "title":"Most SDL-labeled interventions lack authentic learner autonomy in resource selection and self-assessment",
-"type":"claim"
-},
-{
-"description":"No evidence of publication bias in the SDL meta-analysis",
-"evidence_strength":"moderate",
-"id":"sdl-meta-analysis-no-publication-bias",
-"newest_evidence":"2026",
-"path":"claims/sdl-meta-analysis-no-publication-bias.md",
-"status":"review",
-"title":"No evidence of publication bias in the SDL meta-analysis",
 "type":"claim"
 },
 {
@@ -305315,16 +304786,6 @@
 "recheck_by":"2031",
 "status":"review",
 "title":"Latent Class Analysis identifies six provisional manager typologies with heterogeneous readiness and barrier profiles",
-"type":"claim"
-},
-{
-"description":"Only six qualitative studies on graduate nurses caring for people living with dementia were identified",
-"evidence_strength":"moderate",
-"id":"six-qualitative-studies-graduate-nurses-dementia-care",
-"newest_evidence":"2025",
-"path":"claims/six-qualitative-studies-graduate-nurses-dementia-care.md",
-"status":"review",
-"title":"Only six qualitative studies on graduate nurses caring for people living with dementia were identified",
 "type":"claim"
 },
 {
@@ -318966,16 +318427,6 @@
 "type":"claim"
 },
 {
-"description":"Reporting quality of academic outcome items is higher than that of disciplinary or attendance items on the STROBE checklist",
-"evidence_strength":"moderate",
-"id":"strobe-reporting-quality-varies-by-outcome-area",
-"newest_evidence":"2026",
-"path":"claims/strobe-reporting-quality-varies-by-outcome-area.md",
-"status":"review",
-"title":"Reporting quality of academic outcome items is higher than that of disciplinary or attendance items on the STROBE checklist",
-"type":"claim"
-},
-{
 "description":"New technologies and tools are emerging that cater to a broader range of genres, pedagogical settings, and approaches as technology-enhanced learning becomes more ubiquitous",
 "evidence_strength":"weak",
 "id":"strobl-2019-emerging-broader-tools",
@@ -331998,16 +331449,6 @@
 "type":"claim"
 },
 {
-"description":"TBL studies show moderate methodological quality overall",
-"evidence_strength":"moderate",
-"id":"tbl-ethics-studies-moderate-quality",
-"newest_evidence":"2025",
-"path":"claims/tbl-ethics-studies-moderate-quality.md",
-"status":"review",
-"title":"TBL studies show moderate methodological quality overall",
-"type":"claim"
-},
-{
 "description":"Two controlled studies found significantly higher examination scores and satisfaction in TBL groups compared with traditional lecture-based instruction",
 "evidence_strength":"weak",
 "id":"tbl-exam-scores-higher-than-lecture-two-studies",
@@ -332103,6 +331544,7 @@
 "id":"tbl-improves-ethics-knowledge-retention",
 "newest_evidence":"2025",
 "path":"claims/tbl-improves-ethics-knowledge-retention.md",
+"source_checked":"2026-10-31",
 "status":"review",
 "title":"TBL in medical ethics education improves knowledge retention compared to lectures",
 "type":"claim"
@@ -339962,16 +339404,6 @@
 "path":"claims/ten-steps-design-cost-time-intensive.md",
 "status":"review",
 "title":"Ten Steps design of a workplace PD program is time and resource-intensive, spanning nearly two years for a five-month program",
-"type":"claim"
-},
-{
-"description":"Only ten studies met inclusion criteria, yielding 257 core competencies across 18 domains",
-"evidence_strength":"weak",
-"id":"ten-studies-257-competencies-18-domains",
-"newest_evidence":"2025",
-"path":"claims/ten-studies-257-competencies-18-domains.md",
-"status":"review",
-"title":"Only ten studies met inclusion criteria, yielding 257 core competencies across 18 domains",
 "type":"claim"
 },
 {
@@ -356599,16 +356031,6 @@
 "type":"claim"
 },
 {
-"description":"Only 10% of CSA studies reported using a validity framework such as Messick's or Kane's",
-"evidence_strength":"moderate",
-"id":"validity-framework-use-ten-percent",
-"newest_evidence":"2025",
-"path":"claims/validity-framework-use-ten-percent.md",
-"status":"review",
-"title":"Only 10% of CSA studies reported using a validity framework such as Messick's or Kane's",
-"type":"claim"
-},
-{
 "description":"Validity coefficients with external criteria provide a lower bound for a test's reliability",
 "evidence_strength":"weak",
 "id":"validity-lower-bound-reliability",
@@ -361578,16 +361000,6 @@
 "type":"claim"
 },
 {
-"description":"Single-arm pre-post pilot studies were the most common design (21.1%), followed by RCTs (10.5%) and mixed-methods designs (10.5%)",
-"evidence_strength":"moderate",
-"id":"vp-empathy-study-design-distribution",
-"newest_evidence":"2025",
-"path":"claims/vp-empathy-study-design-distribution.md",
-"status":"review",
-"title":"Single-arm pre-post pilot studies were the most common design (21.1%), followed by RCTs (10.5%) and mixed-methods designs (10.5%)",
-"type":"claim"
-},
-{
 "description":"Virtual patient interventions improved medical students' empathy in all 19 included studies, with effects reported immediately after intervention in 17 studies",
 "evidence_strength":"moderate",
 "id":"vp-interventions-empathy-improvements-all-19-studies",
@@ -362026,16 +361438,6 @@
 "type":"claim"
 },
 {
-"description":"VR was defined in 95 studies, with stereoscopic visualisation and user interaction the most recurrent features",
-"evidence_strength":"moderate",
-"id":"vr-defined-95-studies-features",
-"newest_evidence":"2025",
-"path":"claims/vr-defined-95-studies-features.md",
-"status":"review",
-"title":"VR was defined in 95 studies, with stereoscopic visualisation and user interaction the most recurrent features",
-"type":"claim"
-},
-{
 "description":"Virtual-reality delirium training increased nurses' empathy and knowledge, with larger empathy gains when VR preceded didactic instruction",
 "evidence_strength":"weak",
 "id":"vr-delirium-empathy-order-effect",
@@ -362434,6 +361836,7 @@
 "id":"vr-simulation-improves-ortho-technical-proficiency",
 "newest_evidence":"2025",
 "path":"claims/vr-simulation-improves-ortho-technical-proficiency.md",
+"source_checked":"2026-10-31",
 "status":"review",
 "title":"VR simulation training improves orthopaedic trainees' technical proficiency and shortens operative times",
 "type":"claim"
@@ -370075,16 +369478,6 @@
 "path":"claims/xr-recurring-features-dental-simulation.md",
 "status":"review",
 "title":"Recurring features across XR-simulation in dentistry are stereoscopic vision, immersion, interaction, modification and haptic feedback",
-"type":"claim"
-},
-{
-"description":"Terminology for XR in dental education lacks consistency, with 70% of related medical digital simulation articles misidentified or misclassified",
-"evidence_strength":"moderate",
-"id":"xr-terminology-inconsistency-dental-education",
-"newest_evidence":"2025",
-"path":"claims/xr-terminology-inconsistency-dental-education.md",
-"status":"review",
-"title":"Terminology for XR in dental education lacks consistency, with 70% of related medical digital simulation articles misidentified or misclassified",
 "type":"claim"
 },
 {
@@ -495306,11 +494699,9 @@
 "0-5-number-line-china-belgium-us-ordering":"0-5-number-line-china-belgium-us-ordering",
 "1-group-grade2-most-cost-effective":"1-group-grade2-most-cost-effective",
 "14-lo-structure-improved-fit-over-mcd-v1":"14-lo-structure-improved-fit-over-mcd-v1",
-"141-articles-categorised-xr-dental":"141-articles-categorised-xr-dental",
 "15-states-mandate-kindergarten-attendance":"15-states-mandate-kindergarten-attendance",
 "16pf-counselor-selection-premature":"16pf-counselor-selection-premature",
 "16pf-specification-equation-correlations-premature":"16pf-specification-equation-correlations-premature",
-"19-studies-included-heterogeneous-quality":"19-studies-included-heterogeneous-quality",
 "1997-ccsr-surveys-308-elementary-62-high-schools":"1997-ccsr-surveys-308-elementary-62-high-schools",
 "1997-ccsr-surveys-greatest-return-rate-408-62-schools":"1997-ccsr-surveys-greatest-return-rate-408-62-schools",
 "2001-math-decline-confirmed-by-rasch-analysis":"2001-math-decline-confirmed-by-rasch-analysis",
@@ -497245,7 +496636,6 @@
 "amed-cognition-robust-to-education-adjustment":"amed-cognition-robust-to-education-adjustment",
 "amed-components-vegetables-nuts-alcohol-protective":"amed-components-vegetables-nuts-alcohol-protective",
 "american-indian-alaska-native-higher-disengagement-remote":"american-indian-alaska-native-higher-disengagement-remote",
-"americas-europe-concentration-intercultural-digital-research":"americas-europe-concentration-intercultural-digital-research",
 "amico-bounded-usage-rare-dependency-signals":"amico-bounded-usage-rare-dependency-signals",
 "amico-cross-context-mode-preferences-differ":"amico-cross-context-mode-preferences-differ",
 "amico-dual-modes-perceived-complementary":"amico-dual-modes-perceived-complementary",
@@ -497272,7 +496662,6 @@
 "amygdala-neurons-track-movement-not-threat":"amygdala-neurons-track-movement-not-threat",
 "an-2021-summarizes-key-findings-pd-review":"an-2021-summarizes-key-findings-pd-review",
 "anaerobic-sprint-bdnf-associative-learning":"anaerobic-sprint-bdnf-associative-learning",
-"anaesthesia-e-learning-small-cohorts-limitation":"anaesthesia-e-learning-small-cohorts-limitation",
 "anaheim-lab-year-two-expanded-impact":"anaheim-lab-year-two-expanded-impact",
 "analogical-reasoning-improves-transfer":"comparing-contrasting-cases-improves-learning",
 "analogical-reasoning-perspective-taking-strongest-predictors":"analogical-reasoning-perspective-taking-strongest-predictors",
@@ -497564,7 +496953,6 @@
 "ar-approaches-support-sport-learning-and-feedback":"ar-approaches-support-sport-learning-and-feedback",
 "ar-concretization-explanation-natural-sciences":"ar-concretization-explanation-natural-sciences",
 "ar-cpr-training-no-improvement-over-manikin":"ar-cpr-training-no-improvement-over-manikin",
-"ar-defined-50-studies-superimposition":"ar-defined-50-studies-superimposition",
 "ar-effect-educational-area-no-significant-difference":"ar-effect-educational-area-no-significant-difference",
 "ar-effect-grade-level-no-significant-difference":"ar-effect-grade-level-no-significant-difference",
 "ar-effect-on-procedure-time-mixed":"ar-effect-on-procedure-time-mixed",
@@ -497787,7 +497175,6 @@
 "assessment-marking-inverse-demand-ai-association":"assessment-marking-inverse-demand-ai-association",
 "assessment-metadata-quantify-disengagement-impact":"assessment-metadata-quantify-disengagement-impact",
 "assessment-method-cognitive-load-performance-decline":"assessment-method-cognitive-load-performance-decline",
-"assessment-metrics-top-future-research-line":"assessment-metrics-top-future-research-line",
 "assessment-need-not-accompanied-by-new-competency-awareness":"assessment-need-not-accompanied-by-new-competency-awareness",
 "assessment-plans-outcome-based-dominant":"assessment-plans-outcome-based-dominant",
 "assessment-questioning-dominates-instruction":"assessment-questioning-dominates-instruction",
@@ -497889,7 +497276,6 @@
 "ati-structure-ability-interactions-mixed":"ati-structure-ability-interactions-mixed",
 "attack-does-not-increase-grader-suspicion":"attack-does-not-increase-grader-suspicion",
 "attack-succeeds-on-low-confidence-predictions":"attack-succeeds-on-low-confidence-predictions",
-"attaining-maintaining-competence-largest-subtheme":"attaining-maintaining-competence-largest-subtheme",
 "attempt-reduction-varies-by-course-part":"attempt-reduction-varies-by-course-part",
 "attempting-exercise-increases-estimated-ability":"attempting-exercise-increases-estimated-ability",
 "attempting-over-90-exercises-higher-grades":"attempting-over-90-exercises-higher-grades",
@@ -498010,7 +497396,6 @@
 "austin-overall-growth-above-state-2018-19":"austin-overall-growth-above-state-2018-19",
 "australia-observation-data-sustainable-practice-change-not-scaled":"australia-observation-data-sustainable-practice-change-not-scaled",
 "australian-malaysian-discord-item-differences":"australian-malaysian-discord-item-differences",
-"australian-only-epa-literature-void":"australian-only-epa-literature-void",
 "authentic-assessment-collaboration-high-effectiveness":"authentic-assessment-collaboration-high-effectiveness",
 "authentic-assignments-greater-itbs-gains":"authentic-assignments-greater-itbs-gains",
 "authentic-assignments-igap-value-added":"authentic-assignments-igap-value-added",
@@ -498049,8 +497434,6 @@
 "authorship-distinct-performance-dimension":"authorship-distinct-performance-dimension",
 "authorship-requires-personalizing-genai-content":"authorship-requires-personalizing-genai-content",
 "autism-outcome-research-geographic-concentration":"autism-outcome-research-geographic-concentration",
-"autism-outcome-research-limited-demographic-reporting":"autism-outcome-research-limited-demographic-reporting",
-"autism-outcome-research-predominantly-academic":"autism-outcome-research-predominantly-academic",
 "autism-reduced-mcgurk-fusion-meta-analysis":"autism-reduced-mcgurk-fusion-meta-analysis",
 "autism-temporal-precision-links-language-symptoms":"autism-temporal-precision-links-language-symptoms",
 "auto-generated-problems-doubled-learning-rate":"auto-generated-problems-doubled-learning-rate",
@@ -500249,7 +499632,6 @@
 "classic-ie-within-effects-increase-controlling-between-domain":"classic-ie-within-effects-increase-controlling-between-domain",
 "classic-stories-weak-inconsistent-moral-behavior-effects":"classic-stories-weak-inconsistent-moral-behavior-effects",
 "classical-indeterminism-model-fails-anticorrelation":"classical-indeterminism-model-fails-anticorrelation",
-"classical-test-theory-prescribing-assessment-reliability":"classical-test-theory-prescribing-assessment-reliability",
 "classification-accuracy-22-lo-combinations":"classification-accuracy-22-lo-combinations",
 "classification-correctness-feedback-null":"classification-correctness-feedback-null",
 "classification-weakest-determining-students-know":"classification-weakest-determining-students-know",
@@ -501016,7 +500398,6 @@
 "communication-largest-osce-gain":"communication-largest-osce-gain",
 "communication-mode-type-weak-moderation":"communication-mode-type-weak-moderation",
 "communication-most-operationalized-domain":"communication-most-operationalized-domain",
-"communication-skills-dominant-focus-area":"communication-skills-dominant-focus-area",
 "communication-skills-most-important-but-underemphasized":"communication-skills-most-important-but-underemphasized",
 "communication-strategy-most-impactful-ablation":"communication-strategy-most-impactful-ablation",
 "communication-technologies-support-wil":"communication-technologies-support-wil",
@@ -502023,7 +501404,6 @@
 "cpbl-methodology-ai-engagement":"cpbl-methodology-ai-engagement",
 "cpc-difference-delayed-posttest-only":"cpc-difference-delayed-posttest-only",
 "cpd-as-organizational-change-intervention":"cpd-as-organizational-change-intervention",
-"cpd-evaluations-focus-lower-kirkpatrick-levels":"cpd-evaluations-focus-lower-kirkpatrick-levels",
 "cpd-organizational-support-protocols-reinforcement":"cpd-organizational-support-protocols-reinforcement",
 "cpd-positive-outcomes-14-of-17-studies":"cpd-positive-outcomes-14-of-17-studies",
 "cpfa-cross-validation-r567":"cpfa-cross-validation-r567",
@@ -502393,7 +501773,6 @@
 "cs1-cs2-blocking-factor-differs-by-women-representation":"cs1-cs2-blocking-factor-differs-by-women-representation",
 "cs101-introductory-course-applicability-boundary":"cs101-introductory-course-applicability-boundary",
 "cs2-student-llm-use-three-themes":"cs2-student-llm-use-three-themes",
-"csa-construct-definition-rarely-reported":"csa-construct-definition-rarely-reported",
 "csc-no-discernible-academic-effects":"csc-no-discernible-academic-effects",
 "csc-no-discernible-kav-effects":"csc-no-discernible-kav-effects",
 "csc-potentially-positive-behavior-effects":"csc-potentially-positive-behavior-effects",
@@ -504895,7 +504274,6 @@
 "eight-districts-use-alternative-teacher-effectiveness-measures":"eight-districts-use-alternative-teacher-effectiveness-measures",
 "eight-encounters-form-meaning-recognition-exceed-recall":"eight-encounters-form-meaning-recognition-exceed-recall",
 "eight-ethical-areas-teacher-ai-feedback":"eight-ethical-areas-teacher-ai-feedback",
-"eight-health-diplomacy-initiatives-2017-2025":"eight-health-diplomacy-initiatives-2017-2025",
 "eight-mediating-factors-embodied-graphing-motion":"eight-mediating-factors-embodied-graphing-motion",
 "eight-of-seventeen-constraints-active":"eight-of-seventeen-constraints-active",
 "eight-of-ten-dimensions-common-across-five-observation-instruments":"eight-of-ten-dimensions-common-across-five-observation-instruments",
@@ -505206,10 +504584,8 @@
 "empathetic-condition-least-attrition":"empathetic-condition-least-attrition",
 "empathic-accuracy-empathic-concern-association":"empathic-accuracy-empathic-concern-association",
 "empathic-mindset-teacher-intervention-lowers-suspensions":"brief-intervention-empathic-discipline-cuts-suspensions",
-"empathy-assessment-methods-questionnaire-dominance":"empathy-assessment-methods-questionnaire-dominance",
 "empathy-attributed-shifts-beliefs-practices-udl-math-pd":"empathy-attributed-shifts-beliefs-practices-udl-math-pd",
 "empathy-checklist-item-largest-gain":"empathy-checklist-item-largest-gain",
-"empathy-definitions-cognitive-affective-patterns":"empathy-definitions-cognitive-affective-patterns",
 "empathy-dimensions-correlate-with-outcomes":"empathy-dimensions-correlate-with-outcomes",
 "empathy-interviews-adopted-beyond-design-cycle":"empathy-interviews-adopted-beyond-design-cycle",
 "empathy-interviews-adopted-by-improvement-teams":"empathy-interviews-adopted-by-improvement-teams",
@@ -507113,7 +506489,6 @@
 "five-point-six-five-exposures-average-sight-word-mastery":"five-point-six-five-exposures-average-sight-word-mastery",
 "five-rationales-peer-element-er":"five-rationales-peer-element-er",
 "five-recommendations-together-improve-achievement":"five-recommendations-together-improve-achievement",
-"five-research-gaps-vp-empathy-review":"five-research-gaps-vp-empathy-review",
 "five-screenshare-sessions-beat-large-survey":"five-screenshare-sessions-beat-large-survey",
 "five-sdmns-inferred-preservice-teacher-discourse":"five-sdmns-inferred-preservice-teacher-discourse",
 "five-segment-decomposition-slightly-worse-than-three":"five-segment-decomposition-slightly-worse-than-three",
@@ -508478,7 +507853,6 @@
 "gender-predicts-srl-profile-membership":"gender-predicts-srl-profile-membership",
 "gender-prompt-emotional-connection-pedagogy":"gender-prompt-emotional-connection-pedagogy",
 "gender-reading-outcomes-depend-on-phonics-method":"gender-reading-outcomes-depend-on-phonics-method",
-"gender-reported-binary-only-in-autism-outcome-research":"gender-reported-binary-only-in-autism-outcome-research",
 "gender-ses-effects-kinematic-components":"gender-ses-effects-kinematic-components",
 "gender-ses-timing-predict-transfer-place-does-not":"gender-ses-timing-predict-transfer-place-does-not",
 "gender-small-differences-genai-use":"gender-small-differences-genai-use",
@@ -509400,7 +508774,6 @@
 "hal-human-likeness-did-not-transfer-embodied":"hal-human-likeness-did-not-transfer-embodied",
 "half-2023-ca-credentials-substandard":"half-2023-ca-credentials-substandard",
 "half-cps-students-outside-magnet-neighborhood-zones":"half-cps-students-outside-magnet-neighborhood-zones",
-"half-non-empirical-ot-psychotherapy-competence-literature":"half-non-empirical-ot-psychotherapy-competence-literature",
 "half-of-children-with-dcd-have-dysgraphia":"half-of-children-with-dcd-have-dysgraphia",
 "half-of-distinct-words-in-childrens-books-morphologically-complex":"half-of-distinct-words-in-childrens-books-morphologically-complex",
 "half-of-normal-schools-no-separate-hygiene-instruction":"half-of-normal-schools-no-separate-hygiene-instruction",
@@ -509510,7 +508883,6 @@
 "headsprout-positive-oral-language-preschool":"headsprout-positive-oral-language-preschool",
 "headsprout-positive-print-knowledge-preschool":"headsprout-positive-print-knowledge-preschool",
 "health-behavior-change-short-term-promising":"health-behavior-change-short-term-promising",
-"health-diplomacy-evaluation-short-term-self-reported":"health-diplomacy-evaluation-short-term-self-reported",
 "health-diplomacy-training-global-north-dominance":"health-diplomacy-training-global-north-dominance",
 "health-factors-linked-academic-outcomes":"health-factors-linked-academic-outcomes",
 "health-literacy-measures-correlate-strongly-with-cognitive-abilities":"health-literacy-measures-correlate-strongly-with-cognitive-abilities",
@@ -509803,7 +509175,6 @@
 "high-retrieval-tasks-forward-effect-inductive-learning":"high-retrieval-tasks-forward-effect-inductive-learning",
 "high-risk-children-majority-resilient-longitudinal":"high-risk-children-majority-resilient-longitudinal",
 "high-risk-classification-declined-week4-to-week6":"high-risk-classification-declined-week4-to-week6",
-"high-risk-of-bias-active-methodology-studies":"high-risk-of-bias-active-methodology-studies",
 "high-room-illumination-detrimental-film-learning":"high-room-illumination-detrimental-film-learning",
 "high-satisfaction-21-of-22-public-health-active-learning":"high-satisfaction-21-of-22-public-health-active-learning",
 "high-satisfaction-cloud-constructivism-connectivism-model":"high-satisfaction-cloud-constructivism-connectivism-model",
@@ -510679,7 +510050,6 @@
 "incidental-word-learning-from-natural-context":"incidental-word-learning-from-natural-context",
 "incidental-word-learning-while-reading-about-15-percent":"incidental-vocabulary-exposure-limited",
 "incidental-word-learning-while-reading-occurs-but-at-low-rates-per-exposure":"incidental-vocabulary-exposure-limited",
-"included-records-1991-to-2022-most-2016-or-later":"included-records-1991-to-2022-most-2016-or-later",
 "inclusion-effects-heterogeneous-moderator-analyses-inconclusive":"inclusion-effects-heterogeneous-moderator-analyses-inconclusive",
 "inclusion-evidence-low-quality-serious-risk-of-bias":"inclusion-evidence-low-quality-serious-risk-of-bias",
 "inclusion-gap-persists-despite-edtech-investment":"inclusion-gap-persists-despite-edtech-investment",
@@ -511465,7 +510835,6 @@
 "internal-meta-analysis-jigsaw-es-zero":"internal-meta-analysis-jigsaw-es-zero",
 "internal-quality-criteria-guide-error-identification":"internal-quality-criteria-guide-error-identification",
 "internal-scripts-determine-collaboration-behavior":"internal-scripts-determine-collaboration-behavior",
-"internal-structure-most-reported-response-process-consequences-rare":"internal-structure-most-reported-response-process-consequences-rare",
 "internal-vs-external-visual-cue-use-draw-judgments":"internal-vs-external-visual-cue-use-draw-judgments",
 "internalising-peer-perceptions-under-researched":"internalising-peer-perceptions-under-researched",
 "internalized-negative-feelings-negative-affect-displays":"internalized-negative-feelings-negative-affect-displays",
@@ -511502,7 +510871,6 @@
 "interprofessional-mixed-groups-mutual-respect-consent-training":"interprofessional-mixed-groups-mutual-respect-consent-training",
 "interprofessional-teams-better-pressure-ulcer-hazard-identification":"interprofessional-teams-better-pressure-ulcer-hazard-identification",
 "interrater-reliability-93-percent-algorithm-categorization":"interrater-reliability-93-percent-algorithm-categorization",
-"interrater-reliability-kappa-screening-versus-full-text":"interrater-reliability-kappa-screening-versus-full-text",
 "interrupted-math-15yo-zero-low-strong-high":"interrupted-math-15yo-zero-low-strong-high",
 "interrupted-math-grade8-steeper-high":"interrupted-math-grade8-steeper-high",
 "interrupting-juxtaposition-impairs-inductive-learning":"interrupting-juxtaposition-impairs-inductive-learning",
@@ -511636,7 +511004,6 @@
 "ipe-facilitation-competencies-seven-areas":"ipe-facilitation-competencies-seven-areas",
 "ipe-faculty-development-assessment-before-after":"ipe-faculty-development-assessment-before-after",
 "ipe-faculty-development-competencies-communication-teamwork":"ipe-faculty-development-competencies-communication-teamwork",
-"ipe-faculty-development-uses-cihc-ipec-frameworks":"ipe-faculty-development-uses-cihc-ipec-frameworks",
 "ipe-faculty-difficulty-identifying-learning-opportunities":"ipe-faculty-difficulty-identifying-learning-opportunities",
 "ipma-bi-strategic-priority-genai-competence":"ipma-bi-strategic-priority-genai-competence",
 "ipma-vigilance-high-importance-low-performance":"ipma-vigilance-high-importance-low-performance",
@@ -513242,7 +512609,6 @@
 "literal-memory-difference-simile-null":"literal-memory-difference-simile-null",
 "literary-reader-study-helps-formal":"literary-reader-study-helps-formal",
 "literature-education-fosters-insight-human-nature":"literature-education-fosters-insight-human-nature",
-"literature-focuses-on-technical-skills-quantitative-methods":"literature-focuses-on-technical-skills-quantitative-methods",
 "literature-review-assessment-metadata-sel":"literature-review-assessment-metadata-sel",
 "little-achievement-evidence-elsewhere-common-core":"little-achievement-evidence-elsewhere-common-core",
 "little-books-evidence-base-small-one-domain":"little-books-evidence-base-small-one-domain",
@@ -513813,7 +513179,6 @@
 "low-literacy-transactional-generation-network":"low-literacy-transactional-generation-network",
 "low-medium-knowledge-confidence-heighten-curiosity":"low-medium-knowledge-confidence-heighten-curiosity",
 "low-memory-span-retest-correlations":"low-memory-span-retest-correlations",
-"low-methodological-quality-neuraxial-education-studies":"low-methodological-quality-neuraxial-education-studies",
 "low-motivation-correlates-inattention-adhd":"low-motivation-correlates-inattention-adhd",
 "low-motivation-formulaic-writing":"low-motivation-formulaic-writing",
 "low-own-confidence-drives-assumption-change":"low-own-confidence-drives-assumption-change",
@@ -513843,7 +513208,6 @@
 "low-recall-agreement-of-previous-collaborations":"low-recall-agreement-of-previous-collaborations",
 "low-reliability-exam-excluded-from-validity-check":"low-reliability-exam-excluded-from-validity-check",
 "low-reliance-outperformed-high-reliance-midterms":"low-reliance-outperformed-high-reliance-midterms",
-"low-risk-of-bias-included-rcts-rob2":"low-risk-of-bias-included-rcts-rob2",
 "low-salience-concept-map-structure-increases-disorientation":"low-salience-concept-map-structure-increases-disorientation",
 "low-salience-elements-need-extensive-practice":"low-salience-elements-need-extensive-practice",
 "low-salience-map-higher-learning-efficiency":"low-salience-map-higher-learning-efficiency",
@@ -514098,7 +513462,6 @@
 "majority-leas-all-sites-full-day-tk":"majority-leas-all-sites-full-day-tk",
 "majority-lessons-no-high-expert-rating":"majority-lessons-no-high-expert-rating",
 "majority-moderate-few-extreme-tpack":"majority-moderate-few-extreme-tpack",
-"majority-of-trials-purely-vr-minority-ar":"majority-of-trials-purely-vr-minority-ar",
 "majority-perceive-online-risk":"majority-perceive-online-risk",
 "majority-rcr-evaluations-unvalidated-measures":"majority-rcr-evaluations-unvalidated-measures",
 "majority-reject-chatbot-guidance-revision":"majority-reject-chatbot-guidance-revision",
@@ -514647,7 +514010,6 @@
 "mean-item-durations-not-strongly-related-motivation-self-efficacy":"mean-item-durations-not-strongly-related-motivation-self-efficacy",
 "mean-median-sex-difference-slight-versus-pe":"mean-median-sex-difference-slight-versus-pe",
 "mean-recall-approximation-matches-clocked-delay-simulation-at-low-arrival-rates":"mean-recall-approximation-matches-clocked-delay-simulation-at-low-arrival-rates",
-"mean-sample-size-160-4-median-72":"mean-sample-size-160-4-median-72",
 "mean-sentence-length-indicates-full-stop-use":"mean-sentence-length-indicates-full-stop-use",
 "meaning-based-feedback-comprehension-prosody":"meaning-based-feedback-comprehension-prosody",
 "meaning-directed-positive-undirected-negative-performance":"meaning-directed-positive-undirected-negative-performance",
@@ -514663,7 +514025,6 @@
 "measure-script-influence-to-refine-support":"measure-script-influence-to-refine-support",
 "measure-themes-enjoyment-participation-interest":"measure-themes-enjoyment-participation-interest",
 "measure-type-moderates-srl-achievement-relation":"measure-type-moderates-srl-achievement-relation",
-"measurement-approaches-differ-by-outcome-area":"measurement-approaches-differ-by-outcome-area",
 "measurement-cannot-separate-strategic-from-habituated":"measurement-cannot-separate-strategic-from-habituated",
 "measurement-fraction-intervention-beats-control-generalized-knowledge":"measurement-fraction-intervention-beats-control-generalized-knowledge",
 "measurement-invariance-gender-structural-equivalence-rejected":"measurement-invariance-gender-structural-equivalence-rejected",
@@ -514855,8 +514216,6 @@
 "merit-scale-reliability-98-and-92":"merit-scale-reliability-98-and-92",
 "meritocracy-creates-hereditary-meritocracy-exclusion":"meritocracy-creates-hereditary-meritocracy-exclusion",
 "merrill-principles-feedback-no-moderation":"merrill-principles-feedback-no-moderation",
-"mersqi-low-quality-study-design-instrument-validity":"mersqi-low-quality-study-design-instrument-validity",
-"mersqi-mean-12-7-range-8-16":"mersqi-mean-12-7-range-8-16",
 "message-content-matters-nudge-effects":"message-content-matters-nudge-effects",
 "message-frequency-correlates-grades":"message-frequency-correlates-grades",
 "message-level-variance-dominates-knowledge-construction":"message-level-variance-dominates-knowledge-construction",
@@ -515397,7 +514756,6 @@
 "mlm-assessment-reflective-multisource-feedback":"mlm-assessment-reflective-multisource-feedback",
 "mlm-curricula-interactive-experiential-methods":"mlm-curricula-interactive-experiential-methods",
 "mlm-group-prefers-study-materials-over-textbook":"mlm-group-prefers-study-materials-over-textbook",
-"mlm-longitudinal-evaluation-rare":"mlm-longitudinal-evaluation-rare",
 "mlm-organizational-competencies-underrepresented":"mlm-organizational-competencies-underrepresented",
 "mlm-retention-advantage-two-weeks":"mlm-retention-advantage-two-weeks",
 "mlm-script-intermediate-between-mlm-and-textbook":"mlm-script-intermediate-between-mlm-and-textbook",
@@ -515774,7 +515132,6 @@
 "most-early-maths-tools-child-direct-paper-based":"most-early-maths-tools-child-direct-paper-based",
 "most-frequent-correlates-of-motivation-regulation":"most-frequent-correlates-of-motivation-regulation",
 "most-frequent-geriatric-competencies-disease-medication-cognition":"most-frequent-geriatric-competencies-disease-medication-cognition",
-"most-hl-competency-measures-purpose-built-single-use":"most-hl-competency-measures-purpose-built-single-use",
 "most-improved-profile-integrated-ai-support-pattern":"most-improved-profile-integrated-ai-support-pattern",
 "most-prospective-teachers-produce-dynamic-simulations":"most-prospective-teachers-produce-dynamic-simulations",
 "most-scd-children-have-vocabulary-weaknesses":"most-scd-children-have-vocabulary-weaknesses",
@@ -515906,7 +515263,6 @@
 "mpts-lesson-presentation-top-assessment-task":"mpts-lesson-presentation-top-assessment-task",
 "mpts-view-21st-century-methods-top-outcome":"mpts-view-21st-century-methods-top-outcome",
 "mr-assessment-underdeveloped-in-pt":"mr-assessment-underdeveloped-in-pt",
-"mr-defined-13-studies-blend":"mr-defined-13-studies-blend",
 "mr-lower-social-presence-than-rle":"mr-lower-social-presence-than-rle",
 "mr-mci-training-shows-promise":"mr-mci-training-shows-promise",
 "mr-moderate-rle-high-learning-gains":"mr-moderate-rle-high-learning-gains",
@@ -517663,7 +517019,6 @@
 "obc-provider-super-users-product-learning":"obc-provider-super-users-product-learning",
 "obesity-cognitive-reserve-moderation-old-age":"obesity-cognitive-reserve-moderation-old-age",
 "obesity-competencies-eleven-domains-scoping-review":"obesity-competencies-eleven-domains-scoping-review",
-"obesity-competency-review-22-studies-heterogeneous-designs":"obesity-competency-review-22-studies-heterogeneous-designs",
 "obesity-lower-cognitive-performance-old-age":"obesity-lower-cognitive-performance-old-age",
 "obesity-non-significant-cognitive-reserve-adjusted":"obesity-non-significant-cognitive-reserve-adjusted",
 "object-formation-iterative-germ-cell-encapsulated":"object-formation-iterative-germ-cell-encapsulated",
@@ -518241,7 +517596,6 @@
 "oss-no-long-term-follow-up":"oss-no-long-term-follow-up",
 "oss-qualitative-awareness-physical-emotional":"oss-qualitative-awareness-physical-emotional",
 "oss-scoping-review-mixed-evidence":"oss-scoping-review-mixed-evidence",
-"ot-psychotherapy-competence-articles-1927-2020-distribution":"ot-psychotherapy-competence-articles-1927-2020-distribution",
 "other-federal-aid-did-not-offset-plus-decline":"other-federal-aid-did-not-offset-plus-decline",
 "other-made-choices-beneficial-east-asian-youth":"other-made-choices-beneficial-east-asian-youth",
 "other-postgraduate-specialty-reviews-pbl-cbl-quality-unsatisfactory":"other-postgraduate-specialty-reviews-pbl-cbl-quality-unsatisfactory",
@@ -518817,7 +518171,6 @@
 "pbl-large-positive-effect-secondary-science-achievement":"pbl-large-positive-effect-secondary-science-achievement",
 "pbl-learning-issues-assumption-untested":"pbl-learning-issues-assumption-untested",
 "pbl-meta-analysis-corpus-55-datasets-composition":"pbl-meta-analysis-corpus-55-datasets-composition",
-"pbl-most-investigated-active-methodology-dentistry":"pbl-most-investigated-active-methodology-dentistry",
 "pbl-no-significant-objective-knowledge-gains-pgme":"pbl-no-significant-objective-knowledge-gains-pgme",
 "pbl-null-basic-knowledge-positive-transfer":"pbl-null-basic-knowledge-positive-transfer",
 "pbl-opinion-shifts-limited-by-preexisting-views":"pbl-opinion-shifts-limited-by-preexisting-views",
@@ -518826,8 +518179,6 @@
 "pbl-positive-student-satisfaction-obgyn":"pbl-positive-student-satisfaction-obgyn",
 "pbl-potential-flexible-understanding-lifelong-learning":"pbl-potential-flexible-understanding-lifelong-learning",
 "pbl-recall-benefit-general-not-explanation-specific":"pbl-recall-benefit-general-not-explanation-specific",
-"pbl-review-sample-sizes-52-464-median-149":"pbl-review-sample-sizes-52-464-median-149",
-"pbl-review-studies-cross-sectional-asia-no-comparator":"pbl-review-studies-cross-sectional-asia-no-comparator",
 "pbl-skills-interpersonal-problem-solving-group":"pbl-skills-interpersonal-problem-solving-group",
 "pbl-students-positive-views-interviews":"pbl-students-positive-views-interviews",
 "pbl-success-requires-srl-processes-not-natural":"pbl-success-requires-srl-processes-not-natural",
@@ -520097,7 +519448,6 @@
 "power4kids-four-reading-interventions-compared":"power4kids-four-reading-interventions-compared",
 "powerpoint-meta-analysis-null-pooled-effect":"powerpoint-meta-analysis-null-pooled-effect",
 "ppb-readability-comparable-flesch-kincaid-increased":"ppb-readability-comparable-flesch-kincaid-increased",
-"ppbl-lecturing-pbee-most-frequent-approaches":"ppbl-lecturing-pbee-most-frequent-approaches",
 "ppc-retrieval-success-effect-emerges-age-12":"ppc-retrieval-success-effect-emerges-age-12",
 "ppe-best-fitting-andes-physics":"ppe-best-fitting-andes-physics",
 "ppe-schools-achievement-gains-2015-2017":"ppe-schools-achievement-gains-2015-2017",
@@ -521281,7 +520631,6 @@
 "publication-bias-small-study-effects-games-stem":"publication-bias-small-study-effects-games-stem",
 "publication-bias-trim-and-fill-adjustment":"publication-bias-trim-and-fill-adjustment",
 "publication-bias-trim-fill-raises-effect":"publication-bias-trim-fill-raises-effect",
-"publication-growth-since-2019-intercultural-digital":"publication-growth-since-2019-intercultural-digital",
 "publication-type-no-moderation-formative-assessment":"publication-type-no-moderation-formative-assessment",
 "publication-type-not-significant-moderator-constructivism-attitudes":"publication-type-not-significant-moderator-constructivism-attitudes",
 "publication-year-moderator-generation-effect":"publication-year-moderator-generation-effect",
@@ -521378,7 +520727,6 @@
 "qualitative-themes-ai-writing-motivation-dependence":"qualitative-themes-ai-writing-motivation-dependence",
 "qualitative-themes-visualization-versus-operability":"qualitative-themes-visualization-versus-operability",
 "qualities-metaphors-genai-unknowable-unreliable":"qualities-metaphors-genai-unknowable-unreliable",
-"quality-assessment-and-cost-not-evident-in-studies":"quality-assessment-and-cost-not-evident-in-studies",
 "quality-assessments-accurate-timely-information-maximize-learning":"quality-assessments-accurate-timely-information-maximize-learning",
 "quality-assurance-graduate-attributes-underutilised":"quality-assurance-graduate-attributes-underutilised",
 "quality-efficiency-tradeoff-mas-architectures":"quality-efficiency-tradeoff-mas-architectures",
@@ -521410,7 +520758,6 @@
 "quasi-community-shared-object-motive":"quasi-community-shared-object-motive",
 "quasi-community-storytelling-knowledge":"quasi-community-storytelling-knowledge",
 "quasi-experimental-chatbot-intervention-lowered-loneliness-short-term":"quasi-experimental-chatbot-intervention-lowered-loneliness-short-term",
-"quasi-experimental-designs-dominate-documentation-studies":"quasi-experimental-designs-dominate-documentation-studies",
 "quasi-sync-unique-dialectical-structure":"quasi-sync-unique-dialectical-structure",
 "quasi-synchronous-discord-most-positive-affect":"quasi-synchronous-discord-most-positive-affect",
 "query-evaluation-verification-loop":"query-evaluation-verification-loop",
@@ -521616,7 +520963,6 @@
 "rate-versus-quality-progress-curves":"rate-versus-quality-progress-curves",
 "rater-ensembles-outperform-llms-feedback":"rater-ensembles-outperform-llms-feedback",
 "rater-perspective-moderates-job-satisfaction-links":"rater-perspective-moderates-job-satisfaction-links",
-"rater-training-65-percent-bias-statement-29-percent":"rater-training-65-percent-bias-statement-29-percent",
 "raters-ai-mean-differences-class-domains":"raters-ai-mean-differences-class-domains",
 "raters-differed-severity-mfrm":"raters-differed-severity-mfrm",
 "rating-boosts-recall-overall-level":"rating-boosts-recall-overall-level",
@@ -521744,7 +521090,6 @@
 "reading-achievement-unrelated-behavior-problems":"reading-achievement-unrelated-behavior-problems",
 "reading-age-moderates-priming-effect-td-only":"reading-age-moderates-priming-effect-td-only",
 "reading-and-assignments-most-time-consuming":"reading-and-assignments-most-time-consuming",
-"reading-and-maths-most-reported-academic-outcomes":"reading-and-maths-most-reported-academic-outcomes",
 "reading-apprenticeship-cohort2-comprehension-significant":"reading-apprenticeship-cohort2-comprehension-significant",
 "reading-apprenticeship-no-vocabulary-effect":"reading-apprenticeship-no-vocabulary-effect",
 "reading-apprenticeship-null-grade-outcomes":"reading-apprenticeship-null-grade-outcomes",
@@ -521968,7 +521313,6 @@
 "reconstructed-teaching-beliefs-llm-era":"reconstructed-teaching-beliefs-llm-era",
 "recorded-lectures-controversial-accessibility-strategy":"recorded-lectures-controversial-accessibility-strategy",
 "recording-angle-no-cognitive-load-effect":"recording-angle-no-cognitive-load-effect",
-"records-usa-dominant-no-south-american-african-countries":"records-usa-dominant-no-south-american-african-countries",
 "recovery-camp-reduces-stigma-more-than-typical-placement":"recovery-camp-reduces-stigma-more-than-typical-placement",
 "recovery-declines-with-impasse-depth":"recovery-declines-with-impasse-depth",
 "recovery-funds-new-positions-shortages":"recovery-funds-new-positions-shortages",
@@ -523552,14 +522896,10 @@
 "scooter-reduced-gaming-marginally":"scooter-reduced-gaming-marginally",
 "scooter-supplementary-exercises-learning-gains":"scooter-supplementary-exercises-learning-gains",
 "scope-of-pbl-implementation-shapes-discussion":"scope-of-pbl-implementation-shapes-discussion",
-"scoping-review-1277-records-11-included":"scoping-review-1277-records-11-included",
 "scoping-review-146-csa-studies-98394-participants":"scoping-review-146-csa-studies-98394-participants",
-"scoping-review-16-publications-mlm-ume":"scoping-review-16-publications-mlm-ume",
 "scoping-review-34-studies-eight-competency-categories":"scoping-review-34-studies-eight-competency-categories",
 "scoping-review-42-studies-four-curricular-categories":"scoping-review-42-studies-four-curricular-categories",
-"scoping-review-88-unique-hl-competency-measures":"scoping-review-88-unique-hl-competency-measures",
 "scoping-review-low-cost-simulation-competency-coverage":"scoping-review-low-cost-simulation-competency-coverage",
-"scoping-review-low-cost-simulation-geographic-distribution":"scoping-review-low-cost-simulation-geographic-distribution",
 "scoping-review-low-cost-simulation-nursing-strategy-distribution":"scoping-review-low-cost-simulation-nursing-strategy-distribution",
 "scoping-review-seven-dimensions-63-elements-tb-educators":"scoping-review-seven-dimensions-63-elements-tb-educators",
 "score-distributions-roughly-equal-both-packages":"score-distributions-roughly-equal-both-packages",
@@ -523629,7 +522969,6 @@
 "sdc-moderates-cardiovascular-fitness-spelling-link":"sdc-moderates-cardiovascular-fitness-spelling-link",
 "sdl-experimental-condition-larger-effects":"sdl-experimental-condition-larger-effects",
 "sdl-implementation-gap-learner-autonomy":"sdl-implementation-gap-learner-autonomy",
-"sdl-meta-analysis-no-publication-bias":"sdl-meta-analysis-no-publication-bias",
 "sdl-modality-teacher-role-no-significant-moderation":"sdl-modality-teacher-role-no-significant-moderation",
 "sdl-no-kirkpatrick-level-4-outcomes":"sdl-no-kirkpatrick-level-4-outcomes",
 "sdl-srl-developmental-processes-pbl":"sdl-srl-developmental-processes-pbl",
@@ -524904,7 +524243,6 @@
 "six-priority-areas-primary-secondary-transitions-review":"six-priority-areas-primary-secondary-transitions-review",
 "six-process-model-fits-better-than-unidimensional":"six-process-model-fits-better-than-unidimensional",
 "six-provisional-manager-typologies-lca":"six-provisional-manager-typologies-lca",
-"six-qualitative-studies-graduate-nurses-dementia-care":"six-qualitative-studies-graduate-nurses-dementia-care",
 "six-reasons-adult-learners-take-moocs":"six-reasons-adult-learners-take-moocs",
 "six-responses-practical-learning-online":"six-responses-practical-learning-online",
 "six-scholar-critiques-context-needed-for-ols-framework":"six-scholar-critiques-context-needed-for-ols-framework",
@@ -526244,7 +525582,6 @@
 "strict-persona-effect-exam-specific":"strict-persona-effect-exam-specific",
 "strict-preamble-policy-sentence-attribution":"strict-preamble-policy-sentence-attribution",
 "stringent-ntool-increases-negotiation":"stringent-ntool-increases-negotiation",
-"strobe-reporting-quality-varies-by-outcome-area":"strobe-reporting-quality-varies-by-outcome-area",
 "strobl-2019-emerging-broader-tools":"strobl-2019-emerging-broader-tools",
 "strobl-2019-language-genre-imbalance":"strobl-2019-language-genre-imbalance",
 "strobl-2019-micro-macro-pedagogical-imbalance":"strobl-2019-micro-macro-pedagogical-imbalance",
@@ -527515,7 +526852,6 @@
 "tbi-outperforms-sbi-ai-literacy-performance":"tbi-outperforms-sbi-ai-literacy-performance",
 "tbl-alone-versus-blended-no-significant-difference":"tbl-alone-versus-blended-no-significant-difference",
 "tbl-effect-larger-interventions-over-four-weeks":"tbl-effect-larger-interventions-over-four-weeks",
-"tbl-ethics-studies-moderate-quality":"tbl-ethics-studies-moderate-quality",
 "tbl-exam-scores-higher-than-lecture-two-studies":"tbl-exam-scores-higher-than-lecture-two-studies",
 "tbl-formats-similar-irat-trat-performance":"tbl-formats-similar-irat-trat-performance",
 "tbl-fosters-professional-identity":"tbl-fosters-professional-identity",
@@ -528299,7 +527635,6 @@
 "ten-of-211-srl-items-feasible-lms-indicators":"ten-of-211-srl-items-feasible-lms-indicators",
 "ten-states-explicitly-include-spanish-english-bilinguals-in-keas":"ten-states-explicitly-include-spanish-english-bilinguals-in-keas",
 "ten-steps-design-cost-time-intensive":"ten-steps-design-cost-time-intensive",
-"ten-studies-257-competencies-18-domains":"ten-studies-257-competencies-18-domains",
 "ten-themes-three-overarching-cpt-resource-needs":"ten-themes-three-overarching-cpt-resource-needs",
 "ten-year-rule-expert-performance":"ten-year-rule-expert-performance",
 "ten-years-schooling-maximum-intelligence":"ten-years-schooling-maximum-intelligence",
@@ -529931,7 +529266,6 @@
 "validator-reliability-highest-realism-lowest-authenticity":"validator-reliability-highest-realism-lowest-authenticity",
 "validity-applies-to-all-five-test-uses":"validity-applies-to-all-five-test-uses",
 "validity-evidence-construct-dominant-unvalidated-tools":"validity-evidence-construct-dominant-unvalidated-tools",
-"validity-framework-use-ten-percent":"validity-framework-use-ten-percent",
 "validity-lower-bound-reliability":"validity-lower-bound-reliability",
 "value-added-augmented-designs-benefit":"value-added-augmented-designs-benefit-learning",
 "value-added-augmented-designs-benefit-learning":"value-added-augmented-designs-benefit-learning",
@@ -530416,7 +529750,6 @@
 "vp-communication-long-term-retention-transfer-inconsistent":"vp-communication-long-term-retention-transfer-inconsistent",
 "vp-design-variants-mostly-null":"vp-design-variants-mostly-null",
 "vp-effectiveness-global-applicability":"vp-effectiveness-global-applicability",
-"vp-empathy-study-design-distribution":"vp-empathy-study-design-distribution",
 "vp-interventions-empathy-improvements-all-19-studies":"vp-interventions-empathy-improvements-all-19-studies",
 "vp-passive-versus-active-comparison":"vp-passive-versus-active-comparison",
 "vp-passive-vs-active-comparison":"vp-passive-versus-active-comparison",
@@ -530462,7 +529795,6 @@
 "vr-cueing-no-cognitive-load-reduction":"vr-cueing-no-cognitive-load-reduction",
 "vr-cueing-no-learning-outcome-effect":"vr-cueing-no-learning-outcome-effect",
 "vr-cueing-no-spatial-representation-detriment":"vr-cueing-no-spatial-representation-detriment",
-"vr-defined-95-studies-features":"vr-defined-95-studies-features",
 "vr-delirium-empathy-order-effect":"vr-delirium-empathy-order-effect",
 "vr-did-not-increase-interest":"vr-did-not-increase-interest",
 "vr-discussion-before-embodied-action":"vr-discussion-before-embodied-action",
@@ -531253,7 +530585,6 @@
 "xr-gears-vs-no-training-large-non-significant-effect":"xr-gears-vs-no-training-large-non-significant-effect",
 "xr-higher-agent-realism-than-non-immersive":"xr-higher-agent-realism-than-non-immersive",
 "xr-recurring-features-dental-simulation":"xr-recurring-features-dental-simulation",
-"xr-terminology-inconsistency-dental-education":"xr-terminology-inconsistency-dental-education",
 "xr-training-faster-time-to-complete-than-no-training":"xr-training-faster-time-to-complete-than-no-training",
 "xr-vs-dry-lab-gears-no-significant-difference":"xr-vs-dry-lab-gears-no-significant-difference",
 "xr-vs-dry-lab-time-to-complete-no-significant-difference":"xr-vs-dry-lab-time-to-complete-no-significant-difference",

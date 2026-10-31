@@ -47,6 +47,6 @@ Discussion-section observation on provincial regulatory inconsistency, stating t
 
 ## Related Claims
 - [The Great Debate: occupational therapists hold conflicting views on whether psychotherapy falls within occupational therapy's scope of practice](great-debate-scope-of-practice-conflict.md) — related
-- [Most included literature on psychotherapy competence in occupational therapy was published after 2000, and half was non-empirical](half-non-empirical-ot-psychotherapy-competence-literature.md) — related
+- Most included literature on psychotherapy competence in occupational therapy was published after 2000, and half was non-empirical — related
 - [Experienced occupational therapists are more likely to feel competent delivering psychotherapy](experience-linked-ot-psychotherapy-competence-confidence.md) — related
 - [No consistent pathway exists for occupational therapists to attain psychotherapy competence](no-consistent-pathway-ot-psychotherapy-competence.md) — related

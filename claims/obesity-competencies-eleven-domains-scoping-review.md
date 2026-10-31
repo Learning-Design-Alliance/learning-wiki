@@ -47,5 +47,5 @@ Systematic synthesis of competencies reported across the 22 included papers, usi
 
 ## Related Claims
 - [Clinical Assessment and Clinical Management were the most frequently reported competency domains](clinical-assessment-management-most-frequent-obesity-competencies.md) — a narrower finding that bears on this claim
-- [Twenty-two studies were included from 1,286 screened records, with heterogeneous designs and disciplines](obesity-competency-review-22-studies-heterogeneous-designs.md) — a narrower finding that bears on this claim
+- Twenty-two studies were included from 1,286 screened records, with heterogeneous designs and disciplines — a narrower finding that bears on this claim
 - [Competencies in overarching domains (communication, professionalism) were more consistent across disciplines than clinical domains](cross-discipline-competency-convergence-communication-professionalism.md) — a narrower finding that bears on this claim

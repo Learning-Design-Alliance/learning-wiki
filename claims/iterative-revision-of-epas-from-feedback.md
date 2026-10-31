@@ -45,7 +45,7 @@ Narrative synthesis reports that "revision and ongoing refinement of EPAs" was "
 
 
 ## Related Claims
-- [All six included studies were conducted in Australia, highlighting a void of published literature on EPAs in nutrition and dietetics education outside Australia.](australian-only-epa-literature-void.md) — related
+- All six included studies were conducted in Australia, highlighting a void of published literature on EPAs in nutrition and dietetics education outside Australia. — related
 - [EPA development and review processes require key stakeholder engagement in nutrition and dietetics education.](epa-development-requires-key-stakeholder-engagement.md) — related
 - [Consensus methods and focus groups are the most common EPA development methodologies, with medical education experts and clinicians the most involved stakeholders](epa-development-consensus-focus-groups-stakeholders.md) — related
 - [Review-revise iterations improve synthesized problem quality, with gains largely stabilizing by the third iteration](review-revise-iterations-quality-stabilizes.md) — a broader claim this one bears on

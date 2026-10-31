@@ -47,7 +47,7 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 
 ## Related Claims
 - [Transfer of advanced competencies is limited by institutional case exposure, technical platforms, and multidisciplinary maturity rather than training deficiencies](advanced-competency-transfer-limited-by-institutional-resources.md) — related
-- [Organizational empowerment through clear role positioning and multidisciplinary support enables sustained training transfer](organizational-empowerment-enables-transfer.md) — related
+- [Specialty nurses and their managers describe clear role positioning and multidisciplinary support as facilitating training transfer](organizational-empowerment-enables-transfer.md) — related
 - [Baseline-only training was insufficient for sustained measurement accuracy; healthcare workers recommended refresher training](refresher-training-needed-for-muac-accuracy.md) — related
 - [Structural barriers — fragmented health systems, insufficient reimbursement and workforce shortages — constrain integration of psychological care in diabetes services](structural-barriers-psychological-care-integration.md) — related
 - [Training transfer among neurosurgical specialty nurses is an adaptive reconstruction process, not linear replication of training content](training-transfer-as-adaptive-reconstruction.md) — related

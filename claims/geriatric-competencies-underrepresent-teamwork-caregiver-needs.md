@@ -47,5 +47,5 @@ The review's synthesis across the ten included studies finds that, despite the d
 
 ## Related Claims
 - [The most emphasized geriatric core competencies fall under the ACGME 'patient care' category](geriatric-competencies-map-to-acgme-patient-care.md) — related
-- [Only ten studies met inclusion criteria, yielding 257 core competencies across 18 domains](ten-studies-257-competencies-18-domains.md) — related
+- Only ten studies met inclusion criteria, yielding 257 core competencies across 18 domains — related
 - [Geriatric core competencies for physicians, medical students, and nurses most frequently cover disease and comorbidities, pharmacologic/medication management, and cognitive/dementia problems](most-frequent-geriatric-competencies-disease-medication-cognition.md) — related

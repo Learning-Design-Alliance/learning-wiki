@@ -46,7 +46,7 @@ The review's synthesis of its 11 included records, identified through searches o
 
 
 ## Related Claims
-- [The scoping review's database searches identified 1,277 records, of which 11 were included in the final corpus for data extraction.](scoping-review-1277-records-11-included.md) — related
+- The scoping review's database searches identified 1,277 records, of which 11 were included in the final corpus for data extraction. — related
 - [The reviewed competency assessments can be classified into three categories: broad assessments, narrow assessments, and unclear or unspecified assessments.](three-categories-broad-narrow-unclear-assessments.md) — related
 - [A prominent trend was the reliance on competency metrics that involved expert observation of specific clinical skills, with a notable absence of comprehensive measures combining broad scope and operationally defined skill sets.](reliance-on-expert-observation-absence-of-comprehensive-measures.md) — related
-- [Twenty-two studies were included from 1,286 screened records, with heterogeneous designs and disciplines](obesity-competency-review-22-studies-heterogeneous-designs.md) — related
+- Twenty-two studies were included from 1,286 screened records, with heterogeneous designs and disciplines — related

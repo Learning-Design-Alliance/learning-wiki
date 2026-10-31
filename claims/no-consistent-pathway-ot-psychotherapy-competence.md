@@ -48,7 +48,7 @@ Narrative synthesis finding from the scoping review, stating that "the literatur
 ## Related Claims
 - [Experienced occupational therapists are more likely to feel competent delivering psychotherapy](experience-linked-ot-psychotherapy-competence-confidence.md) — related
 - [The Great Debate: occupational therapists hold conflicting views on whether psychotherapy falls within occupational therapy's scope of practice](great-debate-scope-of-practice-conflict.md) — related
-- [Most included literature on psychotherapy competence in occupational therapy was published after 2000, and half was non-empirical](half-non-empirical-ot-psychotherapy-competence-literature.md) — related
+- Most included literature on psychotherapy competence in occupational therapy was published after 2000, and half was non-empirical — related
 - [Psychotherapy regulation and supervision requirements vary across Canadian provinces, potentially limiting skill acquisition](inconsistent-provincial-psychotherapy-regulation-supervision.md) — related
-- [Attaining and Maintaining Competence is the largest subtheme, covering 87.5% of included articles](attaining-maintaining-competence-largest-subtheme.md) — related
-- [Included articles span 1927 to 2020, with 81% published between 1996 and 2020](ot-psychotherapy-competence-articles-1927-2020-distribution.md) — related
+- Attaining and Maintaining Competence is the largest subtheme, covering 87.5% of included articles — related
+- Included articles span 1927 to 2020, with 81% published between 1996 and 2020 — related

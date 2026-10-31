@@ -42,7 +42,7 @@ The authors recommend that "Future studies should prioritize using objective out
 - [Early clinical exposure improves the clinical skills of medical students compared with traditional teaching](../claims/ece-improves-clinical-skills.md) [~W]
 - [Most medical students report that early clinical exposure improves their communication skills](../claims/ece-improves-communication-skills-perceptions.md) [~W]
 - [Early clinical exposure increases medical knowledge test scores and motivates learning](../claims/ece-improves-knowledge-motivation.md) [~W]
-- [Students perceive that early clinical exposure improves problem-solving, professionalism, and confidence](../claims/ece-perceived-problem-solving-professionalism-confidence.md) [~W]
+- [Students perceive that early clinical exposure improves problem-solving and confidence, and many redefine their understanding of professionalism](../claims/ece-perceived-problem-solving-professionalism-confidence.md) [~W]
 
 ## Related Strategies
 

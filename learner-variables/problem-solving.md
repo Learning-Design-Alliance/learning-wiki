@@ -127,7 +127,7 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [CBL, PBL, and TBL each significantly improve nursing students' problem-solving abilities](../claims/cbl-pbl-tbl-problem-solving-subgroups.md) [+M] — instruction changes it
 - [Modern teaching methods significantly improve nursing students' problem-solving abilities (SMD = 1.05)](../claims/modern-methods-improve-nursing-problem-solving-meta.md) [+M] — instruction changes it
 - [Problem-solving benefits of modern methods hold across durations, designs, sample sizes, and sophomore/senior grades, but not third-year students](../claims/problem-solving-benefits-robust-across-moderators.md) [~M] — an instructional effect differs with it
-- [Students perceive that early clinical exposure improves problem-solving, professionalism, and confidence](../claims/ece-perceived-problem-solving-professionalism-confidence.md) [+M] — instruction changes it
+- [Students perceive that early clinical exposure improves problem-solving and confidence, and many redefine their understanding of professionalism](../claims/ece-perceived-problem-solving-professionalism-confidence.md) [+M] — instruction changes it
 
 ## Measures
 - **Everyday Problem Solving Inventory** (Cornelius & Capsi, 1987): task-based assessment in which learners analyse 48 real-life scenarios about family, home, conflict and managing information.

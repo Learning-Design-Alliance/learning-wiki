@@ -47,7 +47,7 @@ The review reports that "evidence for clinical or process outcomes was limited b
 
 
 ## Related Claims
-- [Included studies were limited by small participant cohorts and single-centre designs](anaesthesia-e-learning-small-cohorts-limitation.md) — related
+- Included studies were limited by small participant cohorts and single-centre designs — related
 - [NTS training for emergency department professionals is associated with consistent pre- to post-training improvements in knowledge, teamwork attitudes, and self-confidence (low to moderate certainty).](nts-training-improves-ed-learning-outcomes.md) — related
 - [NTS training improves observable team behavioural performance in EDs, including more frequent closed-loop communication, clearer role allocation and prioritisation, improved situational awareness, and higher teamwork ratings (moderate certainty).](nts-training-improves-ed-team-behaviours.md) — related
 - [In one included study, simulation-based team training in a trauma bay was followed by a 16 percent reduction in total resuscitation time and faster completion of primary surveys.](steinemann-resuscitation-time-reduction.md) — a narrower finding that bears on this claim

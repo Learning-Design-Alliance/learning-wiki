@@ -48,6 +48,6 @@ Qualitative interview study by Hartung et al. (2021) with new graduate nurses in
 - [Dementia care training improved graduate nurses' knowledge and confidence in caring for people living with dementia](dementia-training-improved-graduate-nurse-knowledge-confidence.md) — related
 - [Common features distinguish more efficacious dementia educational programs, including role relevance, active face-to-face participation, theory-underpinned practice learning, experienced facilitation, and support for applying learning in practice](common-features-efficacious-dementia-education-programs.md) — related
 - [No studies have assessed the dementia care knowledge, confidence and experience of graduate nurses caring for people living with dementia](no-studies-assess-graduate-nurse-dementia-knowledge.md) — reports the opposite
-- [Only six qualitative studies on graduate nurses caring for people living with dementia were identified](six-qualitative-studies-graduate-nurses-dementia-care.md) — related
+- Only six qualitative studies on graduate nurses caring for people living with dementia were identified — related
 - [Graduate nurses have little confidence in caring for people with dementia due to lack of knowledge and experience](graduate-nurses-low-confidence-dementia-care.md) — related
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related

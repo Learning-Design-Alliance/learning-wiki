@@ -17,7 +17,7 @@ sources:
 # Provide dementia care training to nurses in pre- and post-registration programmes
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The review recommends that "Adequate dementia care training should be provided to nurses during both pre and post-registration programmes to enable them to provide quality care." It cites WHO's global plan recommending development of dementia care training programmes for all health care professionals to encourage positive attitudes toward people living with dementia.
@@ -46,7 +46,6 @@ The review recommends that "Adequate dementia care training should be provided t
 - [Barriers graduate nurses face in dementia care are similar to those of experienced nurses, with supportive colleagues and early exposure as facilitators](../claims/graduate-nurse-dementia-care-barriers-facilitators.md) [+W]
 - [Graduate nurses have little confidence in caring for people with dementia due to lack of knowledge and experience](../claims/graduate-nurses-low-confidence-dementia-care.md) [+W]
 - [No studies have assessed the dementia care knowledge, confidence and experience of graduate nurses caring for people living with dementia](../claims/no-studies-assess-graduate-nurse-dementia-knowledge.md) [~W]
-- [Only six qualitative studies on graduate nurses caring for people living with dementia were identified](../claims/six-qualitative-studies-graduate-nurses-dementia-care.md) [~W]
 
 ## Related Strategies
 

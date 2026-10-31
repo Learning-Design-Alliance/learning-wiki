@@ -51,9 +51,9 @@ One cross-sectional study (Ye et al., China) synthesized narratively: "significa
 ## Related Claims
 - [Early clinical exposure increases medical knowledge test scores and motivates learning](ece-improves-knowledge-motivation.md) — related
 - [Early clinical exposure improves the clinical skills of medical students compared with traditional teaching](ece-improves-clinical-skills.md) — related
-- [Empathy was assessed primarily through questionnaires and semi-structured interviews; only two studies used objective indicators such as facial emotion recognition](empathy-assessment-methods-questionnaire-dominance.md) — related
+- Empathy was assessed primarily through questionnaires and semi-structured interviews; only two studies used objective indicators such as facial emotion recognition — related
 - [Early clinical exposure significantly improves dental students' overall competency compared with traditional teaching (SMD = 1.25), though evidence certainty is low](ece-improves-dental-student-competency-meta.md) — related
-- [Students perceive that early clinical exposure improves problem-solving, professionalism, and confidence](ece-perceived-problem-solving-professionalism-confidence.md) — related
+- [Students perceive that early clinical exposure improves problem-solving and confidence, and many redefine their understanding of professionalism](ece-perceived-problem-solving-professionalism-confidence.md) — related
 - [Evidence that emotional competence improves patient outcomes is limited and mixed](ec-patient-outcomes-limited-mixed.md) — related
 - [Most medical students report that early clinical exposure improves their communication skills](ece-improves-communication-skills-perceptions.md) — related
 - [ECE benefits both junior and senior preclinical dental students, with a larger pooled effect in junior students](ece-benefits-junior-and-senior-students.md) — related

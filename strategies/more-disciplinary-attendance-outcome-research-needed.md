@@ -17,7 +17,7 @@ sources:
 # Conduct more research on disciplinary and attendance outcomes and examine relationships between academic, disciplinary and attendance outcomes for autistic students
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review's conclusions call for future research: "there is a need for more research on disciplinary and attendance outcomes" and "a need to examine relationships between academic, disciplinary and attendance outcomes for autistic students when considering educational outcomes for them". The authors note disciplinary and attendance outcomes negatively impact academic and post-school outcomes in the general literature, and that the identification of behaviour differences as a predictor of academic achievement suggests combined investigations are warranted.
@@ -40,7 +40,6 @@ The review's conclusions call for future research: "there is a need for more res
 
 ## Claims
 
-- [Educational outcome research for autistic students has predominantly focused on academic achievement, with few items investigating disciplinary or attendance outcomes](../claims/autism-outcome-research-predominantly-academic.md) [+W]
 - [Educational outcome research for autistic students is geographically concentrated in North America and Europe, with no disciplinary or attendance items from Asia or South America](../claims/autism-outcome-research-geographic-concentration.md) [+W]
 
 ## Related Strategies

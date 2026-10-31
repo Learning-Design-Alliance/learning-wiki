@@ -60,4 +60,4 @@ Narrative synthesis of the included innovation studies: the named active-learnin
 - [Student-centered innovative strategies (PBL, EBL, simulation, TBL, blended and online learning) showed positive effects in pharmaceutical care learning](innovative-strategies-positive-effects-pharmaceutical-care.md) — possibly the same claim (merge candidate)
 - [First-year medical students in the single first-year-focused study reported high engagement (97%) and perceived improved teamwork (87%) with PBL](first-year-students-high-engagement-teamwork-pbl.md) — related
 - [PBL and flipped classrooms frequently show better post-test performance and knowledge retention than traditional methods](pbl-flipped-better-post-test-performance.md) — related
-- [PBL is the most investigated active teaching methodology in undergraduate dentistry, followed by flipped classroom and gamification](pbl-most-investigated-active-methodology-dentistry.md) — related
+- PBL is the most investigated active teaching methodology in undergraduate dentistry, followed by flipped classroom and gamification — related

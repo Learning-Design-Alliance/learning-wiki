@@ -45,6 +45,6 @@ Descriptive mapping of assessment methods across included studies, reported in t
 
 
 ## Related Claims
-- [Only 10% of CSA studies reported using a validity framework such as Messick's or Kane's](validity-framework-use-ten-percent.md) — related
+- Only 10% of CSA studies reported using a validity framework such as Messick's or Kane's — related
 - [Performance-based assessments dominate the studied assessments in entry-level physical therapy education, with simulation-based the most common format](pt-education-assessments-performance-based-dominant.md) — related
 - [Workplace observation by faculty is the dominant EPA implementation and assessment method, and logistical difficulties and faculty development issues are leading implementation barriers](epa-implementation-workplace-observation-logistical-barriers.md) — related

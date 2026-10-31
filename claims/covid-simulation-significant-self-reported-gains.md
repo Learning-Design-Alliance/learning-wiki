@@ -46,6 +46,6 @@ The review's evaluation section reports the epidemic simulation's pre/post resul
 
 ## Related Claims
 - [Negotiation and diplomacy skills were the most consistently addressed competency, appearing in all eight studies](negotiation-diplomacy-skills-all-eight-studies.md) — related
-- [Eight health diplomacy training initiatives and frameworks published between 2017 and 2025 were identified in the scoping review](eight-health-diplomacy-initiatives-2017-2025.md) — related
-- [Evaluation methods across health diplomacy training initiatives were mostly short-term and self-reported, with limited evidence of long-term or institutional outcomes](health-diplomacy-evaluation-short-term-self-reported.md) — related
+- Eight health diplomacy training initiatives and frameworks published between 2017 and 2025 were identified in the scoping review — related
+- Evaluation methods across health diplomacy training initiatives were mostly short-term and self-reported, with limited evidence of long-term or institutional outcomes — related
 - [Cross-cultural communication and leadership were emphasized in six of the eight reviewed initiatives](cross-cultural-communication-leadership-six-initiatives.md) — related

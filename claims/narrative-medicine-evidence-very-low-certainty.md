@@ -51,4 +51,4 @@ The review's own GRADE assessment across all pooled outcomes, downgraded for ris
 - [The evidence base on inclusion effects is methodologically weak: no randomised studies and nearly all synthesised studies at serious risk of bias](inclusion-evidence-low-quality-serious-risk-of-bias.md) — related
 - Most included studies carried a high risk of bias or some concerns, particularly for confounding and outcome measurement, limiting certainty — related
 - [Educational programmes are consistently associated with statistically significant improvements in nurses' knowledge of diabetic foot care across nine quasi-experimental studies, with very low certainty of evidence](educational-programmes-improve-nurse-diabetic-foot-knowledge.md) — related
-- [Included active-methodology studies had a high overall risk of bias](high-risk-of-bias-active-methodology-studies.md) — related
+- Included active-methodology studies had a high overall risk of bias — related

@@ -49,5 +49,5 @@ Geographic coding of the 112 included items. The review reports that "most were 
 - [Research on generative AI in secondary STEM education is concentrated in the Global North, with 73% of affiliations and the United States accounting for 30% of publications](global-north-concentration-generative-ai-stem-research.md) — related
 - [Evidence on clinical teaching models is concentrated in high-income settings: most included studies were conducted in the United States and none originated from Africa](clinical-teaching-models-us-concentration.md) — related
 - [Adoption of Wikipedia assignments shows a global digital divide, concentrated in English-speaking countries](wikipedia-assignments-global-digital-divide.md) — related
-- [Educational outcome research for autistic students has predominantly focused on academic achievement, with few items investigating disciplinary or attendance outcomes](autism-outcome-research-predominantly-academic.md) — related
-- [All eight included studies were cross-sectional, conducted in Asia, and most lacked a comparator](pbl-review-studies-cross-sectional-asia-no-comparator.md) — related
+- Educational outcome research for autistic students has predominantly focused on academic achievement, with few items investigating disciplinary or attendance outcomes — related
+- All eight included studies were cross-sectional, conducted in Asia, and most lacked a comparator — related

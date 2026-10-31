@@ -46,9 +46,9 @@ Categorization of technologies across the 23 included studies identifies LMS pla
 
 ## Related Claims
 - [Institutional collaborative challenges (34.78%) are the most frequent reported limitation in research on digital intercultural competence teaching](institutional-collaborative-challenges-top-limitation.md) — related
-- [Communication skills are the most frequent focus area (42%) of research on digital technologies in intercultural competence teaching](communication-skills-dominant-focus-area.md) — related
-- [Research on digital technologies in intercultural competence teaching is concentrated in the Americas and Europe (78%), led by Mexico (15%)](americas-europe-concentration-intercultural-digital-research.md) — related
-- [Publication on intercultural competence and digital technologies grew sustainedly since 2019, peaking in 2021–2023](publication-growth-since-2019-intercultural-digital.md) — related
-- [Assessment and metrics (82.61%) is the most proposed future research line, including evaluating digital pedagogical strategies in multicultural contexts (21.74%)](assessment-metrics-top-future-research-line.md) — related
+- Communication skills are the most frequent focus area (42%) of research on digital technologies in intercultural competence teaching — related
+- Research on digital technologies in intercultural competence teaching is concentrated in the Americas and Europe (78%), led by Mexico (15%) — related
+- Publication on intercultural competence and digital technologies grew sustainedly since 2019, peaking in 2021–2023 — related
+- Assessment and metrics (82.61%) is the most proposed future research line, including evaluating digital pedagogical strategies in multicultural contexts (21.74%) — related
 - [Adaptation and management (47.83%) is the most addressed intercultural competence dimension, with cultural adaptability the most frequent competence (n=7)](adaptation-management-dominant-competence-dimension.md) — related
 - [Infrastructure, connectivity or limited access is the most frequent barrier (45.2%) to digitally supported teacher education](infrastructure-access-main-barrier-digitally-supported-teacher-education.md) — related

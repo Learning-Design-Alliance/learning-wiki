@@ -47,4 +47,4 @@ Finding from the thematic analysis of ten educator interviews in the Teaching Ap
 ## Related Claims
 - [Early adopter educators' rationales for teaching with open data fall into three groups: advanced subject-matter possibilities, public engagement through authentic inquiry, and motivation plus data literacies](open-data-rationale-three-groups.md) — related
 - [Making open data usable for learning requires substantial educator work: finding suitable data, refining and curating sources, and coping with poor formats and documentation](open-data-making-data-usable-challenges.md) — related
-- [Project/problem-based learning (n=17), lecturing (n=11) and place-based environmental education (n=9) were the most frequently used pedagogical approaches in the reviewed interventions](ppbl-lecturing-pbee-most-frequent-approaches.md) — related
+- Project/problem-based learning (n=17), lecturing (n=11) and place-based environmental education (n=9) were the most frequently used pedagogical approaches in the reviewed interventions — related

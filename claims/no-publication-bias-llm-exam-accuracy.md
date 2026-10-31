@@ -49,4 +49,4 @@ Publication bias assessment of the 36 included studies using funnel-plot visuali
 - Egger's regression found no statistically significant evidence of publication bias among the 28 collected studies — related
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](srl-meta-analysis-publication-bias-absent.md) — related
 - [ChatGPT-4.0 was 36% more likely than ChatGPT-3.5 to provide correct answers across medical licensing and residency exams](chatgpt-4-risk-ratio-136-over-chatgpt-35.md) — related
-- [No evidence of publication bias in the SDL meta-analysis](sdl-meta-analysis-no-publication-bias.md) — related
+- No evidence of publication bias in the SDL meta-analysis — related

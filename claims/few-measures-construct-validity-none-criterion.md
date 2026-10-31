@@ -50,4 +50,4 @@ Review of measurement properties found "Thirty-seven unique measures reported so
 - [AI literacy scales show good structural validity and internal consistency but are rarely tested for other measurement properties](ai-scales-structural-validity-strong-other-properties-untested.md) — related
 - [Criterion validity testing related QCGE-SAS subscale correlations and a regression on objectively graded group products for a laboratory subsample](qcge-sas-criterion-validity-learning-outcomes.md) — related
 - [Construct validity of the QCGE-SAS is supported by significant correlations between its subscales and pre-validated related scales](qcge-sas-construct-validity-significant-correlations.md) — related
-- [Scoping review identified 88 unique measures of health professionals’ health literacy competencies across 128 included studies](scoping-review-88-unique-hl-competency-measures.md) — a broader claim this one bears on
+- Scoping review identified 88 unique measures of health professionals’ health literacy competencies across 128 included studies — a broader claim this one bears on

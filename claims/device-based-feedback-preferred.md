@@ -47,6 +47,6 @@ This is the second of three themes from the review's qualitative content analysi
 ## Related Claims
 - [All feedback, whether human or device-based, improves performance in cardiac arrest simulation education](all-feedback-improves-cardiac-arrest-simulation-performance.md) — reports the opposite
 - [Feedback and debriefing are the most important educational components of simulation-based learning in cardiac arrest education](feedback-debriefing-most-important-simulation-components.md) — a broader claim this one bears on
-- [Current cardiac arrest simulation feedback literature primarily focuses on technical skills measured quantitatively, with limited research on non-technical aspects](literature-focuses-on-technical-skills-quantitative-methods.md) — related
+- Current cardiac arrest simulation feedback literature primarily focuses on technical skills measured quantitatively, with limited research on non-technical aspects — related
 - [Some accelerometer-based and AED-integrated audiovisual feedback devices improved certain CPR parameters but reduced compression depth](some-feedback-devices-reduce-compression-depth.md) — related
 - [All interviewed facilitators preferred video-assisted debriefing over verbal debriefing because video allowed precise, objective feedback whose credibility was not restricted by facilitator hierarchy](facilitators-prefer-vad-objective-feedback.md) — related

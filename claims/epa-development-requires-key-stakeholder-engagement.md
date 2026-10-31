@@ -45,6 +45,6 @@ Narrative synthesis of six included studies reports that stakeholder involvement
 
 
 ## Related Claims
-- [All six included studies were conducted in Australia, highlighting a void of published literature on EPAs in nutrition and dietetics education outside Australia.](australian-only-epa-literature-void.md) — related
+- All six included studies were conducted in Australia, highlighting a void of published literature on EPAs in nutrition and dietetics education outside Australia. — related
 - [Consensus methods and focus groups are the most common EPA development methodologies, with medical education experts and clinicians the most involved stakeholders](epa-development-consensus-focus-groups-stakeholders.md) — related
 - [Iterative revision of EPAs based on feedback was undertaken in two included studies.](iterative-revision-of-epas-from-feedback.md) — related

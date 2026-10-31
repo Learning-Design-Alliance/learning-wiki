@@ -50,4 +50,4 @@ Descriptive synthesis across the 139 included studies, rating each assessment's 
 - Only 5% of physical therapy assessment studies used a contemporary validity framework and only 13.7% fully reported intended interpretation and use — related
 - [Performance-based assessments dominate the studied assessments in entry-level physical therapy education, with simulation-based the most common format](pt-education-assessments-performance-based-dominant.md) — related
 - Knowledge-level assessments (written and oral exams) are underrepresented in the physical therapy assessment literature relative to performance-based assessments — related
-- [Only 10% of CSA studies reported using a validity framework such as Messick's or Kane's](validity-framework-use-ten-percent.md) — related
+- Only 10% of CSA studies reported using a validity framework such as Messick's or Kane's — related

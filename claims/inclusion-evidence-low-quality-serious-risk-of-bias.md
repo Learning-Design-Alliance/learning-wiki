@@ -65,5 +65,5 @@ Risk of bias assessment using ROBINS-I across the 15 studies in the synthesis; t
 - The review synthesizes 13 RCTs and pilot studies (2014-2025), most at low risk of bias, with meta-analysis prevented by heterogeneity — related
 - [Certainty of evidence for narrative medicine education effects is rated very low under GRADE](narrative-medicine-evidence-very-low-certainty.md) — related
 - All nine included systematic reviews were rated critically low in methodological quality on AMSTAR-2, limiting confidence in the synthesized evidence — related
-- [Included active-methodology studies had a high overall risk of bias](high-risk-of-bias-active-methodology-studies.md) — related
-- [Risk-of-bias assessment finds 76% of included RCTs at low risk of bias using the Cochrane RoB-2 tool](low-risk-of-bias-included-rcts-rob2.md) — related
+- Included active-methodology studies had a high overall risk of bias — related
+- Risk-of-bias assessment finds 76% of included RCTs at low risk of bias using the Cochrane RoB-2 tool — related

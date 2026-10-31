@@ -57,4 +57,4 @@ COSMIN and GRADE-based quality assessment (Table 2) of the 16 scales; the review
 - [A 2024 systematic review identified 22 studies validating 16 AI literacy scales, most of them self-report rather than performance-based](review-22-studies-16-ai-literacy-scales.md) — related
 - [All 6 instruments received only moderate-quality GRADE evidence due to single-study evidence, limited cross-context validation, and absent temporal stability data](moderate-grade-evidence-ethics-teaching-instruments.md) — related
 - [Only 16% of validated measures examined construct validity; none tested criterion validity](few-measures-construct-validity-none-criterion.md) — related
-- [Internal structure is the most reported source of validity evidence (90%), while response processes (10%) and consequences (11%) are rarely reported](internal-structure-most-reported-response-process-consequences-rare.md) — related
+- Internal structure is the most reported source of validity evidence (90%), while response processes (10%) and consequences (11%) are rarely reported — related

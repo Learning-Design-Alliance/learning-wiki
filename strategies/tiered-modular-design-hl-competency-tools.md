@@ -17,7 +17,7 @@ sources:
 # Adopt a tiered or modular design for future competency measurement tools
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 To balance the need for standardization and adaptability, the review recommends that future tool development adopt a tiered or modular design, "incorporating core domains while allowing for flexibility and contextual adaptation". The authors suggest this could improve feasibility and use in health professional education, addressing the tension between validated standardized tools and context-specific needs.
@@ -38,7 +38,6 @@ To balance the need for standardization and adaptability, the review recommends 
 
 ## Claims
 
-- [Most measures (59%) were purpose-built and used only once](../claims/most-hl-competency-measures-purpose-built-single-use.md) [+W]
 - [Heavy emphasis on knowledge assessment may limit measurement of complex competencies such as advocacy and system-level engagement](../claims/knowledge-emphasis-limits-complex-hl-competency-assessment.md) [+W]
 - [Only 16% of validated measures examined construct validity; none tested criterion validity](../claims/few-measures-construct-validity-none-criterion.md) [+W]
 

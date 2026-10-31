@@ -53,4 +53,4 @@ WWC review of the evidence base: seven studies failed screens for lacking valid 
 - The evidence base for first year experience courses consists only of quasi-experimental studies meeting WWC group design standards with reservations — related
 - [Only one of seven eligible studies of I CAN Learn® met WWC group design standards, and it met them only with reservations](ican-learn-thin-evidence-base-one-qualifying-study.md) — related
 - [Four of seven knowledge, attitudes, and values outcomes favor the comparison group, including ethnic identity (effect size -0.19) and both moral reasoning measures, none statistically significant](fhao-four-outcomes-favor-comparison-group.md) — related
-- [Most included studies used quasi-experimental designs with single-group pre-post or repeated-measure structures](quasi-experimental-designs-dominate-documentation-studies.md) — related
+- Most included studies used quasi-experimental designs with single-group pre-post or repeated-measure structures — related

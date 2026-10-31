@@ -56,4 +56,4 @@ Subgroup analysis by ECE type in the meta-analysis. All three modalities were si
 - [Early clinical exposure improves the clinical skills of medical students compared with traditional teaching](ece-improves-clinical-skills.md) — related
 - [Most medical students report that early clinical exposure improves their communication skills](ece-improves-communication-skills-perceptions.md) — related
 - [Early clinical exposure increases medical knowledge test scores and motivates learning](ece-improves-knowledge-motivation.md) — related
-- [Students perceive that early clinical exposure improves problem-solving, professionalism, and confidence](ece-perceived-problem-solving-professionalism-confidence.md) — related
+- [Students perceive that early clinical exposure improves problem-solving and confidence, and many redefine their understanding of professionalism](ece-perceived-problem-solving-professionalism-confidence.md) — related

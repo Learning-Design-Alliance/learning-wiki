@@ -45,8 +45,8 @@ Limitation categorization across the 21 studies reporting them identifies "insti
 
 
 ## Related Claims
-- [Research on digital technologies in intercultural competence teaching is concentrated in the Americas and Europe (78%), led by Mexico (15%)](americas-europe-concentration-intercultural-digital-research.md) — related
-- [Attaining and Maintaining Competence is the largest subtheme, covering 87.5% of included articles](attaining-maintaining-competence-largest-subtheme.md) — related
+- Research on digital technologies in intercultural competence teaching is concentrated in the Americas and Europe (78%), led by Mexico (15%) — related
+- Attaining and Maintaining Competence is the largest subtheme, covering 87.5% of included articles — related
 - [Digital platforms are the most used technology (68.18%) for teaching intercultural competences, followed by pedagogical approaches such as COIL (45.45%)](digital-platforms-most-used-technology-intercultural-teaching.md) — related
-- [Assessment and metrics (82.61%) is the most proposed future research line, including evaluating digital pedagogical strategies in multicultural contexts (21.74%)](assessment-metrics-top-future-research-line.md) — related
-- [Publication on intercultural competence and digital technologies grew sustainedly since 2019, peaking in 2021–2023](publication-growth-since-2019-intercultural-digital.md) — related
+- Assessment and metrics (82.61%) is the most proposed future research line, including evaluating digital pedagogical strategies in multicultural contexts (21.74%) — related
+- Publication on intercultural competence and digital technologies grew sustainedly since 2019, peaking in 2021–2023 — related

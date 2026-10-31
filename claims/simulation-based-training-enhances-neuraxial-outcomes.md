@@ -48,5 +48,5 @@ The review's synthesis of 99 included studies reports that "simulation-based tra
 - [Learning curves: residents require roughly 45–90 attempts to achieve competency in neuraxial procedures](learning-curve-attempts-neuraxial-competency.md) — related
 - [Proficiency-based training, including mastery learning, is effective for achieving competence in neuraxial access](proficiency-based-training-effective-neuraxial-competence.md) — related
 - [Self-assessed abilities are uncorrelated with actual performance measures, and Kirkpatrick level 1 is generally not recommended](self-assessment-uncorrelated-with-performance.md) — related
-- [Most included studies were of low methodological quality, with only 22 of 99 rated high quality by MERSQI](low-methodological-quality-neuraxial-education-studies.md) — related
+- Most included studies were of low methodological quality, with only 22 of 99 rated high quality by MERSQI — related
 - [Skill retention after neuraxial technical training tends to decline over time](skill-retention-declines-after-neuraxial-training.md) — related

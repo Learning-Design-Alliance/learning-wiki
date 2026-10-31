@@ -12,7 +12,7 @@ generated:
 # Moore's modified CPD outcome framework
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 Moore's modified CPD outcome framework provides a structure for evaluating CPD effectiveness across multiple levels, from participation and satisfaction (levels 1–2) through knowledge and competence acquisition (levels 3–4) to performance change, patient health improvement, and population health impact (levels 5–7). The review uses this framework to highlight that most CPD evaluations focus on lower levels, with few studies examining higher-level outcomes related to patient and population health. It serves as one of several established evaluation frameworks, alongside Kirkpatrick's Four-Level Model and Stufflebeam's CIPP Model.
@@ -23,7 +23,6 @@ Moore's modified CPD outcome framework provides a structure for evaluating CPD e
 
 ### Claims
 
-- [Most CPD evaluations focus on lower-level outcomes (knowledge and competence) with few studies examining patient and population health outcomes](../claims/cpd-evaluations-focus-lower-kirkpatrick-levels.md) [+W]
 
 ## Related Research Methods
 -

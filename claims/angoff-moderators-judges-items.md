@@ -11,7 +11,8 @@ evidence_strength: moderate
 newest_evidence: 2025
 sources:
   - id: kannan-2025
-    title: "Kannan, S., & Gowri, S. (2025). Angoff methods in standard setting in health professional education: a systematic review and meta-analysis. BMC Medical Education, 25, 1727."
+    resource: "https://doi.org/10.1186/s12909-025-08300-6"
+    title: "Kannan, S., & Gowri, S. (2025). Angoff methods in standard setting in health professional education: a systematic review and meta-analysis. BMC Medical Education, 25, 1727. [doi:10.1186/s12909-025-08300-6](https://doi.org/10.1186/s12909-025-08300-6)"
     author: "Kannan, S., & Gowri, S."
     q: 2
     i: "?"
@@ -32,7 +33,7 @@ sources:
 
 ### Kannan 2025
 
-Kannan, S., & Gowri, S. (2025). Angoff methods in standard setting in health professional education: a systematic review and meta-analysis. BMC Medical Education, 25, 1727.
+Kannan, S., & Gowri, S. (2025). Angoff methods in standard setting in health professional education: a systematic review and meta-analysis. BMC Medical Education, 25, 1727. [doi:10.1186/s12909-025-08300-6](https://doi.org/10.1186/s12909-025-08300-6)
 
 `q2 · i?` · `quant-synthesis · r2`
 

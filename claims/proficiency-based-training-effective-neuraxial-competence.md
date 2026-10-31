@@ -48,5 +48,5 @@ The review's discussion states that "Proficiency-based training was an effective
 - [Learning curves: residents require roughly 45–90 attempts to achieve competency in neuraxial procedures](learning-curve-attempts-neuraxial-competency.md) — related
 - [Simulation-based training enhances outcomes across multiple Kirkpatrick levels in neuraxial space access education](simulation-based-training-enhances-neuraxial-outcomes.md) — related
 - [Skill retention after neuraxial technical training tends to decline over time](skill-retention-declines-after-neuraxial-training.md) — related
-- [Most included studies were of low methodological quality, with only 22 of 99 rated high quality by MERSQI](low-methodological-quality-neuraxial-education-studies.md) — related
+- Most included studies were of low methodological quality, with only 22 of 99 rated high quality by MERSQI — related
 - [Training fidelity: low-fidelity manikins performed comparably to high-fidelity manikins for epidural skill acquisition](low-fidelity-manikins-comparable-to-high-fidelity-epidural.md) — related

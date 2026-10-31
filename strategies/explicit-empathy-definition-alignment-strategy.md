@@ -17,7 +17,7 @@ sources:
 # Educators should state the empathy definition to be adopted, specify which components to emphasise, and align curricular design and assessment metrics accordingly
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · no claims cited
 
 ## Description
 The review recommends that educators address the lack of explicit empathy definitions by adopting a clear conceptual foundation before designing interventions. It states that "Educators should therefore first state the definition to be adopted; specify which cognitive, affective, or behavioural elements must be emphasised; and align curricular design and assessment metrics accordingly." This strategy responds to the finding that definitions varied widely and three studies provided no definition at all.
@@ -38,8 +38,6 @@ The review recommends that educators address the lack of explicit empathy defini
 
 ## Claims
 
-- [Sixteen of 19 studies explicitly defined empathy, most commonly combining cognitive and affective components; no study defined empathy solely as affective](../claims/empathy-definitions-cognitive-affective-patterns.md) [+W]
-- [Five research gaps were identified: lack of explicit empathy definitions, limited scenario diversity, absence of repeated interventions, self-report limitations, and insufficient long-term outcome evidence](../claims/five-research-gaps-vp-empathy-review.md) [+W]
 
 ## Related Strategies
 

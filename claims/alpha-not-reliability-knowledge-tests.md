@@ -55,4 +55,4 @@ Theoretical argument in this commentary: for heterogeneous knowledge tests like 
 - [Reflective modeling of formative knowledge constructs risks misrepresenting domain knowledge as a general factor such as intelligence](reflective-model-misrepresents-domain-knowledge.md) — related
 - [Domain knowledge is theoretically a formative construct formed by distinct, not necessarily associated, aspects](domain-knowledge-formative-construct.md) — possibly the same claim (merge candidate)
 - [Available AI-dependence and attachment instruments follow three non-interchangeable measurement logics and do not converge on one stable construct](ai-dependence-scales-three-non-interchangeable-logics.md) — related
-- [Reliability evidence in prescribing assessment studies generally employs Classical Test Theory](classical-test-theory-prescribing-assessment-reliability.md) — related
+- Reliability evidence in prescribing assessment studies generally employs Classical Test Theory — related

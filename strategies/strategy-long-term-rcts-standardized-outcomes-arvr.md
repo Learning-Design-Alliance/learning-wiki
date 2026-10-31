@@ -17,7 +17,7 @@ sources:
 # Future research should include long-term RCTs with adequate sample sizes, standardized outcome measures, and cost-effectiveness analyses
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 quant-synthesis), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The review recommends a research agenda for strengthening the evidence base on AR/VR training in dentistry and OMFS. As the authors state, "Future research on this topic should include long-term RCTs with adequate sample sizes, training protocols, standardized outcome measures, and cost-effectiveness analyses". They further specify that studies should focus not only on skill acquisition but also on user satisfaction. This addresses the methodological heterogeneity and lack of long-term retention and cost data identified as key limitations.
@@ -44,8 +44,6 @@ The review recommends a research agenda for strengthening the evidence base on A
 - [Haptic simulator trials more frequently show superior accuracy outcomes when force-feedback and structured guidance are included](../claims/haptic-simulator-force-feedback-accuracy-gains.md) [+W]
 - [Head-mounted display interventions improve anatomy recognition, spatial orientation, and learner confidence versus conventional instruction](../claims/hmd-improves-spatial-understanding-and-confidence.md) [+W]
 - [Hybrid sequences combining VR with conventional practice yielded the most favorable outcomes in one trial](../claims/hybrid-vr-conventional-sequence-favorable.md) [+W]
-- [Risk-of-bias assessment finds 76% of included RCTs at low risk of bias using the Cochrane RoB-2 tool](../claims/low-risk-of-bias-included-rcts-rob2.md) [+W]
-- [Only a minority of included trials used AR or mixed reality; roughly 88% evaluated purely VR simulations](../claims/majority-of-trials-purely-vr-minority-ar.md) [+W]
 
 ## Related Strategies
 

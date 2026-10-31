@@ -39,7 +39,7 @@ The review advises that "educators in resource-limited contexts must rely on str
 
 ## Claims
 
-- [PBL remains effective in developing critical thinking and communication skills in resource-limited settings, with collaborative discussion compensating for infrastructural constraints](../claims/pbl-effective-resource-limited-settings-collaboration-compensates.md) [+W]
+- [Cross-sectional studies in resource-limited settings suggest PBL is associated with perceived critical-thinking and communication gains, with collaborative discussion possibly compensating for infrastructural constraints](../claims/pbl-effective-resource-limited-settings-collaboration-compensates.md) [+W]
 - [PBL is associated with perceived improvements in critical thinking and communication skills among undergraduate medical students in both resource-limited and resource-rich settings](../claims/pbl-associated-perceived-critical-thinking-communication-improvements-medical-students.md) [+W]
 
 ## Related Strategies

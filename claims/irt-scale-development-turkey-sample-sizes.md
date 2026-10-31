@@ -47,4 +47,4 @@ Systematic review of 19 IRT-based scale development studies in Turkey; the revie
 ## Related Claims
 - Exploratory factor analysis was used more often than confirmatory factor analysis in Turkish IRT-based scale development studies — related
 - [Most Turkish IRT-based scale development studies did not check the unidimensionality or local independence assumptions](irt-assumptions-often-unchecked-turkey.md) — related
-- [Sample sizes among reviewed studies ranged from 52 to 464 participants with a median of 149](pbl-review-sample-sizes-52-464-median-149.md) — related
+- Sample sizes among reviewed studies ranged from 52 to 464 participants with a median of 149 — related

@@ -46,7 +46,7 @@ Narrative synthesis of reviewed literature reporting that "Experienced occupatio
 
 ## Related Claims
 - [No consistent pathway exists for occupational therapists to attain psychotherapy competence](no-consistent-pathway-ot-psychotherapy-competence.md) — related
-- [Attaining and Maintaining Competence is the largest subtheme, covering 87.5% of included articles](attaining-maintaining-competence-largest-subtheme.md) — related
+- Attaining and Maintaining Competence is the largest subtheme, covering 87.5% of included articles — related
 - [The Great Debate: occupational therapists hold conflicting views on whether psychotherapy falls within occupational therapy's scope of practice](great-debate-scope-of-practice-conflict.md) — related
-- [Most included literature on psychotherapy competence in occupational therapy was published after 2000, and half was non-empirical](half-non-empirical-ot-psychotherapy-competence-literature.md) — related
+- Most included literature on psychotherapy competence in occupational therapy was published after 2000, and half was non-empirical — related
 - [Psychotherapy regulation and supervision requirements vary across Canadian provinces, potentially limiting skill acquisition](inconsistent-provincial-psychotherapy-regulation-supervision.md) — related

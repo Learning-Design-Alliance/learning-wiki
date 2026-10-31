@@ -49,5 +49,5 @@ The review's systematic search across five databases plus Trove and Google found
 - [Dementia care training improved graduate nurses' knowledge and confidence in caring for people living with dementia](dementia-training-improved-graduate-nurse-knowledge-confidence.md) — related
 - [Barriers graduate nurses face in dementia care are similar to those of experienced nurses, with supportive colleagues and early exposure as facilitators](graduate-nurse-dementia-care-barriers-facilitators.md) — reports the opposite
 - [Graduate nurses have little confidence in caring for people with dementia due to lack of knowledge and experience](graduate-nurses-low-confidence-dementia-care.md) — reports the opposite
-- [Only six qualitative studies on graduate nurses caring for people living with dementia were identified](six-qualitative-studies-graduate-nurses-dementia-care.md) — reports the opposite
+- Only six qualitative studies on graduate nurses caring for people living with dementia were identified — reports the opposite
 - [A docudrama helped graduate nurses gain empathy and understanding of families experiencing dementia](docudrama-built-graduate-nurse-empathy-dementia.md) — related

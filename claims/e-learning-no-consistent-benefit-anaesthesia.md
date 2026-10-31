@@ -46,7 +46,7 @@ A systematic review of 13 randomised controlled trials and prospective cohort st
 
 ## Related Claims
 - [E-learning is an important adjunct to traditional learning methods in anaesthesia education](e-learning-adjunct-anaesthesia-education.md) — reports the opposite
-- [Included studies were limited by small participant cohorts and single-centre designs](anaesthesia-e-learning-small-cohorts-limitation.md) — related
+- Included studies were limited by small participant cohorts and single-centre designs — related
 - [Same-context advantage may account for the benefit of simulation-based traditional learning over e-learning](same-context-advantage-simulation-benefit.md) — related
 - [3D virtual-reality lecture was statistically non-inferior to 2D lecture on knowledge and rated better on spatial understanding and enjoyment (Kockro et al.)](kockro-3d-lecture-noninferior-rated-better.md) — a narrower finding that bears on this claim
 - [Virtual patient simulations show mixed effects: improved diagnostic accuracy in one trial, no advantage over video teaching in another, and short-lived knowledge gains](virtual-patients-mixed-psychiatry.md) — related

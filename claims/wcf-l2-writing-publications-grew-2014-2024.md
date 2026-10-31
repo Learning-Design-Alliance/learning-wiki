@@ -55,4 +55,4 @@ Descriptive bibliometric analysis of 321 eligible WoS articles on WCF in L2 writ
 - Feedback research grew dramatically over the past 30 years, yielding a 306-article corpus — related
 - Feedback research spans the full range of methodologies, with a qualitative surge in 2000–2004 — related
 - Publication output on gamification peaked in 2023 with 57 articles and dropped 63% in 2024 — related
-- [Publication on intercultural competence and digital technologies grew sustainedly since 2019, peaking in 2021–2023](publication-growth-since-2019-intercultural-digital.md) — related
+- Publication on intercultural competence and digital technologies grew sustainedly since 2019, peaking in 2021–2023 — related

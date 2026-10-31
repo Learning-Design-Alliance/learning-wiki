@@ -45,5 +45,5 @@ Narrative synthesis reports that technology use was "evident in the use of an e�
 
 
 ## Related Claims
-- [All six included studies were conducted in Australia, highlighting a void of published literature on EPAs in nutrition and dietetics education outside Australia.](australian-only-epa-literature-void.md) — related
+- All six included studies were conducted in Australia, highlighting a void of published literature on EPAs in nutrition and dietetics education outside Australia. — related
 - [Training is an important part of EPA integration.](training-important-for-epa-integration.md) — related

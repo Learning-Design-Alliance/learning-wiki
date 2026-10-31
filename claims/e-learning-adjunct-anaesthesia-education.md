@@ -48,4 +48,4 @@ The review's concluding synthesis states that e-learning is an important adjunct
 - [Blended learning or flipped classroom models may combine e-learning and traditional modalities](blended-flipped-classroom-anaesthesia.md) — related
 - [In anaesthesia education, e-learning shows no consistent benefit over traditional learning across trials](e-learning-no-consistent-benefit-anaesthesia.md) — reports the opposite
 - [Traditional learning outperformed e-learning in studies where mannequin-based simulation was the traditional modality](mannequin-simulation-outperformed-e-learning.md) — related
-- [Included studies were limited by small participant cohorts and single-centre designs](anaesthesia-e-learning-small-cohorts-limitation.md) — related
+- Included studies were limited by small participant cohorts and single-centre designs — related

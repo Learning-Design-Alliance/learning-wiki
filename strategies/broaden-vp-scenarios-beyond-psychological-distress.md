@@ -17,7 +17,7 @@ sources:
 # Virtual patient scenarios should encompass acute illnesses, emergencies, invasive procedures, and infectious diseases to broaden empathy development across diverse clinical settings
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (1 review, 1 qualitative), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 qualitative), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The review recommends expanding scenario diversity beyond the psychiatric and chronic conditions that dominated included studies. It argues that virtual patients "provide a safe and flexible educational environment for learning about rare, severe, and high-risk clinical situations that are difficult to encounter during standard clinical training" and that it is essential to develop scenarios covering acute and high-risk contexts. This addresses the gap that severe infections, rare diseases, and acute conditions were not represented.
@@ -39,7 +39,6 @@ The review recommends expanding scenario diversity beyond the psychiatric and ch
 ## Claims
 
 - [Virtual patient scenarios focused on psychiatric and chronic diseases, with major depressive disorder and cancer most common; acute, infectious, and rare conditions were absent](../claims/vp-scenario-disease-diversity-gaps.md) [+W]
-- [Five research gaps were identified: lack of explicit empathy definitions, limited scenario diversity, absence of repeated interventions, self-report limitations, and insufficient long-term outcome evidence](../claims/five-research-gaps-vp-empathy-review.md) [+W]
 - [Nursing students express needs for optimized VS technology and cases: more diverse scenarios, greater realism, multilingual support, flexible training content, and culturally contextualized cases](../claims/vs-student-needs-optimization.md) [+W]
 
 ## Related Strategies

@@ -45,5 +45,5 @@ Narrative synthesis reports that training was "conducted for students through in
 
 
 ## Related Claims
-- [All six included studies were conducted in Australia, highlighting a void of published literature on EPAs in nutrition and dietetics education outside Australia.](australian-only-epa-literature-void.md) — related
+- All six included studies were conducted in Australia, highlighting a void of published literature on EPAs in nutrition and dietetics education outside Australia. — related
 - [Technology platforms, such as e-portfolios with integrated EPAs, appeared to support EPA incorporation.](technology-platforms-support-epa-incorporation.md) — related

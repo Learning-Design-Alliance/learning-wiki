@@ -17,7 +17,7 @@ sources:
 # Establish a centralized repository of health literacy competency measures
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review proposes that a centralized repository of measures to assess health professionals’ health literacy competencies could be a valuable resource for researchers and educators. Such a platform could house available tools alongside information about their validity and the contexts in which they have been applied, which the authors describe as "a practical strategy to reduce redundancy, enhance global access and avoid unnecessary development of new, single-use tools".
@@ -39,8 +39,6 @@ The review proposes that a centralized repository of measures to assess health p
 ## Claims
 
 - [Only 16% of validated measures examined construct validity; none tested criterion validity](../claims/few-measures-construct-validity-none-criterion.md) [+W]
-- [Most measures (59%) were purpose-built and used only once](../claims/most-hl-competency-measures-purpose-built-single-use.md) [+W]
-- [Scoping review identified 88 unique measures of health professionals’ health literacy competencies across 128 included studies](../claims/scoping-review-88-unique-hl-competency-measures.md) [+W]
 
 ## Related Strategies
 

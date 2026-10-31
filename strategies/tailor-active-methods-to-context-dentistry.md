@@ -17,7 +17,7 @@ sources:
 # Tailor active methodologies to the specific educational context and subject matter
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The review recommends that active learning methodologies be matched to the specific educational context, since their impact "can vary based on the subject matter and implementation". It states that integrating these approaches into dental curricula is essential to optimise student learning experiences and outcomes, and that mixed findings reinforce the importance of tailoring methodologies to the specific educational context.
@@ -42,7 +42,6 @@ The review recommends that active learning methodologies be matched to the speci
 - [Active methodologies show no definitive superiority over traditional teaching in undergraduate dentistry](../claims/no-definitive-superiority-active-methods-dentistry.md) [+W]
 - [PBL and flipped classrooms frequently show better post-test performance and knowledge retention than traditional methods](../claims/pbl-flipped-better-post-test-performance.md) [+W]
 - [Team-based learning showed significantly higher performance than traditional learning in one included study](../claims/tbl-significantly-higher-performance-hossain.md) [+W]
-- [Included active-methodology studies had a high overall risk of bias](../claims/high-risk-of-bias-active-methodology-studies.md) [~W]
 - [Lack of long-term follow-up limits evidence on sustained effectiveness of active methodologies](../claims/lack-follow-up-limits-long-term-evidence.md) [~W]
 
 ## Related Strategies

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-10-31
 sources:
   - id: lee-haesun-2025
     resource: "https://doi.org/10.1007/s00787-025-02788-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Game-based digital interventions significantly improve visuospatial short-term memory as measured by the Corsi Block Tapping Task Forward (MD = 1.67; 95% CI [0.66, 2.67]). [→ Lee Haesun 2025](#lee-haesun-2025)
@@ -37,7 +38,7 @@ Lee Haesun, Lee Seungjin, Hwang Mina, Woo Kyungmi. (2025). Effectiveness of game
 
 `q3 · i?` · `quant-synthesis · r2`
 
-Meta-analysis of two RCTs (Dovis 2015; Medina 2021) using random-effects models found "CBTT Forward (MD = 1.67; 95% CI = [0.66, 2.67])" significantly improved, indicating enhanced visuospatial short-term memory. The article prints a mean difference but no standardized effect size.
+Systematic review and meta-analysis; the Corsi Block Tapping Task result pools two RCTs (Dovis 2015; Medina 2021), and because only two studies were available it used a fixed-effects model. It found "CBTT Forward (MD = 1.67; 95% CI = [0.66, 2.67])" significantly improved, indicating enhanced visuospatial short-term memory. The article prints a mean difference but no standardized effect size.
 
 > "CBTT Forward (MD = 1.67; 95% CI = [0.66, 2.67]) and CBTT Backward (MD = 1.17; 95% CI = [0.16, 2.17]) showed significant improvements after the intervention"
 

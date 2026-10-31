@@ -17,7 +17,7 @@ sources:
 # Use a uniform XR taxonomy to support device selection and evidence comparison in dental education
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that agreeing on a general taxonomy for XR-simulation in dental education provides the opportunity to review available literature from a standard perspective while correctly formulating and referring to simulation research in the future. It states that 'Achieving a uniform taxonomy for XR simulation for dental education could also support the selection of suitable devices for the diverse needs of different dental schools.' Standardising XR terminology through guidelines and collaborative efforts is expected to enhance comparability and consistency across studies.
@@ -40,7 +40,6 @@ The article recommends that agreeing on a general taxonomy for XR-simulation in 
 ## Claims
 
 - [VR is frequently used as an umbrella term for all forms of XR-simulation environments in dental education](../claims/vr-umbrella-term-dental-education.md) [+W]
-- [Terminology for XR in dental education lacks consistency, with 70% of related medical digital simulation articles misidentified or misclassified](../claims/xr-terminology-inconsistency-dental-education.md) [+W]
 
 ## Related Strategies
 

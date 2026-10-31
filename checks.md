@@ -8,16 +8,16 @@ This wiki is written by language models, from published research, and checked by
 
 | | |
 |---|---|
-| Claims | 35,615, from 8,903 sources |
+| Claims | 35,553, from 8,903 sources |
 | Reviewed by a person | 0 |
-| Every evidence entry compared with its source by the faithfulness judge | 5,561 claims (16%) |
-| Claims citing at least one DOI | 27,636 claims (78%) |
+| Every evidence entry compared with its source by the faithfulness judge | 5,574 claims (16%) |
+| Claims citing at least one DOI | 27,580 claims (78%) |
 | Sources whose citations went through the Crossref identity gate | 8,128 of 8,903 |
 | Sources read for impossible statistics and invented references | 6,251 of 7,135 (2026-10-25) |
 | Cited DOIs checked for retraction | 6,793 of 6,793 (2026-10-25) |
 | Retracted sources found and acted on | 4 |
 | Claims past their recheck year (fast-ageing kinds only) | 3,667 of 8,086 with one |
-| Claims removed by a check, all time | 5,300 |
+| Claims removed by a check, all time | 5,362 |
 
 ## The checks, in the order a claim meets them
 
@@ -51,7 +51,7 @@ A claim whose evidence has no DOI after a Crossref and DataCite search is remove
 
 **Cannot catch.** Whether the DOI'd source is any good.
 
-**Coverage.** 27,636 of 35,615 claims (78%) cite a DOI; 2,880 claims removed for having none.
+**Coverage.** 27,580 of 35,553 claims (78%) cite a DOI; 2,880 claims removed for having none.
 
 ### 5. Faithfulness to the source
 
@@ -59,7 +59,7 @@ A second model, from a different provider, reads each evidence entry beside the 
 
 **Cannot catch.** A claim checked only against an abstract, for detail an abstract does not carry. The judge is a model and has been wrong; its failures are read before they are acted on.
 
-**Coverage.** 5,561 claims (16%) have had every evidence entry compared with its source and passed; 163 judge failures were read and recorded with a reason. Each claim states this on its page, in its *Currency* line.
+**Coverage.** 5,574 claims (16%) have had every evidence entry compared with its source and passed; 163 judge failures were read and recorded with a reason. Each claim states this on its page, in its *Currency* line.
 
 ### 6. Can the source be believed?
 
@@ -83,7 +83,7 @@ Each evidence entry carries a design tier (`q1`–`q4`), an impact code (`i0`–
 
 **Cannot catch.** Whether a study's conclusion is true. The codes describe how a study was done, not whether it was right.
 
-**Coverage.** 42,662 evidence entries; 6,230 rest on a printed effect size and 36,460 report none (`i?`); 37,510 carry a rigour rating.
+**Coverage.** 42,600 evidence entries; 6,230 rest on a printed effect size and 36,398 report none (`i?`); 37,448 carry a rigour rating.
 
 ### 9. Duplicates and merges
 
@@ -116,7 +116,7 @@ Removals are logged with their reason in `eval/removed/pages.ndjson`; git histor
 | Reason | Claims and pages |
 |---|---|
 | No verifiable source (no DOI after a Crossref and DataCite search) | 2,880 |
-| About how research is done, not a design decision | 1,861 |
+| About how research is done, not a design decision | 1,923 |
 | Local context only (one district, programme or year) | 217 |
 | Source cannot be believed (impossible statistics, invented references, retraction) | 12 |
 | Citation chase: a retracted article or off-topic methods literature | 83 |

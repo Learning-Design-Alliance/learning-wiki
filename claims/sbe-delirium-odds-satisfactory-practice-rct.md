@@ -54,4 +54,4 @@ This multisite clustered, observer-blinded RCT randomized 190 post-registration 
 - [In an RCT of ICU nurses, simulation-based education produced within-group gains in knowledge, confidence and competence but no between-group differences at 6 weeks](sbe-icu-within-group-gains-no-between-group.md) — related
 - [Increasing the proportion of simulation within a nursing course shows mixed effects on competency outcomes (Hayden et al. trial)](more-vs-less-simulation-mixed.md) — related
 - [Positive patient outcomes were reported in 14 of 17 included CPD studies](cpd-positive-outcomes-14-of-17-studies.md) — related
-- [Single-arm pre-post pilot studies were the most common design (21.1%), followed by RCTs (10.5%) and mixed-methods designs (10.5%)](vp-empathy-study-design-distribution.md) — related
+- Single-arm pre-post pilot studies were the most common design (21.1%), followed by RCTs (10.5%) and mixed-methods designs (10.5%) — related

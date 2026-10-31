@@ -17,7 +17,7 @@ sources:
 # Future active-learning research should use randomised controlled designs with larger samples and standardised outcome measures
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The review recommends that future research adopt more rigorous methodologies, including "randomised controlled trials with larger sample sizes and standardised evaluation protocols", to clarify the effectiveness and long-term impact of active teaching methodologies in undergraduate dental education. It also recommends follow-up assessment to determine sustained impact, noting most included studies evaluated methods only before and after application.
@@ -39,7 +39,6 @@ The review recommends that future research adopt more rigorous methodologies, in
 
 ## Claims
 
-- [Included active-methodology studies had a high overall risk of bias](../claims/high-risk-of-bias-active-methodology-studies.md) [+W]
 - [Lack of long-term follow-up limits evidence on sustained effectiveness of active methodologies](../claims/lack-follow-up-limits-long-term-evidence.md) [+W]
 - [Active methodologies show no definitive superiority over traditional teaching in undergraduate dentistry](../claims/no-definitive-superiority-active-methods-dentistry.md) [+W]
 

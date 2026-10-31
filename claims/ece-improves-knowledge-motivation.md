@@ -47,7 +47,7 @@ Interventional study synthesized narratively: "mean test scores significantly in
 ## Related Claims
 - [Early clinical exposure is associated with higher empathy scores regardless of gender and academic year](ece-higher-empathy-scores.md) — related
 - [Early clinical exposure improves the clinical skills of medical students compared with traditional teaching](ece-improves-clinical-skills.md) — related
-- [Students perceive that early clinical exposure improves problem-solving, professionalism, and confidence](ece-perceived-problem-solving-professionalism-confidence.md) — related
+- [Students perceive that early clinical exposure improves problem-solving and confidence, and many redefine their understanding of professionalism](ece-perceived-problem-solving-professionalism-confidence.md) — related
 - [Early clinical exposure significantly improves dental students' overall competency compared with traditional teaching (SMD = 1.25), though evidence certainty is low](ece-improves-dental-student-competency-meta.md) — related
 - [Most medical students report that early clinical exposure improves their communication skills](ece-improves-communication-skills-perceptions.md) — related
 - [All three ECE modalities show significant positive effects, with real clinical interactions showing the largest pooled effect](ece-types-subgroup-effects.md) — related

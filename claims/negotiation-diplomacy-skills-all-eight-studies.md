@@ -47,4 +47,4 @@ The review's competencies section reports the frequency of negotiation and diplo
 ## Related Claims
 - [The COVID-19 epidemic simulation among MPH students demonstrated significant self-reported gains in diplomacy, negotiation, and public health emergency response skills](covid-simulation-significant-self-reported-gains.md) — related
 - [Cross-cultural communication and leadership were emphasized in six of the eight reviewed initiatives](cross-cultural-communication-leadership-six-initiatives.md) — related
-- [Eight health diplomacy training initiatives and frameworks published between 2017 and 2025 were identified in the scoping review](eight-health-diplomacy-initiatives-2017-2025.md) — related
+- Eight health diplomacy training initiatives and frameworks published between 2017 and 2025 were identified in the scoping review — related
