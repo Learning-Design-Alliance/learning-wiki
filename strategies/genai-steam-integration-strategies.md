@@ -60,6 +60,7 @@ The review recommends a set of classroom strategies: AI-assisted lesson planning
 - [Reaffirm learning-by-making through STEAM tinkering and critical AI literacy to cultivate epistemic resilience](steam-tinkering-critical-ai-literacy-strategy.md)
 - [Integrate AI-enabled personalized STEM education with teacher participation, project-based collaboration, and cross-disciplinary task design, matched to students' cognitive developmental level](evidence-based-pedagogically-aligned-ai-stem-integration.md)
 - [Develop research programs across four areas of K-12 AI education: Learning & Teaching, Integration into STEM/Language Arts/Social Science, Professional Development, and Assessment](four-areas-k12-ai-education-research.md)
+- [Frame LLM integration as an assessable AI literacy competency with differentiated integrity policies and reasoning-focused assessment redesign](ai-literacy-competency-medical-curriculum-strategy.md)
 
 ## Examples
 -

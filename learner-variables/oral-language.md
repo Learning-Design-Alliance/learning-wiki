@@ -13,7 +13,7 @@ generated:
 # Oral Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 118 claims (66 show a difference, 28 mixed, 24 no difference) · 83 studies (30 associational, 17 causal, 17 review, 15 quant-synthesis, 2 design, 2 theoretical), `q1`–`q3` · 28 of 83 report an effect size · 115 claims rest on one study
+> **Evidence** · 121 claims (68 show a difference, 29 mixed, 24 no difference) · 86 studies (30 associational, 19 review, 17 causal, 16 quant-synthesis, 2 design, 2 theoretical), `q1`–`q3` · 28 of 86 report an effect size · 118 claims rest on one study
 
 ## Description
 Oral language covers the spoken side of language: understanding what is said, using vocabulary and grammar to express ideas, and organising sentences into a coherent account or story. The Learner Variability Navigator includes two factors here: narrative skills, the ability to tell and understand stories, and the broader language skills that support early mathematics as well as reading. Narrative skill is often assessed by asking a child to tell a story from a wordless picture book or sequencing cards and scoring its overall structure and its sentence-level detail; early literacy batteries assess related skills such as vocabulary and phonological awareness.
@@ -155,6 +155,9 @@ It matters most in preschool and the early grades. Telling stories helps childre
 - [No improvement in students' listening comprehension was observed during the one-month evaluation](../claims/no-listening-comprehension-improvement.md) [-M] — instruction changes it
 - [Listening proficiency is the strongest predictor of L2 listening comprehension](../claims/listening-proficiency-strongest-comprehension-predictor.md) [+M] — learners who differ on it differ in outcomes
 - [VR did not directly improve L2 listening comprehension but contributed indirectly by enhancing listening experiences](../claims/vr-indirect-effect-on-listening-comprehension.md) [~W] — instruction changes it
+- [Innovative andragogical strategies — simulation, narrative medicine, reflective writing — enhance empathy, compassion, and communication skills in medical students](../claims/innovative-teaching-practices-soft-skills-medical-students.md) [+M] — instruction changes it
+- [Review-reported study: locally produced videos enhanced Chilean EFL learners' English language skills and motivation](../claims/review-reported-videos-enhance-efl-skills-motivation.md) [+M] — instruction changes it
+- [The effect of CMC on L2 learning was not equal across the four language skills (listening, speaking, reading, writing)](../claims/cmc-effect-unequal-across-language-skills.md) [~M] — instruction changes it
 
 ## Measures
 - **Story Generation Tasks**: Macrostructure and microstructure of narrative elements can be assessed by having students tell a story using a wordless picture book or sequencing cards.

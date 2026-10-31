@@ -16,12 +16,14 @@ sources:
     author: "HyeJin Hwang, Sonia Q. Cabell & Rachel E. Joyner"
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Integrated literacy and content-area instruction significantly improves vocabulary in the elementary years (g = 0.91)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 HyeJin Hwang, Sonia Q. Cabell & Rachel E. Joyner (2021). Effects of Integrated Literacy and Content-area Instruction on Vocabulary and Comprehension in the Elementary Years: A Meta-analysis. Scientific Studies of Reading. https://doi.org/10.1080/10888438.2021.1954005
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r2`
 
 Random-effects meta-analysis (Robumeta, robust variance estimation) of 35 (quasi)experimental studies involving 13,289 students in K-5. The pooled vocabulary effect was "g = 0.91" with CI [.34, 1.45], significant at p < .01; heterogeneity was high (I2 = 91.82).
 

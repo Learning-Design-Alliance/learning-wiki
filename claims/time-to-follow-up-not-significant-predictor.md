@@ -16,12 +16,14 @@ sources:
     author: Natalie S. Pak, Jason C. Chow, Kelsey M. Dillehay, and Ann P. Kaiser
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Time between intervention and follow-up did not significantly predict long-term effect sizes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Natalie S. Pak, Jason C. Chow, Kelsey M. Dillehay, and Ann P. Kaiser. (2023). Long-Term Effects of Early Communication Interventions: A Systematic Review and Meta-Analysis. Journal of Speech, Language, and Hearing Research. https://doi.org/10.1044/2023_JSLHR-22-00711
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Meta-regression of months between end of intervention and follow-up on long-term effect sizes, with outliers more than 3 SDs above the mean period omitted (Table 3 prints estimates of .001, p = .957 for prelinguistic and −.02, p = .071 for linguistic). The article reports no significant association.
 

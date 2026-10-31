@@ -47,6 +47,7 @@ Drawing on the discourse of the learning- and skill-oriented creator groups, the
 
 - [Questioning Techniques to Address Errors](questioning_techniques_to_address_errors.md)
 - [Emphasis on Reasoning over Answers](emphasis_on_reasoning_over_answers.md)
+- [Frame LLM use in biomedical education around low‐stakes formative tasks with expert‐guided verification and rationale requests](llm-low-stakes-formative-use-expert-verification-strategy.md)
 
 ## Examples
 -

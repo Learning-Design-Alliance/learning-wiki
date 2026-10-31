@@ -16,12 +16,14 @@ sources:
     author: Kelly C. Dreger, Ed.D. and Steve Downey, Ph.D.
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Heterogeneity among token reinforcement studies exceeds 99% and is statistically significant
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Kelly C. Dreger, Ed.D. and Steve Downey, Ph.D. (2022). Reinforcement Practicality for Middle School Students: A Meta-Analysis. Valdosta State University. https://eric.ed.gov/?id=EJ1355660
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Heterogeneity testing of the 31 aggregated effect sizes using the mareg function in R. The article reports "The heterogeneity estimator (QE) was equal to 2931.771" with p = 0.000, and the confint function generated a heterogeneity estimate of 99.85%.
 

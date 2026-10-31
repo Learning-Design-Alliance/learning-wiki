@@ -16,12 +16,14 @@ sources:
     author: "Mevlut AYDOGMUS & Cihad SENTURK"
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # The meta-analytic effect of learning stations is resistant to publication bias
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Mevlut AYDOGMUS & Cihad SENTURK. (2019). THE EFFECTS OF LEARNING STATIONS TECHNIQUE ON ACADEMIC ACHIEVEMENT: A META-ANALYTIC STUDY. Research in Pedagogy, Vol.9, No.1. https://doi.org/10.17810/2015.87
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Publication-bias assessment using the Funnel Scatter Graph, Crop and Fill, and Fail Safe N methods. The funnel graph showed "a relatively symmetrical distribution", and Crop and Fill adjusted the effect only to 0.852 or 0.752.
 
@@ -51,3 +53,5 @@ Publication-bias assessment using the Funnel Scatter Graph, Crop and Fill, and F
 - [Publication bias checks (funnel plot and Orwin's Fail-Safe N = 3182) found no evidence of bias in the meta-analysis](no-publication-bias-fail-safe-n-3182.md) — related
 - [The meta-analytic result is robust to publication bias, with a fail-safe number of 33,896.6 null studies needed to nullify the observed effect](cbt-meta-analysis-fail-safe-number-publication-bias.md) — related
 - [The meta-analysis is resistant to publication bias by Rosenthal's fail-safe N criterion](rme-meta-analysis-publication-bias-resistant.md) — related
+- [Fail-safe N analyses indicate the pooled effect is resistant to publication bias (Rosenthal FSN = 2139; Orwin FSN = 1048)](fsn-resistance-publication-bias-cre-meta-analysis.md) — related
+- [The meta-analysis results are resistant to publication bias, per fail-safe N of 1791](game-math-meta-resistant-to-publication-bias.md) — related

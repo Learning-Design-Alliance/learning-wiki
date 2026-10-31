@@ -65,3 +65,4 @@ The review's C1 synthesis, citing Aberšek and Flogie (2021), Chaudhry and Kazim
 - [Technical assistance functions as a structural constraint that embeds World Bank frameworks in national policymaking, not merely as advice](world-bank-technical-assistance-structural-constraint.md) — related
 - Research priorities in AWE have shifted from technical validation toward pedagogical integration and ethical considerations (2015–2024) — related
 - [Reports of transformation in teaching practices are associated with changes in the roles of teachers and students, with transforming uses focused on active methodologies](transformation-associated-with-role-shifts-active-methodologies.md) — related
+- [Technology-based assessment innovations, including digital question banks, machine learning-assisted systems, LMS-based assessments and game-based quizzes, are increasingly adopted in general chemistry assessment](digital-assessment-innovation-trend-general-chemistry.md) — related

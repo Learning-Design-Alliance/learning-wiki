@@ -68,3 +68,5 @@ The article reports a second study comparing an undergraduate lecture with and w
 - [Contingent AI interaction increased children's likelihood of responding over time (OR = 1.026 per question), while pseudo-interactive interaction decreased it (OR = 0.96)](response-rate-trend-contingency.md) — related
 - [Verbal engagement correlated more strongly with science learning in the interactive condition (response rate r = .485) than in the pseudo-interactive condition (r = .193)](engagement-learning-correlation-stronger-interactive.md) — related
 - [Students report a far higher likelihood of answering questions in class when handsets are used than when responding by raising hands or verbally](evs-raises-participation-likelihood-vs-hands-verbal.md) — related
+- [Response cards improve academic achievement and student responding compared with traditional hand raising](response-cards-improve-outcomes-vs-hand-raising.md) — a broader claim this one bears on
+- [A student response system increased response rates but showed no functional relation for on-task behavior or academic achievement](srs-response-rate-no-achievement-relation.md) — related

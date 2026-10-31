@@ -16,12 +16,14 @@ sources:
     author: "HyeJin Hwang, Sonia Q. Cabell & Rachel E. Joyner"
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Integrated instruction did not significantly improve standardized vocabulary outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 HyeJin Hwang, Sonia Q. Cabell & Rachel E. Joyner (2021). Effects of Integrated Literacy and Content-area Instruction on Vocabulary and Comprehension in the Elementary Years: A Meta-analysis. Scientific Studies of Reading. https://doi.org/10.1080/10888438.2021.1954005
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Meta-analysis of measure-type subgroups for vocabulary. The standardized-measure effect (n = 5) was not significant, whereas researcher-developed measures (n = 31) showed "g = 0.86", significant at p < .01. No effect size beyond g is printed for the null; equivalence was not tested.
 

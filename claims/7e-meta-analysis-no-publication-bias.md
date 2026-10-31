@@ -16,12 +16,14 @@ sources:
     author: "Balta, N., & Sarac, H."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Publication bias does not explain the significant positive outcomes of the 7E learning cycle in this meta-analysis
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Balta, N., & Sarac, H. (2016). The Effect of 7E Learning Cycle on Learning in Science Teaching: A meta-Analysis Study. European Journal of Educational Research, 5(2), 61-72. https://doi.org/10.12973/eu-jer.5.2.61
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Publication bias evaluation within the meta-analysis using a funnel plot and the classic fail-safe N test (35 observed studies, Z = 26.42). The quote reports the fail-safe N of 6327 and the authors' conclusion about bias.
 

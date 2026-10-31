@@ -47,3 +47,4 @@ Narrative review section noting the contrast between the EEF Toolkit rating for 
 ## Related Claims
 - [Mind-set interventions show weak overall effects on achievement, with some support that low-SES or academically at-risk students might benefit](mindset-intervention-effects-weak-subgroup-benefit.md) — related
 - [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](reflective-practice-evidence-mixed-in-professional-education.md) — related
+- [EdTech effects for disadvantaged pupils are smaller and inconsistent: no significant impact in disadvantaged-focused subgroups (d = 0.0527) and a smaller significant effect in partial-subset studies (d = 0.1624)](edtech-disadvantaged-pupils-smaller-mixed-effects.md) — related

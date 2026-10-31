@@ -16,18 +16,22 @@ sources:
     author: "Daryanto, E., Siregar, B., & Januariyansah, S."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 1
   - id: daryanto-2022-2
     resource: "https://doi.org/10.46328/ijemst.2509"
     title: "Daryanto, E., Siregar, B., & Januariyansah, S. (2022). A meta-analysis of the e-learning influence on Vocational Education and Training (VET): Preliminary study of virtual to actualization. International Journal of Education in Mathematics, Science, and Technology (IJEMST), 10(3), 710-721. https://doi.org/10.46328/ijemst.2509"
     author: "Daryanto, E., Siregar, B., & Januariyansah, S."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # E-learning in VET affects theoretical learning and only computer-media practical learning, not conventional machine-tool practical learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r1` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Daryanto, E., Siregar, B., & Januariyansah, S. (2022). A meta-analysis of the e-learning influence on Vocational Education and Training (VET): Preliminary study of virtual to actualization. International Journal of Education in Mathematics, Science, and Technology (IJEMST), 10(3), 710-721. https://doi.org/10.46328/ijemst.2509
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r1`
 
 Meta-analysis findings from the Results and Discussion section of 18 VET e-learning studies. The authors report that for practice-type learning, "e -learning can only be used in practical learning that utilizes computer learning media" such as digital simulations and web development.
 
@@ -50,7 +54,7 @@ Meta-analysis findings from the Results and Discussion section of 18 VET e-learn
 
 Daryanto, E., Siregar, B., & Januariyansah, S. (2022). A meta-analysis of the e-learning influence on Vocational Education and Training (VET): Preliminary study of virtual to actualization. International Journal of Education in Mathematics, Science, and Technology (IJEMST), 10(3), 710-721. https://doi.org/10.46328/ijemst.2509
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r1`
 
 The same meta-analysis discussion reports that e-learning "is considered unable to accommodate conventional practical learning using machine tools", citing Tabakova (2020), and positions e-learning in conventional learning as enrichment only.
 

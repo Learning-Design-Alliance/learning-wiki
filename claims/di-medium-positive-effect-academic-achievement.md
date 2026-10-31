@@ -55,3 +55,4 @@ Random-effects meta-analysis of three differentiated-instruction studies; pooled
 - [STEM educational practices have a large positive effect on students' scientific process skills (REM ES = 0.820)](stem-practices-large-scientific-process-skills-effect.md) — a narrower finding that bears on this claim
 - [STEM educational practices have a moderate positive effect on students' academic achievement compared with traditional teaching (REM ES = 0.442)](stem-practices-moderate-academic-achievement-effect.md) — related
 - [Effect sizes of e-learning in VET vary widely across studies: 11 articles showed large, 4 medium, and 3 small effects](vet-e-learning-effect-size-distribution.md) — related
+- [AR applications have a medium positive pooled effect (ES = 0.517) on students' academic achievement compared with traditional learning methods](ar-medium-positive-effect-academic-achievement.md) — related

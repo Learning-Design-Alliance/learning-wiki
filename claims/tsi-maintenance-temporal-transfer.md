@@ -16,18 +16,22 @@ sources:
     author: "Hebert, M., Bohaty, J. J., Nelson, J. R., & Brown, J."
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 3
   - id: hebert-2016-2
     resource: "https://doi.org/10.1037/edu0000082"
     title: "Hebert, M., Bohaty, J. J., Nelson, J. R., & Brown, J. (2016). The effects of text structure instruction on expository reading comprehension: A meta-analysis. Journal of Educational Psychology, 108(5), 609–629. https://doi.org/10.1037/edu0000082"
     author: "Hebert, M., Bohaty, J. J., Nelson, J. R., & Brown, J."
     q: 3
     i: 1
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Effects of text structure instruction are maintained over time (g = 0.57 at delayed posttest)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1`–`i2`
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q3` · `i1`–`i2`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Hebert, M., Bohaty, J. J., Nelson, J. R., & Brown, J. (2016). The effects of text structure instruction on expository reading comprehension: A meta-analysis. Journal of Educational Psychology, 108(5), 609–629. https://doi.org/10.1037/edu0000082
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r3`
 
 Maintenance analysis (RQ2a) of eleven studies using aggregated effect sizes; delayed posttests were administered one day to three months after posttest, with a median interval of 7 days. The review reports "a significant average weighted effect size of 0.57", i.e., g = 0.57, a medium effect.
 
@@ -50,7 +54,7 @@ Maintenance analysis (RQ2a) of eleven studies using aggregated effect sizes; del
 
 Hebert, M., Bohaty, J. J., Nelson, J. R., & Brown, J. (2016). The effects of text structure instruction on expository reading comprehension: A meta-analysis. Journal of Educational Psychology, 108(5), 609–629. https://doi.org/10.1037/edu0000082
 
-`q3 · i1`
+`q3 · i1` · `quant-synthesis · r3`
 
 Sensitivity analysis for RQ2a creating new effect sizes by subtracting posttest outcomes from delayed posttest outcomes; the review reports "a positive significant average weighted effect size of 0.22", i.e., g = 0.22, a small effect.
 

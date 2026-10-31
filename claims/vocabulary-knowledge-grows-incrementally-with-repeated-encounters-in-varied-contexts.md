@@ -64,7 +64,7 @@ This meta-analysis synthesised 45 correlations from 26 second-language studies (
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does a taught word need repeated, spaced encounters before it is known and kept?* This table gathers the studies behind this claim and the 17 narrower claims that bear on it: **14 distinct studies** (4 causal, 4 review, 3 quant-synthesis, 3 associational), `q2`–`q3`, 3 of 14 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*How much do repeated encounters add, and do words met in input last without review?* This table gathers the studies behind this claim and the 17 narrower claims that bear on it: **14 distinct studies** (4 causal, 4 review, 3 quant-synthesis, 3 associational), `q2`–`q3`, 3 of 14 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|

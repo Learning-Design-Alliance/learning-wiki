@@ -16,12 +16,14 @@ sources:
     author: Joelle Fingerhut and Mariola Moeyaert
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Rehearsal as a training component shows no statistically significant effect on DTT implementation fidelity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Joelle Fingerhut and Mariola Moeyaert. (2022). Training Individuals to Implement Discrete Trials with Fidelity: A Meta-Analysis. Focus on Autism and Other Developmental Disabilities. https://doi.org/10.1177/10883576221081076
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 HLM moderator analysis (Model 3) in the 46-study meta-analysis tested rehearsal as a moderator. The article reports "−1.79%, γ̂200 = −1.79, t(3692) = −0.99, p =.32", a non-significant result; equivalence was not tested.
 

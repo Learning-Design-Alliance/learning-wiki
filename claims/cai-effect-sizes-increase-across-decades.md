@@ -16,12 +16,14 @@ sources:
     author: "Karen Larwin & David Larwin"
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # CAI effect sizes in statistics education increased consistently across the four decades studied
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Karen Larwin & David Larwin. (2011). A Meta-Analysis Examining the Impact of Computer-Assisted Instruction on Postsecondary Statistics Education: 40 Years of Research. Journal of Research on Technology in Education, 43(3), 253–278. https://eric.ed.gov/?id=EJ918907
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Meta-analytic moderator analysis comparing mean effect sizes by decade; the article reports CAI showed no significant impact until the 1980s (d = 0.386), with the increase attributed to growing technological competence and evolving software.
 

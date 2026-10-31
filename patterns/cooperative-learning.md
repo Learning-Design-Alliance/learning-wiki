@@ -30,7 +30,7 @@ sources:
 # Cooperative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 49 claims (28 for, 21 mixed) · 42 studies (13 quant-synthesis, 7 causal, 6 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 17 of 42 report an effect size · 41 claims rest on one study
+> **Evidence** · 52 claims (29 for, 23 mixed) · 44 studies (19 quant-synthesis, 7 causal, 6 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 18 of 44 report an effect size · 44 claims rest on one study
 
 ## Description and scope
 
@@ -154,6 +154,9 @@ This pattern is scoped to small-group work where each member's individual learni
 - [Cooperative learning has a small, positive, significant effect on attitudes towards mathematics (d++ = 0.16)](../claims/cooperative-learning-small-effect-attitude-math.md) [+W]
 - [The article identifies creative drama, cooperative learning, educational games, and animations as particularly beneficial vocabulary-teaching methods](../claims/innovative-methods-beneficial-vocabulary-acquisition.md) [+W]
 - [Self-selected and randomly formed small groups show larger achievement effects than ability-based grouping, and groups of three to five students outperform pairs](../claims/group-formation-and-size-moderate-small-group-effects.md) [~W]
+- [The effect of cooperative learning on mathematics achievement does not differ significantly by implementation period](../claims/implementation-period-moderator-not-significant.md) [~W]
+- [The effect of cooperative learning on mathematics achievement does not differ significantly by educational level](../claims/educational-level-moderator-not-significant.md) [~W]
+- [Among applications for retention of pre-service teachers, the Learning Together Technique had the highest effect size (d=2,0606, huge) and the Jigsaw Technique the lowest (d=0,5461, medium)](../claims/learning-together-highest-retention-jigsaw-lowest-meta-analysis.md) [+W]
 
 ## Related Patterns
 

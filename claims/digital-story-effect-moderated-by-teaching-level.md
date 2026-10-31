@@ -16,12 +16,14 @@ sources:
     author: Nurullah Sahin and İsmail Coban
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Teaching level significantly moderates the digital story effect, with kindergarten showing the highest joint effect size
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Nurullah Sahin and İsmail Coban. (2020). The effect of digital story applications on students' academic achievement: A meta-analysis study. African Educational Research Journal, Special Issue 8(3), S62-S75. https://eric.ed.gov/?id=EJ1274516
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Moderator analysis reported in the Findings section (Table 7) across five education levels (kindergarten N=6, primary 27, middle school 42, high school 8, university 11). The teaching level variable caused a significant difference (Q = 15.166, df = 4, p = 0.004), with all levels favoring the experimental group.
 

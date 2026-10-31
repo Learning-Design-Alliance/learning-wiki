@@ -16,12 +16,14 @@ sources:
     author: Zeynel KABLAN, Beyda TOPAN, Burak ERKAN
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Effectiveness of educational materials does not differ significantly across educational levels (primary, secondary, university)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Zeynel KABLAN, Beyda TOPAN, Burak ERKAN. (2013). The Effectiveness Level of Material Use in Classroom Instruction: A Meta-analysis Study. Educational Sciences: Theory & Practice. https://doi.org/10.12738/estp.2013.3.1692
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Homogeneity test across educational levels (primary 61.4%, secondary 28.1%, university 10.5% of studies) under a fixed effects model. The Q-statistic of 0.388 fell below the critical value of 5.991, so "there are no significant differences in effect sizes" across levels; no effect size is printed for the contrast.
 
@@ -50,3 +52,4 @@ Homogeneity test across educational levels (primary 61.4%, secondary 28.1%, univ
 - [The effect of computer-based teaching on academic success differs significantly by grade level, with the largest effect in secondary schools (ES = 1.31) and the smallest in primary schools (ES = .66)](cbt-effect-differs-by-grade-level-secondary-largest.md) — related
 - [The achievement effect of cooperative learning differs significantly across student grade levels, largest at university level (d+ = 1.33)](cooperative-learning-achievement-grade-moderator.md) — related
 - [The effect of drama on social studies achievement does not differ significantly by grade level (grades 4–7)](drama-effect-no-grade-level-difference.md) — related
+- [The effect of cooperative learning on mathematics achievement does not differ significantly by educational level](educational-level-moderator-not-significant.md) — related

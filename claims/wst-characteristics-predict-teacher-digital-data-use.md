@@ -54,3 +54,4 @@ Multilevel regression (teachers nested in 112 schools) on survey data from N = 2
 - [Teachers' digital competence is a critical factor influencing both AI tool adoption and its pedagogical effectiveness](teacher-digital-competence-critical-ai-adoption.md) — related
 - [Teachers' expectancy beliefs about successfully using AI applications shape their motivation to use them (theoretical argument).](teacher-expectancy-beliefs-shape-motivation-to-use-ai.md) — related
 - [Gender, prior digital experience, training and related factors influence digital competence](digital-competence-influencing-factors.md) — related
+- [Institutional culture, prior teaching experience, and motivational profiles shape residents' teaching effectiveness](factors-shaping-resident-teaching-effectiveness.md) — related

@@ -16,12 +16,14 @@ sources:
     author: "Setiawan, A. A., Muhtadi, A., & Hukom, J."
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Blended learning has a very large positive overall effect on Indonesian students' mathematical ability compared to conventional approaches (g = 1.269)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Setiawan, A. A., Muhtadi, A., & Hukom, J. (2022). Blended Learning and Student Mathematics Ability in Indonesia: A Meta-Analysis Study. International Journal of Instruction, 15(2), 905-916. https://doi.org/10.29333/iji.2022.15249a
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r2`
 
 Meta-analysis of 36 effect sizes from ERIC, SAGE, SpringerLink and Google Scholar documents (2012-2021) covering 1255 Indonesian students, computed in JASP. The random-effects mean effect size was "1.269" with 95% CI [1.001, 1.536], z = 9.293, p < .001, classified very high.
 

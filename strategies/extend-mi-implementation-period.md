@@ -17,7 +17,7 @@ sources:
 # Plan multiple intelligence implementations for longer periods, since effects grow with implementation duration
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Based on the moderator finding that effect sizes rise from 0,868 (3 weeks and less) to 1,606 (7 weeks and more), the authors recommend that designers and researchers consider duration when planning multiple intelligence implementations. The article states: "It should be considered that the effect of multiple intelligence practices on success may increase when the imple mentation period becomes longer."

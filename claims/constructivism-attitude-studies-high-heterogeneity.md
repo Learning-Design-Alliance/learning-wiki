@@ -16,12 +16,14 @@ sources:
     author: "Toraman, C., & Demir, E."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # The 43 studies on constructivism and attitudes are highly heterogeneous (I² = 92.562%), requiring a random effects model
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Toraman, C., & Demir, E. (2016). The effect of constructivism on attitudes towards lessons: A meta–analysis study. Eurasian Journal of Educational Research, 62, 115-142. http://dx.doi.org/10.14689/ejer.2016.62.8
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Q analysis of the 43 included studies in the meta-analysis. The article reports the degree of heterogeneity "was at a level of 93% (I 2 = %92,562)", exceeding the 75% threshold the authors cite, so the random effect model was adopted.
 

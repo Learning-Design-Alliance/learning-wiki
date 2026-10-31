@@ -16,12 +16,14 @@ sources:
     author: "Toraman, C., & Demir, E."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Year of publication does not significantly moderate the effect of constructivism on attitudes towards lessons
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Toraman, C., & Demir, E. (2016). The effect of constructivism on attitudes towards lessons: A meta–analysis study. Eurasian Journal of Educational Research, 62, 115-142. http://dx.doi.org/10.14689/ejer.2016.62.8
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Moderator analysis by year (Table 7): before 2010 (26 studies, ES = 0,689), 2010 and afterwards (10 studies, ES = 1,122), unspecified (6 studies, ES = 0,280, non-significant). The between-group test was non-significant.
 

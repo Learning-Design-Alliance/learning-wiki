@@ -59,3 +59,4 @@ Correlational analysis in the full sample (N = 288) found SR–OB correlations "
 - Recent AI-in-education studies often rely on subjective or performance-during-support measures and weak comparison designs, limiting claims about learning effects — a narrower finding that bears on this claim
 - [Teachers' ratings of children's creativity correlate poorly with psychometric performance, and teachers tend to prefer appropriate answers over novel ones](teacher-ratings-creativity-poorly-correlate-psychometric.md) — related
 - [Self-reported instruments measure AI self-efficacy (perceptions) rather than AI literacy abilities, so both should be included in comprehensive assessment](self-report-measures-self-efficacy-not-literacy.md) — a broader claim this one bears on
+- [Technical competence of students is negatively correlated with learner perceptions (r = -0.5595)](technical-competence-negative-correlation-learner-perceptions.md) — related

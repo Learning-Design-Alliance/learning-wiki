@@ -80,3 +80,4 @@ Subgroup analysis of the same disciplinary outcome for Black students, the group
 - Oakland Unified gradually reduced out-of-school suspension rates for girls after policy changes — related
 - [Instructional expenditures show the largest consistent association with achievement, with roughly 84% of variation in spending effectiveness driven by class size reductions, teacher salary increases, and reduced teacher turnover](instructional-expenditures-class-size-teacher-salary-turnout-drive-effectiveness.md) — related
 - [Suspensions in California lowered graduation rates by nearly 7 percentage points after controlling for other dropout factors](california-suspensions-lowered-graduation-7-points.md) — related
+- [CEP is associated with reduced suspension and expulsion likelihood, with larger reductions over time and for middle and high school students](cep-reduced-suspensions.md) — related

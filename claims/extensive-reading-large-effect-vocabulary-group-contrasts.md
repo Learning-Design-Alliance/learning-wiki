@@ -16,12 +16,14 @@ sources:
     author: "Liu, J., & Zhang, J."
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Extensive reading has a very large positive effect on English vocabulary learning in between-group comparisons (d = 1.32)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Liu, J., & Zhang, J. (2018). The Effects of Extensive Reading on English Vocabulary Learning: A Meta-analysis. English Language Teaching, 11(6). https://doi.org/10.5539/elt.v11n6p1
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r2`
 
 Random-effect meta-analysis of 17 group-contrast studies (N = 1,148) computed in Stata 14.0. The pooled effect was "a very large effect on English vocabulary learning (d = 1.32)" with a confidence interval of [0.62, 2.02] excluding zero.
 

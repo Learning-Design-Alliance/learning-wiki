@@ -45,7 +45,8 @@ The article's recommendations section advises that live online instruction avoid
 - [Learners recognize an instructor's positive versus negative emotional tone in video lectures.](../claims/learners-recognize-instructor-emotional-tone-video.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Design synchronous online sessions as interactive lessons rather than recorded-style lectures](interactive-synchronous-sessions-strategy.md)
 
 ## Examples
 -

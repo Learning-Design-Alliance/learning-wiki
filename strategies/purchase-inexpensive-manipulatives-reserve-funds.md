@@ -17,7 +17,7 @@ sources:
 # Consider purchasing more inexpensive manipulative materials and reserving funds for higher-impact interventions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q3` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Based on the modest pooled effect of manipulatives use, the article recommends that practitioners, administrators, and policy makers "may want to consider purchasing more inexpensive manipulative materials in order to reserve funds for other interventions that research has shown to have a more substantial impact on student mathematics achievement". The strategy treats manipulatives as a low-cost supplement rather than a primary investment, allocating budgets toward interventions with larger demonstrated effects while still capturing the small achievement gain manipulatives provide.

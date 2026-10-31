@@ -16,18 +16,22 @@ sources:
     author: "Funa, A. A., & Prudente, M. S."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
   - id: funa-2021-2
     resource: "https://doi.org/10.29333/iji.2021.1445a"
     title: "Funa, A. A., & Prudente, M. S. (2021). Effectiveness of problem-based learning on secondary students’ achievement in science: A meta-analysis. International Journal of Instruction, 14(4), 69-84. https://doi.org/10.29333/iji.2021.1445a"
     author: "Funa, A. A., & Prudente, M. S."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # The meta-analysis shows no publication bias (Begg-Mazumdar p = .196) and is resistant to it (fail-safe N = 463)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r1`–`r2` · `q3`
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Funa, A. A., & Prudente, M. S. (2021). Effectiveness of problem-based learning on secondary students’ achievement in science: A meta-analysis. International Journal of Instruction, 14(4), 69-84. https://doi.org/10.29333/iji.2021.1445a
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Publication-bias assessment of the 11 pooled studies using a funnel plot and the Begg-Mazumdar rank correlation test (chosen over Egger’s test because Egger’s may give false positives with few studies). The funnel plot showed three outliers accounting for its asymmetry, but the test p-value of .196 indicates "no publication bias among studies".
 
@@ -50,7 +54,7 @@ Publication-bias assessment of the 11 pooled studies using a funnel plot and the
 
 Funa, A. A., & Prudente, M. S. (2021). Effectiveness of problem-based learning on secondary students’ achievement in science: A meta-analysis. International Journal of Instruction, 14(4), 69-84. https://doi.org/10.29333/iji.2021.1445a
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r1`
 
 Classic Fail-Safe N analysis reported in Table 3: with Z = 12.864 and alpha = .050, the article reports that 463 missing studies would be needed to bring the p-value above alpha, indicating the meta-analysis is "resistant to publication bias".
 
@@ -70,3 +74,4 @@ Classic Fail-Safe N analysis reported in Table 3: with Z = 12.864 and alpha = .0
 - [Publication bias could not be ruled out in the pooled teacher-student SEC estimate, though the association persisted across sensitivity analyses](sec-pooled-estimate-publication-bias-caution.md) — related
 - [Publication bias is unlikely to explain the consistency of SRL intervention effect sizes](srl-meta-analysis-no-publication-bias.md) — related
 - [The meta-analysis shows signs of publication bias, with smaller studies tending to give more positive results than larger studies](publication-bias-gloss-meta-analysis.md) — reports the opposite
+- [Publication bias was detected in all four meta-analytic models, so additional studies could change the results](publication-bias-sol-meta-analysis.md) — reports the opposite

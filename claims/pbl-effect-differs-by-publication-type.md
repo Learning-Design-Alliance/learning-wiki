@@ -16,12 +16,14 @@ sources:
     author: Ufuk Uluçınar
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Effect sizes of PBL on science achievement differ significantly by publication type, with conference proceedings showing a negative effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Ufuk Uluçınar. (2022). The Effect of Problem-Based Learning in Science Education on Academic Achievement: A Meta-Analytical Study. Science Education International, 34(2), 72-85. https://doi.org/10.33828/sei.v34.i2.1
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Moderator analysis by publication type across the 55 datasets (random effects model): 2 conference papers, 21 articles, 20 master's theses, 12 doctoral dissertations; between-group heterogeneity Q = 28.161, p < 0.05. Conference proceedings effect was "significant and in the negative direction".
 
@@ -48,3 +50,4 @@ Moderator analysis by publication type across the 55 datasets (random effects mo
 - [Publication type (article vs. thesis) does not significantly moderate the effect of formative assessment on student learning](publication-type-no-moderation-formative-assessment.md) — related
 - [Academic achievement effects of STEM practices differ significantly by publication type and education level but not by lesson type](stem-achievement-moderators-publication-type-education-level.md) — related
 - [PBL has a high positive effect on science academic achievement compared to traditional instruction (random-effects g = 1.009)](pbl-high-effect-science-achievement-meta-analysis.md) — related
+- [Effect sizes differ significantly by publication type, with master's theses highest (g = 1.443) and research articles lowest (g = 0.278)](significant-difference-by-publication-type.md) — related

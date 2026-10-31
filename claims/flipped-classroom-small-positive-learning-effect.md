@@ -16,18 +16,22 @@ sources:
     author: Torstein Låg, Rannveig Grøm Sæle
     q: 3
     i: 1
+    kind: quant-synthesis
+    rigour: 3
   - id: torstein-låg-2019-2
     resource: "https://doi.org/10.1177/2332858419870489"
     title: "Torstein Låg, Rannveig Grøm Sæle. (2019). Does the Flipped Classroom Improve Student Learning and Satisfaction? A Systematic Review and Meta-Analysis. AERA Open. https://doi.org/10.1177/2332858419870489"
     author: Torstein Låg, Rannveig Grøm Sæle
     q: 3
     i: 1
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Flipped classroom interventions produce a small positive effect on continuous learning outcomes, around one fifth of a standard deviation after correcting for small-study bias
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q3` · `i1` small
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Torstein Låg, Rannveig Grøm Sæle. (2019). Does the Flipped Classroom Improve Student Learning and Satisfaction? A Systematic Review and Meta-Analysis. AERA Open. https://doi.org/10.1177/2332858419870489
 
-`q3 · i1`
+`q3 · i1` · `quant-synthesis · r3`
 
 Random-effects meta-analysis of 272 samples comparing flipped classroom with traditional teaching on exam scores, test scores, or grades. The article reports "Hedges' g) of 0.35" with Z = 14.68, p < .001, and notes this is probably an overestimate due to smaller studies.
 
@@ -50,7 +54,7 @@ Random-effects meta-analysis of 272 samples comparing flipped classroom with tra
 
 Torstein Låg, Rannveig Grøm Sæle. (2019). Does the Flipped Classroom Improve Student Learning and Satisfaction? A Systematic Review and Meta-Analysis. AERA Open. https://doi.org/10.1177/2332858419870489
 
-`q3 · i1`
+`q3 · i1` · `quant-synthesis · r3`
 
 Sensitivity analyses restricting to powered studies (total sample size larger than 174, k = 90) gave g = 0.24; the article states "A trim-and-fill adjustment yields an estimate of 0.17", suggesting a true effect near one fifth of a standard deviation.
 

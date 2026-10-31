@@ -16,12 +16,14 @@ sources:
     author: Vahideh Sadat Vahedi, Behzad Ghonsooly, and Reza Pishghadam
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # The meta-analysis shows signs of publication bias, with smaller studies tending to give more positive results than larger studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Vahideh Sadat Vahedi, Behzad Ghonsooly, and Reza Pishghadam. (2014). Vocabulary Glossing: A Meta-Analysis of the Relative Effectiveness of Different Gloss Types on L2 Vocabulary Acquisition. Teaching English with Technology, 16(1), 3-25. http://www.tewtjournal.org
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Publication-bias assessment of the 34-study meta-analysis using funnel plots and fail-safe N tests. The article reports the classic Fail-safe N test estimated 2318 null studies needed to nullify the overall effect, and Orwin's Fail-safe N estimated 395 missing null studies to bring the mean effect to the critical value of 0.05.
 
@@ -53,3 +55,4 @@ Publication-bias assessment of the 34-study meta-analysis using funnel plots and
 - [The pooled effect of writing instruction for US ELL students is robust to sensitivity analyses but funnel plot asymmetry suggests possible missing positive effect sizes](sensitivity-and-bias-checks-ell-writing-meta.md) — related
 - [Publication bias tests give mixed evidence: Egger's test indicates bias, but fail-safe N calculations lead the authors to conclude no publication bias](publication-bias-mixed-egger-failsafe.md) — related
 - [Smaller, underpowered studies report larger flipped classroom effect sizes, indicating small-study and publication bias](small-study-bias-inflates-flipped-classroom-effects.md) — possibly the same claim (merge candidate)
+- [Publication bias tests indicate the observed effects for both outcomes were not influenced by publication bias](cbl-meta-analysis-no-publication-bias.md) — reports the opposite

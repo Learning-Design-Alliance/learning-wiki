@@ -16,12 +16,14 @@ sources:
     author: "Kalaian, S. A., Kasim, R. M., & Nims, J. K."
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # Small-group learning methods appear more effective for first-year freshmen than for higher-level college students in engineering and technology courses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r1` · `q3` · `i3` large
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Kalaian, S. A., Kasim, R. M., & Nims, J. K. (2018). Effectiveness of Small-Group Learning Pedagogies in Engineering and Technology Education: A Meta-Analysis. Journal of Technology Education, 29(2). https://scholar.lib.vt.edu/ejournals/JTE/
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r1`
 
 Subgroup analysis of classroom level (Table 1) across the 26 effect sizes: 4 effect sizes from first-year classes (d = 0.84, p = 0.00) versus 22 from higher classes (d = 0.38, p = 0.00). The article concludes the methods were "much more effective in the freshmen level".
 

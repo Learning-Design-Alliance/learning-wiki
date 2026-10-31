@@ -16,12 +16,14 @@ sources:
     author: Mehmet Fatih Ayaz, Hanifi Şekerci
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Effect sizes differ significantly by publication type, with master's theses and articles showing higher effects than PhD theses.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i3` large
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Mehmet Fatih Ayaz, Hanifi Şekerci. (2015). The Effects of the Constructivist Learning Approach on Student's Academic Achievement: A Meta-Analysis Study. The Turkish Online Journal of Educational Technology, 14(4). https://eric.ed.gov/?id=EJ1077612
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r3`
 
 Moderator analysis (analogue ANOVA, Table 2) across the 53 studies. The article reports significant differences by publication type, with "The highest effect size values are found in the thesis (ES=1.419)" and the lowest for PhD theses.
 
@@ -51,3 +53,4 @@ Moderator analysis (analogue ANOVA, Table 2) across the 53 studies. The article 
 - [Effect of learning stations does not differ significantly by study type (article vs master's thesis)](learning-stations-study-type-null-moderator.md) — related
 - [Attitude effects of STEM practices differ significantly by education level but not by publication type or lesson type](stem-attitude-moderators-education-level.md) — related
 - [Publication type (article vs. thesis) does not significantly moderate the effect of formative assessment on student learning](publication-type-no-moderation-formative-assessment.md) — reports the opposite
+- [Effect sizes differ significantly by publication type, with master's theses highest (g = 1.443) and research articles lowest (g = 0.278)](significant-difference-by-publication-type.md) — related

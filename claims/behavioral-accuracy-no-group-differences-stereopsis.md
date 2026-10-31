@@ -49,3 +49,5 @@ Module 1 learning-curve analysis of proportion-correct across five blocks: accur
 - [Interleaved 2D/3D learning produced decreased reward positivity amplitude compared to 2D-only and 3D-only groups during the second (retention/transfer) module](interleaved-2d3d-decreased-reward-positivity-retention.md) — related
 - [During initial learning, the interleaved 2D/3D group showed reduced reward positivity from block 2 onward, diverging from both the 2D and 3D groups](interleaved-2d3d-reward-positivity-module1.md) — related
 - [Reward positivity showed no forgetting-curve lapse after ~30 days despite a lapse in behavioral accuracy, indicating retained ability to internally evaluate responses](reward-positivity-no-forgetting-curve-30-days.md) — related
+- [Spatial ability correlated positively with neuroanatomy performance across pretest and both quizzes in a crossover 3D-module study (Allen et al.)](allen-spatial-ability-correlates-neuroanatomy-performance.md) — related
+- [AR and 2D methods boosted knowledge similarly, but the 3D AR method drew greater satisfaction and student preference (Lopez et al.)](lopez-ar-similar-knowledge-higher-satisfaction.md) — related

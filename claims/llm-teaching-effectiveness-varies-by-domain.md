@@ -76,3 +76,5 @@ Table 4 row for Qwen3-235B: accuracy changes of -6.30 in Chemistry and -5.65 in 
 - [SFT on K12-Train improves out-of-domain subjects (Chinese, Humanities Math), suggesting acquisition of a transferable structurally-grounded answer style](k12-train-cross-subject-transfer.md) — related
 - [Concept-mapping effect sizes vary by science subject (physics/earth science g = 1.040, biology g = 0.671, chemistry g = 0.590) but not significantly](concept-map-effects-vary-by-science-subject.md) — related
 - [In a semester-long crossover experiment with a real teacher, learning scores under jigsaw were not higher than under teaching-as-usual in physics and chemistry](jigsaw-vs-tau-null-semester-e3a.md) — related
+- [Flipped classrooms benefit students in STEM subjects such as chemistry, engineering, mathematics, and physics less than students in other subjects](flipped-classroom-smaller-effects-stem-subjects.md) — related
+- [Stratified teaching positively affects all seven studied subjects, with larger effects in English, physics, and geography than in chemistry, biology, and mathematics](stratified-teaching-subject-effects-english-physics-geography.md) — related

@@ -51,3 +51,4 @@ Class-size moderator analysis across the 35 studies, with class size coded as sm
 - [Active learning benefits students in all class sizes, with the greatest effects in classes of 50 or fewer students](active-learning-strongest-small-classes.md) — reports the opposite
 - [Tutorial group size moderates SDL gains in PBL: small and medium groups gained SDL, large groups declined](tutorial-group-size-moderates-sdl.md) — related
 - [Class capacity does not significantly moderate the effect of RME on mathematical literacy](class-capacity-no-moderating-effect-rme-literacy.md) — related
+- [Sampling size is not an effective moderator of AR effects, with large samples (50+) at 0.647 and small samples (1-49) at 0.262](ar-effect-sample-size-not-effective.md) — related

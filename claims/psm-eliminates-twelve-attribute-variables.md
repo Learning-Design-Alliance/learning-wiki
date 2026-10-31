@@ -16,12 +16,14 @@ sources:
     author: "Itsarangkul Na Ayutthaya, T., & Damrongpanit, S."
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Propensity score matching eliminates the statistically significant differences of 12 research attribute variables between low and high effect size studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Itsarangkul Na Ayutthaya, T., & Damrongpanit, S. (2022). A Meta-Analysis of Instructional Management Model for Students’ Creative Thinking Development: An Application of Propensity Score Matching. European Journal of Educational Research, 11(4), 2429-2444. https://doi.org/10.12973/eu-jer.11.4.2429
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Comparison of 26 research attribute variables before and after propensity score matching across 400 studies (Table 3 prints per-variable t, F and F* tests). The article states the matching "eliminated the differences in the extraneous variables of the samples".
 

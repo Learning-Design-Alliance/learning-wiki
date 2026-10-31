@@ -16,12 +16,14 @@ sources:
     author: "Jemma Kim & Christina H. Kimm"
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Conducting maintenance and generalization phases was significantly associated with higher PND scores than treatment-only cases
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Jemma Kim & Christina H. Kimm. (2017). Functional Technology for Individuals with Intellectual Disabilities: Meta-Analysis of Mobile Device-Based Interventions. The Journal of Special Education Apprenticeship, 6(1). https://eric.ed.gov/?id=EJ1149575
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Kruskal-Wallis test across phase conditions among the 140 observed cases, followed by a Mann-Whitney comparison; treatment-only mean PND was 84.7 versus 98.9 for cases with treatment, maintenance, and generalization phases.
 

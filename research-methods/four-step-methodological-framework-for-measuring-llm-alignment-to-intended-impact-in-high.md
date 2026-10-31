@@ -26,7 +26,8 @@ The article proposes a general framework for evaluating whether LLM judgments al
 - [LLM alignment with expert teaching ratings does not predict, and is often negatively associated with, alignment with student learning gains](../claims/proxy-alignment-not-impact-alignment-llm-classroom.md) [+M]
 
 ## Related Research Methods
--
+
+- [Outcome-aligned measurement-source selection](outcome-aligned-measurement-source-selection.md)
 
 ## Key Sources
 - Michael Hardy, Yunsung Kim. (2026). Knowledge without Wisdom: Measuring Misalignment between LLMs and Intended Impact. arXiv. https://arxiv.org/abs/2603.00883

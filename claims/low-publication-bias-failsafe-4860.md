@@ -16,12 +16,14 @@ sources:
     author: Mehmet Fatih Ayaz, Hanifi Şekerci
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Publication bias in the meta-analysis is low, as indicated by a fail-safe N of 4860 and funnel plot inspection.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Mehmet Fatih Ayaz, Hanifi Şekerci. (2015). The Effects of the Constructivist Learning Approach on Student's Academic Achievement: A Meta-Analysis Study. The Turkish Online Journal of Educational Technology, 14(4). https://eric.ed.gov/?id=EJ1077612
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Publication bias assessment of the 53-study synthesis using fail-safe N and funnel plot (Figure 3). The article reports "we need to have at least 4860 studies" of zero effect, and notes the Duval and Tweedie trim-and-fill graph would need 12 studies added on the right for full symmetry.
 
@@ -55,3 +57,5 @@ Publication bias assessment of the 53-study synthesis using fail-safe N and funn
 - [Publication-bias checks give mixed results: Egger's test indicates funnel-plot asymmetry while Trim and Fill and Fail-Safe N indicate no bias](mixed-publication-bias-evidence-meta-analysis.md) — related
 - [No publication bias was detected in the set of creative drama studies on Social Studies achievement](no-publication-bias-creative-drama-social-studies.md) — related
 - [Publication-bias checks (funnel plot symmetry and Rosenthal Safe N of 6801) indicate no publication bias in the synthesis](stem-digital-meta-no-publication-bias.md) — related
+- [Publication bias tests indicate the observed effects for both outcomes were not influenced by publication bias](cbl-meta-analysis-no-publication-bias.md) — related
+- [Publication bias was detected in all four meta-analytic models, so additional studies could change the results](publication-bias-sol-meta-analysis.md) — reports the opposite

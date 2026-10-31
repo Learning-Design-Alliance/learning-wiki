@@ -129,3 +129,8 @@ A registered systematic review of single (acute) bouts of classroom movement bre
 - [Studies on the mental fatigue of school children assist in arranging the daily program, including order of subjects and recess periods](fatigue-studies-inform-daily-program.md) — related
 - [Low-intensity exercise during university class significantly increases students' vigour during the lesson](classroom-exercise-increases-vigour.md) — related
 - [Commitment to and behaviour towards learning is better after a gamified exergaming intervention than after traditional PE teaching](gamified-exergaming-better-commitment-behaviour-learning.md) — related
+- [Effects of classroom physical activity breaks on academic performance in university students are mixed or inconclusive](pa-breaks-academic-performance-mixed.md) — related
+- [Behavioral engagement findings from classroom physical activity breaks are inconclusive](pa-breaks-behavioral-engagement-inconclusive.md) — related
+- [Evidence on selective attention from classroom physical activity breaks is inconclusive, with one study reporting a negative effect](pa-breaks-selective-attention-inconclusive.md) — related
+- [Classroom physical activity breaks show strong evidence of improving sustained attention in university students](pa-breaks-sustained-attention-university-strong-evidence.md) — related
+- [Performance in mathematics tests significantly improved after school-based physical activity interventions compared with control groups](pa-interventions-improve-math-performance.md) — related

@@ -14,7 +14,7 @@ grain_size: lesson
 # Collaborative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 69 claims (28 for, 36 mixed, 5 against) · 56 studies (19 causal, 8 review, 7 theoretical, 6 associational, 6 qualitative, 5 quant-synthesis, 4 design), `q1`–`q4` · 13 of 56 report an effect size · 67 claims rest on one study
+> **Evidence** · 70 claims (28 for, 37 mixed, 5 against) · 57 studies (19 causal, 9 review, 7 theoretical, 6 quant-synthesis, 6 associational, 6 qualitative, 4 design), `q1`–`q4` · 13 of 57 report an effect size · 68 claims rest on one study
 
 ## Description and scope
 
@@ -150,6 +150,7 @@ This pattern is scoped to pairs and small groups where each member's individual 
 - [Quality of knowledge construction after the first individual task significantly predicted quality after the subsequent collaborative task](../claims/test1-covariate-significant-predictor-test2.md) [+W]
 - [Representational scripting produced no individual learning gains: overall post-test scores did not exceed pre-test scores](../claims/no-individual-learning-gains.md) [-W]
 - [Collaborative learning has a large positive effect on academic success in Turkish language instruction (REM ES = 0.816)](../claims/collaborative-learning-large-effect-turkish.md) [~W]
+- [Collaboration is rarely explicitly designed or measured in virtual-laboratory physics studies despite group work being the norm](../claims/collaboration-rarely-designed-or-measured.md) [~W]
 
 ## Related Patterns
 - [Collaborative Inquiry](../principles/inquiry-based-learning.md)

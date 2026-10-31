@@ -16,12 +16,14 @@ sources:
     author: Young-Suk Grace Kim, Dandan Yang, Marcela Reyes, Carol Connor
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Variation in instructional dosage did not explain variation in writing instruction effect sizes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Young-Suk Grace Kim, Dandan Yang, Marcela Reyes, Carol Connor. (2021). Writing instruction improves students' writing skills differentially depending on focal instruction and children: A meta-analysis for primary grade students. Educational Research Review 34. https://doi.org/10.1016/j.edurev.2021.100408
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Meta-regression of dosage (weeks × sessions per week × session length) on effect sizes. Dosage information was missing in 6 of 24 studies (22% of effect sizes), limiting this analysis.
 

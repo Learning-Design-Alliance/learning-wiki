@@ -16,12 +16,14 @@ sources:
     author: Young-Suk Grace Kim, Dandan Yang, Marcela Reyes, Carol Connor
     q: 3
     i: 1
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Writing instruction has a moderate positive overall effect on written composition for primary grade students (ES = 0.31)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i1` small
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Young-Suk Grace Kim, Dandan Yang, Marcela Reyes, Carol Connor. (2021). Writing instruction improves students' writing skills differentially depending on focal instruction and children: A meta-analysis for primary grade students. Educational Research Review 34. https://doi.org/10.1016/j.edurev.2021.100408
 
-`q3 · i1`
+`q3 · i1` · `quant-synthesis · r3`
 
 Meta-analysis of 24 RCT and quasi-experimental studies of writing instruction for K-Grade 3 students, using weighted random-effects models (k = 166; N = 5589). The overall effect was "ES = 0.31, SE = 0.09, p < .001" with a 95% CI of 0.14 to 0.49.
 

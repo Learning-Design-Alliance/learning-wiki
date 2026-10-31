@@ -16,12 +16,14 @@ sources:
     author: "Larwin, K. H., & Larwin, D. A."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # Including unpublished studies shows publication bias does not significantly threaten the guided-notes effect estimate
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r1` · `q3`
 > **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Larwin, K. H., & Larwin, D. A. (2013). The Impact of Guided Notes on Post-Secondary Student Achievement: A Meta-Analysis. International Journal of Teaching and Learning in Higher Education, 25(1), 47-58. http://www.isetl.org/ijtlhe/
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r1`
 
 Meta-analytic comparison across study source (12 studies: seven published, five unpublished). No effect size is printed for this contrast; the article reports only the homogeneity-style test statistic and p-value.
 

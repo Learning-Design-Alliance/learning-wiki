@@ -49,7 +49,7 @@ The authors regressed study effect sizes on program and design features. These a
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Which variant: how high a criterion, group-paced or self-paced, and measured how?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **6 distinct studies** (5 quant-synthesis, 1 causal), `q2`–`q4`, 4 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Self-paced or group-paced progression through small units, at what criterion, measured how?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **6 distinct studies** (5 quant-synthesis, 1 causal), `q2`–`q4`, 4 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -72,3 +72,4 @@ For design, these cross-study associations suggest, without showing cause, that 
 - [ITS evaluation results depend strongly on test type: effects are large on locally developed tests (ES = 0.73) and small on standardized tests (ES = 0.13)](test-type-moderates-its-effects.md) — related
 - [Self-paced mastery programs (PSI) reduce college course completion, though not by enough to explain their examination advantage](self-paced-mastery-programs-reduce-college-course-completion.md) — related
 - [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — related
+- [Studies using researcher-developed outcomes yield effects about 0.42 SD larger than studies using standardized outcomes](researcher-developed-outcomes-larger-app-effects.md) — related

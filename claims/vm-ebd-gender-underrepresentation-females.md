@@ -16,12 +16,14 @@ sources:
     author: Elias Clinton
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # Participants in VM-for-EBD research are disproportionately male: only 14% of gender-reporting studies' participants were female versus about 24% of the EBD population
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r1` · `q2`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Elias Clinton. (2016). A Meta-Analysis of Video Modeling Interventions for Children and Adolescents with Emotional/Behavioral Disorders. Educational Research Quarterly, 40(2). https://eric.ed.gov/?id=EJ1166705
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r1`
 
 Participant-demographic analysis across the 19 reviewed studies. The author reports only 14% of participants were female among studies reporting gender, versus approximately 24% of the EBD population, citing research on the complex, individualized needs of females with EBD.
 

@@ -16,12 +16,14 @@ sources:
     author: Amelia Defrianti Putri, Dadang Juandi, Turmudi
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # PISA content domain does not significantly moderate the effect of RME on mathematical literacy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Amelia Defrianti Putri, Dadang Juandi, Turmudi. (2024). Realistic mathematics education and mathematical literacy: a meta-analysis conducted on studies in Indonesia. Journal of Education and Learning (EduLearn), Vol. 18, No. 4. https://doi.org/10.11591/edulearn.v18i4.21650
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Moderator analysis across PISA content domains: change and relationship (2 studies, g = 1.194), space and shape (10, g = 0.883), quantity (2, g = 0.977), uncertainty (3, g = 1.630). The printed Q was 2.268 with p = 0.519, indicating no statistically significant difference.
 

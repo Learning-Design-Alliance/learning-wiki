@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 135 claims (88 show a difference, 31 mixed, 16 no difference) · 97 studies (27 review, 25 associational, 18 causal, 13 quant-synthesis, 5 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 28 of 97 report an effect size · 131 claims rest on one study
+> **Evidence** · 138 claims (90 show a difference, 32 mixed, 16 no difference) · 99 studies (29 review, 25 associational, 18 causal, 13 quant-synthesis, 5 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 28 of 99 report an effect size · 134 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -176,6 +176,9 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [VR-assisted and Lego social competence education both increased rural elementary children's social competence over eight sessions (Study 1), with no significant difference between the two approaches](../claims/vr-and-lego-sce-increase-elementary-social-competence.md) [+M] — instruction changes it
 - [Social e-competency is a positive statistical predictor of habitual digital behaviors, invariant across gender and age groups, in cross-sectional data](../claims/social-e-competency-positive-predictor.md) [+W] — learners who differ on it differ in outcomes
 - [Socio-emotional e-competencies correlate negatively with habitual digital behaviors in secondary students, except social e-competency (weakly positive) and emotional e-awareness (no significant correlation)](../claims/e-competencies-negative-relation-habitual-digital-behaviors.md) [~M] — learners who differ on it differ in outcomes
+- [Empathy and communication interventions show short-term gains but evidence on persistence over time is inconsistent](../claims/soft-skills-intervention-gains-not-sustained.md) [~M] — instruction changes it
+- [Innovative andragogical strategies — simulation, narrative medicine, reflective writing — enhance empathy, compassion, and communication skills in medical students](../claims/innovative-teaching-practices-soft-skills-medical-students.md) [+M] — instruction changes it
+- [Virtual-reality delirium training increased nurses' empathy and knowledge, with larger empathy gains when VR preceded didactic instruction](../claims/vr-delirium-empathy-order-effect.md) [+M] — instruction changes it
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

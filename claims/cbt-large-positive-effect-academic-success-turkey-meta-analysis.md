@@ -16,12 +16,14 @@ sources:
     author: Veli Batdı
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Computer-based teaching has a large, positive, significant effect on students' academic success compared with traditional teaching methods in Turkish studies from 2006-2014
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Veli Batdı. (2015). A Meta-Analytic Study Concerning the Effect of Computer-Based Teaching on Academic Success in Turkey. Educational Sciences: Theory & Practice. https://doi.org/10.12738/estp.2015.5.2491
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Meta-analysis of 78 studies (experimental group 2,648 students, control group 2,636) using Hedges' d and a random effects model in CMA and MetaWin. The article reports the effect size was large according to Cohen's (1992) classification, so "using CBT had a positive effect on academic success."
 
@@ -52,3 +54,5 @@ Meta-analysis of 78 studies (experimental group 2,648 students, control group 2,
 - [Creative drama-based learning has a large positive effect on academic success in Turkish language instruction (REM ES = 1.712)](creative-drama-large-effect-turkish.md) — related
 - [Student-centered methods have an overall positive and high-level effect on academic success in Turkish language instruction](student-centered-methods-positive-effect-turkish-instruction.md) — related
 - [Vocabulary development interventions have a large average positive effect on cognitive vocabulary outcomes (g = 1.179) compared with traditional teaching methods](vocabulary-interventions-large-average-effect-g-1179.md) — related
+- [MIT-based instruction shows a large overall positive effect on students' academic achievement in a meta-analysis of 75 Turkish experimental theses and dissertations](mit-instruction-large-overall-effect-achievement.md) — related
+- [Nearly all (97.33%) of the included studies show effect sizes in favor of MIT-based instruction over control-group instruction](mit-effect-direction-mostly-positive.md) — related

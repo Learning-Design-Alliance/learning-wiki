@@ -16,12 +16,14 @@ sources:
     author: "Demir, M., & Kaya, M."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Publication bias in the dataset is low and unimportant: Egger's test is non-significant and the trim-and-fill adjusted effect size (ES=.76) differs from the observed value by only about .02
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Demir, M., & Kaya, M. (2022). Analysis of constructivist learning model's effects on student outcomes: A second order meta-analysis. Journal of Theoretical Educational Science, 15(4), 938-957. http://doi.org/10.30831/akukeg.1122136
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Publication bias analysis of the 21-effect-size dataset using Egger's regression test and Duval & Tweedie's trim and fill. The article reports "t=1, 67 p=.11" for Egger's test and no bias per the DTtf result; the funnel plot is described as approximately symmetrical.
 

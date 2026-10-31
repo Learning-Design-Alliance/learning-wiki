@@ -16,12 +16,14 @@ sources:
     author: Katharine Conn
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Abolishing school fees, school-based management, and school supplies provision have the lowest pooled effect sizes on learning in Sub-Saharan Africa
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Katharine Conn. (2014). Which interventions have the greatest effect on student learning in Sub-Saharan Africa? A meta-analysis of rigorous impact evaluations. SREE Spring 2014 Conference. https://eric.ed.gov/?id=ED562871
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Pooled random-effects estimates by intervention type from the same 60-study meta-analysis. The author reports "the abolishment of school fees (Cohen's d = 0.007, p = 0.484)" among the lowest-impact types; no standardized effect-size magnitude beyond d is printed.
 

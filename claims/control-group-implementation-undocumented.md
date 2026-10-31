@@ -16,12 +16,14 @@ sources:
     author: "San, I. & Kis, A."
     q: 1
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Control-group implementations of the traditional method were undocumented (no lesson plans, no recordings), creating a reliability problem in the underlying studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · quant-synthesis `r2` · `q1`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 San, I. & Kis, A. (2018). Effect of traditional methods in geometry and numbers learning domains on academic achievement: A Meta-analysis study. International Journal of Research in Education and Science (IJRES), 4(2), 544-554. https://doi.org/10.21890/ijres.428950
 
-`q1 · i?`
+`q1 · i?` · `quant-synthesis · r2`
 
 Authors' examination of the included theses: studies usually informed about the experimental group while "almost no information is given about the applications made in the control group", which the authors call a reliability problem.
 

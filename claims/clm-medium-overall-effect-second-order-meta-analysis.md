@@ -16,12 +16,14 @@ sources:
     author: "Demir, M., & Kaya, M."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Constructivist learning models have a medium-level overall effect (ES=.78) on K-12 student outcomes across 19 meta-analyses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Demir, M., & Kaya, M. (2022). Analysis of constructivist learning model's effects on student outcomes: A second order meta-analysis. Journal of Theoretical Educational Science, 15(4), 938-957. http://doi.org/10.30831/akukeg.1122136
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Second-order meta-analysis under a random effect model combining 19 first-order meta-analyses of constructivist learning models. The authors report "The mean impact size is ES=.78 LL=.70 UL=.87", with individual effect sizes ranging from ES=.45 to ES=1.20.
 
@@ -48,3 +50,4 @@ Second-order meta-analysis under a random effect model combining 19 first-order 
 - [Cooperative learning models have a moderate average effect on student learning outcomes across 23 first-order meta-analyses](cooperative-learning-moderate-overall-effect-second-order.md) — related
 - [The effect of cooperative learning differs by the location of the meta-analysis studies, with single-country studies showing higher effects than mixed-country studies](cooperative-learning-location-moderator.md) — related
 - [Publication bias in the dataset is low and unimportant: Egger's test is non-significant and the trim-and-fill adjusted effect size (ES=.76) differs from the observed value by only about .02](clm-dataset-low-publication-bias.md) — related
+- [Mean effect sizes across the 13 reviewed meta-analyses ranged from -.11 to .57](mean-effect-sizes-range-negative-11-to-57.md) — related

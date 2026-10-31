@@ -16,12 +16,14 @@ sources:
     author: Gulfer Capar, Kamuran Tarim
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # The achievement effect of cooperative learning differs significantly across student grade levels, largest at university level (d+ = 1.33)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Gulfer Capar, Kamuran Tarim. (2015). Efficacy of the Cooperative Learning Method on Mathematics Achievement and Attitude: A Meta-Analysis Research. Educational Sciences Theory & Practice. https://doi.org/10.12738/estp.2015.2.2098
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Moderator analysis by education level (preschool, primary, secondary, high school, university) in the meta-analysis, reported in Table 1. The article reports "significant differences were observed" across grades, with university d+ = 1.33 and secondary d+ = 0.30.
 

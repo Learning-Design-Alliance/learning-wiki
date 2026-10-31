@@ -51,3 +51,4 @@ Theoretical gap analysis of Scenario 7 (Core Integrated Learning) in the analysi
 - [Scenarios depict AI systems monitoring and scaffolding students' socially shared regulation of learning during collaborative lessons](ai-monitors-socially-shared-regulation-scenarios.md) — related
 - [Bures, Abrami and Schmid's empirical analysis argues that multiple forms of scaffolding may interfere with each other and that labeling should be designed flexibly to match existing structure](scaffolding-forms-may-interfere-labeling-flexible.md) — related
 - [Feedback topology matters differentially across development: novices use simpler external topologies while experts use richer connectivity](feedback-topology-differential-across-development.md) — related
+- [Assessment of metacognitive regulation appears underexploited in physical therapy, with existing methods not adequately capturing tasks-focals interplay or interaction dynamics](mr-assessment-underdeveloped-in-pt.md) — related

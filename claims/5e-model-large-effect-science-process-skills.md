@@ -16,12 +16,14 @@ sources:
     author: Nevin Kozcu Cakır
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # The 5E learning model has a large positive effect on students' science process skills compared with traditional teaching
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r1` · `q3` · `i3` large
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Nevin Kozcu Cakır. (2017). Effect of 5E Learning Model on Academic Achievement, Attitude and Science Process Skills: Meta-analysis Study. Journal of Education and Training Studies, 5(11). https://doi.org/10.11114/jets.v5i11.2649
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r1`
 
 Meta-analysis of 6 studies (5 articles, 1 thesis; 177 experimental and 169 control students) on science process skills. The discussion reports "ES=1,559" with SE=0,278 and CI to 2,214, described as a perfect level of effect; no negative-effect studies were identified.
 

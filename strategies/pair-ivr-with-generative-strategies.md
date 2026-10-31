@@ -46,7 +46,8 @@ Based on its findings, the review recommends that the effects of IVR on learning
 - [Immersive lessons show a small effect size advantage over less immersive technology, but increased presence does not necessarily lead to more learning](../claims/immersive-lessons-small-advantage-presence-not-sufficient.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Incorporate VR-based simulation training into spine surgery residency curricula as an adjunct to traditional methods](incorporate-vr-training-into-residency-curricula-strategy.md)
 
 ## Examples
 -

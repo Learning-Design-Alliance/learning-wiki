@@ -16,12 +16,14 @@ sources:
     author: "Karen Larwin & David Larwin"
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # CAI benefits introductory statistics students more than intermediate/advanced students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Karen Larwin & David Larwin. (2011). A Meta-Analysis Examining the Impact of Computer-Assisted Instruction on Postsecondary Statistics Education: 40 Years of Research. Journal of Research on Technology in Education, 43(3), 253–278. https://eric.ed.gov/?id=EJ918907
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Moderator analysis of level of statistics class (Table 2 within-group Q = 9.38*); the authors caution that few advanced-section studies make strong conclusions difficult, and note most tutorials and simulations target introductory topics.
 

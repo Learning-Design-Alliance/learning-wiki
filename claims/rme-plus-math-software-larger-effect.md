@@ -16,12 +16,14 @@ sources:
     author: "Juandi, D., Kusumah, Y. S., & Tamur, M."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # RME combined with mathematical software yields larger effects than RME alone or RME with other methods
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Juandi, D., Kusumah, Y. S., & Tamur, M. (2022). A Meta-Analysis of the Last Two Decades of Realistic Mathematics Education Approaches. International Journal of Instruction, 15(1), 381-400. https://doi.org/10.29333/iji.2022.15122a
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Moderator analysis of learning combination (Qb = 8.54, p = 0.01) across 54 effect sizes: Only RME g = 0.75, RME + Math Software g = 0.96, RME + Another method g = 0.58. The authors link this to software helping clarify the complexity of realistic modeling.
 

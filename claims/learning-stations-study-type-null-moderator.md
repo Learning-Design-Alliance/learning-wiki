@@ -16,12 +16,14 @@ sources:
     author: "Mevlut AYDOGMUS & Cihad SENTURK"
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Effect of learning stations does not differ significantly by study type (article vs master's thesis)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Mevlut AYDOGMUS & Cihad SENTURK. (2019). THE EFFECTS OF LEARNING STATIONS TECHNIQUE ON ACADEMIC ACHIEVEMENT: A META-ANALYTIC STUDY. Research in Pedagogy, Vol.9, No.1. https://doi.org/10.17810/2015.87
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Subgroup analysis dividing the 16 measurements into articles (k=4) and master's theses (k=12), with average effect sizes of 0.804 and 0.928 respectively; the homogeneity test found no significant difference.
 
@@ -47,3 +49,4 @@ Subgroup analysis dividing the 16 measurements into articles (k=4) and master's 
 - [Publication type (article vs. thesis) does not significantly moderate the effect of formative assessment on student learning](publication-type-no-moderation-formative-assessment.md) — related
 - [The effect of multiple intelligence practices does not differ significantly by type of study (article, master's thesis, doctoral thesis)](mi-effect-no-difference-study-type.md) — related
 - [Effect sizes differ significantly by publication type, with master's theses and articles showing higher effects than PhD theses.](moderator-publication-type-effect.md) — related
+- [Effect sizes differ significantly by publication type, with master's theses highest (g = 1.443) and research articles lowest (g = 0.278)](significant-difference-by-publication-type.md) — related

@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 29 claims (15 for, 12 mixed, 2 against) · 20 studies (8 causal, 4 quant-synthesis, 4 review, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 6 of 20 report an effect size · 28 claims rest on one study
+> **Evidence** · 31 claims (17 for, 12 mixed, 2 against) · 21 studies (8 causal, 5 quant-synthesis, 4 review, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 7 of 21 report an effect size · 30 claims rest on one study
 
 ## Description
 Gamification is the element in which points, progress indicators, challenges, or other game-like structures are used to shape participation and persistence.
@@ -53,6 +53,8 @@ Gamification is the element in which points, progress indicators, challenges, or
 - [A gamified exergaming intervention improves the time transformation and autotelic experience flow dimensions, but not overall dispositional flow](../claims/gamified-exergaming-flow-dimensions-time-transformation-autotelic.md) [+W]
 - [Rhythmic motor skill academic performance is better after a gamified exergaming intervention than after traditional PE teaching](../claims/gamified-exergaming-better-rhythmic-motor-skill.md) [+W]
 - [Uncertainty is positively associated with learner motivation in game-like environments](../claims/uncertainty-positively-associated-motivation.md) [+W]
+- [Pooled gamification effects remain stable when high-risk-of-bias studies are excluded and in leave-one-out and fixed-effect sensitivity analyses](../claims/gamification-sensitivity-analyses-stable-pooled-effects.md) [+W]
+- [Gamified clinical skill learning moderately improves student attitudes toward learning, based on a small evidence base](../claims/gamified-learning-moderate-attitude-gains.md) [+W]
 
 ## Related Elements
 - [Adaptive Difficulty](adaptive-difficulty.md)

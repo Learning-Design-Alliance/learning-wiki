@@ -16,12 +16,14 @@ sources:
     author: Nurullah Sahin and İsmail Coban
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # The digital story meta-analysis is resistant to publication bias by fail-safe N and trim-and-fill tests
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Nurullah Sahin and İsmail Coban. (2020). The effect of digital story applications on students' academic achievement: A meta-analysis study. African Educational Research Journal, Special Issue 8(3), S62-S75. https://eric.ed.gov/?id=EJ1274516
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Publication bias assessment in the Findings section using funnel plot inspection, Duval and Tweedie's trim and fill (14 artificial studies added, adjusted ES = 0.822), Rosenthal's fail-safe N (7854), and the Mullen et al. formula ([7854 / (5 * 94 + 10) = 16.3625]). The authors conclude the meta-analysis is resistant to publication bias.
 
@@ -55,3 +57,4 @@ Publication bias assessment in the Findings section using funnel plot inspection
 - [The meta-analysis shows no publication bias problem by Rosenthal's fail-safe N criterion](no-publication-bias-fsn-blended-learning-meta-analysis.md) — related
 - [The meta-analysis is resistant to publication bias by Rosenthal's fail-safe N criterion](rme-meta-analysis-publication-bias-resistant.md) — related
 - [Publication-bias checks (funnel plot symmetry and Rosenthal Safe N of 6801) indicate no publication bias in the synthesis](stem-digital-meta-no-publication-bias.md) — related
+- [The meta-analysis results are resistant to publication bias, per fail-safe N of 1791](game-math-meta-resistant-to-publication-bias.md) — related

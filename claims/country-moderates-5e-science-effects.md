@@ -16,18 +16,22 @@ sources:
     author: "Polanin, J. R., Austin, M., Taylor, J. A., Steingut, R. R., Rodgers, M. A., & Williams, R."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
   - id: polanin-2024-2
     resource: "https://doi.org/10.1177/23328584241269866"
     title: "Polanin, J. R., Austin, M., Taylor, J. A., Steingut, R. R., Rodgers, M. A., & Williams, R. (2024). Effects of the 5E Instructional Model: A Systematic Review and Meta-Analysis. AERA Open. https://doi.org/10.1177/23328584241269866"
     author: "Polanin, J. R., Austin, M., Taylor, J. A., Steingut, R. R., Rodgers, M. A., & Williams, R."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Science effects differed by country of evaluation, with U.S. studies (g = 0.46) showing smaller effects than Turkish studies (g = 0.96)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -39,7 +43,7 @@ sources:
 
 Polanin, J. R., Austin, M., Taylor, J. A., Steingut, R. R., Rodgers, M. A., & Williams, R. (2024). Effects of the 5E Instructional Model: A Systematic Review and Meta-Analysis. AERA Open. https://doi.org/10.1177/23328584241269866
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Exploratory moderator analysis of country (added after the preanalysis plan) for the science domain: "statistically significant differences in effect sizes between studies conducted in the U.S., Turkey, or another country (F = 3.51, p = .03)".
 
@@ -49,7 +53,7 @@ Exploratory moderator analysis of country (added after the preanalysis plan) for
 
 Polanin, J. R., Austin, M., Taylor, J. A., Steingut, R. R., Rodgers, M. A., & Williams, R. (2024). Effects of the 5E Instructional Model: A Systematic Review and Meta-Analysis. AERA Open. https://doi.org/10.1177/23328584241269866
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 In the exploratory meta-regression (Model 1), country coefficients were no longer statistically significant and were considerably smaller than the bivariate moderator estimates, suggesting confounding with other study characteristics.
 

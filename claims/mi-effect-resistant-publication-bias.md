@@ -16,12 +16,14 @@ sources:
     author: "Eyüp Yurt & Seyat Polat"
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # The pooled effect of multiple intelligence practices is resistant to publication bias
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Eyüp Yurt & Seyat Polat. (2015). The Effectiveness of Multiple Intelligence Applications on Academic Achievement: A Meta-Analysis. Journal of Social Studies Education Research 6(1), 84-122. https://eric.ed.gov/?id=EJ1105368
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Publication-bias assessment of the meta-analysis using funnel scatter plot, clip and fill, and Rosenthal and Orwin's fail-safe N methods. Clip and fill suggested 15 dummy studies; the adjusted effect size value of 1,408 still "show[s] a large effect". Rosenthal's fail-safe N was 4186.
 
@@ -55,3 +57,5 @@ Publication-bias assessment of the meta-analysis using funnel scatter plot, clip
 - [Publication bias is present and may inflate the overall hands-on effect size estimate](hands-on-publication-bias-inflates-estimate.md) — related
 - [The meta-analysis shows no publication bias problem by Rosenthal's fail-safe N criterion](no-publication-bias-fsn-blended-learning-meta-analysis.md) — related
 - [Fail-safe analyses indicate the meta-analysis findings are not attributable to publication bias](seitla-no-publication-bias-failsafe.md) — related
+- [Fail-safe N analyses indicate the pooled effect is resistant to publication bias (Rosenthal FSN = 2139; Orwin FSN = 1048)](fsn-resistance-publication-bias-cre-meta-analysis.md) — related
+- [The meta-analysis results are resistant to publication bias, per fail-safe N of 1791](game-math-meta-resistant-to-publication-bias.md) — related

@@ -50,3 +50,4 @@ Linear mixed-model analysis of the cluster-randomized (with quasi-experimental C
 - [In-session autonomy, competence and intrinsic motivation are higher during basketball mathematics than during classroom mathematics](higher-in-session-motivation-during-basketball-mathematics.md) — related
 - [Low-post shooting shows no group differences, only a small comparable improvement across all groups](low-post-shooting-no-group-differences.md) — related
 - [Slalom dribbling improves equally with basketball mathematics and basketball-only PE, and not in regular PE](slalom-dribbling-improves-bm-and-bcon-equally.md) — related
+- [Performance in mathematics tests significantly improved after school-based physical activity interventions compared with control groups](pa-interventions-improve-math-performance.md) — a broader claim this one bears on

@@ -13,7 +13,7 @@ generated:
 # Cooperative Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 15 claims (11 for, 4 mixed) · 13 studies (4 quant-synthesis, 2 causal, 2 review, 1 associational, 1 qualitative), `q2`–`q3` · 8 of 13 report an effect size · 13 claims rest on one study
+> **Evidence** · 19 claims (13 for, 6 mixed) · 15 studies (9 quant-synthesis, 2 causal, 2 review, 1 associational, 1 qualitative), `q2`–`q3` · 9 of 15 report an effect size · 17 claims rest on one study
 
 ## Description
 Cooperative learning organizes instruction so that small groups of learners work interdependently toward a shared goal, with each member responsible for both their own learning and their teammates' learning. It is distinguished from mere group work by deliberate structuring: positive interdependence, individual accountability, promotive interaction, social skills, and group processing (Johnson & Johnson's five elements).
@@ -67,6 +67,10 @@ Cooperative learning reliably improves achievement when group goals and individu
 - [Cooperative learning has a small, positive, significant effect on attitudes towards mathematics (d++ = 0.16)](../claims/cooperative-learning-small-effect-attitude-math.md) [+W]
 - [Cooperative learning has a medium positive effect (0.89) on vocational high school students' mathematics learning outcomes compared with conventional learning](../claims/cooperative-learning-vhs-math-medium-effect.md) [+W]
 - [Achievement effects do not differ significantly across cooperative learning techniques; unstructured and STAD show the highest point estimates](../claims/cooperative-learning-technique-moderator.md) [+W]
+- [Cooperative learning has a medium positive effect on mathematics achievement in Turkey (average ES = 0.840, random-effects model)](../claims/cooperative-learning-medium-positive-math-effect-turkey.md) [+W]
+- [The effect of cooperative learning on mathematics achievement differs significantly by implemented technique, with multiple intelligence-assisted and STAD techniques largest](../claims/cooperative-technique-moderator-significant-stad-mi.md) [~W]
+- [Among applications for retention of pre-service teachers, the Learning Together Technique had the highest effect size (d=2,0606, huge) and the Jigsaw Technique the lowest (d=0,5461, medium)](../claims/learning-together-highest-retention-jigsaw-lowest-meta-analysis.md) [+W]
+- [The effect of cooperative learning on mathematics achievement does not differ significantly by educational level](../claims/educational-level-moderator-not-significant.md) [~W]
 
 ## Related Elements
 - [Coaching](coaching.md) — the teacher's role shifts to monitoring groups and intervening at the process level

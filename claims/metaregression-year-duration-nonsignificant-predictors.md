@@ -16,12 +16,14 @@ sources:
     author: "Kalaian, S. A., Kasim, R. M., & Nims, J. K."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Publication year and instructional duration do not significantly predict variation in small-group learning effect sizes in metaregression
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Kalaian, S. A., Kasim, R. M., & Nims, J. K. (2018). Effectiveness of Small-Group Learning Pedagogies in Engineering and Technology Education: A Meta-Analysis. Journal of Technology Education, 29(2). https://scholar.lib.vt.edu/ejournals/JTE/
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Random-effects metaregression of the two coded continuous moderators (Table 4). The article reports a slope of 0.03 for publication year (p = 0.12) and -0.004 for instructional duration in hours (p = 0.58), stating the coefficients were "close to not significant".
 

@@ -17,12 +17,14 @@ sources:
     author: "Nalline S. Baliram & Jeffrey J. Youde"
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # A prior meta-analysis cited in the review found feedback interventions worsened performance in 50 of 131 well-designed studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r1` · `q2`
 > **Currency** · newest study 2018 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Nalline S. Baliram & Jeffrey J. Youde. (2018). A Meta-analytic Synthesis: Examining the academic impacts of feedback on student achievement. International Dialogues on Education, 5(2), 76-90. https://portal.issn.org/resource/ISSN/2198-5944
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r1`
 
 The review reports, citing Kluger and DeNisi (1996), that feedback interventions harmed performance in a substantial minority of included studies. This article narrates the finding as background; its design details are not described here.
 

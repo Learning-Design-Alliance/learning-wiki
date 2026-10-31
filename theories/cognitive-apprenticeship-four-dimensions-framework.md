@@ -51,7 +51,8 @@ Cognitive apprenticeship is defined as learning through guided experience on cog
 - [Situated learning: knowledge and skills are learned in contexts that reflect how the knowledge will be used in real life](situated-learning-contexts-of-use.md)
 
 ## Examples
--
+
+- [Flipped classroom as an inversion of knowledge delivery explained via zone of proximal development and cognitive-process staging](../designs/fc-inversion-zpd-account.md)
 
 ## Key Sources
 - Emmanuel Imiere. (2019). An Application of Cognitive Apprenticeship to Philosophy Instruction. https://eric.ed.gov/?id=ED613714

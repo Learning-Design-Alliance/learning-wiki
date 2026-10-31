@@ -16,12 +16,14 @@ sources:
     author: Taşdemir, F.
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Odds ratios exceed 1 in 22 of the 26 dissertations, indicating increased probability of the researched outcome in STEM groups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Taşdemir, F. (2022). Examination of the Effect of Stem Education on Academic Achievement: A Meta-Analysis Study. Education Quarterly Reviews, 5(2), 282-298. https://doi.org/10.31014/aior.1993.05.02.489
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Odds-ratio analysis of the 26 dissertations (Table 5). The article reports "22 out of 26 dissertations have OR > 1"; the table's pooled row prints OR 3.123, Z=12.354, p=0.000.
 

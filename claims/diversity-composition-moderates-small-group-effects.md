@@ -16,18 +16,22 @@ sources:
     author: "Kalaian, S. A., Kasim, R. M., & Nims, J. K."
     q: 3
     i: 1
+    kind: quant-synthesis
+    rigour: 2
   - id: kalaian-2018-2
     resource: "https://scholar.lib.vt.edu/ejournals/JTE/"
     title: "Kalaian, S. A., Kasim, R. M., & Nims, J. K. (2018). Effectiveness of Small-Group Learning Pedagogies in Engineering and Technology Education: A Meta-Analysis. Journal of Technology Education, 29(2). https://scholar.lib.vt.edu/ejournals/JTE/"
     author: "Kalaian, S. A., Kasim, R. M., & Nims, J. K."
     q: 3
     i: 1
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Small-group learning effects vary by classroom gender and ethnic diversity, with effects smaller in female-dominated and predominately White classrooms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3` · `i1` small
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Kalaian, S. A., Kasim, R. M., & Nims, J. K. (2018). Effectiveness of Small-Group Learning Pedagogies in Engineering and Technology Education: A Meta-Analysis. Journal of Technology Education, 29(2). https://scholar.lib.vt.edu/ejournals/JTE/
 
-`q3 · i1`
+`q3 · i1` · `quant-synthesis · r2`
 
 Subgroup analysis of classroom gender diversity (Table 2): predominately female classrooms (3 effect sizes, d = 0.23, p = 0.15, nonsignificant), predominately male (10, d = 0.42, p = 0.01), not reported (13, d = 0.53, p = 0.00).
 
@@ -50,7 +54,7 @@ Subgroup analysis of classroom gender diversity (Table 2): predominately female 
 
 Kalaian, S. A., Kasim, R. M., & Nims, J. K. (2018). Effectiveness of Small-Group Learning Pedagogies in Engineering and Technology Education: A Meta-Analysis. Journal of Technology Education, 29(2). https://scholar.lib.vt.edu/ejournals/JTE/
 
-`q3 · i1`
+`q3 · i1` · `quant-synthesis · r2`
 
 Subgroup analysis of classroom ethnic diversity (Table 2): predominately White classrooms (5 effect sizes, d = 0.26, p = 0.08, nonsignificant) versus studies not reporting ethnic diversity (21, d = 0.49, p = 0.00). No studies had predominately minority students.
 
@@ -63,3 +67,4 @@ Subgroup analysis of classroom ethnic diversity (Table 2): predominately White c
 - [A significant retention x ethnicity x gender interaction indicates the negative effect of retention is strongest for African American and Hispanic girls](retention-ethnicity-gender-interaction-girls.md) — related
 - [At-risk identification is demographically patterned, with Black, Hispanic, and male students more likely to be identified](at-risk-identification-demographic-patterns.md) — related
 - [Systematic racial, ethnic and gender differences in grades persist among students with the same test scores, attendance, courses and teachers](race-gender-grade-differences-persist.md) — related
+- [Two mechanism clusters — 'using diverse media' (d = 0.8255) and 'aligning technology with sound pedagogy' (d = 0.6544) — showed the strongest positive association with attainment](mechanism-clusters-diverse-media-pedagogy-strongest.md) — related

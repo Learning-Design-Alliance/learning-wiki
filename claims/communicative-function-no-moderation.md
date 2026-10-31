@@ -16,18 +16,22 @@ sources:
     author: "Ganz, J. B., Pustejovsky, J. E., Reichle, J., Vannest, K. J., Foster, M., Fuller, M. C., Pierson, L. M., Wattanawongwan, S., Bernal, A. J., Chen, M., Haas, A. N., Skov, R., Smith, S. D., & Yllades, V."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
   - id: ganz-2022-2
     resource: "https://doi.org/10.1007/s40489-022-00326-6"
     title: "Ganz, J. B., Pustejovsky, J. E., Reichle, J., Vannest, K. J., Foster, M., Fuller, M. C., Pierson, L. M., Wattanawongwan, S., Bernal, A. J., Chen, M., Haas, A. N., Skov, R., Smith, S. D., & Yllades, V. (2022). Augmentative and Alternative Communication Intervention Targets for School-Aged Participants with ASD and ID: a Single-Case Systematic Review and Meta-analysis. Review Journal of Autism and Developmental Disorders. [doi:10.1007/s40489-022-00326-6](https://doi.org/10.1007/s40489-022-00326-6)"
     author: "Ganz, J. B., Pustejovsky, J. E., Reichle, J., Vannest, K. J., Foster, M., Fuller, M. C., Pierson, L. M., Wattanawongwan, S., Bernal, A. J., Chen, M., Haas, A. N., Skov, R., Smith, S. D., & Yllades, V."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Communicative function taught (behavioral regulation, joint attention, social interaction, or multiple) does not statistically moderate AAC effects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Ganz, J. B., Pustejovsky, J. E., Reichle, J., Vannest, K. J., Foster, M., Fuller, M. C., Pierson, L. M., Wattanawongwan, S., Bernal, A. J., Chen, M., Haas, A. N., Skov, R., Smith, S. D., & Yllades, V. (2022). Augmentative and Alternative Communication Intervention Targets for School-Aged Participants with ASD and ID: a Single-Case Systematic Review and Meta-analysis. Review Journal of Autism and Developmental Disorders. [doi:10.1007/s40489-022-00326-6](https://doi.org/10.1007/s40489-022-00326-6)
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Tau meta-regression on the AAC-related subsample across behavioral regulation (k = 49), joint attention (k = 13), social interaction (k = 7), and multiple functions (k = 6). Descriptively, multiple functions and social interaction were larger, but there were "no statistically distinct differences in average effects by communication function".
 
@@ -50,7 +54,7 @@ Tau meta-regression on the AAC-related subsample across behavioral regulation (k
 
 Ganz, J. B., Pustejovsky, J. E., Reichle, J., Vannest, K. J., Foster, M., Fuller, M. C., Pierson, L. M., Wattanawongwan, S., Bernal, A. J., Chen, M., Haas, A. N., Skov, R., Smith, S. D., & Yllades, V. (2022). Augmentative and Alternative Communication Intervention Targets for School-Aged Participants with ASD and ID: a Single-Case Systematic Review and Meta-analysis. Review Journal of Autism and Developmental Disorders. [doi:10.1007/s40489-022-00326-6](https://doi.org/10.1007/s40489-022-00326-6)
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 LRR meta-regression on the same subsample: multiple functions had the largest estimates (e.g., LRR = 2.383 in model A), followed by behavioral regulation (2.207), with joint attention and social interaction smaller, but "no statistically distinct differences in average effects by communication function".
 

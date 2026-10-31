@@ -17,7 +17,7 @@ sources:
 # Develop worksheets adapted to the form of learning, student characteristics, and students' environment to improve problem-solving
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study, `q2` · 1 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 quant-synthesis), `q2` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article recommends that future worksheet development tailor worksheets to the learning situation rather than assembling them generically. It argues worksheets must be prepared before learning and adapted to student characteristics, and that tasks should address the stages of problem-solving. The recommendation follows from the meta-analytic finding of a positive worksheet effect.

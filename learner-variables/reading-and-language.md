@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 243 claims (152 show a difference, 42 mixed, 49 no difference) · 162 studies (50 associational, 41 causal, 31 quant-synthesis, 25 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 39 of 162 report an effect size · 234 claims rest on one study
+> **Evidence** · 247 claims (154 show a difference, 43 mixed, 50 no difference) · 166 studies (50 associational, 41 causal, 34 quant-synthesis, 26 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 39 of 166 report an effect size · 238 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -294,6 +294,10 @@ What a learner can read without effort, and whether the language of instruction 
 - [Spendency is unrelated to prior reading ability, prior self-explanation performance, and self-reported enjoyment and motivation](../claims/spendency-unrelated-prior-ability-attitudes.md) [-M] — learners who differ on it differ in outcomes
 - [Clusters differ in learner characteristics: Cluster 2 and 5 differ in chemistry self-concept and interest, Cluster 0 shows higher reading ability, and Cluster 1 shows below-average post-test scores](../claims/cluster-learner-characteristic-differences.md) [+M] — learners who differ on it differ in outcomes
 - [Children's vocabulary acquisition benefited from the robot tutor's instruction and knowledge demonstration](../claims/robot-tutor-role-vocabulary-gains.md) [+M] — instruction changes it
+- [Review-reported study: locally produced videos enhanced Chilean EFL learners' English language skills and motivation](../claims/review-reported-videos-enhance-efl-skills-motivation.md) [+W] — instruction changes it
+- [School physical activity interventions did not significantly improve language, reading, or composite academic scores compared with controls](../claims/pa-interventions-no-effect-language-reading-composite.md) [-M] — instruction changes it
+- [The effect of CMC on L2 learning was not equal across the four language skills (listening, speaking, reading, writing)](../claims/cmc-effect-unequal-across-language-skills.md) [~M] — an instructional effect differs with it
+- [Tier 2 type reading interventions in grades K-3 show a small to moderate positive effect on standardized language/comprehension measures (mean ES = 0.38 across 31 studies).](../claims/tier2-k3-standardized-language-comprehension-es-0-38.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

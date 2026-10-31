@@ -56,3 +56,5 @@ Systematic review searching nine electronic databases, registers, gray literatur
 - The guide's recommendations rest on a screened evidence base of 15 studies meeting WWC group design standards drawn from more than 2,800 citations — related
 - [A systematic search found almost no rigorous studies contrasting online and face-to-face instruction for K–12 students: none with computable effect sizes through 2006, and only five meeting meta-analysis criteria through July 2008.](few-rigorous-k12-online-studies.md) — related
 - [There is not yet much rigorous evidence to guide decision making around instructional and support strategies for adult learners](little-rigorous-evidence-adult-learner-strategies.md) — related
+- [All included simulation-based research studies were judged to have high or critical risk of bias, and only 16 of 2481 screened studies met Level 4 inclusion criteria](high-critical-risk-of-bias-all-level-4-simulation-studies.md) — related
+- [Only 112 of 306 studies were potentially suitable for meta-analysis, with most excluded for design and reporting inadequacies](meta-analysis-inclusion-112-studies.md) — related

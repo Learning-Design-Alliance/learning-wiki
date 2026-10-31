@@ -47,3 +47,4 @@ Pearson correlation analysis of ARPS and RIMMS scores from the same 90-participa
 
 ## Related Claims
 - [AI-featured methods significantly increased motivation across all four ARCS categories for computational problem-solving activities](ai-scaffolding-computational-problems-increases-all-arcs-motivation.md) — related
+- [EdTech interventions significantly improve student motivation (d = 0.375), but motivation does not significantly correlate with attainment (r = 0.608, p = 0.2763)](edtech-motivation-effect-no-attainment-correlation.md) — related

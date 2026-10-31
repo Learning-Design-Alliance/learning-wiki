@@ -17,7 +17,7 @@ sources:
 # Pair JAS with student-centered models and strategies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 quant-synthesis), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article recommends implementing JAS through student-centered learning models and strategies that make the approach seem more real, naming "a model of cooperative learning, think pair share, strategy role-playing, the investigation group, learning cycle 5e, hands-on activity". Reviewed studies combined JAS with role playing, Team Game Tournament, Group Investigation, Problem Based Learning, and Quantum Teaching, reporting increased activity and study results.

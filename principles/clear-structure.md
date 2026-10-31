@@ -31,7 +31,7 @@ sources:
 # Clear Structure
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 36 claims (23 for, 12 mixed, 1 against) · 39 studies (13 causal, 7 quant-synthesis, 7 review, 6 qualitative, 4 theoretical, 1 associational), `q1`–`q4` · 9 of 39 report an effect size · 27 claims rest on one study
+> **Evidence** · 37 claims (24 for, 12 mixed, 1 against) · 40 studies (13 causal, 9 quant-synthesis, 7 review, 6 qualitative, 4 theoretical, 1 associational), `q1`–`q4` · 9 of 40 report an effect size · 28 claims rest on one study
 
 ## Conditional relationship
 
@@ -130,6 +130,7 @@ A gain on an immediate test, a change in what is recalled, delayed retention, tr
 - [Greater use of the navigation map is associated with less relevant searching in a hypermedia learning task](../claims/map-use-negative-search-correlation.md) [~W]
 - [Trainees in the unstructured navigation condition showed better operational performance on the transfer task than trainees in the structured condition, approaching significance.](../claims/unstructured-navigation-better-transfer-performance.md) [-W]
 - [School level, explicit instruction, and signal words did not significantly moderate text structure instruction effects](../claims/tsi-null-moderators-school-explicit-signal-words.md) [~W]
+- [Consistent with a dual process model of engagement, structure shows stronger associations with engagement than with disengagement](../claims/structure-stronger-engagement-than-disengagement.md) [+W]
 
 ## Related Principles
 

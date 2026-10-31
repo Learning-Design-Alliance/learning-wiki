@@ -16,12 +16,14 @@ sources:
     author: "Zhang, Q., Cheung, E.S.T., & Cheung, C.S.T."
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Flipped classroom effects differ by subject type, favoring science (SMD = 0.75) and liberal arts (SMD = 0.72) over engineering (SMD = 0.34)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Zhang, Q., Cheung, E.S.T., & Cheung, C.S.T. (2021). The impact of flipped classroom on college students’ academic performance: A meta-analysis based on 20 experimental studies. Science Insights Education Frontiers, 8(2):1059-1080. https://doi.org/10.15354/sief.21.re019
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r2`
 
 Moderator analysis across the 20 included studies (Table 2): between-group effect test p = 0.008 (p < 0.05), indicating flipped classroom "has di f-ferent effects on the learning of different subject types"; combined effect size test Z = 8.733, p = 0.000. Printed effect sizes: SMD = 0.75 (science), SMD = 0.72 (liberal arts), SMD = 0.34 (engineering).
 

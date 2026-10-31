@@ -16,12 +16,14 @@ sources:
     author: Nurullah Sahin and İsmail Coban
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Digital story applications have a high positive average effect on students' academic achievement compared to other teaching methods (ES = 0.750)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Nurullah Sahin and İsmail Coban. (2020). The effect of digital story applications on students' academic achievement: A meta-analysis study. African Educational Research Journal, Special Issue 8(3), S62-S75. https://eric.ed.gov/?id=EJ1274516
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r2`
 
 Meta-analysis of 94 effect sizes from 45 experimental studies comparing digital story lessons with other teaching methods, analyzed with CMA software under a random effects model. The average effect size was 0.750 (SE 0.057), with a 95% CI of 0.637 to 0.862, described as "a high impact on increasing students' academic achievements".
 
@@ -49,3 +51,4 @@ Meta-analysis of 94 effect sizes from 45 experimental studies comparing digital 
 - [The constructivist learning approach has a strong positive overall effect on students' academic achievement compared to traditional teaching methods (ES = 1.156).](constructivist-approach-overall-effect-achievement.md) — related
 - [Creativity-based learning applications show a large, positive pooled effect on students' academic achievement (ES = 0.850)](cbl-large-positive-effect-academic-achievement.md) — related
 - [STEM educational practices have a moderate positive effect on students' academic achievement compared with traditional teaching (REM ES = 0.442)](stem-practices-moderate-academic-achievement-effect.md) — related
+- [AR applications have a medium positive pooled effect (ES = 0.517) on students' academic achievement compared with traditional learning methods](ar-medium-positive-effect-academic-achievement.md) — related

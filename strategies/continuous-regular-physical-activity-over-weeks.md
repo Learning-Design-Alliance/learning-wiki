@@ -49,6 +49,7 @@ Based on its meta-analytic findings, the review recommends that interventions ai
 - [Classroom Physical Activity Integration](classroom-physical-activity-integration.md)
 - [Research and training programs should differentiate age periods, sporting disciplines, and compare physically active with cognitively active groups](future-research-differentiate-ages-disciplines-cognitively-active.md)
 - [School and community sports programs that maintain healthy weight may support children's academic performance](school-weight-maintenance-programs-academic-performance.md)
+- [Prescribe intensive, multi-component physical activity integrated into regular classes to maximize learning outcomes](evidence-based-exercise-programs-school-strategy.md)
 
 ## Examples
 -

@@ -16,12 +16,14 @@ sources:
     author: "Widodo, S. A., Wijayanti, A., Irfan, M., Pusporini, W., Mariah, M., & Rochmiyati, S."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # Worksheets have a positive effect on students' problem-solving skills, with a pooled effect size of 1.281 (very high level)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r1` · `q3`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Widodo, S. A., Wijayanti, A., Irfan, M., Pusporini, W., Mariah, M., & Rochmiyati, S. (2023). Effects of worksheets on problem-solving skills: Meta-analytic studies. International Journal of Educational Methodology, 9(1), 151-167. https://doi.org/10.12973/ijem.9.1.151
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r1`
 
 Meta-analysis of 40 studies (45 comparisons) from research and development, experimental, and quasi-experimental designs, 2013-2022, found via Google Scholar and Garuda. The article reports "the average effect size is 1.281", classified at the very high level per its criteria table; no standardized effect-size statistic beyond this pooled value is printed.
 

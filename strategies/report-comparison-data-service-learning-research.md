@@ -17,7 +17,7 @@ sources:
 # Include comparison groups and report means, standard deviations, and sample sizes in service-learning research
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q3` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article recommends specific reporting practices for future service-learning researchers so that findings can be meta-analyzed and attributed to the pedagogy itself. It advises that "researchers can include a compari- son group when examining service-learning out- comes" to ensure results are attributable to the pedagogy rather than other factors, and that researchers report means, standard deviations, and sample sizes for both treatment and comparison groups so effect sizes can be computed across studies. It also recommends continuing rigorously designed studies and extending research to elementary, middle, and high school populations.

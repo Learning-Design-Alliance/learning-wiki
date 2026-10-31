@@ -16,12 +16,14 @@ sources:
     author: Nurşat Biçer
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Creative drama-based learning has a large positive effect on academic success in Turkish language instruction (REM ES = 1.712)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Nurşat Biçer. (2017). The Influence of Student-centered Methods in Turkish Language Instruction on Academic Success: A Meta-analysis Study. Universal Journal of Educational Research 5(4). https://doi.org/10.13189/ujer.2017.050419
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r2`
 
 Random effects model analysis of 6 creative drama studies (95% CI 0.595–2.830; Q = 10.299 below the critical χ² of 11.070). The article reports the effect size is large per Cohen's classification and greater than conventional teaching.
 
@@ -53,3 +55,5 @@ Random effects model analysis of 6 creative drama studies (95% CI 0.595–2.830;
 - [Multiple intelligences-based learning has a large positive effect on academic success in Turkish language instruction (REM ES = 1.332)](multiple-intelligences-large-effect-turkish.md) — related
 - [STEM educational practices have a moderate positive effect on students' academic achievement compared with traditional teaching (REM ES = 0.442)](stem-practices-moderate-academic-achievement-effect.md) — related
 - [Student-centered methods have an overall positive and high-level effect on academic success in Turkish language instruction](student-centered-methods-positive-effect-turkish-instruction.md) — a broader claim this one bears on
+- [Creative drama has a large significant positive effect on academic achievement (overall weighted ES = 1.68 under a random effects model across 40 studies)](creative-drama-positive-effect-academic-achievement.md) — related
+- [Several learning theories and teaching strategies have very large positive effects on academic achievement (e.g., creative drama ES = 1.453), while the surface approach to learning has a small negative effect (ES = -.366)](teaching-strategies-effects-academic-achievement-meta-review.md) — a broader claim this one bears on

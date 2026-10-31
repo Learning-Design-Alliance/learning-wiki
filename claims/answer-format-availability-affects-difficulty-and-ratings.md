@@ -94,3 +94,4 @@ Regressions predicting perceived task difficulty by relative item difficulty sep
 - [Text reading relates more strongly to multiple-choice, cloze, and oral open-ended comprehension tasks than to written open-ended and retell tasks](comprehension-task-type-moderates-text-reading-relation.md) — related
 - [Recall versus recognition response format changes difficulty estimates for vocabulary items](recall-recognition-difficulty-differ.md) — related
 - [Perceived difficulty was higher for research designs than for samples and measurement](perceived-difficulty-varies-by-topic.md) — related
+- [Multiple-choice questions combined with description and open-description items can measure higher-level thinking, including concept understanding at levels C1–C6](multilevel-mcq-measures-higher-order-chemistry-understanding.md) — related

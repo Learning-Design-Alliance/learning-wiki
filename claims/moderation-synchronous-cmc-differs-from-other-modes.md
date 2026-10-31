@@ -50,3 +50,4 @@ The editorial reports on the Asterhan and Schwarz study of four classes using an
 - [The change in tools caused the most disruption in e-teachers' activity system, replacing body language and visual cues with text and voice mediation](tool-change-most-disruption-online-teaching.md) — related
 - [Computer-mediated (videoconferencing) collaboration leads learners to use a wider range of knowledge resources than face-to-face collaboration](videoconferencing-wider-range-of-resources.md) — related
 - [Learning happens across formal, non-formal and informal settings, face-to-face and online](formal-non-formal-informal-learning-settings-interplay.md) — related
+- [A majority of CMC studies (79%) produced effect sizes favoring CMC, while 21% favored face-to-face or non-computer-mediated communication](cmc-79-percent-positive-21-negative.md) — related

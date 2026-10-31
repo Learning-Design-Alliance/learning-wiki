@@ -47,3 +47,4 @@ The RCT was conducted across two academic subjects with randomization at the ind
 ## Related Claims
 - [Positive subject-specific effects of Medly in Physics, Chemistry and Biology, with no evidence the effect differed across subjects](medly-positive-effects-all-three-science-subjects.md) — related
 - [Chatbot interaction depth varied by condition and subject: longer entries in physics than English and shorter entries in the cognitive learning condition than the utility value condition](chatbot-entry-length-varies-condition-subject.md) — related
+- [Stratified teaching positively affects all seven studied subjects, with larger effects in English, physics, and geography than in chemistry, biology, and mathematics](stratified-teaching-subject-effects-english-physics-geography.md) — related

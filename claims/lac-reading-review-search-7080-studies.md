@@ -16,12 +16,14 @@ sources:
     author: "de Hoop, T., Klochikin, E., & Stone, R."
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # The first search for early grade reading evidence in the LAC region identified 7080 potentially relevant studies, narrowed to 1,203 abstracts for expert review
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r?` · `q2`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 de Hoop, T., Klochikin, E., & Stone, R. (2016). What Works to Improve Reading Outcomes in Latin-America? A Systematic Review of the Evidence. SREE Spring 2016 Conference Abstract Template, American Institutes for Research. https://eric.ed.gov/?id=ED567508
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r?`
 
 Search-stage report from the review's Findings section: the first search identified 7080 potentially relevant studies, and the computational retrieval and clustering approach "returned 1,203 abstracts for review by reading and methodological experts". Relevance and methodological quality analysis was still underway; no effect findings were reported.
 

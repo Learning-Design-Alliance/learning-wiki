@@ -16,12 +16,14 @@ sources:
     author: "HyeJin Hwang, Sonia Q. Cabell & Rachel E. Joyner"
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # No significant moderators of effects among research design features or intervention characteristics
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 HyeJin Hwang, Sonia Q. Cabell & Rachel E. Joyner (2021). Effects of Integrated Literacy and Content-area Instruction on Vocabulary and Comprehension in the Elementary Years: A Meta-analysis. Scientific Studies of Reading. https://doi.org/10.1080/10888438.2021.1954005
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Meta-regression analyses (Robumeta) of research design features (Table 8) and intervention characteristics (Table 9), each moderator entered separately, restricted to analyses with adequate statistical power per the power analysis. No significant moderators emerged; the abstract attributes this partly to the small number of studies.
 
@@ -48,3 +50,4 @@ Meta-regression analyses (Robumeta) of research design features (Table 8) and in
 - [Review findings are consistent across study design features; no moderator showed meaningful relationships](sble-findings-consistent-across-design-features.md) — related
 - [Contextual variables (educational level, language context, study design, duration, intensity) do not significantly moderate the effects of ICT-supported writing interventions](contextual-variables-no-moderation-ict-writing.md) — related
 - [Integrated literacy and content-area instruction significantly improves vocabulary in the elementary years (g = 0.91)](integrated-instruction-vocabulary-g-091.md) — related
+- [No moderator variable (intervention type, group size, grade level, implementer, hours of intervention) significantly explained variance in intervention effects, though moderator analyses were underpowered.](tier2-k3-no-significant-moderators-underpowered.md) — related

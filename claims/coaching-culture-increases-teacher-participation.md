@@ -54,3 +54,5 @@ Qualitative finding from the authors' three-year coaching study: district encour
 - [Administrators' dual role as evaluator and coach can undermine the observation process's professional learning benefits](dual-evaluator-coach-role-undermines-learning.md) — related
 - [Workers and administrators who were presented with the CMR model viewed it as a comfortable transition into residential treatment](cmr-model-viewed-as-comfortable-transition.md) — related
 - [Community members reported that participating in a Community Socratic Circle helped them feel comfortable with teachers facilitating classroom racial discourse](community-socratic-circle-built-comfort-support.md) — related
+- [Kennedy's (2016) review finds programs fostering teachers' intellectual involvement and voluntary enrollment tended to be more effective at improving student achievement](kennedy-2016-voluntary-intellectual-involvement-effective.md) — related
+- [Ownership and learner community development are positively correlated with learner perceptions (r = 0.6064 and r = 0.64153)](ownership-community-development-positive-correlations.md) — related

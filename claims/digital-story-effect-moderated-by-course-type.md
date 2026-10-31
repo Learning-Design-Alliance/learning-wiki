@@ -16,12 +16,14 @@ sources:
     author: Nurullah Sahin and İsmail Coban
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Course type significantly moderates the digital story effect: mathematical/statistical courses show a larger effect (1.085) than non-mathematical courses (0.585)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Nurullah Sahin and İsmail Coban. (2020). The effect of digital story applications on students' academic achievement: A meta-analysis study. African Educational Research Journal, Special Issue 8(3), S62-S75. https://eric.ed.gov/?id=EJ1274516
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Moderator analysis reported in the Findings section (Table 8): 30 mathematical/statistical studies versus 64 non-mathematical studies. The difference was significant (Q = 12.414, df = 1, p = 0.000), and both joint effect sizes favored the experimental group.
 

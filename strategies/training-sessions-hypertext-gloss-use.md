@@ -17,7 +17,7 @@ sources:
 # Train learners and teachers to make effective use of hypertext glosses in CALL environments
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q3` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article draws a pedagogical implication from its findings: learners should be given opportunities to acquire skills for studying individually in a computer environment with less teacher control, and "Training sessions can make students gradually familiar with the CALL environment, showing how to make more effective use of glosses." Teachers should also become aware of the potential of hypertext glosses and their different types as learning tools.

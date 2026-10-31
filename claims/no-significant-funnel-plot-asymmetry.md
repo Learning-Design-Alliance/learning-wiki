@@ -16,12 +16,14 @@ sources:
     author: Natalie S. Pak, Jason C. Chow, Kelsey M. Dillehay, and Ann P. Kaiser
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Funnel-plot analyses showed no significant asymmetry, and the overall effect remained significant after removing outliers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Natalie S. Pak, Jason C. Chow, Kelsey M. Dillehay, and Ann P. Kaiser. (2023). Long-Term Effects of Early Communication Interventions: A Systematic Review and Meta-Analysis. Journal of Speech, Language, and Hearing Research. https://doi.org/10.1044/2023_JSLHR-22-00711
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Publication bias assessment via selective-reporting risk ratings, visual funnel plot inspection, and meta-regression for funnel asymmetry accounting for dependence among effect sizes. A sensitivity analysis removing outlier linguistic outcomes (Ward, 1999) left 19 studies and 121 effect sizes with g = .18, p = .002.
 

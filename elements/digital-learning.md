@@ -13,7 +13,7 @@ generated:
 # Digital Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 26 claims (10 for, 14 mixed, 2 against) · 26 studies (5 causal, 5 associational, 5 qualitative, 4 theoretical, 3 design, 2 quant-synthesis, 1 review), `q1`–`q4` · 1 of 26 report an effect size · 25 claims rest on one study
+> **Evidence** · 28 claims (11 for, 15 mixed, 2 against) · 27 studies (5 causal, 5 associational, 5 qualitative, 4 quant-synthesis, 4 theoretical, 3 design, 1 review), `q1`–`q4` · 2 of 27 report an effect size · 27 claims rest on one study
 
 ## Description
 Digital learning is the element in which instruction, resources, or interaction are mediated through digital tools, platforms, or networks. It is useful when learners need flexible access, interactive media, or non-linear exploration.
@@ -62,6 +62,8 @@ Digital learning is the element in which instruction, resources, or interaction 
 - [Trails were only partially successful technologically due to device and network problems](../claims/trails-partially-successful-technologically.md) [~W]
 - [Familiarity with technology gained from prior face-to-face tablet use does not significantly contribute to learning activities, cognitive activation, or effort in digital distance teaching](../claims/technology-familiarity-no-effect-on-distance-teaching-quality.md) [~W]
 - [STEM education with 7E instruction, flipped learning, problem-based learning or technology-enhanced learning showed no significant effect on learning achievement](../claims/seitla-nonsignificant-approaches.md) [-W]
+- [App effects on literacy (g = 0.35) and math (g = 0.29) are comparable](../claims/apps-comparable-literacy-math-effects.md) [+W]
+- [Educational apps produce effects about 0.17 SD higher on constrained than unconstrained skills](../claims/apps-larger-effects-constrained-skills.md) [~W]
 
 ## Related Elements
 

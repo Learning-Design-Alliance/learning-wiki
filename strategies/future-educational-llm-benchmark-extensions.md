@@ -44,6 +44,7 @@ The authors close by recommending next steps for educational LLM evaluation and 
 - [Establish standardized misconception benchmarks using isomorphic items, paraphrases, and multi-turn curricula](standardized-misconception-benchmarks-ess.md)
 - [Prioritize prospective, in-curriculum evaluations of AI governance interventions over additional isolated benchmark studies](prospective-governance-evaluations-over-benchmarks.md)
 - [Develop rigorous benchmarks for LLM data extraction tasks in education systematic reviews](develop-benchmarks-llm-data-extraction-education.md)
+- [Standardize reporting of LLM versions, processing dates, input selection criteria, and data quality protocols in future MCQ benchmarking research](standardized-llm-benchmarking-reporting-strategy.md)
 
 ## Examples
 -

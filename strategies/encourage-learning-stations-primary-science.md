@@ -17,7 +17,7 @@ sources:
 # Encourage use of learning stations in primary-level science courses
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study, `q3` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 Based on the meta-analytic findings, the authors recommend that practitioners encourage the learning stations technique where it showed the largest effects: primary education, 3-4 week applications, and science and technology lessons. They write that "teachers should be encouraged to use the learning stations technique in appropriate subject areas" and that the technique "can be used especially in science courses". They further recommend more research on the technique in physics, chemistry, and mathematics and at different educational levels.

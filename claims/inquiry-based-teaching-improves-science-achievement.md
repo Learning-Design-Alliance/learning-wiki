@@ -85,7 +85,7 @@ The chapter reports, citing Furtak et al. (2012), a meta-analysis of 37 studies 
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does guided inquiry raise science learning over the usual instruction, and is it the guidance that carries it?* This table gathers the studies behind this claim and the 11 narrower claims that bear on it: **15 distinct studies** (6 review, 3 quant-synthesis, 3 causal, 2 design, 1 associational), `q1`–`q4`, 3 of 15 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does inquiry-based teaching raise science achievement over the usual instruction?* This table gathers the studies behind this claim and the 11 narrower claims that bear on it: **15 distinct studies** (6 review, 3 quant-synthesis, 3 causal, 2 design, 1 associational), `q1`–`q4`, 3 of 15 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -168,3 +168,4 @@ The chapter reports, citing Furtak et al. (2012), a meta-analysis of 37 studies 
 - [Quasi-experimental and experimental interventions can positively change epistemic cognition, but the theory-of-change remains unidentified](interventions-change-epistemic-cognition.md) — related
 - [Among pedagogical interventions, procedural and conceptual learning programs have the highest pooled effect sizes while inquiry-based learning is least effective](pedagogical-subtypes-procedural-conceptual-highest.md) — reports the opposite
 - [STEM education integrated with teaching-learning approaches shows a large overall mean effect on learning outcomes (g = 0.88) across 33 experimental studies](seitla-overall-large-effect-learning-outcomes.md) — related
+- [The review reports that an AI-plus-faculty-guidance approach outperformed both AI-only and traditional teaching in ultrasonography training](faculty-guided-ai-outperformed-ai-only-ultrasonography.md) — a narrower finding that bears on this claim

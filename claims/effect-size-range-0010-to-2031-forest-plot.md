@@ -16,18 +16,22 @@ sources:
     author: Hakan Ulum, Songül Tümkaya
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
   - id: hakan-ulum-2022-2
     resource: "https://ojs.unimal.ac.id/mjml/index"
     title: "Hakan Ulum, Songül Tümkaya. (2022). The effect of student-centred methods and techniques on primary school students' mathematics achievement: A meta-analysis study. Malikussaleh Journal of Mathematics Learning (MJML). https://ojs.unimal.ac.id/mjml/index"
     author: Hakan Ulum, Songül Tümkaya
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Individual study effect sizes ranged from 0.010 to 2.031, with two studies exceeding 2.00, and the forest plot shows a difference greater than zero in favour of the experimental group
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r2`–`r3` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Hakan Ulum, Songül Tümkaya. (2022). The effect of student-centred methods and techniques on primary school students' mathematics achievement: A meta-analysis study. Malikussaleh Journal of Mathematics Learning (MJML). https://ojs.unimal.ac.id/mjml/index
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Descriptive distribution of the 66 standardized effect sizes included in the meta-analysis, ranked from small to large. The article notes the effect size "will be less than 2.00 but above zero, except for two studies (İnan & Erkuş, 2017; Yi & Eu, 2016)".
 
@@ -50,7 +54,7 @@ Descriptive distribution of the 66 standardized effect sizes included in the met
 
 Hakan Ulum, Songül Tümkaya. (2022). The effect of student-centred methods and techniques on primary school students' mathematics achievement: A meta-analysis study. Malikussaleh Journal of Mathematics Learning (MJML). https://ojs.unimal.ac.id/mjml/index
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Graph 2 presents the forest plot of the 66 studies collectively. The article reports that analysis of the plot shows a difference greater than zero favouring the experimental group, with two outlier studies above 2.00.
 

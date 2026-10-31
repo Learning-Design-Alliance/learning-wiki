@@ -16,12 +16,14 @@ sources:
     author: Veli Batdı
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # The effect of computer-based teaching on academic success does not differ significantly by implementation period, with the largest effect size in the nine-to-eighteen week period (ES = 1.87)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Veli Batdı. (2015). A Meta-Analytic Study Concerning the Effect of Computer-Based Teaching on Academic Success in Turkey. Educational Sciences: Theory & Practice. https://doi.org/10.12738/estp.2015.5.2491
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Moderator analysis of 78 studies across six implementation-period groups. Table 6 reports QB = 6.36, Z = 14.45, df = 5, homogeneous; total ES = 1.07.
 
@@ -47,3 +49,5 @@ Moderator analysis of 78 studies across six implementation-period groups. Table 
 - [The effect of computer-based teaching on academic success does not differ significantly by type of course, though social studies showed the largest effect size (1.54) and mathematics the lowest (1.06)](cbt-effect-no-difference-by-course-type.md) — related
 - [Scaffold effects peak at 2–4 weeks of treatment and decrease dramatically for treatments lasting 9–24 weeks](treatment-duration-moderates-scaffold-effects.md) — related
 - [The effect of computer-based teaching on academic success does not differ significantly by publication year of the studies](cbt-effect-no-difference-by-publication-year.md) — related
+- [Effect of MIT-based instruction does not differ significantly by course type, though foreign-language courses show the largest point estimate (d = 1.958)](mit-effect-homogeneous-course-type.md) — related
+- [Creative drama's effect on achievement does not significantly differ by implementation period (QB = 7.63, df = 4, p > .05), though the 9–18-week group showed the largest descriptive ES (2.55)](creative-drama-effect-no-implementation-period-difference.md) — related

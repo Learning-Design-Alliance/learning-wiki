@@ -17,7 +17,7 @@ sources:
 # Target multiple writing components (as in SRSD) rather than transcription skills alone for primary grade writing instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q3` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Based on the meta-analytic findings, the authors recommend that writing instruction for primary grade children address multiple component skills rather than transcription alone. They state that "writing instruction that targets transcription skills alone without systematic teaching of other important skills (e.g., language, self-regulation, text structure) may not have a consistent impact on composition skills," and conclude that the results "indicate a need for greater efforts that target multiple components to improve primary graders' writing skills." SRSD is one such multi-component approach, but the authors note instructional approaches addressing multiple skills are not limited to SRSD.

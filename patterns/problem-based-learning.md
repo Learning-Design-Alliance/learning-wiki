@@ -29,7 +29,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 70 claims (17 for, 48 mixed, 5 against) · 50 studies (16 causal, 8 review, 7 theoretical, 6 quant-synthesis, 5 qualitative, 3 design, 2 associational), `q1`–`q4` · 10 of 50 report an effect size · 65 claims rest on one study
+> **Evidence** · 70 claims (17 for, 48 mixed, 5 against) · 50 studies (16 causal, 9 quant-synthesis, 8 review, 7 theoretical, 5 qualitative, 3 design, 2 associational), `q1`–`q4` · 10 of 50 report an effect size · 65 claims rest on one study
 
 ## Description and scope
 

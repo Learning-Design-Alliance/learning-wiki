@@ -16,18 +16,22 @@ sources:
     author: "Sa’idah, N., Jailani, Sudiyatno, & Retnawati, H."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
   - id: saidah-2026-2
     resource: "https://doi.org/10.46328/ijres.5054"
     title: "Sa’idah, N., Jailani, Sudiyatno, & Retnawati, H. (2026). Innovative teaching models and critical thinking in mathematics and statistics education: A meta-analytical review. International Journal of Research in Education and Science (IJRES), 12(1), 140-157. https://doi.org/10.46328/ijres.5054"
     author: "Sa’idah, N., Jailani, Sudiyatno, & Retnawati, H."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Publication-bias checks give mixed results: Egger's test indicates funnel-plot asymmetry while Trim and Fill and Fail-Safe N indicate no bias
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Sa’idah, N., Jailani, Sudiyatno, & Retnawati, H. (2026). Innovative teaching models and critical thinking in mathematics and statistics education: A meta-analytical review. International Journal of Research in Education and Science (IJRES), 12(1), 140-157. https://doi.org/10.46328/ijres.5054
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Regression test for funnel-plot asymmetry on the 19 studies, reported with sei z = 5.000 and p < .001. The article's own criterion was p > 0.05 for symmetry, so this result indicated asymmetry.
 
@@ -50,7 +54,7 @@ Regression test for funnel-plot asymmetry on the 19 studies, reported with sei z
 
 Sa’idah, N., Jailani, Sudiyatno, & Retnawati, H. (2026). Innovative teaching models and critical thinking in mathematics and statistics education: A meta-analytical review. International Journal of Research in Education and Science (IJRES), 12(1), 140-157. https://doi.org/10.46328/ijres.5054
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Rosenthal's Fail-Safe N analysis with K = 19 studies; the computed threshold 5(19)+10 = 105 was exceeded by FSN = 1559. The Trim and Fill funnel plot showed closed circles forming a symmetrical pattern, read as no missing studies.
 
@@ -82,3 +86,8 @@ Rosenthal's Fail-Safe N analysis with K = 19 studies; the computed threshold 5(1
 - [The meta-analysis shows signs of publication bias, with smaller studies tending to give more positive results than larger studies](publication-bias-gloss-meta-analysis.md) — related
 - [The meta-analysis is resistant to publication bias by Rosenthal's fail-safe N criterion](rme-meta-analysis-publication-bias-resistant.md) — reports the opposite
 - [Funnel plot asymmetry indicates publication bias among the STEM dissertations analyzed](stem-meta-analysis-publication-bias.md) — related
+- [Publication bias tests indicate the observed effects for both outcomes were not influenced by publication bias](cbl-meta-analysis-no-publication-bias.md) — reports the opposite
+- [Funnel-plot asymmetry suggests small studies with negative or null results may be missing from the simulation-versus-clinical meta-analysis](funnel-plot-missing-negative-studies.md) — related
+- [Publication bias was detected in all four meta-analytic models, so additional studies could change the results](publication-bias-sol-meta-analysis.md) — related
+- [Trim-and-fill analyses suggest publication bias affected three of the four meta-analyses, indicating true mean effects may be lower than originally reported.](tier2-k3-publication-bias-lower-true-effects.md) — related
+- [Sensitivity analyses found no evidence of publication bias in the meta-analysis](no-publication-bias-sensitivity-analysis.md) — reports the opposite

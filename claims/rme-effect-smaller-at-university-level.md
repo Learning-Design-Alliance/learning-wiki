@@ -16,12 +16,14 @@ sources:
     author: "Juandi, D., Kusumah, Y. S., & Tamur, M."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # RME effects at university level are significantly smaller than at primary and secondary levels
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Juandi, D., Kusumah, Y. S., & Tamur, M. (2022). A Meta-Analysis of the Last Two Decades of Realistic Mathematics Education Approaches. International Journal of Instruction, 15(1), 381-400. https://doi.org/10.29333/iji.2022.15122a
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Moderator analysis across educational stages (Qb = 10.79, p = 0.01): primary school g = 0.80, junior high school g = 0.85, senior high school g = 0.94, college g = 0.38. The authors offer a tentative explanation that university students may no longer need imaginable problem situations.
 

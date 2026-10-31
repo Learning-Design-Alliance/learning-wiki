@@ -16,12 +16,14 @@ sources:
     author: Özgür Ulubey
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Effect size of creative drama on skills varies significantly by publication type, with theses showing larger effects than articles
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Özgür Ulubey. (2018). The Effect of Creative Drama as a Method on Skills: A Meta-analysis Study. Journal of Education and Training Studies, 6(4). https://eric.ed.gov/?id=EJ1172791
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Moderator analysis comparing articles (f=20), master's theses (f=34) and doctoral theses (f=9) in the meta-analysis. The article reports the significant Qbetween value and the per-type effect sizes, all large by Cohen's classification.
 
@@ -52,3 +54,4 @@ Moderator analysis comparing articles (f=20), master's theses (f=34) and doctora
 - [The effect of multiple intelligence practices does not differ significantly by type of study (article, master's thesis, doctoral thesis)](mi-effect-no-difference-study-type.md) — related
 - [Effect size of creative drama does not vary significantly by skill type (social, basic language, higher thinking)](creative-drama-skill-type-null-moderator.md) — related
 - [Effect sizes of PBL on science achievement differ significantly by publication type, with conference proceedings showing a negative effect](pbl-effect-differs-by-publication-type.md) — related
+- [Creative drama's effect on achievement does not significantly differ by subject field (p > .05), though the English-lesson effect size (ES = 3.37) was descriptively highest](creative-drama-effect-no-subject-field-difference.md) — related

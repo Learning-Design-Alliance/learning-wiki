@@ -16,12 +16,14 @@ sources:
     author: "Hou, H., Zhang, X., & Wang, D."
     q: 3
     i: 1
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Robotics education has a significant positive above-moderate effect on student creativity (SMD = 0.576)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i1` small
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Hou, H., Zhang, X., & Wang, D. (2022). Can educational robots improve student creativity: A meta-analysis based on 48 experimental and quasi-experimental studies. Best Evidence in Chinese Education, 11(1):1449-1454. https://doi.org/10.15354/bece.22.ab001
 
-`q3 · i1`
+`q3 · i1` · `quant-synthesis · r2`
 
 Meta-analysis of 48 experimental and quasi-experimental studies with 6,057 samples, using Hedges' g as effect size. Both fixed and random effects models showed g greater than 0 with P-value less than 0.001; the summary effect was "SMD = 0.576".
 

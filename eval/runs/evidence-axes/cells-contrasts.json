@@ -50518,5 +50518,585 @@
  "technology-tool\tAI-supported experimental-design project\tbefore the project": {
   "label": "AI-supported experimental-design project vs pre-project baseline",
   "treatment_is_a": true
+ },
+ "active-learning\t3-hour interactive case-based learning session\tpre-course confidence baseline": {
+  "label": "Interactive case-based learning session vs pre-course confidence baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tAir Anatomy hand gestures with lecture\ttraditional lecture only": {
+  "label": "Lecture with active hand gestures vs lecture only",
+  "treatment_is_a": true
+ },
+ "active-learning\tCBL plus PowerPoint teaching\tPowerPoint lecture-based teaching": {
+  "label": "Case-based learning plus PowerPoint teaching vs PowerPoint lecture-based teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tCBL plus summary PowerPoint teaching\ttraditional PowerPoint teaching": {
+  "label": "Case-based learning plus PowerPoint summary vs traditional PowerPoint teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tStudent Teams Achievement Divisions (STAD)\ttraditional teaching methods": {
+  "label": "STAD cooperative learning vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tcase-based discussions\tno comparison condition reported": {
+  "label": "Case-based learning/discussion vs no comparison or unspecified alternative",
+  "treatment_is_a": true
+ },
+ "active-learning\tcase-based discussions\tnone reported": {
+  "label": "Case-based learning/discussion vs no comparison or unspecified alternative",
+  "treatment_is_a": true
+ },
+ "active-learning\tcase-based discussions (CBDs)\tno comparison condition": {
+  "label": "Case-based learning/discussion vs no comparison or unspecified alternative",
+  "treatment_is_a": true
+ },
+ "active-learning\tcase-based learning\tnot stated": {
+  "label": "Case-based learning/discussion vs no comparison or unspecified alternative",
+  "treatment_is_a": true
+ },
+ "active-learning\tcase-based learning\ttraditional lecture-based learning": {
+  "label": "Case-based learning vs traditional lecture-based teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tcase-based learning\ttraditional or unspecified alternative teaching": {
+  "label": "Case-based learning vs traditional or unspecified teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tcase-based learning plus PowerPoint summary\tPowerPoint-based traditional teaching": {
+  "label": "Case-based learning plus PowerPoint summary vs traditional PowerPoint teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tcase-based learning plus PowerPoint summary\ttraditional PowerPoint lecture-based teaching": {
+  "label": "Case-based learning plus PowerPoint summary vs traditional PowerPoint teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tcase-based learning plus PowerPoint teaching\tPowerPoint teaching and homework": {
+  "label": "Case-based learning plus PowerPoint teaching vs PowerPoint teaching plus homework",
+  "treatment_is_a": true
+ },
+ "active-learning\tcollaborative learning\tunspecified comparison": {
+  "label": "Collaborative learning vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\tcooperative learning\ttraditional teaching": {
+  "label": "Cooperative learning vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tcooperative learning\ttraditional teaching methods": {
+  "label": "Cooperative learning vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tcooperative learning in geometry\ttraditional teaching methods": {
+  "label": "Cooperative learning vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tcooperative learning techniques\ttraditional teaching methods": {
+  "label": "Cooperative learning vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tdemonstration-based training\tlecture-based training": {
+  "label": "Demonstration-based training vs lecture-based training",
+  "treatment_is_a": true
+ },
+ "active-learning\tdemonstration-based training with practice\tlecture-based training": {
+  "label": "Demonstration-based training with practice vs lecture-based training",
+  "treatment_is_a": true
+ },
+ "active-learning\tdifferent cooperative learning techniques\tother cooperative learning techniques": {
+  "label": "One cooperative learning technique vs another cooperative learning technique",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom\tlecture-based learning": {
+  "label": "Flipped classroom vs lecture-based learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom\ttraditional lecture-based classroom": {
+  "label": "Flipped classroom vs traditional lecture-based classroom",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom\ttraditional lecture-based teaching": {
+  "label": "Flipped classroom vs traditional lecture-based teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom teaching\tlecture-based learning": {
+  "label": "Flipped classroom vs lecture-based learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom teaching mode\tlecture-based learning": {
+  "label": "Flipped classroom vs lecture-based learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom teaching model\ttraditional lecture-based teaching": {
+  "label": "Flipped classroom vs traditional lecture-based teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom with pre-class preparation and active class work\ttraditional lecture-based teaching": {
+  "label": "Flipped classroom with pre-class preparation and active class work vs traditional lecture-based teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom, problem-based learning, gamification, experiential learning and collaborative learning in digital environments\tnot stated": {
+  "label": "Multimodal active-learning bundle vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classrooms\ttraditional lecture-based classrooms": {
+  "label": "Flipped classroom vs traditional lecture-based classroom",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive CBL session using simulated cancer MDT cases\tpre-course confidence": {
+  "label": "Interactive case-based learning session vs pre-course confidence baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive case-based learning session\tpre-course confidence baseline": {
+  "label": "Interactive case-based learning session vs pre-course confidence baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive case-based learning session using four simulated cancer multidisciplinary-team cases\tpre-course confidence": {
+  "label": "Interactive case-based learning session vs pre-course confidence baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive lessons\tlectures": {
+  "label": "Interactive lessons vs lectures",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer feedback\tteacher feedback": {
+  "label": "Peer feedback vs teacher feedback",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer tutoring in clinical simulation\tother teaching methods or peer-tutoring modalities": {
+  "label": "Peer tutoring vs other teaching methods or peer-tutoring modalities",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer-led CPR training\tinstructor-led CPR training": {
+  "label": "Peer-led CPR training vs instructor-led CPR training",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer-led learning\tnon-peer-led learning": {
+  "label": "Peer-led learning vs non-peer-led learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem-based learning\ttraditional teaching methods": {
+  "label": "Problem-based learning vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tvoluntary teacher enrollment\tmandatory teacher enrollment": {
+  "label": "voluntary vs mandatory teacher enrollment",
+  "treatment_is_a": true
+ },
+ "debriefing\treflective practice CPR training\tstandard or conventional training": {
+  "label": "Reflective practice/debriefing vs standard training",
+  "treatment_is_a": true
+ },
+ "debriefing\tstructured, blame-free debriefing after real events\tblame or punitive workplace cultures without safe reflective discussion": {
+  "label": "Blame-free debriefing vs punitive/no-safe-reflection culture",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tNICE-protocol-based diabetic foot care training\tpre-intervention practice levels": {
+  "label": "explicit instruction vs no explicit instruction/usual practice",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\teducational programmes on diabetic foot care\tpre-intervention baseline or usual care": {
+  "label": "explicit instruction vs no explicit instruction/usual practice",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tstructured RaT training with explicit objectives\tno formal or structured teaching training": {
+  "label": "explicit instruction vs no explicit instruction/usual practice",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tAI virtual patients incorporating feedback\tAI virtual patients not incorporating feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tfeedback\tcomparison condition": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tfeedback-based training\tstandard instruction": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\treal-time feedback-based CPR training\tstandard CPR instruction": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\treal-time feedback-based training\tstandard instruction": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\treal-time feedback-based training\tstandard instruction without feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tboth positive and negative feedback\tonly positive feedback": {
+  "label": "positive and negative feedback vs positive feedback only",
+  "treatment_is_a": true
+ },
+ "feedback-type\tcommenting\terror location": {
+  "label": "commenting vs error location",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfeedback focused on form and content\tfeedback focused exclusively on form": {
+  "label": "form and content vs form only",
+  "treatment_is_a": true
+ },
+ "feedback-type\tfocus on form and content\texclusive focus on form": {
+  "label": "form and content vs form only",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tparticipated in formative assessments\tdid not participate in formative assessments": {
+  "label": "participation in formative assessment vs no participation in formative assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\ttesting and screening present\ttesting and screening absent": {
+  "label": "testing and screening vs no testing and screening",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tusing student assessment data to drive instructional and grouping decisions\tinterventions without this component": {
+  "label": "assessment-data-driven instructional and grouping decisions vs no assessment-data-driven instructional and grouping decisions",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tusing student assessment data to drive instructional and grouping decisions\tnot using this component": {
+  "label": "assessment-data-driven instructional and grouping decisions vs no assessment-data-driven instructional and grouping decisions",
+  "treatment_is_a": false
+ },
+ "formative-assessment\tusing student assessment data to drive instructional decisions\tnot using this component": {
+  "label": "assessment-data-driven instructional decisions vs no assessment-data-driven instructional decisions",
+  "treatment_is_a": true
+ },
+ "gamification\tcomputer-assisted games\ttraditional mathematics instruction": {
+  "label": "Gamified/game-based instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tgame-assisted mathematics education\ttraditional mathematics teaching": {
+  "label": "Gamified/game-based instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tgame-assisted mathematics teaching\ttraditional mathematics teaching": {
+  "label": "Gamified/game-based instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tgame-assisted mathematics teaching\ttraditional methods": {
+  "label": "Gamified/game-based instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tgame-assisted mathematics teaching across implementation periods\ttraditional mathematics teaching across implementation periods": {
+  "label": "Gamified/game-based instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified clinical skill learning\ttraditional educational methods": {
+  "label": "Gamified/game-based instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified clinical skill learning\ttraditional teaching methods": {
+  "label": "Gamified/game-based instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified flipped classroom/animation\ttraditional teaching": {
+  "label": "Gamified/game-based instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified simulation-based learning\ttraditional teaching": {
+  "label": "Gamified/game-based instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tgamified web/mobile learning platforms\ttraditional teaching methods": {
+  "label": "Gamified/game-based instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tmusical games\ttraditional mathematics instruction": {
+  "label": "Gamified/game-based instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tpedagogical games\ttraditional mathematics instruction": {
+  "label": "Gamified/game-based instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tstandalone serious games\ttraditional teaching/control": {
+  "label": "Gamified/game-based instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tdirective guidance\tnon-directive guidance": {
+  "label": "directive guidance vs non-directive guidance",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tgraded guidance in digital inquiry\texploratory freedom or insufficient guidance": {
+  "label": "guided discovery vs unguided discovery",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tregular LLM use without structured guidance\tno or structured LLM exposure": {
+  "label": "unstructured LLM use vs no or structured LLM exposure",
+  "treatment_is_a": true
+ },
+ "media-design\tMARC Plot\tbar plot": {
+  "label": "MARC plot vs bar plot",
+  "treatment_is_a": true
+ },
+ "media-design\tMARC Plot\tforest plot": {
+  "label": "MARC plot vs forest plot",
+  "treatment_is_a": true
+ },
+ "media-design\tMARC Plot\trainforest plot": {
+  "label": "MARC plot vs rainforest plot",
+  "treatment_is_a": true
+ },
+ "media-design\tMARC plot\tbar plot": {
+  "label": "MARC plot vs bar plot",
+  "treatment_is_a": true
+ },
+ "media-design\tMARC plot\tforest plot": {
+  "label": "MARC plot vs forest plot",
+  "treatment_is_a": true
+ },
+ "media-design\tMARC plot\tother visualization types": {
+  "label": "MARC plot vs other visualization types",
+  "treatment_is_a": true
+ },
+ "media-design\tMARC plot\trainforest plot": {
+  "label": "MARC plot vs rainforest plot",
+  "treatment_is_a": true
+ },
+ "media-design\tMeta-Analytic Rain Cloud Plot\tbar plot": {
+  "label": "MARC plot vs bar plot",
+  "treatment_is_a": true
+ },
+ "media-design\tMeta-Analytic Rain Cloud Plot\tforest plot": {
+  "label": "MARC plot vs forest plot",
+  "treatment_is_a": true
+ },
+ "media-design\tMeta-Analytic Rain Cloud Plot\trainforest plot": {
+  "label": "MARC plot vs rainforest plot",
+  "treatment_is_a": true
+ },
+ "practice-amount\tPE four times per week\tusual PE twice per week": {
+  "label": "higher practice frequency vs lower practice frequency",
+  "treatment_is_a": true
+ },
+ "practice-amount\tgreater session intensity\tlower session intensity": {
+  "label": "higher session intensity vs lower session intensity",
+  "treatment_is_a": true
+ },
+ "practice-amount\thigher intervention frequency\tlower intervention frequency": {
+  "label": "higher practice frequency vs lower practice frequency",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlonger intervention duration\tshorter intervention duration": {
+  "label": "longer practice duration vs shorter practice duration",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore exposure to complex clinical cases\tless exposure to complex clinical cases": {
+  "label": "more exposure to complex cases vs less exposure to complex cases",
+  "treatment_is_a": true
+ },
+ "prompts\tReflective Thinking Based Learning Activities\tcontrol group": {
+  "label": "Reflective learning prompts/activities vs control or conventional instruction",
+  "treatment_is_a": true
+ },
+ "prompts\tjust-in-time inquiry prompts\tno just-in-time inquiry prompts": {
+  "label": "Just-in-time inquiry prompts vs no just-in-time inquiry prompts",
+  "treatment_is_a": true
+ },
+ "prompts\treflective practice training\tstandard or conventional training": {
+  "label": "Reflective learning prompts/activities vs control or conventional instruction",
+  "treatment_is_a": true
+ },
+ "prompts\treflective practice with structured self-assessment\tstandard or conventional training": {
+  "label": "Structured self-assessment prompts vs control or conventional instruction",
+  "treatment_is_a": true
+ },
+ "prompts\treflective writing\tunspecified comparison": {
+  "label": "Reflective writing prompts vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "self-explanation\tself-explanation guidance\tother guidance conditions": {
+  "label": "self-explanation guidance vs other guidance conditions",
+  "treatment_is_a": true
+ },
+ "simulation\t10% simulation group\t50% simulation group": {
+  "label": "more vs less simulation",
+  "treatment_is_a": false
+ },
+ "simulation\t25% and 10% simulation groups\t50% simulation group": {
+  "label": "more vs less simulation",
+  "treatment_is_a": false
+ },
+ "simulation\t25% simulation group\t50% simulation group": {
+  "label": "more vs less simulation",
+  "treatment_is_a": false
+ },
+ "simulation\t50% simulation across the course\t10% simulation across the course": {
+  "label": "more vs less simulation",
+  "treatment_is_a": true
+ },
+ "simulation\t50% simulation across the course\t25% simulation across the course": {
+  "label": "more vs less simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tAI-generated virtual patient training\tpre-training performance or concurrent/previous cohort without training": {
+  "label": "simulation-based training vs no training/usual practice",
+  "treatment_is_a": true
+ },
+ "simulation\tSBE, CAM-ICU education, and documentation changes\tbaseline documentation": {
+  "label": "simulation-based programme vs baseline/usual practice",
+  "treatment_is_a": true
+ },
+ "simulation\tThree-element delirium prevention programme including monthly high-fidelity simulation with debrief, online modules and expert-facilitated case discussions\tBaseline before the programme (T0)": {
+  "label": "simulation-based programme vs baseline/usual practice",
+  "treatment_is_a": true
+ },
+ "simulation\tVR and other laparoscopic simulation training\tnot stated": {
+  "label": "simulation vs no/unspecified training",
+  "treatment_is_a": true
+ },
+ "simulation\tVR surgical simulator training\ttraditional training without VR": {
+  "label": "VR simulation vs non-VR traditional training",
+  "treatment_is_a": true
+ },
+ "simulation\tfrequent brief on-site HBB simulation training\tpre-intervention cohort": {
+  "label": "simulation-based training vs baseline/usual practice",
+  "treatment_is_a": true
+ },
+ "simulation\tgroup education plus OSCE with simulated patient\tgroup education only": {
+  "label": "simulation-enhanced education vs education without simulation",
+  "treatment_is_a": true
+ },
+ "simulation\thigh-fidelity manikins\tcase-based discussions": {
+  "label": "high-fidelity simulation vs case-based discussion",
+  "treatment_is_a": true
+ },
+ "simulation\thigh-fidelity manikins\tnot stated": {
+  "label": "high-fidelity simulation vs no/unspecified training",
+  "treatment_is_a": true
+ },
+ "simulation\thigh-fidelity simulation\tcase-based discussion": {
+  "label": "high-fidelity simulation vs case-based discussion",
+  "treatment_is_a": true
+ },
+ "simulation\thigh-fidelity simulation\tlow-fidelity simulation": {
+  "label": "high-fidelity vs low-fidelity simulation",
+  "treatment_is_a": true
+ },
+ "simulation\thigh-fidelity simulation\ttraditional case-based discussion": {
+  "label": "high-fidelity simulation vs case-based discussion",
+  "treatment_is_a": true
+ },
+ "simulation\thigh-fidelity simulation for ECMO deployment\tpre-intervention practice": {
+  "label": "high-fidelity simulation vs baseline/usual practice",
+  "treatment_is_a": true
+ },
+ "simulation\thigh-fidelity simulation training\ttraditional educational methods": {
+  "label": "high-fidelity simulation vs traditional education",
+  "treatment_is_a": true
+ },
+ "simulation\thigh-fidelity simulation training\ttraditional methods": {
+  "label": "high-fidelity simulation vs traditional education",
+  "treatment_is_a": true
+ },
+ "simulation\thigh-fidelity simulation training\ttraditional training methods": {
+  "label": "high-fidelity simulation vs traditional education",
+  "treatment_is_a": true
+ },
+ "simulation\tmore simulation-based education in courses\tless simulation-based education in courses": {
+  "label": "more vs less simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tmulticomponent simulation-based programme\tonline delirium-care videos only": {
+  "label": "simulation-enhanced education vs education without simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tonline videos plus face-to-face teaching and simulation/OSCE\tonline videos only": {
+  "label": "simulation-enhanced education vs education without simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tpeer tutoring in clinical simulation\tother teaching methods or alternative peer-tutoring modalities": {
+  "label": "peer tutoring in simulation vs other teaching or peer-tutoring approaches",
+  "treatment_is_a": true
+ },
+ "simulation\tpeer tutoring in clinical simulation\tother teaching methods without peer tutors": {
+  "label": "peer tutoring in simulation vs teaching without peer tutors",
+  "treatment_is_a": true
+ },
+ "simulation\tpeer tutoring integrated with clinical simulation\tother teaching methods or alternative peer-tutoring modalities": {
+  "label": "peer tutoring in simulation vs other teaching or peer-tutoring approaches",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation or VR exposure\tnot stated": {
+  "label": "simulation vs no/unspecified training",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based education\tpatient-based clinical teaching": {
+  "label": "simulation-based education vs patient-based clinical teaching",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based education\tpretraining or usual practice": {
+  "label": "simulation-based education vs baseline/usual practice",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based education\ttraditional training or no training": {
+  "label": "simulation-based education vs traditional education or no training",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based education alone\tpatient-based clinical teaching only": {
+  "label": "simulation-based education vs patient-based clinical teaching",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based education in randomized studies\tcontrol or usual training": {
+  "label": "simulation-based education vs control/usual training",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based education plus clinical teaching\tclinical teaching only": {
+  "label": "simulation-enhanced education vs education without simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based education with structured debriefing\tpretraining or other education": {
+  "label": "simulation-based education vs non-simulation education/usual practice",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based learning\tunspecified comparison": {
+  "label": "simulation-based education vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based training\tnot stated": {
+  "label": "simulation-based training vs no/unspecified training",
+  "treatment_is_a": true
+ },
+ "simulation\tstandardized-patient delirium scenarios\twaitlist control": {
+  "label": "standardized-patient simulation vs waitlist/no training",
+  "treatment_is_a": true
+ },
+ "simulation\tstandardized-patient delirium scenarios with CAM-ICU practice\tpre-intervention baseline": {
+  "label": "standardized-patient simulation vs baseline/usual practice",
+  "treatment_is_a": true
+ },
+ "simulation\tvideo plus simulation\ttraditional lectures": {
+  "label": "simulation-enhanced education vs education without simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tweekly in-situ simulation for a Pediatric Medical Emergency Team\tpre-intervention practice": {
+  "label": "simulation-based training vs baseline/usual practice",
+  "treatment_is_a": true
+ },
+ "simulation\tworkplace-integrated simulation\tsimulation delivered outside the workplace": {
+  "label": "workplace-integrated vs non-workplace simulation",
+  "treatment_is_a": true
+ },
+ "spacing\tspaced training\tmassed or single-session training": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "spacing\tspaced training\tsingle-session or massed training": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "spacing\tspaced training\tsingle-session, massed training": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "test-format\tmultilevel choice questions\tmultiple-choice questions": {
+  "label": "multilevel choice questions vs multiple-choice questions",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tusing student assessment data to drive instructional decisions\tnot using student assessment data to drive instructional decisions": {
+  "label": "assessment-informed instruction vs non-assessment-informed instruction",
+  "treatment_is_a": true
  }
 }

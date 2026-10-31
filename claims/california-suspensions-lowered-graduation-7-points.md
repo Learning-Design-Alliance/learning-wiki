@@ -48,3 +48,4 @@ A longitudinal study of California 10th-graders over 3 years under the state's z
 - [Graduation rates declined by about four percentage points in the first policy year and one more the next, then recovered to nearly pre-policy levels within five years](cps-graduation-rates-declined-then-recovered.md) — related
 - [Students of color benefit academically and behaviorally from having teachers of the same race.](same-race-teacher-benefits.md) — related
 - [LCFF-induced spending increases reduced suspensions and expulsions, with larger effects for boys and the most pronounced effects for Black students](lcff-spending-reduces-suspension-expulsion-disparities.md) — related
+- [CEP is associated with reduced suspension and expulsion likelihood, with larger reductions over time and for middle and high school students](cep-reduced-suspensions.md) — related

@@ -16,12 +16,14 @@ sources:
     author: Mookyung Jeon
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # Effects of disability simulation are largest for grades 3-4, and the youngest group's effect is not statistically significant
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r1` · `q3`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Mookyung Jeon. (2018). Meta-Analysis of Disability Simulation Research for Elementary Students in Korea. International Journal of Special Education, 33(1). https://eric.ed.gov/?id=EJ1184078
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r1`
 
 Moderator analysis by age group in the meta-analysis (Table 2): grades 1-2 weighted ES .83 (CI includes zero), grades 3-4 .91, grades 5-6 .54. The article states the youngest group's interval includes zero, so the effect for grades 1-2 was not statistically significant; no additional effect size is printed.
 

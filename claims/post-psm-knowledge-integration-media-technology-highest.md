@@ -16,18 +16,22 @@ sources:
     author: "Itsarangkul Na Ayutthaya, T., & Damrongpanit, S."
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
   - id: itsarangkul-na-ayutthaya-2022-2
     resource: "https://doi.org/10.12973/eu-jer.11.4.2429"
     title: "Itsarangkul Na Ayutthaya, T., & Damrongpanit, S. (2022). A Meta-Analysis of Instructional Management Model for Students’ Creative Thinking Development: An Application of Propensity Score Matching. European Journal of Educational Research, 11(4), 2429-2444. https://doi.org/10.12973/eu-jer.11.4.2429"
     author: "Itsarangkul Na Ayutthaya, T., & Damrongpanit, S."
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # After propensity score matching, the knowledge integration-based media and technology model has the highest effect size for developing students' creative thinking, with no residual heterogeneity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Itsarangkul Na Ayutthaya, T., & Damrongpanit, S. (2022). A Meta-Analysis of Instructional Management Model for Students’ Creative Thinking Development: An Application of Propensity Score Matching. European Journal of Educational Research, 11(4), 2429-2444. https://doi.org/10.12973/eu-jer.11.4.2429
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Fixed effects meta-regression after propensity score matching of the same 400 studies. Table 4 prints d̄=0.41, SE=0.03, 95% CI [0.35, 0.48], z=2.44**, with the all-rounded model second at d̄=0.29.
 
@@ -50,7 +54,7 @@ Fixed effects meta-regression after propensity score matching of the same 400 st
 
 Itsarangkul Na Ayutthaya, T., & Damrongpanit, S. (2022). A Meta-Analysis of Instructional Management Model for Students’ Creative Thinking Development: An Application of Propensity Score Matching. European Journal of Educational Research, 11(4), 2429-2444. https://doi.org/10.12973/eu-jer.11.4.2429
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Post-adjustment fixed effects model diagnostics as printed in the Results and Table 4 (Qa=7.51, Qb=294.48). The article interprets this as meaning remaining differences stem from the instructional models themselves.
 

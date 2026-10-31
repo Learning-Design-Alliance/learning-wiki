@@ -17,12 +17,14 @@ sources:
     author: "Joelle Fingerhut, & Mariola Moeyaert"
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Complete behavioral skills training produces significantly higher DTT implementation fidelity than trainings using only one, two, or three BST components
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -39,7 +41,7 @@ sources:
 
 Joelle Fingerhut, & Mariola Moeyaert. (2022). Training Individuals to Implement Discrete Trials with Fidelity: A Meta-Analysis. Focus on Autism and Other Developmental Disabilities, 37(4), 239–250. https://doi.org/10.1177/10883576221081076
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Model 1 of the HLM meta-analysis, with BST as moderator, across 46 SCED studies (130 of 224 participants received BST). The moderation effect was "12.69%", γ̂200 = 12.69, t(3692) = 10.69, p < .0125.
 
@@ -82,3 +84,4 @@ HLM moderator analysis (Model 1) across the 46-study SCED meta-analysis compared
 - [DTT implementation fidelity declines slightly after training ends, with a statistically significant difference between intervention and maintenance slopes](dtt-fidelity-declines-during-maintenance.md) — related
 - [DTT implementation fidelity declines slightly after training ends, though the decline may reflect outliers](fidelity-declines-in-maintenance.md) — related
 - [DTT implementation accuracy increases by 1.33 with each additional observation during the intervention phase](dtt-fidelity-increases-with-observations.md) — related
+- [Educator training improves implementation fidelity of interventions for students with disabilities, with a large mean effect size of g = 1.08](educator-training-large-effect-implementation-fidelity-g108.md) — related

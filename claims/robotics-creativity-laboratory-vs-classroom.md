@@ -16,12 +16,14 @@ sources:
     author: "Hou, H., Zhang, X., & Wang, D."
     q: 3
     i: 1
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Laboratory environments produce a larger creativity effect than ordinary classrooms in robotics education
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i1` small
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Hou, H., Zhang, X., & Wang, D. (2022). Can educational robots improve student creativity: A meta-analysis based on 48 experimental and quasi-experimental studies. Best Evidence in Chinese Education, 11(1):1449-1454. https://doi.org/10.15354/bece.22.ab001
 
-`q3 · i1`
+`q3 · i1` · `quant-synthesis · r2`
 
 Teaching-location moderator analysis within the meta-analysis. The classroom effect was "SMD = 0.485, P < 0.001"; the authors say this highlights "the relevance of strengthening laboratory environment construction".
 

@@ -16,12 +16,14 @@ sources:
     author: "Larwin, K. H., & Larwin, D. A."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Guided-notes effects do not differ significantly by research design, assessment type, or study source
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Larwin, K. H., & Larwin, D. A. (2013). The Impact of Guided Notes on Post-Secondary Student Achievement: A Meta-Analysis. International Journal of Teaching and Learning in Higher Education, 25(1), 47-58. http://www.isetl.org/ijtlhe/
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Null moderator findings from the meta-analysis (Table 2 shows non-significant within-group Q values of 0.596, 0.547, and 0.549). The article notes exam and quiz effect sizes were statistically equivalent. No effect sizes are printed for these contrasts.
 

@@ -68,3 +68,4 @@ The review reports, citing Tice and Baumeister (1997), a small-sample study in w
 - [Cognitive reappraisal protects teachers from emotional exhaustion and burnout, while expressive suppression and surface acting are negatively linked to teaching effectiveness](reappraisal-protective-suppression-harmful-teachers.md) — related
 - [Perceived student misbehavior is consistently identified as a key source of teacher stress and is positively associated with emotional exhaustion](student-misbehavior-teacher-stress-emotional-exhaustion.md) — related
 - [Loss of a study routine reduced productivity and fed a cycle of procrastination, workload pile-up, stress and escapism for many students](lost-routine-procrastination-stress-cycle.md) — a narrower finding that bears on this claim
+- [Late identification of SpLDs is associated with poorer academic outcomes, increased stress, and higher burnout risk among medical students](delayed-spld-diagnosis-poorer-outcomes.md) — related

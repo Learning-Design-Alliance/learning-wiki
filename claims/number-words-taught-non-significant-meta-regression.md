@@ -16,12 +16,14 @@ sources:
     author: "Kansızoğlu, N. & Bekiroğlu, N."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Number of vocabulary words taught alone does not significantly predict effect sizes in meta-regression
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Kansızoğlu, N. & Bekiroğlu, N. (2025). The effect of vocabulary development interventions on cognitive outcomes of vocabulary: A meta-analysis study. Journal of Pedagogical Research, 9(1), 123-148. https://doi.org/10.33902/JPR.202532083
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Meta-regression Model 2 (number of vocabulary taught) on 27 studies. The article reports "QM (df = 1) = 2.37, p > .05" with R² of 0.09; equivalence was not tested.
 

@@ -71,3 +71,4 @@ Random-effects meta-analysis of 34 samples relating performance-approach goals t
 - [Mastery-approach goals are negatively related to depression (r = −.18) across 36 samples](mastery-approach-goals-negative-depression-meta.md) — related
 - [Mastery-avoidance goals are not significantly related to anxiety or depression](mastery-avoidance-goals-null-internalizing.md) — related
 - [Performance-avoidance goals are positively related to both anxiety (r = .25) and depression (r = .16)](performance-avoidance-goals-positive-internalizing-meta.md) — related
+- [Adding medication to CBT yields significant attendance gains but no significant anxiety effect relative to placebo-plus-CBT](medication-plus-cbt-school-refusal-attendance-only.md) — related

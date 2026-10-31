@@ -16,18 +16,22 @@ sources:
     author: Saraç, H.
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
   - id: saraç-2018-2
     resource: "https://eric.ed.gov/?id=EJ1176176"
     title: "Saraç, H. (2018). The Effect of Science, Technology, Engin eering and Mathematics-Stem Educational Practices on Students’ Learning Outcomes: A Meta-Analysis Study. TOJET: The Turkish Online Journal of Educational Technology, 17(2). https://eric.ed.gov/?id=EJ1176176"
     author: Saraç, H.
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Attitude effects of STEM practices differ significantly by education level but not by publication type or lesson type
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Saraç, H. (2018). The Effect of Science, Technology, Engin eering and Mathematics-Stem Educational Practices on Students’ Learning Outcomes: A Meta-Analysis Study. TOJET: The Turkish Online Journal of Educational Technology, 17(2). https://eric.ed.gov/?id=EJ1176176
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Education-level moderator analysis of the 18 attitude effect sizes: basic education ES = 0.600, secondary education ES = 0.777, higher education ES = 0.136; the difference favored basic and secondary students.
 
@@ -50,7 +54,7 @@ Education-level moderator analysis of the 18 attitude effect sizes: basic educat
 
 Saraç, H. (2018). The Effect of Science, Technology, Engin eering and Mathematics-Stem Educational Practices on Students’ Learning Outcomes: A Meta-Analysis Study. TOJET: The Turkish Online Journal of Educational Technology, 17(2). https://eric.ed.gov/?id=EJ1176176
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Publication-type and lesson-type moderator analyses of attitude effect sizes: national articles ES = 0.615, international articles ES = 0.630; science ES = 0.681, math ES = 0.683, other ES = 0.400; neither difference significant.
 

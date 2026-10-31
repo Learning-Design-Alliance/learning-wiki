@@ -13,7 +13,7 @@ generated:
 # Provide Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 27 claims (13 for, 12 mixed, 2 against) · 29 studies (9 review, 5 quant-synthesis, 3 causal, 3 associational, 3 qualitative, 3 design, 2 theoretical), `q2`–`q4` · 4 of 29 report an effect size · 22 claims rest on one study
+> **Evidence** · 27 claims (13 for, 12 mixed, 2 against) · 29 studies (9 review, 6 quant-synthesis, 3 causal, 3 associational, 3 qualitative, 3 design, 2 theoretical), `q2`–`q4` · 4 of 29 report an effect size · 22 claims rest on one study
 
 ## Description
 Providing feedback gives learners information about the gap between their current and desired performance, so they can correct errors and refine understanding. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective loop that makes [Practice](practice.md) productive rather than merely repetitive.

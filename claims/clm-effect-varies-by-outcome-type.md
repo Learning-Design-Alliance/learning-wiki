@@ -16,12 +16,14 @@ sources:
     author: "Demir, M., & Kaya, M."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Constructivist learning models show high-level effects on thinking skills (ES=.88) and academic success (ES=.81) but a medium-level effect on attitudes (ES=.51)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Demir, M., & Kaya, M. (2022). Analysis of constructivist learning model's effects on student outcomes: A second order meta-analysis. Journal of Theoretical Educational Science, 15(4), 938-957. http://doi.org/10.30831/akukeg.1122136
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Q-between moderator analysis of the 21 effect sizes grouped by outcome type (achievement k=14, attitude k=3, thinking skill k=4) under a random effect model. The article reports "Qb(2) = 6.32, p=.04" and the per-outcome effect sizes ES=.88, ES=.81 and ES=.51.
 
@@ -48,3 +50,4 @@ Q-between moderator analysis of the 21 effect sizes grouped by outcome type (ach
 - [The constructivist approach produces more positive attitudes towards lessons than traditional teaching, with an overall effect size of 0.728 across 43 Turkish studies](constructivist-approach-positive-attitudes-meta-analysis.md) — related
 - [Effect sizes do not differ significantly by sample size, practice time, or constructivist method used.](moderators-sample-time-method-null.md) — related
 - [The constructivist learning approach has a strong positive overall effect on students' academic achievement compared to traditional teaching methods (ES = 1.156).](constructivist-approach-overall-effect-achievement.md) — related
+- [Flipped classrooms in higher education show a medium overall positive effect on student outcomes compared with traditional lecture-based classrooms](flipped-classroom-medium-overall-effect-higher-education.md) — related

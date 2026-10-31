@@ -16,12 +16,14 @@ sources:
     author: Lisa De La Rue, Joshua R. Polanin, Dorothy L. Espelage, Terri D. Pigott
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Programs reduce rape myth acceptance relative to control (g = −0.47)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Lisa De La Rue, Joshua R. Polanin, Dorothy L. Espelage, Terri D. Pigott. (2017). A Meta-Analysis of School-Based Interventions Aimed to Prevent or Reduce Violence in Teen Dating Relationships. Review of Educational Research. https://doi.org/10.3102/0034654316632061
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r2`
 
 Traditional meta-analysis (multilevel modelling not appropriate) of four studies contributing four rape myths acceptance effect sizes, measured with the RMAS or versions of it. All effect sizes were negative, ranging from −0.69 to −0.18.
 

@@ -50,3 +50,4 @@ The review reports a recent study contrasting mandatory versus voluntary learnin
 - [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — related
 - [Weeding extraneous information such as music and complex backgrounds improves retention and transfer from video](weeding-extraneous-content-improves-video-learning.md) — related
 - [Coherence Principle Irrelevant Material Hurts Learning](coherence-principle-irrelevant-material-hurts-learning.md) — related
+- [Kennedy's (2016) review finds programs fostering teachers' intellectual involvement and voluntary enrollment tended to be more effective at improving student achievement](kennedy-2016-voluntary-intellectual-involvement-effective.md) — related

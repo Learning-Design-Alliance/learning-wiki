@@ -16,12 +16,14 @@ sources:
     author: "Stevens, E. A., Rodgers, M. A., & Powell, S. R."
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Publication bias is present in the mathematics intervention literature for grades 4–12, with adjusted estimates lower than the unadjusted random-effects estimate
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Stevens, E. A., Rodgers, M. A., & Powell, S. R. (2018). Intensive interventions in mathematics for upper elementary and secondary students: A meta-analysis of research. Remedial and Special Education, 39(6), 327–340. https://doi.org/10.1177/0741932517731887
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Publication-bias assessment using FAT-PET-PEESE and Trim and Fill on the full sample of 102 effect sizes. The FAT was "positively significant (p = .01)"; Trim and Fill estimated 15 effect sizes missing to the left (p < .001) and produced an adjusted effect of 0.61.
 

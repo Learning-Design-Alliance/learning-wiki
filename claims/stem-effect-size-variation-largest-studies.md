@@ -16,12 +16,14 @@ sources:
     author: Taşdemir, F.
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # Effect sizes vary widely across dissertations, with the largest effects in specific independent- and paired-group studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r1` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Taşdemir, F. (2022). Examination of the Effect of Stem Education on Academic Achievement: A Meta-Analysis Study. Education Quarterly Reviews, 5(2), 282-298. https://doi.org/10.31014/aior.1993.05.02.489
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r1`
 
 Examination of per-study effect sizes in Tables 2-4. The article names the paired-group maximum (g = 3.030, Marmara University 2019) and the independent-group maximum (g = 2.768, Adnan Menderes University 2018); Table 2 also prints negative g values for three dissertations.
 

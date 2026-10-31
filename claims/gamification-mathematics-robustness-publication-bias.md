@@ -51,3 +51,4 @@ Publication-bias assessment within the meta-analysis: an Egger-type meta-regress
 - [The ratio–interactive-skills association may be partly or entirely attributable to small-study publication bias](publication-bias-ratio-association.md) — related
 - Formal tests find no substantial evidence of publication bias or small-study effects in the meta-analysis — related
 - [No evidence of publication bias was found for the overall effect of gamification on intrinsic motivation](gamification-meta-analysis-no-publication-bias.md) — related
+- [Pooled gamification effects remain stable when high-risk-of-bias studies are excluded and in leave-one-out and fixed-effect sensitivity analyses](gamification-sensitivity-analyses-stable-pooled-effects.md) — related

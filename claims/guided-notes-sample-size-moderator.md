@@ -16,12 +16,14 @@ sources:
     author: "Larwin, K. H., & Larwin, D. A."
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Guided-notes effect sizes differ by study sample size, with the smallest and largest samples showing the largest effects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Larwin, K. H., & Larwin, D. A. (2013). The Impact of Guided Notes on Post-Secondary Student Achievement: A Meta-Analysis. International Journal of Teaching and Learning in Higher Education, 25(1), 47-58. http://www.isetl.org/ijtlhe/
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r2`
 
 Moderator analysis of study sample size in the meta-analysis. Removing one influential outlier (Narjaikeaew et al., 2009; n = 1002) reduced the overall effect from d = 0.546 to d = 0.498, a non-significant reduction.
 

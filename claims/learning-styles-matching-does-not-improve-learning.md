@@ -85,7 +85,7 @@ The review attributes this to Stahl (1999), a reading researcher, and notes Will
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*What should the adaptation be based on: responses, or learner styles and preferences?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **7 distinct studies** (5 causal, 2 review), `q2`–`q3`, 2 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does assigning tasks or formats to match a learner's measured style improve learning more than giving every learner the same well-chosen task?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **7 distinct studies** (5 causal, 2 review), `q2`–`q3`, 2 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|

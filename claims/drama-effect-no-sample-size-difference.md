@@ -16,12 +16,14 @@ sources:
     author: "Yildirim, E., Tikman, F., & Senturk, M."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # The effect of drama on social studies achievement does not differ significantly by sample size, though effect sizes decrease slightly as sample size increases
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Yildirim, E., Tikman, F., & Senturk, M. (2022). Meta-analysis on the effectiveness of using the drama approach in social studies course. International Journal on Social and Education Sciences (IJonSES), 4(1), 17-33. https://doi.org/10.46328/ijonses.301
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Moderator analysis across 13 studies with 1–50 students (d = 1.267), 13 with 51–64 (d = 1.158), and 12 with 65 and over (d = 0.909). The test found "no statistically significant difference between the groups"; the authors interpret a slight decrease in effect sizes as sample size increases.
 
@@ -47,3 +49,7 @@ Moderator analysis across 13 studies with 1–50 students (d = 1.267), 13 with 5
 - [The effect of drama on social studies achievement does not differ significantly by duration of application (1–4 vs 5–10 weeks)](drama-effect-no-duration-difference.md) — related
 - [The effect sizes of drama-based social studies instruction are highly heterogeneous across studies](drama-social-studies-effect-sizes-heterogeneous.md) — related
 - [Effect sizes do not differ significantly by sample size, practice time, or constructivist method used.](moderators-sample-time-method-null.md) — related
+- [Sampling size is not an effective moderator of AR effects, with large samples (50+) at 0.647 and small samples (1-49) at 0.262](ar-effect-sample-size-not-effective.md) — related
+- [Group size significantly moderates the effect of context-based learning on academic achievement, with studies under 100 participants showing stronger effects than studies over 100](cbl-achievement-moderated-by-group-size.md) — related
+- [Effect of MIT-based instruction does not differ significantly by study sample size](mit-effect-homogeneous-sample-size.md) — related
+- [Effect sizes do not differ significantly between selected-student and whole-class applications, with class-based applications slightly higher (g = 1.253 vs 1.245)](no-significant-difference-by-application-type.md) — related

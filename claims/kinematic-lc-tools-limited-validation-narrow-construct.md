@@ -1,0 +1,68 @@
+---
+type: claim
+title: Kinematic assessment systems for laparoscopic cholecystectomy are weakly validated, restricted to small datasets, and capture only a narrow component of operative competence
+description: Kinematic assessment systems for laparoscopic cholecystectomy are weakly validated, restricted to small datasets, and capture only a narrow component of operative competence
+id: kinematic-lc-tools-limited-validation-narrow-construct
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-31
+evidence_strength: weak
+sources:
+  - id: mainwaring-elizabeth-m-a-2026
+    resource: "https://doi.org/10.1007/s00464-026-13309-z"
+    title: "Mainwaring Elizabeth M. A., Guidozzi Nadia, James Jonnie P., Pantling Jai, Menon Nainika, Salem Riadh, Markar Sheraz R. (2026). Objective technical skills assessment in laparoscopic cholecystectomy: a systematic review of manual, kinematic, and AI-based tools. Surgical Endoscopy. https://doi.org/10.1007/s00464-026-13309-z"
+    author: Mainwaring Elizabeth M. A., Guidozzi Nadia, James Jonnie P., Pantling Jai, Menon Nainika, Salem Riadh, Markar Sheraz R.
+    q: 3
+    i: "?"
+    kind: review
+    rigour: 3
+  - id: mainwaring-elizabeth-m-a-2026-2
+    resource: "https://doi.org/10.1007/s00464-026-13309-z"
+    title: "Mainwaring Elizabeth M. A., Guidozzi Nadia, James Jonnie P., Pantling Jai, Menon Nainika, Salem Riadh, Markar Sheraz R. (2026). Objective technical skills assessment in laparoscopic cholecystectomy: a systematic review of manual, kinematic, and AI-based tools. Surgical Endoscopy. https://doi.org/10.1007/s00464-026-13309-z"
+    author: Mainwaring Elizabeth M. A., Guidozzi Nadia, James Jonnie P., Pantling Jai, Menon Nainika, Salem Riadh, Markar Sheraz R.
+    q: 3
+    i: "?"
+    kind: review
+    rigour: 3
+---
+
+# Kinematic assessment systems for laparoscopic cholecystectomy are weakly validated, restricted to small datasets, and capture only a narrow component of operative competence
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · review `r3` · `q3`
+
+## Subclaims
+`q3 i?` Only 6 studies evaluated kinematic motion-modelling systems, with sample sizes of 6 to 47 procedures, and no study evaluated clinical outcomes. [→ Mainwaring Elizabeth M. A. 2026](#mainwaring-elizabeth-m-a-2026)
+`q3 i?` All kinematic studies were rated doubtful or inadequate on overall COSMIN quality (3/6 each), indicating motion-based metrics did not correspond to stronger validation methodology. [→ Mainwaring Elizabeth M. A. 2026 (2)](#mainwaring-elizabeth-m-a-2026-2)
+
+## Evidence
+
+### Mainwaring Elizabeth M. A. 2026
+
+Mainwaring Elizabeth M. A., Guidozzi Nadia, James Jonnie P., Pantling Jai, Menon Nainika, Salem Riadh, Markar Sheraz R. (2026). Objective technical skills assessment in laparoscopic cholecystectomy: a systematic review of manual, kinematic, and AI-based tools. Surgical Endoscopy. https://doi.org/10.1007/s00464-026-13309-z
+
+`q3 · i?` · `review · r3`
+
+The kinematic synthesis reports only six studies, using electromagnetic tracking, optical sensors, or 2D video-based motion analysis, with sample sizes of 6 to 47 procedures. These systems quantify velocity, acceleration, jerk, path length, and movement smoothness as proxies for skill, and no study evaluated clinical outcomes.
+
+> "Six studies evaluated kinematic motion-modelling systems using electromagnetic tracking, optical sensors, or two-dimensional video-based motion analysis [21, 26, 27, 29, 30, 36]. Sample sizes ranged from 6 to 47 procedures."
+
+### Mainwaring Elizabeth M. A. 2026 (2)
+
+Mainwaring Elizabeth M. A., Guidozzi Nadia, James Jonnie P., Pantling Jai, Menon Nainika, Salem Riadh, Markar Sheraz R. (2026). Objective technical skills assessment in laparoscopic cholecystectomy: a systematic review of manual, kinematic, and AI-based tools. Surgical Endoscopy. https://doi.org/10.1007/s00464-026-13309-z
+
+`q3 · i?` · `review · r3`
+
+In the risk-of-bias results, "all kinematic studies were rated doubtful or inadequate overall (3/6 [50.0%] each)" by COSMIN. The discussion states this indicates quantitative motion-based metrics did not necessarily correspond to stronger validation methodology.
+
+> "In contrast, all kinematic studies were rated doubtful or inadequate overall (3/6 [50.0%] each)."
+
+## Discussion
+
+
+## Related Claims
+- [No objective assessment tool for laparoscopic cholecystectomy demonstrates comprehensive validity across all Messick domains, so no gold standard exists](no-gold-standard-lc-skill-assessment-tools.md) — a broader claim this one bears on
+- [Methodological quality of LC assessment-tool studies is moderate (MERSQI median 12.5) and outcomes rarely extend beyond performance-level measures](mersqi-moderate-quality-lc-assessment-studies.md) — a broader claim this one bears on
+- [Manual assessment tools have the largest body of validity evidence in laparoscopic cholecystectomy but show variable reliability and no links to patient outcomes](manual-tools-largest-evidence-base-no-outcomes.md) — related
+- [AI-based assessment systems show strong internal performance and early real-time deployment for critical view of safety detection, but lack external validation and clinical impact evidence](ai-lc-assessment-strong-internal-weak-external.md) — related

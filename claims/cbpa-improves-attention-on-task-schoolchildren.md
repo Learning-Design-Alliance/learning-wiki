@@ -55,3 +55,8 @@ Systematic review (PRISMA) of 20 prospective studies with 6032 students aged 7�
 - [Two 20-min MVPA bouts in a school morning yielded better selective attention than one bout or remaining seated (B = −0.26; 95% CI (−0.52, −0.00))](two-bouts-better-than-one-selective-attention.md) — a narrower finding that bears on this claim
 - [Classroom active breaks show no reliable effect on mathematical fluency](active-breaks-null-effect-mathematical-fluency.md) — related
 - [Physical activity interventions in childhood improve working memory with a small summary effect, based on very low-certainty evidence](pa-interventions-improve-working-memory-childhood.md) — related
+- [Behavioral engagement findings from classroom physical activity breaks are inconclusive](pa-breaks-behavioral-engagement-inconclusive.md) — related
+- [Evidence on selective attention from classroom physical activity breaks is inconclusive, with one study reporting a negative effect](pa-breaks-selective-attention-inconclusive.md) — related
+- [Classroom physical activity breaks show strong evidence of improving sustained attention in university students](pa-breaks-sustained-attention-university-strong-evidence.md) — a narrower finding that bears on this claim
+- [Effects of classroom physical activity breaks on academic performance in university students are mixed or inconclusive](pa-breaks-academic-performance-mixed.md) — related
+- [Classroom physical activity breaks show strong evidence of improving positive academic emotions in university students](pa-breaks-positive-emotions-strong-evidence.md) — related

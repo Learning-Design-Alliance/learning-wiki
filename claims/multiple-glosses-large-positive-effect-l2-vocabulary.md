@@ -16,18 +16,22 @@ sources:
     author: Vahideh Sadat Vahedi, Behzad Ghonsooly, and Reza Pishghadam
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
   - id: vahideh-sadat-vahedi-2014-2
     resource: "http://www.tewtjournal.org"
     title: "Vahideh Sadat Vahedi, Behzad Ghonsooly, and Reza Pishghadam. (2014). Vocabulary Glossing: A Meta-Analysis of the Relative Effectiveness of Different Gloss Types on L2 Vocabulary Acquisition. Teaching English with Technology, 16(1), 3-25. http://www.tewtjournal.org"
     author: Vahideh Sadat Vahedi, Behzad Ghonsooly, and Reza Pishghadam
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Multiple (text+visual) hypertext glosses have a large, positive effect on L2 vocabulary acquisition compared with single (text-only) glosses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -39,7 +43,7 @@ sources:
 
 Vahideh Sadat Vahedi, Behzad Ghonsooly, and Reza Pishghadam. (2014). Vocabulary Glossing: A Meta-Analysis of the Relative Effectiveness of Different Gloss Types on L2 Vocabulary Acquisition. Teaching English with Technology, 16(1), 3-25. http://www.tewtjournal.org
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Meta-analysis of 34 primary studies comparing a treatment (text+visual) and control (text-only) group, using Hedges's g. The article reports "The overall weighted mean effect size of 34 weighted effect sizes (Hedge's g) was +0.839"; the 95% CI of 0.562 to 1.116 excludes zero. No standardized effect-size magnitude beyond g is printed for impact coding.
 
@@ -49,7 +53,7 @@ Meta-analysis of 34 primary studies comparing a treatment (text+visual) and cont
 
 Vahideh Sadat Vahedi, Behzad Ghonsooly, and Reza Pishghadam. (2014). Vocabulary Glossing: A Meta-Analysis of the Relative Effectiveness of Different Gloss Types on L2 Vocabulary Acquisition. Teaching English with Technology, 16(1), 3-25. http://www.tewtjournal.org
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 The meta-analysis reports the 95% confidence interval for the overall effect; because it "does not include the value zero", the difference between multiple and single gloss conditions is statistically significant. The article notes the multiple-gloss group outperformed the text-only control group on a vocabulary test.
 

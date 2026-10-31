@@ -17,7 +17,7 @@ sources:
 # Prioritize teacher-provided, content-specific feedback in K-12 settings, and build students' capacity to give peer feedback
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q3` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 Based on the moderator results, the article recommends that feedback be delivered by teachers rather than peers and be content-specific, since "Content -specific feedback seems to provide the most positive impact on academic achievement." It also recommends future work on "how to better equip students to provide feedback to their peers" and more quantitative studies of feedback in college and university settings.

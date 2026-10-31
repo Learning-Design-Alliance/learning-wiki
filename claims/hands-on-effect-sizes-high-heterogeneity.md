@@ -16,12 +16,14 @@ sources:
     author: Caglak, S.
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Effect size estimates for hands-on science interventions are highly heterogeneous across studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Caglak, S. (2017). Does hands-on science practices make an ımpact on achievement in science? A meta-analysis. Journal of Education in Science, Environment and Health (JESEH), 3(1), 69-87. https://eric.ed.gov/?id=EJ1125775
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Heterogeneity analysis of the 19 included effect size estimates using the Q-statistic, I2 and H2 indices. The article reports "a great amount of heterogeneity" with Q(18) = 175.12, p < .01, and states the I2 value showed 90.45% of total variability was due to heterogeneity.
 

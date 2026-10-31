@@ -16,12 +16,14 @@ sources:
     author: "Eyüp Yurt & Seyat Polat"
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Multiple intelligence based instructional practices have a large positive effect on academic achievement in Turkish experimental studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Eyüp Yurt & Seyat Polat. (2015). The Effectiveness of Multiple Intelligence Applications on Academic Achievement: A Meta-Analysis. Journal of Social Studies Education Research 6(1), 84-122. https://eric.ed.gov/?id=EJ1105368
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Meta-analysis of 73 Turkish pre-test post-test control-group experimental studies (81 comparisons) coded with experimental groups using multiple intelligence practices and control groups using traditional practices. The random-effects average effect size was "found to be 1,287", a large effect by Cohen's classification; no standardized effect-size symbol beyond the g value itself is printed in this sentence.
 

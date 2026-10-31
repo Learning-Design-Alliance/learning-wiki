@@ -61,3 +61,4 @@ Separate moderator models tested study quality indicators (design, fidelity, pre
 - [Quality of technology integration varies substantially across lessons, with most variance unexplained by teacher traits or time course](tech-integration-quality-varies-across-lessons.md) — related
 - [Variation in instructional dosage did not explain variation in writing instruction effect sizes](instructional-dosage-no-moderation-writing-instruction.md) — related
 - [PND outcomes were not significantly affected by participant characteristics, device types/functions, intervention strategies, or target skill types](pnd-not-moderated-by-characteristics-device-strategy-skill.md) — related
+- [No moderator variable (intervention type, group size, grade level, implementer, hours of intervention) significantly explained variance in intervention effects, though moderator analyses were underpowered.](tier2-k3-no-significant-moderators-underpowered.md) — related

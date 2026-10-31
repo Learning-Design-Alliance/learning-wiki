@@ -16,18 +16,22 @@ sources:
     author: "Yujin Lee, Mary M. Capraro, Robert M. Capraro & Ali Bicer"
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
   - id: yujin-lee-2018-2
     resource: "https://doi.org/10.5539/ies.v11n10p42"
     title: "Yujin Lee, Mary M. Capraro, Robert M. Capraro & Ali Bicer. (2018). A Meta-Analysis: Improvement of Students’ Algebraic Reasoning through Metacognitive Training. International Education Studies, 11(10). https://doi.org/10.5539/ies.v11n10p42"
     author: "Yujin Lee, Mary M. Capraro, Robert M. Capraro & Ali Bicer"
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # One included study (Sun-Lin & Chiou, 2017) was determined to be an outlier, prompting a reconstructed meta-analysis without it
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r1`–`r2` · `q2`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Yujin Lee, Mary M. Capraro, Robert M. Capraro & Ali Bicer. (2018). A Meta-Analysis: Improvement of Students’ Algebraic Reasoning through Metacognitive Training. International Education Studies, 11(10). https://doi.org/10.5539/ies.v11n10p42
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Statement from the article's abstract describing its own analytic procedure: one study "was determined as an outlier" and the meta-analysis was reconstructed without it to obtain more robust results.
 
@@ -50,7 +54,7 @@ Statement from the article's abstract describing its own analytic procedure: one
 
 Yujin Lee, Mary M. Capraro, Robert M. Capraro & Ali Bicer. (2018). A Meta-Analysis: Improvement of Students’ Algebraic Reasoning through Metacognitive Training. International Education Studies, 11(10). https://doi.org/10.5539/ies.v11n10p42
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r1`
 
 Row from Table 2 (Cohen's d, SEs and CIs of included studies) printing the Sun-Lin & Chiou (2017) effect size as d=22.203, SE=0.557, CI 21.646 to 22.761 — the value the article identifies as the outlier.
 

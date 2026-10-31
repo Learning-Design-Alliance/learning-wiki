@@ -73,3 +73,4 @@ Meta-analytic synthesis across four outcomes. The article reports the "average e
 - [Mandatory-random student drug testing reduces high school students' reported past-30-day substance use relative to schools without MRSDT](mrsdt-reduces-past-30-day-substance-use.md) — related
 - [School exclusionary policies paradoxically worsen dropout, delinquency, and achievement](school-exclusion-paradox-worse-outcomes.md) — related
 - [Included intervention studies varied considerably in design, methods, quality and transferability](isolation-intervention-studies-varied-quality-transferability.md) — related
+- [The culturally grounded Ho'ouna Pono curriculum produced small but significant reductions in cigarette/e-cigarette and hard drug use for some cohorts, but not for alcohol or marijuana use](houna-pono-cohort-specific-reductions.md) — a narrower finding that bears on this claim

@@ -31,7 +31,7 @@ sources:
 # Digital Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 84 claims (39 for, 40 mixed, 5 against) · 93 studies (22 causal, 21 review, 18 theoretical, 12 quant-synthesis, 7 associational, 6 qualitative, 6 design), `q1`–`q4` · 14 of 93 report an effect size · 73 claims rest on one study
+> **Evidence** · 86 claims (39 for, 41 mixed, 6 against) · 95 studies (22 causal, 22 review, 18 theoretical, 14 quant-synthesis, 7 associational, 6 qualitative, 6 design), `q1`–`q4` · 14 of 95 report an effect size · 75 claims rest on one study
 
 ## Conditional relationship
 
@@ -164,6 +164,7 @@ Claims read against this model that bear on it only at the edges, or not at all.
 - [Tablet Magnetometer Linear B Current Coil](../claims/tablet-magnetometer-linear-b-current-coil.md) [+M], [Tablet Demo Set Estimates Air Permeability](../claims/tablet-demo-set-estimates-air-permeability.md) [+M], [The magnet data cannot determine air permeability; only the magnet's dipole moment can be estimated](../claims/magnet-case-cannot-determine-air-permeability.md) [+W] and [Magnetic field falls off as the inverse cube of axial distance for both a coil and a magnet](../claims/magnetic-field-inverse-cube-axial-distance-coil-magnet.md) [+W] (not about this page). Read 2026-10-19: from one physics demonstration paper (Lara et al. 2014), carried here when a fragment page was folded in. They report how accurately a tablet's magnetometer measures a field, not anything learners learned; the demonstration set is listed under Examples.
 - [A Singapore teacher community has remixed 75 EJS models and lesson packages toward a national digital library](../claims/osp-community-remixed-75-ejs-models.md) [+W]
 - [The OSP approach helps users overcome barriers in creating, using and scaling up meaningful ICT use in education](../claims/osp-overcomes-ict-barriers.md) [+W]
+- [Tertiary institutions face substantial ICT infrastructure constraints, with 54.2% of colleges lacking well-equipped computer laboratories and only 46% ICT usage reported](../claims/ict-infrastructure-constraints-tertiary-colleges.md) [~M] — attached 2026-10-31 from Gloria Mothibi (2015), which proposed "Provide adequate ICT infrastructure to facilitate e-learning in higher education, because the meta-analytic effect size indicates this can substantially improve learning and achievement".
 
 ## Objective and learner-valued goal
 
@@ -201,6 +202,7 @@ Access, use, assisted success, unaided immediate performance, delayed retention 
 - [Learning by digital explaining was superior (Experiment 1) or at least equivalent (Experiment 2) to restudy concerning deep-level knowledge](../claims/digital-explaining-superior-or-equivalent-deep-knowledge.md) [~W]
 - [Obtaining a teaching degree and accessibility in time and place were the main factors motivating trainees to enrol in an online language teacher education programme](../claims/degree-and-accessibility-drive-enrolment-online-teacher-education.md) [~W]
 - [The article reports that usage of specialized software increased the positive effect of CAE on mathematics achievement](../claims/specialized-software-increased-cae-effect.md) [+W]
+- [Physical and virtual laboratory modalities produce different learning processes and transfer despite equivalent test scores](../claims/modality-differences-in-process-and-transfer.md) [-W]
 
 ## Related Principles
 - [Flipped Learning](flipped-learning.md) — digital delivery often makes pre-class access and replayable initial exposure possible

@@ -16,12 +16,14 @@ sources:
     author: "Larwin, K. H., & Larwin, D. A."
     q: 1
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Increased student engagement is proposed as the mechanism for guided notes' achievement effect, but remains untested
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · quant-synthesis `r2` · `q1`
 > **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Larwin, K. H., & Larwin, D. A. (2013). The Impact of Guided Notes on Post-Secondary Student Achievement: A Meta-Analysis. International Journal of Teaching and Learning in Higher Education, 25(1), 47-58. http://www.isetl.org/ijtlhe/
 
-`q1 · i?`
+`q1 · i?` · `quant-synthesis · r2`
 
 Authors' interpretation in the discussion, not a tested result of the meta-analysis. The article notes prior studies linked guided notes to increased verbal engagement and better note-taking quality, but states more empirical research is needed on the engagement pathway.
 

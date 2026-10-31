@@ -85,3 +85,4 @@ Charted educational levels of the 156 included studies. The review reports highe
 - Spain, the United Kingdom, Germany, Greece, and the United States conducted the most studies — related
 - Digital distraction research is concentrated in the United States and peaked in publication years 2020 and 2023 — related
 - [Adoption of Wikipedia assignments shows a global digital divide, concentrated in English-speaking countries](wikipedia-assignments-global-digital-divide.md) — related
+- [General chemistry assessment research is geographically concentrated in developed countries and published in a small set of high-quartile chemistry education journals](assessment-research-geographic-journal-concentration.md) — related

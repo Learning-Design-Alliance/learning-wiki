@@ -1,0 +1,72 @@
+---
+type: claim
+title: Several included studies found haptic VR training equivalent rather than superior to conventional dental training
+description: Several included studies found haptic VR training equivalent rather than superior to conventional dental training
+id: ir-dental-equivalence-mixed-findings
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-31
+evidence_strength: mixed
+sources:
+  - id: ruslin-muhammad-2026
+    resource: "https://doi.org/10.1186/s12909-026-09739-x"
+    title: "Ruslin Muhammad, Sjamsudin Endang, Hanafiah Olivia Avriyanti, Stevanie Carolina, Kurniawan Sri Hastuti, Anshar Muh, Boffano Paolo, Forouzanfar Tymour, Sukotjo Cortino. (2026). Exploring the impact of immersive reality for enhancing clinical training in dental education: a systematic review. BMC Medical Education. https://doi.org/10.1186/s12909-026-09739-x"
+    author: Ruslin Muhammad, Sjamsudin Endang, Hanafiah Olivia Avriyanti, Stevanie Carolina, Kurniawan Sri Hastuti, Anshar Muh, Boffano Paolo, Forouzanfar Tymour, Sukotjo Cortino
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 2
+  - id: ruslin-muhammad-2026-2
+    resource: "https://doi.org/10.1186/s12909-026-09739-x"
+    title: "Ruslin Muhammad, Sjamsudin Endang, Hanafiah Olivia Avriyanti, Stevanie Carolina, Kurniawan Sri Hastuti, Anshar Muh, Boffano Paolo, Forouzanfar Tymour, Sukotjo Cortino. (2026). Exploring the impact of immersive reality for enhancing clinical training in dental education: a systematic review. BMC Medical Education. https://doi.org/10.1186/s12909-026-09739-x"
+    author: Ruslin Muhammad, Sjamsudin Endang, Hanafiah Olivia Avriyanti, Stevanie Carolina, Kurniawan Sri Hastuti, Anshar Muh, Boffano Paolo, Forouzanfar Tymour, Sukotjo Cortino
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 2
+---
+
+# Several included studies found haptic VR training equivalent rather than superior to conventional dental training
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`
+
+## Subclaims
+`q2 i?` Vincent et al. found no significant differences between haptic simulator (VirtEasy) and conventional practice on plastic teeth in restorative dentistry training. [→ Ruslin Muhammad 2026](#ruslin-muhammad-2026)
+`q2 i?` Dwisaptarini et al. concluded VR simulator training had equivalent effects in improving visuo-tactile performance. [→ Ruslin Muhammad 2026 (2)](#ruslin-muhammad-2026-2)
+
+## Evidence
+
+### Ruslin Muhammad 2026
+
+Ruslin Muhammad, Sjamsudin Endang, Hanafiah Olivia Avriyanti, Stevanie Carolina, Kurniawan Sri Hastuti, Anshar Muh, Boffano Paolo, Forouzanfar Tymour, Sukotjo Cortino. (2026). Exploring the impact of immersive reality for enhancing clinical training in dental education: a systematic review. BMC Medical Education. https://doi.org/10.1186/s12909-026-09739-x
+
+`q2 · i?` · `review · r2`
+
+In the review's procedural-time and errors synthesis, the Vincent et al. study is reported as "finding no significant differences compared to conventional practice on plastic teeth (Kavo)". Equivalence was not tested beyond this non-significant result; no effect size is printed.
+
+> "Vincent et al. showed the haptic simulator VirtEasy’s effectiveness in restorative dentistry training, finding no significant differences compared to conventional practice on plastic teeth (Kavo) [32]."
+
+### Ruslin Muhammad 2026 (2)
+
+Ruslin Muhammad, Sjamsudin Endang, Hanafiah Olivia Avriyanti, Stevanie Carolina, Kurniawan Sri Hastuti, Anshar Muh, Boffano Paolo, Forouzanfar Tymour, Sukotjo Cortino. (2026). Exploring the impact of immersive reality for enhancing clinical training in dental education: a systematic review. BMC Medical Education. https://doi.org/10.1186/s12909-026-09739-x
+
+`q2 · i?` · `review · r2`
+
+The review reports Dwisaptarini et al.'s RCT of minimal invasive caries removal training among sixth-year students as "concluding VR simulator training equivalently improved visuo-tactile performance" relative to conventional extracted teeth. No effect size is printed.
+
+> "Dwisaptarini et al. studied minimal invasive caries removal training among sixth-year students, concluding VR simulator training equivalently improved visuo-tactile performance [33]."
+
+## Discussion
+
+
+## Related Claims
+- [Virtual haptic drilling training achieved outcomes similar to conventional practice in less time in restorative dentistry](ir-shortens-dental-training-duration.md) — related
+- [No significant differences between VR-based and conventional training in operational understanding, technical skills, or system usability](no-difference-operational-skills-usability.md) — a broader claim this one bears on
+- [Review syntheses: VR/AR most often improved academic achievement and motivation, but sometimes performed no better than conventional technologies](vr-ar-advantages-achievement-motivation-with-null-contrast.md) — a broader claim this one bears on
+- [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — related
+- [Immersive reality training produced higher knowledge and skill scores than conventional training in dental studies](ir-improves-dental-knowledge-skill-scores.md) — reports the opposite
+- [Haptic virtual reality simulation reduces procedural time for pulpotomy training compared with conventional simulators](ir-reduces-procedural-time-dental.md) — related
+- [Improvements in objective knowledge outcomes (Kirkpatrick Level 2) from technology-enhanced learning were inconsistent across neuroanatomy interventions](tl-neuroanatomy-l2-knowledge-inconsistent.md) — a broader claim this one bears on
+- [Qualitative analysis found radiation became perceptible in VR for all participants, while all reported operability differences favoring conventional training](qualitative-themes-visualization-versus-operability.md) — related

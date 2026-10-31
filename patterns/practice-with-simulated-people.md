@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 134 claims (63 for, 55 mixed, 16 against) · 69 studies (18 review, 16 causal, 12 quant-synthesis, 9 qualitative, 9 design, 4 theoretical, 1 associational), `q1`–`q4` · 17 of 69 report an effect size · 129 claims rest on one study
+> **Evidence** · 140 claims (66 for, 58 mixed, 16 against) · 72 studies (20 review, 16 causal, 13 quant-synthesis, 9 qualitative, 9 design, 4 theoretical, 1 associational), `q1`–`q4` · 17 of 72 report an effect size · 135 claims rest on one study
 
 ## Description and scope
 
@@ -163,6 +163,12 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 - [The TARDIS system improved at-risk young people's interview answers and verbal and nonverbal behaviours](../claims/tardis-open-learner-model-improved-interview-behaviours.md) [+W]
 - [Cognitive-purpose agents concentrate on simulate-and-experience intents and face-to-face delivery](../claims/cognitive-agents-simulate-experience-face-to-face.md) [~W]
 - [Some VSP history-taking behaviors correlated with clinical reasoning metrics](../claims/vsp-behaviors-correlate-clinical-reasoning.md) [+W]
+- [Learner self-reported improvement after AI-generated virtual patient training is sometimes discordant with observed or cohort-comparison performance](../claims/ai-virtual-patient-self-report-performance-discordance.md) [~W]
+- [Where cost was studied, AI-generated virtual patients showed savings from obviating faculty time and human standardized patients, but cost evaluation remains sparse and none reached Kirkpatrick level 4](../claims/ai-virtual-patient-cost-savings-sparse-evidence.md) [~W]
+- [AI-generated virtual patients in HPE are used mainly for teaching and learning communication skills, diagnostic reasoning and management reasoning, with assessment a minority use case](../claims/ai-virtual-patients-hpe-use-case-range.md) [+W]
+- [Clearest LLM-teaching signals appear in settings with clearly defined tasks, immediate feedback, and repeated practice, such as simulated patients and structured feedback](../claims/llm-teaching-benefits-task-defined-feedback-settings.md) [+W]
+- [Simulation-based education increases post-registration nurses' odds of satisfactory observed delirium-care practice at 6 weeks in a cluster RCT](../claims/sbe-delirium-odds-satisfactory-practice-rct.md) [+W]
+- [Outcome evaluation of AI-generated virtual patients in HPE is concentrated at Kirkpatrick level 1, with no studies reporting level 3 or 4 outcomes](../claims/ai-virtual-patients-kirkpatrick-level-1-dominant.md) [~W]
 
 ## Examples
 

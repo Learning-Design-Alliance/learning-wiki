@@ -69,3 +69,4 @@ Same 60-article review. The seven factors printed with article counts include se
 - [No single measure exists that assesses children's emotional wellbeing in the context of primary-secondary school transitions; existing measure designs are inadequate](no-single-measure-transitions-emotional-wellbeing.md) — related
 - Most primary-secondary transitions research articles neither clearly define nor operationalise transitions, and nine conceptualisations appear across the 96-article literature — related
 - [There is a need for a standardised, validated wellbeing instrument suitable for longitudinal use to evaluate primary-secondary transitions interventions](standardised-wellbeing-instrument-need.md) — related
+- [Mental health was operationalised through deficit- or symptom-based frameworks in 51 of 53 reviewed studies (96.2%)](deficit-oriented-framing-mental-health-studies.md) — related

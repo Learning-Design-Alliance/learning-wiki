@@ -50,3 +50,4 @@ The review attributes this to Vest et al. (2020); the reviewed studies' designs 
 ## Related Claims
 - [Gestures and bodily actions lighten cognitive load and extend mathematical ideas across group members during collaboration](gestures-material-scaffolding-collaboration.md) — related
 - [Gesture mediated collaborative learning in an AR-headset astronomy task, including exploration, orientation, sharing and synthesizing AR perspectives, and sharing symbolic conception](gesture-mediated-collaboration-ar-headsets-astronomy.md) — related
+- [Supplementing traditional teaching with the GRAVEN hand-gesture database was associated with significant improvement in student academic performance in neuroanatomy](graven-database-improved-academic-performance.md) — related

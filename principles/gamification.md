@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 49 claims (26 for, 21 mixed, 2 against) · 49 studies (19 causal, 13 quant-synthesis, 10 review, 3 associational, 2 design, 2 theoretical), `q1`–`q4` · 15 of 49 report an effect size · 41 claims rest on one study
+> **Evidence** · 55 claims (29 for, 24 mixed, 2 against) · 50 studies (19 causal, 14 quant-synthesis, 10 review, 3 associational, 2 design, 2 theoretical), `q1`–`q4` · 16 of 50 report an effect size · 47 claims rest on one study
 
 ## Conditional relationship
 
@@ -129,6 +129,8 @@ Claims read against this model that do not change it. Each says what it is and w
 - [Most of the 45 reviewed studies report positive gamification effects on motivation and engagement in mathematics; only four report negative effects](../claims/gamification-mathematics-mostly-positive-four-negative.md) [+W] — attached 2026-10-21 from Ratinho et al. (2026), which proposed "Align gamification design with students' psychological needs, limiting excessive competition and prioritizing personal progress and cooperative tasks".
 - [Adding a real-time competition environment to a serious game improves learners' post-test scores](../claims/competition-improves-post-test-serious-game.md) [+W] — attached 2026-10-29 from Nergiz Ercil Cagiltay et al. (2015), which proposed "Serious game designers should incorporate competition to facilitate learning"; tests this page's relationship.
 - [A competition environment increases learners' motivation toward the instructional game](../claims/competition-increases-motivation-imms.md) [+W] — attached 2026-10-29 from Nergiz Ercil Cagiltay et al. (2015), which proposed "Serious game designers should incorporate competition to facilitate learning".
+- [Gamified clinical skill learning produces the largest effects on skill performance, with very high between-study heterogeneity](../claims/gamified-learning-skill-performance-largest-effect.md) [~W] — attached 2026-10-31 from Chen W.-L. et al. (2026), which proposed "Select gamification approaches by matching format to educational objectives, institutional technological capabilities, and implementation context".
+- [Gamified web and mobile learning show moderate knowledge effects with greater variability than serious games](../claims/gamified-web-mobile-moderate-knowledge-effects.md) [~W] — attached 2026-10-31 from Chen W.-L. et al. (2026), which proposed "Select gamification approaches by matching format to educational objectives, institutional technological capabilities, and implementation context".
 
 ## Objective and learner-valued goal
 
@@ -215,6 +217,10 @@ The expectation should weaken if controlled comparisons of the same practice wit
 - [Commitment to and behaviour towards learning is better after a gamified exergaming intervention than after traditional PE teaching](../claims/gamified-exergaming-better-commitment-behaviour-learning.md) [+W]
 - [A gamified exergaming intervention improves the time transformation and autotelic experience flow dimensions, but not overall dispositional flow](../claims/gamified-exergaming-flow-dimensions-time-transformation-autotelic.md) [+W]
 - [Rhythmic motor skill academic performance is better after a gamified exergaming intervention than after traditional PE teaching](../claims/gamified-exergaming-better-rhythmic-motor-skill.md) [+W]
+- [Pooled gamification effects remain stable when high-risk-of-bias studies are excluded and in leave-one-out and fixed-effect sensitivity analyses](../claims/gamification-sensitivity-analyses-stable-pooled-effects.md) [+W]
+- [Gamified clinical skill learning produces a large positive effect on knowledge acquisition in undergraduate nursing students](../claims/gamified-learning-large-knowledge-gains-nursing.md) [+W]
+- [Gamified simulation-based learning shows a large knowledge effect but with substantial heterogeneity](../claims/gamified-simulation-large-variable-knowledge-effect.md) [+W]
+- [Gamified flipped classroom/animation knowledge effects are inconclusive due to few studies and extreme heterogeneity](../claims/gamified-flipped-classroom-inconclusive-knowledge.md) [~W]
 
 ## Related Principles
 - [Autonomy](autonomy.md) — gamification works when it expands meaningful choice, not when it controls learners through rewards

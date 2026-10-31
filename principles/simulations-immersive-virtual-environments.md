@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 129 claims (52 for, 69 mixed, 8 against) · 92 studies (32 causal, 21 review, 12 quant-synthesis, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 23 of 92 report an effect size · 124 claims rest on one study
+> **Evidence** · 142 claims (58 for, 76 mixed, 8 against) · 97 studies (32 causal, 25 review, 14 quant-synthesis, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 24 of 97 report an effect size · 137 claims rest on one study
 
 ## Conditional relationship
 
@@ -318,6 +318,8 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [An inexpensive mockup was a better training aid than the tank hull trainer for teaching starting and stopping procedures, and actual participation was not required](../claims/mockup-beats-hull-trainer-starting-stopping.md) [+W] — attached 2026-10-29 from Twyford et al. (1955), which proposed "Use inexpensive mockups in place of actual equipment when the training objective does not require actual participation"; tests this page's relationship.
 - [The mockup, hull trainer, and tank were equally effective for teaching instruments-and-controls nomenclature, while the hull trainer beat the tank itself for track and suspension content](../claims/trainer-effectiveness-varies-by-content.md) [~W] — attached 2026-10-29 from Twyford et al. (1955), which proposed "Use inexpensive mockups in place of actual equipment when the training objective does not require actual participation"; tests this page's relationship.
 - [Participants in the 360° VR video condition report higher interest and enjoyment than those learning via traditional video or posters](../claims/360-vr-higher-interest-enjoyment.md) [+W] — attached 2026-10-30 from Araiza-Alba et al. (2020), which proposed "Use 360° VR videos to teach safety skills for hazardous situations without exposing learners to real danger".
+- [Immersive reality training produced higher knowledge and skill scores than conventional training in dental studies](../claims/ir-improves-dental-knowledge-skill-scores.md) [+W] — attached 2026-10-31 from Ruslin Muhammad et al. (2026), which proposed "Implement immersive reality as a complement to traditional dental education methods"; tests this page's relationship.
+- [Several included studies found haptic VR training equivalent rather than superior to conventional dental training](../claims/ir-dental-equivalence-mixed-findings.md) [~W] — attached 2026-10-31 from Ruslin Muhammad et al. (2026), which proposed "Implement immersive reality as a complement to traditional dental education methods"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -363,6 +365,17 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [VR listening mode significantly enhanced affective engagement during listening tasks](../claims/vr-enhances-affective-engagement-listening.md) [~W]
 - [Immersion in the virtual classroom did not induce unwanted negative side effects (cybersickness)](../claims/vr-immersion-no-cybersickness.md) [+W]
 - [Simulations shorter than 800 minutes show larger effects than simulations of 800 minutes or more](../claims/simulation-duration-under-800-minutes-larger-effects.md) [~W]
+- [Increasing the proportion of simulation within a nursing course shows mixed effects on competency outcomes (Hayden et al. trial)](../claims/more-vs-less-simulation-mixed.md) [~W]
+- [Across the reviewed studies, simulation-based interventions consistently improved paediatric undergraduate learning outcomes, including clinical reasoning, procedural skills and confidence](../claims/sbe-consistently-improved-paediatric-ume-outcomes.md) [~W]
+- [No included study reported worse results for simulation education: all 42 studies reported good or better results for simulation](../claims/no-study-worse-for-simulation.md) [+W]
+- [Physical and virtual laboratory modalities produce different learning processes and transfer despite equivalent test scores](../claims/modality-differences-in-process-and-transfer.md) [~W]
+- [Simulation-based education plus clinical teaching compared to clinical teaching only shows a large pooled advantage (SMD 0.82) in undergraduate nursing students](../claims/sbe-plus-clinical-pooled-smd-0-82.md) [+W]
+- [Virtual haptic drilling training achieved outcomes similar to conventional practice in less time in restorative dentistry](../claims/ir-shortens-dental-training-duration.md) [~W]
+- [Simulation-based education increases post-registration nurses' odds of satisfactory observed delirium-care practice at 6 weeks in a cluster RCT](../claims/sbe-delirium-odds-satisfactory-practice-rct.md) [+W]
+- [Affective outcomes of virtual-laboratory modalities are divided and interact with learners' initial attitude profiles](../claims/affective-outcomes-divided-moderated-by-attitudes.md) [~W]
+- [Simulation-based education consistently improved nurses' confidence in delirium recognition and assessment across included studies](../claims/sbe-delirium-confidence-gains.md) [+W]
+- [Virtual reality was particularly effective for procedural skill development and knowledge retention in paediatric undergraduate training](../claims/vr-effective-procedural-skills-retention.md) [+W]
+- [Virtual laboratories match physical laboratories on conceptual mastery, with domain-specific advantages and disadvantages](../claims/virtual-matches-physical-conceptual-mastery.md) [~W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.

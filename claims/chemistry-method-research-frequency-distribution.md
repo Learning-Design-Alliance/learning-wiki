@@ -16,12 +16,14 @@ sources:
     author: "Sugano, S. G. C., & Nabua, E. B."
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Inquiry-based learning and manipulatives/models/multiple representations were the most studied chemistry teaching methods, while project-based, combination, and multicultural approaches were least studied
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Sugano, S. G. C., & Nabua, E. B. (2020). Meta-Analysis on the Effects of Teaching Methods on Academic Performance in Chemistry. International Journal of Instruction, 13(2), 881-894. https://doi.org/10.29333/iji.2020.13259a
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Descriptive frequency distribution of the 51 qualified studies across nine treatment categories (Table 1). The authors attribute the scarcity of problem-based and project-based studies to educators finding these constructivist approaches difficult to adapt.
 

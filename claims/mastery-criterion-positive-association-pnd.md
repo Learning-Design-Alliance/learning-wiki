@@ -16,12 +16,14 @@ sources:
     author: "Jemma Kim & Christina H. Kimm"
     q: 2
     i: 1
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Employment of a mastery criterion was positively associated with PND scores (τ = .168, p = .023)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2` · `i1` small
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Jemma Kim & Christina H. Kimm. (2017). Functional Technology for Individuals with Intellectual Disabilities: Meta-Analysis of Mobile Device-Based Interventions. The Journal of Special Education Apprenticeship, 6(1). https://eric.ed.gov/?id=EJ1149575
 
-`q2 · i1`
+`q2 · i1` · `quant-synthesis · r2`
 
 Nonparametric correlation (Kendall's tau-b) across 140 observed cases categorized by mastery criterion status; 77.1% (n=108) of cases employed a mastery criterion. The article prints the effect size "τ  = .168, p = .023", a small positive association.
 

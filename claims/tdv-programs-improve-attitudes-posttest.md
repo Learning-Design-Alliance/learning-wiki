@@ -16,12 +16,14 @@ sources:
     author: Lisa De La Rue, Joshua R. Polanin, Dorothy L. Espelage, Terri D. Pigott
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # School-based programs produce a small significant improvement in attitudes toward teen dating violence at posttest (g = 0.14)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i3` large
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Lisa De La Rue, Joshua R. Polanin, Dorothy L. Espelage, Terri D. Pigott. (2017). A Meta-Analysis of School-Based Interventions Aimed to Prevent or Reduce Violence in Teen Dating Relationships. Review of Educational Research. https://doi.org/10.3102/0034654316632061
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r3`
 
 Three-level random-effects meta-analysis of 10 studies contributing 23 attitude effect sizes from controlled school-based program evaluations. The article describes the pooled result as "a small but statisti- cally significant result"; individual effect sizes ranged from 0.89 to −0.38.
 

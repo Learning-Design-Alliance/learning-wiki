@@ -16,12 +16,14 @@ sources:
     author: Gulfer Capar, Kamuran Tarim
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Achievement effects of cooperative learning do not differ significantly across mathematics sub-fields, though geometry and algebra show the highest point estimates
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Gulfer Capar, Kamuran Tarim. (2015). Efficacy of the Cooperative Learning Method on Mathematics Achievement and Attitude: A Meta-Analysis Research. Educational Sciences Theory & Practice. https://doi.org/10.12738/estp.2015.2.2098
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Moderator analysis by mathematics sub-field (geometry, numbers, algebra, undefined, measurement) reported in Table 2 of the meta-analysis. The article reports "no significant differences was seen among the effect sizes" across sub-fields.
 
@@ -44,3 +46,4 @@ Moderator analysis by mathematics sub-field (geometry, numbers, algebra, undefin
 
 ## Related Claims
 - [Achievement effects do not differ significantly across cooperative learning techniques; unstructured and STAD show the highest point estimates](cooperative-learning-technique-moderator.md) — related
+- [The effect of cooperative learning on mathematics achievement differs significantly by learning domain, with geometry showing the largest effect](learning-domain-moderator-significant-geometry.md) — reports the opposite

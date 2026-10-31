@@ -25,12 +25,14 @@ sources:
     author: Torstein Låg, Rannveig Grøm Sæle
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Probability of failing is higher under traditional methodology
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r1` · `q3`
+> **Evidence** · 2 studies · 1 causal `r1`, 1 quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -57,7 +59,7 @@ Fisher exact test on fail/pass categories for 522 traditional and 635 flipped cl
 
 Torstein Låg, Rannveig Grøm Sæle. (2019). Does the Flipped Classroom Improve Student Learning and Satisfaction? A Systematic Review and Meta-Analysis. AERA Open. https://doi.org/10.1177/2332858419870489
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Meta-analysis of 45 samples reporting pass/fail or DFW rates. The article reports "an odds ratio of 1.55" (risk ratio 1.08), with mean pass rates of 77.63% flipped versus 75.91% traditional, calling the effect statistically significant but rather small.
 

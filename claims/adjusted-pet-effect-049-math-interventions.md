@@ -16,12 +16,14 @@ sources:
     author: "Stevens, E. A., Rodgers, M. A., & Powell, S. R."
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # After adjusting for small-study effects and excluding small-sample studies, the underlying pooled effect of mathematics interventions for grades 4–12 is a moderate 0.49
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q2`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Stevens, E. A., Rodgers, M. A., & Powell, S. R. (2018). Intensive interventions in mathematics for upper elementary and secondary students: A meta-analysis of research. Remedial and Special Education, 39(6), 327–340. https://doi.org/10.1177/0741932517731887
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r3`
 
 Sensitivity analysis using the FAT-PET-PEESE meta-regression correction method, excluding 16 effect sizes from four small-sample studies. The PET estimated "an effect of 0.49, CI [-0.38, 1.36]" and the PEESE 0.54, CI [0.02, 1.05]; the PET was not significant.
 

@@ -98,3 +98,4 @@ Open questions this page should eventually resolve with cited evidence: (1) the 
 - [Grounding LAI feedback in constructive alignment and the Hattie–Timperley feedback model structures personalised interventions](ca-and-feedback-model-structure-lai-interventions.md) — a narrower finding that bears on this claim
 - [Adaptive navigation support is less directive and more cooperative than traditional curriculum sequencing](adaptive-navigation-support-less-directive-than-sequencing.md) — related
 - [Little post-2014 progress on generating questions of controlled difficulty, feedback generation, and verbalisation](aqg-little-progress-difficulty-feedback-verbalisation.md) — related
+- [Structure can be characterized by seven practice components: expectation/goal-setting, rules and routines, organization of lessons and materials, monitoring and signals, feedback, rewards and punishment, and eliciting student involvement](structure-seven-component-taxonomy.md) — related

@@ -13,7 +13,7 @@ generated:
 # Visual Processing
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 54 claims (34 show a difference, 12 mixed, 8 no difference) · 33 studies (11 causal, 10 associational, 9 review, 1 quant-synthesis, 1 qualitative, 1 design), `q2`–`q4` · 7 of 33 report an effect size · 54 claims rest on one study
+> **Evidence** · 58 claims (35 show a difference, 14 mixed, 9 no difference) · 34 studies (11 causal, 10 associational, 9 review, 2 quant-synthesis, 1 qualitative, 1 design), `q2`–`q4` · 8 of 34 report an effect size · 58 claims rest on one study
 
 ## Description
 Visual processing is what the brain does with the input that comes through vision: recognising, ordering and interpreting visual information. It lets learners recognise letters, numbers and symbols, read quickly and accurately, copy and solve problems correctly, and work with diagrams, drawings and geometric shapes; visual-motor integration, the coordination of hand and eye, is part of it and supports handwriting. Learners with dyslexia or dyscalculia may process words and numbers visually in different ways, which the LVN traces in many cases to phonological difficulties that disrupt visual attention during reading. It is measured with visual discrimination and matching tasks, figure-copying and design-copying tests, block design and mental rotation tasks, and computer-based tasks that use non-linguistic symbols so language skills do not affect scores. It overlaps closely with [spatial ability](spatial-ability.md), and is distinct from eyesight itself, which [access](access.md) covers.
@@ -90,6 +90,10 @@ Visual processing is what the brain does with the input that comes through visio
 - [Classroom management self-efficacy and perceived cognitive load correlate with visual attention measures](../claims/self-efficacy-cognitive-load-correlate-attention.md) [+M] — learners who differ on it differ in outcomes
 - [Dynamic movement patterns are associated with better visual attention performance on classroom disruptions than immobile and anchored patterns](../claims/dynamic-movement-better-visual-attention.md) [+M] — instruction changes it
 - [Higher perceived cognitive load during IVR teaching is associated with worse visual attention performance on disruptions](../claims/cognitive-load-lower-visual-attention.md) [+M] — instruction changes it
+- [Cooperative learning's top rank in the broad network rests entirely on a single visual-motor integration study and disappears when that study is removed](../claims/cooperative-rank-single-study-artifact.md) [~M] — instruction changes it
+- [In the adolescent subgroup network, Functional games had the highest P-score (0.830; SMD 2.568), but rankings differed by age stratum and inconsistency remained significant](../claims/adolescent-subgroup-functional-games-highest.md) [~M] — instruction changes it
+- [In the under-18 primary network, Hybrid TGfU-SE, Nonlinear, and Functional games are the only nodes whose estimates versus Control exclude zero, led by Hybrid TGfU-SE (SMD 1.35)](../claims/tgfu-se-nonlinear-functional-games-beat-control-under18.md) [+M] — instruction changes it
+- [Traditional instruction is approximately null versus Control in the primary network, and the analysis does not support claims that every active or structured node outperforms Control](../claims/traditional-null-versus-control-no-universal-superiority.md) [-W] — instruction changes it
 
 ## Measures
 - **NAB Visual Discrimination Task** (Stern & White, 2003): a match-to-sample task measuring adults' visual perception and visual-spatial skill.

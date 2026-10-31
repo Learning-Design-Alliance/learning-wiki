@@ -17,7 +17,7 @@ sources:
 # Use token reinforcement as a flexible differentiation strategy while applying standards-based practices and larger samples to strengthen generalizability
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (2 for, 3 mixed, 1 against) · 1 study, `q2` · 1 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (2 for, 3 mixed, 1 against) · 1 study (1 quant-synthesis), `q2` · 1 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 The article positions token reinforcement as an adaptable support strategy: "token reinforcement is a strategy that helps with differentiation and instructional flexibility," usable with different types of students across traditional, hybrid, and online settings. Because heterogeneity exceeded 99% and standardization remains unaddressed, the authors recommend standards-based practices, larger samples, and sample-size verification tools (GPOWER, Excel, R, SPSS) for future reinforcement studies.

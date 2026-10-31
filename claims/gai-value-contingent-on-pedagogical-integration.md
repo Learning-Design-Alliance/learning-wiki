@@ -92,3 +92,4 @@ Narrative synthesis of prior GAI-in-education literature in the introduction. Th
 - [A range of collaborative design activities, guided by instructional design models such as TPACK, are necessary to train preservice teachers to create technology-rich lesson plans](collaborative-design-tpack-lesson-plans.md) — related
 - The most frequently measured pedagogical aspects of technology integration are enhancing students' cognitive engagement, promoting collaboration between students, and allowing students to conduct research online. — related
 - [The editorial argues that existing models of pedagogy are inadequate for the demands of technology-enhanced learning.](editorial-argues-pedagogy-models-inadequate-for-technology.md) — related
+- [The review finds technology's impact depends mainly on pedagogical design, teaching accompaniment, and university policies](impact-depends-on-pedagogical-design-review.md) — possibly the same claim (merge candidate)

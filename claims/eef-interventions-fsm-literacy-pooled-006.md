@@ -16,12 +16,14 @@ sources:
     author: Bilal Ashraf, Akansha Singh, Germaine Uwimpuhwe, Tahani Coolen-Maturi, Jochen Einbeck, Steve Higgins and Adetayo Kasim
     q: 3
     i: 0
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # EEF-funded interventions improved FSM pupils' literacy outcomes with a pooled effect size of 0.06, equivalent to about one month's progress
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i0` negligible
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Bilal Ashraf, Akansha Singh, Germaine Uwimpuhwe, Tahani Coolen-Maturi, Jochen Einbeck, Steve Higgins and Adetayo Kasim. (2021). Individual participant data meta-analysis of the impact of EEF trials on the educational attainment of pupils on Free School Meals: 2011 - 2019. Education Endowment Foundation. https://eric.ed.gov/?id=ED625398
 
-`q3 · i0`
+`q3 · i0` · `quant-synthesis · r2`
 
 IPD meta-analysis of 81 EEF trials (90,218 FSM pupils) using Bayesian multilevel models on standardised outcomes. The pooled literacy effect "is 0.06 (0.03, 0.08)", which the report equates to about one month's progress; the printed effect size is below d = 0.2.
 

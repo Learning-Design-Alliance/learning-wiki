@@ -16,12 +16,14 @@ sources:
     author: "Kansızoğlu, N. & Bekiroğlu, N."
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # The article identifies creative drama, cooperative learning, educational games, and animations as particularly beneficial vocabulary-teaching methods
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Kansızoğlu, N. & Bekiroğlu, N. (2025). The effect of vocabulary development interventions on cognitive outcomes of vocabulary: A meta-analysis study. Journal of Pedagogical Research, 9(1), 123-148. https://doi.org/10.33902/JPR.202532083
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Authors' interpretation in the Discussion section, not a separately tested comparison; the article offers no subgroup analysis by method type. The sentence states these methods "were identified as particularly beneficial".
 
@@ -49,3 +51,4 @@ Authors' interpretation in the Discussion section, not a separately tested compa
 - [Creative drama-based learning has a large positive effect on academic success in Turkish language instruction (REM ES = 1.712)](creative-drama-large-effect-turkish.md) — related
 - [The very large effect found here is consistent with prior meta-analyses of creative drama, which report medium-to-huge positive effects on achievement](creative-drama-effect-consistent-with-prior-meta-analyses.md) — related
 - [Practice defined as meaningful language use plus effortful practice of difficult features is beneficial and even essential for second language acquisition](meaningful-effortful-practice-beneficial-essential-l2.md) — related
+- [Thematic analysis of 14 studies of student views found creative drama produced influential outcomes across cognitive, creative/critical-thinking, learning-environment, and social-affective domains, along with negative aspects](creative-drama-thematic-outcomes-domains.md) — related

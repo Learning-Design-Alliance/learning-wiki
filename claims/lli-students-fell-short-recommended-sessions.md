@@ -52,3 +52,4 @@ Implementation finding from the Oakland evaluation: students received varying LL
 - [Secondary schools faced implementation challenges producing variation in LLI duration, intensity, and fidelity](lli-secondary-implementation-challenges-variation.md) — a broader claim this one bears on
 - A randomized controlled trial of Once found no significant effect on end-of-year DIBELS scores when students received well below the intended dosage — related
 - [Second-order technology barriers may be most influential on technology-based intervention implementation, and the quantity of barriers reported was associated with the percentage of students meeting target durations of use](second-order-technology-barriers-influence-implementation.md) — related
+- [Intervention dosage (duration, frequency, intensity) shows no consistent association with app effect sizes](app-dosage-no-consistent-association.md) — related

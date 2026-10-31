@@ -72,3 +72,6 @@ Same Table 6 analysis of relevant AIED sample origins; the paper reports "There 
 - Handbook authorship and AECT awards are markedly less internationally diverse than journal publication, suggesting a North American bias in those indicators — related
 - [Adoption of Wikipedia assignments shows a global digital divide, concentrated in English-speaking countries](wikipedia-assignments-global-digital-divide.md) — related
 - [Rigorous evidence on education interventions in Sub-Saharan Africa is unevenly distributed, with over 30% of studies from Kenya alone and relevant topics unstudied](ssa-evidence-uneven-kenya-concentration.md) — related
+- [Most EPA research targets postgraduate programmes in single-centre USA settings, with Asia, Africa and South America underrepresented](epa-research-pgme-usa-dominance-underrepresented-regions.md) — a narrower finding that bears on this claim
+- [Evidence on public health competency assessment is concentrated in high-income countries, with no studies from Latin America or Africa](geographic-concentration-high-income-countries-ph-competency-assessment.md) — related
+- [The evidence base is geographically uneven: no study simultaneously examined all three constructs within a sub-Saharan African context](no-integrative-three-construct-studies-sub-saharan-africa.md) — related

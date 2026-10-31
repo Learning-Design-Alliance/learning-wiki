@@ -17,7 +17,7 @@ sources:
 # Combine disability simulation exercises with information, contact with persons with disabilities, and small-group debriefing
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that a one-time simulation exercise be embedded in a broader, organized program: "it is recommended that the disability simulation exercise needs complements to achieve its desig nated objectives, such as, disseminating information about disabilities and simulations, contacting with persons with disabilities or their family, and/or debriefing experiences with a small group." This follows from the finding that a single use of a simulation exercise has at most medium effects, while combined formats show larger effects. Educators are advised to place particular emphasis on reducing adverse effects and improving cognitive and affective awareness of disability.

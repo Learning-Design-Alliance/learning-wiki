@@ -16,12 +16,14 @@ sources:
     author: "de Hoop, T., Klochikin, E., & Stone, R."
     q: 1
     i: "?"
+    kind: quant-synthesis
+    rigour: "?"
 ---
 
 # Before this review, no systematic synthesis existed of the evidence on what works to improve early grade reading outcomes in the Latin-American and Caribbean region
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · quant-synthesis `r?` · `q1`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 de Hoop, T., Klochikin, E., & Stone, R. (2016). What Works to Improve Reading Outcomes in Latin-America? A Systematic Review of the Evidence. SREE Spring 2016 Conference Abstract Template, American Institutes for Research. https://eric.ed.gov/?id=ED567508
 
-`q1 · i?`
+`q1 · i?` · `quant-synthesis · r?`
 
 Authors' statement of the evidence gap motivating the review, offered in the Background section as an assertion of the state of the field rather than a tested result; the article offers no systematic search to substantiate it beyond the review itself.
 

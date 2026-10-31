@@ -16,18 +16,22 @@ sources:
     author: "Kalaian, S. A., Kasim, R. M., & Nims, J. K."
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
   - id: kalaian-2018-2
     resource: "https://scholar.lib.vt.edu/ejournals/JTE/"
     title: "Kalaian, S. A., Kasim, R. M., & Nims, J. K. (2018). Effectiveness of Small-Group Learning Pedagogies in Engineering and Technology Education: A Meta-Analysis. Journal of Technology Education, 29(2). https://scholar.lib.vt.edu/ejournals/JTE/"
     author: "Kalaian, S. A., Kasim, R. M., & Nims, J. K."
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Effect sizes are larger for peer-reviewed published articles than dissertations and for quasiexperimental pre-post designs than comparative post-only designs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Kalaian, S. A., Kasim, R. M., & Nims, J. K. (2018). Effectiveness of Small-Group Learning Pedagogies in Engineering and Technology Education: A Meta-Analysis. Journal of Technology Education, 29(2). https://scholar.lib.vt.edu/ejournals/JTE/
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r2`
 
 Subgroup analysis of publication type (Table 1) across the 26 effect sizes: published articles (18, d = 0.58, p = 0.00) versus theses and dissertations (8, d = 0.05, p = 0.62).
 
@@ -50,7 +54,7 @@ Subgroup analysis of publication type (Table 1) across the 26 effect sizes: publ
 
 Kalaian, S. A., Kasim, R. M., & Nims, J. K. (2018). Effectiveness of Small-Group Learning Pedagogies in Engineering and Technology Education: A Meta-Analysis. Journal of Technology Education, 29(2). https://scholar.lib.vt.edu/ejournals/JTE/
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r2`
 
 Subgroup analysis of research design (Table 1): quasiexperimental two-group pre-post studies (10 effect sizes, d = 0.52, p = 0.00) versus nonexperimental comparative post-only studies (16, d = 0.40, p = 0.00).
 

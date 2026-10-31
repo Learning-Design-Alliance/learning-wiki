@@ -16,12 +16,14 @@ sources:
     author: Taşdemir, F.
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Funnel plot asymmetry indicates publication bias among the STEM dissertations analyzed
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Taşdemir, F. (2022). Examination of the Effect of Stem Education on Academic Achievement: A Meta-Analysis Study. Education Quarterly Reviews, 5(2), 282-298. https://doi.org/10.31014/aior.1993.05.02.489
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Publication-bias assessment via funnel plot of precision by Hedges's g (Figure 2) and by standardized mean difference (Figure 3). The article reports the plots are asymmetric and links this to small study groups and low methodological quality.
 
@@ -52,3 +54,4 @@ Publication-bias assessment via funnel plot of precision by Hedges's g (Figure 2
 - [Publication-bias checks give mixed results: Egger's test indicates funnel-plot asymmetry while Trim and Fill and Fail-Safe N indicate no bias](mixed-publication-bias-evidence-meta-analysis.md) — related
 - [Funnel-plot asymmetry ran contrary to small-study effects because larger-sample studies reported larger effect sizes, likely reflecting longer training programs](funnel-asymmetry-contrary-to-small-study-effects.md) — related
 - [The pooled effect of writing instruction for US ELL students is robust to sensitivity analyses but funnel plot asymmetry suggests possible missing positive effect sizes](sensitivity-and-bias-checks-ell-writing-meta.md) — related
+- [No evidence of publication bias was found in the flipped classroom literature, though dissertations showed a larger (non-significantly different) effect size than journal articles](flipped-classroom-no-publication-bias.md) — reports the opposite

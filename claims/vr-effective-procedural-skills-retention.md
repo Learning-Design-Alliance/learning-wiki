@@ -1,0 +1,54 @@
+---
+type: claim
+title: Virtual reality was particularly effective for procedural skill development and knowledge retention in paediatric undergraduate training
+description: Virtual reality was particularly effective for procedural skill development and knowledge retention in paediatric undergraduate training
+id: vr-effective-procedural-skills-retention
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-31
+evidence_strength: weak
+sources:
+  - id: eid-farida-2026
+    resource: "https://doi.org/10.1186/s12909-026-09730-6"
+    title: "Eid Farida, Maryum Rida, Waugh Lucy, Kilian Paddy, Atiomo William, Al-Hammadi Suleiman. (2026). Simulation-Based Education (SBE) in paediatric undergraduate medical education: a scoping review. BMC Medical Education. https://doi.org/10.1186/s12909-026-09730-6"
+    author: Eid Farida, Maryum Rida, Waugh Lucy, Kilian Paddy, Atiomo William, Al-Hammadi Suleiman
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 2
+---
+
+# Virtual reality was particularly effective for procedural skill development and knowledge retention in paediatric undergraduate training
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r2` · `q2`
+
+## Subclaims
+`q2 i?` The review reports virtual reality was effective for knowledge retention and skill acquisition, and particularly effective for procedural skill development. [→ Eid Farida 2026](#eid-farida-2026)
+
+## Evidence
+
+### Eid Farida 2026
+
+Eid Farida, Maryum Rida, Waugh Lucy, Kilian Paddy, Atiomo William, Al-Hammadi Suleiman. (2026). Simulation-Based Education (SBE) in paediatric undergraduate medical education: a scoping review. BMC Medical Education. https://doi.org/10.1186/s12909-026-09730-6
+
+`q2 · i?` · `review · r2`
+
+The review's cross-study synthesis, drawing on Blonsky et al. (multicenter RCT, n = 373, congenital heart disease knowledge), Verzella et al. (RCT, n = 26, airway skills), and Saeed et al. (mixed-methods, n = 203, OSCE performance). The review states "virtual reality proved effective for knowledge retention and skill acquisition".
+
+> "virtual reality proved effective for knowledge retention and skill acquisition [22, 27, 49]."
+
+## Discussion
+
+
+## Related Claims
+- [High-fidelity manikins and virtual reality were the most common paediatric SBE modalities across the reviewed studies](high-fidelity-manikins-vr-most-common-modalities.md) — related
+- [Haptic virtual reality simulation reduces procedural time for pulpotomy training compared with conventional simulators](ir-reduces-procedural-time-dental.md) — a narrower finding that bears on this claim
+- [Across the reviewed studies, simulation-based interventions consistently improved paediatric undergraduate learning outcomes, including clinical reasoning, procedural skills and confidence](sbe-consistently-improved-paediatric-ume-outcomes.md) — a broader claim this one bears on
+- [Resource limitations, technical hurdles and time constraints were the primary reported barriers to implementing paediatric SBE](sbe-implementation-barriers-cost-faculty-maintenance.md) — related
+- [The review reports that high-fidelity simulation outperformed case-based discussion for clinical reasoning and leadership in paediatric emergencies](hfs-superior-case-based-discussion-reasoning.md) — related
+- [Knowledge transfer outcomes show the largest effect sizes of immersive procedural training (g = 1.80), while knowledge gain and retention effects are not significant](ivr-knowledge-transfer-largest-effect.md) — reports the opposite
+- [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation while leaving retention unaffected](immersion-cost-benefit-transfer-motivation.md) — reports the opposite
+- [Immersive lessons show a small effect size advantage over less immersive technology, but increased presence does not necessarily lead to more learning](immersive-lessons-small-advantage-presence-not-sufficient.md) — related
+- [Immersive reality training produced higher knowledge and skill scores than conventional training in dental studies](ir-improves-dental-knowledge-skill-scores.md) — a narrower finding that bears on this claim

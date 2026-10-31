@@ -16,12 +16,14 @@ sources:
     author: "Balta, N., & Sarac, H."
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # The 7E learning cycle has a very large positive overall effect on students' achievement in science teaching (random-effects Hedges's g = 1.245)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Balta, N., & Sarac, H. (2016). The Effect of 7E Learning Cycle on Learning in Science Teaching: A meta-Analysis Study. European Journal of Educational Research, 5(2), 61-72. https://doi.org/10.12973/eu-jer.5.2.61
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r2`
 
 Meta-analysis of 35 effect sizes from 24 experimental or quasi-experimental studies (2918 students; control 1488, experimental 1430) comparing 7E learning cycle with traditional teaching on achievement. The random-effects model yielded Hedges's g = 1.245 with SE .148; the fixed-effects estimate was .989. Heterogeneity was significant, Q(34) = 430.93, p < .05.
 

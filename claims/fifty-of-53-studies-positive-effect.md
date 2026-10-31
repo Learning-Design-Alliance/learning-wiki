@@ -16,12 +16,14 @@ sources:
     author: Mehmet Fatih Ayaz, Hanifi Şekerci
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # 50 of the 53 studies in the meta-analysis show positive effect sizes favoring the constructivist approach; 3 show negative effects favoring traditional teaching.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i3` large
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Mehmet Fatih Ayaz, Hanifi Şekerci. (2015). The Effects of the Constructivist Learning Approach on Student's Academic Achievement: A Meta-Analysis Study. The Turkish Online Journal of Educational Technology, 14(4). https://eric.ed.gov/?id=EJ1077612
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r3`
 
 Forest plot analysis (Figure 1) of the 53 included studies' standardized mean differences. The article reports "50 of the 53 studies showed a positive effect size and 3 of them have negative effects", the negative ones favoring the control group.
 

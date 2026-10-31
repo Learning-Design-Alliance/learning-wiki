@@ -16,18 +16,22 @@ sources:
     author: M. Rais Ridwan, Samsul Hadi, Jailani Jailani
     q: 3
     i: 0
+    kind: quant-synthesis
+    rigour: 3
   - id: m-rais-ridwan-2022-2
     resource: "http://dx.doi.org/10.17275/per.22.97.9.4"
     title: "M. Rais Ridwan, Samsul Hadi, Jailani Jailani. (2022). A meta-analysis study on the effectiveness of a cooperative learning model on vocational high school students' mathematics learning outcomes. Participatory Educational Research, 9(4). http://dx.doi.org/10.17275/per.22.97.9.4"
     author: M. Rais Ridwan, Samsul Hadi, Jailani Jailani
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Individual study effect sizes vary, with four studies showing statistically insignificant effects and eighteen significant ones
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r2`–`r3` · `q3` · `i0` negligible
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 M. Rais Ridwan, Samsul Hadi, Jailani Jailani. (2022). A meta-analysis study on the effectiveness of a cooperative learning model on vocational high school students' mathematics learning outcomes. Participatory Educational Research, 9(4). http://dx.doi.org/10.17275/per.22.97.9.4
 
-`q3 · i0`
+`q3 · i0` · `quant-synthesis · r3`
 
 Per-study SMD (Hedges g) calculation across the 22 coded studies (Table 3), with printed effect sizes of "0.1716" and "0.1797" in the weak category. Two further studies (NHT and CTL models) fell in the small category with confidence intervals containing zero.
 
@@ -50,7 +54,7 @@ Per-study SMD (Hedges g) calculation across the 22 coded studies (Table 3), with
 
 M. Rais Ridwan, Samsul Hadi, Jailani Jailani. (2022). A meta-analysis study on the effectiveness of a cooperative learning model on vocational high school students' mathematics learning outcomes. Participatory Educational Research, 9(4). http://dx.doi.org/10.17275/per.22.97.9.4
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Per-study significance assessment from the 95% confidence intervals in Table 3 and the forest plot; the article reports eleven studies in the medium and seven in the high effect size category.
 

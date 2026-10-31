@@ -16,12 +16,14 @@ sources:
     author: Caglak, S.
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Outlier diagnostics detected no significant outliers among the included effect size estimates
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Caglak, S. (2017). Does hands-on science practices make an ımpact on achievement in science? A meta-analysis. Journal of Education in Science, Environment and Health (JESEH), 3(1), 69-87. https://eric.ed.gov/?id=EJ1125775
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Influence diagnostics (DFBETAs, Cook's Distance, Covariance Ratios, adopted from Viechtbauer and Cheung) applied to the 19 effect size estimates. Although one estimate appeared to be an outlier in the radial plot, "no significant outliers were detected", so the initial data were retained.
 

@@ -13,7 +13,7 @@ generated:
 # Exercise Breaks
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 22 claims (11 for, 8 mixed, 3 against) · 15 studies (5 quant-synthesis, 4 causal, 4 review, 1 qualitative, 1 design), `q1`–`q3` · 5 of 15 report an effect size · 20 claims rest on one study
+> **Evidence** · 24 claims (11 for, 10 mixed, 3 against) · 16 studies (5 quant-synthesis, 5 review, 4 causal, 1 qualitative, 1 design), `q1`–`q3` · 5 of 16 report an effect size · 22 claims rest on one study
 
 ## Description
 Exercise breaks are brief (typically 4–20 minute) episodes of moderate-to-vigorous physical activity — movement games, stretching, jumping, or walking — inserted between instructional segments. They function as attention-restoration and consolidation opportunities rather than as fitness interventions, though regular classroom physical activity also contributes to health outcomes.
@@ -72,6 +72,8 @@ Short aerobic activity reliably improves subsequent attention and on-task behavi
 - [Classroom active breaks show no reliable effect on mathematical fluency](../claims/active-breaks-null-effect-mathematical-fluency.md) [-W]
 - [Trial time during acquisition was unaffected by exercise group but slowed over blocks for older participants](../claims/trial-time-no-group-effect-age-slowing.md) [~W]
 - [Across-session focus gains extend to students with ADHD, though within-session gains do not](../claims/focus-coach-gains-extend-adhd-students.md) [~W]
+- [Effects of classroom physical activity breaks on academic performance in university students are mixed or inconclusive](../claims/pa-breaks-academic-performance-mixed.md) [~W]
+- [Evidence on selective attention from classroom physical activity breaks is inconclusive, with one study reporting a negative effect](../claims/pa-breaks-selective-attention-inconclusive.md) [~W]
 
 ## Related Elements
 - [Attention](attention.md) — the resource exercise breaks restore; schedule breaks against attentional demand, not the clock alone

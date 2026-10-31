@@ -53,3 +53,4 @@ Correlational analysis in the prior-knowledge survey of the 13-student course, c
 - [Perceived and objectively demonstrated AI literacy show only limited alignment in the same samples (pooled r = .055, interval including zero)](subjective-objective-ai-literacy-low-correlation.md) — related
 - [Unidimensional measurement of SPT leaves the SPT–conflict resolution relationship unclear](unidimensional-spt-measurement-limits-conflict-findings.md) — related
 - [Perceived usefulness of ChatGPT, an invalid cue, is associated with overestimation of performance](perceived-usefulness-invalid-metacognitive-cue.md) — related
+- [Technical competence of students is negatively correlated with learner perceptions (r = -0.5595)](technical-competence-negative-correlation-learner-perceptions.md) — related

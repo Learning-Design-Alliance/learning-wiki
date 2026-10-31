@@ -16,12 +16,14 @@ sources:
     author: "Juandi, D., Kusumah, Y. S., & Tamur, M."
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # The meta-analysis is resistant to publication bias by Rosenthal's fail-safe N criterion
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Juandi, D., Kusumah, Y. S., & Tamur, M. (2022). A Meta-Analysis of the Last Two Decades of Realistic Mathematics Education Approaches. International Journal of Instruction, 15(1), 381-400. https://doi.org/10.29333/iji.2022.15122a
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Bias assessment of the 54-study synthesis: the funnel plot distribution was not perfectly symmetrical, so Rosenthal's fail-safe N was computed; the ratio 1459/(5*54+10) = 4.56 exceeded 1, meeting the Mullen et al. (2001) immunity criterion.
 
@@ -53,3 +55,5 @@ Bias assessment of the 54-study synthesis: the funnel plot distribution was not 
 - [No publication bias was detected among the studies included in the meta-analysis](drama-social-studies-meta-analysis-no-publication-bias.md) — related
 - [No publication bias is detected in the meta-analysis by rank correlation, regression, Fail-Safe N, and Trim and Fill checks](no-publication-bias-cooperative-learning-meta-analysis.md) — related
 - [The digital story meta-analysis is resistant to publication bias by fail-safe N and trim-and-fill tests](digital-story-meta-analysis-resistant-publication-bias.md) — related
+- [The meta-analysis results are resistant to publication bias, per fail-safe N of 1791](game-math-meta-resistant-to-publication-bias.md) — related
+- [Publication bias was detected in all four meta-analytic models, so additional studies could change the results](publication-bias-sol-meta-analysis.md) — reports the opposite

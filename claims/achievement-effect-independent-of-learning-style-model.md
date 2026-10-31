@@ -16,12 +16,14 @@ sources:
     author: Kanadlı, S.
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # The effect of learning-styles-tailored instruction on academic achievement does not differ significantly by learning style model
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Kanadlı, S. (2016). A meta-analysis on the effect of instructional designs based on the learning styles models on academic achievement, attitude and retention. Educational Sciences: Theory & Practice, 16, 2057–2086. https://doi.org/10.12738/estp.2016.6.0084
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Categorical moderator analysis comparing the 4MAT, Perceptual, Dunn & Dunn and Kolb models (Felder & Solomon and Brain Dominance each appeared in only one study and were excluded). Random-effects common effect sizes were 1.168, 0.870, 1.331 and 1.067 respectively; the article reports "no meaningful difference among the effect sizes".
 

@@ -50,3 +50,4 @@ Figure 4 scatterplot of average effect size by deciles of teacher sample size wi
 
 - [Teacher coaching programs improve teachers' instructional practice by a pooled 0.49 SD across 43 causal studies](coaching-pooled-instruction-effect-0-49-sd.md) — the general claim this finding bears on, with the studies behind it
 -
+- [Prior meta-analyses report moderate positive pooled effect sizes of teacher PD on instructional practice and teacher knowledge outcomes](prior-pd-teacher-practice-meta-analyses-moderate-effects.md) — related

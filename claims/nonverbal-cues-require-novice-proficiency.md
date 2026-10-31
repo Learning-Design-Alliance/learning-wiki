@@ -52,3 +52,4 @@ Qualitative synthesis of the 20 active nonverbal cueing excerpts, drawing on med
 - [Most identified scaffolding behaviours in expert-novice visual interaction are active verbal cueing, followed by active verbal chunking](cueing-dominates-scaffolding-excerpts.md) — related
 - [Active verbal cues from experts most often prompt nonverbal action from novices, often preceding explanatory information](verbal-cues-prompt-nonverbal-action.md) — related
 - [Proficient learners complete the CT task faster and with fewer clicks than Novice and Developing learners](proficient-learners-task-efficiency-behaviour.md) — related
+- [Recognizable non-verbal communication patterns in online medical lectures were linked to positive shifts in student receptivity and motivation](nvc-patterns-online-lecture-receptivity.md) — related

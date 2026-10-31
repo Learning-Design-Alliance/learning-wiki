@@ -16,12 +16,14 @@ sources:
     author: Vahideh Sadat Vahedi, Behzad Ghonsooly, and Reza Pishghadam
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Research design does not significantly moderate the gloss effect: randomized (ES = 1.16) versus matched (ES = 0.71) studies do not differ significantly
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Vahideh Sadat Vahedi, Behzad Ghonsooly, and Reza Pishghadam. (2014). Vocabulary Glossing: A Meta-Analysis of the Relative Effectiveness of Different Gloss Types on L2 Vocabulary Acquisition. Teaching English with Technology, 16(1), 3-25. http://www.tewtjournal.org
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Moderator analysis classifying the 34 studies into randomized experiments (N=9) and matched studies (N=25). Both subgroup mean effect sizes were statistically significant by their confidence intervals, but the difference between them was not. No effect size for the moderator contrast is printed, so impact is null.
 

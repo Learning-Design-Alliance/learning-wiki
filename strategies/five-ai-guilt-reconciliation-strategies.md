@@ -42,7 +42,8 @@ In the qualitative narratives, academics described five approaches to reconcilin
 - [Qualitative narratives reveal temporal guilt patterns, authenticity concerns, and skill-atrophy fears among academics using AI](../claims/ai-guilt-qualitative-themes.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Design AI-mediated cognitive supports with transparency, clear boundaries, and teacher evaluation](ai-supports-transparency-boundaries-evaluation.md)
 
 ## Examples
 -

@@ -165,3 +165,4 @@ Small randomized experimental studies (Mueller and Dweck 1998) cited under Recom
 - [Teachers deliver more inflated praise to low-SES children after success, and observers perceive praised children as less smart](teacher-inflated-praise-low-ses-less-smart.md) — related
 - [Preschoolers invoke inherent more than extrinsic factors when explaining their own math success relative to a peer](inherent-explanations-own-math-success.md) — related
 - [Children's mindsets about competence showed little relation to their differentiated helping, with one small opposite-direction exception](mindsets-little-impact-on-childrens-helping.md) — related
+- [Structure can be characterized by seven practice components: expectation/goal-setting, rules and routines, organization of lessons and materials, monitoring and signals, feedback, rewards and punishment, and eliciting student involvement](structure-seven-component-taxonomy.md) — related

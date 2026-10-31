@@ -45,7 +45,7 @@ The article synthesizes meta-analytic comparisons of PBL with traditional direct
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Which method wins depends on which outcome is measured: basic knowledge, or application and transfer?* This table gathers the studies behind this claim and the 11 narrower claims that bear on it: **8 distinct studies** (2 causal, 2 qualitative, 2 quant-synthesis, 1 theoretical, 1 review), `q2`–`q3`, 1 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*For which outcomes: basic knowledge, application and transfer, or professional skills?* This table gathers the studies behind this claim and the 11 narrower claims that bear on it: **8 distinct studies** (2 causal, 2 qualitative, 2 quant-synthesis, 1 theoretical, 1 review), `q2`–`q3`, 1 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|

@@ -16,12 +16,14 @@ sources:
     author: Pinar Karaman
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Feedback source significantly moderates the effect of formative assessment: student-initiated feedback shows the largest effect (d = 1.16) and computer-initiated feedback the smallest (d = .42)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i3` large
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Pinar Karaman. (2021). The Effect of Formative Assessment Practices on Student Learning: A Meta-Analysis Study. International Journal of Assessment Tools in Education. https://doi.org/10.21449/ijate.870300
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r3`
 
 Mixed-effects subgroup analysis based on random-effects weights within subgroups, coding studies by feedback source (adult, student, computer, or mixed). The article reports "student initiated formative feedback (d=1.16, p<.05)" as the largest effect and computer feedback as the smallest; between-subgroups heterogeneity Q = 11.54, df = 3, p < .05.
 

@@ -32,7 +32,7 @@ sources:
 # Cognitive Load Theory
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 68 claims (28 for, 39 mixed, 1 against) · 65 studies (30 causal, 14 review, 13 theoretical, 6 quant-synthesis, 2 qualitative), `q1`–`q4` · 14 of 65 report an effect size · 57 claims rest on one study
+> **Evidence** · 69 claims (29 for, 39 mixed, 1 against) · 66 studies (30 causal, 15 review, 13 theoretical, 6 quant-synthesis, 2 qualitative), `q1`–`q4` · 14 of 66 report an effect size · 58 claims rest on one study
 
 ## Conditional relationship
 
@@ -150,6 +150,7 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - [The complexity effect on working memory capacity is not due to insufficient encoding time](../claims/wm-complexity-effect-not-encoding-time.md) [+W]
 - [Gesture type affects reported mental effort, with lower effort for beat gestures in Experiment 1 and for deictic gestures in Experiment 2, but no effect on mental load](../claims/gesture-type-mental-effort-effects.md) [~W]
 - [Teachers valued the VCL for removing the physicality of practical work and raising the cognitive level of problem-solving](../claims/vcl-removes-physicality-raises-cognition.md) [+W]
+- [An AR application produced smaller test-score gains than cross-section study and higher extraneous cognitive load (Henssen et al.)](../claims/henssen-ar-lower-gains-higher-extraneous-load.md) [+W]
 
 ## Related Principles
 - [Scaffolding](scaffolding.md)

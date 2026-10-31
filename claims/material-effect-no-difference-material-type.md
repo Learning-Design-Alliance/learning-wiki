@@ -16,12 +16,14 @@ sources:
     author: Zeynel KABLAN, Beyda TOPAN, Burak ERKAN
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Effectiveness of educational materials does not differ significantly by type of material (computer presentations, concept maps, combination, cartoons, hands-on)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Zeynel KABLAN, Beyda TOPAN, Burak ERKAN. (2013). The Effectiveness Level of Material Use in Classroom Instruction: A Meta-analysis Study. Educational Sciences: Theory & Practice. https://doi.org/10.12738/estp.2013.3.1692
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Homogeneity test across material types (computer presentations, hands-on materials, cartoons, concept maps, combination) under a fixed effects model. The Q-statistic of 4.106 fell below the critical value of 9.490 with 4 degrees of freedom; no effect size is printed for the contrast.
 

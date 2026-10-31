@@ -50,6 +50,7 @@ Based on their finding that LLMs remain less consistent than experts and exhibit
 - [Disaggregate evaluation of educational AI by student error and proficiency before classroom deployment](disaggregate-edai-evaluation-by-student-error.md)
 - [Simulation-based pre-validation of adaptive coaching systems before classroom deployment](simulation-prevalidation-before-classroom-deployment.md)
 - [Generative-AI-assisted content creation with domain-expert validation for adaptive tutoring systems](genai-assisted-content-creation-expert-validation.md)
+- [Frame LLM use in biomedical education around low‐stakes formative tasks with expert‐guided verification and rationale requests](llm-low-stakes-formative-use-expert-verification-strategy.md)
 
 ## Examples
 -

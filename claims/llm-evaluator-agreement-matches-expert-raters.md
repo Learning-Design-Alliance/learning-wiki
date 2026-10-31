@@ -75,3 +75,4 @@ Evaluation of the Vantage collaboration protocol with 188 Prolific-recruited par
 - [Inter-rater reliability between human experts and AI coding is very low](low-irr-experts-vs-ai-coding.md) — reports the opposite
 - [Sentence-opener-based classification of collaborative skill was imperfect, and connecting openers with closers improved classification](sentence-opener-classification-accuracy.md) — related
 - [A Bayesian student model's diagnoses agree highly with expert averages on a written exam but poorly on the computerized test](bsm-written-exam-agreement-high-computer-test-low.md) — related
+- [Agreement between AI-generated competency scores and human ratings was mixed across studies, with some reporting moderate to strong agreement and others showing score inflation and inconsistent performance](ai-ssp-score-agreement-with-human-ratings-mixed.md) — related

@@ -16,12 +16,14 @@ sources:
     author: Hakan Ulum, Songül Tümkaya
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Effect sizes across primary studies are highly heterogeneous (Q = 283.659, I² = 77%), justifying the random-effects model
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Hakan Ulum, Songül Tümkaya. (2022). The effect of student-centred methods and techniques on primary school students' mathematics achievement: A meta-analysis study. Malikussaleh Journal of Mathematics Learning (MJML). https://ojs.unimal.ac.id/mjml/index
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Homogeneity test across the 66 effect sizes: Q = 283.659 with 65 degrees of freedom exceeded the critical chi-square value, and the I² value "showed a high level of heterogeneity with 77%", after which the model was converted to a random-effects model.
 
@@ -55,3 +57,5 @@ Homogeneity test across the 66 effect sizes: Q = 283.659 with 65 degrees of free
 - [Effect sizes of small-group learning studies in engineering and technology education are significantly heterogeneous, justifying moderator analyses](small-group-effect-sizes-heterogeneous-engineering-technology.md) — a narrower finding that bears on this claim
 - [The dissertations in the STEM meta-analysis show very high heterogeneity (I2 = 92.765%)](stem-dissertations-high-heterogeneity.md) — related
 - [Student-centred strategies, methods and techniques produce a moderate-to-high overall effect on primary school students' mathematics achievement compared to traditional teaching (ES = 0.787, random-effects model)](student-centred-methods-math-achievement-meta-analysis-0787.md) — related
+- [High heterogeneity was present among effect sizes for both academic achievement (I2≈85%) and learning retention (I2≈61%)](cbl-meta-analysis-high-heterogeneity.md) — related
+- [Effect sizes across included studies are highly heterogeneous (I² = 94.79%), requiring a random-effects model](high-heterogeneity-random-effects-cre-meta-analysis.md) — related

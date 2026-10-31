@@ -26,7 +26,7 @@ sources:
 # Physical Activity
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (18 for, 9 mixed, 2 against) · 26 studies (10 causal, 7 review, 5 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 5 of 26 report an effect size · 23 claims rest on one study
+> **Evidence** · 30 claims (18 for, 10 mixed, 2 against) · 27 studies (10 causal, 8 review, 5 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 5 of 27 report an effect size · 24 claims rest on one study
 
 ## Conditional relationship
 
@@ -160,6 +160,7 @@ Claims this page cited before it was rewritten as a conditional model, and other
 - [Over a three-year CB-PA intervention, the percent of time spent in MVPA was significantly associated with the percent of time on task (p < 0.01)](../claims/three-year-cbpa-mvpa-time-on-task.md) [+W]
 - [Pooled active-break effect estimates are robust to sensitivity analyses varying within-study correlation and excluding individual studies](../claims/active-breaks-pooled-estimates-robust-sensitivity.md) [+W]
 - [Physical activity interventions in childhood improve on-task behaviour with a large summary effect, based on very low-certainty evidence](../claims/pa-interventions-improve-on-task-behaviour-childhood.md) [+W]
+- [Evidence on selective attention from classroom physical activity breaks is inconclusive, with one study reporting a negative effect](../claims/pa-breaks-selective-attention-inconclusive.md) [~W]
 
 ## Related Principles
 - [Mindfulness Activities](mindfulness-activities.md) — both can function as readiness and regulation supports before or during learning.

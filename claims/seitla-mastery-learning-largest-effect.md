@@ -16,12 +16,14 @@ sources:
     author: Mustafa Çevik, Büşra Bakioğlu
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # STEM education combined with a mastery learning approach produced the largest effect on learning achievement (g = 2.09)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Mustafa Çevik, Büşra Bakioğlu. (2022). The Effect of STEM Education Integrated into Teaching-Learning Approaches (SEITLA) on Learning Outcomes: A Meta-Analysis Study. International Journal of Progressive Education, 18(2). https://doi.org/10.29329/ijpe.2022.431.8
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r2`
 
 Subgroup analysis in the random-effects model (Table 5) of SEITLA studies. The mastery learning subgroup (1 study, 58 effect-size participants) yielded "the largest effect size on learning achievement" at g = 2.09, significant at p < 0.01.
 

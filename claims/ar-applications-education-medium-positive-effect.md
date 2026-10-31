@@ -16,12 +16,14 @@ sources:
     author: Hakan Tekedere, Hanife Göker
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Augmented reality applications in education have a medium positive average effect (ES=0.677) on student outcomes according to a random effects meta-analysis
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Hakan Tekedere, Hanife Göker. (2016). Examining the Effectiveness of Augmented Reality Applications in Education: A Meta-Analysis. International Journal of Environmental & Science Education, 11(16), 9469-9481. https://creativecommons.org/licenses/by/4.0/
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Meta-analysis of 15 SCI/SSCI-indexed studies (2005–2015) with a combined sample of 1560, combined under a random effects model. The article reports "the effect size was ES=0.677" with SE 0.095 and p=.000, which falls in the 0.40–0.75 medium band of the Thalheimer and Cook classification.
 

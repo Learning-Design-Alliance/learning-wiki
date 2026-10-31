@@ -16,12 +16,14 @@ sources:
     author: Mustafa Çevik, Büşra Bakioğlu
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Project-based learning was the most frequently studied SEITLA approach but showed a modest significant effect (g = 0.44)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Mustafa Çevik, Büşra Bakioğlu. (2022). The Effect of STEM Education Integrated into Teaching-Learning Approaches (SEITLA) on Learning Outcomes: A Meta-Analysis Study. International Journal of Progressive Education, 18(2). https://doi.org/10.29329/ijpe.2022.431.8
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r2`
 
 Table 5 subgroup row for project-based learning in the random-effects model: 11 studies, effect size g = 0.44, 95% CI 0.36-0.52, significant at p < 0.01, with high heterogeneity (Q = 94.01).
 

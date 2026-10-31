@@ -16,12 +16,14 @@ sources:
     author: Amelia Defrianti Putri, Dadang Juandi, Turmudi
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # RME learning has a large positive overall effect on Indonesian students' mathematical literacy (g = 1.031)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
 > **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Amelia Defrianti Putri, Dadang Juandi, Turmudi. (2024). Realistic mathematics education and mathematical literacy: a meta-analysis conducted on studies in Indonesia. Journal of Education and Learning (EduLearn), Vol. 18, No. 4. https://doi.org/10.11591/edulearn.v18i4.21650
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r2`
 
 Random-effects meta-analysis of seventeen experimental studies with control groups, published 2014–2023 in Indonesia, computed in CMA software using Hedges' equation. The pooled effect size was "g = 1.031", with the Z test significant below the 0.05 threshold (overall Z = 8.413, p = 0.000).
 

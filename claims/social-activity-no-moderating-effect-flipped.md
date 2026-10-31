@@ -16,12 +16,14 @@ sources:
     author: Torstein Låg, Rannveig Grøm Sæle
     q: 3
     i: 0
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # The social nature of learning activities shows no detectable moderating effect on flipped classroom learning gains
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i0` negligible
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Torstein Låg, Rannveig Grøm Sæle. (2019). Does the Flipped Classroom Improve Student Learning and Satisfaction? A Systematic Review and Meta-Analysis. AERA Open. https://doi.org/10.1177/2332858419870489
 
-`q3 · i0`
+`q3 · i0` · `quant-synthesis · r3`
 
 Subgroup analysis of continuous-learning outcomes (k = 195 social, k = 77 not social). The article reports no detectable difference, Q = 0.13, p = .72, calling this somewhat unexpected given evidence for collaborative approaches.
 

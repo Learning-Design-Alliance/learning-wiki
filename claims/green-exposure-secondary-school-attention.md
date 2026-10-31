@@ -77,3 +77,4 @@ Within-subjects experiment with N = 64 Austrian students aged 16–18 comparing 
 - [Long-term nature exposure shows inconsistent effects on processing speed, positive in the greened schoolyard study but null in the classroom green wall study](processing-speed-mixed-long-term-nature.md) — related
 - [Stress reduction did not mediate the nature–working memory effect in the one study testing it, which proposed a direct impact of nature exposure instead](stress-did-not-mediate-nature-cognition-effect.md) — related
 - [Effects on sustained/selective attention are mixed across studies, with benefits in some green settings but no effect in others regardless of exposure duration](sustained-selective-attention-mixed-nature-effects.md) — related
+- [Classroom physical activity breaks show strong evidence of improving sustained attention in university students](pa-breaks-sustained-attention-university-strong-evidence.md) — related

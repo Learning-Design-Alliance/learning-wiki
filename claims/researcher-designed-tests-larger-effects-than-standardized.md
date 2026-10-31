@@ -48,3 +48,4 @@ Moderator analysis within the random-effects meta-analysis comparing outcome-mea
 - [Phonics instruction has a large overall effect on the decoding skills of students with intellectual disability (g = 1.42)](phonics-large-effect-decoding-intellectual-disability.md) — related
 - [Type of interventionist was not a significant moderator of phonics instruction effects on decoding for students with intellectual disability](interventionist-type-not-significant-moderator-phonics-id.md) — related
 - Single-case studies yielded a larger average effect size (g = 1.94) than group studies (g = 0.41) in this meta-analysis — related
+- [Studies using researcher-developed outcomes yield effects about 0.42 SD larger than studies using standardized outcomes](researcher-developed-outcomes-larger-app-effects.md) — related

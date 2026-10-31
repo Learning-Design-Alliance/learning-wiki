@@ -17,18 +17,22 @@ sources:
     author: Torstein Låg, Rannveig Grøm Sæle
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
   - id: torstein-låg-2019-2
     resource: "https://doi.org/10.1177/2332858419870489"
     title: "Torstein Låg, Rannveig Grøm Sæle. (2019). Does the Flipped Classroom Improve Student Learning and Satisfaction? A Systematic Review and Meta-Analysis. AERA Open. https://doi.org/10.1177/2332858419870489"
     author: Torstein Låg, Rannveig Grøm Sæle
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Smaller, underpowered studies report larger flipped classroom effect sizes, indicating small-study and publication bias
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2019 · checked against its sources 2026-10-31 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
@@ -41,7 +45,7 @@ sources:
 
 Torstein Låg, Rannveig Grøm Sæle. (2019). Does the Flipped Classroom Improve Student Learning and Satisfaction? A Systematic Review and Meta-Analysis. AERA Open. https://doi.org/10.1177/2332858419870489
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Meta-regression on continuous-learning outcomes (sample size range 13–1,554). The article reports a negative sample-size coefficient (Z = −2.46, p = .01), consistent with small-study effects inflating the summary estimate.
 
@@ -51,7 +55,7 @@ Meta-regression on continuous-learning outcomes (sample size range 13–1,554). 
 
 Torstein Låg, Rannveig Grøm Sæle. (2019). Does the Flipped Classroom Improve Student Learning and Satisfaction? A Systematic Review and Meta-Analysis. AERA Open. https://doi.org/10.1177/2332858419870489
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Publication bias assessment using funnel plots, Kendall's Tau, Egger's regression intercept, cumulative meta-analysis, fail-safe N, and trim-and-fill across the three outcomes. The article reports clear indications of bias for learning measures and less clear-cut but present bias for pass rates and satisfaction.
 
@@ -69,3 +73,5 @@ Publication bias assessment using funnel plots, Kendall's Tau, Egger's regressio
 - [Funnel-plot asymmetry ran contrary to small-study effects because larger-sample studies reported larger effect sizes, likely reflecting longer training programs](funnel-asymmetry-contrary-to-small-study-effects.md) — reports the opposite
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](srl-meta-analysis-publication-bias-absent.md) — related
 - [Testing student preparation is associated with slightly higher learning gains in flipped classroom implementations](test-of-preparation-moderates-flipped-learning.md) — related
+- [Publication year significantly moderates flipped classroom effect sizes in meta-regression](flipped-classroom-effect-sizes-publication-year-moderation.md) — related
+- [No evidence of publication bias was found in the flipped classroom literature, though dissertations showed a larger (non-significantly different) effect size than journal articles](flipped-classroom-no-publication-bias.md) — related

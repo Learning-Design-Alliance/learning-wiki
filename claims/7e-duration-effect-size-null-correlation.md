@@ -16,12 +16,14 @@ sources:
     author: "Balta, N., & Sarac, H."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Duration of 7E interventions was not significantly correlated with effect size; short interventions did not yield smaller effects than long ones
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Balta, N., & Sarac, H. (2016). The Effect of 7E Learning Cycle on Learning in Science Teaching: A meta-Analysis Study. European Journal of Educational Research, 5(2), 61-72. https://doi.org/10.12973/eu-jer.5.2.61
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Correlational analysis within the meta-analysis of the relationship between intervention duration (9 to 36 hours, split at 20 hours) and effect size. The quote reports the printed correlation r = -.288, p = .158; the sub-group means (.992 long, 1.613 short) come from Table 4.
 

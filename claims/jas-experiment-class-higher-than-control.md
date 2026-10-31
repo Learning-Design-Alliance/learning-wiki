@@ -16,12 +16,14 @@ sources:
     author: S. Ngabekti, S. Ridlo, E. Peniati, R. Martanto
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # Studies report experiment classes using JAS achieve higher average study results than control classes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r1` · `q2`
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 S. Ngabekti, S. Ridlo, E. Peniati, R. Martanto. (2017). META-ANALYSIS OF JELAJAH ALAM SEKITAR (JAS) APPROACH IMPLEMENTATION IN LEARNING PROCESS. Jurnal Pendidikan IPA Indonesia. https://doi.org/10.15294/jpii.v6i1.8490
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r1`
 
 The meta-analysis's synthesis of reviewed quasi-experimental and PTK studies, reported in the Conclusion. Individual reviewed studies (e.g., Wahyuni 2012: 100% > 57%; Safarini 2014: 90% vs 70%) are narrated as showing experiment-class advantages.
 

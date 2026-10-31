@@ -54,3 +54,4 @@ The same two-way ANCOVA found a significant main effect of discussion type on se
 - [Synchronous online discussions produce higher behavioral, emotional, and cognitive engagement than asynchronous online discussions in online math courses](synchronous-discussion-increases-engagement.md) — related
 - [Co-regulation and socially shared regulation occur rarely in synchronous online collaborative learning](corl-ssrl-rare-synchronous-cscl.md) — related
 - [No significant main effect of learning approach on behavioral, emotional, or cognitive engagement](no-main-effect-learning-approach-engagement.md) — related
+- [Synchronous online learning significantly and positively impacts cognitive outcomes compared with asynchronous online learning (g = 0.37)](sol-beats-asynchronous-cognitive-outcomes.md) — related

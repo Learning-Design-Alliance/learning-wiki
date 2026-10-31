@@ -16,12 +16,14 @@ sources:
     author: "San, I. & Kis, A."
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # The effect of traditional methods does not differ significantly by learning domain, department, grade, or geographical region
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 San, I. & Kis, A. (2018). Effect of traditional methods in geometry and numbers learning domains on academic achievement: A Meta-analysis study. International Journal of Research in Education and Science (IJRES), 4(2), 544-554. https://doi.org/10.21890/ijres.428950
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Moderator analysis (Table 4) of the 31 studies under the random effects model; e.g., geometry d = -0.948 vs numbers d = -0.718, with Qbetween p-values of 0.224 (domain), 0.062 (department), 0.077 (grade), and 0.393 (region).
 

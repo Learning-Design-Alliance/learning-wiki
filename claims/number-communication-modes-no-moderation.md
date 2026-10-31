@@ -16,18 +16,22 @@ sources:
     author: "Ganz, J. B., Pustejovsky, J. E., Reichle, J., Vannest, K. J., Foster, M., Fuller, M. C., Pierson, L. M., Wattanawongwan, S., Bernal, A. J., Chen, M., Haas, A. N., Skov, R., Smith, S. D., & Yllades, V."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
   - id: ganz-2022-2
     resource: "https://doi.org/10.1007/s40489-022-00326-6"
     title: "Ganz, J. B., Pustejovsky, J. E., Reichle, J., Vannest, K. J., Foster, M., Fuller, M. C., Pierson, L. M., Wattanawongwan, S., Bernal, A. J., Chen, M., Haas, A. N., Skov, R., Smith, S. D., & Yllades, V. (2022). Augmentative and Alternative Communication Intervention Targets for School-Aged Participants with ASD and ID: a Single-Case Systematic Review and Meta-analysis. Review Journal of Autism and Developmental Disorders. [doi:10.1007/s40489-022-00326-6](https://doi.org/10.1007/s40489-022-00326-6)"
     author: "Ganz, J. B., Pustejovsky, J. E., Reichle, J., Vannest, K. J., Foster, M., Fuller, M. C., Pierson, L. M., Wattanawongwan, S., Bernal, A. J., Chen, M., Haas, A. N., Skov, R., Smith, S. D., & Yllades, V."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # The number of communication modes used during intervention does not statistically moderate AAC treatment effects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Ganz, J. B., Pustejovsky, J. E., Reichle, J., Vannest, K. J., Foster, M., Fuller, M. C., Pierson, L. M., Wattanawongwan, S., Bernal, A. J., Chen, M., Haas, A. N., Skov, R., Smith, S. D., & Yllades, V. (2022). Augmentative and Alternative Communication Intervention Targets for School-Aged Participants with ASD and ID: a Single-Case Systematic Review and Meta-analysis. Review Journal of Autism and Developmental Disorders. [doi:10.1007/s40489-022-00326-6](https://doi.org/10.1007/s40489-022-00326-6)
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Model A Tau results across studies categorized as one mode (k = 68), two modes (k = 29), or three or more modes (k = 22). One-mode studies showed the largest point estimate (Tau = 0.754) but "the differences were not systematically different from zero"; patterns held across models B and C.
 
@@ -50,7 +54,7 @@ Model A Tau results across studies categorized as one mode (k = 68), two modes (
 
 Ganz, J. B., Pustejovsky, J. E., Reichle, J., Vannest, K. J., Foster, M., Fuller, M. C., Pierson, L. M., Wattanawongwan, S., Bernal, A. J., Chen, M., Haas, A. N., Skov, R., Smith, S. D., & Yllades, V. (2022). Augmentative and Alternative Communication Intervention Targets for School-Aged Participants with ASD and ID: a Single-Case Systematic Review and Meta-analysis. Review Journal of Autism and Developmental Disorders. [doi:10.1007/s40489-022-00326-6](https://doi.org/10.1007/s40489-022-00326-6)
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 LRR analysis of the same moderator: studies with three or more modes had the largest point estimate (LRR = 1.887), but "Average LRR effect sizes across modes were not statistically distinct"; non-significance held across all three models.
 

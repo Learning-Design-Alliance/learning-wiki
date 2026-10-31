@@ -74,3 +74,4 @@ The same national study found negative effects: increased suspensions, expulsion
 - [Over 60% of the largest school districts reported zero school-related arrests, and no state had fully met ESSA school-policing report-card requirements](school-policing-data-noncompliance.md) — related
 - [Research on SRO effectiveness does not address whether their presence deters mass shootings, though schools with police are more likely to have emergency plans and regular safety checks](sro-research-does-not-address-mass-shooting-deterrence.md) — related
 - [Campus policing and surveillance disproportionately burden students of color, who mostly report police do not make them feel safer](campus-surveillance-disproportionately-burdens-students-of-color.md) — related
+- [CEP is associated with reduced suspension and expulsion likelihood, with larger reductions over time and for middle and high school students](cep-reduced-suspensions.md) — related

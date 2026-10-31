@@ -16,12 +16,14 @@ sources:
     author: "Stevens, E. A., Rodgers, M. A., & Powell, S. R."
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Remediating mathematics difficulty for older students appears more challenging than for younger students, with lower adjusted effects than prior elementary-focused reviews
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Stevens, E. A., Rodgers, M. A., & Powell, S. R. (2018). Intensive interventions in mathematics for upper elementary and secondary students: A meta-analysis of research. Remedial and Special Education, 39(6), 327–340. https://doi.org/10.1177/0741932517731887
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Cross-review comparison in the Discussion section. The authors state "This PET estimate (0.49) is lower than the mean effects found in prior reviews for interventions targeting primarily elementary students," citing Chodura et al. (2015) and Gersten et al. (2009).
 

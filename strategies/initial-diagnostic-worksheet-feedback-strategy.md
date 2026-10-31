@@ -50,6 +50,7 @@ The article recommends generating several diverse worksheets from a platform ite
 ## Related Strategies
 
 - [Diagnostic Assessment](diagnostic-assessment.md)
+- [Frame LLM use in biomedical education around low‐stakes formative tasks with expert‐guided verification and rationale requests](llm-low-stakes-formative-use-expert-verification-strategy.md)
 
 ## Examples
 -

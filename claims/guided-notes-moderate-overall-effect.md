@@ -16,12 +16,14 @@ sources:
     author: "Larwin, K. H., & Larwin, D. A."
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Guided notes produce a moderate positive effect on post-secondary student achievement overall
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Larwin, K. H., & Larwin, D. A. (2013). The Impact of Guided Notes on Post-Secondary Student Achievement: A Meta-Analysis. International Journal of Teaching and Learning in Higher Education, 25(1), 47-58. http://www.isetl.org/ijtlhe/
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r2`
 
 Meta-analysis of 12 useable studies yielding 27 independent effect sizes and 1,529 participants, using Hedges d with random effects models. The mean effect was "d = 0.546, p < .001", with a 95% CI of 0.342 to 0.749 excluding zero.
 

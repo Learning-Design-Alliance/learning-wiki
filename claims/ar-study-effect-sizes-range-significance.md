@@ -16,12 +16,14 @@ sources:
     author: Hakan Tekedere, Hanife Göker
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Individual study effect sizes for AR in education ranged from 0.116 to 1.968 in favor of the study groups, with 11 of 15 studies statistically significant
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Hakan Tekedere, Hanife Göker. (2016). Examining the Effectiveness of Augmented Reality Applications in Education: A Meta-Analysis. International Journal of Environmental & Science Education, 11(16), 9469-9481. https://creativecommons.org/licenses/by/4.0/
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Uncombined effect sizes reported in Table 3 and the forest plot (Figure 2) for the 15 included studies. The article reports "The effect size calculated being positive was determined between 0.116 and 1.968" and states statistical significance (p<.05) in 11 studies, with no differences in 4 studies.
 

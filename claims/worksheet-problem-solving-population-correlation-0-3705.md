@@ -16,12 +16,14 @@ sources:
     author: "Widodo, S. A., Wijayanti, A., Irfan, M., Pusporini, W., Mariah, M., & Rochmiyati, S."
     q: 2
     i: 3
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # The mean population correlation between worksheet use and problem-solving skills is r = 0.3705, falling within its confidence interval
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r1` · `q2` · `i3` large
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Widodo, S. A., Wijayanti, A., Irfan, M., Pusporini, W., Mariah, M., & Rochmiyati, S. (2023). Effects of worksheets on problem-solving skills: Meta-analytic studies. International Journal of Educational Methodology, 9(1), 151-167. https://doi.org/10.12973/ijem.9.1.151
 
-`q2 · i3`
+`q2 · i3` · `quant-synthesis · r1`
 
 Correlation-based synthesis after transforming F and t statistics to r values across the included studies; the article reports "the mean population correlation is 𝑟 = 0.3705" (r = 0.3705) with a very wide confidence interval of -2.715 to 3.097, and concludes a positive influence.
 

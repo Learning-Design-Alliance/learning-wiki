@@ -17,7 +17,7 @@ sources:
 # Use computer-delivered practice to free teacher time for explicit instruction and enable smaller instructional groupings
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article proposes that computer-delivered intervention "may provide additional practice opportunities and allow teacher-time to be dedicated to explicit instruction," and that computer-based practice might allow smaller instructional groupings, intensifying teacher-provided intervention time. It notes feasibility is unknown because most corpus interventions were researcher-provided.

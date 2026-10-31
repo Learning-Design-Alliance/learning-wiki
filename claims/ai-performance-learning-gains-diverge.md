@@ -82,3 +82,4 @@ The article reports, citing prior work on scientific inquiry with ChatGPT, that 
 - [Evidence on GenAI in chemistry education is concentrated in short-term outcomes, with durable transfer and retention rarely tested](genai-chemistry-evidence-short-term-outcomes.md) — related
 - [Metacognitive analysis activities were positively associated with transfer, but metacognitive activities showed no association with essay quality](metacognitive-analysis-transfer-association.md) — related
 - [AI over-reliance can produce inversion effects, reducing cognitive processing depth and learning outcomes](ai-inversion-effects-overreliance-reduce-learning.md) — a narrower finding that bears on this claim
+- [LLM use as a supplementary learning aid yields modest short-term knowledge gains (d = 0.31–0.71) that attenuate without durable retention](llm-shortterm-knowledge-gains-no-retention.md) — related

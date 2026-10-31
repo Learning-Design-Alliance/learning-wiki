@@ -13,12 +13,14 @@ sources:
     title: Gobodwana 2024
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Teachers in South African multilingual classrooms use code-switching, offering English content but switching to the mother tongue for elaboration and discussion
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 > **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -30,7 +32,7 @@ sources:
 
 Gobodwana, A., 2024, 'The strategies in teaching isiXhosa semantics in Foundation Phase: A systematic review', Reading & Writing 15(1), a493. https://doi.org/10.4102/rw.v15i1.493
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review reports, citing Van Staden et al. (2016) on prePIRLS 2011, that teachers use code-switching — defined by Ncoko, Osman and Cockraft as "using two or more languages in the same conversation" — in pursuit of teaching and learning goals.
 

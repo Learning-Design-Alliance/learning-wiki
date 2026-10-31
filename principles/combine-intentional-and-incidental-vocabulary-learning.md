@@ -18,7 +18,7 @@ sources:
 # Combine intentional and incidental vocabulary learning rather than relying on incidental learning alone
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 28 claims (16 for, 11 mixed, 1 against) · 19 studies (6 causal, 5 quant-synthesis, 5 review, 1 associational), `q2`–`q3` · 3 of 19 report an effect size · 23 claims rest on one study
+> **Evidence** · 28 claims (16 for, 11 mixed, 1 against) · 19 studies (7 quant-synthesis, 6 causal, 5 review, 1 associational), `q2`–`q3` · 3 of 19 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 

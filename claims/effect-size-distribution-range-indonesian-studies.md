@@ -16,12 +16,14 @@ sources:
     author: "Setiawan, A. A., Muhtadi, A., & Hukom, J."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Individual study effect sizes range from -0.07 to 3.35, with most classified as moderate to amazing effects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Setiawan, A. A., Muhtadi, A., & Hukom, J. (2022). Blended Learning and Student Mathematics Ability in Indonesia: A Meta-Analysis Study. International Journal of Instruction, 15(2), 905-916. https://doi.org/10.29333/iji.2022.15249a
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Descriptive classification of the 36 primary-study effect sizes in Table 2. The range was "-0.07 to 3.35"; the article reports 5.56% no effect, 5.56% low, 19.4% moderate, 13.89% high, 14.36% very high, and 38.89% amazing effect.
 

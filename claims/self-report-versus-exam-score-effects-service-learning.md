@@ -16,12 +16,14 @@ sources:
     author: Jami L. Warren
     q: 3
     i: 1
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Self-reported learning yields descriptively greater service-learning effects than exam scores, but the difference is not statistically significant
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i1` small
 > **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Jami L. Warren. (2012). Does Service-Learning Increase Student Learning?: A Meta-Analysis. Michigan Journal of Community Service Learning. https://quod.lib.umich.edu/m/mjcsl
 
-`q3 · i1`
+`q3 · i1` · `quant-synthesis · r2`
 
 Subcategory moderator analysis in the same meta-analysis, dividing concrete measures into exam scores, other assignment scores, and post-test cognition measures. The article reports self-report d = .365 versus exams and student assignments d = .259, both p = .000, with the quoted t-tests showing no significant difference.
 

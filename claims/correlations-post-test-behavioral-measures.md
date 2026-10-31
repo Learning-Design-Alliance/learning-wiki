@@ -51,3 +51,4 @@ Pearson correlation analyses (n = 140) on the game experiment's behavioral measu
 - [No significant group differences in motivation, accuracy, response time, or reading time between uncertain and certain groups](no-group-differences-secondary-measures.md) — related
 - [Motivation is positively related to accuracy and response time during game-based learning](motivation-accuracy-response-time-relation.md) — related
 - [Post-test performance is positively associated with accuracy, response time, uncertainty, and motivation](post-test-associated-with-accuracy-response-time-uncertainty-motivation.md) — possibly the same claim (merge candidate)
+- [Post-intervention knowledge and practice scores are positively correlated, suggesting education should be designed to bridge the knowledge-practice gap](knowledge-practice-correlation-diabetic-foot-care.md) — related

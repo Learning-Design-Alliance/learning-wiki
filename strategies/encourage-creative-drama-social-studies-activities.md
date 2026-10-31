@@ -17,7 +17,7 @@ sources:
 # Encourage and improve the use of creative drama activities in Social Studies teaching, with extra attention at the 4th-grade level
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (3 for, 3 mixed) · 2 studies, `q2`–`q3` · 2 of 2 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (3 for, 3 mixed) · 2 studies (2 quant-synthesis), `q2`–`q3` · 2 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 Based on the meta-analytic finding of a wide and positive effect on course achievement, the article recommends that "activities related to the creative drama method should be encouraged to be used in the education and training process, and efforts should be made to improve their quality". It further suggests that at the 4th-grade level, where the effect was only medium, "the quality of the work to be done to improve the effectiveness of creative drama method can be increased or alternative teaching methods can be used".

@@ -62,3 +62,4 @@ Second meta-analysis of mind-set interventions (k = 43 effect sizes, N = 57,155)
 - [Evidence for metacognitive intervention effectiveness in low-SES populations is inconsistent and weak despite the interventions' high-impact toolkit rating](metacognitive-interventions-low-ses-evidence-weak.md) — related
 - [Growth mindset beliefs are positively associated with academic achievement in nearly all nations, with stronger associations among structurally disadvantaged students](growth-mindset-achievement-association-global.md) — related
 - [Mindset interventions have only a weak effect on later academic achievement](mindset-interventions-weak-effect.md) — possibly the same claim (merge candidate)
+- [EdTech effects for disadvantaged pupils are smaller and inconsistent: no significant impact in disadvantaged-focused subgroups (d = 0.0527) and a smaller significant effect in partial-subset studies (d = 0.1624)](edtech-disadvantaged-pupils-smaller-mixed-effects.md) — related

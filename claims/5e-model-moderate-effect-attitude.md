@@ -16,18 +16,22 @@ sources:
     author: Özgür Anil, Veli Batdi
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
   - id: özgür-anil-2015-2
     resource: "https://doi.org/10.11114/jets.v3i6.1038"
     title: "Özgür Anil, Veli Batdi. (2015). A Comparative Meta-Analysis of 5E and Traditional Approaches in Turkey. Journal of Education and Training Studies. https://doi.org/10.11114/jets.v3i6.1038"
     author: Özgür Anil, Veli Batdi
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # The 5E model shows a moderate pooled effect on attitude scores versus traditional methods, with the article reporting no statistical significance on its Z-test
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r1`–`r2` · `q3` · `i2` medium
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Özgür Anil, Veli Batdi. (2015). A Comparative Meta-Analysis of 5E and Traditional Approaches in Turkey. Journal of Education and Training Studies. https://doi.org/10.11114/jets.v3i6.1038
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r2`
 
 Random effects model analysis of 8 attitude studies comparing the 5E model with traditional teaching. The article reports a mean effect size of 0.552 (SE 0.245, 95% CI 0.071-1.032) and interprets it as moderate and in favour of the 5E model.
 
@@ -50,7 +54,7 @@ Random effects model analysis of 8 attitude studies comparing the 5E model with 
 
 Özgür Anil, Veli Batdi. (2015). A Comparative Meta-Analysis of 5E and Traditional Approaches in Turkey. Journal of Education and Training Studies. https://doi.org/10.11114/jets.v3i6.1038
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r1`
 
 The article's own significance test for the attitude effect: z=2.252 at p=0.431, which the article states indicated no statistical significance, despite interpreting the pooled effect size as moderate.
 

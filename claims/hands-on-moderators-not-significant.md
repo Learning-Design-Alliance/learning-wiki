@@ -16,18 +16,22 @@ sources:
     author: Caglak, S.
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
   - id: caglak-2017-2
     resource: "https://eric.ed.gov/?id=EJ1125775"
     title: "Caglak, S. (2017). Does hands-on science practices make an ımpact on achievement in science? A meta-analysis. Journal of Education in Science, Environment and Health (JESEH), 3(1), 69-87. https://eric.ed.gov/?id=EJ1125775"
     author: Caglak, S.
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # No moderator variable significantly differentiates hands-on science effect sizes across subgroups
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Caglak, S. (2017). Does hands-on science practices make an ımpact on achievement in science? A meta-analysis. Journal of Education in Science, Environment and Health (JESEH), 3(1), 69-87. https://eric.ed.gov/?id=EJ1125775
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Mixed-effects moderator analyses across six study-level variables (Table 1). The article reports "the between -groups heterogeneities ( QM) were not significant at alpha level .05", indicating effect sizes for each moderator level were not statistically different from each other.
 
@@ -50,7 +54,7 @@ Mixed-effects moderator analyses across six study-level variables (Table 1). The
 
 Caglak, S. (2017). Does hands-on science practices make an ımpact on achievement in science? A meta-analysis. Journal of Education in Science, Environment and Health (JESEH), 3(1), 69-87. https://eric.ed.gov/?id=EJ1125775
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Parameter estimates from mixed-effects modeling (Table 2). The article reports slope parameter 95% CI estimates "captured the zero point", so subgroup contrasts were not statistically significant.
 

@@ -92,3 +92,4 @@ Spada and Tomita (2010), a meta-analysis of 41 studies, found larger effects for
 - [FFI involving extensive instruction directed at simple structures was more likely to succeed in developing implicit knowledge](extensive-ffi-simple-structures-more-likely-to-succeed.md) — related
 - [Deductive reasoning develops in stages: explicit inference around ages 5-6, modus tollens around 9-10, and explicit metalogic in adolescence](deductive-reasoning-stages-explicit-metalogic.md) — related
 - [Explicit strategy instruction, unlike implicit strategy instruction, is associated with a gain in student performance](explicit-strategy-instruction-associated-with-performance-gain.md) — related
+- [Grammatical complexity and L2 proficiency interact: complex features benefit more from input at low proficiency, while simple features benefit more from output at high proficiency](complexity-proficiency-interaction-ffi.md) — related

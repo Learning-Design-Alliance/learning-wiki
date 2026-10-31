@@ -21,7 +21,7 @@ sources:
 # Traditional Lecture-Based Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 31 claims (3 for, 19 mixed, 9 against) · 41 studies (10 causal, 10 review, 7 theoretical, 5 qualitative, 4 quant-synthesis, 2 associational, 1 design), `q1`–`q4` · 6 of 41 report an effect size · 23 claims rest on one study
+> **Evidence** · 34 claims (6 for, 19 mixed, 9 against) · 43 studies (11 review, 10 causal, 7 quant-synthesis, 7 theoretical, 5 qualitative, 2 associational, 1 design), `q1`–`q4` · 7 of 43 report an effect size · 26 claims rest on one study
 
 ## Description and scope
 
@@ -153,6 +153,9 @@ This pattern is scoped to courses where a lecturer's explanation to a whole grou
 - [Probability of failing is higher under traditional methodology](../claims/traditional-methodology-higher-failure-probability.md) [-W]
 - [Computer-assisted instruction with Frizbi Mathematics 4 improved fourth-grade mathematics achievement more than traditional lecture-based instruction](../claims/frizbi-cai-improved-achievement.md) [+W]
 - [The constructivist approach produces more positive attitudes towards lessons than traditional teaching, with an overall effect size of 0.728 across 43 Turkish studies](../claims/constructivist-approach-positive-attitudes-meta-analysis.md) [~W]
+- [Demonstration-based CPR training tended to produce more accurate performance than lecture-based approaches](../claims/demonstration-beats-lecture-cpr-training.md) [+W]
+- [Context-based learning has a statistically significant positive overall effect on academic achievement (g=0.970) compared to traditional lecture-based instruction](../claims/cbl-positive-overall-effect-academic-achievement.md) [+W]
+- [Context-based learning has a statistically significant positive overall effect on learning retention (g=0.791) compared to traditional lecture-based instruction](../claims/cbl-positive-overall-effect-learning-retention.md) [+W]
 
 ## Related Patterns
 - [Direct Instruction](direct-instruction.md) — the explain, model, guided-practice and hand-over policy; a lecture segment is its explanation step delivered to a large group

@@ -16,18 +16,22 @@ sources:
     author: Joelle Fingerhut and Mariola Moeyaert
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
   - id: joelle-fingerhut-and-mariola-moeyaert-2022-2
     resource: "https://doi.org/10.1177/10883576221081076"
     title: "Joelle Fingerhut and Mariola Moeyaert. (2022). Training Individuals to Implement Discrete Trials with Fidelity: A Meta-Analysis. Focus on Autism and Other Developmental Disabilities. https://doi.org/10.1177/10883576221081076"
     author: Joelle Fingerhut and Mariola Moeyaert
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # DTT implementation fidelity declines slightly after training ends, though the decline may reflect outliers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2`–`q3`
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2`–`q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Joelle Fingerhut and Mariola Moeyaert. (2022). Training Individuals to Implement Discrete Trials with Fidelity: A Meta-Analysis. Focus on Autism and Other Developmental Disabilities. https://doi.org/10.1177/10883576221081076
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 HLM analysis (Model 1) of maintenance phases, which occurred 4 to 224 days after the last intervention session among 51 (23%) participants. The article reports "−4.39, γ̂200 = −4.39, t(3399) = −2.86, p < .025", a significant slope difference.
 
@@ -50,7 +54,7 @@ HLM analysis (Model 1) of maintenance phases, which occurred 4 to 224 days after
 
 Joelle Fingerhut and Mariola Moeyaert. (2022). Training Individuals to Implement Discrete Trials with Fidelity: A Meta-Analysis. Focus on Autism and Other Developmental Disabilities. https://doi.org/10.1177/10883576221081076
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 The authors' outlier analysis, using the interquartile range method they describe, found no apparent maintenance difference once 14 outliers were excluded; this is an author-reported descriptive result.
 

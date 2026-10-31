@@ -16,12 +16,14 @@ sources:
     author: Saraç, H.
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Scientific process skills effects of STEM practices differ significantly by lesson type and education level, favoring science and math lessons and basic-education and higher-education students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Saraç, H. (2018). The Effect of Science, Technology, Engin eering and Mathematics-Stem Educational Practices on Students’ Learning Outcomes: A Meta-Analysis Study. TOJET: The Turkish Online Journal of Educational Technology, 17(2). https://eric.ed.gov/?id=EJ1176176
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Subgroup moderator analyses of the 13 scientific process skills effect sizes: science ES = 1.288, math ES = 0.725, other ES = 0.376; basic education ES = 0.765, secondary ES = 0.434, higher education ES = 1.325.
 

@@ -16,18 +16,22 @@ sources:
     author: Özgür Anil, Veli Batdi
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 1
   - id: özgür-anil-2015-2
     resource: "https://doi.org/10.11114/jets.v3i6.1038"
     title: "Özgür Anil, Veli Batdi. (2015). A Comparative Meta-Analysis of 5E and Traditional Approaches in Turkey. Journal of Education and Training Studies. https://doi.org/10.11114/jets.v3i6.1038"
     author: Özgür Anil, Veli Batdi
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # Effect sizes for achievement, retention and attitude were heterogeneous across studies, prompting the shift from fixed to random effects modelling
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r1` · `q3`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Özgür Anil, Veli Batdi. (2015). A Comparative Meta-Analysis of 5E and Traditional Approaches in Turkey. Journal of Education and Training Studies. https://doi.org/10.11114/jets.v3i6.1038
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r1`
 
 Heterogeneity testing for the achievement studies: Q=93.709 with 12 degrees of freedom against a critical χ2 value of 21.026 at 95% significance. The article reports the same pattern for retention (Q=41.535) and attitude (Q=42.302).
 
@@ -50,7 +54,7 @@ Heterogeneity testing for the achievement studies: Q=93.709 with 12 degrees of f
 
 Özgür Anil, Veli Batdi. (2015). A Comparative Meta-Analysis of 5E and Traditional Approaches in Turkey. Journal of Education and Training Studies. https://doi.org/10.11114/jets.v3i6.1038
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r1`
 
 The article's stated methodological decision: because the effect size distributions were heterogeneous, pooled estimates were computed under the random effects model rather than the fixed effects model for all three outcomes.
 
@@ -67,3 +71,4 @@ The article's stated methodological decision: because the effect size distributi
 - [Effect size distributions across AR-in-education studies were heterogeneous (Q=35.692, I²=60.776%), requiring a random effects model](ar-meta-analysis-heterogeneity-random-effects.md) — related
 - [The 5E model shows a large pooled effect on retention scores versus traditional methods, though the article's own Z-test is reported as non-significant](5e-model-large-effect-retention.md) — related
 - [The 5E model shows a moderate pooled effect on attitude scores versus traditional methods, with the article reporting no statistical significance on its Z-test](5e-model-moderate-effect-attitude.md) — related
+- [High heterogeneity was present among effect sizes for both academic achievement (I2≈85%) and learning retention (I2≈61%)](cbl-meta-analysis-high-heterogeneity.md) — related

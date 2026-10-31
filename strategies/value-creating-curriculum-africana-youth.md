@@ -51,6 +51,7 @@ The article recommends designing curriculum and extra-curricular activities that
 ## Related Strategies
 
 - [Coach youth to recognize problem-solving opportunities, master effective heuristics, and bolster motivation through collaboration](coach-youth-problem-solving-opportunities-heuristics-collaboration.md)
+- [Conduct longitudinal, culturally grounded, structurally informed research and develop Ubuntu-informed instruments in African and Global South higher education](culturally-grounded-structural-research-agenda.md)
 
 ## Examples
 -

@@ -71,3 +71,4 @@ In the near-transfer problem category, no significant "increase was found in the
 - [Test-score increases occurred only for identical and near-transfer problems; no increases were found for far-transfer problems in any of the three conditions](germane-load-gains-limited-to-identical-and-near-transfer-problems.md) — related
 - There are two types of germane load: one that increases with an increase in intrinsic load and one that increases as intrinsic load decreases — related
 - [Rootless Podman isolation maintained containment with no observed privilege escalation or cross-identity contamination under classroom load](rootless-podman-containment-no-violations.md) — related
+- [An AR application produced smaller test-score gains than cross-section study and higher extraneous cognitive load (Henssen et al.)](henssen-ar-lower-gains-higher-extraneous-load.md) — a narrower finding that bears on this claim

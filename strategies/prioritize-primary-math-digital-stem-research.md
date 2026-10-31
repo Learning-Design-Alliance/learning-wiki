@@ -17,7 +17,7 @@ sources:
 # Prioritize new digital technology-assisted STEM research at primary school level and in mathematics, where effects are currently weakest
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q3` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Based on the moderator findings, the author recommends where future synthesis-relevant research should concentrate: "In the future, increasing studies on a primary school level and mathematics subject discipline for digital technology-assisted STEM education is recommended". This targets the two subgroups with the smallest effect sizes (primary school d=1.257; mathematics d=1.255). The author also suggests extending meta-analysis to other nations and to outcomes beyond achievement.

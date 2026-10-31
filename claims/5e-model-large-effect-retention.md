@@ -16,18 +16,22 @@ sources:
     author: Özgür Anil, Veli Batdi
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 1
   - id: özgür-anil-2015-2
     resource: "https://doi.org/10.11114/jets.v3i6.1038"
     title: "Özgür Anil, Veli Batdi. (2015). A Comparative Meta-Analysis of 5E and Traditional Approaches in Turkey. Journal of Education and Training Studies. https://doi.org/10.11114/jets.v3i6.1038"
     author: Özgür Anil, Veli Batdi
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # The 5E model shows a large pooled effect on retention scores versus traditional methods, though the article's own Z-test is reported as non-significant
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r1` · `q3` · `i3` large
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Özgür Anil, Veli Batdi. (2015). A Comparative Meta-Analysis of 5E and Traditional Approaches in Turkey. Journal of Education and Training Studies. https://doi.org/10.11114/jets.v3i6.1038
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r1`
 
 Random effects model analysis of 5 retention studies comparing the 5E model with traditional teaching. The article reports ES=1.417 and interprets it as a large positive effect on students' retention scores.
 
@@ -50,7 +54,7 @@ Random effects model analysis of 5 retention studies comparing the 5E model with
 
 Özgür Anil, Veli Batdi. (2015). A Comparative Meta-Analysis of 5E and Traditional Approaches in Turkey. Journal of Education and Training Studies. https://doi.org/10.11114/jets.v3i6.1038
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r1`
 
 The article's own significance test for the retention effect: Z=3.255 at p=0.311, which the article itself states had no statistical significance, in tension with its description of ES=1.417 as significant.
 

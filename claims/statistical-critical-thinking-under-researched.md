@@ -16,12 +16,14 @@ sources:
     author: "Sa’idah, N., Jailani, Sudiyatno, & Retnawati, H."
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Statistical critical thinking is under-researched relative to mathematical critical thinking in this literature
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Sa’idah, N., Jailani, Sudiyatno, & Retnawati, H. (2026). Innovative teaching models and critical thinking in mathematics and statistics education: A meta-analytical review. International Journal of Research in Education and Science (IJRES), 12(1), 140-157. https://doi.org/10.46328/ijres.5054
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 The review's own synthesis of its coded dataset: of 19 included studies, only two measured statistical critical thinking. The article reports effect sizes of 0.192 (less strong) for group investigation and 1.812 (very strong) for blended learning, and states the limited research "underscores the need for further studies".
 

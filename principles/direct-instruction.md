@@ -19,7 +19,7 @@ sources:
 # Direct Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 38 claims (18 for, 16 mixed, 4 against) · 45 studies (16 causal, 12 quant-synthesis, 8 review, 6 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 9 of 45 report an effect size · 30 claims rest on one study
+> **Evidence** · 39 claims (18 for, 17 mixed, 4 against) · 46 studies (16 causal, 12 quant-synthesis, 9 review, 6 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 9 of 46 report an effect size · 31 claims rest on one study
 
 ## Conditional relationship
 
@@ -123,6 +123,7 @@ Immediate procedural performance, conceptual understanding, transfer, delayed re
 - [Video modeling examples improve hypothesis and argumentation quality in an inquiry training task compared to unguided inquiry](../claims/video-modeling-improves-inquiry-products-training.md) [+W]
 - [Instruction in methods of study improved school children's work when the instruction was specific to the tasks being undertaken](../claims/study-methods-instruction-improves-work.md) [+W]
 - [In young elementary students with a comparing-and-contrasting activity in instruction, problem solving prior to instruction (PF) showed no advantage over direct instruction (DI) for conceptual knowledge](../claims/pf-no-advantage-young-students-conceptual-knowledge.md) [+W]
+- [The degree and type of guidance determines the effectiveness of digital inquiry, moderated by learners' prior knowledge](../claims/guidance-moderates-digital-inquiry.md) [~W]
 
 ## Related Principles
 - [Modeling](modeling.md) — direct instruction depends on visible demonstration, not verbal explanation alone

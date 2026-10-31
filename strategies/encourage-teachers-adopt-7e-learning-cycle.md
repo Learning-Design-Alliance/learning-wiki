@@ -17,7 +17,7 @@ sources:
 # Encourage teachers to incorporate the 7E learning cycle into science teaching and customize it to their own style
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study, `q3` · 1 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 Based on the very large pooled effect size, the authors recommend that "teachers should be encouraged to incorporate this strategy into their teaching, and to gradually customize it into their own personalized teaching style". They further suggest including university-level researchers as counselors in in-service training courses to ease moving the findings to school teachers, and designing more elaborate 7E interventions to exploit the educational benefits given the inconsistency between effect sizes and durations.

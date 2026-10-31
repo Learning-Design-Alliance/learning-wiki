@@ -50,3 +50,4 @@ Path analyses per user type in AMOS 6.0 tested the C-TAM-TPB model. The abstract
 - [Perceived usefulness and perceived ease of use of GenAI tools significantly predict teachers' attitudes and behavioural intention](usefulness-ease-predict-attitude-intention-genai.md) — related
 - [The extended TAM model explains 42.3% of the variance in intention to use mobile library applications](extended-tam-explains-42-percent-variance-mla-intention.md) — related
 - [Attitude is the most powerful predictor of behavioral intention to use MALL among higher education learners in Vietnam.](attitude-strongest-predictor-mall-intention.md) — related
+- [Perceived usefulness, rather than perceived ease of use, was the primary predictor of LLM adoption across TAM-based studies](perceived-usefulness-predicts-llm-adoption.md) — related

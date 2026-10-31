@@ -16,12 +16,14 @@ sources:
     author: Utomo, H. D.; Aliman, M.
     q: 1
     i: "?"
+    kind: review
+    rigour: 1
 ---
 
 # Prior studies report low understanding of climate change among students and pre-service or early-career teachers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q1` argument or single case
+> **Evidence** · 1 study · review `r1` · `q1`
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Utomo, H. D.; Aliman, M. (2021). The meta-analysis of climate resilience education in higher education for transformation based on experiential learning models. Review of International Geographical Education (RIGEO), 11(2), 302-316. https://doi.org/10.33403rigeo.754200
 
-`q1 · i?`
+`q1 · i?` · `review · r1`
 
 The review attributes this finding to prior studies it cites (including Bozkurt 2019; Chang & Pascua 2015; Lane 2015; Nayan et al. 2020), reporting low climate change understanding among students and pre-service or early-career teachers. The reviewed studies' designs are not described in this article.
 

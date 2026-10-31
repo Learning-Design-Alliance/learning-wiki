@@ -58,6 +58,7 @@ The handbook defines collaborative approaches to adult learning as participatory
 - [Youth Participatory Action Research (YPAR)](../strategies/youth-participatory-action-research-ypar.md)
 - [Challenge Based Learning](../strategies/challenge-based-learning-cbl.md)
 - [Fund collaborative participatory teams and broaden dissemination to bridge edtech design and research for MLLs](../strategies/participatory-collaborative-funding-bridge-mll-design-research.md)
+- [Jelajah Alam Sekitar (JAS) learning approach](../products/jelajah-alam-sekitar-jas-learning-approach.md)
 
 ## Key Sources
 - You Can Be in a Group and Still Not Cooperate: Collaborative Approaches and Cooperative Learning Activities for Adult Learners. (1993). Parma City School District. https://eric.ed.gov/?id=ED361492

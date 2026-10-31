@@ -61,3 +61,6 @@ Subgroup analysis by subject area (Table 4): mathematics (4 effect quantities, E
 - [Scientific discipline does not significantly moderate PBL’s effect on secondary science achievement](pbl-discipline-moderator-no-significant-difference.md) — related
 - [STEM education combined with a mastery learning approach produced the largest effect on learning achievement (g = 2.09)](seitla-mastery-learning-largest-effect.md) — related
 - [Digital technology-assisted STEM education shows a significantly larger effect on science achievement (d=2.838) than on mathematics achievement (d=1.255)](stem-digital-effect-science-larger-than-math.md) — reports the opposite
+- [Five TPACK-related moderators are most salient across meta-analyses: grade level, assessment, duration, instructional modality, and mathematics subject matter](five-tpack-moderators-salient.md) — related
+- [Flipped classrooms benefit students in STEM subjects such as chemistry, engineering, mathematics, and physics less than students in other subjects](flipped-classroom-smaller-effects-stem-subjects.md) — reports the opposite
+- [Stratified teaching positively affects all seven studied subjects, with larger effects in English, physics, and geography than in chemistry, biology, and mathematics](stratified-teaching-subject-effects-english-physics-geography.md) — related

@@ -17,12 +17,14 @@ sources:
     author: "Demir, S., & Başol, G."
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # The article reports that usage of specialized software increased the positive effect of CAE on mathematics achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2014 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Demir, S., & Başol, G. (2014). Effectiveness of Computer-Assisted Mathematics Education (CAME) over Academic Achievement: A Meta-Analysis Study. Educational Sciences: Theory & Practice, 14(5), 2026-2035. http://www.edam.com.tr/estp
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Authors' discussion statement about the moderator 'usage of specialized software' among the coded study characteristics; descriptive data show specialized software was used in 55.0% of the included studies. No test statistic or effect size for this moderator is printed.
 

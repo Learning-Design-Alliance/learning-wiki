@@ -16,12 +16,14 @@ sources:
     author: "Yujin Lee, Mary M. Capraro, Robert M. Capraro & Ali Bicer"
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # After removing one outlier study, metacognitive training still shows a statistically significant positive effect on algebraic reasoning (d=0.973, SE=0.196)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Yujin Lee, Mary M. Capraro, Robert M. Capraro & Ali Bicer. (2018). A Meta-Analysis: Improvement of Students’ Algebraic Reasoning through Metacognitive Training. International Education Studies, 11(10). https://doi.org/10.5539/ies.v11n10p42
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Reconstructed meta-analysis excluding the outlier study, over 17 studies (k=17, n=1397). The article reports the pooled estimate "was d=0.973 with SE=0.196" and characterizes it as statistically significant; no additional effect-size statistic is printed for this pooled result.
 

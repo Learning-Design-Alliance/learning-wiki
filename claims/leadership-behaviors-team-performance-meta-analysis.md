@@ -49,3 +49,4 @@ The article reports, citing Burke et al. (2006), a meta-analysis of team leaders
 - [Attitudes reflective of cooperation account for 37% of the variance in team learning, with psychological safety, cohesion, and trust prominent but understudied](team-attitudes-predict-team-learning.md) — related
 - [Team behaviors explain up to 42% of the variance in team performance, with action processes and organizational citizenship behaviors the strongest contributors](team-behaviors-explain-variance-team-performance.md) — related
 - [Team attitudes predict team performance, with collective efficacy (20%) and psychological safety (17%) explaining the most variance](team-attitudes-predict-team-performance.md) — related
+- [Peer tutoring benefits extend to the tutors themselves, including confidence, autonomy, leadership, teamwork, and empowerment](peer-tutor-role-benefits-to-tutors.md) — related

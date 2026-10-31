@@ -16,12 +16,14 @@ sources:
     author: "Kansızoğlu, N. & Bekiroğlu, N."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # None of five moderators (pilot study, retention test, word-selection method, vocabulary outcome, number of words taught) significantly explained heterogeneity in effect sizes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Kansızoğlu, N. & Bekiroğlu, N. (2025). The effect of vocabulary development interventions on cognitive outcomes of vocabulary: A meta-analysis study. Journal of Pedagogical Research, 9(1), 123-148. https://doi.org/10.33902/JPR.202532083
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Subgroup analyses across the 43 theses (smaller k per moderator due to unreported data). The article reports "none had a significant effect on explaining the heterogeneity in effect sizes", with all Qb values below critical χ² thresholds.
 
@@ -45,3 +47,4 @@ Subgroup analyses across the 43 theses (smaller k per moderator due to unreporte
 ## Related Claims
 - [The combined meta-regression model of sample size and number of vocabulary items taught is significant, accounting for 44.7% of between-study variance](combined-meta-regression-model-447-percent-variance.md) — related
 - [Number of vocabulary words taught alone does not significantly predict effect sizes in meta-regression](number-words-taught-non-significant-meta-regression.md) — a narrower finding that bears on this claim
+- [Question type, stem type, MCQ source, and web accessibility did not independently explain LLM accuracy heterogeneity in biomedical MCQ meta‐regressions](mcq-covariates-not-explaining-llm-accuracy-heterogeneity.md) — related

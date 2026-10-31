@@ -13,12 +13,14 @@ sources:
     title: Gobodwana 2024
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # African children are primarily schooled in English from Grade 4 onwards, and the language-in-education policy has failed to promote indigenous African languages
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 > **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -30,7 +32,7 @@ sources:
 
 Gobodwana, A., 2024, 'The strategies in teaching isiXhosa semantics in Foundation Phase: A systematic review', Reading & Writing 15(1), a493. https://doi.org/10.4102/rw.v15i1.493
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 Under research question 1, the review reports, citing Taylor (2007) and Kamwangamalu (2003), that the DBE language policy failed to work for all languages and that a language shift from indigenous African languages to English is observable in urban Black communities.
 

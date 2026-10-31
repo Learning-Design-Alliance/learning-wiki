@@ -96,3 +96,4 @@ The validity sample comprised principal ratings linked to value-added indicators
 - [FFL scores were not associated with school leaders' estimated contributions to student achievement growth](ffl-scores-not-associated-achievement-growth.md) — related
 - [FFL scores correlate more strongly with contributions to math achievement than to achievement in other subjects](ffl-math-value-added-stronger-correlation.md) — related
 - [Higher FFL scores associate with larger value-added for middle school principals but not for elementary or high school principals](ffl-middle-school-only-value-added-association.md) — related
+- [PD programs with larger impacts on teacher-level outcomes tended to have significantly larger mean impacts on student achievement](pd-teacher-impacts-predict-student-impacts.md) — related

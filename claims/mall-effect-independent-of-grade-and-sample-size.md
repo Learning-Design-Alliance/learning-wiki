@@ -16,12 +16,14 @@ sources:
     author: Imtiaz Hassan Taj, Norrihan Binti Sulan, Muhammad Aslam Sipra, Waqar Ahmad
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # MALL effect sizes show no visible correlation with grade level or sample size
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r1` · `q2`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Imtiaz Hassan Taj, Norrihan Binti Sulan, Muhammad Aslam Sipra, Waqar Ahmad. (2016). Impact of Mobile Assisted Language Learning (MALL) on EFL: A Meta-Analysis. Advances in Language and Literary Studies 7(2). https://doi.org/10.7575/aiac.alls.v.7n.2p.76
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r1`
 
 Plotted comparisons of effect sizes against grade levels (Figure 1) and sample sizes (Figure 2) across the 13 studies. The article reports "no corelation visible" in either plot; no correlation coefficient is printed, so no magnitude is reported.
 

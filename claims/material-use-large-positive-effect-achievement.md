@@ -16,12 +16,14 @@ sources:
     author: Zeynel KABLAN, Beyda TOPAN, Burak ERKAN
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Use of educational materials in classroom instruction has a large positive effect on students' academic achievement (g = 1.269)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
 > **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Zeynel KABLAN, Beyda TOPAN, Burak ERKAN. (2013). The Effectiveness Level of Material Use in Classroom Instruction: A Meta-analysis Study. Educational Sciences: Theory & Practice. https://doi.org/10.12738/estp.2013.3.1692
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r2`
 
 Meta-analysis of 57 experimental and quasi-experimental studies from Turkey (2000–2012) using Hedge's g with 95% confidence intervals. The random effects model yielded "the effect size of 1.269", with a standard error of 0.106 and confidence intervals of 1.4846 and 1.0581, classified as large.
 

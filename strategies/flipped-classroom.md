@@ -63,6 +63,7 @@ The model aligns with [Active Learning](../principles/active-learning.md): class
 - [Just-in-Time Teaching](just-in-time-teaching.md) — uses pre-class quiz responses to adapt the live session
 - [Case-Based Learning](case-based-learning.md) — a common use of reclaimed class time
 - [Use team-produced learner-generated materials built with user-friendly authoring tools as the in-class inquiry activity in a flipped language class](team-learner-generated-materials-strategy.md)
+- [Instructors redesigning higher education courses should implement flipped classrooms as an effective pedagogical practice while attending to subject-specific and pre-class-engagement conditions](flipped-classroom-instructional-redesign-strategy.md)
 
 ## Examples
 - **[Flipped Learning](../principles/flipped-learning.md)** — the general pattern this strategy instantiates; see also [Flipped Classroom](../principles/flipped-learning.md).

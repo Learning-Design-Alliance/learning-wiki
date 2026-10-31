@@ -17,12 +17,14 @@ sources:
     author: Joelle Fingerhut and Mariola Moeyaert
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Modeling as a training component shows no statistically significant effect on DTT implementation fidelity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -39,7 +41,7 @@ sources:
 
 Joelle Fingerhut and Mariola Moeyaert. (2022). Training Individuals to Implement Discrete Trials with Fidelity: A Meta-Analysis. Focus on Autism and Other Developmental Disabilities. https://doi.org/10.1177/10883576221081076
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 HLM moderator analysis (Model 2) in the 46-study meta-analysis tested modeling as a moderator of the intervention effect. The article reports "1.35%, γ̂200 = 1.35, t(3692) = 0.91, p =.36", a non-significant result; equivalence was not tested.
 
@@ -79,3 +81,4 @@ Model 2 of the HLM meta-analysis with modeling as moderator. The moderation effe
 - [Behavioral skills training and other trainings raise DTT implementation fidelity from a low baseline of 40.61% to over 90% accuracy by the end of training](bst-improves-dtt-implementation-fidelity.md) — related
 - [Complete behavioral skills training produces significantly higher DTT implementation fidelity than trainings using only one, two, or three BST components](bst-more-effective-than-partial-component-training.md) — related
 - [Rehearsal as a training component shows no statistically significant effect on DTT implementation fidelity](rehearsal-component-not-significant.md) — related
+- [Educator training improves implementation fidelity of interventions for students with disabilities, with a large mean effect size of g = 1.08](educator-training-large-effect-implementation-fidelity-g108.md) — related

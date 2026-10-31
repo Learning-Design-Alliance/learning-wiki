@@ -16,12 +16,14 @@ sources:
     author: "Sugano, S. G. C., & Nabua, E. B."
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Inquiry-based learning has the largest mean effect size on chemistry academic performance among the treatment categories (d = 1.783)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Sugano, S. G. C., & Nabua, E. B. (2020). Meta-Analysis on the Effects of Teaching Methods on Academic Performance in Chemistry. International Journal of Instruction, 13(2), 881-894. https://doi.org/10.29333/iji.2020.13259a
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r2`
 
 Random-effects synthesis of the treatment categories in Table 3 (inquiry-based learning: N = 828, 95% CI 1.118–2.449, Z = 5.253, p = 0.000). The category ranking is the review's own comparison of weighted mean effect sizes across the qualified studies.
 

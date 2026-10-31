@@ -16,12 +16,14 @@ sources:
     author: "Ergul Sonmez, E., & Cakir, H."
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Twelve of the nineteen included studies examined web 2.0 in English as a foreign language teaching, indicating wikis and blogs are concentrated in EFL contexts
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Ergul Sonmez, E., & Cakir, H. (2021). Effect of Web 2.0 technologies on academic performance: A meta-analysis study. International Journal of Technology in Education and Science (IJTES), 5(1), 108-127. https://doi.org/10.46328/ijtes.161
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Descriptive analysis of study characteristics (Table 3): writing performance was the most common dependent variable (8 studies, 42.10%) and English the most common course (12 studies, 63.16%). The authors conclude "wikis and blogs are used most effectively in foreign language teaching".
 

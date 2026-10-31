@@ -16,12 +16,14 @@ sources:
     author: "Mevlut AYDOGMUS & Cihad SENTURK"
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Effect of learning stations does not differ significantly by application duration
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Mevlut AYDOGMUS & Cihad SENTURK. (2019). THE EFFECTS OF LEARNING STATIONS TECHNIQUE ON ACADEMIC ACHIEVEMENT: A META-ANALYTIC STUDY. Research in Pedagogy, Vol.9, No.1. https://doi.org/10.17810/2015.87
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Subgroup analysis dividing studies into three duration groups: 2 weeks and less, 3-4 weeks, and 5 weeks and more. Descriptively, 3-4 weeks had the highest effect size (1.192) and 5 weeks and more the lowest (0.703), but the difference was not significant.
 
@@ -48,3 +50,5 @@ Subgroup analysis dividing studies into three duration groups: 2 weeks and less,
 - [The effect of the 7E learning cycle does not differ significantly by school level, publication type, or intervention duration](7e-effect-no-difference-school-level-publication-duration.md) — related
 - [Application period, publication type, database, grade level, scale used, school starting age, country and sample size do not significantly moderate the effect of student-centred methods on mathematics achievement](non-significant-moderators-meta-analysis-primary-math.md) — related
 - [The effect of multiple intelligence practices on achievement increases as the implementation period becomes longer](mi-effect-increases-with-implementation-period.md) — reports the opposite
+- [Effect of MIT-based instruction does not differ significantly by duration of experimental procedure](mit-effect-homogeneous-experiment-duration.md) — related
+- [Publication type, course type, educational level, and experimental duration did not significantly moderate the effect of context-based learning on academic achievement](cbl-achievement-non-significant-moderators.md) — related

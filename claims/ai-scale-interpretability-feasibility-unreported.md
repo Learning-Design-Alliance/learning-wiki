@@ -50,3 +50,4 @@ Assessment of interpretability (score distributions, missing data, floor/ceiling
 - [Research on AI support for EL literacy remains limited, narrow in scope, and lacking for diverse EL subgroups](ai-el-literacy-research-gaps.md) — related
 - [AI-based assessment practices within PBL contexts remain underdeveloped, with limited empirical evidence on automated feedback, formative assessment, and learning analytics](ai-pbl-assessment-underdeveloped-gap.md) — related
 - [A 2024 systematic review identified 22 studies validating 16 AI literacy scales, most of them self-report rather than performance-based](review-22-studies-16-ai-literacy-scales.md) — related
+- [The evidence base for AI-SSP assessment remained concentrated in pilot, feasibility, proof-of-concept, and validation work, with only 10% of studies providing evidence beyond initial development or short-term evaluation](ai-ssp-evidence-maturity-mostly-feasibility.md) — related

@@ -66,3 +66,4 @@ Heterogeneity analysis within the same random-effects meta-analysis. Cochran's Q
 ## Related Claims
 - [Both autonomy support and structure elevate students' motivation, engagement, and need satisfaction with moderate to large effect sizes](autonomy-structure-student-outcomes.md) — related
 - [A minority of studies report negative autonomy support–structure correlations, concentrated among teacher-report measures](negative-correlations-teacher-reports.md) — related
+- [Teachers' provision of classroom structure correlates positively with students' achievement, engagement, and competence beliefs, and shows a statistically non-significant negative relationship with disengagement](classroom-structure-correlational-outcome-links.md) — related

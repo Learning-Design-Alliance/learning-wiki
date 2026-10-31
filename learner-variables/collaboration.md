@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 67 claims (53 show a difference, 8 mixed, 6 no difference) · 57 studies (16 causal, 12 review, 11 qualitative, 8 associational, 5 design, 5 theoretical), `q1`–`q3` · 5 of 57 report an effect size · 67 claims rest on one study
+> **Evidence** · 69 claims (55 show a difference, 8 mixed, 6 no difference) · 59 studies (16 causal, 13 review, 11 qualitative, 8 associational, 5 design, 5 theoretical, 1 quant-synthesis), `q1`–`q3` · 5 of 59 report an effect size · 69 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -109,6 +109,8 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Online collaborative tools positively and significantly influence student interaction in work groups.](../claims/collaborative-tools-boost-group-interaction.md) [+M] — instruction changes it
 - [Teacher-student interaction has a positive and significant influence on student interaction in work groups during online collaborative learning.](../claims/teacher-student-interaction-boosts-group-interaction.md) [+M] — instruction changes it
 - [Observers rated collaboration quality as good on most dimensions for both versions](../claims/good-collaboration-quality-most-dimensions.md) [+M] — instruction changes it
+- [Flipped classroom improves cooperation and communication skills (pooled RR 1.60)](../claims/fc-cooperation-communication-rr-160.md) [+M] — instruction changes it
+- [Peer tutoring benefits extend to the tutors themselves, including confidence, autonomy, leadership, teamwork, and empowerment](../claims/peer-tutor-role-benefits-to-tutors.md) [+M] — instruction changes it
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

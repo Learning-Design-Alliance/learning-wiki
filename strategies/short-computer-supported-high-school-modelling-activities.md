@@ -17,7 +17,7 @@ sources:
 # Implement modelling as short, computer-simulation-supported activities at the high school level
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q3` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 Based on its moderator analyses, the article concludes that "the setting that produces the most optimal learning effects is short activities conducted at a high school level supported by computer simulations as a medium for modelling". The strategy directs curriculum designers toward brief, simulation-supported modelling tasks for high school mathematics rather than semester-long treatments. The article also recommends balancing provided guidance, since overly detailed procedure descriptions without room to explore are not effective inquiry.

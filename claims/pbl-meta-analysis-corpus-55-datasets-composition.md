@@ -16,12 +16,14 @@ sources:
     author: Ufuk Uluçınar
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # The meta-analysis corpus comprised 55 datasets drawn predominantly from Turkish studies and middle-school settings
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Ufuk Uluçınar. (2022). The Effect of Problem-Based Learning in Science Education on Academic Achievement: A Meta-Analytical Study. Science Education International, 34(2), 72-85. https://doi.org/10.33828/sei.v34.i2.1
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Descriptive statistics (RQ1, Table 1) on the 55 datasets retrieved from ERIC, Scopus, Web of Science, ProQuest, Taylor and Francis, CoHE National Thesis Center, and Wiley Online after systematic screening of 566 initial records.
 

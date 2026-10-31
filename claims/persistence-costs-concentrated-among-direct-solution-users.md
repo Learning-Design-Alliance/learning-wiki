@@ -105,7 +105,7 @@ The article reports, citing Liu et al. (2026), a randomized controlled trial in 
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Should help stop at a hint rather than give the solution, and what happens when learners can get the answer directly?* This table gathers the studies behind this claim and the 20 narrower claims that bear on it: **20 distinct studies** (7 causal, 5 theoretical, 3 associational, 2 review, 2 design, 1 qualitative), `q1`–`q4`, 3 of 20 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*When the support can do the task for the learner (AI assistants), does it cost independent performance?* This table gathers the studies behind this claim and the 20 narrower claims that bear on it: **20 distinct studies** (7 causal, 5 theoretical, 3 associational, 2 review, 2 design, 1 qualitative), `q1`–`q4`, 3 of 20 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|

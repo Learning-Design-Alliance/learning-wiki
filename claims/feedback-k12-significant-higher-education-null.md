@@ -16,12 +16,14 @@ sources:
     author: "Nalline S. Baliram & Jeffrey J. Youde"
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # Feedback effects are significant at the K-12 level (g = .55) but non-significant in higher education (g = -.01)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r1` · `q3` · `i2` medium
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Nalline S. Baliram & Jeffrey J. Youde. (2018). A Meta-analytic Synthesis: Examining the academic impacts of feedback on student achievement. International Dialogues on Education, 5(2), 76-90. https://portal.issn.org/resource/ISSN/2198-5944
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r1`
 
 Moderator analysis of the same 26 data sets split by grade level into K-12 and higher education categories. The K-12 subgroup was significant with "Hedges’ g = .55"; the higher education subgroup was not, and the authors call it inconclusive.
 

@@ -53,3 +53,4 @@ The article's motivating statement about the frequentist GLASSO: it "has difficu
 - [Changes in ICT career aspirations are not systematically linked to contemporaneous changes in other occupational domains](ict-aspirations-independent-of-other-career-domains.md) — related
 - [Sensitivity is better for the frequentist GLASSO than for the Bayesian GLASSO, though Bayesian GLASSO performance is usually close](frequentist-glasso-higher-sensitivity-network-estimation.md) — related
 - [Non-regularized graphical model methods are specifically designed for low-dimensional data common in the social-behavioral sciences](ggmnonreg-designed-for-low-dimensional-data.md) — related
+- [The Bayesian meta-analytic approach provides an assessment of uncertainty that includes the probability that a relationship is positive](bayesian-meta-analysis-probability-positive-benefit.md) — related

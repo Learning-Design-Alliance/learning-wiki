@@ -16,12 +16,14 @@ sources:
     author: "Funa, A. A., & Prudente, M. S."
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # PBL has a large and positive effect (ES = .871) on secondary students’ achievement in science compared with conventional teaching
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Funa, A. A., & Prudente, M. S. (2021). Effectiveness of problem-based learning on secondary students’ achievement in science: A meta-analysis. International Journal of Instruction, 14(4), 69-84. https://doi.org/10.29333/iji.2021.1445a
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r2`
 
 Meta-analysis of 11 quasi-experimental studies (2016–2020) involving 1422 secondary students, computed with Comprehensive Meta-Analysis version 3 using Hedge’s g. The article reports the pooled random-effects ES of .871, described as "significantly large and positive effect". Fixed-effects ES was 0.647; heterogeneity was high (I2 = 84.145).
 

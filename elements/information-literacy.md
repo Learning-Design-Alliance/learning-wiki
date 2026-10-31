@@ -13,7 +13,7 @@ generated:
 # Information Literacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 21 claims (9 for, 9 mixed, 3 against) · 21 studies (8 causal, 5 qualitative, 3 associational, 2 review, 2 theoretical, 1 design), `q1`–`q3` · 1 of 21 report an effect size · 20 claims rest on one study
+> **Evidence** · 22 claims (10 for, 9 mixed, 3 against) · 22 studies (8 causal, 5 qualitative, 3 review, 3 associational, 2 theoretical, 1 design), `q1`–`q3` · 1 of 22 report an effect size · 21 claims rest on one study
 
 ## Description
 Information literacy is the element in which learners identify information needs, locate sources, evaluate credibility, and use information responsibly. It is useful when tasks require judgment about evidence rather than mere retrieval.
@@ -57,6 +57,7 @@ Information literacy is the element in which learners identify information needs
 - [Trained ninth-graders became more critical toward less reliable links than controls, with the effect persisting three weeks for the least reliable (bad) links](../claims/sourcing-intervention-lower-ratings-less-reliable-links.md) [+M] — attached 2026-10-22 from Ana Pérez et al. (2018), which proposed "Knowledge application task: rating search-result links contrasted on three source dimensions"; tests this page's relationship.
 - [Comparative evaluation of AI output taught students that AI is not infallible and reinforced critical reading](../claims/ai-comparative-evaluation-critical-reading.md) [+W]
 - [At the individual level, most students showed no reliable change in credibility evaluation skills, while 9–18% showed reliable positive change depending on the skill](../claims/individual-level-rci-credibility-change.md) [~W]
+- [Unstructured LLM use is associated with reduced engagement with primary reference texts and lower ability to identify hallucinations](../claims/unguided-llm-use-critical-appraisal-erosion.md) [+W]
 
 ## The evidence by question
 - *Does teaching learners how to check a source improve their judgments of unfamiliar sources, and how much can one session do?* [Civic Online Reasoning Instruction Improves Evaluation](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+S]

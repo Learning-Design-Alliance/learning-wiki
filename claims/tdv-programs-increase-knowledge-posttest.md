@@ -16,12 +16,14 @@ sources:
     author: Lisa De La Rue, Joshua R. Polanin, Dorothy L. Espelage, Terri D. Pigott
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # School-based teen dating violence prevention programs increase dating violence knowledge at posttest (g = 0.22)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i3` large
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Lisa De La Rue, Joshua R. Polanin, Dorothy L. Espelage, Terri D. Pigott. (2017). A Meta-Analysis of School-Based Interventions Aimed to Prevent or Reduce Violence in Teen Dating Relationships. Review of Educational Research. https://doi.org/10.3102/0034654316632061
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r3`
 
 Three-level random-effects meta-analysis of 13 studies contributing 15 effect sizes on dating violence knowledge, drawn from two-group experimental or quasi-experimental school studies. The pooled effect was "significantly different from zero (p < .01)"; effect sizes ranged from 1.23 to −0.04.
 

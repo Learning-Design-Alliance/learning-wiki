@@ -49,6 +49,7 @@ The commentary closes with an agenda for moving culture to the center of school 
 ## Related Strategies
 
 - [Support self-concept fit through asset-based and culturally sustaining pedagogies, identity-connection assignments, and affinity spaces](culturally-sustaining-pedagogies-self-concept-fit.md)
+- [Conduct longitudinal, culturally grounded, structurally informed research and develop Ubuntu-informed instruments in African and Global South higher education](culturally-grounded-structural-research-agenda.md)
 
 ## Examples
 -

@@ -16,12 +16,14 @@ sources:
     author: M. Rais Ridwan, Samsul Hadi, Jailani Jailani
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # The 22 included studies are heterogeneous, requiring a random-effects model
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 M. Rais Ridwan, Samsul Hadi, Jailani Jailani. (2022). A meta-analysis study on the effectiveness of a cooperative learning model on vocational high school students' mathematics learning outcomes. Participatory Educational Research, 9(4). http://dx.doi.org/10.17275/per.22.97.9.4
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Heterogeneity test on the 22 pooled studies (Table 2). The article adds that "the parameter value 𝐼2 obtained 52.2%" (moderate heterogeneity) and τ² = 0.0858, so a random-effects model was used.
 

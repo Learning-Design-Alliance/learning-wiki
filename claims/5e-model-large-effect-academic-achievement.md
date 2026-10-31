@@ -16,18 +16,22 @@ sources:
     author: Özgür Anil, Veli Batdi
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 2
   - id: özgür-anil-2015-2
     resource: "https://doi.org/10.11114/jets.v3i6.1038"
     title: "Özgür Anil, Veli Batdi. (2015). A Comparative Meta-Analysis of 5E and Traditional Approaches in Turkey. Journal of Education and Training Studies. https://doi.org/10.11114/jets.v3i6.1038"
     author: Özgür Anil, Veli Batdi
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # The 5E instructional model shows a large, significant pooled effect on academic achievement versus traditional teaching methods in Turkish studies (2008-2014)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3` · `i3` large
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Özgür Anil, Veli Batdi. (2015). A Comparative Meta-Analysis of 5E and Traditional Approaches in Turkey. Journal of Education and Training Studies. https://doi.org/10.11114/jets.v3i6.1038
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r2`
 
 Meta-analysis (analysis of analyses) of 13 Turkish pretest-posttest control-group studies on the 5E model, pooled under the random effects model. The article reports "the effect size value was ES=1.132" with a 95% CI of 0.665 to 1.599, classified as large by Cohen (1992).
 
@@ -50,7 +54,7 @@ Meta-analysis (analysis of analyses) of 13 Turkish pretest-posttest control-grou
 
 Özgür Anil, Veli Batdi. (2015). A Comparative Meta-Analysis of 5E and Traditional Approaches in Turkey. Journal of Education and Training Studies. https://doi.org/10.11114/jets.v3i6.1038
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Fixed effects model analysis of the same 13 achievement studies. The article reports a mean effect size of 0.956 (SE 0.084, 95% CI 0.791-1.121) and states the Z-test "yielded z=11.350, indicating that the analysis was of statistical significance".
 
@@ -65,3 +69,4 @@ Fixed effects model analysis of the same 13 achievement studies. The article rep
 - [Computer-based teaching has a large, positive, significant effect on students' academic success compared with traditional teaching methods in Turkish studies from 2006-2014](cbt-large-positive-effect-academic-success-turkey-meta-analysis.md) — related
 - [Control groups taught with traditional methods in Turkish geometry and numbers theses show a large average pretest-posttest gain of about 0.83 standard deviations](traditional-methods-control-group-gain-083-sd.md) — related
 - [Vocabulary development interventions have a large average positive effect on cognitive vocabulary outcomes (g = 1.179) compared with traditional teaching methods](vocabulary-interventions-large-average-effect-g-1179.md) — related
+- [MIT-based instruction shows a large overall positive effect on students' academic achievement in a meta-analysis of 75 Turkish experimental theses and dissertations](mit-instruction-large-overall-effect-achievement.md) — related

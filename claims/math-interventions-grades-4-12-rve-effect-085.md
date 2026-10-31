@@ -16,12 +16,14 @@ sources:
     author: "Stevens, E. A., Rodgers, M. A., & Powell, S. R."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Mathematics interventions for students with mathematics difficulty in grades 4–12 show a statistically significant pooled treatment effect of 0.85 under a random-effects model
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Stevens, E. A., Rodgers, M. A., & Powell, S. R. (2018). Intensive interventions in mathematics for upper elementary and secondary students: A meta-analysis of research. Remedial and Special Education, 39(6), 327–340. https://doi.org/10.1177/0741932517731887
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Meta-analysis of 25 studies (102 effect sizes) published 1990–2015, using Hedge's g and robust variance estimation with ρ = 0.8. The pooled estimate was "a statistically significant treatment effect of 0.85 (p < .001)" with extreme between-study heterogeneity (I² = 86%).
 

@@ -16,12 +16,14 @@ sources:
     author: "Juandi, D., Kusumah, Y. S., & Tamur, M."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # RME is more effective in Indonesia, Malaysia, Turkey, and Thailand than in Greece and the United States
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Juandi, D., Kusumah, Y. S., & Tamur, M. (2022). A Meta-Analysis of the Last Two Decades of Realistic Mathematics Education Approaches. International Journal of Instruction, 15(1), 381-400. https://doi.org/10.29333/iji.2022.15122a
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Moderator analysis across six countries of implementation; Indonesia contributed 43 of 54 samples (78% of studies). The authors state the discrepancy could be explained by cultural or other factors that have not been identified.
 
@@ -47,3 +49,4 @@ Moderator analysis across six countries of implementation; Indonesia contributed
 - [Geographical region does not significantly moderate the effect of constructivism on attitudes towards lessons](geographical-region-not-significant-moderator-constructivism-attitudes.md) — related
 - [Geographical location does not significantly moderate the effect of RME on mathematical literacy](geographic-location-no-moderating-effect-rme-literacy.md) — related
 - [Implementing RME has a large positive overall effect on students' mathematical abilities compared to conventional approaches (g = 0.97)](rme-overall-positive-effect-mathematical-ability.md) — related
+- [Effect of MIT-based instruction does not differ significantly across Turkey's geographical regions](mit-effect-homogeneous-geographical-region.md) — related

@@ -17,7 +17,7 @@ sources:
 # Deliver complete behavioral skills training (feedback, instruction, modeling, and rehearsal together or sequentially) to train DTT implementers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study, `q3` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article recommends training DTT implementers with the full BST package rather than isolated components, because complete BST was the only configuration shown to be statistically significantly effective. The authors write that "The results from this meta-analysis serve as supporting evidence that training methods that utilize BST are effective and recommended for use." BST delivered feedback, instruction, modeling, and rehearsal simultaneously or sequentially, and worked even for the 69% of participants with no prior DTT experience.

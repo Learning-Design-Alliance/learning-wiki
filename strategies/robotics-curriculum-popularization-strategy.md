@@ -17,7 +17,7 @@ sources:
 # Prioritize robotics education investment at primary and secondary levels and favor prototype-creation and inquiry-driven teaching modes
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study, `q3` · 1 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article recommends incorporating intelligent-robot education into school curricula to improve students' literacy in "programming control, human-computer interaction, algorithm programs, neural networks, and intelligent ethics", and investing more in creativity promotion at primary and secondary stages. It further recommends teaching modes that "assist in prototype creation and inquiry-driven learning" as most beneficial for enhancing student creativity.

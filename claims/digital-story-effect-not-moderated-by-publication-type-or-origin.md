@@ -16,18 +16,22 @@ sources:
     author: Nurullah Sahin and İsmail Coban
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
   - id: nurullah-sahin-and-ismail-coban-2020-2
     resource: "https://eric.ed.gov/?id=EJ1274516"
     title: "Nurullah Sahin and İsmail Coban. (2020). The effect of digital story applications on students' academic achievement: A meta-analysis study. African Educational Research Journal, Special Issue 8(3), S62-S75. https://eric.ed.gov/?id=EJ1274516"
     author: Nurullah Sahin and İsmail Coban
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Publication type and study origin do not significantly moderate the digital story effect on academic achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r2`–`r3` · `q3`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Nurullah Sahin and İsmail Coban. (2020). The effect of digital story applications on students' academic achievement: A meta-analysis study. African Educational Research Journal, Special Issue 8(3), S62-S75. https://eric.ed.gov/?id=EJ1274516
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Moderator analysis reported in the Findings section (Table 6): 36 articles (ES = 0.733) versus 58 dissertations (ES = 0.760), Q = 0.062, df = 1, p = 0.803. Joint effect sizes in both publication types were significant and favored the experimental group.
 
@@ -50,7 +54,7 @@ Moderator analysis reported in the Findings section (Table 6): 36 articles (ES =
 
 Nurullah Sahin and İsmail Coban. (2020). The effect of digital story applications on students' academic achievement: A meta-analysis study. African Educational Research Journal, Special Issue 8(3), S62-S75. https://eric.ed.gov/?id=EJ1274516
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Moderator analysis reported in the Findings section (Table 9): 74 Turkey studies (ES = 0.749) versus 20 Foreign studies (ES = 0.746), Q = 0.001, df = 1, p = 0.977. Both categories' joint effect sizes were significant and favored the experimental group.
 

@@ -16,12 +16,14 @@ sources:
     author: Kanadlı, S.
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Learning-styles-tailored instruction shows a large pooled effect on students' attitudes toward courses (d = 1.113)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Kanadlı, S. (2016). A meta-analysis on the effect of instructional designs based on the learning styles models on academic achievement, attitude and retention. Educational Sciences: Theory & Practice, 16, 2057–2086. https://doi.org/10.12738/estp.2016.6.0084
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r2`
 
 Meta-analysis of 11 studies investigating attitude; heterogeneity was high (Q = 66.385, I² = 84.95%), so the random effect model was applied. The article reports this d "is associated with a U3 value of 84.1%", with the average treated student scoring higher on attitude tests than 84.1% of control students.
 

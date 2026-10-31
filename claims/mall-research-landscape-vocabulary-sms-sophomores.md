@@ -16,12 +16,14 @@ sources:
     author: Imtiaz Hassan Taj, Norrihan Binti Sulan, Muhammad Aslam Sipra, Waqar Ahmad
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # MALL research to 2015 concentrates on vocabulary learning, SMS delivery, and sophomore university learners
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r1` · `q2`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Imtiaz Hassan Taj, Norrihan Binti Sulan, Muhammad Aslam Sipra, Waqar Ahmad. (2016). Impact of Mobile Assisted Language Learning (MALL) on EFL: A Meta-Analysis. Advances in Language and Literary Studies 7(2). https://doi.org/10.7575/aiac.alls.v.7n.2p.76
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r1`
 
 Descriptive tabulation of study characteristics across the 13 included studies (Tables 1–9). The article reports vocabulary as target in "about 93% of the studies", SMS used in 8 studies (61.54%), mobile phones as platform in 12 studies (92.3%), and sophomores in 7 studies (53.9%).
 

@@ -55,3 +55,4 @@ Device categorization of the reviewed studies (Fig. 5). The review reports 96 no
 - [Situated, task-based and game-based learning were the most used strategies in VR/AR-supported K-12 STEM learning](situated-task-game-based-top-vr-ar-strategies.md)
 - [The HTC Vive head-mounted devices were mostly used to conduct the experiments](htc-vive-most-used-device.md) — related
 - [Participants used camera zoom and translation features but rarely tilt, with long shots dominating](camera-features-used-but-not-extensively.md) — related
+- [AR effect sizes differ significantly by display device, with the largest effect for mobile devices (0.686) and the smallest for webcam-based devices (0.159)](ar-effect-significant-by-display-device.md) — related

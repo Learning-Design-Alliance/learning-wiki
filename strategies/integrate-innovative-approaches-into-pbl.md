@@ -17,7 +17,7 @@ sources:
 # Integrate innovative instructional approaches (gamification, VR/AR, robotic coding, STEM) and out-of-school settings into PBL
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 against) · 4 studies (2 review, 1 quant-synthesis), `q2`–`q3` · 2 of 4 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 against) · 4 studies (2 quant-synthesis, 2 review), `q2`–`q3` · 2 of 4 report an effect size · 5 claims rest on one study
 
 ## Description
 Based on the finding that integrated PBL variants showed descriptively higher effect sizes than pure PBL, the author recommends that "Current instructional approaches and methods such as gamification, virtual and augmented reality, robotic coding, and STEM can be further integrated into PBL." The author also recommends integrating out-of-school learning environments such as museums and science centers so students learn problems more authentically, and publishing more primary-school-level experimental studies.

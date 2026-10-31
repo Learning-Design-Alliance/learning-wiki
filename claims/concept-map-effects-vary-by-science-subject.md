@@ -51,3 +51,4 @@ Subgroup analysis by subject: biology g = 0.671 (k = 31), chemistry g = 0.590 (k
 - [Science-related subject areas (mathematics, science, medical science) show larger effects than programming technology and other fields](subject-area-moderates-cps-critical-thinking-effects.md) — related
 - [Concept mapping shows a large effect for low-achieving students (g = 2.019) and moderate effect for high-achieving students (g = 0.610), not significantly different](concept-maps-large-effect-low-achieving-students.md) — related
 - [PBL effect sizes on science achievement do not differ significantly across physics, chemistry, and biology](pbl-effect-similar-across-science-subjects.md) — related
+- [Stratified teaching positively affects all seven studied subjects, with larger effects in English, physics, and geography than in chemistry, biology, and mathematics](stratified-teaching-subject-effects-english-physics-geography.md) — related

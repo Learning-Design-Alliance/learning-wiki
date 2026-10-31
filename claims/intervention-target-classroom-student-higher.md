@@ -16,12 +16,14 @@ sources:
     author: Katharine Conn
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Interventions targeting students or the classroom have average effects 1.13 standard deviations higher than interventions targeting teachers or the school community
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Katharine Conn. (2014). Which interventions have the greatest effect on student learning in Sub-Saharan Africa? A meta-analysis of rigorous impact evaluations. SREE Spring 2014 Conference. https://eric.ed.gov/?id=ED562871
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r2`
 
 Sub-group analysis by intervention target (student, classroom, teacher, community) in the Findings section. The printed effect size for the contrast is 1.13 standard deviations (SE= 0.254, p = 0.001), with classroom-targeted interventions highest and community-targeted lowest; Figure 4 displays the sub-group estimates.
 

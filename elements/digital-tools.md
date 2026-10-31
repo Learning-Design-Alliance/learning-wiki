@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 80 claims (40 for, 36 mixed, 4 against) · 74 studies (15 review, 14 causal, 13 associational, 11 design, 7 theoretical, 6 quant-synthesis, 5 qualitative), `q1`–`q4` · 10 of 74 report an effect size · 79 claims rest on one study
+> **Evidence** · 83 claims (40 for, 39 mixed, 4 against) · 76 studies (15 review, 14 causal, 13 associational, 11 quant-synthesis, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 11 of 76 report an effect size · 82 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -115,6 +115,9 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [Augmented reality applications in education have a medium positive average effect (ES=0.677) on student outcomes according to a random effects meta-analysis](../claims/ar-applications-education-medium-positive-effect.md) [+W]
 - [The article reports that usage of specialized software increased the positive effect of CAE on mathematics achievement](../claims/specialized-software-increased-cae-effect.md) [+W]
 - [Wiki and blog effects on academic performance are stronger at K12 level (E++ = 0.845) than higher education (E++ = 0.71), with negative effect sizes occurring only in higher education studies](../claims/web20-effect-stronger-k12-than-higher-education.md) [~W]
+- [AR effect sizes differ significantly by display device, with the largest effect for mobile devices (0.686) and the smallest for webcam-based devices (0.159)](../claims/ar-effect-significant-by-display-device.md) [~W]
+- [EdTech effects vary by school stage and subject, with science showing the largest subject-level effect (d = 0.893)](../claims/edtech-effects-vary-stage-subject.md) [~W]
+- [School-based EdTech interventions show a moderate positive pooled effect on student attainment (d = 0.4), with high heterogeneity across studies](../claims/edtech-pooled-effect-attainment-d-0-4.md) [~W]
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

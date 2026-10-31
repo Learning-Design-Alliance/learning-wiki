@@ -16,12 +16,14 @@ sources:
     author: "Hou, H., Zhang, X., & Wang, D."
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Inquiry-driven teaching yields the largest creativity effect among teaching methods, followed by design-based and project-based teaching
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Hou, H., Zhang, X., & Wang, D. (2022). Can educational robots improve student creativity: A meta-analysis based on 48 experimental and quasi-experimental studies. Best Evidence in Chinese Education, 11(1):1449-1454. https://doi.org/10.15354/bece.22.ab001
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r2`
 
 Teaching-method moderator analysis comparing inquiry-driven, design-based, and project-based instruction within the 48-study meta-analysis. The authors interpret this as implying robotics curricula maximize effects through "project exploration, high student participation, hands-on learning and other methods".
 
@@ -48,3 +50,4 @@ Teaching-method moderator analysis comparing inquiry-driven, design-based, and p
 - [Inquiry-based learning has the largest mean effect size on chemistry academic performance among the treatment categories (d = 1.783)](inquiry-based-learning-largest-effect-chemistry.md) — related
 - [Robotics education has a significant positive above-moderate effect on student creativity (SMD = 0.576)](robotics-education-above-moderate-creativity-effect.md) — a broader claim this one bears on
 - [Teaching programs such as hands-on creation, experimental verification, and process participation are exceptionally effective at enhancing student innovation ability](robotics-teaching-programs-innovation-effect.md) — related
+- [Task-driven learning, role-playing, inquiry-based, and case-based teaching show effects above 0.8 in blended instruction, while Q&A teaching shows no significant effect](blended-instruction-teaching-methods-effect-differences.md) — related

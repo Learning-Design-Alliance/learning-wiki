@@ -43,6 +43,7 @@ Because test-based verification collapsed in team settings and never fully recov
 - [Deliberately scaffold AI-output verification habits rather than assume they develop alongside rising AI use](scaffold-ai-verification-habits-deliberately.md)
 - [Embed verification routines and cognitive forcing functions into AI-supported learning tasks](verification-routines-cognitive-forcing-ai-tasks.md)
 - [Blend foundational CS concepts with prompt-specific strategies as a complementary entry pathway into computing](prompting-as-complementary-cs-entry-pathway.md)
+- [Frame LLM use in biomedical education around low‐stakes formative tasks with expert‐guided verification and rationale requests](llm-low-stakes-formative-use-expert-verification-strategy.md)
 
 ## Examples
 -

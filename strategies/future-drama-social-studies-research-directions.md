@@ -17,7 +17,7 @@ sources:
 # Future research should examine drama's effects on attitudes, values, skills, and motivation in social studies, and include more doctoral-level studies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study, `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The authors recommend extending research on the drama approach in social studies beyond academic achievement. They write that "Future studies may consider examining the effect of drama approach in social studies course in relation to certain variables such as students‟ attitudes, values, skills and motivation". They also call for more doctoral-level research, noting only 2 of 31 included studies were PhD theses.

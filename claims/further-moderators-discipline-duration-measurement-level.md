@@ -72,3 +72,4 @@ Meta-regression of effect sizes on the natural logarithm of study duration; the 
 - [The effectiveness of CSCL scripts for domain learning does not significantly depend on the number of different collaborative activities prompted](cscl-effectiveness-independent-of-number-of-activity-prompts.md) — related
 - [Measuring outcomes at the individual versus group level did not significantly moderate CSCL script effects](measurement-level-moderator-not-significant.md) — related
 - [Teaching type, intervention duration, subject area, group size, and learning scaffold significantly moderate the effect of collaborative problem-solving on critical thinking](five-significant-moderators-cps-critical-thinking.md) — related
+- [Learner level and discipline moderated effect sizes, with graduate/professional learners and the education discipline showing larger estimates](learner-level-discipline-moderators-sol.md) — related

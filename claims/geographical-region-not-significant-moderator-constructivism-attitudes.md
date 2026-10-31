@@ -16,12 +16,14 @@ sources:
     author: "Toraman, C., & Demir, E."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Geographical region does not significantly moderate the effect of constructivism on attitudes towards lessons
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Toraman, C., & Demir, E. (2016). The effect of constructivism on attitudes towards lessons: A meta–analysis study. Eurasian Journal of Educational Research, 62, 115-142. http://dx.doi.org/10.14689/ejer.2016.62.8
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Moderator analysis across seven regions (Table 6): effect sizes ranged from 0,124 (Eastern Anatolia, non-significant) to 1,503 (Mediterranean); Central Anatolia had the most studies (15, ES = 1,008). The between-group test was non-significant.
 
@@ -50,3 +52,4 @@ Moderator analysis across seven regions (Table 6): effect sizes ranged from 0,12
 - [The effect of traditional methods does not differ significantly by learning domain, department, grade, or geographical region](no-moderator-differences-categorical.md) — related
 - [Lesson subject significantly moderates the effect of constructivism on attitudes: positive for science and technology and other subjects, not significant for mathematics](lesson-subject-moderates-constructivism-attitude-effect.md) — related
 - [Year of publication does not significantly moderate the effect of constructivism on attitudes towards lessons](publication-year-not-significant-moderator-constructivism-attitudes.md) — related
+- [Effect of MIT-based instruction does not differ significantly across Turkey's geographical regions](mit-effect-homogeneous-geographical-region.md) — related

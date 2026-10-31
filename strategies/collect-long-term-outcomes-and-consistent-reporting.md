@@ -17,7 +17,7 @@ sources:
 # Collect and evaluate long-term outcomes, strengthen measurement, and report study features consistently in early intervention research
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study, `q3` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 The authors' concluding recommendation is that the field needs "More research is needed with collection and evaluation of long-term outcomes, a focus on measurement, and consistency of primary study reporting." The descriptive synthesis revealed gaps including a notable lack of long-term measurement for children with etiologies other than autism or DLD, such as Down syndrome, and inconsistent reporting of race/ethnicity, home languages, and caregiver characteristics. The article also suggests researchers and clinicians might decide to maximize postintervention outcomes specifically for outcome categories that are more vulnerable to fade-out over time.

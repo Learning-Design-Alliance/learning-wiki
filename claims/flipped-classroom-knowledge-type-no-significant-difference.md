@@ -16,12 +16,14 @@ sources:
     author: "Zhang, Q., Cheung, E.S.T., & Cheung, C.S.T."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Flipped classroom effects do not differ significantly between theoretical and practical knowledge, though practical knowledge shows a slightly larger effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Zhang, Q., Cheung, E.S.T., & Cheung, C.S.T. (2021). The impact of flipped classroom on college students’ academic performance: A meta-analysis based on 20 experimental studies. Science Insights Education Frontiers, 8(2):1059-1080. https://doi.org/10.15354/sief.21.re019
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Moderator analysis of knowledge type across the included studies (Table 3): both theoretical (16 datasets, SMD = 0.63) and practical (12 datasets, SMD = 0.70) effects were positive and significant (Z = 8.137, p = 0.000), but the between-group difference was not significant. Equivalence was not formally tested beyond the QBET test.
 

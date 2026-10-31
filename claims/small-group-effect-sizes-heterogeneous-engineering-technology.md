@@ -16,12 +16,14 @@ sources:
     author: "Kalaian, S. A., Kasim, R. M., & Nims, J. K."
     q: 4
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Effect sizes of small-group learning studies in engineering and technology education are significantly heterogeneous, justifying moderator analyses
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q4` pre-registered or meta-analytic
+> **Evidence** · 1 study · quant-synthesis `r2` · `q4`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Kalaian, S. A., Kasim, R. M., & Nims, J. K. (2018). Effectiveness of Small-Group Learning Pedagogies in Engineering and Technology Education: A Meta-Analysis. Journal of Technology Education, 29(2). https://scholar.lib.vt.edu/ejournals/JTE/
 
-`q4 · i?`
+`q4 · i?` · `quant-synthesis · r2`
 
 Homogeneity test within the random-effects meta-analysis of the 26 effect sizes. The article reports "Q = 115.81, p < 0.00" and states the differences "may be explained by the coded characteristics of the studies", motivating the subgroup and metaregression analyses.
 

@@ -16,12 +16,14 @@ sources:
     author: "Widodo, S. A., Wijayanti, A., Irfan, M., Pusporini, W., Mariah, M., & Rochmiyati, S."
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # Sampling error accounts for only 0.015% of the variance, suggesting small bias from sampling error
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r1` · `q2`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Widodo, S. A., Wijayanti, A., Irfan, M., Pusporini, W., Mariah, M., & Rochmiyati, S. (2023). Effects of worksheets on problem-solving skills: Meta-analytic studies. International Journal of Educational Methodology, 9(1), 151-167. https://doi.org/10.12973/ijem.9.1.151
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r1`
 
 Bare-bones meta-analysis computation over the transformed correlations of the 45 comparisons: population correlation variance 1.919 and sampling error variance 0.000283 yield "The percentage of sampling error is 0.015%", which the authors interpret as small error bias due to sampling.
 

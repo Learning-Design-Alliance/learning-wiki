@@ -56,3 +56,4 @@ The synthesis's aggregate finding across the direct-comparison perceptions studi
 - [Students and faculty are generally positive regarding OER across a variety of settings.](students-faculty-generally-positive-oer.md) — a broader claim this one bears on
 - [Concerns about whether OER decrease the effectiveness of student learning remain unsolved](oer-effectiveness-concerns-unsolved.md) — related
 - [Most U.S. higher education faculty believe OER are a good idea but few actually use them](faculty-believe-oer-but-few-use-them.md) — related
+- [No included study reported worse results for simulation education: all 42 studies reported good or better results for simulation](no-study-worse-for-simulation.md) — related

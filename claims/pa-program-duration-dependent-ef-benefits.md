@@ -60,3 +60,4 @@ Narrative attribution in the discussion: the article reports, citing reference 2
 - [Intervention length may matter: a prior review found positive associations for decision-making and skill execution for interventions longer than 8 hours](intervention-length-over-8-hours-decision-making.md) — related
 - [Mathematics outcomes benefit from PA with academic instruction of 6–10-week duration at moderate or moderate-to-vigorous intensity, and language outcomes from enriched PA programmes](pa-academic-instruction-benefits-maths-enriched-benefits-language.md) — related
 - [Physical activity interventions in childhood show no overall benefit for executive functions or academic achievement](pa-interventions-no-overall-benefit-ef-achievement.md) — related
+- [Effects of school-based physical activity on academic performance are not uniform and appear higher for mathematics skills](pa-academic-effects-nonuniform-math-favored.md) — related

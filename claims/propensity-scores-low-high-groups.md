@@ -16,18 +16,22 @@ sources:
     author: "Itsarangkul Na Ayutthaya, T., & Damrongpanit, S."
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
   - id: itsarangkul-na-ayutthaya-2022-2
     resource: "https://doi.org/10.12973/eu-jer.11.4.2429"
     title: "Itsarangkul Na Ayutthaya, T., & Damrongpanit, S. (2022). A Meta-Analysis of Instructional Management Model for Students’ Creative Thinking Development: An Application of Propensity Score Matching. European Journal of Educational Research, 11(4), 2429-2444. https://doi.org/10.12973/eu-jer.11.4.2429"
     author: "Itsarangkul Na Ayutthaya, T., & Damrongpanit, S."
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Logistic regression yields propensity scores separating 256 low effect size studies (d̄=1.345) from 144 high effect size studies (d̄=7.284) with overlapping distributions suitable for matching
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Itsarangkul Na Ayutthaya, T., & Damrongpanit, S. (2022). A Meta-Analysis of Instructional Management Model for Students’ Creative Thinking Development: An Application of Propensity Score Matching. European Journal of Educational Research, 11(4), 2429-2444. https://doi.org/10.12973/eu-jer.11.4.2429
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Logistic regression propensity score analysis of 400 studies, grouped by the mean effect size d̄=3.483 as criterion. Table 2 prints the group means and standard deviations as quoted.
 
@@ -50,7 +54,7 @@ Logistic regression propensity score analysis of 400 studies, grouped by the mea
 
 Itsarangkul Na Ayutthaya, T., & Damrongpanit, S. (2022). A Meta-Analysis of Instructional Management Model for Students’ Creative Thinking Development: An Application of Propensity Score Matching. European Journal of Educational Research, 11(4), 2429-2444. https://doi.org/10.12973/eu-jer.11.4.2429
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Comparison of propensity score distributions across quartile ranges Q1 (0.00–0.33), Q2 (0.33001–0.66), Q3 (0.66001–1.00), reported in the Conclusion; Figure 2 shows right-skewed (low group) and left-skewed (high group) distributions.
 

@@ -17,7 +17,7 @@ sources:
 # Future research should examine how the extent of ICT-tool use in classroom settings directly influences students' overall academic achievement rather than individual subjects
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study, `q2` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 quant-synthesis), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 In its conclusion, the article directs follow-up research toward whole-student outcomes rather than single-subject effects. It states that "future research sho uld therefore focus on examining the relationship betwe en the extent to which use of ICT tools in form of e-learning in classroom set-ups directly influences students' overall academic achievement rather than focusing o n individual subjects." This reframes the research question from subject-level effects to overall achievement.

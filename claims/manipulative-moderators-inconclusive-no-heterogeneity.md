@@ -16,12 +16,14 @@ sources:
     author: Amy B. Holmes, Vanderbilt University
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Moderator analyses for manipulative effects are inconclusive, with no discernable heterogeneity across participant and intervention characteristics
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q2`
 > **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Amy B. Holmes, Vanderbilt University. (2013). Effects of Manipulative Use on PK-12 Mathematics Achievement: A Meta-Analysis. SREE Spring 2013 Conference Abstract. https://eric.ed.gov/?id=ED563072
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r3`
 
 Bivariate meta-regression models (Table 3) tested grade level, manipulatives type, and duration; none reached significance at p < .05. The article reports moderator analyses were "inconclusive" with only suggestive trends, and low power to detect significant predictors.
 

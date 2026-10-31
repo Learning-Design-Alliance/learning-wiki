@@ -16,12 +16,14 @@ sources:
     author: "Balta, N., & Sarac, H."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Most individual 7E effect sizes were positive, but three were negative, with effect sizes ranging from -.473 to 3.953
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Balta, N., & Sarac, H. (2016). The Effect of 7E Learning Cycle on Learning in Science Teaching: A meta-Analysis Study. European Journal of Educational Research, 5(2), 61-72. https://doi.org/10.12973/eu-jer.5.2.61
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Forest-plot synthesis of the 35 individual effect sizes in the meta-analysis. The quote reports the lowest effect size (-.473, Polyiem 2011), the largest (3.953, Gürbüz 2012), and the three negative effect sizes; no standardized effect size is printed for the distribution as a whole.
 

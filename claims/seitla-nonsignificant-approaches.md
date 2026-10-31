@@ -17,12 +17,14 @@ sources:
     author: Mustafa Çevik, Büşra Bakioğlu
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # STEM education with 7E instruction, flipped learning, problem-based learning or technology-enhanced learning showed no significant effect on learning achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2022 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Mustafa Çevik, Büşra Bakioğlu. (2022). The Effect of STEM Education Integrated into Teaching-Learning Approaches (SEITLA) on Learning Outcomes: A Meta-Analysis Study. International Journal of Progressive Education, 18(2). https://doi.org/10.29329/ijpe.2022.431.8
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Random-effects subgroup analysis (Table 5). The four named approaches showed non-significant effects (e.g., technology-enhanced learning g = 0.13, p = .45; flipped learning g = 0.15, p = .64); no equivalence test was reported.
 

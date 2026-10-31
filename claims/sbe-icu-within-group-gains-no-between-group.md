@@ -1,0 +1,52 @@
+---
+type: claim
+title: In an RCT of ICU nurses, simulation-based education produced within-group gains in knowledge, confidence and competence but no between-group differences at 6 weeks
+description: In an RCT of ICU nurses, simulation-based education produced within-group gains in knowledge, confidence and competence but no between-group differences at 6 weeks
+id: sbe-icu-within-group-gains-no-between-group
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-31
+evidence_strength: weak
+sources:
+  - id: el-hussein-mohamed-toufic-2026
+    resource: "https://doi.org/10.1111/jan.70640"
+    title: "EL Hussein Mohamed Toufic, Sheehan Dawson S., Hirst Sandra. (2026). Simulation‐Based Education to Support Nurses' Critical Thinking in Delirium Recognition: A Scoping Review. Journal of Advanced Nursing. https://doi.org/10.1111/jan.70640"
+    author: EL Hussein Mohamed Toufic, Sheehan Dawson S., Hirst Sandra
+    q: 3
+    i: "?"
+    kind: review
+    rigour: 2
+---
+
+# In an RCT of ICU nurses, simulation-based education produced within-group gains in knowledge, confidence and competence but no between-group differences at 6 weeks
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r2` · `q3`
+
+## Subclaims
+`q3 i?` A randomized controlled trial found no between-group differences at 6 weeks on primary outcomes or clinical observation audit, while the intervention group showed significant within-group improvements in knowledge, confidence and competence. [→ EL Hussein Mohamed Toufic 2026](#el-hussein-mohamed-toufic-2026)
+
+## Evidence
+
+### EL Hussein Mohamed Toufic 2026
+
+EL Hussein Mohamed Toufic, Sheehan Dawson S., Hirst Sandra. (2026). Simulation‐Based Education to Support Nurses' Critical Thinking in Delirium Recognition: A Scoping Review. Journal of Advanced Nursing. https://doi.org/10.1111/jan.70640
+
+`q3 · i?` · `review · r2`
+
+This single-blind, parallel-group randomized controlled trial randomized 72 critical-care RNs (36 intervention; 36 control) to a multicomponent SBE programme (online videos, flip-chart session, role-play and OSCE with standardized patients) versus online videos only. At 6 weeks "there were no between-group differences on primary outcomes or on the clinical observation audit"; no effect size is printed for this null finding.
+
+> "At 6 weeks, there were no between-group differences on primary outcomes or on the clinical observation audit; however, the intervention group showed significant within-group improvements over time in knowledge, confidence and competence whereas the control group showed no significant within-group changes."
+
+## Discussion
+
+
+## Related Claims
+- [The effect of high-fidelity simulation on practising nurses' self-confidence is inconclusive, varying by study design](hfs-self-confidence-inconclusive-design-dependent.md) — related
+- [Increasing the proportion of simulation within a nursing course shows mixed effects on competency outcomes (Hayden et al. trial)](more-vs-less-simulation-mixed.md) — related
+- [Simulation-based education consistently improved nurses' confidence in delirium recognition and assessment across included studies](sbe-delirium-confidence-gains.md) — related
+- [Simulation-based education combined with workflow redesign improved ICU nurses' delirium-assessment documentation rates on day and night shifts](sbe-delirium-documentation-improvement-icu.md) — related
+- [Simulation-based education increases post-registration nurses' odds of satisfactory observed delirium-care practice at 6 weeks in a cluster RCT](sbe-delirium-odds-satisfactory-practice-rct.md) — related
+- [High-fidelity simulation training improves knowledge acquisition among practising registered nurses (moderate pooled effect)](hfs-knowledge-acquisition-practising-nurses.md) — related
+- [Delirium knowledge gains from simulation-based education were sustained over time in repeated-survey and delayed-assessment studies](sbe-delirium-knowledge-sustained-gains.md) — related

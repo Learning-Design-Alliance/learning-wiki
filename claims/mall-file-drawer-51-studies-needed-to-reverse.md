@@ -16,12 +16,14 @@ sources:
     author: Imtiaz Hassan Taj, Norrihan Binti Sulan, Muhammad Aslam Sipra, Waqar Ahmad
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # Publication-bias analysis indicates 51 unpublished studies would be needed to reverse the meta-analysis findings
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r1` · `q2`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Imtiaz Hassan Taj, Norrihan Binti Sulan, Muhammad Aslam Sipra, Waqar Ahmad. (2016). Impact of Mobile Assisted Language Learning (MALL) on EFL: A Meta-Analysis. Advances in Language and Literary Studies 7(2). https://doi.org/10.7575/aiac.alls.v.7n.2p.76
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r1`
 
 The authors addressed the file-drawer problem, noting statisticians believe publication bias may keep non-significant studies unpublished, and applied Rosenthal's (1991) formula to the 13 included studies. The article reports "51 studies are needed to reverse the findings".
 
@@ -51,3 +53,4 @@ The authors addressed the file-drawer problem, noting statisticians believe publ
 - [Fail-safe analyses indicate the meta-analysis findings are not attributable to publication bias](seitla-no-publication-bias-failsafe.md) — related
 - [Publication bias tests give mixed evidence: Egger's test indicates bias, but fail-safe N calculations lead the authors to conclude no publication bias](publication-bias-mixed-egger-failsafe.md) — related
 - [The meta-analysis shows no publication bias problem by Rosenthal's fail-safe N criterion](no-publication-bias-fsn-blended-learning-meta-analysis.md) — related
+- [Fail-safe N analyses indicate the pooled effect is resistant to publication bias (Rosenthal FSN = 2139; Orwin FSN = 1048)](fsn-resistance-publication-bias-cre-meta-analysis.md) — related

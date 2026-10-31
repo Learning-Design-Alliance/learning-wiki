@@ -17,7 +17,7 @@ sources:
 # Organize in-service training programs and atelier studies at the education-region level to develop teachers' skills in applying constructivist learning models
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q3` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends professional development as a response to its finding that constructivist learning models affect student outcomes. It states that applying these models "is a process that requires profess ionalism" and that teachers and school managers need knowledge and skills about them. It therefore proposes in-service training programs in different education regions and atelier studies to support teachers' knowledge and experience in practicing the models.

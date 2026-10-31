@@ -84,3 +84,4 @@ Planned pre-to-post gain contrasts in the randomized four-group trial: "Groups C
 - [Strategy Instruction Improves Learning](strategy-instruction-improves-learning.md) — related
 - [The monitoring and reflection intervention had no significant effect on post-intervention academic performance](no-academic-performance-effect.md) — related
 - [Adding goal-monitoring prompts to a scripted conversational agent's weekly goal-setting raised undergraduates' self-reported goal attainment over reflection-only and goal-setting-only conditions](scripted-agent-delivers-srl-support.md) — related
+- [The combined Climate and Preventure (CAP) trial showed no significant difference in cannabis use or cannabis-related harms between groups at any follow-up, despite greater cannabis-knowledge gains](cap-climate-preventure-no-cannabis-use-effect.md) — related

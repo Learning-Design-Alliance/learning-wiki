@@ -17,12 +17,14 @@ sources:
     author: "Kalaian, S. A., Kasim, R. M., & Nims, J. K."
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Cooperative and collaborative learning show larger achievement effects than problem-based and peer-led team learning in engineering and technology classrooms
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2018 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Kalaian, S. A., Kasim, R. M., & Nims, J. K. (2018). Effectiveness of Small-Group Learning Pedagogies in Engineering and Technology Education: A Meta-Analysis. Journal of Technology Education, 29(2). https://scholar.lib.vt.edu/ejournals/JTE/
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r2`
 
 Random-effects subgroup analysis of the learning-method moderator across the 26 effect sizes (Table 2). The article reports d-values of 0.51 for cooperative learning (12 effect sizes), 0.46 for collaborative (7), 0.36 for problem-based (6, p = 0.18), and 0.20 for peer-led learning (1 study).
 

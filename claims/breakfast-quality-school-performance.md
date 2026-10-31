@@ -54,3 +54,4 @@ The review's synthesis of cross-sectional studies using food-group-based breakfa
 - [A low glycaemic load breakfast increases time on-task in young children, but the effect is short-lived and specific to the first observation period](low-gl-breakfast-on-task-shortlived.md) — related
 - [Acute experimental studies show inconsistent effects of breakfast on classroom behavior, with three of seven showing an on-task advantage](acute-breakfast-classroom-behavior-inconsistent.md) — related
 - [Robust RCTs of school breakfast programs failed to find behavioral benefits, with low and variable attendance and a shift from at-home to at-school consumption limiting impact](sbp-rcts-null-behavior-attendance-limits.md) — related
+- [Breakfast After the Bell shows benefits for attendance and behavior, but mixed evidence on test scores](batb-mixed-academic-evidence.md) — related

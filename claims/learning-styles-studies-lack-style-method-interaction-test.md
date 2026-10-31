@@ -16,12 +16,14 @@ sources:
     author: Kanadlı, S.
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # The included studies did not test the learning-style-by-instructional-method interaction, so the achievement gains cannot be attributed to matching instruction to styles
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Kanadlı, S. (2016). A meta-analysis on the effect of instructional designs based on the learning styles models on academic achievement, attitude and retention. Educational Sciences: Theory & Practice, 16, 2057–2086. https://doi.org/10.12738/estp.2016.6.0084
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Authors' interpretive discussion invoking Pashler et al.'s (2008) criteria for adequate learning-styles experiments, which the included Turkish studies did not meet. The article also cites Glenn (2009): "one possible reason for the increase in achievement is that regarding variety of learning styles, teachers begin to pay more attention to their instruction and enrich their instruction by using a variety of methods".
 

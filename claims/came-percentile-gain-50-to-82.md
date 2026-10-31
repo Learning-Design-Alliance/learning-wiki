@@ -16,12 +16,14 @@ sources:
     author: "Demir, S., & Başol, G."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # An average-scoring student rises from the 50th to the 82nd percentile after application of CAME
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Demir, S., & Başol, G. (2014). Effectiveness of Computer-Assisted Mathematics Education (CAME) over Academic Achievement: A Meta-Analysis Study. Educational Sciences: Theory & Practice, 14(5), 2026-2035. http://www.edam.com.tr/estp
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Discussion-section interpretation of the pooled random effect model result (ES = .8999). The article states an average scoring student "is more successful than 82% of the students where CAME is not applied", i.e., rises from the 50th to the 82nd percentile.
 

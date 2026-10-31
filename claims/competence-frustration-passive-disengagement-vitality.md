@@ -72,3 +72,4 @@ Primary structural model path from the SEM of pupil and teacher questionnaires: 
 - [Autonomy frustration directly and positively predicts teacher-rated active disengagement, not explained by reduced vitality](autonomy-frustration-active-disengagement-direct.md) — related
 - [Competence frustration correlates with passive but not active disengagement, while autonomy frustration correlates with both](competence-frustration-not-correlated-active-disengagement.md) — a broader claim this one bears on
 - [Teacher psychological control relates indirectly to reduced vitality and to both disengagement forms through the two need frustrations](teacher-control-indirect-disengagement-pathways.md) — related
+- [Consistent with a dual process model of engagement, structure shows stronger associations with engagement than with disengagement](structure-stronger-engagement-than-disengagement.md) — related

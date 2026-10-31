@@ -16,18 +16,22 @@ sources:
     author: Hafize Er-Türküresin
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
   - id: hafize-er-türküresin-2020-2
     resource: "http://iojet.org/index.php/IOJET/article/view/1056"
     title: "Hafize Er-Türküresin. (2020). The effect of using creative drama method on student achievement in the social studies course: A meta-analysis study. International Online Journal of Education and Teaching (IOJET), 7(4), 1881-1896. http://iojet.org/index.php/IOJET/article/view/1056"
     author: Hafize Er-Türküresin
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # The very large effect found here is consistent with prior meta-analyses of creative drama, which report medium-to-huge positive effects on achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -39,7 +43,7 @@ sources:
 
 Hafize Er-Türküresin. (2020). The effect of using creative drama method on student achievement in the social studies course: A meta-analysis study. International Online Journal of Education and Teaching (IOJET), 7(4), 1881-1896. http://iojet.org/index.php/IOJET/article/view/1056
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 The review reports, citing Ulubey and Toraman (2015), a meta-analysis of 65 experimental studies finding a very wide positive effect (d = 1.255); it similarly attributes d = 1.68 to Batdı and Batdı (2015), d = 1.648 to Akdemir and Karakus (2016), and d = 1.24 to Özbey and Sarıkaya (2019).
 
@@ -49,7 +53,7 @@ The review reports, citing Ulubey and Toraman (2015), a meta-analysis of 65 expe
 
 Hafize Er-Türküresin. (2020). The effect of using creative drama method on student achievement in the social studies course: A meta-analysis study. International Online Journal of Education and Teaching (IOJET), 7(4), 1881-1896. http://iojet.org/index.php/IOJET/article/view/1056
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 The review attributes to Özbey and Sarıkaya (2019) the pattern that drama shows broad positive effects in verbal courses and moderate positive effects in quantitative courses, and concludes creative drama is more effective in Social Studies course success.
 
@@ -70,3 +74,5 @@ The review attributes to Özbey and Sarıkaya (2019) the pattern that drama show
 - [Effect sizes of creative drama studies published between 2006-2012 (d = 1.208) were higher than those published 2013-2020 (d = 1.168)](creative-drama-effect-higher-earlier-studies.md) — related
 - [Creative drama method has a very large positive effect on Social Studies course achievement in favor of experimental groups (random-effects d = 1.171)](creative-drama-large-positive-effect-social-studies-achievement.md) — a narrower finding that bears on this claim
 - [The article identifies creative drama, cooperative learning, educational games, and animations as particularly beneficial vocabulary-teaching methods](innovative-methods-beneficial-vocabulary-acquisition.md) — related
+- [Across 169 meta-analyses, 254 variables with 427 effect sizes influence academic achievement; most variables have small or very small effects and none has a large, very large or huge negative effect](254-variables-427-effect-sizes-overview.md) — related
+- [Thematic analysis of 14 studies of student views found creative drama produced influential outcomes across cognitive, creative/critical-thinking, learning-environment, and social-affective domains, along with negative aspects](creative-drama-thematic-outcomes-domains.md) — related

@@ -51,3 +51,4 @@ Findings from the interview and focus-group data in the qualitative study. The a
 - [Lecturers transfer and refine teaching skills bidirectionally between face-to-face and virtual-world environments.](skills-transfer-between-face-to-face-and-vw-contexts.md) — related
 - [One adult educator's first-person reflection reports that facilitated class discussions left her feeling empowered as an individual contributor](facilitated-self-directed-learning-empowers-adults.md) — related
 - [Virtual-world-based teaching helped lecturers deliver courses more interactively than pure online video-based modes during the pandemic.](vw-more-interactive-than-video-only-mode.md) — related
+- [Affective outcomes of virtual-laboratory modalities are divided and interact with learners' initial attitude profiles](affective-outcomes-divided-moderated-by-attitudes.md) — related

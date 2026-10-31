@@ -72,3 +72,4 @@ Descriptive frequency analysis of primary barriers in the AI subset (N = 40). Th
 - [Educator-focused digital literacy frameworks prioritize pedagogy, empowering learners, and curriculum and assessment, with more evenly distributed categories](educator-frameworks-pedagogy-and-systemic-capacities.md) — related
 - [Infrastructure, connectivity or limited access is the most frequent barrier (45.2%) to digitally supported teacher education](infrastructure-access-main-barrier-digitally-supported-teacher-education.md) — reports the opposite
 - Data collection implementation and sample size are the most frequent limitations in digital competence research — related
+- [The review finds technology's impact depends mainly on pedagogical design, teaching accompaniment, and university policies](impact-depends-on-pedagogical-design-review.md) — a broader claim this one bears on

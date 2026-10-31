@@ -69,3 +69,4 @@ Authors' interpretation in the Interpretive Summary section, not a tested result
 - [Teachers perceived the co-design process as beneficial for collaboration, ownership, professional development, and material quality](teachers-positive-perception-codesign-ai-materials.md) — related
 - [Leadership commitment to adaptive learning was identified by both panels as a prerequisite, strengthened by strategy alignment and communication of empirical results](leadership-commitment-prerequisite-implementation.md) — related
 - [Leadership support and stakeholder connectivity support sustainability of innovations](leadership-connectivity-support-sustainability.md) — related
+- [Multi-stakeholder school interventions yielded broader and more durable outcomes than school-only models, though the pattern was not universal](multi-stakeholder-school-interventions-durable-outcomes.md) — related

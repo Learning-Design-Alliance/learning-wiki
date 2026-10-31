@@ -54,3 +54,4 @@ A scoping review synthesizing 16 task-unrelated and task-related neuroimaging st
 - [Teens with ASD are described as vulnerable to compulsive internet use that limits in-person social interaction](asd-teens-vulnerable-compulsive-internet-use.md) — related
 - [Screen time is not significantly associated with white matter microstructure (FA, MD) in 10-year-olds, while sports participation is positively associated with FA](screen-time-null-white-matter-children.md) — related
 - Research on childhood screen use falls into three distinct periods: pre-2016 focused on addiction and health, 2016–2020 on educational applications and the role of families, and post-2020 on negative repercussions for identity construction, health, well-being, and behaviour. — related
+- [Internet addiction and frequent smartphone use are associated with higher surface learning and lower deep learning among medical students](ia-surface-learning-deep-learning-association.md) — related

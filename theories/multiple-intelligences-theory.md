@@ -12,7 +12,7 @@ generated:
 # Multiple Intelligences Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 6 claims (3 for, 2 mixed, 1 against) · 5 studies (2 review, 1 theoretical), `q1`–`q3` · 1 of 5 report an effect size · 6 claims rest on one study
+> **Evidence** · 12 claims (4 for, 7 mixed, 1 against) · 6 studies (3 quant-synthesis, 2 review, 1 theoretical), `q1`–`q3` · 2 of 6 report an effect size · 12 claims rest on one study
 
 ## Description
 Howard Gardner (1983) proposed that intelligence is not the single general factor ("g") that Charles Spearman and earlier theorists described, but a set of at least eight relatively independent intelligences — commonly listed as linguistic, logical-mathematical, spatial, musical, bodily-kinesthetic, interpersonal, intrapersonal, and naturalistic. Gardner (1999) later proposed a ninth, **existential** intelligence, which he himself notes "has yet to experience full acceptance by educators in the classroom." A person typically excels in some of these and not others, which is a direct challenge to instructional designs that treat "ability" as a single scale a learner sits somewhere on.
@@ -51,6 +51,12 @@ Gardner's inter- and intrapersonal intelligences are often combined by other res
 - [Multiple intelligences-based learning has a large positive effect on academic success in Turkish language instruction (REM ES = 1.332)](../claims/multiple-intelligences-large-effect-turkish.md) [+W]
 - [Multiple intelligence based instructional practices have a large positive effect on academic achievement in Turkish experimental studies](../claims/mi-instruction-large-positive-effect-achievement-turkey.md) [~W]
 - [The effect of multiple intelligence practices does not differ significantly by instructional level](../claims/mi-effect-no-difference-instructional-level.md) [~W]
+- [MIT-based instruction shows a large overall positive effect on students' academic achievement in a meta-analysis of 75 Turkish experimental theses and dissertations](../claims/mit-instruction-large-overall-effect-achievement.md) [+W] — attached 2026-10-31 from Baş (2016), which proposed "Multiple Intelligences Theory (MIT) as a pluralistic account of intelligence and a method of instruction".
+- [Effect of MIT-based instruction differs significantly by educational level, largest at high school (d = 1.516) and smallest at elementary (d = 0.925)](../claims/mit-effect-differs-by-educational-level.md) [~W]
+- [Effect of MIT-based instruction does not differ significantly across Turkey's geographical regions](../claims/mit-effect-homogeneous-geographical-region.md) [~W]
+- [Effect of MIT-based instruction does not differ significantly by course type, though foreign-language courses show the largest point estimate (d = 1.958)](../claims/mit-effect-homogeneous-course-type.md) [~W]
+- [Effect of MIT-based instruction does not differ significantly by duration of experimental procedure](../claims/mit-effect-homogeneous-experiment-duration.md) [~W]
+- [Effect of MIT-based instruction does not differ significantly between master's theses and doctoral dissertations](../claims/mit-effect-homogeneous-thesis-type.md) [~W]
 
 ## Related Theories
 

@@ -17,12 +17,14 @@ sources:
     author: Veli Batdı
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # The effect of computer-based teaching on academic success does not differ significantly by type of course, though social studies showed the largest effect size (1.54) and mathematics the lowest (1.06)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -39,7 +41,7 @@ sources:
 
 Veli Batdı. (2015). A Meta-Analytic Study Concerning the Effect of Computer-Based Teaching on Academic Success in Turkey. Educational Sciences: Theory & Practice. https://doi.org/10.12738/estp.2015.5.2491
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Moderator analysis of 46 studies in science, social studies, science and technology, and mathematics course groups. Table 5 reports QB = 1.94, Z = 13.03, df = 3; the distribution was homogeneous under FEM.
 
@@ -84,3 +86,4 @@ Moderator analysis of 77 studies (one foreign-language study excluded) in four s
 - [The effect of computer-based teaching on academic success does not differ significantly by publication year of the studies](cbt-effect-no-difference-by-publication-year.md) — related
 - [Mastery learning effects are smaller in science than in mathematics, social studies, and language arts, contrary to theory, partly due to grade-level confounding](mastery-science-smaller-effects.md) — related
 - [Effectiveness of educational materials does not differ significantly across subject matters](material-effect-no-difference-subject.md) — related
+- [Effect of MIT-based instruction does not differ significantly by course type, though foreign-language courses show the largest point estimate (d = 1.958)](mit-effect-homogeneous-course-type.md) — related

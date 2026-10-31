@@ -17,7 +17,7 @@ sources:
 # Design knowledge integration instruction around real-life connections, media and technology, Torrance-based measurement, and short repeated plans over more than four weeks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article's recommendations specify how to implement the knowledge integration-based media and technology model: the model "should be designed to emphasize connecting knowledge of subject content to the real -life or surrounding environment of learners", using media and technology such as STEM, STEAM, synectics, interdisciplinary and blended instruction. Teachers should measure originality, fluency, flexibility and elaboration per Torrance's theory, teach six instructional plans of less than one hour each over more than four weeks, use leading-instruction-conclusion processes, test-based evaluation, textbooks plus new media, and creatively managed classrooms.

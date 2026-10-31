@@ -16,12 +16,14 @@ sources:
     author: Özgür Ulubey
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # The creative drama method has a large positive effect on students' skill development
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Özgür Ulubey. (2018). The Effect of Creative Drama as a Method on Skills: A Meta-analysis Study. Journal of Education and Training Studies, 6(4). https://eric.ed.gov/?id=EJ1172791
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Random-effects meta-analysis of 63 experimental studies comparing creative drama instruction with other methods, with posttest means and standard deviations for both groups. The article reports "a significant effect size was found (ES=1.177)", large by Cohen's classification, favoring experimental groups.
 
@@ -51,3 +53,5 @@ Random-effects meta-analysis of 63 experimental studies comparing creative drama
 - [Effect size of creative drama on skills does not vary significantly by practitioner (researcher vs teacher)](creative-drama-practitioner-null-moderator.md) — related
 - [Effect of creative drama on skills varies significantly by level of schooling, highest at pre-school and lowest at high school](creative-drama-schooling-level-moderator.md) — related
 - [Effect size of creative drama does not vary significantly by skill type (social, basic language, higher thinking)](creative-drama-skill-type-null-moderator.md) — related
+- [Creative drama has a large significant positive effect on academic achievement (overall weighted ES = 1.68 under a random effects model across 40 studies)](creative-drama-positive-effect-academic-achievement.md) — related
+- [Several learning theories and teaching strategies have very large positive effects on academic achievement (e.g., creative drama ES = 1.453), while the surface approach to learning has a small negative effect (ES = -.366)](teaching-strategies-effects-academic-achievement-meta-review.md) — related

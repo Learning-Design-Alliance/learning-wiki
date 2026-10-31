@@ -16,12 +16,14 @@ sources:
     author: Lisa De La Rue, Joshua R. Polanin, Dorothy L. Espelage, Terri D. Pigott
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # School-based programs do not significantly reduce dating violence perpetration at posttest (g = −0.01)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Lisa De La Rue, Joshua R. Polanin, Dorothy L. Espelage, Terri D. Pigott. (2017). A Meta-Analysis of School-Based Interventions Aimed to Prevent or Reduce Violence in Teen Dating Relationships. Review of Educational Research. https://doi.org/10.3102/0034654316632061
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Three-level random-effects meta-analysis of five studies contributing six perpetration effect sizes from controlled school evaluations. No statistically significant difference was found; equivalence was not tested. Effect sizes ranged from −0.19 to 0.05.
 

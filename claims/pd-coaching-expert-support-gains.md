@@ -73,3 +73,5 @@ Powell and colleagues (2010) coaching model for early childhood educators: biwee
 - [All 35 reviewed studies used models or modeling, and curriculum without PD support yielded worse outcomes than older curriculum with none](pd-models-and-curriculum-support.md) — related
 - [Ongoing professional development and mentorship are critical to coaches' growth and confidence in their coaching skills](ongoing-pd-mentorship-critical-coach-growth.md) — related
 - [Effective professional development is content focused, active, collaborative, modeled, coached, feedback-rich, and sustained over time](effective-pd-seven-features.md) — a broader claim this one bears on
+- [Longitudinal, integrated RaT programs produce more durable teaching skill gains than brief stand-alone workshops](longitudinal-rat-programs-durable-gains.md) — a narrower finding that bears on this claim
+- [Mathematics and science PD interventions causally improve in-service teachers' knowledge and classroom instruction, with a pooled average impact estimate of +0.52 SD across randomized studies](pd-teacher-outcomes-pooled-052-sd.md) — related

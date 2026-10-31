@@ -54,3 +54,4 @@ Province-wide survey screening depression with the Chinese version of the BDI-II
 - [Eco-anxiety is positively associated with symptoms of depression and anxiety, per a review of 35 studies](eco-anxiety-associated-depression-anxiety.md) — related
 - [Secondary students in PUSD reported declining rates of chronic sadness/hopelessness and suicidal ideation from 2020/21 to 2022/23](pusd-chks-declining-sadness-suicidal-ideation.md) — related
 - [Distress and depression screening improved detection but did not reliably enhance psychological or medical outcomes when follow-up pathways were absent](screening-without-followup-insufficient.md) — related
+- [Psychological distress, particularly depression, consistently predicted poorer academic outcomes among university students across the reviewed literature](distress-predicts-poorer-academic-outcomes-university-students.md) — related
