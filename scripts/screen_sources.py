@@ -81,7 +81,25 @@ UNIVERSES = {
         "note": "PMC open access since 2010, with teaching, educational measurement, computer-assisted "
                 "instruction or simulation training as a major MeSH topic, typed RCT or meta-analysis",
     },
+    # arXiv's search API is closed to automated clients (robots.txt), so this universe is read from the
+    # Kaggle metadata snapshot (--snapshot, or ARXIV_SNAPSHOT). Its query is the filter below, applied to
+    # every record: physics.ed-ph in any category, or a primary category among ARXIV_CS_CATEGORIES with
+    # an education term and a learning-outcome term in the title or abstract.
+    "arxiv-education-research": {
+        "source": "arxiv",
+        "query": "categories contains physics.ed-ph; or primary in cs.CY, cs.HC, cs.AI, cs.CL, cs.LG, stat.AP "
+                 "and title+abstract match ARXIV_EDU and ARXIV_OUTCOME",
+        "note": "arXiv physics education research, and computing and statistics papers about learners "
+                "or instruction that name a learning outcome or an experimental design",
+    },
 }
+
+ARXIV_CS_CATEGORIES = ("cs.CY", "cs.HC", "cs.AI", "cs.CL", "cs.LG", "stat.AP")
+ARXIV_EDU = re.compile(r"\b(students?|learners?|pupils?|classroom|teachers?|tutor(ing)?|instruction(al)?|"
+                       r"curricul\w*|courses?|courseware|education(al)?|MOOCs?)\b", re.I)
+ARXIV_OUTCOME = re.compile(r"(learning (outcomes?|gains?)|achievement|post-?test|pre-?test|randomi[sz]ed|"
+                           r"controlled (trial|experiment)|quasi-experiment|effect size|meta-analy|"
+                           r"improv\w* (learning|performance|understanding)|experimental (group|condition))", re.I)
 
 PROMPT = """You are screening a source for a learning-design wiki, from its title and abstract only.
 The default is to INCLUDE. Anyone designing learning, in any setting, uses this wiki.
@@ -198,9 +216,38 @@ def build_pmc(spec):
     return list(members.values())
 
 
-def build(name):
+def build_arxiv(snapshot):
+    path = snapshot or os.environ.get("ARXIV_SNAPSHOT")
+    if not path or not Path(path).exists():
+        sys.exit("arXiv needs the Kaggle metadata snapshot: --snapshot <arxiv-metadata-oai-snapshot.json>")
+    members = []
+    with open(path, encoding="utf-8") as fh:
+        for line in fh:
+            p = json.loads(line)
+            cats = (p.get("categories") or "").split()
+            text = f"{p.get('title') or ''} {p.get('abstract') or ''}"
+            if not ("physics.ed-ph" in cats or (cats and cats[0] in ARXIV_CS_CATEGORIES
+                                                 and ARXIV_EDU.search(text) and ARXIV_OUTCOME.search(text))):
+                continue
+            aid = p["id"].strip()
+            versions = p.get("versions") or []
+            m = re.search(r"\b(19|20)\d{2}\b", str(versions[0].get("created") if versions else p.get("update_date")))
+            members.append({
+                "id": f"arxiv-{aid}", "title": " ".join((p.get("title") or "").split()),
+                "year": int(m.group(0)) if m else None, "doi": (p.get("doi") or "").lower() or None,
+                "ptype": f"arXiv preprint ({' '.join(cats)})" + (f"; published as {p['journal-ref']}"
+                                                                 if p.get("journal-ref") else ""),
+                "authors": p.get("authors") or "et al.",
+                "abstract": " ".join((p.get("abstract") or "").split()),
+                "url": f"https://arxiv.org/abs/{aid}", "fetch_url": f"https://arxiv.org/pdf/{aid}",
+            })
+    return members
+
+
+def build(name, snapshot=None):
     spec = UNIVERSES[name]
-    members = build_eric(spec) if spec["source"] == "eric" else build_pmc(spec)
+    members = {"eric": build_eric, "pmc": build_pmc}[spec["source"]](spec) if spec["source"] != "arxiv" \
+        else build_arxiv(snapshot)
     SCREEN_DIR.mkdir(parents=True, exist_ok=True)
     CACHE_DIR.mkdir(parents=True, exist_ok=True)
     with (SCREEN_DIR / f"{name}.ndjson").open("w", encoding="utf-8") as fh:
@@ -326,8 +373,9 @@ def record(name, apply):
                                                  f"models excluded on {rec['basis']}: {reasons}"[:900])
         elif v == "include":
             queue.append({k: m.get(k) for k in ("id", "title", "authors", "year", "url", "fetch_url", "pmcid")
-                          if m.get(k) is not None} | {"source": "eric" if sid.startswith("eric-") else "pubmed",
-                                                      "topic_hint": f"screen:{name}"})
+                          if m.get(k) is not None}
+                         | {"source": {"eric": "eric", "pmc": "pubmed", "arxiv": "arxiv"}[UNIVERSES[name]["source"]],
+                            "topic_hint": f"screen:{name}"})
     for k, n in sorted(counts.items()):
         print(f"  {k:32} {n}")
     if apply:
@@ -363,9 +411,10 @@ def main():
     ap.add_argument("--limit", type=int, default=0, help="with --screen: screen only this many (a pilot)")
     ap.add_argument("--workers", type=int, default=24)
     ap.add_argument("--apply", action="store_true", help="with --record: write the manifest and the queue")
+    ap.add_argument("--snapshot", help="with --build of an arXiv universe: the Kaggle metadata snapshot")
     a = ap.parse_args()
     if a.build:
-        build(a.build)
+        build(a.build, a.snapshot)
     elif a.screen:
         screen(a.screen, a.limit, a.workers)
     elif a.record:
