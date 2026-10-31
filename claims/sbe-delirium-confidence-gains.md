@@ -50,3 +50,4 @@ This narrative synthesis spans studies including a single-group pretest–post t
 - [Simulation-based education combined with workflow redesign improved ICU nurses' delirium-assessment documentation rates on day and night shifts](sbe-delirium-documentation-improvement-icu.md) — related
 - [Delirium knowledge gains from simulation-based education were sustained over time in repeated-survey and delayed-assessment studies](sbe-delirium-knowledge-sustained-gains.md) — related
 - [Increasing the proportion of simulation within a nursing course shows mixed effects on competency outcomes (Hayden et al. trial)](more-vs-less-simulation-mixed.md) — related
+- [Learner confidence consistently improved following e‐learning interventions in ENT education](elearning-ent-confidence-consistently-improved.md) — related

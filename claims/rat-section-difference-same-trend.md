@@ -51,3 +51,4 @@ Repeated Measures ANOVA (SPSS v. 22.0) comparing RAT scores between the two cour
 - [In both TBL formats, tRAT and iSAT scores significantly improve over preceding iRAT scores](tbl-trat-isat-improve-over-irat.md) — a narrower finding that bears on this claim
 - [Individual readiness assurance tests (i-RATs) in pre-clinical TBL are almost universally MCQ-based, mostly closed-book, typically 5 to 30 items lasting 10 to 30 minutes](irat-mcq-closed-book-5-30-items.md) — related
 - [Included studies report positive correlations between TBL participation and assessment performance, with i-RAT scores predicting final examination performance](tbl-participation-correlates-assessment-performance.md) — related
+- [TBL improves team readiness assurance test scores compared to individual tests](tbl-grat-outperforms-irat.md) — a broader claim this one bears on

@@ -18,7 +18,7 @@ sources:
 # Mastery Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (8 for, 11 mixed, 3 against) · 22 studies (5 causal, 5 quant-synthesis, 5 theoretical, 4 review, 2 qualitative, 1 associational), `q1`–`q4` · 5 of 22 report an effect size · 18 claims rest on one study
+> **Evidence** · 24 claims (10 for, 11 mixed, 3 against) · 24 studies (6 review, 5 causal, 5 quant-synthesis, 5 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 5 of 24 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -83,6 +83,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [+M] — not settled: the text available could not confirm the entries (abstract)
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~M] — not yet checked against its sources
 - [The mark of failure is not a ranking mark but an indication that a student should not proceed without repeating the subject](../claims/failure-mark-not-a-ranking-mark.md) [+W] — attached 2026-10-24 from Kohl et al. (1911), which proposed "Design instruction and student progress so that no student needs to fail".
+- [Proficiency-based training, including mastery learning, is effective for achieving competence in neuraxial access](../claims/proficiency-based-training-effective-neuraxial-competence.md) [+W] — attached 2026-10-31 from Nielsen Martine Siw et al. (2025), which proposed "Training should be proficiency-based, requiring all trainees to continue practising until skills are ensured using valid assessment tools"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -103,6 +104,7 @@ Unit-check success, course-examination performance, delayed retention, transfer 
 - [Mastery learning effects are larger for lower-aptitude students, narrowing the spread of achievement in a class](../claims/mastery-learning-effects-larger-for-lower-aptitude-students.md) [~M]
 - [Self-paced mastery programs (PSI) reduce college course completion, though not by enough to explain their examination advantage](../claims/self-paced-mastery-programs-reduce-college-course-completion.md) [-M]
 - [A feedback loop between rapid guessing and the mastery-criteria algorithm drove rapid guessing to nearly half of all attempts on some knowledge components, blocking mastery](../claims/rapid-guessing-mastery-feedback-loop.md) [-W]
+- [Surgical societies outlined RAS curricula featuring proficiency-based progression, modular intraoperative training, and objective assessment.](../claims/surgical-societies-ras-curricula-proficiency-modular-objective.md) [+W]
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md)

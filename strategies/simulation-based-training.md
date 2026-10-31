@@ -71,6 +71,8 @@ Simulation works because it compresses experience: learners encounter rare, high
 - [Use virtual patients to replace passive instruction and train clinical reasoning before bedside learning, without diminishing bedside teaching hours](vp-replace-passive-before-bedside-strategy.md)
 - [Operationalise workplace-based learning within national obstetric emergency training programmes, embedding learning visibly into real clinical settings alongside simulation](operationalise-wpbl-in-oe-training-programmes.md)
 - [Combine simulation sessions with practical and workplace learning, since limited simulated experiences are insufficient for complex skills](simulation-plus-workplace-learning-complex-skills.md)
+- [Use hybrid simulations combining real-world materials with low-cost simulators to enable realistic, interactive scenarios at reduced cost](hybrid-simulation-real-world-materials-low-cost-simulators.md)
+- [Deliver NTS training through simulation-based courses with structured debriefing focused on Crisis Resource Management principles, supplemented by in-situ refreshers and visual reminders.](simulation-crm-debriefing-delivery-strategy.md)
 
 ## Examples
 - **Flight simulation (aviation)** — Full-motion simulators with standardized proficiency checks are the canonical case; airline pilots log most initial type-rating hours in simulation before touching the aircraft.

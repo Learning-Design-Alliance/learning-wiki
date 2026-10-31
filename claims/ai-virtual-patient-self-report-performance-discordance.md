@@ -55,3 +55,4 @@ Qualitative synthesis of Kirkpatrick level 2 findings reported in three included
 - Outcome evaluation of AI-generated virtual patients in HPE is concentrated at Kirkpatrick level 1, with no studies reporting level 3 or 4 outcomes — related
 - [Repeated exposure to AI-VPs is associated with improved perceived self-efficacy and more positive attitudes toward communication training](ai-vp-self-efficacy-attitudes.md) — reports the opposite
 - [Evidence of transfer from AI-VP training to real clinical practice is scarce, and one cohort study found lower field assessment scores after AI-VP training](ai-vp-transfer-to-practice-scarce.md) — a narrower finding that bears on this claim
+- [Virtual patient-based learning produces greater learning performance, self-efficacy and communication skills than conventional learning in a quasi-experimental study](vp-social-learning-quasi-experiment-communication.md) — reports the opposite

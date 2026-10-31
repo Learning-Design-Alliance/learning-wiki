@@ -76,3 +76,5 @@ The article synthesizes meta-analytic comparisons of PBL with traditional direct
 - [Traditional instruction is more effective than PBL for short-term retention as measured by standardized board exams](traditional-instruction-short-term-retention-board-exams.md) — related
 - [Students described knowledge gained through PBL group work in terms of generation, application, and dissemination of knowledge, plus pedagogical knowledge for future teaching](pbl-knowledge-generation-application-dissemination.md) — related
 - [Instructional approaches that include inquiry learning are more effective than direct instruction for acquiring conceptual knowledge, per the review's synthesis of meta-analyses](inquiry-more-effective-than-direct-conceptual-knowledge.md) — related
+- [Systematic review finds PBL contributes to clinical skill development in OB/GYN education](pbl-clinical-skills-development-obgyn.md) — a narrower finding that bears on this claim
+- [PBL combined with virtual simulation improved theoretical knowledge and practical skills in clinical biochemistry](pbl-virtual-simulation-improves-theory-and-skills.md) — reports the opposite

@@ -40,6 +40,7 @@ Because AI is not typically in standard curricula, the article recommends that "
 
 - [Integrate AI literacy across grades and subject-area learning rather than confining it to electives](integrate-ai-literacy-across-subject-areas.md)
 - [Select familiar contextual topics and age-appropriate materials when integrating AI into subject courses](familiar-contexts-and-age-appropriate-materials-integrated-ai.md)
+- [Adopt a tiered or modular design for future competency measurement tools](tiered-modular-design-hl-competency-tools.md)
 
 ## Examples
 -

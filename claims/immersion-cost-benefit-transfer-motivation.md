@@ -92,3 +92,5 @@ The review reports, citing Frederiksen et al. (2020) in surgical training, that 
 - [Immersive and non-immersive VR video formats showed no significant difference in learning success for clinical procedures, though immersive VR was rated more positively](immersive-vs-non-immersive-vr-no-learning-difference.md) — related
 - [Immersive modalities, particularly virtual reality, are associated with higher perceived presence, engagement, and realism than less immersive formats](vr-immersion-higher-presence-engagement.md) — related
 - [A VR simulation of psychosis reduced stigma and increased empathy and knowledge among medical students](vr-psychosis-empathy-stigma.md) — related
+- [Simulation type–outcome alignment: high-fidelity formats favour judgment and decision-making, VR and games favour empathy and reflection](simulation-type-outcome-alignment.md) — related
+- [Virtual reality use in TEPBLL positively boosted students' motivation, supporting a self-determination theory interpretation](vr-projects-boost-motivation-sdt.md) — a narrower finding that bears on this claim

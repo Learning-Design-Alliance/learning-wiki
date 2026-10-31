@@ -51,3 +51,4 @@ The review's abstract enumerates these three additional benefits as background m
 - [Virtual and remote labs reduce the costs associated with conventional hands-on labs](virtual-remote-labs-reduce-hands-on-lab-costs.md) — related
 - The virtual and remote labs literature to 2015 can be characterized by its most influential publications, most researched topics, and evolving topic interest — a broader claim this one bears on
 - [STEM faculty implemented the five inquiry phases online during COVID-19 emergency remote teaching](faculty-implemented-inquiry-phases-online-covid.md) — related
+- [Virtual labs increase confidence but cannot fully replace hands-on experimental learning](virtual-labs-cannot-replace-hands-on-learning.md) — related

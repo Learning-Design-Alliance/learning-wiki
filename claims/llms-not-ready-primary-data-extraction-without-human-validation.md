@@ -54,3 +54,4 @@ Authors' conclusion from the main-study confusion-matrix analyses of 112 studies
 - Most extraction discrepancies stemmed from ambiguity within the source meta-analyses rather than coder fabrication — related
 - LLM-based extraction of three variables from 156 meta-analyses cost about $50 in computing fees, far less than estimated human-assistant labor costs — related
 - [In a pilot study, leading LLMs showed promising but imperfect agreement with human coders extracting data from K-12 virtual-character studies](pilot-study-llm-agreement-virtual-character-studies.md) — related
+- [AI tools accelerate orthopaedic research through literature review, data extraction and evidence synthesis](ai-accelerates-ortho-research-workflows.md) — related

@@ -49,7 +49,8 @@ The article recommends that researchers and instructional designers "focus on de
 - [Instructional designers employ teaching activities such as self-reflection, authentic learning, and collaborative work to foster dispositions, but application is inconsistent](../claims/teaching-activities-foster-dispositions.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Educators should state the empathy definition to be adopted, specify which components to emphasise, and align curricular design and assessment metrics accordingly](explicit-empathy-definition-alignment-strategy.md)
 
 ## Examples
 -

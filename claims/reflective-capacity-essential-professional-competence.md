@@ -50,3 +50,6 @@ The review's opening synthesis states that reflection's importance is frequently
 - [The evidence supporting curricular interventions to promote reflection in health professional education remains largely theoretical](reflection-curricular-evidence-largely-theoretical.md) — related
 - [Teacher professional judgement is represented in AI ethics literature as an ethical and interpretive capacity central to responsible AI use, not a technical skill to be replaced](teacher-judgement-ethical-interpretive-capacity.md) — related
 - [Instruments show great heterogeneity in measurement quality, with validity or reliability information lacking in many cases](heterogeneous-measurement-quality-teacher-competence-instruments.md) — related
+- [Individual active participation in learning interventions promotes the development of relational competence in mental health education of healthcare professionals](individual-active-participation-promotes-relational-competence.md) — related
+- [TBL fosters professional identity development](tbl-fosters-professional-identity.md) — related
+- [Writing therapeutic letters promotes reflection and relational competence only when approached as a developing activity](therapeutic-letters-promote-reflection-if-developing-activity.md) — related

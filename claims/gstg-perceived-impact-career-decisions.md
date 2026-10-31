@@ -72,3 +72,4 @@ Self-reported 2025 CSAC survey data (Figure 7) show "over 7 in 10 (71%) identifi
 - [Golden State Teacher Grant recipients reported the scholarship made teaching financially feasible and led them to plan longer stays in high-need schools](gstg-made-teaching-financially-feasible.md) — related
 - [National Board Certification candidates more than tripled after the 2022 incentive program began, with a fourfold jump in high-need schools from 415 to 1,764](nbct-incentive-quadrupled-high-need-candidates.md) — related
 - [Nearly 4 in 5 GSTG teacher candidate recipients were income-eligible for the federal Pell Grant, far above the statewide undergraduate rate](gstg-recipients-pell-eligible-financial-need.md) — related
+- [The American Mock WHO simulation reported 90%–98% participant approval and perceived career influence](amwho-simulation-90-98-percent-approval.md) — related

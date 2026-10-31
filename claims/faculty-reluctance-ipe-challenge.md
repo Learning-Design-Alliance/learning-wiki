@@ -50,3 +50,4 @@ Review discussion of implementation challenges, attributed to the reviewed liter
 - [Case-based discussion is the most commonly used learning activity type in interprofessional education for undergraduate healthcare students](cbd-most-common-ipe-activity.md) — related
 - [Cost, equipment availability, maintenance and faculty training are reported implementation barriers for laparoscopic simulation, especially in resource-constrained settings](laparoscopic-simulation-implementation-barriers.md) — related
 - [Engineering faculty report reluctant engagement with GenAI, concerns about cognitive offloading, and frustration with uncoordinated institutional policy](faculty-reluctant-engagement-genai.md) — related
+- [Faculty and facilitators in IPE have difficulty identifying interprofessional learning opportunities in practice settings, requiring experienced agents to support them](ipe-faculty-difficulty-identifying-learning-opportunities.md) — related

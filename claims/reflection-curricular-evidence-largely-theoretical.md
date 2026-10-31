@@ -49,3 +49,5 @@ The review reports that the evidence base for reflection-promoting curricular in
 - [LLMs help bridge the gap between theoretical curricula and real-world skills by creating simulated scenarios, cases and problem contexts that are hard to reproduce in traditional classrooms](llm-simulations-bridge-theory-practice-gap.md) — related
 - [Developing curricular design knowledge enables small-scale responsive adaptations within a structured curriculum](curricular-knowledge-enables-responsive-instructional-moves.md) — related
 - [Reflective capacity is regarded by many as an essential characteristic of professional competence in the health professions](reflective-capacity-essential-professional-competence.md) — related
+- [Individual active participation in learning interventions promotes the development of relational competence in mental health education of healthcare professionals](individual-active-participation-promotes-relational-competence.md) — related
+- [Writing therapeutic letters promotes reflection and relational competence only when approached as a developing activity](therapeutic-letters-promote-reflection-if-developing-activity.md) — related

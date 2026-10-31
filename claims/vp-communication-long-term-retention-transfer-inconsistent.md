@@ -56,3 +56,5 @@ Narrative synthesis in the Discussion contrasting two included reviews' retentio
 - [Empathy and communication interventions show short-term gains but evidence on persistence over time is inconsistent](soft-skills-intervention-gains-not-sustained.md) — possibly the same claim (merge candidate)
 - [Reflective and cognitively oriented CPR approaches show potential for enhancing long-term skill retention, particularly at follow-up](reflective-practice-enhances-cpr-retention.md) — related
 - [Short-term, non-longitudinal training programmes pose challenges for estimating long-term skill retention](short-term-training-challenges-long-term-skill-retention.md) — related
+- [Lack of long-term follow-up limits evidence on sustained effectiveness of active methodologies](lack-follow-up-limits-long-term-evidence.md) — related
+- [Skill retention after neuraxial technical training tends to decline over time](skill-retention-declines-after-neuraxial-training.md) — related

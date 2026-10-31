@@ -50,3 +50,7 @@ The review reports a prospective cross-skill comparison of 60 participants (20 n
 - [Proficient learners complete the CT task faster and with fewer clicks than Novice and Developing learners](proficient-learners-task-efficiency-behaviour.md) — related
 - [Proficient learners report lower perceived task difficulty than Novice learners on the CT task](proficient-lower-perceived-difficulty.md) — related
 - [Three comparative studies reported superior outcomes for distance simulation over traditional training, involving augmented reality telementoring, remote robotic teaching, and a virtual classroom](distance-simulation-superior-outcomes-three-studies.md) — related
+- [Computer vision and machine learning enable objective, automated surgical skill assessment](computer-vision-objective-skill-assessment.md) — related
+- [Excessive tissue handling forces can cause severe complications, with reported safety thresholds between 1.3 and 11.4 Newton depending on tissue type and task](force-thresholds-tissue-damage-1-3-to-11-4-newton.md) — related
+- [Haptic simulator trials more frequently show superior accuracy outcomes when force-feedback and structured guidance are included](haptic-simulator-force-feedback-accuracy-gains.md) — related
+- [Prior robotic surgical experience is the main driver of better baseline performance and skills progression](prior-robotic-experience-driver-transfer.md) — related

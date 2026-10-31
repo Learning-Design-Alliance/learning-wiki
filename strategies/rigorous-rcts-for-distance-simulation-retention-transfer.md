@@ -46,6 +46,9 @@ Based on the evidence gaps it identifies, the review recommends that future work
 ## Related Strategies
 
 - [Future HFS trials for practising nurses need larger samples, rigorous randomised design and standardised, fully reported measures](hfs-nurse-research-quality-recommendations.md)
+- [Integrate quantitative and qualitative approaches in future cardiac arrest simulation feedback research](integrate-quantitative-qualitative-feedback-research.md)
+- [Future active-learning research should use randomised controlled designs with larger samples and standardised outcome measures](rigorous-rct-design-future-active-learning-research.md)
+- [Future research should include long-term RCTs with adequate sample sizes, standardized outcome measures, and cost-effectiveness analyses](strategy-long-term-rcts-standardized-outcomes-arvr.md)
 
 ## Examples
 -

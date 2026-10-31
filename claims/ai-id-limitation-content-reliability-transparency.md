@@ -66,3 +66,4 @@ Thematic synthesis of limitations (Table 7). The review notes Parsons & Curry (2
 - [Large language models can produce fluent but factually inaccurate or fabricated outputs (AI hallucination), posing risks for uncritical users in science education](llm-hallucination-risk-science-education.md) — a narrower finding that bears on this claim
 - [Using AIED poses technical, ethical and trust challenges for teachers](aied-challenges-technical-ethical.md) — a broader claim this one bears on
 - Data collection implementation and sample size are the most frequent limitations in digital competence research — related
+- [Hallucination — the generation of inaccurate, unverified, or illogical content — is the most frequently reported technical challenge for LLMs in dental education](hallucination-most-frequent-technical-challenge.md) — related

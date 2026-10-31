@@ -51,3 +51,4 @@ Randomized controlled study of 64 clinicians (Sarli et al. 2024, MMAT 4/5) with 
 - [AI-VPs delivering immediate, targeted feedback improve empathic communication in subsequent human-based interviews](ai-vp-feedback-improves-empathic-communication.md) — related
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related
 - [Empathy and communication interventions show short-term gains but evidence on persistence over time is inconsistent](soft-skills-intervention-gains-not-sustained.md) — a broader claim this one bears on
+- [Virtual patient interventions improved medical students' empathy in all 19 included studies, with effects reported immediately after intervention in 17 studies](vp-interventions-empathy-improvements-all-19-studies.md) — related

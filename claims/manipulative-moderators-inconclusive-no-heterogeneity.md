@@ -49,3 +49,4 @@ Bivariate meta-regression models (Table 3) tested grade level, manipulatives typ
 - [Interventions in higher Grades tend to have somewhat lower effect sizes; other study characteristics show few significant moderator effects](grade-level-moderates-effect-size.md) — related
 - [Manipulatives use during mathematics instruction yields a small statistically significant achievement advantage over nonuse in grades PK-12](manipulatives-use-small-significant-advantage-over-nonuse.md) — related
 - Effect sizes of small-group learning studies in engineering and technology education are significantly heterogeneous, justifying moderator analyses — related
+- [Knowledge gains from e‐learning are not significantly moderated by study design, student level, delivery synchronicity, intervention duration, or repeat testing](elearning-ent-knowledge-moderators-null.md) — related

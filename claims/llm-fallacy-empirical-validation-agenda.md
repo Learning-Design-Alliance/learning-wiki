@@ -51,3 +51,4 @@ Future-work section proposing measurement frameworks for the LLM fallacy, includ
 - [Proposition 1: outcome-aligned ownership performances will predict later individual transfer beyond AI-assisted product quality alone](proposition-1-ownership-predicts-transfer.md) — related
 - [Falsifiable hypothesis: unrestricted AI use on deep-processing tasks will produce a product–process dissociation—higher-rated assignments but lower unaided delayed transfer](h3-product-process-dissociation-hypothesis.md) — related
 - [Convenience–learning divergence proposition: satisfaction and adaptation may rise under AI mediation while intercultural engagement and frame revision fall](convenience-learning-divergence-proposition.md) — related
+- Assessment and metrics (82.61%) is the most proposed future research line, including evaluating digital pedagogical strategies in multicultural contexts (21.74%) — related

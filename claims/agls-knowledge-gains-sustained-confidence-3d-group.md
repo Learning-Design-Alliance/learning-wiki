@@ -52,3 +52,4 @@ The review's Table 2 summarizes an empirical study by Lisk et al. evaluating the
 - [3D virtual-reality lecture was statistically non-inferior to 2D lecture on knowledge and rated better on spatial understanding and enjoyment (Kockro et al.)](kockro-3d-lecture-noninferior-rated-better.md) — related
 - [Air Anatomy hand gestures raised recall and applied-knowledge post-test scores, with the largest benefit for students of low to moderate spatial ability](air-anatomy-gestures-posttest-gains-low-spatial-ability.md) — related
 - [Spatial ability correlated positively with neuroanatomy performance across pretest and both quizzes in a crossover 3D-module study (Allen et al.)](allen-spatial-ability-correlates-neuroanatomy-performance.md) — related
+- [Head-mounted display interventions improve anatomy recognition, spatial orientation, and learner confidence versus conventional instruction](hmd-improves-spatial-understanding-and-confidence.md) — related

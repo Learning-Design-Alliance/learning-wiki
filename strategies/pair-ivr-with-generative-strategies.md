@@ -48,6 +48,7 @@ Based on its findings, the review recommends that the effects of IVR on learning
 ## Related Strategies
 
 - [Incorporate VR-based simulation training into spine surgery residency curricula as an adjunct to traditional methods](incorporate-vr-training-into-residency-curricula-strategy.md)
+- [Incorporate multimedia elements and learner autonomy into e‐learning design for ENT education](elearning-ent-multimedia-autonomy-design-strategy.md)
 
 ## Examples
 -

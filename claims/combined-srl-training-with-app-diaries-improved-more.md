@@ -56,3 +56,4 @@ Randomised control study of 73 university students from mixed disciplines and st
 - [Using the chatbot-based journaling system improves self-reported SRL strategy use from pre-survey to 12-week follow-up in all groups, including baseline](journaling-system-improves-srl-all-groups.md) — related
 - [Neither diary-keeping nor diary-plus-instruction improved university students' academic performance](no-academic-performance-improvement.md) — related
 - [Chatbot-guided feedback SRL improved university students' reflection more than conventional SRL](srl-cgf-improves-reflection.md) — related
+- [Worked examples combined with practice writing improved clinical note checklist scores more than worked examples alone](worked-examples-plus-practice-improve-note-scores.md) — related

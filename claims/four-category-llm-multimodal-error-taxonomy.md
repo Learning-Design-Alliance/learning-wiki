@@ -92,3 +92,4 @@ Descriptive observation from the error analysis of the same question sets: compu
 - [The taxonomy decodes overlapping misconceptions behind a single observed loop-tracing error](taxonomy-decodes-overlapping-loop-misconceptions.md) — related
 - [Three publicly available LLMs achieve 96% average accuracy on text-only physics problems with no significant differences among models](llms-96-percent-text-only-physics-accuracy.md) — related
 - [Four process-level error categories account for roughly nine in ten attributed failures in VCoT geometry solving](four-process-error-categories-dominate-failures.md) — related
+- [LLMs underperformed on image-based dental examination questions compared with text-based questions](llms-underperform-image-based-questions.md) — related

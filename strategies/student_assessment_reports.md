@@ -59,9 +59,11 @@ Reports are most valuable when they support [Assessment for Learning](../princip
 6. Share with families with an explanation of the scales and suggested home supports
 
 ## Related Strategies
+
 - [Standards-based grading](../strategies/standards-based-grading.md) — a grading philosophy that student assessment reports typically operationalize
 - [Student-led conferences](../strategies/student-led-conferences.md) — students present their own reports, deepening self-assessment
 - [Learning dashboards](../strategies/learning-dashboards.md) — continuous, data-rich variants of the periodic report
+- [Incorporate objective structured scoring systems and progressive dashboards into self-directed curricula to support motivation and autonomy development](objective-scoring-dashboards-self-directed-curricula.md)
 
 ## Examples
 - **Standards-based report cards** (widely adopted across U.S. districts, e.g., Maine's statewide proficiency-based diploma policy) report mastery levels per learning target instead of single letter grades.

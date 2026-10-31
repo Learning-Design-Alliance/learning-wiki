@@ -56,3 +56,4 @@ Correlational survey of 480 undergraduate medical students with prior AI experie
 - [Self-regulated learning moderates the indirect effect of AI use on critical thinking through cognitive load](srl-moderates-indirect-ai-effect.md) — related
 - [Need for cognition correlates positively with critical genAI use and negatively with perceived usefulness of genAI](nfc-correlates-critical-use-and-skeptical-usefulness.md) — related
 - [GenAI use is positively associated with self-reported critical-thinking disposition among business students only in the adjusted structural model, with a near-zero zero-order correlation](genai-use-adjusted-positive-ct-disposition.md) — related
+- [PBL is associated with perceived improvements in critical thinking and communication skills among undergraduate medical students in both resource-limited and resource-rich settings](pbl-associated-perceived-critical-thinking-communication-improvements-medical-students.md) — related

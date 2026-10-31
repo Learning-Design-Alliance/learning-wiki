@@ -47,3 +47,4 @@ The review describes curricular uptake of reflection activities spanning "underg
 ## Related Claims
 - [The evidence supporting curricular interventions to promote reflection in health professional education remains largely theoretical](reflection-curricular-evidence-largely-theoretical.md) — related
 - [Reflective capacity is regarded by many as an essential characteristic of professional competence in the health professions](reflective-capacity-essential-professional-competence.md) — a broader claim this one bears on
+- [Individual active participation in learning interventions promotes the development of relational competence in mental health education of healthcare professionals](individual-active-participation-promotes-relational-competence.md) — related

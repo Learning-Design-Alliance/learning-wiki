@@ -47,3 +47,4 @@ The review reports a gap in its own corpus and attributes the pooled satisfactio
 ## Related Claims
 - [Student satisfaction with CBL, PBL and TBL in public health education was high, reported in 21 of 22 studies (95.4%)](high-satisfaction-21-of-22-public-health-active-learning.md) — related
 - [Of 22 included studies on active learning in public health education, 11 used PBL only, 6 used TBL, 3 integrated PBL and CBL, and 2 used CBL only](22-studies-pbl-11-tbl-6-cbl-2-both-3.md) — related
+- [Systematic review finds positive faculty satisfaction with PBL in OB/GYN education](pbl-faculty-satisfaction-obgyn.md) — related

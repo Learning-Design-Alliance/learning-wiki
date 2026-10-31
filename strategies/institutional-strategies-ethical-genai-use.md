@@ -55,6 +55,7 @@ Based on the model's findings, the authors recommend a set of institutional acti
 - [Design educators should strengthen primary research, foster critical verification habits, and move students from consumers to makers of GenAI tools](integrate-genai-design-education-strategies.md)
 - [Increase transparency of AI contributions through disclosure features, tool reminders, and training-data insight](ai-transparency-and-attribution-reminders.md)
 - [Institutions should adopt clear, prominently displayed AI policies and cultivate AI literacy for ethical, employability-oriented use](clear-ai-policies-and-ai-literacy-strategy.md)
+- [Establish standardized, ethically sound guidelines and coordinated stakeholder efforts for integrating LLMs into dental education](llm-integration-guidelines-dental-education-strategy.md)
 
 ## Examples
 -

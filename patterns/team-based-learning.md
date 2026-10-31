@@ -15,7 +15,7 @@ grain_size: unit, course
 # Team Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 34 claims (19 for, 13 mixed, 2 against) · 29 studies (9 quant-synthesis, 8 causal, 6 review, 2 associational, 2 design, 2 theoretical), `q1`–`q4` · 9 of 29 report an effect size · 27 claims rest on one study
+> **Evidence** · 39 claims (23 for, 14 mixed, 2 against) · 30 studies (9 quant-synthesis, 8 causal, 7 review, 2 associational, 2 design, 2 theoretical), `q1`–`q4` · 9 of 30 report an effect size · 32 claims rest on one study
 
 ## Description and scope
 
@@ -132,6 +132,11 @@ The retrieval evidence supports the readiness tests as retrieval with feedback; 
 - [TBL is associated with higher theoretical knowledge scores than LBL in Chinese neurology education (SMD = 1.16)](../claims/tbl-higher-theoretical-knowledge-scores-neurology-china.md) [+W]
 - [Team RATs almost always reuse the i-RAT MCQs immediately afterwards, with in-session immediate feedback via IF-AT mechanisms and facilitator-led clarification](../claims/trat-same-mcqs-immediate-feedback-ifat.md) [+W]
 - [Meta-regression finds intervention methods, duration, and participant type do not explain the heterogeneity in TBL effects](../claims/meta-regression-variables-fail-explain-heterogeneity.md) [~W]
+- [TBL improves team readiness assurance test scores compared to individual tests](../claims/tbl-grat-outperforms-irat.md) [+W]
+- [TBL improves ethical reasoning and moral sensitivity](../claims/tbl-improves-ethical-reasoning-moral-sensitivity.md) [+W]
+- [Low pre-reading compliance and resource demands hinder TBL implementation](../claims/tbl-implementation-barriers.md) [~W]
+- [TBL in medical ethics education improves knowledge retention compared to lectures](../claims/tbl-improves-ethics-knowledge-retention.md) [+W]
+- [TBL increases student satisfaction and engagement in ethics education](../claims/tbl-increases-ethics-satisfaction-engagement.md) [+W]
 
 ## Related Patterns
 - [Cooperative Learning](cooperative-learning.md) — shares positive interdependence and individual accountability; TBL adds the readiness assurance cycle and simultaneous reporting

@@ -49,6 +49,7 @@ The editorial's forward-looking recommendations for future authoring research. I
 - [Future improvements: real-world user studies, advanced student modeling, and spaced repetition](future-work-user-studies-student-modeling-spaced-repetition.md)
 - [Author ITSs without programming by enabling non-programmers to create, curate, and sequence instruction through authoring tools](non-programmer-its-authoring-strategy.md)
 - [Account for personal factors such as preferences and learning styles when developing adaptive educational computer games](personal-factors-adaptive-game-design.md)
+- [Adopt a tiered or modular design for future competency measurement tools](tiered-modular-design-hl-competency-tools.md)
 
 ## Examples
 -

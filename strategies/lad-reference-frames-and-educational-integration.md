@@ -39,6 +39,7 @@ The article recommends that "LAD developers should consider including one or mul
 ## Related Strategies
 
 - [Learning Dashboards](learning-dashboards.md)
+- [Incorporate objective structured scoring systems and progressive dashboards into self-directed curricula to support motivation and autonomy development](objective-scoring-dashboards-self-directed-curricula.md)
 
 ## Examples
 -

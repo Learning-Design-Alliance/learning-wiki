@@ -48,6 +48,8 @@ The review recommends that future research prioritize standardized and validated
 - [Prioritize research on treatment numbers, supervisor type and ratio, magnification access, and innovative teaching methods in undergraduate endodontic education](endodontic-education-future-research-priorities.md)
 - [Future psychiatry education technology studies should use active comparators, standardized assessment tools, and long-term follow-up](psychiatry-ed-tech-future-research-strategy.md)
 - [Evaluate AI standardized patient systems with both endpoint and process-sensitive outcomes](evaluate-ai-sp-with-endpoint-and-process-outcomes.md)
+- [Integrate quantitative and qualitative approaches in future cardiac arrest simulation feedback research](integrate-quantitative-qualitative-feedback-research.md)
+- [Use objective outcome measures (blinded OSCE, standardized tests, structured scales) in future ECE research](objective-outcomes-for-ece-research.md)
 
 ## Examples
 -

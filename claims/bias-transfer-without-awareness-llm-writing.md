@@ -53,3 +53,4 @@ Post-task survey (5-point Likert items on perceived AI influence, counterfactual
 - [Bias transfer is asymmetric: prompt condition affects agency in female-target essays but not male-target essays, suppressing female agency while male writing remains stable](asymmetric-female-agency-suppression-bias-transfer.md) — related
 - [A neutrally configured LLM assistant produced the lowest rate of gender-stereotypic occupation suggestions, below even the no-AI control condition](neutral-llm-assistant-attenuates-baseline-stereotyping.md) — related
 - [The video-task awareness measure did not correlate with misconceptions or conceptual change and is considered exploratory](awareness-video-task-null-correlations.md) — related
+- [The American Mock WHO simulation reported 90%–98% participant approval and perceived career influence](amwho-simulation-90-98-percent-approval.md) — related

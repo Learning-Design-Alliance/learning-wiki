@@ -58,6 +58,8 @@ The authors recommend a sequenced implementation model: "It is recommended to ac
 - [Use fidelity-aware simulated patients as a low-risk complement to supervision for deliberate psychotherapy practice](fidelity-aware-simulated-patients-deliberate-practice.md)
 - [Frame genAI virtual patient experiences: prompt experimentation with AI capabilities and orient students to its limits](frame-genai-pbl-experience-experimentation-orientation.md)
 - [Use structured training pathways with supervised early practice and experience-informed patient counselling in hip arthroscopy](structured-training-pathways-hip-arthroscopy.md)
+- [Use chatbot standardised patients combined with CBL to address limitations of traditional SP approaches.](chatbot-sp-cbl-strategy.md)
+- [Use virtual simulations to enhance cognitive learning while prioritizing in-person laboratory sessions for psychomotor and technical skills](virtual-simulations-cognitive-in-person-psychomotor.md)
 
 ## Examples
 -

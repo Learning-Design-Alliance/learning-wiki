@@ -47,3 +47,4 @@ Thematic analysis of designer narratives in the study; participants reported tha
 ## Related Claims
 - [Ethical decision-making about AI emerges as tensions and contradictions negotiated across ecological levels](ethical-ai-decision-negotiated-across-levels.md) — related
 - [Students' GenAI use is ethically negotiated, with decisions emerging from intersecting personal integrity, institutional rules, fear of punishment and practical constraints](genai-use-ethically-negotiated-entangled.md) — related
+- [TBL fosters professional identity development](tbl-fosters-professional-identity.md) — related

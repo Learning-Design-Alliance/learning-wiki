@@ -65,6 +65,7 @@ Authentic tasks support transfer because knowledge encoded in the context of use
 - [Productive Failure](productive-failure.md) — an authentic problem can serve as the initial exploration before instruction
 - [Teach the five steps of scientific investigation through personally motivating video analysis and modeling projects](video-analysis-modeling-sport-science-strategy.md)
 - [Design problem-based, inquiry-based, and case-based learning tasks in which uncertainty is anticipated and supported](design-tasks-anticipating-uncertainty.md)
+- [In resource-limited contexts, rely on strong pedagogy rather than technology: clear relevant cases, structured peer mentoring, and community settings as authentic learning environments](resource-limited-pbl-pedagogy-over-technology.md)
 
 ## Patterns That Use This Strategy
 - [Anchored Instruction](../patterns/anchored-instruction.md) — realistic narrative scenarios anchor problem solving

@@ -46,6 +46,7 @@ For researchers studying SRL scaffolds, the article recommends methodological ch
 - [Use multi-method, multi-timing measurement and subscale-level correlational analysis when evaluating metacognition](multi-method-metacognition-measurement-strategy.md)
 - [Conduct systematic ablation studies comparing levels of interface scaffolding and tailoring to identify when scaffolding approaches are effective](ablation-studies-scaffolding-levels-and-tailoring.md)
 - [Rigorously compare PBL with traditional methods before broad PGME implementation, using larger samples, controls, and follow-up](compare-pbl-traditional-methods-before-pgme-implementation.md)
+- [Future active-learning research should use randomised controlled designs with larger samples and standardised outcome measures](rigorous-rct-design-future-active-learning-research.md)
 
 ## Examples
 -

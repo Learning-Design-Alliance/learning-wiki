@@ -50,3 +50,4 @@ Subgroup analysis of the knowledge-acquisition meta-analysis by assessment timin
 - [The immediate advantage of deep-processing prompts does not persist at a 5-month follow-up, with a Bayesian test confirming the null](deep-prompt-advantage-fades-at-follow-up.md) — related
 - [Metacognition intervention effects persist at follow-up (g = 0.29) in young children](metacognition-interventions-followup-effects-persist.md) — related
 - [The RT propensity–learning relationship is strongest early in the class session and attenuates later](rt-learning-relationship-strongest-early-session.md) — related
+- [Onsite training skill effects are larger at immediate post‐intervention than at follow‐up, while hybrid skill effects do not differ by assessment point](onsite-skill-effects-larger-immediate-post-intervention.md) — related

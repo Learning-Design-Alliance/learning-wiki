@@ -51,3 +51,4 @@ Review synthesis of Naik (2001), a randomised trial of a low-fidelity bench mode
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [Evidence on transfer to clinical behavior and patient outcomes is scarce: only 2 studies reached Kirkpatrick level 3 and 1 reached level 4](transfer-and-patient-outcomes-scarce.md) — related
 - [The ORSIM bronchoscopy simulator shows the most comprehensive validation among fibreoptic simulators, with construct validity (experts outperforming novices) and predictive validity](orsim-strongest-construct-predictive-validity.md) — related
+- [No longitudinal studies or RCTs demonstrate that AI-acquired skills transfer to the operating room](no-longitudinal-evidence-ai-skill-transfer-or.md) — reports the opposite

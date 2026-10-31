@@ -58,3 +58,4 @@ This is the brief's own conceptual argument for the Balance criterion, not a tes
 - [Emotions are seldom explicitly analyzed in conversational CSCL contexts and must be balanced with cognition in conversation conceptualization](emotions-neglected-cscl-emotional-talk.md) — related
 - [Interpersonal skills, including communication, active listening, and gaining buy-in, are heavily emphasized by ID/ET professionals](interpersonal-skills-emphasized-by-id-et-professionals.md) — related
 - [Educators prioritize a creative mindset including creative problem-solving, diversity of perspectives, and playful inquiry](makerspace-creative-mindset-competency.md) — related
+- [Intrapersonal and interpersonal competencies are widely represented across curricula whereas organizational-level competencies appear in relatively few studies](mlm-organizational-competencies-underrepresented.md) — related

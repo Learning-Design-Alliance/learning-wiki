@@ -58,3 +58,4 @@ ANOVA on the global composite of four OSCE rating items (coefficient alpha = 0.8
 - [Multi-agent AI standardized patient training improved final OSCE-aligned examination scores compared with a structured non-LLM control condition](ma-scaffolding-improves-osce-exam-score.md) — related
 - [Second-year medical students improve their intercultural and interprofessional communication performance between first and second run-throughs of MPathic-VR scenarios](mpathic-vr-repeat-runthrough-improvement.md) — related
 - Experimental groups differed significantly on prior VR experience and gender composition, which were used as covariates — related
+- [No longitudinal studies or RCTs demonstrate that AI-acquired skills transfer to the operating room](no-longitudinal-evidence-ai-skill-transfer-or.md) — reports the opposite

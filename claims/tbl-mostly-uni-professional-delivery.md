@@ -49,3 +49,4 @@ Study-characteristics analysis of the 288 included studies; 82% (235/288) were c
 - The TBL-in-medical-education evidence base comprises 288 empirical studies that primarily use quantitative descriptive methods, most commonly surveys — related
 - TBL research concentrates on learning outcomes (76%) and individual characteristics such as student perceptions (69%), neglecting other components of the seven-component TBL model — related
 - Justification studies dominate TBL research (52%) while clarification studies remain rare (15%) and never catch up over time — related
+- [TBL fosters professional identity development](tbl-fosters-professional-identity.md) — related

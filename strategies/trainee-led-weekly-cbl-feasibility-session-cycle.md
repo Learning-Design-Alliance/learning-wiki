@@ -47,7 +47,8 @@ The authors' planned feasibility programme for CBL within their own institution:
 - [A formal oncology CBL programme delivered via videoconferencing may enhance learning opportunities for rural and remote trainees in Australia](../claims/videoconferenced-cbl-for-rural-trainees.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Scaffold method choice by student progression: CBL early, transitioning to PBL and TBL](scaffold-cbl-early-transition-pbl-tbl.md)
 
 ## Examples
 -

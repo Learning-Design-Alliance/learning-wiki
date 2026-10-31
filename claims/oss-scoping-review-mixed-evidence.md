@@ -49,3 +49,4 @@ Scoping review following the Arksey and O'Malley framework refined by JBI, searc
 - The 41 included IPE studies were heterogeneous in design, scale, and professions, with no randomized controlled trials — related
 - [Effects on the ATOP scale were inconsistent across the three studies that used it](oss-atop-inconsistent-across-studies.md) — possibly the same claim (merge candidate)
 - [Included studies acknowledge OSS cannot fully reproduce the lived experience of people with obesity](oss-cannot-replicate-lived-experience.md) — a narrower finding that bears on this claim
+- The review included 19 studies, predominantly from the United States (n=9) and Canada (n=5), with heterogeneous methodological quality — related

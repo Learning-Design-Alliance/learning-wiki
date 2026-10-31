@@ -54,3 +54,5 @@ The review's own GRADE assessment across nine studies (589 participants for know
 - [Nurses begin with low baseline knowledge of diabetic foot care, and educational qualifications may moderate post-training knowledge gains](low-baseline-nurse-knowledge-moderated-by-qualification.md) — a narrower finding that bears on this claim
 - Certainty of evidence for all outcomes was rated low due to serious risk of bias and heterogeneity — related
 - [Certainty of evidence for narrative medicine education effects is rated very low under GRADE](narrative-medicine-evidence-very-low-certainty.md) — related
+- Included active-methodology studies had a high overall risk of bias — related
+- Risk-of-bias assessment finds 76% of included RCTs at low risk of bias using the Cochrane RoB-2 tool — related

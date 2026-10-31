@@ -48,3 +48,4 @@ Subgroup analyses across the 43 theses (smaller k per moderator due to unreporte
 - [The combined meta-regression model of sample size and number of vocabulary items taught is significant, accounting for 44.7% of between-study variance](combined-meta-regression-model-447-percent-variance.md) — related
 - [Number of vocabulary words taught alone does not significantly predict effect sizes in meta-regression](number-words-taught-non-significant-meta-regression.md) — a narrower finding that bears on this claim
 - [Question type, stem type, MCQ source, and web accessibility did not independently explain LLM accuracy heterogeneity in biomedical MCQ meta‐regressions](mcq-covariates-not-explaining-llm-accuracy-heterogeneity.md) — related
+- [Knowledge gains from e‐learning are not significantly moderated by study design, student level, delivery synchronicity, intervention duration, or repeat testing](elearning-ent-knowledge-moderators-null.md) — related

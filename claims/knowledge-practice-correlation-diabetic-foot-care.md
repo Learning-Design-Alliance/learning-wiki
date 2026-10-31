@@ -49,3 +49,4 @@ Review reports the correlation finding attributed to AbdElshafy et al. [22]; the
 - [Educational programmes are associated with significant improvements in nurses' diabetic foot care practice, measured in seven of the nine included studies](educational-programmes-improve-nurse-foot-care-practice.md) — related
 - [Exploratory correlations suggest embodiment was specifically relevant in the re-experiencing group, correlating with written procedural knowledge and post-test self-efficacy](embodiment-correlations-re-experiencing-group.md) — related
 - [Higher response time, accuracy, and motivation correlate with higher post-test scores; reading time of explanations does not](correlations-post-test-behavioral-measures.md) — related
+- [Many nurses in SSA have adequate knowledge of diabetes self-management support and care in some studies](ssa-nurses-adequate-diabetes-care-knowledge.md) — related

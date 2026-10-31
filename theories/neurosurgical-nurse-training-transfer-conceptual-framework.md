@@ -40,7 +40,7 @@ A framework, presented as Figure 1, depicting training transfer as an adaptive r
 
 - [Training Transfer As Adaptive Reconstruction](../claims/training-transfer-as-adaptive-reconstruction.md) [+M]
 - [Contextualized Teaching Facilitates Transfer](../claims/contextualized-teaching-facilitates-transfer.md) [+M]
-- [Organizational Empowerment Enables Transfer](../claims/organizational-empowerment-enables-transfer.md) [+M]
+- [Specialty nurses and their managers describe clear role positioning and multidisciplinary support as facilitating training transfer](../claims/organizational-empowerment-enables-transfer.md) [+M]
 - [Resource Mismatch And Support Discontinuity Constrain Transfer](../claims/resource-mismatch-and-support-discontinuity-constrain-transfer.md) [+M]
 - [Transfer of advanced competencies is limited by institutional case exposure, technical platforms, and multidisciplinary maturity rather than training deficiencies](../claims/advanced-competency-transfer-limited-by-institutional-resources.md) [+W]
 - [Basic perioperative care competencies transfer most smoothly to clinical practice after neurosurgical specialty nurse training](../claims/basic-perioperative-competencies-transfer-readily-neurosurgical-nurses.md) [+W]

@@ -47,3 +47,4 @@ Review synthesis of validity evidence across included studies. The review report
 ## Related Claims
 - [Student performance on design problems correlates negligibly with traditional project grades, suggesting DPs capture distinct transfer-oriented HOT dimensions](dp-grades-uncorrelated-with-project-grades.md) — related
 - Knowledge-level assessments (written and oral exams) are underrepresented in the physical therapy assessment literature relative to performance-based assessments — related
+- [Written knowledge tests, OSCEs and situational judgement tests all show predictive validity for later clinical performance](assessments-predictive-validity-later-clinical-performance.md) — related

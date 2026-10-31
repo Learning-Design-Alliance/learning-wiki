@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 142 claims (92 show a difference, 34 mixed, 16 no difference) · 103 studies (31 review, 25 associational, 18 causal, 14 quant-synthesis, 6 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 29 of 103 report an effect size · 138 claims rest on one study
+> **Evidence** · 148 claims (98 show a difference, 34 mixed, 16 no difference) · 109 studies (35 review, 26 associational, 18 causal, 14 quant-synthesis, 7 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 29 of 109 report an effect size · 144 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -183,6 +183,12 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [Feedback in AI-VP training shows a differential corrective effect for learners with low baseline empathy](../claims/adaptive-feedback-low-baseline-empathy.md) [~M] — an instructional effect differs with it
 - [Narrative medicine education improves residents' empathy ability compared with lecture-based learning, though with publication bias detected](../claims/narrative-medicine-improves-empathy.md) [~M] — instruction changes it
 - [Political skills—communication, negotiation, and lobbying; networking and social coalition; and forming public opinion—are a factor of nurses' healthcare policy competence](../claims/political-skills-factor-policy-competence.md) [+M] — learners who differ on it differ in outcomes
+- [A docudrama helped graduate nurses gain empathy and understanding of families experiencing dementia](../claims/docudrama-built-graduate-nurse-empathy-dementia.md) [+W] — instruction changes it
+- [Early clinical exposure is associated with higher empathy scores regardless of gender and academic year](../claims/ece-higher-empathy-scores.md) [+W] — instruction changes it
+- [NTS training improves observable team behavioural performance in EDs, including more frequent closed-loop communication, clearer role allocation and prioritisation, improved situational awareness, and higher teamwork ratings (moderate certainty).](../claims/nts-training-improves-ed-team-behaviours.md) [+M] — instruction changes it
+- [Simulation increases participants' empathy, communication and interpersonal skills and decreases anxiety](../claims/simulation-increases-empathy-communication-skills.md) [+W] — instruction changes it
+- [Simulation-based interventions produce a small but statistically significant improvement in nursing students' empathy](../claims/simulation-small-significant-empathy-gain.md) [+M] — instruction changes it
+- [Virtual patient interventions improved medical students' empathy in all 19 included studies, with effects reported immediately after intervention in 17 studies](../claims/vp-interventions-empathy-improvements-all-19-studies.md) [+W] — instruction changes it
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

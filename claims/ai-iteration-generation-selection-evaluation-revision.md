@@ -51,3 +51,4 @@ Cross-study thematic synthesis of studies of AI-mediated design learning process
 - [Active engagement with AI outputs (cross-verifying, refining prompts, revising) supports productive learning and depends on learners' prior knowledge](active-ai-engagement-depends-on-prior-knowledge.md) — related
 - [Learner agency in GenAI-mediated learning is enacted through prompting, questioning, verification, comparison, revision, and disciplinary judgment](learner-agency-genai-verification-revision.md) — a broader claim this one bears on
 - [Language becomes an operational medium in AI-supported design, with risks of narrowing exploration](language-operational-medium-design-ai.md) — related
+- [Iterative revision of EPAs based on feedback was undertaken in two included studies.](iterative-revision-of-epas-from-feedback.md) — a narrower finding that bears on this claim

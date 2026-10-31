@@ -50,3 +50,4 @@ Random-effects meta-analysis of six RCTs comparing VR simulator training with tr
 - [VR-trained trainees show shorter screw penetration distances and fewer displaced screws per resident](vr-training-shorter-penetration-fewer-displaced-screws.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [High authenticity simulations show higher effects than low authenticity simulations](high-authenticity-simulations-higher-effects.md) — related
+- [VR simulation training improves orthopaedic trainees' technical proficiency and shortens operative times](vr-simulation-improves-ortho-technical-proficiency.md) — a broader claim this one bears on

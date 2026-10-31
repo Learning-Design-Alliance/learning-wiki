@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 34 claims (21 for, 13 mixed) · 24 studies (8 quant-synthesis, 6 associational, 3 review, 2 causal, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 8 of 24 report an effect size · 32 claims rest on one study
+> **Evidence** · 36 claims (23 for, 13 mixed) · 26 studies (9 quant-synthesis, 6 associational, 4 review, 2 causal, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 9 of 26 report an effect size · 34 claims rest on one study
 
 ## Description and scope
 
@@ -101,6 +101,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [In a survey of 236 blended-learning students, learners readily ranked teacher, student and content interaction, which the authors read as supporting both theses of the Interaction Equivalency Theorem](../claims/theorem-theses-confirmed-by-survey.md) [+W] — checked by the judge: all 1 entries pass (full text)
 - [In Pennsylvania districts using hybrid instruction with precautions in fall 2020, increases in student and staff infections were no greater than community increases outside school](../claims/hybrid-instruction-infection-increases-no-greater-than-community.md) [~M] — attached 2026-10-08 from Brian Gill (2021), which proposed "Pair hybrid instruction with precautions such as mask-wearing and physical distancing to mitigate in-school virus transmission".
 - [Blended implementation models matched to learner skill level: high-touch blended for lowest-skilled learners, online courses for more advanced students](../claims/blended-high-touch-lowest-skilled-adults.md) [+W] — attached 2026-10-09 from Constantakis (2016), which proposed "Support multiple, evolving blended implementation models with flexibility combined with structure".
+- [Hybrid training produces a larger effect on nurses' skills than onsite training](../claims/hybrid-training-larger-skill-effects-than-onsite.md) [+M] — attached 2026-10-31 from Pumsopa et al. (2025), which proposed "Integrate hybrid or blended training into community nurse education because it sustains knowledge and skill gains better than onsite‐only formats".
 
 ## Illustrative design instance and observation record
 
@@ -139,6 +140,7 @@ This pattern is scoped to dividing a course between online and in-person work. I
 - [A blended flipped classroom produced statistically significantly higher post-test scores than traditional teaching in one included histology study (p < 0.0001)](../claims/blended-flipped-classroom-higher-posttest-scores.md) [+W]
 - [Frailty education is most effective when it combines practical strategies with online and face-to-face demonstrations or mentoring](../claims/blended-practical-frailty-education-effective.md) [+W]
 - [Lack of physical interaction between students, peers, and educators was reported as a disadvantage of digital learning, and blended approaches were identified as a possible solution](../claims/physical-interaction-loss-blended-solution.md) [+W]
+- [Blended learning or flipped classroom models may combine e-learning and traditional modalities](../claims/blended-flipped-classroom-anaesthesia.md) [+W]
 
 ## Examples
 

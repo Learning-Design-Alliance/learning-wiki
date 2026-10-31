@@ -75,3 +75,4 @@ The review reports, citing Stieger et al. (2020a, b), a two-week digital coachin
 - [In trait-change interventions, participants who completed more trait-relevant behavioural challenges showed greater trait change over 15 weeks](behavioural-challenges-produce-trait-change.md) — related
 - [Exploratory 3-month follow-up suggested a sleeper effect on parent-rated empathy, but no maintained gains in other outcomes](zirkus-empathico-followup-sleeper-empathy.md) — related
 - [Cognitive training gains are maintained or further enhanced at two-month follow-up](act-cognitive-gains-sustained-follow-up.md) — a narrower finding that bears on this claim
+- Longitudinal program evaluation strategies were described in only three studies — related

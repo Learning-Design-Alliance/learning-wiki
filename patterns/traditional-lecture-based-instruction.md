@@ -21,7 +21,7 @@ sources:
 # Traditional Lecture-Based Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 39 claims (8 for, 20 mixed, 11 against) · 46 studies (12 review, 10 causal, 9 quant-synthesis, 7 theoretical, 5 qualitative, 2 associational, 1 design), `q1`–`q4` · 8 of 46 report an effect size · 31 claims rest on one study
+> **Evidence** · 41 claims (8 for, 21 mixed, 12 against) · 48 studies (14 review, 10 causal, 9 quant-synthesis, 7 theoretical, 5 qualitative, 2 associational, 1 design), `q1`–`q4` · 8 of 48 report an effect size · 33 claims rest on one study
 
 ## Description and scope
 
@@ -161,6 +161,8 @@ This pattern is scoped to courses where a lecturer's explanation to a whole grou
 - [Residents report higher satisfaction with narrative medicine education than lecture-based learning, but the effect is not robust to publication-bias adjustment](../claims/narrative-medicine-satisfaction-publication-bias.md) [~W]
 - [Two controlled studies found significantly higher examination scores and satisfaction in TBL groups compared with traditional lecture-based instruction](../claims/tbl-exam-scores-higher-than-lecture-two-studies.md) [-W]
 - [Narrative medicine education improves residents' procedural skill scores compared with lecture-based learning](../claims/narrative-medicine-improves-procedural-skill.md) [-W]
+- [TBL in medical ethics education improves knowledge retention compared to lectures](../claims/tbl-improves-ethics-knowledge-retention.md) [-W]
+- [One included study reported a 13.2% per-student cost reduction with CBL versus TL, but cost-efficiency was not consistently reported](../claims/cbl-cost-reduction-13-2-percent-single-study.md) [~W]
 
 ## Related Patterns
 - [Direct Instruction](direct-instruction.md) — the explain, model, guided-practice and hand-over policy; a lecture segment is its explanation step delivered to a large group

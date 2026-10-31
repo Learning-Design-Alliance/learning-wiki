@@ -62,3 +62,4 @@ A conceptual, normative and design-oriented paper that states it does not report
 - [Learners who construct good single arguments individually are not always able to apply that competence in comparable collaborative tasks](solo-argument-competence-not-applied-collaboratively.md) — related
 - [Overreliance on GenAI risks diminishing higher-order thinking skills and programming logic](genai-overreliance-risks-hots-programming-logic.md) — a narrower finding that bears on this claim
 - [GenAI cognitive offloading of lower-order tasks frees cognitive resources but risks reduced human evaluation skills](genai-cognitive-offloading-benefits-and-risks.md) — related
+- [LLM use as an educational resource showed mixed effects on student learning outcomes compared with conventional methods](llm-educational-resource-mixed-learning-effects.md) — related

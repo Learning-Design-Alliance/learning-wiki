@@ -53,6 +53,7 @@ The review proposes directions for targeted pedagogical interventions grounded i
 ## Related Strategies
 
 - [Simulation Based Medical Training](simulation-based-medical-training.md)
+- [Future research should explore emotion management strategies and exposure to emotionally evocative scenarios to support clinician performance and well-being](future-research-emotion-management-strategies.md)
 
 ## Examples
 -

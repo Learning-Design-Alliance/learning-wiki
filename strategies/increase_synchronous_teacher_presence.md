@@ -69,6 +69,7 @@ Teacher presence is one of three legs of the [Community of Inquiry](../principle
 - [Integrate synchronous discussion tools into online flipped learning environments to maximize engagement and self-regulation](integrate-synchronous-discussion-flipped-learning.md)
 - [Instructors on television should speak at a deliberate rate and use deliberate movements](deliberate-speech-and-movement-on-tv.md)
 - [Design synchronous online sessions as interactive lessons rather than recorded-style lectures](interactive-synchronous-sessions-strategy.md)
+- [Use breakout rooms and audience-response platforms to enhance learner engagement in remote teaching environments](breakout-rooms-audience-response-rt-engagement.md)
 
 ## Examples
 - **Zoom-based seminar courses** — instructor opens camera-on, runs a two-minute check-in, alternates mini-lectures with breakout discussions, and closes by naming student contributions.

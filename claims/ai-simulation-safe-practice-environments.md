@@ -68,3 +68,4 @@ Thematic analysis of qualitative data from 11 studies (focus groups, think-aloud
 - [Virtual simulation teaching enhances learning outcomes and deepens professional cognition through repeated practice, trial-and-error, and error-correction feedback](vs-advantages-learning-outcomes.md) — related
 - [A minority of nursing students report negative emotional responses to virtual simulation teaching, including fear, anxiety, and burnout](vs-negative-emotional-experiences.md) — related
 - [The vast majority of nursing students report positive emotional experiences in virtual simulation teaching, including excitement, reduced psychological burden, and boosted confidence](vs-positive-emotional-experiences.md) — related
+- [VR simulation shows signals of benefit for communication training in undergraduate nursing students, especially for self-reported knowledge, self-efficacy, attitudes and confidence](vr-communication-training-nursing-benefit-signals.md) — related

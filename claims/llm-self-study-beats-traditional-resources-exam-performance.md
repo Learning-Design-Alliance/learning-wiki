@@ -57,3 +57,4 @@ Randomized controlled experiment at Texas A&M University with 179 participants, 
 - [Persistence and performance costs concentrate among participants who used the AI to obtain direct solutions, while hint-users resemble controls](persistence-costs-concentrated-among-direct-solution-users.md) — related
 - [LLM-enhanced feedback did not yield a statistically significant improvement in final grades compared with traditional AI feedback](llm-feedback-no-significant-grade-gain.md) — related
 - [Solving context-personalized AI-generated tasks yields higher learning performance than solving standard tasks](gai-personalized-tasks-learning-performance.md) — related
+- [LLM use as an educational resource showed mixed effects on student learning outcomes compared with conventional methods](llm-educational-resource-mixed-learning-effects.md) — a broader claim this one bears on

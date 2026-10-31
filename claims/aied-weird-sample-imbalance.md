@@ -76,3 +76,4 @@ Same Table 6 analysis of relevant AIED sample origins; the paper reports "There 
 - Evidence on public health competency assessment is concentrated in high-income countries, with no studies from Latin America or Africa — related
 - The evidence base is geographically uneven: no study simultaneously examined all three constructs within a sub-Saharan African context — related
 - [The GTA literature is skewed towards the Global North and largely omits patient perspectives, despite patient-centred justifications for GTA programmes](gta-literature-gaps-patient-voice-global-north.md) — a narrower finding that bears on this claim
+- More than half of the included records were published by authors in the United States, with no records originating from South American or African countries. — related

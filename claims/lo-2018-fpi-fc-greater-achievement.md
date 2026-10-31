@@ -49,3 +49,4 @@ Review's account of Lo et al.'s (2018) FC approach based on the First Principles
 - [Better online learning outcomes in a flipped course tend to produce better in-class readiness, which further leads to better after-class performance and exam grades](spencer-2022-accumulative-fc-achievements.md) — related
 - [Blended Learning Improves Outcomes](blended-learning-improves-outcomes.md) — related
 - [A blended/hybrid flipped calculus course with an FC Orientation module improved student learning performance and perceptions significantly over the traditional lecture format](spencer-2022-hybrid-fc-improved-performance.md) — a narrower finding that bears on this claim
+- [Blended learning or flipped classroom models may combine e-learning and traditional modalities](blended-flipped-classroom-anaesthesia.md) — a broader claim this one bears on

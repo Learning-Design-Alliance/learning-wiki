@@ -49,3 +49,4 @@ Moderator analyses of study setting and educational level (Table 3): classroom k
 -
 - [Educational level does not significantly moderate Gen-AI's effect on HOT, though K-12 subgroups show a larger effect (ES = 0.857) than post-secondary (ES = 0.539)](genai-education-level-moderator.md) — related
 - [Monitoring accuracy interventions show larger effects in laboratory settings than in classroom settings, but classroom effects remain significantly positive](laboratory-larger-effects-than-classroom-monitoring-accuracy-interventions.md) — related
+- [SEM effectiveness is largest for secondary students, non-significant for elementary students](sem-learning-stage-moderator.md) — related

@@ -126,3 +126,4 @@ Open questions for future evidence entries include the durability of effects aft
 - [For writing quality, SRSD outperformed transcription instruction (β = 1.32) and effects were larger for weak writers (β = 0.92), both significant](srsd-vs-transcription-moderation-writing-quality.md) — related
 - [Teaching more text structures and including writing each increase the effect of text structure instruction](tsi-moderators-structures-and-writing.md) — related
 - [Writing instruction effects on quality were descriptively larger for weak writers (0.47) than typical writers (0.08), but not statistically significant without considering instructional focus](weak-writers-larger-quality-effects-descriptive.md) — related
+- [Most studies combined multiple teaching methods, typically didactic instruction followed by templates, writing practice, and feedback](combined-teaching-methods-sequence-documentation.md) — related

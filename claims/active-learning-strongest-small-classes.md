@@ -51,3 +51,4 @@ Moderator analysis of examination-score effect sizes by binned class size (small
 - [Effect sizes are highest in medium-sized classes (50–99 students), with class-size differences only marginally significant](ai-effect-medium-class-size-highest.md) — reports the opposite
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — possibly the same claim (merge candidate)
 - [Class size, course level, and discipline did not explain significant variation in how achievement gaps changed under active learning](class-size-level-discipline-not-significant-moderators.md) — related
+- [SEM effectiveness is greatest in small class sizes and non-significant in large classes](sem-class-size-moderator.md) — related

@@ -48,3 +48,4 @@ Review discussion of concurrent-validity studies comparing manikin airway anatom
 - [High-fidelity manikins and virtual reality were the most common paediatric SBE modalities across the reviewed studies](high-fidelity-manikins-vr-most-common-modalities.md) — related
 - [The review reports that high-fidelity simulation outperformed case-based discussion for clinical reasoning and leadership in paediatric emergencies](hfs-superior-case-based-discussion-reasoning.md) — related
 - [Across the reviewed studies, simulation-based interventions consistently improved paediatric undergraduate learning outcomes, including clinical reasoning, procedural skills and confidence](sbe-consistently-improved-paediatric-ume-outcomes.md) — related
+- [Training fidelity: low-fidelity manikins performed comparably to high-fidelity manikins for epidural skill acquisition](low-fidelity-manikins-comparable-to-high-fidelity-epidural.md) — related

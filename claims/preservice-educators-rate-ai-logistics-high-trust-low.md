@@ -55,3 +55,4 @@ Descriptive analysis of post-interaction Likert reflection items from 131 preser
 - [Educators did not perceive the iterative CTML review process as slowing them down, rating production efficiency at 4.26/5](educators-rate-review-friction-productive.md) — related
 - [Survey items on critical evaluation and validation of ChatGPT outputs (Q11–Q13) received the lowest scores in both courses despite explicit validation instructions](critical-evaluation-items-lowest-scores.md) — a narrower finding that bears on this claim
 - [AI-assisted interpretation of mockup review comments revealed low Clarity scores in Map and Bud projects](genai-mockup-review-clarity-scores.md) — related
+- [ChatGPT accuracy varies substantially across countries and specialties, from 73% on Italian to 22% on French examinations](chatgpt-accuracy-varies-across-countries-and-specialties.md) — related

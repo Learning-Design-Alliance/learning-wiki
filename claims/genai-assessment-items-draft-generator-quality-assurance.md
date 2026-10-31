@@ -95,3 +95,5 @@ The review reports these positive signals alongside settings where incorrect key
 - [Math and science are well-structured domains whose formal tasks make them favorable application areas for AIED technology](well-structured-domains-favor-aied.md) — related
 - [Most LLM-generated MCQs from video transcripts met established quality criteria, with 84.05% rated clear, 86.38% containing plausible distractors, and 93.39% directly answerable](llm-mcq-video-quality-ratings-majority-clear.md) — related
 - [47.08% of the 242 correct MCQs met all evaluated criteria and only four items exhibited three or more flaws](mcq-flaw-cooccurrence-121-pass-all.md) — related
+- [ChatPDF.com generates more difficult and discriminating MCQs than ChatGPT 3.5 and ChatGPT 4](chatpdf-com-more-difficult-discriminating-mcqs.md) — related
+- [Llama 2 generates MCQs of worse quality than humans on question clarity and distractor quality](llama-2-mcq-quality-worse-than-humans.md) — related

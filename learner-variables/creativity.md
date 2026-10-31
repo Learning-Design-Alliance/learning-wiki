@@ -13,7 +13,7 @@ generated:
 # Creativity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 119 claims (85 show a difference, 26 mixed, 8 no difference) · 63 studies (20 causal, 19 associational, 12 review, 5 quant-synthesis, 4 design, 2 theoretical, 1 qualitative), `q1`–`q3` · 17 of 63 report an effect size · 117 claims rest on one study
+> **Evidence** · 120 claims (86 show a difference, 26 mixed, 8 no difference) · 64 studies (20 causal, 19 associational, 13 review, 5 quant-synthesis, 4 design, 2 theoretical, 1 qualitative), `q1`–`q3` · 17 of 64 report an effect size · 118 claims rest on one study
 
 ## Description
 Creativity as a learner characteristic is the ability to produce ideas that are both new and fitting. It is most often measured with divergent-thinking tests (how many and how varied the uses someone can find for an object). It correlates with intelligence and with achievement, including in mathematics, where generating several solution paths may deepen understanding. Creativity can also be an outcome that instruction aims at; this page is about learners who differ in it.
@@ -154,6 +154,7 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 - [Subjective negative emotions and objective cortisol responses do not consistently predict WM and creativity in game-based situations](../claims/subjective-emotions-objective-cortisol-inconsistent-predictors.md) [-M] — instruction changes it
 - [Working memory has a positive effect on creativity during gaming](../claims/wm-positive-effect-creativity-gaming.md) [+M] — instruction changes it
 - [Thematic analysis of 14 studies of student views found creative drama produced influential outcomes across cognitive, creative/critical-thinking, learning-environment, and social-affective domains, along with negative aspects](../claims/creative-drama-thematic-outcomes-domains.md) [+M] — instruction changes it
+- [TEPBLL promotes eight language skills and knowledge areas: speaking, listening, reading, writing, vocabulary, creative and critical thinking, intercultural awareness, and content knowledge](../claims/tepbll-eight-skills-knowledge-promoted.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

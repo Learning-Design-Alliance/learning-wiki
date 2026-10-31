@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**2340 entries** · 0 stable · 2340 in review · 0 drafts
+**2348 entries** · 0 stable · 2348 in review · 0 drafts
 
 ---
 
@@ -751,6 +751,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Flowcode](flowcode.md) - An AI-powered web-based creative-coding environment developed by Tseng et al.
 * [Fluency Formula™](fluency-formula.md) - A Scholastic supplemental curriculum for grades 1–6 that provides brief daily lessons and materials designed to develop word-recognition automaticity, decoding accuracy, and oral reading expressiveness.
 * [FLUX smartphone ambulatory assessment application](flux-smartphone-ambulatory-assessment-application.md) - A dedicated smartphone application developed by the Technology Based Assessment Group at DIPF for the FLUX project to administer working-memory, sleep, and tiredness assessments to elementary-school children in daily-life settings.
+* [FMLM Leadership and Management Standards for Undergraduate Medical Education](fmlm-leadership-and-management-standards-for-undergraduate-medical-education.md) - A Faculty of Medical Leadership and Management framework defining five domains of leadership and management competencies for undergraduate medical students in the UK.
 * [Focus Coach](focus-coach.md) - Focus Coach is a no-cost digital study tool developed by Michael D.
 * [Focus on High Schools](focus-on-high-schools.md) - A Boston Public Schools reform programme that reorganized comprehensive high schools into smaller learning communities and reformed English and language arts programmes.
 * [For Our Babies campaign](for-our-babies-campaign.md) - A U.S.
@@ -770,6 +771,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Four-metric faculty equity grading framework](four-metric-faculty-equity-grading-framework.md) - A four-metric framework developed by Bitar et al.
 * [Four-pillar competency rubric](four-pillar-competency-rubric.md) - A rubric developed by Smith et al.
 * [Four-year Copilot comment-specification dataset from an undergraduate OOP course](four-year-copilot-comment-specification-dataset-from-an-undergraduate-oop-course.md) - A reconstructed longitudinal dataset of anonymized student comments, Copilot-generated Java code, and test results from four offerings of an undergraduate object-oriented programming activity.
+* [FourCe-PITO leadership framework](fource-pito-leadership-framework.md) - A leadership-competency framework created and used by the Uniformed Services University of the Health Sciences for its military medical leadership education program, integrating Character, Competence, Context, and Communication across Personal, Interpersonal, Team, and Organizational levels.
 * [FOXGLOVE](foxglove.md) - FOXGLOVE is a parallel dataset of sentence-anchored, goal-labeled instructor and LLM writing feedback with urgency rankings and expert quality ratings, created from twelfth-grade argumentative essays by Yijun Liu and colleagues.
 * [Fraction Face-Off!](fraction-face-off.md) - Fraction Face-Off!
 * [Fractions Lab](fractions-lab.md) - Fractions Lab is an exploratory fraction-learning environment developed by the iTalk2Learn project in which learners manipulate graphical representations and receive adaptive task-dependent support.
@@ -885,6 +887,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Head Start](head-start.md) - Head Start is a federally funded U.S.
 * [Head-Toes-Knees-Shoulders (HTKS) task](head-toes-knees-shoulders-htks-task.md) - A brief, game-like direct assessment developed for young children that measures behavioral self-regulation through rule reversal, attention, working-memory, and inhibitory-control tasks.
 * [Headsprout Early Reading](headsprout-early-reading.md) - Headsprout Early Reading is an Internet-based supplemental early-literacy curriculum developed by Headsprout, using adaptive animated lessons, stories, flashcards, and readers to teach foundational reading skills.
+* [Health Literacy Knowledge and Experience Survey (HLKES)](health-literacy-knowledge-and-experience-survey-hlkes.md) - The HLKES is a questionnaire developed by Cormier and Kotrlik to assess health professionals’ health-literacy knowledge and experiences, including recognition of patients at risk of low health literacy.
 * [Healthy Harlem](healthy-harlem.md) - Healthy Harlem is a school-based health and wellness programme whose Get Fit and Prevention components promote students' physical fitness, nutrition knowledge, and physical-activity self-efficacy.
 * [Healthy Minds Program (HMP)](healthy-minds-program-hmp.md) - Healthy Minds Innovations' Healthy Minds Program is a free smartphone-based meditation app that delivers structured audio lessons and guided practices for cultivating well-being skills.
 * [Healy Picture Completion Test](healy-picture-completion-test.md) - A standardized performance assessment in which children complete pictures and receive score-, time-, and age-level classifications, administered and scored using Pintner and Anderson procedures.
@@ -913,6 +916,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 #### I {: #letter-i }
 
 * [I CAN Learn](i-can-learn.md) - I CAN Learn® is a self-paced, mastery-based computer mathematics curriculum developed by JRL Enterprises, Inc., with interactive lessons, placement-based learning paths, practice, quizzes, and classroom tracking tools.
+* [I-AIM framework for organizing and assessing PoCUS competency](i-aim-framework-for-organizing-and-assessing-pocus-competency.md) - A clinical education framework used by PoCUS educators to organize competency development and assessment across indication, image acquisition, interpretation, and medical decision-making.
 * [I-BEST](i-best.md) - A Washington State Board for Community and Technical Colleges programme that integrates adult basic education with occupational training through team teaching and learner support services.
 * [i-Read](i-read.md) - i-Read is an online reading environment developed by Omheni et al.
 * [i-Ready](i-ready.md) - i-Ready is Curriculum Associates' digital learning platform combining computer-adaptive Diagnostic assessments with personalized Reading and Mathematics instruction.
@@ -1324,6 +1328,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Modern Classroom Project](modern-classroom-project.md) - The Modern Classroom Project is a teacher-created instructional model run by the Modern Classroom Project organization for self-paced, competency-based classroom instruction.
 * [Modified 5E lesson design planning template](modified-5e-lesson-design-planning-template.md) - This is a lesson-planning framework adapted by WestEd's K–12 Alliance for the Montebello project, modifying the 5E Instructional Model with concept, teacher, and student columns and embedded evaluation.
 * [Modified Intermodal Preferential Looking Paradigm (IPLP) word-learning task with novel word/object pairings](modified-intermodal-preferential-looking-paradigm-iplp-word-learning-task-with-novel-wordo.md) - A researcher-modified preferential-looking assessment developed and used by Houston et al.
+* [Modified Medical Education Research Study Quality Instrument (MMERSQI)](modified-medical-education-research-study-quality-instrument-mmersqi.md) - A modified study-quality assessment instrument used by medical education researchers to score the methodological quality of studies, including research on surgical training curricula.
 * [MoFaCTS](mofacts.md) - MoFaCTS is an online drill-trial problem-authoring and deployment platform that administers instructional and assessment activities, scores responses, and delivers corrective feedback.
 * [MoMa (Motivation in Mathematics)](moma-motivation-in-mathematics.md) - A 90-minute classroom-based mathematics relevance and motivation intervention developed by Gaspard et al.
 * [Montessori education system](montessori-education-system.md) - An educational programme developed by Maria Montessori that uses mixed-age groupings, prepared environments, specialized materials, and trained teachers to support self-directed learning from birth through adolescence.
@@ -1854,6 +1859,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Serie Leamos](serie-leamos.md) - Serie Leamos is a free digital Spanish library created by Georgia State University's Spanish program and School of Art and Design, offering student-written and student-illustrated stories with multiple reading levels, vocabulary support, activities, downloadable texts, and audiobooks.
 * [Seven categories of charter school core functions for organizing distress indicators](seven-categories-of-charter-school-core-functions-for-organizing-distress-indicators.md) - A charter-school authorizer toolkit framework that organizes longitudinal review of school distress indicators across leadership, governing board, operations, financial management, talent, culture, and instruction.
 * [Seven co-designed Learning Transition Design Principles for LER technologies](seven-co-designed-learning-transition-design-principles-for-ler-technologies.md) - A co-designed framework from the report authors for guiding and evaluating learning and employment record technologies serving HSE learners and workers.
+* [Seven-domain framework of health literacy competencies for health professionals](seven-domain-framework-of-health-literacy-competencies-for-health-professionals.md) - A seven-domain framework developed by Mac Olivia et al.
 * [Seven-item parent-reported AAC implementation experience score](seven-item-parent-reported-aac-implementation-experience-score.md) - A seven-item parent-reported questionnaire developed by Jarrar Hala et al.
 * [SFAILQ: 32-item Six-Facet Artificial Intelligence Literacy Questionnaire](sfailq-32-item-six-facet-artificial-intelligence-literacy-questionnaire.md) - A 32-item self-report assessment developed by Liu Qingqi et al.
 * [SGExams multi-year Reddit dataset of student discussions](sgexams-multi-year-reddit-dataset-of-student-discussions.md) - A deidentified longitudinal corpus of Reddit posts and comments from Singapore's r/SGExams community, collected and released by Ali et al.
@@ -1945,6 +1951,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [SPIRaL (Students Partners for Information Research and Literacy)](spiral-students-partners-for-information-research-and-literacy.md) - SPIRaL is Purdue's two-semester students-as-partners undergraduate research programme in which information-studies students investigate societal information challenges while developing information-literacy and research skills.
 * [Splash and Bubbles for Parents](splash-and-bubbles-for-parents.md) - A PBS KIDS companion app for the Splash and Bubbles television series that supports joint parent-child viewing, science-related conversation, and hands-on activities.
 * [Splash virtual laboratory](splash-virtual-laboratory.md) - Splash is a software-based virtual laboratory in which learners manipulate physical variables, conduct simulated experiments, and observe resulting phenomena.
+* [Sport Education Model (SEM)](sport-education-model-sem.md) - A structured physical-education teaching model developed by Daryl Siedentop in which students participate in extended sport seasons, stable teams, formal competition, varied instructional roles, record keeping, and culminating festivities.
 * [SPPA: Student Performance Prediction and Action framework](sppa-student-performance-prediction-and-action-framework.md) - An open-source web-based learning-analytics application developed by Alalawi et al.
 * [SPREE](spree.md) - A process developed and applied by the Corporation for National and Community Service to help funders and grantees evaluate, select, and scale evidence-based interventions.
 * [Springboard Summer](springboard-summer.md) - Springboard Summer is a five-week intensive summer literacy programme run by Springboard Collaborative for rising kindergarteners through fourth graders, combining literacy instruction, family engagement, educator support, and incentives.
@@ -2389,6 +2396,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [1,650-question STEM diagram dataset collected via campus-wide submission campaign](1650-question-stem-diagram-dataset-collected-via-campus-wide-submission-campaign.md) - A restricted dataset of 1,650 educator- and student-submitted STEM questions containing structurally meaningful diagrams for evaluating AI interpretation of topological reasoning, collected and curated by Sun et al.
 * [10-item self-report questionnaire for critical use of genAI](10-item-self-report-questionnaire-for-critical-use-of-genai.md) - A 10-item, 5-point Likert self-report questionnaire developed by Markus H.
 * [100-word range of information test in botany](100-word-range-of-information-test-in-botany.md) - A 100-term botanical vocabulary and information test developed by Grier for assessing first-year high-school pupils' plant-life knowledge carried from nature study and school gardens.
+* [11-cluster competency framework for academic global surgery education](11-cluster-competency-framework-for-academic-global-surgery-education.md) - A competency framework developed by Zolo Yvan et al.
 * [15-item theory-based cognitive load questionnaire](15-item-theory-based-cognitive-load-questionnaire.md) - A Krieglstein et al.
 * [168-essay three-draft-type corpus with standardized ChatGPT-4 revision prompt](168-essay-three-draft-type-corpus-with-standardized-chatgpt-4-revision-prompt.md) - A research dataset created by Zhao et al.
 * [18-item engagement rating list for observing CL engagement](18-item-engagement-rating-list-for-observing-cl-engagement.md) - An 18-item, rater-administered observation instrument developed by Hijzen et al.

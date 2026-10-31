@@ -60,3 +60,4 @@ The review attributes, citing Goldin-Meadow and colleagues and Roth's review, th
 - [Collaborative gestures are associated with higher performance than individual gestures, per studies the review cites](collaborative-gestures-higher-performance.md) — related
 - [In the motion capture game The Hidden Village, pose creation spurred gesturally embodied argumentation expressed more in gesture than in precise mathematical speech](thv-gesturally-embodied-argumentation.md) — a narrower finding that bears on this claim
 - [In shared VR, teacher-learners showed a recurring multimodal sequence of discussion before embodied action on virtual objects](vr-discussion-before-embodied-action.md) — related
+- [Chan et al. found physical-controller VR examination has higher ease of use and lower cognitive load than hand-tracking gestures](physical-controller-vr-higher-ease-of-use-lower-cognitive-load.md) — related

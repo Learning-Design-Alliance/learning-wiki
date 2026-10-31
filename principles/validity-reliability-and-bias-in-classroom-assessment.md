@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 316 claims (135 for, 158 mixed, 23 against) · 240 studies (89 associational, 61 design, 34 review, 25 theoretical, 22 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 20 of 240 report an effect size · 309 claims rest on one study
+> **Evidence** · 317 claims (136 for, 158 mixed, 23 against) · 241 studies (89 associational, 61 design, 34 review, 25 theoretical, 22 causal, 7 quant-synthesis, 3 qualitative), `q1`–`q3` · 20 of 241 report an effect size · 310 claims rest on one study
 
 ## Conditional relationship
 
@@ -233,6 +233,7 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Higher Complexity of assessment items is associated with decreased ML scoring model performance](../claims/higher-complexity-decreased-ml-scoring.md) [+W] — attached 2026-10-28 from Haudek et al. (2024), which proposed "When developing ML scoring models, consider assessment construct characteristics—particularly for higher complexity and multidimensional items".
 - [Unproctored online exam results are biased toward higher ratings compared with proctored results](../claims/unproctored-online-exams-bias-toward-higher-ratings.md) [+W] — attached 2026-10-29 from Ardid Ramírez et al. (2015), which proposed "In blended assessment, treat the administration mode of online exams as a design decision that changes scores"; tests this page's relationship.
 - [Agreement between AI-generated competency scores and human ratings was mixed across studies, with some reporting moderate to strong agreement and others showing score inflation and inconsistent performance](../claims/ai-ssp-score-agreement-with-human-ratings-mixed.md) [~W] — attached 2026-10-31 from Zhang Wenjia (Stella) et al. (2026), which proposed "Deploy AI-SSPs to pursue scalable, more standardized clinical competency assessment, but treat validity and reliability across diverse learner groups as unproven"; tests this page's relationship.
+- [Modified Angoff with reality check achieves excellent inter-rater reliability](../claims/modified-angoff-reality-check-reliability.md) [+W] — attached 2026-10-31 from Kannan et al. (2025), which proposed "Select the Angoff variant deliberately, aligned with assessment purpose and context"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

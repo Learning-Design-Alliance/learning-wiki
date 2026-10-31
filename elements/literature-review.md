@@ -13,7 +13,7 @@ generated:
 # Literature Review
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Literature review is the element in which learners gather, evaluate, and synthesize existing sources on a topic in order to understand the current state of knowledge or argument. It is useful when research requires situating a new question within prior work.
@@ -36,7 +36,7 @@ Literature review is the element in which learners gather, evaluate, and synthes
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [AI tools accelerate orthopaedic research through literature review, data extraction and evidence synthesis](../claims/ai-accelerates-ortho-research-workflows.md) [+W]
 
 ## Related Elements
 - [Research](research.md)

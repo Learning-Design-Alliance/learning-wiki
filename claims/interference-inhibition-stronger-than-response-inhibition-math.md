@@ -49,3 +49,4 @@ Bivariate moderator analysis in the three-level meta-analysis found a significan
 - [Mathematics achievement is more strongly related to inhibition measured in numerical than non-numerical contexts](numerical-inhibition-stronger-math-achievement-link.md) — related
 - [Interference suppression, but not response inhibition, relates to academic achievement and schooling skills](interference-suppression-not-response-inhibition-predicts-school-competence.md) — related
 - [The inhibitory control–mathematical ability correlation does not differ across domains of mathematical ability](no-domain-moderation-inhibitory-control-math.md) — related
+- [Moderate-intensity physical activity is positively associated with mathematics and overall academic achievement](moderate-intensity-activity-improves-mathematics-and-overall-achievement.md) — related

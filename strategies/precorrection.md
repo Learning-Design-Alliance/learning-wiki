@@ -60,10 +60,12 @@ Precorrection works because it makes the expected behavior salient and rehearsed
 6. **Reinforce.** Deliver specific praise or acknowledgment when the expected behavior occurs; without this, precorrection effects decay rapidly.
 
 ## Related Strategies
+
 - [High-Probability Request Sequences](high-probability-request-sequences.md) — another antecedent strategy that builds behavioral momentum before a low-probability demand
 - [Praise](praise.md) — the consequence-side partner; precorrection sets up what to reinforce
 - [Routines](routines.md) — precorrection teaches and maintains the routines themselves
 - [Choral Responding](choral-responding.md) — a structure that reduces the problem behavior precorrection would otherwise need to address
+- [Just-in-time training to minimise skill decay before clinical performance](just-in-time-training-neuraxial-skill-decay.md)
 
 ## Examples
 - **Transition precorrection**: Before dismissal to group work, a teacher states, "When you get to your group, sit down and start with the first question. Show me starting right away." Students rehearse the first move, then the teacher reinforces groups that begin within 30 seconds.

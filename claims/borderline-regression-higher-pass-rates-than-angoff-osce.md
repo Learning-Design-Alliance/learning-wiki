@@ -67,3 +67,5 @@ The review reports from Moreno-Lopez and Hope's retrospective UK study of dental
 - [Angoff-derived cut-off scores exceeded the arbitrary 60% fixed passing mark, with one study reporting a 74.31% cut-off that would have produced a 41% failure rate](angoff-cutoffs-exceed-fixed-60-benchmark.md) — related
 - [The Angoff method produced lower cut-off scores and higher pass rates than Cohen and Hofstee methods in dental written assessments, especially in early and middle years](angoff-lower-cutoffs-higher-pass-rates.md) — related
 - [Percentage rating format in the Modified Angoff method yields higher reliability than the Yes/No format, with ICCs of 0.48–0.65 versus a maximum of 0.41](percentage-format-more-reliable-than-yes-no-angoff.md) — related
+- [Contextual factors (learner level, discipline, format) moderate Angoff outcomes](angoff-contextual-moderators.md) — related
+- [Angoff methods produce significantly higher pass rates than conventional fixed standard-setting methods](angoff-higher-pass-rates-than-fixed.md) — related

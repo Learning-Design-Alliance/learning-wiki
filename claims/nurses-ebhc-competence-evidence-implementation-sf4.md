@@ -51,6 +51,6 @@ JBI meta‐aggregation synthesising 30 findings from the included qualitative st
 - [Nurses' competence in global health comprises foundations of evidence‐based practice, continuous professional growth and evolution, and knowledge gaps and learning barriers](nurses-ebhc-competence-global-health-sf1.md) — related
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related
 - [A structured feedback-and-reflection cycle (pre-lesson plan review, immediate verbal comments, written feedback, take-up time, and open-ended questioning) supported the mentee's reflective development](structured-feedback-reflection-cycle-mentoring.md) — related
-- [Organizational empowerment through clear role positioning and multidisciplinary support enables sustained training transfer](organizational-empowerment-enables-transfer.md) — related
+- [Specialty nurses and their managers describe clear role positioning and multidisciplinary support as facilitating training transfer](organizational-empowerment-enables-transfer.md) — related
 - [Training transfer among neurosurgical specialty nurses is an adaptive reconstruction process, not linear replication of training content](training-transfer-as-adaptive-reconstruction.md) — related
 - [Nurses expressed no experiences or perceptions of evidence synthesis, so the review's findings map to four rather than five EBHC sub‐dimensions](nurses-no-experiences-evidence-synthesis.md) — related

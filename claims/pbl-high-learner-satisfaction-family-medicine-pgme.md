@@ -67,3 +67,4 @@ The review reports Haidet et al.'s controlled trial comparing PBL with slide-and
 - [Objective knowledge assessments show no significant improvement after PBL in family medicine residency, with gains comparable to lectures](pbl-no-significant-objective-knowledge-gains-pgme.md) — related
 - [PBL shifts learners' opinions about topics modestly, and learners with strong pre-existing opinions are less likely to change](pbl-opinion-shifts-limited-by-preexisting-views.md) — related
 - [One study found significantly higher patient breastfeeding rates among physicians who participated in case-based PBL training](pbl-patient-outcomes-breastfeeding-rates-holmes.md) — related
+- [Perceived VDT utility did not always correspond to measurable academic advantage](perceived-utility-not-always-academic-advantage.md) — related

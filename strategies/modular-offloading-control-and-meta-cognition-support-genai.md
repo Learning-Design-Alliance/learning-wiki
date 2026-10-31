@@ -46,6 +46,7 @@ To preserve informal learning with general-purpose GenAI tools, the article sugg
 - [Four design principles for educational AI that empowers epistemic agency rather than passive offloading](four-design-principles-epistemic-agency-ai.md)
 - [AI-assisted learning systems should scaffold cognitive development rather than replace it, and require active student contribution to preserve ownership](genai-systems-scaffold-not-replace-cognitive-development.md)
 - [Design experimental studies that systematically vary how GenAI outputs are presented, comparing full solutions against structured hints or constructive feedback guardrails.](vary-genai-output-presentation-hints-vs-solutions.md)
+- [Adopt a tiered or modular design for future competency measurement tools](tiered-modular-design-hl-competency-tools.md)
 
 ## Examples
 -

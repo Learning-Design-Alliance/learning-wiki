@@ -61,9 +61,11 @@ Collaboration improves learning when it is structured — with group goals, indi
 7. Debrief both the content and the collaboration itself, so teamwork skills improve across projects
 
 ## Related Strategies
+
 - [Critique and Revision](../strategies/critique-and-revision.md) — the structured feedback protocol through which groups improve shared products
 - [Jigsaw](../strategies/jigsaw.md) — an expertise-differentiated structure that enforces interdependence
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a low-stakes collaboration structure useful as an on-ramp for ELLs
+- [Teachers implementing TEPBLL should describe technological knowledge and learning objectives, match projects to proficiency levels, assign group roles, and provide staged progressive feedback](tepbll-teacher-facilitation-recommendations.md)
 
 ## Related Elements
 - [Peer Collaboration](../elements/peer-collaboration.md) — the core element this strategy structures

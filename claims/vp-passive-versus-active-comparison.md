@@ -71,3 +71,4 @@ Exploratory visual analysis of albatross plots (Figures 6 and 7) after planned s
 - [In the few trials comparing them, virtual patients showed no significant knowledge differences versus other digital education, and skills differences in only one of three studies](vp-vs-other-digital-no-difference.md) — related
 - [Virtual patients blended with traditional education show moderate positive skills effects, but the pooled interval crosses zero](vp-blended-skills-mixed.md) — related
 - [Virtual patients blended with traditional education improve knowledge more than traditional education alone (pooled SMD=0.73)](vp-blended-knowledge-advantage.md) — related
+- [Traditional learning outperformed e-learning in studies where mannequin-based simulation was the traditional modality](mannequin-simulation-outperformed-e-learning.md) — related

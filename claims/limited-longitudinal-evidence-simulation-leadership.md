@@ -49,3 +49,5 @@ The review's own limitations analysis of its 12 included studies, many of which 
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — related
 - [Communication skills training programs improve clinician patient-centeredness, but training approaches are variable and long-term retention is untested](cst-programs-improve-patient-centeredness-short-term.md) — related
 - [VR tools enhance acquisition and retention of clinical and procedural skills but face barriers including cybersickness, limited tactile feedback and variable long-term skill transfer](vr-enhances-practical-skill-acquisition-with-barriers.md) — related
+- Five research gaps were identified: lack of explicit empathy definitions, limited scenario diversity, absence of repeated interventions, self-report limitations, and insufficient long-term outcome evidence — related
+- [No longitudinal studies or RCTs demonstrate that AI-acquired skills transfer to the operating room](no-longitudinal-evidence-ai-skill-transfer-or.md) — a narrower finding that bears on this claim

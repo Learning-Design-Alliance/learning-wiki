@@ -54,3 +54,4 @@ Session 4 group interview self-reports. A participant reported "an increase in o
 - [Three contradictions emerged in the SimLab process — individualised emergency response, excluded non-clinical staff, and outdated CPR training — and their collaborative resolution drove organisational change](simlab-three-contradictions-catalysts.md) — related
 - [Mixed interprofessional group training promoted mutual respect, understanding of roles, and appreciation of teamwork among ED participants](interprofessional-mixed-groups-mutual-respect-consent-training.md) — related
 - [Simulation-based training is associated with communication and teamwork gains of approximately 2–3 points and NOTSS domain means of 2.8–3.5 on 4-point scales](simulation-communication-teamwork-gains-notss.md) — related
+- [Simulation increases participants' empathy, communication and interpersonal skills and decreases anxiety](simulation-increases-empathy-communication-skills.md) — related

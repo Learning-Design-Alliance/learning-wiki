@@ -46,6 +46,7 @@ Drawing on its perceptual findings, the review recommends implementation design 
 ## Related Strategies
 
 - [Community Building](community-building.md)
+- [In resource-limited contexts, rely on strong pedagogy rather than technology: clear relevant cases, structured peer mentoring, and community settings as authentic learning environments](resource-limited-pbl-pedagogy-over-technology.md)
 
 ## Examples
 -

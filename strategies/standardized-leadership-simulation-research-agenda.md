@@ -52,6 +52,7 @@ The review's forward-looking recommendation is to move from heterogeneous, mostl
 
 - [Research agenda: standardize reporting, run comparative efficacy studies, and track longitudinal transfer to clinical practice](competency-simulation-research-agenda-reporting-transfer.md)
 - [Integrate GTA teaching as part of a broader multi-modality strategy, with hybrid GTA–manikin models, co-produced standards, and longitudinal, patient-inclusive evaluation](gta-implementation-strategy-hybrid-and-coproduction.md)
+- [Establish standardized implementation frameworks and conduct multi-center longitudinal studies on VR communication training](standardized-implementation-frameworks-vr-communication.md)
 
 ## Examples
 -

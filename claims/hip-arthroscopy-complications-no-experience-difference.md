@@ -52,3 +52,4 @@ Random-effects meta-analysis of six studies reporting overall complications, whe
 - [Surgeon experience in hip arthroscopy is associated with significantly shorter operative time in late versus early experience phases](hip-arthroscopy-experience-shorter-operative-time.md) — related
 - [Conversion to total hip arthroplasty is significantly lower in late-experience hip arthroscopy cases than in early cases](hip-arthroscopy-experience-lower-tha-conversion.md) — related
 - [Late-experience hip arthroscopy cases achieve higher functional improvement in MCID units than early-experience cases](hip-arthroscopy-experience-higher-functional-mcid.md) — related
+- [Blood loss, urinary complications, and morbidity decreased during the proficiency phase of robotic LLND](robotic-llnd-outcomes-improve-proficiency.md) — related

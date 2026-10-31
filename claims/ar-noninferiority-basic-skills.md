@@ -72,3 +72,4 @@ Evaluator-blinded parallel RCT (n=20 medical students) comparing Vuzix M300XL sm
 - [Distance simulation of technical skills achieves skill outcomes comparable to traditional on-site training in most comparative studies](distance-simulation-comparable-to-onsite-technical-skills.md) — a broader claim this one bears on
 - [Three comparative studies reported superior outcomes for distance simulation over traditional training, involving augmented reality telementoring, remote robotic teaching, and a virtual classroom](distance-simulation-superior-outcomes-three-studies.md) — reports the opposite
 - [Sensor-based force measurement discriminates skill levels, with experts suturing faster and with lower applied force than novices](force-sensing-discriminates-surgical-skill.md) — related
+- [Remote teaching achieves competency outcomes equivalent to traditional learning for basic surgical skills in most studies](rt-equivalent-to-tl-basic-surgical-skills.md) — related

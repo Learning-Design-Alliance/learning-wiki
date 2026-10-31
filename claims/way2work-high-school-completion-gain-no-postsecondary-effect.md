@@ -77,3 +77,4 @@ Same RCT comparison on high school completion: the treatment group showed higher
 - Briya adult learners showed high rates of employment entry, retention, or postsecondary entry — related
 - [LLC did not affect employment for all participants within the first 24 months of enrollment](llc-no-employment-impact-all-participants-24-months.md) — related
 - [PROMISE treatment group youth had lower educational attainment than control group youth](promise-lower-educational-attainment-than-control.md) — related
+- Longitudinal program evaluation strategies were described in only three studies — related

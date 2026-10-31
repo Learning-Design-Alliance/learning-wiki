@@ -69,6 +69,7 @@ Simulation works because it enables high-volume, low-stakes [practice](../elemen
 - [Use risk-free high-fidelity VR simulation to complement physical training for hazardous clinical procedures](risk-free-vr-pretraining-for-hazardous-procedures.md)
 - [Use the simulated class as low-stakes deliberate practice placed late in teacher preparation, with transcript-based debriefs](simulated-class-deliberate-practice-late-placement.md)
 - [Use virtual patients to replace passive instruction and train clinical reasoning before bedside learning, without diminishing bedside teaching hours](vp-replace-passive-before-bedside-strategy.md)
+- [Use hybrid simulations combining real-world materials with low-cost simulators to enable realistic, interactive scenarios at reduced cost](hybrid-simulation-real-world-materials-low-cost-simulators.md)
 
 ## Examples
 - **[Flight simulators](https://www.faa.gov/training_testing/training/sim)** — FAA-certified full-motion simulators are the canonical case; airline pilots log most initial type-rating hours in simulation before flying a real aircraft.

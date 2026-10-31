@@ -48,3 +48,4 @@ Qualitative analysis of audiotaped and transcribed small-group discussions of th
 - [Constructive behaviors are defined by generating outputs containing new ideas that go beyond the information given](constructive-generates-beyond-information-given.md) — a broader claim this one bears on
 - [Novices and experts differ in problem representation: novices segment the problem and use surface analogies, while experts apply general underlying principles](novices-segment-experts-generalize-problem-representation.md) — related
 - [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — related
+- [Receiving knowledge passively hampers the development of relational competence](receiving-knowledge-passively-hampers-relational-competence.md) — a narrower finding that bears on this claim

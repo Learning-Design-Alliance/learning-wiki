@@ -50,3 +50,4 @@ Intention-to-treat analysis of baseline-to-postintervention change in the pilot 
 - [Excluding two participants in acute crisis reduced the negative effect estimates to very small or small](story-mine-sensitivity-crisis-exclusion.md) — related
 - [Engagement with the unguided STORY MINE module was low, averaging fewer than 3 active login days over 12 weeks](story-mine-low-engagement-unguided.md) — related
 - [Teacher depression and job demands are positively associated, and job resources negatively associated, with exclusion rates; program-level mental health consultation showed no significant effect in one RCT.](teacher-depression-job-demands-associated-exclusion.md) — related
+- [Non-traditional clinical placements (Recovery Camp) reduce stigma more than typical placements](recovery-camp-reduces-stigma-more-than-typical-placement.md) — related

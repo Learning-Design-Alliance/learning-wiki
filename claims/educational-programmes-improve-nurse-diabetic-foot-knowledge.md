@@ -52,3 +52,4 @@ Systematic review narrative synthesis of nine quasi-experimental studies; knowle
 - [Post-intervention knowledge and practice scores are positively correlated, suggesting education should be designed to bridge the knowledge-practice gap](knowledge-practice-correlation-diabetic-foot-care.md) — related
 - [No included comparative study assessed patient-based clinical outcomes, patient acceptability of care, or staff resource time](no-patient-outcomes-assessed.md) — related
 - [Certainty of evidence for narrative medicine education effects is rated very low under GRADE](narrative-medicine-evidence-very-low-certainty.md) — related
+- [Many nurses in SSA have adequate knowledge of diabetes self-management support and care in some studies](ssa-nurses-adequate-diabetes-care-knowledge.md) — related

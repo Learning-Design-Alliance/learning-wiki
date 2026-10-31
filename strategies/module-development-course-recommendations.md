@@ -39,7 +39,8 @@ The authors distill their AY201b experience into implementable steps: "we recomm
 - software development for education
 
 ## Related Strategies
-- 
+
+- [Teachers implementing TEPBLL should describe technological knowledge and learning objectives, match projects to proficiency levels, assign group roles, and provide staged progressive feedback](tepbll-teacher-facilitation-recommendations.md)
 
 ## Examples
 -

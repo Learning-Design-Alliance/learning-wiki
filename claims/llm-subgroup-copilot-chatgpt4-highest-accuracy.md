@@ -52,3 +52,7 @@ Model-stratified subgroup analysis within the meta-analysis of 39 studies. Copil
 - [GPT-4 achieves the highest pooled accuracy among LLMs (81%), significantly outperforming GPT-3.5 (60%)](gpt4-highest-accuracy-81-outperforms-gpt35.md) — related
 - [Large language models achieve a pooled accuracy of 72% on medical licensing examination questions across 36 studies](llm-pooled-accuracy-72-medical-licensing-exams.md) — a broader claim this one bears on
 - [Pooled LLM accuracy differs minimally by question source (71% for internal exams vs. 73% for public databases)](question-source-minimal-accuracy-difference.md) — related
+- [ChatGPT-4.0 outperforms ChatGPT-3.5 in medical licensing exams, achieving a pooled accuracy of 81.8% versus 60.8%](chatgpt-4-pooled-accuracy-818-percent-licensing-exams.md) — related
+- [In in-training residency exams, ChatGPT-4.0 achieved 72.2% accuracy compared to 57.7% for ChatGPT-3.5](chatgpt-4-residency-exam-accuracy-722-percent.md) — related
+- [ChatGPT-4.0 was 36% more likely than ChatGPT-3.5 to provide correct answers across medical licensing and residency exams](chatgpt-4-risk-ratio-136-over-chatgpt-35.md) — related
+- [Newer LLM versions generally outperformed older versions on dental examination questions](newer-llms-outperform-older-dental-exams.md) — related

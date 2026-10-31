@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-10-31
 sources:
   - id: almeani-mohammad-2026
     resource: "https://doi.org/10.1002/edm2.70324"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Baseline knowledge was low across studies, and in one study nurses with a bachelor's degree showed significantly greater post-training knowledge gains than those with lower qualifications (p = 0.001). [→ Al‐Me'ani Mohammad 2026](#almeani-mohammad-2026)
@@ -49,3 +50,4 @@ Review reports, from AbdElshafy et al. [22], a pre-post training study of 50 nur
 - [An interactive workshop produced higher post-test knowledge scores than an e-learning course of equivalent content among nurses](interactive-workshop-outperforms-elearning-nurse-knowledge.md) — related
 - [Educational programmes are associated with significant improvements in nurses' diabetic foot care practice, measured in seven of the nine included studies](educational-programmes-improve-nurse-foot-care-practice.md) — related
 - [The overall certainty of evidence for educational programme effects on nurses' knowledge and practice is very low (GRADE), driven by bias, inconsistency and imprecision](grade-very-low-certainty-nurse-foot-education.md) — a broader claim this one bears on
+- [Many nurses in SSA have adequate knowledge of diabetes self-management support and care in some studies](ssa-nurses-adequate-diabetes-care-knowledge.md) — related

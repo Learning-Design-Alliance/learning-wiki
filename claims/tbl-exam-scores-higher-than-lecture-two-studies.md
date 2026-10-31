@@ -47,3 +47,6 @@ The review attributes this to two quasi-experimental studies it includes (Mohebi
 ## Related Claims
 - [Student preference for CBL, PBL or TBL over traditional teaching was reported in 15 of 22 studies (68.1%), but only two studies used a controlled comparison with lecture](preference-over-lecture-15-studies-only-two-controlled.md) — related
 - [Students in TBL groups report higher satisfaction than students in LBL groups](tbl-higher-student-satisfaction-neurology.md) — possibly the same claim (merge candidate)
+- [TBL in medical ethics education improves knowledge retention compared to lectures](tbl-improves-ethics-knowledge-retention.md) — related
+- [TBL increases student satisfaction and engagement in ethics education](tbl-increases-ethics-satisfaction-engagement.md) — related
+- [Team-based learning showed significantly higher performance than traditional learning in one included study](tbl-significantly-higher-performance-hossain.md) — related

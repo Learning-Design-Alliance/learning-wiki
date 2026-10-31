@@ -51,3 +51,4 @@ Subgroup analysis of five RCTs (n=224) of gamified simulation-based learning in 
 - [Gamified clinical skill learning produces the largest effects on skill performance, with very high between-study heterogeneity](gamified-learning-skill-performance-largest-effect.md) — related
 - [Gamified web and mobile learning show moderate knowledge effects with greater variability than serious games](gamified-web-mobile-moderate-knowledge-effects.md) — related
 - [Standalone serious games show large, relatively consistent effects on knowledge acquisition compared with other gamification categories](serious-games-consistent-knowledge-effects.md) — related
+- [E‐learning produces a pooled normalized knowledge gain of 26.8% in undergraduate ENT education, classified as low gain](elearning-ent-pooled-normalized-gain-26-8.md) — related

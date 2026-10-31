@@ -80,3 +80,4 @@ In the same duration moderator analysis, the 1–7 day group showed a small, non
 - [Effect sizes are larger when the same instructor teaches both gamified and control groups, and when interventions run one to three months](gamification-moderators-instructor-and-duration.md) — related
 - [The effect of drama on social studies achievement does not differ significantly by duration of application (1–4 vs 5–10 weeks)](drama-effect-no-duration-difference.md) — related
 - [RME effects are greater when treatment lasts 3-4 meetings and are reduced when treatment continues beyond four meetings](rme-effect-reduced-beyond-four-meetings.md) — related
+- [Short-duration (<24 weeks) interventions positively impact reading comprehension (SMD = 0.24)](short-duration-interventions-improve-reading-comprehension.md) — related

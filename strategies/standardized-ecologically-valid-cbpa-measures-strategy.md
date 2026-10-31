@@ -41,6 +41,7 @@ The review's future-directions section recommends that "future research should u
 - [Combine cognitive tasks and ecological teacher questionnaires when measuring children's inhibition for academic research](combine-task-and-teacher-inhibition-measures.md)
 - [Research and training programs should differentiate age periods, sporting disciplines, and compare physically active with cognitively active groups](future-research-differentiate-ages-disciplines-cognitively-active.md)
 - [Direct future self-regulation research toward standard methods of reporting SR outcomes to address substantial heterogeneity in outcome measures.](standard-methods-for-reporting-sr-outcomes.md)
+- [Use objective outcome measures (blinded OSCE, standardized tests, structured scales) in future ECE research](objective-outcomes-for-ece-research.md)
 
 ## Examples
 -

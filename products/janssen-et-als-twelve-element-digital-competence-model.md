@@ -29,6 +29,7 @@ A twelve-element framework developed by Janssen et al. to organise technical, in
 - [Aurora Institute's Seven Critical Elements of Instructional Practice](aurora-institutes-seven-critical-elements-of-instructional-practice.md)
 - [Workforce AI literacy framework of six skill and competency domains](workforce-ai-literacy-framework-of-six-skill-and-competency-domains.md)
 - [Calvani et al.'s three-dimensional digital competence framework](calvani-et-als-three-dimensional-digital-competence-framework.md)
+- [Seven-domain framework of health literacy competencies for health professionals](seven-domain-framework-of-health-literacy-competencies-for-health-professionals.md)
 
 ## Key Sources
 - Garry Falloon. (2020). From digital literacy to digital competence: the teacher digital competency (TDC) framework. Education Tech Research Dev. https://doi.org/10.1007/s11423-020-09767-4

@@ -54,3 +54,4 @@ Outcome-assessment analysis across all included studies: every study used "one o
 - Methodological quality of included studies was limited: RCTs often lacked randomisation description and blinding, and cohort/case-control studies did not account for confounding — related
 - [Simulation-based education combined with workflow redesign improved ICU nurses' delirium-assessment documentation rates on day and night shifts](sbe-delirium-documentation-improvement-icu.md) — related
 - [Simulation-based education plus clinical teaching compared to clinical teaching only shows a large pooled advantage (SMD 0.82) in undergraduate nursing students](sbe-plus-clinical-pooled-smd-0-82.md) — related
+- [No included SDL studies measured Kirkpatrick Level 4 (patient/system) outcomes](sdl-no-kirkpatrick-level-4-outcomes.md) — related

@@ -47,3 +47,4 @@ The review reports this null result from a randomised multi-centre controlled si
 ## Related Claims
 - [Educational factors were the most frequently reported domain influencing ALS competence maintenance, followed by institutional and individual determinants](educational-factors-most-reported-als-maintenance.md) — related
 - [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — a broader claim this one bears on
+- [High-fidelity simulation improved pharmacology learning and retention compared to low-fidelity and sham groups](high-fidelity-simulation-improves-pharmacology-retention.md) — related

@@ -76,3 +76,4 @@ Per-lesson ANOVAs with time as factor (post vs. pre) on tutors' pretest-posttest
 - [Pooled AI tutoring produces statistically equivalent GRE learning gains to expert human tutoring](pooled-ai-tutoring-equivalent-gre-learning-gains.md) — related
 - [An approximately hour-long interactive computer tutorial on orthographic projection produced significant pre–post performance gains for most students](orthographic-projection-tutorial-gains.md) — related
 - [Students receiving adaptive tutorial dialogues in EER-Tutor outperformed peers receiving non-adaptive dialogues, with effect size 0.69 on learning gains](adaptive-tutorial-dialogues-effect-size-069.md) — related
+- [Validity evidence for data-driven assessment tools relies predominantly on construct validity, with 11 of 35 studies using unvalidated tools](validity-evidence-construct-dominant-unvalidated-tools.md) — related

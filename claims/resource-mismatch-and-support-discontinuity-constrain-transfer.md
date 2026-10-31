@@ -47,7 +47,7 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 
 ## Related Claims
 - [Transfer of advanced competencies is limited by institutional case exposure, technical platforms, and multidisciplinary maturity rather than training deficiencies](advanced-competency-transfer-limited-by-institutional-resources.md) — related
-- [Organizational empowerment through clear role positioning and multidisciplinary support enables sustained training transfer](organizational-empowerment-enables-transfer.md) — related
+- [Specialty nurses and their managers describe clear role positioning and multidisciplinary support as facilitating training transfer](organizational-empowerment-enables-transfer.md) — related
 - [Baseline-only training was insufficient for sustained measurement accuracy; healthcare workers recommended refresher training](refresher-training-needed-for-muac-accuracy.md) — related
 - [Structural barriers — fragmented health systems, insufficient reimbursement and workforce shortages — constrain integration of psychological care in diabetes services](structural-barriers-psychological-care-integration.md) — related
 - [Training transfer among neurosurgical specialty nurses is an adaptive reconstruction process, not linear replication of training content](training-transfer-as-adaptive-reconstruction.md) — related
@@ -80,3 +80,7 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [Barriers to soft skills integration: time constraints, systemic obstacles, learner emotional strain, and adapting to new modalities](soft-skills-curricular-barriers-medical-education.md) — related
 - [Training improves competence in clozapine management, especially when integrated with clinical experience](clozapine-training-improves-competence.md) — related
 - [Nurses' competence in optimising evidence transfer comprises training and skill development, mentorship and supportive leadership, research understanding and confidence, resource sharing and peer support, and access to reputable sources and time constraints](nurses-ebhc-competence-evidence-transfer-sf3.md) — related
+- [CNTPs improve nurses' traits including psychological empowerment, job productivity, professional development and the affective dimension, though some effects fade at follow‐up](cntps-improve-nurse-traits-narrative.md) — related
+- [A 'Learning as Teachers' approach with comprehensive post-training materials and program-director roles is associated with sustained or enhanced competency over time](learning-as-teachers-associated-with-sustained-pocus-competency.md) — related
+- [Reported barriers to simulation effectiveness include insufficient debriefing, lack of repeated exposure, and inadequate faculty development](simulation-barriers-debriefing-faculty.md) — related
+- [Common barriers to pressure injury prevention include staff shortages, high workload, limited resources, and insufficient institutional support.](systemic-barriers-pi-prevention.md) — related

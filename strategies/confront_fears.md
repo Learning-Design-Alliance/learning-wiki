@@ -66,6 +66,7 @@ Fear-driven avoidance suppresses the practice and help-seeking behaviors on whic
 - **Goal-setting with micro-goals** — the hierarchy decomposition is a form of micro-goal setting applied to emotional barriers
 - **Peer support structures** — distribute the social risk of approach behavior
 - [Manage pre-task expectation anxiety with cognitive restructuring or relaxation alongside gradual exposure to mathematics](manage-anticipatory-math-anxiety-strategy.md)
+- [Future research should explore emotion management strategies and exposure to emotionally evocative scenarios to support clinician performance and well-being](future-research-emotion-management-strategies.md)
 
 ## Examples
 - **Toastmasters International** ([https://www.toastmasters.org](https://www.toastmasters.org)) — a formalized fear hierarchy for public speaking: members progress from short prepared speeches in a supportive club to impromptu speaking, with structured feedback after each attempt.

@@ -141,3 +141,4 @@ A meta-analysis of 54 control-group studies (141 effect sizes; the abstract's fi
 - [Process-based and product-based feedback produce larger performance gains than no feedback, with rubric-based feedback only marginal](process-product-feedback-strongest-performance-gains.md) — a narrower finding that bears on this claim
 - [Holding participants accountable for critique quality (not evaluation accuracy) improves review outcomes](accountability-for-critique-quality-improves-reviews.md) — a narrower finding that bears on this claim
 - [Seventh graders could in principle give relevant peer feedback on ELOs, but their peer-assessment skills needed further development](seventh-graders-peer-feedback-skills.md) — a narrower finding that bears on this claim
+- [Instructor feedback using a structured HAPA form outperformed unstructured feedback on write-up scores](structured-hapa-feedback-form-outperforms-unstructured.md) — related

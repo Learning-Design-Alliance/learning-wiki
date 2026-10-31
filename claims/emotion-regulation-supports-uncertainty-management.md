@@ -54,3 +54,4 @@ Narrative synthesis of the review's uncertainty-management studies (23 of 98 art
 - [Distress tolerance and intolerance of uncertainty are consistently associated with mental health problems](distress-tolerance-uncertainty-intolerance-associations.md) — related
 - [Emotion regulation may reduce inappropriate prescriptions, while empathy shows no significant correlation with prescription volume or quality](emotion-regulation-prescribing-quality.md) — related
 - [Uncertainty is a central feature of challenges in transdisciplinary learning for sustainability, encompassing both emotional and cognitive dimensions](uncertainty-central-td-challenges.md) — related
+- [Fear and clinical uncertainty were associated with more cautious clinical decisions, including more admissions, more diagnostic tests, and more antibiotic prescriptions](fear-and-uncertainty-lead-to-cautious-decisions.md) — related

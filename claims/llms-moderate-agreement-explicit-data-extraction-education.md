@@ -70,3 +70,4 @@ Accurate-match analysis of the same main-study data, allowing semantically equiv
 - [In a pilot study, leading LLMs showed promising but imperfect agreement with human coders extracting data from K-12 virtual-character studies](pilot-study-llm-agreement-virtual-character-studies.md) — related
 - [In blind verification, model selection matters more than source type: Bradley-Terry ranking interleaves human coders and LLMs, with per-model win rates spanning significant human advantage to numerical LLM advantage](bradley-terry-model-selection-matters-more-than-source-type.md) — related
 - [LLMs are not ready to be used as primary data extraction tools without explicit human validation in education research synthesis](llms-not-ready-primary-data-extraction-without-human-validation.md) — related
+- [AI tools accelerate orthopaedic research through literature review, data extraction and evidence synthesis](ai-accelerates-ortho-research-workflows.md) — related

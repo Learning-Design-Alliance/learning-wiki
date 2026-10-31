@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 115 claims (63 for, 44 mixed, 8 against) · 87 studies (36 review, 17 quant-synthesis, 16 causal, 8 design, 5 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 20 of 87 report an effect size · 105 claims rest on one study
+> **Evidence** · 132 claims (76 for, 48 mixed, 8 against) · 98 studies (44 review, 20 quant-synthesis, 16 causal, 8 design, 5 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 21 of 98 report an effect size · 122 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -170,6 +170,23 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Validation quality does not consistently correlate with simulator fidelity, and high-fidelity VR simulators' superiority over simpler models for fibreoptic intubation has not been demonstrated](../claims/simulator-fidelity-does-not-track-validation-quality.md) [-W]
 - [Adding task interruptions to ALS simulation to increase realism did not improve technical or non-technical performance, including at 3-month retention](../claims/task-interruptions-no-performance-benefit.md) [~W]
 - [A social robotic LLM-enhanced virtual patient was rated higher than a conventional computer-based platform for authenticity and learning effect](../claims/robotic-vp-higher-authenticity-than-computer-platform.md) [~W]
+- [Robotic novices trained with extended reality simulators complete tasks significantly faster than novices with no additional training](../claims/xr-training-faster-time-to-complete-than-no-training.md) [+W] — attached 2026-10-31 from Bickford Michael et al. (2025), which proposed "Extended reality simulators for robotic surgery training"; tests this page's relationship.
+- [The COVID-19 epidemic simulation among MPH students demonstrated significant self-reported gains in diplomacy, negotiation, and public health emergency response skills](../claims/covid-simulation-significant-self-reported-gains.md) [+W]
+- [Clinical simulation improved pathophysiology learning with a significant grade shift toward higher marks](../claims/clinical-simulation-improves-pathophysiology-grades.md) [+W]
+- [High-fidelity simulation particularly enhances core clinical competencies such as CPR, infection control, and diagnostic reasoning](../claims/high-fidelity-simulation-enhances-core-competencies.md) [+W]
+- [High-fidelity simulation improved pharmacology learning and retention compared to low-fidelity and sham groups](../claims/high-fidelity-simulation-improves-pharmacology-retention.md) [+W]
+- [Training fidelity: low-fidelity manikins performed comparably to high-fidelity manikins for epidural skill acquisition](../claims/low-fidelity-manikins-comparable-to-high-fidelity-epidural.md) [~W]
+- [All 29 comprehensive RAS curricula included simulation training, with VR simulation (n = 16), dry lab (n = 11), and wet lab/bio-tissue/cadaveric (n = 12) as the most common modalities.](../claims/ras-curricula-all-include-simulation.md) [+W]
+- [SBL enhances clinical skills and confidence in health professions students from CALD backgrounds](../claims/sbl-enhances-cald-student-clinical-skills-confidence.md) [+W]
+- [Online simulation training costs as little as 29% of mannequin-based simulation training with no quantitative difference in learning](../claims/online-simulation-29-percent-cost.md) [~W]
+- [Same-context advantage may account for the benefit of simulation-based traditional learning over e-learning](../claims/same-context-advantage-simulation-benefit.md) [~W]
+- [Simulation-based education improves medical students' biomedical science skills and shortens the learning curve](../claims/simulation-improves-biomedical-skills-learning-curve.md) [+W]
+- [Simulation-based training enhances outcomes across multiple Kirkpatrick levels in neuraxial space access education](../claims/simulation-based-training-enhances-neuraxial-outcomes.md) [+W]
+- [Virtual lab simulations improved blood typing knowledge and motivation but faced technical and language barriers](../claims/virtual-labs-improve-blood-typing-knowledge-motivation.md) [+W]
+- [VR-based nurse-physician communication team training is non-inferior to live simulation for communication performance and improves interprofessional attitudes](../claims/vr-noninferior-live-simulation-team-communication.md) [+W]
+- [VR training's effect on OSATS-assisted skill acquisition shows conflicting evidence](../claims/vr-osats-conflicting-evidence.md) [~W]
+- [VR simulation training improves orthopaedic trainees' technical proficiency and shortens operative times](../claims/vr-simulation-improves-ortho-technical-proficiency.md) [+W]
+- [Simulation training improves fundus identification rate and time compared with simulated-patient-only training in a randomised trial](../claims/wu-3d-printed-eye-model-improves-fundus-identification.md) [+W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice
@@ -251,6 +268,7 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Deliver a short post-exploration instructional video to complement science simulations](../strategies/short-post-simulation-video-strategy.md)
 - [Implement modelling as short, computer-simulation-supported activities at the high school level](../strategies/short-computer-supported-high-school-modelling-activities.md)
 - [Integrate AI-driven simulation into dental curricula as a complement to traditional training, attending to domain-specific effectiveness and the lack of long-term validated outcomes](../strategies/ads-curricular-integration-strategy.md)
+- [Co-design VR communication scenarios with nurse educators and technology developers, incorporating authentic clinical cases and language resources](../strategies/co-design-vr-scenarios-educators-developers.md)
 
 ## Key Sources
 - Garris, R., Ahlers, R., & Driskell, J. E. (2002). Games, motivation, and learning: A research and practice model. *Simulation & Gaming, 33*(4), 441–467. [doi:10.1177/1046878102238607](https://doi.org/10.1177/1046878102238607)

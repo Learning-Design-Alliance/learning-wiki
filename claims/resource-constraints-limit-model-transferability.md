@@ -53,3 +53,5 @@ Authors' interpretive synthesis in the discussion, attributing transferability c
 - [Cost, equipment availability, maintenance and faculty training are reported implementation barriers for laparoscopic simulation, especially in resource-constrained settings](laparoscopic-simulation-implementation-barriers.md) — related
 - [Virtual patient effectiveness evidence comes from both high-income and low- and middle-income countries](vp-effectiveness-global-applicability.md) — related
 - [AI in adult education risks reinforcing existing inequalities via the digital divide, particularly for rural, low-income, and marginalized learners](ai-digital-divide-reinforces-inequality.md) — related
+- [Common barriers to pressure injury prevention include staff shortages, high workload, limited resources, and insufficient institutional support.](systemic-barriers-pi-prevention.md) — related
+- [Low pre-reading compliance and resource demands hinder TBL implementation](tbl-implementation-barriers.md) — a narrower finding that bears on this claim

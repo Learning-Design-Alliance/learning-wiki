@@ -67,3 +67,5 @@ The review reports, citing Makransky et al. (2019), a comparison of three learni
 - [Trainee teachers who receive voice training with VR classroom simulations show greater improvement in communication self-efficacy in noise than those receiving an information session only](vr-voice-training-greater-self-efficacy-gains-than-information-only.md) — related
 - [Virtual-reality delirium training increased nurses' empathy and knowledge, with larger empathy gains when VR preceded didactic instruction](vr-delirium-empathy-order-effect.md) — related
 - [The vast majority of nursing students report positive emotional experiences in virtual simulation teaching, including excitement, reduced psychological burden, and boosted confidence](vs-positive-emotional-experiences.md) — related
+- [Virtual lab simulations improved blood typing knowledge and motivation but faced technical and language barriers](virtual-labs-improve-blood-typing-knowledge-motivation.md) — related
+- [Virtual reality use in TEPBLL positively boosted students' motivation, supporting a self-determination theory interpretation](vr-projects-boost-motivation-sdt.md) — a broader claim this one bears on

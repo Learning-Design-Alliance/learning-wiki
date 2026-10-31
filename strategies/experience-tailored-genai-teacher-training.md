@@ -50,6 +50,7 @@ The article recommends differentiating professional training by teachers' existi
 - [Use CT profiles and behavioural metrics to differentiate pre-service teacher instruction and design a learning analytics dashboard](ct-profile-differentiated-teacher-training-dashboard.md)
 - [Develop adaptive and discipline-specific GenAI feedback solutions](adaptive-discipline-specific-genai-feedback-solutions.md)
 - [Tailor GenAI chatbot onboarding, training, and support to identified adoption personas](persona-tailored-chatbot-onboarding-support.md)
+- [Tailor active methodologies to the specific educational context and subject matter](tailor-active-methods-to-context-dentistry.md)
 
 ## Examples
 -

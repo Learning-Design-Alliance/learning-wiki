@@ -71,3 +71,4 @@ Narrative synthesis in the training domain: the review reports that "evidence fo
 - [Supervision is critical for applying obstetric emergency knowledge, with increased complications during periods of reduced oversight](supervision-critical-reduced-oversight-complications.md) — related
 - [Teachers identified cost, bulky headsets, Wi-Fi connectivity, and technical issues as key challenges to integrating VR into ML2 teaching](vr-challenges-cost-headsets-wifi.md) — related
 - [Innovative andragogical strategies — simulation, narrative medicine, reflective writing — enhance empathy, compassion, and communication skills in medical students](innovative-teaching-practices-soft-skills-medical-students.md) — related
+- [Low-cost simulation studies in nursing most frequently target specific clinical competencies (79.5%), with obstetric and neonatal emergency management the single largest group](scoping-review-low-cost-simulation-competency-coverage.md) — related

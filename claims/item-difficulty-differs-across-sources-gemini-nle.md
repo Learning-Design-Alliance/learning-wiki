@@ -54,3 +54,4 @@ Post-hoc exploratory Kruskal–Wallis analysis of item difficulty across ChatGPT
 - [Students' recognition did not differ between AI-generated and NLE MCQs](recognition-does-not-differ-ai-vs-nle.md) — related
 - [Perceived overall utility of generative AI differs significantly across the five platforms used, favoring platforms with structured task breakdowns](ai-platform-utility-differs-anova.md) — related
 - [Distractor distribution did not differ across ChatGPT, Google Gemini and NLE MCQs](distractor-distribution-does-not-differ-across-sources.md) — related
+- [No significant difference in item discrimination index or point biserial correlation between ChatGPT 3.5 and human-generated MCQs](chatgpt-35-human-item-discrimination-no-difference.md) — related

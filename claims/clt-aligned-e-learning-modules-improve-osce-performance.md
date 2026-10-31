@@ -58,3 +58,5 @@ The review attributes this to a pilot randomized study by Gutierrez et al. (2023
 - [An AR application produced smaller test-score gains than cross-section study and higher extraneous cognitive load (Henssen et al.)](henssen-ar-lower-gains-higher-extraneous-load.md) — a narrower finding that bears on this claim
 - [AI tutoring imposes significantly higher extraneous cognitive load than expert instruction](ai-tutoring-higher-extraneous-cognitive-load.md) — related
 - [Introducing a designated nursing team leader was associated with lower cognitive load for the medical team leader and improved objective performance in the CANLEAD trial](designated-nurse-leader-lower-cognitive-load.md) — related
+- [Non-procedural skills scores during simulated CPR were significantly lower when external stressors were present](external-stressors-lower-nonprocedural-skills-simulated-cpr.md) — related
+- [Deuchler et al. found learning occurs with EyeSi simulator training but is higher when combined with an online theory platform](eyesi-plus-online-platform-higher-learning-deuchler.md) — related

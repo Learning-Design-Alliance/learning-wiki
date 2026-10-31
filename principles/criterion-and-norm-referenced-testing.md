@@ -24,7 +24,7 @@ sources:
 # Criterion- and Norm-Referenced Testing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 38 claims (11 for, 24 mixed, 3 against) · 26 studies (10 theoretical, 8 associational, 4 design, 2 causal, 2 review), `q1`–`q3` · 0 of 26 report an effect size · 38 claims rest on one study
+> **Evidence** · 39 claims (11 for, 25 mixed, 3 against) · 27 studies (10 theoretical, 8 associational, 4 design, 2 causal, 2 review, 1 quant-synthesis), `q1`–`q3` · 0 of 27 report an effect size · 39 claims rest on one study
 
 ## Conditional relationship
 
@@ -176,6 +176,7 @@ The model should weaken if teachers given skill-level criterion-referenced repor
 - [Intelligence-test scores overlap substantially across non-consecutive grades, with some fourth graders scoring above the fifth-grade norm](../claims/grade-overlapping-of-point-scale-scores.md) [~W]
 - [Modified point and year scales with norms were developed for measuring the intelligence of the blind](../claims/binet-scales-adapted-for-blind-norms.md) [+W]
 - [Misclassified assessments cluster near placement cut scores](../claims/misclassifications-cluster-near-cut-scores.md) [~W]
+- [Mastery Angoff produces the highest cut scores and lowest pass rates among Angoff variants](../claims/mastery-angoff-highest-cut-scores.md) [~W]
 
 ## Related Principles
 - [Intelligence Testing: Uses and Limits](../theories/intelligence-testing-uses-and-limits.md) — the fuller treatment of aptitude/cognitive-ability tests' history, standardization, and cultural-bias concerns

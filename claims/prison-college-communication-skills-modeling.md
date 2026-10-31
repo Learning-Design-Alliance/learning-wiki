@@ -72,3 +72,4 @@ Student interview describing a communication-course professor whose conflict han
 - [A descriptive report defines peer assisted learning and asserts, without a tested result, that it promotes knowledge construction, collaboration ability and interpersonal interaction](peer-assisted-learning-improves-learning-outcomes.md) — related
 - [Participants reported that diverse perspectives raised new questions and affirmed educator contributions](participant-feedback-diverse-perspectives.md) — related
 - [Prison higher education alone was reported as insufficient for post-release employment, with criminal-record and reentry barriers persisting](prison-college-limited-employment-benefits.md) — related
+- [Simulation increases participants' empathy, communication and interpersonal skills and decreases anxiety](simulation-increases-empathy-communication-skills.md) — related

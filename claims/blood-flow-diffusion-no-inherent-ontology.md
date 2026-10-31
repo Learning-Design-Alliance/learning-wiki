@@ -52,3 +52,4 @@ Addressing the SO framework's flagship contrast between blood flow (direct proce
 - [Material difficulty is not determined solely by element number and interactivity](difficulty-beyond-element-interactivity.md) — related
 - [The article reports reasonable consensus that learning is a process, not a capacity or product](learning-is-a-process-not-capacity-or-product.md) — related
 - [The number of correct actions in a tutor problem space is not inherent to the domain but arises from author design choices](problem-space-size-author-design-choices.md) — related
+- [4D visualization of cardiac anatomy and blood flow significantly improved summative assessment performance](4d-cardiac-visualization-improves-assessment-scores.md) — related

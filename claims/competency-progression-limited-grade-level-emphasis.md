@@ -53,3 +53,4 @@ Implementation analysis across the 32 NGLC schools drawing on administrator inte
 - [Integrating POG assessments into traditional standardized-test-centered accountability systems is complex, and lack of a standardized framework can produce inconsistent measurement across regions](pog-assessment-integration-challenges.md) — related
 - [Students value knowing class routines and report that rushed pacing, especially in Advanced Placement courses, is a barrier to mastering content](students-report-routines-help-and-rushed-pacing-hurts.md) — related
 - [Personalized Learning Effects Vary With Fidelity](personalized-learning-effects-vary-with-fidelity.md) — related
+- [Heavy emphasis on knowledge assessment may limit measurement of complex competencies such as advocacy and system-level engagement](knowledge-emphasis-limits-complex-hl-competency-assessment.md) — related

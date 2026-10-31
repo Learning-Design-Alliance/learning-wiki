@@ -52,3 +52,4 @@ Class-size moderator analysis across the 35 studies, with class size coded as sm
 - [Tutorial group size moderates SDL gains in PBL: small and medium groups gained SDL, large groups declined](tutorial-group-size-moderates-sdl.md) — related
 - [Class capacity does not significantly moderate the effect of RME on mathematical literacy](class-capacity-no-moderating-effect-rme-literacy.md) — related
 - [Sampling size is not an effective moderator of AR effects, with large samples (50+) at 0.647 and small samples (1-49) at 0.262](ar-effect-sample-size-not-effective.md) — related
+- [SEM effectiveness is greatest in small class sizes and non-significant in large classes](sem-class-size-moderator.md) — reports the opposite

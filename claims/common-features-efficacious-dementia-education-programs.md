@@ -48,3 +48,4 @@ Critical interpretive synthesis of 152 included papers on dementia education, un
 
 ## Related Claims
 - The evidence base on dementia workforce education comprises 152 included papers of variable quality — related
+- [Barriers graduate nurses face in dementia care are similar to those of experienced nurses, with supportive colleagues and early exposure as facilitators](graduate-nurse-dementia-care-barriers-facilitators.md) — related

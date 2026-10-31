@@ -53,3 +53,4 @@ Publication-bias assessment used publication status as a moderator, funnel plot 
 - Publication bias does not threaten the pooled effect estimates — related
 - Funnel-plot analyses showed no significant asymmetry, and the overall effect remained significant after removing outliers — related
 - The meta-analysis shows no publication bias (Begg-Mazumdar p = .196) and is resistant to it (fail-safe N = 463) — related
+- No evidence of publication bias in the SDL meta-analysis — related

@@ -48,3 +48,4 @@ A review-level synthesis finding: "simulated learner models tend to represent on
 ## Related Claims
 - The first systematic literature review of simulated learners in AI in education covers the decade 2010-19. — related
 - [Narrative/story writing is the most common genre used to operationalize writing in K‑5 writing‑motivation self‑report studies, suggesting a bias toward narrow aspects of writing](storytelling-most-common-genre-writing-motivation-self-reports.md) — related
+- [Plastic cannister designs are the most common direct ophthalmoscopy simulation model in the literature](plastic-cannister-most-common-do-simulation-model.md) — related

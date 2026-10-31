@@ -70,3 +70,4 @@ The synthesis reports that autonomy and meaningful goals improve intrinsic motiv
 - [Mental tests have decided limitations: they miss motivation, persistence, and emotional life, and intelligence ratios are subject to change](intelligence-test-limitations-profile-needed.md) — related
 - [Autonomy-supportive versus controlling instructions have limited main effects, enhancing autonomy satisfaction only](instructional-style-main-effect-limited-autonomy-satisfaction.md) — related
 - [Providing meaningful choice during a lesson increases perceived autonomy and triggered situational interest in undergraduates learning statistics](choice-increases-autonomy-triggered-situational-interest.md) — a narrower finding that bears on this claim
+- [Students perceive DPBL tasks as providing ownership, autonomy, and flexibility](dpbl-tasks-ownership-autonomy-flexibility.md) — a narrower finding that bears on this claim

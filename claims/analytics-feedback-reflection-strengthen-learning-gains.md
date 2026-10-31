@@ -70,3 +70,4 @@ The review reports, citing Shute and Ke (2012) and Wouters et al. (2013), that f
 - [Formative participants preferred post-session debriefing over in-session interruption, with timing treated as contingent on error severity](feedback-timing-post-session-debrief-preference.md) — related
 - [Students perceive debriefing and guided psychometric-property exploration as the most beneficial components of a simulated clinical course](debriefing-psychometric-instruction-valued.md) — a narrower finding that bears on this claim
 - [Immediate explanatory feedback prevents consolidation of erroneous concepts in interactive tutoring](immediate-explanatory-feedback-prevents-error-consolidation.md) — a narrower finding that bears on this claim
+- [Feedback and debriefing are the most important educational components of simulation-based learning in cardiac arrest education](feedback-debriefing-most-important-simulation-components.md) — a narrower finding that bears on this claim

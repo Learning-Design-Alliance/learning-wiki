@@ -48,3 +48,5 @@ Publication bias assessment of the 36 included studies using funnel-plot visuali
 - [Large language models achieve a pooled accuracy of 72% on medical licensing examination questions across 36 studies](llm-pooled-accuracy-72-medical-licensing-exams.md) — related
 - Egger's regression found no statistically significant evidence of publication bias among the 28 collected studies — related
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](srl-meta-analysis-publication-bias-absent.md) — related
+- [ChatGPT-4.0 was 36% more likely than ChatGPT-3.5 to provide correct answers across medical licensing and residency exams](chatgpt-4-risk-ratio-136-over-chatgpt-35.md) — related
+- No evidence of publication bias in the SDL meta-analysis — related

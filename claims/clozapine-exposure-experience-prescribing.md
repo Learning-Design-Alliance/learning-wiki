@@ -69,3 +69,4 @@ Comparative survey evidence reported within the review (Takeuchi et al., 2016): 
 - [Misconceptions and overestimation of clozapine side effects contribute to underprescribing and prescribing variation](clozapine-side-effect-misconceptions-underprescribing.md) — related
 - [Training improves competence in clozapine management, especially when integrated with clinical experience](clozapine-training-improves-competence.md) — related
 - [Professionals self-report competence with clozapine guidelines but express less confidence in adhering to them](hcp-self-reported-competence-exceeds-confidence-clozapine.md) — related
+- [Higher education, specialised experience, recent training, and seniority are associated with better knowledge, attitudes, and practices.](education-training-seniority-better-kap.md) — related

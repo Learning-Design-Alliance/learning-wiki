@@ -13,7 +13,7 @@ generated:
 # Worked Examples
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 39 claims (18 for, 17 mixed, 4 against) · 43 studies (21 causal, 11 review, 5 theoretical, 4 quant-synthesis, 1 associational, 1 design), `q1`–`q4` · 7 of 43 report an effect size · 30 claims rest on one study
+> **Evidence** · 40 claims (19 for, 17 mixed, 4 against) · 44 studies (21 causal, 12 review, 5 theoretical, 4 quant-synthesis, 1 associational, 1 design), `q1`–`q4` · 8 of 44 report an effect size · 31 claims rest on one study
 
 ## Description
 Worked examples are the element in which learners study complete or partial solutions before attempting similar problems independently.
@@ -73,6 +73,7 @@ Worked examples are the element in which learners study complete or partial solu
 - [Problem solving after acquisition outperformed example study at a one-week delayed posttest but not immediately](../claims/problem-solving-beats-example-study-at-delay.md) [~W]
 - [Students trained with both backward worked examples and backward problem solving significantly outperformed control and BWE-only students on posttest problem scores](../claims/bwe-bps-training-improves-posttest-problem-scores.md) [~W]
 - [Alternating examples and problems yielded more learning and more conceptual knowledge than examples alone or problem-solving alone](../claims/examples-plus-problems-beat-examples-alone.md) [~W]
+- [Worked examples combined with practice writing improved clinical note checklist scores more than worked examples alone](../claims/worked-examples-plus-practice-improve-note-scores.md) [+W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

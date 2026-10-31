@@ -52,3 +52,4 @@ Teacher-reported explanation gathered in the implementation evaluation of the ER
 - [Most study teachers received all ERWC materials and sufficient professional learning: 82.1 percent met professional-learning thresholds and all 56 received materials](erwc-high-materials-professional-learning-fidelity.md) — related
 - [Teachers least often taught the aspects of the ERWC curriculum associated with writing and metacognition](teachers-least-often-taught-writing-and-metacognition.md) — related
 - [Teachers viewed the ERWC 3.0 as an improved curriculum that promoted high student engagement and supported students' academic and personal growth](teachers-viewed-erwc-3-engaging-and-growth-supporting.md) — related
+- [Low pre-reading compliance and resource demands hinder TBL implementation](tbl-implementation-barriers.md) — a narrower finding that bears on this claim

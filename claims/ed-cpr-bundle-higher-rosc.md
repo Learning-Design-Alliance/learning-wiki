@@ -49,3 +49,5 @@ The review reports this from a pre- and post-evaluation by Rolston et al. of an 
 - [Real-time feedback systems generally improve CPR quality in simulation-based training, particularly compression rate and depth](real-time-feedback-improves-cpr-quality-simulation.md) — related
 - [Feedback from trained humans was in some settings as effective as mechanical feedback devices for CPR quality](human-feedback-equivalent-to-mechanical-devices.md) — related
 - [An augmented-reality CPR training application did not improve CPR quality compared with a standard audio-visual feedback manikin](ar-cpr-training-no-improvement-over-manikin.md) — related
+- [In one included study, simulation-based team training in a trauma bay was followed by a 16 percent reduction in total resuscitation time and faster completion of primary surveys.](steinemann-resuscitation-time-reduction.md) — related
+- [Interventions combining core simulation with in-situ refreshers, visual prompts, and structured micro-debriefs more often reported larger or more durable behavioural improvements.](workflow-reinforcement-durable-behavioural-change.md) — related

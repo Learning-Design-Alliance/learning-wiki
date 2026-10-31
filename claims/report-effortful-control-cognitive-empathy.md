@@ -49,3 +49,4 @@ Spearman correlations from Table 1 between parent-reported child dispositions (C
 
 ## Related Claims
 - [Central P2 difference between harm and help conditions predicts children's protest behaviour, while LPP difference does not after controlling for P2](p2-diff-predicts-protest-sem.md) — related
+- Sixteen of 19 studies explicitly defined empathy, most commonly combining cognitive and affective components; no study defined empathy solely as affective — related

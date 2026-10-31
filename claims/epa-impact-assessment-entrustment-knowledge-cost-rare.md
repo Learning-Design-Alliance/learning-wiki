@@ -48,3 +48,4 @@ Frequency analysis of impact-assessment methodologies across the 478 included st
 - [Global entrustment scales and standardised rubrics dominate EPA assessment, but validation of assessment tools is reported in only a small minority of studies](epa-assessment-tools-validation-gap.md) — related
 - Most EPA research focuses on early phases of development and implementation, with few randomised controlled trials — related
 - EPA studies concentrate on implementation, with development and assessment secondary — related
+- Quality assessment of EPAs and cost implications were not specifically evident in the included studies. — related

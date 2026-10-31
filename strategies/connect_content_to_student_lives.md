@@ -58,9 +58,11 @@ Relevance raises situational and individual interest, which supports attention, 
 6. Check that the connection carried the intended meaning — assess whether students can transfer the concept to an *unfamiliar* context as well.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — the cognitive mechanism relevance connections rely on; relevance without activation is decoration
 - [Community-Based Learning](../principles/community-based-learning.md) — extends connection from classroom contexts to the community itself as the learning site
 - [Building Empathy](../principles/building-empathy.md) — a frequent goal when content connects to students' social worlds
+- [In resource-limited contexts, rely on strong pedagogy rather than technology: clear relevant cases, structured peer mentoring, and community settings as authentic learning environments](resource-limited-pbl-pedagogy-over-technology.md)
 
 ## Examples
 - **[Anchored Instruction (Jasper Woodbury series)](../patterns/anchored-instruction.md)** — Vanderbilt's Jasper Project embeds math problem solving in extended video narratives, anchoring abstract content in a shared, story-like context.

@@ -51,3 +51,4 @@ Pooled analysis by Kirkpatrick outcome level across the 12 competency-versus-non
 - [Training-time ratio moderates the competency-based simulation advantage: large effects when competency training takes less time, non-significant when it takes more](time-ratio-moderates-competency-simulation-effect.md) — related
 - [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — related
 - [Evidence on transfer to clinical behavior and patient outcomes is scarce: only 2 studies reached Kirkpatrick level 3 and 1 reached level 4](transfer-and-patient-outcomes-scarce.md) — related
+- [No included SDL studies measured Kirkpatrick Level 4 (patient/system) outcomes](sdl-no-kirkpatrick-level-4-outcomes.md) — related

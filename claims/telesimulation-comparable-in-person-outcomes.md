@@ -50,3 +50,5 @@ The review's synthesis of two included studies (Ohta et al., retrospective cohor
 - [High-fidelity manikins and virtual reality were the most common paediatric SBE modalities across the reviewed studies](high-fidelity-manikins-vr-most-common-modalities.md) — related
 - Thirty empirical studies of paediatric simulation-based education in undergraduate medical education were identified, predominantly randomized controlled trials and quasi-experimental designs — related
 - [Three comparative studies reported superior outcomes for distance simulation over traditional training, involving augmented reality telementoring, remote robotic teaching, and a virtual classroom](distance-simulation-superior-outcomes-three-studies.md) — related
+- [Active methodologies show no definitive superiority over traditional teaching in undergraduate dentistry](no-definitive-superiority-active-methods-dentistry.md) — related
+- [Remote teaching achieves competency outcomes equivalent to traditional learning for basic surgical skills in most studies](rt-equivalent-to-tl-basic-surgical-skills.md) — a narrower finding that bears on this claim

@@ -50,3 +50,4 @@ The review reports a randomised study of 60 robotic novices allocated to CESIR m
 - [Pre-training educational video review improved simulator scores and shortened the learning curve but temporarily increased completion time](video-review-improves-scores-plateau-earlier.md) — related
 - [Evidence for technology-enhanced basic robotic skills training is concentrated at Kirkpatrick level 2, with no studies reporting transfer to operative behaviour or patient outcomes](kirkpatrick-level2-only-evidence-base.md) — a broader claim this one bears on
 - [VR-enhanced basic robotic skills training sometimes required more training repetitions than conventional training to reach equivalent proficiency](vr-training-more-repetitions-to-proficiency.md) — related
+- [VR simulation training improves orthopaedic trainees' technical proficiency and shortens operative times](vr-simulation-improves-ortho-technical-proficiency.md) — related

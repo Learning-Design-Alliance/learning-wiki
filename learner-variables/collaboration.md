@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 76 claims (59 show a difference, 10 mixed, 7 no difference) · 64 studies (16 causal, 16 review, 11 qualitative, 8 associational, 5 design, 5 theoretical, 3 quant-synthesis), `q1`–`q3` · 6 of 64 report an effect size · 76 claims rest on one study
+> **Evidence** · 81 claims (64 show a difference, 10 mixed, 7 no difference) · 68 studies (19 review, 16 causal, 11 qualitative, 8 associational, 5 design, 5 theoretical, 4 quant-synthesis), `q1`–`q3` · 7 of 68 report an effect size · 81 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -118,6 +118,11 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Skill retention after simulation is rarely measured; at 2-month follow-up only the VR group maintained significant ISVS improvement](../claims/simulation-skill-retention-two-month-follow-up.md) [~M] — instruction changes it
 - [TBL is associated with improved self-study ability, communication skills, and teamwork ability versus LBL](../claims/tbl-improves-self-study-communication-teamwork.md) [+M] — instruction changes it
 - [Virtual environments favor clinical reasoning, self-regulation and peer collaboration, while physical environments engage critical reasoning, professionalism and communication abilities](../claims/virtual-physical-environments-different-competencies.md) [~W] — instruction changes it
+- [First-year medical students in the single first-year-focused study reported high engagement (97%) and perceived improved teamwork (87%) with PBL](../claims/first-year-students-high-engagement-teamwork-pbl.md) [+M] — instruction changes it
+- [NTS training for emergency department professionals is associated with consistent pre- to post-training improvements in knowledge, teamwork attitudes, and self-confidence (low to moderate certainty).](../claims/nts-training-improves-ed-learning-outcomes.md) [+M] — instruction changes it
+- [NTS training improves observable team behavioural performance in EDs, including more frequent closed-loop communication, clearer role allocation and prioritisation, improved situational awareness, and higher teamwork ratings (moderate certainty).](../claims/nts-training-improves-ed-team-behaviours.md) [+M] — instruction changes it
+- [PBL structured steps develop teamwork and communication skills in OB/GYN students](../claims/pbl-teamwork-communication-skills-obgyn.md) [+M] — instruction changes it
+- [TBL significantly improves communication skills while PBL does not](../claims/tbl-significant-pbl-not-communication.md) [+M] — instruction changes it
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

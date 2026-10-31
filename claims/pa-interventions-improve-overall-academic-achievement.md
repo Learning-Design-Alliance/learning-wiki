@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2022
+source_checked: 2026-10-31
 sources:
   - id: loturco-2022
     resource: "https://doi.org/10.3390/educsci12020134"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The pooled overall effect of the meta-analysis showed a significant improvement in academic achievement after physical activity programs compared with controls. [→ Loturco 2022](#loturco-2022)
@@ -55,3 +56,4 @@ Random-effect meta-analysis pooling all 31 included studies simultaneously (pool
 - [Classroom active breaks show no reliable effect on mathematical fluency](active-breaks-null-effect-mathematical-fluency.md) — related
 - [School physical activity interventions did not significantly improve language, reading, or composite academic scores compared with controls](pa-interventions-no-effect-language-reading-composite.md) — reports the opposite
 - [Effects of school-based physical activity on academic performance are not uniform and appear higher for mathematics skills](pa-academic-effects-nonuniform-math-favored.md) — related
+- [School-based physical activity programs significantly improve mathematics achievement in children and adolescents (SMD = 0.11)](school-based-physical-activity-improves-mathematics-achievement.md) — a narrower finding that bears on this claim

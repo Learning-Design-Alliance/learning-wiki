@@ -162,3 +162,5 @@ Meta-analysis of school-based writing-to-learn task assignments including inform
 - [Direct metacognitive instruction improves learning strategies and achievement, with largest effects when strategy instruction is combined with strategy knowledge, longer duration, and in mathematics](metacognitive-instruction-effects-meta-analyses.md) — related
 - [Combining reading comprehension and writing strategy instruction in an ITS is significantly more effective than either strategy alone](combined-reading-writing-strategy-instruction-its.md) — related
 - [Teaching more text structures and including writing each increase the effect of text structure instruction](tsi-moderators-structures-and-writing.md) — related
+- [Instructor feedback using a structured HAPA form outperformed unstructured feedback on write-up scores](structured-hapa-feedback-form-outperforms-unstructured.md) — related
+- [Interventions combining core simulation with in-situ refreshers, visual prompts, and structured micro-debriefs more often reported larger or more durable behavioural improvements.](workflow-reinforcement-durable-behavioural-change.md) — related

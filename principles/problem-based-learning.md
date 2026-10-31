@@ -32,7 +32,7 @@ sources:
 # Problem-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 57 claims (17 for, 36 mixed, 4 against) · 49 studies (11 quant-synthesis, 9 causal, 9 review, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 9 of 49 report an effect size · 52 claims rest on one study
+> **Evidence** · 58 claims (18 for, 36 mixed, 4 against) · 50 studies (11 quant-synthesis, 10 causal, 9 review, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 9 of 50 report an effect size · 53 claims rest on one study
 
 ## Conditional relationship
 
@@ -155,6 +155,7 @@ At the curriculum level, the expectation of a small and variable average should 
 - [Grade level (JHS vs SHS) does not significantly moderate PBL’s effect on science achievement, though the SHS effect size is descriptively larger](../claims/pbl-grade-level-moderator-no-significant-difference.md) [~W]
 - [PBL effect sizes on science achievement do not differ significantly between studies conducted in Turkey and abroad](../claims/pbl-effect-similar-national-vs-international.md) [~W]
 - [PBL has a large and positive effect (ES = .871) on secondary students’ achievement in science compared with conventional teaching](../claims/pbl-large-positive-effect-secondary-science-achievement.md) [-W]
+- [PBL combined with virtual simulation improved theoretical knowledge and practical skills in clinical biochemistry](../claims/pbl-virtual-simulation-improves-theory-and-skills.md) [+W]
 
 ## Related Principles
 - [Inquiry-based Learning](inquiry-based-learning.md) — PBL is one inquiry form centered on authentic problems.

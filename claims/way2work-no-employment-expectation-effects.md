@@ -59,3 +59,4 @@ RCT analysis of employment and expectation outcomes at the 24-month follow-up, b
 - [Individuals involved in technology exposure and exploration programs are more likely to pursue or enroll in technology-related education and training](exposure-programs-increase-tech-pursuit.md) — related
 - [LLC did not affect employment for all participants within the first 24 months of enrollment](llc-no-employment-impact-all-participants-24-months.md) — related
 - [The PROMISE interim evaluation measured impacts on primary outcomes at 18 months after enrollment](promise-impacts-measured-18-months.md) — related
+- Longitudinal program evaluation strategies were described in only three studies — related

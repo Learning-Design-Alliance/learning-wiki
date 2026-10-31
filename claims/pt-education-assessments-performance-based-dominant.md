@@ -47,3 +47,4 @@ Systematic charting of the 92 assessments across 139 included studies in this sc
 ## Related Claims
 - [Content evidence is the most prevalent type of validity evidence for physical therapy educational assessments, but median evidence ratings are 0 or 1 across all five Messick categories](pt-assessment-validity-evidence-sparse-weak.md) — related
 - Knowledge-level assessments (written and oral exams) are underrepresented in the physical therapy assessment literature relative to performance-based assessments — related
+- [Performance-based, simulated, in-person assessment is the most prevalent CSA method (116 studies, 79%), of which 68 are OSCE-based](performance-simulated-inperson-most-prevalent-csa.md) — related

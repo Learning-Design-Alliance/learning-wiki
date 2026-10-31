@@ -55,3 +55,4 @@ Behavioral ANOVA of the acquisition condition in 29 early-stress and 22 control 
 - [Lifetime stress severity correlates with poorer learning performance and reduced putamen/ACC activation](lifetime-stress-dose-learning-correlation.md) — related
 - [Stress-exposed adolescents show impaired cognitive flexibility in reversal learning](early-stress-impaired-reversal-flexibility.md) — related
 - [Group differences in learning are more pronounced during reversal than acquisition](reversal-deficit-exceeds-acquisition-deficit.md) — related
+- [Paramedic trainees randomized to a low-stress condition calculated drug doses more accurately than those in the high-stress group](low-stress-condition-more-accurate-drug-dose-calculations.md) — related

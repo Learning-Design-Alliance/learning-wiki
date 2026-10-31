@@ -55,3 +55,4 @@ The report's own framing statement: it summarizes existing quantitative methods 
 - [Measuring the impact of math instruction and interventions is key to improving students' overall math performance](measuring-math-impact-key-to-improving-performance.md) — possibly the same claim (merge candidate)
 - [Quasi-experimental and experimental interventions can positively change epistemic cognition, but the theory-of-change remains unidentified](interventions-change-epistemic-cognition.md) — related
 - [The trial examines variation in curriculum impact by pre- and post-migration conflict experiences](sel-impact-variation-pre-post-migration-conflict-experiences.md) — a narrower finding that bears on this claim
+- [Quantitative assessment instruments in IPE faculty development initiatives are typically applied at two moments, before and after the intervention](ipe-faculty-development-assessment-before-after.md) — related

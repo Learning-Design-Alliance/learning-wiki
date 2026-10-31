@@ -70,3 +70,4 @@ Participant interview quote from the lab study (P6) on the effect of removing th
 - [Novice creative coders exhibited three distinct initial interaction patterns with Flowcode: flowchart-first, code-first, and prompt-first](three-interaction-patterns-flowcode.md) — related
 - [In an exploratory pilot, a soft barrier shifted participants from direct copying toward editing, understanding, and iterative resubmission without preventing task completion](soft-barrier-shifts-users-toward-editing.md) — related
 - [An LLM-generated flowchart linking semantic feature descriptions to code across HTML, CSS, and JS files supports novice creative coders' orientation, navigation, and code understanding](flowchart-supports-code-orientation-navigation.md) — related
+- [E-learning platforms allow self-paced navigation, enabling focus on areas of difficulty](e-learning-self-paced-navigation.md) — related

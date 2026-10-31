@@ -46,6 +46,7 @@ The article suggests that training student teachers to use more reappraisal and 
 ## Related Strategies
 
 - [Design training videos that utilize experts' ways of seeing and thinking to develop novices' professional vision](expert-viewpoint-training-videos-professional-vision.md)
+- [Combine theoretical background and experience-based teaching strategies to develop relational competence](combine-theoretical-and-experience-based-teaching.md)
 
 ## Examples
 -

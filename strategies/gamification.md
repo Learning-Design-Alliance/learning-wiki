@@ -66,6 +66,7 @@ Gamification reliably increases short-term engagement and activity completion, b
 - [Mastery-based progression](mastery-based-progression.md) — levels unlocked by demonstrated competence rather than time spent
 - [Classroom response systems](classroom-response-systems.md) — often gamified with points and team competition for immediate feedback
 - [Use a game balancing technique when assigning students to competition-based persuasive conditions to avoid discouraging competition-averse students.](game-balancing-competition-group-assignment.md)
+- [Incorporate game elements such as rewards, adaptive difficulty, immersive environments, and clear feedback into digital interventions for ADHD](game-elements-strategy-adhd-digital-interventions.md)
 
 ## Related Elements
 - [Provide feedback](../elements/provide-feedback.md) — points and badges are feedback delivery mechanisms; their instructional value depends on informational content

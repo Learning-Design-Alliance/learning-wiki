@@ -51,3 +51,4 @@ Qualitative interview study with 12 individuals with experience designing, provi
 - [Developing and delivering an integrated CBL/CEL/COIL planetary health course yielded three key lessons on flexibility, structural reform, and equitable partnerships](planetary-health-course-three-key-lessons.md) — related
 - [Better coordination, communication, and coherence across professional learning and supports are needed to sustain centering student experience](coherence-alignment-student-experience-supports.md) — related
 - [District leaders use learning walks and ongoing professional learning to reinforce clear, consistent expectations for curriculum use over time](clear-expectations-learning-walks-reinforce-hqim-use.md) — related
+- [Organizational support, clear protocols, and ongoing reinforcement are associated with the most impactful CPD interventions](cpd-organizational-support-protocols-reinforcement.md) — related

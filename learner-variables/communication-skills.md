@@ -13,7 +13,7 @@ generated:
 # Communication Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 83 claims (53 show a difference, 18 mixed, 12 no difference) · 69 studies (16 causal, 16 associational, 13 review, 10 quant-synthesis, 5 design, 5 theoretical, 4 qualitative), `q1`–`q3` · 13 of 69 report an effect size · 82 claims rest on one study
+> **Evidence** · 94 claims (61 show a difference, 20 mixed, 13 no difference) · 77 studies (19 review, 16 causal, 16 associational, 12 quant-synthesis, 5 design, 5 theoretical, 4 qualitative), `q1`–`q3` · 14 of 77 report an effect size · 93 claims rest on one study
 
 ## Description
 Communication is expressing one's thoughts, ideas and emotions and understanding those of others. Language is its main medium (spoken and signed language, reading and writing, listening), but it also includes gesture, drawing, numbers and technology, and the use of more than one language. Using several modes, and mixing languages when a learner's vocabularies do not overlap, is described as extending thinking and making ideas easier for others to engage with. It is measured through vocabulary and language tests, self-assessments of oral competence, and, in mathematics, by coding the detail and soundness of students' spoken explanations and their participation in discussion.
@@ -124,6 +124,17 @@ It overlaps with [reading and language](reading-and-language.md) and [English-le
 - [Evidence on long-term retention and transfer of clinical communication skills to clinical practice remained inconsistent or lacking across included reviews](../claims/vp-communication-long-term-retention-transfer-inconsistent.md) [~M] — instruction changes it
 - [Immersive VR simulation is noninferior to live simulation for developing teamwork and communication skills](../claims/vr-noninferior-to-live-simulation-teamwork-communication.md) [-M] — instruction changes it
 - [TBL is associated with improved self-study ability, communication skills, and teamwork ability versus LBL](../claims/tbl-improves-self-study-communication-teamwork.md) [+M] — instruction changes it
+- [Communication-skill effects of modern teaching methods are significant only for short durations (≤5 weeks) and second-year students](../claims/communication-effects-limited-to-short-duration-sophomores.md) [~M] — instruction changes it
+- [Modern teaching methods significantly improve nursing students' communication skills (SMD = 1.80)](../claims/modern-methods-improve-nursing-communication-meta.md) [+M] — instruction changes it
+- [Most medical students report that early clinical exposure improves their communication skills](../claims/ece-improves-communication-skills-perceptions.md) [+M] — instruction changes it
+- [PBL is associated with perceived improvements in critical thinking and communication skills among undergraduate medical students in both resource-limited and resource-rich settings](../claims/pbl-associated-perceived-critical-thinking-communication-improvements-medical-students.md) [+M] — instruction changes it
+- [Cross-sectional studies in resource-limited settings suggest PBL is associated with perceived critical-thinking and communication gains, with collaborative discussion possibly compensating for infrastructural constraints](../claims/pbl-effective-resource-limited-settings-collaboration-compensates.md) [+M] — instruction changes it
+- [PBL structured steps develop teamwork and communication skills in OB/GYN students](../claims/pbl-teamwork-communication-skills-obgyn.md) [+M] — instruction changes it
+- [School-based physical activity shows no significant effect on language expression achievement](../claims/school-based-physical-activity-no-effect-language-expression.md) [-M] — instruction changes it
+- [Simulation increases participants' empathy, communication and interpersonal skills and decreases anxiety](../claims/simulation-increases-empathy-communication-skills.md) [+M] — instruction changes it
+- [TBL significantly improves communication skills while PBL does not](../claims/tbl-significant-pbl-not-communication.md) [~M] — instruction changes it
+- [Virtual patient-based learning produces greater learning performance, self-efficacy and communication skills than conventional learning in a quasi-experimental study](../claims/vp-social-learning-quasi-experiment-communication.md) [+M] — instruction changes it
+- [WhatsApp-based mobile instant messaging projects enhanced communicative skills and vocabulary knowledge](../claims/whatsapp-projects-communicative-skills-vocabulary.md) [+M] — instruction changes it
 
 ## Measures
 - **Expressive One-Word Picture Vocabulary Test, Fourth Edition (EOWPVT-4)** (Martin & Brownell, 2011): expressive vocabulary across all age groups.

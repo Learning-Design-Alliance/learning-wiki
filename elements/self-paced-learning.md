@@ -13,7 +13,7 @@ generated:
 # Self-Paced Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 2 studies (1 causal, 1 quant-synthesis), `q3` · 1 of 2 report an effect size
+> **Evidence** · 2 claims (2 for) · 3 studies (1 causal, 1 quant-synthesis, 1 review), `q1`–`q3` · 1 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Self-paced learning is the element in which learners control the rate or sequence of progress through material within a designed structure. It is useful when learners need flexibility in timing, review, or progression.
@@ -37,6 +37,7 @@ Self-paced learning is the element in which learners control the rate or sequenc
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](../claims/learner-paced-beats-system-paced-complex-material.md) [+W]
+- [E-learning platforms allow self-paced navigation, enabling focus on areas of difficulty](../claims/e-learning-self-paced-navigation.md) [+W]
 
 ## Related Elements
 - [Digital Learning](digital-learning.md)

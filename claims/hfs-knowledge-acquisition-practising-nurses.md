@@ -55,3 +55,4 @@ Inverse-variance random-effects meta-analysis of five RCTs and one quasi-experim
 - [In an RCT of ICU nurses, simulation-based education produced within-group gains in knowledge, confidence and competence but no between-group differences at 6 weeks](sbe-icu-within-group-gains-no-between-group.md) — related
 - [High-fidelity simulation improves ECT procedural skills substantially but does not reliably improve theoretical knowledge or confidence](hfs-ect-procedural-skills.md) — related
 - [IVR simulation significantly improves nursing students' knowledge acquisition with a small-to-medium effect](ivr-improves-nursing-knowledge-acquisition.md) — related
+- [High-fidelity simulation methods (simulators, 3D models, cadaver-based practice) are associated with superior Acquisition retention, though some studies report contradictory findings](high-fidelity-simulation-associated-with-superior-acquisition-retention.md) — related

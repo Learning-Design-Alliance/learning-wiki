@@ -66,6 +66,7 @@ JIT delivery exploits the fact that information encountered at the moment of app
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — expert hints and coaching during task performance are a JIT mechanism
 - [Blended Learning](../patterns/blended-learning.md) — JiTT is a common blended design, with online warm-ups driving face-to-face instruction
 - [Provide need-based, just-in-time support and resources for faculty design work](need-based-just-in-time-faculty-design-support.md)
+- [Just-in-time training to minimise skill decay before clinical performance](just-in-time-training-neuraxial-skill-decay.md)
 
 ## Examples
 - **Just-in-Time Teaching (JiTT)** ([https://www.jitt.org](http://www.jitt.org)) — web-based pre-class questions on physics or biology; instructors adjust lecture content to the misconceptions students reveal hours before class [Novak et al., 1999]

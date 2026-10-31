@@ -77,3 +77,5 @@ The review's RQ2 synthesis reports that when mistakes happen, models "can provid
 - [Training-data contamination motivates newly designed cases: models can reproduce popular tabular records that frequently appear in public notebooks](llm-tabular-data-contamination-motivation.md) — related
 - [The article argues that widespread adoption of generative AI creates a viable means of addressing management education's memorization-centered challenges](genai-viable-means-management-education-reform.md) — a broader claim this one bears on
 - [Nursing students express needs for optimized VS technology and cases: more diverse scenarios, greater realism, multilingual support, flexible training content, and culturally contextualized cases](vs-student-needs-optimization.md) — related
+- [Clinical simulation improved pathophysiology learning with a significant grade shift toward higher marks](clinical-simulation-improves-pathophysiology-grades.md) — related
+- [Curricula predominantly featured interactive and experiential teaching methods such as simulation and project-based learning](mlm-curricula-interactive-experiential-methods.md) — related

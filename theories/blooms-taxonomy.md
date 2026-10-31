@@ -12,7 +12,7 @@ generated:
 # Bloom's Taxonomy
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 12 claims (6 for, 4 mixed, 2 against) · 11 studies (3 causal, 3 review, 3 design, 2 associational), `q1`–`q3` · 0 of 11 report an effect size · 12 claims rest on one study
+> **Evidence** · 13 claims (7 for, 4 mixed, 2 against) · 12 studies (4 review, 3 causal, 3 design, 2 associational), `q1`–`q3` · 0 of 12 report an effect size · 13 claims rest on one study
 
 ## Description
 Benjamin Bloom (1913-1999), working with his mentor Ralph W. Tyler at the University of Chicago and with collaborators Engelhart, Furst, Hill, and Krathwohl, published *Taxonomy of Educational Objectives: Handbook I, The Cognitive Domain* in 1956, followed by a second handbook on the affective domain in 1964 (Krathwohl, Bloom, & Masia, 1973). Bloom et al. (1956) identified three domains of educational goals — often summarized as **KSA**:
@@ -92,6 +92,7 @@ As Morshead (1965) pointed out on publication of the affective-domain handbook, 
 - [ITS for psychomotor skills cluster in medicine, with sport second and other domains marginal](../claims/its-domain-distribution-medicine.md) [~W]
 - [AI-enabled EFL teaching maps onto all three domains of Bloom's Taxonomy — cognitive, affective, and behavioral — per the review's analysis](../claims/ai-efl-blooms-taxonomy-mapping.md) [+W]
 - [Multiple-choice questions combined with description and open-description items can measure higher-level thinking, including concept understanding at levels C1–C6](../claims/multilevel-mcq-measures-higher-order-chemistry-understanding.md) [+W]
+- [59.14% of geriatric core competencies are classified as Apply in Bloom's cognitive process dimension and 64.2% as Conceptual Knowledge](../claims/geriatric-competencies-apply-conceptual-bloom.md) [+W] — attached 2026-10-31 from Yang Deng-Chi et al. (2025), which proposed "Bloom's revised taxonomy as a framework for classifying geriatric core competencies".
 
 ## The evidence by question
 - *Are questions at higher Bloom levels harder for learners, as the taxonomy's hierarchy assumes?* [Students perform better overall on LOCS exam questions than on HOCS exam questions](../claims/locs-exam-questions-outperform-hocs.md) [+M]
@@ -122,6 +123,7 @@ As Morshead (1965) pointed out on publication of the affective-domain handbook, 
 - [Bloom-level mapping of exercise difficulty levels in AI exercise generation](../designs/bloom-mapped-exercise-difficulty-generation.md)
 - [CogTax: a four-level cognitive taxonomy integrating cognitive complexity and operational impact via a maximum rule](../designs/cogtax-four-level-command-line-taxonomy.md)
 - [Graduated levels of AI integration aligned with Bloom's taxonomy and the AI Assessment Scale](../designs/graduated-ai-integration-levels-blooms.md)
+- [Add situational judgement tests to prescribing competence assessment practices](../strategies/recommend-situational-judgement-tests-prescribing.md)
 
 ## Key Sources
 - Bloom, B. S. (Ed.), Engelhart, M. D., Furst, E. J., Hill, W. H., & Krathwohl, D. R. (1956). *Taxonomy of educational objectives, Handbook I: The cognitive domain*. David McKay Co.

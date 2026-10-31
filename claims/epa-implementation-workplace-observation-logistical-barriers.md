@@ -49,3 +49,4 @@ Frequency analysis of EPA implementation methodologies across the included studi
 - [Consensus methods and focus groups are the most common EPA development methodologies, with medical education experts and clinicians the most involved stakeholders](epa-development-consensus-focus-groups-stakeholders.md) — related
 - Most EPA research focuses on early phases of development and implementation, with few randomised controlled trials — related
 - EPA studies concentrate on implementation, with development and assessment secondary — related
+- [Performance-based, simulated, in-person assessment is the most prevalent CSA method (116 studies, 79%), of which 68 are OSCE-based](performance-simulated-inperson-most-prevalent-csa.md) — related

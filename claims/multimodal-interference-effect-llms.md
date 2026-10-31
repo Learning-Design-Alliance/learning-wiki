@@ -73,3 +73,4 @@ Descriptive comparison of context misinterpretation error rates across modalitie
 - [Students answered questions requiring coordination of two or more representations less accurately than questions answerable from a single representation](coordination-of-two-representations-correctless.md) — related
 - [Letter sound only instruction may interfere with letter name learning relative to incidental exposure](ls-only-possible-letter-name-interference.md) — a narrower finding that bears on this claim
 - [LLM accuracy varies across mathematically equivalent problem representations even under deterministic decoding, in both interaction conditions](llm-representational-sensitivity-equivalent-math-forms.md) — related
+- [LLMs underperformed on image-based dental examination questions compared with text-based questions](llms-underperform-image-based-questions.md) — a narrower finding that bears on this claim
