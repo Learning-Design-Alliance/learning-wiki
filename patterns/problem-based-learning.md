@@ -29,7 +29,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 62 claims (16 for, 42 mixed, 4 against) · 47 studies (16 causal, 8 review, 7 theoretical, 6 quant-synthesis, 5 qualitative, 3 design, 2 associational), `q1`–`q4` · 9 of 47 report an effect size · 57 claims rest on one study
+> **Evidence** · 70 claims (17 for, 48 mixed, 5 against) · 50 studies (16 causal, 8 review, 7 theoretical, 6 quant-synthesis, 5 qualitative, 3 design, 2 associational), `q1`–`q4` · 10 of 50 report an effect size · 65 claims rest on one study
 
 ## Description and scope
 
@@ -154,6 +154,14 @@ This pattern is scoped to problem-centred units in which an explicit consolidati
 - [Scaffolding effects in PBL are higher in Engineering, Technology, and Mathematics than in Science, and relatively low in integrated STEM education](../claims/discipline-moderator-scaffolding-effects-bma.md) [~W]
 - [PS-DI learners consulted the reference book on supplier selection procedure far more often than DI-PS learners (d = .83)](../claims/ps-di-more-reference-book-use.md) [~W]
 - [PS-DI learners reported higher intrinsic in-scenario cognitive load during problem solving (d = .53)](../claims/ps-di-higher-intrinsic-in-scenario-cognitive-load.md) [~W]
+- [PBL effect sizes on science achievement do not differ significantly across physics, chemistry, and biology](../claims/pbl-effect-similar-across-science-subjects.md) [~W]
+- [PBL effect sizes on science achievement do not differ significantly across educational levels](../claims/pbl-effect-similar-across-educational-levels.md) [~W]
+- [PBL effect sizes on science achievement do not differ significantly between studies conducted in Turkey and abroad](../claims/pbl-effect-similar-national-vs-international.md) [~W]
+- [Grade level (JHS vs SHS) does not significantly moderate PBL’s effect on science achievement, though the SHS effect size is descriptively larger](../claims/pbl-grade-level-moderator-no-significant-difference.md) [~W]
+- [Effect sizes of PBL on science achievement differ significantly by publication type, with conference proceedings showing a negative effect](../claims/pbl-effect-differs-by-publication-type.md) [~W]
+- [Scientific discipline does not significantly moderate PBL’s effect on secondary science achievement](../claims/pbl-discipline-moderator-no-significant-difference.md) [~W]
+- [STEM education with 7E instruction, flipped learning, problem-based learning or technology-enhanced learning showed no significant effect on learning achievement](../claims/seitla-nonsignificant-approaches.md) [-W]
+- [PBL has a large and positive effect (ES = .871) on secondary students’ achievement in science compared with conventional teaching](../claims/pbl-large-positive-effect-secondary-science-achievement.md) [+W]
 
 ## Related Patterns
 - [Anchored Instruction](anchored-instruction.md)

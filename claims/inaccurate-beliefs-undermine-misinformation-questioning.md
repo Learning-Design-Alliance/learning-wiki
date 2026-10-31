@@ -55,3 +55,4 @@ The review reports, citing Kulju et al. (2024), a study of second-year pre-servi
 - [Cognitive conflict induced by refutational texts and conflicting perspectives may promote epistemic belief change in student teachers](cognitive-conflict-interventions-change-epistemic-beliefs.md) — related
 - [Formulating an essential question about a picture is harder than supplying a title, and ability to frame essential questions grows steadily through the school years](essential-question-formulation-grows-with-age.md) — related
 - [Learning-styles models (particularly VAK) continue to be believed in by most teachers and persist in teacher training despite evidence of no positive impact on educational outcomes](learning-styles-vak-persist-teacher-training.md) — related
+- [Prior studies report low understanding of climate change among students and pre-service or early-career teachers](low-student-climate-change-understanding-prior-studies.md) — related

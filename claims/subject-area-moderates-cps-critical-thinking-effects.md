@@ -54,3 +54,10 @@ Subgroup analysis by subject area (Table 4): mathematics (4 effect quantities, E
 - A five-level moderator-theme classification improves model fit and explains systematic variation in moderator effect sizes, with disciplinary focus yielding the largest and design/quality the smallest expected effects — related
 - [Concept-mapping effect sizes vary by science subject (physics/earth science g = 1.040, biology g = 0.671, chemistry g = 0.590) but not significantly](concept-map-effects-vary-by-science-subject.md) — related
 - The main area of focus of the empirical studies was STEAM-related fields — related
+- [The effect of the 7E learning cycle on achievement differs significantly by subject matter, with the largest average for chemistry and the smallest for science](7e-effect-varies-by-subject-matter.md) — related
+- [CAI effects vary by student discipline, with the largest effects for psychology students](cai-effects-vary-by-discipline-psychology-largest.md) — related
+- [The effect of computer-based teaching on academic success does not differ significantly by subject area](cbt-effect-no-difference-by-course-type.md) — reports the opposite
+- [Computer simulations yield a slightly higher achievement effect than pen-and-paper modelling activities](computer-simulations-slightly-higher-effect-than-pen-and-paper.md) — related
+- [Scientific discipline does not significantly moderate PBL’s effect on secondary science achievement](pbl-discipline-moderator-no-significant-difference.md) — related
+- [STEM education combined with a mastery learning approach produced the largest effect on learning achievement (g = 2.09)](seitla-mastery-learning-largest-effect.md) — related
+- [Digital technology-assisted STEM education shows a significantly larger effect on science achievement (d=2.838) than on mathematics achievement (d=1.255)](stem-digital-effect-science-larger-than-math.md) — reports the opposite

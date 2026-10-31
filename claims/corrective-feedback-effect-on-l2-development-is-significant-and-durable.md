@@ -131,3 +131,4 @@ Both syntheses find the effect of corrective feedback durable, and they overlap 
 - Posttests were coded as delayed if they occurred at least one day after treatment, with two-delay studies and studies lacking day/week delay metrics excluded from mean and median delay calculations — related
 - [The Fractions Tutor leads to significant learning gains in fractions knowledge that persist over at least one week.](fractions-tutor-significant-learning-gains.md) — a narrower finding that bears on this claim
 - [Kyrgyzstani EFL students' written English responses increased and non-responses decreased without explicit instruction to answer in English](increased-english-use-adt-responses.md) — related
+- [Effects of text structure instruction are maintained over time (g = 0.57 at delayed posttest)](tsi-maintenance-temporal-transfer.md) — a narrower finding that bears on this claim

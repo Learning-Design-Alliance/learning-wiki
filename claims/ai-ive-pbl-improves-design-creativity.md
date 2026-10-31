@@ -56,3 +56,4 @@ Two-group quasi-experiment in a Public Space Interior Design course at a vocatio
 - [Learning with a ChatGPT-based flipped learning guiding approach significantly improves students’ performance, self-efficacy, learning attitudes, intrinsic motivation and creative thinking in a courseware project](chatgpt-flga-improves-performance-and-perceptions.md) — related
 - [AI-PBL students achieve high normalized learning gains (g = 0.73) in computational thinking and academic achievement while control students record low gains (g ≤ 0.20)](ai-pbl-high-ngain-versus-control-low.md) — related
 - [Students perceive peer assessment-based game development as fostering deep learning in in-depth thinking, creativity and motivation](peer-assessment-game-development-fosters-deep-learning-perceptions.md) — related
+- [PBL effect sizes on science achievement do not differ significantly across instructional variations of PBL](pbl-effect-similar-across-instructional-variations.md) — related

@@ -51,3 +51,4 @@ The chapter's interpretive conclusion from its analysis of framework emphases th
 - [Storying is socially and politically non-neutral: it privileges some storylines and silences others](storying-privileges-some-storylines-silences-others.md) — related
 - [No reviewed participatory design method satisfies all seven criteria for designing disruptive socio-technical systems](no-reviewed-method-meets-all-seven-criteria.md) — related
 - [Failures of education technology implementations are attributed to social, psychological, and cultural issues rather than technical shortcomings](edtech-failures-social-psychological-cultural.md) — related
+- [Success of e-learning implementation depends on facilities, management ability, learners' 21st-century technology skills, ease of use, pedagogic focus, collaboration, content quality, and user satisfaction](e-learning-success-factors-vet.md) — related

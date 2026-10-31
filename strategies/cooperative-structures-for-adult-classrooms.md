@@ -50,6 +50,7 @@ The handbook catalogs the most commonly used cooperative learning structures and
 - [Task Force Teams of Inquiry](task_force_teams_of_inquiry.md)
 - [Cooperative Classroom Activities](cooperative_classroom_activities.md)
 - [Cooperative Learning Activities](cooperative-learning.md)
+- [Pair JAS with student-centered models and strategies](jas-with-student-centered-models.md)
 
 ## Examples
 -

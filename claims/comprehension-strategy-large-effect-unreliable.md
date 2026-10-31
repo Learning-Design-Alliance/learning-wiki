@@ -51,3 +51,4 @@ Review by Scammacca et al. of comprehension strategy interventions for students 
 - [Morphological instruction improves word-level literacy outcomes (decoding, spelling, vocabulary, morphological knowledge) but shows no reliable effect on reading comprehension](morphological-instruction-improves-literacy.md) — related
 - [Unreliability in an outcome measure reduces the statistical power of treatment-control comparisons](unreliability-reduces-rct-statistical-power.md) — a broader claim this one bears on
 - [Composition scores based on only two compositions are too unreliable for measurement, requiring roughly 17 compositions to match the Terman test's reliability](composition-reliability-requires-many-samples.md) — related
+- [Integrated literacy and content-area instruction significantly improves comprehension, including on standardized measures (g = 0.40 overall; g = 0.25 standardized)](integrated-instruction-comprehension-g-040.md) — related

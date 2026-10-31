@@ -51,3 +51,4 @@ Meta-regression of intervention duration in weeks across all effect measures com
 - [Contextual variables (educational level, language context, study design, duration, intensity) do not significantly moderate the effects of ICT-supported writing interventions](contextual-variables-no-moderation-ict-writing.md) — related
 - [Interventions in higher Grades tend to have somewhat lower effect sizes; other study characteristics show few significant moderator effects](grade-level-moderates-effect-size.md) — related
 - [Training benefits vary by week: the second training week shows a significantly lower effect (31% mean difference)](training-week-second-week-lower-gain.md) — related
+- [Publication year and instructional duration do not significantly predict variation in small-group learning effect sizes in metaregression](metaregression-year-duration-nonsignificant-predictors.md) — related

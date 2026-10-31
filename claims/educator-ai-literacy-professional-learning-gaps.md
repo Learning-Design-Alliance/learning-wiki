@@ -93,3 +93,4 @@ The same leader survey, as reported in the brief, found leaders expressed instit
 - [Regulatory absence and digital competency gaps are the most prevalent barriers to AI adoption among Ukrainian education managers](regulatory-absence-competency-gaps-top-barriers-managers.md) — related
 - [ITS adoption is limited by instructors' lack of programming skills and high outsourcing costs](its-barriers-programming-skills-and-cost.md) — related
 - [Teachers reported that accommodating diverse classroom needs was the biggest co-design challenge](codesign-challenge-diverse-classroom-needs.md) — related
+- [Tertiary institutions face substantial ICT infrastructure constraints, with 54.2% of colleges lacking well-equipped computer laboratories and only 46% ICT usage reported](ict-infrastructure-constraints-tertiary-colleges.md) — related

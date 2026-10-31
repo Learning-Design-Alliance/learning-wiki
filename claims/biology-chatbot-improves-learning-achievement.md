@@ -48,3 +48,4 @@ A quasi-experiment in a grade 7 junior high biology course assigned 34 students 
 - The evaluation used a three-class design contrasting a traditional-approach control class with two experimental classes using digital content and a chatbot-based method — related
 - [Chatbot-based instruction enhanced secondary students' learning experience by enabling self-paced study with less stress, time savings, and maintained motivation](chatbot-enhances-learning-experience-self-paced.md) — related
 - [For introductory biology students with low topic-specific prior knowledge, problem-solving-first (PS-I) outperformed instruction-first (I-PS) on a near-transfer test](ps-i-beats-i-ps-near-transfer-low-prior-knowledge.md) — related
+- [Studies report experiment classes using JAS achieve higher average study results than control classes](jas-experiment-class-higher-than-control.md) — related

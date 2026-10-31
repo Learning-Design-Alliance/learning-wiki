@@ -72,3 +72,4 @@ Categorical moderator analysis: mainly typical readers d = 0.36 versus mainly st
 - [Interventions delivered by researchers have larger effects on reading comprehension than interventions delivered by others, mostly teachers](researcher-delivered-larger-comprehension-effects.md) — related
 - [Effects on affirming motivations were largest for teacher reports, but this rests on a single study](teacher-report-measurement-moderator.md) — related
 - [Educational stage significantly moderates the digital reading-comprehension association: negative at primary and middle school, positive at high school and university](educational-stage-moderates-digital-reading-comprehension.md) — related
+- [Descriptively, newer studies and studies with primary-secondary and high school samples show larger effect size averages, though moderator tests are nonsignificant](flipped-learning-year-level-descriptive-trends.md) — related

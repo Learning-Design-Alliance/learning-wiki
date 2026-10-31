@@ -19,7 +19,7 @@ sources:
 # Preserve Heritage Language While Acquiring an Additional Language
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 34 claims (28 for, 5 mixed, 1 against) · 25 studies (6 associational, 5 review, 5 theoretical, 4 quant-synthesis, 3 qualitative, 2 causal), `q1`–`q3` · 3 of 25 report an effect size · 32 claims rest on one study
+> **Evidence** · 35 claims (29 for, 5 mixed, 1 against) · 26 studies (6 associational, 5 review, 5 theoretical, 4 quant-synthesis, 3 qualitative, 2 causal), `q1`–`q3` · 3 of 26 report an effect size · 33 claims rest on one study
 
 ## Conditional relationship
 
@@ -156,6 +156,7 @@ Heritage-language proficiency, school-language conversational fluency, school-la
 - [ELs who received bilingual education services had higher long-run attendance and academic outcomes than kindergartners who refused bilingual services](../claims/bilingual-services-higher-el-outcomes-than-refusal.md) [+W]
 - [Spanish reading instructional programs in grades K–6 produce a positive, statistically significant average effect on reading outcomes (g = 0.49)](../claims/spanish-reading-programs-overall-effect-049.md) [+W]
 - [After controlling for nonlanguage factors, L1 predicts L2 and L2 predicts L3, but L1 does not predict L3](../claims/regression-language-associations-nonlanguage-controls.md) [-W]
+- [No specific age bracket is established for teaching home language; the article recommends starting as early as birth and using home language in primary school](../claims/no-age-bracket-home-language-teaching.md) [+W]
 
 ## Related Principles
 - [Support Early Language Development](supporting-early-language-development.md) — the same responsive-interaction principle, applied specifically to maintaining a heritage language alongside a new one

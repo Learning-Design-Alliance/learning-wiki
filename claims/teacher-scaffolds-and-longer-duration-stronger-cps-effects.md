@@ -79,3 +79,4 @@ Subgroup analysis by intervention duration (Table 4): 1–4 weeks (4 effect quan
 - [Scaffolding shows a particularly large pre–post effect among students with learning disabilities (ḡ = 3.13), though this estimate is tentative, and a large effect among ELL students (ḡ = 0.92)](scaffolding-learning-disabilities-large-effect.md) — related
 - [SRL intervention effects are moderated by delivery agent, duration, domain, and student age, with inconsistent duration findings](srl-intervention-moderators-agent-domain-age.md) — reports the opposite
 - [Scaffolding targeting analysis-level skills yields much larger effects (g = 0.537) than scaffolding targeting synthesis or evaluation](analysis-level-scaffolding-outperforms-synthesis-evaluation.md) — related
+- [Program intensity is a significant moderator: high-duration gloss interventions yield larger effects (ES = 1.48) than low-duration ones (ES = 0.57)](program-intensity-moderates-gloss-effect.md) — related

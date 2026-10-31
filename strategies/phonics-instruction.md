@@ -83,6 +83,7 @@ Phonics works because it builds automatic word recognition, which frees limited 
 - Decodable text reading — the application context that converts taught correspondences into automatic word recognition
 - Repeated reading — builds the fluency that phonics-initiated decoding develops into
 - [Apply phonics/word-study skills to reading connected text to build oral reading fluency in students with LD](apply-word-study-to-connected-text-strategy.md)
+- [Use flashcards and letter-sound correspondence teaching to support early word reading](flashcards-letter-sound-correspondence-strategy.md)
 
 ## Examples
 - **[Letters and Sounds (UK)](https://www.gov.uk/government/publications/letters-and-sounds)** — England's national synthetic phonics programme, teaching correspondences in six phases with decodable readers.

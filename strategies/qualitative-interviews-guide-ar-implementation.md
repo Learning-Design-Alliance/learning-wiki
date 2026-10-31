@@ -40,6 +40,7 @@ The study complemented its quasi-experiment with qualitative analysis of intervi
 
 - [Use a matched comparison group design with qualitative mechanism exploration to evaluate charter school impacts](matched-comparison-group-design-with-qualitative-mechanism-exploration.md)
 - [Use a multi-study mixed method design combining process data (eye tracking), concurrent think-aloud, and retrospective interviews to study SRL adaptation](mixed-method-eye-tracking-think-aloud-retrospective-srl-strategy.md)
+- [Mixed-methods systematic review combining random-effects meta-analysis of experimental and quasi-experimental studies with narrative synthesis of qualitative and non-intervention evidence](mixed-methods-lac-reading-review-design.md)
 
 ## Examples
 -

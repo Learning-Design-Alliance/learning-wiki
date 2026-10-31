@@ -49,3 +49,4 @@ Narrative characterization of the 25 included studies by educational stage in th
 - [The pre-post meta-analysis of EAI effects did not reach statistical significance (g∆ = 0.552, p = .070)](eai-prepost-meta-analysis-nonsignificant.md) — related
 - [Secondary students most frequently use generative AI for step-by-step theoretical explanation and for checking their own solutions, more than for calculations](ai-as-explanation-scaffold-verification-secondary-stem.md) — related
 - [Students' generative AI use in upper secondary schoolwork clusters into four practices — explanation, creation, inspiration, and improvement — comprising eleven sub-processes](four-ai-practices-eleven-subprocesses-upper-secondary.md) — related
+- [AR-in-education studies in the meta-analysis spanned primary, secondary, high school and university levels, with university-level studies most frequent](ar-studies-target-audience-distribution.md) — related

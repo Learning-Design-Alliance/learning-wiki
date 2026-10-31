@@ -50,3 +50,4 @@ The review reports, citing Newton and Salvi (2020), a systematic review of 37 st
 - [Meta-analyses testing the matching hypothesis show a negligible overall effect of matching teaching to students' learning styles (d = 0.04)](matching-learning-styles-negligible-effect.md) — related
 - [Inaccurate prior beliefs undermine readers' ability to question online misinformation](inaccurate-beliefs-undermine-misinformation-questioning.md) — related
 - [Learning-styles models (particularly VAK) continue to be believed in by most teachers and persist in teacher training despite evidence of no positive impact on educational outcomes](learning-styles-vak-persist-teacher-training.md) — possibly the same claim (merge candidate)
+- [Prior studies report low understanding of climate change among students and pre-service or early-career teachers](low-student-climate-change-understanding-prior-studies.md) — related

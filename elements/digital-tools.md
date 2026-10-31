@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 77 claims (38 for, 35 mixed, 4 against) · 71 studies (15 review, 14 causal, 13 associational, 11 design, 7 theoretical, 6 quant-synthesis, 5 qualitative), `q1`–`q4` · 9 of 71 report an effect size · 76 claims rest on one study
+> **Evidence** · 80 claims (40 for, 36 mixed, 4 against) · 74 studies (15 review, 14 causal, 13 associational, 11 design, 7 theoretical, 6 quant-synthesis, 5 qualitative), `q1`–`q4` · 10 of 74 report an effect size · 79 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -112,6 +112,9 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [Studies report both positive and negative effects of classroom screen use: tablets and interactive whiteboards can support learning and academic performance, but teachers report difficulty supervising children's screen activity.](../claims/classroom-screen-use-positive-and-negative-effects.md) [~W]
 - [Sensitivity testing indicates the performance effects of tablet use are robust and not subject to moderation effects](../claims/tablet-performance-effects-robust.md) [~W]
 - [Subject area is significantly associated with EVS usage patterns including number of modules, students' experience, and level of summative use](../claims/evs-subject-area-usage-association.md) [~W]
+- [Augmented reality applications in education have a medium positive average effect (ES=0.677) on student outcomes according to a random effects meta-analysis](../claims/ar-applications-education-medium-positive-effect.md) [+W]
+- [The article reports that usage of specialized software increased the positive effect of CAE on mathematics achievement](../claims/specialized-software-increased-cae-effect.md) [+W]
+- [Wiki and blog effects on academic performance are stronger at K12 level (E++ = 0.845) than higher education (E++ = 0.71), with negative effect sizes occurring only in higher education studies](../claims/web20-effect-stronger-k12-than-higher-education.md) [~W]
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

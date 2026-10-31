@@ -59,3 +59,5 @@ The review's plain language summary states "the study's findings are consistent 
 - [No coded study characteristics moderated the emotion–political learning associations in Bayesian regularized meta-analysis](no-moderators-emotion-political-learning.md) — related
 - [Most study characteristics (publication year, mean age, sampling, target language, L2 major, proficiency, measure, mode) do not significantly moderate the gender gap](non-significant-moderators-l2-gender-gap.md) — related
 - [Math age, study design, and sample type did not significantly moderate the RAN–mathematics relationship](ran-math-null-moderators-age-design-sample.md) — related
+- [Descriptively, newer studies and studies with primary-secondary and high school samples show larger effect size averages, though moderator tests are nonsignificant](flipped-learning-year-level-descriptive-trends.md) — related
+- [No significant moderators of effects among research design features or intervention characteristics](integrated-instruction-no-significant-moderators.md) — related

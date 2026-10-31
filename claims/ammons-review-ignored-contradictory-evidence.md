@@ -46,3 +46,4 @@ Historical narrative review of early feedback-intervention research. The authors
 
 ## Related Claims
 - [A systematic review of bias-mitigation training names considering the opposite as a previously validated way to reduce judgment biases, without testing it itself](considering-the-opposite-reduces-bias.md) — related
+- [A prior meta-analysis cited in the review found feedback interventions worsened performance in 50 of 131 well-designed studies](kluger-denis-feedback-worse-50-of-131.md) — related

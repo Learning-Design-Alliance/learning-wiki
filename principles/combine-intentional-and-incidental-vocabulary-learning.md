@@ -18,7 +18,7 @@ sources:
 # Combine intentional and incidental vocabulary learning rather than relying on incidental learning alone
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (16 for, 8 mixed, 1 against) · 17 studies (6 causal, 5 quant-synthesis, 5 review, 1 associational), `q2`–`q3` · 2 of 17 report an effect size · 20 claims rest on one study
+> **Evidence** · 28 claims (16 for, 11 mixed, 1 against) · 19 studies (6 causal, 5 quant-synthesis, 5 review, 1 associational), `q2`–`q3` · 3 of 19 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -142,6 +142,9 @@ Words recognised at the end of a session, words recalled at a delay, words used 
 - [Total reading time independently contributed to the learning of word meaning](../claims/total-reading-time-predicts-word-meaning.md) [~W]
 - [Classroom experiments test whether instructional procedures that increase the salience and cognitive processing of targeted words in reading texts can support L2 vocabulary acquisition](../claims/vocabulary-enhancement-activities-support-reading-acquisition.md) [~W]
 - [Teachers with high incidental exposure described expanded opportunities for word use and connecting words to topics](../claims/teacher-practices-expanded-word-use-themes.md) [~W]
+- [Extensive reading benefits vocabulary learning across all age groups, with the largest effect for children (d = 5.18), though most subgroup estimates rest on very few studies](../claims/extensive-reading-vocabulary-across-age-groups.md) [~W]
+- [Extensive reading has a very large positive effect on English vocabulary learning in between-group comparisons (d = 1.32)](../claims/extensive-reading-large-effect-vocabulary-group-contrasts.md) [~W]
+- [Learning context (ESL vs EFL) does not significantly moderate the gloss effect, though EFL contexts showed a nominally larger effect](../claims/learning-context-not-significant-gloss-moderator.md) [~W]
 
 ## Related Principles
 - 

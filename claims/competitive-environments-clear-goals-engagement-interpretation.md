@@ -51,3 +51,5 @@ Authors' interpretation (e) from the article's Conclusions. The article offers n
 - [Formative assessment is theorized to foster motivation by supporting autonomy, competence, and relatedness](formative-assessment-fosters-motivation-autonomy-competence-relatedness.md) — related
 - [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — related
 - [A competition environment increases learners' motivation toward the instructional game](competition-increases-motivation-imms.md) — a narrower finding that bears on this claim
+- [Increased student engagement is proposed as the mechanism for guided notes' achievement effect, but remains untested](guided-notes-engagement-mechanism-untested.md) — a narrower finding that bears on this claim
+- [The article identifies creative drama, cooperative learning, educational games, and animations as particularly beneficial vocabulary-teaching methods](innovative-methods-beneficial-vocabulary-acquisition.md) — related

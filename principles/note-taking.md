@@ -26,7 +26,7 @@ sources:
 # Note-taking
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (9 for, 11 mixed) · 34 studies (11 causal, 10 review, 7 quant-synthesis, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 10 of 34 report an effect size · 10 claims rest on one study
+> **Evidence** · 25 claims (10 for, 15 mixed) · 35 studies (11 causal, 10 review, 7 quant-synthesis, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 11 of 35 report an effect size · 15 claims rest on one study
 
 ## Conditional relationship
 
@@ -153,6 +153,11 @@ Note completeness, note accuracy, immediate performance, delayed retention, tran
 - [Transcribed versus organised note-taking effects depend on lecture format: transcription won with audio lectures, summarising won with text](../claims/note-structure-transcribe-organise-format-dependent.md) [~W]
 - [Test format and timing moderate note-taking effects: congruent note-taking and testing modalities improved performance, and transcribed notes won only at immediate test](../claims/test-format-timing-moderate-note-taking-effects.md) [~W]
 - [Taking notes by hand is reported as superior to using laptops for learning](../claims/handwritten-notes-superior-laptop-notes.md) [~W]
+- [Guided notes produce a moderate positive effect on post-secondary student achievement overall](../claims/guided-notes-moderate-overall-effect.md) [+W]
+- [Guided-notes effects do not differ significantly by research design, assessment type, or study source](../claims/guided-notes-null-moderators-design-assessment.md) [~W]
+- [Increased student engagement is proposed as the mechanism for guided notes' achievement effect, but remains untested](../claims/guided-notes-engagement-mechanism-untested.md) [~W]
+- [Guided-notes effect sizes differ by study sample size, with the smallest and largest samples showing the largest effects](../claims/guided-notes-sample-size-moderator.md) [~W]
+- [Guided notes benefit achievement more relative to student-generated notes than relative to professor-provided full lecture notes](../claims/guided-notes-vs-note-type-moderator.md) [~W]
 
 ## Related Principles
 - [Graphic Organizers](graphic-organizers.md) — graphic note formats can make structure and relationships more visible.

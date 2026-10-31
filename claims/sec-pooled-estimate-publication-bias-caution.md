@@ -50,3 +50,6 @@ Publication-bias assessment used publication status as a moderator, funnel plot 
 - [Publication bias is present in the embodied vocabulary learning literature, suggesting pooled effects may overestimate the true benefit](publication-bias-embodied-vocabulary-meta-analysis.md) — related
 - Publication bias evidence is mixed: marginal asymmetry for tutees but no missing studies, and no bias for tutors — related
 - [Teachers' SEC shows a moderate overall correlation with students' SEC across K-12 studies, with considerable between-study variability](teacher-student-sec-moderate-overall-correlation.md) — related
+- [Publication bias does not threaten the pooled effect estimates](integrated-instruction-publication-bias-robust.md) — related
+- [Funnel-plot analyses showed no significant asymmetry, and the overall effect remained significant after removing outliers](no-significant-funnel-plot-asymmetry.md) — related
+- [The meta-analysis shows no publication bias (Begg-Mazumdar p = .196) and is resistant to it (fail-safe N = 463)](pbl-meta-analysis-no-publication-bias.md) — related

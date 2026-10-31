@@ -68,3 +68,4 @@ Subgroup findings from the same quasi-experiment: students with one year of BCIR
 - [BCIRC has potentially positive effects on English language development (effect size 0.29, not statistically significant)](bcirc-potentially-positive-english-language-development.md) — related
 - [BCIRC has potentially positive effects on reading achievement for Spanish-speaking English language learners (effect size 0.61, not statistically significant after clustering correction)](bcirc-potentially-positive-reading-achievement.md) — related
 - [A larger percentage of BCIRC students met the bilingual education exit criterion in language (39% versus 21%), not statistically significant](bcirc-higher-language-exit-criterion-rate-not-significant.md) — related
+- [Cooperative learning is more effective in classes of 1-30 students than in classes of more than 30 students](cooperative-learning-small-class-size-more-effective.md) — related

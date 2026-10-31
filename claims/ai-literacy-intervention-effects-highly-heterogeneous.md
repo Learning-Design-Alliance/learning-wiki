@@ -58,3 +58,4 @@ Heterogeneity assessment within the same three-level meta-analysis. All variance
 - [Effect sizes across studies show substantial heterogeneity, with wide prediction intervals spanning large negative to large positive true effects](heterogeneity-math-interventions-co-occurring.md) — related
 - [Effect sizes for gender differences in L2 achievement are highly heterogeneous across studies (I² = 89.82%)](high-heterogeneity-l2-gender-effect-sizes.md) — related
 - [Quality of technology integration varies substantially across lessons, with most variance unexplained by teacher traits or time course](tech-integration-quality-varies-across-lessons.md) — related
+- [Effects of the 5E model on science outcomes are highly heterogeneous, with a 95% prediction interval spanning −0.38 to 1.92](5e-science-effect-heterogeneity.md) — a narrower finding that bears on this claim

@@ -53,6 +53,7 @@ Because many learners do not spontaneously explain, visualize, or enact learning
 
 - [Rice Tables And Sandboxes Science Through Inquiry](rice_tables_and_sandboxes-science_through_inquiry.md)
 - [Provide explicit process prompting (including picture-to-text transcription guidance) when visual storytelling precedes writing](explicit-prompting-for-visual-storytelling.md)
+- [Embed discussion and high-quality explanations within explicit, step-by-step mathematics instruction](embed-discussion-within-explicit-math-instruction.md)
 
 ## Examples
 -

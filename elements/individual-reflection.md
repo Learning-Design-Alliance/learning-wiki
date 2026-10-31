@@ -84,6 +84,7 @@ Reflection works because it forces self-explanation: articulating one's reasonin
 
 **[Portfolio assessment](https://www.aacu.org/initiatives/value)** — Capstone e-portfolios require reflective annotations connecting artifacts to learning outcomes, combining reflection with [Self-Assessment](self-assessment.md).
 - [Provide opportunities for independent practice with repeated cycles of use and structured reflection to strengthen regulatory skills over time](../strategies/independent-practice-cycles-for-ai-regulation.md)
+- [Include self and collaborative reflection in future PBL research and practice to evaluate students’ own learning and progress](../strategies/pbl-self-collaborative-reflection-emphasis.md)
 
 ## Key Sources
 - Schön, D. A. (1983). *The Reflective Practitioner: How Professionals Think in Action*. Basic Books.

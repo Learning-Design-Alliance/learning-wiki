@@ -51,3 +51,4 @@ Quasi-experiment with 21 low-SRL students per condition in the MOODLE statistics
 - [Low-SRL students receiving GenAI feedback showed significantly higher post-intervention overall SRLs scores than tutor-feedback peers](genai-feedback-improves-low-srl-composite.md) — a broader claim this one bears on
 - [Time Management showed a marginally significant post-intervention difference favouring GenAI feedback, while Goal Setting, Help Seeking and Self-Evaluation showed no significant differences](genai-feedback-tm-marginal-other-srl-null.md) — reports the opposite
 - [No significant feedback-source differences were observed among high-SRL cluster students](no-genai-tutor-difference-high-srl-cluster.md) — related
+- [Feedback produces a moderate, statistically significant positive overall effect on academic achievement (Hedges' g = .40)](feedback-moderate-positive-overall-effect-achievement.md) — related

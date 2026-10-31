@@ -66,3 +66,4 @@ Descriptive program-characteristic averages across the review's studies; the aut
 ## Related Claims
 - [Program and delivery characteristics moderate SEL effects: implementation quality, duration, skill practice, and delivery agent](sel-effects-moderators-implementation-delivery.md) — related
 - [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](sel-programs-improve-behavior-and-achievement.md) — related
+- [Descriptively, newer studies and studies with primary-secondary and high school samples show larger effect size averages, though moderator tests are nonsignificant](flipped-learning-year-level-descriptive-trends.md) — related

@@ -61,6 +61,7 @@ Feedback is among the most powerful influences on achievement, but its effects a
 - [Identify which suggested actions are beneficial at what time to inform scaffold design, and deliver scaffolds at natural breakpoints preceded by a notification.](identify-beneficial-actions-and-timing-for-scaffolds.md)
 - [Peer-delivered prompts in which students take over prompting, feedback, and assessment from an instructor](peer-to-peer-prompting-handover.md)
 - [Metacognitive feedback with delay penalties proportional to value-of-computation differences](delay-penalty-metacognitive-feedback.md)
+- [Prioritize teacher-provided, content-specific feedback in K-12 settings, and build students' capacity to give peer feedback](prioritize-teacher-content-specific-feedback-k12.md)
 
 ## Examples
 - A tutor acknowledges a tutee's successes, names the single most important error, and assigns follow-up problems that give immediate feedback on whether the correction stuck.

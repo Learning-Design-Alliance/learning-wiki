@@ -52,3 +52,4 @@ Qualitative content analysis (Table 5) of answers to why pre-service teachers ch
 - [Seniors outperformed juniors in determining taxonomy and method-technique, but not in self-efficacy or strategy determination](seniors-better-taxonomy-method-technique.md) — related
 - [Pre-service teachers struggle with instructional design and lesson planning despite existing standards and coursework](pre-service-teachers-struggle-lesson-design.md) — related
 - [Teacher efficacy underpins the ability to differentiate instruction effectively, with efficacy dependent on pedagogical content knowledge](teacher-efficacy-pck-underpin-differentiation.md) — related
+- [A meta-analysis of literature and policy sources yields climate resilience education ideas groupable into content, methods, goals and actions aligned with learning objectives](meta-analysis-groups-climate-resilience-education-into-content-methods-goals-actions.md) — related

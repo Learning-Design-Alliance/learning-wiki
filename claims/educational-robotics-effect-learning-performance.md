@@ -51,3 +51,4 @@ Multilevel meta-analysis of the learning-performance outcome (academic achieveme
 - [Educational robotics shows no significant effect on students' computational thinking in STEM education](educational-robotics-no-significant-ct-effect.md) — related
 - [Discipline significantly moderates the effects of educational robotics on STEM learning, with larger effects in technology and cross-disciplinary contexts than in science and mathematics](discipline-moderates-robotics-stem-effects.md) — related
 - [Educational level, instructor support, instructional strategy, interactive type, intervention duration, robotic type, and control group condition were not significant moderators of robotics effects](non-significant-moderators-robotics-stem.md) — related
+- [Evidence-based learning, blended learning and computer-based learning combined with STEM showed large significant effects on learning achievement](seitla-evidence-blended-computer-large-effects.md) — related

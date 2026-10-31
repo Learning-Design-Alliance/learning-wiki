@@ -42,6 +42,7 @@ In designing a Student-Teacher-Scientist Partnership focused on climate change, 
 - [Braid local community goals, needs, and expertise into school-based citizen science as a third constituency](three-way-engagement-scientists-schools-communities.md)
 - [Engage teachers, families, and designers in participatory, iterative co-design of CT learning activities rather than adopting packaged solutions](participatory-iterative-co-design-ct.md)
 - [Five recommendations for scientists venturing into science communication with teachers](five-recommendations-scientists-scicomm.md)
+- [Use effective climate change education themes: deliberative discussions, interacting with scientists, addressing misconceptions, and school and community projects](effective-climate-change-education-themes.md)
 
 ## Examples
 -

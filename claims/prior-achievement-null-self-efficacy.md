@@ -59,3 +59,4 @@ Two-way ANOVA on self-efficacy (PTFC n=36, CFC n=34): prior achievement level "w
 - [Student attributes showed no main effects on outcomes except interest in science in graphing, and did not interact with sequence](attributes-no-interaction-with-sequence.md) — related
 - [Prior achievement level affects calculus conceptual understanding, and PTFC outperforms CFC across achievement levels, with no interaction](prior-achievement-affects-conceptual-understanding.md) — related
 - [Radical changes from the flipped model, new software, and a research-and-production lesson sequence constitute a major challenge for students accustomed to traditional methods](flipped-radical-change-challenges-traditional-learners.md) — related
+- [Effect sizes for the flipped classroom are higher in humanities studies than in STEM, but the difference should not be given too much weight](discipline-moderates-flipped-classroom-effect.md) — related

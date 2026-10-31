@@ -18,7 +18,7 @@ sources:
 # Handouts/Online Guides/Visual Reading Aids
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (9 for, 7 mixed, 2 against) · 33 studies (12 causal, 10 quant-synthesis, 7 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 9 of 33 report an effect size · 9 claims rest on one study
+> **Evidence** · 21 claims (9 for, 10 mixed, 2 against) · 34 studies (12 causal, 10 quant-synthesis, 7 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 10 of 34 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 
@@ -137,6 +137,9 @@ Comprehension with the aid, comprehension of a new text without it, delayed rete
 ## Claims
 
 - [Visual support reduces global sentence reading times and regressions in adult readers](../claims/visual-support-reduces-global-sentence-reading-times.md) [~W]
+- [Guided notes benefit achievement more relative to student-generated notes than relative to professor-provided full lecture notes](../claims/guided-notes-vs-note-type-moderator.md) [~W]
+- [Increased student engagement is proposed as the mechanism for guided notes' achievement effect, but remains untested](../claims/guided-notes-engagement-mechanism-untested.md) [~W]
+- [Guided-notes effects do not differ significantly by research design, assessment type, or study source](../claims/guided-notes-null-moderators-design-assessment.md) [~W]
 
 ## Related Principles
 - [Clear Structure & Presentation](clear-structure.md) — reading aids are one way to make instructional structure visible.

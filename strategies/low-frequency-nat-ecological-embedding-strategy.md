@@ -55,6 +55,7 @@ The article recommends embedding EF training within ecologically valid academic 
 - [Assess executive functions in group-based naturalistic school settings rather than individualized lab-like sessions](group-based-ef-assessment-in-naturalistic-school-settings.md)
 - [Study effort regulation in real-world, personally relevant contexts over longer timeframes, including via ecological momentary assessment](study-effort-regulation-real-world-contexts.md)
 - [Embed word learning meaningfully into situated VR tasks with social guidance and repeated exposure](embed-words-in-situated-vr-tasks.md)
+- [Design comprehensive AAC intervention protocols that extend beyond requesting to maintenance, generalization, and naturalistic contexts](aac-protocols-beyond-requesting-maintenance-generalization.md)
 
 ## Examples
 -

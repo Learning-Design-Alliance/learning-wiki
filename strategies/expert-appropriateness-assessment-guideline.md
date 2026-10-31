@@ -40,6 +40,7 @@ The article recommends treating expert evaluation of a newly designed learning m
 ## Related Strategies
 
 - [Involve domain experts throughout the AI safety evaluation pipeline, especially for defining unsafe content](domain-experts-throughout-child-safety-evaluation.md)
+- [Adopt student-centered innovative learning models and build teacher capacity to implement them in mathematics and statistics](adopt-innovative-models-pd-math-statistics.md)
 
 ## Examples
 -

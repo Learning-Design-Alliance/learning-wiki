@@ -59,9 +59,11 @@ Worksheets enact [Practice](../elements/practice.md) at scale, and their effecti
 6. Re-distribute the same skill in short sets over subsequent days and weeks [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ## Related Strategies
+
 - [Spaced Practice](../principles/spaced-learning.md) — the scheduling principle that determines whether worksheet practice sticks
 - [Interleaved Practice](interleaved-practice.md) — mixing problem types so learners practice strategy selection, not just execution
 - [Retrieval Practice](retrieval-practice-activities.md) — worksheets as low-stakes retrieval opportunities rather than graded drill
+- [Develop worksheets adapted to the form of learning, student characteristics, and students' environment to improve problem-solving](develop-worksheets-adapted-to-learners-and-learning-form.md)
 
 ## Examples
 - **[Math-Drills](https://www.math-drills.com)** — thousands of free printable worksheets by topic; best used in short, spaced doses rather than massed packets.

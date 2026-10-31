@@ -57,3 +57,4 @@ The article's prose prints 0.165 for both F and p; its Table 6 gives F = 1.977, 
 - [Assimilator learners gained significantly more in the VR (guided exploration) mode than in VR (non-guided exploration) or Non VR modes](assimilators-gain-most-vr-guided-exploration.md) — related
 - [No significant interaction between learning mode and learning style on gain scores, while the learning-mode main effect was significant](no-mode-by-style-interaction-vr-gains.md) — related
 - [VR (non-guided exploration) did not differ significantly from Non VR for either assimilator or accommodator learners](non-guided-vr-no-better-than-non-vr.md) — related
+- [The included studies did not test the learning-style-by-instructional-method interaction, so the achievement gains cannot be attributed to matching instruction to styles](learning-styles-studies-lack-style-method-interaction-test.md) — a broader claim this one bears on

@@ -49,3 +49,5 @@ Moderator analysis grouping the 23 meta-analyses by research location. The betwe
 - [Cooperative learning models have a moderate average effect on student learning outcomes across 23 first-order meta-analyses](cooperative-learning-moderate-overall-effect-second-order.md) — a broader claim this one bears on
 - [Students rated peers' work from their own country 3.6% higher than work from elsewhere](in-group-favoritism-peer-grading-country.md) — related
 - Meta-analysis offers additional strengths of increased statistical power, moderator analyses, and model testing — a broader claim this one bears on
+- [The effect of constructivist learning models on student outcomes varies significantly by location, with Turkey (ES=.87) and Indonesia (ES=1.07) showing high-level effects and China (ES=.58) and mixed-country samples (ES=.67) medium-level effects](clm-effect-varies-by-location.md) — related
+- [Constructivist learning models have a medium-level overall effect (ES=.78) on K-12 student outcomes across 19 meta-analyses](clm-medium-overall-effect-second-order-meta-analysis.md) — related

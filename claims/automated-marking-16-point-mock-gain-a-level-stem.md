@@ -55,3 +55,4 @@ ANCOVA on post-test mock scores in a 16-week quasi-experiment with intact classe
 - [STEM students using real-time AI feedback achieved nearly double the mean gain score of students receiving conventional human-led instruction](ai-feedback-nearly-doubles-technical-skill-gain-kwara.md) — related
 - [Post-test mean learning outcomes were 81.81 in the ChatGPT class versus 70.45 in the conventional class](chatgpt-experimental-mean-81-81-vs-control-70-45.md) — related
 - [AI-generated (GPT-4) feedback produced no greater linguistic progress than human tutor feedback among ENL students over six weeks](gpt4-feedback-no-superior-linguistic-progress-enl.md) — related
+- [Studies report experiment classes using JAS achieve higher average study results than control classes](jas-experiment-class-higher-than-control.md) — related

@@ -42,6 +42,7 @@ The article recommends examining naturally occurring variation in theoretically 
 
 - [Use FOXGLOVE as a testbed for studying feedback uptake, variation, and downstream revision outcomes rather than rated quality alone](foxglove-future-use-strategy.md)
 - [Combine standardized tests and naturalistic classroom observations (mixed methods) when assessing oral communicative competence](mixed-methods-assessment-oral-communicative-competence.md)
+- [Design comprehensive AAC intervention protocols that extend beyond requesting to maintenance, generalization, and naturalistic contexts](aac-protocols-beyond-requesting-maintenance-generalization.md)
 
 ## Examples
 -

@@ -68,3 +68,4 @@ Random-effects meta-analysis of the included comparison studies for higher-order
 - [GAI-assisted DST creation produced significantly better team creativity performance than traditional methods, particularly in novelty and user experience](gai-assisted-dst-improves-team-creativity.md) — a narrower finding that bears on this claim
 - [Dialogic learning produces a more positive effect on value-loaded critical-thinking competences than non-dialogic learning in pre-vocational secondary Biology](dialogic-learning-improves-value-loaded-critical-thinking.md) — a narrower finding that bears on this claim
 - [Students rate GenAI's creativity enhancement in programming significantly above neutral](genai-creativity-enhancement-perceptions.md) — a narrower finding that bears on this claim
+- [PBL effect sizes on science achievement do not differ significantly across instructional variations of PBL](pbl-effect-similar-across-instructional-variations.md) — related

@@ -35,7 +35,7 @@ sources:
 # Explicit Instruction: Vocabulary
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 32 claims (25 for, 6 mixed, 1 against) · 38 studies (13 causal, 11 quant-synthesis, 10 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 6 of 38 report an effect size · 22 claims rest on one study
+> **Evidence** · 34 claims (25 for, 7 mixed, 2 against) · 40 studies (13 causal, 11 quant-synthesis, 10 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 6 of 40 report an effect size · 24 claims rest on one study
 
 ## Conditional relationship
 
@@ -166,6 +166,8 @@ Recognising a word, recalling its meaning, comprehending a text that uses it, us
 - [Only L1-gloss-L2-ex and L1-in-text-gloss conditions significantly outperform the no-gloss control on all three vocabulary recall tests](../claims/gloss-l2-ex-and-in-text-gloss-beat-control-scheffe.md) [+W]
 - [Words encountered in diverse contexts are identified faster, with a mean 26-ms advantage](../claims/diverse-contexts-speed-word-identification.md) [+W]
 - [Vocabulary instruction effects on taught words do not generalize to untaught words; wide reading is the most reliable gateway](../claims/vocabulary-instruction-no-generalization.md) [~W]
+- [Integrated instruction did not significantly improve standardized vocabulary outcomes](../claims/integrated-instruction-standardized-vocabulary-null.md) [-W]
+- [Number of vocabulary words taught alone does not significantly predict effect sizes in meta-regression](../claims/number-words-taught-non-significant-meta-regression.md) [~W]
 
 ## Related Principles
 - [Accessible Vocabulary & Syntax](accessible-vocabulary-syntax.md) — explicit vocabulary instruction is a direct mechanism for making language more usable

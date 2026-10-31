@@ -82,3 +82,11 @@ Publication-bias assessment of the 15 included studies using a funnel plot and E
 - No evidence of publication bias was detected in the pooled L2 gender-difference literature — related
 - Formal tests find no substantial evidence of publication bias or small-study effects in the meta-analysis — related
 - [No evidence of publication bias was found for the overall effect of gamification on intrinsic motivation](gamification-meta-analysis-no-publication-bias.md) — related
+- [Publication bias does not threaten the pooled effect estimates](integrated-instruction-publication-bias-robust.md) — related
+- [Diagnostic analyses show the pooled effect sizes for achievement, attitude and retention are robust and not attributable to publication bias](learning-styles-meta-analysis-no-publication-bias.md) — related
+- [Publication-bias analyses indicate a low, negligible risk of publication bias in the synthesized effect sizes](low-publication-bias-formative-assessment-meta-analysis.md) — related
+- [Publication bias due to small study effects was limited, and sensitivity analyses supported Winsorizing an outlying effect size](manipulatives-meta-publication-bias-limited.md) — related
+- [Publication-bias checks give mixed results: Egger's test indicates funnel-plot asymmetry while Trim and Fill and Fail-Safe N indicate no bias](mixed-publication-bias-evidence-meta-analysis.md) — related
+- [Funnel-plot analyses showed no significant asymmetry, and the overall effect remained significant after removing outliers](no-significant-funnel-plot-asymmetry.md) — related
+- [The meta-analysis shows no publication bias (Begg-Mazumdar p = .196) and is resistant to it (fail-safe N = 463)](pbl-meta-analysis-no-publication-bias.md) — related
+- [Publication bias tests give mixed evidence: Egger's test indicates bias, but fail-safe N calculations lead the authors to conclude no publication bias](publication-bias-mixed-egger-failsafe.md) — related

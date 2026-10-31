@@ -46,6 +46,8 @@ The review's forward-looking recommendations urge researchers to move "beyond is
 - [Move beyond explorative expert-novice comparisons to hypothesis-driven designs investigating application of evidence-based pedagogical principles](hypothesis-driven-designs-beyond-expert-novice.md)
 - [Pursue new research avenues on motivation that serve both the field and practitioners](motivation-research-avenues-serving-field-and-practitioners.md)
 - [Define a shared empirical research agenda grounding K-12 AI education designs](k12-ai-education-research-agenda.md)
+- [Future research should examine drama's effects on attitudes, values, skills, and motivation in social studies, and include more doctoral-level studies](future-drama-social-studies-research-directions.md)
+- [Recommendations for STEM research and implementation practice](stem-meta-analysis-recommendations.md)
 
 ## Examples
 -

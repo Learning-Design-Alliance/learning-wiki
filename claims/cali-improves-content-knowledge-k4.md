@@ -68,3 +68,4 @@ Same RCT and HLM analysis; science post-unit scores on proximal measures signifi
 ## Related Claims
 - [CALI shows some evidence of improving oral and reading comprehension skills (d = .125) without opportunity cost to reading gains.](cali-comprehension-gains-no-opportunity-cost.md) — related
 - [Child Characteristic X Instruction (CXI) interactions in content learning were reduced through iterative design: leveled readers, explicit vocabulary instruction, and passage-comprehension-based flexible grouping eliminated significant CXI effects by the fourth iteration.](cali-cxi-interactions-reduced-through-design.md) — related
+- [Integrated literacy and content-area instruction significantly improves comprehension, including on standardized measures (g = 0.40 overall; g = 0.25 standardized)](integrated-instruction-comprehension-g-040.md) — related

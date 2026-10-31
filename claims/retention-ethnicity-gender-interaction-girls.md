@@ -68,3 +68,4 @@ Descriptive pattern of the significant three-way interaction reported in the Res
 - [The negative effect of retention on dropping out versus graduating is larger for Black students than White students](retention-dropout-effect-larger-black-students.md) — related
 - [Graduation rates by age 19 in Chicago varied substantially by race/ethnicity and gender, with African-American boys lowest (39 percent) and Asian girls highest (85 percent)](cps-graduation-race-gender-gaps.md) — related
 - [Early grade retention did not significantly affect the likelihood of earning a GED versus graduating from high school](retention-no-effect-ged-versus-graduation.md) — related
+- [Small-group learning effects vary by classroom gender and ethnic diversity, with effects smaller in female-dominated and predominately White classrooms](diversity-composition-moderates-small-group-effects.md) — related

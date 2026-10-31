@@ -74,3 +74,4 @@ The article attributes the prerequisite relationship to the Gregory, DeLeon, and
 - [PECS and speech-generating devices produced larger effects than other picture-based AAC systems, which nonetheless showed small effects](pecs-sgd-larger-than-other-picture-based-systems.md) — related
 - [AAC interventions showed positive effects on all targeted behavioral outcomes, with greater effects for communication skills than other skill categories](aac-positive-all-outcomes-communication-skills-greater.md) — related
 - [Aided AAC interventions had large effects on targeted behavioral outcomes in individuals with ASD, per a meta-analysis of 24 single-case studies](aided-aac-large-effects-asd-single-case-meta-analysis.md) — a broader claim this one bears on
+- [Type of communication mode shows only a marginal, non-robust moderation of AAC effects, with aided AAC descriptively outperforming manual signs/gestures](communication-mode-type-weak-moderation.md) — related

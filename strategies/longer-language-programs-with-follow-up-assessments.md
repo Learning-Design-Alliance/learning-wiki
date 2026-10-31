@@ -40,6 +40,7 @@ The review's forward-looking recommendation is that future programs must extend 
 ## Related Strategies
 
 - [Provide pedagogical interventions to enhance ethnolinguistic minority students' metacognitive knowledge and English vocabulary knowledge](pedagogical-interventions-minority-mck-vocabulary.md)
+- [Design comprehensive AAC intervention protocols that extend beyond requesting to maintenance, generalization, and naturalistic contexts](aac-protocols-beyond-requesting-maintenance-generalization.md)
 
 ## Examples
 -

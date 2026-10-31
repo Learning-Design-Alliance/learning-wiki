@@ -48,3 +48,4 @@ Case illustration (type c/d): after students devised classification schemes A, B
 - [A six-step C/I cycle administered in a sophomore engineering physics class and a graduate physics class guided a group to select a conveyor-belt power-calibration method via a co-constructed decision metric](ci-cycle-metric-guided-solution-quarry-problem.md) — related
 - Visible sound-wave displays led students to speak louder and notice sounds they would otherwise have missed — related
 - [Groups outperform individuals when devising creative solutions to real-world complex problems](groups-outperform-individuals-complex-problem-creativity.md) — a broader claim this one bears on
+- [A meta-analysis of literature and policy sources yields climate resilience education ideas groupable into content, methods, goals and actions aligned with learning objectives](meta-analysis-groups-climate-resilience-education-into-content-methods-goals-actions.md) — related

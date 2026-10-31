@@ -13,7 +13,7 @@ generated:
 # Cooperative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 34 claims (14 for, 20 mixed) · 33 studies (12 quant-synthesis, 11 causal, 5 review, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 12 of 33 report an effect size · 27 claims rest on one study
+> **Evidence** · 39 claims (16 for, 23 mixed) · 36 studies (12 quant-synthesis, 11 causal, 5 review, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 15 of 36 report an effect size · 32 claims rest on one study
 
 ## Conditional relationship
 
@@ -105,6 +105,11 @@ Immediate group performance, individual achievement at the end of a unit, delaye
 - [Students explain effective and ineffective cooperative learning mainly by instructional conditions: type of task, teacher, and group composition are the most frequently mentioned factors](../claims/instructional-conditions-explain-cl-quality.md) [~W]
 - [High-school students in cooperative learning appear on-task about 60% of the time, off-task 11%, and idle 13%](../claims/on-task-60-percent-cooperative-learning.md) [~W]
 - [Structuring means interdependence via Jigsaw in Minecraft increased learning outcomes and invested mental effort but not perceived cognitive load](../claims/jigsaw-interdependence-mental-effort.md) [+W]
+- [The achievement effect of cooperative learning differs significantly across student grade levels, largest at university level (d+ = 1.33)](../claims/cooperative-learning-achievement-grade-moderator.md) [~W]
+- [Cooperative learning produces a medium, positive, significant effect on mathematics achievement compared with traditional methods (d++ = 0.59)](../claims/cooperative-learning-medium-positive-effect-math-achievement.md) [+W]
+- [Achievement effects of cooperative learning are similar across experiment durations of 3–8, 9–14, and 15–20 weeks](../claims/cooperative-learning-achievement-duration-moderator.md) [+W]
+- [Estimated cooperative learning efficacy is higher in studies published in SINTA and GARUDA indexed journals (1.04) than in Google Scholar indexed articles or proceedings (0.73)](../claims/journal-index-moderator-cooperative-learning-effect.md) [~W]
+- [Self-selected and randomly formed small groups show larger achievement effects than ability-based grouping, and groups of three to five students outperform pairs](../claims/group-formation-and-size-moderate-small-group-effects.md) [~W]
 
 ## Related Principles
 

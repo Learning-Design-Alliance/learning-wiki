@@ -51,3 +51,4 @@ Review reports Tekmen and Daloglu (2006): intermediate, upper-intermediate and a
 - [Reading a single authentic novel yields incidental vocabulary gains, with more gains for words occurring more than five times](single-novel-reading-incidental-vocabulary-gains.md) — related
 - [Extensive reading of graded readers produced substantial vocabulary learning gains for EFL learners across proficiency levels](extensive-reading-produces-vocabulary-gains-efl.md) — related
 - [Prior vocabulary knowledge moderates vocabulary learning gains in an extensive reading program, with high-level learners gaining more than intermediate and low-level learners](prior-vocabulary-knowledge-moderates-extensive-reading-gains.md) — related
+- [L2 proficiency level is a significant moderator: multiple glosses benefit intermediate and advanced learners more than elementary learners](proficiency-level-moderates-gloss-effect.md) — related

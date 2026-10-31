@@ -59,9 +59,11 @@ Empathy walks operationalize perspective-taking, which reliably improves intergr
 6. **Follow through.** Have learners apply the insight to a concrete artifact — a redesign, a care plan, a lesson — so empathy converts to action.
 
 ## Related Strategies
+
 - [Perspective-Taking Prompts](perspective-taking-prompts.md) — the cognitive counterpart; empathy walks add embodiment to the same mechanism
 - [Role-Play and Simulation](acting-role-play.md) — broader family of embodied perspective exercises
 - [Community-Based Learning](../principles/community-based-learning.md) — sustained contact produces more durable attitude change than one-off simulation
+- [Combine disability simulation exercises with information, contact with persons with disabilities, and small-group debriefing](combine-disability-simulation-with-information-contact-debriefing.md)
 
 ## Examples
 - **Patient experience walks in health professions education** — nursing and medical programs have students navigate admission, waiting, and discharge as a patient would, then debrief communication and dignity gaps (see Kumagai's framework for narrative and experiential methods in medical education).

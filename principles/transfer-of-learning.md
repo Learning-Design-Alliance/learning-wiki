@@ -24,7 +24,7 @@ sources:
 # Transfer of Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 34 claims (22 for, 12 mixed) · 35 studies (15 causal, 8 review, 5 theoretical, 4 quant-synthesis, 2 qualitative, 1 associational), `q1`–`q4` · 6 of 35 report an effect size · 30 claims rest on one study
+> **Evidence** · 35 claims (22 for, 12 mixed, 1 against) · 36 studies (15 causal, 8 review, 5 theoretical, 4 quant-synthesis, 2 qualitative, 1 associational), `q1`–`q4` · 6 of 36 report an effect size · 31 claims rest on one study
 
 ## Conditional relationship
 
@@ -151,6 +151,7 @@ Recall of the taught items, near transfer, far transfer, delayed transfer and us
 - [Practice effects in visual reproduction are specific: they transfer to new conditions only in proportion to identical ability-conditioning factors.](../claims/practice-effects-specific-to-conditions.md) [~W]
 - [One-trial generalization of parsing rule structure exceeds sensorimotor mapping benefits: onset of skill B is approximately 19% larger in the PARSING RULE than the RANDOM group](../claims/parsing-generalization-exceeds-sensorimotor-mapping.md) [+W]
 - [Word items transfer to Story items but Story items show no significant transfer to Word items in LCM practice](../claims/word-to-story-asymmetric-transfer.md) [~W]
+- [Near-transfer to untaught text structures is non-significant with wide uncertainty (g = 0.62, CI crossing near zero)](../claims/tsi-near-transfer-untaught-structure-nonsignificant.md) [-W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md)

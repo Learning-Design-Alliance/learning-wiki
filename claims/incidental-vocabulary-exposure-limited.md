@@ -199,3 +199,4 @@ The guide reports, citing the Swanborn and de Glopper meta-analysis, that "the p
 - [Scaffolding storytelling yields better novel word learning than passive story-listening in first-grade children during in-person sessions](scaffolding-storytelling-better-word-learning-in-person.md) — related
 - [Desktop virtual-world learners needed about half the exposures of associative learners and showed exploratory navigation patterns that predict learning success](virtual-world-fewer-exposures-roaming-entropy.md) — related
 - [The number of new words learned during the evaluation month was roughly equivalent to a typical prior month](new-vocabulary-learning-equivalent-to-prior-month.md) — a narrower finding that bears on this claim
+- [Extensive reading produces a huge pre-post improvement in vocabulary learning (d = 3.26), to be interpreted cautiously without control groups](extensive-reading-huge-effect-prepost-contrasts.md) — related

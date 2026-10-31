@@ -13,7 +13,7 @@ generated:
 # Audience Analysis
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 29 claims (17 for, 12 mixed) · 37 studies (11 associational, 9 causal, 7 review, 5 theoretical, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 4 of 37 report an effect size · 24 claims rest on one study
+> **Evidence** · 30 claims (18 for, 12 mixed) · 38 studies (11 associational, 9 causal, 7 review, 5 theoretical, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 4 of 38 report an effect size · 25 claims rest on one study
 
 ## Description
 Audience analysis (often called learner analysis) is the systematic investigation of who the learners are — their prior knowledge, skills, motivations, language proficiency, demographics, and learning context — conducted before designing instruction. It functions as the evidence base for decisions about sequencing, vocabulary, examples, pacing, and support, replacing designer assumptions with data about the actual audience.
@@ -78,6 +78,7 @@ Audience analysis improves learning primarily by aligning instruction with learn
 - [A Spring 2020 pre-course survey of 48 RDS students found mostly masters-level technical majors, about half with little to no prior knowledge of legal studies or social science, and a majority holding that data science and AI should reflect ethical principles](../claims/rds-precourse-survey-background.md) [+W]
 - [Latent class analysis of pretest strategy-use identifies two subgroups of children, analogical and non-analogical reasoners, of roughly equal size](../claims/lca-two-strategy-classes-analogical-reasoners.md) [~W]
 - [Cluster analysis identified three exploratory response profiles among workshop participants — reluctant, intermediate, and enthusiastic — with the reluctant profile showing low technical familiarity alongside favorable perceptions of several pedagogical applications](../claims/three-response-profiles-reluctant-intermediate-enthusiastic.md) [+W]
+- [Prior studies report low understanding of climate change among students and pre-service or early-career teachers](../claims/low-student-climate-change-understanding-prior-studies.md) [+W]
 
 ## The evidence by question
 

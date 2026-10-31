@@ -48,6 +48,7 @@ The review synthesizes a design space outlining best practices and pitfalls for 
 ## Related Strategies
 
 - [Gamified Practice](gamified-practice.md)
+- [Integrate innovative instructional approaches (gamification, VR/AR, robotic coding, STEM) and out-of-school settings into PBL](integrate-innovative-approaches-into-pbl.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ Quasi-experiment with an experimental class using ChatGPT and a control class us
 - [ChatGPT-integrated instruction produced significantly higher post-test writing motivation scores than conventional instruction among EFL learners, with a medium effect size](chatgpt-instruction-enhanced-efl-writing-motivation.md) — related
 - [Student interpreters who practiced with an automated scoring system outperformed the control group on total interpreting scores at post-test](automated-scoring-improves-interpreting-total-scores.md) — related
 - Post-test mean differences favored the ChatGPT group on knowing, applying, and reasoning subscales and overall at α=0.05 — related
+- [Studies report experiment classes using JAS achieve higher average study results than control classes](jas-experiment-class-higher-than-control.md) — related

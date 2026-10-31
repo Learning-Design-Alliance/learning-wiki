@@ -50,3 +50,4 @@ The dissertation reports, citing Aust, Kelley and Roby (1993), a study of 80 fif
 - [Learners resolve grammar-related noticing with intuition, reasoning, rephrasing and explicit rules rather than external resources](grammar-lres-solved-with-own-resources-not-external.md) — related
 - [Learners use apps mostly for vocabulary development, translation, and grammar practice, often informally and in short sessions](learners-use-apps-vocabulary-translation-grammar-informally.md) — related
 - [In one 30-student study of high-school English learners (Lu 2008, reported in a review), vocabulary learned by mobile phone showed greater gains than vocabulary learned from print](sms-vocabulary-learning-beats-paper-materials.md) — related
+- [Comprehension questions are the most effective extensive reading treatment for vocabulary learning, followed by dictionary usage and vocabulary exercise](comprehension-questions-most-effective-er-treatment.md) — related

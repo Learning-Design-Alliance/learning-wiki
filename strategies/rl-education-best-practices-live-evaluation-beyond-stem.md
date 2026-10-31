@@ -45,6 +45,7 @@ Drawing on the systematic review, the authors distill best practices for impleme
 ## Related Strategies
 
 - [Future improvements: real-world user studies, advanced student modeling, and spaced repetition](future-work-user-studies-student-modeling-spaced-repetition.md)
+- [Recommendations for STEM research and implementation practice](stem-meta-analysis-recommendations.md)
 
 ## Examples
 -

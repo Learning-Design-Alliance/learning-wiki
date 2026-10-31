@@ -56,3 +56,4 @@ Random effects meta-analysis of 29 journal articles from Web of Science (2004–
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — a broader claim this one bears on
 - [Multiple kinds of scaffolds are more effective than a unique scaffold for academic performance](multiple-scaffolds-outperform-unique.md) — a narrower finding that bears on this claim
 - [Thesis Writer, a domain-specific online scaffolding environment for academic writing, was used and deemed supportive by first-year business administration students](thesis-writer-used-and-deemed-supportive-by-students.md) — a narrower finding that bears on this claim
+- [Evidence-based learning, blended learning and computer-based learning combined with STEM showed large significant effects on learning achievement](seitla-evidence-blended-computer-large-effects.md) — related

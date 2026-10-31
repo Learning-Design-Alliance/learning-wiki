@@ -60,3 +60,6 @@ Moderator analysis of treatment duration across six coded bands in the 29 studie
 - [mCSCL effects vary significantly by intervention duration, peaking at 1–4 weeks](mcscl-intervention-duration-moderator.md) — related
 - [SRL intervention effects are moderated by delivery agent, duration, domain, and student age, with inconsistent duration findings](srl-intervention-moderators-agent-domain-age.md) — related
 - [Intervention duration of 3–9 weeks yields the greatest AWE gains, with diminishing returns beyond 10 weeks](awe-duration-3-9-weeks-optimal.md) — related
+- [The effect of computer-based teaching on academic success does not differ significantly by implementation period, with the largest effect size in the nine-to-eighteen week period (ES = 1.87)](cbt-effect-no-difference-by-implementation-period.md) — related
+- [Program intensity is a significant moderator: high-duration gloss interventions yield larger effects (ES = 1.48) than low-duration ones (ES = 0.57)](program-intensity-moderates-gloss-effect.md) — reports the opposite
+- [RME effects are greater when treatment lasts 3-4 meetings and are reduced when treatment continues beyond four meetings](rme-effect-reduced-beyond-four-meetings.md) — related

@@ -78,3 +78,4 @@ Ngo et al. (2024) qualify this claim. The claim concerns practice frequency and 
 - [No association between amount of teacher training coursework and classroom effectiveness](no-association-coursework-amount-effectiveness.md) — related
 - [Interaction volume during AI-supported practice sessions did not differ significantly across conditions, supporting comparability of practice exposure](practice-exposure-comparable-across-conditions.md) — related
 - [Profy practice shows larger observed pronunciation-intelligibility improvement than elicited imitation, with non-overlapping pre/post confidence intervals](profy-intelligibility-gain-over-elicited-imitation.md) — related
+- [The Korean meta-analysis's overall effect (.80) differs from Flower et al.'s (2007) near-zero finding, attributed to age, combined formats, and longer duration](korean-results-differ-from-flower-2007-attributed-age-format-duration.md) — related

@@ -53,3 +53,4 @@ Cummins states these claims about the common underlying proficiency (CUP) "refle
 - [L1 and L2 academic proficiencies are developmentally interdependent, so instruction in either language can build underlying academic ability](l1-l2-academic-interdependence-transfer.md) — related
 - [Small-scale studies suggest age 15-16 with intermediate English proficiency (reading GE 5) is a good immigration age](arrival-age-15-16-ge5-good-immigration-age.md) — a narrower finding that bears on this claim
 - [Preservation of the mother tongue predicts second-language achievement among migrant children](mother-tongue-preservation-predicts-l2-achievement.md) — related
+- [African children are primarily schooled in English from Grade 4 onwards, and the language-in-education policy has failed to promote indigenous African languages](liep-failure-english-from-grade-4.md) — a narrower finding that bears on this claim

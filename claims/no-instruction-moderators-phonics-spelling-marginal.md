@@ -52,3 +52,5 @@ Instruction-characteristic moderator analyses (Table 6) across the 53 studies. T
 - [Too few studies exist to draw robust conclusions on moderating factors (age, gender, screen size, dosage, SAMR-based activities) or on whether benefits persist beyond the post-test](mobile-device-moderators-insufficient-evidence.md) — related
 - [Effects of technology-delivered literacy instruction did not significantly differ by outcome domain, though comprehension effects appeared particularly small (g = 0.12)](outcome-domain-effects-descriptive.md) — related
 - [No study or participant characteristic (publication type, research design, sample size, grade level, reading difficulties) significantly moderated effects of technology-delivered literacy instruction](no-study-participant-moderators.md) — related
+- [Variation in instructional dosage did not explain variation in writing instruction effect sizes](instructional-dosage-no-moderation-writing-instruction.md) — related
+- [Interventions providing more than 15 total hours significantly moderate mathematics outcomes for students with MD in grades 4–12](more-than-15-hours-moderates-math-outcomes.md) — related

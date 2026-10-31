@@ -65,6 +65,7 @@ Feedback improves learning when it answers "Where am I going, how am I doing, an
 - [Peer Feedback](../elements/peer-feedback.md) — students delivering location-specific comments to one another builds evaluative judgment
 - [Formative Assessment](formative-assessment-cycles.md) — the assessment-for-learning cycle that specific feedback serves
 - [Provide sentence evaluation criteria (clarity, intended audience) and model revision against them](sentence-evaluation-criteria-clarity-audience-revision.md)
+- [Prioritize teacher-provided, content-specific feedback in K-12 settings, and build students' capacity to give peer feedback](prioritize-teacher-content-specific-feedback-k12.md)
 
 ## Examples
 - **[Writing conferences](writing-conferences.md)** (Atwell's *In the Middle* workshop model): brief one-to-one conferences where the teacher names one specific strength and one specific next step, which the student applies immediately.

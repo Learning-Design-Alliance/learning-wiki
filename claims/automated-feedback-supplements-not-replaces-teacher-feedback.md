@@ -51,3 +51,4 @@ Key finding from the MI Write implementation study in grades 7 and 8 English lan
 - [Students view AI videos as appropriate for simple, visualizable, and supplemental learning contexts but inappropriate for complex, subjective, or interactive ones](students-contextualize-ai-video-appropriateness.md) — a broader claim this one bears on
 - [Regular and tailored support helped teachers integrate Ecree and MI Write into their teaching](regular-tailored-support-helped-teachers-integrate-tools.md) — related
 - [Teachers found Ecree and MI Write useful for their writing instruction and for helping students improve their writing](teachers-found-ecree-mi-write-useful-writing-instruction.md) — related
+- [CAI supplements instruction effectively but shows no benefit as a complete replacement for instruction](cai-supplement-effective-replacement-not.md) — a narrower finding that bears on this claim

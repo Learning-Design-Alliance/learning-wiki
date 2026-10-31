@@ -46,6 +46,7 @@ The article recommends that plugged pedagogical devices be designed for accessib
 
 - [Use a phased unplugged-to-plugged progression to build girls' CT confidence before introducing digital tools](phased-unplugged-to-plugged-progression.md)
 - [Universities combine responsible AI use guidelines, accessible technical support, AI literacy training, and assessment-embedded critical evaluation activities to address AI learning anxiety](institutional-support-package-for-ai-learning-anxiety.md)
+- [Design MALL tasks to be user friendly, socially and culturally sensitive, engaging, and short](mall-task-design-guidelines.md)
 
 ## Examples
 -

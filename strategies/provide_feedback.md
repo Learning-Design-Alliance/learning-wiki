@@ -63,6 +63,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Formative Assessment](../principles/assessment-for-learning.md) — the assessment cycle that generates feedback opportunities
 - [Peer Review](../elements/peer-review.md) — distributes feedback generation to learners
 - [Provide negative feedback on errors without knowledge engineering efforts by diagnosing errors via impasse-and-repair interpolation of the task model](negative-feedback-without-knowledge-engineering.md)
+- [Prioritize teacher-provided, content-specific feedback in K-12 settings, and build students' capacity to give peer feedback](prioritize-teacher-content-specific-feedback-k12.md)
 
 ## Examples
 - **ASSISTments** ([https://www.assistments.org](https://www.assistments.org)) — math homework platform delivering immediate, step-level feedback to students and error reports to teachers.

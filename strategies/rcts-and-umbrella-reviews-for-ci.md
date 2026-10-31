@@ -40,7 +40,8 @@ The authors propose a forward-looking research agenda for the CI field: rather t
 
 
 ## Related Strategies
-- 
+
+- [Prioritize larger randomized trials in pedagogical research and more representative evaluations across Africa](larger-rcts-pedagogical-research-recommendation.md)
 
 ## Examples
 -

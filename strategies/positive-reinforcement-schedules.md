@@ -66,6 +66,7 @@ Reinforcement reliably strengthens specific, observable behaviors when the reinf
 - [Gamification](gamification.md) — applies variable-ratio schedules through points, badges, and streaks; inherits both the persistence benefits and the compulsion risks
 - [Formative Feedback](formative-feedback.md) — the informational successor to reinforcement once behaviors are established
 - [Use a themed token-reward system (moon rocks) to motivate on-task behavior during tutoring](themed-token-rewards-moon-rocks.md)
+- [Use token reinforcement as a flexible differentiation strategy while applying standards-based practices and larger samples to strengthen generalizability](token-reinforcement-differentiation-with-standards.md)
 
 ## Examples
 - **[ClassDojo](https://www.classdojo.com)** — classroom points system delivering immediate contingent reinforcement for target behaviors, with parent-visible summaries.

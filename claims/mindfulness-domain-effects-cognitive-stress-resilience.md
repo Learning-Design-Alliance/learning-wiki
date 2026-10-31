@@ -58,3 +58,4 @@ Domain-specific synthesis in the review's quantitative analysis across five outc
 - [When only RCTs with active control groups are analysed, MBI benefits are restricted to Mindfulness (d = .42), Depression (d = .47) and Anxiety/Stress (d = .18)](active-control-rcts-benefits-restricted.md) — reports the opposite
 - [School mindfulness programs show high acceptability among students and teachers, but home practice adherence is low](mindfulness-schools-acceptability-high-home-practice-low.md) — related
 - [Some social-emotional and cognitive-behavioural initiatives showed no effect or a negative effect on educator wellbeing](some-initiatives-no-or-negative-effect.md) — related
+- [Science effects were smaller for broad general science measures than for physical science measures](outcome-construct-moderates-5e-science-effects.md) — related

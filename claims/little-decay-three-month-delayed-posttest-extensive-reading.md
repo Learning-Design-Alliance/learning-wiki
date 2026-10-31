@@ -59,3 +59,4 @@ Delayed posttest of Term 1 target words administered three months after the imme
 - [L2 proficiency positively predicts L2 incidental vocabulary acquisition through reading](l2-proficiency-predicts-incidental-vocabulary-acquisition.md) — related
 - [Vocabulary learning gains in Term 2 of the extensive reading program were consistent with those from Term 1](term2-gains-consistent-with-term1.md) — related
 - [Vocabulary knowledge gained from eight encounters persisted over two weeks, with no significant immediate-to-delayed test differences](vocabulary-gains-persist-two-weeks.md) — related
+- [One semester (less than three months) is the most appropriate length of extensive reading instruction for vocabulary learning, with effects declining for longer programs](one-semester-optimal-extensive-reading-length.md) — related

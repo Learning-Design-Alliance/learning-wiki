@@ -59,8 +59,10 @@ Contingent, specific praise for appropriate behavior is among the most consisten
 5. Fade continuous reinforcement to an intermittent schedule, then shift learners toward self-monitoring and self-reinforcement to build durable, intrinsically motivated behavior [Autonomy-supportive environments sustain intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+M].
 
 ## Related Strategies
+
 - [Check-In](../elements/check-in.md) — regular one-to-one contact creates the relationship context that makes individualized reinforcement credible
 - [Coaching](../elements/coaching.md) — coaches model and prompt the specific praise behaviors teachers then apply independently
+- [Use token reinforcement as a flexible differentiation strategy while applying standards-based practices and larger samples to strengthen generalizability](token-reinforcement-differentiation-with-standards.md)
 
 ## Examples
 - **PBIS (Positive Behavioral Interventions & Supports)** ([https://www.pbis.org](https://www.pbis.org)) — school-wide systems in which staff deliver behavior-specific praise and token reinforcement at high ratios, with data-based fading as behavior stabilizes.

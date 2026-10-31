@@ -49,3 +49,4 @@ The article's challenge analysis (type e) notes lower-income countries' students
 - [PISA-VET combines digitalized simulations with hands-on demonstrations to increase measurement validity and engagement](pisa-vet-simulations-demonstrations-validity.md) — reports the opposite
 - [Assessments like PISA-VET risk reinforcing inequalities in VET if underlying socioeconomic inequities are unaddressed](pisa-vet-equity-risk.md) — a broader claim this one bears on
 - [PISA-VET has stated limitations: limited occupational coverage, context sensitivity, simulation limits, and CBET generalizability concerns](pisa-vet-limitations.md) — related
+- [E-learning in VET affects theoretical learning and only computer-media practical learning, not conventional machine-tool practical learning](e-learning-limited-to-theory-and-digital-practical.md) — related

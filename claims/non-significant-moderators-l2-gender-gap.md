@@ -55,3 +55,4 @@ Omnibus moderator tests in the three-level mixed-effects models found no signifi
 - [Several candidate moderators show no reliable effects: retention interval, test type, presentation mode, and publication status](interleaving-null-moderators-retention-test-presentation.md) — related
 - [Age, gender, developmental status, SES, and sample region do not significantly moderate the inhibitory control–mathematical ability correlation](no-demographic-moderation-inhibitory-control-math.md) — related
 - [Population type significantly moderates the gender gap in L2 achievement, largest in secondary schools and smallest at university](population-type-moderates-l2-gender-gap.md) — related
+- [Samples with a majority of female students showed significantly smaller science effects than evenly distributed samples](majority-female-samples-smaller-5e-science-effects.md) — related

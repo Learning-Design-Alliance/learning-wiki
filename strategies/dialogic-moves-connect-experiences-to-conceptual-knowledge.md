@@ -45,7 +45,8 @@ This is the article's own implication for instructional work in life skills educ
 - [Teachers can guide students' conceptual understanding of life skills concepts by building on the everyday experiences students invoke in classroom conversations.](../claims/teachers-build-on-everyday-experiences-in-life-skills-conversations.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Design knowledge integration instruction around real-life connections, media and technology, Torrance-based measurement, and short repeated plans over more than four weeks](knowledge-integration-creative-thinking-design-strategy.md)
 
 ## Examples
 -

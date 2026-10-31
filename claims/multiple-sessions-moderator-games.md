@@ -72,3 +72,5 @@ Null moderator result from the same meta-regression models; media comparison gam
 - [Coaching dosage shows precisely estimated null effects: more coaching hours are not associated with larger program effects](coaching-dosage-null-effect.md) — related
 - [Digital game-based ICT was associated with significantly smaller effects on writing quality, but the finding rests on a single study](digital-games-smaller-writing-effects-single-study.md) — related
 - [Dosage significantly predicts intervention effects in a linear model (β = 0.03 per hour), but the dosage main effect is no longer significant after controlling for moderators](dosage-slope-nonsignificant-with-moderators.md) — related
+- [Publication year and instructional duration do not significantly predict variation in small-group learning effect sizes in metaregression](metaregression-year-duration-nonsignificant-predictors.md) — related
+- [Interventions providing more than 15 total hours significantly moderate mathematics outcomes for students with MD in grades 4–12](more-than-15-hours-moderates-math-outcomes.md) — related

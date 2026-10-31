@@ -50,3 +50,5 @@ Random-effects moderator analysis of intervention duration. Table 4 reports g = 
 - [Scaffold effects peak at 2–4 weeks of treatment and decrease dramatically for treatments lasting 9–24 weeks](treatment-duration-moderates-scaffold-effects.md) — related
 - [Interventions lasting one to two months show the largest effect, and effects do not increase consistently with longer duration](ai-effect-duration-one-to-two-months-peak.md) — related
 - [mCSCL outperforms individual learning and non-mobile collaborative learning, but shows no significant advantage over desktop CSCL](mcscl-vs-control-group-types.md) — related
+- [Effect size of creative drama on skills varies significantly with duration of experimental application, with longer applications showing larger effects](creative-drama-duration-moderator.md) — related
+- [The effect of drama on social studies achievement does not differ significantly by duration of application (1–4 vs 5–10 weeks)](drama-effect-no-duration-difference.md) — related

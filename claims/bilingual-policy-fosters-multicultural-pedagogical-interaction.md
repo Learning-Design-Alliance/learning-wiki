@@ -52,3 +52,4 @@ In the findings' language-and-bilingual-policy-in-practice section, the meta-ana
 - [BICS and CALP intersect developmentally but are not identical or reducible one to the other](bics-calp-intersect-not-identical.md) — a broader claim this one bears on
 - [Teacher repetition and translation as unplanned scaffolding can hinder rather than facilitate learning](repetition-translation-scaffolding-hinders-learning.md) — related
 - [In bilingual education, scaffolding denotes support that allows learners to engage with content in a language they only partially know](scaffolding-support-partially-known-language-bilingual-education.md) — related
+- [Teachers in South African multilingual classrooms use code-switching, offering English content but switching to the mother tongue for elaboration and discussion](teachers-code-switch-english-to-mother-tongue.md) — related

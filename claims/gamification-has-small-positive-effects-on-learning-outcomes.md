@@ -119,3 +119,5 @@ gamified vocabulary practice.
 - [Adding a real-time competition environment to a serious game improves learners' post-test scores](competition-improves-post-test-serious-game.md) — a narrower finding that bears on this claim
 - [Commitment to and behaviour towards learning is better after a gamified exergaming intervention than after traditional PE teaching](gamified-exergaming-better-commitment-behaviour-learning.md) — a narrower finding that bears on this claim
 - [Comparative evaluations against traditional teaching are rare, and the one digital-versus-paper comparison found no statistical difference](few-comparative-evaluations-heritage-games.md) — related
+- [Aggregated effect sizes differ by outcome type: behavior highest (g = 2.38), performance large (g = 0.91), motivation small and negative (g = -0.39), none statistically significant](token-reinforcement-outcome-type-effect-sizes.md) — related
+- [Vocabulary development interventions have a large average positive effect on cognitive vocabulary outcomes (g = 1.179) compared with traditional teaching methods](vocabulary-interventions-large-average-effect-g-1179.md) — related

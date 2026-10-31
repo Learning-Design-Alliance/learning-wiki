@@ -57,8 +57,10 @@ Explicit letter–sound instruction outperforms incidental or whole-word approac
 5. Assess recognition, sound production, and speed; use results to regroup and adjust pacing ([Assessment](../elements/assessment.md))
 
 ## Related Strategies
+
 - [Act It Out](act_it_out.md) — multisensory enactment that can extend sound articulation into whole-body engagement for young learners
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — connecting new letters to familiar words and children's own names anchors new graphemes in known vocabulary
+- [Use flashcards and letter-sound correspondence teaching to support early word reading](flashcards-letter-sound-correspondence-strategy.md)
 
 ## Examples
 - **[Jolly Phonics](https://www.jollylearning.co.uk)** — systematic letter–sound program teaching 42 sounds with actions, songs, and writing routines; widely used in UK and international early-years classrooms.

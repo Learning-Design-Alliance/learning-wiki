@@ -56,3 +56,4 @@ Synthesis of the 13 correlational meta-analyses in the MetaX database (559 studi
 - [Science achievements correlated significantly and positively with preferences for visual, auditory, and agency-support means, but not sensorimotor means, with low coefficients](achievement-correlates-visual-auditory-agency-preferences.md) — related
 - [Type of achievement measure moderates the correlation only when laboratory measures are excluded; course-exam correlation drops to r = .04](achievement-measure-moderator-lab-exclusion.md) — related
 - [Strong unmet learning-style preferences produce stronger negative effects on performance than moderate or weak unmet preferences](strong-preferences-stronger-mismatch-effects.md) — related
+- [The effect of learning-styles-tailored instruction on academic achievement does not differ significantly by learning style model](achievement-effect-independent-of-learning-style-model.md) — related

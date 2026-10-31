@@ -32,7 +32,7 @@ sources:
 # Problem-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 51 claims (17 for, 31 mixed, 3 against) · 47 studies (9 causal, 9 quant-synthesis, 9 review, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 8 of 47 report an effect size · 46 claims rest on one study
+> **Evidence** · 58 claims (17 for, 36 mixed, 5 against) · 50 studies (9 causal, 9 quant-synthesis, 9 review, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 9 of 50 report an effect size · 53 claims rest on one study
 
 ## Conditional relationship
 
@@ -149,6 +149,13 @@ At the curriculum level, the expectation of a small and variable average should 
 - [Student-centered, problem-driven learning has a small, positive, heterogeneous effect on students' motivation compared to teacher-centered instruction (d = 0.498)](../claims/problem-driven-learning-small-positive-effect-motivation.md) [~W]
 - [Scaffolding effects in PBL are higher in Engineering, Technology, and Mathematics than in Science, and relatively low in integrated STEM education](../claims/discipline-moderator-scaffolding-effects-bma.md) [~W]
 - [Metacognitive and strategic scaffolding show larger effects in PBL-STEM than conceptual scaffolding](../claims/scaffolding-intervention-type-moderator-bma.md) [~W]
+- [Scientific discipline does not significantly moderate PBL’s effect on secondary science achievement](../claims/pbl-discipline-moderator-no-significant-difference.md) [~W]
+- [Effect sizes of PBL on science achievement differ significantly by publication type, with conference proceedings showing a negative effect](../claims/pbl-effect-differs-by-publication-type.md) [~W]
+- [PBL effect sizes on science achievement do not differ significantly across educational levels](../claims/pbl-effect-similar-across-educational-levels.md) [~W]
+- [Grade level (JHS vs SHS) does not significantly moderate PBL’s effect on science achievement, though the SHS effect size is descriptively larger](../claims/pbl-grade-level-moderator-no-significant-difference.md) [~W]
+- [The meta-analysis shows signs of publication bias, with smaller studies tending to give more positive results than larger studies](../claims/publication-bias-gloss-meta-analysis.md) [-W]
+- [PBL effect sizes on science achievement do not differ significantly between studies conducted in Turkey and abroad](../claims/pbl-effect-similar-national-vs-international.md) [~W]
+- [PBL has a large and positive effect (ES = .871) on secondary students’ achievement in science compared with conventional teaching](../claims/pbl-large-positive-effect-secondary-science-achievement.md) [-W]
 
 ## Related Principles
 - [Inquiry-based Learning](inquiry-based-learning.md) — PBL is one inquiry form centered on authentic problems.

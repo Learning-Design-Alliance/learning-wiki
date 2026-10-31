@@ -47,3 +47,4 @@ Random-effects meta-analysis of 65 independent experimental and quasi-experiment
 ## Related Claims
 - [General interest (d = 0.22) and career interest (d = 0.40) show significant positive effects; other attitude subscales do not](attitude-subscale-effects-general-career-interest.md) — a narrower finding that bears on this claim
 - [No significant differences in attitude effects between the five types of innovative teaching approach](no-approach-differences-attitude-effects.md) — a narrower finding that bears on this claim
+- [The constructivist approach produces more positive attitudes towards lessons than traditional teaching, with an overall effect size of 0.728 across 43 Turkish studies](constructivist-approach-positive-attitudes-meta-analysis.md) — related

@@ -51,3 +51,4 @@ Preclass/postclass 20-question test analysis within individual N100 classes usin
 - [Students rated class discussions of Warm Up responses as very useful (87%, n = 485)](students-rate-warmup-discussions-useful.md)
 - [Cooperative learning exercises were rated highly useful by >94% of students and were associated with roughly doubled class attendance](cooperative-learning-usefulness-attendance.md)
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — a broader claim this one bears on
+- [Cooperative learning is more effective in classes of 1-30 students than in classes of more than 30 students](cooperative-learning-small-class-size-more-effective.md) — related

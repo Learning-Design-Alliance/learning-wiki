@@ -46,3 +46,9 @@ Publication bias analyses (funnel plot, Egger's regression, trim-and-fill) withi
 
 ## Related Claims
 - [The pooled effect of writing instruction for US ELL students is robust to sensitivity analyses but funnel plot asymmetry suggests possible missing positive effect sizes](sensitivity-and-bias-checks-ell-writing-meta.md) — related
+- [Funnel plot asymmetry indicates publication bias, lowering the bias-adjusted effect size to 0.642](constructivism-attitudes-publication-bias-funnel-plot.md) — reports the opposite
+- [The included studies show signs of publication bias, with an asymmetric and dispersed funnel plot](er-meta-analysis-publication-bias-funnel-plot.md) — related
+- [Publication-bias analyses indicate a low, negligible risk of publication bias in the synthesized effect sizes](low-publication-bias-formative-assessment-meta-analysis.md) — related
+- [Publication bias due to small study effects was limited, and sensitivity analyses supported Winsorizing an outlying effect size](manipulatives-meta-publication-bias-limited.md) — related
+- [Publication-bias checks give mixed results: Egger's test indicates funnel-plot asymmetry while Trim and Fill and Fail-Safe N indicate no bias](mixed-publication-bias-evidence-meta-analysis.md) — related
+- [Funnel plot asymmetry indicates high publication bias before propensity score matching and low publication bias after matching](psm-reduces-publication-bias-funnel-plot.md) — related

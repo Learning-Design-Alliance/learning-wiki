@@ -67,6 +67,7 @@ Phonemic awareness is a causal contributor to reading acquisition, and explicit 
 - [Repeated Reading](repeated-reading.md) — the fluency-building stage that follows successful decoding
 - [Vocabulary Instruction in Small Groups](vocabulary-instruction-small-groups.md) — shares the same grouping, pacing, and feedback structure
 - [Assess all students and form small groups with similar abilities so phonological awareness instruction can be provided at the appropriate level](assess-and-group-for-phonological-awareness.md)
+- [Use computer-delivered practice to free teacher time for explicit instruction and enable smaller instructional groupings](computer-delivered-practice-frees-teacher-explicit-instruction.md)
 
 ## Examples
 - **[Ladders to Literacy](https://brookespublishing.com)** (O'Connor, Notari-Syverson, & Vadasy) — a published small-group phonological awareness curriculum with scripted activities for kindergarten and preschool.

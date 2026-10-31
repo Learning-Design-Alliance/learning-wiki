@@ -67,3 +67,5 @@ The guide's evidence summary for Recommendation 2 reports "Five randomized contr
 - [ELLs attempted academic terminology from prior lessons, with experience mediating their connection to the concept of vibration](experience-mediate-connection-academic-language-vibration.md) — a narrower finding that bears on this claim
 - [Language development functions as a consequence of, not a prerequisite for, deep conceptual exploration in secondary mathematics for English Learners](language-consequence-not-prerequisite-math-el.md) — related
 - [Learning from fiction is a research area with both recommendations and areas of caution for education](learning-from-fiction-recommendations-and-cautions.md) — related
+- [Integrated literacy and content-area instruction significantly improves comprehension, including on standardized measures (g = 0.40 overall; g = 0.25 standardized)](integrated-instruction-comprehension-g-040.md) — related
+- [Integrated literacy and content-area instruction significantly improves vocabulary in the elementary years (g = 0.91)](integrated-instruction-vocabulary-g-091.md) — related

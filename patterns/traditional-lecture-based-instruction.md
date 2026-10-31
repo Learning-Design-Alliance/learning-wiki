@@ -21,7 +21,7 @@ sources:
 # Traditional Lecture-Based Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 30 claims (3 for, 18 mixed, 9 against) · 39 studies (10 causal, 10 review, 7 theoretical, 5 qualitative, 4 quant-synthesis, 2 associational, 1 design), `q1`–`q4` · 5 of 39 report an effect size · 23 claims rest on one study
+> **Evidence** · 31 claims (3 for, 19 mixed, 9 against) · 41 studies (10 causal, 10 review, 7 theoretical, 5 qualitative, 4 quant-synthesis, 2 associational, 1 design), `q1`–`q4` · 6 of 41 report an effect size · 23 claims rest on one study
 
 ## Description and scope
 
@@ -152,6 +152,7 @@ This pattern is scoped to courses where a lecturer's explanation to a whole grou
 - [The within-student pre–post valence association holds in the lecture-based group but not in the flipped group, while between-student associations are positive in both](../claims/pre-post-valence-stability-varies-by-implementation.md) [~W]
 - [Probability of failing is higher under traditional methodology](../claims/traditional-methodology-higher-failure-probability.md) [-W]
 - [Computer-assisted instruction with Frizbi Mathematics 4 improved fourth-grade mathematics achievement more than traditional lecture-based instruction](../claims/frizbi-cai-improved-achievement.md) [+W]
+- [The constructivist approach produces more positive attitudes towards lessons than traditional teaching, with an overall effect size of 0.728 across 43 Turkish studies](../claims/constructivist-approach-positive-attitudes-meta-analysis.md) [~W]
 
 ## Related Patterns
 - [Direct Instruction](direct-instruction.md) — the explain, model, guided-practice and hand-over policy; a lecture segment is its explanation step delivered to a large group

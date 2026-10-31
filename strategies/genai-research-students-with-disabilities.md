@@ -41,6 +41,7 @@ The article closes with a forward-looking recommendation for future research: "F
 
 - [Future research on special education class size should include rigorous quantitative designs and foreground the voices of children and young people with special needs](future-research-voices-of-children-special-education-class-size.md)
 - [Prioritise equity-centred approaches, methodological diversity, contextual specificity, implementation science and interdisciplinary collaboration in GenAI research](equity-centred-genai-research-priorities.md)
+- [Direct future AR-in-education research toward social sciences and special education, and classify studies by outcome type](ar-research-future-directions-strategy.md)
 
 ## Examples
 -

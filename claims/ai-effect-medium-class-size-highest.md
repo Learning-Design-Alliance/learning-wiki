@@ -50,3 +50,4 @@ Class-size moderator analysis across the 35 studies, with class size coded as sm
 - [Differences in AI-supported instruction effects across STEM disciplines are not statistically significant](ai-effect-discipline-differences-nonsignificant.md)
 - [Active learning benefits students in all class sizes, with the greatest effects in classes of 50 or fewer students](active-learning-strongest-small-classes.md) — reports the opposite
 - [Tutorial group size moderates SDL gains in PBL: small and medium groups gained SDL, large groups declined](tutorial-group-size-moderates-sdl.md) — related
+- [Class capacity does not significantly moderate the effect of RME on mathematical literacy](class-capacity-no-moderating-effect-rme-literacy.md) — related

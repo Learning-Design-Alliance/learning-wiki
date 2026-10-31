@@ -74,3 +74,4 @@ Simple main effects follow-up from the same ANCOVA study reported in the Results
 - [Effects of P(j)BL on CT are mixed across studies, with positive, null, and negative findings reported](pjbl-ct-effects-mixed.md) — related
 - [Student engagement is higher during PBL than during traditional instruction](pbl-engagement-higher-than-traditional.md) — related
 - [No significant improvement in science test performance from the robotics and programming unit](mbot-no-science-improvement.md) — related
+- [PBL effect sizes on science achievement do not differ significantly across instructional variations of PBL](pbl-effect-similar-across-instructional-variations.md) — related

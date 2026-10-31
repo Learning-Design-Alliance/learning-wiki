@@ -136,6 +136,7 @@ The usable design rule comes from Hattie and Timperley: effective feedback answe
 - [Use Retrieval Practice](retrieval-practice-activities.md) — retrieval tasks generate the evidence that formative feedback acts on
 - [Use Mastery Learning](mastery-learning.md) — formative feedback is the mechanism by which mastery thresholds are reached
 - [Ten recommendations for teachers on effectively using formative assessment in the classroom](ten-recommendations-formative-assessment-teachers.md)
+- [Prioritize teacher-provided, content-specific feedback in K-12 settings, and build students' capacity to give peer feedback](prioritize-teacher-content-specific-feedback-k12.md)
 
 ## Examples
 

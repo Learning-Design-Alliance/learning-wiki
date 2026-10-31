@@ -62,3 +62,7 @@ Moderator analysis (Table 5) of intervention duration across subgroups: 0–8 we
 - [Monitoring tool effects were larger in shorter interventions, contrary to the duration hypothesis](monitoring-effects-larger-shorter-interventions.md) — related
 - [Intervention duration of 3–9 weeks yields the greatest AWE gains, with diminishing returns beyond 10 weeks](awe-duration-3-9-weeks-optimal.md) — related
 - [Students with lower prior metacognitive awareness were less likely to sustain use of the tool](lower-metacognition-less-sustained-tool-use.md) — related
+- [Effect size of creative drama on skills varies significantly with duration of experimental application, with longer applications showing larger effects](creative-drama-duration-moderator.md) — related
+- [Program intensity is a significant moderator: high-duration gloss interventions yield larger effects (ES = 1.48) than low-duration ones (ES = 0.57)](program-intensity-moderates-gloss-effect.md) — related
+- [RME effects are greater when treatment lasts 3-4 meetings and are reduced when treatment continues beyond four meetings](rme-effect-reduced-beyond-four-meetings.md) — related
+- [Shorter modelling treatments produce larger achievement effects than semester-length treatments](shorter-modelling-treatments-larger-effects.md) — related

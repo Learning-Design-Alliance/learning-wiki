@@ -59,3 +59,5 @@ Publication-bias analyses using multilevel Egger's regression and power-enhanced
 - [The ratio–interactive-skills association may be partly or entirely attributable to small-study publication bias](publication-bias-ratio-association.md) — related
 - Funnel-plot asymmetry suggests possible selection or publication bias, but p-curve analyses indicate evidential value for the pooled relationships — related
 - Smaller sample sizes are associated with larger VSWM–mathematics effect sizes — reports the opposite
+- [Smaller, underpowered studies report larger flipped classroom effect sizes, indicating small-study and publication bias](small-study-bias-inflates-flipped-classroom-effects.md) — reports the opposite
+- [Funnel plot asymmetry indicates publication bias among the STEM dissertations analyzed](stem-meta-analysis-publication-bias.md) — related
