@@ -41,7 +41,8 @@ The article concludes with "some more general recommendations to ensure terminol
 - [The diversity of operationalizations of technology integration in K-12 survey instruments is very high, and several instruments lack explicit conceptual or theoretical underpinnings.](../claims/high-diversity-ti-operationalizations.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Conduct longitudinal, culturally grounded, structurally informed research and develop Ubuntu-informed instruments in African and Global South higher education](culturally-grounded-structural-research-agenda.md)
 
 ## Examples
 -

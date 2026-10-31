@@ -131,3 +131,5 @@ This synthesis analyzed 138 studies conducted between 1984 and 2002 addressing t
 - [Quasi-experimental and experimental interventions can positively change epistemic cognition, but the theory-of-change remains unidentified](interventions-change-epistemic-cognition.md) — related
 - [Teachers tend to exert more control online while students are underprepared for autonomy, per cited literature](teacher-control-versus-student-autonomy-online.md) — reports the opposite
 - [Among pedagogical interventions, procedural and conceptual learning programs have the highest pooled effect sizes while inquiry-based learning is least effective](pedagogical-subtypes-procedural-conceptual-highest.md) — reports the opposite
+- [The review reports that an AI-plus-faculty-guidance approach outperformed both AI-only and traditional teaching in ultrasonography training](faculty-guided-ai-outperformed-ai-only-ultrasonography.md) — a narrower finding that bears on this claim
+- [The degree and type of guidance determines the effectiveness of digital inquiry, moderated by learners' prior knowledge](guidance-moderates-digital-inquiry.md) — a narrower finding that bears on this claim

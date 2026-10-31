@@ -80,3 +80,4 @@ Participant quotation (FG 10, P 4) illustrating the emotional risk common to bot
 - [Stereotype threat in collaborative contexts can interfere with working memory and reduce meaningful contribution](stereotype-threat-undermines-collaborative-contribution.md) — related
 - [Low environment-change beliefs lead students to allocate cognitive resources to monitoring for breakdowns, creating extraneous load](low-environment-change-beliefs-extraneous-load.md) — related
 - [Anti-cheating interventions can cause distraction and evoke negative emotions during online test-taking](interventions-cause-distraction-negative-emotions.md) — related
+- [Peer tutoring contributes to psychological safety and reduced anxiety in demanding simulation learning environments](peer-tutoring-psychological-safety-anxiety.md) — related

@@ -52,3 +52,4 @@ The summary reports, citing Gormley Jr. et al. (2023) in AERA Open, that pre-k a
 - [Early childhood education attendance is associated with higher high school completion, college attendance, and employment](ece-higher-completion-college-employment.md)
 - [Early childhood education programs often yield larger benefits for children most in need, such as low-income children, children of color, and those with fewer educational resources](ece-larger-benefits-children-most-in-need.md)
 - [College enrollment gaps by race, gender, and socioeconomic background among CPS graduates were driven primarily by differences in four-year enrollment](cps-enrollment-gaps-driven-by-four-year-enrollment.md) — related
+- [School nutrition policies most often show larger academic improvements among low-income and racial/ethnic minority subpopulations, supporting equity goals](nutrition-policy-equity-gains.md) — related

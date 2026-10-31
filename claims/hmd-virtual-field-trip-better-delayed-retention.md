@@ -51,3 +51,5 @@ Independent-samples t-test (Hypothesis 5) on the delayed posttest after the full
 - [Enjoyment mediates the pathway from immersive media to immediate posttest score while interest mediates the pathway to delayed posttest score](camil-enjoyment-immediate-interest-delayed-pathways.md) — related
 - [Immersion principle: people do not necessarily learn better in 3D immersive virtual reality than with a corresponding 2D desktop presentation (d = -0.10 across 9 tests)](immersion-principle-no-vr-benefit.md) — reports the opposite
 - [Immersive HMD viewing of a 360° video improves incidental cued recall compared to non-immersive touchscreen viewing](ivr-360-video-hmd-incidental-recall-advantage.md) — related
+- [Interactive 3D stereoscopic video produced higher post-test scores on anatomical relationships and clinical reasoning than 2D video (Bernard et al.)](bernard-3d-stereoscopy-relationships-reasoning.md) — related
+- [3D virtual-reality lecture was statistically non-inferior to 2D lecture on knowledge and rated better on spatial understanding and enjoyment (Kockro et al.)](kockro-3d-lecture-noninferior-rated-better.md) — related

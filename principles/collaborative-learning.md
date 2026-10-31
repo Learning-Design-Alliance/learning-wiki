@@ -47,7 +47,7 @@ sources:
 # Collaborative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 89 claims (35 for, 48 mixed, 6 against) · 90 studies (21 causal, 16 review, 16 theoretical, 12 associational, 10 quant-synthesis, 9 qualitative, 5 design), `q1`–`q4` · 15 of 90 report an effect size · 83 claims rest on one study
+> **Evidence** · 90 claims (35 for, 49 mixed, 6 against) · 91 studies (21 causal, 16 review, 16 theoretical, 12 quant-synthesis, 12 associational, 9 qualitative, 5 design), `q1`–`q4` · 15 of 91 report an effect size · 84 claims rest on one study
 
 ## Conditional relationship
 
@@ -190,6 +190,7 @@ Group performance during the task, individual understanding straight after it, d
 - [Representational scripting produced no individual learning gains: overall post-test scores did not exceed pre-test scores](../claims/no-individual-learning-gains.md) [-W]
 - [Student interaction in work groups has a positive and significant influence on collaborative learning.](../claims/student-interaction-drives-collaborative-learning.md) [+W]
 - [Collaborative learning has a large positive effect on academic success in Turkish language instruction (REM ES = 0.816)](../claims/collaborative-learning-large-effect-turkish.md) [+M]
+- [Small group sizes produced the largest CMC effect compared with no grouping or groups of more than 3 students](../claims/cmc-small-group-sizes-largest-effect.md) [~W]
 
 ## Related Principles
 - Conditions for Productive Group Creativity — specializes collaborative learning's general quality-control problem for open-ended creative tasks specifically

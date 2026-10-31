@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 58 claims (28 for, 29 mixed, 1 against) · 46 studies (16 causal, 10 review, 8 quant-synthesis, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 16 of 46 report an effect size · 50 claims rest on one study
+> **Evidence** · 65 claims (30 for, 34 mixed, 1 against) · 50 studies (16 causal, 15 quant-synthesis, 10 review, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 18 of 50 report an effect size · 57 claims rest on one study
 
 ## Conditional relationship
 
@@ -149,6 +149,9 @@ Claims from the calculus study behind a core claim, read on 2026-10-15 and left 
 - [A blended/hybrid flipped calculus course with an FC Orientation module improved student learning performance and perceptions significantly over the traditional lecture format](../claims/spencer-2022-hybrid-fc-improved-performance.md) [+W] — attached 2026-10-29 from Yan Shen et al. (2025), which proposed "Flipped learning cycle design pattern: defined cycles with gradually increasing challenge and regular specific feedback across online, in-class, and after-class steps"; tests this page's relationship.
 - [Flip teaching in laboratory sessions produces significantly higher laboratory grades than traditional methodology in Physics and Electricity courses.](../claims/flipped-lab-teaching-higher-lab-grades.md) [+W] — attached 2026-10-29 from Gómez-Tejedor et al. (2020), which proposed "Introduce flip teaching progressively, starting with laboratory practices."; tests this page's relationship.
 - [Flip teaching's effect size on laboratory performance varies by course and grade level, being medium for low-grade Physics and high-grade Electricity students and lesser for the other groups.](../claims/ft-effect-size-varies-by-subgroup.md) [~W] — attached 2026-10-29 from Gómez-Tejedor et al. (2020), which proposed "Introduce flip teaching progressively, starting with laboratory practices."; tests this page's relationship.
+- [Flipped classrooms are associated with improved procedural/technical skills in medical education (pooled SMD = 1.80), with larger effects among residents and in theoretical-course settings](../claims/flipped-classroom-procedural-skills-medical-education.md) [+W] — attached 2026-10-31 from Wu Yaqiu (2026), which proposed "Tailor flipped-classroom implementation to learner stage, course objectives, and available resources rather than assuming a uniform effect".
+- [Flipped classrooms are associated with higher learner satisfaction in medical education (pooled SMD = 0.69), with residents showing larger improvement than undergraduates (SMD 1.69 vs 0.37)](../claims/flipped-classroom-learner-satisfaction-residents.md) [+W] — attached 2026-10-31 from Wu Yaqiu (2026), which proposed "Tailor flipped-classroom implementation to learner stage, course objectives, and available resources rather than assuming a uniform effect".
+- [Heterogeneity across flipped-classroom studies was consistently high (I² > 90%) and was largely not explained by prespecified subgroup analyses, indicating context-dependent effects](../claims/flipped-classroom-high-heterogeneity-context-dependent.md) [~W] — attached 2026-10-31 from Wu Yaqiu (2026), which proposed "Tailor flipped-classroom implementation to learner stage, course objectives, and available resources rather than assuming a uniform effect".
 
 ## Objective and learner-valued goal
 
@@ -192,6 +195,10 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - [Heterogeneity across the included flipped learning studies is high (I² = 81.76)](../claims/flipped-learning-meta-analysis-high-heterogeneity.md) [~W]
 - [Smaller, underpowered studies report larger flipped classroom effect sizes, indicating small-study and publication bias](../claims/small-study-bias-inflates-flipped-classroom-effects.md) [~W]
 - [The social nature of learning activities shows no detectable moderating effect on flipped classroom learning gains](../claims/social-activity-no-moderating-effect-flipped.md) [~W]
+- [High heterogeneity was present among effect sizes for both academic achievement (I2≈85%) and learning retention (I2≈61%)](../claims/cbl-meta-analysis-high-heterogeneity.md) [~W]
+- [Flipped classrooms are associated with improved self-directed learning ability in medical education (pooled SMD = 2.54), but extreme heterogeneity precludes interpreting this as a uniform effect](../claims/flipped-classroom-self-directed-learning-ability.md) [~W]
+- [Effect sizes do not differ significantly between selected-student and whole-class applications, with class-based applications slightly higher (g = 1.253 vs 1.245)](../claims/no-significant-difference-by-application-type.md) [~W]
+- [Within the cognitive domain, flipped classrooms show the largest effects on understanding and achievement and a negative effect on evaluation](../claims/flipped-classroom-cognitive-suboutcome-effect-sizes.md) [~W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — how support in the pre-class work and the live session is withdrawn across a term
@@ -214,6 +221,7 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - [Cross-device learning platform with Course, Gallery, and GenAI modules for flipped studio preparation](../designs/cross-device-flipped-genai-design-platform.md)
 - [Structure simulator sessions as short introductions followed by repeated task performance with teacher circulation and feedback.](../strategies/simulator-session-structure-intro-repetition-teacher-circulation.md)
 - [Start each face-to-face class with a verification quiz or Q&A to link online preparation to classroom activity](../strategies/flipped-verification-quiz-entry-ticket.md)
+- [Instructors redesigning higher education courses should implement flipped classrooms as an effective pedagogical practice while attending to subject-specific and pre-class-engagement conditions](../strategies/flipped-classroom-instructional-redesign-strategy.md)
 
 ### Illustrative
 

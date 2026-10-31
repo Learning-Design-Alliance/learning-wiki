@@ -53,3 +53,4 @@ Theoretical conceptual analysis of existing and possible concreteness fading imp
 - [Concreteness fading guides learners to strip away extraneous concrete properties and distill generic, generalizable properties](fading-distills-generalizable-properties.md) — related
 - [A cube-tower instructional sequence instantiated concreteness fading in an elaborated form for two preservice teachers' combinatorial reasoning](cube-tower-sequence-elaborated-cf-instantiation.md) — related
 - [Concreteness fading enables learners to build a store of memorable images usable when abstract symbols lose meaning](fading-builds-memorable-images.md) — related
+- [The authors interpret the higher Natural Sciences AR effect as arising because abstract natural-science concepts can be more easily concretized in AR than social-science concepts](ar-concretization-explanation-natural-sciences.md) — related

@@ -16,12 +16,14 @@ sources:
     author: Andrzej Sokolowski
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # Mathematical modelling produces a moderate positive effect on high school and college students' mathematics achievement compared with traditional instruction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r1` · `q3` · `i2` medium
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Andrzej Sokolowski. (2015). The Effects of Mathematical Modelling on Students’ Achievement-Meta-Analysis of Research. The IAFOR Journal of Education, Volume III - Issue I - Winter 2015. https://journals.iafor.org/index.php/joe
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r1`
 
 Meta-analysis of 13 peer-reviewed experimental studies (1,670 participants) published 2000–2013, comparing modelling-based instruction with traditional methods using Hedges' formula. The article reports "ES = 0.69 (SE = 0.05, 95% CI: 0.59–0.79)" of medium magnitude and positive direction.
 
@@ -50,3 +52,4 @@ Meta-analysis of 13 peer-reviewed experimental studies (1,670 participants) publ
 - [Learning with intelligent tutoring systems yields a moderate, statistically significant overall advantage in achievement over non-ITS modes of instruction](its-meta-analysis-overall-effect-0-41.md) — related
 - [STEM educational practices have a moderate positive effect on students' academic achievement compared with traditional teaching (REM ES = 0.442)](stem-practices-moderate-academic-achievement-effect.md) — related
 - [High school students show a larger achievement effect from mathematical modelling than college students](modelling-effect-high-school-larger-than-college.md) — a narrower finding that bears on this claim
+- [Context-based learning has a statistically significant positive overall effect on academic achievement (g=0.970) compared to traditional lecture-based instruction](cbl-positive-overall-effect-academic-achievement.md) — related

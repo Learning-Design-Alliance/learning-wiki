@@ -57,3 +57,4 @@ Findings from the authors' reading of participants' critical evaluations in the 
 - [Poorly grounded GenAI self-study risks fabricated content and inferior learning relative to curated resources](genai-self-study-fabrication-curated-resources.md) — related
 - [GPT-3 fabricates plausible-looking but fake references and apparently invents the research studies they cite](gpt3-fabricates-fake-references.md) — related
 - [Pessimistic Evaluators' foremost concern is misleading, inaccurate, or biased ChatGPT-generated information](pessimistic-evaluators-misleading-information-concern.md) — related
+- [Students broadly endorse LLMs as educational aids (74% positive) while 61% raise integrity concerns, 59% cite hallucination risk, and 82% report no institutional guidance](student-llm-perceptions-no-guidance-majority.md) — related

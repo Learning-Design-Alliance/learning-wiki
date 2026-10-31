@@ -63,3 +63,4 @@ Multilevel Egger's regression tests on the meta-analytic corpus showed a signifi
 - Funnel-plot asymmetry suggests possible selection or publication bias, but p-curve analyses indicate evidential value for the pooled relationships — related
 - [Publication bias could not be ruled out in the pooled teacher-student SEC estimate, though the association persisted across sensitivity analyses](sec-pooled-estimate-publication-bias-caution.md) — related
 - [Publication bias tests indicate the pooled flipped classroom effect is unlikely to be inflated by publication bias](flipped-classroom-meta-analysis-publication-bias-robust.md) — related
+- [Funnel-plot asymmetry suggests small studies with negative or null results may be missing from the simulation-versus-clinical meta-analysis](funnel-plot-missing-negative-studies.md) — related

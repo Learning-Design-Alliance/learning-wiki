@@ -87,3 +87,5 @@ Descriptive group-specific coefficients from Table 9; the authors present these 
 - [Perceived GAI advocacy–practice inconsistency is positively associated with both hindrance and challenge appraisal in students' actual experiences](inconsistency-positively-associated-both-appraisals.md) — related
 - [CVT structural relations are largely stable across gender and prior-education groupings, supporting relative universalism under variable-centered tests](cvt-invariant-across-demographic-groupings.md) — related
 - [No significant subgroup difference was found in the magnitude of the direct effect of MA on reading comprehension for any moderator (except lower elementary non-significance)](no-subgroup-difference-direct-effect.md) — related
+- [Attitudinal outcomes did not differ significantly between roles across most studies, with isolated exceptions in self-efficacy and 3-month perceived learning transfer](attitudinal-outcomes-mostly-null-exceptions.md) — related
+- [Structure-outcome relationships appear largely universal across grade levels](structure-benefits-appear-universal-across-grade-levels.md) — related

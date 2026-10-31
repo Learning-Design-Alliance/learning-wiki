@@ -16,12 +16,14 @@ sources:
     author: "Sa’idah, N., Jailani, Sudiyatno, & Retnawati, H."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Effect sizes across the included studies are highly heterogeneous (I² = 91.37%), indicating moderating factors
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Sa’idah, N., Jailani, Sudiyatno, & Retnawati, H. (2026). Innovative teaching models and critical thinking in mathematics and statistics education: A meta-analytical review. International Journal of Research in Education and Science (IJRES), 12(1), 140-157. https://doi.org/10.46328/ijres.5054
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Heterogeneity test of the 19 coded studies using Q and I² statistics with a 95% CI and p < .05 threshold. The article reports "an I² value of 91.37%", exceeding its stated 75% high-heterogeneity benchmark, so a random-effects model was adopted. No standardized effect size is printed for this test.
 
@@ -57,3 +59,8 @@ Heterogeneity test of the 19 coded studies using Q and I² statistics with a 95%
 - [Innovative learning models produce a large pooled effect on mathematical and statistical critical thinking compared with conventional instruction](innovative-models-large-effect-critical-thinking-math-stat.md) — related
 - [Effect sizes of multiple intelligence practices are highly heterogeneous across studies](mi-effect-heterogeneous-distribution.md) — related
 - [Effect sizes across the modelling study pool were heterogeneous, requiring a random-effects model](modelling-study-pool-heterogeneous-random-effects.md) — related
+- [High heterogeneity was present among effect sizes for both academic achievement (I2≈85%) and learning retention (I2≈61%)](cbl-meta-analysis-high-heterogeneity.md) — related
+- [Effect sizes of creative drama studies are heterogeneous (Q = 60.78, df = 39, p < .05), motivating moderator analyses](creative-drama-effect-sizes-heterogeneous.md) — related
+- [Heterogeneity across flipped-classroom studies was consistently high (I² > 90%) and was largely not explained by prespecified subgroup analyses, indicating context-dependent effects](flipped-classroom-high-heterogeneity-context-dependent.md) — a narrower finding that bears on this claim
+- [The pooled effect-size distribution is highly heterogeneous but resistant to publication bias](heterogeneity-and-publication-bias-assessment.md) — related
+- [Effect sizes across included studies are highly heterogeneous (I² = 94.79%), requiring a random-effects model](high-heterogeneity-random-effects-cre-meta-analysis.md) — related

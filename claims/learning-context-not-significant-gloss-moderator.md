@@ -16,12 +16,14 @@ sources:
     author: Vahideh Sadat Vahedi, Behzad Ghonsooly, and Reza Pishghadam
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Learning context (ESL vs EFL) does not significantly moderate the gloss effect, though EFL contexts showed a nominally larger effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Vahideh Sadat Vahedi, Behzad Ghonsooly, and Reza Pishghadam. (2014). Vocabulary Glossing: A Meta-Analysis of the Relative Effectiveness of Different Gloss Types on L2 Vocabulary Acquisition. Teaching English with Technology, 16(1), 3-25. http://www.tewtjournal.org
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Moderator analysis comparing second language (ESL) and foreign language (EFL) learning contexts in the meta-analysis. Both confidence intervals were statistically significant, but the between-context Q-test was not. No effect size for the moderator contrast is printed, so impact is null.
 

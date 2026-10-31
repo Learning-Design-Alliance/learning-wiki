@@ -16,12 +16,14 @@ sources:
     author: Mustafa Çevik, Büşra Bakioğlu
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # STEM education integrated with teaching-learning approaches shows a large overall mean effect on learning outcomes (g = 0.88) across 33 experimental studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Mustafa Çevik, Büşra Bakioğlu. (2022). The Effect of STEM Education Integrated into Teaching-Learning Approaches (SEITLA) on Learning Outcomes: A Meta-Analysis Study. International Journal of Progressive Education, 18(2). https://doi.org/10.29329/ijpe.2022.431.8
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r2`
 
 Random-effects meta-analysis of 33 experimental and quasi-experimental studies of SEITLA on learning outcomes. The pooled mean effect size was 0.88 (95% CI 0.66-1.09), which the authors describe as "a large effect according to Cohen".
 

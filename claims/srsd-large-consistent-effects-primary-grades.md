@@ -16,12 +16,14 @@ sources:
     author: Young-Suk Grace Kim, Dandan Yang, Marcela Reyes, Carol Connor
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # SRSD instruction had large and consistent positive effects across composition outcomes (0.59–1.04) for primary grade students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i3` large
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Young-Suk Grace Kim, Dandan Yang, Marcela Reyes, Carol Connor. (2021). Writing instruction improves students' writing skills differentially depending on focal instruction and children: A meta-analysis for primary grade students. Educational Research Review 34. https://doi.org/10.1016/j.edurev.2021.100408
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r3`
 
 Moderation analysis by instructional focus in the meta-analysis. SRSD studies reported no writing fluency outcomes, so no fluency estimate was available for this focus.
 

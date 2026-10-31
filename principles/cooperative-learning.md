@@ -13,7 +13,7 @@ generated:
 # Cooperative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 39 claims (16 for, 23 mixed) · 36 studies (12 quant-synthesis, 11 causal, 5 review, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 15 of 36 report an effect size · 32 claims rest on one study
+> **Evidence** · 46 claims (19 for, 27 mixed) · 37 studies (16 quant-synthesis, 11 causal, 5 review, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 15 of 37 report an effect size · 39 claims rest on one study
 
 ## Conditional relationship
 
@@ -78,6 +78,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Belonging interventions improve outcomes, particularly for marginalized students.](../claims/belonging-interventions-improve-outcomes.md) [+M] — checked by the judge: all 2 entries pass (abstract)
 - [Prospective teachers' qualitative feedback credited CCCT with communication, teamwork and engagement gains but noted unequal participation and time constraints](../claims/ccct-qualitative-strengths-challenges.md) [~W] — attached 2026-10-10 from Özgür Tutal (2026), which proposed "Structure cooperative learning so that group work embeds the five essential elements rather than merely placing students in groups".
 - [Cooperative learning reduced emotional problems and increased peer relatedness for all students, not only marginalized students](../claims/cooperative-learning-main-effects-emotional-problems-relatedness.md) [+W] — attached 2026-10-23 from Van Ryzin et al. (2018), which proposed "Use cooperative learning as a sustainable, stand-alone component of bullying prevention that does not sacrifice instructional time".
+- [Cooperative learning is more effective for grade 11 than grade 10 vocational high school mathematics students](../claims/cooperative-learning-grade-11-more-effective-than-grade-10.md) [+M] — attached 2026-10-31 from M. Rais Ridwan et al. (2022), which proposed "Implement cooperative learning in vocational high school mathematics with attention to grade level and class size".
+- [Cooperative learning is more effective in classes of 1-30 students than in classes of more than 30 students](../claims/cooperative-learning-small-class-size-more-effective.md) [+M] — attached 2026-10-31 from M. Rais Ridwan et al. (2022), which proposed "Implement cooperative learning in vocational high school mathematics with attention to grade level and class size".
 
 ## Objective and learner-valued goal
 
@@ -110,6 +112,11 @@ Immediate group performance, individual achievement at the end of a unit, delaye
 - [Achievement effects of cooperative learning are similar across experiment durations of 3–8, 9–14, and 15–20 weeks](../claims/cooperative-learning-achievement-duration-moderator.md) [+W]
 - [Estimated cooperative learning efficacy is higher in studies published in SINTA and GARUDA indexed journals (1.04) than in Google Scholar indexed articles or proceedings (0.73)](../claims/journal-index-moderator-cooperative-learning-effect.md) [~W]
 - [Self-selected and randomly formed small groups show larger achievement effects than ability-based grouping, and groups of three to five students outperform pairs](../claims/group-formation-and-size-moderate-small-group-effects.md) [~W]
+- [Cooperative learning has a medium positive effect on mathematics achievement in Turkey (average ES = 0.840, random-effects model)](../claims/cooperative-learning-medium-positive-math-effect-turkey.md) [+W]
+- [The effect of cooperative learning on mathematics achievement differs significantly by learning domain, with geometry showing the largest effect](../claims/learning-domain-moderator-significant-geometry.md) [~W]
+- [The effect of cooperative learning on mathematics achievement does not differ significantly by educational level](../claims/educational-level-moderator-not-significant.md) [~W]
+- [The effect of cooperative learning on mathematics achievement differs significantly by implemented technique, with multiple intelligence-assisted and STAD techniques largest](../claims/cooperative-technique-moderator-significant-stad-mi.md) [~W]
+- [The effect of cooperative learning on mathematics achievement does not differ significantly by implementation period](../claims/implementation-period-moderator-not-significant.md) [~W]
 
 ## Related Principles
 

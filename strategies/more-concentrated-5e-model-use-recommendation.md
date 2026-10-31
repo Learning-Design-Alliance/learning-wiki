@@ -17,7 +17,7 @@ sources:
 # Recommend more concentrated use of the 5E model in classrooms to support productive and effective education
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (3 for, 2 mixed) · 3 studies, `q3` · 1 of 3 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 3 studies (3 quant-synthesis), `q3` · 1 of 3 report an effect size · 5 claims rest on one study
 
 ## Description
 Based on the pooled positive effect sizes for achievement, retention and attitude, the authors recommend broader and more concentrated use of the 5E instructional model in schooling. The article states "it may be suggested that more concentrated use of the 5E model will contribute to ensuring that students experience a more productive and effective course of education in their classes and their academic work." The recommendation rests on the meta-analytic findings rather than on a new manipulation tested in this article.

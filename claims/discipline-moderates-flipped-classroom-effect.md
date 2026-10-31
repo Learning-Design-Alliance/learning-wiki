@@ -16,18 +16,22 @@ sources:
     author: Torstein Låg, Rannveig Grøm Sæle
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
   - id: torstein-låg-2019-2
     resource: "https://doi.org/10.1177/2332858419870489"
     title: "Torstein Låg, Rannveig Grøm Sæle. (2019). Does the Flipped Classroom Improve Student Learning and Satisfaction? A Systematic Review and Meta-Analysis. AERA Open. https://doi.org/10.1177/2332858419870489"
     author: Torstein Låg, Rannveig Grøm Sæle
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Effect sizes for the flipped classroom are higher in humanities studies than in STEM, but the difference should not be given too much weight
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Torstein Låg, Rannveig Grøm Sæle. (2019). Does the Flipped Classroom Improve Student Learning and Satisfaction? A Systematic Review and Meta-Analysis. AERA Open. https://doi.org/10.1177/2332858419870489
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Subgroup analysis of continuous-learning outcomes across STEM (k = 159), M/H (52), SS (33), and HUM (28). The article reports humanities g = 0.54 versus STEM g = 0.32, with Q = 8.06, p < .05.
 
@@ -50,7 +54,7 @@ Subgroup analysis of continuous-learning outcomes across STEM (k = 159), M/H (52
 
 Torstein Låg, Rannveig Grøm Sæle. (2019). Does the Flipped Classroom Improve Student Learning and Satisfaction? A Systematic Review and Meta-Analysis. AERA Open. https://doi.org/10.1177/2332858419870489
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Meta-regression with discipline, preparation testing, social activity, group equivalence, assessment quality, teachers, sample size, and publication year entered jointly. The article reports discipline no longer significant and notes most CIs around discipline estimates overlap.
 
@@ -66,3 +70,4 @@ Meta-regression with discipline, preparation testing, social activity, group equ
 - [Flipped classroom interventions produce a small positive effect on continuous learning outcomes, around one fifth of a standard deviation after correcting for small-study bias](flipped-classroom-small-positive-learning-effect.md) — related
 - [STEM education with 7E instruction, flipped learning, problem-based learning or technology-enhanced learning showed no significant effect on learning achievement](seitla-nonsignificant-approaches.md) — reports the opposite
 - [The social nature of learning activities shows no detectable moderating effect on flipped classroom learning gains](social-activity-no-moderating-effect-flipped.md) — related
+- [Publication year significantly moderates flipped classroom effect sizes in meta-regression](flipped-classroom-effect-sizes-publication-year-moderation.md) — related

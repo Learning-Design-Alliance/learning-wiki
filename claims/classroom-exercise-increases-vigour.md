@@ -52,3 +52,6 @@ Linear mixed-effects analysis of within-subjects repeated assessments over nine 
 - [Exercise during class does not significantly affect depression, interest, sleep frequency, or mind-wandering](classroom-exercise-no-cognitive-engagement-effect.md) — related
 - [Within a person, vigour correlates positively with interest and negatively with fatigue, depression, sleepiness, and mind-wandering](vigour-within-person-correlations-engagement.md) — related
 - [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](classroom-physical-activity-improves-attention.md) — related
+- [Classroom physical activity breaks show strong evidence of improving emotional engagement in university students](pa-breaks-emotional-engagement-strong-evidence.md) — related
+- [Evidence on negative academic emotions from classroom physical activity breaks is limited and inconsistent](pa-breaks-negative-emotions-inconsistent.md) — related
+- [Classroom physical activity breaks show strong evidence of improving positive academic emotions in university students](pa-breaks-positive-emotions-strong-evidence.md) — related

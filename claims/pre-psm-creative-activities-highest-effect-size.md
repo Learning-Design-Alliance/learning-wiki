@@ -16,12 +16,14 @@ sources:
     author: "Itsarangkul Na Ayutthaya, T., & Damrongpanit, S."
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Before propensity score adjustment, the creative learning activities management model shows the highest effect size for developing students' creative thinking among five instructional models, with extreme heterogeneity across studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Itsarangkul Na Ayutthaya, T., & Damrongpanit, S. (2022). A Meta-Analysis of Instructional Management Model for Students’ Creative Thinking Development: An Application of Propensity Score Matching. European Journal of Educational Research, 11(4), 2429-2444. https://doi.org/10.12973/eu-jer.11.4.2429
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Random effects model heterogeneity estimates for the pre-adjustment synthesis of 400 studies. The article prints τ²=10.83 and I²=99.21% and states this makes the conclusions "still not reliable (d̅=3.88)".
 

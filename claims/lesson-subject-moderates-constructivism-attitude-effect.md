@@ -16,12 +16,14 @@ sources:
     author: "Toraman, C., & Demir, E."
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Lesson subject significantly moderates the effect of constructivism on attitudes: positive for science and technology and other subjects, not significant for mathematics
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Toraman, C., & Demir, E. (2016). The effect of constructivism on attitudes towards lessons: A meta–analysis study. Eurasian Journal of Educational Research, 62, 115-142. http://dx.doi.org/10.14689/ejer.2016.62.8
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r2`
 
 Moderator analysis by subject across the 43 studies (Table 4): science and technology (26 studies, ES = 0,897), mathematics (8 studies, ES = -0,285, p = 0,290), other subjects (9 studies, ES = 1,095). The article reports "the effect size is not significant" for mathematics.
 

@@ -17,7 +17,7 @@ sources:
 # Use the constructivist learning approach to improve academic achievement, especially at college and high school levels and across subjects other than religious instruction.
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (7 for) · 2 studies, `q3` · 1 of 2 report an effect size · 7 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 2 studies (2 quant-synthesis), `q3` · 1 of 2 report an effect size · 7 claims rest on one study
 
 ## Description
 The article's recommendations for practitioners and program developers, based on its meta-analytic findings. It concludes that "the constructivist learning approach makes more significant contribution to learners' academic achievement than traditional learning methods", so teachers can adopt it, and that it can be used in almost all areas except religious instruction, with particular emphasis on university and high school programs.

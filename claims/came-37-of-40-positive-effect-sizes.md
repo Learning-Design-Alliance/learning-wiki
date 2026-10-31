@@ -16,12 +16,14 @@ sources:
     author: "Demir, S., & Başol, G."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # 37 of the 40 included studies (92.5%) show positive effect sizes for CAME on mathematics achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Demir, S., & Başol, G. (2014). Effectiveness of Computer-Assisted Mathematics Education (CAME) over Academic Achievement: A Meta-Analysis Study. Educational Sciences: Theory & Practice, 14(5), 2026-2035. http://www.edam.com.tr/estp
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Descriptive analysis of the Hedges' d effect sizes calculated for each of the 40 included studies. The article reports "37 of the studies (92.5%) had positive effect sizes" and that 32 studies (80%) had extensive effect sizes, with minimum and maximum effect sizes of -.3345 and 2.5885.
 

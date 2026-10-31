@@ -43,6 +43,7 @@ To operationalize competency goals in the reformed curriculum, the authors devel
 
 - [CCTDI-to-writing-rubric mapping framework linking critical thinking dispositions to writing performance indicators](cctdi-writing-rubric-mapping-framework.md)
 - [AI-driven talent cultivation reform framework with five interconnected components](ai-driven-talent-cultivation-reform-framework.md)
+- [A staged competency-based framework for geriatric dental education with 6 core competencies, 34 sub-competencies, and 72 enabling competencies](staged-competency-framework-geriatric-dentistry.md)
 
 ## Examples
 -

@@ -16,12 +16,14 @@ sources:
     author: Young-Suk Grace Kim, Dandan Yang, Marcela Reyes, Carol Connor
     q: 3
     i: 1
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Effects of writing instruction vary across dimensions of composition: quality 0.32, productivity 0.31, other 0.34, but fluency smaller and non-significant (0.15)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i1` small
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Young-Suk Grace Kim, Dandan Yang, Marcela Reyes, Carol Connor. (2021). Writing instruction improves students' writing skills differentially depending on focal instruction and children: A meta-analysis for primary grade students. Educational Research Review 34. https://doi.org/10.1016/j.edurev.2021.100408
 
-`q3 · i1`
+`q3 · i1` · `quant-synthesis · r3`
 
 Moderation analysis by composition outcome dimension in the meta-analysis, using robust variance estimation. Writing fluency showed the smallest average effect and was not statistically significant (p = .72), unlike the other three dimensions.
 

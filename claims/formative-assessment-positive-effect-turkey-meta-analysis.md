@@ -16,12 +16,14 @@ sources:
     author: Pinar Karaman
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Formative assessment interventions have a significant positive effect on student learning in Turkish experimental studies (random-effects g = .72)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Pinar Karaman. (2021). The Effect of Formative Assessment Practices on Student Learning: A Meta-Analysis Study. International Journal of Assessment Tools in Education. https://doi.org/10.21449/ijate.870300
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r2`
 
 Meta-analysis of 32 studies with 47 effect sizes meeting inclusion criteria (true experimental or quasi-experimental designs measuring learning outcomes), analyzed with a random effects model in ProMeta3. The article reports "a significant effect of formative assessment on student learning" with g = .72; 3253 participants were involved in the analysis.
 

@@ -16,12 +16,14 @@ sources:
     author: "Roslinda Rosli, Mary Margaret Capraro & Robert M. Capraro"
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # Problem posing interventions show a large positive effect on students' levels and kinds of problems posed (mean Hedges' g = 0.77)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r1` · `q3` · `i3` large
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Roslinda Rosli, Mary Margaret Capraro & Robert M. Capraro. (2014). The Effects of Problem Posing on Student Mathematical Learning: A Meta-Analysis. International Education Studies, 7(13). http://dx.doi.org/10.5539/ies.v7n13p227
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r1`
 
 Meta-analysis of seven ability-based weighted effect sizes from experimental studies of problem posing interventions. Table 3 reports a mean effect size of .77 with a standard error of .10 and a 95% CI of .57 to .98; moderator effects on this outcome were statistically significant (p < .001).
 

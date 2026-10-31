@@ -52,3 +52,5 @@ Interview-based qualitative study of 151 Chilean higher education teachers analy
 ## Related Claims
 - [The factors underpinning faculty online-teaching profiles shifted over the pandemic: internal dispositions dominated at Snapshot 1, while perceived institutional support and enthusiasm dominated at Snapshot 2](institutional-support-became-strong-predictor-over-time.md) — related
 - [Teachers' expectancy beliefs about successfully using AI applications shape their motivation to use them (theoretical argument).](teacher-expectancy-beliefs-shape-motivation-to-use-ai.md) — a broader claim this one bears on
+- [Research studies on EFL methodology in Chile (2011–2021) cluster around perceptions and beliefs, core teaching practices, e-learning during COVID-19, motivation, and assessment](chilean-efl-methodology-review-major-topic-areas.md) — related
+- [Institutional culture, prior teaching experience, and motivational profiles shape residents' teaching effectiveness](factors-shaping-resident-teaching-effectiveness.md) — related

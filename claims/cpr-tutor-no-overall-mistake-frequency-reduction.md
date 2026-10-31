@@ -48,3 +48,4 @@ Comparison of 20 sessions from 10 participants (feedback vs control) on mistake 
 - [An expert dataset of 4803 annotated chest compressions from 10 experts was collected and downsampled to 3434 samples to train the mistake-detection models](cpr-tutor-expert-dataset-4803-ccs.md) — related
 - [Real-time audio feedback from the CPR Tutor is followed by a short-term decrease in Error Rates across all five target CPR classes within 10 seconds](cpr-tutor-short-term-error-rate-decrease.md) — related
 - [The CPR Tutor architecture classifies a chest compression in about 70 milliseconds, supporting real-time feedback provision](cpr-tutor-real-time-classification-speed.md) — related
+- [Feedback-based CPR training is associated with more accurate chest compression performance than standard instruction](feedback-based-cpr-training-improves-compression-performance.md) — reports the opposite

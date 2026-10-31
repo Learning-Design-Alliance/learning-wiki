@@ -17,7 +17,7 @@ sources:
 # Chemistry teachers should employ varied effective pedagogies, especially inquiry-based and problem-based approaches, supplemented with visualization and real-world materials
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 1 study, `q2` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (2 for, 2 mixed) · 1 study (1 quant-synthesis), `q2` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article recommends that chemistry teachers and educators adopt the teaching methods its synthesis found effective, particularly constructivist inquiry-based and problem-based approaches combined with collaborative learning. It states "Chemistry teachers and educators should consider employing one of the various forms of pedagogies and methods that are effective in improving student performance", and suggests teaching with visualization using maps, graphs, videos, images, models and materials, and presenting material through real-world examples and authentic experiences.

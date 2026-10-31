@@ -16,12 +16,14 @@ sources:
     author: Feyyaz Öztop
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Publication-bias checks (funnel plot symmetry and Rosenthal Safe N of 6801) indicate no publication bias in the synthesis
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Feyyaz Öztop. (2023). A Meta-Analysis of the Effectiveness of Digital Technology-Assisted STEM Education. Journal of Science Learning. https://doi.org/10.17509/jsl.v6i2.52316
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Publication-bias assessment of the meta-analysis using a funnel plot and the Rosenthal Safe N method, reported in Table 1 (Z for observed studies 41.25856, 38 observed studies, Safe N 6801). The author states a high Safe N indicates no publication bias.
 

@@ -13,7 +13,7 @@ generated:
 # Physical Well-Being
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 79 claims (54 show a difference, 16 mixed, 9 no difference) · 44 studies (19 causal, 11 associational, 8 review, 2 quant-synthesis, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 7 of 44 report an effect size · 75 claims rest on one study
+> **Evidence** · 94 claims (64 show a difference, 21 mixed, 9 no difference) · 48 studies (19 causal, 11 review, 11 associational, 3 quant-synthesis, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 7 of 48 report an effect size · 90 claims rest on one study
 
 ## Description
 Physical well-being covers a learner's overall physical health: nutrition, regular physical activity and fitness, and good sleep. The LVN's case for it is that the benefits reach beyond the body: learners in good health benefit in cognitive skills, focus and mood, which can support academic performance, and in the early years it frames the same idea as physical fitness, with regular exercise strengthening cognitive skills. Exercise is described as particularly helpful for learners with ADHD. Physical activity tends to fall during adolescence, and for adults, education can itself improve health as health literacy grows and learners become better able to advocate for their needs. Body mass index is the one measure the LVN lists. It overlaps with [sleep](sleep.md), which is one of its components, and with [attention](attention.md) and [executive function](executive-function.md), which are among the outcomes exercise is linked to.
@@ -116,6 +116,21 @@ Physical well-being covers a learner's overall physical health: nutrition, regul
 - [Low-intensity exercise during university class significantly increases students' vigour during the lesson](../claims/classroom-exercise-increases-vigour.md) [+M] — instruction changes it
 - [First-graders using Kid Space showed physical activity during play-based learning, in an exploratory case study without a comparison](../claims/kid-space-more-physical-activity.md) [+W] — instruction changes it
 - [Collaborative MAR gameplay exceeds competitive gameplay on observed physical activity and interest in exploring the tool](../claims/collaborative-mar-physical-activity-tool-use.md) [+W] — instruction changes it
+- [A significant overall improvement in academic achievement was detected after physical activity programs compared with controls](../claims/pa-interventions-improve-overall-academic-achievement.md) [+M] — instruction changes it
+- [Behavioral engagement findings from classroom physical activity breaks are inconclusive](../claims/pa-breaks-behavioral-engagement-inconclusive.md) [~M] — instruction changes it
+- [Breakfast After the Bell shows benefits for attendance and behavior, but mixed evidence on test scores](../claims/batb-mixed-academic-evidence.md) [~M] — instruction changes it
+- [CEP exposure improved daily attendance and graduation rates in new quasi-experimental studies, with effects strengthening over sustained implementation](../claims/cep-attendance-graduation-improvements.md) [+M] — instruction changes it
+- [CEP test-score evidence is null overall, with math improvements only in districts where CEP most increased free meal access](../claims/cep-test-scores-null-overall.md) [~M] — instruction changes it
+- [Classroom physical activity breaks show strong evidence of improving emotional engagement in university students](../claims/pa-breaks-emotional-engagement-strong-evidence.md) [+M] — instruction changes it
+- [Classroom physical activity breaks show strong evidence of improving positive academic emotions in university students](../claims/pa-breaks-positive-emotions-strong-evidence.md) [+M] — instruction changes it
+- [Classroom physical activity breaks show strong evidence of improving sustained attention in university students](../claims/pa-breaks-sustained-attention-university-strong-evidence.md) [+M] — instruction changes it
+- [Effects of school-based physical activity on academic performance are not uniform and appear higher for mathematics skills](../claims/pa-academic-effects-nonuniform-math-favored.md) [~M] — instruction changes it
+- [Evidence on negative academic emotions from classroom physical activity breaks is limited and inconsistent](../claims/pa-breaks-negative-emotions-inconsistent.md) [~M] — instruction changes it
+- [Greater exercise intensity, not merely increased frequency, is associated with larger academic gains](../claims/exercise-intensity-moderates-academic-gains.md) [+M] — learners who differ on it differ in outcomes
+- [Internet addiction is associated with adverse physical health outcomes including musculoskeletal discomfort and daytime sleepiness](../claims/ia-physical-health-consequences.md) [+M] — instruction changes it
+- [School Breakfast Program availability is associated with better attendance and reading scores, especially among boys and lower-income students](../claims/sbp-attendance-reading-gains.md) [+M] — instruction changes it
+- [School nutrition policies most often show larger academic improvements among low-income and racial/ethnic minority subpopulations, supporting equity goals](../claims/nutrition-policy-equity-gains.md) [+M] — instruction changes it
+- [Universal Free School Meals (including CEP) show the most consistent positive associations with attendance, test scores, graduation, and discipline outcomes](../claims/ufsm-consistent-academic-benefit.md) [+M] — instruction changes it
 
 ## Measures
 - **Body Mass Index (BMI)**: a measure of body fat calculated from height and weight.

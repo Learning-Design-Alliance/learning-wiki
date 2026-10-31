@@ -16,12 +16,14 @@ sources:
     author: Hakan Tekedere, Hanife Göker
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Effect size distributions across AR-in-education studies were heterogeneous (Q=35.692, I²=60.776%), requiring a random effects model
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Hakan Tekedere, Hanife Göker. (2016). Examining the Effectiveness of Augmented Reality Applications in Education: A Meta-Analysis. International Journal of Environmental & Science Education, 11(16), 9469-9481. https://creativecommons.org/licenses/by/4.0/
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Homogeneity test results reported in Table 2 for the 15 studies' effect size distribution. The article reports "The Q value was found to be 35.692" and an I² of 60.776%, indicating medium heterogeneity, leading to use of the random influences model.
 
@@ -54,3 +56,5 @@ Homogeneity test results reported in Table 2 for the 15 studies' effect size dis
 - [Effect sizes across the modelling study pool were heterogeneous, requiring a random-effects model](modelling-study-pool-heterogeneous-random-effects.md) — related
 - [Effect sizes across the 38 comparisons are highly heterogeneous, requiring a random-effects model](stem-digital-meta-heterogeneous-random-effects.md) — related
 - [Effect sizes of multiple intelligence practices are highly heterogeneous across studies](mi-effect-heterogeneous-distribution.md) — related
+- [The pooled effect-size distribution is highly heterogeneous but resistant to publication bias](heterogeneity-and-publication-bias-assessment.md) — related
+- [Effect sizes across included studies are highly heterogeneous (I² = 94.79%), requiring a random-effects model](high-heterogeneity-random-effects-cre-meta-analysis.md) — related

@@ -51,3 +51,4 @@ Subject-specific intention-to-treat mixed-effects models from the same trial (po
 - [LLM teaching effectiveness varies substantially across subject domains, strongest where knowledge points apply directly and weakest in physics and chemistry](llm-teaching-effectiveness-varies-by-domain.md) — related
 - [Concept-mapping effect sizes vary by science subject (physics/earth science g = 1.040, biology g = 0.671, chemistry g = 0.590) but not significantly](concept-map-effects-vary-by-science-subject.md) — related
 - [Intervention effects did not differ between physics and English subjects](genai-srl-effects-no-subject-differences.md) — related
+- [Stratified teaching positively affects all seven studied subjects, with larger effects in English, physics, and geography than in chemistry, biology, and mathematics](stratified-teaching-subject-effects-english-physics-geography.md) — related

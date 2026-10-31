@@ -74,3 +74,7 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [Teachers support interdisciplinary curriculum integration but identify resource limitations, not curricular constraints, as the main barrier](e-textile-steam-integration-attitudes-barriers.md) — related
 - [MISTT analysis revealed mismatches in teacher identity expectations which may hinder effective technology integration](mistt-identity-expectation-mismatches-hinder-technology-integration.md) — related
 - [Some teachers declined to use the VCL citing organisational difficulties and curriculum fit](teachers-declined-vcl-organisational-curriculum.md) — a narrower finding that bears on this claim
+- [Cost, equipment availability, maintenance and faculty training are reported implementation barriers for laparoscopic simulation, especially in resource-constrained settings](laparoscopic-simulation-implementation-barriers.md) — related
+- [Residents recognize teaching as central to their professional identity yet carry substantial informal teaching loads without formal preparation](residents-informal-teaching-load-underprepared.md) — related
+- [Contextual resource constraints in low- and middle-income settings may limit implementation of structured, feedback-intensive clinical teaching models](resource-constraints-limit-model-transferability.md) — related
+- [Barriers to soft skills integration: time constraints, systemic obstacles, learner emotional strain, and adapting to new modalities](soft-skills-curricular-barriers-medical-education.md) — related

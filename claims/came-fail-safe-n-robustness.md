@@ -16,12 +16,14 @@ sources:
     author: "Demir, S., & Başol, G."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Fail-safe N analyses (Rosenthal N = 902.2; Orwin N = 140.0) indicate the meta-analytic result is robust to unpublished conflicting studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Demir, S., & Başol, G. (2014). Effectiveness of Computer-Assisted Mathematics Education (CAME) over Academic Achievement: A Meta-Analysis Study. Educational Sciences: Theory & Practice, 14(5), 2026-2035. http://www.edam.com.tr/estp
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Publication-bias sensitivity analysis of the combined 40 studies. The article reports that at least 902.2 studies (Rosenthal) or 140 studies (Orwin) conflicting with the findings would be needed to invalidate the results, which the authors say strengthens reliability.
 
@@ -52,3 +54,5 @@ Publication-bias sensitivity analysis of the combined 40 studies. The article re
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](srl-meta-analysis-publication-bias-absent.md) — related
 - [The pooled effect of multiple intelligence practices is resistant to publication bias](mi-effect-resistant-publication-bias.md) — related
 - [Publication-bias analysis indicates 51 unpublished studies would be needed to reverse the meta-analysis findings](mall-file-drawer-51-studies-needed-to-reverse.md) — related
+- [Publication bias tests indicate the observed effects for both outcomes were not influenced by publication bias](cbl-meta-analysis-no-publication-bias.md) — related
+- [Fail-safe N analyses indicate the pooled effect is resistant to publication bias (Rosenthal FSN = 2139; Orwin FSN = 1048)](fsn-resistance-publication-bias-cre-meta-analysis.md) — related

@@ -69,7 +69,7 @@ The report's literature review attributes this to a recent meta-analysis of "60 
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does adding ongoing coaching or colleague collaboration to in-service professional development change teachers' classroom practice and their students' achievement?* This table gathers the studies behind this claim and the 17 narrower claims that bear on it: **14 distinct studies** (4 review, 4 causal, 3 associational, 2 qualitative, 1 quant-synthesis), `q2`–`q4`, 2 of 14 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does coaching teachers on their classroom practice change their observed instruction?* This table gathers the studies behind this claim and the 17 narrower claims that bear on it: **14 distinct studies** (4 review, 4 causal, 3 associational, 2 qualitative, 1 quant-synthesis), `q2`–`q4`, 2 of 14 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -105,3 +105,7 @@ The report's literature review attributes this to a recent meta-analysis of "60 
 - [Early Reading First improved instructional content and practices in preschool classrooms](early-reading-first-classroom-practice-impacts.md) — a narrower finding that bears on this claim
 - [Coaching and expert support appeared in 30 of 35 studies, with coached classrooms showing larger gains in a randomized trial](pd-coaching-expert-support-gains.md) — related
 - [Professional development produces moderate improvements in teachers' skills for implementing inclusive education (g = 0.49)](pd-moderate-effect-teacher-inclusive-skills.md) — related
+- [Prior meta-analysis reports a pooled mean effect size of 0.21 SD on student achievement for mathematics and science teacher PD and curriculum improvement interventions](pd-student-achievement-pooled-021-lynch-2019.md) — related
+- [Mathematics and science PD interventions causally improve in-service teachers' knowledge and classroom instruction, with a pooled average impact estimate of +0.52 SD across randomized studies](pd-teacher-outcomes-pooled-052-sd.md) — related
+- [Prior meta-analyses report moderate positive pooled effect sizes of teacher PD on instructional practice and teacher knowledge outcomes](prior-pd-teacher-practice-meta-analyses-moderate-effects.md) — possibly the same claim (merge candidate)
+- [PD programs with larger impacts on teacher-level outcomes tended to have significantly larger mean impacts on student achievement](pd-teacher-impacts-predict-student-impacts.md) — related

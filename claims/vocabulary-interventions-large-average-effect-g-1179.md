@@ -16,12 +16,14 @@ sources:
     author: "Kansızoğlu, N. & Bekiroğlu, N."
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Vocabulary development interventions have a large average positive effect on cognitive vocabulary outcomes (g = 1.179) compared with traditional teaching methods
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i3` large
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Kansızoğlu, N. & Bekiroğlu, N. (2025). The effect of vocabulary development interventions on cognitive outcomes of vocabulary: A meta-analysis study. Journal of Pedagogical Research, 9(1), 123-148. https://doi.org/10.33902/JPR.202532083
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r3`
 
 Meta-analysis of 43 Turkish theses (outliers excluded) using Hedge's g in CMA V3; random effects model. The article reports the average effect as "substantial (g = 1.179, 95% CI [0.985, 1.374], p < .05)"; fixed effects gave g = 0.964.
 

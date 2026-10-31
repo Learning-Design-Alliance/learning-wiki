@@ -16,12 +16,14 @@ sources:
     author: "Liu, J., & Zhang, J."
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Comprehension questions are the most effective extensive reading treatment for vocabulary learning, followed by dictionary usage and vocabulary exercise
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Liu, J., & Zhang, J. (2018). The Effects of Extensive Reading on English Vocabulary Learning: A Meta-analysis. English Language Teaching, 11(6). https://doi.org/10.5539/elt.v11n6p1
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r2`
 
 Moderator analysis of treatments in group contrasts. The comprehension-question estimate rests on a single study (k = 1, N = 52); book report, vocabulary instruction and others had confidence intervals including zero.
 

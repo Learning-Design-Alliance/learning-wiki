@@ -16,12 +16,14 @@ sources:
     author: "Itsarangkul Na Ayutthaya, T., & Damrongpanit, S."
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # The research groups attribute variable remains statistically significant after propensity score adjustment, indicating incomplete elimination of extraneous effects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Itsarangkul Na Ayutthaya, T., & Damrongpanit, S. (2022). A Meta-Analysis of Instructional Management Model for Students’ Creative Thinking Development: An Application of Propensity Score Matching. European Journal of Educational Research, 11(4), 2429-2444. https://doi.org/10.12973/eu-jer.11.4.2429
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Post-adjustment test of the research groups attribute variable reported in the Discussion and in Table 3 (F p=0.034*, F* p=0.011*). The article links this to differences in sample size between groups and to research quality concerns.
 

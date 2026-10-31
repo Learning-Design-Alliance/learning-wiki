@@ -13,7 +13,7 @@ generated:
 # Inquiry
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 13 claims (6 for, 7 mixed) · 26 studies (9 quant-synthesis, 8 review, 4 causal, 3 theoretical, 1 associational), `q1`–`q4` · 10 of 26 report an effect size · 7 claims rest on one study
+> **Evidence** · 13 claims (6 for, 7 mixed) · 26 studies (10 quant-synthesis, 8 review, 4 causal, 3 theoretical, 1 associational), `q1`–`q4` · 10 of 26 report an effect size · 7 claims rest on one study
 
 ## Description
 Inquiry places learners in the role of investigator: they pose or pursue questions, collect and evaluate evidence, and construct explanations with instructor support. It ranges along a continuum from structured (instructor-provided question and procedure) to open (learner-generated questions and methods), with the instructor acting as [Coaching](coaching.md) and facilitator rather than primary explainer.

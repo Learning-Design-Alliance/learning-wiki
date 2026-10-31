@@ -49,7 +49,7 @@ A meta-analysis of controlled experiments testing reflective interventions inten
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does keeping a reflective journal or doing regular written reflection improve learning over instruction without it?* This table gathers the studies behind this claim and the 16 narrower claims that bear on it: **15 distinct studies** (8 causal, 4 review, 2 quant-synthesis, 1 theoretical), `q1`–`q4`, 4 of 15 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does reflecting on a performance improve later learning over no reflection or ordinary instruction?* This table gathers the studies behind this claim and the 16 narrower claims that bear on it: **15 distinct studies** (8 causal, 4 review, 2 quant-synthesis, 1 theoretical), `q1`–`q4`, 4 of 15 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -121,3 +121,4 @@ A meta-analysis of controlled experiments testing reflective interventions inten
 - [Feedback-recipience interventions comprise 14 component categories, but evidence on their effectiveness comes mostly from descriptive and anecdotal reports rather than controlled comparison](feedback-interventions-fourteen-components.md) — related
 - [Evidence for metacognitive intervention effectiveness in low-SES populations is inconsistent and weak despite the interventions' high-impact toolkit rating](metacognitive-interventions-low-ses-evidence-weak.md) — related
 - [Direct metacognitive instruction improves learning strategies and achievement, with largest effects when strategy instruction is combined with strategy knowledge, longer duration, and in mathematics](metacognitive-instruction-effects-meta-analyses.md) — related
+- [Learning Cycle Model, Use of Animation, Reflective Diaries and Multiple Intelligence Theory Based Teaching each had very large retention effect sizes for pre-service teachers](retention-very-large-effect-sizes-meta-analysis.md) — related

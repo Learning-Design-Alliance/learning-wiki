@@ -17,7 +17,7 @@ sources:
 # Implement computer-based teaching as a complement to the teacher that individualizes learning pace and provides immediate feedback
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 2 studies (1 review), `q2`–`q3` · 0 of 2 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 2 studies (1 quant-synthesis, 1 review), `q2`–`q3` · 0 of 2 report an effect size · 6 claims rest on one study
 
 ## Description
 The article describes CBT as educational content or activities conveyed through the computer, functioning as "a complementary and supportive part of the educational process, not as an alternative to the teacher." It reports that CBT lets each student learn at their own pace, provides immediate feedback and reinforcement, and makes learning more interesting through game-like activities. To reach effective results, the article specifies requirements including well-planned programs, internet connections, clear instructions, and computer-competent teachers.

@@ -76,3 +76,4 @@ Ngo et al. (2024) point the other way from this claim: across ASR studies, pract
 - [In this inquiry, student pairs work better than groups of three because larger groups risk disengaging members](pairs-better-than-triads-in-stellar-inquiry.md) — related
 - [Positive attitudes towards English and high motivation are associated with better pronunciation outcomes](motivation-associated-better-pronunciation-outcomes.md) — related
 - [Overall CPSE did not differ significantly between individual programming and RTC-based collaborative programming](cpse-similar-individual-and-collaborative-programming.md) — related
+- [Mixed responding (individual plus choral) was slightly more effective than choral responding alone in the one study that tested it](mixed-td-otr-slightly-more-effective.md) — related

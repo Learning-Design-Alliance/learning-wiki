@@ -16,18 +16,22 @@ sources:
     author: "HyeJin Hwang, Sonia Q. Cabell & Rachel E. Joyner"
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
   - id: hyejin-hwang-2021-2
     resource: "https://doi.org/10.1080/10888438.2021.1954005"
     title: "HyeJin Hwang, Sonia Q. Cabell & Rachel E. Joyner (2021). Effects of Integrated Literacy and Content-area Instruction on Vocabulary and Comprehension in the Elementary Years: A Meta-analysis. Scientific Studies of Reading. https://doi.org/10.1080/10888438.2021.1954005"
     author: "HyeJin Hwang, Sonia Q. Cabell & Rachel E. Joyner"
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Integrated literacy and content-area instruction significantly improves comprehension, including on standardized measures (g = 0.40 overall; g = 0.25 standardized)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -39,7 +43,7 @@ sources:
 
 HyeJin Hwang, Sonia Q. Cabell & Rachel E. Joyner (2021). Effects of Integrated Literacy and Content-area Instruction on Vocabulary and Comprehension in the Elementary Years: A Meta-analysis. Scientific Studies of Reading. https://doi.org/10.1080/10888438.2021.1954005
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r2`
 
 Random-effects meta-analysis of 149 comprehension effect sizes from 35 studies. The pooled effect was "g = 0.40", CI [.19, .62], p < .001; heterogeneity was substantial (I2 = 81.58), suggesting moderator analysis.
 
@@ -49,7 +53,7 @@ Random-effects meta-analysis of 149 comprehension effect sizes from 35 studies. 
 
 HyeJin Hwang, Sonia Q. Cabell & Rachel E. Joyner (2021). Effects of Integrated Literacy and Content-area Instruction on Vocabulary and Comprehension in the Elementary Years: A Meta-analysis. Scientific Studies of Reading. https://doi.org/10.1080/10888438.2021.1954005
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r2`
 
 Measure-type subgroup analyses for comprehension. Both researcher-developed (g = 0.54) and standardized outcomes (g = 0.25, CI [.04, .46]) were significant, unlike the vocabulary pattern. Converting to U3, about 69% and 60% of treatment students exceeded the control mean on researcher-developed and standardized measures respectively.
 

@@ -47,3 +47,4 @@ Frequency analysis of feedback components across the 39 papers, reported in Resu
 ## Related Claims
 - [AI in psychomotor ITS is used predominantly for feedback construction rather than for task recommendation or adaptation](its-ai-feedback-over-recommendation.md) — related
 - [The CPR Tutor architecture classifies a chest compression in about 70 milliseconds, supporting real-time feedback provision](cpr-tutor-real-time-classification-speed.md) — a narrower finding that bears on this claim
+- [Feedback-based CPR training is associated with more accurate chest compression performance than standard instruction](feedback-based-cpr-training-improves-compression-performance.md) — related

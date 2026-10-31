@@ -59,3 +59,4 @@ The review reports, citing Yu (2023), a mixed-methods study of university studen
 - [Students using AI-driven EFL tools showed notable improvements in vocabulary, grammar, speaking fluency, and comprehension compared to traditional methods, per the review's synthesis](ai-efl-skill-improvements-vs-traditional.md) — related
 - [Gamification elements significantly affected students' achievements](gamification-elements-significantly-affected-achievements.md) — a broader claim this one bears on
 - [Scaffolding in a handheld sensor-based vocabulary game significantly improved low-achieving EFL students' motivation and performance](scaffolding-sensor-vocabulary-game-improves-low-achievers.md) — a narrower finding that bears on this claim
+- [Review-reported study: locally produced videos enhanced Chilean EFL learners' English language skills and motivation](review-reported-videos-enhance-efl-skills-motivation.md) — related

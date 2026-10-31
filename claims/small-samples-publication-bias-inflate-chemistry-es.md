@@ -16,12 +16,14 @@ sources:
     author: "Sugano, S. G. C., & Nabua, E. B."
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Small sample sizes and publication bias against non-significant findings may inflate meta-analytic effect size estimates in the chemistry teaching-method categories
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Sugano, S. G. C., & Nabua, E. B. (2020). Meta-Analysis on the Effects of Teaching Methods on Academic Performance in Chemistry. International Journal of Instruction, 13(2), 881-894. https://doi.org/10.29333/iji.2020.13259a
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Authors' interpretation (discussion) of the forest plot (Figure 1): problem-based learning had "the widest range of interval and yet possessed a large over-all effect size", attributed to small sample sizes, and a negative correlation between sample size and effect sizes is cited (Levine et al, 2009).
 

@@ -16,12 +16,14 @@ sources:
     author: Amy B. Holmes, Vanderbilt University
     q: 3
     i: 1
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Virtual manipulatives show a non-significant advantage over physical manipulatives on mathematics achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i1` small
 > **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Amy B. Holmes, Vanderbilt University. (2013). Effects of Manipulative Use on PK-12 Mathematics Achievement: A Meta-Analysis. SREE Spring 2013 Conference Abstract. https://eric.ed.gov/?id=ED563072
 
-`q3 · i1`
+`q3 · i1` · `quant-synthesis · r2`
 
 Separate random-effects meta-analysis of 7 studies (7 effect sizes, 393 students) comparing virtual manipulatives use to business-as-usual physical manipulatives use. The pooled standardized mean difference effect size of 0.20 was statistically non-significant; equivalence was not tested.
 

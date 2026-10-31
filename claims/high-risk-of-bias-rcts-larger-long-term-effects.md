@@ -16,12 +16,14 @@ sources:
     author: Natalie S. Pak, Jason C. Chow, Kelsey M. Dillehay, and Ann P. Kaiser
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # In randomized trials, long-term outcomes rated high risk of bias had larger significant effects (g = .29) than low/some-concerns outcomes (g = .07, nonsignificant)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Natalie S. Pak, Jason C. Chow, Kelsey M. Dillehay, and Ann P. Kaiser. (2023). Long-Term Effects of Early Communication Interventions: A Systematic Review and Meta-Analysis. Journal of Speech, Language, and Hearing Research. https://doi.org/10.1044/2023_JSLHR-22-00711
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Random-effects meta-analysis with RVE using overall risk of bias rating as a predictor among randomized trial outcomes (low/some concerns k = 12, n = 50; high risk k = 10, n = 41). The article links high risk partly to context-bound outcome measurement, where condition and assessment contexts covary.
 
@@ -46,3 +48,6 @@ Random-effects meta-analysis with RVE using overall risk of bias rating as a pre
 - [For linguistic outcomes, long-term effects were larger for children with DLD (g = .36, marginal) than for autistic children (g = .01, nonsignificant)](dld-vs-autism-linguistic-long-term-effects.md) — related
 - [Included single-case design studies show high risk of bias on procedural fidelity and outcome-assessor blinding](sced-risk-of-bias-procedural-fidelity.md) — related
 - [Long-term intervention effects are larger for prelinguistic outcomes (g = .36) than for linguistic outcomes (g = .14, nonsignificant)](prelinguistic-outcomes-larger-long-term-effects-than-linguistic.md) — related
+- [Most included studies carried a high risk of bias or some concerns, particularly for confounding and outcome measurement, limiting certainty](peer-tutoring-simulation-risk-of-bias.md) — related
+- [The review synthesizes 13 RCTs and pilot studies (2014-2025), most at low risk of bias, with meta-analysis prevented by heterogeneity](systematic-review-13-rcts-ir-dental.md) — related
+- [No included randomized comparison was at low risk of bias, and all 17 non-randomized comparisons were rated serious risk under ROBINS-I](pe-teaching-model-evidence-risk-of-bias-serious.md) — related

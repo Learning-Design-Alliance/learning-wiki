@@ -53,3 +53,4 @@ Meta-analysis of five CBL studies using Hedges' d under a fixed-effect model; th
 - [Self-regulated learning interventions have a moderate effect (0.65) on learning outcomes in online and blended environments](srl-interventions-moderate-effect-online-blended.md) — related
 - [Digital story applications have a high positive average effect on students' academic achievement compared to other teaching methods (ES = 0.750)](digital-story-high-positive-effect-academic-achievement.md) — related
 - [Individual study effect sizes range from -0.07 to 3.35, with most classified as moderate to amazing effects](effect-size-distribution-range-indonesian-studies.md) — related
+- [AR applications have a medium positive pooled effect (ES = 0.517) on students' academic achievement compared with traditional learning methods](ar-medium-positive-effect-academic-achievement.md) — related

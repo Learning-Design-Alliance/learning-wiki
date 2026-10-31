@@ -16,12 +16,14 @@ sources:
     author: "Juandi, D., Kusumah, Y. S., & Tamur, M."
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # RME effects are larger in studies with small samples (30 or fewer) than large samples (31 or more)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i3` large
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Juandi, D., Kusumah, Y. S., & Tamur, M. (2022). A Meta-Analysis of the Last Two Decades of Realistic Mathematics Education Approaches. International Journal of Instruction, 15(1), 381-400. https://doi.org/10.29333/iji.2022.15122a
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r3`
 
 Moderator analysis of 54 effect sizes: the 23 samples with 30 or fewer students yielded g = 1.19 versus g = 0.56 for the 31 samples with 31 or more students; heterogeneity test significant (Qb = 84.51, p = 0.00).
 

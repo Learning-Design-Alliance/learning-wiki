@@ -42,7 +42,8 @@ The article proposes a PBL in AI-IVE (AI-IVE-PBL) model that combines the advant
 - 
 
 ## Related Designs
-- 
+
+- [Virtual actualization: combining e-learning with performance learning so students actualize virtual learning outcomes into concrete projects](virtual-actualization-model.md)
 
 ## Examples
 -

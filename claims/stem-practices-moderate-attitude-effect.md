@@ -16,12 +16,14 @@ sources:
     author: Saraç, H.
     q: 3
     i: 1
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # STEM educational practices have a moderate positive effect on students' attitude toward the course (REM ES = 0.620)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i1` small
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Saraç, H. (2018). The Effect of Science, Technology, Engin eering and Mathematics-Stem Educational Practices on Students’ Learning Outcomes: A Meta-Analysis Study. TOJET: The Turkish Online Journal of Educational Technology, 17(2). https://eric.ed.gov/?id=EJ1176176
 
-`q3 · i1`
+`q3 · i1` · `quant-synthesis · r2`
 
 Random-effects meta-analysis of 18 attitude effect sizes comparing STEM educational practices with traditional teaching. The REM mean was "0.620" with 95% CI [0.403, .836], a middle-level effect; heterogeneity (Q = 73.722, p = 0.00) justified REM.
 
@@ -48,3 +50,4 @@ Random-effects meta-analysis of 18 attitude effect sizes comparing STEM educatio
 - [STEM educational practices have a large positive effect on students' scientific process skills (REM ES = 0.820)](stem-practices-large-scientific-process-skills-effect.md) — related
 - [STEM educational practices have a moderate positive effect on students' academic achievement compared with traditional teaching (REM ES = 0.442)](stem-practices-moderate-academic-achievement-effect.md) — related
 - [Attitude effects of STEM practices differ significantly by education level but not by publication type or lesson type](stem-attitude-moderators-education-level.md) — related
+- [Gamified clinical skill learning moderately improves student attitudes toward learning, based on a small evidence base](gamified-learning-moderate-attitude-gains.md) — related

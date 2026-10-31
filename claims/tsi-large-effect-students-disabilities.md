@@ -16,12 +16,14 @@ sources:
     author: "Hebert, M., Bohaty, J. J., Nelson, J. R., & Brown, J."
     q: 2
     i: 3
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Text structure instruction has a large effect for students with or at-risk for learning disabilities (g = 0.96)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2` · `i3` large
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Hebert, M., Bohaty, J. J., Nelson, J. R., & Brown, J. (2016). The effects of text structure instruction on expository reading comprehension: A meta-analysis. Journal of Educational Psychology, 108(5), 609–629. https://doi.org/10.1037/edu0000082
 
-`q2 · i3`
+`q2 · i3` · `quant-synthesis · r2`
 
 Breakout analysis (RQ1c) of eight studies of students with or at-risk for learning disabilities, using aggregated effects across subgroups and measures; seven of eight studies showed positive effects. The review reports "a significant average weighted effect size of 0.96", i.e., g = 0.96, a large effect.
 

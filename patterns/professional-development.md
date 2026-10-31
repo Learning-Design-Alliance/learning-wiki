@@ -38,7 +38,7 @@ sources:
 # Professional Development
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 51 claims (33 for, 14 mixed, 4 against) · 45 studies (11 review, 10 qualitative, 8 causal, 7 quant-synthesis, 4 design, 3 theoretical, 2 associational), `q1`–`q4` · 7 of 45 report an effect size · 45 claims rest on one study
+> **Evidence** · 52 claims (34 for, 14 mixed, 4 against) · 46 studies (11 review, 10 qualitative, 8 causal, 8 quant-synthesis, 4 design, 3 theoretical, 2 associational), `q1`–`q4` · 8 of 46 report an effect size · 46 claims rest on one study
 
 ## Description and scope
 
@@ -177,6 +177,7 @@ This pattern is scoped to changing one observable teaching practice through enac
 - [Classroom observations confirmed that SRI teachers modeled and evaluated strategies more frequently than control teachers](../claims/sri-implementation-observations-modeling-evaluation.md) [~W]
 - [SQU ELT trainers encouraged peer observation and same-day feedback sessions, with 78.9% of trainees agreeing trainers encouraged class visits and 81.9% agreeing feedback came the same day as observation](../claims/squ-trainers-encouraged-peer-observation-and-same-day-feedback.md) [~W]
 - High Hours Professional Development Linked Reform Practice [+M]
+- [Prior meta-analyses report moderate positive pooled effect sizes of teacher PD on instructional practice and teacher knowledge outcomes](../claims/prior-pd-teacher-practice-meta-analyses-moderate-effects.md) [+M]
 
 ## Related Patterns
 

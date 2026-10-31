@@ -54,3 +54,4 @@ Observational analysis of NELS student and teacher surveys relating competency i
 - [K-12 officials increasingly attend to postsecondary outcomes but many are unsure how best to use the data](officials-unsure-how-to-use-postsecondary-data.md) — related
 - The report analyzes several competencies simultaneously rather than one at a time — related
 - [Early prosocial behavior predicted later academic achievement more strongly than early academic skills](prosocial-behavior-predicts-achievement.md) — related
+- [Peer tutoring benefits extend to the tutors themselves, including confidence, autonomy, leadership, teamwork, and empowerment](peer-tutor-role-benefits-to-tutors.md) — related

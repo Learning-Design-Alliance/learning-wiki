@@ -16,12 +16,14 @@ sources:
     author: Young-Suk Grace Kim, Dandan Yang, Marcela Reyes, Carol Connor
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # For writing quality, SRSD outperformed transcription instruction (β = 1.32) and effects were larger for weak writers (β = 0.92), both significant
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Young-Suk Grace Kim, Dandan Yang, Marcela Reyes, Carol Connor. (2021). Writing instruction improves students' writing skills differentially depending on focal instruction and children: A meta-analysis for primary grade students. Educational Research Review 34. https://doi.org/10.1016/j.edurev.2021.100408
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Meta-regression of instructional focus by writing skill status for writing quality, with transcription for typical writers as the reference condition. For productivity, SRSD showed a trend for weak writers (β = 0.70, p = .06) that did not reach significance.
 

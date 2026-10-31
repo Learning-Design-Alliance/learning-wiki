@@ -48,3 +48,4 @@ Within-participant comparison of LLM-judged 3E scores across two counterbalanced
 - [Participants with prior communication-training experience achieved higher overall 3E scores than those without](prior-training-higher-3e-scores.md) — related
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — a broader claim this one bears on
 - [HAL's text-based human-likeness advantage did not transfer to embodied audiovisual interaction, and measured 3E performance was virtually identical between models](hal-human-likeness-did-not-transfer-embodied.md) — related
+- [Learner self-reported improvement after AI-generated virtual patient training is sometimes discordant with observed or cohort-comparison performance](ai-virtual-patient-self-report-performance-discordance.md) — related

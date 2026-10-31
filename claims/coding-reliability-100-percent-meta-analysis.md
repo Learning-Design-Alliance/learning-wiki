@@ -16,12 +16,14 @@ sources:
     author: Nurşat Biçer
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Coding of included studies reached 100% inter-coder reliability using the agreement formula
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Nurşat Biçer. (2017). The Influence of Student-centered Methods in Turkish Language Instruction on Academic Success: A Meta-analysis Study. Universal Journal of Educational Research 5(4). https://doi.org/10.13189/ujer.2017.050419
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Methodological reliability check of the meta-analysis coding process: studies were also examined by an independent second coder who filled out the article evaluation form, and completed forms were compared. The article reports the reliability rate "resulted to be 100% for the current study."
 

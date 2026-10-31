@@ -51,3 +51,4 @@ Random-effects meta-analysis of 79 effect quantities from 36 experimental or qua
 - [Science-related subject areas (mathematics, science, medical science) show larger effects than programming technology and other fields](subject-area-moderates-cps-critical-thinking-effects.md) — related
 - [Gen-AI has a moderate positive overall effect on students' higher-order thinking (g = 0.609) across 29 experimental and quasi-experimental studies](genai-moderate-positive-effect-hot.md) — related
 - [Gen-AI's effect on HOT is strongest for problem-solving ability (g = 0.745), followed by critical thinking (g = 0.691), with a smaller effect on creativity (g = 0.444)](genai-hot-dimension-effect-sizes.md) — related
+- [Flipped classroom improves cooperation and communication skills (pooled RR 1.60)](fc-cooperation-communication-rr-160.md) — related

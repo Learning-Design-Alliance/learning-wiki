@@ -16,12 +16,14 @@ sources:
     author: Natalie S. Pak, Jason C. Chow, Kelsey M. Dillehay, and Ann P. Kaiser
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Long-term intervention effects are larger for prelinguistic outcomes (g = .36) than for linguistic outcomes (g = .14, nonsignificant)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Natalie S. Pak, Jason C. Chow, Kelsey M. Dillehay, and Ann P. Kaiser. (2023). Long-Term Effects of Early Communication Interventions: A Systematic Review and Meta-Analysis. Journal of Speech, Language, and Hearing Research. https://doi.org/10.1044/2023_JSLHR-22-00711
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Meta-regression on the 129 effect sizes categorized as prelinguistic (k = 13, n = 54; e.g., joint attention, rate of vocalization) versus linguistic (k = 18, n = 75; e.g., vocabulary, mean length of utterance). The quote reports both estimates with SEs and p-values as printed.
 

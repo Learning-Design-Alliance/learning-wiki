@@ -16,18 +16,22 @@ sources:
     author: "Polanin, J. R., Austin, M., Taylor, J. A., Steingut, R. R., Rodgers, M. A., & Williams, R."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
   - id: polanin-2024-2
     resource: "https://doi.org/10.1177/23328584241269866"
     title: "Polanin, J. R., Austin, M., Taylor, J. A., Steingut, R. R., Rodgers, M. A., & Williams, R. (2024). Effects of the 5E Instructional Model: A Systematic Review and Meta-Analysis. AERA Open. https://doi.org/10.1177/23328584241269866"
     author: "Polanin, J. R., Austin, M., Taylor, J. A., Steingut, R. R., Rodgers, M. A., & Williams, R."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # The 7E model showed larger science effects than the 3E model, but evidence for 7E superiority is limited by few and geographically concentrated studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Polanin, J. R., Austin, M., Taylor, J. A., Steingut, R. R., Rodgers, M. A., & Williams, R. (2024). Effects of the 5E Instructional Model: A Systematic Review and Meta-Analysis. AERA Open. https://doi.org/10.1177/23328584241269866
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Confirmatory moderator analysis for the science domain found "statistically significant differences between the 3E, 5E, and 7E models (F = 5.03, p = .03)"; posthoc tests showed 7E (g = 1.23) exceeded 3E (g = 0.42).
 
@@ -50,7 +54,7 @@ Confirmatory moderator analysis for the science domain found "statistically sign
 
 Polanin, J. R., Austin, M., Taylor, J. A., Steingut, R. R., Rodgers, M. A., & Williams, R. (2024). Effects of the 5E Instructional Model: A Systematic Review and Meta-Analysis. AERA Open. https://doi.org/10.1177/23328584241269866
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Posthoc comparisons found no significant difference between the 5E model and either other variant; only k = 7 (3E) and k = 6 (7E) studies contributed science effects.
 

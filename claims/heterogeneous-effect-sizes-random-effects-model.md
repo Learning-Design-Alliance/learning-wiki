@@ -16,12 +16,14 @@ sources:
     author: "Setiawan, A. A., Muhtadi, A., & Hukom, J."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Effect sizes across the included Indonesian blended-learning studies are heterogeneous, so a random effects model is used
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Setiawan, A. A., Muhtadi, A., & Hukom, J. (2022). Blended Learning and Student Mathematics Ability in Indonesia: A Meta-Analysis Study. International Journal of Instruction, 15(2), 905-916. https://doi.org/10.29333/iji.2022.15249a
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Heterogeneity analysis of the 36 included effect sizes reported in Table 3. The Q statistic of "279.146" with p < .001 led the authors to conclude the effect size distribution is heterogeneous and to choose the random effects model.
 
@@ -52,3 +54,5 @@ Heterogeneity analysis of the 36 included effect sizes reported in Table 3. The 
 - [Effect sizes across the 31 included studies are highly heterogeneous (I² = 81.957%), warranting a random effects model](high-heterogeneity-i2-82-traditional-methods.md) — related
 - [Individual studies of digital story effects are highly heterogeneous, requiring a random effects model](digital-story-studies-heterogeneous-random-effects.md) — related
 - [Effect size distributions were heterogeneous for knowledge-based, ability-based, and attitude-belief outcomes but homogeneous for skill-based outcomes](problem-posing-effect-heterogeneity.md) — related
+- [The pooled effect-size distribution is highly heterogeneous but resistant to publication bias](heterogeneity-and-publication-bias-assessment.md) — related
+- [Effect sizes across included studies are highly heterogeneous (I² = 94.79%), requiring a random-effects model](high-heterogeneity-random-effects-cre-meta-analysis.md) — related

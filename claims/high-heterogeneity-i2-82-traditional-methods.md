@@ -16,12 +16,14 @@ sources:
     author: "San, I. & Kis, A."
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Effect sizes across the 31 included studies are highly heterogeneous (I² = 81.957%), warranting a random effects model
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 San, I. & Kis, A. (2018). Effect of traditional methods in geometry and numbers learning domains on academic achievement: A Meta-analysis study. International Journal of Research in Education and Science (IJRES), 4(2), 544-554. https://doi.org/10.21890/ijres.428950
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Heterogeneity statistics reported in Table 3 of the meta-analysis; the significant Q and high I² led the authors to use the random effects model, since "true effect sizes vary from study to study".
 
@@ -52,3 +54,5 @@ Heterogeneity statistics reported in Table 3 of the meta-analysis; the significa
 - [Effect sizes linking growth mind-set to achievement are highly heterogeneous and often nonsignificant](mindset-achievement-heterogeneity-high.md) — related
 - [The effect sizes of drama-based social studies instruction are highly heterogeneous across studies](drama-social-studies-effect-sizes-heterogeneous.md) — related
 - [The distribution of effect sizes across the 19 studies is heterogeneous (Q = 202.569, exceeding the critical value of 38.582), requiring a random effects model](web20-meta-analysis-heterogeneous-random-effects.md) — related
+- [The pooled effect-size distribution is highly heterogeneous but resistant to publication bias](heterogeneity-and-publication-bias-assessment.md) — related
+- [Effect sizes across included studies are highly heterogeneous (I² = 94.79%), requiring a random-effects model](high-heterogeneity-random-effects-cre-meta-analysis.md) — related

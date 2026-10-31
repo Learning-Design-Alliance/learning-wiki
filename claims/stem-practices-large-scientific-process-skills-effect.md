@@ -16,12 +16,14 @@ sources:
     author: Saraç, H.
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # STEM educational practices have a large positive effect on students' scientific process skills (REM ES = 0.820)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Saraç, H. (2018). The Effect of Science, Technology, Engin eering and Mathematics-Stem Educational Practices on Students’ Learning Outcomes: A Meta-Analysis Study. TOJET: The Turkish Online Journal of Educational Technology, 17(2). https://eric.ed.gov/?id=EJ1176176
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r2`
 
 Random-effects meta-analysis of 13 scientific process skills effect sizes comparing STEM educational practices with traditional teaching. The REM mean was "0.820" with 95% CI [0.482, 1.157], a large effect; heterogeneity (Q = 165.766, p = 0.00) justified REM.
 

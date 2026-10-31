@@ -58,3 +58,4 @@ Among 11 studies assessing knowledge or skills outcomes, the review reports that
 - [Reported outcomes of AI-supported university physics education are mixed and context-dependent, and the evidence does not support a conclusion that AI is uniformly effective](ai-physics-outcomes-mixed-context-dependent.md) — related
 - [Persistent technical limitations constitute an authenticity gap in AI-powered nursing simulations](ai-simulation-authenticity-gap.md) — related
 - [Live simulations with real patients showed the greatest effects among simulation types (g = 2.27, medical education only)](simulation-type-moderates-effectiveness.md) — related
+- [AI-generated virtual patients in HPE are used mainly for teaching and learning communication skills, diagnostic reasoning and management reasoning, with assessment a minority use case](ai-virtual-patients-hpe-use-case-range.md) — related

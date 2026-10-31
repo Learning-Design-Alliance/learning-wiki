@@ -54,3 +54,4 @@ Descriptive coding of collaboration regulation tools across the 62 reviewed publ
 - A systematic review found literature reviews on collaborative learning in VR use very broad VR definitions, with few included papers using HMDs — related
 - [Comparison and integration of different types of group awareness information is a research gap despite firmly established positive tool effects](group-awareness-information-types-comparison-gap.md) — related
 - [Collaborative VRLs are predominantly STEM-focused, virtual, non co-located, synchronous, and 2D](vrl-collaboration-corpus-properties.md) — related
+- [Collaboration is rarely explicitly designed or measured in virtual-laboratory physics studies despite group work being the norm](collaboration-rarely-designed-or-measured.md) — related

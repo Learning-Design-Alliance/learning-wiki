@@ -16,12 +16,14 @@ sources:
     author: M. Rais Ridwan, Samsul Hadi, Jailani Jailani
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Estimated cooperative learning efficacy is higher in studies published in SINTA and GARUDA indexed journals (1.04) than in Google Scholar indexed articles or proceedings (0.73)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 M. Rais Ridwan, Samsul Hadi, Jailani Jailani. (2022). A meta-analysis study on the effectiveness of a cooperative learning model on vocational high school students' mathematics learning outcomes. Participatory Educational Research, 9(4). http://dx.doi.org/10.17275/per.22.97.9.4
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r2`
 
 Moderator analysis by journal index within the random-effects meta-analysis (Table 4), with an effect size of "1.04" for SINTA/GARUDA [0.74; 1.33], z = 6.80, versus "0.73" for Google Scholar [0.57; 0.89], z = 8.80, both p <0.001.
 

@@ -16,12 +16,14 @@ sources:
     author: "Yildirim, E., Tikman, F., & Senturk, M."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # The effect sizes of drama-based social studies instruction are highly heterogeneous across studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Yildirim, E., Tikman, F., & Senturk, M. (2022). Meta-analysis on the effectiveness of using the drama approach in social studies course. International Journal on Social and Education Sciences (IJonSES), 4(1), 17-33. https://doi.org/10.46328/ijonses.301
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Homogeneity analysis of the 38 effect sizes in the meta-analysis. The Q test was significant (Q=173.666; p<.05) and the I² value of 78.695% was interpreted as "a high level of heterogeneity", which the authors state justified using the random effects model.
 
@@ -52,3 +54,5 @@ Homogeneity analysis of the 38 effect sizes in the meta-analysis. The Q test was
 - [Effect sizes across the 31 included studies are highly heterogeneous (I² = 81.957%), warranting a random effects model](high-heterogeneity-i2-82-traditional-methods.md) — related
 - [Effect sizes of small-group learning studies in engineering and technology education are significantly heterogeneous, justifying moderator analyses](small-group-effect-sizes-heterogeneous-engineering-technology.md) — a narrower finding that bears on this claim
 - [Effect sizes across the 38 comparisons are highly heterogeneous, requiring a random-effects model](stem-digital-meta-heterogeneous-random-effects.md) — related
+- [Effect sizes of creative drama studies are heterogeneous (Q = 60.78, df = 39, p < .05), motivating moderator analyses](creative-drama-effect-sizes-heterogeneous.md) — related
+- [Effect sizes do not differ significantly between selected-student and whole-class applications, with class-based applications slightly higher (g = 1.253 vs 1.245)](no-significant-difference-by-application-type.md) — related

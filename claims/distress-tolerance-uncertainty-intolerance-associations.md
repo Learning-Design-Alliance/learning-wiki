@@ -55,3 +55,5 @@ Narrative review attribution: the article reports that empirical studies have "c
 - [Mental health, especially depression, is probably the single most decisive factor in refugee language learning](depression-decisive-factor-refugee-language-learning.md) — related
 - [Conscientiousness is linked to better mental health and lower vulnerability to internalizing disorders](conscientiousness-mental-health-associations.md) — related
 - [Epistemological beliefs relate to tolerance of uncertainty: evaluativist approaches pair better with uncertainty in problem-solving than absolutist ones](epistemological-beliefs-uncertainty-tolerance.md) — related
+- [Psychological distress, particularly depression, consistently predicted poorer academic outcomes among university students across the reviewed literature](distress-predicts-poorer-academic-outcomes-university-students.md) — related
+- [Internet addiction shows strong comorbidity with depression, anxiety, and stress among health sciences students](ia-mental-health-comorbidity-strong.md) — related

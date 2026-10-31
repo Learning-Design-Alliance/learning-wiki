@@ -54,3 +54,4 @@ The review's multilevel meta-analysis of secondary behavioural outcomes reports 
 - [Positive developmental relationships and school connectedness protect against violence, absenteeism, and substance abuse, and increase threat reporting](positive-relationships-protect-against-violence.md) — related
 - [Greenspace schoolyards improve students' social interactions and relationships, but not pro-social behaviour](greenspace-schoolyards-improve-social-relationships.md) — related
 - [Empathy's association with student outcomes, especially cognitive achievement, is weakest and largely non-significant](teacher-empathy-student-outcomes-weakest.md) — related
+- [School-only substance use interventions such as HeadOn and SUPEP improved knowledge and attitudes without corresponding behavioural change](school-only-interventions-knowledge-attitude-no-behaviour-change.md) — related

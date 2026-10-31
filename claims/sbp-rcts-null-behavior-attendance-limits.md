@@ -75,3 +75,5 @@ The review attributes the null RCT findings partly to implementation: "SBP atten
 - [School breakfast programs show suggestive positive effects on academic performance, with clearest effects on mathematics and arithmetic grades in undernourished children](sbp-positive-academic-performance-undernourished.md) — related
 - [A binding state mandate makes schools 33 percentage points more likely to offer the SBP, and SBP availability increases math, reading, and science achievement in ECLS-K data](sbp-availability-increases-ecls-k-achievement.md) — related
 - [Quality of habitual breakfast, in terms of variety of food groups and adequate energy, is positively related to school performance](breakfast-quality-school-performance.md) — related
+- [Breakfast After the Bell shows benefits for attendance and behavior, but mixed evidence on test scores](batb-mixed-academic-evidence.md) — related
+- [School Breakfast Program availability is associated with better attendance and reading scores, especially among boys and lower-income students](sbp-attendance-reading-gains.md) — reports the opposite

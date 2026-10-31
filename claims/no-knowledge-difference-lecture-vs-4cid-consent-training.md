@@ -55,3 +55,4 @@ A study of 21 emergency care professionals, which its authors call quasi-experim
 - Workshop students achieved modestly higher final task-performance scores — related
 - [A 4C/ID-based online learning environment improves upper secondary students' research skills test scores from pretest to posttest](4cid-environment-improves-lrst-scores.md) — related
 - [No significant difference between groups on the thermodynamics achievement post-test or cognitive load scale after CLT-based versus lecturer-designed instruction](no-group-difference-tat-posttest-cls.md) — related
+- [An interactive workshop produced higher post-test knowledge scores than an e-learning course of equivalent content among nurses](interactive-workshop-outperforms-elearning-nurse-knowledge.md) — reports the opposite

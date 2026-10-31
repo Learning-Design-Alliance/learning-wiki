@@ -54,3 +54,4 @@ Pre-registered randomized experiment with N = 154 seventh-graders learning at ho
 - [Students' subjective appraisals of the remote inquiry lesson are comparable across conditions, and perceived cognitive demands correlate negatively with test scores](subjective-appraisals-comparable-demands-negatively-correlated.md) — related
 - [Inquiry learning in a virtual laboratory on Archimedes' principle produces significant conceptual knowledge gains in all three guidance conditions](significant-learning-gains-all-inquiry-conditions-archimedes.md) — a narrower finding that bears on this claim
 - [Leveraging appropriate types of guidance during the relevant phases of inquiry benefits student inquiry in virtual and remote labs](phase-appropriate-guidance-benefits-inquiry-labs.md) — related
+- [Virtual laboratories match physical laboratories on conceptual mastery, with domain-specific advantages and disadvantages](virtual-matches-physical-conceptual-mastery.md) — related

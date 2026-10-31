@@ -16,12 +16,14 @@ sources:
     author: "Eyüp Yurt & Seyat Polat"
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # The effect of multiple intelligence practices does not differ significantly by type of study (article, master's thesis, doctoral thesis)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Eyüp Yurt & Seyat Polat. (2015). The Effectiveness of Multiple Intelligence Applications on Academic Achievement: A Meta-Analysis. Journal of Social Studies Education Research 6(1), 84-122. https://eric.ed.gov/?id=EJ1105368
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Sub-group moderator analysis of the 81 comparisons classified by study type. The article reports quite approximate values and a non-significant homogeneity test result.
 
@@ -52,3 +54,7 @@ Sub-group moderator analysis of the 81 comparisons classified by study type. The
 - [Effect sizes differ significantly by publication type, with master's theses and articles showing higher effects than PhD theses.](moderator-publication-type-effect.md) — reports the opposite
 - [The effect of multiple intelligence practices does not differ significantly by instructional level](mi-effect-no-difference-instructional-level.md) — related
 - [The effect of multiple intelligence practices does not differ significantly by course type, though Social Sciences shows the highest and Physics-Chemistry the lowest value](mi-effect-no-difference-course-type.md) — related
+- [Effect of MIT-based instruction does not differ significantly between master's theses and doctoral dissertations](mit-effect-homogeneous-thesis-type.md) — related
+- [Effect sizes differ significantly by publication type, with master's theses highest (g = 1.443) and research articles lowest (g = 0.278)](significant-difference-by-publication-type.md) — related
+- [Effect of MIT-based instruction differs significantly by educational level, largest at high school (d = 1.516) and smallest at elementary (d = 0.925)](mit-effect-differs-by-educational-level.md) — related
+- [Effect of MIT-based instruction does not differ significantly by duration of experimental procedure](mit-effect-homogeneous-experiment-duration.md) — related

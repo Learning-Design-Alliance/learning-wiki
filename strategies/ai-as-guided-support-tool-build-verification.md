@@ -49,6 +49,7 @@ The article recommends that educators position AI as an augmentation rather than
 - [Embed AI in guided accept/reject/justify workflows, teach digital critical thinking explicitly, and integrate institutional authorship standards](embed-ai-guided-workflows-explicit-dct-instruction.md)
 - [Embed verification routines and cognitive forcing functions into AI-supported learning tasks](verification-routines-cognitive-forcing-ai-tasks.md)
 - [Blend foundational CS concepts with prompt-specific strategies as a complementary entry pathway into computing](prompting-as-complementary-cs-entry-pathway.md)
+- [Frame LLM use in biomedical education around low‐stakes formative tasks with expert‐guided verification and rationale requests](llm-low-stakes-formative-use-expert-verification-strategy.md)
 
 ## Examples
 -

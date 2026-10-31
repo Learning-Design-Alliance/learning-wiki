@@ -16,18 +16,22 @@ sources:
     author: "Hebert, M., Bohaty, J. J., Nelson, J. R., & Brown, J."
     q: 3
     i: 1
+    kind: quant-synthesis
+    rigour: 3
   - id: hebert-2016-2
     resource: "https://doi.org/10.1037/edu0000082"
     title: "Hebert, M., Bohaty, J. J., Nelson, J. R., & Brown, J. (2016). The effects of text structure instruction on expository reading comprehension: A meta-analysis. Journal of Educational Psychology, 108(5), 609–629. https://doi.org/10.1037/edu0000082"
     author: "Hebert, M., Bohaty, J. J., Nelson, J. R., & Brown, J."
     q: 3
     i: 1
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Teaching more text structures and including writing each increase the effect of text structure instruction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r2`–`r3` · `q3` · `i1` small
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Hebert, M., Bohaty, J. J., Nelson, J. R., & Brown, J. (2016). The effects of text structure instruction on expository reading comprehension: A meta-analysis. Journal of Educational Psychology, 108(5), 609–629. https://doi.org/10.1037/edu0000082
 
-`q3 · i1`
+`q3 · i1` · `quant-synthesis · r3`
 
 Meta-regression (RQ1b) with number of structures (0–5) as a continuous moderator; number of structures taught, writing, and competing treatments were significant contributors. The review reports "an expected increase in the effect size of 0.13 for each additional text structure taught".
 
@@ -50,7 +54,7 @@ Meta-regression (RQ1b) with number of structures (0–5) as a continuous moderat
 
 Hebert, M., Bohaty, J. J., Nelson, J. R., & Brown, J. (2016). The effects of text structure instruction on expository reading comprehension: A meta-analysis. Journal of Educational Psychology, 108(5), 609–629. https://doi.org/10.1037/edu0000082
 
-`q3 · i1`
+`q3 · i1` · `quant-synthesis · r2`
 
 Same meta-regression; the writing dummy coefficient was B = 0.38. The authors note the bivariate correlation between writing and effect size was only .10, illustrating the importance of controlling for other moderators.
 

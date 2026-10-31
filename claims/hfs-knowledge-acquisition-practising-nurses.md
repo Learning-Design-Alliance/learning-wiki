@@ -1,0 +1,54 @@
+---
+type: claim
+title: High-fidelity simulation training improves knowledge acquisition among practising registered nurses (moderate pooled effect)
+description: High-fidelity simulation training improves knowledge acquisition among practising registered nurses (moderate pooled effect)
+id: hfs-knowledge-acquisition-practising-nurses
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-31
+evidence_strength: moderate
+newest_evidence: 2026
+sources:
+  - id: zhou-jie-2026
+    resource: "https://doi.org/10.1111/jocn.70206"
+    title: "Zhou Jie, Zhang Guowen, Song Peige, Liaw Sok Ying, Luk Tzu Tsun. (2026). Effects of High‐Fidelity Simulation Training on Learning Outcomes and Satisfaction for Practising Registered Nurses: A Systematic Review and Meta‐Analysis. Journal of Clinical Nursing. https://doi.org/10.1111/jocn.70206"
+    author: Zhou Jie, Zhang Guowen, Song Peige, Liaw Sok Ying, Luk Tzu Tsun
+    q: 3
+    i: 2
+    kind: quant-synthesis
+    rigour: 3
+---
+
+# High-fidelity simulation training improves knowledge acquisition among practising registered nurses (moderate pooled effect)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i2` medium
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q3 i2` Meta-analysis of six studies (185 nurses) found HFS training produced a moderate, significant improvement in knowledge acquisition compared with traditional methods (SMD = 0.65), with no heterogeneity. [→ Zhou Jie 2026](#zhou-jie-2026)
+
+## Evidence
+
+### Zhou Jie 2026
+
+Zhou Jie, Zhang Guowen, Song Peige, Liaw Sok Ying, Luk Tzu Tsun. (2026). Effects of High‐Fidelity Simulation Training on Learning Outcomes and Satisfaction for Practising Registered Nurses: A Systematic Review and Meta‐Analysis. Journal of Clinical Nursing. https://doi.org/10.1111/jocn.70206
+
+`q3 · i2` · `quant-synthesis · r3`
+
+Inverse-variance random-effects meta-analysis of five RCTs and one quasi-experiment pooling knowledge outcomes from 185 practising registered nurses, most using self-reported author-developed instruments. The review reports "a moderate effect of HFS on knowledge acquisition" with "no notable heterogeneity". One additional study was excluded for skewness.
+
+> "The random‐effects model revealed a moderate effect of HFS on knowledge acquisition (SMD = 0.65, 95% CI, [0.35, 0.95], p < 0.01), with no notable heterogeneity (I2 = 0%, p = 0.62)"
+
+## Discussion
+
+
+## Related Claims
+- [High-fidelity simulation training improves professional skills among practising registered nurses (moderate pooled effect)](hfs-professional-skills-practising-nurses.md) — related
+- [High-fidelity simulation training yields a large effect on learning satisfaction among practising registered nurses](hfs-learning-satisfaction-practising-nurses.md) — related
+- [The effect of high-fidelity simulation on practising nurses' self-confidence is inconclusive, varying by study design](hfs-self-confidence-inconclusive-design-dependent.md) — related
+- [The HFS evidence base for practising nurses comprises eight small studies with risk-of-bias concerns](hfs-nurse-evidence-base-eight-studies-275-nurses.md) — related
+- [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
+- [The review reports that high-fidelity simulation outperformed case-based discussion for clinical reasoning and leadership in paediatric emergencies](hfs-superior-case-based-discussion-reasoning.md) — related
+- [In an RCT of ICU nurses, simulation-based education produced within-group gains in knowledge, confidence and competence but no between-group differences at 6 weeks](sbe-icu-within-group-gains-no-between-group.md) — related

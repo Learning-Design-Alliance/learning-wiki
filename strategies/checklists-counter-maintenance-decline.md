@@ -17,7 +17,7 @@ sources:
 # Provide summary guidelines or instructional checklists to counter a potential drop in DTT implementation ability over time
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 quant-synthesis), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Because implementation fidelity declined slightly after training ended, the authors suggest a low-cost maintenance support. They state: "These results indicate that providing DTT implementers with summary guidelines or instructional checklists could help counter a potential drop in DTT ability with time." The strategy targets the post-training maintenance period, which in the included studies occurred between 4 and 224 days after the last intervention session.

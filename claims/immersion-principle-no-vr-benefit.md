@@ -64,3 +64,6 @@ Table 6 summary of the author's lab's experimental tests reports the immersion p
 - [VR and video instruction groups reported comparable cognitive load in the anatomy lesson](vr-video-comparable-cognitive-load.md) — related
 - [Prior single-exposure IVR studies show mixed cognitive outcomes: affective gains without cognitive benefits (Parong & Mayer) and short-lived retention gains (Christopoulos)](ivr-single-exposure-mixed-cognitive-outcomes.md) — related
 - [Help-seeking was the only self-regulation construct favored by 3D VR co-creation; the other five constructs were favored by 2D digital co-creation](help-seeking-prominent-in-vr-cocreation.md) — related
+- [Affective outcomes of virtual-laboratory modalities are divided and interact with learners' initial attitude profiles](affective-outcomes-divided-moderated-by-attitudes.md) — related
+- [3D virtual-reality lecture was statistically non-inferior to 2D lecture on knowledge and rated better on spatial understanding and enjoyment (Kockro et al.)](kockro-3d-lecture-noninferior-rated-better.md) — related
+- [Virtual-reality delirium training increased nurses' empathy and knowledge, with larger empathy gains when VR preceded didactic instruction](vr-delirium-empathy-order-effect.md) — reports the opposite

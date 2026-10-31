@@ -53,3 +53,6 @@ MANCOVA on post-test engagement scores (pretest as covariate) among 121 undergra
 - [Students communicate more frequently but with lower-quality content in the synchronous chat room than in the asynchronous discussion forum](synchronous-vs-asynchronous-communication-quality.md) — related
 - [No significant interaction effect of learning approach and discussion type on self-regulation](no-interaction-self-regulation.md) — related
 - [The time students had to prepare responses before interacting was connected with all three dimensions of online learner engagement across asynchronous, synchronous, and quasi-synchronous debates](time-to-prepare-connected-all-ole-dimensions.md) — related
+- [Interactive synchronous lessons yielded larger effects than lectures for affective outcomes versus asynchronous learning](interactive-lesson-moderator-sol-affective.md) — related
+- [Synchronous online learning significantly and positively impacts cognitive outcomes compared with asynchronous online learning (g = 0.37)](sol-beats-asynchronous-cognitive-outcomes.md) — related
+- [Synchronous online learning did not significantly affect affective outcomes compared with asynchronous online learning (g = 0.32, p = .051)](sol-asynchronous-affective-null.md) — related

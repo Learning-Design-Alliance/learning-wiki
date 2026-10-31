@@ -16,12 +16,14 @@ sources:
     author: Kelly C. Dreger, Ed.D. and Steve Downey, Ph.D.
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Five moderators of token reinforcement effect sizes: study type, outcome type, effect size direction, publication year, and variance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Kelly C. Dreger, Ed.D. and Steve Downey, Ph.D. (2022). Reinforcement Practicality for Middle School Students: A Meta-Analysis. Valdosta State University. https://eric.ed.gov/?id=EJ1355660
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Moderator testing within each category for the 31 studies. The article reports the survey/questionnaire moderator at "p = .007", plus outcome type (behavior p = .021, performance p = .048), effect size direction (p = 0.025), year (p = 0.047), and variance (p < .05) as significant moderators.
 

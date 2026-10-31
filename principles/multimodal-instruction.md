@@ -31,7 +31,7 @@ sources:
 # Multimodal Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 49 claims (21 for, 24 mixed, 4 against) · 48 studies (22 causal, 11 review, 7 quant-synthesis, 3 associational, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 11 of 48 report an effect size · 43 claims rest on one study
+> **Evidence** · 50 claims (22 for, 24 mixed, 4 against) · 49 studies (22 causal, 12 review, 7 quant-synthesis, 3 associational, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 11 of 49 report an effect size · 44 claims rest on one study
 
 ## Conditional relationship
 
@@ -131,6 +131,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Third graders taught with simultaneous speech and gesture retain math equivalence problems better at a one-day delay than children taught the same strategies sequentially](../claims/simultaneous-speech-gesture-next-day-retention.md) [+W] — attached 2026-10-23 from Congdon Eliza L. et al. (2017), which proposed "Present complementary problem-solving strategies simultaneously in speech and gesture rather than sequentially"; tests this page's relationship.
 - [The simultaneous speech-and-gesture advantage on math equivalence persists at a four-week delay on both basic and generalization problems](../claims/simultaneous-speech-gesture-four-week-retention.md) [+W] — attached 2026-10-23 from Congdon Eliza L. et al. (2017), which proposed "Present complementary problem-solving strategies simultaneously in speech and gesture rather than sequentially"; tests this page's relationship.
 - [Simultaneous speech-and-gesture instruction increases children's spoken use of the conceptual Equalizer strategy, which post-hoc mediates lasting learning](../claims/eq-strategy-use-mediation-simultaneous-gesture.md) [+W] — attached 2026-10-23 from Congdon Eliza L. et al. (2017), which proposed "Present complementary problem-solving strategies simultaneously in speech and gesture rather than sequentially".
+- [Combining real and virtual laboratories outperforms either single modality in physics learning outcomes](../claims/combined-real-virtual-labs-outperform-single-modes.md) [+W] — attached 2026-10-31 from Yahya Fahmi et al. (2026), which proposed "Design pedagogy, not just technology: the benefit of combining laboratory modalities depends on complementary information"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

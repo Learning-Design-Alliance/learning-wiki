@@ -193,3 +193,4 @@ A narrative review reports this meta-analysis of more than 90 PreK–12 articles
 - [Teachers' (not students') perceptions of the TSR correlate most strongly with student academic achievement](teacher-perceptions-correlate-achievement.md) — related
 - [Meta-analytic longitudinal evidence shows achievement affects later motivation about twice as strongly as motivation affects later achievement, with both pooled effects small](scharmer-pooled-achievement-motivation-effects-twice.md) — related
 - [In Study 1, peer and teacher relatedness correlate moderately with each other and with outcomes, while well-being and engagement correlate only trivially](relatedness-descriptive-correlations-study1.md) — related
+- [Methodological features explain variation in structure findings: methods centering teachers' and students' experiences and aligning with the focal outcome matter](structure-findings-vary-with-method-features.md) — related

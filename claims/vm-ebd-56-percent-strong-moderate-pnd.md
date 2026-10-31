@@ -16,12 +16,14 @@ sources:
     author: Elias Clinton
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # Video modeling interventions yield strong or moderate treatment effects in 56% of reviewed studies of students with EBD
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r1` · `q2`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Elias Clinton. (2016). A Meta-Analysis of Video Modeling Interventions for Children and Adolescents with Emotional/Behavioral Disorders. Educational Research Quarterly, 40(2). https://eric.ed.gov/?id=EJ1166705
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r1`
 
 Meta-analysis of 19 studies (88 total participants) of video modeling for students with EBD, aggregating single-subject outcomes with PND. The synthesis reports "56% of the stu dies indicated a strong or moderate treatment effect" and 43% questionable or unreliable, indicating variable treatment effects.
 

@@ -60,3 +60,5 @@ Meta-analysis (k = 14) of comparative SCMC–FTF studies. The review reports "a 
 - [No significant differences between SCMC and FTF interaction on L2 development overall](no-significant-scmc-ftf-differences-l2-development.md) — reports the opposite
 - [Interaction in both SCMC and FTF contexts has a significant impact on L2 development (meta-analysis of 14 studies, 1990–2012)](scmc-ftf-interaction-significant-l2-development.md) — related
 - [Feedback channel is a non-significant moderator of feedback effects](feedback-channel-non-significant-moderator.md) — related
+- [CMC integration yields an overall small-to-medium positive effect (d = .554) on L2 learning outcomes compared with face-to-face communication](cmc-small-to-medium-positive-effect-l2.md) — related
+- [A majority of CMC studies (79%) produced effect sizes favoring CMC, while 21% favored face-to-face or non-computer-mediated communication](cmc-79-percent-positive-21-negative.md) — related

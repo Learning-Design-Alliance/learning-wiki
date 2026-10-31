@@ -16,18 +16,22 @@ sources:
     author: "Ganz, J. B., Pustejovsky, J. E., Reichle, J., Vannest, K. J., Foster, M., Fuller, M. C., Pierson, L. M., Wattanawongwan, S., Bernal, A. J., Chen, M., Haas, A. N., Skov, R., Smith, S. D., & Yllades, V."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
   - id: ganz-2022-2
     resource: "https://doi.org/10.1007/s40489-022-00326-6"
     title: "Ganz, J. B., Pustejovsky, J. E., Reichle, J., Vannest, K. J., Foster, M., Fuller, M. C., Pierson, L. M., Wattanawongwan, S., Bernal, A. J., Chen, M., Haas, A. N., Skov, R., Smith, S. D., & Yllades, V. (2022). Augmentative and Alternative Communication Intervention Targets for School-Aged Participants with ASD and ID: a Single-Case Systematic Review and Meta-analysis. Review Journal of Autism and Developmental Disorders. [doi:10.1007/s40489-022-00326-6](https://doi.org/10.1007/s40489-022-00326-6)"
     author: "Ganz, J. B., Pustejovsky, J. E., Reichle, J., Vannest, K. J., Foster, M., Fuller, M. C., Pierson, L. M., Wattanawongwan, S., Bernal, A. J., Chen, M., Haas, A. N., Skov, R., Smith, S. D., & Yllades, V."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Aided versus unaided AAC does not statistically moderate AAC effects, though exclusive aided AAC descriptively yields the largest estimates
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Ganz, J. B., Pustejovsky, J. E., Reichle, J., Vannest, K. J., Foster, M., Fuller, M. C., Pierson, L. M., Wattanawongwan, S., Bernal, A. J., Chen, M., Haas, A. N., Skov, R., Smith, S. D., & Yllades, V. (2022). Augmentative and Alternative Communication Intervention Targets for School-Aged Participants with ASD and ID: a Single-Case Systematic Review and Meta-analysis. Review Journal of Autism and Developmental Disorders. [doi:10.1007/s40489-022-00326-6](https://doi.org/10.1007/s40489-022-00326-6)
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Tau analysis of the AAC-related subsample: exclusively aided AAC had the largest estimates (0.801 in model A), exclusively unaided the smallest (0.619), but "these differences were not statistically distinguishable in any of the three models".
 
@@ -50,7 +54,7 @@ Tau analysis of the AAC-related subsample: exclusively aided AAC had the largest
 
 Ganz, J. B., Pustejovsky, J. E., Reichle, J., Vannest, K. J., Foster, M., Fuller, M. C., Pierson, L. M., Wattanawongwan, S., Bernal, A. J., Chen, M., Haas, A. N., Skov, R., Smith, S. D., & Yllades, V. (2022). Augmentative and Alternative Communication Intervention Targets for School-Aged Participants with ASD and ID: a Single-Case Systematic Review and Meta-analysis. Review Journal of Autism and Developmental Disorders. [doi:10.1007/s40489-022-00326-6](https://doi.org/10.1007/s40489-022-00326-6)
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 LRR analysis of the same moderator: exclusively aided AAC had larger average estimates (2.151 in model A) than other combinations, but "differences in average LRR effects were not statistically distinguishable in any of the models".
 

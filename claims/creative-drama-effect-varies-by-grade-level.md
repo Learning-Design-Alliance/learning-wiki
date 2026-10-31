@@ -16,12 +16,14 @@ sources:
     author: Hafize Er-Türküresin
     q: 2
     i: 2
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Effect size of creative drama on Social Studies achievement varies by grade level, largest at 8th grade (d = 2.733) and lowest at 4th grade (d = 0.709)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2` · `i2` medium
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Hafize Er-Türküresin. (2020). The effect of using creative drama method on student achievement in the social studies course: A meta-analysis study. International Online Journal of Education and Teaching (IOJET), 7(4), 1881-1896. http://iojet.org/index.php/IOJET/article/view/1056
 
-`q2 · i2`
+`q2 · i2` · `quant-synthesis · r2`
 
 Grade-level moderator analysis in Table 4 of the meta-analysis: 4th grade d = 0.709 (5 studies), 5th grade d = 1.019, 6th grade d = 1.446, 7th grade d = 0.900, 8th grade d = 2.733. The article notes only 2 studies were conducted at the 8th-grade level.
 
@@ -46,3 +48,4 @@ Grade-level moderator analysis in Table 4 of the meta-analysis: 4th grade d = 0.
 - [The very large effect found here is consistent with prior meta-analyses of creative drama, which report medium-to-huge positive effects on achievement](creative-drama-effect-consistent-with-prior-meta-analyses.md) — related
 - [The effect of drama on social studies achievement does not differ significantly by grade level (grades 4–7)](drama-effect-no-grade-level-difference.md) — reports the opposite
 - [Effect of creative drama on skills varies significantly by level of schooling, highest at pre-school and lowest at high school](creative-drama-schooling-level-moderator.md) — related
+- [Thematic analysis of 14 studies of student views found creative drama produced influential outcomes across cognitive, creative/critical-thinking, learning-environment, and social-affective domains, along with negative aspects](creative-drama-thematic-outcomes-domains.md) — related

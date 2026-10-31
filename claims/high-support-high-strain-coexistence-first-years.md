@@ -54,3 +54,4 @@ Descriptive statistics from the 551-student cross-sectional survey show a coexis
 - [Heavy AI use coexists with low trust: two thirds of respondents in a 47-country survey use AI regularly while less than half are willing to trust it](ai-use-exceeds-willingness-to-trust.md) — related
 - [More years of coding experience were associated with better performance in AI-supported PBL courses (exploratory)](coding-experience-associated-with-pbl-performance.md) — related
 - [Physical Strain, reported by 120 participants, comprises visual fatigue and session exhaustion from reading and verifying AI outputs](physical-strain-visual-fatigue-session-exhaustion.md) — related
+- [Stress-resilience dissociations were identified, with high distress coexisting alongside moderate-to-high resilience](stress-resilience-dissociation-high-distress.md) — related

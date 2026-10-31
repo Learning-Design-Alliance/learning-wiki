@@ -17,7 +17,7 @@ sources:
 # Equip teachers for digital story use through in-service training and teacher education courses
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 1 study, `q3` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Based on the meta-analysis findings that digital story applications have a high positive effect on achievement, the authors recommend that teachers be sufficiently equipped regarding the digital story method. Existing teachers should gain skills through training programs such as in-service training or courses, and prospective teachers should receive training through courses on technology-based methods in teacher training institutions.

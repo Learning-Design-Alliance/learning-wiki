@@ -16,12 +16,14 @@ sources:
     author: Katharine Conn
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Among pedagogical interventions, procedural and conceptual learning programs have the highest pooled effect sizes while inquiry-based learning is least effective
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Katharine Conn. (2014). Which interventions have the greatest effect on student learning in Sub-Saharan Africa? A meta-analysis of rigorous impact evaluations. SREE Spring 2014 Conference. https://eric.ed.gov/?id=ED562871
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r2`
 
 Mini-meta-analysis of pedagogical intervention subtypes within the 60-study review. The author reports procedural learning at "1.830 (p = 0.000)" and conceptual learning at "2.075 (p = 0.008)"; the inquiry-based estimate is not statistically significant.
 

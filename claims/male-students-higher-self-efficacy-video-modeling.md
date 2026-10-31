@@ -55,3 +55,4 @@ Mixed ANOVA on self-efficacy in the 2x2 experiment: significant observer-gender 
 - [Male top-performing math students report higher math self-efficacy and stronger math-oriented motivation than female top performers](math-self-efficacy-gender-gap-top5.md) — related
 - [Female participants reported significantly higher maths anxiety and general anxiety, while males reported higher maths self-efficacy and maths interest](sex-differences-maths-anxiety-motivation-means.md) — related
 - [Students across all genders perceive scientific citizenship positively](scientific-citizenship-positive-across-genders.md) — related
+- [Female students consistently reported higher distress while male students reported higher resilience, a pattern observed across multiple countries](gender-patterns-distress-resilience-university-students.md) — related

@@ -116,6 +116,7 @@ TPACK is not additive — a teacher cannot be TPACK-competent by separately mast
 - [Justify GenAI integration through a when-how-why framework: proven contexts, specific implementation methods, and pedagogical reasoning](../strategies/when-how-why-genai-integration-framework.md)
 - [Four-course online TPACK professional development program (SED 520, 521, 522, 594)](../elements/four-course-online-tpack-program-element.md)
 - [Online knowledge-building trajectory built on two tools and two processes](../designs/online-knowledge-building-tools-and-processes-pattern.md)
+- [Teacher educators adjust technology-integration instruction using moderator-aligned effect sizes from prior meta-analyses](../strategies/teacher-educators-review-moderator-effect-sizes.md)
 
 ## Key Sources
 - Koehler, M. J., & Mishra, P. (2009). What is technological pedagogical content knowledge? *Contemporary Issues in Technology and Teacher Education, 9*(1), 60–70. [https://edtechbooks.org/lidtfoundations/tpack](https://edtechbooks.org/lidtfoundations/tpack)

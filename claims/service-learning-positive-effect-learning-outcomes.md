@@ -16,12 +16,14 @@ sources:
     author: Jami L. Warren
     q: 3
     i: 1
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Service-learning has a statistically significant positive effect on student learning outcomes (d = .332)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i1` small
 > **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Jami L. Warren. (2012). Does Service-Learning Increase Student Learning?: A Meta-Analysis. Michigan Journal of Community Service Learning. https://quod.lib.umich.edu/m/mjcsl
 
-`q3 · i1`
+`q3 · i1` · `quant-synthesis · r2`
 
 Fixed-effects meta-analysis of 11 studies (cumulative N = 2129) comparing service-learning and non-service-learning undergraduates, published or written 1993-2008. The pooled effect was "d = .332" with a 95% CI of .246 to .419, which the author reports as statistically significant and positive.
 

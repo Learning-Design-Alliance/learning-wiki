@@ -32,7 +32,7 @@ sources:
 # Problem-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 58 claims (17 for, 36 mixed, 5 against) · 50 studies (9 causal, 9 quant-synthesis, 9 review, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 9 of 50 report an effect size · 53 claims rest on one study
+> **Evidence** · 59 claims (17 for, 37 mixed, 5 against) · 51 studies (13 quant-synthesis, 9 causal, 9 review, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 9 of 51 report an effect size · 54 claims rest on one study
 
 ## Conditional relationship
 
@@ -156,6 +156,7 @@ At the curriculum level, the expectation of a small and variable average should 
 - [The meta-analysis shows signs of publication bias, with smaller studies tending to give more positive results than larger studies](../claims/publication-bias-gloss-meta-analysis.md) [-W]
 - [PBL effect sizes on science achievement do not differ significantly between studies conducted in Turkey and abroad](../claims/pbl-effect-similar-national-vs-international.md) [~W]
 - [PBL has a large and positive effect (ES = .871) on secondary students’ achievement in science compared with conventional teaching](../claims/pbl-large-positive-effect-secondary-science-achievement.md) [-W]
+- [Publication bias tests indicate the observed effects for both outcomes were not influenced by publication bias](../claims/cbl-meta-analysis-no-publication-bias.md) [~W]
 
 ## Related Principles
 - [Inquiry-based Learning](inquiry-based-learning.md) — PBL is one inquiry form centered on authentic problems.

@@ -13,12 +13,14 @@ sources:
     title: Gobodwana 2024
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # Translanguaging is commonly used by Foundation Phase teachers in multilingual classrooms but is not an official pedagogical approach
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 > **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -30,7 +32,7 @@ sources:
 
 Gobodwana, A., 2024, 'The strategies in teaching isiXhosa semantics in Foundation Phase: A systematic review', Reading & Writing 15(1), a493. https://doi.org/10.4102/rw.v15i1.493
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The review's conclusion, drawing on the author's prior work, states translanguaging is used by teachers especially in multilingual classrooms as an act of acknowledging and embracing South Africa's diversity, though it lacks official status.
 

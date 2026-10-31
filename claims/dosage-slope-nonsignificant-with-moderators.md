@@ -80,3 +80,5 @@ Model 3 of the same meta-regression added instructional focus, outcome proximity
 - [Variation in instructional dosage did not explain variation in writing instruction effect sizes](instructional-dosage-no-moderation-writing-instruction.md) — related
 - [Publication year and instructional duration do not significantly predict variation in small-group learning effect sizes in metaregression](metaregression-year-duration-nonsignificant-predictors.md) — reports the opposite
 - [Interventions providing more than 15 total hours significantly moderate mathematics outcomes for students with MD in grades 4–12](more-than-15-hours-moderates-math-outcomes.md) — related
+- [Intervention dosage (duration, frequency, intensity) shows no consistent association with app effect sizes](app-dosage-no-consistent-association.md) — related
+- [No moderator variable (intervention type, group size, grade level, implementer, hours of intervention) significantly explained variance in intervention effects, though moderator analyses were underpowered.](tier2-k3-no-significant-moderators-underpowered.md) — reports the opposite

@@ -53,6 +53,8 @@ The article issues three strategic recommendations for institutions integrating 
 - [Strategic steps to move beyond informal AI innovation: recognise redesign in workload models, embed innovation in promotion criteria, set institutional AI principles, redesign assessment, and fund scaling pilots](strategic-steps-beyond-informal-ai-innovation.md)
 - [Redesign assessment toward progressive, authentic, and reflective methods rather than intensive paperwork](redesign-assessment-authentic-progressive-methods.md)
 - [Redesign assessment so AI-generated text cannot substitute for student work: reflective, contextualised and project-based assignments](assessment-redesign-reflective-contextualised-assignments.md)
+- [Frame LLM integration as an assessable AI literacy competency with differentiated integrity policies and reasoning-focused assessment redesign](ai-literacy-competency-medical-curriculum-strategy.md)
+- [Design AI-mediated cognitive supports with transparency, clear boundaries, and teacher evaluation](ai-supports-transparency-boundaries-evaluation.md)
 
 ## Examples
 -

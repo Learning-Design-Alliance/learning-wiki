@@ -16,12 +16,14 @@ sources:
     author: Jami L. Warren
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # Significant heterogeneity exists among service-learning effect sizes across studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r1` · `q3`
 > **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Jami L. Warren. (2012). Does Service-Learning Increase Student Learning?: A Meta-Analysis. Michigan Journal of Community Service Learning. https://quod.lib.umich.edu/m/mjcsl
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r1`
 
 Heterogeneity test in the fixed-effects meta-analysis of 11 studies. The printed Q statistic ("Q = 24.550; p = .017") indicated significant heterogeneity; no effect size is printed for this finding, so impact is null.
 

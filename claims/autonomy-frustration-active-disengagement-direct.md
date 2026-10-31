@@ -53,3 +53,4 @@ Structural equation model of the cross-sectional survey of pupils and teachers: 
 - [Competence frustration correlates with passive but not active disengagement, while autonomy frustration correlates with both](competence-frustration-not-correlated-active-disengagement.md) — related
 - [Competence frustration is indirectly and positively associated with teacher-rated passive disengagement via reduced subjective vitality](competence-frustration-passive-disengagement-vitality.md) — related
 - [Teacher psychological control relates indirectly to reduced vitality and to both disengagement forms through the two need frustrations](teacher-control-indirect-disengagement-pathways.md) — related
+- [Consistent with a dual process model of engagement, structure shows stronger associations with engagement than with disengagement](structure-stronger-engagement-than-disengagement.md) — related

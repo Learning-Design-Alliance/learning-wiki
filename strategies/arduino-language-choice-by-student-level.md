@@ -17,7 +17,7 @@ sources:
 # Choose Arduino programming language by student level: visual languages (e.g., S4A, Entry) for elementary students, textual languages for high school students
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study, `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends matching the Arduino programming language to students' level rather than applying textual programming unconditionally. It suggests "it may be desirable for elementary school students to use visual programming languages such as Scratch for Arduino (S4A) and Entry and high school students to use textual programming languages such as sketch programs," and encourages teachers to experience maker activities with textual programming.

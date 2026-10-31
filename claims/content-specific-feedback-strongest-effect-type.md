@@ -16,12 +16,14 @@ sources:
     author: "Nalline S. Baliram & Jeffrey J. Youde"
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # Content-specific feedback shows the strongest effect (g = .91); praise is moderate (g = .42); objective feedback is weak and non-significant (g = .13)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r1` · `q3` · `i3` large
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Nalline S. Baliram & Jeffrey J. Youde. (2018). A Meta-analytic Synthesis: Examining the academic impacts of feedback on student achievement. International Dialogues on Education, 5(2), 76-90. https://portal.issn.org/resource/ISSN/2198-5944
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r1`
 
 Moderator analysis splitting the 26 data sets by feedback type: content-specific, praise, or objective (a numerical score, letter grade, or right/wrong indication). Content-specific feedback showed "Hedges’ g = .91" and praise was significant; objective feedback was not.
 

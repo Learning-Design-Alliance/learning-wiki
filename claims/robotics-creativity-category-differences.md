@@ -16,12 +16,14 @@ sources:
     author: "Hou, H., Zhang, X., & Wang, D."
     q: 3
     i: 1
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Robotics education most strongly enhances practical innovation ability, and the combination of creative thinking plus practical innovation ability shows the largest effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i1` small
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Hou, H., Zhang, X., & Wang, D. (2022). Can educational robots improve student creativity: A meta-analysis based on 48 experimental and quasi-experimental studies. Best Evidence in Chinese Education, 11(1):1449-1454. https://doi.org/10.15354/bece.22.ab001
 
-`q3 · i1`
+`q3 · i1` · `quant-synthesis · r2`
 
 Moderator analysis across the study's three creativity categories (A creative thinking, B practical innovation ability, C creative personality and psychology). C category was "moderately improved (SMD = 0.283, P < 0.001, 0.21 ≤ SMD ≤ 0.50)"; the A+B combination reached SMD = 0.757.
 

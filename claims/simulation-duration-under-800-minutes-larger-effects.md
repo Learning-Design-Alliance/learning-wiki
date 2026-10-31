@@ -16,12 +16,14 @@ sources:
     author: Mookyung Jeon
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # Simulations shorter than 800 minutes show larger effects than simulations of 800 minutes or more
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r1` · `q3`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Mookyung Jeon. (2018). Meta-Analysis of Disability Simulation Research for Elementary Students in Korea. International Journal of Special Education, 33(1). https://eric.ed.gov/?id=EJ1184078
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r1`
 
 Moderator analysis by duration in the meta-analysis (Table 2): less than 800 minutes weighted ES .86; 800 minutes and more weighted ES .67 with median below .50. Reported durations ranged from 480 to 1200 minutes. The article calls the cause of this observation unclear.
 
@@ -47,3 +49,4 @@ Moderator analysis by duration in the meta-analysis (Table 2): less than 800 min
 - [No negative effects of disability simulation are found among elementary students in the Korean studies](disability-simulation-no-negative-effects-korean-studies.md) — related
 - [Behavioral outcomes show the largest effects of disability simulation, while the perception effect is not statistically significant](disability-simulation-outcome-type-moderator-behavior-largest.md) — related
 - [Effects of disability simulation are largest for grades 3-4, and the youngest group's effect is not statistically significant](disability-simulation-age-moderator-grades-3-4-largest.md) — related
+- [Duration of an average PLL session (50–180 minutes) did not significantly moderate the effect on cognitive achievement; the descriptive 60-versus-120-minute advantage did not generalise across durations](session-duration-nonsignificant-moderator.md) — related

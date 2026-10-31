@@ -69,3 +69,4 @@ Discussion observation that the wider spread of scores within these groups sugge
 - [Radiographers show substantial uncertainty about how localiser radiograph direction affects radiation dose and ATCM behaviour](localiser-direction-knowledge-gaps-radiographers.md) — related
 - [CT-specific qualification, experience and workload were not significantly associated with high CT centring knowledge scores in the international sample](no-significant-demographic-associations-ct-knowledge-score.md) — reports the opposite
 - [Vertical off-centring below the gantry isocentre is the most frequently reported CT positioning error among radiographers](vertical-below-isocentre-most-reported-ct-centring-error.md) — related
+- [Methodological quality of LC assessment-tool studies is moderate (MERSQI median 12.5) and outcomes rarely extend beyond performance-level measures](mersqi-moderate-quality-lc-assessment-studies.md) — related

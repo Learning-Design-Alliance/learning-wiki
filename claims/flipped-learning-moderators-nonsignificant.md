@@ -16,12 +16,14 @@ sources:
     author: "Aydin, M., Okmen, B., Sahin, S., & Kilic, A."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Study type, educational level, and year do not significantly moderate the effect of flipped learning on success
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Aydin, M., Okmen, B., Sahin, S., & Kilic, A. (2021). The Meta-Analysis of the Studies About the Effects of Flipped Learning on Students' Achievement. Turkish Online Journal of Distance Education-TOJDE, 22(1), Article 3. https://eric.ed.gov/?id=EJ1283687
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Moderator (homogeneity) analysis of the 28 datasets: subgroups were associate/undergraduate (n=19) versus primary/secondary/high school (n=9), article (14) versus thesis (14), and years 2016-2018; none reached significance.
 

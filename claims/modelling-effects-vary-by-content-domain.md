@@ -16,12 +16,14 @@ sources:
     author: Andrzej Sokolowski
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # Achievement effects of modelling vary by content domain, with probability and statistics highest but inflated by an outlier and calculus lowest
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r1` · `q3` · `i3` large
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Andrzej Sokolowski. (2015). The Effects of Mathematical Modelling on Students’ Achievement-Meta-Analysis of Research. The IAFOR Journal of Education, Volume III - Issue I - Winter 2015. https://journals.iafor.org/index.php/joe
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r1`
 
 Content-domain moderator analysis across algebra, calculus, probability and statistics, and geometry subgroups. The article reports "ES = 3.11, SE = 1.17" for probability and statistics, an outlier of 4.49, and ES = 0.21 with the outlier removed; calculus was the lowest at ES = 0.38 (SE = 0.09).
 

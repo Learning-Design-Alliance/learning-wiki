@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2021
+source_checked: 2026-10-31
 sources:
   - id: zhang-2021
     resource: "https://doi.org/10.15354/sief.21.re019"
@@ -16,13 +17,15 @@ sources:
     author: "Zhang, Q., Cheung, E.S.T., & Cheung, C.S.T."
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Flipped classroom shows significant positive effects across class sizes, with the largest reported effect for medium-sized classes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
+> **Currency** · newest study 2021 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Effects were positive and significant for small, medium, and large classes (Z = 9.344, p = 0.000), with no significant between-group difference (QBET = 3.286, p = 0.193); the text reports the medium-sized effect as largest (SMD = 0.81). [→ Zhang 2021](#zhang-2021)
@@ -33,7 +36,7 @@ sources:
 
 Zhang, Q., Cheung, E.S.T., & Cheung, C.S.T. (2021). The impact of flipped classroom on college students’ academic performance: A meta-analysis based on 20 experimental studies. Science Insights Education Frontiers, 8(2):1059-1080. https://doi.org/10.15354/sief.21.re019
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r2`
 
 Moderator analysis of class size (Table 4) across the included studies. The article's text reports printed effect sizes of SMD = 0.52 (small), SMD = 0.66 (large), and SMD = 0.81 (medium) as most affected; Table 4 itself lists Small = 0.81 and Medium = 0.52, an internal inconsistency in the article.
 
@@ -50,3 +53,4 @@ Moderator analysis of class size (Table 4) across the included studies. The arti
 - [Cohorts taught with the flipped classroom earned significantly higher average grades than earlier cohorts taught traditionally, in a non-equivalent-groups comparison](flipped-classroom-higher-grades-than-traditional.md) — related
 - [In a low-certainty meta-analysis of 44 studies with very high heterogeneity (I² = 98%), undergraduate health professional students in flipped classes score higher than those in traditional classes (SMD = 0.57)](flipped-classroom-improves-academic-performance-hpe.md) — related
 - [Flipped classroom has a moderately positive effect on college students' academic performance (SMD = 0.66)](flipped-classroom-moderate-positive-effect-college.md) — related
+- [Stratified teaching has a larger effect in medium-size classes (SMD = 0.64) than in large classes (SMD = 0.44)](stratified-teaching-medium-class-size-larger-effect.md) — related

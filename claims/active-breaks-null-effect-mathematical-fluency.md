@@ -52,3 +52,4 @@ Meta-analysis of 6 mathematical-fluency studies (n = 1369): pooled g = 0.03 unde
 - [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](classroom-physical-activity-improves-attention.md) — related
 - [Classroom active breaks produce a small but statistically significant positive effect on working memory in schoolchildren aged 6–16](active-breaks-small-positive-effect-working-memory.md) — related
 - [Classroom-based physical activity interventions improve attention and/or on-task behavior in most reviewed studies of schoolchildren aged 4–18](cbpa-improves-attention-on-task-schoolchildren.md) — related
+- [A significant overall improvement in academic achievement was detected after physical activity programs compared with controls](pa-interventions-improve-overall-academic-achievement.md) — related

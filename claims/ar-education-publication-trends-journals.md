@@ -16,12 +16,14 @@ sources:
     author: Hakan Tekedere, Hanife Göker
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # SCI/SSCI-indexed publications on AR in education increased in recent years, concentrated in Computers & Education (21 of 171 studies)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Hakan Tekedere, Hanife Göker. (2016). Examining the Effectiveness of Augmented Reality Applications in Education: A Meta-Analysis. International Journal of Environmental & Science Education, 11(16), 9469-9481. https://creativecommons.org/licenses/by/4.0/
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Descriptive analysis of the 171 studies identified through SCI/SSCI scanning. The article reports "these studies (171 studies) were mainly released in Computers & Education Journal (21 studies)" and lists the following journals with their counts, with other journals publishing 1–3 studies each.
 

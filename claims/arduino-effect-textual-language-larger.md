@@ -16,12 +16,14 @@ sources:
     author: Lee, E.
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Effect sizes of Arduino-based education are statistically larger for textual than for visual programming language
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Lee, E. (2020). A meta-analysis of the effects of Arduino-based education in Korean primary and secondary schools in engineering education. European Journal of Educational Research, 9(4), 1503-1512. https://doi.org/10.12973/eu-jer.9.4.1503
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Meta-ANOVA on programming language across the 31 effect sizes (Qb = 6.19, p < .05). Textual programming language showed the largest effect size; visual and both-used conditions showed medium effects.
 

@@ -16,12 +16,14 @@ sources:
     author: "Kansızoğlu, N. & Bekiroğlu, N."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Sample size alone significantly predicts between-study variance in effect sizes, explaining 45.7% of heterogeneity
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Kansızoğlu, N. & Bekiroğlu, N. (2025). The effect of vocabulary development interventions on cognitive outcomes of vocabulary: A meta-analysis study. Journal of Pedagogical Research, 9(1), 123-148. https://doi.org/10.33902/JPR.202532083
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Meta-regression by method of moments on 27 studies (Model 1, sample size). The article reports "QM (df = 7) = 24.8; p < .05" and computes explained variance as [0.217/0.474] x 100 = 45.7%. No standardised effect size is printed, so impact is null.
 

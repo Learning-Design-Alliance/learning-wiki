@@ -57,3 +57,4 @@ Exploratory subgroup analysis of device type (mobile device k = 15; personal com
 - [Too few studies exist to draw robust conclusions on moderating factors (age, gender, screen size, dosage, SAMR-based activities) or on whether benefits persist beyond the post-test](mobile-device-moderators-insufficient-evidence.md) — related
 - [Mobile device use in primary classrooms produces a small, statistically significant positive pooled effect on literacy and numeracy outcomes compared with alternative devices or no device](mobile-devices-small-positive-effect-literacy-numeracy.md) — related
 - Fewer than 10% of recent ITS papers address most developing-world adoption barriers, and almost 95% of ITS research still targets traditional computers — related
+- [AR effect sizes differ significantly by display device, with the largest effect for mobile devices (0.686) and the smallest for webcam-based devices (0.159)](ar-effect-significant-by-display-device.md) — related

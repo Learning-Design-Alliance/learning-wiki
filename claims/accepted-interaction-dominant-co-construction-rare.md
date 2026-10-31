@@ -60,3 +60,5 @@ Analysis of 938 metacognitive episodes coded for the four types of intra-group s
 - [PBL group discussion during problem analysis mainly concerns theory building, with less data exploration and meta-reasoning](pbl-discussion-mainly-theory-building.md) — related
 - Cognitive interactions were the most studied participation form (61 studies), with solo active (45), metacognitive (26 or 22 per table), socioemotional (19), and coordinative (16) trailing — related
 - [In wiki-supported ESL literature circles, the high-performing group engaged in content regulation through cognitive activities while the low-performing group used only self-regulation of content.](content-regulation-distinguishes-high-performing-esl-groups.md) — related
+- [Metacognitive regulation in PT clinical reasoning is relational and often co-constructed in interaction with the self, patient, family, professionals and peers](mr-relational-interactive-co-constructed.md) — related
+- [MR timing codes fit the literature except pre-task timing (underrepresented at 14%), and tasks are dominated by global management (60%) and cognitive (44%)](mr-timing-task-distribution-pt-review.md) — related

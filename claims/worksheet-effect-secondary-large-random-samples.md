@@ -16,12 +16,14 @@ sources:
     author: "Widodo, S. A., Wijayanti, A., Irfan, M., Pusporini, W., Mariah, M., & Rochmiyati, S."
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # The positive worksheet effect was obtained mainly in secondary-school studies with large samples (more than 30 students) and random sampling
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r1` · `q2`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Widodo, S. A., Wijayanti, A., Irfan, M., Pusporini, W., Mariah, M., & Rochmiyati, S. (2023). Effects of worksheets on problem-solving skills: Meta-analytic studies. International Journal of Educational Methodology, 9(1), 151-167. https://doi.org/10.12973/ijem.9.1.151
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r1`
 
 Scope statement from the conclusion of the meta-analysis of 40 studies: the pooled effect of 1.281 is characterized as arising from "worksheet research using secondary school students" with large samples and random sampling; the coding table shows 36 of 40 studies had samples over 30 and 24 used random sampling.
 

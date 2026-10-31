@@ -16,12 +16,14 @@ sources:
     author: Jami L. Warren
     q: 3
     i: 1
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Both self-reported and concrete measures of learning show significant positive effects of service-learning, with no significant difference between measure types
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i1` small
 > **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Jami L. Warren. (2012). Does Service-Learning Increase Student Learning?: A Meta-Analysis. Michigan Journal of Community Service Learning. https://quod.lib.umich.edu/m/mjcsl
 
-`q3 · i1`
+`q3 · i1` · `quant-synthesis · r2`
 
 Moderator analysis within the same fixed-effects meta-analysis of 11 studies, conducted because of significant heterogeneity. Self-report effects ("d = .365") were descriptively larger than concrete-measure effects ("d = .311"), but t-tests found no statistically significant difference between the two measure types.
 

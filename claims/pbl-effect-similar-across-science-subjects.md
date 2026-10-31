@@ -16,12 +16,14 @@ sources:
     author: Ufuk Uluçınar
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # PBL effect sizes on science achievement do not differ significantly across physics, chemistry, and biology
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Ufuk Uluçınar. (2022). The Effect of Problem-Based Learning in Science Education on Academic Achievement: A Meta-Analytical Study. Science Education International, 34(2), 72-85. https://doi.org/10.33828/sei.v34.i2.1
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Moderator analysis by science subject across the 55 datasets (random effects model): physics n = 19, chemistry n = 22, biology n = 12. The author concludes PBL "may have a similar or equal effect on academic achievement, regardless of the biology, physics, and chemistry subjects."
 

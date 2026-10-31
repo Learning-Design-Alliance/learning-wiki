@@ -16,18 +16,22 @@ sources:
     author: "Roslinda Rosli, Mary Margaret Capraro & Robert M. Capraro"
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
   - id: roslinda-rosli-2014-2
     resource: "http://dx.doi.org/10.5539/ies.v7n13p227"
     title: "Roslinda Rosli, Mary Margaret Capraro & Robert M. Capraro. (2014). The Effects of Problem Posing on Student Mathematical Learning: A Meta-Analysis. International Education Studies, 7(13). http://dx.doi.org/10.5539/ies.v7n13p227"
     author: "Roslinda Rosli, Mary Margaret Capraro & Robert M. Capraro"
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # Moderators of problem posing effects: educational setting, publication source, and presentation type relate to effect sizes, with preservice teachers strongly influenced
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r1`–`r2` · `q3`
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Roslinda Rosli, Mary Margaret Capraro & Robert M. Capraro. (2014). The Effects of Problem Posing on Student Mathematical Learning: A Meta-Analysis. International Education Studies, 7(13). http://dx.doi.org/10.5539/ies.v7n13p227
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Fixed-effect moderator analysis using Q tests based on ANOVA, comparing subgroup means for educational setting, research design, publication source, and presentation type across the four learning outcomes. No effect sizes are printed for the moderator contrasts themselves.
 
@@ -50,7 +54,7 @@ Fixed-effect moderator analysis using Q tests based on ANOVA, comparing subgroup
 
 Roslinda Rosli, Mary Margaret Capraro & Robert M. Capraro. (2014). The Effects of Problem Posing on Student Mathematical Learning: A Meta-Analysis. International Education Studies, 7(13). http://dx.doi.org/10.5539/ies.v7n13p227
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r1`
 
 The review's interpretation of moderator results across the 14 datasets, which included 278 elementary and middle grade preservice teachers. Table 4 shows a teacher-preparation group mean of 3.81 for knowledge-based outcomes versus .81 for grade 4-12.
 

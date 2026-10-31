@@ -16,12 +16,14 @@ sources:
     author: Katharine Conn
     q: 3
     i: 0
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Across education interventions in Sub-Saharan Africa, the overall pooled effect size on student learning is 0.16 with very high heterogeneity (I2 = 80.1%)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i0` negligible
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Katharine Conn. (2014). Which interventions have the greatest effect on student learning in Sub-Saharan Africa? A meta-analysis of rigorous impact evaluations. SREE Spring 2014 Conference. https://eric.ed.gov/?id=ED562871
 
-`q3 · i0`
+`q3 · i0` · `quant-synthesis · r2`
 
 Random-effects meta-analysis of 60 primary studies (75 experiments) of education programs in Sub-Saharan Africa, using Cohen's d. The author reports "The overall pooled effect size across all interventions is 0.16" — a printed effect size below d = 0.2 — and notes the I2 of 80.1% is high but expected when pooling many intervention types.
 

@@ -16,12 +16,14 @@ sources:
     author: Lee, E.
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Arduino-based education in Korean primary and secondary schools has a medium overall average effect size of 0.656
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Lee, E. (2020). A meta-analysis of the effects of Arduino-based education in Korean primary and secondary schools in engineering education. European Journal of Educational Research, 9(4), 1503-1512. https://doi.org/10.12973/eu-jer.9.4.1503
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r2`
 
 Random-effects meta-analysis of 16 Korean journal articles and dissertations (31 effect sizes) using Hedges' g in CMA 3.3. The overall average effect size was 0.656 with a 95% CI of "0.470 to 0.843", interpreted as medium under Cohen's standards.
 

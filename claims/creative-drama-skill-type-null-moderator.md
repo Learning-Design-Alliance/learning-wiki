@@ -16,12 +16,14 @@ sources:
     author: Özgür Ulubey
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Effect size of creative drama does not vary significantly by skill type (social, basic language, higher thinking)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Özgür Ulubey. (2018). The Effect of Creative Drama as a Method on Skills: A Meta-analysis Study. Journal of Education and Training Studies, 6(4). https://eric.ed.gov/?id=EJ1172791
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Moderator analysis across the three skill categories (social f=22, basic language f=27, higher thinking f=14) in the meta-analysis. The article reports a non-significant Qbetween value and large, similar effect sizes for all three categories.
 
@@ -49,3 +51,5 @@ Moderator analysis across the three skill categories (social f=22, basic languag
 - [Effect size of creative drama on skills varies significantly by publication type, with theses showing larger effects than articles](creative-drama-publication-type-moderator.md) — related
 - [Effect size of creative drama on skills varies significantly with duration of experimental application, with longer applications showing larger effects](creative-drama-duration-moderator.md) — related
 - [Effect of creative drama on skills varies significantly by level of schooling, highest at pre-school and lowest at high school](creative-drama-schooling-level-moderator.md) — related
+- [Creative drama's effect on achievement does not significantly differ by subject field (p > .05), though the English-lesson effect size (ES = 3.37) was descriptively highest](creative-drama-effect-no-subject-field-difference.md) — related
+- [Thematic analysis of 14 studies of student views found creative drama produced influential outcomes across cognitive, creative/critical-thinking, learning-environment, and social-affective domains, along with negative aspects](creative-drama-thematic-outcomes-domains.md) — related

@@ -18,7 +18,7 @@ sources:
 # Vocabulary assistance embedded directly in the text
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (2 for, 4 mixed, 1 against) · 3 studies (1 causal, 1 quant-synthesis), `q2`–`q3` · 0 of 3 report an effect size · 7 claims rest on one study
+> **Evidence** · 7 claims (2 for, 4 mixed, 1 against) · 3 studies (2 quant-synthesis, 1 causal), `q2`–`q3` · 0 of 3 report an effect size · 7 claims rest on one study
 
 ## Description
 Vocabulary help, such as pronunciation and glossing of difficult terms, embedded directly in the text as one of the enumerated aid types. The article reports that students "gave very high marks to the precis summaries, vocabulary helpers, mini-notes, and Reader Helper notes," so vocabulary helpers were among the most favorably rated aids by students in the study.

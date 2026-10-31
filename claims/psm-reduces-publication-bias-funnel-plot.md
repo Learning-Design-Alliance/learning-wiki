@@ -16,12 +16,14 @@ sources:
     author: "Itsarangkul Na Ayutthaya, T., & Damrongpanit, S."
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Funnel plot asymmetry indicates high publication bias before propensity score matching and low publication bias after matching
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Itsarangkul Na Ayutthaya, T., & Damrongpanit, S. (2022). A Meta-Analysis of Instructional Management Model for Students’ Creative Thinking Development: An Application of Propensity Score Matching. European Journal of Educational Research, 11(4), 2429-2444. https://doi.org/10.12973/eu-jer.11.4.2429
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Funnel plot analysis (Figures 4 and 5) of effect size dispersion before and after propensity score matching. The article states that before matching the data were "asymmetrically distributed from the total mean effect size", indicating high publication bias.
 

@@ -61,3 +61,4 @@ Bivariate correlation matrix (Table 5) among the six constructs in the sample of
 - [Perceived ease of use is a robust predictor, positively and significantly influencing students' attitudes towards CSCL and their perceptions of usefulness](ease-of-use-predicts-attitude-and-usefulness-cscl.md) — related
 - [Usefulness, ease of use, social influence, facilitating conditions and community identity each have a significant positive influence on Facebook adoption.](five-factors-significant-positive-influence-facebook-adoption.md) — related
 - [Attitude is the most powerful predictor of behavioral intention to use MALL among higher education learners in Vietnam.](attitude-strongest-predictor-mall-intention.md) — related
+- [Perceived usefulness, rather than perceived ease of use, was the primary predictor of LLM adoption across TAM-based studies](perceived-usefulness-predicts-llm-adoption.md) — related

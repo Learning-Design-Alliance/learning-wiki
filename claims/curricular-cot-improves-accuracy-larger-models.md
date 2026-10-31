@@ -74,7 +74,7 @@ Same prompting-strategy comparison: providing competency definitions from human 
 - Agentic frameworks built on GPT-3.5 and GPT-4 show significant performance gains on the HumanEval benchmark over zero-shot baselines — related
 - Chain-of-thought prompting improved LLM multistep reasoning, operationalized via decomposition and interleaved planning approaches — related
 - [Structured developmental annotation (CLARA) achieves stronger alignment with developmental references than readability-based and direct prompting baselines](clara-outperforms-readability-and-prompting-baselines.md) — related
-- [In-context examples improve LLM Bloom classification: three-shot and ten-shot prompting outperform zero-shot across datasets](in-context-examples-improve-bloom-classification.md) — related
+- [In-context examples improve LLM Bloom classification: three-shot and ten-shot prompting score at or above zero-shot on every dataset tested, and above it in most comparisons](in-context-examples-improve-bloom-classification.md) — related
 - [Reasoning-capable model variants and chain-of-thought prompting yield no measurable improvement in either alignment axis for classroom evaluation](reasoning-variants-no-alignment-improvement.md) — reports the opposite
 - [In-context learning did not consistently improve LLM annotation reliability over zero-shot prompting for engagement coding](icl-no-better-than-zero-shot-engagement-coding.md) — related
 - [High self-consistency between a simulator's reasoning and its own generated code does not imply alignment with real student reasoning or behavior](self-consistency-does-not-imply-student-alignment.md) — related

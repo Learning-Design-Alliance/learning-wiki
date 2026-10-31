@@ -16,12 +16,14 @@ sources:
     author: Bilal Ashraf, Akansha Singh, Germaine Uwimpuhwe, Tahani Coolen-Maturi, Jochen Einbeck, Steve Higgins and Adetayo Kasim
     q: 3
     i: 0
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Literacy benefits for FSM pupils were greatest in Key Stage 1 (ES 0.09) and Key Stage 3 (ES 0.08) and smallest in Key Stages 2 and 4
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i0` negligible
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Bilal Ashraf, Akansha Singh, Germaine Uwimpuhwe, Tahani Coolen-Maturi, Jochen Einbeck, Steve Higgins and Adetayo Kasim. (2021). Individual participant data meta-analysis of the impact of EEF trials on the educational attainment of pupils on Free School Meals: 2011 - 2019. Education Endowment Foundation. https://eric.ed.gov/?id=ED625398
 
-`q3 · i0`
+`q3 · i0` · `quant-synthesis · r2`
 
 Subgroup IPD meta-analysis of literacy outcomes by Key Stage (Table 9), based on 13, 33, 29 and 6 trials for KS1-KS4 respectively. The report concludes interventions were "most beneficial for FSM pupils in KS1 and KS3"; all printed effect sizes are below d = 0.2.
 

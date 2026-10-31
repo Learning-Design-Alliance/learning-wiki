@@ -16,12 +16,14 @@ sources:
     author: Bilal Ashraf, Akansha Singh, Germaine Uwimpuhwe, Tahani Coolen-Maturi, Jochen Einbeck, Steve Higgins and Adetayo Kasim
     q: 3
     i: 0
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Small group and one-to-one interventions produced larger literacy gains for FSM pupils than whole class or whole school approaches
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i0` negligible
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Bilal Ashraf, Akansha Singh, Germaine Uwimpuhwe, Tahani Coolen-Maturi, Jochen Einbeck, Steve Higgins and Adetayo Kasim. (2021). Individual participant data meta-analysis of the impact of EEF trials on the educational attainment of pupils on Free School Meals: 2011 - 2019. Education Endowment Foundation. https://eric.ed.gov/?id=ED625398
 
-`q3 · i0`
+`q3 · i0` · `quant-synthesis · r2`
 
 Subgroup IPD meta-analysis by intervention type (Table 11; 24 one-to-one, 17 small group, 30 whole class, 10 whole school literacy trials). The report states both targeted types improved literacy "by more than 0.10 SD, an equivalent of more than one month's progress"; printed effect sizes remain below d = 0.2.
 
@@ -47,3 +49,4 @@ Subgroup IPD meta-analysis by intervention type (Table 11; 24 one-to-one, 17 sma
 - [EEF-funded interventions showed no evidence of positive or negative overall effects on FSM pupils' mathematics outcomes](eef-interventions-fsm-maths-null-pooled.md) — related
 - [EEF interventions showed a small overall narrowing of the literacy attainment gap in favour of FSM pupils, dependent on Key Stage](eef-literacy-attainment-gap-fsm-narrowing.md) — related
 - [Literacy benefits for FSM pupils were greatest in Key Stage 1 (ES 0.09) and Key Stage 3 (ES 0.08) and smallest in Key Stages 2 and 4](eef-fsm-literacy-key-stage-pattern.md) — related
+- [Small group sizes produced the largest CMC effect compared with no grouping or groups of more than 3 students](cmc-small-group-sizes-largest-effect.md) — related

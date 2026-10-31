@@ -68,7 +68,7 @@ A meta-analysis of 57 independent effect sizes from 33 experimental reports, mos
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does presenting the same words twice (spoken and written) hurt or help, and for whom?* This table gathers the studies behind this claim and the 13 narrower claims that bear on it: **8 distinct studies** (3 causal, 2 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4`, 3 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Without a competing picture, do the same words spoken and written help or hurt, and for whom?* This table gathers the studies behind this claim and the 13 narrower claims that bear on it: **8 distinct studies** (3 causal, 2 quant-synthesis, 2 review, 1 theoretical), `q1`–`q4`, 3 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|

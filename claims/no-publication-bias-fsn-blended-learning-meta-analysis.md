@@ -16,12 +16,14 @@ sources:
     author: "Setiawan, A. A., Muhtadi, A., & Hukom, J."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # The meta-analysis shows no publication bias problem by Rosenthal's fail-safe N criterion
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Setiawan, A. A., Muhtadi, A., & Hukom, J. (2022). Blended Learning and Student Mathematics Ability in Indonesia: A Meta-Analysis Study. International Journal of Instruction, 15(2), 905-916. https://doi.org/10.29333/iji.2022.15249a
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Publication-bias diagnostics on the 36 included studies: the funnel plot was judged inconclusive, so Rosenthal's fail-safe N was computed. The obtained "9093" far exceeds the 5K + 10 threshold of 190, supporting scientific justification per the authors.
 
@@ -52,3 +54,5 @@ Publication-bias diagnostics on the 36 included studies: the funnel plot was jud
 - [Publication bias tests give mixed evidence: Egger's test indicates bias, but fail-safe N calculations lead the authors to conclude no publication bias](publication-bias-mixed-egger-failsafe.md) — related
 - [The pooled effect of multiple intelligence practices is resistant to publication bias](mi-effect-resistant-publication-bias.md) — related
 - [Publication-bias checks (funnel plot symmetry and Rosenthal Safe N of 6801) indicate no publication bias in the synthesis](stem-digital-meta-no-publication-bias.md) — related
+- [Fail-safe N analyses indicate the pooled effect is resistant to publication bias (Rosenthal FSN = 2139; Orwin FSN = 1048)](fsn-resistance-publication-bias-cre-meta-analysis.md) — related
+- [The meta-analysis results are resistant to publication bias, per fail-safe N of 1791](game-math-meta-resistant-to-publication-bias.md) — related

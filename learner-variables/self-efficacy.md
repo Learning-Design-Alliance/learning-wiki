@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 178 claims (132 show a difference, 26 mixed, 20 no difference) · 144 studies (58 associational, 29 causal, 21 review, 14 qualitative, 9 design, 7 theoretical, 6 quant-synthesis), `q1`–`q4` · 31 of 144 report an effect size · 174 claims rest on one study
+> **Evidence** · 184 claims (137 show a difference, 27 mixed, 20 no difference) · 150 studies (58 associational, 30 causal, 25 review, 14 qualitative, 9 design, 7 quant-synthesis, 7 theoretical), `q1`–`q4` · 31 of 150 report an effect size · 180 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -209,6 +209,12 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Positive motivational beliefs are associated with high-level learning strategies, consistent with Pintrich and García's self-regulated learning proposal](../claims/motivation-cognition-patterns-srl.md) [+M] — learners who differ on it differ in outcomes
 - [Teacher education workshop paired with robot curriculum improves teachers' relevance and self-efficacy beliefs](../claims/teacher-workshop-improves-relevance-and-self-efficacy.md) [+M] — instruction changes it
 - [TEDDICS is positively related to ICT self-efficacy, frequency of ICT use, and perceived usefulness of ICT](../claims/teddics-positive-relations-beliefs-use.md) [+M] — instruction changes it
+- [Experiential learning in authentic clinical environments (community engagement, home visits, outreach rotations) was reported to produce the greatest positive impact on student attitudes, confidence, and perceived competence, but is the most resource-intensive](../claims/experiential-learning-greatest-impact-geriatric-dentistry.md) [+M] — instruction changes it
+- [Experimental and quasi-experimental included studies describe improvements in time, precision, movement economy, task quality or perceived competence after laparoscopic simulation exposure](../claims/laparoscopic-simulation-performance-improvements.md) [+M] — instruction changes it
+- [Peer tutoring in clinical simulation is associated with gains in non-technical skills including self-efficacy, self-confidence, self-perception of learning, and reflective abilities](../claims/peer-tutoring-simulation-non-technical-gains.md) [+M] — instruction changes it
+- [Anatomy Glove Learning System improved hand-anatomy knowledge in both groups, with 3D-group self-confidence increasing over time while 2D-group confidence declined](../claims/agls-knowledge-gains-sustained-confidence-3d-group.md) [~M] — instruction changes it
+- [Findings from other postgraduate specialties suggest PBL and CBL improve performance, knowledge and confidence, but overall RCT quality in this field is deemed unsatisfactory](../claims/other-postgraduate-specialty-reviews-pbl-cbl-quality-unsatisfactory.md) [+M] — instruction changes it
+- [This synthesis is the first comprehensive quantitative meta-analysis of links between teachers' observed or perceived classroom structure practice and students' engagement, competence beliefs, disengagement, and achievement](../claims/structure-meta-analysis-first-comprehensive-synthesis.md) [+M] — instruction changes it
 
 ## The evidence by question
 

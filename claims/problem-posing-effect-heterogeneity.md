@@ -16,12 +16,14 @@ sources:
     author: "Roslinda Rosli, Mary Margaret Capraro & Robert M. Capraro"
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Effect size distributions were heterogeneous for knowledge-based, ability-based, and attitude-belief outcomes but homogeneous for skill-based outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Roslinda Rosli, Mary Margaret Capraro & Robert M. Capraro. (2014). The Effects of Problem Posing on Student Mathematical Learning: A Meta-Analysis. International Education Studies, 7(13). http://dx.doi.org/10.5539/ies.v7n13p227
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Homogeneity analysis using Q statistics (chi-square) on the Hedges' g distributions for each learning outcome, plus funnel plots constructed in SPSS to detect publication bias. Skill-based Q = 7.06 (df = 4, p = .13) was not statistically significant.
 

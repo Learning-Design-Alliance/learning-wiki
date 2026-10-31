@@ -56,3 +56,4 @@ Theme from the same focus group thematic analysis with intervention participants
 - [Four relational components—positive feedback, rapport, mutual respect, and reciprocal trust—form the relational framework of coaching](four-relational-components-coaching-partnership.md) — related
 - [In a theory-guided in-situ simulation programme, an interprofessional primary care team progressed through the expansive learning cycle from questioning current practice to consolidating new practices](simlab-expansive-learning-cycle-progression.md) — related
 - [Participants reported increased confidence, readiness and teamwork after completing the SimLab programme](simlab-confidence-teamwork-gains.md) — related
+- [Peer tutoring benefits extend to the tutors themselves, including confidence, autonomy, leadership, teamwork, and empowerment](peer-tutor-role-benefits-to-tutors.md) — related

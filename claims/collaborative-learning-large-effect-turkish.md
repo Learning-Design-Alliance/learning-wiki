@@ -16,12 +16,14 @@ sources:
     author: Nurşat Biçer
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Collaborative learning has a large positive effect on academic success in Turkish language instruction (REM ES = 0.816)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Nurşat Biçer. (2017). The Influence of Student-centered Methods in Turkish Language Instruction on Academic Success: A Meta-analysis Study. Universal Journal of Educational Research 5(4). https://doi.org/10.13189/ujer.2017.050419
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r2`
 
 Random effects model analysis of 6 collaborative learning studies (95% CI 0.448–1.184; Q = 4.563 below the critical χ² of 11.070). The article reports the score is "positively and significantly large in accordance with [13] classification" and favors collaborative learning.
 

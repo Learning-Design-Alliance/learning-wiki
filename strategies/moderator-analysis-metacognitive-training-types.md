@@ -17,7 +17,7 @@ sources:
 # Conduct moderator analysis by type of metacognitive training to identify which types most benefit algebraic reasoning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 quant-synthesis), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 Because the included studies used many different forms of metacognitive training, the authors recommend moderator analysis as future work. They write that "moderator analysis including the types of metacognitive training can be useful to determine which type of metacognitive training most positively impacts students’ algebraic reasoning". This strategy treats training type (computer-based, individual, collaborative, self-regulation) as a potential moderator of the pooled effect.

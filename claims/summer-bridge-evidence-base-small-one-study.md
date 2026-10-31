@@ -50,3 +50,4 @@ Systematic review conducted using the WWC Procedures and Standards Handbook, ver
 - [No studies meeting WWC standards report summer bridge outcomes in college access and enrollment, credit accumulation, general academic achievement, or labor market domains](summer-bridge-no-evidence-four-other-domains.md) — related
 - [Thirteen of 14 reviewed studies of the program fail WWC evidence standards or eligibility screens, most for lacking comparison-group designs or non-equivalent quasi-experimental groups](challengge-thirteen-studies-excluded.md) — related
 - [Only one of seven eligible studies of I CAN Learn® met WWC group design standards, and it met them only with reservations](ican-learn-thin-evidence-base-one-qualifying-study.md) — related
+- [Only 112 of 306 studies were potentially suitable for meta-analysis, with most excluded for design and reporting inadequacies](meta-analysis-inclusion-112-studies.md) — related

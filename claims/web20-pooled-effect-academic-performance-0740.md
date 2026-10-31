@@ -16,12 +16,14 @@ sources:
     author: "Ergul Sonmez, E., & Cakir, H."
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Web 2.0 technologies (wikis and blogs) show a positive, moderate pooled effect on academic performance (E++ = 0.740) across 19 quasi-experimental studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Ergul Sonmez, E., & Cakir, H. (2021). Effect of Web 2.0 technologies on academic performance: A meta-analysis study. International Journal of Technology in Education and Science (IJTES), 5(1), 108-127. https://doi.org/10.46328/ijtes.161
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r2`
 
 Meta-analysis of 19 journal-article studies with quasi-experimental pretest-posttest control-group designs, analyzed in CMA software using Hedge's g. The printed pooled effect size is E++ = 0.740 (95% CI 0.320-1.161), which the authors quote as "the effect size (E ++) is 0.740" and classify as middle range per Cohen (1981).
 

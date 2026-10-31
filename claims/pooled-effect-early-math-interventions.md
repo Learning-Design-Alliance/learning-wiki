@@ -46,3 +46,4 @@ Random-effects intercept-only meta-regression (Model 1) across 164 effect sizes 
 
 ## Related Claims
 - [Targeted school-based interventions have positive short-term effects on standardised reading and mathematics tests for K-6 students with or at risk of academic difficulties](targeted-k6-interventions-positive-short-term-effects.md) — a broader claim this one bears on
+- [School-based EdTech interventions show a moderate positive pooled effect on student attainment (d = 0.4), with high heterogeneity across studies](edtech-pooled-effect-attainment-d-0-4.md) — a narrower finding that bears on this claim

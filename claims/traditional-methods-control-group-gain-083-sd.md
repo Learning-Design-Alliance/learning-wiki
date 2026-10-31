@@ -16,12 +16,14 @@ sources:
     author: "San, I. & Kis, A."
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Control groups taught with traditional methods in Turkish geometry and numbers theses show a large average pretest-posttest gain of about 0.83 standard deviations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 San, I. & Kis, A. (2018). Effect of traditional methods in geometry and numbers learning domains on academic achievement: A Meta-analysis study. International Journal of Research in Education and Science (IJRES), 4(2), 544-554. https://doi.org/10.21890/ijres.428950
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Meta-analysis of 31 theses' control-group pretest-posttest data using Cohen's d and a random effects model in CMA Ver.2.0; the pooled d of -0.829 was "large" according to Cohens (1988) classification, with the article interpreting that traditional methods increase success.
 
@@ -47,3 +49,4 @@ Meta-analysis of 31 theses' control-group pretest-posttest data using Cohen's d 
 - [Control-group implementations of the traditional method were undocumented (no lesson plans, no recordings), creating a reliability problem in the underlying studies](control-group-implementation-undocumented.md) — related
 - [Most individual studies favor posttest over pretest: 24 of 31 show statistically significant gains and 28 of 31 favor posttest](forest-plot-24-of-31-significant-posttest.md) — related
 - [The 5E instructional model shows a large, significant pooled effect on academic achievement versus traditional teaching methods in Turkish studies (2008-2014)](5e-model-large-effect-academic-achievement.md) — related
+- [MIT-based instruction shows a large overall positive effect on students' academic achievement in a meta-analysis of 75 Turkish experimental theses and dissertations](mit-instruction-large-overall-effect-achievement.md) — related

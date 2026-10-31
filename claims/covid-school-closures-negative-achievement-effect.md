@@ -64,3 +64,4 @@ Systematic review synthesis of eleven studies meeting inclusion criteria (data c
 - [Closure-duration losses are larger for boys and immigrant students: boys' overall loss equals girls' at about 40 weeks of full closures, and immigrants' equals natives' at about 25 weeks](gender-immigrant-closure-heterogeneity.md) — related
 - [PISA mathematics scores declined by an average of 12 points (14.2% of a standard deviation, about 7 months of learning) after COVID-19 school closures](pisa-math-decline-14-percent-sd-covid.md) — a narrower finding that bears on this claim
 - [Post-COVID boys showed no significant literacy or schooling-attainment loss and had 2% lower out-of-school rates](post-covid-boys-no-literacy-loss.md) — a narrower finding that bears on this claim
+- [Summer math programs have a small significant positive overall effect on students' math scores (d=0.08).](summer-math-programs-overall-d-008.md) — related

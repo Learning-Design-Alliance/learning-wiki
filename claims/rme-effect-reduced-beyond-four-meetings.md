@@ -16,12 +16,14 @@ sources:
     author: "Juandi, D., Kusumah, Y. S., & Tamur, M."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # RME effects are greater when treatment lasts 3-4 meetings and are reduced when treatment continues beyond four meetings
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Juandi, D., Kusumah, Y. S., & Tamur, M. (2022). A Meta-Analysis of the Last Two Decades of Realistic Mathematics Education Approaches. International Journal of Instruction, 15(1), 381-400. https://doi.org/10.29333/iji.2022.15122a
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Moderator analysis of treatment duration (Qb = 40.52, p = 0.00): 3-4 meetings g = 0.74, 5 meetings or more g = 0.50, unspecified g = 1.01. The article reports that "the effect was reduced" when treatment continued beyond four meetings, and explains shorter-duration effects via the Hawthorne or novelty effect.
 

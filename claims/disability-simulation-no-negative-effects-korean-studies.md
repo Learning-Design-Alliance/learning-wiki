@@ -16,12 +16,14 @@ sources:
     author: Mookyung Jeon
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # No negative effects of disability simulation are found among elementary students in the Korean studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r1` · `q3`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Mookyung Jeon. (2018). Meta-Analysis of Disability Simulation Research for Elementary Students in Korea. International Journal of Special Education, 33(1). https://eric.ed.gov/?id=EJ1184078
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r1`
 
 Within the same meta-analysis of eight Korean elementary-student studies, the article reports that "negative effects of disability simulation are not found"; no effect size was negative. No effect size magnitude for a negative effect is printed, so impact is null.
 

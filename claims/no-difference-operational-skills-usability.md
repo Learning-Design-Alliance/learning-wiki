@@ -56,3 +56,5 @@ Primary outcome domains B and E in the within-participants comparison of 20 stud
 - [Both systems were usable with no significant differences in technical difficulties, practicality, or reading of messages](anchored-vs-forum-usability-comparable.md)
 - [Immersive VR simulation increased self-efficacy and intrinsic motivation more than a conventional safety manual in laboratory safety training](immersive-vr-boosted-self-efficacy-intrinsic-motivation.md) — related
 - [Corrective feedback plus either GLA significantly improved students' safety behavior in VR, with no difference between re-experiencing and self-explaining](gla-corrective-feedback-improve-safety-vr.md) — related
+- [Several included studies found haptic VR training equivalent rather than superior to conventional dental training](ir-dental-equivalence-mixed-findings.md) — a narrower finding that bears on this claim
+- [Virtual haptic drilling training achieved outcomes similar to conventional practice in less time in restorative dentistry](ir-shortens-dental-training-duration.md) — related

@@ -16,12 +16,14 @@ sources:
     author: "Yujin Lee, Mary M. Capraro, Robert M. Capraro & Ali Bicer"
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # Effect sizes across included studies were heterogeneous (Q=13.886, p<.05), and the article concludes a random-effects model is appropriate
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r1` · `q2`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Yujin Lee, Mary M. Capraro, Robert M. Capraro & Ali Bicer. (2018). A Meta-Analysis: Improvement of Students’ Algebraic Reasoning through Metacognitive Training. International Education Studies, 11(10). https://doi.org/10.5539/ies.v11n10p42
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r1`
 
 Heterogeneity testing reported in the Results section for the initial 22 effect sizes: the printed statistics "(I2<0, Q=13.886, p<.05)" are described by the article as indicating between-studies heterogeneity.
 

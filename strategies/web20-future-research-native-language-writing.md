@@ -17,7 +17,7 @@ sources:
 # Direct future wiki and blog research toward native-language and writing teaching, and conduct separate meta-analyses per environment
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 quant-synthesis), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The authors recommend specific directions for future research: studies "are needed in two major areas: native language teaching and writing teaching", since wikis and blogs are used frequently in EFL but rarely studied for native-language writing. They also recommend separate meta-analyses for each environment, comparisons of the two mediums, inclusion of more web 2.0 tools (podcasts, social networks, RSS), and meta-analyses of other outcome variables such as attitude, self-efficacy, and anxiety. They caution that including a variety of technologies in one analysis brings challenges such as differences in studies' contexts and utilization of technologies.

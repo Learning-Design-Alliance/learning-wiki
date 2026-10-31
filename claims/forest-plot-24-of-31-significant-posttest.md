@@ -16,18 +16,22 @@ sources:
     author: "San, I. & Kis, A."
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
   - id: san-2018-2
     resource: "https://doi.org/10.21890/ijres.428950"
     title: "San, I. & Kis, A. (2018). Effect of traditional methods in geometry and numbers learning domains on academic achievement: A Meta-analysis study. International Journal of Research in Education and Science (IJRES), 4(2), 544-554. https://doi.org/10.21890/ijres.428950"
     author: "San, I. & Kis, A."
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Most individual studies favor posttest over pretest: 24 of 31 show statistically significant gains and 28 of 31 favor posttest
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 San, I. & Kis, A. (2018). Effect of traditional methods in geometry and numbers learning domains on academic achievement: A Meta-analysis study. International Journal of Research in Education and Science (IJRES), 4(2), 544-554. https://doi.org/10.21890/ijres.428950
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Findings read from the forest plot of the 31 included studies, where standardized mean differences with 95% confidence intervals were "in favor of the posttest group".
 
@@ -50,7 +54,7 @@ Findings read from the forest plot of the 31 included studies, where standardize
 
 San, I. & Kis, A. (2018). Effect of traditional methods in geometry and numbers learning domains on academic achievement: A Meta-analysis study. International Journal of Research in Education and Science (IJRES), 4(2), 544-554. https://doi.org/10.21890/ijres.428950
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Distribution of the 31 studies' effect sizes by Cohen's classification and direction, as reported alongside the forest plot (Figure 1) of the meta-analysis.
 

@@ -55,3 +55,6 @@ KJ-method qualitative descriptive analysis of open-ended responses from all 20 p
 - [VR-based training with radiation field visualization received significantly higher ratings for radiation understanding and visualization than conventional training (r=0.878)](vr-radiation-visualization-higher-understanding-ratings.md) — related
 - [Conventional training received significantly higher ratings for perceived realism and immersion than VR-based training (r=0.774)](conventional-training-higher-realism-immersion.md) — related
 - [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — related
+- [Haptic virtual reality simulation reduces procedural time for pulpotomy training compared with conventional simulators](ir-reduces-procedural-time-dental.md) — related
+- [Virtual haptic drilling training achieved outcomes similar to conventional practice in less time in restorative dentistry](ir-shortens-dental-training-duration.md) — related
+- [Several included studies found haptic VR training equivalent rather than superior to conventional dental training](ir-dental-equivalence-mixed-findings.md) — related

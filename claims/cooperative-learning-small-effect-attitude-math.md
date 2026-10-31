@@ -16,12 +16,14 @@ sources:
     author: Gulfer Capar, Kamuran Tarim
     q: 3
     i: 0
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # Cooperative learning has a small, positive, significant effect on attitudes towards mathematics (d++ = 0.16)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study · quant-synthesis `r1` · `q3` · `i0` negligible
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Gulfer Capar, Kamuran Tarim. (2015). Efficacy of the Cooperative Learning Method on Mathematics Achievement and Attitude: A Meta-Analysis Research. Educational Sciences Theory & Practice. https://doi.org/10.12738/estp.2015.2.2098
 
-`q3 · i0`
+`q3 · i0` · `quant-synthesis · r1`
 
 Random-effects synthesis of the attitude comparisons included in the meta-analysis; the article reports the general effect size was "low ( d+ = 0.16; n = 10)". The abstract describes the attitude effect as small, positive, and significant.
 

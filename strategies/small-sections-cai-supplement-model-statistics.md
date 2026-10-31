@@ -17,7 +17,7 @@ sources:
 # Deliver CAI in small class sections as a supplement using tutorials, simulations, computation, and drill-and-practice
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (7 for) · 1 study, `q3` · 0 of 1 report an effect size · 7 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 7 claims rest on one study
 
 ## Description
 Based on the meta-analysis's moderator findings, the authors propose a formula or model for optimal statistics instruction: "Such a formula or model would include small class sections that use CAI to enhance or supplement activities, and using the computer for the purposes of tutorial, simulation, computation and drill and practice." Smaller classes with cooperative learning groups are described as a bridge for computer novices. The strategy integrates the moderator variables that showed the largest effects.

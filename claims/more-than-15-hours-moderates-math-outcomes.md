@@ -16,12 +16,14 @@ sources:
     author: "Stevens, E. A., Rodgers, M. A., & Powell, S. R."
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Interventions providing more than 15 total hours significantly moderate mathematics outcomes for students with MD in grades 4–12
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q2`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Stevens, E. A., Rodgers, M. A., & Powell, S. R. (2018). Intensive interventions in mathematics for upper elementary and secondary students: A meta-analysis of research. Remedial and Special Education, 39(6), 327–340. https://doi.org/10.1177/0741932517731887
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r3`
 
 Moderator analysis within the FAT-PET model on the subsample excluding small-sample studies. The article reports "treatment provided for more than 15 hours (p = .013)" was a statistically significant predictor, while group size, sessions, grade level, and study quality were not.
 

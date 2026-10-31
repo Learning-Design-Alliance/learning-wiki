@@ -16,12 +16,14 @@ sources:
     author: Özgür Ulubey
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Effect size of creative drama on skills varies significantly with duration of experimental application, with longer applications showing larger effects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Özgür Ulubey. (2018). The Effect of Creative Drama as a Method on Skills: A Meta-analysis Study. Journal of Education and Training Studies, 6(4). https://eric.ed.gov/?id=EJ1172791
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Moderator analysis across the 63 studies grouped by application duration (1-10 to 41+ hours). The article reports the significant Qbetween statistic and per-level effect sizes, with 1-10 hours medium (ES=.525) and 21-30 and 31-40 hours large.
 
@@ -51,3 +53,8 @@ Moderator analysis across the 63 studies grouped by application duration (1-10 t
 - [The creative drama method has a large positive effect on students' skill development](creative-drama-large-effect-skills.md) — related
 - [Effect size of creative drama on skills does not vary significantly by practitioner (researcher vs teacher)](creative-drama-practitioner-null-moderator.md) — related
 - [Effect size of creative drama does not vary significantly by skill type (social, basic language, higher thinking)](creative-drama-skill-type-null-moderator.md) — related
+- [Creative drama's effect on achievement does not significantly differ by grade level (QB = 3.75, df = 4, p > .05)](creative-drama-effect-no-grade-level-difference.md) — related
+- [Creative drama's effect on achievement does not significantly differ by implementation period (QB = 7.63, df = 4, p > .05), though the 9–18-week group showed the largest descriptive ES (2.55)](creative-drama-effect-no-implementation-period-difference.md) — related
+- [Creative drama's effect on achievement does not significantly differ by subject field (p > .05), though the English-lesson effect size (ES = 3.37) was descriptively highest](creative-drama-effect-no-subject-field-difference.md) — related
+- [Thematic analysis of 14 studies of student views found creative drama produced influential outcomes across cognitive, creative/critical-thinking, learning-environment, and social-affective domains, along with negative aspects](creative-drama-thematic-outcomes-domains.md) — related
+- [Effect sizes do not differ significantly by duration of application, with 1-10 hours (g = 1.837) and 21-30 hours (g = 1.894) showing larger point estimates](no-significant-difference-by-application-duration.md) — reports the opposite

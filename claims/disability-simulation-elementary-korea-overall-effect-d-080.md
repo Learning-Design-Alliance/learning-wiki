@@ -16,12 +16,14 @@ sources:
     author: Mookyung Jeon
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # Disability simulation shows a medium-to-large overall effect on elementary students' perception, attitudes, and behaviors in Korean studies (weighted d = .80)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r1` · `q3` · `i3` large
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Mookyung Jeon. (2018). Meta-Analysis of Disability Simulation Research for Elementary Students in Korea. International Journal of Special Education, 33(1). https://eric.ed.gov/?id=EJ1184078
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r1`
 
 Meta-analysis of eight peer-reviewed Korean studies (published since 2000) of disability simulation with elementary students, computing Cohen's d under a random effects model due to considerable heterogeneity (I² = 81%). The article reports "a median effect size of .73" and a weighted d of .80, with effect sizes ranging from .05 to 2.51.
 

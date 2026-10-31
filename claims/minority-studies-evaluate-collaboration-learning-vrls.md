@@ -72,3 +72,4 @@ Review synthesis of the 26 studies assessing learning outcomes of collaborative 
 - [Synchronous communication is the most common collaboration support integrated in educational VRLs, and few labs offer none](synchronous-communication-most-common-in-vrls.md)
 - [Collaborative VRLs are predominantly STEM-focused, virtual, non co-located, synchronous, and 2D](vrl-collaboration-corpus-properties.md)
 - A systematic review found literature reviews on collaborative learning in VR use very broad VR definitions, with few included papers using HMDs — related
+- [Collaboration is rarely explicitly designed or measured in virtual-laboratory physics studies despite group work being the norm](collaboration-rarely-designed-or-measured.md) — related

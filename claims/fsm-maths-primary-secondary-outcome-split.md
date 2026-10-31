@@ -16,12 +16,14 @@ sources:
     author: Bilal Ashraf, Akansha Singh, Germaine Uwimpuhwe, Tahani Coolen-Maturi, Jochen Einbeck, Steve Higgins and Adetayo Kasim
     q: 3
     i: 0
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Mathematics effects on FSM pupils differed by outcome status: near-zero as primary outcome (0.01) and negative as secondary outcome (-0.07)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i0` negligible
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Bilal Ashraf, Akansha Singh, Germaine Uwimpuhwe, Tahani Coolen-Maturi, Jochen Einbeck, Steve Higgins and Adetayo Kasim. (2021). Individual participant data meta-analysis of the impact of EEF trials on the educational attainment of pupils on Free School Meals: 2011 - 2019. Education Endowment Foundation. https://eric.ed.gov/?id=ED625398
 
-`q3 · i0`
+`q3 · i0` · `quant-synthesis · r2`
 
 Subgroup IPD meta-analysis by primary/secondary outcome status (Table 8; 42 primary, 6 secondary maths trials). The report notes maths as a secondary outcome "had on average negative effects on FSM pupils, though there were just six trials"; the secondary-outcome credible interval includes zero.
 

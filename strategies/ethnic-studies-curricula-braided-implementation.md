@@ -43,6 +43,7 @@ Ethnic Studies Local Support Grant funding addresses designing and implementing 
 - [Fund anti-bias education through a comprehensive diversity plan tied to specific outcomes, student-centered efforts, and redress mechanisms](anti-bias-education-grant-diversity-plan-strategies.md)
 - [Implement the CCSS with AI/AN students through expanded resources, localization of reform, and specialized extended professional development](ccss-implementation-ai-an-localization-pd.md)
 - [Expand transitional kindergarten and preschool by braiding UPK funds with hiring, culturally responsive curriculum, and community college partnerships](upk-transitional-kindergarten-braided-implementation.md)
+- [Adapt RaT curricula to local cultural, institutional, and workforce characteristics rather than directly adopting Western-designed programs](contextually-adapted-rat-program-design.md)
 
 ## Examples
 -

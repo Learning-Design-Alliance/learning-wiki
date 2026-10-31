@@ -16,12 +16,14 @@ sources:
     author: Kelly C. Dreger, Ed.D. and Steve Downey, Ph.D.
     q: 2
     i: 3
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Aggregated effect sizes differ by outcome type: behavior highest (g = 2.38), performance large (g = 0.91), motivation small and negative (g = -0.39), none statistically significant
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2` · `i3` large
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Kelly C. Dreger, Ed.D. and Steve Downey, Ph.D. (2022). Reinforcement Practicality for Middle School Students: A Meta-Analysis. Valdosta State University. https://eric.ed.gov/?id=EJ1355660
 
-`q2 · i3`
+`q2 · i3` · `quant-synthesis · r2`
 
 Aggregation of the 31 studies' effect sizes by outcome category (Performance, Behavior, Motivation) in R. The article reports behavior at "g = 2.38", performance at g = 0.91, and motivation at g = -0.39, with an overall test at p = 0.24 and 96.54% heterogeneity.
 

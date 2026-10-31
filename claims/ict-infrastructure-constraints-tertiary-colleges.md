@@ -16,18 +16,22 @@ sources:
     author: Gloria Mothibi
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 1
   - id: gloria-mothibi-2015-2
     resource: "https://eric.ed.gov/?id=EJ1082408"
     title: "Gloria Mothibi. (2015). A Meta-Analysis of the Relationship between E-Learning and Students' Academic Achievement in Higher Education. Journal of Education and Practice, Vol.6, No.9. https://eric.ed.gov/?id=EJ1082408"
     author: Gloria Mothibi
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # Tertiary institutions face substantial ICT infrastructure constraints, with 54.2% of colleges lacking well-equipped computer laboratories and only 46% ICT usage reported
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r1` · `q2`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Gloria Mothibi. (2015). A Meta-Analysis of the Relationship between E-Learning and Students' Academic Achievement in Higher Education. Journal of Education and Practice, Vol.6, No.9. https://eric.ed.gov/?id=EJ1082408
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r1`
 
 The article reports, citing Mahdinejad and Amoii, a study on tertiary educational institutions showing "54.2% of the colleges lack well equipped compu ter laboratories", implying few colleges could achieve quality assurance in teaching and learning.
 
@@ -50,7 +54,7 @@ The article reports, citing Mahdinejad and Amoii, a study on tertiary educationa
 
 Gloria Mothibi. (2015). A Meta-Analysis of the Relationship between E-Learning and Students' Academic Achievement in Higher Education. Journal of Education and Practice, Vol.6, No.9. https://eric.ed.gov/?id=EJ1082408
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r1`
 
 The article reports, citing Shekari, relatively low ICT facility usage of "46%" in higher education colleges, with teachers and students constrained by inadequate ICT facilities, implying limited opportunities to expand knowledge and skills.
 

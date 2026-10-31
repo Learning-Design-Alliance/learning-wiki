@@ -16,12 +16,14 @@ sources:
     author: "Joelle Fingerhut, & Mariola Moeyaert"
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # DTT implementation accuracy increases by 1.33 with each additional observation during the intervention phase
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Joelle Fingerhut, & Mariola Moeyaert. (2022). Training Individuals to Implement Discrete Trials with Fidelity: A Meta-Analysis. Focus on Autism and Other Developmental Disabilities, 37(4), 239–250. https://doi.org/10.1177/10883576221081076
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r3`
 
 Model 4 (no moderators) of the HLM meta-analysis across all 46 SCED studies, estimating the within-intervention time trend. No standardized effect size is printed.
 
@@ -44,7 +46,7 @@ Model 4 (no moderators) of the HLM meta-analysis across all 46 SCED studies, est
 
 ## Related Claims
 
-- [Complete behavioral skills training is statistically significantly more effective than trainings using only some BST components for DTT implementation fidelity](bst-more-effective-than-partial-component-training.md) — related
+- [In a meta-analysis of single-case studies, participants trained with complete behavioral skills training had significantly higher DTT implementation fidelity than those trained with only one, two, or three BST components](bst-more-effective-than-partial-component-training.md) — related
 - [DTT implementation fidelity declines slightly after training ends, with a statistically significant difference between intervention and maintenance slopes](dtt-fidelity-declines-during-maintenance.md) — related
 - [DTT implementation fidelity declines slightly after training ends, though the decline may reflect outliers](fidelity-declines-in-maintenance.md) — related
 - [Behavioral skills training and other trainings raise DTT implementation fidelity from a low baseline of 40.61% to over 90% accuracy by the end of training](bst-improves-dtt-implementation-fidelity.md) — related

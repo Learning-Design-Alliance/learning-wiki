@@ -16,12 +16,14 @@ sources:
     author: Hakan Tekedere, Hanife Göker
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # Funnel plot analysis showed no publication bias among the 15 studies included in the AR meta-analysis
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r1` · `q3`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Hakan Tekedere, Hanife Göker. (2016). Examining the Effectiveness of Augmented Reality Applications in Education: A Meta-Analysis. International Journal of Environmental & Science Education, 11(16), 9469-9481. https://creativecommons.org/licenses/by/4.0/
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r1`
 
 Publication bias assessed via funnel scatter graphic (Figure 1). The article reports the studies "are distributed in a symmetrical manner, and only 2 of them are outside the pyramid", one of which lies in the middle part, concluding there is no publication bias.
 

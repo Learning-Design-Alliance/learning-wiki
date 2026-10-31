@@ -16,12 +16,14 @@ sources:
     author: "Balta, N., & Sarac, H."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # The effect of the 7E learning cycle does not differ significantly by school level, publication type, or intervention duration
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Balta, N., & Sarac, H. (2016). The Effect of 7E Learning Cycle on Learning in Science Teaching: A meta-Analysis Study. European Journal of Educational Research, 5(2), 61-72. https://doi.org/10.12973/eu-jer.5.2.61
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Meta-analytic sub-group analyses across publication type (article, master thesis, PhD thesis), school level (middle school, high school, university), and duration (long, short, blank). The quote states the three non-significant groupings; the printed QB statistics appear in Table 4 and the results text.
 
@@ -50,3 +52,4 @@ Meta-analytic sub-group analyses across publication type (article, master thesis
 - [The effect of multiple intelligence practices does not differ significantly by type of study (article, master's thesis, doctoral thesis)](mi-effect-no-difference-study-type.md) — related
 - [Effect sizes differ significantly by publication type, with master's theses and articles showing higher effects than PhD theses.](moderator-publication-type-effect.md) — related
 - [Academic achievement effects of STEM practices differ significantly by publication type and education level but not by lesson type](stem-achievement-moderators-publication-type-education-level.md) — related
+- [Publication type, course type, educational level, and experimental duration did not significantly moderate the effect of context-based learning on academic achievement](cbl-achievement-non-significant-moderators.md) — related

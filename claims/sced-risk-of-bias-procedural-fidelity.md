@@ -16,12 +16,14 @@ sources:
     author: Joelle Fingerhut and Mariola Moeyaert
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Included single-case design studies show high risk of bias on procedural fidelity and outcome-assessor blinding
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Joelle Fingerhut and Mariola Moeyaert. (2022). Training Individuals to Implement Discrete Trials with Fidelity: A Meta-Analysis. Focus on Autism and Other Developmental Disabilities. https://doi.org/10.1177/10883576221081076
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Risk-of-bias appraisal of the 46 included studies using the Reichow et al. (2018) tool adapted from the Cochrane tool, rated by two coders with 100% interrater reliability. The article reports "17 studies (40%) had a low risk of bias" for procedural fidelity.
 
@@ -45,3 +47,4 @@ Risk-of-bias appraisal of the 46 included studies using the Reichow et al. (2018
 ## Related Claims
 - [In randomized trials, long-term outcomes rated high risk of bias had larger significant effects (g = .29) than low/some-concerns outcomes (g = .07, nonsignificant)](high-risk-of-bias-rcts-larger-long-term-effects.md) — related
 - [Schools trained in SWPBIS implement the model with high, sustained fidelity on the School-Wide Evaluation Tool](swpbis-training-high-fidelity-set.md) — related
+- [Most TCSM studies lacked numerical indices of procedural integrity: seven of nine omitted initial-training indices and five of nine omitted treatment-fidelity indices](tcsm-procedural-integrity-gaps.md) — related

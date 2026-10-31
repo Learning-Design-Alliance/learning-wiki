@@ -16,12 +16,14 @@ sources:
     author: Pinar Karaman
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Publication type (article vs. thesis) does not significantly moderate the effect of formative assessment on student learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Pinar Karaman. (2021). The Effect of Formative Assessment Practices on Student Learning: A Meta-Analysis Study. International Journal of Assessment Tools in Education. https://doi.org/10.21449/ijate.870300
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Mixed-effects subgroup analysis comparing 33 effect sizes from published articles with 14 from master's and doctoral theses. The article reports the subgroups "did not make a significant contribution to the variance"; the author concludes the finding was resistant to file-drawer threat.
 

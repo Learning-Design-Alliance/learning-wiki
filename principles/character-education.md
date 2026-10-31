@@ -35,7 +35,7 @@ sources:
 # Character Education
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 28 claims (19 for, 8 mixed, 1 against) · 14 studies (5 theoretical, 3 quant-synthesis, 2 causal, 2 associational, 1 review, 1 qualitative), `q1`–`q4` · 4 of 14 report an effect size · 27 claims rest on one study
+> **Evidence** · 29 claims (20 for, 8 mixed, 1 against) · 15 studies (5 theoretical, 4 quant-synthesis, 2 causal, 2 associational, 1 review, 1 qualitative), `q1`–`q4` · 5 of 15 report an effect size · 28 claims rest on one study
 
 ## Conditional relationship
 
@@ -151,6 +151,7 @@ Behaviour, civic commitment, ethical reasoning, attitudes, achievement and what 
 ## Claims
 
 - [Students' perceptions of ethicality and of rule compliance were strongly and positively correlated, with rule ratings consistently higher than ethicality ratings](../claims/ethicality-and-rule-compliance-perceptions-strongly-correlated.md) [~W]
+- [Conflict resolution, peace education and peer mediation programs have a large overall positive effect on students' conflict resolution skills (Hedge's g = 1.256)](../claims/cre-pe-pm-large-overall-effect-conflict-resolution-skills.md) [+W]
 
 ## Related Principles
 - [Social-Emotional Learning (pattern)](../patterns/social-emotional-learning.md) — explicit teaching of named social and emotional skills; overlaps with character education programmes, owns the skill sequence
@@ -178,6 +179,7 @@ Behaviour, civic commitment, ethical reasoning, attitudes, achievement and what 
 - [Return observational field-notes to teachers and discuss critical episodes in team meetings as dialogical data generation](../strategies/field-notes-dialogical-data-generation.md)
 - [Create dialogic spaces where students and educators negotiate GenAI dilemmas together](../strategies/dialogic-spaces-genai-negotiation.md)
 - [Teachers foster citizenship through everyday practices: modeling, feedback, and social referencing](../strategies/teacher-everyday-practices-foster-citizenship.md)
+- [AETCOM (Attitude, Ethics, and Communication) module](../products/aetcom-attitude-ethics-and-communication-module.md)
 
 ## Key Sources
 - Elkind, D., & Sweet, F. (2004). How to do character education. Retrieved from http://www.goodcharacter.com/Article_4.html

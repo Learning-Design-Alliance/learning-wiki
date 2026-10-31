@@ -121,7 +121,7 @@ This narrative review builds its case on human cognitive architecture, expert–
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does explaining and modelling a new method beat leaving learners to discover it with little support?* This table gathers the studies behind this claim and the 34 narrower claims that bear on it: **36 distinct studies** (12 causal, 9 review, 6 quant-synthesis, 4 theoretical, 4 qualitative, 1 design), `q1`–`q4`, 5 of 36 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Should learners explore a new idea with guidance, rather than be told it or left to find it alone?* This table gathers the studies behind this claim and the 34 narrower claims that bear on it: **36 distinct studies** (12 causal, 9 review, 6 quant-synthesis, 4 theoretical, 4 qualitative, 1 design), `q1`–`q4`, 5 of 36 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -330,3 +330,4 @@ This claim does not imply that pure discovery is useless or that direct telling 
 - [Desktop VR showed no significant declarative-knowledge advantage over traditional instruction after unguided exploration (d = 0.24), and a marginal, non-significant one after scaffolded guidance (d = 0.63, p = .06)](desktop-vr-scaffolded-guidance-declarative-knowledge-statics.md) — a narrower finding that bears on this claim
 - [A combination of human facilitators and well-constructed tutorials has the potential to improve girls' self-study skills and prepare them to become more independent learners](e5c-facilitators-tutorials-independent-learning.md) — related
 - [Teachers' lack of explicit references to guiding strategies in the CLE classroom indicates a need for better understanding of guidance of student learning and classroom social structure](teachers-lack-references-to-guiding-strategies-in-cle-classroom.md) — related
+- [The degree and type of guidance determines the effectiveness of digital inquiry, moderated by learners' prior knowledge](guidance-moderates-digital-inquiry.md) — a narrower finding that bears on this claim

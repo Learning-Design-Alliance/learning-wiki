@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 23 claims (13 for, 10 mixed) · 21 studies (6 associational, 5 quant-synthesis, 2 causal, 2 design, 2 theoretical, 1 review, 1 qualitative), `q1`–`q4` · 7 of 21 report an effect size · 21 claims rest on one study
+> **Evidence** · 31 claims (18 for, 13 mixed) · 22 studies (8 quant-synthesis, 6 associational, 2 causal, 2 design, 2 theoretical, 1 review, 1 qualitative), `q1`–`q4` · 8 of 22 report an effect size · 29 claims rest on one study
 
 ## Description and scope
 
@@ -128,11 +128,20 @@ This pattern is scoped to dividing a course between online and in-person work. I
 - [SWOT analysis concluded blended learning is the ideal future teaching concept and e-Learning implementation creates new cooperation opportunities without saving time](../claims/swot-blended-learning-ideal-concept.md) [+W]
 - [Blended learning has a very large positive overall effect on Indonesian students' mathematical ability compared to conventional approaches (g = 1.269)](../claims/blended-learning-large-positive-effect-math-ability-indonesia.md) [+W]
 - [Evidence-based learning, blended learning and computer-based learning combined with STEM showed large significant effects on learning achievement](../claims/seitla-evidence-blended-computer-large-effects.md) [+W]
+- [Blended instruction most strongly improves learning motivation (SMD = 0.936), with effects across six performance dimensions not significantly different](../claims/blended-instruction-dimension-effects-motivation-strongest.md) [+W]
+- [Blended instruction yields an above-moderate positive effect on student performance versus traditional teaching (SMD = 0.669)](../claims/blended-instruction-above-moderate-effect-smd-0669.md) [+W]
+- [Blended instruction effects are above moderate in all class sizes, largest for 51-100 students (SMD = 0.752), with no significant between-group difference](../claims/blended-instruction-effects-class-sizes.md) [+W]
+- [Teacher-student online interaction pattern significantly moderates blended instruction effects, with synchronous + asynchronous interaction largest (SMD = 1.189) and absence of interaction smallest (SMD = 0.130)](../claims/online-interaction-pattern-moderates-blended-instruction-effects.md) [+W]
+- [Sequence of online and face-to-face teaching does not significantly moderate blended instruction effects, though face-to-face + online + face-to-face shows the largest point estimate (SMD = 0.757)](../claims/blended-instruction-sequence-moderation-not-significant.md) [~W]
+- [Teaching period significantly moderates blended instruction effects, with one to three months producing the largest effect (SMD = 0.845)](../claims/teaching-period-moderates-blended-instruction-effects.md) [~W]
+- [Group learning yields a larger effect (SMD = 0.678) than independent learning (SMD = 0.584) in blended instruction, without significant between-group difference](../claims/group-learning-larger-effect-than-individual-in-blended-instruction.md) [~W]
+- [Blended instruction effects exceed 0.5 at every education level, peaking at senior secondary (SMD = 0.867), with no significant between-group difference](../claims/blended-instruction-effects-education-levels.md) [+W]
 
 ## Examples
 
 - [ETV, programmed workbook and drive-in seminar inservice course](../designs/etv-workbook-seminar-inservice-course.md) — an early broadcast-era blend of television, mailed workbook assignments and periodic seminars
 - [Semester-long blended course design requiring first-year engineering students to collaborate and inquire](../designs/blended-first-year-engineering-collaborative-inquiry-course.md)
+- [Flipped classroom as a blended, student-centered instructional model expanding active learning into class time](../designs/flipped-classroom-blended-model-theory.md)
 
 ## Key Sources
 - Graham, C. R. (2006). Blended learning systems. In C. J. Bonk & C. R. Graham (Eds.), *The handbook of blended learning*. Pfeiffer.

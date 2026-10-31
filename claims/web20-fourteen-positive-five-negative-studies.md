@@ -16,12 +16,14 @@ sources:
     author: "Ergul Sonmez, E., & Cakir, H."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Effect sizes were positive in fourteen of the nineteen included studies and negative in five
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Ergul Sonmez, E., & Cakir, H. (2021). Effect of Web 2.0 technologies on academic performance: A meta-analysis study. International Journal of Technology in Education and Science (IJTES), 5(1), 108-127. https://doi.org/10.46328/ijtes.161
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Figure 1 forest plot of individual study effect sizes under the random effects model. The authors report "positive in fourteen out of nineteen studies" and negative in five, noting only one of the five falls within a wide range per Cohen (1982).
 

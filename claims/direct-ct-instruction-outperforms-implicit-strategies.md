@@ -71,3 +71,5 @@ This is the review's synthesis of the direct instruction category of its 33 incl
 - [Effectiveness of CT instruction varies with year level: first-year students benefited most under general or infusion approaches](year-level-moderates-ct-instruction-effectiveness.md) — related
 - [HOTS-oriented teaching improves disposition towards critical thinking subscales including truth-seeking, open-mindedness, self-confidence, and maturity](hots-teaching-improves-ct-dispositions.md) — related
 - [Critical thinking instruction transfers better when taught alongside academic content than as a standalone subject](critical-thinking-transfer-better-alongside-content.md) — related
+- [Longitudinal, integrated RaT programs produce more durable teaching skill gains than brief stand-alone workshops](longitudinal-rat-programs-durable-gains.md) — related
+- [No included study measured critical thinking as an explicit outcome or compared simulation modalities directly](sbe-delirium-no-explicit-ct-measure.md) — related

@@ -16,18 +16,22 @@ sources:
     author: "HyeJin Hwang, Sonia Q. Cabell & Rachel E. Joyner"
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 2
   - id: hyejin-hwang-2021-2
     resource: "https://doi.org/10.1080/10888438.2021.1954005"
     title: "HyeJin Hwang, Sonia Q. Cabell & Rachel E. Joyner (2021). Effects of Integrated Literacy and Content-area Instruction on Vocabulary and Comprehension in the Elementary Years: A Meta-analysis. Scientific Studies of Reading. https://doi.org/10.1080/10888438.2021.1954005"
     author: "HyeJin Hwang, Sonia Q. Cabell & Rachel E. Joyner"
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Integrated instruction significantly improves content knowledge of taught science and social studies material (g = 0.89), but not on standardized knowledge measures
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3` · `i3` large
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -39,7 +43,7 @@ sources:
 
 HyeJin Hwang, Sonia Q. Cabell & Rachel E. Joyner (2021). Effects of Integrated Literacy and Content-area Instruction on Vocabulary and Comprehension in the Elementary Years: A Meta-analysis. Scientific Studies of Reading. https://doi.org/10.1080/10888438.2021.1954005
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r2`
 
 Supplementary random-effects analysis of studies reporting content-knowledge posttests (not an inclusion criterion). The pooled effect was 0.89, CI [.54, 1.23], p < .001, with substantial heterogeneity (I2 = 87.49).
 
@@ -49,7 +53,7 @@ Supplementary random-effects analysis of studies reporting content-knowledge pos
 
 HyeJin Hwang, Sonia Q. Cabell & Rachel E. Joyner (2021). Effects of Integrated Literacy and Content-area Instruction on Vocabulary and Comprehension in the Elementary Years: A Meta-analysis. Scientific Studies of Reading. https://doi.org/10.1080/10888438.2021.1954005
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Measure-type subgroups for content knowledge. Researcher-developed measures showed g = 0.94 (p < .001); standardized measures (n = 6) were not significant, and only highly aligned researcher-developed measures were significant. Equivalence was not tested.
 

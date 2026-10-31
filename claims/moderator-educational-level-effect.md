@@ -16,12 +16,14 @@ sources:
     author: Mehmet Fatih Ayaz, Hanifi Şekerci
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Effect sizes differ significantly by educational level, with the highest effect at university level (ES = 2.254) and the lowest at primary level (ES = 0.936).
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Mehmet Fatih Ayaz, Hanifi Şekerci. (2015). The Effects of the Constructivist Learning Approach on Student's Academic Achievement: A Meta-Analysis Study. The Turkish Online Journal of Educational Technology, 14(4). https://eric.ed.gov/?id=EJ1077612
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r2`
 
 Moderator analysis by educational level (Table 2) across the 53 studies. The article reports "the effect size value of the University which has the highest effect size (ES= 2.254)" versus primary first level at 0.936.
 
@@ -48,3 +50,4 @@ Moderator analysis by educational level (Table 2) across the 53 studies. The art
 - [The effect of computer-based teaching on academic success differs significantly by grade level, with the largest effect in secondary schools (ES = 1.31) and the smallest in primary schools (ES = .66)](cbt-effect-differs-by-grade-level-secondary-largest.md) — related
 - [Educational level does not significantly moderate the effect of constructivism on attitudes towards lessons](education-level-not-significant-moderator-constructivism-attitudes.md) — reports the opposite
 - [Attitude effects of STEM practices differ significantly by education level but not by publication type or lesson type](stem-attitude-moderators-education-level.md) — related
+- [Among applications for retention of pre-service teachers, the Learning Together Technique had the highest effect size (d=2,0606, huge) and the Jigsaw Technique the lowest (d=0,5461, medium)](learning-together-highest-retention-jigsaw-lowest-meta-analysis.md) — related

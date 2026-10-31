@@ -80,7 +80,7 @@ Pashler, H., Cepeda, N. J., Wixted, J. T., & Rohrer, D. (2005). When does feedba
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*For associations and recall items, does an error help or hurt once the correct answer follows it, and must it be corrected at once?* This table gathers the studies behind this claim and the 14 narrower claims that bear on it: **12 distinct studies** (5 causal, 3 quant-synthesis, 3 review, 1 theoretical), `q1`–`q4`, 3 of 12 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does feedback after retrieval add to the benefit?* This table gathers the studies behind this claim and the 14 narrower claims that bear on it: **12 distinct studies** (5 causal, 3 quant-synthesis, 3 review, 1 theoretical), `q1`–`q4`, 3 of 12 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|

@@ -16,12 +16,14 @@ sources:
     author: Hafize Er-Türküresin
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # No publication bias was detected in the set of creative drama studies on Social Studies achievement
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r1` · `q3`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Hafize Er-Türküresin. (2020). The effect of using creative drama method on student achievement in the social studies course: A meta-analysis study. International Online Journal of Education and Teaching (IOJET), 7(4), 1881-1896. http://iojet.org/index.php/IOJET/article/view/1056
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r1`
 
 Publication-bias testing within the meta-analysis using three methods: funnel plot, Orwin Safe N, and Duval and Tweedie's trim-and-fill. The fail-safe N of 1535 far exceeds the recommended 5-10 times the 19 included studies, and the trim-and-fill adjusted effect size equaled the observed value (1.17061).
 
@@ -49,3 +51,4 @@ Publication-bias testing within the meta-analysis using three methods: funnel pl
 - [Publication bias in the meta-analysis is low, as indicated by a fail-safe N of 4860 and funnel plot inspection.](low-publication-bias-failsafe-4860.md) — related
 - [Publication bias checks (funnel plot and Orwin's Fail-Safe N = 3182) found no evidence of bias in the meta-analysis](no-publication-bias-fail-safe-n-3182.md) — related
 - [Publication-bias checks (funnel plot symmetry and Rosenthal Safe N of 6801) indicate no publication bias in the synthesis](stem-digital-meta-no-publication-bias.md) — related
+- [Publication bias tests indicate the observed effects for both outcomes were not influenced by publication bias](cbl-meta-analysis-no-publication-bias.md) — related

@@ -54,3 +54,4 @@ Null result from the same quasi-experimental comparison of AI-supported inquiry-
 - [GPT feedback in VR markedly improved problem-solving and critical thinking but had limited impact on creativity](gpt-feedback-hots-problem-solving-critical-thinking-limited-creativity.md) — reports the opposite
 - [Inquiry-based learning strategies in laboratory courses are reported to significantly improve critical thinking skills](inquiry-based-lab-learning-improves-ct.md) — related
 - [Open inquiry enhances students' scientific and thinking skills, including metacognitive and creative thinking](open-inquiry-scientific-thinking-skills.md) — related
+- [No included study measured critical thinking as an explicit outcome or compared simulation modalities directly](sbe-delirium-no-explicit-ct-measure.md) — related

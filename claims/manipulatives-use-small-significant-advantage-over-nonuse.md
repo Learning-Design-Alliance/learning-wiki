@@ -16,12 +16,14 @@ sources:
     author: Amy B. Holmes, Vanderbilt University
     q: 3
     i: 1
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Manipulatives use during mathematics instruction yields a small statistically significant achievement advantage over nonuse in grades PK-12
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i1` small
 > **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Amy B. Holmes, Vanderbilt University. (2013). Effects of Manipulative Use on PK-12 Mathematics Achievement: A Meta-Analysis. SREE Spring 2013 Conference Abstract. https://eric.ed.gov/?id=ED563072
 
-`q3 · i1`
+`q3 · i1` · `quant-synthesis · r2`
 
 Random-effects inverse variance weighted meta-analysis of 14 studies (14 effect sizes, 1126 students) comparing manipulatives use to a business-as-usual nonuse condition. The pooled standardized mean difference effect size was 0.22, "which translates to a mathematics achievement percentile gain of 9%", reported as statistically significant.
 

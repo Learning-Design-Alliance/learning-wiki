@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 140 claims (65 for, 64 mixed, 11 against) · 120 studies (25 associational, 23 qualitative, 20 causal, 18 review, 14 design, 11 quant-synthesis, 5 theoretical), `q1`–`q4` · 23 of 120 report an effect size · 137 claims rest on one study
+> **Evidence** · 143 claims (66 for, 66 mixed, 11 against) · 123 studies (25 associational, 23 qualitative, 20 causal, 19 review, 17 quant-synthesis, 14 design, 5 theoretical), `q1`–`q4` · 25 of 123 report an effect size · 140 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -165,6 +165,9 @@ Technology integration is the element in which digital tools are used in direct 
 - [Success of e-learning implementation depends on facilities, management ability, learners' 21st-century technology skills, ease of use, pedagogic focus, collaboration, content quality, and user satisfaction](../claims/e-learning-success-factors-vet.md) [~W]
 - [Aided versus unaided AAC does not statistically moderate AAC effects, though exclusive aided AAC descriptively yields the largest estimates](../claims/aided-vs-unaided-aac-no-significant-difference.md) [~W]
 - [The article reports that usage of specialized software increased the positive effect of CAE on mathematics achievement](../claims/specialized-software-increased-cae-effect.md) [+W]
+- [CMC integration yields an overall small-to-medium positive effect (d = .554) on L2 learning outcomes compared with face-to-face communication](../claims/cmc-small-to-medium-positive-effect-l2.md) [+W]
+- [Improvements in objective knowledge outcomes (Kirkpatrick Level 2) from technology-enhanced learning were inconsistent across neuroanatomy interventions](../claims/tl-neuroanatomy-l2-knowledge-inconsistent.md) [~W]
+- [Educational apps produce effects about 0.17 SD higher on constrained than unconstrained skills](../claims/apps-larger-effects-constrained-skills.md) [~W]
 
 ## The evidence by question
 - *Does building AI tools into instruction raise achievement over teaching the same content without them, and in which settings?* [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](../claims/ai-instruction-stem-moderate-positive-effect.md) [+M]

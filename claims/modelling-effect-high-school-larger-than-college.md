@@ -16,12 +16,14 @@ sources:
     author: Andrzej Sokolowski
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # High school students show a larger achievement effect from mathematical modelling than college students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Andrzej Sokolowski. (2015). The Effects of Mathematical Modelling on Students’ Achievement-Meta-Analysis of Research. The IAFOR Journal of Education, Volume III - Issue I - Winter 2015. https://journals.iafor.org/index.php/joe
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r2`
 
 Subgroup moderator analysis of the 13-study pool, weighted per Cooper (2009), comparing seven high school and seven college studies. The article reports "ES = 0.94 (SE = 0.07)" for high school versus "ES = 0.45 (SE = 0.08)" for college.
 

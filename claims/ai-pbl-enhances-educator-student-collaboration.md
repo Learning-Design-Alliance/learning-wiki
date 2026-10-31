@@ -56,3 +56,4 @@ Systematic review (PRISMA 2020) of 50 peer-reviewed articles published 2015–20
 - [AI-enhanced assessment tools are reported to facilitate adaptive testing, real-time learner support, and data-driven insights](ai-tools-adaptive-testing-realtime-support-insights.md) — related
 - [AI chatbots support skills development in writing, problem-solving, and group discussion facilitation](chatbot-skills-development.md) — related
 - [A systematic review of AI in problem-based learning reports, as a dominant theme of its 50 studies, that AI tools support adaptive, personalized learning linked to better engagement and problem-solving](ai-pbl-adaptive-personalized-engagement.md) — related
+- [The review finds flipped learning, PBL, gamification, and collaborative learning adapted to digital environments produced positive effects on motivation, participation, and transversal competences](flipped-pbl-gamification-collaborative-digital-effects.md) — related

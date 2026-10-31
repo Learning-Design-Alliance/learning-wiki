@@ -16,12 +16,14 @@ sources:
     author: "Aydin, M., Okmen, B., Sahin, S., & Kilic, A."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Heterogeneity across the included flipped learning studies is high (I² = 81.76)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Aydin, M., Okmen, B., Sahin, S., & Kilic, A. (2021). The Meta-Analysis of the Studies About the Effects of Flipped Learning on Students' Achievement. Turkish Online Journal of Distance Education-TOJDE, 22(1), Article 3. https://eric.ed.gov/?id=EJ1283687
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Heterogeneity test reported in the Findings section: Table 2 prints Q = 148.026, sd = 27, p = 0.000, and I² = 81.76, which the article's own scale classifies as high-level heterogeneity.
 

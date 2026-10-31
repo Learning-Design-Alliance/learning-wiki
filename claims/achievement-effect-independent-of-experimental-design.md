@@ -16,12 +16,14 @@ sources:
     author: Kanadlı, S.
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # The effect of learning-styles-tailored instruction on academic achievement does not differ significantly between quasi-experimental and true-experimental designs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Kanadlı, S. (2016). A meta-analysis on the effect of instructional designs based on the learning styles models on academic achievement, attitude and retention. Educational Sciences: Theory & Practice, 16, 2057–2086. https://doi.org/10.12738/estp.2016.6.0084
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Moderator analysis comparing 26 quasi-experimental and 4 true-experimental studies. The article reports the quasi-experimental common effect size (1.099) is larger than the true-experimental one (0.647), but "this difference was not significant as a result of the moderator analysis" (Q = 3.554, p = .059).
 

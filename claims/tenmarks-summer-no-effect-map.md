@@ -69,3 +69,4 @@ Table 3 prints pilot participants' mean NWEA MAP scores of 233.3 (SD 14.8) at ba
 - Springboard Summer scholars show larger reading improvements than statistically equivalent non-participating peers, meeting ESSA Tier 2 moderate evidence standards — related
 - [The report attributes stagnant learning results to program implementation rather than to the ed-tech tools themselves](implementation-not-tools-stagnant-results.md) — related
 - [Zearn Math schools significantly outperformed control schools on NWEA MAP in a large Texas RCT (effect size +0.11 overall)](zearn-rct-nwea-map-effect-011.md) — related
+- [Summer program effects on math and reading outcomes are similar, and studies' math and reading effect sizes are highly correlated (unweighted r=0.93).](summer-math-reading-effects-similar-highly-correlated.md) — related

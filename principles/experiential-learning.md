@@ -193,6 +193,7 @@ An engaging experience, an immediate skill gain, an explanation, near transfer, 
 - [Use a triadic guiding-question checklist to design and reflect on adult learning activities across preparation, performance and reflection](../strategies/triadic-guiding-questions-design-adult-programs.md)
 - [Use isomorphic framing to draw parallels between the empowerment model and the program's primary therapeutic theme](../strategies/isomorphic-framing-empowerment-model.md)
 - [Embed synthetic-culture interaction in teacher-led debriefing and repeated blended sessions](../strategies/mixer-embed-debriefing-whole-learning-experience.md)
+- [Design future pedagogical interventions aligned with the integrative model: case discussions requiring epistemological/ontological reflection, debriefings stimulating emotional and psychomotor awareness, and triangulated multi-dimensional assessment](../strategies/model-aligned-mr-pedagogical-interventions-pt.md)
 
 ## Key Sources
 - Dernova, M. (2015). Experiential learning theory as one of the foundations of adult learning practice worldwide. *Comparative Professional Pedagogy, 5*(2). [doi:10.1515/rpp-2015-0040](https://doi.org/10.1515/rpp-2015-0040)

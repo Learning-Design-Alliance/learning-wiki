@@ -51,3 +51,4 @@ Random-effects meta-analysis of eight studies (n = 1696) measuring student satis
 - [The academic performance advantage of flipped classrooms persists when studies with imputed data are excluded (SMD = 0.54), at low certainty](flipped-classroom-performance-sensitivity-imputed-data.md) — related
 - [Students in the flipped algebra course showed significant increases in quality of reflections and satisfaction](flipped-algebra-reflection-satisfaction-gains.md) — related
 - [Flipped classroom shows significant positive effects across class sizes, with the largest reported effect for medium-sized classes](flipped-classroom-class-size-moderation.md) — related
+- [Flipped classrooms are associated with higher learner satisfaction in medical education (pooled SMD = 0.69), with residents showing larger improvement than undergraduates (SMD 1.69 vs 0.37)](flipped-classroom-learner-satisfaction-residents.md) — related

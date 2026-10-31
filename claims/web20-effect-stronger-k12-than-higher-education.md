@@ -16,12 +16,14 @@ sources:
     author: "Ergul Sonmez, E., & Cakir, H."
     q: 2
     i: 2
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Wiki and blog effects on academic performance are stronger at K12 level (E++ = 0.845) than higher education (E++ = 0.71), with negative effect sizes occurring only in higher education studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2` · `i2` medium
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Ergul Sonmez, E., & Cakir, H. (2021). Effect of Web 2.0 technologies on academic performance: A meta-analysis study. International Journal of Technology in Education and Science (IJTES), 5(1), 108-127. https://doi.org/10.46328/ijtes.161
 
-`q2 · i2`
+`q2 · i2` · `quant-synthesis · r2`
 
 Moderator analysis by education level across the 19 included studies, 78.9% of which used university samples. The printed effect sizes are E++ = 0.71 for higher education and E++ = 0.845 for K12, quoted as "0.71 and 0.845, respectively"; the authors state negative effect sizes belonged only to higher education contexts.
 

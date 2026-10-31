@@ -16,12 +16,14 @@ sources:
     author: Mookyung Jeon
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # Behavioral outcomes show the largest effects of disability simulation, while the perception effect is not statistically significant
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r1` · `q3`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Mookyung Jeon. (2018). Meta-Analysis of Disability Simulation Research for Elementary Students in Korea. International Journal of Special Education, 33(1). https://eric.ed.gov/?id=EJ1184078
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r1`
 
 Moderator analysis by dependent variable in the meta-analysis: Table 2 reports weighted effect sizes of 1.11 for perception (2 ES), .58 for attitude (10 ES), and .98 for behavior (10 ES). The article states the perception confidence interval includes zero, "no statistical significance at 5% significance level"; no standardized effect size beyond these d values is printed.
 

@@ -58,6 +58,7 @@ The article recommends that educational institutions prioritise transparency in 
 - [Establish comprehensive institutional AI governance frameworks including task forces, roadmaps, and transparent policies](institutional-ai-governance-framework-strategy.md)
 - [Foster communities of practice for AI governance instead of rigid top-down policies](communities-of-practice-for-ai-governance.md)
 - [Design AIED deployments to meet school operational criteria such as support, stability, and availability](aied-deployments-meet-school-criteria.md)
+- [Design AI-mediated cognitive supports with transparency, clear boundaries, and teacher evaluation](ai-supports-transparency-boundaries-evaluation.md)
 
 ## Examples
 -

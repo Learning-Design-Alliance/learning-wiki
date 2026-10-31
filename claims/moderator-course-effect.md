@@ -16,12 +16,14 @@ sources:
     author: Mehmet Fatih Ayaz, Hanifi Şekerci
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Effect sizes differ significantly by course, with the highest effects in science learning, English, and computer courses and the lowest in religion.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Mehmet Fatih Ayaz, Hanifi Şekerci. (2015). The Effects of the Constructivist Learning Approach on Student's Academic Achievement: A Meta-Analysis Study. The Turkish Online Journal of Educational Technology, 14(4). https://eric.ed.gov/?id=EJ1077612
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r2`
 
 Moderator analysis by course (Table 2) across the 53 studies. The article reports the highest values for "science education of (ES=2.890), English (ES=2.743) and computer (ES=2.621)" and the lowest for religion (ES = 0.127, weak level).
 

@@ -56,8 +56,10 @@ AR's principal learning-science advantage is making invisible, three-dimensional
 4. Consolidate through [Application](../elements/application.md) — case-based tasks or supervised real procedures — so AR learning connects to clinical reasoning ([Situated Learning](../theories/situated-learning.md))
 
 ## Related Strategies
+
 - [Simulation-Based Medical Training](simulation-based-medical-training.md) — AR is one modality within the broader simulation family; VR and manikin simulation offer complementary fidelity trade-offs
 - [Virtual Reality (VR) Immersive Training](virtual-reality-immersive-training.md) — fully synthetic environments versus AR's overlay on the real world
+- [Adopt emerging gesture-capture and telestration technologies to extend embodied anatomical teaching in dental education](telestration-gesture-tech-dental-future-directions.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — instructor-led navigation of the AR model makes expert reasoning visible before independent exploration

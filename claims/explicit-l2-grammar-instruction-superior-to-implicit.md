@@ -104,7 +104,7 @@ Meta-analysis of 41 studies of explicit and implicit instruction on the acquisit
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*In second-language teaching, explicit rules and strategies or implicit exposure?* This table gathers the studies behind this claim and the 23 narrower claims that bear on it: **19 distinct studies** (6 review, 5 causal, 4 quant-synthesis, 4 theoretical), `q1`–`q3`, 0 of 19 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*In second-language grammar, does explicit instruction about a form help more than leaving it to implicit exposure?* This table gathers the studies behind this claim and the 23 narrower claims that bear on it: **19 distinct studies** (6 review, 5 causal, 4 quant-synthesis, 4 theoretical), `q1`–`q3`, 0 of 19 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|

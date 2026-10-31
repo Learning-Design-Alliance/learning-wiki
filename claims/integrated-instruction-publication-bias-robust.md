@@ -16,12 +16,14 @@ sources:
     author: "HyeJin Hwang, Sonia Q. Cabell & Rachel E. Joyner"
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Publication bias does not threaten the pooled effect estimates
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 HyeJin Hwang, Sonia Q. Cabell & Rachel E. Joyner (2021). Effects of Integrated Literacy and Content-area Instruction on Vocabulary and Comprehension in the Elementary Years: A Meta-analysis. Scientific Studies of Reading. https://doi.org/10.1080/10888438.2021.1954005
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Publication-bias analyses for the vocabulary effect using Egger's regression and the PublicationBias R package (Mathur & VanderWeele, 2020). The sensitivity analysis found it "Not Possible" to attenuate the estimate to zero; a parallel analysis for comprehension reached the same conclusion.
 

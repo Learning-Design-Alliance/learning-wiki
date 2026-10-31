@@ -16,12 +16,14 @@ sources:
     author: "Hou, H., Zhang, X., & Wang, D."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Teaching programs such as hands-on creation, experimental verification, and process participation are exceptionally effective at enhancing student innovation ability
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Hou, H., Zhang, X., & Wang, D. (2022). Can educational robots improve student creativity: A meta-analysis based on 48 experimental and quasi-experimental studies. Best Evidence in Chinese Education, 11(1):1449-1454. https://doi.org/10.15354/bece.22.ab001
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Teaching-program moderator analysis within the meta-analysis; the article reports significance without printing effect sizes for individual programs, so no effect magnitude is reported here.
 

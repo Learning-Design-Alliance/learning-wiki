@@ -9,6 +9,7 @@ generated:
   at: 2026-10-08
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-10-31
 sources:
   - id: porowski-2024
     resource: "https://ies.ed.gov/use-work/resource-library/reports/"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` LetterWorks, Lexia Core5 Reading, and Seeing Stars had at most promising evidence, and the remaining 12 interventions had uncertain evidence of effects. [→ Porowski 2024](#porowski-2024)
@@ -52,3 +53,6 @@ Systematic review of 20 studies covering 18 interventions, all meeting WWC 5.0 s
 - [None of the WWC-standards-meeting studies of Tier 2 literacy interventions were conducted in CNMI or other Pacific islands, limiting generalizability](no-tier2-literacy-studies-conducted-in-cnmi.md) — related
 - [Literacy First shows strong ESSA evidence of positive effects in phonics and related alphabetics, reading fluency, and reading comprehension for grades K–2](literacy-first-strong-evidence-phonics-fluency-comprehension.md) — reports the opposite
 - [Reading Recovery improves receptive communication skills immediately after the intervention, with promising evidence from one small quasi-experimental study](reading-recovery-improves-receptive-communication.md) — a narrower finding that bears on this claim
+- [Tier 2 type reading interventions in grades K-3 show a moderate positive effect on not-standardized measures of foundational reading skills (mean ES = 0.62 across 33 studies).](tier2-k3-not-standardized-foundational-es-0-62.md) — related
+- [Tier 2 type reading interventions in grades K-3 show a moderate positive effect on standardized measures of foundational reading skills (mean ES = 0.49 across 63 studies).](tier2-k3-standardized-foundational-skills-es-0-49.md) — related
+- [Tier 2 type reading interventions in grades K-3 show a small to moderate positive effect on standardized language/comprehension measures (mean ES = 0.38 across 31 studies).](tier2-k3-standardized-language-comprehension-es-0-38.md) — related

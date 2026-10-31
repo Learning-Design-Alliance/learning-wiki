@@ -51,7 +51,7 @@ sources:
 # Inquiry-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 71 claims (40 for, 22 mixed, 9 against) · 76 studies (21 causal, 15 quant-synthesis, 10 review, 10 theoretical, 7 design, 6 qualitative, 4 associational), `q1`–`q4` · 19 of 76 report an effect size · 58 claims rest on one study
+> **Evidence** · 73 claims (42 for, 22 mixed, 9 against) · 78 studies (21 causal, 19 quant-synthesis, 11 review, 10 theoretical, 7 design, 6 qualitative, 4 associational), `q1`–`q4` · 19 of 78 report an effect size · 60 claims rest on one study
 
 ## Conditional relationship
 
@@ -202,6 +202,8 @@ An engaging investigation, an immediate conceptual gain, near transfer, far tran
 - [The 5E and related instructional models significantly improve pre-K–12 science achievement (g = 0.82)](../claims/5e-model-improves-science-achievement.md) [+W]
 - [Among pedagogical interventions, procedural and conceptual learning programs have the highest pooled effect sizes while inquiry-based learning is least effective](../claims/pedagogical-subtypes-procedural-conceptual-highest.md) [-W]
 - [The 5E learning model has a large positive effect on students' science process skills compared with traditional teaching](../claims/5e-model-large-effect-science-process-skills.md) [+W]
+- [The degree and type of guidance determines the effectiveness of digital inquiry, moderated by learners' prior knowledge](../claims/guidance-moderates-digital-inquiry.md) [+W]
+- [Task-driven learning, role-playing, inquiry-based, and case-based teaching show effects above 0.8 in blended instruction, while Q&A teaching shows no significant effect](../claims/blended-instruction-teaching-methods-effect-differences.md) [+W]
 
 ## Related Principles
 

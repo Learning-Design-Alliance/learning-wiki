@@ -17,7 +17,7 @@ sources:
 # Adopt student-centered innovative learning models and build teacher capacity to implement them in mathematics and statistics
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (1 for, 4 mixed) · 2 studies, `q3` · 1 of 2 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (1 for, 4 mixed) · 2 studies (2 quant-synthesis), `q3` · 1 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 Based on the pooled effect, the article recommends that educators "adopt innovative learning models such as problem-based learning, blended learning, and metaverse-based instruction", applied through student-centered and inquiry-based strategies. It further recommends professional development programs equipping teachers with the pedagogical and technological competencies to implement these models effectively, and policymaker support via curriculum revision and digital-infrastructure investment for equitable access.

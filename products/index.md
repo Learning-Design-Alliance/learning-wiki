@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**2321 entries** · 0 stable · 2321 in review · 0 drafts
+**2328 entries** · 0 stable · 2328 in review · 0 drafts
 
 ---
 
@@ -56,6 +56,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Adult ADHD Self-Report Scale (ASRS v1.1)](adult-adhd-self-report-scale-asrs-v11.md) - The World Health Organization Adult ADHD Self-Report Scale (ASRS v1.1) is a six-item self-report screening assessment for probable adult ADHD symptoms.
 * [Adult Promise initiative](adult-promise-initiative.md) - A Lumina Foundation multiyear state-grant program launched in 2017 to engage and support adults ages 25 to 64 in postsecondary education, with Mathematica serving as its learning and evaluation partner from 2017 to 2021.
 * [AEQ-ES adapted to English as L2 for primary school children](aeq-es-adapted-to-english-as-l2-for-primary-school-children.md) - A 32-item, face-supported Likert questionnaire adapted from the Achievement Emotion Questionnaire–Elementary School to measure primary pupils’ enjoyment, anxiety, and boredom when learning English as a second language.
+* [AETCOM (Attitude, Ethics, and Communication) module](aetcom-attitude-ethics-and-communication-module.md) - A structured curriculum module for medical students that develops attitudes, ethics, communication skills, and sociocultural and medico-legal understanding, delivered within medical education programmes.
 * [Agent4Edu](agent4edu.md) - Agent4Edu is an LLM-based personalized learning simulator developed by Luis Marquez-Carpintero et al.
 * [AgenticMath](agenticmath.md) - A Liu et al.
 * [AgenticMathQA](agenticmathqa.md) - AgenticMathQA is a curated 30K, 60K, or 90K mathematical problem-solution dataset released by Liu et al.
@@ -196,6 +197,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Beacon](beacon.md) - Beacon is a web-based conversational academic-support system developed by Andy Gray that uses retrieval-augmented generation over approved course teaching materials to assist undergraduate computing students.
 * [Becoming Effective Learners Student Survey (BEL-S)](becoming-effective-learners-student-survey-bel-s.md) - The BEL-S is a Rasch-based student self-report survey developed by Camille A.
 * [BEETLE II intelligent tutoring system](beetle-ii-intelligent-tutoring-system.md) - BEETLE II is an intelligent tutoring system developed by Dzikovska et al.
+* [Behavioral skills training (BST)](behavioral-skills-training-bst.md) - A behavior-analytic training package used by trainers to teach practitioners accurate performance through instruction, modeling, rehearsal, and feedback.
 * [Bell Chemistry Test and appended Payne correction sheet](bell-chemistry-test-and-appended-payne-correction-sheet.md) - A 25-question secondary-school chemistry achievement test with a Payne-prepared correction and partial-credit scoring sheet, originally used to assess knowledge of electrolysis, oxidation-reduction, valence, water purification, gases, and commercial chemistry.
 * [BELLA](bella.md) - BELLA is a symbolic-AI learning-by-teaching tutoring system developed by Lenat et al.
 * [Berea College Promise Neighborhood initiative](berea-college-promise-neighborhood-initiative.md) - A Berea College–run place-based education initiative serving students and communities across Clay, Jackson, and Owsley Counties in rural Appalachian Kentucky.
@@ -228,6 +230,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Bright Beginnings](bright-beginnings.md) - Bright Beginnings is a child-centered, literacy-focused preschool curriculum developed for early childhood education, comprising nine thematic units with classroom and home activities and parent involvement.
 * [British Council Knowledge-based Vocabulary Lists (KVL) difficulty dataset](british-council-knowledge-based-vocabulary-lists-kvl-difficulty-dataset.md) - A dataset developed from the British Council's Knowledge-based Vocabulary Lists containing productive English-vocabulary test items and GLMM-based difficulty scores for Chinese, German, and Spanish learners of English.
 * [Briya family literacy program](briya-family-literacy-program.md) - Briya Public Charter School runs this free Washington, D.C., family-literacy programme, providing adults with English, digital-literacy, and parenting education while their children receive early education.
+* [BSCS 5E Instructional Model](bscs-5e-instructional-model.md) - A Biological Science Curriculum Study framework for sequencing instruction through engagement, exploration, explanation, elaboration, and evaluation.
 * [Buffalo Promise Neighborhood](buffalo-promise-neighborhood.md) - Buffalo Promise Neighborhood is a local Promise Neighborhoods initiative serving a high-poverty Buffalo community through coordinated education, early-childhood, and family-support programming.
 * [Build & Show 3D virtual learning platform](build-show-3d-virtual-learning-platform.md) - Build & Show is a 3D virtual learning platform developed by Yeh and Lan that enables children aged nine and older to create 3D virtual worlds individually or collaboratively.
 * [Building Assets, Reducing Risks (BARR)](building-assets-reducing-risks-barr.md) - A schoolwide K–12 training and coaching program run by the BARR Center that integrates relationship-building, coordinated staff practices, and systematic academic and non-academic data use to improve student outcomes.
@@ -702,6 +705,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 #### F {: #letter-f }
 
+* [F-L-I-P framework of flipped learning](f-l-i-p-framework-of-flipped-learning.md) - The Flipped Learning Network's framework for implementing flipped learning through flexible environments, a student-centered learning culture, intentional content, and professional educators.
 * [Faces task](faces-task.md) - A computerized behavioral task developed by Bialystok, Craik, and Ryan that measures response suppression, inhibitory control, and task switching through speeded responses to gaze and eye-color stimuli.
 * [Facing History and Ourselves](facing-history-and-ourselves.md) - A character-education curriculum developed and delivered by Facing History & Ourselves that uses historical events, especially the Holocaust, to help middle and high school students examine identity, moral reasoning, and civic responsibility.
 * [Factory Craft](factory-craft.md) - A Minecraft-based game-based learning system developed by Yanjun Pan and colleagues that teaches middle-school computational thinking through factory-building gameplay, planning tools, and Canvas LMS integration.
@@ -854,6 +858,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Graphical Languages in Mathematics (GLIM) test](graphical-languages-in-mathematics-glim-test.md) - A 36-item assessment developed by Lowrie and colleagues to measure Grades 4–6 students' decoding of six graphical languages in mathematics, including number lines, graphs, maps, and diagrams.
 * [GraphoLearn (GL)](grapholearn-gl.md) - GraphoLearn is an adaptive digital reading game developed for young learners to practise phoneme discrimination, grapheme–phoneme correspondences, and early word decoding.
 * [Grasha-Riechmann Learning Style Inventory](grasha-riechmann-learning-style-inventory.md) - A 60-item Likert-scale assessment developed by Anthony Grasha to measure students' social-interaction learning-style preferences across independent-dependent, avoidant-participant, and collaborative-competitive dimensions; this study used a Turkish adaptation.
+* [GRAVEN database of hand-gesture representations of neuroanatomy](graven-database-of-hand-gesture-representations-of-neuroanatomy.md) - GRAVEN is a database of hand-gesture representations of neuroanatomical structures, nerves, vessels, and neurosurgical approaches developed for medical education and self-study.
 * [Green Dot Public Schools](green-dot-public-schools.md) - A nonprofit charter-school programme and school-design model run by Green Dot Public Schools that creates small community high schools organized around teacher support, autonomous leadership, college preparation, comprehensive student services, family engagement, and replicability.
 * [Group and representation tool (GRT)](group-and-representation-tool-grt.md) - The Group and representation tool (GRT), developed by Erkens, Bodemer, and Hoppe, transforms students' written text into variables to support heterogeneous group formation and cognitive group-awareness visualization.
 * [GrouPer](grouper.md) - GrouPer is an AI-based student-grouping recommendation tool developed for teachers that uses unsupervised clustering of assessment responses to support formative analysis and assignment of adapted learning activities.
@@ -1008,6 +1013,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 * [Janssen et al.'s twelve-element digital competence model](janssen-et-als-twelve-element-digital-competence-model.md) - A twelve-element framework developed by Janssen et al.
 * [Jastudy](jastudy.md) - Jastudy is a computer-assisted language-learning program developed by Liu et al.
+* [Jelajah Alam Sekitar (JAS) learning approach](jelajah-alam-sekitar-jas-learning-approach.md) - A nature-exploration biology learning approach developed and disseminated by the Biology Department of FMIPA UNNES in Indonesia, using learners' direct experience of the natural environment.
 * [JEU SERAI vocational guidance profiling game](jeu-serai-vocational-guidance-profiling-game.md) - JEU SERAI is a serious game developed by a consortium of two companies, two universities, and an adult training association that uses mini-games and questionnaires to generate players' Holland RIASEC vocational-interest profiles.
 * [jmatayoshi/affect-transitions](jmatayoshiaffect-transitions.md) - An open-source Python module by Jeffrey Matayoshi for simulating affect transitions and computing L and L* statistics.
 * [Job Corps](job-corps.md) - Job Corps is a U.S.
@@ -1037,6 +1043,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Kauffman Firm Survey](kauffman-firm-survey.md) - A panel dataset sponsored by the Ewing Marion Kauffman Foundation and conducted by Mathematica Policy Research that tracks U.S.
 * [KBDeX (Knowledge Building Discourse Explorer)](kbdex-knowledge-building-discourse-explorer.md) - KBDeX is a social network analysis tool developed by Oshima and colleagues for visualizing and analyzing collaborative ideas and discourse in knowledge-building communities.
 * [KDD Cup 2010 Bridge to Algebra dataset](kdd-cup-2010-bridge-to-algebra-dataset.md) - A Carnegie Learning–donated dataset distributed through the PSLC DataShop containing large-scale student interaction records from mathematics curriculum practice for educational data-mining and knowledge-tracing research.
+* [keepin' it R.E.A.L. (kiR) resistance-skills curriculum](keepin-it-real-kir-resistance-skills-curriculum.md) - A middle-school substance-use prevention curriculum that teaches refusal, explanation, avoidance, and leaving strategies through interactive classroom sessions, student-produced videos, and booster activities.
 * [Keller et al. (2021) harmonized six-cycle PISA top-performing student dataset](keller-et-al-2021-harmonized-six-cycle-pisa-top-performing-student-dataset.md) - A harmonized individual-participant dataset covering six PISA cycles and 82 countries, with accompanying analysis protocols, R code, and materials released by the study authors through OSF.
 * [Kentucky Academic Standards for Computer Science](kentucky-academic-standards-for-computer-science.md) - A framework issued by the Kentucky Department of Education that defines K–8 computer-science learning standards, including Data & Analysis and Impacts of Computing strands.
 * [KERMIT](kermit.md) - KERMIT is a knowledge-based intelligent tutoring and problem-solving environment developed by Pramuditha Suraweera for university students practising conceptual database design with the Entity-Relationship data model.

@@ -75,3 +75,5 @@ The review reports this study on preventing school-based attacks as evidence tha
 - [Effects on secondary behavioural outcomes (conduct problems, delinquency, substance use) are negligible or non-significant](secondary-behavioural-outcomes-negligible-nonsignificant.md) — related
 - [Substance abuse infractions declined by about 80% at both Roswell community schools during 2023–24](substance-abuse-infractions-dropped-80-percent-both-schools.md) — related
 - [Most educational interventions to counter community violence focus on individual behavior or group interaction, while strategies for transformation of social systems are underrepresented](community-violence-interventions-individual-group-focus-systems-underrepresented.md) — related
+- [School-only substance use interventions such as HeadOn and SUPEP improved knowledge and attitudes without corresponding behavioural change](school-only-interventions-knowledge-attitude-no-behaviour-change.md) — related
+- [No school-based intervention model for students already using substances was found: all examined models were preventive or protective in approach](no-corrective-school-substance-model-exists.md) — related

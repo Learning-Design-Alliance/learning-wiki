@@ -16,12 +16,14 @@ sources:
     author: "Mevlut AYDOGMUS & Cihad SENTURK"
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # The learning stations technique has a large positive effect on academic achievement compared to traditional teaching
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Mevlut AYDOGMUS & Cihad SENTURK. (2019). THE EFFECTS OF LEARNING STATIONS TECHNIQUE ON ACADEMIC ACHIEVEMENT: A META-ANALYTIC STUDY. Research in Pedagogy, Vol.9, No.1. https://doi.org/10.17810/2015.87
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Meta-analysis using Comprehensive Meta-Analysis 2.0 of 16 measurements from 13 studies (9 master theses, 4 articles) comparing learning stations to traditional teaching. The fixed effects value was 0.84 and the random effects value was 0.90, described as "a large effect according to Cohen's (1998) classification"; no standardized effect-size statistic with its symbol is printed for this pooled estimate beyond the g values themselves.
 

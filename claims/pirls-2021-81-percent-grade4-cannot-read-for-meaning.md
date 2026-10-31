@@ -13,12 +13,14 @@ sources:
     title: Gobodwana 2024
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # South African Grade 4 reading performance declined between 2016 and 2021, with 81% of Grade 4 learners unable to read for meaning in any language in 2021
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 > **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -30,7 +32,7 @@ sources:
 
 Gobodwana, A., 2024, 'The strategies in teaching isiXhosa semantics in Foundation Phase: A systematic review', Reading & Writing 15(1), a493. https://doi.org/10.4102/rw.v15i1.493
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The article's Figure 1 summary of SA PIRLS 2021 results reports the score decline and states that "81% of Grade 4 learners cannot read for meaning in any language", meaning only 19% could read for meaning in 2021.
 

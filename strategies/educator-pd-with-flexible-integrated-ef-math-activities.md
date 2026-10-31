@@ -54,6 +54,7 @@ The ONE programme delivered four weekly 30-minute face-to-face workshop-style pr
 - [Deliver professional development through a 2-week summer institute followed by year-long on-site coaching](summer-training-plus-onsite-coaching-strategy.md)
 - [Sustained teacher professional development with coaching and professional learning communities](sustained-pd-coaching-plc-teacher-training.md)
 - [Design professional development that is intensive, on-site, peer-based, responsive, and grounded in teachers' real classroom experiences](tefa-pd-design-strategy.md)
+- [Implement simulation-based education with targeted interventions, high-intensity low-dose high-frequency training, and strong integration and support](three-features-effective-sbe-programs.md)
 
 ## Examples
 -

@@ -16,12 +16,14 @@ sources:
     author: "Kalaian, S. A., Kasim, R. M., & Nims, J. K."
     q: 4
     i: 2
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Small-group learning methods produce a moderate positive overall effect on college students' achievement in undergraduate engineering and technology classrooms compared with lecture-based and individualized instruction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q4` pre-registered or meta-analytic · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r2` · `q4` · `i2` medium
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Kalaian, S. A., Kasim, R. M., & Nims, J. K. (2018). Effectiveness of Small-Group Learning Pedagogies in Engineering and Technology Education: A Meta-Analysis. Journal of Technology Education, 29(2). https://scholar.lib.vt.edu/ejournals/JTE/
 
-`q4 · i2`
+`q4 · i2` · `quant-synthesis · r2`
 
 Random-effects meta-analysis of 26 independent effect sizes (Hedges's g) extracted from 18 primary studies comparing small-group learning to lecture-based or individualized instruction in undergraduate technology and engineering courses. The article reports "d = 0.45, p < 0.00", with effect sizes ranging from -0.28 to +1.40 and 22 of 26 favoring small-group learning.
 
@@ -50,3 +52,4 @@ Random-effects meta-analysis of 26 independent effect sizes (Hedges's g) extract
 - [Small-group learning methods appear more effective for first-year freshmen than for higher-level college students in engineering and technology courses](small-group-more-effective-freshmen-than-higher-levels.md) — a narrower finding that bears on this claim
 - [Cooperative and collaborative learning show larger achievement effects than problem-based and peer-led team learning in engineering and technology classrooms](cooperative-collaborative-larger-effects-than-pbl-peer-led.md) — a narrower finding that bears on this claim
 - [Cooperative Learning Improves Achievement](cooperative-learning-improves-achievement.md) — related
+- [Flipped classrooms in higher education show a medium overall positive effect on student outcomes compared with traditional lecture-based classrooms](flipped-classroom-medium-overall-effect-higher-education.md) — related

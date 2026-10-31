@@ -49,3 +49,4 @@ Homeroom teacher ADHD-RS ratings in the same RCT. For teacher-rated inattention 
 - [Teacher-rated behavioral inattention was not uniquely predictive of any grade 1 math outcome despite significant zero-order correlations](behavioral-inattention-not-unique-predictor.md) — related
 - [Teacher-rated hyperactive/impulsive behavior did not predict any first-grade academic outcomes in children with low number sense](hyperactivity-impulsivity-no-prediction-academic-outcomes.md) — related
 - [Students and teachers report improved classroom listening during RMT use, with reduced teacher-rated inattention and hyperactivity](rmt-improves-reported-classroom-listening-and-adhd-symptoms.md) — related
+- [Behavioral classroom management improves teacher-rated ADHD symptoms (SMD = 0.66) and teacher-rated impairment (SMD = 0.72) in children with ADHD](behavioral-classroom-management-teacher-ratings-066-072.md) — related

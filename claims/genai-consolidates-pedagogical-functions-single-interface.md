@@ -53,3 +53,4 @@ Theoretical argument in this Perspective: unlike specialised, temporally bounded
 - [Generative AI is an arrival technology that entered classrooms before any pedagogical evidence base could form](generative-ai-arrival-technology-no-evidence-base.md) — related
 - [In university physics education, AI has been applied for tutoring and explanations, formative feedback and scaffolding, collaborative problem solving, simulation and modeling, instructional design, and AI literacy development](ai-university-physics-six-pedagogical-functions.md) — related
 - [The educational value of GAI is contingent on pedagogical integration, not on the technology itself](gai-value-contingent-on-pedagogical-integration.md) — related
+- [The review finds technology's impact depends mainly on pedagogical design, teaching accompaniment, and university policies](impact-depends-on-pedagogical-design-review.md) — related

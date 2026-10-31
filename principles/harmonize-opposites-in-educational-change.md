@@ -35,7 +35,7 @@ sources:
 # Harmonize opposites: strike a balance between competing educational ideas rather than embracing one method wholesale
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 34 claims (23 for, 11 mixed) · 28 studies (9 theoretical, 8 review, 6 causal, 3 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 4 of 28 report an effect size · 32 claims rest on one study
+> **Evidence** · 35 claims (24 for, 11 mixed) · 29 studies (9 theoretical, 8 review, 6 causal, 4 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 4 of 29 report an effect size · 33 claims rest on one study
 
 ## Conditional relationship
 
@@ -163,6 +163,7 @@ Combining two methods, the share of time each gets, the order of the two, and th
 - [Neither the expert educational psychologist alone nor the expert empirical teacher alone can solve the problems of method; a combination is needed](../claims/combination-psychologist-teacher-needed.md) [+W]
 - [Students learning fractions with an AIED system achieved the best outcomes in a condition mixing individual and collaborative work rather than wholly either mode](../claims/combined-individual-collaborative-its-best-outcomes.md) [+W]
 - [Loizzo and Ertmer propose combining c-MOOC and xMOOC designs to foster a flexible, learner-centered culture](../claims/combining-cmooc-xmooc-flexible-culture.md) [+W]
+- [The review reports that an AI-plus-faculty-guidance approach outperformed both AI-only and traditional teaching in ultrasonography training](../claims/faculty-guided-ai-outperformed-ai-only-ultrasonography.md) [+W]
 
 ## Related Principles
 
@@ -179,6 +180,7 @@ Combining two methods, the share of time each gets, the order of the two, and th
 
 - [Luminous Science Transdisciplinary Curriculum](../designs/luminous-science-transdisciplinary-curriculum.md)
 - [Mixed genetic algorithm fitness function balancing homogeneous and heterogeneous grouping components](../designs/mixed-genetic-algorithm-homogeneous-heterogeneous-fitness.md)
+- [Chilean national English curriculum combines the Communicative Approach with Natural Approach, Cooperative Learning, Content-Based Instruction and Task-Based Language Teaching](../designs/chilean-efl-curriculum-four-communicative-approaches.md)
 
 ## Key Sources
 - Ediger, Marlow. (1995). To Every Action There Is an Opposite and Equal Reaction: An Essay on Teaching. https://eric.ed.gov/?id=ED386319

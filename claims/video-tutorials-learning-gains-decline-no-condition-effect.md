@@ -70,3 +70,4 @@ Post hoc tests on the same repeated measures ANOVA of performance test percentag
 - [Adding reviews or a second demonstration did not significantly improve self-efficacy or learning over the control condition](no-condition-effect-reviews-second-demonstrations.md) — related
 - [Video tutorials significantly and substantially raised self-efficacy, with no effect of condition](video-tutorials-raise-self-efficacy-no-condition-effect.md) — related
 - [All conditions achieved significant knowledge gains with no condition, gender, or interaction effects](knowledge-gains-identical-across-conditions.md) — related
+- [Delirium knowledge gains from simulation-based education were sustained over time in repeated-survey and delayed-assessment studies](sbe-delirium-knowledge-sustained-gains.md) — related

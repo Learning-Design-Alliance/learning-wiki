@@ -60,3 +60,4 @@ Exploratory subgroup analysis across education stage within the meta-analysis. T
 - [Educational level does not significantly moderate Gen-AI's effect on HOT, though K-12 subgroups show a larger effect (ES = 0.857) than post-secondary (ES = 0.539)](genai-education-level-moderator.md) — related
 - [Educational stage significantly moderates the digital reading-comprehension association: negative at primary and middle school, positive at high school and university](educational-stage-moderates-digital-reading-comprehension.md) — related
 - [AR-in-education studies in the meta-analysis spanned primary, secondary, high school and university levels, with university-level studies most frequent](ar-studies-target-audience-distribution.md) — related
+- [EdTech effects vary by school stage and subject, with science showing the largest subject-level effect (d = 0.893)](edtech-effects-vary-stage-subject.md) — related

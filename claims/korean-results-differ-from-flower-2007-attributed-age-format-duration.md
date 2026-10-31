@@ -16,12 +16,14 @@ sources:
     author: Mookyung Jeon
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # The Korean meta-analysis's overall effect (.80) differs from Flower et al.'s (2007) near-zero finding, attributed to age, combined formats, and longer duration
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r1` · `q2`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Mookyung Jeon. (2018). Meta-Analysis of Disability Simulation Research for Elementary Students in Korea. International Journal of Special Education, 33(1). https://eric.ed.gov/?id=EJ1184078
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r1`
 
 The abstract of this replication meta-analysis states the overall effect size is .80, "different from the results of previous meta -analytic research (= .04)" reported by Flower et al. (2007). The discussion attributes the difference to age, formats, and duration; these are the author's interpretations, not tested contrasts.
 

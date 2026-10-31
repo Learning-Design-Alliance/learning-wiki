@@ -16,12 +16,14 @@ sources:
     author: "Polanin, J. R., Austin, M., Taylor, J. A., Steingut, R. R., Rodgers, M. A., & Williams, R."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Samples with a majority of female students showed significantly smaller science effects than evenly distributed samples
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Polanin, J. R., Austin, M., Taylor, J. A., Steingut, R. R., Rodgers, M. A., & Williams, R. (2024). Effects of the 5E Instructional Model: A Systematic Review and Meta-Analysis. AERA Open. https://doi.org/10.1177/23328584241269866
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Exploratory meta-regression Model 1 on the science domain (R² = 36.6%): the only significant predictor was sample sex composition, with majority-female samples showing smaller effects than evenly distributed samples.
 

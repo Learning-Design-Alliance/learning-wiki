@@ -16,12 +16,14 @@ sources:
     author: Lisa De La Rue, Joshua R. Polanin, Dorothy L. Espelage, Terri D. Pigott
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Random versus nonrandom assignment moderates posttest effects for only one of five outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q2`
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Lisa De La Rue, Joshua R. Polanin, Dorothy L. Espelage, Terri D. Pigott. (2017). A Meta-Analysis of School-Based Interventions Aimed to Prevent or Reduce Violence in Teen Dating Relationships. Review of Educational Research. https://doi.org/10.3102/0034654316632061
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r3`
 
 Moderator analysis comparing effect sizes by assignment mechanism across posttest and follow-up estimates (Table 6). A second meta-regression analysis of substantive moderators "did not yield any statistically or conceptually significant results."
 

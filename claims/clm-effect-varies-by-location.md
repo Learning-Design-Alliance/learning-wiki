@@ -16,18 +16,22 @@ sources:
     author: "Demir, M., & Kaya, M."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
   - id: demir-2022-2
     resource: "http://doi.org/10.30831/akukeg.1122136"
     title: "Demir, M., & Kaya, M. (2022). Analysis of constructivist learning model's effects on student outcomes: A second order meta-analysis. Journal of Theoretical Educational Science, 15(4), 938-957. http://doi.org/10.30831/akukeg.1122136"
     author: "Demir, M., & Kaya, M."
     q: 1
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # The effect of constructivist learning models on student outcomes varies significantly by location, with Turkey (ES=.87) and Indonesia (ES=1.07) showing high-level effects and China (ES=.58) and mixed-country samples (ES=.67) medium-level effects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q1`–`q3`
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q1`–`q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Demir, M., & Kaya, M. (2022). Analysis of constructivist learning model's effects on student outcomes: A second order meta-analysis. Journal of Theoretical Educational Science, 15(4), 938-957. http://doi.org/10.30831/akukeg.1122136
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Q-between moderator analysis by location of the meta-analyses (mixed k=5, Turkey k=10, China k=3, Indonesia k=3) under a random effect model. The article reports "Qb(3)=15.55 p<.01" with per-location effect sizes ES=.67, ES=.58, ES=.87 and ES=1.07.
 
@@ -50,7 +54,7 @@ Q-between moderator analysis by location of the meta-analyses (mixed k=5, Turkey
 
 Demir, M., & Kaya, M. (2022). Analysis of constructivist learning model's effects on student outcomes: A second order meta-analysis. Journal of Theoretical Educational Science, 15(4), 938-957. http://doi.org/10.30831/akukeg.1122136
 
-`q1 · i?`
+`q1 · i?` · `quant-synthesis · r3`
 
 Authors' interpretation (type e) offered in the Discussion to explain the location moderator, citing prior work that Turkey's education system is dominated by traditional methods; it is a hypothesized explanation, not a tested result.
 

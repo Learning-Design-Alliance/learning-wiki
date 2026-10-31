@@ -31,7 +31,7 @@ sources:
 # Community-Based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 19 claims (11 for, 8 mixed) · 21 studies (5 qualitative, 4 causal, 4 review, 3 associational, 2 design, 2 theoretical, 1 quant-synthesis), `q1`–`q4` · 2 of 21 report an effect size · 17 claims rest on one study
+> **Evidence** · 20 claims (12 for, 8 mixed) · 22 studies (5 qualitative, 4 causal, 4 review, 3 associational, 2 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 3 of 22 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -115,6 +115,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [SAIL embeds Indigenous and cultural perspectives as integral competencies across all domains and levels rather than as add-ons](../claims/indigenous-perspectives-integral-across-sail-levels.md) [+W]
 - [When AI/AN communities design their own place-, culture-, and language-based education programs, students' school engagement and learning flourish](../claims/culture-based-programs-flourish-engagement.md) [+W]
 - [Nonfunded research barters, initiated by Global South partners, can foster reciprocity in ICEL without transactional funding](../claims/research-barters-foster-reciprocity-icel.md) [+W]
+- [Service-learning has a statistically significant positive effect on student learning outcomes (d = .332)](../claims/service-learning-positive-effect-learning-outcomes.md) [+W] — attached 2026-10-31 from Jami L. Warren (2012), which proposed "Service-learning as a pedagogical strategy with four success criteria"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

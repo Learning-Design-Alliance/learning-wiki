@@ -67,3 +67,4 @@ Secondary analyses in the same experiment examined the three load subscales sepa
 - [High-immersion VR produced a significantly higher sense of presence than video instruction, with a large effect size](vr-higher-presence-than-video.md) — related
 - [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation while leaving retention unaffected](immersion-cost-benefit-transfer-motivation.md) — related
 - [Immersion principle: people do not necessarily learn better in 3D immersive virtual reality than with a corresponding 2D desktop presentation (d = -0.10 across 9 tests)](immersion-principle-no-vr-benefit.md) — related
+- [VR module matched a textbook on anatomy knowledge at pre-, post- and retention testing while being rated more engaging and motivating (Stepan et al.)](stepan-vr-equal-knowledge-higher-motivation.md) — related

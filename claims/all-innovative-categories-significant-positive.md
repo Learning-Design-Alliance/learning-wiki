@@ -16,12 +16,14 @@ sources:
     author: "Sugano, S. G. C., & Nabua, E. B."
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # All innovative teaching-method categories showed statistically significant positive effects on chemistry performance, with weighted mean effect sizes ranging from 0.50 to 1.80
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Sugano, S. G. C., & Nabua, E. B. (2020). Meta-Analysis on the Effects of Teaching Methods on Academic Performance in Chemistry. International Journal of Instruction, 13(2), 881-894. https://doi.org/10.29333/iji.2020.13259a
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r2`
 
 Meta-analysis by treatment category (Table 3): combination learning d = 0.687, cooperative learning d = 1.268, individualized instruction d = 0.933, inquiry-based d = 1.783, MMMR d = 1.072, problem-based d = 1.276, project-based d = 1.035, technology-aided d = 1.017, all p < 0.05.
 

@@ -16,12 +16,14 @@ sources:
     author: Nurşat Biçer
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Multiple intelligences-based learning has a large positive effect on academic success in Turkish language instruction (REM ES = 1.332)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Nurşat Biçer. (2017). The Influence of Student-centered Methods in Turkish Language Instruction on Academic Success: A Meta-analysis Study. Universal Journal of Educational Research 5(4). https://doi.org/10.13189/ujer.2017.050419
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r2`
 
 Random effects model analysis of 5 studies on multiple intelligences-based learning (z = 3.770, p = 0.000; 95% CI 0.640–2.024). The article reports the mean effect size of 1.332 is large per Cohen's classification and "greater effect on the academic success of students" than conventional teaching.
 

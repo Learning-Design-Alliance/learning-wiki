@@ -74,3 +74,4 @@ The review reports this workforce modelling estimate, attributed to Segal et al.
 - [Whole-person initiatives often fail to achieve desired outcomes because they operate in fragmented, uncoordinated siloes](whole-person-initiatives-fragmented-siloes-fail.md) — related
 - [Mixed delivery early care systems experience fragmentation that creates barriers such as siloed funding, inefficient subsidies, and workforce turnover](mixed-delivery-fragmentation-barriers.md) — related
 - [Foundations can serve more people by identifying and supporting effective interventions that are ready to be scaled](foundations-scale-by-supporting-ready-interventions.md) — related
+- [Contextual resource constraints in low- and middle-income settings may limit implementation of structured, feedback-intensive clinical teaching models](resource-constraints-limit-model-transferability.md) — related

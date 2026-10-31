@@ -16,12 +16,14 @@ sources:
     author: Taşdemir, F.
     q: 2
     i: 1
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # STEM education has a positive average effect on students' academic achievement in a random-effects meta-analysis of 26 experimental dissertations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment · `i1` small
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2` · `i1` small
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Taşdemir, F. (2022). Examination of the Effect of Stem Education on Academic Achievement: A Meta-Analysis Study. Education Quarterly Reviews, 5(2), 282-298. https://doi.org/10.31014/aior.1993.05.02.489
 
-`q2 · i1`
+`q2 · i1` · `quant-synthesis · r2`
 
 Meta-analysis of 26 experimental dissertations (2018-2020) comparing STEM and non-STEM instruction post-test scores, analyzed with the random effects model in CMA. The pooled effect was "0.618, and has been found to be positive" with Z=12.388, p<.05.
 

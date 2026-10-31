@@ -16,12 +16,14 @@ sources:
     author: "Zhang, Q., Cheung, E.S.T., & Cheung, C.S.T."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Publication bias tests indicate the pooled flipped classroom effect is unlikely to be inflated by publication bias
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Zhang, Q., Cheung, E.S.T., & Cheung, C.S.T. (2021). The impact of flipped classroom on college students’ academic performance: A meta-analysis based on 20 experimental studies. Science Insights Education Frontiers, 8(2):1059-1080. https://doi.org/10.15354/sief.21.re019
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Publication bias assessment (Figure 2 funnel plot plus Egger test) of the 20 included studies. The authors state the sample effect sizes were "symmetrically distributed on both sides of the average effect size", supporting robustness of the pooled estimate.
 
@@ -47,3 +49,4 @@ Publication bias assessment (Figure 2 funnel plot plus Egger test) of the 20 inc
 - [The pooled burnout–dropout intentions effect appears robust to outliers and minimally influenced by publication bias](meta-analysis-robustness-burnout-dropout.md) — related
 - [Publication bias is present in the embodied vocabulary learning literature, suggesting pooled effects may overestimate the true benefit](publication-bias-embodied-vocabulary-meta-analysis.md) — related
 - [Smaller, underpowered studies report larger flipped classroom effect sizes, indicating small-study and publication bias](small-study-bias-inflates-flipped-classroom-effects.md) — reports the opposite
+- [No evidence of publication bias was found in the flipped classroom literature, though dissertations showed a larger (non-significantly different) effect size than journal articles](flipped-classroom-no-publication-bias.md) — possibly the same claim (merge candidate)

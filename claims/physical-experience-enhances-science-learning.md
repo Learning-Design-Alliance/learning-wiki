@@ -118,3 +118,6 @@ Undergraduates studying heat and temperature were assigned to physical manipulat
 - [Sensorimotor action supports learning when it makes concept-relevant relations easier to process](action-helps-when-concept-relevant-relations-easier.md) — a broader claim this one bears on
 - [The Perform First Hypothesis proposes direct sensorimotor action early in expertise and observing, imagining, or abstract representations later](perform-first-hypothesis-zhang-2026.md) — a broader claim this one bears on
 - [A situated embodiment-based flag semaphore strategy improved procedural knowledge and attention with lower extrinsic cognitive load](situated-embodiment-semaphore-procedural-knowledge.md) — related
+- [Physical and virtual laboratory modalities produce different learning processes and transfer despite equivalent test scores](modality-differences-in-process-and-transfer.md) — related
+- [Virtual laboratories match physical laboratories on conceptual mastery, with domain-specific advantages and disadvantages](virtual-matches-physical-conceptual-mastery.md) — related
+- [Combining real and virtual laboratories outperforms either single modality in physics learning outcomes](combined-real-virtual-labs-outperform-single-modes.md) — related

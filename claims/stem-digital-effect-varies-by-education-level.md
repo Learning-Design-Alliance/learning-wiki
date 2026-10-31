@@ -16,12 +16,14 @@ sources:
     author: Feyyaz Öztop
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # The effect of digital technology-assisted STEM education on academic achievement differs significantly by education level, largest at high school and smallest at primary school
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Feyyaz Öztop. (2023). A Meta-Analysis of the Effectiveness of Digital Technology-Assisted STEM Education. Journal of Science Learning. https://doi.org/10.17509/jsl.v6i2.52316
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Moderator analysis of the 38 effect sizes by education level, reported in Table 4 with subgroup ns of 6, 24, 6, and 2 comparisons. The between-groups test was significant (QB=16.404, p<0.05); subgroup effect sizes ranged from d=1.257 (primary) to d=3.049 (high school).
 
@@ -48,3 +50,6 @@ Moderator analysis of the 38 effect sizes by education level, reported in Table 
 - [The effect of learning stations differs significantly by education level, largest at primary level](learning-stations-effect-education-level-moderator.md) — related
 - [Academic achievement effects of STEM practices differ significantly by publication type and education level but not by lesson type](stem-achievement-moderators-publication-type-education-level.md) — related
 - [School level significantly moderates effects: AI-enabled personalized STEM education is more effective in junior and senior high school than in kindergarten](school-level-moderates-ai-stem-effects.md) — related
+- [AR effect sizes do not differ significantly across grade levels, although the descriptive undergraduate effect (0.839) exceeds high school (0.623) and primary (0.303)](ar-effect-grade-level-no-significant-difference.md) — related
+- [EdTech effects vary by school stage and subject, with science showing the largest subject-level effect (d = 0.893)](edtech-effects-vary-stage-subject.md) — related
+- [Effect of MIT-based instruction differs significantly by educational level, largest at high school (d = 1.516) and smallest at elementary (d = 0.925)](mit-effect-differs-by-educational-level.md) — related

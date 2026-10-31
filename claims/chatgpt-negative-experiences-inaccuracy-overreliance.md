@@ -122,3 +122,7 @@ Participants also reported "the lack of emotional connection and dependence on t
 - [Pessimistic Evaluators' foremost concern is misleading, inaccurate, or biased ChatGPT-generated information](pessimistic-evaluators-misleading-information-concern.md) — related
 - [Implementation constraints identified were factual accuracy and content drift, culturally narrow outputs, prompt fatigue, and data privacy concerns](gpt-implementation-constraints-ite.md) — a narrower finding that bears on this claim
 - [AI tools show limitations in translating predictions into practical sustainability advice and envisioning values](ai-limitations-prediction-to-advice-values.md) — related
+- [AI-generated virtual patients exhibit limitations including inauthentic conversational flow, excessive agreeableness, role departure, and clinical inaccuracy](ai-virtual-patient-limitations-flow-agreeableness-role-departure.md) — related
+- [Students broadly endorse LLMs as educational aids (74% positive) while 61% raise integrity concerns, 59% cite hallucination risk, and 82% report no institutional guidance](student-llm-perceptions-no-guidance-majority.md) — related
+- [Unstructured LLM use is associated with reduced engagement with primary reference texts and lower ability to identify hallucinations](unguided-llm-use-critical-appraisal-erosion.md) — related
+- [Faculty hold more tempered views of LLMs than students (51% vs 74% positive), centred on clinical reasoning development and content reliability](faculty-student-perception-gap-llms.md) — related

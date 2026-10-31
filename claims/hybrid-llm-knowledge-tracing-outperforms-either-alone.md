@@ -54,3 +54,4 @@ The paper reports, citing prior work, that hybrid LLM-plus-knowledge-tracing arc
 - [First-year EAP students prefer a hybrid feedback model combining AI-generated comments with instructor feedback over either source alone](students-prefer-hybrid-ai-instructor-feedback.md) — related
 - [DKT-Sem, a DKT variant using semantic text embeddings, performs better than existing KT methods on tutoring dialogues, with a smaller margin on the larger MathDial dataset.](dkt-sem-outperforms-existing-kt-methods-most-with-little-training-data.md) — related
 - [Longer student histories do not improve LLM knowledge tracing: FKT AUC-ROC stays near 0.5-0.6 whether models see 50 or 400 prior interactions](context-length-no-effect-fkt.md) — related
+- [The review reports that an AI-plus-faculty-guidance approach outperformed both AI-only and traditional teaching in ultrasonography training](faculty-guided-ai-outperformed-ai-only-ultrasonography.md) — related

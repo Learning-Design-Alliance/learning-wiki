@@ -16,12 +16,14 @@ sources:
     author: "Karen Larwin & David Larwin"
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # CAI effects are largest when used across several class meetings rather than an entire semester
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Karen Larwin & David Larwin. (2011). A Meta-Analysis Examining the Impact of Computer-Assisted Instruction on Postsecondary Statistics Education: 40 Years of Research. Journal of Research on Technology in Education, 43(3), 253–278. https://eric.ed.gov/?id=EJ918907
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Moderator analysis of duration of CAI use (Table 2 within-group Q = 17.25*); the authors note single-class studies often used quizzes as assessment, which were associated with larger effect sizes.
 

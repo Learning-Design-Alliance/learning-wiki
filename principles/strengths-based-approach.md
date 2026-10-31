@@ -43,7 +43,7 @@ sources:
 # Strengths-based Approach
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (16 for, 7 mixed, 2 against) · 28 studies (10 review, 5 causal, 5 qualitative, 4 theoretical, 2 design, 1 quant-synthesis, 1 associational), `q1`–`q4` · 2 of 28 report an effect size · 19 claims rest on one study
+> **Evidence** · 26 claims (17 for, 7 mixed, 2 against) · 29 studies (10 review, 5 causal, 5 qualitative, 4 theoretical, 2 quant-synthesis, 2 design, 1 associational), `q1`–`q4` · 2 of 29 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -164,6 +164,7 @@ Teacher expectations, recognized competence in a familiar form, self-efficacy, p
 - [Strict emotional regimes contribute to the production of vulnerability that can precipitate deficit narratives from asset-oriented teachers](../claims/emotional-regimes-vulnerability-deficit-narratives.md) [~W]
 - [In Case 2, persistent strong negative self-critique led teachers to assign deficit narratives to students as having missed opportunities, serving as foils for teachers](../claims/case2-students-foils-missed-opportunities.md) [-W]
 - [A preschool teacher's professional growth in guiding children's mathematical learning was identified in three areas: recognizing demonstrated understanding, using mathematical language, and systematic assessment](../claims/teacher-growth-three-areas-guiding-preschool-math.md) [+W]
+- [Medical students with SpLDs report perceived strengths including communication skills, creative problem-solving, and empathy](../claims/spld-perceived-strengths-empathy-communication.md) [+W]
 
 ## Related Principles
 

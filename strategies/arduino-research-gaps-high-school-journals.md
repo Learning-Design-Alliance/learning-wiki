@@ -17,7 +17,7 @@ sources:
 # Conduct more Arduino-based education research in high schools and publish results in academic journals
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies, `q3` · 1 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 quant-synthesis), `q3` · 1 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The article's limitations section identifies two research gaps: Korean Arduino-based education research is reported predominantly in dissertations rather than academic journals, and high school applications are scarce. It argues that "the application of Arduino in high school could provide useful educational material to increase students' interest in engineering" and calls for more studies in both areas.

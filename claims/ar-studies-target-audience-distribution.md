@@ -16,12 +16,14 @@ sources:
     author: Hakan Tekedere, Hanife Göker
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # AR-in-education studies in the meta-analysis spanned primary, secondary, high school and university levels, with university-level studies most frequent
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Hakan Tekedere, Hanife Göker. (2016). Examining the Effectiveness of Augmented Reality Applications in Education: A Meta-Analysis. International Journal of Environmental & Science Education, 11(16), 9469-9481. https://creativecommons.org/licenses/by/4.0/
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Descriptive synthesis of the 15 included studies (Table 1), with experimental samples of 919 experimental and 641 control participants (total 1560). The article reports the target-audience distribution and that Table 1 summarizes fields, sample sizes and reported results.
 

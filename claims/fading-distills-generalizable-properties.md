@@ -53,3 +53,4 @@ Theoretical argument from the review's abstract, presented as the fourth of four
 - [Concreteness fading enables learners to build a store of memorable images usable when abstract symbols lose meaning](fading-builds-memorable-images.md) — related
 - [Mathematics education literature uses the terms concrete and abstract with multiple distinct meanings](concrete-abstract-polysemy-in-literature.md) — related
 - [Concreteness fading may not be as broadly generalizable across mathematics and natural science domains as has been suggested](concreteness-fading-limited-domain-generalizability.md) — related
+- [The authors interpret the higher Natural Sciences AR effect as arising because abstract natural-science concepts can be more easily concretized in AR than social-science concepts](ar-concretization-explanation-natural-sciences.md) — related

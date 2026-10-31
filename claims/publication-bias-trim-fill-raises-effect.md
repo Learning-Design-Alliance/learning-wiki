@@ -52,3 +52,6 @@ Publication bias analyses (funnel plot, Egger's regression, trim-and-fill) withi
 - [Publication bias due to small study effects was limited, and sensitivity analyses supported Winsorizing an outlying effect size](manipulatives-meta-publication-bias-limited.md) — related
 - [Publication-bias checks give mixed results: Egger's test indicates funnel-plot asymmetry while Trim and Fill and Fail-Safe N indicate no bias](mixed-publication-bias-evidence-meta-analysis.md) — related
 - [Funnel plot asymmetry indicates high publication bias before propensity score matching and low publication bias after matching](psm-reduces-publication-bias-funnel-plot.md) — related
+- [Funnel-plot asymmetry suggests small studies with negative or null results may be missing from the simulation-versus-clinical meta-analysis](funnel-plot-missing-negative-studies.md) — related
+- [Sensitivity analyses found no evidence of publication bias in the meta-analysis](no-publication-bias-sensitivity-analysis.md) — reports the opposite
+- [Trim-and-fill analyses suggest publication bias affected three of the four meta-analyses, indicating true mean effects may be lower than originally reported.](tier2-k3-publication-bias-lower-true-effects.md) — related

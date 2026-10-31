@@ -53,3 +53,4 @@ Meta-analytic moderator analysis comparing scaffolding types positioned on a sel
 - [Blended implementation models matched to learner skill level: high-touch blended for lowest-skilled learners, online courses for more advanced students](blended-high-touch-lowest-skilled-adults.md) — related
 - [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md) — related
 - [Instructional support has a moderate positive effect on diagnostic competences in higher education (g = 0.39)](instructional-support-moderate-effect-diagnostic-competences.md)
+- [The degree and type of guidance determines the effectiveness of digital inquiry, moderated by learners' prior knowledge](guidance-moderates-digital-inquiry.md) — possibly the same claim (merge candidate)

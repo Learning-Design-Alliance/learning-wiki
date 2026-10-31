@@ -16,12 +16,14 @@ sources:
     author: Katharine Conn
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Rigorous evidence on education interventions in Sub-Saharan Africa is unevenly distributed, with over 30% of studies from Kenya alone and relevant topics unstudied
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Katharine Conn. (2014). Which interventions have the greatest effect on student learning in Sub-Saharan Africa? A meta-analysis of rigorous impact evaluations. SREE Spring 2014 Conference. https://eric.ed.gov/?id=ED562871
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Author's synthesis of the literature-search and coding stage of the 60-study review. The author reports "over 30% of the studies in this meta-analysis come from Kenya alone" and cautions program effects may differ by country; no effect size is attached to this distributional finding.
 
@@ -45,3 +47,4 @@ Author's synthesis of the literature-search and coding stage of the 60-study rev
 ## Related Claims
 - [Across education interventions in Sub-Saharan Africa, the overall pooled effect size on student learning is 0.16 with very high heterogeneity (I2 = 80.1%)](ssa-meta-analysis-overall-effect-0-16.md) — related
 - [Samples used to investigate human features in AIED research are 94% WEIRD and 62% US, with no African samples](aied-weird-sample-imbalance.md) — related
+- [The evidence base is geographically uneven: no study simultaneously examined all three constructs within a sub-Saharan African context](no-integrative-three-construct-studies-sub-saharan-africa.md) — a narrower finding that bears on this claim

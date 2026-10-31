@@ -16,12 +16,14 @@ sources:
     author: Andrzej Sokolowski
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Effect sizes across the modelling study pool were heterogeneous, requiring a random-effects model
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Andrzej Sokolowski. (2015). The Effects of Mathematical Modelling on Students’ Achievement-Meta-Analysis of Research. The IAFOR Journal of Education, Volume III - Issue I - Winter 2015. https://journals.iafor.org/index.php/joe
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Homogeneity testing of the meta-analytic pool performed in SPSS 21 following Cooper (2009). The article reports "QT = 329.74, with df = 16, p < 0.01" and adoption of a random-effect model; no effect size is printed for this finding.
 

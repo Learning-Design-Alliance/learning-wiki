@@ -16,12 +16,14 @@ sources:
     author: Torstein Låg, Rannveig Grøm Sæle
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Flipped classroom interventions show no reliable average gain in student satisfaction after bias correction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Torstein Låg, Rannveig Grøm Sæle. (2019). Does the Flipped Classroom Improve Student Learning and Satisfaction? A Systematic Review and Meta-Analysis. AERA Open. https://doi.org/10.1177/2332858419870489
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Meta-analysis of 69 samples measuring student satisfaction. The article reports the initial "summary estimate changes from 0.16 to −0.03" after trim-and-fill, and notes many effect sizes favored the control condition; variation in satisfaction measurement may have contributed to the equivocal result.
 

@@ -13,7 +13,7 @@ generated:
 # Hands-on Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 12 claims (9 for, 3 mixed) · 11 studies (3 causal, 2 quant-synthesis, 2 design, 1 review, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 11 report an effect size · 12 claims rest on one study
+> **Evidence** · 12 claims (9 for, 3 mixed) · 11 studies (3 causal, 3 quant-synthesis, 2 design, 1 review, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 11 report an effect size · 12 claims rest on one study
 
 ## Description
 Hands-on learning is the element in which learners manipulate materials, tools, or environments directly while applying ideas in practice. It is useful when understanding depends on doing, making, testing, or experiencing rather than only discussing.

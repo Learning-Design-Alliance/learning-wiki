@@ -16,12 +16,14 @@ sources:
     author: Kanadlı, S.
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Diagnostic analyses show the pooled effect sizes for achievement, attitude and retention are robust and not attributable to publication bias
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Kanadlı, S. (2016). A meta-analysis on the effect of instructional designs based on the learning styles models on academic achievement, attitude and retention. Educational Sciences: Theory & Practice, 16, 2057–2086. https://doi.org/10.12738/estp.2016.6.0084
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Diagnostic analysis of the 30 included studies. Publication-status moderator analysis was non-significant for achievement (Q = 0.016, p = .901), attitude (Q = 1.585, p = .208) and retention (Q = 0.000, p = .992); Egger's intercepts (−0.236, p = .84; 2.440, p = .41; 7.756, p = .09) did not significantly deviate from zero, and Fail-safe N values were large.
 

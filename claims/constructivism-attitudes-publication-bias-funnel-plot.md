@@ -16,12 +16,14 @@ sources:
     author: "Toraman, C., & Demir, E."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Funnel plot asymmetry indicates publication bias, lowering the bias-adjusted effect size to 0.642
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Toraman, C., & Demir, E. (2016). The effect of constructivism on attitudes towards lessons: A meta–analysis study. Eurasian Journal of Educational Research, 62, 115-142. http://dx.doi.org/10.14689/ejer.2016.62.8
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Publication bias assessment of the 43 studies via funnel plot (Figure 2). The article reports the graph "is not symmetrical on both sides" and that after an adjustment the effect size was 0,642, below the unadjusted 0,728.
 
@@ -53,3 +55,5 @@ Publication bias assessment of the 43 studies via funnel plot (Figure 2). The ar
 - [No publication bias is detected in the meta-analysis by rank correlation, regression, Fail-Safe N, and Trim and Fill checks](no-publication-bias-cooperative-learning-meta-analysis.md) — reports the opposite
 - [The pooled self-efficacy–partnership correlation appears robust to the file-drawer problem](publication-bias-robustness.md) — reports the opposite
 - [The included studies show signs of publication bias, with an asymmetric and dispersed funnel plot](er-meta-analysis-publication-bias-funnel-plot.md) — related
+- [Funnel-plot asymmetry suggests small studies with negative or null results may be missing from the simulation-versus-clinical meta-analysis](funnel-plot-missing-negative-studies.md) — related
+- [Trim-and-fill analyses suggest publication bias affected three of the four meta-analyses, indicating true mean effects may be lower than originally reported.](tier2-k3-publication-bias-lower-true-effects.md) — related

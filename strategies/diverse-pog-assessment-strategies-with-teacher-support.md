@@ -44,6 +44,7 @@ The brief calls for policies supporting "a more diverse set of assessment strate
 - [Portfolio Assessment](portfolio-assessment.md)
 - [Five KEA selection and implementation considerations for policymakers and practitioners](kea-selection-implementation-recommendations.md)
 - [Reallocate resources from test preparation and interim assessments to performance task development and scoring as professional learning](reallocate-test-prep-resources-to-performance-assessment.md)
+- [Allocate 10–15% of curriculum hours to structured soft skills training with mandatory modules and OSCE/portfolio assessment](soft-skills-curriculum-hours-allocation-strategy.md)
 
 ## Examples
 -

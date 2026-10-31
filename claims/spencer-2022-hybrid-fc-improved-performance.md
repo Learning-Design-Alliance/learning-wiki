@@ -52,3 +52,4 @@ Review's account of Spencer et al.'s (2022) blended/hybrid FC implementation in 
 - [Peer-teaching flipped classroom students show higher calculus conceptual understanding than conventional flipped classroom students after controlling for pretest](ptfc-beats-cfc-conceptual-understanding.md) — related
 - [Blended Learning Improves Outcomes](blended-learning-improves-outcomes.md) — a broader claim this one bears on
 - [Flipped classroom has a moderately positive effect on college students' academic performance (SMD = 0.66)](flipped-classroom-moderate-positive-effect-college.md) — related
+- [Flipped classroom significantly improves practical exam scores over lecture-based learning (pooled SMD 0.50)](fc-practical-exam-smd-050.md) — related

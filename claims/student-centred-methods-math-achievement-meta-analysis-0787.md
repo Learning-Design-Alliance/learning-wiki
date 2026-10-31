@@ -16,18 +16,22 @@ sources:
     author: Hakan Ulum, Songül Tümkaya
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
   - id: hakan-ulum-2022-2
     resource: "https://ojs.unimal.ac.id/mjml/index"
     title: "Hakan Ulum, Songül Tümkaya. (2022). The effect of student-centred methods and techniques on primary school students' mathematics achievement: A meta-analysis study. Malikussaleh Journal of Mathematics Learning (MJML). https://ojs.unimal.ac.id/mjml/index"
     author: Hakan Ulum, Songül Tümkaya
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Student-centred strategies, methods and techniques produce a moderate-to-high overall effect on primary school students' mathematics achievement compared to traditional teaching (ES = 0.787, random-effects model)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r2`–`r3` · `q3` · `i2` medium
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Hakan Ulum, Songül Tümkaya. (2022). The effect of student-centred methods and techniques on primary school students' mathematics achievement: A meta-analysis study. Malikussaleh Journal of Mathematics Learning (MJML). https://ojs.unimal.ac.id/mjml/index
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r2`
 
 Random-effects synthesis of 66 effect sizes from 63 experimental studies on student-centred methods in primary school mathematics. The article reports "ES = 0.787" with a 95% CI lower limit of 0.660 and upper limit of 0.913, favouring the experimental group.
 
@@ -50,7 +54,7 @@ Random-effects synthesis of 66 effect sizes from 63 experimental studies on stud
 
 Hakan Ulum, Songül Tümkaya. (2022). The effect of student-centred methods and techniques on primary school students' mathematics achievement: A meta-analysis study. Malikussaleh Journal of Mathematics Learning (MJML). https://ojs.unimal.ac.id/mjml/index
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r3`
 
 Fixed-effects synthesis of the same 66 effect sizes reports ES = 0.738, SE = 0.030, upper confidence limit 0.797 and lower limit 0.679, with academic achievement "more positive in favour of the experimental group" than the control group.
 
@@ -72,3 +76,7 @@ Fixed-effects synthesis of the same 66 effect sizes reports ES = 0.738, SE = 0.0
 - [Cooperative learning models have a moderate average effect on student learning outcomes across 23 first-order meta-analyses](cooperative-learning-moderate-overall-effect-second-order.md) — a broader claim this one bears on
 - [Effect sizes across primary studies are highly heterogeneous (Q = 283.659, I² = 77%), justifying the random-effects model](heterogeneity-i2-77-percent-random-effects.md) — related
 - [Vocabulary development interventions have a large average positive effect on cognitive vocabulary outcomes (g = 1.179) compared with traditional teaching methods](vocabulary-interventions-large-average-effect-g-1179.md) — related
+- [AR applications have a medium positive pooled effect (ES = 0.517) on students' academic achievement compared with traditional learning methods](ar-medium-positive-effect-academic-achievement.md) — related
+- [Context-based learning has a statistically significant positive overall effect on academic achievement (g=0.970) compared to traditional lecture-based instruction](cbl-positive-overall-effect-academic-achievement.md) — related
+- [Performance in mathematics tests significantly improved after school-based physical activity interventions compared with control groups](pa-interventions-improve-math-performance.md) — related
+- [Using games in mathematics teaching has a medium positive effect (g = 0.792) on academic achievement in Turkey, per random-effects meta-analysis](game-assisted-math-medium-positive-effect-turkey.md) — related

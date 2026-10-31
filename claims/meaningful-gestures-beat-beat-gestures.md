@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: weak
 newest_evidence: 2024
+source_checked: 2026-10-31
 sources:
   - id: juan-c-castro-alonso-2024
     resource: "https://doi.org/10.1007/s10648-024-09847-4"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across two experiments (N = 229, 80% females), students learning from instructional videos with a lecturer making meaningful pointing gestures scored higher on retention tests than students watching beat (rhythmic, arbitrary) gesturing. [→ Juan C. Castro-Alonso 2024](#juan-c-castro-alonso-2024)
@@ -52,3 +53,4 @@ The review reports, citing Beege et al. (2020), two experiments (N = 229, 80% fe
 - [Observing typical gestures significantly benefits narrative comprehension compared with atypical or no gestures, which do not differ significantly](typical-gestures-benefit-narrative-comprehension.md) — related
 - [Beat gestures of a human lecturer in an educational video do not significantly foster learning outcomes compared with a video without gestures](beat-gestures-do-not-foster-learning.md) — related
 - [Deictic gestures of a human lecturer in an educational video enhance retention performance compared with no gestures and with beat gestures](deictic-gestures-enhance-retention-educational-videos.md) — possibly the same claim (merge candidate)
+- [Air Anatomy hand gestures raised recall and applied-knowledge post-test scores, with the largest benefit for students of low to moderate spatial ability](air-anatomy-gestures-posttest-gains-low-spatial-ability.md) — related

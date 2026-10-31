@@ -56,3 +56,4 @@ Inductive thematic analysis of challenge responses (N = 26) identified three the
 - [Teachers report concerns about infrastructure, reliability, age appropriateness, teacher competence, and student over-reliance on AI](teacher-constraints-responsible-ai-integration.md) — related
 - [Faculty focus groups raised concerns about authenticity, validity, and reliability of ChatGPT-generated SBMCQs, including cultural and linguistic bias](faculty-fgd-concerns-chatgpt-sbmcq-quality.md) — related
 - [IDs expressed quality concerns over GenAI-generated content, including bias, inaccuracy, hallucinations, and lack of authenticity](genai-quality-concerns-bias-hallucination.md) — a broader claim this one bears on
+- [Faculty hold more tempered views of LLMs than students (51% vs 74% positive), centred on clinical reasoning development and content reliability](faculty-student-perception-gap-llms.md) — related

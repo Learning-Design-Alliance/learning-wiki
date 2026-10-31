@@ -16,12 +16,14 @@ sources:
     author: Lisa De La Rue, Joshua R. Polanin, Dorothy L. Espelage, Terri D. Pigott
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Programs improve conflict tactic skills at posttest (g = 0.18)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i3` large
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Lisa De La Rue, Joshua R. Polanin, Dorothy L. Espelage, Terri D. Pigott. (2017). A Meta-Analysis of School-Based Interventions Aimed to Prevent or Reduce Violence in Teen Dating Relationships. Review of Educational Research. https://doi.org/10.3102/0034654316632061
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r3`
 
 Three-level random-effects meta-analysis of eight studies contributing 10 effect sizes on the Conflict Tactics Scale or similar measures. Effect sizes ranged from 0.57 (Sanchez-Cesareo, 2002) to −0.02 (Jaycox et al., 2006).
 

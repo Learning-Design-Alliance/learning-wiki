@@ -67,3 +67,4 @@ Descriptive pattern from the same outcome-domain analysis (Table 7). The article
 - [No instruction characteristic (dosage, program availability, literacy domain) significantly moderated effects, though phonics and spelling instruction approached significance descriptively favoring treatments that included them](no-instruction-moderators-phonics-spelling-marginal.md) — related
 - [Interventions targeting different reading and skill content domains show mostly small differences, with average effect sizes of 0.14–0.22 all statistically significant](content-domain-effects-similar-range.md) — related
 - [Technology-delivered literacy instruction produces a small, statistically significant positive effect on norm- or criterion-referenced literacy outcomes for K-5 students (g = 0.24)](tech-literacy-instruction-small-positive-effect-k5.md) — related
+- [App effects on literacy (g = 0.35) and math (g = 0.29) are comparable](apps-comparable-literacy-math-effects.md) — related

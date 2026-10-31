@@ -16,12 +16,14 @@ sources:
     author: Hafize Er-Türküresin
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Effect sizes of creative drama studies published between 2006-2012 (d = 1.208) were higher than those published 2013-2020 (d = 1.168)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q2`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Hafize Er-Türküresin. (2020). The effect of using creative drama method on student achievement in the social studies course: A meta-analysis study. International Online Journal of Education and Teaching (IOJET), 7(4), 1881-1896. http://iojet.org/index.php/IOJET/article/view/1056
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r3`
 
 Moderator analysis reported in Table 4 of the meta-analysis, comparing 10 studies from 2006-2012 (d = 1.208, 95% CI 0.784-1.632) with 9 studies from 2013-2020 (d = 1.168, 95% CI 0.770-1.565). The article describes both as very wide and positive.
 

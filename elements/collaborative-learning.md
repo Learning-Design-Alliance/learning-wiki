@@ -13,7 +13,7 @@ generated:
 # Collaborative Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 18 claims (10 for, 8 mixed) · 23 studies (6 quant-synthesis, 4 review, 4 associational, 3 causal, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 8 of 23 report an effect size · 15 claims rest on one study
+> **Evidence** · 18 claims (10 for, 8 mixed) · 23 studies (7 quant-synthesis, 4 review, 4 associational, 3 causal, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 8 of 23 report an effect size · 15 claims rest on one study
 
 ## Description
 Collaborative learning organizes learners into structured teams that jointly solve problems, complete tasks, and construct shared understanding. The structure matters as much as the grouping: effective designs assign roles, interdependence, and individual accountability rather than simply seating learners together.

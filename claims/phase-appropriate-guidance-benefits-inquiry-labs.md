@@ -55,3 +55,4 @@ A response piece assessing the Zacharia et al. (2015) literature review from a v
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - The virtual and remote labs literature to 2015 can be characterized by its most influential publications, most researched topics, and evolving topic interest — related
 - [Virtual and remote labs reduce the costs associated with conventional hands-on labs](virtual-remote-labs-reduce-hands-on-lab-costs.md) — related
+- [Virtual laboratories match physical laboratories on conceptual mastery, with domain-specific advantages and disadvantages](virtual-matches-physical-conceptual-mastery.md) — related

@@ -16,12 +16,14 @@ sources:
     author: "Sa’idah, N., Jailani, Sudiyatno, & Retnawati, H."
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Innovative learning models produce a large pooled effect on mathematical and statistical critical thinking compared with conventional instruction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Sa’idah, N., Jailani, Sudiyatno, & Retnawati, H. (2026). Innovative teaching models and critical thinking in mathematics and statistics education: A meta-analytical review. International Journal of Research in Education and Science (IJRES), 12(1), 140-157. https://doi.org/10.46328/ijres.5054
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r2`
 
 Random-effects meta-analysis of 19 experimental/comparison studies coded with sample size, mean and SD for experimental and control groups, computed in JASP. The pooled effect size was Hedges' g = 1.030 (SE 0.216, z = 4.775, p < .001), described as "very high (random effect = 1.030)".
 

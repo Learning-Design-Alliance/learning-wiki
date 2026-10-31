@@ -16,12 +16,14 @@ sources:
     author: "Kansızoğlu, N. & Bekiroğlu, N."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Study-level effect sizes ranged from g = 0.105 to g = 3.166, all positive, with seven studies individually non-significant
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Kansızoğlu, N. & Bekiroğlu, N. (2025). The effect of vocabulary development interventions on cognitive outcomes of vocabulary: A meta-analysis study. Journal of Pedagogical Research, 9(1), 123-148. https://doi.org/10.33902/JPR.202532083
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Per-study Hedge's g values reported in Table 7 of the meta-analysis. The article states "all effect sizes are positively oriented" and lists seven non-significant studies (e.g., Bilgin 2018, g = 0.105, p = .698).
 

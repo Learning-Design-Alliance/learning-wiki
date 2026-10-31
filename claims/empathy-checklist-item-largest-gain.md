@@ -72,3 +72,4 @@ Further item-level comparisons in the same exam-phase analysis showed the medica
 - [Scaffolding level provides no consistent additional predictive information about subsequent exam performance beyond prior achievement and observed dialogue behavior](scaffolding-little-incremental-exam-prediction.md) — related
 - [Strengthening an agent's empathic persona did not translate into broader knowledge delivery: the revised family-member agent had high role-play quality but the lowest knowledge coverage](empathy-revision-did-not-improve-knowledge-coverage.md) — related
 - [Some VSP history-taking behaviors correlated with clinical reasoning metrics](vsp-behaviors-correlate-clinical-reasoning.md) — related
+- [Empathy and communication interventions show short-term gains but evidence on persistence over time is inconsistent](soft-skills-intervention-gains-not-sustained.md) — related

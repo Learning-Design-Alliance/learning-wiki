@@ -51,3 +51,4 @@ Survey of 471 third- and fourth-year pre-service teachers analyzed with second-o
 - The three-dimension instructional design competence model fits the empirical data acceptably in CFA — a narrower finding that bears on this claim
 - [Pre-service teachers struggle with instructional design and lesson planning despite existing standards and coursework](pre-service-teachers-struggle-lesson-design.md) — related
 - [A 13-week TPACK-based course significantly improves pre-service preschool teachers' instructional design competence compared with traditional instruction](tpack-course-improves-preservice-preschool-idc.md) — related
+- [The meta-analysis corpus comprised 23 studies (9 retention, 14 attitude) with a total of 1204 pre-service teachers across experimental and control groups](meta-analysis-corpus-23-studies-1204-pre-service-teachers.md) — related

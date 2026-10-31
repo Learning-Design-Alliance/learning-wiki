@@ -13,7 +13,7 @@ generated:
 # Communication Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 77 claims (50 show a difference, 16 mixed, 11 no difference) · 63 studies (16 causal, 16 associational, 10 review, 7 quant-synthesis, 5 design, 5 theoretical, 4 qualitative), `q1`–`q3` · 12 of 63 report an effect size · 76 claims rest on one study
+> **Evidence** · 80 claims (52 show a difference, 17 mixed, 11 no difference) · 66 studies (16 causal, 16 associational, 11 review, 9 quant-synthesis, 5 design, 5 theoretical, 4 qualitative), `q1`–`q3` · 12 of 66 report an effect size · 79 claims rest on one study
 
 ## Description
 Communication is expressing one's thoughts, ideas and emotions and understanding those of others. Language is its main medium (spoken and signed language, reading and writing, listening), but it also includes gesture, drawing, numbers and technology, and the use of more than one language. Using several modes, and mixing languages when a learner's vocabularies do not overlap, is described as extending thinking and making ideas easier for others to engage with. It is measured through vocabulary and language tests, self-assessments of oral competence, and, in mathematics, by coding the detail and soundness of students' spoken explanations and their participation in discussion.
@@ -118,6 +118,9 @@ It overlaps with [reading and language](reading-and-language.md) and [English-le
 - [ChatGPT-assisted revision significantly improved abstract clarity and conciseness ratings](../claims/chatgpt-revision-improves-clarity-conciseness.md) [+M] — instruction changes it
 - [Educators prioritize communication skills in which learners describe design ideas and document their making processes](../claims/makerspace-communication-skills-competency.md) [+M] — instruction changes it
 - [Students developed communication and collaboration skills through group-based app design](../claims/students-collaboration-app-design.md) [+M] — instruction changes it
+- [Flipped classroom improves cooperation and communication skills (pooled RR 1.60)](../claims/fc-cooperation-communication-rr-160.md) [+W] — instruction changes it
+- [Innovative andragogical strategies — simulation, narrative medicine, reflective writing — enhance empathy, compassion, and communication skills in medical students](../claims/innovative-teaching-practices-soft-skills-medical-students.md) [+M] — instruction changes it
+- [The effect of CMC on L2 learning was not equal across the four language skills (listening, speaking, reading, writing)](../claims/cmc-effect-unequal-across-language-skills.md) [~W] — instruction changes it
 
 ## Measures
 - **Expressive One-Word Picture Vocabulary Test, Fourth Edition (EOWPVT-4)** (Martin & Brownell, 2011): expressive vocabulary across all age groups.

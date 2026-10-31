@@ -17,12 +17,14 @@ sources:
     author: Gulfer Capar, Kamuran Tarim
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Cooperative learning produces a medium, positive, significant effect on mathematics achievement compared with traditional methods (d++ = 0.59)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2015 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Gulfer Capar, Kamuran Tarim. (2015). Efficacy of the Cooperative Learning Method on Mathematics Achievement and Attitude: A Meta-Analysis Research. Educational Sciences Theory & Practice. https://doi.org/10.12738/estp.2015.2.2098
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r2`
 
 Meta-analysis of 26 experimental studies (n = 36 comparisons) from 1988–2010 with pre/post-test and control or equated group designs, computed with MetaWin 2.0 under a random effects model. The combined effect size was "the effect size mean ES = 0.59", classified as medium per Cohen (1988).
 
@@ -50,3 +52,5 @@ Meta-analysis of 26 experimental studies (n = 36 comparisons) from 1988–2010 w
 - [Cooperative and collaborative learning show larger achievement effects than problem-based and peer-led team learning in engineering and technology classrooms](cooperative-collaborative-larger-effects-than-pbl-peer-led.md) — related
 - [Cooperative learning has a small, positive, significant effect on attitudes towards mathematics (d++ = 0.16)](cooperative-learning-small-effect-attitude-math.md) — related
 - [Small-group learning methods produce a moderate positive overall effect on college students' achievement in undergraduate engineering and technology classrooms compared with lecture-based and individualized instruction](small-group-learning-achievement-engineering-technology-meta-analysis.md) — related
+- [Cooperative learning has a medium positive effect on mathematics achievement in Turkey (average ES = 0.840, random-effects model)](cooperative-learning-medium-positive-math-effect-turkey.md) — possibly the same claim (merge candidate)
+- [Flipped classrooms in higher education show a medium overall positive effect on student outcomes compared with traditional lecture-based classrooms](flipped-classroom-medium-overall-effect-higher-education.md) — related

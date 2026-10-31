@@ -17,7 +17,7 @@ sources:
 # Extend meta-analytic synthesis of flipped learning to additional outcomes, samples, and regions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (1 quant-synthesis), `q3` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 quant-synthesis), `q3` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The article's concluding suggestions call for future research beyond academic achievement: analyzing flipped learning's effects on "attitude, self-efficacy, and motivation" through meta-analysis, repeating the synthesis after the diversity of sample groups increases, and meta-analyzing studies outside Turkey for comparison. It also recommends research on flipped learning activities and learning outcomes variables to understand the rising effect and the strategic approaches contributing to student performance.

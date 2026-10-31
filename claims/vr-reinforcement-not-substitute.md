@@ -81,3 +81,6 @@ Discussion-level interpretation (attributed by the review to Hamilton et al., 20
 - [Immersion principle: people do not necessarily learn better in 3D immersive virtual reality than with a corresponding 2D desktop presentation (d = -0.10 across 9 tests)](immersion-principle-no-vr-benefit.md) — related
 - [An LX design integrating an immersive VR simulation in an inquiry-based Physics learning environment was enacted with 109 high-school students and evaluated for conceptual learning gains](lx-design-immersive-vr-special-relativity-109-students.md) — related
 - [Substituting learner–content interaction for learner–learner interaction produced no significant difference in measured performance](substituting-learner-content-for-learner-learner-no-performance-difference.md) — related
+- [Affective outcomes of virtual-laboratory modalities are divided and interact with learners' initial attitude profiles](affective-outcomes-divided-moderated-by-attitudes.md) — related
+- [Several included studies found haptic VR training equivalent rather than superior to conventional dental training](ir-dental-equivalence-mixed-findings.md) — related
+- [Immersive reality training produced higher knowledge and skill scores than conventional training in dental studies](ir-improves-dental-knowledge-skill-scores.md) — a narrower finding that bears on this claim

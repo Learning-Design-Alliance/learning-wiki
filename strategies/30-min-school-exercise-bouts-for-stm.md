@@ -41,7 +41,8 @@ The authors recommend using ordinary school physical-education activities as cos
 - [Baddeley Wm Model Gestural Buffer Extension](../theories/information-processing-theory.md)
 
 ## Related Strategies
-- 
+
+- [Prescribe intensive, multi-component physical activity integrated into regular classes to maximize learning outcomes](evidence-based-exercise-programs-school-strategy.md)
 
 ## Examples
 -

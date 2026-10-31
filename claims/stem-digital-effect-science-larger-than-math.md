@@ -16,12 +16,14 @@ sources:
     author: Feyyaz Öztop
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Digital technology-assisted STEM education shows a significantly larger effect on science achievement (d=2.838) than on mathematics achievement (d=1.255)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Feyyaz Öztop. (2023). A Meta-Analysis of the Effectiveness of Digital Technology-Assisted STEM Education. Journal of Science Learning. https://doi.org/10.17509/jsl.v6i2.52316
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Moderator analysis by subject discipline of the achievement test, reported in Table 5 with 32 science and 6 mathematics comparisons. The between-groups test was significant (QB=11.776, p<0.05); the science effect size exceeded the mathematics effect size.
 
@@ -48,3 +50,4 @@ Moderator analysis by subject discipline of the achievement test, reported in Ta
 - [Science-related subject areas (mathematics, science, medical science) show larger effects than programming technology and other fields](subject-area-moderates-cps-critical-thinking-effects.md) — reports the opposite
 - [Discipline significantly moderates the effects of educational robotics on STEM learning, with larger effects in technology and cross-disciplinary contexts than in science and mathematics](discipline-moderates-robotics-stem-effects.md) — related
 - [Differences in AI-supported instruction effects across STEM disciplines are not statistically significant](ai-effect-discipline-differences-nonsignificant.md) — reports the opposite
+- [Relational-understanding technologies show the most divergent effects (.09 to 1.02), moderated by grade level, duration, and mathematics subject matter](relational-technology-divergent-effects-subject-matter.md) — related

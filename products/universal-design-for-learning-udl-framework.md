@@ -37,7 +37,8 @@ CAST's framework for designing flexible instruction around learner variability t
 - [Mathspace dynamic representations, such as fraction smart shapes, let students see how changing the number of equal parts alters part size while the whole stays the same](../claims/mathspace-dynamic-representations-fractions.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [F-L-I-P framework of flipped learning](f-l-i-p-framework-of-flipped-learning.md)
 
 ## Key Sources
 - McMahon, L. H., Pautz Stephenson, S., & Corrigan, S. (2024). The future of math inclusion: The promise of digital math tools for universally accessible mathematics instruction [Project Report]. Digital Promise. https://doi.org/10.51388/20.500.12265/211

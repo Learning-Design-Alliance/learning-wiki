@@ -16,18 +16,22 @@ sources:
     author: Hakan Ulum, Songül Tümkaya
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
   - id: hakan-ulum-2022-2
     resource: "https://ojs.unimal.ac.id/mjml/index"
     title: "Hakan Ulum, Songül Tümkaya. (2022). The effect of student-centred methods and techniques on primary school students' mathematics achievement: A meta-analysis study. Malikussaleh Journal of Mathematics Learning (MJML). https://ojs.unimal.ac.id/mjml/index"
     author: Hakan Ulum, Songül Tümkaya
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # The application approach (which student-centred method or technique is used) significantly moderates the effect size, with Activities Based on Multiple Intelligences and Educational Games showing the largest effects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Hakan Ulum, Songül Tümkaya. (2022). The effect of student-centred methods and techniques on primary school students' mathematics achievement: A meta-analysis study. Malikussaleh Journal of Mathematics Learning (MJML). https://ojs.unimal.ac.id/mjml/index
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Analog ANOVA moderator analysis across nine application approaches (CAI, CAI/CL, ABMI, Others, EG, RME, CL, TM, PBL) found statistically significant between-group variance; the article states this was the only significant moderator.
 
@@ -50,7 +54,7 @@ Analog ANOVA moderator analysis across nine application approaches (CAI, CAI/CL,
 
 Hakan Ulum, Songül Tümkaya. (2022). The effect of student-centred methods and techniques on primary school students' mathematics achievement: A meta-analysis study. Malikussaleh Journal of Mathematics Learning (MJML). https://ojs.unimal.ac.id/mjml/index
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Table 12 reports effect sizes by approach: ABMI d = 1.334 (k = 4), EG d = 1.280 (k = 5), PBL d = 0.356 (k = 4), CAI d = 0.546 (k = 20). The discussion concludes ABMI and educational games "had more effect ... than other approaches".
 
@@ -64,3 +68,5 @@ Table 12 reports effect sizes by approach: ABMI d = 1.334 (k = 4), EG d = 1.280 
 - [Student-centred strategies, methods and techniques produce a moderate-to-high overall effect on primary school students' mathematics achievement compared to traditional teaching (ES = 0.787, random-effects model)](student-centred-methods-math-achievement-meta-analysis-0787.md) — related
 - [Instructional method does not significantly moderate Gen-AI's effect on HOT, though project-based learning shows the largest subgroup effect (ES = 0.717) and lecture-based instruction a small non-significant effect (ES = 0.396)](genai-instructional-method-moderator.md) — related
 - [RME combined with mathematical software yields larger effects than RME alone or RME with other methods](rme-plus-math-software-larger-effect.md) — related
+- [The effect of cooperative learning on mathematics achievement differs significantly by implemented technique, with multiple intelligence-assisted and STAD techniques largest](cooperative-technique-moderator-significant-stad-mi.md) — related
+- [The effect of games on mathematics achievement does not differ significantly by learning domain](game-math-effect-no-difference-learning-domain.md) — related

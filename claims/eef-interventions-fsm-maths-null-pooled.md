@@ -16,12 +16,14 @@ sources:
     author: Bilal Ashraf, Akansha Singh, Germaine Uwimpuhwe, Tahani Coolen-Maturi, Jochen Einbeck, Steve Higgins and Adetayo Kasim
     q: 3
     i: 0
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # EEF-funded interventions showed no evidence of positive or negative overall effects on FSM pupils' mathematics outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i0` negligible
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Bilal Ashraf, Akansha Singh, Germaine Uwimpuhwe, Tahani Coolen-Maturi, Jochen Einbeck, Steve Higgins and Adetayo Kasim. (2021). Individual participant data meta-analysis of the impact of EEF trials on the educational attainment of pupils on Free School Meals: 2011 - 2019. Education Endowment Foundation. https://eric.ed.gov/?id=ED625398
 
-`q3 · i0`
+`q3 · i0` · `quant-synthesis · r2`
 
 IPD meta-analysis of 48 maths trials (89,247 FSM pupils). The report states "there is no evidence from the 48 trials analysed" of positive effects, with a printed pooled effect size of 0.00; it also notes no evidence of worsening outcomes. Equivalence was not tested.
 

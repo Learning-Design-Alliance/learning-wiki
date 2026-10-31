@@ -49,3 +49,4 @@ Qualitative synthesis of AI usage across the reviewed ITS. Camera/sensor systems
 - [AI is implemented in SRL research primarily as an intervention, most often through adaptive systems and personalization](ai-implemented-as-intervention-adaptive-systems-personalization.md) — related
 - [The CPR Tutor architecture classifies a chest compression in about 70 milliseconds, supporting real-time feedback provision](cpr-tutor-real-time-classification-speed.md) — a narrower finding that bears on this claim
 - [Real-time and dynamic feedback dominate feedback provision in ILEs for psychomotor skills](ile-psychomotor-feedback-realtime-dynamic-dominance.md) — related
+- [Feedback-based CPR training is associated with more accurate chest compression performance than standard instruction](feedback-based-cpr-training-improves-compression-performance.md) — related

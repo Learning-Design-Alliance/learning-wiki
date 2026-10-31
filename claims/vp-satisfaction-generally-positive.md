@@ -47,3 +47,4 @@ Narrative synthesis of 17 satisfaction studies, mostly item-by-item survey compa
 ## Related Claims
 - [Virtual patient design-variant comparisons rarely show significant differences, with feedback and scaffolding exceptions](vp-design-variants-mostly-null.md) — related
 - [Expert evaluation found the virtual patient realistic and immediate ACT feedback increased therapists' awareness of intervention choices](expert-evaluation-realism-and-feedback-awareness.md) — related
+- [Learner self-reported improvement after AI-generated virtual patient training is sometimes discordant with observed or cohort-comparison performance](ai-virtual-patient-self-report-performance-discordance.md) — related

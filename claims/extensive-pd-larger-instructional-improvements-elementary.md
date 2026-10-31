@@ -54,3 +54,4 @@ Difference-in-difference analysis of My Voice, My School student survey response
 - [Student reports of standards-aligned instructional practices improved more in Chicago middle-grade schools with more extensive CCSS-M professional learning](standards-aligned-practice-reports-improved-with-pl.md) — related
 - [Elementary teachers were more likely than high school teachers to report that standards-related professional development had extensive impact on their teaching practices](ccss-pd-impact-on-teaching-practices-elementary-more.md) — related
 - [Eleventh-grade ACT math scores changed similarly across schools regardless of their level of standards-related professional development](act-scores-similar-across-pd-levels.md) — related
+- [PD programs with larger impacts on teacher-level outcomes tended to have significantly larger mean impacts on student achievement](pd-teacher-impacts-predict-student-impacts.md) — related

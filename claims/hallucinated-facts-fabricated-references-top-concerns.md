@@ -78,3 +78,5 @@ RQ3 thematic analysis of focus groups reports these output-quality concerns; par
 - [Instructional designers' main challenges with ChatGPT are output quality (53.8%), tool limitations (42.3%), and faculty unpreparedness (3.8%)](id-chatgpt-challenges-output-quality-tool-limits.md) — related
 - [Pessimistic Evaluators' foremost concern is misleading, inaccurate, or biased ChatGPT-generated information](pessimistic-evaluators-misleading-information-concern.md) — related
 - [IDs expressed quality concerns over GenAI-generated content, including bias, inaccuracy, hallucinations, and lack of authenticity](genai-quality-concerns-bias-hallucination.md) — related
+- [Students broadly endorse LLMs as educational aids (74% positive) while 61% raise integrity concerns, 59% cite hallucination risk, and 82% report no institutional guidance](student-llm-perceptions-no-guidance-majority.md) — related
+- [Faculty hold more tempered views of LLMs than students (51% vs 74% positive), centred on clinical reasoning development and content reliability](faculty-student-perception-gap-llms.md) — related

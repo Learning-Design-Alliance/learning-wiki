@@ -16,12 +16,14 @@ sources:
     author: Özgür Ulubey
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Effect of creative drama on skills varies significantly by level of schooling, highest at pre-school and lowest at high school
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Özgür Ulubey. (2018). The Effect of Creative Drama as a Method on Skills: A Meta-analysis Study. Journal of Education and Training Studies, 6(4). https://eric.ed.gov/?id=EJ1172791
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Moderator analysis across schooling levels from pre-school to university in the 63-study meta-analysis. The article reports the significant Qbetween value and names pre-school as highest and high school (ES=.122) as lowest.
 
@@ -49,3 +51,5 @@ Moderator analysis across schooling levels from pre-school to university in the 
 - [Effect size of creative drama on skills does not vary significantly by practitioner (researcher vs teacher)](creative-drama-practitioner-null-moderator.md) — related
 - [Effect sizes differ significantly by educational level, with the highest effect at university level (ES = 2.254) and the lowest at primary level (ES = 0.936).](moderator-educational-level-effect.md) — related
 - [Effect size of creative drama does not vary significantly by skill type (social, basic language, higher thinking)](creative-drama-skill-type-null-moderator.md) — related
+- [Creative drama's effect on achievement does not significantly differ by grade level (QB = 3.75, df = 4, p > .05)](creative-drama-effect-no-grade-level-difference.md) — related
+- [Creative drama's effect on achievement does not significantly differ by subject field (p > .05), though the English-lesson effect size (ES = 3.37) was descriptively highest](creative-drama-effect-no-subject-field-difference.md) — related

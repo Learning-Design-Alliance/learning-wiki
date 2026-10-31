@@ -16,12 +16,14 @@ sources:
     author: "Ergul Sonmez, E., & Cakir, H."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # The distribution of effect sizes across the 19 studies is heterogeneous (Q = 202.569, exceeding the critical value of 38.582), requiring a random effects model
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Ergul Sonmez, E., & Cakir, H. (2021). Effect of Web 2.0 technologies on academic performance: A meta-analysis study. International Journal of Technology in Education and Science (IJTES), 5(1), 108-127. https://doi.org/10.46328/ijtes.161
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Heterogeneity analysis of the 19 included studies using Cochran's Q in CMA. The printed Q value was 202.569 with df(Q) = 18 and p < 0.001, exceeding the critical value, so "the research is heterogeneous" and a random effects model was applied.
 
@@ -52,3 +54,6 @@ Heterogeneity analysis of the 19 included studies using Cochran's Q in CMA. The 
 - [Effect sizes across the included studies are highly heterogeneous (I² = 91.37%), indicating moderating factors](high-heterogeneity-innovative-models-critical-thinking.md) — related
 - [Effect sizes across the 38 comparisons are highly heterogeneous, requiring a random-effects model](stem-digital-meta-heterogeneous-random-effects.md) — related
 - [Individual studies of digital story effects are highly heterogeneous, requiring a random effects model](digital-story-studies-heterogeneous-random-effects.md) — related
+- [High heterogeneity was present among effect sizes for both academic achievement (I2≈85%) and learning retention (I2≈61%)](cbl-meta-analysis-high-heterogeneity.md) — related
+- [The pooled effect-size distribution is highly heterogeneous but resistant to publication bias](heterogeneity-and-publication-bias-assessment.md) — related
+- [Effect sizes across included studies are highly heterogeneous (I² = 94.79%), requiring a random-effects model](high-heterogeneity-random-effects-cre-meta-analysis.md) — related

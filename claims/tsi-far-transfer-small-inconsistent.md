@@ -16,12 +16,14 @@ sources:
     author: "Hebert, M., Bohaty, J. J., Nelson, J. R., & Brown, J."
     q: 3
     i: 0
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Far-transfer to norm-referenced general reading comprehension is small and inconsistent (g = 0.13)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i0` negligible
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i0` negligible
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Hebert, M., Bohaty, J. J., Nelson, J. R., & Brown, J. (2016). The effects of text structure instruction on expository reading comprehension: A meta-analysis. Journal of Educational Psychology, 108(5), 609–629. https://doi.org/10.1037/edu0000082
 
-`q3 · i0`
+`q3 · i0` · `quant-synthesis · r3`
 
 Far-transfer analysis (RQ2c) of eight studies using aggregated effect sizes, since fewer than 10 studies precluded RVE; heterogeneity was not significant. The review reports "a significant average weighted effect size of 0.13", i.e., g = 0.13, a negligible effect by the code table.
 

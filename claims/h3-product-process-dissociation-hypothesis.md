@@ -63,3 +63,5 @@ Theoretical argument, not a tested result: the article formalizes Hypothesis 3 a
 - [Prompt-literacy guidance was associated with higher transcript-coded rule-following compliance than unrestricted LLM access, mainly in process-over-answer and stepwise-hint behaviors](guided-llm-training-raises-rule-following-compliance.md) — related
 - [Transfer task performance is the critical measure of what adaptive training accomplishes](transfer-task-measures-adaptive-training-effectiveness.md) — related
 - [Studying with the material available during post-testing yielded higher post-test and delayed retention scores but worse transfer than retention-based studying](material-availability-studying-tradeoffs.md) — related
+- [LLM use as a supplementary learning aid yields modest short-term knowledge gains (d = 0.31–0.71) that attenuate without durable retention](llm-shortterm-knowledge-gains-no-retention.md) — related
+- [Unstructured LLM use is associated with reduced engagement with primary reference texts and lower ability to identify hallucinations](unguided-llm-use-critical-appraisal-erosion.md) — a narrower finding that bears on this claim

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: mixed
 newest_evidence: 2026
+source_checked: 2026-10-31
 sources:
   - id: mathias-allemand-2026
     resource: "https://doi.org/10.1007/s10648-026-10127-6"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A meta-analysis of 48 long-term studies found no evidence of fadeout for interventions targeting metacognitive strategy use, with achievement effects appearing to increase over time. [→ Mathias Allemand 2026](#mathias-allemand-2026)

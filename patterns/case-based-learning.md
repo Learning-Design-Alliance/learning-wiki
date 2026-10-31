@@ -37,7 +37,7 @@ sources:
 # Case-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 46 claims (20 for, 25 mixed, 1 against) · 34 studies (13 causal, 6 quant-synthesis, 6 review, 3 associational, 3 design, 2 qualitative, 1 theoretical), `q2`–`q4` · 8 of 34 report an effect size · 41 claims rest on one study
+> **Evidence** · 47 claims (21 for, 25 mixed, 1 against) · 35 studies (13 causal, 7 review, 6 quant-synthesis, 3 associational, 3 design, 2 qualitative, 1 theoretical), `q2`–`q4` · 8 of 35 report an effect size · 42 claims rest on one study
 
 ## Description and scope
 
@@ -160,6 +160,7 @@ This pattern is scoped to lessons in which cases are analysed and compared and t
 - [Case-based learning does not produce a larger increase in self-reported theory-based knowledge usage than studying with theoretical models](../claims/no-group-difference-theory-usage-increase.md) [-W]
 - [Structure-emphasizing example sets, using varied cover stories across problem types, lead students to categorize problems by structure rather than surface features](../claims/structure-emphasizing-cover-stories-categorization.md) [+W]
 - [Case comparisons produced significantly higher learning gains than single cases for organic chemistry students with low prior knowledge (attributed to Kranz et al., under review)](../claims/case-comparisons-higher-learning-gain-low-prior-knowledge.md) [+W]
+- [Beneficial design features include diverse, authentic case variation and immediate, individualized, actionable, transparent feedback, yet only 52.6% of studies incorporated feedback](../claims/ai-virtual-patients-feedback-feature-underincorporated.md) [+W]
 
 ## Related Patterns
 - [Problem-Based Learning (PBL)](problem-based-learning.md)

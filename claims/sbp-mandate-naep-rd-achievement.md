@@ -52,3 +52,4 @@ Fuzzy RD using local linear regression with a triangle kernel and bandwidth of 5
 - [Each year of attending a school with a binding SBP mandate increases math achievement by 0.572 points (2.7% of a standard deviation), reading by 0.470 points (2.0%), and science by 0.130 points (0.9%)](sbp-years-of-exposure-achievement.md) — related
 - [Statewide, One-Star designation has a modest significant positive effect on ELA but not on math scores](one-star-designation-statewide-ela-effect.md) — related
 - [A binding SBP mandate increases milk and fruit consumption and decreases soda consumption, but its effects on attendance are imprecise, suggesting the achievement effect operates through improved nutrition](sbp-improves-nutrition-not-attendance.md) — related
+- [School Breakfast Program availability is associated with better attendance and reading scores, especially among boys and lower-income students](sbp-attendance-reading-gains.md) — related

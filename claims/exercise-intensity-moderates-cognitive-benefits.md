@@ -84,3 +84,4 @@ Narrative review describing a treadmill-walking study in individuals with Down s
 - [Self-chosen exercise intensity produced the greatest mood benefits in a small study, suggesting enjoyable workouts may best improve mood](self-chosen-exercise-greatest-mood-benefit.md) — related
 - [Executive functions in childhood benefit from moderate-to-vigorous intensity and aerobic physical activity interventions](mvpa-aerobic-pa-benefits-executive-functions.md) — related
 - [Mathematics outcomes benefit from PA with academic instruction of 6–10-week duration at moderate or moderate-to-vigorous intensity, and language outcomes from enriched PA programmes](pa-academic-instruction-benefits-maths-enriched-benefits-language.md) — related
+- [Greater exercise intensity, not merely increased frequency, is associated with larger academic gains](exercise-intensity-moderates-academic-gains.md) — related

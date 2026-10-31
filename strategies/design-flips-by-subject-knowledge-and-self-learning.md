@@ -17,7 +17,7 @@ sources:
 # Design flipped classroom instruction according to subject type, knowledge type, and students' independent learning ability
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 2 studies, `q3` · 1 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (1 for, 2 mixed) · 2 studies (2 quant-synthesis), `q3` · 1 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 The article's Implications section recommends designing flipped classroom teaching scientifically according to students' characteristics at different stages, subjects, and knowledge points. For theoretical knowledge it advises designing "more background knowledge of advanced organizers before class" and internalizing critical points in class; for practical knowledge, arranging operational knowledge before class and focusing class time on deeper skills. It also recommends cultivating students' independent learning ability and developing subject-specific flipping models.
@@ -48,7 +48,8 @@ The article's Implications section recommends designing flipped classroom teachi
 - [Study type, educational level, and year do not significantly moderate the effect of flipped learning on success](../claims/flipped-learning-moderators-nonsignificant.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Adopt flipped classroom in preventive medicine courses according to institutional resources, with teacher information-technology training](adopt-fc-per-resources-with-teacher-it-training.md)
 
 ## Examples
 -

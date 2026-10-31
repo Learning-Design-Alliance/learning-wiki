@@ -16,12 +16,14 @@ sources:
     author: Utomo, H. D.; Aliman, M.
     q: 2
     i: "?"
+    kind: review
+    rigour: 2
 ---
 
 # A meta-analysis of literature and policy sources yields climate resilience education ideas groupable into content, methods, goals and actions aligned with learning objectives
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · review `r2` · `q2`
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Utomo, H. D.; Aliman, M. (2021). The meta-analysis of climate resilience education in higher education for transformation based on experiential learning models. Review of International Geographical Education (RIGEO), 11(2), 302-316. https://doi.org/10.33403rigeo.754200
 
-`q2 · i?`
+`q2 · i?` · `review · r2`
 
 The article's own meta-analysis (overlay of books, journals and news, filtered against standards of learning outcomes) classified selected literature into content, purpose, method and action categories, reported in Table 2. This is a narrative synthesis, not a statistical pooling of effect sizes.
 

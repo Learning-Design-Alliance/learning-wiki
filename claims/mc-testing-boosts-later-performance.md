@@ -52,3 +52,4 @@ Experiment using published SAT II materials (biology, chemistry, U.S. and world 
 - [Multiple-choice testing improves later cued recall of prose facts, a benefit that persists though reduced after a one-week delay](mc-testing-prose-cued-recall-benefit.md) — related
 - [Immediate feedback reduces multiple-choice lure production on later tests, and the overall positive effect of testing outweighs negative consequences](feedback-reduces-lure-production.md) — related
 - [Practice testing yields transferrable learning relative to a nontesting reexposure control condition (d = 0.40)](testing-yields-transfer-versus-reexposure-control-d-040.md) — related
+- [Multiple-choice questions combined with description and open-description items can measure higher-level thinking, including concept understanding at levels C1–C6](multilevel-mcq-measures-higher-order-chemistry-understanding.md) — related

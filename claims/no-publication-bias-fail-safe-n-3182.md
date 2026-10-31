@@ -16,18 +16,22 @@ sources:
     author: Hakan Ulum, Songül Tümkaya
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
   - id: hakan-ulum-2022-2
     resource: "https://ojs.unimal.ac.id/mjml/index"
     title: "Hakan Ulum, Songül Tümkaya. (2022). The effect of student-centred methods and techniques on primary school students' mathematics achievement: A meta-analysis study. Malikussaleh Journal of Mathematics Learning (MJML). https://ojs.unimal.ac.id/mjml/index"
     author: Hakan Ulum, Songül Tümkaya
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Publication bias checks (funnel plot and Orwin's Fail-Safe N = 3182) found no evidence of bias in the meta-analysis
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Hakan Ulum, Songül Tümkaya. (2022). The effect of student-centred methods and techniques on primary school students' mathematics achievement: A meta-analysis study. Malikussaleh Journal of Mathematics Learning (MJML). https://ojs.unimal.ac.id/mjml/index
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Publication bias was tested with the Funnel Plot and Orwin's Fail-Safe N formula; Table 1 reports observed Hedge's g of 0.73800, a trivial criterion of 0.01500, and FSN = 3182. The authors state it is not possible to reach 3182 more studies.
 
@@ -50,7 +54,7 @@ Publication bias was tested with the Funnel Plot and Orwin's Fail-Safe N formula
 
 Hakan Ulum, Songül Tümkaya. (2022). The effect of student-centred methods and techniques on primary school students' mathematics achievement: A meta-analysis study. Malikussaleh Journal of Mathematics Learning (MJML). https://ojs.unimal.ac.id/mjml/index
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Graph 1 shows the funnel plot of standard error by Hedges's g for the included studies. The authors argue that if publication bias existed, studies would concentrate in the lower part of the funnel, and conclude the obtained plot "was one of the indicators that there was no publication bias".
 
@@ -70,3 +74,4 @@ Graph 1 shows the funnel plot of standard error by Hedges's g for the included s
 - [No publication bias was detected among the studies included in the meta-analysis](drama-social-studies-meta-analysis-no-publication-bias.md) — related
 - [Fail-safe analyses indicate the meta-analysis findings are not attributable to publication bias](seitla-no-publication-bias-failsafe.md) — related
 - [Publication-bias checks (funnel plot symmetry and Rosenthal Safe N of 6801) indicate no publication bias in the synthesis](stem-digital-meta-no-publication-bias.md) — related
+- [Fail-safe N analyses indicate the pooled effect is resistant to publication bias (Rosenthal FSN = 2139; Orwin FSN = 1048)](fsn-resistance-publication-bias-cre-meta-analysis.md) — related

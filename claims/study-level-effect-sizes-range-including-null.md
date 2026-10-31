@@ -16,12 +16,14 @@ sources:
     author: "Sa’idah, N., Jailani, Sudiyatno, & Retnawati, H."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Individual study effect sizes range from negative to very strong, with one study showing no effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Sa’idah, N., Jailani, Sudiyatno, & Retnawati, H. (2026). Innovative teaching models and critical thinking in mathematics and statistics education: A meta-analytical review. International Journal of Research in Education and Science (IJRES), 12(1), 140-157. https://doi.org/10.46328/ijres.5054
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Forest plot of the 19 coded studies (Figure 2), where box size reflects each study's relative weight. Table 2 lists g values from -0.015 (Bates et al., 2024, no effect) to 4.594 (Setiyawan et al., 2024, very strong); the article classifies 21% less strong, 26.3% strong, 47.4% very strong.
 

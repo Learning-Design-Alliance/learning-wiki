@@ -16,12 +16,14 @@ sources:
     author: "Nalline S. Baliram & Jeffrey J. Youde"
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # Feedback produces a moderate, statistically significant positive overall effect on academic achievement (Hedges' g = .40)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r1` · `q3` · `i2` medium
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Nalline S. Baliram & Jeffrey J. Youde. (2018). A Meta-analytic Synthesis: Examining the academic impacts of feedback on student achievement. International Dialogues on Education, 5(2), 76-90. https://portal.issn.org/resource/ISSN/2198-5944
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r1`
 
 Random-effects meta-analysis of 26 data sets from eight studies comparing feedback to no-feedback control groups, analyzed in Comprehensive Meta-Analysis, Version 3. The pooled effect was "Hedges’ g = 0.40" with p = .003, described by the authors as equivalent to a 17% percentile gain under Marzano's model.
 

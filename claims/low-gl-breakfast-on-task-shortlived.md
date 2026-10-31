@@ -52,3 +52,4 @@ The review describes a randomized acute experimental study (attributed to Benton
 - [Robust RCTs of school breakfast programs failed to find behavioral benefits, with low and variable attendance and a shift from at-home to at-school consumption limiting impact](sbp-rcts-null-behavior-attendance-limits.md) — reports the opposite
 - [School breakfast programs show suggestive positive effects on academic performance, with clearest effects on mathematics and arithmetic grades in undernourished children](sbp-positive-academic-performance-undernourished.md) — related
 - [Quality of habitual breakfast, in terms of variety of food groups and adequate energy, is positively related to school performance](breakfast-quality-school-performance.md) — related
+- [Breakfast After the Bell shows benefits for attendance and behavior, but mixed evidence on test scores](batb-mixed-academic-evidence.md) — related

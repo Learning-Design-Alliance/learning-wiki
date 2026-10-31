@@ -16,18 +16,22 @@ sources:
     author: Torstein Låg, Rannveig Grøm Sæle
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
   - id: torstein-låg-2019-2
     resource: "https://doi.org/10.1177/2332858419870489"
     title: "Torstein Låg, Rannveig Grøm Sæle. (2019). Does the Flipped Classroom Improve Student Learning and Satisfaction? A Systematic Review and Meta-Analysis. AERA Open. https://doi.org/10.1177/2332858419870489"
     author: Torstein Låg, Rannveig Grøm Sæle
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Testing student preparation is associated with slightly higher learning gains in flipped classroom implementations
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Torstein Låg, Rannveig Grøm Sæle. (2019). Does the Flipped Classroom Improve Student Learning and Satisfaction? A Systematic Review and Meta-Analysis. AERA Open. https://doi.org/10.1177/2332858419870489
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Meta-regression across all continuous-learning studies with moderators entered jointly. The article reports test of preparation "is now significant (p = .01)" with coefficient 0.12 [0.02, 0.22], and links it to retrieval practice and motivational effects of testing.
 
@@ -50,7 +54,7 @@ Meta-regression across all continuous-learning studies with moderators entered j
 
 Torstein Låg, Rannveig Grøm Sæle. (2019). Does the Flipped Classroom Improve Student Learning and Satisfaction? A Systematic Review and Meta-Analysis. AERA Open. https://doi.org/10.1177/2332858419870489
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Subgroup analysis of continuous-learning outcomes (k = 140 with preparation testing, k = 132 without). The article reports g = 0.40 versus 0.31 with Q = 3.8, p = .051, a marginally significant difference.
 

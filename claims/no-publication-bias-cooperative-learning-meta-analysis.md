@@ -16,24 +16,30 @@ sources:
     author: M. Rais Ridwan, Samsul Hadi, Jailani Jailani
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
   - id: m-rais-ridwan-2022-2
     resource: "http://dx.doi.org/10.17275/per.22.97.9.4"
     title: "M. Rais Ridwan, Samsul Hadi, Jailani Jailani. (2022). A meta-analysis study on the effectiveness of a cooperative learning model on vocational high school students' mathematics learning outcomes. Participatory Educational Research, 9(4). http://dx.doi.org/10.17275/per.22.97.9.4"
     author: M. Rais Ridwan, Samsul Hadi, Jailani Jailani
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
   - id: m-rais-ridwan-2022-3
     resource: "http://dx.doi.org/10.17275/per.22.97.9.4"
     title: "M. Rais Ridwan, Samsul Hadi, Jailani Jailani. (2022). A meta-analysis study on the effectiveness of a cooperative learning model on vocational high school students' mathematics learning outcomes. Participatory Educational Research, 9(4). http://dx.doi.org/10.17275/per.22.97.9.4"
     author: M. Rais Ridwan, Samsul Hadi, Jailani Jailani
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # No publication bias is detected in the meta-analysis by rank correlation, regression, Fail-Safe N, and Trim and Fill checks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (3 entries) · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study (3 entries) · quant-synthesis `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -47,7 +53,7 @@ sources:
 
 M. Rais Ridwan, Samsul Hadi, Jailani Jailani. (2022). A meta-analysis study on the effectiveness of a cooperative learning model on vocational high school students' mathematics learning outcomes. Participatory Educational Research, 9(4). http://dx.doi.org/10.17275/per.22.97.9.4
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Publication-bias analysis of the 22 pooled studies using Begg-Mazumdar rank correlation and Egger regression in JASP (Table 5); the funnel plot was judged visually symmetrical.
 
@@ -57,7 +63,7 @@ Publication-bias analysis of the 22 pooled studies using Begg-Mazumdar rank corr
 
 M. Rais Ridwan, Samsul Hadi, Jailani Jailani. (2022). A meta-analysis study on the effectiveness of a cooperative learning model on vocational high school students' mathematics learning outcomes. Participatory Educational Research, 9(4). http://dx.doi.org/10.17275/per.22.97.9.4
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 File drawer analysis (Table 6) with observed significance <0.001 against a target significance of 0.050; the article concludes no publication bias exists in the comparison.
 
@@ -67,7 +73,7 @@ File drawer analysis (Table 6) with observed significance <0.001 against a targe
 
 M. Rais Ridwan, Samsul Hadi, Jailani Jailani. (2022). A meta-analysis study on the effectiveness of a cooperative learning model on vocational high school students' mathematics learning outcomes. Participatory Educational Research, 9(4). http://dx.doi.org/10.17275/per.22.97.9.4
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r2`
 
 Trim and Fill forest plot analysis before and after adjustment (Figure 5), computed in JASP from effect sizes and standard errors; the summary effect size remained "0.89 [0.70; 1.07]" before and after adjustment, supporting the validity of the comparison.
 

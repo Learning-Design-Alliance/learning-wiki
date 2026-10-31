@@ -69,3 +69,4 @@ The article reports, citing Macnamara and Burgoyne, that this meta-analysis of 7
 - [Yeager et al. (2016) and Fink et al. (2018) found indeterminate effects on enrollment, credit completion, and chemistry final exam scores](yeager-fink-indeterminate-effects.md) — related
 - [Mindset interventions have only a weak effect on later academic achievement](mindset-interventions-weak-effect.md) — related
 - [Prior evidence on PowerPoint's effect on cognitive learning is equivocal, with a non-significant pooled effect](powerpoint-meta-analysis-null-pooled-effect.md) — related
+- [Mean effect sizes across the 13 reviewed meta-analyses ranged from -.11 to .57](mean-effect-sizes-range-negative-11-to-57.md) — related

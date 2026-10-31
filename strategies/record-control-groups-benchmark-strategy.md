@@ -17,7 +17,7 @@ sources:
 # Record control-group instruction and benchmark future experimental studies against the 0.83 SD traditional-method gain
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends two concrete practices for future experimental research in mathematics education. First, researchers should document what actually happens in control groups: "This problem of confrontation as a reliability problem in studies can be overcome by recording the control groups in new studies to be done and ensuring that this record is included in the thesis." Second, researchers can avoid re-implementing a traditional control group by testing their experimental group's gain against the article's pooled 0.83 SD benchmark with a one-sample t-test, which the authors say involves no loss of data.

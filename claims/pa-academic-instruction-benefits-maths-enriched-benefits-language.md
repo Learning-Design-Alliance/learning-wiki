@@ -50,3 +50,4 @@ Meta-regressions on mathematics outcomes reported in the Results moderator secti
 - [Exercise intensity differentially moderates acute exercise cognitive benefits, with moderate intensity favoring executive functions and high intensity favoring information processing](exercise-intensity-moderates-cognitive-benefits.md) — related
 - [Dosage significantly predicts intervention effects in a linear model (β = 0.03 per hour), but the dosage main effect is no longer significant after controlling for moderators](dosage-slope-nonsignificant-with-moderators.md) — related
 - [Reported benefits of physical activity programs on executive functions depend on program duration and the executive domain analyzed](pa-program-duration-dependent-ef-benefits.md) — related
+- [Intervention dosage (duration, frequency, intensity) shows no consistent association with app effect sizes](app-dosage-no-consistent-association.md) — related

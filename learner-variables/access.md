@@ -13,7 +13,7 @@ generated:
 # Access
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 84 claims (58 show a difference, 20 mixed, 6 no difference) · 62 studies (29 associational, 8 review, 7 qualitative, 6 theoretical, 5 causal, 5 design, 2 quant-synthesis), `q1`–`q4` · 5 of 62 report an effect size · 80 claims rest on one study
+> **Evidence** · 85 claims (58 show a difference, 21 mixed, 6 no difference) · 63 studies (29 associational, 9 review, 7 qualitative, 6 theoretical, 5 causal, 5 design, 2 quant-synthesis), `q1`–`q4` · 5 of 63 report an effect size · 81 claims rest on one study
 
 ## Description
 Whether a learner can perceive and operate the material at all: device, bandwidth, screen reader, captions, motor demands. Distinct from [digital literacy](digital-literacy.md), which is whether they can *drive* it. Access is binary in a way the other dimensions are not — a design that cannot be perceived does not teach less, it teaches nothing — which is why it is checked rather than optimised.
@@ -128,6 +128,7 @@ Whether a learner can perceive and operate the material at all: device, bandwidt
 - [Technological prerequisites such as internet access and device availability were identified only by the South African panel, with equity of education as a distal outcome](../claims/technological-prerequisites-south-african-panel-equity.md) [+M] — learners who differ on it differ in outcomes
 - [Frequent map users showed higher orientation and access ratios, yet orientation and access remained the weakest performance ratios](../claims/map-use-orientation-access-correlations.md) [~M] — instruction changes it
 - [Children's access to tablet apps at home is positively associated with print knowledge](../claims/tablet-app-access-positively-associated-print-knowledge.md) [+W] — learners who differ on it differ in outcomes
+- [The review finds digital environments produce disparate, even counterproductive effects during abrupt transitions and in low-resource communities](../claims/abrupt-transition-disparate-counterproductive-effects.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 

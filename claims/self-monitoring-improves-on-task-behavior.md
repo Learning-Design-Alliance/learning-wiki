@@ -112,3 +112,4 @@ The evidence recorded above comes from single-case designs with students with or
 - [Single-case effects of self-management interventions are not moderated by intervention characteristics (duration, fidelity assessment, fidelity method, or training)](sm-effects-not-moderated-intervention-characteristics.md) — related
 - [Self-management interventions significantly and positively impact academic outcomes (achievement and work completion) in single-case design studies](sm-interventions-improve-academic-outcomes-scd.md) — related
 - [Monitoring tools produce a moderate effect on academic achievement (d = 0.42), supporting a reactivity effect](monitoring-tools-achievement-d042.md) — related
+- [Instituting TCSM produced larger Phi effects (Md = 0.74) than removing TCSM in reversal designs (Md = 0.32)](tcsm-instituting-larger-phi-than-removing.md) — related

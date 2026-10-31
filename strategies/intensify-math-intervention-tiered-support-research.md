@@ -17,7 +17,7 @@ sources:
 # Investigate limited responders' response to increasingly intensive levels of mathematics intervention within tiered systems of support
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study, `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 quant-synthesis), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The article identifies a gap: research on intensive mathematics interventions lags behind reading intervention research. It calls for studies of "limited responders' response to increasingly intensive levels of mathematics intervention (i.e., reducing group size, increasing the duration, frequency, or length of each session, and providing more explicit, systematic instruction)" and recommends funding longitudinal intervention research within tiered systems of support.

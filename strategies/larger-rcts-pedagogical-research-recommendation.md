@@ -17,7 +17,7 @@ sources:
 # Prioritize larger randomized trials in pedagogical research and more representative evaluations across Africa
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The author closes the meta-analysis with recommendations for researchers: because the highest-impact pedagogical evaluations are small and the evidence base is geographically concentrated, future work should use "larger randomized trials, particularly in the field of pedagogical research" and increase the focus on evaluations more representative of the continent and the issues facing African education systems.
@@ -44,6 +44,7 @@ The author closes the meta-analysis with recommendations for researchers: becaus
 
 - [Prioritize high-quality randomized controlled trials and umbrella reviews over producing further redundant CI meta-analyses](rcts-and-umbrella-reviews-for-ci.md)
 - [Future MBI trials for youth should use scaled-up definitive designs with active intervention controls and embedded mechanism measures](definitive-mbi-trials-active-controls-mechanisms.md)
+- [Future HFS trials for practising nurses need larger samples, rigorous randomised design and standardised, fully reported measures](hfs-nurse-research-quality-recommendations.md)
 
 ## Examples
 -

@@ -16,12 +16,14 @@ sources:
     author: Saraç, H.
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Across all 58 effect sizes, STEM practices showed positive effects in 56 comparisons and negative effects in 2
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Saraç, H. (2018). The Effect of Science, Technology, Engin eering and Mathematics-Stem Educational Practices on Students’ Learning Outcomes: A Meta-Analysis Study. TOJET: The Turkish Online Journal of Educational Technology, 17(2). https://eric.ed.gov/?id=EJ1176176
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Overall tally across the meta-analysis corpus of 23 articles and 2 postgraduate theses (58 effect sizes; 6535 experimental and 6373 control students), reported in the abstract as the study-wide distribution of effect directions.
 

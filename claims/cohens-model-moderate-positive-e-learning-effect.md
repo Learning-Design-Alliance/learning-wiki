@@ -16,12 +16,14 @@ sources:
     author: Gloria Mothibi
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # Under Cohen's model, the effect of e-learning on academic achievement is interpreted as a statistically significant moderate positive effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r1` · `q3`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Gloria Mothibi. (2015). A Meta-Analysis of the Relationship between E-Learning and Students' Academic Achievement in Higher Education. Journal of Education and Practice, Vol.6, No.9. https://eric.ed.gov/?id=EJ1082408
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r1`
 
 Interpretation of the meta-analytic effect sizes using Cohen's model (Table 4.2), with benchmark values for small, medium and large effects. The article reports the mean effect size of "0.6" stands slightly above the average, supporting a moderate positive effect.
 

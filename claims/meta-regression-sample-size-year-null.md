@@ -16,12 +16,14 @@ sources:
     author: "San, I. & Kis, A."
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # The effect size does not vary significantly with sample size or publication year in meta-regression
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 San, I. & Kis, A. (2018). Effect of traditional methods in geometry and numbers learning domains on academic achievement: A Meta-analysis study. International Journal of Research in Education and Science (IJRES), 4(2), 544-554. https://doi.org/10.21890/ijres.428950
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Continuous moderator analysis reported in Table 5 of the meta-analysis; neither continuous moderator significantly predicted the effect size (p > .05 for both).
 

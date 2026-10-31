@@ -16,12 +16,14 @@ sources:
     author: "Daryanto, E., Siregar, B., & Januariyansah, S."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # Effect sizes of e-learning in VET vary widely across studies: 11 articles showed large, 4 medium, and 3 small effects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r1` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Daryanto, E., Siregar, B., & Januariyansah, S. (2022). A meta-analysis of the e-learning influence on Vocational Education and Training (VET): Preliminary study of virtual to actualization. International Journal of Education in Mathematics, Science, and Technology (IJEMST), 10(3), 710-721. https://doi.org/10.46328/ijemst.2509
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r1`
 
 Meta-analysis of 18 articles reporting the distribution of individual effect sizes in Table 1. The article states "three articles had a low effect size (16.7%)" and reports the medium and large counts with percentages; no per-study standardized effect beyond η² values is summarized here.
 

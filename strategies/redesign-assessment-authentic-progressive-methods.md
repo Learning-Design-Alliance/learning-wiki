@@ -49,6 +49,7 @@ To preserve academic integrity and assessment fairness in the age of GenAI, the 
 - [Integrate GenAI into HSS education through scaffolded, practice-oriented training sequences and discipline-responsive, process-focused assessment](scaffolded-practice-oriented-genai-integration-hss.md)
 - [Redesign assessments and curricula so AI availability supports rather than impedes expertise growth](redesign-assessments-for-ai-availability.md)
 - [Redesign assessment so AI-generated text cannot substitute for student work: reflective, contextualised and project-based assignments](assessment-redesign-reflective-contextualised-assignments.md)
+- [Frame LLM integration as an assessable AI literacy competency with differentiated integrity policies and reasoning-focused assessment redesign](ai-literacy-competency-medical-curriculum-strategy.md)
 
 ## Examples
 -

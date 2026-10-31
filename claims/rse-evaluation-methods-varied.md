@@ -51,3 +51,4 @@ Methodological mapping of the review's 134-paper corpus. The review reports the 
 - Over a third of RSE studies report no outcomes, and student outcome measurement prioritises knowledge — related
 - Most empirical studies adopted a quantitative research approach — related
 - Quantitative questionnaire methodology dominates digital competence research in higher education — reports the opposite
+- [Feedback research spans the full range of methodologies, with a qualitative surge in 2000–2004](feedback-research-methodological-range.md) — related

@@ -16,18 +16,22 @@ sources:
     author: Caglak, S.
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
   - id: caglak-2017-2
     resource: "https://eric.ed.gov/?id=EJ1125775"
     title: "Caglak, S. (2017). Does hands-on science practices make an ımpact on achievement in science? A meta-analysis. Journal of Education in Science, Environment and Health (JESEH), 3(1), 69-87. https://eric.ed.gov/?id=EJ1125775"
     author: Caglak, S.
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Publication bias is present and may inflate the overall hands-on effect size estimate
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Caglak, S. (2017). Does hands-on science practices make an ımpact on achievement in science? A meta-analysis. Journal of Education in Science, Environment and Health (JESEH), 3(1), 69-87. https://eric.ed.gov/?id=EJ1125775
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Publication bias assessment using funnel plots with the trim and fill method and Rosenthal's file drawer analysis. The article reports "a total of 4646 studies" would be needed, and the trim-and-fill funnel plot showed only one missing study on the left side.
 
@@ -50,7 +54,7 @@ Publication bias assessment using funnel plots with the trim and fill method and
 
 Caglak, S. (2017). Does hands-on science practices make an ımpact on achievement in science? A meta-analysis. Journal of Education in Science, Environment and Health (JESEH), 3(1), 69-87. https://eric.ed.gov/?id=EJ1125775
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Author's interpretation of the included studies' reporting pattern: "Negative impact or no impact was not reported in the selected studies", which the author states might explain why the overall effect size estimate is found to be too large. Many included studies were theses or dissertations.
 

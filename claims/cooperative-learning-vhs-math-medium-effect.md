@@ -17,12 +17,14 @@ sources:
     author: M. Rais Ridwan, Samsul Hadi, Jailani Jailani
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Cooperative learning has a medium positive effect (0.89) on vocational high school students' mathematics learning outcomes compared with conventional learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i2` medium
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2022 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 M. Rais Ridwan, Samsul Hadi, Jailani Jailani. (2022). A meta-analysis study on the effectiveness of a cooperative learning model on vocational high school students' mathematics learning outcomes. Participatory Educational Research, 9(4). http://dx.doi.org/10.17275/per.22.97.9.4
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r2`
 
 Random-effects meta-analysis of 22 quasi-experimental studies (cooperative experimental class vs conventional control class) using forest plot analysis in JASP. The summary effect size was "0.89 [0.70; 1.07]", with estimated z-value 9.59 and p-value <0.001 (Table 4).
 

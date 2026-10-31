@@ -55,3 +55,5 @@ Focus-group findings (Further development theme, 11 codes). Teachers cited Wi-Fi
 - [Teachers reported that accommodating diverse classroom needs was the biggest co-design challenge](codesign-challenge-diverse-classroom-needs.md) — related
 - [Integrating immersive VR simulations in science classrooms introduces new challenges and there is a lack of learning designs to inform practice](immersive-vr-science-classrooms-challenges-lack-of-designs.md) — related
 - [Students integrating QR-code AR into their learning reported no technical issues, attributed to alpha-generation technology familiarity](qr-code-ar-no-technical-issues-alpha-generation.md) — related
+- [Resource limitations, technical hurdles and time constraints were the primary reported barriers to implementing paediatric SBE](sbe-implementation-barriers-cost-faculty-maintenance.md) — related
+- [Simulation dominates the literature on obstetric emergency knowledge-building, but evidence for sustained behaviour change and clinical impact remains limited](simulation-dominates-oe-training-limited-clinical-impact.md) — related

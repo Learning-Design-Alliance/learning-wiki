@@ -16,12 +16,14 @@ sources:
     author: Caglak, S.
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Treatment time and grade level account for more heterogeneity in hands-on effect sizes than other moderators, but not significantly
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Caglak, S. (2017). Does hands-on science practices make an ımpact on achievement in science? A meta-analysis. Journal of Education in Science, Environment and Health (JESEH), 3(1), 69-87. https://eric.ed.gov/?id=EJ1125775
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Mixed-effects moderator analysis (Table 1) reporting amount of heterogeneity accounted for (R2): 20.00% for treatment time and 12.97% for grade level, versus .00% for school level, treatment location and geographical region. The article states these amounts were "not large enough to be statistically significant at alpha level of .05".
 

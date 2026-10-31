@@ -112,7 +112,7 @@ Narrative review of Richland et al. (2009), in which participants attempted five
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does asking questions on the material before it is taught improve later learning of it?* This table gathers the studies behind this claim and the 11 narrower claims that bear on it: **8 distinct studies** (6 causal, 2 review), `q2`–`q3`, 3 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does attempting questions on material before studying it improve later memory of the questioned content, and under what conditions on the answer and the material?* This table gathers the studies behind this claim and the 11 narrower claims that bear on it: **8 distinct studies** (6 causal, 2 review), `q2`–`q3`, 3 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|

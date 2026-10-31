@@ -36,7 +36,7 @@ sources:
 # Adaptive Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 84 claims (46 for, 34 mixed, 4 against) · 80 studies (27 causal, 20 review, 11 design, 7 quant-synthesis, 7 associational, 6 theoretical, 2 qualitative), `q1`–`q4` · 14 of 80 report an effect size · 77 claims rest on one study
+> **Evidence** · 85 claims (46 for, 35 mixed, 4 against) · 81 studies (27 causal, 20 review, 11 design, 8 quant-synthesis, 7 associational, 6 theoretical, 2 qualitative), `q1`–`q4` · 14 of 81 report an effect size · 78 claims rest on one study
 
 ## Conditional relationship
 
@@ -204,6 +204,7 @@ Within-system performance, aligned achievement, standardised achievement, delaye
 - [Reinforcement learning used for micro-adaptation showed potential learning gains of up to 1 sigma over poorly-optimized dialog or no dialog (per the article, citing Chi et al. 2014)](../claims/reinforcement-learning-micro-adaptation-gains.md) [~W]
 - [Difficulty adaptation significantly reduced the variance of task correctness and perceived difficulty across learners](../claims/adaptation-balances-outcome-variance-across-learners.md) [+W]
 - [Only participants receiving major difficulty adaptation reported significant changes in perceived difficulty](../claims/difficulty-adaptation-perceived-difficulty-changes.md) [~W]
+- [Maintenance and generalization evidence is sparse: five of nine studies had no maintenance data, and only one study reported generalization results](../claims/tcsm-sparse-maintenance-generalization.md) [~W]
 
 ## Related Principles
 - [Cognitive Load Management](cognitive-load-management.md) — adaptation is the primary mechanism for keeping intrinsic load matched to learner expertise over time

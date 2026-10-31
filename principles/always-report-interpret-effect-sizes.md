@@ -23,7 +23,7 @@ sources:
 # Always report and interpret effect sizes alongside p values for primary outcomes
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (17 for, 9 mixed) · 27 studies (10 quant-synthesis, 6 causal, 5 review, 5 theoretical), `q1`–`q4` · 8 of 27 report an effect size · 25 claims rest on one study
+> **Evidence** · 26 claims (17 for, 9 mixed) · 27 studies (11 quant-synthesis, 6 causal, 5 review, 5 theoretical), `q1`–`q4` · 8 of 27 report an effect size · 25 claims rest on one study
 
 ## Conditional relationship
 

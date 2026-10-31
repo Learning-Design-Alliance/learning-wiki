@@ -16,12 +16,14 @@ sources:
     author: "Demir, S., & Başol, G."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Effect sizes of the included CAME studies are statistically homogeneous overall (QT = 30.1670; p = .8439)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Demir, S., & Başol, G. (2014). Effectiveness of Computer-Assisted Mathematics Education (CAME) over Academic Achievement: A Meta-Analysis Study. Educational Sciences: Theory & Practice, 14(5), 2026-2035. http://www.edam.com.tr/estp
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Homogeneity test conducted with MetaWin 2.0 across the 40 included studies under the random effect model. The article reports the Q statistic as insignificant, so "the null hypothesis of homogeneous effect sizes was obtained" and variability is attributed to sampling errors.
 

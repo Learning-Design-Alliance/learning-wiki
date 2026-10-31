@@ -16,12 +16,14 @@ sources:
     author: Nurullah Sahin and İsmail Coban
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Individual studies of digital story effects are highly heterogeneous, requiring a random effects model
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Nurullah Sahin and İsmail Coban. (2020). The effect of digital story applications on students' academic achievement: A meta-analysis study. African Educational Research Journal, Special Issue 8(3), S62-S75. https://eric.ed.gov/?id=EJ1274516
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Homogeneity test of the 94 included studies reported in the Findings section (Table 3). The Q value of 433.754 exceeded the critical chi-square value of 116.511 for df = 93, and the I2 of 78.559% pointed to "a high level of heterogeneity", with p = 0.000.
 
@@ -57,3 +59,7 @@ Homogeneity test of the 94 included studies reported in the Findings section (Ta
 - [Effect sizes across the included Indonesian blended-learning studies are heterogeneous, so a random effects model is used](heterogeneous-effect-sizes-random-effects-model.md) — related
 - [Effect sizes of multiple intelligence practices are highly heterogeneous across studies](mi-effect-heterogeneous-distribution.md) — related
 - [The distribution of effect sizes across the 19 studies is heterogeneous (Q = 202.569, exceeding the critical value of 38.582), requiring a random effects model](web20-meta-analysis-heterogeneous-random-effects.md) — related
+- [High heterogeneity was present among effect sizes for both academic achievement (I2≈85%) and learning retention (I2≈61%)](cbl-meta-analysis-high-heterogeneity.md) — related
+- [The pooled effect-size distribution is highly heterogeneous but resistant to publication bias](heterogeneity-and-publication-bias-assessment.md) — related
+- [Effect sizes across included studies are highly heterogeneous (I² = 94.79%), requiring a random-effects model](high-heterogeneity-random-effects-cre-meta-analysis.md) — related
+- [Effect sizes of creative drama studies are heterogeneous (Q = 60.78, df = 39, p < .05), motivating moderator analyses](creative-drama-effect-sizes-heterogeneous.md) — related

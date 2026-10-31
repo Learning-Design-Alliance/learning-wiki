@@ -16,18 +16,22 @@ sources:
     author: "Daryanto, E., Siregar, B., & Januariyansah, S."
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 1
   - id: daryanto-2022-2
     resource: "https://doi.org/10.46328/ijemst.2509"
     title: "Daryanto, E., Siregar, B., & Januariyansah, S. (2022). A meta-analysis of the e-learning influence on Vocational Education and Training (VET): Preliminary study of virtual to actualization. International Journal of Education in Mathematics, Science, and Technology (IJEMST), 10(3), 710-721. https://doi.org/10.46328/ijemst.2509"
     author: "Daryanto, E., Siregar, B., & Januariyansah, S."
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 1
 ---
 
 # Success of e-learning implementation depends on facilities, management ability, learners' 21st-century technology skills, ease of use, pedagogic focus, collaboration, content quality, and user satisfaction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q2` quasi-experiment
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r1` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Daryanto, E., Siregar, B., & Januariyansah, S. (2022). A meta-analysis of the e-learning influence on Vocational Education and Training (VET): Preliminary study of virtual to actualization. International Journal of Education in Mathematics, Science, and Technology (IJEMST), 10(3), 710-721. https://doi.org/10.46328/ijemst.2509
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r1`
 
 Narrative discussion in which the review attributes this finding to Eze et al. (2018): "an increase in facilities and development of management ability of e -learning is needed" for maximum usage, with 21st-century technology skills named as a key factor.
 
@@ -50,7 +54,7 @@ Narrative discussion in which the review attributes this finding to Eze et al. (
 
 Daryanto, E., Siregar, B., & Januariyansah, S. (2022). A meta-analysis of the e-learning influence on Vocational Education and Training (VET): Preliminary study of virtual to actualization. International Journal of Education in Mathematics, Science, and Technology (IJEMST), 10(3), 710-721. https://doi.org/10.46328/ijemst.2509
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r1`
 
 Narrative review discussion attributing factors to Regmi & Jones (2020), plus the article's statements that learning content is crucial and that success "is greatly influenced by user satisfaction" (citing C. R. Choi & Jeong, 2019).
 

@@ -16,18 +16,22 @@ sources:
     author: "Kalaian, S. A., Kasim, R. M., & Nims, J. K."
     q: 3
     i: 2
+    kind: quant-synthesis
+    rigour: 2
   - id: kalaian-2018-2
     resource: "https://scholar.lib.vt.edu/ejournals/JTE/"
     title: "Kalaian, S. A., Kasim, R. M., & Nims, J. K. (2018). Effectiveness of Small-Group Learning Pedagogies in Engineering and Technology Education: A Meta-Analysis. Journal of Technology Education, 29(2). https://scholar.lib.vt.edu/ejournals/JTE/"
     author: "Kalaian, S. A., Kasim, R. M., & Nims, J. K."
     q: 3
     i: 1
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Self-selected and randomly formed small groups show larger achievement effects than ability-based grouping, and groups of three to five students outperform pairs
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment · `i1`–`i2`
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3` · `i1`–`i2`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Kalaian, S. A., Kasim, R. M., & Nims, J. K. (2018). Effectiveness of Small-Group Learning Pedagogies in Engineering and Technology Education: A Meta-Analysis. Journal of Technology Education, 29(2). https://scholar.lib.vt.edu/ejournals/JTE/
 
-`q3 · i2`
+`q3 · i2` · `quant-synthesis · r2`
 
 Subgroup analysis of group-placement moderator (Table 3): self-selected groups (11 effect sizes, d = 0.51, p = 0.00), random selection (11, d = 0.46, p = 0.001), ability grouping by GPA and SAT (4, d = 0.21, p = 0.29, nonsignificant).
 
@@ -50,7 +54,7 @@ Subgroup analysis of group-placement moderator (Table 3): self-selected groups (
 
 Kalaian, S. A., Kasim, R. M., & Nims, J. K. (2018). Effectiveness of Small-Group Learning Pedagogies in Engineering and Technology Education: A Meta-Analysis. Journal of Technology Education, 29(2). https://scholar.lib.vt.edu/ejournals/JTE/
 
-`q3 · i1`
+`q3 · i1` · `quant-synthesis · r2`
 
 Subgroup analysis of group size (Table 3): two-student groups (6 effect sizes, d = 0.31, p = 0.22, nonsignificant) versus three (12, d = 0.48), four (6, d = 0.49), and five-student groups (2, d = 0.49), all statistically significant.
 

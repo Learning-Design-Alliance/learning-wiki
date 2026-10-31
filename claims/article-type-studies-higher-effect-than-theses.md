@@ -16,12 +16,14 @@ sources:
     author: Hafize Er-Türküresin
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Studies published as articles showed a higher effect size (d = 1.486) than theses (d = 1.113) for creative drama in Social Studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Hafize Er-Türküresin. (2020). The effect of using creative drama method on student achievement in the social studies course: A meta-analysis study. International Online Journal of Education and Teaching (IOJET), 7(4), 1881-1896. http://iojet.org/index.php/IOJET/article/view/1056
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Moderator analysis in Table 4 comparing 4 article-type studies (d = 1.486, 95% CI 0.963-2.003) with 15 thesis studies (d = 1.113, 95% CI 0.787-1.440). The article attributes the difference to the number of studies: "this difference was thought to be due to the number of studies".
 

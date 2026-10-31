@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 167 claims (110 show a difference, 39 mixed, 18 no difference) · 101 studies (43 associational, 22 causal, 17 review, 6 quant-synthesis, 6 theoretical, 5 qualitative, 2 design), `q1`–`q4` · 26 of 101 report an effect size · 160 claims rest on one study
+> **Evidence** · 173 claims (112 show a difference, 40 mixed, 21 no difference) · 105 studies (43 associational, 22 causal, 20 review, 7 quant-synthesis, 6 theoretical, 5 qualitative, 2 design), `q1`–`q4` · 27 of 105 report an effect size · 166 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -203,6 +203,12 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Cooperative storytelling tasks outperformed individual tasks across performance, autonomy, anxiety, and emotion measures](../claims/cooperative-storytelling-outperformed-individual.md) [+M] — instruction changes it
 - [Students in both groups valued the AI speaking app for autonomous practice, and AI-GFCA students reported reduced anxiety and more peer interaction](../claims/interview-positive-learning-experience.md) [+W] — instruction changes it
 - [A mathematics game with embedded diagnostic mechanisms enhanced students' interest and reduced their mathematics anxiety](../claims/diagnostic-mechanism-math-game-interest-anxiety.md) [+M] — instruction changes it
+- [Adding medication to CBT yields significant attendance gains but no significant anxiety effect relative to placebo-plus-CBT](../claims/medication-plus-cbt-school-refusal-attendance-only.md) [-M] — instruction changes it
+- [At Kirkpatrick Level 1, satisfaction, perceptions, anxiety, and learning flow did not differ significantly between roles, but emotional arousal favored active participants](../claims/level-1-reactions-emotional-arousal-advantage.md) [-M] — instruction changes it
+- [Peer tutoring contributes to psychological safety and reduced anxiety in demanding simulation learning environments](../claims/peer-tutoring-psychological-safety-anxiety.md) [+M] — instruction changes it
+- [Psychosocial interventions for school refusal behavior show a very small, nonsignificant effect on anxiety at post-test](../claims/school-refusal-interventions-anxiety-nonsignificant.md) [-M] — instruction changes it
+- [Review-reported studies: writing portfolios were valued for improving writing and reflection and reported to reduce EFL learners' test anxiety](../claims/review-reported-writing-portfolios-reduce-anxiety-build-skills.md) [+M] — instruction changes it
+- [The divergence between attendance and anxiety effects may reflect increased school exposure, which improves attendance quickly but may raise anxiety short-term](../claims/school-exposure-explains-attendance-anxiety-divergence.md) [~W] — instruction changes it
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

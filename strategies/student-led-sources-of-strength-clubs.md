@@ -40,6 +40,7 @@ The district partnered with Two Feathers Native American Family Services to trai
 
 - [Use visible adult identifiers and peer-focused media to signal safe adults and open conversations about suicide prevention](visible-safe-adults-suicide-prevention-media.md)
 - [Conduct universal mental health screening with the Student Risk Screening Scale to inform intervention](universal-srss-screening-to-inform-intervention.md)
+- [Multi-level institutional response to problematic internet use: digital wellbeing policies, psychoeducational curriculum programs, peer-led initiatives, and screening services](ia-multi-level-institutional-response-strategy.md)
 
 ## Examples
 -

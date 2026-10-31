@@ -90,3 +90,6 @@ Publication-bias assessment of the 15 included studies using a funnel plot and E
 - [Funnel-plot analyses showed no significant asymmetry, and the overall effect remained significant after removing outliers](no-significant-funnel-plot-asymmetry.md) — related
 - [The meta-analysis shows no publication bias (Begg-Mazumdar p = .196) and is resistant to it (fail-safe N = 463)](pbl-meta-analysis-no-publication-bias.md) — related
 - [Publication bias tests give mixed evidence: Egger's test indicates bias, but fail-safe N calculations lead the authors to conclude no publication bias](publication-bias-mixed-egger-failsafe.md) — related
+- [Egger's regression found no statistically significant evidence of publication bias among the 28 collected studies](egger-test-no-publication-bias.md) — related
+- [Sensitivity analyses found no evidence of publication bias in the meta-analysis](no-publication-bias-sensitivity-analysis.md) — related
+- [Publication bias was detected in all four meta-analytic models, so additional studies could change the results](publication-bias-sol-meta-analysis.md) — reports the opposite

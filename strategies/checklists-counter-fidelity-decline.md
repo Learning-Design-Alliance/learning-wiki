@@ -17,7 +17,7 @@ sources:
 # Provide summary guidelines or instructional checklists to counter post-training fidelity decline
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 quant-synthesis), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Based on the finding that implementation fidelity drops slightly with time after training ends, the authors state that "providing DTT implementers with summary guidelines or instructional checklists could help counter a potential drop in DTT ability with time." This is a forward-looking recommendation drawn from the maintenance analysis, offered as a low-cost support for maintainers of trained staff.

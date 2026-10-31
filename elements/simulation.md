@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 76 claims (42 for, 30 mixed, 4 against) · 66 studies (19 review, 16 causal, 13 quant-synthesis, 8 design, 5 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 14 of 66 report an effect size · 66 claims rest on one study
+> **Evidence** · 92 claims (52 for, 36 mixed, 4 against) · 75 studies (26 review, 16 causal, 15 quant-synthesis, 8 design, 5 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 15 of 75 report an effect size · 82 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -131,6 +131,22 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [A review reports that IVR serious-game training gave better airplane-evacuation spatial knowledge than safety cards in one study, and that in a separate spacecraft-evacuation study the body orientation used in training shaped which spatial skills were learned](../claims/ivr-sgs-spatial-knowledge-evacuation.md) [+W]
 - [IVR serious games validate evacuation facility designs, with participants preferring green and white flashing exit-portal lights](../claims/ivr-sgs-evacuation-facility-validation.md) [+W]
 - [IVR serious games show that other evacuees strongly influence participants' evacuation behavior](../claims/ivr-sgs-social-influence-evacuation-behavior.md) [~W]
+- [Haptic virtual reality simulation reduces procedural time for pulpotomy training compared with conventional simulators](../claims/ir-reduces-procedural-time-dental.md) [+W] — attached 2026-10-31 from Ruslin Muhammad et al. (2026), which proposed "Haptic VR dental simulators (SIMtoCARE dente, Simodont, VirtEasy, Omni haptic) used for preclinical dental skill training".
+- [Most learner-facing studies of technology-enhanced simulation in laparoscopic training report favorable learner responses, mainly confidence, satisfaction, perceived safety and self-efficacy](../claims/simulation-laparoscopic-favorable-perceptions.md) [+M] — attached 2026-10-31 from Vega Ochoa AD et al. (2026), which proposed "Corpus of 11 included studies on student perceptions of laparoscopic simulation (2020-2025)".
+- [VR simulator training yields a higher rate of optimal (Grade I) pedicle screw placement than traditional training among residents and early-career surgeons](../claims/vr-training-higher-grade-i-pedicle-screw-placement.md) [+W] — attached 2026-10-31 from Pasqualotto Eric et al. (2026), which proposed "Virtual reality surgical simulators for pedicle screw placement training (ImmersiveSimTM, VSTS, IVRSS-PSP)"; tests this page's relationship.
+- [VR-trained trainees show shorter screw penetration distances and fewer displaced screws per resident](../claims/vr-training-shorter-penetration-fewer-displaced-screws.md) [+W] — attached 2026-10-31 from Pasqualotto Eric et al. (2026), which proposed "Virtual reality surgical simulators for pedicle screw placement training (ImmersiveSimTM, VSTS, IVRSS-PSP)"; tests this page's relationship.
+- [Increasing the proportion of simulation within a nursing course shows mixed effects on competency outcomes (Hayden et al. trial)](../claims/more-vs-less-simulation-mixed.md) [~W]
+- [Virtual haptic drilling training achieved outcomes similar to conventional practice in less time in restorative dentistry](../claims/ir-shortens-dental-training-duration.md) [~W]
+- [IR-based surgical training improved novice surgeons' self-confidence in oral surgery studies](../claims/ir-boosts-novice-surgeon-confidence.md) [+W]
+- [High-fidelity manikins and virtual reality were the most common paediatric SBE modalities across the reviewed studies](../claims/high-fidelity-manikins-vr-most-common-modalities.md) [~W]
+- [Where cost was studied, AI-generated virtual patients showed savings from obviating faculty time and human standardized patients, but cost evaluation remains sparse and none reached Kirkpatrick level 4](../claims/ai-virtual-patient-cost-savings-sparse-evidence.md) [~W]
+- [Across the reviewed studies, simulation-based interventions consistently improved paediatric undergraduate learning outcomes, including clinical reasoning, procedural skills and confidence](../claims/sbe-consistently-improved-paediatric-ume-outcomes.md) [+W]
+- [Simulation-based education consistently improved nurses' confidence in delirium recognition and assessment across included studies](../claims/sbe-delirium-confidence-gains.md) [+W]
+- [Simulation-based education plus clinical teaching compared to clinical teaching only shows a large pooled advantage (SMD 0.82) in undergraduate nursing students](../claims/sbe-plus-clinical-pooled-smd-0-82.md) [+W]
+- [Simulation-based education compared to patient-based clinical teaching alone shows a large pooled advantage in objectively assessed outcomes in undergraduate nursing students](../claims/sbe-vs-clinical-pooled-smd-0-96.md) [+W]
+- [Simulation-based education combined with workflow redesign improved ICU nurses' delirium-assessment documentation rates on day and night shifts](../claims/sbe-delirium-documentation-improvement-icu.md) [+W]
+- [Virtual laboratories match physical laboratories on conceptual mastery, with domain-specific advantages and disadvantages](../claims/virtual-matches-physical-conceptual-mastery.md) [~W]
+- [Simulation dominates the literature on obstetric emergency knowledge-building, but evidence for sustained behaviour change and clinical impact remains limited](../claims/simulation-dominates-oe-training-limited-clinical-impact.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

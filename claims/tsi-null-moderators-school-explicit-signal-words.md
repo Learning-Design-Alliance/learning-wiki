@@ -16,12 +16,14 @@ sources:
     author: "Hebert, M., Bohaty, J. J., Nelson, J. R., & Brown, J."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # School level, explicit instruction, and signal words did not significantly moderate text structure instruction effects
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Hebert, M., Bohaty, J. J., Nelson, J. R., & Brown, J. (2016). The effects of text structure instruction on expository reading comprehension: A meta-analysis. Journal of Educational Psychology, 108(5), 609–629. https://doi.org/10.1037/edu0000082
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Meta-regression null results (RQ1b): the review reports the coefficients "were all non-significant", indicating comparable effects across elementary and secondary grades. No effect sizes are printed for these moderators.
 

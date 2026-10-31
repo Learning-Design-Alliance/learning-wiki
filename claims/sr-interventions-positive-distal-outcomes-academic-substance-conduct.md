@@ -53,3 +53,5 @@ Narrative review of distal health and social outcomes from 24 of 49 studies (49%
 - [SEL interventions improve attitudes, self-regulation, behaviour, and academic performance across reported effect-size ranges](sel-interventions-improve-school-outcomes.md) — related
 - [Positive developmental relationships and school connectedness protect against violence, absenteeism, and substance abuse, and increase threat reporting](positive-relationships-protect-against-violence.md) — related
 - [Most preschool SR/EF interventions report at least one significant outcome, but only about half of evaluated effects are significant](preschool-sr-ef-intervention-efficacy-overview.md) — related
+- [School-only substance use interventions such as HeadOn and SUPEP improved knowledge and attitudes without corresponding behavioural change](school-only-interventions-knowledge-attitude-no-behaviour-change.md) — related
+- [No school-based intervention model for students already using substances was found: all examined models were preventive or protective in approach](no-corrective-school-substance-model-exists.md) — related

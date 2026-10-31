@@ -16,12 +16,14 @@ sources:
     author: Young-Suk Grace Kim, Dandan Yang, Marcela Reyes, Carol Connor
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Transcription-focused instruction did not yield statistically significant effects on any composition dimension due to large variation across studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Young-Suk Grace Kim, Dandan Yang, Marcela Reyes, Carol Connor. (2021). Writing instruction improves students' writing skills differentially depending on focal instruction and children: A meta-analysis for primary grade students. Educational Research Review 34. https://doi.org/10.1016/j.edurev.2021.100408
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Moderation analysis by instructional focus in the meta-analysis. Individual transcription studies ranged from a large positive effect on writing fluency (0.81, Graham et al., 2002) to a large negative effect (-2.71, Jung et al., 2017), producing inconsistent pooled estimates.
 

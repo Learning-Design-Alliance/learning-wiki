@@ -95,3 +95,4 @@ Qualitative interview findings from the discussion of concerns; faculty worried 
 - [An efficiency paradox: well-intentioned students default to passive GenAI processes and experience cognitive laziness and overreliance](genai-efficiency-paradox-passive-processes.md) — related
 - [Dataset 1 identified challenges in current teaching (resources, knowledge, digital tools) alongside opportunities for emerging technologies to clarify complex concepts and teach critical skills](dataset1-challenges-and-opportunities-themes.md) — related
 - [Teachers' most frequently cited barrier to classroom technology use was lack of access to technology, on both pre- and post-surveys](technology-access-top-barrier-for-teachers.md) — related
+- [Faculty hold more tempered views of LLMs than students (51% vs 74% positive), centred on clinical reasoning development and content reliability](faculty-student-perception-gap-llms.md) — related

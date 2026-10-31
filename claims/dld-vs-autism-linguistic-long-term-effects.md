@@ -16,12 +16,14 @@ sources:
     author: Natalie S. Pak, Jason C. Chow, Kelsey M. Dillehay, and Ann P. Kaiser
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # For linguistic outcomes, long-term effects were larger for children with DLD (g = .36, marginal) than for autistic children (g = .01, nonsignificant)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Natalie S. Pak, Jason C. Chow, Kelsey M. Dillehay, and Ann P. Kaiser. (2023). Long-Term Effects of Early Communication Interventions: A Systematic Review and Meta-Analysis. Journal of Speech, Language, and Hearing Research. https://doi.org/10.1044/2023_JSLHR-22-00711
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Meta-regression of linguistic outcomes by etiology, with DLD samples (k = 7, n = 51) and autism samples (k = 11, n = 24). The DLD estimate was marginal at p = .052 and the autism estimate clearly nonsignificant; the article attributes the difference partly to intervention priorities matching child characteristics.
 

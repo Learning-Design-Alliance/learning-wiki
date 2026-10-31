@@ -59,3 +59,4 @@ The article attributes to Lowenthal et al. (2020) the report that "asynchronous 
 - [Changes in presence over the two videos interacted with major: Early Childhood major for emotional connectivity and STEM focus for awareness of self](major-interactions-presence-change.md) — related
 - [Despite video feedback's benefits, instructors and students might prefer text-based feedback](instructors-students-might-prefer-text-feedback.md) — reports the opposite
 - [Research has shown that video feedback can help increase conversational and affective communication](video-feedback-increases-conversational-affective-communication.md) — related
+- [Recognizable non-verbal communication patterns in online medical lectures were linked to positive shifts in student receptivity and motivation](nvc-patterns-online-lecture-receptivity.md) — related

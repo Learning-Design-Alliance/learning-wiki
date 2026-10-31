@@ -16,12 +16,14 @@ sources:
     author: Veli Batdı
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # The effect of computer-based teaching on academic success does not differ significantly by publication year of the studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Veli Batdı. (2015). A Meta-Analytic Study Concerning the Effect of Computer-Based Teaching on Academic Success in Turkey. Educational Sciences: Theory & Practice. https://doi.org/10.12738/estp.2015.5.2491
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Moderator analysis of 78 studies split into four publication-year groups. Table 7 reports QB = 4.77, Z = 14.19, df = 3, homogeneous under FEM; total ES = 1.12.
 

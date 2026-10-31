@@ -61,3 +61,4 @@ Per-indicator comparison plotted in Figure 5 from the quasi-experimental study (
 - [Significantly more TPP teachers encouraged students' higher-order thinking skills than district-supported comparison teachers](tpp-teachers-encouraged-higher-order-thinking.md) — related
 - [The ARDESOS-DIAPROVE intervention significantly improved critical thinking skills, with higher PENCRISAL medians after intervention in the total score and all five factors](ardesos-diaprove-improves-pencrisal-scores.md)
 - [Dialogic learning produces a more positive effect on value-loaded critical-thinking competences than non-dialogic learning in pre-vocational secondary Biology](dialogic-learning-improves-value-loaded-critical-thinking.md) — related
+- [No included study measured critical thinking as an explicit outcome or compared simulation modalities directly](sbe-delirium-no-explicit-ct-measure.md) — related

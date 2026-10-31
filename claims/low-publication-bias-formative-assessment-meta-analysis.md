@@ -16,12 +16,14 @@ sources:
     author: Pinar Karaman
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # Publication-bias analyses indicate a low, negligible risk of publication bias in the synthesized effect sizes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Pinar Karaman. (2021). The Effect of Formative Assessment Practices on Student Learning: A Meta-Analysis Study. International Journal of Assessment Tools in Education. https://doi.org/10.21449/ijate.870300
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Publication-bias assessment of the 47 included effect sizes using four methods. The article reports Egger's linear regression test "was not statistically significant ( b= -0.66, p=0.155)" and that Trim and Fill trimming was not performed; Rosenthal's Fail-safe N was 5681 studies.
 
@@ -56,3 +58,5 @@ Publication-bias assessment of the 47 included effect sizes using four methods. 
 - [The pooled effect of writing instruction for US ELL students is robust to sensitivity analyses but funnel plot asymmetry suggests possible missing positive effect sizes](sensitivity-and-bias-checks-ell-writing-meta.md) — related
 - [Publication bias due to small study effects was limited, and sensitivity analyses supported Winsorizing an outlying effect size](manipulatives-meta-publication-bias-limited.md) — related
 - [Publication bias tests give mixed evidence: Egger's test indicates bias, but fail-safe N calculations lead the authors to conclude no publication bias](publication-bias-mixed-egger-failsafe.md) — related
+- [Sensitivity analyses found no evidence of publication bias in the meta-analysis](no-publication-bias-sensitivity-analysis.md) — related
+- [Publication bias was detected in all four meta-analytic models, so additional studies could change the results](publication-bias-sol-meta-analysis.md) — reports the opposite

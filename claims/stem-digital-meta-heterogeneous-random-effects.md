@@ -16,12 +16,14 @@ sources:
     author: Feyyaz Öztop
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Effect sizes across the 38 comparisons are highly heterogeneous, requiring a random-effects model
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Feyyaz Öztop. (2023). A Meta-Analysis of the Effectiveness of Digital Technology-Assisted STEM Education. Journal of Science Learning. https://doi.org/10.17509/jsl.v6i2.52316
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Heterogeneity analysis of the 38 effect sizes reported in Table 2 (df=37, Q=560.135, I2=93.394, p=0.000). Because the distribution was heterogeneous, the author used a random effects model for all effect-size calculations.
 
@@ -56,3 +58,7 @@ Heterogeneity analysis of the 38 effect sizes reported in Table 2 (df=37, Q=560.
 - [The overall effect of PBL in the tutor-background meta-analysis is modest (g = 0.27) with large, statistically significant heterogeneity](pbl-overall-effect-modest-large-heterogeneity.md) — related
 - [Effect sizes across creative drama studies in Social Studies are highly heterogeneous (Q = 90.019, p < .05; I² = 78.893%)](creative-drama-social-studies-heterogeneous-effect-sizes.md) — related
 - [The distribution of effect sizes across the 19 studies is heterogeneous (Q = 202.569, exceeding the critical value of 38.582), requiring a random effects model](web20-meta-analysis-heterogeneous-random-effects.md) — related
+- [High heterogeneity was present among effect sizes for both academic achievement (I2≈85%) and learning retention (I2≈61%)](cbl-meta-analysis-high-heterogeneity.md) — related
+- [The pooled effect-size distribution is highly heterogeneous but resistant to publication bias](heterogeneity-and-publication-bias-assessment.md) — related
+- [Effect sizes across included studies are highly heterogeneous (I² = 94.79%), requiring a random-effects model](high-heterogeneity-random-effects-cre-meta-analysis.md) — related
+- [Effect sizes of creative drama studies are heterogeneous (Q = 60.78, df = 39, p < .05), motivating moderator analyses](creative-drama-effect-sizes-heterogeneous.md) — related

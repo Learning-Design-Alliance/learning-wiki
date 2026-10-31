@@ -16,12 +16,14 @@ sources:
     author: "Eyüp Yurt & Seyat Polat"
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # The effect of multiple intelligence practices does not differ significantly by instructional level
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Eyüp Yurt & Seyat Polat. (2015). The Effectiveness of Multiple Intelligence Applications on Academic Achievement: A Meta-Analysis. Journal of Social Studies Education Research 6(1), 84-122. https://eric.ed.gov/?id=EJ1105368
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Sub-group moderator analysis comparing elementary and secondary levels; university-level studies (4 studies) were not included because the number was not enough to make a comparison. No significant difference was found.
 
@@ -49,3 +51,4 @@ Sub-group moderator analysis comparing elementary and secondary levels; universi
 - [The effect of computer-based teaching on academic success differs significantly by grade level, with the largest effect in secondary schools (ES = 1.31) and the smallest in primary schools (ES = .66)](cbt-effect-differs-by-grade-level-secondary-largest.md) — related
 - [Attitude effects of STEM practices differ significantly by education level but not by publication type or lesson type](stem-attitude-moderators-education-level.md) — related
 - [The effect of multiple intelligence practices does not differ significantly by type of study (article, master's thesis, doctoral thesis)](mi-effect-no-difference-study-type.md) — related
+- [Effect sizes do not differ significantly by education level, though primary school applications showed the largest point estimate (g = 1.564)](no-significant-difference-by-education-level.md) — related

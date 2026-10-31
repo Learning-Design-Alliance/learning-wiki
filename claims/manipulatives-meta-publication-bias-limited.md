@@ -16,12 +16,14 @@ sources:
     author: Amy B. Holmes, Vanderbilt University
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Publication bias due to small study effects was limited, and sensitivity analyses supported Winsorizing an outlying effect size
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Amy B. Holmes, Vanderbilt University. (2013). Effects of Manipulative Use on PK-12 Mathematics Achievement: A Meta-Analysis. SREE Spring 2013 Conference Abstract. https://eric.ed.gov/?id=ED563072
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Bias assessment using funnel plots (Figures 3 and 4), regression-based tests for small sample bias, and trim-and-fill analyses across both meta-analyses. Sensitivity analyses also assessed inclusion of quasi-experimental designs and the Winsorized outlier from a randomized study of questionable implementation quality.
 
@@ -51,3 +53,5 @@ Bias assessment using funnel plots (Figures 3 and 4), regression-based tests for
 - [Publication-bias checks give mixed results: Egger's test indicates funnel-plot asymmetry while Trim and Fill and Fail-Safe N indicate no bias](mixed-publication-bias-evidence-meta-analysis.md) — related
 - [The pooled self-efficacy–partnership correlation appears robust to the file-drawer problem](publication-bias-robustness.md) — related
 - [Publication bias analyses suggest the negative correlation is robust but trim-and-fill adjusts it to r = −.227](publication-bias-trim-and-fill-adjustment.md) — related
+- [Funnel-plot asymmetry suggests small studies with negative or null results may be missing from the simulation-versus-clinical meta-analysis](funnel-plot-missing-negative-studies.md) — related
+- [Sensitivity analyses found no evidence of publication bias in the meta-analysis](no-publication-bias-sensitivity-analysis.md) — related

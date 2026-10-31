@@ -16,12 +16,14 @@ sources:
     author: Mustafa Çevik, Büşra Bakioğlu
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Fail-safe analyses indicate the meta-analysis findings are not attributable to publication bias
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Mustafa Çevik, Büşra Bakioğlu. (2022). The Effect of STEM Education Integrated into Teaching-Learning Approaches (SEITLA) on Learning Outcomes: A Meta-Analysis Study. International Journal of Progressive Education, 18(2). https://doi.org/10.29329/ijpe.2022.431.8
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Publication-bias assessment of the 33-study meta-analysis using Rosenthal's and Orwin's fail-safe N methods. Rosenthal's FSN was 4858 (Z = 23.86); Orwin's method found 118 zero-effect studies would be needed to bring the mean g of 0.596 below 0.1.
 
@@ -56,3 +58,5 @@ Publication-bias assessment of the 33-study meta-analysis using Rosenthal's and 
 - [The pooled effect of multiple intelligence practices is resistant to publication bias](mi-effect-resistant-publication-bias.md) — related
 - [Publication-bias checks (funnel plot symmetry and Rosenthal Safe N of 6801) indicate no publication bias in the synthesis](stem-digital-meta-no-publication-bias.md) — related
 - [STEM education integrated with teaching-learning approaches shows a large overall mean effect on learning outcomes (g = 0.88) across 33 experimental studies](seitla-overall-large-effect-learning-outcomes.md) — related
+- [Fail-safe N analyses indicate the pooled effect is resistant to publication bias (Rosenthal FSN = 2139; Orwin FSN = 1048)](fsn-resistance-publication-bias-cre-meta-analysis.md) — related
+- [The meta-analysis results are resistant to publication bias, per fail-safe N of 1791](game-math-meta-resistant-to-publication-bias.md) — related

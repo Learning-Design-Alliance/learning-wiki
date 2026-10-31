@@ -17,7 +17,7 @@ sources:
 # Use longer creative drama application times to increase effect sizes in skill-development studies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends extending the duration of creative drama applications, because skills are not prone to change in short periods and its moderator analysis found larger effects for longer applications. It argues that "longer application times are better than shorter application times in terms of increasing the effect size in experimental studies." The recommendation rests on the significant duration moderator finding (QB=13.554, p<.05).

@@ -85,7 +85,7 @@ Meta-analysis of school-based writing-to-learn task assignments including inform
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Do task-specific reflection prompts produce better learning or reflection than an open invitation to write?* This table gathers the studies behind this claim and the 21 narrower claims that bear on it: **13 distinct studies** (6 causal, 3 review, 2 quant-synthesis, 1 design, 1 theoretical), `q1`–`q4`, 5 of 13 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Do specific, guided prompts produce better reflection and learning than generic or free reflection?* This table gathers the studies behind this claim and the 21 narrower claims that bear on it: **13 distinct studies** (6 causal, 3 review, 2 quant-synthesis, 1 design, 1 theoretical), `q1`–`q4`, 5 of 13 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|

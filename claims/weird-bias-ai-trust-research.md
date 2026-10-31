@@ -60,3 +60,4 @@ Across the 33-study corpus, population sizes ranged from n = 10 to n = 1,511 (me
 - Recent ITS research shows a strong WEIRD bias, with approximately 75% of papers having a first author in a Western, Educated, Industrialized, Rich, Democratic country — related
 - ITS authoring tool research is concentrated in academic settings, and 45.45% of included papers conducted empirical studies while illustrative scenarios were the most common method — related
 - [Adoption of Wikipedia assignments shows a global digital divide, concentrated in English-speaking countries](wikipedia-assignments-global-digital-divide.md) — related
+- [Western-developed instruments dominated measurement, with cultural adaptation reported in only five of 22 Global South studies of resilience](instrument-context-mismatch-global-south-resilience.md) — related

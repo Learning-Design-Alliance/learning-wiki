@@ -16,12 +16,14 @@ sources:
     author: Ufuk Uluçınar
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # PBL has a high positive effect on science academic achievement compared to traditional instruction (random-effects g = 1.009)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i3` large
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Ufuk Uluçınar. (2022). The Effect of Problem-Based Learning in Science Education on Academic Achievement: A Meta-Analytical Study. Science Education International, 34(2), 72-85. https://doi.org/10.33828/sei.v34.i2.1
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r3`
 
 Experiment-effectiveness meta-analysis of 55 datasets from experimental control-group studies in science lessons, analyzed in CMA V3. The random effects model was chosen because the distribution was heterogeneous (Q = 508.460; I² = 89.38%), and the "average effect size is 1.009", a high effect under Cohen's classification.
 

@@ -16,12 +16,14 @@ sources:
     author: "Jemma Kim & Christina H. Kimm"
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Mobile devices were dominantly used as instructional devices (74.3%), with device function significantly associated with target skill type
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Jemma Kim & Christina H. Kimm. (2017). Functional Technology for Individuals with Intellectual Disabilities: Meta-Analysis of Mobile Device-Based Interventions. The Journal of Special Education Apprenticeship, 6(1). https://eric.ed.gov/?id=EJ1149575
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Kendall's tau-b association test across the 140 observed cases: communication device (n=17), instructional device (n=104), organizer (n=19). Devices functioned only as communication devices for communication skills and as organizers only for leisure and vocation skills.
 

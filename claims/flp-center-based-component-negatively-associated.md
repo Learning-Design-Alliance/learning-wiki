@@ -56,3 +56,4 @@ Moderator analysis on immediate posttests (k overall = 48) coded whether a famil
 - [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — related
 - Experimental designs and study-specific measures are associated with larger program effects, while peer-reviewed status shows no indication of publication bias — related
 - [Family-implemented literacy interventions produce a positive, significant average effect on combined literacy outcomes in single-case experimental design studies (g = 1.50), specific to students with or at risk for reading difficulties](family-literacy-interventions-sced-g-150.md) — related
+- [Non-academic student supports, including social-emotional learning strategies and parent and family outreach, are positively associated with early literacy intervention effects on alphabetics outcomes](non-academic-supports-positively-associated-alphabetics.md) — related

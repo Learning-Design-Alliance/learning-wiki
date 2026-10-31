@@ -16,12 +16,14 @@ sources:
     author: Kelly C. Dreger, Ed.D. and Steve Downey, Ph.D.
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Reporting and publication bias pervade the token reinforcement literature: 38.71% of studies reported large significant effects while 29.03% lacked statistical significance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Kelly C. Dreger, Ed.D. and Steve Downey, Ph.D. (2022). Reinforcement Practicality for Middle School Students: A Meta-Analysis. Valdosta State University. https://eric.ed.gov/?id=EJ1355660
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Bias assessment of the 31-study sample via funnel plots and correlation/regression tests. The article reports "38.71% of studies reported large effect sizes that were statistically significant" versus 29.03% without significance, and collinearity tests indicated confounding existed.
 

@@ -16,12 +16,14 @@ sources:
     author: "Hebert, M., Bohaty, J. J., Nelson, J. R., & Brown, J."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Near-transfer to untaught text structures is non-significant with wide uncertainty (g = 0.62, CI crossing near zero)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Hebert, M., Bohaty, J. J., Nelson, J. R., & Brown, J. (2016). The effects of text structure instruction on expository reading comprehension: A meta-analysis. Journal of Educational Psychology, 108(5), 609–629. https://doi.org/10.1037/edu0000082
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Near-transfer analysis (RQ2b) of seven studies using aggregated effect sizes, since fewer than 10 studies precluded RVE; structures taught and assessed varied widely. The review reports "a non-significant average weighted effect size of 0.62".
 

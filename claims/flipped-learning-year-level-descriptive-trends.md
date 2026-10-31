@@ -16,12 +16,14 @@ sources:
     author: "Aydin, M., Okmen, B., Sahin, S., & Kilic, A."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Descriptively, newer studies and studies with primary-secondary and high school samples show larger effect size averages, though moderator tests are nonsignificant
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Aydin, M., Okmen, B., Sahin, S., & Kilic, A. (2021). The Meta-Analysis of the Studies About the Effects of Flipped Learning on Students' Achievement. Turkish Online Journal of Distance Education-TOJDE, 22(1), Article 3. https://eric.ed.gov/?id=EJ1283687
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Descriptive pattern reported in the Discussion of the meta-analysis of 28 datasets; Table 5 shows effect quantity (d) rising from 0.773 (2016) to 1.072 (2017) to 1.408 (2018), though the year moderator test was nonsignificant (p>0.05).
 

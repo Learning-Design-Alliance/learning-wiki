@@ -50,3 +50,4 @@ The article reviews barriers to educational games along three named dimensions, 
 - [Teachers who perceive the challenges and barriers of using AI as high (cost) may be less motivated to use it (theoretical argument).](teacher-perceived-cost-reduces-motivation-to-use-ai.md) — related
 - [Ontology development and maintenance remained key research challenges blocking wide adoption of ontology-enhanced learning environments](ontology-development-maintenance-key-challenge.md) — related
 - [ITS adoption is limited by instructors' lack of programming skills and high outsourcing costs](its-barriers-programming-skills-and-cost.md) — related
+- [Technology-based assessment innovations, including digital question banks, machine learning-assisted systems, LMS-based assessments and game-based quizzes, are increasingly adopted in general chemistry assessment](digital-assessment-innovation-trend-general-chemistry.md) — related

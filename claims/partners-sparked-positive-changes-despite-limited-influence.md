@@ -57,3 +57,4 @@ Multi-year qualitative case study of nine external partners across 18 Chicago sc
 - [Most principals in implementation networks reported moderate reductions in school-community isolation as a result of network participation](networks-reduce-school-community-isolation.md) — related
 - [Networking opportunities were the most valued feature of the network, with 20 of 24 interviewed teachers crediting them as playing the greatest role in changing their instruction](networking-opportunities-greatest-instructional-influence.md) — related
 - [Stakeholders reported parents became less involved in schools after the 1988 reform act, despite the act's involvement goal](parent-involvement-declined-after-reform-act.md) — related
+- [Multi-stakeholder school interventions yielded broader and more durable outcomes than school-only models, though the pattern was not universal](multi-stakeholder-school-interventions-durable-outcomes.md) — related

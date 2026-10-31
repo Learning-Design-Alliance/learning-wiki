@@ -16,18 +16,22 @@ sources:
     author: Saraç, H.
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
   - id: saraç-2018-2
     resource: "https://eric.ed.gov/?id=EJ1176176"
     title: "Saraç, H. (2018). The Effect of Science, Technology, Engin eering and Mathematics-Stem Educational Practices on Students’ Learning Outcomes: A Meta-Analysis Study. TOJET: The Turkish Online Journal of Educational Technology, 17(2). https://eric.ed.gov/?id=EJ1176176"
     author: Saraç, H.
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Academic achievement effects of STEM practices differ significantly by publication type and education level but not by lesson type
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · `q3` peer-reviewed experiment
+> **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -40,7 +44,7 @@ sources:
 
 Saraç, H. (2018). The Effect of Science, Technology, Engin eering and Mathematics-Stem Educational Practices on Students’ Learning Outcomes: A Meta-Analysis Study. TOJET: The Turkish Online Journal of Educational Technology, 17(2). https://eric.ed.gov/?id=EJ1176176
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Subgroup moderator analysis of the 27 academic achievement effect sizes. Printed subgroup means were 0.441 (national articles), 0.891 (national theses), 0.331 (international articles), 0.572 (international theses); by level, 0.766 (basic), 0.272 (secondary), 0.696 (higher education).
 
@@ -50,7 +54,7 @@ Subgroup moderator analysis of the 27 academic achievement effect sizes. Printed
 
 Saraç, H. (2018). The Effect of Science, Technology, Engin eering and Mathematics-Stem Educational Practices on Students’ Learning Outcomes: A Meta-Analysis Study. TOJET: The Turkish Online Journal of Educational Technology, 17(2). https://eric.ed.gov/?id=EJ1176176
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Lesson-type moderator analysis of academic achievement effect sizes: science ES = 0.689, math ES = 0.315, other ES = 0.367; the between-groups difference was not statistically significant.
 
@@ -71,3 +75,4 @@ Lesson-type moderator analysis of academic achievement effect sizes: science ES 
 - [Scientific process skills effects of STEM practices differ significantly by lesson type and education level, favoring science and math lessons and basic-education and higher-education students](stem-sps-moderators-lesson-type-education-level.md) — related
 - [The effect of digital technology-assisted STEM education on academic achievement differs significantly by education level, largest at high school and smallest at primary school](stem-digital-effect-varies-by-education-level.md) — related
 - [The effect of the 7E learning cycle does not differ significantly by school level, publication type, or intervention duration](7e-effect-no-difference-school-level-publication-duration.md) — related
+- [Publication type, course type, educational level, and experimental duration did not significantly moderate the effect of context-based learning on academic achievement](cbl-achievement-non-significant-moderators.md) — reports the opposite

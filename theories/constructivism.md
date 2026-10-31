@@ -12,7 +12,7 @@ generated:
 # Constructivism
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 23 claims (7 for, 14 mixed, 2 against) · 29 studies (6 theoretical, 5 causal, 4 quant-synthesis, 4 associational, 3 review, 3 design, 2 qualitative), `q1`–`q4` · 5 of 29 report an effect size · 19 claims rest on one study
+> **Evidence** · 23 claims (7 for, 14 mixed, 2 against) · 29 studies (6 quant-synthesis, 6 theoretical, 5 causal, 4 associational, 3 review, 3 design, 2 qualitative), `q1`–`q4` · 5 of 29 report an effect size · 19 claims rest on one study
 
 ## Description
 Constructivism is the broad view that learners actively build understanding by connecting new experiences and information to what they already know. Rather than treating knowledge as something transmitted whole from teacher to learner, constructivist perspectives emphasize interpretation, prior knowledge, social interaction, and meaning-making.

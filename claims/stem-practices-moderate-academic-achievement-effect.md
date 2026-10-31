@@ -16,12 +16,14 @@ sources:
     author: Saraç, H.
     q: 3
     i: 1
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # STEM educational practices have a moderate positive effect on students' academic achievement compared with traditional teaching (REM ES = 0.442)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i1` small
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Saraç, H. (2018). The Effect of Science, Technology, Engin eering and Mathematics-Stem Educational Practices on Students’ Learning Outcomes: A Meta-Analysis Study. TOJET: The Turkish Online Journal of Educational Technology, 17(2). https://eric.ed.gov/?id=EJ1176176
 
-`q3 · i1`
+`q3 · i1` · `quant-synthesis · r2`
 
 Random-effects meta-analysis of 27 academic achievement effect sizes from studies comparing STEM educational practices with traditional teaching; 6535 experimental and 6373 control students overall. The REM mean was "0.442" with 95% CI [0.322, .561], a moderate effect. Heterogeneity (Q = 143.709, p = 0.00) justified the REM model.
 
@@ -53,3 +55,4 @@ Random-effects meta-analysis of 27 academic achievement effect sizes from studie
 - [Digital story applications have a high positive average effect on students' academic achievement compared to other teaching methods (ES = 0.750)](digital-story-high-positive-effect-academic-achievement.md) — related
 - [Game-based learning has a large positive effect on academic success in Turkish language instruction (REM ES = 1.538)](game-based-learning-large-effect-turkish.md) — related
 - [Creative drama-based learning has a large positive effect on academic success in Turkish language instruction (REM ES = 1.712)](creative-drama-large-effect-turkish.md) — related
+- [AR applications have a medium positive pooled effect (ES = 0.517) on students' academic achievement compared with traditional learning methods](ar-medium-positive-effect-academic-achievement.md) — related

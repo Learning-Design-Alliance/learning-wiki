@@ -51,3 +51,4 @@ Discussion synthesis of a convergent mixed-method study of 19 students in one on
 - [Affectively, the quasi-synchronous Discord modality showed the most positive and least negative sentiment profile of the three modalities](quasi-synchronous-discord-most-positive-affect.md) — related
 - [Several students voluntarily used Zoom's recording and transcription features asynchronously after the live debate to support cognitive engagement](zoom-recording-transcription-cognitive-engagement.md) — related
 - [Synchronous online discussions produce higher behavioral, emotional, and cognitive engagement than asynchronous online discussions in online math courses](synchronous-discussion-increases-engagement.md) — related
+- [Interactive synchronous lessons yielded larger effects than lectures for affective outcomes versus asynchronous learning](interactive-lesson-moderator-sol-affective.md) — related

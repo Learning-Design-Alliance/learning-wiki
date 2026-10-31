@@ -51,6 +51,7 @@ The review reports that AI ethics education pilots recommend active, experientia
 - [Fund AI literacy initiatives integrating AI ethics into curricula and adapting assessments](ai-literacy-ethics-curricula-assessment-strategy.md)
 - [Embed critical AI literacy into curricula and institutional practices in higher education](embed-critical-ai-literacy-curricula-institutional-practices.md)
 - [Design future cybersecurity PD with contextual guidance, AI-related topics, and up-to-date resource alternatives](future-cybersecurity-pd-contextual-ai-resources.md)
+- [Integrate interactive, competency-based diabetic foot care training into continuing professional development, supported by organizational resources](integrate-interactive-diabetic-foot-training-cpd.md)
 
 ## Examples
 -

@@ -1,0 +1,52 @@
+---
+type: claim
+title: A JBI-guided scoping review identified eight structured clinical teaching models for healthcare trainees published between 2000 and 2025, from 26 included articles
+description: A JBI-guided scoping review identified eight structured clinical teaching models for healthcare trainees published between 2000 and 2025, from 26 included articles
+id: eight-clinical-teaching-models-mapped
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-31
+evidence_strength: moderate
+newest_evidence: 2026
+sources:
+  - id: munguiko-clement-2026
+    resource: "https://doi.org/10.1186/s12909-026-09710-w"
+    title: "Munguiko Clement, Masereka Enos Mirembe, Atukwatse Joseph, Smitha Joseph, Kateregga James, Nankinga Clare, Collete Alice Alum, Namujju Josephine, Akello Safina, Nalubega Sylivia. (2026). Clinical teaching models for the instruction of healthcare trainees in the 21st century: a scoping review. BMC Medical Education. https://doi.org/10.1186/s12909-026-09710-w"
+    author: Munguiko Clement, Masereka Enos Mirembe, Atukwatse Joseph, Smitha Joseph, Kateregga James, Nankinga Clare, Collete Alice Alum, Namujju Josephine, Akello Safina, Nalubega Sylivia
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 2
+---
+
+# A JBI-guided scoping review identified eight structured clinical teaching models for healthcare trainees published between 2000 and 2025, from 26 included articles
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i?` A scoping review of 3,526 records screened and 26 included articles mapped eight structured clinical teaching models: OMP, SNAPPS, STEPS, MiPLAN, BOPPPS, ED STAT, RIME, and Aunt Minnie. [→ Munguiko Clement 2026](#munguiko-clement-2026)
+
+## Evidence
+
+### Munguiko Clement 2026
+
+Munguiko Clement, Masereka Enos Mirembe, Atukwatse Joseph, Smitha Joseph, Kateregga James, Nankinga Clare, Collete Alice Alum, Namujju Josephine, Akello Safina, Nalubega Sylivia. (2026). Clinical teaching models for the instruction of healthcare trainees in the 21st century: a scoping review. BMC Medical Education. https://doi.org/10.1186/s12909-026-09710-w
+
+`q2 · i?` · `review · r2`
+
+Scoping review following the Joanna Briggs Institute guideline, searching CINAHL, PubMed, Scopus, Cochrane, and Informit for 2000-2025. The review states it "identified eight (08) structured models recommended for guiding clinical teaching of healthcare trainees"; 26 articles met the inclusion criteria.
+
+> "The scoping review identified eight (08) structured models recommended for guiding clinical teaching of healthcare trainees in the 21st century (Table 2)."
+
+## Discussion
+
+
+## Related Claims
+- [Supporting evidence is unevenly distributed across the eight clinical teaching models, with OMP and SNAPPS the most extensively studied](omp-snapps-most-studied.md) — related
+- [SNAPPS is reported as superior to the One-Minute Preceptor model in enhancing clinical reasoning](snapps-superior-omp-clinical-reasoning.md) — related
+- [Evidence on clinical teaching models is concentrated in high-income settings: most included studies were conducted in the United States and none originated from Africa](clinical-teaching-models-us-concentration.md) — related
+- [Contextual resource constraints in low- and middle-income settings may limit implementation of structured, feedback-intensive clinical teaching models](resource-constraints-limit-model-transferability.md) — related
+- [RaT research is heavily concentrated in Western healthcare systems, with no published studies from the GCC region](rat-evidence-western-concentration-gcc-gap.md) — related

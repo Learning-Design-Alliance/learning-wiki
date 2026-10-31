@@ -54,3 +54,5 @@ Focus-group theme from the qualitative pilot; one participant suggested each cla
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related
 - [International students wanted more global cases and closer connections between case analyses and their local work contexts](lack-of-global-cases-local-relevance.md) — related
 - [The case-based intervention was perceived as connecting theory to practice more strongly than the model-based comparison intervention](case-intervention-higher-theory-practice-connection.md) — related
+- [Beneficial design features include diverse, authentic case variation and immediate, individualized, actionable, transparent feedback, yet only 52.6% of studies incorporated feedback](ai-virtual-patients-feedback-feature-underincorporated.md) — related
+- [The authors interpret the higher Natural Sciences AR effect as arising because abstract natural-science concepts can be more easily concretized in AR than social-science concepts](ar-concretization-explanation-natural-sciences.md) — related

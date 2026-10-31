@@ -43,6 +43,7 @@ The chapter recommends continuous evaluation of AI competencies to track student
 - [Portfolio Assessment](portfolio-assessment.md)
 - [Portfolio Development](portfolio_development.md)
 - [Redesign assessment reflectively for possible AI use, using supervised tasks for lower-order skills and intentional AI use with reflection for higher-order work](reflective-ai-aware-assessment-redesign.md)
+- [Design balanced, integrated assessment models that combine theoretical and laboratory learning and incorporate both formative and summative dimensions supported by technology](balanced-integrated-general-chemistry-assessment-models.md)
 
 ## Examples
 -

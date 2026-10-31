@@ -66,3 +66,5 @@ Moderator analysis (Table 5) of intervention duration across subgroups: 0–8 we
 - [Program intensity is a significant moderator: high-duration gloss interventions yield larger effects (ES = 1.48) than low-duration ones (ES = 0.57)](program-intensity-moderates-gloss-effect.md) — related
 - [RME effects are greater when treatment lasts 3-4 meetings and are reduced when treatment continues beyond four meetings](rme-effect-reduced-beyond-four-meetings.md) — related
 - [Shorter modelling treatments produce larger achievement effects than semester-length treatments](shorter-modelling-treatments-larger-effects.md) — related
+- [Courses shorter than one semester showed larger synchronous-learning effect sizes than semester-or-longer courses](course-duration-moderator-sol.md) — related
+- [Teaching period significantly moderates blended instruction effects, with one to three months producing the largest effect (SMD = 0.845)](teaching-period-moderates-blended-instruction-effects.md) — related

@@ -16,12 +16,14 @@ sources:
     author: "Mevlut AYDOGMUS & Cihad SENTURK"
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # The effect of learning stations differs significantly by education level, largest at primary level
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Mevlut AYDOGMUS & Cihad SENTURK. (2019). THE EFFECTS OF LEARNING STATIONS TECHNIQUE ON ACADEMIC ACHIEVEMENT: A META-ANALYTIC STUDY. Research in Pedagogy, Vol.9, No.1. https://doi.org/10.17810/2015.87
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Subgroup analysis of the 16 measurements divided by primary, secondary, and university levels, with average effect sizes of 1.012, 0.615, and 0.013 respectively. The article characterizes these as large, medium, and small effects.
 

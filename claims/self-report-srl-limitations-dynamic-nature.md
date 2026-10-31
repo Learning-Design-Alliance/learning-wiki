@@ -53,3 +53,4 @@ The article's literature review, citing Winne (2020), argues that self-report me
 - Existing SLA emotion research methods cannot capture the dynamic nature of emotions in language learning situations — related
 - [Overconfidence in self-assessment is especially concerning in online learning environments where limited external feedback widens gaps between perceived and actual performance](online-learning-exacerbates-calibration-discrepancy.md) — related
 - [Integrating behavioral trace data with outcomes and self-report reveals feedback effects that perception and performance measures alone miss](behavioral-data-essential-for-feedback-evaluation.md) — a narrower finding that bears on this claim
+- [Assessment of metacognitive regulation appears underexploited in physical therapy, with existing methods not adequately capturing tasks-focals interplay or interaction dynamics](mr-assessment-underdeveloped-in-pt.md) — a narrower finding that bears on this claim

@@ -64,3 +64,4 @@ A quasi-experiment in a courseware project compared two classes: one randomly as
 - [Majorities of students reported self-improvements in information literacy, multimedia material processing, and courseware design after the blended course](self-reported-skill-gains-blended-pet-course.md) — related
 - [Students' self-directed learning and creative thinking skills increased significantly after QIMS inquiry-based lessons](qims-lessons-increase-self-directed-learning-creative-thinking.md) — related
 - [Learners reported mostly positive attitudes toward flipped learning in the learner-generated-materials pronunciation course](positive-attitudes-flipped-pronunciation.md) — related
+- [The review finds flipped learning, PBL, gamification, and collaborative learning adapted to digital environments produced positive effects on motivation, participation, and transversal competences](flipped-pbl-gamification-collaborative-digital-effects.md) — a broader claim this one bears on

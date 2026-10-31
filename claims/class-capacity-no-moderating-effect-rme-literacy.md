@@ -16,12 +16,14 @@ sources:
     author: Amelia Defrianti Putri, Dadang Juandi, Turmudi
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Class capacity does not significantly moderate the effect of RME on mathematical literacy
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Amelia Defrianti Putri, Dadang Juandi, Turmudi. (2024). Realistic mathematics education and mathematical literacy: a meta-analysis conducted on studies in Indonesia. Journal of Education and Learning (EduLearn), Vol. 18, No. 4. https://doi.org/10.11591/edulearn.v18i4.21650
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Moderator analysis of nine large-class and eight small-class studies using the Q Cochrane test. The printed Q value was 0.121 with p = 0.728, so the article concludes "no significant difference" between the two class-capacity categories; no effect size for the moderator difference is printed.
 

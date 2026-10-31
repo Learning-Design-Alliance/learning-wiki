@@ -53,3 +53,4 @@ SEM analysis of the 300-staff survey. The article reports that compatibility wit
 - [Digital education innovations are an interplay of technological, pedagogical, organisational and governance-related dimensions](digital-education-innovation-four-dimension-interplay.md) — related
 - [Internal organisational conditions strengthen internal social drivers promoting technological change](organisational-culture-sustainability-strengthen-social-drivers-ai-adoption.md)
 - [Empirical evidence surrounding innovative technology-enhanced-learning practices in K-12 education is at best patchy](k12-innovative-tel-evidence-patchy.md) — related
+- [Technology-based assessment innovations, including digital question banks, machine learning-assisted systems, LMS-based assessments and game-based quizzes, are increasingly adopted in general chemistry assessment](digital-assessment-innovation-trend-general-chemistry.md) — related

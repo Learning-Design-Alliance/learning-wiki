@@ -52,3 +52,5 @@ The commentary's background synthesis of existing reviews reports that "other sy
 - [The effects of physical activity on cognition and academic outcomes depend on the subdomain examined](physical-activity-effects-depend-on-subdomain.md) — related
 - [Longitudinal physical activity programs have a positive effect on executive functions in preadolescent children (g = 0.24)](longitudinal-physical-activity-improves-executive-functions.md) — related
 - [First-graders using Kid Space showed physical activity during play-based learning, in an exploratory case study without a comparison](kid-space-more-physical-activity.md) — related
+- [Effects of school-based physical activity on academic performance are not uniform and appear higher for mathematics skills](pa-academic-effects-nonuniform-math-favored.md) — related
+- [Effects of classroom physical activity breaks on academic performance in university students are mixed or inconclusive](pa-breaks-academic-performance-mixed.md) — related

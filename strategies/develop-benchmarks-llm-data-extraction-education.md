@@ -50,6 +50,7 @@ The article identifies the absence of shared evaluation resources as a barrier: 
 - [Extend educational LLM benchmarking toward multilingual contexts, real classroom interaction data, and targeted training for identified capability gaps](future-educational-llm-benchmark-extensions.md)
 - [Rigorous evaluation roadmap for lecture-KG systems: gold-standard annotation, controlled ablations, and faithfulness metrics](lecture-kg-evaluation-roadmap.md)
 - [Prioritize prospective, in-curriculum evaluations of AI governance interventions over additional isolated benchmark studies](prospective-governance-evaluations-over-benchmarks.md)
+- [Standardize reporting of LLM versions, processing dates, input selection criteria, and data quality protocols in future MCQ benchmarking research](standardized-llm-benchmarking-reporting-strategy.md)
 
 ## Examples
 -

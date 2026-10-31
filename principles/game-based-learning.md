@@ -47,7 +47,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 80 claims (40 for, 39 mixed, 1 against) · 62 studies (20 causal, 14 quant-synthesis, 14 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 18 of 62 report an effect size · 74 claims rest on one study
+> **Evidence** · 84 claims (43 for, 40 mixed, 1 against) · 64 studies (20 causal, 18 quant-synthesis, 14 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 20 of 64 report an effect size · 78 claims rest on one study
 
 ## Conditional relationship
 
@@ -201,6 +201,10 @@ A gain in the game, a gain on an aligned outside test, delayed retention, transf
 - [Half of the reviewed games have a multiplayer design, mostly team-based, with distinct roles and inter-team competition less utilized](../claims/multiplayer-team-design-heritage-games.md) [~W]
 - [Game-based learning has a large positive effect on academic success in Turkish language instruction (REM ES = 1.538)](../claims/game-based-learning-large-effect-turkish.md) [+W]
 - [The application approach (which student-centred method or technique is used) significantly moderates the effect size, with Activities Based on Multiple Intelligences and Educational Games showing the largest effects](../claims/application-approach-significant-moderator-abmi-educational-games.md) [+W]
+- [Standalone serious games show large, relatively consistent effects on knowledge acquisition compared with other gamification categories](../claims/serious-games-consistent-knowledge-effects.md) [+W]
+- [Using games in mathematics teaching has a medium positive effect (g = 0.792) on academic achievement in Turkey, per random-effects meta-analysis](../claims/game-assisted-math-medium-positive-effect-turkey.md) [+W]
+- [Game-based mathematics teaching favored experimental groups in 30 of 31 included effect sizes](../claims/game-math-30-of-31-positive-effect-sizes.md) [+W]
+- [The effect of games on mathematics achievement does not differ significantly by implementation period](../claims/game-math-effect-no-difference-implementation-period.md) [~W]
 
 ## Related Principles
 - [Simulations & Immersive Virtual Environments](simulations-immersive-virtual-environments.md) — simulations overlap with game-based learning when the experience models a system learners must navigate.

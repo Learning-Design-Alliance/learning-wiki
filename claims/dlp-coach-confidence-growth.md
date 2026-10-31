@@ -50,3 +50,4 @@ Pre/post survey of DLP coaches (94 percent completed both surveys): "89 percent 
 ## Related Claims
 - [Coaches and principals in the DLP grew in confidence and skills over the year](dlp-coach-principal-growth.md) — related
 - [Principals' confidence in leadership skills related to instructional coaching rose from 60 to 95 percent over the pilot year](dlp-principal-leadership-confidence-growth.md) — related
+- [Peer tutoring benefits extend to the tutors themselves, including confidence, autonomy, leadership, teamwork, and empowerment](peer-tutor-role-benefits-to-tutors.md) — related

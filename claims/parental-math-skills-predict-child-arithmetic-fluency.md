@@ -47,3 +47,4 @@ Structural equation model (Model 1G) on the Finnish VUOKKO longitudinal sample (
 
 ## Related Claims
 - [Higher levels of maternal help, press for intellectual development, and monitoring are associated with poorer children's arithmetic skills](maternal-practices-linked-poorer-arithmetic-skills.md) — related
+- [Family variables relate to academic achievement, with parents' attitudes and behaviors (ES = .873) and parental expectations (ES = .865) showing large effects, and father's education level relating more strongly than mother's](family-variables-effects-academic-achievement-meta-review.md) — related

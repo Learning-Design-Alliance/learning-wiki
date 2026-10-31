@@ -18,7 +18,7 @@ moved_from: [principle/self-determination-theory]
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 103 claims (74 for, 26 mixed, 3 against) · 69 studies (24 associational, 13 causal, 13 review, 8 quant-synthesis, 6 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 17 of 69 report an effect size · 97 claims rest on one study
+> **Evidence** · 104 claims (75 for, 26 mixed, 3 against) · 70 studies (24 associational, 13 causal, 13 review, 9 quant-synthesis, 6 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 17 of 70 report an effect size · 98 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -159,6 +159,7 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Most of the 20 ChatGPT learning activities (11 of 20) better satisfy competence, fewer satisfy autonomy, and the fewest satisfy relatedness.](../claims/chatgpt-activities-competence-needs-dominance.md) [+W] — attached 2026-10-28 from Chiu (2024), which proposed "SDT-based digital needs support framework crossed with the three-phase SRL cycle for designing ChatGPT learning activities".
 - [Gamification positively and significantly affects students' perceptions of autonomy](../claims/gamification-enhances-perceived-autonomy.md) [+W]
 - [Both interventions produced higher meaning, mastery, and autonomy than control, but lower immersion than control for RJP](../claims/user-experience-group-differences.md) [+W]
+- [Teachers' provision of classroom structure correlates positively with students' achievement, engagement, and competence beliefs, and shows a statistically non-significant negative relationship with disengagement](../claims/classroom-structure-correlational-outcome-links.md) [+W] — attached 2026-10-31 from Patall et al. (2023), which proposed "Classroom structure as a multifaceted set of teacher practices distinct from control, with chaos as its logical opposite".
 
 ## The evidence by question
 

@@ -62,3 +62,5 @@ Random-effects meta-analysis of five PBL studies; pooled ES 1.560 (95% CI 0.768�
 - [PBL has a large and positive effect (ES = .871) on secondary students’ achievement in science compared with conventional teaching](pbl-large-positive-effect-secondary-science-achievement.md) — related
 - [STEM educational practices have a moderate positive effect on students' academic achievement compared with traditional teaching (REM ES = 0.442)](stem-practices-moderate-academic-achievement-effect.md) — related
 - [Vocabulary development interventions have a large average positive effect on cognitive vocabulary outcomes (g = 1.179) compared with traditional teaching methods](vocabulary-interventions-large-average-effect-g-1179.md) — related
+- [AR applications have a medium positive pooled effect (ES = 0.517) on students' academic achievement compared with traditional learning methods](ar-medium-positive-effect-academic-achievement.md) — related
+- [Context-based learning has a statistically significant positive overall effect on academic achievement (g=0.970) compared to traditional lecture-based instruction](cbl-positive-overall-effect-academic-achievement.md) — related

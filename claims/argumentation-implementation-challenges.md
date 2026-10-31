@@ -57,3 +57,4 @@ Practitioner perspectives in the primer identify these barriers: scaffolding and
 - [Time constraints, limited collaboration opportunities, colleague resistance, and school mobile-device policies were reported barriers to professional development with the TARGET-tool](target-tool-pd-barriers.md) — related
 - [Teachers support interdisciplinary curriculum integration but identify resource limitations, not curricular constraints, as the main barrier](e-textile-steam-integration-attitudes-barriers.md) — related
 - [Trust between policy and practice, and between national and school levels, is a core attribute of curriculum renewal alignment](trust-core-attribute-curriculum-alignment.md) — related
+- [Barriers to soft skills integration: time constraints, systemic obstacles, learner emotional strain, and adapting to new modalities](soft-skills-curricular-barriers-medical-education.md) — related

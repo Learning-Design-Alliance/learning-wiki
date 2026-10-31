@@ -16,12 +16,14 @@ sources:
     author: "Liu, J., & Zhang, J."
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # The included studies show signs of publication bias, with an asymmetric and dispersed funnel plot
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Liu, J., & Zhang, J. (2018). The Effects of Extensive Reading on English Vocabulary Learning: A Meta-analysis. English Language Teaching, 11(6). https://doi.org/10.5539/elt.v11n6p1
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Sensitivity analysis using a funnel plot of standard errors against standardized mean differences for the 17 group-contrast studies. No formal asymmetry test was applied because the number of studies was not big enough for reference.
 
@@ -51,3 +53,4 @@ Sensitivity analysis using a funnel plot of standard errors against standardized
 - [Publication-bias checks give mixed results: Egger's test indicates funnel-plot asymmetry while Trim and Fill and Fail-Safe N indicate no bias](mixed-publication-bias-evidence-meta-analysis.md) — related
 - [Funnel plot analysis showed no publication bias among the 15 studies included in the AR meta-analysis](ar-meta-analysis-no-publication-bias.md) — reports the opposite
 - [Funnel plot asymmetry indicates publication bias, lowering the bias-adjusted effect size to 0.642](constructivism-attitudes-publication-bias-funnel-plot.md) — related
+- [Trim-and-fill analyses suggest publication bias affected three of the four meta-analyses, indicating true mean effects may be lower than originally reported.](tier2-k3-publication-bias-lower-true-effects.md) — related

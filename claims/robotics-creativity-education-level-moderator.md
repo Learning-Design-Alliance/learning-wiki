@@ -16,12 +16,14 @@ sources:
     author: "Hou, H., Zhang, X., & Wang, D."
     q: 3
     i: 1
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Robotics education significantly boosts creativity of primary and junior secondary students but shows no significant effect on senior secondary students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i1` small
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i1` small
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -34,7 +36,7 @@ sources:
 
 Hou, H., Zhang, X., & Wang, D. (2022). Can educational robots improve student creativity: A meta-analysis based on 48 experimental and quasi-experimental studies. Best Evidence in Chinese Education, 11(1):1449-1454. https://doi.org/10.15354/bece.22.ab001
 
-`q3 · i1`
+`q3 · i1` · `quant-synthesis · r2`
 
 Moderator analysis by education level; the authors state the comparison focused on primary, junior secondary, and senior secondary students due to limited kindergarten and university sample sizes. No effect size was printed for the senior secondary null result.
 

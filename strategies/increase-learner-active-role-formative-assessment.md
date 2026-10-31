@@ -17,7 +17,7 @@ sources:
 # Increase varied formative assessment practices in classrooms, especially those giving learners an active role (self-, peer-, and group-assessment)
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study, `q3` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends that classrooms increase the number and variety of formative assessment practices, with particular emphasis on practices in which learners take an active role. It states that "Increasing different types of formative assessment practices especially encouraging learners to have an active role in this process (i.e. self-assessment, peer-assessment, and group-assessment) is crucial." This follows from the meta-analytic finding that student-initiated feedback showed the largest effect. It also recommends professional development so teachers can use formative assessment tools.

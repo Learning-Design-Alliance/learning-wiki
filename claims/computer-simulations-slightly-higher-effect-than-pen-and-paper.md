@@ -16,12 +16,14 @@ sources:
     author: Andrzej Sokolowski
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Computer simulations yield a slightly higher achievement effect than pen-and-paper modelling activities
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Andrzej Sokolowski. (2015). The Effects of Mathematical Modelling on Students’ Achievement-Meta-Analysis of Research. The IAFOR Journal of Education, Volume III - Issue I - Winter 2015. https://journals.iafor.org/index.php/joe
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Subgroup moderator analysis comparing 12 computer-supported studies with 2 pen-and-pencil studies in the meta-analytic pool. The article reports "ES = 0.72, SE = 0.06" versus "ES = 0.68, SE = 0.10" and states the difference was not large; no effect size for the difference is printed.
 

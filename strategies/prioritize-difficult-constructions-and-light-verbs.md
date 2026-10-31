@@ -40,7 +40,8 @@ The article derives two instructional recommendations from its findings for EFL 
 - [Usage Based Constructional Development](../theories/usage-based-constructional-development.md)
 
 ## Related Strategies
-- 
+
+- [Select FFI type strategically based on grammatical complexity and learner proficiency rather than using a one-size-fits-all approach](strategic-selection-of-ffi-by-complexity-and-proficiency.md)
 
 ## Examples
 -

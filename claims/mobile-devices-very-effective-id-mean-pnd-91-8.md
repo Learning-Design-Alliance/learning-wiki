@@ -16,12 +16,14 @@ sources:
     author: "Jemma Kim & Christina H. Kimm"
     q: 2
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Mobile device-based interventions are very effective for individuals with intellectual disabilities, with a mean PND of 91.8 across 140 observed cases
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q2` quasi-experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q2`
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Jemma Kim & Christina H. Kimm. (2017). Functional Technology for Individuals with Intellectual Disabilities: Meta-Analysis of Mobile Device-Based Interventions. The Journal of Special Education Apprenticeship, 6(1). https://eric.ed.gov/?id=EJ1149575
 
-`q2 · i?`
+`q2 · i?` · `quant-synthesis · r2`
 
 Meta-analysis of 23 single-subject design studies (78 participants, 140 observed cases) calculating PND per observed case. The mean PND of 91.8 and median of 100 exceed the very effective threshold; treatment-phase mean was 88.6, maintenance 99.8, generalization 100.0.
 

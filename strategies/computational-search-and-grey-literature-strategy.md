@@ -17,7 +17,7 @@ sources:
 # Computational search methods plus grey literature retrieval to identify early grade reading evidence and minimize publication bias
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study, `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review's search strategy combines four primary search methods (pre-defined databases, journals and development organizations; development-focused databases; LAC regional databases and websites; bibliography review) with computational document identification. The authors state that "topic modeling, information retrieval and clustering, and search term strategies widely used in library science and bibliometrics" flag potentially relevant studies for expert screening. Grey literature is identified through Google Scholar and expert surveys to minimize publication bias.

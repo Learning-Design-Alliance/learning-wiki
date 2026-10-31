@@ -50,3 +50,4 @@ Latent growth models of the four sources of self-efficacy were compared across t
 - [Effortful regulation is maximized at moderate levels of emotional and physiological reactivity and declines at very low or very high levels](inverted-u-arousal-executive-function.md) — related
 - [During an exam, students' expectancy for success decreased and the change in expectancy was negatively associated with change in salivary cortisol](expectancy-decline-linked-cortisol-exam.md) — related
 - [Math self-efficacy trajectories differ in initial math skills and rate of math skill development](math-skills-differ-across-se-trajectories.md) — related
+- [Psychological variables show a wide range of effects on academic achievement, with self-efficacy showing a huge positive effect (ES = 1.173) and negative low-arousal emotions showing a medium negative effect (ES = -.799)](psychological-variables-effects-academic-achievement-meta-review.md) — related

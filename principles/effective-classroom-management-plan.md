@@ -23,7 +23,7 @@ sources:
 # Effective Classroom Management Plan Criteria
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 30 claims (18 for, 10 mixed, 2 against) · 37 studies (14 quant-synthesis, 9 review, 6 causal, 4 qualitative, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 7 of 37 report an effect size · 23 claims rest on one study
+> **Evidence** · 31 claims (19 for, 10 mixed, 2 against) · 38 studies (15 quant-synthesis, 9 review, 6 causal, 4 qualitative, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 7 of 38 report an effect size · 24 claims rest on one study
 
 ## Conditional relationship
 
@@ -140,6 +140,7 @@ Read against the model on 2026-10-15 and left here because none can carry a step
 - [High-information feedback has a very large effect (d = 0.99) while reinforcement/punishment has a low effect (d = 0.24)](../claims/feedback-most-effective-at-task-and-process-levels.md) [-W]
 - [Making rounds minimizes off-task behaviour because pupils monitor for the teacher's approach and adjust their behaviour](../claims/rounds-surveillance-minimizes-off-task.md) [+W] — attached 2026-10-18 from Christian Greiffenhagen (2011), which proposed "Teacher rounds as the routine organization of monitoring during pair work at computers".
 - [Teacher–student relationship quality partially mediates the association between student behavior and peer relationships](../claims/tsr-partially-mediates-behavior-peer-association.md) [~W] — attached 2026-10-20 from Endedijk et al. (2022), which proposed "Prevent or reduce negative aspects of teacher–student relationships, especially for students with behavioral problems, to support classroom peer relationships".
+- [Structure can be characterized by seven practice components: expectation/goal-setting, rules and routines, organization of lessons and materials, monitoring and signals, feedback, rewards and punishment, and eliciting student involvement](../claims/structure-seven-component-taxonomy.md) [+W] — attached 2026-10-31 from Patall et al. (2023), which proposed "Classroom structure practices combine anticipatory, organizational, monitoring, feedback, and involvement components at lesson and unit level".
 
 ## Objective and learner-valued goal
 

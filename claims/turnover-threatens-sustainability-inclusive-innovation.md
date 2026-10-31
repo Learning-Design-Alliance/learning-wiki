@@ -56,3 +56,4 @@ Interview study of district-community team members reflecting on the semester af
 - [Applying the adapted CTA framework in the discharge pilot uncovered previously unknown stakeholders and barriers](cta-application-revealed-hidden-process-knowledge.md) — related
 - [Thematic analysis of teacher interviews identifies barriers to implementation and factors for success](mast-implementation-barriers-success-factors.md) — related
 - [Leadership support and stakeholder connectivity support sustainability of innovations](leadership-connectivity-support-sustainability.md) — related
+- [Supervision is critical for applying obstetric emergency knowledge, with increased complications during periods of reduced oversight](supervision-critical-reduced-oversight-complications.md) — related

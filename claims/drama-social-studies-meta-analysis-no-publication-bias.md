@@ -16,12 +16,14 @@ sources:
     author: "Yildirim, E., Tikman, F., & Senturk, M."
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # No publication bias was detected among the studies included in the meta-analysis
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Yildirim, E., Tikman, F., & Senturk, M. (2022). Meta-analysis on the effectiveness of using the drama approach in social studies course. International Journal on Social and Education Sciences (IJonSES), 4(1), 17-33. https://doi.org/10.46328/ijonses.301
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r2`
 
 Publication-bias assessment of the 38 included effect sizes using a funnel plot, Rosenthal's Fail-Safe N test (FSN = 5170, meaning 5170 null studies would be needed to invalidate the result), and Duval and Tweedie's test, in which the observed and expected values were identical, indicating no publication bias.
 
@@ -55,3 +57,4 @@ Publication-bias assessment of the 38 included effect sizes using a funnel plot,
 - [No publication bias is detected in the meta-analysis by rank correlation, regression, Fail-Safe N, and Trim and Fill checks](no-publication-bias-cooperative-learning-meta-analysis.md) — related
 - [Publication bias checks (funnel plot and Orwin's Fail-Safe N = 3182) found no evidence of bias in the meta-analysis](no-publication-bias-fail-safe-n-3182.md) — related
 - [The meta-analysis is resistant to publication bias by Rosenthal's fail-safe N criterion](rme-meta-analysis-publication-bias-resistant.md) — related
+- [Publication bias tests indicate the observed effects for both outcomes were not influenced by publication bias](cbl-meta-analysis-no-publication-bias.md) — related

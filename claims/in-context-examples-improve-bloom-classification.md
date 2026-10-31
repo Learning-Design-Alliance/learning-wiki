@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "In-context examples improve LLM Bloom classification: three-shot and ten-shot prompting outperform zero-shot across datasets"
-description: "In-context examples improve LLM Bloom classification: three-shot and ten-shot prompting outperform zero-shot across datasets"
+title: "In-context examples improve LLM Bloom classification: three-shot and ten-shot prompting score at or above zero-shot on every dataset tested, and above it in most comparisons"
+description: "In-context examples improve LLM Bloom classification: three-shot and ten-shot prompting score at or above zero-shot on every dataset tested, and above it in most comparisons"
 id: in-context-examples-improve-bloom-classification
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-31
 recheck_by: 2029
 sources:
   - id: abdolali-faraji-2026
@@ -21,14 +22,14 @@ sources:
     rigour: 2
 ---
 
-# In-context examples improve LLM Bloom classification: three-shot and ten-shot prompting outperform zero-shot across datasets
+# In-context examples improve LLM Bloom classification: three-shot and ten-shot prompting score at or above zero-shot on every dataset tested, and above it in most comparisons
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
-`q2 i?` Both three-shot and ten-shot prompting outperform zero-shot prompting across datasets, though zero-shot still yields reasonable performance. [→ Abdolali Faraji 2026](#abdolali-faraji-2026)
+`q2 i?` Across five datasets and two models (GPT-5, GPT-5-mini), three-shot and ten-shot prompting scored higher weighted F1 than zero-shot in 16 of 20 comparisons and tied it in the other four (e.g., GPT-5 on Gani: 0.75 for zero-, three- and ten-shot); zero-shot still yields reasonable performance. [→ Abdolali Faraji 2026](#abdolali-faraji-2026)
 
 ## Evidence
 
@@ -38,7 +39,7 @@ Abdolali Faraji, Mohammadreza Molavi, Zohreh Rasoulkhani, Mohammadreza Tavakoli,
 
 `q2 · i?` · `causal · r2`
 
-RQ2 evaluation across five datasets and five prompting strategies (Table 3). Few-shot prompts with examples drawn from the same dataset beat zero-shot; zero-shot GPT-5 still achieved weighted F1 around 0.75 on most datasets.
+RQ2 evaluation across five datasets and five prompting strategies (Table 3). Few-shot prompts with examples drawn from the same dataset scored above zero-shot in most comparisons and never below it; Table 3 shows four ties (GPT-5 three-shot on Mohammed 0.76 and Gani 0.75, GPT-5 ten-shot on Gani 0.75, GPT-5-mini three-shot on Yahya 0.74), although the authors' text says few-shot outperforms zero-shot across datasets. Zero-shot GPT-5 still achieved weighted F1 around 0.75 on most datasets. No significance tests are reported.
 
 > "Both three-shot and ten-shot prompting outperform zero-shot prompting across datasets, suggesting that additional contextual information helps to align model predictions with Bloom's cognitive levels."
 

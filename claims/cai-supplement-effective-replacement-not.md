@@ -16,12 +16,14 @@ sources:
     author: "Karen Larwin & David Larwin"
     q: 3
     i: "?"
+    kind: quant-synthesis
+    rigour: 3
 ---
 
 # CAI supplements instruction effectively but shows no benefit as a complete replacement for instruction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 > **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Karen Larwin & David Larwin. (2011). A Meta-Analysis Examining the Impact of Computer-Assisted Instruction on Postsecondary Statistics Education: 40 Years of Research. Journal of Research on Technology in Education, 43(3), 253–278. https://eric.ed.gov/?id=EJ918907
 
-`q3 · i?`
+`q3 · i?` · `quant-synthesis · r3`
 
 Moderator analysis of supplement versus replacement (Table 2 within-group Q = 36.04*); the authors note many replacement-category studies were online delivery courses, which also showed no positive impact.
 

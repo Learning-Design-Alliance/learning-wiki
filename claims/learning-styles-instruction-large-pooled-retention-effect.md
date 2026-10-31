@@ -16,12 +16,14 @@ sources:
     author: Kanadlı, S.
     q: 3
     i: 3
+    kind: quant-synthesis
+    rigour: 2
 ---
 
 # Learning-styles-tailored instruction shows a large pooled effect on retention, with inconsistent printed values (d = 1.763 in Table 7; d = 1.290 in the abstract and discussion)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment · `i3` large
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Kanadlı, S. (2016). A meta-analysis on the effect of instructional designs based on the learning styles models on academic achievement, attitude and retention. Educational Sciences: Theory & Practice, 16, 2057–2086. https://doi.org/10.12738/estp.2016.6.0084
 
-`q3 · i3`
+`q3 · i3` · `quant-synthesis · r2`
 
 Meta-analysis of 10 studies on retention; heterogeneity was high (Q = 55.642, I² = 83.83%), so the random effect model was used. Table 7 prints d = 1.763 with a U3 of 90.3%, while the abstract and discussion print d = 1.290 for retention — an internal inconsistency in the article.
 

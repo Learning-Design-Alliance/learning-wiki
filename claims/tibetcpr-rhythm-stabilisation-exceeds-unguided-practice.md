@@ -50,3 +50,5 @@ Randomised controlled study (T1 pre-test, T2 10-minute intervention, T3 post-tes
 - [Depth accuracy rose progressively during the intervention, with the experimental group improving roughly three percentage points per minute faster than the control group](tibetcpr-depth-progressive-within-session-gain.md) — related
 - [Experimental-group participants rated TibetCPR highly usable (SUS = 84.3, an Excellent rating), with the highest items on voluntary engagement and independent use](tibetcpr-high-usability-sus-84-3.md) — related
 - [Students show large immediate pre-to-post knowledge gains within a single LLM-supported learning session](large-immediate-gains-llm-supported-session.md) — related
+- [Rhythm or pacing aids during CPR training were associated with more consistent compression rates](pacing-aids-consistent-compression-rates.md) — a broader claim this one bears on
+- [Demonstration-based CPR training tended to produce more accurate performance than lecture-based approaches](demonstration-beats-lecture-cpr-training.md) — related

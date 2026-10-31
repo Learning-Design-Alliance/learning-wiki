@@ -51,3 +51,4 @@ Qualitative thematic analysis of semi-structured interviews with 14 purposively 
 - [A unique form of anxiety experienced in response to learning or using an L2 was identified in the mid-1980s](fla-identified-mid-1980s.md) — related
 - [Students reported greater engagement, motivation and language use after MLE-mediated English lessons](students-report-engagement-after-mle-lessons.md) — related
 - [Students in both groups valued the AI speaking app for autonomous practice, and AI-GFCA students reported reduced anxiety and more peer interaction](interview-positive-learning-experience.md) — a narrower finding that bears on this claim
+- [Review-reported studies: writing portfolios were valued for improving writing and reflection and reported to reduce EFL learners' test anxiety](review-reported-writing-portfolios-reduce-anxiety-build-skills.md) — related
