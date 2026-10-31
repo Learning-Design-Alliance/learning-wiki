@@ -49,3 +49,4 @@ In the between-subjects lab study (n=40), participants repeated the same six-ite
 - [HelpCoach increased spontaneous question specificity during chatbot problem-solving compared with pre-task training alone](helpcoach-increased-spontaneous-question-specificity.md) — related
 - [HelpCoach did not significantly outperform Baseline in improving or retaining self-reported self-regulation](helpcoach-no-self-regulation-gain.md) — related
 - [Evidence suggests over-reliance on generative AI may negatively affect students' self-regulated learning behaviors, potentially harming retention and transfer to novel contexts](genai-overreliance-harms-self-regulated-learning.md) — reports the opposite
+- [Trainer-led online training outperformed self-paced online training for behavioral activation skills](trainer-led-beats-self-paced-online-skills-training.md) — related

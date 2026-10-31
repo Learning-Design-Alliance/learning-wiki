@@ -55,3 +55,5 @@ Random-effects meta-analysis of 36 studies (2,404 records screened) evaluating L
 - [ChatGPT-4.0 outperforms ChatGPT-3.5 in medical licensing exams, achieving a pooled accuracy of 81.8% versus 60.8%](chatgpt-4-pooled-accuracy-818-percent-licensing-exams.md) — a narrower finding that bears on this claim
 - [In in-training residency exams, ChatGPT-4.0 achieved 72.2% accuracy compared to 57.7% for ChatGPT-3.5](chatgpt-4-residency-exam-accuracy-722-percent.md) — related
 - [ChatGPT-4.0 was 36% more likely than ChatGPT-3.5 to provide correct answers across medical licensing and residency exams](chatgpt-4-risk-ratio-136-over-chatgpt-35.md) — a narrower finding that bears on this claim
+- [GPT-4 outperforms GPT-3.5 and Bard on dental licensing examinations, achieving an integrated accuracy of 72%](gpt-4-outperforms-gpt-3-5-and-bard-dental-licensing-accuracy.md) — a narrower finding that bears on this claim
+- [LLMs perform worse on dental licensing examinations than on medical licensing examinations](llms-perform-worse-dental-than-medical-licensing-exams.md) — related

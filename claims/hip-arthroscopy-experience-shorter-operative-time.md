@@ -52,3 +52,4 @@ Random-effects meta-analysis of seven studies reporting operative time, comparin
 - [HOS-SSS scores do not differ significantly between late and early hip arthroscopy experience phases](hip-arthroscopy-hos-sss-no-experience-difference.md) — related
 - [Late-experience hip arthroscopy cases show modest but significant gains in mHHS and NAHS compared with early cases](hip-arthroscopy-experience-modest-prom-gains.md)
 - [Revision arthroscopy rates do not differ significantly between late and early hip arthroscopy experience phases](hip-arthroscopy-revision-no-experience-difference.md)
+- [Fellowship-trained surgeons showed shorter operative times and fewer complications compared with non-fellowship peers](fellowship-trained-surgeons-shorter-operative-times-fewer-complications.md) — related

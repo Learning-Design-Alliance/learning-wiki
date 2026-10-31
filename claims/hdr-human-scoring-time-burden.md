@@ -63,3 +63,4 @@ Time analysis (Table 8): five graders spent 138 minutes scoring 117 responses pl
 - [Six expert teachers completed grading tasks in ASYST with 100% effectiveness, median 2:15 minutes, and an average SUS score of 88.8](asyst-usability-study-high-sus.md) — related
 - [AI feedback after sessions can provide on average eight qualified comments aligned with expert feedback per 30-min lesson](ai-feedback-eight-comments-per-lesson.md) — related
 - [GPT-3 can generate a complete short academic paper, including abstract, introduction, discussion and APA references, in under five minutes](gpt3-generates-full-academic-paper.md) — related
+- [Video review sessions impose substantial time costs, with review sessions lasting roughly 30–90 minutes, and monetary costs are rarely reported](video-review-time-cost-sessions.md) — related

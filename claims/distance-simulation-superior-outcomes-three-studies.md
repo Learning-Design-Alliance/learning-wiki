@@ -95,3 +95,4 @@ Study of 11 novice surgical trainees evaluating a virtual classroom training pla
 - [Adjunctive VR classroom training produces higher validated robotic skills scores than self-directed simulator learning alone in novice trainees](vr-classroom-training-higher-rosats-novices.md) — related
 - [Remote teaching achieves competency outcomes equivalent to traditional learning for basic surgical skills in most studies](rt-equivalent-to-tl-basic-surgical-skills.md) — related
 - [Robotic novices trained with extended reality simulators complete tasks significantly faster than novices with no additional training](xr-training-faster-time-to-complete-than-no-training.md) — related
+- [In thyroid surgery training, simulation and virtual-reality training improved technical performance and task completion time, and simulators were rated as realistic](simulation-vr-improves-thyroid-surgery-technical-performance.md) — related

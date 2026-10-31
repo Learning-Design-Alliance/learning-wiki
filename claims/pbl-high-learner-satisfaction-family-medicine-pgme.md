@@ -68,3 +68,6 @@ The review reports Haidet et al.'s controlled trial comparing PBL with slide-and
 - [PBL shifts learners' opinions about topics modestly, and learners with strong pre-existing opinions are less likely to change](pbl-opinion-shifts-limited-by-preexisting-views.md) — related
 - [One study found significantly higher patient breastfeeding rates among physicians who participated in case-based PBL training](pbl-patient-outcomes-breastfeeding-rates-holmes.md) — related
 - [Perceived VDT utility did not always correspond to measurable academic advantage](perceived-utility-not-always-academic-advantage.md) — related
+- [PBL is associated with improved trainee satisfaction in PGME (8 of 12 reaction studies reported high satisfaction)](pbl-improves-resident-satisfaction.md) — a broader claim this one bears on
+- Of 4310 screened abstracts, 21 studies of PBL in PGME were included, spanning eight specialties and four Kirkpatrick outcome levels — related
+- [Reported rheumatology teaching methods include lectures, PBL, inpatient service, shadowing, electives and patient educators](rheumatology-teaching-methods-included-studies.md) — related

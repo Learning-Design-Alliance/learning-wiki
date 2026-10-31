@@ -18,7 +18,7 @@ sources:
 # Pre-Class Preparation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 causal, 1 quant-synthesis), `q2`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Pre-class preparation is the element in which learners engage with readings, videos, prompts, or other materials before a live class session so that class time can focus on discussion, application, or problem solving.
@@ -42,6 +42,7 @@ Pre-class preparation is the element in which learners engage with readings, vid
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Self-reported preparation behaviors, especially watching tutorial videos, predict performance in the e-learning sessions](../claims/preparation-behaviors-predict-session-performance.md) [+W]
+- [TBL requires more student preparation time than LBL](../claims/tbl-requires-more-preparation-time-than-lbl.md) [~W]
 
 ## Related Elements
 - [Assigned Readings](assigned-readings.md)

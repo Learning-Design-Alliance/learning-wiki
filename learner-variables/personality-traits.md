@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 81 claims (54 show a difference, 17 mixed, 10 no difference) · 39 studies (13 review, 13 associational, 6 causal, 5 quant-synthesis, 2 theoretical), `q2`–`q4` · 12 of 39 report an effect size · 81 claims rest on one study
+> **Evidence** · 83 claims (56 show a difference, 17 mixed, 10 no difference) · 40 studies (14 review, 13 associational, 6 causal, 5 quant-synthesis, 2 theoretical), `q2`–`q4` · 12 of 40 report an effect size · 83 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -116,6 +116,8 @@ Personality traits are relatively stable individual differences, most often meas
 - [Students' Big-Five personality significantly influences their usage of communication tools in a web-based learning system, with 32 of 120 behavioral features significantly affected](../claims/personality-influences-communication-tool-behavior.md) [+M] — learners who differ on it differ in outcomes
 - [Grit is negatively associated with media multitasking during lectures](../claims/grit-negative-media-multitasking.md) [+M] — learners who differ on it differ in outcomes
 - [Learners' level of extraversion significantly moderates the benefits of learning by digital explaining regarding deep-level knowledge](../claims/extraversion-moderates-digital-explaining-benefits.md) [+M] — an instructional effect differs with it
+- [Grit and enjoyment are key positive-psychology predictors of language learning success](../claims/grit-and-enjoyment-predict-language-success.md) [+M] — learners who differ on it differ in outcomes
+- [Positive psychological traits and emotions are significantly and positively correlated with SL/FL learning performance and can predict it](../claims/pp-positively-correlated-with-language-performance.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

@@ -98,3 +98,4 @@ The report cites a 2011 meta-analysis of 213 SEL programs reporting positive eff
 - [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — related
 - [SEL programs reduce disruptive behavior problems and emotional distress and foster prosocial behavior](sel-programs-reduce-behavior-problems-distress.md) — related
 - [SEL programs implemented well show positive impacts on targeted skills and academic outcomes, including meta-analytic support](sel-programs-academic-outcomes.md) — a broader claim this one bears on
+- [ALCs increase engagement in learning across studies, with no consistent detriment to academic performance](alc-engagement-increased.md) — related

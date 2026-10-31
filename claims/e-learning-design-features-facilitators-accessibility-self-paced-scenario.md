@@ -51,3 +51,4 @@ Scoping review synthesis of facilitators across the included studies, mapped to 
 - [Infrastructure and access constraints were reported in 18 of 54 studies (33%) as the second higher-order technical limitation category](infrastructure-access-constraints-ai-efl.md) — related
 - [Barriers to implementing e-learning for infection management in primary care include misalignment with participants' expertise, platform complexity, and IT infrastructure challenges](e-learning-implementation-barriers-expertise-complexity-infrastructure.md) — related
 - Reported implementation determinants for e-learning on infection management in primary care map mainly to the CFIR Innovation and Individuals domains — related
+- [Available online SR/MA courses lack self-paced, experiential, expert-feedback features](available-online-srma-courses-lack-key-features.md) — a narrower finding that bears on this claim

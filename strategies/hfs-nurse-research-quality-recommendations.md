@@ -53,6 +53,9 @@ The review recommends strengthening the evidence base through "more rigorous RCT
 - [Prioritize rigorous RCTs with retention tests and transfer measures before expanding distance simulation programs](rigorous-rcts-for-distance-simulation-retention-transfer.md)
 - [Integrate quantitative and qualitative approaches in future cardiac arrest simulation feedback research](integrate-quantitative-qualitative-feedback-research.md)
 - [Future active-learning research should use randomised controlled designs with larger samples and standardised outcome measures](rigorous-rct-design-future-active-learning-research.md)
+- [Use cluster randomized clinical trials and blinded simulation-based behavior assessment to strengthen NTS training evidence](cluster-rct-blinded-simulation-assessment-nts.md)
+- [Engage target learners to identify needs before designing XR educational tools](engage-learners-before-xr-tool-design.md)
+- [Future simulation research should use rigorous designs, standardized tools, and transparent reporting](strategy-rigorous-simulation-research-design.md)
 
 ## Examples
 -

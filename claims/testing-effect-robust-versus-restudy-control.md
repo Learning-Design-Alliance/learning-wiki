@@ -55,3 +55,4 @@ Meta-analysis of testing versus equal-duration restudy comparisons; the author s
 - [Across eight delayed-test comparisons, testing showed a small numerical advantage over restudy, but confidence intervals were wide and the combined effect imprecise](small-scale-meta-analysis-testing-restudy-imprecise.md) — a narrower finding that bears on this claim
 - [Individual differences were not associated with the retention benefit of relearning over restudying](individual-differences-null-relearning-retention-benefit.md) — related
 - [End-of-semester recall of course material was better for relearning than for restudying](successive-relearning-better-semester-end-recall.md) — a narrower finding that bears on this claim
+- [Practice tests are probably more effective than restudying for both retention of information and transfer of knowledge or skills.](practice-tests-probably-more-effective-than-restudying.md) — related

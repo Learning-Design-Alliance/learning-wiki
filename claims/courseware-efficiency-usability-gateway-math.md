@@ -56,3 +56,4 @@ Primary qualitative finding from the study of faculty and student experiences in
 - [Student interviewees reported technical support availability as a significant gap for online students.](molh-student-interviews-technical-support-gap.md) — related
 - [Teachers rated the TARGET-tool's core features as easy to learn and efficient, but found scheduling student scans complex and the abundance of motivating strategies overwhelming](target-tool-usability-strengths-and-frictions.md) — related
 - [Integrating the IDSA into an existing learning management system limited usability, as the platform predefined frontend structure and navigation](idsa-lms-integration-usability-tradeoff.md) — related
+- [Students experienced technical challenges, internet issues and navigation issues during engagement with online simulation approaches](students-experienced-technical-internet-navigation-issues.md) — related

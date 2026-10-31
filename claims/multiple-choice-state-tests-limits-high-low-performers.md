@@ -73,3 +73,4 @@ Authors' discussion in the introduction's themes section about state tests, whic
 - [The tutor-access learning gain was concentrated in conceptual depth of written answers rather than multiple-choice scores](tutor-gain-concentrated-in-written-reasoning-depth.md) — a narrower finding that bears on this claim
 - [Teaching primarily helps the student agent realize existing potential rather than raise its absolute performance ceiling](teaching-narrow-pass-gap-not-ceiling.md) — related
 - Effect size measures may be perceived by teachers as telling little about the changes of real students — related
+- [Multiple-choice question scores may not fully represent medical students' overall performance](mcq-scores-limited-assessment-scope.md) — a narrower finding that bears on this claim

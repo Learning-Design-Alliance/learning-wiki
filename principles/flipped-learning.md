@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 65 claims (31 for, 33 mixed, 1 against) · 51 studies (16 causal, 14 quant-synthesis, 12 review, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 18 of 51 report an effect size · 57 claims rest on one study
+> **Evidence** · 69 claims (34 for, 34 mixed, 1 against) · 53 studies (16 causal, 16 quant-synthesis, 12 review, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 20 of 53 report an effect size · 61 claims rest on one study
 
 ## Conditional relationship
 
@@ -152,6 +152,9 @@ Claims from the calculus study behind a core claim, read on 2026-10-15 and left 
 - [Flipped classrooms are associated with improved procedural/technical skills in medical education (pooled SMD = 1.80), with larger effects among residents and in theoretical-course settings](../claims/flipped-classroom-procedural-skills-medical-education.md) [+W] — attached 2026-10-31 from Wu Yaqiu (2026), which proposed "Tailor flipped-classroom implementation to learner stage, course objectives, and available resources rather than assuming a uniform effect".
 - [Flipped classrooms are associated with higher learner satisfaction in medical education (pooled SMD = 0.69), with residents showing larger improvement than undergraduates (SMD 1.69 vs 0.37)](../claims/flipped-classroom-learner-satisfaction-residents.md) [+W] — attached 2026-10-31 from Wu Yaqiu (2026), which proposed "Tailor flipped-classroom implementation to learner stage, course objectives, and available resources rather than assuming a uniform effect".
 - [Heterogeneity across flipped-classroom studies was consistently high (I² > 90%) and was largely not explained by prespecified subgroup analyses, indicating context-dependent effects](../claims/flipped-classroom-high-heterogeneity-context-dependent.md) [~W] — attached 2026-10-31 from Wu Yaqiu (2026), which proposed "Tailor flipped-classroom implementation to learner stage, course objectives, and available resources rather than assuming a uniform effect".
+- [Flipped classroom teaching improves medical students' multiple-choice question scores compared to traditional teaching](../claims/flipped-classroom-improves-mcq-scores-medical-students.md) [+W] — attached 2026-10-31 from Zhang Z et al. (2024), which proposed "Prioritize flipped classroom and simulation teaching for improving medical students' knowledge assessment performance"; tests this page's relationship.
+- [Flipped classroom instruction is associated with higher final knowledge scores than traditional instruction in medical education (SMD 0.90).](../claims/flipped-classroom-higher-knowledge-scores-medical-education.md) [+W] — attached 2026-10-31 from de Azevedo Cardoso T et al. (2025), which proposed "Implement the flipped classroom in medical curricula with preclass quizzes, active in-class activities, and alignment of activities with learning objectives."; tests this page's relationship.
+- [The flipped classroom effect on knowledge scores is larger in basic science subjects than in clinical or public health subjects.](../claims/flipped-classroom-larger-effect-basic-science-subjects.md) [+W] — attached 2026-10-31 from de Azevedo Cardoso T et al. (2025), which proposed "Implement the flipped classroom in medical curricula with preclass quizzes, active in-class activities, and alignment of activities with learning objectives.".
 
 ## Objective and learner-valued goal
 
@@ -199,6 +202,7 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - [Within the cognitive domain, flipped classrooms show the largest effects on understanding and achievement and a negative effect on evaluation](../claims/flipped-classroom-cognitive-suboutcome-effect-sizes.md) [~W]
 - [A blended flipped classroom produced statistically significantly higher post-test scores than traditional teaching in one included histology study (p < 0.0001)](../claims/blended-flipped-classroom-higher-posttest-scores.md) [+W]
 - [Blended learning or flipped classroom models may combine e-learning and traditional modalities](../claims/blended-flipped-classroom-anaesthesia.md) [~W]
+- [The flipped classroom effect on knowledge scores does not differ significantly between RCT and observational study designs.](../claims/flipped-classroom-effect-similar-rct-observational.md) [~W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — how support in the pre-class work and the live session is withdrawn across a term

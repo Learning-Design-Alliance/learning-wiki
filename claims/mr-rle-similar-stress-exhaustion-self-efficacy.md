@@ -50,3 +50,4 @@ Descriptive comparison of questionnaire data from 34 MR participants and 14 RLE 
 - [Perceived learning gains are moderate for MR participants and high for RLE participants](mr-moderate-rle-high-learning-gains.md) — related
 - [Qualitative data indicate a need to improve interaction opportunities with virtual patients in MR training](mr-needs-improved-virtual-patient-interaction.md) — related
 - [Participants view virtual training as a resource-efficient supplement to, not a replacement for, real-life exercises](virtual-training-supplement-not-replacement.md) — related
+- [Interprofessional mass casualty incident simulation increased disaster-response confidence in 96% of participating pre-licensed nursing students](mass-casualty-simulation-confidence.md) — related

@@ -52,3 +52,5 @@ Subgroup analysis by LLM type across the 36 included studies (GPT-4 n=30, GPT-3.
 - [Subgroup analyses show significant between-model differences, with Copilot (75.25%) and ChatGPT-4 (72.97%) achieving the highest pooled accuracies](llm-subgroup-copilot-chatgpt4-highest-accuracy.md) — related
 - [No significant difference in accuracy between ChatGPT 3.5 and Bard 1.0 generated MCQs](chatgpt-35-bard-accuracy-no-difference.md) — related
 - [ChatGPT-4.0 outperforms ChatGPT-3.5 in medical licensing exams, achieving a pooled accuracy of 81.8% versus 60.8%](chatgpt-4-pooled-accuracy-818-percent-licensing-exams.md) — possibly the same claim (merge candidate)
+- [Bard achieves an integrated accuracy of 56% on dental licensing examinations](bard-integrated-accuracy-56-percent-dental-licensing.md) — reports the opposite
+- [GPT-4 outperforms GPT-3.5 and Bard on dental licensing examinations, achieving an integrated accuracy of 72%](gpt-4-outperforms-gpt-3-5-and-bard-dental-licensing-accuracy.md) — related

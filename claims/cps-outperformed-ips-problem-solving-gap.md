@@ -54,3 +54,4 @@ The editorial reports, citing Guo, She, Chen and Tsai, a study contrasting onlin
 - [Collaborative problem-solving students significantly outperformed individual problem-solving students on the electromagnetism problem-solving posttest](cps-outperformed-ips-on-epst-posttest.md) — possibly the same claim (merge candidate)
 - [Online problem-solving solution performance predicted students' posttest performance on both the concept test and problem-solving test](online-ps-solutions-predict-posttests.md) — related
 - [In CPS dialogues, low-achievers requested more support while high-achievers provided more support and reminders, though group differences were not statistically significant](cps-dialogue-support-patterns.md) — related
+- [TBL benefits on scores differ by academic standing: high achievers gain more while low achievers may benefit less in problem-solving](tbl-benefits-vary-by-academic-standing.md) — reports the opposite

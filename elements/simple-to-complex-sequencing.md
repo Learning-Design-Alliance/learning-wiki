@@ -13,7 +13,7 @@ generated:
 # Simple-to-complex sequencing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (9 for, 1 mixed, 1 against) · 13 studies (5 causal, 4 review, 2 theoretical, 1 associational, 1 qualitative), `q2`–`q3` · 1 of 13 report an effect size · 8 claims rest on one study
+> **Evidence** · 12 claims (10 for, 1 mixed, 1 against) · 14 studies (5 causal, 4 review, 2 theoretical, 1 quant-synthesis, 1 associational, 1 qualitative), `q2`–`q3` · 1 of 14 report an effect size · 9 claims rest on one study
 
 ## Description
 Simple-to-complex sequencing orders instruction so that learners first master basic, prerequisite concepts and skills before encountering more detailed, complex, or integrated ones. It is the default sequencing logic for subjects with cumulative knowledge structures — mathematics, languages, programming — where later content presupposes earlier content. The approach is central to [Elaboration Theory](../patterns/elaboration-theory.md), which prescribes starting with the simplest, most general representation of a topic (an "epitome") and progressively elaborating toward complexity.
@@ -57,6 +57,7 @@ Sequencing from simple to complex manages intrinsic cognitive load by ensuring t
 - [ICL ratings track the manipulated complexity sequence: increasing across units in the increasing condition and decreasing in the decreasing condition](../claims/icl-ratings-track-complexity-sequence.md) [+W]
 - [ECL ratings also follow the complexity sequence, rising in the increasing condition and falling in the decreasing condition, though ECL was not manipulated](../claims/ecl-ratings-follow-complexity-sequence.md) [+W]
 - [Activity order influences strategy adoption: starting with the easier Beer's Law Lab doubles the rate of moving to a systematic strategy on the second simulation](../claims/activity-order-influences-strategy-adoption.md) [+W]
+- [Stepwise task progression was reported in five of ten included studies and identified as important for skills training](../claims/stepwise-task-progression-in-dp-sbst.md) [+W]
 
 ## The evidence by question
 

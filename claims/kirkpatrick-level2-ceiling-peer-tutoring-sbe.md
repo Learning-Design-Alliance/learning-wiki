@@ -55,3 +55,5 @@ Review analysis of intervention outcomes by Kirkpatrick level across the include
 - [No included SDL studies measured Kirkpatrick Level 4 (patient/system) outcomes](sdl-no-kirkpatrick-level-4-outcomes.md) — related
 - [Self-assessed abilities are uncorrelated with actual performance measures, and Kirkpatrick level 1 is generally not recommended](self-assessment-uncorrelated-with-performance.md) — related
 - [Included wound care educational interventions showed positive effects on students' wound care knowledge and clinical skills, mainly via self-assessment](wound-care-interventions-improve-knowledge-skills-self-assessed.md) — related
+- All included studies performed outcome evaluations at the reaction and/or learning levels of Kirkpatrick's framework. — related
+- Fewer studies assessed Kirkpatrick level 3 behaviour and level 4 patient outcomes, and higher‐level feature combinations remain unclear — related

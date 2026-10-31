@@ -49,3 +49,4 @@ Learning-curve analysis of the capacity index (K = N*d') across ten training ses
 - [HD-tDCS facilitated and enhanced training-induced increases in frontal task-related theta, alpha, beta, and gamma power](tdcs-enhances-task-related-eeg-power-gains.md) — related
 - [Validation analyses find no generally reduced neural activity after mnemonic training, with increased alpha power uncorrelated with memory gains](no-processing-efficiency-neural-evidence.md) — related
 - [Alpha neurofeedback training improves visual working memory capacity measured by the Corsi-block tapping task, with an effect lasting seven days after training ends](alpha-nf-improves-corsi-capacity.md) — related
+- [Control groups in DP-informed SBST studies also improved but reached performance plateaus earlier and at lower competency levels](dp-sbst-control-groups-plateau-earlier-lower.md) — related

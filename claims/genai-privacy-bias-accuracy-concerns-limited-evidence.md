@@ -79,3 +79,4 @@ The review reports that participants in Scala et al.'s experiment felt the AI "r
 - [Capacity building on AIED ethics covers 41% of studies, yet only four of 42 training studies assessed impact, and ethics training is largely absent](aied-ethics-capacity-building-gap.md) — related
 - [IDs raised data security, privacy, authorship, ownership, and plagiarism concerns, noting a lack of guidelines and policies for ethical GenAI use](genai-data-security-authorship-policy-gaps.md) — related
 - [Students broadly endorse LLMs as educational aids (74% positive) while 61% raise integrity concerns, 59% cite hallucination risk, and 82% report no institutional guidance](student-llm-perceptions-no-guidance-majority.md) — related
+- [Ethical and legal considerations were emphasized by 71% of included studies on AI competencies for health professionals](ethical-legal-considerations-71-percent-studies.md) — related

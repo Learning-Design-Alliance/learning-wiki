@@ -55,3 +55,4 @@ Same Mann–Whitney U analysis of standardised SRL proxy scores across the five 
 - [Post-experimental questionnaire ratings favoured MT-ITS numerically but the differences between conditions were not significant](mt-its-questionnaire-ratings-not-significant.md) — related
 - [Low-SRL students receiving GenAI feedback scored higher than tutor-feedback peers on LMS log measures of goal setting](genai-feedback-improves-low-srl-goal-setting.md) — reports the opposite
 - [No significant feedback-source differences were observed among high-SRL cluster students](no-genai-tutor-difference-high-srl-cluster.md) — related
+- [Goal setting and time management skills are important drivers for improving the student learning experience of SDL](goal-setting-time-management-sdl-drivers.md) — related

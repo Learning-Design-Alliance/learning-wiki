@@ -69,3 +69,4 @@ Descriptive contrast between the two most common duration types in Table 3 (60 m
 - [Peer-led learning is associated with higher post-secondary cognitive achievement than non-peer-led learning, with a moderate pooled effect of g = 0.36](pll-moderate-positive-effect-cognitive-achievement.md) — related
 - [No dose-response effect: video benefits do not systematically increase with intervention length](no-dose-response-video-duration.md) — a broader claim this one bears on
 - [Simulations shorter than 800 minutes show larger effects than simulations of 800 minutes or more](simulation-duration-under-800-minutes-larger-effects.md) — related
+- [Video review sessions impose substantial time costs, with review sessions lasting roughly 30–90 minutes, and monetary costs are rarely reported](video-review-time-cost-sessions.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-31
 sources:
   - id: gonzález-sanz-a-2026
     resource: "https://doi.org/10.2196/87898"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` No statistically significant differences were found between live and VR simulation in teamwork and communication skill development, with VR showing higher follow-up ISVS scores. [→ González-Sanz A 2026](#gonzalez-sanz-a-2026)
@@ -55,3 +56,5 @@ RCT comparing immersive VR with conventional live simulation in 120 medical and 
 - [Immersion principle: people do not necessarily learn better in 3D immersive virtual reality than with a corresponding 2D desktop presentation (d = -0.10 across 9 tests)](immersion-principle-no-vr-benefit.md) — a broader claim this one bears on
 - [PBL structured steps develop teamwork and communication skills in OB/GYN students](pbl-teamwork-communication-skills-obgyn.md) — related
 - [VR-based nurse-physician communication team training is non-inferior to live simulation for communication performance and improves interprofessional attitudes](vr-noninferior-live-simulation-team-communication.md) — possibly the same claim (merge candidate)
+- [Online CBT training satisfaction was noninferior to in-person training](online-cbt-training-noninferior-satisfaction.md) — related
+- [Immersive VR tracheostomy training reduced anxiety more than regular training at follow-up](vr-tracheostomy-training-reduced-anxiety.md) — related

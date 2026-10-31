@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-10-31
 sources:
   - id: shaban-eman-e-2025
     resource: "https://doi.org/10.1186/s12909-025-08103-9"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-31 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` ECE significantly improves the clinical skills of medical students compared to the traditional teaching method. [→ Shaban Eman E. 2025](#shaban-eman-e-2025)
@@ -70,3 +71,7 @@ Quasi-experimental study synthesized narratively: ECE-group students had "signif
 - [Early clinical exposure increases medical knowledge test scores and motivates learning](ece-improves-knowledge-motivation.md) — related
 - [All three ECE modalities show significant positive effects, with real clinical interactions showing the largest pooled effect](ece-types-subgroup-effects.md) — related
 - [ECE improves theoretical knowledge, clinical practice performance and self-efficacy, with the largest effect on self-efficacy](ece-competency-domain-effects.md) — related
+- [Early clinical exposure in undergraduate dental education shows evidence of effectiveness in knowledge, psychomotor skills, and affective domains](ece-dental-effectiveness-cognitive-psychomotor-affective.md) — related
+- [Early preclinical exposure group outperformed late exposure group on theory, OSCE communication, and empathy measures](epce-higher-theory-osce-empathy-scores.md) — a narrower finding that bears on this claim
+- [Peer-assisted ECE produced higher post-test knowledge and OSPE scores than faculty-assisted ECE in one randomized trial](peer-assisted-ece-higher-post-test-ospe.md) — a narrower finding that bears on this claim
+- [The one pretest-post-test study (Li B et al.) found significant score improvement after ophthalmology teaching (p < 0.01)](pretest-posttest-significant-improvement-li-b.md) — a narrower finding that bears on this claim

@@ -50,3 +50,4 @@ Qualitative content analysis with an inductive approach applied to verbatim stat
 - [Multimedia design was a frequently reported facilitator, and one study found e-modules with more sophisticated visual and interactive features led to stronger learning outcomes](multimedia-design-facilitator-sophisticated-features.md) — a narrower finding that bears on this claim
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [Lack of physical interaction between students, peers, and educators was reported as a disadvantage of digital learning, and blended approaches were identified as a possible solution](physical-interaction-loss-blended-solution.md) — related
+- Most included studies used quasi-experimental pretest/posttest designs, and online delivery was the predominant mode of instruction — related

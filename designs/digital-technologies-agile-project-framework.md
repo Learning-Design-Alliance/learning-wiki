@@ -50,6 +50,7 @@ The article proposes a project-based learning framework in which students work i
 - [AI-driven talent cultivation reform framework with five interconnected components](ai-driven-talent-cultivation-reform-framework.md)
 - [ROS-based disassembly station with two robots and conveyor belts as the project hardware platform](ros-disassembly-station-two-robots-conveyors.md)
 - [Authentic learning environment framework for cultivating digital innovation skills](authentic-learning-digital-innovation-framework.md)
+- [Seven-module progressive course structure with longitudinal manuscript preparation](seven-module-progressive-srma-course-structure.md)
 
 ## Examples
 -

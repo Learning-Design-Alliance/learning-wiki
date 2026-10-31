@@ -47,3 +47,4 @@ Study with 210 second-year clinical medical students using a GenAI Virtual Stand
 ## Related Claims
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related
 - [The largest checklist-item gain from multi-agent scaffolding was in observable empathic expression, with additional gains in selected history-taking items](empathy-checklist-item-largest-gain.md) — related
+- [Clinical reasoning facilitation employs both analytical and non-analytical thinking approaches](analytical-non-analytical-clinical-reasoning-facilitation.md) — related

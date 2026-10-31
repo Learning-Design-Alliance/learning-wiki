@@ -62,3 +62,4 @@ Item-level results from the same cross-sectional parent survey in Nablus. Barrie
 - [Family engagement programs can integrate mathematical thinking and activities across a range of settings](family-engagement-programs-can-integrate-early-math.md) — related
 - [Sync feature uptake declined between survey and interview, with non-users citing unawareness, technical difficulties, or single-device viewing](splash-bubbles-sync-feature-uptake-and-barriers.md) — related
 - [Pre-study survey found most art teachers spend 1-3 hours daily planning and struggle to integrate and assess teaching resources across platforms](art-teachers-resource-integration-challenges-prestudy.md) — related
+- [Learning spaces are positively perceived and well accepted by the educational community, with benefits outweighing barriers](alc-positive-community-perceptions.md) — related

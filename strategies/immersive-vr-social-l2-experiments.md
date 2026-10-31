@@ -54,6 +54,7 @@ The review recommends immersive head-mounted-display VR as a methodological brid
 - [Virtual Reality Immersive Training](virtual-reality-immersive-training.md)
 - [Virtual Embodiment](virtual_embodiment.md)
 - [Use interactive VR to study cognition under realistic, controlled boundary conditions](vr-interactive-cognition-research-strategy.md)
+- [Prefer mixed reality with hand tracking over head-mounted-display controllers for gesture-simulation training](mr-hand-tracking-over-hmd-controllers.md)
 
 ## Examples
 -

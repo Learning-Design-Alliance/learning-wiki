@@ -52,3 +52,5 @@ The review identifies a critical evidence gap: almost none of the included studi
 - [Evidence on transfer to clinical behavior and patient outcomes is scarce: only 2 studies reached Kirkpatrick level 3 and 1 reached level 4](transfer-and-patient-outcomes-scarce.md) — a broader claim this one bears on
 - [AI-powered simulations show short-term gains in communication confidence and structured knowledge in RCTs, with limited or inferior effects for tactile psychomotor skills](ai-simulation-short-term-gains-nursing.md) — related
 - [MPathic-VR-trained students achieve significantly higher composite scores than computer-based learning students on a subsequent advanced communication OSCE, several days later](mpathic-vr-osce-composite-transfer.md) — reports the opposite
+- [Evidence for transfer of simulation training to operating-room outcomes was sparse in neuro-oncological simulation research](sparse-transfer-evidence-simulation-to-or.md) — related
+- [Most VR assessments occur at Miller's performance level, with the action level absent](vr-assessments-mostly-performance-level-miller.md) — related

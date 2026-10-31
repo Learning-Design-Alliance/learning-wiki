@@ -134,3 +134,4 @@ A registered systematic review of single (acute) bouts of classroom movement bre
 - [Evidence on selective attention from classroom physical activity breaks is inconclusive, with one study reporting a negative effect](pa-breaks-selective-attention-inconclusive.md) — related
 - [Classroom physical activity breaks show strong evidence of improving sustained attention in university students](pa-breaks-sustained-attention-university-strong-evidence.md) — related
 - [Performance in mathematics tests significantly improved after school-based physical activity interventions compared with control groups](pa-interventions-improve-math-performance.md) — related
+- [ALCs increase engagement in learning across studies, with no consistent detriment to academic performance](alc-engagement-increased.md) — related

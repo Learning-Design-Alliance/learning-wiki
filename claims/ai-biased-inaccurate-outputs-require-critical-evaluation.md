@@ -9,6 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-10-31
 recheck_by: 2029
 sources:
   - id: hoppe-t-2026
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Because teachers bear responsibility for pedagogical decisions made with AI support, and AI systems can produce biased or factually incorrect results, teachers must critically assess AI-generated diagnostic outputs before integrating them. [→ Hoppe T 2026](#hoppe-t-2026)

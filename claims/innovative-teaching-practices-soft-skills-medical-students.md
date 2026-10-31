@@ -82,3 +82,4 @@ Results-section synthesis describing narrative medicine as an approach that "has
 - [Student-centered innovative strategies (PBL, EBL, simulation, TBL, blended and online learning) showed positive effects in pharmaceutical care learning](innovative-strategies-positive-effects-pharmaceutical-care.md) — related
 - [Simulation increases participants' empathy, communication and interpersonal skills and decreases anxiety](simulation-increases-empathy-communication-skills.md) — a narrower finding that bears on this claim
 - [Virtual patient interventions improved medical students' empathy in all 19 included studies, with effects reported immediately after intervention in 17 studies](vp-interventions-empathy-improvements-all-19-studies.md) — a narrower finding that bears on this claim
+- [Clinical placement experiences, including early placement and patient interactions, enhance SDL](clinical-placement-enhances-sdl.md) — related

@@ -59,3 +59,7 @@ Narrative review assertion attributed to the included primary studies (Moliterno
 - [High-fidelity simulation improved pharmacology learning and retention compared to low-fidelity and sham groups](high-fidelity-simulation-improves-pharmacology-retention.md) — related
 - [Traditional learning outperformed e-learning in studies where mannequin-based simulation was the traditional modality](mannequin-simulation-outperformed-e-learning.md) — related
 - [Simulation type–outcome alignment: high-fidelity formats favour judgment and decision-making, VR and games favour empathy and reflection](simulation-type-outcome-alignment.md) — a broader claim this one bears on
+- [Providing clinical cases is the primary method to enhance students' clinical reasoning](clinical-cases-primary-method-clinical-reasoning.md) — reports the opposite
+- [Very high majorities of students rated high-fidelity simulation as enhancing learning, clinical reasoning, decision-making, and value](coffey-hfs-student-ratings.md) — related
+- [The included studies do not reflect which intervention is better or which favours the acquisition and retention of knowledge more effectively.](studies-do-not-reflect-which-intervention-is-better.md) — reports the opposite
+- [Immersive VR assessments of nursing and medical students are concentrated in settings that are difficult to replicate, especially emergencies](vr-assessments-concentrated-in-difficult-to-replicate-emergency-settings.md) — related

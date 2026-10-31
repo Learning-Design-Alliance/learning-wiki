@@ -58,3 +58,4 @@ Descriptive three-level base model (Table 1, n = 740) estimating variances and m
 - [Clique members are more similar in academic achievement than classroom members (ICC 0.33 vs. 0.17), offering preliminary support for the similarity criterion](clique-icc-greater-similarity-than-classroom.md) — related
 - [From Grade 9 to Grade 11, self-enhancement increased on average while self-concept and achievement decreased](grade9-11-trends-enhancement-up-concept-achievement-down.md) — related
 - [Academic self-concept levels are relatively high and stable from fourth to sixth grade of elementary school](asc-stable-fourth-to-sixth-grade.md) — related
+- [All four studies measuring attendance within one academic year found a statistically significant decline across the year](within-year-attendance-decline.md) — related

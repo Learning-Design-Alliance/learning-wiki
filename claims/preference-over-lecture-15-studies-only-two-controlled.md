@@ -53,3 +53,5 @@ Review synthesis of preference data across the 22 included studies; the preferen
 - [Systematic review finds positive student satisfaction with PBL in OB/GYN education](pbl-positive-student-satisfaction-obgyn.md) — related
 - [TBL in medical ethics education improves knowledge retention compared to lectures](tbl-improves-ethics-knowledge-retention.md) — related
 - [Team-based learning showed significantly higher performance than traditional learning in one included study](tbl-significantly-higher-performance-hossain.md) — related
+- [PBL is associated with improved trainee satisfaction in PGME (8 of 12 reaction studies reported high satisfaction)](pbl-improves-resident-satisfaction.md) — related
+- [Reported rheumatology teaching methods include lectures, PBL, inpatient service, shadowing, electives and patient educators](rheumatology-teaching-methods-included-studies.md) — related

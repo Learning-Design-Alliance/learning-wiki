@@ -55,3 +55,5 @@ Random‐effects proportional meta‐analysis of 41 articles comprising 207 prop
 - [Direct comparisons confirm ChatGPT-4 significantly outperformed earlier versions and some competitor models on dental examination questions](chatgpt4-outperforms-earlier-versions-dental-questions.md) — a narrower finding that bears on this claim
 - [Studies using both text- and image-based questions show higher pooled LLM accuracy (78%) than text-only studies (71%)](multimodal-questions-higher-llm-accuracy.md) — related
 - [Newer LLM versions generally outperformed older versions on dental examination questions](newer-llms-outperform-older-dental-exams.md) — a narrower finding that bears on this claim
+- [GPT-3.5 achieves an integrated accuracy of 54% on dental licensing examinations](gpt-3-5-integrated-accuracy-54-percent-dental-licensing.md) — related
+- [LLMs perform worse on dental licensing examinations than on medical licensing examinations](llms-perform-worse-dental-than-medical-licensing-exams.md) — related

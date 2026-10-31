@@ -50,3 +50,4 @@ Pooled continuous outcomes from six RCTs: screw penetration distance "MD − 1.0
 - [VR simulator training reduces minor cortical breaches (Grade II placements) in pedicle screw insertion](vr-training-reduces-grade-ii-pedicle-breaches.md) — related
 - [High authenticity simulations show higher effects than low authenticity simulations](high-authenticity-simulations-higher-effects.md) — a broader claim this one bears on
 - [VR simulation training improves orthopaedic trainees' technical proficiency and shortens operative times](vr-simulation-improves-ortho-technical-proficiency.md) — a broader claim this one bears on
+- [In thyroid surgery training, simulation and virtual-reality training improved technical performance and task completion time, and simulators were rated as realistic](simulation-vr-improves-thyroid-surgery-technical-performance.md) — related

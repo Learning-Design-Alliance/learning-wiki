@@ -60,3 +60,4 @@ Qualitative evaluation of the VCP rubric used for developmental purposes only fr
 - Global-judgment criteria of counselor effectiveness lack clarity, making replication fruitless and the research unproductive — related
 - [By the final assessment, 82% of artefacts demonstrated mapping between content descriptors, assessment tasks, and success criteria aligned with AITSL Graduate Standards 2.1, 2.2, and 3.2](artefact-pedagogical-alignment-improvement.md) — related
 - Learning-community research suffers from unclear and inconsistent definitions of community — related
+- [Training reviewers and using rubrics reduces inconsistent evaluation and bias in CBA/HA](reviewer-training-rubrics-reduce-bias.md) — related

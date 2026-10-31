@@ -67,3 +67,4 @@ Same sentiment regression analysis of the implicit condition: several behavioral
 ## Related Claims
 - [Implicit demographic cues produce larger and less predictable effects in open-ended tasks, including longer responses for laptop users and education-related length effects](implicit-cues-unpredictable-effects-open-ended-tasks.md) — related
 - [Explicitly mentioned education and SES cues lead most models to produce less readable responses for higher-education users, showing partial readability adaptation](explicit-education-cues-readability-adaptation.md) — related
+- [Training reviewers and using rubrics reduces inconsistent evaluation and bias in CBA/HA](reviewer-training-rubrics-reduce-bias.md) — related

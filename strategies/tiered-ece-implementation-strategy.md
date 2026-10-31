@@ -60,6 +60,8 @@ The authors recommend a sequenced implementation model: "It is recommended to ac
 - [Use structured training pathways with supervised early practice and experience-informed patient counselling in hip arthroscopy](structured-training-pathways-hip-arthroscopy.md)
 - [Use chatbot standardised patients combined with CBL to address limitations of traditional SP approaches.](chatbot-sp-cbl-strategy.md)
 - [Use virtual simulations to enhance cognitive learning while prioritizing in-person laboratory sessions for psychomotor and technical skills](virtual-simulations-cognitive-in-person-psychomotor.md)
+- [Integrate ECE into dental curricula through hybrid models balancing simulation and real patient contact](hybrid-ece-curriculum-integration-strategy.md)
+- [Use simulation and virtual reality to train nurse managers' decision-making competency](simulation-vr-training-nurse-manager-decision-making.md)
 
 ## Examples
 -

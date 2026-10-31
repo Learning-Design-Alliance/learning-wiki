@@ -47,6 +47,7 @@ The report organizes inclusive computing pedagogy into three categories. As prin
 ## Examples
 
 - [Use empathy interviews with students to identify and address systemic inequities in computing participation](../strategies/empathy-interviews-inclusive-computing-pathways.md)
+- [Utilizing an inclusive pedagogy framework may prove advantageous in generating inclusive teaching approaches to support all students](../strategies/utilize-inclusive-pedagogy-framework-for-inclusive-teaching.md)
 
 ## Key Sources
 - Mills, K., Coenraad, M., Ruiz, P., Burke, Q., & Weisgrau J. (2021, December). Computational thinking for an inclusive world: A resource for educators to learn and lead. Digital Promise. https://doi.org/10.51388/20.500.12265/138

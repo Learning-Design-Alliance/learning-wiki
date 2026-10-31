@@ -78,3 +78,4 @@ Qualitative Delphi data from the South African panel; the article reports this l
 - [Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households](covid-stem-tech-access-inequity.md) — related
 - [Teachers and stakeholders centred their views of ICT's role on first-order barriers of resources and students](ict-role-first-order-resources-students.md) — related
 - [Design features such as straightforward access, mobile-ready platforms, self-paced modular formats, and scenario-based content are reported facilitators of e-learning implementation](e-learning-design-features-facilitators-accessibility-self-paced-scenario.md) — related
+- [Internet access and trust in information are the main barriers to caregiver self-directed learning via mobile health](internet-access-and-trust-barriers-caregiver-self-directed-learning.md) — related

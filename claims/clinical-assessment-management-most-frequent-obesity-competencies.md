@@ -48,3 +48,6 @@ Frequency analysis across the 22 included papers found "The most frequently repo
 - [Competencies in overarching domains (communication, professionalism) were more consistent across disciplines than clinical domains](cross-discipline-competency-convergence-communication-professionalism.md) — related
 - [Geriatric core competencies for physicians, medical students, and nurses most frequently cover disease and comorbidities, pharmacologic/medication management, and cognitive/dementia problems](most-frequent-geriatric-competencies-disease-medication-cognition.md) — related
 - [Scoping review of obesity competency literature identifies competencies spanning eleven key domains](obesity-competencies-eleven-domains-scoping-review.md) — a broader claim this one bears on
+- Interviews are the most frequently cited method for assessing competencies in CBA and HA — related
+- [Professional values and ethics are the most frequently reported characteristic of nurse managers' decision-making competency](professional-values-ethics-most-frequent-decision-making-characteristic.md) — related
+- [Sixteen studies support clinical specialized knowledge as a core nurse competency for biologics management](sixteen-studies-clinical-specialized-knowledge-competency.md) — related

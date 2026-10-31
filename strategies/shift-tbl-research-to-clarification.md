@@ -46,7 +46,8 @@ The review recommends that future TBL research "must shift from its carousel of 
 - [The review warns that uncritical adoption of TBL may transport rather than translate the method into settings where it is not fit-for-purpose](../claims/tbl-uncritical-adoption-risk.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Implement TBL with dedicated teaching teams, systematic teacher training, and diversified assessment](tbl-implementation-strategy-dedicated-teams.md)
 
 ## Examples
 -

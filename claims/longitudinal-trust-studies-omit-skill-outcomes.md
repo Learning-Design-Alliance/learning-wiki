@@ -50,3 +50,4 @@ Theoretical argument in Section 5 reviewing longitudinal studies: Kahr et al. on
 - [A systematic review reports that over-reliance on AI dialogue systems fosters complacency and dependency and may weaken students' decision-making](ai-overreliance-impairs-decision-making.md) — related
 - [AI support can improve task performance while weakening users' metacognitive accuracy and leaving their own reasoning unimproved](ai-performance-metacognition-dissociation.md) — related
 - [AI systems relying on black-box models should not be used for high-stakes applications](black-box-ai-not-for-high-stakes-applications.md) — related
+- [More longitudinal studies are needed to see if the effects are maintained over time.](more-longitudinal-studies-needed-to-see-if-effects-maintained.md) — related

@@ -47,3 +47,4 @@ Review reports Kusnoor et al. 2022 randomised parallel trial: "No difference bet
 ## Related Claims
 - [Longitudinal, integrated RaT programs produce more durable teaching skill gains than brief stand-alone workshops](longitudinal-rat-programs-durable-gains.md) — related
 - [Lecture-based and 4C/ID-based training produced comparable knowledge retention among emergency care professionals](no-knowledge-difference-lecture-vs-4cid-consent-training.md) — related
+- [Peer-assisted ECE produced higher post-test knowledge and OSPE scores than faculty-assisted ECE in one randomized trial](peer-assisted-ece-higher-post-test-ospe.md) — related

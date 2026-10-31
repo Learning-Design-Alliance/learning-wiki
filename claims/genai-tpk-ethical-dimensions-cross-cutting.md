@@ -57,3 +57,4 @@ Thematic cross-case synthesis of 17 peer-reviewed studies (2022–2025) on teach
 - [AI governance vocabulary (bias, transparency, privacy, accountability, regulation, fairness) is a structural zero in students' AI associative networks](structural-zero-ai-governance-vocabulary.md) — related
 - [When students raised ethics in essays, concerns concerned authorship and integrity rather than privacy or data](essay-ethics-concerns-authorship-integrity.md) — related
 - [Existing legal and sector guidance each address only part of ethical learning analytics governance, and none integrates all six LEAGUE dimensions](existing-guidance-partial-ethical-coverage.md) — related
+- [Ethical and legal considerations were emphasized by 71% of included studies on AI competencies for health professionals](ethical-legal-considerations-71-percent-studies.md) — a narrower finding that bears on this claim

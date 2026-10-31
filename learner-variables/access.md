@@ -13,7 +13,7 @@ generated:
 # Access
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 85 claims (58 show a difference, 21 mixed, 6 no difference) · 63 studies (29 associational, 9 review, 7 qualitative, 6 theoretical, 5 causal, 5 design, 2 quant-synthesis), `q1`–`q4` · 5 of 63 report an effect size · 81 claims rest on one study
+> **Evidence** · 87 claims (60 show a difference, 21 mixed, 6 no difference) · 65 studies (29 associational, 11 review, 7 qualitative, 6 theoretical, 5 causal, 5 design, 2 quant-synthesis), `q1`–`q4` · 5 of 65 report an effect size · 83 claims rest on one study
 
 ## Description
 Whether a learner can perceive and operate the material at all: device, bandwidth, screen reader, captions, motor demands. Distinct from [digital literacy](digital-literacy.md), which is whether they can *drive* it. Access is binary in a way the other dimensions are not — a design that cannot be perceived does not teach less, it teaches nothing — which is why it is checked rather than optimised.
@@ -129,6 +129,8 @@ Whether a learner can perceive and operate the material at all: device, bandwidt
 - [Frequent map users showed higher orientation and access ratios, yet orientation and access remained the weakest performance ratios](../claims/map-use-orientation-access-correlations.md) [~M] — instruction changes it
 - [Children's access to tablet apps at home is positively associated with print knowledge](../claims/tablet-app-access-positively-associated-print-knowledge.md) [+W] — learners who differ on it differ in outcomes
 - [The review finds digital environments produce disparate, even counterproductive effects during abrupt transitions and in low-resource communities](../claims/abrupt-transition-disparate-counterproductive-effects.md) [~M] — an instructional effect differs with it
+- [Internet access and trust in information are the main barriers to caregiver self-directed learning via mobile health](../claims/internet-access-and-trust-barriers-caregiver-self-directed-learning.md) [+M] — learners who differ on it differ in outcomes
+- [Students experienced technical challenges, internet issues and navigation issues during engagement with online simulation approaches](../claims/students-experienced-technical-internet-navigation-issues.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

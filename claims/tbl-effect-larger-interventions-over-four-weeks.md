@@ -50,3 +50,4 @@ Subgroup analysis of theoretical knowledge scores by intervention duration; the 
 - [TBL is associated with higher practical skill scores than LBL in Chinese neurology education (SMD = 1.72)](tbl-higher-practical-skill-scores-neurology-china.md) — related
 - [TBL is associated with higher theoretical knowledge scores than LBL in Chinese neurology education (SMD = 1.16)](tbl-higher-theoretical-knowledge-scores-neurology-china.md) — related
 - [Short-duration (<24 weeks) interventions positively impact reading comprehension (SMD = 0.24)](short-duration-interventions-improve-reading-comprehension.md) — related
+- [Both Chinese and Western students benefit from TBL, with Western students showing larger score improvements](tbl-benefits-chinese-and-western-students.md) — related

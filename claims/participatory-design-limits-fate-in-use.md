@@ -48,3 +48,4 @@ Theoretical argument from the Current Landscape of FATE in AIEd section. The aut
 - [FATE issues in AIEd present themselves when users gain ownership and adapt systems to their local contexts](ownership-process-surfaces-fate-issues.md) — related
 - [Participatory design yields teacher ownership but carries tradeoffs and omits the learner](participatory-design-ownership-tradeoffs.md) — possibly the same claim (merge candidate)
 - [Waterfall-like design spaces are inadequate for AIEd because adaptable systems have untestable states](waterfall-design-inadequate-for-aied.md) — related
+- [The inclusion of students in the design of online simulation approaches is limited to one participatory co‐design approach](student-co-design-limited-to-one-study.md) — related

@@ -51,3 +51,4 @@ The review reports that the evidence base for reflection-promoting curricular in
 - [Reflective capacity is regarded by many as an essential characteristic of professional competence in the health professions](reflective-capacity-essential-professional-competence.md) — related
 - [Individual active participation in learning interventions promotes the development of relational competence in mental health education of healthcare professionals](individual-active-participation-promotes-relational-competence.md) — related
 - [Writing therapeutic letters promotes reflection and relational competence only when approached as a developing activity](therapeutic-letters-promote-reflection-if-developing-activity.md) — related
+- [The included studies do not reflect which intervention is better or which favours the acquisition and retention of knowledge more effectively.](studies-do-not-reflect-which-intervention-is-better.md) — related

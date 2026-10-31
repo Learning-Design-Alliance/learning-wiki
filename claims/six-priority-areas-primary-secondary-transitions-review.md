@@ -51,3 +51,4 @@ Systematic literature review (Study 1), pre-registered with PROSPERO, synthesisi
 - [Bridging projects that provide exposure to secondary school teachers and environments during Year 6, with continuity into Year 7, appeared effective in easing transitions](bridging-projects-ease-transitions.md) — a narrower finding that bears on this claim
 - [Transitioning to secondary school alongside primary school peers helped children settle, while transitioning without peers could lead to difficult transitions](transitioning-with-peers-helps-settling.md) — related
 - Discourse about primary-secondary school transitions in the literature is predominantly negative, with only 2% of studies using a predominantly positive discourse — related
+- Most included systematic reviews span multiple education levels and school subjects, with few focusing specifically on primary, middle, or secondary school. — related

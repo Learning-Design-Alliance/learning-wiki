@@ -80,3 +80,4 @@ A textbook chapter by a co-author of the *Survey of Instructional Design Models*
 - [No systematic evaluation exists of the ICAP hypothesis that engagement modes are ordered I > C > A > P in effectiveness](no-systematic-evaluation-icap-hierarchy.md) — a narrower finding that bears on this claim
 - Standard empirical review criteria are not relevant to theoretical scholarship and may lead reviewers to reject it — related
 - [Empirical research on university teachers' habitual design practices is sparse; interview studies show design thought shaped by beliefs and pragmatic constraints](sparse-research-teacher-design-practices.md) — related
+- Reporting of the validity source consequences is largely absent from identified assessment studies — a narrower finding that bears on this claim

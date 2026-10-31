@@ -43,6 +43,7 @@ When extending TBL to a new program, the authors made three changes: reduced the
 ## Related Strategies
 
 - [Frequent, Low-Stakes Quizzes](frequent-low-stakes-quizzes.md)
+- [Implement TBL with dedicated teaching teams, systematic teacher training, and diversified assessment](tbl-implementation-strategy-dedicated-teams.md)
 
 ## Examples
 -

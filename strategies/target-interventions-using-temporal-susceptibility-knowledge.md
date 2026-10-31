@@ -49,7 +49,8 @@ The review argues that identifying when and for how long children are susceptibl
 - [Most longitudinal studies of childhood social and economic circumstances find evidence that temporality (duration, timing, or mobility of exposure) relates to educational and cognitive outcomes](../claims/temporality-evidence-88-percent-longitudinal-studies.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Interventions targeting cognitive stimulation may help reduce SES-related cognitive and educational disparities](cognitive-stimulation-interventions-disadvantaged.md)
 
 ## Examples
 -

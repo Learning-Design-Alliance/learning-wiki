@@ -54,3 +54,4 @@ Meta-analytic moderator analyses across the 32 pooled effect sizes examined agen
 - [Pedagogical agents significantly improve learners' self-efficacy expectations (g = 0.29), with effects moderated by grade level, facial expressions, and reliability reporting](pa-improve-self-efficacy-expectations.md) — reports the opposite
 - [Learning with multimedia pedagogical agents is more effective than learning without these agents, with a small overall effect (g+ = 0.20)](pedagogical-agents-small-overall-learning-benefit.md) — related
 - [Specific pointing by pedagogical agents was more effective than nonspecific pointing, which beat non-pointing gestures (review attributes this to Li et al., 2019)](specific-pointing-signaling-more-effective.md) — reports the opposite
+- [Signalling, integrated pictures and words, and pedagogical agents probably improve learning outcomes.](signalling-integrated-pictures-and-pedagogical-agents-probably-improve-learning.md) — related

@@ -50,3 +50,6 @@ Funnel plot analysis and Egger's test for theoretical knowledge outcomes reveale
 - [SP+CBL pedagogy significantly improves theoretical knowledge achievement compared with LBL in Chinese clinical education.](sp-cbl-improves-theoretical-knowledge.md) — related
 - [Funnel-plot asymmetry ran contrary to small-study effects because larger-sample studies reported larger effect sizes, likely reflecting longer training programs](funnel-asymmetry-contrary-to-small-study-effects.md) — related
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](srl-meta-analysis-publication-bias-absent.md) — reports the opposite
+- No publication bias detected across included studies in the TBL-LBL meta-analysis — related
+- Publication bias is absent for theoretical scores but present for clinical analysis skills — related
+- Publication bias is present in studies of theoretical scores comparing 3D + PBL with LBL — related

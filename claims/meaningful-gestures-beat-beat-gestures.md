@@ -54,3 +54,4 @@ The review reports, citing Beege et al. (2020), two experiments (N = 229, 80% fe
 - [Beat gestures of a human lecturer in an educational video do not significantly foster learning outcomes compared with a video without gestures](beat-gestures-do-not-foster-learning.md) — related
 - [Deictic gestures of a human lecturer in an educational video enhance retention performance compared with no gestures and with beat gestures](deictic-gestures-enhance-retention-educational-videos.md) — possibly the same claim (merge candidate)
 - [Air Anatomy hand gestures raised recall and applied-knowledge post-test scores, with the largest benefit for students of low to moderate spatial ability](air-anatomy-gestures-posttest-gains-low-spatial-ability.md) — related
+- [Signalling, integrated pictures and words, and pedagogical agents probably improve learning outcomes.](signalling-integrated-pictures-and-pedagogical-agents-probably-improve-learning.md) — a broader claim this one bears on

@@ -49,3 +49,4 @@ Scoping review screening of 1367 interventions from Carr et al.'s (2023) mega-an
 - [PPI mega-analysis of 198 meta-analyses shows small-to-medium post-intervention effects persisting after bias adjustments](ppi-mega-analysis-small-medium-effects.md) — related
 - [Changing activities during lessons improves student attention during the activity and subsequent lecture segments](activity-changes-improve-lesson-attention.md) — related
 - [Prior evidence-based reviews of classroom management identified 20 general practices falling into 5 broad categories meeting evidence-based criteria](classroom-management-20-practices-5-categories.md) — related
+- There is no evidence of public patient involvement in any of the reviewed studies — related

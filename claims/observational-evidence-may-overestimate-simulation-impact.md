@@ -49,3 +49,4 @@ Subgroup comparison within the review: most included studies were retrospective 
 - All included simulation-based research studies were judged to have high or critical risk of bias, and only 16 of 2481 screened studies met Level 4 inclusion criteria — related
 - [Simulation-based education increases post-registration nurses' odds of satisfactory observed delirium-care practice at 6 weeks in a cluster RCT](sbe-delirium-odds-satisfactory-practice-rct.md) — related
 - [Simulation-based education studies in pediatric and neonatal critical care more consistently report system-level process improvements (Level 4a) than significant direct patient-level outcome improvements (Level 4b)](sbe-system-process-outcomes-outweigh-patient-outcomes-pediatric-critical-care.md) — related
+- [NTS training in ICUs shows no significant changes in patient safety culture, length of stay or mortality rates](nts-training-icu-no-organizational-mortality-effect.md) — related

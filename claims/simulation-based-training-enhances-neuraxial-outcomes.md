@@ -50,3 +50,5 @@ The review's synthesis of 99 included studies reports that "simulation-based tra
 - [Self-assessed abilities are uncorrelated with actual performance measures, and Kirkpatrick level 1 is generally not recommended](self-assessment-uncorrelated-with-performance.md) — related
 - Most included studies were of low methodological quality, with only 22 of 99 rated high quality by MERSQI — related
 - [Skill retention after neuraxial technical training tends to decline over time](skill-retention-declines-after-neuraxial-training.md) — related
+- Most identified training and assessment studies are of low methodological quality — related
+- [Simulation training for ultrasound‐guided regional anaesthesia most often shows significant improvement at Kirkpatrick level 2 outcomes](usra-simulation-improves-kirkpatrick-level-2.md) — related

@@ -52,3 +52,4 @@ The primer attributes this benefits list to Chinn and Clark (2013), covering mot
 - [Argumentation Improves Reasoning](argumentation-improves-reasoning.md) — related
 - Collaboration scripts improve collaborative skills and domain learning, but highly prescriptive scripts can undermine learner motivation and agency — related
 - [Research on PBL covers flexible knowledge, problem-solving, and SDL skills but little on collaboration and motivation](pbl-evidence-uneven-across-goals.md) — related
+- [Peers have an essential role in promoting SDL through collaboration, motivation and support, though effects are mixed](peers-promote-sdl-collaboration-motivation.md) — related

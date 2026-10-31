@@ -75,3 +75,5 @@ Learner-group subgroup analysis for satisfaction (Fig. 6B): undergraduates SMD =
 - [Flipped classroom significantly improves practical exam scores over lecture-based learning (pooled SMD 0.50)](fc-practical-exam-smd-050.md) — related
 - [Flipped classroom has a moderately positive effect on college students' academic performance (SMD = 0.66)](flipped-classroom-moderate-positive-effect-college.md) — related
 - [Exploratory subgroup analysis suggests larger effects in practice courses than theory courses, driven by only 2 practice-oriented studies](llm-teaching-practice-course-subgroup-signal.md) — related
+- [Flipped classroom instruction is associated with higher final knowledge scores than traditional instruction in medical education (SMD 0.90).](flipped-classroom-higher-knowledge-scores-medical-education.md) — related
+- [Flipped classroom instruction is associated with higher student satisfaction than traditional instruction in medical education (SMD 0.82).](flipped-classroom-higher-student-satisfaction-medical-education.md) — possibly the same claim (merge candidate)

@@ -50,3 +50,4 @@ Qualitative subtheme on role extension; examples include a trainee adapting an O
 - [Specialty nurses and their managers describe clear role positioning and multidisciplinary support as facilitating training transfer](organizational-empowerment-enables-transfer.md) — related
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [CNTPs improve nurses' traits including psychological empowerment, job productivity, professional development and the affective dimension, though some effects fade at follow‐up](cntps-improve-nurse-traits-narrative.md) — related
+- [Consequences of clinical readiness include personal and job-related satisfactory outcomes](consequences-personal-job-related-outcomes.md) — related

@@ -45,6 +45,7 @@ Based on the finding that familiarity with commonly used tools contributes to DL
 
 - [Accommodate Varying Technology Experience](accommodate_varying_technology_experience.md)
 - [Use a phased unplugged-to-plugged progression to build girls' CT confidence before introducing digital tools](phased-unplugged-to-plugged-progression.md)
+- [Build an orientation activity into XR study designs and use multiple sessions to increase tool familiarity](xr-orientation-activity-multiple-sessions.md)
 
 ## Examples
 -

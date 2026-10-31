@@ -91,3 +91,4 @@ Thematic analysis of open-ended greatest-challenge responses found motivation, m
 - [Asynchronous video communication and feedback enhance social presence and helped sustain engagement and connections between socially isolated faculty and students during the COVID-19 shift online](asynchronous-video-enhances-social-presence-covid.md) — related
 - [Most countries adopted remote education combining digital platforms with television, radio, take-home packages, home visits, text messaging and phone calls, citing Dreesen et al. (2020)](remote-education-frugal-technology-mix-127-countries.md) — related
 - [Students report mixed social perceptions of DPBL, with some feeling isolated and others valuing the focused learning environment](dpbl-mixed-social-perceptions-isolation-focus.md) — related
+- [Peers have an essential role in promoting SDL through collaboration, motivation and support, though effects are mixed](peers-promote-sdl-collaboration-motivation.md) — related

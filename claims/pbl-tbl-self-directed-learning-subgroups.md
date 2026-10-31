@@ -50,3 +50,4 @@ Subgroup meta-analysis by teaching method for self-directed learning (Table 5). 
 - [CBL, PBL, and TBL each significantly improve nursing students' problem-solving abilities](cbl-pbl-tbl-problem-solving-subgroups.md) — related
 - [TBL significantly improves communication skills while PBL does not](tbl-significant-pbl-not-communication.md) — related
 - [TBL alone and TBL combined with other methods both outperform LBL, with no significant difference between the two TBL formats](tbl-alone-versus-blended-no-significant-difference.md) — related
+- [Cluster analysis identifies PBL + WeChat, TBL and CBL + WeChat as most promising for theoretical and practical performance with low dissatisfaction](cluster-analysis-pbl-wechat-tbl-cbl-wechat-most-promising.md) — related

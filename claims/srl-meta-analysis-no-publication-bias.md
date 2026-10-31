@@ -96,3 +96,7 @@ Publication-bias assessment of the 15 included studies using a funnel plot and E
 - Funnel plot and Egger's test show no statistical evidence of publication bias for the composite household-disadvantage selection effect — related
 - Sensitivity and publication-bias analyses support the robustness of the pooled accuracy estimate — related
 - No evidence of publication bias in the SDL meta-analysis — related
+- Funnel plots suggest low publication bias for score outcomes but possible small-sample bias for autonomous learning ability — related
+- No publication bias detected across included studies in the TBL-LBL meta-analysis — related
+- Publication bias tests found no statistically significant evidence of publication bias — related
+- Publication bias is present in the OSCE reliability literature, with funnel plot asymmetry detected by Egger's regression test (p < 0.001) — related

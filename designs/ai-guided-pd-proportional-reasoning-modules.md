@@ -45,6 +45,7 @@ The AI-guided PD comprised ten asynchronous modules completed across one academi
 ## Related Designs
 
 - [Social capital elements as design levers for online teacher professional development](social-capital-elements-online-pd-framework.md)
+- [Seven-module progressive course structure with longitudinal manuscript preparation](seven-module-progressive-srma-course-structure.md)
 
 ## Examples
 -

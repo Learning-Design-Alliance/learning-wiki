@@ -43,6 +43,7 @@ The article recommends additional teacher training in auditory processing disord
 ## Related Strategies
 
 - [Fund scheduled coplanning time and multidisciplinary team composition for pre-referral, assessment, and referral decisions](coplanning-time-multidisciplinary-teams-strategy.md)
+- [Adopt a dietitian–clinician co-teacher model and multidisciplinary teaching teams to clarify roles and increase appropriate referrals](dietitian-clinician-co-teacher-model.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ The report's review of the features-of-effective-coaching literature states ther
 - [Media comparison studies produce uninterpretable "no significant difference" findings.](media-comparison-studies-produce-uninterpretable-results.md) — related
 - [Frailty education is most effective when it combines practical strategies with online and face-to-face demonstrations or mentoring](blended-practical-frailty-education-effective.md) — a narrower finding that bears on this claim
 - [Face-to-face and non-face-to-face formats both improve attitudes, but virtual formats show inconsistent outcomes](virtual-dementia-learning-inconsistent-outcomes.md) — related
+- Most included studies used quasi-experimental pretest/posttest designs, and online delivery was the predominant mode of instruction — related

@@ -52,3 +52,5 @@ Random-effects meta-analysis of 27 studies (2995 students; 1787 ECE, 1211 contro
 - [Early clinical exposure is associated with higher empathy scores regardless of gender and academic year](ece-higher-empathy-scores.md) — related
 - [Early clinical exposure improves the clinical skills of medical students compared with traditional teaching](ece-improves-clinical-skills.md) — related
 - [Early clinical exposure increases medical knowledge test scores and motivates learning](ece-improves-knowledge-motivation.md) — related
+- [Early clinical exposure in undergraduate dental education shows evidence of effectiveness in knowledge, psychomotor skills, and affective domains](ece-dental-effectiveness-cognitive-psychomotor-affective.md) — related
+- [ECE reduces transition stress from preclinical to clinical training and supports smoother student transition](ece-reduces-transition-stress.md) — related

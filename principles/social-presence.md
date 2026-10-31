@@ -13,7 +13,7 @@ generated:
 # Social Presence
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 49 claims (33 for, 15 mixed, 1 against) · 39 studies (8 review, 7 causal, 7 associational, 7 qualitative, 5 design, 3 theoretical, 2 quant-synthesis), `q1`–`q3` · 5 of 39 report an effect size · 46 claims rest on one study
+> **Evidence** · 50 claims (34 for, 15 mixed, 1 against) · 40 studies (8 review, 7 causal, 7 associational, 7 qualitative, 6 design, 3 theoretical, 2 quant-synthesis), `q1`–`q3` · 5 of 40 report an effect size · 47 claims rest on one study
 
 ## Conditional relationship
 
@@ -125,6 +125,7 @@ Claims and sources this page touches that have not been read against the model a
 - [Opportunities for social interaction during online classes significantly predicted emotional engagement with online learning at both time points](../claims/social-interaction-predicts-emotional-engagement.md) [+W] — attached 2026-10-29 from Gherghel et al. (2023), which proposed "Design online classes with deliberate opportunities for social interaction, because interactivity fosters engagement and spillovers into self-directed study"; tests this page's relationship.
 - [The benefits of social interaction during online classes have limits: more is not always better, quality matters, and some students may find interactive courses burdensome](../claims/social-interaction-limits-not-panacea.md) [~W] — attached 2026-10-29 from Gherghel et al. (2023), which proposed "Design online classes with deliberate opportunities for social interaction, because interactivity fosters engagement and spillovers into self-directed study".
 - [Intra-group emotional support has a positive and significant influence on collaborative learning.](../claims/emotional-support-drives-collaborative-learning.md) [+W] — attached 2026-10-30 from Hernández-Sellés et al. (2019), which proposed "Design online collaborative learning to intentionally build intra-group emotional support, not just cognitive interaction."; tests this page's relationship.
+- [Proposed course provides highest human interaction among compared courses](../claims/proposed-course-highest-human-interaction.md) [+W] — attached 2026-10-31 from El Ansari Walid et al. (2025), which proposed "Embrace the human factor through synchronous and asynchronous communication in online courses".
 
 ## Objective and learner-valued goal
 

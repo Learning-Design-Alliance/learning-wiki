@@ -95,3 +95,6 @@ Uncontrolled before-after study (RT-SIM) with 32 psychiatry residents completing
 - [In anaesthesia education, e-learning shows no consistent benefit over traditional learning across trials](e-learning-no-consistent-benefit-anaesthesia.md) — related
 - [Virtual patient-based learning produces greater learning performance, self-efficacy and communication skills than conventional learning in a quasi-experimental study](vp-social-learning-quasi-experiment-communication.md) — related
 - [In a pragmatic RCT, VR communication simulation produced higher communication ability, confidence and satisfaction and lower clinical practice stress than video-based learning](vr-rct-chou-2024-communication-outcomes.md) — related
+- [OSCE use in orthodontic education improves diagnostic accuracy, procedural proficiency, and communication skills through simulated patient interactions](osce-improves-orthodontic-clinical-competence.md) — related
+- [Virtual patient simulators show construct validity for assessing psychopharmacology proficiency](virtual-patient-simulator-construct-validity-psychopharmacology.md) — related
+- [Virtual patient simulations for SUD training report positive learning outcomes across the 12 included studies](vp-sud-simulations-positive-learning-outcomes.md) — related

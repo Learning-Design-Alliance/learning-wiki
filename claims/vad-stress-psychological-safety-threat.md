@@ -82,3 +82,4 @@ Participant quotation (FG 10, P 4) illustrating the emotional risk common to bot
 - [Anti-cheating interventions can cause distraction and evoke negative emotions during online test-taking](interventions-cause-distraction-negative-emotions.md) — related
 - [Peer tutoring contributes to psychological safety and reduced anxiety in demanding simulation learning environments](peer-tutoring-psychological-safety-anxiety.md) — related
 - [Low facilitator-to-student ratios (roughly 1:6 to 1:16) are preferred in CBD- and simulation-based IPE and were associated with more interaction and feedback opportunities](low-facilitator-ratios-ipe.md) — related
+- [Residents report positive perceptions of being recorded and of video review, with discomfort typically fading](resident-perceptions-video-recording-positive.md) — related

@@ -66,3 +66,5 @@ The review's meta-aggregation (Table 4, Category 5) includes the finding 'Virtua
 ## Related Claims
 - [Patients experience healthcare professionals as competent in digital counselling when they can efficiently provide digital support and solve technological problems](patients-experience-hcp-competence-efficient-digital-support.md) — related
 - [Patients experience healthcare professionals as competent in digital counselling when they establish a reciprocal relationship built on trust, listening, and a comfortable atmosphere](patients-experience-hcp-competence-reciprocal-relationship.md) — related
+- [Caregivers want information about the disease, specific patient care, and how to be a caregiver](caregiver-information-needs-disease-care-caregiving.md) — related
+- [Nurse-led telecare and telemedicine improve communication, self-management, and continuity of care in biologics therapy](nurse-led-telecare-improves-biologics-care.md) — related

@@ -48,6 +48,7 @@ Based on its findings, the review advocates adoption of competency-based simulat
 
 - [Simulation Based Learning](simulation-based-learning.md)
 - [Incorporate VR-based simulation training into spine surgery residency curricula as an adjunct to traditional methods](incorporate-vr-training-into-residency-curricula-strategy.md)
+- [Adopt standardized, competency-based frameworks that align instructional content and assessment strategies with clearly defined clinical outcomes](standardized-competency-based-frameworks-orthodontic-education.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Feasibility study of 10 non-medical students reviewed within the systematic revi
 - [Gestures and bodily actions lighten cognitive load and extend mathematical ideas across group members during collaboration](gestures-material-scaffolding-collaboration.md) — related
 - [Gesturing while explaining problem solving reduces cognitive load](gesturing-reduces-cognitive-load.md) — related
 - [Plastic cannister designs are the most common direct ophthalmoscopy simulation model in the literature](plastic-cannister-most-common-do-simulation-model.md) — related
+- [Included studies report consistent weakness in advanced examination skills such as slit-lamp use and ophthalmoscopy](weak-advanced-examination-skills.md) — related

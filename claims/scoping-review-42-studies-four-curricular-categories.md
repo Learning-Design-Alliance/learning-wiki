@@ -45,6 +45,7 @@ PRISMA-ScR-guided scoping review searching Ovid-MEDLINE, Ovid-EMBASE, and the Co
 
 
 ## Related Claims
+
 - [A US Delphi study identified 42 competencies for geriatric dental fellowship training across seven domains, with no clear continuity to undergraduate curricula](forty-two-fellowship-competencies-seven-domains.md) — related
 - [Geriatric dentistry has been increasingly recognized as a distinct educational domain separate from special care dentistry since the mid-2010s, but curricular implementation remains heterogeneous](geriatric-dentistry-distinct-domain-heterogeneous-implementation.md) — related
 - Only 112 of 306 studies were potentially suitable for meta-analysis, with most excluded for design and reporting inadequacies — related

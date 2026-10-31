@@ -45,6 +45,7 @@ The review's own study-identification results: 3353 records found, 605 duplicate
 
 
 ## Related Claims
+
 - [Included wound care educational interventions showed positive effects on students' wound care knowledge and clinical skills, mainly via self-assessment](wound-care-interventions-improve-knowledge-skills-self-assessed.md) — related
 - [Online and interprofessional wound care courses increased students' subjective knowledge and were well accepted](online-interprofessional-courses-subjective-knowledge-gains.md) — related
 - [No study compared the effectiveness of different wound care educational approaches or against traditional lectures](no-comparative-effectiveness-wound-care-methods.md) — related

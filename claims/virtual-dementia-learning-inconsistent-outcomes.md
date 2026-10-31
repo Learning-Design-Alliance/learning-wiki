@@ -69,3 +69,4 @@ Subgroup analysis of virtual versus non-virtual formats. Only two studies met in
 - [Göttingen CM elective improved counselling skills, knowledge, attitudes, well-being and eating habits in both virtual and in-person formats, while cooking frequency did not change](goettingen-cm-gains-virtual-in-person-cooking-frequency-null.md) — related
 - [Debriefing presence shows a numerical trend toward stronger knowledge gains but the subgroup difference is not significant](ivr-debriefing-knowledge-subgroup-trend.md) — related
 - [Coaching can be effective in all delivery modes: face-to-face, distance, and a combination](coaching-effective-all-delivery-modes.md) — related
+- Most included studies used quasi-experimental pretest/posttest designs, and online delivery was the predominant mode of instruction — related

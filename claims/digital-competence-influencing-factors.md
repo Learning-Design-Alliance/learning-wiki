@@ -72,3 +72,5 @@ Review reports, attributing to Grande-de-Prado et al. (2020), a gender differenc
 - [Teachers' digital competence is a critical factor influencing both AI tool adoption and its pedagogical effectiveness](teacher-digital-competence-critical-ai-adoption.md) — related
 - [Teacher characteristics from the will-skill-tool model — data literacy, availability of data technologies, and positive beliefs — predict teachers' pedagogical use of digital data, with data literacy the strongest predictor](wst-characteristics-predict-teacher-digital-data-use.md) — related
 - [Gender and age did not affect pre-service teachers' ICT competence for educational practice](gender-age-no-effect-ict-competence.md) — reports the opposite
+- [Higher work experience and administrative experience are associated with lower ICT use and informatics competencies](experience-negatively-associated-digital-competence.md) — a narrower finding that bears on this claim
+- [Training factors, including prior computer training and in-service training, are associated with leaders' digital competence](training-associated-leaders-digital-competence.md) — a narrower finding that bears on this claim

@@ -79,3 +79,4 @@ The review's RQ2 synthesis reports that when mistakes happen, models "can provid
 - [Nursing students express needs for optimized VS technology and cases: more diverse scenarios, greater realism, multilingual support, flexible training content, and culturally contextualized cases](vs-student-needs-optimization.md) — related
 - [Clinical simulation improved pathophysiology learning with a significant grade shift toward higher marks](clinical-simulation-improves-pathophysiology-grades.md) — related
 - [Curricula predominantly featured interactive and experiential teaching methods such as simulation and project-based learning](mlm-curricula-interactive-experiential-methods.md) — related
+- [Proposed model course surpasses existing courses in duration and unique real-project feature](proposed-course-surpasses-existing-in-duration-and-real-project.md) — related

@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 234 claims (166 show a difference, 41 mixed, 27 no difference) · 158 studies (63 causal, 44 associational, 20 review, 13 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 45 of 158 report an effect size · 228 claims rest on one study
+> **Evidence** · 235 claims (167 show a difference, 41 mixed, 27 no difference) · 159 studies (63 causal, 44 associational, 21 review, 13 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 45 of 159 report an effect size · 229 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -269,6 +269,7 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [In a cross-sectional survey, attitude statistically fully mediated the associations of perceived relative advantages and enjoyment with satisfaction](../claims/attitude-full-mediation-advantages-enjoyment-satisfaction.md) [+M] — learners who differ on it differ in outcomes
 - [Teacher enjoyment and anxiety show no significant condition differences](../claims/teacher-enjoyment-anxiety-no-significant-differences.md) [-M] — instruction changes it
 - [Reading enjoyment is strongly associated with better orthographic skills through books read per year](../claims/reading-enjoyment-linked-to-orthography.md) [+M] — learners who differ on it differ in outcomes
+- [Grit and enjoyment are key positive-psychology predictors of language learning success](../claims/grit-and-enjoyment-predict-language-success.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

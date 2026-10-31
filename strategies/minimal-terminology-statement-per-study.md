@@ -50,6 +50,7 @@ The authors recommend that each study include a minimal "terminology statement" 
 - [Broaden search terminology and bibliographic databases in future eWIL reviews](ewil-future-review-search-strategy.md)
 - [Future AI-SRL research should broaden search strategies, include educators and younger learners, address motivation, and apply longitudinal designs](ai-srl-future-research-recommendations.md)
 - [Study curiosity broadly as information-seeking in ethological context rather than fixing a strict definition first](study-information-seeking-broadly-before-defining-curiosity.md)
+- [Establish standard definitions and mission-aligned competencies for admissions](standardize-admissions-definitions-mission-aligned-competencies.md)
 
 ## Examples
 -

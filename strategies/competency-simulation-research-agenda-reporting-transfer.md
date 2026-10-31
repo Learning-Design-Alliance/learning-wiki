@@ -42,6 +42,8 @@ The review's implications section sets three priorities for future work: standar
 - [Develop standardized simulation-based leadership curricula with longitudinal evaluation and multi-center randomized comparison of formats](standardized-leadership-simulation-research-agenda.md)
 - [Future RSE research should standardise terminology, fully describe pedagogy, and use rigorous evaluation](rse-future-research-agenda.md)
 - [Adopt more precise terminology such as digital personalized learning (DPL) or personalized adaptive learning, and pursue rigorous longitudinal research with younger learners](future-research-precise-pl-terminology-dpl.md)
+- [Prioritize longitudinal studies tracking trainees from simulation to real-world surgical performance](longitudinal-simulation-to-or-tracking-studies.md)
+- [Prioritize multicenter, randomized designs with standardized reporting and longitudinal follow-up in future surgical education research](prioritize-multicenter-randomized-standardized-reporting-research.md)
 
 ## Examples
 -

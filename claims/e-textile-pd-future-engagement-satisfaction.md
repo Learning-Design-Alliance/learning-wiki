@@ -67,3 +67,4 @@ Enjoyment/satisfaction survey (N = 31). Negatively framed items showed minimal n
 - [Teachers report strong perceived ability to transfer e-textile STEAM learning to classrooms, with art integration the weakest dimension](e-textile-pd-transfer-confidence.md) — related
 - [Teachers report high perceived benefits from e-textile-supported STEAM PD, with interdisciplinary learning and creativity most endorsed and Arduino coding least](e-textile-pd-perceived-benefits.md) — related
 - [All participants intended to continue integrating AI into teaching and to recommend the institute, and 70% had already begun implementing AI-enhanced tools or assignments](ubridge-implementation-intentions.md) — related
+- [Participants generally perceive NTS training programs as beneficial despite variations in teaching strategies](nts-training-icu-positive-reaction-perceptions.md) — related

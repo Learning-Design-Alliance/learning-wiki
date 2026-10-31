@@ -53,3 +53,4 @@ The review reports, citing Macken and Ginns (2014), a study of 42 adults (74% fe
 - [Pointing during multimedia learning leads to superior comprehension and increased attentional focus compared with tracing or no hand movements](pointing-superior-comprehension-multimedia.md) — related
 - [Mimicking tracing and pointing gestures on a touchscreen during timed multimedia worked examples hindered adolescent learners' geometry learning](touchscreen-tracing-hinders-timed-worked-examples.md) — reports the opposite
 - [Gesture type affects reported mental effort, with lower effort for beat gestures in Experiment 1 and for deictic gestures in Experiment 2, but no effect on mental load](gesture-type-mental-effort-effects.md) — related
+- [Signalling, integrated pictures and words, and pedagogical agents probably improve learning outcomes.](signalling-integrated-pictures-and-pedagogical-agents-probably-improve-learning.md) — a broader claim this one bears on

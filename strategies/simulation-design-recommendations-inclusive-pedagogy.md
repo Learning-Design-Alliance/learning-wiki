@@ -50,6 +50,7 @@ From the study's findings, the authors recommend that simulation developers stre
 
 - [Include debriefing with reflective questions after simulation sessions before receiving feedback](debriefing-before-feedback-simulations.md)
 - [Sequence virtual simulation before authentic video across skill-development stages in teacher observation training](sequence-vs-then-av-teacher-training.md)
+- [Future research should position students and other stakeholders as partners in the design of online simulation approaches](position-students-as-partners-in-simulation-design.md)
 
 ## Examples
 -

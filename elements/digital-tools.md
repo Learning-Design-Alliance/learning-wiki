@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 90 claims (43 for, 42 mixed, 5 against) · 82 studies (19 review, 14 causal, 13 quant-synthesis, 13 associational, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 12 of 82 report an effect size · 89 claims rest on one study
+> **Evidence** · 91 claims (44 for, 42 mixed, 5 against) · 83 studies (20 review, 14 causal, 13 quant-synthesis, 13 associational, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 12 of 83 report an effect size · 90 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -125,6 +125,7 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [Software-based platforms generally improve examination scores, diagnostic accuracy, and decision-making performance](../claims/software-platforms-improve-knowledge-and-decision-making.md) [+W]
 - [Augmented reality increased student engagement but not test performance in anatomical learning](../claims/ar-increases-engagement-not-test-performance.md) [~W]
 - [Extended reality training shows no statistically significant difference in GEARS scores compared to dry lab training](../claims/xr-vs-dry-lab-gears-no-significant-difference.md) [-W]
+- [Wood study found a majority of participants passed the SBIRT software assessment and a large effect size for confidence increase](../claims/wood-passing-score-confidence-effect.md) [+W]
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

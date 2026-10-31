@@ -12,7 +12,7 @@ generated:
 # Critical Thinking
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 27 claims (18 for, 5 mixed, 4 against) · 26 studies (7 causal, 6 qualitative, 5 review, 5 associational, 2 design, 1 quant-synthesis), `q1`–`q3` · 5 of 26 report an effect size · 27 claims rest on one study
+> **Evidence** · 28 claims (18 for, 6 mixed, 4 against) · 27 studies (7 causal, 6 qualitative, 5 review, 5 associational, 2 quant-synthesis, 2 design), `q1`–`q3` · 5 of 27 report an effect size · 28 claims rest on one study
 
 ## Description
 Critical thinking requires both a skill (analyzing the reliability and validity of information) and a disposition to actually apply that skill, in principle across any realm of knowledge, not only a single subject or topic (Halpern, 2003; Williams, Oliver, & Stockade, 2004). A critical thinker is not simply someone with a negative or fault-finding attitude; rather, the critical thinker asks key questions, evaluates evidence for ideas, reasons about problems logically and objectively, and expresses ideas and conclusions clearly and precisely — and can carry these habits of mind across more than one domain of life or knowledge.
@@ -67,6 +67,7 @@ Second, who should be taught critical thinking. Surveys have found that teachers
 - [Malaysian undergraduates' overall CCTDI disposition was moderate to positive: 47% positive, 53% ambivalent, none negative](../claims/cctdi-composite-moderate-positive-disposition.md) [+W] — attached 2026-10-28 from Ramasamy (2011), which proposed "Seven-construct model of critical thinking disposition".
 - [Domain-specific CT performance (CTEM) significantly predicted domain-general CT performance (posttest HCTA)](../claims/ctem-predicts-posttest-hcta.md) [~W]
 - [No included study measured critical thinking as an explicit outcome or compared simulation modalities directly](../claims/sbe-delirium-no-explicit-ct-measure.md) [-W] — attached 2026-10-31 from EL Hussein Mohamed Toufic et al. (2026), which proposed "Four interrelated domains of critical thinking developed through simulation for delirium recognition".
+- [The certainty of evidence for the effects of teaching strategies on critical thinking ranges from very low to moderate, with no strategy rated high.](../claims/certainty-of-evidence-teaching-strategies-critical-thinking-very-low-to-moderate.md) [~W]
 
 ## The evidence by question
 - *Does teaching critical thinking explicitly, rather than expecting it to emerge from other activities, improve learners' critical thinking, and does it transfer beyond the subject it was taught in?* [Direct CT instruction combined with modeling, coaching, and discussion yields more consistent CT improvement than implicit teaching strategies](../claims/direct-ct-instruction-outperforms-implicit-strategies.md) [+M]

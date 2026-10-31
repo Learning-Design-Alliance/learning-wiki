@@ -13,7 +13,7 @@ generated:
 # Race and Ethnicity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 203 claims (165 show a difference, 28 mixed, 10 no difference) · 153 studies (88 associational, 27 review, 18 causal, 8 theoretical, 7 qualitative, 3 design, 2 quant-synthesis), `q1`–`q3` · 2 of 153 report an effect size · 201 claims rest on one study
+> **Evidence** · 204 claims (166 show a difference, 28 mixed, 10 no difference) · 154 studies (88 associational, 28 review, 18 causal, 8 theoretical, 7 qualitative, 3 design, 2 quant-synthesis), `q1`–`q3` · 2 of 154 report an effect size · 202 claims rest on one study
 
 ## How to read this page
 
@@ -240,6 +240,7 @@ Race and ethnicity are social categories, recorded in most education research fr
 - [In STEM courses taught by instructors with more fixed mindsets, underrepresented minority students' grade gaps are larger than in growth-mindset instructors' courses](../claims/fixed-mindset-instructors-larger-racial-grade-gaps.md) [+M] — an instructional effect differs by group
 - [Underrepresented minority students in the course showed significantly positive individualized treatment effects from supplemental instruction](../claims/si-urm-subgroup-positive-ite.md) [+M] — an instructional effect differs by group
 - [Race/ethnicity was among the most important predictors of intervention effectiveness, with lower predicted effects for Black/African American students.](../claims/race-ethnicity-predicts-intervention-effectiveness.md) [+M] — an instructional effect differs by group
+- [CBA and HA implementation is associated with increased diversity of admitted students](../claims/cba-ha-increased-diversity.md) [+M] — instruction changes the gap
 
 ## The evidence by question
 - *For whom: does it narrow gaps for underrepresented and low-income students?* [Active learning narrows achievement gaps for disadvantaged and underrepresented students](../claims/active-learning-narrows-achievement-gaps.md) [+S]

@@ -59,3 +59,4 @@ The essay reports, citing Mayer and Moreno (2003), Guo et al. (2014), and Thomso
 - [Observing gestures embedded in instruction aids learning, especially when gestures convey a different strategy than speech](observing-gestures-in-instruction-aids-learning.md) — a narrower finding that bears on this claim
 - [Emotionally expressive gestures are associated with better retention than neutral gestures, and gesture and facial expression effects are complementary](expressive-gestures-better-retention-than-neutral.md) — related
 - [Concrete visual presentation can convey only concrete, simple meanings; abstract and general meanings are conveyed by language](visual-presentation-limited-to-concrete-meanings.md) — related
+- [Signalling, integrated pictures and words, and pedagogical agents probably improve learning outcomes.](signalling-integrated-pictures-and-pedagogical-agents-probably-improve-learning.md) — related

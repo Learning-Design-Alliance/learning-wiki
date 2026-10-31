@@ -54,3 +54,4 @@ Qualitative theme from questionnaire open-ended responses, individual interviews
 - [Students experience a perceived sense of support and connectedness through conversational ChatGPT interaction, though this is not genuine human relatedness](chatgpt-perceived-relatedness-support.md) — related
 - [The student-tutor relationship alone is judged insufficient: peer mixing and virtual communities are needed to counter isolation in online research supervision](virtual-communities-counter-supervision-isolation.md) — related
 - [Teachers customizing online approaches may reduce lack of interaction in large classes and isolation in distance education](customized-online-learning-reduces-interaction-deficits.md) — related
+- [Peers have an essential role in promoting SDL through collaboration, motivation and support, though effects are mixed](peers-promote-sdl-collaboration-motivation.md) — related

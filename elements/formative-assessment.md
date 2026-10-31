@@ -13,7 +13,7 @@ generated:
 # Formative Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (6 for, 2 mixed) · 14 studies (5 quant-synthesis, 5 review, 2 qualitative, 1 causal, 1 theoretical), `q1`–`q4` · 5 of 14 report an effect size · 3 claims rest on one study
+> **Evidence** · 9 claims (7 for, 2 mixed) · 15 studies (6 review, 5 quant-synthesis, 2 qualitative, 1 causal, 1 theoretical), `q1`–`q4` · 5 of 15 report an effect size · 4 claims rest on one study
 
 ## Description
 Formative assessment is the ongoing, low-stakes gathering of evidence about learner understanding, used to provide feedback to learners and to adjust instruction in real time. Its defining feature is not the instrument (quiz, discussion, draft) but the *use* of the information: assessment becomes formative only when it changes what happens next for the learner or the teacher.
@@ -55,6 +55,7 @@ Formative assessment closes the gap between current and desired performance by m
 - [Feedback about self as a person is the least effective feedback level; task, process, and self-regulation feedback support learning and combine for greater impact](../claims/feedback-levels-task-process-self-regulation-effective.md) [+W]
 - [Students want ongoing targeted formative feedback, but faculty time constraints and large class sizes limit providing it](../claims/formative-feedback-constraints-gateway-math.md) [~W]
 - [Teacher and student feedback indicates LLM-based formative assessment can reduce grading burden, surface misconceptions, and build student trust without replacing teacher judgment](../claims/stakeholder-feedback-llm-formative-assessment.md) [+W]
+- [Assessment and feedback strategies enable constructive ongoing feedback to improve learning and academic growth](../claims/assessment-feedback-strategies-improve-learning.md) [+W]
 
 ## The evidence by question
 - *Does using assessment evidence during instruction raise achievement compared with the usual teaching?* [Assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md) [+S]

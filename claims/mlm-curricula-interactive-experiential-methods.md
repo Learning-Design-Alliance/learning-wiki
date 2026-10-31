@@ -47,3 +47,4 @@ Synthesis of teaching and learning methods across the 16 included publications, 
 ## Related Claims
 - [Adult learners expect AI to support transformative and experiential learning through assumption-challenging simulations, role play, and authentic virtual contexts](ai-supports-transformative-experiential-learning.md) — related
 - [LLMs help bridge the gap between theoretical curricula and real-world skills by creating simulated scenarios, cases and problem contexts that are hard to reproduce in traditional classrooms](llm-simulations-bridge-theory-practice-gap.md) — related
+- [Available online SR/MA courses lack self-paced, experiential, expert-feedback features](available-online-srma-courses-lack-key-features.md) — related

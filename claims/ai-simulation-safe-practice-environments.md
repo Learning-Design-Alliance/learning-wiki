@@ -69,3 +69,7 @@ Thematic analysis of qualitative data from 11 studies (focus groups, think-aloud
 - [A minority of nursing students report negative emotional responses to virtual simulation teaching, including fear, anxiety, and burnout](vs-negative-emotional-experiences.md) — related
 - [The vast majority of nursing students report positive emotional experiences in virtual simulation teaching, including excitement, reduced psychological burden, and boosted confidence](vs-positive-emotional-experiences.md) — related
 - [VR simulation shows signals of benefit for communication training in undergraduate nursing students, especially for self-reported knowledge, self-efficacy, attitudes and confidence](vr-communication-training-nursing-benefit-signals.md) — related
+- [Extended immersive ward-based simulation may improve preparedness and self-confidence of nursing students](immersive-ward-simulation-improves-preparedness.md) — related
+- [Students performed not as well and experienced higher levels of anxiety if the language of the virtual simulation was not in their native language](non-native-language-virtual-simulation-worse-performance-higher-anxiety.md) — reports the opposite
+- [Creating a safe and supportive learning environment is crucial for clinical reasoning development](safe-learning-environment-clinical-reasoning.md) — related
+- [XR gesture-simulation interventions reduce anxiety in most included midwifery and nursing education studies](xr-gesture-simulation-reduces-nursing-anxiety.md) — a broader claim this one bears on

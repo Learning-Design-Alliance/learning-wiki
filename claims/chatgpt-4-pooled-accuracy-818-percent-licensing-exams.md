@@ -54,3 +54,4 @@ Meta-analysis of 53 studies using a random-effects inverse-variance model found 
 - [GPT-4 achieves passing accuracy on USMLE Steps 1–3 (mean 86%), significantly exceeding GPT-3.5 (mean 56%)](gpt4-usme-passing-accuracy-exceeds-gpt35.md) — a narrower finding that bears on this claim
 - [ChatGPT performed at or near the passing threshold on the United States Medical Licensing Exam without domain fine-tuning (reported from Kung et al.)](chatgpt-near-passing-threshold-usmle.md) — related
 - [Significant heterogeneity (I2=87.25%) exists among studies of ChatGPT-4.0 accuracy in medical licensing exams](high-heterogeneity-chatgpt-4-licensing-exam-accuracy-studies.md) — related
+- [LLMs perform worse on dental licensing examinations than on medical licensing examinations](llms-perform-worse-dental-than-medical-licensing-exams.md) — related

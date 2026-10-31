@@ -48,3 +48,4 @@ Linear random intercept regression for Dots and Needles performance (66 attempts
 - [First-attempt EEG features and initial performance score predict learning rate, with higher initial scores associated with lower learning rates](first-attempt-features-predict-learning-rate.md) — related
 - [In the Tubes task, larger average pupil diameter of the nondominant eye and higher rate of saccade are associated with lower RAS simulator performance](pupil-diameter-saccade-rate-lower-tubes-performance.md) — related
 - [Subject-wise standardization of eye-tracking features marginally improved the fit of performance and learning rate models](subject-wise-standardization-improves-model-fit.md) — related
+- [Technology augmentation studies, including needle tip tracking, all found significant improvement in skill outcomes](usra-technology-augmentation-skill-gains.md) — related

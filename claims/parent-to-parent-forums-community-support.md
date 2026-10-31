@@ -61,3 +61,4 @@ Focus-group finding about a high school that created a virtual parent group with
 - Parents used the digital Family Guide flexibly, modifying activities to fit their routines or creating new activities based on family interests — related
 - [Social-support strategies are the most generalised technology-based SRL strategies, with most students interacting via instant messaging and sharing material via the cloud](social-support-strategies-most-generalised-with-technology.md) — related
 - [Families' geoscience sense-making during learning-on-the-move was shaped by the immersive qualities of a mobile AR app](mobile-ar-families-immersive-geoscience-lotm.md) — related
+- [Smartphone access among informal caregivers ranges from 61% to 99% depending on country](caregiver-smartphone-access-61-99-percent.md) — related

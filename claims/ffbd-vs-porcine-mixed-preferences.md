@@ -48,3 +48,4 @@ Comparative study synthesised by the review (Wyles et al. 2011; 66 body donor an
 - [Body donor models are perceived by postgraduate trainees as authentic and of high educational value for laparoscopic training](bdm-perceived-authentic-high-educational-value.md) — a broader claim this one bears on
 - [N-vinyl-2-pyrrolidone-embalmed donors showed significantly greater abdominal response to CO2 insufflation than formalin-embalmed donors, suggesting better suitability for laparoscopic simulation](pyrrolidone-greater-insufflation-response-than-formalin.md) — related
 - [Soft-embalmed body donor models remain usable over prolonged sequential use without perceived tissue deterioration](soft-embalmed-prolonged-reuse-feasible.md) — related
+- [Rabbit model outperformed porcine model for pediatric MIS training, with higher surgical performance scores (8.1 versus 6.0)](rabbit-beats-porcine-pediatric-mis-training.md) — related

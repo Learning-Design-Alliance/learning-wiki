@@ -48,3 +48,4 @@ Descriptive synthesis of educational-stage distribution across the 16 included s
 - [School swimming programmes predominantly adopt a technical-utilitarian orientation rather than an educational-curricular one (75% versus 25%)](school-swimming-technical-utilitarian-predominance.md) — related
 - [Assessment instruments in school swimming research focus on technical execution, with few tools aligned to functional aquatic competence](swimming-assessment-instruments-technical-bias.md) — related
 - [School swimming interventions show high heterogeneity in duration, frequency and session length, with no unified methodological standard](school-swimming-intervention-heterogeneity.md) — related
+- Most included systematic reviews span multiple education levels and school subjects, with few focusing specifically on primary, middle, or secondary school. — related

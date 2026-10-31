@@ -51,3 +51,4 @@ Subgroup analysis of the knowledge-acquisition meta-analysis by assessment timin
 - [Metacognition intervention effects persist at follow-up (g = 0.29) in young children](metacognition-interventions-followup-effects-persist.md) — related
 - [The RT propensity–learning relationship is strongest early in the class session and attenuates later](rt-learning-relationship-strongest-early-session.md) — related
 - [Onsite training skill effects are larger at immediate post‐intervention than at follow‐up, while hybrid skill effects do not differ by assessment point](onsite-skill-effects-larger-immediate-post-intervention.md) — related
+- [Zlotos study found confidence gains at post-test and 6-month follow-up, with knowledge peaking immediately then declining but staying above pretest](zlotos-confidence-knowledge-trajectory.md) — a narrower finding that bears on this claim

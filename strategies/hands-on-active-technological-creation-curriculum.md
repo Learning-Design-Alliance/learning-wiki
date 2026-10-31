@@ -49,6 +49,7 @@ The article recommends that IT curricula move away from passive software navigat
 ## Related Strategies
 
 - [Provide systematic educator training on playlist content, activity implementation practices, technology troubleshooting, and content modification for age groups](systematic-educator-training-for-playlist-implementation.md)
+- [Replace passive lectures with active learning models such as ZeroSicks or Attitude to Work.](adopt-active-learning-models-zerosicks-attitude-to-work.md)
 
 ## Examples
 -

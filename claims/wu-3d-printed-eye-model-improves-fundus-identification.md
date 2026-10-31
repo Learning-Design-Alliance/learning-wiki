@@ -51,3 +51,4 @@ Randomised controlled trial of 92 medical students reviewed within the systemati
 - [3D visualisation training outperformed traditional teaching on exam outcomes and clinical practice assessment (Shao et al.)](shao-3d-imaging-outperformed-traditional.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
+- [Simulation with patient-specific 3D-printed teeth improved crown preparation quality versus traditional patient care](3d-printed-teeth-simulation-crown-preparation.md) — related

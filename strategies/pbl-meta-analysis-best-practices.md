@@ -40,6 +40,9 @@ This strategy distills the article's recommendations for conducting a PBL meta-a
 ### Target Learning Goals
 - Rigorous quantitative synthesis of problem-based learning intervention effects
 
+## Claims
+
+
 ## Related Strategies
 
 - [Computational search methods plus grey literature retrieval to identify early grade reading evidence and minimize publication bias](computational-search-and-grey-literature-strategy.md)

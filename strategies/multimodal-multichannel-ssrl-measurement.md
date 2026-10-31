@@ -50,6 +50,7 @@ The review's stated forward methodological path is to widen data channels toward
 - [Adopt integrative, longitudinal, multimodal deep-phenotyping designs combining self-report, behavioural tasks, ecological momentary assessment, and physiological measures](deep-phenotyping-multimodal-regulation-research.md)
 - [Use unobtrusive AI facial expression recognition alongside qualitative interaction coding to study emotion regulation in collaborative learning](fer-alongside-qualitative-coding-for-ssrl-research.md)
 - [Methodological agenda for CCLT-inspired CSCL research: new cognitive load measures, multilevel analysis, temporality, and broader methodologies](cclt-methodological-agenda.md)
+- [Align video recording decisions with residents' self-regulated learning goals rather than investigator-determined parameters](resident-initiated-video-recording-alignment.md)
 
 ## Examples
 -

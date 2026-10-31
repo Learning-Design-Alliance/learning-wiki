@@ -56,3 +56,4 @@ YouTube analytics across two course offerings (534 students). The article report
 - [A review of music education asserts that MOOC completion is typically under 10% and that embodied musical learning resists short video lectures and self-graded quizzes](moocs-low-completion-embodied-music-learning.md) — a broader claim this one bears on
 - [Median student engagement with MOOC videos falls sharply as video length increases beyond 6 minutes](video-length-mooc-engagement-declines.md) — related
 - [The analytics agent surfaced a Module 2 dead zone — students stopping around the 42-minute lecture mark where exercises ended — and the instructor revised the exercise set in response](itas-dead-zone-finding.md) — related
+- [Large-scale psychiatry MOOC achieved steady test-score gains despite low completion rate](psychiatry-mooc-cbt-score-gains-low-completion.md) — related

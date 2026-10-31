@@ -54,3 +54,4 @@ Publication-bias assessment used publication status as a moderator, funnel plot 
 - Funnel-plot analyses showed no significant asymmetry, and the overall effect remained significant after removing outliers — related
 - The meta-analysis shows no publication bias (Begg-Mazumdar p = .196) and is resistant to it (fail-safe N = 463) — related
 - No evidence of publication bias in the SDL meta-analysis — related
+- Publication bias is present in the OSCE reliability literature, with funnel plot asymmetry detected by Egger's regression test (p < 0.001) — related

@@ -68,3 +68,4 @@ Among the 24 studies with validity evidence, the review reports "construct valid
 - [Only 35 of 2814 identified studies describe data-driven assessment tools implemented in laparoscopic skills training curricula for surgical residents](35-of-2814-studies-data-driven-assessment-curricula.md) — related
 - [The majority of published RCR education evaluations use measures without reported validation evidence](majority-rcr-evaluations-unvalidated-measures.md) — related
 - [Scenario-based tutor lessons produced a significant pooled 7.4% learning gain, driven by three lessons with established construct validity while three newer lessons showed no significant gains](scenario-lessons-pooled-74-percent-gain.md) — related
+- [Most reviewed simulation studies demonstrated face and content validity, but few assessed construct or predictive validity](simulation-validity-face-content-yes-predictive-rare.md) — related

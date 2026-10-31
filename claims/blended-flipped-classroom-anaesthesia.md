@@ -53,3 +53,4 @@ The review suggests that blended learning or flipped classroom models may enable
 - [In a low-certainty meta-analysis of 44 studies with very high heterogeneity (I² = 98%), undergraduate health professional students in flipped classes score higher than those in traditional classes (SMD = 0.57)](flipped-classroom-improves-academic-performance-hpe.md) — a narrower finding that bears on this claim
 - [Flipped classroom has a moderately positive effect on college students' academic performance (SMD = 0.66)](flipped-classroom-moderate-positive-effect-college.md) — related
 - [E-learning is an important adjunct to traditional learning methods in anaesthesia education](e-learning-adjunct-anaesthesia-education.md) — related
+- [Electronic resources as adjuncts to in-person teaching were associated with increased attendance in three studies](electronic-resources-adjunct-increased-attendance.md) — a narrower finding that bears on this claim

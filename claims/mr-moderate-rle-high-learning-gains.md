@@ -51,3 +51,4 @@ Self-reported perceived learning gain measured with a 7-item scale (possible val
 - [MR and RLE groups report similar stress, exhaustion, and self-efficacy levels after mass casualty incident training](mr-rle-similar-stress-exhaustion-self-efficacy.md) — related
 - [Qualitative data indicate a need to improve interaction opportunities with virtual patients in MR training](mr-needs-improved-virtual-patient-interaction.md) — related
 - [Participants view virtual training as a resource-efficient supplement to, not a replacement for, real-life exercises](virtual-training-supplement-not-replacement.md) — related
+- [Interprofessional mass casualty incident simulation increased disaster-response confidence in 96% of participating pre-licensed nursing students](mass-casualty-simulation-confidence.md) — related

@@ -56,3 +56,4 @@ MANCOVA on post-test engagement scores (pretest as covariate) among 121 undergra
 - [Interactive synchronous lessons yielded larger effects than lectures for affective outcomes versus asynchronous learning](interactive-lesson-moderator-sol-affective.md) — related
 - [Synchronous online learning significantly and positively impacts cognitive outcomes compared with asynchronous online learning (g = 0.37)](sol-beats-asynchronous-cognitive-outcomes.md) — related
 - [Synchronous online learning did not significantly affect affective outcomes compared with asynchronous online learning (g = 0.32, p = .051)](sol-asynchronous-affective-null.md) — related
+- [Proposed course provides highest human interaction among compared courses](proposed-course-highest-human-interaction.md) — related

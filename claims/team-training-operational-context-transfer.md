@@ -49,3 +49,4 @@ The article reports, citing Salas et al. (2008), a meta-analysis finding on tran
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [Children learned novel verb meanings better when words were experienced in episodes built around a common scenario](scenario-contexts-improve-verb-meaning-learning.md) — related
 - [Structured communication tools such as SBAR incorporated into simulation are associated with improved team coordination and information transfer](sbar-structured-communication-in-simulation.md) — a narrower finding that bears on this claim
+- [Students were more engaged in SDL when it was an assessed activity with anticipated outcomes and relevance to their future profession](assessment-relevance-engage-sdl.md) — related

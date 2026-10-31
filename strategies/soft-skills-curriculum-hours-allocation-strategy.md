@@ -51,6 +51,7 @@ Based on its findings and institutional case studies, the review proposes operat
 ## Related Strategies
 
 - [Support the shift from standardized testing toward diverse assessment strategies—performance-based assessments, portfolios, and experiential learning—with teacher training, resource allocation, and accountability flexibility](diverse-pog-assessment-strategies-with-teacher-support.md)
+- [Include nutrition-related questions in mandatory written and practical assessments, including OSCEs, to motivate engagement with nutrition education](mandatory-nutrition-assessments-osce.md)
 
 ## Examples
 -

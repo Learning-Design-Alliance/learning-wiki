@@ -54,3 +54,7 @@ Review synthesis using Kirkpatrick's framework across 104 studies; the review re
 - [Kirkpatrick's four levels of evidence can be applied to RAS training, with level 2 equating to RAS skills assessed with validated scoring systems during simulation.](kirkpatrick-levels-applied-ras-training.md) — related
 - [No longitudinal studies or RCTs demonstrate that AI-acquired skills transfer to the operating room](no-longitudinal-evidence-ai-skill-transfer-or.md) — a narrower finding that bears on this claim
 - [No included SDL studies measured Kirkpatrick Level 4 (patient/system) outcomes](sdl-no-kirkpatrick-level-4-outcomes.md) — related
+- [Evidence for transfer of simulation training to operating-room outcomes was sparse in neuro-oncological simulation research](sparse-transfer-evidence-simulation-to-or.md) — related
+- Fewer studies assessed Kirkpatrick level 3 behaviour and level 4 patient outcomes, and higher‐level feature combinations remain unclear — possibly the same claim (merge candidate)
+- [Simulation training for ultrasound‐guided regional anaesthesia most often shows significant improvement at Kirkpatrick level 2 outcomes](usra-simulation-improves-kirkpatrick-level-2.md) — related
+- [Video review improves patient outcomes (Kirkpatrick level 4) in the single study reporting this level](video-review-kirkpatrick-level-4-patient-outcome.md) — a narrower finding that bears on this claim

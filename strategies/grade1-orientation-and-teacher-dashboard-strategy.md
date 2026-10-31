@@ -41,6 +41,7 @@ For first-time young users, the authors recommend a distinct orientation period:
 - [Adapt e-learning platforms to distinct student engagement profiles with adaptive recommendations and guidance](adaptive-recommendations-engagement-profiles-k8.md)
 - [Learning Dashboards](learning-dashboards.md)
 - [Accommodate Varying Technology Experience](accommodate_varying_technology_experience.md)
+- [Build an orientation activity into XR study designs and use multiple sessions to increase tool familiarity](xr-orientation-activity-multiple-sessions.md)
 
 ## Examples
 -

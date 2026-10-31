@@ -55,3 +55,4 @@ Outcome-assessment analysis across all included studies: every study used "one o
 - [Simulation-based education combined with workflow redesign improved ICU nurses' delirium-assessment documentation rates on day and night shifts](sbe-delirium-documentation-improvement-icu.md) — related
 - [Simulation-based education plus clinical teaching compared to clinical teaching only shows a large pooled advantage (SMD 0.82) in undergraduate nursing students](sbe-plus-clinical-pooled-smd-0-82.md) — related
 - [No included SDL studies measured Kirkpatrick Level 4 (patient/system) outcomes](sdl-no-kirkpatrick-level-4-outcomes.md) — related
+- Fewer studies assessed Kirkpatrick level 3 behaviour and level 4 patient outcomes, and higher‐level feature combinations remain unclear — related

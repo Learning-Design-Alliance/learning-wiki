@@ -52,3 +52,4 @@ The review's own GRADE assessment across all pooled outcomes, downgraded for ris
 - Most included studies carried a high risk of bias or some concerns, particularly for confounding and outcome measurement, limiting certainty — related
 - [Educational programmes are consistently associated with statistically significant improvements in nurses' knowledge of diabetic foot care across nine quasi-experimental studies, with very low certainty of evidence](educational-programmes-improve-nurse-diabetic-foot-knowledge.md) — related
 - Included active-methodology studies had a high overall risk of bias — related
+- All twelve included studies carried at least moderate risk of bias, with none rated low on at least six criteria — related

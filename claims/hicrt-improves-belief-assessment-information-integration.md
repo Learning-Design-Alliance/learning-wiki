@@ -51,3 +51,4 @@ In the 16-week RCT (n = 160), ANCOVA models with active control as reference tes
 - [Training effects are selective: active control improved processing efficiency but not executive function, and uni/multimodal interventions improved executive function but not processing efficiency](selective-transfer-active-control-processing-efficiency.md) — related
 - [Pre-intervention executive function correlates with information integration, but not value assessment or belief assessment](pre-intervention-set-shifting-correlates-information-integration.md) — related
 - [All three facets of decision-making competence improved from pre- to post-intervention at the omnibus level](omnibus-improvement-decision-making-competence.md) — related
+- [Across all modalities, training interventions improved either performance or safety outcomes](training-interventions-improve-performance-or-safety-across-modalities.md) — a broader claim this one bears on

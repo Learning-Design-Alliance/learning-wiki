@@ -55,3 +55,4 @@ Heterogeneity assessment of all pooled ER–burnout associations using Q and I²
 - Included flipped classroom studies show substantial heterogeneity, requiring a random-effects model — related
 - [Heterogeneity across flipped-classroom studies was consistently high (I² > 90%) and was largely not explained by prespecified subgroup analyses, indicating context-dependent effects](flipped-classroom-high-heterogeneity-context-dependent.md) — a narrower finding that bears on this claim
 - [Evidence for bilingual immunology teaching rests on few, mostly moderate-quality non-randomized studies with substantial heterogeneity](bilingual-immunology-evidence-base-limited-heterogeneous.md) — a narrower finding that bears on this claim
+- [Curriculum alignment with ICO guidelines is 65% overall, with inconsistent compliance (65%, I² = 99.2%)](ico-alignment-compliance-65-percent.md) — related

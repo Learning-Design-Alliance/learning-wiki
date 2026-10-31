@@ -53,6 +53,7 @@ As a practitioner implication, the article recommends designing debriefing conve
 - [Probing Questions](probing_questions.md)
 - [Perspective Taking Prompts](perspective-taking-prompts.md)
 - [Treat debriefing models as designable curricular artefacts that coordinate remembering, analysis, and planning](debriefing-as-epistemic-engineering-strategy.md)
+- [Use clinical pause points during simulation debriefing to promote timely knowledge construction and clinical judgement](clinical-pause-simulation-debriefing.md)
 
 ## Examples
 -

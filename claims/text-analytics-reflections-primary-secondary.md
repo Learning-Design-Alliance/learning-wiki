@@ -70,3 +70,4 @@ Scattertext contrast of reflection keywords by placement setting and cohort (Fig
 ## Related Claims
 - [Assessor role diversity is greater in secondary care placements and the most common assessor type shifted from nurse (2016/17) to clinical educator (2017/18 and 2018/19)](assessor-role-diversity-secondary-care.md) — related
 - [Year 1 medical students complete more WBA assessments in secondary care placements, especially when secondary care is the first placement block](wba-more-assessments-secondary-care.md) — related
+- The most frequent terms used in definitions of clinical supervision are 'professional' and 'reflection'. — related

@@ -63,3 +63,5 @@ The review's cross-study synthesis, drawing on Blonsky et al. (multicenter RCT, 
 - [The review concludes that low-cost simulation methods' ability to fully replace high-fidelity methods remains uncertain, as some critical psychomotor or situational skills may require more immersive training](low-cost-simulation-cannot-fully-replace-high-fidelity-uncertain.md) — related
 - [Simulation type–outcome alignment: high-fidelity formats favour judgment and decision-making, VR and games favour empathy and reflection](simulation-type-outcome-alignment.md) — related
 - [Virtual lab simulations improved blood typing knowledge and motivation but faced technical and language barriers](virtual-labs-improve-blood-typing-knowledge-motivation.md) — related
+- [The included studies do not reflect which intervention is better or which favours the acquisition and retention of knowledge more effectively.](studies-do-not-reflect-which-intervention-is-better.md) — reports the opposite
+- [VR clinical simulation produced higher anxiety than face-to-face manikin simulation in maternal-newborn nursing](vr-simulation-higher-anxiety-than-face-to-face.md) — related

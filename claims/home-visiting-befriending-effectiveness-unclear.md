@@ -49,3 +49,4 @@ The systematic review's concluding synthesis states that "The effectiveness of h
 - [One-to-one social support, advice and information, or health-needs assessment interventions were largely ineffective at reducing social isolation and loneliness among older people](one-to-one-support-interventions-ineffective-older-people-isolation.md) — related
 - [Included intervention studies varied considerably in design, methods, quality and transferability](isolation-intervention-studies-varied-quality-transferability.md) — related
 - [A quasi-experimental intervention reported short-term reductions in loneliness followed by lower social anxiety after a social-chatbot intervention](quasi-experimental-chatbot-intervention-lowered-loneliness-short-term.md) — related
+- [Interprofessional home visits by student teams reduced 30-day hospital readmission rates compared to a control group (p = 0.038)](interprofessional-hotspotting-home-visits-reduced-readmissions.md) — related

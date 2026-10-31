@@ -50,3 +50,4 @@ Qualitative Delphi findings discussed against prior literature. To strengthen le
 - [AI integration is associated with improvements in teaching, learning, and administrative efficiency in higher education when supported by adequate infrastructure](ai-integration-improves-teaching-learning-admin-efficiency.md) — related
 - [The article argues the durability of the WSS co-design approach depends on institutionalizing authentic engagement as core practice, not a one-time initiative](wss-sustainability-requires-institutionalization.md) — related
 - [Organisational readiness for adaptive learning is a multi-faceted construct operationalised through technological, individual, and leadership readiness](organisational-readiness-three-facets.md) — related
+- [The leadership and commitment of administrators and heads of units were fundamental for attendance at the educational programme.](leadership-and-commitment-fundamental-for-programme-attendance.md) — related

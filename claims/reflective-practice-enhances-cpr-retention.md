@@ -57,3 +57,4 @@ Narrative synthesis of a limited number of cognitive–psychological studies; th
 - [Single-session and multi-session experiential learning programs show comparable attitude improvements](short-and-long-term-dementia-programs-comparable.md) — related
 - [Evidence on long-term retention and transfer of clinical communication skills to clinical practice remained inconsistent or lacking across included reviews](vp-communication-long-term-retention-transfer-inconsistent.md) — related
 - [High-fidelity simulation particularly enhances core clinical competencies such as CPR, infection control, and diagnostic reasoning](high-fidelity-simulation-enhances-core-competencies.md) — related
+- [IPE interventions show significant improvements in role clarity, communication skills, and teamwork dynamics](ipe-improves-role-clarity-communication-teamwork.md) — related

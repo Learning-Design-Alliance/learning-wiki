@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 189 claims (142 show a difference, 27 mixed, 20 no difference) · 155 studies (58 associational, 30 causal, 28 review, 14 qualitative, 9 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 32 of 155 report an effect size · 185 claims rest on one study
+> **Evidence** · 194 claims (147 show a difference, 27 mixed, 20 no difference) · 156 studies (58 associational, 30 causal, 29 review, 14 qualitative, 9 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 32 of 156 report an effect size · 190 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -220,6 +220,11 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [In one randomized trial, EBP leadership education improved EBP beliefs and implementation self-efficacy but not evidence-based nursing practice scores](../claims/tucker-trial-beliefs-selfefficacy-gains-ebnp-null.md) [+W] — instruction changes it
 - [In a pragmatic RCT, VR communication simulation produced higher communication ability, confidence and satisfaction and lower clinical practice stress than video-based learning](../claims/vr-rct-chou-2024-communication-outcomes.md) [+M] — instruction changes it
 - [Students perceive that early clinical exposure improves problem-solving and confidence, and many redefine their understanding of professionalism](../claims/ece-perceived-problem-solving-professionalism-confidence.md) [+M] — instruction changes it
+- [Continuing professional education in stuttering is associated with higher perceived competence](../claims/continuing-professional-education-associated-with-higher-perceived-competence-stuttering.md) [+M] — instruction changes it
+- [Higher perceived competence is associated with greater frequency of seeing people who stutter on SLPs' caseloads](../claims/slp-caseload-frequency-associated-with-higher-perceived-competence-stuttering.md) [+M] — learners who differ on it differ in outcomes
+- [Multiple factors influence SLPs' perceived competence in managing stuttering, including support, knowledge, formal education, experience, familiarity, prior outcomes and perceived complexity](../claims/multiple-factors-influence-slp-perceived-competence-stuttering.md) [+M] — instruction changes it
+- [Perceived competence in stuttering management varies across different settings and regions](../claims/slp-perceived-competence-varies-across-settings-and-regions.md) [+M] — instruction changes it
+- [SLPs perceive themselves as less competent in treating stuttering than in assessing it](../claims/slps-lower-perceived-competence-treatment-than-assessment-stuttering.md) [+M] — instruction changes it
 
 ## The evidence by question
 

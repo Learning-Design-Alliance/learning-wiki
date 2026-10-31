@@ -44,7 +44,8 @@ The review recommends that "simulation facilitators should consider how students
 - [CALD students showed significantly greater confidence and skill gains from SBL than domestic students in comparative studies](../claims/sbl-greater-gains-cald-than-domestic-students.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Research should explore simulation's effects across diverse populations including developing countries](strategy-explore-simulation-diverse-populations.md)
 
 ## Examples
 -

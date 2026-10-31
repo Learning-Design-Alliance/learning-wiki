@@ -56,3 +56,4 @@ In its current-state section the report states that "The lack of diversity in co
 - [Racially marginalized students are less likely to report a sense of belonging in STEM education](marginalized-students-lower-stem-belonging.md) — related
 - [San Diego regional data show STEM access and pay remain inequitable by race, socioeconomic status, and gender](san-diego-stem-access-inequities.md) — a broader claim this one bears on
 - The reviewed literature shows limited engagement with specialist diversity concepts such as gender or race and little attention to teacher educators' own knowledge — related
+- [Many commercial recorded simulations feature young, pale, well‐built actors, limiting diverse representation](commercial-simulations-lack-diverse-representation.md) — related

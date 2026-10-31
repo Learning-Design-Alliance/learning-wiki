@@ -50,6 +50,9 @@ The review recommends that future research prioritize standardized and validated
 - [Evaluate AI standardized patient systems with both endpoint and process-sensitive outcomes](evaluate-ai-sp-with-endpoint-and-process-outcomes.md)
 - [Integrate quantitative and qualitative approaches in future cardiac arrest simulation feedback research](integrate-quantitative-qualitative-feedback-research.md)
 - [Use objective outcome measures (blinded OSCE, standardized tests, structured scales) in future ECE research](objective-outcomes-for-ece-research.md)
+- [Use cluster randomized clinical trials and blinded simulation-based behavior assessment to strengthen NTS training evidence](cluster-rct-blinded-simulation-assessment-nts.md)
+- [Prioritize multicenter, randomized designs with standardized reporting and longitudinal follow-up in future surgical education research](prioritize-multicenter-randomized-standardized-reporting-research.md)
+- [Future simulation research should use rigorous designs, standardized tools, and transparent reporting](strategy-rigorous-simulation-research-design.md)
 
 ## Examples
 -

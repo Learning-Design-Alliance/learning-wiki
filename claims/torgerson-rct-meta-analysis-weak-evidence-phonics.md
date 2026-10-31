@@ -51,3 +51,4 @@ The Torgerson et al. (2006) meta-analysis restricted to the randomized control t
 - [The National Reading Panel provided no evidence that phonics helps the majority of struggling readers above grade 1](nrp-no-evidence-struggling-readers-above-grade-1.md) — related
 - [In a systematic review of RCTs, only phonics training — a proximal intervention — produced a statistically reliable effect in poor readers](phonics-only-reliable-rct-effect-poor-readers.md) — reports the opposite
 - Study design moderates reported effects: RCTs gave more conservative or mixed results while non-randomized and uncontrolled designs more consistently reported positive effects — related
+- There were no randomized controlled trials or systematic reviews in the identified papers — related

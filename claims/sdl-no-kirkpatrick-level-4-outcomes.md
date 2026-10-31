@@ -54,3 +54,6 @@ Systematic characterization of outcome levels across all 125 included studies us
 - [Where cost was studied, AI-generated virtual patients showed savings from obviating faculty time and human standardized patients, but cost evaluation remains sparse and none reached Kirkpatrick level 4](ai-virtual-patient-cost-savings-sparse-evidence.md) — related
 - [SDL effects are stronger for knowledge/test outcomes than for clinical performance or behavioral outcomes](sdl-stronger-knowledge-than-clinical-performance.md) — related
 - [Self-assessed abilities are uncorrelated with actual performance measures, and Kirkpatrick level 1 is generally not recommended](self-assessment-uncorrelated-with-performance.md) — related
+- There is no evidence of public patient involvement in any of the reviewed studies — related
+- All included studies performed outcome evaluations at the reaction and/or learning levels of Kirkpatrick's framework. — reports the opposite
+- Fewer studies assessed Kirkpatrick level 3 behaviour and level 4 patient outcomes, and higher‐level feature combinations remain unclear — related

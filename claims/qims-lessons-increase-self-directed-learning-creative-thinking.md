@@ -57,3 +57,4 @@ Quantitative results from the quasi-experiment with 117 primary 5 students compa
 - [Open inquiry enhances students' scientific and thinking skills, including metacognitive and creative thinking](open-inquiry-scientific-thinking-skills.md) — related
 - [Interviews with three science teachers corroborated the quantitative results, reporting perceived improvements in analytical reasoning, conceptual integration, inquiry-based exploration, and creative scientific thinking](teacher-interviews-corroborate-deep-learning-gains.md) — related
 - [Intervention cohort scored significantly higher on creativity thinking, design skills, and problem solving, but not on presentation or attendance](rubric-dimension-gains-creativity-design-problem-solving.md) — related
+- [Students performed better on knowledge tests after creative project interventions, per studies included in the review](knowledge-test-gains-after-creative-projects.md) — related

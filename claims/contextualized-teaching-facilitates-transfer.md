@@ -106,3 +106,4 @@ Facilitator subtheme from interviews; participants reported that case-based teac
 - [Structured communication tools such as SBAR incorporated into simulation are associated with improved team coordination and information transfer](sbar-structured-communication-in-simulation.md) — related
 - [Barriers graduate nurses face in dementia care are similar to those of experienced nurses, with supportive colleagues and early exposure as facilitators](graduate-nurse-dementia-care-barriers-facilitators.md) — related
 - [VR communication training faces challenges of scenario realism, lack of clinical urgency in virtual characters, and language barriers](vr-communication-training-challenges-realism-urgency-language.md) — related
+- [AR-based remote neurosurgical training system combining cloud computing and AR/VR showed significant skill improvements, with AR outperforming VR in tactile realism and scene authenticity](remote-ar-training-cloud-5g-skill-gains.md) — related

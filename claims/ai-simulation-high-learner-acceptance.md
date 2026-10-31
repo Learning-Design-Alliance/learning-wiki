@@ -56,3 +56,4 @@ Synthesis of acceptance evidence from 8 studies using standardized instruments (
 - [In a usability study, 12 U.S. STEM teachers rated all generated learning interactives 7 or above for usability, averaging above 8.1, with 3 of 36 requests deemed too low quality to present](teacher-usability-study-average-rating-above-8-1.md) — related
 - [Elderly users accept the Butler system with high satisfaction, low subjective difficulty, and willingness to recommend it](butler-high-acceptance-elderly-users.md) — related
 - [EVS usability scores above 'good' benchmark but students become more critical of usability when encountering staff competency or testing problems](evs-usability-context-dependent.md) — a narrower finding that bears on this claim
+- [Virtual simulations for SUD training show good acceptance rates from learners](vp-sud-simulations-good-learner-acceptance.md) — related

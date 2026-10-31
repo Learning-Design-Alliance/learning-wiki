@@ -56,3 +56,4 @@ Focus group thematic analysis: students described stress from being made to sing
 - [Prolonged or overwhelming stress disrupts self-regulation development by physically changing brain wiring toward emotional reactivity](toxic-stress-disrupts-self-regulation-development.md) — related
 - [Students perceive pleasure—positive emotions during learning and the active minimization of boredom and displeasure—as an element of fun in learning](pleasure-positive-emotion-fun-element.md) — related
 - [Positive classroom climate is associated with more frequent socially shared regulation of learning](positive-climate-promotes-shared-regulation.md) — related
+- [Creating a safe and supportive learning environment is crucial for clinical reasoning development](safe-learning-environment-clinical-reasoning.md) — related

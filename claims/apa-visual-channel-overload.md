@@ -71,3 +71,4 @@ The review cites Sweller's (2002) argument that learners with low element intera
 - [Voice-based multimedia settings (animation+voice and picture+voice) produce better learning performance than picture+text](voice-media-outperform-picture-text-overall.md) — related
 - [Redundant speech-gesture cooperation improves recall and social perception more than complementarity](speech-gesture-redundancy-better.md) — related
 - [Visual presentation, especially motion pictures, dispenses largely with the teacher's personal influence and the group's social interaction](visual-presentation-reduces-teacher-influence.md) — related
+- [Signalling, integrated pictures and words, and pedagogical agents probably improve learning outcomes.](signalling-integrated-pictures-and-pedagogical-agents-probably-improve-learning.md) — related

@@ -53,3 +53,4 @@ The review's synthesis of Table 3 modality data across the 30 included studies. 
 - [Resource limitations, technical hurdles and time constraints were the primary reported barriers to implementing paediatric SBE](sbe-implementation-barriers-cost-faculty-maintenance.md) — related
 - [Manikins show anatomical discrepancies against human imaging data, yet may still support effective skill acquisition, suggesting educational fidelity can matter more than anatomical replication](anatomical-discrepancy-does-not-preclude-skill-acquisition.md) — related
 - [Virtual patient scenarios focused on psychiatric and chronic diseases, with major depressive disorder and cancer most common; acute, infectious, and rare conditions were absent](vp-scenario-disease-diversity-gaps.md) — related
+- [VR clinical simulation produced higher anxiety than face-to-face manikin simulation in maternal-newborn nursing](vr-simulation-higher-anxiety-than-face-to-face.md) — related

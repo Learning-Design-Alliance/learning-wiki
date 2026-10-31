@@ -68,3 +68,4 @@ Quantitative content analysis of think-aloud transcripts during feedback process
 - [During feedback provision, most students compared the text with internal manifestations of quality criteria, which supported error identification and evaluation](internal-quality-criteria-guide-error-identification.md) — related
 - [During peer-feedback processing, students deal with errors in one of two patterns: immediately knowing whether they agree with feedback, or first having to study the feedback more thoroughly](two-patterns-error-feedback-processing.md) — related
 - [Feedback provision proceeded linearly through the text, while feedback processing was less linear and used two interchangeable strategies](linear-provision-less-linear-processing-procedure.md) — related
+- [Educator influence through motivating, mentorship, evaluation and feedback supports student SDL development](educator-influence-motivation-mentorship-feedback-sdl.md) — related

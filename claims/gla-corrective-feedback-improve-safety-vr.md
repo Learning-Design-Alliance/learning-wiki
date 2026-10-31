@@ -76,3 +76,4 @@ Same safety analysis in the VR pipetting experiment: the mixed ANOVA showed "no 
 - [Self-explaining led to significantly higher written procedural knowledge than re-experiencing, opposite to the hypothesized direction](self-explaining-better-written-procedural-knowledge.md) — related
 - [No significant differences between VR-based and conventional training in operational understanding, technical skills, or system usability](no-difference-operational-skills-usability.md) — related
 - [Conventional training received significantly higher ratings for perceived realism and immersion than VR-based training (r=0.774)](conventional-training-higher-realism-immersion.md) — related
+- [Across all modalities, training interventions improved either performance or safety outcomes](training-interventions-improve-performance-or-safety-across-modalities.md) — a broader claim this one bears on

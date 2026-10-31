@@ -53,3 +53,5 @@ A systematic review of 13 randomised controlled trials and prospective cohort st
 - [In the few trials comparing them, virtual patients showed no significant knowledge differences versus other digital education, and skills differences in only one of three studies](vp-vs-other-digital-no-difference.md) — a narrower finding that bears on this claim
 - [Four of six activity groups are rated better in multimedia format, but quizzes and picture descriptions are rated equally across formats](activity-format-moderates-motivational-ratings.md) — related
 - [SDVT matches traditional learning for basic surgical tasks but underperforms for complex procedures](sdvt-basic-equivalent-advanced-underperforms.md) — a narrower finding that bears on this claim
+- [Comparative studies found mixed results when comparing online active learning with in-person active learning.](oal-dental-education-mixed-vs-in-person-active.md) — related
+- [Video review improves knowledge and skills outcomes (Kirkpatrick level 2), with mixed findings across studies](video-review-kirkpatrick-level-2-knowledge-skills.md) — a narrower finding that bears on this claim

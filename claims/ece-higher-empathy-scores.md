@@ -57,3 +57,5 @@ One cross-sectional study (Ye et al., China) synthesized narratively: "significa
 - [Evidence that emotional competence improves patient outcomes is limited and mixed](ec-patient-outcomes-limited-mixed.md) — related
 - [Most medical students report that early clinical exposure improves their communication skills](ece-improves-communication-skills-perceptions.md) — related
 - [ECE benefits both junior and senior preclinical dental students, with a larger pooled effect in junior students](ece-benefits-junior-and-senior-students.md) — related
+- [Early clinical exposure in undergraduate dental education shows evidence of effectiveness in knowledge, psychomotor skills, and affective domains](ece-dental-effectiveness-cognitive-psychomotor-affective.md) — related
+- [Early preclinical exposure group outperformed late exposure group on theory, OSCE communication, and empathy measures](epce-higher-theory-osce-empathy-scores.md) — related

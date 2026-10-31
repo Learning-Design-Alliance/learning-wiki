@@ -43,7 +43,8 @@ Based on the study's findings, the authors recommend that classroom teachers exp
 - [In the UK study, students using the combined ITS & ELE condition showed significant conceptual learning gains while the ITS-only condition did not](../claims/uk-combination-conceptual-gains.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Integrate TBL with other teaching methods and modern educational technologies](tbl-integration-with-other-methods.md)
 
 ## Examples
 -

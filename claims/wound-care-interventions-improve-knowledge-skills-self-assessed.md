@@ -49,3 +49,4 @@ The review's descriptive synthesis of the nine included quasi-experimental and m
 - [No study compared the effectiveness of different wound care educational approaches or against traditional lectures](no-comparative-effectiveness-wound-care-methods.md) — related
 - [Online and interprofessional wound care courses increased students' subjective knowledge and were well accepted](online-interprofessional-courses-subjective-knowledge-gains.md) — a narrower finding that bears on this claim
 - [Reviewed peer-tutoring simulation studies mostly reached only Kirkpatrick Level 2, with no assessment of behavior change or clinical-practice results](kirkpatrick-level2-ceiling-peer-tutoring-sbe.md) — related
+- [Knowledge and self-efficacy in COVID-19 caregiving increased after a self-learning software intervention](self-learning-software-increased-covid-caregiving-knowledge.md) — related

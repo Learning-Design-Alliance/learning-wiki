@@ -54,6 +54,7 @@ The review's future-directions recommendations call for comparative and better-p
 - [Require rigorous evaluation studies of recovery schools before widespread implementation](rigorous-evaluation-before-recovery-school-adoption.md)
 - [Prioritize larger randomized trials in pedagogical research and more representative evaluations across Africa](larger-rcts-pedagogical-research-recommendation.md)
 - [Future active-learning research should use randomised controlled designs with larger samples and standardised outcome measures](rigorous-rct-design-future-active-learning-research.md)
+- [Medical schools should investigate feasibility and acceptability of creative project-based lessons in their own curricula, using mixed-methods evaluation](recommend-feasibility-trials-creative-project-lessons.md)
 
 ## Examples
 -

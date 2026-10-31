@@ -52,3 +52,4 @@ Group × Phase × Prompt-type multilevel analysis of EMA data from the RCT (n = 
 - [Cyclic sighing buffers phase-level anxiety accumulation: controls' anxiety rose across the intervention while the breathwork group stayed near baseline](breathwork-buffers-phase-level-anxiety-accumulation.md) — related
 - [During breathwork, heart-rate coupling to anxiety and enjoyment weakened, and this altered affect–physiology coupling persisted into the post-intervention phase](breathwork-weakens-hr-emotion-coupling-persistent.md) — related
 - [Scheduled cyclic sighing is feasible to implement in everyday language-learning routines, with high EMA completion and breathwork session fidelity](cyclic-sighing-emi-feasibility-language-learning.md) — related
+- [PP interventions reduce language learning anxiety](pp-interventions-reduce-language-anxiety.md) — related

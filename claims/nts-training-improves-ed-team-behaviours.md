@@ -56,3 +56,4 @@ The review reports behavioural improvement "across study designs", with ratings 
 - [Simulation-based training is associated with communication and teamwork gains of approximately 2–3 points and NOTSS domain means of 2.8–3.5 on 4-point scales](simulation-communication-teamwork-gains-notss.md) — related
 - [Educators used social networks to guide reflection on engagement, roles, and shared mindset during debriefing](educators-used-social-networks-for-engagement-roles-reflection.md) — related
 - [Structured communication tools such as SBAR incorporated into simulation are associated with improved team coordination and information transfer](sbar-structured-communication-in-simulation.md) — related
+- [NTS training programs in ICUs are associated with improved teamwork, situational awareness, leadership and communication behaviors, with varying evidence certainty](nts-training-icu-improves-teamwork-behaviors.md) — related

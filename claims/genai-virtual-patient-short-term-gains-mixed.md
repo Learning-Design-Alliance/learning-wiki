@@ -114,3 +114,7 @@ The review reports countervailing findings in the same category, including that 
 - [Near-peer feedback improved clinical note scores compared to no feedback in one included study](near-peer-feedback-improves-clinical-note-scores.md) — related
 - [Software-based platforms generally improve examination scores, diagnostic accuracy, and decision-making performance](software-platforms-improve-knowledge-and-decision-making.md) — a broader claim this one bears on
 - [Virtual patient-based learning produces greater learning performance, self-efficacy and communication skills than conventional learning in a quasi-experimental study](vp-social-learning-quasi-experiment-communication.md) — related
+- [Multiple-choice question scores may not fully represent medical students' overall performance](mcq-scores-limited-assessment-scope.md) — related
+- [OSCE use in orthodontic education improves diagnostic accuracy, procedural proficiency, and communication skills through simulated patient interactions](osce-improves-orthodontic-clinical-competence.md) — related
+- [Structured clinical assessments such as Mini-CEX and OSCE improve diagnostic accuracy, patient communication, and procedural skills in orthodontic postgraduate education](structured-assessments-mini-cex-osce-improve-orthodontic-competencies.md) — related
+- [Virtual patient simulators show construct validity for assessing psychopharmacology proficiency](virtual-patient-simulator-construct-validity-psychopharmacology.md) — related

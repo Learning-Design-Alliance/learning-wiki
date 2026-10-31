@@ -51,3 +51,4 @@ Teacher report on the digital game during in-school implementation, where most t
 - [Digital notebooks presented technical difficulties with projection and loading during in-school implementation.](hero-elementary-notebook-technical-difficulties-projection-loading.md) — related
 - [Technical issues (login scanning, internet connectivity, projector setup, and glitches) frustrated students and created a significant barrier to playlist implementation](technical-issues-barrier-playlist-implementation.md) — a broader claim this one bears on
 - [During observed playlist sessions, students were mostly on task and concentrating, though off-task behavior rose when the digital notebook was repeated](bromp-observation-mostly-on-task-concentrating.md) — related
+- [Students experienced technical challenges, internet issues and navigation issues during engagement with online simulation approaches](students-experienced-technical-internet-navigation-issues.md) — related

@@ -72,3 +72,4 @@ The review's discussion asserts, without new data, that "No theory isolated is s
 - [Connectivism is an iteration of architectonic/constructivist thought rather than a new theory of learning](connectivism-iteration-of-architectonics.md) — related
 - P2P-teaching qualification research shows weak grounding in learning and teaching theories and low levels of evidence — related
 - A scoping review identified 11 studies (2010–2025) characterizing learning environments for teaching Pharmaceutical Care, predominantly conducted in the United States — related
+- The most widely adopted theory among the reviewed studies is Experiential Learning Theory — related

@@ -48,3 +48,4 @@ The review's thematic analysis of the selected corpus, including the WOS themati
 - [The review concludes that gamification is linked to the generation of critical thinking and the improvement of academic performance in higher education](gamification-linked-critical-thinking-academic-performance-higher-education.md) — related
 - [The review finds flipped learning, PBL, gamification, and collaborative learning adapted to digital environments produced positive effects on motivation, participation, and transversal competences](flipped-pbl-gamification-collaborative-digital-effects.md) — a broader claim this one bears on
 - [Motivation, participation, encouragement, fun and interest rated high during the intervention; critical thinking more modest](mbot-motivation-engagement-high.md) — related
+- [Flipped classroom combined with gamification improves academic performance and autonomy](flipped-classroom-gamification-improves-performance-autonomy.md) — related

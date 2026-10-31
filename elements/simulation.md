@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 132 claims (76 for, 48 mixed, 8 against) · 98 studies (44 review, 20 quant-synthesis, 16 causal, 8 design, 5 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 21 of 98 report an effect size · 122 claims rest on one study
+> **Evidence** · 143 claims (81 for, 53 mixed, 9 against) · 106 studies (52 review, 20 quant-synthesis, 16 causal, 8 design, 5 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 21 of 106 report an effect size · 133 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -187,6 +187,17 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [VR training's effect on OSATS-assisted skill acquisition shows conflicting evidence](../claims/vr-osats-conflicting-evidence.md) [~W]
 - [VR simulation training improves orthopaedic trainees' technical proficiency and shortens operative times](../claims/vr-simulation-improves-ortho-technical-proficiency.md) [+W]
 - [Simulation training improves fundus identification rate and time compared with simulated-patient-only training in a randomised trial](../claims/wu-3d-printed-eye-model-improves-fundus-identification.md) [+W]
+- [Interprofessional mass casualty incident simulation increased disaster-response confidence in 96% of participating pre-licensed nursing students](../claims/mass-casualty-simulation-confidence.md) [+W]
+- [In thyroid surgery training, simulation and virtual-reality training improved technical performance and task completion time, and simulators were rated as realistic](../claims/simulation-vr-improves-thyroid-surgery-technical-performance.md) [+W]
+- [Intermediate-fidelity mannequin simulation increased knowledge but not confidence compared with no additional instruction (Tiffen et al. study)](../claims/intermediate-fidelity-simulation-knowledge-not-confidence.md) [~W]
+- [Low-fidelity models are non-inferior to high-fidelity ones, which may induce overconfidence, per literature cited in the review](../claims/low-fidelity-non-inferiority-overconfidence.md) [~W]
+- [AR-based remote neurosurgical training system combining cloud computing and AR/VR showed significant skill improvements, with AR outperforming VR in tactile realism and scene authenticity](../claims/remote-ar-training-cloud-5g-skill-gains.md) [+W]
+- [Standardized patients produced higher knowledge scores than high-fidelity simulation, but performance scores did not differ (Tuzer et al. study)](../claims/standardized-patients-vs-high-fidelity-simulator-knowledge.md) [~W]
+- [Virtual simulations for SUD training show good acceptance rates from learners](../claims/vp-sud-simulations-good-learner-acceptance.md) [+W]
+- [VR clinical simulation produced higher anxiety than face-to-face manikin simulation in maternal-newborn nursing](../claims/vr-simulation-higher-anxiety-than-face-to-face.md) [-W]
+- [Immersive VR tracheostomy training reduced anxiety more than regular training at follow-up](../claims/vr-tracheostomy-training-reduced-anxiety.md) [+W]
+- [The inclusion of students in the design of online simulation approaches is limited to one participatory co‐design approach](../claims/student-co-design-limited-to-one-study.md) [~W]
+- [VR sepsis game decreased nursing students' anxiety by a reported 23.4%](../claims/vr-sepsis-game-anxiety-decrease.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

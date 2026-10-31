@@ -54,3 +54,4 @@ Bayesian multilevel phase-contrast analysis of EMA anxiety ratings from the 20-d
 - [Cyclic sighing weakly buffers boredom accumulation across days but shows no within-day time-locked modulation](breathwork-weakly-buffers-boredom-accumulation.md) — related
 - [During breathwork, heart-rate coupling to anxiety and enjoyment weakened, and this altered affect–physiology coupling persisted into the post-intervention phase](breathwork-weakens-hr-emotion-coupling-persistent.md) — related
 - [Scheduled cyclic sighing is feasible to implement in everyday language-learning routines, with high EMA completion and breathwork session fidelity](cyclic-sighing-emi-feasibility-language-learning.md) — related
+- [PP interventions reduce language learning anxiety](pp-interventions-reduce-language-anxiety.md) — related

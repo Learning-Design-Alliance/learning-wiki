@@ -45,6 +45,7 @@ The review's stated research agenda: "For research, priorities include multicent
 ## Related Strategies
 
 - [Research agenda: standardize reporting, run comparative efficacy studies, and track longitudinal transfer to clinical practice](competency-simulation-research-agenda-reporting-transfer.md)
+- [Prioritize multicenter, randomized designs with standardized reporting and longitudinal follow-up in future surgical education research](prioritize-multicenter-randomized-standardized-reporting-research.md)
 
 ## Examples
 -

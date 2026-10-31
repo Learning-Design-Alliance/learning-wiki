@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-10-31
 sources:
   - id: vega-ochoa-ad-2026
     resource: "https://doi.org/10.1186/s12909-026-10009-z"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Included implementation evidence maps barriers of cost, equipment availability, maintenance, faculty training, lack of standardized protocols and institutional inequalities, particularly relevant for Latin American and other resource-constrained contexts. [→ Vega Ochoa AD 2026](#vega-ochoa-ad-2026)
@@ -52,3 +53,4 @@ Narrative mapping across included studies, notably the Wilkinson et al. systemat
 - [VR/AR implementation challenges fall on three fronts: learner distraction and discomfort, teacher classroom-management and design burdens, and school cost and infrastructure limits](vr-ar-challenges-learners-teachers-schools.md) — related
 - [Choice of anatomy teaching strategies depends on institutional resource availability, with well-equipped institutions combining traditional and modern approaches](anatomy-teaching-strategies-resource-dependent.md) — a narrower finding that bears on this claim
 - [Faculty reluctance and limited expertise are common challenges in implementing IPE, which can harm interprofessional relationships if poorly planned](faculty-reluctance-ipe-challenge.md) — related
+- [Educators reported challenges including lacking confidence, feeling nervous, and requiring significant training and expertise when using online simulation approaches](educators-report-confidence-training-challenges-online-simulation.md) — related

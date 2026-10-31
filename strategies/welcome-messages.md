@@ -65,6 +65,7 @@ Welcome messages are a low-cost intervention for establishing [social presence](
 - [Accommodations](../elements/accommodations.md) — welcome messages are a natural place to invite students to share access needs early
 - [Pair personalized messages with an effort to call attention to them](pair-personalized-messages-with-attention-efforts.md)
 - [Use personal progress messages, real-world examples, and reflection assignments to support online course satisfaction](personal-messages-real-world-examples-reflection-online.md)
+- [Orient learners to the expectations and active nature of PBL to prevent lower satisfaction](orient-learners-to-pbl-expectations.md)
 
 ## Examples
 - **Penn State World Campus** — faculty guidance recommends a welcome letter plus a short video introduction posted before the course opens, with a "start here" module linked from the message.

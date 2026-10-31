@@ -50,3 +50,4 @@ Cost accounting from the deployment's methodology section: the platform uses GPT
 - In a real academic pilot, AISSA processed 90 presentations reliably at 1–3 minutes per submission and an estimated cost of $0.06–0.07 USD per evaluation — related
 - [A deployment-hardening rehearsal with 50 distinct learner accounts recorded 50 completed sessions, 50 successful board pulls and 50 denials of student analytics access, with a median API session time of 3.064 s](hardening-rehearsal-50-sessions-and-access-denials.md) — related
 - [Running the Socrates playground and grader incurred low cost, with even gpt-4o consuming only $169.90](socrates-low-operational-cost.md) — related
+- [Video review sessions impose substantial time costs, with review sessions lasting roughly 30–90 minutes, and monetary costs are rarely reported](video-review-time-cost-sessions.md) — related

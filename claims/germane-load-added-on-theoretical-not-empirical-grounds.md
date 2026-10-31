@@ -51,3 +51,4 @@ Conceptual/historical argument from the abstract contrasting the origins of the 
 - [Germane cognitive load is reformulated as redistributing working memory resources from extraneous to intrinsic processing rather than adding to total load](germane-load-redistributive-function-reformulation.md) — related
 - [Germane cognitive load can be defined in terms of intrinsic cognitive load, associating it with element interactivity](germane-load-defined-via-intrinsic-load.md) — related
 - [The results suggest a new interpretation of intrinsic and extrinsic load as related to the time needed to process information](load-interpretation-time-to-process.md) — related
+- [Cognitive load theory explains how clinical reasoning learning manages working memory capacity](cognitive-load-theory-clinical-reasoning-working-memory.md) — related

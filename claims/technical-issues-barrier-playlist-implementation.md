@@ -77,3 +77,5 @@ Observational and interview study of four after-school sites; educators reported
 - [Trails were only partially successful technologically due to device and network problems](trails-partially-successful-technologically.md) — related
 - [Teachers and stakeholders centred their views of ICT's role on first-order barriers of resources and students](ict-role-first-order-resources-students.md) — related
 - [Pre-operative errors stem largely from insufficient preparation, including setup issues and cognitive distractions that affect accuracy](preoperative-preparation-and-distraction-errors.md) — related
+- [Leaders report negative perceptions of technology centring on poor interoperability, data availability problems, and resource limitations](negative-perceptions-interoperability-data-availability.md) — related
+- [Students experienced technical challenges, internet issues and navigation issues during engagement with online simulation approaches](students-experienced-technical-internet-navigation-issues.md) — related

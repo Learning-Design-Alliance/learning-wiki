@@ -51,3 +51,4 @@ The review reports the experiment by Sepp et al. (2024) on mimicking tracing and
 - [Tracing and pointing during a paper-based multimedia lesson improves comprehension test performance in Chinese-speaking adults](tracing-pointing-improve-comprehension-chinese-sample.md) — reports the opposite
 - [Gesturing during learning improves retention and reduces cognitive load](gesturing-during-learning-retention-load.md) — reports the opposite
 - [Specific pointing by pedagogical agents was more effective than nonspecific pointing, which beat non-pointing gestures (review attributes this to Li et al., 2019)](specific-pointing-signaling-more-effective.md) — reports the opposite
+- [Signalling, integrated pictures and words, and pedagogical agents probably improve learning outcomes.](signalling-integrated-pictures-and-pedagogical-agents-probably-improve-learning.md) — reports the opposite

@@ -46,6 +46,7 @@ The review recommends that German universities move CM beyond electives into the
 ## Related Strategies
 
 - [Integrate structured, evidence-based wound care education—including hands-on and interprofessional components—into undergraduate medical curricula](structured-wound-care-education-medical-curricula.md)
+- [Integrate nutrition throughout medical training using a vertical spiral curriculum with practical teaching methods such as cooking lessons](vertical-spiral-nutrition-curriculum.md)
 
 ## Examples
 -

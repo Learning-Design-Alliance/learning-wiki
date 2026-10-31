@@ -30,7 +30,7 @@ sources:
 # Video Replay Analysis
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (16 for, 10 mixed) · 29 studies (10 qualitative, 5 review, 4 quant-synthesis, 3 causal, 3 theoretical, 2 associational, 2 design), `q1`–`q4` · 4 of 29 report an effect size · 22 claims rest on one study
+> **Evidence** · 28 claims (17 for, 11 mixed) · 30 studies (10 qualitative, 5 quant-synthesis, 5 review, 3 causal, 3 theoretical, 2 associational, 2 design), `q1`–`q4` · 4 of 30 report an effect size · 24 claims rest on one study
 
 ## Conditional relationship
 
@@ -134,6 +134,7 @@ Claims this page cited before it was rewritten, or found in the search, that bea
 - [Video-watching sequences involving pausing and rewinding are negatively correlated with math task performance in a flipped precalculus lesson](../claims/video-pause-rewind-sequences-negative-performance.md) [~W]: about students pausing and rewinding **lecture** videos (49 students, correlational; the authors do not suggest discouraging it). It does not bear on replaying one's own performance; listed so that "pause and rewind" findings from lecture video are not carried here.
 - [Facilitators' questions, regularly posed in terms of seeing, make it relevant for students to discuss how situations appeared audiovisually and how these appearances contrasted with their experiences](../claims/seeing-questions-guide-audiovisual-contrast.md) [+W] — attached 2026-10-18 from Elin Johansson et al. (2017), which proposed "Selecting short clips of successful 'key events' as the debriefing focus".
 - [Video-assisted debriefing enhances precision but risks psychological safety and narrows reflection to individual performance](../claims/video-debriefing-precision-safety-tradeoffs.md) [~M] — attached 2026-10-18 from Charlott Sellberg et al. (2025), which proposed "Align performance-review media such as video with instructional aims, facilitator expertise, and the emotional climate of training"; tests this page's relationship.
+- [Video review of resident performance in clinical PGME settings shows positive learning effects, with 8 of 11 studies reporting significant results](../claims/video-review-positive-learning-effect-pgme.md) [+W] — attached 2026-10-31 from Robbrecht M et al. (2025), which proposed "Video review should be integrated with feedback or coaching sessions rather than used in isolation"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -153,6 +154,7 @@ Noticing in a recording, explaining it, the next performance and lasting change 
 - [Most simulation participants preferred high-tech video-assisted debriefing over lower-tech VAD and verbal debriefing, mainly for its better audio/video quality and focused review](../claims/participants-prefer-high-tech-vad-debriefing.md) [+W]
 - [All interviewed facilitators preferred video-assisted debriefing over verbal debriefing because video allowed precise, objective feedback whose credibility was not restricted by facilitator hierarchy](../claims/facilitators-prefer-vad-objective-feedback.md) [+W]
 - [A five-step structured video-based reflection cycle led teachers to produce substantially more new and more specific solutions than a vicarious-reflection control condition](../claims/ceble-structured-reflection-more-specific-solutions.md) [+W]
+- [Residents report positive perceptions of being recorded and of video review, with discomfort typically fading](../claims/resident-perceptions-video-recording-positive.md) [~W]
 
 ## Related Principles
 - [Purposeful Reflection](reflection.md) — replay provides concrete evidence for reflection instead of relying on memory alone.

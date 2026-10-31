@@ -58,6 +58,8 @@ The review recommends that structured, interactive and hands-on diabetic foot ca
 - [Embed ethics in AI capacity building using hands-on approaches, case studies, and role reversal](hands-on-case-study-ai-ethics-training.md)
 - [Operationalize the faculty standards through structured professional learning pathways with modules, microcredentials, and peer review](professional-learning-pathways-standards-operationalization.md)
 - [Design CPD programs with hands-on skill development, ongoing reinforcement, and integration into workplace protocols](cpd-hands-on-skills-reinforcement-protocol-integration.md)
+- [Use competency frameworks and assessment tools to structure nurse training in biologics management](competency-framework-strategy-nurse-biologics-training.md)
+- [Tailor curricula, programs, and support systems to clinical readiness components](tailor-curricula-to-clinical-readiness-components.md)
 
 ## Examples
 -

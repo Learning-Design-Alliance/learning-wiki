@@ -27,7 +27,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 103 claims (56 for, 39 mixed, 8 against) · 104 studies (31 review, 23 causal, 13 theoretical, 11 associational, 10 qualitative, 9 design, 7 quant-synthesis), `q1`–`q4` · 9 of 104 report an effect size · 98 claims rest on one study
+> **Evidence** · 104 claims (56 for, 39 mixed, 9 against) · 105 studies (32 review, 23 causal, 13 theoretical, 11 associational, 10 qualitative, 9 design, 7 quant-synthesis), `q1`–`q4` · 9 of 105 report an effect size · 99 claims rest on one study
 
 ## Conditional relationship
 
@@ -213,6 +213,7 @@ Engagement, immediate achievement on an aligned test, time saved, delayed retent
 - [Learning-styles-tailored instruction shows a large pooled effect on retention, with inconsistent printed values (d = 1.763 in Table 7; d = 1.290 in the abstract and discussion)](../claims/learning-styles-instruction-large-pooled-retention-effect.md) [+W]
 - [Learning-styles-tailored instruction shows a large pooled effect on students' attitudes toward courses (d = 1.113)](../claims/learning-styles-instruction-large-pooled-attitude-effect.md) [~W]
 - [Stratified teaching's effect does not differ significantly between middle school and high school students](../claims/stratified-teaching-effect-similar-middle-high-school.md) [~W]
+- [Only a minority of included SBST programs tailored training to pre-existing skill levels or explicitly assessed learner motivation](../claims/dp-sbst-tailoring-and-motivation-rarely-assessed.md) [-W]
 
 ## Related Principles
 - [Adaptive Learning](adaptive-learning.md) — the system-driven end of the personalization spectrum, where algorithms adjust difficulty and sequencing

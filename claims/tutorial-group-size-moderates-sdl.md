@@ -54,3 +54,5 @@ Review reports Lohman and Finkelstein's pretest–posttest comparison of small, 
 - [No differences between student and staff tutors in focus on cooperation among group members](no-difference-tutor-cooperation-orientation.md) — related
 - [Project-based learning improves achievement](project-based-learning-improves-achievement.md) — related
 - [AI-supported PBL students reported higher computational thinking on a self-report scale than traditional-lecture students, controlling for pretest scores](ai-pbl-higher-posttest-computational-thinking.md) — related
+- [PBL and active learning activities promote SDL while lectures and tests deter it, though evidence is inconsistent](pbl-promotes-sdl-lectures-deter.md) — related
+- [Higher SDL ability is reported when students work in small groups with peers and an educator rather than one-on-one](small-groups-peers-educator-higher-sdl.md) — related

@@ -48,3 +48,4 @@ This scoping review found that "15 addressed learning theories to guide faculty 
 - [Active and interactive teaching-learning methodologies are widely used in faculty development for IPE, favoring exchange of experiences between educators and health professionals](active-interactive-methodologies-ipe-faculty-development.md) — related
 - [Six teaching strategies are used in IPE, with participating in a collaborative activity the most frequently reported](six-ipe-teaching-strategies.md) — related
 - [Case-based discussion is the most commonly used learning activity type in interprofessional education for undergraduate healthcare students](cbd-most-common-ipe-activity.md) — related
+- The most widely adopted theory among the reviewed studies is Experiential Learning Theory — related

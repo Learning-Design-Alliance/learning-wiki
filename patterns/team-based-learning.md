@@ -15,7 +15,7 @@ grain_size: unit, course
 # Team Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 39 claims (23 for, 14 mixed, 2 against) · 30 studies (9 quant-synthesis, 8 causal, 7 review, 2 associational, 2 design, 2 theoretical), `q1`–`q4` · 9 of 30 report an effect size · 32 claims rest on one study
+> **Evidence** · 46 claims (27 for, 17 mixed, 2 against) · 33 studies (12 quant-synthesis, 8 causal, 7 review, 2 associational, 2 design, 2 theoretical), `q1`–`q4` · 10 of 33 report an effect size · 38 claims rest on one study
 
 ## Description and scope
 
@@ -101,6 +101,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+M] — partly checked: 1 of 2 entries pass, the rest could not be confirmed (abstract)
 - [Belonging interventions improve outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+M] — checked by the judge: all 2 entries pass (abstract)
 - [TBL effects on theoretical knowledge and practical skills are larger in interventions lasting more than 4 weeks](../claims/tbl-effect-larger-interventions-over-four-weeks.md) [+W] — attached 2026-10-31 from Fu Jie et al. (2026), which proposed "Allocate sufficient instructional hours so TBL interventions can mature before expecting full benefits".
+- [TBL students achieve significantly higher post-test final scores than LBL students in medical education](../claims/tbl-higher-post-test-scores-than-lbl.md) [+M] — attached 2026-10-31 from Xie Zhi-Bo et al. (2025), which proposed "Generalize TBL pedagogy in medical education classrooms"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 
@@ -137,6 +138,12 @@ The retrieval evidence supports the readiness tests as retrieval with feedback; 
 - [Low pre-reading compliance and resource demands hinder TBL implementation](../claims/tbl-implementation-barriers.md) [~W]
 - [TBL in medical ethics education improves knowledge retention compared to lectures](../claims/tbl-improves-ethics-knowledge-retention.md) [+W]
 - [TBL increases student satisfaction and engagement in ethics education](../claims/tbl-increases-ethics-satisfaction-engagement.md) [+W]
+- [Cluster analysis identifies PBL + WeChat, TBL and CBL + WeChat as most promising for theoretical and practical performance with low dissatisfaction](../claims/cluster-analysis-pbl-wechat-tbl-cbl-wechat-most-promising.md) [+W]
+- [TBL benefits on scores differ by academic standing: high achievers gain more while low achievers may benefit less in problem-solving](../claims/tbl-benefits-vary-by-academic-standing.md) [~W]
+- [Both Chinese and Western students benefit from TBL, with Western students showing larger score improvements](../claims/tbl-benefits-chinese-and-western-students.md) [+M]
+- [TBL students achieve significantly higher pre-test scores than LBL students after team-based preparation](../claims/tbl-higher-pre-test-scores-than-lbl.md) [+W]
+- [TBL requires more student preparation time than LBL](../claims/tbl-requires-more-preparation-time-than-lbl.md) [~W]
+- [Team-based learning shows no significant difference in multiple-choice question scores compared to traditional teaching](../claims/team-based-learning-no-significant-difference-mcq-scores.md) [~W]
 
 ## Related Patterns
 - [Cooperative Learning](cooperative-learning.md) — shares positive interdependence and individual accountability; TBL adds the readiness assurance cycle and simultaneous reporting

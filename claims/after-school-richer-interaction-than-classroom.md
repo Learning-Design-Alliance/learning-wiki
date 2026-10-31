@@ -54,3 +54,4 @@ Qualitative comparison drawn from student comments in both project sites. Marlen
 - [Middle school students in inquiry-based computer-based learning environments gain more conceptual understanding of force and energy than peers in regular inquiry-based classrooms](computer-based-ibl-greater-conceptual-understanding-gains.md) — related
 - [Teaching reflective questioning or using graphical representations improves procedural and conceptual knowledge across diverse populations](reflective-questioning-graphical-representations-improve-algebra-outcomes.md) — related
 - [DI students relied on notes rather than exploring the agent-based models, while PF classes showed lively collaborative exploration and questioning](di-passive-note-reliance-vs-pf-exploration.md) — related
+- [Peers have an essential role in promoting SDL through collaboration, motivation and support, though effects are mixed](peers-promote-sdl-collaboration-motivation.md) — related

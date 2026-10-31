@@ -78,6 +78,8 @@ The flipped model's advantage comes from spending scarce synchronous time on act
 - [Adapt the E-5C model for fully online delivery by converting each of the 5Cs to a virtual equivalent](e5c-online-adaptation-strategy.md)
 - [Integrate synchronous discussion tools into online flipped learning environments to maximize engagement and self-regulation](integrate-synchronous-discussion-flipped-learning.md)
 - [Design synchronous online sessions as interactive lessons rather than recorded-style lectures](interactive-synchronous-sessions-strategy.md)
+- [Use blended bookend learning combining self-paced online modules with synchronous interactive discussion and case supervision](blended-bookend-learning-psychiatric-education.md)
+- [Pair online lectures with virtual role-play or simulation sessions to add experiential learning](online-lecture-virtual-roleplay-simulation.md)
 
 ## Examples
 - **Michigan State University's fully online flipped calculus courses** — students watch short videos and complete online checks before live problem-solving sessions; published studies report improved pass rates over lecture-based online sections.

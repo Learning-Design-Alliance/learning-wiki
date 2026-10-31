@@ -69,3 +69,4 @@ Meta-analysis of randomized trials comparing virtual patients with traditional e
 - [Virtual patients more effectively improve skills than traditional education (pooled SMD=0.90)](vp-traditional-skills-advantage.md) — related
 - [Virtual patient blended learning shows a moderate but non-significant pooled skills effect versus traditional education alone (SMD=0.60, CI crossing zero)](vp-blended-skills-mixed.md) — related
 - [In the few trials comparing them, virtual patients showed no significant knowledge differences versus other digital education, and skills differences in only one of three studies](vp-vs-other-digital-no-difference.md) — related
+- [Blended teaching shows no significant difference in multiple-choice question scores compared to traditional teaching](blended-teaching-no-significant-difference-mcq-scores.md) — related

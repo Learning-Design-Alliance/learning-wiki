@@ -61,3 +61,4 @@ Narrative synthesis of the few trials comparing virtual patients with other digi
 - [Virtual patient simulations show mixed effects: improved diagnostic accuracy in one trial, no advantage over video teaching in another, and short-lived knowledge gains](virtual-patients-mixed-psychiatry.md) — related
 - [Virtual simulation teaching enhances learning outcomes and deepens professional cognition through repeated practice, trial-and-error, and error-correction feedback](vs-advantages-learning-outcomes.md) — reports the opposite
 - [In anaesthesia education, e-learning shows no consistent benefit over traditional learning across trials](e-learning-no-consistent-benefit-anaesthesia.md) — a broader claim this one bears on
+- [In the Harris RCT, neither e-learning strategy improved substance abuse management outcomes versus no training](harris-rct-no-p-csat-difference.md) — related

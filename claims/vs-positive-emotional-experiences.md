@@ -54,3 +54,7 @@ Synthesized finding from the meta-synthesis of 17 qualitative studies, drawing o
 - [In a piloted virtual reality WIL, most students reported improved crisis-problem-solving understanding and high enjoyment](vr-wil-crisis-pilot-outcomes.md) — related
 - [The most frequently reported challenge of virtual simulation teaching is its lack of realism, alongside operational complexity, English-language demands, cultural mismatch, and adverse physical reactions](vs-challenges-realism-and-usability.md) — reports the opposite
 - [A JBI meta-synthesis of 17 qualitative studies integrates nursing students' virtual simulation experiences into nine categories and four synthesized findings](vs-teaching-meta-synthesis-four-findings.md) — a broader claim this one bears on
+- [Educators reported challenges including lacking confidence, feeling nervous, and requiring significant training and expertise when using online simulation approaches](educators-report-confidence-training-challenges-online-simulation.md) — related
+- [Extended immersive ward-based simulation may improve preparedness and self-confidence of nursing students](immersive-ward-simulation-improves-preparedness.md) — related
+- [Immersive VR tracheostomy training reduced anxiety more than regular training at follow-up](vr-tracheostomy-training-reduced-anxiety.md) — related
+- [XR gesture-simulation interventions reduce anxiety in most included midwifery and nursing education studies](xr-gesture-simulation-reduces-nursing-anxiety.md) — related

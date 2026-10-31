@@ -49,6 +49,7 @@ The program's implementation model is a two-part virtual professional developmen
 - [Combine summer professional development with school-year on-site coaching and provision of complete instructional materials](summer-pd-plus-coaching-plus-materials-kits.md)
 - [Layered implementation support for teachers adopting a new science curriculum: preservice training, follow-up training, and a science coach](layered-teacher-implementation-support-science-curriculum.md)
 - [Replace labor-intensive in-person coaching with a virtual professional learning community to scale professional development](vplc-replaces-in-person-coaching-for-scale.md)
+- [Implement continuous virtual professional development programs for faculty](continuous-virtual-faculty-professional-development.md)
 
 ## Examples
 -

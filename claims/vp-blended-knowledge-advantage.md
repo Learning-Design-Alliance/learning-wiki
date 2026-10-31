@@ -73,3 +73,5 @@ Random-effects meta-analysis of 5 studies comparing virtual patient blended lear
 - [Blended instruction yields an above-moderate positive effect on student performance versus traditional teaching (SMD = 0.669)](blended-instruction-above-moderate-effect-smd-0669.md) — related
 - [Simulation complemented by other techniques improves patient safety competency more than simulation alone, but added classroom teaching did not improve teamwork attitudes](blended-simulation-versus-simulation-alone-mixed.md) — related
 - [GAI-assisted teaching significantly improves knowledge examination scores in medical students compared with traditional teaching (SMD = 0.95)](gai-teaching-improves-knowledge-scores-medical-students.md) — related
+- [Blended teaching shows no significant difference in multiple-choice question scores compared to traditional teaching](blended-teaching-no-significant-difference-mcq-scores.md) — related
+- [Team-based learning shows no significant difference in multiple-choice question scores compared to traditional teaching](team-based-learning-no-significant-difference-mcq-scores.md) — related

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: TBL is associated with improved self-study ability, communication skills, and teamwork ability versus LBL
-description: TBL is associated with improved self-study ability, communication skills, and teamwork ability versus LBL
+title: In Chinese neurology education, TBL alone or combined with other methods is associated with improved self-study ability, communication skills, and teamwork ability versus LBL
+description: In Chinese neurology education, TBL alone or combined with other methods is associated with improved self-study ability, communication skills, and teamwork ability versus LBL
 id: tbl-improves-self-study-communication-teamwork
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-10-31
 sources:
   - id: fu-jie-2026
     resource: "https://doi.org/10.1186/s12909-026-09468-1"
@@ -20,14 +21,14 @@ sources:
     rigour: 2
 ---
 
-# TBL is associated with improved self-study ability, communication skills, and teamwork ability versus LBL
+# In Chinese neurology education, TBL alone or combined with other methods is associated with improved self-study ability, communication skills, and teamwork ability versus LBL
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i3` TBL enhanced students' self-study ability (SMD = 1.15), communication skills (SMD = 2.36), and teamwork ability (SMD = 0.97) relative to LBL. [→ Fu Jie 2026](#fu-jie-2026)
+`q3 i3` In RCTs of neurology education in mainland China, TBL alone or combined with other teaching methods was associated with higher self-study ability (SMD = 1.15, 3 studies), communication skills (SMD = 2.36, 4 studies), and teamwork ability (SMD = 0.97, 3 studies) than LBL. [→ Fu Jie 2026](#fu-jie-2026)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Fu Jie, Chen Xiu, Li Jinglun, Peng Lilei. (2026). TBL alone or combined with oth
 
 `q3 · i3` · `quant-synthesis · r2`
 
-Meta-analysis of secondary outcomes across small sets of RCTs: self-study ability from 3 studies (SMD = 1.15), communication skills from 4 studies (SMD = 2.36), and teamwork ability from 3 studies (SMD = 0.97, 95% CI: 0.68 to 1.26, p < 0.00001).
+Meta-analysis of 16 RCTs (1,267 students, interns and residents) in neurology education in mainland China, comparing TBL alone (9 studies) or TBL combined with other teaching methods (7 studies) with lecture-based learning. These are secondary outcomes from small sets of the RCTs: self-study ability from 3 studies (SMD = 1.15), communication skills from 4 studies (SMD = 2.36), and teamwork ability from 3 studies (SMD = 0.97, 95% CI: 0.68 to 1.26, p < 0.00001). The authors note the included studies' low methodological quality (none reported allocation concealment) and that results from mainland China may not generalise elsewhere.
 
 > "For self-study ability, 3 studies were included in the meta-analysis, and the pooled SMD was 1.15 (95% CI: 0.69 to 1.61, p < 0.00001). For communication skills, 4 studies were included, and the meta-analysis yielded a SMD of 2.36 (95% CI: 0.74 to 3.98, p = 0.004)."
 
@@ -54,3 +55,8 @@ Meta-analysis of secondary outcomes across small sets of RCTs: self-study abilit
 - [TBL is associated with higher theoretical knowledge scores than LBL in Chinese neurology education (SMD = 1.16)](tbl-higher-theoretical-knowledge-scores-neurology-china.md) — related
 - [Students in TBL groups report higher satisfaction than students in LBL groups](tbl-higher-student-satisfaction-neurology.md) — related
 - [TBL significantly improves communication skills while PBL does not](tbl-significant-pbl-not-communication.md) — related
+- [PBL alone most improves self-directed learning ability of internal medicine residents versus LBL](pbl-improves-self-directed-learning-residents.md) — related
+- [Both Chinese and Western students benefit from TBL, with Western students showing larger score improvements](tbl-benefits-chinese-and-western-students.md) — related
+- [TBL students show significantly higher classroom engagement than LBL students](tbl-higher-engagement-than-lbl.md) — related
+- [TBL students achieve significantly higher post-test final scores than LBL students in medical education](tbl-higher-post-test-scores-than-lbl.md) — related
+- [Team-based learning outperforms LBL in improving practical test scores of internal medicine residents](tbl-outperforms-lbl-practical-scores-residents.md) — related

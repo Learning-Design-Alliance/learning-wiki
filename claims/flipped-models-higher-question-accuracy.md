@@ -55,3 +55,4 @@ Classroom interaction analysis in the same three-cohort quasi-experiment (N=68).
 - [In one reviewed study, flipped classrooms using AI tools raised cognitive and emotional engagement but behavioral engagement showed no significant difference from traditional methods](ai-flipped-classroom-behavioral-engagement-null.md) — related
 - [A DLS with multiple scaffolds improved achievement and SRL attitudes, with high-achieving students beating traditional teaching but not flipped classroom](multiple-scaffolds-dls-achievement-srl.md) — related
 - [PBL and flipped classrooms frequently show better post-test performance and knowledge retention than traditional methods](pbl-flipped-better-post-test-performance.md) — a broader claim this one bears on
+- [Flipped classroom teaching improves medical students' multiple-choice question scores compared to traditional teaching](flipped-classroom-improves-mcq-scores-medical-students.md) — related

@@ -53,3 +53,4 @@ Theoretical argument in the editorial, drawing on Eraut's (1994) four processes 
 - [ChatGPT's intuitive interface and instant feedback can either support learning or enable superficial task completion depending on integration](chatgpt-support-or-superficial-completion.md) — related
 - [Two distinct group deliberation patterns emerge in response to regulation triggers: the Plan and Implementation Approach (PIA) and the Trials and Failure Approach (TFA)](pia-tfa-deliberation-patterns-ssrl.md) — related
 - [Experts show rapid pattern recognition and instantaneous visceral decision-making, while novices rely on prolonged deliberate analysis that may lag events](expert-pattern-recognition-novice-prolonged-analysis.md) — a narrower finding that bears on this claim
+- [Clinical reasoning facilitation employs both analytical and non-analytical thinking approaches](analytical-non-analytical-clinical-reasoning-facilitation.md) — a narrower finding that bears on this claim

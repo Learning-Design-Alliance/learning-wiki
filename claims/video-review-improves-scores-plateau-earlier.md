@@ -70,3 +70,5 @@ The review's discussion of the video-review study reports improved accuracy with
 - [Virtual haptic drilling training achieved outcomes similar to conventional practice in less time in restorative dentistry](ir-shortens-dental-training-duration.md) — related
 - [Haptic simulator trials more frequently show superior accuracy outcomes when force-feedback and structured guidance are included](haptic-simulator-force-feedback-accuracy-gains.md) — related
 - [Simulation-based education improves medical students' biomedical science skills and shortens the learning curve](simulation-improves-biomedical-skills-learning-curve.md) — related
+- [Control groups in DP-informed SBST studies also improved but reached performance plateaus earlier and at lower competency levels](dp-sbst-control-groups-plateau-earlier-lower.md) — related
+- [In thyroid surgery training, simulation and virtual-reality training improved technical performance and task completion time, and simulators were rated as realistic](simulation-vr-improves-thyroid-surgery-technical-performance.md) — related

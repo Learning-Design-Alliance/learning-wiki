@@ -47,6 +47,7 @@ The review recommends moving beyond descriptive KAP surveys toward more robust a
 - [Advance learning analytics for study success through standardised measures, multimodal data, theory-informed practice, and large-scale longitudinal experimental designs](la-future-design-recommendations.md)
 - [Prioritise longitudinal validation, pedagogical grounding, governed adoption of agent infrastructures, and ethics with human oversight in educational agentic AI research](agentic-ai-education-future-priorities.md)
 - [Future active-learning research should use randomised controlled designs with larger samples and standardised outcome measures](rigorous-rct-design-future-active-learning-research.md)
+- [Future simulation research should use rigorous designs, standardized tools, and transparent reporting](strategy-rigorous-simulation-research-design.md)
 
 ## Examples
 -

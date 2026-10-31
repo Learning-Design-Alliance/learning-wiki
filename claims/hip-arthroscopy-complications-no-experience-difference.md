@@ -53,3 +53,4 @@ Random-effects meta-analysis of six studies reporting overall complications, whe
 - [Conversion to total hip arthroplasty is significantly lower in late-experience hip arthroscopy cases than in early cases](hip-arthroscopy-experience-lower-tha-conversion.md) — related
 - [Late-experience hip arthroscopy cases achieve higher functional improvement in MCID units than early-experience cases](hip-arthroscopy-experience-higher-functional-mcid.md) — related
 - [Blood loss, urinary complications, and morbidity decreased during the proficiency phase of robotic LLND](robotic-llnd-outcomes-improve-proficiency.md) — related
+- [Fellowship-trained surgeons showed shorter operative times and fewer complications compared with non-fellowship peers](fellowship-trained-surgeons-shorter-operative-times-fewer-complications.md) — related

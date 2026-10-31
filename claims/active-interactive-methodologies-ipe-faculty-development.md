@@ -50,3 +50,4 @@ In this scoping review of faculty development competencies for interprofessional
 - [Faculty and facilitators in IPE have difficulty identifying interprofessional learning opportunities in practice settings, requiring experienced agents to support them](ipe-faculty-difficulty-identifying-learning-opportunities.md) — related
 - [Faculty development for interprofessional education emphasizes interprofessional collaborative and facilitation competencies, with communication and teamwork as the most highlighted domains](ipe-faculty-development-competencies-communication-teamwork.md) — related
 - Most faculty development studies in IPE use the CIHC and IPEC frameworks to guide interprofessional collaborative competencies — related
+- [Mentoring interprofessional students in clinical practice requires specific competencies that differ from profession-specific and individual mentoring](interprofessional-mentoring-requires-specific-competence.md) — related

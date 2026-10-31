@@ -50,3 +50,4 @@ Random-effects meta-analysis of 19 experimental/comparison studies coded with sa
 - [Student-centred strategies, methods and techniques produce a moderate-to-high overall effect on primary school students' mathematics achievement compared to traditional teaching (ES = 0.787, random-effects model)](student-centred-methods-math-achievement-meta-analysis-0787.md) — related
 - [Effect sizes across the included studies are highly heterogeneous (I² = 91.37%), indicating moderating factors](high-heterogeneity-innovative-models-critical-thinking.md) — related
 - Statistical critical thinking is under-researched relative to mathematical critical thinking in this literature — a narrower finding that bears on this claim
+- [The certainty of evidence for the effects of teaching strategies on critical thinking ranges from very low to moderate, with no strategy rated high.](certainty-of-evidence-teaching-strategies-critical-thinking-very-low-to-moderate.md) — related
