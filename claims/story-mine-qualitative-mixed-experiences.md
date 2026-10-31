@@ -52,3 +52,4 @@ Thematic analysis of postintervention open-ended responses (T1) and immediate na
 - [Students perceived the future as more unpredictable after the course, often finding the openness liberating rather than distressing](course-future-perceived-more-unpredictable.md) — related
 - [After the futures-and-quantum-computing course, upper-secondary students reported a more optimistic or hopeful outlook on the future](course-fostered-optimistic-futures-outlook.md) — related
 - [Students developed varied perceptions of video annotation, citing benefits for SRL and acting alongside embarrassment and added workload](varied-student-perceptions-video-annotation.md) — related
+- [Qualitative findings describe increased awareness of physical effort and mobility limitations and emotional responses such as discomfort](oss-qualitative-awareness-physical-emotional.md) — related

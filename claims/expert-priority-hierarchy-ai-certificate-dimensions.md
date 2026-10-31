@@ -53,3 +53,4 @@ AHP analysis of structured pairwise comparisons from 18 domain experts across Ch
 - [Experts' AHP priorities cluster into three groups differing by seniority and LA expertise](expert-priority-clusters-seniority-la-expertise.md)
 - [Faculty Professional Competence shows the largest gap between perceived importance and current satisfaction among the five dimensions](faculty-competence-largest-importance-performance-gap.md) — related
 - [Experts rated the initial curriculum highest on AI/robotics integration and teamwork (both M=4.60) and lowest on communication (M=3.40) and assessment (M=3.60)](expert-ratings-initial-curriculum-integration-teamwork-highest.md) — related
+- [AHP weighting ranks Communication and Health Education Skills highest (0.235) among the seven competency dimensions](ahp-weights-communication-highest-tb-educator-competency.md) — related

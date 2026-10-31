@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2015
+source_checked: 2026-10-31
 sources:
   - id: benedict-du-boulay-2015
     resource: "https://doi.org/10.1007/s40593-015-0060-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` ITSs showed positive effects versus no tutoring and large-group teacher-led instruction, but no differences versus small-group or one-to-one human tutoring. [→ Benedict du Boulay 2015](#benedict-du-boulay-2015)
@@ -58,3 +59,4 @@ The letter reports the Ma et al. (2014) meta-analysis of step-based ITSs: "posit
 - [A meta-review found intelligent tutoring systems approaching the effectiveness of ordinary human tutors, whose effectiveness is below that of expert tutoring](vanlehn-metareview-its-approaching-human-tutors.md) — related
 - [Non-expert human tutors follow a limited 5-step collaborative reasoning repertoire, with far more student question-asking than classroom instruction](five-step-frame-human-tutor-corpus.md) — related
 - [The introduction reports that the VCR tutor produced statistically significant performance gains in using the VCR, a rare result for ITSs at the time](vcr-tutor-significant-performance-gains.md) — a narrower finding that bears on this claim
+- [No significant difference in ICEMS performance scores between AI tutoring and expert instruction](ai-tutoring-no-icems-difference.md) — a narrower finding that bears on this claim

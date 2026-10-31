@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 83 claims (40 for, 39 mixed, 4 against) · 76 studies (15 review, 14 causal, 13 associational, 11 quant-synthesis, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 11 of 76 report an effect size · 82 claims rest on one study
+> **Evidence** · 87 claims (42 for, 41 mixed, 4 against) · 79 studies (17 review, 14 causal, 13 associational, 12 quant-synthesis, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 12 of 79 report an effect size · 86 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -118,6 +118,10 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [AR effect sizes differ significantly by display device, with the largest effect for mobile devices (0.686) and the smallest for webcam-based devices (0.159)](../claims/ar-effect-significant-by-display-device.md) [~W]
 - [EdTech effects vary by school stage and subject, with science showing the largest subject-level effect (d = 0.893)](../claims/edtech-effects-vary-stage-subject.md) [~W]
 - [School-based EdTech interventions show a moderate positive pooled effect on student attainment (d = 0.4), with high heterogeneity across studies](../claims/edtech-pooled-effect-attainment-d-0-4.md) [~W]
+- [Thirty studies described digital learning tools with digital microscopy integrated, used by educators for teaching and by students for independent study](../claims/digital-microscopy-tools-dual-use-educators-students.md) [+W] — attached 2026-10-31 from Nava E et al. (2026), which proposed "Catalogue of digital learning tools with digital microscopy integrated for histology and pathology education".
+- [Comparisons of digital microscopy and light microscopy show mixed results: students rated light microscopy higher for satisfaction while digital microscopy showed higher examination averages in one study, and several studies found no significant performance differences](../claims/digital-versus-light-microscopy-mixed-performance.md) [~W]
+- [GAI-assisted teaching significantly improves self-directed learning ability compared with traditional teaching (SMD = 1.25; OR = 7.37)](../claims/gai-teaching-improves-self-directed-learning-ability.md) [+W]
+- [In a gamified digital tool evaluation, perceived usefulness was the only independent predictor of nurses' self-assessed competence](../claims/perceived-usefulness-predicts-self-assessed-competence.md) [~W]
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

@@ -50,3 +50,4 @@ The Torgerson et al. (2006) meta-analysis restricted to the randomized control t
 - [Phonics instruction has a small but statistically confirmed effect for children with reading disabilities, while Orton-Gillingham structured-literacy programs show positive but non-significant effects](structured-literacy-interventions-help-struggling-readers.md) — related
 - [The National Reading Panel provided no evidence that phonics helps the majority of struggling readers above grade 1](nrp-no-evidence-struggling-readers-above-grade-1.md) — related
 - [In a systematic review of RCTs, only phonics training — a proximal intervention — produced a statistically reliable effect in poor readers](phonics-only-reliable-rct-effect-poor-readers.md) — reports the opposite
+- Study design moderates reported effects: RCTs gave more conservative or mixed results while non-randomized and uncontrolled designs more consistently reported positive effects — related

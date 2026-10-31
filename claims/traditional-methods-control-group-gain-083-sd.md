@@ -46,7 +46,7 @@ Meta-analysis of 31 theses' control-group pretest-posttest data using Cohen's d 
 
 ## Related Claims
 - [Computer-based teaching has a large, positive, significant effect on students' academic success compared with traditional teaching methods in Turkish studies from 2006-2014](cbt-large-positive-effect-academic-success-turkey-meta-analysis.md) — related
-- [Control-group implementations of the traditional method were undocumented (no lesson plans, no recordings), creating a reliability problem in the underlying studies](control-group-implementation-undocumented.md) — related
+- Control-group implementations of the traditional method were undocumented (no lesson plans, no recordings), creating a reliability problem in the underlying studies — related
 - [Most individual studies favor posttest over pretest: 24 of 31 show statistically significant gains and 28 of 31 favor posttest](forest-plot-24-of-31-significant-posttest.md) — related
 - [The 5E instructional model shows a large, significant pooled effect on academic achievement versus traditional teaching methods in Turkish studies (2008-2014)](5e-model-large-effect-academic-achievement.md) — related
 - [MIT-based instruction shows a large overall positive effect on students' academic achievement in a meta-analysis of 75 Turkish experimental theses and dissertations](mit-instruction-large-overall-effect-achievement.md) — related

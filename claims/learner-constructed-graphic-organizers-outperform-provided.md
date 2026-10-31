@@ -126,3 +126,4 @@ In three experiments, learners read a passage that came either with author-provi
 - [Active-processing focus-support techniques such as testing, self-explaining, concept mapping, and drawing show positive effects on learning](focus-support-active-processing-techniques-positive-effects.md) — related
 - [Self-generated concept mapping benefits learning from grade 4 onwards with similar effect sizes across grades 4–8, 9–12, and college](concept-mapping-effective-grade-4-onwards.md) — related
 - [Sequencing generated drawing before viewing a provided visual improves transfer, suggesting provided visuals work best as feedback](drawing-before-provided-visual-improves-transfer.md) — related
+- [Online testable concept maps improve pathology quiz scores with moderate-to-large effect sizes (Cohen's d = 0.7–0.8)](concept-maps-pathology-effect-sizes-ho.md) — related

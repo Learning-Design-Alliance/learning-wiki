@@ -49,7 +49,7 @@ Meta-analytic sub-group analyses across publication type (article, master thesis
 - [The effect of the 7E learning cycle on achievement differs significantly by subject matter, with the largest average for chemistry and the smallest for science](7e-effect-varies-by-subject-matter.md) — related
 - [Application period, publication type, database, grade level, scale used, school starting age, country and sample size do not significantly moderate the effect of student-centred methods on mathematics achievement](non-significant-moderators-meta-analysis-primary-math.md) — related
 - [Effect of learning stations does not differ significantly by application duration](learning-stations-duration-null-moderator.md) — related
-- [The effect of multiple intelligence practices does not differ significantly by type of study (article, master's thesis, doctoral thesis)](mi-effect-no-difference-study-type.md) — related
-- [Effect sizes differ significantly by publication type, with master's theses and articles showing higher effects than PhD theses.](moderator-publication-type-effect.md) — related
+- The effect of multiple intelligence practices does not differ significantly by type of study (article, master's thesis, doctoral thesis) — related
+- Effect sizes differ significantly by publication type, with master's theses and articles showing higher effects than PhD theses. — related
 - [Academic achievement effects of STEM practices differ significantly by publication type and education level but not by lesson type](stem-achievement-moderators-publication-type-education-level.md) — related
 - [Publication type, course type, educational level, and experimental duration did not significantly moderate the effect of context-based learning on academic achievement](cbl-achievement-non-significant-moderators.md) — related

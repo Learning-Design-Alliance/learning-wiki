@@ -45,17 +45,17 @@ Publication-bias assessment of the meta-analysis using funnel scatter plot, clip
 
 
 ## Related Claims
-- [Funnel plot analysis showed no publication bias among the 15 studies included in the AR meta-analysis](ar-meta-analysis-no-publication-bias.md) — related
-- [Fail-safe N analyses (Rosenthal N = 902.2; Orwin N = 140.0) indicate the meta-analytic result is robust to unpublished conflicting studies](came-fail-safe-n-robustness.md) — related
+- Funnel plot analysis showed no publication bias among the 15 studies included in the AR meta-analysis — related
+- Fail-safe N analyses (Rosenthal N = 902.2; Orwin N = 140.0) indicate the meta-analytic result is robust to unpublished conflicting studies — related
 - [The meta-analytic effect of learning stations is resistant to publication bias](learning-stations-publication-bias-resistance.md) — related
-- [Publication-bias checks give mixed results: Egger's test indicates funnel-plot asymmetry while Trim and Fill and Fail-Safe N indicate no bias](mixed-publication-bias-evidence-meta-analysis.md) — related
+- Publication-bias checks give mixed results: Egger's test indicates funnel-plot asymmetry while Trim and Fill and Fail-Safe N indicate no bias — related
 - [The digital story meta-analysis is resistant to publication bias by fail-safe N and trim-and-fill tests](digital-story-meta-analysis-resistant-publication-bias.md) — related
-- [The meta-analysis is resistant to publication bias by Rosenthal's fail-safe N criterion](rme-meta-analysis-publication-bias-resistant.md) — related
-- [No publication bias was detected in the set of creative drama studies on Social Studies achievement](no-publication-bias-creative-drama-social-studies.md) — related
+- The meta-analysis is resistant to publication bias by Rosenthal's fail-safe N criterion — related
+- No publication bias was detected in the set of creative drama studies on Social Studies achievement — related
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](srl-meta-analysis-publication-bias-absent.md) — related
-- [Publication bias tests give mixed evidence: Egger's test indicates bias, but fail-safe N calculations lead the authors to conclude no publication bias](publication-bias-mixed-egger-failsafe.md) — related
+- Publication bias tests give mixed evidence: Egger's test indicates bias, but fail-safe N calculations lead the authors to conclude no publication bias — related
 - [Publication bias is present and may inflate the overall hands-on effect size estimate](hands-on-publication-bias-inflates-estimate.md) — related
-- [The meta-analysis shows no publication bias problem by Rosenthal's fail-safe N criterion](no-publication-bias-fsn-blended-learning-meta-analysis.md) — related
-- [Fail-safe analyses indicate the meta-analysis findings are not attributable to publication bias](seitla-no-publication-bias-failsafe.md) — related
-- [Fail-safe N analyses indicate the pooled effect is resistant to publication bias (Rosenthal FSN = 2139; Orwin FSN = 1048)](fsn-resistance-publication-bias-cre-meta-analysis.md) — related
-- [The meta-analysis results are resistant to publication bias, per fail-safe N of 1791](game-math-meta-resistant-to-publication-bias.md) — related
+- The meta-analysis shows no publication bias problem by Rosenthal's fail-safe N criterion — related
+- Fail-safe analyses indicate the meta-analysis findings are not attributable to publication bias — related
+- Fail-safe N analyses indicate the pooled effect is resistant to publication bias (Rosenthal FSN = 2139; Orwin FSN = 1048) — related
+- The meta-analysis results are resistant to publication bias, per fail-safe N of 1791 — related

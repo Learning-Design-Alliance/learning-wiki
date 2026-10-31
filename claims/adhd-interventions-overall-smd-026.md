@@ -45,8 +45,9 @@ Meta-analysis combining multivariate meta-analysis and robust variance estimatio
 
 
 ## Related Claims
-- [Whether studies randomly allocated participants was not significantly related to effect size magnitude in the ADHD psychosocial treatment meta-analysis](random-allocation-unrelated-adhd-effect-size.md) — related
+- Whether studies randomly allocated participants was not significantly related to effect size magnitude in the ADHD psychosocial treatment meta-analysis — related
 - [Behavioral parent training yields its strongest proximal effect on parenting behaviors (SMD = 0.70, parent rater) among ADHD psychosocial treatments](behavioral-parent-training-parenting-behaviors-smd-070.md) — a narrower finding that bears on this claim
 - [Effect sizes across ADHD between-group intervention studies range from −0.76 to 1.12 with a median of 0.18 and a slightly positive skewed distribution](adhd-study-smd-distribution-median-018.md) — related
-- [Prior meta-analyses of ADHD psychosocial treatment overlapped minimally in the studies they included (2% to 46%), undermining confidence in any single review](prior-adhd-meta-analyses-low-study-overlap.md) — related
-- [Study year of publication was not significantly related to effect size magnitude in the ADHD psychosocial treatment meta-analysis](study-year-unrelated-adhd-effect-size.md) — related
+- Prior meta-analyses of ADHD psychosocial treatment overlapped minimally in the studies they included (2% to 46%), undermining confidence in any single review — related
+- Study year of publication was not significantly related to effect size magnitude in the ADHD psychosocial treatment meta-analysis — related
+- [Associations between psychosocial factors and academic performance are heterogeneous, with 13 of 45 studies reporting null or weak findings](heterogeneous-associations-null-findings-medical-students.md) — related

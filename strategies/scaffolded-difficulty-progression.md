@@ -66,6 +66,7 @@ Tasks pitched too high overload working memory and produce failure-driven diseng
 - [Mastery-Based Progression](mastery-based-progression.md) — gates advancement on demonstrated competence rather than time
 - [Mask the reinforcement learning policy's action space to a zone-of-proximal-development difficulty band (success probability 0.4–0.8)](zpd-masked-rl-content-sequencing.md)
 - [Fade embodied support as schemas develop, starting with the least embodied task-relevant support](fade-embodied-support-as-schemas-develop.md)
+- [Use AR as targeted early-training scaffolding with progressive withdrawal as competency develops](progressive-withdrawal-ar-guidance.md)
 
 ## Examples
 - **[4C/ID](../patterns/4cid-four-component-instructional-design.md)** — Ten Steps to Complex Learning sequences whole learning tasks from low to high complexity while support fades from worked examples to conventional tasks.

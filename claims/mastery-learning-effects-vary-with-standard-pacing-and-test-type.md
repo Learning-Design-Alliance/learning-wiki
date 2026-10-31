@@ -72,4 +72,4 @@ For design, these cross-study associations suggest, without showing cause, that 
 - [ITS evaluation results depend strongly on test type: effects are large on locally developed tests (ES = 0.73) and small on standardized tests (ES = 0.13)](test-type-moderates-its-effects.md) — related
 - [Self-paced mastery programs (PSI) reduce college course completion, though not by enough to explain their examination advantage](self-paced-mastery-programs-reduce-college-course-completion.md) — related
 - [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — related
-- [Studies using researcher-developed outcomes yield effects about 0.42 SD larger than studies using standardized outcomes](researcher-developed-outcomes-larger-app-effects.md) — related
+- Studies using researcher-developed outcomes yield effects about 0.42 SD larger than studies using standardized outcomes — related

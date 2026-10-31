@@ -63,3 +63,4 @@ Subgroup analysis across school levels within the meta-analysis of 99 effect siz
 - [AR effect sizes do not differ significantly across grade levels, although the descriptive undergraduate effect (0.839) exceeds high school (0.623) and primary (0.303)](ar-effect-grade-level-no-significant-difference.md) — related
 - [Blended instruction effects exceed 0.5 at every education level, peaking at senior secondary (SMD = 0.867), with no significant between-group difference](blended-instruction-effects-education-levels.md) — related
 - [Effect of MIT-based instruction differs significantly by educational level, largest at high school (d = 1.516) and smallest at elementary (d = 0.925)](mit-effect-differs-by-educational-level.md) — related
+- [The relationship between student characteristics and academic achievement is strongest at kindergarten level and declines through elementary and secondary school](school-level-moderates-characteristics-achievement-link.md) — related

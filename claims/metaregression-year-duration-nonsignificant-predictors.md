@@ -45,7 +45,7 @@ Random-effects metaregression of the two coded continuous moderators (Table 4). 
 
 
 ## Related Claims
-- [The effect size does not vary significantly with sample size or publication year in meta-regression](meta-regression-sample-size-year-null.md) — related
+- The effect size does not vary significantly with sample size or publication year in meta-regression — related
 - [Effects on affirming motivations are larger when total intervention duration is longer and when the share of boys in the sample is higher](duration-and-gender-moderators.md) — reports the opposite
 - [Dosage significantly predicts intervention effects in a linear model (β = 0.03 per hour), but the dosage main effect is no longer significant after controlling for moderators](dosage-slope-nonsignificant-with-moderators.md) — reports the opposite
 - [Intervention duration in weeks and study-quality characteristics did not significantly moderate extensive reading effects](er-duration-study-characteristics-null-moderators.md) — related

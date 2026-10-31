@@ -26,7 +26,8 @@ An expert-rated, video-based performance assessment adapted by Emergency Medicin
 - [During-simulation physiological synchrony is positively correlated with team leaders' CRM performance scores (preliminary, 9 teams)](../claims/ps-correlates-leader-crm-performance.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Validated error-assessment scoring tools for microsurgical training (ALI, MARS10, OSATS, GRS)](validated-error-assessment-scoring-tools-for-microsurgical-training-ali-mars10-osats-grs.md)
 
 ## Key Sources
 - Lucia Patino Melo, Sebastian Wallot, Keerat Grewal, Matthew Moreno, Osamu Nomura, Jason M. Harley. (2026). Physiological synchrony amongst medical residents during crisis management simulation training and a video-based assessment of leaders' performance. Learning and Instruction 102 (2026) 102302. https://doi.org/10.1016/j.learninstruc.2025.102302

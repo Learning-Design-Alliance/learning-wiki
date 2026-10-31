@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-10-31
 sources:
   - id: wu-yaqiu-2026
     resource: "https://doi.org/10.1186/s12909-026-09526-8"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2`–`q3` · `i3` large
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Pooled across four studies, flipped teaching significantly improved self-directed learning ability (SMD = 2.54, 95% CI 1.04–4.04) with extreme heterogeneity (I² = 98.8%). [→ Wu Yaqiu 2026](#wu-yaqiu-2026)
@@ -71,3 +72,5 @@ Subgroup analyses for self-directed learning ability (Fig. 4B–D) found no betw
 - [Flipped classrooms are associated with higher theoretical knowledge scores than lecture-based teaching in medical education (pooled SMD = 1.26), with very high heterogeneity](flipped-classroom-theoretical-knowledge-medical-education.md) — related
 - [Flipped classrooms are associated with improved procedural/technical skills in medical education (pooled SMD = 1.80), with larger effects among residents and in theoretical-course settings](flipped-classroom-procedural-skills-medical-education.md) — related
 - [Gamified flipped classroom/animation knowledge effects are inconclusive due to few studies and extreme heterogeneity](gamified-flipped-classroom-inconclusive-knowledge.md) — related
+- Substantial heterogeneity in intervention design, outcome measures, and feedback structures limited comparability across reviews, and no pooled meta-analysis was feasible — related
+- [Initial pooled analysis shows no statistically significant difference between VSAQ and MCQ scores but with extreme heterogeneity](vsaq-mcq-initial-pooled-no-difference-high-heterogeneity.md) — related

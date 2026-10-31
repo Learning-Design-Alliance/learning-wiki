@@ -47,7 +47,7 @@ Moderator analysis across 64 master's theses and 11 doctoral dissertations; the 
 ## Related Claims
 - [Effect of MIT-based instruction does not differ significantly by course type, though foreign-language courses show the largest point estimate (d = 1.958)](mit-effect-homogeneous-course-type.md) — related
 - [Effect of MIT-based instruction does not differ significantly across Turkey's geographical regions](mit-effect-homogeneous-geographical-region.md) — related
-- [Effect of MIT-based instruction does not differ significantly by study sample size](mit-effect-homogeneous-sample-size.md) — related
-- [The effect of multiple intelligence practices does not differ significantly by type of study (article, master's thesis, doctoral thesis)](mi-effect-no-difference-study-type.md) — related
+- Effect of MIT-based instruction does not differ significantly by study sample size — related
+- The effect of multiple intelligence practices does not differ significantly by type of study (article, master's thesis, doctoral thesis) — related
 - [MIT-based instruction shows a large overall positive effect on students' academic achievement in a meta-analysis of 75 Turkish experimental theses and dissertations](mit-instruction-large-overall-effect-achievement.md) — related
 - [Effect of MIT-based instruction differs significantly by educational level, largest at high school (d = 1.516) and smallest at elementary (d = 0.925)](mit-effect-differs-by-educational-level.md) — related

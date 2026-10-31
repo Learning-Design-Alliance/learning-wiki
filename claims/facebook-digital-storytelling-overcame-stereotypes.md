@@ -47,3 +47,4 @@ Qualitative study of 25 American and approximately 40 South African undergraduat
 ## Related Claims
 - [Students initially doubted Facebook as an educational space but came to see it as a real resource for keeping the group in contact and fostering dialogue](facebook-initially-doubted-became-resource.md) — related
 - [DLGs help overcome stereotypes and cultural barriers, including prejudices about Roma people, Muslim immigrant women, and learners without basic education](dlg-overcome-stereotypes-cultural-barriers.md) — related
+- [PBL shifts learners' opinions about topics modestly, and learners with strong pre-existing opinions are less likely to change](pbl-opinion-shifts-limited-by-preexisting-views.md) — related

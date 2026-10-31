@@ -48,3 +48,4 @@ Observation from student self-assessment cover sheets in the UTS law course, rep
 - [In one 2×2 experiment with 120 undergraduates, an Assessment-Performance Calibration Activity (APCA) gave the most accurate self-assessment and least overconfidence, and adding a feedback-literacy script did not improve calibration further](apca-improves-self-assessment-accuracy-overconfidence.md) — related
 - [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — related
 - [A theoretical article, citing two simulation studies, reports that novice clinical learners overestimated their performance and that their confidence exceeded their accuracy](novice-metacognitive-calibration-deficits.md) — a broader claim this one bears on
+- [Students tend to overestimate their own performance when self-assessing with rubrics](students-overestimate-self-assessment-with-rubrics.md) — a broader claim this one bears on

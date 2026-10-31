@@ -46,4 +46,4 @@ Moderator analysis by education level across the 19 included studies, 78.9% of w
 
 ## Related Claims
 - [Web 2.0 technologies (wikis and blogs) show a positive, moderate pooled effect on academic performance (E++ = 0.740) across 19 quasi-experimental studies](web20-pooled-effect-academic-performance-0740.md) — a broader claim this one bears on
-- [Twelve of the nineteen included studies examined web 2.0 in English as a foreign language teaching, indicating wikis and blogs are concentrated in EFL contexts](web20-studies-concentrated-efl-teaching.md) — related
+- Twelve of the nineteen included studies examined web 2.0 in English as a foreign language teaching, indicating wikis and blogs are concentrated in EFL contexts — related

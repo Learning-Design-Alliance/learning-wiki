@@ -58,10 +58,12 @@ Mind mapping's learning benefit comes primarily from the *generative processing*
 4. Revisit and extend the map across sessions as new material is integrated ([Annotating](../principles/annotating.md))
 
 ## Related Strategies
+
 - [Concept Mapping](../elements/concept-mapping.md) — the more constrained, proposition-labeled variant; research evidence is strongest for this form
 - [Outlining](outlining.md) — the linear alternative; mind maps trade linear sequence for visible association
 - [Brainstorming](brainstorming.md) — mind mapping structures the output of a brainstorming phase
 - [Retrieval Practice](retrieval-practice-activities.md) — the stronger alternative when the goal is durable retention rather than organization
+- [Integrate mind and concept maps into preclinical curricula with structured training, weekly review use, and collaborative mapping](integrate-mapping-structured-training-preclinical.md)
 
 ## Examples
 - **[MindMeister](https://www.mindmeister.com)** — collaborative web-based mind mapping with real-time co-editing and export to text outlines; used for team planning and lecture note structuring.

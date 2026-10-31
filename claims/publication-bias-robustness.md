@@ -58,9 +58,9 @@ Three publication-bias tests were applied. Published studies had larger effect s
 - Publication-bias checks indicate limited risk of publication bias in the extensive reading literature synthesized — related
 - No evidence of publication bias was detected in the pooled L2 gender-difference literature — related
 - [No evidence of publication bias was found for the overall effect of gamification on intrinsic motivation](gamification-meta-analysis-no-publication-bias.md) — related
-- [Funnel plot asymmetry indicates publication bias, lowering the bias-adjusted effect size to 0.642](constructivism-attitudes-publication-bias-funnel-plot.md) — reports the opposite
+- Funnel plot asymmetry indicates publication bias, lowering the bias-adjusted effect size to 0.642 — reports the opposite
 - [Diagnostic analyses show the pooled effect sizes for achievement, attitude and retention are robust and not attributable to publication bias](learning-styles-meta-analysis-no-publication-bias.md) — related
-- [Publication bias in the meta-analysis is low, as indicated by a fail-safe N of 4860 and funnel plot inspection.](low-publication-bias-failsafe-4860.md) — related
-- [Publication-bias analyses indicate a low, negligible risk of publication bias in the synthesized effect sizes](low-publication-bias-formative-assessment-meta-analysis.md) — related
-- [Publication-bias analysis indicates 51 unpublished studies would be needed to reverse the meta-analysis findings](mall-file-drawer-51-studies-needed-to-reverse.md) — related
-- [Publication bias due to small study effects was limited, and sensitivity analyses supported Winsorizing an outlying effect size](manipulatives-meta-publication-bias-limited.md) — related
+- Publication bias in the meta-analysis is low, as indicated by a fail-safe N of 4860 and funnel plot inspection. — related
+- Publication-bias analyses indicate a low, negligible risk of publication bias in the synthesized effect sizes — related
+- Publication-bias analysis indicates 51 unpublished studies would be needed to reverse the meta-analysis findings — related
+- Publication bias due to small study effects was limited, and sensitivity analyses supported Winsorizing an outlying effect size — related

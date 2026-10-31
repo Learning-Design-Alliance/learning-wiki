@@ -46,6 +46,7 @@ The article recommends that LLM use in foundational biomedical education focus o
 - [Benchmark AI assistants on specialized educational tasks before classroom deployment](benchmark-ai-assistants-before-classroom-deployment.md)
 - [Apply error mitigation such as self-consistency before deploying LLM-generated help, and frame unmitigated LLM feedback as an imperfect source](mitigate-llm-hint-errors-before-deployment.md)
 - [Make output verification an individually accountable practice within team assignments via rubric requirements](individually-accountable-verification-rubrics.md)
+- [Use LLMs cautiously as supplementary learning tools in dental education, with output verification and professional supervision](cautious-llm-supplementary-tools-dental-education.md)
 
 ## Examples
 -

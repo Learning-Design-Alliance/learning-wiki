@@ -48,7 +48,7 @@ Meta-analytic moderator analysis of subject field across five categories: the En
 - [Creative drama's effect on achievement does not significantly differ by implementation period (QB = 7.63, df = 4, p > .05), though the 9–18-week group showed the largest descriptive ES (2.55)](creative-drama-effect-no-implementation-period-difference.md) — related
 - [Creative drama's effect on achievement does not significantly differ by grade level (QB = 3.75, df = 4, p > .05)](creative-drama-effect-no-grade-level-difference.md) — related
 - [Effect size of creative drama does not vary significantly by skill type (social, basic language, higher thinking)](creative-drama-skill-type-null-moderator.md) — related
-- [Effect size of creative drama on skills varies significantly by publication type, with theses showing larger effects than articles](creative-drama-publication-type-moderator.md) — related
+- Effect size of creative drama on skills varies significantly by publication type, with theses showing larger effects than articles — related
 - [Effect size of creative drama on skills varies significantly with duration of experimental application, with longer applications showing larger effects](creative-drama-duration-moderator.md) — related
 - [Effect size of creative drama on skills does not vary significantly by practitioner (researcher vs teacher)](creative-drama-practitioner-null-moderator.md) — related
 - [AR effect sizes do not differ significantly between Natural Sciences and Social Sciences, though the descriptive Natural Sciences effect is higher (0.562 vs 0.409)](ar-effect-educational-area-no-significant-difference.md) — related

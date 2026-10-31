@@ -45,7 +45,7 @@ Narrative synthesis of the 30 included studies, reported in the integrated synth
 
 
 ## Related Claims
-- [The evidence base on public health competency assessment in undergraduate medical education comprises 30 studies with marked methodological heterogeneity across designs](scoping-review-30-studies-heterogeneous-designs.md) — a broader claim this one bears on
+- The evidence base on public health competency assessment in undergraduate medical education comprises 30 studies with marked methodological heterogeneity across designs — a broader claim this one bears on
 - [Students perceive that interacting with others in experiential learning fosters empathy and a sense of community by enhancing perspective-taking (beauty)](students-interaction-empathy-perspective-taking.md) — related
 - [Competencies related to social determinants of health, equity and social accountability have emerged as central axes of public health competency assessment](sdoh-equity-central-axes-assessment.md) — related
 - [Innovative andragogical strategies — simulation, narrative medicine, reflective writing — enhance empathy, compassion, and communication skills in medical students](innovative-teaching-practices-soft-skills-medical-students.md) — related

@@ -47,6 +47,6 @@ Meta-analysis of nine shortlisted studies (Table 4). Means are response tendenci
 ## Related Claims
 - [Content is the CSF with the highest aggregated mean and a strong positive correlation with learner perceptions (r = 0.80454)](content-csf-ranked-highest-positive-correlation.md) — related
 - [User friendly design of content correlates highly positively with learner perceptions (r = 0.92961)](user-friendly-design-positive-correlation-learner-perceptions.md) — related
-- [A meta-analysis of 19 m-Learning studies identifies 21 candidate critical success factors, of which six are shortlisted for statistical meta-analysis](meta-analysis-21-csfs-six-shortlisted-mlearning.md) — related
+- A meta-analysis of 19 m-Learning studies identifies 21 candidate critical success factors, of which six are shortlisted for statistical meta-analysis — related
 - [Technical competence of students is negatively correlated with learner perceptions (r = -0.5595)](technical-competence-negative-correlation-learner-perceptions.md) — related
 - [Ownership and learner community development are positively correlated with learner perceptions (r = 0.6064 and r = 0.64153)](ownership-community-development-positive-correlations.md) — related

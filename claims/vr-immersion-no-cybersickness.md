@@ -52,3 +52,4 @@ In the experimental group, the Simulator Sickness Questionnaire was completed be
 - [Motion sickness after the iVR experience was negligible for most participants, but a minority felt significant discomfort](ivr-motion-sickness-negligible-minority-discomfort.md) — related
 - [No significant safety issues arose in VR-IWS use; one young participant reported minor dizziness in one session only](vr-iws-no-significant-safety-issues.md) — related
 - [Trainee teachers who receive voice training with VR classroom simulations show greater improvement in communication self-efficacy in noise than those receiving an information session only](vr-voice-training-greater-self-efficacy-gains-than-information-only.md) — related
+- [Adverse effects of IVR simulation in nursing education are generally mild visual and vestibular symptoms](ivr-adverse-effects-mild-visual-vestibular.md) — related

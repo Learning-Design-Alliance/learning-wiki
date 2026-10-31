@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: stelling-h-2026
     resource: "https://doi.org/10.1136/bmjopen-2026-119725"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Barriers to building and applying OE knowledge are both structural (access to training, knowledge and resources) and cultural (blame, punitive attitudes, entrenched hierarchies), and inequalities permeate all domains. [→ Stelling H 2026](#stelling-h-2026)

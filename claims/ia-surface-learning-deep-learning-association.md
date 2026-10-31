@@ -51,3 +51,4 @@ The review reports, citing Loredo Silva (2018), a cross-sectional study of 710 B
 - [Reported prevalence of internet addiction among health sciences students varies widely across studies, from 6% to 84%](ia-prevalence-heterogeneity-health-sciences-students.md) — related
 - [Internet addiction shows strong comorbidity with depression, anxiety, and stress among health sciences students](ia-mental-health-comorbidity-strong.md) — related
 - [Frequent and longer screen-based media use, including Internet-related addictive behaviors, is related to a less efficient cognitive control system in adolescence](screen-time-less-efficient-cognitive-control-adolescence.md) — related
+- [Social networking use relates to GPA differently by user profile: engaged users show higher GPA, addicted users lower](sns-user-profile-gpa-moderation-qatar.md) — related

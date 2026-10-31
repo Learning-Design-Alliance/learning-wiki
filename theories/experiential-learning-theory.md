@@ -12,7 +12,7 @@ generated:
 # Experiential Learning Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 David Kolb's Experiential Learning Theory (ELT) is "a holistic model of the learning process and a multi-linear model of adult development" (Baker, Jensen, & Kolb, 2002, p. 51), rooted explicitly in Dewey, Kurt Lewin, and Piaget. It models learning as a four-stage cycle — concrete experience, reflective observation, abstract conceptualization, and active experimentation — organized around two underlying dialectical continuums: **apprehension** (concrete experience) versus **comprehension** (abstract conceptualization), and **intension** (reflective observation) versus **extension** (active experimentation). Kolb's central theoretical claim is that learning requires actively resolving the discomfort of whichever pole of each continuum a learner is *not* naturally comfortable with: "perception alone is not sufficient for learning; something must be done with it," and "transformation alone cannot represent learning, for there must be something to be transformed" (Baker, Jensen, & Kolb, pp. 56–67). This dialectical-resolution requirement is the theory's core explanatory mechanism, distinguishing it from a purely descriptive account of "learning by doing."
@@ -41,6 +41,8 @@ In response to the last two criticisms, some accounts propose a **revised experi
 - Development toward more complete engagement with all four modes of the cycle, since the theory holds that skilled learning requires resolving discomfort with whichever pole (concrete/abstract, reflective/active) a learner is less naturally inclined toward
 
 ## Claims
+
+- [Experiential learning significantly improves healthcare students' attitudes towards dementia (WMD = 9.46 on the DAS)](../claims/experiential-learning-improves-dementia-attitudes.md) [+W] — attached 2026-10-31 from Wong Ion Hong et al. (2026), which proposed "Theoretical accounts of why experiential learning shifts dementia attitudes: Kolb's Experiential Learning Theory, Construal Level Theory, and the Affect Heuristic".
 
 ## Related Theories
 

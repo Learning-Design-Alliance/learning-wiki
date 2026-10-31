@@ -13,7 +13,7 @@ generated:
 # Physical Well-Being
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 94 claims (64 show a difference, 21 mixed, 9 no difference) · 48 studies (19 causal, 11 review, 11 associational, 3 quant-synthesis, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 7 of 48 report an effect size · 90 claims rest on one study
+> **Evidence** · 102 claims (71 show a difference, 22 mixed, 9 no difference) · 51 studies (19 causal, 13 review, 11 associational, 4 quant-synthesis, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 9 of 51 report an effect size · 98 claims rest on one study
 
 ## Description
 Physical well-being covers a learner's overall physical health: nutrition, regular physical activity and fitness, and good sleep. The LVN's case for it is that the benefits reach beyond the body: learners in good health benefit in cognitive skills, focus and mood, which can support academic performance, and in the early years it frames the same idea as physical fitness, with regular exercise strengthening cognitive skills. Exercise is described as particularly helpful for learners with ADHD. Physical activity tends to fall during adolescence, and for adults, education can itself improve health as health literacy grows and learners become better able to advocate for their needs. Body mass index is the one measure the LVN lists. It overlaps with [sleep](sleep.md), which is one of its components, and with [attention](attention.md) and [executive function](executive-function.md), which are among the outcomes exercise is linked to.
@@ -131,6 +131,14 @@ Physical well-being covers a learner's overall physical health: nutrition, regul
 - [School Breakfast Program availability is associated with better attendance and reading scores, especially among boys and lower-income students](../claims/sbp-attendance-reading-gains.md) [+M] — instruction changes it
 - [School nutrition policies most often show larger academic improvements among low-income and racial/ethnic minority subpopulations, supporting equity goals](../claims/nutrition-policy-equity-gains.md) [+M] — instruction changes it
 - [Universal Free School Meals (including CEP) show the most consistent positive associations with attendance, test scores, graduation, and discipline outcomes](../claims/ufsm-consistent-academic-benefit.md) [+M] — instruction changes it
+- [Breakfast skipping is associated with poor academic performance among Ethiopian students (pooled effect size 3.47)](../claims/breakfast-skipping-poor-academic-performance-ethiopia.md) [+M] — learners who differ on it differ in outcomes
+- [Chronic iodine deficiency shows the strongest association with academic performance among the reviewed exposures (effect size 4.490)](../claims/chronic-iodine-deficiency-strongest-academic-association.md) [+M] — learners who differ on it differ in outcomes
+- [Food insecurity is significantly associated with academic performance (pooled effect size 2.810)](../claims/food-insecurity-academic-performance-ethiopia.md) [+M] — learners who differ on it differ in outcomes
+- [Göttingen CM elective improved counselling skills, knowledge, attitudes, well-being and eating habits in both virtual and in-person formats, while cooking frequency did not change](../claims/goettingen-cm-gains-virtual-in-person-cooking-frequency-null.md) [~W] — instruction changes it
+- [Higher physical activity and fitness are generally associated with more adaptive autonomic patterns reflected in increased HRV, and autonomic evidence is stronger for physical activity than for nutrition](../claims/hrv-autonomic-pathway-stronger-for-physical-activity.md) [+M] — learners who differ on it differ in outcomes
+- [Intestinal parasitic infection is associated with poorer academic performance (pooled effect size 0.570)](../claims/intestinal-parasitic-infection-academic-performance-ethiopia.md) [+M] — learners who differ on it differ in outcomes
+- [Nutrition and WASH exposures show a pooled positive association with academic performance among Ethiopian schoolchildren (pooled effect size 2.05) with very high heterogeneity](../claims/pooled-nutrition-wash-academic-performance-ethiopia-2-05.md) [+M] — learners who differ on it differ in outcomes
+- [Underweight children are less likely to achieve high academic scores (pooled effect size 0.605)](../claims/underweight-lower-academic-scores-ethiopia.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Body Mass Index (BMI)**: a measure of body fat calculated from height and weight.

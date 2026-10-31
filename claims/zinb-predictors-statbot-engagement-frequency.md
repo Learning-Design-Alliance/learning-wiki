@@ -83,3 +83,4 @@ In the same ZINB count model of StatBot use, prior knowledge carried a negative 
 - [Counts of specific tool-use events (WorkTime, Command, Compile, Editor, Profiler, IDE) correlate positively and significantly with final course grade](tool-use-events-correlate-with-final-grade.md) — related
 - [CAMEO users are more likely to be young, male, less educated, and international than other certificate earners](cameo-users-more-likely-young-male-international.md) — related
 - [Gender, computer experience and computer attitudes each significantly predict classroom computer use](gender-experience-attitudes-predict-computer-use.md) — related
+- [Male students show higher PSMU scores than female students in three of five studies examining gender](males-higher-psmu-scores-mena-students.md) — related

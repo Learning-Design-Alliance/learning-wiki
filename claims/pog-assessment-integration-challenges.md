@@ -59,3 +59,4 @@ The brief's analysis section on assessing POGs, an author interpretation drawn f
 - [Implementation of competency-based progression was limited by a perceived need to emphasize grade-level content and external policy constraints](competency-progression-limited-grade-level-emphasis.md) — related
 - [An analysis of 69 district Portraits of a Graduate finds six Skill Sets that capture 90 percent of the attributes districts articulate](six-skill-sets-capture-90-percent-portrait-attributes.md) — related
 - [POG frameworks most frequently emphasize communication, critical thinking, collaboration, and perseverance/adaptability among their competencies](pog-competencies-communication-critical-thinking-most-frequent.md) — related
+- [ACE measurement varies substantially across studies, complicating cross-study comparability](ace-measurement-variability-limits-comparability.md) — related

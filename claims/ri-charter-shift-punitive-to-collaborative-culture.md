@@ -60,3 +60,4 @@ In the same qualitative interview study of 14 Rhode Island key officials, partic
 - [University teachers follow a top-down design approach considering learning outcomes, content scope, activities and assessment](teachers-top-down-design-process.md) — related
 - [Trust is a key enabler of knowledge sharing in online learning communities](trust-enables-knowledge-sharing-online.md) — related
 - [Leadership support and stakeholder connectivity support sustainability of innovations](leadership-connectivity-support-sustainability.md) — related
+- [Qualitative findings across four studies describe improved leadership knowledge, skills, beliefs, attitudes, and stakeholder engagement](qualitative-improvements-leadership-competencies.md) — related

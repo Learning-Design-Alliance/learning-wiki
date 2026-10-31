@@ -49,3 +49,4 @@ Meta-analysis of 29 effect sizes from 11 studies using a three-level CHE model w
 - [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](gamification-has-small-positive-effects-on-learning-outcomes.md) — a broader claim this one bears on
 - [Most of the 45 reviewed studies report positive gamification effects on motivation and engagement in mathematics; only four report negative effects](gamification-mathematics-mostly-positive-four-negative.md) — related
 - [Multidimensional personalization of gamification produced no statistically significant motivational differences from OSFA gamification in gamified review assessments](personalization-no-significant-motivation-difference-gamified-assessments.md) — related
+- [Gamification improved CPR learning among younger learners compared with conventional teaching methods](gamification-effective-cpr-younger-learners.md) — related

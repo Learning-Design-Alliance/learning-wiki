@@ -58,3 +58,4 @@ Metaregression moderator analysis of authenticity, with printed effects "g = 0.5
 - [VR simulator training improves overall pedicle screw placement success relative to traditional training](vr-training-higher-overall-screw-placement-success.md) — related
 - [VR simulator training yields a higher rate of optimal (Grade I) pedicle screw placement than traditional training among residents and early-career surgeons](vr-training-higher-grade-i-pedicle-screw-placement.md) — related
 - [VR-trained trainees show shorter screw penetration distances and fewer displaced screws per resident](vr-training-shorter-penetration-fewer-displaced-screws.md) — a narrower finding that bears on this claim
+- [Body donor models are perceived by postgraduate trainees as authentic and of high educational value for laparoscopic training](bdm-perceived-authentic-high-educational-value.md) — a narrower finding that bears on this claim

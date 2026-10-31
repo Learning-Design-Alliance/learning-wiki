@@ -50,3 +50,4 @@ Randomized comparison in which 40 university teaching assistants in a 4-h traini
 - [VR participants lacked mutual engagement in collaborative role-playing during the teaching simulation](vr-participants-lacked-mutual-engagement-role-playing.md) — related
 - [The review reports that real-world experiential simulations offer affordances beyond virtual-only formats, including heightened presence through embodiment, place, and face-to-face social immersion](real-world-simulations-embodiment-affordances.md) — related
 - [Integrating immersive VR simulations in science classrooms introduces new challenges and there is a lack of learning designs to inform practice](immersive-vr-science-classrooms-challenges-lack-of-designs.md) — related
+- [Immersive VR simulation is noninferior to live simulation for developing teamwork and communication skills](vr-noninferior-to-live-simulation-teamwork-communication.md) — related

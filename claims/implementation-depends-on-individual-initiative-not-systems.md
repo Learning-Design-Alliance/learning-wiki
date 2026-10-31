@@ -57,3 +57,4 @@ Survey of 120 complete responses distributed via AAC&U's member directory to fac
 - [Government regulations and policy incentives are crucial external enablers of institutional AI adoption readiness](government-regulation-external-enabler-ai-adoption.md) — related
 - [Technology integration expanded academics' workload, producing identity tension and emotional labour](technology-integration-expands-academic-workload-identity-tension.md) — related
 - [The review finds technology's impact depends mainly on pedagogical design, teaching accompaniment, and university policies](impact-depends-on-pedagogical-design-review.md) — related
+- Determinants related to organizational context, implementation processes, and external conditions were reported less frequently than intervention and individual characteristics — related

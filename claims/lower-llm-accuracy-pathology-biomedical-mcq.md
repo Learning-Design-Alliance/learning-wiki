@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: cheverko-cm-2026
     resource: "https://doi.org/10.1002/ase.70262"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` GPT‐4_o1 versions achieved 75% pooled accuracy in pathology, significantly lower than other disciplines (meta‐regression p = 0.04). [→ Cheverko CM 2026](#cheverko-cm-2026)
@@ -49,3 +50,4 @@ Discipline‐level pooled analysis of GPT‐4_o1 accuracy with meta‐regression
 - [Newer OpenAI LLM versions achieve significantly higher pooled accuracy on biomedical MCQs than earlier versions (GPT‐4o–o1: 90%; GPT‐4: 82%; GPT‐3/3.5: 59%)](openai-llm-accuracy-improves-across-versions-biomedical-mcq.md) — a broader claim this one bears on
 - [Question type, stem type, MCQ source, and web accessibility did not independently explain LLM accuracy heterogeneity in biomedical MCQ meta‐regressions](mcq-covariates-not-explaining-llm-accuracy-heterogeneity.md) — related
 - [Newer Anthropic and DeepSeek models approach GPT‐4o–o1 accuracy on biomedical MCQs, while Google Gemini and Microsoft Copilot trail the leading companies](llm-company-comparison-biomedical-mcq-accuracy.md) — related
+- [LLM accuracy does not differ significantly across question languages, ranging from 62% in Polish to 77% in German](llm-accuracy-language-differences-nonsignificant.md) — related

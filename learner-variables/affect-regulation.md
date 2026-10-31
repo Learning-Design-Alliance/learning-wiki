@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 220 claims (158 show a difference, 41 mixed, 21 no difference) · 139 studies (52 associational, 27 causal, 25 review, 12 qualitative, 10 quant-synthesis, 8 theoretical, 5 design), `q1`–`q4` · 35 of 139 report an effect size · 214 claims rest on one study
+> **Evidence** · 222 claims (160 show a difference, 41 mixed, 21 no difference) · 140 studies (52 associational, 27 causal, 26 review, 12 qualitative, 10 quant-synthesis, 8 theoretical, 5 design), `q1`–`q4` · 35 of 140 report an effect size · 216 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -260,6 +260,8 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Psychosocial interventions for school refusal behavior show a very small, nonsignificant effect on anxiety at post-test](../claims/school-refusal-interventions-anxiety-nonsignificant.md) [-M] — instruction changes it
 - [Resilience functioned as a conditional protective factor for academic outcomes, with coping style the most modifiable proximal mechanism](../claims/resilience-conditional-protective-coping-mechanism.md) [+M] — learners who differ on it differ in outcomes
 - [Review-reported studies: writing portfolios were valued for improving writing and reflection and reported to reduce EFL learners' test anxiety](../claims/review-reported-writing-portfolios-reduce-anxiety-build-skills.md) [+M] — instruction changes it
+- [Emotion regulation may reduce inappropriate prescriptions, while empathy shows no significant correlation with prescription volume or quality](../claims/emotion-regulation-prescribing-quality.md) [+M] — learners who differ on it differ in outcomes
+- [Emotional regulation, especially tolerance of uncertainty, supports physicians' management of clinical uncertainty](../claims/emotion-regulation-supports-uncertainty-management.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

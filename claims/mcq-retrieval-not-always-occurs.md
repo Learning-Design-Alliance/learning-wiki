@@ -50,3 +50,4 @@ The article's motivating rationale, stated as a premise rather than a tested res
 - [Stepwise-MCQ benefits generalize across translation directions and across both easy-to-guess (noncompetitive) and hard-to-guess (competitive) answer options.](stepwise-mcq-benefits-generalize.md) — related
 - [Stepwise MCQs, which delay answer options by 4 s, enhance vocabulary retention significantly compared to standard MCQs in three of four experiments, measured days after practice.](stepwise-mcqs-enhance-vocabulary-retention.md) — related
 - [Having more multiple-choice alternatives benefits later retention when initial retrieval success is high but hurts learning when it is low](effect-of-more-multiple-choice-alternatives-depends-on-initial-retrieval-success.md) — related
+- [Exclusive and systematic use of multiple-choice questions for anatomy assessment may adversely affect long-term retention](mcq-exclusive-use-retention-risk.md) — related

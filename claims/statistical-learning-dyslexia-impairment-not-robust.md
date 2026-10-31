@@ -51,4 +51,4 @@ The Perspective attributes, citing meta-analytic reviews of dyslexia including S
 - [Task-level executive function differences in dyslexia on the Phoneme Go No-Go and Picture 2-back tasks are no longer significant after controlling for processing speed](phoneme-gng-picture-2back-null-after-speed-control.md) — related
 - [Evidence of publication bias exists, but the pooled video effects are robust to it](publication-bias-present-but-effects-robust.md) — related
 - [The developmental trajectory of statistical learning across age is not a robust phenomenon, though statistical learning itself occurs at all ages](age-trajectory-statistical-learning-not-robust.md) — related
-- [The review synthesizes 13 RCTs and pilot studies (2014-2025), most at low risk of bias, with meta-analysis prevented by heterogeneity](systematic-review-13-rcts-ir-dental.md) — related
+- The review synthesizes 13 RCTs and pilot studies (2014-2025), most at low risk of bias, with meta-analysis prevented by heterogeneity — related

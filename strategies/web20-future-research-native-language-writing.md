@@ -17,7 +17,7 @@ sources:
 # Direct future wiki and blog research toward native-language and writing teaching, and conduct separate meta-analyses per environment
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 quant-synthesis), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The authors recommend specific directions for future research: studies "are needed in two major areas: native language teaching and writing teaching", since wikis and blogs are used frequently in EFL but rarely studied for native-language writing. They also recommend separate meta-analyses for each environment, comparisons of the two mediums, inclusion of more web 2.0 tools (podcasts, social networks, RSS), and meta-analyses of other outcome variables such as attitude, self-efficacy, and anxiety. They caution that including a variety of technologies in one analysis brings challenges such as differences in studies' contexts and utilization of technologies.
@@ -40,7 +40,6 @@ The authors recommend specific directions for future research: studies "are need
 
 ## Claims
 
-- [Twelve of the nineteen included studies examined web 2.0 in English as a foreign language teaching, indicating wikis and blogs are concentrated in EFL contexts](../claims/web20-studies-concentrated-efl-teaching.md) [+W]
 - [Web 2.0 technologies (wikis and blogs) show a positive, moderate pooled effect on academic performance (E++ = 0.740) across 19 quasi-experimental studies](../claims/web20-pooled-effect-academic-performance-0740.md) [+W]
 
 ## Related Strategies

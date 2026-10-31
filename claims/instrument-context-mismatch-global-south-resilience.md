@@ -48,4 +48,5 @@ The review's RQ4 synthesis reports that "only five (22.7%) reported cultural ada
 - [Mental health was operationalised through deficit- or symptom-based frameworks in 51 of 53 reviewed studies (96.2%)](deficit-oriented-framing-mental-health-studies.md) — related
 - [Populations most exposed to agentic AI risks are least served by AI literacy research: no scale has been tested for cross-cultural validity](equity-gap-ai-literacy-scales-cross-cultural-validity.md) — related
 - [Participant samples in AI trust research skew WEIRD: mostly Western, adult, university-educated participants, limiting external validity](weird-bias-ai-trust-research.md) — related
-- [The evidence base is geographically uneven: no study simultaneously examined all three constructs within a sub-Saharan African context](no-integrative-three-construct-studies-sub-saharan-africa.md) — related
+- The evidence base is geographically uneven: no study simultaneously examined all three constructs within a sub-Saharan African context — related
+- [There is a lack of standardized, culturally adapted, psychometrically robust assessment tools tailored to postgraduate mental health nursing](lack-standardized-culturally-adapted-postgraduate-mhn-tools.md) — related

@@ -16,7 +16,7 @@ sources:
 # Design comprehensive AAC intervention protocols that extend beyond requesting to maintenance, generalization, and naturalistic contexts
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (1 for, 2 mixed) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends that intervention protocols go beyond isolated settings, persons, and teaching examples, and that researchers systematically examine environmental and naturalistic instructional features affecting newly established communicative behaviors. It also urges research strategies to establish social contact as a viable reinforcer so socially complex functions can be taught. These recommendations follow from the field's concentration on behavior regulation and short-term mastery metrics.
@@ -37,7 +37,6 @@ The article recommends that intervention protocols go beyond isolated settings, 
 
 ## Claims
 
-- [Under-reported participant characteristics and implementation factors, plus effect-size metric limitations, explain the scarcity of significant moderator differences](../claims/aac-moderator-nulls-attributed-underreporting.md) [~W]
 - [AAC intervention research overwhelmingly targets behavior regulation and communication production, neglecting joint attention, social interaction, and comprehension](../claims/aac-research-targets-behavior-regulation-production-dominance.md) [+W]
 - [Communicative function taught (behavioral regulation, joint attention, social interaction, or multiple) does not statistically moderate AAC effects](../claims/communicative-function-no-moderation.md) [~W]
 

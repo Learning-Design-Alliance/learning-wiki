@@ -60,6 +60,7 @@ Publication-bias analyses using multilevel Egger's regression and power-enhanced
 - Funnel-plot asymmetry suggests possible selection or publication bias, but p-curve analyses indicate evidential value for the pooled relationships — related
 - Smaller sample sizes are associated with larger VSWM–mathematics effect sizes — reports the opposite
 - [Smaller, underpowered studies report larger flipped classroom effect sizes, indicating small-study and publication bias](small-study-bias-inflates-flipped-classroom-effects.md) — reports the opposite
-- [Funnel plot asymmetry indicates publication bias among the STEM dissertations analyzed](stem-meta-analysis-publication-bias.md) — related
-- [Egger's regression found no statistically significant evidence of publication bias among the 28 collected studies](egger-test-no-publication-bias.md) — related
+- Funnel plot asymmetry indicates publication bias among the STEM dissertations analyzed — related
+- Egger's regression found no statistically significant evidence of publication bias among the 28 collected studies — related
 - [Funnel-plot asymmetry suggests small studies with negative or null results may be missing from the simulation-versus-clinical meta-analysis](funnel-plot-missing-negative-studies.md) — related
+- Funnel plot and Egger's test show no statistical evidence of publication bias for the composite household-disadvantage selection effect — related

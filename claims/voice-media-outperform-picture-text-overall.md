@@ -86,3 +86,4 @@ Hypothesis 5 was supported in the experiment: visual-knowledge means were 10.18 
 - [Animations can be superior to static graphics for learning tasks involving human motor movement](human-movement-effect-animations-motor-tasks.md) — related
 - [Dynamic slides did not improve knowledge acquisition compared to static slides](dynamic-slides-no-knowledge-benefit.md) — related
 - [Animation outperforms static pictures for learning about a biological process with spoken narration](animation-outperforms-static-pictures-photosynthesis.md) — related
+- [Multimedia design was a frequently reported facilitator, and one study found e-modules with more sophisticated visual and interactive features led to stronger learning outcomes](multimedia-design-facilitator-sophisticated-features.md) — related

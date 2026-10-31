@@ -46,7 +46,7 @@ Fully conditional HLM model (n = 13 studies) with an aggregate home-school commu
 
 ## Related Claims
 - [The Daily Report Card significantly improves behavior for students with ADHD, increasing desirable behavior by approximately 30 percentage points from baseline to intervention](drc-30-percentage-point-gain-adhd-single-case.md) — related
-- [Higher study quality is associated with greater behavioral gains from the DRC in students with ADHD](drc-study-quality-moderates-gains.md) — related
+- Higher study quality is associated with greater behavioral gains from the DRC in students with ADHD — related
 - [Neither age nor gender significantly moderated DRC treatment effects, though subgroup samples were small](drc-age-gender-no-moderation.md) — related
 - [Non-overlap-based effect sizes averaging 0.59 to 0.94 support the DRC as a moderate- to highly-effective stand-alone intervention for students with ADHD](drc-nonoverlap-effect-sizes-059-to-094.md) — related
 - [Class type moderated DRC outcomes, with the single special-education study showing approximately 33 percentage points greater gains, though only one study was in this subgroup](drc-class-type-moderation-single-study-caution.md) — related

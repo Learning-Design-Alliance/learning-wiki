@@ -52,3 +52,4 @@ Open-ended survey responses on disadvantages of membership; honours activities c
 - [Sleep deprivation is associated with reduced psychomotor vigilance, impaired reaction time, and greater perceived workload and stress in astronauts](sleep-deprivation-impairst-astronaut-performance.md) — related
 - [Honours community members perceive a safe and supportive environment that facilitates exploring new ideas](honours-community-safe-supportive-learning-environment.md) — related
 - [Resource limitations from the redesigned policy are felt at the program, district, and principal candidate levels](illinois-principal-preparation-resource-limitations.md) — related
+- [Negative outcomes of active learning in public health education included perceived isolation in online sessions, excessive workload, poorly aligned reading material and resentment in dysfunctional teams](negative-outcomes-isolation-workload-reading-resentment.md) — related

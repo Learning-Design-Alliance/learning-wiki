@@ -12,7 +12,7 @@ generated:
 # Simplified IPD meta-analysis model (sIPD) for educational trials with heterogeneous outcome scales
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · no claims cited
 
 ## Description
 The sIPD model is a three-level Bayesian individual participant data meta-analysis model adapted for educational trials, where pupils are nested within schools and schools within trials. Because outcome scales differ across trials, the authors "first eliminate heterogeneity between trials by scaling the post-test and pre-test outcome data to a unit variance of 1 per trial", then fit a model with fixed intercept and pre-test gradient, trial-specific treatment effects, and school and pupil random effects, pooling via inverse-variance weights. Attainment gaps are estimated by adding a treatment-by-FSM interaction term.
@@ -22,7 +22,6 @@ The sIPD model is a three-level Bayesian individual participant data meta-analys
 - **Simplified IPD meta-analysis model (sIPD) for educational trials with heterogeneous outcome scales**: The sIPD model is a three-level Bayesian individual participant data meta-analysis model adapted for educational trials, where pupils are nested within schools and schools within trials. Because outcome scales differ across trials, the authors "first eliminate heterogeneity between trials by scaling the post-test and pre-test outcome data to a unit variance of 1 per trial", then fit a model with fixed intercept and pre-test gradient, trial-specific treatment effects, and school and pupil random effects, pooling via inverse-variance weights. Attainment gaps are estimated by adding a treatment-by-FSM interaction term. (Bilal Ashraf et al. (2021))
 
 ### Claims
-- [The simplified IPD model produced a greater pooled literacy effect size than two-stage meta-analysis models](../claims/sipd-greater-literacy-effect-than-two-stage.md) [+M]
 
 ## Related Research Methods
 -

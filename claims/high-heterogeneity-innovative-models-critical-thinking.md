@@ -45,22 +45,23 @@ Heterogeneity test of the 19 coded studies using Q and I² statistics with a 95%
 
 
 ## Related Claims
-- [Effect size distributions across AR-in-education studies were heterogeneous (Q=35.692, I²=60.776%), requiring a random effects model](ar-meta-analysis-heterogeneity-random-effects.md) — related
-- [Individual studies of digital story effects are highly heterogeneous, requiring a random effects model](digital-story-studies-heterogeneous-random-effects.md) — related
-- [Included flipped classroom studies show substantial heterogeneity, requiring a random-effects model](flipped-classroom-meta-analysis-high-heterogeneity.md) — related
-- [Effect sizes across the included Indonesian blended-learning studies are heterogeneous, so a random effects model is used](heterogeneous-effect-sizes-random-effects-model.md) — related
-- [Effect sizes across the 31 included studies are highly heterogeneous (I² = 81.957%), warranting a random effects model](high-heterogeneity-i2-82-traditional-methods.md) — related
+- Effect size distributions across AR-in-education studies were heterogeneous (Q=35.692, I²=60.776%), requiring a random effects model — related
+- Individual studies of digital story effects are highly heterogeneous, requiring a random effects model — related
+- Included flipped classroom studies show substantial heterogeneity, requiring a random-effects model — related
+- Effect sizes across the included Indonesian blended-learning studies are heterogeneous, so a random effects model is used — related
+- Effect sizes across the 31 included studies are highly heterogeneous (I² = 81.957%), warranting a random effects model — related
 - [The four schemes of work showed replicable significant heterogeneity in effectiveness, with the predicted-least-effective teacher-centred/non-human scheme among the most effective](sow-heterogeneity-unexpected-rank-order.md) — related
-- [The distribution of effect sizes across the 19 studies is heterogeneous (Q = 202.569, exceeding the critical value of 38.582), requiring a random effects model](web20-meta-analysis-heterogeneous-random-effects.md) — related
+- The distribution of effect sizes across the 19 studies is heterogeneous (Q = 202.569, exceeding the critical value of 38.582), requiring a random effects model — related
 - [Effect sizes of technology-delivered literacy instruction are heterogeneous across studies (Q = 165.38, I2 = 68.56)](tech-literacy-effect-heterogeneity.md) — related
 - [Quality of technology integration varies substantially across lessons, with most variance unexplained by teacher traits or time course](tech-integration-quality-varies-across-lessons.md) — related
-- [Effect sizes across the 38 comparisons are highly heterogeneous, requiring a random-effects model](stem-digital-meta-heterogeneous-random-effects.md) — related
+- Effect sizes across the 38 comparisons are highly heterogeneous, requiring a random-effects model — related
 - [Effect size estimates for hands-on science interventions are highly heterogeneous across studies](hands-on-effect-sizes-high-heterogeneity.md) — related
 - [Innovative learning models produce a large pooled effect on mathematical and statistical critical thinking compared with conventional instruction](innovative-models-large-effect-critical-thinking-math-stat.md) — related
 - [Effect sizes of multiple intelligence practices are highly heterogeneous across studies](mi-effect-heterogeneous-distribution.md) — related
-- [Effect sizes across the modelling study pool were heterogeneous, requiring a random-effects model](modelling-study-pool-heterogeneous-random-effects.md) — related
-- [High heterogeneity was present among effect sizes for both academic achievement (I2≈85%) and learning retention (I2≈61%)](cbl-meta-analysis-high-heterogeneity.md) — related
+- Effect sizes across the modelling study pool were heterogeneous, requiring a random-effects model — related
+- High heterogeneity was present among effect sizes for both academic achievement (I2≈85%) and learning retention (I2≈61%) — related
 - [Effect sizes of creative drama studies are heterogeneous (Q = 60.78, df = 39, p < .05), motivating moderator analyses](creative-drama-effect-sizes-heterogeneous.md) — related
 - [Heterogeneity across flipped-classroom studies was consistently high (I² > 90%) and was largely not explained by prespecified subgroup analyses, indicating context-dependent effects](flipped-classroom-high-heterogeneity-context-dependent.md) — a narrower finding that bears on this claim
-- [The pooled effect-size distribution is highly heterogeneous but resistant to publication bias](heterogeneity-and-publication-bias-assessment.md) — related
-- [Effect sizes across included studies are highly heterogeneous (I² = 94.79%), requiring a random-effects model](high-heterogeneity-random-effects-cre-meta-analysis.md) — related
+- The pooled effect-size distribution is highly heterogeneous but resistant to publication bias — related
+- Effect sizes across included studies are highly heterogeneous (I² = 94.79%), requiring a random-effects model — related
+- [Evidence for bilingual immunology teaching rests on few, mostly moderate-quality non-randomized studies with substantial heterogeneity](bilingual-immunology-evidence-base-limited-heterogeneous.md) — a narrower finding that bears on this claim

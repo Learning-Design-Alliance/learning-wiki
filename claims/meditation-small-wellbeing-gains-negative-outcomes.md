@@ -83,3 +83,4 @@ This systematic review summarises one of its included studies, Mendelson et al. 
 - [Large-scale RCTs show school mindfulness training does not benefit overall well-being or social-emotional functioning and can harm those most at risk](mindfulness-rcts-no-benefit-possible-harm.md) — reports the opposite
 - [Greater perceived stress is associated with greater emotion dysregulation in teachers](stress-correlates-emotion-dysregulation-teachers.md) — related
 - [Isolated school mindfulness programs show mixed results, with one multi-site trial showing no improvement and increased anxiety in some subgroups](school-mindfulness-mixed-results.md) — reports the opposite
+- [Single-study affective outcomes show mixed results: contrasting communication competency findings, greater emotional intelligence and stress reduction gains, and no significant cognitive load increase](ivr-single-study-affective-outcomes-mixed.md) — related

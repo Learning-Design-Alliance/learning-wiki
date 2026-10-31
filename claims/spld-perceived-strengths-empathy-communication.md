@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: pavletič-bernarda-2026
     resource: "https://doi.org/10.1186/s12909-026-09574-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Several qualitative studies identify perceived strengths — communication skills, creative problem-solving, empathy, and positive contributions to patient care — which should be interpreted cautiously. [→ Pavletič Bernarda 2026](#pavletic-bernarda-2026)
@@ -45,6 +46,6 @@ Review synthesis of qualitative studies; the authors caution these findings "sho
 
 
 ## Related Claims
-- [Empathy is the most frequently studied soft skill in medical education literature (22 of 83 included studies)](empathy-most-frequent-soft-skill-focus-medical-education.md) — related
+- Empathy is the most frequently studied soft skill in medical education literature (22 of 83 included studies) — related
 - [Medical students with SpLDs report persistent academic, emotional, and social challenges including reading and writing difficulties, time pressure, anxiety, and isolation](spld-qualitative-challenges-emotional-burden.md) — related
 - [Prevalence of SpLDs among medical students averages 5.5%, ranging from 2% to 11.5% across studies](spld-prevalence-medical-students-5-5-percent.md) — related

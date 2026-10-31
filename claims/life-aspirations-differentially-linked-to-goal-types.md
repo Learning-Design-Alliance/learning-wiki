@@ -68,3 +68,4 @@ Same meta-analytic inspection across six studies (n = 2437): extrinsic aspiratio
 
 ## Related Claims
 - [Positive links between intrinsic life aspirations and performance goals appear only in athletic samples, not classical educational contexts](intrinsic-aspirations-performance-goals-athletic-contexts.md) — related
+- [Autonomous or intrinsic motivation is positively associated with academic performance, while controlled or extrinsic motivation shows minimal or negative associations](autonomous-motivation-positive-controlled-motivation-not.md) — related

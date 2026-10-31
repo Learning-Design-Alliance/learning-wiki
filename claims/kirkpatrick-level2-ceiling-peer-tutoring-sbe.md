@@ -49,3 +49,5 @@ Review analysis of intervention outcomes by Kirkpatrick level across the include
 - [Peer tutoring in clinical simulation is associated with gains in non-technical skills including self-efficacy, self-confidence, self-perception of learning, and reflective abilities](peer-tutoring-simulation-non-technical-gains.md) — related
 - [Peer tutoring in clinical simulation is associated with improved technical skills such as laparoscopic tasks, lumbar puncture, and cardiovascular examination](peer-tutoring-simulation-technical-skill-gains.md) — related
 - [No included comparative study assessed patient-based clinical outcomes, patient acceptability of care, or staff resource time](no-patient-outcomes-assessed.md) — related
+- [Limited evidence suggests PBL participants implement practice changes, but behavior-change data are sparse and mostly non-significant](pbl-behavior-change-limited-evidence-pgme.md) — related
+- [Evidence on transfer to clinical behavior and patient outcomes is scarce: only 2 studies reached Kirkpatrick level 3 and 1 reached level 4](transfer-and-patient-outcomes-scarce.md) — related

@@ -58,8 +58,10 @@ Risk of bias assessment using ROBINS-I across the 15 studies in the synthesis; t
 - All included studies were coded high risk for selection bias and nearly half high risk for information bias — related
 - The methodological quality of forest-school studies is poor: most are at high or moderate risk of bias, with no follow-ups and inadequate statistical procedures — related
 - [The overall certainty of evidence for educational programme effects on nurses' knowledge and practice is very low (GRADE), driven by bias, inconsistency and imprecision](grade-very-low-certainty-nurse-foot-education.md) — related
-- [All included simulation-based research studies were judged to have high or critical risk of bias, and only 16 of 2481 screened studies met Level 4 inclusion criteria](high-critical-risk-of-bias-all-level-4-simulation-studies.md) — related
-- [No included randomized comparison was at low risk of bias, and all 17 non-randomized comparisons were rated serious risk under ROBINS-I](pe-teaching-model-evidence-risk-of-bias-serious.md) — related
-- [Methodological quality of included studies was limited: RCTs often lacked randomisation description and blinding, and cohort/case-control studies did not account for confounding](quality-limits-rct-case-control.md) — a narrower finding that bears on this claim
-- [Most included studies carried a high risk of bias or some concerns, particularly for confounding and outcome measurement, limiting certainty](peer-tutoring-simulation-risk-of-bias.md) — related
-- [The review synthesizes 13 RCTs and pilot studies (2014-2025), most at low risk of bias, with meta-analysis prevented by heterogeneity](systematic-review-13-rcts-ir-dental.md) — related
+- All included simulation-based research studies were judged to have high or critical risk of bias, and only 16 of 2481 screened studies met Level 4 inclusion criteria — related
+- No included randomized comparison was at low risk of bias, and all 17 non-randomized comparisons were rated serious risk under ROBINS-I — related
+- Methodological quality of included studies was limited: RCTs often lacked randomisation description and blinding, and cohort/case-control studies did not account for confounding — a narrower finding that bears on this claim
+- Most included studies carried a high risk of bias or some concerns, particularly for confounding and outcome measurement, limiting certainty — related
+- The review synthesizes 13 RCTs and pilot studies (2014-2025), most at low risk of bias, with meta-analysis prevented by heterogeneity — related
+- [Certainty of evidence for narrative medicine education effects is rated very low under GRADE](narrative-medicine-evidence-very-low-certainty.md) — related
+- All nine included systematic reviews were rated critically low in methodological quality on AMSTAR-2, limiting confidence in the synthesized evidence — related

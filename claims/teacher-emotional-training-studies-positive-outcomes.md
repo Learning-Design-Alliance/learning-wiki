@@ -62,3 +62,4 @@ The review narrates prior training studies targeting skills such as emotion iden
 - [Mindfulness-based wellbeing initiatives have a positive effect on the wellbeing of primary and secondary educators](mindfulness-initiatives-improve-educator-wellbeing.md) — related
 - [Some social-emotional and cognitive-behavioural initiatives showed no effect or a negative effect on educator wellbeing](some-initiatives-no-or-negative-effect.md) — reports the opposite
 - [In RCTs, effects on stress (g=1.79) and professional burnout (g=0.82) increased at short-term follow-up, while effects on anxiety, sleep, and wellbeing were non-significant](teacher-programs-rct-short-term-followup.md) — a narrower finding that bears on this claim
+- [Emotion regulation may reduce inappropriate prescriptions, while empathy shows no significant correlation with prescription volume or quality](emotion-regulation-prescribing-quality.md) — related

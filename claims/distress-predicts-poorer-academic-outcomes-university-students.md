@@ -54,3 +54,4 @@ The scoping review's thematic synthesis of empirical studies (RQ3) reports this 
 - [Stress-resilience dissociations were identified, with high distress coexisting alongside moderate-to-high resilience](stress-resilience-dissociation-high-distress.md) — related
 - [The direct association between internet addiction and GPA-based academic performance is inconsistent across studies of health sciences students](ia-gpa-association-inconsistent.md) — related
 - [Reported prevalence of internet addiction among health sciences students varies widely across studies, from 6% to 84%](ia-prevalence-heterogeneity-health-sciences-students.md) — related
+- [Stress, anxiety, and depressive symptoms show predominantly negative associations with academic performance in medical students](stress-anxiety-depression-negative-association-medical-students.md) — a narrower finding that bears on this claim

@@ -45,7 +45,7 @@ Categorical moderator analysis comparing the 4MAT, Perceptual, Dunn & Dunn and K
 
 
 ## Related Claims
-- [The effect of learning-styles-tailored instruction on academic achievement does not differ significantly between quasi-experimental and true-experimental designs](achievement-effect-independent-of-experimental-design.md) — related
+- The effect of learning-styles-tailored instruction on academic achievement does not differ significantly between quasi-experimental and true-experimental designs — related
 - [The effect of learning-styles-tailored instruction on academic achievement does not differ significantly by course type](achievement-effect-independent-of-course-type.md) — related
 - [Instruction tailored to students' learning styles shows a large pooled random-effects effect on academic achievement (d = 1.029) across 29 Turkish experimental studies](learning-styles-instruction-large-pooled-achievement-effect.md) — a broader claim this one bears on
 - [Learning Styles Matching Does Not Improve Learning](learning-styles-matching-does-not-improve-learning.md) — reports the opposite

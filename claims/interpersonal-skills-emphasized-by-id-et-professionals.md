@@ -71,3 +71,4 @@ The comparison section reports that “many K12 ETs emphasized gaining buy-in an
 - [A scoping review found no existing teacher-education digital frameworks include more than passing mention of dispositions or safety/wellbeing considerations](existing-frameworks-omit-dispositions-safety.md) — related
 - [Communication skills are consistently ranked the most important competencies yet underemphasized in professional preparation](communication-skills-most-important-but-underemphasized.md) — related
 - [Altınay and colleagues emphasize critical thinking, critical friendship, teamwork, and network-based collaboration for international standards](critical-friendship-teamwork-international-standards.md) — related
+- [Feedback provision is emphasized more than receiving feedback in P2P-teacher qualification measures](feedback-provision-over-receiving-p2p.md) — related

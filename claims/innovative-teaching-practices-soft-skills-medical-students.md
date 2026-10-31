@@ -71,7 +71,7 @@ Results-section synthesis describing narrative medicine as an approach that "has
 
 ## Related Claims
 - [Communication skills training programs improve clinician patient-centeredness, but training approaches are variable and long-term retention is untested](cst-programs-improve-patient-centeredness-short-term.md) — related
-- [Empathy is the most frequently studied soft skill in medical education literature (22 of 83 included studies)](empathy-most-frequent-soft-skill-focus-medical-education.md) — related
+- Empathy is the most frequently studied soft skill in medical education literature (22 of 83 included studies) — related
 - [Experiential knowledge from clinicians and patients is underrepresented in the obstetric emergency literature](experiential-knowledge-underrepresented-oe-literature.md) — related
 - [Students perceive that interacting with others in experiential learning fosters empathy and a sense of community by enhancing perspective-taking (beauty)](students-interaction-empathy-perspective-taking.md) — related
 - [Empathy and communication interventions show short-term gains but evidence on persistence over time is inconsistent](soft-skills-intervention-gains-not-sustained.md) — related
@@ -79,3 +79,4 @@ Results-section synthesis describing narrative medicine as an approach that "has
 - [Review reports a game-based learning course increased adolescents' empathy and compassion in migration/refugee context](game-based-learning-empathy-sec.md) — related
 - [Simulation dominates the literature on obstetric emergency knowledge-building, but evidence for sustained behaviour change and clinical impact remains limited](simulation-dominates-oe-training-limited-clinical-impact.md) — related
 - [A progressive transition from knowledge-centred assessment towards performance-based and experiential assessment is evident across the included studies](transition-knowledge-to-performance-based-assessment.md) — related
+- [Student-centered innovative strategies (PBL, EBL, simulation, TBL, blended and online learning) showed positive effects in pharmaceutical care learning](innovative-strategies-positive-effects-pharmaceutical-care.md) — related

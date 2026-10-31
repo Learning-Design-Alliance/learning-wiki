@@ -17,7 +17,7 @@ sources:
 # Conduct moderator analysis by type of metacognitive training to identify which types most benefit algebraic reasoning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 quant-synthesis), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Because the included studies used many different forms of metacognitive training, the authors recommend moderator analysis as future work. They write that "moderator analysis including the types of metacognitive training can be useful to determine which type of metacognitive training most positively impacts students’ algebraic reasoning". This strategy treats training type (computer-based, individual, collaborative, self-regulation) as a potential moderator of the pooled effect.
@@ -38,10 +38,8 @@ Because the included studies used many different forms of metacognitive training
 
 ## Claims
 
-- [Effect sizes across included studies were heterogeneous (Q=13.886, p<.05), and the article concludes a random-effects model is appropriate](../claims/heterogeneity-metacognitive-training-effect-sizes.md) [+W]
 - [After removing one outlier study, metacognitive training still shows a statistically significant positive effect on algebraic reasoning (d=0.973, SE=0.196)](../claims/metacognitive-training-effect-without-outlier-d0973.md) [+W]
 - [Metacognitive training has a statistically significant positive effect on K-12 students' algebraic reasoning across 18 studies (initial pooled d=2.284)](../claims/metacognitive-training-positive-effect-algebraic-reasoning.md) [+W]
-- [One included study (Sun-Lin & Chiou, 2017) was determined to be an outlier, prompting a reconstructed meta-analysis without it](../claims/sun-lin-chiou-2017-outlier-d22203.md) [+W]
 
 ## Related Strategies
 - 

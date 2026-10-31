@@ -21,7 +21,7 @@ sources:
 # Traditional Lecture-Based Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 34 claims (6 for, 19 mixed, 9 against) · 43 studies (11 review, 10 causal, 7 quant-synthesis, 7 theoretical, 5 qualitative, 2 associational, 1 design), `q1`–`q4` · 7 of 43 report an effect size · 26 claims rest on one study
+> **Evidence** · 39 claims (8 for, 20 mixed, 11 against) · 46 studies (12 review, 10 causal, 9 quant-synthesis, 7 theoretical, 5 qualitative, 2 associational, 1 design), `q1`–`q4` · 8 of 46 report an effect size · 31 claims rest on one study
 
 ## Description and scope
 
@@ -156,6 +156,11 @@ This pattern is scoped to courses where a lecturer's explanation to a whole grou
 - [Demonstration-based CPR training tended to produce more accurate performance than lecture-based approaches](../claims/demonstration-beats-lecture-cpr-training.md) [+W]
 - [Context-based learning has a statistically significant positive overall effect on academic achievement (g=0.970) compared to traditional lecture-based instruction](../claims/cbl-positive-overall-effect-academic-achievement.md) [+W]
 - [Context-based learning has a statistically significant positive overall effect on learning retention (g=0.791) compared to traditional lecture-based instruction](../claims/cbl-positive-overall-effect-learning-retention.md) [+W]
+- [Narrative medicine education shows no significant effect on residents' theoretical knowledge scores compared with lecture-based learning](../claims/narrative-medicine-no-effect-theoretical-knowledge.md) [+W]
+- [TBL alone and TBL combined with other methods both outperform LBL, with no significant difference between the two TBL formats](../claims/tbl-alone-versus-blended-no-significant-difference.md) [+W]
+- [Residents report higher satisfaction with narrative medicine education than lecture-based learning, but the effect is not robust to publication-bias adjustment](../claims/narrative-medicine-satisfaction-publication-bias.md) [~W]
+- [Two controlled studies found significantly higher examination scores and satisfaction in TBL groups compared with traditional lecture-based instruction](../claims/tbl-exam-scores-higher-than-lecture-two-studies.md) [-W]
+- [Narrative medicine education improves residents' procedural skill scores compared with lecture-based learning](../claims/narrative-medicine-improves-procedural-skill.md) [-W]
 
 ## Related Patterns
 - [Direct Instruction](direct-instruction.md) — the explain, model, guided-practice and hand-over policy; a lecture segment is its explanation step delivered to a large group

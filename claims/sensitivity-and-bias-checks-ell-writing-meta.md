@@ -93,17 +93,22 @@ Publication bias assessment using funnel plots, trim-and-fill, and Egger's regre
 - [Publication bias could not be ruled out in the pooled teacher-student SEC estimate, though the association persisted across sensitivity analyses](sec-pooled-estimate-publication-bias-caution.md) — related
 - [Publication bias analyses suggest the pooled effect may be underestimated: trim-and-fill raises the mean effect from g = 0.24 to g = 0.29, with no evidence of funnel plot asymmetry](publication-bias-trim-fill-raises-effect.md) — related
 - [Sensitivity testing indicates the performance effects of tablet use are robust and not subject to moderation effects](tablet-performance-effects-robust.md) — related
-- [Funnel plot asymmetry indicates publication bias, lowering the bias-adjusted effect size to 0.642](constructivism-attitudes-publication-bias-funnel-plot.md) — related
-- [The included studies show signs of publication bias, with an asymmetric and dispersed funnel plot](er-meta-analysis-publication-bias-funnel-plot.md) — related
-- [Publication bias does not threaten the pooled effect estimates](integrated-instruction-publication-bias-robust.md) — related
-- [Publication-bias analyses indicate a low, negligible risk of publication bias in the synthesized effect sizes](low-publication-bias-formative-assessment-meta-analysis.md) — related
-- [Publication bias due to small study effects was limited, and sensitivity analyses supported Winsorizing an outlying effect size](manipulatives-meta-publication-bias-limited.md) — related
-- [Publication-bias checks give mixed results: Egger's test indicates funnel-plot asymmetry while Trim and Fill and Fail-Safe N indicate no bias](mixed-publication-bias-evidence-meta-analysis.md) — related
-- [Funnel-plot analyses showed no significant asymmetry, and the overall effect remained significant after removing outliers](no-significant-funnel-plot-asymmetry.md) — related
-- [Funnel plot asymmetry indicates high publication bias before propensity score matching and low publication bias after matching](psm-reduces-publication-bias-funnel-plot.md) — related
-- [The meta-analysis shows signs of publication bias, with smaller studies tending to give more positive results than larger studies](publication-bias-gloss-meta-analysis.md) — related
-- [Funnel plot asymmetry indicates publication bias among the STEM dissertations analyzed](stem-meta-analysis-publication-bias.md) — related
-- [Egger's regression found no statistically significant evidence of publication bias among the 28 collected studies](egger-test-no-publication-bias.md) — related
+- Funnel plot asymmetry indicates publication bias, lowering the bias-adjusted effect size to 0.642 — related
+- The included studies show signs of publication bias, with an asymmetric and dispersed funnel plot — related
+- Publication bias does not threaten the pooled effect estimates — related
+- Publication-bias analyses indicate a low, negligible risk of publication bias in the synthesized effect sizes — related
+- Publication bias due to small study effects was limited, and sensitivity analyses supported Winsorizing an outlying effect size — related
+- Publication-bias checks give mixed results: Egger's test indicates funnel-plot asymmetry while Trim and Fill and Fail-Safe N indicate no bias — related
+- Funnel-plot analyses showed no significant asymmetry, and the overall effect remained significant after removing outliers — related
+- Funnel plot asymmetry indicates high publication bias before propensity score matching and low publication bias after matching — related
+- The meta-analysis shows signs of publication bias, with smaller studies tending to give more positive results than larger studies — related
+- Funnel plot asymmetry indicates publication bias among the STEM dissertations analyzed — related
+- Egger's regression found no statistically significant evidence of publication bias among the 28 collected studies — related
 - [Funnel-plot asymmetry suggests small studies with negative or null results may be missing from the simulation-versus-clinical meta-analysis](funnel-plot-missing-negative-studies.md) — related
 - [Trim-and-fill analyses suggest publication bias affected three of the four meta-analyses, indicating true mean effects may be lower than originally reported.](tier2-k3-publication-bias-lower-true-effects.md) — related
-- [Sensitivity analyses found no evidence of publication bias in the meta-analysis](no-publication-bias-sensitivity-analysis.md) — related
+- Sensitivity analyses found no evidence of publication bias in the meta-analysis — related
+- Publication bias tests and sensitivity analyses support the robustness of the pooled bilingual teaching effects — related
+- Pooled effects are robust in sensitivity analyses, but 10 of 13 studies carry serious risk of bias and publication bias is indicated — related
+- Funnel-plot asymmetry in the TBL meta-analyses is not supported by formal tests of publication bias — related
+- Funnel plot and Egger's test show no statistical evidence of publication bias for the composite household-disadvantage selection effect — related
+- Sensitivity and publication-bias analyses support the robustness of the pooled accuracy estimate — related

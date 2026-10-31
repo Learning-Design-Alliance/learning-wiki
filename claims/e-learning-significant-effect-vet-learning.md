@@ -47,4 +47,4 @@ Meta-analysis of 18 articles on e-learning in VET learning, drawn from Sinta-acc
 ## Related Claims
 - [Effect sizes of e-learning in VET vary widely across studies: 11 articles showed large, 4 medium, and 3 small effects](vet-e-learning-effect-size-distribution.md) — related
 - [E-learning in VET affects theoretical learning and only computer-media practical learning, not conventional machine-tool practical learning](e-learning-limited-to-theory-and-digital-practical.md) — related
-- [E-learning research in Indonesian VET concentrates on learning outcomes (77.8% of studies), with fewer studies on motivation and skills](vet-e-learning-outcome-focus-distribution.md) — related
+- E-learning research in Indonesian VET concentrates on learning outcomes (77.8% of studies), with fewer studies on motivation and skills — related

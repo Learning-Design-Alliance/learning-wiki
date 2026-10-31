@@ -17,7 +17,7 @@ sources:
 # Collect and evaluate long-term outcomes, strengthen measurement, and report study features consistently in early intervention research
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The authors' concluding recommendation is that the field needs "More research is needed with collection and evaluation of long-term outcomes, a focus on measurement, and consistency of primary study reporting." The descriptive synthesis revealed gaps including a notable lack of long-term measurement for children with etiologies other than autism or DLD, such as Down syndrome, and inconsistent reporting of race/ethnicity, home languages, and caregiver characteristics. The article also suggests researchers and clinicians might decide to maximize postintervention outcomes specifically for outcome categories that are more vulnerable to fade-out over time.
@@ -39,8 +39,6 @@ The authors' concluding recommendation is that the field needs "More research is
 ## Claims
 
 - [For linguistic outcomes, long-term effects were larger for children with DLD (g = .36, marginal) than for autistic children (g = .01, nonsignificant)](../claims/dld-vs-autism-linguistic-long-term-effects.md) [+W]
-- [In randomized trials, long-term outcomes rated high risk of bias had larger significant effects (g = .29) than low/some-concerns outcomes (g = .07, nonsignificant)](../claims/high-risk-of-bias-rcts-larger-long-term-effects.md) [+W]
-- [Funnel-plot analyses showed no significant asymmetry, and the overall effect remained significant after removing outliers](../claims/no-significant-funnel-plot-asymmetry.md) [+W]
 - [Posttest effect sizes significantly predict long-term effect sizes for both prelinguistic and linguistic outcomes](../claims/posttest-effects-predict-long-term-effects.md) [+W]
 - [Long-term intervention effects are larger for prelinguistic outcomes (g = .36) than for linguistic outcomes (g = .14, nonsignificant)](../claims/prelinguistic-outcomes-larger-long-term-effects-than-linguistic.md) [+W]
 - [Time between intervention and follow-up did not significantly predict long-term effect sizes](../claims/time-to-follow-up-not-significant-predictor.md) [+W]

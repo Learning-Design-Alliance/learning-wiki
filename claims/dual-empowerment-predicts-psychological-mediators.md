@@ -53,3 +53,4 @@ T2 structural mediation model (N = 216) testing H5–H7; the article reports DE 
 - [Autonomous regulation correlates positively with self-efficacy, learning strategies, and behavioral engagement, while controlled regulation shows no significant linear relations with these outcomes](autonomous-regulation-correlations-outcomes.md) — related
 - [Social and organizational support relate to AI well-being indirectly through AI literacy and technological self-efficacy](dual-mediation-support-to-ai-well-being.md) — related
 - [Self-efficacy and learning motivation serially mediate the link from AIGC affordance to self-regulated learning](serial-mediation-affordance-efficacy-motivation-srl.md) — related
+- [Intrinsic motivation, resilience, emotional intelligence, and perceived social support show mostly positive associations with academic performance in medical students](protective-psychosocial-factors-positive-association-medical-students.md) — related

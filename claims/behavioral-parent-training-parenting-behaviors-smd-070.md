@@ -47,9 +47,9 @@ Subgroup analysis in Table 2 of between-group studies of behavioral parent train
 ## Related Claims
 - [Psychosocial interventions for ADHD show a small positive overall weighted average effect (SMD = 0.26) in between-group studies, with substantial heterogeneity](adhd-interventions-overall-smd-026.md) — a broader claim this one bears on
 - [Behavioral classroom management improves teacher-rated ADHD symptoms (SMD = 0.66) and teacher-rated impairment (SMD = 0.72) in children with ADHD](behavioral-classroom-management-teacher-ratings-066-072.md) — related
-- [Whether studies randomly allocated participants was not significantly related to effect size magnitude in the ADHD psychosocial treatment meta-analysis](random-allocation-unrelated-adhd-effect-size.md) — related
+- Whether studies randomly allocated participants was not significantly related to effect size magnitude in the ADHD psychosocial treatment meta-analysis — related
 - [Effect sizes across ADHD between-group intervention studies range from −0.76 to 1.12 with a median of 0.18 and a slightly positive skewed distribution](adhd-study-smd-distribution-median-018.md) — related
 - [In a small randomized pilot study, children with ADHD showed better sociometric peer functioning when the MOSAIC classroom inclusion components were added to behavioral management and social skills training](mosaic-classroom-inclusion-pilot-gains.md) — related
 - [In a pilot randomized trial, children whose parents received Parental Friendship Coaching were reported by parents and by blind teachers to show better social behaviors and greater peer acceptance than control children](pfc-parent-coaching-pilot-gains.md) — related
-- [Study year of publication was not significantly related to effect size magnitude in the ADHD psychosocial treatment meta-analysis](study-year-unrelated-adhd-effect-size.md) — related
+- Study year of publication was not significantly related to effect size magnitude in the ADHD psychosocial treatment meta-analysis — related
 - [Existing child-focused treatments for ADHD, including the MTA's intensive behavioral management and medication, and clinic-based social skills training, have not improved peers' liking of children with ADHD](existing-treatments-fail-improve-peer-regard-adhd.md) — related

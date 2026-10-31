@@ -48,5 +48,5 @@ Meta-analytic aggregation of 31 studies of token reinforcement in middle schools
 - [Heterogeneity among token reinforcement studies exceeds 99% and is statistically significant](token-reinforcement-heterogeneity-over-99-percent.md) — related
 - [Aggregated effect sizes differ by outcome type: behavior highest (g = 2.38), performance large (g = 0.91), motivation small and negative (g = -0.39), none statistically significant](token-reinforcement-outcome-type-effect-sizes.md) — related
 - [61.29% of studies showed positive effects of token reinforcement, but only 6.45% had sample sizes sufficient for generalizable large effects](token-reinforcement-positive-studies-sample-size-limits.md) — related
-- [Reporting and publication bias pervade the token reinforcement literature: 38.71% of studies reported large significant effects while 29.03% lacked statistical significance](token-reinforcement-reporting-bias.md) — related
+- Reporting and publication bias pervade the token reinforcement literature: 38.71% of studies reported large significant effects while 29.03% lacked statistical significance — related
 - [Five moderators of token reinforcement effect sizes: study type, outcome type, effect size direction, publication year, and variance](token-reinforcement-moderators-five.md) — related

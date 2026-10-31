@@ -45,7 +45,7 @@ Sub-group moderator analysis of the 81 comparisons classified by implementation 
 
 
 ## Related Claims
-- [The effect of multiple intelligence practices does not differ significantly by type of study (article, master's thesis, doctoral thesis)](mi-effect-no-difference-study-type.md) — related
+- The effect of multiple intelligence practices does not differ significantly by type of study (article, master's thesis, doctoral thesis) — related
 - [The effect of multiple intelligence practices does not differ significantly by instructional level](mi-effect-no-difference-instructional-level.md) — related
 - [Application period, publication type, database, grade level, scale used, school starting age, country and sample size do not significantly moderate the effect of student-centred methods on mathematics achievement](non-significant-moderators-meta-analysis-primary-math.md) — reports the opposite
 - [Effect of learning stations does not differ significantly by application duration](learning-stations-duration-null-moderator.md) — reports the opposite

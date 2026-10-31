@@ -55,3 +55,4 @@ Self-report findings from the CCSR 2005 principal survey on preparation satisfac
 - [NLNS and UIC elementary schools rated more positively than non-program principal schools on several measures](nlns-uic-elementary-rated-positively.md) — related
 - [Graduates of partnership-based preparation programs showed above-average achievement gains and persistence in leadership roles](new-leaders-uic-program-outcome-evidence.md) — related
 - [Two LAUNCH elementary schools with NBCT clusters showed significantly positive differences on 8 of 16 school measures](launch-nbct-cluster-schools-dramatic-effects.md) — related
+- [Participant satisfaction with simulation-based leadership training was generally high, often above 90%](high-satisfaction-simulation-leadership-training.md) — related

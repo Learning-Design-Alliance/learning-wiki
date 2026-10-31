@@ -53,3 +53,5 @@ Authors' interpretation in the Discussion of interview findings; trainees report
 - [Organizational empowerment through clear role positioning and multidisciplinary support enables sustained training transfer](organizational-empowerment-enables-transfer.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — related
 - [Commentators recommend contextual adaptations of the Own It, Learn It, Share It framework](six-scholar-critiques-context-needed-for-ols-framework.md) — related
+- [Nurses' competence in effective implementation of evidence comprises evaluating and reflecting on outcomes, contextual understanding and analysis, and facilitating and managing change in practice](nurses-ebhc-competence-evidence-implementation-sf4.md) — related
+- [Nurses' competence in optimising evidence transfer comprises training and skill development, mentorship and supportive leadership, research understanding and confidence, resource sharing and peer support, and access to reputable sources and time constraints](nurses-ebhc-competence-evidence-transfer-sf3.md) — related

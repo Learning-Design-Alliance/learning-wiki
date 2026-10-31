@@ -44,6 +44,7 @@ The review's forward-looking agenda for the field: "Future research should seek 
 
 - [Research recommendations: broaden program descriptions, account for prior experience and context, define outcomes, and use longitudinal mixed-methods designs](principal-learning-research-agenda.md)
 - [Future research should improve definitions, operationalizations, and causal tests of authentic learning](future-research-improve-authentic-learning-research.md)
+- [Research agenda: standardize reporting, run comparative efficacy studies, and track longitudinal transfer to clinical practice](competency-simulation-research-agenda-reporting-transfer.md)
 
 ## Examples
 -

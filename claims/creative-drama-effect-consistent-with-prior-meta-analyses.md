@@ -63,12 +63,12 @@ The review attributes to Özbey and Sarıkaya (2019) the pattern that drama show
 
 
 ## Related Claims
-- [Studies published as articles showed a higher effect size (d = 1.486) than theses (d = 1.113) for creative drama in Social Studies](article-type-studies-higher-effect-than-theses.md) — related
+- Studies published as articles showed a higher effect size (d = 1.486) than theses (d = 1.113) for creative drama in Social Studies — related
 - [The creative drama method has a large positive effect on students' skill development](creative-drama-large-effect-skills.md) — related
 - [Effect size of creative drama on skills varies significantly with duration of experimental application, with longer applications showing larger effects](creative-drama-duration-moderator.md) — related
 - [Effect size of creative drama does not vary significantly by skill type (social, basic language, higher thinking)](creative-drama-skill-type-null-moderator.md) — related
 - [Effect size of creative drama on skills does not vary significantly by practitioner (researcher vs teacher)](creative-drama-practitioner-null-moderator.md) — related
-- [Effect size of creative drama on skills varies significantly by publication type, with theses showing larger effects than articles](creative-drama-publication-type-moderator.md) — related
+- Effect size of creative drama on skills varies significantly by publication type, with theses showing larger effects than articles — related
 - [Effect size of creative drama on Social Studies achievement varies by grade level, largest at 8th grade (d = 2.733) and lowest at 4th grade (d = 0.709)](creative-drama-effect-varies-by-grade-level.md) — related
 - [Effect of creative drama on skills varies significantly by level of schooling, highest at pre-school and lowest at high school](creative-drama-schooling-level-moderator.md) — related
 - [Effect sizes of creative drama studies published between 2006-2012 (d = 1.208) were higher than those published 2013-2020 (d = 1.168)](creative-drama-effect-higher-earlier-studies.md) — related

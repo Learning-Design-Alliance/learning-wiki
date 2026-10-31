@@ -61,3 +61,4 @@ Primary outcome domain C in the within-participants comparison of 20 students; W
 - [Corrective feedback plus either GLA significantly improved students' safety behavior in VR, with no difference between re-experiencing and self-explaining](gla-corrective-feedback-improve-safety-vr.md) — related
 - [Measures of presence, enjoyment, entitativity, and realism increased over a 10-week networked-VR course, suggesting XRCL advantages may grow as participants adapt](xrcl-advantages-increase-with-adaptation.md) — reports the opposite
 - [An interactive game training context provided no immersion or bias-mitigation advantage over a text script with identical content](game-context-no-advantage-over-text.md) — related
+- [A social robotic LLM-enhanced virtual patient was rated higher than a conventional computer-based platform for authenticity and learning effect](robotic-vp-higher-authenticity-than-computer-platform.md) — reports the opposite

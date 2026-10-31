@@ -46,7 +46,7 @@ Meta-regression of the 31 effect sizes on three continuous covariates. Only the 
 
 ## Related Claims
 - [Arduino-based education in Korean primary and secondary schools has a medium overall average effect size of 0.656](arduino-education-medium-overall-effect.md) — related
-- [Effect sizes of Arduino-based education are statistically larger in academic papers than in dissertations](arduino-effect-publication-status-difference.md) — related
+- Effect sizes of Arduino-based education are statistically larger in academic papers than in dissertations — related
 - [Effect sizes of Arduino-based education do not differ statistically by school level, though high school estimates rest on minimal data](arduino-effect-school-level-no-difference.md) — related
 - [Effect sizes of Arduino-based education are statistically larger for textual than for visual programming language](arduino-effect-textual-language-larger.md) — related
-- [The effect size does not vary significantly with sample size or publication year in meta-regression](meta-regression-sample-size-year-null.md) — reports the opposite
+- The effect size does not vary significantly with sample size or publication year in meta-regression — reports the opposite

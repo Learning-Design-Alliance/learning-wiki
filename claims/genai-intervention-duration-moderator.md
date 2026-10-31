@@ -68,3 +68,4 @@ Moderator analysis (Table 5) of intervention duration across subgroups: 0–8 we
 - [Shorter modelling treatments produce larger achievement effects than semester-length treatments](shorter-modelling-treatments-larger-effects.md) — related
 - [Courses shorter than one semester showed larger synchronous-learning effect sizes than semester-or-longer courses](course-duration-moderator-sol.md) — related
 - [Teaching period significantly moderates blended instruction effects, with one to three months producing the largest effect (SMD = 0.845)](teaching-period-moderates-blended-instruction-effects.md) — related
+- [School swimming interventions show high heterogeneity in duration, frequency and session length, with no unified methodological standard](school-swimming-intervention-heterogeneity.md) — related

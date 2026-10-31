@@ -13,7 +13,7 @@ generated:
 # Cooperative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 46 claims (19 for, 27 mixed) · 37 studies (16 quant-synthesis, 11 causal, 5 review, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 15 of 37 report an effect size · 39 claims rest on one study
+> **Evidence** · 45 claims (19 for, 26 mixed) · 37 studies (16 quant-synthesis, 11 causal, 5 review, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q2`–`q4` · 15 of 37 report an effect size · 38 claims rest on one study
 
 ## Conditional relationship
 
@@ -110,7 +110,6 @@ Immediate group performance, individual achievement at the end of a unit, delaye
 - [The achievement effect of cooperative learning differs significantly across student grade levels, largest at university level (d+ = 1.33)](../claims/cooperative-learning-achievement-grade-moderator.md) [~W]
 - [Cooperative learning produces a medium, positive, significant effect on mathematics achievement compared with traditional methods (d++ = 0.59)](../claims/cooperative-learning-medium-positive-effect-math-achievement.md) [+W]
 - [Achievement effects of cooperative learning are similar across experiment durations of 3–8, 9–14, and 15–20 weeks](../claims/cooperative-learning-achievement-duration-moderator.md) [+W]
-- [Estimated cooperative learning efficacy is higher in studies published in SINTA and GARUDA indexed journals (1.04) than in Google Scholar indexed articles or proceedings (0.73)](../claims/journal-index-moderator-cooperative-learning-effect.md) [~W]
 - [Self-selected and randomly formed small groups show larger achievement effects than ability-based grouping, and groups of three to five students outperform pairs](../claims/group-formation-and-size-moderate-small-group-effects.md) [~W]
 - [Cooperative learning has a medium positive effect on mathematics achievement in Turkey (average ES = 0.840, random-effects model)](../claims/cooperative-learning-medium-positive-math-effect-turkey.md) [+W]
 - [The effect of cooperative learning on mathematics achievement differs significantly by learning domain, with geometry showing the largest effect](../claims/learning-domain-moderator-significant-geometry.md) [~W]

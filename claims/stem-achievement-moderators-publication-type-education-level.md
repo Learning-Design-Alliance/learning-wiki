@@ -64,9 +64,9 @@ Lesson-type moderator analysis of academic achievement effect sizes: science ES 
 
 
 ## Related Claims
-- [Effect size of creative drama on skills varies significantly by publication type, with theses showing larger effects than articles](creative-drama-publication-type-moderator.md) — related
+- Effect size of creative drama on skills varies significantly by publication type, with theses showing larger effects than articles — related
 - [Publication type and study origin do not significantly moderate the digital story effect on academic achievement](digital-story-effect-not-moderated-by-publication-type-or-origin.md) — related
-- [Effect sizes differ significantly by publication type, with master's theses and articles showing higher effects than PhD theses.](moderator-publication-type-effect.md) — related
+- Effect sizes differ significantly by publication type, with master's theses and articles showing higher effects than PhD theses. — related
 - [Effect sizes of PBL on science achievement differ significantly by publication type, with conference proceedings showing a negative effect](pbl-effect-differs-by-publication-type.md) — related
 - [Publication type (article vs. thesis) does not significantly moderate the effect of formative assessment on student learning](publication-type-no-moderation-formative-assessment.md) — related
 - [Type of publication does not significantly moderate the effect of constructivism on attitudes towards lessons](publication-type-not-significant-moderator-constructivism-attitudes.md) — related

@@ -50,4 +50,4 @@ Multilevel correlated and hierarchical effects (CHE) meta-analysis of nine RCTs 
 - Formal tests find no substantial evidence of publication bias or small-study effects in the meta-analysis — related
 - [Prior meta-analyses found word-problem interventions less effective for students with co-occurring difficulties than for students with mathematics difficulties only](prior-reviews-co-occurring-less-responsive.md) — related
 - [Mathematics interventions for students with mathematics difficulty in grades 4–12 show a statistically significant pooled treatment effect of 0.85 under a random-effects model](math-interventions-grades-4-12-rve-effect-085.md) — related
-- [One included study (Sun-Lin & Chiou, 2017) was determined to be an outlier, prompting a reconstructed meta-analysis without it](sun-lin-chiou-2017-outlier-d22203.md) — related
+- One included study (Sun-Lin & Chiou, 2017) was determined to be an outlier, prompting a reconstructed meta-analysis without it — related

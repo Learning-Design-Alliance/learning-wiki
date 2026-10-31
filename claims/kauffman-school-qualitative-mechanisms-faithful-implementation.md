@@ -48,3 +48,4 @@ The paper used qualitative data to explore possible mechanisms for the school's 
 - [The Kauffman School's hallmarks are largely being implemented faithfully](kauffman-school-hallmarks-implemented-faithfully.md) — possibly the same claim (merge candidate)
 - [Key stakeholders believe the Kauffman School's methods positively influence students' behavior, attitudes, and performance](kauffman-stakeholders-believe-methods-improve-behavior-attitudes-performance.md) — possibly the same claim (merge candidate)
 - [Personalized Learning Effects Vary With Fidelity](personalized-learning-effects-vary-with-fidelity.md) — related
+- [Qualitative findings across four studies describe improved leadership knowledge, skills, beliefs, attitudes, and stakeholder engagement](qualitative-improvements-leadership-competencies.md) — related

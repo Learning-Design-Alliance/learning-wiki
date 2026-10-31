@@ -56,3 +56,4 @@ Exploratory complete-case follow-up ANCOVA including families completing T1, T2 
 - [Zirkus Empathico reduced parent-rated behavioral problems in preschoolers](zirkus-empathico-reduced-behavioral-problems.md) — related
 - [Retention improves math self-efficacy and reduces math anxiety in the first year, with effects maintained (anxiety showing a positive sleeper effect at Lag 4)](retention-self-efficacy-anxiety-effects.md) — related
 - [Zirkus Empathico increased parent-rated prosocial behavior but not child-assessed prosocial behavior](zirkus-empathico-prosocial-behavior-parent-rated.md) — related
+- [Skill retention after simulation is rarely measured; at 2-month follow-up only the VR group maintained significant ISVS improvement](simulation-skill-retention-two-month-follow-up.md) — related

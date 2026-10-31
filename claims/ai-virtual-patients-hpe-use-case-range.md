@@ -45,7 +45,7 @@ Synthesis of use cases charted from 97 included studies in a scoping review foll
 
 
 ## Related Claims
-- [Outcome evaluation of AI-generated virtual patients in HPE is concentrated at Kirkpatrick level 1, with no studies reporting level 3 or 4 outcomes](ai-virtual-patients-kirkpatrick-level-1-dominant.md) — related
+- Outcome evaluation of AI-generated virtual patients in HPE is concentrated at Kirkpatrick level 1, with no studies reporting level 3 or 4 outcomes — related
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related
 - [AI-driven case simulations in ambulatory settings support diagnostic reasoning and anticipatory thinking in nursing education](ai-ambulatory-case-simulations-diagnostic-reasoning.md) — related
 - [AI-generated virtual patients exhibit limitations including inauthentic conversational flow, excessive agreeableness, role departure, and clinical inaccuracy](ai-virtual-patient-limitations-flow-agreeableness-role-departure.md) — related
@@ -53,3 +53,6 @@ Synthesis of use cases charted from 97 included studies in a scoping review foll
 - [One RCT found AI-assisted simulation inferior to standardized patient simulation for breast self-examination skills](ai-simulation-inferior-bse-skills.md) — related
 - [Virtual patient design-variant comparisons rarely show significant differences, with feedback and scaffolding exceptions](vp-design-variants-mostly-null.md) — related
 - [Learner self-reported improvement after AI-generated virtual patient training is sometimes discordant with observed or cohort-comparison performance](ai-virtual-patient-self-report-performance-discordance.md) — related
+- [AI-based assessment of therapeutic communication skills showed high reliability (ICC > 0.97) in a cited quasi-experimental nursing study](ai-communication-assessment-high-reliability.md) — related
+- [In an RCT reviewed here, adding AI-generated feedback to a GenAI virtual patient improved medical students' clinical decision-making relative to simulation alone](ai-feedback-improves-clinical-decision-making-rct.md) — related
+- [Virtual patient simulations show mixed effects: improved diagnostic accuracy in one trial, no advantage over video teaching in another, and short-lived knowledge gains](virtual-patients-mixed-psychiatry.md) — related

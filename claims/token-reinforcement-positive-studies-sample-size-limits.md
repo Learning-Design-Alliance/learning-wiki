@@ -47,6 +47,6 @@ Per-study effect size comparison across the 31 aggregated studies (Table 1, fore
 
 ## Related Claims
 - [The overall effect size for token reinforcement interventions in middle schools is large (g ≈ 1.04) but not statistically significant](token-reinforcement-overall-effect-not-significant.md) — related
-- [Reporting and publication bias pervade the token reinforcement literature: 38.71% of studies reported large significant effects while 29.03% lacked statistical significance](token-reinforcement-reporting-bias.md) — related
+- Reporting and publication bias pervade the token reinforcement literature: 38.71% of studies reported large significant effects while 29.03% lacked statistical significance — related
 - [Five moderators of token reinforcement effect sizes: study type, outcome type, effect size direction, publication year, and variance](token-reinforcement-moderators-five.md) — related
 - [Aggregated effect sizes differ by outcome type: behavior highest (g = 2.38), performance large (g = 0.91), motivation small and negative (g = -0.39), none statistically significant](token-reinforcement-outcome-type-effect-sizes.md) — related

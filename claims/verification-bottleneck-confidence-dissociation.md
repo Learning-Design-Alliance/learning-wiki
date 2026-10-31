@@ -58,3 +58,4 @@ The article reports, citing Fernandes et al. (2026) and Klingbeil et al. (2024),
 - [The system's error detection recall rate for complex rhythm errors was 91.2% ± 1.8%](rhythm-error-detection-recall-91-2.md) — related
 - [Post-error behavioural adjustments can occur automatically, dissociated from explicit error detection](implicit-post-error-adjustment-typists.md) — related
 - [Distillation increases misclassification of ambiguous To Some Extent tutor responses as Yes](distillation-increases-ambiguous-yes-bias.md) — related
+- [Errors in clinical reasoning arise from 4 primary areas: inadequate knowledge, flawed data gathering, faulty data processing, or impaired metacognition](clinical-reasoning-errors-four-areas.md) — related

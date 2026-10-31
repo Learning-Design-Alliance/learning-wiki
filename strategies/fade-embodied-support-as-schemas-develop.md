@@ -44,6 +44,7 @@ An implementable instructional recipe derived from the article's reformulation: 
 - [Scaffolded Difficulty Progression](scaffolded-difficulty-progression.md)
 - [Scaffolded Practice Sequences](scaffolded-practice-sequences.md)
 - [Completion Problems First](completion-problems-first.md)
+- [Use AR as targeted early-training scaffolding with progressive withdrawal as competency develops](progressive-withdrawal-ar-guidance.md)
 
 ## Examples
 -

@@ -45,6 +45,6 @@ Heterogeneity test in the fixed-effects meta-analysis of 11 studies. The printed
 
 
 ## Related Claims
-- [Effect sizes of small-group learning studies in engineering and technology education are significantly heterogeneous, justifying moderator analyses](small-group-effect-sizes-heterogeneous-engineering-technology.md) — related
+- Effect sizes of small-group learning studies in engineering and technology education are significantly heterogeneous, justifying moderator analyses — related
 - [Effect sizes of technology-delivered literacy instruction are heterogeneous across studies (Q = 165.38, I2 = 68.56)](tech-literacy-effect-heterogeneity.md) — related
 - [Heterogeneity between studies of the metacognition–math association is significant and remains high in all moderator analyses](metacognition-math-heterogeneity-high.md) — related

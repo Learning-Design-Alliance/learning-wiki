@@ -47,6 +47,8 @@ The review recommends that future evaluations of MBIs for youth move beyond smal
 
 - [Scale to multisite, large, representative longitudinal samples while complementing them with exploratory small-sample studies](multisite-representative-longitudinal-samples.md)
 - [Prioritize larger randomized trials in pedagogical research and more representative evaluations across Africa](larger-rcts-pedagogical-research-recommendation.md)
+- [Rigorously compare PBL with traditional methods before broad PGME implementation, using larger samples, controls, and follow-up](compare-pbl-traditional-methods-before-pgme-implementation.md)
+- [Future psychiatry education technology studies should use active comparators, standardized assessment tools, and long-term follow-up](psychiatry-ed-tech-future-research-strategy.md)
 
 ## Examples
 -

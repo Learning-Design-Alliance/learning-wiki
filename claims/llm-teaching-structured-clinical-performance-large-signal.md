@@ -49,3 +49,4 @@ Supplementary random-effects meta-analysis of structured or examination-based cl
 - [Delayed retention shows no clear difference between LLM-based and traditional teaching (SMD 0.15)](llm-teaching-delayed-retention-no-clear-difference.md) — related
 - [LLM-based teaching is associated with higher post-course score-based outcomes than non-AI teaching in an exploratory pooled synthesis (SMD 0.90), with very high heterogeneity](llm-teaching-exploratory-post-course-score-advantage.md) — related
 - [Strict knowledge acquisition shows a smaller positive pooled signal for LLM-based teaching (SMD 0.80)](llm-teaching-strict-knowledge-acquisition-signal.md) — related
+- [Pooled risk difference across 11 student‐clinic studies is 0.43 but with considerable heterogeneity (I² = 93%)](student-rct-pooled-risk-difference-heterogeneous.md) — related

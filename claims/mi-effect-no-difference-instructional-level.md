@@ -50,5 +50,5 @@ Sub-group moderator analysis comparing elementary and secondary levels; universi
 - [The achievement effect of cooperative learning differs significantly across student grade levels, largest at university level (d+ = 1.33)](cooperative-learning-achievement-grade-moderator.md) — related
 - [The effect of computer-based teaching on academic success differs significantly by grade level, with the largest effect in secondary schools (ES = 1.31) and the smallest in primary schools (ES = .66)](cbt-effect-differs-by-grade-level-secondary-largest.md) — related
 - [Attitude effects of STEM practices differ significantly by education level but not by publication type or lesson type](stem-attitude-moderators-education-level.md) — related
-- [The effect of multiple intelligence practices does not differ significantly by type of study (article, master's thesis, doctoral thesis)](mi-effect-no-difference-study-type.md) — related
+- The effect of multiple intelligence practices does not differ significantly by type of study (article, master's thesis, doctoral thesis) — related
 - [Effect sizes do not differ significantly by education level, though primary school applications showed the largest point estimate (g = 1.564)](no-significant-difference-by-education-level.md) — related

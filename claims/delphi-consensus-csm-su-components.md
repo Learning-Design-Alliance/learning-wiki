@@ -48,3 +48,4 @@ Two-round Delphi validation with 10 Cypriot field experts (six senior principals
 - The study's scope is limited by English-only sources, a Cyprus-based Delphi panel, and interpretive synthesis — related
 - [A three-round Delphi study with 17 experts from education, industry, and cultural expertise produced the SAIL AI literacy framework](sail-framework-produced-by-three-round-delphi-study.md) — related
 - [Seven enablers of LA-based educational interventions were identified and validated by an international expert panel](seven-enablers-la-based-educational-interventions.md) — related
+- Two Delphi rounds with 20 Chinese CDC experts achieved consensus, with Kendall's W rising significantly from 0.295 to 0.328 — related

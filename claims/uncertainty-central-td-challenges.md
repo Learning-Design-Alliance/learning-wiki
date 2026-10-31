@@ -51,3 +51,4 @@ The review's synthesis across 36 studies characterizes the challenge landscape. 
 - Research on transdisciplinary sustainability learning disproportionately examines students, with educational staff and societal partners underrepresented — related
 - [Students enact agency toward the self by maintaining motivation through embracing uncertainty and learning from mistakes, and by taking time for reflection and serendipity](agency-toward-self-actions.md) — related
 - [Reflexivity, perspective taking, analogical reasoning, and tolerance of ambiguity and uncertainty each positively relate to knowledge integration in inter- and transdisciplinary work](four-competencies-predict-knowledge-integration.md) — related
+- [Emotional regulation, especially tolerance of uncertainty, supports physicians' management of clinical uncertainty](emotion-regulation-supports-uncertainty-management.md) — related

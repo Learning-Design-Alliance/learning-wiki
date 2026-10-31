@@ -49,10 +49,10 @@ Homogeneity analysis of the 38 effect sizes in the meta-analysis. The Q test was
 - [The effect of drama on social studies achievement does not differ significantly by duration of application (1–4 vs 5–10 weeks)](drama-effect-no-duration-difference.md) — related
 - [The effect of drama on social studies achievement does not differ significantly by grade level (grades 4–7)](drama-effect-no-grade-level-difference.md) — related
 - [The effect of drama on social studies achievement does not differ significantly by sample size, though effect sizes decrease slightly as sample size increases](drama-effect-no-sample-size-difference.md) — related
-- [Effect sizes across primary studies are highly heterogeneous (Q = 283.659, I² = 77%), justifying the random-effects model](heterogeneity-i2-77-percent-random-effects.md) — related
-- [Effect sizes across included studies were heterogeneous (Q=13.886, p<.05), and the article concludes a random-effects model is appropriate](heterogeneity-metacognitive-training-effect-sizes.md) — related
-- [Effect sizes across the 31 included studies are highly heterogeneous (I² = 81.957%), warranting a random effects model](high-heterogeneity-i2-82-traditional-methods.md) — related
-- [Effect sizes of small-group learning studies in engineering and technology education are significantly heterogeneous, justifying moderator analyses](small-group-effect-sizes-heterogeneous-engineering-technology.md) — a narrower finding that bears on this claim
-- [Effect sizes across the 38 comparisons are highly heterogeneous, requiring a random-effects model](stem-digital-meta-heterogeneous-random-effects.md) — related
+- Effect sizes across primary studies are highly heterogeneous (Q = 283.659, I² = 77%), justifying the random-effects model — related
+- Effect sizes across included studies were heterogeneous (Q=13.886, p<.05), and the article concludes a random-effects model is appropriate — related
+- Effect sizes across the 31 included studies are highly heterogeneous (I² = 81.957%), warranting a random effects model — related
+- Effect sizes of small-group learning studies in engineering and technology education are significantly heterogeneous, justifying moderator analyses — a narrower finding that bears on this claim
+- Effect sizes across the 38 comparisons are highly heterogeneous, requiring a random-effects model — related
 - [Effect sizes of creative drama studies are heterogeneous (Q = 60.78, df = 39, p < .05), motivating moderator analyses](creative-drama-effect-sizes-heterogeneous.md) — related
 - [Effect sizes do not differ significantly between selected-student and whole-class applications, with class-based applications slightly higher (g = 1.253 vs 1.245)](no-significant-difference-by-application-type.md) — related

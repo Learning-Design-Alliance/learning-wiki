@@ -52,3 +52,4 @@ Hierarchical multiple regression on survey data (N = 818 for this model) predict
 - [Skill-based AI literacy (using/understanding and detecting AI) is positively associated with reported AI dependency among higher education students](skill-based-ai-literacy-positively-predicts-ai-dependency.md) — related
 - [Math anxiety explained variance in posttest monitoring judgments beyond trait anxiety, supporting its distinctness from general anxiety](math-anxiety-distinct-from-trait-anxiety-in-monitoring.md) — related
 - [Personal innovativeness, technology anxiety, and growth mindset in technology each significantly predict AI literacy after external resources and digital competence are controlled, adding 6% of variance](psychological-profile-predicts-ai-literacy-incrementally.md) — related
+- [Ethics knowledge and positive future orientation empirically predict AI integration and ethical values in cited studies](ethics-knowledge-predicts-ai-integration.md) — related

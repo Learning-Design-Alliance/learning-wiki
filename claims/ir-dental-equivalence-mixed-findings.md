@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: mixed
 newest_evidence: 2026
+source_checked: 2026-10-31
 sources:
   - id: ruslin-muhammad-2026
     resource: "https://doi.org/10.1186/s12909-026-09739-x"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Vincent et al. found no significant differences between haptic simulator (VirtEasy) and conventional practice on plastic teeth in restorative dentistry training. [→ Ruslin Muhammad 2026](#ruslin-muhammad-2026)
@@ -72,3 +73,8 @@ The review reports Dwisaptarini et al.'s RCT of minimal invasive caries removal 
 - [Haptic virtual reality simulation reduces procedural time for pulpotomy training compared with conventional simulators](ir-reduces-procedural-time-dental.md) — related
 - [Improvements in objective knowledge outcomes (Kirkpatrick Level 2) from technology-enhanced learning were inconsistent across neuroanatomy interventions](tl-neuroanatomy-l2-knowledge-inconsistent.md) — a broader claim this one bears on
 - [Qualitative analysis found radiation became perceptible in VR for all participants, while all reported operability differences favoring conventional training](qualitative-themes-visualization-versus-operability.md) — related
+- [Immersive VR-haptic and ITS modalities are more often associated with objective psychomotor and cognitive gains, while generative AI platforms are more often associated with affective outcomes](ads-modality-domain-patterns.md) — reports the opposite
+- [For lower-stakes basic skills, AR shows noninferiority rather than superiority over traditional instruction](ar-noninferiority-basic-skills.md) — a narrower finding that bears on this claim
+- [Distance simulation of technical skills achieves skill outcomes comparable to traditional on-site training in most comparative studies](distance-simulation-comparable-to-onsite-technical-skills.md) — a broader claim this one bears on
+- [VR tools enhance acquisition and retention of clinical and procedural skills but face barriers including cybersickness, limited tactile feedback and variable long-term skill transfer](vr-enhances-practical-skill-acquisition-with-barriers.md) — related
+- [VR-enhanced basic robotic skills training sometimes required more training repetitions than conventional training to reach equivalent proficiency](vr-training-more-repetitions-to-proficiency.md) — related

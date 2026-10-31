@@ -68,4 +68,4 @@ LRR meta-regression on the same subsample: multiple functions had the largest es
 - [AAC intervention research overwhelmingly targets behavior regulation and communication production, neglecting joint attention, social interaction, and comprehension](aac-research-targets-behavior-regulation-production-dominance.md) — related
 - [The number of communication modes used during intervention does not statistically moderate AAC treatment effects](number-communication-modes-no-moderation.md) — related
 - [Aided versus unaided AAC does not statistically moderate AAC effects, though exclusive aided AAC descriptively yields the largest estimates](aided-vs-unaided-aac-no-significant-difference.md) — related
-- [Under-reported participant characteristics and implementation factors, plus effect-size metric limitations, explain the scarcity of significant moderator differences](aac-moderator-nulls-attributed-underreporting.md) — related
+- Under-reported participant characteristics and implementation factors, plus effect-size metric limitations, explain the scarcity of significant moderator differences — related

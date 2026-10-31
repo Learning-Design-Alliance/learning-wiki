@@ -62,3 +62,4 @@ Correlational analysis of all measured variables (Table 1) among 188 adult learn
 - [Controlled motivation negatively predicts school grades and does not compensate for low autonomous motivation](controlled-motivation-negative-no-compensation.md) — related
 - [Internally divergent momentary engagement profiles occur within a single task, with students attentive yet emotionally and cognitively disengaged](divergent-internal-engagement-dynamics-single-task.md) — related
 - [Dual Empowerment positively predicts affective, motivational, and cognitive mediating processes](dual-empowerment-predicts-psychological-mediators.md) — related
+- [Autonomous or intrinsic motivation is positively associated with academic performance, while controlled or extrinsic motivation shows minimal or negative associations](autonomous-motivation-positive-controlled-motivation-not.md) — related

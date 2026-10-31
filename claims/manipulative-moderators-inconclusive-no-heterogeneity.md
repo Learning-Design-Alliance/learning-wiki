@@ -48,4 +48,4 @@ Bivariate meta-regression models (Table 3) tested grade level, manipulatives typ
 - [Effects of inclusion are heterogeneous and single-factor subgroup moderator analyses were inconclusive](inclusion-effects-heterogeneous-moderator-analyses-inconclusive.md) — related
 - [Interventions in higher Grades tend to have somewhat lower effect sizes; other study characteristics show few significant moderator effects](grade-level-moderates-effect-size.md) — related
 - [Manipulatives use during mathematics instruction yields a small statistically significant achievement advantage over nonuse in grades PK-12](manipulatives-use-small-significant-advantage-over-nonuse.md) — related
-- [Effect sizes of small-group learning studies in engineering and technology education are significantly heterogeneous, justifying moderator analyses](small-group-effect-sizes-heterogeneous-engineering-technology.md) — related
+- Effect sizes of small-group learning studies in engineering and technology education are significantly heterogeneous, justifying moderator analyses — related

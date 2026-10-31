@@ -47,7 +47,7 @@ Meta-analysis aggregation over four studies with 1079 participants. Table 5 prin
 ## Related Claims
 - [All six shortlisted CSFs have aggregated means above 2.5 on a 5-point Likert scale, indicating appreciable perceived influence](all-six-csfs-aggregate-means-above-2-5.md) — related
 - [Content is the CSF with the highest aggregated mean and a strong positive correlation with learner perceptions (r = 0.80454)](content-csf-ranked-highest-positive-correlation.md) — related
-- [A meta-analysis of 19 m-Learning studies identifies 21 candidate critical success factors, of which six are shortlisted for statistical meta-analysis](meta-analysis-21-csfs-six-shortlisted-mlearning.md) — related
+- A meta-analysis of 19 m-Learning studies identifies 21 candidate critical success factors, of which six are shortlisted for statistical meta-analysis — related
 - [Students' self-reported AI literacy was moderately negatively correlated with objectively measured AI competency, suggesting potential overestimation of AI abilities](perceived-ai-ability-misaligns-objective-competency.md) — related
 - [User friendly design of content correlates highly positively with learner perceptions (r = 0.92961)](user-friendly-design-positive-correlation-learner-perceptions.md) — related
 - [Teachers' self-reported AI literacy correlates only weakly with their objectively measured performance (r = 0.07–0.24)](weak-sr-ob-correlation-ai-literacy.md) — related

@@ -67,3 +67,4 @@ Authors' theoretical argument in the Discussion, not an empirical test. The revi
 - [Emotional design features are implemented inconsistently within and between studies, especially in visual sophistication and anthropomorphic elements](emotional-design-implementation-heterogeneity.md) — possibly the same claim (merge candidate)
 - [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — related
 - [Anthropomorphic and colour features can capture and guide attention, overlapping with the signaling principle](emotional-design-attention-guidance-signaling-overlap.md) — related
+- [Multimedia design was a frequently reported facilitator, and one study found e-modules with more sophisticated visual and interactive features led to stronger learning outcomes](multimedia-design-facilitator-sophisticated-features.md) — related

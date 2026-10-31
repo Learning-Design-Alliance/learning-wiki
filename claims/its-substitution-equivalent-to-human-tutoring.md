@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-10-31
 sources:
   - id: bauer-2025
     resource: "https://doi.org/10.1007/s10648-025-10020-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Meta-analyses comparing intelligent tutoring systems with human tutoring or small-group instruction found no significant differences in cognitive learning effects, suggesting instructional equivalence. [→ Bauer 2025](#bauer-2025)
@@ -52,3 +53,4 @@ The review reports, citing Ma et al. (2014), Steenbergen-Hu and Cooper (2014), a
 - [Steenbergen-Hu and Cooper found smaller ITS effects in K-12 school settings where lower-achievers did worse, but more positive ITS effects for university students versus conventional instruction](steenbergen-hu-cooper-school-vs-university-its-effects.md) — related
 - [VanLehn (2011) found step-based intelligent tutoring systems nearly as effective as average human tutors, and both more effective than no tutoring but less effective than expert human tutors](vanlehn-2011-step-based-its-nearly-average-human-tutors.md) — related
 - [A meta-review found intelligent tutoring systems approaching the effectiveness of ordinary human tutors, whose effectiveness is below that of expert tutoring](vanlehn-metareview-its-approaching-human-tutors.md) — related
+- [No significant difference in ICEMS performance scores between AI tutoring and expert instruction](ai-tutoring-no-icems-difference.md) — a narrower finding that bears on this claim

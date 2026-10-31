@@ -54,4 +54,4 @@ Reliability analysis in which two researchers independently coded a random 10% o
 - [A customised GPT-4 agreed with a human coder on over 90% of coded dialogue turns in both math and Chinese lessons](gpt4-human-coder-agreement-over-90-percent.md) — related
 - Three expert coders reached 77.15% overall agreement (Fleiss' κ = 0.763) on the LCT MOOC sample, and over half of their disagreements lay between Exploration and Integration — related
 - [University students most often named teaching practices focused on interaction and relationships and on clarity as the best they had experienced](students-prefer-clarity-and-interaction-practices.md) — related
-- [Coding of included studies reached 100% inter-coder reliability using the agreement formula](coding-reliability-100-percent-meta-analysis.md) — related
+- Coding of included studies reached 100% inter-coder reliability using the agreement formula — related

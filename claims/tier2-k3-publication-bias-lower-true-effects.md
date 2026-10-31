@@ -46,11 +46,12 @@ Trim-and-fill (Card, 2012) funnel-plot asymmetry analysis applied to each meta-a
 
 ## Related Claims
 - [Evidence of small-study effects exists for cognition and motivation, but trim-and-fill adjustment leaves the moderate motivating effect essentially unchanged](publication-bias-small-study-effects-games-stem.md) — related
-- [Publication-bias checks give mixed results: Egger's test indicates funnel-plot asymmetry while Trim and Fill and Fail-Safe N indicate no bias](mixed-publication-bias-evidence-meta-analysis.md) — related
-- [Funnel plot asymmetry indicates publication bias, lowering the bias-adjusted effect size to 0.642](constructivism-attitudes-publication-bias-funnel-plot.md) — related
+- Publication-bias checks give mixed results: Egger's test indicates funnel-plot asymmetry while Trim and Fill and Fail-Safe N indicate no bias — related
+- Funnel plot asymmetry indicates publication bias, lowering the bias-adjusted effect size to 0.642 — related
 - [The pooled effect of writing instruction for US ELL students is robust to sensitivity analyses but funnel plot asymmetry suggests possible missing positive effect sizes](sensitivity-and-bias-checks-ell-writing-meta.md) — related
-- [The included studies show signs of publication bias, with an asymmetric and dispersed funnel plot](er-meta-analysis-publication-bias-funnel-plot.md) — related
-- [Sensitivity analyses found no evidence of publication bias in the meta-analysis](no-publication-bias-sensitivity-analysis.md) — reports the opposite
+- The included studies show signs of publication bias, with an asymmetric and dispersed funnel plot — related
+- Sensitivity analyses found no evidence of publication bias in the meta-analysis — reports the opposite
 - [Publication bias analyses suggest the pooled effect may be underestimated: trim-and-fill raises the mean effect from g = 0.24 to g = 0.29, with no evidence of funnel plot asymmetry](publication-bias-trim-fill-raises-effect.md) — related
 - [Funnel-plot asymmetry suggests small studies with negative or null results may be missing from the simulation-versus-clinical meta-analysis](funnel-plot-missing-negative-studies.md) — related
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](srl-meta-analysis-publication-bias-absent.md) — related
+- Funnel-plot asymmetry in the TBL meta-analyses is not supported by formal tests of publication bias — reports the opposite

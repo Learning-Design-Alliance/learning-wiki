@@ -47,5 +47,5 @@ Meta-analysis of 18 articles reporting the distribution of individual effect siz
 ## Related Claims
 - [E-learning has a significant positive influence on VET learning, with an average effect size of η² = 0.344 across 18 studies](e-learning-significant-effect-vet-learning.md) — related
 - [Individually analyzed method and approach studies show widely varying effects, with analogy-enhanced teaching rated most effective and two studies insignificant](method-approach-effect-sizes-vary-analogy-largest.md) — a narrower finding that bears on this claim
-- [E-learning research in Indonesian VET concentrates on learning outcomes (77.8% of studies), with fewer studies on motivation and skills](vet-e-learning-outcome-focus-distribution.md) — related
+- E-learning research in Indonesian VET concentrates on learning outcomes (77.8% of studies), with fewer studies on motivation and skills — related
 - [A meta-analysis of three differentiated-instruction studies reports a pooled effect of 0.729 on academic achievement whose 95% confidence interval (−3.66 to 5.12) spans zero](di-medium-positive-effect-academic-achievement.md) — related

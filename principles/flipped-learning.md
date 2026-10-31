@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 65 claims (30 for, 34 mixed, 1 against) · 50 studies (16 causal, 15 quant-synthesis, 10 review, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 18 of 50 report an effect size · 57 claims rest on one study
+> **Evidence** · 64 claims (31 for, 32 mixed, 1 against) · 50 studies (16 causal, 14 quant-synthesis, 11 review, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 18 of 50 report an effect size · 56 claims rest on one study
 
 ## Conditional relationship
 
@@ -192,13 +192,12 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - [Flipped learning has a medium positive effect on students' academic achievement in Turkish experimental studies after publication-bias correction (Hedges's g = 0.713)](../claims/flipped-learning-medium-effect-turkey-meta-analysis.md) [+W]
 - [Across 28 datasets, the pooled effect of flipped learning on success is positive and statistically significant, with 20 of 28 individual datasets significant](../claims/flipped-learning-pooled-effect-28-datasets.md) [+W]
 - [Publication bias tests indicate the pooled flipped classroom effect is unlikely to be inflated by publication bias](../claims/flipped-classroom-meta-analysis-publication-bias-robust.md) [~W]
-- [Heterogeneity across the included flipped learning studies is high (I² = 81.76)](../claims/flipped-learning-meta-analysis-high-heterogeneity.md) [~W]
 - [Smaller, underpowered studies report larger flipped classroom effect sizes, indicating small-study and publication bias](../claims/small-study-bias-inflates-flipped-classroom-effects.md) [~W]
 - [The social nature of learning activities shows no detectable moderating effect on flipped classroom learning gains](../claims/social-activity-no-moderating-effect-flipped.md) [~W]
-- [High heterogeneity was present among effect sizes for both academic achievement (I2≈85%) and learning retention (I2≈61%)](../claims/cbl-meta-analysis-high-heterogeneity.md) [~W]
 - [Flipped classrooms are associated with improved self-directed learning ability in medical education (pooled SMD = 2.54), but extreme heterogeneity precludes interpreting this as a uniform effect](../claims/flipped-classroom-self-directed-learning-ability.md) [~W]
 - [Effect sizes do not differ significantly between selected-student and whole-class applications, with class-based applications slightly higher (g = 1.253 vs 1.245)](../claims/no-significant-difference-by-application-type.md) [~W]
 - [Within the cognitive domain, flipped classrooms show the largest effects on understanding and achievement and a negative effect on evaluation](../claims/flipped-classroom-cognitive-suboutcome-effect-sizes.md) [~W]
+- [A blended flipped classroom produced statistically significantly higher post-test scores than traditional teaching in one included histology study (p < 0.0001)](../claims/blended-flipped-classroom-higher-posttest-scores.md) [+W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — how support in the pre-class work and the live session is withdrawn across a term

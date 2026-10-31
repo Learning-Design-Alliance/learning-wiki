@@ -64,3 +64,4 @@ Slice-specific regressions with Benjamini–Hochberg adjustment predicting learn
 - [Response-time propensities show moderate to strong within-student stability across practice session slices](rt-propensities-moderate-strong-stability.md) — related
 - [The association between RT propensity and learning rate is moderated by prior proficiency: slower propensities predict greater learning efficiency for higher-proficiency students but are weakly negative for lower-proficiency students](rt-propensity-proficiency-interaction-learning.md) — related
 - [Later time-point of cognitive testing is associated with faster reaction times, with significantly slower RT in the morning](testing-time-point-associated-rt.md) — related
+- [IVR knowledge benefits appear immediately post-intervention but attenuate at later follow-up](ivr-knowledge-gains-attenuate-at-follow-up.md) — related

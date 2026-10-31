@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: oktariani-o-2026
     resource: "https://doi.org/10.12688/f1000research.182947.1"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`–`q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q3 i?` The reviewed 2020–2024 literature shows accelerating adoption of digital assessment technologies in general chemistry, beginning with the COVID-19 pandemic and extending to virtual laboratory simulations by 2024. [→ Oktariani O 2026](#oktariani-o-2026)
@@ -68,5 +69,5 @@ The review reports, citing the included study by Yik et al. (2021) on a machine 
 - [Educational game adoption is hindered along socio-cultural, educational, and technological dimensions, including social rejection, limited accessibility to games and technology, and high development costs.](barriers-to-educational-games-three-dimensions.md) — related
 - [Compatibility and relative advantage strongly enhance perceived innovation attributes of AI technologies](compatibility-relative-advantage-enhance-innovation-attributes.md) — related
 - [Participation in paired online laboratory formative assessments is associated with higher summative attainment](formative-lab-participation-higher-summative-attainment.md) — related
-- [Assessment research in undergraduate general chemistry focuses predominantly on theoretical learning rather than laboratory assessment or integration of both](general-chemistry-assessment-research-theory-dominant.md) — related
-- [Formative assessment dominates the general chemistry assessment literature while summative assessment and combined formative–summative approaches remain underrepresented](general-chemistry-formative-dominates-summative-limited.md) — related
+- Assessment research in undergraduate general chemistry focuses predominantly on theoretical learning rather than laboratory assessment or integration of both — related
+- Formative assessment dominates the general chemistry assessment literature while summative assessment and combined formative–summative approaches remain underrepresented — related

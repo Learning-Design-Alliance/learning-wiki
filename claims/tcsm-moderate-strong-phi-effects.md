@@ -45,9 +45,9 @@ A meta-analytic review's own synthesis of nine single-case TCSM studies: the rev
 
 
 ## Related Claims
-- [Visual inspection showed strong experimental control in two studies, moderate-to-strong in three, and mixed in one of eight evaluable TCSM studies](tcsm-experimental-control-visual-inspection.md) — related
+- Visual inspection showed strong experimental control in two studies, moderate-to-strong in three, and mixed in one of eight evaluable TCSM studies — related
 - [Instituting TCSM produced larger Phi effects (Md = 0.74) than removing TCSM in reversal designs (Md = 0.32)](tcsm-instituting-larger-phi-than-removing.md) — a narrower finding that bears on this claim
 - [Most TCSM studies targeted students with disabilities aged 10–15 (17 of 22 male), mainly in special education classrooms, using the MotivAider in seven of nine studies](tcsm-descriptive-participant-setting-profile.md) — related
-- [TCSM intervention research is recent: no qualifying studies were published from 1973 through 2002, and five of nine appeared in 2012–2013](tcsm-recent-emerging-evidence-base.md) — related
+- TCSM intervention research is recent: no qualifying studies were published from 1973 through 2002, and five of nine appeared in 2012–2013 — related
 - [Maintenance and generalization evidence is sparse: five of nine studies had no maintenance data, and only one study reported generalization results](tcsm-sparse-maintenance-generalization.md) — related
-- [Most TCSM studies lacked numerical indices of procedural integrity: seven of nine omitted initial-training indices and five of nine omitted treatment-fidelity indices](tcsm-procedural-integrity-gaps.md) — related
+- Most TCSM studies lacked numerical indices of procedural integrity: seven of nine omitted initial-training indices and five of nine omitted treatment-fidelity indices — related

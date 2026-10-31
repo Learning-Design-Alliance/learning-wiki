@@ -45,9 +45,9 @@ Meta-analysis of 26 experimental dissertations (2018-2020) comparing STEM and no
 
 
 ## Related Claims
-- [Effect sizes of Arduino-based education are statistically larger in academic papers than in dissertations](arduino-effect-publication-status-difference.md) — related
-- [The dissertations in the STEM meta-analysis show very high heterogeneity (I2 = 92.765%)](stem-dissertations-high-heterogeneity.md) — related
+- Effect sizes of Arduino-based education are statistically larger in academic papers than in dissertations — related
+- The dissertations in the STEM meta-analysis show very high heterogeneity (I2 = 92.765%) — related
 - [Odds ratios exceed 1 in 22 of the 26 dissertations, indicating increased probability of the researched outcome in STEM groups](stem-dissertations-odds-ratios-above-one.md) — related
-- [Funnel plot asymmetry indicates publication bias among the STEM dissertations analyzed](stem-meta-analysis-publication-bias.md) — related
-- [Effect sizes vary widely across dissertations, with the largest effects in specific independent- and paired-group studies](stem-effect-size-variation-largest-studies.md) — related
-- [Effect size in the STEM dissertations is strongly influenced by sample size, with small samples showing low effects](stem-effect-size-influenced-by-sample-size.md) — related
+- Funnel plot asymmetry indicates publication bias among the STEM dissertations analyzed — related
+- Effect sizes vary widely across dissertations, with the largest effects in specific independent- and paired-group studies — related
+- Effect size in the STEM dissertations is strongly influenced by sample size, with small samples showing low effects — related

@@ -17,7 +17,7 @@ sources:
 # Assess m-Learning adoption from instructor and university-management perspectives in addition to learner perceptions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (4 for, 2 mixed) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 5 claims rest on one study
 
 ## Description
 The article recommends that universities evaluating m-Learning should not rely only on student views. It observes that "usually the success of m-Learning is considered only based on perceived benefits from learner perspectives (students)," while instructors and university management are "the first in line to accept or reject any new learning para digm" and motivate students into trying the platform. It calls for surveys classifying CSFs from students', instructors', and management's perspectives as background for a new conceptual framework.
@@ -40,7 +40,6 @@ The article recommends that universities evaluating m-Learning should not rely o
 
 ## Claims
 
-- [A meta-analysis of 19 m-Learning studies identifies 21 candidate critical success factors, of which six are shortlisted for statistical meta-analysis](../claims/meta-analysis-21-csfs-six-shortlisted-mlearning.md) [~W]
 - [All six shortlisted CSFs have aggregated means above 2.5 on a 5-point Likert scale, indicating appreciable perceived influence](../claims/all-six-csfs-aggregate-means-above-2-5.md) [~W]
 - [Content is the CSF with the highest aggregated mean and a strong positive correlation with learner perceptions (r = 0.80454)](../claims/content-csf-ranked-highest-positive-correlation.md) [+W]
 - [Ownership and learner community development are positively correlated with learner perceptions (r = 0.6064 and r = 0.64153)](../claims/ownership-community-development-positive-correlations.md) [+W]

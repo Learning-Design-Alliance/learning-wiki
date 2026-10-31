@@ -47,6 +47,6 @@ RVE meta-regression Model 1 (Table 6) controlling for assessment type; preschool
 ## Related Claims
 - [App effects on literacy (g = 0.35) and math (g = 0.29) are comparable](apps-comparable-literacy-math-effects.md) — related
 - [Educational apps produce effects about 0.17 SD higher on constrained than unconstrained skills](apps-larger-effects-constrained-skills.md) — related
-- [Studies using researcher-developed outcomes yield effects about 0.42 SD larger than studies using standardized outcomes](researcher-developed-outcomes-larger-app-effects.md) — related
+- Studies using researcher-developed outcomes yield effects about 0.42 SD larger than studies using standardized outcomes — related
 - [Educational apps produce a positive mean effect of about +0.31 standard deviations on preschool to Grade 3 children's literacy and math achievement](educational-apps-mean-effect-0-31-preschool-grade3.md) — related
 - [App quality ratings are not significantly associated with mean effect sizes controlling for assessment type](app-quality-not-associated-with-effects.md) — related

@@ -51,5 +51,5 @@ Moderator analysis across 13 studies with 1–50 students (d = 1.267), 13 with 5
 - [Effect sizes do not differ significantly by sample size, practice time, or constructivist method used.](moderators-sample-time-method-null.md) — related
 - [Sampling size is not an effective moderator of AR effects, with large samples (50+) at 0.647 and small samples (1-49) at 0.262](ar-effect-sample-size-not-effective.md) — related
 - [Group size significantly moderates the effect of context-based learning on academic achievement, with studies under 100 participants showing stronger effects than studies over 100](cbl-achievement-moderated-by-group-size.md) — related
-- [Effect of MIT-based instruction does not differ significantly by study sample size](mit-effect-homogeneous-sample-size.md) — related
+- Effect of MIT-based instruction does not differ significantly by study sample size — related
 - [Effect sizes do not differ significantly between selected-student and whole-class applications, with class-based applications slightly higher (g = 1.253 vs 1.245)](no-significant-difference-by-application-type.md) — related

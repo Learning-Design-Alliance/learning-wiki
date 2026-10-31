@@ -50,4 +50,4 @@ Simulation results on uncertainty estimation: "the Bayesian GLASSO shows good co
 - [In simulations, Bayesian GLASSO estimation outperforms frequentist GLASSO on bias in edge weights, centrality measures, correlation between estimated and true partial correlations, and specificity](bayesian-glasso-outperforms-frequentist-glasso-network-estimation.md) — related
 - [The frequentist graphical LASSO has difficulty estimating centrality indices and uncertainty in these measures in symptom networks](frequentist-glasso-difficulty-uncertainty-centrality.md) — related
 - [Regularization-based graphical modeling has key drawbacks, including difficulty obtaining valid parameter uncertainty and inflated false positive rates](regularization-drawbacks-uncertainty-false-positives.md) — a broader claim this one bears on
-- [The Bayesian meta-analytic approach provides an assessment of uncertainty that includes the probability that a relationship is positive](bayesian-meta-analysis-probability-positive-benefit.md) — related
+- The Bayesian meta-analytic approach provides an assessment of uncertainty that includes the probability that a relationship is positive — related

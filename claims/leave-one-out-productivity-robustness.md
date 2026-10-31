@@ -50,3 +50,4 @@ Leave-one-out sensitivity analysis re-estimating the productivity meta-analysis 
 - Meta-analytic estimates are robust to the assumed within-study effect size correlation in sensitivity analyses — related
 - [Pooled active-break effect estimates are robust to sensitivity analyses varying within-study correlation and excluding individual studies](active-breaks-pooled-estimates-robust-sensitivity.md) — related
 - The pooled association is robust to dependence, baseline-adjustment, risk-of-bias, and effect-size-derivation sensitivity analyses — related
+- Pooled effects are robust in sensitivity analyses, but 10 of 13 studies carry serious risk of bias and publication bias is indicated — related

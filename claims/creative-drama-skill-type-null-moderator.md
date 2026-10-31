@@ -48,7 +48,7 @@ Moderator analysis across the three skill categories (social f=22, basic languag
 - [The very large effect found here is consistent with prior meta-analyses of creative drama, which report medium-to-huge positive effects on achievement](creative-drama-effect-consistent-with-prior-meta-analyses.md) — related
 - [The creative drama method has a large positive effect on students' skill development](creative-drama-large-effect-skills.md) — related
 - [Effect size of creative drama on skills does not vary significantly by practitioner (researcher vs teacher)](creative-drama-practitioner-null-moderator.md) — related
-- [Effect size of creative drama on skills varies significantly by publication type, with theses showing larger effects than articles](creative-drama-publication-type-moderator.md) — related
+- Effect size of creative drama on skills varies significantly by publication type, with theses showing larger effects than articles — related
 - [Effect size of creative drama on skills varies significantly with duration of experimental application, with longer applications showing larger effects](creative-drama-duration-moderator.md) — related
 - [Effect of creative drama on skills varies significantly by level of schooling, highest at pre-school and lowest at high school](creative-drama-schooling-level-moderator.md) — related
 - [Creative drama's effect on achievement does not significantly differ by subject field (p > .05), though the English-lesson effect size (ES = 3.37) was descriptively highest](creative-drama-effect-no-subject-field-difference.md) — related

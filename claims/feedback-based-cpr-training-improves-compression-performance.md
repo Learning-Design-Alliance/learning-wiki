@@ -52,3 +52,8 @@ Synthesis across randomized trials in the review's instructional modality and fe
 - [Sessions with CPR Tutor feedback showed no significant difference in overall mistake frequency compared with control sessions without feedback](cpr-tutor-no-overall-mistake-frequency-reduction.md) — reports the opposite
 - [Rhythm or pacing aids during CPR training were associated with more consistent compression rates](pacing-aids-consistent-compression-rates.md) — related
 - [Peer-led and school-based CPR training achieves outcomes comparable to instructor-led models](peer-led-cpr-training-non-inferior.md) — related
+- [An augmented-reality CPR training application did not improve CPR quality compared with a standard audio-visual feedback manikin](ar-cpr-training-no-improvement-over-manikin.md) — related
+- [A team-focused, video-reviewed ED CPR bundle combining mechanical compression device training, in situ simulation, and multidisciplinary video review was followed by higher ROSC](ed-cpr-bundle-higher-rosc.md) — related
+- [Feedback from trained humans was in some settings as effective as mechanical feedback devices for CPR quality](human-feedback-equivalent-to-mechanical-devices.md) — a narrower finding that bears on this claim
+- [Real-time feedback systems generally improve CPR quality in simulation-based training, particularly compression rate and depth](real-time-feedback-improves-cpr-quality-simulation.md) — possibly the same claim (merge candidate)
+- [Some accelerometer-based and AED-integrated audiovisual feedback devices improved certain CPR parameters but reduced compression depth](some-feedback-devices-reduce-compression-depth.md) — a narrower finding that bears on this claim

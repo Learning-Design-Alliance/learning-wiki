@@ -46,15 +46,15 @@ Publication bias assessment in the Findings section using funnel plot inspection
 
 ## Related Claims
 - [Digital story applications have a high positive average effect on students' academic achievement compared to other teaching methods (ES = 0.750)](digital-story-high-positive-effect-academic-achievement.md) — related
-- [Publication-bias checks give mixed results: Egger's test indicates funnel-plot asymmetry while Trim and Fill and Fail-Safe N indicate no bias](mixed-publication-bias-evidence-meta-analysis.md) — related
-- [No publication bias was detected among the studies included in the meta-analysis](drama-social-studies-meta-analysis-no-publication-bias.md) — related
+- Publication-bias checks give mixed results: Egger's test indicates funnel-plot asymmetry while Trim and Fill and Fail-Safe N indicate no bias — related
+- No publication bias was detected among the studies included in the meta-analysis — related
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](srl-meta-analysis-publication-bias-absent.md) — related
-- [Publication-bias analyses indicate a low, negligible risk of publication bias in the synthesized effect sizes](low-publication-bias-formative-assessment-meta-analysis.md) — related
+- Publication-bias analyses indicate a low, negligible risk of publication bias in the synthesized effect sizes — related
 - [The meta-analytic effect of learning stations is resistant to publication bias](learning-stations-publication-bias-resistance.md) — related
-- [Publication bias in the meta-analysis is low, as indicated by a fail-safe N of 4860 and funnel plot inspection.](low-publication-bias-failsafe-4860.md) — related
-- [Publication-bias analysis indicates 51 unpublished studies would be needed to reverse the meta-analysis findings](mall-file-drawer-51-studies-needed-to-reverse.md) — related
+- Publication bias in the meta-analysis is low, as indicated by a fail-safe N of 4860 and funnel plot inspection. — related
+- Publication-bias analysis indicates 51 unpublished studies would be needed to reverse the meta-analysis findings — related
 - [The pooled effect of multiple intelligence practices is resistant to publication bias](mi-effect-resistant-publication-bias.md) — related
-- [The meta-analysis shows no publication bias problem by Rosenthal's fail-safe N criterion](no-publication-bias-fsn-blended-learning-meta-analysis.md) — related
-- [The meta-analysis is resistant to publication bias by Rosenthal's fail-safe N criterion](rme-meta-analysis-publication-bias-resistant.md) — related
-- [Publication-bias checks (funnel plot symmetry and Rosenthal Safe N of 6801) indicate no publication bias in the synthesis](stem-digital-meta-no-publication-bias.md) — related
-- [The meta-analysis results are resistant to publication bias, per fail-safe N of 1791](game-math-meta-resistant-to-publication-bias.md) — related
+- The meta-analysis shows no publication bias problem by Rosenthal's fail-safe N criterion — related
+- The meta-analysis is resistant to publication bias by Rosenthal's fail-safe N criterion — related
+- Publication-bias checks (funnel plot symmetry and Rosenthal Safe N of 6801) indicate no publication bias in the synthesis — related
+- The meta-analysis results are resistant to publication bias, per fail-safe N of 1791 — related

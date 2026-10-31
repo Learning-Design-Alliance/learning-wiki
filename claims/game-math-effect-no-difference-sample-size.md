@@ -46,7 +46,7 @@ Subgroup analysis of sample size (21–40 ES = 0.612; 41–60 ES = 0.861; 61+ ES
 
 ## Related Claims
 - [The effect of games on mathematics achievement does not differ significantly by learning domain](game-math-effect-no-difference-learning-domain.md) — related
-- [Effect of MIT-based instruction does not differ significantly by study sample size](mit-effect-homogeneous-sample-size.md) — related
+- Effect of MIT-based instruction does not differ significantly by study sample size — related
 - [Effect sizes do not differ significantly by sample size, practice time, or constructivist method used.](moderators-sample-time-method-null.md) — related
 - [Application period, publication type, database, grade level, scale used, school starting age, country and sample size do not significantly moderate the effect of student-centred methods on mathematics achievement](non-significant-moderators-meta-analysis-primary-math.md) — a broader claim this one bears on
 - [The effect of games on mathematics achievement differs significantly by educational level, with maximum effect at higher school and minimum at middle school](game-math-effect-varies-by-educational-level.md) — related

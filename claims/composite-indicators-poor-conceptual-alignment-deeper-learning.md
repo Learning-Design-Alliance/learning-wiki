@@ -61,4 +61,4 @@ The report's conceptual analysis of Oklahoma's A–F letter grades argues that c
 - [Many state assessments incorporated more sophisticated response formats to better assess college- and career-readiness](state-assessments-sophisticated-response-formats.md) — related
 - [Reading score distributions within A–F letter grades overlap heavily, so letter grades misrepresent the achievement of many individual students](letter-grades-hide-within-grade-score-variation.md) — a narrower finding that bears on this claim
 - [Raw postsecondary data are useful for descriptive purposes but may not give educators substantial new information beyond high school indicators](raw-postsecondary-data-limited-new-information.md) — related
-- [Methodological quality of LC assessment-tool studies is moderate (MERSQI median 12.5) and outcomes rarely extend beyond performance-level measures](mersqi-moderate-quality-lc-assessment-studies.md) — related
+- Methodological quality of LC assessment-tool studies is moderate (MERSQI median 12.5) and outcomes rarely extend beyond performance-level measures — related

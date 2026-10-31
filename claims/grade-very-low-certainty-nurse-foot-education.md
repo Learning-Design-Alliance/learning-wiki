@@ -49,6 +49,8 @@ The review's own GRADE assessment across nine studies (589 participants for know
 - [Educational programmes are associated with significant improvements in nurses' diabetic foot care practice, measured in seven of the nine included studies](educational-programmes-improve-nurse-foot-care-practice.md) — related
 - [The evidence base on inclusion effects is methodologically weak: no randomised studies and nearly all synthesised studies at serious risk of bias](inclusion-evidence-low-quality-serious-risk-of-bias.md) — related
 - [An interactive workshop produced higher post-test knowledge scores than an e-learning course of equivalent content among nurses](interactive-workshop-outperforms-elearning-nurse-knowledge.md) — related
-- [Most included studies carried a high risk of bias or some concerns, particularly for confounding and outcome measurement, limiting certainty](peer-tutoring-simulation-risk-of-bias.md) — related
-- [No included randomized comparison was at low risk of bias, and all 17 non-randomized comparisons were rated serious risk under ROBINS-I](pe-teaching-model-evidence-risk-of-bias-serious.md) — related
+- Most included studies carried a high risk of bias or some concerns, particularly for confounding and outcome measurement, limiting certainty — related
+- No included randomized comparison was at low risk of bias, and all 17 non-randomized comparisons were rated serious risk under ROBINS-I — related
 - [Nurses begin with low baseline knowledge of diabetic foot care, and educational qualifications may moderate post-training knowledge gains](low-baseline-nurse-knowledge-moderated-by-qualification.md) — a narrower finding that bears on this claim
+- Certainty of evidence for all outcomes was rated low due to serious risk of bias and heterogeneity — related
+- [Certainty of evidence for narrative medicine education effects is rated very low under GRADE](narrative-medicine-evidence-very-low-certainty.md) — related

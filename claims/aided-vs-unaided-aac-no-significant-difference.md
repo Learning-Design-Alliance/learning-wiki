@@ -66,6 +66,6 @@ LRR analysis of the same moderator: exclusively aided AAC had larger average est
 ## Related Claims
 - [AAC interventions yield moderately large average effects on communication outcomes for school-aged participants with ASD and/or ID, with substantial between-study heterogeneity](aac-interventions-moderately-large-effects-asd-id.md) — related
 - [Type of communication mode shows only a marginal, non-robust moderation of AAC effects, with aided AAC descriptively outperforming manual signs/gestures](communication-mode-type-weak-moderation.md) — related
-- [Under-reported participant characteristics and implementation factors, plus effect-size metric limitations, explain the scarcity of significant moderator differences](aac-moderator-nulls-attributed-underreporting.md) — related
+- Under-reported participant characteristics and implementation factors, plus effect-size metric limitations, explain the scarcity of significant moderator differences — related
 - [Communicative function taught (behavioral regulation, joint attention, social interaction, or multiple) does not statistically moderate AAC effects](communicative-function-no-moderation.md) — related
 - [The number of communication modes used during intervention does not statistically moderate AAC treatment effects](number-communication-modes-no-moderation.md) — related

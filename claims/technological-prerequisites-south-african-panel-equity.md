@@ -77,3 +77,4 @@ Qualitative Delphi data from the South African panel; the article reports this l
 - [Students' basic ICT skills pose little barrier in classroom settings but major hurdles for individual and mobile use, mitigated by peer support and initial device setup](basic-ict-skills-setting-dependent-barrier.md) — related
 - [Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households](covid-stem-tech-access-inequity.md) — related
 - [Teachers and stakeholders centred their views of ICT's role on first-order barriers of resources and students](ict-role-first-order-resources-students.md) — related
+- [Design features such as straightforward access, mobile-ready platforms, self-paced modular formats, and scenario-based content are reported facilitators of e-learning implementation](e-learning-design-features-facilitators-accessibility-self-paced-scenario.md) — related

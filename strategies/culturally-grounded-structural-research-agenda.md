@@ -17,7 +17,7 @@ sources:
 # Conduct longitudinal, culturally grounded, structurally informed research and develop Ubuntu-informed instruments in African and Global South higher education
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review's concluding recommendation is that "Longitudinal, culturally grounded, and structurally informed research is urgently needed in African and Global South higher education, alongside Ubuntu-informed instrument development." This entails treating structural determinants such as financial stress and food insecurity as primary explanatory factors rather than background covariates, and recognising validation studies as rigorous scholarly contributions.
@@ -42,7 +42,6 @@ The review's concluding recommendation is that "Longitudinal, culturally grounde
 ## Claims
 
 - [Western-developed instruments dominated measurement, with cultural adaptation reported in only five of 22 Global South studies of resilience](../claims/instrument-context-mismatch-global-south-resilience.md) [+W]
-- [The evidence base is geographically uneven: no study simultaneously examined all three constructs within a sub-Saharan African context](../claims/no-integrative-three-construct-studies-sub-saharan-africa.md) [+W]
 
 ## Related Strategies
 

@@ -74,3 +74,4 @@ The omnibus main effect of time across all four attitude variables was not signi
 - [The effect of extensive reading on reading attitude varied by attitude component, shown by a significant time × attitude interaction (ηp² = .168)](er-time-attitude-interaction-omnibus.md) — a broader claim this one bears on
 - [Anxiety in foreign language classroom learning experiences is linked with oral performance among Japanese EFL learners](flca-linked-with-oral-performance-japanese-efl.md) — related
 - [Extensive reading has a small, significant positive effect on second and foreign language skills (d = 0.41 across 86 experimental comparisons; d = 0.38 for the 82 immediate-posttest comparisons)](er-positive-effect-second-foreign-language.md) — related
+- [Across the synthesized corpus, 34 studies reported affective gains while 17 found statistically significant listening or fluency improvements and 21 reported no fluency outcomes](fluency-outcomes-uneven-reporting.md) — related

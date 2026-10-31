@@ -48,4 +48,4 @@ Descriptive exploratory meta-analysis of thesis and faculty research from 2006 t
 ## Related Claims
 - [JAS most frequently optimizes study results (52.83%) and student activity (40.57%)](jas-optimizes-study-result-and-activity.md) — related
 - [Studies report experiment classes using JAS achieve higher average study results than control classes](jas-experiment-class-higher-than-control.md) — related
-- [No publication bias is detected in the meta-analysis by rank correlation, regression, Fail-Safe N, and Trim and Fill checks](no-publication-bias-cooperative-learning-meta-analysis.md) — related
+- No publication bias is detected in the meta-analysis by rank correlation, regression, Fail-Safe N, and Trim and Fill checks — related

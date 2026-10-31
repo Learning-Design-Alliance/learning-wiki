@@ -56,3 +56,4 @@ The article reports, citing Darvishi et al., a study finding significant boosts 
 - [Substituting tasks with generative AI may promote inclusion and free time for more demanding activities, but risks foundational-skill loss and presupposes prior knowledge](ai-substitution-inclusion-and-time-tradeoffs.md) — related
 - [Generative AI tools risk inducing overestimated abilities and diminishing training of foundational skills](generative-ai-overconfidence-risk.md) — related
 - [Rewards combined with feedback temporarily boosted reading performance, especially for struggling readers, with variable long-term effects](rewards-with-feedback-temporary-boost-struggling-readers.md) — related
+- [AR training accelerates learning curves, with gains retained when AR is removed](ar-accelerates-learning-curve-retention.md) — reports the opposite

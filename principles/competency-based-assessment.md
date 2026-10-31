@@ -28,7 +28,7 @@ sources:
 # Competency-Based Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 40 claims (9 for, 29 mixed, 2 against) · 40 studies (9 theoretical, 8 causal, 8 design, 6 associational, 5 review, 2 quant-synthesis, 2 qualitative), `q1`–`q4` · 2 of 40 report an effect size · 35 claims rest on one study
+> **Evidence** · 41 claims (10 for, 29 mixed, 2 against) · 41 studies (9 theoretical, 8 causal, 8 design, 6 review, 6 associational, 2 quant-synthesis, 2 qualitative), `q1`–`q4` · 2 of 41 report an effect size · 36 claims rest on one study
 
 ## Conditional relationship
 
@@ -145,6 +145,7 @@ A score on a rubric, agreement between assessors, a threshold's defensibility, l
 - [The 4-category rating scale of the POET-O functions properly overall but its threshold structure could be improved](../claims/poet-o-rating-scale-functions-with-disordered-thresholds.md) [~W]
 - [Competencies related to social determinants of health, equity and social accountability have emerged as central axes of public health competency assessment](../claims/sdoh-equity-central-axes-assessment.md) [+W]
 - [Global entrustment scales and standardised rubrics dominate EPA assessment, but validation of assessment tools is reported in only a small minority of studies](../claims/epa-assessment-tools-validation-gap.md) [~W]
+- [Rubric application boosts student performance and skill acquisition across dental disciplines](../claims/rubrics-boost-student-performance-skill-acquisition.md) [+W]
 
 ## Related Principles
 - [Mastery Learning](mastery-learning.md) — the progression rule that learners advance on demonstrated mastery rather than schedule

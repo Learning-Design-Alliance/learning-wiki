@@ -52,3 +52,4 @@ Pre–post analysis of the Mindsets engagement dataset using a cumulative link m
 - [Repeated Reasoning (SMP 8) benchmark levels improved linearly across all three time points (d ≈ 0.77) with no significant quadratic trend](mindsets-smp8-linear-trend.md) — related
 - [Ability to Reason (SMP 2) benchmark levels improved linearly across all three time points (d ≈ 0.78) with no significant quadratic trend](mindsets-smp2-linear-trend.md) — related
 - [The intervention improves focus-related mindsets, self-efficacy, and (in Study 1) emotion regulation](focus-coach-mindset-self-efficacy-emotion-regulation-gains.md) — related
+- [A six-week lyric gap-fill program improved listening comprehension scores and self-reported engagement among Korean university students](lyric-gap-fill-comprehension-gains.md) — related

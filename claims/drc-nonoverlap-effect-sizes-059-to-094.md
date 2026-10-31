@@ -47,7 +47,7 @@ Effect size calculations across the 14 included single-case studies. The paper s
 ## Related Claims
 - [The Daily Report Card significantly improves behavior for students with ADHD, increasing desirable behavior by approximately 30 percentage points from baseline to intervention](drc-30-percentage-point-gain-adhd-single-case.md) — a narrower finding that bears on this claim
 - [Home-school communication was not significantly related to DRC outcomes for students with ADHD, contrary to a prior meta-analysis](drc-home-school-communication-null-moderation.md) — related
-- [Higher study quality is associated with greater behavioral gains from the DRC in students with ADHD](drc-study-quality-moderates-gains.md) — related
+- Higher study quality is associated with greater behavioral gains from the DRC in students with ADHD — related
 - [Neither age nor gender significantly moderated DRC treatment effects, though subgroup samples were small](drc-age-gender-no-moderation.md) — related
 - [Class type moderated DRC outcomes, with the single special-education study showing approximately 33 percentage points greater gains, though only one study was in this subgroup](drc-class-type-moderation-single-study-caution.md) — related
 - [In single-case DRC data, after reversal students showed faster change from baseline to intervention, and goal type (on-task versus disruptive) did not differentially affect outcomes](drc-hlm-order-and-goal-type-effects.md) — related

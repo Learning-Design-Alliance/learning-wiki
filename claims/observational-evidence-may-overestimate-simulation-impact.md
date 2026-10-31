@@ -46,6 +46,6 @@ Subgroup comparison within the review: most included studies were retrospective 
 
 ## Related Claims
 - [Frequent brief on-site Helping Babies Breathe simulation training was associated with a significant decrease in 24-hour neonatal mortality in a Tanzanian before–after study](hbb-simulation-training-reduced-24h-neonatal-mortality.md) — related
-- [All included simulation-based research studies were judged to have high or critical risk of bias, and only 16 of 2481 screened studies met Level 4 inclusion criteria](high-critical-risk-of-bias-all-level-4-simulation-studies.md) — related
+- All included simulation-based research studies were judged to have high or critical risk of bias, and only 16 of 2481 screened studies met Level 4 inclusion criteria — related
 - [Simulation-based education increases post-registration nurses' odds of satisfactory observed delirium-care practice at 6 weeks in a cluster RCT](sbe-delirium-odds-satisfactory-practice-rct.md) — related
 - [Simulation-based education studies in pediatric and neonatal critical care more consistently report system-level process improvements (Level 4a) than significant direct patient-level outcome improvements (Level 4b)](sbe-system-process-outcomes-outweigh-patient-outcomes-pediatric-critical-care.md) — related

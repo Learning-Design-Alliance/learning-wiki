@@ -81,3 +81,4 @@ The article reports, citing Garbayo et al. (2023), a replication in high-fidelit
 - [Secondary students tend to overestimate their text comprehension, though monitoring is relatively accurate in this sample](students-overestimate-text-comprehension-delayed-diagramming.md) — related
 - [Law students overestimated their writing performance when self-assessing against the formal rubric](law-students-overestimate-rubric-self-assessment.md) — a narrower finding that bears on this claim
 - [IR-based surgical training improved novice surgeons' self-confidence in oral surgery studies](ir-boosts-novice-surgeon-confidence.md) — related
+- [Students tend to overestimate their own performance when self-assessing with rubrics](students-overestimate-self-assessment-with-rubrics.md) — related

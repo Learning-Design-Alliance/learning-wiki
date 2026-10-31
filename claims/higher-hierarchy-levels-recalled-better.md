@@ -77,3 +77,4 @@ Experiment 3: eight paid volunteers from an introductory college physics course,
 - [Strong acquisition tasks explicating the organization produce better internalization than weak tasks asking only for a structured summary](strong-acquisition-tasks-improve-internalization.md) — related
 - [Adding a teachable agent to the standard science curriculum improved fourth-graders' learning gains on both curriculum tests and researcher-designed hierarchical reasoning tests](ta-improves-basic-and-added-value-gains-fourth-grade.md) — related
 - [Mental set acquired for one task persists and impairs performance in spelling recall and in geography problem-solving](set-persistence-spelling-geography.md) — related
+- [Concept maps suit deep hierarchical integration tasks while mind maps suit organization and rapid recall, with mean score gains of 5–15%](concept-versus-mind-maps-fit-learning-goal.md) — related

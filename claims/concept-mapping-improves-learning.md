@@ -169,3 +169,4 @@ In Experiment 1, 80 undergraduates studied a science text in one of four ways: s
 - [Generating information produces a memory advantage over passively reading it (the generation effect)](generation-effect-memory-advantage.md) — related
 - [Undergraduate students who created knowledge maps from underlined text wrote essays with significantly higher logical coherence and constructiveness than students who did not create maps](knowledge-mapping-improves-argumentative-essay-quality.md) — a narrower finding that bears on this claim
 - [Focal node analysis showed advanced learners' central concepts converged with experts' after the game, while novices' remained divergent](focal-nodes-convergence-advanced-learners.md) — related
+- [Concept maps suit deep hierarchical integration tasks while mind maps suit organization and rapid recall, with mean score gains of 5–15%](concept-versus-mind-maps-fit-learning-goal.md) — related

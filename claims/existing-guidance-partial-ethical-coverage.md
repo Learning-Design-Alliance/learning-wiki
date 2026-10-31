@@ -55,3 +55,4 @@ Conceptual synthesis comparing ethical-dimension coverage of FERPA, GDPR, DELICA
 - [Ethical concerns (bias, transparency, privacy, authorship, accountability) emerge as cross-cutting dimensions of GenAI-specific TPK across studies of teacher educators](genai-tpk-ethical-dimensions-cross-cutting.md) — related
 - [The most reported risks of AI tools in science and chemistry education are ethical issues, including gender and racial bias, hallucinations, copyright infringement, and plagiarism](ethical-issues-most-reported-ai-risk.md) — related
 - [No framework, guidelines, policies or regulations have been devised to address the specific ethical issues raised by the use of AI in education](no-aied-ethics-framework-or-policy.md) — reports the opposite
+- [Existing instruments cover justice and beneficence but show gaps regarding nonmaleficence and student autonomy](ethics-instruments-gaps-nonmaleficence-student-autonomy.md) — related

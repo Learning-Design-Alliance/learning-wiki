@@ -43,6 +43,7 @@ The article recommends concrete steps for future LLM-assisted grading: writing g
 
 - [Design guidelines for future LLM evaluation tools: configurable metric views, tighter metric-rubric integration, and comparison-foregrounding visualizations](design-guidelines-llm-evaluation-tools-education.md)
 - [Extend educational LLM benchmarks with broader item formats, human-in-the-loop item curation, and multi-turn evidence-based feedback measures](extend-educational-llm-benchmarks-human-in-loop-multiturn.md)
+- [Combine examiner training, scoring standardization, multiple examiners, and feedback mechanisms to improve oral examination quality](oral-exam-improvement-strategy-set.md)
 
 ## Examples
 -

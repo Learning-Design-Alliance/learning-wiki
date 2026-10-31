@@ -66,7 +66,7 @@ The article's own significance test for the retention effect: Z=3.255 at p=0.311
 ## Related Claims
 - [The 5E model shows a moderate pooled effect on attitude scores versus traditional methods, with the article reporting no statistical significance on its Z-test](5e-model-moderate-effect-attitude.md) — related
 - [The 5E instructional model shows a large, significant pooled effect on academic achievement versus traditional teaching methods in Turkish studies (2008-2014)](5e-model-large-effect-academic-achievement.md) — related
-- [Effect sizes for achievement, retention and attitude were heterogeneous across studies, prompting the shift from fixed to random effects modelling](5e-meta-analysis-heterogeneity-random-effects.md) — related
+- Effect sizes for achievement, retention and attitude were heterogeneous across studies, prompting the shift from fixed to random effects modelling — related
 - [The 5E learning model has a large positive effect on students' science process skills compared with traditional teaching](5e-model-large-effect-science-process-skills.md) — related
 - [The 5E and related models significantly improve mathematics achievement (g = 0.70), though sensitivity analyses suggest the estimate may be smaller in practice](5e-model-improves-math-achievement.md) — related
 - [Learning-styles-tailored instruction shows a large pooled effect on retention, with inconsistent printed values (d = 1.763 in Table 7; d = 1.290 in the abstract and discussion)](learning-styles-instruction-large-pooled-retention-effect.md) — related

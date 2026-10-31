@@ -46,7 +46,7 @@ Authors' interpretive synthesis in the discussion, attributing transferability c
 
 
 ## Related Claims
-- [The evidence base on clinical teaching models is limited by methodological weaknesses, descriptive orientation, and poor representation of low-resource settings](clinical-teaching-evidence-methodological-limits.md) — a broader claim this one bears on
+- The evidence base on clinical teaching models is limited by methodological weaknesses, descriptive orientation, and poor representation of low-resource settings — a broader claim this one bears on
 - [A JBI-guided scoping review identified eight structured clinical teaching models for healthcare trainees published between 2000 and 2025, from 26 included articles](eight-clinical-teaching-models-mapped.md) — related
 - [Structural barriers — fragmented health systems, insufficient reimbursement and workforce shortages — constrain integration of psychological care in diabetes services](structural-barriers-psychological-care-integration.md) — related
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related

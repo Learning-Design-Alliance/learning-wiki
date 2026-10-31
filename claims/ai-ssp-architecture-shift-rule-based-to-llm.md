@@ -47,7 +47,7 @@ Review synthesis across the 20 unique systems charted by publication year and un
 ## Related Claims
 - [CA prototype technologies shifted from rule-based and deterministic systems toward open-source tools, pre-trained LLMs, and retrieval-augmented generation pipelines](ca-technology-shift-toward-llm-rag.md) — a broader claim this one bears on
 - [AWE technology has evolved through four distinct generations from traditional NLP-based systems to AI-driven LLM-integrated tools (2000–2024)](awe-four-generations-evolution.md) — a broader claim this one bears on
-- [History-taking was the most frequently assessed competency in AI-SSP studies (52%), and assessed domains shifted over time toward interactional competencies](history-taking-most-assessed-ai-ssp-competency.md) — related
+- History-taking was the most frequently assessed competency in AI-SSP studies (52%), and assessed domains shifted over time toward interactional competencies — related
 - [AI-SSP clinical case development remained largely human-authored, with AI used mainly for interaction and scoring rather than case generation](ai-ssp-case-development-human-authored.md) — related
-- [Twenty-one studies describing 20 unique AI-SSP systems for clinical competency assessment were published between 2008 and 2026, with 71% published in 2024 or later](scoping-review-21-studies-20-ai-ssp-systems.md) — related
+- Twenty-one studies describing 20 unique AI-SSP systems for clinical competency assessment were published between 2008 and 2026, with 71% published in 2024 or later — related
 - [Clearest LLM-teaching signals appear in settings with clearly defined tasks, immediate feedback, and repeated practice, such as simulated patients and structured feedback](llm-teaching-benefits-task-defined-feedback-settings.md) — related

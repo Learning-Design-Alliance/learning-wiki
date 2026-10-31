@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: bodke-parag-2026
     resource: "https://doi.org/10.1186/s12909-026-09999-7"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` GPT-4 accuracy on multi-step integration vignettes (61–71%) and image-dependent questions (48–63%) is substantially lower than on single-fact recall and pattern recognition items (83–88%), and the model shows systematically overconfident, poorly calibrated uncertainty. [→ Bodke Parag 2026](#bodke-parag-2026)
@@ -47,3 +48,4 @@ Narrative synthesis of performance moderators across 19 examination studies in t
 ## Related Claims
 - [GPT-4 exceeds pass marks on India NEET-PG and UK PLAB 1 but falls below pass on clinical reasoning and procedural items](gpt4-neetpg-plab-pass-clinical-reasoning-below.md) — related
 - [GPT-4 achieves passing accuracy on USMLE Steps 1–3 (mean 86%), significantly exceeding GPT-3.5 (mean 56%)](gpt4-usme-passing-accuracy-exceeds-gpt35.md) — related
+- [LLMs, particularly GPT-4, can match or exceed medical students' examination performance](llms-match-or-exceed-medical-students-exam-performance.md) — related

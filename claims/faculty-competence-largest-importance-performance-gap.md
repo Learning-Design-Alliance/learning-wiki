@@ -54,3 +54,4 @@ FAHP fuzzy assessment of expert satisfaction across the five dimensions (Table 9
 - [Faculty report high self-perceived knowledge in traditional TPACK domains but substantially lower self-perceived knowledge in technology-integrated GenAI domains](faculty-high-traditional-low-technology-integrated-genai-knowledge.md) — related
 - [Experts rated the initial curriculum highest on AI/robotics integration and teamwork (both M=4.60) and lowest on communication (M=3.40) and assessment (M=3.60)](expert-ratings-initial-curriculum-integration-teamwork-highest.md) — related
 - [Students rate the virtual campus positively overall, with communication tools scoring lowest](virtual-campus-positive-communication-lowest.md) — related
+- [AHP weighting ranks Communication and Health Education Skills highest (0.235) among the seven competency dimensions](ahp-weights-communication-highest-tb-educator-competency.md) — related

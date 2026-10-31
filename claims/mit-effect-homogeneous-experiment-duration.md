@@ -49,6 +49,6 @@ Moderator analysis by experimental duration: 6-10 weeks had the largest estimate
 - [The effect of multiple intelligence practices on achievement increases as the implementation period becomes longer](mi-effect-increases-with-implementation-period.md) — reports the opposite
 - [Effect of learning stations does not differ significantly by application duration](learning-stations-duration-null-moderator.md) — related
 - [Effect of MIT-based instruction does not differ significantly across Turkey's geographical regions](mit-effect-homogeneous-geographical-region.md) — related
-- [Effect of MIT-based instruction does not differ significantly by study sample size](mit-effect-homogeneous-sample-size.md) — related
+- Effect of MIT-based instruction does not differ significantly by study sample size — related
 - [Publication type, course type, educational level, and experimental duration did not significantly moderate the effect of context-based learning on academic achievement](cbl-achievement-non-significant-moderators.md) — related
-- [The effect of multiple intelligence practices does not differ significantly by type of study (article, master's thesis, doctoral thesis)](mi-effect-no-difference-study-type.md) — related
+- The effect of multiple intelligence practices does not differ significantly by type of study (article, master's thesis, doctoral thesis) — related

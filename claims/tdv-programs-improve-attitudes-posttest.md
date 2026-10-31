@@ -46,6 +46,6 @@ Three-level random-effects meta-analysis of 10 studies contributing 23 attitude 
 
 ## Related Claims
 - [Follow-up effects mirror posttest conclusions, with knowledge effects growing and perpetration showing a small significant decrease](tdv-followup-effects-pattern.md) — related
-- [Random versus nonrandom assignment moderates posttest effects for only one of five outcomes](assignment-moderator-tdv-outcomes.md) — related
+- Random versus nonrandom assignment moderates posttest effects for only one of five outcomes — related
 - [Programs improve conflict tactic skills at posttest (g = 0.18)](tdv-programs-improve-conflict-tactics-posttest.md) — related
 - [School-based teen dating violence prevention programs increase dating violence knowledge at posttest (g = 0.22)](tdv-programs-increase-knowledge-posttest.md) — related

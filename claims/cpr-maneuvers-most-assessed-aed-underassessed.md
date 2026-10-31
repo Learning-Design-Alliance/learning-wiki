@@ -66,4 +66,4 @@ Same cross-study synthesis. The review reports "AED use was assessed less freque
 ## Related Claims
 - [Most questionnaires used to assess BLS knowledge in secondary school students are ad hoc, differing in item number, response format, and content, which limits comparability across studies](bls-school-assessment-ad-hoc-majority-heterogeneity.md) — related
 - [Instrument type relates to assessed domains: ad hoc questionnaires were virtually limited to practical CPR techniques, while psychometrically validated tools covered scene safety, arrest recognition, emergency activation, and functional AED use](validated-instruments-broader-domain-coverage.md) — related
-- [Only 16 of 36 studies assessed BLS knowledge retention over time, with follow-ups generally between 1 and 6 months and only two exceeding 1 year](bls-knowledge-retention-rarely-assessed.md) — related
+- Only 16 of 36 studies assessed BLS knowledge retention over time, with follow-ups generally between 1 and 6 months and only two exceeding 1 year — related

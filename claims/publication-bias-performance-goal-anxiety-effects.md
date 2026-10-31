@@ -53,4 +53,4 @@ Publication-bias assessment via Egger's intercept test and trim-and-fill: for an
 - [Publication bias is unlikely to explain the consistency of SRL intervention effect sizes](srl-meta-analysis-no-publication-bias.md) — related
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](srl-meta-analysis-publication-bias-absent.md) — related
 - Publication-bias tests found no evidence of substantial publication bias in the meta-analytic sample — related
-- [Publication bias does not threaten the pooled effect estimates](integrated-instruction-publication-bias-robust.md) — related
+- Publication bias does not threaten the pooled effect estimates — related

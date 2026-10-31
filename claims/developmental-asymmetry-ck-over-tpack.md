@@ -55,3 +55,4 @@ Theoretical interpretation built on the study's AHP weight results from 18 exper
 - [Student AI competency achievement and curriculum-AI frontier alignment dominate the indicator-level priority ranking](ai-competency-achievement-top-indicator.md) — related
 - [Faculty report high self-perceived knowledge in traditional TPACK domains but substantially lower self-perceived knowledge in technology-integrated GenAI domains](faculty-high-traditional-low-technology-integrated-genai-knowledge.md) — related
 - [Monte Carlo simulation confirms weight and score stability of the expert-derived priorities under judgment perturbation](mc-simulation-robustness-ahp-fahp-weights.md) — related
+- [AHP weighting ranks Communication and Health Education Skills highest (0.235) among the seven competency dimensions](ahp-weights-communication-highest-tb-educator-competency.md) — related

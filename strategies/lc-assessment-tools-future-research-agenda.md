@@ -17,7 +17,7 @@ sources:
 # Staged future-research agenda for transitioning LC assessment tools from developmental validation to safe clinical integration
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The review's future research agenda lists five directions: prospective multicentre validation across heterogeneous pathology and surgeon experience levels; transparent, standardised annotation protocols to strengthen ground-truth reliability; evaluating "behavioural changes, learning curves, and patient outcomes, rather than relying solely on technical classification metrics"; shared benchmark datasets for reproducible external validation; and aligning tool design with intended use, distinguishing formative feedback, monitoring, and credentialing functions. For real-time AI deployment, the authors recommend alignment with the IDEAL and DECIDE-AI staged evaluation frameworks, preserving explicit human oversight.
@@ -43,7 +43,6 @@ The review's future research agenda lists five directions: prospective multicent
 - [AI-based assessment systems show strong internal performance and early real-time deployment for critical view of safety detection, but lack external validation and clinical impact evidence](../claims/ai-lc-assessment-strong-internal-weak-external.md) [+W]
 - [Kinematic assessment systems for laparoscopic cholecystectomy are weakly validated, restricted to small datasets, and capture only a narrow component of operative competence](../claims/kinematic-lc-tools-limited-validation-narrow-construct.md) [+W]
 - [Manual assessment tools have the largest body of validity evidence in laparoscopic cholecystectomy but show variable reliability and no links to patient outcomes](../claims/manual-tools-largest-evidence-base-no-outcomes.md) [+W]
-- [Methodological quality of LC assessment-tool studies is moderate (MERSQI median 12.5) and outcomes rarely extend beyond performance-level measures](../claims/mersqi-moderate-quality-lc-assessment-studies.md) [+W]
 - [No objective assessment tool for laparoscopic cholecystectomy demonstrates comprehensive validity across all Messick domains, so no gold standard exists](../claims/no-gold-standard-lc-skill-assessment-tools.md) [+W]
 
 ## Related Strategies

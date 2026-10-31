@@ -49,3 +49,4 @@ Descriptive coding of component types across the 29 studies using the new taxono
 - [Fidelity of implementation of early language curricula varies widely across teachers and studies](wide-variability-foi-early-language-curricula.md) — related
 - [Of 132 early literacy interventions evaluated by high-quality impact studies, 38 demonstrated effectiveness in at least one language or literacy outcome domain and 93 showed inconclusive effects](38-of-132-early-literacy-interventions-effective.md) — related
 - [Components related to using student assessment data to drive instructional decisions, including grouping students, are positively associated with early literacy intervention effects on alphabetics outcomes](assessment-data-driven-components-positively-associated-alphabetics.md) — related
+- Implementation reporting in peer support RCTs is substantially incomplete, with 29% to 67% missing data per implementation component — related

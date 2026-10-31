@@ -56,4 +56,4 @@ Second-year (Fall 1975-Spring 1976) rating procedure in which the interviewer's 
 - [In Study 2, inter-rater agreement for rating creative problem solving ideas was good to excellent across indicators](cps-idea-ratings-good-excellent-interrater-agreement.md) — related
 - A structured negotiated-coding process reached nearly 98% interrater agreement before machine learning — related
 - The review's corpus comprises 39 peer-reviewed articles selected via a PRISMA protocol with substantial screening agreement — related
-- [Coding of included studies reached 100% inter-coder reliability using the agreement formula](coding-reliability-100-percent-meta-analysis.md) — related
+- Coding of included studies reached 100% inter-coder reliability using the agreement formula — related

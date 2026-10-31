@@ -46,7 +46,7 @@ Meta-analysis of 54 effect sizes from 38 experimental studies with control class
 
 ## Related Claims
 - [Innovative learning models produce a large pooled effect on mathematical and statistical critical thinking compared with conventional instruction](innovative-models-large-effect-critical-thinking-math-stat.md) — related
-- [RME effects are larger in studies with small samples (30 or fewer) than large samples (31 or more)](rme-effect-moderated-by-sample-size.md) — a narrower finding that bears on this claim
+- RME effects are larger in studies with small samples (30 or fewer) than large samples (31 or more) — a narrower finding that bears on this claim
 - [RME effects at university level are significantly smaller than at primary and secondary levels](rme-effect-smaller-at-university-level.md) — related
 - [RME learning has a large positive overall effect on Indonesian students' mathematical literacy (g = 1.031)](rme-large-positive-effect-mathematical-literacy-indonesia.md) — related
 - [RME is more effective in Indonesia, Malaysia, Turkey, and Thailand than in Greece and the United States](rme-effect-varies-by-country.md) — related

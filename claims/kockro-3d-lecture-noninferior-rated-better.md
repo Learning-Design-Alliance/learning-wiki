@@ -55,3 +55,4 @@ Randomised study of 169 second-year medical students comparing 3D VR and 2D lect
 - [AR and 2D methods boosted knowledge similarly, but the 3D AR method drew greater satisfaction and student preference (Lopez et al.)](lopez-ar-similar-knowledge-higher-satisfaction.md) — related
 - [3D visualisation training outperformed traditional teaching on exam outcomes and clinical practice assessment (Shao et al.)](shao-3d-imaging-outperformed-traditional.md) — related
 - [VR module matched a textbook on anatomy knowledge at pre-, post- and retention testing while being rated more engaging and motivating (Stepan et al.)](stepan-vr-equal-knowledge-higher-motivation.md) — related
+- [Immersive and non-immersive VR video formats showed no significant difference in learning success for clinical procedures, though immersive VR was rated more positively](immersive-vs-non-immersive-vr-no-learning-difference.md) — related

@@ -74,3 +74,4 @@ The review reports a study comparing outdoor forest schooling one day a week wit
 - [Outdoor learning in nature reduces student stress (cortisol decline), but stress-restoration findings are mixed by measure and age](outdoor-learning-reduces-student-stress-cortisol.md) — related
 - [Effects of nature exposure on divergent thinking are mixed: five of eight reviewed studies showed significant effects while others found null or partial effects](divergent-thinking-nature-effects-mixed.md) — related
 - [In secondary school students, breaks with green views or walks in larger green spaces improve attention performance](green-exposure-secondary-school-attention.md) — related
+- Only a limited subset of student lifestyle-cognition studies include direct biological or psychophysiological measures — related

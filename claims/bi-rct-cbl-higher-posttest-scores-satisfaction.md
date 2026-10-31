@@ -46,11 +46,12 @@ Randomised controlled trial (Bi et al., 2019) in which 80 first-year postgraduat
 
 
 ## Related Claims
-- [Only three studies met eligibility criteria for case-based learning in postgraduate medical oncology, totalling 111 participants, indicating a paucity of data in this field](systematic-review-cbl-postgraduate-oncology-three-studies-paucity.md) — related
+- Only three studies met eligibility criteria for case-based learning in postgraduate medical oncology, totalling 111 participants, indicating a paucity of data in this field — related
 - [Findings from other postgraduate specialties suggest PBL and CBL improve performance, knowledge and confidence, but overall RCT quality in this field is deemed unsatisfactory](other-postgraduate-specialty-reviews-pbl-cbl-quality-unsatisfactory.md) — related
 - [A simulated oncology MDT case-based learning session significantly improved trainee confidence, with a mean increase of 2 points on a 10-point scale (p < 0.01)](simulated-mdt-cbl-improves-trainee-confidence.md) — related
-- [All eligible postgraduate CBL studies had serious methodological flaws identified by CASP appraisal, limiting the validity and reliability of their conclusions](eligible-cbl-studies-serious-methodological-flaws.md) — related
+- All eligible postgraduate CBL studies had serious methodological flaws identified by CASP appraisal, limiting the validity and reliability of their conclusions — related
 - [Case-based learning is viewed positively by practicing doctors, with all eligible postgraduate studies reporting favourable perceptions](cbl-viewed-positively-practicing-doctors.md) — related
 - [Context-based learning has a statistically significant positive overall effect on academic achievement (g=0.970) compared to traditional lecture-based instruction](cbl-positive-overall-effect-academic-achievement.md) — related
 - [Context-based learning has a statistically significant positive overall effect on learning retention (g=0.791) compared to traditional lecture-based instruction](cbl-positive-overall-effect-learning-retention.md) — related
 - [A formal oncology CBL programme delivered via videoconferencing may enhance learning opportunities for rural and remote trainees in Australia](videoconferenced-cbl-for-rural-trainees.md) — related
+- [Student preference for CBL, PBL or TBL over traditional teaching was reported in 15 of 22 studies (68.1%), but only two studies used a controlled comparison with lecture](preference-over-lecture-15-studies-only-two-controlled.md) — related

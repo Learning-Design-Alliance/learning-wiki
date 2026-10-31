@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: asraf-suadah-ismail-2026
     resource: "https://doi.org/10.1111/idh.70076"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` A significant gap was identified in the preparedness of students to provide care for older adults, with programs lacking focus on adapting clinical skills to elderly patients in alternative settings. [→ Asraf Suadah Ismail 2026](#asraf-suadah-ismail-2026)

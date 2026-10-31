@@ -47,5 +47,5 @@ Single-center prospective before–after study in Tanzania with 9708 newborns ac
 ## Related Claims
 - [The review suggests current observational evidence may overestimate simulation's impact, since more rigorous cluster-RCTs showed only time-limited mortality reductions or nonsignificant results](observational-evidence-may-overestimate-simulation-impact.md) — related
 - [Simulation-based education studies in pediatric and neonatal critical care more consistently report system-level process improvements (Level 4a) than significant direct patient-level outcome improvements (Level 4b)](sbe-system-process-outcomes-outweigh-patient-outcomes-pediatric-critical-care.md) — a broader claim this one bears on
-- [All included simulation-based research studies were judged to have high or critical risk of bias, and only 16 of 2481 screened studies met Level 4 inclusion criteria](high-critical-risk-of-bias-all-level-4-simulation-studies.md) — a broader claim this one bears on
-- [Single-center simulation studies were more likely to demonstrate significant patient-outcome improvements than multicenter studies](single-center-studies-more-likely-significant-patient-outcomes.md) — related
+- All included simulation-based research studies were judged to have high or critical risk of bias, and only 16 of 2481 screened studies met Level 4 inclusion criteria — a broader claim this one bears on
+- Single-center simulation studies were more likely to demonstrate significant patient-outcome improvements than multicenter studies — related

@@ -47,7 +47,7 @@ Meta-analysis of 38 effect sizes from 31 experimental or quasi-experimental pre-
 ## Related Claims
 - [The creative drama method has a large positive effect on students' skill development](creative-drama-large-effect-skills.md) — related
 - [Creative drama method has a very large positive effect on Social Studies course achievement in favor of experimental groups (random-effects d = 1.171)](creative-drama-large-positive-effect-social-studies-achievement.md) — possibly the same claim (merge candidate)
-- [No publication bias was detected among the studies included in the meta-analysis](drama-social-studies-meta-analysis-no-publication-bias.md) — related
+- No publication bias was detected among the studies included in the meta-analysis — related
 - [Creative drama-based learning has a large positive effect on academic success in Turkish language instruction (REM ES = 1.712)](creative-drama-large-effect-turkish.md) — related
 - [Creative drama has a large significant positive effect on academic achievement (overall weighted ES = 1.68 under a random effects model across 40 studies)](creative-drama-positive-effect-academic-achievement.md) — related
 - [Several learning theories and teaching strategies have very large positive effects on academic achievement (e.g., creative drama ES = 1.453), while the surface approach to learning has a small negative effect (ES = -.366)](teaching-strategies-effects-academic-achievement-meta-review.md) — a broader claim this one bears on

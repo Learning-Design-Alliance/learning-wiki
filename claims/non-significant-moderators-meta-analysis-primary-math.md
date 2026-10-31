@@ -68,7 +68,7 @@ Meta-regression for the continuous sample-size moderator (studies ranged between
 - [The application approach (which student-centred method or technique is used) significantly moderates the effect size, with Activities Based on Multiple Intelligences and Educational Games showing the largest effects](application-approach-significant-moderator-abmi-educational-games.md) — related
 - [Publication type and study origin do not significantly moderate the digital story effect on academic achievement](digital-story-effect-not-moderated-by-publication-type-or-origin.md) — related
 - [Effect of learning stations does not differ significantly by application duration](learning-stations-duration-null-moderator.md) — related
-- [The effect size does not vary significantly with sample size or publication year in meta-regression](meta-regression-sample-size-year-null.md) — related
+- The effect size does not vary significantly with sample size or publication year in meta-regression — related
 - [The effect of multiple intelligence practices on achievement increases as the implementation period becomes longer](mi-effect-increases-with-implementation-period.md) — reports the opposite
 - [Effect sizes do not differ significantly by sample size, practice time, or constructivist method used.](moderators-sample-time-method-null.md) — related
 - [Student-centred strategies, methods and techniques produce a moderate-to-high overall effect on primary school students' mathematics achievement compared to traditional teaching (ES = 0.787, random-effects model)](student-centred-methods-math-achievement-meta-analysis-0787.md) — related

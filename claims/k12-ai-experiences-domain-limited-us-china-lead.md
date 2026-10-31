@@ -52,3 +52,4 @@ Qualitative synthesis answering the review's research question across 179 docume
 - [China has overtaken the US as the leading producer of AIEd higher education publications](china-overtakes-us-ai-ed-he-publications.md)
 - [Hardly any K-12 AI learning experiences assessed whether students understood AI concepts after the learning experience](k12-ai-literacy-lacking-outcome-assessment.md)
 - [Reviewed GenAI literacy literature concentrates on knowledge and skills while equity and agency receive thin treatment](genai-literature-equity-agency-thin.md) — related
+- Included AI-framework literature is concentrated in 2025 publications and in US and China outputs, indicating regional disparity — related

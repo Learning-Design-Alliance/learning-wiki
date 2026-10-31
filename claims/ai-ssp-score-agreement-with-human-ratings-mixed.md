@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: mixed
 newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: zhang-wenjia-stella-2026
     resource: "https://doi.org/10.2196/92826"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Among studies comparing AI-generated scores with human ratings, findings were mixed: some reported moderate to strong agreement while others showed score inflation and inconsistent performance. [→ Zhang Wenjia (Stella) 2026](#zhang-wenjia-stella-2026)
@@ -52,5 +53,5 @@ Review-level synthesis of the studies' score accuracy and reliability evaluation
 - [Most faculty–GPT-4 scoring discrepancies were only one-point differences, shrinking across iterations](oeq-scoring-discrepancies-mostly-one-point.md) — related
 - [An LLM-based AI Evaluator agrees with expert human raters on collaboration transcripts at a level similar to inter-expert agreement](llm-evaluator-agreement-matches-expert-raters.md) — related
 - [LLM-generated 7C collaboration assessment scores fall within the range of human expert variability across ten discussions](llm-7c-scores-within-expert-variability.md) — related
-- [History-taking was the most frequently assessed competency in AI-SSP studies (52%), and assessed domains shifted over time toward interactional competencies](history-taking-most-assessed-ai-ssp-competency.md) — related
-- [Twenty-one studies describing 20 unique AI-SSP systems for clinical competency assessment were published between 2008 and 2026, with 71% published in 2024 or later](scoping-review-21-studies-20-ai-ssp-systems.md) — a broader claim this one bears on
+- History-taking was the most frequently assessed competency in AI-SSP studies (52%), and assessed domains shifted over time toward interactional competencies — related
+- Twenty-one studies describing 20 unique AI-SSP systems for clinical competency assessment were published between 2008 and 2026, with 71% published in 2024 or later — a broader claim this one bears on

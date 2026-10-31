@@ -17,7 +17,7 @@ sources:
 # Weekly trainee-led CBL sessions with case presentation, self-directed research between sessions, and attendance and utility tracking
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 8 claims (7 for, 1 against) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 8 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
 
 ## Description
 The authors' planned feasibility programme for CBL within their own institution: attending trainees take turns presenting an interesting case, the group identifies knowledge gaps and generates questions, each trainee researches these during the following week, and findings are presented at the next session. The design embeds accountability through measurement: "Trainees will prospectively document time spent on CBL activities each week and an attendance record will be kept for sessions" plus a post-session perceived-utility questionnaire from all trainees.
@@ -42,11 +42,9 @@ The authors' planned feasibility programme for CBL within their own institution:
 - [In a randomised trial of 80 first-year postgraduate oncology trainees, CBL produced significantly higher examination scores and satisfaction than traditional lecture-based learning, though confidence intervals crossed the null for examination results](../claims/bi-rct-cbl-higher-posttest-scores-satisfaction.md) [+W]
 - [Case-based discussions show evidence of reasoning and learning occurring and are perceived as useful for teaching and learning by oncology registrars and consultants](../claims/cbd-evidence-of-reasoning-and-learning-perceived-useful.md) [+W]
 - [Case-based learning is viewed positively by practicing doctors, with all eligible postgraduate studies reporting favourable perceptions](../claims/cbl-viewed-positively-practicing-doctors.md) [+W]
-- [All eligible postgraduate CBL studies had serious methodological flaws identified by CASP appraisal, limiting the validity and reliability of their conclusions](../claims/eligible-cbl-studies-serious-methodological-flaws.md) [-W]
 - [Findings from other postgraduate specialties suggest PBL and CBL improve performance, knowledge and confidence, but overall RCT quality in this field is deemed unsatisfactory](../claims/other-postgraduate-specialty-reviews-pbl-cbl-quality-unsatisfactory.md) [+W]
 - [A simulated oncology MDT case-based learning session significantly improved trainee confidence, with a mean increase of 2 points on a 10-point scale (p < 0.01)](../claims/simulated-mdt-cbl-improves-trainee-confidence.md) [+W]
 - [A formal oncology CBL programme delivered via videoconferencing may enhance learning opportunities for rural and remote trainees in Australia](../claims/videoconferenced-cbl-for-rural-trainees.md) [+W]
-- [Only three studies met eligibility criteria for case-based learning in postgraduate medical oncology, totalling 111 participants, indicating a paucity of data in this field](../claims/systematic-review-cbl-postgraduate-oncology-three-studies-paucity.md) [+W]
 
 ## Related Strategies
 - 

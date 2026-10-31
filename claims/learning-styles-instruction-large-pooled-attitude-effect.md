@@ -50,5 +50,5 @@ Meta-analysis of 11 studies investigating attitude; heterogeneity was high (Q = 
 - [The effect of learning-styles-tailored instruction on academic achievement does not differ significantly by course type](achievement-effect-independent-of-course-type.md) — related
 - [Diagnostic analyses show the pooled effect sizes for achievement, attitude and retention are robust and not attributable to publication bias](learning-styles-meta-analysis-no-publication-bias.md) — related
 - [The effect of learning-styles-tailored instruction on academic achievement does not differ significantly by learning style model](achievement-effect-independent-of-learning-style-model.md) — related
-- [The effect of learning-styles-tailored instruction on academic achievement does not differ significantly between quasi-experimental and true-experimental designs](achievement-effect-independent-of-experimental-design.md) — related
+- The effect of learning-styles-tailored instruction on academic achievement does not differ significantly between quasi-experimental and true-experimental designs — related
 - [STEM educational practices have a moderate positive effect on students' attitude toward the course (REM ES = 0.620)](stem-practices-moderate-attitude-effect.md) — related

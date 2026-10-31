@@ -46,6 +46,6 @@ Random-effects synthesis of the treatment categories in Table 3 (inquiry-based l
 
 ## Related Claims
 - [All innovative teaching-method categories showed statistically significant positive effects on chemistry performance, with weighted mean effect sizes ranging from 0.50 to 1.80](all-innovative-categories-significant-positive.md) — a broader claim this one bears on
-- [Inquiry-based learning and manipulatives/models/multiple representations were the most studied chemistry teaching methods, while project-based, combination, and multicultural approaches were least studied](chemistry-method-research-frequency-distribution.md) — related
-- [Small sample sizes and publication bias against non-significant findings may inflate meta-analytic effect size estimates in the chemistry teaching-method categories](small-samples-publication-bias-inflate-chemistry-es.md) — related
+- Inquiry-based learning and manipulatives/models/multiple representations were the most studied chemistry teaching methods, while project-based, combination, and multicultural approaches were least studied — related
+- Small sample sizes and publication bias against non-significant findings may inflate meta-analytic effect size estimates in the chemistry teaching-method categories — related
 - [Inquiry-driven teaching yields the largest creativity effect among teaching methods, followed by design-based and project-based teaching](robotics-creativity-teaching-method-moderator.md) — related

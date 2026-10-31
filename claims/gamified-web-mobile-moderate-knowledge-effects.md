@@ -52,3 +52,4 @@ Subgroup analysis of six RCTs (n=295) of gamified web/mobile platforms in the kn
 - [Gamified simulation-based learning shows a large knowledge effect but with substantial heterogeneity](gamified-simulation-large-variable-knowledge-effect.md) — related
 - [Standalone serious games show large, relatively consistent effects on knowledge acquisition compared with other gamification categories](serious-games-consistent-knowledge-effects.md) — related
 - [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](gamification-has-small-positive-effects-on-learning-outcomes.md) — a broader claim this one bears on
+- [Gamified mobile microlearning improved written exam scores but not global clinical performance assessments in psychiatry clerkship students](gamified-microlearning-exam-only.md) — a narrower finding that bears on this claim

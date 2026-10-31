@@ -55,3 +55,4 @@ Subgroup analysis of two RCTs (n=99) of gamified flipped classroom/animation app
 - [Gamified clinical skill learning produces the largest effects on skill performance, with very high between-study heterogeneity](gamified-learning-skill-performance-largest-effect.md) — related
 - [School-based EdTech interventions show a moderate positive pooled effect on student attainment (d = 0.4), with high heterogeneity across studies](edtech-pooled-effect-attainment-d-0-4.md) — related
 - [Flipped classrooms are associated with improved self-directed learning ability in medical education (pooled SMD = 2.54), but extreme heterogeneity precludes interpreting this as a uniform effect](flipped-classroom-self-directed-learning-ability.md) — related
+- Substantial heterogeneity in intervention design, outcome measures, and feedback structures limited comparability across reviews, and no pooled meta-analysis was feasible — related

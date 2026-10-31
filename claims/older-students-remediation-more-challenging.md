@@ -46,5 +46,5 @@ Cross-review comparison in the Discussion section. The authors state "This PET e
 
 ## Related Claims
 - [After adjusting for small-study effects and excluding small-sample studies, the underlying pooled effect of mathematics interventions for grades 4–12 is a moderate 0.49](adjusted-pet-effect-049-math-interventions.md) — related
-- [Publication bias is present in the mathematics intervention literature for grades 4–12, with adjusted estimates lower than the unadjusted random-effects estimate](publication-bias-math-intervention-meta-analysis.md) — related
+- Publication bias is present in the mathematics intervention literature for grades 4–12, with adjusted estimates lower than the unadjusted random-effects estimate — related
 - [Interventions providing more than 15 total hours significantly moderate mathematics outcomes for students with MD in grades 4–12](more-than-15-hours-moderates-math-outcomes.md) — related

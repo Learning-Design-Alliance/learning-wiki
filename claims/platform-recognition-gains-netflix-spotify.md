@@ -54,3 +54,4 @@ Pre–post percentage-point changes in platform identification from the post-int
 - [Both male and female students rated their AI knowledge and confidence significantly higher after a one-day AI literacy workshop, which had no comparison group](both-genders-gain-ai-knowledge-confidence-workshop.md) — related
 - [Female students show broader post-workshop gains than males, including significant increases in AI and computer science career interest, while male career interest remains unchanged](females-broader-gains-career-interest-narrow-gap.md) — related
 - [Deepfake behaviours show gender patterns: males more likely to have shared deepfakes, females more likely to have reported them](gender-patterns-deepfake-behaviours.md) — related
+- [Digital music platforms were consistently linked to positive learner perceptions and motivation, with effectiveness contingent on teacher mediation](digital-platforms-music-motivation.md) — related

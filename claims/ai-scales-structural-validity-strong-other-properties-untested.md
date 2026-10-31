@@ -55,3 +55,4 @@ COSMIN and GRADE-based quality assessment (Table 2) of the 16 scales; the review
 - [CTAT shows robust psychometric properties for higher education CS/AI students, with reliable internal consistency and adequate IRT item parameters](ctat-robust-psychometric-properties.md) — related
 - [The MAKQ dimensions show acceptable internal consistency across both studies (alphas 0.77-0.93)](makq-reliability-alphas.md) — related
 - [A 2024 systematic review identified 22 studies validating 16 AI literacy scales, most of them self-report rather than performance-based](review-22-studies-16-ai-literacy-scales.md) — related
+- [All 6 instruments received only moderate-quality GRADE evidence due to single-study evidence, limited cross-context validation, and absent temporal stability data](moderate-grade-evidence-ethics-teaching-instruments.md) — related

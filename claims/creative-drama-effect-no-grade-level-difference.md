@@ -51,3 +51,4 @@ Meta-analytic moderator analysis of grade level: the article reports that no sig
 - [Effect of creative drama on skills varies significantly by level of schooling, highest at pre-school and lowest at high school](creative-drama-schooling-level-moderator.md) — related
 - [Effect size of creative drama on skills varies significantly with duration of experimental application, with longer applications showing larger effects](creative-drama-duration-moderator.md) — related
 - [Creative drama's effect on achievement does not significantly differ by subject field (p > .05), though the English-lesson effect size (ES = 3.37) was descriptively highest](creative-drama-effect-no-subject-field-difference.md) — related
+- [The relationship between student characteristics and academic achievement is strongest at kindergarten level and declines through elementary and secondary school](school-level-moderates-characteristics-achievement-link.md) — related

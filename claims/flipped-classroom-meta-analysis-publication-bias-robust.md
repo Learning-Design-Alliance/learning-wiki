@@ -45,8 +45,9 @@ Publication bias assessment (Figure 2 funnel plot plus Egger test) of the 20 inc
 
 
 ## Related Claims
-- [Funnel plot analysis showed no publication bias among the 15 studies included in the AR meta-analysis](ar-meta-analysis-no-publication-bias.md) — related
+- Funnel plot analysis showed no publication bias among the 15 studies included in the AR meta-analysis — related
 - [The pooled burnout–dropout intentions effect appears robust to outliers and minimally influenced by publication bias](meta-analysis-robustness-burnout-dropout.md) — related
 - [Publication bias is present in the embodied vocabulary learning literature, suggesting pooled effects may overestimate the true benefit](publication-bias-embodied-vocabulary-meta-analysis.md) — related
 - [Smaller, underpowered studies report larger flipped classroom effect sizes, indicating small-study and publication bias](small-study-bias-inflates-flipped-classroom-effects.md) — reports the opposite
-- [No evidence of publication bias was found in the flipped classroom literature, though dissertations showed a larger (non-significantly different) effect size than journal articles](flipped-classroom-no-publication-bias.md) — possibly the same claim (merge candidate)
+- No evidence of publication bias was found in the flipped classroom literature, though dissertations showed a larger (non-significantly different) effect size than journal articles — possibly the same claim (merge candidate)
+- Publication bias tests and sensitivity analyses support the robustness of the pooled bilingual teaching effects — related

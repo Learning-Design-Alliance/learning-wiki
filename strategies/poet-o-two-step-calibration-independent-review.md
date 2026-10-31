@@ -45,6 +45,7 @@ The article recommends that "All faculty reviewers should receive standardized t
 
 - [Institutional implementation recommendations for peer evaluation using the POET-O](poet-o-implementation-recommendations.md)
 - [Calibration training and moderation to ensure reliable rubric-based portfolio review](calibration-training-moderation-portfolio-review.md)
+- [Train faculty and students in rubric use with calibration strategies to maximize agreement and self-assessment accuracy](rubric-calibration-training-strategy.md)
 
 ## Examples
 -

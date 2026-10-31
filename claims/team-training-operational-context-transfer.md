@@ -48,3 +48,4 @@ The article reports, citing Salas et al. (2008), a meta-analysis finding on tran
 - [Technology-enhanced tabletop exercises delivered via IXP across 25 exercises and 743 participants showed increased student engagement and collaboration and clearer instructor visibility.](ttx-ixp-25-exercises-743-participants-engagement.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [Children learned novel verb meanings better when words were experienced in episodes built around a common scenario](scenario-contexts-improve-verb-meaning-learning.md) — related
+- [Structured communication tools such as SBAR incorporated into simulation are associated with improved team coordination and information transfer](sbar-structured-communication-in-simulation.md) — a narrower finding that bears on this claim

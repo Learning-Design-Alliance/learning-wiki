@@ -52,3 +52,4 @@ Regression analysis of the 8-item Learner Perceptions Survey completed by 26 sec
 - [Students in the generative AI-supported condition reported favorable perceptions of the instruction, with feedback for correcting mistakes rated highest](genai-geometry-favorable-perceptions.md) — related
 - [Most students reported no change in study habits, but students who adapted their study strategies rated GenAI-evaluation assignments as significantly more helpful](study-habit-adapters-rate-genai-grading-helpful.md) — related
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related
+- [Learner perceptions of GenAI-supported virtual patients were positive across 14 of the 15 reviewed studies](genai-vp-positive-learner-perceptions.md) — a broader claim this one bears on

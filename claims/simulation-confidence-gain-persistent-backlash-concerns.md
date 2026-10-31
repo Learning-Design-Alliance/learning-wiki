@@ -71,3 +71,4 @@ Same thematic analysis of candidate responses; the article states the interventi
 - [Educators reported the promotion policy increased parental concern about student progress](promotion-policy-increased-parental-concern.md) — related
 - [Teacher candidates moved from abstract inclusivity ideals to specific instructional and relational strategies after the simulation](simulation-shift-abstract-to-actionable-inclusivity.md) — related
 - [Peer and instructor discourse shaped how teacher candidates experienced classroom conversations about LGBTQ+ issues](instructor-peer-discourse-shapes-lgbtq-conversations.md)
+- [Single-group studies uniformly reported improvement after distance simulation training in self-assessment, knowledge, or skills](single-group-prepost-all-improved.md) — related

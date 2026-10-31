@@ -52,6 +52,7 @@ The article recommends that educators use longitudinal engagement monitoring rat
 - [Attend to both SEL status and SEL growth when identifying students who may need supports to stay on track to graduate](use-both-sel-status-and-growth-for-early-warning.md)
 - [Affect-aware CPS systems should monitor local trajectories of confusion and disengagement over time rather than responding to isolated affective signals](monitor-local-affect-trajectories-in-cps-systems.md)
 - [Use school-level data systems to identify which students need which types of support for dropout prevention](school-level-data-systems-identify-student-support-needs.md)
+- [Early identification and preventive school health approaches addressing trauma exposure to improve academic trajectories](early-identification-preventive-school-health-aces.md)
 
 ## Examples
 -

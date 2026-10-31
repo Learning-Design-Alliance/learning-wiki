@@ -54,3 +54,4 @@ The paper reports a RAND Corporation evaluation of state test item depth under N
 - [The multiple-choice component of the revised ELA placement test strongly measured overall ELA performance, but few items strongly measured the three specific ELA domains](cmi-ela-test-strong-overall-weak-domain-measurement.md) — related
 - [SimCalc scale-up study showed significant positive impacts on curriculum-aligned conceptual items but no significant difference on state test items](simcalc-aligned-vs-state-test-impacts.md) — related
 - [Multiple-choice questions combined with description and open-description items can measure higher-level thinking, including concept understanding at levels C1–C6](multilevel-mcq-measures-higher-order-chemistry-understanding.md) — related
+- [Exclusive and systematic use of multiple-choice questions for anatomy assessment may adversely affect long-term retention](mcq-exclusive-use-retention-risk.md) — related

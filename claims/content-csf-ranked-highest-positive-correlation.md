@@ -48,4 +48,4 @@ Meta-analysis pooling of seven studies with 1289 participants. The Table 5 row f
 - [All six shortlisted CSFs have aggregated means above 2.5 on a 5-point Likert scale, indicating appreciable perceived influence](all-six-csfs-aggregate-means-above-2-5.md) — related
 - [User friendly design of content correlates highly positively with learner perceptions (r = 0.92961)](user-friendly-design-positive-correlation-learner-perceptions.md) — related
 - [Technical competence of students is negatively correlated with learner perceptions (r = -0.5595)](technical-competence-negative-correlation-learner-perceptions.md) — related
-- [A meta-analysis of 19 m-Learning studies identifies 21 candidate critical success factors, of which six are shortlisted for statistical meta-analysis](meta-analysis-21-csfs-six-shortlisted-mlearning.md) — a broader claim this one bears on
+- A meta-analysis of 19 m-Learning studies identifies 21 candidate critical success factors, of which six are shortlisted for statistical meta-analysis — a broader claim this one bears on

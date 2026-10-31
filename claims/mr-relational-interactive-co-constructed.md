@@ -47,10 +47,12 @@ Qualitative synthesis of a second set of data initially coded as 'other', which 
 
 ## Related Claims
 - [Assessment of metacognitive regulation appears underexploited in physical therapy, with existing methods not adequately capturing tasks-focals interplay or interaction dynamics](mr-assessment-underdeveloped-in-pt.md) — related
-- [A scoping review following JBI and PRISMA-ScR guidelines identified 1,025 documents and analyzed 36 on metacognitive regulation in physical therapy clinical reasoning](scoping-review-36-mr-pt-clinical-reasoning.md) — related
+- A scoping review following JBI and PRISMA-ScR guidelines identified 1,025 documents and analyzed 36 on metacognitive regulation in physical therapy clinical reasoning — related
 - [Script-supported groups mainly engaged in accepted intra-group metacognitive interaction, with co-constructed interaction infrequent and highly variable between groups](accepted-interaction-dominant-co-construction-rare.md) — related
 - [Regulatory sequencing in synchronous CSCL: cognitive interactions initiate cycles, co-regulation iterates with task execution, and SSRL follows socio-emotional interactions](regulation-sequencing-pattern-synchronous-cscl.md) — related
 - [Student-AI interaction in a multi-agent learning environment is organized into two significant engagement patterns: co-construction of knowledge and co-regulation](multi-agent-two-engagement-patterns-co-construction-co-regulation.md) — related
 - [Metacognitive regulation in PT clinical reasoning fits Johnson's three types (self-observation, self-judgment, self-reaction), with all types represented in 58–75% of included articles](mr-types-fit-johnson-taxonomy-pt.md) — related
 - [Inductive analysis identified a new 'focal' characteristic of MR with four focals: clinical, ethical, epistemological and ontological](four-focals-mr-analysis-grids.md) — related
 - [MR timing codes fit the literature except pre-task timing (underrepresented at 14%), and tasks are dominated by global management (60%) and cognitive (44%)](mr-timing-task-distribution-pt-review.md) — related
+- [Errors in clinical reasoning arise from 4 primary areas: inadequate knowledge, flawed data gathering, faulty data processing, or impaired metacognition](clinical-reasoning-errors-four-areas.md) — related
+- [Virtual environments favor clinical reasoning, self-regulation and peer collaboration, while physical environments engage critical reasoning, professionalism and communication abilities](virtual-physical-environments-different-competencies.md) — related

@@ -40,6 +40,7 @@ Based on the divergent engagement patterns by question type, the authors recomme
 
 - [Discourage mental offloading to AI by balancing guidance depth and frequency with application opportunities](discourage-mental-offloading-balance-guidance-application.md)
 - [Integrate AI-driven scaffolding with teacher-led offloading and refine feedback granularity to prevent over-scaffolding](ai-scaffolding-teacher-offloading-strategy.md)
+- [Combine diverse assessment categories (practical structure identification, oral tests, open-ended questions) rather than relying on MCQs alone](combine-assessment-categories-anatomy.md)
 
 ## Examples
 -

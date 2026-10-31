@@ -51,3 +51,4 @@ Randomised study of 31 medical and biomedical students comparing an AR app (Grey
 - [Learner motivation and engagement (Kirkpatrick Level 1) were consistently high across technology-enhanced neuroanatomy interventions](tl-neuroanatomy-high-motivation-l1.md) — reports the opposite
 - [VR module matched a textbook on anatomy knowledge at pre-, post- and retention testing while being rated more engaging and motivating (Stepan et al.)](stepan-vr-equal-knowledge-higher-motivation.md) — related
 - [Improvements in objective knowledge outcomes (Kirkpatrick Level 2) from technology-enhanced learning were inconsistent across neuroanatomy interventions](tl-neuroanatomy-l2-knowledge-inconsistent.md) — a broader claim this one bears on
+- [Mind mapping significantly improves knowledge retention in neuroanatomy learning versus didactic lecture (Teli et al., 2020)](mind-mapping-neuroanatomy-knowledge-retention-teli.md) — related

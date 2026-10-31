@@ -53,3 +53,4 @@ Theoretical argument in the Theory of Learning section: the author roots DL2F in
 - [Language and dialogue operationalize the networking capacities that connectivism values](language-operationalizes-network-learning.md) — related
 - [Thought and language become increasingly interdependent in the first few years, with private speech evolving into inner speech as self-regulation](vygotsky-private-speech-inner-speech.md) — related
 - [Cognitive constructivism has strong empirical support and suggests new directions for science education, and must be distinguished from metaphysical constructivism](grandy-cognitive-vs-metaphysical-constructivism.md) — related
+- [Included studies grounded their learning environments in diverse learning theories, and the review argues no single theory suffices](diverse-learning-theories-complementary-use.md) — related

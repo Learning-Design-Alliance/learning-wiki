@@ -26,6 +26,7 @@ Usage:
 
 import argparse
 import json
+import os
 import re
 import sys
 from collections import defaultdict
@@ -270,20 +271,42 @@ def _cluster_by_title(entries: list) -> list:
     return clusters
 
 
+# path -> ((st_mtime_ns, st_size, st_ino), [citation, ...]). extract_citations depends only on a
+# page's text and path, so a page whose file is unchanged parses the same: re-parse only what
+# changed. The ingest gate calls this four times for every page it writes, and reading and parsing
+# all 50,000 pages each time made one batch's ingest step take nearly two hours (2026-10-31).
+_CITATION_CACHE: dict = {}
+
+
 def load_all_citations(page_types=PAGE_TYPES) -> dict:
-    """Return {key: [citation, ...]} across every page of the given types."""
+    """Return {key: [citation, ...]} across every page of the given types.
+
+    Always reflects the files as they are now: each page is stat'ed on every call and re-read when
+    its mtime, size or inode changed. Every call returns new dicts and lists, so a caller that
+    edits what it gets cannot change what the next caller sees."""
     by_key = defaultdict(list)
     for page_type in page_types:
         folder = WIKI_ROOT / page_type
-        if not folder.exists():
+        try:
+            # os.scandir and plain names, sorted as strings (the order Path sorting gave within one
+            # folder): pathlib's object overhead was most of a cached call's cost
+            entries = sorted((e for e in os.scandir(folder) if e.name.endswith(".md")
+                              and e.name != "index.md"), key=lambda e: e.name)
+        except FileNotFoundError:
             continue
-        for path in sorted(folder.glob("*.md")):
-            if path.stem == "index":
+        for e in entries:
+            try:
+                st = e.stat()
+            except FileNotFoundError:          # removed between the listing and the stat
                 continue
-            text = path.read_text(encoding="utf-8")
-            rel = str(path.relative_to(WIKI_ROOT))
-            for c in extract_citations(text, rel):
-                by_key[c["key"]].append(c)
+            sig = (st.st_mtime_ns, st.st_size, st.st_ino)
+            hit = _CITATION_CACHE.get(e.path)
+            if hit is None or hit[0] != sig:
+                text = Path(e.path).read_text(encoding="utf-8")
+                hit = (sig, extract_citations(text, f"{page_type}/{e.name}"))
+                _CITATION_CACHE[e.path] = hit
+            for c in hit[1]:
+                by_key[c["key"]].append(dict(c))
     return by_key
 
 

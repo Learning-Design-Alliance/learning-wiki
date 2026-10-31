@@ -50,3 +50,4 @@ Comparative evaluation from the authors' preliminary work with 51 college partic
 - [College students overwhelmingly prefer short, mobile-friendly gamified security training over long desktop training or videos](students-prefer-mobile-gamified-security-training.md) — related
 - [After gamified security training, female students gave more positive confidence and format-preference ratings than male students (descriptive survey percentages, no inferential test)](gender-differences-gamified-security-training.md) — related
 - [Playing the gamified security modules raised students' self-reported confidence and understanding of online security](gamified-security-games-confidence-understanding.md) — related
+- [Gamified ALS training produced mixed short-term findings, with lower ALS-algorithm knowledge in the gamification group in a cluster randomised trial](gamification-mixed-als-algorithm-knowledge.md) — related

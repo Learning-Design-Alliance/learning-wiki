@@ -46,7 +46,7 @@ Meta-analysis of 29 experimental studies from Turkey (2004–2014) with a total 
 
 ## Related Claims
 - [The effect of learning-styles-tailored instruction on academic achievement does not differ significantly by course type](achievement-effect-independent-of-course-type.md) — related
-- [The effect of learning-styles-tailored instruction on academic achievement does not differ significantly between quasi-experimental and true-experimental designs](achievement-effect-independent-of-experimental-design.md) — related
+- The effect of learning-styles-tailored instruction on academic achievement does not differ significantly between quasi-experimental and true-experimental designs — related
 - [The effect of learning-styles-tailored instruction on academic achievement does not differ significantly by learning style model](achievement-effect-independent-of-learning-style-model.md) — a narrower finding that bears on this claim
 - [Learning-styles-tailored instruction shows a large pooled effect on students' attitudes toward courses (d = 1.113)](learning-styles-instruction-large-pooled-attitude-effect.md) — related
 - [Learning-styles-tailored instruction shows a large pooled effect on retention, with inconsistent printed values (d = 1.763 in Table 7; d = 1.290 in the abstract and discussion)](learning-styles-instruction-large-pooled-retention-effect.md) — related

@@ -43,6 +43,7 @@ The report recommends that program design center on a coherent vision of whole c
 - [Recommendations for sustainable and affordable residency programs: align with LEA strategy, engage system leaders, dedicate sustainability roles, and run affordability analyses](residency-sustainability-recommendations.md)
 - [Provide sustained, powerful professional development with professional learning communities for QTEL implementation](sustained-powerful-pd-for-qtel.md)
 - [Concentrate professional development support at the point of intention–behaviour translation through clinically embedded coaching](coaching-at-intention-behaviour-translation.md)
+- [Integrate clozapine training with clinical experience and extend it to all professionals, supported by dedicated clinics and specialist advice](integrated-clozapine-training-all-professionals-strategy.md)
 
 ## Examples
 -

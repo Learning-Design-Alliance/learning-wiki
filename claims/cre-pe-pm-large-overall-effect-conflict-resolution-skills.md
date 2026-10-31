@@ -46,8 +46,8 @@ Meta-analysis of 23 Turkish experimental and semi-experimental studies meeting i
 
 ## Related Claims
 - [Effect sizes of CRE, PE and PM programs do not differ significantly by education program, though peace education showed the largest point estimate (g = 1.892)](no-significant-difference-by-education-program.md) — related
-- [Fail-safe N analyses indicate the pooled effect is resistant to publication bias (Rosenthal FSN = 2139; Orwin FSN = 1048)](fsn-resistance-publication-bias-cre-meta-analysis.md) — related
-- [Effect sizes across included studies are highly heterogeneous (I² = 94.79%), requiring a random-effects model](high-heterogeneity-random-effects-cre-meta-analysis.md) — related
+- Fail-safe N analyses indicate the pooled effect is resistant to publication bias (Rosenthal FSN = 2139; Orwin FSN = 1048) — related
+- Effect sizes across included studies are highly heterogeneous (I² = 94.79%), requiring a random-effects model — related
 - [Effect sizes do not differ significantly by duration of application, with 1-10 hours (g = 1.837) and 21-30 hours (g = 1.894) showing larger point estimates](no-significant-difference-by-application-duration.md) — related
 - [Effect sizes do not differ significantly by education level, though primary school applications showed the largest point estimate (g = 1.564)](no-significant-difference-by-education-level.md) — related
 - [Effect sizes do not differ significantly between selected-student and whole-class applications, with class-based applications slightly higher (g = 1.253 vs 1.245)](no-significant-difference-by-application-type.md) — related

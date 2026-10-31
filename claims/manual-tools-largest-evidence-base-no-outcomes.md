@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2029
 sources:
   - id: mainwaring-elizabeth-m-a-2026
     resource: "https://doi.org/10.1007/s00464-026-13309-z"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Manual observational tools (41 studies) are the most well-studied LC assessment instruments, with the largest body of evidence across multiple independent cohorts, but no study evaluated associations between assessment scores and patient outcomes. [→ Mainwaring Elizabeth M. A. 2026](#mainwaring-elizabeth-m-a-2026)
@@ -66,5 +67,5 @@ In the manual-tools synthesis section, the review reports that relations-to-othe
 ## Related Claims
 - [Kinematic assessment systems for laparoscopic cholecystectomy are weakly validated, restricted to small datasets, and capture only a narrow component of operative competence](kinematic-lc-tools-limited-validation-narrow-construct.md) — related
 - [No objective assessment tool for laparoscopic cholecystectomy demonstrates comprehensive validity across all Messick domains, so no gold standard exists](no-gold-standard-lc-skill-assessment-tools.md) — a broader claim this one bears on
-- [Methodological quality of LC assessment-tool studies is moderate (MERSQI median 12.5) and outcomes rarely extend beyond performance-level measures](mersqi-moderate-quality-lc-assessment-studies.md) — a broader claim this one bears on
+- Methodological quality of LC assessment-tool studies is moderate (MERSQI median 12.5) and outcomes rarely extend beyond performance-level measures — a broader claim this one bears on
 - [AI-based assessment systems show strong internal performance and early real-time deployment for critical view of safety detection, but lack external validation and clinical impact evidence](ai-lc-assessment-strong-internal-weak-external.md) — related

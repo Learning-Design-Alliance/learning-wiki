@@ -46,4 +46,4 @@ Meta-regression of linguistic outcomes by etiology, with DLD samples (k = 7, n =
 
 ## Related Claims
 - [Long-term intervention effects are larger for prelinguistic outcomes (g = .36) than for linguistic outcomes (g = .14, nonsignificant)](prelinguistic-outcomes-larger-long-term-effects-than-linguistic.md) — related
-- [In randomized trials, long-term outcomes rated high risk of bias had larger significant effects (g = .29) than low/some-concerns outcomes (g = .07, nonsignificant)](high-risk-of-bias-rcts-larger-long-term-effects.md) — related
+- In randomized trials, long-term outcomes rated high risk of bias had larger significant effects (g = .29) than low/some-concerns outcomes (g = .07, nonsignificant) — related

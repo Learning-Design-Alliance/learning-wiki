@@ -46,4 +46,4 @@ Moderator analysis by grade level within the random-effects meta-analysis (Table
 
 ## Related Claims
 - [Cooperative learning has a medium positive effect (0.89) on vocational high school students' mathematics learning outcomes compared with conventional learning](cooperative-learning-vhs-math-medium-effect.md) — a broader claim this one bears on
-- [Estimated cooperative learning efficacy is higher in studies published in SINTA and GARUDA indexed journals (1.04) than in Google Scholar indexed articles or proceedings (0.73)](journal-index-moderator-cooperative-learning-effect.md) — related
+- Estimated cooperative learning efficacy is higher in studies published in SINTA and GARUDA indexed journals (1.04) than in Google Scholar indexed articles or proceedings (0.73) — related

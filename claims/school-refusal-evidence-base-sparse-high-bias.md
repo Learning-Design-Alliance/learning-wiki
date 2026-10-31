@@ -63,8 +63,8 @@ Risk-of-bias assessment using the Cochrane Collaboration's 'Risk of Bias' tool, 
 
 
 ## Related Claims
-- [The reviewed group-design literature has a high overall risk of bias, but inclusion of biased studies produced a more conservative effect estimate](high-risk-of-bias-conservative-effect-estimate.md) — related
-- [Included studies show risk-of-bias limitations concentrated in allocation concealment, participant/teacher blinding, and design-sensitive bias](llm-medical-education-studies-risk-of-bias-profile.md) — related
+- The reviewed group-design literature has a high overall risk of bias, but inclusion of biased studies produced a more conservative effect estimate — related
+- Included studies show risk-of-bias limitations concentrated in allocation concealment, participant/teacher blinding, and design-sensitive bias — related
 - [Adding medication to CBT yields significant attendance gains but no significant anxiety effect relative to placebo-plus-CBT](medication-plus-cbt-school-refusal-attendance-only.md) — related
 - [Psychosocial interventions for school refusal behavior produce moderate, statistically significant improvements in school attendance](school-refusal-interventions-improve-attendance-moderate.md) — related
 - [Psychosocial interventions for school refusal behavior show a very small, nonsignificant effect on anxiety at post-test](school-refusal-interventions-anxiety-nonsignificant.md) — related

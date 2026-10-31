@@ -66,6 +66,7 @@ Arts integration works when the artistic task forces deep processing of the cont
 - [Act It Out](act_it_out.md) — a lightweight embodiment version requiring no artistic training
 - [Case Studies/Case-Based Learning](../patterns/case-based-learning.md) — an alternative active-learning strategy when artistic production is impractical
 - [Use creative drama techniques across different grades and courses to support achievement and affective outcomes](use-creative-drama-across-grades-and-courses.md)
+- [Five design principles for integrating music into EMI instruction](emi-music-design-principles.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — exemplar products show learners how artistic choices carry content meaning

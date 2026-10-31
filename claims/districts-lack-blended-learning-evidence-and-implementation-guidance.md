@@ -54,3 +54,4 @@ The authors' stated motivation for the review and infographic: districts want bl
 - Texas's non-binding tutoring guidance leaves no mechanism to ensure districts follow outlined best practices — related
 - [Saga blended tutoring had a small negative impact on school attendance](saga-tutoring-small-negative-attendance-impact.md) — related
 - [Research has not yet identified blended learning implementation strategies that increase the likelihood of positive effects on students](no-identified-blended-learning-implementation-strategies.md) — possibly the same claim (merge candidate)
+- [Lack of physical interaction between students, peers, and educators was reported as a disadvantage of digital learning, and blended approaches were identified as a possible solution](physical-interaction-loss-blended-solution.md) — related

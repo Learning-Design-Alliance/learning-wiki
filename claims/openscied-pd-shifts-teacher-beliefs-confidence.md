@@ -84,3 +84,4 @@ Same longitudinal survey analysis (Lowell, 2022); the review notes confidence in
 - [Preschool teachers with no coding background shifted from initial CS-related resistance to voluntary ownership of coding instruction after brief PD and curriculum implementation](teachers-shifted-resistance-to-ownership.md) — a narrower finding that bears on this claim
 - [After the PD, teachers' explanations of computational thinking shifted toward computer-connected problem-solving and toward CT as a teaching strategy](post-pd-ct-descriptions-shift-to-teaching.md) — a narrower finding that bears on this claim
 - [Confidence gains after brief RaT workshops do not automatically translate into improved teaching performance](confidence-gains-not-translate-performance.md) — related
+- [Short targeted workshops improve frailty screening use, knowledge, self-confidence, and attitudes](short-workshops-improve-frailty-screening-knowledge.md) — a narrower finding that bears on this claim

@@ -53,3 +53,4 @@ Empirical evaluation reported in the abstract comparing Tarski's World instructi
 - [Guidance in a computer-based logic environment significantly influences pre- to post-test scores for learning the conditional](guidance-improves-posttest-logic-conditional.md) — related
 - [The authors conclude that guidance combined with the possibility to manipulate objects supports acquisition of knowledge and skills in a domain](guidance-plus-manipulation-support-acquisition.md) — a broader claim this one bears on
 - [Object manipulation in a visual representation significantly improves scores from post-test to retention test after two weeks of non-instruction](manipulation-improves-retention-logic.md) — related
+- [Combining video-based feedback with verbal feedback enhanced both skill acquisition and knowledge retention](video-plus-verbal-feedback-enhances-retention.md) — a narrower finding that bears on this claim

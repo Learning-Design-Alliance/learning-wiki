@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 138 claims (90 show a difference, 32 mixed, 16 no difference) · 99 studies (29 review, 25 associational, 18 causal, 13 quant-synthesis, 5 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 28 of 99 report an effect size · 134 claims rest on one study
+> **Evidence** · 142 claims (92 show a difference, 34 mixed, 16 no difference) · 103 studies (31 review, 25 associational, 18 causal, 14 quant-synthesis, 6 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 29 of 103 report an effect size · 138 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -179,6 +179,10 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [Empathy and communication interventions show short-term gains but evidence on persistence over time is inconsistent](../claims/soft-skills-intervention-gains-not-sustained.md) [~M] — instruction changes it
 - [Innovative andragogical strategies — simulation, narrative medicine, reflective writing — enhance empathy, compassion, and communication skills in medical students](../claims/innovative-teaching-practices-soft-skills-medical-students.md) [+M] — instruction changes it
 - [Virtual-reality delirium training increased nurses' empathy and knowledge, with larger empathy gains when VR preceded didactic instruction](../claims/vr-delirium-empathy-order-effect.md) [+M] — instruction changes it
+- [A VR simulation of psychosis reduced stigma and increased empathy and knowledge among medical students](../claims/vr-psychosis-empathy-stigma.md) [+M] — instruction changes it
+- [Feedback in AI-VP training shows a differential corrective effect for learners with low baseline empathy](../claims/adaptive-feedback-low-baseline-empathy.md) [~M] — an instructional effect differs with it
+- [Narrative medicine education improves residents' empathy ability compared with lecture-based learning, though with publication bias detected](../claims/narrative-medicine-improves-empathy.md) [~M] — instruction changes it
+- [Political skills—communication, negotiation, and lobbying; networking and social coalition; and forming public opinion—are a factor of nurses' healthcare policy competence](../claims/political-skills-factor-policy-competence.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

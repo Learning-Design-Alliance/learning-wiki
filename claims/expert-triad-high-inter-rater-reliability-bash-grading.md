@@ -75,3 +75,7 @@ Inter-rater reliability analysis of the three instructors' independent blind gra
 - [Including supplemental response context in modified inputs was necessary because human raters scored target responses with access to those responses](supplemental-response-context-modified-inputs.md) — related
 - [An automated scoring engine matched experienced human markers yet was rejected over the confidentiality-explainability conflict](crase-scoring-equivalent-to-human-markers-rejected.md) — related
 - [Expert graders show high agreement among themselves when scoring a written exam on first degree equations](expert-inter-rater-agreement-high-written-exam.md) — related
+- [AI-based assessment of therapeutic communication skills showed high reliability (ICC > 0.97) in a cited quasi-experimental nursing study](ai-communication-assessment-high-reliability.md) — related
+- [Faculty calibration with instructional rubrics yields high inter-rater reliability, rising after repeated calibration](faculty-calibration-icc-rises-with-repeated-calibration.md) — related
+- [Rubrics enhance grading consistency and inter-rater reliability in dental education assessment](rubrics-enhance-grading-consistency-dental-education.md) — related
+- [Examiner training and standardization are the most recommended solutions, and structured/mock formats show improved inter-rater reliability (kappa > 0.70)](training-standardization-solutions.md) — related

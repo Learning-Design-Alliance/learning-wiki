@@ -51,3 +51,4 @@ Individual interviews with the five facilitators of the SIMMed training cycle. F
 - [Most simulation participants preferred high-tech video-assisted debriefing over lower-tech VAD and verbal debriefing, mainly for its better audio/video quality and focused review](participants-prefer-high-tech-vad-debriefing.md) — related
 - [Video-assisted debriefing enhances precision but risks psychological safety and narrows reflection to individual performance](video-debriefing-precision-safety-tradeoffs.md) — related
 - [Reflections immediately following the events of interest facilitate greater and more situated recall and precision](immediate-reflection-situated-recall.md) — related
+- [Low facilitator-to-student ratios (roughly 1:6 to 1:16) are preferred in CBD- and simulation-based IPE and were associated with more interaction and feedback opportunities](low-facilitator-ratios-ipe.md) — related

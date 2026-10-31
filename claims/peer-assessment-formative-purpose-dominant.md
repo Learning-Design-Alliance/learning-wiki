@@ -49,4 +49,4 @@ Cross-classification of assessment purpose by subject domain (Table 5) in the re
 - Arts and humanities is the most frequent subject domain in peer assessment research, with natural sciences, education, and health and welfare next — related
 - [Formative feedback dominates authentic assessment designs while sustainable feedback is rare](aa-formative-feedback-dominates-sustainable-rare.md) — related
 - [Latent class analysis of 27 design elements yields a five-class solution in which only ten instructional design elements significantly contribute (R² .204–.880), showing peer assessment designs are less diverse than theoretically possible](lca-five-class-ten-design-elements.md)
-- [Formative assessment dominates the general chemistry assessment literature while summative assessment and combined formative–summative approaches remain underrepresented](general-chemistry-formative-dominates-summative-limited.md) — related
+- Formative assessment dominates the general chemistry assessment literature while summative assessment and combined formative–summative approaches remain underrepresented — related

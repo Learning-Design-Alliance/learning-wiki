@@ -49,3 +49,5 @@ Repeated Measures ANOVA (SPSS v. 22.0) comparing RAT scores between the two cour
 - [Students perform significantly higher on the team portion of the Readiness Assessment Test than on the individual portion in a TBL laboratory module](team-rat-scores-higher-than-individual-rat.md) — related
 - [Dental students in a revised TBL format and medical students in the original format performed similarly on iRAT and tRAT sessions, in a non-randomised comparison of two cohorts](tbl-formats-similar-irat-trat-performance.md) — related
 - [In both TBL formats, tRAT and iSAT scores significantly improve over preceding iRAT scores](tbl-trat-isat-improve-over-irat.md) — a narrower finding that bears on this claim
+- [Individual readiness assurance tests (i-RATs) in pre-clinical TBL are almost universally MCQ-based, mostly closed-book, typically 5 to 30 items lasting 10 to 30 minutes](irat-mcq-closed-book-5-30-items.md) — related
+- [Included studies report positive correlations between TBL participation and assessment performance, with i-RAT scores predicting final examination performance](tbl-participation-correlates-assessment-performance.md) — related

@@ -57,3 +57,4 @@ The review reports Saravanan et al.'s qualitative study of three focus groups wi
 - [Learning Quality & Cognitive Dependency discourse is heavily faculty-driven (Fac% 82.3), concentrated in K-12 and professor communities](cognitive-dependency-discourse-faculty-driven.md) — related
 - [Stakeholder communities differ sharply in GenAI discourse focus: K-12 teachers foreground cognitive dependency, academics detection, professional students career anxiety](stakeholder-communities-differential-genai-focus.md) — related
 - [AI-augmented instructional design creates tensions between generative affordances and student agency, identity, and academic integrity](genai-instructional-design-tensions-agency-authorship.md) — related
+- [Faculty reluctance and limited expertise are common challenges in implementing IPE, which can harm interprofessional relationships if poorly planned](faculty-reluctance-ipe-challenge.md) — related

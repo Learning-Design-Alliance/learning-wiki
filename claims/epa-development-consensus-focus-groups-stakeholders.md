@@ -46,6 +46,6 @@ Frequency analysis of EPA development methodologies across the included studies 
 
 ## Related Claims
 - [Global entrustment scales and standardised rubrics dominate EPA assessment, but validation of assessment tools is reported in only a small minority of studies](epa-assessment-tools-validation-gap.md) — related
-- [EPA studies concentrate on implementation, with development and assessment secondary](epa-studies-focus-implementation-over-development.md) — related
+- EPA studies concentrate on implementation, with development and assessment secondary — related
 - [Workplace observation by faculty is the dominant EPA implementation and assessment method, and logistical difficulties and faculty development issues are leading implementation barriers](epa-implementation-workplace-observation-logistical-barriers.md) — related
-- [Most EPA research focuses on early phases of development and implementation, with few randomised controlled trials](epa-research-early-phases-few-rcts.md) — related
+- Most EPA research focuses on early phases of development and implementation, with few randomised controlled trials — related

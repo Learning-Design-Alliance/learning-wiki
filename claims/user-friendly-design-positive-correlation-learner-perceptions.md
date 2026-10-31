@@ -47,5 +47,5 @@ Meta-analysis aggregation over eight studies with 1753 participants. Table 5 pri
 ## Related Claims
 - [All six shortlisted CSFs have aggregated means above 2.5 on a 5-point Likert scale, indicating appreciable perceived influence](all-six-csfs-aggregate-means-above-2-5.md) — related
 - [Content is the CSF with the highest aggregated mean and a strong positive correlation with learner perceptions (r = 0.80454)](content-csf-ranked-highest-positive-correlation.md) — related
-- [A meta-analysis of 19 m-Learning studies identifies 21 candidate critical success factors, of which six are shortlisted for statistical meta-analysis](meta-analysis-21-csfs-six-shortlisted-mlearning.md) — related
+- A meta-analysis of 19 m-Learning studies identifies 21 candidate critical success factors, of which six are shortlisted for statistical meta-analysis — related
 - [Technical competence of students is negatively correlated with learner perceptions (r = -0.5595)](technical-competence-negative-correlation-learner-perceptions.md) — related

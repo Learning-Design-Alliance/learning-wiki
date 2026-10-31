@@ -46,4 +46,4 @@ Moderator (homogeneity) analysis of the 28 datasets: subgroups were associate/un
 
 ## Related Claims
 - [Flipped classroom effects do not differ significantly between theoretical and practical knowledge, though practical knowledge shows a slightly larger effect](flipped-classroom-knowledge-type-no-significant-difference.md) — related
-- [Included flipped classroom studies show substantial heterogeneity, requiring a random-effects model](flipped-classroom-meta-analysis-high-heterogeneity.md) — related
+- Included flipped classroom studies show substantial heterogeneity, requiring a random-effects model — related

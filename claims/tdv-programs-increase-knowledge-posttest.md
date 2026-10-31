@@ -51,4 +51,4 @@ Three-level random-effects meta-analysis of 13 studies contributing 15 effect si
 - [Follow-up effects mirror posttest conclusions, with knowledge effects growing and perpetration showing a small significant decrease](tdv-followup-effects-pattern.md) — related
 - [Victimization effects are non-significant at posttest and null at follow-up](tdv-programs-victimization-effects-weak.md) — related
 - [Programs reduce rape myth acceptance relative to control (g = −0.47)](tdv-programs-reduce-rape-myth-acceptance.md) — related
-- [Random versus nonrandom assignment moderates posttest effects for only one of five outcomes](assignment-moderator-tdv-outcomes.md) — related
+- Random versus nonrandom assignment moderates posttest effects for only one of five outcomes — related

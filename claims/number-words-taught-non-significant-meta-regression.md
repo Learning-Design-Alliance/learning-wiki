@@ -47,5 +47,5 @@ Meta-regression Model 2 (number of vocabulary taught) on 27 studies. The article
 ## Related Claims
 - [The combined meta-regression model of sample size and number of vocabulary items taught is significant, accounting for 44.7% of between-study variance](combined-meta-regression-model-447-percent-variance.md) — related
 - [None of five moderators (pilot study, retention test, word-selection method, vocabulary outcome, number of words taught) significantly explained heterogeneity in effect sizes](five-moderators-non-significant-vocabulary-meta-analysis.md) — a broader claim this one bears on
-- [The effect size does not vary significantly with sample size or publication year in meta-regression](meta-regression-sample-size-year-null.md) — related
-- [Sample size alone significantly predicts between-study variance in effect sizes, explaining 45.7% of heterogeneity](sample-size-meta-regression-explains-457-percent.md) — related
+- The effect size does not vary significantly with sample size or publication year in meta-regression — related
+- Sample size alone significantly predicts between-study variance in effect sizes, explaining 45.7% of heterogeneity — related

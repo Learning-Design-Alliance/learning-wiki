@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-10-31
 sources:
   - id: casimiro-urcos-cn-2026
     resource: "https://doi.org/10.12688/f1000research.176682.1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Strategies such as flipped classroom, problem-based learning, gamification, experiential learning, and collaborative learning, adapted to digital environments, generated positive effects on motivation, participation, and transversal competences. [→ Casimiro Urcos CN 2026](#casimiro-urcos-cn-2026)
@@ -55,3 +56,5 @@ Narrative synthesis of the included innovation studies: the named active-learnin
 - [Student-centered, problem-driven learning has a small, positive, heterogeneous effect on students' motivation compared to teacher-centered instruction (d = 0.498)](problem-driven-learning-small-positive-effect-motivation.md) — a narrower finding that bears on this claim
 - [The review finds that pedagogical innovations in digital environments improved motivation, self-regulation, academic performance, and digital skills in higher education](pedagogical-innovation-digital-environments-gains-higher-education.md) — a broader claim this one bears on
 - [Experiential learning in authentic clinical environments (community engagement, home visits, outreach rotations) was reported to produce the greatest positive impact on student attitudes, confidence, and perceived competence, but is the most resource-intensive](experiential-learning-greatest-impact-geriatric-dentistry.md) — related
+- [The review reports a positive relationship between gamification and motivation in learning processes](gamification-motivation-positive-relationship-review.md) — a narrower finding that bears on this claim
+- [Student-centered innovative strategies (PBL, EBL, simulation, TBL, blended and online learning) showed positive effects in pharmaceutical care learning](innovative-strategies-positive-effects-pharmaceutical-care.md) — possibly the same claim (merge candidate)

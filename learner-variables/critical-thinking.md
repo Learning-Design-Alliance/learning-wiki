@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 81 claims (56 show a difference, 20 mixed, 5 no difference) · 61 studies (21 causal, 12 review, 10 associational, 7 theoretical, 5 qualitative, 4 design, 2 quant-synthesis), `q1`–`q3` · 13 of 61 report an effect size · 79 claims rest on one study
+> **Evidence** · 83 claims (57 show a difference, 21 mixed, 5 no difference) · 63 studies (21 causal, 13 review, 10 associational, 7 theoretical, 5 qualitative, 4 design, 3 quant-synthesis), `q1`–`q3` · 13 of 63 report an effect size · 81 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -121,6 +121,8 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [Using AR together with QIMS significantly increased students' critical thinking and knowledge creation efficacy skills](../claims/ar-qims-increase-critical-thinking-knowledge-creation-efficacy.md) [+M] — instruction changes it
 - [Grade 10 students who constructed game adventures with ScriptEase scored in the mid-range (14-17) of the Video Game Cognitive Variability Scale, indicating the activity stimulates higher order thinking skills.](../claims/game-construction-higher-order-thinking-midrange.md) [+M] — instruction changes it
 - [Thematic analysis of 14 studies of student views found creative drama produced influential outcomes across cognitive, creative/critical-thinking, learning-environment, and social-affective domains, along with negative aspects](../claims/creative-drama-thematic-outcomes-domains.md) [~M] — instruction changes it
+- [GAI-assisted teaching shows no significant effect on critical thinking skills in the continuous-variable analysis, but the single dichotomous-variable study reports a large difference](../claims/gai-teaching-critical-thinking-null-continuous.md) [~M] — instruction changes it
+- [The review concludes that gamification is linked to the generation of critical thinking and the improvement of academic performance in higher education](../claims/gamification-linked-critical-thinking-academic-performance-higher-education.md) [+M] — instruction changes it
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

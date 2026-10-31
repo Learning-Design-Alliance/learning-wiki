@@ -51,3 +51,4 @@ Analysis of the feedback intervention study with 10 participants performing two 
 - [Feedback-based CPR training is associated with more accurate chest compression performance than standard instruction](feedback-based-cpr-training-improves-compression-performance.md) — related
 - [Rhythm or pacing aids during CPR training were associated with more consistent compression rates](pacing-aids-consistent-compression-rates.md) — related
 - [Demonstration-based CPR training tended to produce more accurate performance than lecture-based approaches](demonstration-beats-lecture-cpr-training.md) — related
+- [Real-time feedback systems generally improve CPR quality in simulation-based training, particularly compression rate and depth](real-time-feedback-improves-cpr-quality-simulation.md) — a broader claim this one bears on

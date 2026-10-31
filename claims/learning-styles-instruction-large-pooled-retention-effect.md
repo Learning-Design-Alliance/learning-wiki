@@ -49,6 +49,6 @@ Meta-analysis of 10 studies on retention; heterogeneity was high (Q = 55.642, I�
 - [Learning-styles-tailored instruction shows a large pooled effect on students' attitudes toward courses (d = 1.113)](learning-styles-instruction-large-pooled-attitude-effect.md) — related
 - [The effect of learning-styles-tailored instruction on academic achievement does not differ significantly by learning style model](achievement-effect-independent-of-learning-style-model.md) — related
 - [The 5E model shows a large pooled effect on retention scores versus traditional methods, though the article's own Z-test is reported as non-significant](5e-model-large-effect-retention.md) — related
-- [The effect of learning-styles-tailored instruction on academic achievement does not differ significantly between quasi-experimental and true-experimental designs](achievement-effect-independent-of-experimental-design.md) — related
+- The effect of learning-styles-tailored instruction on academic achievement does not differ significantly between quasi-experimental and true-experimental designs — related
 - [Diagnostic analyses show the pooled effect sizes for achievement, attitude and retention are robust and not attributable to publication bias](learning-styles-meta-analysis-no-publication-bias.md) — related
 - [The effect of learning-styles-tailored instruction on academic achievement does not differ significantly by course type](achievement-effect-independent-of-course-type.md) — related

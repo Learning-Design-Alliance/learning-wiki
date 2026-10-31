@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: almarzooqi-lm-2026
     resource: "https://doi.org/10.1186/s12909-026-09920-2"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Across specialties and regions, residents explicitly call for formal RaT curricula with clear objectives, including feedback delivery, bedside teaching, small-group facilitation, and learner assessment. [→ AlMarzooqi LM 2026](#almarzooqi-lm-2026)
@@ -45,6 +46,6 @@ Theme 3 of the narrative synthesis, drawn from cross-sectional surveys in Canada
 
 
 ## Related Claims
-- [RaT research is heavily concentrated in Western healthcare systems, with no published studies from the GCC region](rat-evidence-western-concentration-gcc-gap.md) — related
+- RaT research is heavily concentrated in Western healthcare systems, with no published studies from the GCC region — related
 - [Residents recognize teaching as central to their professional identity yet carry substantial informal teaching loads without formal preparation](residents-informal-teaching-load-underprepared.md) — related
 - [Longitudinal, integrated RaT programs produce more durable teaching skill gains than brief stand-alone workshops](longitudinal-rat-programs-durable-gains.md) — related

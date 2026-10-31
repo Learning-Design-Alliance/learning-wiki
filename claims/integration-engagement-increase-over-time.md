@@ -67,3 +67,4 @@ Regression of pupil engagement on successive on-computer activities in the four 
 - [High pupil learning gains were not related to a high extent of teacher technology integration; junior classes gained more than senior class 2b](learning-gains-not-related-to-integration-extent.md) — related
 - [Senior kindergarteners engaged to a higher extent in on-computer activities than junior kindergarteners](senior-pupils-higher-engagement-computer-activities.md) — related
 - [Senior kindergarten teachers integrated on- and off-computer activities to a significantly higher extent than junior kindergarten teachers](senior-teachers-higher-technology-integration.md) — related
+- [Course-integrated implementations of active learning more often reported sustained skill development, while one-off sessions more often reported engagement and perceived relevance gains](course-integrated-vs-one-off-outcome-patterns.md) — related

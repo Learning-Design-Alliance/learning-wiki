@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: pavletič-bernarda-2026
     resource: "https://doi.org/10.1186/s12909-026-09574-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Qualitative studies consistently report difficulties across knowledge acquisition, lectures, assessments, emotional well-being, social relationships, and systemic barriers. [→ Pavletič Bernarda 2026](#pavletic-bernarda-2026)
@@ -50,3 +51,4 @@ Meta-aggregation of seven qualitative studies (mostly UK dyslexia-focused, sampl
 - [Prevalence of SpLDs among medical students averages 5.5%, ranging from 2% to 11.5% across studies](spld-prevalence-medical-students-5-5-percent.md) — related
 - [With accommodations such as additional examination time, medical students with SpLDs show no statistically significant difference in MCQ performance (d = 0.045)](mcq-performance-no-difference-accommodated-spld.md) — related
 - [Parity in MCQ assessments does not extend to other formats: lower performance reported in EMQ, SAQ, OSCE, and delayed progression](non-mcq-formats-lower-performance-spld.md) — related
+- [Examiner variability (66.7% of studies) and student anxiety (41.2%) are the most frequently reported challenges of oral examinations](examiner-variability-top-challenge.md) — related

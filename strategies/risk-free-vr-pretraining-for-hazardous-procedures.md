@@ -41,6 +41,7 @@ The article recommends that virtual simulation complement physical training for 
 - [Virtual Reality Training](virtual-reality-immersive-training.md)
 - [Simulation Based Medical Training](simulation-based-medical-training.md)
 - [Simulation Based Practice](simulation-based-practice.md)
+- [Integrate high-fidelity body donor models with low-fidelity simulators across the training progression](integrate-high-and-low-fidelity-simulation.md)
 
 ## Examples
 -

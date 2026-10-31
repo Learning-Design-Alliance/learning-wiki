@@ -67,3 +67,4 @@ Learner profiling using a performance matrix (high project ≥95%, high design >
 ## Related Claims
 - [Student DP performance differed significantly across the three course deployments, with the paper-based DT3 exam scoring lowest, likely due to administration mode](dp-performance-varies-by-administration-mode.md) — related
 - [Instructors value design problems for assessing higher-order thinking in PjBL but cite creation effort and scalability as adoption barriers](instructors-value-dps-effort-barrier.md) — related
+- [Oral exam scores correlate only modestly with written exams and OSCEs (r = 0.10–0.74), suggesting oral exams assess distinct skills](oral-exam-distinct-validity-correlations.md) — related

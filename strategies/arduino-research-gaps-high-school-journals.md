@@ -17,7 +17,7 @@ sources:
 # Conduct more Arduino-based education research in high schools and publish results in academic journals
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (2 quant-synthesis), `q3` · 1 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article's limitations section identifies two research gaps: Korean Arduino-based education research is reported predominantly in dissertations rather than academic journals, and high school applications are scarce. It argues that "the application of Arduino in high school could provide useful educational material to increase students' interest in engineering" and calls for more studies in both areas.
@@ -38,9 +38,7 @@ The article's limitations section identifies two research gaps: Korean Arduino-b
 
 ## Claims
 
-- [Effect sizes of Arduino-based education are statistically larger in academic papers than in dissertations](../claims/arduino-effect-publication-status-difference.md) [+W]
 - [Effect sizes of Arduino-based education do not differ statistically by school level, though high school estimates rest on minimal data](../claims/arduino-effect-school-level-no-difference.md) [+W]
-- [Effect sizes are larger for peer-reviewed published articles than dissertations and for quasiexperimental pre-post designs than comparative post-only designs](../claims/publication-type-and-design-moderate-small-group-effects.md) [+W]
 
 ## Related Strategies
 - 

@@ -48,4 +48,4 @@ Subgroup analysis across seven disciplines (science and technology, physics, gen
 - [The effect of learning stations differs significantly by education level, largest at primary level](learning-stations-effect-education-level-moderator.md) — related
 - [Effect sizes differ significantly by course, with the highest effects in science learning, English, and computer courses and the lowest in religion.](moderator-course-effect.md) — related
 - [Effect of learning stations does not differ significantly by application duration](learning-stations-duration-null-moderator.md) — related
-- [Effect of learning stations does not differ significantly by study type (article vs master's thesis)](learning-stations-study-type-null-moderator.md) — related
+- Effect of learning stations does not differ significantly by study type (article vs master's thesis) — related

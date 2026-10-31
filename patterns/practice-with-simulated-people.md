@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 140 claims (66 for, 58 mixed, 16 against) · 72 studies (20 review, 16 causal, 13 quant-synthesis, 9 qualitative, 9 design, 4 theoretical, 1 associational), `q1`–`q4` · 17 of 72 report an effect size · 135 claims rest on one study
+> **Evidence** · 145 claims (69 for, 60 mixed, 16 against) · 75 studies (22 review, 17 causal, 13 quant-synthesis, 9 qualitative, 9 design, 4 theoretical, 1 associational), `q1`–`q4` · 17 of 75 report an effect size · 140 claims rest on one study
 
 ## Description and scope
 
@@ -168,13 +168,20 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 - [AI-generated virtual patients in HPE are used mainly for teaching and learning communication skills, diagnostic reasoning and management reasoning, with assessment a minority use case](../claims/ai-virtual-patients-hpe-use-case-range.md) [+W]
 - [Clearest LLM-teaching signals appear in settings with clearly defined tasks, immediate feedback, and repeated practice, such as simulated patients and structured feedback](../claims/llm-teaching-benefits-task-defined-feedback-settings.md) [+W]
 - [Simulation-based education increases post-registration nurses' odds of satisfactory observed delirium-care practice at 6 weeks in a cluster RCT](../claims/sbe-delirium-odds-satisfactory-practice-rct.md) [+W]
-- [Outcome evaluation of AI-generated virtual patients in HPE is concentrated at Kirkpatrick level 1, with no studies reporting level 3 or 4 outcomes](../claims/ai-virtual-patients-kirkpatrick-level-1-dominant.md) [~W]
+- [In a paired crossover study, the AIPatient GenAI system matched or exceeded human-simulated patients on emotional realism, technical reliability, and clinical reasoning support](../claims/aipatient-matches-or-exceeds-human-simulated-patients.md) [~W]
+- [In an RCT reviewed by this study, an LLM-based digital patient improved ophthalmology medical history-taking skills relative to control](../claims/llm-digital-patient-improves-history-taking-rct.md) [+W]
+- [Learner perceptions of GenAI-supported virtual patients were positive across 14 of the 15 reviewed studies](../claims/genai-vp-positive-learner-perceptions.md) [+W]
+- [Included studies used a varied range of simulation modalities, from Deaf standardized patients to VR with manipulated audio and 360 video](../claims/varied-simulation-modalities-deaf-patient-education.md) [+W]
+- [Competency-based progression simulation combined with e-learning yields higher communication competence than e-learning alone or standard simulation](../claims/competency-based-progression-simulation-communication.md) [~W]
+- [A social robotic LLM-enhanced virtual patient was rated higher than a conventional computer-based platform for authenticity and learning effect](../claims/robotic-vp-higher-authenticity-than-computer-platform.md) [~W]
 
 ## Examples
 
 - [Realism, control and feedback in teacher classroom-management training](../designs/three-elements-effective-training-realism-control-feedback.md) — the 3B virtual classroom with simulated pupils
 - [Text-based heterogeneity simulation with simulated peer feedback](../designs/heterogeneity-simulation-written-feedback-intervention.md)
 - [Use teaching approximations (role play, microteaching) to scaffold pre-service teachers' pedagogical reasoning](../strategies/teaching-approximations-pedagogical-reasoning.md)
+- [Sequence interview training stepwise from AI-VPs to standardized patients to real patients](../strategies/stepwise-ai-vp-to-standardized-to-real-patients.md)
+- [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](../strategies/tiered-ece-implementation-strategy.md)
 
 ## Related Patterns
 - [Case-Based Learning](case-based-learning.md)

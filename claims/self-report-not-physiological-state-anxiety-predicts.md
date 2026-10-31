@@ -50,3 +50,4 @@ Correlational screening of multiple state anxiety indices with Bonferroni correc
 - [Physiological measures have limited validity for effort, especially for distinguishing data-driven from goal-driven effort](physiological-effort-measures-limited-validity.md) — related
 - [During an exam, students' expectancy for success decreased and the change in expectancy was negatively associated with change in salivary cortisol](expectancy-decline-linked-cortisol-exam.md) — related
 - [Learners show significantly lower skin conductance level across the task than non-learners](learners-lower-scl-across-task.md) — related
+- Only a limited subset of student lifestyle-cognition studies include direct biological or psychophysiological measures — related

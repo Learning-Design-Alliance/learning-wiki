@@ -13,7 +13,7 @@ generated:
 # English-Learner Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 105 claims (61 show a difference, 25 mixed, 19 no difference) · 72 studies (29 associational, 16 causal, 11 review, 6 quant-synthesis, 5 qualitative, 3 design, 2 theoretical), `q1`–`q4` · 12 of 72 report an effect size · 104 claims rest on one study
+> **Evidence** · 108 claims (63 show a difference, 26 mixed, 19 no difference) · 73 studies (29 associational, 16 causal, 11 review, 7 quant-synthesis, 5 qualitative, 3 design, 2 theoretical), `q1`–`q4` · 12 of 73 report an effect size · 107 claims rest on one study
 
 ## Description
 English-learner (EL) status marks a learner who is acquiring the language of instruction while learning content in it. Schools classify learners on a proficiency test and reclassify them once they reach a threshold, so the EL group changes composition over time: the learners who succeed leave it. In the research the status appears as a predictor of outcomes, as a moderator of instructional effects (language supports that help ELs more), and as the target of programmes such as bilingual and dual-language models. It is narrower than [reading and language](reading-and-language.md), which covers reading and language skill in every learner.
@@ -135,6 +135,9 @@ English-learner (EL) status marks a learner who is acquiring the language of ins
 - [K-5 English learners who used the Lexia English CALL program scored significantly higher on the overall ELPAC than non-users (0.197 SD) in a 2020-21 district implementation](../claims/call-program-use-higher-overall-elpac-scores.md) [+W] — instruction changes it
 - [Proficiency-level analyses found no significant differences between program users and non-users in odds of attaining ELPAC proficiency](../claims/call-program-no-significant-proficiency-differences.md) [-M] — instruction changes it
 - [Program use was associated with significant gains on both ELPAC subdomains, with a larger effect for the oral subdomain (0.224 SD) than the written subdomain (0.153 SD)](../claims/call-program-oral-subdomain-larger-effect-than-written.md) [+W] — instruction changes it
+- [Bilingual immunology teaching significantly improves professional English proficiency among Chinese undergraduates](../claims/bilingual-immunology-teaching-improves-professional-english-proficiency.md) [+M] — instruction changes it
+- [Bilingual immunology teaching significantly improves undergraduates' competence in English application](../claims/bilingual-immunology-teaching-improves-english-application.md) [+M] — instruction changes it
+- [Bilingual teaching benefits on course performance may not extend to second-year students who already meet an English proficiency threshold](../claims/bilingual-immunology-benefits-vary-by-grade-level.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Do learners classified as English learners reach lower achievement and attainment than their peers, and does the gap hold for those who reach proficiency?* [ELs lag behind peers in achievement and attainment partly due to limited exposure to academic content](../claims/el-lag-limited-academic-content-exposure.md) [+M]

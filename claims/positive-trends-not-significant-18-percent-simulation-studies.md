@@ -48,4 +48,5 @@ Narrative synthesis across the 16 included studies in the review's results secti
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
 - [Simulation-based education studies in pediatric and neonatal critical care more consistently report system-level process improvements (Level 4a) than significant direct patient-level outcome improvements (Level 4b)](sbe-system-process-outcomes-outweigh-patient-outcomes-pediatric-critical-care.md) — related
-- [Single-center simulation studies were more likely to demonstrate significant patient-outcome improvements than multicenter studies](single-center-studies-more-likely-significant-patient-outcomes.md) — related
+- Single-center simulation studies were more likely to demonstrate significant patient-outcome improvements than multicenter studies — related
+- [Evidence on transfer to clinical behavior and patient outcomes is scarce: only 2 studies reached Kirkpatrick level 3 and 1 reached level 4](transfer-and-patient-outcomes-scarce.md) — related

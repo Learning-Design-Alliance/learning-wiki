@@ -89,3 +89,4 @@ For the third open question, "Most of the responses (70.5%) indicated that iVR e
 - [Students learning with iVR reported higher motivation but the control group felt they retained and understood concepts better](ivr-higher-motivation-control-better-retention-feeling.md) — related
 - [GPT4-coded sentiment of students' open-ended general feedback about the intervention was overwhelmingly positive](positive-sentiment-open-ended-feedback.md) — related
 - [Students who perceived the class performance level as higher reported lower situational self-concept in the IVR classroom](higher-perceived-performance-lowers-situational-self-concept.md) — related
+- [The most frequently reported challenge of virtual simulation teaching is its lack of realism, alongside operational complexity, English-language demands, cultural mismatch, and adverse physical reactions](vs-challenges-realism-and-usability.md) — related

@@ -47,6 +47,6 @@ Final RVE meta-regression model (Model 5, Table 6) after removing nonsignificant
 ## Related Claims
 - [App quality ratings are not significantly associated with mean effect sizes controlling for assessment type](app-quality-not-associated-with-effects.md) — related
 - [App effects are larger in studies of preschool children than kindergarten to Grade 3 children](apps-larger-effects-preschool-than-k3.md) — related
-- [Studies using researcher-developed outcomes yield effects about 0.42 SD larger than studies using standardized outcomes](researcher-developed-outcomes-larger-app-effects.md) — related
+- Studies using researcher-developed outcomes yield effects about 0.42 SD larger than studies using standardized outcomes — related
 - [Educational apps produce a positive mean effect of about +0.31 standard deviations on preschool to Grade 3 children's literacy and math achievement](educational-apps-mean-effect-0-31-preschool-grade3.md) — related
 - [App effects on literacy (g = 0.35) and math (g = 0.29) are comparable](apps-comparable-literacy-math-effects.md) — related

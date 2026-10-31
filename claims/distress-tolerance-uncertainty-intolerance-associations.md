@@ -57,3 +57,5 @@ Narrative review attribution: the article reports that empirical studies have "c
 - [Epistemological beliefs relate to tolerance of uncertainty: evaluativist approaches pair better with uncertainty in problem-solving than absolutist ones](epistemological-beliefs-uncertainty-tolerance.md) — related
 - [Psychological distress, particularly depression, consistently predicted poorer academic outcomes among university students across the reviewed literature](distress-predicts-poorer-academic-outcomes-university-students.md) — related
 - [Internet addiction shows strong comorbidity with depression, anxiety, and stress among health sciences students](ia-mental-health-comorbidity-strong.md) — related
+- [Emotional regulation, especially tolerance of uncertainty, supports physicians' management of clinical uncertainty](emotion-regulation-supports-uncertainty-management.md) — related
+- [Stress, anxiety, and depressive symptoms show predominantly negative associations with academic performance in medical students](stress-anxiety-depression-negative-association-medical-students.md) — related

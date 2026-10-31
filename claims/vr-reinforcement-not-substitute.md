@@ -84,3 +84,5 @@ Discussion-level interpretation (attributed by the review to Hamilton et al., 20
 - [Affective outcomes of virtual-laboratory modalities are divided and interact with learners' initial attitude profiles](affective-outcomes-divided-moderated-by-attitudes.md) — related
 - [Several included studies found haptic VR training equivalent rather than superior to conventional dental training](ir-dental-equivalence-mixed-findings.md) — related
 - [Immersive reality training produced higher knowledge and skill scores than conventional training in dental studies](ir-improves-dental-knowledge-skill-scores.md) — a narrower finding that bears on this claim
+- [Three comparative studies reported superior outcomes for distance simulation over traditional training, involving augmented reality telementoring, remote robotic teaching, and a virtual classroom](distance-simulation-superior-outcomes-three-studies.md) — related
+- [The most frequently reported challenge of virtual simulation teaching is its lack of realism, alongside operational complexity, English-language demands, cultural mismatch, and adverse physical reactions](vs-challenges-realism-and-usability.md) — related

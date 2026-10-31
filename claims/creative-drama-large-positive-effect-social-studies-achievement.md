@@ -45,7 +45,7 @@ Meta-analysis of 19 Turkish experimental studies (4 articles, 15 theses) on crea
 
 
 ## Related Claims
-- [Studies published as articles showed a higher effect size (d = 1.486) than theses (d = 1.113) for creative drama in Social Studies](article-type-studies-higher-effect-than-theses.md) — related
+- Studies published as articles showed a higher effect size (d = 1.486) than theses (d = 1.113) for creative drama in Social Studies — related
 - [The creative drama method has a large positive effect on students' skill development](creative-drama-large-effect-skills.md) — related
 - [Creative drama-based learning has a large positive effect on academic success in Turkish language instruction (REM ES = 1.712)](creative-drama-large-effect-turkish.md) — related
 - [The drama approach has a strong positive effect on students' academic achievement in social studies courses compared with traditional teaching](drama-approach-strong-positive-effect-social-studies-achievement.md) — possibly the same claim (merge candidate)

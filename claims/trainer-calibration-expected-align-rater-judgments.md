@@ -52,3 +52,4 @@ Theoretical expectation (Expectation 3) grounded in cited evidence that rater tr
 - [A Gemini-based creativity autorater scores real students' complex multimedia creativity tasks on par with human experts (item Kappa 0.66; total-score Pearson r = 0.88)](gemini-autorater-creativity-real-students.md) — related
 - [The Trainer is expected to develop feedback literacy capacities](trainer-expected-develop-feedback-literacy.md) — related
 - [The Trainer is expected to make peer comments more specific, criterion-referenced, and evidence-based](trainer-expected-improve-comment-quality.md) — related
+- [Organized training with rubrics reduces the gap between student self-assessment and educator judgment](rubric-training-reduces-self-assessment-bias.md) — a narrower finding that bears on this claim

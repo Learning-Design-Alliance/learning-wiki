@@ -52,3 +52,4 @@ Qualitative phenomenological pilot: two focus groups with a total of 10 first- a
 - [Students recommend integrating computer-based simulation cases into each course to make learning more concrete](students-recommend-simulation-in-each-course.md) — related
 - Students who reported their teacher was more knowledgeable with the program perceived education technology as more beneficial — related
 - [Trainees learn more from simulation games when they have unlimited access to the game](unlimited-access-enhances-simulation-game-learning.md) — a broader claim this one bears on
+- [Two included studies allowed participants to act on feedback from an earlier simulation attempt, enabling a 'second go'](second-go-feedback-iteration-simulation.md) — related

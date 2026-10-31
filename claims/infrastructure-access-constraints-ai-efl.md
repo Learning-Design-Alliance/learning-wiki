@@ -67,3 +67,4 @@ Study-level frequency analysis across the 54 included studies identifies infrast
 - [The university's network and email infrastructure was unreliable enough to disrupt a time-critical process, with components unavailable for nearly 3 weeks](network-infrastructure-inadequate-for-time-critical-systems.md) — a narrower finding that bears on this claim
 - [Trails were only partially successful technologically due to device and network problems](trails-partially-successful-technologically.md) — a narrower finding that bears on this claim
 - [Time allocation and power are the dominant reported problems in implementing JAS](jas-time-and-power-problems.md) — related
+- [Design features such as straightforward access, mobile-ready platforms, self-paced modular formats, and scenario-based content are reported facilitators of e-learning implementation](e-learning-design-features-facilitators-accessibility-self-paced-scenario.md) — related

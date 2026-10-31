@@ -49,6 +49,8 @@ The review's synthesized design strategies position AI simulations as complement
 - [Use fidelity-aware simulated patients as a low-risk complement to supervision for deliberate psychotherapy practice](fidelity-aware-simulated-patients-deliberate-practice.md)
 - [Deploy AI-assisted classroom observation as a complementary first-pass screening and reflection tool, with raters retaining interpretive judgment](ai-assisted-observation-complementary-screening-strategy.md)
 - [Combine real people and artificial agents as complements in blended learning environments](blending-human-teachers-and-agents.md)
+- [Integrate complementary methods — simulations, feedback, and targeted tools — into mental health nurse training and assessment](integrate-simulations-feedback-targeted-tools-mhn-assessment.md)
+- [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 
 ## Examples
 -

@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 160 claims (108 show a difference, 32 mixed, 20 no difference) · 119 studies (36 causal, 30 associational, 23 review, 13 quant-synthesis, 7 qualitative, 7 design, 3 theoretical), `q1`–`q4` · 25 of 119 report an effect size · 155 claims rest on one study
+> **Evidence** · 161 claims (109 show a difference, 32 mixed, 20 no difference) · 120 studies (36 causal, 30 associational, 23 review, 14 quant-synthesis, 7 qualitative, 7 design, 3 theoretical), `q1`–`q4` · 25 of 120 report an effect size · 156 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -198,6 +198,7 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Research findings on screens and ADHD/attention are contradictory: some studies link prolonged screen exposure to reduced attention and increased hyperactivity, while a recent longitudinal study finds no effect on hyperactivity or attention.](../claims/contradictory-screen-attention-adhd-findings.md) [~M] — instruction changes it
 - [Classroom physical activity breaks show strong evidence of improving sustained attention in university students](../claims/pa-breaks-sustained-attention-university-strong-evidence.md) [+W] — instruction changes it
 - [Behavioral classroom management improves teacher-rated ADHD symptoms (SMD = 0.66) and teacher-rated impairment (SMD = 0.72) in children with ADHD](../claims/behavioral-classroom-management-teacher-ratings-066-072.md) [+M] — instruction changes it
+- [Pre-operative errors stem largely from insufficient preparation, including setup issues and cognitive distractions that affect accuracy](../claims/preoperative-preparation-and-distraction-errors.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

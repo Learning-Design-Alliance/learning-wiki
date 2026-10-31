@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+recheck_by: 2031
 sources:
   - id: asraf-suadah-ismail-2026
     resource: "https://doi.org/10.1111/idh.70076"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Graduating dental hygiene students reported 100% confidence in clinical therapy and collaboration but 20% confidence in policy use and 11% in advocacy (2019 cohort). [→ Asraf Suadah Ismail 2026](#asraf-suadah-ismail-2026)

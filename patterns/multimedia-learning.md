@@ -25,7 +25,7 @@ sources:
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 102 claims (43 for, 56 mixed, 3 against) · 78 studies (47 causal, 11 review, 10 quant-synthesis, 4 theoretical, 2 associational, 2 qualitative, 2 design), `q1`–`q4` · 20 of 78 report an effect size · 93 claims rest on one study
+> **Evidence** · 103 claims (43 for, 57 mixed, 3 against) · 79 studies (47 causal, 12 review, 10 quant-synthesis, 4 theoretical, 2 associational, 2 qualitative, 2 design), `q1`–`q4` · 20 of 79 report an effect size · 94 claims rest on one study
 
 ## Description and scope
 
@@ -167,6 +167,7 @@ This pattern is scoped to explanations of structures, processes and relations pr
 - [Instructional video clips improved macroeconomics test scores relative to control](../claims/instructional-video-clips-improve-macroeconomics-test-scores.md) [+W]
 - [Adding visuals of the instructor to online video lectures impairs comprehension relative to audio-only and audio+text formats](../claims/instructor-visuals-impair-lecture-comprehension.md) [-W]
 - [Modality shows no major role in students' source citations or global source memory](../claims/no-modality-effect-source-memory-citations.md) [~W]
+- [Combining video-based feedback with verbal feedback enhanced both skill acquisition and knowledge retention](../claims/video-plus-verbal-feedback-enhances-retention.md) [~W]
 
 ## Examples
 

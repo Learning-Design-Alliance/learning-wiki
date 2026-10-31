@@ -46,7 +46,7 @@ Meta-regression on the 129 effect sizes categorized as prelinguistic (k = 13, n 
 
 ## Related Claims
 - [For linguistic outcomes, long-term effects were larger for children with DLD (g = .36, marginal) than for autistic children (g = .01, nonsignificant)](dld-vs-autism-linguistic-long-term-effects.md) — related
-- [Funnel-plot analyses showed no significant asymmetry, and the overall effect remained significant after removing outliers](no-significant-funnel-plot-asymmetry.md) — related
+- Funnel-plot analyses showed no significant asymmetry, and the overall effect remained significant after removing outliers — related
 - [Posttest effect sizes significantly predict long-term effect sizes for both prelinguistic and linguistic outcomes](posttest-effects-predict-long-term-effects.md) — related
 - [Time between intervention and follow-up did not significantly predict long-term effect sizes](time-to-follow-up-not-significant-predictor.md) — related
-- [In randomized trials, long-term outcomes rated high risk of bias had larger significant effects (g = .29) than low/some-concerns outcomes (g = .07, nonsignificant)](high-risk-of-bias-rcts-larger-long-term-effects.md) — related
+- In randomized trials, long-term outcomes rated high risk of bias had larger significant effects (g = .29) than low/some-concerns outcomes (g = .07, nonsignificant) — related

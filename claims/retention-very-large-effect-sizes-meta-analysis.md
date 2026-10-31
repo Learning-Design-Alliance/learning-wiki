@@ -46,7 +46,7 @@ Meta-analysis of the nine retention studies reporting Hedges' d values by applic
 
 ## Related Claims
 - [Among applications for retention of pre-service teachers, the Learning Together Technique had the highest effect size (d=2,0606, huge) and the Jigsaw Technique the lowest (d=0,5461, medium)](learning-together-highest-retention-jigsaw-lowest-meta-analysis.md) — related
-- [The meta-analysis corpus comprised 23 studies (9 retention, 14 attitude) with a total of 1204 pre-service teachers across experimental and control groups](meta-analysis-corpus-23-studies-1204-pre-service-teachers.md) — related
+- The meta-analysis corpus comprised 23 studies (9 retention, 14 attitude) with a total of 1204 pre-service teachers across experimental and control groups — related
 - [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](reflective-practice-evidence-mixed-in-professional-education.md) — related
 - [Attitude effect sizes of other applications ranged from negligible (Project Based Learning, d=-0,3678) to very large (Guess-Observe-Explain Method, d=1,0249)](attitude-effect-size-range-other-applications.md) — related
 - [For attitude of pre-service teachers, Transformative Learning Theory had the highest effect size (d=1,4760, huge) and Problem Based Learning the lowest (d=-0,3949, classified as negligible)](transformative-learning-highest-attitude-pbl-lowest.md) — related

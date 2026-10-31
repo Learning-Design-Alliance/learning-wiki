@@ -68,10 +68,10 @@ Publication bias assessment using funnel plots, Kendall's Tau, Egger's regressio
 - [Publication bias tests indicate the pooled flipped classroom effect is unlikely to be inflated by publication bias](flipped-classroom-meta-analysis-publication-bias-robust.md) — reports the opposite
 - [Flipped classroom interventions produce a small positive effect on continuous learning outcomes, around one fifth of a standard deviation after correcting for small-study bias](flipped-classroom-small-positive-learning-effect.md) — related
 - [Publication bias is present in the Turkish flipped learning literature, and correcting it lowers the pooled effect from 0.895 to 0.713](flipped-learning-publication-bias-turkey.md) — related
-- [The meta-analysis shows signs of publication bias, with smaller studies tending to give more positive results than larger studies](publication-bias-gloss-meta-analysis.md) — possibly the same claim (merge candidate)
-- [Small sample sizes and publication bias against non-significant findings may inflate meta-analytic effect size estimates in the chemistry teaching-method categories](small-samples-publication-bias-inflate-chemistry-es.md) — related
+- The meta-analysis shows signs of publication bias, with smaller studies tending to give more positive results than larger studies — possibly the same claim (merge candidate)
+- Small sample sizes and publication bias against non-significant findings may inflate meta-analytic effect size estimates in the chemistry teaching-method categories — related
 - [Funnel-plot asymmetry ran contrary to small-study effects because larger-sample studies reported larger effect sizes, likely reflecting longer training programs](funnel-asymmetry-contrary-to-small-study-effects.md) — reports the opposite
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](srl-meta-analysis-publication-bias-absent.md) — related
 - [Testing student preparation is associated with slightly higher learning gains in flipped classroom implementations](test-of-preparation-moderates-flipped-learning.md) — related
-- [Publication year significantly moderates flipped classroom effect sizes in meta-regression](flipped-classroom-effect-sizes-publication-year-moderation.md) — related
-- [No evidence of publication bias was found in the flipped classroom literature, though dissertations showed a larger (non-significantly different) effect size than journal articles](flipped-classroom-no-publication-bias.md) — related
+- Publication year significantly moderates flipped classroom effect sizes in meta-regression — related
+- No evidence of publication bias was found in the flipped classroom literature, though dissertations showed a larger (non-significantly different) effect size than journal articles — related

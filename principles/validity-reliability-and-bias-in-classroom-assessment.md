@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 314 claims (133 for, 158 mixed, 23 against) · 238 studies (89 associational, 61 design, 32 review, 25 theoretical, 22 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 20 of 238 report an effect size · 307 claims rest on one study
+> **Evidence** · 316 claims (135 for, 158 mixed, 23 against) · 240 studies (89 associational, 61 design, 34 review, 25 theoretical, 22 causal, 6 quant-synthesis, 3 qualitative), `q1`–`q3` · 20 of 240 report an effect size · 309 claims rest on one study
 
 ## Conditional relationship
 
@@ -388,6 +388,8 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Only about 62% of the reliable variance in total DL scores is attributable to the general dimension, supporting a multidimensional interpretation](../claims/dl-general-dimension-62-percent-reliable-variance.md) [~W]
 - [Expert graders show high agreement among themselves when scoring a written exam on first degree equations](../claims/expert-inter-rater-agreement-high-written-exam.md) [~W]
 - [The abbreviated 21-item German CTt shows adequate reliability and a unidimensional factor structure for primary school children](../claims/abbreviated-ctt-reliability-primary-school.md) [+W]
+- [Rubrics enhance grading consistency and inter-rater reliability in dental education assessment](../claims/rubrics-enhance-grading-consistency-dental-education.md) [+W]
+- [AI-based assessment of therapeutic communication skills showed high reliability (ICC > 0.97) in a cited quasi-experimental nursing study](../claims/ai-communication-assessment-high-reliability.md) [+W]
 
 ## Related Principles
 - [Criterion- and Norm-Referenced Testing](criterion-and-norm-referenced-testing.md) — validity and reliability apply to standardized as well as teacher-made assessments, with additional considerations

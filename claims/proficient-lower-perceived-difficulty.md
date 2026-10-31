@@ -54,3 +54,4 @@ A Kruskal-Wallis test on the single-item 10-point perceived difficulty measure (
 - [Prior coding experience correlates positively with digital literacy and coding comfort and negatively with perceived task difficulty](coding-experience-correlates-ct-skills.md) — related
 - [Novice K-12 students face multiple documented difficulties when learning STEM and CT simultaneously through learning-by-modeling, including translating domain knowledge into computational form and debugging model behaviors.](student-difficulties-learning-by-modeling-stem-ct.md) — related
 - [Higher perceived difficulty was associated with lower knowledge acquisition for samples](perceived-difficulty-moderates-knowledge.md) — related
+- [Sensor-based force measurement discriminates skill levels, with experts suturing faster and with lower applied force than novices](force-sensing-discriminates-surgical-skill.md) — related

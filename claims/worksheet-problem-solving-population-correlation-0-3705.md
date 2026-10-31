@@ -45,7 +45,7 @@ Correlation-based synthesis after transforming F and t statistics to r values ac
 
 
 ## Related Claims
-- [Sampling error accounts for only 0.015% of the variance, suggesting small bias from sampling error](worksheet-meta-analysis-sampling-error-0-015-percent.md) — related
+- Sampling error accounts for only 0.015% of the variance, suggesting small bias from sampling error — related
 - [Worksheets have a positive effect on students' problem-solving skills, with a pooled effect size of 1.281 (very high level)](worksheets-positive-effect-problem-solving-meta-analysis.md) — related
 - [The positive worksheet effect was obtained mainly in secondary-school studies with large samples (more than 30 students) and random sampling](worksheet-effect-secondary-large-random-samples.md) — related
-- [The meta-analysis corpus comprised 40 studies yielding 45 data comparisons from 2013-2022](worksheet-meta-analysis-40-studies-45-comparisons.md) — related
+- The meta-analysis corpus comprised 40 studies yielding 45 data comparisons from 2013-2022 — related

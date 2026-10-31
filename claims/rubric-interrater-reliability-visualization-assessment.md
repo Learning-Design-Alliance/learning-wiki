@@ -53,3 +53,4 @@ Two authors independently scored all blinded submissions across T0–T2 after ca
 - [Doctoral students' conceptual understanding of data visualization declined significantly over twelve months following structured instruction](conceptual-visualization-knowledge-declines-twelve-months.md) — related
 - A structured negotiated-coding process reached nearly 98% interrater agreement before machine learning — related
 - The review's corpus comprises 39 peer-reviewed articles selected via a PRISMA protocol with substantial screening agreement — related
+- [Rubrics enhance grading consistency and inter-rater reliability in dental education assessment](rubrics-enhance-grading-consistency-dental-education.md) — a broader claim this one bears on

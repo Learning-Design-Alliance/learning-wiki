@@ -45,11 +45,11 @@ Moderator analysis by publication type (Table 5): doctoral thesis (5 studies, ES
 
 
 ## Related Claims
-- [Effect size of creative drama on skills varies significantly by publication type, with theses showing larger effects than articles](creative-drama-publication-type-moderator.md) — related
+- Effect size of creative drama on skills varies significantly by publication type, with theses showing larger effects than articles — related
 - [Educational level does not significantly moderate the effect of constructivism on attitudes towards lessons](education-level-not-significant-moderator-constructivism-attitudes.md) — related
 - [Lesson subject significantly moderates the effect of constructivism on attitudes: positive for science and technology and other subjects, not significant for mathematics](lesson-subject-moderates-constructivism-attitude-effect.md) — related
-- [The effect of multiple intelligence practices does not differ significantly by type of study (article, master's thesis, doctoral thesis)](mi-effect-no-difference-study-type.md) — related
-- [Effect sizes differ significantly by publication type, with master's theses and articles showing higher effects than PhD theses.](moderator-publication-type-effect.md) — reports the opposite
+- The effect of multiple intelligence practices does not differ significantly by type of study (article, master's thesis, doctoral thesis) — related
+- Effect sizes differ significantly by publication type, with master's theses and articles showing higher effects than PhD theses. — reports the opposite
 - [Publication type (article vs. thesis) does not significantly moderate the effect of formative assessment on student learning](publication-type-no-moderation-formative-assessment.md) — related
 - [Academic achievement effects of STEM practices differ significantly by publication type and education level but not by lesson type](stem-achievement-moderators-publication-type-education-level.md) — related
 - [Year of publication does not significantly moderate the effect of constructivism on attitudes towards lessons](publication-year-not-significant-moderator-constructivism-attitudes.md) — related

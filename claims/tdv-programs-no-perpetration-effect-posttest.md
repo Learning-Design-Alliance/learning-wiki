@@ -48,5 +48,5 @@ Three-level random-effects meta-analysis of five studies contributing six perpet
 - [Follow-up effects mirror posttest conclusions, with knowledge effects growing and perpetration showing a small significant decrease](tdv-followup-effects-pattern.md) — related
 - [Programs improve conflict tactic skills at posttest (g = 0.18)](tdv-programs-improve-conflict-tactics-posttest.md) — related
 - [School-based teen dating violence prevention programs increase dating violence knowledge at posttest (g = 0.22)](tdv-programs-increase-knowledge-posttest.md) — related
-- [Random versus nonrandom assignment moderates posttest effects for only one of five outcomes](assignment-moderator-tdv-outcomes.md) — related
+- Random versus nonrandom assignment moderates posttest effects for only one of five outcomes — related
 - [SWPBIS reduces the rate of increase in teacher-reported bullying perpetration over elementary school](swpbis-reduces-growth-teacher-reported-bullying.md) — related

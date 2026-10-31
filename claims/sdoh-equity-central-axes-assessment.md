@@ -45,6 +45,6 @@ Narrative synthesis finding, the second dominant pattern. The review also states
 
 
 ## Related Claims
-- [The evidence base on public health competency assessment in undergraduate medical education comprises 30 studies with marked methodological heterogeneity across designs](scoping-review-30-studies-heterogeneous-designs.md) — a broader claim this one bears on
+- The evidence base on public health competency assessment in undergraduate medical education comprises 30 studies with marked methodological heterogeneity across designs — a broader claim this one bears on
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
 - [A progressive transition from knowledge-centred assessment towards performance-based and experiential assessment is evident across the included studies](transition-knowledge-to-performance-based-assessment.md) — related

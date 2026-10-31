@@ -68,4 +68,4 @@ LRR analysis of the same moderator: studies with three or more modes had the lar
 - [Communicative function taught (behavioral regulation, joint attention, social interaction, or multiple) does not statistically moderate AAC effects](communicative-function-no-moderation.md) — related
 - [Type of communication mode shows only a marginal, non-robust moderation of AAC effects, with aided AAC descriptively outperforming manual signs/gestures](communication-mode-type-weak-moderation.md) — related
 - [Aided versus unaided AAC does not statistically moderate AAC effects, though exclusive aided AAC descriptively yields the largest estimates](aided-vs-unaided-aac-no-significant-difference.md) — related
-- [Under-reported participant characteristics and implementation factors, plus effect-size metric limitations, explain the scarcity of significant moderator differences](aac-moderator-nulls-attributed-underreporting.md) — related
+- Under-reported participant characteristics and implementation factors, plus effect-size metric limitations, explain the scarcity of significant moderator differences — related

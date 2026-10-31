@@ -64,8 +64,8 @@ The review's synthesis of removing-TCSM comparisons (B-A1) in the ABAB studies, 
 
 
 ## Related Claims
-- [Visual inspection showed strong experimental control in two studies, moderate-to-strong in three, and mixed in one of eight evaluable TCSM studies](tcsm-experimental-control-visual-inspection.md) — related
+- Visual inspection showed strong experimental control in two studies, moderate-to-strong in three, and mixed in one of eight evaluable TCSM studies — related
 - [Tactile-cued self-monitoring interventions show moderate to strong effects, with calculated Phi effect sizes ranging from 0.18 to 0.89 across 34 phase comparisons](tcsm-moderate-strong-phi-effects.md) — a broader claim this one bears on
 - [Self Monitoring Improves On Task Behavior](self-monitoring-improves-on-task-behavior.md) — related
 - [Most TCSM studies targeted students with disabilities aged 10–15 (17 of 22 male), mainly in special education classrooms, using the MotivAider in seven of nine studies](tcsm-descriptive-participant-setting-profile.md) — related
-- [TCSM intervention research is recent: no qualifying studies were published from 1973 through 2002, and five of nine appeared in 2012–2013](tcsm-recent-emerging-evidence-base.md) — related
+- TCSM intervention research is recent: no qualifying studies were published from 1973 through 2002, and five of nine appeared in 2012–2013 — related

@@ -13,7 +13,7 @@ generated:
 # Oral Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 121 claims (68 show a difference, 29 mixed, 24 no difference) · 86 studies (30 associational, 19 review, 17 causal, 16 quant-synthesis, 2 design, 2 theoretical), `q1`–`q3` · 28 of 86 report an effect size · 118 claims rest on one study
+> **Evidence** · 124 claims (70 show a difference, 30 mixed, 24 no difference) · 88 studies (30 associational, 20 review, 17 causal, 17 quant-synthesis, 2 design, 2 theoretical), `q1`–`q3` · 29 of 88 report an effect size · 121 claims rest on one study
 
 ## Description
 Oral language covers the spoken side of language: understanding what is said, using vocabulary and grammar to express ideas, and organising sentences into a coherent account or story. The Learner Variability Navigator includes two factors here: narrative skills, the ability to tell and understand stories, and the broader language skills that support early mathematics as well as reading. Narrative skill is often assessed by asking a child to tell a story from a wordless picture book or sequencing cards and scoring its overall structure and its sentence-level detail; early literacy batteries assess related skills such as vocabulary and phonological awareness.
@@ -158,6 +158,9 @@ It matters most in preschool and the early grades. Telling stories helps childre
 - [Innovative andragogical strategies — simulation, narrative medicine, reflective writing — enhance empathy, compassion, and communication skills in medical students](../claims/innovative-teaching-practices-soft-skills-medical-students.md) [+M] — instruction changes it
 - [Review-reported study: locally produced videos enhanced Chilean EFL learners' English language skills and motivation](../claims/review-reported-videos-enhance-efl-skills-motivation.md) [+M] — instruction changes it
 - [The effect of CMC on L2 learning was not equal across the four language skills (listening, speaking, reading, writing)](../claims/cmc-effect-unequal-across-language-skills.md) [~M] — instruction changes it
+- [A six-week lyric gap-fill program improved listening comprehension scores and self-reported engagement among Korean university students](../claims/lyric-gap-fill-comprehension-gains.md) [+M] — instruction changes it
+- [Background music with lyrics impaired reading comprehension and listening performance, especially under high linguistic load](../claims/lyrical-bgm-interference.md) [~M] — instruction changes it
+- [Narrative medicine education improves residents' humanistic care ability and doctor-patient communication compared with lecture-based learning](../claims/narrative-medicine-improves-care-and-communication.md) [+M] — instruction changes it
 
 ## Measures
 - **Story Generation Tasks**: Macrostructure and microstructure of narrative elements can be assessed by having students tell a story using a wordless picture book or sequencing cards.

@@ -139,3 +139,4 @@ Pashler, H., Cepeda, N. J., Wixted, J. T., & Rohrer, D. (2005). When does feedba
 - [Feedback moderates the role of WMC in the testing effect, reducing WM load for low-WMC learners](feedback-as-wm-aid-for-retrieval-practice.md) — a narrower finding that bears on this claim
 - [Feedback played little, if any, role in brain-activity modulation after the first successful retrieval](feedback-little-role-after-first-successful-retrieval.md) — reports the opposite
 - [Going back to easier skills immediately reduces the error rate and increases the learning rate](going-back-improves-error-rate-and-learning-rate.md) — related
+- [Virtual simulation teaching enhances learning outcomes and deepens professional cognition through repeated practice, trial-and-error, and error-correction feedback](vs-advantages-learning-outcomes.md) — related

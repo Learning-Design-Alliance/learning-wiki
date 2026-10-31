@@ -49,5 +49,5 @@ Subgroup moderator analysis in the expanded main synthesis (k = 11). The article
 - [GAI-related and GAI-unrelated AI tools show no significant difference in their moderating effects on K-12 STEM learning outcomes](gai-usage-no-moderating-effect.md) — related
 - [Sample characteristics (immigrant/minority status, L2 status, age) show no significant moderator effects, and several program and delivery features are also nonsignificant](flp-nonsignificant-moderators.md) — related
 - [Effect sizes do not differ significantly by sample size, practice time, or constructivist method used.](moderators-sample-time-method-null.md) — related
-- [Effect of MIT-based instruction does not differ significantly by study sample size](mit-effect-homogeneous-sample-size.md) — related
+- Effect of MIT-based instruction does not differ significantly by study sample size — related
 - [The effect of games on mathematics achievement does not differ significantly by sample size](game-math-effect-no-difference-sample-size.md) — related

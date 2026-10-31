@@ -52,3 +52,4 @@ This is the article's narrative review of prior studies, attributed to the cited
 - [Teachers' expectancy beliefs about successfully using AI applications shape their motivation to use them (theoretical argument).](teacher-expectancy-beliefs-shape-motivation-to-use-ai.md) — related
 - [No previously validated GenAI perception or readiness instrument was designed for both instructors and students in AI-enhanced higher education](no-prior-genai-scale-for-both-faculty-and-students.md) — related
 - [Affective benefits are the strongest predictor of students' e-learning experience with AR learning applications](affective-benefits-strongest-predictor-ar-learning-experience.md) — related
+- [Ethics knowledge and positive future orientation empirically predict AI integration and ethical values in cited studies](ethics-knowledge-predicts-ai-integration.md) — a narrower finding that bears on this claim

@@ -45,6 +45,7 @@ The review concludes that structured teaching, learner engagement, reflection, f
 ## Related Strategies
 
 - [Operationalize the faculty standards through structured professional learning pathways with modules, microcredentials, and peer review](professional-learning-pathways-standards-operationalization.md)
+- [Align pre-clinical curriculum design with core TBL strategies supported by curriculum governance frameworks and faculty development programs](align-tbl-curriculum-governance-faculty-development.md)
 
 ## Examples
 -

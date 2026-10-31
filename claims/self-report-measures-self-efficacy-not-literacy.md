@@ -50,3 +50,4 @@ A conceptual argument in the literature-review section, not a tested result. The
 - [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — a broader claim this one bears on
 - [Questionnaire data may capture learners' perceptions rather than the strategies they actually performed](questionnaires-measure-perception-not-performed-strategies.md) — possibly the same claim (merge candidate)
 - [Findings are limited by perception-based self-report measures and a single online context, requiring further research on generalizability](als-employability-study-limitations-perception-single-context.md) — related
+- [Integrating examination-based and non-examination-based assessments is the most effective strategy for identifying weaknesses in clinical reasoning skills](combined-assessment-approach-clinical-reasoning-identification.md) — related

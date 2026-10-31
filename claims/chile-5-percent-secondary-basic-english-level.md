@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: philominraj-2023
     resource: "https://www.mextesol.net/journal/"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 ## Subclaims
 `q2 i?` A 2010 national diagnostic administered to 11,000 students from 299 public schools showed that only 5% of secondary school students reached the basic requirement level by the end of twelfth grade. [→ Philominraj 2023](#philominraj-2023)
@@ -45,5 +46,5 @@ The review reports, citing the Resultados SIMCE inglés 2010 report and Yilorm &
 
 
 ## Related Claims
-- [Research studies on EFL methodology in Chile (2011–2021) cluster around perceptions and beliefs, core teaching practices, e-learning during COVID-19, motivation, and assessment](chilean-efl-methodology-review-major-topic-areas.md) — related
+- Research studies on EFL methodology in Chile (2011–2021) cluster around perceptions and beliefs, core teaching practices, e-learning during COVID-19, motivation, and assessment — related
 - [English learners lag behind their peers in achievement and attainment; limited exposure to academic content is offered as a partial explanation, not tested](el-lag-limited-academic-content-exposure.md) — related

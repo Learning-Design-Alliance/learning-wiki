@@ -48,4 +48,4 @@ Random effects meta-analysis with RVE of 36 studies and 285 effect sizes. The RV
 - [App effects on literacy (g = 0.35) and math (g = 0.29) are comparable](apps-comparable-literacy-math-effects.md) — related
 - [Educational apps produce effects about 0.17 SD higher on constrained than unconstrained skills](apps-larger-effects-constrained-skills.md) — related
 - [App effects are larger in studies of preschool children than kindergarten to Grade 3 children](apps-larger-effects-preschool-than-k3.md) — related
-- [Studies using researcher-developed outcomes yield effects about 0.42 SD larger than studies using standardized outcomes](researcher-developed-outcomes-larger-app-effects.md) — related
+- Studies using researcher-developed outcomes yield effects about 0.42 SD larger than studies using standardized outcomes — related

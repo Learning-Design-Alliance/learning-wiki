@@ -54,3 +54,4 @@ The review reports, citing Swidan et al. (2019), a dual effect of real-time aler
 - [Response time declined across dashboard trials in all conditions, with no statistically significant difference between mirroring, alerting, and advising conditions](dashboard-trial-practice-reduces-response-time.md) — related
 - [Learning analytics interventions for study success include alerts enabling teachers to give more individual attention, peer-to-peer communication facilitation, and recommendations for adaptive learning materials](la-interventions-alerts-peer-adaptive.md) — related
 - [The review reports that a real-time reading analytics system helped teachers adapt their teaching to students' needs](real-time-analytics-helped-teachers-adapt.md) — related
+- [Feedback devices improved pediatric resuscitation quality but increased subjective workload and shifted visual attention away from the patient](feedback-devices-increase-workload-shift-attention.md) — related

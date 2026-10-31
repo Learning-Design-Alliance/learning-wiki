@@ -57,3 +57,4 @@ Primary linear mixed-effects model (TotalScore ~ Timepoint + Centre + Timepoint�
 - [Heterogeneous learning curves across practitioners create organizational challenges including perceived unfairness](learning-curve-heterogeneity-matthew-effects.md) — related
 - [Exploratory pre-post questionnaire comparisons showed descriptively higher post-program means but no statistically significant differences after Holm adjustment](exploratory-pre-post-null-holm-adjusted.md) — related
 - [VeriForge's integrated workflow is associated with higher one-week delayed recall of domain terms and a higher retention rate (exploratory)](veriforge-delayed-recall-retention-rate.md) — related
+- [AR training accelerates learning curves, with gains retained when AR is removed](ar-accelerates-learning-curve-retention.md) — related

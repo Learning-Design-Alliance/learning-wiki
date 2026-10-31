@@ -18,7 +18,7 @@ sources:
 # Procedural Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 32 claims (18 for, 13 mixed, 1 against) · 49 studies (25 causal, 9 review, 7 theoretical, 6 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 4 of 49 report an effect size · 22 claims rest on one study
+> **Evidence** · 33 claims (18 for, 14 mixed, 1 against) · 50 studies (25 causal, 10 review, 7 theoretical, 6 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 4 of 50 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -157,6 +157,7 @@ Accuracy with help, unaided accuracy, speed, delayed retention, choice among pro
 - [Practice substantially improves numerical accuracy in rule sums, and in School B this carried over to better numerical accuracy within problem work](../claims/winch-1910-numerical-accuracy-gains-within-domain.md) [+W]
 - [No retrograde interference: forgetting after months is comparable for early- and late-trained tasks (Experiment 1B)](../claims/no-retrograde-interference-retention-exp1b.md) [~W]
 - [Demonstration-based CPR training tended to produce more accurate performance than lecture-based approaches](../claims/demonstration-beats-lecture-cpr-training.md) [+W]
+- [Combining video-based feedback with verbal feedback enhanced both skill acquisition and knowledge retention](../claims/video-plus-verbal-feedback-enhances-retention.md) [~W]
 
 ## Related Principles
 - [Explicit Instruction](direct-instruction.md) — often supplies the visible model and sequence that procedural learning needs

@@ -73,3 +73,4 @@ Systematic review synthesis of challenges across the 23 studies (RQ4, Fig. 7), i
 - [Technical challenges include lack of stability, security, and limitations in modeling complex learning behaviors](technical-challenges-srl-recommenders.md) — related
 - [Teachers identified cost, bulky headsets, Wi-Fi connectivity, and technical issues as key challenges to integrating VR into ML2 teaching](vr-challenges-cost-headsets-wifi.md) — a narrower finding that bears on this claim
 - [AI-generated virtual patients exhibit limitations including inauthentic conversational flow, excessive agreeableness, role departure, and clinical inaccuracy](ai-virtual-patient-limitations-flow-agreeableness-role-departure.md) — related
+- [Learner perceptions of GenAI-supported virtual patients were positive across 14 of the 15 reviewed studies](genai-vp-positive-learner-perceptions.md) — related

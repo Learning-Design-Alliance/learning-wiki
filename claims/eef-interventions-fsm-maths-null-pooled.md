@@ -50,4 +50,4 @@ IPD meta-analysis of 48 maths trials (89,247 FSM pupils). The report states "the
 - [Literacy benefits for FSM pupils were greatest in Key Stage 1 (ES 0.09) and Key Stage 3 (ES 0.08) and smallest in Key Stages 2 and 4](eef-fsm-literacy-key-stage-pattern.md) — related
 - [Mathematics effects on FSM pupils differed by outcome status: near-zero as primary outcome (0.01) and negative as secondary outcome (-0.07)](fsm-maths-primary-secondary-outcome-split.md) — related
 - [Small group and one-to-one interventions produced larger literacy gains for FSM pupils than whole class or whole school approaches](small-group-one-to-one-literacy-fsm-largest.md) — related
-- [The simplified IPD model produced a greater pooled literacy effect size than two-stage meta-analysis models](sipd-greater-literacy-effect-than-two-stage.md) — related
+- The simplified IPD model produced a greater pooled literacy effect size than two-stage meta-analysis models — related

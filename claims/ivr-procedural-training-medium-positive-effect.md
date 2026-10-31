@@ -51,3 +51,4 @@ Meta-analysis of media-comparison studies (16 experimental results from 11 studi
 - [Knowledge transfer outcomes show the largest effect sizes of immersive procedural training (g = 1.80), while knowledge gain and retention effects are not significant](ivr-knowledge-transfer-largest-effect.md) — a narrower finding that bears on this claim
 - [VR improved movement-based transfer test performance versus reading in security training, while learning in VR without the possibility to act was detrimental](vr-transfer-benefit-but-actionless-vr-detrimental.md) — related
 - [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — related
+- [Immersive and non-immersive VR video formats showed no significant difference in learning success for clinical procedures, though immersive VR was rated more positively](immersive-vs-non-immersive-vr-no-learning-difference.md) — reports the opposite

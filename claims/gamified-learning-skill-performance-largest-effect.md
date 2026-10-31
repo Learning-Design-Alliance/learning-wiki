@@ -52,3 +52,4 @@ Random-effects meta-analysis of 10 randomized controlled trials pooling 856 unde
 - [Gamified web and mobile learning show moderate knowledge effects with greater variability than serious games](gamified-web-mobile-moderate-knowledge-effects.md) — related
 - [Standalone serious games show large, relatively consistent effects on knowledge acquisition compared with other gamification categories](serious-games-consistent-knowledge-effects.md) — related
 - [Structured clinical performance shows the largest pooled signal (SMD 3.39) but rests on a very small evidence base](llm-teaching-structured-clinical-performance-large-signal.md) — related
+- [IVR simulation does not significantly improve nursing students' skill performance](ivr-no-significant-skill-performance-effect.md) — related

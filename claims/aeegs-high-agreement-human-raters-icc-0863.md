@@ -54,3 +54,4 @@ Correlational study comparing AEEGS scores with those of 12 human raters, each m
 - [The automated scoring system's agreement with human raters varied widely by dimension, with information fidelity showing a weak, non-significant correlation](yunyi-human-agreement-varies-by-dimension.md) — related
 - [Automated essay scoring can achieve high agreement with human raters but faces calibration constraints](aes-high-agreement-calibration-constraint.md) — related
 - [Out-of-the-box LLMs agree with human essay grades far less than human raters agree with each other](llm-essay-scoring-weak-human-agreement.md) — related
+- [AI-based assessment of therapeutic communication skills showed high reliability (ICC > 0.97) in a cited quasi-experimental nursing study](ai-communication-assessment-high-reliability.md) — related

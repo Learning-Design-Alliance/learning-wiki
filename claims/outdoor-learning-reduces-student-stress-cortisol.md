@@ -73,3 +73,4 @@ The review reports a null result from Greenwood and Gatersleben's RCT with 120 s
 - [Nature exposure relieves stress in learners, including experimentally demonstrated reductions in heart rate and self-reported stress](nature-exposure-reduces-learner-stress.md) — related
 - [The TSST-G stress induction increased negative affect and cortisol relative to control](tsst-g-manipulation-check-affect-cortisol.md) — related
 - [Effects of nature exposure on divergent thinking are mixed: five of eight reviewed studies showed significant effects while others found null or partial effects](divergent-thinking-nature-effects-mixed.md) — related
+- Only a limited subset of student lifestyle-cognition studies include direct biological or psychophysiological measures — related

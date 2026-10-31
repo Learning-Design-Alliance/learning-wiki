@@ -52,3 +52,4 @@ Robust variance random-effects meta-analysis pooling cynicism–achievement corr
 - [Total academic burnout is significantly negatively related to academic achievement (rc+ = −.24)](total-burnout-negative-achievement-meta-analysis.md) — related
 - [Teacher ill-being shows a small negative association with student motivation and achievement (r = –.13)](teacher-ill-being-negative-student-outcomes-r13.md) — related
 - [The burnout–dropout intentions association is moderated by burnout dimension, being highest for cynicism](burnout-dimension-moderates-dropout-intentions.md) — related
+- [Higher burnout is associated with poorer academic outcomes in medical students](burnout-associated-poorer-academic-outcomes-medical-students.md) — a broader claim this one bears on

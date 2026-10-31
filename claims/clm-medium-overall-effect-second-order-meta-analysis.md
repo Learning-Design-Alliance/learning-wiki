@@ -49,5 +49,5 @@ Second-order meta-analysis under a random effect model combining 19 first-order 
 - [Constructivist learning models show high-level effects on thinking skills (ES=.88) and academic success (ES=.81) but a medium-level effect on attitudes (ES=.51)](clm-effect-varies-by-outcome-type.md) — a narrower finding that bears on this claim
 - [Cooperative learning models have a moderate average effect on student learning outcomes across 23 first-order meta-analyses](cooperative-learning-moderate-overall-effect-second-order.md) — related
 - [The effect of cooperative learning differs by the location of the meta-analysis studies, with single-country studies showing higher effects than mixed-country studies](cooperative-learning-location-moderator.md) — related
-- [Publication bias in the dataset is low and unimportant: Egger's test is non-significant and the trim-and-fill adjusted effect size (ES=.76) differs from the observed value by only about .02](clm-dataset-low-publication-bias.md) — related
+- Publication bias in the dataset is low and unimportant: Egger's test is non-significant and the trim-and-fill adjusted effect size (ES=.76) differs from the observed value by only about .02 — related
 - [Mean effect sizes across the 13 reviewed meta-analyses ranged from -.11 to .57](mean-effect-sizes-range-negative-11-to-57.md) — related

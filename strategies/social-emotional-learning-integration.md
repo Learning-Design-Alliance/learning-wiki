@@ -66,6 +66,7 @@ Integrated SEL improves both behavioral and academic outcomes, with meta-analyti
 - [Implement Connect Science through a staged professional development sequence with coaching and reflective practice](connect-science-staged-pd-sequence.md)
 - [Embed algorithmic thinking lessons across content, standalone, SEL, problem-based, and review contexts](when-to-teach-algorithms-five-contexts.md)
 - [Embed brief daily wellbeing check-ins across academic courses to build student-teacher connection](brief-daily-wellbeing-check-ins.md)
+- [Integrate social-emotional learning into school programs alongside academic content](integrate-sel-curricula-academic-content.md)
 
 ## Examples
 - **[RULER](https://www.rulerapproach.org)** (Yale Center for Emotional Intelligence) — integrates emotion-labeling tools (mood meter, meta-moment) into classroom routines and academic work.

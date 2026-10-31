@@ -49,3 +49,4 @@ Meta-regressions on continuous moderators: female percentage significantly moder
 - Effect sizes were not moderated by publication year, age, or percentage of females, but were related to study quality; publication-bias tests gave mixed signals — reports the opposite
 - [Grade level significantly moderates the ER difficulties–burnout association, with larger effects at pre-university than university level](grade-level-moderates-er-difficulties-burnout.md) — related
 - [Samples with a majority of female students showed significantly smaller science effects than evenly distributed samples](majority-female-samples-smaller-5e-science-effects.md) — related
+- [Meta-regression identifies percentage of female participants, sample size, and interdisciplinary participation as moderators of effect size](meta-regression-moderators-dementia-attitudes.md) — related

@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**1348 entries** · 0 stable · 1348 in review · 0 drafts
+**1349 entries** · 0 stable · 1349 in review · 0 drafts
 
 ---
 
@@ -139,6 +139,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Blended 'Sports Multimedia Courseware Design' course (4 months, 36 credits, online self-learning plus offline group-learning)](sports-multimedia-courseware-design-blended-course.md) - A blended PET course for Chinese university PE students combining an online self-learning section on a Superstar learning platform with an offline seminar-type smart classroom group-learning section.
 * [Blended course pattern integrating a virtual learning space for theory delivery with an intelligent classroom space for hands-on practice](blended-virtual-and-smart-classroom-spaces.md) - The blended course design integrated two kinds of learning spaces: a virtual learning space for online digital resource autonomous learning of theoretical knowledge, and an intelligent classroom space for offline enti...
 * [Blended inservice course combining televised programs, programmed workbook sessions, and drive-in seminars](etv-workbook-seminar-inservice-course.md) - The course design distributes instruction across three mutually reinforcing components: television programs broadcast on the statewide ETV network, programmed workbook work sessions completed and mailed in by learners...
+* [Blended learning as intentional integration of online and face-to-face learning opportunities](blended-learning-intentional-integration-definition.md) - The review adopts Garrison and Kanuka's definition of blended learning as \"the effective and intentional integration of online and face-to-face learning opportunities\".
 * [Blended off-the-job and on-the-job module structure for supervisor training](off-job-on-job-module-blend.md) - The package organises learning as six free-standing modules sequenced so learning integrates with the workplace.
 * [Blended Synchronous Classroom (BSC) approach](blended-synchronous-classroom-approach.md) - BSC is an approach in which \"two or more physical classrooms\" are \"fully integrated together to support online real-time interaction among teachers and students in different locations\".
 * [Blended video-based proportional reasoning math course built in Articulate 360 with segmented videos, worked examples, and standardized UX interface](blended-proportional-reasoning-articulate-course.md) - The blended lesson was developed using Articulate 360, an e-learning authoring suite.

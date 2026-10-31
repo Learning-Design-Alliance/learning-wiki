@@ -47,3 +47,4 @@ Dimension 3 used participant observation with an estimation scale (no control co
 ## Related Claims
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - [Multimedia introductory activities are rated as more interesting and instructive than fun, while traditional activities are rated similarly on all three features](multimedia-activities-less-fun-than-instructive.md) — related
+- [The review reports a positive relationship between gamification and motivation in learning processes](gamification-motivation-positive-relationship-review.md) — related
