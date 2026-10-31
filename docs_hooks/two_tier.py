@@ -8,8 +8,9 @@ because every page went through mkdocs with the full theme. So:
 - **Curated tier (mkdocs, this hook):** principles, patterns, designs, processes,
   methods, learner variables, and the canonical elements and theories
   (`canonical: true`), with the home page, evidence.md and the guide.
-- **Long tail (scripts/build_longtail.py):** claims, strategies, and every element
-  and theory not marked canonical, rendered as light pages at the same URLs
+- **Long tail (scripts/build_longtail.py):** claims, strategies, products and
+  research methods (moved 2026-10-31, at 30 KB a page they were 94 MB of a 713 MB site),
+  and every element and theory not marked canonical, rendered as light pages at the same URLs
   (`claims/<slug>/`), plus listings paged by first letter (`claims/all/a/`).
 
 This hook takes the long-tail pages out of mkdocs (on_files), rewrites links to them
@@ -27,11 +28,12 @@ from pathlib import Path
 from urllib.parse import quote
 
 ROOT = Path(__file__).resolve().parent.parent
-LONGTAIL_ALWAYS = ("claims", "strategies")
+LONGTAIL_ALWAYS = ("claims", "strategies", "products", "research-methods")
 LONGTAIL_UNLESS_CANONICAL = ("elements", "theories")
 LONGTAIL_FOLDERS = LONGTAIL_ALWAYS + LONGTAIL_UNLESS_CANONICAL
 PAGE_SIZE = 400
-LABELS = {"claims": "Claims", "strategies": "Strategies", "elements": "Elements", "theories": "Theories"}
+LABELS = {"claims": "Claims", "strategies": "Strategies", "products": "Products and programmes",
+          "research-methods": "Research methods", "elements": "Elements", "theories": "Theories"}
 
 _FM = re.compile(r"\A---\n(.*?)\n---", re.S)
 _CANON = re.compile(r"^canonical:\s*true\s*$", re.M | re.I)
@@ -180,7 +182,7 @@ SEARCH_PAGE = """# Search
   const esc = s => String(s).replace(/[&<>"]/g, c => ({"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;"})[c]);
   let seq = 0;
   // The canonical pages first, then the rest of the curated tier (principles, patterns,
-  // designs, products, methods, canonical elements and theories), above the full results.
+  // designs, processes, methods, canonical elements and theories), above the full results.
   async function mainPages(term) {
     const n = ++seq;
     if (!term || term.trim().length < 2) { box.hidden = true; return; }

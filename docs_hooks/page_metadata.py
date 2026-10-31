@@ -63,7 +63,21 @@ def _fmt(value) -> str:
     return f"`{text}`" if text else "—"
 
 
+# The long tail (build_longtail.py) sets this: its panel keeps what the reader cannot see elsewhere
+# on the page (status, who generated it, the trust tier, former slugs), not the type, id and source
+# ids the URL and the body already show. About 0.8 KB a page across tens of thousands of claims.
+COMPACT = False
+COMPACT_FIELDS = ("status", "aliases", "moved_from")
+
+
 def _rows(meta: dict) -> list:
+    if COMPACT:
+        rows = [(k, _fmt(meta[k])) for k in COMPACT_FIELDS if meta.get(k) not in (None, "", [])]
+        gen = meta.get("generated")
+        if isinstance(gen, dict):
+            rows.append(("generated", f"by `{gen.get('by', '?')}` on `{gen.get('at', '?')}`"))
+        rows.append(("trust", _trust_tier(meta.get("verified"))))
+        return rows
     rows = []
     for key in FIELD_ORDER:
         if key in meta and meta[key] not in (None, ""):
