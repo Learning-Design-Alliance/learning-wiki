@@ -50,3 +50,5 @@ The review reports this as the only included study of predictive validity (Palte
 - [Supervised resident training reduced operative time after 30–50 cases, approximating senior benchmarks](supervised-resident-training-reduces-operative-time-30-50-cases.md) — related
 - [A moulded rubber TEP box trainer programme produced higher composite operative scores (P = 0.01) and suggested transfer of skills to real operations](box-trainer-tep-transfer-operative-practice.md) — related
 - [XR simulator training of residents improved live-patient surgical outcomes compared to residents not trained with XR](xr-training-transfers-to-live-patient-outcomes.md) — a broader claim this one bears on
+- [Simulation-based training contributes to patient safety in laparoscopic surgery](simulation-training-contributes-to-patient-safety.md) — related
+- [VR training simulators develop perceptual-motor skills for machinery operation, but real-world skill transfer remains difficult to assess](vr-simulators-perceptual-motor-skills-transfer-challenge.md) — a broader claim this one bears on

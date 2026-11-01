@@ -50,3 +50,4 @@ The review's synthesis of the included studies reports that with integrated virt
 - [Immersive VR simulation increased self-efficacy and intrinsic motivation more than a conventional safety manual in laboratory safety training](immersive-vr-boosted-self-efficacy-intrinsic-motivation.md) — a narrower finding that bears on this claim
 - [Immersive technologies are rarely adopted in robotics GBL/gamification but studies using them report heightened engagement, improved spatial reasoning, and enhanced perceived realism](immersive-tech-underused-positive-outcomes-robotics.md) — related
 - [Virtual reality use in TEPBLL positively boosted students' motivation, supporting a self-determination theory interpretation](vr-projects-boost-motivation-sdt.md) — related
+- [VR-based safety training enhances self-efficacy more effectively than traditional lecture-based training](vr-safety-training-enhances-self-efficacy.md) — related

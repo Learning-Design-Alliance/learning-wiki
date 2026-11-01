@@ -47,3 +47,4 @@ Methodological/interpretive step in the Results section: five randomized permuta
 
 ## Related Claims
 - [Feature-based model predictive power derives from a large and varied set of features rather than a few dominant variables](feature-importance-spread-across-many-features.md) — a broader claim this one bears on
+- [MetaForest identifies worked-out examples, intervention duration, intervention condition, learning outcome type, and immediate measurement as the most important moderators](metaforest-top-moderators-its-effects.md) — related

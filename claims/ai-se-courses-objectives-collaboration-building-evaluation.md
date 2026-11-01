@@ -48,3 +48,4 @@ Qualitative coding of learning objectives extracted from 12 of the 23 courses wi
 - [AI/ML fundamentals, agentic development, prompting, and testing are the most commonly documented topics in AI-assisted software engineering courses](ai-se-topics-fundamentals-agentic-prompting-testing.md) — related
 - [Only 9 of 23 courses publicly named AI tools, with Claude Code, Cursor, and GitHub Copilot most frequent and a fragmented long tail](ai-se-courses-tool-documentation-fragmented.md) — related
 - [AI-assisted software engineering courses assess primarily through participation, project work, and coding assignments rather than exams](ai-se-assessment-project-based-not-exams.md) — related
+- [Programming support is the most common instructional objective for AI agents in programming education, reported in 94.83% of reviewed studies](programming-support-dominant-ai-objective.md) — related

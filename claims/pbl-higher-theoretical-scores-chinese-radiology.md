@@ -51,3 +51,6 @@ Meta-analysis of 16 controlled studies involving 1455 medical students (PBL grou
 - [PBL significantly increases theoretical knowledge scores compared with traditional teaching in Chinese gynecology and obstetrics education (SMD 3.17)](pbl-increases-theoretical-knowledge-scores-china-obgyn.md) — related
 - [PBL significantly increases theoretical knowledge scores compared with LBL in Chinese pediatric medical education (SMD 1.16)](pbl-increases-theoretical-knowledge-scores-pediatric-china.md) — related
 - [TBL produces significantly higher theoretical test scores than PBL in medical education (SMD = 0.37)](tbl-higher-theoretical-test-scores-than-pbl.md) — related
+- [PBL is associated with higher theoretical examination scores than traditional lecture-based teaching in Chinese pharmacy education (SMD = 1.17)](pbl-higher-theoretical-scores-chinese-pharmacy.md) — related
+- [PBL improves knowledge scores in Chinese physical diagnostics education compared with traditional teaching (SMD = 0.76)](pbl-knowledge-scores-chinese-physical-diagnostics-meta-analysis.md) — related
+- [PBL improves skill scores in Chinese physical diagnostics education compared with traditional teaching (SMD = 1.46)](pbl-skill-scores-chinese-physical-diagnostics-meta-analysis.md) — related

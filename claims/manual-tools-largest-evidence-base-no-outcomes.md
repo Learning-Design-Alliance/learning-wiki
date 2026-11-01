@@ -70,3 +70,4 @@ In the manual-tools synthesis section, the review reports that relations-to-othe
 - Methodological quality of LC assessment-tool studies is moderate (MERSQI median 12.5) and outcomes rarely extend beyond performance-level measures — a broader claim this one bears on
 - [AI-based assessment systems show strong internal performance and early real-time deployment for critical view of safety detection, but lack external validation and clinical impact evidence](ai-lc-assessment-strong-internal-weak-external.md) — related
 - [Most identified assessment tools demonstrate construct or concurrent validity, but predictive validity is absent across tool categories](construct-validity-common-predictive-absent.md) — related
+- [Reliability and validity evidence for patient safety assessment tools is modest: internal structure reported for 22 tools, content validity for 14, and correlations with other assessments for only eight](modest-validity-evidence-safety-tools.md) — related

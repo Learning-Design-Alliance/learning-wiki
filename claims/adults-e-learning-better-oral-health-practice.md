@@ -49,3 +49,4 @@ Subgroup meta-analysis among adults for oral health practice. It "showed greater
 - [For children, conventional education is more effective than e-learning for gaining oral health knowledge](children-conventional-beats-e-learning-knowledge.md) — related
 - [E-learning shows no significant overall effect on gingival index compared with conventional oral health education](e-learning-no-effect-gingival-index.md) — related
 - [E-learning shows no significant overall effect on plaque index compared with conventional oral health education](e-learning-no-effect-plaque-index.md) — related
+- [No significant difference between short-term (SMD 0.25) and long-term (SMD 0.15) effects of training on patient health behaviours](no-significant-difference-short-versus-long-term-behaviour-effects.md) — related

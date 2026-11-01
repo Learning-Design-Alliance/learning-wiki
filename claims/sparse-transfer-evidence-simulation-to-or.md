@@ -57,3 +57,4 @@ The review's Discussion states that "evidence supporting the transferability of 
 - [Three of four studies demonstrated transfer of surgical skills from robotic VR simulators to the operating room measured by time and technical surgical performance](vr-simulator-skill-transfer-three-of-four-studies.md) — related
 - [XR simulator training of residents improved live-patient surgical outcomes compared to residents not trained with XR](xr-training-transfers-to-live-patient-outcomes.md) — related
 - [No evidence currently supports transfer of simulator-based VRS training to the operating room](no-evidence-vrs-simulator-transfer-operating-room.md) — related
+- [Simulation-based training translates laparoscopic surgical skills to the operating room](simulation-training-translates-laparoscopic-skills-to-or.md) — related

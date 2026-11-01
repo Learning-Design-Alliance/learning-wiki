@@ -47,3 +47,4 @@ The review reports an observational comparison of VA facilities participating ve
 ## Related Claims
 - [Blood loss, urinary complications, and morbidity decreased during the proficiency phase of robotic LLND](robotic-llnd-outcomes-improve-proficiency.md) — related
 - [Use of a surgical safety checklist alongside team training was associated with the lowest adverse event rate compared with a historical control and team training without a checklist](surgical-checklist-lowest-adverse-events.md) — related
+- [In situ simulation training was associated with a statistically significant and persistent 37% improvement in perinatal morbidity, while didactic-only and control hospitals showed no significant change](in-situ-simulation-perinatal-morbidity-improvement.md) — related

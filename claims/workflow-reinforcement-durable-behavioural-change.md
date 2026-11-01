@@ -50,3 +50,4 @@ The review's narrative synthesis of included studies found that system-embedded 
 - [After implementing collaboratively designed changes (emergency trolley, grab bags, orientation rules), the second in-situ simulation showed smoother, faster emergency care delivery](simlab-second-iss-improved-equipment-access.md) — related
 - [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — related
 - [Effective experiential learning interventions combine enjoyable practical activities with behaviour change techniques, theory, and short intense delivery](effective-experiential-learning-intervention-characteristics.md) — related
+- [In situ simulation improved teamwork behaviours in 12 of 14 domains during the simulation phase, but benefits returned to baseline when the program was discontinued](in-situ-simulation-teamwork-gains-lost-without-continuation.md) — related

@@ -51,3 +51,4 @@ Analysis of co-regulation activities across early, middle and later phases in th
 - [Interactions kindle similar-level interactions: argumentation triggers high-cognitive exchanges while sharing and discussing without reasoning keep interactions low-cognitive](high-cognitive-kindles-high-cognitive.md) — related
 - [Epistemic network analysis provides a better account of temporal patterns between socio-cognitive events than coding-and-counting](ena-outperforms-coding-and-counting-temporality.md) — related
 - [Co-regulation led to shared understandings with effective patient management as a result (Lajoie and Lu)](co-regulation-shared-understanding-patient-management.md) — related
+- [Interactive whiteboard groups showed more adaptive decision-making behavior earlier than traditional whiteboard groups in simulated medical emergencies](iwb-adaptive-decision-making-medical-emergency.md) — related

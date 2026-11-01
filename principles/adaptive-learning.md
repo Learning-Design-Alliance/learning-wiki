@@ -36,7 +36,7 @@ sources:
 # Adaptive Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 85 claims (46 for, 35 mixed, 4 against) · 81 studies (27 causal, 20 review, 11 design, 8 quant-synthesis, 7 associational, 6 theoretical, 2 qualitative), `q1`–`q4` · 14 of 81 report an effect size · 78 claims rest on one study
+> **Evidence** · 86 claims (46 for, 36 mixed, 4 against) · 82 studies (27 causal, 20 review, 11 design, 9 quant-synthesis, 7 associational, 6 theoretical, 2 qualitative), `q1`–`q4` · 14 of 82 report an effect size · 79 claims rest on one study
 
 ## Conditional relationship
 
@@ -205,6 +205,7 @@ Within-system performance, aligned achievement, standardised achievement, delaye
 - [Difficulty adaptation significantly reduced the variance of task correctness and perceived difficulty across learners](../claims/adaptation-balances-outcome-variance-across-learners.md) [+W]
 - [Only participants receiving major difficulty adaptation reported significant changes in perceived difficulty](../claims/difficulty-adaptation-perceived-difficulty-changes.md) [~W]
 - [Maintenance and generalization evidence is sparse: five of nine studies had no maintenance data, and only one study reported generalization results](../claims/tcsm-sparse-maintenance-generalization.md) [~W]
+- [ITS effects are similar for low-achieving students and the general student population](../claims/its-effects-similar-low-achievers-general-population.md) [~W]
 
 ## Related Principles
 - [Cognitive Load Management](cognitive-load-management.md) — adaptation is the primary mechanism for keeping intrinsic load matched to learner expertise over time

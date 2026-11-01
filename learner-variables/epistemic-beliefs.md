@@ -13,7 +13,7 @@ generated:
 # Epistemic Beliefs
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 40 claims (28 show a difference, 9 mixed, 3 no difference) · 24 studies (5 associational, 4 causal, 4 qualitative, 4 design, 3 review, 2 quant-synthesis, 2 theoretical), `q1`–`q3` · 1 of 24 report an effect size · 40 claims rest on one study
+> **Evidence** · 43 claims (31 show a difference, 9 mixed, 3 no difference) · 25 studies (5 associational, 4 causal, 4 qualitative, 4 design, 3 quant-synthesis, 3 review, 2 theoretical), `q1`–`q3` · 2 of 25 report an effect size · 43 claims rest on one study
 
 ## Description
 Epistemic (or epistemological) beliefs are what a learner takes knowledge and knowing to be. Learners who see knowledge as certain, simple and given by authority tend to read conflicting sources less critically and to expect quick answers; learners who see it as tentative and evidence-based integrate sources and argue more. Beliefs are measured by questionnaires and interviews and vary by domain. They predict comprehension of conflicting texts and argumentation, moderate inquiry-based designs, and are an outcome that instruction in the nature of science or in sourcing can change.
@@ -72,6 +72,9 @@ Epistemic (or epistemological) beliefs are what a learner takes knowledge and kn
 - [Self-reported learning gains and correlational analyses suggest interrelations among second-order and strategy knowledge, epistemological beliefs, explanation ability, topic knowledge, and interest](../claims/correlational-interrelatedness-history-reasoning-constructs.md) [+M] — learners who differ on it differ in outcomes
 - [More positive beliefs about science and more knowledge about how science works are associated with a lower probability of selecting personal-experiences sources](../claims/beliefs-knowledge-reduce-personal-experiences-selection.md) [+M] — learners who differ on it differ in outcomes
 - [Epistemological beliefs relate to tolerance of uncertainty: evaluativist approaches pair better with uncertainty in problem-solving than absolutist ones](../claims/epistemological-beliefs-uncertainty-tolerance.md) [+W] — learners who differ on it differ in outcomes
+- [Small but significant correlations exist between students' incoming beliefs and their conceptual gains in physics courses](../claims/incoming-beliefs-correlate-conceptual-gains.md) [+M] — learners who differ on it differ in outcomes
+- [Teaching method is the strongest predictor of CLASS/MPEX belief shifts, with modeling and explicit-focus methods significantly outperforming ordinary methods](../claims/teaching-method-strongest-predictor-belief-shifts.md) [+M] — instruction changes it
+- [Teaching method remains the strongest predictor of belief shifts even when pretest scores are taken into account](../claims/teaching-method-beats-pretest-predicting-shifts.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Can instruction shift learners' views of how scientific knowledge is made and judged, and do the shifts last?* [Both instructional conditions produced statistically significant pre-test to post-test gains in NOS and SK views, with larger effect sizes in the experimental group](../claims/both-conditions-significant-prepost-gains-larger-experimental-effect-sizes.md) [+M]

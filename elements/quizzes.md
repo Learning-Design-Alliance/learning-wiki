@@ -13,7 +13,7 @@ generated:
 # Quizzes
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 12 claims (6 for, 6 mixed) · 19 studies (7 causal, 6 quant-synthesis, 4 review, 1 associational, 1 design), `q2`–`q4` · 9 of 19 report an effect size · 8 claims rest on one study
+> **Evidence** · 13 claims (6 for, 7 mixed) · 20 studies (7 causal, 7 quant-synthesis, 4 review, 1 associational, 1 design), `q2`–`q4` · 9 of 20 report an effect size · 9 claims rest on one study
 
 ## Description
 Quizzes are short, low-stakes assessments used during learning rather than at its end. Their primary function is not measurement but learning: answering questions forces retrieval from memory, and the feedback that follows corrects and consolidates what was retrieved.
@@ -61,6 +61,7 @@ Quizzes are one of the most robustly supported instructional elements: testing i
 - [Spaced recall quizzing significantly improves overall post-test performance on fundamental mathematics without harming learning of current material](../claims/spaced-recall-improves-posttest-without-harming-new-learning.md) [+W]
 - [Frequency of incorrect quiz submissions differs across performance quartiles, with low performers submitting incorrect answers most often](../claims/incorrect-submissions-differ-across-quartiles.md) [~W]
 - [Little post-2014 progress on generating questions of controlled difficulty, feedback generation, and verbalisation](../claims/aqg-little-progress-difficulty-feedback-verbalisation.md) [~W]
+- [VR temporal demands during short testing quizzes are significantly lower than traditional paper-based testing](../claims/vr-short-testing-quizzes-lower-temporal-demands.md) [~W]
 
 ## The evidence by question
 

@@ -59,3 +59,4 @@ Conceptual distinction drawn in Section 3.2 of the position paper. The article p
 - [Automation bias toward fluent LLM output surrenders learners' epistemic agency](automation-bias-surrenders-epistemic-agency.md) — related
 - [Responsible AI use and student agency are mutually reinforcing capacities](responsible-ai-use-and-agency-mutually-reinforcing.md) — related
 - [Educators want AI systems grounded in their district's specific values, curricula, and student populations rather than generic tools](educators-want-context-grounded-ai.md) — related
+- [Prompt engineering is an emerging essential skill — a new computational literacy — for AI-augmented programming environments](prompt-engineering-emerging-computational-literacy.md) — related

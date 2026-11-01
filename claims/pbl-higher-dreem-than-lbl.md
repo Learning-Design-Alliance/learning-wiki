@@ -56,3 +56,4 @@ Random-effects meta-analysis of six RCTs (pooled n = 673; PBL 335, LBL 338), all
 - [PBL significantly improves clinical skill scores compared with lecture-based learning in medical education](pbl-improves-clinical-skill-scores-versus-lbl.md) — related
 - [PBL produces higher examination scores than LBL in undergraduate pharmacology education (SMD = 2.03)](pbl-higher-examination-scores-pharmacology.md) — related
 - [PBL significantly increases theoretical knowledge scores compared with LBL in Chinese pediatric medical education (SMD 1.16)](pbl-increases-theoretical-knowledge-scores-pediatric-china.md) — related
+- [PBL yields higher course examination scores than LBL in introductory Chinese undergraduate medical courses](pbl-higher-examination-scores-chinese-medical-courses.md) — related

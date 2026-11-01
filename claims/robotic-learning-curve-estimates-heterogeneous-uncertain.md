@@ -50,3 +50,4 @@ Review synthesis of the 27 duration-of-surgery studies reporting whether the lea
 - [Surgeons' previous experience and participation in structured training programmes are associated with shorter robot-assisted learning curves](experience-and-training-programmes-shorten-learning-curves.md) — related
 - [Methods and terminology used to define the point at which the robot-assisted learning curve is overcome are inconsistent and often lack statistical validation](inconsistent-thresholds-terminology-learning-curve-overcome.md) — related
 - [Time-based metrics dominate robot-assisted learning curve assessment, and recovery and safety metrics show substantially longer learning curves than operating time](time-metrics-dominate-safety-curves-longer.md) — related
+- [Individual progression of residents had a positive effect on patient outcomes, reported in seven studies](individual-resident-progression-positive-outcomes.md) — related

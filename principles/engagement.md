@@ -22,7 +22,7 @@ sources:
 # Engagement
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 32 claims (13 for, 18 mixed, 1 against) · 51 studies (18 causal, 9 quant-synthesis, 9 review, 6 associational, 5 theoretical, 3 qualitative, 1 design), `q1`–`q4` · 6 of 51 report an effect size · 21 claims rest on one study
+> **Evidence** · 33 claims (14 for, 18 mixed, 1 against) · 52 studies (18 causal, 10 review, 9 quant-synthesis, 6 associational, 5 theoretical, 3 qualitative, 1 design), `q1`–`q4` · 6 of 52 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 
@@ -167,6 +167,7 @@ On-task behaviour, interest, completion, voluntary persistence and learning of t
 - [Active engagement was positively and significantly associated with the Achiever state in most, but not all, courses](../claims/active-engagement-achiever-most-courses.md) [+W]
 - [Student-perceived cognitive activation partially mediates the relation between student-observed learning activities and students' effort in learning](../claims/cognitive-activation-mediates-icap-effort-relation-distance-teaching.md) [~W]
 - [ALCs increase engagement in learning across studies, with no consistent detriment to academic performance](../claims/alc-engagement-increased.md) [+W]
+- [Blogging fostered positive student engagement and interest in learning activities across most studies, though experimental evidence was mixed](../claims/blogging-positive-engagement-mixed-experimental.md) [+W]
 
 ## Related Principles
 - [Learner Choice](autonomy.md) — meaningful choice is one common route to stronger engagement

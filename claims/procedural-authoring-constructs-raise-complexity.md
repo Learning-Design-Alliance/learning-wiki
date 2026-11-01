@@ -49,3 +49,4 @@ Analytical discussion of runnable artifacts and dynamic complexity in authoring 
 - [Novice AI users showed a Trust-but-Can't-Verify pattern: accepting unfamiliar constructs they could not assess, then symptom-level debugging](trust-but-cant-verify-novices.md) — related
 - [Robot embodiment changes verification and debugging: learners treat robot execution as perceptual evidence for hypothesis-driven revisions, while AI-Only learners rely on generic help-seeking](robot-embodiment-perceptual-evidence-debugging.md) — related
 - [Text-based rubrics alone provide insufficient contextual, dynamic and procedural information to support rich mental model development of complex skills](text-rubrics-lack-contextual-dynamic-procedural-information.md) — related
+- [Interactivity level in virtual patients is related to the navigation model, with branching allowing the highest level](vp-authenticity-interactivity-feedback.md) — related

@@ -55,3 +55,4 @@ Per-criterion scoring of the 8 debugging questions in Trial 2 (Table 2), judged 
 - [GPT-4 generates targeted corrective feedback for 66% of student errors, but 35% of hints are too general, incorrect, or give away the answer](gpt4-feedback-66-percent-targeted-35-percent-flawed.md) — related
 - [Preference explanations favoring LearnLM more often cite staying on topic, challenging the learner, and not giving away answers](learnlm-preference-explanation-themes.md) — related
 - [GPT-generated hints are moderately accessible by automated readability metrics (mean CAREC 0.128, mean CML2RI 3.95)](gpt-hints-moderately-accessible-readability.md) — related
+- [Classroom deployments report faster help and higher perceived understanding when assistance emphasizes explanation, pseudocode, and staged hints while withholding final solutions by default](tutoring-deployment-outcome-signals.md) — related

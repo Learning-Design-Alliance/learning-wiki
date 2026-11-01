@@ -52,3 +52,4 @@ Randomized clinical trial with 84 nursing students (42 per group) reported in th
 - [Clinical simulation improved overall cardiovascular examination performance compared with traditional lecture in the Brazilian quasi-experimental study (Fernandes et al.)](simulation-vs-lecture-cardiovascular-performance-brazil.md) — related
 - [Simulation-based training improved PPE donning/doffing performance and reduced cognitive load from pre-test to post-test](simulation-ppe-donning-doffing-pre-post-gains.md) — related
 - [Computer/internet-based learning programs improved physical examination skill performance compared to students without IT support](computer-based-learning-improves-pe-skills.md) — related
+- [High-fidelity simulation-based training led to improved patient care during cardiopulmonary bypass weaning compared with interactive seminars, at both post-test and retention test](simulation-beats-seminar-cpb-weaning-transfer.md) — related

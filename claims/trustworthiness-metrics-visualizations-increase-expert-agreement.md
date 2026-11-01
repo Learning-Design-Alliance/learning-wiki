@@ -81,3 +81,4 @@ An LLM prompt tournament with 12 learning engineers comparing 5 prompt templates
 - [Performance-based assessments score low on generalizability, reliability, and standardization, with rater effects influencing scores](pba-psychometric-weaknesses.md) — related
 - [An automated scoring engine matched experienced human markers yet was rejected over the confidentiality-explainability conflict](crase-scoring-equivalent-to-human-markers-rejected.md) — related
 - [Standardized personal statements and letters of recommendation improve inter-rater reliability and mitigate bias](standardized-admissions-tools-reliability.md) — related
+- [Rubric-guided grading pipelines can approach human-level agreement when explicit rubrics, exemplars, and calibration are used](rubric-guided-grading-human-agreement.md) — related

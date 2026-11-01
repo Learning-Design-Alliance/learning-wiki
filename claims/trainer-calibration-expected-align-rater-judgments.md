@@ -54,3 +54,4 @@ Theoretical expectation (Expectation 3) grounded in cited evidence that rater tr
 - [The Trainer is expected to make peer comments more specific, criterion-referenced, and evidence-based](trainer-expected-improve-comment-quality.md) — related
 - [Organized training with rubrics reduces the gap between student self-assessment and educator judgment](rubric-training-reduces-self-assessment-bias.md) — a narrower finding that bears on this claim
 - [Training reviewers and using rubrics reduces inconsistent evaluation and bias in CBA/HA](reviewer-training-rubrics-reduce-bias.md) — related
+- [Rubric-guided grading pipelines can approach human-level agreement when explicit rubrics, exemplars, and calibration are used](rubric-guided-grading-human-agreement.md) — a broader claim this one bears on

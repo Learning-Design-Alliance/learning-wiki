@@ -66,3 +66,4 @@ The review's challenges synthesis (RQ2, Table 2) codes challenges to learners (d
 - [VR tools enhance acquisition and retention of clinical and procedural skills but face barriers including cybersickness, limited tactile feedback and variable long-term skill transfer](vr-enhances-practical-skill-acquisition-with-barriers.md) — related
 - [Computer-based simulation and immersive VR platforms differ in their primary limitations: feedback timeliness versus physiological discomfort](vs-platform-specific-limitations.md) — related
 - [VR communication training faces challenges of scenario realism, lack of clinical urgency in virtual characters, and language barriers](vr-communication-training-challenges-realism-urgency-language.md) — related
+- [Insufficient technical support, infrastructure, and resources negatively impacted uptake and learning outcomes of educational technologies in PBL](insufficient-support-infrastructure-negative-uptake.md) — related

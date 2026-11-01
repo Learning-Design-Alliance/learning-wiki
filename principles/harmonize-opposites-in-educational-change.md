@@ -35,7 +35,7 @@ sources:
 # Harmonize opposites: strike a balance between competing educational ideas rather than embracing one method wholesale
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 40 claims (28 for, 12 mixed) · 33 studies (10 review, 9 theoretical, 6 causal, 6 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 4 of 33 report an effect size · 38 claims rest on one study
+> **Evidence** · 42 claims (28 for, 12 mixed, 2 against) · 34 studies (10 review, 9 theoretical, 7 quant-synthesis, 6 causal, 1 qualitative, 1 design), `q1`–`q4` · 4 of 34 report an effect size · 40 claims rest on one study
 
 ## Conditional relationship
 
@@ -169,6 +169,8 @@ Combining two methods, the share of time each gets, the order of the two, and th
 - [E-learning is an important adjunct to traditional learning methods in anaesthesia education](../claims/e-learning-adjunct-anaesthesia-education.md) [+W]
 - [Peer teaching effectiveness varies by ultrasound application and student prior knowledge, with faculty favored for complex applications and novices](../claims/peer-teaching-limits-complex-applications-novices.md) [~W]
 - [PBL+LBL significantly increases knowledge scores compared with LBL alone in Chinese medical education](../claims/pbl-lbl-increases-knowledge-scores-china.md) [+W]
+- [PBL vs LBL alone produces higher excellence rates than PBL+LBL vs LBL in Chinese medical courses](../claims/pbl-alone-higher-excellence-than-pbl-lbl-combination.md) [-W]
+- [Combining PBL with LBL does not produce superior teaching effectiveness compared with exclusive PBL application](../claims/pbl-lbl-combination-not-superior-to-exclusive-pbl.md) [-W]
 
 ## Related Principles
 

@@ -50,3 +50,5 @@ Mixed-methods cluster randomized controlled trial with 43 undergraduate physioth
 - [Students learning with iVR reported higher motivation but the control group felt they retained and understood concepts better](ivr-higher-motivation-control-better-retention-feeling.md) — related
 - [Qualitative analysis found predominantly positive perceptions of iVR, with real-time feedback the most valued element and lack of realism the main concern](qualitative-ivr-perceptions-feedback-valued-realism-concern.md) — related
 - [Value-added studies combining IVR with generative learning strategies (learning-by-teaching, enactment) found particular benefits, suggesting theoretically driven design elements maximize the medium's affordances](gls-value-added-benefits.md) — related
+- [Most included studies sampled medical students (n=13), with few studies among nursing, pharmacy, physiotherapy, dentistry, or mixed disciplines](medical-students-dominate-ebp-teaching-evidence.md) — related
+- [Websites improve practical skills performance in physiotherapy education](websites-improve-practical-skills-physiotherapy.md) — related

@@ -47,3 +47,4 @@ The chapter synthesises survey findings it attributes to Setkowicz-Ryszka (2024)
 ## Related Claims
 - [NMT uptake in institutional legal translation is high (ca. 80%) but much lower among UK-based freelance translators (41%)](nmt-uptake-institutional-vs-freelance-legal-translators.md) — related
 - [Students in a deliberate practice group reported satisfaction with the learning process on a survey given only to that group](deliberate-practice-increases-student-satisfaction.md) — related
+- [Higher user satisfaction and self-evaluation do not necessarily correlate with academic performance in an ERS deployment](ers-satisfaction-not-correlate-academic-performance.md) — related

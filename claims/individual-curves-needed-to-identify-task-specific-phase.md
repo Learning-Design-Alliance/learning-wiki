@@ -47,3 +47,4 @@ Comparison of the averaged training data for the whole population against the fi
 ## Related Claims
 - [Hidden Markov model of individual training curves shows task-specific improvement plateaued on average on the third day of training](hmm-transition-day-three.md) — related
 - [Performance increases monotonically with the number of practice exams following a slightly concave learning curve without considerable kinks](performance-increases-monotonically-with-practice-exams-concave-curve.md) — related
+- [Feedback improves balloon placement accuracy and yields a smoother learning curve in simulated renal artery angioplasty](feedback-angioplasty-accuracy-learning-curve.md) — related

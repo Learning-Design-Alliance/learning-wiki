@@ -111,3 +111,4 @@ Facilitator subtheme from interviews; participants reported that case-based teac
 - [Nurses show a steep learning curve after initial USG-PVC training, reaching over 70% success probability after four to nine real-world attempts](steep-learning-curve-usg-pvc-nurses-attempts.md) — related
 - [The framework adapts Benner's novice-to-expert model because UK nurses now enter practice at degree level with baseline clinical competencies already attained](benner-model-adapted-degree-entry-nurses.md) — related
 - [Improved performance in the simulation environment may not transfer to real-life clinical settings, with almost no studies assessing translated clinical performance](hf-simulation-transfer-untested.md) — related
+- [Simulation-based CRM training transfers to the workplace: three of four studies found simulation-enhanced CRM training significantly more effective than no intervention or didactic teaching](simulation-crm-training-transfers-to-workplace.md) — related

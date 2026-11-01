@@ -52,3 +52,4 @@ Meta-analysis of 12 randomized controlled studies involving 1271 participants (6
 - [TBL is associated with higher theoretical knowledge scores than LBL in Chinese neurology education (SMD = 1.16)](tbl-higher-theoretical-knowledge-scores-neurology-china.md) — related
 - [TBL benefits pharmacy students in both 4-year university and 3-year college programs, with a larger pooled effect in colleges](tbl-benefits-university-and-college-pharmacy-students.md) — a narrower finding that bears on this claim
 - [PBL produces higher examination scores than LBL in undergraduate pharmacology education (SMD = 2.03)](pbl-higher-examination-scores-pharmacology.md) — related
+- [PBL yields higher course examination scores than LBL in introductory Chinese undergraduate medical courses](pbl-higher-examination-scores-chinese-medical-courses.md) — related

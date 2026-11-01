@@ -103,3 +103,4 @@ Meta-analysis of 2 studies (162 students) on the critical thinking disposition i
 - [Hybrid PBL+LBL pedagogy yields significantly higher comprehensive ability scores than LBL alone](pbl-lbl-hybrid-better-comprehensive-ability.md) — related
 - [PBL+LBL significantly increases comprehensive ability scores compared with LBL alone](pbl-lbl-increases-comprehensive-ability-scores.md) — related
 - [Questionnaire surveys in most included studies indicate positive PBL effects on learning interest, scope of knowledge, team spirit, and oral expression](pbl-questionnaire-positive-outcomes-radiology.md) — related
+- [Questionnaire results show PBL superior to conventional teaching for learning interest, independent analysis skills, scope of knowledge, self-study, team spirit, and oral expression](pbl-questionnaire-superiority-six-outcomes.md) — related

@@ -33,6 +33,7 @@ SciEntsBank is a benchmark dataset of human-annotated student science short answ
 - [SemEval '13 Task 7 shared-task corpus and grading scheme for ASAG](semeval-13-task-7-shared-task-corpus-and-grading-scheme-for-asag.md)
 - [CBM-Engine](cbm-engine.md)
 - [Novel German dataset for analytic essay scoring with segmentation and topic-code labels](novel-german-dataset-for-analytic-essay-scoring-with-segmentation-and-topic-code-labels.md)
+- [ASAP-SAS corpus of short-answer scoring prompts and rubrics](asap-sas-corpus-of-short-answer-scoring-prompts-and-rubrics.md)
 
 ## Key Sources
 - Longwei Cong, Sonja Hahn, Sebastian Gombert, Leon Camus, Hendrik Drachsler, and Ulf Kroehne. (2026). Confidence Estimation in Automatic Short Answer Grading with LLMs. https://arxiv.org/abs/2605.00200

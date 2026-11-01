@@ -60,3 +60,6 @@ Randomised study of 169 second-year medical students comparing 3D VR and 2D lect
 - [Head-mounted display interventions improve anatomy recognition, spatial orientation, and learner confidence versus conventional instruction](hmd-improves-spatial-understanding-and-confidence.md) — related
 - [Online CBT training satisfaction was noninferior to in-person training](online-cbt-training-noninferior-satisfaction.md) — related
 - [A randomized controlled trial found VR and conventional 2D approaches both improved orthognathic diagnosis and treatment planning understanding with no significant difference between groups](vr-versus-conventional-orthognathic-planning-no-difference.md) — related
+- [Students report greater satisfaction with VR-based anatomy learning than with conventional or 2D methods](vr-anatomy-satisfaction-advantage.md) — related
+- [VR-based anatomy teaching moderately improves learners' examination scores compared with traditional or 2D digital methods](vr-anatomy-teaching-improves-test-scores.md) — related
+- [VR improves motivation and performance of civil engineering students in a concrete structures course compared with traditional 2D drawings](vr-improves-motivation-performance-concrete-structures.md) — related

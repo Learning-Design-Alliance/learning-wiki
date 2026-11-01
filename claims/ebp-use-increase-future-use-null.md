@@ -50,3 +50,4 @@ Review reports the single study (Kim et al., quasi-experimental with control, Jo
 - [Theory-based EBP teaching improved EBP skills, with fluctuations over time and mixed results for distinguishing credibility of online sources](ebp-skills-gains-fluctuations.md)
 - [Theory-based EBP interventions have a small but positive effect on undergraduate health students' EBP attitudes](theory-based-ebp-interventions-small-positive-attitude-effect.md)
 - [Theory-based EBP teaching produced significant knowledge gains in two nursing studies and one medical-study summative assessment](theory-based-ebp-teaching-knowledge-gains.md) — related
+- [Multifaceted EBP interventions combining lectures, computer sessions, small-group discussions, journal clubs, and assignments were more likely to improve knowledge, skills, and attitudes than single interventions or no intervention](multifaceted-ebp-interventions-improve-competence.md) — related

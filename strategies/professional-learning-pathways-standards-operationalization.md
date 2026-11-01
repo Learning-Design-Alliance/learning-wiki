@@ -56,6 +56,7 @@ The article recommends embedding the standards into structured professional lear
 - [Institutional support package: professional development, technical support, engagement strategies, and assessment reform](institutional-support-technology-integration-strategy.md)
 - [Strengthen core microteaching competencies — structured teaching, learner engagement, reflection, feedback, and role modelling — through faculty development](faculty-development-microteaching-competencies.md)
 - [Integrate interactive, competency-based diabetic foot care training into continuing professional development, supported by organizational resources](integrate-interactive-diabetic-foot-training-cpd.md)
+- [Provide staff and student induction and ongoing training for educational technologies in inquiry-based contexts](staff-student-induction-training-edtech-pbl.md)
 
 ## Examples
 -

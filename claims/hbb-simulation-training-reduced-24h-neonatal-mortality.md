@@ -55,3 +55,4 @@ Single-center prospective before–after study in Tanzania with 9708 newborns ac
 - [Neonatal resuscitation knowledge and skills deteriorate significantly in the months following NRP certification](nrp-knowledge-skills-decay-months-after-certification.md) — related
 - [Nontechnical-skills simulation of ruptured AAA with the Resusci Anne Simulator directly improved patient outcomes, reducing door-to-occlusion time, door-to-needle time, and 30-day mortality (LoE 4/5)](nts-rraa-simulation-patient-outcomes.md) — related
 - [Direct effects of digital learning on patient outcomes are rarely studied and not consistently detected](dlr-patient-outcomes-not-established.md) — related
+- [Simulation-based CRM training may translate to improved patient outcomes, including decreased mortality, based on a small number of studies](simulation-crm-training-patient-outcomes.md) — related

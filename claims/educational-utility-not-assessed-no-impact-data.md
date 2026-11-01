@@ -49,3 +49,4 @@ Educational utility appraisal of the 24 tools across the four ACGME domains (eas
 - [AI-based assessment systems show strong internal performance and early real-time deployment for critical view of safety detection, but lack external validation and clinical impact evidence](ai-lc-assessment-strong-internal-weak-external.md) — related
 - [Most reviewed simulation studies demonstrated face and content validity, but few assessed construct or predictive validity](simulation-validity-face-content-yes-predictive-rare.md) — related
 - [Only 24 procedure-specific assessment tools exist across orthopaedic surgery, covering only trauma, sports medicine, spine, and upper extremity subspecialties](few-procedure-specific-tools-limited-subspecialties.md) — related
+- [Morse's nasogastric tube tool assesses interpersonal skills with only four tube-preparation items and no reliability or validity data](ng-tube-tool-incomplete-procedural-assessment.md) — related

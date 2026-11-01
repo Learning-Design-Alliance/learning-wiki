@@ -75,3 +75,4 @@ Meta-analysis of 12 RCTs (N=1090), random effects model with high heterogeneity 
 - [PBL is not superior to traditional teaching for grasping knowledge points and memory ability, but is superior for literature retrieval, expression, learning motivation, thinking and imaging reading in orthopaedics education](pbl-other-outcomes-orthopaedics.md) — related
 - [PBL improves radiology skill (film reading) scores more strongly than theoretical scores (pooled SMD = 2.10)](pbl-higher-skill-scores-chinese-radiology.md) — related
 - [PBL significantly increases skill scores compared with LBL in Chinese pediatric medical education (SMD 1.56)](pbl-increases-skill-scores-pediatric-china.md) — related
+- [PBL improves knowledge scores in Chinese physical diagnostics education compared with traditional teaching (SMD = 0.76)](pbl-knowledge-scores-chinese-physical-diagnostics-meta-analysis.md) — related

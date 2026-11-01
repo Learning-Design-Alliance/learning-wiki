@@ -50,3 +50,4 @@ The review reports a cluster randomized controlled trial in Spain (cited as refe
 - [A US randomized controlled trial found significantly decreased burnout after physicians attended four modules on stress, grief and burnout in medicine](us-rct-grief-modules-decreased-burnout.md)
 - [In a Danish RCT, trained physicians identified more cases of complicated grief and prescribed fewer psychotropic drugs than untrained control physicians](danish-rct-grief-training-more-identification-fewer-psychotropics.md) — reports the opposite
 - [Evidence that emotional competence improves patient outcomes is limited and mixed](ec-patient-outcomes-limited-mixed.md) — a broader claim this one bears on
+- [There is weak evidence to support one resilience intervention over another for physicians who have completed training](weak-evidence-resilience-interventions-physicians.md) — related

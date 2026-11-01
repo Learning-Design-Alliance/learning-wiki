@@ -52,3 +52,4 @@ Meta-analysis pooling three studies reporting OSATS Global. The article reports 
 - [Adjunctive VR classroom training produces higher validated robotic skills scores than self-directed simulator learning alone in novice trainees](vr-classroom-training-higher-rosats-novices.md) — related
 - [Three comparative studies reported superior outcomes for distance simulation over traditional training, involving augmented reality telementoring, remote robotic teaching, and a virtual classroom](distance-simulation-superior-outcomes-three-studies.md) — related
 - [AI tutoring yields a small, statistically significant improvement in expert-rated OSATS scores versus expert instruction, with low certainty](ai-tutoring-small-osats-advantage-low-certainty.md) — related
+- [Simulation-based training improves global rating scores in laparoscopic surgery](simulation-training-improves-global-ratings.md) — related

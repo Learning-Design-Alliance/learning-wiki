@@ -32,6 +32,7 @@ The ASAP 2.0 dataset is a public benchmark of approximately 24,000 student argum
 ## Related Products and Programmes
 
 - [IELTS Writing Scored Essays Dataset](ielts-writing-scored-essays-dataset.md)
+- [ASAP-SAS corpus of short-answer scoring prompts and rubrics](asap-sas-corpus-of-short-answer-scoring-prompts-and-rubrics.md)
 
 ## Key Sources
 - Zhenxin Zhang, Ziyu Ding, Mengyun Liu and Haiwei Sang. (2026). RACES: reward-aligned consistent essay scoring with large language models. International Journal of Educational Technology in Higher Education. https://doi.org/10.1186/s41239-026-00607-8

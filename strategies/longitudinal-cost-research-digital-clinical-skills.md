@@ -49,6 +49,7 @@ The review recommends that future work assess long-term impact and economics of 
 - [Prioritize longitudinal, comparative-effectiveness, and patient-outcome research and standardized practices for podiatry simulation](podiatry-simulation-research-gap-agenda.md)
 - [Future research should use standardized validated outcome measures, longitudinal follow-up designs, and methods linking learner gains to patient-relevant outcomes](vp-communication-future-research-validated-longitudinal.md)
 - [Evaluate interactive, simulation-based, spaced and mobile forms of digital education for guideline adoption, reporting skills, behaviour, patient and cost outcomes](strategy-future-digital-education-guidelines-research.md)
+- [Future research agenda: detailed BCT-coded systematic review, primary qualitative examination of patient experience, and economic analysis within trials](digital-asthma-research-gap-agenda.md)
 
 ## Examples
 -

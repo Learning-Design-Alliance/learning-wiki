@@ -50,3 +50,4 @@ Qualitative analysis of the Wikipedia article "Computer-supported collaborative 
 - [Four forms of learning and knowledge building with wikis: internal and external assimilation and accommodation](four-processes-assimilation-accommodation-wikis.md) — a broader claim this one bears on
 - [Three big data methods—text classification, cluster analysis, and social network analysis—can each yield insights into learning in mass collaboration](three-big-data-methods-insights-mass-collaboration.md) — a broader claim this one bears on
 - Artifacts and their interconnected structure operationalize collective knowledge processes in large-scale Wikipedia analysis — a broader claim this one bears on
+- [The highest page revision and discussion levels were observed in a small wiki reserved to a closed community, suggesting strong user commitment can overcome volunteering limitations](closed-community-high-revision-levels.md) — related

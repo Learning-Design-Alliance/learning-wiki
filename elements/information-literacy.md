@@ -13,7 +13,7 @@ generated:
 # Information Literacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 23 claims (10 for, 10 mixed, 3 against) · 23 studies (8 causal, 5 qualitative, 4 review, 3 associational, 2 theoretical, 1 design), `q1`–`q3` · 1 of 23 report an effect size · 22 claims rest on one study
+> **Evidence** · 25 claims (12 for, 10 mixed, 3 against) · 24 studies (8 causal, 5 review, 5 qualitative, 3 associational, 2 theoretical, 1 design), `q1`–`q3` · 1 of 24 report an effect size · 24 claims rest on one study
 
 ## Description
 Information literacy is the element in which learners identify information needs, locate sources, evaluate credibility, and use information responsibly. It is useful when tasks require judgment about evidence rather than mere retrieval.
@@ -59,6 +59,8 @@ Information literacy is the element in which learners identify information needs
 - [At the individual level, most students showed no reliable change in credibility evaluation skills, while 9–18% showed reliable positive change depending on the skill](../claims/individual-level-rci-credibility-change.md) [~W]
 - [Unstructured LLM use is associated with reduced engagement with primary reference texts and lower ability to identify hallucinations](../claims/unguided-llm-use-critical-appraisal-erosion.md) [+W]
 - [Theory-based EBP teaching improved EBP skills, with fluctuations over time and mixed results for distinguishing credibility of online sources](../claims/ebp-skills-gains-fluctuations.md) [~W]
+- [A multifaceted information-skills elective produced pre-post gains across search-related tasks among medical students, including assessing reliability/validity of web information (2.59 to 3.77)](../claims/information-skills-elective-task-gains.md) [+W]
+- [Seven of the 20 included studies reported an overall increase across all EBP domains indicating higher EBP competence, and two studies focused on the searching databases skill](../claims/seven-studies-overall-ebp-domain-increase.md) [+W]
 
 ## The evidence by question
 - *Does teaching learners how to check a source improve their judgments of unfamiliar sources, and how much can one session do?* [Civic Online Reasoning Instruction Improves Evaluation](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+S]

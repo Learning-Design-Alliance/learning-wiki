@@ -54,3 +54,4 @@ Modality configuration tradeoff study screening all 2,047 nonempty combinations 
 - [A tool's effectiveness results from the whole configuration of events, activities, and contexts in which it is used](tool-effectiveness-depends-on-context-configuration.md) — related
 - [Combining more modalities does not always improve detection of learner mental states](more-modalities-not-always-better-mental-state-detection.md) — a broader claim this one bears on
 - [Model-family rankings depend on the prediction target: AdaBoost leads the five-level ordinal task while LightGBM holds the highest binary macro-F1](model-family-rankings-depend-on-target.md) — a narrower finding that bears on this claim
+- [Multimodal sensor fusion outperforms single sensors for detecting learner states, yet few studies integrate continuous biometric monitoring with elementary learning outcomes](multimodal-fusion-outperforms-single-sensors-lab-classroom-gap.md) — related

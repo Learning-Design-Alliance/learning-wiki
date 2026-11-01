@@ -69,3 +69,4 @@ Heterogeneity test of the 19 coded studies using Q and I² statistics with a 95%
 - [Effect sizes across intervention studies are highly heterogeneous (I² = 85 for learning performance, I² = 69 for academic emotion)](academic-emotion-effect-heterogeneity-high.md) — related
 - [Heterogeneity of experiential learning intervention effects is high for behaviour outcomes and low for attitude outcomes, with minimal publication bias](heterogeneity-publication-bias-experiential-pa.md) — related
 - [Meta-analyses of physical activity effects on youth cognition and academic performance show small effect sizes (0.1–0.3) with substantial heterogeneity](pa-metaanalyses-small-effects-high-heterogeneity.md) — a broader claim this one bears on
+- [High between-study heterogeneity exists in pooled FCI gender gap estimates (Q = 215.36, I² = 91.3%, τ² = 0.0620)](fci-gender-gap-high-heterogeneity.md) — related

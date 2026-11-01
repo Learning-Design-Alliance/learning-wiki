@@ -49,3 +49,4 @@ Student-level randomized controlled trial in 17 schools in the 2020/21 Evaluatio
 - [Teachers viewed the ERWC 3.0 as an improved curriculum that promoted high student engagement and supported students' academic and personal growth](teachers-viewed-erwc-3-engaging-and-growth-supporting.md) — related
 - [Summative examinations have a dual function: measuring achieved learning while also shaping and supporting learning through engagement with tasks](summative-assessment-dual-function-measure-and-support-learning.md) — related
 - [The positive ERWC impact on EPT scores is robust to sensitivity analyses varying matching methods and analytic sample composition](erwc-impact-robust-sensitivity-analyses.md) — related
+- [ITS use has a significant positive effect on U.S. K-12 students' learning outcomes (g=0.271)](its-positive-effect-us-k12-achievement.md) — related

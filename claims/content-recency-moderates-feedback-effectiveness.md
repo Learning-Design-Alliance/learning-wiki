@@ -52,3 +52,4 @@ Mixed-effects model with hint type × course part interaction on log time to suc
 - [All three LLM-generated feedback types are associated with faster time to solution than a compiler-errors-only baseline, with Single-Issue Feedback showing the largest reduction](llm-feedback-faster-time-to-solution.md) — related
 - [All three LLM feedback types credibly reduced attempts to success relative to the baseline, with the largest reduction for Diagnostic Feedback](llm-feedback-fewer-attempts.md) — related
 - [Feedback type did not affect whether students solved assignments; solution rates were very similar across all conditions](feedback-type-no-effect-solution-rates.md) — related
+- [LLM-generated worked examples and practice sets are often rated usable and helpful by novices, with quality varying and benefiting from instructor review](llm-materials-quality-variance.md) — related

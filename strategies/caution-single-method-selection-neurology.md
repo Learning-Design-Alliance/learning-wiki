@@ -46,6 +46,7 @@ The article recommends that course designers not assume one method is universall
 
 - [Three-part implementation guidance for applying CBL in Chinese dental education](cbl-implementation-guidance-chinese-dental.md)
 - [Apply PBL selectively in Chinese radiology education, balancing its benefits against time and resource costs](pbl-selective-application-chinese-context.md)
+- [Pharmacy course directors should consider gradually introducing PBL methods into their programs](gradually-introduce-pbl-pharmacy-programs.md)
 
 ## Examples
 -

@@ -18,7 +18,7 @@ sources:
 # Minimize student frustration by making feedback clear, legible, focused, and transparent
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (10 for, 12 mixed) · 23 studies (7 review, 5 qualitative, 4 causal, 2 quant-synthesis, 2 associational, 2 design, 1 theoretical), `q1`–`q4` · 4 of 23 report an effect size · 19 claims rest on one study
+> **Evidence** · 23 claims (11 for, 12 mixed) · 24 studies (8 review, 5 qualitative, 4 causal, 2 quant-synthesis, 2 associational, 2 design, 1 theoretical), `q1`–`q4` · 4 of 24 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -142,6 +142,7 @@ Learners' ratings of feedback, their uptake in the next draft, later writing qua
 - [Students value GenAI corrective feedback with rationales and report increased motivation and confidence](../claims/genai-corrective-feedback-motivation-benefits.md) [+W]
 - [Letter size has less effect on legibility than spacing of letters or arrangement of words](../claims/letter-size-less-effect-than-spacing-arrangement.md) [~W]
 - [Beneficial design features include diverse, authentic case variation and immediate, individualized, actionable, transparent feedback, yet only 52.6% of studies incorporated feedback](../claims/ai-virtual-patients-feedback-feature-underincorporated.md) [+W]
+- [Feedback perceived as strongly negative can evoke emotional responses including anger and discouragement, and may have detrimental consequences such as decreased motivation and reduced performance](../claims/negative-feedback-emotional-responses-detrimental-consequences.md) [+W]
 
 ## Related Principles
 

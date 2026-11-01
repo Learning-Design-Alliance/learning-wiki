@@ -62,3 +62,4 @@ A lesson-learned synthesized from classroom trials, instructor and student feedb
 - [More teacher support in AI-based instruction is not always better; a review found support worked well when balanced with students' autonomy and independent thinking](teacher-support-benefits-conditional-on-autonomy-balance.md) — related
 - [Strategy freedom leads students to skip unit and substance steps, reducing conceptual practice opportunities](strategy-freedom-skips-unit-substance-steps.md) — a narrower finding that bears on this claim
 - [The supplemental model risks students skipping online work and course overload](supplemental-model-challenges.md) — related
+- [Discussion boards improve knowledge acquisition, critical and reflective thinking in physiotherapy education](discussion-boards-improve-knowledge-critical-reflective-thinking.md) — related

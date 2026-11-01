@@ -60,3 +60,4 @@ Descriptive frequency analysis of primary barriers in the RQ1/RQ2 subset (N = 15
 - Data collection implementation and sample size are the most frequent limitations in digital competence research — related
 - [Tertiary institutions face substantial ICT infrastructure constraints, with 54.2% of colleges lacking well-equipped computer laboratories and only 46% ICT usage reported](ict-infrastructure-constraints-tertiary-colleges.md) — a narrower finding that bears on this claim
 - [Digital platforms are the most used technology (68.18%) for teaching intercultural competences, followed by pedagogical approaches such as COIL (45.45%)](digital-platforms-most-used-technology-intercultural-teaching.md) — related
+- [Insufficient technical support, infrastructure, and resources negatively impacted uptake and learning outcomes of educational technologies in PBL](insufficient-support-infrastructure-negative-uptake.md) — related

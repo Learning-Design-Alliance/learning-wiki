@@ -51,3 +51,4 @@ The review's narrative synthesis of global rating scale studies (19 studies). It
 - [The Procedure Based Assessment shows poor engagement and deficient orthopaedic utility evidence, and the authors propose it is no longer appropriate for summative assessment](pba-no-longer-appropriate-summative-assessment.md)
 - [Checklists show reasonable validity and reliability but have an early ceiling effect and are most appropriate for novice learners in formative settings](checklists-valid-but-ceiling-effect-novice-formative.md) — related
 - [No current technical skills-assessment tool in orthopaedic surgical training fulfills accepted criteria for effective assessment](no-orthopaedic-assessment-tool-fulfills-effective-assessment-criteria.md) — related
+- [Global rating scales by expert practitioners are as reliable as item-specific checklists and less labour intensive to devise](global-rating-scales-as-reliable-as-checklists.md) — related

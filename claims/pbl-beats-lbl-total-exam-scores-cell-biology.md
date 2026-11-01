@@ -49,3 +49,4 @@ Random-effects meta-analysis of 9 studies (1269 students) comparing PBL and LBL 
 - [CBL is the highest-ranked strategy for enhancing medical students' theoretical test scores, with CBL, PBL, SBL and FC each significantly outperforming LBL](cbl-highest-ranked-theoretical-test-scores-nma.md) — a broader claim this one bears on
 - [PBL produces higher examination scores than LBL in undergraduate pharmacology education (SMD = 2.03)](pbl-higher-examination-scores-pharmacology.md) — related
 - [PBL improves comprehensive question scores compared with LBL (pooled SMD 0.53)](pbl-comprehensive-question-scores-smd-053.md) — related
+- [PBL yields higher course examination scores than LBL in introductory Chinese undergraduate medical courses](pbl-higher-examination-scores-chinese-medical-courses.md) — a broader claim this one bears on

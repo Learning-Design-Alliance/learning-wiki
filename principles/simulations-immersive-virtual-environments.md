@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 261 claims (132 for, 114 mixed, 15 against) · 164 studies (72 review, 34 quant-synthesis, 32 causal, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 35 of 164 report an effect size · 256 claims rest on one study
+> **Evidence** · 285 claims (147 for, 121 mixed, 17 against) · 171 studies (75 review, 38 quant-synthesis, 32 causal, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 37 of 171 report an effect size · 280 claims rest on one study
 
 ## Conditional relationship
 
@@ -339,6 +339,8 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [Surgeons trained on the dVSS tubes task were significantly faster at creating vesicourethral anastomosis than untrained controls, with no other differences](../claims/wang-dvss-training-faster-anastomosis.md) [+W] — attached 2026-11-01 from Schmidt MW et al. (2021), which proposed "Use robotic VR simulator training before operating on patients, as acquired skills transfer to the operating room"; tests this page's relationship.
 - [In-situ simulation is used in healthcare for four mapped purposes: assessment, system readiness and safety culture, clinical skills and patient outcomes, and non-technical skills, knowledge and confidence](../claims/iss-four-purpose-mapping-categories.md) [+W] — attached 2026-11-01 from Evans Kerry et al. (2022), which proposed "In-situ simulation conducted in the actual clinical environment with real equipment and teams enables realism, equipment testing, safe transitions to new facilities and wider team participation".
 - [Simulation-based obstetric team training shows a positive but statistically non-significant effect on Apgar scores less than 7 at 5 minutes, with moderate certainty evidence](../claims/obstetric-team-training-apgar-score-no-significant-effect.md) [~M] — attached 2026-11-01 from Brogaard L et al. (2022), which proposed "Train entire labor and delivery units locally with in situ multiprofessional simulation-based team training"; tests this page's relationship.
+- [Virtual endoscopy simulator training is superior to no-simulator control for independent procedure completion in gastroscopy training of novices (RR 1.25, 95% CI 1.13–1.39, P<0.0001)](../claims/simulator-training-improves-gastroscopy-independent-completion.md) [+W] — attached 2026-11-01 from Qiao Weiguang et al. (2014), which proposed "Use virtual endoscopy simulator training as an alternative to conventional teaching for novice gastroscopy learners"; tests this page's relationship.
+- [Virtual endoscopy simulator training reduces required assistance in gastroscopy training of novices (RR 0.42, 95% CI 0.35–0.50, P<0.00001)](../claims/simulator-training-reduces-gastroscopy-assistance.md) [+W] — attached 2026-11-01 from Qiao Weiguang et al. (2014), which proposed "Use virtual endoscopy simulator training as an alternative to conventional teaching for novice gastroscopy learners"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -497,6 +499,28 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Condensed TeamSTEPPS training coupled with simulation exercises reduced weighted adverse outcome scores, whereas training alone did not](../claims/simulation-plus-teamtraining-reduced-adverse-outcomes.md) [+W]
 - [Visuo-spatial ability impacts operative simulator performance in minimally invasive surgery, mainly in inexperienced novices](../claims/vsa-predicts-mis-simulator-performance-novices.md) [~W]
 - [The Through the D'mentia Lens virtual reality simulation improved caregivers' empathy and confidence in caring](../claims/tdl-virtual-reality-improved-empathy-confidence.md) [+W]
+- [Feedback improves balloon placement accuracy and yields a smoother learning curve in simulated renal artery angioplasty](../claims/feedback-angioplasty-accuracy-learning-curve.md) [+W]
+- [In situ simulation training was associated with a statistically significant and persistent 37% improvement in perinatal morbidity, while didactic-only and control hospitals showed no significant change](../claims/in-situ-simulation-perinatal-morbidity-improvement.md) [+W]
+- [Simulation-based mock code training was associated with increased pediatric resuscitation survival rates, from 33% to 50% within one year](../claims/mock-code-training-pediatric-survival-increase.md) [+W]
+- [Structured trauma resuscitation team training augmented by simulation improved teamwork domain ratings and reduced time to CT scanner, intubation, and operating room](../claims/simulation-augmented-team-training-improves-trauma-care-efficiency.md) [+W]
+- [Simulation-based training contributes to patient safety in laparoscopic surgery](../claims/simulation-training-contributes-to-patient-safety.md) [+W]
+- [The behavior performance benefit of simulation-based training is only significant for flexible laryngoscopy or bronchoscopy training, not direct laryngoscopy](../claims/sbt-behavior-benefit-only-fl-subgroup.md) [~W]
+- [Simulation-based training improves laparoscopic performance time in the operating room](../claims/simulation-training-improves-performance-time.md) [+W]
+- [Simulation-based training improves global rating scores in laparoscopic surgery](../claims/simulation-training-improves-global-ratings.md) [+W]
+- [Simulation-based training reduces intraoperative errors in laparoscopic surgery](../claims/simulation-training-reduces-intraoperative-errors.md) [+W]
+- [Simulation-based training translates laparoscopic surgical skills to the operating room](../claims/simulation-training-translates-laparoscopic-skills-to-or.md) [+W]
+- [High-fidelity simulation-based training led to improved patient care during cardiopulmonary bypass weaning compared with interactive seminars, at both post-test and retention test](../claims/simulation-beats-seminar-cpb-weaning-transfer.md) [+W]
+- [VR's score advantage over traditional methods (SMD = 0.81) does not hold against other 2D digital methods (SMD = 0.35, non-significant)](../claims/vr-anatomy-advantage-depends-on-comparator.md) [~W]
+- [Simulation-based training should be incorporated into surgical curricula targeting novice learners](../claims/simulation-training-should-be-incorporated-into-curricula.md) [+W]
+- [Simulation-based training increases economy of movement in laparoscopic surgery](../claims/simulation-training-increases-economy-of-movement.md) [+W]
+- [Procedure-related complications do not differ significantly between simulation-based and non-simulation based training groups](../claims/sbt-no-complication-difference-airway.md) [-W]
+- [Meta-regression finds no significant moderators of VR's effect on anatomy examination scores](../claims/vr-anatomy-meta-regression-no-moderators.md) [~W]
+- [The pooled VR score effect is robust to study removal and shows no significant publication bias](../claims/vr-anatomy-effect-robust-no-publication-bias.md) [+W]
+- [Virtual endoscopy simulator training increases required assistance in colonoscopy training (RR 2.51, 95% CI 1.38–4.55, P=0.002)](../claims/simulator-training-increases-colonoscopy-assistance.md) [-W]
+- [VR training simulators develop perceptual-motor skills for machinery operation, but real-world skill transfer remains difficult to assess](../claims/vr-simulators-perceptual-motor-skills-transfer-challenge.md) [~W]
+- [Students report greater satisfaction with VR-based anatomy learning than with conventional or 2D methods](../claims/vr-anatomy-satisfaction-advantage.md) [~W]
+- [VR benefits examination scores for medical students but not significantly for residents](../claims/vr-anatomy-benefit-medical-students-not-residents.md) [~W]
+- [Longer VR interventions (at least 1 day) show larger score effects than interventions under 1 day](../claims/vr-anatomy-duration-moderates-effects.md) [~M]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.

@@ -80,6 +80,7 @@ Multimedia works when the combination reduces extraneous load and enables refere
 - [Analogies and Prior Knowledge Activation](../strategies/activating-prior-knowledge.md) — analogies are a verbal illustration device that pairs naturally with visual models
 - [Case-Based Learning](../strategies/case-based-learning.md) — cases supply authentic contexts that multiple media can render vividly
 - [Replace on-device pictures with drawings of real objects to make mobile-device media complementary to the objects](drawings-replace-pictures-complementary-mobile-media.md)
+- [Use AR overlays aligned with multimedia learning principles: pair words with nearby, simultaneous images and segment lessons into self-paced chunks](ar-design-multimedia-principles-strategy.md)
 
 ## Examples
 - **PhET Interactive Simulations** (https://phet.colorado.edu) — research-validated science simulations paired with guided inquiry activities; studies show simulation-plus-guided-activity outperforms simulation alone [~M]

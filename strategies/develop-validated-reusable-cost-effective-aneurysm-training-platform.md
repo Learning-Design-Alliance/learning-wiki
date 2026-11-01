@@ -52,6 +52,7 @@ The review's forward-looking recommendation is that future research should focus
 - [Develop a standardised simulation assessment template incorporating both subjective and objective validation assessments, adapted per neurosurgical skill](simulation-assessment-template-subjective-objective-validity.md)
 - [Use validated homogeneous outcome measures, preferably in a patient setting, in future FB SBT studies](validated-homogeneous-outcome-measures-strategy.md)
 - [Develop portable low-cost COTS-based simulators to enable ubiquitous training and presurgical warm-up in minimally invasive surgery](low-cost-portable-cots-simulators-ubiquitous-mis-training.md)
+- [Develop open, reusable, generalizable CBL platforms for specific learning contexts instead of building closed systems from scratch](reusable-open-cbl-platforms-strategy.md)
 
 ## Examples
 -

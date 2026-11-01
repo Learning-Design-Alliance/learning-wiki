@@ -75,3 +75,5 @@ Evaluator-blinded parallel RCT (n=20 medical students) comparing Vuzix M300XL sm
 - [Remote teaching achieves competency outcomes equivalent to traditional learning for basic surgical skills in most studies](rt-equivalent-to-tl-basic-surgical-skills.md) — related
 - [In thyroid surgery training, simulation and virtual-reality training improved technical performance and task completion time, and simulators were rated as realistic](simulation-vr-improves-thyroid-surgery-technical-performance.md) — related
 - [Retention of knowledge over time showed no statistically significant difference between e-learning and traditional learning in the studies that assessed it](el-tl-knowledge-retention-no-difference.md) — related
+- [Simulation-based training improves suturing, cutting, and cautery skills](simulation-training-improves-suturing-cutting-cautery.md) — related
+- [Simulator-based skills training improves performance in therapeutic endoscopic procedures (polypectomy, upper GI bleeding control, esophageal dilation)](simulator-training-improves-therapeutic-endoscopy-skills.md) — related

@@ -66,3 +66,4 @@ Bayesian network meta-analysis (BUGSnet in R 4.3.2, random-effects model, mean d
 - [PBL-based teaching yields higher knowledge scores than LBL in Chinese standardized residency training](pbl-higher-knowledge-scores-chinese-srt.md) — related
 - [PBL-based teaching yields higher total scores than LBL in Chinese standardized residency training](pbl-higher-total-scores-chinese-srt.md) — related
 - [Hybrid PBL+LBL pedagogy yields significantly better clinical theoretical knowledge assessment scores than LBL alone in Chinese medical students](pbl-lbl-hybrid-better-theory-scores-china.md)
+- [A single two-hour EBM literature searching workshop did not significantly improve medical students' overall EBM literature searching skills at one week (10.51 vs. 10.50, P=0.99)](single-workshop-no-literature-searching-gain.md) — reports the opposite

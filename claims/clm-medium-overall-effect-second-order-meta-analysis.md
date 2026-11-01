@@ -51,3 +51,4 @@ Second-order meta-analysis under a random effect model combining 19 first-order 
 - [The effect of cooperative learning differs by the location of the meta-analysis studies, with single-country studies showing higher effects than mixed-country studies](cooperative-learning-location-moderator.md) — related
 - Publication bias in the dataset is low and unimportant: Egger's test is non-significant and the trim-and-fill adjusted effect size (ES=.76) differs from the observed value by only about .02 — related
 - [Mean effect sizes across the 13 reviewed meta-analyses ranged from -.11 to .57](mean-effect-sizes-range-negative-11-to-57.md) — related
+- [Across 22 effect sizes from 20 articles, 19 studies (86.4%) show high effect sizes and three (13.6%) show medium effect sizes](majority-studies-high-effect-size-teaching-materials.md) — related

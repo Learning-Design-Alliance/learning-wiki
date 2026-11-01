@@ -67,3 +67,4 @@ Independent-samples t-tests comparing 67 lower-proficiency (L) and 30 higher-pro
 - [Non-learners show higher state anxiety than learners, but trait anxiety does not differ between groups](non-learners-higher-state-anxiety-trait-unchanged.md) — related
 - [No correlation between motivation or engagement measures and tutor learning gains](no-correlation-motivation-learning-gain.md) — related
 - [Positive motivational beliefs are associated with high-level learning strategies, consistent with Pintrich and García's self-regulated learning proposal](motivation-cognition-patterns-srl.md) — related
+- [Different dashboard designs produce different learning outcome impacts, as predictive and descriptive dashboards diverge](lad-design-type-moderates-outcomes.md) — related

@@ -49,3 +49,5 @@ Meta-analysis of 5 randomized controlled trials reporting clinical operation sco
 - [PBL significantly improves clinical skill scores compared with lecture-based learning in medical education](pbl-improves-clinical-skill-scores-versus-lbl.md) — a broader claim this one bears on
 - [PBL significantly increases student satisfaction compared with traditional teaching in Chinese gynecology and obstetrics education (RR 1.29)](pbl-increases-student-satisfaction-china-obgyn.md) — related
 - [PBL significantly increases theoretical knowledge scores compared with traditional teaching in Chinese gynecology and obstetrics education (SMD 3.17)](pbl-increases-theoretical-knowledge-scores-china-obgyn.md) — related
+- [PBL improves knowledge scores in Chinese physical diagnostics education compared with traditional teaching (SMD = 0.76)](pbl-knowledge-scores-chinese-physical-diagnostics-meta-analysis.md) — related
+- [PBL improves skill scores in Chinese physical diagnostics education compared with traditional teaching (SMD = 1.46)](pbl-skill-scores-chinese-physical-diagnostics-meta-analysis.md) — related

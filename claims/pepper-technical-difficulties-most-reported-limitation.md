@@ -59,3 +59,4 @@ Review synthesis of implementation issues across the 13 included studies. The re
 - [Students integrating QR-code AR into their learning reported no technical issues, attributed to alpha-generation technology familiarity](qr-code-ar-no-technical-issues-alpha-generation.md) — related
 - [Trails were only partially successful technologically due to device and network problems](trails-partially-successful-technologically.md) — related
 - [Nurses generally report satisfaction with e-learning in continuing education, though dissatisfaction arises from technical difficulties and preference for face-to-face formats](nurse-satisfaction-e-learning-ce-mixed-drivers.md) — related
+- [Legal and technical issues are described as the main challenges of developing and using virtual patients](vp-challenges-legal-technical.md) — related

@@ -219,3 +219,4 @@ Review synthesis on uncritical trust in AI outputs. The authors conclude that "u
 - [GenAI chatbot support increased executive help-seeking but reduced metacognitive engagement compared to human expert support](genai-chatbot-increased-executive-help-seeking-reduced-metacognition.md) — related
 - [Unstructured LLM use is associated with reduced engagement with primary reference texts and lower ability to identify hallucinations](unguided-llm-use-critical-appraisal-erosion.md) — related
 - [Regulatory oversight by bodies such as the US FDA is presented as critical for fostering trust in AI among clinicians and patients](regulatory-oversight-fosters-trust-in-ai.md) — related
+- [Over-reliance on AI leading to superficial learning is the most frequently reported learning risk, documented in 65.52% of reviewed studies](overreliance-superficial-learning-risk.md) — related

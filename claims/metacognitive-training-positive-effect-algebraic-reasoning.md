@@ -47,3 +47,4 @@ Meta-analysis pooling 22 effect sizes from 18 peer-reviewed studies of metacogni
 ## Related Claims
 - [After removing one outlier study, metacognitive training still shows a statistically significant positive effect on algebraic reasoning (d=0.973, SE=0.196)](metacognitive-training-effect-without-outlier-d0973.md) — related
 - [Technology-supported educational interventions are associated with higher metacognitive outcomes on average (g = 0.653), with substantial between-study heterogeneity](technology-interventions-positive-pooled-metacognition-effect.md) — related
+- [ITS use has a significant positive effect on U.S. K-12 students' learning outcomes (g=0.271)](its-positive-effect-us-k12-achievement.md) — related

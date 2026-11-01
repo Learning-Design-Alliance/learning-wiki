@@ -49,3 +49,4 @@ Review narrative of VIST validation studies. Chaer et al. was a randomized, cont
 - [ANGIO Mentor was the most highly validated and effective vascular simulator and the only simulator to achieve an LoE of 5/5](angio-mentor-most-validated-loe-5.md) — related
 - [Only seven studies of vascular surgery simulation achieved a level of effectiveness greater than 3/5, with the majority scoring LoE 1-2/5](few-simulators-loe-above-3.md) — a broader claim this one bears on
 - [Evidence on transfer to clinical behavior and patient outcomes is scarce: only 2 studies reached Kirkpatrick level 3 and 1 reached level 4](transfer-and-patient-outcomes-scarce.md) — related
+- [Non-expert delivered feedback is as effective as expert feedback on most outcomes in endovascular simulator training](non-expert-feedback-comparable-expert.md) — related

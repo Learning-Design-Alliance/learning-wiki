@@ -54,3 +54,4 @@ Heterogeneity test within the same three-level random-effects meta-analysis. The
 - [Label-effect sizes are highly heterogeneous, with variance split between and within studies](label-effect-heterogeneity-multilevel-variance.md) — related
 - Effect sizes vary widely between studies and especially between comparisons within studies — related
 - [Between-study heterogeneity in LLM dental-question accuracy is very high (I² = 91.5%), with a prediction interval spanning 29.65% to 91.71%](high-heterogeneity-llm-dental-accuracy.md) — related
+- [High between-study heterogeneity exists in pooled FCI gender gap estimates (Q = 215.36, I² = 91.3%, τ² = 0.0620)](fci-gender-gap-high-heterogeneity.md) — related

@@ -51,3 +51,5 @@ Narrative synthesis of adverse-effect reporting across 7 included RCTs. The most
 - [Motion sickness after the iVR experience was negligible for most participants, but a minority felt significant discomfort](ivr-motion-sickness-negligible-minority-discomfort.md) — related
 - [Computer-based simulation and immersive VR platforms differ in their primary limitations: feedback timeliness versus physiological discomfort](vs-platform-specific-limitations.md) — related
 - [Motion sickness remains a disagreeable side effect of IVR serious games for a minority of participants](ivr-sgs-motion-sickness-side-effect.md) — related
+- [Reviews of eduXR experiences reveal human interface issues, motion sickness, and problems with interaction affordances](eduxr-reviews-reveal-interface-motion-sickness-affordances.md) — a broader claim this one bears on
+- [VR use in anatomy learning can cause adverse effects and disorientation for some learners](vr-anatomy-adverse-effects-cybersickness.md) — a narrower finding that bears on this claim

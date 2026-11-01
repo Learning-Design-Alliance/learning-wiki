@@ -50,3 +50,4 @@ Abstract-reported headline result of the rubric-based holistic scoring pipeline 
 - [Automated essay scoring can achieve high agreement with human raters but faces calibration constraints](aes-high-agreement-calibration-constraint.md) — related
 - [Feature-based MLP deep learning models predict ASAP D7 rubric scores with an average QWK of 0.72 against human raters' resolved scores, exceeding the 0.60 average agreement between the two human raters](aes-d7-rubric-qwk-072-exceeds-human-agreement.md) — related
 - [The best AES models per FRISCO dimension reached strong agreement for Situation (QWK 0.728) and Clarity (QWK 0.763) but only fair agreement for Focus, Reason, and Inference in Indonesian physics essays](aes-frisco-qwk-varies-by-dimension.md) — related
+- [Rubric-guided grading pipelines can approach human-level agreement when explicit rubrics, exemplars, and calibration are used](rubric-guided-grading-human-agreement.md) — related

@@ -53,3 +53,4 @@ Review synthesis of validity evidence across included studies. The review report
 - [Structured viva shows positive significant correlations with standard assessment tools (MCQs, OSCE, structured theory exam) while traditional viva does not correlate significantly with the structured theory exam](structured-viva-validity-correlations-standard-tools.md) — a narrower finding that bears on this claim
 - [Traditional interview scores show modest predictive validity: average observed correlation ra = .15 and average corrected validity rac = .29 across 106 published validity coefficients](interview-corrected-validity-029.md)
 - [Interview validity tends to be higher for non-academic outcomes than for academic outcomes](interview-validity-higher-non-academic-outcomes.md) — related
+- [Safety competency scores correlate highly with technical skills but lowly or modestly with written examination scores](safety-scores-correlate-technical-skills-not-written-exams.md) — related

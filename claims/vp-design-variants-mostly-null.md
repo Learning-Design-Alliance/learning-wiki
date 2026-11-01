@@ -72,3 +72,4 @@ Skills-domain design comparisons: human empathic feedback and narrative structur
 - Outcome evaluation of AI-generated virtual patients in HPE is concentrated at Kirkpatrick level 1, with no studies reporting level 3 or 4 outcomes — related
 - [In the Harris RCT, neither e-learning strategy improved substance abuse management outcomes versus no training](harris-rct-no-p-csat-difference.md) — related
 - [Evidence comparing virtual patient design variants is too sparse to give clear recommendations, with only isolated significant design effects](vp-design-variants-insufficient-evidence.md) — possibly the same claim (merge candidate)
+- [Interactivity level in virtual patients is related to the navigation model, with branching allowing the highest level](vp-authenticity-interactivity-feedback.md) — related

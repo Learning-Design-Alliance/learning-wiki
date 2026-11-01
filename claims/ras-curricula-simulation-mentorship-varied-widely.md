@@ -50,3 +50,4 @@ The review's synthesis of curricula elements reports that "The nature and volume
 - [Objective assessment and non-technical skills training were not uniformly included across the 29 comprehensive RAS curricula.](ras-curricula-objective-assessment-nts-not-uniform.md) — related
 - [A standardised RAS curriculum is feasible and beneficial, and surgical societies have outlined RAS curricula which could be implemented locally.](standardised-ras-curriculum-feasible-beneficial.md) — related
 - [Surgical societies outlined RAS curricula featuring proficiency-based progression, modular intraoperative training, and objective assessment.](surgical-societies-ras-curricula-proficiency-modular-objective.md) — related
+- [Simulation-based training should be incorporated into surgical curricula targeting novice learners](simulation-training-should-be-incorporated-into-curricula.md) — related

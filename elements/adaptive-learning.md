@@ -18,7 +18,7 @@ sources:
 # Adaptive Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 33 claims (21 for, 10 mixed, 2 against) · 32 studies (9 causal, 9 review, 4 quant-synthesis, 3 associational, 3 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 3 of 32 report an effect size · 32 claims rest on one study
+> **Evidence** · 34 claims (21 for, 11 mixed, 2 against) · 33 studies (10 review, 9 causal, 4 quant-synthesis, 3 associational, 3 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 3 of 33 report an effect size · 33 claims rest on one study
 
 ## Description
 Adaptive learning tailors content, pacing, support, or task sequence in response to evidence about a learner's current performance, needs, or prior knowledge.
@@ -85,6 +85,7 @@ Adaptive learning tailors content, pacing, support, or task sequence in response
 - [Difficulty adaptation significantly reduced the variance of task correctness and perceived difficulty across learners](../claims/adaptation-balances-outcome-variance-across-learners.md) [+W]
 - [Only a minority of included SBST programs tailored training to pre-existing skill levels or explicitly assessed learner motivation](../claims/dp-sbst-tailoring-and-motivation-rarely-assessed.md) [-W]
 - [The pooled effect of adaptive e-learning on knowledge is moderate-to-large but not statistically significant, with very high heterogeneity](../claims/aee-knowledge-effect-not-significant.md) [~W]
+- [Tailoring was utilized at a surprisingly low level in the reviewed Web-based substance use interventions](../claims/tailoring-utilization-surprisingly-low.md) [~W]
 
 ## The evidence by question
 - *Does adaptive instruction raise achievement over non-individualised instruction or the same content in a fixed sequence?* [Intelligent tutoring systems improve achievement over non-individualised instruction](../claims/adaptive-learning-improves-outcomes.md) [+S]

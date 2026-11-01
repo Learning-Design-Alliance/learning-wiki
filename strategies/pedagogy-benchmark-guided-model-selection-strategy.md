@@ -49,6 +49,7 @@ The authors recommend that EdTech product developers use their leaderboards as "
 - [Deploy quantized adapted small models offline with a teacher in the loop rather than as autonomous graders](teacher-in-the-loop-offline-small-model-deployment.md)
 - [Match LLM deployment role in language education to the model's assessed proficiency level](match-llm-role-to-assessed-proficiency.md)
 - [Use domain-specific fine-tuning of open-source diffusion models to build trustworthy generative AI tools for specialized technical domains](domain-specific-fine-tuning-for-trustworthy-generative-ai.md)
+- [Prioritize teacher-centered AI implementations that enhance rather than replace human expertise](teacher-centered-ai-implementation-priority.md)
 
 ## Examples
 -

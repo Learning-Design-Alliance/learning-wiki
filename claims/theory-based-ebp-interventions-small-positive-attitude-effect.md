@@ -48,3 +48,4 @@ Systematic review narrative synthesis of five theory-based studies; no meta-anal
 
 - [EBP attitude change depends on measurement timing: immediate post-test measures show no difference while longer-term measures show improvement](ebp-attitude-change-timing-longer-term.md)
 - [A theory-based EBP intervention produced a small significant increase in EBP use but no significant difference in EBP future use](ebp-use-increase-future-use-null.md)
+- [The review found inconclusive evidence regarding the best time to introduce EBP teaching into the health curriculum](inconclusive-timing-for-ebp-curriculum-introduction.md) — related

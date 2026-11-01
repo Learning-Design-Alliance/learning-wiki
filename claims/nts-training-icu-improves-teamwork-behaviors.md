@@ -59,3 +59,4 @@ Systematic review of 14 studies (11 before-and-after, one RCT, one quasi-experim
 - [Simulation-based emergency open-conversion training reduced time to conversion and improved leadership and role delineation in robotic prostatectomy teams](conversion-simulation-training-reduces-conversion-time.md) — related
 - [SBL is associated with wider clinical performance benefits including self-confidence, self-efficacy, clinical reasoning and teamwork](sbl-wider-clinical-performance-benefits.md) — related
 - [NOTSS was the most used NTS tool with strong validity evidence, but self-assessment without validity evidence was the most frequent form of NTS assessment (n=78)](self-assessment-most-frequent-nts-assessment.md) — related
+- [Workshop, simulation, and team-review methods significantly improve teamwork behaviors, while the pooled effect of didactic education alone was not significant](didactic-education-fails-to-improve-teamwork.md) — related

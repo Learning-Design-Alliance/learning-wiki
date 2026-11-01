@@ -49,3 +49,4 @@ Presence was measured with the Makransky et al. (2017) scale in the 91-participa
 - [The review reports no evidence that the mere visual presence of a human-like body produces distinct effects, though likeable appearance improves motivation and transfer](no-evidence-mere-visual-presence-social-cue-hypothesis.md) — related
 - [Minimal human-like cues suffice to trigger automatic social reactions to embodied agents, though the role of visual social cues remains contested](minimal-social-cues-trigger-automatic-social-reactions.md) — a broader claim this one bears on
 - [Neither the pedagogical agent cue nor the light cue improved learning outcomes in the immersive VR dual-task environment](vr-cueing-no-learning-outcome-effect.md) — related
+- [Cognitive presence appears in 46% and social presence in 45% of VR learning studies, each tied to distinct task families](cognitive-social-presence-frequencies.md) — related

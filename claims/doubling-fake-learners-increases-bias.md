@@ -51,3 +51,4 @@ The 'future projection' simulation duplicated fake-learner data to increase thei
 - [Fake learners solved exercises significantly faster than true learners and showed higher weekly improvement, but did not differ significantly on grade, ability, or CFA.](fake-learners-faster-and-higher-weekly-improvement.md)
 - [Fake learners spent significantly less time on each type of instructional resource than true learners in the MITx 8.MReVx MOOC.](fake-learners-less-time-on-instructional-resources.md)
 - [Fake learners attempted a smaller proportion of assessment items than true learners, with the smallest gap on homework items.](fake-learners-attempt-fewer-items.md)
+- [Trust in reviews is highest for voluntary reviews because fake reviews are usually created for payment](voluntary-reviews-highest-trust-paid-fakes.md) — related

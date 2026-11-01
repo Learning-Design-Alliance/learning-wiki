@@ -58,3 +58,4 @@ The article, a conceptual and methodological framework with an explorative study
 - [Teachers often rely on informal impressions rather than systematic, theory-grounded diagnostic procedures when judging students' SRL](teachers-rely-on-informal-diagnostic-judgments-srl.md) — related
 - [Perceived effort ratings are metacognitive judgments based on heuristic cue processing and prone to bias](perceived-effort-metacognitive-judgment.md) — a narrower finding that bears on this claim
 - [Students use invested mental effort as a cue when judging their learning, and self-rated mental effort is negatively related to judgments of learning](effort-cue-negative-jol-relation.md) — related
+- [LAD evaluation methods are predominantly traditional, relying on surveys, quizzes and crude proxies prone to subjectivity bias](lad-traditional-evaluation-methods.md) — related

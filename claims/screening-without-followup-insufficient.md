@@ -71,3 +71,4 @@ The review reports that subsequent qualitative and implementation studies found 
 - [Follow-up support shows low initiation but reliable completion: the bottleneck is noticing and composing the question, not the AI's ability to answer](followup-low-initiation-high-completion.md) — related
 - [Depressive symptoms are detected in 26.35% of secondary vocational students](vocational-students-depression-detection-26-35-percent.md) — related
 - [A low-intensity telehealth problem-solving intervention delivered by trained diabetes educators, nurses and dietitians reduced mild to moderate diabetes distress more than usual care (LISTEN trial)](listen-trial-nonpsychologist-delivery-effective.md) — related
+- [Screening alone does not improve depression outcomes without organizational changes](screening-alone-no-outcome-improvement.md) — possibly the same claim (merge candidate)

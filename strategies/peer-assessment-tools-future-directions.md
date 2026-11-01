@@ -45,7 +45,8 @@ The review's conclusion sets an agenda for tool development and research. It arg
 - [Multiple peer reviews produced greater improvement between draft and final paper than a single expert reviewer in a SWoRD evaluation](../claims/multiple-peer-reviews-beat-single-expert-reviewer-sword.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Future peer-grading systems should evaluate formative feedback at scale using LLMs and extend the taxonomy to grade-synthesis algorithms](future-peer-grading-llm-formative-evaluation.md)
 
 ## Examples
 -

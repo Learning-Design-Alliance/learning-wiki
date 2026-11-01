@@ -50,3 +50,4 @@ Correlational analysis within the same experiment relating posttest scores to be
 - [Correctness of generated and classified examples during learning correlates selectively with posttest task performance](example-correctness-correlations-posttest.md) — related
 - [Self-reported learning gains and correlational analyses suggest interrelations among second-order and strategy knowledge, epistemological beliefs, explanation ability, topic knowledge, and interest](correlational-interrelatedness-history-reasoning-constructs.md) — related
 - [More positive beliefs about science and more knowledge about how science works are associated with a lower probability of selecting personal-experiences sources](beliefs-knowledge-reduce-personal-experiences-selection.md) — related
+- [Small but significant correlations exist between students' incoming beliefs and their conceptual gains in physics courses](incoming-beliefs-correlate-conceptual-gains.md) — related

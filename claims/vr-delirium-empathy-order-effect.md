@@ -60,3 +60,4 @@ This was a prospective, single-centre, quasi-experimental crossover study with 1
 - [Simulation-based interventions produce a small but statistically significant improvement in nursing students' empathy](simulation-small-significant-empathy-gain.md) — related
 - [In a randomised crossover trial, simulation training produced a 22% absolute increase in scores for assessing critically unwell patients versus didactic lectures](simulation-crossover-22-percent-increase-critically-unwell.md) — related
 - [The Through the D'mentia Lens virtual reality simulation improved caregivers' empathy and confidence in caring](tdl-virtual-reality-improved-empathy-confidence.md) — related
+- [VR-based safety training enhances self-efficacy more effectively than traditional lecture-based training](vr-safety-training-enhances-self-efficacy.md) — related

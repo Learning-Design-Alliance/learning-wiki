@@ -32,7 +32,7 @@ sources:
 # Problem-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 108 claims (42 for, 58 mixed, 8 against) · 70 studies (29 quant-synthesis, 11 review, 10 causal, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 18 of 70 report an effect size · 103 claims rest on one study
+> **Evidence** · 120 claims (48 for, 63 mixed, 9 against) · 74 studies (32 quant-synthesis, 12 review, 10 causal, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 20 of 74 report an effect size · 115 claims rest on one study
 
 ## Conditional relationship
 
@@ -132,6 +132,8 @@ On 2026-10-19 (wave 2) the other claims linked here were read and moved into the
 - [PBL teaching yields higher knowledge scores than traditional teaching in orthopaedics education](../claims/pbl-higher-knowledge-scores-orthopaedics.md) [+W] — attached 2026-11-01 from Li Ting et al. (2024), which proposed "Adopt PBL in orthopaedics clinical teaching while planning for added study time demands and pressure"; tests this page's relationship.
 - [PBL teaching yields higher procedural skill and clinical skill scores than traditional teaching in orthopaedics education](../claims/pbl-higher-skill-scores-orthopaedics.md) [+W] — attached 2026-11-01 from Li Ting et al. (2024), which proposed "Adopt PBL in orthopaedics clinical teaching while planning for added study time demands and pressure"; tests this page's relationship.
 - [PBL students experience less learning time and higher learning pressure than traditional-teaching students in orthopaedics education](../claims/pbl-less-time-higher-pressure-orthopaedics.md) [~W] — attached 2026-11-01 from Li Ting et al. (2024), which proposed "Adopt PBL in orthopaedics clinical teaching while planning for added study time demands and pressure".
+- [PBL is associated with higher theoretical examination scores than traditional lecture-based teaching in Chinese pharmacy education (SMD = 1.17)](../claims/pbl-higher-theoretical-scores-chinese-pharmacy.md) [+M] — attached 2026-11-01 from Zhou Jiyin et al. (2016), which proposed "Adopt PBL as an optional, supplementary teaching method in Chinese pharmacy education, tailored to local institutional needs"; tests this page's relationship.
+- [Questionnaire results show PBL superior to conventional teaching for learning interest, independent analysis skills, scope of knowledge, self-study, team spirit, and oral expression](../claims/pbl-questionnaire-superiority-six-outcomes.md) [+W] — attached 2026-11-01 from Zhou Jiyin et al. (2016), which proposed "Adopt PBL as an optional, supplementary teaching method in Chinese pharmacy education, tailored to local institutional needs"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -206,6 +208,16 @@ At the curriculum level, the expectation of a small and variable average should 
 - [PBL+LBL significantly increases comprehensive ability scores compared with LBL alone](../claims/pbl-lbl-increases-comprehensive-ability-scores.md) [~W]
 - [PBL is associated with higher overall DREEM medical educational environment scores than LBL in randomized trials](../claims/pbl-higher-dreem-than-lbl.md) [+W]
 - [Hybrid PBL+LBL pedagogy yields significantly higher comprehensive ability scores than LBL alone](../claims/pbl-lbl-hybrid-better-comprehensive-ability.md) [~W]
+- [PBL yields higher course examination pass rates than LBL in introductory Chinese undergraduate medical courses](../claims/pbl-higher-pass-rates-chinese-medical-courses.md) [+W]
+- [PBL improves knowledge scores in Chinese physical diagnostics education compared with traditional teaching (SMD = 0.76)](../claims/pbl-knowledge-scores-chinese-physical-diagnostics-meta-analysis.md) [~W]
+- [PBL yields higher course examination excellence rates than LBL in introductory Chinese undergraduate medical courses](../claims/pbl-higher-excellence-rates-chinese-medical-courses.md) [+W]
+- [Included PBL studies show very high heterogeneity, limiting generalizability of pooled effect sizes](../claims/pbl-meta-analysis-high-heterogeneity-limits-generalizability.md) [~W]
+- [PBL+LBL combination does not produce a significantly higher pass rate than LBL alone](../claims/pbl-lbl-combination-no-significant-pass-rate-gain.md) [-W]
+- [PBL improves skill scores in Chinese physical diagnostics education compared with traditional teaching (SMD = 1.46)](../claims/pbl-skill-scores-chinese-physical-diagnostics-meta-analysis.md) [+W]
+- [PBL advantage on knowledge scores holds in the five-year school-system subgroup (SMD = 0.90)](../claims/pbl-knowledge-five-year-system-subgroup.md) [~W]
+- [PBL advantage on skill scores holds in the five-year school-system subgroup (SMD = 1.08)](../claims/pbl-skill-five-year-system-subgroup.md) [+W]
+- [Combining PBL with LBL does not produce superior teaching effectiveness compared with exclusive PBL application](../claims/pbl-lbl-combination-not-superior-to-exclusive-pbl.md) [~W]
+- [Virtual problem-based learning was equally as effective as text-based PBL for enhancing student learning and learning environment](../claims/vpbl-equally-effective-as-text-based-pbl.md) [~W]
 
 ## Related Principles
 - [Inquiry-based Learning](inquiry-based-learning.md) — PBL is one inquiry form centered on authentic problems.
@@ -216,10 +228,12 @@ At the curriculum level, the expectation of a small and variable average should 
 - [Provide student choice to build ownership and self-efficacy in maker education](autonomy.md)
 
 ## Examples
+
 - **Community issue investigation**: Learners analyze a local problem, gather evidence, and propose responses.
 - **Case-based team problem solving**: Small groups work through a realistic professional dilemma with incomplete information.
 - **Design challenge**: Learners create and defend a solution to a practical constraint-based problem.
 - **Cross-disciplinary PBL module**: Learners integrate literacy, numeracy, and research skills to address a shared problem.
+- [Structure PBL teaching around the problem-laying, information-search, group-discussion, summary, and effectiveness-evaluation sequence](../strategies/pbl-teaching-process-sequence-strategy.md)
 
 ## Key Sources
 - Marra, R. M., Jonassen, D. H., Palmer, B., & Luft, S. (2014). Why problem-based learning works: Theoretical foundations. *Journal on Excellence in College Teaching, 25*(3-4), 221-238.

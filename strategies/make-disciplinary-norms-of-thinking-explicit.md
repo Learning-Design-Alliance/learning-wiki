@@ -48,6 +48,7 @@ The fifth strategy is "Making disciplinary norms of thinking explicit to learner
 - [Student Reflection (Responsible Decision-Making)](student-reflection-responsible-decision-making.md)
 - [Class Discussion Norms](class-discussion-norms.md)
 - [Provide necessary learning resources and simplify non-critical aspects of complex practice](simplify-non-critical-aspects-of-complex-practice.md)
+- [Design physics modules and worksheets with explicit critical thinking prompts, open-ended problems, and real-world decision-making scenarios](design-materials-prompts-open-ended-real-world.md)
 
 ## Examples
 -

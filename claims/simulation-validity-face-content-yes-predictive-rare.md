@@ -58,3 +58,4 @@ In the Discussion, the review reports that "the majority demonstrated face valid
 - [Most identified assessment tools demonstrate construct or concurrent validity, but predictive validity is absent across tool categories](construct-validity-common-predictive-absent.md) — related
 - [Cadaver models were perceived as the most anatomically realistic and outperformed placenta models on face validity, with no content-validity difference](cadaver-models-most-anatomically-realistic-outperform-placenta-face.md) — a narrower finding that bears on this claim
 - [Educational utility was not explicitly assessed for most tools, and no studies reported data on educational impact](educational-utility-not-assessed-no-impact-data.md) — related
+- [No identified procedural skills assessment tool has established construct validity; only face and content validity are reported](no-construct-validity-procedural-assessment-tools.md) — related

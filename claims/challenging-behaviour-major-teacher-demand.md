@@ -70,3 +70,4 @@ The review reports this experimental class-grouping study from the school sector
 - [Class composition indexing demand on educators (younger age, higher learning needs, disadvantage, minority status) is associated with reduced observed interactional quality in ECEC, with no association for gender](class-composition-demand-reduced-interactional-quality.md) — related
 - [Larger class size linked to poorer student and teacher performance (review attribution)](larger-class-size-poorer-performance.md) — related
 - [Genetic influences drive the phenotypic correlations between cognitive skills and reading components](genetic-influences-drive-cognitive-reading-correlations.md) — related
+- [Parental recognition or referral request and comorbid behaviour problems predicted GP recognition and referral of child hyperactivity in a London community sample](parent-request-predicts-gp-adhd-recognition.md) — related

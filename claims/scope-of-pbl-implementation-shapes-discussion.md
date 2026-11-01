@@ -74,3 +74,4 @@ Same study, results section: the hybrid implementation had a countervailing enha
 - [Student-centered education is feasible in different cultural contexts, but processes and outcomes are likely to differ across them](student-centered-education-feasible-across-cultures.md) — a broader claim this one bears on
 - [Behavior and contribution quality are shaped by platform incentives and features rather than self-reported motivations](platform-features-shape-behavior-and-quality.md) — related
 - [PBL approaches consistently enhance EFL student engagement, motivation, and active involvement in learning](pbl-enhances-efl-engagement-motivation.md) — related
+- [Virtual problem-based learning was equally as effective as text-based PBL for enhancing student learning and learning environment](vpbl-equally-effective-as-text-based-pbl.md) — related

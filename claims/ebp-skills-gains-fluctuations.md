@@ -68,3 +68,7 @@ Review reports Liabsuetrakul et al.'s one-group pre-test/post-test studies measu
 - [A theory-based EBP intervention produced a small significant increase in EBP use but no significant difference in EBP future use](ebp-use-increase-future-use-null.md)
 - [Theory-based EBP teaching produced significant knowledge gains in two nursing studies and one medical-study summative assessment](theory-based-ebp-teaching-knowledge-gains.md) — related
 - [College students' scores on an online source credibility assessment improved significantly after four course-embedded modules in an asynchronous nutrition course](course-embedded-modules-improve-credibility-scores.md) — related
+- [An EBP curriculum culture intervention at a dental college increased students' journal reading, research-report evaluation confidence, and evidence-use experience](dental-ebp-culture-gains.md) — related
+- [A multifaceted EBP course for nursing students significantly improved competence, attitudes, knowledge, and skills versus baseline at two months after a 15-week intervention](nursing-ebp-course-improved-competence-2-months.md) — related
+- [Only 2 of the 20 included studies adopted an online approach to teach EBP, and both concluded that technology to teach research skills can facilitate EBP teaching](online-ebp-teaching-in-infancy-two-studies.md) — related
+- [A web-based EBP tool usable from computer, smartphone, or iPad significantly improved overall research skills among nursing and nutrition student groups](web-based-ebp-tool-improved-research-skills.md) — related

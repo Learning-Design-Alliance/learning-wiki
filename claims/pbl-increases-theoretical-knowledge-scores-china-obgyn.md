@@ -56,3 +56,4 @@ Meta-analysis of randomized controlled trials in Chinese obstetrics and gynecolo
 - [PBL teaching yields higher procedural skill and clinical skill scores than traditional teaching in orthopaedics education](pbl-higher-skill-scores-orthopaedics.md) — related
 - [PBL improves theoretical knowledge scores in Chinese radiology education compared with traditional teaching (pooled SMD = 1.20)](pbl-higher-theoretical-scores-chinese-radiology.md) — related
 - [PBL significantly increases theoretical knowledge scores compared with LBL in Chinese pediatric medical education (SMD 1.16)](pbl-increases-theoretical-knowledge-scores-pediatric-china.md) — related
+- [PBL is associated with higher theoretical examination scores than traditional lecture-based teaching in Chinese pharmacy education (SMD = 1.17)](pbl-higher-theoretical-scores-chinese-pharmacy.md) — related

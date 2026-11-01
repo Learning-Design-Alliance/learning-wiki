@@ -58,6 +58,7 @@ The review recommends that future research strengthen study designs through adeq
 - [Employ standardized, validated UX questionnaires and commercial HMDs to strengthen and scale XR education research](standardized-ux-surveys-and-hmds-for-xr-research.md)
 - [Enhance SBLE quality by applying standards, specifying objectives, using externally validated scenarios, and employing rigorous evaluation](four-recommendations-quality-sble-communication.md)
 - [Future active-classroom research should use adequately powered, well-randomized trials measuring a wide range of student outcomes](active-classroom-research-design-recommendations.md)
+- [Prioritize larger sample sizes, multicentre designs, and rigorous reporting in future simulation-based CRM transfer and patient-outcome research](multicentre-rigorous-crm-outcome-research-strategy.md)
 
 ## Examples
 -

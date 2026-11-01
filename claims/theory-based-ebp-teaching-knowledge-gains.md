@@ -48,3 +48,6 @@ Review synthesis of knowledge outcomes measured at completion of the interventio
 - [Theory-based EBP teaching improved EBP skills, with fluctuations over time and mixed results for distinguishing credibility of online sources](ebp-skills-gains-fluctuations.md) — related
 - [A theory-based EBP intervention produced a small significant increase in EBP use but no significant difference in EBP future use](ebp-use-increase-future-use-null.md) — related
 - [Educational interventions improve nurse leaders' EBP knowledge (SMD = 1.05)](ebp-education-improves-nurse-leader-knowledge.md) — related
+- [A multifaceted EBP course for nursing students significantly improved competence, attitudes, knowledge, and skills versus baseline at two months after a 15-week intervention](nursing-ebp-course-improved-competence-2-months.md) — related
+- [EBP interventions significantly increased nursing students' EBP efficacy scores from a mean of 2.30 ('a little confident') to 3.05 ('confident')](nursing-ebp-efficacy-scores-increased.md) — related
+- [A web-based EBP tool usable from computer, smartphone, or iPad significantly improved overall research skills among nursing and nutrition student groups](web-based-ebp-tool-improved-research-skills.md) — related

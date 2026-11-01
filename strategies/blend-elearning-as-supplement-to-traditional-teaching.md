@@ -51,6 +51,7 @@ The review's design recommendation is that educators should not seek to replace 
 - [Integrate GAI-based teaching into medical curricula with robust curricular integration, technological support, and systematic training for educators and students](gai-curricular-integration-training-strategy.md)
 - [Teachers and intervention designers should use mobile devices thoughtfully alongside other teaching approaches, ground designs in existing evidence, and evaluate rigorously](thoughtful-mobile-device-integration-recommendations.md)
 - [Include a variety of online and face-to-face components to accommodate different learning styles](variety-of-components-blend.md)
+- [Consider VR as an adjunct to dissection and evaluate cost-effectiveness and adverse reactions when adopting VR for anatomy teaching](vr-anatomy-adjunct-adoption-strategy.md)
 
 ## Examples
 -

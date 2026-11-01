@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-01
 sources:
   - id: vats-shivangi-2026
     resource: "https://doi.org/10.1002/jdd.70190"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports, citing Yohannan et al., that in a randomized controlled trial students taught with Air Anatomy hand gestures scored significantly higher on recall and applied knowledge post-tests than lecture-only students. [→ Vats Shivangi 2026](#vats-shivangi-2026)
@@ -55,3 +56,4 @@ The review's introduction summarizes, citing Yohannan et al., a randomized contr
 - [Meaningful pointing gestures produced higher retention scores than beat gestures (review attributes this to Beege et al., 2020)](meaningful-gestures-beat-beat-gestures.md) — related
 - [Spatial ability correlated positively with neuroanatomy performance across pretest and both quizzes in a crossover 3D-module study (Allen et al.)](allen-spatial-ability-correlates-neuroanatomy-performance.md) — related
 - [In a randomized controlled trial reported in this review, the Hand as Foot teaching method received significantly higher teaching-effectiveness ratings than traditional teaching in a Human Physiology course](hand-as-foot-rct-higher-effectiveness-ratings.md) — related
+- [Spatial ability significantly predicts learning gains in XR anatomy training contexts, suggesting elementary XR designs need layered scaffolds for varying spatial reasoning](spatial-ability-predicts-xr-learning-gains.md) — related

@@ -58,3 +58,4 @@ Randomised controlled trial (Bi et al., 2019) in which 80 first-year postgraduat
 - [TBL in medical ethics education improves knowledge retention compared to lectures](tbl-improves-ethics-knowledge-retention.md) — related
 - [AI-powered PBL/CBL outperforms traditional lectures for knowledge acquisition, but shows no significant advantage over AI-free PBL/CBL](ai-pbl-cbl-knowledge-subgroups.md) — related
 - [In a randomised crossover trial, simulation training produced a 22% absolute increase in scores for assessing critically unwell patients versus didactic lectures](simulation-crossover-22-percent-increase-critically-unwell.md) — related
+- [An EBP-structured case conference produced significantly higher post-intervention EBP knowledge scores than a weekly didactic lecture among final-year medical students](case-conference-beat-didactic-lecture-ebp-knowledge.md) — related

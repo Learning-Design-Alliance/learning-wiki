@@ -52,3 +52,4 @@ Multiple-choice survey item on benefits of LLMs for learning among 678 LLM learn
 - [Explanatory inquiries, factual queries, and tutorial requests are the most frequent LLM learning tasks](explanatory-factual-tutorial-top-llm-tasks.md) — related
 - [Engineering students most often use LLMs for academic writing (27%), conceptual clarification (20%), programming help (17%) and brainstorming (13%)](students-use-llms-writing-clarification-coding-brainstorming.md) — related
 - [88% of survey respondents have incorporated LLMs into their everyday learning practices](88-percent-adopt-llms-everyday-learning.md)
+- [Personalized feedback is the most frequently reported pedagogical benefit of AI agents, reported in 44.83% of reviewed studies](personalized-feedback-top-benefit.md) — related

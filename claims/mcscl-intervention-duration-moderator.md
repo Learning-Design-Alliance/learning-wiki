@@ -52,3 +52,4 @@ Random-effects moderator analysis of intervention duration. Table 4 reports g = 
 - [mCSCL outperforms individual learning and non-mobile collaborative learning, but shows no significant advantage over desktop CSCL](mcscl-vs-control-group-types.md) — related
 - [Effect size of creative drama on skills varies significantly with duration of experimental application, with longer applications showing larger effects](creative-drama-duration-moderator.md) — related
 - [The effect of drama on social studies achievement does not differ significantly by duration of application (1–4 vs 5–10 weeks)](drama-effect-no-duration-difference.md) — related
+- [ITS effect sizes decrease as intervention duration increases](its-effects-decrease-longer-duration.md) — related

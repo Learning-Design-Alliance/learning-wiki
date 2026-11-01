@@ -76,3 +76,5 @@ The review's GRADE appraisal (Supplementary Appendix S2) of certainty per outcom
 - [Only seven studies of vascular surgery simulation achieved a level of effectiveness greater than 3/5, with the majority scoring LoE 1-2/5](few-simulators-loe-above-3.md) — related
 - [Included orthodontic simulation studies evaluated outcomes only at Kirkpatrick reaction and learning levels, never at behaviour or results levels](orthodontic-simulation-outcomes-only-reaction-learning-levels.md) — related
 - [Outcome evaluation of research education programs concentrated at lower levels of the modified Kirkpatrick typology, with few objective or organisational outcomes](research-education-evaluation-lower-kirkpatrick-levels.md) — a broader claim this one bears on
+- [Trainees and observers reported generally positive experiences with seven tools in 10 studies (Kirkpatrick level 1)](positive-trainee-experience-seven-tools.md) — related
+- [After new, modified or improved training programs, patient outcomes remained unchanged or improved in 16 of 17 studies](training-interventions-unchanged-or-improved-outcomes.md) — related

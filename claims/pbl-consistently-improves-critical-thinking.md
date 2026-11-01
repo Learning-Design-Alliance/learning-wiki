@@ -56,3 +56,4 @@ Synthesis of the review of three PBL studies, in which problems were addressed t
 - [AI-supported PBL students obtain significantly higher posttest academic achievement scores in robotics programming than traditional-lecture students when controlling pretest scores](ai-pbl-higher-posttest-academic-achievement.md) — a narrower finding that bears on this claim
 - [The scope of PBL implementation shaped discussion quality: hybrid lecture-based implementation reduced uncertainty but yielded less critical discussion than full PBL](scope-of-pbl-implementation-shapes-discussion.md) — related
 - [Effects of P(j)BL on CT are mixed across studies, with positive, null, and negative findings reported](pjbl-ct-effects-mixed.md) — reports the opposite
+- [Virtual problem-based learning was equally as effective as text-based PBL for enhancing student learning and learning environment](vpbl-equally-effective-as-text-based-pbl.md) — related

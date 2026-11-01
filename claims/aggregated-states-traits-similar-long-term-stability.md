@@ -48,3 +48,4 @@ Autocorrelation analysis of the three-wave measurement burst study (N = 161, imp
 ## Related Claims
 - [Aggregated state emotions converge substantially but imperfectly with self-reported trait emotions, with averaged correlations ranging from r = 0.391 (shame) to r = 0.608 (boredom)](aggregated-states-traits-substantial-imperfect-convergence.md) — related
 - [Most variance in students' momentary classroom emotions lies at the within-person level, yet person-aggregated state measures are fairly reliable (ICC(2) from 0.735 to 0.901)](aggregated-state-emotions-reliable-icc2.md) — related
+- [Most studies reporting change in attitude or behaviour rely on student self-reports, which is not a reliable method for measuring long-term changes in attitude](self-reports-unreliable-for-attitude-change.md) — related

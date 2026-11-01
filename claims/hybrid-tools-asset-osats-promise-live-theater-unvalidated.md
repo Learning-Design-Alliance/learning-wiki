@@ -49,3 +49,4 @@ The review's synthesis of studies of hybrid tools combining task-specific checkl
 - [ASSET is the most commonly used global rating scale for arthroscopic skills assessment, used in 10 of the reviewed studies](asset-most-common-grs-arthroscopic-training.md) — a narrower finding that bears on this claim
 - [The 105 included studies of orthopaedic technical-skills assessment were predominantly conducted in simulated settings with 2,088 resident participants](orthopaedic-skills-assessment-review-105-studies-mostly-simulated.md) — a broader claim this one bears on
 - [No current technical skills-assessment tool in orthopaedic surgical training fulfills accepted criteria for effective assessment](no-orthopaedic-assessment-tool-fulfills-effective-assessment-criteria.md) — related
+- [Global rating scales by expert practitioners are as reliable as item-specific checklists and less labour intensive to devise](global-rating-scales-as-reliable-as-checklists.md) — related

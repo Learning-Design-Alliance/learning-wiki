@@ -140,3 +140,4 @@ Sixty-eight 11th-grade students took eight lessons on strategies for evaluating 
 - [Students' reliance on surface-level evaluation strategies declined after the modules, including trust in dot-org domains, links, appearance, and About pages](surface-strategies-declined-after-modules.md) — related
 - [High-school students do not spontaneously use contextualization, sourcing, and corroboration heuristics when reading documents](students-not-spontaneously-use-sourcing-heuristics.md) — related
 - [Trained students increased references to the more reliable source in justifications, specifically for the more reliable source](sourcing-intervention-source-references-justifications.md) — related
+- [A multifaceted information-skills elective produced pre-post gains across search-related tasks among medical students, including assessing reliability/validity of web information (2.59 to 3.77)](information-skills-elective-task-gains.md) — related

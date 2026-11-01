@@ -19,7 +19,7 @@ sources:
 # Design tools so productive usage is guaranteed by affordances and constraints rather than instructions
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 28 claims (17 for, 11 mixed) · 25 studies (8 causal, 7 theoretical, 3 qualitative, 3 design, 2 review, 2 associational), `q1`–`q3` · 6 of 25 report an effect size · 25 claims rest on one study
+> **Evidence** · 29 claims (18 for, 11 mixed) · 26 studies (8 causal, 7 theoretical, 3 review, 3 qualitative, 3 design, 2 associational), `q1`–`q3` · 6 of 26 report an effect size · 26 claims rest on one study
 
 ## Conditional relationship
 
@@ -151,6 +151,7 @@ Productive use in the tool, assisted performance, unaided immediate performance,
 - [The option to withhold answers improves output-bound accuracy, whereas the option to seek help does not consistently do so](../claims/withholding-improves-output-bound-accuracy-help-seeking-not.md) [+M]
 - [A prefer-harder problem-selection constraint reduces overpractice for the risk-averse strategy in the equation-solving dataset](../claims/prefer-harder-constraint-reduces-overpractice.md) [+W]
 - [Most unrestricted-mode interactions were direct answer retrieval: 52.9% of exercise interactions were copy-paste of the question, and participant answers were linguistically near-identical to chatbot text in 25.3% of cases](../claims/unrestricted-mode-answer-retrieval-copy-paste.md) [+W]
+- [Unconstrained chat interfaces are recurrently associated with solution dumping, reduced productive struggle, integrity concerns, and over-reliance](../claims/unconstrained-chat-negative-patterns.md) [+W]
 
 ## Related Principles
 - [User-Centered Design for Learning](user-centered-design-for-learning.md) — the user-testing loop that finds where an interface needs text it should not.

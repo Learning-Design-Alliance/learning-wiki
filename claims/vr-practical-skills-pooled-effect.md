@@ -49,3 +49,4 @@ Fixed-effects meta-analysis of four randomized controlled trials assessing VR fo
 - [VR instruction shows no statistically significant advantage for nursing students' critical thinking (SMD = 0.79, p = 0.07)](vr-no-significant-critical-thinking-gain.md) — related
 - [VR teaching yields significantly higher clinical operation scores than traditional teaching in orthopedic education](vr-higher-clinical-operation-scores.md) — related
 - [VR instruction raises nursing students' academic satisfaction more than control teaching modalities (SMD = 1.14)](vr-raises-nursing-student-satisfaction.md) — related
+- [VR-based anatomy teaching moderately improves learners' examination scores compared with traditional or 2D digital methods](vr-anatomy-teaching-improves-test-scores.md) — related

@@ -52,3 +52,4 @@ The review's conclusion reports that "A standardised RAS curriculum is feasible 
 - [Objective assessment and non-technical skills training were not uniformly included across the 29 comprehensive RAS curricula.](ras-curricula-objective-assessment-nts-not-uniform.md) — related
 - [All 29 comprehensive RAS curricula included simulation training, with VR simulation (n = 16), dry lab (n = 11), and wet lab/bio-tissue/cadaveric (n = 12) as the most common modalities.](ras-curricula-all-include-simulation.md) — related
 - [Kirkpatrick's four levels of evidence can be applied to RAS training, with level 2 equating to RAS skills assessed with validated scoring systems during simulation.](kirkpatrick-levels-applied-ras-training.md) — related
+- [Simulation-based training should be incorporated into surgical curricula targeting novice learners](simulation-training-should-be-incorporated-into-curricula.md) — related

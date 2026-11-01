@@ -54,3 +54,4 @@ Pooled analysis by Kirkpatrick outcome level across the 12 competency-versus-non
 - [No included SDL studies measured Kirkpatrick Level 4 (patient/system) outcomes](sdl-no-kirkpatrick-level-4-outcomes.md) — related
 - [Most LMIC simulation-based education studies testing significance demonstrate at least partial improvement in patient-level (Kirkpatrick Level 4) outcomes](sbe-lmic-most-studies-partial-improvement-level4.md) — related
 - [Simulation training reached Kirkpatrick level 3 (behavioral change) in five studies, but no study assessed patient outcomes](simulation-kirkpatrick-level3-behavior-no-patient-outcomes.md) — related
+- [Simulation-based training does not significantly improve success rate of procedure completion on patients compared with non-simulation based training](sbt-no-patient-success-benefit-airway.md) — related

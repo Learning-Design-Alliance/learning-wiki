@@ -46,6 +46,7 @@ The report details a repeatable recipe for co-designing evaluation criteria: "Di
 - [Pilot guidance documents with a small set of schools and iterate before wide dissemination](pilot-then-refine-guidance-dissemination.md)
 - [Six-step design methodology: elicit values, minimal intervention, multi-level multi-outcome evaluation, iterate, simulate scale, sunset](six-step-emancipatory-aied-design-methodology.md)
 - [Workshop model for running the IDR methodology with the wider community](idr-workshop-model-wider-community.md)
+- [Stage XR pilot implementations for elementary STEM with small cohorts, co-design, and interpretable analytics](staged-xr-pilot-implementation-guidance.md)
 
 ## Examples
 -

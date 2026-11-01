@@ -47,3 +47,4 @@ Binary logistic regression on pass rates for 1325 students found OUA weekly usag
 ## Related Claims
 - [Teachers accessed the OUA dashboard infrequently and irregularly, mostly around assignment submission weeks](infrequent-oua-access-by-teachers.md) — related
 - [Teachers' weekly OUA dashboard usage is associated with higher odds of students completing their course](oua-usage-predicts-completion.md) — related
+- [MetaLight calculates multiple effect size types from continuous or binary two-group data](metalight-effect-size-calculations.md) — related

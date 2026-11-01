@@ -45,6 +45,7 @@ The article catalogs methods for improving peer-review quality, including "calib
 ## Related Strategies
 
 - [Peer Assessment](peer_assessment.md)
+- [Staged hybrid peer-grading pipeline: calibration and back-evaluation first, then consensus, then reputation, with a challenge mechanism](staged-hybrid-peer-grading-strategy.md)
 
 ## Examples
 -

@@ -47,6 +47,7 @@ Drawing on prior work on healthcare students' satisfaction with small-group acti
 ## Related Strategies
 
 - [Problem Based Learning](problem-based-learning.md)
+- [Structure PBL teaching around the problem-laying, information-search, group-discussion, summary, and effectiveness-evaluation sequence](pbl-teaching-process-sequence-strategy.md)
 
 ## Examples
 -

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-01
 sources:
   - id: yang-x-2024
     resource: "https://doi.org/10.1097/MD.0000000000039376"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i3` large
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Subgroup analyses by student major, publication year, and student number all favor PBL (e.g., medicine SMD = 1.33; pharmacy SMD = 1.54; nursing SMD = 15.91), with high I2 values persisting. [→ Yang X 2024](#yang-x-2024)
@@ -56,3 +57,5 @@ Subgroup analysis of examination scores across 3 variables (student major, publi
 - [Removing 5 heterogeneous studies leaves the PBL advantage intact (SMD 0.79) with reduced heterogeneity, and the Liu et al study most affects stability](sensitivity-analysis-pbl-pooled-smd-stable.md) — related
 - [PBL score advantages hold in both probationer and intern subgroups, with larger effects among probationers](pbl-subgroup-probationer-intern-radiology.md)
 - [PBL improves radiology skill (film reading) scores more strongly than theoretical scores (pooled SMD = 2.10)](pbl-higher-skill-scores-chinese-radiology.md) — related
+- [Included PBL studies show very high heterogeneity, limiting generalizability of pooled effect sizes](pbl-meta-analysis-high-heterogeneity-limits-generalizability.md) — related
+- [Heterogeneity among pooled PBL trials in Chinese pharmacy education is high (I2 = 93%)](pbl-pharmacy-meta-analysis-high-heterogeneity.md) — related

@@ -57,6 +57,7 @@ The review recommends a measured adoption strategy: immersive technologies and v
 - [Design high-quality simulation and metaverse content with alignment to learning objectives, interactivity, and developmentally integrated deliberate practice from basic to advanced skills](metaverse-content-quality-design-strategy.md)
 - [Integrate e-learning as a supplement to rather than replacement of traditional teaching (blended learning)](blend-elearning-as-supplement-to-traditional-teaching.md)
 - [Implement communication skills training in medical curricula](communication-skills-training-medical-curricula.md)
+- [Consider VR as an adjunct to dissection and evaluate cost-effectiveness and adverse reactions when adopting VR for anatomy teaching](vr-anatomy-adjunct-adoption-strategy.md)
 
 ## Examples
 -

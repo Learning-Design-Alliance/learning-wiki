@@ -50,3 +50,4 @@ Setting comparison averaging across all 22 challenges in the survey. The report 
 - [OpenSciEd practitioners' highest-priority needs group into six areas: student engagement, classroom culture, assessment, materials adaptation, planning/reflection time, and teacher capacity.](openscied-six-high-priority-need-areas.md) — related
 - [Teachers and education leaders differ in which OpenSciEd challenges they prioritize: teachers rate student engagement higher, leaders rate materials adaptation and teacher capacity higher.](openscied-teacher-leader-priority-differences.md) — related
 - [The study's generalizability is limited by its rural, small, relatively homogeneous context](ai-helper-case-study-generalizability-limits.md) — related
+- [ITS effects are lower in studies including rural schools than urban or suburban settings](its-lower-effects-rural-schools.md) — related

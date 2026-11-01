@@ -27,7 +27,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 105 claims (56 for, 40 mixed, 9 against) · 106 studies (32 review, 23 causal, 13 theoretical, 11 associational, 10 qualitative, 9 design, 8 quant-synthesis), `q1`–`q4` · 9 of 106 report an effect size · 100 claims rest on one study
+> **Evidence** · 107 claims (57 for, 41 mixed, 9 against) · 107 studies (33 review, 23 causal, 13 theoretical, 11 associational, 10 qualitative, 9 design, 8 quant-synthesis), `q1`–`q4` · 9 of 107 report an effect size · 102 claims rest on one study
 
 ## Conditional relationship
 
@@ -215,6 +215,8 @@ Engagement, immediate achievement on an aligned test, time saved, delayed retent
 - [Stratified teaching's effect does not differ significantly between middle school and high school students](../claims/stratified-teaching-effect-similar-middle-high-school.md) [~W]
 - [Only a minority of included SBST programs tailored training to pre-existing skill levels or explicitly assessed learner motivation](../claims/dp-sbst-tailoring-and-motivation-rarely-assessed.md) [-W]
 - [The pooled effect of adaptive e-learning on knowledge is moderate-to-large but not statistically significant, with very high heterogeneity](../claims/aee-knowledge-effect-not-significant.md) [~W]
+- [An interactive, tailored Web-based smokeless tobacco intervention achieved higher quit rates than a linear, text-based website](../claims/interactive-tailored-website-higher-quit-rates.md) [+W]
+- [Tailoring was utilized at a surprisingly low level in the reviewed Web-based substance use interventions](../claims/tailoring-utilization-surprisingly-low.md) [~W]
 
 ## Related Principles
 - [Adaptive Learning](adaptive-learning.md) — the system-driven end of the personalization spectrum, where algorithms adjust difficulty and sequencing

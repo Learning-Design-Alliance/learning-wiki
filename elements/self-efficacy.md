@@ -13,7 +13,7 @@ generated:
 # Self Efficacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 101 claims (58 for, 37 mixed, 6 against) · 87 studies (37 associational, 22 causal, 15 review, 8 quant-synthesis, 4 design, 1 qualitative), `q1`–`q4` · 28 of 87 report an effect size · 96 claims rest on one study
+> **Evidence** · 102 claims (59 for, 37 mixed, 6 against) · 88 studies (37 associational, 22 causal, 16 review, 8 quant-synthesis, 4 design, 1 qualitative), `q1`–`q4` · 28 of 88 report an effect size · 97 claims rest on one study
 
 ## Description
 Self efficacy is a learner's belief in their capability to succeed at a specific task or domain, not a general sense of self-worth. It functions as a proximal driver of learning: learners with higher efficacy set more ambitious goals, persist longer through difficulty, and recover faster from failure [Bandura, 1997]. Because it is domain-specific and malleable, it is a design target rather than a fixed learner trait.
@@ -149,6 +149,7 @@ Instructional design shapes self efficacy primarily through the four sources Ban
 - [IVR simulation significantly improves nursing students' self-efficacy but not satisfaction or confidence](../claims/ivr-improves-self-efficacy-not-satisfaction-confidence.md) [+W]
 - [Confidence during procedures and positive attitudes are associated with higher clinical practice competency (AOR = 2.70)](../claims/confidence-positive-attitude-associated-competency-ethiopia.md) [+W]
 - [HFPS based on life-threatening scenarios shows no significant difference from other teaching methods on nursing students' self-efficacy (d=0.05)](../claims/hfps-no-significant-self-efficacy-difference.md) [-W]
+- [EBP interventions significantly increased nursing students' EBP efficacy scores from a mean of 2.30 ('a little confident') to 3.05 ('confident')](../claims/nursing-ebp-efficacy-scores-increased.md) [+W]
 
 ## The evidence by question
 

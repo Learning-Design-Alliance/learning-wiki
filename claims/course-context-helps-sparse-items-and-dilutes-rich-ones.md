@@ -62,3 +62,4 @@ Within-item context arms on the shipped grading prompt, single runs of 150 strat
 - [Graded exemplars shift an LLM grader by the level they are marked at.](graded-exemplars-shift-an-llm-grader-by-the-level-they-are-marked-at.md) — a targeted form of task context, which shifts the grade by its marked level
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — the analogous trade in human readers, and a caution against pressing the analogy
 - [LLM grading performance relative to human graders is mixed: comparable in 12 reviewed cases, worse in 11, with the strongest alignment on short, straightforward tasks](llm-grading-mixed-against-human-raters.md) — related
+- [Meaning-dependent (reading) short-answer items reliably lower LLM agreement with human raters compared with more fact-based science items](meaning-dependence-lowers-llm-scoring-agreement.md) — related

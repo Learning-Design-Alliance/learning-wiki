@@ -27,7 +27,7 @@ sources:
 # Multimedia Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 102 claims (41 for, 57 mixed, 4 against) · 78 studies (37 causal, 15 review, 14 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 21 of 78 report an effect size · 93 claims rest on one study
+> **Evidence** · 104 claims (43 for, 57 mixed, 4 against) · 80 studies (37 causal, 17 review, 14 quant-synthesis, 5 associational, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 21 of 80 report an effect size · 95 claims rest on one study
 
 ## Conditional relationship
 
@@ -141,6 +141,7 @@ Claims linked to this page later go here until they are read against the model. 
 - [Multimedia initial instruction shows no detectable benefit over text-only instruction on posttest performance](../claims/multimedia-instruction-no-posttest-benefit.md) [~W] — attached 2026-10-24 from Gök et al. (2025), which proposed "Provide multimedia materials in feedback to improve problem-solving performance, and in initial instruction when the aim is spontaneous diagram generation"; tests this page's relationship.
 - [Multimedia presentation effects are strongest for procedural knowledge (technical and contextual)](../claims/multimedia-strongest-effect-procedural-knowledge.md) [+W] — attached 2026-10-28 from Tani et al. (2022), which proposed "Design multimedia presentations following established multimedia learning principles".
 - [No difference in reported attention between visibility-modes after watching a short weblecture](../claims/no-visibility-effect-reported-attention-short-weblecture.md) [~W] — attached 2026-10-30 from Korving et al. (2016), which proposed "Use a large lecturer video for weblectures longer than 15 minutes; use large slides for shorter weblectures".
+- [Natural frequencies combined with graphical aids produced the highest proportion of correct post-test probability estimates in one RCT](../claims/natural-frequencies-graphical-aids-highest-correct-estimates.md) [+W] — attached 2026-11-01 from Whiting Penny F et al. (2015), which proposed "Use visual aids alongside frequency or probability formats to further improve post-test probability estimation"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -186,6 +187,7 @@ A learning-phase preference, immediate recall, explanation of a mechanism, delay
 - [Beat gestures of a human lecturer in an educational video do not significantly foster learning outcomes compared with a video without gestures](../claims/beat-gestures-do-not-foster-learning.md) [~W]
 - [The comprehension cost of instructor visuals replicates across different instructors and lecture lengths in a combined analysis](../claims/instructor-comprehension-cost-replication.md) [~W]
 - [Signalling, integrated pictures and words, and pedagogical agents probably improve learning outcomes.](../claims/signalling-integrated-pictures-and-pedagogical-agents-probably-improve-learning.md) [+W]
+- [Video cases significantly improved cognitive, affective, and overall learning outcomes compared to paper cases in dental education](../claims/video-cases-outperform-paper-cases-dental-pbl.md) [+W]
 
 ## Related Principles
 - [Modality Principle](modality.md)
@@ -210,6 +212,7 @@ A learning-phase preference, immediate recall, explanation of a mechanism, delay
 - [Provide explicit instruction in how to understand and use informative pictures if they are employed in word problem instruction](../strategies/explicit-instruction-informative-pictures.md)
 - [Build online multimedia lessons with slide-sharing, survey, and video-sharing tools in a three-stage workflow](../strategies/common-tools-ctml-lesson-workflow.md)
 - [Replace on-device pictures with drawings of real objects to make mobile-device media complementary to the objects](../strategies/drawings-replace-pictures-complementary-mobile-media.md)
+- [Use AR overlays aligned with multimedia learning principles: pair words with nearby, simultaneous images and segment lessons into self-paced chunks](../strategies/ar-design-multimedia-principles-strategy.md)
 
 ### Illustrative
 

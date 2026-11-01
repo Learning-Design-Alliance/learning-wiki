@@ -48,3 +48,4 @@ Moderator analysis by educational level across the 55 datasets (random effects m
 - [Instructional method does not significantly moderate Gen-AI's effect on HOT, though project-based learning shows the largest subgroup effect (ES = 0.717) and lecture-based instruction a small non-significant effect (ES = 0.396)](genai-instructional-method-moderator.md) — related
 - [PBL effect sizes on science achievement do not differ significantly between studies conducted in Turkey and abroad](pbl-effect-similar-national-vs-international.md) — related
 - [PBL has a high positive effect on science academic achievement compared to traditional instruction (random-effects g = 1.009)](pbl-high-effect-science-achievement-meta-analysis.md) — related
+- [Effect sizes of ITS do not differ meaningfully between elementary and middle school studies](its-effects-similar-elementary-middle-school.md) — related

@@ -51,3 +51,4 @@ Survey data across all four cities using the Intrinsic Motivation Inventory (Rya
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — the general claim this finding bears on, with the studies behind it
 - [Financial incentives for reading books produce negative achievement effects for Spanish-speaking students in Dallas, consistent with a crowd-out hypothesis](dallas-spanish-speakers-negative-effects.md) — related
 - [Tracing and pointing does not significantly raise intrinsic motivation, though the point estimate resembles prior meta-analytic estimates](tracing-pointing-intrinsic-motivation-null.md) — related
+- [Performance-based financial incentives sometimes led CHWs to neglect unpaid tasks](performance-based-incentives-neglect-unpaid-tasks.md) — reports the opposite

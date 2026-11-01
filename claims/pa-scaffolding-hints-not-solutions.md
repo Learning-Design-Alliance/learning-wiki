@@ -53,3 +53,4 @@ Finding from the PAs' activities theme in the interview study: teachers describe
 - [Educators redefined AI's educational role from answer provider to learning partner and tutor supporting conceptual understanding](ai-learning-partner-tutor-redefinition.md) — related
 - [Adult learners perceive conversational AI as thinking partners that support problem exploration without direct instruction](ai-thinking-partners-support-problem-exploration.md) — related
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — a broader claim this one bears on
+- [Classroom deployments report faster help and higher perceived understanding when assistance emphasizes explanation, pseudocode, and staged hints while withholding final solutions by default](tutoring-deployment-outcome-signals.md) — related

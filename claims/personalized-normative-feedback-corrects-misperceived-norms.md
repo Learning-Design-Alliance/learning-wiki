@@ -88,3 +88,5 @@ An open question for learning designers is durability: most evaluations measure 
 - [Peer Feedback Improves Writing](peer-feedback-improves-writing.md) — related
 - Social norms hold force only because they are expected and unchallenged, as Garfinkel's breaching studies showed — related
 - Researchers overwhelmingly endorse Mertonian norms for science but perceive that other researchers act on counternorms — related
+- [Personalized normative feedback is the dominant technique among CBIs lacking a broad theory](personalized-normative-feedback-dominant-technique.md) — related
+- [Web-based self-help intervention reduced problem drinking more than control among adult problem drinkers](web-based-self-help-reduced-problem-drinking.md) — related

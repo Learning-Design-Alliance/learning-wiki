@@ -68,7 +68,9 @@ Hands-on learning is the element in which learners manipulate materials, tools, 
 - [Merrill's First Principles](../patterns/4cid-four-component-instructional-design.md)
 
 ## Examples
+
 - Lab work, manipulatives, prototyping, and live practice tasks.
+- [Design XR interfaces for young learners with embodied tasks, direct manipulation, and layered spatial scaffolds](../strategies/elementary-xr-interface-design-principles.md)
 
 ## Key Sources
 - Kolb, D. A. (1984). *Experiential learning*. Prentice Hall.

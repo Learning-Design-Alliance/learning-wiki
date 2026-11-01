@@ -51,4 +51,5 @@ Sensitivity analysis in which each of the 13 studies was deleted in turn; the si
 - [No single study affected the statistically significant PBL advantage in sensitivity analysis](pbl-advantage-robust-to-single-study-removal.md) — related
 - [Pooled gamification effects remain stable when high-risk-of-bias studies are excluded and in leave-one-out and fixed-effect sensitivity analyses](gamification-sensitivity-analyses-stable-pooled-effects.md) — related
 - [Among female-only medical college (3-year program) students, TBL significantly increased examination scores with minimal heterogeneity (SMD = 0.47)](tbl-female-medical-college-subgroup-effect.md) — related
+- [The pooled VR score effect is robust to study removal and shows no significant publication bias](vr-anatomy-effect-robust-no-publication-bias.md) — related
 

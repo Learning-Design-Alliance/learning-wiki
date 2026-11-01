@@ -50,3 +50,4 @@ Systematic review of 16 studies (1,283 students) following PRISMA guidelines, se
 ## Related Claims
 - [Clinical simulation improves nursing students' knowledge, confidence and performance in cardiovascular physical examination compared with traditional teaching, per a systematic review of six studies](clinical-simulation-improves-cardiovascular-assessment-nursing.md) — related
 - [No included study measured critical thinking as an explicit outcome or compared simulation modalities directly](sbe-delirium-no-explicit-ct-measure.md) — related
+- [Discussion boards improve knowledge acquisition, critical and reflective thinking in physiotherapy education](discussion-boards-improve-knowledge-critical-reflective-thinking.md) — related

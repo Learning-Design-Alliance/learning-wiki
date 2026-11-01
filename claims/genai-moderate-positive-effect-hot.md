@@ -63,3 +63,4 @@ Random-effects meta-analysis of 59 effect sizes from 29 experimental and quasi-e
 - [GenAI-supported writing instruction yields a statistically significant positive pooled effect on L2/EFL writing performance (g = 0.80) with very high heterogeneity](genai-writing-instruction-pooled-effect-g-080.md) — related
 - [GenAI shows a dual-mechanism profile: meta-analytic learning benefits coexist with dependence-related costs to critical thinking](genai-dual-mechanism-amplifier-substitute.md) — related
 - [Collaborative problem-solving significantly improves students' critical thinking overall (ES = 0.82)](collaborative-problem-solving-improves-critical-thinking-overall.md) — related
+- [ITS use has a significant positive effect on U.S. K-12 students' learning outcomes (g=0.271)](its-positive-effect-us-k12-achievement.md) — related

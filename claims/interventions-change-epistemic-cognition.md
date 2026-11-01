@@ -55,3 +55,4 @@ The authors' narrative review assertion in the Emerging Opportunities section, c
 - [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md) — related
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — related
 - [Explicit reflection on epistemic beliefs during science units has been followed by changes in student teachers' epistemic beliefs](explicit-reflection-interventions-change-teacher-beliefs.md) — a narrower finding that bears on this claim
+- [Teaching method is the strongest predictor of CLASS/MPEX belief shifts, with modeling and explicit-focus methods significantly outperforming ordinary methods](teaching-method-strongest-predictor-belief-shifts.md) — a narrower finding that bears on this claim

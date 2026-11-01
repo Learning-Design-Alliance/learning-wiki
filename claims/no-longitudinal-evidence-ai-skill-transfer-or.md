@@ -58,3 +58,5 @@ The review identifies a critical evidence gap: almost none of the included studi
 - [Only seven studies of vascular surgery simulation achieved a level of effectiveness greater than 3/5, with the majority scoring LoE 1-2/5](few-simulators-loe-above-3.md) — related
 - [VR-trained and bench-top-trained subjects showed no objective performance difference but a significant GRS difference on a final VR simulator assessment](vr-benchtop-no-objective-difference-significant-grs-difference.md) — related
 - [No evidence currently supports transfer of simulator-based VRS training to the operating room](no-evidence-vrs-simulator-transfer-operating-room.md) — related
+- [Critical evidence gaps include longitudinal effects on skill retention, comparative evaluations of guardrail designs, equity impacts at scale, and standardized replication metrics](genai-personalization-evidence-gaps.md) — related
+- [VR training simulators develop perceptual-motor skills for machinery operation, but real-world skill transfer remains difficult to assess](vr-simulators-perceptual-motor-skills-transfer-challenge.md) — a narrower finding that bears on this claim

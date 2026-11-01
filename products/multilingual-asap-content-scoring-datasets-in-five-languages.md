@@ -30,6 +30,7 @@ A publicly released collection of Chinese, English, French, German, and Spanish 
 ## Related Products and Programmes
 
 - [Expanded RIKEN SAS dataset with 10,000 new annotations](expanded-riken-sas-dataset-with-10000-new-annotations.md)
+- [ASAP-SAS corpus of short-answer scoring prompts and rubrics](asap-sas-corpus-of-short-answer-scoring-prompts-and-rubrics.md)
 
 ## Key Sources
 - Andrea Horbach, Joey Pehlke, Ronja Laarmann-Quante, Yuning Ding. (2024). Crosslingual Content Scoring in Five Languages Using Machine-Translation and Multilingual Transformer Models. Int J Artif Intell Educ. https://doi.org/10.1007/s40593-023-00370-1

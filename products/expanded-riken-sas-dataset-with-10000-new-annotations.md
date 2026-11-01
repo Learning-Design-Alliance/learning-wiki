@@ -29,6 +29,7 @@ A publicly available dataset from Funayama et al. containing Japanese high-schoo
 - [Multilingual ASAP content scoring datasets in five languages](multilingual-asap-content-scoring-datasets-in-five-languages.md)
 - [MEDS dataset of 28,000 LLM runs across four mathematics-education tasks](meds-dataset-of-28000-llm-runs-across-four-mathematics-education-tasks.md)
 - [Expert-annotated Hungarian reflective essay dataset](expert-annotated-hungarian-reflective-essay-dataset.md)
+- [ASAP-SAS corpus of short-answer scoring prompts and rubrics](asap-sas-corpus-of-short-answer-scoring-prompts-and-rubrics.md)
 
 ## Key Sources
 - Funayama, H., Matsubayashi, Y., Asazuma, Y., Mizumoto, T., & Inui, K. (2025). Cross-prompt Pre-finetuning of Language Models for Short Answer Scoring. Int J Artif Intell Educ. https://doi.org/10.1007/s40593-025-00474-w

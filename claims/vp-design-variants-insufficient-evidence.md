@@ -68,3 +68,4 @@ Narrative synthesis of 4 design-comparison studies for skills outcomes; single s
 - [In the few trials comparing them, virtual patients showed no significant knowledge differences versus other digital education, and skills differences in only one of three studies](vp-vs-other-digital-no-difference.md) — related
 - [In the Harris RCT, neither e-learning strategy improved substance abuse management outcomes versus no training](harris-rct-no-p-csat-difference.md) — related
 - [Student satisfaction with virtual patients is generally positive, with item-level comparisons dominating and some confidence exceptions](vp-satisfaction-generally-positive.md) — related
+- [Interactivity level in virtual patients is related to the navigation model, with branching allowing the highest level](vp-authenticity-interactivity-feedback.md) — related

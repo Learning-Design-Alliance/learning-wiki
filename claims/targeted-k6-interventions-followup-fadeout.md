@@ -50,3 +50,4 @@ Meta-analysis of longer follow-up periods from the same 205-study corpus; the po
 - [The 2018 review reported a larger pooled effect (SMD = 0.30) that was not sustained at longer-term follow-up](prior-review-larger-unsustained-effect.md) — related
 - [Evidence on long-term persistence of self-regulation intervention effects is mixed: no fadeout for metacognitive strategy interventions versus substantial fadeout in higher-quality RCT syntheses](srl-persistence-fadeout-mixed-evidence.md) — related
 - [No included study reported long-term follow-up, leaving durability of OSS effects unclear](oss-no-long-term-follow-up.md) — related
+- [Outcomes measured immediately after the intervention show larger ITS effects than end-of-year measurement](its-larger-effects-immediate-measurement.md) — related

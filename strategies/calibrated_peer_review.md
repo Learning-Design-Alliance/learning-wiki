@@ -66,6 +66,7 @@ Calibration addresses the central weakness of peer review — untrained reviewer
 - [Worked Examples](worked-examples-first.md) — benchmark exemplars function as worked examples of evaluative judgment
 - [Reciprocal Peer Critique](peer-critique.md) — a lighter-weight variant without the calibration gate
 - [Teach self- and peer-assessment by starting with rubrics, then glows, then scaffolded grows](glows-grows-peer-assessment-scaffolding.md)
+- [Staged hybrid peer-grading pipeline: calibration and back-evaluation first, then consensus, then reputation, with a challenge mechanism](staged-hybrid-peer-grading-strategy.md)
 
 ## Examples
 - **Calibrated Peer Review™ (CPR)** ([https://cpr.molsci.ucla.edu](https://cpr.molsci.ucla.edu)) — UCLA-originated web system originally developed for chemistry writing assignments; implements the full calibrate → review → self-review → back-review cycle.

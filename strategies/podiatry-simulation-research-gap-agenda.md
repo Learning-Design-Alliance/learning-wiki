@@ -48,6 +48,7 @@ The review's forward-looking agenda calls for future research to address the lac
 ## Related Strategies
 
 - [Prioritise longitudinal research and cost analysis when evaluating digital clinical skills modalities](longitudinal-cost-research-digital-clinical-skills.md)
+- [Use both qualitative and quantitative research designs, including longitudinal follow-up, to clarify which aspects of residency training best prepare doctors](mixed-methods-longitudinal-residency-outcomes-research.md)
 
 ## Examples
 -

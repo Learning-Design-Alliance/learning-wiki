@@ -57,3 +57,4 @@ Synthesis of acceptance evidence from 8 studies using standardized instruments (
 - [Elderly users accept the Butler system with high satisfaction, low subjective difficulty, and willingness to recommend it](butler-high-acceptance-elderly-users.md) — related
 - [EVS usability scores above 'good' benchmark but students become more critical of usability when encountering staff competency or testing problems](evs-usability-context-dependent.md) — a narrower finding that bears on this claim
 - [Virtual simulations for SUD training show good acceptance rates from learners](vp-sud-simulations-good-learner-acceptance.md) — related
+- [93% of students rated usability and control as important to their learning](usability-and-control-rated-important-by-93-percent.md) — a narrower finding that bears on this claim

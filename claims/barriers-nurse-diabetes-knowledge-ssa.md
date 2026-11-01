@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-11-01
 recheck_by: 2030
 sources:
   - id: nyalapa-mcdonald-william-gombachika-belinda-thandizo-2025
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
+> **Currency** · newest study 2025 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Barriers included lack of hospital guidelines, inadequate nurse-patient ratio, insufficient salary to motivate staff and lack of resources for training. [→ Nyalapa McDonald William; Gombachika Belinda Thandizo 2025](#nyalapa-mcdonald-william-gombachika-belinda-thandizo-2025)
@@ -53,3 +54,4 @@ The review reports barriers identified in included studies, quoting that "Barrie
 - [Nurses in sub-Saharan Africa show knowledge gaps in diabetes pathology, insulin therapy, treatment and complications](ssa-nurses-diabetes-knowledge-gaps.md) — related
 - [Specific knowledge deficits in Ghana and Libya studies: type 2 diabetes, DKA and complications](ssa-nurses-type2-dka-knowledge-deficits.md) — related
 - [Included e-learning programs were short (45 minutes to 4 hours), supporting feasibility of integration into hospital orientation or refresher training](short-elearning-durations-feasible-for-hospital-training.md) — related
+- [Time constraints, patient expectations, and lack of relevant evidence are widely reported barriers to EBM in general practice](barriers-to-ebm-in-general-practice.md) — related

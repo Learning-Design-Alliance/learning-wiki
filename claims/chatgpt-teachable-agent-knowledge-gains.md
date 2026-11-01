@@ -62,3 +62,4 @@ ANCOVA with pre-test scores as covariate compared students who taught a gpt-4 te
 - [Flipped classroom teaching with structured interaction improves learning outcomes more than lecture-based teaching and a video-lecture control](structured-interaction-flipped-classroom-improves-learning.md) — related
 - [Young primary school students can act as successful tutors of a teachable agent](young-students-successful-agent-tutors.md) — related
 - [The video lectures were effective overall, producing significant knowledge gains](video-lecture-overall-effectiveness.md) — related
+- [Learning-by-teaching with robots and teachable agents is theoretically grounded in cooperative learning mechanisms, but direct experimental evaluations in elementary STEM classrooms remain limited](learning-by-teaching-robots-limited-direct-evidence.md) — related

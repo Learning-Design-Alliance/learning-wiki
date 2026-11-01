@@ -71,3 +71,4 @@ Heterogeneity analysis of the same forest plot (Figure 2), with the review attri
 - [Student root canal treatment success is lower in teeth with preoperative periapical radiolucencies (56.3%) than without (86.8%)](student-rct-preoperative-radiolucency-success.md) — a narrower finding that bears on this claim
 - [Anterior and pre‐molar teeth show higher student treatment success rates (82.2% and 79.4%) than molars (68.7%)](student-rct-tooth-type-success-gradient.md) — a narrower finding that bears on this claim
 - [Root canal treatment by undergraduate students succeeds more often in teeth with vital pulps (87.8%) than necrotic pulps (65.6%)](student-rct-vital-vs-necrotic-success.md) — related
+- [Analytic clinical judgment not informed by high internal validity synthesis becomes obsolete and faces systematic error](uninformed-clinical-judgment-obsolete.md) — related

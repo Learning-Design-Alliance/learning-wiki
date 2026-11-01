@@ -34,7 +34,7 @@ sources:
 # Feedback Loops
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 34 claims (21 for, 11 mixed, 2 against) · 50 studies (14 causal, 11 review, 10 quant-synthesis, 5 design, 4 qualitative, 3 associational, 3 theoretical), `q1`–`q4` · 8 of 50 report an effect size · 25 claims rest on one study
+> **Evidence** · 36 claims (23 for, 11 mixed, 2 against) · 52 studies (14 causal, 12 review, 11 quant-synthesis, 5 design, 4 qualitative, 3 associational, 3 theoretical), `q1`–`q4` · 8 of 52 report an effect size · 27 claims rest on one study
 
 ## Conditional relationship
 
@@ -149,6 +149,8 @@ Claims this page has read and does not use in the model above, with how far each
 - [Individual performance feedback increased retrieval practice choice only among students who had actually benefited from retrieval practice (Experiment 1)](../claims/individual-feedback-increases-retrieval-practice-choice-only-for-beneficiaries.md) [+W] — attached 2026-10-21 from Luotong Hui et al. (2021), which proposed "Show learners their own performance feedback comparing strategies so they experience a strategy's benefits before expecting them to adopt it"; tests this page's relationship.
 - [Feedback containing comments or scaffolding is more likely applied; affective or assessing feedback is more likely ignored](../claims/comments-scaffolding-applied-affective-ignored.md) [+W] — attached 2026-10-26 from Junting Yin et al. (2025), which proposed "Design feedback dialogues that let receivers actively respond, and include why/how content alongside emotional feedback".
 - [Feedback containing concrete suggestions is significantly related to successful uptake of peer feedback in higher education](../claims/concrete-suggestions-linked-successful-uptake-peer-feedback.md) [+W] — attached 2026-10-29 from The nature, reception, and use of online peer feedback in higher education, which proposed "Support peer feedback with tools and practices that elicit concrete suggestions, because concreteness predicts uptake"; tests this page's relationship.
+- [Quality of written MSF feedback comments varies widely, with a substantial portion lacking actionable information and global judgements predominating](../claims/msf-written-comments-quality-varies-actionability-limited.md) [+W] — attached 2026-11-01 from Saedon H et al. (2012), which proposed "WBA feedback should be specific and action-based to be effective for improving practice".
+- [Feedback based on intraoperative surgical performance improves surgical performance across live and simulated procedures](../claims/intraoperative-feedback-improves-surgical-performance.md) [+W] — attached 2026-11-01 from Trehan Abhishek et al. (2015), which proposed "Future intraoperative feedback research should systematically vary source, facilitator, frequency, duration and content"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

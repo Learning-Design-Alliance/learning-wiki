@@ -106,3 +106,4 @@ Qualitative theme from student interviews mirroring the faculty structure. Stude
 - [Teacher interviews identified perceived risks of gamified EFL tools: lack of support from principals, parents or students, side effects, and loss of teacher control](teacher-perceived-risks-gamified-efl.md) — related
 - [Teaching staff distrusted third parties in LA on privacy and ethics, centring on data sharing and ownership](third-party-privacy-ethics-distrust.md) — related
 - [Wary Thinkers share over-reliance and privacy concerns with Pessimists but acknowledge ChatGPT's time-saving benefits](wary-thinkers-overreliance-privacy-time-saving.md) — related
+- [Four recurrent risks accompany GenAI personalization in higher-education CS: academic integrity, privacy, bias and equity, and over-reliance, each with operational mitigation](genai-personalization-risks-mitigation.md) — related

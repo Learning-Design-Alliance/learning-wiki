@@ -46,3 +46,4 @@ The review reports, citing Shih et al. (2008), a data mining finding that time s
 
 ## Related Claims
 - [Students frequently used on-demand help ineffectively, and raw help frequency correlated negatively with learning gains](ineffective-help-seeking-log-data-findings.md) — reports the opposite
+- [On-demand ITS features (worked-out examples, on-demand hints) show significant effects, suggesting student choice enhances learning](its-on-demand-features-significant-effects.md) — related

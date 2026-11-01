@@ -61,3 +61,4 @@ Finding from the Assessment Strategies theme of the thematic analysis, reported 
 - [Easy access to AI-generated answers may reduce learners' motivation to engage deeply with material](ai-over-reliance-reduces-deep-engagement.md) — related
 - [Overreliance on GenAI risks diminishing higher-order thinking skills and programming logic](genai-overreliance-risks-hots-programming-logic.md) — related
 - [AI programming tools are fundamentally changing the concept of plagiarism in Computer Science and shifting teaching toward computational thinking and theory](ai-code-generators-shift-cs-teaching.md) — related
+- [Unconstrained chat interfaces are recurrently associated with solution dumping, reduced productive struggle, integrity concerns, and over-reliance](unconstrained-chat-negative-patterns.md) — related

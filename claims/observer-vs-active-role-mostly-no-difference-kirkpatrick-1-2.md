@@ -53,3 +53,4 @@ Systematic review (PROSPERO CRD42024611988) searching five databases for January
 - All included studies performed outcome evaluations at the reaction and/or learning levels of Kirkpatrick's framework. — related
 - [Video review improves knowledge and skills outcomes (Kirkpatrick level 2), with mixed findings across studies](video-review-kirkpatrick-level-2-knowledge-skills.md) — related
 - [Included orthodontic simulation studies evaluated outcomes only at Kirkpatrick reaction and learning levels, never at behaviour or results levels](orthodontic-simulation-outcomes-only-reaction-learning-levels.md) — related
+- [Trainees and observers reported generally positive experiences with seven tools in 10 studies (Kirkpatrick level 1)](positive-trainee-experience-seven-tools.md) — related

@@ -66,3 +66,4 @@ The review's summary of educator- and institutional-level challenges (Table 5, e
 - [Institutional AI policy formation lags behind practical AI presence in coursework, leaving many faculty in policy vacuums](institutional-ai-policy-maturity-lags-adoption.md) — related
 - [Regional context moderates GenAI effects: positive in China and Pakistan, negative in Korea and Turkey](genai-effects-vary-by-country.md) — related
 - [Faculty focus groups raised concerns about authenticity, validity, and reliability of ChatGPT-generated SBMCQs, including cultural and linguistic bias](faculty-fgd-concerns-chatgpt-sbmcq-quality.md) — a narrower finding that bears on this claim
+- [Four recurrent risks accompany GenAI personalization in higher-education CS: academic integrity, privacy, bias and equity, and over-reliance, each with operational mitigation](genai-personalization-risks-mitigation.md) — related

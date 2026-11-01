@@ -13,7 +13,7 @@ generated:
 # Creativity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 126 claims (89 show a difference, 26 mixed, 11 no difference) · 66 studies (21 causal, 19 associational, 13 review, 6 quant-synthesis, 4 design, 2 theoretical, 1 qualitative), `q1`–`q3` · 18 of 66 report an effect size · 124 claims rest on one study
+> **Evidence** · 127 claims (90 show a difference, 26 mixed, 11 no difference) · 67 studies (21 causal, 19 associational, 13 review, 7 quant-synthesis, 4 design, 2 theoretical, 1 qualitative), `q1`–`q3` · 18 of 67 report an effect size · 125 claims rest on one study
 
 ## Description
 Creativity as a learner characteristic is the ability to produce ideas that are both new and fitting. It is most often measured with divergent-thinking tests (how many and how varied the uses someone can find for an object). It correlates with intelligence and with achievement, including in mathematics, where generating several solution paths may deepen understanding. Creativity can also be an outcome that instruction aims at; this page is about learners who differ in it.
@@ -161,6 +161,7 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 - [Higher-creativity physical activity interventions showed a small significant negative effect on cognitive flexibility](../claims/higher-creativity-pa-negative-cognitive-flexibility.md) [+W] — an instructional effect differs with it
 - [Highly creative physical activity interventions produce a large summary effect on creativity measures in children](../claims/high-creativity-pa-improves-creativity-outcomes.md) [+M] — instruction changes it
 - [The extent to which physical activity interventions foster creativity does not associate with their effect size on executive functions in children](../claims/pa-creativity-rating-no-association-executive-functions.md) [-W] — an instructional effect differs with it
+- [Physics teaching materials show high average effect sizes on high school students' critical thinking skills (ES = 3.97) and creative thinking skills (ES = 2.97) in a meta-analysis of 20 national-journal articles](../claims/physics-teaching-materials-high-effect-critical-creative-thinking.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

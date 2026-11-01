@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-01
 sources:
   - id: zanin-a-2026
     resource: "https://doi.org/10.1007/s00431-026-06925-3"
@@ -24,10 +25,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Observational before–after studies reported promising local successes, but the small number of RCT/cluster-RCT designs produced more nuanced, weaker findings. [→ Zanin A 2026](#zanin-a-2026)
+`q2 i?` Observational before–after studies reported promising local successes, but the three RCT/cluster-RCT designs produced more nuanced, weaker findings (a time-limited mortality reduction in one, nonsignificant results in the others). [→ Zanin A 2026](#zanin-a-2026)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Zanin A, Poletto E, Mencia S, Gawronski O, Jourdain G. (2026). Evaluating the im
 
 `q2 · i?` · `review · r3`
 
-Subgroup comparison within the review: most included studies were retrospective or prospective before–after comparisons, with only three employing an RCT or cluster-RCT design, and those RCTs showed time-limited or nonsignificant mortality effects.
+Subgroup comparison within the review: most of the 16 included studies were retrospective or prospective before–after comparisons, with only three employing an RCT or cluster-RCT design. Of these, Walker et al. (PRONTO, cluster RCT) reported a neonatal mortality reduction at 8 months that the review calls time-limited, Lenguerrand et al. (stepped-wedge RCT) a moderate but nonsignificant reduction in Apgar < 7 at 5 minutes, and Kessler et al. (RCT of lumbar puncture training) no significant reduction in traumatic lumbar punctures; only Walker et al. measured mortality.
 
 > "This contrast suggests that current observational evidence may overestimate the impact of simulation, underscoring the critical need for future research to prioritize cluster-RCT designs combined with qualitative process evaluations."
 
@@ -54,3 +55,4 @@ Subgroup comparison within the review: most included studies were retrospective 
 - [A cluster-randomized PRONTO-based quality improvement package in Kenya and Uganda reduced neonatal mortality and stillbirth among intervention facilities](pronto-cluster-randomized-reduced-neonatal-mortality.md) — related
 - [Nontechnical-skills simulation of ruptured AAA with the Resusci Anne Simulator directly improved patient outcomes, reducing door-to-occlusion time, door-to-needle time, and 30-day mortality (LoE 4/5)](nts-rraa-simulation-patient-outcomes.md) — related
 - [Direct effects of digital learning on patient outcomes are rarely studied and not consistently detected](dlr-patient-outcomes-not-established.md) — a narrower finding that bears on this claim
+- [Simulation-based CRM training may translate to improved patient outcomes, including decreased mortality, based on a small number of studies](simulation-crm-training-patient-outcomes.md) — related

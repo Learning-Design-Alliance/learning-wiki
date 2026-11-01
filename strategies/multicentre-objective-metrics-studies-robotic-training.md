@@ -51,6 +51,7 @@ The review's forward-looking recommendation is that evaluation of technology-enh
 ## Related Strategies
 
 - [Develop standardised validated content-assessment tools and theory-based guidelines for TST video creators](standardised-tst-video-assessment-tool-and-creator-guidelines.md)
+- [Prioritize larger sample sizes, multicentre designs, and rigorous reporting in future simulation-based CRM transfer and patient-outcome research](multicentre-rigorous-crm-outcome-research-strategy.md)
 
 ## Examples
 -

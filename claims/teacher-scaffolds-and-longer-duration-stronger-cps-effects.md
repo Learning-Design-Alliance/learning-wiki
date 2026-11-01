@@ -81,3 +81,4 @@ Subgroup analysis by intervention duration (Table 4): 1–4 weeks (4 effect quan
 - [Scaffolding targeting analysis-level skills yields much larger effects (g = 0.537) than scaffolding targeting synthesis or evaluation](analysis-level-scaffolding-outperforms-synthesis-evaluation.md) — related
 - [Program intensity is a significant moderator: high-duration gloss interventions yield larger effects (ES = 1.48) than low-duration ones (ES = 0.57)](program-intensity-moderates-gloss-effect.md) — related
 - [SDL modality and teacher role do not significantly moderate SDL effectiveness](sdl-modality-teacher-role-no-significant-moderation.md) — related
+- [ITS effect sizes decrease as intervention duration increases](its-effects-decrease-longer-duration.md) — related

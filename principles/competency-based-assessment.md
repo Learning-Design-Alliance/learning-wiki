@@ -28,7 +28,7 @@ sources:
 # Competency-Based Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 44 claims (11 for, 31 mixed, 2 against) · 44 studies (9 review, 9 theoretical, 8 causal, 8 design, 6 associational, 2 quant-synthesis, 2 qualitative), `q1`–`q4` · 2 of 44 report an effect size · 39 claims rest on one study
+> **Evidence** · 46 claims (12 for, 32 mixed, 2 against) · 46 studies (11 review, 9 theoretical, 8 causal, 8 design, 6 associational, 2 quant-synthesis, 2 qualitative), `q1`–`q4` · 2 of 46 report an effect size · 41 claims rest on one study
 
 ## Conditional relationship
 
@@ -115,6 +115,7 @@ Re-read 2026-10-15: eleven of the claims listed here were worked into the model 
 - [Transcript grades are a blurred currency of performance information, partly due to grade inflation driven by student pressure](../claims/transcript-grades-blurred-currency.md) [+W] — an author's framing statement (1976) with no data, about why course grades carry little information; it motivates the page's comparison but does not test either side of it
 - [The hybrid grading contract helps resist grade inflation by reserving grades above B for exceptionally high quality](../claims/hybrid-contract-resists-grade-inflation.md) [+W] — the authors' reasoned position from their own writing courses, about keeping high grades scarce; bears on what a grade signals, not on judging a competency against a threshold
 - [Written knowledge tests, OSCEs and situational judgement tests all show predictive validity for later clinical performance](../claims/assessments-predictive-validity-later-clinical-performance.md) [+W] — attached 2026-10-31 from McLachlan JC et al. (2025), which proposed "Commission research on the predictive validity of prescribing competence assessments"; tests this page's relationship.
+- [Twenty of 34 tools assessed the two highest Miller levels ('shows how' and 'does'), with team work, risk management and communication the most assessed skills](../claims/most-tools-target-higher-miller-levels.md) [+W] — attached 2026-11-01 from Okuyama Ayako et al. (2011), which proposed "Adapt context-specific assessment tools to each discipline rather than copying them across working environments".
 
 ## Objective and learner-valued goal
 
@@ -149,6 +150,7 @@ A score on a rubric, agreement between assessors, a threshold's defensibility, l
 - [Rubric application boosts student performance and skill acquisition across dental disciplines](../claims/rubrics-boost-student-performance-skill-acquisition.md) [+W]
 - [The CALM tool showed only weak inter-rater agreement (weighted Kappa 0.45) in its single ED video-review study](../claims/calm-weak-kappa-045-single-study.md) [~W]
 - [Checklists show reasonable validity and reliability but have an early ceiling effect and are most appropriate for novice learners in formative settings](../claims/checklists-valid-but-ceiling-effect-novice-formative.md) [~W]
+- [The heterogeneity of suturing assessment tools precludes meta-analysis, though their content could be merged into a panel of competence markers](../claims/heterogeneous-suturing-tools-preclude-meta-analysis.md) [~W]
 
 ## Related Principles
 - [Mastery Learning](mastery-learning.md) — the progression rule that learners advance on demonstrated mastery rather than schedule

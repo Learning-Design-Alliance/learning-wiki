@@ -53,3 +53,4 @@ Subgroup analysis by intervention duration for reading comprehension. The review
 - [TBL effects on theoretical knowledge and practical skills are larger in interventions lasting more than 4 weeks](tbl-effect-larger-interventions-over-four-weeks.md) — related
 - [Interventions lasting one to two months show the largest effect, and effects do not increase consistently with longer duration](ai-effect-duration-one-to-two-months-peak.md) — related
 - [GAI-based teaching improves knowledge scores when learning duration exceeds one week](gai-knowledge-gains-extended-duration.md) — related
+- [Longer VR interventions (at least 1 day) show larger score effects than interventions under 1 day](vr-anatomy-duration-moderates-effects.md) — related

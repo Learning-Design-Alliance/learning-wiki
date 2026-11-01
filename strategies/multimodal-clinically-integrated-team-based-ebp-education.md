@@ -45,6 +45,7 @@ Drawing on studies cited in its discussion, the review highlights that EBP educa
 
 - [Build supportive organizational structures — clear career pathways, mentorship programs, and leadership development — to enhance nurses' EBHC competence](organizational-structures-care-pathways-mentorship-leadership-ebhc.md)
 - [Design CPD programs with hands-on skill development, ongoing reinforcement, and integration into workplace protocols](cpd-hands-on-skills-reinforcement-protocol-integration.md)
+- [Incorporate internet and widely used smartphone applications into future EBP teaching to foster online interactive learning and engagement](technology-enhanced-ebp-teaching-strategy.md)
 
 ## Examples
 -

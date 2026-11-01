@@ -55,3 +55,4 @@ Method section describing the technical architecture of the case: Claude Code as
 - [Pedagogically scaffolded generative AI in design thinking education augments rather than replaces human judgment](genai-scaffolded-augments-human-judgment-design-thinking.md) — a broader claim this one bears on
 - [AI systems are non-neutral socio-technical artifacts embedding cultural assumptions and power relations](ai-non-neutral-embeds-power-relations.md) — a broader claim this one bears on
 - [The agent/consumer distinction is not primarily technical sophistication but capacity to interrogate the assumptions of AI outputs](agent-consumer-distinction-epistemic-agency.md) — related
+- [Models trained or prompted with high-quality review corpora produce more consistent, personalized code-review critiques, with human-in-the-loop processes remaining essential](code-review-corpus-quality.md) — related

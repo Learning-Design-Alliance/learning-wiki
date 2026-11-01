@@ -78,3 +78,4 @@ The review's narrative synthesis reports that direct patient-level (4b) outcomes
 - Fewer studies assessed Kirkpatrick level 3 behaviour and level 4 patient outcomes, and higher‐level feature combinations remain unclear — related
 - [Most LMIC simulation-based education studies testing significance demonstrate at least partial improvement in patient-level (Kirkpatrick Level 4) outcomes](sbe-lmic-most-studies-partial-improvement-level4.md) — related
 - [Nontechnical-skills simulation of ruptured AAA with the Resusci Anne Simulator directly improved patient outcomes, reducing door-to-occlusion time, door-to-needle time, and 30-day mortality (LoE 4/5)](nts-rraa-simulation-patient-outcomes.md) — related
+- [No included WBA feedback study demonstrated improved learning and performance as a direct result of WBA (Kirkpatrick Level 4); the highest level reached was Level 3](wba-feedback-no-kirkpatrick-level-4-evidence.md) — reports the opposite

@@ -58,3 +58,4 @@ Two-group quasi-experiment in a Public Space Interior Design course at a vocatio
 - [Students perceive peer assessment-based game development as fostering deep learning in in-depth thinking, creativity and motivation](peer-assessment-game-development-fosters-deep-learning-perceptions.md) — related
 - [PBL effect sizes on science achievement do not differ significantly across instructional variations of PBL](pbl-effect-similar-across-instructional-variations.md) — related
 - [The review finds flipped learning, PBL, gamification, and collaborative learning adapted to digital environments produced positive effects on motivation, participation, and transversal competences](flipped-pbl-gamification-collaborative-digital-effects.md) — related
+- [Virtual problem-based learning was equally as effective as text-based PBL for enhancing student learning and learning environment](vpbl-equally-effective-as-text-based-pbl.md) — related

@@ -74,3 +74,4 @@ Subgroup analyses for self-directed learning ability (Fig. 4B–D) found no betw
 - [Gamified flipped classroom/animation knowledge effects are inconclusive due to few studies and extreme heterogeneity](gamified-flipped-classroom-inconclusive-knowledge.md) — related
 - Substantial heterogeneity in intervention design, outcome measures, and feedback structures limited comparability across reviews, and no pooled meta-analysis was feasible — related
 - [Initial pooled analysis shows no statistically significant difference between VSAQ and MCQ scores but with extreme heterogeneity](vsaq-mcq-initial-pooled-no-difference-high-heterogeneity.md) — related
+- [The heterogeneity of suturing assessment tools precludes meta-analysis, though their content could be merged into a panel of competence markers](heterogeneous-suturing-tools-preclude-meta-analysis.md) — related

@@ -104,3 +104,4 @@ Uncontrolled before-after study (RT-SIM) with 32 psychiatry residents completing
 - [Meta-analysis of RCTs finds no significant effect of simulation training on factual knowledge about suicide](simulation-no-knowledge-effect-rct-meta.md) — related
 - [Simulation training improves self-perceived skills at six-month follow-up compared with active comparators, but shows no significant skill advantage at immediate post-test](simulation-skills-six-month-followup-suicide.md) — related
 - [A randomized controlled trial found VR and conventional 2D approaches both improved orthognathic diagnosis and treatment planning understanding with no significant difference between groups](vr-versus-conventional-orthognathic-planning-no-difference.md) — related
+- [There is weak evidence to support one resilience intervention over another for physicians who have completed training](weak-evidence-resilience-interventions-physicians.md) — related

@@ -53,3 +53,4 @@ The report's Purposes of Kindergarten Entry Assessments section, an expert-conse
 - [Only 15 states and the District of Columbia mandate kindergarten attendance, and 11 of those states require students to take a KEA](15-states-mandate-kindergarten-attendance.md) — related
 - [Assessment of young multilingual learners is hampered by a dearth of valid, linguistically appropriate measures and by English-only administration](assessment-barriers-young-multilingual-learners.md) — related
 - [High stakes should never be attached to observational measures used in formative evaluation of early childhood programs.](no-high-stakes-on-observational-measures.md) — a broader claim this one bears on
+- [Trainee feedback is an inappropriate measure of teacher quality because it may not measure teaching goals, lacks actionable information, and can be manipulated](trainee-feedback-inappropriate-teacher-quality-measure.md) — related

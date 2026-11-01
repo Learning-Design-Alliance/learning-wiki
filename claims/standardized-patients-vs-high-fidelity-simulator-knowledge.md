@@ -68,3 +68,4 @@ Same mixed-method study of 52 students: post-simulation performance scores were 
 - [Clinical simulation improves nursing students' knowledge, confidence and performance in cardiovascular physical examination compared with traditional teaching, per a systematic review of six studies](clinical-simulation-improves-cardiovascular-assessment-nursing.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [In an RCT of ICU nurses, simulation-based education produced within-group gains in knowledge, confidence and competence but no between-group differences at 6 weeks](sbe-icu-within-group-gains-no-between-group.md) — related
+- [High-fidelity simulation-based training led to improved patient care during cardiopulmonary bypass weaning compared with interactive seminars, at both post-test and retention test](simulation-beats-seminar-cpb-weaning-transfer.md) — related

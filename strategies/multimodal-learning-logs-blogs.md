@@ -65,6 +65,7 @@ Reflection logs work because they prompt learners to reconstruct and evaluate th
 - Peer feedback routines — the response mechanism that makes logs communicative rather than private
 - [Diary recording with recall, reflection and delayed verification as a self-directed learning strategy](diary-recall-reflection-verification-strategy.md)
 - [When using public reflection, agree in advance with all parties on what information can and cannot be shared to preserve confidentiality](set-confidentiality-rules-before-public-reflection.md)
+- [Instructor-managed blog activities recommended for maximizing blog learning and teaching potential](instructor-managed-blog-activities-recommendations.md)
 
 ## Examples
 - **CSILE/Knowledge Forum** ([https://www.knowledgeforum.com](https://www.knowledgeforum.com)) — Scardamalia and Bereiter's computer-supported communal database where students post, link, and build on each other's notes; the original research platform for community knowledge building.

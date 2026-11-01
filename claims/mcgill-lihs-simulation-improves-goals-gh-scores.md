@@ -50,3 +50,4 @@ Randomised controlled trial in which 14 surgical residents were assigned to a si
 - [Open hernia repair simulation models lack evidence of educational impact, with fewer validity assessments than laparoscopic models](open-hernia-models-lack-educational-impact.md) — related
 - [The SAW model shows construct validity and good correlation (0.87) between simulated and operating-room laparoscopic ventral/incisional hernia repair performance](saw-model-construct-validity-and-or-correlation.md) — related
 - [A virtual reality open inguinal hernia model improved medical students' knowledge of the procedure but did not assess technical skill](vr-open-hernia-model-improves-student-knowledge.md) — related
+- [Simulation-based training translates laparoscopic surgical skills to the operating room](simulation-training-translates-laparoscopic-skills-to-or.md) — a broader claim this one bears on

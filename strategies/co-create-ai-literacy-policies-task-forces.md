@@ -57,6 +57,7 @@ The brief recommends that districts address AI literacy gaps through comprehensi
 - [Combine bottom-up co-design with top-down executive sponsorship, cross-unit collaboration and dedicated R&D capacity to embed institutional GenAI](bottom-up-codesign-top-down-sponsorship-genai-embedding.md)
 - [Four-phase development roadmap for creating an SRL-Scaffolding Architecture](four-phase-roadmap-srl-scaffolding-architecture.md)
 - [Prioritize infrastructure-light KAS sub-dimensions in resource-constrained nursing curricula](infrastructure-light-kas-priorities.md)
+- [Phased implementation roadmap for departments adopting GenAI personalization](phased-genai-adoption-roadmap.md)
 
 ## Examples
 -

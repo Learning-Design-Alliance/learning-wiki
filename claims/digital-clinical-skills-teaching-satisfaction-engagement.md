@@ -53,3 +53,5 @@ Narrative synthesis of satisfaction findings across the 27 included studies. The
 - [Software-based platforms generally improve examination scores, diagnostic accuracy, and decision-making performance](software-platforms-improve-knowledge-and-decision-making.md) — related
 - [Across the review's randomised controlled trials, e-learning showed no significant differences in knowledge mastery versus controls, but greater short-term learner satisfaction](rcts-no-knowledge-difference-higher-satisfaction.md) — related
 - [VR instruction raises nursing students' academic satisfaction more than control teaching modalities (SMD = 1.14)](vr-raises-nursing-student-satisfaction.md) — related
+- [Patients generally preferred digital asthma monitoring tools, finding them motivating and usable at their own pace](digital-asthma-tools-patient-preference.md) — related
+- [Students report greater satisfaction with VR-based anatomy learning than with conventional or 2D methods](vr-anatomy-satisfaction-advantage.md) — a narrower finding that bears on this claim

@@ -52,3 +52,4 @@ In the MITx 8.MReVx Summer 2014 MOOC, the authors compared time on resources for
 - [Fake learners solved exercises significantly faster than true learners and showed higher weekly improvement, but did not differ significantly on grade, ability, or CFA.](fake-learners-faster-and-higher-weekly-improvement.md) — related
 - [A simulated doubling of fake learners (from ~15% to ~26%) significantly increased the bias in Analysis 1A, making 'Doers who are neither Watchers nor Readers' by far the most successful group.](doubling-fake-learners-increases-bias.md)
 - [CAMEO cheating accounts for an estimated 1,237 certificates, or 1.3% of certificates in the 69 MOOCs with CAMEO users](cameo-accounts-for-1237-certificates-1-3-percent-in-affected-courses.md) — related
+- [Trust in reviews is highest for voluntary reviews because fake reviews are usually created for payment](voluntary-reviews-highest-trust-paid-fakes.md) — related

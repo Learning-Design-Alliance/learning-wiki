@@ -64,3 +64,4 @@ Quasi-experiment in Moroccan public schools with 109 secondary students in three
 - [Technology-supported personalized learning approaches, especially adaptive learning technologies, are reported to raise student achievement more than traditional non-adaptive instruction](tech-personalized-learning-raises-achievement.md) — related
 - [E-learning platforms allow self-paced navigation, enabling focus on areas of difficulty](e-learning-self-paced-navigation.md) — possibly the same claim (merge candidate)
 - [Reported benefits of asynchronous e-learning include cost-effectiveness, self-paced learning, flexibility, and immediate feedback](asynchronous-elearning-benefits-nurses.md) — related
+- [Patients generally preferred digital asthma monitoring tools, finding them motivating and usable at their own pace](digital-asthma-tools-patient-preference.md) — related

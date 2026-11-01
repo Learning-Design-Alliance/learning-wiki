@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 236 claims (106 for, 113 mixed, 17 against) · 177 studies (68 causal, 35 review, 24 quant-synthesis, 17 associational, 13 design, 10 qualitative, 10 theoretical), `q1`–`q4` · 44 of 177 report an effect size · 212 claims rest on one study
+> **Evidence** · 241 claims (111 for, 113 mixed, 17 against) · 180 studies (68 causal, 36 review, 26 quant-synthesis, 17 associational, 13 design, 10 qualitative, 10 theoretical), `q1`–`q4` · 44 of 180 report an effect size · 217 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -284,6 +284,11 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Objective, device-based feedback is preferred in cardiac arrest simulation education](../claims/device-based-feedback-preferred.md) [~W]
 - [Simulator feedback frequency was significantly higher than human instructor feedback in one catheterization training study](../claims/simulator-feedback-frequency-higher-than-human-instructor.md) [~W]
 - [VBC advantage over controls is largest against no-specific-feedback controls and non-significant against controls receiving supplementary training material](../claims/vbc-advantage-varies-by-control-feedback-type.md) [~W]
+- [Feedback from well-implemented workplace based assessments, particularly multisource feedback, leads to a perceived positive effect on doctors' practice](../claims/wba-feedback-perceived-positive-effect-practice.md) [+W] — attached 2026-11-01 from Saedon H et al. (2012), which proposed "Multisource feedback (MSF) as a workplace based assessment method"; tests this page's relationship.
+- [Feedback usefulness from multisource feedback is enhanced by increasing its specificity, and specific, patient-sourced feedback on communication skills is most consistently used](../claims/msf-feedback-specificity-enhances-usefulness.md) [+W] — attached 2026-11-01 from Saedon H et al. (2012), which proposed "Multisource feedback (MSF) as a workplace based assessment method"; tests this page's relationship.
+- [Intraoperative feedback reduces error scores in cholecystectomy and simulated procedures](../claims/feedback-reduces-error-scores.md) [+W]
+- [Personalized feedback is the most frequently reported pedagogical benefit of AI agents, reported in 44.83% of reviewed studies](../claims/personalized-feedback-top-benefit.md) [+W]
+- [Text-oriented MSF tools with large free-text boxes are perceived as more useful for feedback on communication and professionalism than numerical-scale tools](../claims/text-oriented-msf-tools-perceived-more-useful.md) [+W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

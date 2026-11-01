@@ -50,3 +50,5 @@ Summary of five skill-transfer studies (113 participants) with heterogeneous des
 - [Evidence on transfer to clinical behavior and patient outcomes is scarce: only 2 studies reached Kirkpatrick level 3 and 1 reached level 4](transfer-and-patient-outcomes-scarce.md) — related
 - [In 82% of studies on transferability, simulation performance was correlated with better operating room performance](simulation-performance-correlated-better-or-performance.md) — related
 - [No evidence currently supports transfer of simulator-based VRS training to the operating room](no-evidence-vrs-simulator-transfer-operating-room.md) — reports the opposite
+- [Simulation-based training translates laparoscopic surgical skills to the operating room](simulation-training-translates-laparoscopic-skills-to-or.md) — related
+- [VR training simulators develop perceptual-motor skills for machinery operation, but real-world skill transfer remains difficult to assess](vr-simulators-perceptual-motor-skills-transfer-challenge.md) — a broader claim this one bears on

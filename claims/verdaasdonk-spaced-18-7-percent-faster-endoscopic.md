@@ -51,3 +51,4 @@ Randomized control trial (n=20 students) using the SIMENDO VR simulator, three d
 - [Short-interval (2.5-minute) spaced practice outperformed massed practice on a laparoscopic transfer task in Mackay et al.](mackay-short-interval-spaced-outperformed-massed.md) — related
 - [Daily training on consecutive days appears more effective than weekly or massed schedules for VR-based psychomotor skill acquisition](daily-consecutive-days-optimal-vr-spacing-interval.md) — related
 - [The optimal spacing interval is bounded by reactive inhibition at short intervals and skill deterioration at long intervals](spacing-interval-inverted-u-reactive-inhibition-forgetting.md) — related
+- [Simulator-based skills training improves performance in therapeutic endoscopic procedures (polypectomy, upper GI bleeding control, esophageal dilation)](simulator-training-improves-therapeutic-endoscopy-skills.md) — related

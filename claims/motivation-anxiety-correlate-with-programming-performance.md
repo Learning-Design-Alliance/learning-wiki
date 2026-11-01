@@ -58,3 +58,4 @@ Correlation analysis at T3 in the quasi-experiment (Table 6); "intrinsic motivat
 - [AI-assisted pair programming significantly reduced programming anxiety compared to individual programming](ai-assisted-pair-programming-reduces-programming-anxiety.md) — related
 - [Self-reported intrinsic cognitive load correlates positively with anxiety and challenge and negatively with probability of success in an algebra task](intrinsic-cognitive-load-correlates-with-anxiety-challenge-and-lower-probability-of-success.md) — related
 - [Intrinsic math motivation is positively correlated with arithmetic skills and negatively correlated with explicitly measured math anxiety in sixth graders](intrinsic-math-motivation-correlates-skills-anxiety.md) — a broader claim this one bears on
+- [Different dashboard designs produce different learning outcome impacts, as predictive and descriptive dashboards diverge](lad-design-type-moderates-outcomes.md) — related

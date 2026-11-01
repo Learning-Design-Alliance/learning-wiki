@@ -49,3 +49,5 @@ Narrative synthesis of the eight qualitative studies (including ProMIS, eoSim, A
 - [In thyroid surgery training, simulation and virtual-reality training improved technical performance and task completion time, and simulators were rated as realistic](simulation-vr-improves-thyroid-surgery-technical-performance.md) — related
 - [AR-assisted training improves OSATS Global scores in novice laparoscopic learners](ar-training-improves-osats-global-laparoscopic.md) — related
 - [Simulation-based training can significantly shorten learning curves for technical skills compared to traditional clinical training alone](simulation-shortens-learning-curves.md) — related
+- [Simulation-based training contributes to patient safety in laparoscopic surgery](simulation-training-contributes-to-patient-safety.md) — related
+- [Simulation-based training reduces intraoperative errors in laparoscopic surgery](simulation-training-reduces-intraoperative-errors.md) — related

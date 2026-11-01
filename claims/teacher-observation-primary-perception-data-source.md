@@ -50,3 +50,4 @@ Interview and observation findings from the study's 10 focal middle school math 
 - SE measurement in undergraduate mathematics relies predominantly on log files for online behavioral engagement and self-reports for course participation, with behavioral engagement the most examined dimension — related
 - [School climate measurement relies heavily on student self-report questionnaires, with families and observational methods rarely represented](student-selfreport-dominates-climate-measurement.md) — related
 - [Survey design and management conditions influenced how schools engaged with climate data](survey-design-conditions-data-engagement.md) — related
+- [LAD evaluation methods are predominantly traditional, relying on surveys, quizzes and crude proxies prone to subjectivity bias](lad-traditional-evaluation-methods.md) — related

@@ -81,3 +81,4 @@ The review reports, citing Bagunaid et al. (2022), that AI prediction and recomm
 - [The Challenge scale's three-factor structure was confirmed for students but did not reach satisfactory fit for faculty](genai-rp-challenge-scale-faculty-poor-fit.md) — related
 - [Adult learners view building an ethical learner-AI relationship, with baked-in AI ethics norms, as important for socio-emotional interaction](ethical-learner-ai-relationship-socio-emotional.md) — related
 - [Teachers and students identify usability, learning analytics, emotion detection, trustworthiness, and privacy as required technological aspects for PAs](pa-technological-requirements-usability-analytics-trust.md) — related
+- [Over-reliance on AI leading to superficial learning is the most frequently reported learning risk, documented in 65.52% of reviewed studies](overreliance-superficial-learning-risk.md) — related

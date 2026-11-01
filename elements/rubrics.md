@@ -14,7 +14,7 @@ generated:
 # Rubrics
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 33 claims (15 for, 14 mixed, 4 against) · 30 studies (11 causal, 6 review, 6 design, 4 associational, 3 quant-synthesis), `q1`–`q3` · 4 of 30 report an effect size · 30 claims rest on one study
+> **Evidence** · 34 claims (15 for, 15 mixed, 4 against) · 31 studies (11 causal, 7 review, 6 design, 4 associational, 3 quant-synthesis), `q1`–`q3` · 4 of 31 report an effect size · 31 claims rest on one study
 
 ## Description
 Rubrics are the element in which criteria and performance levels are made explicit to guide quality work and evaluation.
@@ -63,6 +63,7 @@ Rubrics are the element in which criteria and performance levels are made explic
 - [Students and faculty generally view rubrics positively but emphasize different functions](../claims/positive-student-faculty-perceptions-of-rubrics.md) [~W]
 - [Rubrics enhance grading consistency and inter-rater reliability in dental education assessment](../claims/rubrics-enhance-grading-consistency-dental-education.md) [+W]
 - [Training reviewers and using rubrics reduces inconsistent evaluation and bias in CBA/HA](../claims/reviewer-training-rubrics-reduce-bias.md) [+W]
+- [Rubric-guided grading pipelines can approach human-level agreement when explicit rubrics, exemplars, and calibration are used](../claims/rubric-guided-grading-human-agreement.md) [~W]
 
 ## The evidence by question
 - *Does giving learners the criteria, and having them apply them to their own or peers' work, improve the work?* [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](../claims/rubrics-improve-student-work.md) [+M]

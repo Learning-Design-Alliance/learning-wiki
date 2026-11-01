@@ -51,3 +51,4 @@ The scoping review reports this theme from three included diagnostic accuracy st
 - [Number of abnormalities on a trauma radiograph is associated with interpretation accuracy, which falls as abnormalities accumulate](multiple-abnormalities-reduce-interpretation-accuracy.md) — related
 - [Anatomical site of injury is associated with junior doctor trauma X-ray interpretation accuracy, with appendicular radiographs interpreted more accurately](anatomical-site-appendicular-accuracy-advantage.md)
 - [Time of day and interpretation duration show mixed associations with junior doctor trauma X-ray accuracy](time-and-shift-effects-on-interpretation-accuracy.md)
+- [Clinical experience shows inconsistent effects on Bayesian reasoning, with research experience helping and newly qualified doctors sometimes more accurate](experience-effects-on-bayesian-reasoning-inconsistent.md) — related

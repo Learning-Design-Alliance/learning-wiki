@@ -68,6 +68,7 @@ Collective analysis converts interpretation from a private expert task into a [c
 - [Codebook development, theme generation, and community validation of findings](codebook-themes-community-validation.md)
 - [Use data collaboratively through a structured data analysis process among educators](collaborative-structured-data-analysis.md)
 - [Apply Youth Participatory Action Research principles to school-based citizen science design to support student agency](ypar-principles-for-ccs-design.md)
+- [Build coherent programmatic research efforts through collaborative theme identification](collaborative-programmatic-research-efforts.md)
 
 ## Related Elements
 - [Class Discussion](../elements/class-discussion.md) — the vehicle for surfacing and negotiating competing interpretations

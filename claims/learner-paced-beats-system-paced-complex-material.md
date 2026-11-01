@@ -147,3 +147,4 @@ This meta-analysis updated earlier work (Niemiec, Sikorski, & Walberg) on giving
 - [Segmenting online multimedia lessons into short user-paced segments improves transfer and reduces cognitive load](segmenting-improves-transfer-and-reduces-load.md) — related
 - [Learner pacing is a proposed moderator that may explain the absence of a split-attention effect in visually-based mobile learning](self-pacing-may-moderate-split-attention-in-mobile-learning.md) — related
 - [E-learning platforms allow self-paced navigation, enabling focus on areas of difficulty](e-learning-self-paced-navigation.md) — a narrower finding that bears on this claim
+- [AR technologies may facilitate physics learning by providing complementary visualizations, optimizing cognitive load, allowing haptic learning, reducing task completion time and promoting collaborative inquiry](ar-facilitates-physics-learning-five-mechanisms.md) — related

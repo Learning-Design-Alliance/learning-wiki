@@ -50,3 +50,4 @@ Same pilot attitude survey of 29 students; the article reports these two percent
 - [In a pilot with 29 introductory radiation physics students, students reported that the pinch-and-spread gesture helped them feel wavelength and amplitude, with amplitude receiving the highest mean rating of 4.59](ar-pinch-gesture-students-feel-wavelength-amplitude-pilot.md) — related
 - [Participants rated SOPHIE 2.0 as engaging, easy to use, and clinically relevant in a self-service format](sophie2-high-perceived-usability-and-value.md) — related
 - [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) — related
+- [93% of students rated usability and control as important to their learning](usability-and-control-rated-important-by-93-percent.md) — related

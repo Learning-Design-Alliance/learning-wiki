@@ -50,3 +50,4 @@ The review reports a randomized controlled trial of grief support training in De
 - [A US randomized controlled trial found significantly decreased burnout after physicians attended four modules on stress, grief and burnout in medicine](us-rct-grief-modules-decreased-burnout.md)
 - [In a Spanish RCT, widows whose family physician was trained in bereavement care experienced poorer emotional outcomes than widows in the control group](spanish-rct-bereavement-training-poorer-widow-outcomes.md) — reports the opposite
 - [Grief training in medical education is most often delivered as short voluntary workshops focused on transmitting knowledge about death, dying and bereavement](grief-training-short-voluntary-knowledge-focused-workshops.md) — related
+- [There is weak evidence to support one resilience intervention over another for physicians who have completed training](weak-evidence-resilience-interventions-physicians.md) — related

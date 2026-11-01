@@ -49,3 +49,4 @@ Systematic review following PRISMA guidelines: 525 articles found after duplicat
 - [ANGIO Mentor was the most highly validated and effective vascular simulator and the only simulator to achieve an LoE of 5/5](angio-mentor-most-validated-loe-5.md) — a narrower finding that bears on this claim
 - [Nontechnical-skills simulation of ruptured AAA with the Resusci Anne Simulator directly improved patient outcomes, reducing door-to-occlusion time, door-to-needle time, and 30-day mortality (LoE 4/5)](nts-rraa-simulation-patient-outcomes.md) — a narrower finding that bears on this claim
 - [Only seven studies of vascular surgery simulation achieved a level of effectiveness greater than 3/5, with the majority scoring LoE 1-2/5](few-simulators-loe-above-3.md) — a narrower finding that bears on this claim
+- [Non-expert delivered feedback is as effective as expert feedback on most outcomes in endovascular simulator training](non-expert-feedback-comparable-expert.md) — related

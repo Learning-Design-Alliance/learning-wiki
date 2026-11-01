@@ -60,3 +60,4 @@ Multi-level model analysis of the experiment with N = 77 university students per
 - [Non-linear (Goldilocks) effects of expectations and aspirations on outcomes are small and largely non-significant](goldilocks-effect-not-supported-expectations.md) — related
 - [Dynamic visualizations compensate vocational-school students with low general reasoning when learning with analogies](dynamic-visualizations-compensate-low-general-reasoning-vs-students.md) — related
 - [Dynamic visualizations benefit vocational-school students with lower visual-spatial ability more than those with higher visual-spatial ability](dynamic-visualizations-compensate-low-visual-spatial-ability-vs-students.md) — related
+- [Tokenizer vocabulary size exhibits a concave-down (Goldilocks) relationship with LLM scoring agreement, with diminishing returns beyond moderate sizes](vocab-size-concave-scoring-agreement.md) — a narrower finding that bears on this claim

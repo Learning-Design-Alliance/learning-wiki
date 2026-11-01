@@ -56,3 +56,4 @@ Narrative synthesis of six included experimental and quasi-experimental studies 
 - [Simulation improves critical thinking in nursing and medical students compared to traditional teaching](simulation-improves-critical-thinking-nursing-medical-students.md) — related
 - [Simulation training improves cardiac auscultation skills but shows no effect on respiratory auscultation skills](sbme-cardiac-not-respiratory-auscultation.md) — related
 - [Computer/internet-based learning programs improved physical examination skill performance compared to students without IT support](computer-based-learning-improves-pe-skills.md) — related
+- [High-fidelity simulation-based training led to improved patient care during cardiopulmonary bypass weaning compared with interactive seminars, at both post-test and retention test](simulation-beats-seminar-cpb-weaning-transfer.md) — related

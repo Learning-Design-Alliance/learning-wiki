@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 95 claims (46 for, 44 mixed, 5 against) · 86 studies (21 review, 15 quant-synthesis, 14 causal, 13 associational, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 12 of 86 report an effect size · 94 claims rest on one study
+> **Evidence** · 98 claims (47 for, 46 mixed, 5 against) · 89 studies (24 review, 15 quant-synthesis, 14 causal, 13 associational, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 12 of 89 report an effect size · 97 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -130,6 +130,9 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [Trainees and trainers hold mixed views on AI-generated heat maps for postoperative coaching](../claims/mixed-trainee-trainer-views-ai-heat-maps.md) [~W]
 - [Digital learning resources increase prescribing-related knowledge test scores compared with preintervention testing or no education](../claims/dlrs-increase-prescribing-knowledge-test-scores.md) [+W]
 - [Direct effects of digital learning on patient outcomes are rarely studied and not consistently detected](../claims/dlr-patient-outcomes-not-established.md) [~W]
+- [Interactive whiteboard groups showed more adaptive decision-making behavior earlier than traditional whiteboard groups in simulated medical emergencies](../claims/iwb-adaptive-decision-making-medical-emergency.md) [+W] — attached 2026-11-01 from Jun J (2014), which proposed "Interactive whiteboards and plasma screens as PBL interventions"; tests this page's relationship.
+- [Blogging fostered positive student engagement and interest in learning activities across most studies, though experimental evidence was mixed](../claims/blogging-positive-engagement-mixed-experimental.md) [~W]
+- [Other online technologies (blogging, podcasts, wikis, ARS) show mixed or null effects on grades and exam scores](../claims/other-technologies-mixed-null-effects.md) [~W]
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

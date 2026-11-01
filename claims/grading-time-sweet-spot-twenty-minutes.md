@@ -47,3 +47,4 @@ Observational analysis of tens of thousands of peer grades in the HCI datasets, 
 ## Related Claims
 - [Pooling Repeated LLM Grades Does Not Improve Agreement on Short Answers](pooling-repeated-llm-grades-does-not-improve-agreement.md) — related
 - [Higher-scoring students tend to be more reliable graders (except the very best), and students are least biased when grading peers with similar scores](grader-grade-relates-to-grading-reliability.md) — related
+- [Ranking-based evaluation is more reliable and less manipulable than numeric rating, whose scores are noisy, inflated, and inconsistent](ranking-more-reliable-than-rating-peer-grading.md) — related

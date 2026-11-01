@@ -85,3 +85,4 @@ Reliability analysis of essay scoring by three high school physics teachers of 1
 - [Rubrics enhance grading consistency and inter-rater reliability in dental education assessment](rubrics-enhance-grading-consistency-dental-education.md) — related
 - [Inter-rater reliability of the ANTS system reached substantial agreement in most raters that reported it](ants-inter-rater-reliability-substantial.md) — related
 - [Structured viva shows significant inter-rater reliability between examiner pairs (r = 0.78 to 0.91) and high inter-rater agreement (86.7%)](structured-viva-inter-rater-reliability-significant.md) — related
+- [Rubric-guided grading pipelines can approach human-level agreement when explicit rubrics, exemplars, and calibration are used](rubric-guided-grading-human-agreement.md) — related

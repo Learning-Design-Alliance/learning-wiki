@@ -45,6 +45,7 @@ The second framework component has institutions deploy wrapper applications gove
 - [Restrict: preserve AI-free cognitive sanctuaries where unassisted capability is practiced and assessed](restrict-ai-free-cognitive-sanctuaries.md)
 - [Hint Design](hint-design.md)
 - [Self Correction_Routines](self-correction_routines.md)
+- [Design for productive struggle: default to solution withholding and laddered hints with reflection between levels](design-for-productive-struggle-genai.md)
 
 ## Examples
 -

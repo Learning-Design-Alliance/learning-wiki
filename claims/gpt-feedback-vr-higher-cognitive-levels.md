@@ -55,3 +55,4 @@ Randomized controlled trial in which 81 undergraduate students were randomly ass
 - [AI applications contributed to STEM students' higher-order thinking, including problem-solving, computational thinking, and self-regulated learning](ai-stem-higher-order-thinking-effects.md) — related
 - [GCLA use enhances higher-order thinking skills—critical thinking, problem-solving, and creativity—compared with traditional ChatGPT use](gcla-improves-hots.md) — related
 - [All four instructional quality dimensions (ILEQ, IIFQ, FSQ, ASA) significantly and positively predict Dual Empowerment in VR-based welding training](instructional-quality-dimensions-predict-dual-empowerment.md) — related
+- [VR temporal demands during short testing quizzes are significantly lower than traditional paper-based testing](vr-short-testing-quizzes-lower-temporal-demands.md) — related

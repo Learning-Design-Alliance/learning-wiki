@@ -47,3 +47,4 @@ Thematic synthesis of 150 quotes under set design found that "Both visual and au
 ## Related Claims
 - [The most frequently reported challenge of virtual simulation teaching is its lack of realism, alongside operational complexity, English-language demands, cultural mismatch, and adverse physical reactions](vs-challenges-realism-and-usability.md) — related
 - [Combining voiced auditory descriptions with tactile graphics increased braille readers' likelihood of answering assessment items correctly](auditory-descriptions-plus-tactile-graphics-improve-bvi-assessment.md) — related
+- [Visual perception dominates multimodal sensory design (98.7%), with auditory (39.7%), kinesthetic (29.5%), tactile (19.2%), and olfactory (1.3%) far less common](visual-perception-dominates-sensory-design.md) — related
