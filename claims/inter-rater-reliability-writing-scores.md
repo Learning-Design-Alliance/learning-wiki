@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2020
+source_checked: 2026-11-01
 recheck_by: 2023
 sources:
   - id: ho-2020
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
+> **Currency** · newest study 2020 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Pearson correlations between raters' scores on the pre- and post-tests of both groups indicated good reliability. [→ Ho 2020](#ho-2020)

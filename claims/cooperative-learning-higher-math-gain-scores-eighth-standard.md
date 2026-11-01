@@ -47,7 +47,7 @@ Two equivalent-group quasi-experiment with 20 students per group matched on pre-
 
 ## Related Claims
 - [Cooperative learning produced significantly higher gain scores than lecture teaching for each of the knowledge, understanding and application objectives](cooperative-learning-gains-knowledge-understanding-application.md) — possibly the same claim (merge candidate)
-- [The TGT experimental group significantly outperformed the lecture-based control group on the mathematics posttest](tgt-outperformed-lecture-posttest.md) — related
+- [The TGT group scored higher than the lecture-based control group on the mathematics posttest, a difference the authors call significant though they print only within-group pretest-posttest tests](tgt-outperformed-lecture-posttest.md) — related
 - [Grade VIII students taught mathematics with the TGT web-based game technique showed a significant pretest-to-posttest achievement gain over three weeks](tgt-significant-achievement-gain-grade-eight.md) — related
 - [Class IX physical science students taught with the constructivist 7E model achieved significantly higher post-test and gain scores than students taught with traditional methods](7e-model-higher-science-achievement-secondary.md) — related
 - [Junior secondary students taught algebraic expressions with card games and algebra tic-tacmatics achieved significantly higher adjusted post-test scores than students taught by conventional lecture method](games-enhance-algebraic-expressions-achievement-js2.md) — related

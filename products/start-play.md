@@ -25,7 +25,7 @@ START-Play is a pediatric rehabilitation early-intervention programme for infant
 ### Claims
 
 - [Most variables of the START-Play fidelity measure show good to excellent interrater reliability, with ICCs ranging from 0.77 to 0.95](../claims/start-play-fidelity-icc-077-095.md) [+M]
-- [Therapist adherence to START-Play correlates positively with participant responsiveness, but therapist experience does not predict fidelity](../claims/adherence-responsiveness-correlations-experience-null.md) [+W]
+- [Some START-Play adherence measures and therapist effectiveness in engaging parents correlate positively with parent engagement; therapist experience showed no significant correlation with adherence or delivery quality](../claims/adherence-responsiveness-correlations-experience-null.md) [+W]
 - [START-Play and usual early intervention differed significantly on all fidelity variables, differentiating the interventions](../claims/start-play-differentiated-from-uei.md) [+W]
 
 ## Related Products and Programmes

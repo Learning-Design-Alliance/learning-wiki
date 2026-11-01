@@ -9,7 +9,8 @@ generated:
   at: 2026-11-01
 sources:
   - id: bamidele-2013
-    title: "Bamidele, E.F. & Oloyede, E. O. (2013). Comparative Effectiveness of Hierarchical, Flowchart and Spider Concept Mapping Strategies on Students’ Performance in Chemistry. World Journal of Education, 3(1)."
+    resource: "https://doi.org/10.5430/wje.v3n1p66"
+    title: "Bamidele, E.F. & Oloyede, E. O. (2013). Comparative Effectiveness of Hierarchical, Flowchart and Spider Concept Mapping Strategies on Students’ Performance in Chemistry. World Journal of Education, 3(1). https://doi.org/10.5430/wje.v3n1p66"
     author: "Bamidele, E.F. & Oloyede, E. O"
 ---
 
@@ -54,4 +55,4 @@ The article recommends that chemistry teachers present and summarize concepts an
 -
 
 ## Key Sources
-- Bamidele, E.F. & Oloyede, E. O. (2013). Comparative Effectiveness of Hierarchical, Flowchart and Spider Concept Mapping Strategies on Students’ Performance in Chemistry. World Journal of Education, 3(1).
+- Bamidele, E.F. & Oloyede, E. O. (2013). Comparative Effectiveness of Hierarchical, Flowchart and Spider Concept Mapping Strategies on Students’ Performance in Chemistry. World Journal of Education, 3(1). https://doi.org/10.5430/wje.v3n1p66

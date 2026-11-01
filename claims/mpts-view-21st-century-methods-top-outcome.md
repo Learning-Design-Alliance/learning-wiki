@@ -48,4 +48,4 @@ Experiment-phase survey of 42 fourth-year mathematics pre-service teachers on Bl
 
 - [Pre-service teachers identified lesson planning and presentation as the assessment task most evaluating their readiness for practice](mpts-lesson-presentation-top-assessment-task.md)
 - [Redesigning a mathematics methodology module yielded six learning outcomes sequenced from lower to higher levels of understanding across six dimensions](six-learning-outcomes-mathematics-methodology-ca.md)
-- [Mathematics teacher educators foregrounded engagement-oriented activities such as hands-on problem-solving and group work as key teaching-and-learning activities](teacher-educators-foreground-engagement-tlas.md)
+- [Three mathematics teacher educators all foregrounded engagement-focused teaching-and-learning activities, variously hands-on problem-solving and group work, collaboration, and student demonstrations with class discussion](teacher-educators-foreground-engagement-tlas.md)

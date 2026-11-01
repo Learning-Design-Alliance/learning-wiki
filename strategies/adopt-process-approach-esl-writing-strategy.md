@@ -9,7 +9,8 @@ generated:
   at: 2026-11-01
 sources:
   - id: akinwamide-2012
-    title: "Akinwamide, T. K. (2012). The Influence of Process Approach on English as Second Language Students' Performances in Essay Writing. English Language Teaching, 5(3)."
+    resource: "https://doi.org/10.5539/elt.v5n3p16"
+    title: "Akinwamide, T. K. (2012). The Influence of Process Approach on English as Second Language Students' Performances in Essay Writing. English Language Teaching, 5(3). https://doi.org/10.5539/elt.v5n3p16"
     author: Akinwamide, T. K
 ---
 
@@ -51,4 +52,4 @@ Based on the study's outcomes, the article recommends that "English as second la
 -
 
 ## Key Sources
-- Akinwamide, T. K. (2012). The Influence of Process Approach on English as Second Language Students' Performances in Essay Writing. English Language Teaching, 5(3).
+- Akinwamide, T. K. (2012). The Influence of Process Approach on English as Second Language Students' Performances in Essay Writing. English Language Teaching, 5(3). https://doi.org/10.5539/elt.v5n3p16

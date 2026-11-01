@@ -24,7 +24,7 @@ The article frames intervention fidelity as "a multidimensional construct with f
 ### Claims
 
 - [START-Play and usual early intervention differed significantly on all fidelity variables, differentiating the interventions](../claims/start-play-differentiated-from-uei.md) [+M]
-- [Therapist adherence to START-Play correlates positively with participant responsiveness, but therapist experience does not predict fidelity](../claims/adherence-responsiveness-correlations-experience-null.md) [+W]
+- [Some START-Play adherence measures and therapist effectiveness in engaging parents correlate positively with parent engagement; therapist experience showed no significant correlation with adherence or delivery quality](../claims/adherence-responsiveness-correlations-experience-null.md) [+W]
 
 ## Related Research Methods
 

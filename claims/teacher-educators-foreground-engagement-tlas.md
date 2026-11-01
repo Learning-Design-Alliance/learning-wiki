@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Mathematics teacher educators foregrounded engagement-oriented activities such as hands-on problem-solving and group work as key teaching-and-learning activities
-description: Mathematics teacher educators foregrounded engagement-oriented activities such as hands-on problem-solving and group work as key teaching-and-learning activities
+title: Three mathematics teacher educators all foregrounded engagement-focused teaching-and-learning activities, variously hands-on problem-solving and group work, collaboration, and student demonstrations with class discussion
+description: Three mathematics teacher educators all foregrounded engagement-focused teaching-and-learning activities, variously hands-on problem-solving and group work, collaboration, and student demonstrations with class discussion
 id: teacher-educators-foreground-engagement-tlas
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-18
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-11-01
 sources:
   - id: spangenberg-2025
     resource: "https://doi.org/10.1007/s11251-025-09712-z"
@@ -20,14 +21,14 @@ sources:
     rigour: 2
 ---
 
-# Mathematics teacher educators foregrounded engagement-oriented activities such as hands-on problem-solving and group work as key teaching-and-learning activities
+# Three mathematics teacher educators all foregrounded engagement-focused teaching-and-learning activities, variously hands-on problem-solving and group work, collaboration, and student demonstrations with class discussion
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q1 i?` All three mathematics teacher educators foregrounded teaching-and-learning activities focused on engagement, highlighting hands-on problem-solving and group work to build learning communities. [→ Spangenberg 2025](#spangenberg-2025)
+`q1 i?` All three mathematics teacher educators surveyed foregrounded teaching-and-learning activities focused on engagement, in different forms: one highlighted hands-on mathematics problem-solving and group work to build learning communities, one argued that collaboration is crucial, and one described students demonstrating at the board followed by class questions and discussion. [→ Spangenberg 2025](#spangenberg-2025)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Spangenberg, E. D. (2025). Constructive alignment of a mathematics methodology m
 
 `q1 · i?` · `design · r2`
 
-Preliminary-phase email survey of three mathematics teacher educators (a professor, a lecturer, an assistant lecturer) contributing expert views on activities for the module. All three emphasized engagement; MTE1 is quoted on "hands-on mathematics problem-solving activities" and group work, and MTE2 argued collaboration is crucial.
+Preliminary-phase email survey of three mathematics teacher educators (a professor, a lecturer, an assistant lecturer) contributing expert views on activities for the module. All three foregrounded engagement-focused activities, each in a different form: MTE1 is quoted on "hands-on mathematics problem-solving activities" and group work, MTE2 argued collaboration is crucial, and MTE3 described having students demonstrate how they would teach a topic at the board, followed by class questions and discussion.
 
 > "All three MTEs also foregrounded TLA, which focused on engagement. MTE1 high -lights "hands-on mathematics problem-solving activities" and "group work to encourage the construction of learning communities.""
 

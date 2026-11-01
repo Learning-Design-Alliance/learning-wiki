@@ -49,7 +49,7 @@ The article recommends that mathematics teachers, especially in religious school
 - [Cooperative TGT significantly improves Grade 11 students' mathematics communication compared with conventional teaching](../claims/tgt-improves-mathematics-communication.md) [+M]
 - [Cooperative TGT significantly improves Grade 11 students' mathematics understanding compared with conventional teaching over a five-week intervention](../claims/tgt-improves-mathematics-understanding.md) [+M]
 - [Students in Cooperative TGT classrooms learned to socialise while learning mathematics and became more active learners](../claims/tgt-students-socialise-while-learning-mathematics.md) [+W]
-- [The TGT experimental group significantly outperformed the lecture-based control group on the mathematics posttest](../claims/tgt-outperformed-lecture-posttest.md) [+W]
+- [The TGT group scored higher than the lecture-based control group on the mathematics posttest, a difference the authors call significant though they print only within-group pretest-posttest tests](../claims/tgt-outperformed-lecture-posttest.md) [+W]
 - [Grade VIII students taught mathematics with the TGT web-based game technique showed a significant pretest-to-posttest achievement gain over three weeks](../claims/tgt-significant-achievement-gain-grade-eight.md) [+W]
 
 ## Related Strategies

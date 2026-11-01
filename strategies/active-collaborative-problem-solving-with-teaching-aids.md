@@ -39,7 +39,7 @@ The article recommends that teachers replace teacher-centred presentation with a
 
 ## Claims
 
-- [Mathematics teacher educators foregrounded engagement-oriented activities such as hands-on problem-solving and group work as key teaching-and-learning activities](../claims/teacher-educators-foreground-engagement-tlas.md) [+W]
+- [Three mathematics teacher educators all foregrounded engagement-focused teaching-and-learning activities, variously hands-on problem-solving and group work, collaboration, and student demonstrations with class discussion](../claims/teacher-educators-foreground-engagement-tlas.md) [+W]
 - [Active training improved problem-solving performance, while traditional and heuristic methods did not differ from each other](../claims/active-training-best-for-problem-solving.md) [+W]
 
 ## Related Strategies

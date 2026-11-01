@@ -46,7 +46,7 @@ Reliability analysis in Phase I of the START-Play randomized controlled trial: 2
 
 
 ## Related Claims
-- [Therapist adherence to START-Play correlates positively with participant responsiveness, but therapist experience does not predict fidelity](adherence-responsiveness-correlations-experience-null.md) — related
+- [Some START-Play adherence measures and therapist effectiveness in engaging parents correlate positively with parent engagement; therapist experience showed no significant correlation with adherence or delivery quality](adherence-responsiveness-correlations-experience-null.md) — related
 - [START-Play and usual early intervention differed significantly on all fidelity variables, differentiating the interventions](start-play-differentiated-from-uei.md) — related
 - [In Study 2, inter-rater agreement for rating creative problem solving ideas was good to excellent across indicators](cps-idea-ratings-good-excellent-interrater-agreement.md) — related
 - [The best prompt showed excellent test-retest reliability (intrarater consistency ICC = 0.89) when rerun in ChatGPT 3.5](llm-grading-excellent-intrarater-consistency.md) — related

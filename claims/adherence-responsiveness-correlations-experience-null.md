@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Therapist adherence to START-Play correlates positively with participant responsiveness, but therapist experience does not predict fidelity
-description: Therapist adherence to START-Play correlates positively with participant responsiveness, but therapist experience does not predict fidelity
+title: Some START-Play adherence measures and therapist effectiveness in engaging parents correlate positively with parent engagement; therapist experience showed no significant correlation with adherence or delivery quality
+description: Some START-Play adherence measures and therapist effectiveness in engaging parents correlate positively with parent engagement; therapist experience showed no significant correlation with adherence or delivery quality
 id: adherence-responsiveness-correlations-experience-null
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2020
+source_checked: 2026-11-01
 sources:
   - id: mihee-an-2020
     resource: "https://doi.org/10.1111/dmcn.14702"
@@ -20,14 +21,14 @@ sources:
     rigour: 3
 ---
 
-# Therapist adherence to START-Play correlates positively with participant responsiveness, but therapist experience does not predict fidelity
+# Some START-Play adherence measures and therapist effectiveness in engaging parents correlate positively with parent engagement; therapist experience showed no significant correlation with adherence or delivery quality
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Adherence and quality of delivery correlated significantly and positively with parental engagement, while years of early intervention experience showed no significant relationship with fidelity. [→ Mihee An 2020](#mihee-an-2020)
+`q2 i?` In the START-Play group (14 therapists), several adherence measures (information sharing or brainstorming, encouraging parent-led activities, START-Play behaviours per minute) and the therapist's effectiveness in initiating parental engagement correlated significantly and positively with parent engagement, while other measures (cognitive opportunity with engagement with the therapist, flexibility, using the just-right challenge) did not reach significance; correlations between therapists' years of early-intervention experience and adherence or quality of delivery were not significant (p>0.05), which does not show that experience has no relation to fidelity. [→ Mihee An 2020](#mihee-an-2020)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Mihee An, Jayden Nord, Natalie A Koziol, Stacey C Dusing, Audrey E Kane, Michele
 
 `q2 · i?` · `design · r3`
 
-Bivariate correlation analyses in the START-Play group accounting for nesting within coders and videos; Table 1 reports e.g. r = 0.793 (p<0.001) for 'encourages parent lead activities' with parent engagement with child, and r = 0.866 (<0.001) for therapist effectiveness in initiating parental engagement with parent engagement with therapist.
+Bivariate correlation analyses in the START-Play group (14 therapists of the 49 videotaped), accounting for nesting within coders and videos. Table 1 reports significant positive correlations for some adherence and quality measures, e.g. r = 0.793 (p<0.001) for 'encourages parent lead activities' with parent engagement with the child, and r = 0.866 (p<0.001) for therapist effectiveness in initiating parental engagement with parent engagement with the therapist; others were not significant, e.g. cognitive opportunity with engagement with the therapist (r = 0.046, p = 0.685), 'flexible and not rigid' with both outcomes, and effectiveness in using the just-right challenge with both outcomes (r = 0.113 and 0.229). Correlations between therapists' length of early-intervention experience and adherence or quality of delivery were not significant (p>0.05); no coefficients are printed for them. The correlations are associations and do not show that adherence causes engagement; the authors note the study was not designed to test effects of fidelity on outcomes.
 
 > "There was a strong positive correlation between 'therapist encourages parent lead activities' and 'parent engagement with the child' throughout the intervention session."
 

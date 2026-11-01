@@ -9638,13 +9638,14 @@
 "type":"claim"
 },
 {
-"description":"Therapist adherence to START-Play correlates positively with participant responsiveness, but therapist experience does not predict fidelity",
+"description":"Some START-Play adherence measures and therapist effectiveness in engaging parents correlate positively with parent engagement; therapist experience showed no significant correlation with adherence or delivery quality",
 "evidence_strength":"moderate",
 "id":"adherence-responsiveness-correlations-experience-null",
 "newest_evidence":"2020",
 "path":"claims/adherence-responsiveness-correlations-experience-null.md",
+"source_checked":"2026-11-01",
 "status":"review",
-"title":"Therapist adherence to START-Play correlates positively with participant responsiveness, but therapist experience does not predict fidelity",
+"title":"Some START-Play adherence measures and therapist effectiveness in engaging parents correlate positively with parent engagement; therapist experience showed no significant correlation with adherence or delivery quality",
 "type":"claim"
 },
 {
@@ -180175,6 +180176,7 @@
 "newest_evidence":"2020",
 "path":"claims/inter-rater-reliability-writing-scores.md",
 "recheck_by":"2023",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Inter-rater scoring of the writing tests showed good correlation-coefficient reliability",
 "type":"claim"
@@ -365059,13 +365061,14 @@
 "type":"claim"
 },
 {
-"description":"Mathematics teacher educators foregrounded engagement-oriented activities such as hands-on problem-solving and group work as key teaching-and-learning activities",
+"description":"Three mathematics teacher educators all foregrounded engagement-focused teaching-and-learning activities, variously hands-on problem-solving and group work, collaboration, and student demonstrations with class discussion",
 "evidence_strength":"weak",
 "id":"teacher-educators-foreground-engagement-tlas",
 "newest_evidence":"2025",
 "path":"claims/teacher-educators-foreground-engagement-tlas.md",
+"source_checked":"2026-11-01",
 "status":"review",
-"title":"Mathematics teacher educators foregrounded engagement-oriented activities such as hands-on problem-solving and group work as key teaching-and-learning activities",
+"title":"Three mathematics teacher educators all foregrounded engagement-focused teaching-and-learning activities, variously hands-on problem-solving and group work, collaboration, and student demonstrations with class discussion",
 "type":"claim"
 },
 {
@@ -374174,13 +374177,14 @@
 "type":"claim"
 },
 {
-"description":"The TGT experimental group significantly outperformed the lecture-based control group on the mathematics posttest",
+"description":"The TGT group scored higher than the lecture-based control group on the mathematics posttest, a difference the authors call significant though they print only within-group pretest-posttest tests",
 "evidence_strength":"moderate",
 "id":"tgt-outperformed-lecture-posttest",
 "newest_evidence":"2015",
 "path":"claims/tgt-outperformed-lecture-posttest.md",
+"source_checked":"2026-11-01",
 "status":"review",
-"title":"The TGT experimental group significantly outperformed the lecture-based control group on the mathematics posttest",
+"title":"The TGT group scored higher than the lecture-based control group on the mathematics posttest, a difference the authors call significant though they print only within-group pretest-posttest tests",
 "type":"claim"
 },
 {

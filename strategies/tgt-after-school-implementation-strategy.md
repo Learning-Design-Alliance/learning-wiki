@@ -42,7 +42,7 @@ The article recommends practical adjustments for integrating web-based game play
 ## Claims
 
 - [The study school faced contextual barriers to game-based learning: teacher shortage, low teacher pedagogic profile, minimal ICT infrastructure, remoteness, and overcrowding](../claims/rural-school-barriers-game-based-learning.md) [+W]
-- [The TGT experimental group significantly outperformed the lecture-based control group on the mathematics posttest](../claims/tgt-outperformed-lecture-posttest.md) [+W]
+- [The TGT group scored higher than the lecture-based control group on the mathematics posttest, a difference the authors call significant though they print only within-group pretest-posttest tests](../claims/tgt-outperformed-lecture-posttest.md) [+W]
 - [Grade VIII students taught mathematics with the TGT web-based game technique showed a significant pretest-to-posttest achievement gain over three weeks](../claims/tgt-significant-achievement-gain-grade-eight.md) [+W]
 - [Cooperative TGT significantly improves Grade 11 students' mathematics understanding compared with conventional teaching over a five-week intervention](../claims/tgt-improves-mathematics-understanding.md) [+M]
 - [Cooperative TGT significantly improves Grade 11 students' mathematics communication compared with conventional teaching](../claims/tgt-improves-mathematics-communication.md) [+M]

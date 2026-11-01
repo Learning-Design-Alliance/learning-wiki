@@ -48,4 +48,4 @@ Phase II program differentiation analysis of 103 videos (64 START-Play, 39 uEI) 
 ## Related Claims
 - [Most variables of the START-Play fidelity measure show good to excellent interrater reliability, with ICCs ranging from 0.77 to 0.95](start-play-fidelity-icc-077-095.md) — related
 - [Fidelity checks confirmed program differentiation: SBI elements were implemented substantially more in treatment classrooms while general instructional quality was similar](sbi-fidelity-program-differentiation.md) — related
-- [Therapist adherence to START-Play correlates positively with participant responsiveness, but therapist experience does not predict fidelity](adherence-responsiveness-correlations-experience-null.md) — related
+- [Some START-Play adherence measures and therapist effectiveness in engaging parents correlate positively with parent engagement; therapist experience showed no significant correlation with adherence or delivery quality](adherence-responsiveness-correlations-experience-null.md) — related
