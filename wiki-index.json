@@ -23771,6 +23771,7 @@
 "id":"animation-outperformed-traditional-instruction-atp-achievement",
 "newest_evidence":"2015",
 "path":"claims/animation-outperformed-traditional-instruction-atp-achievement.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Students taught with the animation model significantly outperformed traditionally taught control students on the ATP generation post-test",
 "type":"claim"
@@ -49078,6 +49079,7 @@
 "id":"character-education-textbook-higher-thematic-learning-outcomes",
 "newest_evidence":"2018",
 "path":"claims/character-education-textbook-higher-thematic-learning-outcomes.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Learning with a textbook thematic based character education produces higher thematic-learning outcomes than a conventional textbook for fourth-grade primary students",
 "type":"claim"
@@ -49103,13 +49105,14 @@
 "type":"claim"
 },
 {
-"description":"Using the character-education thematic textbook strengthens students' character during thematic learning",
+"description":"Authors report, without measuring character, that a character-education thematic textbook strengthens students' character",
 "evidence_strength":"weak",
 "id":"character-textbook-strengthens-student-character",
 "newest_evidence":"2018",
 "path":"claims/character-textbook-strengthens-student-character.md",
+"source_checked":"2026-11-01",
 "status":"review",
-"title":"Using the character-education thematic textbook strengthens students' character during thematic learning",
+"title":"Authors report, without measuring character, that a character-education thematic textbook strengthens students' character",
 "type":"claim"
 },
 {
@@ -112702,6 +112705,7 @@
 "id":"equivalent-pretest-scores-three-electricity-groups",
 "newest_evidence":"2011",
 "path":"claims/equivalent-pretest-scores-three-electricity-groups.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"The three groups were equivalent on EPT pre-test scores before the intervention",
 "type":"claim"
@@ -181707,6 +181711,7 @@
 "id":"jigsaw-ii-significant-pre-post-gain",
 "newest_evidence":"2015",
 "path":"claims/jigsaw-ii-significant-pre-post-gain.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Jigsaw II instruction produced a statistically significant pre-to-post achievement gain in the control group",
 "type":"claim"
@@ -244396,6 +244401,7 @@
 "id":"observed-motivation-analogy-simulation-students",
 "newest_evidence":"2011",
 "path":"claims/observed-motivation-analogy-simulation-students.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"The authors observed higher course motivation among students using the analogy-based simulations",
 "type":"claim"
@@ -288643,14 +288649,15 @@
 "type":"claim"
 },
 {
-"description":"On the ASSISTments experiment, RCN outperforms the Treated-All and Not-Treated policies and CFR on policy risk and ATT error",
+"description":"On the ASSISTments experiment, RCN has lower policy risk than the Treated-All and Not-Treated policies and CFR, and lower ATT error than CFR",
 "evidence_strength":"moderate",
 "id":"rcn-outperforms-ta-nt-cfr-assistments",
 "newest_evidence":"2016",
 "path":"claims/rcn-outperforms-ta-nt-cfr-assistments.md",
 "recheck_by":"2019",
+"source_checked":"2026-11-01",
 "status":"review",
-"title":"On the ASSISTments experiment, RCN outperforms the Treated-All and Not-Treated policies and CFR on policy risk and ATT error",
+"title":"On the ASSISTments experiment, RCN has lower policy risk than the Treated-All and Not-Treated policies and CFR, and lower ATT error than CFR",
 "type":"claim"
 },
 {
@@ -323942,6 +323949,7 @@
 "id":"siwi-written-language-gains-elementary-dhh",
 "newest_evidence":"2018",
 "path":"claims/siwi-written-language-gains-elementary-dhh.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"SIWI improved written language accuracy and complexity outcomes, especially for personal narrative writing",
 "type":"claim"

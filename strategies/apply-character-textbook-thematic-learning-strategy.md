@@ -41,7 +41,7 @@ The authors' closing recommendation is that "teachers can use and apply the text
 
 - [Learning with a textbook thematic based character education produces higher thematic-learning outcomes than a conventional textbook for fourth-grade primary students](../claims/character-education-textbook-higher-thematic-learning-outcomes.md) [+W]
 - [The character-education thematic textbook also raises experimental-class posttest means well above pretest means](../claims/character-textbook-pretest-posttest-gain.md) [+W]
-- [Using the character-education thematic textbook strengthens students' character during thematic learning](../claims/character-textbook-strengthens-student-character.md) [+W]
+- [Authors report, without measuring character, that a character-education thematic textbook strengthens students' character](../claims/character-textbook-strengthens-student-character.md) [+W]
 
 ## Related Strategies
 - 

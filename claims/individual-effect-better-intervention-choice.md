@@ -45,7 +45,7 @@ Results-section comparison on the ASSISTments dataset: RCN (RPOL 0.08) versus TA
 
 
 ## Related Claims
-- [On the ASSISTments experiment, RCN outperforms the Treated-All and Not-Treated policies and CFR on policy risk and ATT error](rcn-outperforms-ta-nt-cfr-assistments.md) — possibly the same claim (merge candidate)
+- [On the ASSISTments experiment, RCN has lower policy risk than the Treated-All and Not-Treated policies and CFR, and lower ATT error than CFR](rcn-outperforms-ta-nt-cfr-assistments.md) — possibly the same claim (merge candidate)
 - [RITA outperforms an RCT-derived ATE baseline in simulated worlds with heterogeneous treatment effects](rita-outperforms-rct-baseline-under-heterogeneity.md) — related
 - [RCN performs the best among compared models on the IHDP dataset for estimating ITE, ATE and PEHE](rcn-best-ihdp-ite-ate-pehe.md) — related
 - [The baseline RCT-derived ATE model outperforms RITA when no heterogeneity exists and one intervention is uniformly more effective](baseline-outperforms-rita-no-heterogeneity.md) — reports the opposite

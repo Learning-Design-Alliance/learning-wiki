@@ -46,5 +46,5 @@ Descriptive score distributions from the experimental class (N=30 per the table 
 
 ## Related Claims
 - [Learning with a textbook thematic based character education produces higher thematic-learning outcomes than a conventional textbook for fourth-grade primary students](character-education-textbook-higher-thematic-learning-outcomes.md) — related
-- [Using the character-education thematic textbook strengthens students' character during thematic learning](character-textbook-strengthens-student-character.md) — related
+- [Authors report, without measuring character, that a character-education thematic textbook strengthens students' character](character-textbook-strengthens-student-character.md) — related
 - [Twenty-three 5th graders' creativity scores rise after nine CREACT drawing-arts lessons in a one-group pretest-posttest study without a control group (effect size .71)](creact-improves-creative-thinking-drawing-arts.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2015
+source_checked: 2026-11-01
 sources:
   - id: turkmen-2015
     resource: "https://eric.ed.gov/?id=EJ1105340"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The control group taught with Jigsaw II showed a statistically significant increase from pre-test (mean 6.20) to post-test (mean 7.95). [→ Turkmen 2015](#turkmen-2015)

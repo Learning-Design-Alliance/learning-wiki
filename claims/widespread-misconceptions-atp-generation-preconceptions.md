@@ -13,7 +13,7 @@ recheck_by: 2020
 sources:
   - id: jena-2015
     resource: "https://eric.ed.gov/?id=EJ1107841"
-    title: "Jena, A. K. (2015). Animation model to conceptualize ATP generation: A study of mitochondrial oxidative phosphorylation. European Journal of Science and Mathematics Education, 3(1), 61-76. https://eric.ed.gov/?id=EJ1107841"
+    title: "Jena, A. K. (2015). Animation model to conceptualize ATP generation: A mitochondrial oxidative phosphorylation. European Journal of Science and Mathematics Education, 3(1), 61-76. https://eric.ed.gov/?id=EJ1107841"
     author: Jena, A. K.
     q: 2
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### Jena 2015
 
-Jena, A. K. (2015). Animation model to conceptualize ATP generation: A study of mitochondrial oxidative phosphorylation. European Journal of Science and Mathematics Education, 3(1), 61-76. https://eric.ed.gov/?id=EJ1107841
+Jena, A. K. (2015). Animation model to conceptualize ATP generation: A mitochondrial oxidative phosphorylation. European Journal of Science and Mathematics Education, 3(1), 61-76. https://eric.ed.gov/?id=EJ1107841
 
 `q2 · i?` · `causal · r2`
 

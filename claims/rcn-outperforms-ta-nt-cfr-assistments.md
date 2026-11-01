@@ -1,7 +1,7 @@
 ---
 type: claim
-title: On the ASSISTments experiment, RCN outperforms the Treated-All and Not-Treated policies and CFR on policy risk and ATT error
-description: On the ASSISTments experiment, RCN outperforms the Treated-All and Not-Treated policies and CFR on policy risk and ATT error
+title: On the ASSISTments experiment, RCN has lower policy risk than the Treated-All and Not-Treated policies and CFR, and lower ATT error than CFR
+description: On the ASSISTments experiment, RCN has lower policy risk than the Treated-All and Not-Treated policies and CFR, and lower ATT error than CFR
 id: rcn-outperforms-ta-nt-cfr-assistments
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-01
 recheck_by: 2019
 sources:
   - id: siyuan-zhao-and-neil-heffernan-2016
@@ -21,11 +22,11 @@ sources:
     rigour: 2
 ---
 
-# On the ASSISTments experiment, RCN outperforms the Treated-All and Not-Treated policies and CFR on policy risk and ATT error
+# On the ASSISTments experiment, RCN has lower policy risk than the Treated-All and Not-Treated policies and CFR, and lower ATT error than CFR
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
+> **Currency** · newest study 2016 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2019**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` RCN achieves lower policy risk (0.08) than TA (0.14), NT (0.27) and CFR (0.14), and lower ATT error (0.03) than CFR (0.08) on the ASSISTments dataset. [→ Siyuan Zhao and Neil Heffernan 2016](#siyuan-zhao-and-neil-heffernan-2016)
@@ -38,7 +39,7 @@ Siyuan Zhao and Neil Heffernan. (2016). Estimating Individual Treatment Effect f
 
 `q2 · i?` · `design · r2`
 
-Results on the real-world ASSISTments randomized experiment (Table 3, lambda = 0): RCN RPOL 0.08 and epsilon ATT 0.03 versus CFR RPOL 0.14 and epsilon ATT 0.08; TA 0.14, NT 0.27. The article reports "the RCN performs better than the CFR does in terms of risk policy and ATT".
+Results on the real-world ASSISTments randomized experiment (Table 3, lambda = 0): RCN RPOL 0.08 and epsilon ATT 0.03 versus CFR RPOL 0.14 and epsilon ATT 0.08; TA RPOL 0.14 and NT RPOL 0.27 (no ATT error is reported for TA or NT, so the ATT comparison is with CFR only). The article reports "the RCN performs better than the CFR does in terms of risk policy and ATT".
 
 > "The comparison between the CFR and the RCN suggests that the RCN performs better than the CFR does in terms of risk policy and ATT."
 

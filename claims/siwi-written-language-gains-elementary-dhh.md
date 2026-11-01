@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-01
 sources:
   - id: wolbers-2018
     resource: "https://doi.org/10.5539/jedp.v8n1p99"
@@ -32,10 +33,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2` · `i2` medium
-> **Currency** · newest study 2018 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
-`q2 i2` Personal narrative written language outcomes showed moderate to large treatment effects (0.46 to 1.20), with word efficiency ratios, words per t-unit, and percentage of complete sentences all significantly favoring treatment. [→ Wolbers 2018](#wolbers-2018)
+`q2 i2` Personal narrative written language outcomes showed moderate to large treatment effects (0.46 to 1.20), with WER II, WER III, words per t-unit and percentage of complete sentences significantly favoring treatment; WER I (0.46) was not statistically significant (p = .26). [→ Wolbers 2018](#wolbers-2018)
 `q2 i?` Persuasive written language outcomes showed substantial effects (0.38 to 1.06) but not all were statistically significant at the 0.05 level. [→ Wolbers 2018 (2)](#wolbers-2018-2)
 
 ## Evidence
@@ -46,7 +47,7 @@ Wolbers, K., Dostal, H., Graham, S., Branum-Martin, L., Kilpatrick, J., & Saulsb
 
 `q2 · i2` · `causal · r2`
 
-Multilevel regression of five personal narrative language measures (WER I-III, words per t-unit, % complete sentences) scored with the SAWL. The article prints effect sizes in the range 0.46 to 1.20, including 1.20 for WER II (t = 2.90, p = .01) and 1.13 for words per t-unit (t = 2.84, p = .02); the printed range supports impact 2.
+Multilevel regression of five personal narrative language measures (WER I-III, words per t-unit, % complete sentences) scored with the SAWL. The article prints effect sizes in the range 0.46 to 1.20, including 1.20 for WER II (t = 2.90, p = .01), 1.09 for WER III (p = .03), 1.13 for words per t-unit (t = 2.84, p = .02) and 1.09 for % complete sentences (p = .02); WER I's 0.46 was not statistically significant (t = 1.18, p = .26). The printed range supports impact 2.
 
 > "For the five personal narrative written language outcomes, the treatment effects were moderate to large (0.46 to 1.20)."
 

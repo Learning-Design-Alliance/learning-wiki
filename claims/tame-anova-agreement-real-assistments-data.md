@@ -46,4 +46,4 @@ Application of both methods to a dataset of twenty-two randomized controlled exp
 
 ## Related Claims
 - [In resampled real data from the experiment with the strongest treatment effect, TAME detects the effect better than ANOVA especially when sample size is 40 or below](tame-resampling-experiment3-small-samples.md) — related
-- [On the ASSISTments experiment, RCN outperforms the Treated-All and Not-Treated policies and CFR on policy risk and ATT error](rcn-outperforms-ta-nt-cfr-assistments.md) — related
+- [On the ASSISTments experiment, RCN has lower policy risk than the Treated-All and Not-Treated policies and CFR, and lower ATT error than CFR](rcn-outperforms-ta-nt-cfr-assistments.md) — related

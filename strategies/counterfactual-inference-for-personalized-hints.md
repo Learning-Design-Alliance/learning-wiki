@@ -44,7 +44,7 @@ The article recommends applying ITE estimation models to online educational expe
 - [Taking individual treatment effects into account yields better intervention choices than a single uniform assignment](../claims/individual-effect-better-intervention-choice.md) [+W]
 - [Policy risk enables model comparison on real experiments where ground-truth ITE is unavailable](../claims/policy-risk-evaluation-without-ground-truth-ite.md) [+W]
 - [RCN performs the best among compared models on the IHDP dataset for estimating ITE, ATE and PEHE](../claims/rcn-best-ihdp-ite-ate-pehe.md) [+W]
-- [On the ASSISTments experiment, RCN outperforms the Treated-All and Not-Treated policies and CFR on policy risk and ATT error](../claims/rcn-outperforms-ta-nt-cfr-assistments.md) [+W]
+- [On the ASSISTments experiment, RCN has lower policy risk than the Treated-All and Not-Treated policies and CFR, and lower ATT error than CFR](../claims/rcn-outperforms-ta-nt-cfr-assistments.md) [+W]
 - [Individualised counterfactual inferences estimate whether a specific student would have performed differently under different help conditions](../claims/individual-counterfactuals-student-help-conditions.md) [+W]
 
 ## Related Strategies

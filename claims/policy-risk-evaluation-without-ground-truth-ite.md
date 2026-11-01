@@ -47,4 +47,4 @@ Methodological statement in the Experiments section: ground-truth ITE is unobser
 
 ## Related Claims
 - [RCN performs the best among compared models on the IHDP dataset for estimating ITE, ATE and PEHE](rcn-best-ihdp-ite-ate-pehe.md) — related
-- [On the ASSISTments experiment, RCN outperforms the Treated-All and Not-Treated policies and CFR on policy risk and ATT error](rcn-outperforms-ta-nt-cfr-assistments.md) — a narrower finding that bears on this claim
+- [On the ASSISTments experiment, RCN has lower policy risk than the Treated-All and Not-Treated policies and CFR, and lower ATT error than CFR](rcn-outperforms-ta-nt-cfr-assistments.md) — a narrower finding that bears on this claim

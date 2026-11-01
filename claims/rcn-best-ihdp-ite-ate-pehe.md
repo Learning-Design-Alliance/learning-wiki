@@ -48,4 +48,4 @@ Numerical comparison in the Results section using Table 2 values at treatment th
 ## Related Claims
 - [Taking individual treatment effects into account yields better intervention choices than a single uniform assignment](individual-effect-better-intervention-choice.md) — related
 - [Policy risk enables model comparison on real experiments where ground-truth ITE is unavailable](policy-risk-evaluation-without-ground-truth-ite.md) — related
-- [On the ASSISTments experiment, RCN outperforms the Treated-All and Not-Treated policies and CFR on policy risk and ATT error](rcn-outperforms-ta-nt-cfr-assistments.md) — related
+- [On the ASSISTments experiment, RCN has lower policy risk than the Treated-All and Not-Treated policies and CFR, and lower ATT error than CFR](rcn-outperforms-ta-nt-cfr-assistments.md) — related

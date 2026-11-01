@@ -40,7 +40,7 @@ The article grounds its textbook development in contextual theory, under which "
 ### Claims
 
 - [Learning with a textbook thematic based character education produces higher thematic-learning outcomes than a conventional textbook for fourth-grade primary students](../claims/character-education-textbook-higher-thematic-learning-outcomes.md) [+W]
-- [Using the character-education thematic textbook strengthens students' character during thematic learning](../claims/character-textbook-strengthens-student-character.md) [+W]
+- [Authors report, without measuring character, that a character-education thematic textbook strengthens students' character](../claims/character-textbook-strengthens-student-character.md) [+W]
 
 ## Related Designs
 - 

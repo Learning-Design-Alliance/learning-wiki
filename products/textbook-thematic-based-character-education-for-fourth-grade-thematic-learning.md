@@ -23,7 +23,7 @@ A supplementary thematic-learning textbook developed by Wuryani et al. that embe
 
 ### Claims
 - [Learning with a textbook thematic based character education produces higher thematic-learning outcomes than a conventional textbook for fourth-grade primary students](../claims/character-education-textbook-higher-thematic-learning-outcomes.md) [+M]
-- [Using the character-education thematic textbook strengthens students' character during thematic learning](../claims/character-textbook-strengthens-student-character.md) [+M]
+- [Authors report, without measuring character, that a character-education thematic textbook strengthens students' character](../claims/character-textbook-strengthens-student-character.md) [+W]
 
 ## Related Products and Programmes
 -

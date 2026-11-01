@@ -22,7 +22,7 @@ A problem-level dataset from an ASSISTments randomized experiment comparing vide
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [On the ASSISTments experiment, RCN outperforms the Treated-All and Not-Treated policies and CFR on policy risk and ATT error](../claims/rcn-outperforms-ta-nt-cfr-assistments.md) [+M]
+- [On the ASSISTments experiment, RCN has lower policy risk than the Treated-All and Not-Treated policies and CFR, and lower ATT error than CFR](../claims/rcn-outperforms-ta-nt-cfr-assistments.md) [+M]
 
 ## Related Products and Programmes
 -

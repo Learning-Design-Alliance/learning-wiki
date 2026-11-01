@@ -26,7 +26,7 @@ Individualized treatment effects, borrowed from the personalized medicine litera
 - [Enrollment in the supplemental instruction section is associated with significantly positive average individualized treatment effects on final exam score and course grade](../claims/si-positive-average-ite-exam-grade.md) [+M]
 - [Underrepresented minority students in the course showed significantly positive individualized treatment effects from supplemental instruction](../claims/si-urm-subgroup-positive-ite.md) [+M]
 - [RCN performs the best among compared models on the IHDP dataset for estimating ITE, ATE and PEHE](../claims/rcn-best-ihdp-ite-ate-pehe.md) [+M]
-- [On the ASSISTments experiment, RCN outperforms the Treated-All and Not-Treated policies and CFR on policy risk and ATT error](../claims/rcn-outperforms-ta-nt-cfr-assistments.md) [+M]
+- [On the ASSISTments experiment, RCN has lower policy risk than the Treated-All and Not-Treated policies and CFR, and lower ATT error than CFR](../claims/rcn-outperforms-ta-nt-cfr-assistments.md) [+M]
 
 ## Related Research Methods
 -

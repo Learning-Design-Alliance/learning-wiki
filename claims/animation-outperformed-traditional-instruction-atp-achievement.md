@@ -9,10 +9,11 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2015
+source_checked: 2026-11-01
 sources:
   - id: jena-2015
     resource: "https://eric.ed.gov/?id=EJ1107841"
-    title: "Jena, A. K. (2015). Animation model to conceptualize ATP generation: A study of mitochondrial oxidative phosphorylation. European Journal of Science and Mathematics Education, 3(1), 61-76. https://eric.ed.gov/?id=EJ1107841"
+    title: "Jena, A. K. (2015). Animation model to conceptualize ATP generation: A mitochondrial oxidative phosphorylation. European Journal of Science and Mathematics Education, 3(1), 61-76. https://eric.ed.gov/?id=EJ1107841"
     author: Jena, A. K.
     q: 2
     i: "?"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The experimental (animation) group scored significantly higher than the control (traditional instruction) group on the post achievement test, F(1/118) = 323.42, p < 0.01. [→ Jena 2015](#jena-2015)
@@ -33,7 +34,7 @@ sources:
 
 ### Jena 2015
 
-Jena, A. K. (2015). Animation model to conceptualize ATP generation: A study of mitochondrial oxidative phosphorylation. European Journal of Science and Mathematics Education, 3(1), 61-76. https://eric.ed.gov/?id=EJ1107841
+Jena, A. K. (2015). Animation model to conceptualize ATP generation: A mitochondrial oxidative phosphorylation. European Journal of Science and Mathematics Education, 3(1), 61-76. https://eric.ed.gov/?id=EJ1107841
 
 `q2 · i?` · `causal · r2`
 
