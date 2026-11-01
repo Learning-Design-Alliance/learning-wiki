@@ -59,9 +59,11 @@ Calendars work as external memory aids that offload scheduling information, free
 6. Periodically collect feedback on clarity and usefulness and revise the design.
 
 ## Related Strategies
+
 - Syllabus design — the calendar operationalizes the syllabus's schedule at a glance
 - Weekly pacing guides — a more granular variant used in competency-based and online programs
 - Family communication routines — calendars are one channel within a broader communication strategy
+- [ESP teachers themselves furnish materials with pictorial context when textbooks lack face validity](teachers-furnish-esp-materials-with-pictures.md)
 
 ## Examples
 - **Classroom focus calendars** — elementary teachers posting a monthly calendar where each week carries an image representing the instructional focus (e.g., a butterfly for the life-science unit), giving young learners a pictorial preview of what comes next.

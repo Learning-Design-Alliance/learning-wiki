@@ -13,7 +13,7 @@ generated:
 # Cooperative Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 20 claims (13 for, 7 mixed) · 16 studies (9 quant-synthesis, 3 causal, 2 review, 1 associational, 1 qualitative), `q2`–`q3` · 9 of 16 report an effect size · 18 claims rest on one study
+> **Evidence** · 22 claims (14 for, 7 mixed, 1 against) · 18 studies (9 quant-synthesis, 5 causal, 2 review, 1 associational, 1 qualitative), `q2`–`q3` · 9 of 18 report an effect size · 20 claims rest on one study
 
 ## Description
 Cooperative learning organizes instruction so that small groups of learners work interdependently toward a shared goal, with each member responsible for both their own learning and their teammates' learning. It is distinguished from mere group work by deliberate structuring: positive interdependence, individual accountability, promotive interaction, social skills, and group processing (Johnson & Johnson's five elements).
@@ -72,6 +72,8 @@ Cooperative learning reliably improves achievement when group goals and individu
 - [Among applications for retention of pre-service teachers, the Learning Together Technique had the highest effect size (d=2,0606, huge) and the Jigsaw Technique the lowest (d=0,5461, medium)](../claims/learning-together-highest-retention-jigsaw-lowest-meta-analysis.md) [+W]
 - [The effect of cooperative learning on mathematics achievement does not differ significantly by educational level](../claims/educational-level-moderator-not-significant.md) [~W]
 - [Jigsaw II instruction produced a statistically significant pre-to-post achievement gain in the control group](../claims/jigsaw-ii-significant-pre-post-gain.md) [~W]
+- [Class X students taught geography principles with the make a match model scored higher on the post-test than students taught with the conventional model](../claims/make-a-match-higher-posttest-geography-principles.md) [+W] — attached 2026-11-01 from Arisanty et al. (2019), which proposed "Make a match card-matching cooperative learning technique".
+- [STAD cooperative learning alone and traditional teaching have approximately equal effects on undergraduate achievement in electrochemical cells](../claims/stad-alone-equals-traditional-teaching-electrochemical-cells.md) [-W]
 
 ## Related Elements
 - [Coaching](coaching.md) — the teacher's role shifts to monitoring groups and intervening at the process level

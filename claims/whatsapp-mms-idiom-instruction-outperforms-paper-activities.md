@@ -47,4 +47,3 @@ Between-groups comparison in a posttest-only two-group quasi-experiment with 50 
 ## Related Claims
 - [The experimental group learning idioms via the mobile application outside classroom hours achieved significant within-group gains](whatsapp-mms-group-significant-within-gains.md) — related
 - [Before treatment, the two groups showed no significant difference in idiom knowledge](idiom-drawing-groups-homogeneous-pretest.md) — related
-- [The two groups did not differ significantly in idiom knowledge at pretest](no-pretest-difference-between-idiom-groups.md) — related

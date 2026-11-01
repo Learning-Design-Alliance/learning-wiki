@@ -55,3 +55,4 @@ Meta-regression and moderation analyses of absolute and relative intervention le
 - [School swimming interventions show high heterogeneity in duration, frequency and session length, with no unified methodological standard](school-swimming-intervention-heterogeneity.md) — related
 - The review's evidence base comprised seven studies with 12–108 participants (median 61) and interventions of 12 minutes to three hours (median 38 minutes) — related
 - [VBC session length of over 20 minutes is likely optimal, with shorter sessions more often failing to show significant benefit](vbc-session-length-over-20-minutes.md) — a narrower finding that bears on this claim
+- [Gains were achieved with a relatively small tutoring dose: about 27 sessions averaging 25–45 minutes, roughly 15–19 hours across one school year](tutoring-dose-27-sessions-15-19-hours.md) — related

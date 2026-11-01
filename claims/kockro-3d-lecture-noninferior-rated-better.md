@@ -63,3 +63,5 @@ Randomised study of 169 second-year medical students comparing 3D VR and 2D lect
 - [Students report greater satisfaction with VR-based anatomy learning than with conventional or 2D methods](vr-anatomy-satisfaction-advantage.md) — related
 - [VR-based anatomy teaching moderately improves learners' examination scores compared with traditional or 2D digital methods](vr-anatomy-teaching-improves-test-scores.md) — related
 - [VR improves motivation and performance of civil engineering students in a concrete structures course compared with traditional 2D drawings](vr-improves-motivation-performance-concrete-structures.md) — related
+- [A DAA activity is rated significantly more motivating than a lecture on perceived sense of learning, enjoyment, and helpfulness](daa-more-motivating-than-lecture.md) — related
+- [VR and conventional teaching produce equivalent medium-term learning success after one month](vr-unit-equivalent-medium-term-learning-success.md) — related

@@ -54,3 +54,4 @@ Posttest questionnaire with one yes/no item and an open-ended question administe
 - [Learning style (visual-verbal) shows no significant correlation with the effectiveness of pictorial elucidation for adolescent EFL learners](learning-style-no-correlation-pictorial-elucidation-effect.md) — related
 - [Learners hold positive attitudes toward glosses, but their perceptions of which gloss type works best do not match measured performance](gloss-perceptions-mismatch-performance.md) — related
 - [Students in the style-informed EFL classes reported that the teaching procedure was useful and that their interests and motivation increased](students-report-increased-motivation-style-informed-elt.md) — related
+- [Pictorial-context instruction was observed to increase student participation and interest in ESP classes](pictorial-context-increases-participation-interest.md) — related

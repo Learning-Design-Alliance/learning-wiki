@@ -50,3 +50,4 @@ Quasi-experimental study at Islamic Boarding School Al-Hidayah Jambi using paral
 ## Related Claims
 - [The study tested the debate model with a quasi-experimental post-test-only control group design within an R&D development process](posttest-only-control-group-debate-rd.md) — related
 - [Students taught with WSDC debate significantly outperformed control students on both critical thinking and speaking posttests](debate-outperforms-control-ct-and-speaking.md) — related
+- [Students taught with the LAPS-Heuristic model show higher critical thinking skills than students taught conventionally on demand and supply material in vocational economics](laps-heuristic-improves-critical-thinking-vocational-economics.md) — a narrower finding that bears on this claim

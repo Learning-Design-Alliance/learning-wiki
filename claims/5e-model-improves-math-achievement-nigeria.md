@@ -48,3 +48,4 @@ Pretest-posttest quasi-experiment; 88 students taught with the 5E model and 84 w
 - [The 5E and traditional groups were statistically equivalent in achievement and interest before treatment](5e-groups-equivalent-at-pretest.md) — related
 - [The 5E instructional model produced significantly higher posttest interest in mathematics than traditional instruction](5e-model-improves-math-interest-nigeria.md) — related
 - [In one quasi-experiment with two intact senior secondary classes in Ilorin, Nigeria, students taught Civic Education with the 5Es strategy scored higher on civic literacy than a conventionally taught class](5es-higher-civic-literacy-scores.md) — related
+- [Fifth-grade students taught science through inquiry-based instruction supported by the 5E learning cycle achieved significantly higher post-test scores than students taught by traditional methods](5e-inquiry-higher-achievement-than-traditional.md) — related

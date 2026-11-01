@@ -135,3 +135,5 @@ Both syntheses find the effect of corrective feedback durable, and they overlap 
 - [Corrective feedback effects on partially acquired structures may emerge only on delayed measures, not immediately](delayed-emergence-of-cf-effects-partially-acquired-structures.md) — a narrower finding that bears on this claim
 - [Purely meaning-focused activity without form-focused treatment did not lead learners to improve oral accuracy](meaning-focused-only-no-accuracy-gain.md) — related
 - [Recasts on simple past tense errors outperform no feedback on oral accuracy in the final session (p = .040)](recasts-outperform-no-feedback-oral-accuracy.md) — a narrower finding that bears on this claim
+- [CG-based instruction's gains continued increasing between the immediate and delayed posttest while traditional-instruction gains were only maintained](cg-gains-kept-increasing-delayed-posttest.md) — related
+- [CG-based form-focused instruction is at least moderately effective in fostering mostly explicit grammatical knowledge of the English present tense/progressive](cg-instruction-effective-explicit-grammar-knowledge.md) — related

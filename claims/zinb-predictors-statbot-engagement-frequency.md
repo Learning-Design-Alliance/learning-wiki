@@ -84,3 +84,4 @@ In the same ZINB count model of StatBot use, prior knowledge carried a negative 
 - [CAMEO users are more likely to be young, male, less educated, and international than other certificate earners](cameo-users-more-likely-young-male-international.md) — related
 - [Gender, computer experience and computer attitudes each significantly predict classroom computer use](gender-experience-attitudes-predict-computer-use.md) — related
 - [Male students show higher PSMU scores than female students in three of five studies examining gender](males-higher-psmu-scores-mena-students.md) — related
+- [Student personal and educational characteristics (gender, age, grade, GPA, courses taken, SAE type) were descriptively profiled for the 102 participants in the two groups](participant-characteristics-oklahoma-animal-science-students.md) — related

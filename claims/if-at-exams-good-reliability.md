@@ -54,3 +54,4 @@ Reliability analysis of the two case-study examinations, whose unadjusted Cronba
 - [Unreliability in an outcome measure reduces the statistical power of treatment-control comparisons](unreliability-reduces-rct-statistical-power.md) — related
 - [The post-study survey instrument showed high internal consistency (alpha = 0.90)](cyberagents-survey-alpha-090.md) — related
 - [An exam with low internal consistency cannot be used to verify peer assessment validity](low-reliability-exam-excluded-from-validity-check.md) — related
+- [The Statistical Reasoning Assessment instrument showed acceptable internal consistency (Cronbach alpha .82) in a 30-subject pilot study](sra-instrument-cronbach-alpha-82-pilot.md) — related

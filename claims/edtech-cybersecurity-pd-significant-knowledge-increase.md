@@ -47,3 +47,4 @@ Single-group pre-post evaluation of the online PD with 50 K-12 personnel; the Wi
 ## Related Claims
 - [Knowledge gains from the cybersecurity PD differed by technology background: participants without a technology background improved significantly while those with one did not](cybersecurity-pd-gains-by-tech-background.md) — a narrower finding that bears on this claim
 - [Knowledge gains were concentrated in module 2 and the awareness dimension: ask and action knowledge remained unchanged after the PD](cybersecurity-pd-gains-module-aaa-dimension.md) — a narrower finding that bears on this claim
+- [The experimental group improved significantly from pre-test to post-test after learning the synthesis strategy](experimental-group-pre-post-gain.md) — related

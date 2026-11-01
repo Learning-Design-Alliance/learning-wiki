@@ -59,9 +59,11 @@ Outlining reduces the attentional overload of juggling ideation, organization, a
 5. For revision, have learners reverse-outline their own drafts to expose structural gaps.
 
 ## Related Strategies
+
 - [Advance Organizers](../elements/advance-organizers.md) — the instructor-provided counterpart: a structure given before learning rather than built by the learner
 - [Concept Mapping](../elements/concept-mapping.md) — the non-hierarchical alternative when relationships are cross-cutting rather than tree-like
 - [Summarization](summarizing.md) — outlining and summarizing both force selection of main ideas; outlining preserves structure, summarizing compresses it
+- [Combine depicting and outlining in sequence: depict first to trigger ideas, then outline to organize them](depict-then-outline-combination-strategy.md)
 
 ## Examples
 - **SRSD (Self-Regulated Strategy Development) writing instruction** — explicitly teaches students to plan essays with outlining/brainstorming before drafting; strong evidence base for improving writing quality (see [De La Paz & Graham, 1997](https://doi.org/10.1037/0022-0663.89.1.170)).

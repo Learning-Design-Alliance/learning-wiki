@@ -50,3 +50,4 @@ Null result from the model 1 ANCOVA on the third WJ-III outcome in the classroom
 - [Fall self-regulation (HTKS) scores predict spring literacy gains in first grade](fall-htks-predicts-literacy-gains.md) — related
 - [Struggling English learners in TRI classrooms significantly outperformed control struggling ELs on spring Letter-Word Identification (g = .43)](tri-struggling-els-letter-word-identification-gain.md) — related
 - [Struggling English learners in TRI classrooms significantly outperformed control struggling ELs on spring Word Attack (g = .45)](tri-struggling-els-word-attack-gain.md) — related
+- [Struggling K–6 readers tutored twice weekly by minimally trained college students made significantly greater gains than controls in letter-word identification, word attack, and passage comprehension](structured-tutoring-gains-wlpb.md) — related

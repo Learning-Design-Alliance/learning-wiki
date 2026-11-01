@@ -55,3 +55,5 @@ Mixed-effects model on posttest item accuracy in a randomized 3x3 factorial expe
 - [Elaborative interrogation improved true/false test performance in an introductory biology course context](elaborative-interrogation-biology-course-context.md) — related
 - [Generating a good question for a topic strongly predicts answering the matching test item correctly](good-question-predicts-matching-item-correct.md) — related
 - [An AP Chemistry learnersourcing crossover design comparing student-written explanations with answer-only practice produced no substantiated results because the posttest was never assigned](learnersourcing-crossover-posttest-unsubstantiated.md) — related
+- [Diagrams improve posttest performance on posterior probability problems for students who answered the pretest correctly, whether or not the diagram text is redundant](diagrams-help-pretest-correct-students-posterior-probability.md) — related
+- [For students who answered the pretest incorrectly, reading the lesson twice yielded higher posttest scores than either embedded questioning or elaborative interrogation](read-twice-beats-questioning-pretest-incorrect.md) — related

@@ -47,3 +47,4 @@ Pre/post survey administration by teachers across the five terms (217 responses 
 ## Related Claims
 - [Math circle participants reported positive mathematics attitudes, with most respondents indicating mathematics was important, interesting, liked, and that they felt confident solving problems](math-circle-positive-attitude-survey.md) — related
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
+- [Post-session survey responses indicated students found the session relevant and worthwhile, valuing database search skills and citation management software](post-session-survey-perceptions-positive.md) — related

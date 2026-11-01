@@ -49,6 +49,7 @@ The article recommends that "Teachers should expose students to practical works 
 
 - [Field Trips](field_trips.md)
 - [Place an immersive virtual field trip as the introductory experience of an instructional module](immersive-field-trip-as-module-introduction-strategy.md)
+- [Expose students to active class activities such as questioning, discussing and practical work to boost learning and skills acquisition](active-class-activities-questioning-discussing-practical-work.md)
 
 ## Examples
 -

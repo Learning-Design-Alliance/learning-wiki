@@ -13,7 +13,7 @@ generated:
 # Algebraic Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 60 claims (38 show a difference, 15 mixed, 7 no difference) · 41 studies (23 causal, 6 associational, 4 review, 3 qualitative, 3 theoretical, 1 quant-synthesis, 1 design), `q1`–`q4` · 8 of 41 report an effect size · 57 claims rest on one study
+> **Evidence** · 61 claims (38 show a difference, 16 mixed, 7 no difference) · 42 studies (24 causal, 6 associational, 4 review, 3 qualitative, 3 theoretical, 1 quant-synthesis, 1 design), `q1`–`q4` · 8 of 42 report an effect size · 58 claims rest on one study
 
 ## Description
 Algebraic thinking is the ability to generalise, represent, justify and reason with abstract mathematical structures and relationships: noticing that a pattern holds for all numbers, writing it with symbols, and arguing why it holds. The Learner Variability Navigator stresses that it is not only a secondary-school subject: in the primary grades it deepens understanding of arithmetic, for example by making the properties of operations explicit, and it helps students connect separate parts of their early mathematics. It is assessed with written early-algebra assessments and with researcher-designed measures that separate conceptual knowledge, procedural knowledge and flexibility in solving equations.
@@ -97,6 +97,7 @@ LVN follows it from grade 3 to grade 10. It links forward to [geometric reasonin
 - [In a randomized classroom experiment on linear equations, students using worked-example assignments outscored control students on the unit posttest](../claims/worked-examples-classroom-exp1-main-effect.md) [+M] — instruction changes it
 - [In Experiment 2, low prior knowledge students improved more from worked-example assignments than higher prior knowledge peers](../claims/prior-knowledge-moderates-worked-example-benefit.md) [+M] — an instructional effect differs with it
 - [The control group showed no significant pre-test to post-test difference under conventional teaching](../claims/conventional-method-control-group-no-gain.md) [-M] — instruction changes it
+- [Learning model and students' early mathematical ability (KAM) interact in increasing mathematical problem-solving ability](../claims/interaction-learning-kam-problem-solving.md) [~M] — an instructional effect differs with it
 
 ## Measures
 - **Early algebra assessment** (Blanton et al., 2015): Written assessment to measure students' understanding of core algebraic concepts and practices.

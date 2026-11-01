@@ -52,3 +52,4 @@ Pre-test comparison in the quasi-experiment before intervention: experimental me
 - [The 5E and traditional groups were statistically equivalent in achievement and interest before treatment](5e-groups-equivalent-at-pretest.md) — related
 - [Groups were equivalent in mathematics achievement before the application](digital-storytelling-math-pretest-equivalence.md) — related
 - [U-learning and E-learning groups were statistically equivalent at pretest before the intervention](pretest-equivalence-u-e-groups.md) — related
+- [The experimental and control classes were statistically equivalent before the intervention on prior economics achievement](laps-study-class-equivalence-normality-homogeneity.md) — related

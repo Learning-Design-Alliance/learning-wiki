@@ -68,3 +68,4 @@ Independent-samples t-tests comparing 67 lower-proficiency (L) and 30 higher-pro
 - [No correlation between motivation or engagement measures and tutor learning gains](no-correlation-motivation-learning-gain.md) — related
 - [Positive motivational beliefs are associated with high-level learning strategies, consistent with Pintrich and García's self-regulated learning proposal](motivation-cognition-patterns-srl.md) — related
 - [Different dashboard designs produce different learning outcome impacts, as predictive and descriptive dashboards diverge](lad-design-type-moderates-outcomes.md) — related
+- [The proficiency grouping procedure produced a very large pre-test difference between high- and low-proficiency groups](proficiency-grouping-large-pretest-difference.md) — related

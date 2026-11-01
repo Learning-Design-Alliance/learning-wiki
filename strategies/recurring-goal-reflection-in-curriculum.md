@@ -47,6 +47,7 @@ The authors recommend that "reﬂection on students' goal preferences should be 
 
 - [Teach self-determination component elements through student-directed learning strategies and active student involvement in educational planning](student-directed-strategies-promote-self-determination.md)
 - [Vocational education programs should let trainees experience and reflect on authentic errors, e.g. via error management training and negative knowledge-diaries](error-management-training-negative-knowledge-diaries.md)
+- [Use metaphor-based reflective tasks as a recurring part of language teaching](metaphor-based-reflective-tasks-language-teaching.md)
 
 ## Examples
 -

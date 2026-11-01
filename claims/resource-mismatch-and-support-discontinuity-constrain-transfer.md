@@ -91,3 +91,4 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [Time constraints are the most frequently cited physician barrier to SDL engagement, within the environmental context and resources domain](time-constraints-top-physician-sdl-barrier.md) — related
 - [Insufficient technical support, infrastructure, and resources negatively impacted uptake and learning outcomes of educational technologies in PBL](insufficient-support-infrastructure-negative-uptake.md) — related
 - [PBL was generally delivered with fidelity but required substantial management support and organisational change](pbl-fidelity-requires-management-support.md) — related
+- [Increased instructional time, access to material resources, and spatial reorganisation appear to have increased teachers' confidence and motivation](time-space-reorganisation-teacher-confidence.md) — related

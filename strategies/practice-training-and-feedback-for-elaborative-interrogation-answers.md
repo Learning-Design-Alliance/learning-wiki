@@ -37,7 +37,8 @@ To raise the quality of students' answers to elaborative interrogation questions
 - making connections among ideas in a written lesson; learning probabilistic reasoning
 
 ## Related Strategies
-- 
+
+- [Improve answer quality in questioning-while-reading activities through practice training with example answers and feedback on answers](practice-training-and-feedback-for-question-answering.md)
 
 ## Examples
 -

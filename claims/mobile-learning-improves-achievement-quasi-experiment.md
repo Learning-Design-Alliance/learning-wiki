@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-01
 sources:
   - id: kadir-demir-2018
     resource: "http://dx.doi.org/10.17220/mojet.2018.04.004"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The experimental (mobile learning) group scored significantly higher than the control group on the academic achievement post-test (p<.05), with no pre-test difference. [→ Kadir DEMIR 2018](#kadir-demir-2018)
@@ -51,3 +52,6 @@ Quasi-experimental comparison of a mobile learning group (n=15) and a traditiona
 - [AI-supported PBL students obtain significantly higher posttest academic achievement scores in robotics programming than traditional-lecture students when controlling pretest scores](ai-pbl-higher-posttest-academic-achievement.md) — related
 - [Junior secondary students taught algebraic expressions with card games and algebra tic-tacmatics achieved significantly higher adjusted post-test scores than students taught by conventional lecture method](games-enhance-algebraic-expressions-achievement-js2.md) — related
 - [Adjusted post-test scores favour the ICT group over the conventional group](ict-group-adjusted-scores-higher-than-conventional.md) — related
+- [Students taught with academic controversy lessons significantly outperformed students taught by traditional lecture on the TUCE overall post-test score in post-secondary macroeconomics](academic-controversy-outperforms-lecture-tuce-macroeconomics.md) — related
+- [Undergraduates taught with blended learning significantly outperformed those taught with traditional teaching in an educational technology course](blended-learning-outperformed-traditional-teaching-nigerian-undergraduates.md) — related
+- [Interactive multimedia materials using Wondershare Quizcreator produced significantly higher posttest listening scores than audio materials in a quasi-experiment with 72 undergraduates](wondershare-quizcreator-multimedia-higher-posttest-listening.md) — related

@@ -55,3 +55,8 @@ ANCOVA of post-test NOCAT scores by gender (32 males, mean 14.41; 50 females, me
 - [Among students taught Basic Technology via field trip, male and female post-test performance did not differ in the authors' conclusion, though the article also reports a significant difference](field-trip-gender-no-difference-basic-technology.md) — related
 - [No statistically significant gender difference in achievement among ninth graders taught with practical presentations](no-gender-difference-practical-presentations-achievement.md) — related
 - [No significant gender difference in Arabic oral skills gains when both groups are taught with VTM or traditional methods](vtm-arabic-oral-skills-no-gender-effect.md) — related
+- [No significant gender difference in performance among undergraduates taught with blended learning](no-gender-difference-blended-learning-performance.md) — a narrower finding that bears on this claim
+- [No significant gender difference in performance among undergraduates exposed to e-learning](no-gender-difference-elearning-performance.md) — related
+- [No significant gender difference in mathematics achievement within the performance-assessment experimental group](no-gender-gap-in-pa-experimental-group.md) — related
+- [There is no significant interaction between teaching method and gender on Igbo language reading comprehension achievement](no-method-gender-interaction-igbo-reading-comprehension.md) — related
+- [No significant difference in achievement between male and female students taught Technical Drawing with PowerPoint presentation](ppt-gender-friendly-technical-drawing.md) — related

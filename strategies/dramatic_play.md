@@ -61,9 +61,11 @@ Dramatic play sits at the intersection of [Active Learning](../principles/active
 5. Debrief afterward: retell the scenario, name the social moves and vocabulary used, and connect to the learning goal ([Class Discussion](../elements/class-discussion.md)).
 
 ## Related Strategies
+
 - [Acting-Role-Play](acting-role-play.md) — structured role-play with assigned roles and explicit objectives, typically for older learners
 - [Act It Out](act_it_out.md) — story-based enactment for comprehension
 - [Collaborative Learning](../principles/collaborative-learning.md) — dramatic play is an early, play-based form of peer collaboration
+- [Design reading comprehension activities that require students to collaborate with the teacher on joint tasks](design-collaborative-reading-tasks-jpa.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — the facilitation stance that keeps play productive without dominating it

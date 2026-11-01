@@ -46,7 +46,8 @@ Pretest check before the main study: experimental mean (M= 16.66, SD= 1.44 as pr
 
 
 ## Related Claims
-- [The two groups did not differ significantly in idiom knowledge at pretest](no-pretest-difference-between-idiom-groups.md) — related
+- [The two groups did not differ significantly in idiom knowledge at pretest](idiom-drawing-groups-homogeneous-pretest.md) — related
 - [Experimental and control groups were equivalent in vocabulary before the glossing treatment](gloss-study-groups-equivalent-at-pretest.md) — related
 - [Before intervention, treatment and control kindergartners did not differ on age, demographics, vocabulary, phoneme segmentation, letter knowledge, or reading](pretest-equivalence-phoneme-awareness-kindergarten-trial.md) — related
 - [Before treatment, the experimental and control groups showed no significant difference in overall language proficiency](portfolio-idiom-study-pretest-proficiency-homogeneity.md) — related
+- [CAVI and TVI groups were equivalent in target vocabulary knowledge before the experiment](cavi-tvi-pretest-equivalence.md) — possibly the same claim (merge candidate)

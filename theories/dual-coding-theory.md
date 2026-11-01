@@ -12,7 +12,7 @@ generated:
 # Dual Coding Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 12 claims (10 for, 2 mixed) · 9 studies (5 review, 3 causal, 1 qualitative), `q1`–`q3` · 0 of 9 report an effect size · 12 claims rest on one study
+> **Evidence** · 13 claims (11 for, 2 mixed) · 10 studies (5 review, 4 causal, 1 qualitative), `q1`–`q3` · 0 of 10 report an effect size · 13 claims rest on one study
 
 ## Description
 Dual Coding Theory proposes that verbal and nonverbal information can be processed in partly distinct but connected representational systems. Learning can improve when instruction coordinates language with meaningful imagery or other visual representation.
@@ -37,6 +37,7 @@ Dual Coding Theory proposes that verbal and nonverbal information can be process
 - [Gesture-enacted L2 vocabulary learning yields significantly better memory and more sustained retention than non-gesture learning, lasting 2–6 months](../claims/gesture-learning-sustained-l2-retention.md) [~W]
 - [The review draws on Mayer and colleagues' generative theory of textbook design using annotated illustrations to foster meaningful learning of science text](../claims/multimedia-learning-review-cites-generative-theory-textbook-design.md) [+W]
 - [Drawing mental images of idioms significantly improves delayed idiom recall among Iranian EFL learners](../claims/drawing-idioms-significant-delayed-recall-gain.md) [+W] — attached 2026-11-01 from Afrouz Aeineh et al. (2014), which proposed "Dual Coding Theory: verbal and nonverbal (imagery) subsystems as the basis for learner-generated illustrations".
+- [Pictorial context improves ESP reading comprehension of Iranian university students majoring physics](../claims/pictorial-context-improves-esp-reading-comprehension.md) [+W] — attached 2026-11-01 from Seyyed Mahdi Erfani (2012), which proposed "Paivio's dual coding theory".
 
 ## Related Theories
 

@@ -51,3 +51,4 @@ Multiple linear regression on 134 children with gender, grade, parent's income, 
 - [Music-control mark difference emerges with training duration: no difference in grade 3, significant by grade 6, with control marks declining over grades](music-training-duration-dose-response-marks.md) — related
 - [The association between musical training and school performance appears general and non-specific across subjects, with no evidence for special links to single domains](music-school-association-non-specific-no-special-links.md) — related
 - [Music-practicing children scored significantly better than controls in all school subjects except sports](music-practice-better-all-subjects-except-sports.md) — related
+- [Third-grade students receiving music-mathematics integrated lessons scored significantly higher on posttest mathematics achievement than non-music control students](music-math-lessons-posttest-achievement-advantage.md) — related

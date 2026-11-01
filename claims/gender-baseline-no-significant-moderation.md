@@ -52,3 +52,4 @@ Exploratory moderator analyses splitting 34 participants into Female/Male (17 ea
 - [HD-tDCS combined with mental rotation training shows no significant group effect or Group × Time interaction on accuracy, response time, or P300 GFP](hd-tdcs-no-added-effect-mental-rotation-training.md) — related
 - [Exam effects on unrelated graphical memory show no gender differences](exam-ltm-effects-no-gender-differences.md) — related
 - [Gender had no significant main or interaction effect on post-test scores](gender-no-effect-post-test.md) — related
+- [Gender was not a determining factor in FACT efficacy, although only males showed a significant pre-to-post gain](gender-not-determining-factor-facts.md) — related

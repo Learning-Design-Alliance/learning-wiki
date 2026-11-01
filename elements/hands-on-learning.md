@@ -13,7 +13,7 @@ generated:
 # Hands-on Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 14 claims (10 for, 4 mixed) · 13 studies (3 causal, 3 quant-synthesis, 3 review, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 13 report an effect size · 14 claims rest on one study
+> **Evidence** · 15 claims (11 for, 4 mixed) · 14 studies (4 causal, 3 quant-synthesis, 3 review, 2 design, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 14 report an effect size · 15 claims rest on one study
 
 ## Description
 Hands-on learning is the element in which learners manipulate materials, tools, or environments directly while applying ideas in practice. It is useful when understanding depends on doing, making, testing, or experiencing rather than only discussing.
@@ -53,6 +53,7 @@ Hands-on learning is the element in which learners manipulate materials, tools, 
 - [Moderator analyses for manipulative effects are inconclusive, with no discernable heterogeneity across participant and intervention characteristics](../claims/manipulative-moderators-inconclusive-no-heterogeneity.md) [~W]
 - [Virtual labs increase confidence but cannot fully replace hands-on experimental learning](../claims/virtual-labs-cannot-replace-hands-on-learning.md) [~W]
 - [A 2-day foot ulcer simulation training workshop increased podiatrists' confidence and significantly improved their theoretical knowledge and practical skills](../claims/fust-workshop-improved-confidence-knowledge-skills.md) [+W]
+- [Upper basic students taught Basic Technology practical skills via field trip scored higher on a post-test than students taught by expository method](../claims/field-trip-beats-expository-basic-technology.md) [+W] — attached 2026-11-01 from Amosa et al. (2013), which proposed "Field trip as an instructional strategy for Basic Technology practical skills"; tests this page's relationship.
 
 ## The evidence by question
 - *Does a concrete stage help at all over abstract symbols alone?* [Manipulatives Improve Math Learning](../claims/manipulatives-improve-math-learning.md) [+M]

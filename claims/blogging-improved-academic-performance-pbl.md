@@ -50,3 +50,4 @@ Review reports Chhabra & Sharma's experimental study with 133 undergraduate engi
 - [Experimental studies found no significant increase in students' knowledge from blogging in three separate studies](experimental-studies-no-significant-knowledge-increase.md) — reports the opposite
 - [Blogging fostered positive student engagement and interest in learning activities across most studies, though experimental evidence was mixed](blogging-positive-engagement-mixed-experimental.md) — related
 - [Blogging activities can foster reflective practices that support student learning, though most supporting studies relied on self-reported data and lacked control groups](blogging-fosters-reflective-practice-learning.md) — related
+- [PBL-treated undergraduates produced more accurate problem solutions than non-PBL controls after one semester](pbl-improves-solution-accuracy-malaysian-undergraduates.md) — related

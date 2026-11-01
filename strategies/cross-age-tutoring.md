@@ -85,6 +85,7 @@ Cross age tutoring is one of the few arrangements that reliably benefits *both* 
 - [Peer tutoring reading strategy instruction with tutor selection, tutor training, and reading scenarios](peer-tutoring-reading-strategy-instruction-steps.md)
 - [Involve cross-age peer tutors in maker-project pedagogical infrastructure](cross-age-peer-tutors-maker-infrastructure.md)
 - [Use older students as tutors in resource-limited settings to enhance academic outcomes](older-students-as-tutors-resource-limited-settings.md)
+- [School counselors implementing cross-age peer mentoring as a research-based school-climate intervention in rural, high-poverty schools](counselor-led-cross-age-mentoring-climate-strategy.md)
 
 ## Examples
 

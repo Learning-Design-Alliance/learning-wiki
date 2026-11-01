@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 100 claims (75 show a difference, 18 mixed, 7 no difference) · 83 studies (25 review, 18 causal, 11 quant-synthesis, 11 qualitative, 8 associational, 5 design, 5 theoretical), `q1`–`q3` · 10 of 83 report an effect size · 100 claims rest on one study
+> **Evidence** · 101 claims (76 show a difference, 18 mixed, 7 no difference) · 84 studies (25 review, 19 causal, 11 quant-synthesis, 11 qualitative, 8 associational, 5 design, 5 theoretical), `q1`–`q3` · 10 of 84 report an effect size · 101 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -142,6 +142,7 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Workshop, simulation, and team-review methods significantly improve teamwork behaviors, while the pooled effect of didactic education alone was not significant](../claims/didactic-education-fails-to-improve-teamwork.md) [~M] — instruction changes it
 - [Pre-service science teachers in the inquiry group reported both positive experiences (permanent learning, active research, cooperation) and difficulties (time demands, unreliable resources)](../claims/interview-views-on-inquiry-instruction.md) [~W] — instruction changes it
 - [The process evaluation found PBL developed pupils' oracy, communication, teamwork and research skills](../claims/pbl-process-evaluation-skills-benefits.md) [+M] — instruction changes it
+- [During the cooperative learning program, students developed social and group-work skills, with high performers guiding teammates and low performers succeeding with peer help](../claims/cooperative-program-social-skill-development-observation.md) [+W] — instruction changes it
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

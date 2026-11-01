@@ -30,7 +30,7 @@ sources:
 # Cooperative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 56 claims (31 for, 25 mixed) · 47 studies (19 quant-synthesis, 9 causal, 7 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 18 of 47 report an effect size · 48 claims rest on one study
+> **Evidence** · 59 claims (32 for, 26 mixed, 1 against) · 49 studies (19 quant-synthesis, 11 causal, 7 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 18 of 49 report an effect size · 51 claims rest on one study
 
 ## Description and scope
 
@@ -111,6 +111,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Three practitioner digests report, second-hand, Johnson and Johnson's finding that cooperative learning tends to promote higher achievement than competitive and individualistic learning across ages, subjects, and types of learning](../claims/cooperative-learning-higher-achievement-than-competitive-individualistic.md) [+W] — attached 2026-10-07 from Kluge (1999), which proposed "Nine key elements structuring a cooperative lesson".
 - [Heterogeneous Teams More Benefits Than Homogeneous](../claims/heterogeneous-teams-more-benefits-than-homogeneous.md) [+W]
 - [Former capstone students' team-formation priorities centered on interesting topics, preferred teammates, and skill or career alignment](../claims/student-team-formation-priorities-survey.md) [~W]
+- [A cooperative learning program produced significantly higher mathematics achievement than traditional teaching in fourth-grade students](../claims/cooperative-learning-improves-math-achievement-fourth-grade.md) [+W] — attached 2026-11-01 from Mery Luz Vega; Christian Hederich M (2015), which proposed "Learning Together cooperative program structure: small mixed teams with positive interdependence, individual responsibility, group processing and cooperative skills training across subject areas"; tests this page's relationship.
+- [The cooperative learning program showed no significant effect on language achievement in fourth-grade students](../claims/cooperative-learning-no-language-effect.md) [~W] — attached 2026-11-01 from Mery Luz Vega; Christian Hederich M (2015), which proposed "Learning Together cooperative program structure: small mixed teams with positive interdependence, individual responsibility, group processing and cooperative skills training across subject areas"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 
@@ -161,6 +163,7 @@ This pattern is scoped to small-group work where each member's individual learni
 - [Jigsaw IV instruction produced a statistically significant pre-to-post achievement gain in the experiment group](../claims/jigsaw-iv-significant-pre-post-gain.md) [+W]
 - [Jigsaw II instruction produced a statistically significant pre-to-post achievement gain in the control group](../claims/jigsaw-ii-significant-pre-post-gain.md) [~W]
 - [TGT produced significant positive shifts on two of sixteen mathematics-attitude statements in the experimental group](../claims/tgt-attitude-shifts-two-statements.md) [~W]
+- [STAD cooperative learning alone and traditional teaching have approximately equal effects on undergraduate achievement in electrochemical cells](../claims/stad-alone-equals-traditional-teaching-electrochemical-cells.md) [-W]
 
 ## Related Patterns
 

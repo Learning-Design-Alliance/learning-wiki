@@ -49,3 +49,4 @@ Quasi-experimental comparison of two intact groups of Iranian female intermediat
 - [Teacher-student interactive semantic mapping produced higher EFL reading comprehension posttest scores than teacher-initiated and student-mediated semantic mapping](interactive-semantic-mapping-outperforms-teacher-initiated-and-student-mediated.md) — related
 - [Multimedia glosses improve EFL students' immediate vocabulary acquisition relative to reading the same texts without glosses](multimedia-glosses-improve-efl-vocabulary-acquisition.md) — related
 - [Telegram-group instruction yields significantly larger reading comprehension gain scores than traditional classroom instruction, with a printed effect size of .50](telegram-group-instruction-larger-reading-gain-scores.md) — related
+- [Computer assisted vocabulary instruction produces a statistically significant vocabulary gain in preschool EFL children](cavi-significant-vocabulary-gain-preschool.md) — related

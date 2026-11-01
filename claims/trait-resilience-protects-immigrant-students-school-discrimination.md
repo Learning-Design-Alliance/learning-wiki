@@ -51,3 +51,4 @@ The editors report, citing Huang et al. (2025), an analysis of 2018 PISA data fr
 - [Emerging reading and math resilience literatures suggest candidate resilience factors across cognitive, emotion/motivation, social/environmental, and neural levels, most not yet classified as promotive or protective](candidate-resilience-factors-reading-math.md) — related
 - [School diversity climate shows no significant effect on performance for non-immigrant or second-generation students](no-climate-effect-second-generation.md) — related
 - [Resilience functioned as a conditional protective factor for academic outcomes, with coping style the most modifiable proximal mechanism](resilience-conditional-protective-coping-mechanism.md) — related
+- [The literature reviewed attributes protective academic and behavioral benefits to positive school connectedness](school-connectedness-protective-factor-literature.md) — related

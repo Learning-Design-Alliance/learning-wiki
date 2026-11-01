@@ -50,3 +50,4 @@ In the same crowdsourced vignette experiment, the first MANOVA's victim-age main
 - [Prior evidence on whether labels change public perceptions of people with sexual offences is mixed, with some studies finding label effects and others finding none](mixed-prior-evidence-label-effects-forensic.md) — related
 - [Label type, victim age, and their interaction showed no significant effects on treatment amenability subscales (capacity to change, treatment ineffectiveness, incapacitation)](treatment-amenability-subscales-null-manova.md) — related
 - [Perception measures of social distance, treatment amenability, perceived recidivism, and sentencing severity are mostly significantly intercorrelated](perception-measures-intercorrelations.md) — related
+- [The omnibus multivariate effect of the digital game delivery method on the two achievement outcomes was non-significant with a small printed effect size (Partial η² = .04)](manova-omnibus-dgbl-effect-negligible.md) — related

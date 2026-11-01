@@ -35,7 +35,7 @@ sources:
 # Explicit Instruction: Vocabulary
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 35 claims (25 for, 8 mixed, 2 against) · 41 studies (14 quant-synthesis, 13 causal, 10 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 6 of 41 report an effect size · 25 claims rest on one study
+> **Evidence** · 36 claims (25 for, 9 mixed, 2 against) · 42 studies (14 causal, 14 quant-synthesis, 10 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 7 of 42 report an effect size · 26 claims rest on one study
 
 ## Conditional relationship
 
@@ -169,6 +169,7 @@ Recognising a word, recalling its meaning, comprehending a text that uses it, us
 - [Integrated instruction did not significantly improve standardized vocabulary outcomes](../claims/integrated-instruction-standardized-vocabulary-null.md) [-W]
 - [Number of vocabulary words taught alone does not significantly predict effect sizes in meta-regression](../claims/number-words-taught-non-significant-meta-regression.md) [~W]
 - [Large positive effect on not-standardized language/comprehension measures (mean ES = 1.03) rests on only six studies, so confidence is limited.](../claims/tier2-k3-not-standardized-language-es-1-03-six-studies.md) [~W]
+- [The standalone intervention significantly improved grade 2 FRA Sentence Comprehension only among cohort 1 students with a low vocabulary baseline (0.38 standard deviation)](../claims/grade2-sentence-comprehension-low-vocabulary-cohort1.md) [~W]
 
 ## Related Principles
 - [Accessible Vocabulary & Syntax](accessible-vocabulary-syntax.md) — explicit vocabulary instruction is a direct mechanism for making language more usable

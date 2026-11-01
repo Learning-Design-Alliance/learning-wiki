@@ -58,3 +58,6 @@ One-way ANOVA on EPT pre-test scores of the three groups (n=66): F=1.06, p>.05; 
 - [No statistical difference was found between engineering and non-engineering participants on either APSS question, supporting conclusions about engineering students from the full STEM sample](engineering-nonengineering-no-difference-apss.md) — related
 - [The three groups were statistically equivalent in transformational geometry achievement before instruction](pretest-equivalence-three-groups-tg.md) — related
 - [U-learning and E-learning groups were statistically equivalent at pretest before the intervention](pretest-equivalence-u-e-groups.md) — related
+- [The experimental and control classes were statistically equivalent before the intervention on prior economics achievement](laps-study-class-equivalence-normality-homogeneity.md) — related
+- [The music and non-music groups did not differ significantly on the mathematics achievement pretest](music-math-pretest-equivalence-achievement.md) — related
+- [The three groups did not differ significantly on the pretest, supporting attribution of later differences to treatment](pretest-no-group-difference-anova.md) — possibly the same claim (merge candidate)

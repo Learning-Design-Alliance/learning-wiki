@@ -27,7 +27,7 @@ sources:
 # Scaffolding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 90 claims (26 for, 53 mixed, 11 against) · 64 studies (31 causal, 11 review, 6 quant-synthesis, 6 design, 5 theoretical, 3 associational, 2 qualitative), `q1`–`q4` · 19 of 64 report an effect size · 83 claims rest on one study
+> **Evidence** · 91 claims (27 for, 53 mixed, 11 against) · 65 studies (32 causal, 11 review, 6 quant-synthesis, 6 design, 5 theoretical, 3 associational, 2 qualitative), `q1`–`q4` · 19 of 65 report an effect size · 84 claims rest on one study
 
 ## Conditional relationship
 
@@ -139,6 +139,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Scaffolding targeting analysis-level skills yields much larger effects (g = 0.537) than scaffolding targeting synthesis or evaluation](../claims/analysis-level-scaffolding-outperforms-synthesis-evaluation.md) [~W] — attached 2026-10-22 from Nam Ju Kim et al. (2018), which proposed "Differentiate scaffolding design according to which level of higher-order thinking is addressed in problem-based learning".
 - [Scaffolded student teachers were more effective in searching for information for their presentation, while the unscaffolded group had difficulties finding relevant information](../claims/scaffolding-improves-information-seeking-in-collaborative-inquiry.md) [+W] — attached 2026-11-01 from Sirpa Kärkkäinen et al. (2014), which proposed "Structure collaborative inquiry tasks with templates so scaffolding supports intensive work and sense making"; tests this page's relationship.
 - [The scaffolded group gave more argumentation concerning flu treatment and prevention suggestions in the Decision-making Stage](../claims/structuring-supports-argumentation-decision-making-stage.md) [+W] — attached 2026-11-01 from Sirpa Kärkkäinen et al. (2014), which proposed "Structure collaborative inquiry tasks with templates so scaffolding supports intensive work and sense making"; tests this page's relationship.
+- [Media scaffolding increases fifth-grade students' understanding of geometry concepts more effectively than no media scaffolding](../claims/media-scaffolding-effective-geometry-concepts.md) [+W] — attached 2026-11-01 from Sutiarso et al. (2018), which proposed "Teachers should prepare a variety of media scaffolding, attending to students' ability level and gender"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

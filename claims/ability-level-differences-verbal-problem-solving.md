@@ -78,3 +78,4 @@ As hypothesized, the treatment-by-ability interaction was non-significant on bot
 - [Polya Method students outscore Dahmus Method students on the equation criterion for verbal problems](polya-method-beats-dahmus-on-equation-criterion.md) — related
 - [Dahmus Method students translated phrases successfully but failed to combine them into a single solution equation](dahmus-students-translate-but-no-single-equation.md) — related
 - [In a randomized classroom experiment on linear equations, students using worked-example assignments outscored control students on the unit posttest](worked-examples-classroom-exp1-main-effect.md) — related
+- [Learning model and students' early mathematical ability (KAM) interact in increasing mathematical problem-solving ability](interaction-learning-kam-problem-solving.md) — reports the opposite

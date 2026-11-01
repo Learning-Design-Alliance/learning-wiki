@@ -49,3 +49,4 @@ The review reports a series of qualitative studies exploring the content and fun
 - [Coach-athlete relationship and coach leadership or behaviours considered together are better predictors of athletes' and coaches' outcomes than either alone](relationship-plus-leadership-better-predictors.md) — related
 - [Athletes' personality affects coaches' perceptions of relationship quality, with more difficult personalities linked to lower closeness, commitment and complementarity](athlete-personality-affects-perceived-relationship-quality.md) — related
 - [Same-gender coach-athlete dyads perceive higher relationship quality (closeness, commitment, complementarity) than other-gender dyads](same-gender-dyads-higher-relationship-quality.md) — related
+- [The programme appeared more effective when coaches were highly trained, enthusiastic and committed and when secondary schools worked closely with feeder primaries](textnow-implementation-facilitators.md) — related

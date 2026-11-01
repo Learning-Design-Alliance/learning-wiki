@@ -51,3 +51,4 @@ Quantitative research review of previous studies on validity degradation, meta-a
 - [Sociodemographic covariates outweigh domain-identical pretests for predicting between-classroom and between-school variance in elementary school](sc-outweigh-ip-elementary-group-levels.md) — related
 - [The predictive power of Year 5 math achievement for later math achievement wanes as the prediction lag lengthens (1–4 years ahead)](year5-math-achievement-predictive-power-wanes-longer-lags.md) — a narrower finding that bears on this claim
 - [School-mean pretest scores predict posttest reading achievement in the OCR trial](ocr-trial-school-pretest-predicts-posttest.md) — related
+- [School-mean pretest scores strongly predict spring posttest math achievement in the trial's three-level model](school-pretest-predicts-posttest-em-trial.md) — related

@@ -53,3 +53,5 @@ Independent t-test on NOCAT pre-test scores of the control (n=44, mean 11.73, SD
 - [The pre-tested experimental group gained more on the Chemistry Achievement Test than the pre-tested control group](cbs-higher-mean-gain-than-rtm.md) — related
 - [Groups were equivalent in mathematics achievement before the application](digital-storytelling-math-pretest-equivalence.md) — related
 - [Before treatment, the experimental and control groups showed no significant difference in overall language proficiency](portfolio-idiom-study-pretest-proficiency-homogeneity.md) — related
+- [Experimental and control groups were statistically equivalent in mathematics self-efficacy perceptions before the intervention](pretest-equivalence-experimental-control-groups.md) — related
+- [The lecture and academic controversy groups showed no significant difference in TUCE pretest scores, indicating equivalent prior economic knowledge](tuce-pretest-equivalence-controversy-lecture.md) — related

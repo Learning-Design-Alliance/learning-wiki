@@ -48,6 +48,7 @@ The program's professional development model combines initial training with sust
 - [Implement Reading Edge with two days of initial teacher training plus monthly in-class coaching and peer support structures](reading-edge-training-coaching-rollout.md)
 - [Coach-the-coaches model for sustaining teacher professional learning implementation](coach-the-coaches-implementation-support.md)
 - [Implement Lightning Squad tutoring with non-certified tutors supported by structured onsite training, coaching, and data reviews](lightning-squad-tutor-training-support-strategy.md)
+- [Pair new instructional practices with sustained in-class coaching after initial professional development](coaching-support-after-pd-for-fidelity.md)
 
 ## Examples
 -

@@ -13,7 +13,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 113 claims (81 show a difference, 19 mixed, 13 no difference) · 81 studies (26 causal, 26 associational, 15 quant-synthesis, 9 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 19 of 81 report an effect size · 110 claims rest on one study
+> **Evidence** · 116 claims (83 show a difference, 19 mixed, 14 no difference) · 82 studies (27 causal, 26 associational, 15 quant-synthesis, 9 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 19 of 82 report an effect size · 113 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.
@@ -154,6 +154,9 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [Pretest word identification efficiency (SWE) and vocabulary knowledge did not moderate the intervention's effects on reading comprehension](../claims/swe-vocabulary-no-moderation.md) [-M] — an instructional effect differs with it
 - [Authentic problem-based vocabulary tasks improve immediate vocabulary recall of intermediate Iranian EFL learners compared with conventional input-based tasks](../claims/pbl-tasks-improve-vocabulary-recall-efl.md) [+M] — instruction changes it
 - [Authentic problem-based vocabulary tasks improve two-week retention of vocabulary compared with conventional input-based tasks](../claims/pbl-tasks-improve-vocabulary-retention-efl.md) [+M] — instruction changes it
+- [Computer assisted vocabulary instruction produces a statistically significant vocabulary gain in preschool EFL children](../claims/cavi-significant-vocabulary-gain-preschool.md) [+M] — instruction changes it
+- [No significant difference in preschool vocabulary gain between computer assisted and traditional vocabulary instruction](../claims/no-difference-cavi-tvi-preschool-vocabulary.md) [-M] — instruction changes it
+- [Traditional vocabulary instruction also produces a statistically significant vocabulary gain in preschool EFL children](../claims/tvi-significant-vocabulary-gain-preschool.md) [+M] — instruction changes it
 
 ## Measures
 - **Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)** (Dunn, 2018): receptive vocabulary for learners of all ages (earlier edition: Dunn & Dunn, 2007).

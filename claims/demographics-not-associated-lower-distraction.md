@@ -76,3 +76,4 @@ Independent samples t-test comparing digital distraction between male and female
 - [Teachers' SRL competence profiles do not differ by gender, age, or teaching experience](srl-profiles-no-demographic-differences.md) — related
 - [Self-reported SRL strategies vary by individual learner characteristics including demographics, prior experience, and motivations](srl-varies-by-individual-characteristics.md) — related
 - [Female participants tended to outperform male participants in online SRL, while no substantial age differences were found](gender-difference-online-srl-females.md) — related
+- [Student personal and educational characteristics (gender, age, grade, GPA, courses taken, SAE type) were descriptively profiled for the 102 participants in the two groups](participant-characteristics-oklahoma-animal-science-students.md) — related

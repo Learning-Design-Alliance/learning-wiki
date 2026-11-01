@@ -57562,5 +57562,473 @@
  "worked-examples\tworked-example assignments with correct and incorrect examples to explain\tcontrol assignments with problems to solve but no examples or self-explanation prompts": {
   "label": "worked examples vs problem-solving assignments",
   "treatment_is_a": true
+ },
+ "active-learning\t5E inquiry-based instruction\ttraditional teacher-directed instruction": {
+  "label": "inquiry-based instruction vs teacher-directed instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tDAA First sequence\tLecture First sequence": {
+  "label": "DAA-first sequence vs lecture-first sequence",
+  "treatment_is_a": true
+ },
+ "active-learning\tDAA activity\tlecture": {
+  "label": "DAA activity vs lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tDAA activity first\tlecture first": {
+  "label": "DAA-first sequence vs lecture-first sequence",
+  "treatment_is_a": true
+ },
+ "active-learning\tJoint Productive Activity approach\ttraditional reading-comprehension method": {
+  "label": "Joint Productive Activity vs traditional reading-comprehension instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tJoint Productive Activity approach\ttraditional reading-comprehension teaching": {
+  "label": "Joint Productive Activity vs traditional reading-comprehension instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tJoint Productive Activity reading-comprehension instruction\ttraditional reading-comprehension lessons": {
+  "label": "Joint Productive Activity vs traditional reading-comprehension instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tTeacher-student discussion and collaborative JPA tasks\tTraditional lessons without joint productive tasks": {
+  "label": "Joint Productive Activity vs traditional lessons without joint productive tasks",
+  "treatment_is_a": true
+ },
+ "active-learning\tacademic controversy\tindividualistic learning": {
+  "label": "academic controversy vs individualistic learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tacademic controversy lessons\ttraditional lecture": {
+  "label": "academic controversy vs lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tconcept-cartoon instruction in four-person discussion groups\tteacher-centred instruction": {
+  "label": "concept-cartoon discussion groups vs teacher-centred instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcooperative learning program\ttraditional teaching methodology": {
+  "label": "cooperative learning vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tdiscussion strategy\tlecture strategy": {
+  "label": "discussion vs lecture",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup-dynamics-oriented instruction with pair and group work\tconventional instruction with little or no peer interaction": {
+  "label": "peer-interactive pair and group work vs conventional low-peer-interaction instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup-dynamics-oriented pair and group work\tconventional mostly individual work": {
+  "label": "peer-interactive pair and group work vs conventional individual work",
+  "treatment_is_a": true
+ },
+ "active-learning\tguided learning at workstations\tteacher-centered lesson": {
+  "label": "guided workstation learning vs teacher-centred lesson",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive learning with simulated breast models\tlecture and video without hands-on simulated-model activity": {
+  "label": "interactive simulated-model learning vs lecture and video without hands-on activity",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive learning with simulated breast models\tlecture, video, and wellness-inventory discussion without simulated models": {
+  "label": "interactive simulated-model learning vs lecture, video, and discussion without simulated models",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive learning with simulated breast models\ttraditional didactic program without simulated-model activity": {
+  "label": "interactive simulated-model learning vs traditional didactic instruction without simulated models",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive learning with simulated breast models\ttraditional lecture, video, and no hands-on activity": {
+  "label": "interactive simulated-model learning vs traditional lecture, video, and no hands-on activity",
+  "treatment_is_a": true
+ },
+ "active-learning\tmake a match learning model\tconventional learning model": {
+  "label": "Make-a-Match cooperative learning vs conventional learning",
+  "treatment_is_a": true
+ },
+ "amplified assistance\tU-Pace concept mastery plus amplified assistance\tamplified assistance without the mastery requirement": {
+  "label": "Mastery requirement vs no mastery requirement",
+  "treatment_is_a": true
+ },
+ "amplified assistance\tU-Pace: concept mastery plus weekly personalized support\tconcept mastery without amplified assistance": {
+  "label": "Amplified assistance vs no amplified assistance",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t10-week instruction in thematic progression\texperimental group pre-instruction essays": {
+  "label": "thematic-progression instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t10-week instruction in thematic progression\tregular essay-writing instruction": {
+  "label": "thematic-progression instruction vs regular essay-writing instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\t10-week thematic-progression instruction\tpre-instruction essays": {
+  "label": "thematic-progression instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tCSE pre-instruction essays\tNS essays": {
+  "label": "pre-instruction Chinese learner essays vs American native-speaker essays",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tChinese experimental group after thematic-progression instruction\tAmerican native-speaker group": {
+  "label": "post-instruction Chinese learner essays vs American native-speaker essays",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tChinese experimental group before thematic-progression instruction\tAmerican native-speaker group": {
+  "label": "pre-instruction Chinese learner essays vs American native-speaker essays",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcognitive-grammar instruction\tcontrol group": {
+  "label": "cognitive-grammar instruction vs control/no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcognitive-grammar instruction\ttraditional grammar instruction": {
+  "label": "cognitive-grammar instruction vs traditional grammar instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tcognitive-grammar instruction\ttraditional-description instruction": {
+  "label": "cognitive-grammar instruction vs traditional-description instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdemonstration strategy\tinquiry strategy": {
+  "label": "demonstration strategy vs inquiry strategy",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit and implicit pragmatic-routine instruction\tcontrol group with no classroom instruction": {
+  "label": "explicit-and-implicit pragmatic-routine instruction vs no classroom instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction on pragmatic routines\timplicit instruction on pragmatic routines": {
+  "label": "explicit pragmatic-routine instruction vs implicit pragmatic-routine instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit nursery rhyme instruction with kinesthetic and hands-on activities\tcontrol group": {
+  "label": "explicit nursery-rhyme instruction with kinesthetic and hands-on activities vs no intervention",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit nursery rhyme instruction with kinesthetic and hands-on activities\tcontrol group without the intervention": {
+  "label": "explicit nursery-rhyme instruction with kinesthetic and hands-on activities vs no intervention",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit nursery rhyme instruction with kinesthetic and hands-on activities\tpre-training baseline": {
+  "label": "explicit nursery-rhyme instruction with kinesthetic and hands-on activities vs pre-training baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit pragmatic-routine instruction\timplicit pragmatic-routine instruction": {
+  "label": "explicit pragmatic-routine instruction vs implicit pragmatic-routine instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit teaching of pragmatic routines\timplicit teaching of pragmatic routines": {
+  "label": "explicit pragmatic-routine instruction vs implicit pragmatic-routine instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tstructured after-school literacy tutoring\tcontrol group": {
+  "label": "structured after-school literacy tutoring vs control/no tutoring",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tstructured after-school literacy tutoring by minimally trained university students\tcontrol group without the tutoring intervention": {
+  "label": "structured after-school literacy tutoring vs control/no tutoring",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttext-processing comprehension intervention\tbusiness-as-usual": {
+  "label": "text-processing comprehension intervention vs business-as-usual",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttraditional grammar instruction\tcontrol group": {
+  "label": "traditional grammar instruction vs control/no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttraditional vocabulary instruction\tpre-instruction baseline": {
+  "label": "traditional vocabulary instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttraditional vocabulary instruction\tpre-test baseline": {
+  "label": "traditional vocabulary instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "feedback-type\telaborative feedback\tknowledge of response feedback": {
+  "label": "elaborative vs knowledge of response feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tFACTs teaching\tpre-test baseline": {
+  "label": "FACTs teaching vs pre-test baseline",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tFACTs-supported teaching\tPre-test baseline": {
+  "label": "FACTs teaching vs pre-test baseline",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tTeaching using FACTs\tPre-test baseline": {
+  "label": "FACTs teaching vs pre-test baseline",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tTeaching using FACTs\tTeaching without FACTs": {
+  "label": "FACTs-supported teaching vs teaching without FACTs",
+  "treatment_is_a": true
+ },
+ "formative-assessment\texperimental group scheduled to receive FACTs\tcontrol group without FACTs": {
+  "label": "FACTs-supported teaching vs teaching without FACTs",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tteaching using FACTs\tpre-test baseline before FACTs": {
+  "label": "FACTs teaching vs pre-test baseline",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tteaching using FACTs\tteaching without FACTs": {
+  "label": "FACTs-supported teaching vs teaching without FACTs",
+  "treatment_is_a": true
+ },
+ "gamification\tGame-enhanced instructional strategy\tModified lecture instructional strategy": {
+  "label": "Game-enhanced instruction vs lecture instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tgame-enhanced instruction\tmodified lecture instruction": {
+  "label": "Game-enhanced instruction vs lecture instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tserious digital game-based learning\tlecture and discussion": {
+  "label": "Game-based learning vs lecture instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tguided learning at workstations\tteacher-centered lesson": {
+  "label": "guided discovery vs teacher-centered instruction",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tU-Pace concept mastery plus amplified assistance\tconcept mastery without amplified assistance": {
+  "label": "amplified assistance vs no amplified assistance",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tU-Pace instruction\tamplified assistance, at-risk students": {
+  "label": "mastery requirement vs no mastery requirement",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tU-Pace instruction\tconcept mastery, at-risk students": {
+  "label": "amplified assistance vs no amplified assistance",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tU-Pace instruction with concept mastery and amplified assistance\tamplified assistance without a mastery requirement": {
+  "label": "mastery requirement vs no mastery requirement",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tU-Pace instruction, at-risk students\tface-to-face instruction, at-risk students": {
+  "label": "U-Pace instruction vs face-to-face instruction",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tU-Pace instruction, at-risk students\tnot-at-risk students in concept mastery, amplified assistance, and face-to-face conditions": {
+  "label": "U-Pace instruction vs non-U-Pace instruction",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tU-Pace: concept mastery plus amplified assistance\tamplified assistance without a mastery requirement": {
+  "label": "mastery requirement vs no mastery requirement",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tconcept mastery\tamplified assistance": {
+  "label": "mastery requirement vs no mastery requirement",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tconcept mastery\tamplified assistance without the mastery requirement": {
+  "label": "mastery requirement vs no mastery requirement",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tconcept mastery\tface-to-face": {
+  "label": "mastery learning vs conventional teaching",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tmastery learning\tconventional teaching method": {
+  "label": "mastery learning vs conventional teaching",
+  "treatment_is_a": true
+ },
+ "media-design\tESP passages with pictorial context\tsame ESP passages without pictorial context": {
+  "label": "pictorial context vs no pictorial context",
+  "treatment_is_a": true
+ },
+ "media-design\tESP passages with pictorial context\tsame ESP passages without pictures": {
+  "label": "pictorial context vs no pictorial context",
+  "treatment_is_a": true
+ },
+ "media-design\tdepicting pre-writing strategy\toutlining pre-writing strategy": {
+  "label": "depicting pre-writing strategy vs outlining pre-writing strategy",
+  "treatment_is_a": true
+ },
+ "media-design\tdiagram with redundant text\ttext-only": {
+  "label": "diagram with redundant text vs text-only",
+  "treatment_is_a": true
+ },
+ "media-design\tdiagram with redundant text\ttext-only lesson": {
+  "label": "diagram with redundant text vs text-only",
+  "treatment_is_a": true
+ },
+ "media-design\tdiagram without redundant text\ttext-only": {
+  "label": "diagram without redundant text vs text-only",
+  "treatment_is_a": true
+ },
+ "media-design\tdiagram without redundant text\ttext-only lesson": {
+  "label": "diagram without redundant text vs text-only",
+  "treatment_is_a": true
+ },
+ "media-design\tpassages furnished with pictures\tsame passages without pictorial context": {
+  "label": "pictorial context vs no pictorial context",
+  "treatment_is_a": true
+ },
+ "media-design\tpictorial-context group\ttext-only group": {
+  "label": "pictorial context vs text-only",
+  "treatment_is_a": true
+ },
+ "media-design\tstory about dissociative fugue\ttextbook excerpt about dissociative fugue": {
+  "label": "story narrative vs textbook excerpt",
+  "treatment_is_a": true
+ },
+ "media-design\tstory narrative\ttextbook excerpt": {
+  "label": "story narrative vs textbook excerpt",
+  "treatment_is_a": true
+ },
+ "media-design\tstory only\tphotocopied textbook": {
+  "label": "story narrative vs textbook",
+  "treatment_is_a": true
+ },
+ "media-design\ttextbook-plus-story\tall other reading conditions": {
+  "label": "textbook-plus-story vs other reading conditions",
+  "treatment_is_a": true
+ },
+ "media-design\ttextbook-plus-story\tphotocopied textbook": {
+  "label": "textbook-plus-story vs textbook-only",
+  "treatment_is_a": true
+ },
+ "media-design\ttextbook-plus-story\ttextbook excerpts": {
+  "label": "textbook-plus-story vs textbook excerpts",
+  "treatment_is_a": true
+ },
+ "media-design\ttyped textbook\tphotocopied textbook": {
+  "label": "typed textbook vs photocopied textbook",
+  "treatment_is_a": true
+ },
+ "practice-amount\thigher attendance at daily coaching sessions\tlower attendance at daily coaching sessions": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\thigher dosage of the intervention\tlower dosage of the intervention": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "scaffolding\tU-Pace instruction with amplified assistance\tconcept mastery without amplified assistance": {
+  "label": "amplified assistance vs no amplified assistance",
+  "treatment_is_a": true
+ },
+ "scaffolding\tamplified assistance\tface-to-face": {
+  "label": "amplified assistance vs face-to-face instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcharts, props, and visual media scaffolding\twithout media scaffolding": {
+  "label": "media scaffolding vs no media scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tguided learning at workstations\tconventional learning at workstations": {
+  "label": "guided workstation learning vs conventional workstation learning",
+  "treatment_is_a": true
+ },
+ "scaffolding\tguided learning at workstations\tteacher-centered lesson": {
+  "label": "guided workstation learning vs teacher-centered instruction",
+  "treatment_is_a": true
+ },
+ "scaffolding\tguided learning at workstations with researcher feedback\tconventional learning at workstations with limited teacher assistance": {
+  "label": "guided workstation learning with researcher feedback vs conventional workstation learning with limited teacher assistance",
+  "treatment_is_a": true
+ },
+ "scaffolding\tmedia scaffolding using charts, props, and visual media\tno media scaffolding": {
+  "label": "media scaffolding vs no media scaffolding",
+  "treatment_is_a": true
+ },
+ "scaffolding\tmedia scaffolding with charts, props, and visual media\tno media scaffolding": {
+  "label": "media scaffolding vs no media scaffolding",
+  "treatment_is_a": true
+ },
+ "simulation\tVirtual Walking the Pens serious digital game\tlecture and discussion": {
+  "label": "simulation vs no simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tinteractive learning with simulated breast models\tlecture and video without simulated-model activity": {
+  "label": "simulation vs no simulation",
+  "treatment_is_a": true
+ },
+ "technology-tool\t2.5-minute video case\twritten description of the same video case": {
+  "label": "video case vs written description",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D digital dental models (e-models)\tphysical dental models": {
+  "label": "3D digital dental models vs physical dental models",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D skull model\tcomparison group": {
+  "label": "3D skull model vs no technology tool",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D visualization plus CBL\tlecture-based learning": {
+  "label": "3D visualization plus CBL vs lecture-based learning",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D visualization plus PBL\tlecture-based learning": {
+  "label": "3D visualization plus PBL vs lecture-based learning",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D visualization plus problem-based learning\tlecture-based learning": {
+  "label": "3D visualization plus problem-based learning vs lecture-based learning",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D-PBL\tLBL": {
+  "label": "3D-PBL vs LBL",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D-printed anatomical models\tcommercial anatomical models": {
+  "label": "3D-printed anatomical models vs commercial anatomical models",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D-printed anatomical models\tdry bones": {
+  "label": "3D-printed anatomical models vs dry bones",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D-printed anatomical models\tother anatomical models": {
+  "label": "3D-printed anatomical models vs other anatomical models",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D-printed anatomical models\tplastinated models": {
+  "label": "3D-printed anatomical models vs plastinated models",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D-printed anatomical models\treference models or other teaching methods": {
+  "label": "3D-printed anatomical models vs reference models or other teaching methods",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D-printed anatomical models\treference or traditional anatomy model": {
+  "label": "3D-printed anatomical models vs reference or traditional anatomy model",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D-printed skull-base meningioma model for surgical planning\tother group": {
+  "label": "3D-printed skull-base meningioma model vs other group",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3D-printed skull-base meningioma models\tcomparison group": {
+  "label": "3D-printed skull-base meningioma models vs comparison group",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3DPAMs\tconventional models": {
+  "label": "3D-printed anatomical models vs conventional models",
+  "treatment_is_a": true
+ },
+ "technology-tool\t3DPAMs\tplastinated prosections": {
+  "label": "3D-printed anatomical models vs plastinated prosections",
+  "treatment_is_a": true
+ },
+ "technology-tool\t66 virtual-patient scenarios\tGerman healthcare-system data": {
+  "label": "virtual-patient scenarios vs German healthcare-system data",
+  "treatment_is_a": true
+ },
+ "technology-tool\t7-week summer text-message nudge campaign\tbusiness-as-usual college support": {
+  "label": "text-message nudge campaign vs business-as-usual college support",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAI agents for motivational and affective support\tnot stated": {
+  "label": "AI agents for motivational and affective support vs no stated comparison",
+  "treatment_is_a": true
  }
 }

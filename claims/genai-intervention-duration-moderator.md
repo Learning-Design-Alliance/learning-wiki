@@ -75,3 +75,4 @@ Moderator analysis (Table 5) of intervention duration across subgroups: 0–8 we
 - [ITS effect sizes decrease as intervention duration increases](its-effects-decrease-longer-duration.md) — related
 - [Longer VR interventions (at least 1 day) show larger score effects than interventions under 1 day](vr-anatomy-duration-moderates-effects.md) — related
 - [For socialisation outcomes, effects hinge on sustained duration and structured pedagogy: >8-week interventions yield g = 1.204 while contextual learning yields g = 0.168](socialisation-moderators-duration-strategy.md) — related
+- [Infusing higher-order thinking skills into Engineering Drawing instruction produced significantly higher critical thinking disposition than conventional drill-based teaching after 8 weeks](infusion-approach-engineering-drawing-critical-thinking-disposition.md) — a narrower finding that bears on this claim

@@ -13,7 +13,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 114 claims (83 show a difference, 28 mixed, 3 no difference) · 84 studies (25 review, 15 associational, 13 causal, 13 qualitative, 7 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 6 of 84 report an effect size · 109 claims rest on one study
+> **Evidence** · 117 claims (85 show a difference, 28 mixed, 4 no difference) · 85 studies (25 review, 15 associational, 14 causal, 13 qualitative, 7 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 6 of 85 report an effect size · 112 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -151,6 +151,9 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [School connectedness is positively associated with emotional health and achievement, school-related stress is negatively associated with belongingness, and self-esteem may mediate the belongingness–achievement link](../claims/belongingness-stress-self-esteem-mediation.md) [+M] — learners who differ on it differ in outcomes
 - [Associations between SLD stigma and academic performance are small, less robust, and based on very few studies](../claims/sld-stigma-academic-outcomes-small-few-studies.md) [~W] — learners who differ on it differ in outcomes
 - [Greater SLD stigma is generally associated with less optimal psychological adjustment, though most outcomes could not be meta-analyzed](../claims/sld-stigma-psychological-adjustment-heterogeneous.md) [~W] — learners who differ on it differ in outcomes
+- [A nine-week cross-age peer mentoring program did not produce statistically significant increases in global school connectedness among rural middle school mentees, though mean scores rose in both groups](../claims/camp-nine-week-global-connectedness-non-significant.md) [-M] — instruction changes it
+- [Rural seventh-grade mentees receiving cross-age peer mentoring showed a statistically significant increase on the \"Self-in-Future\" connectedness subscale](../claims/camp-self-in-future-subscale-significant-increase.md) [+M] — instruction changes it
+- [The literature reviewed attributes protective academic and behavioral benefits to positive school connectedness](../claims/school-connectedness-protective-factor-literature.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]

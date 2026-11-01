@@ -51,3 +51,4 @@ Simple-effects analyses within each group across pre-training, post-training, an
 - [Off-training cognitive transfer shows gains in working memory and focused attention for the ACT group only, with no significant group-by-session interactions](act-off-training-transfer-mixed.md) — related
 - [Mnemonic training yields limited far-transfer: only the number-noun pairs measure improved, persisting at 4-month follow-up](mnemonic-training-limited-transfer-number-noun-pairs.md) — related
 - [Skill retention after simulation is rarely measured; at 2-month follow-up only the VR group maintained significant ISVS improvement](simulation-skill-retention-two-month-follow-up.md) — related
+- [CG-based instruction's gains continued increasing between the immediate and delayed posttest while traditional-instruction gains were only maintained](cg-gains-kept-increasing-delayed-posttest.md) — related

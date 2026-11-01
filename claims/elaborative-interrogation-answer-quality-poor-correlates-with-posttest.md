@@ -91,3 +91,6 @@ Spearman rank-order correlation in the embedded-questioning condition (mean 3.08
 - [Elaborative interrogation benefits increase as learners' prior knowledge increases](elaborative-interrogation-prior-knowledge-moderator.md) — related
 - [Question quality, not study time, predicted comprehension test performance among questioners](question-quality-not-time-predicts-achievement.md) — related
 - [Generating a good question for a topic strongly predicts answering the matching test item correctly](good-question-predicts-matching-item-correct.md) — related
+- [There were no differences in answer quality between pretest-correct and pretest-incorrect students for either questioning type, and no association between embedded-question accuracy and posttest scores](no-answer-quality-differences-by-pretest-accuracy.md) — related
+- [Answers to embedded questions and elaborative interrogations were of poor quality, and elaborative-interrogation answer quality correlated with posttest scores only for pretest-incorrect students](poor-question-answer-quality-elaborative-interrogation-correlation.md) — related
+- [For students who answered the pretest incorrectly, reading the lesson twice yielded higher posttest scores than either embedded questioning or elaborative interrogation](read-twice-beats-questioning-pretest-incorrect.md) — related

@@ -48,6 +48,7 @@ The article recommends three integration routes: extracurricular reading clubs w
 
 - [Use art-based sharing, short reviews, interviews, and Book Wheels when students each read different books](individually-chosen-reading-group-activities.md)
 - [Pair an action-based silent reading method with instruction in literary appreciation and extensive reading](complement-action-reading-with-literary-appreciation.md)
+- [Use extracurricular activities such as learners' conferences and seminars to overcome lesson-time limits for biographies](extracurricular-activities-for-biography-study.md)
 
 ## Examples
 -

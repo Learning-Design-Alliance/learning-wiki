@@ -21,7 +21,7 @@ grain_size: lesson
 # Structured Academic Controversy
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 10 claims (10 mixed) · 24 studies (8 quant-synthesis, 6 causal, 6 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 6 of 24 report an effect size · 2 claims rest on one study
+> **Evidence** · 12 claims (2 for, 10 mixed) · 25 studies (8 quant-synthesis, 7 causal, 6 review, 2 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 7 of 25 report an effect size · 4 claims rest on one study
 
 ## Description and scope
 
@@ -110,6 +110,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~M] — not yet checked against its sources
+- [Students taught with academic controversy lessons significantly outperformed students taught by traditional lecture on the TUCE overall post-test score in post-secondary macroeconomics](../claims/academic-controversy-outperforms-lecture-tuce-macroeconomics.md) [+W] — attached 2026-11-01 from Craig F. Santicola (2015), which proposed "Academic controversy: a five-step cooperative group controversy procedure"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 
@@ -126,6 +127,7 @@ This pattern is scoped to cooperative argument on a question that admits more th
 ## Claims
 
 - [Deliberative discourse promotes pedagogies of public deliberation, which are critiqued for exclusion and consensus bias](../claims/deliberative-discourse-pedagogies-critique.md) [~W]
+- [Prior meta-analysis reported an effect size of 0.76 for academic controversy versus individualistic learning on achievement](../claims/johnson-johnson-controversy-meta-analysis-076.md) [+W]
 
 ## Related Patterns
 - [Debate Format](debate.md)

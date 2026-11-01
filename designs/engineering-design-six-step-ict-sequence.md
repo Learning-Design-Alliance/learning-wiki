@@ -41,6 +41,10 @@ The model's teaching and learning process follows the engineering design process
 - [Eleven experts rated the tentative STEM-ICT instructional model as appropriate at a high level](../claims/stem-ict-model-expert-evaluation-high.md) [+W]
 - [Five professionals approved the model as appropriate at a high level](../claims/stem-ict-model-professional-approval-high.md) [+W]
 
+## Related Designs
+
+- [Quantum Teaching content sequence: enroll, experience, demonstrate, and celebrate](qts-five-step-content-sequence.md)
+
 ## Related Patterns
 
 - [Six-part section structure for FEA-based experiential learning modules](fea-module-six-part-section-structure.md)

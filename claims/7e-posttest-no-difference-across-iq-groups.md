@@ -47,3 +47,4 @@ One-way ANOVA (Table 1) of experimental-group post-test scores across intelligen
 ## Related Claims
 - [Gains from the 7E model were significant for low- and average-intelligence students but not for high-intelligence students, with gain magnitude decreasing across intelligence levels](7e-gains-vary-by-intelligence-level.md) — related
 - [Class IX physical science students taught with the constructivist 7E model achieved significantly higher post-test and gain scores than students taught with traditional methods](7e-model-higher-science-achievement-secondary.md) — related
+- [Students with high achiever motivation obtain significantly better cognitive study outcomes than students with low achiever motivation](high-achiever-motivation-better-cognitive-outcomes.md) — related

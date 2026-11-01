@@ -48,3 +48,4 @@ Cluster quasi-experimental study (meets WWC standards with reservations) of 178 
 - [World of Words has positive effects on the language outcome domain for prekindergarten children, with an average effect size of 0.43 across four studies](world-of-words-positive-language-effects.md) — a broader claim this one bears on
 - [World of Words showed no statistically significant effects on the Woodcock-Johnson Picture Vocabulary Subtest or the PPVT-IV](world-of-words-null-standardized-vocabulary-measures.md) — related
 - [World of Words produced a statistically significant medium effect on expressive vocabulary (Expressive One-Word Picture Vocabulary Test, 4th Edition; effect size 0.43) in a scaled-up 12-site study](world-of-words-expressive-vocabulary-significant.md) — related
+- [Computer assisted vocabulary instruction produces a statistically significant vocabulary gain in preschool EFL children](cavi-significant-vocabulary-gain-preschool.md) — related

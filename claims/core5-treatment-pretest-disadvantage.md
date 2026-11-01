@@ -55,3 +55,5 @@ Independent sample t-test comparing Fall 2016 pretest RIT means of the treatment
 - [Treatment and comparison groups differed significantly at pretest on most writing and language measures, favoring comparison](siwi-pretest-differences-limitation.md) — related
 - [Before treatment, the experimental and control groups showed no significant difference in overall language proficiency](portfolio-idiom-study-pretest-proficiency-homogeneity.md) — related
 - [Experimental and control pupils showed equivalent reading ability at pre-test](prior-knowledge-questions-pretest-equivalence.md) — reports the opposite
+- [Experimental and control groups did not differ significantly on the ESP reading pretest](esp-pictorial-pretest-no-difference.md) — reports the opposite
+- [At pretest the control group scored significantly higher than the treatment group on the TLC-Main Idea subtest](pretest-tlc-main-idea-group-difference.md) — related

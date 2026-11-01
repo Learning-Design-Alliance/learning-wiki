@@ -53,3 +53,4 @@ Post-training descriptive ratings on a five-item scale (α = .83) in the pilot e
 - [Teachers rate AI-interaction training as useful and relevant and report positive adoption intentions](teachers-rate-ai-training-useful-positive-adoption.md) — possibly the same claim (merge candidate)
 - [Behavioural intention to use AI-based technologies does not change significantly following the INSIGHT training, despite increases in perceived usefulness and ease of use](insight-training-no-change-behavioural-intention.md) — related
 - [Statewide OPTEL webinars showed high self-reported impact on participant knowledge and perceived quality](optel-webinar-high-survey-impact.md) — related
+- [Post-session survey responses indicated students found the session relevant and worthwhile, valuing database search skills and citation management software](post-session-survey-perceptions-positive.md) — related

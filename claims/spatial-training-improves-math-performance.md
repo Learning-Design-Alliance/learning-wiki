@@ -103,3 +103,4 @@ The authors' meta-analysis of 29 studies (N = 3765) using rigorous pre-post desi
 - [Not all spatial interventions are equivalent: concrete-material training yields larger math gains than computer-based training, and effects increase with age](spatial-training-moderators-concrete-materials-and-age.md) — possibly the same claim (merge candidate)
 - [Spatial language training improves children's numerical magnitude understanding (number words comparison)](spatial-language-training-improves-magnitude-understanding.md) — related
 - [Action video game training causally improves cognitive skills relative to active control training (small effect, g = 0.30)](avg-training-causal-improvement-g-030.md) — related
+- [Media scaffolding helped students investigate geometry properties, form mental concrete shapes, and complete geometry tasks](media-scaffolding-three-helps-geometry.md) — a narrower finding that bears on this claim

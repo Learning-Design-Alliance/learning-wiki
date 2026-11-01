@@ -46,6 +46,7 @@ The article recommends deploying older students as cross-age tutors, particularl
 
 - [Cross-Grade-Level Tutoring](cross-grade-level_tutoring.md)
 - [Cross Age Tutoring](cross-age-tutoring.md)
+- [School counselors implementing cross-age peer mentoring as a research-based school-climate intervention in rural, high-poverty schools](counselor-led-cross-age-mentoring-climate-strategy.md)
 
 ## Examples
 -

@@ -185,6 +185,7 @@ The expectation should weaken if classroom comparisons with comparable learners 
 - [Prediction](../elements/prediction.md)
 - [Pre Reading Quizzes](../strategies/pre-reading-quizzes.md)
 - [Use Pre Questions](../strategies/use-pre-questions.md)
+- [Pre-questioning: teacher and students generate questions and inferences about a passage summary before reading](../strategies/pre-questioning-strategy-recipe.md)
 
 ## Key Sources
 

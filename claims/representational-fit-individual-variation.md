@@ -58,3 +58,4 @@ Qualitative theme from interview accounts in the same study: some students found
 - [Student interviews indicate the formatted plan demanded more work and time, with mixed perceptions of step helpfulness](interview-perceptions-problem-solving-plan-steps.md) — related
 - [High school STEM students need explicit scaffolding to build AI abstract representations, parse problems for AI systems, and apply underlying mathematics](ai-learning-three-scaffolding-needs.md) — related
 - [Trails pointed students to objects they would not otherwise have noticed and helped when galleries felt overwhelming](trails-focus-attention-in-large-museums.md) — related
+- [Media scaffolding helped students investigate geometry properties, form mental concrete shapes, and complete geometry tasks](media-scaffolding-three-helps-geometry.md) — related

@@ -105,3 +105,4 @@ RAND matched students in NGLC schools implementing PL practices (adaptive softwa
 - Included reports are methodologically robust overall but weak on implementation fidelity, which was assessed in only about half of the programs — related
 - [Adult learners value personalized mastery-based learning in AI-powered curricula, while some caution it can reduce exposure to new or unexpected content](personalized-mastery-based-learning-adult-ai.md) — related
 - [DP adherence varied widely across studies, with the most structured programs yielding the greatest benefits](dp-adherence-variability-influences-outcomes.md) — a narrower finding that bears on this claim
+- [Implementation fidelity to Concept Cat was moderate to high overall, but settings did not deliver the additional focus-child activities set out in the design](concept-cat-fidelity-low-for-focus-children.md) — a narrower finding that bears on this claim

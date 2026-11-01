@@ -14,7 +14,7 @@ grain_size: lesson
 # Collaborative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 70 claims (28 for, 37 mixed, 5 against) · 57 studies (19 causal, 9 review, 7 theoretical, 6 quant-synthesis, 6 associational, 6 qualitative, 4 design), `q1`–`q4` · 13 of 57 report an effect size · 68 claims rest on one study
+> **Evidence** · 71 claims (29 for, 37 mixed, 5 against) · 58 studies (20 causal, 9 review, 7 theoretical, 6 quant-synthesis, 6 associational, 6 qualitative, 4 design), `q1`–`q4` · 13 of 58 report an effect size · 69 claims rest on one study
 
 ## Description and scope
 
@@ -117,6 +117,7 @@ Read 2026-10-19 (wave 2): the claims linked since the conversion were read from 
 - [Interference during tabletop use can play a productive role, but small-group collaboration processes primarily influence learning](../claims/tabletop-interference-productive-collaboration-processes-primary.md) [+W] — read 2026-10-19: an editorial's reading of an interaction study, no data here; consistent with judging the group's process rather than the interface.
 - [Leadership moves are distributed among members of children's collaborative learning groups rather than concentrated in a single leader](../claims/leadership-moves-distributed-among-group-members.md) [~W] — read 2026-10-19: coding of Year 6 groups found leadership shared in some groups and held by one or two members in others, with most moves accepted; a process description with no learning outcome. It tells an observer to record who leads, as step 4 does.
 - [Evidence exists for AI agents as collaborative partners, but more work is needed on how computing agents can best support learning of AI itself](../claims/ai-partners-evidence-but-more-work-needed.md) [~W] — read 2026-10-19: a review's research-implications sentence, with no effect sizes; the AI rows above rest on the studies themselves.
+- [Students taught reading comprehension with Joint Productive Activity scored higher on post-tests than students taught by the traditional method](../claims/jpa-group-outperformed-traditional-group-post-test.md) [+W] — attached 2026-11-01 from Hanna Onyi Yusuf (2013), which proposed "Joint Productive Activity lesson design: teacher and students co-construct meaning through collaborative joint tasks"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 199 claims (150 show a difference, 28 mixed, 21 no difference) · 161 studies (58 associational, 31 causal, 31 review, 15 qualitative, 10 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 32 of 161 report an effect size · 195 claims rest on one study
+> **Evidence** · 203 claims (153 show a difference, 28 mixed, 22 no difference) · 164 studies (58 associational, 34 causal, 31 review, 15 qualitative, 10 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 32 of 164 report an effect size · 199 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -230,6 +230,10 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Effects of SBAR-based simulation on communication ability, critical thinking, confidence, learning self-efficacy, and attitude toward patient safety are divergent across studies](../claims/sbar-simulation-divergent-other-outcomes.md) [~M] — instruction changes it
 - [Blackboard-based blended teaching showed no statistically significant effect on self-confidence](../claims/blended-teaching-no-effect-self-confidence.md) [-M] — instruction changes it
 - [Class teachers reported that some pupils' confidence and social skills improved during the programme](../claims/asp-teachers-reported-confidence-social-skills-gains.md) [+M] — instruction changes it
+- [Gender differences in prior disassembly experience and perceived competence did not affect DAA learning or transfer outcomes](../claims/daa-gender-experience-null-moderators.md) [-M] — learners who differ on it differ in outcomes
+- [Grade VIII students taught with a contextual learning model show higher increases in self-confidence than students taught with expository learning](../claims/contextual-learning-higher-self-confidence-gain.md) [+M] — instruction changes it
+- [Learning model and students' early mathematical ability (KAM) interact in increasing self-confidence](../claims/interaction-learning-kam-self-confidence.md) [+M] — instruction changes it
+- [The social nature of self-efficacy may produce a false sense of mathematics efficacy among preservice teachers, with negative implications for future teaching](../claims/false-sense-of-mathematics-self-efficacy-social-comparison.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

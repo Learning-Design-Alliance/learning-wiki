@@ -21,7 +21,7 @@ sources:
 # Traditional Lecture-Based Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 74 claims (18 for, 26 mixed, 30 against) · 67 studies (25 quant-synthesis, 16 review, 11 causal, 7 theoretical, 5 qualitative, 2 associational, 1 design), `q1`–`q4` · 13 of 67 report an effect size · 66 claims rest on one study
+> **Evidence** · 76 claims (19 for, 26 mixed, 31 against) · 69 studies (25 quant-synthesis, 16 review, 13 causal, 7 theoretical, 5 qualitative, 2 associational, 1 design), `q1`–`q4` · 13 of 69 report an effect size · 68 claims rest on one study
 
 ## Description and scope
 
@@ -196,6 +196,8 @@ This pattern is scoped to courses where a lecturer's explanation to a whole grou
 - [PBL yields higher course examination excellence rates than LBL in introductory Chinese undergraduate medical courses](../claims/pbl-higher-excellence-rates-chinese-medical-courses.md) [-W]
 - [The POGIL-specific findings confirm the Freeman et al. active-learning meta-analysis, with nearly identical failure rates and odds ratios](../claims/pogil-confirms-freeman-meta-analysis.md) [-W]
 - [Mobile learning applications improve undergraduate academic achievement compared with traditional lecture-based instruction](../claims/mobile-learning-improves-achievement-quasi-experiment.md) [+W]
+- [Scheffe multiple comparisons rank the four strategies: demonstration highest, then inquiry, then discussion, with lecture lowest](../claims/scheffe-strategy-ordering-electrical-installation.md) [+W]
+- [Sidak post hoc tests showed blended learning and e-learning each significantly outperformed traditional teaching, but did not differ significantly from each other](../claims/sidak-posthoc-blended-elearning-traditional.md) [-W]
 
 ## Related Patterns
 - [Direct Instruction](direct-instruction.md) — the explain, model, guided-practice and hand-over policy; a lecture segment is its explanation step delivered to a large group

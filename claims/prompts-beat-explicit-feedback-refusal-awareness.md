@@ -51,3 +51,4 @@ The review reports Nipaspong and Chinokul's (2010) three-group study (explicit f
 - [Corrective feedback on second-language errors has a significant effect on L2 development that is maintained on delayed tests](corrective-feedback-effect-on-l2-development-is-significant-and-durable.md) — related
 - [Corrective feedback facilitates L2 grammatical development, with explicit feedback stronger immediately and implicit feedback better maintained over time](cf-facilitates-l2-grammar-explicit-implicit-durability.md) — related
 - [All four written CF types, including metalinguistic code CF, outperformed the control group on the delayed posttest of explicit L2 knowledge two weeks later.](cf-type-explicit-long-term-benefits.md) — related
+- [Five weeks of instruction in pragmatic routines significantly improved EFL learners' pragmatic competence relative to a control group](pragmatic-routine-instruction-improves-pragmatic-competence.md) — related

@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 45 claims (22 for, 22 mixed, 1 against) · 45 studies (24 causal, 9 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 12 of 45 report an effect size · 40 claims rest on one study
+> **Evidence** · 47 claims (24 for, 22 mixed, 1 against) · 46 studies (25 causal, 9 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 12 of 46 report an effect size · 42 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.
@@ -81,6 +81,8 @@ Multimedia instruction is the element in which teaching combines spoken or writt
 - [Adding visuals of the instructor to online video lectures impairs comprehension relative to audio-only and audio+text formats](../claims/instructor-visuals-impair-lecture-comprehension.md) [~W]
 - [Learners prefer and believe they learn best from lectures with visuals of the instructor, despite objective comprehension costs](../claims/instructor-presence-effect-liking-learning-dissociation.md) [~W]
 - [Video cases significantly improved cognitive, affective, and overall learning outcomes compared to paper cases in dental education](../claims/video-cases-outperform-paper-cases-dental-pbl.md) [+W]
+- [Computer-based multimedia presentation significantly improved SS II students' agricultural science achievement from pre-test to post-test](../claims/cbmp-significant-pre-post-achievement-gain.md) [+W] — attached 2026-11-01 from Abiola Lateef Olori et al. (2016), which proposed "Computer-based multimedia maize breeding packages (CBMBP)"; tests this page's relationship.
+- [Students taught with computer-based multimedia presentation significantly outperformed students taught by the conventional method on the post-test](../claims/cbmp-outperformed-conventional-posttest.md) [+W] — attached 2026-11-01 from Abiola Lateef Olori et al. (2016), which proposed "Computer-based multimedia maize breeding packages (CBMBP)"; tests this page's relationship.
 
 ## The evidence by question
 - *Do words with a relevant picture beat words alone?* [Multimedia Principle Improves Learning](../claims/multimedia-principle-improves-learning.md) [+S]

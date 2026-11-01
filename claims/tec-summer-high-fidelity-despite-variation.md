@@ -73,3 +73,4 @@ The report states "Student outcomes were consistently positive, even with variat
 - [Delayed Treatment teachers more frequently simplified GC/CoV-lean lessons in ways that removed opportunities for figuring out, while Treatment teachers added graphing-skill opportunities](lesson-modifications-differed-by-group.md) — related
 - [Students in the TEC Summer Learning Program showed a 41% pre-to-post gain in mathematics vocabulary](tec-summer-41-percent-math-vocabulary-gain.md) — related
 - [MAST is feasible for delivery by teachers, with four of five schools delivering all key components consistently](mast-feasible-teacher-delivery-fidelity.md) — related
+- [Minimally trained, non-education-major college tutors implemented the structured program with high fidelity (average 96.3%)](minimally-trained-tutors-high-fidelity.md) — related

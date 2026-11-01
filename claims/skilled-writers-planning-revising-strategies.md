@@ -55,3 +55,4 @@ Interview findings on revising strategies of the nine skilled EFL writers, who c
 - [Struggling adult writers show limited planning and revision in their writing process, similar to younger writers](struggling-adult-writers-limited-planning-revision.md) — related
 - [SRL writing-stage clusters differed in production and revision but not in pausing](srl-writing-clusters-production-revision.md) — related
 - [Skilled EFL writers possess audience awareness, keeping readers in mind to judge whether their writing is understandable and coherent.](skilled-writers-audience-awareness.md) — related
+- [Interviewees reported depicting triggers idea flow and motivation while outlining supports systematic organization and saves time](interview-viewpoints-strengths-of-both-strategies.md) — related

@@ -25,7 +25,7 @@ sources:
 # Direct Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 42 claims (19 for, 20 mixed, 3 against) · 44 studies (14 quant-synthesis, 12 causal, 12 review, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 13 of 44 report an effect size · 35 claims rest on one study
+> **Evidence** · 43 claims (20 for, 20 mixed, 3 against) · 45 studies (14 quant-synthesis, 13 causal, 12 review, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 14 of 45 report an effect size · 36 claims rest on one study
 
 ## Description and scope
 
@@ -112,6 +112,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [All experimental group EFL students expressed positive perspectives on explicit instruction of reading comprehension strategies](../claims/efl-students-positive-views-explicit-strategy-instruction.md) [+W] — from Üstündağ-Algın (2025). Read 2026-10-19: a questionnaire given only to the taught group, so it says the learners valued the instruction, not that they preferred it to an alternative; relevant to the learner-valued goal, no change to the model.
 - [Teacher modeling with worked examples helped EFL students internalize reading comprehension strategies](../claims/teacher-modeling-internalizes-reading-strategies.md) [+W] — from Üstündağ-Algın (2025). Read 2026-10-19: students' comments that the teacher's explaining and modelling helped (q1, no comparison); consistent with step 2, but does not test modelling against anything.
 - [Direct instruction training improved 5th graders' task-model construction (question analysis) relative to an active control](../claims/direct-instruction-improves-task-model-construction.md) [+W] — attached 2026-10-23 from Potocki et al. (2023), which proposed "Five-module direct instruction program for purposeful reading strategies"; tests this page's relationship.
+- [Explicit teaching of pragmatic routines was more effective than implicit teaching, with implicit-group scores decreasing from pre- to post-test](../claims/explicit-teaching-beats-implicit-for-pragmatic-routines.md) [+M] — attached 2026-11-01 from Üstünbaş (2017), which proposed "Teach pragmatic routines explicitly in EFL programs where learners lack exposure to real target-language use"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

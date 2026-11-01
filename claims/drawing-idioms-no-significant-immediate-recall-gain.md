@@ -50,5 +50,4 @@ Independent-samples t-test comparing immediate posttest scores of the experiment
 ## Related Claims
 - [Drawing mental images of idioms significantly improves delayed idiom recall among Iranian EFL learners](drawing-idioms-significant-delayed-recall-gain.md) — related
 - [Experimental and control groups were homogeneous in idiom knowledge before treatment](idiom-drawing-groups-homogeneous-pretest.md) — related
-- [The two groups did not differ significantly in idiom knowledge at pretest](no-pretest-difference-between-idiom-groups.md) — related
 - [Portfolio assessment is followed by a statistically significant posttest difference in idiom knowledge between Iranian upper-intermediate EFL learners who kept portfolios and those who received traditional instruction](portfolio-assessment-improves-idiom-knowledge-efl.md) — related

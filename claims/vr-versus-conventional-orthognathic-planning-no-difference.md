@@ -52,3 +52,4 @@ The review reports, from Sakowitz et al.'s randomized controlled trial comparing
 - [A randomized controlled trial found immersive virtual reality surgery training improved the knowledge and self-confidence of surgical residents](vr-surgery-training-improves-knowledge-self-confidence.md) — related
 - [VR-based anatomy teaching moderately improves learners' examination scores compared with traditional or 2D digital methods](vr-anatomy-teaching-improves-test-scores.md) — reports the opposite
 - [VR design review simulation improves construction students' error detection compared with 2D drawings](vr-design-review-improves-error-detection.md) — related
+- [VR and conventional teaching produce equivalent short-term learning success in a quasi-randomized field experiment](vr-unit-equivalent-short-term-learning-success.md) — possibly the same claim (merge candidate)

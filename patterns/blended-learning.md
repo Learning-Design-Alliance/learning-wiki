@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 45 claims (27 for, 18 mixed) · 34 studies (14 quant-synthesis, 7 review, 6 associational, 2 causal, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 10 of 34 report an effect size · 43 claims rest on one study
+> **Evidence** · 48 claims (29 for, 19 mixed) · 35 studies (14 quant-synthesis, 7 review, 6 associational, 3 causal, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 10 of 35 report an effect size · 46 claims rest on one study
 
 ## Description and scope
 
@@ -102,6 +102,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [In Pennsylvania districts using hybrid instruction with precautions in fall 2020, increases in student and staff infections were no greater than community increases outside school](../claims/hybrid-instruction-infection-increases-no-greater-than-community.md) [~M] — attached 2026-10-08 from Brian Gill (2021), which proposed "Pair hybrid instruction with precautions such as mask-wearing and physical distancing to mitigate in-school virus transmission".
 - [Blended implementation models matched to learner skill level: high-touch blended for lowest-skilled learners, online courses for more advanced students](../claims/blended-high-touch-lowest-skilled-adults.md) [+W] — attached 2026-10-09 from Constantakis (2016), which proposed "Support multiple, evolving blended implementation models with flexibility combined with structure".
 - [Hybrid training produces a larger effect on nurses' skills than onsite training](../claims/hybrid-training-larger-skill-effects-than-onsite.md) [+M] — attached 2026-10-31 from Pumsopa et al. (2025), which proposed "Integrate hybrid or blended training into community nurse education because it sustains knowledge and skill gains better than onsite‐only formats".
+- [Undergraduates taught with blended learning significantly outperformed those taught with traditional teaching in an educational technology course](../claims/blended-learning-outperformed-traditional-teaching-nigerian-undergraduates.md) [+W] — attached 2026-11-01 from Gambari et al. (2017), which proposed "Adopt blended learning — instructor presence supported by technology — for university teaching in place of lecture-only instruction"; tests this page's relationship.
+- [No significant gender difference in performance among undergraduates taught with blended learning](../claims/no-gender-difference-blended-learning-performance.md) [~W] — attached 2026-11-01 from Gambari et al. (2017), which proposed "Adopt blended learning — instructor presence supported by technology — for university teaching in place of lecture-only instruction".
 
 ## Illustrative design instance and observation record
 
@@ -150,6 +152,7 @@ This pattern is scoped to dividing a course between online and in-person work. I
 - [CAI within a blended learning strategy outperforms face-to-face teaching alone for ECG competence acquisition](../claims/blended-cai-beats-face-to-face-ecg.md) [+W]
 - [The supplemental model risks students skipping online work and course overload](../claims/supplemental-model-challenges.md) [~W]
 - [Virtual patients blended with traditional education show moderate positive skills effects versus traditional education alone, with wide uncertainty (pooled SMD=0.60)](../claims/vp-blended-skills-mixed.md) [+W]
+- [Sidak post hoc tests showed blended learning and e-learning each significantly outperformed traditional teaching, but did not differ significantly from each other](../claims/sidak-posthoc-blended-elearning-traditional.md) [+W]
 
 ## Examples
 

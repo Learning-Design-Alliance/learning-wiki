@@ -52,3 +52,4 @@ The CST handbook chapter on 'Building Rural District Capacity for Turnaround', b
 - Smaller districts report an easier procurement process overall, while smaller providers feel procurement inefficiencies more acutely than larger firms — related
 - [Privacy capacity was unevenly distributed, distinguishing resource scarcity from strategic deprioritization of privacy](uneven-privacy-capacity-scarcity-versus-deprioritization.md) — related
 - [Administrators in eight of nine rural SIG schools reported rural-setting factors, chiefly long teacher commutes (six schools) or isolated communities (four), that hampered teacher recruitment or retention](rural-teacher-commutes-hinder-staffing.md) — related
+- [Interventions located in one or up to three geographical areas showed higher primary ITT and FSM effect sizes than interventions spread across more areas](eef-geographical-spread-moderates-effect-sizes.md) — related

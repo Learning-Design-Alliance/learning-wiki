@@ -66,3 +66,4 @@ Table 4 of the student-communication observation prints "Use of scientific terms
 ## Related Claims
 - [The teacher implementing concept cartoons© supported discussion but took over the design of verification procedures, preventing students from attaining answers by their own cognitive activities](concept-cartoons-teacher-implementation-problems.md) — related
 - [Worksheet analysis of three students showed naïve ideas developing from practical verifications of their assumptions, especially in topics new to students](concept-cartoons-worksheets-practical-verification.md) — related
+- [Students' written opinions indicated they enjoyed concept-cartoon lessons, attended more, and came to believe they could understand mathematics](student-opinions-concept-cartoon-lessons.md) — related

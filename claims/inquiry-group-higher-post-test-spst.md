@@ -48,3 +48,5 @@ Mann-Whitney U test comparing post-test SPST scores of the experimental group (m
 - [The control group taught with the traditional approach also improved significantly on scientific process skills from pretest to post-test](control-group-spst-also-improved.md) — related
 - [Inquiry-based instruction significantly improved pre-service science teachers' scientific process skills from pretest to post-test in a university biology laboratory](inquiry-instruction-improved-preservice-spst-pre-post.md) — related
 - [Inquiry-based instruction significantly improved pre-service science teachers' laboratory usage self-efficacy perceptions from pretest to post-test](inquiry-instruction-improved-lusps-pre-post.md) — related
+- [Teaching with FACTs produces significantly better inquiry-skill post-test results than teacher-centred teaching without FACTs in upper-secondary science](facts-improve-inquiry-skills-teacher-centred.md) — related
+- [The experimental group's descriptive pre- and post-test means were higher than the control group's, but the unadjusted difference was not tested](mi-descriptive-pre-post-means.md) — related

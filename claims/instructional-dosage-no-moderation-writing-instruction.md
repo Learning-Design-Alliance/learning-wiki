@@ -50,3 +50,4 @@ Meta-regression of dosage (weeks × sessions per week × session length) on effe
 - [The dose–response relation for K-3 intensive mathematics interventions is linear, with no support for a nonlinear (quadratic) curve](linear-dose-response-early-math-interventions.md) — related
 - [Dosage significantly predicts intervention effects in a linear model (β = 0.03 per hour), but the dosage main effect is no longer significant after controlling for moderators](dosage-slope-nonsignificant-with-moderators.md) — related
 - [Outcome proximity moderates the dose–response relation: distal outcomes outperform proximal outcomes at dosages at or below 5.43 h, while proximal outcomes exceed distal outcomes at or above 22.6 h](proximity-by-dosage-interaction.md) — related
+- [Number of treatment sessions received was not associated with end-of-treatment performance](dosage-not-associated-with-outcomes.md) — related

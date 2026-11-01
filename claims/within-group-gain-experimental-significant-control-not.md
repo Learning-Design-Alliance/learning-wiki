@@ -48,3 +48,4 @@ T-test analysis of pre-test and post-test scores reported in Table 2: experiment
 - [The ADI group showed significant within-group gains on demonstrated scientific literacy from pre- to post-test, while the structured-inquiry group did not](adi-within-group-sla-d-gain-comparison-null.md) — related
 - [Both the GenAI-permitted and control groups improved significantly in instructional design performance and AI readiness over the course, but not in SRL or critical thinking](within-group-gains-design-and-ai-readiness-only.md) — related
 - [Both the graphic-novel and traditional-activity groups improved significantly from pre-test to post-test, with a larger gain in the experimental group](both-groups-significant-pre-post-gains-graphic-novel-larger.md) — related
+- [The VSSPlus experimental group improved significantly from pre-test to post-test on the vocabulary achievement test](vssplus-pre-post-vat-gain.md) — related

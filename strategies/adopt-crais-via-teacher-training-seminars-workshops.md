@@ -47,6 +47,7 @@ The article recommends that mathematics teaching move away from abstract-only in
 
 - [Adopt student-centered innovative learning models and build teacher capacity to implement them in mathematics and statistics](adopt-innovative-models-pd-math-statistics.md)
 - [Engage students in self-learning by providing an array of technology resources, with teacher training through workshops and seminars](self-learning-technology-resources-teacher-training.md)
+- [Provide in-service training equipping mathematics teachers with game- and poem-based teaching skills](in-service-training-games-poems-math-teachers.md)
 
 ## Examples
 -

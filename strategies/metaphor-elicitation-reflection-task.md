@@ -45,7 +45,8 @@ The article recommends asking students to capture and present their thoughts thr
 - [Learners' metaphoric perceptions of online feedback coded into six analogous characteristics describing how online feedback benefited them](../claims/six-analogous-characteristics-online-feedback.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use metaphor-based reflective tasks as a recurring part of language teaching](metaphor-based-reflective-tasks-language-teaching.md)
 
 ## Examples
 -

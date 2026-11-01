@@ -51,3 +51,4 @@ IPD meta-analysis of 48 maths trials (89,247 FSM pupils). The report states "the
 - [Mathematics effects on FSM pupils differed by outcome status: near-zero as primary outcome (0.01) and negative as secondary outcome (-0.07)](fsm-maths-primary-secondary-outcome-split.md) — related
 - [Small group and one-to-one interventions produced larger literacy gains for FSM pupils than whole class or whole school approaches](small-group-one-to-one-literacy-fsm-largest.md) — related
 - The simplified IPD model produced a greater pooled literacy effect size than two-stage meta-analysis models — related
+- [Across 82 EEF RCT evaluations, overall meta-analysis weighted mean effect sizes were small: +0.04 SD for primary ITT, +0.01 SD for secondary ITT, and +0.03 SD for FSM subsample attainment outcomes](eef-trials-small-weighted-mean-effect-sizes.md) — a broader claim this one bears on

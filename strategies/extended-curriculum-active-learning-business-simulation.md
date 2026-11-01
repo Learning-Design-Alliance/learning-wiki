@@ -51,8 +51,10 @@ The article proposes developing additional curriculum activities that use active
 - [Qualitative observations and interviews indicated learners learned to identify and solve problems and experienced the intervention positively](../claims/qualitative-support-for-intervention-experience.md) [+W]
 
 ## Related Strategies
+
 - [Active Learning](../principles/active-learning.md)
 - [Cooperative Learning](cooperative-learning.md)
+- [Train health educators to teach breast health using active learning strategies including simulation, cooperative learning, peer teaching, practice, and discussion groups](train-health-educators-active-learning-strategies-breast-health.md)
 
 ## Examples
 -

@@ -13,7 +13,7 @@ generated:
 # Geometric Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 27 claims (18 show a difference, 7 mixed, 2 no difference) · 20 studies (8 causal, 5 qualitative, 2 quant-synthesis, 2 associational, 2 theoretical, 1 review), `q1`–`q3` · 4 of 20 report an effect size · 27 claims rest on one study
+> **Evidence** · 29 claims (20 show a difference, 7 mixed, 2 no difference) · 21 studies (9 causal, 5 qualitative, 2 quant-synthesis, 2 associational, 2 theoretical, 1 review), `q1`–`q3` · 4 of 21 report an effect size · 29 claims rest on one study
 
 ## Description
 Geometric reasoning is the abstract thinking used to define shapes, analyse their properties and relationships, and argue about them; in the secondary grades it extends to formalising those arguments as written proofs. The Learner Variability Navigator notes that geometric knowledge gives concrete representations and models for abstract mathematical ideas, which can serve as an entry point to higher-order mathematical thinking. It is assessed with short geometry tasks that ask learners to explain their reasoning in writing or diagrams, which also reveal misconceptions, and with the geometry subtests of diagnostic batteries.
@@ -64,6 +64,8 @@ LVN follows it from grade 3 to grade 10. It is distinct from, but draws on, [spa
 - [Relational-understanding technologies show the most divergent effects (.09 to 1.02), moderated by grade level, duration, and mathematics subject matter](../claims/relational-technology-divergent-effects-subject-matter.md) [~M] — instruction changes it
 - [Year 4 pupils taught two-dimensional shape properties with Logo outperformed a traditionally taught control group on the post-test](../claims/logo-posttest-outperformed-control-2d-shapes.md) [+M] — instruction changes it
 - [Students taught with MEAC produced work showing understanding of line and angle concepts, including manipulating figures to determine angles](../claims/meac-student-work-line-angle-understanding.md) [+W] — instruction changes it
+- [Media scaffolding helped students investigate geometry properties, form mental concrete shapes, and complete geometry tasks](../claims/media-scaffolding-three-helps-geometry.md) [+W] — instruction changes it
+- [Media scaffolding increases fifth-grade students' understanding of geometry concepts more effectively than no media scaffolding](../claims/media-scaffolding-effective-geometry-concepts.md) [+W] — instruction changes it
 
 ## Measures
 - **Geometry Tasks with Explanation** (e.g., Carroll, 1998): Short geometry tasks that elicit reasoning and argumentation through writing, diagrams, and other representations can be used to assess students' understanding and misconceptions of basic geometric properties while giving insight into students' thinking.

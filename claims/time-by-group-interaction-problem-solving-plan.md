@@ -79,3 +79,4 @@ The interaction is described as disordinal and strongest for females who receive
 - [Six weeks of adaptive training produced a significant improvement in subtraction relative to a waiting control group](calcularis-training-significant-subtraction-gains.md) — related
 - [HPL students learned as much as Scratch students, with equivalent improvement in both conditions](hpl-equivalent-learning-outcomes-scratch.md) — related
 - [Multivariate ANOVAs showed a significant time-of-measurement by condition interaction on fractions scores in both countries](multivariate-interaction-combination-effect.md) — related
+- [Music group students' mathematics process ability (model, strategy, application) improved significantly across the intervention, with large effect sizes](music-math-process-ability-gains-time-series.md) — related

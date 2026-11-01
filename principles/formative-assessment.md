@@ -44,7 +44,7 @@ sources:
 # Formative Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 42 claims (26 for, 16 mixed) · 53 studies (13 quant-synthesis, 13 review, 12 causal, 5 associational, 5 theoretical, 3 design, 2 qualitative), `q1`–`q4` · 16 of 53 report an effect size · 30 claims rest on one study
+> **Evidence** · 43 claims (27 for, 16 mixed) · 54 studies (13 causal, 13 quant-synthesis, 13 review, 5 associational, 5 theoretical, 3 design, 2 qualitative), `q1`–`q4` · 16 of 54 report an effect size · 31 claims rest on one study
 
 ## Description
 
@@ -133,6 +133,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Students rank understanding-checks, problem identification and interactivity as the top benefits of EVS use, with fun ranked last](../claims/evs-benefit-ranking-feedback-top.md) [+W] — attached 2026-10-29 from Samuel O. King et al. (2008), which proposed "Use EVS primarily in formative-assessment mode so instant feedback empowers students and informs lecturers' pedagogical adjustments".
 - [Students who used EVS only for summative assessment reported lower learning benefits and higher challenges than students who used it formatively or in combination](../claims/evs-summative-use-negative-impact.md) [+W] — attached 2026-10-30 from Marija Cubric et al. (2015), which proposed "Focus on the formative benefits of EVS rather than summative use to gain the promised rewards of the technology"; tests this page's relationship.
 - [Proposed course is the only compared course with individualized expert feedback on assignments](../claims/proposed-course-only-individualized-expert-feedback.md) [+W] — attached 2026-10-31 from El Ansari Walid et al. (2025), which proposed "Provide individualized expert feedback on assignments in online research training".
+- [Teaching with FACTs produces significantly better inquiry-skill post-test results than teacher-centred teaching without FACTs in upper-secondary science](../claims/facts-improve-inquiry-skills-teacher-centred.md) [+W] — attached 2026-11-01 from Mária Ganajová et al. (2021), which proposed "Include formative assessment in teacher training and provide systemic support for FA implementation".
 
 ## Source verification and open tests
 

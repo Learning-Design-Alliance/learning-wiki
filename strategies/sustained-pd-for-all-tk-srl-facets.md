@@ -50,6 +50,7 @@ The review recommends that teacher education and professional development explic
 ## Related Strategies
 
 - [Professional development programs should prioritize strengthening teachers' reflective and goal-setting skills](pd-prioritize-teacher-reflection-and-goal-setting.md)
+- [Provide prolonged, sustained professional development so in-service teachers can deliver digital game-based learning effectively](sustained-professional-development-for-dgbl-teachers.md)
 
 ## Examples
 -

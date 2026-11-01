@@ -13,7 +13,7 @@ generated:
 # Formative Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (7 for, 2 mixed) · 15 studies (6 review, 5 quant-synthesis, 2 qualitative, 1 causal, 1 theoretical), `q1`–`q4` · 5 of 15 report an effect size · 4 claims rest on one study
+> **Evidence** · 10 claims (8 for, 2 mixed) · 16 studies (6 review, 5 quant-synthesis, 2 causal, 2 qualitative, 1 theoretical), `q1`–`q4` · 5 of 16 report an effect size · 5 claims rest on one study
 
 ## Description
 Formative assessment is the ongoing, low-stakes gathering of evidence about learner understanding, used to provide feedback to learners and to adjust instruction in real time. Its defining feature is not the instrument (quiz, discussion, draft) but the *use* of the information: assessment becomes formative only when it changes what happens next for the learner or the teacher.
@@ -56,6 +56,7 @@ Formative assessment closes the gap between current and desired performance by m
 - [Students want ongoing targeted formative feedback, but faculty time constraints and large class sizes limit providing it](../claims/formative-feedback-constraints-gateway-math.md) [~W]
 - [Teacher and student feedback indicates LLM-based formative assessment can reduce grading burden, surface misconceptions, and build student trust without replacing teacher judgment](../claims/stakeholder-feedback-llm-formative-assessment.md) [+W]
 - [Assessment and feedback strategies enable constructive ongoing feedback to improve learning and academic growth](../claims/assessment-feedback-strategies-improve-learning.md) [+W]
+- [Teaching with FACTs produces significantly better inquiry-skill post-test results than teacher-centred teaching without FACTs in upper-secondary science](../claims/facts-improve-inquiry-skills-teacher-centred.md) [+M] — attached 2026-11-01 from Mária Ganajová et al. (2021), which proposed "Database of formative assessment classroom techniques (FACTs) for science subjects"; tests this page's relationship.
 
 ## The evidence by question
 - *Does using assessment evidence during instruction raise achievement compared with the usual teaching?* [Assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md) [+S]

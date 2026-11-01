@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 384 claims (219 show a difference, 88 mixed, 77 no difference) · 254 studies (150 associational, 50 causal, 19 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 45 of 254 report an effect size · 376 claims rest on one study
+> **Evidence** · 394 claims (222 show a difference, 88 mixed, 84 no difference) · 261 studies (150 associational, 57 causal, 19 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 45 of 261 report an effect size · 386 claims rest on one study
 
 ## How to read this page
 
@@ -423,6 +423,16 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [No significant gender difference in Arabic oral skills gains when both groups are taught with VTM or traditional methods](../claims/vtm-arabic-oral-skills-no-gender-effect.md) [-M] — an instructional effect differs by group
 - [No significant interaction between teaching method and gender on Arabic oral skills achievement](../claims/vtm-method-gender-interaction-null.md) [-M] — an instructional effect differs by group
 - [No statistically significant group-by-gender interaction on science achievement](../claims/tps-no-group-gender-interaction.md) [-W] — an instructional effect differs by group
+- [Everyday Mathematics effects do not reliably differ by student sex, race, FRPL status, or baseline pretest in the scale-up trial](../claims/em-no-subgroup-effects-sex-race-frpl-pretest.md) [-M] — an instructional effect differs by group
+- [Gender shows no significant difference in inferring word meanings between experimental and control groups](../claims/no-gender-difference-inferring-word-meanings.md) [-M] — an instructional effect differs by group
+- [Gender shows no significant difference in reading comprehension achievement between experimental and control groups in the Ekiti quasi-experiment](../claims/no-gender-difference-reading-comprehension-ekiti.md) [-M] — an instructional effect differs by group
+- [Male and female students show different tendencies in which media scaffolding they use](../claims/gender-tendencies-media-scaffolding-choice.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Male and female students taught Igbo language reading comprehension with the cloze approach do not differ significantly in achievement](../claims/cloze-approach-no-gender-difference-igbo-reading.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [No significant gender difference in performance among undergraduates exposed to e-learning](../claims/no-gender-difference-elearning-performance.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [No significant gender difference in performance among undergraduates taught with blended learning](../claims/no-gender-difference-blended-learning-performance.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Performance-assessment-driven instruction produced significantly higher post-test mathematics achievement for female senior high school students than traditional instruction](../claims/pa-driven-instruction-improves-female-math-achievement.md) [+M] — an instructional effect differs by group
+- [The ELL ELA gain is driven mainly by fifth-grade female ELL students (β = .342, p<.001)](../claims/ic-ell-fifth-grade-female-drivers.md) [+M] — an instructional effect differs by group
+- [Treatment method significantly affected reading comprehension achievement and was not sex-biased](../claims/treatment-effect-significant-not-sex-biased.md) [-M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

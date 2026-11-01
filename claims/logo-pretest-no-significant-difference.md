@@ -50,3 +50,4 @@ Independent samples t-test on pre-test scores in the quasi-experiment: experimen
 - [Experimental and control groups were academically equivalent on the organic chemistry achievement test before the treatment](pre-test-equivalence-organic-chemistry-analogy-study.md) — related
 - [Before treatment, the CBI and FII groups showed no significant difference in mathematics achievement](cbi-fii-pretest-equivalence.md) — related
 - [Experimental and control pupils showed equivalent reading ability at pre-test](prior-knowledge-questions-pretest-equivalence.md) — related
+- [The lecture and academic controversy groups showed no significant difference in TUCE pretest scores, indicating equivalent prior economic knowledge](tuce-pretest-equivalence-controversy-lecture.md) — related

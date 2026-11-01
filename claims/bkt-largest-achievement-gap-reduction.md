@@ -63,3 +63,4 @@ Descriptive gap analysis in the N=113 study defining the test gap as the differe
 - [Teacher-judged logical reasoning combined with prior knowledge to predict learning only under the control condition; scaffolding almost fully diminished the disadvantage of lower logical reasoning](scaffolds-diminish-logical-reasoning-disadvantage.md) — related
 - [Low Prior Knowledge students achieved significantly higher normalized learning gains than High Prior Knowledge students](lpk-normalized-gain-exceeds-hpk.md) — related
 - [BKT adaptivity in a mixed-reality Intelligent Science Station improves children's post-test learning of scientific principles compared to random task selection](bkt-adaptivity-mixed-reality-improves-science-learning.md) — related
+- [Descriptive results suggest the gap between high-achieving and low-achieving students narrowed during the music-mathematics intervention](music-math-intervention-reduced-achievement-gap.md) — related

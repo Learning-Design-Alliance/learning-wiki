@@ -73,3 +73,4 @@ Paired-samples t-tests within each condition in the RQ1.1 analysis of the random
 - [Students show large immediate pre-to-post knowledge gains within a single LLM-supported learning session](large-immediate-gains-llm-supported-session.md) — related
 - [Learning gains from ChatGPT-generated hints were not statistically significantly different from human tutor-authored hints, though ChatGPT gains were numerically higher in all subjects](chatgpt-gains-equivalent-human-tutor-hints.md) — related
 - [Post-test mathematics performance was significantly lower than pre-test after AI-tutor use](post-test-decline-after-ai-tutor-session.md) — related
+- [For the sample as a whole, elaborative feedback and knowledge of response feedback showed no significant difference in enhancing online L2 reading comprehension](no-overall-difference-elaborative-vs-kor-feedback-l2-reading.md) — related

@@ -73,3 +73,4 @@ Paired t-tests on RC MICS pre- and post-scores: VNT t = -5.45, p = .000; NT t = 
 - [Co-constructing visual-textual representations without timeline integration did not significantly raise post-test scores over textual representations](visual-textual-no-significant-gain-over-text.md) — related
 - [Oral presentation performance improved significantly over time, but only control-group students showed statistically significant growth between the two presentations](performance-growth-over-time-only-control-significant.md) — related
 - [Neither time nor the condition-by-time interaction significantly affected goal attainment over the five-week intervention](no-time-or-interaction-effect-goal-attainment.md) — related
+- [A no-instruction control group showed no knowledge change over the six-week period, ruling out testing and external influences](control-group-no-knowledge-change-six-weeks.md) — related

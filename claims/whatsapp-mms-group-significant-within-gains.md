@@ -46,5 +46,4 @@ Paired-samples t-test within the experimental group receiving weekly WhatsApp MM
 
 ## Related Claims
 - [Learners taught 40 figurative idioms via WhatsApp MMS messages scored significantly higher on the posttest than learners taught with traditional paper-based activities](whatsapp-mms-idiom-instruction-outperforms-paper-activities.md) — related
-- [The two groups did not differ significantly in idiom knowledge at pretest](no-pretest-difference-between-idiom-groups.md) — related
-- [Before treatment, the two groups showed no significant difference in idiom knowledge](idiom-drawing-groups-homogeneous-pretest.md) — related
+- [The two groups did not differ significantly in idiom knowledge at pretest](idiom-drawing-groups-homogeneous-pretest.md) — related

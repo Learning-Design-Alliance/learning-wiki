@@ -59,9 +59,11 @@ Prewriting reduces cognitive load during drafting by offloading idea generation 
 5. Draft from the plan, then return to it during revision; treat the plan as revisable, not a contract.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — builds the content base that prewriting organizes
 - [Collaborative Writing](../strategies/collaborative-writing.md) — prewriting is often the most productive phase for group work [Collaborative writing improves text quality.](../claims/collaborative-writing-improves-text-quality.md) [+M]
 - [Graphic Organizers](../strategies/graphic-organizers.md) — the most common prewriting tool format
+- [Combine depicting and outlining in sequence: depict first to trigger ideas, then outline to organize them](depict-then-outline-combination-strategy.md)
 
 ## Examples
 - **Writing Next recommendations** — Graham & Perin (2007) identify prewriting among eleven elements of effective adolescent writing instruction, with an effect size of d ≈ 0.32 when taught explicitly and paired with modeling.

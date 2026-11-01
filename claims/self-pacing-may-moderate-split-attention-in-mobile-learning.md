@@ -48,3 +48,4 @@ Authors' interpretation (discussion), citing prior work showing cognitive load e
 - [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — related
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
 - [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — related
+- [Students' science skills and experience being matched to the instruction level explains why ILL-3 was most effective](matching-inquiry-level-to-student-competence.md) — related

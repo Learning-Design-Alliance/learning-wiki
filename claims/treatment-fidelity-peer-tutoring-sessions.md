@@ -54,3 +54,5 @@ Treatment fidelity check on peer tutoring sessions: the first and fourth authors
 - [Adding reciprocal peer tutoring with audio prompting to incidental exposure produced stronger vocabulary gains than incidental exposure alone for fourth-grade struggling readers](peer-tutoring-audio-prompting-vocabulary-gains.md) — related
 - [Most ERWC teachers completed required professional learning (82-99 percent), but only 0-3 percent taught the curriculum with fidelity across the three study years](erwc-high-pd-fidelity-low-curriculum-fidelity.md) — related
 - [School-based facilitators implemented TSG sessions with high mean fidelity (88%) but varied more than expert facilitators](tsg-school-facilitator-fidelity-88-percent-variable.md) — related
+- [Minimally trained, non-education-major college tutors implemented the structured program with high fidelity (average 96.3%)](minimally-trained-tutors-high-fidelity.md) — related
+- [Teachers implemented some PACT components at medium-high fidelity but struggled with knowledge acquisition and team-based application components](pact-fidelity-component-variation.md) — related

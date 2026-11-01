@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 164 claims (109 show a difference, 37 mixed, 18 no difference) · 121 studies (42 review, 26 associational, 21 causal, 15 quant-synthesis, 8 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 33 of 121 report an effect size · 160 claims rest on one study
+> **Evidence** · 165 claims (110 show a difference, 37 mixed, 18 no difference) · 122 studies (42 review, 26 associational, 22 causal, 15 quant-synthesis, 8 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 33 of 122 report an effect size · 161 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -205,6 +205,7 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [In an RCT, CareerWISE treatment participants showed a statistically better ability to apply interpersonal problem solving knowledge to an open-ended scenario than wait-list controls](../claims/careerwise-rct-scenario-application.md) [+M] — instruction changes it
 - [In an RCT, women STEM doctoral students who used CareerWISE showed greater knowledge of interpersonal problem solving steps than wait-list controls](../claims/careerwise-rct-treatment-steps-knowledge.md) [+M] — instruction changes it
 - [Time-varying (within-dyad) congruent communication does not moderate the CBC effect on teacher-reported social skills](../claims/time-varying-congruence-no-moderation.md) [-M] — an instructional effect differs with it
+- [During the cooperative learning program, students developed social and group-work skills, with high performers guiding teammates and low performers succeeding with peer help](../claims/cooperative-program-social-skill-development-observation.md) [+W] — instruction changes it
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 341 claims (225 show a difference, 83 mixed, 33 no difference) · 247 studies (90 associational, 71 causal, 40 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 67 of 247 report an effect size · 329 claims rest on one study
+> **Evidence** · 343 claims (227 show a difference, 83 mixed, 33 no difference) · 249 studies (90 associational, 73 causal, 40 review, 16 theoretical, 14 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 68 of 249 report an effect size · 331 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -391,6 +391,8 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Autonomous or intrinsic motivation is positively associated with academic performance, while controlled or extrinsic motivation shows minimal or negative associations](../claims/autonomous-motivation-positive-controlled-motivation-not.md) [~M] — learners who differ on it differ in outcomes
 - [All studies measuring student engagement reported higher engagement when TBL was used in clinical disciplines](../claims/tbl-clinical-higher-student-engagement.md) [+M] — instruction changes it
 - [Growth mindset moderates the relationship between time since last NRP course and performance in an e-learning simulation game](../claims/growth-mindset-moderates-nrp-simulation-performance.md) [~M] — an instructional effect differs with it
+- [Instructional strategy has a significant main effect on primary students’ posttest interest in mathematics](../claims/instructional-strategy-main-effect-interest-mathematics.md) [+M] — instruction changes it
+- [Students with high achiever motivation obtain significantly better cognitive study outcomes than students with low achiever motivation](../claims/high-achiever-motivation-better-cognitive-outcomes.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

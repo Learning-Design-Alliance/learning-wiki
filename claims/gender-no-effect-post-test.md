@@ -51,3 +51,4 @@ Two-way between-groups ANOVA on post-test scores with gender and condition; "no 
 - [Gender and baseline performance show no significant main effects or interactions with time on long-term training aftereffects, though descriptively the sustainability of effects was higher in the male group](gender-baseline-no-significant-moderation.md) — related
 - [The nap effect on encoding is consistent across male and female students, with a significant main effect of group](nap-effect-consistent-across-sexes.md) — related
 - [Exam effects on unrelated graphical memory show no gender differences](exam-ltm-effects-no-gender-differences.md) — related
+- [Gender was not a determining factor in FACT efficacy, although only males showed a significant pre-to-post gain](gender-not-determining-factor-facts.md) — related
