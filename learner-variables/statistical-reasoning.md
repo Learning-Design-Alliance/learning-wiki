@@ -13,7 +13,7 @@ generated:
 # Statistical Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 30 claims (23 show a difference, 5 mixed, 2 no difference) · 15 studies (8 causal, 3 review, 1 quant-synthesis, 1 associational, 1 qualitative, 1 design), `q2`–`q3` · 2 of 15 report an effect size · 30 claims rest on one study
+> **Evidence** · 31 claims (24 show a difference, 5 mixed, 2 no difference) · 16 studies (9 causal, 3 review, 1 quant-synthesis, 1 associational, 1 qualitative, 1 design), `q2`–`q3` · 2 of 16 report an effect size · 31 claims rest on one study
 
 ## Description
 Statistical reasoning is thinking about uncertainty and building mental models of real-world phenomena from data. The Learner Variability Navigator describes it as a cycle: learners pose a question about data, decide what data they need, gather it, organise, analyse and display it, and then describe what it shows and draw inferences to answer the question. It is assessed with questionnaires on understanding of variation (in chance settings such as dice, and in data and graphs) that pair multiple-choice items with written explanations, and with the data-analysis and probability subtests of diagnostic batteries.
@@ -68,6 +68,7 @@ LVN follows it from grade 3 to grade 10. It builds on [measurement](measurement.
 - [Form Four students taught statistical reasoning with Fathom outperformed control-group students on posttest statistical reasoning scores after controlling for pretest](../claims/fathom-instruction-improves-statistical-reasoning-form-four.md) [+M] — instruction changes it
 - [The pretest covariate showed no significant effect on posttest statistical reasoning scores in the ANCOVA model](../claims/pretest-covariate-nonsignificant-fathom-ancova.md) [-M] — learners who differ on it differ in outcomes
 - [The tablet e-textbook experimental group significantly outperformed the traditionally taught control group on the post-test](../claims/tablet-etextbook-outperformed-traditional-posttest.md) [+M] — instruction changes it
+- [Pretest scores significantly predicted posttest scores, supporting the pretest as an ANCOVA covariate in this study](../claims/pretest-covariate-significant-ancova-games-study.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Statistical Variation Measure** (Watson et al., 2003): Questionnaire examining student understanding of statistical variation, including understanding of basic chance measurement and graph reading, variation in a chance setting (e.g., results of throwing a die), and variation in data and graphs. Students respond to multiple choice questions but also have space to explain their responses which allows for a more comprehensive measure of their understanding.

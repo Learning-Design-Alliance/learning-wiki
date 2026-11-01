@@ -45,6 +45,7 @@ In its conclusions the article states that "a solid commitment from administrato
 
 - [Policy strategies to personalize learning: competency-based progressions, phased implementation, networks, and interoperability](policy-strategies-competency-networks-interoperability.md)
 - [Provide virtual and on-site professional learning on the digital platform and grade-specific curriculum training](twig-science-professional-learning-strategy.md)
+- [Implement classroom videogame interventions with teacher training, curriculum alignment, extended schedules, and administrative support](videogame-classroom-implementation-recommendations.md)
 
 ## Examples
 -

@@ -47,3 +47,5 @@ Ten-item motivation questionnaire (modified from Keller's Course Interest Survey
 ## Related Claims
 - [In a Thai university EFL course, students revising with Kahoot achieved higher adjusted post-test grammar and vocabulary scores than students revising with paper quizzes](kahoot-higher-posttest-performance-than-paper-quizzes.md) — related
 - [Experimental-group students expressed positive attitudes toward gamification, accepting the technique at a high level overall](positive-student-attitudes-toward-kahoot-gamification.md) — related
+- [The authors observed higher engagement, enthusiasm, and peer study-group use in the Kahoot group than in the control group](kahoot-engagement-peer-study-groups-observed.md) — related
+- [Students who used Kahoot no-stakes quizzes scored significantly higher on a high-stakes multiple-choice exam than students who received lecture and discussion only](kahoot-testing-effect-higher-exam-scores.md) — related

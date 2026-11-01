@@ -86,3 +86,4 @@ The commentary reports survey data attributed to Agarwal et al. (2014), presente
 - [Retrieval-based learning research emphasizes both direct and indirect effects of retrieval on learning](retrieval-based-learning-direct-indirect-effects.md) — related
 - [Retrieval practice has been implemented and studied in authentic middle school classrooms, with general recommendations for applied research](retrieval-practice-implementation-middle-school-classrooms.md) — a broader claim this one bears on
 - [Students and teachers expressed predominantly positive opinions about the guides and activities, with time pressure the main teacher criticism](positive-student-teacher-opinions-design.md) — related
+- [Students in the experimental group reported that Kahoot quizzes helped, were fun, and left them feeling positive about exam preparation](kahoot-fun-engaging-positive-experience.md) — related

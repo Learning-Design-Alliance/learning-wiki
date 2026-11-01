@@ -65,3 +65,4 @@ This is a genuine, well-instrumented quasi-experiment with interrater reliabilit
 - [Teachers who completed a scaffolding intervention program increased the contingency of their support far more than non-participating teachers](scaffolding-intervention-increases-teacher-contingency.md) — related
 - [In ABSI-taught lessons, student turn-taking frequency is high (71%) while in conventionally taught lessons it is low (14%), with the teacher dominant in the control group](absi-raises-student-dialogue-share.md) — related
 - [The authors conclude ABSI is one of the practices aiming to increase students' success and motivate participation in in-class dialogues](absi-conclusion-success-practice.md) — related
+- [Group work and discussion in the flipped classroom provided immediate feedback and supported shy students' participation, per the authors' observations](group-work-immediate-feedback-shy-students.md) — related

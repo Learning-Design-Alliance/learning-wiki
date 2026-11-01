@@ -48,3 +48,4 @@ Quasi-experimental pretest-posttest non-equivalent control group study; 70 treat
 - [SSII students taught trigonometry with concept mapping or cooperative learning achieved significantly higher post-test scores than students taught with conventional methods](concept-mapping-cooperative-learning-beat-conventional-trigonometry.md) — related
 - [No significant difference in achievement between male and female students taught basic science with concept mapping](no-gender-difference-concept-mapping-achievement.md) — related
 - [No significant interaction between gender and instructional method on basic science achievement](no-gender-method-interaction-basic-science.md) — related
+- [Concept mapping teaching produced significantly higher biology achievement than lecture method among Nigerian Senior Secondary II students](concept-mapping-beats-lecture-biology-achievement.md) — related

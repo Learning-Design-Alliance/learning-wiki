@@ -71,3 +71,4 @@ Findings on artifact-mediated interaction; learners expected interfaces encompas
 - [Immersive media environments enable higher visual and behavioral realism of pedagogical agents than non-immersive formats](xr-higher-agent-realism-than-non-immersive.md) — related
 - [Measures of presence, enjoyment, entitativity, and realism increased over a 10-week networked-VR course, suggesting XRCL advantages may grow as participants adapt](xrcl-advantages-increase-with-adaptation.md) — related
 - [Digital learning platforms and virtual learning environments enhance knowledge retention and flexibility in orthodontic education](digital-platforms-enhance-orthodontic-knowledge-retention.md) — related
+- [The authors attribute the blended group's advantage to enhanced interaction, flexibility, and opportunities for continuous improvement](blended-advantage-attributed-interaction-flexibility.md) — related

@@ -50,3 +50,4 @@ Within-group pre-post comparison for the experimental group (n=36) taught throug
 - [Retention of IUPAC nomenclature learning was significantly better for the e-content group than the control group](e-content-retention-advantage-iupac-nomenclature.md) — related
 - [The control group showed no significant pre-test to post-test difference under conventional teaching](conventional-method-control-group-no-gain.md) — related
 - [Post-test means favoured the prior knowledge questions group over the control group](prior-knowledge-questions-posttest-means.md) — related
+- [Both groups improved significantly on the achievement test from pre-test to post-test, with the experimental group reaching a much higher post-test mean](jigsaw-iv-within-group-achievement-gains.md) — related

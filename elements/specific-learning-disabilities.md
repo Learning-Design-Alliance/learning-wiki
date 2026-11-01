@@ -13,7 +13,7 @@ generated:
 # Specific Learning Disabilities
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 9 claims (3 for, 6 mixed) · 10 studies (6 associational, 2 review, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 2 of 10 report an effect size · 8 claims rest on one study
+> **Evidence** · 10 claims (3 for, 7 mixed) · 11 studies (6 associational, 2 review, 1 causal, 1 quant-synthesis, 1 qualitative), `q1`–`q3` · 2 of 11 report an effect size · 9 claims rest on one study
 
 ## Description
 A **learning disability (LD)** is a specific impairment of academic learning that interferes significantly with one particular aspect of schoolwork — reading, writing, listening, speaking, or math — without necessarily affecting the others. By definition, an LD is diagnosed only after other explanations are ruled out: it is not an LD if the difficulty stems from a physical, sensory, or motor impairment, from a general intellectual impairment, or from the ordinary challenges of learning English as a second language. A genuine LD is also one that ordinary teaching effort hasn't resolved, though what counts as "ordinary effort" varies across teachers, schools, and students. LDs are by far the most common special-education category, accounting for roughly half of all students receiving special-education services and an estimated 5-20% of all students overall (U.S. Department of Education, 2005; Ysseldyke & Bielinski, 2002) — common enough that most teachers encounter at least one affected student every year regardless of grade level.
@@ -55,6 +55,7 @@ Because a specific learning disability affects one narrow academic area rather t
 - [Multidigit skills deficits differentiate number difficulty groups more clearly than single digit processing or domain-general deficits](../claims/multidigit-deficits-differentiate-groups.md) [~W]
 - [Federal disability law excludes children disadvantaged by environmental, cultural or economic factors from dyslexia diagnosis, which the authors say encourages attributing poor reading to poverty](../claims/idea-disadvantage-exclusion-dyslexia-diagnosis.md) [~W]
 - [Dyslexia is associated with dynamic white matter differences that the review interprets as delayed rather than altered development](../claims/dyslexia-white-matter-delayed-development.md) [~W]
+- [Students with LD show higher verbal skills, processing speed and counting skills than students with MID, but the groups do not differ in working memory, phonological short-term memory or knowledge of properties of operations](../claims/ld-mid-cognitive-profile-differences.md) [~W]
 
 ## Related Elements
 

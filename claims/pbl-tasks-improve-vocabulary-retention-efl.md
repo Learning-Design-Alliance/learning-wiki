@@ -51,3 +51,5 @@ Delayed posttest comparison after a two-week interval: experimental group (M=19.
 ## Related Claims
 - [Authentic problem-based vocabulary tasks improve immediate vocabulary recall of intermediate Iranian EFL learners compared with conventional input-based tasks](pbl-tasks-improve-vocabulary-recall-efl.md) — related
 - [Multimedia glosses improve EFL students' vocabulary retention two weeks after treatment relative to no glosses](multimedia-glosses-improve-efl-vocabulary-retention.md) — related
+- [The authors interpret the PBL group's better retention of later-module (harder) items as evidence that authentic learning environments aid difficult vocabulary](pbl-authentic-environment-difficult-words-interpretation.md) — related
+- [PBL-taught learners showed significantly higher vocabulary retention on delayed post-tests in all modules except module 3](pbl-improves-efl-vocabulary-retention.md) — a narrower finding that bears on this claim

@@ -77,3 +77,4 @@ The review reports, citing Stieger et al. (2020a, b), a two-week digital coachin
 - [Cognitive training gains are maintained or further enhanced at two-month follow-up](act-cognitive-gains-sustained-follow-up.md) — a narrower finding that bears on this claim
 - Longitudinal program evaluation strategies were described in only three studies — related
 - [Digital interventions show sustained improvements in performance and retention, with confidence and diagnostic ability remaining elevated four months post-intervention in some studies](digital-learning-knowledge-retention-four-months.md) — a narrower finding that bears on this claim
+- [The training effect on academic procrastination persisted at a four-week follow-up](cbt-procrastination-effect-persisted-follow-up.md) — related

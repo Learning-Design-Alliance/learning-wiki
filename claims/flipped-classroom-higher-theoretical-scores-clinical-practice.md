@@ -51,3 +51,4 @@ Meta-analysis of 18 RCTs (1,460 participants) using random effect models due to 
 - [Flipped classroom significantly improves theoretical exam scores over lecture-based learning in Chinese undergraduate preventive medicine courses (pooled SMD 0.99)](fc-theoretical-exam-smd-099-preventive-medicine.md) — related
 - Included RCTs of flipped classrooms in Chinese clinical practice show high risk of methodological bias — related
 - [PBL teaching yields higher knowledge scores than traditional teaching in orthopaedics education](pbl-higher-knowledge-scores-orthopaedics.md) — related
+- [Flipped classroom combined with active-learning activities yields higher pooled exam scores than flipped classroom with minimal discussion in introductory A&P](flipped-active-learning-higher-pooled-exam-scores-ap.md) — related

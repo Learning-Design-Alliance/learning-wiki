@@ -58,6 +58,7 @@ The review recommends deploying virtual patients where they show the greatest be
 - [Simulation Based Training](simulation-based-training.md)
 - [Position immersive technologies and virtual patients as supplementary components within blended learning rather than stand-alone replacements for established clinical communication training](immersive-tech-adjunctive-blended-not-replacement.md)
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
+- [Use IBL material prior to traditional lecture to reduce lecture time and increase learner satisfaction](ibl-prior-to-lecture-reduced-time-strategy.md)
 
 ## Examples
 -

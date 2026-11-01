@@ -46,7 +46,8 @@ The authors recommend adopting the make a match learning model for geography ins
 - [Students report games make the classroom atmosphere fun and increase participation](../claims/games-fun-atmosphere-participation.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Adopt GIS-based teaching as an innovative method Geography teachers can use to stimulate mastery goal adoption, noting it does not require high-level technical skills](gis-teaching-geography-teachers-strategy.md)
 
 ## Examples
 -

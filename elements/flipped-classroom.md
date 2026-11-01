@@ -13,7 +13,7 @@ generated:
 # Flipped Classroom
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 26 claims (12 for, 13 mixed, 1 against) · 16 studies (10 quant-synthesis, 3 review, 2 causal, 1 design), `q1`–`q4` · 7 of 16 report an effect size · 25 claims rest on one study
+> **Evidence** · 31 claims (15 for, 15 mixed, 1 against) · 17 studies (10 quant-synthesis, 3 causal, 3 review, 1 design), `q1`–`q4` · 7 of 17 report an effect size · 30 claims rest on one study
 
 ## Description
 Flipped classroom is the element in which initial content exposure happens before class so in-class time can focus on application and feedback.
@@ -50,6 +50,11 @@ Flipped classroom is the element in which initial content exposure happens befor
 - [Study results are highly heterogeneous across flipped classroom studies (I2 = 75.6%)](../claims/flipped-classroom-studies-high-heterogeneity.md) [~W]
 - [Flipped classrooms produce a small significant improvement in student learning over traditional classrooms in health professions education (SMD = 0.33)](../claims/flipped-classroom-small-significant-advantage-health-professions.md) [+W]
 - [About 70% of surveyed students prefer flipped to traditional classrooms](../claims/students-prefer-flipped-classroom-survey.md) [+W]
+- [Most students said they would prefer to use the flipped classroom method as future teachers](../claims/flipped-classroom-future-teacher-preference.md) [+W]
+- [Flipped classroom instruction produced higher achievement posttest scores than traditional instruction in an instructional technologies course for pre-service mathematics teachers](../claims/flipped-classroom-higher-achievement-preservice-math.md) [+W]
+- [Flipped classroom instruction produced higher instructional material motivation scores than traditional instruction](../claims/flipped-classroom-higher-motivation-imms.md) [+W]
+- [Flipped and traditional instruction did not differ in students' technological perception scores](../claims/flipped-classroom-no-technological-perception-difference.md) [~W]
+- [Flipped and traditional groups did not differ in basic technology competencies](../claims/flipped-classroom-no-technology-competency-difference.md) [~W]
 
 ## Related Elements
 - [Pre-Class Preparation](pre-class-preparation.md)

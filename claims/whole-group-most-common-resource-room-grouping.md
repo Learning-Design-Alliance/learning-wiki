@@ -48,3 +48,4 @@ Observation results across 10 resource classrooms with class sizes ranging from 
 - [Teachers and students in elementary resource rooms remained on task during reading instruction, with overall student engagement averaging 2.76 on a 3-point scale](resource-room-reading-instruction-on-task-engagement.md) — related
 - [A later review reports that a 1997 New York City report found lower reading achievement after resource room group sizes rose from 5 to at most 8 students per teacher](gottlieb-1997-group-size-increase-lowered-reading-scores.md) — related
 - [RM-CC5 treatment teachers shifted toward one-on-one instruction with individual students, while control teachers led more whole-group and small-group instruction](rm-cc5-teacher-role-shift-one-on-one.md) — related
+- [Treatment teachers provided more opportunities for student pairs to collaborate than control teachers](treatment-more-student-pair-collaboration.md) — related

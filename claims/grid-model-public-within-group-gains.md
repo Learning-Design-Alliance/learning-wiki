@@ -55,3 +55,4 @@ Dependent-sample t-tests for experimental group I (n = 19 per Table 7, Sd = 18):
 - [Grid Model-based science curriculum raises 4th graders' internal goal orientation post-test scores relative to the general curriculum](grid-model-raises-internal-goal-orientation.md) — a broader claim this one bears on
 - [Grid Model curriculum raises self-efficacy post-test scores of public-school students relative to controls](grid-model-raises-self-efficacy-public-schools.md) — related
 - [Grid Model curriculum raises task value post-test scores of public-school students relative to controls](grid-model-raises-task-value-public-schools.md) — related
+- [Mind-map task planning raises pre-service teachers' intrinsic goal orientation and self-efficacy more than direct task completion](mind-map-planning-raises-goal-orientation-self-efficacy.md) — related

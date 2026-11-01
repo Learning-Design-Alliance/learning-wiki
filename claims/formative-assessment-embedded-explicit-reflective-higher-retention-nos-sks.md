@@ -79,3 +79,4 @@ Independent samples t-test on retention-test SKS scores administered after four 
 - [A no-instruction control group showed no knowledge change over the six-week period, ruling out testing and external influences](control-group-no-knowledge-change-six-weeks.md) — related
 - [The experimental group's descriptive pre- and post-test means were higher than the control group's, but the unadjusted difference was not tested](mi-descriptive-pre-post-means.md) — related
 - [All three GPA-based groups retained significantly more science knowledge than the control group six months after instruction](gpa-science-retention-six-months-advantage.md) — related
+- [Achievement gains from educational games-based iPad applications were retained four weeks after the post-test, with significant delayed-test differences favoring the experimental group](ipad-games-learning-retention-delayed-test.md) — related

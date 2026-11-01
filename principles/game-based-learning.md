@@ -47,7 +47,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 96 claims (49 for, 44 mixed, 3 against) · 72 studies (25 causal, 19 quant-synthesis, 16 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 21 of 72 report an effect size · 90 claims rest on one study
+> **Evidence** · 98 claims (49 for, 46 mixed, 3 against) · 74 studies (27 causal, 19 quant-synthesis, 16 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 22 of 74 report an effect size · 92 claims rest on one study
 
 ## Conditional relationship
 
@@ -166,6 +166,8 @@ Claims read against this model that do not change it. Each says what it is and w
 - [Computer game-based instruction produced significantly better nutrition knowledge than multimedia PowerPoint instruction in third graders](../claims/game-based-nutrition-knowledge-better-than-powerpoint.md) [+W] — attached 2026-11-01 from Jui-Mei Yien et al. (2011), which proposed "Four-topic four-week nutrition unit pairing each weekly topic with purpose-built computer games"; tests this page's relationship.
 - [Game-based instruction significantly improved students' food and drink habits relative to PowerPoint instruction](../claims/game-based-instruction-improves-food-drink-habits.md) [+W] — attached 2026-11-01 from Jui-Mei Yien et al. (2011), which proposed "Four-topic four-week nutrition unit pairing each weekly topic with purpose-built computer games"; tests this page's relationship.
 - [First graders taught science with educational games achieved higher scientific concepts acquisition than those taught by traditional method](../claims/educational-games-improve-first-grade-concept-acquisition.md) [+W] — attached 2026-11-01 from Mohammad Hasan Al-Tarawneh (2016), which proposed "Game-based lessons structured as rule-governed sensory activities with defined objectives"; tests this page's relationship.
+- [Playing mathematical board games at school significantly improved 3rd-grade students' ability to solve additive-change (transformation) problems](../claims/board-games-improve-additive-change-problem-solving.md) [~W] — attached 2026-11-01 from Thomas Rajotte et al. (2016), which proposed "Implement daily routines of logical challenges or free practice of mathematical games to develop motivation and transformation-problem solving"; tests this page's relationship.
+- [Video educational games containing English language concepts produced significantly better English recalling ability than games without English concepts and no games, after controlling for pretest scores](../claims/linguistic-video-games-improve-english-recalling.md) [~W] — attached 2026-11-01 from Jalalian (2018), which proposed "Use video educational games to enrich the leisure time of English learners".
 
 ## Objective and learner-valued goal
 
@@ -237,6 +239,7 @@ A gain in the game, a gain on an aligned outside test, delayed retention, transf
 - [Epistemic Games](../patterns/epistemic-games.md) — a pattern where the embedding is total: the repeated activity is the professional community's actual work, so there is no separable "learning part" to bolt on
 - [Game-Based Mastery Learning](../patterns/game-based-mastery-learning.md) — a pattern where the tension is live, since the mechanics sustaining repetition are not the mechanics carrying the concept
 - [Frame simulation lessons as a movie-director game with scaffolding, varied texts, and reflective discussion to sustain engagement](../strategies/movie-director-framing-scaffolding-engagement.md)
+- [Set of commercial video educational games used with a linguistic approach over 36 sessions](../designs/linguistic-video-game-set-36-sessions.md)
 
 ## Key Sources
 - Eseryel, D., Law, V., Ifenthaler, D., Ge, X., & Miller, R. (2014). An investigation of the interrelationships between motivation, engagement, and complex problem solving in game-based learning. *Educational Technology & Society, 17*(1), 42-53.

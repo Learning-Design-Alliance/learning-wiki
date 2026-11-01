@@ -47,7 +47,8 @@ In the first DLG implementation in a public special school, teachers developed c
 - [DLGs create egalitarian spaces for dialogue and exchange in which pupils contribute most of the talk](../claims/dlg-spaces-dialogue-exchange-pupil-talk.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Implementation recommendations: increase pupil motivation, clarify session structure in training, and trial an expanded dialogic reading component separately](chatterbooks-implementation-recommendations.md)
 
 ## Examples
 -

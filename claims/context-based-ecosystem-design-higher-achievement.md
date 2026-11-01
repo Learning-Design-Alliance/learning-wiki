@@ -72,3 +72,4 @@ Post-hoc comparison following the ANCOVA on post-test AT scores in the quasi-exp
 - [Tenth-grade mathematics students taught with a problem-solving approach significantly outperformed students taught by expository strategy on a post-test](problem-solving-approach-beats-expository-secondary-math.md) — related
 - [ANCOVA of post-test scores covarying pre-test scores confirms the ITS group outperformed the face-to-face group](ancova-posttest-its-group-effect.md) — related
 - [Cooperative learning produced significantly higher gain scores than lecture teaching for each of the knowledge, understanding and application objectives](cooperative-learning-gains-knowledge-understanding-application.md) — related
+- [Prior knowledge of topics and instructional objectives before instruction raises Literature-in-English achievement more than conventional teaching](prior-objectives-raise-literature-achievement.md) — related

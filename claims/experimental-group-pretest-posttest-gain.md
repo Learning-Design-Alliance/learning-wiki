@@ -49,3 +49,4 @@ Single-factor repeated-measures t-test on the 12 experimental-group students, re
 
 ## Related Claims
 - [Foreign learners of Turkish taught grammar with personalized texts scored significantly higher on the post-test than learners taught with ordinary textbook examples](personalized-texts-higher-turkish-grammar-achievement.md) — possibly the same claim (merge candidate)
+- [The CAI group shows no statistically significant pre-test to post-test gain in learning Voice in English Grammar](cai-within-group-gain-not-significant.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2015
+source_checked: 2026-11-01
 sources:
   - id: turkmen-2015
     resource: "https://eric.ed.gov/?id=EJ1105340"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The experiment group taught with Jigsaw IV showed a statistically significant increase from pre-test (mean 5.45) to post-test (mean 7.12). [→ Turkmen 2015](#turkmen-2015)
@@ -47,3 +48,4 @@ Dependent-group t-test on the 24-student experiment group taught 'Atoms - the Ba
 ## Related Claims
 - [Jigsaw II instruction produced a statistically significant pre-to-post achievement gain in the control group](jigsaw-ii-significant-pre-post-gain.md) — related
 - [No statistically significant post-test difference was found between the Jigsaw IV and Jigsaw II groups](jigsaw-iv-vs-ii-no-posttest-difference.md) — related
+- [Self-regulated jigsaw IV produced significantly higher achievement gain scores than traditional teaching in a university EFL grammar unit](self-regulated-jigsaw-iv-achievement-gains.md) — related

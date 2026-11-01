@@ -76,3 +76,4 @@ Year 3 MVMS teacher survey and Consortium Administrator Survey items on expected
 - [REACH observations consumed substantial administrator time—about six hours per observation cycle and roughly two to three full weeks per year](observation-workload-administrator-time.md) — related
 - [Teacher satisfaction with REACH was moderate overall but varied widely across schools](reach-satisfaction-varies-across-schools.md) — related
 - [Most teachers judged their REACH evaluators fair and able to assess instruction accurately](teachers-view-evaluator-ratings-fair-accurate.md) — related
+- [Teachers are more supportive of teacher perception surveys for evaluating administrators than of student perception surveys for evaluating teachers](teachers-favor-teacher-surveys-over-student-surveys.md) — related

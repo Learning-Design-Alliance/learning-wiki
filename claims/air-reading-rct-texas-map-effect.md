@@ -57,3 +57,4 @@ A randomized study of nearly 400 grade 1-6 students in six rural Texas elementar
 - [Students receiving Experience Corps tutoring and mentorship showed significant improvements in reading and comprehension skills](ec-tutoring-improves-reading-comprehension.md) — related
 - [The STIR partnership anticipates that schools will report more students at or above early literacy benchmarks relative to prior years](stir-anticipated-benchmark-gains.md) — related
 - [Zearn Math schools significantly outperformed control schools on NWEA MAP in a large Texas RCT (effect size +0.11 overall)](zearn-rct-nwea-map-effect-011.md) — related
+- [SPARK tutoring significantly improved early-grade reading achievement (MAP), with an overall effect of 2.8 RIT points (g = .23)](spark-improves-map-reading-achievement.md) — related

@@ -46,6 +46,7 @@ The article recommends SWBL as an alternative to traditional teaching for pre-se
 
 - [CEO Forum recommendations: prepare and certify teachers for technology integration across pre-service, licensure, and in-service career stages](ceoforum-teacher-tech-integration-recommendations.md)
 - [Eight recommendations for supporting teachers' technology integration, including personalized professional learning and formalized coaching](pr-eight-recommendations-technology-integration-support.md)
+- [Future research and program design: online collaboration activities, in-service ICT training needs follow-up, and investigating characteristics of best blends](future-research-online-collaboration-best-blends.md)
 
 ## Examples
 -

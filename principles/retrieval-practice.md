@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 151 claims (67 for, 74 mixed, 10 against) · 77 studies (37 causal, 16 review, 10 quant-synthesis, 6 theoretical, 5 associational, 3 qualitative), `q1`–`q4` · 22 of 77 report an effect size · 144 claims rest on one study
+> **Evidence** · 152 claims (68 for, 74 mixed, 10 against) · 78 studies (38 causal, 16 review, 10 quant-synthesis, 6 theoretical, 5 associational, 3 qualitative), `q1`–`q4` · 22 of 78 report an effect size · 145 claims rest on one study
 
 ## Conditional relationship
 
@@ -109,6 +109,7 @@ None at present. The sixteen restored claims were read on 2026-10-15; the eleven
 - [The stepwise-MCQ benefit is most robust for questions with noncompetitive answer options and for learners who report trying to retrieve the answer during the delay.](../claims/stepwise-mcq-benefit-moderators.md) [+W] — attached 2026-10-24 from van den Broek et al. (2023), which proposed "Use a stepwise display in MCQ-based retrieval practice: present the question before the answer options to create a cued-recall opportunity.".
 - [Post-testing yields significantly better retention than pre-testing when total retrieval-practice time is held comparable (position effect)](../claims/quiz-position-post-beats-pre-latimier.md) [+W] — attached 2026-10-26 from Latimier et al. (2019), which proposed "Spend retrieval-practice time testing students after, not before, initial exposure to learning content".
 - [Testing effect among low-WMC learners depends on stimulus WM demands: negative testing effect for low-frequency stimuli](../claims/wmc-stimulus-frequency-interaction-testing-effect.md) [~W] — attached 2026-10-26 from Zheng et al. (2024), which proposed "Balance learners' working memory capacity with task difficulty to unlock retrieval practice benefits"; tests this page's relationship.
+- [Students who used Kahoot no-stakes quizzes scored significantly higher on a high-stakes multiple-choice exam than students who received lecture and discussion only](../claims/kahoot-testing-effect-higher-exam-scores.md) [+W] — attached 2026-11-01 from Iwamoto et al. (2017), which proposed "Use no-stakes gamified retrieval-practice quizzes as exam preparation rather than lecture-based review alone"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

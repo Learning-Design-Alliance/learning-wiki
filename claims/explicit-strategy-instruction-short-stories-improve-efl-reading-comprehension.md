@@ -66,3 +66,4 @@ Quasi-experimental post-test control group study with 25 experimental and 25 con
 - [The review reports that pre-reading activities have received abundant empirical support for enhancing EFL reading comprehension across contexts](prereading-activities-enhance-comprehension-empirical-support.md) — related
 - [Prior studies report positive relationships between genre awareness or genre-based instruction and reading comprehension](prior-gbi-reading-studies-positive-findings.md) — related
 - [Instructional strategy (Pre-question, genre-based, or combined) shows no significant main effect on science undergraduates' reading comprehension achievement](no-strategy-effect-reading-achievement-nigerian-undergraduates.md) — reports the opposite
+- [Embedded comprehension lessons did not improve story comprehension relative to story exposure alone](no-comprehension-effect-asc.md) — related

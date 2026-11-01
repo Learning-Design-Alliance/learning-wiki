@@ -49,3 +49,4 @@ Null pairwise comparison between the e-learning group E and the conventionally t
 - [The conventionally taught pre-tested group and the e-learning-taught unpre-tested group did not differ significantly in post-test attitudes](c1-c2-posttest-no-difference.md) — related
 - [The only significant pairwise post-test difference in attitudes was between two e-learning-taught groups differing only in pre-test exposure, favouring the pre-tested group](pretest-presence-drove-attitude-difference.md) — possibly the same claim (merge candidate)
 - [Groups E and C1 were homogeneous in entry attitudes, with no significant pre-test difference](entry-behaviour-homogeneous-groups.md) — related
+- [FLEX students with 57% less face-to-face time showed no significant difference in final exam results compared with conventionally taught students](flex-no-significant-exam-difference-reduced-contact-time.md) — related

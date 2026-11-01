@@ -47,3 +47,4 @@ ANOVA of post-test MCT scores for the four groups (between groups sum of squares
 ## Related Claims
 - [Students taught with the Experiential Learning Approach scored significantly higher on the Mathematical Creativity Test than students taught with Conventional Teaching Methods](ela-higher-mathematical-creativity-than-ctm.md) — a narrower finding that bears on this claim
 - [Post-test MCT mean scores were higher for the two ELA groups (35.53 and 32.79) than for the two CTM groups (25.83 and 24.98)](ela-post-test-mct-means-higher.md) — a narrower finding that bears on this claim
+- [A one-way ANOVA on post-test scores confirmed a statistically significant difference between the practical-work and conventional groups (F = 4.21, p = 0.016)](anova-confirms-practical-work-post-test-difference.md) — related

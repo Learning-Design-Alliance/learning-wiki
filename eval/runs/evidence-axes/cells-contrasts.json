@@ -59106,5 +59106,433 @@
  "explicit-instruction\t10-week SSIS-CIP social-skills curriculum\tbusiness-as-usual control": {
   "label": "explicit instruction vs business-as-usual",
   "treatment_is_a": true
+ },
+ "active-learning\tChatterbooks Plus reading, discussion, and dialogic reading\twaitlist control usual curriculum": {
+  "label": "Chatterbooks reading and discussion vs usual curriculum",
+  "treatment_is_a": true
+ },
+ "active-learning\tChatterbooks reading and discussion sessions\twaitlist control receiving usual curriculum": {
+  "label": "Chatterbooks reading and discussion vs usual curriculum",
+  "treatment_is_a": true
+ },
+ "active-learning\tChatterbooks reading and discussion sessions\twaitlist control usual curriculum": {
+  "label": "Chatterbooks reading and discussion vs usual curriculum",
+  "treatment_is_a": true
+ },
+ "active-learning\tJigsaw I cooperative learning\tconventional teacher-centered teaching": {
+  "label": "Cooperative learning vs conventional teacher-centered or lecture-based teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tLearning Together cooperative learning\tlecture-based teaching": {
+  "label": "Cooperative learning vs conventional teacher-centered or lecture-based teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tPOGIL group scenario exercises\tindividual online scenario exercises": {
+  "label": "Group-based scenario learning vs individual online scenario learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tPOGIL group scenario exercises in class\tindividual online scenario exercises": {
+  "label": "Group-based scenario learning vs individual online scenario learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tconcept mapping instruction\tlecture instruction": {
+  "label": "Concept mapping instruction vs lecture instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tcooperative learning\ttraditional lecture-based teaching": {
+  "label": "Cooperative learning vs conventional teacher-centered or lecture-based teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tcooperative learning pronunciation instruction\tconventional pronunciation instruction": {
+  "label": "Cooperative learning vs conventional teacher-centered or lecture-based teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom method\ttraditional method": {
+  "label": "Flipped classroom vs traditional classroom teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom with active learning\tflipped classroom with minimal discussion": {
+  "label": "Active-learning flipped classroom vs minimally interactive flipped classroom",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom with active learning strategies\tflipped classroom with lecture-based instruction and minimal discussion": {
+  "label": "Active-learning flipped classroom vs minimally interactive flipped classroom",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom with active-learning activities\tflipped classroom with minimal discussion": {
+  "label": "Active-learning flipped classroom vs minimally interactive flipped classroom",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom with active-learning activities\tflipped classroom with traditional lecture and minimal discussion": {
+  "label": "Active-learning flipped classroom vs minimally interactive flipped classroom",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom with active-learning strategies\tflipped classroom with traditional lecture and minimal discussion": {
+  "label": "Active-learning flipped classroom vs minimally interactive flipped classroom",
+  "treatment_is_a": true
+ },
+ "active-learning\tintensive practical activities\tconventional teaching methods, mostly theoretical": {
+  "label": "Intensive practical activities vs conventional mostly theoretical teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tintensive practical activities\tconventional teaching, mostly theoretical": {
+  "label": "Intensive practical activities vs conventional mostly theoretical teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tintensive practical activities\tconventional, mostly theoretical teaching": {
+  "label": "Intensive practical activities vs conventional mostly theoretical teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tintensive practical activities for boys\tconventional teaching methods for boys": {
+  "label": "Intensive practical activities vs conventional mostly theoretical teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tintensive practical activities for girls\tconventional teaching methods for girls": {
+  "label": "Intensive practical activities vs conventional mostly theoretical teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tlearning together\tlecture-based teaching": {
+  "label": "Cooperative learning vs conventional teacher-centered or lecture-based teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tproject-based learning\tconventional teacher-centred instruction": {
+  "label": "Project-based learning vs conventional teacher-centered instruction",
+  "treatment_is_a": true
+ },
+ "case-comparison\tincorrect worked examples\tcorrect worked examples": {
+  "label": "incorrect worked examples vs correct worked examples",
+  "treatment_is_a": true
+ },
+ "case-comparison\tincorrect worked examples for low-prior-knowledge students\tcorrect worked examples": {
+  "label": "incorrect worked examples vs correct worked examples",
+  "treatment_is_a": true
+ },
+ "example-problem-sequencing\talternative grouping and presentation of arithmetic combinations\ttextbook multiplication-table sequence": {
+  "label": "varied sequencing vs conventional sequencing",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tCIM instruction post-test\tCIM group pre-test": {
+  "label": "CIM instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tPRIMR literacy lessons and materials\tdelayed commencement control": {
+  "label": "PRIMR structured literacy instruction vs delayed commencement",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tPRIMR structured literacy lessons, books, and teacher support\tdelayed commencement of PRIMR": {
+  "label": "PRIMR structured literacy instruction vs delayed commencement",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tPRIMR structured literacy lessons, books, materials, and teacher training\tdelayed commencement of PRIMR": {
+  "label": "PRIMR structured literacy instruction vs delayed commencement",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tPRIMR structured literacy lessons, books, materials, and teacher training\tdelayed commencement of the program": {
+  "label": "PRIMR structured literacy instruction vs delayed commencement",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tPRIMR structured literacy lessons, materials, and teacher training\tdelayed commencement of program": {
+  "label": "PRIMR structured literacy instruction vs delayed commencement",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tautomated stories with embedded vocabulary lessons\tsame stories without embedded lessons": {
+  "label": "Embedded vocabulary instruction vs no embedded instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tautomated storybooks with embedded comprehension lessons\tsame storybooks without embedded lessons": {
+  "label": "Embedded comprehension instruction vs no embedded instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tautomated storybooks with embedded vocabulary and comprehension lessons\tsame storybooks without embedded lessons": {
+  "label": "Embedded vocabulary and comprehension instruction vs no embedded instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tautomated storybooks with embedded vocabulary lessons\tsame storybooks without embedded lessons": {
+  "label": "Embedded vocabulary instruction vs no embedded instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tepistemologically enriched Toulmin argumentation model (EETAM)\tnational science curriculum": {
+  "label": "Epistemologically enriched argumentation instruction vs standard curriculum",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tstorybooks with embedded vocabulary lessons\tsame storybooks without embedded lessons": {
+  "label": "Embedded vocabulary instruction vs no embedded instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tteacher-only conventional instruction\tpre-instruction baseline": {
+  "label": "Conventional instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "feedback-timing\tflipped classroom method\ttraditional method": {
+  "label": "flipped classroom method vs traditional method",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tMFAS implementation\tnon-MFAS condition": {
+  "label": "MFAS implementation vs usual practice/non-implementation",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tMFAS implementation with mathematics tasks, rubrics, differentiated instruction, and team meetings\tusual practice with access to MFAS materials but no expected implementation": {
+  "label": "MFAS implementation vs usual practice/non-implementation",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tMFAS implementation with tasks, rubrics, and differentiated instruction\tusual practice without expected MFAS implementation": {
+  "label": "MFAS implementation vs usual practice/non-implementation",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tMFAS implementation with tasks, rubrics, and weekly instructional-practice meetings\tusual practice without expected MFAS implementation": {
+  "label": "MFAS implementation vs usual practice/non-implementation",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tMFAS implementation with tasks, rubrics, and weekly instructional-practice meetings\tusual practice without expected MFAS implementation or meetings": {
+  "label": "MFAS implementation vs usual practice/non-implementation",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tMFAS implementation with training, rubrics, differentiation, and weekly team meetings\taccess to MFAS materials but no expected implementation or meetings": {
+  "label": "MFAS implementation vs usual practice/non-implementation",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tMFAS tasks, rubrics, professional development, and weekly instructional-practice meetings\tusual practice with optional access to MFAS materials and modules": {
+  "label": "MFAS implementation vs usual practice/non-implementation",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tMFAS-CCSS formative assessment system\tnon-MFAS control": {
+  "label": "MFAS implementation vs usual practice/non-implementation",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tauthor recipient-only role\treviewer provider-only role": {
+  "label": "Author-only/recipient-only vs reviewer-only/provider-only peer assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tauthor-only peer assessment\treviewer-only peer assessment": {
+  "label": "Author-only/recipient-only vs reviewer-only/provider-only peer assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tdual provider-recipient peer role\tauthor recipient-only role": {
+  "label": "Dual-role peer assessment vs author-only/recipient-only peer assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tdual-role peer assessment\tauthor-only peer assessment": {
+  "label": "Dual-role peer assessment vs author-only/recipient-only peer assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\treviewer role in online peer assessment\tauthor role in online peer assessment": {
+  "label": "Author-only/recipient-only vs reviewer-only/provider-only peer assessment",
+  "treatment_is_a": false
+ },
+ "gamification\tKahoot classroom activity\tcontrol-group instruction without Kahoot": {
+  "label": "Gamified/game-based learning vs conventional/non-gamified instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tKahoot quizzes\tnon-Kahoot preparation": {
+  "label": "Gamified/game-based learning vs conventional/non-gamified instruction",
+  "treatment_is_a": true
+ },
+ "gamification\teducational games-based iPad applications\ttraditional study of the same unit": {
+  "label": "Gamified/game-based learning vs conventional/non-gamified instruction",
+  "treatment_is_a": true
+ },
+ "gamification\teducational games-based iPad applications\ttraditional teaching": {
+  "label": "Gamified/game-based learning vs conventional/non-gamified instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tmathematical board games two hours per week for two months\tno particular school intervention": {
+  "label": "Gamified/game-based learning vs conventional/non-gamified instruction",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tscientific approach using discovery learning\tpre-test before treatment": {
+  "label": "guided discovery vs pre-testing",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tscientific approach using discovery learning with three-phase listening\tpre-test before treatment": {
+  "label": "guided discovery vs pre-testing",
+  "treatment_is_a": true
+ },
+ "media-design\trevised media\tinitial media": {
+  "label": "revised media vs initial media",
+  "treatment_is_a": true
+ },
+ "media-design\trevised media after validator feedback\tinitially validated media": {
+  "label": "revised media after validator feedback vs initially validated media",
+  "treatment_is_a": true
+ },
+ "practice-amount\tfourth week of game use (T4)\tfirst week of game use (T1)": {
+  "label": "later vs earlier week of practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore hours spent teaching the programme units in class\tfewer hours spent teaching the programme units in class": {
+  "label": "more vs less instructional time",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore instructional book listens\tfewer instructional book listens": {
+  "label": "more vs fewer instructional-book listens",
+  "treatment_is_a": true
+ },
+ "practice-amount\tone additional session experienced\tlower session dosage": {
+  "label": "more vs fewer practice sessions",
+  "treatment_is_a": true
+ },
+ "prompts\tChatterbooks Plus with dialogic reading and SPICE prompts\twaitlist control receiving usual curriculum": {
+  "label": "prompts vs no prompts",
+  "treatment_is_a": true
+ },
+ "prompts\tmetacognitive training using CRIME strategies\tcomputer-mediated numeracy instruction without metacognitive training": {
+  "label": "prompts vs no prompts",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tKahoot no-stakes quizzes with immediate feedback\tlecture, group discussion, study guide, and review": {
+  "label": "retrieval practice vs no retrieval practice",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tKahoot no-stakes retrieval quizzes with immediate feedback\tlecture, group discussion, written study guide, and lecture-based review": {
+  "label": "retrieval practice vs no retrieval practice",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tKahoot retrieval quizzes with immediate feedback\tlecture, group discussion, written study guide, and lecture-based review": {
+  "label": "retrieval practice vs no retrieval practice",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\teligible for a performance-based scholarship\tnot eligible for a performance-based scholarship": {
+  "label": "performance-based scholarship eligibility vs no scholarship eligibility",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\teligible for performance-based scholarship\tnot eligible for performance-based scholarship": {
+  "label": "performance-based scholarship eligibility vs no scholarship eligibility",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tperformance-based scholarship eligibility\tno scholarship eligibility": {
+  "label": "performance-based scholarship eligibility vs no scholarship eligibility",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tperformance-based scholarship eligibility\tnot eligible for scholarship": {
+  "label": "performance-based scholarship eligibility vs no scholarship eligibility",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tperformance-based scholarship eligibility for non-parents\tno scholarship eligibility for non-parents": {
+  "label": "performance-based scholarship eligibility vs no scholarship eligibility",
+  "treatment_is_a": true
+ },
+ "rewards-incentives\tperformance-based scholarship eligibility for parents\tno scholarship eligibility for parents": {
+  "label": "performance-based scholarship eligibility vs no scholarship eligibility",
+  "treatment_is_a": true
+ },
+ "scaffolding\tScaffolded Think-Group-Share\tGroup Investigation": {
+  "label": "Scaffolded Think-Group-Share vs Group Investigation",
+  "treatment_is_a": true
+ },
+ "scaffolding\tScaffolded Think-Group-Share\tLearning Together": {
+  "label": "Scaffolded Think-Group-Share vs Learning Together",
+  "treatment_is_a": true
+ },
+ "scaffolding\tScaffolded Think-Group-Share with individual scaffolding worksheet\tGroup Investigation": {
+  "label": "Scaffolded Think-Group-Share vs Group Investigation",
+  "treatment_is_a": true
+ },
+ "scaffolding\tScaffolded Think-Group-Share with individual scaffolding worksheet\tLearning Together without preceding individual activity": {
+  "label": "Scaffolded Think-Group-Share vs Learning Together",
+  "treatment_is_a": true
+ },
+ "scaffolding\tScaffolded Think-Group-Share with individual scaffolding worksheet before group work\tGroup Investigation with divided individual tasks": {
+  "label": "Scaffolded Think-Group-Share vs Group Investigation",
+  "treatment_is_a": true
+ },
+ "scaffolding\tScaffolded Think-Group-Share with individual scaffolding worksheet before group work\tLearning Together with group work and sharing but no preceding individual activity": {
+  "label": "Scaffolded Think-Group-Share vs Learning Together",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments homework intervention\tbusiness-as-usual control": {
+  "label": "ASSISTments intervention vs business-as-usual control",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments intervention\tbusiness-as-usual control": {
+  "label": "ASSISTments intervention vs business-as-usual control",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments intervention for boys\tcontrol condition for boys": {
+  "label": "ASSISTments intervention vs business-as-usual control",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments online homework intervention\tbusiness-as-usual control": {
+  "label": "ASSISTments online homework intervention vs business-as-usual control",
+  "treatment_is_a": true
+ },
+ "technology-tool\tASSISTments online homework intervention\tbusiness-as-usual control condition": {
+  "label": "ASSISTments online homework intervention vs business-as-usual control",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAVG post-training\tAVG 6-month follow-up": {
+  "label": "post-training vs 6-month follow-up",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAWA detection of rhetorical signposts\tstudents’ use of alternative discourse markers and writing styles": {
+  "label": "AWA rhetorical signpost detection vs alternative discourse markers and writing styles",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAWA rhetorical highlighting and classification\tstudents’ unassisted interpretation of substantive writing": {
+  "label": "AWA rhetorical highlighting and classification vs unassisted interpretation",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAWA rhetorical highlighting feedback\tunaided self-assessment and draft review": {
+  "label": "AWA rhetorical highlighting feedback vs unaided self-assessment and draft review",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAWE\tunspecified comparison condition": {
+  "label": "AWE vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAWE tools\tcomparison condition not specified": {
+  "label": "AWE tools vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAWE tools\tnot stated": {
+  "label": "AWE tools vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAWE tools such as Grammarly, Quillbot and DeepL Write\tnot stated": {
+  "label": "AWE tools vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAWE-supported writing instruction\tcomparison conditions without the same AWE support": {
+  "label": "AWE-supported writing instruction vs writing instruction without the same AWE support",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAY2022-23 chatbot campaigns\tAY2018-19 chatbot campaigns": {
+  "label": "AY2022-23 chatbot campaigns vs AY2018-19 chatbot campaigns",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAcaWriter personalized feedback\tnot stated": {
+  "label": "AcaWriter personalized feedback vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAccess to TenMarks over the summer\tMatched middle school students without TenMarks access": {
+  "label": "TenMarks access vs no TenMarks access",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAchieve3000\tunspecified comparison": {
+  "label": "Achieve3000 vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAchieve3000 post-pilot\tAchieve3000 pre-pilot": {
+  "label": "Achieve3000 post-pilot vs Achieve3000 pre-pilot",
+  "treatment_is_a": true
+ },
+ "technology-tool\tAchieve3000 usage\tlower or no Achieve3000 usage": {
+  "label": "higher Achieve3000 usage vs lower or no Achieve3000 usage",
+  "treatment_is_a": true
+ },
+ "worked-examples\tincorrect worked examples\tcorrect worked examples": {
+  "label": "incorrect worked examples vs correct worked examples",
+  "treatment_is_a": true
+ },
+ "worked-examples\tincorrect worked examples\tproblem-solving control": {
+  "label": "incorrect worked examples vs problem-solving",
+  "treatment_is_a": true
+ },
+ "worked-examples\tincorrect worked examples\tproblem-solving practice": {
+  "label": "incorrect worked examples vs problem-solving",
+  "treatment_is_a": true
+ },
+ "worked-examples\tincorrect worked examples for low-prior-knowledge students\tproblem-solving practice": {
+  "label": "incorrect worked examples vs problem-solving",
+  "treatment_is_a": true
  }
 }

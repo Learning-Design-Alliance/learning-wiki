@@ -51,3 +51,4 @@ Descriptive means and standard deviations for the ICT group (mean 43.30, SD 4.73
 - [Students who teach a ChatGPT teachable agent in natural language achieve greater knowledge gains than students who learn the same material from online videos](chatgpt-teachable-agent-knowledge-gains.md) — related
 - [ICT-based instruction produces a significant main effect on the economics learning outcomes of students with hearing impairment](ict-significant-main-effect-learning-outcomes-hearing-impairment.md) — possibly the same claim (merge candidate)
 - [Descriptive post-test means show the demonstration group (M = 58.57) scored higher than the control group (M = 48.13)](descriptive-posttest-means-demonstration-versus-control.md) — related
+- [Treatment-group students scored a mean of 70.12 versus 48.03 for conventionally taught students on the Literature-in-English Achievement Test](lat-descriptive-means-treatment-control.md) — related

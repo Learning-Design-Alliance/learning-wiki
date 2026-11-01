@@ -27,6 +27,7 @@ GeoGebra is a free dynamic mathematics software platform developed and maintaine
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **GeoGebra as the dynamic mathematics environment for function art creation and data collection**: GeoGebra is a free dynamic mathematics software integrating algebra, geometry, calculus, and spreadsheets. Students used it to create function art over one month following a 2.5-hour webinar. The Graphics view displays geometric representations, the Algebra view shows equations, and the Construction Protocol shows chronological creation order. Researchers used the Algebra view to tally functions by type and the Construction Protocol to examine step-by-step construction sequences. (Bautista et al. (2026))
+- **GeoGebra open-source dynamic mathematics software**: GeoGebra, designed by Markus Hohenwater, is described as "an open-source dynamic mathematics software that incorporates geometry, algebra and calculus into a single, open-source, user-friendly package". It is free, connects geometry and algebra, and ships with wide-ranging online help, a 42-page pdf help manual, downloadable tutorials, and video-based step-by-step example lessons. In this study it served as the primary scaffold for exploring circles. (Shadaan et al. (2013))
 
 ### Claims
 
@@ -39,8 +40,8 @@ GeoGebra is a free dynamic mathematics software platform developed and maintaine
 
 ## Key Sources
 - Bautista, G. Jr., Cacuyong, R., Lavicza, Z., Sabitzer, B., & Emara, M. (2026). Function Art: Understanding the Artistic Transformation of Mathematical Functions through Learning Analytics. Journal of Learning Analytics, 13(1). https://doi.org/10.18608/jla.2026.9037
-
 <!-- merged 2026-10-10 from elements/geogebra-function-art-environment ("GeoGebra as the dynamic mathematics environment for function art creation and data collection"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Shadaan, P., & Leong, K. E. (2013). Effectiveness of Using Geogebra on Students' Understanding in Learning Circles. The Malaysian Online Journal of Educational Technology, 1(4). https://www.mojet.net
 
 # GeoGebra as the dynamic mathematics environment for function art creation and data collection
 

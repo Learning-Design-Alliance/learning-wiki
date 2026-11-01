@@ -49,3 +49,4 @@ Two-way ANOVA on posttest scores of the 58 students with strategy (PRWR vs TRA) 
 - [Students with high English proficiency taught with PRWR achieve better reading comprehension than high-proficiency students taught with Translation and Reading Aloud](prwr-better-for-high-proficiency-students.md) — related
 - [The Proficiency × Material interaction on reading comprehension was significant, indicating heterogeneous material effects across proficiency strata](proficiency-material-interaction-reading-comprehension.md) — related
 - [There is no interaction between teaching technique and students' reading habit in teaching reading comprehension](no-technique-reading-habit-interaction.md) — related
+- [Teaching strategy and curiosity interact: INSERT suits high-curiosity students while SQ3R suits low-curiosity students](strategy-curiosity-interaction-reading.md) — related

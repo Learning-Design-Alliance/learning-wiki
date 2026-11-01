@@ -52,3 +52,4 @@ Quasi-experimental nonequivalent-groups study of 28 fourth graders (control n = 
 - [Both the control and treatment groups improved significantly in accuracy of multiplication fact answers from pretest to posttest](both-groups-significant-accuracy-gains.md) — related
 - [Posttest accuracy scores did not differ significantly between the treatment and control groups](posttest-accuracy-no-group-difference.md) — related
 - [MANOVA with repeated measures showed significant main effects of test-time and a significant group-learning-by-test-time interaction on mathematics achievement](manova-group-learning-testtime-interaction-math.md) — related
+- [Adding alternative fact grouping to effective instruction produces no significant additional benefit in fluency or generalization of arithmetic combinations](alternative-ac-grouping-no-added-benefit.md) — reports the opposite

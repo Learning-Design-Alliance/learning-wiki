@@ -48,3 +48,5 @@ Two-year student-level randomized control trial: 251 kindergarten through second
 - [School-level assignment to the Open Court Reading (Imagine It!) curriculum does not produce a statistically significant impact on elementary students' reading achievement relative to business-as-usual control curricula in either study year](ocr-scale-up-no-significant-overall-reading-impact.md) — related
 - [SPARK showed no statistically significant impact on regular school day attendance](spark-no-attendance-impact.md) — related
 - [Prior randomized studies of Future Forward/SPARK met WWC standards Without Reservations and found positive impacts on literacy and attendance](future-forward-prior-rct-evidence.md) — possibly the same claim (merge candidate)
+- [SPARK tutoring significantly improved early-grade reading achievement (MAP), with an overall effect of 2.8 RIT points (g = .23)](spark-improves-map-reading-achievement.md) — related
+- [SPARK's reading achievement benefit was larger for lower-achieving students (4.4 RIT points, g = .36), with a significant SPARK-by-baseline interaction](spark-map-effect-larger-for-low-achievers.md) — related

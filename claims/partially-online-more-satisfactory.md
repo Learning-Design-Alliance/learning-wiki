@@ -47,3 +47,4 @@ The review attributes this second-hand finding to Cole et al. (2014)'s three-yea
 ## Related Claims
 - [Positive interaction with classmates and instructor determined e-learning satisfaction in a reviewed three-year study](interaction-determines-e-learning-satisfaction.md) — related
 - [Students rated CM and TK course offerings as satisfactory or very satisfactory at all study sites](cm-tk-courses-high-student-satisfaction.md) — related
+- [JCC faculty used crossword puzzles and forums on the college's EMES electronic platform, and rated the language labs satisfactory](jcc-faculty-emes-crossword-forum-language-labs.md) — related

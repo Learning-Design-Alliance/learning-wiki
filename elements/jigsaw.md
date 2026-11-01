@@ -27,6 +27,10 @@ Jigsaw is the element in which parts of a topic are distributed across learners 
 - [In secondary-school research, cooperative learning beat frontal teaching in 68% of comparisons, with STAD most and Jigsaw least successful](../claims/secondary-cooperative-learning-newmann-thompson.md) [-M]
 - [No statistically significant post-test difference was found between the Jigsaw IV and Jigsaw II groups](../claims/jigsaw-iv-vs-ii-no-posttest-difference.md) [~W]
 
+## Examples
+
+- [Organize self-regulated collaborative learning environments in higher education where students plan, work with peers and self-evaluate](../strategies/self-regulated-collaborative-environments-higher-education.md)
+
 ## Related Elements
 - [Group Work](group-work.md)
 - [Peer Teaching](peer-teaching.md)

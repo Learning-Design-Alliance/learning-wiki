@@ -64,3 +64,4 @@ Correlational analysis of the ten-day study: 45 coefficients computed among tria
 - [The tendency to follow advice shows good test-retest reliability across two sessions (~0.73), behaving as a stable trait-like bias](advice-following-test-retest-reliability.md) — related
 - [Spatial orientation skills can be measured reliably with a gamified virtual-environment battery, with average test–retest reliability r = 0.74](vr-battery-reliably-measures-spatial-orientation.md) — related
 - [The computerized series completion test's empirical item difficulty matched its theoretical difficulty model, though internal consistency was modest](series-completion-psychometric-properties.md) — related
+- [The study's self-developed achievement test was judged reliable with a printed correlation coefficient of 0.69](self-developed-test-reliability-069.md) — related

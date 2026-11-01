@@ -50,3 +50,4 @@ Experience-level comparison from the year-two teacher survey in the REACH brief.
 - [Teacher and administrator perceptions of REACH changed little between Year 2 and Year 3 of implementation](reach-perceptions-stable-year-two-to-year-three.md) — related
 - [Newer teachers (0-3 years) hold more positive views of TPE than veteran teachers (10+ years)](newer-teachers-more-positive-about-tpe-than-veterans.md) — possibly the same claim (merge candidate)
 - [Teachers across the career span appreciated communicating with peers of different experience levels, with novices emphasizing observation of experienced teachers and veterans valuing newer teachers' fresh ideas](lsvc-cross-experience-peer-appreciation.md) — related
+- [Teachers are more supportive of teacher perception surveys for evaluating administrators than of student perception surveys for evaluating teachers](teachers-favor-teacher-surveys-over-student-surveys.md) — related

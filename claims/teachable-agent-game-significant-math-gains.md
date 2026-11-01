@@ -47,3 +47,5 @@ Quasi-experimental classroom study with 314 game-playing students and 129 contro
 ## Related Claims
 - [The board-game group showed greater pre-post improvement than controls in reading fluency, maths fluency and calculus in grades two to six](board-games-improve-reading-maths.md) — related
 - [Number Board Games Improve Numerical Knowledge](number-board-games-improve-numerical-knowledge.md) — related
+- [Playing mathematical board games at school significantly improved 3rd-grade students' ability to solve additive-change (transformation) problems](board-games-improve-additive-change-problem-solving.md) — related
+- [Playing mathematical board games at school significantly increased 3rd-grade boys' introjected extrinsic motivation](board-games-raise-boys-introjected-extrinsic-motivation.md) — related

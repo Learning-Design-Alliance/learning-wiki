@@ -47,7 +47,7 @@ sources:
 # Collaborative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 92 claims (36 for, 50 mixed, 6 against) · 93 studies (22 causal, 16 review, 16 theoretical, 13 quant-synthesis, 12 associational, 9 qualitative, 5 design), `q1`–`q4` · 15 of 93 report an effect size · 86 claims rest on one study
+> **Evidence** · 93 claims (37 for, 50 mixed, 6 against) · 94 studies (23 causal, 16 review, 16 theoretical, 13 quant-synthesis, 12 associational, 9 qualitative, 5 design), `q1`–`q4` · 15 of 94 report an effect size · 87 claims rest on one study
 
 ## Conditional relationship
 
@@ -193,6 +193,7 @@ Group performance during the task, individual understanding straight after it, d
 - [Small group sizes produced the largest CMC effect compared with no grouping or groups of more than 3 students](../claims/cmc-small-group-sizes-largest-effect.md) [~W]
 - [Students in the SCL group report greater satisfaction than those in the LBL group](../claims/scl-greater-student-satisfaction.md) [+W]
 - [Partners in the model condition collaborated at a marginally higher rate than partners in the draw condition](../claims/model-condition-higher-collaboration-rate.md) [~W]
+- [Treatment teachers provided more opportunities for student pairs to collaborate than control teachers](../claims/treatment-more-student-pair-collaboration.md) [+W]
 
 ## Related Principles
 - Conditions for Productive Group Creativity — specializes collaborative learning's general quality-control problem for open-ended creative tasks specifically

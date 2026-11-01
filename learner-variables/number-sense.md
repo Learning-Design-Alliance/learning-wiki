@@ -13,7 +13,7 @@ generated:
 # Number Sense
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 113 claims (84 show a difference, 18 mixed, 11 no difference) · 51 studies (26 associational, 16 causal, 3 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 19 of 51 report an effect size · 109 claims rest on one study
+> **Evidence** · 120 claims (89 show a difference, 18 mixed, 13 no difference) · 53 studies (26 associational, 18 causal, 3 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 21 of 53 report an effect size · 116 claims rest on one study
 
 ## Description
 Number sense is a learner's grasp of how large numbers are and how they relate to one another. It is measured with magnitude comparison (which of two numbers or dot arrays is larger), number line estimation (placing a number on a line with labelled ends) and similar tasks. These measures correlate with mathematics achievement and predict later mathematics learning, and they can be improved by instruction such as number board games and number line activities. It is a domain-specific part of [prior knowledge](prior-knowledge.md) in mathematics.
@@ -148,6 +148,13 @@ Number sense is a learner's grasp of how large numbers are and how they relate t
 - [Fraction magnitude intervention significantly outperforms business-as-usual control on fraction number line estimation each year, with a mean ES of 0.93 across five RCTs](../claims/fraction-intervention-number-line-es-093.md) [+M] — instruction changes it
 - [Supported self-explaining improves fraction magnitude comparison knowledge (ES 0.43) and explanation quality (ES 0.93), and compensates for low working memory](../claims/supported-self-explaining-fraction-magnitudes.md) [+M] — instruction changes it
 - [Concept Cat improves early numeracy development by two months' additional progress compared to control settings](../claims/concept-cat-improves-early-numeracy-two-months.md) [+M] — instruction changes it
+- [Cognitive style (field dependence/independence) significantly affects pupils' numeracy performance, accounting for 12% of variation](../claims/cognitive-style-field-dependence-numeracy-variation.md) [+M] — learners who differ on it differ in outcomes
+- [Greater use of the accompanying computer games was significantly associated with higher numeracy performance, but not with literacy impact, and teaching hours showed no association with impact for either programme](../claims/computer-games-associated-numeracy-impact.md) [+W] — learners who differ on it differ in outcomes
+- [Meta-cognitive training has a significant effect on primary school pupils' performance of learned numeracy concepts in computer-mediated classrooms](../claims/metacognitive-training-significant-numeracy-effect.md) [+M] — instruction changes it
+- [Sex has no moderating effect on retention of learned numeracy concepts after meta-cognitive training in computer-mediated classrooms](../claims/sex-no-moderating-effect-numeracy-retention.md) [-M] — an instructional effect differs with it
+- [Sex has no significant effect on pupils' numeracy performance under meta-cognitive training in computer-mediated classrooms](../claims/sex-no-significant-effect-numeracy-performance.md) [-M] — learners who differ on it differ in outcomes
+- [The intervention group explained 15% of the variation in pupils' numeracy performance after controlling for sex and pre-test](../claims/intervention-group-15-percent-performance-variation.md) [+M] — instruction changes it
+- [The Mathematics and Reasoning programme had a significant positive impact on Year 2 pupils' numeracy ability, with an effect size of 0.20, equivalent to three additional months' progress](../claims/mathematics-reasoning-positive-numeracy-impact.md) [+W] — instruction changes it
 
 ## Related Learner Variables
 

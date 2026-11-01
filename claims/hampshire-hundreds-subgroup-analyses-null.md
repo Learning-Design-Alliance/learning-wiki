@@ -59,3 +59,4 @@ Separate intention-to-treat regressions for each subgroup (Table 7), each contro
 - [For pupils entitled to free school meals, Butterfly Phonics showed no statistically significant effects on any outcome (NGRT g = 0.16, SWRT g = 0.42, PhAB g = 0.18)](butterfly-phonics-fsm-subgroup-non-significant.md) — a narrower finding that bears on this claim
 - [An additional analysis using Key Stage 2 administrative test scores also found indeterminate, close-to-zero effects for Year 6 pupils.](hampshire-hundreds-ks2-indeterminate-effect.md) — possibly the same claim (merge candidate)
 - [The Hampshire Hundreds intervention showed no statistically significant impact on the attainment of disadvantaged pupils in reading and maths (effect size 0.03).](hampshire-hundreds-no-significant-impact-disadvantaged.md) — related
+- [Neither intervention showed a statistically significant effect for free-school-meal pupils](chatterbooks-fsm-subgroup-null.md) — related

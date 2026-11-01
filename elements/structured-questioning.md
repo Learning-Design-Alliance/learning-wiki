@@ -26,7 +26,7 @@ sources:
 # Structured Questioning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (8 for, 1 mixed, 1 against) · 20 studies (6 causal, 5 quant-synthesis, 5 review, 2 qualitative, 1 associational, 1 theoretical), `q2`–`q4` · 3 of 20 report an effect size · 3 claims rest on one study
+> **Evidence** · 11 claims (9 for, 1 mixed, 1 against) · 21 studies (7 causal, 5 quant-synthesis, 5 review, 2 qualitative, 1 associational, 1 theoretical), `q2`–`q4` · 3 of 21 report an effect size · 4 claims rest on one study
 
 ## Description
 Structured questioning is an instructional element in which the instructor sequences purposeful questions — moving from factual retrieval toward explanation, application, and evaluation — to guide learners through inquiry without giving answers directly. The questions function as scaffolds: each one directs attention, elicits reasoning, and prompts learners to construct and articulate understanding themselves.
@@ -68,6 +68,7 @@ Structured questioning promotes deeper processing by requiring learners to gener
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [When facing students' major conceptual challenges, the teacher shifted from prompting cued questions to providing explanations himself](../claims/teacher-shifts-cued-questions-to-explanations.md) [-W]
 - [Teacher guidance integrating argumentative scripts produces deeper whole-class collaborative argumentation than minimal teacher guidance in middle level science classrooms](../claims/argumentative-scripts-teacher-guidance-deepen-collaborative-argumentation.md) [+W] — attached 2026-11-01 from Hsu et al. (2015), which proposed "Ten-question argumentative-script teacher guide for whole-class collaborative argumentation"; tests this page's relationship.
+- [Treatment teachers more often evaluated student understanding via leveled questions, while control teachers more often monitored student performance](../claims/treatment-leveled-questions-vs-control-monitoring.md) [+W]
 
 ## The evidence by question
 - *Do teacher questions that press learners past a first answer, for explanation, justification or higher-level thinking, improve learning?* [Questioning Strategies Improve Learning](../claims/questioning-strategies-improve-learning.md) [+S]

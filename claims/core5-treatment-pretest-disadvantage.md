@@ -46,6 +46,7 @@ Independent sample t-test comparing Fall 2016 pretest RIT means of the treatment
 
 
 ## Related Claims
+
 - [Elementary students in blended learning schools using Core5 obtained significantly higher posttest reading scores than control students after controlling for pretest differences](core5-blended-learning-higher-posttest-reading.md) — related
 - [Baseline equivalence held between conditions, but both groups scored far below the grade 8 proficiency cut score](assistments-baseline-equivalence-proficiency-gap.md) — related
 - [In the full-sample analysis, baseline demographic and prior-achievement differences between treatment and matched comparison groups were minimal, with effect sizes below the WWC threshold](air-tutors-full-sample-baseline-equivalence.md) — reports the opposite
@@ -60,3 +61,5 @@ Independent sample t-test comparing Fall 2016 pretest RIT means of the treatment
 - [Students' initial ability influenced their statistics learning outcomes in both the experimental and control classes](initial-ability-influences-statistics-outcomes.md) — related
 - [The two groups did not differ significantly in writing quality before the treatment](pretest-equivalence-peer-comment-groups.md) — related
 - [Experimental and control groups were equivalent in short story writing before the treatment](story-mapping-groups-equivalent-pretest.md) — reports the opposite
+- [Before the intervention, experimental and control groups showed no significant difference in self-esteem pre-test scores, though descriptively favoring the control group](pre-test-self-esteem-no-significant-difference.md) — reports the opposite
+- [Treatment and control schools differed significantly at baseline, motivating a difference-in-differences identification strategy](primr-baseline-imbalance-did-motivation.md)

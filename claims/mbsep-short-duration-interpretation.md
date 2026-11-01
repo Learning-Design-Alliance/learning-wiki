@@ -52,3 +52,4 @@ Authors' interpretive discussion of the null ANCOVA result, offered without new 
 - [The authors argue the two-week experiment was too short for participants to acquire SQL skills, explaining the blended group's lower performance](short-experiment-duration-constraint-sql-skill-learning.md) — related
 - [Effect size of creative drama on skills varies significantly with duration of experimental application, with longer applications showing larger effects](creative-drama-duration-moderator.md) — related
 - [The authors interpret the weaker individual-level effects as possibly due to the informative-only format, short duration, and highly educated sample](authors-explanations-weak-individual-effects.md) — related
+- [The one-week, one-time training duration was too short to produce statistically significant change in conflict handling styles](short-one-time-training-insufficient.md) — related

@@ -13,7 +13,7 @@ generated:
 # Epistemic Beliefs
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 45 claims (33 show a difference, 9 mixed, 3 no difference) · 27 studies (6 causal, 5 associational, 4 qualitative, 4 design, 3 quant-synthesis, 3 review, 2 theoretical), `q1`–`q3` · 2 of 27 report an effect size · 45 claims rest on one study
+> **Evidence** · 49 claims (34 show a difference, 11 mixed, 4 no difference) · 28 studies (7 causal, 5 associational, 4 qualitative, 4 design, 3 quant-synthesis, 3 review, 2 theoretical), `q1`–`q3` · 2 of 28 report an effect size · 49 claims rest on one study
 
 ## Description
 Epistemic (or epistemological) beliefs are what a learner takes knowledge and knowing to be. Learners who see knowledge as certain, simple and given by authority tend to read conflicting sources less critically and to expect quick answers; learners who see it as tentative and evidence-based integrate sources and argue more. Beliefs are measured by questionnaires and interviews and vary by domain. They predict comprehension of conflicting texts and argumentation, moderate inquiry-based designs, and are an outcome that instruction in the nature of science or in sourcing can change.
@@ -77,6 +77,10 @@ Epistemic (or epistemological) beliefs are what a learner takes knowledge and kn
 - [Teaching method remains the strongest predictor of belief shifts even when pretest scores are taken into account](../claims/teaching-method-beats-pretest-predicting-shifts.md) [+M] — instruction changes it
 - [DAIM-exposed learners showed enhanced awareness of the Nature of Science and the Nature of IKS compared with control learners](../claims/daim-enhances-nos-noiks-awareness.md) [+M] — instruction changes it
 - [Think-pair-share instruction produced more positive epistemological beliefs about physics and physics learning than conventional teacher-centered teaching, including on the PSG, SM/E and CU sub-scales](../claims/tps-improves-epistemological-beliefs-class.md) [+M] — instruction changes it
+- [EETAM produced significantly higher epistemological belief post-test scores than the comparison group, while TAM did not differ from either the comparison group or EETAM](../claims/eetam-significant-over-comparison-tam-not.md) [~M] — instruction changes it
+- [Interviews found epistemological belief change themes only in the EETAM group (certain knowledge, omniscient authority, innate ability), with no epistemological findings in the TAM group](../claims/qualitative-eetam-belief-change-tam-none.md) [~M] — instruction changes it
+- [Post-test ANOVA on epistemological beliefs showed a statistically significant overall difference among the three groups (F(2,95)=3.593, p=.031)](../claims/anova-omnibus-ebs-posttest-significant.md) [+M] — instruction changes it
+- [The authors interpret the six-week intervention length as insufficient for a significant TAM-versus-EETAM difference in epistemological beliefs](../claims/six-weeks-insufficient-tam-eetam-difference.md) [-W] — instruction changes it
 
 ## The evidence by question
 - *Can instruction shift learners' views of how scientific knowledge is made and judged, and do the shifts last?* [Both instructional conditions produced statistically significant pre-test to post-test gains in NOS and SK views, with larger effect sizes in the experimental group](../claims/both-conditions-significant-prepost-gains-larger-experimental-effect-sizes.md) [+M]

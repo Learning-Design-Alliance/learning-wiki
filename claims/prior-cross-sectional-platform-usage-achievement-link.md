@@ -56,3 +56,4 @@ The article describes prior research on the same platform using a between-group 
 - [Sensitivity analysis indicated medium-to-large unobserved confounding would be needed to eliminate the reported pandemic effects](unobserved-confounder-sensitivity-pandemic-effects.md) — related
 - [Large-scale online platforms can run continuously-randomized trials across thousands of participants varying dozens or hundreds of parameters (per the article, citing prior work)](large-scale-platforms-randomized-trials.md) — related
 - [The article reports that usage of specialized software increased the positive effect of CAE on mathematics achievement](specialized-software-increased-cae-effect.md) — related
+- [Homework system use and performance showed weak positive correlations (.2 < r < .4) with TerraNova scaled scores, and 65% of variance in homework time was accounted for by schools](weak-correlations-homework-use-achievement.md) — related

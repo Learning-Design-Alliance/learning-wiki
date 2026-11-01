@@ -13,7 +13,7 @@ generated:
 # Metacognitive Strategies
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (5 for, 5 mixed, 1 against) · 12 studies (3 theoretical, 2 quant-synthesis, 2 review, 2 associational, 1 causal, 1 qualitative, 1 design), `q1`–`q4` · 1 of 12 report an effect size · 10 claims rest on one study
+> **Evidence** · 12 claims (6 for, 5 mixed, 1 against) · 13 studies (3 theoretical, 2 causal, 2 quant-synthesis, 2 review, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 1 of 13 report an effect size · 11 claims rest on one study
 
 ## Description
 Metacognitive strategies are deliberate learner moves for planning, monitoring, checking, and revising thinking during learning. This element captures concrete supports for self-regulation such as confidence checks, self-questioning, and strategy review.
@@ -52,6 +52,7 @@ Metacognitive strategies are deliberate learner moves for planning, monitoring, 
 - [Metacognitive monitoring bias and precision modulate when students stop studying relative to their goals](../claims/comsa-metacognitive-monitoring-stopping.md) [~W]
 - [Effects of monitoring tools are highest when tools address both learning content and learning behavior and stimulate metacognitive monitoring](../claims/monitoring-tool-moderators-focus-and-type.md) [+W]
 - [Interactive open learner modelling can foster reflective thinking](../claims/iolm-fosters-reflective-thinking.md) [+W]
+- [Meta-cognitive training has a significant effect on primary school pupils' performance of learned numeracy concepts in computer-mediated classrooms](../claims/metacognitive-training-significant-numeracy-effect.md) [+W] — attached 2026-11-01 from Taiwo Oladunni Gbenga-Akanmu et al. (2019), which proposed "Meta-cognitive Training Manual (MCTM) with the CRIME strategy acronym"; tests this page's relationship.
 
 ## Related Elements
 - [Self-Assessment](self-assessment.md)

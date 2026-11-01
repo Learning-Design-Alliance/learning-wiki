@@ -95,3 +95,4 @@ The same leader survey, as reported in the brief, found leaders expressed instit
 - [Teachers reported that accommodating diverse classroom needs was the biggest co-design challenge](codesign-challenge-diverse-classroom-needs.md) — related
 - [Tertiary institutions face substantial ICT infrastructure constraints, with 54.2% of colleges lacking well-equipped computer laboratories and only 46% ICT usage reported](ict-infrastructure-constraints-tertiary-colleges.md) — related
 - [Training factors, including prior computer training and in-service training, are associated with leaders' digital competence](training-associated-leaders-digital-competence.md) — related
+- [General English teachers hold positive perceptions of e-learning, though some institutions lack the infrastructure to use sophisticated electronic tools](teachers-positive-perceptions-elearning-saudi.md) — related

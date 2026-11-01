@@ -61,3 +61,4 @@ Randomized controlled trial with the San Francisco Unified School District durin
 - [Children gain more from interventions administered by researchers or combined implementers than by parents](implementer-moderates-intervention-effect.md) — related
 - [The Tips by Text intervention did not produce significant improvements in children's early reading-related skills (YARC) relative to control](tips-by-text-no-reading-improvement.md) — reports the opposite
 - [The Tips by Text intervention did not produce significant improvements in children's socioemotional outcomes (SDQ) relative to control](tips-by-text-no-socioemotional-improvement.md) — related
+- [SPARK significantly improved early-grade literacy (PALS), with an overall effect of 5.7 scale points (g = .35)](spark-improves-pals-literacy.md) — related

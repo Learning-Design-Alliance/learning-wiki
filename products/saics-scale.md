@@ -26,7 +26,8 @@ The SAICS scale is a 32-item, eight-dimension self-report assessment developed b
 - [All eight SAICS dimensions showed high internal consistency (Cronbach's alpha ≥ 0.89), high factor loadings (0.76–0.96), and convergent validity (inter-dimension correlations r > 0.34)](../claims/saics-reliability-convergent-validity.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Thomas-Kilmann Conflict MODE Instrument (TKI)](thomas-kilmann-conflict-mode-instrument-tki.md)
 
 ## Key Sources
 - Thomas K. F. Chiu, Murat Çoban, Ismaila Temitayo Sanusi, Musa Adekunle Ayanwale. (2025). Validating student AI competency self-efficacy (SAICS) scale and its framework. Education Tech Research Dev. https://doi.org/10.1007/s11423-025-10512-y

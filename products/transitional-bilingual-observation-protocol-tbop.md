@@ -26,7 +26,8 @@ A web-based classroom observation protocol developed for transitional bilingual,
 - [Treatment teachers implemented ESL strategies significantly more than control teachers during observed sixth-grade science instruction](../claims/treatment-teachers-more-esl-strategies-observation.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Four-dimensional pedagogical classroom observation model](four-dimensional-pedagogical-classroom-observation-model.md)
 
 ## Key Sources
 - Irby, B. J., Lara-Alecio, R., Tong, F., Guerrero, C., Sutton-Jones, K. L., & Abdelrahman, N. (2018). Implementation of Research-based ESL Strategies with Lower Grade Middle School ELLs in the Science Classroom: Findings from an Experimental Study. The Electronic Journal for English as a Second Language, 22(1). https://tesl-ej.org/

@@ -46,3 +46,5 @@ One-way ANCOVA in SPSS 23 comparing post-intervention scores of the experimental
 
 ## Related Claims
 - [Fifth-grade students using metacognitive strategy with books of literary quality scored significantly higher in post-test reading comprehension than a control group reading the 100 Basic Works conventionally](metacognitive-strategy-literary-books-posttest-reading-comprehension.md) — possibly the same claim (merge candidate)
+- [ANCOVA controlling for pre-test confirms a significant effect of metacognitive strategy treatment on post-test comprehension](ancova-metacognitive-strategy-effect.md) — possibly the same claim (merge candidate)
+- [A 10-week reading program combining quality children's books and metacognitive strategy instruction raised eighth-grade students' self-esteem more than typical non-quality books](quality-books-metacognitive-strategy-raise-self-esteem.md) — related

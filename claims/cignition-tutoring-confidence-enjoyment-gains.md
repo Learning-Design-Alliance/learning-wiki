@@ -59,3 +59,5 @@ In the same RCT, survey data from 139 students with complete survey data measure
 - [In a randomised experiment, AI access raised students' enjoyment of learning (p = 0.063) with no statistically detectable effect on self-assessed knowledge or felt effectiveness](genai-raises-learning-enjoyment.md) — related
 - [Math circle participants reported positive mathematics attitudes, with most respondents indicating mathematics was important, interesting, liked, and that they felt confident solving problems](math-circle-positive-attitude-survey.md) — related
 - [No significant change in mathematics attitudes for either group except a significant decline in enjoyment for the control group](mobile-math-no-attitude-change-control-enjoyment-decline.md) — related
+- [Students reported positive perceptions of GeoGebra for learning circles, with lower confidence in using the software](geogebra-circles-positive-perceptions.md) — related
+- [Both control and experimental students responded positively to e-learning, with the experimental group's attitude slightly higher](student-attitudes-elearning-experimental-higher.md) — possibly the same claim (merge candidate)

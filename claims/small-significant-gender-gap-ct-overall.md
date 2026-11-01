@@ -61,3 +61,4 @@ Three-level random-effects meta-analysis (REML, metafor in R) of 53 studies yiel
 - [Country significantly moderates the gender gap in L2 achievement, favoring females in China and males in Türkiye](country-moderates-l2-gender-gap-china-turkiye.md) — related
 - [The effect of games-based instruction on algebraic expressions achievement interacted significantly with gender, favoring male students](method-gender-interaction-algebra-games.md) — a narrower finding that bears on this claim
 - [Achievement differences favor females over males under both teaching conditions, with a small effect](tps-gender-difference-favor-females.md) — reports the opposite
+- [Sex does not significantly influence gain in learning Voice in English Grammar in the CIM and CAI groups](sex-variable-no-effect-voice-grammar.md) — related

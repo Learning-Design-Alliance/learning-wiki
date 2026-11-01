@@ -59,3 +59,4 @@ Baseline comparison of the two intact classes before treatment: control M=5.730 
 - [The GCR and control groups were equivalent in grammar performance before treatment](gcr-pretest-group-equivalence.md) — related
 - [Experimental and control groups were equivalent in short story writing before the treatment](story-mapping-groups-equivalent-pretest.md) — possibly the same claim (merge candidate)
 - [The two groups did not differ significantly on the pretest before instruction](ecme-pretest-no-difference.md) — related
+- [The difference in mean topography test scores between the digital-map experimental group and the paper-map control group was not statistically significant](digital-blind-map-mean-difference-not-significant.md) — related

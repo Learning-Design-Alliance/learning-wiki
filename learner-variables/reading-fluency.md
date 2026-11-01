@@ -13,7 +13,7 @@ generated:
 # Reading Fluency
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 97 claims (61 show a difference, 20 mixed, 16 no difference) · 62 studies (22 causal, 16 associational, 11 review, 9 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 15 of 62 report an effect size · 96 claims rest on one study
+> **Evidence** · 100 claims (63 show a difference, 21 mixed, 16 no difference) · 64 studies (24 causal, 16 associational, 11 review, 9 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 16 of 64 report an effect size · 99 claims rest on one study
 
 ## Description
 Reading fluency is reading text accurately, at an appropriate rate and smoothly, whether silently or aloud. It rests on the word-level skills beneath it: [decoding](decoding.md), orthographic processing, phonological processing, [morphological awareness](morphological-awareness.md) and an understanding of [syntax](syntax.md). It is measured by counting words read correctly within a time limit and by having students read passages aloud, scored for accuracy and rate.
@@ -137,6 +137,9 @@ It is part of the wiki's broader [reading and language](reading-and-language.md)
 - [Underachieving college English students taught with Readers' Theater remedial instruction achieved significantly higher oral reading fluency than control-group peers after 15 weeks](../claims/rt-remedial-oral-fluency-greater-than-control.md) [+M] — instruction changes it
 - [Within the same passage, treatment students' fluency increased from Monday cold reads to Friday reads each week](../claims/weekly-within-passage-fluency-increases.md) [+M] — instruction changes it
 - [In Gilbert et al. (2013), an intensified one-on-one Tier 3 intervention produced negative effects for grade 1 inadequate responders compared with inadequate responders continuing Tier 2](../claims/gilbert-2013-intensified-tier3-negative-effects.md) [-M] — instruction changes it
+- [In a large RCT (n = 871), Fusion Reading produced a small significant effect on word reading efficiency (Glass Δ = 0.11) but no significant differences on reading comprehension measures](../claims/fusion-striving-readers-rct-small-effects.md) [+M] — instruction changes it
+- [One year of PRIMR produced statistically significant gains in oral reading fluency in grade 1 formal and nonformal schools and grade 2 nonformal schools, in both English and Kiswahili, but not in grade 2 formal schools](../claims/primr-oral-reading-fluency-first-year-gains.md) [~M] — instruction changes it
+- [PRIMR increased the percentage of pupils meeting the Ministry of Education's oral reading fluency benchmarks after one year](../claims/primr-benchmark-fluent-readers-increase.md) [+M] — instruction changes it
 
 ## Measures
 - **Test of Word Reading Efficiency (TOWRE)** (Torgesen et al., 1999): number of printed words read correctly in 45 seconds.

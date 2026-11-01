@@ -40,6 +40,7 @@ Because students in this study made minimal reference to higher-level cognitive 
 
 - [Strategy Identification & Reflection](strategy-identification-reflection.md)
 - [Metacognitive Accountable Talk Stems](metacognitive_accountable_talk_stems.md)
+- [Place strong emphasis on group work and student-student and teacher-student dialogue in early childhood science education](group-work-dialogue-early-childhood-science.md)
 
 ## Examples
 -

@@ -47,3 +47,4 @@ Semi-structured interviews with six fifth-grade students (three boys, three girl
 ## Related Claims
 - [Interviewed students appreciated NNG 4's improved graphics and design, supporting the role of aesthetics in serious game experience](nng4-aesthetics-appreciated-interviews.md) — related
 - [Most interviewed students did not use NNG 4's tutorial and hint options, and preferred harder game difficulty](nng4-tutorial-hint-largely-unused-preferred-difficulty.md) — related
+- [Student interviews were consistent with the quantitative findings: experiment group students reported excitement and goal achievement, while two control group students reported being unable to achieve their learning goal](interviews-consistent-gis-mastery-goal.md) — related

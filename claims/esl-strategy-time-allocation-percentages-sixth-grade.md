@@ -65,3 +65,5 @@ Same observational comparison, control condition: the article reports "a signifi
 
 ## Related Claims
 - [Treatment teachers implemented ESL strategies significantly more than control teachers during observed sixth-grade science instruction](treatment-teachers-more-esl-strategies-observation.md) — a broader claim this one bears on
+- [No significant treatment-control difference was found in the language content domain of observed instruction](no-difference-language-content-domain.md) — related
+- [Treatment teachers used visual scaffolding, cooperative/collaborative strategies, and leveled questions more often, while control teachers used manipulatives and realia more often](treatment-instructional-strategy-differences.md) — related

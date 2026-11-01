@@ -45,7 +45,8 @@ Each SPARK tutoring session follows a standardized lesson plan template of five 
 - [Spark Rct Reading Impact 012 Sd](../claims/spark-rct-reading-impact-012-sd.md) [+M]
 
 ## Related Designs
-- 
+
+- [Fusion Reading Daily Lesson Format: five rotating activities within each class session](fusion-daily-lesson-format-pattern.md)
 
 ## Examples
 -

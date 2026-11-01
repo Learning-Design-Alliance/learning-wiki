@@ -48,3 +48,4 @@ Descriptive analysis of mean activity per learning unit (Table 5), expressed as 
 ## Related Claims
 - [Mastering students outperform Passing and Non-passing students across all four dimensions of quiz task activity (views, submissions, repetitions, scores)](quiz-activity-differentiates-outcome-groups.md) — related
 - [Novice quiz performance rises after a one-hour static mechanics lesson and then declines over subsequent weeks, following a quadratic learning curve](quadratic-quiz-learning-curve-brief-stem-lesson.md) — related
+- [Vocabulary learning under embedded instruction declined over the course of the school year](vocabulary-learning-decline-over-units.md) — related

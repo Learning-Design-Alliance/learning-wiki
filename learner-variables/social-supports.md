@@ -13,7 +13,7 @@ generated:
 # Social Supports
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 95 claims (74 show a difference, 15 mixed, 6 no difference) · 85 studies (23 associational, 17 review, 15 qualitative, 11 causal, 8 theoretical, 7 quant-synthesis, 4 design), `q1`–`q3` · 8 of 85 report an effect size · 95 claims rest on one study
+> **Evidence** · 96 claims (75 show a difference, 15 mixed, 6 no difference) · 86 studies (23 associational, 17 review, 16 qualitative, 11 causal, 8 theoretical, 7 quant-synthesis, 4 design), `q1`–`q3` · 8 of 86 report an effect size · 96 claims rest on one study
 
 ## Description
 Social supports are the people available to help a learner if needed, and the learner's perception that they are there: parents and family, friends and classmates, teachers and other school staff, and the wider community. The support they give can be emotional (care and compassion), appraisal (useful feedback), instrumental (time, money, resources) and informational (advice). The LVN stresses perception: feeling that support would be there, even if it is never called on, contributes to well-being and academic success, and help that is actually received can strengthen that perception and a learner's sense of efficacy. Effective support looks different across families and cultures and can be provided across income levels; what matters is what the people around a learner do. Supports can be eroded by family separation, bereavement, parental imprisonment, substance misuse or illness, by bullying and discrimination, and by moving schools, and a relationship with another trusted adult can partly make up for that. It is measured with perceived-support scales for children, adolescents and adults. It overlaps with [belonging](belonging.md) and with the [home learning environment](home-learning-environment.md).
@@ -131,6 +131,7 @@ Social supports are the people available to help a learner if needed, and the le
 - [Preschool attendance, home learning activities, and parental support buffer the association between low SES and lower cognitive and language outcomes](../claims/preschool-home-learning-parental-support-buffer.md) [+W] — an instructional effect differs with it
 - [Teamwork, collaborative work, interactivity, and networking are the most frequently reported physician facilitators of SDL, while medicine's on-the-job learning culture is the most cited social-influences barrier](../claims/social-influences-teamwork-facilitates-sdl.md) [~W] — learners who differ on it differ in outcomes
 - [Blogging was perceived as useful for venting emotions and providing social support between peers in most studies](../claims/blogging-social-support-venting-emotions.md) [+M] — instruction changes it
+- [Videogame play in class fostered peer competition, peer support, and student attention and immersion](../claims/videogame-peer-collaboration-attention.md) [+M] — instruction changes it
 
 ## Measures
 - **Social Support Questionnaire, Short Form** (Sarason et al., 1987): self-report of the number of supportive relationships an adult has and satisfaction with them.

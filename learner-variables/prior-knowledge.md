@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 219 claims (128 show a difference, 61 mixed, 30 no difference) · 172 studies (57 causal, 34 review, 28 associational, 23 theoretical, 11 design, 10 quant-synthesis, 9 qualitative), `q1`–`q4` · 27 of 172 report an effect size · 202 claims rest on one study
+> **Evidence** · 220 claims (128 show a difference, 62 mixed, 30 no difference) · 173 studies (58 causal, 34 review, 28 associational, 23 theoretical, 11 design, 10 quant-synthesis, 9 qualitative), `q1`–`q4` · 27 of 173 report an effect size · 203 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -267,6 +267,7 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [The pretest covariate showed no significant effect on posttest statistical reasoning scores in the ANCOVA model](../claims/pretest-covariate-nonsignificant-fathom-ancova.md) [-M] — learners who differ on it differ in outcomes
 - [There were no differences in answer quality between pretest-correct and pretest-incorrect students for either questioning type, and no association between embedded-question accuracy and posttest scores](../claims/no-answer-quality-differences-by-pretest-accuracy.md) [-M] — learners who differ on it differ in outcomes
 - [Prior knowledge and ICT-supported instruction predicted achievement post-test scores, while pupils' attitudes toward the subject and ICT did not](../claims/prior-knowledge-and-treatment-predict-achievement-not-attitudes.md) [+M] — learners who differ on it differ in outcomes
+- [Prior knowledge moderated the effect of incorrect worked examples: students with low prior knowledge benefited most, and prior knowledge no longer predicted post-test scores in the incorrect examples group](../claims/prior-knowledge-moderates-incorrect-examples.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

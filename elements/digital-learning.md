@@ -13,7 +13,7 @@ generated:
 # Digital Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 48 claims (21 for, 25 mixed, 2 against) · 40 studies (9 review, 7 causal, 7 quant-synthesis, 5 associational, 5 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 4 of 40 report an effect size · 47 claims rest on one study
+> **Evidence** · 49 claims (22 for, 25 mixed, 2 against) · 41 studies (9 review, 8 causal, 7 quant-synthesis, 5 associational, 5 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 4 of 41 report an effect size · 48 claims rest on one study
 
 ## Description
 Digital learning is the element in which instruction, resources, or interaction are mediated through digital tools, platforms, or networks. It is useful when learners need flexible access, interactive media, or non-linear exploration.
@@ -84,6 +84,7 @@ Digital learning is the element in which instruction, resources, or interaction 
 - [Other online technologies (blogging, podcasts, wikis, ARS) show mixed or null effects on grades and exam scores](../claims/other-technologies-mixed-null-effects.md) [~W]
 - [Only 2 of the 20 included studies adopted an online approach to teach EBP, and both concluded that technology to teach research skills can facilitate EBP teaching](../claims/online-ebp-teaching-in-infancy-two-studies.md) [+W]
 - [In-service Scratch training via an electronic learning platform produced higher overall programming skills achievement than traditional training among middle school computer science teachers](../claims/eplatform-training-improves-scratch-programming-skills.md) [+M] — attached 2026-11-01 from Ahmed Alkaria (2017), which proposed "Ted educational platform (ed.ted.com) as the delivery vehicle for remote Scratch teacher training"; tests this page's relationship.
+- [Before the intervention, most students reported little classroom technology use, but most felt motivated when teachers used technological tools](../claims/students-report-scarce-technology-use-but-motivated-by-it.md) [+W]
 
 ## Related Elements
 

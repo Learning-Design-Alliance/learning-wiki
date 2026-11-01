@@ -44,7 +44,8 @@ Curiosity Corner 2nd Edition is a preschool curriculum package developed and pro
 - [Curiosity Corner shows no discernible effects on preschool print knowledge in the PCER randomized trial](../claims/curiosity-corner-no-discernible-print-knowledge-effects.md) [-W]
 
 ## Related Products and Programmes
--
+
+- [MindUP PreK](mindup-prek.md)
 
 ## Key Sources
 - Curiosity Corner. (2016). Curiosity Corner. Evidence for the ESSA program review. https://evidenceforessp.org.uk/curiosity-corner

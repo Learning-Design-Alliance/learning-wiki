@@ -69,3 +69,5 @@ Quasi-experimental pre-test, post-test control group study of 80 purposively sam
 - [Undergraduate students using a web-based ITS scored significantly higher on the post-test than students receiving traditional face-to-face instruction](ancova-posttest-its-group-effect.md) — related
 - [Prospective teachers taught with an activity-based blended learning strategy scored significantly higher on post-test achievement than those taught with conventional blended learning](abl-achievement-beats-conventional-blended.md) — related
 - [iPod inquiry teaching produced significantly better air concept comprehension than regular teaching for third graders](ipod-inquiry-improves-air-concept-comprehension.md) — a narrower finding that bears on this claim
+- [Flipped classroom instruction produced higher achievement posttest scores than traditional instruction in an instructional technologies course for pre-service mathematics teachers](flipped-classroom-higher-achievement-preservice-math.md) — related
+- [Year 9 students learning circles with GeoGebra significantly outperformed the control group on the post test](geogebra-circles-posttest-outperformance.md) — related

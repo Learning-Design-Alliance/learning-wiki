@@ -66,3 +66,4 @@ Qualitative thematic analysis of 30-minute semi-structured interviews with 10 ra
 - [Experimental-group students reported no difficulty, full participation, and self-confidence when performing experiments in the VCL](eg-students-no-difficulty-full-participation-vcl.md) — related
 - [Test-group students showed high motivation and interest toward the interdisciplinary project in qualitative interviews](idt-test-group-motivation-interest-interviews.md) — related
 - [Qualitative data indicated the Razalas' Method of grouping developed self-confidence, encouraged effective communication and facilitated exchange of ideas toward a common goal](razalas-grouping-qualitative-benefits.md) — related
+- [Interviewed experimental-group students reported using self-regulated learning strategies across forethought, performance and self-reflection phases in their independent studies](jigsaw-iv-students-report-srl-phases.md) — related

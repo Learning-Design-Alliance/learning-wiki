@@ -13,7 +13,7 @@ generated:
 # Arithmetic Fact Retrieval
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 43 claims (26 show a difference, 8 mixed, 9 no difference) · 16 studies (9 associational, 7 causal), `q2`–`q3` · 6 of 16 report an effect size · 41 claims rest on one study
+> **Evidence** · 46 claims (27 show a difference, 9 mixed, 10 no difference) · 17 studies (9 associational, 8 causal), `q2`–`q3` · 7 of 17 report an effect size · 44 claims rest on one study
 
 ## Description
 Arithmetic fact retrieval is the ability to pull basic number combinations (3 + 4, 6 × 7) from long-term memory efficiently, accurately and flexibly, rather than working them out each time, so that they can be used inside larger calculations. It is usually assessed by having learners solve simple problems while their strategy is observed or self-reported (did they retrieve the answer or count it out?), and, for a fuller picture of accuracy, flexibility and efficiency, through interviews, observations and short untimed quizzes.
@@ -80,6 +80,9 @@ Facts are usually in place by the end of primary school, but the Learner Variabi
 - [A ten-week Grade 3 multiplication facts intervention significantly increased the number of facts students attempted correctly on a fall Grade 4 inventory (d = 0.52)](../claims/facts-intervention-increased-attempted-correct.md) [+M] — instruction changes it
 - [The intervention significantly increased correct answers out of all possible facts on the fall Grade 4 inventory (d = 0.86)](../claims/facts-intervention-increased-possible-correct.md) [+M] — instruction changes it
 - [Treatment status correlated significantly with both inventory scores, with the treatment–possible-correct correlation at r = .392](../claims/treatment-correlations-facts-scores.md) [+M] — instruction changes it
+- [Adding alternative fact grouping to effective instruction produces no significant additional benefit in fluency or generalization of arithmetic combinations](../claims/alternative-ac-grouping-no-added-benefit.md) [-M] — instruction changes it
+- [Both an effective-instruction intervention and the same intervention plus alternative AC grouping produce significant pre-to-post gains in multiplication and division fact fluency for students with LD or MID](../claims/effective-instruction-improves-ac-fluency-ld-mid.md) [+M] — instruction changes it
+- [Students with LD significantly outperform students with MID in post-intervention multiplication fact fluency, but not in division fluency or generalization](../claims/ld-outperform-mid-multiplication-fluency.md) [~M] — instruction changes it
 
 ## Measures
 - **Open-ended formats** (Kling & Bay-William, 2014): Using a range of measures including student interviews, observations, writing prompts, and short, untimed quizzes around solving simple arithmetic problems can help capture students' accuracy, flexibility, and efficiency which are core components of Arithmetic Fact Retrieval.

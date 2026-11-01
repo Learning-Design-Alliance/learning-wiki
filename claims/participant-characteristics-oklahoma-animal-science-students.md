@@ -54,3 +54,4 @@ Descriptive statistics (frequencies and percentages) from research question one,
 - [Gender predicted SRL profile membership, with male students more likely in lower SRL profiles; major, prior experience, and time commitment did not predict membership](gender-predicts-srl-profile-membership.md) — related
 - [Teachers' SRL competence profiles do not differ by gender, age, or teaching experience](srl-profiles-no-demographic-differences.md) — related
 - [Female students had higher math course grades than male students, with no interactions between gender, math anxiety, and intervention group](female-students-higher-grades-no-gender-moderation.md) — related
+- [Prior GPA did not differ significantly between the POGIL participant and non-participant groups](pogil-groups-equivalent-prior-gpa.md) — related

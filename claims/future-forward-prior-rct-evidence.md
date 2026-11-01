@@ -84,3 +84,6 @@ This report narrates the prior i3-funded RCT by Jones & Christian (2020), which 
 - [The Kauffman School raised student attendance by approximately 1 percentage point relative to comparison students](kauffman-school-attendance-impact-one-percentage-point.md) — related
 - [SPARK showed no statistically significant impact on regular school day attendance](spark-no-attendance-impact.md) — related
 - [The SPARK program produced a small but statistically significant positive impact on reading achievement of 0.12 standard deviations in a two-year RCT](spark-rct-reading-impact-012-sd.md) — possibly the same claim (merge candidate)
+- [SPARK tutoring significantly improved early-grade reading achievement (MAP), with an overall effect of 2.8 RIT points (g = .23)](spark-improves-map-reading-achievement.md) — related
+- [SPARK significantly improved early-grade literacy (PALS), with an overall effect of 5.7 scale points (g = .35)](spark-improves-pals-literacy.md) — related
+- [SPARK significantly improved school attendance, with students averaging 5.8 fewer absences over two years (g = .25)](spark-improves-school-attendance.md) — related

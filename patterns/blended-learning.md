@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 49 claims (30 for, 19 mixed) · 36 studies (14 quant-synthesis, 7 review, 6 associational, 4 causal, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 10 of 36 report an effect size · 47 claims rest on one study
+> **Evidence** · 50 claims (30 for, 20 mixed) · 37 studies (14 quant-synthesis, 7 review, 6 associational, 5 causal, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 10 of 37 report an effect size · 48 claims rest on one study
 
 ## Description and scope
 
@@ -154,6 +154,7 @@ This pattern is scoped to dividing a course between online and in-person work. I
 - [The supplemental model risks students skipping online work and course overload](../claims/supplemental-model-challenges.md) [~W]
 - [Virtual patients blended with traditional education show moderate positive skills effects versus traditional education alone, with wide uncertainty (pooled SMD=0.60)](../claims/vp-blended-skills-mixed.md) [+W]
 - [Sidak post hoc tests showed blended learning and e-learning each significantly outperformed traditional teaching, but did not differ significantly from each other](../claims/sidak-posthoc-blended-elearning-traditional.md) [+W]
+- [Learning was more comprehensive in the classroom setting than from a recorded video, even with the same instructor](../claims/classroom-learning-more-comprehensive-than-recorded-video.md) [~W]
 
 ## Examples
 

@@ -47,3 +47,4 @@ Test-retest reliability was estimated by administering the skill assessment twic
 
 ## Related Claims
 - [The full survey's test-retest reliability coefficient is 0.79, considered acceptable bordering on good](test-retest-reliability-079-full-survey.md) — related
+- [The study's self-developed achievement test was judged reliable with a printed correlation coefficient of 0.69](self-developed-test-reliability-069.md) — related

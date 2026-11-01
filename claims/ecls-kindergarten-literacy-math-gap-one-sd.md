@@ -56,3 +56,4 @@ The brief reports this ECLS-K finding, citing Zill & West (2001), as background 
 - [Prior nationally representative studies found incoming kindergarteners' math and literacy skills were higher in 2010 than in 1998](kindergarten-entry-skills-higher-2010-than-1998.md) — related
 - [Many U.S. students enter elementary school with poor math skills](many-students-enter-school-poor-math-skills.md) — a broader claim this one bears on
 - [Children from economically disadvantaged families are at greater risk for poor kindergarten transitions than their peers](economically-disadvantaged-greater-kindergarten-transition-risk.md) — related
+- [MFAS produced a statistically significant positive effect of 0.20 on Kindergarten student mathematics achievement](mfas-kindergarten-student-effect-020.md) — related

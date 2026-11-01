@@ -52,3 +52,4 @@ The test-retest study re-administered the survey to a stratified subsample 1 to 
 - [CMS shows acceptable test-retest reliability and internal consistency](cms-reliability-icc-alpha.md) — related
 - [The tendency to follow advice shows good test-retest reliability across two sessions (~0.73), behaving as a stable trait-like bias](advice-following-test-retest-reliability.md) — related
 - [The literacy skill assessment test showed a reliability coefficient of 0.87](literacy-assessment-test-reliability-087.md) — related
+- [The study's self-developed achievement test was judged reliable with a printed correlation coefficient of 0.69](self-developed-test-reliability-069.md) — related

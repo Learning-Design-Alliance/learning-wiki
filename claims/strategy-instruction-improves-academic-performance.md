@@ -135,3 +135,4 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - [Self-regulation and self-directed learning strategies need to be taught and practiced over time](self-regulation-strategies-taught-over-time.md) — related
 - [Meta-learning tasks increased university students' use of self-regulatory strategies when studying (review-reported)](meta-learning-tasks-increased-self-regulatory-strategies.md) — related
 - [Self-regulation training programs have a positive effect on university students' academic performance, strongest when underpinned by metacognitive theory (review-reported)](self-regulation-training-positive-effect-university.md) — related
+- [Prior quasi-experimental evidence: metacognitive strategy instruction raised Dutch Grade 6 students' reading comprehension (review-reported)](houtveen-grift-metacognitive-instruction-dutch-students.md) — a narrower finding that bears on this claim

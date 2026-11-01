@@ -92,3 +92,6 @@ Thematic analysis of open-ended greatest-challenge responses found motivation, m
 - [Most countries adopted remote education combining digital platforms with television, radio, take-home packages, home visits, text messaging and phone calls, citing Dreesen et al. (2020)](remote-education-frugal-technology-mix-127-countries.md) — related
 - [Students report mixed social perceptions of DPBL, with some feeling isolated and others valuing the focused learning environment](dpbl-mixed-social-perceptions-isolation-focus.md) — related
 - [Peers have an essential role in promoting SDL through collaboration, motivation and support, though effects are mixed](peers-promote-sdl-collaboration-motivation.md) — related
+- [The authors attribute the blended group's advantage to enhanced interaction, flexibility, and opportunities for continuous improvement](blended-advantage-attributed-interaction-flexibility.md) — related
+- [The most frequent student criticisms of FLEX concerned self-regulated learning, missing interaction, and difficulty estimating learning time](flex-negative-perceptions-self-regulation-interaction.md) — related
+- [Before the intervention, most students reported little classroom technology use, but most felt motivated when teachers used technological tools](students-report-scarce-technology-use-but-motivated-by-it.md) — related

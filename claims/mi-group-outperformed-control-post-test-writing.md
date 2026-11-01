@@ -52,3 +52,4 @@ Independent-samples t-test comparing post-test essay scores of the experimental 
 - [Both ITS and traditionally instructed groups improved significantly from pre-test to post-test](both-groups-pre-post-gains.md) — related
 - [The experimental and control groups did not differ significantly in writing scores at pre-test, supporting attribution of post-test differences to the instructional methods](groups-equivalent-at-pretest-writing.md) — related
 - [Students reflected more positively on multiple intelligences activities than on traditional instruction, reporting the lessons more interesting, enjoyable and easier to learn from](mi-activities-positive-student-reflections.md) — related
+- [Portfolio-based writing assessment produced higher final examination writing scores than traditional non-portfolio assessment in an EFL composition course](portfolio-assessment-higher-efl-writing-exam-scores.md) — related

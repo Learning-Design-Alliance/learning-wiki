@@ -50,3 +50,4 @@ Pretest t-test analysis of the two intact grade-7 sections (control N 26, treatm
 - [The two groups did not differ significantly in prior agricultural science knowledge before the treatment](no-pretest-difference-between-groups.md) — related
 - [Chatbot and search engine classes showed no significant baseline differences in science learning ability and knowledge before the intervention](class-level-baseline-equivalence-chatbot-vs-search-engine.md) — related
 - [Posttest score distributions differed qualitatively: the control group showed an either-or pattern while the treatment group showed a gradual trend of broader gains](constructivist-treatment-broader-gain-distribution.md) — related
+- [WebQuest-based instruction improves 7th-grade science achievement more than classical curriculum-based teaching](webquest-improves-science-achievement-grade-7.md) — related

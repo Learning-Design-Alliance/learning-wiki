@@ -21,7 +21,7 @@ sources:
 # Traditional Lecture-Based Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 78 claims (20 for, 27 mixed, 31 against) · 71 studies (25 quant-synthesis, 16 review, 15 causal, 7 theoretical, 5 qualitative, 2 associational, 1 design), `q1`–`q4` · 13 of 71 report an effect size · 70 claims rest on one study
+> **Evidence** · 80 claims (20 for, 28 mixed, 32 against) · 73 studies (25 quant-synthesis, 17 causal, 16 review, 7 theoretical, 5 qualitative, 2 associational, 1 design), `q1`–`q4` · 13 of 73 report an effect size · 72 claims rest on one study
 
 ## Description and scope
 
@@ -200,6 +200,8 @@ This pattern is scoped to courses where a lecturer's explanation to a whole grou
 - [Sidak post hoc tests showed blended learning and e-learning each significantly outperformed traditional teaching, but did not differ significantly from each other](../claims/sidak-posthoc-blended-elearning-traditional.md) [-W]
 - [The control group's mean score rose 3.2 points from pre-test (3.2) to post-test (6.4) under traditional teaching](../claims/control-group-pre-post-gain-3-2-points.md) [~W]
 - [Physicians learning via the model-based e-learning program scored significantly higher on the posttest than physicians receiving lecture-based teaching](../claims/ecme-posttest-higher-than-lecture.md) [+W]
+- [Exam-score advantage of active learning held on exams one and two but not on exam three](../claims/active-learning-exam-advantage-varies-by-exam.md) [~M]
+- [Flipped classroom instruction produced higher instructional material motivation scores than traditional instruction](../claims/flipped-classroom-higher-motivation-imms.md) [-W]
 
 ## Related Patterns
 - [Direct Instruction](direct-instruction.md) — the explain, model, guided-practice and hand-over policy; a lecture segment is its explanation step delivered to a large group

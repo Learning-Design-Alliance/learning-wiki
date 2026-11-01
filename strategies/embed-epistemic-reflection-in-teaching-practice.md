@@ -51,6 +51,7 @@ The article recommends that changing teachers' epistemic beliefs requires more t
 
 - [Embed the 3R-EC Framework in teacher education assignments such as reflective writing, discussion groups and video journaling](embed-3r-ec-in-teacher-education-assignments.md)
 - [Staff development should make teaching principles explicit through articulation, reflection and evaluation, supported by institutional incentives and training](staff-development-articulate-teaching-principles.md)
+- [Schedule within-group and between-group discussion sessions on epistemological beliefs in science lessons](epistemic-discussion-sessions-science-lessons.md)
 
 ## Examples
 -

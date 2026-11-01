@@ -50,3 +50,4 @@ Latent growth curve Model 1 (N = 4751, Year 1) with covariates predicting interc
 - [When previous academic achievement is controlled, intelligence predicts only later reading comprehension and age-10 mathematics, and WMC predicts nothing additionally](precursors-reduce-iq-wmc-prediction.md) — related
 - [Previous domain knowledge accounts for most of the variance in later achievement, considerably reducing the predictive impact of IQ and WM](domain-knowledge-dominates-later-achievement.md) — related
 - [Teacher PD on differentiated instruction produced a small significant positive effect on mathematics achievement growth in Year 1 (β = 0.15, p = .007)](pd-differentiation-year1-positive-growth-effect.md) — related
+- [The 5P model produced significantly faster working memory reaction times than the 5E model](5p-model-improves-working-memory-reaction-time.md) — related

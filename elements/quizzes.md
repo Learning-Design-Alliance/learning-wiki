@@ -13,7 +13,7 @@ generated:
 # Quizzes
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 13 claims (6 for, 7 mixed) · 20 studies (7 causal, 7 quant-synthesis, 4 review, 1 associational, 1 design), `q2`–`q4` · 9 of 20 report an effect size · 9 claims rest on one study
+> **Evidence** · 14 claims (7 for, 7 mixed) · 21 studies (8 causal, 7 quant-synthesis, 4 review, 1 associational, 1 design), `q2`–`q4` · 9 of 21 report an effect size · 10 claims rest on one study
 
 ## Description
 Quizzes are short, low-stakes assessments used during learning rather than at its end. Their primary function is not measurement but learning: answering questions forces retrieval from memory, and the feedback that follows corrects and consolidates what was retrieved.
@@ -62,6 +62,7 @@ Quizzes are one of the most robustly supported instructional elements: testing i
 - [Frequency of incorrect quiz submissions differs across performance quartiles, with low performers submitting incorrect answers most often](../claims/incorrect-submissions-differ-across-quartiles.md) [~W]
 - [Little post-2014 progress on generating questions of controlled difficulty, feedback generation, and verbalisation](../claims/aqg-little-progress-difficulty-feedback-verbalisation.md) [~W]
 - [VR temporal demands during short testing quizzes are significantly lower than traditional paper-based testing](../claims/vr-short-testing-quizzes-lower-temporal-demands.md) [~W]
+- [Students who used Kahoot no-stakes quizzes scored significantly higher on a high-stakes multiple-choice exam than students who received lecture and discussion only](../claims/kahoot-testing-effect-higher-exam-scores.md) [+W] — attached 2026-11-01 from Iwamoto et al. (2017), which proposed "Kahoot game-show-style online quizzing application"; tests this page's relationship.
 
 ## The evidence by question
 

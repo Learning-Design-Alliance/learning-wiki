@@ -33,7 +33,8 @@ ParentCorps is a family-engagement and social-emotional learning program that eq
 - [ParentCorps improves family engagement measures (Inclusive Leadership, Trust in School Leader, Communication and Trust in Teacher) in a 61-school trial](../claims/parentcorps-family-engagement-school-survey.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [MindUP PreK](mindup-prek.md)
 
 ## Key Sources
 - ParentCorps program description, New York University Langone Health. (2024). ParentCorps. https://parentcorps.org

@@ -55,3 +55,4 @@ Two-way ANCOVA (method × prior achievement level, controlling pretest) on conce
 - [Peer-teaching flipped classroom students show higher calculus conceptual understanding than conventional flipped classroom students after controlling for pretest](ptfc-beats-cfc-conceptual-understanding.md) — related
 - [In one flipped calculus study, teaching method (peer-teaching versus conventional flipped classroom) and prior achievement level interact on self-efficacy](method-achievement-interaction-self-efficacy.md) — related
 - [In one flipped calculus study, prior achievement level had no significant main effect on self-efficacy, although it interacted with teaching method](prior-achievement-null-self-efficacy.md) — related
+- [Prior knowledge and type of contextualized learning environment each moderately predicted logic learning, but environment type did not interact with critical thinking disposition](covariate-prior-knowledge-environment-ctd-logic.md) — related

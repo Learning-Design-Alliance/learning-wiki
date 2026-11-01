@@ -50,3 +50,4 @@ Odds-ratio meta-analysis of nine studies comparing pass rates (grade C or better
 - [Students in traditional lecture STEM courses are 1.5 times more likely to fail than students in active-learning courses](lecturing-increases-stem-failure-rates.md) — a broader claim this one bears on
 - [POGIL instruction produces a small but statistically significant improvement in student achievement outcomes compared to standard lecture (g = 0.29)](pogil-small-achievement-effect.md) — related
 - [POGIL's achievement effect is smaller in chemistry (g = 0.22) than in other STEM disciplines (g = 0.40)](pogil-effect-smaller-in-chemistry.md) — related
+- [Final course grades did not differ significantly between POGIL participants and non-participants in the fundamentals nursing course](pogil-final-course-grade-no-significant-difference.md) — related

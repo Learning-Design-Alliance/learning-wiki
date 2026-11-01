@@ -55,3 +55,5 @@ ANCOVA on treatment-group scores only (30 males, 40 females) tested the gender h
 - [There is no significant interaction between teaching method and gender on Igbo language reading comprehension achievement](no-method-gender-interaction-igbo-reading-comprehension.md) — a broader claim this one bears on
 - [Male and female students taught Igbo language reading comprehension with the cloze approach do not differ significantly in achievement](cloze-approach-no-gender-difference-igbo-reading.md) — related
 - [No significant interaction between gender and instructional method on basic science achievement](no-gender-method-interaction-basic-science.md) — related
+- [Concept mapping teaching produced significantly higher biology achievement than lecture method among Nigerian Senior Secondary II students](concept-mapping-beats-lecture-biology-achievement.md) — related
+- [No significant gender difference in biology achievement among students taught with concept mapping](no-gender-difference-concept-mapping-biology.md) — related

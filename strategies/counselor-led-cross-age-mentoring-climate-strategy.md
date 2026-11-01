@@ -52,6 +52,7 @@ The article recommends school counselors deliver cross-age peer mentoring—pair
 - [Cross-Grade-Level Tutoring](cross-grade-level_tutoring.md)
 - [Cross Age Tutoring](cross-age-tutoring.md)
 - [Use older students as tutors in resource-limited settings to enhance academic outcomes](older-students-as-tutors-resource-limited-settings.md)
+- [Recommend students read quality books as one possible way to improve mental health](recommend-quality-books-mental-health.md)
 
 ## Examples
 -

@@ -70,3 +70,4 @@ Quasi-experimental control condition (n = 42); Table 2 reports pre-test mean 9.4
 - [Eighth-standard students taught mathematics through cooperative learning achieved higher gain scores than control-group students taught by lecture method](cooperative-learning-higher-math-gain-scores-eighth-standard.md) — related
 - [The Control and Experimental groups were homogeneous in essay-writing performance at pre-test](process-approach-pretest-homogeneity.md) — related
 - [VFT-taught students significantly outperformed conventionally taught students on the essay item for Colonization and Succession in Mangrove Ecosystems](vft-significant-essay-item.md) — related
+- [Eighth-standard students learning English grammar voice through CAI show a significantly larger mean gain score than students taught through conventional instruction](cai-gain-exceeds-cim-voice-grammar.md) — related

@@ -30,6 +30,7 @@ A Web-based assessment system and battery of computerized cognitive and mathemat
 - [Assessment Integration Management (AIM)](assessment-integration-management-aim.md)
 - [Comprehensive Assessment Battery for Children - Working Memory (CABC-WM)](comprehensive-assessment-battery-for-children-working-memory-cabc-wm.md)
 - [Span-task battery distinguishing STM (simple span) from WM (complex span) in children](span-task-battery-distinguishing-stm-simple-span-from-wm-complex-span-in-children.md)
+- [Thai computerized attention and working memory battery tests and Bond-Ladder mood scale](thai-computerized-attention-and-working-memory-battery-tests-and-bond-ladder-mood-scale.md)
 
 ## Key Sources
 - Zhou X, Wei W, Zhang Y, Cui J, and Chen C (2015) Visual perception can account for the close relation between numerosity processing and computational fluency. Front. Psychol. 6:1364. https://doi.org/10.3389/fpsyg.2015.01364

@@ -49,3 +49,4 @@ Qualitative analysis of the student teachers' self-assessment and peer assessmen
 - [Scaffolded student teachers were more effective in searching for information for their presentation, while the unscaffolded group had difficulties finding relevant information](scaffolding-improves-information-seeking-in-collaborative-inquiry.md) — related
 - [The scaffolded group gave more argumentation concerning flu treatment and prevention suggestions in the Decision-making Stage](structuring-supports-argumentation-decision-making-stage.md) — related
 - [Both scaffolded and unscaffolded groups discussed and rated the reliability of the three given websites in the same way](website-reliability-evaluation-similar-across-groups.md) — related
+- [A mobile real-case website increases students' design information searching and the quality of analysis-stage design information](mobile-website-increases-information-searching-and-analysis-quality.md) — related

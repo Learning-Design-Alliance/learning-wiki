@@ -13,7 +13,7 @@ generated:
 # Algebraic Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 62 claims (39 show a difference, 16 mixed, 7 no difference) · 43 studies (25 causal, 6 associational, 4 review, 3 qualitative, 3 theoretical, 1 quant-synthesis, 1 design), `q1`–`q4` · 8 of 43 report an effect size · 59 claims rest on one study
+> **Evidence** · 63 claims (39 show a difference, 16 mixed, 8 no difference) · 44 studies (26 causal, 6 associational, 4 review, 3 qualitative, 3 theoretical, 1 quant-synthesis, 1 design), `q1`–`q4` · 8 of 44 report an effect size · 60 claims rest on one study
 
 ## Description
 Algebraic thinking is the ability to generalise, represent, justify and reason with abstract mathematical structures and relationships: noticing that a pattern holds for all numbers, writing it with symbols, and arguing why it holds. The Learner Variability Navigator stresses that it is not only a secondary-school subject: in the primary grades it deepens understanding of arithmetic, for example by making the properties of operations explicit, and it helps students connect separate parts of their early mathematics. It is assessed with written early-algebra assessments and with researcher-designed measures that separate conceptual knowledge, procedural knowledge and flexibility in solving equations.
@@ -99,6 +99,7 @@ LVN follows it from grade 3 to grade 10. It links forward to [geometric reasonin
 - [The control group showed no significant pre-test to post-test difference under conventional teaching](../claims/conventional-method-control-group-no-gain.md) [-M] — instruction changes it
 - [Learning model and students' early mathematical ability (KAM) interact in increasing mathematical problem-solving ability](../claims/interaction-learning-kam-problem-solving.md) [~M] — an instructional effect differs with it
 - [Students taught college algebra via the scientific heuristic method performed significantly better on the post-test than students taught by direct instruction](../claims/scientific-heuristic-outperforms-direct-instruction-posttest.md) [+M] — instruction changes it
+- [Studying incorrect worked examples during algebra practice did not improve post-test learning overall relative to correct worked examples or problem-solving alone](../claims/incorrect-examples-no-overall-learning-effect.md) [-W] — instruction changes it
 
 ## Measures
 - **Early algebra assessment** (Blanton et al., 2015): Written assessment to measure students' understanding of core algebraic concepts and practices.

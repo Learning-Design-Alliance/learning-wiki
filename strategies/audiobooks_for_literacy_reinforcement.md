@@ -61,9 +61,11 @@ Audiobooks leverage the auditory channel to deliver rich language input while by
 5. Gradually shift learners toward independent print reading of similar texts as decoding improves ([Fading](../elements/fading.md))
 
 ## Related Strategies
+
 - [Read-Alouds](read-alouds.md) — the live, teacher-mediated counterpart; audiobooks extend the same input asynchronously
 - [Sustained Silent Reading](sustained-silent-reading.md) — audiobooks can run in parallel as "ear reading" during independent reading time
 - [Vocabulary Instruction](explicit-vocabulary-instruction.md) — audiobooks supply rich context for encountering new words
+- [Use picture-free audio listening tasks so students focus only on conversational content](audio-only-listening-cd-strategy.md)
 
 ## Related Elements
 - [Assigned Readings](../elements/assigned-readings.md) — the selection mechanism that gives listening a purpose

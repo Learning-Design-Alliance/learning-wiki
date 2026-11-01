@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 194 claims (126 show a difference, 51 mixed, 17 no difference) · 113 studies (41 associational, 29 causal, 14 review, 10 qualitative, 10 theoretical, 7 design, 2 quant-synthesis), `q1`–`q4` · 29 of 113 report an effect size · 191 claims rest on one study
+> **Evidence** · 197 claims (128 show a difference, 52 mixed, 17 no difference) · 115 studies (41 associational, 30 causal, 14 review, 11 qualitative, 10 theoretical, 7 design, 2 quant-synthesis), `q1`–`q4` · 30 of 115 report an effect size · 194 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -229,6 +229,9 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Interventions also produce a small pooled effect on academic emotion regulation itself (d = 0.14)](../claims/academic-emotion-intervention-pooled-effect-emotion.md) [+W] — instruction changes it
 - [Negative activating academic emotions (confusion, anxiety, anger) can positively affect learning in some observational and intervention contexts](../claims/negative-academic-emotions-sometimes-improve-learning.md) [~M] — learners who differ on it differ in outcomes
 - [Positive academic emotions generally promote learning effects, especially in high school and college students](../claims/positive-academic-emotions-promote-learning.md) [+M] — learners who differ on it differ in outcomes
+- [Graphic-organizer instruction lowers negative achievement emotions (anxiety, boredom, anger) relative to C(2)QU, but differences in shame and hopelessness were not significant](../claims/gos-instruction-lowers-negative-achievement-emotions.md) [~W] — instruction changes it
+- [Graphic-organizer vocabulary instruction raises positive achievement emotions (enjoyment, hope, pride) more than the C(2)QU contextual process in fourth-grade social studies](../claims/gos-instruction-raises-positive-achievement-emotions.md) [+W] — instruction changes it
+- [Participants at the independent school reported negative experiences of the intervention, including frustration, confusion and difficulty completing tasks](../claims/intervention-negative-experiences-penryn.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

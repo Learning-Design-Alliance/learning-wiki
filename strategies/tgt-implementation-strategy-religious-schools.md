@@ -57,6 +57,7 @@ The article recommends that mathematics teachers, especially in religious school
 - [Adopt appropriate mathematical games in junior secondary mathematics teaching](adopt-mathematical-games-junior-secondary.md)
 - [Implement TGT game-based cooperative learning in after-school programs with adequately trained teachers and extended treatment duration](tgt-after-school-implementation-strategy.md)
 - [Mathematics teachers should incorporate concept mapping and cooperative learning strategies in senior secondary trigonometry instruction](incorporate-concept-mapping-cooperative-learning-trigonometry.md)
+- [Train students in cooperative learning before applying cooperative techniques](train-students-before-cooperative-learning.md)
 
 ## Examples
 -

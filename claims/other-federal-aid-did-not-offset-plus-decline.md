@@ -80,3 +80,4 @@ Institution-level analysis of HBCU financial aid in 2012-13 and 2013-14; the art
 - [A dynamic model of education, borrowing, and work decisions is used to assess how raising government-sponsored loan limits would affect educational attainment and college entry timing](dynamic-model-borrowing-constraints-college-entry.md) — related
 - [Talent Search participants were more likely than matched comparison students to apply for federal financial aid](talent-search-more-likely-apply-federal-financial-aid.md) — related
 - [PLUS loans at HBCUs increased somewhat in 2013-14 after the Department of Education streamlined the PLUS appeals process](plus-loans-increased-somewhat-2013-14-appeals-streamlined.md) — related
+- [At some colleges the program lowered student loan debt](pbs-lowered-student-loan-debt.md) — related

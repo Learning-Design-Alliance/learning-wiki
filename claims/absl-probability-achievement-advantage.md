@@ -52,3 +52,4 @@ Quasi-experimental study of 41 third-year pre-service teachers (experimental n=2
 - [Prospective teachers taught with an activity-based blended learning strategy reported significantly higher motivation than those taught with conventional blended learning](abl-motivation-beats-conventional-blended.md) — related
 - [The tablet e-textbook experimental group significantly outperformed the traditionally taught control group on the post-test](tablet-etextbook-outperformed-traditional-posttest.md) — related
 - [Both ITS and traditionally instructed groups improved significantly from pre-test to post-test](both-groups-pre-post-gains.md) — related
+- [Flipped classroom instruction produced higher achievement posttest scores than traditional instruction in an instructional technologies course for pre-service mathematics teachers](flipped-classroom-higher-achievement-preservice-math.md) — related

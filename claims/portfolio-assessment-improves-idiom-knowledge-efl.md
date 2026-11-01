@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-11-01
 sources:
   - id: abdorreza-tahriri-2014
     resource: "http://dx.doi.org/10.7575/aiac.ijels.v.2n.2p.53"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After a 10-session treatment, an independent samples t-test on posttest idiom scores showed a significant difference between the experimental (portfolio) and control groups, leading the authors to reject the null hypothesis. [→ Abdorreza Tahriri 2014](#abdorreza-tahriri-2014)
@@ -49,3 +50,4 @@ Quasi-experimental study of 30 upper-intermediate EFL learners (15 per group) ta
 - [Drawing mental images of idioms significantly improves delayed idiom recall among Iranian EFL learners](drawing-idioms-significant-delayed-recall-gain.md) — related
 - [Before treatment, the two groups showed no significant difference in idiom knowledge](idiom-drawing-groups-homogeneous-pretest.md) — related
 - [Before treatment, the experimental and control groups showed no significant difference in overall language proficiency](portfolio-idiom-study-pretest-proficiency-homogeneity.md) — related
+- [Portfolio-based writing assessment produced higher final examination writing scores than traditional non-portfolio assessment in an EFL composition course](portfolio-assessment-higher-efl-writing-exam-scores.md) — related

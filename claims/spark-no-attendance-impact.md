@@ -51,3 +51,5 @@ The same RCT analyzed attendance (number of days attended, obtained from MPS) us
 ## Related Claims
 - [Prior randomized studies of Future Forward/SPARK met WWC standards Without Reservations and found positive impacts on literacy and attendance](future-forward-prior-rct-evidence.md) — related
 - [The SPARK program produced a small but statistically significant positive impact on reading achievement of 0.12 standard deviations in a two-year RCT](spark-rct-reading-impact-012-sd.md) — related
+- [SPARK's attendance effect did not differ by students' baseline literacy or achievement (non-significant interaction)](spark-attendance-effect-not-moderated-by-baseline.md) — related
+- [SPARK significantly improved school attendance, with students averaging 5.8 fewer absences over two years (g = .25)](spark-improves-school-attendance.md) — reports the opposite

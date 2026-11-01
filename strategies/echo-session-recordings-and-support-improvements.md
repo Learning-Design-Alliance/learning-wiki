@@ -42,7 +42,8 @@ Based on participant-reported barriers of competing time demands, the review rec
 - [Most teacher programs required significant time, effort, and resources, with mean program attrition of 12.69% and rates reaching 66.67%, suggesting time demands may limit real-world translation](../claims/teacher-program-time-burden-attrition.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Provide recorded live virtual classroom sessions that students can access at any time](provide-recorded-live-virtual-classroom-access.md)
 
 ## Examples
 -

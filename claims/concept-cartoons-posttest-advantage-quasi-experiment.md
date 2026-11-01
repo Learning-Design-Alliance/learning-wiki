@@ -71,3 +71,4 @@ Baseline comparison of the same quasi-experiment: the pretest t-test gave "P‐v
 - [Existing teaching methods produced no significant change and a descriptive decline in control group critical thinking scores](existing-methods-no-significant-cct-x-change.md) — related
 - [Think–Pair–Share instruction produces a large statistically significant achievement advantage over traditional teaching in third-grade science](tps-large-achievement-advantage-third-grade-science.md) — related
 - [Natural-monument misconceptions (e.g., \"It is the name used for mausoleums\") were largely eliminated post-test, with 18 experimental and 12 control students reaching complete understanding](natural-monument-misconceptions-eliminated-posttest.md) — related
+- [The paired t-test on the two groups' achievement scores showed a statistically significant difference favouring the experimental group](paired-ttest-significant-difference-elearning-groups.md) — related

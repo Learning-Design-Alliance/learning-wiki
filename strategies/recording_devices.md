@@ -59,9 +59,11 @@ Recording shifts the burden of capturing content away from real-time transcripti
 6. Check in periodically on how recordings are being used ([Check-In](../elements/check-in.md)); prune the practice if learners are re-watching whole lessons passively.
 
 ## Related Strategies
+
 - [Annotating](../principles/annotating.md) — timestamping and marking recordings is annotation applied to audio/video rather than text
 - [Chunking](../principles/chunking.md) — selective replay works by isolating small segments rather than re-consuming the whole
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — a pre-lesson preview of what to listen for makes replay targets easier to identify
+- [Provide recorded live virtual classroom sessions that students can access at any time](provide-recorded-live-virtual-classroom-access.md)
 
 ## Related Elements
 - [Annotating](../principles/annotating.md) — the mechanism that turns passive playback into active processing

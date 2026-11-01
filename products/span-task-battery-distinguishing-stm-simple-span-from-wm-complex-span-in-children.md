@@ -32,6 +32,7 @@ A child memory assessment battery developed and administered by Robert Kail and 
 
 - [Online Experimental Psychological System (OPES) computerized cognitive test battery](online-experimental-psychological-system-opes-computerized-cognitive-test-battery.md)
 - [Comprehensive Assessment Battery for Children - Working Memory (CABC-WM)](comprehensive-assessment-battery-for-children-working-memory-cabc-wm.md)
+- [Thai computerized attention and working memory battery tests and Bond-Ladder mood scale](thai-computerized-attention-and-working-memory-battery-tests-and-bond-ladder-mood-scale.md)
 
 ## Key Sources
 - Robert Kail and Lynda K. Hall. (2001). Distinguishing short-term memory from working memory. Memory & Cognition, 29(1), 1-9. https://link.springer.com/journal/13421/29/1

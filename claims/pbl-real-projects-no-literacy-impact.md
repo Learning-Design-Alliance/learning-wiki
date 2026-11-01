@@ -47,3 +47,4 @@ A two-armed cluster RCT with 12 intervention and 12 control schools measured lit
 ## Related Claims
 - [The trial found a statistically significant negative literacy impact for FSM-eligible pupils, treated with caution](pbl-negative-fsm-literacy-impact.md) — related
 - [EEF-funded interventions improved FSM pupils' literacy outcomes with a pooled effect size of 0.06, equivalent to about one month's progress](eef-interventions-fsm-literacy-pooled-006.md) — a broader claim this one bears on
+- [The Literacy and Morphemes programme had no significant impact on Year 2 pupils' literacy ability overall](literacy-morphemes-no-literacy-impact.md) — related

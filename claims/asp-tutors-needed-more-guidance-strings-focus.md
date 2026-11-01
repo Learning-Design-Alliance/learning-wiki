@@ -70,3 +70,4 @@ From the same process evaluation, the report links the guidance need to engageme
 - [Experienced teachers can deduce student engagement profiles from visual observation, while beginning teachers struggle](experienced-teachers-deduce-engagement-profiles-visually.md) — related
 - [Expert teachers show expertise-related eye movement patterns in some classroom tasks but not others, indicating task and context specificity](expert-teacher-gaze-context-specific.md) — related
 - [Participating schools were positive about the tuition and keen to work with the Tutor Trust again, and staff saw a need for more affordable high-quality tuition](schools-positive-about-affordable-tuition-service.md) — related
+- [Process evaluation found that poor behaviour and lack of pupil engagement spoiled delivery of some sessions and may have contributed to the lack of impact](chatterbooks-behaviour-engagement-problems.md) — related

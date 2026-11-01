@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 125 claims (88 show a difference, 25 mixed, 12 no difference) · 87 studies (30 causal, 22 review, 10 associational, 8 quant-synthesis, 7 theoretical, 5 qualitative, 5 design), `q1`–`q3` · 16 of 87 report an effect size · 123 claims rest on one study
+> **Evidence** · 127 claims (88 show a difference, 25 mixed, 14 no difference) · 88 studies (31 causal, 22 review, 10 associational, 8 quant-synthesis, 7 theoretical, 5 qualitative, 5 design), `q1`–`q3` · 17 of 88 report an effect size · 125 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -165,6 +165,8 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [The interaction between learning model and academic ability significantly affects pre-service teachers' critical thinking skills](../claims/learning-by-academic-ability-interaction-critical-thinking.md) [+M] — instruction changes it
 - [The QASEE model equalizes critical thinking outcomes across upper, middle, and lower academic ability groups](../claims/qasee-equalizes-critical-thinking-across-ability-levels.md) [-M] — instruction changes it
 - [Under conventional learning, pre-service teachers at all ability levels obtain the lowest critical thinking scores, with upper and middle groups statistically equal](../claims/conventional-learning-lowest-critical-thinking-scores.md) [+W] — instruction changes it
+- [Critical thinking disposition progress did not differ significantly among the four groups, and the teacher-only group gained the most](../claims/ctd-progress-no-group-difference-teacher-only-largest-gain.md) [-W] — instruction changes it
+- [Prior knowledge and type of contextualized learning environment each moderately predicted logic learning, but environment type did not interact with critical thinking disposition](../claims/covariate-prior-knowledge-environment-ctd-logic.md) [-M] — an instructional effect differs with it
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

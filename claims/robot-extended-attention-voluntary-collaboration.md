@@ -72,3 +72,4 @@ An unexpected pattern in Study One: although activities were designed for one ch
 - [Collaborative text co-construction with the teacher as scribe gives five-year-olds autonomy of composition and judgement and sustains long focused engagement](co-construction-scribe-teacher-fosters-composition-autonomy.md) — related
 - [In triadic robot-mediated problem solving, children spontaneously embodied early mathematics and science knowledge, using gestures and whole-body movement to represent properties, processes, and reasoning sequences](embodied-early-math-science-reasoning.md) — related
 - [The robot's bodily movement triggered children to reposition themselves, producing a fluid, mobile learning space](robot-fluid-learning-space.md) — related
+- [Videogame play in class fostered peer competition, peer support, and student attention and immersion](videogame-peer-collaboration-attention.md) — related

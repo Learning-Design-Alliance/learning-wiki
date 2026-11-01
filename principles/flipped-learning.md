@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 76 claims (36 for, 38 mixed, 2 against) · 57 studies (18 quant-synthesis, 17 causal, 13 review, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 22 of 57 report an effect size · 68 claims rest on one study
+> **Evidence** · 84 claims (42 for, 40 mixed, 2 against) · 60 studies (20 causal, 18 quant-synthesis, 13 review, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 22 of 60 report an effect size · 76 claims rest on one study
 
 ## Conditional relationship
 
@@ -155,6 +155,8 @@ Claims from the calculus study behind a core claim, read on 2026-10-15 and left 
 - [Flipped classroom teaching improves medical students' multiple-choice question scores compared to traditional teaching](../claims/flipped-classroom-improves-mcq-scores-medical-students.md) [+W] — attached 2026-10-31 from Zhang Z et al. (2024), which proposed "Prioritize flipped classroom and simulation teaching for improving medical students' knowledge assessment performance"; tests this page's relationship.
 - [Flipped classroom instruction is associated with higher final knowledge scores than traditional instruction in medical education (SMD 0.90).](../claims/flipped-classroom-higher-knowledge-scores-medical-education.md) [+W] — attached 2026-10-31 from de Azevedo Cardoso T et al. (2025), which proposed "Implement the flipped classroom in medical curricula with preclass quizzes, active in-class activities, and alignment of activities with learning objectives."; tests this page's relationship.
 - [The flipped classroom effect on knowledge scores is larger in basic science subjects than in clinical or public health subjects.](../claims/flipped-classroom-larger-effect-basic-science-subjects.md) [+W] — attached 2026-10-31 from de Azevedo Cardoso T et al. (2025), which proposed "Implement the flipped classroom in medical curricula with preclass quizzes, active in-class activities, and alignment of activities with learning objectives.".
+- [Flipped classroom combined with active-learning activities yields higher pooled exam scores than flipped classroom with minimal discussion in introductory A&P](../claims/flipped-active-learning-higher-pooled-exam-scores-ap.md) [+W] — attached 2026-11-01 from Maria Entezari et al. (2016), which proposed "Flip content-intensive science courses together with in-class active learning, not video materials alone"; tests this page's relationship.
+- [Within the flipped-classroom experimental group, post-test engagement scores were significantly higher than pre-test scores on all five sub-dimensions](../claims/experimental-group-prepost-engagement-gain.md) [+W] — attached 2026-11-01 from Ayçiçek et al. (2018), which proposed "Use the flipped classroom model to enhance classroom engagement, with teacher preparation and technical capacity planning".
 
 ## Objective and learner-valued goal
 
@@ -210,6 +212,12 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - [The flipped classroom effect is robust to research design and controls for student and instructor equivalence](../claims/flipped-effect-robust-to-design-and-equivalence-controls.md) [+W]
 - [Study results are highly heterogeneous across flipped classroom studies (I2 = 75.6%)](../claims/flipped-classroom-studies-high-heterogeneity.md) [~W]
 - [Using videos and 3D animations in classroom activities versus as homework produced no statistically significant difference in post-test conceptual understanding scores](../claims/videos-3d-animations-classroom-vs-homework-no-difference.md) [-W]
+- [Flipped classroom instruction produced higher instructional material motivation scores than traditional instruction](../claims/flipped-classroom-higher-motivation-imms.md) [+W]
+- [Group work and discussion in the flipped classroom provided immediate feedback and supported shy students' participation, per the authors' observations](../claims/group-work-immediate-feedback-shy-students.md) [+W]
+- [Flipped and traditional groups did not differ in basic technology competencies](../claims/flipped-classroom-no-technology-competency-difference.md) [~W]
+- [Flipped and traditional instruction did not differ in students' technological perception scores](../claims/flipped-classroom-no-technological-perception-difference.md) [~W]
+- [Active-learning flipped instruction improved correct answers at all three Bloom difficulty levels, with the largest gains on medium and difficult questions](../claims/active-learning-gains-across-bloom-difficulty-levels.md) [+W]
+- [Flipped classroom instruction produced higher achievement posttest scores than traditional instruction in an instructional technologies course for pre-service mathematics teachers](../claims/flipped-classroom-higher-achievement-preservice-math.md) [+W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — how support in the pre-class work and the live session is withdrawn across a term

@@ -76,3 +76,4 @@ The report's student progress analysis compares EOY outcomes for students at ben
 - [Most students at risk at BOY remain at risk later, but students who meet benchmark by midyear tend to stay on track](midyear-ontrack-students-stay-ontrack.md) — related
 - [The percentage of Massachusetts K–3 students identified as significantly below benchmark decreased from 36 percent at BOY to 29 percent at EOY in 2022/23](ma-literacy-risk-declines-boy-to-eoy.md) — related
 - [The percentage of students who stay at risk across time periods increases across grade levels K–3](staying-at-risk-increases-with-grade-level.md) — related
+- [Most SPARK students who started below the PALS literacy benchmark reached benchmark by post-test, while nearly all below-benchmark controls stayed below](spark-below-benchmark-students-met-benchmark.md) — related

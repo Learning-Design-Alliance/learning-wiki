@@ -40,9 +40,11 @@ The final recommendation is to consider alternate ways of evaluating student wri
 - [Social Constructionism In Composition](../theories/social-constructionism-in-composition.md)
 
 ## Related Strategies
+
 - [Writing Process Portfolios](writing-process-portfolios.md)
 - [Portfolio Assessment](portfolio-assessment.md)
 - [Drafting And Feedback Cycles](drafting-and-feedback-cycles.md)
+- [Use portfolio assessment as a complementary alternative alongside traditional timed writing assessment](portfolio-complementary-to-traditional-assessment.md)
 
 ## Examples
 -

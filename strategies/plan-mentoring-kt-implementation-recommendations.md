@@ -52,6 +52,7 @@ In its Linking Evidence to Action section, the review recommends that clinical e
 ## Related Strategies
 
 - [Mentoring](mentoring.md)
+- [Permit teachers to adapt and integrate programme materials in their own way in future trials, and consider remote delivery of training and support when scaling](teacher-adaptation-and-remote-training-at-scale.md)
 
 ## Examples
 -

@@ -68,3 +68,4 @@ Same pre–post analysis using Woodcock Johnson III standard scores. The results
 - [After one year of SMART® intervention, only the fluency outcome was statistically significant, while alphabetics and comprehension effects were not](smart-one-year-interim-mixed-significance.md) — related
 - [Program-specific gains appeared only in isolated t-tests: GRR on reading comprehension and RAVE-O on word-level efficiency measures](program-specific-ttest-gains.md) — related
 - [Within the same passage, treatment students' fluency increased from Monday cold reads to Friday reads each week](weekly-within-passage-fluency-increases.md) — related
+- [In a single-group pre-/posttest study of 266 students with IEPs, Fusion Reading produced statistically significant gains on the TOSCRF (d = 0.55) and a mean grade-level gain of 0.92 after about 4 months](fusion-toscrf-single-group-gains.md) — related

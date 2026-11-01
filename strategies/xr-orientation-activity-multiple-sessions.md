@@ -45,6 +45,7 @@ The review recommends that XR-based training designs include an orientation acti
 - [Provide students access to prevalent digital tools to develop fluency and confidence as an integral part of DL education programs](provide-access-prevalent-tools-dl-fluency.md)
 - [Provide an orientation period for Grade 1 students and teacher-facing monitoring dashboards](grade1-orientation-and-teacher-dashboard-strategy.md)
 - [Provide nursing students with repeated exposures to HFPS sessions to build self-efficacy and self-confidence over time](repeated-hfps-exposures-self-efficacy-confidence.md)
+- [Teach conflict resolution experientially over an extended period with opportunities to practice skills](extended-experiential-conflict-training-strategy.md)
 
 ## Examples
 -

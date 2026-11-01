@@ -13,7 +13,7 @@ generated:
 # Worked Examples
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 40 claims (19 for, 17 mixed, 4 against) · 44 studies (21 causal, 12 review, 5 theoretical, 4 quant-synthesis, 1 associational, 1 design), `q1`–`q4` · 8 of 44 report an effect size · 31 claims rest on one study
+> **Evidence** · 41 claims (20 for, 17 mixed, 4 against) · 44 studies (21 causal, 12 review, 5 theoretical, 4 quant-synthesis, 1 associational, 1 design), `q1`–`q4` · 8 of 44 report an effect size · 32 claims rest on one study
 
 ## Description
 Worked examples are the element in which learners study complete or partial solutions before attempting similar problems independently.
@@ -74,6 +74,7 @@ Worked examples are the element in which learners study complete or partial solu
 - [Students trained with both backward worked examples and backward problem solving significantly outperformed control and BWE-only students on posttest problem scores](../claims/bwe-bps-training-improves-posttest-problem-scores.md) [~W]
 - [Alternating examples and problems yielded more learning and more conceptual knowledge than examples alone or problem-solving alone](../claims/examples-plus-problems-beat-examples-alone.md) [~W]
 - [Worked examples combined with practice writing improved clinical note checklist scores more than worked examples alone](../claims/worked-examples-plus-practice-improve-note-scores.md) [+W]
+- [Prior knowledge moderated the effect of incorrect worked examples: students with low prior knowledge benefited most, and prior knowledge no longer predicted post-test scores in the incorrect examples group](../claims/prior-knowledge-moderates-incorrect-examples.md) [+W] — attached 2026-11-01 from Barbieri et al. (2016), which proposed "Incorrect worked examples worksheets with self-explanation prompts for systems of equations"; tests this page's relationship.
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

@@ -59,3 +59,4 @@ Quasi-experimental non-equivalent groups comparison of grades in the course "Did
 - [Flip teaching in laboratory sessions produces significantly higher laboratory grades than traditional methodology in Physics and Electricity courses.](flipped-lab-teaching-higher-lab-grades.md) — related
 - [Flipped classroom shows significant positive effects across class sizes, with the largest reported effect for medium-sized classes](flipped-classroom-class-size-moderation.md) — related
 - [Flipped classroom effects do not differ significantly between theoretical and practical knowledge, though practical knowledge shows a slightly larger effect](flipped-classroom-knowledge-type-no-significant-difference.md) — related
+- [Flipped classroom instruction produced significantly higher calculus achievement than traditional instruction in a quasi-experiment at University of Tabuk](flipped-classroom-significant-achievement-gain-tabuk-calculus.md) — related

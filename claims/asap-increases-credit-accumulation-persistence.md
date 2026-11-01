@@ -60,3 +60,4 @@ Findings table from the WWC review reporting the Scrivener et al. (2015) RCT of 
 - [Linked learning communities show no discernible effects on any of five outcome domains for community college students in developmental education](linked-learning-communities-no-discernible-effects-five-domains.md) — reports the opposite
 - [Year Up is likely to increase short-term earnings for low-income young adults](year-up-positive-short-term-earnings.md) — related
 - [FLIGHT may increase college enrollment among disadvantaged students, with 97% of the FLIGHT group versus 83% of the comparison group enrolling in college](flight-potentially-positive-college-enrollment.md) — related
+- [Second-year credit impacts persisted and grew in Ohio and New Mexico but were not significant in New York](pbs-second-year-credit-impacts-ohio-new-mexico.md) — related

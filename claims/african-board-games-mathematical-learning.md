@@ -67,3 +67,4 @@ The review attributes to Magonziwa (2017), an empirical dissertation on Tsoro in
 - [Classic African board games function as learning spaces where multidomain learning occurs](classic-african-board-games-learning-spaces.md) — a broader claim this one bears on
 - [Number Board Games Improve Numerical Knowledge](number-board-games-improve-numerical-knowledge.md) — related
 - [Bao gameplay is linked to economic decision-making and entrepreneurial skills](bao-gameplay-economic-entrepreneurial-skills.md) — related
+- [Playing mathematical board games at school significantly improved 3rd-grade students' ability to solve additive-change (transformation) problems](board-games-improve-additive-change-problem-solving.md) — a narrower finding that bears on this claim
