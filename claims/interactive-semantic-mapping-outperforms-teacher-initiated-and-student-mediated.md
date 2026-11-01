@@ -58,3 +58,4 @@ Randomized five-month experiment with 187 Egyptian EFL freshmen (62 interactive,
 - Experimental and control groups showed no significant pre-test difference in reading comprehension before treatment — related
 - [ESL students taught concept mapping show significantly greater pretest-to-posttest achievement gains than students taught an alternative learning strategy](concept-mapping-greater-achievement-gains-esl.md) — related
 - [Explicit instruction of four reading comprehension strategies with short stories yields higher reading comprehension post-test scores than regular syllabus instruction in EFL preparatory students](explicit-strategy-instruction-short-stories-improve-efl-reading-comprehension.md) — related
+- [Instruction through Telegram groups produces significantly higher intermediate EFL reading comprehension post-test scores than traditional classroom instruction](telegram-group-instruction-improves-reading-comprehension-posttest.md) — related

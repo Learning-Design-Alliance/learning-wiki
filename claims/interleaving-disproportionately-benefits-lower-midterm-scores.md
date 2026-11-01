@@ -51,3 +51,4 @@ Regression analysis of final exam z-scores (Model 2) including the Homework Type
 - [Interleaving benefits were not detected on high-stakes midterm exams taken after cramming](interleaving-no-midterm-benefit-cramming.md) — related
 - [Controlling for prior knowledge and demographics, interleaving benefited all students on the final exam (β = 0.21, p < 0.001)](interleaving-final-exam-main-effect.md) — related
 - [On raw exam scores, interleaved homework produced no significant midterm difference between sections but a significant final exam advantage for the interleaved section](interleaved-homework-final-exam-raw-advantage-calculus.md) — related
+- [A pilot study with 83 seventh graders found a large interleaving benefit (d = 0.97) preceding the main trial](interleaving-pilot-study-large-effect.md) — related

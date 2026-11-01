@@ -1,0 +1,52 @@
+---
+type: claim
+title: Mobile learning applications improve undergraduate academic achievement compared with traditional lecture-based instruction
+description: Mobile learning applications improve undergraduate academic achievement compared with traditional lecture-based instruction
+id: mobile-learning-improves-achievement-quasi-experiment
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-01
+evidence_strength: moderate
+newest_evidence: 2018
+sources:
+  - id: kadir-demir-2018
+    resource: "http://dx.doi.org/10.17220/mojet.2018.04.004"
+    title: "Kadir DEMIR, Ercan AKPINAR. (2018). The effect of mobile learning applications on students' academic achievement and attitudes toward mobile learning. Malaysian Online Journal of Educational Technology. http://dx.doi.org/10.17220/mojet.2018.04.004"
+    author: Kadir DEMIR, Ercan AKPINAR
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
+---
+
+# Mobile learning applications improve undergraduate academic achievement compared with traditional lecture-based instruction
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i?` The experimental (mobile learning) group scored significantly higher than the control group on the academic achievement post-test (p<.05), with no pre-test difference. [→ Kadir DEMIR 2018](#kadir-demir-2018)
+
+## Evidence
+
+### Kadir DEMIR 2018
+
+Kadir DEMIR, Ercan AKPINAR. (2018). The effect of mobile learning applications on students' academic achievement and attitudes toward mobile learning. Malaysian Online Journal of Educational Technology. http://dx.doi.org/10.17220/mojet.2018.04.004
+
+`q2 · i?` · `causal · r1`
+
+Quasi-experimental comparison of a mobile learning group (n=15) and a traditional lecture group (n=26) using a 23-item researcher-developed achievement test (KR-20 = 0.83); Mann-Whitney U showed "significant difference was found in favour of experiment group after research (p<.05)".
+
+> "There was no significant difference between academic achievements of both groups before research (p>.05) while significant difference was found in favour of experiment group after research (p<.05)."
+
+## Discussion
+
+
+## Related Claims
+- [Students in the mobile learning group developed higher-quality animations than control students](mobile-learning-animation-development-advantage.md) — related
+- [Undergraduate students taught organic chemistry with an analogy instructional strategy achieved significantly higher post-test scores than students taught by traditional lecture methods](analogy-strategy-improves-organic-chemistry-achievement.md) — related
+- [Structured AI-supported writing instruction produced a large posttest writing proficiency advantage over traditional instruction in Saudi EFL undergraduates](structured-ai-workflow-writing-gains-efl.md) — related
+- [AI-supported PBL students obtain significantly higher posttest academic achievement scores in robotics programming than traditional-lecture students when controlling pretest scores](ai-pbl-higher-posttest-academic-achievement.md) — related
+- [Junior secondary students taught algebraic expressions with card games and algebra tic-tacmatics achieved significantly higher adjusted post-test scores than students taught by conventional lecture method](games-enhance-algebraic-expressions-achievement-js2.md) — related

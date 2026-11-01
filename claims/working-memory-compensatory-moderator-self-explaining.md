@@ -54,3 +54,4 @@ OLS path-analytic moderation (Preacher & Hayes framework) on comparison accuracy
 - [Schema-based word-problem intervention improves multiplicative fraction word-problem solving, with no advantage of the explaining component on that outcome](word-problem-intervention-improves-fraction-word-problems.md) — related
 - [A self-explanation instruction during rereading improves monitoring accuracy for all readers above mere rereading (Experiment 2)](self-explanation-improves-metacomprehension-accuracy.md) — reports the opposite
 - [Working memory capacity predicts monitoring accuracy after a single reading but not after rereading, independently of comprehension ability (Experiment 2)](wmc-by-rereading-interaction.md) — related
+- [Supported self-explaining improves fraction magnitude comparison knowledge (ES 0.43) and explanation quality (ES 0.93), and compensates for low working memory](supported-self-explaining-fraction-magnitudes.md) — a broader claim this one bears on

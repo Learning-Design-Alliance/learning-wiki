@@ -50,3 +50,4 @@ Experiment 2 independent t-test (Bonferroni-corrected p < 0.025) on the 10-item 
 - [The interleaving benefit appears in three of four problem-type-by-delay comparisons; the slope-problem effect at 1 day was not statistically significant](interleaving-benefit-by-problem-type-and-delay.md) — related
 - [The test benefit of interleaved practice does not diminish over time and perhaps grows larger (d = 0.79 at 30 days)](interleaving-benefit-persists-thirty-days.md) — related
 - [The interleaving benefit is not caused by spacing, and the benefit extends to delayed tests](interleaving-not-spacing-persists-over-delay.md) — a broader claim this one bears on
+- [A pilot study with 83 seventh graders found a large interleaving benefit (d = 0.97) preceding the main trial](interleaving-pilot-study-large-effect.md) — related

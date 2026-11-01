@@ -64,6 +64,7 @@ Highlighting is a generative activity in principle — deciding *what* to mark f
 - [Annotating](../principles/annotating.md) — the broader element; marking is its most minimal form
 - [Advance Organizers](../elements/advance-organizers.md) — an alternative way to direct attention, provided before reading rather than generated during it
 - [Content selection: identify important sentences or concepts before generating questions](aqg-content-selection-strategy.md)
+- [Three consciousness-raising text techniques: Recall, Reconstruction, and Bolding-Underlying](recall-reconstruction-bolding-underlying-techniques.md)
 
 ## Examples
 - **Annotation protocols in AP/IB English courses** — students mark claims, evidence, and rhetorical moves with distinct symbols, then write from their annotations rather than re-reading.

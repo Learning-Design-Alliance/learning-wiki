@@ -63,3 +63,6 @@ Independent samples t-test on pre-test scores in the quasi-experimental study (n
 - [Interacting with Clair had no significant effect on secondary-school students' post-test knowledge acquisition](clair-no-effect-knowledge-acquisition.md) — related
 - [EMME-guided and unguided video groups did not differ significantly on post-test knowledge scores](emme-no-posttest-knowledge-difference.md) — related
 - [LinkedIn group community did not significantly affect teaching and learning perception, community, or skills development](linkedin-group-no-effect-other-dimensions.md) — related
+- [Experimental and control groups did not differ significantly in pre-test science achievement before the intervention](7e-study-pretest-equivalence.md) — possibly the same claim (merge candidate)
+- [Experimental and control groups were statistically equivalent on religious-concepts pretest before the intervention](kwl-study-pretest-equivalence.md) — related
+- [The TIP and educational games groups were equivalent in prior literacy knowledge at pre-test](tip-games-groups-equivalent-pretest-literacy.md) — related

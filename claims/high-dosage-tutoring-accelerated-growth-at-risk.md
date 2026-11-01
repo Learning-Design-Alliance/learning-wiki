@@ -64,3 +64,4 @@ The brief's own synthesis statement, reviewing the collection of research on hig
 - [High-quality tutoring produces large learning gains cost-effectively, in person and virtually](tutoring-large-cost-effective-gains.md) — a broader claim this one bears on
 - [At the median cutoff, proactive and reactive tutoring show no significant difference in MAP growth, with proactive benefits increasing for students farther below the cutoff](didc-cutoff-null-proactive-benefit-increases-below-cutoff.md) — a narrower finding that bears on this claim
 - [Weak-minded children are capable of being taught if proper methods are employed, but the hope of improvement diminishes with age](feeble-minded-teachable-methods-age-limits.md) — related
+- [SPARK was implemented at high tutoring dosage across all six sites, though session levels differed significantly between schools](spark-implementation-high-dosage-site-differences.md) — a narrower finding that bears on this claim

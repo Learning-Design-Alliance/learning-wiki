@@ -79,3 +79,4 @@ Washington interviews. A child welfare agency administrator reports that formal 
 - [California's ECE data collection is fragmented and unaggregated, limiting its utility for improving the system](california-ece-fragmented-data-systems.md) — related
 - [Public schools in the NAZ Zone identified 25 percent of students as homeless or highly mobile in 2008-2009](naz-schools-25-percent-homeless-highly-mobile.md) — related
 - The article reports that research terminology such as 'diagnosis' and 'analysis' is used ambiguously and needs more careful definition — related
+- [State confidentiality laws and varying FERPA interpretation restrict researcher access to SLDS records](ferpa-state-laws-restrict-slds-access.md) — related

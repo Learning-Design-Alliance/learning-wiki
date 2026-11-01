@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 157 claims (104 show a difference, 37 mixed, 16 no difference) · 117 studies (42 review, 26 associational, 18 causal, 15 quant-synthesis, 7 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 31 of 117 report an effect size · 153 claims rest on one study
+> **Evidence** · 158 claims (105 show a difference, 37 mixed, 16 no difference) · 118 studies (42 review, 26 associational, 19 causal, 15 quant-synthesis, 7 qualitative, 5 design, 4 theoretical), `q1`–`q4` · 32 of 118 report an effect size · 154 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -198,6 +198,7 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [Psychosocial factors (bullying, interpersonal skills) and executive cognitive functions may mediate the obesity–achievement association](../claims/psychosocial-executive-mediation-obesity-achievement.md) [~M] — learners who differ on it differ in outcomes
 - [The Through the D'mentia Lens virtual reality simulation improved caregivers' empathy and confidence in caring](../claims/tdl-virtual-reality-improved-empathy-confidence.md) [+M] — instruction changes it
 - [Well-described qualitative evaluations of NM programmes reported positive impacts most frequently on relationship-building (15 programmes), empathy (10) and perspective-taking/reflection (10)](../claims/nm-qualitative-evaluations-competency-impacts.md) [+M] — instruction changes it
+- [PTR-YC increases preschool children's social skills more than business-as-usual, as measured by the SSIS social skills subscale](../claims/ptr-yc-increases-ssis-social-skills-vs-bau.md) [+M] — instruction changes it
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

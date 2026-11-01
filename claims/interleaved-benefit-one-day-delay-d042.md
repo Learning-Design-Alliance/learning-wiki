@@ -53,3 +53,4 @@ Classroom test administered 1 day after the review session, comparing students a
 - [Interleaved practice improves delayed posttest performance compared with blocked practice](interleaved-practice-improves-posttest-performance.md) — a broader claim this one bears on
 - [In Experiment 2, the interleaving benefit on actual test outcomes was not statistically significant, unlike in Experiment 1](interleaving-outcome-benefit-nonsignificant-exp2.md) — related
 - [Interleaved homework yields higher surprise criterial test scores than blocked homework in undergraduate physics, with larger effects in Stage 2](interleaving-criterial-test-benefit-physics.md) — related
+- [Mostly interleaved mathematics practice outscored mostly blocked practice on an unannounced delayed test in a large cluster randomized classroom trial](interleaved-practice-beats-blocked-delayed-test-rohrer-2019.md) — a broader claim this one bears on

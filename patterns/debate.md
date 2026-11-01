@@ -29,7 +29,7 @@ sources:
 # Debate
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 23 claims (3 for, 18 mixed, 2 against) · 31 studies (12 causal, 7 review, 5 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 5 of 31 report an effect size · 16 claims rest on one study
+> **Evidence** · 24 claims (4 for, 18 mixed, 2 against) · 32 studies (13 causal, 7 review, 5 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative, 1 design), `q1`–`q4` · 5 of 32 report an effect size · 17 claims rest on one study
 
 ## Description and scope
 
@@ -110,6 +110,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~M] — not yet checked against its sources
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — novice debaters benefit from explicit routines for claim-evidence-reasoning rather than only being told to "argue well"
+- [WSDC debate instruction significantly improved tenth-grade EFL students' speaking skill achievement within the experimental group](../claims/wsdc-debate-improves-efl-speaking-skill.md) [+W] — attached 2026-11-01 from Iman (2017), which proposed "Thirteen-step classroom debate instructional procedure from teacher explanation to summary".
 
 ## Illustrative design instance and observation record
 

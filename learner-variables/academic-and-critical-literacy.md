@@ -13,7 +13,7 @@ generated:
 # Academic and Critical Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 53 claims (34 show a difference, 14 mixed, 5 no difference) · 44 studies (12 causal, 9 associational, 8 quant-synthesis, 7 review, 3 qualitative, 3 design, 2 theoretical), `q1`–`q4` · 11 of 44 report an effect size · 50 claims rest on one study
+> **Evidence** · 55 claims (36 show a difference, 14 mixed, 5 no difference) · 45 studies (13 causal, 9 associational, 8 quant-synthesis, 7 review, 3 qualitative, 3 design, 2 theoretical), `q1`–`q4` · 11 of 45 report an effect size · 52 claims rest on one study
 
 ## Description
 This page brings together two related factors from the Learner Variability Navigator; its third, Core Academic Literacies (general fluency across the core subjects), is on [prior knowledge](prior-knowledge.md). Disciplinary literacy is the ability to read, write, speak and present in the ways each discipline uses (proofs, lab reports, historical arguments) and, for adults, in real-world domains such as health and finance. Critical literacy is the ability to identify a text's purpose, motives and possible biases, which supports comprehension and critical thinking and prepares learners for civic participation.
@@ -91,6 +91,8 @@ They are assessed through performance tasks rather than a single test: argumenta
 - [School physical activity interventions did not significantly improve language, reading, or composite academic scores compared with controls](../claims/pa-interventions-no-effect-language-reading-composite.md) [-M] — instruction changes it
 - [Review-reported studies: writing portfolios were valued for improving writing and reflection and reported to reduce EFL learners' test anxiety](../claims/review-reported-writing-portfolios-reduce-anxiety-build-skills.md) [+M] — instruction changes it
 - [School-based physical activity shows no significant effect on language expression achievement](../claims/school-based-physical-activity-no-effect-language-expression.md) [-W] — instruction changes it
+- [Both instructional programmes improved children's literacy performance from pre-test to post-test](../claims/both-programmes-improved-literacy-pre-post.md) [+M] — instruction changes it
+- [Ninth-graders in the Project READI text-based explanatory modeling intervention outperformed control students on comprehension and modeling measures, and intervention teachers differed from control teachers](../claims/readi-rct-intervention-outperformed-control.md) [+M] — instruction changes it
 
 ## Measures
 - **Test of Functional Health Literacy in Adults (TOFHLA)** (Parker et al., 1995): This test measures the reading comprehension and numeracy skill components of health literacy in adults using real-life health situations.

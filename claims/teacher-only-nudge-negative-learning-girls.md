@@ -48,3 +48,4 @@ Subgroup analysis by child sex in the school-randomized trial (2246 observations
 - [Teacher-only and combined parent-teacher nudges showed no statistically significant impacts on learning; point estimates were small and negative for the learning summary and literacy, and near zero for numeracy](teacher-and-combined-nudge-arms-no-learning-impacts.md) — related
 - [Parents-only SMS/audio nudges produced statistically non-significant learning gains of d = 0.081 in rural Cote d'Ivoire](ivorian-parents-only-nudge-nonsignificant-learning-gains.md) — related
 - [Parents-only nudges marginally significantly increased child-reported child labor (d = 0.113), contrary to intervention goals](parents-only-nudge-increased-child-labor.md) — related
+- [Exploratory sub-group analyses suggested PAL worked better for girls than boys in literacy and numeracy, with small effects](pal-gender-subgroup-girls-benefit.md) — related

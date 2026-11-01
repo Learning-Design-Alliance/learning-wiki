@@ -50,3 +50,4 @@ Multilevel meta-regression with robust variance estimation across the 39 effect 
 - [Leisure digital reading habits show a small positive association with reading comprehension (r = .055), much smaller than for print reading habits](leisure-digital-reading-small-positive-comprehension-association.md) — related
 - [The motivational effect of GenAI is larger in higher education than in primary and secondary education (exploratory)](genai-motivation-effect-larger-university-than-school.md) — related
 - [Effects on reading comprehension are larger for primary schoolers than secondary schoolers and larger for typical readers than struggling readers, with no such differences for affirming motivations](comprehension-effects-sample-moderators.md) — related
+- [Students with high reading habit have better reading comprehension than students with low reading habit](high-reading-habit-better-comprehension.md) — related

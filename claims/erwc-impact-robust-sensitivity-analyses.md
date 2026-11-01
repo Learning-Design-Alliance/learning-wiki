@@ -50,3 +50,4 @@ Sensitivity analyses in the impact evaluation chapter varied the matching approa
 - Meta-analytic estimates are robust to the assumed within-study effect size correlation in sensitivity analyses — related
 - [Assignment to the ERWC 3.0 in grade 11 produced a positive, statistically significant impact on achievement on the Non-PT ICA, but no statistically significant impact on the Summative Assessment sample](grade-11-erwc-positive-impact-non-pt-ica-only.md) — related
 - [The intervention effects on mathematics are robust across model specifications and did not differ between RCT and COVID-affected implementation contexts](math-effects-robust-across-rct-and-covid-contexts.md) — related
+- [Under RCT-YES default (alternative) assumptions, differences from the reference model-based method are slightly larger than under matched assumptions and are limited to clustered designs](alternative-assumptions-differences-limited-to-clustered-designs.md) — related

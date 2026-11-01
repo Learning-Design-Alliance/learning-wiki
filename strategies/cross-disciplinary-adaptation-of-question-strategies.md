@@ -41,6 +41,7 @@ In future work, the authors recommend extending the framework beyond computer sc
 - [Logic Puzzles](logic_puzzles.md)
 - [Adapt the guided inquiry policy co-design activity across disciplines, framing AI as a sociotechnical system](adapt-genai-codesign-across-disciplines-sociotechnical-framing.md)
 - [Design questions with engineered knowledge gaps LLMs cannot bridge alone, via non-existing scenarios and guided mathematical reasoning](engineered-knowledge-gap-question-design.md)
+- [Re-arrange and extend the web-assisted flipped-classroom activity materials to other science subjects and disciplines](rearrange-web-assisted-materials-other-subjects.md)
 
 ## Examples
 -

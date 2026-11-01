@@ -54,3 +54,4 @@ Analysis of individual practice curves for the white girls in Chart I. The autho
 - [Learning-curve plateaus were caused by learners' failure to overcome specific difficulties at critical stages, not by the order in which habits developed](plateaus-caused-by-unovercome-difficulties.md) — related
 - [Practice curves in computation and reasoning would resemble the learning curves of Bryan and Harter and Book](practice-curves-computation-reasoning-bryan-harter.md) — related
 - [A sixteen-day wigwag-code learning task yields reliable learning curves with wide individual differences, with negro girls as a group inferior to white girls (Baldwin)](wigwag-code-learning-curves-delinquent-girls.md) — related
+- [Feasibility of implementing PAL in classrooms was mixed: initial enthusiasm faded as teacher workload accumulated](pal-feasibility-mixed-enthusiasm-faded.md) — related

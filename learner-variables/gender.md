@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 374 claims (216 show a difference, 87 mixed, 71 no difference) · 248 studies (150 associational, 44 causal, 19 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 44 of 248 report an effect size · 366 claims rest on one study
+> **Evidence** · 379 claims (218 show a difference, 88 mixed, 73 no difference) · 251 studies (150 associational, 47 causal, 19 review, 16 quant-synthesis, 8 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 44 of 251 report an effect size · 371 claims rest on one study
 
 ## How to read this page
 
@@ -413,6 +413,11 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Study location (NA vs non-NA) significantly moderates the FCI gender gap, with wider gaps in NA-based studies](../claims/study-location-moderates-fci-gender-gap.md) [~W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Study location accounts for 11.38% of the between-study heterogeneity in FCI gender gap estimates](../claims/study-location-explains-11-percent-heterogeneity.md) [~W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Two non-NA studies found female students outperformed male students on the FCI, contrasting the overall pattern](../claims/non-na-female-superiority-fci-studies.md) [~W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Both male and female students gained from games-based instruction, though the gain was higher for males](../claims/both-sexes-gain-from-games-males-more.md) [~M] — an instructional effect differs by group
+- [Male and female experimental groups did not differ significantly in reading comprehension at post-test after Telegram instruction](../claims/no-gender-difference-telegram-reading-posttest.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Male students taught algebraic expressions with games achieved significantly higher adjusted scores than female students](../claims/games-favor-male-algebra-achievement.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [No statistically significant difference in acquiring religious concepts attributed to students' gender](../claims/no-gender-difference-religious-concepts-kwl.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The effect of games-based instruction on algebraic expressions achievement interacted significantly with gender, favoring male students](../claims/method-gender-interaction-algebra-games.md) [+M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

@@ -46,3 +46,4 @@ Descriptive transcript analysis of N = 3,635 Add Health students categorized on 
 
 ## Related Claims
 - [Higher education polygenic scores predict placement into more advanced 9th-grade math courses, robust to family SES, school SES, and school fixed effects](education-pgs-predicts-9th-grade-math-tracking.md) — related
+- [Grade in the first mathematics class is a major determinant of whether a student stays in a STEM major](first-math-grade-determines-stem-retention.md) — related

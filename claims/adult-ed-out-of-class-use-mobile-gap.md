@@ -75,3 +75,4 @@ The report attributes this figure to a Tyton Partners report, not to its own stu
 - [Mobile devices make education more accessible anytime and anywhere, but this attractiveness comes with limitations for adoption and usage](mobile-access-anytime-anywhere-with-adoption-limits.md) — a broader claim this one bears on
 - [Using the Kakao-Talk mobile messaging tool outside class improved low-proficiency students' English to-verb writing](kakao-talk-improved-english-writing.md) — related
 - [Students accessed the website extensively outside school hours, with use spanning up to 20 hours per day](website-access-extends-beyond-school-hours.md) — related
+- [Interviewed students reported increased motivation and learning support from mobile learning, alongside technical problems](mobile-learning-student-views-motivation-technical-issues.md) — related

@@ -56,3 +56,4 @@ Direct test of H2 in the randomized three-condition experiment (N = 154): an ANC
 - [Leveraging appropriate types of guidance during the relevant phases of inquiry benefits student inquiry in virtual and remote labs](phase-appropriate-guidance-benefits-inquiry-labs.md) — related
 - [Combining real and virtual laboratories outperforms either single modality in physics learning outcomes](combined-real-virtual-labs-outperform-single-modes.md) — reports the opposite
 - [Virtual laboratories match physical laboratories on conceptual mastery, with domain-specific advantages and disadvantages](virtual-matches-physical-conceptual-mastery.md) — related
+- [Combining analogy-based simulation with laboratory activities produces significantly higher corrected post-test achievement in simple electricity than either environment alone](combined-simulation-laboratory-beats-either-alone-electricity.md) — related

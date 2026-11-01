@@ -45,6 +45,7 @@ To address technological access disparities, the review recommends that "Educato
 - [Support gamified learning implementation with teacher training, technical preparedness, and regular tool evaluation](gamification-implementation-support-strategy.md)
 - [Consider Socio-Cultural Factors](consider_socio-cultural_factors.md)
 - [Platform Agnostic Design](platform_agnostic_design.md)
+- [Provide reliable Internet/Wi-Fi and sufficient devices when implementing mobile learning](provide-internet-wifi-and-devices-mobile-learning-implementation.md)
 
 ## Examples
 -

@@ -13,7 +13,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 215 claims (151 show a difference, 38 mixed, 26 no difference) · 153 studies (43 causal, 38 review, 38 associational, 14 quant-synthesis, 11 theoretical, 6 qualitative, 3 design), `q1`–`q4` · 31 of 153 report an effect size · 206 claims rest on one study
+> **Evidence** · 218 claims (154 show a difference, 38 mixed, 26 no difference) · 155 studies (45 causal, 38 review, 38 associational, 14 quant-synthesis, 11 theoretical, 6 qualitative, 3 design), `q1`–`q4` · 31 of 155 report an effect size · 209 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -264,6 +264,9 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Automated scoring and feedback technologies help trainees save time and self-monitor progress, but VR assessment may measure efficiency rather than safe practices](../claims/automated-feedback-efficiency-limitation.md) [+M] — instruction changes it
 - [Learning plans helped students as a framework and focus for learning, but effects were limited to setting a wide range of learning objectives and increased focus](../claims/learning-plans-effects-limited-goal-setting.md) [~M] — instruction changes it
 - [Mentor-guided SRL approaches positively affected residents' practice, including progressive independence in goal setting and improved practice habits](../claims/mentor-guided-srl-positive-resident-practice.md) [+M] — instruction changes it
+- [Homework solutions showed experimental students using multiple strategies correctly while control students made additive errors](../claims/homework-solutions-show-strategy-and-error-differences.md) [+W] — instruction changes it
+- [Strategy teaching increased students' use of problem-solving strategies and reduced error types in ratio problems](../claims/strategy-teaching-increases-strategy-use-reduces-errors.md) [+M] — instruction changes it
+- [Web-based metacognitive skills training significantly improved college students' self-plan, self-monitor, and total metacognitive scores from pretest to posttest](../claims/web-training-prepost-gains-self-plan-self-monitor.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]

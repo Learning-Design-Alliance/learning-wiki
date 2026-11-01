@@ -24,7 +24,7 @@ sources:
 # Transfer of Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 35 claims (22 for, 12 mixed, 1 against) · 36 studies (15 causal, 8 review, 5 quant-synthesis, 5 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 6 of 36 report an effect size · 31 claims rest on one study
+> **Evidence** · 36 claims (23 for, 12 mixed, 1 against) · 37 studies (15 causal, 9 review, 5 quant-synthesis, 5 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 7 of 37 report an effect size · 32 claims rest on one study
 
 ## Conditional relationship
 
@@ -152,6 +152,7 @@ Recall of the taught items, near transfer, far transfer, delayed transfer and us
 - [One-trial generalization of parsing rule structure exceeds sensorimotor mapping benefits: onset of skill B is approximately 19% larger in the PARSING RULE than the RANDOM group](../claims/parsing-generalization-exceeds-sensorimotor-mapping.md) [+W]
 - [Word items transfer to Story items but Story items show no significant transfer to Word items in LCM practice](../claims/word-to-story-asymmetric-transfer.md) [~W]
 - [Near-transfer to untaught text structures is non-significant with wide uncertainty (g = 0.62, CI crossing near zero)](../claims/tsi-near-transfer-untaught-structure-nonsignificant.md) [-W]
+- [Schema-based multiplicative word-problem instruction transfers to additive word problems, but additive instruction does not transfer to multiplicative problems](../claims/multiplicative-word-problem-instruction-superior.md) [+W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md)

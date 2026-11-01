@@ -71,3 +71,4 @@ Simple-slope breakdown of the competence-by-attention interaction printed unstan
 - [In-class attention and complex spatial ability (MRT) predict seventh-grade mathematics achievement above and beyond prior mathematical knowledge](attention-and-mrt-predict-seventh-grade-math-above-prior-achievement.md) — related
 - [Mathematics anxiety for learning is indirectly related to seventh-grade mathematics achievement through reduced in-class attention](math-anxiety-indirect-effect-through-attention.md) — related
 - [Hypothesized ATI effects of individualized explanations based on typical mistakes were not supported; exploratory benefits emerged for high-resource vocational-school students](individualized-explanations-ati-hypotheses-not-supported.md) — related
+- [There is no interaction between learning approach (SSML vs CL) and mathematical prior knowledge (upper, middle, low) on enhancement of MPSA](no-interaction-approach-mpk-mpsa.md) — reports the opposite

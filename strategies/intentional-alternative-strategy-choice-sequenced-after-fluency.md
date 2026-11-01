@@ -44,6 +44,7 @@ This strategy has students recognize and generate multiple solution strategies, 
 - [Reasoning-Focused Instruction](reasoning-focused_instruction.md)
 - [De-emphasize Answers, Emphasize Reasoning](de-emphasize-answers-emphasize-reasoning.md)
 - [Have learners develop their own problem-solving templates instead of replicating instructor templates](learner-generated-problem-solving-templates.md)
+- [Teach ratio through varied contextual problem states solved with multiple strategies](teach-ratio-varied-contextual-problems-multiple-strategies.md)
 
 ## Examples
 -

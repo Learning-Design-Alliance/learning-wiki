@@ -65,3 +65,4 @@ The essay reports, citing Szpunar et al. (2013), a comparison of interpolated-qu
 - [Lab-trained mind wandering detectors generalize to in-the-wild lecture viewing across task, setting, and cultural group, with BiLSTM on latent features reaching F1 = 0.352](cross-dataset-generalization-mind-wandering-detection.md) — related
 - [Segmentation of instructional videos enhances learning outcomes](segmentation-enhances-video-learning.md) — a broader claim this one bears on
 - [Instructor visuals do not reduce mind wandering during video lectures](instructor-visuals-no-mind-wandering-reduction.md) — related
+- [The benefit of multimedia pre-lectures depends on cognitive level of the question, largest for understanding (Level-2) and analyzing (Level-4)](prelecture-benefit-depends-cognitive-level.md) — related

@@ -49,3 +49,4 @@ ANCOVA in SPSS 20 on the Sun et al. (2017) self-regulation scale (post-test Cron
 
 ## Related Claims
 - [Help-seeking was the only self-regulation construct favored by 3D VR co-creation; the other five constructs were favored by 2D digital co-creation](help-seeking-prominent-in-vr-cocreation.md) — related
+- [ANCOVA controlling for pre-test scores showed a significant post-test attitude difference favoring the project-based group](ancova-significant-posttest-attitude-difference-pbl.md) — related

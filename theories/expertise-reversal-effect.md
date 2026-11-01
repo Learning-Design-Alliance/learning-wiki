@@ -12,7 +12,7 @@ generated:
 # Expertise Reversal Effect
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 14 claims (10 for, 3 mixed, 1 against) · 15 studies (7 review, 4 causal, 3 theoretical, 1 quant-synthesis), `q1`–`q3` · 1 of 15 report an effect size · 12 claims rest on one study
+> **Evidence** · 16 claims (11 for, 4 mixed, 1 against) · 17 studies (7 review, 6 causal, 3 theoretical, 1 quant-synthesis), `q1`–`q3` · 1 of 17 report an effect size · 14 claims rest on one study
 
 ## Description
 The expertise reversal effect is the idea that instructional guidance that helps novices can become redundant or counterproductive as learner expertise increases.
@@ -33,6 +33,8 @@ The expertise reversal effect is the idea that instructional guidance that helps
 - [Instructional approach interacts with prior knowledge for lasting learning, with benefits concentrated among stronger students](../claims/aptitude-treatment-interaction-prior-knowledge-lasting-learning.md) [-W]
 - [Cognitive load eliminated instruction-induced reversal of specific PIT in prior cited work, suggesting reversal instruction use is resource-dependent](../claims/cognitive-load-eliminates-reversal-pit-cited.md) [~W]
 - [Less experienced users benefit more from XR training, though evidence is mixed across longitudinal studies](../claims/novices-benefit-more-from-xr-training.md) [+W]
+- [Programming language and prior experience interact on GUI-programming exam success: novices do better with the blocks-based language, experienced students with the text-based language](../claims/language-experience-interaction-gui-exam.md) [+W]
+- [There is no interaction between learning approach (SSML vs CL) and mathematical prior knowledge (upper, middle, low) on enhancement of MPSA](../claims/no-interaction-approach-mpk-mpsa.md) [~W]
 
 ## The evidence by question
 - *For whom: does support that helps novices stop helping as task-specific expertise grows?* [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [+S]

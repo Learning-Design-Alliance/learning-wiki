@@ -47,3 +47,4 @@ Feasibility-section discussion of the research application process, based on the
 ## Related Claims
 - [Existing legal and sector guidance each address only part of ethical learning analytics governance, and none integrates all six LEAGUE dimensions](existing-guidance-partial-ethical-coverage.md) — related
 - [Institutional approval processes, privacy regulations, technology access, and limited classroom time constrained chatbot adoption beyond instructional value](institutional-privacy-practical-barriers-chatbot-adoption.md) — related
+- [State confidentiality laws and varying FERPA interpretation restrict researcher access to SLDS records](ferpa-state-laws-restrict-slds-access.md) — a broader claim this one bears on

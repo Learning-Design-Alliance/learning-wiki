@@ -35,7 +35,7 @@ sources:
 # Analogical Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (7 for, 11 mixed) · 25 studies (9 causal, 5 review, 4 qualitative, 3 quant-synthesis, 3 associational, 1 design), `q2`–`q4` · 4 of 25 report an effect size · 11 claims rest on one study
+> **Evidence** · 20 claims (8 for, 12 mixed) · 27 studies (11 causal, 5 review, 4 qualitative, 3 quant-synthesis, 3 associational, 1 design), `q1`–`q4` · 4 of 27 report an effect size · 13 claims rest on one study
 
 ## Conditional relationship
 
@@ -122,6 +122,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Qualities metaphors depicted GenAI as unknowable, unreliable and unbounded, with participants unsettled by its opacity](../claims/qualities-metaphors-genai-unknowable-unreliable.md) [~W]
 - [Role metaphors positioned GenAI as helper, learning partner, and friend/foe, with a high proportion combining friend and foe](../claims/role-metaphors-genai-frenemy-ambivalence.md) [+W]
 - [Students who compared a climate model with non-climate analog models during productive failure scored significantly higher on far across domain transfer than students who used only the climate model](../claims/two-models-comparison-far-across-domain-transfer.md) [+M] — attached 2026-10-23 from Jacobson et al. (2020), which proposed "Scaffold comparison of two contrasting-domain models during productive failure exploration to foster far across domain transfer"; tests this page's relationship.
+- [Undergraduate students taught organic chemistry with an analogy instructional strategy achieved significantly higher post-test scores than students taught by traditional lecture methods](../claims/analogy-strategy-improves-organic-chemistry-achievement.md) [+W] — attached 2026-11-01 from Nawaf Ahmad Hasan Samara (2016), which proposed "Teach abstract organic chemistry concepts with explicit analogies in which students actively relate analog and target concepts"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -139,6 +140,7 @@ Recognising that a source applies, mapping it correctly, using the principle on 
 
 - [Relational reasoning shifts by grade level and object familiarity in students grades 1 to 12](../claims/relational-reasoning-varies-by-grade-and-familiarity.md) [~W]
 - [Case comparisons produced significantly higher learning gains than single cases for organic chemistry students with low prior knowledge (attributed to Kranz et al., under review)](../claims/case-comparisons-higher-learning-gain-low-prior-knowledge.md) [+W]
+- [The authors observed higher course motivation among students using the analogy-based simulations](../claims/observed-motivation-analogy-simulation-students.md) [~W]
 
 ## Related Principles
 - [Activation](activation.md) — analogies often work by activating prior knowledge before introducing a new concept

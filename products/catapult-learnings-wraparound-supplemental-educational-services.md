@@ -34,7 +34,8 @@ A Catapult Learning supplemental-education programme that delivers AchieveLitera
 - [Engelmann's Direct Instruction curricula improve academic outcomes across reading, mathematics, language and spelling](../claims/direct-instruction-improves-outcomes.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Reading Success Academy](reading-success-academy.md)
 
 ## Key Sources
 - Catapult Learning's Wraparound Supplemental Educational Services. (2024). Evidence review, program description and outcomes. https://evidenceforessa.org/program/catapult-learnings-educational-services/

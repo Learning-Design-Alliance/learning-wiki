@@ -29,6 +29,7 @@ A five-item Chinese-adapted self-report scale developed by Duan et al. to assess
 ## Related Products and Programmes
 
 - [Generative AI Student Feedback Literacy Scale (GenAI-SFLS)](generative-ai-student-feedback-literacy-scale-genai-sfls.md)
+- [Self-Directed Learning Readiness Scale (SDLRS)](self-directed-learning-readiness-scale-sdlrs.md)
 
 ## Key Sources
 - Duan, N., Li, L., Lin, G. & Chen, H. (2026). The impact of AI anxiety on career decisions of college students. Scientific Reports. https://doi.org/10.1038/s41598-026-37648-y

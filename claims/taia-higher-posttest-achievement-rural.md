@@ -58,3 +58,5 @@ One-way ANCOVA in the six-week quasi-experiment (final sample 94 students; EG n 
 - [Open inquiry enhances students' science literacy and related skills such as environmental literacy, argumentation, autonomy and reflection](open-inquiry-science-literacy-skills.md) — related
 - [Open inquiry enhances students' scientific and thinking skills, including metacognitive and creative thinking](open-inquiry-scientific-thinking-skills.md) — related
 - [Accuracy of experimentation shows no condition differences but a small condition effect and correlates strongly with conceptual understanding at post-test](experimentation-accuracy-correlates-with-understanding.md) — related
+- [Secondary students taught in an e-classroom with ICT resources significantly outperform students taught by conventional methods on post-test achievement](e-classroom-outperforms-conventional-teaching.md) — related
+- [The experimental and control groups did not differ significantly in programming knowledge at pretest](pretest-equivalence-programming-groups.md) — related

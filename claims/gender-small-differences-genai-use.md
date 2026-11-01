@@ -79,3 +79,4 @@ Comparison of early-stage undergraduates (Years 1–2) with more advanced studen
 - [Undergraduate students’ genAI knowledge contains specific confident misconceptions, most prevalently that AI chatbots perform web searches](genai-misconceptions-web-search-item.md) — related
 - [AI Paradox: students report higher confidence in critical AI awareness than in operational AI usage (p = 0.015)](ai-paradox-critical-awareness-overestimation.md) — related
 - [Baseline motivational states shape perceived AI benefits more than demographics, with female-coded gender the only significant demographic effect (lower perceived competence relief)](baseline-motivation-outweighs-demographics-ai-benefits.md) — related
+- [Treatment shows a moderate correlation with argumentation skill while demographic variables show negligible correlations](treatment-moderate-correlation-argumentation-demographics-negligible.md) — related

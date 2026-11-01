@@ -46,3 +46,4 @@ RCT among 261 adult Dutch problem drinkers testing a Web-based self-help interve
 
 ## Related Claims
 - [Personalized Normative Feedback Corrects Misperceived Norms](personalized-normative-feedback-corrects-misperceived-norms.md) — related
+- [Within the intervention group alcohol consumption fell significantly at 1 and 2 months but not at 4 months, while the control group significantly increased consumption at 4 months](aec-prevented-consumption-increase-control-group.md) — related

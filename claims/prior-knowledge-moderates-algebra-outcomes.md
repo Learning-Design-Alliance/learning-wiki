@@ -77,3 +77,4 @@ Two-way ANOVA on pre-post learning gains in the same 49-student classroom study.
 - [HPK students improved significantly only in the Low-Agency condition, with a large post-test advantage over HPK peers in High-Agency (d = .95)](hpk-improved-only-low-agency.md) — related
 - [Students with low prior knowledge achieved the greatest learning gains in the multi-agent AI course, with a significant main effect of prior knowledge on gain](low-prior-knowledge-greatest-gains-multi-agent.md) — related
 - [Teaching method remains the strongest predictor of belief shifts even when pretest scores are taken into account](teaching-method-beats-pretest-predicting-shifts.md) — related
+- [There is no interaction between learning approach (SSML vs CL) and mathematical prior knowledge (upper, middle, low) on enhancement of MPSA](no-interaction-approach-mpk-mpsa.md) — related

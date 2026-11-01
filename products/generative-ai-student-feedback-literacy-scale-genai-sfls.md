@@ -32,6 +32,7 @@ A 39-item Chinese-language self-report scale developed by Cui et al. to measure 
 - [31-item five-scale questionnaire measuring AI support, mediators, and innovative competence](31-item-five-scale-questionnaire-measuring-ai-support-mediators-and-innovative-competence.md)
 - [GenAI Reliance Types Scale (GenAI-RTS)](genai-reliance-types-scale-genai-rts.md)
 - [Generative AI Literacy Assessment Test (GLAT)](generative-ai-literacy-assessment-test-glat.md)
+- [Self-Directed Learning Readiness Scale (SDLRS)](self-directed-learning-readiness-scale-sdlrs.md)
 
 ## Key Sources
 - Yan Z, Fang Z and Zou W (2026). The association between generative AI use and university students' critical thinking: a moderated mediation model of GenAI feedback literacy and reflective thinking. Front. Psychol. 17:1939286. https://doi.org/10.3389/fpsyg.2026.1939286

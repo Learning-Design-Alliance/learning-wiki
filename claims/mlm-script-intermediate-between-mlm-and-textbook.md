@@ -70,3 +70,4 @@ Table III of the Results section prints effect sizes and p-values for all pairwi
 - [In one author's classroom media experiments, intuitive learners tended to score above sensing learners, though not in every format comparison](intuitive-learners-outperform-sensing-learners.md) — related
 - [Multimedia motivational introductory messages produce better immediate knowledge-test outcomes than traditional teaching aids in elementary Nature and Society lessons](multimedia-introductory-message-better-immediate-tests.md) — related
 - [The learning advantage of multimedia introductory messages is partially visible on global exams and not durable across the study](multimedia-introductory-message-exam-effect-partial.md) — related
+- [Video-group students self-reported better understanding of the material than textbook-group students (44% vs 36% felt they understood well or very well)](video-group-higher-self-reported-understanding.md) — related

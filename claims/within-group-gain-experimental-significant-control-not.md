@@ -1,0 +1,49 @@
+---
+type: claim
+title: "Within the experimental group, achievement rose significantly from pre-test to post-test, while the control group's gain was not statistically significant"
+description: "Within the experimental group, achievement rose significantly from pre-test to post-test, while the control group's gain was not statistically significant"
+id: within-group-gain-experimental-significant-control-not
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-01
+evidence_strength: moderate
+newest_evidence: 2017
+sources:
+  - id: murat-çetinkaya-2017
+    resource: "http://iaesjournal.com/online/index.php/IJERE"
+    title: "Murat Çetinkaya. (2017). Designing and Applying Web Assisted Activities to be Used in Flipped Classroom Model. International Journal of Evaluation and Research in Education (IJERE), Vol.6, No.2, June 2017, pp. 128~137. http://iaesjournal.com/online/index.php/IJERE"
+    author: Murat Çetinkaya
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 2
+---
+
+# Within the experimental group, achievement rose significantly from pre-test to post-test, while the control group's gain was not statistically significant
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i?` The experimental group showed a statistically significant pre-test to post-test increase (t(74)=4.674, p<0.05), whereas the control group showed no statistically significant difference (t(74)=1.740, p>0.05). [→ Murat Çetinkaya 2017](#murat-cetinkaya-2017)
+
+## Evidence
+
+### Murat Çetinkaya 2017
+
+Murat Çetinkaya. (2017). Designing and Applying Web Assisted Activities to be Used in Flipped Classroom Model. International Journal of Evaluation and Research in Education (IJERE), Vol.6, No.2, June 2017, pp. 128~137. http://iaesjournal.com/online/index.php/IJERE
+
+`q2 · i?` · `causal · r2`
+
+T-test analysis of pre-test and post-test scores reported in Table 2: experimental group means rose from 51.3493 to 66.8892; control group means rose from 49.0971 to 55.4032. The article reports the experimental gain as "statistically s ignificant" and the control gain as not significant.
+
+> "there was a statistically s ignificant difference between the pre-test and post -test results of the experimental group students (t(74)= 4 .674; p<0.05). In control group students, no statistically significant difference was found between the pre -test and post -test results (t(74)= 1.740; p>0.05)."
+
+## Discussion
+
+
+## Related Claims
+- [The ADI group showed significant within-group gains on demonstrated scientific literacy from pre- to post-test, while the structured-inquiry group did not](adi-within-group-sla-d-gain-comparison-null.md) — related
+- [Both the GenAI-permitted and control groups improved significantly in instructional design performance and AI readiness over the course, but not in SRL or critical thinking](within-group-gains-design-and-ai-readiness-only.md) — related

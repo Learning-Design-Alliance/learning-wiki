@@ -81,6 +81,7 @@ Committing to a prediction before instruction activates prior conceptions and cr
 
 **Problem-Based Learning tutorials** — Students generate hypotheses about the underlying mechanism of a presenting problem before self-directed study, then reconvene to test those hypotheses against new information.
 - [Scaffold hypothesis formation before testing and provide tools for explicit hypothesis statements in games](../strategies/scaffold-hypothesis-formation-before-testing.md)
+- [Use predict-then-simulate tasks in which learners forecast outcomes and compare them against scientific model results](../strategies/predict-then-simulate-lake-level-tasks.md)
 
 ## Key Sources
 - Crouch, C. H., & Mazur, E. (2001). Peer instruction: Ten years of experience and results. *American Journal of Physics, 69*(9), 970–977. [doi:10.1119/1.1374249](https://doi.org/10.1119/1.1374249)

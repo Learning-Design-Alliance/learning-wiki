@@ -57,3 +57,4 @@ Multivariate multilevel models with spring WJ III W scores as dependent variable
 - [Kindergarten teacher-child conflict and low self-regulation jointly predict decreases in school engagement, which in turn predicts first-grade academic competence](conflict-and-self-regulation-reduce-engagement-then-competence.md) — related
 - [Low self-regulation (inattention and impulsivity) at kindergarten entry predicts greater teacher-child conflict by kindergarten spring, and this effect persists into first grade](low-self-regulation-predicts-teacher-conflict-persisting.md) — related
 - [Fall RRRP predicted spring reading outcomes, with Part 1 predicting decoding and comprehension and Part 2 predicting vocabulary and gains in comprehension and vocabulary](rrrp-parts-differentially-predict-reading-outcomes.md) — related
+- [TRI treatment did not significantly improve spring Passage Comprehension for struggling English learners](tri-no-passage-comprehension-effect.md) — related

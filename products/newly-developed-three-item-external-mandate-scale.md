@@ -25,7 +25,8 @@ A three-item self-report scale developed by Li et al. to measure university EFL 
 - [External Mandate shows no significant direct relationship with Deep Revision Engagement](../claims/external-mandate-no-direct-effect-deep-revision.md) [~M]
 
 ## Related Products and Programmes
--
+
+- [Self-Directed Learning Readiness Scale (SDLRS)](self-directed-learning-readiness-scale-sdlrs.md)
 
 ## Key Sources
 - Li, H. and Zhang, W. (2026). Empowerment over enforcement: unpacking the psychological drivers of AI-assisted deep revision in EFL writing. Front. Psychol. 17:1871022. https://doi.org/10.3389/fpsyg.2026.1871022

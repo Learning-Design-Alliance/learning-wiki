@@ -34,6 +34,7 @@ A one-page construct-map instrument in a practical measurement guide that define
 
 - [Curriculum-Based Professional Learning (CBPL) Questionnaire](curriculum-based-professional-learning-cbpl-questionnaire.md)
 - [OGAP Math](ogap-math.md)
+- [SoS classroom fidelity observation tool](sos-classroom-fidelity-observation-tool.md)
 
 ## Key Sources
 - Assessing ELA and Math Curriculum Shifts: A Practical Guide for Measurement and Progress Monitoring. Shared Measures Construct Map. https://edinstruments.org/toolkits/assessing-ela-and-math-curriculum-shifts-practical-guide-measurement-and-progress

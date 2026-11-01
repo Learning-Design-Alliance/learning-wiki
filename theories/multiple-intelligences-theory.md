@@ -12,7 +12,7 @@ generated:
 # Multiple Intelligences Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 12 claims (4 for, 7 mixed, 1 against) · 6 studies (3 quant-synthesis, 2 review, 1 theoretical), `q1`–`q3` · 2 of 6 report an effect size · 12 claims rest on one study
+> **Evidence** · 17 claims (8 for, 8 mixed, 1 against) · 7 studies (3 quant-synthesis, 2 review, 1 causal, 1 theoretical), `q1`–`q3` · 2 of 7 report an effect size · 17 claims rest on one study
 
 ## Description
 Howard Gardner (1983) proposed that intelligence is not the single general factor ("g") that Charles Spearman and earlier theorists described, but a set of at least eight relatively independent intelligences — commonly listed as linguistic, logical-mathematical, spatial, musical, bodily-kinesthetic, interpersonal, intrapersonal, and naturalistic. Gardner (1999) later proposed a ninth, **existential** intelligence, which he himself notes "has yet to experience full acceptance by educators in the classroom." A person typically excels in some of these and not others, which is a direct challenge to instructional designs that treat "ability" as a single scale a learner sits somewhere on.
@@ -57,6 +57,11 @@ Gardner's inter- and intrapersonal intelligences are often combined by other res
 - [Effect of MIT-based instruction does not differ significantly by course type, though foreign-language courses show the largest point estimate (d = 1.958)](../claims/mit-effect-homogeneous-course-type.md) [~W]
 - [Effect of MIT-based instruction does not differ significantly by duration of experimental procedure](../claims/mit-effect-homogeneous-experiment-duration.md) [~W]
 - [Effect of MIT-based instruction does not differ significantly between master's theses and doctoral dissertations](../claims/mit-effect-homogeneous-thesis-type.md) [~W]
+- [MI-based instruction produced significantly greater overall improvement in General English achievement than traditional instruction among Iranian university students](../claims/mi-instruction-improves-general-english-achievement.md) [+W] — attached 2026-11-01 from Habib Soleimani et al. (2012), which proposed "Gardner's theory of Multiple Intelligences as an instructional framework for language teaching".
+- [MI-based instruction significantly improved students' attitudes toward learning English relative to traditional instruction](../claims/mi-instruction-improves-attitude-toward-english.md) [+W] — attached 2026-11-01 from Habib Soleimani et al. (2012), which proposed "Gardner's theory of Multiple Intelligences as an instructional framework for language teaching".
+- [MI-based instruction significantly improved the vocabulary sub-skill of General English relative to traditional instruction](../claims/mi-instruction-improves-vocabulary-subskill.md) [+W]
+- [MI-based instruction significantly improved the structure sub-skill of General English relative to traditional instruction](../claims/mi-instruction-improves-structure-subskill.md) [+W]
+- [MI-based instruction significantly improved reading comprehension relative to traditional instruction, tested by independent-samples t-test](../claims/mi-instruction-improves-reading-comprehension.md) [~W]
 
 ## Related Theories
 

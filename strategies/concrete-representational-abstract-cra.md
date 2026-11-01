@@ -123,6 +123,7 @@ CRA manages intrinsic cognitive load by giving abstract notation a referent lear
 5. Provide immediate corrective [feedback](../elements/provide-feedback.md) at each level and [assess performance](../elements/assess-performance.md) against a mastery criterion before advancing
 
 ## Related Strategies
+
 - [Cognitively Guided Instruction (CGI for Math)](../principles/responsive-teaching.md) — shares CRA's commitment to grounding symbols in learners' own models of quantities
 - [Explicit Teaching](../patterns/direct-instruction.md) — CRA is typically delivered through explicit modeling, guided practice, and independent practice
 - [Manipulative-Based Instruction](../strategies/activating-prior-knowledge.md) — the concrete phase generalizes beyond mathematics to science and other domains
@@ -133,6 +134,7 @@ CRA manages intrinsic cognitive load by giving abstract notation a referent lear
 - Multiple representations — CRA is a specific, ordered case of teaching with linked representations
 - [Multiple Representations](multiple-representations.md) — the broader principle of linking forms; CRA is a temporal sequencing of it
 - [Scaffolding](scaffolding.md) — the stage sequence is a scaffold that must be faded as symbolic competence grows
+- [Match each approach to its phase: analogies for abstract concepts, templates for problem solving, CFC at the start of code writing](phase-matched-cfc-analogy-template-usage.md)
 
 ## Examples
 - **Place value**: learners build 342 with base ten blocks, then draw flats/longs/units, then write the numeral — with the numeral introduced while blocks are still visible

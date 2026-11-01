@@ -14,7 +14,7 @@ grain_size: lesson
 # Peer Teaching
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 35 claims (16 for, 16 mixed, 3 against) · 21 studies (10 quant-synthesis, 6 causal, 2 review, 2 design, 1 theoretical), `q1`–`q4` · 10 of 21 report an effect size · 32 claims rest on one study
+> **Evidence** · 37 claims (16 for, 17 mixed, 4 against) · 22 studies (10 quant-synthesis, 7 causal, 2 review, 2 design, 1 theoretical), `q1`–`q4` · 10 of 22 report an effect size · 34 claims rest on one study
 
 ## Description and scope
 
@@ -133,6 +133,8 @@ This pattern is scoped to learners teaching one another material they have met, 
 - [Sixth graders acting as peer tutors tended to take over problems and provide inaccurate feedback rather than help their tutee](../claims/sixth-graders-poor-peer-tutors.md) [-W]
 - [A synergistic effect between tutor and tutee roles may explain the peer agent's advantage](../claims/tutor-tutee-synergistic-effect.md) [+W]
 - [Peer-assisted ultrasound instruction is comparably effective to faculty-led instruction in most comparative studies](../claims/peer-teaching-ultrasound-comparable-to-faculty.md) [+W]
+- [Exploratory sub-group analyses suggested PAL worked better for girls than boys in literacy and numeracy, with small effects](../claims/pal-gender-subgroup-girls-benefit.md) [~W]
+- [The PAL pilot's secondary outcome showed a non-significant negative effect on attitude towards school](../claims/pal-pilot-attitude-school-null-negative.md) [-W]
 
 ## Related Patterns
 - [Jigsaw](fostering-communities-of-learning-fcl.md)

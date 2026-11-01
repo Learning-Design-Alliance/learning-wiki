@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 149 claims (103 show a difference, 35 mixed, 11 no difference) · 128 studies (47 causal, 31 associational, 22 review, 14 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 28 of 128 report an effect size · 145 claims rest on one study
+> **Evidence** · 152 claims (104 show a difference, 36 mixed, 12 no difference) · 130 studies (49 causal, 31 associational, 22 review, 14 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 28 of 130 report an effect size · 148 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -206,6 +206,9 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Mandatory attendance policy initially raised attendance but was abolished due to dissatisfaction, administrative burden and declining performance](../claims/mandatory-attendance-policy-mixed-outcomes.md) [+M] — instruction changes it
 - [Removal of an attendance credit policy coincided with a statistically significant attendance decrease](../claims/attendance-credit-removal-decrease.md) [+M] — instruction changes it
 - [Active classrooms increase time on task compared with traditional classrooms](../claims/active-classrooms-increase-time-on-task.md) [+W] — instruction changes it
+- [SPARK showed no statistically significant impact on regular school day attendance](../claims/spark-no-attendance-impact.md) [-M] — instruction changes it
+- [SPARK was implemented at high tutoring dosage across all six sites, though session levels differed significantly between schools](../claims/spark-implementation-high-dosage-site-differences.md) [+M] — instruction changes it
+- [The instruction-by-time interaction favoring the simulation group was only marginally significant (one-tailed p = 0.085, g2 = 0.05), and the main effect of instruction was not significant](../claims/interaction-marginally-significant-instruction-time.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 

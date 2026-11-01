@@ -61,9 +61,11 @@ Hands-on making converts abstract content into a tangible product, which support
 6. Share and reflect: gallery walks or presentations let learners see multiple solutions to the same design problem.
 
 ## Related Strategies
+
 - [Project-Based Learning](project-based-learning-pbl.md) — arts and crafts artifacts often serve as project products
 - [Journals and Learning Logs](journals_and_learning_logs.md) — reflective writing can pair with artifact-making to consolidate learning
 - [Acting-Role-Play](acting-role-play.md) — a parallel embodied/expressive mode for engaging content
+- [Use plasticized-clay creative art activities as a medium for developing preschoolers' basic mathematics skills](plasticized-clay-art-activities-math-strategy.md)
 
 ## Examples
 - **Reggio Emilia approach** — preschool programs where artifact-making ("the hundred languages of children") is a primary mode of concept exploration and documentation (https://www.reggiochildren.it)

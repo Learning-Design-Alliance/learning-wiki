@@ -30,7 +30,7 @@ sources:
 # Cooperative Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 53 claims (30 for, 23 mixed) · 45 studies (19 quant-synthesis, 7 causal, 7 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 18 of 45 report an effect size · 45 claims rest on one study
+> **Evidence** · 56 claims (31 for, 25 mixed) · 47 studies (19 quant-synthesis, 9 causal, 7 review, 6 design, 3 theoretical, 2 associational, 1 qualitative), `q1`–`q4` · 18 of 47 report an effect size · 48 claims rest on one study
 
 ## Description and scope
 
@@ -158,6 +158,9 @@ This pattern is scoped to small-group work where each member's individual learni
 - [The effect of cooperative learning on mathematics achievement does not differ significantly by educational level](../claims/educational-level-moderator-not-significant.md) [~W]
 - [Among applications for retention of pre-service teachers, the Learning Together Technique had the highest effect size (d=2,0606, huge) and the Jigsaw Technique the lowest (d=0,5461, medium)](../claims/learning-together-highest-retention-jigsaw-lowest-meta-analysis.md) [+W]
 - [Cooperative learning, computer-supported collaborative learning, and digital games probably improve learning.](../claims/cooperative-learning-cscl-and-digital-games-probably-improve-learning.md) [+W]
+- [Jigsaw IV instruction produced a statistically significant pre-to-post achievement gain in the experiment group](../claims/jigsaw-iv-significant-pre-post-gain.md) [+W]
+- [Jigsaw II instruction produced a statistically significant pre-to-post achievement gain in the control group](../claims/jigsaw-ii-significant-pre-post-gain.md) [~W]
+- [TGT produced significant positive shifts on two of sixteen mathematics-attitude statements in the experimental group](../claims/tgt-attitude-shifts-two-statements.md) [~W]
 
 ## Related Patterns
 

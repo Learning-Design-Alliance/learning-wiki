@@ -21,7 +21,7 @@ sources:
 # Fostering Communities of Learning (FCL)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 27 claims (15 for, 12 mixed) · 42 studies (13 quant-synthesis, 12 review, 7 causal, 5 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 10 of 42 report an effect size · 16 claims rest on one study
+> **Evidence** · 28 claims (15 for, 13 mixed) · 43 studies (13 quant-synthesis, 12 review, 8 causal, 5 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 10 of 43 report an effect size · 17 claims rest on one study
 
 ## Description and scope
 
@@ -133,6 +133,7 @@ This pattern is scoped to a class or cohort that researches the parts of a share
 - [Knowledge-building practices are defined at the community unit of analysis but enacted at the small-group discursive unit](../claims/practices-community-level-enacted-small-group.md) [~W]
 - [Turn-taking test review makes each member's expertise visible, enabling peers to locate and draw on community knowledge](../claims/test-review-brings-expertise-to-open.md) [~W]
 - [Supporting the learning process includes supporting student teamwork, shared learning, and student self-efficacy through standing back and enabling student-led learning](../claims/supporting-learning-process-competencies.md) [+W]
+- [Jigsaw IV instruction produced a statistically significant pre-to-post achievement gain in the experiment group](../claims/jigsaw-iv-significant-pre-post-gain.md) [~W]
 
 ## Related Patterns
 - [Collaborative Inquiry](../principles/inquiry-based-learning.md)

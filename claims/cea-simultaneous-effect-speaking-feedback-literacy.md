@@ -51,3 +51,4 @@ Quasi-experiment with pretest-posttest control group design; 60 first-semester v
 - [Experimental-group students outperformed control-group students on post-test feedback literacy after CEA implementation](cea-improved-feedback-literacy.md) — a narrower finding that bears on this claim
 - [Experimental-group students outperformed control-group students on post-test speaking performance after CEA implementation](cea-improved-speaking-performance.md) — a narrower finding that bears on this claim
 - [AI-peer integrated feedback produces significantly higher posttest affective engagement than conventional peer feedback in EFL writing](ai-peer-feedback-higher-affective-engagement.md) — related
+- [Learning method significantly influences conceptual understanding and learning independence simultaneously in physics learning](learning-method-manova-omnibus-effect.md) — related

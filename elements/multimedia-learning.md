@@ -13,7 +13,7 @@ generated:
 # Multimedia Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 31 claims (19 for, 12 mixed) · 33 studies (15 causal, 7 review, 6 quant-synthesis, 3 associational, 2 qualitative), `q2`–`q4` · 12 of 33 report an effect size · 27 claims rest on one study
+> **Evidence** · 32 claims (20 for, 12 mixed) · 34 studies (16 causal, 7 review, 6 quant-synthesis, 3 associational, 2 qualitative), `q2`–`q4` · 12 of 34 report an effect size · 28 claims rest on one study
 
 ## Description
 Multimedia learning is the element in which learners engage with coordinated combinations of words, visuals, audio, animation, or interactive media. It is useful when multiple representations clarify structure, process, or relationship more effectively than a single mode alone.
@@ -67,6 +67,7 @@ Multimedia learning is the element in which learners engage with coordinated com
 - [Narration combined with drama or explanatory film was the most effective TV teaching method; drama alone was not very effective](../claims/narration-with-drama-or-film-best-tv-method.md) [+W]
 - [Visual cognitive style, pacing, and visualization interact: highly developed visualizers learn poorer with self-paced static pictures than with system-paced static pictures](../claims/triple-interaction-visual-style-pacing-visualization.md) [~W]
 - [College music educators made the most extensive use of audio-visual materials while college music specialists made the least, and every group reported difficulty finding suitable material](../claims/music-av-use-group-differences.md) [~W]
+- [Students taught with the animation model significantly outperformed traditionally taught control students on the ATP generation post-test](../claims/animation-outperformed-traditional-instruction-atp-achievement.md) [+W] — attached 2026-11-01 from Jena (2015), which proposed "Learner-controlled web animation of the electron transport system and ATP synthesis with student-authored animation models"; tests this page's relationship.
 
 ## The evidence by question
 

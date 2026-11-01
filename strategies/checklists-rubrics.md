@@ -70,6 +70,7 @@ Rubrics and checklists improve performance primarily by clarifying expectations 
 - [Use a universal rubric with dual criteria — standards alignment and access/equity — for cross-content-area review of instructional materials](universal-rubric-dual-criteria-review-strategy.md)
 - [Use rubrics to make assessment criteria and performance levels explicit so students can regulate their learning](rubrics-transparency-support-self-regulation.md)
 - [Use instructor-defined labeled rubric with ordinal levels to structure peer assessment and feedback](labeled-rubric-ordinal-peer-assessment.md)
+- [Use rubric-scored feedback plus self-assessment and satisfaction checks to develop critical-appraisal skills](rubric-feedback-self-assessment-strategy.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — modeling rubric application on sample work

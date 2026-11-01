@@ -48,3 +48,4 @@ Simulation result for World 1 (constant treatment effects, no heterogeneity). Un
 ## Related Claims
 - [RITA outperforms an RCT-derived ATE baseline in simulated worlds with heterogeneous treatment effects](rita-outperforms-rct-baseline-under-heterogeneity.md) — possibly the same claim (merge candidate)
 - [RITA can account for unobserved heterogeneity in treatment effects, while existing frequentist and bandit approaches can only address observed heterogeneity](rita-handles-unobserved-heterogeneity.md) — related
+- [Taking individual treatment effects into account yields better intervention choices than a single uniform assignment](individual-effect-better-intervention-choice.md) — reports the opposite

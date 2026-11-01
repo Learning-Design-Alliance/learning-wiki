@@ -67,6 +67,7 @@ Blogging works because it combines generative writing, spaced practice, and auth
 - [Annotating](../principles/annotating.md) — structured commenting on peers' posts is a form of social annotation
 - [Check-ins](../elements/check-in.md) — short reflective posts can double as low-stakes formative check-ins
 - [Instructor-managed blog activities recommended for maximizing blog learning and teaching potential](instructor-managed-blog-activities-recommendations.md)
+- [Contextualize English grammar instruction within purposeful, authentic writing tasks](contextualized-grammar-in-authentic-writing.md)
 
 ## Examples
 - **Edublogs (https://edublogs.org)** — hosted class and student blogs widely used in K–12, with teacher moderation and privacy controls

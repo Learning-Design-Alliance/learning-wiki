@@ -65,3 +65,4 @@ Testimony of Phyllis Rosser citing MIT's admissions experience as evidence again
 - [Single-sex math classrooms raised female students' math performance by 7–10% over co-educational programs](single-sex-classrooms-raise-female-math-performance.md)
 - [Women score lower than men in high-stakes final exams across advanced undergraduate STEM courses, with mean differences of 2.5 to ~7 points on a 100-point scale](gender-gap-high-stakes-exams-advanced-stem.md) — related
 - [Addressing women in the feminine rather than the masculine in Hebrew improves their maths test scores and reduces the maths gender gap](feminine-address-improves-women-maths-scores.md) — related
+- [Grade in the first mathematics class is a major determinant of whether a student stays in a STEM major](first-math-grade-determines-stem-retention.md) — related

@@ -59,3 +59,4 @@ Quasi-experimental post-test control group study with 25 experimental and 25 con
 - [Teacher modeling with worked examples helped EFL students internalize reading comprehension strategies](teacher-modeling-internalizes-reading-strategies.md) — related
 - [Teacher-student interactive semantic mapping produced higher EFL reading comprehension posttest scores than teacher-initiated and student-mediated semantic mapping](interactive-semantic-mapping-outperforms-teacher-initiated-and-student-mediated.md) — related
 - [Kyrgyzstani EFL students' written English responses increased and non-responses decreased without explicit instruction to answer in English](increased-english-use-adt-responses.md) — related
+- [Seventh-grade Thai students taught with the genre-based approach reported significantly higher motivation to read English than students taught with the teacher's manual](genre-based-approach-reading-motivation-thai-grade7.md) — related

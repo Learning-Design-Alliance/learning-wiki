@@ -13,7 +13,7 @@ generated:
 # Proportional Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 37 claims (25 show a difference, 10 mixed, 2 no difference) · 20 studies (8 associational, 5 causal, 2 qualitative, 2 design, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q3` · 5 of 20 report an effect size · 37 claims rest on one study
+> **Evidence** · 42 claims (29 show a difference, 11 mixed, 2 no difference) · 22 studies (8 associational, 7 causal, 2 qualitative, 2 design, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q3` · 6 of 22 report an effect size · 42 claims rest on one study
 
 ## Description
 Proportional reasoning is understanding ratio and how ratios relate to one another. The Learner Variability Navigator describes a ratio as a relationship between parts and wholes that can be written as a fraction, a percentage or a rate. It is assessed with tasks that ask learners to rank fractions shown in different forms (shaded shapes, numerals, decimals) by size, and with missing-value problems in which one quantity in a pair of equivalent ratios must be found.
@@ -73,6 +73,11 @@ LVN treats it as an essential part of arithmetic proficiency in primary school a
 - [Game-based and non-game-based number line estimation training produced statistically indistinguishable pretest-to-posttest learning gains in fraction magnitude understanding](../claims/game-elements-no-differential-learning-gains-number-line.md) [-M] — instruction changes it
 - [Participants in the game-based training condition estimated fraction magnitudes more accurately during training than participants in the non-game-based condition](../claims/game-based-training-higher-accuracy-during-training.md) [+M] — instruction changes it
 - [Instructor questioning combined with the AR app's virtual rows and columns supported students' shift to multiplicative reasoning](../claims/social-technological-scaffolding-synergy-area-reasoning.md) [+M] — instruction changes it
+- [Both experimental and control groups improved their proportional reasoning scores from pretest to posttest](../claims/both-groups-pretest-posttest-prt-gains.md) [+M] — instruction changes it
+- [Fraction magnitude intervention significantly outperforms business-as-usual control on fraction number line estimation each year, with a mean ES of 0.93 across five RCTs](../claims/fraction-intervention-number-line-es-093.md) [+M] — instruction changes it
+- [Improvement in fractions magnitude understanding, but not part-whole understanding, mediates the intervention's effects on fraction outcomes](../claims/magnitude-understanding-mediation.md) [~M] — instruction changes it
+- [Supported self-explaining improves fraction magnitude comparison knowledge (ES 0.43) and explanation quality (ES 0.93), and compensates for low working memory](../claims/supported-self-explaining-fraction-magnitudes.md) [+M] — instruction changes it
+- [Teaching problem-solving strategies for ratio problems raises sixth-graders' proportional reasoning posttest scores above regular instruction](../claims/strategy-teaching-improves-proportional-reasoning-posttest.md) [+M] — instruction changes it
 
 ## Measures
 - **Ranking Proportions Task** (e.g., Mazzocco & Devlin, 2008): Magnitude comparison for fractions and rational numbers where students rank order different representations of fractions including shaded circles, numerical fractions, and decimals.

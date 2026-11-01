@@ -53,3 +53,4 @@ Exploratory correlational analysis linking English receptive vocabulary (PPVT II
 - [Teacher-rated social skills and problem behaviors correlated significantly with posttest decoding and spelling scores in severely struggling middle school readers](social-skills-behavior-correlate-decoding-spelling.md) — related
 - [ASL proficiency correlates positively with English reading comprehension among deaf adults](asl-proficiency-correlates-reading-comprehension-deaf.md) — related
 - [Fall RRRP predicted spring reading outcomes, with Part 1 predicting decoding and comprehension and Part 2 predicting vocabulary and gains in comprehension and vocabulary](rrrp-parts-differentially-predict-reading-outcomes.md) — related
+- [TRI treatment did not significantly improve spring Passage Comprehension for struggling English learners](tri-no-passage-comprehension-effect.md) — related

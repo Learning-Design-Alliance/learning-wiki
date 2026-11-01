@@ -66,6 +66,7 @@ Collaboration improves learning when it is structured — with group goals, indi
 - [Jigsaw](../strategies/jigsaw.md) — an expertise-differentiated structure that enforces interdependence
 - [Think-Pair-Share](../patterns/think-pair-share.md) — a low-stakes collaboration structure useful as an on-ramp for ELLs
 - [Teachers implementing TEPBLL should describe technological knowledge and learning objectives, match projects to proficiency levels, assign group roles, and provide staged progressive feedback](tepbll-teacher-facilitation-recommendations.md)
+- [Distribute SLC group roles and tasks according to each member's capability so students exchange information](tailor-slc-roles-to-student-capability.md)
 
 ## Related Elements
 - [Peer Collaboration](../elements/peer-collaboration.md) — the core element this strategy structures

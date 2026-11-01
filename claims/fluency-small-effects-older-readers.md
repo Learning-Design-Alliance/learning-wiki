@@ -52,3 +52,4 @@ Meta-analytic review of fluency interventions for older students, based almost e
 - [LiPS shows potentially positive effects on reading fluency: authors found significant effects on GORT–III Reading Accuracy and Reading Rate, but WWC analyses did not confirm significance](lips-reading-fluency-potentially-positive.md) — related
 - [The evidence base for Fluency Formula™ consists of a single small randomized controlled trial, with no studies addressing alphabetics or general reading achievement](fluency-formula-evidence-base-single-small-rct.md) — related
 - [Oral word-reading fluency instruction shows a high effect size of 0.66, but evidence rests on a single study](spanish-reading-fluency-es-066-single-study.md) — related
+- [The CCT intervention showed no statistically significant effect on posttest oral reading fluency, including within the low-fluency region of significance](cct-no-posttest-orf-effect.md) — a narrower finding that bears on this claim

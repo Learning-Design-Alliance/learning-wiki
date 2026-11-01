@@ -51,3 +51,4 @@ The review reports this from Gong et al.'s study (reference [70]): a blended int
 - [TBL is associated with higher theoretical knowledge scores than LBL in Chinese neurology education (SMD = 1.16)](tbl-higher-theoretical-knowledge-scores-neurology-china.md) — related
 - [Immediate feedback combined with reflection improved diagnostic accuracy on training cases versus outpatient clinic attendance or lecture](immediate-feedback-reflection-diagnostic-accuracy-training-cases.md) — related
 - [Effects of TBL on clinical decision-making and clinical reasoning are mixed across studies and seminar topics](tbl-clinical-decision-making-mixed-effects.md) — related
+- [Reflection-in-action is associated with significant discussion score gains when discussion ability is the learning objective](reflection-in-action-discussion-gains.md) — related

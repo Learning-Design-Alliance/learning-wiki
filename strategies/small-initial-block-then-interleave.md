@@ -46,6 +46,7 @@ The authors state the findings "do not suggest that blocked practice be avoided 
 - [Interleave Practice Types](interleave_practice_types.md)
 - [Interleaving](interleaving.md)
 - [Cumulative Review](cumulative-review.md)
+- [Teachers can create interleaved assignments from existing blocked textbook materials by pulling one problem from each of many assignments](build-interleaved-assignments-from-textbook-problems.md)
 
 ## Examples
 -

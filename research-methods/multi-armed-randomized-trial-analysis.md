@@ -34,7 +34,8 @@ The report's guidance is that analysts running studies with several intervention
 - [Variance terms in multi-armed RCT estimators need slight adjustment under the finite-population framework, which can reduce precision](../claims/variance-adjustment-reduces-precision-multi-armed.md) [+W]
 
 ## Related Research Methods
--
+
+- [TAME (detecting treatment effects by training a model across multiple experiments and testing residuals)](tame-detecting-treatment-effects-by-training-a-model-across-multiple-experiments-and-testi.md)
 
 ## Key Sources
 - Peter Z. Schochet. (2017). Multi-Armed RCTs: A Design-Based Framework. Washington, DC: U.S. Department of Education, Institute of Education Sciences, National Center for Education Evaluation and Regional Assistance. https://ies.ed.gov

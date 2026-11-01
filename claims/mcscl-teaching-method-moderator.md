@@ -51,3 +51,4 @@ Random-effects moderator analysis of teaching methods. Table 4 reports LT g = 0.
 - [In secondary-school research, cooperative learning beat frontal teaching in 68% of comparisons, with STAD most and Jigsaw least successful](secondary-cooperative-learning-newmann-thompson.md) — related
 - [mCSCL outperforms individual learning and non-mobile collaborative learning, but shows no significant advantage over desktop CSCL](mcscl-vs-control-group-types.md) — related
 - [Achievement effects do not differ significantly across cooperative learning techniques; unstructured and STAD show the highest point estimates](cooperative-learning-technique-moderator.md) — related
+- [Cooperative TGT significantly improves Grade 11 students' mathematics understanding compared with conventional teaching over a five-week intervention](tgt-improves-mathematics-understanding.md) — related

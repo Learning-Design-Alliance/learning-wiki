@@ -27,6 +27,7 @@ A programme developed by William Saunders and Claude Goldenberg for English lang
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Instructional Conversations and Literature Logs intervention for English language learners**: An intervention developed by William Saunders and Claude Goldenberg combining two components for English language learners. Instructional Conversations are "small-group discussions" in which teachers, "acting as facilitators", engage learners in discussion of stories, key concepts, and personal experiences. Literature Logs require learners "to write in a log in response to writing prompts or questions related to sections of stories", with responses shared in small groups or with a partner. The goal is reading comprehension ability along with English language proficiency. (What Works Clearinghouse (2006))
+- **Theory of change: IC effects on achievement mediated by cognitive, affective, and second language development**: The article's theory of change posits that enacting the five standards of effective teaching generates a sufficiently high level of responsive assistance for ELLs that increases student learning. As printed, "it is posited that as the five standards of effective teaching are enacted, a sufficiently high level of responsive assis- tance for ELLs can be generated that increases student learning," working mainly through the interaction of cognitive, affective, and second language development produced in regular conversational experiences framed around academic goals and contextualized instruction (Figure 1). The model draws on cognitive-developmental and cultural-historical theory, with the transition from external to self-regulation in English modeled and practiced regularly during ICs. (Portes et al. (2018))
 
 ### Claims
 - [The intervention showed substantively important but WWC-unconfirmed effects on English language development, with non-significant CTBS Language and Writing outcomes](../claims/ic-ll-english-language-development-unconfirmed.md) [+W]
@@ -41,8 +42,8 @@ A programme developed by William Saunders and Claude Goldenberg for English lang
 
 ## Key Sources
 - What Works Clearinghouse, U.S. Department of Education. (2006). Instructional Conversations and Literature Logs — WWC Intervention Report. http://crede.berkeley.edu/research/crede/research/llaa/1.5pubs.html
-
 <!-- merged 2026-10-10 from elements/instructional-conversations-literature-logs-intervention ("Instructional Conversations and Literature Logs intervention for English language learners"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Portes, P. R., González Canché, M., Boada, D., & Whatley, M. E. (2018). Early Evaluation Findings From the Instructional Conversation Study: Culturally Responsive Teaching Outcomes for Diverse Learners in Elementary School. American Educational Research Journal. https://doi.org/10.3102/0002831217741089
 
 # Instructional Conversations and Literature Logs intervention for English language learners
 

@@ -27,7 +27,7 @@ sources:
 # Understanding must be cultivated through exploration, not described or told
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (13 for, 5 mixed, 4 against) · 26 studies (7 causal, 5 review, 4 quant-synthesis, 4 design, 3 qualitative, 3 theoretical), `q1`–`q4` · 5 of 26 report an effect size · 17 claims rest on one study
+> **Evidence** · 23 claims (14 for, 5 mixed, 4 against) · 27 studies (8 causal, 5 review, 4 quant-synthesis, 4 design, 3 qualitative, 3 theoretical), `q1`–`q4` · 5 of 27 report an effect size · 18 claims rest on one study
 
 ## Conditional relationship
 
@@ -129,6 +129,7 @@ Learners, domains and outcomes differ across these claims (children learning a s
 - [Age moderates discovery-learning effects: the explicit-instruction advantage over unassisted discovery is larger for adolescents than adults, and the enhanced-discovery benefit larger for adults than children](../claims/age-moderates-discovery-effects.md) [~M]: a moderator analysis of the discovery meta-analysis; used in the age rows above.
 - [Critical Temper Weakest On Basic Prejudices](../claims/critical-temper-weakest-on-basic-prejudices.md) [+W]
 - [Objections Stage Most Difficult Crito](../claims/objections-stage-most-difficult-crito.md) [+W]
+- [Grammar consciousness-raising activities produce significantly higher grammar posttest scores than deductive grammar teaching for young EFL learners](../claims/gcr-activities-significant-posttest-advantage-young-efl.md) [+W] — attached 2026-11-01 from Hamidreza Fatemipour et al. (2015), which proposed "Six-step inductive grammar consciousness-raising activity sequence"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

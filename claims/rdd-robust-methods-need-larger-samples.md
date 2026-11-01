@@ -61,3 +61,4 @@ The paper's key finding on regression discontinuity designs: robust methods guar
 - Most studies of literacy resilience have (very) small sample sizes and low statistical power to find relevant effects — related
 - The study was adequately powered only for medium-to-large effects on the critical three-way interaction — related
 - The study was powered to detect effect sizes from d = 0.34 to 0.65 across the five tasks, so smaller effects would not have been reliably detected — related
+- [The Calonico et al. (2014) method is assessed for computing accurate p-values in RDDs powered for small impacts](calonico-robust-pvalues-assessment.md) — a narrower finding that bears on this claim

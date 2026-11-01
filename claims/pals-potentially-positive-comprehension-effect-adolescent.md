@@ -94,3 +94,4 @@ The Effectiveness Summary section states the WWC rating rationale: one study sho
 - [Disciplinary Literacy Instruction Improves Comprehension](disciplinary-literacy-instruction-improves-comprehension.md) — related
 - [The WWC rates The Expert Mathematician as having potentially positive effects on middle school mathematics achievement](wwc-potentially-positive-rating-expert-mathematician.md) — a narrower finding that bears on this claim
 - [Earlier meta-analyses report small positive effects for computer-assisted literacy instruction (0.19; 0.16)](prior-meta-analyses-small-positive-effects.md) — related
+- [Exploratory sub-group analyses suggested PAL worked better for girls than boys in literacy and numeracy, with small effects](pal-gender-subgroup-girls-benefit.md) — related

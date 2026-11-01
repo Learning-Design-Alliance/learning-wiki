@@ -55,3 +55,4 @@ Randomized single-blind experiment with 34 college students assigned to Active o
 - [Mental rotation training significantly increases P300 GFP, which peaks at 20 days post-training and remains elevated at 90 days](p300-gfp-elevated-20-and-90-days.md) — related
 - [Ten-day mental rotation training improves accuracy and response time, with behavioral benefits maintained up to 90 days post-training](mr-training-accuracy-rt-gains-90-days.md) — related
 - [Reaction times decreased with working memory training but were not additionally affected by tDCS](wmt-rt-decreases-unaffected-by-tdcs.md) — related
+- [The instruction-by-time interaction favoring the simulation group was only marginally significant (one-tailed p = 0.085, g2 = 0.05), and the main effect of instruction was not significant](interaction-marginally-significant-instruction-time.md) — related

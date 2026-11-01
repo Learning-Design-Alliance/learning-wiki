@@ -53,3 +53,4 @@ Meta-analytic sub-group analyses across publication type (article, master thesis
 - Effect sizes differ significantly by publication type, with master's theses and articles showing higher effects than PhD theses. — related
 - [Academic achievement effects of STEM practices differ significantly by publication type and education level but not by lesson type](stem-achievement-moderators-publication-type-education-level.md) — related
 - [Publication type, course type, educational level, and experimental duration did not significantly moderate the effect of context-based learning on academic achievement](cbl-achievement-non-significant-moderators.md) — related
+- [Gains from the 7E model were significant for low- and average-intelligence students but not for high-intelligence students, with gain magnitude decreasing across intelligence levels](7e-gains-vary-by-intelligence-level.md) — related

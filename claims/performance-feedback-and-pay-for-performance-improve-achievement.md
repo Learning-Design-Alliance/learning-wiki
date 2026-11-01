@@ -57,3 +57,4 @@ The brief's key findings summarize two IES studies: a two-year evaluation of per
 - [Educators in schools offering pay-for-performance bonuses tended to be less satisfied than those in schools without bonuses](tif-bonus-schools-lower-satisfaction.md) — related
 - [Small career-ladder bonuses can affect teacher behavior without necessarily producing large effects](small-bonuses-affect-behavior-not-large-effects.md) — related
 - [By the second year of implementation, TIF performance bonuses improved reading and math achievement by 1 to 2 percentile points, equivalent to about four weeks of additional learning](tif-bonuses-improved-achievement-1-2-percentile-points.md) — a narrower finding that bears on this claim
+- [Recent IES evaluations detected impacts well below Cohen's 0.20 SD 'small' benchmark](ies-evaluations-detect-sub-020-sd-impacts.md) — related

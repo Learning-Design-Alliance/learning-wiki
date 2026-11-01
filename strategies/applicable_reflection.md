@@ -63,6 +63,7 @@ Applicable reflection converts experience into transferable self-knowledge by pr
 - Error analysis and revision cycles — applicable reflection is the bridge between receiving feedback and acting on it
 - Portfolio assessment — provides the documented reflection history that makes feed-forward possible
 - [Plan and structure video feedback around signposts and feed-forward points before recording.](plan-video-feedback-with-signposts.md)
+- [Design lessons around all four ELT stages and ask application-oriented reflection questions](elt-four-stage-lesson-design-strategy.md)
 
 ## Examples
 - A composition instructor returns drafts with comments, then asks: "What did you learn from your last writing assignment, and how will you apply it to your next one?" Students paste their answers at the top of the next draft, making the reflection operational.

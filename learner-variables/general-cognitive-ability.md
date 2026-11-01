@@ -13,7 +13,7 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 169 claims (110 show a difference, 34 mixed, 25 no difference) · 118 studies (44 associational, 38 causal, 14 quant-synthesis, 13 review, 7 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 30 of 118 report an effect size · 166 claims rest on one study
+> **Evidence** · 170 claims (110 show a difference, 35 mixed, 25 no difference) · 119 studies (44 associational, 39 causal, 14 quant-synthesis, 13 review, 7 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 30 of 119 report an effect size · 167 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.
@@ -205,6 +205,7 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [A-levels also show the highest construct-level predictive validity for postgraduate performance (.556), significantly exceeding GCSEs/O-levels and aptitude tests, which do not differ from each other](../claims/alevels-highest-clpv-postgraduate.md) [+M] — learners who differ on it differ in outcomes
 - [A-levels show the highest construct-level predictive validity for undergraduate medical performance (.723), exceeding GCSEs/O-levels (.359) and aptitude tests (.181)](../claims/alevels-highest-clpv-undergraduate.md) [+M] — learners who differ on it differ in outcomes
 - [Aptitude tests (AH5, UKCAT) have lower construct-level predictive validity than educational attainment measures, with overall CLPV .208 (CI .113–.299)](../claims/aptitude-tests-lower-clpv.md) [+M] — learners who differ on it differ in outcomes
+- [Gains from the 7E model were significant for low- and average-intelligence students but not for high-intelligence students, with gain magnitude decreasing across intelligence levels](../claims/7e-gains-vary-by-intelligence-level.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]

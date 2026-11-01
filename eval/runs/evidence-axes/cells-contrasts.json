@@ -56934,5 +56934,301 @@
  "simulation\tstandardized-patient simulation\tcontrol condition": {
   "label": "standardized-patient simulation vs control",
   "treatment_is_a": true
+ },
+ "active-learning\tCRAIS\tmodified conventional teaching strategy": {
+  "label": "active learning vs conventional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tCooperative Teams-Games-Tournament\tconventional teaching": {
+  "label": "cooperative learning vs conventional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tCooperative Teams-Games-Tournament\tconventional teaching without TGT": {
+  "label": "cooperative learning vs conventional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tJigsaw II cooperative learning\tpre-test baseline": {
+  "label": "cooperative learning vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tScience Learning Cycle (SLC)\tconventional method": {
+  "label": "learning-cycle instruction vs conventional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tTGT cooperative instruction\tpre-intervention baseline": {
+  "label": "cooperative learning vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\tTGT cooperative web-based game playing\tlecture-based instruction": {
+  "label": "cooperative learning vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tTGT game playing\tlecture-based instruction": {
+  "label": "cooperative learning vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tconstructivist 7E-model\ttraditional method": {
+  "label": "constructivist 7E instruction vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tconstructivist 7E-model\ttraditional teaching method": {
+  "label": "constructivist 7E instruction vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tinquiry-based agriscience instruction\tsubject matter approach": {
+  "label": "inquiry-based instruction vs subject-matter instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tproject-based learning (PoBL)\tconventional teaching (CT)": {
+  "label": "project-based learning vs conventional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tsmall-team CASP-based new-medication evaluation and presentation\tnone reported": {
+  "label": "team-based active learning vs no reported comparison",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tCASP-based instructional sessions\tpre-course before instruction": {
+  "label": "Instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tExplicit teaching of four ratio-problem-solving strategies\tCurrent mathematics curriculum without strategy instruction": {
+  "label": "Explicit strategy instruction vs mathematics curriculum without strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tROOTS Tier 2 mathematics intervention\tcore mathematics instruction only": {
+  "label": "Targeted mathematics intervention vs core mathematics instruction only",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tStrategy-teaching group posttest\tSame group's pretest baseline": {
+  "label": "Post-instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tTeaching four ratio-problem-solving strategies\tCurrent mathematics practice without strategy instruction": {
+  "label": "Explicit strategy instruction vs mathematics practice without strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tTeaching ratio-problem-solving strategies\tCurrent curriculum without strategy instruction": {
+  "label": "Explicit strategy instruction vs curriculum without strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tfraction intervention emphasizing fraction-magnitude understanding\tbusiness-as-usual fraction instruction": {
+  "label": "Fraction-magnitude-focused intervention vs business-as-usual fraction instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tgrammar consciousness-raising activities\tdeductive grammar teaching": {
+  "label": "Deductive grammar teaching vs grammar consciousness-raising activities",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tguided practice using four ratio-problem-solving strategies\tordinary curriculum practice with no strategy instruction": {
+  "label": "Guided strategy practice vs ordinary practice without strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinductive grammar consciousness-raising activities\tdeductive grammar teaching": {
+  "label": "Deductive grammar teaching vs inductive grammar consciousness-raising activities",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tinstruction in four ratio-problem-solving strategies\tcurrent mathematics curriculum without strategy instruction": {
+  "label": "Explicit strategy instruction vs mathematics curriculum without strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinstruction in problem-solving strategies for ratio problems\texperimental group pretest baseline": {
+  "label": "Explicit problem-solving strategy instruction vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tlecture method\tpre-intervention": {
+  "label": "Instruction via lecture vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tstrategy teaching for solving ratio problems\tcurrent practice without strategy teaching": {
+  "label": "Explicit strategy instruction vs current practice without strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tteacher’s manual instruction\tteacher’s manual pre-test": {
+  "label": "Instruction via teacher's manual vs pre-instruction baseline",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tteaching four problem-solving strategies for ratio problems\tcurrent mathematics practice without strategy instruction": {
+  "label": "Explicit problem-solving strategy instruction vs mathematics practice without strategy instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tteaching four strategies for solving ratio problems\tcurrent mathematics practice without strategy instruction": {
+  "label": "Explicit problem-solving strategy instruction vs mathematics practice without strategy instruction",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tindividual RCT evaluation after instructor feedback\tindividual RCT evaluation before instructor feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tAcuity Predictive interim assessment tool\tcomparison teachers without the tool": {
+  "label": "Acuity Predictive interim assessment tool vs no interim assessment tool",
+  "treatment_is_a": true
+ },
+ "formative-assessment\taccess to Acuity Predictive interim assessment tool\tno interim assessment tool; one-year delay": {
+  "label": "Acuity Predictive interim assessment tool vs no interim assessment tool",
+  "treatment_is_a": true
+ },
+ "formative-assessment\taccess to the Acuity Predictive interim assessment tool\tcontrol schools with one-year delayed implementation": {
+  "label": "Acuity Predictive interim assessment tool vs no interim assessment tool",
+  "treatment_is_a": true
+ },
+ "formative-assessment\taccess to the Acuity Predictive interim assessment tool\tone-year-delay control condition without the tool": {
+  "label": "Acuity Predictive interim assessment tool vs no interim assessment tool",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tportfolio assessment\tdiscussion method": {
+  "label": "Portfolio assessment vs discussion method",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tportfolio assessment\tpre-test baseline": {
+  "label": "Portfolio assessment vs pre-test/baseline",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tportfolio assessment\tpre-test/baseline": {
+  "label": "Portfolio assessment vs pre-test/baseline",
+  "treatment_is_a": true
+ },
+ "gamification\tLosing the Lake educational game\tearth science website": {
+  "label": "educational game vs non-game website",
+  "treatment_is_a": true
+ },
+ "gamification\tLosing the Lake educational game\tgeneral earth science website": {
+  "label": "educational game vs non-game website",
+  "treatment_is_a": true
+ },
+ "gamification\tLosing the Lake game\tearth science website": {
+  "label": "educational game vs non-game website",
+  "treatment_is_a": true
+ },
+ "gamification\tLosing the Lake game, delayed posttest\tLosing the Lake group, pretest": {
+  "label": "delayed posttest vs pretest",
+  "treatment_is_a": true
+ },
+ "gamification\tLosing the Lake game, posttest\tLosing the Lake group, pretest": {
+  "label": "posttest vs pretest",
+  "treatment_is_a": true
+ },
+ "gamification\tLosing the Lake game, posttest\tearth science website control, posttest": {
+  "label": "educational game vs non-game website",
+  "treatment_is_a": true
+ },
+ "gamification\tTGT cooperative web-based game playing\tlecture-based approach": {
+  "label": "game-based learning vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tTGT cooperative web-based game playing\tlecture-based instruction": {
+  "label": "game-based learning vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tTGT cooperative web-based game-playing\texperimental-group pretest": {
+  "label": "posttest vs pretest",
+  "treatment_is_a": true
+ },
+ "gamification\tTGT cooperative web-based game-playing\tlecture-based approach": {
+  "label": "game-based learning vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tTGT cooperative web-based game-playing\tlecture-based instruction": {
+  "label": "game-based learning vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tTGT cooperative web-based game-playing\tpre-intervention attitude baseline": {
+  "label": "posttest vs pretest",
+  "treatment_is_a": true
+ },
+ "gamification\tcard games and Algebra Tic-Tacmatics\tconventional lecture method": {
+  "label": "game-based learning vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tgames with gender interaction\tconventional method with gender interaction": {
+  "label": "game-based learning vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tgames, with gender moderation\tconventional lecture method, with gender moderation": {
+  "label": "game-based learning vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "interleaving\tmostly interleaved mathematics practice\tmostly blocked mathematics practice": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "interleaving\tmostly-interleaved mathematics practice\tmostly-blocked mathematics practice": {
+  "label": "interleaved vs blocked",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia pre-lecture videos\ttextbook readings": {
+  "label": "multimedia pre-lecture videos vs textbook readings",
+  "treatment_is_a": true
+ },
+ "practice-amount\thigher tutoring dosage across schools\tlower tutoring dosage across schools": {
+  "label": "higher tutoring dosage vs lower tutoring dosage",
+  "treatment_is_a": true
+ },
+ "prompts\treflection-in-action\treflection-on-action": {
+  "label": "reflection-in-action vs reflection-on-action",
+  "treatment_is_a": true
+ },
+ "prompts\treflection-in-action during the laboratory activity\treflection-on-action after the laboratory activity": {
+  "label": "reflection-in-action vs reflection-on-action",
+  "treatment_is_a": true
+ },
+ "prompts\treflection-in-action prompts during the laboratory activity\treflection-on-action prompts after the laboratory activity": {
+  "label": "reflection-in-action vs reflection-on-action",
+  "treatment_is_a": true
+ },
+ "prompts\treflection-in-action versus reflection-on-action across abstraction orders\tno reflection-by-abstraction interaction": {
+  "label": "reflection-by-abstraction interaction vs no reflection-by-abstraction interaction",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\te-learning module plus pre-test\te-learning module without pre-test": {
+  "label": "pretesting vs no pretesting",
+  "treatment_is_a": true
+ },
+ "self-explanation\tsupported self-explaining\tmultiplicative word-problem instruction": {
+  "label": "self-explanation vs conventional instruction",
+  "treatment_is_a": true
+ },
+ "simulation\tWILSIM-GC interactive simulation\ttraditional paper-based exercise": {
+  "label": "interactive simulation vs traditional paper-based learning",
+  "treatment_is_a": true
+ },
+ "simulation\tWILSIM-GC interactive simulation\ttraditional paper-based learning method": {
+  "label": "interactive simulation vs traditional paper-based learning",
+  "treatment_is_a": true
+ },
+ "simulation\tWILSIM-GC interactive simulation approach\ttraditional learning method": {
+  "label": "interactive simulation vs traditional learning",
+  "treatment_is_a": true
+ },
+ "simulation\tWILSIM-GC interactive simulation exercise\ttraditional paper-based written exercise": {
+  "label": "interactive simulation vs traditional paper-based exercise",
+  "treatment_is_a": true
+ },
+ "simulation\tanalogy-based simulation activities\tlaboratory activities": {
+  "label": "analogy-based simulation vs laboratory activities",
+  "treatment_is_a": true
+ },
+ "simulation\tanalogy-based simulation plus laboratory activities\tlaboratory activities": {
+  "label": "analogy-based simulation plus laboratory activities vs laboratory activities",
+  "treatment_is_a": true
+ },
+ "simulation\tanalogy-based simulation unit\tpre-test baseline": {
+  "label": "analogy-based simulation vs pre-test baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tcombined analogy-based simulation and laboratory activities\tanalogy-based simulation activities alone": {
+  "label": "analogy-based simulation plus laboratory activities vs analogy-based simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tcombined analogy-based simulation and laboratory activities\tlaboratory activities alone": {
+  "label": "analogy-based simulation plus laboratory activities vs laboratory activities",
+  "treatment_is_a": true
+ },
+ "simulation\tcombined laboratory method and analogy-based simulation method\tpre-test baseline": {
+  "label": "analogy-based simulation plus laboratory activities vs pre-test baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tlaboratory activities\tanalogy-based simulation activities": {
+  "label": "analogy-based simulation vs laboratory activities",
+  "treatment_is_a": false
  }
 }

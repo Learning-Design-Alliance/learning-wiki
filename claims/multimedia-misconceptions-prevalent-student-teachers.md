@@ -47,3 +47,4 @@ Pretest of a randomized three-condition experiment (N = 96) using the misconcept
 
 ## Related Claims
 - [Prospective teachers hold more misconceptions about teaching and learning than current faculty both before and after training, and misconceptions decreased only among current faculty](prospective-teachers-more-misconceptions.md) — related
+- [B.Sc. students hold widespread misconceptions about ATP generation by mitochondrial oxidative phosphorylation, rooted in preconceptions from everyday experience](widespread-misconceptions-atp-generation-preconceptions.md) — related

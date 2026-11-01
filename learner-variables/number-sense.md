@@ -13,7 +13,7 @@ generated:
 # Number Sense
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 110 claims (81 show a difference, 18 mixed, 11 no difference) · 48 studies (26 associational, 13 causal, 3 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 18 of 48 report an effect size · 108 claims rest on one study
+> **Evidence** · 112 claims (83 show a difference, 18 mixed, 11 no difference) · 49 studies (26 associational, 14 causal, 3 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 19 of 49 report an effect size · 110 claims rest on one study
 
 ## Description
 Number sense is a learner's grasp of how large numbers are and how they relate to one another. It is measured with magnitude comparison (which of two numbers or dot arrays is larger), number line estimation (placing a number on a line with labelled ends) and similar tasks. These measures correlate with mathematics achievement and predict later mathematics learning, and they can be improved by instruction such as number board games and number line activities. It is a domain-specific part of [prior knowledge](prior-knowledge.md) in mathematics.
@@ -145,6 +145,8 @@ Number sense is a learner's grasp of how large numbers are and how they relate t
 - [Estimation accuracy (PAE) improved significantly across the five training sessions in both conditions](../claims/pae-decreased-across-training-sessions.md) [+M] — instruction changes it
 - [Game-based and non-game-based number line estimation training produced statistically indistinguishable pretest-to-posttest learning gains in fraction magnitude understanding](../claims/game-elements-no-differential-learning-gains-number-line.md) [-M] — instruction changes it
 - [Participants in the game-based training condition estimated fraction magnitudes more accurately during training than participants in the non-game-based condition](../claims/game-based-training-higher-accuracy-during-training.md) [+M] — instruction changes it
+- [Fraction magnitude intervention significantly outperforms business-as-usual control on fraction number line estimation each year, with a mean ES of 0.93 across five RCTs](../claims/fraction-intervention-number-line-es-093.md) [+M] — instruction changes it
+- [Supported self-explaining improves fraction magnitude comparison knowledge (ES 0.43) and explanation quality (ES 0.93), and compensates for low working memory](../claims/supported-self-explaining-fraction-magnitudes.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

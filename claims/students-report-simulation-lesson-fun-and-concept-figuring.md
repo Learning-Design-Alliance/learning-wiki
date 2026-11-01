@@ -93,3 +93,5 @@ Student interview excerpt in the theme simulation can support inquiry learning a
 - [Leveraging appropriate types of guidance during the relevant phases of inquiry benefits student inquiry in virtual and remote labs](phase-appropriate-guidance-benefits-inquiry-labs.md) — related
 - The virtual and remote labs literature to 2015 can be characterized by its most influential publications, most researched topics, and evolving topic interest — related
 - [Virtual labs increase confidence but cannot fully replace hands-on experimental learning](virtual-labs-cannot-replace-hands-on-learning.md) — related
+- [Pre-service science teachers in the inquiry group reported both positive experiences (permanent learning, active research, cooperation) and difficulties (time demands, unreliable resources)](interview-views-on-inquiry-instruction.md) — related
+- [Students rated the game positively, most often citing fun/interactive features, visuals, and new information learned](losing-the-lake-positive-student-feedback.md) — related

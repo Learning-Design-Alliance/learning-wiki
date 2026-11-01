@@ -13,7 +13,7 @@ generated:
 # Race and Ethnicity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 205 claims (166 show a difference, 29 mixed, 10 no difference) · 154 studies (88 associational, 28 review, 18 causal, 8 theoretical, 7 qualitative, 3 design, 2 quant-synthesis), `q1`–`q4` · 2 of 154 report an effect size · 203 claims rest on one study
+> **Evidence** · 206 claims (167 show a difference, 29 mixed, 10 no difference) · 155 studies (88 associational, 28 review, 19 causal, 8 theoretical, 7 qualitative, 3 design, 2 quant-synthesis), `q1`–`q4` · 2 of 155 report an effect size · 204 claims rest on one study
 
 ## How to read this page
 
@@ -242,6 +242,7 @@ Race and ethnicity are social categories, recorded in most education research fr
 - [Race/ethnicity was among the most important predictors of intervention effectiveness, with lower predicted effects for Black/African American students.](../claims/race-ethnicity-predicts-intervention-effectiveness.md) [+M] — an instructional effect differs by group
 - [CBA and HA implementation is associated with increased diversity of admitted students](../claims/cba-ha-increased-diversity.md) [+M] — instruction changes the gap
 - [The effect of active learning on achievement gaps varies extensively across studies, and in some studies active learning increased gaps](../claims/active-learning-gap-variation-across-studies-ipd.md) [~M] — an instructional effect differs by group
+- [The OCR program shows a positive differential impact for Hispanic students](../claims/ocr-positive-differential-impact-hispanic-students.md) [+M] — an instructional effect differs by group
 
 ## The evidence by question
 - *For whom: does it narrow gaps for underrepresented and low-income students?* [Active learning narrows achievement gaps for disadvantaged and underrepresented students](../claims/active-learning-narrows-achievement-gaps.md) [+S]

@@ -69,3 +69,4 @@ Rating distributions across the same 201-lesson sample. Not Present was most fre
 - [Across 201 observed K–8 math lessons, the majority (108, or 54 percent) did not receive a High/Expert rating on any of the eight observation dimensions](majority-lessons-no-high-expert-rating.md) — related
 - [Lessons highly rated for both the mathematics and access to mathematics used varied participation structures, but none of the 14 was also highly rated on agency, authority, and identity](participation-structures-access-challenging-math.md) — related
 - [Lesson ratings showed no statistically significant differences between lessons observed earlier versus later in the initiative on any dimension](no-rating-improvement-over-initiative.md) — related
+- [In a randomized trial, MQI video-based coaching improved teachers' instruction on three MQI domains relative to control](mqi-coaching-randomized-trial-improved-instruction.md) — related

@@ -44,7 +44,8 @@ The report recommends expanding the use of benefit-cost analysis to monetize the
 - [The report's loss estimates are conservative because they exclude health, psychological, family, community, and broader societal costs that cannot be monetized](../claims/arizona-loss-estimates-conservative-exclusions.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Pair intervention evaluation with cost-effectiveness analysis to guide scaling to all students](cost-effectiveness-analysis-for-scaling-stem-interventions.md)
 
 ## Examples
 -

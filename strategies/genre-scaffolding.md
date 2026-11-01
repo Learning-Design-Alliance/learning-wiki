@@ -59,9 +59,11 @@ Genre scaffolding reduces the cognitive burden of composing by giving learners a
 6. **Review and revise:** evaluate drafts against the genre's purpose and audience, not just its parts.
 
 ## Related Strategies
+
 - [Self-Regulated Strategy Development](../products/self-regulated-strategy-development-srsd.md) — complements genre knowledge with process self-regulation
 - [Reciprocal Teaching](../elements/reciprocal-teaching.md) — same model→guided→independent fading logic applied to reading comprehension
 - [Mentor Text Analysis](../strategies/mentor-text-analysis.md) — the text-study phase of the genre cycle in isolation
+- [Contextualize English grammar instruction within purposeful, authentic writing tasks](contextualized-grammar-in-authentic-writing.md)
 
 ## Examples
 - **The teaching–learning cycle (Reading to Learn, Australia):** a whole-school genre pedagogy in which teachers deconstruct curriculum genres with students before joint and independent construction (https://www.readingtolearn.com.au).

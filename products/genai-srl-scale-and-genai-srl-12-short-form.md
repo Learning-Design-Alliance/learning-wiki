@@ -28,7 +28,8 @@ A self-report assessment developed by Xiaoqi Wang et al. that measures six dimen
 - [An ACO-derived 12-item short form (GenAI-SRL-12) retains the full scale's factor structure, reliability, and construct equivalence](../claims/genai-srl-12-short-form-retains-psychometrics.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Self-Directed Learning Readiness Scale (SDLRS)](self-directed-learning-readiness-scale-sdlrs.md)
 
 ## Key Sources
 - Xiaoqi Wang, Lawrence Jun Zhang, Yanan Zhang. (2026). Generative artificial intelligence-supported self-regulated learning (GenAI-SRL) in L2 writing: scale development, validation, and short-form construction. Metacognition and Learning. https://doi.org/10.1007/s11409-026-09481-1

@@ -50,6 +50,7 @@ The article's Implications section recommends designing flipped classroom teachi
 ## Related Strategies
 
 - [Adopt flipped classroom in preventive medicine courses according to institutional resources, with teacher information-technology training](adopt-fc-per-resources-with-teacher-it-training.md)
+- [Re-arrange and extend the web-assisted flipped-classroom activity materials to other science subjects and disciplines](rearrange-web-assisted-materials-other-subjects.md)
 
 ## Examples
 -

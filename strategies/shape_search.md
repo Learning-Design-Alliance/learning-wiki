@@ -61,8 +61,10 @@ Shape Search leverages the link between spatial perception and geometric reasoni
 5. Repeat over time with harder shapes and fewer scaffolds; distributing searches across days improves retention relative to a single session [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — the search builds on shapes learners already recognize informally
 - [Spaced Repetition](spaced-repetition-scheduling.md) — repeated short searches across days outperform one long hunt
+- [Teach two-dimensional shape properties through Logo construction activities sequenced by van Hiele phases](logo-van-hiele-phase-based-shape-instruction.md)
 
 ## Related Elements
 - [Application](../elements/application.md) — the core function: applying taught vocabulary to authentic instances

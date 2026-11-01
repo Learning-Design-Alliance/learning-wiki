@@ -62,3 +62,4 @@ Experiment with 53 UCLA undergraduates studying 16 butterfly species, all interl
 - [A larger expected temporal distance between learning and application increases learners' expected variability of the application context](temporal-distance-increases-expected-variability.md) — related
 - [Interleaved homework yields higher surprise criterial test scores than blocked homework in undergraduate physics, with larger effects in Stage 2](interleaving-criterial-test-benefit-physics.md) — related
 - [Interleaving multiple graphical representations of fractions gave a qualified advantage over blocked practice, mainly on delayed conceptual transfer and for low-prior-knowledge students](interleaved-representations-better-learning.md) — related
+- [A pilot study with 83 seventh graders found a large interleaving benefit (d = 0.97) preceding the main trial](interleaving-pilot-study-large-effect.md) — related

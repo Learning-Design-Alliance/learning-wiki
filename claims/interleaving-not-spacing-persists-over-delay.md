@@ -64,3 +64,4 @@ Narrative synthesis of seven studies with longer retention intervals (24 hours t
 - [In Experiment 2, the interleaving benefit on actual test outcomes was not statistically significant, unlike in Experiment 1](interleaving-outcome-benefit-nonsignificant-exp2.md) — a narrower finding that bears on this claim
 - [Interleaved practice yields lasting learning effects at delayed posttests in spelling and second-language grammar](interleaving-lasting-learning-delayed-posttests.md) — a narrower finding that bears on this claim
 - [Interleaving benefits on criterial tests cannot be attributed to increased study time](interleaving-benefit-not-study-time.md) — related
+- [The interleaving effect on delayed test scores remained significant in a multilevel model controlling for teacher effects, with no teacher-by-condition interaction](interleaving-significant-hlm-teacher-controlled.md) — related

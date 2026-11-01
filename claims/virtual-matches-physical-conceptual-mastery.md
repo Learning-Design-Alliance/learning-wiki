@@ -55,3 +55,4 @@ Narrative synthesis of single-modality comparisons in the review corpus. The rev
 - [Physical Experience Enhances Science Learning](physical-experience-enhances-science-learning.md) — related
 - [Affective outcomes of virtual-laboratory modalities are divided and interact with learners' initial attitude profiles](affective-outcomes-divided-moderated-by-attitudes.md) — related
 - [The greatest impact of virtual or blended laboratories is in the cognitive domain and the least in the psychomotor domain](virtual-labs-greatest-cognitive-least-psychomotor-impact.md) — related
+- [Combining analogy-based simulation with laboratory activities produces significantly higher corrected post-test achievement in simple electricity than either environment alone](combined-simulation-laboratory-beats-either-alone-electricity.md) — a narrower finding that bears on this claim

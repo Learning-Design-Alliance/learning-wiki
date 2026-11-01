@@ -19,7 +19,7 @@ sources:
 # Open Court Reading
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 2 studies (2 causal), `q2`–`q3` · 2 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 Open Court Reading© is a K–6 comprehensive reading curriculum published by McGraw-Hill Education that provides systematic literacy instruction, decodable texts, anthologies, workbooks, and teacher materials.
@@ -28,11 +28,14 @@ Open Court Reading© is a K–6 comprehensive reading curriculum published by Mc
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Open Court Reading© K–6 comprehensive reading curriculum**: Open Court Reading© is a reading program for grades K–6 published by McGraw-Hill Education, designed to teach decoding, comprehension, inquiry, and writing. The article describes it as organized "in a three-part logical progression", with grade-specific materials including decodable texts, student anthologies, workbooks, and a Teacher's Edition providing "systematic, explicit skills instruction centered on literature selections". In 2007 it was revised and renamed Imagine It!©. (Open Court Reading© (2014))
 - **Three-part unit progression: Preparing to Read, Reading and Responding, Language Arts**: Each unit of Open Court Reading© is organized into three parts in a logical progression. Part One, Preparing to Read, addresses phonemic awareness, sounds and letters, phonics, fluency, and word knowledge; Part Two, Reading and Responding, emphasizes reading literature for understanding, comprehension, inquiry, and practical reading applications; Part Three, Language Arts, focuses on writing, spelling, grammar, usage, mechanics, and basic computer skills. The pattern sequences skills instruction before and alongside literature-based application and written language work. (Open Court Reading© (2014))
+- **Open Court Reading (Imagine It!) phonics-based K-6 core reading curriculum**: The Open Court Reading (OCR) program, published by SRA/McGraw-Hill and widely used since the 1960s, is a phonics-based core reading curriculum for kindergarten through 6th grade that "incorporates many of the instructional practices related to phonemic awareness, phonics, fluency, vocabulary, and text comprehension recommended by the National Reading Panel (2000)". The curriculum includes student materials, teacher manuals, diagnostic and assessment tools, and test preparation practice guides, with a 2- or 3-day summer workshop and ongoing support from OCR reading consultants. In all grades the instructional format is a three-part lesson covering vocabulary, comprehension strategies, and comprehension skills, with informal and formal assessments used to monitor progress and inform instruction. (Vaden-Kiernan et al. (2016))
 
 ### Claims
 - [Open Court Reading© has potentially positive effects on comprehension for beginning readers in grades 1–3, with a small extent of evidence](../claims/open-court-reading-potentially-positive-comprehension.md) [+W]
 - [Open Court Reading© has potentially positive effects on general reading achievement for beginning readers, with a small extent of evidence](../claims/open-court-reading-potentially-positive-general-reading-achievement.md) [+W]
 - [The evidence base for Open Court Reading© is thin: of 185 identified studies, only two met WWC group design standards, and none met standards for alphabetics or reading fluency](../claims/open-court-reading-small-evidence-base-two-domains-uncovered.md) [~W]
+- [School-level assignment to the Open Court Reading (Imagine It!) curriculum does not produce a statistically significant impact on elementary students' reading achievement relative to business-as-usual control curricula in either study year](../claims/ocr-scale-up-no-significant-overall-reading-impact.md) [+M]
+- [OCR was implemented with adequate to high fidelity in treatment schools, with no evidence of contamination in control schools](../claims/ocr-adequate-high-fidelity-no-control-contamination.md) [+M]
 
 ## Related Products and Programmes
 -
@@ -40,9 +43,9 @@ Open Court Reading© is a K–6 comprehensive reading curriculum published by Mc
 ## Key Sources
 - Open Court Reading©. (2014). WWC Intervention Report: Beginning Reading, Updated October 2014. U.S. Department of Education, What Works Clearinghouse. https://ies.ed.gov/ncee/wwc/InterventionReport/347
 - Open Court Reading©. (2014). WWC Intervention Report: Beginning Reading, Updated October 2014. U.S. Department of Education, What Works Clearinghouse. https://www.mheonline.com/
-
 <!-- merged 2026-10-10 from elements/open-court-reading-curriculum-element ("Open Court Reading© K–6 comprehensive reading curriculum"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - Open Court Reading©. (2014). WWC Intervention Report: Beginning Reading, Updated October 2014. U.S. Department of Education, What Works Clearinghouse. https://www.mheonline.com/
+- Vaden-Kiernan, M., Borman, G., Caverly, S., Bell, N., Ruiz de Castilla, V., Sullivan, K., & Fleming, G. (2016). Findings from a Multi-Year Scale-Up Effectiveness Trial of Open-Court Reading (Imagine It!). SREE Spring 2016 Conference. https://www.sree.org
 
 # Open Court Reading© K–6 comprehensive reading curriculum
 

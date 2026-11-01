@@ -47,6 +47,7 @@ Based on the pooled effect, the article recommends that educators "adopt innovat
 
 - [Invest in dedicated instructional technology leadership roles and role-specific professional learning for AI literacy](role-specific-ai-professional-learning-leadership.md)
 - [Use expert appropriateness assessment of a designed learning model as the basis for further system development and future outcome studies](expert-appropriateness-assessment-guideline.md)
+- [Adopt active-participation strategies such as CRAIS for mathematics teaching and train teachers through seminars and workshops](adopt-crais-via-teacher-training-seminars-workshops.md)
 
 ## Examples
 -

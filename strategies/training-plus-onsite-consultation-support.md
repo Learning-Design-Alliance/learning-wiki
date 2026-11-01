@@ -63,6 +63,7 @@ In the evaluated implementation, intervention teachers received 2.5 full days of
 - [Layered professional development: summer institute plus weekly web conferencing follow-up](tri-layered-pd-summer-institute-web-conferencing.md)
 - [Improve transmedia-curriculum professional development with classroom observation, Q&A-only webinars, and later scheduling](tec-pd-improvement-suggestions.md)
 - [Provide no-cost initial training, coaching visits, administrator overviews, and year-round support when implementing Superkids](superkids-no-cost-pd-support-strategy.md)
+- [Brief professional development plus sequenced curriculum units with videoed implementation to support Pre-K teachers' engineering teaching](sos-pd-and-sequenced-implementation-strategy.md)
 
 ## Examples
 -

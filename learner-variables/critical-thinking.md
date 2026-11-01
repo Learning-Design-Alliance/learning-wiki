@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 107 claims (74 show a difference, 24 mixed, 9 no difference) · 79 studies (23 causal, 22 review, 10 associational, 8 quant-synthesis, 7 theoretical, 5 qualitative, 4 design), `q1`–`q3` · 16 of 79 report an effect size · 105 claims rest on one study
+> **Evidence** · 111 claims (78 show a difference, 24 mixed, 9 no difference) · 81 studies (24 causal, 22 review, 10 associational, 8 quant-synthesis, 7 theoretical, 5 qualitative, 5 design), `q1`–`q3` · 16 of 81 report an effect size · 109 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -147,6 +147,10 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [Critical thinking disposition gains from one- or two-semester interventions are not sustained at two years](../claims/ct-gains-not-sustained-two-years.md) [~M] — instruction changes it
 - [Non-traditional teaching methods significantly improve critical thinking dispositions in nursing students compared to control groups](../claims/non-traditional-methods-improve-ct-dispositions.md) [+W] — instruction changes it
 - [Non-traditional teaching methods significantly improve critical thinking skills in nursing students compared to control groups](../claims/non-traditional-methods-improve-ct-skills.md) [+W] — instruction changes it
+- [Collaborative group assignments for new drug evaluations using CASP achieved average scores above 80%](../claims/group-casp-drug-evaluations-exceed-80.md) [+M] — instruction changes it
+- [Instructor feedback on individual CASP-based RCT assignments significantly improved fifth-year pharmacy students' RCT evaluation scores](../claims/feedback-improves-pharmacy-rct-evaluation-scores.md) [+M] — instruction changes it
+- [Students taught with WSDC debate significantly outperformed control students on both critical thinking and speaking posttests](../claims/debate-outperforms-control-ct-and-speaking.md) [+M] — instruction changes it
+- [WSDC debate instruction significantly improved tenth-grade EFL students' critical thinking achievement within the experimental group](../claims/wsdc-debate-improves-efl-critical-thinking.md) [+M] — instruction changes it
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

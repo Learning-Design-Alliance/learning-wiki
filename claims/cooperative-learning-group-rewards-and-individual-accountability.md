@@ -174,3 +174,4 @@ The standard remedy in the cooperative learning literature is **individual accou
 - [Cooperative and collaborative learning show larger achievement effects than problem-based and peer-led team learning in engineering and technology classrooms](cooperative-collaborative-larger-effects-than-pbl-peer-led.md) — related
 - [Self-selected and randomly formed small groups show larger achievement effects than ability-based grouping, and groups of three to five students outperform pairs](group-formation-and-size-moderate-small-group-effects.md) — related
 - [Cooperative learning, computer-supported collaborative learning, and digital games probably improve learning.](cooperative-learning-cscl-and-digital-games-probably-improve-learning.md) — a broader claim this one bears on
+- [Students in Cooperative TGT classrooms learned to socialise while learning mathematics and became more active learners](tgt-students-socialise-while-learning-mathematics.md) — related

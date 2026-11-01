@@ -49,3 +49,4 @@ Likelihood-ratio model comparison in ConQuest on the 128-item competence test (1
 - [Perceived task difficulty ratings show a strong relation to Rasch-estimated relative task difficulty, supporting construct validity of the single-item scale](perceived-task-difficulty-correlates-with-relative-task-difficulty.md)
 - [Mokken scale analysis establishes content validity of the ramp task as a unidimensional measure of CVS use](mokken-content-validity-ramp-task.md)
 - [The six-process structure of inductive reasoning fits fifth graders' figurative-test data better than a unidimensional model](six-process-model-fits-better-than-unidimensional.md) — related
+- [The 20-item attitude towards statistics scale showed acceptable Rasch fit and reliability, supporting a unidimensional construct](ats-scale-rasch-fit-unidimensional.md) — related

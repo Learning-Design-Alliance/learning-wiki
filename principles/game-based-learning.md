@@ -47,7 +47,7 @@ sources:
 # Game-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 88 claims (43 for, 43 mixed, 2 against) · 67 studies (20 causal, 19 quant-synthesis, 16 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 20 of 67 report an effect size · 82 claims rest on one study
+> **Evidence** · 89 claims (44 for, 43 mixed, 2 against) · 68 studies (21 causal, 19 quant-synthesis, 16 review, 4 design, 4 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 20 of 68 report an effect size · 83 claims rest on one study
 
 ## Conditional relationship
 
@@ -162,6 +162,7 @@ Claims read against this model that do not change it. Each says what it is and w
 - [The GraphoGame effect on decoding was greatest when both students and teachers played the game](../claims/graphogame-teacher-plus-student-exposure-greatest.md) [+W] — attached 2026-10-29 from Jere-Folotiya et al. (2014), which proposed "Supplementary computer-assisted phonics games should expose both students and teachers to the game to maximize early literacy gains".
 - [An interactive game training context provided no immersion or bias-mitigation advantage over a text script with identical content](../claims/game-context-no-advantage-over-text.md) [~W] — attached 2026-10-29 from Poos et al. (2017), which proposed "Use engaging narrative text rather than expensive immersive games for bias-mitigation training when resources are scarce"; tests this page's relationship.
 - [Students in the serious virtual world group reported enjoying the class more, being more engaged, and having greater intentions to participate than students in the traditional group](../claims/svw-higher-enjoyment-engagement-intention-e-junior.md) [+W] — attached 2026-10-29 from Wrzesien et al. (2010), which proposed "Serious virtual worlds as a class format matched to traditional classes with identical learning objectives and contents"; tests this page's relationship.
+- [Educational games instruction produced significantly higher literacy skill assessment scores than TIP instruction among Saudi kindergarten children after eight weeks](../claims/educational-games-outperform-tip-kindergarten-literacy-saudi.md) [+W] — attached 2026-11-01 from Gahwaji (2016), which proposed "Design considerations for educational game programmes teaching kindergarten literacy"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

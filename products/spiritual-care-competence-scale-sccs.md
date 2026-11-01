@@ -27,7 +27,8 @@ A 27-item original or 22-item Chinese self-report Likert-scale instrument develo
 - [Nurses' pooled spiritual care competency score is 70.51 (95% CI: 70.23–70.79), indicating a medium level of ability](../claims/pooled-nurse-spiritual-care-competency-70-51.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Self-Directed Learning Readiness Scale (SDLRS)](self-directed-learning-readiness-scale-sdlrs.md)
 
 ## Key Sources
 - Kaiyue Wu, Xinsheng Wang, Linbo Sun, Jiayi Feng, Changping Song. (2025). Nurse Competency in Providing Spiritual Care and Associated Influencing Factors: A Systematic Review and Meta‐Analysis. Nursing Open. https://doi.org/10.1002/nop2.70192

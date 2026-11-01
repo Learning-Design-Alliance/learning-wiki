@@ -49,3 +49,4 @@ Subgroup moderator analysis comparing 12 computer-supported studies with 2 pen-a
 - [Science-related subject areas (mathematics, science, medical science) show larger effects than programming technology and other fields](subject-area-moderates-cps-critical-thinking-effects.md) — related
 - [The advantage of computer role-play over paper-pencil vignettes in eliciting DSE holds for 6- and 8-year-olds but not for 10-year-olds](age-by-presentation-interaction-dse.md) — related
 - [Children display more disinhibited social engagement in a computer-mediated role-play task than in theme-matched paper-pencil vignettes](more-dse-computer-role-play-than-paper-pencil.md) — related
+- [In a quasiexperiment, the interactive simulation produced a large pretest-to-posttest improvement (Cohen's d = 1.06) while the paper-based exercise produced a small-to-moderate one (d = 0.40)](simulation-large-improvement-effect-wilsim-gc.md) — a narrower finding that bears on this claim
