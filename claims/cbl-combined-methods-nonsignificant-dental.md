@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2024
+source_checked: 2026-11-01
 sources:
   - id: pang-xuefei-2024
     resource: "https://doi.org/10.1016/j.identj.2024.05.016"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i?` CBL was superior to LBL but not significantly (SMD = 0.52, 95% CI 0.18-0.86, P = .060). [→ Pang Xuefei 2024](#pang-xuefei-2024)
@@ -55,3 +56,6 @@ Subgroup analysis by teaching method (Figure 3B) in the meta-analysis of 29 RCTs
 - [Pooled PBL-CBL versus LBL estimates show high heterogeneity and publication bias but remain robust in sensitivity and trim-and-fill analyses](pbl-cbl-meta-heterogeneity-publication-bias.md) — related
 - [PBL-CBL produces significantly higher theoretical knowledge scores than LBL in orthopedic education](pbl-cbl-higher-theoretical-scores-orthopedics.md) — related
 - [Emerging teaching methods improve both theoretical knowledge scores and clinical skill scores in dental education](emerging-methods-improve-theory-and-skill-scores.md) — related
+- [CBL significantly increases knowledge scores compared with LBL in Chinese dental education (SMD=1.58)](cbl-increases-knowledge-scores-chinese-dental.md) — reports the opposite
+- [CBL improved exam scores in both basic theory and applied psychology course subgroups, but course type did not explain the heterogeneity](cbl-subgroup-course-types-heterogeneity.md) — related
+- [PBL improves comprehensive question scores compared with LBL (pooled SMD 0.53)](pbl-comprehensive-question-scores-smd-053.md) — related

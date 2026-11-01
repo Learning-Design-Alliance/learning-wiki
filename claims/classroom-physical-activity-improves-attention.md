@@ -137,3 +137,10 @@ A registered systematic review of single (acute) bouts of classroom movement bre
 - [ALCs increase engagement in learning across studies, with no consistent detriment to academic performance](alc-engagement-increased.md) — related
 - [Acute physical activity increases on-task classroom behavior, with off-task behavior patterns differing by time of day](acute-physical-activity-increases-on-task-behavior.md) — a narrower finding that bears on this claim
 - [Age, setting, design, number of conditions, activity type, duration, intensity and test timing showed no significant moderation of acute physical activity effects on academic outcomes](no-significant-moderators-other-than-behavior-change-techniques.md) — related
+- [Classroom movement breaks increase physical activity and reduce sedentary behaviour during university classes](cmb-increases-class-physical-activity.md) — related
+- [Classroom movement breaks increase vigour and concentration and decrease fatigue immediately after the break](cmb-vigour-concentration-fatigue.md) — related
+- [In-classroom physical activity breaks significantly improve primary school children's foreign language learning](icpab-improve-foreign-language.md) — related
+- [In-classroom physical activity breaks significantly improve primary school children's spelling performance](icpab-improve-spelling.md) — related
+- [In-classroom physical activity breaks show no significant effects on children's executive function and attention outcomes](icpab-no-effect-cognition.md) — related
+- [On-task behavior increased immediately after a 25-minute recess in a small uncontrolled pre-post study](on-task-behavior-increases-after-recess.md) — a narrower finding that bears on this claim
+- [Recess quality is associated with adaptive classroom behavior, resilience, and lower externalizing problems](recess-quality-associated-behavior-resilience.md) — related

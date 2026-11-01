@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 152 claims (74 for, 62 mixed, 16 against) · 81 studies (28 review, 17 causal, 13 quant-synthesis, 9 qualitative, 9 design, 4 theoretical, 1 associational), `q1`–`q4` · 17 of 81 report an effect size · 147 claims rest on one study
+> **Evidence** · 153 claims (75 for, 62 mixed, 16 against) · 82 studies (28 review, 17 causal, 14 quant-synthesis, 9 qualitative, 9 design, 4 theoretical, 1 associational), `q1`–`q4` · 17 of 82 report an effect size · 148 claims rest on one study
 
 ## Description and scope
 
@@ -182,6 +182,7 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 - [Standardized patients produced higher knowledge scores than high-fidelity simulation, but performance scores did not differ (Tuzer et al. study)](../claims/standardized-patients-vs-high-fidelity-simulator-knowledge.md) [~W]
 - [Comparative ISBTT studies suggest simulation added to training improves collaborative behaviors, with mixed results for modality and interprofessional versus uniprofessional comparisons](../claims/isbtt-comparative-studies-mixed-results.md) [+W]
 - [Virtual standardized patient training improved alcohol screening and brief intervention skills and diagnostic accuracy for depression and PTSD in two RCTs, while a suicide risk assessment RCT found no significant effect](../claims/vsp-training-skills-rct-mixed-results.md) [~M]
+- [Standardised patient performance shows almost perfect inter-rater (kappa 0.84) and substantial intra-rater (kappa 0.75) agreement](../claims/pt-osce-sp-kappa-agreement-high.md) [+M]
 
 ## Examples
 

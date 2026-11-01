@@ -50,3 +50,4 @@ Synthesis of theory use across the 100 included articles in the scoping review. 
 - [Evaluations of IPP experiential learning spanned student learning outcomes, initiative evaluations, and other outcomes such as client satisfaction](evaluation-outcomes-three-categories.md) — related
 - [Reflective activities were explicitly reported in 23 articles as a strategy to help students process their IPP learning](reflective-activities-23-articles.md) — related
 - Terminology for interprofessional practice education varied widely, with only two articles using IPP as the main concept — related
+- [Few IcPAB interventions are theory-based or include process evaluation and fidelity monitoring](icpab-few-theory-process-evaluation.md) — related

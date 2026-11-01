@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-01
 recheck_by: 2028
 sources:
   - id: menna-grazia-2025
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
+> **Currency** · newest study 2025 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Among reviewed studies, the majority demonstrated face validity and content validity was commonly established, but only a limited number provided construct validity and very few assessed predictive validity. [→ Menna Grazia 2025](#menna-grazia-2025)
@@ -55,3 +56,5 @@ In the Discussion, the review reports that "the majority demonstrated face valid
 - [Evidence for transfer of simulation training to operating-room outcomes was sparse in neuro-oncological simulation research](sparse-transfer-evidence-simulation-to-or.md) — related
 - Reporting of the validity source consequences is largely absent from identified assessment studies — related
 - [Most identified assessment tools demonstrate construct or concurrent validity, but predictive validity is absent across tool categories](construct-validity-common-predictive-absent.md) — related
+- [Cadaver models were perceived as the most anatomically realistic and outperformed placenta models on face validity, with no content-validity difference](cadaver-models-most-anatomically-realistic-outperform-placenta-face.md) — a narrower finding that bears on this claim
+- [Educational utility was not explicitly assessed for most tools, and no studies reported data on educational impact](educational-utility-not-assessed-no-impact-data.md) — related

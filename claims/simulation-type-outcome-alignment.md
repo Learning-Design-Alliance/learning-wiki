@@ -54,3 +54,4 @@ The review's cross-study synthesis of the included literature found modality–o
 - [Very high majorities of students rated high-fidelity simulation as enhancing learning, clinical reasoning, decision-making, and value](coffey-hfs-student-ratings.md) — related
 - High-fidelity simulation is the most commonly used simulation type in studies of critical thinking — related
 - [The included studies do not reflect which intervention is better or which favours the acquisition and retention of knowledge more effectively.](studies-do-not-reflect-which-intervention-is-better.md) — reports the opposite
+- [The review's authors interpret structured pre-briefing as supporting nursing students' metacognition, clinical judgment, and meaningful simulation learning](structured-pre-briefing-supports-clinical-judgment.md) — related

@@ -59,3 +59,6 @@ Systematic characterization of outcome levels across all 125 included studies us
 - Fewer studies assessed Kirkpatrick level 3 behaviour and level 4 patient outcomes, and higher‐level feature combinations remain unclear — related
 - [Most LMIC simulation-based education studies testing significance demonstrate at least partial improvement in patient-level (Kirkpatrick Level 4) outcomes](sbe-lmic-most-studies-partial-improvement-level4.md) — related
 - [Simulation training reached Kirkpatrick level 3 (behavioral change) in five studies, but no study assessed patient outcomes](simulation-kirkpatrick-level3-behavior-no-patient-outcomes.md) — related
+- [Four reviewed studies showed e-learning changed student study behaviour, including increased time invested in studying course subjects](elearning-behaviour-change-kirkpatrick-3.md) — related
+- [Internally-developed perception surveys are the most common SDL assessment method in undergraduate health professions education, followed by internally-developed knowledge exams](perception-surveys-most-common-sdl-assessment.md) — related
+- [Outcome evaluation of research education programs concentrated at lower levels of the modified Kirkpatrick typology, with few objective or organisational outcomes](research-education-evaluation-lower-kirkpatrick-levels.md) — a broader claim this one bears on

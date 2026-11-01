@@ -13,7 +13,7 @@ generated:
 # Concrete Modeling
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 6 claims (1 for, 3 mixed, 2 against) · 5 studies (3 quant-synthesis, 1 causal, 1 review), `q1`–`q4` · 2 of 5 report an effect size · 6 claims rest on one study
+> **Evidence** · 9 claims (2 for, 4 mixed, 3 against) · 6 studies (3 quant-synthesis, 2 review, 1 causal), `q1`–`q4` · 2 of 6 report an effect size · 9 claims rest on one study
 
 ## Description
 Concrete modeling is the element in which physical or tangible representations are used to make abstract relationships visible.
@@ -29,6 +29,9 @@ Concrete modeling is the element in which physical or tangible representations a
 - [In Experiment 1, abstract representations produced better symbol learning than multiple concrete representations, but only for children who completed the concrete condition first](../claims/exp1-abstract-advantage-order-interaction.md) [-M]
 - [Virtual manipulatives show a non-significant advantage over physical manipulatives on mathematics achievement](../claims/virtual-vs-physical-manipulatives-non-significant.md) [~W]
 - [The authors interpret the higher Natural Sciences AR effect as arising because abstract natural-science concepts can be more easily concretized in AR than social-science concepts](../claims/ar-concretization-explanation-natural-sciences.md) [~W]
+- [3DPAMs were significantly more effective than plastinated prosections for learning anatomy in two reviewed studies](../claims/3dpam-more-effective-than-plastinated-prosections.md) [+W] — attached 2026-11-01 from Brumpt Eléonore et al. (2023), which proposed "3D-printed anatomical models (3DPAMs) for teaching normal human anatomy"; tests this page's relationship.
+- [In seven reviewed studies 3DPAMs were not superior to other models on student knowledge tests](../claims/3dpam-not-superior-in-seven-studies.md) [-W] — attached 2026-11-01 from Brumpt Eléonore et al. (2023), which proposed "3D-printed anatomical models (3DPAMs) for teaching normal human anatomy"; tests this page's relationship.
+- [Groups using 3DPAMs achieved significantly better test results than groups using dry bones, with one mixed result on MCQs](../claims/3dpam-better-test-results-than-dry-bones.md) [~W]
 
 ## Related Elements
 - [Conceptual Overviews](conceptual-overviews.md)

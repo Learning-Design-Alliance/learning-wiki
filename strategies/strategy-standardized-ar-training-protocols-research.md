@@ -54,6 +54,8 @@ The authors' forward-looking research and design recommendation for AR in surgic
 
 - [Prioritize multicenter, randomized designs with standardized reporting and longitudinal follow-up in future surgical education research](prioritize-multicenter-randomized-standardized-reporting-research.md)
 - [Prioritize longitudinal studies tracking trainees from simulation to real-world surgical performance](longitudinal-simulation-to-or-tracking-studies.md)
+- [Recommendation: evaluate PBL effectiveness through multicenter primary studies comparing educational centers, cultures, and psychological adaptation factors](multicenter-pbl-research-recommendation.md)
+- [Strengthen vascular simulation research with modern validity frameworks, longer skill-retention follow-up, cost-effectiveness analysis, and more nontechnical-skills and cadaver models](vascular-simulation-research-recommendations.md)
 
 ## Examples
 -

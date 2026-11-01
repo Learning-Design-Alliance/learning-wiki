@@ -55,3 +55,4 @@ Narrative synthesis of the review's own included studies: of 11 studies included
 - [N-vinyl-2-pyrrolidone-embalmed donors showed significantly greater abdominal response to CO2 insufflation than formalin-embalmed donors, suggesting better suitability for laparoscopic simulation](pyrrolidone-greater-insufflation-response-than-formalin.md) — related
 - [Only 35 of 2814 identified studies describe data-driven assessment tools implemented in laparoscopic skills training curricula for surgical residents](35-of-2814-studies-data-driven-assessment-curricula.md) — related
 - [Self-confidence gains from single-session simulation are often temporary, suggesting a dose–response effect](simulation-confidence-dose-response.md) — related
+- [Simulation-based medical education improves knowledge-based performance of undergraduate medical students as an adjunct to existing curricula](sbme-improves-knowledge-performance-undergraduates.md) — related

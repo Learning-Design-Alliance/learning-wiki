@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Heterogeneity was high across objective outcomes (I2 = 77–87%), with sample size below 80 identified as a potential source. [→ Xiong Xianghua 2025](#xiong-xianghua-2025)
@@ -71,3 +71,6 @@ Trim-and-fill analysis for theoretical scores (with 5 virtual studies added). Th
 - [PBL-CBL produces significantly higher theoretical knowledge scores than LBL in orthopedic education](pbl-cbl-higher-theoretical-scores-orthopedics.md) — related
 - [PBL's examination-score advantage holds across student majors, publication years, and class sizes, but heterogeneity remains high in all subgroups](pbl-exam-subgroup-analyses-heterogeneity.md) — related
 - [Problem-based learning shows a small but significant pooled advantage over lecture-based learning in dental education (SMD = 0.33)](pbl-small-significant-advantage-dental.md) — related
+- [After removing four studies identified as heterogeneity sources via Galbraith plot, the pooled CBL effect remains significant (g = 0.65)](cbl-effect-robust-after-galbraith-removal.md) — related
+- [Pooled PBL-vs-LBL effects show strong heterogeneity (I2 = 89.7%) attributed to different teachers, similar or same examination papers, and student groups over 100](heterogeneity-sources-pbl-cell-biology-meta-analysis.md) — related
+- [Removing 5 heterogeneous studies leaves the PBL advantage intact (SMD 0.79) with reduced heterogeneity, and the Liu et al study most affects stability](sensitivity-analysis-pbl-pooled-smd-stable.md) — related

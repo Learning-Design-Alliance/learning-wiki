@@ -76,3 +76,4 @@ Table 6 summary of the author's lab's experimental tests reports the immersion p
 - [Virtual patient simulations were delivered via immersive systems (nine studies) or desktop-based platforms (ten studies), all as single-session interventions](vp-technology-modalities-single-session.md) — related
 - [Across all modalities, training interventions improved either performance or safety outcomes](training-interventions-improve-performance-or-safety-across-modalities.md) — related
 - [All included VR training interventions used non-immersive desktop systems; no immersive VR studies met the review's inclusion criteria](all-included-vr-interventions-non-immersive-desktop.md) — related
+- [A mixed-methods study of orthodontic residents found no significant difference in overall performance across 2D, 3D, and VR surgical simulations, with residents ready to adopt VR](residents-performance-2d-3d-vr-no-difference.md) — a narrower finding that bears on this claim

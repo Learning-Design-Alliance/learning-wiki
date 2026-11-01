@@ -76,3 +76,6 @@ Subgroup analysis by study design of the self-confidence meta-analysis. The revi
 - [Simulation's impact on student reflection remains inconclusive due to limited evidence](simulation-reflection-inconclusive-limited-evidence.md) — related
 - [Confidence during procedures and positive attitudes are associated with higher clinical practice competency (AOR = 2.70)](confidence-positive-attitude-associated-competency-ethiopia.md) — related
 - [Evidence on clinical reasoning teaching strategies is inconclusive, so no specific teaching strategy can currently be recommended](no-clinical-reasoning-strategy-recommendable-inconclusive-evidence.md) — related
+- [HF simulation improves ALS knowledge at course conclusion more than LF simulation or traditional training (pooled SMD = 0.38)](hf-simulation-improves-als-knowledge-course-conclusion.md) — related
+- [HF simulation improves ALS skill performance at course conclusion versus LF simulation and traditional training (pooled SMD = 0.63) with high heterogeneity](hf-simulation-improves-als-skill-course-conclusion.md) — related
+- [HF simulation shows no significant benefit for satisfaction, confidence, or teamwork behaviors, and no long-term knowledge retention benefit](hf-simulation-null-secondary-outcomes.md) — related

@@ -48,3 +48,4 @@ Subgroup analysis by course classification across the included RCTs. Practice co
 - [GAI-based teaching improves knowledge scores when learning duration exceeds one week](gai-knowledge-gains-extended-duration.md) — related
 - [GAI-assisted teaching significantly improves knowledge examination scores in medical students compared with traditional teaching (SMD = 0.95)](gai-teaching-improves-knowledge-scores-medical-students.md) — a broader claim this one bears on
 - [GAI-based teaching outperforms traditional teaching in practical skill development](gai-superior-practical-skill-development.md) — related
+- [PBL teaching yields higher knowledge scores than traditional teaching in orthopaedics education](pbl-higher-knowledge-scores-orthopaedics.md) — related

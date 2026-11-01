@@ -49,3 +49,4 @@ The review reports, from Clay et al.'s mandatory two-part simulation with 144 me
 - [Medical students and interns poorly identified pressure ulcer risk in a patient-safety simulation](poor-pressure-ulcer-risk-identification-room-of-horrors.md) — related
 - [Online and interprofessional wound care courses increased students' subjective knowledge, and the online courses were well accepted](online-interprofessional-courses-subjective-knowledge-gains.md) — related
 - [Only nine studies of educational interventions for chronic wound care targeting medical students were identified in a scoping review of six databases](nine-studies-medical-student-wound-care-education.md) — related
+- [ISS used to assess performance and identify risks: eighteen studies, mostly observational, reported positive benefits for identifying hazards, latent safety threats and guideline non-adherence](iss-assessment-identifies-risks.md) — a broader claim this one bears on

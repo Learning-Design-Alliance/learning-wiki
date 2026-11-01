@@ -45,7 +45,8 @@ Based on the identified underrepresentation of interdisciplinary teamwork and pa
 - [Interdisciplinary teamwork and patient/caregiver needs are significantly underrepresented in geriatric core competencies](../claims/geriatric-competencies-underrepresent-teamwork-caregiver-needs.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Co-develop a dementia care competency framework with persons living with dementia, care partners and health professionals](codevelop-dementia-competency-framework-stakeholders.md)
 
 ## Examples
 -

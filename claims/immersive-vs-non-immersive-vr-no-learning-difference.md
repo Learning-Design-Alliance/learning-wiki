@@ -51,3 +51,4 @@ Quasi-experimental study (Omlor et al., 2022) summarized in the review's VR tabl
 - [Review syntheses: VR/AR most often improved academic achievement and motivation, but sometimes performed no better than conventional technologies](vr-ar-advantages-achievement-motivation-with-null-contrast.md) — related
 - [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation while leaving retention unaffected](immersion-cost-benefit-transfer-motivation.md) — related
 - [3D virtual-reality lecture was statistically non-inferior to 2D lecture on knowledge and rated better on spatial understanding and enjoyment (Kockro et al.)](kockro-3d-lecture-noninferior-rated-better.md) — related
+- [A mixed-methods study of orthodontic residents found no significant difference in overall performance across 2D, 3D, and VR surgical simulations, with residents ready to adopt VR](residents-performance-2d-3d-vr-no-difference.md) — related

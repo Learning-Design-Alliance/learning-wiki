@@ -49,6 +49,7 @@ The fourth step advocates combining multiple data modalities when studying feedb
 - [Use multimodal data channels combining subjective and objective measures to overcome single-channel constraints in SSRL research](multimodal-multichannel-ssrl-measurement.md)
 - [Triangulate physiological data with other CSCL data streams ( such as video or logfile traces ) to uncover otherwise unidentifiable psychophysiological reactions](triangulate-physiological-data-with-video-or-logs.md)
 - [Use multimodal data and time-sensitive analyses to capture situational motivational processes](multimodal-data-time-sensitive-analyses-motivation.md)
+- [Combine subjective and objective multimodal measurement (self-report, facial expression, physiological data) to capture academic emotions during learning](multimodal-academic-emotion-measurement.md)
 
 ## Examples
 -

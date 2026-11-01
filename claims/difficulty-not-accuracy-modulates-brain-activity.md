@@ -46,3 +46,4 @@ Separate within-subject parametric modulation GLMs for accuracy, normative diffi
 
 ## Related Claims
 - [Judging incongruent statements that trigger naive ideas recruits left IFG, bilateral superior frontal gyrus and bilateral ACC more than judging matched congruent statements](incongruent-statements-frontal-inhibitory-activation.md) — related
+- [Task nature modulates brain activation: problem-solving tasks and difficult cases induced higher activation than simple recall or routine cases, and incorrect answers induced higher PFC activation than correct answers](task-difficulty-modulates-brain-activation.md) — related

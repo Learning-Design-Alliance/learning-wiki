@@ -48,3 +48,4 @@ The abstract's own enumeration of implementation difficulties encountered in the
 - [In the 1957-58 national television-in-schools experiment, more control-versus-experimental comparisons favored television than favored control classes](tv-in-schools-comparisons-favor-television.md) — related
 - [School systems in the National Program reported substantial savings from television instruction, including a Dade County estimate of $250,000 from cutting teacher employment by 60](tv-instruction-substantial-savings-dade-county.md) — related
 - [Almost 90 percent of comparisons between television and conventional instruction showed no substantial differences in achievement or information gain](tv-research-90-percent-no-substantial-differences.md) — related
+- [Large class size, inadequate classroom facilities, and low internet access are associated with low academic performance in Ethiopian higher education](facility-deficits-associated-low-performance.md) — related

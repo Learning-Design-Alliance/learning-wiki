@@ -69,3 +69,4 @@ Cross-sectional evidence cited by the review contrasts sport-participating child
 - [Intervention studies show stronger physical-activity effects on children's cognition than correlational studies](intervention-studies-stronger-than-correlational-physical-activity-cognition.md) — a broader claim this one bears on
 - [Adults with ADHD who frequently engage in physical exercise report healthier psychological well-being than those who do not](physical-activity-correlates-wellbeing-adults-adhd.md) — related
 - [Age may moderate acute PA effects on attention: effects appeared for 9–10 year olds but not 7–8 year olds](age-moderates-pa-attention-effect.md) — related
+- [A 10-minute run break midway through a lecture improves objectively measured visual attention in university students](cmb-run-improves-visual-attention.md) — related

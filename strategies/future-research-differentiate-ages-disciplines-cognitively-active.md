@@ -42,6 +42,7 @@ The review's implications section recommends that future work conduct longitudin
 - [Design physical activity interventions as continuous regular activity sustained over several weeks](continuous-regular-physical-activity-over-weeks.md)
 - [Conduct methodologically comparable experimental studies of acute PA and attention in school settings](comparable-school-setting-pa-attention-studies.md)
 - [Before or After-School Physical Activity Programs](before_or_after-school_physical_activity_programs.md)
+- [Design future non-cognitive factor research as multivariate, dual-setting, and interprofessional with shared instruments](future-non-cognitive-research-multivariate-dual-setting.md)
 
 ## Examples
 -

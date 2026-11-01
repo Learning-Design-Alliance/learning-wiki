@@ -55,6 +55,7 @@ The review recommends that future research prioritize standardized and validated
 - [Future simulation research should use rigorous designs, standardized tools, and transparent reporting](strategy-rigorous-simulation-research-design.md)
 - [Improve SBE reporting detail and involve LMIC perspectives in developing future reporting standards](improve-sbe-reporting-lmic-inclusive-standards.md)
 - [Prioritise longitudinal research and cost analysis when evaluating digital clinical skills modalities](longitudinal-cost-research-digital-clinical-skills.md)
+- [Strengthen vascular simulation research with modern validity frameworks, longer skill-retention follow-up, cost-effectiveness analysis, and more nontechnical-skills and cadaver models](vascular-simulation-research-recommendations.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Usability outcome from the same preliminary user acceptance testing sessions (ap
 - [Teachers rate LearnLens positively across usability, relevance, and accuracy, with all nine Likert items averaging at least 4.1/5](learnlens-teacher-satisfaction-4-1-of-5.md) — related
 - [Users rate chatbots easy to use with clear, relevant, largely accurate responses, but the intrusive pop-up design is the largest annoyance](chatbot-ux-clear-relevant-popup-annoyance.md) — related
 - [Students reported positive usability and acceptance of MentorChat](mentorchat-positive-usability-acceptance.md) — related
+- [Perceived usefulness and realism are the most common UX dimensions assessed, with less experienced users rating usefulness more positively](ux-usefulness-realism-dominant-dimensions.md) — related

@@ -49,3 +49,4 @@ Figure-reported fNIRS delta oxy-Hb beta results from the RCT, described in runni
 - [Tai Chi better maintains prefrontal activation than treadmill running when the probe aligns with METH-related stimuli](tai-chi-maintains-pfc-activation-meth-condition.md) — related
 - [Tai Chi better maintains prefrontal oxy-Hb beta values than treadmill running during the dot-probe task in the neutral-congruent condition](tai-chi-maintains-pfc-activation-neutral-condition.md) — related
 - [A 12-week moderate-intensity Tai Chi intervention reduces attentional bias scores in men with MUD more than moderate-intensity treadmill running](tai-chi-reduces-attentional-bias-mud.md) — related
+- [Experts show significantly lower prefrontal cortex activation than novices during technical skill performance, but novices may retain persistent PFC engagement even after reaching expert-level observed performance](experts-lower-pfc-activation-than-novices.md) — related

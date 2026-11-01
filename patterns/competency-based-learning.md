@@ -25,7 +25,7 @@ sources:
 # Competency-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 69 claims (25 for, 37 mixed, 7 against) · 69 studies (20 causal, 11 quant-synthesis, 10 review, 9 associational, 7 design, 6 qualitative, 6 theoretical), `q1`–`q4` · 13 of 69 report an effect size · 61 claims rest on one study
+> **Evidence** · 70 claims (26 for, 37 mixed, 7 against) · 70 studies (20 causal, 12 quant-synthesis, 10 review, 9 associational, 7 design, 6 qualitative, 6 theoretical), `q1`–`q4` · 13 of 70 report an effect size · 62 claims rest on one study
 
 ## Description and scope
 
@@ -176,6 +176,7 @@ This pattern is scoped to a course organised around a competency map with criter
 - [Competency-based progression simulation combined with e-learning yields higher communication competence than e-learning alone or standard simulation](../claims/competency-based-progression-simulation-communication.md) [+W]
 - [Surgical societies outlined RAS curricula featuring proficiency-based progression, modular intraoperative training, and objective assessment.](../claims/surgical-societies-ras-curricula-proficiency-modular-objective.md) [+W]
 - [Narrative synthesis: three studies found no significant exam-score difference between OBEs and CBEs, with differences emerging only under specific conditions](../claims/narrative-mixed-results-three-studies-no-difference.md) [~M]
+- [Completion of a dVSS proficiency-based curriculum was associated with significant improvement in RO-SCORE across all domains and significant reduction in NASA-TLX workload](../claims/gerull-curriculum-improved-roscore-reduced-workload.md) [+W]
 
 ## Related Patterns
 - [Mastery Learning](mastery-learning.md)

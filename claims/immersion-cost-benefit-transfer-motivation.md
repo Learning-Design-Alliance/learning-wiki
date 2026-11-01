@@ -94,3 +94,4 @@ The review reports, citing Frederiksen et al. (2020) in surgical training, that 
 - [A VR simulation of psychosis reduced stigma and increased empathy and knowledge among medical students](vr-psychosis-empathy-stigma.md) — related
 - [Simulation type–outcome alignment: high-fidelity formats favour judgment and decision-making, VR and games favour empathy and reflection](simulation-type-outcome-alignment.md) — related
 - [Virtual reality use in TEPBLL positively boosted students' motivation, supporting a self-determination theory interpretation](vr-projects-boost-motivation-sdt.md) — a narrower finding that bears on this claim
+- [A mixed-methods study of orthodontic residents found no significant difference in overall performance across 2D, 3D, and VR surgical simulations, with residents ready to adopt VR](residents-performance-2d-3d-vr-no-difference.md) — related

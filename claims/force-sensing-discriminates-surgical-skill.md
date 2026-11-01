@@ -55,3 +55,4 @@ The review reports a prospective cross-skill comparison of 60 participants (20 n
 - [Excessive tissue handling forces can cause severe complications, with reported safety thresholds between 1.3 and 11.4 Newton depending on tissue type and task](force-thresholds-tissue-damage-1-3-to-11-4-newton.md) — related
 - [Haptic simulator trials more frequently show superior accuracy outcomes when force-feedback and structured guidance are included](haptic-simulator-force-feedback-accuracy-gains.md) — related
 - [Prior robotic surgical experience is the main driver of better baseline performance and skills progression](prior-robotic-experience-driver-transfer.md) — related
+- [Microanastomosis training models discriminated competence levels: untrained groups scored significantly lower than trained groups on the NOMAT tool](nomat-untrained-significantly-lower-than-trained.md) — related

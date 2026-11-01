@@ -58,6 +58,7 @@ The paper's policy recommendations center on inclusive digital strategies: "A ke
 - [Accrediting bodies and professional organizations should provide AI policy frameworks integrating academic integrity, data ethics, and equitable access, and programs should invest in faculty development](accreditor-ai-policy-frameworks-faculty-development.md)
 - [Tripartite institutional response: AI literacy, ethical infrastructure, and competence-based educator training](tripartite-agentic-ai-institutional-response.md)
 - [Teachers adopting EAI should address digital literacy and ethical design challenges identified for each AI dimension](teacher-challenges-eai-inclusion-digital-literacy-ethics.md)
+- [Integrate e-learning into health professions training while ensuring equitable technology access and developing students' computer skills](integrate-elearning-equitable-access-computer-skills.md)
 
 ## Examples
 -

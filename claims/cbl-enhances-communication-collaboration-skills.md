@@ -55,3 +55,4 @@ Meta-analysis of the two of five questionnaire-survey studies (373 students tota
 - [CBL is the highest-ranked strategy for enhancing medical students' theoretical test scores, with CBL, PBL, SBL and FC each significantly outperforming LBL](cbl-highest-ranked-theoretical-test-scores-nma.md) — related
 - [PBL-CBL outperforms LBL on subjective comprehensive competencies including self-learning, interest, efficiency, clinical thinking, teamwork, and communication](pbl-cbl-subjective-competencies-orthopedics.md) — related
 - [More PBL than LBL students report satisfaction with improved communication skills (RR = 1.66)](pbl-satisfaction-communication-skills.md) — related
+- [Students reported positive evaluations of CBL, citing aroused learning interest, enhanced self-study, improved communication and cooperation, and improved problem-solving](cbl-positive-student-evaluations-psychology.md) — related

@@ -42,6 +42,7 @@ The article proposes using CAPERS "adjunctively with rapid synthesis, to ensure 
 - [Ensure communication and co-development with school leaders throughout edtech process rollout](edtech-process-communication-co-development.md)
 - [Plan an extended feasibility phase in which research and platform teams jointly refine design, implementation, and logistics](extended-feasibility-phase-dlp-research.md)
 - [Use premortem brainwriting focus groups early in intervention design to surface barriers](premortem-brainwriting-focus-groups-implementation-barriers.md)
+- [Co-develop a dementia care competency framework with persons living with dementia, care partners and health professionals](codevelop-dementia-competency-framework-stakeholders.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Overall result of the randomised trial: intervention students played specified g
 - [Playing commercial video games for eight weeks improved self-reported resourcefulness more than control conditions in a randomised trial of undergraduates](video-games-improve-resourcefulness-rct.md) — a narrower finding that bears on this claim
 - [Video game engagement is predicted by hours of play, playing with others, gender, and task orientation, with hours of play the strongest predictor](gaming-engagement-regression-predictors.md) — related
 - [Existing extracurricular video game play habits show no significant relationship with graduate attribute attainment among higher education students](no-significant-relationship-game-play-habits-graduate-attributes.md) — related
+- [Individual reviewed studies reported statistically significant knowledge and skill gains from e-learning interventions compared with controls](elearning-significant-gains-individual-studies.md) — related

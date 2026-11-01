@@ -57,3 +57,4 @@ Randomised control study of 73 university students from mixed disciplines and st
 - [Neither diary-keeping nor diary-plus-instruction improved university students' academic performance](no-academic-performance-improvement.md) — related
 - [Chatbot-guided feedback SRL improved university students' reflection more than conventional SRL](srl-cgf-improves-reflection.md) — related
 - [Worked examples combined with practice writing improved clinical note checklist scores more than worked examples alone](worked-examples-plus-practice-improve-note-scores.md) — related
+- [Individual reviewed studies reported statistically significant knowledge and skill gains from e-learning interventions compared with controls](elearning-significant-gains-individual-studies.md) — related

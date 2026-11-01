@@ -41,7 +41,8 @@ The review's forward‐looking recommendation is that "future research should in
 - [Cook et al. found multiple learning strategies was the only instructional design feature with a significantly positive pooled effect on Kirkpatrick level 4 patient outcomes (0.53, p < 0.001)](../claims/multiple-learning-strategies-pooled-patient-outcomes.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use validated homogeneous outcome measures, preferably in a patient setting, in future FB SBT studies](validated-homogeneous-outcome-measures-strategy.md)
 
 ## Examples
 -

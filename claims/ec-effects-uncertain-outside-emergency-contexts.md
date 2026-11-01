@@ -70,3 +70,4 @@ Narrative synthesis reporting the empathy–technical performance null across th
 - [Emotional competence enhances diagnostic and therapeutic clinical reasoning most clearly in life-threatening emergency situations](ec-enhances-cr-in-life-threatening-emergencies.md) — related
 - [Evidence that emotional competence improves patient outcomes is limited and mixed](ec-patient-outcomes-limited-mixed.md) — related
 - [Work context, via acute stress and cognitive load, is a major moderator of emotional competence's impact on clinical reasoning](work-context-acute-stress-moderates-ec-cr.md) — related
+- [Empathy is highly correlated with practical examination scores when the rubric explicitly assesses interpersonal behaviors](empathy-correlates-practical-examination-scores.md) — reports the opposite

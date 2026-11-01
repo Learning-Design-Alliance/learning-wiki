@@ -69,3 +69,4 @@ Descriptive frequency comparison of video-control behaviors (play, pause, fast-f
 - [Video review raises learning interest under virtual simulation but not under hands-on activity](video-review-raises-interest-only-in-virtual-simulation.md) — related
 - [Video review enhances practical skill performance in both modalities and eliminates the hands-on versus virtual simulation difference](video-review-eliminates-modality-performance-gap.md) — related
 - [Video review scaffolds self-regulated learning, and hands-on activity groups show greater self-regulation than virtual simulation groups](video-review-scaffolds-self-regulated-learning.md) — related
+- [Hands-on booster practice produced significantly fewer life-supporting skill errors than video booster or control at follow-up](hands-on-booster-fewer-life-supporting-errors.md) — related

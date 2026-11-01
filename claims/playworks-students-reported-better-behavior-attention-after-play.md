@@ -56,3 +56,5 @@ Student-reported outcome from the cohort 1 randomized experiment: treatment stud
 - [Game structures, role playing, and the physical environment are identified as factors shaping students' thinking in AR game play](ar-game-structure-role-environment-shape-thinking.md) — related
 - [Action, strategy-intelligence, role-playing and sport traditional game genres positively predict social problem-solving scores](traditional-game-genres-positive-spsic-predictors.md) — related
 - [Playworks made transitions from recess to classroom learning less difficult, per teacher reports](playworks-easier-recess-to-classroom-transitions.md) — related
+- [Having some recess is associated with better teacher-reported classroom behavior than no or minimal recess](recess-associated-better-teacher-reported-behavior.md) — related
+- [Recess quality is associated with adaptive classroom behavior, resilience, and lower externalizing problems](recess-quality-associated-behavior-resilience.md) — related

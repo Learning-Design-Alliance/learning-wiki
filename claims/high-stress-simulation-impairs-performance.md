@@ -51,3 +51,4 @@ Systematic review synthesis of 20 included studies (926 total participants; indi
 - The single study reporting enhanced performance under stress may reflect stressors that failed to induce sufficient stress — a narrower finding that bears on this claim
 - [Structured briefing and debriefing were largely absent from studies showing stress-impaired performance, and may contribute to impaired outcomes](briefing-debriefing-absent-impaired-studies.md) — related
 - [High stress and healthcare environment complexity are the primary barriers to effective decision-making](stress-complexity-primary-barriers-decision-making.md) — a broader claim this one bears on
+- [Stress predominantly impairs team performance through a narrow task-execution focus, unclear responsibilities, diminished situational understanding and emotional effects](stress-impairs-team-performance-narrow-focus-unclear-responsibilities.md) — related

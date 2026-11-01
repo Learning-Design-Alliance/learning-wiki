@@ -48,3 +48,4 @@ Review reports Matthews et al. and Zerwic et al. findings at University of Illin
 - [CBA and HA implementation is associated with increased diversity of admitted students](cba-ha-increased-diversity.md) — a broader claim this one bears on
 - [Increasing selectivity of teacher preparation entrance exams is not mutually exclusive with increasing diversity — nine states that raised selectivity saw education student diversity increase.](selectivity-and-diversity-compatible.md) — related
 - [Requiring all students to take college-prep ninth-grade courses did not increase dropout or reduce graduation, including for low-ability students](college-prep-all-no-dropout-increase.md) — related
+- [A 6-week NCLEX Coaching Model showed no significant first-time pass-rate improvement but significantly improved confidence/readiness scores (Schlairet & Rubenstein, 2019)](nclex-coaching-model-confidence-readiness-gains.md) — related

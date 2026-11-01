@@ -58,3 +58,4 @@ Meta-analysis of nine RCTs involving 1,127 pharmacy students (514 CBL, 613 LBL) 
 - [TBL students achieve significantly higher post-test final scores than LBL students in medical education](tbl-higher-post-test-scores-than-lbl.md) — related
 - [Pooled PBL-CBL versus LBL estimates show high heterogeneity and publication bias but remain robust in sensitivity and trim-and-fill analyses](pbl-cbl-meta-heterogeneity-publication-bias.md) — related
 - [CBL significantly improves problem-solving abilities compared with LBL (RR = 2.19)](cbl-improves-problem-solving-abilities.md) — related
+- [CBL significantly increases knowledge scores compared with LBL in Chinese dental education (SMD=1.58)](cbl-increases-knowledge-scores-chinese-dental.md) — related

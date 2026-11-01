@@ -51,3 +51,4 @@ Subgroup analysis by teaching method (Figure 3B) in the meta-analysis; PBL appea
 - [Flipped classroom shows a significant pooled advantage over lecture-based learning in dental education (SMD = 0.50)](flipped-classroom-significant-vs-lbl-dental.md) — related
 - [Pooled PBL-CBL versus LBL estimates show high heterogeneity and publication bias but remain robust in sensitivity and trim-and-fill analyses](pbl-cbl-meta-heterogeneity-publication-bias.md) — related
 - [PBL shows significant advantages in critical thinking compared with traditional education or team-based learning in nursing and clinical student populations](pbl-improves-critical-thinking-versus-traditional-teaching.md) — related
+- [PBL methods produce significantly better radiographic interpretation skills than traditional teaching among dental students (pooled MD 0.54)](pbl-improves-radiographic-interpretation-skills.md) — related

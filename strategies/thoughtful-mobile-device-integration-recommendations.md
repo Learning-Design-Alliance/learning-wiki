@@ -38,6 +38,7 @@ The review's implications for practice recommend that teachers "think carefully 
 
 - [Teacher Action Research](teacher_action_research.md)
 - [Replace on-device pictures with drawings of real objects to make mobile-device media complementary to the objects](drawings-replace-pictures-complementary-mobile-media.md)
+- [Integrate e-learning as a supplement to rather than replacement of traditional teaching (blended learning)](blend-elearning-as-supplement-to-traditional-teaching.md)
 
 ## Examples
 -

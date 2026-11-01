@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 161 claims (109 show a difference, 32 mixed, 20 no difference) · 120 studies (36 causal, 30 associational, 23 review, 14 quant-synthesis, 7 qualitative, 7 design, 3 theoretical), `q1`–`q4` · 25 of 120 report an effect size · 156 claims rest on one study
+> **Evidence** · 164 claims (111 show a difference, 33 mixed, 20 no difference) · 123 studies (37 causal, 30 associational, 24 review, 15 quant-synthesis, 7 qualitative, 7 design, 3 theoretical), `q1`–`q4` · 25 of 123 report an effect size · 159 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -199,6 +199,9 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Classroom physical activity breaks show strong evidence of improving sustained attention in university students](../claims/pa-breaks-sustained-attention-university-strong-evidence.md) [+W] — instruction changes it
 - [Behavioral classroom management improves teacher-rated ADHD symptoms (SMD = 0.66) and teacher-rated impairment (SMD = 0.72) in children with ADHD](../claims/behavioral-classroom-management-teacher-ratings-066-072.md) [+M] — instruction changes it
 - [Pre-operative errors stem largely from insufficient preparation, including setup issues and cognitive distractions that affect accuracy](../claims/preoperative-preparation-and-distraction-errors.md) [+W] — learners who differ on it differ in outcomes
+- [A 10-minute run break midway through a lecture improves objectively measured visual attention in university students](../claims/cmb-run-improves-visual-attention.md) [+M] — instruction changes it
+- [Children using cycling desks showed improved inhibitory control and selective attention on some tasks](../claims/cycling-desks-improve-inhibitory-control-attention.md) [~M] — instruction changes it
+- [Sustained attention, but not creativity, improved following a single recess period](../claims/sustained-attention-improves-after-single-recess.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

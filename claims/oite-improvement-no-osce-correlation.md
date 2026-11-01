@@ -49,3 +49,4 @@ Comparison of nine orthopedics residents in competency-based curriculum exams in
 - [Only a small fraction of published OSCE research in musculoskeletal and sport medicine was actually conducted in a Sport and Exercise Medicine setting](few-sem-setting-osce-studies-published.md) — related
 - [Evidence on gender gaps in surgical examination pass rates is mixed, with lower female MRCS pass rates in some UK studies but no differences in several other examinations](gender-exam-pass-rate-gaps-mixed.md) — related
 - [The 4C/ID group scored higher on consent-taking OSCEs than the lecture group, but the difference was not statistically significant](osce-advantage-4cid-not-significant.md) — related
+- [OSCE validity correlations with other measures range from very weak to strong, suggesting OSCEs resemble narrow course examinations more than broad clinical practice](pt-osce-validity-correlations-mixed.md) — related

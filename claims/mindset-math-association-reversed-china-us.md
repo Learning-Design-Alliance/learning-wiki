@@ -78,3 +78,4 @@ Six pairwise comparisons of PISA mathematics scores by mindset response per coun
 - [Growth mindset is positively associated with PISA reading, science and math performance overall (Model B standardized βs .21, .20, .16)](growth-mindset-positive-association-pisa-scores.md) — related
 - [The mindset–achievement association is significantly weaker in more culturally distant (non-WEIRD) countries for reading and science, and marginally for math](mindset-achievement-weaker-non-weird.md) — related
 - [Growth mindset is associated with better PISA performance across SES levels, but appears less beneficial at low SES and advantaged students still achieve better outcomes](mindset-benefit-weaker-at-low-ses.md) — related
+- [Growth mindset moderates the relationship between time since last NRP course and performance in an e-learning simulation game](growth-mindset-moderates-nrp-simulation-performance.md) — related

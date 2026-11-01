@@ -50,3 +50,4 @@ Web survey of 30 principals and 31 coordinators plus two vendor focus groups (14
 - [Nearly all respondents said inadequate school time and opportunities for collaboration made cross-sector collaboration more difficult](inadequate-time-and-opportunities-hinder-collaboration.md) — related
 - [Cross-sector leadership programs were widely viewed as the most successful collaboration grant activities, while limited grant time period and scope and lack of goal clarity hindered implementation](leadership-programs-most-successful-grant-activities.md) — related
 - [Leaders at city, central office, and school levels are perceived to play a key role in promoting cross-sector collaboration](leaders-key-to-cross-sector-collaboration.md) — related
+- [ECHO session attendance is variable, higher among prescribers than non-prescribers, with time demands and clinic leadership support as reported barriers](echo-attendance-prescribers-barriers.md) — related

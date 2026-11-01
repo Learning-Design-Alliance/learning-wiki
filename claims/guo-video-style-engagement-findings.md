@@ -71,3 +71,4 @@ Narrative review attributing these findings to Guo, Kim, and Rubin (2014), descr
 - [mLearning students prefer video-based materials with each video under 5 minutes](mlearning-students-prefer-short-videos-under-5-minutes.md) — a narrower finding that bears on this claim
 - [A University of Pennsylvania study found only about half of MOOC registrants viewed a lecture and only about four percent finished a course entirely](mooc-completion-four-percent.md) — related
 - [Lack of instructor embodiment in tutorials may limit effectiveness for DHH students](dhh-embodiment-limits-effectiveness.md) — related
+- [In one included study, students' perception scores were better for the direct classroom course than the online sessions](classroom-perceptions-beat-online-sessions-one-study.md) — related

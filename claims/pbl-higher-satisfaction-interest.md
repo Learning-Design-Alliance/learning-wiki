@@ -49,3 +49,4 @@ Randomized controlled trial of 57 pharmacy students; Table 1 reports satisfactio
 - [Students report higher satisfaction with PBL-CBL teaching than with LBL in orthopedic education](pbl-cbl-higher-teaching-satisfaction.md) — related
 - [In the RCT, PBL students rated their own communication skills and critical thinking significantly higher on a questionnaire than LBL students did](pbl-rct-higher-communication-critical-thinking.md) — related
 - [In an RCT, pharmacy students taught with PBL rated their own problem-solving and self-directed learning significantly higher on a questionnaire than LBL students did](pbl-rct-higher-problem-solving-self-directed-learning.md) — related
+- [Students report higher teaching interest and satisfaction in PBL than in traditional teaching in orthopaedics education](pbl-higher-interest-satisfaction-orthopaedics.md) — possibly the same claim (merge candidate)

@@ -13,7 +13,7 @@ generated:
 # Long-Term Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 199 claims (119 show a difference, 51 mixed, 29 no difference) · 126 studies (62 causal, 31 review, 15 quant-synthesis, 9 theoretical, 7 associational, 2 qualitative), `q1`–`q4` · 48 of 126 report an effect size · 191 claims rest on one study
+> **Evidence** · 201 claims (120 show a difference, 51 mixed, 30 no difference) · 128 studies (62 causal, 32 review, 16 quant-synthesis, 9 theoretical, 7 associational, 2 qualitative), `q1`–`q4` · 49 of 128 report an effect size · 193 claims rest on one study
 
 ## Description
 Long-term memory holds information, such as words, facts, events, concepts and procedures, so that it can be retrieved and used later, over spans from hours to decades, and in principle indefinitely. Skills and knowledge get there through repeated practice and use, and stay accessible while they continue to be used. It matters for learning because what is stored there is the base for everything that follows: the [prior knowledge](prior-knowledge.md) and vocabulary that support reading and writing, and the arithmetic facts and procedures that free a learner to work on new mathematics problems. It develops through childhood and adolescence as the brain systems supporting it mature, and older learners lean more on memory-based strategies, for example in mathematics. It is measured with standardised memory batteries that ask learners to recall stories, lists or figures after a delay. It is distinct from [working memory](working-memory.md), which holds information briefly while it is being used; rehearsal and use move material from one to the other.
@@ -234,6 +234,8 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 - [TBL in clinical disciplines is associated with increased knowledge acquisition in many studies, but findings on long-term knowledge retention are contradictory](../claims/tbl-clinical-knowledge-acquisition-mixed-retention.md) [~M] — instruction changes it
 - [Technology-enhanced simulation may result in superior retention of clinical knowledge and skills compared to traditional teaching methods alone, with durable retention for months to years](../claims/simulation-improves-knowledge-retention.md) [+M] — instruction changes it
 - [The long-term impact of simulation-based learning on knowledge retention and clinical practice remains uncertain](../claims/sbl-long-term-retention-uncertain.md) [~W] — instruction changes it
+- [PBL is not superior to traditional teaching for grasping knowledge points and memory ability, but is superior for literature retrieval, expression, learning motivation, thinking and imaging reading in orthopaedics education](../claims/pbl-other-outcomes-orthopaedics.md) [-M] — instruction changes it
+- [SBME improves knowledge retention in medical students, with retention demonstrated at delayed testing in three studies](../claims/sbme-improves-knowledge-retention.md) [+W] — instruction changes it
 
 ## Measures
 - **Wechsler Memory Scale (WMS)** (Wechsler, 2010): its logical memory subtest asks for details of a story heard once, as a measure of declarative memory.

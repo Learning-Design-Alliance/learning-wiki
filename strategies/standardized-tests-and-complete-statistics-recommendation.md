@@ -44,6 +44,7 @@ Based on problems encountered while screening studies, the authors recommend tha
 - [Direct future self-regulation research toward standard methods of reporting SR outcomes to address substantial heterogeneity in outcome measures.](standard-methods-for-reporting-sr-outcomes.md)
 - [Adopt standardized reporting protocols for AR enhanced analytics studies and extend analytics into broader XR (VR/MR) contexts](standardized-reporting-protocols-ar-analytics.md)
 - [Develop standardized, unified narrative medicine curricula to improve study comparability](standardized-narrative-medicine-curricula-strategy.md)
+- [Use validated homogeneous outcome measures, preferably in a patient setting, in future FB SBT studies](validated-homogeneous-outcome-measures-strategy.md)
 
 ## Examples
 -

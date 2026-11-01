@@ -54,3 +54,5 @@ Systematic review and meta-analysis pooling 13 RCTs on mathematics outcomes usin
 - [Interventions lasting ≥24 weeks show larger effects on mathematics and overall academic achievement than shorter interventions](longer-interventions-improve-mathematics-and-overall-achievement.md) — a narrower finding that bears on this claim
 - [A significant overall improvement in academic achievement was detected after physical activity programs compared with controls](pa-interventions-improve-overall-academic-achievement.md) — a broader claim this one bears on
 - [School-based physical activity shows no significant effect on language expression achievement](school-based-physical-activity-no-effect-language-expression.md) — related
+- [In-classroom physical activity breaks significantly improve primary school children's foreign language learning](icpab-improve-foreign-language.md) — related
+- [In-classroom physical activity breaks show no significant effect on primary school children's mathematics performance](icpab-no-effect-mathematics.md) — a narrower finding that bears on this claim

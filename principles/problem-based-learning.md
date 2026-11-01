@@ -32,7 +32,7 @@ sources:
 # Problem-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 76 claims (29 for, 43 mixed, 4 against) · 59 studies (18 quant-synthesis, 11 review, 10 causal, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 12 of 59 report an effect size · 71 claims rest on one study
+> **Evidence** · 95 claims (37 for, 52 mixed, 6 against) · 65 studies (24 quant-synthesis, 11 review, 10 causal, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 16 of 65 report an effect size · 90 claims rest on one study
 
 ## Conditional relationship
 
@@ -129,6 +129,9 @@ On 2026-10-19 (wave 2) the other claims linked here were read and moved into the
 - [In one extreme case, two sixth-graders with a choice-rich, ungraded STEAM infrastructure extended a game-design challenge into a year-long self-directed project well beyond its designed scope](../claims/choice-rich-infrastructure-supports-productive-deviation-and-learning.md) [+W]
 - [Students rated real-world projects and discussions with structured or guiding questions as the most beneficial learner-to-content strategies](../claims/real-world-projects-structured-questions-top-content-strategies.md) [+W]
 - [Talladega County Schools' graduation rate rose from just above 70 percent in 2008 to 93 percent after its transition to project-based learning supported by digital technologies](../claims/talladega-graduation-rate-70-to-93-pbl-digital.md) [+W]
+- [PBL teaching yields higher knowledge scores than traditional teaching in orthopaedics education](../claims/pbl-higher-knowledge-scores-orthopaedics.md) [+W] — attached 2026-11-01 from Li Ting et al. (2024), which proposed "Adopt PBL in orthopaedics clinical teaching while planning for added study time demands and pressure"; tests this page's relationship.
+- [PBL teaching yields higher procedural skill and clinical skill scores than traditional teaching in orthopaedics education](../claims/pbl-higher-skill-scores-orthopaedics.md) [+W] — attached 2026-11-01 from Li Ting et al. (2024), which proposed "Adopt PBL in orthopaedics clinical teaching while planning for added study time demands and pressure"; tests this page's relationship.
+- [PBL students experience less learning time and higher learning pressure than traditional-teaching students in orthopaedics education](../claims/pbl-less-time-higher-pressure-orthopaedics.md) [~W] — attached 2026-11-01 from Li Ting et al. (2024), which proposed "Adopt PBL in orthopaedics clinical teaching while planning for added study time demands and pressure".
 
 ## Objective and learner-valued goal
 
@@ -174,6 +177,22 @@ At the curriculum level, the expectation of a small and variable average should 
 - [More PBL than LBL students report satisfaction with improved self-study ability (RR = 1.44)](../claims/pbl-satisfaction-self-study-ability.md) [+W]
 - [For practical skills examination scores in TACE teaching, PBL combined with TBL ranked best, followed by PBL alone](../claims/pbl-tbl-best-practical-skills-scores-tace.md) [~W]
 - [More PBL than LBL students report satisfaction with improved thinking ability (RR = 1.42)](../claims/pbl-satisfaction-thinking-ability.md) [+W]
+- [Pooled PBL-vs-LBL effects show strong heterogeneity (I2 = 89.7%) attributed to different teachers, similar or same examination papers, and student groups over 100](../claims/heterogeneity-sources-pbl-cell-biology-meta-analysis.md) [~W]
+- [In the clinical medicine subgroup, PBL students' total examination scores were significantly higher than controls (Hedges' g = 2.086)](../claims/pbl-clinical-medicine-subgroup-scores.md) [~W]
+- [PBL improves comprehensive question scores compared with LBL (pooled SMD 0.53)](../claims/pbl-comprehensive-question-scores-smd-053.md) [+W]
+- [After removing five outlying studies identified by Galbraith plot, the PBL advantage persisted with low heterogeneity (Hedges' g = 0.592, I2 = 26.807%)](../claims/pbl-advantage-persists-after-galbraith-removal.md) [+M]
+- [In the five-year school system subgroup, PBL students' total examination scores were significantly higher than controls (Hedges' g = 1.571)](../claims/pbl-five-year-system-subgroup-scores.md) [~W]
+- [Students report higher teaching interest and satisfaction in PBL than in traditional teaching in orthopaedics education](../claims/pbl-higher-interest-satisfaction-orthopaedics.md) [+W]
+- [PBL significantly increases theoretical knowledge scores compared with traditional teaching in Chinese gynecology and obstetrics education (SMD 3.17)](../claims/pbl-increases-theoretical-knowledge-scores-china-obgyn.md) [~W]
+- [PBL shows no statistically significant advantage over conventional learning for critical thinking/knowledge in first-year medical students (p = 0.29)](../claims/pbl-no-significant-critical-thinking-first-year.md) [-W]
+- [PBL-based teaching shows no advantage over LBL on operational skills in diagnostic imaging](../claims/pbl-no-advantage-diagnostic-imaging-skills.md) [~W]
+- [PBL is not statistically superior to conventional teaching for problem-solving in first-year students (p = 0.47), with the pooled effect tending toward conventional teaching](../claims/pbl-not-superior-problem-solving.md) [+W]
+- [PBL shows no statistically significant advantage for self-directed learning in first-year students (p = 0.34), with the pooled fixed-effect estimate inclined toward the conventional method](../claims/pbl-no-advantage-self-directed-learning.md) [-W]
+- [No single study affected the statistically significant PBL advantage in sensitivity analysis](../claims/pbl-advantage-robust-to-single-study-removal.md) [~W]
+- [PBL significantly increases clinical practice scores compared with traditional teaching in Chinese gynecology and obstetrics education (SMD 2.17)](../claims/pbl-increases-clinical-practice-scores-china-obgyn.md) [+W]
+- [Subgroup analyses by intervention duration and region reduce heterogeneity only for interventions longer than six months and Western countries, without significant PBL differences in any subgroup](../claims/pbl-subgroup-duration-region-heterogeneity.md) [~W]
+- [PBL teaching yields higher total scores than traditional teaching in orthopaedics education](../claims/pbl-higher-total-scores-orthopaedics.md) [~W]
+- [Students were generally satisfied with the PBL approach across the included studies](../claims/pbl-medical-psychology-student-satisfaction.md) [+W]
 
 ## Related Principles
 - [Inquiry-based Learning](inquiry-based-learning.md) — PBL is one inquiry form centered on authentic problems.

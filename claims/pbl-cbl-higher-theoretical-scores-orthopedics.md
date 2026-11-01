@@ -53,3 +53,7 @@ Meta-analysis of 14 studies (920 students) comparing PBL-CBL with LBL in orthope
 - [Pooled PBL-CBL versus LBL estimates show high heterogeneity and publication bias but remain robust in sensitivity and trim-and-fill analyses](pbl-cbl-meta-heterogeneity-publication-bias.md) — related
 - [PBL-CBL improves physical examination and case analysis performance relative to LBL](pbl-cbl-physical-exam-case-analysis.md) — related
 - [PBL produces higher examination scores than LBL in undergraduate pharmacology education (SMD = 2.03)](pbl-higher-examination-scores-pharmacology.md) — related
+- [CBL significantly increases skill scores compared with LBL (SMD=1.22)](cbl-increases-skill-scores-chinese-dental.md) — related
+- [PBL produces better clinical competence than LBL in surgical education (SMD = 0.81)](pbl-better-clinical-competence-than-lbl-surgery.md) — related
+- [PBL improves comprehensive question scores compared with LBL (pooled SMD 0.53)](pbl-comprehensive-question-scores-smd-053.md) — related
+- [PBL methods produce significantly better knowledge scores than traditional teaching among dental students (pooled MD 4.15)](pbl-improves-knowledge-scores.md) — related

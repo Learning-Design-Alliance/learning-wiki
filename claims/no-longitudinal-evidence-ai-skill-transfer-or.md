@@ -55,3 +55,5 @@ The review identifies a critical evidence gap: almost none of the included studi
 - [Evidence for transfer of simulation training to operating-room outcomes was sparse in neuro-oncological simulation research](sparse-transfer-evidence-simulation-to-or.md) — related
 - [Most VR assessments occur at Miller's performance level, with the action level absent](vr-assessments-mostly-performance-level-miller.md) — related
 - [Significant patient-safety improvements were found in 80% of comparative virtual reality simulation studies for cataract surgery training](vrs-comparative-studies-safety-improvements.md) — related
+- [Only seven studies of vascular surgery simulation achieved a level of effectiveness greater than 3/5, with the majority scoring LoE 1-2/5](few-simulators-loe-above-3.md) — related
+- [VR-trained and bench-top-trained subjects showed no objective performance difference but a significant GRS difference on a final VR simulator assessment](vr-benchtop-no-objective-difference-significant-grs-difference.md) — related

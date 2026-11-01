@@ -55,3 +55,8 @@ Network meta-analysis of 58 RCTs with 5,427 students reporting theoretical test 
 - [PBL produces higher examination scores than LBL in undergraduate pharmacology education (SMD = 2.03)](pbl-higher-examination-scores-pharmacology.md) — a narrower finding that bears on this claim
 - [PBL is the highest-ranked strategy for improving medical students' experimental or practical test scores, significantly outperforming LBL](pbl-highest-ranked-practical-test-scores-nma.md) — related
 - [Simulation-based learning improves theoretical knowledge scores in endocrinology education compared with non-simulation-based learning](sbl-improves-endocrinology-theoretical-knowledge.md) — related
+- [CBL significantly increases knowledge scores compared with LBL in Chinese dental education (SMD=1.58)](cbl-increases-knowledge-scores-chinese-dental.md) — related
+- [CBL improved exam scores in both basic theory and applied psychology course subgroups, but course type did not explain the heterogeneity](cbl-subgroup-course-types-heterogeneity.md) — a narrower finding that bears on this claim
+- [CBL effects differ between theoretical and practical courses for knowledge, skill and comprehensive ability scores](cbl-subgroup-theoretical-versus-practical-courses.md) — related
+- [PBL improves total cell biology examination scores compared with LBL in Chinese medical education (pooled SMD 0.89)](pbl-beats-lbl-total-exam-scores-cell-biology.md) — a narrower finding that bears on this claim
+- [PBL and LBL show no significant difference in theoretical knowledge in surgical education](pbl-lbl-no-difference-theoretical-knowledge-surgery.md) — related

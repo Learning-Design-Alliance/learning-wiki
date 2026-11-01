@@ -72,3 +72,4 @@ Meta-regression on immediate post-tests: percentage of boys coefficient b = 0.02
 - [Effects on affirming motivations were largest for teacher reports, but this rests on a single study](teacher-report-measurement-moderator.md) — related
 - [Longer total intervention time is associated with greater learning gains, especially for low achievers](longer-time-on-task-greater-gains.md) — related
 - [Publication year and instructional duration do not significantly predict variation in small-group learning effect sizes in metaregression](metaregression-year-duration-nonsignificant-predictors.md) — reports the opposite
+- [A large survey of medical and nursing students reported equal or higher motivation for exclusive e-learning than for classroom courses](covid-elearning-motivation-equal-or-higher.md) — related

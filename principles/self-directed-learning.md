@@ -18,7 +18,7 @@ sources:
 # Self-Directed Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 41 claims (14 for, 24 mixed, 3 against) · 46 studies (16 review, 9 theoretical, 7 causal, 7 quant-synthesis, 4 associational, 2 qualitative, 1 design), `q1`–`q4` · 7 of 46 report an effect size · 32 claims rest on one study
+> **Evidence** · 43 claims (15 for, 25 mixed, 3 against) · 47 studies (16 review, 9 theoretical, 8 quant-synthesis, 7 causal, 4 associational, 2 qualitative, 1 design), `q1`–`q4` · 7 of 47 report an effect size · 34 claims rest on one study
 
 ## Conditional relationship
 
@@ -149,6 +149,8 @@ Completion, achievement at the end of the course, self-reported autonomy or moti
 - [PBL and active learning activities promote SDL while lectures and tests deter it, though evidence is inconsistent](../claims/pbl-promotes-sdl-lectures-deter.md) [~W]
 - [Clinical placement experiences, including early placement and patient interactions, enhance SDL](../claims/clinical-placement-enhances-sdl.md) [+W]
 - [Theoretical SDL shows a significant pooled advantage over TDL, while practical SDL does not reach statistical significance](../claims/sdl-theoretical-significant-practical-not.md) [~W]
+- [Internally-developed perception surveys are the most common SDL assessment method in undergraduate health professions education, followed by internally-developed knowledge exams](../claims/perception-surveys-most-common-sdl-assessment.md) [~W]
+- [Most SDL activity studies report positive or mixed/neutral outcomes, with negative outcomes rare](../claims/sdl-outcomes-mostly-positive-mixed.md) [+W]
 
 ## Related Principles
 - [Self-Regulated Learning](self-regulated-learning.md) — provides the mechanism-level account of how learners plan, monitor, and revise

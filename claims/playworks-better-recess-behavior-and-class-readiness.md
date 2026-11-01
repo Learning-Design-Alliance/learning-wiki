@@ -57,3 +57,5 @@ In the cohort 1 randomized experiment, treatment teachers reported significantly
 - [Teachers in Playworks schools were more likely to report that students enjoyed adult-organized recess activities](playworks-students-enjoyed-adult-organized-recess.md) — related
 - [Playworks improved teachers' perceptions of students' safety and feeling included during recess in a randomized experiment](playworks-improved-teacher-perceived-recess-safety-inclusion.md) — related
 - [Students in Playworks schools reported better behavior and attention in class after sports, games, and play](playworks-students-reported-better-behavior-attention-after-play.md) — related
+- [Having some recess is associated with better teacher-reported classroom behavior than no or minimal recess](recess-associated-better-teacher-reported-behavior.md) — related
+- [Recess quality is associated with adaptive classroom behavior, resilience, and lower externalizing problems](recess-quality-associated-behavior-resilience.md) — related

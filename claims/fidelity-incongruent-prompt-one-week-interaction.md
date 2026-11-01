@@ -70,3 +70,4 @@ Follow-up analyses in the fMRI experiment showed that "After incongruent mental 
 - [Congruent mental reinstatement of the learning context enhanced short-delay recall transfer in a non-VR setting, regardless of learning-context group](congruent-mental-reinstatement-improved-transfer.md) — related
 - [High representational fidelity of neural context reinstatement during covert retrieval predicted better verbal recall at both short and one-week delays](fmi-reinstatement-fidelity-predicts-recall.md) — related
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — a broader claim this one bears on
+- [The review reports, citing prior studies, that high-fidelity simulators show no important long-term advantage over low-fidelity simulators](high-fidelity-no-long-term-advantage-over-low-fidelity.md) — related

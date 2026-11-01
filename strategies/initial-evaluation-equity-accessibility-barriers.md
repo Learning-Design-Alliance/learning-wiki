@@ -39,6 +39,7 @@ In the initial evaluation stage, the framework directs decision makers to check 
 ## Related Strategies
 
 - [During initial evaluation, scrutinize what data is collected, how it is stored and shared, and whether it is extraneous](initial-evaluation-data-privacy-scrutiny.md)
+- [Integrate e-learning into health professions training while ensuring equitable technology access and developing students' computer skills](integrate-elearning-equitable-access-computer-skills.md)
 
 ## Examples
 -

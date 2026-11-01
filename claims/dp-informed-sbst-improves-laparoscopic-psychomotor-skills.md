@@ -54,3 +54,4 @@ Systematic review of ten studies (five RCTs, five observational) on DP-informed 
 - [DP adherence varied widely across studies, with the most structured programs yielding the greatest benefits](dp-adherence-variability-influences-outcomes.md) — related
 - [Haptic simulator trials more frequently show superior accuracy outcomes when force-feedback and structured guidance are included](haptic-simulator-force-feedback-accuracy-gains.md) — related
 - [VR tools enhance acquisition and retention of clinical and procedural skills but face barriers including cybersickness, limited tactile feedback and variable long-term skill transfer](vr-enhances-practical-skill-acquisition-with-barriers.md) — related
+- [Simulation-based medical education improves knowledge-based performance of undergraduate medical students as an adjunct to existing curricula](sbme-improves-knowledge-performance-undergraduates.md) — related

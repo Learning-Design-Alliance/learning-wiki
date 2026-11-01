@@ -56,3 +56,4 @@ RVE meta-regression Model 2 (Table 6) with dosage moderators; log2 duration coef
 - [The authors judge insufficient instructional intensity (dosage) as the primary factor behind the null result of learning strategies instruction in adult education](insufficient-dosage-primary-factor-null-strategy-outcome.md) — related
 - [Most Oakland secondary students receiving LLI fell short of the recommended minimum number of sessions](lli-students-fell-short-recommended-sessions.md) — related
 - [App quality ratings are not significantly associated with mean effect sizes controlling for assessment type](app-quality-not-associated-with-effects.md) — related
+- [Intervention creativity ratings relate to practice frequency, session duration and teacher qualification, but not intervention duration or intensity](intervention-characteristics-associated-with-creativity-rating.md) — related

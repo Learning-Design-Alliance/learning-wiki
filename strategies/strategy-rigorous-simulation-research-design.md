@@ -54,6 +54,8 @@ The review recommends that future research strengthen study designs through adeq
 - [Future psychiatry education technology studies should use active comparators, standardized assessment tools, and long-term follow-up](psychiatry-ed-tech-future-research-strategy.md)
 - [Employ experimental and longitudinal designs with standardised measurement tools in future pressure injury prevention research.](experimental-longitudinal-pi-research-designs.md)
 - [Develop standardised validated content-assessment tools and theory-based guidelines for TST video creators](standardised-tst-video-assessment-tool-and-creator-guidelines.md)
+- [Develop comprehensive, standardized e-learning programs for nurses in hospitals and clinics, with standardized content and assessment tools](standardized-elearning-programs-pressure-injury-nurse-training.md)
+- [Employ standardized, validated UX questionnaires and commercial HMDs to strengthen and scale XR education research](standardized-ux-surveys-and-hmds-for-xr-research.md)
 
 ## Examples
 -

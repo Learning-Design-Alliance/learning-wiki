@@ -39,6 +39,7 @@ Because school type, rather than test condition, determined how effective the VR
 ## Related Strategies
 
 - [Design future AI curricula to fit the school day, centering student and teacher needs for K-12 in-person and virtual learning](design-recommendations-future-k12-ai-curricula.md)
+- [Meticulously design virtual learning environments to foster critical thinking while managing cognitive load](design-vr-environments-for-critical-thinking.md)
 
 ## Examples
 -

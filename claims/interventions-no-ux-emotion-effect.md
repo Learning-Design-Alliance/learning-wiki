@@ -48,3 +48,4 @@ OLS regressions in the between-subjects experiment (N = 997) showed no significa
 - [Anti-cheating interventions can cause distraction and evoke negative emotions during online test-taking](interventions-cause-distraction-negative-emotions.md) — related
 - [Anti-cheating interventions do not significantly affect test-taking self-efficacy](interventions-no-self-efficacy-effect.md) — related
 - [UEQ-S user-experience ratings were positive across tasks except one hedonic item on Task 1, with pragmatic qualities rated higher than hedonic](nev-ueq-positive-except-task1-hedonic.md) — a broader claim this one bears on
+- [Perceived usefulness and realism are the most common UX dimensions assessed, with less experienced users rating usefulness more positively](ux-usefulness-realism-dominant-dimensions.md) — related

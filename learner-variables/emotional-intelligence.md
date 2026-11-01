@@ -13,7 +13,7 @@ generated:
 # Emotional Intelligence
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 68 claims (45 show a difference, 15 mixed, 8 no difference) · 46 studies (14 review, 12 causal, 9 quant-synthesis, 9 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 12 of 46 report an effect size · 67 claims rest on one study
+> **Evidence** · 72 claims (46 show a difference, 17 mixed, 9 no difference) · 48 studies (15 review, 12 causal, 10 quant-synthesis, 9 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 12 of 48 report an effect size · 71 claims rest on one study
 
 ## Description
 Emotional intelligence is the ability to perceive emotions accurately, use them to support thinking, understand them and manage them. It is measured either as an ability (performance tests) or as a self-reported trait. It correlates with academic achievement, more strongly in the humanities than in STEM subjects, and overlaps with [affect regulation](affect-regulation.md) and with social-emotional skills that programmes aim to build.
@@ -104,6 +104,10 @@ Emotional intelligence is the ability to perceive emotions accurately, use them 
 - [Emotional intelligence is positively correlated with student achievement (pooled r = 0.50)](../claims/emotional-intelligence-correlated-student-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [Non-technical skill outcomes of TBL are mixed, with positive findings for communication, decision-making, self-study and emotional intelligence](../claims/tbl-non-technical-skills-mixed.md) [~M] — instruction changes it
 - [TBL is associated with improved teamwork measures, including higher team emotional intelligence after clerkship and improved perceived value of team work](../claims/tbl-clinical-teamwork-emotional-intelligence-gains.md) [+M] — instruction changes it
+- [Clinical instructors' ratings of students' emotional intelligence correlate with clinical performance while student self-ratings do not](../claims/ci-rated-emotional-intelligence-correlates-clinical-performance.md) [~M] — learners who differ on it differ in outcomes
+- [Emotional intelligence is not a strong predictor of clinical performance in rehabilitation science students](../claims/emotional-intelligence-not-strong-predictor-clinical-performance.md) [-M] — learners who differ on it differ in outcomes
+- [Emotional intelligence is significantly but weakly positively correlated with academic success in undergraduate MD programs (r = .13)](../claims/ei-weakly-predicts-md-academic-success.md) [+M] — learners who differ on it differ in outcomes
+- [The EI–academic success effect size varies significantly by EI subscale, with perceiving emotions highest (r = .20)](../claims/ei-subscale-moderates-md-academic-success.md) [~M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

@@ -37,7 +37,7 @@ sources:
 # Case-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 53 claims (25 for, 27 mixed, 1 against) · 40 studies (13 causal, 11 quant-synthesis, 7 review, 3 associational, 3 design, 2 qualitative, 1 theoretical), `q2`–`q4` · 11 of 40 report an effect size · 48 claims rest on one study
+> **Evidence** · 58 claims (27 for, 30 mixed, 1 against) · 43 studies (13 causal, 13 quant-synthesis, 8 review, 3 associational, 3 design, 2 qualitative, 1 theoretical), `q2`–`q4` · 12 of 43 report an effect size · 53 claims rest on one study
 
 ## Description and scope
 
@@ -167,6 +167,11 @@ This pattern is scoped to lessons in which cases are analysed and compared and t
 - [Subgroup results: CBL ranks best for clinical curricula and across educational backgrounds, while PBL ranks best for basic courses, developing countries, and operational skills](../claims/nma-subgroup-cbl-clinical-pbl-basic.md) [~W]
 - [PBL-CBL improves physical examination and case analysis performance relative to LBL](../claims/pbl-cbl-physical-exam-case-analysis.md) [+W]
 - [AI-powered PBL/CBL shows favourable but heterogeneous effects on clinical reasoning capability that could not be statistically pooled](../claims/ai-pbl-cbl-clinical-reasoning.md) [~W]
+- [CBL improves knowledge scores for senior and 5th-year students but not significantly for juniors](../claims/cbl-knowledge-scores-by-training-level.md) [~W]
+- [CBL effects differ between theoretical and practical courses for knowledge, skill and comprehensive ability scores](../claims/cbl-subgroup-theoretical-versus-practical-courses.md) [~W]
+- [CBL improved exam scores in both basic theory and applied psychology course subgroups, but course type did not explain the heterogeneity](../claims/cbl-subgroup-course-types-heterogeneity.md) [+W]
+- [Sensitivity and publication-bias analyses indicate the pooled CBL effect is stable despite slight publication bias](../claims/cbl-meta-analysis-stability-publication-bias.md) [~W]
+- [ECHO case-based sessions led most responding physicians to report new learning and many case presenters to change patient care plans](../claims/echo-case-learning-care-plan-changes.md) [+W]
 
 ## Related Patterns
 - [Problem-Based Learning (PBL)](problem-based-learning.md)

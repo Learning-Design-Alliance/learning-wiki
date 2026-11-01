@@ -47,3 +47,4 @@ Subgroup analysis of chronic exercise effects on working memory by exercise sess
 - [Acute exercise significantly improves working memory in children and adolescents with a moderate effect size (SMD = −0.72)](acute-exercise-improves-working-memory-children.md)
 - [Chronic exercise significantly improves working memory, inhibitory control, and cognitive flexibility in children and adolescents](chronic-exercise-improves-executive-function-children.md) — a broader claim this one bears on
 - [Age moderates exercise effects in opposite directions: adolescents benefit more for inhibitory control, younger children more for working memory](age-moderates-exercise-effects-opposite-directions.md) — related
+- [VBC session length of over 20 minutes is likely optimal, with shorter sessions more often failing to show significant benefit](vbc-session-length-over-20-minutes.md) — reports the opposite

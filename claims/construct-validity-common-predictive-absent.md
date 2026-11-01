@@ -52,3 +52,4 @@ Systematic review synthesis of validity evidence by tool category. For APMs the 
 - [Only two of the included studies demonstrated predictive validity of their metrics for live robotic hysterectomy performance.](limited-predictive-validity-two-studies.md) — reports the opposite
 - [Manual assessment tools have the largest body of validity evidence in laparoscopic cholecystectomy but show variable reliability and no links to patient outcomes](manual-tools-largest-evidence-base-no-outcomes.md) — related
 - [Only two of 37 objective assessment tools in minimally invasive gynecological surgery showed substantial evidence of validity](only-two-migs-tools-substantial-validity.md) — related
+- [Validity-evidence patterns in orthopaedic surgery mirror those in general surgery and cardiothoracic reviews, with strong content evidence and weak response-process and consequences evidence](orthopaedic-patterns-mirror-general-cvt-surgery-reviews.md) — related

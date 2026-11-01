@@ -61,3 +61,6 @@ Bayesian network meta-analysis (BUGSnet in R 4.3.2, random-effects model, mean d
 - [In the RCT, PBL students obtained significantly better final exam grades than LBL students, but the meta-analysis found no significant final-exam difference](pbl-final-exam-rct-vs-meta-analysis-discrepancy.md) — reports the opposite
 - [PBL significantly improves clinical skill scores compared with lecture-based learning in medical education](pbl-improves-clinical-skill-scores-versus-lbl.md) — related
 - [TBL outperforms lecture-based learning on short-term cognitive outcomes such as theoretical exam performance](tbl-superior-lecture-short-term-cognitive.md) — a narrower finding that bears on this claim
+- [Flipped learning, PBL, group discussion, and TBL were the most frequently evaluated active learning strategies, each showing superiority to lectures in direct-measure studies](flipped-pbl-discussion-tbl-most-evaluated-dental.md) — a broader claim this one bears on
+- [PBL-based teaching yields higher knowledge scores than LBL in Chinese standardized residency training](pbl-higher-knowledge-scores-chinese-srt.md) — related
+- [PBL-based teaching yields higher total scores than LBL in Chinese standardized residency training](pbl-higher-total-scores-chinese-srt.md) — related

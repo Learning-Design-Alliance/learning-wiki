@@ -56,3 +56,4 @@ Homogeneity analysis of the 38 effect sizes in the meta-analysis. The Q test was
 - Effect sizes across the 38 comparisons are highly heterogeneous, requiring a random-effects model — related
 - [Effect sizes of creative drama studies are heterogeneous (Q = 60.78, df = 39, p < .05), motivating moderator analyses](creative-drama-effect-sizes-heterogeneous.md) — related
 - [Effect sizes do not differ significantly between selected-student and whole-class applications, with class-based applications slightly higher (g = 1.253 vs 1.245)](no-significant-difference-by-application-type.md) — related
+- [Effect sizes across intervention studies are highly heterogeneous (I² = 85 for learning performance, I² = 69 for academic emotion)](academic-emotion-effect-heterogeneity-high.md) — related

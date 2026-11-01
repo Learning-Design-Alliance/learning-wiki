@@ -51,6 +51,7 @@ The review recommends strengthening diabetes training for frontline nurses, embe
 ## Related Strategies
 
 - [Standardize core competencies and expand programs beyond high-income regions to strengthen academic global surgery](ags-standardize-competencies-expand-beyond-hics.md)
+- [Incorporate palliative care into nursing curricula and provide regular palliative care training and continuing education for nurses](regular-palliative-care-training-and-curriculum-incorporation.md)
 
 ## Examples
 -

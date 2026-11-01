@@ -30,7 +30,7 @@ sources:
 # Video Replay Analysis
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 28 claims (17 for, 11 mixed) · 30 studies (10 qualitative, 5 quant-synthesis, 5 review, 3 causal, 3 theoretical, 2 associational, 2 design), `q1`–`q4` · 4 of 30 report an effect size · 24 claims rest on one study
+> **Evidence** · 30 claims (19 for, 11 mixed) · 32 studies (10 qualitative, 6 quant-synthesis, 6 review, 3 causal, 3 theoretical, 2 associational, 2 design), `q1`–`q4` · 5 of 32 report an effect size · 26 claims rest on one study
 
 ## Conditional relationship
 
@@ -155,6 +155,8 @@ Noticing in a recording, explaining it, the next performance and lasting change 
 - [All interviewed facilitators preferred video-assisted debriefing over verbal debriefing because video allowed precise, objective feedback whose credibility was not restricted by facilitator hierarchy](../claims/facilitators-prefer-vad-objective-feedback.md) [+W]
 - [A five-step structured video-based reflection cycle led teachers to produce substantially more new and more specific solutions than a vicarious-reflection control condition](../claims/ceble-structured-reflection-more-specific-solutions.md) [+W]
 - [Residents report positive perceptions of being recorded and of video review, with discomfort typically fading](../claims/resident-perceptions-video-recording-positive.md) [~W]
+- [Video-based coaching produces significantly larger improvement from baseline to final assessment than control feedback](../claims/vbc-larger-change-scores-baseline.md) [+W]
+- [Incorporating video review feedback into leadership training had a positive effect on emergency medicine residents' team-leader performance in a pilot study](../claims/video-review-feedback-resident-leadership-pilot.md) [+W]
 
 ## Related Principles
 - [Purposeful Reflection](reflection.md) — replay provides concrete evidence for reflection instead of relying on memory alone.

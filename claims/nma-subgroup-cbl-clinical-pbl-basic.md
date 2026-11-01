@@ -49,3 +49,6 @@ Subgroup analyses by region, curricula, and educational background within the NM
 - [CBL shows the largest effect on theoretical exam scores versus LBL (MD = 13.12) and ranks first among the seven methods](cbl-largest-theoretical-exam-effect-neurology-nma.md) — related
 - [CBL is the highest-ranked strategy for enhancing medical students' theoretical test scores, with CBL, PBL, SBL and FC each significantly outperforming LBL](cbl-highest-ranked-theoretical-test-scores-nma.md) — related
 - [For practical skills, EBM shows the largest effect versus LBL (MD = 13.34) and the ranking is CBL > EBM > PBL > TBL > FCM > CP > LBL](practical-skills-ranking-ebm-cbl-neurology-nma.md) — reports the opposite
+- [CBL improved exam scores in both basic theory and applied psychology course subgroups, but course type did not explain the heterogeneity](cbl-subgroup-course-types-heterogeneity.md) — related
+- [CBL effects differ between theoretical and practical courses for knowledge, skill and comprehensive ability scores](cbl-subgroup-theoretical-versus-practical-courses.md) — related
+- [Subgroup analyses by intervention duration and region reduce heterogeneity only for interventions longer than six months and Western countries, without significant PBL differences in any subgroup](pbl-subgroup-duration-region-heterogeneity.md) — related

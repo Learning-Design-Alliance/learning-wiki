@@ -46,6 +46,7 @@ The article recommends a set of good practices for introducing modern board-game
 ## Related Strategies
 
 - [Games + Structured Activity](games-structured-activity.md)
+- [Support CBL implementation with instructor training, gradual student introduction, and monitoring of student stress and feedback](cbl-implementation-support-strategy.md)
 
 ## Examples
 -

@@ -91,3 +91,4 @@ Longitudinal multilevel analysis (HLM) of weekly self-reports from 194 universit
 - [Dual Empowerment positively predicts affective, motivational, and cognitive mediating processes](dual-empowerment-predicts-psychological-mediators.md) — related
 - [Positive motivational beliefs are associated with high-level learning strategies, consistent with Pintrich and García's self-regulated learning proposal](motivation-cognition-patterns-srl.md) — related
 - [Intrinsic motivation, resilience, emotional intelligence, and perceived social support show mostly positive associations with academic performance in medical students](protective-psychosocial-factors-positive-association-medical-students.md) — related
+- [Negative activating academic emotions (confusion, anxiety, anger) can positively affect learning in some observational and intervention contexts](negative-academic-emotions-sometimes-improve-learning.md) — reports the opposite

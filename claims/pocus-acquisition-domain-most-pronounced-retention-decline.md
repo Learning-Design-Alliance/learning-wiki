@@ -48,3 +48,4 @@ Systematic review synthesis of 31 studies (1638 participants) using median perce
 ## Related Claims
 - [Hands-on practice integration is associated with better retention in Indication and Medical decision-making domains, with a less pronounced difference in Interpretation](hands-on-practice-improves-indication-and-decision-making-retention.md) — related
 - [Short-course PoCUS programs (≤4 h) show greater competency decline (median −11.8%) than long courses (>4 h; median −2.6%)](short-courses-greater-pocus-decline-than-long-courses.md) — related
+- [CPR knowledge and technical skills remained at a sufficient level at 6-month and 1-year follow-ups, with refresher courses recommended](cpr-knowledge-skills-retention-follow-up.md) — related

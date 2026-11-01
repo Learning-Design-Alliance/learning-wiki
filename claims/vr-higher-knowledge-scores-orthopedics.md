@@ -50,3 +50,4 @@ Meta-analysis pooling 16 RCTs (n=794) comparing VR teaching with traditional tea
 - [VR-based teaching improves clinical understanding and clinical thinking ability more than traditional teaching](vr-clinical-understanding-thinking.md) — related
 - [VR-based teaching yields significantly higher operative design scores than traditional teaching](vr-higher-operative-design-scores.md) — related
 - [VR teaching raises teaching interest and teaching satisfaction relative to traditional approaches](vr-teaching-interest-satisfaction.md) — related
+- [PBL teaching yields higher knowledge scores than traditional teaching in orthopaedics education](pbl-higher-knowledge-scores-orthopaedics.md) — related

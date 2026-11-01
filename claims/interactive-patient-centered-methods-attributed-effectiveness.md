@@ -50,3 +50,4 @@ Authors' interpretation in the discussion, not a tested result: the review sugge
 - [Simulation complemented by other techniques improves patient safety competency more than simulation alone, but added classroom teaching did not improve teamwork attitudes](blended-simulation-versus-simulation-alone-mixed.md) — related
 - [Virtual patients show larger advantages over passive traditional learning (lectures, reading) than over active learning](vp-passive-versus-active-comparison.md) — related
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — related
+- [Effective experiential learning interventions combine enjoyable practical activities with behaviour change techniques, theory, and short intense delivery](effective-experiential-learning-intervention-characteristics.md) — related

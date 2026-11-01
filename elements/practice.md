@@ -13,7 +13,7 @@ generated:
 # Practice
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 46 claims (28 for, 13 mixed, 5 against) · 58 studies (27 causal, 12 quant-synthesis, 10 review, 5 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 12 of 58 report an effect size · 33 claims rest on one study
+> **Evidence** · 47 claims (29 for, 13 mixed, 5 against) · 59 studies (27 causal, 12 quant-synthesis, 11 review, 5 theoretical, 3 associational, 1 qualitative), `q1`–`q4` · 12 of 59 report an effect size · 34 claims rest on one study
 
 ## Description
 Practice asks learners to actively apply new knowledge or skills through structured activities rather than passively receiving information. It converts exposure into fluency and retention by requiring learners to generate responses, solve problems, or perform procedures under conditions that gradually approximate the target performance.
@@ -100,6 +100,7 @@ Practice is one of the most consistently supported instructional elements: activ
 - [Delaying the problem-skipping option by 0, 3, 6, or 9 seconds produced no average treatment effects on learning outcomes after 14 weeks.](../claims/problem-skipping-delay-no-average-treatment-effect.md) [~W]
 - [Worked examples combined with practice writing improved clinical note checklist scores more than worked examples alone](../claims/worked-examples-plus-practice-improve-note-scores.md) [+W]
 - [Helping Babies Breathe simulation training was associated with reduced neonatal mortality in LMIC facilities, but skills decayed within 4–6 months without maintenance](../claims/hbb-simulation-reduced-mortality-skill-decay.md) [+W]
+- [Four weeks of minimally invasive mitral valve simulation training reduced task completion time and raised skills scores for both students and residents](../claims/jebran-mimv-simulator-time-and-skills-gains.md) [+W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

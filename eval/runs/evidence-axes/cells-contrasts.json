@@ -55094,5 +55094,757 @@
  "test-format\topen-ended questions\tmultiple-choice questions": {
   "label": "open-ended vs multiple-choice",
   "treatment_is_a": true
+ },
+ "active-learning\t12-week online ECHO sessions with interactive case presentations\tnot stated": {
+  "label": "interactive case presentations vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\tExperiential learning physical-activity interventions\tControl conditions": {
+  "label": "experiential learning vs control",
+  "treatment_is_a": true
+ },
+ "active-learning\tPBL or PBL plus CBL\tlecture-based learning": {
+  "label": "problem-based learning vs lecture-based learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tPBL or PBL+CBL\tLBL": {
+  "label": "problem-based learning vs lecture-based learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tPBL or PBL+CBL\tlecture-based learning": {
+  "label": "problem-based learning vs lecture-based learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tPBL teaching\ttraditional teaching": {
+  "label": "problem-based learning vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tPBL-based strategies\tlecture-based learning": {
+  "label": "problem-based learning vs lecture-based learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tPBL-type active-learning interventions\ttraditional teaching methods": {
+  "label": "problem-based learning vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tPBL-type learning methods\ttraditional teaching methods": {
+  "label": "problem-based learning vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tProject ECHO OUD training\tpre-participation preparedness": {
+  "label": "Project ECHO training vs preparedness or no ECHO",
+  "treatment_is_a": true
+ },
+ "active-learning\tProject ECHO case discussions\tpre-participation or no ECHO comparison": {
+  "label": "Project ECHO case discussions vs preparedness or no ECHO",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive learning strategies\ttraditional lectures": {
+  "label": "active learning vs traditional lectures",
+  "treatment_is_a": true
+ },
+ "active-learning\tcase-based learning\ttraditional lecture-based teaching": {
+  "label": "case-based learning vs traditional lecture-based teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tcase-based learning (CBL)\ttraditional lecture-based learning (LBL)": {
+  "label": "case-based learning vs traditional lecture-based teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom\ttraditional lecture-based approach": {
+  "label": "flipped classroom vs traditional lecture-based teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom incorporating patient case discussion\ttraditional lecture-based approach": {
+  "label": "flipped classroom vs traditional lecture-based teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped learning\ttraditional lectures": {
+  "label": "flipped classroom vs traditional lectures",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup discussion\ttraditional lectures": {
+  "label": "group discussion vs traditional lectures",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive case presentations with content experts\tnot stated": {
+  "label": "interactive case presentations vs no stated comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem-based learning\tconventional learning method": {
+  "label": "problem-based learning vs conventional learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem-based learning\tconventional learning methods": {
+  "label": "problem-based learning vs conventional learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem-based learning\ttraditional lecture-based teaching": {
+  "label": "problem-based learning vs traditional lecture-based teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem-based learning (PBL)\ttraditional lecture-based learning": {
+  "label": "problem-based learning vs traditional lecture-based learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem-based learning (PBL)\ttraditional lecture-based teaching": {
+  "label": "problem-based learning vs traditional lecture-based teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem-based learning (PBL)\ttraditional teaching": {
+  "label": "problem-based learning vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem-based learning (PBL) teaching\ttraditional teaching": {
+  "label": "problem-based learning vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem-based learning methods\ttraditional teaching methods": {
+  "label": "problem-based learning vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem-based learning teaching\ttraditional teaching": {
+  "label": "problem-based learning vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tteam-based learning\ttraditional lectures": {
+  "label": "team-based learning vs traditional lectures",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\teducational programs for nurses\tusual practice, control group, or pre-test": {
+  "label": "educational program vs usual practice/no program",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tinstructor-led CPR training\tno training": {
+  "label": "instructor-led training vs no training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tschool-based BLS or CPR training\tstandard training or no training": {
+  "label": "school-based CPR/BLS training vs standard training/no training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tschool-based CPR or BLS training\tstandard or no training": {
+  "label": "school-based CPR/BLS training vs standard training/no training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tschool-based CPR or BLS training\tstandard training or no training": {
+  "label": "school-based CPR/BLS training vs standard training/no training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tschool-based CPR or BLS training\tstandard training, self-training, or no training": {
+  "label": "school-based CPR/BLS training vs standard training/self-training/no training",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tvideo review feedback before a second resuscitation\tself-reflection alone": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tcombined objective metrics and subjective assessment scales\tsingle assessment-tool type": {
+  "label": "multiple assessment methods vs single assessment method",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tflipped classroom with a quiz at class start\ttraditional lecture-based approach": {
+  "label": "flipped classroom with start-of-class quiz vs traditional lecture",
+  "treatment_is_a": true
+ },
+ "gamification\tweb-based game scenarios\treal-life scenarios": {
+  "label": "game-based scenarios vs real-life scenarios",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tmastery-learning training\tnon-mastery fixed-pacing training": {
+  "label": "mastery learning vs non-mastery learning",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tsimulation-based mastery-learning curriculum using the Guildford MATTU TEP model\tstandard apprenticeship training": {
+  "label": "mastery learning vs non-mastery learning",
+  "treatment_is_a": true
+ },
+ "media-design\tCPR song and video\tstandard training": {
+  "label": "multimedia-enhanced vs standard training",
+  "treatment_is_a": true
+ },
+ "media-design\temotionally active learning materials\tneutral learning materials": {
+  "label": "emotionally engaging vs neutral learning materials",
+  "treatment_is_a": true
+ },
+ "media-design\tflipped classroom with short recorded pre-class videos under 18 minutes\ttraditional lecture-based approach": {
+  "label": "flipped vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "media-design\tmultimedia used in teaching sessions\tless or no multimedia used in teaching sessions": {
+  "label": "multimedia-enhanced vs standard instruction",
+  "treatment_is_a": true
+ },
+ "practice-amount\tafter repeated practice\tbefore repeated practice": {
+  "label": "repeated practice vs no repeated practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\textra training after meeting mastery criteria\ttraining ending when mastery criteria were met": {
+  "label": "overlearning beyond mastery vs stopping at mastery",
+  "treatment_is_a": true
+ },
+ "practice-amount\tfour to nine real-world attempts after initial training\tearlier attempts after initial training": {
+  "label": "more post-training attempts vs fewer post-training attempts",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore than 30 simulator anastomoses\tup to 30 simulator anastomoses": {
+  "label": "more practice attempts vs fewer practice attempts",
+  "treatment_is_a": true
+ },
+ "practice-amount\tmore than ten successful attempts\tten successful attempts": {
+  "label": "more successful attempts vs fewer successful attempts",
+  "treatment_is_a": true
+ },
+ "practice-amount\tschool-based CPR or BLS training\tstandard or no training": {
+  "label": "training vs standard or no training",
+  "treatment_is_a": true
+ },
+ "practice-amount\tten additional unsupervised attempts after ten supervised attempts\tafter ten supervised attempts": {
+  "label": "additional unsupervised practice vs no additional unsupervised practice",
+  "treatment_is_a": true
+ },
+ "problem-first\tproblem-based e-learning intervention\tcontrol group": {
+  "label": "problem-first vs non-problem-first",
+  "treatment_is_a": true
+ },
+ "scaffolding\ttheory-based structured pre-briefing\tnot stated": {
+  "label": "structured pre-briefing vs no pre-briefing",
+  "treatment_is_a": true
+ },
+ "simulation\t10 hours of self-directed ultrasound simulation\tconventional clinical training": {
+  "label": "self-directed ultrasound simulator training vs conventional clinical training",
+  "treatment_is_a": true
+ },
+ "simulation\t10 hours of self-directed ultrasound simulator training\tconventional clinical training": {
+  "label": "self-directed ultrasound simulator training vs conventional clinical training",
+  "treatment_is_a": true
+ },
+ "simulation\t10 hours of self-directed ultrasound simulator training\tconventional clinical training without ultrasound simulator training": {
+  "label": "self-directed ultrasound simulator training vs conventional clinical training without ultrasound simulator training",
+  "treatment_is_a": true
+ },
+ "simulation\t2-day endoscopic mitral surgery training course\tbefore training": {
+  "label": "endoscopic mitral surgery training vs pre-training baseline",
+  "treatment_is_a": true
+ },
+ "simulation\t2-day endoscopic mitral valve surgery training course\tbefore training": {
+  "label": "endoscopic mitral valve surgery training vs pre-training baseline",
+  "treatment_is_a": true
+ },
+ "simulation\t3-week high-fidelity mitral valve repair simulation program with videos, plastic model practice, and porcine-heart evaluation\tpre-program baseline": {
+  "label": "high-fidelity mitral valve repair simulation training vs pre-program baseline",
+  "treatment_is_a": true
+ },
+ "simulation\t3D dynamic simulation with pulsatile flow\tother simulation approaches": {
+  "label": "3D dynamic simulation with pulsatile flow vs other simulation approaches",
+  "treatment_is_a": true
+ },
+ "simulation\t3D dynamic simulators\t3D static simulators": {
+  "label": "3D dynamic simulation vs 3D static simulation",
+  "treatment_is_a": true
+ },
+ "simulation\t3D printed patient-specific EVAR simulation\tnontrained residents": {
+  "label": "3D-printed patient-specific EVAR simulation vs nontrained residents",
+  "treatment_is_a": true
+ },
+ "simulation\t3D static aneurysm model training\tperformance before training": {
+  "label": "3D static aneurysm model training vs pre-training baseline",
+  "treatment_is_a": true
+ },
+ "simulation\t3D static simulation\tother simulation approaches": {
+  "label": "3D static simulation vs other simulation approaches",
+  "treatment_is_a": true
+ },
+ "simulation\t3D-printed patient-specific EVAR simulation\tnontrained residents": {
+  "label": "3D-printed patient-specific EVAR simulation vs nontrained residents",
+  "treatment_is_a": true
+ },
+ "simulation\tANGIO Mentor EVAR rehearsal\tpre-rehearsal clinical performance": {
+  "label": "ANGIO Mentor EVAR rehearsal vs pre-rehearsal clinical performance",
+  "treatment_is_a": true
+ },
+ "simulation\tANGIO Mentor simulation\tpre-simulation performance": {
+  "label": "ANGIO Mentor simulation vs pre-simulation performance",
+  "treatment_is_a": true
+ },
+ "simulation\tANGIO Mentor simulation training\tinitial proficiency or pretraining performance": {
+  "label": "ANGIO Mentor simulation training vs initial proficiency or pretraining performance",
+  "treatment_is_a": true
+ },
+ "simulation\tANGIO Mentor simulation training\tpost-training proficiency at follow-up": {
+  "label": "ANGIO Mentor simulation training vs post-training proficiency at follow-up",
+  "treatment_is_a": false
+ },
+ "simulation\tANGIO Mentor simulation training\tpre-training clinical performance": {
+  "label": "ANGIO Mentor simulation training vs pre-training clinical performance",
+  "treatment_is_a": true
+ },
+ "simulation\tANGIO Mentor simulation-based training\tpre-simulation or baseline performance": {
+  "label": "ANGIO Mentor simulation-based training vs pre-simulation or baseline performance",
+  "treatment_is_a": true
+ },
+ "simulation\tHarvey cardiac auscultation simulation\tno further simulator exposure after training": {
+  "label": "Harvey cardiac auscultation simulation vs no further simulator exposure",
+  "treatment_is_a": true
+ },
+ "simulation\tHarvey simulator training plus standard curriculum\tstandard curriculum alone": {
+  "label": "Harvey simulator training plus standard curriculum vs standard curriculum alone",
+  "treatment_is_a": true
+ },
+ "simulation\tITACS immersive VR aneurysm-clipping simulator\treal surgery": {
+  "label": "immersive VR aneurysm-clipping simulation vs real surgery",
+  "treatment_is_a": true
+ },
+ "simulation\tSAW model simulation performance\toperating-room performance on actual patients": {
+  "label": "SAW model simulation performance vs operating-room performance on actual patients",
+  "treatment_is_a": true
+ },
+ "simulation\tSBAR-based simulation programs\tdifferent simulation or educational interventions": {
+  "label": "SBAR-based simulation training vs other simulation or educational interventions",
+  "treatment_is_a": true
+ },
+ "simulation\tSBAR-based simulation training\tother simulation or educational intervention": {
+  "label": "SBAR-based simulation training vs other simulation or educational intervention",
+  "treatment_is_a": true
+ },
+ "simulation\tSBAR-based simulation training\tother simulation or educational interventions": {
+  "label": "SBAR-based simulation training vs other simulation or educational interventions",
+  "treatment_is_a": true
+ },
+ "simulation\tSBME adjunct to existing curriculum\ttraditional teaching or other comparison": {
+  "label": "simulation-based medical education adjunct vs traditional teaching or other comparison",
+  "treatment_is_a": true
+ },
+ "simulation\tVIST iliofemoral angioplasty practice\tnot stated": {
+  "label": "VIST iliofemoral angioplasty practice vs not stated",
+  "treatment_is_a": true
+ },
+ "simulation\tVIST superior femoral angioplasty practice\tnot stated": {
+  "label": "VIST superior femoral angioplasty practice vs not stated",
+  "treatment_is_a": true
+ },
+ "simulation\tVR neurosurgical simulation models\treal surgery": {
+  "label": "VR neurosurgical simulation models vs real surgery",
+  "treatment_is_a": true
+ },
+ "simulation\tVR preoperative planning\tno virtual planning": {
+  "label": "VR preoperative planning vs no virtual planning",
+  "treatment_is_a": true
+ },
+ "simulation\tVR presurgical planning and rehearsal\tconventional presurgical planning": {
+  "label": "VR presurgical planning and rehearsal vs conventional presurgical planning",
+  "treatment_is_a": true
+ },
+ "simulation\tVR simulator rehearsal\tcontrol condition": {
+  "label": "VR simulator rehearsal vs control condition",
+  "treatment_is_a": true
+ },
+ "simulation\tVR simulator rehearsal\tcontrol condition without VR rehearsal": {
+  "label": "VR simulator rehearsal vs control condition without VR rehearsal",
+  "treatment_is_a": true
+ },
+ "simulation\tcadaver models\tother simulation models": {
+  "label": "cadaver models vs other simulation models",
+  "treatment_is_a": true
+ },
+ "simulation\tcoronary anastomosis simulation training\tno formal simulation training or no intervention": {
+  "label": "coronary anastomosis simulation training vs no formal simulation training or no intervention",
+  "treatment_is_a": true
+ },
+ "simulation\tcoronary anastomosis simulation training\tno formal simulation training or pre-simulation assessment": {
+  "label": "coronary anastomosis simulation training vs no formal simulation training or pre-simulation assessment",
+  "treatment_is_a": true
+ },
+ "simulation\tcoronary anastomosis simulation training\tno formal simulation training or presimulation assessment": {
+  "label": "coronary anastomosis simulation training vs no formal simulation training or pre-simulation assessment",
+  "treatment_is_a": true
+ },
+ "simulation\tdV-Trainer VR training to proficiency\treal robotic system training": {
+  "label": "dV-Trainer VR training to proficiency vs real robotic system training",
+  "treatment_is_a": true
+ },
+ "simulation\tdVSS proficiency-based curriculum\tpretest before dVSS curriculum": {
+  "label": "dVSS proficiency-based curriculum vs pretest before the curriculum",
+  "treatment_is_a": true
+ },
+ "simulation\tdVSS training plus 20 tubes-task repetitions\tno further training": {
+  "label": "dVSS training plus 20 tube-task repetitions vs no further training",
+  "treatment_is_a": true
+ },
+ "simulation\tdVSS training to proficiency plus pig-laboratory training\tusual clinical activities without simulator training": {
+  "label": "dVSS training to proficiency plus pig-laboratory training vs usual clinical activities without simulator training",
+  "treatment_is_a": true
+ },
+ "simulation\tdry-laboratory training\tcontrol group": {
+  "label": "dry-laboratory training vs control group",
+  "treatment_is_a": true
+ },
+ "simulation\tex vivo simulation\tother simulation approaches": {
+  "label": "ex vivo simulation vs other simulation approaches",
+  "treatment_is_a": true
+ },
+ "simulation\texisting aneurysm-clipping simulation methods\tcomplete microsurgical workflow": {
+  "label": "existing aneurysm-clipping simulation methods vs complete microsurgical workflow",
+  "treatment_is_a": true
+ },
+ "simulation\tfinal session after 39-session SBT curriculum\tfirst session baseline": {
+  "label": "final session after simulation-based training curriculum vs first-session baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tflexible bronchoscopy simulation-based training\tconventional training or no training": {
+  "label": "flexible bronchoscopy simulation-based training vs conventional training or no training",
+  "treatment_is_a": true
+ },
+ "simulation\tflexible bronchoscopy simulation-based training\tno training or conventional training": {
+  "label": "flexible bronchoscopy simulation-based training vs no training or conventional training",
+  "treatment_is_a": true
+ },
+ "simulation\tflexible bronchoscopy simulation-based training\tno training, conventional training, or pretraining baseline": {
+  "label": "flexible bronchoscopy simulation-based training vs no training, conventional training, or pretraining baseline",
+  "treatment_is_a": true
+ },
+ "simulation\thigh-fidelity simulation\tlow-fidelity simulation or traditional training": {
+  "label": "high-fidelity simulation vs low-fidelity simulation or traditional training",
+  "treatment_is_a": true
+ },
+ "simulation\thigh-fidelity ultrasound simulation\tpre-training performance": {
+  "label": "high-fidelity ultrasound simulation vs pre-training performance",
+  "treatment_is_a": true
+ },
+ "simulation\thigh-fidelity ultrasound simulation training\tperformance before simulation training": {
+  "label": "high-fidelity ultrasound simulation training vs pre-training performance",
+  "treatment_is_a": true
+ },
+ "simulation\thigh-fidelity ultrasound simulation training\tperformance before training": {
+  "label": "high-fidelity ultrasound simulation training vs pre-training performance",
+  "treatment_is_a": true
+ },
+ "simulation\thigh-fidelity ultrasound simulation training\tpre-training performance": {
+  "label": "high-fidelity ultrasound simulation training vs pre-training performance",
+  "treatment_is_a": true
+ },
+ "simulation\thigh-fidelity ultrasound simulation training\tpre-training simulator performance": {
+  "label": "high-fidelity ultrasound simulation training vs pre-training simulator performance",
+  "treatment_is_a": true
+ },
+ "simulation\thigh-fidelity ultrasound simulator training\tno simulator training": {
+  "label": "high-fidelity ultrasound simulator training vs no simulator training",
+  "treatment_is_a": true
+ },
+ "simulation\thospital-focused trauma simulation\textra-hospital-focused trauma simulation": {
+  "label": "hospital-focused trauma simulation vs extra-hospital-focused trauma simulation",
+  "treatment_is_a": true
+ },
+ "simulation\thuman placenta aneurysm model\tcadaver aneurysm model": {
+  "label": "human placenta aneurysm model vs cadaver aneurysm model",
+  "treatment_is_a": true
+ },
+ "simulation\thuman placenta aneurysm model\tcadaver model": {
+  "label": "human placenta aneurysm model vs cadaver model",
+  "treatment_is_a": true
+ },
+ "simulation\thuman placenta model\tcadaver model": {
+  "label": "human placenta model vs cadaver model",
+  "treatment_is_a": true
+ },
+ "simulation\thybrid simulation with standardized patient wearing a silicone breast simulator jacket\tstandardized tabletop breast model": {
+  "label": "hybrid simulation with standardized patient and silicone breast simulator jacket vs standardized tabletop breast model",
+  "treatment_is_a": true
+ },
+ "simulation\tin-situ simulation assessment\tnot reported": {
+  "label": "in-situ simulation assessment vs not reported",
+  "treatment_is_a": true
+ },
+ "simulation\tin-situ simulation interventions\tpre-intervention or baseline": {
+  "label": "in-situ simulation intervention vs pre-intervention or baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tin-situ simulation to assess system readiness and safety culture\tpre-intervention or baseline readiness and safety-attitude measures": {
+  "label": "in-situ simulation for system readiness and safety culture vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tin-situ simulation to improve clinical skills and patient outcomes\tbaseline or pre-intervention performance, where reported": {
+  "label": "in-situ simulation for clinical skills and patient outcomes vs baseline or pre-intervention performance",
+  "treatment_is_a": true
+ },
+ "simulation\tin-situ simulation to improve non-technical skills, knowledge, and confidence\tbaseline or pre-intervention performance, where reported": {
+  "label": "in-situ simulation for non-technical skills, knowledge, and confidence vs baseline or pre-intervention performance",
+  "treatment_is_a": true
+ },
+ "simulation\tin-situ simulation training\tlecture-based training": {
+  "label": "in-situ simulation training vs lecture-based training",
+  "treatment_is_a": true
+ },
+ "simulation\tin-situ simulation training\tmandatory resuscitation training": {
+  "label": "in-situ simulation training vs mandatory resuscitation training",
+  "treatment_is_a": true
+ },
+ "simulation\tin-situ simulation training\tno interprofessional education": {
+  "label": "in-situ simulation training vs no interprofessional education",
+  "treatment_is_a": true
+ },
+ "simulation\tin-situ simulation training\tsimulation-centre obstetric emergency training": {
+  "label": "in-situ simulation training vs simulation-centre obstetric emergency training",
+  "treatment_is_a": true
+ },
+ "simulation\tin-situ simulation used to assess performance and identify risks\tclinical standards, baseline performance, or no comparator (varied)": {
+  "label": "in-situ simulation for performance assessment and risk identification vs clinical standards, baseline performance, or no comparator",
+  "treatment_is_a": true
+ },
+ "simulation\tjunior group\tsenior group": {
+  "label": "senior participants vs junior participants",
+  "treatment_is_a": false
+ },
+ "simulation\tmonthly assessment after 3 months of bovine-heart simulation training\tearlier monthly assessment": {
+  "label": "later monthly assessment after bovine-heart simulation training vs earlier monthly assessment",
+  "treatment_is_a": true
+ },
+ "simulation\tmonthly assessment after 3 months of bovine-heart simulation training\tfirst-month assessment": {
+  "label": "monthly assessment after 3 months of bovine-heart simulation training vs first-month assessment",
+  "treatment_is_a": true
+ },
+ "simulation\tnovice participants\texperienced participants": {
+  "label": "experienced participants vs novice participants",
+  "treatment_is_a": false
+ },
+ "simulation\tone-hour simulator training\tperformance before training": {
+  "label": "one-hour simulator training vs pre-training performance",
+  "treatment_is_a": true
+ },
+ "simulation\topen hernia repair simulation models\tlaparoscopic hernia repair simulation models": {
+  "label": "open hernia repair simulation models vs laparoscopic hernia repair simulation models",
+  "treatment_is_a": true
+ },
+ "simulation\tpersonalized deliberate practice on a VR simulator\tconventional residency training": {
+  "label": "personalized deliberate practice on a VR simulator vs conventional residency training",
+  "treatment_is_a": true
+ },
+ "simulation\tpractice on a simulator\tcontrol group": {
+  "label": "simulator practice vs control group",
+  "treatment_is_a": true
+ },
+ "simulation\trAAA simulation scenario introduced\tbefore scenario introduction": {
+  "label": "rAAA simulation scenario introduction vs pre-introduction baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tregular departmental in-situ simulation training\tpre-intervention confidence": {
+  "label": "regular departmental in-situ simulation training vs pre-intervention confidence",
+  "treatment_is_a": true
+ },
+ "simulation\trobotic VR simulator performance\tintraoperative performance": {
+  "label": "robotic VR simulator performance vs intraoperative performance",
+  "treatment_is_a": true
+ },
+ "simulation\trobotic VR simulator training\tvaried controls, pretest, or expert comparator": {
+  "label": "robotic VR simulator training vs varied controls, pretest, or expert comparator",
+  "treatment_is_a": true
+ },
+ "simulation\trole-play training\tno further training": {
+  "label": "role-play training vs no further training",
+  "treatment_is_a": true
+ },
+ "simulation\tschool-based CPR or BLS training with practical or simulated practice\tstandard training, self-training, or no training": {
+  "label": "school-based CPR or BLS training with practical or simulated practice vs standard training, self-training, or no training",
+  "treatment_is_a": true
+ },
+ "simulation\tschool-based CPR or BLS training with practical practice\tstandard or no training": {
+  "label": "school-based CPR or BLS training with practical practice vs standard or no training",
+  "treatment_is_a": true
+ },
+ "simulation\tschool-based CPR training with practical simulation\tstandard training, self-training, or no training": {
+  "label": "school-based CPR training with practical simulation vs standard training, self-training, or no training",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulated ultrasound training\tclinical practice or other training": {
+  "label": "simulated ultrasound training vs clinical practice or other training",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation training\tactive comparator": {
+  "label": "simulation training vs active comparator",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation training\tactive comparator: another type of training": {
+  "label": "simulation training vs another type of training",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation training\tcontrol condition": {
+  "label": "simulation training vs control condition",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation training\tdidactic lecture": {
+  "label": "simulation training vs didactic lecture",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation training\tinactive comparator": {
+  "label": "simulation training vs inactive comparator",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation training\tinactive comparator: no further training": {
+  "label": "simulation training vs no further training",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation training\tpre-training baseline": {
+  "label": "simulation training vs pre-training baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation training\ttraditional didactic lectures": {
+  "label": "simulation training vs traditional didactic lectures",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based coronary anastomosis training\tno intervention or pre-simulation assessment": {
+  "label": "simulation-based coronary anastomosis training vs no intervention or pre-simulation assessment",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based curriculum\tcontrol group": {
+  "label": "simulation-based curriculum vs control group",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based medical education\ttraditional teaching or no simulation": {
+  "label": "simulation-based medical education vs traditional teaching or no simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based medical education as an adjunct\ttraditional teaching or control": {
+  "label": "simulation-based medical education as an adjunct vs traditional teaching or control",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based obstetric emergency team training\tno simulation training": {
+  "label": "simulation-based obstetric emergency team training vs no simulation training",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based obstetric emergency team training\tno training": {
+  "label": "simulation-based obstetric emergency team training vs no training",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based training\tbefore simulation-based training": {
+  "label": "simulation-based training vs pre-training baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based vascular surgery training\tnontrained or pretraining performance": {
+  "label": "simulation-based vascular surgery training vs nontrained or pretraining performance",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based vascular surgery training\tnot stated": {
+  "label": "simulation-based vascular surgery training vs not stated",
+  "treatment_is_a": true
+ },
+ "simulation\tsingle-session in-situ simulation\tpre-intervention confidence": {
+  "label": "single-session in-situ simulation vs pre-intervention confidence",
+  "treatment_is_a": true
+ },
+ "simulation\tsix simulator training sessions over 4 weeks\tinitial pre-training performance": {
+  "label": "six simulator training sessions over 4 weeks vs initial pre-training performance",
+  "treatment_is_a": true
+ },
+ "simulation\tsupervised hands-on mannequin booster\tcombined video-booster and control groups": {
+  "label": "supervised hands-on mannequin booster vs combined video-booster and control groups",
+  "treatment_is_a": true
+ },
+ "simulation\tsupervised hands-on mannequin booster\tcontrol group": {
+  "label": "supervised hands-on mannequin booster vs control group",
+  "treatment_is_a": true
+ },
+ "simulation\tsupervised hands-on mannequin booster\tvideo booster or control": {
+  "label": "supervised hands-on mannequin booster vs video booster or control",
+  "treatment_is_a": true
+ },
+ "simulation\tsynthetic models\tother simulation models": {
+  "label": "synthetic models vs other simulation models",
+  "treatment_is_a": true
+ },
+ "simulation\tthree-session in-situ simulation\tpre-intervention confidence": {
+  "label": "three-session in-situ simulation vs pre-intervention confidence",
+  "treatment_is_a": true
+ },
+ "simulation\ttrained participants using a placenta model\tuntrained participants using a placenta model": {
+  "label": "trained participants using a placenta model vs untrained participants using a placenta model",
+  "treatment_is_a": true
+ },
+ "simulation\ttrained participants using a synthetic vessel model\tuntrained participants using a synthetic vessel model": {
+  "label": "trained participants using a synthetic vessel model vs untrained participants using a synthetic vessel model",
+  "treatment_is_a": true
+ },
+ "simulation\tvideos plus moulded rubber hernia simulator\tcontrol group": {
+  "label": "videos plus moulded rubber hernia simulator vs control group",
+  "treatment_is_a": true
+ },
+ "simulation\tvirtual reality training\tno additional training": {
+  "label": "virtual reality training vs no additional training",
+  "treatment_is_a": true
+ },
+ "simulation\tvirtual reality training\tsimulation training": {
+  "label": "virtual reality training vs other simulation training",
+  "treatment_is_a": true
+ },
+ "simulation\tvirtual-reality simulation\tcontrol group": {
+  "label": "virtual-reality simulation vs control group",
+  "treatment_is_a": true
+ },
+ "simulation\tvirtual-reality simulation\tother simulation approaches": {
+  "label": "virtual-reality simulation vs other simulation approaches",
+  "treatment_is_a": true
+ },
+ "simulation\tvirtual-reality training\tno further training": {
+  "label": "virtual-reality training vs no further training",
+  "treatment_is_a": true
+ },
+ "simulation\twet-laboratory training\tcontrol group": {
+  "label": "wet-laboratory training vs control group",
+  "treatment_is_a": true
+ },
+ "spacing\tregular ISS over longer periods\tsingle ISS sessions": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "spacing\tsix sessions at least 3 days apart\tone massed training day": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "spacing\tspaced VR simulator training\tsingle-day massed VR simulator training": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "spacing\tspaced VR simulator training\tsingle-day massed training": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "spacing\tspaced training across consecutive days\tshorter or longer spacing intervals": {
+  "label": "shorter vs longer gaps",
+  "treatment_is_a": true
+ },
+ "spacing\tthree 5-minute sessions with 2.5-minute breaks\tone 20-minute massed session": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "spacing\tthree daily VR training sessions\tthree same-day VR training sessions": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "spacing\tthree weekly simulator sessions\tthree same-day simulator sessions": {
+  "label": "spaced vs massed",
+  "treatment_is_a": true
+ },
+ "spacing\ttraining on consecutive days\tweekly spaced training": {
+  "label": "shorter vs longer gaps",
+  "treatment_is_a": true
+ },
+ "spacing\tweekly distributed training\tone-day spaced training with breaks": {
+  "label": "longer vs shorter gaps",
+  "treatment_is_a": true
+ },
+ "test-format\tsix-station simulated OSCE\ttraditional exam": {
+  "label": "OSCE vs traditional exam",
+  "treatment_is_a": true
+ },
+ "test-format\tstructured viva\tMCQs": {
+  "label": "structured viva vs MCQs",
+  "treatment_is_a": true
+ },
+ "test-format\tstructured viva\tMCQs and OSCE": {
+  "label": "structured viva vs MCQs and OSCE",
+  "treatment_is_a": true
+ },
+ "test-format\tstructured viva\ttraditional viva": {
+  "label": "structured viva vs traditional viva",
+  "treatment_is_a": true
  }
 }

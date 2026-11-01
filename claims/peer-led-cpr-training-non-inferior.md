@@ -49,3 +49,4 @@ Synthesis of the target-population theme across 20 studies; the review states "p
 - [Feedback-based CPR training is associated with more accurate chest compression performance than standard instruction](feedback-based-cpr-training-improves-compression-performance.md) — related
 - [Spaced CPR training is associated with improved skill retention compared with single-session massed instruction](spaced-cpr-training-improves-retention.md) — related
 - [Feedback from trained humans was in some settings as effective as mechanical feedback devices for CPR quality](human-feedback-equivalent-to-mechanical-devices.md) — related
+- [The dominant school-based CPR interventions were instructor-led training with video simulations, assessed mainly by subjective questionnaires](instructor-led-video-simulation-dominant-cpr-intervention.md) — related

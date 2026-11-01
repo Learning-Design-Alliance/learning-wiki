@@ -52,3 +52,6 @@ Meta-analysis of 7 studies (468 students) comparing satisfaction with teaching m
 - [PBL students reported significantly higher satisfaction and interest in the course than LBL students](pbl-higher-satisfaction-interest.md) — related
 - [More PBL than LBL students report satisfaction with improved communication skills (RR = 1.66)](pbl-satisfaction-communication-skills.md) — related
 - [More PBL than LBL students report satisfaction with improved learning interest (RR = 2.08)](pbl-satisfaction-learning-interest.md) — related
+- [CBL increases teaching satisfaction versus LBL (RR=1.38)](cbl-increases-teaching-satisfaction.md) — related
+- [PBL significantly increases student satisfaction compared with traditional teaching in Chinese gynecology and obstetrics education (RR 1.29)](pbl-increases-student-satisfaction-china-obgyn.md) — related
+- [Student satisfaction does not differ between PBL and LBL (pooled RR 1.18, CI crossing 1)](pbl-lbl-satisfaction-no-difference.md) — related

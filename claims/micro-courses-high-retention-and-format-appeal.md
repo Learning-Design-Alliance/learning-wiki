@@ -48,3 +48,4 @@ Enrollment and completion counts across three years of data collection (2020–2
 - [A review of music education asserts that MOOC completion is typically under 10% and that embodied musical learning resists short video lectures and self-graded quizzes](moocs-low-completion-embodied-music-learning.md) — reports the opposite
 - [Program appeal rested on flexibility and financial savings, with some modules completable in under 10 minutes](microcredential-appeal-flexibility-financial-savings.md) — related
 - [Asynchronous lessons were rated higher than synchronous lessons on the POET-O](poet-o-asynchronous-rated-higher-than-synchronous.md) — related
+- [Reported benefits of asynchronous e-learning include cost-effectiveness, self-paced learning, flexibility, and immediate feedback](asynchronous-elearning-benefits-nurses.md) — a broader claim this one bears on

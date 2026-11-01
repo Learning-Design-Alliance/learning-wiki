@@ -69,3 +69,4 @@ Umbrella review synthesis: three reviews (13%) reported on student preferences f
 - [PBL is associated with improved trainee satisfaction in PGME (8 of 12 reaction studies reported high satisfaction)](pbl-improves-resident-satisfaction.md) — related
 - [Two controlled studies found significantly higher examination scores and satisfaction in TBL groups compared with traditional lecture-based instruction](tbl-exam-scores-higher-than-lecture-two-studies.md) — a narrower finding that bears on this claim
 - [Students in TBL groups report higher satisfaction than students in LBL groups](tbl-higher-student-satisfaction-neurology.md) — possibly the same claim (merge candidate)
+- [Most reviewed studies found active learning improved satisfaction and knowledge acquisition and was superior to traditional lectures](active-learning-superior-lectures-dental-classroom.md) — related

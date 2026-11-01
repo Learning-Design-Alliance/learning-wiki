@@ -81,3 +81,4 @@ Linear-model analysis of the same randomized comparison confirmed the exam-score
 - [Near-peer feedback improved clinical note scores compared to no feedback in one included study](near-peer-feedback-improves-clinical-note-scores.md) — related
 - [Software-based platforms generally improve examination scores, diagnostic accuracy, and decision-making performance](software-platforms-improve-knowledge-and-decision-making.md) — a broader claim this one bears on
 - [Candidates receiving additional musculoskeletal training (lectures, workshops, video, spaced education, or SCIM) scored higher or similar on OSCEs compared with controls](additional-msk-training-osce-higher-or-similar.md) — related
+- [Simulation training across medical and surgical scenarios yields significantly higher OSCE scores than didactic lectures across two year groups](simulation-higher-osce-scores-zhang.md) — related

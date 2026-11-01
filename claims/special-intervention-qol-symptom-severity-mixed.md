@@ -65,3 +65,4 @@ The review reports the speciAL RCT primary outcome, SF-36 Physical Composite Sco
 
 ## Related Claims
 - [Effects on healthcare utilisation were inconsistent: TERM training showed no effects on visits or medication, while speciAL reduced visits significantly in the intervention group](pps-training-healthcare-utilisation-inconsistent.md) — related
+- [Implementation of the capabilities model of dementia care was associated with better staff work satisfaction and family-rated quality of life at 12 months](capabilities-model-dementia-care-improved-satisfaction-qol.md) — related

@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 235 claims (106 for, 112 mixed, 17 against) · 176 studies (68 causal, 35 review, 23 quant-synthesis, 17 associational, 13 design, 10 qualitative, 10 theoretical), `q1`–`q4` · 43 of 176 report an effect size · 211 claims rest on one study
+> **Evidence** · 236 claims (106 for, 113 mixed, 17 against) · 177 studies (68 causal, 35 review, 24 quant-synthesis, 17 associational, 13 design, 10 qualitative, 10 theoretical), `q1`–`q4` · 44 of 177 report an effect size · 212 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -283,6 +283,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [All feedback, whether human or device-based, improves performance in cardiac arrest simulation education](../claims/all-feedback-improves-cardiac-arrest-simulation-performance.md) [+W]
 - [Objective, device-based feedback is preferred in cardiac arrest simulation education](../claims/device-based-feedback-preferred.md) [~W]
 - [Simulator feedback frequency was significantly higher than human instructor feedback in one catheterization training study](../claims/simulator-feedback-frequency-higher-than-human-instructor.md) [~W]
+- [VBC advantage over controls is largest against no-specific-feedback controls and non-significant against controls receiving supplementary training material](../claims/vbc-advantage-varies-by-control-feedback-type.md) [~W]
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

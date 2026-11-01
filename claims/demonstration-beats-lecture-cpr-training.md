@@ -54,3 +54,4 @@ Review synthesis of modality comparisons including a randomized layperson trial 
 - [Spaced CPR training is associated with improved skill retention compared with single-session massed instruction](spaced-cpr-training-improves-retention.md) — related
 - [Real-time audio feedback from the CPR Tutor is followed by a short-term decrease in Error Rates across all five target CPR classes within 10 seconds](cpr-tutor-short-term-error-rate-decrease.md) — related
 - [Combining video-based feedback with verbal feedback enhanced both skill acquisition and knowledge retention](video-plus-verbal-feedback-enhances-retention.md) — related
+- [School-based CPR training effectively promotes change in CPR knowledge and skills among adolescents](school-cpr-training-improves-adolescent-knowledge-skills.md) — a broader claim this one bears on

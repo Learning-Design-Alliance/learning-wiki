@@ -51,6 +51,7 @@ The review recommends that future research prioritize longitudinal designs conne
 - [Combine objective metrics with validated subjective tools and audio-visual recording to contextualize interpretation of surgical performance data](combine-objective-metrics-with-subjective-and-av-context.md)
 - [Prioritize larger multi-center RCTs with standardized AR systems, uniform metrics, and long-term follow-up when evaluating AR surgical training](strategy-standardized-ar-training-protocols-research.md)
 - [Validate automated video analytics and reach metric consensus before widespread adoption in surgical training](validate-video-analytics-before-adoption.md)
+- [Prioritize operational-setting protocols, longitudinal expertise tracking, team dynamics, and real-time monitoring as next steps for educational neuroimaging](neuroimaging-future-research-directions-hpe.md)
 
 ## Examples
 -

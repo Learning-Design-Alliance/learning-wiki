@@ -48,6 +48,7 @@ The review recommends methodological approaches that integrate different data ty
 - [Research agenda: investigate affective dynamics with within-person, longitudinal, and multi-channel methods](affective-dynamics-research-agenda-curiosity-interest.md)
 - [Use simultaneous high-arousal episodes to locate emotionally relevant moments in collaborative learning](track-high-arousal-critical-moments.md)
 - [Methodological agenda for CCLT-inspired CSCL research: new cognitive load measures, multilevel analysis, temporality, and broader methodologies](cclt-methodological-agenda.md)
+- [Combine subjective and objective multimodal measurement (self-report, facial expression, physiological data) to capture academic emotions during learning](multimodal-academic-emotion-measurement.md)
 
 ## Examples
 -

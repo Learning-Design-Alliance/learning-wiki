@@ -57,3 +57,4 @@ The review's narrative synthesis of included-study results, attributed to specif
 - [Performance feedback supported skill accuracy and was equally effective when provided by an educator as by automated means in a virtual simulation](feedback-educator-versus-automated-equally-effective.md) — related
 - [In an RCT reviewed by this study, an LLM-based digital patient improved ophthalmology medical history-taking skills relative to control](llm-digital-patient-improves-history-taking-rct.md) — a narrower finding that bears on this claim
 - [Near-peer feedback improved clinical note scores compared to no feedback in one included study](near-peer-feedback-improves-clinical-note-scores.md) — related
+- [Regular ISS over longer periods was reported for complex practices and patient outcomes, while one to three sessions were reported effective for more easily defined or isolated tasks](iss-frequency-matches-task-complexity.md) — related

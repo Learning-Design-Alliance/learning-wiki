@@ -50,6 +50,7 @@ In the discussion the authors recommend redesigning VR language tasks so the lin
 
 - [Embed situated, context-triggered language learning activities in learners' everyday environments](situated-context-triggered-language-learning.md)
 - [Deliver neurocognitive training at low frequency within ecologically valid academic contexts rather than as isolated high-frequency sessions](low-frequency-nat-ecological-embedding-strategy.md)
+- [Meticulously design virtual learning environments to foster critical thinking while managing cognitive load](design-vr-environments-for-critical-thinking.md)
 
 ## Examples
 -

@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/educational-utility-not-assessed-no-impact-data.md
+---
+
+# Revision history: [claims/educational-utility-not-assessed-no-impact-data](../claims/educational-utility-not-assessed-no-impact-data.md)
+
+### 2026-10-31 · ingest · process:wiki-ingest
+Ingested from pmc-10796133 (Validity Evidence for Procedure-specific Competence Assessment Tools in Orthopaedic Surgery: A Scoping Review.) via eval_harness.py + ingest_extractions.py

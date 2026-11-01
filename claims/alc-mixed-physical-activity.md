@@ -48,3 +48,4 @@ Narrative synthesis of five studies measuring PA by accelerometer; the review re
 - [ALCs show sex-differentiated effects on mental health: improvements in girls, no improvement or worsening in boys](alc-mental-health-sex-differences.md) — related
 - [Active Learning Classrooms predominantly reduce sitting time and increase standing time in children and adolescents](alc-reduce-sitting-increase-standing.md) — related
 - [ALC interventions have no observed effect on adiposity and no clear negative effect on musculoskeletal pain](alc-no-adiposity-effect-pain-neutral.md) — related
+- [Upright active desks reduce classroom sitting time and increase standing time in primary-school children](upright-desks-reduce-classroom-sitting-time.md) — related

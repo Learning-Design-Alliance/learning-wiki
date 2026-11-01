@@ -53,3 +53,6 @@ Meta-analysis of 30 comparative studies involving 4119 participants reporting ex
 - [TBL students achieve significantly higher post-test final scores than LBL students in medical education](tbl-higher-post-test-scores-than-lbl.md) — related
 - [PBL-CBL improves physical examination and case analysis performance relative to LBL](pbl-cbl-physical-exam-case-analysis.md) — related
 - [PBL significantly improves clinical skill scores compared with lecture-based learning in medical education](pbl-improves-clinical-skill-scores-versus-lbl.md) — related
+- [Pooled PBL-vs-LBL effects show strong heterogeneity (I2 = 89.7%) attributed to different teachers, similar or same examination papers, and student groups over 100](heterogeneity-sources-pbl-cell-biology-meta-analysis.md) — related
+- [PBL improves total cell biology examination scores compared with LBL in Chinese medical education (pooled SMD 0.89)](pbl-beats-lbl-total-exam-scores-cell-biology.md) — related
+- [PBL improves comprehensive question scores compared with LBL (pooled SMD 0.53)](pbl-comprehensive-question-scores-smd-053.md) — related

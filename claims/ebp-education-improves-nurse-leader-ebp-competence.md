@@ -51,3 +51,4 @@ Meta-analysis of three studies measuring EBP competence with scales such as the 
 - [In one randomized trial, EBP leadership education improved EBP beliefs and implementation self-efficacy but not evidence-based nursing practice scores](tucker-trial-beliefs-selfefficacy-gains-ebnp-null.md) — related
 - [Educational interventions for nurse leaders improve implementation climate (SMD = 1.60)](nurse-leader-ebp-education-improves-implementation-climate.md) — related
 - [Educational interventions for nurse leaders improve organizational readiness (SMD = 0.65)](nurse-leader-ebp-education-improves-organizational-readiness.md) — related
+- [E-learning programs significantly improve nurses' knowledge of pressure injury management compared with no e-learning (pooled SMD 1.40, with substantial heterogeneity)](elearning-improves-nurse-pressure-injury-knowledge-smd-1-40.md) — a narrower finding that bears on this claim

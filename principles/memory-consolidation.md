@@ -31,7 +31,7 @@ sources:
 # Memory Consolidation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 40 claims (20 for, 17 mixed, 3 against) · 52 studies (30 causal, 10 review, 8 quant-synthesis, 3 associational, 1 theoretical), `q1`–`q4` · 14 of 52 report an effect size · 33 claims rest on one study
+> **Evidence** · 41 claims (21 for, 17 mixed, 3 against) · 53 studies (30 causal, 11 review, 8 quant-synthesis, 3 associational, 1 theoretical), `q1`–`q4` · 14 of 53 report an effect size · 34 claims rest on one study
 
 ## Conditional relationship
 
@@ -181,6 +181,7 @@ End-of-session performance, delayed recall, use in later tasks and use in the se
 - [Task errors (drops, collisions, collision duration) decrease significantly over teleoperation training and are retained](../claims/teleoperation-error-metrics-decrease-over-training.md) [+W]
 - [Gesture-enacted L2 vocabulary learning yields significantly better memory and more sustained retention than non-gesture learning, lasting 2–6 months](../claims/gesture-learning-sustained-l2-retention.md) [~W]
 - [IVR knowledge benefits appear immediately post-intervention but attenuate at later follow-up](../claims/ivr-knowledge-gains-attenuate-at-follow-up.md) [+W]
+- [Hands-on booster practice produced significantly fewer life-supporting skill errors than video booster or control at follow-up](../claims/hands-on-booster-fewer-life-supporting-errors.md) [+W]
 
 ## Related Principles
 - [Spaced Learning](spaced-learning.md) — consolidation often depends on how review is distributed over time

@@ -60,3 +60,4 @@ The RQ2 MANOVA showed a moderate multivariate complexity effect (η² = 0.11); u
 - [Task complexity has a strong omnibus multivariate effect on performance, GCL, meta-awareness, and intrinsic interest combined](complexity-omnibus-manova-effect.md) — related
 - [Metacognition correlates with meta-awareness in the gradually increasing complexity group in Round 2, but not significantly in the consistently high complexity group](metacognition-meta-awareness-correlation-by-condition.md) — related
 - [Learning is a process of development in which the beginner's mode of working constantly changes and cannot use expert methods](learning-is-developmental-beginner-methods-differ-from-experts.md) — related
+- [The highest-quality FB SBT studies with the most relevant outcomes shared curriculum integration and a gradual increase in task difficulty](curriculum-integration-task-difficulty-highest-quality.md) — related

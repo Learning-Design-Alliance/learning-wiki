@@ -43,6 +43,7 @@ The article reports that pre-class videos "cannot be too long and should be rest
 - [Keep online lecture videos under twenty minutes and segment by topic with speed control](online-lecture-under-twenty-minutes.md)
 - [Micro Flipped Classroom](micro_flipped_classroom.md)
 - [Prioritize high-quality RCTs with standardized assessment tools and subjective outcomes in future flipped classroom research](prioritize-high-quality-rcts-standardized-assessment.md)
+- [Keep pre-class teaching videos short (10–20 minutes), goal-targeted, and followed by checking homework](short-goal-targeted-pre-class-videos.md)
 
 ## Examples
 -

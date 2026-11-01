@@ -51,3 +51,4 @@ Meta-analysis comparing XR training to dry lab training on GEARS scores. The res
 - [XR training shows a large but non-significant effect on GEARS scores compared to no additional training](xr-gears-vs-no-training-large-non-significant-effect.md) — related
 - [All 29 comprehensive RAS curricula included simulation training, with VR simulation (n = 16), dry lab (n = 11), and wet lab/bio-tissue/cadaveric (n = 12) as the most common modalities.](ras-curricula-all-include-simulation.md) — related
 - [Dry lab training on the da Vinci Surgical System was the most common training modality in robotic surgery training studies](da-vinci-dry-lab-most-common-training-modality.md) — related
+- [In a randomized trial of robotic mitral annuloplasty training, wet-laboratory, dry-laboratory and control groups improved on time-based scores while the virtual reality group did not](valdis-robotic-sbt-group-differences.md) — related

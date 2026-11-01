@@ -53,3 +53,4 @@ Inter-rater analysis of rubric-component scores from 231 pre-service teachers gr
 - [An LLM-based AI Evaluator agrees with expert human raters on collaboration transcripts at a level similar to inter-expert agreement](llm-evaluator-agreement-matches-expert-raters.md) — related
 - [Grading variability: 40.7% of grade variance lies between teachers and essay quality is the largest random effect](variance-decomposition-teacher-grading.md) — related
 - [Inter-rater reliability of the ANTS system reached substantial agreement in most raters that reported it](ants-inter-rater-reliability-substantial.md) — related
+- [The CALM tool showed only weak inter-rater agreement (weighted Kappa 0.45) in its single ED video-review study](calm-weak-kappa-045-single-study.md) — related

@@ -55,3 +55,4 @@ Linear mixed-effects analysis of within-subjects repeated assessments over nine 
 - [Classroom physical activity breaks show strong evidence of improving emotional engagement in university students](pa-breaks-emotional-engagement-strong-evidence.md) — related
 - [Evidence on negative academic emotions from classroom physical activity breaks is limited and inconsistent](pa-breaks-negative-emotions-inconsistent.md) — related
 - [Classroom physical activity breaks show strong evidence of improving positive academic emotions in university students](pa-breaks-positive-emotions-strong-evidence.md) — related
+- [Classroom movement breaks increase vigour and concentration and decrease fatigue immediately after the break](cmb-vigour-concentration-fatigue.md) — possibly the same claim (merge candidate)

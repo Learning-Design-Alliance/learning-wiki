@@ -14,7 +14,7 @@ grain_size: course
 # Mentor Support in Self-Paced Online Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 103 claims (54 for, 43 mixed, 6 against) · 82 studies (17 associational, 16 causal, 13 review, 11 quant-synthesis, 10 qualitative, 8 theoretical, 7 design), `q1`–`q4` · 12 of 82 report an effect size · 93 claims rest on one study
+> **Evidence** · 104 claims (55 for, 43 mixed, 6 against) · 83 studies (17 associational, 16 causal, 14 review, 11 quant-synthesis, 10 qualitative, 8 theoretical, 7 design), `q1`–`q4` · 12 of 83 report an effect size · 94 claims rest on one study
 
 ## Description and scope
 
@@ -146,6 +146,7 @@ This pattern is scoped to support around self-paced online courses and programme
 - [Teachers envisioned chatbots as extending teacher capacity and availability by providing additional access to support and redistributing planning workload](../claims/teachers-envision-chatbots-extending-capacity-availability.md) [+W]
 - [Baseline math performance interacted with teacher–student contact level, with low contact amplifying disadvantages for below-baseline students](../claims/baseline-performance-contact-interaction-math.md) [~W]
 - [The Mentor agent had the overall best combined impact on learning and motivation](../claims/mentor-agent-best-overall-impact.md) [+W]
+- [Successful e-learning students were characterised by technology competence, high motivation and open attitudes, while preceptors guided, supported and gave feedback](../claims/elearning-learner-preceptor-characteristics.md) [+W]
 
 ## Related Patterns
 

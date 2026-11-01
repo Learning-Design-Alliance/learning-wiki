@@ -48,3 +48,5 @@ The review's level 3 synthesis reports six studies on behaviour change. For exam
 - [Video-assisted learning decreased error rates by 49% and staff takeovers by 52%](video-assisted-learning-decreases-errors-49-percent.md) — related
 - [Video review improves patient outcomes (Kirkpatrick level 4) in the single study reporting this level](video-review-kirkpatrick-level-4-patient-outcome.md) — related
 - [Video review of resident performance in clinical PGME settings shows positive learning effects, with 8 of 11 studies reporting significant results](video-review-positive-learning-effect-pgme.md) — a broader claim this one bears on
+- [Four reviewed studies showed e-learning changed student study behaviour, including increased time invested in studying course subjects](elearning-behaviour-change-kirkpatrick-3.md) — related
+- [Incorporating video review feedback into leadership training had a positive effect on emergency medicine residents' team-leader performance in a pilot study](video-review-feedback-resident-leadership-pilot.md) — a narrower finding that bears on this claim

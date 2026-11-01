@@ -55,3 +55,4 @@ Student-type subgroup analysis of the meta-analysis, defining junior as second y
 - [Early clinical exposure in undergraduate dental education shows evidence of effectiveness in knowledge, psychomotor skills, and affective domains](ece-dental-effectiveness-cognitive-psychomotor-affective.md) — a broader claim this one bears on
 - [ECE reduces transition stress from preclinical to clinical training and supports smoother student transition](ece-reduces-transition-stress.md) — related
 - [Early preclinical exposure group outperformed late exposure group on theory, OSCE communication, and empathy measures](epce-higher-theory-osce-empathy-scores.md) — related
+- [Junior and non-cardiothoracic residents show larger time improvements from coronary anastomosis simulation than senior residents](junior-residents-gain-more-time-from-simulation.md) — related

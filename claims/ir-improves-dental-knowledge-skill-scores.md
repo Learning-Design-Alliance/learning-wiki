@@ -72,3 +72,4 @@ The review reports Fu et al.'s 90-minute dental scaling comparison of virtual si
 - [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — a broader claim this one bears on
 - [Virtual reality was particularly effective for procedural skill development and knowledge retention in paediatric undergraduate training](vr-effective-procedural-skills-retention.md) — a broader claim this one bears on
 - [AR/VR training shows equal or superior outcomes versus conventional training in dental and OMFS education](arvr-noninferior-or-superior-dental-omfs-training.md) — a broader claim this one bears on
+- [A virtual reality open inguinal hernia model improved medical students' knowledge of the procedure but did not assess technical skill](vr-open-hernia-model-improves-student-knowledge.md) — related

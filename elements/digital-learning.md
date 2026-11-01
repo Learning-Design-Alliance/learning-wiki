@@ -13,7 +13,7 @@ generated:
 # Digital Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 31 claims (14 for, 15 mixed, 2 against) · 30 studies (5 causal, 5 associational, 5 qualitative, 4 quant-synthesis, 4 review, 4 theoretical, 3 design), `q1`–`q4` · 2 of 30 report an effect size · 30 claims rest on one study
+> **Evidence** · 32 claims (14 for, 16 mixed, 2 against) · 31 studies (5 causal, 5 review, 5 associational, 5 qualitative, 4 quant-synthesis, 4 theoretical, 3 design), `q1`–`q4` · 2 of 31 report an effect size · 31 claims rest on one study
 
 ## Description
 Digital learning is the element in which instruction, resources, or interaction are mediated through digital tools, platforms, or networks. It is useful when learners need flexible access, interactive media, or non-linear exploration.
@@ -67,6 +67,7 @@ Digital learning is the element in which instruction, resources, or interaction 
 - [Design features such as straightforward access, mobile-ready platforms, self-paced modular formats, and scenario-based content are reported facilitators of e-learning implementation](../claims/e-learning-design-features-facilitators-accessibility-self-paced-scenario.md) [+W]
 - [Digital learning platforms and virtual learning environments enhance knowledge retention and flexibility in orthodontic education](../claims/digital-platforms-enhance-orthodontic-knowledge-retention.md) [+W]
 - [Videoconference-based learning was the most widely implemented online method in psychiatric trainee education](../claims/videoconference-most-implemented-psychiatric-education.md) [+W]
+- [Among 42 reviewed e-learning interventions in undergraduate clinical medicine, the most common types were multimedia platforms and case-based learning, and most were interactive, asynchronous and home-accessible](../claims/elearning-review-42-studies-intervention-characteristics.md) [~W]
 
 ## Related Elements
 
@@ -80,7 +81,9 @@ Digital learning is the element in which instruction, resources, or interaction 
 - [Game-Based Mastery Learning](../patterns/game-based-mastery-learning.md)
 
 ## Examples
+
 - Interactive modules, linked resources, adaptive practice systems, and online collaborative spaces.
+- [In online flipped classrooms, set appropriate task difficulty, organize team grouping, build incentive mechanisms, and use multi-dimensional digital evaluation](../strategies/online-flipped-classroom-task-difficulty-grouping-incentives.md)
 
 ## Key Sources
 - Means, B., Toyama, Y., Murphy, R., Bakia, M., & Jones, K. (2010). *Evaluation of evidence-based practices in online learning*. U.S. Department of Education.

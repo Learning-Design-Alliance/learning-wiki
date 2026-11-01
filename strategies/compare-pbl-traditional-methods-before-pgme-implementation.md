@@ -55,6 +55,7 @@ The review's future-directions recommendations call for comparative and better-p
 - [Prioritize larger randomized trials in pedagogical research and more representative evaluations across Africa](larger-rcts-pedagogical-research-recommendation.md)
 - [Future active-learning research should use randomised controlled designs with larger samples and standardised outcome measures](rigorous-rct-design-future-active-learning-research.md)
 - [Medical schools should investigate feasibility and acceptability of creative project-based lessons in their own curricula, using mixed-methods evaluation](recommend-feasibility-trials-creative-project-lessons.md)
+- [Conduct well-designed long-term randomized controlled trials of PBL in oral radiology](long-term-rcts-pbl-oral-radiology.md)
 
 ## Examples
 -

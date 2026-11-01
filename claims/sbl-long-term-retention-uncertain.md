@@ -54,3 +54,4 @@ Authors' interpretive statement in the Discussion, not a tested result of this r
 - [Empathy and communication interventions show short-term gains but evidence on persistence over time is inconsistent](soft-skills-intervention-gains-not-sustained.md) — related
 - [Post-intervention knowledge and skill scores rise 20–50% over pre-intervention scores in reviewed SBL studies](sbl-post-intervention-gains-20-50-percent.md) — related
 - [TBL in clinical disciplines is associated with increased knowledge acquisition in many studies, but findings on long-term knowledge retention are contradictory](tbl-clinical-knowledge-acquisition-mixed-retention.md) — related
+- [SBME improves knowledge retention in medical students, with retention demonstrated at delayed testing in three studies](sbme-improves-knowledge-retention.md) — reports the opposite

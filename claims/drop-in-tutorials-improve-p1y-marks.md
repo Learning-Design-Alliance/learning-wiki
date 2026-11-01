@@ -64,3 +64,4 @@ Observational comparison in the 2007-08 class: only ~10% of the class attended t
 - [Seeking tutoring and attending supplemental instruction sessions are associated with significantly higher academic engagement](tutoring-si-attendance-engage-stem-students.md)
 - [Online students' learning needs centre on course support and communication with tutors and other students](online-students-learning-needs-support-communication.md) — related
 - [Tutoring center visits usually showed no significant difference in individual course performance, and sometimes tutored students performed worse](tutoring-visits-no-course-grade-advantage.md) — reports the opposite
+- [Avoiding tobacco, alcohol, and khat use during university is associated with better academic performance](substance-avoidance-associated-better-performance.md) — related

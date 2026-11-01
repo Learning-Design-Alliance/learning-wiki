@@ -73,3 +73,5 @@ Heterogeneity assessment in the re-analysis of Leary et al. (2013) data across 3
 - Effect sizes across the 38 comparisons are highly heterogeneous, requiring a random-effects model — related
 - Included studies show high heterogeneity (I2 = 94.5%), addressed with random effects modelling and meta-regression — related
 - [Evidence for PBL effectiveness is rated low quality with considerable heterogeneity, attributed to instructor supervision, participant characteristics, and unstandardized assessment](pbl-evidence-low-quality-heterogeneous.md) — related
+- [After removing five outlying studies identified by Galbraith plot, the PBL advantage persisted with low heterogeneity (Hedges' g = 0.592, I2 = 26.807%)](pbl-advantage-persists-after-galbraith-removal.md) — related
+- [PBL is not statistically superior to conventional teaching for problem-solving in first-year students (p = 0.47), with the pooled effect tending toward conventional teaching](pbl-not-superior-problem-solving.md) — related

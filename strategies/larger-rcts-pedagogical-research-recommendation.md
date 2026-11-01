@@ -47,6 +47,7 @@ The author closes the meta-analysis with recommendations for researchers: becaus
 - [Rigorously compare PBL with traditional methods before broad PGME implementation, using larger samples, controls, and follow-up](compare-pbl-traditional-methods-before-pgme-implementation.md)
 - [Future active-learning research should use randomised controlled designs with larger samples and standardised outcome measures](rigorous-rct-design-future-active-learning-research.md)
 - [Conduct large-scale, well-designed RCTs with multiple outcome indicators to evaluate new teaching methods](large-scale-rcts-multiple-outcome-indicators-teaching-methods.md)
+- [Recommendation: evaluate PBL effectiveness through multicenter primary studies comparing educational centers, cultures, and psychological adaptation factors](multicenter-pbl-research-recommendation.md)
 
 ## Examples
 -

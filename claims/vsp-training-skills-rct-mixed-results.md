@@ -40,7 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r3` · `q3`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · 2 of 3 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In an RCT of 102 health care professionals, the VSP intervention group demonstrated significantly improved posttest skills in alcohol screening and brief intervention compared to a no-training control, with moderate and small effect sizes. [→ Sten CW 2024](#sten-cw-2024)
@@ -89,3 +89,4 @@ RCT of 67 medical students comparing a VSP intervention group to a video module 
 - [Virtual patient simulations show mixed effects: improved diagnostic accuracy in one trial, no advantage over video teaching in another, and short-lived knowledge gains](virtual-patients-mixed-psychiatry.md) — related
 - [Software-based platforms generally improve examination scores, diagnostic accuracy, and decision-making performance](software-platforms-improve-knowledge-and-decision-making.md) — a broader claim this one bears on
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — a broader claim this one bears on
+- [RCTs report objective behavioral changes after simulation training, including increased peer referral, longer crisis-line calls, and improved management of suicidal crises](simulation-behavior-changes-rcts-suicide.md) — related

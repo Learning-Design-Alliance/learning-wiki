@@ -67,3 +67,4 @@ The review reports, citing included studies, that W-Pal lesson activity "decreas
 - [Behavior and contribution quality are shaped by platform incentives and features rather than self-reported motivations](platform-features-shape-behavior-and-quality.md) — related
 - [Some teachers declined to use the VCL citing organisational difficulties and curriculum fit](teachers-declined-vcl-organisational-curriculum.md) — related
 - [Pre-operative errors stem largely from insufficient preparation, including setup issues and cognitive distractions that affect accuracy](preoperative-preparation-and-distraction-errors.md) — related
+- [Challenges of asynchronous e-learning include lack of real-time feedback, computer-skill gaps, and insufficiency for confidence and practical skills](asynchronous-elearning-challenges-nurses.md) — related

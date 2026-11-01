@@ -51,3 +51,5 @@ Meta-analysis of three of nine questionnaire-survey studies (1,181 students eval
 - [CBL significantly improves problem-solving abilities compared with LBL (RR = 2.19)](cbl-improves-problem-solving-abilities.md) — related
 - [More PBL than LBL students report satisfaction with improved communication skills (RR = 1.66)](pbl-satisfaction-communication-skills.md) — related
 - [Trainees report higher satisfaction with simulation-based learning than with non-simulation-based learning in endocrinology education](sbl-higher-satisfaction-endocrinology.md) — related
+- [CBL increases teaching satisfaction versus LBL (RR=1.38)](cbl-increases-teaching-satisfaction.md) — possibly the same claim (merge candidate)
+- [Students reported positive evaluations of CBL, citing aroused learning interest, enhanced self-study, improved communication and cooperation, and improved problem-solving](cbl-positive-student-evaluations-psychology.md) — related

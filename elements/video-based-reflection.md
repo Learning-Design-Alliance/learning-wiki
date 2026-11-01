@@ -22,7 +22,7 @@ sources:
 # Video-Based Reflection
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (3 for, 4 mixed) · 5 studies (1 causal, 1 quant-synthesis, 1 review, 1 associational, 1 qualitative), `q1`–`q3` · 0 of 5 report an effect size · 7 claims rest on one study
+> **Evidence** · 8 claims (4 for, 4 mixed) · 6 studies (2 review, 1 causal, 1 quant-synthesis, 1 associational, 1 qualitative), `q1`–`q3` · 0 of 6 report an effect size · 8 claims rest on one study
 
 ## Description
 Video-based reflection is the element in which learners or practitioners review a recording of their own past activity to analyze choices, patterns, and next steps. The reviewer, not only an outside observer, does the interpreting — this is what distinguishes it from an instructor simply watching and evaluating footage. It has been used at very different grain sizes: young children interpreting video of their own unscripted play, and teacher teams interpreting video of their own classroom teaching within an ongoing professional-development partnership.
@@ -55,6 +55,7 @@ Video-based reflection is the element in which learners or practitioners review 
 - [A six-week SRL video annotation intervention was followed by a statistically significant increase in high school students' ITS-AR monologue scores](../claims/srl-video-annotation-improved-acting-rubric-scores.md) [+W]
 - [A five-step structured video-based reflection cycle led teachers to produce substantially more new and more specific solutions than a vicarious-reflection control condition](../claims/ceble-structured-reflection-more-specific-solutions.md) [+W]
 - [Residents report positive perceptions of being recorded and of video review, with discomfort typically fading](../claims/resident-perceptions-video-recording-positive.md) [~W]
+- [Incorporating video review feedback into leadership training had a positive effect on emergency medicine residents' team-leader performance in a pilot study](../claims/video-review-feedback-resident-leadership-pilot.md) [+W]
 
 ## Related Elements
 

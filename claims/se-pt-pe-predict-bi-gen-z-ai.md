@@ -53,3 +53,4 @@ Covariance-based SEM study of 349 Malaysian Gen Z university students using an e
 - [Performance expectancy, social influence, novelty value, and creative competence positively predict art and design students' behavioral intention to use T2I GenAI tools](pe-si-nv-cc-positive-predict-bi-t2i.md) — related
 - [Performance expectancy, effort expectancy, and social influence positively predict behavioral intention to use ChatGPT among Lesotho higher education students](pe-ee-si-predict-chatgpt-intention-lesotho.md) — related
 - [Trust positively influences both behavioural intention and use behaviour of m-learning](trust-predicts-ml-bi-ub.md) — related
+- [Self-efficacy correlates with clinical performance in PT and SLP students but not OT students](self-efficacy-clinical-performance-pt-slp-not-ot.md) — related

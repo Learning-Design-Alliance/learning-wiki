@@ -88,3 +88,4 @@ Descriptive synthesis of one RCT (Suebnukarn, 36 second-year dental students) us
 - [AI-powered PBL/CBL significantly improves students' knowledge acquisition compared with PBL/CBL without AI or traditional lectures](ai-pbl-cbl-improves-knowledge-acquisition.md) — related
 - [Digital teaching of clinical skills improves medical trainees' assessment outcomes compared with other formats, with a pooled mean difference of 1.93](digital-clinical-skills-teaching-assessment-outcome-md-1-93.md) — related
 - [Live case-based discussion outperformed paper cases on clinical reasoning performance at posttest and follow-up](live-ccd-outperforms-paper-cases-clinical-reasoning.md) — related
+- [PBL methods produce significantly better knowledge scores than traditional teaching among dental students (pooled MD 4.15)](pbl-improves-knowledge-scores.md) — related

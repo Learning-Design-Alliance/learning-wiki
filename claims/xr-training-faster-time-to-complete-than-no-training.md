@@ -49,3 +49,6 @@ Meta-analysis of randomized and prospective studies comparing XR training to no 
 - [XR training shows a large but non-significant effect on GEARS scores compared to no additional training](xr-gears-vs-no-training-large-non-significant-effect.md) — related
 - [Three comparative studies reported superior outcomes for distance simulation over traditional training, involving augmented reality telementoring, remote robotic teaching, and a virtual classroom](distance-simulation-superior-outcomes-three-studies.md) — related
 - [Extended reality training shows no statistically significant difference in time to complete compared to dry lab training](xr-vs-dry-lab-time-to-complete-no-significant-difference.md) — related
+- [In a randomized trial of robotic mitral annuloplasty training, wet-laboratory, dry-laboratory and control groups improved on time-based scores while the virtual reality group did not](valdis-robotic-sbt-group-differences.md) — related
+- [Virtual reality training shows no significant improvement in total GOALS scores or GOALS domains compared with no additional training](vrt-no-goals-improvement-versus-nat.md) — related
+- [No significant differences found between virtual reality training and simulation training in GOALS scores or time to completion](vrt-versus-st-no-significant-difference.md) — related

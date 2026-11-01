@@ -57,3 +57,4 @@ Random-effect meta-analysis pooling all 31 included studies simultaneously (pool
 - [School physical activity interventions did not significantly improve language, reading, or composite academic scores compared with controls](pa-interventions-no-effect-language-reading-composite.md) — reports the opposite
 - [Effects of school-based physical activity on academic performance are not uniform and appear higher for mathematics skills](pa-academic-effects-nonuniform-math-favored.md) — related
 - [School-based physical activity programs significantly improve mathematics achievement in children and adolescents (SMD = 0.11)](school-based-physical-activity-improves-mathematics-achievement.md) — a narrower finding that bears on this claim
+- [In-classroom physical activity breaks show no significant effect on primary school children's reading performance](icpab-no-effect-reading.md) — reports the opposite

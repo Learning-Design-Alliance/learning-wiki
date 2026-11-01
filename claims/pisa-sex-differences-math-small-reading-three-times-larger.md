@@ -107,3 +107,4 @@ Same PISA secondary analysis, Results section. The article reports the average r
 - [Gender differences in mathematics and science achievement are negligible among top-performing math students, while female students show better reading achievement](achievement-gaps-top5-math-negligible-reading-female.md) — related
 - [Among top-performing math students, male students show strongly math-oriented math–reading achievement profiles whereas female students' profiles are more balanced](math-reading-profile-gender-tilt-top5.md) — related
 - [Measured by arithmetic mean or refined median, the Point Scale sex difference is slight relative to its probable error](mean-median-sex-difference-slight-versus-pe.md) — related
+- [Low iron stores were associated with worse school performance in girls but not boys, with sex-specific patterns in reading outcomes](iron-stores-school-performance-sex-differences.md) — related

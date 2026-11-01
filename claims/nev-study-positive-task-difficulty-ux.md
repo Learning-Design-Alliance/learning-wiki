@@ -50,3 +50,4 @@ Preregistered qualitative study: 14 participants (3 female, 11 male) in semi-str
 - [UEQ-S user-experience ratings were positive across tasks except one hedonic item on Task 1, with pragmatic qualities rated higher than hedonic](nev-ueq-positive-except-task1-hedonic.md) — related
 - [Participants with higher subject expertise completed tasks and used the tools more easily than less experienced participants](nev-expertise-eases-task-completion.md) — related
 - [Traditional teaching was rated easier, more efficient, and clearer, while iVR was rated more inventive and leading-edge](traditional-rated-easier-ivr-more-inventive.md) — related
+- [Perceived usefulness and realism are the most common UX dimensions assessed, with less experienced users rating usefulness more positively](ux-usefulness-realism-dominant-dimensions.md) — related

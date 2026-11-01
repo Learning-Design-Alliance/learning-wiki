@@ -55,3 +55,5 @@ A pragmatic randomized controlled trial with 84 second-year nursing students (42
 - [VR clinical simulation produced higher anxiety than face-to-face manikin simulation in maternal-newborn nursing](vr-simulation-higher-anxiety-than-face-to-face.md) — reports the opposite
 - [VR simulation of orthodontic treatment produced higher student engagement and learning satisfaction than PowerPoint analysis](vr-higher-engagement-than-powerpoint-orthodontics.md) — related
 - [VR teaching outperforms traditional teaching on secondary outcomes including course participation, learning efficiency, and shorter train time](vr-secondary-outcomes-favor-vr.md) — related
+- [Across the review's randomised controlled trials, e-learning showed no significant differences in knowledge mastery versus controls, but greater short-term learner satisfaction](rcts-no-knowledge-difference-higher-satisfaction.md) — related
+- [A biofeedback-based stress monitoring tool significantly reduced surgeons' mean stress scores in a randomized controlled trial](stress-feedback-tool-reduced-stress-rct.md) — related

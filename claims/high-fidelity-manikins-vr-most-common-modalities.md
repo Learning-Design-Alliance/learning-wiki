@@ -56,3 +56,4 @@ The review's synthesis of Table 3 modality data across the 30 included studies. 
 - [VR clinical simulation produced higher anxiety than face-to-face manikin simulation in maternal-newborn nursing](vr-simulation-higher-anxiety-than-face-to-face.md) — related
 - [Korean simulation-based IPE employed role-playing, standardized patients (including holographic), and high-fidelity simulators, with no single method dominant](korean-sim-ipe-methods-role-play-standardized-high-fidelity.md) — related
 - [LMIC SBE most commonly uses low-technology modalities, chiefly mannequins, scenario-based simulation, and synthetic part-task trainers](lmic-sbe-low-technology-modalities-prevalent.md) — reports the opposite
+- [Since 2017, enhancing technologies such as simulation/VR, scenario-based learning, and gamification were effective for knowledge and behavior-related outcomes](enhancing-technologies-effective-knowledge-behavior.md) — related

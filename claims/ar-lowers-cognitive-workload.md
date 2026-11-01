@@ -72,3 +72,4 @@ Crossover RCT (n=60 laparoscopic novices) using iSurgeon AR telestration versus 
 - [Real-time augmented reality speed overlays nearly doubled novice instrument velocity in bimanual carrying, with gains retained at two weeks](ar-speed-overlay-instrument-velocity-retention.md) — related
 - [AR-assisted training improves GOALS Global scores in novice laparoscopic learners](ar-training-improves-goals-global-laparoscopic.md) — related
 - [AR-assisted training reduces subjective workload (NASA-TLX) in novice learners](ar-training-reduces-subjective-workload.md) — related
+- [Robotic surgical systems reduced mental workload and perceived stress relative to laparoscopic systems in reviewed studies](robotic-systems-reduce-mental-workload-vs-laparoscopic.md) — related

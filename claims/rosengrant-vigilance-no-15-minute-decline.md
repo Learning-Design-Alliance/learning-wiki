@@ -71,3 +71,4 @@ Minute-by-minute plotting of on-task behavior over whole sessions in the same Ro
 - [University students' visual engagement in real lectures is higher than practitioners often expect and can remain high despite fluctuations](student-engagement-higher-than-expected-real-lectures.md) — possibly the same claim (merge candidate)
 - [Analyzing fluctuation of engagement over time rather than averaging on-task and off-task instances across a lecture provides novel insights into student behavior](engagement-fluctuation-over-averaging.md) — related
 - [Lecturer visibility has a positive effect on reported attention in weblectures when watching lasts more than 15 minutes](lecturer-visibility-positive-effect-reported-attention-weblectures-over-15-minutes.md) — related
+- [A 10-minute run break midway through a lecture improves objectively measured visual attention in university students](cmb-run-improves-visual-attention.md) — related

@@ -80,3 +80,4 @@ Inter-rater reliability analysis of the three instructors' independent blind gra
 - [Rubrics enhance grading consistency and inter-rater reliability in dental education assessment](rubrics-enhance-grading-consistency-dental-education.md) — related
 - [Examiner training and standardization are the most recommended solutions, and structured/mock formats show improved inter-rater reliability (kappa > 0.70)](training-standardization-solutions.md) — related
 - [Inter-rater reliability of the ANTS system reached substantial agreement in most raters that reported it](ants-inter-rater-reliability-substantial.md) — related
+- [Structured viva shows significant inter-rater reliability between examiner pairs (r = 0.78 to 0.91) and high inter-rater agreement (86.7%)](structured-viva-inter-rater-reliability-significant.md) — related

@@ -51,3 +51,4 @@ Bayesian network meta-analysis of method satisfaction degree reported in 2 studi
 - [For clinical thinking capacity in TACE teaching, PBL combined with CBL ranked best, followed by CBL alone](pbl-cbl-best-clinical-thinking-capacity-tace.md) — related
 - [For learning interest and learning efficiency in TACE teaching, PBL combined with TBL ranked best, followed by PBL combined with CBL](pbl-tbl-best-learning-interest-efficiency-tace.md) — related
 - [For practical skills examination scores in TACE teaching, PBL combined with TBL ranked best, followed by PBL alone](pbl-tbl-best-practical-skills-scores-tace.md) — related
+- [Students were generally satisfied with the PBL approach across the included studies](pbl-medical-psychology-student-satisfaction.md) — related

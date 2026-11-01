@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-01
 sources:
   - id: shakir-t-2026
     resource: "https://doi.org/10.1007/s11701-026-03633-w"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a randomised crossover study reported by the review, novice surgical trainees receiving adjunctive interactive VR classroom training achieved significantly higher R-OSATS scores than those undertaking self-directed Fundamentals of Robotic Surgery learning alone. [→ Shakir T 2026](#shakir-t-2026)
@@ -53,3 +54,5 @@ The review reports a randomised crossover study of 11 novice surgical trainees a
 - [OSATS was the most frequently used technical-skills assessment tool, but many OSATS variations were used without validity evidence](osats-most-common-ts-tool-variations-lack-validity.md) — related
 - [Surgical performance improvement after virtual reality simulator training is limited to novice and intermediate trainees, not experienced or expert surgeons](vrs-performance-gains-novice-intermediate-only.md) — related
 - [Virtual reality simulation training is associated with safer cataract surgery outcomes than supervised surgical training on actual patients alone](vrs-safer-than-supervised-cataract-training.md) — related
+- [Simulation-based training significantly improves surgical trainees' time to completion, technical errors, skills scores and theoretical knowledge in heart valve surgery](sbt-improves-valve-surgery-trainee-outcomes.md) — related
+- [In a randomised crossover trial, simulation training produced a 22% absolute increase in scores for assessing critically unwell patients versus didactic lectures](simulation-crossover-22-percent-increase-critically-unwell.md) — related

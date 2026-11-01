@@ -18,7 +18,7 @@ sources:
 # Mastery Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (10 for, 11 mixed, 3 against) · 24 studies (6 review, 5 causal, 5 quant-synthesis, 5 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 5 of 24 report an effect size · 20 claims rest on one study
+> **Evidence** · 25 claims (11 for, 11 mixed, 3 against) · 25 studies (6 quant-synthesis, 6 review, 5 causal, 5 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 5 of 25 report an effect size · 21 claims rest on one study
 
 ## Conditional relationship
 
@@ -105,6 +105,7 @@ Unit-check success, course-examination performance, delayed retention, transfer 
 - [Self-paced mastery programs (PSI) reduce college course completion, though not by enough to explain their examination advantage](../claims/self-paced-mastery-programs-reduce-college-course-completion.md) [-M]
 - [A feedback loop between rapid guessing and the mastery-criteria algorithm drove rapid guessing to nearly half of all attempts on some knowledge components, blocking mastery](../claims/rapid-guessing-mastery-feedback-loop.md) [-W]
 - [Surgical societies outlined RAS curricula featuring proficiency-based progression, modular intraoperative training, and objective assessment.](../claims/surgical-societies-ras-curricula-proficiency-modular-objective.md) [+W]
+- [Completion of a dVSS proficiency-based curriculum was associated with significant improvement in RO-SCORE across all domains and significant reduction in NASA-TLX workload](../claims/gerull-curriculum-improved-roscore-reduced-workload.md) [+W]
 
 ## Related Principles
 - [Formative Assessment](formative-assessment.md)

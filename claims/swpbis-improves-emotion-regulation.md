@@ -60,3 +60,4 @@ Multilevel HLM in the 4-year group RCT showed children in the intervention schoo
 - [SWPBIS reduces the rate of increase in teacher-reported peer rejection over elementary school](swpbis-reduces-growth-peer-rejection.md) — related
 - [SWPBIS effects on discipline referrals and school services tended to be greatest among children rated at-risk or high-risk at baseline](swpbis-effects-greatest-at-risk-high-risk-children.md) — related
 - [Socially-emotionally skilled children in SWPBIS schools were less often held back a grade than skilled peers in comparison schools (1.8% vs 4.2%, d = -0.39)](swpbis-reduces-grade-retention-skilled.md) — related
+- [Interventions also produce a small pooled effect on academic emotion regulation itself (d = 0.14)](academic-emotion-intervention-pooled-effect-emotion.md) — related

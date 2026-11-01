@@ -52,3 +52,4 @@ The supplementary materials report, citing Posada-Quintero et al. (2018), a stud
 - [Students' monitoring frequency during the collaborative exam was significantly and positively correlated with their number of EDA peaks.](monitoring-frequency-correlates-eda-peaks.md) — related
 - [Improved post-task understanding, higher task difficulty ratings and higher physiological arousal predict better learning outcomes](arousal-and-task-perceptions-predict-learning-outcomes.md) — related
 - [Teacher-rated inhibition (BRIEF) does not correlate with stroop-based cognitive inhibition measures](brief-uncorrelated-stroop-inhibition.md) — related
+- [Hormone-based stress monitoring showed no statistically significant changes in several reviewed studies despite being the second most used physiological method](hormone-monitoring-null-changes-acute-stress.md) — related

@@ -60,3 +60,4 @@ Descriptive findings of the scoping review of 83 sources: 44 from North America,
 - [Most health diplomacy training initiatives originated in the United States, followed by Europe, South Asia, and the Middle East](health-diplomacy-training-global-north-dominance.md) — related
 - [Similar behavioural domains improved across diverse organisational cultures in North America, Europe, and Asia, suggesting core NTS constructs are portable and adaptable locally.](nts-constructs-portable-across-cultures.md) — related
 - More than half of the included records were published by authors in the United States, with no records originating from South American or African countries. — related
+- [No included study of school-based adolescent CPR training came from Africa, limiting evidence for resource-limited settings](no-african-studies-school-cpr-training-gap.md) — related

@@ -94,3 +94,5 @@ Within the same advantages synthesis, the review cites one reviewed study report
 - [Video is the dominant content delivery format in virtual laboratory studies, used in most included studies](video-dominant-content-delivery-virtual-labs.md) — related
 - [Across all modalities, training interventions improved either performance or safety outcomes](training-interventions-improve-performance-or-safety-across-modalities.md) — related
 - [The motivational advantage of VR-based learning over traditional methods narrows over time, suggesting a novelty effect](vr-motivation-novelty-effect.md) — related
+- [An augmented reality bracket navigation system enhanced bracket placement accuracy for novice orthodontists compared with a conventional method](ar-bracket-navigation-enhances-novice-placement-accuracy.md) — related
+- [VR instruction raises nursing students' academic satisfaction more than control teaching modalities (SMD = 1.14)](vr-raises-nursing-student-satisfaction.md) — a narrower finding that bears on this claim

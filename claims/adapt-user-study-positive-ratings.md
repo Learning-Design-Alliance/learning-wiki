@@ -49,3 +49,4 @@ Mixed-methods user study with 12 participants (7 male, 5 female; average 12.83 y
 - [Teachers rate AI-interaction training as useful and relevant and report positive adoption intentions](teachers-rate-ai-training-useful-positive-adoption.md) — related
 - [Teachers rate LearnLens positively across usability, relevance, and accuracy, with all nine Likert items averaging at least 4.1/5](learnlens-teacher-satisfaction-4-1-of-5.md) — related
 - [Teachers rated ChatGPT as effective for interdisciplinary integration, with 61% giving ratings of 4 or above](chatgpt-supports-interdisciplinary-integration-ratings.md) — related
+- [Perceived usefulness and realism are the most common UX dimensions assessed, with less experienced users rating usefulness more positively](ux-usefulness-realism-dominant-dimensions.md) — related

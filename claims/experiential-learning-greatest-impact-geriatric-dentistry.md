@@ -61,3 +61,4 @@ The review's cross-study synthesis of 10 teaching-and-learning-method studies ca
 - [Active methodologies show no definitive superiority over traditional teaching in undergraduate dentistry](no-definitive-superiority-active-methods-dentistry.md) — related
 - PBL is the most investigated active teaching methodology in undergraduate dentistry, followed by flipped classroom and gamification — related
 - [The review attributes implementation-strategies effectiveness to experiential, interactive, and patient-centered learning methods alongside traditional lectures](interactive-patient-centered-methods-attributed-effectiveness.md) — related
+- [Effective experiential learning interventions combine enjoyable practical activities with behaviour change techniques, theory, and short intense delivery](effective-experiential-learning-intervention-characteristics.md) — a narrower finding that bears on this claim

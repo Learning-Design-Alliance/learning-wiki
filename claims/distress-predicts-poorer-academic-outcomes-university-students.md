@@ -55,3 +55,5 @@ The scoping review's thematic synthesis of empirical studies (RQ3) reports this 
 - [The direct association between internet addiction and GPA-based academic performance is inconsistent across studies of health sciences students](ia-gpa-association-inconsistent.md) — related
 - [Reported prevalence of internet addiction among health sciences students varies widely across studies, from 6% to 84%](ia-prevalence-heterogeneity-health-sciences-students.md) — related
 - [Stress, anxiety, and depressive symptoms show predominantly negative associations with academic performance in medical students](stress-anxiety-depression-negative-association-medical-students.md) — a narrower finding that bears on this claim
+- [Lower academic achievement is associated with higher odds of mental distress among Ethiopian university students](mental-distress-associated-lower-gpa-ethiopia.md) — related
+- [Stress shows inconsistent relationships with academic performance in rehabilitation science students](stress-inconsistent-relationship-academic-performance.md) — related

@@ -69,3 +69,4 @@ Session 2 individual-level classification: 70.9% of the training group were corr
 ## Related Claims
 - [A second training session two days later further increases reasoning accuracy beyond the first session, though less strongly](second-training-session-further-boosts-accuracy.md) — related
 - [A single debiasing training session significantly increases both intuitive and deliberate accuracy on classic reasoning tasks compared to control](single-session-debiasing-boosts-intuitive-accuracy.md) — related
+- [UP improvement over repeated XR sessions is greater and faster for ventriculostomy than for tumor resection](procedure-variability-moderates-xr-learning-gains.md) — related

@@ -46,6 +46,7 @@ The brief recommends "incorporating short breaks like drawing, listening to musi
 - [Classroom Movement Breaks](classroom-movement-breaks.md)
 - [Playground Pickup Sports and Jam Sessions](playground-pickup_sports_and_jam_sessions.md)
 - [Music and Emotions](music_and_emotions.md)
+- [University educators can introduce classroom movement breaks or physically active learning into classes to improve student health and wellbeing](introduce-cmb-pal-university-classes.md)
 
 ## Examples
 -

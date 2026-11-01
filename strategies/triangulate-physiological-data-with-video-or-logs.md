@@ -50,6 +50,7 @@ The article recommends combining physiological sensors with other data sources t
 - [Employ multimodal methods to capture the multifaceted feedback process](multimodal-methods-feedback-process.md)
 - [Use unobtrusive AI facial expression recognition alongside qualitative interaction coding to study emotion regulation in collaborative learning](fer-alongside-qualitative-coding-for-ssrl-research.md)
 - [Use simultaneous high-arousal episodes to locate emotionally relevant moments in collaborative learning](track-high-arousal-critical-moments.md)
+- [Combine subjective and objective multimodal measurement (self-report, facial expression, physiological data) to capture academic emotions during learning](multimodal-academic-emotion-measurement.md)
 
 ## Examples
 -

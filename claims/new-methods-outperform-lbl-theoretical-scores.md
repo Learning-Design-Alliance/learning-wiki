@@ -66,3 +66,9 @@ In the theoretical-score NMA (72 studies, 4874 trainees), eight interventions ea
 - [PBL-CBL produces significantly higher theoretical knowledge scores than LBL in orthopedic education](pbl-cbl-higher-theoretical-scores-orthopedics.md) — a narrower finding that bears on this claim
 - [PBL-CBL outperforms LBL on subjective comprehensive competencies including self-learning, interest, efficiency, clinical thinking, teamwork, and communication](pbl-cbl-subjective-competencies-orthopedics.md) — related
 - [TBL produces significantly higher theoretical test scores than PBL in medical education (SMD = 0.37)](tbl-higher-theoretical-test-scores-than-pbl.md) — related
+- [CBL significantly increases comprehensive ability scores compared with LBL (SMD=2.91)](cbl-increases-comprehensive-ability-scores.md) — related
+- [PBL produces better clinical competence than LBL in surgical education (SMD = 0.81)](pbl-better-clinical-competence-than-lbl-surgery.md) — related
+- [PBL-based teaching yields higher knowledge scores than LBL in Chinese standardized residency training](pbl-higher-knowledge-scores-chinese-srt.md) — related
+- [PBL-based teaching yields higher practical-skills assessment scores than LBL in Chinese standardized residency training](pbl-higher-practical-skills-chinese-srt.md) — related
+- [PBL-based teaching yields higher total scores than LBL in Chinese standardized residency training](pbl-higher-total-scores-chinese-srt.md) — related
+- [PBL and LBL show no significant difference in theoretical knowledge in surgical education](pbl-lbl-no-difference-theoretical-knowledge-surgery.md) — related

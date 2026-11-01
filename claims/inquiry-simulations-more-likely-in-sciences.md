@@ -51,3 +51,4 @@ Chi-square analysis of the association between prospective teachers' fields of s
 - [Most prospective teachers produced dynamic simulations rather than tutoring scripts, with 46% adding inquiry-oriented exploration](most-prospective-teachers-produce-dynamic-simulations.md) — related
 - Study orientation is significantly associated with publication type: computer science/AI-oriented work is disseminated disproportionately through conference papers — related
 - [Disciplinary background is strongly associated with ChatGPT acceptance profile membership: STEM teachers concentrate in Technology Pioneers, non-STEM teachers in Environmental Observers and Resistant Skeptics](discipline-associates-with-acceptance-profile.md) — related
+- [Number of assessments shows no significant association with study outcomes, field of study, or number of SDL components](assessment-count-no-outcome-association.md) — related

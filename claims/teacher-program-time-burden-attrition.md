@@ -68,3 +68,4 @@ Attrition reported by 65 of the reviewed studies (73.86%). The authors note they
 - [Texas teacher attrition has exceeded the national average by about 25% over the past decade, reaching nearly 12% in 2021–22](texas-attrition-above-national-average.md) — related
 - [Structural and fiscal conditions—including grade-3 class-size incentive cliffs and declining enrollment—jeopardize the bilingual teacher pipeline and program sustainability](structural-fiscal-risks-bilingual-pipeline-sustainability.md) — related
 - [Texas teacher attrition exceeds the national average by over 50%, with about 12% of teachers exiting districts before the 2023–24 school year](texas-teacher-attrition-exceeds-national-average.md) — related
+- [ECHO session attendance is variable, higher among prescribers than non-prescribers, with time demands and clinic leadership support as reported barriers](echo-attendance-prescribers-barriers.md) — related

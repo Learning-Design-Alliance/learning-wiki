@@ -70,3 +70,6 @@ Meta-analysis of 16 RCTs (1,267 students, interns and residents) in neurology ed
 - [TBL significantly improves teamwork skills compared with PBL (SMD = 1.18)](tbl-improves-teamwork-skills-versus-pbl.md) — related
 - [Non-technical skill outcomes of TBL are mixed, with positive findings for communication, decision-making, self-study and emotional intelligence](tbl-non-technical-skills-mixed.md) — related
 - [Insufficient evidence exists to compare TBL with other active learning methods](tbl-vs-active-methods-insufficient-evidence.md) — related
+- [PBL teaching improves problem-solving, independent learning, teamwork, communication and clinical reasoning abilities more than traditional teaching in orthopaedics education](pbl-improves-process-abilities-orthopaedics.md) — related
+- [PBL-based teaching shows no significant advantage over LBL for self-directed learning, communication ability, or hands-on ability in Chinese standardized residency training](pbl-no-advantage-self-directed-communication-hands-on.md) — related
+- [Questionnaire surveys favor PBL over LBL for theoretical knowledge mastery, clinical diagnostic thinking, teamwork, problem solving, document consultation, learning interest, and learning efficiency](pbl-questionnaire-advantages-chinese-srt.md) — related

@@ -13,7 +13,7 @@ generated:
 # Classroom Space and Procedural Design
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 16 claims (9 for, 7 mixed) · 27 studies (8 review, 5 causal, 5 qualitative, 3 quant-synthesis, 3 associational, 3 theoretical), `q1`–`q4` · 4 of 27 report an effect size · 12 claims rest on one study
+> **Evidence** · 17 claims (10 for, 7 mixed) · 28 studies (9 review, 5 causal, 5 qualitative, 3 quant-synthesis, 3 associational, 3 theoretical), `q1`–`q4` · 4 of 28 report an effect size · 13 claims rest on one study
 
 ## Conditional relationship
 
@@ -141,6 +141,7 @@ Less disruption, more minutes on task, learners' sense of predictability and ach
 ## Claims
 
 - [Teachers promoted inclusive classroom environments by organizing time and space and fostering peer inclusion](../claims/inclusive-environment-time-space-peer-inclusion.md) [+W]
+- [Standing desks are associated with higher academic engagement in primary-school classrooms](../claims/standing-desks-higher-academic-engagement.md) [+W]
 
 ## Related Principles
 - [Scaffolding & Fading](scaffolding-and-fading.md) — the general principle behind moderate, calibrated structure that fades over time

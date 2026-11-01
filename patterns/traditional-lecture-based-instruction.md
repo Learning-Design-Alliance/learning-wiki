@@ -21,7 +21,7 @@ sources:
 # Traditional Lecture-Based Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 53 claims (13 for, 23 mixed, 17 against) · 54 studies (15 quant-synthesis, 14 review, 10 causal, 7 theoretical, 5 qualitative, 2 associational, 1 design), `q1`–`q4` · 9 of 54 report an effect size · 45 claims rest on one study
+> **Evidence** · 55 claims (14 for, 24 mixed, 17 against) · 56 studies (16 quant-synthesis, 15 review, 10 causal, 7 theoretical, 5 qualitative, 2 associational, 1 design), `q1`–`q4` · 10 of 56 report an effect size · 47 claims rest on one study
 
 ## Description and scope
 
@@ -175,6 +175,8 @@ This pattern is scoped to courses where a lecturer's explanation to a whole grou
 - [In the RCT, PBL students obtained significantly better final exam grades than LBL students, but the meta-analysis found no significant final-exam difference](../claims/pbl-final-exam-rct-vs-meta-analysis-discrepancy.md) [~W]
 - [TBL outperforms lecture-based learning on short-term cognitive outcomes such as theoretical exam performance](../claims/tbl-superior-lecture-short-term-cognitive.md) [-W]
 - [SBL is the highest-ranked strategy for medical students' satisfaction, significantly exceeding PBL and TBL as well as LBL](../claims/sbl-highest-ranked-student-satisfaction-nma.md) [-W]
+- [A one-hour web-based e-learning program was equally efficient as a one-hour traditional classroom lecture for USG-PVC training](../claims/elearning-equally-efficient-classroom-usg-pvc.md) [~W]
+- [PBL improves comprehensive question scores compared with LBL (pooled SMD 0.53)](../claims/pbl-comprehensive-question-scores-smd-053.md) [+W]
 
 ## Related Patterns
 - [Direct Instruction](direct-instruction.md) — the explain, model, guided-practice and hand-over policy; a lecture segment is its explanation step delivered to a large group

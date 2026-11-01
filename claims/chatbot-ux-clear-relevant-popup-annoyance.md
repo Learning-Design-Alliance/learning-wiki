@@ -74,3 +74,4 @@ Reflexive thematic analysis of non-user open-ended comments (Fig. 5): "Usability
 - [General-purpose LLMs show accuracy and reliability limits, including hallucinations and task-specific accuracy below perfect, making them risky as expert advice sources](llm-accuracy-hallucination-coaching-risk.md) — related
 - [Formative evaluation by staff and students rated the MOLH positively on usability, content, and engagement.](molh-formative-evaluation-positive-ratings.md) — related
 - [Designers' intents for interactive features cluster into two themes: attention-getting and engagement techniques](design-intent-attention-and-engagement.md) — related
+- [Usability evaluations of e-learning interventions in undergraduate clinical medicine uniformly reported positive feedback, with simple intuitive interactive design identified as key](elearning-usability-evaluations-all-positive.md) — related

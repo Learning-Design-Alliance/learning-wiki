@@ -104,3 +104,4 @@ The discussion cites Kalyuga et al. (1998), reported in the article as finding t
 - [Step-linked visual grounding externalizes spatial reasoning: synchronized diagrams that reveal auxiliary lines step by step reduce split-attention effort](step-linked-visualization-externalizes-reasoning.md) — related
 - [Redundancy effect: when one source of information is intelligible in isolation, physically integrating it with another source fails to help and eliminating the redundant source facilitates learning](redundancy-effect-elimination-of-redundant-text.md) — related
 - [An expertise reversal pattern: AR provides substantial benefits to novices with diminishing returns for experienced surgeons](ar-expertise-reversal-effect.md) — a narrower finding that bears on this claim
+- [Completion time detects training gains only in less experienced trainees, per the review's account of Kim et al.](completion-time-significant-only-less-experienced-trainees.md) — related

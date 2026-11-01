@@ -49,3 +49,5 @@ Narrative synthesis of the 12 reaction-level studies in the review; the review r
 - Of 4310 screened abstracts, 21 studies of PBL in PGME were included, spanning eight specialties and four Kirkpatrick outcome levels — a broader claim this one bears on
 - [Student preference for CBL, PBL or TBL over traditional teaching was reported in 15 of 22 studies (68.1%), but only two studies used a controlled comparison with lecture](preference-over-lecture-15-studies-only-two-controlled.md) — related
 - [TBL is associated with higher satisfaction, positive attitudes and motivation versus lecture, but preferences are mixed](tbl-feeling-of-learning-satisfaction-mixed.md) — related
+- [Most reviewed studies found active learning improved satisfaction and knowledge acquisition and was superior to traditional lectures](active-learning-superior-lectures-dental-classroom.md) — a broader claim this one bears on
+- [Student satisfaction favours traditional teaching over PBL methods (pooled MD -0.14), conflicting with the skills and knowledge findings](satisfaction-favours-traditional-teaching.md) — reports the opposite

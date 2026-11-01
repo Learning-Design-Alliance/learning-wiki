@@ -73,3 +73,5 @@ Theme 3 of the narrative synthesis, drawing on multiple RCTs and non-randomised 
 - [NTS training for emergency department professionals is associated with consistent pre- to post-training improvements in knowledge, teamwork attitudes, and self-confidence (low to moderate certainty).](nts-training-improves-ed-learning-outcomes.md) — related
 - [NTS training programs in ICUs are associated with improved teamwork, situational awareness, leadership and communication behaviors, with varying evidence certainty](nts-training-icu-improves-teamwork-behaviors.md) — related
 - [Peer tutoring benefits extend to the tutors themselves, including confidence, autonomy, leadership, teamwork, and empowerment](peer-tutor-role-benefits-to-tutors.md) — related
+- [Self-efficacy correlates with clinical performance in PT and SLP students but not OT students](self-efficacy-clinical-performance-pt-slp-not-ot.md) — related
+- [Non-randomized and pre/post-test studies broadly support simulation training benefits for attitudes, skills, knowledge and behaviors, though subject to natural learning effects](simulation-nonrct-ppt-narrative-support.md) — a broader claim this one bears on

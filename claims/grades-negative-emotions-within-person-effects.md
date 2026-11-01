@@ -77,3 +77,4 @@ Same RI-CLPM models: several paths did not reach significance. The article notes
 - [When enjoyment, boredom, and anxiety are modeled simultaneously, anxiety exerts the strongest predictive power for mathematics achievement](anxiety-strongest-predictor-when-emotions-modeled-together.md) — related
 - [Test performance predicts subsequent enjoyment, boredom, and anxiety in primary school students, but only anxiety relates reciprocally to performance](performance-predicts-subsequent-emotions.md) — related
 - [Negative affective reactions mediate the grades-to-emotional-engagement link but not the grades-to-behavioral-engagement link](negative-affect-mediation-emotional-only.md) — related
+- [Negative activating academic emotions (confusion, anxiety, anger) can positively affect learning in some observational and intervention contexts](negative-academic-emotions-sometimes-improve-learning.md) — reports the opposite

@@ -47,6 +47,7 @@ The review recommends alternatives to self-report questionnaires, which suffer f
 - [Use multimodal data and time-sensitive analyses to capture situational motivational processes](multimodal-data-time-sensitive-analyses-motivation.md)
 - [Use longitudinal designs combining experimental manipulation with alternating measurement of motivation and achievement to establish causal reciprocity](designs-for-causal-reciprocal-inference.md)
 - [Resolve jingle-jangle fallacies by merging jangle terms and differentiating jingle terms before integrating propositions](resolve-jingle-jangle-fallacies-before-integration.md)
+- [Combine subjective and objective multimodal measurement (self-report, facial expression, physiological data) to capture academic emotions during learning](multimodal-academic-emotion-measurement.md)
 
 ## Examples
 -

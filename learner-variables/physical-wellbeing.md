@@ -13,7 +13,7 @@ generated:
 # Physical Well-Being
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 109 claims (75 show a difference, 23 mixed, 11 no difference) · 53 studies (19 causal, 13 review, 11 associational, 6 quant-synthesis, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 11 of 53 report an effect size · 105 claims rest on one study
+> **Evidence** · 110 claims (76 show a difference, 23 mixed, 11 no difference) · 54 studies (19 causal, 13 review, 11 associational, 7 quant-synthesis, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 12 of 54 report an effect size · 106 claims rest on one study
 
 ## Description
 Physical well-being covers a learner's overall physical health: nutrition, regular physical activity and fitness, and good sleep. The LVN's case for it is that the benefits reach beyond the body: learners in good health benefit in cognitive skills, focus and mood, which can support academic performance, and in the early years it frames the same idea as physical fitness, with regular exercise strengthening cognitive skills. Exercise is described as particularly helpful for learners with ADHD. Physical activity tends to fall during adolescence, and for adults, education can itself improve health as health literacy grows and learners become better able to advocate for their needs. Body mass index is the one measure the LVN lists. It overlaps with [sleep](sleep.md), which is one of its components, and with [attention](attention.md) and [executive function](executive-function.md), which are among the outcomes exercise is linked to.
@@ -146,6 +146,7 @@ Physical well-being covers a learner's overall physical health: nutrition, regul
 - [School-based physical activity significantly improves overall academic achievement (SMD = 0.22)](../claims/school-based-physical-activity-improves-overall-academic-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [A single bout of acute physical activity increases overall academic outcomes in school-aged youth (Hedge's g = 0.35)](../claims/acute-physical-activity-improves-overall-academic-outcomes.md) [+W] — learners who differ on it differ in outcomes
 - [Acute physical activity increases on-task classroom behavior, with off-task behavior patterns differing by time of day](../claims/acute-physical-activity-increases-on-task-behavior.md) [~M] — learners who differ on it differ in outcomes
+- [In-classroom physical activity breaks produce a large significant increase in primary school children's moderate-to-vigorous physical activity levels](../claims/icpab-increase-mvpa-primary-children.md) [+M] — instruction changes it
 
 ## Measures
 - **Body Mass Index (BMI)**: a measure of body fat calculated from height and weight.

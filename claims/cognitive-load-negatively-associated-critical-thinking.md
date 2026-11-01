@@ -54,3 +54,4 @@ Pearson correlations in the same 480-student survey. Critical thinking correlate
 - [Self-regulated learning and critical AI evaluation promote effective AI use](srl-and-critical-evaluation-promote-effective-ai-use.md) — related
 - [Cognitive offloading tendency is negatively associated with critical thinking, technical problem-solving, and metacognitive self-regulation](cognitive-offloading-negative-higher-order-outcomes.md) — related
 - [Self-regulated learning moderates the indirect effect of AI use on critical thinking through cognitive load](srl-moderates-indirect-ai-effect.md) — related
+- [Concept-based curriculum correlates with critical thinking, which predicts first-time NCLEX-RN pass probability (Harrison, 2018)](concept-based-curriculum-critical-thinking-predicts-nclex-pass.md) — related

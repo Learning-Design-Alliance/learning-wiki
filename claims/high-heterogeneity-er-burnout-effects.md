@@ -57,3 +57,4 @@ Heterogeneity assessment of all pooled ER–burnout associations using Q and I²
 - [Evidence for bilingual immunology teaching rests on few, mostly moderate-quality non-randomized studies with substantial heterogeneity](bilingual-immunology-evidence-base-limited-heterogeneous.md) — a narrower finding that bears on this claim
 - [Curriculum alignment with ICO guidelines is 65% overall, with inconsistent compliance (65%, I² = 99.2%)](ico-alignment-compliance-65-percent.md) — related
 - Included studies show high heterogeneity (I2 = 94.5%), addressed with random effects modelling and meta-regression — related
+- [Effect sizes across intervention studies are highly heterogeneous (I² = 85 for learning performance, I² = 69 for academic emotion)](academic-emotion-effect-heterogeneity-high.md) — related

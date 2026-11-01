@@ -51,3 +51,4 @@ The review's systematic search across five databases plus Trove and Google found
 - [Graduate nurses have little confidence in caring for people with dementia due to lack of knowledge and experience](graduate-nurses-low-confidence-dementia-care.md) — reports the opposite
 - Only six qualitative studies on graduate nurses caring for people living with dementia were identified — reports the opposite
 - [A docudrama helped graduate nurses gain empathy and understanding of families experiencing dementia](docudrama-built-graduate-nurse-empathy-dementia.md) — related
+- [The dementia care competency literature is limited on culturally sensitive care and absent on sub-populations such as young onset dementia](dementia-competency-literature-gaps-cultural-subpopulations.md) — related
