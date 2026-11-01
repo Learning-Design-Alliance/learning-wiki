@@ -45,6 +45,7 @@ The evaluation recommends that tuition delivered by external tutors be planned a
 ## Related Strategies
 
 - [Monitor tutor performance and conduct, with schools implementing their own oversight mechanisms, to secure pupil benefit](monitor-tutor-performance-mechanisms.md)
+- [Monitor tutor performance, increase consistency of tuition, and involve classroom teachers in planning and managing tuition](tutor-trust-consistency-and-teacher-involvement-strategy.md)
 
 ## Examples
 -

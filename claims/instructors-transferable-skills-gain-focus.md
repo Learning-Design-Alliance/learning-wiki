@@ -51,3 +51,4 @@ Study 1 findings on the gain question produced Global Theme 2, "Students develop
 - [Both groups see societal benefit in experiential learning, but instructors weight societal good more heavily than students, whose reflections center on personal fulfillment](societal-good-instructor-student-contrast.md) — related
 - [Students perceive that interacting with others in experiential learning fosters empathy and a sense of community by enhancing perspective-taking (beauty)](students-interaction-empathy-perspective-taking.md) — related
 - [Students perceive that applying knowledge gained through new meaningful experiences creates lasting personal growth (gain)](students-lasting-personal-growth-experiences.md) — related
+- [Treatment-group pupils were more likely to select professional occupations as aspirations and reported higher communication, empathy, self-confidence, resilience, and happiness after the intervention](cu-secondary-attitudinal-outcomes.md) — related

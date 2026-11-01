@@ -58,3 +58,4 @@ Quasi-experimental study comparing an experimental group receiving AI-supported 
 - [Open inquiry enhances students' scientific and thinking skills, including metacognitive and creative thinking](open-inquiry-scientific-thinking-skills.md) — related
 - [Senior secondary students taught with CRAIS achieved significantly higher mathematics posttest scores than students taught with modified conventional teaching strategy](crais-improves-mathematics-achievement-nigeria-ss2.md) — related
 - [Inquiry-based instruction produces higher argumentation skills than the subject matter approach in secondary agriscience students](inquiry-based-instruction-higher-argumentation-skills-agriscience.md) — related
+- [Students gave positive feedback on both non-conventional activities, reporting greater interest, understanding and proactivity](positive-student-feedback-interventions.md) — related

@@ -65,6 +65,7 @@ The strategy combines two well-supported mechanisms: retrieval practice from the
 - Immediate Feedback Assessment Technique (IF-AT) — scratch-card format delivering answer revelation within the quiz itself
 - Team-Based Learning — uses the same individual-then-team Readiness Assurance sequence as its backbone
 - [Use IRAT as an indicator of subsequent assessment performance and exam-condition practice in pharmacy calculations](irat-as-subsequent-assessment-indicator-strategy.md)
+- [Challenge the challenger: students create group quiz questions and challenge the opposing group to answer them](challenge-the-challenger-technique.md)
 
 ## Examples
 - **University of British Columbia / Carl Wieman Science Education Initiative** — two-stage midterm and final exams adopted across physics, chemistry, and biology courses; group stages typically worth 15–25% ([cwsei.ubc.ca](https://cwsei.ubc.ca)).

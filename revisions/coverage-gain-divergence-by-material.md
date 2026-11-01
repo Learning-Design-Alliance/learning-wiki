@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/coverage-gain-divergence-by-material.md
+---
+
+# Revision history: [claims/coverage-gain-divergence-by-material](../claims/coverage-gain-divergence-by-material.md)
+
+### 2026-11-01 · ingest · process:wiki-ingest
+Ingested from eric-ej1136612 (Evaluation of "Back to Basics" Mathematics Workbooks: A Randomised Control Trial of the Primary Mathematics Research Project) via eval_harness.py + ingest_extractions.py

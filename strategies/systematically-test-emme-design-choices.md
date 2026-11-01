@@ -41,7 +41,8 @@ The review's forward-looking recommendation is that "Future research should star
 - [Rationales for using EMME differ systematically by task domain: sports studies emphasize quiet-eye strategy, medical studies strategy plus attention guidance, and STEM studies more often social mechanisms](../claims/emme-domain-rationale-patterns.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Future research should identify student populations and contexts differentially affected by representational visuals in mathematics materials](identify-populations-differentially-affected-by-representational-visuals.md)
 
 ## Examples
 -

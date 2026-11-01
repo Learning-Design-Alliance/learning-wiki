@@ -50,3 +50,4 @@ Entry-behaviour check: t-test on pre-test SAQ scores for E (N = 37, mean 97.0811
 - [The only significant pairwise post-test difference in attitudes was between two e-learning-taught groups differing only in pre-test exposure, favouring the pre-tested group](pretest-presence-drove-attitude-difference.md) — related
 - [The conventionally taught pre-tested group and the e-learning-taught unpre-tested group did not differ significantly in post-test attitudes](c1-c2-posttest-no-difference.md) — related
 - [ANCOVA on post-test attitude scores with KCSE covariates found a statistically significant overall difference among the three groups](ancova-posttest-attitudes-significant.md) — related
+- [The two intervention groups were not homogeneous on the subjective-section pre-test, with 'challenge the challenger' scoring lower](subjective-pretest-non-equivalence.md) — related

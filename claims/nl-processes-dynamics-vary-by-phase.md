@@ -54,3 +54,4 @@ Authors' conclusion from the timeline analysis of the two NLCs, in which activit
 - [Think-aloud protocols reveal that self-regulated reading is dynamic across time, responsive to context, and varies by reading purpose](think-aloud-reveals-dynamic-self-regulated-reading.md) — related
 - [Learning is a process of development in which the beginner's mode of working constantly changes and cannot use expert methods](learning-is-developmental-beginner-methods-differ-from-experts.md) — a narrower finding that bears on this claim
 - [The reviewer argues that the dynamic character of appetites and desires must be considered in any thoroughgoing character-development plan](appetites-desires-character-development.md) — related
+- [Formative reflection led to dropping the group reciprocal-teaching stage from the EDI structure](edi-group-reciprocal-teaching-dropped.md) — related

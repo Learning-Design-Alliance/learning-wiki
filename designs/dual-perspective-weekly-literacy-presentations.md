@@ -42,8 +42,10 @@ Within each week of the literacy unit, the targeted topic was addressed in two p
 - [The study could not determine whether knowledge gains transferred to participants' classroom teaching](../claims/no-follow-through-classroom-transfer-unknown.md) [~W]
 
 ## Related Designs
+
 - [Six-week co-taught literacy unit embedded in special education methods courses](six-week-co-taught-literacy-unit.md) — the unit whose weekly presentations follow this structure
 - [Co-teach the literacy unit by combining mild and intense interventions methods courses](../strategies/co-teach-combined-methods-courses-literacy.md)
+- [Fourteen-week blended course structure pairing weekly sessions with peer-teaching practice and staged assignments](fourteen-week-peer-teaching-methods-course-structure.md)
 
 ## Examples
 -

@@ -47,3 +47,4 @@ Descriptive survey of the 33 EG participants using a modified 15-item Attitude/M
 ## Related Claims
 - [Humorous video clips improve Iranian undergraduate EFL learners' idiom achievement compared with conventional instruction without clips](humorous-video-clips-improve-efl-idiom-achievement.md) — related
 - [Experimental and control groups were homogeneous in idiom knowledge before treatment](idiom-drawing-groups-homogeneous-pretest.md) — related
+- [Experimental-group students expressed positive attitudes toward gamification, accepting the technique at a high level overall](positive-student-attitudes-toward-kahoot-gamification.md) — related

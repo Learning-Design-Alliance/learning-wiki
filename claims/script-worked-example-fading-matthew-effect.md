@@ -52,3 +52,4 @@ The editorial summarizes the third paper on post-secondary mathematics argumenta
 - [Self-regulation skills are particularly needed when learning with minimally structured or adaptable collaboration scripts in CSCL](self-regulation-needed-minimally-structured-adaptable-scripts.md) — a broader claim this one bears on
 - [In Experiment 1, self-regulation skills significantly predicted socio-discursive MAS only in the adaptable CSCL script condition](self-regulation-predicts-socio-discursive-mas-adaptable-script.md) — related
 - [In Experiment 1, the CSCL script condition significantly affected domain-specific MAS, with only the maximal script significantly outperforming the minimal script](maximal-cscl-script-outperformed-minimal-domain-specific-mas.md) — related
+- [Prior research indicates argumentative scripts improve argumentation skill development but not participation and interactivity](argumentative-scripts-improve-skills-not-participation.md) — related

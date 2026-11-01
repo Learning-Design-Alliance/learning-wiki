@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 290 claims (148 for, 125 mixed, 17 against) · 173 studies (75 review, 39 quant-synthesis, 33 causal, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 38 of 173 report an effect size · 285 claims rest on one study
+> **Evidence** · 293 claims (151 for, 125 mixed, 17 against) · 175 studies (75 review, 39 quant-synthesis, 35 causal, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 39 of 175 report an effect size · 288 claims rest on one study
 
 ## Conditional relationship
 
@@ -344,6 +344,9 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [Effect sizes are larger for high-fidelity simulation, medium-fidelity simulation, and standardized patients than for low-fidelity and hybrid simulation](../claims/fidelity-subgroup-hfs-mfs-sp-larger-than-lfs-hybrid.md) [~M] — attached 2026-11-01 from Kim Junghee et al. (2016), which proposed "Match the level of simulation fidelity to the educational goal rather than assuming higher fidelity is always better".
 - [For psychomotor outcomes, medium-fidelity simulation (1.76), standardized patients (1.27), and high-fidelity simulation (1.03) show the largest effect sizes](../claims/mfs-sp-hfs-largest-psychomotor-effect.md) [~M] — attached 2026-11-01 from Kim Junghee et al. (2016), which proposed "Match the level of simulation fidelity to the educational goal rather than assuming higher fidelity is always better".
 - [For cognitive outcomes, high-fidelity simulation shows the largest effect size (0.50)](../claims/hfs-largest-cognitive-outcome-effect.md) [~W] — attached 2026-11-01 from Kim Junghee et al. (2016), which proposed "Match the level of simulation fidelity to the educational goal rather than assuming higher fidelity is always better".
+- [ANCOVA on final test scores showed a significant difference favoring the simulation-based group, with a printed effect size of 0.90](../claims/ancova-final-test-simulation-advantage.md) [+W] — attached 2026-11-01 from Timur Koparan (2015), which proposed "Use simulation-based environments to teach experimental probability because visualizing variability improves inference skills"; tests this page's relationship.
+- [After simulation-based instruction, prospective teachers gave more flexible answers accounting for variability and revised incorrect probability ideas](../claims/simulation-post-variability-answers.md) [+W] — attached 2026-11-01 from Timur Koparan (2015), which proposed "Use simulation-based environments to teach experimental probability because visualizing variability improves inference skills".
+- [Seventh-graders taught the 'Systems of the Human Body' unit with the simulation method scored significantly higher on the post-test than peers taught by traditional lecture](../claims/simulation-method-higher-posttest-human-body-unit.md) [+W] — attached 2026-11-01 from Teke et al. (2015), which proposed "Use simulations to make science topics concrete and observable when live demonstration is impossible"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

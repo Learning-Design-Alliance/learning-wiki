@@ -57,3 +57,6 @@ Qualitative content analysis of semi-structured interviews with six experimental
 - [Open inquiry enhances students' science literacy and related skills such as environmental literacy, argumentation, autonomy and reflection](open-inquiry-science-literacy-skills.md) — related
 - [Open inquiry enhances students' scientific and thinking skills, including metacognitive and creative thinking](open-inquiry-scientific-thinking-skills.md) — related
 - [Inquiry-based instruction significantly improved pre-service science teachers' scientific process skills from pretest to post-test in a university biology laboratory](inquiry-instruction-improved-preservice-spst-pre-post.md) — related
+- [ADI-based laboratory instruction improves academic achievement in geometrical optics more than traditional laboratory instruction for pre-service science teachers](adi-lab-instruction-improves-optics-achievement.md) — related
+- [ADI-based laboratory instruction improves science process skills more than traditional laboratory instruction](adi-lab-instruction-improves-science-process-skills.md) — related
+- [Argumentation levels of ADI students rise by the end of treatment while control group levels stay unchanged](adi-raises-argumentation-levels-end-of-treatment.md) — related

@@ -53,3 +53,4 @@ Exploratory analysis: coded forum and wiki actions (coordination, monitoring, ma
 - [Optimal clustering of five-channel CPS sequences detected three types of collaborative patterns among graduate student groups](three-collaborative-pattern-types-cps.md) — related
 - [Collaborative dynamic-geometry problem solving relies on coordinating math-content and social/collaborative resources](oner-coordinated-math-social-resources.md) — related
 - [Sequence-alignment clusters of small-group action logs differ in productivity and balance of contribution, with the largest cluster showing the lowest word count and highest imbalance](sequence-alignment-clusters-differ-in-quality.md) — related
+- [Blackboard-based instruction is associated with more balanced participation than face-to-face discussion, where one or two participants tend to dominate](blackboard-more-balanced-participation-than-face-to-face.md) — related

@@ -43,7 +43,8 @@ The article recommends that researchers planning randomized trials first seek th
 - [General and fluid intelligence correlate strongly with mathematics achievement (r = .41 to .62), and the fluid-intelligence correlation is larger in older samples](../claims/intelligence-correlates-strongly-with-math-achievement.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Use the 1-year lag school-level science pretest as the covariate when planning science CRTs](use-school-level-science-pretest-covariate-strategy.md)
 
 ## Examples
 -

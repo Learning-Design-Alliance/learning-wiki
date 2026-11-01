@@ -53,3 +53,4 @@ Descriptive comparison of final-test means from the results section, with 31 res
 - [In a 16-week quasi-experiment, A-Level STEM students receiving high-frequency automated marking scored 16.8 percentage points higher on a blind-graded final mock exam than control students with human marking](automated-marking-16-point-mock-gain-a-level-stem.md) — related
 - [Studies report experiment classes using JAS achieve higher average study results than control classes](jas-experiment-class-higher-than-control.md) — related
 - [Conversational AI shows moderate effectiveness in elementary STEM (d=0.45-0.70 where reported), but only 34% of studies report standardized effect sizes](conversational-ai-moderate-effect-d-045-070.md) — related
+- [Post-test scores were more consistent (lower standard deviation) in the teaching-aids groups than in the control groups on both measures](teaching-aids-lower-post-test-variability.md) — related

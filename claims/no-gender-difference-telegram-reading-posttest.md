@@ -56,3 +56,4 @@ Independent-samples t-test on post-test scores of the male and female Telegram e
 - [Gender shows no significant difference in inferring word meanings between experimental and control groups](no-gender-difference-inferring-word-meanings.md) — related
 - [Gender shows no significant difference in reading comprehension achievement between experimental and control groups in the Ekiti quasi-experiment](no-gender-difference-reading-comprehension-ekiti.md) — related
 - [No significant gender difference in mathematics achievement within the performance-assessment experimental group](no-gender-gap-in-pa-experimental-group.md) — related
+- [Within the group learning treatment, female students achieved significantly higher mathematics post-test scores than male students](females-outperform-males-group-learning-math.md) — related

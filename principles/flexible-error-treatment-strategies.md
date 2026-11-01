@@ -31,7 +31,7 @@ sources:
 # Employ flexible error treatment strategies matched to objectives, competence, affect, and correction effectiveness
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 36 claims (16 for, 19 mixed, 1 against) · 28 studies (11 causal, 8 review, 3 theoretical, 2 quant-synthesis, 2 qualitative, 1 associational, 1 design), `q1`–`q3` · 4 of 28 report an effect size · 32 claims rest on one study
+> **Evidence** · 39 claims (18 for, 20 mixed, 1 against) · 29 studies (12 causal, 8 review, 3 theoretical, 2 quant-synthesis, 2 qualitative, 1 associational, 1 design), `q1`–`q3` · 4 of 29 report an effect size · 35 claims rest on one study
 
 ## Conditional relationship
 
@@ -144,6 +144,7 @@ Claims bearing on the page that have not been read against the model above; each
 - [Monitoring Improves Learnable Rule Accuracy](../claims/monitoring-improves-learnable-rule-accuracy.md) [+M]
 - [A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitive drill and grammar-focused instruction are ineffective for second language acquisition](../claims/drill-and-grammar-focus-ineffective-for-l2-acquisition.md) [+W]
 - [Purely meaning-focused activity without form-focused treatment did not lead learners to improve oral accuracy](../claims/meaning-focused-only-no-accuracy-gain.md) [+W] — attached 2026-11-01 from Farahman Farrokhi (2012), which proposed "Embed corrective feedback within communicative activities rather than relying on meaning-focused participation alone".
+- [Most students judge written corrective feedback alone insufficient and want accompanying metalinguistic explanation](../claims/wcf-alone-insufficient-need-metalinguistic-explanation.md) [+W] — attached 2026-11-01 from Ahmed Ali Saleh Al Ajmi (2015), which proposed "Provide direct, focused written corrective feedback supported by metalinguistic explanation when targeting specific linguistic error categories".
 
 ## Objective and learner-valued goal
 
@@ -161,6 +162,8 @@ Accuracy on the treated form straight after correction, accuracy at a delay, acc
 
 - [The politeness effect: learners learn better with polite instructions or feedback than with direct language forms](../claims/politeness-effect-polite-instructions-feedback.md) [~W]
 - [Most learners (85%) prefer to work through error correction on their own, with proficiency moderating help use](../claims/learners-prefer-own-error-correction-85-percent.md) [~W]
+- [Most Omani EFL students report receiving and preferring direct written corrective feedback over indirect](../claims/students-prefer-direct-wcf.md) [+W]
+- [Students overwhelmingly prefer focused written corrective feedback targeting specific errors at a time](../claims/students-prefer-focused-wcf.md) [~W]
 
 ## Related Principles
 

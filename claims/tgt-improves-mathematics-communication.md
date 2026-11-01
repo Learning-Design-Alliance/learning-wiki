@@ -92,3 +92,5 @@ Descriptive means from Table 6 for post-test 1 mathematics communication: experi
 - [Students in Cooperative TGT classrooms learned to socialise while learning mathematics and became more active learners](tgt-students-socialise-while-learning-mathematics.md) — related
 - [Grade VIII students taught mathematics with the TGT web-based game technique showed a significant pretest-to-posttest achievement gain over three weeks](tgt-significant-achievement-gain-grade-eight.md) — related
 - [The TGT experimental group significantly outperformed the lecture-based control group on the mathematics posttest](tgt-outperformed-lecture-posttest.md) — related
+- [Group learning produced significantly higher mathematics achievement than conventional teaching among rural grade-nine students after a 15-week intervention](group-learning-beats-conventional-math-rural-secondary.md) — related
+- [MANOVA with repeated measures showed significant main effects of test-time and a significant group-learning-by-test-time interaction on mathematics achievement](manova-group-learning-testtime-interaction-math.md) — related

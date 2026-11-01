@@ -13,7 +13,7 @@ generated:
 # Arithmetic Fact Retrieval
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 40 claims (23 show a difference, 8 mixed, 9 no difference) · 15 studies (9 associational, 6 causal), `q2`–`q3` · 5 of 15 report an effect size · 38 claims rest on one study
+> **Evidence** · 43 claims (26 show a difference, 8 mixed, 9 no difference) · 16 studies (9 associational, 7 causal), `q2`–`q3` · 6 of 16 report an effect size · 41 claims rest on one study
 
 ## Description
 Arithmetic fact retrieval is the ability to pull basic number combinations (3 + 4, 6 × 7) from long-term memory efficiently, accurately and flexibly, rather than working them out each time, so that they can be used inside larger calculations. It is usually assessed by having learners solve simple problems while their strategy is observed or self-reported (did they retrieve the answer or count it out?), and, for a fuller picture of accuracy, flexibility and efficiency, through interviews, observations and short untimed quizzes.
@@ -77,6 +77,9 @@ Facts are usually in place by the end of primary school, but the Learner Variabi
 - [Posttest accuracy scores did not differ significantly between the treatment and control groups](../claims/posttest-accuracy-no-group-difference.md) [-M] — instruction changes it
 - [The authors conclude that intentional practice with basic mathematics facts offers benefits regardless of the method used to rehearse](../claims/intentional-practice-any-method-benefits-fluency.md) [+W] — instruction changes it
 - [The control group improved significantly in completion speed from pretest to posttest while the treatment group showed no significant speed improvement](../claims/control-group-significant-speed-gain-treatment-not.md) [~M] — instruction changes it
+- [A ten-week Grade 3 multiplication facts intervention significantly increased the number of facts students attempted correctly on a fall Grade 4 inventory (d = 0.52)](../claims/facts-intervention-increased-attempted-correct.md) [+M] — instruction changes it
+- [The intervention significantly increased correct answers out of all possible facts on the fall Grade 4 inventory (d = 0.86)](../claims/facts-intervention-increased-possible-correct.md) [+M] — instruction changes it
+- [Treatment status correlated significantly with both inventory scores, with the treatment–possible-correct correlation at r = .392](../claims/treatment-correlations-facts-scores.md) [+M] — instruction changes it
 
 ## Measures
 - **Open-ended formats** (Kling & Bay-William, 2014): Using a range of measures including student interviews, observations, writing prompts, and short, untimed quizzes around solving simple arithmetic problems can help capture students' accuracy, flexibility, and efficiency which are core components of Arithmetic Fact Retrieval.

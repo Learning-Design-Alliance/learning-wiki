@@ -25,7 +25,8 @@ Microsoft Teams is Microsoft's collaboration and communication platform for chat
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Blackboard Collaborate](blackboard-collaborate.md)
 
 ## Key Sources
 - Tsai Chia-Wen, Lin Michael Yu-Ching, Cheng Yih-Ping, Lee Lan-Yu, Chyr Wen-Li, Lin Chih-Hsien, Lin Jian-Wei, Tsai Meng-Chuan. (2023). The effects of online peer-facilitated learning and distributed pair programming on students’ learning. Computers & Education, 203, 104849. https://doi.org/10.1016/j.compedu.2023.104849

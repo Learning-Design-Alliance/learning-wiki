@@ -55,3 +55,4 @@ Two-way ANCOVA on post-test complex systems explanatory knowledge with treatment
 - [Both one-model and two-model productive failure groups significantly improved weather and climate declarative knowledge, with no difference between conditions](pf-climate-declarative-knowledge-gains-no-condition-effect.md) — related
 - [Both treatment groups significantly improved climate explanatory knowledge, with no reliable condition or teacher-expertise differences](pf-climate-explanatory-knowledge-gains-spurious-interaction.md) — reports the opposite
 - [Both treatment groups significantly improved complex systems explanatory knowledge, and students taught by the content-expert teacher learned more than those taught by less expert teachers](pf-complex-systems-knowledge-teacher-expertise-effect.md) — related
+- [EDI qualitatively outperformed DI on MMA normalized gain, though both groups' gains were in the low category](edi-mma-gain-outperforms-di.md) — related

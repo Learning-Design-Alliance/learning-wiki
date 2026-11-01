@@ -46,7 +46,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 116 claims (71 for, 44 mixed, 1 against) · 104 studies (29 review, 26 causal, 12 associational, 12 theoretical, 10 qualitative, 9 quant-synthesis, 6 design), `q1`–`q4` · 14 of 104 report an effect size · 102 claims rest on one study
+> **Evidence** · 117 claims (72 for, 44 mixed, 1 against) · 105 studies (29 review, 27 causal, 12 associational, 12 theoretical, 10 qualitative, 9 quant-synthesis, 6 design), `q1`–`q4` · 14 of 105 report an effect size · 103 claims rest on one study
 
 ## Conditional relationship
 
@@ -209,6 +209,7 @@ Read 2026-10-19 and left here because they do not change the model. Claims attac
 - [UV dosage shows a nonmonotonic pattern: one or three UV essays outperform two for grades and continuation](../claims/uv-dosage-one-or-three-doses-effective.md) [+W] — attached 2026-10-24 from Canning et al. (2018), which proposed "Time utility-value writing assignments to students' performance history: early for struggling students, late for high performers, with full dosage for the broadest benefit"; tests this page's relationship.
 - [A UV essay in the final unit of the course promotes enrollment in the second biology course, especially for high-performing students](../claims/uv-third-essay-promotes-continuation-for-high-performers.md) [+W] — attached 2026-10-24 from Canning et al. (2018), which proposed "Time utility-value writing assignments to students' performance history: early for struggling students, late for high performers, with full dosage for the broadest benefit"; tests this page's relationship.
 - [Expecting a grade for a task increases students' pretask performance-avoidance goals compared with no grade](../claims/grade-expectation-increases-performance-avoidance-goals.md) [+W] — attached 2026-10-25 from Pulfrey et al. (2011), which proposed "Use comment-only formative feedback rather than grades when the aim is to avoid fostering performance-avoidance goals"; tests this page's relationship.
+- [The direct ARIAS learning strategy improves students’ motivation, with most students reaching the high or very high categories after learning](../claims/direct-arias-improves-motivation.md) [+W] — attached 2026-11-01 from Mustami et al. (2018), which proposed "ARIAS strategy: assurance, relevance, interest, assessment, and satisfaction components woven into lesson design".
 
 ## Objective and learner-valued goal
 

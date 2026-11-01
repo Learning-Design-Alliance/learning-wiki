@@ -27,7 +27,7 @@ sources:
 # Scaffolding
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 91 claims (27 for, 53 mixed, 11 against) · 65 studies (32 causal, 11 review, 6 quant-synthesis, 6 design, 5 theoretical, 3 associational, 2 qualitative), `q1`–`q4` · 19 of 65 report an effect size · 84 claims rest on one study
+> **Evidence** · 92 claims (28 for, 53 mixed, 11 against) · 66 studies (33 causal, 11 review, 6 quant-synthesis, 6 design, 5 theoretical, 3 associational, 2 qualitative), `q1`–`q4` · 20 of 66 report an effect size · 85 claims rest on one study
 
 ## Conditional relationship
 
@@ -140,6 +140,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Scaffolded student teachers were more effective in searching for information for their presentation, while the unscaffolded group had difficulties finding relevant information](../claims/scaffolding-improves-information-seeking-in-collaborative-inquiry.md) [+W] — attached 2026-11-01 from Sirpa Kärkkäinen et al. (2014), which proposed "Structure collaborative inquiry tasks with templates so scaffolding supports intensive work and sense making"; tests this page's relationship.
 - [The scaffolded group gave more argumentation concerning flu treatment and prevention suggestions in the Decision-making Stage](../claims/structuring-supports-argumentation-decision-making-stage.md) [+W] — attached 2026-11-01 from Sirpa Kärkkäinen et al. (2014), which proposed "Structure collaborative inquiry tasks with templates so scaffolding supports intensive work and sense making"; tests this page's relationship.
 - [Media scaffolding increases fifth-grade students' understanding of geometry concepts more effectively than no media scaffolding](../claims/media-scaffolding-effective-geometry-concepts.md) [+W] — attached 2026-11-01 from Sutiarso et al. (2018), which proposed "Teachers should prepare a variety of media scaffolding, attending to students' ability level and gender"; tests this page's relationship.
+- [Teacher guidance integrating argumentative scripts produces deeper whole-class collaborative argumentation than minimal teacher guidance in middle level science classrooms](../claims/argumentative-scripts-teacher-guidance-deepen-collaborative-argumentation.md) [+W] — attached 2026-11-01 from Hsu et al. (2015), which proposed "Use extended teacher guidance rather than minimal guidance to lead middle level students in high-level cognitive tasks in large-class settings"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

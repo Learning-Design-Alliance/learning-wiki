@@ -46,6 +46,7 @@ During the Discovery Phase, teams use surveys for "initial, broad representation
 - [Implementation-phase supports: staff engagement, communication and action plans, thought partnership, and self-assessment rubrics](implementation-phase-supports.md)
 - [Future SSSC evaluation work: collect data from directors, gather detailed activity data, and interview policymakers and practitioners to develop impact measures](sssc-future-evaluation-data-collection-strategy.md)
 - [Use the Ecology of Resources framework as a design tool for context mapping in underserved settings](ecology-resources-context-mapping-design.md)
+- [Use social network analysis to identify influential staff as Evidence Champions](social-network-analysis-evidence-champion-selection.md)
 
 ## Examples
 -

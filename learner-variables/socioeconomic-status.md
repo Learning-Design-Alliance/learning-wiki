@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 186 claims (112 show a difference, 46 mixed, 28 no difference) · 139 studies (74 associational, 32 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 18 of 139 report an effect size · 185 claims rest on one study
+> **Evidence** · 191 claims (113 show a difference, 47 mixed, 31 no difference) · 144 studies (74 associational, 37 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 19 of 144 report an effect size · 190 claims rest on one study
 
 ## How to read this page
 
@@ -271,6 +271,11 @@ A learner's economic and social position: family income or poverty (often measur
 - [Pupils receiving Tutor Trust tuition made marginally less progress in English and mathematics than matched comparison pupils, with differences not statistically significant](../claims/tutor-trust-primary-no-significant-attainment-effect.md) [-W] — an instructional effect differs by group
 - [The trial found a statistically significant negative literacy impact for FSM-eligible pupils, treated with caution](../claims/pbl-negative-fsm-literacy-impact.md) [+W] — an instructional effect differs by group
 - [The TextNow programme showed a differential effect by free school meal eligibility: a small non-significant positive effect for FSM-eligible pupils and a significant negative effect for non-FSM pupils](../claims/textnow-fsm-differential-effect.md) [~M] — an instructional effect differs by group
+- [EverFSM pupils in Children's University schools made 1 additional month's progress in maths, no additional progress in reading, and small gains in teamwork and social responsibility](../claims/cu-everfsm-subgroup-outcomes.md) [~M] — an instructional effect differs by group
+- [FSM-eligible pupils made around five additional months' progress under TDTS (effect size +0.38), though this finding has lower security](../claims/tdts-fsm-pupils-five-months-progress.md) [+W] — an instructional effect differs by group
+- [RLC showed no differential impact for pupils eligible for free school meals](../claims/rlc-no-differential-fsm-impact.md) [-M] — an instructional effect differs by group
+- [The intervention showed no evidence of differentially benefiting pupils eligible for free school meals in any of the schools](../claims/shine-secondaries-fsm-subgroup-no-differential-benefit.md) [-M] — an instructional effect differs by group
+- [The VEFP showed no statistically significant impact on reading for pupils eligible for free school meals](../claims/vefp-fsm-subgroup-null-reading.md) [-M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

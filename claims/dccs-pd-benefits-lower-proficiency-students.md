@@ -3,6 +3,7 @@ type: claim
 title: "Students with lower initial English proficiency benefited most from their teachers' participation in the DCCS program, while students above the 5th percentile showed no differential benefit"
 description: "Students with lower initial English proficiency benefited most from their teachers' participation in the DCCS program, while students above the 5th percentile showed no differential benefit"
 id: dccs-pd-benefits-lower-proficiency-students
+aliases: [dccs-pd-benefits-lower-proficiency-els-pilot]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -27,9 +28,14 @@ sources:
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
+
 `q3 i2` Students with minimal pretest proficiency showed significantly greater progress than control students on Story Recall (g = 0.24), Letter-Word Identification (g = 0.58), and Dictation (g = 0.34). [→ Leslie M. Babinski 2018](#leslie-m-babinski-2018)
 `q3 i1` Intervention students with no pretest proficiency made significantly greater gains than control students on Understanding Directions (g = 0.20). [→ Leslie M. Babinski 2018](#leslie-m-babinski-2018)
 `q3 i?` No differential effect of the program was found for students in the some-proficiency group on any subtest. [→ Leslie M. Babinski 2018](#leslie-m-babinski-2018)
+
+`q3 i2` Minimal-proficiency intervention students showed significantly greater growth on Story Recall, Letter-Word Identification, and Dictation than control students. [→ Leslie M. Babinski 2018](#leslie-m-babinski-2018)
+
+`q3 i?` Students in the some-proficiency group (standard score above 75) showed no differential effect on any subtest. [→ Leslie M. Babinski 2018](#leslie-m-babinski-2018)
 
 ## Evidence
 
@@ -43,7 +49,20 @@ Exploratory multiple-group path analyses grouping students by pretest English pr
 
 > "We found that students in the intervention group with minimal pretest proficiency on the Story Recall subtest showed significantly greater progress than did students in the control group (adjustedM = 15.9 vs. 9.1; Mdiff = 7.8, 95% CI [5.0, 10.7], p \.001, Hedge'sg = 0.24)."
 
+<!-- merged 2026-11-01 from dccs-pd-benefits-lower-proficiency-els-pilot: that page's entry for this study, which differed from the one above, kept verbatim.
+### Leslie M. Babinski 2018
+
+Leslie M. Babinski, Steven J. Amendum, Steven E. Knotek, Marta Sánchez, Patrick Malone. (2018). Improving Young English Learners’ Language and Literacy Skills Through Teacher Professional Development: A Randomized Controlled Trial. American Educational Research Journal. https://doi.org/10.3102/0002831217732335
+
+`q3 · i2`
+
+Exploratory multiple-group path analyses grouping students by pretest proficiency on each subtest. Minimal-proficiency students also gained on Letter-Word Identification (g = 0.58, p = .030) and Dictation (g = 0.34, p = .034); no-proficiency students gained on Understanding Directions (g = 0.20, p = .014).
+
+> "We found that students in the intervention group with minimal pretest proficiency on the Story Recall subtest showed significantly greater progress than did students in the control group (adjustedM = 15.9 vs. 9.1; Mdiff = 7.8, 95% CI [5.0, 10.7], p \.001, Hedge’sg = 0.24)."
+-->
+
 ## Discussion
+
 
 
 ## Related Claims

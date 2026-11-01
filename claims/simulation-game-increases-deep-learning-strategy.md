@@ -52,3 +52,4 @@ ANCOVA of 53 students (29 game, 24 no-game) with post-game deep-learning strateg
 - [The simulation game group felt significantly less competent than the no-game group, with no significant differences in interest or effort](simulation-game-lowers-competence-no-interest-effort-effect.md) — related
 - [Pre-game competence interacts with learning condition in predicting post-game competence](pre-game-competence-condition-interaction.md) — related
 - [During the game, most students reported exerting effort, but fewer than half reported feeling competent or interested, and most reported deeper study](post-game-perception-distributions.md) — related
+- [ANCOVA on final test scores showed a significant difference favoring the simulation-based group, with a printed effect size of 0.90](ancova-final-test-simulation-advantage.md) — related

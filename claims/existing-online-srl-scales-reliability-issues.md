@@ -59,3 +59,4 @@ The authors' review of Cronbach's alpha for relevant scales of existing online S
 - [Measurement of AHS in preservice teachers is heterogeneous and often relies on brief subscales of broader SRL questionnaires with variable reliability](ahs-measurement-heterogeneity-pst.md) — related
 - [The DIGISOC questionnaire shows acceptable validity and reliability, including CFA data and favorable Cronbach's alpha coefficients](digisoc-acceptable-validity-reliability.md) — related
 - [Psychometric studies of the AEQ report most constructs falling below the conventional Cronbach's alpha cutoff of 0.80](aeq-psychometric-validity-questionable.md) — related
+- [The attitude questionnaire showed high Cronbach's Alpha reliability in both groups](attitude-questionnaire-high-reliability-both-groups.md) — related

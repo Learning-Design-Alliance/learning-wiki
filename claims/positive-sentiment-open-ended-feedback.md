@@ -54,3 +54,4 @@ Sentiment analysis of open-ended survey responses conducted by ChatGPT4, which t
 - [Students engaged deeply with LLM feedback, with coded evidence of reflection, rebuttal, and acceptance in the large majority of responses](deep-engagement-llm-feedback-reflection-rebuttal-acceptance.md) — related
 - [Qualitative analysis found predominantly positive perceptions of iVR, with real-time feedback the most valued element and lack of realism the main concern](qualitative-ivr-perceptions-feedback-valued-realism-concern.md) — related
 - [AI assistance was typically positive in tone and of college-level reading difficulty](ai-assistance-positive-tone-college-reading-difficulty.md) — related
+- [Students and teachers expressed predominantly positive opinions about the guides and activities, with time pressure the main teacher criticism](positive-student-teacher-opinions-design.md) — related

@@ -58030,5 +58030,353 @@
  "technology-tool\tAI agents for motivational and affective support\tnot stated": {
   "label": "AI agents for motivational and affective support vs no stated comparison",
   "treatment_is_a": true
+ },
+ "active-learning\tLearning Together group learning\tconventional teaching": {
+  "label": "group learning vs conventional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tTDTS teacher training and approach\tbusiness-as-usual teaching": {
+  "label": "TDTS teacher training and approach vs business-as-usual teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tThink-pair-share instructional strategy\tConventional teacher-centered teaching": {
+  "label": "think-pair-share vs conventional teacher-centered teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tThinking, Doing, Talking Science\tbusiness-as-usual teaching": {
+  "label": "Thinking, Doing, Talking Science vs business-as-usual teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\targumentation-based Functions instruction\tpre-intervention AWS baseline": {
+  "label": "argumentation-based instruction vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\targumentation-based Functions instruction\ttraditional Functions instruction": {
+  "label": "argumentation-based instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\targumentation-based group activities\texperiment-group pretest": {
+  "label": "argumentation-based group activities vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\targumentation-based group activities\ttraditional lecturer-led teaching": {
+  "label": "argumentation-based instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\targumentation-based instruction\texperiment-group pretest": {
+  "label": "argumentation-based instruction vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "active-learning\targumentation-based instruction\ttraditional instruction": {
+  "label": "argumentation-based instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\targumentation-based instruction\ttraditional teaching": {
+  "label": "argumentation-based instruction vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tchallenge the challenger\tgroup quiz": {
+  "label": "challenge the challenger vs group quiz",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup learning\tconventional teaching": {
+  "label": "group learning vs conventional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup learning for male students\tconventional teaching for male students": {
+  "label": "group learning vs conventional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tproject-based learning\tconventional learning": {
+  "label": "project-based learning vs conventional learning",
+  "treatment_is_a": true
+ },
+ "active-learning\tthink-pair-share instruction\tconventional teacher-centered teaching": {
+  "label": "think-pair-share vs conventional teacher-centered teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tthink-pair-share instructional strategy\tconventional teacher-centered teaching": {
+  "label": "think-pair-share vs conventional teacher-centered teaching",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tDiscussion-strategy instruction and post type labels\tNeutral zero-effect midpoint on the survey scale": {
+  "label": "Explicit discussion-strategy instruction with post-type labels vs no strategy instruction or post-type labels",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tDiscussion-strategy instruction plus post type labels\tNeutral survey midpoint (zero)": {
+  "label": "Explicit discussion-strategy instruction with post-type labels vs no strategy instruction or post-type labels",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tDiscussion-strategy instruction plus post type labels in Section B\tNo strategy instruction or post type labels in Section A": {
+  "label": "Explicit discussion-strategy instruction with post-type labels vs no strategy instruction or post-type labels",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tDiscussion-strategy instruction plus post-type labels\tNo strategy instruction or post-type labels": {
+  "label": "Explicit discussion-strategy instruction with post-type labels vs no strategy instruction or post-type labels",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tEnhanced Direct Instruction (EDI)\tDirect Instruction (DI)": {
+  "label": "Enhanced direct instruction vs direct instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tEnhanced Direct Instruction integrating problem-solving and external representations\tDirect Instruction": {
+  "label": "Enhanced direct instruction vs direct instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tExplicit instruction in five discussion strategies plus post type labels\tNo strategy instruction or post type labels": {
+  "label": "Explicit discussion-strategy instruction with post-type labels vs no strategy instruction or post-type labels",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tPBI with explicit information\tPBI without explicit information": {
+  "label": "PBI with explicit information vs PBI without explicit information",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tPBI without explicit information\tPBI with explicit information": {
+  "label": "PBI with explicit information vs PBI without explicit information",
+  "treatment_is_a": false
+ },
+ "explicit-instruction\tPBI+EI\tPBI-EI": {
+  "label": "PBI with explicit information vs PBI without explicit information",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tPI with explicit information\tPI without explicit information": {
+  "label": "PI with explicit information vs PI without explicit information",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tPI+EI\tPI-EI": {
+  "label": "PI with explicit information vs PI without explicit information",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tPRIMR structured literacy instruction\tdelayed commencement control": {
+  "label": "PRIMR structured literacy instruction vs delayed commencement control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tPRIMR structured literacy lessons, materials, and teacher support\tdelayed-program control schools": {
+  "label": "PRIMR structured literacy instruction vs delayed commencement control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tSKILL narrative instruction\tbusiness-as-usual": {
+  "label": "SKILL narrative instruction vs business-as-usual",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tSKILL narrative intervention\tbusiness-as-usual control": {
+  "label": "SKILL narrative instruction vs business-as-usual",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tToTAL Haitian Creole and French curriculum, materials, and teacher support\tcontrol schools": {
+  "label": "ToTAL literacy curriculum with materials and teacher support vs control schools",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tToTAL Haitian Creole literacy curriculum\tcontrol schools": {
+  "label": "ToTAL literacy curriculum with materials and teacher support vs control schools",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tToTAL Haitian Creole literacy curriculum, materials, and teacher support\tcontrol schools": {
+  "label": "ToTAL literacy curriculum with materials and teacher support vs control schools",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tToTAL structured literacy lessons with teacher training and coaching\tdelayed commencement of the program": {
+  "label": "ToTAL structured literacy instruction with teacher training and coaching vs delayed commencement control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdemonstration method\tconventional teaching method": {
+  "label": "Demonstration teaching method vs conventional teaching method",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdemonstration teaching method\tconventional teaching method": {
+  "label": "Demonstration teaching method vs conventional teaching method",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit discussion-strategy instruction with post-type labels\tno strategy instruction or post-type labels": {
+  "label": "Explicit discussion-strategy instruction with post-type labels vs no strategy instruction or post-type labels",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\texplicit instruction in five discussion strategies plus post type labels\tneutral survey midpoint (0)": {
+  "label": "Explicit discussion-strategy instruction with post-type labels vs no strategy instruction or post-type labels",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tgenre-based reading instruction\texperimental group pretest before instruction": {
+  "label": "Genre-based reading instruction vs no instruction",
+  "treatment_is_a": true
+ },
+ "feedback-presence\twritten corrective feedback on target preposition uses\tgeneral comments on writing": {
+  "label": "targeted corrective feedback vs general writing comments",
+  "treatment_is_a": true
+ },
+ "feedback-presence\twritten corrective feedback on target prepositions\tgeneral comments without feedback on target prepositions": {
+  "label": "targeted corrective feedback vs general writing comments",
+  "treatment_is_a": true
+ },
+ "feedback-type\twritten corrective feedback on target preposition errors\tgeneral comments on writing": {
+  "label": "Targeted corrective feedback vs general comments",
+  "treatment_is_a": true
+ },
+ "feedback-type\twritten corrective feedback on target preposition errors\tgeneral comments without feedback on target features": {
+  "label": "Targeted corrective feedback vs general comments",
+  "treatment_is_a": true
+ },
+ "feedback-type\twritten corrective feedback with oral metalinguistic tutorial\tgeneral comments on writing": {
+  "label": "Targeted corrective feedback with oral metalinguistic tutorial vs general comments",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tBiweekly formative self-assessment\tSame instruction without self-assessment": {
+  "label": "Formative self-assessment vs no formative self-assessment",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tbiweekly formative self-assessment questionnaires and training\tusual instruction without self-assessment": {
+  "label": "Formative self-assessment vs no formative self-assessment",
+  "treatment_is_a": true
+ },
+ "gamification\tInterdisciplinary science instruction through game and physical activities, with concepts introduced at the beginning\tConventional science instruction using the course book and web-based education portal": {
+  "label": "Game-based physical-activity science instruction with concepts introduced at the beginning vs conventional science instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tInterdisciplinary science instruction through game and physical activities, with concepts introduced at the end\tConventional science instruction using the course book and web-based education portal": {
+  "label": "Game-based physical-activity science instruction with concepts introduced at the end vs conventional science instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tInterdisciplinary science instruction through game and physical activities, with concepts introduced during activities\tConventional science instruction using the course book and web-based education portal": {
+  "label": "Game-based physical-activity science instruction with concepts introduced during activities vs conventional science instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tKahoot-based revision quizzes\tpaper-based revision quizzes": {
+  "label": "Kahoot-based revision quizzes vs paper-based revision quizzes",
+  "treatment_is_a": true
+ },
+ "gamification\tcomputer game-based instruction\tmultimedia PowerPoint instruction": {
+  "label": "Computer game-based instruction vs multimedia PowerPoint instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tinterdisciplinary science instruction through game-based physical activities\tconventional science instruction using the course book and education portal": {
+  "label": "Game-based physical-activity science instruction vs conventional science instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tinterdisciplinary science instruction through game-based physical activities\tusual science instruction using course book and web-based education portal": {
+  "label": "Game-based physical-activity science instruction vs conventional science instruction",
+  "treatment_is_a": true
+ },
+ "gamification\tplanned Kahoot group\tplanned conventional paper-quiz group": {
+  "label": "Kahoot-based revision quizzes vs paper-based revision quizzes",
+  "treatment_is_a": true
+ },
+ "guided-discovery\tscientific heuristic method\tdirect instruction": {
+  "label": "guided discovery vs direct instruction",
+  "treatment_is_a": true
+ },
+ "media-design\tEnglish-subtitled animated cartoons\tanimated cartoons without subtitles": {
+  "label": "English-subtitled vs unsubtitled animated cartoons",
+  "treatment_is_a": true
+ },
+ "media-design\timproved spatial contiguity between visuals and corresponding materials in revised books\texisting spatial contiguity in original books": {
+  "label": "Improved vs existing spatial contiguity",
+  "treatment_is_a": true
+ },
+ "media-design\tincreased labeling in revised books\texisting labeling in original books": {
+  "label": "Increased vs existing visual labeling",
+  "treatment_is_a": true
+ },
+ "media-design\tincreased use of color coding in revised books\texisting color coding in original books": {
+  "label": "Increased vs existing color coding",
+  "treatment_is_a": true
+ },
+ "media-design\tremoval of decorative visuals\toriginal CMP2 visuals containing decorative visuals": {
+  "label": "Decorative visuals removed vs decorative visuals retained",
+  "treatment_is_a": true
+ },
+ "media-design\tremoval of representational visuals\toriginal CMP2 visuals containing representational visuals": {
+  "label": "Representational visuals removed vs representational visuals retained",
+  "treatment_is_a": true
+ },
+ "media-design\trevised CMP2 curriculum with associated professional development\toriginal CMP2 curriculum": {
+  "label": "Revised curriculum with professional development vs original curriculum",
+  "treatment_is_a": true
+ },
+ "media-design\trevised CMP2 curriculum with removal of decorative student images and associated professional development\toriginal CMP2 curriculum": {
+  "label": "Removal of decorative visuals with professional development vs original curriculum",
+  "treatment_is_a": true
+ },
+ "media-design\trevised CMP2 curriculum with removal of representational visuals and associated professional development\toriginal CMP2 curriculum": {
+  "label": "Removal of representational visuals with professional development vs original curriculum",
+  "treatment_is_a": true
+ },
+ "media-design\trevised CMP2 visuals\toriginal CMP2 visuals": {
+  "label": "Revised visuals vs original visuals",
+  "treatment_is_a": true
+ },
+ "media-design\trevised CMP2 visuals plus professional development\toriginal CMP2 visuals": {
+  "label": "Revised visuals with professional development vs original visuals",
+  "treatment_is_a": true
+ },
+ "media-design\trevised visuals and associated professional development\toriginal CMP2 visuals and control condition": {
+  "label": "Revised visuals with professional development vs original visuals or control",
+  "treatment_is_a": true
+ },
+ "media-design\trevised visuals plus instructional-design professional development\toriginal CMP2 visuals": {
+  "label": "Revised visuals with instructional-design professional development vs original visuals",
+  "treatment_is_a": true
+ },
+ "media-design\trevised visuals with increased color coding and labeling\toriginal CMP2 visuals": {
+  "label": "Revised visuals with increased color coding and labeling vs original visuals",
+  "treatment_is_a": true
+ },
+ "practice-amount\thigher intervention dosage\tlower intervention dosage": {
+  "label": "higher practice amount vs lower practice amount",
+  "treatment_is_a": true
+ },
+ "prompts\tTDTS teacher training and approach\tbusiness-as-usual teaching": {
+  "label": "prompts vs no prompts",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tsupplementary multiplication-facts exploration and recall practice\tregular mathematics curriculum without the supplementary intervention": {
+  "label": "retrieval practice vs no retrieval practice",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tten-week supplementary multiplication-facts exploration and practice intervention\tno treatment": {
+  "label": "retrieval practice vs no retrieval practice",
+  "treatment_is_a": true
+ },
+ "scaffolding\t10-question argumentative script guidance\tminimal teacher guidance": {
+  "label": "10-question argumentative-script guidance vs minimal teacher guidance",
+  "treatment_is_a": true
+ },
+ "scaffolding\t10-question argumentative-script teacher guidance\tminimal teacher guidance": {
+  "label": "10-question argumentative-script guidance vs minimal teacher guidance",
+  "treatment_is_a": true
+ },
+ "scaffolding\targumentative scripts\tunguided control": {
+  "label": "argumentative scripts vs unguided control",
+  "treatment_is_a": true
+ },
+ "simulation\tTinkerPlots simulation trials and model evaluation\tpre-simulation predictions and explanations": {
+  "label": "simulation trials and model evaluation vs pre-simulation predictions and explanations",
+  "treatment_is_a": true
+ },
+ "simulation\tTinkerPlots simulation-based probability instruction\tpaper-and-pencil traditional instruction": {
+  "label": "TinkerPlots simulation-based instruction vs paper-and-pencil traditional instruction",
+  "treatment_is_a": true
+ },
+ "simulation\tTinkerPlots simulation-based probability learning\tpaper-and-pencil traditional teaching": {
+  "label": "TinkerPlots simulation-based instruction vs paper-and-pencil traditional instruction",
+  "treatment_is_a": true
+ },
+ "simulation\tTinkerPlots simulation-based probability learning\tpre-test before the intervention": {
+  "label": "simulation-based learning vs pre-intervention assessment",
+  "treatment_is_a": true
+ },
+ "simulation\tTinkerPlots simulation-based probability learning\ttraditional paper-and-pencil teaching": {
+  "label": "TinkerPlots simulation-based instruction vs paper-and-pencil traditional instruction",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation method\ttraditional lecture method": {
+  "label": "simulation method vs traditional lecture method",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-based probability teaching with TinkerPlots\ttraditional paper-and-pencil teaching": {
+  "label": "TinkerPlots simulation-based instruction vs paper-and-pencil traditional instruction",
+  "treatment_is_a": true
+ },
+ "simulation\tsimulation-supported instruction\ttraditional lecture instruction": {
+  "label": "simulation-supported instruction vs traditional lecture instruction",
+  "treatment_is_a": true
  }
 }

@@ -25,7 +25,7 @@ sources:
 # Direct Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 43 claims (20 for, 20 mixed, 3 against) · 45 studies (14 quant-synthesis, 13 causal, 12 review, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 14 of 45 report an effect size · 36 claims rest on one study
+> **Evidence** · 45 claims (20 for, 22 mixed, 3 against) · 47 studies (15 causal, 14 quant-synthesis, 12 review, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 14 of 47 report an effect size · 38 claims rest on one study
 
 ## Description and scope
 
@@ -113,6 +113,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Teacher modeling with worked examples helped EFL students internalize reading comprehension strategies](../claims/teacher-modeling-internalizes-reading-strategies.md) [+W] — from Üstündağ-Algın (2025). Read 2026-10-19: students' comments that the teacher's explaining and modelling helped (q1, no comparison); consistent with step 2, but does not test modelling against anything.
 - [Direct instruction training improved 5th graders' task-model construction (question analysis) relative to an active control](../claims/direct-instruction-improves-task-model-construction.md) [+W] — attached 2026-10-23 from Potocki et al. (2023), which proposed "Five-module direct instruction program for purposeful reading strategies"; tests this page's relationship.
 - [Explicit teaching of pragmatic routines was more effective than implicit teaching, with implicit-group scores decreasing from pre- to post-test](../claims/explicit-teaching-beats-implicit-for-pragmatic-routines.md) [+M] — attached 2026-11-01 from Üstünbaş (2017), which proposed "Teach pragmatic routines explicitly in EFL programs where learners lack exposure to real target-language use"; tests this page's relationship.
+- [EDI qualitatively outperformed DI on MMA normalized gain, though both groups' gains were in the low category](../claims/edi-mma-gain-outperforms-di.md) [~W] — attached 2026-11-01 from Mansyur et al. (2016), which proposed "Enhanced Direct Instruction (EDI) stages for introductory physics integrating DI patterns with macro- and micro-strategy"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 
@@ -192,6 +193,7 @@ This pattern is scoped to structured targets with a definable correct performanc
 - [Explicit video-based instruction improved sixth graders' skills to question the credibility of less credible online texts relative to control, with a large condition-level effect](../claims/video-explicit-instruction-questioning-credibility.md) [~W]
 - [Achievement effects of modelling vary by content domain, with probability and statistics highest but inflated by an outlier and calculus lowest](../claims/modelling-effects-vary-by-content-domain.md) [~W]
 - [Mixed responding (individual plus choral) was slightly more effective than choral responding alone in the one study that tested it](../claims/mixed-td-otr-slightly-more-effective.md) [~W]
+- [Interviewed students reported enjoying the demonstration method because of step-by-step explanation and verbal explanation with examples](../claims/students-enjoy-demonstration-method-step-by-step-explanation.md) [~W]
 
 ## Examples
 

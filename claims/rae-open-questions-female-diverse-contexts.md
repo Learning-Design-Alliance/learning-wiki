@@ -50,3 +50,4 @@ The authors' stated research agenda from the review: mechanisms of RAE magnifica
 - [RAE effect size increases linearly with relative age differences](rae-effect-size-increases-with-relative-age-difference.md) — related
 - [Adolescent males at representative level in highly popular sports are most at risk of RAE inequalities](rae-highest-risk-adolescent-male-representative-popular-sports.md) — related
 - [Age category, skill level and sport context moderate RAE magnitude](rae-moderators-age-skill-sport-context.md) — related
+- [The authors identify open questions: cultural and social background effects and skill-specific self-efficacy effects of self-assessment remain uninvestigated](self-assessment-self-efficacy-open-questions.md) — related

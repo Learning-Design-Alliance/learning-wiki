@@ -65,3 +65,5 @@ Randomised study of 169 second-year medical students comparing 3D VR and 2D lect
 - [VR improves motivation and performance of civil engineering students in a concrete structures course compared with traditional 2D drawings](vr-improves-motivation-performance-concrete-structures.md) — related
 - [A DAA activity is rated significantly more motivating than a lecture on perceived sense of learning, enjoyment, and helpfulness](daa-more-motivating-than-lecture.md) — related
 - [VR and conventional teaching produce equivalent medium-term learning success after one month](vr-unit-equivalent-medium-term-learning-success.md) — related
+- [Students gave positive feedback on both non-conventional activities, reporting greater interest, understanding and proactivity](positive-student-feedback-interventions.md) — related
+- [Using videos and 3D animations in classroom activities versus as homework produced no statistically significant difference in post-test conceptual understanding scores](videos-3d-animations-classroom-vs-homework-no-difference.md) — related

@@ -25,7 +25,7 @@ sources:
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 103 claims (43 for, 57 mixed, 3 against) · 79 studies (47 causal, 12 review, 10 quant-synthesis, 4 theoretical, 2 associational, 2 qualitative, 2 design), `q1`–`q4` · 20 of 79 report an effect size · 94 claims rest on one study
+> **Evidence** · 105 claims (44 for, 58 mixed, 3 against) · 81 studies (49 causal, 12 review, 10 quant-synthesis, 4 theoretical, 2 associational, 2 qualitative, 2 design), `q1`–`q4` · 20 of 81 report an effect size · 96 claims rest on one study
 
 ## Description and scope
 
@@ -168,6 +168,8 @@ This pattern is scoped to explanations of structures, processes and relations pr
 - [Adding visuals of the instructor to online video lectures impairs comprehension relative to audio-only and audio+text formats](../claims/instructor-visuals-impair-lecture-comprehension.md) [-W]
 - [Modality shows no major role in students' source citations or global source memory](../claims/no-modality-effect-source-memory-citations.md) [~W]
 - [Combining video-based feedback with verbal feedback enhanced both skill acquisition and knowledge retention](../claims/video-plus-verbal-feedback-enhances-retention.md) [~W]
+- [Teaching with multimedia required the teacher to adjust and sometimes rewind the material to accommodate new-old information strategies](../claims/teacher-adjust-rewind-multimedia-listening.md) [~W]
+- [Using videos and 3D animations both in the classroom and in homework activities provided significant impact in remedying misconceptions about basic computer units](../claims/videos-3d-animations-remedy-misconceptions.md) [+W]
 
 ## Examples
 

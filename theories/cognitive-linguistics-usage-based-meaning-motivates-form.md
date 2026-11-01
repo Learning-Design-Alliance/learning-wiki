@@ -50,6 +50,7 @@ The article presents Cognitive Linguistics (CL) as a framework in which "languag
 
 - [Teach the conceptual underpinnings of L2 forms rather than only their structural aspects or formulaic units](../principles/teach-conceptual-underpinnings-of-l2-forms.md)
 - [Teach prepositions by presenting the core spatial sense first, then deriving metaphoric senses, supported by diagrams and schemas](../strategies/core-sense-first-diagram-preposition-teaching.md)
+- [Combine CL-based cognitive explanations with DDL concordance work when teaching polysemous spatial prepositions](../strategies/combine-cl-with-ddl-strategy.md)
 
 ## Key Sources
 - Sáez, N. (2014). Enhancing the Role of Meaning in the L2 Classroom: A Cognitive Linguistics Perspective. Teachers College, Columbia University Working Papers in TESOL & Applied Linguistics. https://eric.ed.gov/?id=EJ1176947

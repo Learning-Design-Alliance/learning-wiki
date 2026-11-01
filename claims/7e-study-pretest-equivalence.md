@@ -53,3 +53,5 @@ Pre-test comparison in the quasi-experiment before intervention: experimental me
 - [Groups were equivalent in mathematics achievement before the application](digital-storytelling-math-pretest-equivalence.md) — related
 - [U-learning and E-learning groups were statistically equivalent at pretest before the intervention](pretest-equivalence-u-e-groups.md) — related
 - [The experimental and control classes were statistically equivalent before the intervention on prior economics achievement](laps-study-class-equivalence-normality-homogeneity.md) — related
+- [The experimental and control groups did not differ significantly on the pre test](microsoft-mathematics-pretest-equivalence.md) — related
+- [Pre-test scores showed no significant difference between the simulation-based experimental group and the paper-and-pencil control group](simulation-probability-pretest-equivalence.md) — related

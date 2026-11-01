@@ -71,7 +71,7 @@ sources:
 # Cultural & Life Experiences Connections
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 56 claims (46 for, 10 mixed) · 52 studies (15 qualitative, 12 causal, 8 design, 6 review, 5 theoretical, 4 quant-synthesis, 2 associational), `q1`–`q4` · 3 of 52 report an effect size · 50 claims rest on one study
+> **Evidence** · 57 claims (47 for, 10 mixed) · 53 studies (15 qualitative, 13 causal, 8 design, 6 review, 5 theoretical, 4 quant-synthesis, 2 associational), `q1`–`q4` · 3 of 53 report an effect size · 51 claims rest on one study
 
 ## Conditional relationship
 
@@ -220,6 +220,7 @@ The present evidence establishes no dose, no sequence, no effect on achievement 
 - [When AI/AN communities design their own place-, culture-, and language-based education programs, students' school engagement and learning flourish](../claims/culture-based-programs-flourish-engagement.md) [+W]
 - [A teacher whose home culture was excluded from school brought her home culture into her teaching so students could express and maintain their identities](../claims/teacher-brings-home-culture-into-teaching.md) [+W]
 - [Personal, out-of-school experiences serve as real resources for sense making in classroom discussion](../claims/personal-experiences-as-classroom-learning-resources.md) [+W]
+- [Most learners agreed that using indigenous knowledge to learn geography can help them understand the weather better](../claims/learners-endorse-iks-for-weather-understanding.md) [+W]
 
 ## Related Principles
 

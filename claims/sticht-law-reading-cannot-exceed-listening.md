@@ -54,3 +54,4 @@ The article reports, citing Sticht's work with native language learners in readi
 - [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](oral-language-predicts-reading-achievement.md) — a broader claim this one bears on
 - [Oral language measures of syntax, listening comprehension, and oral vocabulary do not predict which English learners will struggle with learning to read](oral-language-measures-do-not-predict-reading-struggle.md) — reports the opposite
 - [L2 oral language proficiency predicts reading comprehension more strongly than decoding skills](oral-proficiency-predicts-l2-reading-comprehension.md) — related
+- [The literature review reports multiple ways YouTube can support language learning, including listening skills, reading comprehension and learner autonomy](youtube-language-learning-reviewed-benefits.md) — related

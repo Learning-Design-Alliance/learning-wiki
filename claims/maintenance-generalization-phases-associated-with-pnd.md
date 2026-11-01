@@ -49,3 +49,5 @@ Kruskal-Wallis test across phase conditions among the 140 observed cases, follow
 - [Employment of a mastery criterion was positively associated with PND scores (τ = .168, p = .023)](mastery-criterion-positive-association-pnd.md) — related
 - [Mobile device-based interventions are very effective for individuals with intellectual disabilities, with a mean PND of 91.8 across 140 observed cases](mobile-devices-very-effective-id-mean-pnd-91-8.md) — related
 - [Video modeling interventions yield strong or moderate treatment effects in 56% of reviewed studies of students with EBD](vm-ebd-56-percent-strong-moderate-pnd.md) — related
+- [Contrived approaches show greater generalization of spoken language skills than naturalistic approaches in children with autism](contrived-approaches-greater-generalization-pnd.md) — related
+- [Naturalistic approaches show higher mean PND than contrived approaches for maintenance of language skills](naturalistic-approaches-higher-maintenance-pnd.md) — related

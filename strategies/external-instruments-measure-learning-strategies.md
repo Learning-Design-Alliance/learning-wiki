@@ -45,6 +45,7 @@ Because teachers are often biased in assessing students' cognitive level and wro
 - [Awareness of Implicit Biases](awareness_of_implicit_biases.md)
 - [Use SR and OB measures together as diagnostic tools in AI literacy professional development, before and after training](combined-sr-ob-diagnostics-in-pd.md)
 - [Evaluate AI literacy interventions with behavioral measures of LLM interaction in addition to self-reports](behavioral-measures-for-ai-literacy-evaluation.md)
+- [Use a universal screening instrument and documented O&M assessment rather than unconfirmed teacher judgments to identify students needing O&M instruction](universal-screening-om-assessment-strategy.md)
 
 ## Examples
 -

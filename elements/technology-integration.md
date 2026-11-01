@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 162 claims (77 for, 73 mixed, 12 against) · 135 studies (25 review, 25 associational, 23 qualitative, 22 quant-synthesis, 21 causal, 14 design, 5 theoretical), `q1`–`q4` · 29 of 135 report an effect size · 159 claims rest on one study
+> **Evidence** · 163 claims (78 for, 73 mixed, 12 against) · 136 studies (25 review, 25 associational, 23 qualitative, 22 causal, 22 quant-synthesis, 14 design, 5 theoretical), `q1`–`q4` · 29 of 136 report an effect size · 160 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -187,6 +187,7 @@ Technology integration is the element in which digital tools are used in direct 
 - [Online training shows no difference from interactive workshops for knowledge, practical skills, clinical behaviour, self-efficacy, or satisfaction in licensed health professionals, at low or very low evidence quality](../claims/online-vs-workshop-no-difference-hcp.md) [+W]
 - [Educational technologies in PBL show generally positive effects on student learning in health sciences education](../claims/edtech-pbl-generally-positive-effects-health-sciences.md) [+W] — attached 2026-11-01 from Jun J (2014), which proposed "Learning software and digital learning objects as PBL interventions".
 - [ICT investments did not improve learning outcomes significantly more than the basic non-ICT PRIMR education program](../claims/ict-not-better-than-base-primr.md) [-W]
+- [Blackboard-based instruction produced statistically significant pre-to-post achievement gains in the EFL teaching methods course for the experimental group](../claims/blackboard-instruction-significant-prepost-gains-efl-methods.md) [+W]
 
 ## The evidence by question
 - *Does building AI tools into instruction raise achievement over teaching the same content without them, and in which settings?* [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](../claims/ai-instruction-stem-moderate-positive-effect.md) [+M]

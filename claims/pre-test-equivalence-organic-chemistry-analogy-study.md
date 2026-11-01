@@ -55,3 +55,4 @@ Independent t-test on NOCAT pre-test scores of the control (n=44, mean 11.73, SD
 - [Before treatment, the experimental and control groups showed no significant difference in overall language proficiency](portfolio-idiom-study-pretest-proficiency-homogeneity.md) — related
 - [Experimental and control groups were statistically equivalent in mathematics self-efficacy perceptions before the intervention](pretest-equivalence-experimental-control-groups.md) — related
 - [The lecture and academic controversy groups showed no significant difference in TUCE pretest scores, indicating equivalent prior economic knowledge](tuce-pretest-equivalence-controversy-lecture.md) — related
+- [Before treatment, demonstration-method and conventional-approach students show no significant difference in financial accounting achievement](no-pretest-difference-demonstration-conventional-financial-accounting.md) — related

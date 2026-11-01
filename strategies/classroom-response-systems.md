@@ -67,6 +67,7 @@ CRS operationalize [Active Learning](../principles/active-learning.md) at scale:
 - [Retrieval Practice](retrieval-practice-activities.md) — each poll question is a low-stakes retrieval event embedded in instruction
 - [Formative Feedback](formative-feedback.md) — the answer distribution is the feedback signal that drives instructional adjustment
 - [Peer Instruction structured questioning sequence: individual answers, convince-your-neighbors discussion, revote, and instructor feedback](peer-instruction-questioning-sequence.md)
+- [Implement think-pair-share through a three-step sequence: individual thinking, pair discussion, and whole-class sharing with instructor feedback](tps-three-step-implementation.md)
 
 ## Examples
 - **Peer Instruction at Harvard** — Eric Mazur's physics course: ConcepTests polled via clickers, with peer discussion between votes; the model has been adopted across thousands of STEM courses ([Peer Instruction](https://peerinstruction4cs.org) resources).

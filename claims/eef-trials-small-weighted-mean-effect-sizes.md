@@ -94,3 +94,4 @@ Meta-analysis of FSM (free school meals) subsample attainment effect sizes from 
 - [TA-led interventions were associated with higher primary ITT and FSM effect sizes than other interventions, a pattern not observed for secondary ITT effect sizes](eef-ta-led-interventions-higher-primary-fsm-effect-sizes.md) — related
 - [Mathematics effects on FSM pupils differed by outcome status: near-zero as primary outcome (0.01) and negative as secondary outcome (-0.07)](fsm-maths-primary-secondary-outcome-split.md) — related
 - [Small group and one-to-one interventions produced larger literacy gains for FSM pupils than whole class or whole school approaches](small-group-one-to-one-literacy-fsm-largest.md) — related
+- [The SHINE in Secondaries Saturday school showed a very small impact on literacy and numeracy outcomes across all four pilot schools](shine-secondaries-very-small-literacy-numeracy-impact.md) — a narrower finding that bears on this claim

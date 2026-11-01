@@ -51,3 +51,4 @@ Mixed-effects model on posttest item accuracy in the randomized factorial experi
 - [A regression discontinuity design on Review Exercise data supports a causal link between leveling up and higher assessment accuracy, at least for the first level-up](rdd-review-exercises-causal-leveling-up.md) — related
 - [For students who answered the pretest incorrectly, diagrams helped only in the read-twice control condition and only when the diagram information was also presented in the text](diagram-redundant-text-benefit-pretest-incorrect-read-twice.md) — related
 - [Diagrams improve posttest performance on posterior probability problems for students who answered the pretest correctly, whether or not the diagram text is redundant](diagrams-help-pretest-correct-students-posterior-probability.md) — related
+- [EDI increased the total number of diagrams students constructed from pretest to posttest](edi-total-diagram-gain.md) — related

@@ -48,3 +48,4 @@ Subgroup IPD meta-analysis by primary/secondary outcome status (Table 8; 42 prim
 - [EEF-funded interventions improved FSM pupils' literacy outcomes with a pooled effect size of 0.06, equivalent to about one month's progress](eef-interventions-fsm-literacy-pooled-006.md) — related
 - [EEF-funded interventions showed no evidence of positive or negative overall effects on FSM pupils' mathematics outcomes](eef-interventions-fsm-maths-null-pooled.md) — related
 - [Across 82 EEF RCT evaluations, overall meta-analysis weighted mean effect sizes were small: +0.04 SD for primary ITT, +0.01 SD for secondary ITT, and +0.03 SD for FSM subsample attainment outcomes](eef-trials-small-weighted-mean-effect-sizes.md) — related
+- [Subgroup effects for FSM-eligible pupils were small and positive for mathematics (+0.09) and near zero for English (−0.03), with no security rating awarded](tutor-trust-fsm-subgroup-effects.md) — related

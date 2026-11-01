@@ -51,3 +51,4 @@ Student perception survey administered during the last lesson, adapted from the 
 - [Students in secondary mathematics report high acceptance of the domain-specific AI chatbot ADA across all Technology Acceptance Model dimensions](ada-high-tam-acceptance-secondary-math.md) — related
 - [Older adults rate the blended LMS workshop positively on ease of use, perceived usefulness, attitude toward using, and intention to use](tam-validation-blended-workshop-older-adults.md) — related
 - [Learners in fully online courses reported positive perceived usefulness and perceived ease of use of both a goal-setting chatbot and a learning buddy chatbot](chatbots-positive-usefulness-ease-of-use-online.md) — related
+- [Experimental-group students reported positive perceptions of AR, with highest scores for enjoyment (M = 4.44) and ease of use (M = 4.29)](positive-student-perceptions-ar-tam-questionnaire.md) — related

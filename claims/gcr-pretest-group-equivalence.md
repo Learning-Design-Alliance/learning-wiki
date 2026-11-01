@@ -53,3 +53,4 @@ Independent samples t test on the 60-item researcher-made grammar pretest (Leven
 - [Experimental and control groups were academically equivalent on the organic chemistry achievement test before the treatment](pre-test-equivalence-organic-chemistry-analogy-study.md) — related
 - [Groups were equivalent in mathematics achievement before the application](digital-storytelling-math-pretest-equivalence.md) — related
 - [Experimental and control groups did not differ significantly on the listening pretest](listening-pretest-groups-equivalent.md) — related
+- [The experimental and control groups differed significantly on the pre-test before the intervention](kahoot-study-unequal-pretest-scores.md) — reports the opposite

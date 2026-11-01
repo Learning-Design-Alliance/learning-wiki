@@ -16,7 +16,7 @@ grain_size: lesson
 # Gagné's 9 Events of Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 13 claims (4 for, 8 mixed, 1 against) · 30 studies (10 causal, 9 review, 6 quant-synthesis, 3 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 9 of 30 report an effect size · 6 claims rest on one study
+> **Evidence** · 14 claims (5 for, 8 mixed, 1 against) · 31 studies (11 causal, 9 review, 6 quant-synthesis, 3 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 9 of 31 report an effect size · 7 claims rest on one study
 
 ## Description and scope
 
@@ -100,6 +100,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [~S] — not settled: the text available could not confirm the entries (abstract)
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [~M] — not settled: the text available could not confirm the entries (abstract)
+- [SS2 students taught set theory with prior presentation of behavioural objectives scored significantly higher on the Mathematics Academic Performance Test than control students taught without them](../claims/behavioural-objectives-prior-presentation-improve-mathematics-performance.md) [+W] — attached 2026-11-01 from M. F. Salman et al. (2012), which proposed "Present the set behavioural objectives to students prior to the lesson to enhance participation and performance".
 
 ## Illustrative design instance and observation record
 

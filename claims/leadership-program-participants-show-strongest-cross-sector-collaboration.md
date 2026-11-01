@@ -58,3 +58,4 @@ Semi-structured interviews with central-office administrators and school princip
 - [Stronger working relationships emerged among highest-level central office administrators, but rifts and skepticism about systemic change remained among other staff](central-office-relationships-stronger-at-top-with-rifts-among-other-staff.md) — related
 - [Close collaboration between principal preparation programs and districts is associated with more coordinated candidate preparation](program-district-collaboration-coherent-principal-preparation.md) — related
 - [School leaders should be viewed and trained as instructional leaders](school-leaders-as-instructional-leaders.md) — related
+- [The Children's University intervention was feasible to run with school-leader support, but seven schools withdrew citing performance-target pressures and limited time](cu-implementation-feasibility-and-withdrawals.md) — related

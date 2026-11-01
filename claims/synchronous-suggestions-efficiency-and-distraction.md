@@ -82,3 +82,4 @@ Interview data from the same user study showed synchronous pop-up suggestions di
 - [The commentary pattern can cause tool-tutor desynchronization when students act faster than the tutor reacts](commentary-pattern-synchronization-problem.md) — related
 - [IDs reported that GenAI increased their efficiency by reducing the time it takes to write and create](genai-reduced-writing-time-efficiency.md) — related
 - [Technology sometimes distracted students from the learning experience, but distraction was balanced by the usefulness of content and structure](pda-distraction-balanced-by-structure.md) — related
+- [The authors interpret that ceaseless interactive actions caused cognitive overload that disrupted student learning](ceaseless-interactive-actions-cognitive-overload.md) — related

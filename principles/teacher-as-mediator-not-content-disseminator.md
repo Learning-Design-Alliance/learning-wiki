@@ -68,7 +68,7 @@ sources:
 # Educators should act as mediators and facilitators of learning rather than content disseminators
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 52 claims (34 for, 17 mixed, 1 against) · 48 studies (11 qualitative, 10 review, 10 theoretical, 9 quant-synthesis, 4 causal, 3 associational, 1 design), `q1`–`q4` · 4 of 48 report an effect size · 47 claims rest on one study
+> **Evidence** · 53 claims (34 for, 18 mixed, 1 against) · 49 studies (11 qualitative, 10 review, 10 theoretical, 9 quant-synthesis, 5 causal, 3 associational, 1 design), `q1`–`q4` · 5 of 49 report an effect size · 48 claims rest on one study
 
 ## Conditional relationship
 
@@ -193,6 +193,7 @@ Claims and theory pages cited by the earlier page, its folded pages or later lin
 - [Piaget Three Types Of Knowledge](../theories/piaget-three-types-of-knowledge.md)
 - [Piaget Four Factors Stage Progression](../theories/piaget-four-factors-stage-progression.md)
 - [Drawing 2D circuit diagrams before crafting served as a crucial visualization step that surfaced misconceptions and enabled early facilitator feedback](../claims/circuit-diagram-visualization-step.md) [+W] — attached 2026-10-29 from Ioannou et al. (2025), which proposed "In short-duration e-textile workshops with young novices, include some direct instruction and in-situ scaffolding and facilitation, which is not incompatible with the making ethos".
+- [Passive dissemination showed no evidence of improving literacy attainment for the subgroup of pupils who have ever been eligible for free school meals](../claims/passive-dissemination-no-impact-everfsm-subgroup.md) [~W] — attached 2026-11-01 from Lord et al. (2017), which proposed "Passive 'push' dissemination of evidence-based materials alone is insufficient to change pupil outcomes; schools need support to navigate, prioritise and apply research information"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

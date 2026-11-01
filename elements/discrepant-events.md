@@ -52,7 +52,9 @@ Discrepant events are demonstrations, observations, or scenarios that violate le
 - [Cognitive Flexibility Theory](../theories/cognitive-flexibility-theory.md)
 
 ## Examples
+
 - A science demonstration that produces a result opposite to what learners predicted.
+- [Select fiction by conceptual fit rather than popularity, and use it as discrepant events and small-group critique prompts](../strategies/select-fiction-by-conceptual-fit-strategy.md)
 
 ## Key Sources
 - Limon, M. (2001). On the cognitive conflict as an instructional strategy for conceptual change. *Learning and Instruction, 11*(4-5), 357-380. [https://doi.org/10.1016/S0959-4752(00)00037-2](https://doi.org/10.1016/S0959-4752(00)00037-2)

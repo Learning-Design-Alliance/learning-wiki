@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 117 claims (70 for, 43 mixed, 4 against) · 86 studies (39 associational, 21 causal, 20 review, 4 quant-synthesis, 1 design, 1 theoretical), `q1`–`q3` · 21 of 86 report an effect size · 115 claims rest on one study
+> **Evidence** · 118 claims (71 for, 43 mixed, 4 against) · 87 studies (39 associational, 22 causal, 20 review, 4 quant-synthesis, 1 design, 1 theoretical), `q1`–`q3` · 22 of 87 report an effect size · 116 claims rest on one study
 
 ## Description
 Self-efficacy is "people's beliefs in their ability to perform a course of action required to achieve a specific task" ([Bandura, 1977](https://doi.org/10.1037/0033-295x.84.2.191)). The theory's central claim is specificity: self-efficacy is not a general trait like self-confidence or self-concept, and it is not the same as documented ability. A learner's self-efficacy for "correctly subtracting fractions" is a distinct belief from their self-efficacy for "writing a persuasive essay," even though both might contribute to a broader (and much less predictive) sense of being "good at school" ([Seifert & Sutton, 2018](https://edtechbooks.org/lidtfoundations/motivation_theories_on_learning)). Because self-efficacy beliefs are self-constructed rather than measured, they can diverge from true capability in either direction; the most functional level is at or slightly above actual capacity (Bandura, 1997).
@@ -164,6 +164,7 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [The MTIS treatment did not significantly change preservice agricultural teachers' mathematics teaching efficacy, though experimental-group scores descriptively declined](../claims/mtis-no-effect-mathematics-teaching-efficacy.md) [~W] — attached 2026-11-01 from Christopher T. Stripling et al. (2013), which proposed "Bandura's social cognitive theory and its self-efficacy component as a framework for teacher efficacy development".
 - [The MTIS treatment did not significantly change preservice agricultural teachers' personal mathematics efficacy in a teaching methods course](../claims/mtis-no-effect-personal-mathematics-efficacy.md) [~W] — attached 2026-11-01 from Christopher T. Stripling et al. (2013), which proposed "Bandura's social cognitive theory and its self-efficacy component as a framework for teacher efficacy development".
 - [The MTIS treatment did not significantly change preservice agricultural teachers' personal teaching efficacy](../claims/mtis-no-effect-personal-teaching-efficacy.md) [~W] — attached 2026-11-01 from Christopher T. Stripling et al. (2013), which proposed "Bandura's social cognitive theory and its self-efficacy component as a framework for teacher efficacy development".
+- [Introducing regular formative self-assessment significantly improves EFL learners' self-efficacy in a quasi-experimental institute setting](../claims/self-assessment-improves-efl-self-efficacy.md) [+W] — attached 2026-11-01 from Sasan Baleghizadeh et al. (2013), which proposed "Bandura's social-cognitive account of self-efficacy and its four sources, as applied to language learning".
 
 ## The evidence by question
 

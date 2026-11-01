@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 236 claims (171 show a difference, 43 mixed, 22 no difference) · 148 studies (52 associational, 31 review, 28 causal, 12 quant-synthesis, 12 qualitative, 8 theoretical, 5 design), `q1`–`q4` · 36 of 148 report an effect size · 230 claims rest on one study
+> **Evidence** · 238 claims (171 show a difference, 44 mixed, 23 no difference) · 149 studies (52 associational, 31 review, 29 causal, 12 quant-synthesis, 12 qualitative, 8 theoretical, 5 design), `q1`–`q4` · 36 of 149 report an effect size · 232 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -276,6 +276,8 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Stress predominantly impairs team performance through a narrow task-execution focus, unclear responsibilities, diminished situational understanding and emotional effects](../claims/stress-impairs-team-performance-narrow-focus-unclear-responsibilities.md) [+M] — learners who differ on it differ in outcomes
 - [Stress shows both negative and positive effects on technical and non-technical surgical performance, with no clear collective pattern](../claims/stress-effects-on-surgical-performance-mixed.md) [~M] — learners who differ on it differ in outcomes
 - [Drama instruction reduced students' speech anxiety to a lower level than conventional instruction at posttest](../claims/drama-instruction-reduces-speech-anxiety-more-than-conventional.md) [+M] — instruction changes it
+- [Grid Model curriculum shows no significant post-test effect on external goal orientation, learning control belief, or test anxiety](../claims/grid-model-no-effect-external-control-anxiety.md) [-M] — instruction changes it
+- [In the private-school experimental group only test anxiety changed, decreasing significantly, with other motivation dimensions unchanged](../claims/grid-model-private-school-test-anxiety-decrease.md) [~M] — instruction changes it
 
 ## The evidence by question
 

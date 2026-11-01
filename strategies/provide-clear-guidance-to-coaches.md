@@ -44,6 +44,7 @@ The brief recommends that districts provide clear guidance to coaches as they im
 - [Provide guidance to districts on implementing the statewide ToR definition](state-guidance-for-district-tor-implementation.md)
 - [School and district leaders' recommendations for implementing effective classroom coaching programs](leader-recommendations-effective-coaching-programs.md)
 - [District strategies for spreading and deepening formative assessment practice systemwide](district-strategies-spreading-formative-assessment.md)
+- [Provide teachers with detailed guidance, orientation and feedback practice when implementing the Grid Model](grid-model-teacher-guidance-strategy.md)
 
 ## Examples
 -

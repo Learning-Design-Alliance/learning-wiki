@@ -59,3 +59,4 @@ Analysis of four DIBELS alphabetics subtests from the 2010 RCT covering 422 stud
 - [Interventions targeting different reading and skill content domains show mostly small differences, with average effect sizes of 0.14–0.22 all statistically significant](content-domain-effects-similar-range.md) — related
 - [Failure Free Reading shows no discernible effects on alphabetics outcomes for beginning readers](failure-free-reading-no-discernible-effects-alphabetics.md) — related
 - [LLI had no impact on secondary students' reading comprehension in the Oakland RCT](lli-no-impact-adolescent-reading-comprehension.md) — related
+- [The ToTAL intervention in Haiti had a positive impact on the foundational skills of initial sound identification and letter sound identification, though not on all combinations of language and grade.](total-positive-impact-foundational-skills.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-01
 sources:
   - id: veloo-2016
     resource: "https://eric.ed.gov/?id=EJ1134733"
@@ -40,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r1`–`r2` · `q3` · `i3` large
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-01 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` There was a significant interaction between group type (experimental vs control) and time period on mathematics understanding, with partial eta squared = 0.28. [→ Veloo 2016](#veloo-2016)
@@ -90,3 +91,5 @@ Descriptive means from Table 3 for the post-test 1 mathematics understanding sco
 - [The TGT experimental group significantly outperformed the lecture-based control group on the mathematics posttest](tgt-outperformed-lecture-posttest.md) — possibly the same claim (merge candidate)
 - [Structured and ill-structured mCSCL teaching methods show similar effects; competitive methods (TGT, STAD) were not significant](mcscl-teaching-method-moderator.md) — related
 - [Science-classroom studies of cooperative learning show mixed results, with several null or negative comparisons](cooperative-learning-science-studies-mixed.md) — related
+- [Group learning produced significantly higher mathematics achievement than conventional teaching among rural grade-nine students after a 15-week intervention](group-learning-beats-conventional-math-rural-secondary.md) — related
+- [MANOVA with repeated measures showed significant main effects of test-time and a significant group-learning-by-test-time interaction on mathematics achievement](manova-group-learning-testtime-interaction-math.md) — related

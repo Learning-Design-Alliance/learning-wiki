@@ -141,3 +141,4 @@ Meta-analysis of 8 RCTs (n=592), low heterogeneity (I2 =21%). Pooled odds ratio 
 - [Questionnaire surveys in most included studies indicate positive PBL effects on learning interest, scope of knowledge, team spirit, and oral expression](pbl-questionnaire-positive-outcomes-radiology.md) — related
 - [Most CBL interventions report positive effects on knowledge, attitudes, and skills, but studies finding no positive effect were often randomized controlled trials](cbl-outcomes-mostly-positive-rcts-often-null.md) — related
 - [Questionnaire results show PBL superior to conventional teaching for learning interest, independent analysis skills, scope of knowledge, self-study, team spirit, and oral expression](pbl-questionnaire-superiority-six-outcomes.md) — related
+- [Student responses to PBL statistics learning were positive, and more positive than responses to conventional learning](pbl-statistics-positive-student-responses.md) — related

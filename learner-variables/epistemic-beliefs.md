@@ -13,7 +13,7 @@ generated:
 # Epistemic Beliefs
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 43 claims (31 show a difference, 9 mixed, 3 no difference) · 25 studies (5 associational, 4 causal, 4 qualitative, 4 design, 3 quant-synthesis, 3 review, 2 theoretical), `q1`–`q3` · 2 of 25 report an effect size · 43 claims rest on one study
+> **Evidence** · 45 claims (33 show a difference, 9 mixed, 3 no difference) · 27 studies (6 causal, 5 associational, 4 qualitative, 4 design, 3 quant-synthesis, 3 review, 2 theoretical), `q1`–`q3` · 2 of 27 report an effect size · 45 claims rest on one study
 
 ## Description
 Epistemic (or epistemological) beliefs are what a learner takes knowledge and knowing to be. Learners who see knowledge as certain, simple and given by authority tend to read conflicting sources less critically and to expect quick answers; learners who see it as tentative and evidence-based integrate sources and argue more. Beliefs are measured by questionnaires and interviews and vary by domain. They predict comprehension of conflicting texts and argumentation, moderate inquiry-based designs, and are an outcome that instruction in the nature of science or in sourcing can change.
@@ -75,6 +75,8 @@ Epistemic (or epistemological) beliefs are what a learner takes knowledge and kn
 - [Small but significant correlations exist between students' incoming beliefs and their conceptual gains in physics courses](../claims/incoming-beliefs-correlate-conceptual-gains.md) [+M] — learners who differ on it differ in outcomes
 - [Teaching method is the strongest predictor of CLASS/MPEX belief shifts, with modeling and explicit-focus methods significantly outperforming ordinary methods](../claims/teaching-method-strongest-predictor-belief-shifts.md) [+M] — instruction changes it
 - [Teaching method remains the strongest predictor of belief shifts even when pretest scores are taken into account](../claims/teaching-method-beats-pretest-predicting-shifts.md) [+M] — instruction changes it
+- [DAIM-exposed learners showed enhanced awareness of the Nature of Science and the Nature of IKS compared with control learners](../claims/daim-enhances-nos-noiks-awareness.md) [+M] — instruction changes it
+- [Think-pair-share instruction produced more positive epistemological beliefs about physics and physics learning than conventional teacher-centered teaching, including on the PSG, SM/E and CU sub-scales](../claims/tps-improves-epistemological-beliefs-class.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Can instruction shift learners' views of how scientific knowledge is made and judged, and do the shifts last?* [Both instructional conditions produced statistically significant pre-test to post-test gains in NOS and SK views, with larger effect sizes in the experimental group](../claims/both-conditions-significant-prepost-gains-larger-experimental-effect-sizes.md) [+M]

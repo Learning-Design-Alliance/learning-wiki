@@ -71,3 +71,4 @@ The same ANOVA analysis showed a marginal trend "favoring the LNLS condition ove
 - [Combined letter name and sound instruction produced greater letter name production gains than letter sound only instruction in preschoolers](combined-lnls-beats-ls-letter-name-production-gains.md) — related
 - [Letter sound only instruction may interfere with letter name learning relative to incidental exposure](ls-only-possible-letter-name-interference.md) — related
 - [Number instruction outperformed both alphabet instruction conditions on number identification gains](number-condition-outgained-alphabet-conditions.md) — related
+- [The ToTAL intervention in Haiti had a positive impact on the foundational skills of initial sound identification and letter sound identification, though not on all combinations of language and grade.](total-positive-impact-foundational-skills.md) — related

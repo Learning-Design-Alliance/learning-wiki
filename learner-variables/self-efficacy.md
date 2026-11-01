@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 203 claims (153 show a difference, 28 mixed, 22 no difference) · 164 studies (58 associational, 34 causal, 31 review, 15 qualitative, 10 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 32 of 164 report an effect size · 199 claims rest on one study
+> **Evidence** · 204 claims (153 show a difference, 28 mixed, 23 no difference) · 165 studies (58 associational, 35 causal, 31 review, 15 qualitative, 10 quant-synthesis, 9 design, 7 theoretical), `q1`–`q4` · 32 of 165 report an effect size · 200 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -234,6 +234,7 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Grade VIII students taught with a contextual learning model show higher increases in self-confidence than students taught with expository learning](../claims/contextual-learning-higher-self-confidence-gain.md) [+M] — instruction changes it
 - [Learning model and students' early mathematical ability (KAM) interact in increasing self-confidence](../claims/interaction-learning-kam-self-confidence.md) [+M] — instruction changes it
 - [The social nature of self-efficacy may produce a false sense of mathematics efficacy among preservice teachers, with negative implications for future teaching](../claims/false-sense-of-mathematics-self-efficacy-social-comparison.md) [+W] — learners who differ on it differ in outcomes
+- [TDTS teachers reported using more practical work, discussion and thinking time, but little difference in confidence and no more literacy–numeracy linking](../claims/tdts-teacher-practice-changes-survey.md) [-M] — instruction changes it
 
 ## The evidence by question
 

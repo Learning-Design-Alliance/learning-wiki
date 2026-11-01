@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 75 claims (36 for, 38 mixed, 1 against) · 56 studies (18 quant-synthesis, 16 causal, 13 review, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 22 of 56 report an effect size · 67 claims rest on one study
+> **Evidence** · 76 claims (36 for, 38 mixed, 2 against) · 57 studies (18 quant-synthesis, 17 causal, 13 review, 3 associational, 3 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 22 of 57 report an effect size · 68 claims rest on one study
 
 ## Conditional relationship
 
@@ -209,6 +209,7 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - [Online-heavy models (flipped, flex, online-practicing) pose challenges for first-year programming students](../claims/online-heavy-models-first-year-challenge.md) [~W]
 - [The flipped classroom effect is robust to research design and controls for student and instructor equivalence](../claims/flipped-effect-robust-to-design-and-equivalence-controls.md) [+W]
 - [Study results are highly heterogeneous across flipped classroom studies (I2 = 75.6%)](../claims/flipped-classroom-studies-high-heterogeneity.md) [~W]
+- [Using videos and 3D animations in classroom activities versus as homework produced no statistically significant difference in post-test conceptual understanding scores](../claims/videos-3d-animations-classroom-vs-homework-no-difference.md) [-W]
 
 ## Related Principles
 - [Scaffolding and Fading](scaffolding-and-fading.md) — how support in the pre-class work and the live session is withdrawn across a term

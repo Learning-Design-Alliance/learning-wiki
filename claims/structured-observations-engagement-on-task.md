@@ -47,3 +47,4 @@ Structured observations during 4 club meetings using environmental scans at 20-m
 ## Related Claims
 - [Project With was implemented with high fidelity: 89 percent of activities were completed and youth listened during 83 percent and interacted during 76 percent of activities](project-with-fidelity-and-engagement-rates.md) — related
 - [About 61% of observed in-class student behavior was actively seeking knowledge or asking questions](majority-student-activity-questioning.md) — related
+- [Students in the PBL statistics class were active at every observed interval, while some conventional-class students engaged in irrelevant activities](pbl-statistics-student-activity-effective.md) — related

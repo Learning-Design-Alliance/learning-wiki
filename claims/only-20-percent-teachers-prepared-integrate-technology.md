@@ -52,3 +52,4 @@ A national survey statistic reported in the in-service career development sectio
 - Between the 1997 and 1999 STaR assessments, the share of schools effectively using technology rose from 15 to 24 percent, and almost 80 percent of schools had Internet connections — related
 - [Teachers' access to and professional use of technology improved considerably from 2001 to 2003, but did not translate into proportionate increases in technology-rich student assignments](teacher-access-use-rose-assignments-modest.md) — related
 - [Pre-study survey found most art teachers spend 1-3 hours daily planning and struggle to integrate and assess teaching resources across platforms](art-teachers-resource-integration-challenges-prestudy.md) — related
+- [The teacher welcomed AR integration but did not feel prepared to create AR content and preferred publisher-provided materials](teacher-not-prepared-to-create-ar-content.md) — related

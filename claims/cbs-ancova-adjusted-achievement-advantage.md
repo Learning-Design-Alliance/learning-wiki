@@ -46,3 +46,4 @@ ANCOVA of post-test CAT scores for the four groups with KCPE marks as covariate,
 
 ## Related Claims
 - [Secondary school students taught chemistry through computer-based simulations achieve significantly higher post-test scores than students taught through regular teaching methods](cbs-beats-rtm-chemistry-achievement-kenya.md) — related
+- [The context-based instructional design produced higher post-test cognitive achievement than the existing curriculum when prior readiness was controlled](context-based-ecosystem-design-higher-achievement.md) — related

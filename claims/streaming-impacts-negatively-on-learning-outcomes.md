@@ -71,3 +71,4 @@ A conceptual article that develops a differentiated-instruction practice framewo
 - [In one Chicago study, above-norm students' post-policy algebra test gains were partly explained by higher peer ability and by having classmates who took support algebra](above-norm-score-gains-peer-ability-spillover.md) — related
 - [Streaming restructured musician economics before generative AI, with per-stream payouts of fractions of a cent](streaming-devaluation-predates-generative-ai.md) — related
 - [Some personalization methods such as ability tracking may increase achievement gaps, though empirical evidence is mixed](personalization-methods-achievement-inequality-mixed.md) — possibly the same claim (merge candidate)
+- [Learners who had narrowly failed (code 2) or attained distinctions (code 7) in Grade 9 derived the greatest benefit from regular use](prior-attainment-codes-2-and-7-greatest-benefit.md) — related

@@ -60,3 +60,5 @@ Descriptive post-intervention analysis within the experimental group (n = 102) o
 - [Engagement in data practices is associated with both cognitive and non-cognitive learning outcomes](data-practices-associated-cognitive-noncognitive-outcomes.md) — related
 - [Students perceived HPL as positively as Scratch across TAM dimensions](hpl-student-perception-equal-scratch.md) — related
 - [Irûmi increased second-graders' positive attitudes toward technology by 0.228 SD](irumi-student-technology-attitudes.md) — related
+- [Experimental-group students expressed positive attitudes toward gamification, accepting the technique at a high level overall](positive-student-attitudes-toward-kahoot-gamification.md) — related
+- [Experimental-group students reported positive perceptions of AR, with highest scores for enjoyment (M = 4.44) and ease of use (M = 4.29)](positive-student-perceptions-ar-tam-questionnaire.md) — related

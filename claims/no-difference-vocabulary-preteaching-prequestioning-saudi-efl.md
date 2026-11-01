@@ -66,3 +66,4 @@ Descriptive means from the same quasi-experiment (Table 3): vocabulary pre-teach
 ## Related Claims
 - [The review reports vocabulary pre-teaching was less effective than pictorial context and pre-questioning in prior EFL studies](vocabulary-preteaching-less-effective-than-other-prereading-strategies-prior-studies.md) — reports the opposite
 - [Explicit instruction of four reading comprehension strategies with short stories yields higher reading comprehension post-test scores than regular syllabus instruction in EFL preparatory students](explicit-strategy-instruction-short-stories-improve-efl-reading-comprehension.md) — related
+- [Watching cartoons with English subtitles produces no statistically significant vocabulary-gain advantage over watching without subtitles among upper-intermediate ELT students](no-subtitle-advantage-cartoon-vocabulary-gains.md) — related

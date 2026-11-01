@@ -48,3 +48,4 @@ Pre-test/post-test equivalent-group study of 48 tenth-grade girls (24 per group)
 - [Grade VIII students taught with a contextual learning model show higher increases in mathematical problem-solving ability than students taught with expository learning](contextual-learning-higher-problem-solving-gain.md) — related
 - [Collaborative and individual problem solving in traditional PF do not differ in conceptual knowledge after instruction](pf-collaborative-individual-no-conceptual-knowledge-difference.md) — related
 - [Productive failure students significantly outperformed lecture-practice and facilitated complex problem solving students on well-structured and higher-order application post-test problems](pf-outperformed-lp-fcps-post-test-problems.md) — related
+- [Experimental-group students scored higher on the post-test achievement test than control-group students (62.47 vs 48.08)](context-based-ecosystem-design-higher-achievement.md) — related

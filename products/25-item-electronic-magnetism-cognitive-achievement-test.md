@@ -29,6 +29,7 @@ A 25-item multiple-choice test developed by Alneyadi et al. to measure eleventh-
 - [Situational Thinking Styles Scale for Sixth Grade Students](situational-thinking-styles-scale-for-sixth-grade-students.md)
 - [CTTBE: Critical Thinking Test for Basic Education](cttbe-critical-thinking-test-for-basic-education.md)
 - [CTAT: Computational Thinking in AI Training Test](ctat-computational-thinking-in-ai-training-test.md)
+- [Science and Technology Achievement Test (STAT)](science-and-technology-achievement-test-stat.md)
 
 ## Key Sources
 - Alneyadi, S., & Wardat, Y. (2023). ChatGPT: Revolutionizing student achievement in the electronic magnetism unit for eleventh-grade students in Emirates schools. Contemporary Educational Technology, 15(4), ep448. https://doi.org/10.30935/cedtech/13417

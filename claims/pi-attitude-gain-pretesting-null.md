@@ -50,3 +50,6 @@ Descriptive analysis (means, standard deviations, mean gains) of SADQ scores in 
 - [Students taught Structure of the Atom and the Periodic Table with Programmed Instruction obtained significantly higher attitude mean scores than control groups taught conventionally](pi-higher-posttest-attitude-sapt.md) — related
 - [ANCOVA on post-test attitude scores with KCSE covariates found a statistically significant overall difference among the three groups](ancova-posttest-attitudes-significant.md) — related
 - [Before intervention, attitude scores of the pretested experimental and control groups were statistically the same](pi-pretest-attitude-equivalence.md) — related
+- [The experimental group's pretest-to-post-test attitude gain was significantly larger than the control group's, but the behavior dimension showed no significant difference](eas-gain-score-significant-behavior-not.md) — related
+- [Post-test environmental attitudes did not differ significantly between experimental and control groups in the ANCOVA](posttest-eas-ancova-no-significant-difference.md) — related
+- [Both groups improved in achievement from pretest to post-test, but only the experimental group showed significant attitude gains](within-group-prepost-gains.md) — related

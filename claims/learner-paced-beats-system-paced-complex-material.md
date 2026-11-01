@@ -148,3 +148,5 @@ This meta-analysis updated earlier work (Niemiec, Sikorski, & Walberg) on giving
 - [Learner pacing is a proposed moderator that may explain the absence of a split-attention effect in visually-based mobile learning](self-pacing-may-moderate-split-attention-in-mobile-learning.md) — related
 - [E-learning platforms allow self-paced navigation, enabling focus on areas of difficulty](e-learning-self-paced-navigation.md) — a narrower finding that bears on this claim
 - [AR technologies may facilitate physics learning by providing complementary visualizations, optimizing cognitive load, allowing haptic learning, reducing task completion time and promoting collaborative inquiry](ar-facilitates-physics-learning-five-mechanisms.md) — related
+- [Teaching with multimedia required the teacher to adjust and sometimes rewind the material to accommodate new-old information strategies](teacher-adjust-rewind-multimedia-listening.md) — related
+- [Students reported that videos and 3D animations facilitated conceptual understanding via concretization, pausing, slowing down, replaying, and enlarging features](video-animation-features-student-perspectives.md) — related

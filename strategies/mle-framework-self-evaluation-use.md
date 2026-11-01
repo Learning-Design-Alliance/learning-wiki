@@ -39,6 +39,7 @@ The article recommends using the indicator grid as a tool of self-evaluation for
 ## Related Strategies
 
 - [Use the competency framework as a fluid tool for appraisal, self-assessment and identifying learning needs](competency-framework-as-development-review-tool.md)
+- [Provide teachers with detailed guidance, orientation and feedback practice when implementing the Grid Model](grid-model-teacher-guidance-strategy.md)
 
 ## Examples
 -

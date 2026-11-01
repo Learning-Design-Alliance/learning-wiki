@@ -72,10 +72,12 @@ Whole-class sharing supports learning by requiring learners to articulate and or
 - [Collaborative Inquiry](../principles/inquiry-based-learning.md) — groups present findings for collective critique and synthesis
 
 ## Examples
+
 - **[Think-Pair-Share](../patterns/think-pair-share.md)** — pairs rehearse ideas privately before public sharing, lowering the risk of the whole-class phase
 - **[Jigsaw Method](../patterns/fostering-communities-of-learning-fcl.md)** — each expert reports a piece of the content; the class cannot succeed without every share
 - **[Socratic Seminar](socratic-seminar.md)** — students present and challenge interpretations in a whole-class circle governed by text-evidence norms
 - **[Gallery Walk](../strategies/gallery-walk.md)** — written group products are posted and toured, converting simultaneous small-group sharing into a whole-class exchange
+- [Implement think-pair-share through a three-step sequence: individual thinking, pair discussion, and whole-class sharing with instructor feedback](../strategies/tps-three-step-implementation.md)
 
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)

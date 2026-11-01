@@ -13,7 +13,7 @@ generated:
 # Age and Developmental Stage
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 209 claims (135 show a difference, 48 mixed, 26 no difference) · 168 studies (63 associational, 33 causal, 27 review, 24 quant-synthesis, 10 theoretical, 6 design, 5 qualitative), `q1`–`q4` · 24 of 168 report an effect size · 207 claims rest on one study
+> **Evidence** · 210 claims (135 show a difference, 49 mixed, 26 no difference) · 169 studies (63 associational, 34 causal, 27 review, 24 quant-synthesis, 10 theoretical, 6 design, 5 qualitative), `q1`–`q4` · 24 of 169 report an effect size · 208 claims rest on one study
 
 ## Description
 Age and developmental stage cover a learner's chronological age, grade level, and the cognitive, language and social development that comes with them. Research uses them as a predictor (growth curves, when skills emerge), as a moderator (an approach that works for older students but not younger ones, or for adults but not children) and to define a population (early childhood, adolescents, adult learners). Age is often a stand-in for what actually matters, such as prior knowledge, reading skill or self-regulation, so a finding that differs by age is a reason to ask which of those it reflects.
@@ -241,6 +241,7 @@ Age and developmental stage cover a learner's chronological age, grade level, an
 - [Flip teaching's effect size on laboratory performance varies by course and grade level, being medium for low-grade Physics and high-grade Electricity students and lesser for the other groups.](../claims/ft-effect-size-varies-by-subgroup.md) [~M] — an instructional effect differs with it
 - [The effect of flip teaching on laboratory grades does not interact with students' final-grade level (high vs low).](../claims/no-method-by-grade-level-interaction.md) [-M] — an instructional effect differs with it
 - [Structure-outcome relationships appear largely universal across grade levels](../claims/structure-benefits-appear-universal-across-grade-levels.md) [-M] — an instructional effect differs with it
+- [Grade level moderates the SKILL effect on reading comprehension, benefiting Grades 3–4 but not Grades 1–2, while oral and written language effects do not vary by grade](../claims/skill-grade-moderation-reading.md) [~W] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does being older at school entry, or older than one's classmates, give a lasting achievement advantage?* [Being a year older at kindergarten entry leads to higher initial achievement](../claims/older-entry-higher-initial-achievement.md) [+M]

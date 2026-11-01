@@ -53,3 +53,4 @@ Narrative synthesis of ICC estimates compiled by Chiang (2009) from fall-spring 
 - [Most variation in digit span performance is within-person rather than between-person](within-person-variation-dominates-digit-span.md) — related
 - [School-level differences in grades are small and largely explained by attendance and course characteristics](school-grade-variance-small-explained.md) — related
 - [Nearly half the variance in kindergarten-entry scores lies between districts, with less variance in achievement trends at the district level](district-level-variance-kindergarten-entry-scores.md) — related
+- [School-level ICCs for science achievement range from 0.172 to 0.312 across three states and grades, with lower values in Texas](science-icc-range-0172-0312-two-level.md) — related

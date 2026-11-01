@@ -54,3 +54,4 @@ Cohort 1 random-assignment evaluation: treatment teachers rated recess-to-classr
 - [In a randomized controlled trial, children in Playworks schools spent more time in vigorous physical activity at recess than students at non-Playworks schools, and more teachers in Playworks schools reported students engaged in intense recess activity](playworks-rct-more-vigorous-recess-activity.md) — related
 - [Having some recess is associated with better teacher-reported classroom behavior than no or minimal recess](recess-associated-better-teacher-reported-behavior.md) — related
 - [Recess quality is associated with adaptive classroom behavior, resilience, and lower externalizing problems](recess-quality-associated-behavior-resilience.md) — related
+- [The prior RCT found no treatment effects on recess social interactions or academic skills](schoolmax-no-effect-recess-academic-outcomes.md) — related

@@ -46,6 +46,7 @@ The article describes a specific classroom routine for using concept cartoons: t
 
 - [Implement concept cartoons© by following the inquiry working procedure, praising all views, supporting discussion, and letting students practically verify their own assumptions](concept-cartoons-implementation-recommendations.md)
 - [Have students draw their own cartoons to express concerns and consolidate understanding of an issue](students-draw-own-cartoons.md)
+- [Recommendations for future PBL and concept cartoon research and materials](pbl-concept-cartoon-future-recommendations.md)
 
 ## Examples
 -

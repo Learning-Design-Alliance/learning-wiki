@@ -48,3 +48,5 @@ Post-test only cluster-randomised pilot in five primary schools (372 pupils anal
 - [Exploratory sub-group analyses suggested PAL worked better for girls than boys in literacy and numeracy, with small effects](pal-gender-subgroup-girls-benefit.md) — related
 - [The PAL pilot's secondary outcome showed a non-significant negative effect on attitude towards school](pal-pilot-attitude-school-null-negative.md) — related
 - [Passive dissemination of research summaries and evidence-based literacy materials to primary schools showed no evidence of improving pupils' Key Stage 2 English attainment compared with control](passive-dissemination-no-ks2-english-impact.md) — related
+- [The SHINE in Secondaries Saturday school showed a very small impact on literacy and numeracy outcomes across all four pilot schools](shine-secondaries-very-small-literacy-numeracy-impact.md) — related
+- [Schools combined the three intervention components with considerable variation, and the evaluators concluded the programme would have benefited from a pilot stage](vefp-component-variation-pilot-needed.md) — related

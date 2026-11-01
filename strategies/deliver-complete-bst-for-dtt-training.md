@@ -48,6 +48,7 @@ The article recommends training DTT implementers with the full BST package rathe
 
 - [Provide summary guidelines or instructional checklists to counter post-training fidelity decline](checklists-counter-fidelity-decline.md)
 - [Provide summary guidelines or instructional checklists to counter a potential drop in DTT implementation ability over time](checklists-counter-maintenance-decline.md)
+- [Provide teachers with detailed guidance, orientation and feedback practice when implementing the Grid Model](grid-model-teacher-guidance-strategy.md)
 
 ## Examples
 -

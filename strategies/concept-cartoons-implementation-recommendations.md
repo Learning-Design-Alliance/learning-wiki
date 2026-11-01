@@ -52,6 +52,7 @@ From the observation findings the article formulates recommendations for teachin
 
 - [Concept cartoon discussion routine: present, debate viewpoints, then student research without teacher explanation](concept-cartoon-discussion-research-routine.md)
 - [Have students draw their own cartoons to express concerns and consolidate understanding of an issue](students-draw-own-cartoons.md)
+- [Recommendations for future PBL and concept cartoon research and materials](pbl-concept-cartoon-future-recommendations.md)
 
 ## Examples
 -

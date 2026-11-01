@@ -56,3 +56,5 @@ Meta-analytic integration of single-level design parameters estimated from six G
 - The study estimated 237 single-level, 589 two-level, and 226 three-level design parameters from German preschool probability samples — related
 - [CPS predicts GPA beyond g, though the increment is small and not consistent across all grades](cps-predicts-gpa-beyond-g.md) — a narrower finding that bears on this claim
 - [Cognitive abilities show the strongest correlation with academic achievement among the student-characteristic domains examined](cognitive-abilities-strongest-correlate-academic-achievement.md) — related
+- [A 1-year lag student-level science pretest explains the most variance where available, but a 1-year lag reading or mathematics pretest often outperforms a 3-year lag science pretest](lag-length-beats-subject-match-student-pretests.md) — related
+- [School-level science pretests explain more variance in science outcomes than school-level reading or mathematics pretests in every grade and state](same-subject-science-pretest-more-explanatory.md) — a narrower finding that bears on this claim

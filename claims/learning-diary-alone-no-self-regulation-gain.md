@@ -74,3 +74,4 @@ Quasi-experimental comparison across four university courses with pre–post mea
 - [Strategy Instruction Improves Academic Performance](strategy-instruction-improves-academic-performance.md) — related
 - [Strategy Instruction Improves Learning](strategy-instruction-improves-learning.md) — related
 - [Tenth-grade students who wrote structured reflective science journals significantly outperformed control students on overall self-regulation strategies](reflective-journal-writing-improves-self-regulation-strategies.md) — related
+- [Keeping a journal as a writing-to-learn activity showed no statistically significant achievement difference from conventional instruction](journal-keeping-no-achievement-effect.md) — related

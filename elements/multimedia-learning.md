@@ -13,7 +13,7 @@ generated:
 # Multimedia Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 36 claims (24 for, 12 mixed) · 37 studies (19 causal, 7 review, 6 quant-synthesis, 3 associational, 2 qualitative), `q2`–`q4` · 12 of 37 report an effect size · 32 claims rest on one study
+> **Evidence** · 37 claims (25 for, 12 mixed) · 38 studies (20 causal, 7 review, 6 quant-synthesis, 3 associational, 2 qualitative), `q1`–`q4` · 12 of 38 report an effect size · 33 claims rest on one study
 
 ## Description
 Multimedia learning is the element in which learners engage with coordinated combinations of words, visuals, audio, animation, or interactive media. It is useful when multiple representations clarify structure, process, or relationship more effectively than a single mode alone.
@@ -72,6 +72,7 @@ Multimedia learning is the element in which learners engage with coordinated com
 - [Interactive multimedia materials using Wondershare Quizcreator produced significantly higher posttest listening scores than audio materials in a quasi-experiment with 72 undergraduates](../claims/wondershare-quizcreator-multimedia-higher-posttest-listening.md) [+W] — attached 2026-11-01 from Andi Tenri Ampa (2015), which proposed "Interactive multimedia listening materials built with Wondershare Quizcreator"; tests this page's relationship.
 - [Humorous video clips improve Iranian undergraduate EFL learners' idiom achievement compared with conventional instruction without clips](../claims/humorous-video-clips-improve-efl-idiom-achievement.md) [+W] — attached 2026-11-01 from Malihe Neissari et al. (2017), which proposed "BBC "The Teacher" English Idiom Series humorous video clips"; tests this page's relationship.
 - [In preliminary research, 79.06% of surveyed students reported interest in the multimedia materials and considered them helpful for learning listening skills](../claims/preliminary-survey-students-interested-multimedia-materials.md) [+W]
+- [Students reported that videos and 3D animations facilitated conceptual understanding via concretization, pausing, slowing down, replaying, and enlarging features](../claims/video-animation-features-student-perspectives.md) [+W]
 
 ## The evidence by question
 

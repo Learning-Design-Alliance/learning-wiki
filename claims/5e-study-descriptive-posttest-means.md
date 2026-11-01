@@ -47,3 +47,4 @@ Descriptive statistics from Table 1 of the quasi-experiment: post-test means of 
 ## Related Claims
 - [Fifth-grade students taught science through inquiry-based instruction supported by the 5E learning cycle achieved significantly higher post-test scores than students taught by traditional methods](5e-inquiry-higher-achievement-than-traditional.md) — possibly the same claim (merge candidate)
 - [The 5E instructional model shows a large, significant pooled effect on academic achievement versus traditional teaching methods in Turkish studies (2008-2014)](5e-model-large-effect-academic-achievement.md) — a broader claim this one bears on
+- [Post-test scores were more consistent (lower standard deviation) in the teaching-aids groups than in the control groups on both measures](teaching-aids-lower-post-test-variability.md) — related

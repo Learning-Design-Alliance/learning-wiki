@@ -64,3 +64,4 @@ Quasi-experimental post-test control group study with 25 experimental and 25 con
 - [Students taught reading comprehension with Joint Productive Activity scored higher on post-tests than students taught by the traditional method](jpa-group-outperformed-traditional-group-post-test.md) — related
 - [Vocabulary pre-teaching and pre-questioning produce no statistically significant difference in Saudi EFL college students' reading comprehension scores](no-difference-vocabulary-preteaching-prequestioning-saudi-efl.md) — related
 - [The review reports that pre-reading activities have received abundant empirical support for enhancing EFL reading comprehension across contexts](prereading-activities-enhance-comprehension-empirical-support.md) — related
+- [Prior studies report positive relationships between genre awareness or genre-based instruction and reading comprehension](prior-gbi-reading-studies-positive-findings.md) — related

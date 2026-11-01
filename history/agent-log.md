@@ -5,6 +5,19 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-01 — two checks that raised false or avoidable triage items
+
+**The ANOVA-row parser dropped APA decimals.** `stat_checks.anova_rows` matched numbers with a leading
+digit only, so in a table printed `33.108 .000 .398` the last number it saw was F, reported as
+"eta squared > 1". Every high-severity source-validity hold in j-screric-1 and -2 (three sources) was this.
+Fixed to read `.398`; across the 9,686 cached sources the fix removes 10 such findings and adds none.
+
+**Near-duplicate pages were judged before the step that writes most of them.** `run_scrape_batch.py`
+ran `judge_duplicates.py` before `settle_candidates.py --apply`, which writes the batch's new design and
+product pages, so the pairs those pages formed were left for triage (2 of the first 3 ERIC batches, every
+pair a design or product). The judging step now runs right after settling. Same judge, same outcomes;
+no step added or removed.
+
 ## 2026-11-01 — a batch that failed at ingest was committed as finished; three fixes
 
 - **What happened.** j-scrsyn-8's ingest wrote `vp-passive-vs-active-comparison`, already an alias

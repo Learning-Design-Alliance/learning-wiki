@@ -31,7 +31,8 @@ CPMP-Tools is mathematical software developed for the Core-Plus Mathematics Proj
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Microsoft Mathematics](microsoft-mathematics.md)
 
 ## Key Sources
 - Core-Plus Mathematics evidence review. (2019). https://www.coreplusmath.org

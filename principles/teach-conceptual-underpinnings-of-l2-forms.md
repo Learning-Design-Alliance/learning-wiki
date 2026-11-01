@@ -157,6 +157,7 @@ Understanding the core sense, choosing correctly on practice items, choosing cor
 - [Teach prepositions by presenting the core spatial sense first, then deriving metaphoric senses, supported by diagrams and schemas](../strategies/core-sense-first-diagram-preposition-teaching.md)
 - [Concept-Based Language Instruction with Gal'perin's verbalization phases](../elements/concept-based-language-instruction-galperin-verbalization.md) — learners explain the concept to others, then to themselves.
 - [Address Mother Tongue Interference](../strategies/address_mother_tongue_interference.md) — a recipe for the L1 contrast step.
+- [Combine CL-based cognitive explanations with DDL concordance work when teaching polysemous spatial prepositions](../strategies/combine-cl-with-ddl-strategy.md)
 
 ## Key Sources
 - Lb0

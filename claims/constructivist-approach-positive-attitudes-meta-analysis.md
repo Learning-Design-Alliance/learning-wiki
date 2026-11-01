@@ -54,3 +54,4 @@ Meta-analysis of 43 studies (28 theses, 15 articles) conducted in Turkey between
 - [Innovative teaching approaches produce significant positive effects on overall attitude toward science and mathematics (d = 0.35 after outlier removal)](innovative-teaching-positive-overall-attitude-meta-analysis.md) — related
 - [Year of publication does not significantly moderate the effect of constructivism on attitudes towards lessons](publication-year-not-significant-moderator-constructivism-attitudes.md) — related
 - [Flipped classrooms in higher education show a medium overall positive effect on student outcomes compared with traditional lecture-based classrooms](flipped-classroom-medium-overall-effect-higher-education.md) — related
+- [Argumentation-based teaching of Functions yields more positive attitudes toward mathematics than traditional teaching](argumentation-improves-maths-attitude-functions.md) — a narrower finding that bears on this claim

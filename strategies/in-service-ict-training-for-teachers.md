@@ -50,6 +50,7 @@ The article recommends ongoing professional development so teachers can handle I
 - [Eight recommendations for supporting teachers' technology integration, including personalized professional learning and formalized coaching](pr-eight-recommendations-technology-integration-support.md)
 - [Allocate ongoing professional development so teachers learn to evaluate and integrate AI systems appropriately](ongoing-teacher-pd-for-ai-evaluation-integration.md)
 - [Provide comprehensive professional development and ongoing coaching when implementing a structured literacy program](spellread-professional-development-support.md)
+- [Design ICT-integration teacher training that is subject-oriented and workshop-based over a long period](subject-oriented-workshop-ict-teacher-training.md)
 
 ## Examples
 -

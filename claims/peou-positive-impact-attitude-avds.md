@@ -57,3 +57,4 @@ SEM analysis using IBM SPSS AMOS 27 on TAM questionnaire data from the experimen
 - [Students' willingness to accept learning analytics systems is moderately predicted by their attitudes toward data control and sharing](privacy-attitudes-predict-analytics-acceptance.md) — related
 - [Perceived ease of use is a robust predictor, positively and significantly influencing students' attitudes towards CSCL and their perceptions of usefulness](ease-of-use-predicts-attitude-and-usefulness-cscl.md) — related
 - [Perceived usefulness, rather than perceived ease of use, was the primary predictor of LLM adoption across TAM-based studies](perceived-usefulness-predicts-llm-adoption.md) — related
+- [Experimental-group students reported positive perceptions of AR, with highest scores for enjoyment (M = 4.44) and ease of use (M = 4.29)](positive-student-perceptions-ar-tam-questionnaire.md) — related

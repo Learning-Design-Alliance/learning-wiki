@@ -51,3 +51,4 @@ Quasi-experimental nonequivalent-groups study of 28 fourth graders (control n = 
 - [The control group improved significantly in completion speed from pretest to posttest while the treatment group showed no significant speed improvement](control-group-significant-speed-gain-treatment-not.md) — related
 - [Both the control and treatment groups improved significantly in accuracy of multiplication fact answers from pretest to posttest](both-groups-significant-accuracy-gains.md) — related
 - [Posttest accuracy scores did not differ significantly between the treatment and control groups](posttest-accuracy-no-group-difference.md) — related
+- [MANOVA with repeated measures showed significant main effects of test-time and a significant group-learning-by-test-time interaction on mathematics achievement](manova-group-learning-testtime-interaction-math.md) — related

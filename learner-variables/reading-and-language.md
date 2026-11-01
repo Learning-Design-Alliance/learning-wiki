@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 258 claims (160 show a difference, 45 mixed, 53 no difference) · 172 studies (50 associational, 44 causal, 36 quant-synthesis, 27 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 41 of 172 report an effect size · 249 claims rest on one study
+> **Evidence** · 260 claims (160 show a difference, 46 mixed, 54 no difference) · 174 studies (50 associational, 46 causal, 36 quant-synthesis, 27 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 41 of 174 report an effect size · 251 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -309,6 +309,8 @@ What a learner can read without effort, and whether the language of instruction 
 - [The CCT intervention showed no statistically significant effect on posttest oral reading fluency, including within the low-fluency region of significance](../claims/cct-no-posttest-orf-effect.md) [-M] — instruction changes it
 - [Class-level initial reading achievement does not moderate effects on content reading comprehension](../claims/class-reading-achievement-no-moderation-comprehension.md) [-M] — an instructional effect differs with it
 - [In kindergarten, English learner students benefited more from the embedded intervention in phonological awareness while non–English learner students benefited more from the standalone intervention in word reading](../claims/kindergarten-english-learner-status-interactions.md) [~M] — an instructional effect differs with it
+- [The PRIMR literacy intervention had a positive impact on Kenyan pupils' literacy outcomes, including letter sound identification fluency, oral reading fluency, reading comprehension, and the percentage of pupils reading at the Ministry of Education benchmark, though not on all combinations of language, grade, and school type.](../claims/primr-positive-impact-kenya-literacy.md) [~M] — instruction changes it
+- [The Vocabulary Enrichment Full Programme showed no statistically significant impact on Year 7 pupils' reading ability in a pupil-randomised controlled trial](../claims/vefp-no-significant-impact-reading-ability.md) [-M] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

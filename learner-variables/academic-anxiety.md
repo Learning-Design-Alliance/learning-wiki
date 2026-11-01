@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 187 claims (122 show a difference, 42 mixed, 23 no difference) · 117 studies (43 associational, 26 causal, 25 review, 10 quant-synthesis, 6 theoretical, 5 qualitative, 2 design), `q1`–`q4` · 27 of 117 report an effect size · 180 claims rest on one study
+> **Evidence** · 193 claims (126 show a difference, 42 mixed, 25 no difference) · 119 studies (43 associational, 28 causal, 25 review, 10 quant-synthesis, 6 theoretical, 5 qualitative, 2 design), `q1`–`q4` · 28 of 119 report an effect size · 186 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -223,6 +223,12 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Conventional curriculum instruction also produced significant pretest-posttest gains in verbal skills and reductions in speech anxiety](../claims/conventional-instruction-also-improves-verbal-skills-and-anxiety.md) [+M] — instruction changes it
 - [Drama instruction reduced students' speech anxiety to a lower level than conventional instruction at posttest](../claims/drama-instruction-reduces-speech-anxiety-more-than-conventional.md) [+M] — instruction changes it
 - [Within the drama group, speech anxiety decreased significantly from intermediate to very low level](../claims/drama-group-speech-anxiety-pretest-posttest-decrease.md) [+M] — instruction changes it
+- [Achievement in mathematics word problems correlates positively with five attitude dimensions and negatively with anxiety](../claims/attitude-achievement-correlations-word-problems.md) [+M] — learners who differ on it differ in outcomes
+- [Grid Model curriculum shows no significant post-test effect on external goal orientation, learning control belief, or test anxiety](../claims/grid-model-no-effect-external-control-anxiety.md) [-W] — instruction changes it
+- [In the private-school experimental group only test anxiety changed, decreasing significantly, with other motivation dimensions unchanged](../claims/grid-model-private-school-test-anxiety-decrease.md) [+W] — instruction changes it
+- [Motivation is the most potent stepwise predictor of achievement in mathematics word problems, while anxiety and male domain make no relative contribution](../claims/motivation-strongest-stepwise-predictor-achievement.md) [-W] — learners who differ on it differ in outcomes
+- [Personalised instruction students differed significantly from non-personalised students on every individual attitude subscale, including lower anxiety and higher perceived male domain](../claims/personalisation-significant-on-each-attitude-subscale.md) [+W] — instruction changes it
+- [Self-confidence, liking, usefulness, motivation, context, anxiety, male domain and treatment jointly and significantly predict achievement in mathematics word problems](../claims/attitudes-and-treatment-predict-word-problem-achievement.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

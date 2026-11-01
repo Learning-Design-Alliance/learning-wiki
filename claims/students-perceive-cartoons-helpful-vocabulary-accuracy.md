@@ -55,3 +55,5 @@ Posttest questionnaire with one yes/no item and an open-ended question administe
 - [Learners hold positive attitudes toward glosses, but their perceptions of which gloss type works best do not match measured performance](gloss-perceptions-mismatch-performance.md) — related
 - [Students in the style-informed EFL classes reported that the teaching procedure was useful and that their interests and motivation increased](students-report-increased-motivation-style-informed-elt.md) — related
 - [Pictorial-context instruction was observed to increase student participation and interest in ESP classes](pictorial-context-increases-participation-interest.md) — related
+- [Learners attributed AWT's greatest benefits to socialization and vocabulary learning, and all 18 experimental participants found the technique helpful](awt-learner-opinions-socialization-vocabulary.md) — related
+- [Watching cartoons with English subtitles produces no statistically significant vocabulary-gain advantage over watching without subtitles among upper-intermediate ELT students](no-subtitle-advantage-cartoon-vocabulary-gains.md) — related

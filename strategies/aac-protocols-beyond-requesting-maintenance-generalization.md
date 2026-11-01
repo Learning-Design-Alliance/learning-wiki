@@ -46,6 +46,7 @@ The article recommends that intervention protocols go beyond isolated settings, 
 - [Deliver neurocognitive training at low frequency within ecologically valid academic contexts rather than as isolated high-frequency sessions](low-frequency-nat-ecological-embedding-strategy.md)
 - [Develop language intervention programs with longer time frames, transferable strategies, and follow-up assessments](longer-language-programs-with-follow-up-assessments.md)
 - [Prefer naturalistic over randomized controlled designs when studying dialogue-outcome relations](naturalistic-design-for-dialogue-outcome-research.md)
+- [Devise language interventions using naturalistic teaching for acquisition with progression to contrived approaches for generalization](naturalistic-acquisition-contrived-generalization-sequence.md)
 
 ## Examples
 -

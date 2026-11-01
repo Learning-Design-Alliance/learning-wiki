@@ -73,3 +73,4 @@ Cochran's Q heterogeneity test on the pooled effect sizes. The variance "is larg
 - [The constructivist learning approach has a strong positive overall effect on students' academic achievement compared to traditional teaching methods (ES = 1.156).](constructivist-approach-overall-effect-achievement.md) — related
 - [Control groups taught with traditional methods in Turkish geometry and numbers theses show a large average pretest-posttest gain of about 0.83 standard deviations](traditional-methods-control-group-gain-083-sd.md) — related
 - [Effect of MIT-based instruction does not differ significantly between master's theses and doctoral dissertations](mit-effect-homogeneous-thesis-type.md) — related
+- [The article reports that prior Turkish studies found computer-aided and simulation-supported instruction more effective than traditional methods](prior-studies-computer-aided-instruction-more-effective.md) — related

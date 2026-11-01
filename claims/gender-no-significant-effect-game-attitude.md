@@ -47,3 +47,4 @@ MANOVA on the 20-statement New Computer Games Attitude Scale for the experimenta
 ## Related Claims
 - [Three game-attitude variables (Learning, Confidence, Leisure) correlated with experimental-group posttest scores](game-attitude-variables-correlated-posttest.md) — related
 - [TGT produced significant positive shifts on two of sixteen mathematics-attitude statements in the experimental group](tgt-attitude-shifts-two-statements.md) — related
+- [Experimental-group students expressed positive attitudes toward gamification, accepting the technique at a high level overall](positive-student-attitudes-toward-kahoot-gamification.md) — related

@@ -53,6 +53,7 @@ For the pre-class preparation topic, the article recommends that teachers produc
 - [Micro Flipped Classroom](micro_flipped_classroom.md)
 - [Use short, narrowly focused instructional videos tailored for online learning](short-tailored-instructional-videos.md)
 - [Use start-of-class quizzes on pre-class video content as a regular part of flipped in-class sessions](start-of-class-quiz-strategy-flipped-classroom.md)
+- [Keep video materials used for learning under 30 minutes to sustain learner attention](keep-learning-videos-under-30-minutes.md)
 
 ## Examples
 -

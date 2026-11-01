@@ -72,3 +72,7 @@ Independent samples t-test on pre-test scores in the quasi-experimental study (n
 - [Experimental and control groups did not differ significantly on the ESP reading pretest](esp-pictorial-pretest-no-difference.md) — related
 - [The experimental and control classes were statistically equivalent before the intervention on prior economics achievement](laps-study-class-equivalence-normality-homogeneity.md) — related
 - [The two groups did not differ significantly in prior agricultural science knowledge before the treatment](no-pretest-difference-between-groups.md) — related
+- [The four groups were equivalent in prior science knowledge before the intervention](gpa-study-pretest-equivalence.md) — related
+- [Students' initial ability influenced their statistics learning outcomes in both the experimental and control classes](initial-ability-influences-statistics-outcomes.md) — related
+- [The experimental and control groups did not differ significantly on the pre test](microsoft-mathematics-pretest-equivalence.md) — related
+- [Pre-test scores showed no significant difference between the simulation-based experimental group and the paper-and-pencil control group](simulation-probability-pretest-equivalence.md) — related

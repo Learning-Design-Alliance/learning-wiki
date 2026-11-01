@@ -45,6 +45,7 @@ Based on the study's findings, the authors recommend that classroom teachers exp
 ## Related Strategies
 
 - [Integrate TBL with other teaching methods and modern educational technologies](tbl-integration-with-other-methods.md)
+- [Teachers apply project-based learning to other mathematics topics, optionally combined with technology-assisted learning](apply-pbl-other-math-topics-technology.md)
 
 ## Examples
 -

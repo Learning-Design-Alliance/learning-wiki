@@ -68,3 +68,4 @@ The review reports, citing included studies, that W-Pal lesson activity "decreas
 - [Some teachers declined to use the VCL citing organisational difficulties and curriculum fit](teachers-declined-vcl-organisational-curriculum.md) — related
 - [Pre-operative errors stem largely from insufficient preparation, including setup issues and cognitive distractions that affect accuracy](preoperative-preparation-and-distraction-errors.md) — related
 - [Challenges of asynchronous e-learning include lack of real-time feedback, computer-skill gaps, and insufficiency for confidence and practical skills](asynchronous-elearning-challenges-nurses.md) — related
+- [Students in the PBL statistics class were active at every observed interval, while some conventional-class students engaged in irrelevant activities](pbl-statistics-student-activity-effective.md) — related

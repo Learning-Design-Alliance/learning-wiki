@@ -47,3 +47,5 @@ Cost information reported in the executive summary's cost section. In this proje
 ## Related Claims
 - [Participating schools were positive about the tuition and keen to work with the Tutor Trust again, and staff saw a need for more affordable high-quality tuition](schools-positive-about-affordable-tuition-service.md) — related
 - [Pupils receiving Tutor Trust tuition made marginally less progress in English and mathematics than matched comparison pupils, with differences not statistically significant](tutor-trust-primary-no-significant-attainment-effect.md) — related
+- [Year 11 pupils receiving Tutor Trust English tuition achieved lower English GCSE scores than comparison pupils (effect size −0.16), but this difference cannot be attributed to the tuition](tutor-trust-english-gcse-lower-not-attributable.md) — related
+- [Year 11 pupils receiving Tutor Trust mathematics tuition achieved slightly higher mathematics GCSE scores than comparison pupils, but this difference cannot be attributed to the tuition](tutor-trust-maths-gcse-slightly-higher-not-attributable.md) — related

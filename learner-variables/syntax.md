@@ -13,7 +13,7 @@ generated:
 # Syntax
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 44 claims (25 show a difference, 9 mixed, 10 no difference) · 34 studies (9 associational, 8 causal, 7 review, 5 quant-synthesis, 3 design, 2 theoretical), `q2`–`q3` · 2 of 34 report an effect size · 41 claims rest on one study
+> **Evidence** · 48 claims (28 show a difference, 9 mixed, 11 no difference) · 37 studies (11 causal, 9 associational, 7 review, 5 quant-synthesis, 3 design, 2 theoretical), `q2`–`q4` · 2 of 37 report an effect size · 45 claims rest on one study
 
 ## Description
 Syntax is knowledge of how sentences work: how the order of words, the arrangement of clauses and the use of punctuation change what a sentence means. Readers draw on it to work out who did what to whom in a long sentence, and writers draw on it to turn an idea into a sentence that says what they intend. It is assessed through samples of a learner's speech or writing, coded for features such as words per clause and clauses per sentence, and through standardised language batteries with syntax subtests.
@@ -82,6 +82,10 @@ Syntactic knowledge starts to develop in early childhood and keeps growing throu
 - [Acute physical activity improves language performance overall (g = 0.28 multivariate), driven by reading, with no significant effect on spelling or sentence comprehension](../claims/acute-physical-activity-improves-language-performance.md) [-M] — instruction changes it
 - [PBL and hybrid PBL improve EFL speaking proficiency, including fluency, grammar, vocabulary, and pronunciation](../claims/pbl-improves-efl-speaking-proficiency.md) [+M] — instruction changes it
 - [Grammar consciousness-raising activities produce significantly higher grammar posttest scores than deductive grammar teaching for young EFL learners](../claims/gcr-activities-significant-posttest-advantage-young-efl.md) [+M] — instruction changes it
+- [Foreign learners of Turkish taught grammar with personalized texts scored significantly higher on the post-test than learners taught with ordinary textbook examples](../claims/personalized-texts-higher-turkish-grammar-achievement.md) [+M] — instruction changes it
+- [In a Thai university EFL course, students revising with Kahoot achieved higher adjusted post-test grammar and vocabulary scores than students revising with paper quizzes](../claims/kahoot-higher-posttest-performance-than-paper-quizzes.md) [+W] — instruction changes it
+- [RLC secondary outcomes (KS2 numeracy and grammar, punctuation and spelling) were small and not statistically significant](../claims/rlc-secondary-outcomes-non-significant.md) [-M] — instruction changes it
+- [The experimental group showed a statistically significant gain from pretest to post-test after personalized grammar instruction](../claims/experimental-group-pretest-posttest-gain.md) [+M] — instruction changes it
 
 ## Measures
 - **Measures of syntactic complexity** (Beers & Nagy, 2007): Student writing samples are coded to identify how many words per clause and clauses per T-units (sentences) students use.

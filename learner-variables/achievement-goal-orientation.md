@@ -13,7 +13,7 @@ generated:
 # Achievement Goal Orientation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 110 claims (61 show a difference, 33 mixed, 16 no difference) · 45 studies (18 associational, 12 causal, 8 review, 4 quant-synthesis, 3 theoretical), `q2`–`q4` · 18 of 45 report an effect size · 108 claims rest on one study
+> **Evidence** · 113 claims (63 show a difference, 33 mixed, 17 no difference) · 46 studies (18 associational, 13 causal, 8 review, 4 quant-synthesis, 3 theoretical), `q2`–`q4` · 18 of 46 report an effect size · 111 claims rest on one study
 
 ## Description
 Achievement goal theory distinguishes mastery goals (developing competence and understanding) from performance goals (showing competence relative to others), each with an approach form (seeking success) and an avoidance form (avoiding failure or looking incompetent). Goals are measured by self-report and are shaped by classroom goal structures: how tasks, evaluation and recognition are organised. Mastery-approach goals generally go with persistence and deeper processing, performance-avoidance goals with anxiety and lower achievement. It is one part of [motivation](motivation.md).
@@ -145,6 +145,9 @@ Achievement goal theory distinguishes mastery goals (developing competence and u
 - [Creating educational Vlogs improved trainee teachers' motivational beliefs relative to written reflections](../claims/vlogs-improved-trainee-teacher-motivational-beliefs.md) [+M] — instruction changes it
 - [Achievement goal motivation declined significantly in the control group over the four-week traditional teaching period](../claims/control-group-achievement-goal-decline.md) [+M] — instruction changes it
 - [Using the geometric functions approach with dynamic mathematics software significantly raises ninth-graders' achievement goal motivation toward mathematics relative to software-only and traditional teaching](../claims/geometric-functions-approach-achievement-goal-motivation.md) [+M] — instruction changes it
+- [Grid Model curriculum shows no significant post-test effect on external goal orientation, learning control belief, or test anxiety](../claims/grid-model-no-effect-external-control-anxiety.md) [-M] — instruction changes it
+- [Grid Model-based science curriculum raises 4th graders' internal goal orientation post-test scores relative to the general curriculum](../claims/grid-model-raises-internal-goal-orientation.md) [+M] — instruction changes it
+- [Within the public-school experimental group, internal goal orientation and self-efficacy increased from pre-test to post-test](../claims/grid-model-public-within-group-gains.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

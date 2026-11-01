@@ -45,6 +45,7 @@ Based on the findings, the authors recommend that recruiting, preparing and trai
 ## Related Strategies
 
 - [Engage students in self-learning by providing an array of technology resources, with teacher training through workshops and seminars](self-learning-technology-resources-teacher-training.md)
+- [Design ICT-integration teacher training that is subject-oriented and workshop-based over a long period](subject-oriented-workshop-ict-teacher-training.md)
 
 ## Examples
 -

@@ -76,6 +76,7 @@ Direct Instruction manages working memory load by sequencing content in small st
 6. Assess performance and [Fading](../elements/fading.md)-adjust pacing based on mastery data ([Assess Performance](../elements/assess-performance.md)).
 
 ## Related Strategies
+
 - [Explicit Teaching](explicit-teaching.md) — the broader principle; DI is its most structured implementation
 - [Mastery Learning](mastery-learning.md) — DI's pacing and re-teach loops operationalize mastery criteria
 - [Scaffaded Inquiry](../elements/scaffolded-inquiry.md) — a contrast case; shifts guidance responsibility to learners as expertise grows
@@ -83,6 +84,7 @@ Direct Instruction manages working memory load by sequencing content in small st
 - [Action-Oriented Feedback](action-oriented-feedback.md) — the corrective mechanism during guided practice
 - [Explicit reading strategy instruction following the WWW&H rule: explain, model, and support strategy implementation with guided practice](explicit-reading-strategy-instruction-steps.md)
 - [Make success criteria visible to students through explicit explanations, think-alouds, and co-construction](explicit-explanations-think-alouds-co-create-success-criteria.md)
+- [Formative research procedure for enhancing an instructional design model](formative-research-edi-development.md)
 
 ## Examples
 - **[Direct Instruction](../patterns/direct-instruction.md)** — the pattern page detailing the full instructional sequence.

@@ -23,7 +23,7 @@ sources:
 # Always report and interpret effect sizes alongside p values for primary outcomes
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 27 claims (17 for, 10 mixed) · 28 studies (12 quant-synthesis, 6 causal, 5 review, 5 theoretical), `q1`–`q4` · 8 of 28 report an effect size · 26 claims rest on one study
+> **Evidence** · 28 claims (18 for, 10 mixed) · 29 studies (12 quant-synthesis, 7 causal, 5 review, 5 theoretical), `q1`–`q4` · 9 of 29 report an effect size · 27 claims rest on one study
 
 ## Conditional relationship
 
@@ -159,6 +159,7 @@ Reporting an effect size, interpreting it against a reference class, and the dec
 - [The g = 0.28 effect of spatial training on mathematics compares favorably to average effects of other educational and mathematics interventions](../claims/spatial-training-effect-compares-favorably-to-other-interventions.md) [+W]
 - [Mathematics effects on FSM pupils differed by outcome status: near-zero as primary outcome (0.01) and negative as secondary outcome (-0.07)](../claims/fsm-maths-primary-secondary-outcome-split.md) [~W]
 - [Medium and large achievement effects are confounded by combined interventions or non-controlled designs](../claims/lad-achievement-effects-confounded.md) [~W]
+- [Subgroup effects for FSM-eligible pupils were small and positive for mathematics (+0.09) and near zero for English (−0.03), with no security rating awarded](../claims/tutor-trust-fsm-subgroup-effects.md) [+W]
 
 ## Related Principles
 

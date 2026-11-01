@@ -31,7 +31,7 @@ sources:
 # Memory Consolidation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 45 claims (24 for, 18 mixed, 3 against) · 56 studies (30 causal, 12 review, 10 quant-synthesis, 3 associational, 1 theoretical), `q1`–`q4` · 15 of 56 report an effect size · 38 claims rest on one study
+> **Evidence** · 47 claims (24 for, 20 mixed, 3 against) · 58 studies (32 causal, 12 review, 10 quant-synthesis, 3 associational, 1 theoretical), `q1`–`q4` · 16 of 58 report an effect size · 40 claims rest on one study
 
 ## Conditional relationship
 
@@ -186,6 +186,8 @@ End-of-session performance, delayed recall, use in later tasks and use in the se
 - [Compression depth and ventilated volume declined over twelve months in nursing students without monthly VAM practice, and differed from those who practised monthly](../claims/monthly-practice-depth-volume-decline.md) [+W]
 - [Outcomes measured immediately after the intervention show larger ITS effects than end-of-year measurement](../claims/its-larger-effects-immediate-measurement.md) [~W]
 - [A single two-hour EBM literature searching workshop did not significantly improve medical students' overall EBM literature searching skills at one week (10.51 vs. 10.50, P=0.99)](../claims/single-workshop-no-literature-searching-gain.md) [+W]
+- [Preposition accuracy gains from written corrective feedback are retained two weeks after treatment](../claims/wcf-gains-retained-delayed-posttest.md) [~W]
+- [PI+EI outperformed PBI+EI on the aural interpretation task at the immediate posttest, but the advantage did not persist at the delayed posttest](../claims/pi-ei-beats-pbi-ei-interpretation-immediate-only.md) [~W]
 
 ## Related Principles
 - [Spaced Learning](spaced-learning.md) — consolidation often depends on how review is distributed over time

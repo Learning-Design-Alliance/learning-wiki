@@ -140,3 +140,4 @@ Reviews roughly twenty years of research (since the mid-1980s) on refutation tex
 - [Reading standard, positive, or negative refutation texts yields significantly higher open-ended explanation scores than reading non-refutation texts in adults](refutation-texts-explanation-knowledge-revision-adults.md) — a narrower finding that bears on this claim
 - [The greater the reorganization of prior knowledge required, the harder new information is to acquire](reorganization-depth-difficulty-conceptual-change.md) — related
 - [Theoretical understanding is preceded by an awareness of insufficient knowledge](awareness-of-insufficient-knowledge-precedes-understanding.md) — related
+- [Argumentation-based teaching produces more frequent clear conceptual comprehension and fewer misconceptions about Functions than traditional teaching](argumentation-improves-conceptual-comprehension-functions.md) — a narrower finding that bears on this claim

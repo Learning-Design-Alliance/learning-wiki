@@ -83,3 +83,4 @@ Meta-analysis of 33 primary studies of corrective feedback in second language ac
 - [A controlled experiment tested whether various types of negative feedback affect adult second-language learners' acquisition of abstract constraints on an overgeneralized rule (the English dative alternation).](negative-feedback-types-dative-alternation-experiment.md) — related
 - [Prompts were overall more effective than recasts as corrective feedback for L2 grammar learning](prompts-more-effective-than-recasts-overall.md) — related
 - [Explicit metalinguistic feedback outperforms recasts on the delayed oral imitation posttest measuring implicit knowledge](metalinguistic-feedback-beats-recasts-delayed-oral-imitation.md) — reports the opposite
+- [Written corrective feedback with an oral metalinguistic tutorial significantly improves Arabic EFL learners' preposition accuracy on an immediate post-test](wcf-improves-preposition-accuracy-immediate-posttest.md) — related

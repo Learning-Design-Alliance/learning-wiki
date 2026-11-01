@@ -53,3 +53,4 @@ Mixed ANOVA in the same classroom-level RCT on the SSIS social skills subscale f
 - [PTR-YC reduces preschool children's problem behavior more than business-as-usual, as measured by the SSIS problem behavior subscale](ptr-yc-reduces-ssis-problem-behavior-vs-bau.md) — related
 - [PTR-YC reduces preschool children's directly observed challenging behavior more than business-as-usual](ptr-yc-reduces-observed-challenging-behavior-vs-bau.md) — related
 - [Typical early childhood providers implemented PTR-YC with very high fidelity, while BAU classrooms completed almost none of the process steps](ptr-yc-high-fidelity-by-typical-providers.md) — related
+- [The treatment effect on social skills was moderated by a significant Condition × Pretest × State interaction, significant only in State A](social-skills-condition-pretest-state-interaction.md) — related

@@ -51,3 +51,5 @@ Pretest comparison in the same quasi-experiment: independent-samples t-test gave
 - [Experimental and control groups were equivalent in vocabulary before the glossing treatment](gloss-study-groups-equivalent-at-pretest.md) — related
 - [The GCR and control groups were equivalent in grammar performance before treatment](gcr-pretest-group-equivalence.md) — related
 - [Interactive multimedia materials using Wondershare Quizcreator produced significantly higher posttest listening scores than audio materials in a quasi-experiment with 72 undergraduates](wondershare-quizcreator-multimedia-higher-posttest-listening.md) — related
+- [Multimedia application is more effective than conventional media for sixth-semester students' listening comprehension, per a t-test comparison](multimedia-more-effective-than-conventional-media-listening.md) — related
+- [The experimental and control groups did not differ significantly on the Turkish grammar pretest, establishing homogeneity before the intervention](pretest-homogeneity-personalized-turkish-groups.md) — related

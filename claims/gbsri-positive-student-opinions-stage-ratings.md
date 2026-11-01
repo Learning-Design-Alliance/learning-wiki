@@ -50,3 +50,4 @@ Four-point Likert questionnaire administered after the treatment; descriptive st
 - [Most questionnaire respondents (96.88%) reported that GBSRI activities improved their writing, and collaborative activities were the most preferred](gbsri-respondents-reported-writing-improvement.md) — related
 - [Undergraduate learners rated CyberAGENTS positively, with scenario authenticity highest and challenge difficulty alignment lowest](cyberagents-positive-learner-perceptions.md) — related
 - [All experimental group EFL students expressed positive perspectives on explicit instruction of reading comprehension strategies](efl-students-positive-views-explicit-strategy-instruction.md) — related
+- [Approximately 80% of voluntary TPS-group students expressed positive opinions of the strategy, citing improved understanding, participation, confidence and attitude](tps-student-opinions-mostly-positive.md) — related

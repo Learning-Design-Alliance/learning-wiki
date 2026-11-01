@@ -1,0 +1,48 @@
+---
+type: claim
+title: "Seventh-graders taught the 'Systems of the Human Body' unit with the simulation method scored significantly higher on the post-test than peers taught by traditional lecture"
+description: "Seventh-graders taught the 'Systems of the Human Body' unit with the simulation method scored significantly higher on the post-test than peers taught by traditional lecture"
+id: simulation-method-higher-posttest-human-body-unit
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-01
+evidence_strength: moderate
+newest_evidence: 2015
+sources:
+  - id: teke-2015
+    resource: "https://eric.ed.gov/?id=EJ1105195"
+    title: "Teke, H., Dogan, B., & Duran, A. (2015). Influence of the Simulation Method on 7th Grade Students' Achievements in Science and Technology Lessons. International Journal of Research in Education and Science (IJRES), 1(2), 111-118. https://eric.ed.gov/?id=EJ1105195"
+    author: "Teke, H., Dogan, B., & Duran, A."
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
+---
+
+# Seventh-graders taught the 'Systems of the Human Body' unit with the simulation method scored significantly higher on the post-test than peers taught by traditional lecture
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i?` Post-test achievement of the simulation-taught experimental group was significantly higher than that of the lecture-taught control group (F=25.160, p<0.05), with Bonferroni correction showing the difference favored the experimental group. [→ Teke 2015](#teke-2015)
+
+## Evidence
+
+### Teke 2015
+
+Teke, H., Dogan, B., & Duran, A. (2015). Influence of the Simulation Method on 7th Grade Students' Achievements in Science and Technology Lessons. International Journal of Research in Education and Science (IJRES), 1(2), 111-118. https://eric.ed.gov/?id=EJ1105195
+
+`q2 · i?` · `causal · r1`
+
+Pretest/post-test control-group quasi-experiment with 35 experimental and 35 control seventh-graders taught for five weeks. The one-way ANOVA on post-test scores gave "F= 25.160, p<0.05"; Bonferroni correction showed the experimental mean (57.08) exceeded the control mean (49.88).
+
+> "As is seen in Table 9, there is a statistically significant difference between the access -level test post -test results of the experimental and control groups (F= 25.160, p<0.05)."
+
+## Discussion
+
+
+## Related Claims
+- [Combining analogy-based simulation with laboratory activities produces significantly higher corrected post-test achievement in simple electricity than either environment alone](combined-simulation-laboratory-beats-either-alone-electricity.md) — related

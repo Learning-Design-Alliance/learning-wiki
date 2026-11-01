@@ -47,3 +47,4 @@ MANOVA on the two dependent variables (SHME and SME scores) in the quasi-experim
 ## Related Claims
 - [A serious digital game produced no statistically significant effect on secondary students' animal science competence, as measured by a swine health and management examination, compared with lecture and discussion](dgbl-no-significant-effect-animal-science-competence.md) — related
 - [Victim age (adult vs. child) did not significantly affect public perceptions in this vignette experiment, contrary to prior findings](victim-age-no-effect-perceptions-vignette.md) — related
+- [MANOVA with repeated measures showed significant main effects of test-time and a significant group-learning-by-test-time interaction on mathematics achievement](manova-group-learning-testtime-interaction-math.md) — related
