@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2021
+source_checked: 2026-11-01
 sources:
   - id: xu-wei-2021
     resource: "https://doi.org/10.1097/MD.0000000000027402"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Across 3 studies reporting comprehensive question scores, PBL students scored higher than LBL students, pooled SMD 0.53 (95% CI 0.29, 0.78). [→ Xu Wei 2021](#xu-wei-2021)

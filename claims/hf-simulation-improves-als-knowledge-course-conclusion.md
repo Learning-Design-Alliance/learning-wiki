@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-11-01
 sources:
   - id: zeng-qin-2023
     resource: "https://doi.org/10.1186/s12909-023-04654-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i1` small
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Pooled RCT data show a statistically significant benefit in knowledge improvement for HF simulation compared with LF simulation and traditional training at course conclusion (SMD = 0.38; 95% CI: 0.18–0.59, P = 0.0003, I2 = 70%). [→ Zeng Qin 2023](#zeng-qin-2023)

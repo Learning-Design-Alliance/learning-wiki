@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-11-01
 sources:
   - id: el-andari-r-2023
     resource: "https://doi.org/10.1503/cjs.017921"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Studies that evaluated outcomes showed significant improvement in time to completion of tasks, proportion of trainees committing technical errors, skills scores and theoretical knowledge after participation in SBT. [→ EL-Andari R 2023](#el-andari-r-2023)

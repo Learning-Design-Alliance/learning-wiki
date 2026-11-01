@@ -46,5 +46,5 @@ Galbraith plot analysis of the 15 RCTs identified four studies as potential hete
 
 ## Related Claims
 - [After removing five outlying studies identified by Galbraith plot, the PBL advantage persisted with low heterogeneity (Hedges' g = 0.592, I2 = 26.807%)](pbl-advantage-persists-after-galbraith-removal.md) — related
-- [Pooled PBL-CBL versus LBL estimates show high heterogeneity and publication bias but remain robust in sensitivity and trim-and-fill analyses](pbl-cbl-meta-heterogeneity-publication-bias.md) — related
+- [Pooled PBL-CBL versus LBL estimates for theoretical and practical scores show high heterogeneity and publication bias but remain robust in sensitivity and trim-and-fill analyses](pbl-cbl-meta-heterogeneity-publication-bias.md) — related
 - [Removing 5 heterogeneous studies leaves the PBL advantage intact (SMD 0.79) with reduced heterogeneity, and the Liu et al study most affects stability](sensitivity-analysis-pbl-pooled-smd-stable.md) — related

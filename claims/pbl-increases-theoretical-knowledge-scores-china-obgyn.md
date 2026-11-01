@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2021
+source_checked: 2026-11-01
 sources:
   - id: bi-s-2021
     resource: "https://doi.org/10.1097/MD.0000000000024660"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i3` large
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In a meta-analysis of randomized controlled trials, the PBL group significantly increased theoretical knowledge scores by a standardized mean of 3.17 compared with the traditional teaching model. [→ Bi S 2021](#bi-s-2021)
@@ -37,7 +38,7 @@ Bi S, Liu R, Li J, Gu J. (2021). The effectiveness of problem-based learning in 
 
 `q3 · i3` · `quant-synthesis · r3`
 
-Meta-analysis of randomized controlled trials in Chinese obstetrics and gynecology education; 19 studies reported theoretical knowledge scores (827 PBL vs 843 traditional participants) after excluding the three most heterogeneous studies. The pooled effect size was SMD = 3.17 (95% CI: 2.28, 4.07), described as "a standardized mean of 3.17", with significant residual heterogeneity (I2 = 98%).
+Meta-analysis of randomized controlled trials in Chinese obstetrics and gynecology education; 19 studies reported theoretical knowledge scores (827 PBL vs 843 traditional participants). The three most heterogeneous of them were excluded before pooling, so the pooled estimate rests on fewer studies and participants than those totals (the article does not print the post-exclusion counts). The pooled effect size was SMD = 3.17 (95% CI: 2.28, 4.07), described as "a standardized mean of 3.17", with significant residual heterogeneity (I2 = 98%).
 
 > "the meta-analysis results showed the PBL group significantly increased theoretical knowledge scores by a standardized mean of 3.17 compared with those of the traditional teaching model (95% CI: 2.28, 4.07, Fig. 4). However, the heterogeneity was still significant in the pooled effect (I2 = 98%, P < .01)"
 

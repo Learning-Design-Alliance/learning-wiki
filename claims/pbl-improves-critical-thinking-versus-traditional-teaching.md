@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-01
 sources:
   - id: ge-wei-li-2025
     resource: "https://doi.org/10.1186/s12909-025-06951-z"
@@ -40,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · quant-synthesis `r2` · `q2` · `i1` small
-> **Currency** · newest study 2025 · 2 of 3 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-01 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i1` A meta-analysis of nursing students found PBL significantly improved overall critical thinking scores versus traditional lectures (SMD = 0.33). [→ Ge Wei-Li 2025](#ge-wei-li-2025)
@@ -55,7 +56,7 @@ Ge Wei-Li, Zhu Xia-Yin, Lin Jiang-Bo, Jiang Jian-Jun, Li Tao, Lu Yi-Fei, Mi Ya-F
 
 `q2 · i1` · `quant-synthesis · r2`
 
-Umbrella review reports the Kong et al. meta-analysis of 9 RCTs in nursing students (985 participants), finding "a significant difference in overall critical thinking scores" favoring PBL over traditional lectures, with printed effect size SMD = 0.33, 95%CI 0.13–0.52, p = 0.0009.
+Umbrella review reports the Kong et al. (2014) meta-analysis of 9 studies in nursing students, 8 of them RCTs (sample size 985; the umbrella review's table lists 438 included participants), finding "a significant difference in overall critical thinking scores" favoring PBL over traditional lectures, with printed effect size SMD = 0.33, 95%CI 0.13–0.52, p = 0.0009.
 
 > "Kong [26] proposed that the pooled effect size showed a significant difference in overall critical thinking scores (SMD = 0.33, 95%CI = 0.13–0.52, p = 0.0009) in favor of PBL compared with traditional lectures."
 

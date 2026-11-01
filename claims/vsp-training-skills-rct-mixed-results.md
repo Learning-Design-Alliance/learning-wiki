@@ -9,27 +9,28 @@ generated:
   at: 2026-10-31
 evidence_strength: mixed
 newest_evidence: 2024
+source_checked: 2026-11-01
 sources:
   - id: sten-cw-2024
     resource: "https://doi.org/10.1186/s12909-024-05423-0"
-    title: "Sten CW, Söderström K, Stensrud B, Nylund IB, Siqveland J. (2024). The effectiveness of virtual reality training on knowledge, skills and attitudes of health care professionals and students in assessing and treating mental health disorders: a systematic review. BMC Medical Education. https://doi.org/10.1186/s12909-024-05423-0"
-    author: Sten CW, Söderström K, Stensrud B, Nylund IB, Siqveland J.
+    title: "Steen CW, Söderström K, Stensrud B, Nylund IB, Siqveland J. (2024). The effectiveness of virtual reality training on knowledge, skills and attitudes of health care professionals and students in assessing and treating mental health disorders: a systematic review. BMC Medical Education. https://doi.org/10.1186/s12909-024-05423-0"
+    author: Steen CW, Söderström K, Stensrud B, Nylund IB, Siqveland J.
     q: 3
     i: "?"
     kind: review
     rigour: 3
   - id: sten-cw-2024-2
     resource: "https://doi.org/10.1186/s12909-024-05423-0"
-    title: "Sten CW, Söderström K, Stensrud B, Nylund IB, Siqveland J. (2024). The effectiveness of virtual reality training on knowledge, skills and attitudes of health care professionals and students in assessing and treating mental health disorders: a systematic review. BMC Medical Education. https://doi.org/10.1186/s12909-024-05423-0"
-    author: Sten CW, Söderström K, Stensrud B, Nylund IB, Siqveland J.
+    title: "Steen CW, Söderström K, Stensrud B, Nylund IB, Siqveland J. (2024). The effectiveness of virtual reality training on knowledge, skills and attitudes of health care professionals and students in assessing and treating mental health disorders: a systematic review. BMC Medical Education. https://doi.org/10.1186/s12909-024-05423-0"
+    author: Steen CW, Söderström K, Stensrud B, Nylund IB, Siqveland J.
     q: 3
     i: "?"
     kind: quant-synthesis
     rigour: 1
   - id: sten-cw-2024-3
     resource: "https://doi.org/10.1186/s12909-024-05423-0"
-    title: "Sten CW, Söderström K, Stensrud B, Nylund IB, Siqveland J. (2024). The effectiveness of virtual reality training on knowledge, skills and attitudes of health care professionals and students in assessing and treating mental health disorders: a systematic review. BMC Medical Education. https://doi.org/10.1186/s12909-024-05423-0"
-    author: Sten CW, Söderström K, Stensrud B, Nylund IB, Siqveland J.
+    title: "Steen CW, Söderström K, Stensrud B, Nylund IB, Siqveland J. (2024). The effectiveness of virtual reality training on knowledge, skills and attitudes of health care professionals and students in assessing and treating mental health disorders: a systematic review. BMC Medical Education. https://doi.org/10.1186/s12909-024-05423-0"
+    author: Steen CW, Söderström K, Stensrud B, Nylund IB, Siqveland J.
     q: 3
     i: "?"
     kind: review
@@ -40,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r3` · `q3`
-> **Currency** · newest study 2024 · 2 of 3 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-01 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In an RCT of 102 health care professionals, the VSP intervention group demonstrated significantly improved posttest skills in alcohol screening and brief intervention compared to a no-training control, with moderate and small effect sizes. [→ Sten CW 2024](#sten-cw-2024)
@@ -51,7 +52,7 @@ sources:
 
 ### Sten CW 2024
 
-Sten CW, Söderström K, Stensrud B, Nylund IB, Siqveland J. (2024). The effectiveness of virtual reality training on knowledge, skills and attitudes of health care professionals and students in assessing and treating mental health disorders: a systematic review. BMC Medical Education. https://doi.org/10.1186/s12909-024-05423-0
+Steen CW, Söderström K, Stensrud B, Nylund IB, Siqveland J. (2024). The effectiveness of virtual reality training on knowledge, skills and attitudes of health care professionals and students in assessing and treating mental health disorders: a systematic review. BMC Medical Education. https://doi.org/10.1186/s12909-024-05423-0
 
 `q3 · i?` · `review · r3`
 
@@ -61,7 +62,7 @@ RCT of 102 health care professionals randomized to a VSP intervention or no trai
 
 ### Sten CW 2024 (2)
 
-Sten CW, Söderström K, Stensrud B, Nylund IB, Siqveland J. (2024). The effectiveness of virtual reality training on knowledge, skills and attitudes of health care professionals and students in assessing and treating mental health disorders: a systematic review. BMC Medical Education. https://doi.org/10.1186/s12909-024-05423-0
+Steen CW, Söderström K, Stensrud B, Nylund IB, Siqveland J. (2024). The effectiveness of virtual reality training on knowledge, skills and attitudes of health care professionals and students in assessing and treating mental health disorders: a systematic review. BMC Medical Education. https://doi.org/10.1186/s12909-024-05423-0
 
 `q3 · i?` · `quant-synthesis · r1`
 
@@ -71,7 +72,7 @@ Posttest-only RCT of 30 family physicians comparing two VSP interventions with a
 
 ### Sten CW 2024 (3)
 
-Sten CW, Söderström K, Stensrud B, Nylund IB, Siqveland J. (2024). The effectiveness of virtual reality training on knowledge, skills and attitudes of health care professionals and students in assessing and treating mental health disorders: a systematic review. BMC Medical Education. https://doi.org/10.1186/s12909-024-05423-0
+Steen CW, Söderström K, Stensrud B, Nylund IB, Siqveland J. (2024). The effectiveness of virtual reality training on knowledge, skills and attitudes of health care professionals and students in assessing and treating mental health disorders: a systematic review. BMC Medical Education. https://doi.org/10.1186/s12909-024-05423-0
 
 `q3 · i?` · `review · r3`
 

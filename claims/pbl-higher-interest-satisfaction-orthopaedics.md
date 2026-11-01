@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-01
 sources:
   - id: li-ting-2024
     resource: "https://doi.org/10.1186/s12909-024-05244-1"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q3` · `i3` large
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Across 10 RCTs, the PBL group reported higher interest in teaching than the traditional group (OR=4.70). [→ Li Ting 2024](#li-ting-2024)

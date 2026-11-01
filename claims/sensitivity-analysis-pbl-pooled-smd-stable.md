@@ -67,5 +67,5 @@ Leave-one-out sensitivity analysis sequentially removing each study; only the Li
 - [After removing four studies identified as heterogeneity sources via Galbraith plot, the pooled CBL effect remains significant (g = 0.65)](cbl-effect-robust-after-galbraith-removal.md) — related
 - [After removing five outlying studies identified by Galbraith plot, the PBL advantage persisted with low heterogeneity (Hedges' g = 0.592, I2 = 26.807%)](pbl-advantage-persists-after-galbraith-removal.md) — related
 - [No single study affected the statistically significant PBL advantage in sensitivity analysis](pbl-advantage-robust-to-single-study-removal.md) — related
-- [Pooled PBL-CBL versus LBL estimates show high heterogeneity and publication bias but remain robust in sensitivity and trim-and-fill analyses](pbl-cbl-meta-heterogeneity-publication-bias.md) — related
+- [Pooled PBL-CBL versus LBL estimates for theoretical and practical scores show high heterogeneity and publication bias but remain robust in sensitivity and trim-and-fill analyses](pbl-cbl-meta-heterogeneity-publication-bias.md) — related
 - [PBL's examination-score advantage holds across student majors, publication years, and class sizes, but heterogeneity remains high in all subgroups](pbl-exam-subgroup-analyses-heterogeneity.md) — related

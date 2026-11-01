@@ -170,7 +170,7 @@ At the curriculum level, the expectation of a small and variable average should 
 - [PBL-CBL improves physical examination and case analysis performance relative to LBL](../claims/pbl-cbl-physical-exam-case-analysis.md) [+W]
 - [Students report higher satisfaction with PBL-CBL teaching than with LBL in orthopedic education](../claims/pbl-cbl-higher-teaching-satisfaction.md) [+W]
 - [In the RCT, PBL students obtained significantly better final exam grades than LBL students, but the meta-analysis found no significant final-exam difference](../claims/pbl-final-exam-rct-vs-meta-analysis-discrepancy.md) [~W]
-- [Pooled PBL-CBL versus LBL estimates show high heterogeneity and publication bias but remain robust in sensitivity and trim-and-fill analyses](../claims/pbl-cbl-meta-heterogeneity-publication-bias.md) [~W]
+- [Pooled PBL-CBL versus LBL estimates for theoretical and practical scores show high heterogeneity and publication bias but remain robust in sensitivity and trim-and-fill analyses](../claims/pbl-cbl-meta-heterogeneity-publication-bias.md) [~W]
 - [Compared to lecture-based learning, PACS-CBL produced the greatest improvement in practical skills exam scores, with 3D-PBL and PBL-CBL next at high evidence quality](../claims/pacs-cbl-greatest-skills-exam-gains.md) [+W]
 - [PBL students reported significantly higher satisfaction and interest in the course than LBL students](../claims/pbl-higher-satisfaction-interest.md) [+W]
 - [PBL-CBL improves procedural skills: plaster immobilization, debridement proficiency, and aseptic awareness](../claims/pbl-cbl-procedural-skills-plaster-debridement-aseptic.md) [+W]

@@ -12,8 +12,8 @@ newest_evidence: 2024
 sources:
   - id: sten-cw-2024
     resource: "https://doi.org/10.1186/s12909-024-05423-0"
-    title: "Sten CW, Söderström K, Stensrud B, Nylund IB, Siqveland J. (2024). The effectiveness of virtual reality training on knowledge, skills and attitudes of health care professionals and students in assessing and treating mental health disorders: a systematic review. BMC Medical Education. https://doi.org/10.1186/s12909-024-05423-0"
-    author: Sten CW, Söderström K, Stensrud B, Nylund IB, Siqveland J.
+    title: "Steen CW, Söderström K, Stensrud B, Nylund IB, Siqveland J. (2024). The effectiveness of virtual reality training on knowledge, skills and attitudes of health care professionals and students in assessing and treating mental health disorders: a systematic review. BMC Medical Education. https://doi.org/10.1186/s12909-024-05423-0"
+    author: Steen CW, Söderström K, Stensrud B, Nylund IB, Siqveland J.
     q: 3
     i: "?"
     kind: review
@@ -33,7 +33,7 @@ sources:
 
 ### Sten CW 2024
 
-Sten CW, Söderström K, Stensrud B, Nylund IB, Siqveland J. (2024). The effectiveness of virtual reality training on knowledge, skills and attitudes of health care professionals and students in assessing and treating mental health disorders: a systematic review. BMC Medical Education. https://doi.org/10.1186/s12909-024-05423-0
+Steen CW, Söderström K, Stensrud B, Nylund IB, Siqveland J. (2024). The effectiveness of virtual reality training on knowledge, skills and attitudes of health care professionals and students in assessing and treating mental health disorders: a systematic review. BMC Medical Education. https://doi.org/10.1186/s12909-024-05423-0
 
 `q3 · i?` · `review · r3`
 

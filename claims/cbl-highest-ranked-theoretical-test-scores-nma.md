@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2024
+source_checked: 2026-11-01
 sources:
   - id: zhang-shuai-long-2024
     resource: "https://doi.org/10.1186/s12909-024-06291-4"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i3` large
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In the network meta-analysis of 58 studies (5,427 students), CBL ranked most likely to enhance theoretical test scores (SUCRA 89.4%), and CBL (SMD = 1.19), PBL (0.71), SBL (0.69) and FC (0.69) each significantly outperformed LBL. [→ Zhang Shuai-Long 2024](#zhang-shuai-long-2024)
@@ -37,7 +38,7 @@ Zhang Shuai-Long, Ren Si-Jing, Zhu Dong-Mei, Liu Tian-Yao, Wang Lian, Zhao Jing-
 
 `q3 · i3` · `quant-synthesis · r3`
 
-Network meta-analysis of 58 RCTs with 5,427 students reporting theoretical test scores, using a random-effects model. The printed effect size for CBL versus LBL is SMD = 1.19 (95% CI −0.49 to −1.90; SUCRA = 89.4%); comparisons among the novel strategies crossed zero, showing "no significant difference was observed among the remaining novel teaching strategies".
+Network meta-analysis of 58 RCTs with 5,427 students reporting theoretical test scores, using a random-effects model. The printed effect size for CBL versus LBL is SMD = 1.19 (95% CI 0.49 to 1.90; SUCRA = 89.4%); the quotation below reports the same comparisons from LBL's side, so its signs are negative; comparisons among the novel strategies crossed zero, showing "no significant difference was observed among the remaining novel teaching strategies".
 
 > "Theoretical test scores were significantly lower in students who were taught using LBL teaching strategies compared to those who engaged with 4 novel strategies, including CBL (− 1.19, 95% CI (− 0.49 to − 1.90)), PBL (− 0.71, 95% CI (− 0.18 to − 1.25)), SBL (− 0.69, 95% CI (− 0.26 to − 1.12)), FC (− 0.69, 95% CI (− 0.22 to − 1.17))."
 

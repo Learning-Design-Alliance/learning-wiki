@@ -45390,6 +45390,7 @@
 "id":"cbl-enhances-communication-collaboration-skills",
 "newest_evidence":"2025",
 "path":"claims/cbl-enhances-communication-collaboration-skills.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"CBL significantly enhances communication and collaboration skills compared with LBL (RR = 2.49)",
 "type":"claim"
@@ -45431,6 +45432,7 @@
 "id":"cbl-highest-ranked-theoretical-test-scores-nma",
 "newest_evidence":"2024",
 "path":"claims/cbl-highest-ranked-theoretical-test-scores-nma.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"CBL is the highest-ranked strategy for enhancing medical students' theoretical test scores, with CBL, PBL, SBL and FC each significantly outperforming LBL",
 "type":"claim"
@@ -54731,6 +54733,7 @@
 "id":"classroom-exercise-increases-vigour",
 "newest_evidence":"2022",
 "path":"claims/classroom-exercise-increases-vigour.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Low-intensity exercise during university class significantly increases students' vigour during the lesson",
 "type":"claim"
@@ -108265,6 +108268,7 @@
 "id":"enhancing-technologies-effective-knowledge-behavior",
 "newest_evidence":"2023",
 "path":"claims/enhancing-technologies-effective-knowledge-behavior.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Since 2017, enhancing technologies such as simulation/VR, scenario-based learning, and gamification were effective for knowledge and behavior-related outcomes",
 "type":"claim"
@@ -153034,6 +153038,7 @@
 "id":"hf-simulation-improves-als-knowledge-course-conclusion",
 "newest_evidence":"2023",
 "path":"claims/hf-simulation-improves-als-knowledge-course-conclusion.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"HF simulation improves ALS knowledge at course conclusion more than LF simulation or traditional training (pooled SMD = 0.38)",
 "type":"claim"
@@ -153044,6 +153049,7 @@
 "id":"hf-simulation-improves-als-skill-course-conclusion",
 "newest_evidence":"2023",
 "path":"claims/hf-simulation-improves-als-skill-course-conclusion.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"HF simulation improves ALS skill performance at course conclusion versus LF simulation and traditional training (pooled SMD = 0.63) with high heterogeneity",
 "type":"claim"
@@ -249264,6 +249270,7 @@
 "id":"pbl-advantage-persists-after-galbraith-removal",
 "newest_evidence":"2020",
 "path":"claims/pbl-advantage-persists-after-galbraith-removal.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"After removing five outlying studies identified by Galbraith plot, the PBL advantage persisted with low heterogeneity (Hedges' g = 0.592, I2 = 26.807%)",
 "type":"claim"
@@ -249411,13 +249418,14 @@
 "type":"claim"
 },
 {
-"description":"Pooled PBL-CBL versus LBL estimates show high heterogeneity and publication bias but remain robust in sensitivity and trim-and-fill analyses",
+"description":"Pooled PBL-CBL versus LBL estimates for theoretical and practical scores show high heterogeneity and publication bias but remain robust in sensitivity and trim-and-fill analyses",
 "evidence_strength":"weak",
 "id":"pbl-cbl-meta-heterogeneity-publication-bias",
 "newest_evidence":"2025",
 "path":"claims/pbl-cbl-meta-heterogeneity-publication-bias.md",
+"source_checked":"2026-11-01",
 "status":"review",
-"title":"Pooled PBL-CBL versus LBL estimates show high heterogeneity and publication bias but remain robust in sensitivity and trim-and-fill analyses",
+"title":"Pooled PBL-CBL versus LBL estimates for theoretical and practical scores show high heterogeneity and publication bias but remain robust in sensitivity and trim-and-fill analyses",
 "type":"claim"
 },
 {
@@ -249497,6 +249505,7 @@
 "id":"pbl-comprehensive-question-scores-smd-053",
 "newest_evidence":"2021",
 "path":"claims/pbl-comprehensive-question-scores-smd-053.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"PBL improves comprehensive question scores compared with LBL (pooled SMD 0.53)",
 "type":"claim"
@@ -249824,6 +249833,7 @@
 "id":"pbl-higher-interest-satisfaction-orthopaedics",
 "newest_evidence":"2024",
 "path":"claims/pbl-higher-interest-satisfaction-orthopaedics.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Students report higher teaching interest and satisfaction in PBL than in traditional teaching in orthopaedics education",
 "type":"claim"
@@ -249965,6 +249975,7 @@
 "id":"pbl-improves-critical-thinking-versus-traditional-teaching",
 "newest_evidence":"2025",
 "path":"claims/pbl-improves-critical-thinking-versus-traditional-teaching.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"PBL shows significant advantages in critical thinking compared with traditional education or team-based learning in nursing and clinical student populations",
 "type":"claim"
@@ -250116,6 +250127,7 @@
 "id":"pbl-increases-theoretical-knowledge-scores-china-obgyn",
 "newest_evidence":"2021",
 "path":"claims/pbl-increases-theoretical-knowledge-scores-china-obgyn.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"PBL significantly increases theoretical knowledge scores compared with traditional teaching in Chinese gynecology and obstetrics education (SMD 3.17)",
 "type":"claim"
@@ -296487,6 +296499,7 @@
 "id":"sbt-improves-valve-surgery-trainee-outcomes",
 "newest_evidence":"2023",
 "path":"claims/sbt-improves-valve-surgery-trainee-outcomes.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Simulation-based training significantly improves surgical trainees' time to completion, technical errors, skills scores and theoretical knowledge in heart valve surgery",
 "type":"claim"
@@ -374472,6 +374485,7 @@
 "id":"vsp-training-skills-rct-mixed-results",
 "newest_evidence":"2024",
 "path":"claims/vsp-training-skills-rct-mixed-results.md",
+"source_checked":"2026-11-01",
 "status":"review",
 "title":"Virtual standardized patient training improved alcohol screening and brief intervention skills and diagnostic accuracy for depression and PTSD in two RCTs, while a suicide risk assessment RCT found no significant effect",
 "type":"claim"

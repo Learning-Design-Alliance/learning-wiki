@@ -53,7 +53,7 @@ Subgroup analysis by teaching method (Figure 3B) in the meta-analysis of 29 RCTs
 - [Emerging teaching methods (PBL, CBL, FC) significantly improve dental students' exam scores compared to lecture-based learning](emerging-methods-improve-dental-exam-scores.md) — reports the opposite
 - [PBL-CBL improves procedural skills: plaster immobilization, debridement proficiency, and aseptic awareness](pbl-cbl-procedural-skills-plaster-debridement-aseptic.md) — related
 - [CBL produces significantly higher exam scores than LBL in pharmacy education (SMD = 0.58)](cbl-higher-exam-scores-than-lbl-pharmacy.md) — related
-- [Pooled PBL-CBL versus LBL estimates show high heterogeneity and publication bias but remain robust in sensitivity and trim-and-fill analyses](pbl-cbl-meta-heterogeneity-publication-bias.md) — related
+- [Pooled PBL-CBL versus LBL estimates for theoretical and practical scores show high heterogeneity and publication bias but remain robust in sensitivity and trim-and-fill analyses](pbl-cbl-meta-heterogeneity-publication-bias.md) — related
 - [PBL-CBL produces significantly higher theoretical knowledge scores than LBL in orthopedic education](pbl-cbl-higher-theoretical-scores-orthopedics.md) — related
 - [Emerging teaching methods improve both theoretical knowledge scores and clinical skill scores in dental education](emerging-methods-improve-theory-and-skill-scores.md) — related
 - [CBL significantly increases knowledge scores compared with LBL in Chinese dental education (SMD=1.58)](cbl-increases-knowledge-scores-chinese-dental.md) — reports the opposite

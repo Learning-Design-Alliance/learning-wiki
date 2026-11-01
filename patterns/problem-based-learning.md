@@ -177,7 +177,7 @@ This pattern is scoped to problem-centred units in which an explicit consolidati
 - [AI-powered PBL/CBL significantly improves students' knowledge acquisition compared with PBL/CBL without AI or traditional lectures](../claims/ai-pbl-cbl-improves-knowledge-acquisition.md) [~W]
 - [3D-PBL showed the greatest improvement in communication skills versus lecture-based learning, rated high-quality evidence](../claims/3d-pbl-greatest-communication-skills-gains.md) [+W]
 - [Evidence for AI-powered PBL/CBL is limited: small study count, some concerns risk of bias, and no long-term effectiveness data](../claims/ai-pbl-cbl-evidence-limitations.md) [~W]
-- [Pooled PBL-CBL versus LBL estimates show high heterogeneity and publication bias but remain robust in sensitivity and trim-and-fill analyses](../claims/pbl-cbl-meta-heterogeneity-publication-bias.md) [~W]
+- [Pooled PBL-CBL versus LBL estimates for theoretical and practical scores show high heterogeneity and publication bias but remain robust in sensitivity and trim-and-fill analyses](../claims/pbl-cbl-meta-heterogeneity-publication-bias.md) [~W]
 - [Subgroup results: CBL ranks best for clinical curricula and across educational backgrounds, while PBL ranks best for basic courses, developing countries, and operational skills](../claims/nma-subgroup-cbl-clinical-pbl-basic.md) [~W]
 - [In the RCT, PBL students obtained significantly better final exam grades than LBL students, but the meta-analysis found no significant final-exam difference](../claims/pbl-final-exam-rct-vs-meta-analysis-discrepancy.md) [~W]
 - [PBL students reported significantly higher satisfaction and interest in the course than LBL students](../claims/pbl-higher-satisfaction-interest.md) [+W]
