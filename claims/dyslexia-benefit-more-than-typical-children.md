@@ -51,3 +51,4 @@ Meta-regression on participant type as moderator across the 28 RCTs. The article
 - [Group-delivered interventions appear more effective than individually delivered ones (g = 0.78 vs 0.45)](group-delivery-more-effective-than-individual.md) — related
 - [Older and younger Chinese children benefit comparably from reading interventions](intervention-timing-not-moderator-chinese-children.md) — related
 - [Reading interventions significantly improve literacy skills of Chinese children overall (g = 0.68)](reading-interventions-overall-effect-chinese-children.md) — related
+- [Children and adolescents with mild reading disabilities show more improvement in literacy skills than more severely impaired participants](mild-reading-disability-greater-improvement.md) — related

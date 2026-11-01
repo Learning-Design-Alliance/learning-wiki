@@ -52,3 +52,5 @@ Review synthesis comparing evidence across age groups: six preschool studies ver
 - [Sensory evaluation, games, storybooks, role-modelling, and creative art activities tended to have large effects on food behaviours and attitudes in preschool children](sensory-evaluation-games-storybooks-effective-preschool.md)
 - [The academic benefit of active classrooms is larger in preschool children than in primary or middle school children](active-classrooms-preschool-larger-effect.md)
 - [Taste-testing showed large effects on behavioral outcomes but was usually combined with other experiential strategies](taste-testing-large-behavioral-effects-usually-combined.md) — related
+- [Experiential learning approaches improve fruit and vegetable consumption or preference (Md = 0.68), within the Zone of Desired Effects](experiential-learning-fv-consumption-md-0-68.md) — related
+- [Experiential learning approaches (school/community gardens, cooking, food preparation) produce the largest effects on reducing food consumption and energy intake in primary school children](experiential-learning-largest-effect-food-consumption-energy-intake.md) — related

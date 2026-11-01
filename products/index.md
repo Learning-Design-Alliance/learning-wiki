@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**2391 entries** · 0 stable · 2391 in review · 0 drafts
+**2392 entries** · 0 stable · 2392 in review · 0 drafts
 
 ---
 
@@ -1645,6 +1645,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [PLEDGE platform](pledge-platform.md) - PLEDGE is Greenfield Learning's online professional-learning platform, where participating educators complete screeners, set goals, access personalized content, and upload application artifacts.
 * [PMatE computerized testing system (Mathematics Education Project, University of Aveiro)](pmate-computerized-testing-system-mathematics-education-project-university-of-aveiro.md) - PMatE is a computerized mathematics testing system developed and operated by the Mathematics Education Project at the University of Aveiro for delivering domain assessments.
 * [PoETA](poeta.md) - PoETA is a curated toolbox framework developed by Lucciarini and Boniwell for integrating brief, stand-alone, flexible positive-psychology interventions into mainstream classrooms with minimal specialised training.
+* [POGIL (Process Oriented Guided Inquiry Learning)](pogil-process-oriented-guided-inquiry-learning.md) - POGIL is a guided-inquiry instructional programme and activity design model developed and supported by The POGIL Project for collaborative content learning and process-skill development across disciplines.
 * [Point-hour ratio](point-hour-ratio.md) - A historical Ohio State University academic-standing index that weights registrar-recorded grades by credit hours and divides total points by total credited hours.
 * [Polygence authentic learning dataset](polygence-authentic-learning-dataset.md) - A large anonymized multimodal dataset of more than 100,000 hours of longitudinal one-on-one project-based tutoring interactions between PhD-level mentors and K–12 or pre-college students, collected and maintained by Polygence.
 * [Pooled correlational dataset of 288 independent samples (N = 47,121) with OSF repository](pooled-correlational-dataset-of-288-independent-samples-n-47121-with-osf-repository.md) - A pooled correlation-matrix dataset of Chinese-speaking children's cognitive-linguistic skills and word-reading outcomes, released by the study authors through an OSF repository.

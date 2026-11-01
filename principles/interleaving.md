@@ -47,7 +47,7 @@ sources:
 # Interleaving
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 52 claims (22 for, 28 mixed, 2 against) · 31 studies (15 causal, 6 review, 4 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 16 of 31 report an effect size · 49 claims rest on one study
+> **Evidence** · 53 claims (22 for, 28 mixed, 3 against) · 32 studies (15 causal, 6 review, 5 quant-synthesis, 4 theoretical, 1 associational, 1 qualitative), `q1`–`q4` · 16 of 32 report an effect size · 50 claims rest on one study
 
 ## Conditional relationship
 
@@ -178,6 +178,7 @@ The expectation should weaken if comparisons with comparable learners find no ad
 - [Stimulation at PMd during repetitive practice fails to induce the early (6-h) time-dependent consolidation typical of interleaved practice](../claims/pmd-tdcs-no-early-6h-consolidation.md) [~M]
 - [On raw exam scores, interleaved homework produced no significant midterm difference between sections but a significant final exam advantage for the interleaved section](../claims/interleaved-homework-final-exam-raw-advantage-calculus.md) [+W]
 - [Interleaving disproportionately benefited students with below-average or up-to-0.96-SD-above-average midterm scores, though ceiling effects may contribute](../claims/interleaving-disproportionately-benefits-lower-midterm-scores.md) [~W]
+- [Random practice versus blocked practice shows no statistically significant difference on procedural performance tests](../claims/random-vs-blocked-practice-no-significant-difference.md) [-W]
 
 ## Related Principles
 - [Spaced Learning](spaced-learning.md) — when practice of the same thing recurs; usually confounded with interleaving

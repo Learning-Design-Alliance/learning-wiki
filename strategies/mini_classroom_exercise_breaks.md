@@ -69,6 +69,7 @@ Brief aerobic activity acutely improves subsequent attention and executive funct
 - [University educators can introduce classroom movement breaks or physically active learning into classes to improve student health and wellbeing](introduce-cmb-pal-university-classes.md)
 - [Add physical activity to the school day via PA breaks, extra PA sessions, more intense PE lessons, or PA integrated into academic lessons](add-pa-to-school-day-math.md)
 - [Deliver classroom-based physical activity with an academic focus to potentially support both academic performance and overall physical activity levels](classroom-based-pa-academic-focus-strategy.md)
+- [Embed bodyweight resistance exercises such as squats into classroom active learning breaks](bodyweight-resistance-exercises-classroom-active-breaks.md)
 
 ## Examples
 - **[Take 10!®](https://www.take10.net)** — Classroom-based physical activity program with 10-minute curriculum-linked activity routines for K–5; evaluated in multiple school studies.

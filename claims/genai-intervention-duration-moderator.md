@@ -74,3 +74,4 @@ Moderator analysis (Table 5) of intervention duration across subgroups: 0–8 we
 - [Subgroup analyses by intervention duration and region reduce heterogeneity only for interventions longer than six months and Western countries, without significant PBL differences in any subgroup](pbl-subgroup-duration-region-heterogeneity.md) — related
 - [ITS effect sizes decrease as intervention duration increases](its-effects-decrease-longer-duration.md) — related
 - [Longer VR interventions (at least 1 day) show larger score effects than interventions under 1 day](vr-anatomy-duration-moderates-effects.md) — related
+- [For socialisation outcomes, effects hinge on sustained duration and structured pedagogy: >8-week interventions yield g = 1.204 while contextual learning yields g = 0.168](socialisation-moderators-duration-strategy.md) — related

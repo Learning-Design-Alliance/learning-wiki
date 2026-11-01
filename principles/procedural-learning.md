@@ -18,7 +18,7 @@ sources:
 # Procedural Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 39 claims (23 for, 15 mixed, 1 against) · 56 studies (25 causal, 14 review, 8 quant-synthesis, 7 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 5 of 56 report an effect size · 29 claims rest on one study
+> **Evidence** · 40 claims (23 for, 15 mixed, 2 against) · 57 studies (25 causal, 14 review, 9 quant-synthesis, 7 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 5 of 57 report an effect size · 30 claims rest on one study
 
 ## Conditional relationship
 
@@ -164,6 +164,7 @@ Accuracy with help, unaided accuracy, speed, delayed retention, choice among pro
 - [Instructor supervision during procedures is associated with higher clinical practice competency (AOR = 2.97)](../claims/instructor-following-procedure-associated-competency-ethiopia.md) [+W]
 - [Nurses show a steep learning curve after initial USG-PVC training, reaching over 70% success probability after four to nine real-world attempts](../claims/steep-learning-curve-usg-pvc-nurses-attempts.md) [+W]
 - [Intraoperative feedback reduces procedure time and improves economy of movement in live cholecystectomy](../claims/feedback-cholecystectomy-time-economy.md) [+W]
+- [Random practice versus blocked practice shows no statistically significant difference on procedural performance tests](../claims/random-vs-blocked-practice-no-significant-difference.md) [-W]
 
 ## Related Principles
 - [Explicit Instruction](direct-instruction.md) — often supplies the visible model and sequence that procedural learning needs

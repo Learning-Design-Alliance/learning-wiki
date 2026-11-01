@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-01
 sources:
   - id: zhu-jing-2025
     resource: "https://doi.org/10.1186/s12909-025-07274-9"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Two studies reported no significant difference in problem-solving skills between the BOPPPS group and the control group (SMD 0.27, 95% CI -0.43–0.97, P = 0.45). [→ Zhu Jing 2025](#zhu-jing-2025)
@@ -75,3 +76,4 @@ Random-effects pooling of two studies (420 participants) reporting critical thin
 - [BOPPPS teaching significantly improves final examination scores compared with traditional teaching in undergraduate clinical and health education](boppps-improves-final-examination-scores.md) — related
 - [BOPPPS teaching improves learning initiative compared with traditional teaching](boppps-improves-learning-initiative.md) — related
 - [BOPPPS teaching improves learning retention skills compared with traditional teaching](boppps-improves-learning-retention.md) — related
+- [Concept mapping is effective in improving critical thinking, while problem-based learning is not significantly effective](concept-mapping-effective-pbl-not-significant.md) — related

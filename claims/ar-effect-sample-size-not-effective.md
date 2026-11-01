@@ -50,3 +50,4 @@ Subgroup moderator analysis within the meta-analysis by sampling size. Pooled ES
 - [Effect sizes are highest in medium-sized classes (50–99 students), with class-size differences only marginally significant](ai-effect-medium-class-size-highest.md) — related
 - [Group size significantly moderates the effect of context-based learning on academic achievement, with studies under 100 participants showing stronger effects than studies over 100](cbl-achievement-moderated-by-group-size.md) — reports the opposite
 - [SEM effectiveness is greatest in small class sizes and non-significant in large classes](sem-class-size-moderator.md) — related
+- [For subjectification outcomes, effects are strongest under tutor roles, long duration, and small samples: g = 1.044 for 1–50 participants versus g = 0.470 for cohorts over 100](subjectification-moderators-small-scale.md) — related

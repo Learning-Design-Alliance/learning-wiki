@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2020
+source_checked: 2026-11-01
 sources:
   - id: snelgrove-huon-gabbott-ben-2020
     resource: "https://doi.org/10.1186/s12909-020-02131-3"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q1`–`q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Sevdalis et al. argue that individual differences in visual representation strength determine how MP impacts performance, suggesting groups be separated on imagery strength using tools such as the Mental Imagery Questionnaire. [→ Snelgrove Huon; Gabbott Ben 2020](#snelgrove-huon-gabbott-ben-2020)

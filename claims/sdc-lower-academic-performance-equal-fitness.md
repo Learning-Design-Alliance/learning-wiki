@@ -57,3 +57,4 @@ Cross-sectional comparison of 544 primary school children (130 SDC, 414 non-SDC,
 - [Effects were larger in intervention schools with a higher percentage of economically disadvantaged students or a lower percentage of White students](assistments-school-composition-moderators.md) — related
 - [Non-symbolic addition performance does not differ by socioeconomic status, though wealthier children score higher on mathematics achievement tests](no-ses-difference-nonsymbolic-addition.md) — related
 - [Spelling scores of large groups of white and colored children taught in separate buildings are contrasted in the compiled results](spelling-scores-white-colored-children-contrasted.md) — related
+- [Higher muscular fitness is associated with better cognition and academic achievement in school-aged youth](muscular-fitness-associated-cognition-academic-achievement.md) — related

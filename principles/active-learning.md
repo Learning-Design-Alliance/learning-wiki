@@ -63,7 +63,7 @@ sources:
 # Active Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 52 claims (25 for, 26 mixed, 1 against) · 47 studies (11 causal, 10 quant-synthesis, 9 review, 8 associational, 5 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 7 of 47 report an effect size · 44 claims rest on one study
+> **Evidence** · 57 claims (29 for, 27 mixed, 1 against) · 48 studies (11 causal, 11 quant-synthesis, 9 review, 8 associational, 5 theoretical, 3 design, 1 qualitative), `q1`–`q4` · 8 of 48 report an effect size · 49 claims rest on one study
 
 ## Conditional relationship
 
@@ -154,6 +154,8 @@ Claims read against the model on 2026-10-19 that do not change it. Each says why
 - [Amount of listening time while active was not significantly related to End-of-Unit exam performance](../claims/listening-time-not-significantly-related-to-exam-score.md) [~W] — (not about this page) "active" there means physically active while listening to vocabulary audio (14 learners, a correlation), not cognitive activity with content.
 - [Active learning opportunities in professional development moderate gains in teachers' skills, with alternating input-praxis design far outperforming blocked design for teaching-method use](../claims/active-learning-moderates-skill-gains.md) [+W] — attached 2026-10-22 from Johanna L. Donath et al. (2023), which proposed "Design inclusive-education professional development with active learning, practical relevance, and participation prerequisites to facilitate transfer to schools"; tests this page's relationship.
 - [Eight new teaching methods (PBL + CBL, PBL + CP, CBL + WeChat, PBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on residents' theoretical scores](../claims/new-methods-outperform-lbl-theoretical-scores.md) [+W] — attached 2026-10-31 from Guan Cheng Ye et al. (2025), which proposed "Replace passive lecture-based learning with active, problem-oriented methods in resident standardized training"; tests this page's relationship.
+- [POGIL instruction produces a small but statistically significant improvement in student achievement outcomes compared to standard lecture (g = 0.29)](../claims/pogil-small-achievement-effect.md) [+W] — attached 2026-11-01 from Walker L (2017), which proposed "Coupling process skills to content instruction does not inhibit content learning and improves success measures"; tests this page's relationship.
+- [Students in POGIL classrooms have roughly twice the odds of passing a course as students in standard lecture classrooms (OR = 2.02)](../claims/pogil-doubles-course-pass-odds.md) [+M] — attached 2026-11-01 from Walker L (2017), which proposed "Coupling process skills to content instruction does not inhibit content learning and improves success measures"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -184,6 +186,9 @@ Every claim this page cites is in the model above or under Further evidence (re-
 - [Only high-intensity active learning substantially narrows achievement gaps; low-intensity active learning yields much smaller gap reductions](../claims/high-intensity-active-learning-narrows-gaps.md) [~W]
 - [Class size, course level, and discipline did not explain significant variation in how achievement gaps changed, while active-learning type showed significant heterogeneity the authors urge caution in interpreting](../claims/moderators-class-size-level-discipline-null-ipd.md) [~W]
 - [The EBP-structured case conference group also scored higher on EBP application than the didactic lecture group (18.7 vs. 15.3, P=0.001)](../claims/case-conference-higher-application-scores.md) [+W]
+- [The POGIL-specific findings confirm the Freeman et al. active-learning meta-analysis, with nearly identical failure rates and odds ratios](../claims/pogil-confirms-freeman-meta-analysis.md) [+W]
+- [Class size and disciplinary domain do not significantly moderate POGIL's achievement effect, leaving residual heterogeneity unexplained](../claims/pogil-achievement-moderators-nonsignificant.md) [~W]
+- [POGIL's pass-rate advantage holds across class sizes and regardless of reported instructor training, though small-class estimates rest on very few studies](../claims/pogil-pass-rate-moderators.md) [+W]
 
 ## Related Principles
 - [Guided Practice](guided-practice.md)

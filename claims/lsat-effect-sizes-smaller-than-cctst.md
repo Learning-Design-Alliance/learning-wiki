@@ -48,3 +48,4 @@ The discussion attributes this discrepancy to prior studies (citing refs 26–27
 ## Related Claims
 - [Seminar students improved more on LSAT Logical Reasoning than control students (d = 0.71, 95% CI (0.37, 1.04), p < 0.001)](argument-visualization-seminar-lsat-gains.md) — related
 - [A 6-week LSAT Logic Games course produced greater improvement on a composite of four visuospatial reasoning assessments than a Reading Comprehension course](lsat-logic-games-transfer-composite-reasoning.md) — related
+- [Commercialized critical thinking measures have limited validity for nursing-specific contextual performance](commercialized-ct-measures-limited-validity.md) — related

@@ -234,3 +234,4 @@ Responding directly to Cameron and Pierce's (1994) conclusion that the undermini
 - [Behavior and contribution quality are shaped by platform incentives and features rather than self-reported motivations](platform-features-shape-behavior-and-quality.md) — related
 - [Autonomous or intrinsic motivation is positively associated with academic performance, while controlled or extrinsic motivation shows minimal or negative associations](autonomous-motivation-positive-controlled-motivation-not.md) — related
 - [Back-evaluation of reviews increases reviewer motivation, transparency, and feedback quality](back-evaluation-increases-reviewer-motivation.md) — related
+- [Contingent reinforcement approaches show a large mean effect on FV consumption or preference (Md = 1.34) but rest on only two studies](contingent-reinforcement-fv-md-1-34-two-studies.md) — related

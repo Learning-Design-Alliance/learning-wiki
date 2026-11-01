@@ -13,7 +13,7 @@ generated:
 # Spatial Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 82 claims (60 show a difference, 15 mixed, 7 no difference) · 49 studies (18 associational, 13 causal, 12 review, 3 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 12 of 49 report an effect size · 81 claims rest on one study
+> **Evidence** · 83 claims (61 show a difference, 15 mixed, 7 no difference) · 50 studies (18 associational, 13 causal, 12 review, 4 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 12 of 50 report an effect size · 82 claims rest on one study
 
 ## Description
 Spatial ability covers mental rotation, visualising objects from other viewpoints, holding visual-spatial information in memory and reasoning about the relations among shapes. It is measured with timed tasks (mental rotation, paper folding, embedded figures). It correlates moderately with mathematics and science achievement and is strongly associated with entry into and success in STEM fields, and training studies show it can be improved. It overlaps with [general cognitive ability](general-cognitive-ability.md) and with visual-spatial [working memory](working-memory.md).
@@ -118,6 +118,7 @@ Spatial ability covers mental rotation, visualising objects from other viewpoint
 - [Visuo-spatial ability impacts operative simulator performance in minimally invasive surgery, mainly in inexperienced novices](../claims/vsa-predicts-mis-simulator-performance-novices.md) [~W] — learners who differ on it differ in outcomes
 - [Marker-based AR supports students' spatial ability, practical skills and conceptual understanding, while location-based AR mainly supports inquiry-based science activities](../claims/marker-vs-location-ar-science-support.md) [+M] — instruction changes it
 - [Spatial ability significantly predicts learning gains in XR anatomy training contexts, suggesting elementary XR designs need layered scaffolds for varying spatial reasoning](../claims/spatial-ability-predicts-xr-learning-gains.md) [+M] — learners who differ on it differ in outcomes
+- [Classic cognitive training tasks improved reaction time, processing speed, working memory, executive function, memory, visual spatial ability, and attention in older adults](../claims/classic-cognitive-training-improves-multiple-domains.md) [+W] — instruction changes it
 
 ## Related Learner Variables
 

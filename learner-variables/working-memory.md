@@ -13,7 +13,7 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 127 claims (74 show a difference, 35 mixed, 18 no difference) · 101 studies (33 causal, 25 associational, 21 review, 12 quant-synthesis, 7 theoretical, 3 qualitative), `q1`–`q4` · 18 of 101 report an effect size · 120 claims rest on one study
+> **Evidence** · 128 claims (75 show a difference, 35 mixed, 18 no difference) · 102 studies (33 causal, 25 associational, 22 review, 12 quant-synthesis, 7 theoretical, 3 qualitative), `q1`–`q4` · 19 of 102 report an effect size · 121 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].
@@ -170,6 +170,7 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [Learners using annotations perceive lower cognitive load than learners using hyperlinks](../claims/annotations-lower-cognitive-load-than-hyperlinks.md) [+M] — instruction changes it
 - [Lower cognitive load mediates the effect of tool type on conceptual understanding, supporting annotation-based conceptual learning only under low load](../claims/cognitive-load-mediates-conceptual-understanding.md) [~M] — an instructional effect differs with it
 - [Game-based digital interventions significantly improve visuospatial short-term memory in children and adolescents with ADHD](../claims/game-based-interventions-improve-visuospatial-short-term-memory-adhd.md) [+M] — instruction changes it
+- [Working memory training in older adults improved trained tasks and transferred to non-trained working memory measures](../claims/working-memory-training-transfers-untrained-tasks.md) [+M] — instruction changes it
 
 ## The evidence by question
 

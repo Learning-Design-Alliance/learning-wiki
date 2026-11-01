@@ -48,6 +48,7 @@ The brief recommends "incorporating short breaks like drawing, listening to musi
 - [Music and Emotions](music_and_emotions.md)
 - [University educators can introduce classroom movement breaks or physically active learning into classes to improve student health and wellbeing](introduce-cmb-pal-university-classes.md)
 - [Deliver classroom-based physical activity with an academic focus to potentially support both academic performance and overall physical activity levels](classroom-based-pa-academic-focus-strategy.md)
+- [Embed bodyweight resistance exercises such as squats into classroom active learning breaks](bodyweight-resistance-exercises-classroom-active-breaks.md)
 
 ## Examples
 -

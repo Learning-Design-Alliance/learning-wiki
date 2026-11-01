@@ -55,3 +55,4 @@ Paired-sample t-test on the cohort's Cognitive Maturity sub-dimension scores pre
 - [HOTS-oriented teaching improves disposition towards critical thinking subscales including truth-seeking, open-mindedness, self-confidence, and maturity](hots-teaching-improves-ct-dispositions.md) — reports the opposite
 - [Individual-level critical thinking instruction has an unimpressive track record, motivating communal-level intervention](critical-thinking-individual-intervention-unimpressive-track-record.md) — related
 - [Absolute epistemic beliefs increase over the study period among computer science undergraduates](cs-absolute-epistemic-beliefs-increase-longitudinally.md) — related
+- [CCTDI subscale improvements favour non-traditional methods on six of seven dispositions, with maturity not reaching significance](cctdi-subscales-favour-non-traditional-methods.md) — related

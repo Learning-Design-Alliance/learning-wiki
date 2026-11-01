@@ -55,3 +55,4 @@ Instruction-characteristic moderator analyses (Table 6) across the 53 studies. T
 - [Variation in instructional dosage did not explain variation in writing instruction effect sizes](instructional-dosage-no-moderation-writing-instruction.md) — related
 - [Interventions providing more than 15 total hours significantly moderate mathematics outcomes for students with MD in grades 4–12](more-than-15-hours-moderates-math-outcomes.md) — related
 - [No moderator variable (intervention type, group size, grade level, implementer, hours of intervention) significantly explained variance in intervention effects, though moderator analyses were underpowered.](tier2-k3-no-significant-moderators-underpowered.md) — related
+- [Significant differences in spelling effect sizes were found between interventions of different total amounts of treatment](spelling-effect-size-varies-by-treatment-amount.md) — reports the opposite

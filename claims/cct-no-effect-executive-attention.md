@@ -72,3 +72,5 @@ Random-effects meta-analysis of 29 studies reporting executive function outcomes
 - [Processing speed showed no significant group × time interaction, with only a marginal intervention advantage at 4 weeks](processing-speed-no-significant-social-media-effect.md) — related
 - [Training benefits did not extend to processing speed tasks, indicating specificity to cognitive control processes](no-transfer-processing-speed-tasks.md) — related
 - [Off-training cognitive transfer shows gains in working memory and focused attention for the ACT group only, with no significant group-by-session interactions](act-off-training-transfer-mixed.md) — related
+- [Classic cognitive training tasks improved reaction time, processing speed, working memory, executive function, memory, visual spatial ability, and attention in older adults](classic-cognitive-training-improves-multiple-domains.md) — reports the opposite
+- [Working memory training in older adults improved trained tasks and transferred to non-trained working memory measures](working-memory-training-transfers-untrained-tasks.md) — related

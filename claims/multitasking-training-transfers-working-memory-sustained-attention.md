@@ -56,3 +56,4 @@ Experiment 2 transfer testing on untrained cognitive control tasks (delayed-reco
 - [Mnemonic training yields limited far-transfer: only the number-noun pairs measure improved, persisting at 4-month follow-up](mnemonic-training-limited-transfer-number-noun-pairs.md) — related
 - [Simultaneous performance of tracking and discrimination tasks produces large multitasking costs at baseline](multitasking-cost-large-baseline-2017.md) — related
 - [Multitasking training benefits do not transfer to untrained action control tasks (PRP, Stroop, AB, single response selection, Go-Nogo, Flanker)](no-transfer-action-control-tasks.md) — reports the opposite
+- [Working memory training in older adults improved trained tasks and transferred to non-trained working memory measures](working-memory-training-transfers-untrained-tasks.md) — related

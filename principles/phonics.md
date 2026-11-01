@@ -31,7 +31,7 @@ sources:
 # Phonics
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (17 for, 8 mixed, 4 against) · 46 studies (13 quant-synthesis, 11 causal, 10 review, 6 theoretical, 5 associational, 1 qualitative), `q1`–`q4` · 12 of 46 report an effect size · 17 claims rest on one study
+> **Evidence** · 32 claims (19 for, 8 mixed, 5 against) · 46 studies (13 quant-synthesis, 11 causal, 10 review, 6 theoretical, 5 associational, 1 qualitative), `q1`–`q4` · 12 of 46 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -161,6 +161,9 @@ Decoding taught words, decoding new words, spelling, fluency, comprehension and 
 - [Long-term effects of systematic phonics are short-lived, reducing from d = 0.29 immediately after training to d = 0.07 after about a year](../claims/suggate-phonics-long-term-effects-short-lived.md) [-W]
 - [Over a decade of legally mandated synthetic phonics in England has not improved standardized reading outcomes (PIRLS, PISA, SATs)](../claims/england-mandated-phonics-no-standardized-outcome-gains.md) [-W]
 - [In Study 1, code-focused Tier II instruction yielded only a marginal advantage on letter names and no significant differences on other code-related measures](../claims/study1-code-tier2-marginal-only.md) [-W]
+- [Phonics instruction shows a small but statistically significant effect on spelling performance in children and adolescents with reading disabilities](../claims/phonics-instruction-significant-spelling-effect.md) [+W]
+- [Phonics instruction is the only treatment approach whose effectiveness on reading performance in children and adolescents with reading disabilities is statistically confirmed](../claims/phonics-instruction-only-confirmed-reading-treatment.md) [-W]
+- [After correcting for publication bias, the effect of phonics instruction on reading performance remains small but statistically significant](../claims/phonics-reading-effect-robust-to-publication-bias.md) [+W]
 
 ## Related Principles
 - [Chunking](chunking.md) — phonics scope-and-sequence works by introducing grapheme–phoneme correspondences in small, cumulative sets

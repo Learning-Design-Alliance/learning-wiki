@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 170 claims (81 for, 71 mixed, 18 against) · 90 studies (33 review, 17 causal, 15 quant-synthesis, 10 qualitative, 10 design, 4 theoretical, 1 associational), `q1`–`q4` · 18 of 90 report an effect size · 165 claims rest on one study
+> **Evidence** · 171 claims (82 for, 71 mixed, 18 against) · 91 studies (33 review, 17 causal, 16 quant-synthesis, 10 qualitative, 10 design, 4 theoretical, 1 associational), `q1`–`q4` · 19 of 91 report an effect size · 166 claims rest on one study
 
 ## Description and scope
 
@@ -204,6 +204,7 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 - [Availability and scalability are described as key technology advantages of virtual patients over real-patient contact](../claims/vp-technology-availability-scalability.md) [+W]
 - [Interactivity level in virtual patients is related to the navigation model, with branching allowing the highest level](../claims/vp-authenticity-interactivity-feedback.md) [~W]
 - [Legal and technical issues are described as the main challenges of developing and using virtual patients](../claims/vp-challenges-legal-technical.md) [~W]
+- [For affective outcomes, high-fidelity simulation (0.80) and standardized patients (0.73) show the largest effect sizes](../claims/hfs-sp-largest-affective-outcome-effect.md) [+W]
 
 ## Examples
 

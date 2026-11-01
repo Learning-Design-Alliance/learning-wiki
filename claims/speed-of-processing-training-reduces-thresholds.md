@@ -74,3 +74,4 @@ The review reports moderator findings: trainees with elevated baseline duration 
 - [Training benefits did not extend to processing speed tasks, indicating specificity to cognitive control processes](no-transfer-processing-speed-tasks.md) — related
 - [Computerized cognitive training produces a small but statistically significant improvement in cognitive performance in healthy older adults](cct-small-significant-overall-effect-healthy-older-adults.md) — a broader claim this one bears on
 - [Poorer useful field of view performance in older adults predicts motor vehicle collision risk and difficulties in everyday visual tasks, even after adjustment for sensory and cognitive impairment](ufov-predicts-everyday-task-problems.md) — related
+- [Processing speed interventions significantly improved Useful Field of View scores in older adults with effect sizes ranging from 1.09 to 2.19](processing-speed-training-improves-ufov.md) — related

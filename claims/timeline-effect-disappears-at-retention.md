@@ -77,3 +77,4 @@ Paired-samples t-tests per condition in the same experiment: Visual and Timeline
 - [Revisions to visuals had no effect on post-lesson test scores, though prior knowledge predicted performance](revised-visuals-no-learning-effect.md) — related
 - [Retention did not differ between contents tested 3 versus 4 days after learning](retention-similar-3-vs-4-days.md) — related
 - [Representational scripting produced no individual learning gains: overall post-test scores did not exceed pre-test scores](no-individual-learning-gains.md) — related
+- [Critical thinking disposition gains from one- or two-semester interventions are not sustained at two years](ct-gains-not-sustained-two-years.md) — related

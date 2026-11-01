@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 285 claims (147 for, 121 mixed, 17 against) · 171 studies (75 review, 38 quant-synthesis, 32 causal, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 37 of 171 report an effect size · 280 claims rest on one study
+> **Evidence** · 289 claims (148 for, 124 mixed, 17 against) · 172 studies (75 review, 39 quant-synthesis, 32 causal, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 38 of 172 report an effect size · 284 claims rest on one study
 
 ## Conditional relationship
 
@@ -341,6 +341,9 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [Simulation-based obstetric team training shows a positive but statistically non-significant effect on Apgar scores less than 7 at 5 minutes, with moderate certainty evidence](../claims/obstetric-team-training-apgar-score-no-significant-effect.md) [~M] — attached 2026-11-01 from Brogaard L et al. (2022), which proposed "Train entire labor and delivery units locally with in situ multiprofessional simulation-based team training"; tests this page's relationship.
 - [Virtual endoscopy simulator training is superior to no-simulator control for independent procedure completion in gastroscopy training of novices (RR 1.25, 95% CI 1.13–1.39, P<0.0001)](../claims/simulator-training-improves-gastroscopy-independent-completion.md) [+W] — attached 2026-11-01 from Qiao Weiguang et al. (2014), which proposed "Use virtual endoscopy simulator training as an alternative to conventional teaching for novice gastroscopy learners"; tests this page's relationship.
 - [Virtual endoscopy simulator training reduces required assistance in gastroscopy training of novices (RR 0.42, 95% CI 0.35–0.50, P<0.00001)](../claims/simulator-training-reduces-gastroscopy-assistance.md) [+W] — attached 2026-11-01 from Qiao Weiguang et al. (2014), which proposed "Use virtual endoscopy simulator training as an alternative to conventional teaching for novice gastroscopy learners"; tests this page's relationship.
+- [Effect sizes are larger for high-fidelity simulation, medium-fidelity simulation, and standardized patients than for low-fidelity and hybrid simulation](../claims/fidelity-subgroup-hfs-mfs-sp-larger-than-lfs-hybrid.md) [~M] — attached 2026-11-01 from Kim Junghee et al. (2016), which proposed "Match the level of simulation fidelity to the educational goal rather than assuming higher fidelity is always better".
+- [For psychomotor outcomes, medium-fidelity simulation (1.76), standardized patients (1.27), and high-fidelity simulation (1.03) show the largest effect sizes](../claims/mfs-sp-hfs-largest-psychomotor-effect.md) [~M] — attached 2026-11-01 from Kim Junghee et al. (2016), which proposed "Match the level of simulation fidelity to the educational goal rather than assuming higher fidelity is always better".
+- [For cognitive outcomes, high-fidelity simulation shows the largest effect size (0.50)](../claims/hfs-largest-cognitive-outcome-effect.md) [~W] — attached 2026-11-01 from Kim Junghee et al. (2016), which proposed "Match the level of simulation fidelity to the educational goal rather than assuming higher fidelity is always better".
 
 ## Objective and learner-valued goal
 
@@ -521,6 +524,7 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Students report greater satisfaction with VR-based anatomy learning than with conventional or 2D methods](../claims/vr-anatomy-satisfaction-advantage.md) [~W]
 - [VR benefits examination scores for medical students but not significantly for residents](../claims/vr-anatomy-benefit-medical-students-not-residents.md) [~W]
 - [Longer VR interventions (at least 1 day) show larger score effects than interventions under 1 day](../claims/vr-anatomy-duration-moderates-effects.md) [~M]
+- [Simulation-based nursing education shows a medium-to-large pooled effect on learning outcomes (SMD = 0.70)](../claims/simulation-nursing-education-pooled-effect-070.md) [+W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.

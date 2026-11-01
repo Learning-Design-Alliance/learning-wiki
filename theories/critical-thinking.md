@@ -12,7 +12,7 @@ generated:
 # Critical Thinking
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 30 claims (20 for, 6 mixed, 4 against) · 28 studies (7 causal, 6 review, 6 qualitative, 5 associational, 2 quant-synthesis, 2 design), `q1`–`q3` · 5 of 28 report an effect size · 30 claims rest on one study
+> **Evidence** · 31 claims (20 for, 6 mixed, 5 against) · 29 studies (7 causal, 6 review, 6 qualitative, 5 associational, 3 quant-synthesis, 2 design), `q1`–`q3` · 5 of 29 report an effect size · 31 claims rest on one study
 
 ## Description
 Critical thinking requires both a skill (analyzing the reliability and validity of information) and a disposition to actually apply that skill, in principle across any realm of knowledge, not only a single subject or topic (Halpern, 2003; Williams, Oliver, & Stockade, 2004). A critical thinker is not simply someone with a negative or fault-finding attitude; rather, the critical thinker asks key questions, evaluates evidence for ideas, reasons about problems logically and objectively, and expresses ideas and conclusions clearly and precisely — and can carry these habits of mind across more than one domain of life or knowledge.
@@ -70,6 +70,7 @@ Second, who should be taught critical thinking. Surveys have found that teachers
 - [The certainty of evidence for the effects of teaching strategies on critical thinking ranges from very low to moderate, with no strategy rated high.](../claims/certainty-of-evidence-teaching-strategies-critical-thinking-very-low-to-moderate.md) [~W]
 - [An elective EBM course for pharmacy students improved pre-post course scores from 8.6/15 to 13.7/15, with preceptors and students reporting improved literature critique and interpretation confidence](../claims/pharmacy-elective-course-gains-and-preceptor-views.md) [+W]
 - [A multifaceted information-skills elective produced pre-post gains across search-related tasks among medical students, including assessing reliability/validity of web information (2.59 to 3.77)](../claims/information-skills-elective-task-gains.md) [+W]
+- [Commercialized critical thinking measures have limited validity for nursing-specific contextual performance](../claims/commercialized-ct-measures-limited-validity.md) [-W]
 
 ## The evidence by question
 - *Does teaching critical thinking explicitly, rather than expecting it to emerge from other activities, improve learners' critical thinking, and does it transfer beyond the subject it was taught in?* [Direct CT instruction combined with modeling, coaching, and discussion yields more consistent CT improvement than implicit teaching strategies](../claims/direct-ct-instruction-outperforms-implicit-strategies.md) [+M]

@@ -62,3 +62,4 @@ Systematic review and meta-analysis pooling 13 RCTs on mathematics outcomes usin
 - [Classroom-based physical activity showed no statistically significant pooled effect on cognitive function in primary school children (SMD = 0.33, CI crossing zero)](classroom-physical-activity-no-effect-cognitive-function.md) — related
 - [Classroom-based physical activity interventions did not affect children's overall physical activity levels in meta-analysis (SMD = 0.40, CI crossing zero)](classroom-physical-activity-no-effect-overall-pa.md) — related
 - [School-based physical activity interventions show a small positive pooled effect on children's mathematics performance (d = 0.23) across 11 randomised trials](school-pa-small-positive-effect-math-meta-analysis.md) — related
+- [Mathematics shows the strongest association with muscular fitness among school subjects](mathematics-strongest-muscular-fitness-association.md) — related

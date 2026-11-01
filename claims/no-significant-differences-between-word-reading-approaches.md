@@ -56,3 +56,4 @@ Meta-regression moderator analysis across the 37 interventions, which were coded
 - [Word study intervention shows a moderate overall effect on word reading and comprehension for older struggling readers](word-study-moderate-effect-older-readers.md) — related
 - [Morphological Instruction Improves Vocabulary](morphological-instruction-improves-vocabulary.md) — related
 - [No instruction characteristic (dosage, program availability, literacy domain) significantly moderated effects, though phonics and spelling instruction approached significance descriptively favoring treatments that included them](no-instruction-moderators-phonics-spelling-marginal.md) — related
+- [Phonics instruction is the only treatment approach whose effectiveness on reading performance in children and adolescents with reading disabilities is statistically confirmed](phonics-instruction-only-confirmed-reading-treatment.md) — related

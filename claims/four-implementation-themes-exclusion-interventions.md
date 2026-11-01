@@ -53,3 +53,4 @@ Qualitative synthesis of nine UK-based process evaluations of stakeholder (teach
 - [Core Teams identified communication challenges, school and district leadership turnover, and teacher burnout as barriers that influenced solution success](inclusive-innovation-implementation-barriers.md) — related
 - [Teachers' challenges in accepting OER included time to sift resources, inconsistent quality, district discouragement, and negative attitudes](oer-acceptance-challenges-themes.md) — related
 - [Educators face challenges at the student level, teacher level, and institutional level](makerspace-three-level-challenges.md) — related
+- [Barriers to mentoring as a KT intervention included staff resistance and shortage, lack of time, lack of knowledge and skills, and inadequate guidance from mentors; enablers included leadership support, staff involvement, and available mentors](mentoring-kt-barriers-and-enablers.md) — related
