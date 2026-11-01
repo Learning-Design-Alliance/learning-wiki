@@ -57,3 +57,4 @@ Exploratory subgroup analyses using subgroup-by-treatment interaction terms in H
 - Subgroup analysis indicates notable growth for students from traditionally underserved groups, such as those eligible for free or reduced-price lunch — related
 - [Grade 3 students showed small positive but statistically non-significant CCU impacts across all three study years](a4l-grade3-ccu-nonsignificant.md) — related
 - [Writing intervention effects for US ELL students do not vary significantly by study quality indicators, participant characteristics, or intervention characteristics](no-significant-moderators-ell-writing-effects.md) — related
+- [Baseline English proficiency (ACCESS) showed no significant treatment-control difference among ELLs, but a small effect size (0.13) favored controls](ic-access-baseline-null-small-disadvantage.md) — related

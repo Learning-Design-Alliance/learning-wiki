@@ -237,6 +237,7 @@ Within-system performance, aligned achievement, standardised achievement, delaye
 - [Use strategy-based evidence models to trigger adaptive scaffolding toward more productive problem-solving strategies](../strategies/strategy-evidence-models-trigger-adaptive-scaffolding.md)
 - [Problem Solving Tutor](../products/problem-solving-tutor.md)
 - [Item allocation rules: start easy, increase difficulty with grade, and re-select past incorrect and old material with some probability](../strategies/item-allocation-rules-difficulty-with-grade.md)
+- [Use counterfactual inference models on online educational experiments to support personalized hint selection](../strategies/counterfactual-inference-for-personalized-hints.md)
 
 ### Validated
 - **[ASSISTments](https://www.assistments.org)** — Free web-based math platform (grades 6–12) that adapts problem selection and hint delivery based on item-level responses. Randomized studies across Maine schools showed significant homework-related learning gains over business-as-usual conditions (Roschelle et al., 2016, *AERJ*).

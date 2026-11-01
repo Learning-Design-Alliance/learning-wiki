@@ -45,7 +45,8 @@ In the policy discussion, the authors recommend that given the tens of billions 
 - [Coaching effects do not differ significantly across school levels, and in-person versus virtual delivery shows no significant difference](../claims/coaching-no-school-level-or-mode-differences.md) [~M]
 
 ## Related Strategies
-- 
+
+- [Pair intervention evaluation with cost-effectiveness analysis to guide scaling to all students](cost-effectiveness-analysis-for-scaling-stem-interventions.md)
 
 ## Examples
 -

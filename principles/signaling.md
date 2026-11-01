@@ -66,7 +66,7 @@ sources:
 # Signaling Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 36 claims (19 for, 16 mixed, 1 against) · 30 studies (12 causal, 11 review, 5 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q4` · 9 of 30 report an effect size · 32 claims rest on one study
+> **Evidence** · 37 claims (19 for, 17 mixed, 1 against) · 31 studies (13 causal, 11 review, 5 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q4` · 9 of 31 report an effect size · 33 claims rest on one study
 
 ## Conditional relationship
 
@@ -197,6 +197,7 @@ The expectation should weaken if comparisons with comparable novice learners, ho
 - [Realism can serve as signaling when a drastic contrast in shading and rendering highlights relevant parts](../claims/realism-signaling-drastic-contrast.md) [~W]
 - [DHH students' feedback suggests the signaling principle may be a valuable design consideration](../claims/dhh-signaling-principle-valuable.md) [+W]
 - [Signalling, integrated pictures and words, and pedagogical agents probably improve learning outcomes.](../claims/signalling-integrated-pictures-and-pedagogical-agents-probably-improve-learning.md) [+W]
+- [The SSML advantage in MPSA enhancement is significant for middle-MPK students but not for upper- and low-MPK students](../claims/ssml-advantage-significant-only-middle-mpk.md) [~W]
 
 ## Related Principles
 - [Modality Principle](modality.md)

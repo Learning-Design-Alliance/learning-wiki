@@ -13,7 +13,7 @@ generated:
 # Mathematical Flexibility
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 20 claims (11 show a difference, 7 mixed, 2 no difference) · 14 studies (7 causal, 4 associational, 1 quant-synthesis, 1 review, 1 qualitative), `q2`–`q4` · 5 of 14 report an effect size · 19 claims rest on one study
+> **Evidence** · 21 claims (12 show a difference, 7 mixed, 2 no difference) · 15 studies (8 causal, 4 associational, 1 quant-synthesis, 1 review, 1 qualitative), `q1`–`q4` · 5 of 15 report an effect size · 20 claims rest on one study
 
 ## Description
 Mathematical flexibility is the ability to keep several representations of a number in mind (a fraction as a shaded region, a decimal, a point on a line) and several ways of solving a problem, and to move among them adaptively, choosing the strategy that suits the problem rather than always using the same one. The Learner Variability Navigator says it helps learners understand concepts more deeply and find solutions more efficiently. It is measured with tasks that test knowledge of multiple strategies for solving equations and judgement of which is most efficient.
@@ -56,6 +56,7 @@ LVN follows it from preschool to grade 10. Its general counterpart is cognitive 
 - [Strategy consistency is stable within individuals across RB and II tasks](../claims/strategy-consistency-stable-across-tasks.md) [-M] — instruction changes it
 - [Strategy type and strategy consistency relate distinctly to learning success in RB versus II tasks](../claims/strategy-consistency-success-distinct-by-task.md) [~M] — learners who differ on it differ in outcomes
 - [The positive association between flexible reactions and reversal learning is significant only in adults, with no significant age-by-flexibility interaction](../claims/flexibility-rl-relation-adults-only.md) [~M] — learners who differ on it differ in outcomes
+- [Homework solutions showed experimental students using multiple strategies correctly while control students made additive errors](../claims/homework-solutions-show-strategy-and-error-differences.md) [+W] — instruction changes it
 
 ## Measures
 - **Flexibility in problem solving** (Star & Rittle-Johnson, 2008): Measures students' knowledge of multiple strategies and strategy efficiency in equation solving.

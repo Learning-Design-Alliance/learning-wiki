@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 98 claims (47 for, 46 mixed, 5 against) · 89 studies (24 review, 15 quant-synthesis, 14 causal, 13 associational, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 12 of 89 report an effect size · 97 claims rest on one study
+> **Evidence** · 101 claims (49 for, 46 mixed, 6 against) · 92 studies (24 review, 17 causal, 15 quant-synthesis, 13 associational, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 12 of 92 report an effect size · 100 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -133,6 +133,9 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [Interactive whiteboard groups showed more adaptive decision-making behavior earlier than traditional whiteboard groups in simulated medical emergencies](../claims/iwb-adaptive-decision-making-medical-emergency.md) [+W] — attached 2026-11-01 from Jun J (2014), which proposed "Interactive whiteboards and plasma screens as PBL interventions"; tests this page's relationship.
 - [Blogging fostered positive student engagement and interest in learning activities across most studies, though experimental evidence was mixed](../claims/blogging-positive-engagement-mixed-experimental.md) [~W]
 - [Other online technologies (blogging, podcasts, wikis, ARS) show mixed or null effects on grades and exam scores](../claims/other-technologies-mixed-null-effects.md) [~W]
+- [Secondary students taught in an e-classroom with ICT resources significantly outperform students taught by conventional methods on post-test achievement](../claims/e-classroom-outperforms-conventional-teaching.md) [+W]
+- [Mobile learning applications improve undergraduate academic achievement compared with traditional lecture-based instruction](../claims/mobile-learning-improves-achievement-quasi-experiment.md) [+W]
+- [Digital test administration caused data-collection difficulties in the pilot, while paper-based tests were administered without problems](../claims/pal-digital-testing-difficulties-paper-smooth.md) [-W]
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

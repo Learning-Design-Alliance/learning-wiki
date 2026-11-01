@@ -60,3 +60,4 @@ The article reviews prior task-repetition research (Bygate 2001; Ahmadian and Ta
 - [State math anxiety decreases across repeated measurement points during the arithmetic task, consistent with habituation](state-math-anxiety-decreases-during-task.md) — a narrower finding that bears on this claim
 - [Repeated brief VR exposures reduced state anxiety during the first two practice sessions.](vr-practice-sessions-reduce-state-anxiety.md) — a narrower finding that bears on this claim
 - [PBL and hybrid PBL improve EFL speaking proficiency, including fluency, grammar, vocabulary, and pronunciation](pbl-improves-efl-speaking-proficiency.md) — related
+- [Debate contributed 96.1% to speaking skill achievement, with fluency the largest contributing aspect (67.4%)](debate-contribution-speaking-aspects.md) — related

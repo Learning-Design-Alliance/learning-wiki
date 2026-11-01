@@ -83,3 +83,4 @@ Experiment 3 correlational observation: the two subjects whose retrieval paths c
 - [Test-taker abilities and prior knowledge show inconsistent moderating effects on multimedia testing effects](test-taker-abilities-inconsistent-moderators.md) — reports the opposite
 - [Hierarchical top-down schema-based instruction improved transfer performance compared with single-level and control instruction](hierarchical-schema-instruction-transfer.md) — related
 - [Medium-ability students showed some tendency to do better in the film-based physics course](medium-ability-students-tendency-better-film-course.md) — related
+- [There is no interaction between learning approach (SSML vs CL) and mathematical prior knowledge (upper, middle, low) on enhancement of MPSA](no-interaction-approach-mpk-mpsa.md) — related

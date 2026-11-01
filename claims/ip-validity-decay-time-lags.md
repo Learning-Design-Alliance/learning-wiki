@@ -50,3 +50,4 @@ Quantitative research review of previous studies on validity degradation, meta-a
 - [Domain-identical pretests are the most powerful single-level covariate type for student achievement, outperforming cross-domain pretests, fluid intelligence, and sociodemographic characteristics](ip-most-powerful-single-level-covariate-achievement.md) — related
 - [Sociodemographic covariates outweigh domain-identical pretests for predicting between-classroom and between-school variance in elementary school](sc-outweigh-ip-elementary-group-levels.md) — related
 - [The predictive power of Year 5 math achievement for later math achievement wanes as the prediction lag lengthens (1–4 years ahead)](year5-math-achievement-predictive-power-wanes-longer-lags.md) — a narrower finding that bears on this claim
+- [School-mean pretest scores predict posttest reading achievement in the OCR trial](ocr-trial-school-pretest-predicts-posttest.md) — related

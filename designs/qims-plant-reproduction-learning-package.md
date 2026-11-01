@@ -42,7 +42,8 @@ A learning package developed on the topic of plant reproduction for primary 5 st
 - [Students' self-directed learning and creative thinking skills increased significantly after QIMS inquiry-based lessons](../claims/qims-lessons-increase-self-directed-learning-creative-thinking.md) [+W]
 
 ## Related Designs
-- 
+
+- [CD-based e-learning module on Transistors with six interactive lessons](transistors-elearning-module-cd.md)
 
 ## Examples
 -

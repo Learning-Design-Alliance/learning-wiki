@@ -47,3 +47,4 @@ ANOVA on reading literacy success rates across the five profiles (Table 6: eager
 ## Related Claims
 - [High internal behavioral engagement without classroom talk does not guarantee achievement: the diligent profile ranked fourth](engagement-without-talk-no-guarantee.md) — related
 - [Gender is unevenly distributed across participation profiles: boys are overrepresented among disconnected and girls among diligent students](gender-distribution-participation-profiles.md) — related
+- [The authors observed higher course motivation among students using the analogy-based simulations](observed-motivation-analogy-simulation-students.md) — related

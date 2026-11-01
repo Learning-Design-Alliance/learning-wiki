@@ -58,8 +58,10 @@ Manipulating real equipment grounds abstract concepts in perceptual-motor experi
 5. Close with structured analysis: compare results to predictions, identify sources of error, and connect findings to theory ([Application of Knowledge](../elements/application-of-knowledge.md))
 
 ## Related Strategies
+
 - [Case-Based Learning](case-based-learning.md) — labs can be framed as authentic cases where the procedure answers a driving question
 - [Simulation](../elements/simulation.md) — a lower-cost rehearsal path before or alongside physical labs
+- [Sequence simulation first, then repeat the same assignment with physical laboratory equipment](simulation-first-then-laboratory-sequence.md)
 
 ## Examples
 - **PhET Interactive Simulations** (https://phet.colorado.edu) — research-based virtual labs used before or in place of physical equipment for circuit-building and chemistry procedures

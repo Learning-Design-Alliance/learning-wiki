@@ -75,3 +75,4 @@ Within-group paired-samples analyses reported descriptively in the same study. T
 - [Writing proficiency and digital critical thinking were strongly associated, and the association strengthened from pretest to posttest](writing-dcts-co-development-correlations.md) — related
 - [In-service secondary science educators score a mean of 16.7 of 30 points on a validated general AI literacy test](science-educators-mean-ai-literacy-16-7-of-30.md) — related
 - [Fourth-graders receiving AI-enhanced media literacy instruction outperformed control-group peers on post-test critical media reading, writing, and total literacy with large effect sizes](ai-media-literacy-program-large-posttest-gains.md) — related
+- [Students taught with the animation model significantly outperformed traditionally taught control students on the ATP generation post-test](animation-outperformed-traditional-instruction-atp-achievement.md) — related

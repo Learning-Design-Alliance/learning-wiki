@@ -52,3 +52,4 @@ Randomized experiment with 60 ESP students assigned to experimental (pronunciati
 - [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md) — related
 - [Automatic word recognition frees resources for comprehension](automatic-word-recognition-frees-resources-for-comprehension.md) — a broader claim this one bears on
 - [Phonemic Awareness Training Improves Reading](phonemic-awareness-training-improves-reading.md) — related
+- [MI-based instruction significantly improved reading comprehension relative to traditional instruction, tested by independent-samples t-test](mi-instruction-improves-reading-comprehension.md) — related

@@ -57,3 +57,4 @@ Quasi-experimental baseline check comparing the two intact classes on previous-s
 - Baseline equivalence across stimulation groups rules out prior memory-ability differences as an explanation for post-intervention effects — related
 - The three media conditions did not differ significantly in prior knowledge or previous grades, supporting baseline equivalence — related
 - Prior knowledge and ability levels controlled via semester evaluation score — related
+- [The three groups were equivalent on EPT pre-test scores before the intervention](equivalent-pretest-scores-three-electricity-groups.md) — related

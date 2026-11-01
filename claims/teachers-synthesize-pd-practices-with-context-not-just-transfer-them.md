@@ -58,3 +58,4 @@ This is a two-case ethnographic study (n=2 intensive focal cases) selected from 
 - [Middle school math teachers are more likely to make productive than nonproductive adaptations to curricula](teachers-more-productive-than-nonproductive-adaptations.md) — related
 - [Contrasting workshop practices (random vs. purposeful grouping) framed the problem of labeling students around local context and teacher agency](grouping-practices-framed-labeling-problem.md) — related
 - [The pandemic disruption promoted teacher adaptation and may have prompted lasting new practices, per the authors](pandemic-promoted-teacher-adaptation-lasting-practices.md) — related
+- [Teachers implemented interactive instruction principles more faithfully than strategic or linguistic/metalinguistic principles in their first year of SIWI professional development](siwi-fidelity-interactive-first.md) — related

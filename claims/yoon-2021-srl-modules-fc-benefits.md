@@ -52,3 +52,4 @@ Review's account of Yoon et al.'s (2021) study facilitating SRL in a three-week 
 - [Instructional design features of CE activities (peer interaction, feedback, self-assessments, flipped classroom) are positively associated with SRL strategies](ce-instructional-features-associated-srl.md) — related
 - [Chatbot-guided feedback SRL produced a significant interaction between feedback method and website design performance over time, with the groups differing only on the second website](srl-cgf-website-design-progress-interaction.md) — related
 - [Trainer-led online training outperformed self-paced online training for behavioral activation skills](trainer-led-beats-self-paced-online-skills-training.md) — related
+- [Adding web-assisted alternative assessment activities to a flipped classroom produces significantly higher unit achievement than video lessons alone in 7th-grade science](web-assisted-activities-flipped-classroom-achievement-gain.md) — related

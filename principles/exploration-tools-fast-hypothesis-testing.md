@@ -179,6 +179,7 @@ Speed of the test cycle, number of cycles, guidance, immediate understanding, de
 - [Guide and time generative learning activities to overcome barriers to sense-making](../strategies/guide-and-time-glas-strategy.md)
 - [Support engagement particularly in academic subjects by incorporating exploration and learning by doing](../strategies/support-engagement-in-academic-subjects-exploration.md)
 - [Scaffold hypothesis formation before testing and provide tools for explicit hypothesis statements in games](../strategies/scaffold-hypothesis-formation-before-testing.md)
+- [Use predict-then-simulate tasks in which learners forecast outcomes and compare them against scientific model results](../strategies/predict-then-simulate-lake-level-tasks.md)
 
 ## Key Sources
 - Collins, Allan. (1988). Cognitive Apprenticeship and Instructional Technology. Technical Report. BBN Report No. 6899, BBN Labs, Inc. https://eric.ed.gov/?id=ED331465

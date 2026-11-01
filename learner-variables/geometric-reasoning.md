@@ -13,7 +13,7 @@ generated:
 # Geometric Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 25 claims (16 show a difference, 7 mixed, 2 no difference) · 18 studies (6 causal, 5 qualitative, 2 quant-synthesis, 2 associational, 2 theoretical, 1 review), `q1`–`q3` · 3 of 18 report an effect size · 25 claims rest on one study
+> **Evidence** · 26 claims (17 show a difference, 7 mixed, 2 no difference) · 19 studies (7 causal, 5 qualitative, 2 quant-synthesis, 2 associational, 2 theoretical, 1 review), `q1`–`q3` · 4 of 19 report an effect size · 26 claims rest on one study
 
 ## Description
 Geometric reasoning is the abstract thinking used to define shapes, analyse their properties and relationships, and argue about them; in the secondary grades it extends to formalising those arguments as written proofs. The Learner Variability Navigator notes that geometric knowledge gives concrete representations and models for abstract mathematical ideas, which can serve as an entry point to higher-order mathematical thinking. It is assessed with short geometry tasks that ask learners to explain their reasoning in writing or diagrams, which also reveal misconceptions, and with the geometry subtests of diagnostic batteries.
@@ -62,6 +62,7 @@ LVN follows it from grade 3 to grade 10. It is distinct from, but draws on, [spa
 - [Early introduction of a scientific video appeared to constrain students' representations, which they applied without adjusting for new contexts](../claims/early-scientific-video-constrained-representations.md) [+W] — instruction changes it
 - [In the motion capture game The Hidden Village, pose creation spurred gesturally embodied argumentation expressed more in gesture than in precise mathematical speech](../claims/thv-gesturally-embodied-argumentation.md) [+M] — instruction changes it
 - [Relational-understanding technologies show the most divergent effects (.09 to 1.02), moderated by grade level, duration, and mathematics subject matter](../claims/relational-technology-divergent-effects-subject-matter.md) [~M] — instruction changes it
+- [Year 4 pupils taught two-dimensional shape properties with Logo outperformed a traditionally taught control group on the post-test](../claims/logo-posttest-outperformed-control-2d-shapes.md) [+M] — instruction changes it
 
 ## Measures
 - **Geometry Tasks with Explanation** (e.g., Carroll, 1998): Short geometry tasks that elicit reasoning and argumentation through writing, diagrams, and other representations can be used to assess students' understanding and misconceptions of basic geometric properties while giving insight into students' thinking.

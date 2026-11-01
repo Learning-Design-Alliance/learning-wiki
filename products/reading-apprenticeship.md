@@ -27,7 +27,7 @@ sources:
 # Reading Apprenticeship
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 9 claims (4 for, 4 mixed, 1 against) · 2 studies (1 causal, 1 quant-synthesis), `q3` · 2 of 2 report an effect size · 9 claims rest on one study
+> **Evidence** · 10 claims (5 for, 4 mixed, 1 against) · 3 studies (1 causal, 1 quant-synthesis, 1 associational), `q2`–`q3` · 2 of 3 report an effect size · 10 claims rest on one study
 
 ## Description
 Reading Apprenticeship® is a secondary-school academic literacy curriculum and professional-learning programme developed and provided by WestEd to support students' reading comprehension, engagement, and metacognitive awareness.
@@ -38,6 +38,7 @@ Reading Apprenticeship® is a secondary-school academic literacy curriculum and 
 - **Reading Apprenticeship® teacher professional development program**: Reading Apprenticeship® is a professional development program that trains teachers to model reading comprehension strategies and help students practice these strategies in their classrooms, with the goal of improving literacy and social-emotional outcomes. The teacher acts as the "master reader" who "models comprehension strategies and helps students (the 'reading apprentices') practice these strategies." Professional development is delivered through courses such as Reading Apprenticeship® Essentials I and II plus on-site or online coaching, in several packages (RAAL, RAISE, iRAISE, RAAD) implemented over one school year per cohort. (What Works Clearinghouse et al. (2023))
 - **Reading Apprenticeship (RA) family of secondary literacy programs**: Reading Apprenticeship is "a family of high school programs designed to improve students' literacy by integrating metacognitive strategy instruction into content areas, especially science and social studies." All variations incorporate extensive reading, collaborative sense-making, and teaching of metacognitive skills such as prediction, summarization, graphic organizers, and clarification. The review rates the family Strong based on four studies. (Reading Apprenticeship (2024))
 - **Reading Apprenticeship® four-dimensions framework for integrating literacy into subject-area teaching**: Reading Apprenticeship® calls for teachers to integrate four dimensions of classroom life into subject-area teaching through conversations about the thinking processes students and teachers use as they read. The dimensions are Social (a safe, collaborative environment drawing on students' interest in social interaction), Personal (students' reading identities, purposes, and metacognitive awareness), Cognitive (comprehension and problem-solving strategies for academic texts), and Knowledge-building (knowledge of word construction, vocabulary, text structure, genre, language, and content). The framework underpins both the teacher professional development and the student Academic Literacy curri (What Works Clearinghouse (2010))
+- **Content-literacy instructional framework centered on metacognitive conversation with teacher-leader team meetings**: The program evaluated in both contexts is an instructional framework helping teachers support discipline-specific literacy and learning in content areas. At its center is metacognitive conversation, carried on internally through reading and reasoning routines and externally as teacher and students talk about reading, with extensive reading including increased in-class opportunities to practice academic texts. It targets learning dispositions as well as literacy skills and knowledge. For the i3 project it was modified for scalability: teachers of ELA, biology, and history were included to build a school-wide teacher community, and teacher leaders were developed to convene monthly team meetings supporting implementation. (Newman et al. (2016))
 
 ### Claims
 - [Reading Apprenticeship® showed a statistically significant positive effect on the GRADE reading comprehension subtest for Cohort 2 ninth-grade students](../claims/reading-apprenticeship-cohort2-comprehension-significant.md) [+W]
@@ -49,6 +50,7 @@ Reading Apprenticeship® is a secondary-school academic literacy curriculum and 
 - [Reading Apprenticeship® shows uncertain effects on life sciences achievement in one study](../claims/reading-apprenticeship-uncertain-life-sciences.md) [~W]
 - [Reading Apprenticeship® shows uncertain effects on literacy achievement across five studies](../claims/reading-apprenticeship-uncertain-literacy-achievement.md) [~W]
 - [Reading Apprenticeship® shows uncertain effects on mathematics achievement, with one significant negative finding](../claims/reading-apprenticeship-uncertain-mathematics-achievement.md) [~W]
+- [Teachers' confidence in their ability to implement the program is the only characteristic significantly and positively associated with student outcomes in the RCT](../claims/teacher-confidence-associated-with-value-added.md) [+M]
 
 ## Related Products and Programmes
 
@@ -58,10 +60,10 @@ Reading Apprenticeship® is a secondary-school academic literacy curriculum and 
 - What Works Clearinghouse. (2010). WWC Intervention Report: Reading Apprenticeship®. U.S. Department of Education, What Works Clearinghouse. http://www.wested.org/ReadingApprenticeship
 - What Works Clearinghouse, Institute of Education Sciences, U.S. Department of Education. (2023). Reading Apprenticeship®. https://ies.ed.gov/ncee/wwc/InterventionReport/727
 - Reading Apprenticeship. (2024). Evidence for ESSA program review. https://evidenceforessa.org/program/reading-apprenticeship/
-
 <!-- merged 2026-10-10 from elements/reading-apprenticeship-academic-literacy-curriculum ("Reading Apprenticeship® Academic Literacy curriculum for 9th-grade students"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 - What Works Clearinghouse, Institute of Education Sciences, U.S. Department of Education. (2023). Reading Apprenticeship®. https://ies.ed.gov/ncee/wwc/InterventionReport/727
 - Reading Apprenticeship. (2024). Evidence for ESSA program review. https://evidenceforessa.org/program/reading-apprenticeship/
+- Newman, D., Lazarev, V., & Zacamy, J. (2016). Comparing a Program Implemented Under the Constraints of an RCT and in the Wild. SREE Spring 2016 Conference. https://www.sree.org
 
 # Reading Apprenticeship® Academic Literacy curriculum for 9th-grade students
 

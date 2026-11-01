@@ -51,3 +51,4 @@ Subgroup analysis dividing control arms into three categories: no specific feedb
 - [Video-based coaching produces significantly higher final surgical technical performance scores than control feedback methods](vbc-higher-final-performance-scores.md) — a broader claim this one bears on
 - [VBC outperforms controls whether delivered in single or multiple sessions and in simulated or live surgery](vbc-effective-across-session-count-and-setting.md) — related
 - [The overwhelming majority of VBC participants across the studies found VBC a useful training tool](vbc-perceived-usefulness-positive.md) — related
+- [In a randomized trial, MQI video-based coaching improved teachers' instruction on three MQI domains relative to control](mqi-coaching-randomized-trial-improved-instruction.md) — related

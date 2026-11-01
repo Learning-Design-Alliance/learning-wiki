@@ -53,3 +53,4 @@ One group pretest-posttest study of twenty-three 5th graders in a Turkish public
 ## Related Claims
 - [Prior research found CREACT significantly improved creative performance on poem and story tasks but had a low effect on a paradox task](creact-previous-language-arts-evidence.md) — related
 - [Short-term creativity interventions can be effective in changing creativity positively](short-term-interventions-change-creativity.md) — a broader claim this one bears on
+- [The character-education thematic textbook also raises experimental-class posttest means well above pretest means](character-textbook-pretest-posttest-gain.md) — related

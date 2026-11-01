@@ -63,3 +63,4 @@ Cross-case qualitative finding (RQ1-3) from documents, interviews, and walkthrou
 - [Lack of time and heavy workload are organizational barriers to team-based professional development in higher education](time-workload-barriers-team-pd.md) — related
 - [Faculty organized EdTech integration decisions in ways aligned with the principles](dexter-2023-faculty-decisions-aligned-principles.md) — related
 - [Integrative SDL frameworks combining individual motivation with structured organizational support yielded the best outcomes in fostering lifelong learning among healthcare professionals](integrative-sdl-frameworks-best-outcomes.md) — related
+- [Substituting teacher-collected video for in-person evaluation produced more productive feedback, fairer perceptions, and modestly more observation time](video-evaluation-better-feedback-fairness.md) — related

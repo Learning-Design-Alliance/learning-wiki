@@ -65,6 +65,7 @@ Music provides an affective stimulus that is shared but personally interpreted, 
 - [Journaling](../strategies/journaling.md) — the private-writing variant for learners reluctant to share aloud
 - [Building Empathy](../principles/building-empathy.md) — the broader goal this activity serves
 - [Include opportunities for mini-breaks during lessons, such as drawing, music, games, stretching, or going outside](mini-breaks-during-lessons.md)
+- [Use mind mapping, group discussion, music and brain games, and celebration across BBL stages to support conceptual understanding](bbl-stage-activities-strategy.md)
 
 ## Related Elements
 - [Check-In](../elements/check-in.md) — the framing move that makes emotional disclosure safe

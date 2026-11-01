@@ -48,3 +48,5 @@ Findings from the one RCT meeting WWC group design standards without reservation
 - Fraction Face-Off! improves at-risk fourth graders' fractions performance on a NAEP-derived measure with an average effect size of +0.51 across two studies. — related
 - [The multi-component measurement-focused fraction intervention outperforms part-whole-focused control on NAEP items, number line estimation, and calculations](measurement-fraction-intervention-beats-control-generalized-knowledge.md) — related
 - [Fraction-focused interventions significantly improved mathematics outcomes over operations-focused interventions for students with MD](fractions-interventions-outperform-operations.md) — a broader claim this one bears on
+- [Fraction magnitude intervention significantly outperforms business-as-usual control on fraction number line estimation each year, with a mean ES of 0.93 across five RCTs](fraction-intervention-number-line-es-093.md) — related
+- [Improvement in fractions magnitude understanding, but not part-whole understanding, mediates the intervention's effects on fraction outcomes](magnitude-understanding-mediation.md) — related

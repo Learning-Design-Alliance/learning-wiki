@@ -13,7 +13,7 @@ generated:
 # Analogies and prior knowledge activation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (1 for, 3 mixed) · 7 studies (3 review, 2 theoretical, 1 causal, 1 qualitative), `q1`–`q3` · 0 of 7 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (1 for, 4 mixed) · 8 studies (3 review, 2 causal, 2 theoretical, 1 qualitative), `q1`–`q3` · 0 of 8 report an effect size · 3 claims rest on one study
 
 ## Description
 This element uses comparisons to familiar concepts to support understanding of new, often abstract material, and deliberately activates relevant prior knowledge before new content is introduced. The analogy supplies a source structure the learner already possesses; activation ensures that structure is actually retrieved and available for mapping onto the target concept.
@@ -54,6 +54,7 @@ Analogies support comprehension by letting learners import a known relational st
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Participants' pre-teaching conceptions of the republic conflated it with democracy or associated it with Atatürk](../claims/pre-teaching-republic-alternative-conceptions.md) [~W]
 - [Assaf argues the pandemic shift to digital is a mindset shift, not only a technology shift, modeled via an instructional interface analogy](../claims/digital-shift-mindset-not-only-technology.md) [~W]
+- [The interaction effect of gender and instructional analogy strategy on acquisition of organic chemistry concepts is not significant](../claims/no-gender-by-analogy-interaction-organic-chemistry.md) [~W]
 
 ## Related Elements
 - [Analogies](analogies.md) — the comparison mechanism itself, without the activation component

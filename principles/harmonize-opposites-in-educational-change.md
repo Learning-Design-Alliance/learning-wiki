@@ -35,7 +35,7 @@ sources:
 # Harmonize opposites: strike a balance between competing educational ideas rather than embracing one method wholesale
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 42 claims (28 for, 12 mixed, 2 against) · 34 studies (10 review, 9 theoretical, 7 quant-synthesis, 6 causal, 1 qualitative, 1 design), `q1`–`q4` · 4 of 34 report an effect size · 40 claims rest on one study
+> **Evidence** · 43 claims (29 for, 12 mixed, 2 against) · 35 studies (11 review, 9 theoretical, 7 quant-synthesis, 6 causal, 1 qualitative, 1 design), `q1`–`q4` · 4 of 35 report an effect size · 41 claims rest on one study
 
 ## Conditional relationship
 
@@ -145,6 +145,7 @@ Claims the earlier page cited that the model above does not use; each is context
 - [In Borup et al.'s (2015) blended-course study, students and instructors perceived text and video feedback as equally valuable on quality and delivery, but valued text's efficiency over video's affective benefits](../claims/text-video-feedback-equal-value-efficiency-preferred.md) [+W] — attached 2026-10-29 from Regina Kaplan-Rakowski (2021), which proposed "Feedback modality should be selected with respect to situational principles rather than treated as universally superior"; tests this page's relationship.
 - [Hybrid PBL+LBL pedagogy yields significantly better clinical theoretical knowledge assessment scores than LBL alone in Chinese medical students](../claims/pbl-lbl-hybrid-better-theory-scores-china.md) [+W] — attached 2026-11-01 from Liu CX et al. (2020), which proposed "Use PBL as a supplement to LBL rather than replacing lecturing, to combine systematic knowledge delivery with problem-based engagement"; tests this page's relationship.
 - [Hybrid PBL+LBL pedagogy yields significantly higher comprehensive ability scores than LBL alone](../claims/pbl-lbl-hybrid-better-comprehensive-ability.md) [+W] — attached 2026-11-01 from Liu CX et al. (2020), which proposed "Use PBL as a supplement to LBL rather than replacing lecturing, to combine systematic knowledge delivery with problem-based engagement"; tests this page's relationship.
+- [Multifaceted EBP interventions combining lectures, computer sessions, small-group discussions, journal clubs, and assignments were more likely to improve knowledge, skills, and attitudes than single interventions or no intervention](../claims/multifaceted-ebp-interventions-improve-competence.md) [+W] — attached 2026-11-01 from Kyriakoulis Konstantinos et al. (2016), which proposed "Use a multifaceted approach when teaching EBP to undergraduate health students"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -64,3 +64,5 @@ Classroom experiment with 126 seventh-graders practicing the same graph and slop
 - [Interleaved practice yields lasting learning effects at delayed posttests in spelling and second-language grammar](interleaving-lasting-learning-delayed-posttests.md) — related
 - [Interleaved homework yields higher surprise criterial test scores than blocked homework in undergraduate physics, with larger effects in Stage 2](interleaving-criterial-test-benefit-physics.md) — related
 - [Playing MATHERIAL improved math achievement](matherial-improved-math-achievement.md) — related
+- [Mostly interleaved mathematics practice outscored mostly blocked practice on an unannounced delayed test in a large cluster randomized classroom trial](interleaved-practice-beats-blocked-delayed-test-rohrer-2019.md) — a narrower finding that bears on this claim
+- [A pilot study with 83 seventh graders found a large interleaving benefit (d = 0.97) preceding the main trial](interleaving-pilot-study-large-effect.md) — a narrower finding that bears on this claim

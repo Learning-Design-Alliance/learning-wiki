@@ -82,3 +82,5 @@ This report narrates the prior i3-funded RCT by Jones & Christian (2020), which 
 - Regression discontinuity impact estimates for two education interventions were not significantly different from experimental impact estimates, though point-estimate differences were sometimes nontrivial — related
 - The case study cannot distinguish which program elements caused the positive impacts — related
 - [The Kauffman School raised student attendance by approximately 1 percentage point relative to comparison students](kauffman-school-attendance-impact-one-percentage-point.md) — related
+- [SPARK showed no statistically significant impact on regular school day attendance](spark-no-attendance-impact.md) — related
+- [The SPARK program produced a small but statistically significant positive impact on reading achievement of 0.12 standard deviations in a two-year RCT](spark-rct-reading-impact-012-sd.md) — possibly the same claim (merge candidate)

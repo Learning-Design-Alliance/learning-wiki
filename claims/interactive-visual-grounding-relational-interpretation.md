@@ -52,3 +52,4 @@ User study finding from 23 parent-child dyads using ParaTutor modes. Children us
 - [Three recurring challenges disrupt parent-child math tutoring: cognitive misalignment, emotional escalation, and method mismatch](three-challenges-parent-child-math-tutoring.md) — related
 - [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — a broader claim this one bears on
 - [Identical representational designs produced wide individual variation in what felt helpful versus overwhelming (representational fit)](representational-fit-individual-variation.md) — related
+- [Traditionally taught students erred far more than REACT students on the visual representation indicator of making an image of a real-world situation](traditional-learning-visual-representation-error-1b.md) — related

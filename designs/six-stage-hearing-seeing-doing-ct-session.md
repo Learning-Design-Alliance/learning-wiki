@@ -44,7 +44,8 @@ A lesson-level sequence that alternates motivational phases with measurement poi
 - Perceived Challenge No Significant Group Difference [+M]
 
 ## Related Designs
-- 
+
+- [Four-phase learning progression for onboarding novice science readers into text-based explanatory modeling](readi-four-phase-science-learning-progression.md)
 
 ## Examples
 -

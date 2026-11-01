@@ -49,3 +49,4 @@ The evaluation reports that GEAR UP students receiving the messaging showed no e
 - [Broad advisor caseloads may have limited the effectiveness of the GEAR UP messaging by preventing college-specific guidance](gear-up-advisor-caseload-limited-effectiveness.md) — related
 - [Existing GEAR UP supports may have eclipsed the benefits of behavioral-nudge text messaging](gear-up-existing-supports-eclipse-nudges.md) — related
 - [Text-message college transition messaging did not increase college persistence among GEAR UP students](gear-up-text-messaging-no-persistence-impact.md) — related
+- [A 7-week summer text-message nudge campaign increased fall reenrollment among first-year community college students by 7 percentage points relative to control](summer-nudge-campaign-increases-community-college-reenrollment.md) — related

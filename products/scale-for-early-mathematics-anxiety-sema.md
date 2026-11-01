@@ -26,7 +26,8 @@ SEMA is a 20-item, face-supported self-report questionnaire developed by Wu et a
 - [Math anxiety is significantly negatively correlated with math achievement in second and third graders, independent of trait anxiety and IQ](../claims/math-anxiety-negative-math-achievement-young-children.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Self-Directed Learning Readiness Scale (SDLRS)](self-directed-learning-readiness-scale-sdlrs.md)
 
 ## Key Sources
 - Wu SS, Barth M, Amin H, Malcarne V and Menon V (2012) Math anxiety in second and third graders and its relation to mathematics achievement. Front. Psychology 3:162. https://doi.org/10.3389/fpsyg.2012.00162

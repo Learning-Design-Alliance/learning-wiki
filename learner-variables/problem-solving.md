@@ -13,7 +13,7 @@ generated:
 # Problem Solving
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 99 claims (71 show a difference, 13 mixed, 15 no difference) · 83 studies (36 causal, 15 review, 11 quant-synthesis, 8 associational, 5 design, 4 qualitative, 4 theoretical), `q1`–`q4` · 21 of 83 report an effect size · 97 claims rest on one study
+> **Evidence** · 101 claims (73 show a difference, 13 mixed, 15 no difference) · 85 studies (38 causal, 15 review, 11 quant-synthesis, 8 associational, 5 design, 4 qualitative, 4 theoretical), `q1`–`q4` · 21 of 85 report an effect size · 99 claims rest on one study
 
 ## Description
 Problem solving is the ability to work through a challenge that has no ready answer: defining the goal, drawing on relevant [prior knowledge](prior-knowledge.md), resources and skills, generating options and choosing among them. The LVN record (written for adult learners) treats it broadly, covering everyday, career and academic problems and conflicts, and includes both critical and creative thinking within it. It can be measured with scenario-based tasks in which learners analyse realistic problems from home, family and work life.
@@ -137,6 +137,8 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [Higher T-NOTECHS assessment-and-decision-making scores were associated with ROSC after ED thoracotomy, though the overall association did not reach statistical significance](../claims/tnotechs-rosc-association-not-significant.md) [-M] — learners who differ on it differ in outcomes
 - [Qualitative studies report perceived benefits of recess for focus, problem solving, achievement, creativity, and behavior](../claims/qualitative-perceived-recess-benefits.md) [+W] — instruction changes it
 - [Interactive whiteboard groups showed more adaptive decision-making behavior earlier than traditional whiteboard groups in simulated medical emergencies](../claims/iwb-adaptive-decision-making-medical-emergency.md) [+M] — instruction changes it
+- [Overall, students receiving soft skill-based metacognitive learning show significantly higher enhancement of mathematical problem solving ability than students receiving conventional learning](../claims/ssml-higher-mpsa-enhancement-than-conventional.md) [+M] — instruction changes it
+- [Strategy teaching increased students' use of problem-solving strategies and reduced error types in ratio problems](../claims/strategy-teaching-increases-strategy-use-reduces-errors.md) [+M] — instruction changes it
 
 ## Measures
 - **Everyday Problem Solving Inventory** (Cornelius & Capsi, 1987): task-based assessment in which learners analyse 48 real-life scenarios about family, home, conflict and managing information.

@@ -51,3 +51,4 @@ The test-retest study re-administered the survey to a stratified subsample 1 to 
 - [Self-efficacy measures show high reliability and domain-specific validity](self-efficacy-measures-reliable-domain-specific.md) — a broader claim this one bears on
 - [CMS shows acceptable test-retest reliability and internal consistency](cms-reliability-icc-alpha.md) — related
 - [The tendency to follow advice shows good test-retest reliability across two sessions (~0.73), behaving as a stable trait-like bias](advice-following-test-retest-reliability.md) — related
+- [The literacy skill assessment test showed a reliability coefficient of 0.87](literacy-assessment-test-reliability-087.md) — related

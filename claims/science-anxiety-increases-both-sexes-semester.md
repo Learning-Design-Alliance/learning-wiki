@@ -72,3 +72,4 @@ The same ANOVA models tested sex-by-time interaction for science, spatial, math,
 - [Change in anxiety across the semester is negatively correlated with course grade and GPA for male students but not female students](anxiety-change-performance-correlation-males.md) — related
 - [Longitudinal change in spatial anxiety tracks declining SN–CEN connectivity in female students, while change in math anxiety tracks declining SN–CEN connectivity in male students](anxiety-change-sn-cen-connectivity-sex-specific.md) — related
 - [Female undergraduate physics students report higher science, spatial, math, and clinical anxiety than male students at both pre- and post-instruction](sex-differences-stem-anxiety-physics-students.md) — related
+- [Self-directed learning scores increase significantly across the three measurements over the semester](self-directed-learning-increases-across-three-measurements.md) — related

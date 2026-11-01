@@ -49,3 +49,4 @@ Mixed survey and interview findings: the learning online with others category sc
 - [Obtaining a teaching degree and accessibility in time and place were the main factors motivating trainees to enrol in an online language teacher education programme](degree-and-accessibility-drive-enrolment-online-teacher-education.md) — related
 - [Gaps in reflective training: 42.9 per cent of trainees had not experienced on-line collaborative talk and 42 per cent had not been asked to produce written assignments about ELT in Oman](gaps-collaborative-talk-and-written-assignments.md) — related
 - [Leaderboards prompt upward comparison with group members, continued effort, and forum-based opinion comparison in fully online courses](leaderboard-upward-comparison-and-effort-perceptions.md) — related
+- [The authors observed higher course motivation among students using the analogy-based simulations](observed-motivation-analogy-simulation-students.md) — related

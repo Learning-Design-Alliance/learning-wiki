@@ -13,7 +13,7 @@ generated:
 # Reading Fluency
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 86 claims (54 show a difference, 18 mixed, 14 no difference) · 56 studies (17 causal, 16 associational, 10 review, 9 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 14 of 56 report an effect size · 85 claims rest on one study
+> **Evidence** · 89 claims (56 show a difference, 18 mixed, 15 no difference) · 58 studies (19 causal, 16 associational, 10 review, 9 quant-synthesis, 2 design, 2 theoretical), `q1`–`q4` · 14 of 58 report an effect size · 88 claims rest on one study
 
 ## Description
 Reading fluency is reading text accurately, at an appropriate rate and smoothly, whether silently or aloud. It rests on the word-level skills beneath it: [decoding](decoding.md), orthographic processing, phonological processing, [morphological awareness](morphological-awareness.md) and an understanding of [syntax](syntax.md). It is measured by counting words read correctly within a time limit and by having students read passages aloud, scored for accuracy and rate.
@@ -126,6 +126,9 @@ It is part of the wiki's broader [reading and language](reading-and-language.md)
 - [A font-change variant of lexical categorization training significantly increased reading speed, but not significantly more than lexical categorization training alone](../claims/font-change-training-not-superior.md) [+M] — instruction changes it
 - [Lexical categorization training significantly increases reading speed in adult non-native German learners, replicated across three experiments](../claims/lc-training-reading-speed-gains-language-learners.md) [+M] — instruction changes it
 - [Phonics control training did not significantly increase reading speed in language learners and did not differ significantly from lexical categorization training](../claims/phonics-control-null-reading-speed.md) [-M] — instruction changes it
+- [Despite greater expense and improved access to reading materials, pupil e-readers produced smaller oral reading fluency gains than either tablet intervention](../claims/e-reader-gains-smaller-than-tablets.md) [+M] — instruction changes it
+- [Pretest oral reading fluency moderated the effects of the CCT intervention on reading comprehension, with greater benefits for students with lower pretest fluency](../claims/pretest-orf-moderates-cct-comprehension-effects.md) [+M] — an instructional effect differs with it
+- [The CCT intervention showed no statistically significant effect on posttest oral reading fluency, including within the low-fluency region of significance](../claims/cct-no-posttest-orf-effect.md) [-M] — instruction changes it
 
 ## Measures
 - **Test of Word Reading Efficiency (TOWRE)** (Torgesen et al., 1999): number of printed words read correctly in 45 seconds.

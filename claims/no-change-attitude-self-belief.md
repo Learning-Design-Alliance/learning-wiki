@@ -49,3 +49,4 @@ Pre/post comparison of the Attitude toward science Test found "no significant ev
 - [Motivation drops significantly in the unplugged group but not in the plugged-in group](motivation-drop-unplugged-only.md) — related
 - [Neither the VR application nor the traditional lesson produced a significant positive change in pro-environmental attitudes](no-attitude-change-either-condition.md) — related
 - [Both a VR application and a traditional lesson increased students' self-appraised knowledge about the Amazon rainforest and biodiversity](vr-and-traditional-lesson-increase-self-appraised-knowledge.md) — related
+- [Both mobile learning and control groups held high attitudes toward mobile learning with no significant pre-post differences](mobile-learning-attitudes-high-both-groups-no-change.md) — related

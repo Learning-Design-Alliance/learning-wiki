@@ -74,3 +74,4 @@ Summary of adherence, dosage, and satisfaction data across the three Developing 
 - [Component-type implementation varied widely across early literacy interventions: instructional practices were universal (100 percent) while non-academic student supports were least common (38 percent)](component-type-implementation-percentages-early-literacy.md) — related
 - Implementation reporting in peer support RCTs is substantially incomplete, with 29% to 67% missing data per implementation component — related
 - [DP adherence varied widely across studies, with the most structured programs yielding the greatest benefits](dp-adherence-variability-influences-outcomes.md) — a narrower finding that bears on this claim
+- [Typical early childhood providers implemented PTR-YC with very high fidelity, while BAU classrooms completed almost none of the process steps](ptr-yc-high-fidelity-by-typical-providers.md) — related

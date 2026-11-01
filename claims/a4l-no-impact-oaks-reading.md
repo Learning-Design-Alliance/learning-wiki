@@ -52,3 +52,4 @@ Confirmatory ITT analyses from a cluster-randomized trial of 32 schools (16 trea
 - [The A4L impact on grade 4 CCU outcomes differed significantly by ELL status in years 1 and 2, with substantially larger effects for ELL students, but not in year 3](a4l-ell-subgroup-impact.md) — related
 - [The A4L impact on grade 4 CCU outcomes did not differ significantly between free/reduced-price lunch and non-FRL students](a4l-frl-subgroup-no-difference.md) — related
 - [After one school year of implementation (first cohort), the curricula produced no statistically significant positive impacts, and four statistically significant negative impacts were observed.](year-one-curricula-no-positive-impacts-four-negative.md) — related
+- [Baseline English proficiency (ACCESS) showed no significant treatment-control difference among ELLs, but a small effect size (0.13) favored controls](ic-access-baseline-null-small-disadvantage.md) — related

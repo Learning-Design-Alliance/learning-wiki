@@ -52,3 +52,4 @@ Generalized linear mixed-effects models (random intercepts for subjects and item
 - [Interleaving Improves Discrimination](interleaving-improves-discrimination.md) — a broader claim this one bears on
 - [The interleaving effect generalizes to visual materials, with the largest effects for paintings](interleaving-strongest-for-paintings-visual-materials.md) — a broader claim this one bears on
 - [Interleaved practice yields better category learning than blocked practice, and students who choose interleaved practice outperform those who choose blocked practice on novel materials](interleaving-effect-category-learning-paintings.md) — related
+- [The interleaving effect on delayed test scores remained significant in a multilevel model controlling for teacher effects, with no teacher-by-condition interaction](interleaving-significant-hlm-teacher-controlled.md) — related

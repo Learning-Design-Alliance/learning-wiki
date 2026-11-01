@@ -53,3 +53,4 @@ Cross-study comparison reported in the review's key findings section, based on T
 - [ICT-enabled learning improves schoolgirls' access to resources, knowledge, and skills](ict-improves-girls-access-resources.md) — a broader claim this one bears on
 - [Fewer reviewed studies align with the policy dimension, and policies ignoring gender differences may deter girls' participation](policies-accommodate-inclusiveness.md) — related
 - [Friedman's prediction that training could occur anytime and anywhere has proven only partially true, as most simulation training still depends on dedicated centers with specialized equipment](space-dimension-partially-realized.md) — related
+- [Interviewed students reported increased motivation and learning support from mobile learning, alongside technical problems](mobile-learning-student-views-motivation-technical-issues.md) — related

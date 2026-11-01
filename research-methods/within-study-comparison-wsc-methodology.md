@@ -31,7 +31,7 @@ sources:
 # Within-study comparison (WSC) methodology
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 7 claims (6 for, 1 mixed) · 6 studies (4 causal, 1 quant-synthesis, 1 theoretical), `q2`–`q3` · 1 of 6 report an effect size · 7 claims rest on one study
+> **Evidence** · 9 claims (8 for, 1 mixed) · 7 studies (4 causal, 1 quant-synthesis, 1 associational, 1 theoretical), `q2`–`q3` · 1 of 7 report an effect size · 9 claims rest on one study
 
 ## Description
 A within-study comparison examines "whether and in what context nonexperimental methods can successfully replicate the results of randomized experiments." The article situates its contribution in this growing literature and applies a WSC to charter school effects on student achievement, using a randomized study with control-group crossover as the experimental benchmark.
@@ -49,6 +49,7 @@ A within-study comparison examines "whether and in what context nonexperimental 
 - **Measurement local optima: canonical executive function tasks may reflect measurement inertia rather than genuine invariance**: The article argues that operationalizations of psychological constructs settle into "local optima": "definitions that are reliable, interpretable, and widely accepted, yet not necessarily epistemically optimal for addressing all theoretical questions." Canonical tasks like the Flanker and Stroop are optimized for reliability, comparability, and stable individual differences, which can reduce sensitivity to transient, state-based perturbations. Apparent stability under perturbation may therefore reflect properties of the measurement instrument rather than genuine invariance of the underlying process. (David Moreau (2026))
 - **Parallel-groups comparison of matched class sections as a method for investigating questions of teaching method**: The article pilots a classroom-experiment design in which two sections of the same course, matched on sex, age, environment and intended occupation, are taught by different approaches with the same teacher, laboratory, texts and examinations. The author writes that "[t]he method of conducting the experiment, by the use of parallel groups ... is comparatively new, and should prove of service in questions of method of teaching", and the summary judges it "promises to yield valuable results" if refined through repeated tests. (Gilbert (1909))
 - **Analogous-students method for computing individual normalized gains across non-overlapping cohorts.**: Because the same students did not experience both methodologies, the authors introduced the “analogous students” concept: students in the FT and TM groups occupying the same position in a lab-grade ranking within low/high grade subgroups are paired, and the individual normalized gain gi is computed for each FT student from the paired TM student's grade. The introduction of the concept allowed the authors “to associate confidence intervals with the results of the gain and perform a more robust statistical study.” Random exclusion balanced unequal subgroup sizes, giving a final sample of 613 students. (Gómez-Tejedor et al. (2020))
+- **Ecological validity of RCTs as a threat arising from the experimental design itself**: The article frames ecological validity specifically as the effect of the experimental design itself, rather than as a generic kind of external validity. It argues that an experiment's validity is threatened when controls or processes required for internal or external validity cause the program to deviate from how it would run outside the experiment, citing Gibson's perception studies and Cole and colleagues' critique of laboratory cognitive psychology. The authors use this framing to ask whether recruiting, training, supporting, randomizing, and measuring for the RCT positively or negatively affect outcomes, and to motivate comparing RCT treatment schools with Scale-up schools implementing the same program. (Newman et al. (2016))
 
 ### Claims
 - [Individual RD impact estimates show substantial variation in bias, warranting caution when interpreting single RD estimates](../claims/rd-individual-estimates-substantial-bias-variation.md) [+W]
@@ -58,9 +59,12 @@ A within-study comparison examines "whether and in what context nonexperimental 
 - [The applied-science approach shows a slight advantage over the pure-science approach on pure-science-type examination grades in secondary-school zoology](../claims/applied-approach-slight-exam-grade-advantage-zoology.md) [~M]
 - [On a test of setting up experiments and interpreting phenomena, the applied-science group showed a decided advantage (60% vs 35% correct on first reports)](../claims/applied-approach-experimentation-advantage-zoology.md) [+M]
 - [Individual normalized gains of analogous students show significant low-vs-high subgroup differences, with higher gain for low-grade Physics and high-grade Electricity groups.](../claims/analogous-students-gain-subgroup-differences.md) [+M]
+- [RCT schools had lower levels of program-related characteristics associated with scale-up, and Scale-up schools showed higher effectiveness but lower fidelity ratings](../claims/rct-lower-scaleup-characteristics.md) [+M]
+- [Characteristics associated with successful adoption are higher in Scale-up schools and do not overlap with characteristics associated with student outcomes](../claims/adoption-determinants-higher-in-scaleup-nonoverlap.md) [+M]
 
 ## Related Research Methods
--
+
+- [Design-based impact estimation](design-based-impact-estimation.md)
 
 ## Key Sources
 - Brian Gill, Joshua Furgeson, Hanley Chiang, Bing-Ru Teh, Joshua Haimson, Natalya Verbitsky-Savitz. (2016). Replicating Experimental Impact Estimates With Nonexperimental Methods in the Context of Control-Group Noncompliance. Statistics and Public Policy, vol. 3, issue 1. https://www.mathematica.org/publications/2015-replicating-experimental-impact-estimates-with-nonexperimental-methods-in-the-context
@@ -73,6 +77,7 @@ A within-study comparison examines "whether and in what context nonexperimental 
 - David Moreau, Kristina Wiebels. (2026). Interventions as Probes of Cognitive Architecture: Commentary on Zhang et al. (2026). Educational Psychology Review. https://doi.org/10.1007/s10648-026-10150-7
 - Gilbert, J. P. (1909). An experiment on methods of teaching zoology (preliminary report). The Journal of Educational Psychology. https://psycnet.apa.org/journal/edu
 - Gómez-Tejedor, J. A., Vidaurre, A., Tort-Ausina, I., Molina-Mateo, J., Serrano, M.-A., Meseguer-Dueñas, J. M., Martínez Sala, R. M., Quiles, S., & Riera, J. (2020). Effectiveness of flip teaching on engineering students’ performance in the physics lab. Computers & Education. https://doi.org/10.1016/j.compedu.2019.103708
+- Newman, D., Lazarev, V., & Zacamy, J. (2016). Comparing a Program Implemented Under the Constraints of an RCT and in the Wild. SREE Spring 2016 Conference. https://www.sree.org
 
 # Within-study comparison (WSC) methodology
 

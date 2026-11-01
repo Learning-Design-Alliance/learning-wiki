@@ -80,3 +80,4 @@ Section-level post-course ratings in the intervention cohort: flipped-learning c
 - [Participants expressed overall positive perceptions of the PD, with all survey items except one rated above 4 on a five-point scale](cybersecurity-pd-positive-perceptions.md) — related
 - [Students rated all student-facing design principles positively, with formative assessment and learning content rated highest (above 6 on a 7-point scale)](design-principles-rated-positively-survey.md) — related
 - [Radical changes from the flipped model, new software, and a research-and-production lesson sequence constitute a major challenge for students accustomed to traditional methods](flipped-radical-change-challenges-traditional-learners.md) — related
+- [Students rated the game positively, most often citing fun/interactive features, visuals, and new information learned](losing-the-lake-positive-student-feedback.md) — related

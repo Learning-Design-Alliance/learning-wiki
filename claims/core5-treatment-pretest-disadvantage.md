@@ -51,3 +51,5 @@ Independent sample t-test comparing Fall 2016 pretest RIT means of the treatment
 - [In the full-sample analysis, baseline demographic and prior-achievement differences between treatment and matched comparison groups were minimal, with effect sizes below the WWC threshold](air-tutors-full-sample-baseline-equivalence.md) — reports the opposite
 - [Experimental and control groups were equivalent in vocabulary before the glossing treatment](gloss-study-groups-equivalent-at-pretest.md) — related
 - [No significant pre-test difference existed between the two groups' entry listening knowledge](no-pretest-listening-difference-groups.md) — related
+- [The GCR and control groups were equivalent in grammar performance before treatment](gcr-pretest-group-equivalence.md) — related
+- [Treatment and comparison groups differed significantly at pretest on most writing and language measures, favoring comparison](siwi-pretest-differences-limitation.md) — related

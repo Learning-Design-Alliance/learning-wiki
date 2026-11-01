@@ -73,3 +73,4 @@ Same pre/post design measuring noticing of 15 predefined incidents. The study re
 - [Before pedagogical training, prospective university teachers have lower professional vision scores than current faculty teachers](prospective-teachers-lower-professional-vision-pretest.md) — related
 - [Prospective teachers notice fewer pedagogically significant incidents than current faculty teachers before training](prospective-teachers-notice-fewer-incidents-pretest.md) — related
 - [Studying double-content examples before video-based analyses hindered student teachers' noticing and reasoning compared to studying without them](double-content-examples-hindered-noticing-reasoning.md) — related
+- [Both experimental and control groups improved their proportional reasoning scores from pretest to posttest](both-groups-pretest-posttest-prt-gains.md) — related

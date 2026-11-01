@@ -13,7 +13,7 @@ generated:
 # Structured Debate
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Structured debate is the element in which learners examine opposing claims using explicit roles, turn structures, evidence requirements, and response rules. It is useful when the goal is disciplined argumentation rather than free-form disagreement.
@@ -38,7 +38,7 @@ Structured debate is the element in which learners examine opposing claims using
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Students taught with WSDC debate significantly outperformed control students on both critical thinking and speaking posttests](../claims/debate-outperforms-control-ct-and-speaking.md) [+W] — attached 2026-11-01 from Iman (2017), which proposed "World Schools Debating Championship (WSDC) format as implemented in the study"; tests this page's relationship.
 
 ## Related Elements
 - [Rebuttals](rebuttals.md)

@@ -151,3 +151,4 @@ The core interpretive point is that "is lecture effective?" is the wrong questio
 - [Demonstration-based CPR training tended to produce more accurate performance than lecture-based approaches](demonstration-beats-lecture-cpr-training.md) — a narrower finding that bears on this claim
 - [PBL and active learning activities promote SDL while lectures and tests deter it, though evidence is inconsistent](pbl-promotes-sdl-lectures-deter.md) — related
 - [The review attributes implementation-strategies effectiveness to experiential, interactive, and patient-centered learning methods alongside traditional lectures](interactive-patient-centered-methods-attributed-effectiveness.md) — related
+- [Experimental-group students needed less teacher support for theoretical information than control-group students during the flipped lessons](less-teacher-support-experimental-group-observations.md) — related

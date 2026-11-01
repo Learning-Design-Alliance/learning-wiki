@@ -26,7 +26,8 @@ The article argues that teaching happens in series while methodology tests are t
 - [The four schemes of work showed replicable significant heterogeneity in effectiveness, with the predicted-least-effective teacher-centred/non-human scheme among the most effective](../claims/sow-heterogeneity-unexpected-rank-order.md) [+M]
 
 ## Related Research Methods
--
+
+- [A priori systematic replication-series planning with treatment-response rates](a-priori-systematic-replication-series-planning-with-treatment-response-rates.md)
 
 ## Key Sources
 - Buchan, L., Hejmadi, M., Abrahams, L. & Hurst, L. D. (2020). A RCT for assessment of active human-centred learning finds teacher-centric non-human teaching of evolution optimal. npj Science of Learning 5:19. https://doi.org/10.1038/s41539-020-00078-0

@@ -190,6 +190,7 @@ The expectation should weaken if comparisons with comparable learners find no ad
 
 - [Interleaving](../strategies/interleaving.md) and [Interleave practice types](../strategies/interleave_practice_types.md) are the strategies that carry this principle into an activity.
 - [Include a small block of problems of a new skill at the start of an assignment, then interleave the rest](../strategies/small-initial-block-then-interleave.md)
+- [Teachers can create interleaved assignments from existing blocked textbook materials by pulling one problem from each of many assignments](../strategies/build-interleaved-assignments-from-textbook-problems.md)
 
 ## Key Sources
 - Brunmair, M., & Richter, T. (2019). Similarity matters: A meta-analysis of interleaved learning and its moderators. *Psychological Bulletin, 145*(11), 1029–1052. [doi:10.1037/bul0000209](https://doi.org/10.1037/bul0000209)

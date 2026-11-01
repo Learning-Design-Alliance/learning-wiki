@@ -40,7 +40,8 @@ The article describes a concrete funder strategy: "Implementing this process can
 - [Spree Scaling Process Framework](../products/spree.md)
 
 ## Related Strategies
-- 
+
+- [Pair intervention evaluation with cost-effectiveness analysis to guide scaling to all students](cost-effectiveness-analysis-for-scaling-stem-interventions.md)
 
 ## Examples
 -

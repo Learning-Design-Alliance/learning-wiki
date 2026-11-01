@@ -84,3 +84,4 @@ Cross-study comparison of published studies (Agarwal et al.; Bertilsson et al.; 
 - [Testing effect among low-WMC learners depends on stimulus WM demands: negative testing effect for low-frequency stimuli](wmc-stimulus-frequency-interaction-testing-effect.md) — related
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — related
 - [Providing feedback after initial multiple-choice tests cut lure intrusions on final short-answer tests roughly in half, with immediate and delayed feedback equally effective](feedback-after-multiple-choice-tests-halves-lure-intrusions.md) — related
+- [The authors conclude that intentional practice with basic mathematics facts offers benefits regardless of the method used to rehearse](intentional-practice-any-method-benefits-fluency.md) — related

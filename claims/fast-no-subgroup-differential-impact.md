@@ -62,3 +62,4 @@ In the 60-school cluster RCT (1,396 students), subgroup and school-characteristi
 - [Small isolated effects on family conflict (negative) and parent-teacher joining (positive) appeared but were not enduring and may be spurious](fast-isolated-small-effects-possibly-spurious.md) — related
 - [The intervention showed no meaningful differential effects for children facing socioeconomic disadvantage, EAL, SEN, or multiple overlapping challenges](tips-by-text-no-subgroup-differences.md) — related
 - [Structure-outcome relationships appear largely universal across grade levels](structure-benefits-appear-universal-across-grade-levels.md) — related
+- [Teachers' confidence in their ability to implement the program is the only characteristic significantly and positively associated with student outcomes in the RCT](teacher-confidence-associated-with-value-added.md) — related

@@ -41,6 +41,10 @@ The package organises learning as six free-standing modules sequenced so learnin
 
 - [The package claims minimal technical English limits workplace training through comprehension, confidence and written-form difficulties](../claims/minimal-technical-english-limits-training.md) [+W]
 
+## Related Designs
+
+- [CD-based e-learning module on Transistors with six interactive lessons](transistors-elearning-module-cd.md)
+
 ## Related Patterns
 
 - [Six-part section structure for FEA-based experiential learning modules](fea-module-six-part-section-structure.md)

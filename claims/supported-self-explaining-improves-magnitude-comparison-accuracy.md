@@ -55,3 +55,4 @@ Randomized controlled trial: 236 at-risk fourth graders from 52 classrooms in 14
 - [Reasoning moderates the word-problem intervention's advantage, and the intervention did not compensate for low reasoning](reasoning-moderator-word-problem-intervention.md) — related
 - [Supported self-explaining produces higher-quality explanations of fraction magnitude differences than a word-problem component](supported-self-explaining-improves-explanation-quality.md) — related
 - [Schema-based word-problem intervention improves multiplicative fraction word-problem solving, with no advantage of the explaining component on that outcome](word-problem-intervention-improves-fraction-word-problems.md) — related
+- [Supported self-explaining improves fraction magnitude comparison knowledge (ES 0.43) and explanation quality (ES 0.93), and compensates for low working memory](supported-self-explaining-fraction-magnitudes.md) — possibly the same claim (merge candidate)

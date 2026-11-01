@@ -48,3 +48,4 @@ Distributional analysis of Bloom-level cognitive intent across all annotated tur
 - [Interaction context and cognitive intent are structurally associated: task-directed interactions sit at lower-to-mid Bloom levels while own-work references carry higher-level requests](context-intent-joint-association.md) — related
 - Higher-order questions (synthesis and evaluation) were rarely present in the examined question papers — related
 - [Assignments at the first five levels of Bloom's taxonomy are suited to LLM grading, while Create-level assignments are more challenging for LLMs to assess](bloom-levels-limit-llm-grading-suitability.md) — related
+- [The benefit of multimedia pre-lectures depends on cognitive level of the question, largest for understanding (Level-2) and analyzing (Level-4)](prelecture-benefit-depends-cognitive-level.md) — related

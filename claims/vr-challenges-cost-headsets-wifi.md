@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2024
+source_checked: 2026-11-01
 sources:
   - id: jacqueline-żammit-2024
     resource: "https://doi.org/10.1007/s11423-024-10375-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 11 teachers reported VR needs further development, citing lack of consistent Wi-Fi and voice-recognition audio issues, and six educators said VR could create challenges during lessons requiring balance with traditional techniques. [→ Jacqueline Żammit 2024](#jacqueline-zammit-2024)

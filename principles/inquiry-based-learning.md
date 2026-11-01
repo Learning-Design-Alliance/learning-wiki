@@ -51,7 +51,7 @@ sources:
 # Inquiry-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 74 claims (42 for, 23 mixed, 9 against) · 79 studies (21 causal, 20 quant-synthesis, 11 review, 10 theoretical, 7 design, 6 qualitative, 4 associational), `q1`–`q4` · 20 of 79 report an effect size · 61 claims rest on one study
+> **Evidence** · 76 claims (43 for, 24 mixed, 9 against) · 80 studies (22 causal, 20 quant-synthesis, 11 review, 10 theoretical, 7 design, 6 qualitative, 4 associational), `q1`–`q4` · 20 of 80 report an effect size · 63 claims rest on one study
 
 ## Conditional relationship
 
@@ -158,6 +158,8 @@ The heading is kept because tools look for it; new links land here unread. Re-re
 - [Dewey argues the scientific attitude is achieved by pupils taking a hand in the making of knowledge through inquiry](../claims/dewey-making-knowledge-through-inquiry.md) [+W] — attached 2026-10-24 from J. Dewey (1910), which proposed "Teach science for its method-value — cultivating the scientific attitude through pupil inquiry — rather than primarily for informational subject-matter".
 - [Encouraging 5-7-year-olds to ask questions during science lessons increases how much they value new science information relative to a careful-listening control](../claims/question-asking-raises-willingness-to-pay-science.md) [+W] — attached 2026-10-27 from Park et al. (2025), which proposed "Use encouraging question asking as a simple, scalable pedagogical component to foster valuation of new science information in young learners".
 - [Leveraging appropriate types of guidance during the relevant phases of inquiry benefits student inquiry in virtual and remote labs](../claims/phase-appropriate-guidance-benefits-inquiry-labs.md) [+W] — attached 2026-10-29 from Gamor (2021), which proposed "Apply guidance types matched to the inquiry phase and to how and when they are used for optimal effect".
+- [Class IX physical science students taught with the constructivist 7E model achieved significantly higher post-test and gain scores than students taught with traditional methods](../claims/7e-model-higher-science-achievement-secondary.md) [+W] — attached 2026-11-01 from Samaresh Adak (2017), which proposed "Use the constructivist 7E model in secondary science teaching to develop higher achievement, especially for low- and average-intelligence students"; tests this page's relationship.
+- [Gains from the 7E model were significant for low- and average-intelligence students but not for high-intelligence students, with gain magnitude decreasing across intelligence levels](../claims/7e-gains-vary-by-intelligence-level.md) [~W] — attached 2026-11-01 from Samaresh Adak (2017), which proposed "Use the constructivist 7E model in secondary science teaching to develop higher achievement, especially for low- and average-intelligence students".
 
 ## Objective and learner-valued goal
 

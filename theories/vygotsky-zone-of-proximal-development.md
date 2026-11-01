@@ -59,6 +59,7 @@ The article defines the zone of proximal development as "The range of task that 
 - [ZPD-aligned strategy mapping: deterministic mapping of latent ability θ to explicit instruction, targeted scaffolding, or intellectual challenge](../designs/zpd-strategy-mapping-latent-ability-theta.md)
 - [Tailor number-game difficulty to each child's zone of proximal development rather than using a fixed interval for all](../strategies/tailor-number-game-difficulty-to-zpd.md)
 - [Scaffolding-based pedagogical model with adaptive feedback grounded in Zone of Proximal Development](../designs/scaffolding-adaptive-feedback-summary-assessment.md)
+- [Eight principles for high-quality early childhood STEM experiences guided the curriculum's design](../designs/eight-principles-early-childhood-stem.md)
 
 ## Key Sources
 - Costley, K. C. (2012). An Overview of the Life, Central Concepts, Including Classroom Applications of Lev Vygotsky. https://eric.ed.gov/?id=ED529565

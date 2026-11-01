@@ -35,7 +35,8 @@ A 19-item adjective-pair self-report assessment developed by Bilgin to measure i
 - [Attachment styles, irrational beliefs and psychological symptoms jointly explain approximately 41% of the variance in university students' cognitive flexibility](../claims/psychosocial-variables-explain-41-percent-cognitive-flexibility.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Self-Directed Learning Readiness Scale (SDLRS)](self-directed-learning-readiness-scale-sdlrs.md)
 
 ## Key Sources
 - Bülent GÜNDÜZ. (2013). The Contributions of Attachment Styles, Irrational Beliefs and Psychological Symptoms to the Prediction of Cognitive Flexibility. Educational Sciences: Theory & Practice, 13(4), 2079-2085. https://doi.org/10.12738/estp.2013.4.1702

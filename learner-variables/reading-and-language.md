@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 253 claims (159 show a difference, 44 mixed, 50 no difference) · 169 studies (50 associational, 41 causal, 36 quant-synthesis, 27 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 39 of 169 report an effect size · 244 claims rest on one study
+> **Evidence** · 256 claims (160 show a difference, 44 mixed, 52 no difference) · 170 studies (50 associational, 42 causal, 36 quant-synthesis, 27 review, 8 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 39 of 170 report an effect size · 247 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -304,6 +304,9 @@ What a learner can read without effort, and whether the language of instruction 
 - [TEPBLL promotes eight language skills and knowledge areas: speaking, listening, reading, writing, vocabulary, creative and critical thinking, intercultural awareness, and content knowledge](../claims/tepbll-eight-skills-knowledge-promoted.md) [+M] — instruction changes it
 - [WhatsApp-based mobile instant messaging projects enhanced communicative skills and vocabulary knowledge](../claims/whatsapp-projects-communicative-skills-vocabulary.md) [+M] — instruction changes it
 - [For literature reading ability in TACE teaching, PBL combined with CBL ranked best, followed by PBL alone](../claims/pbl-cbl-best-literature-reading-ability-tace.md) [+M] — instruction changes it
+- [Pretest oral reading fluency moderated the effects of the CCT intervention on reading comprehension, with greater benefits for students with lower pretest fluency](../claims/pretest-orf-moderates-cct-comprehension-effects.md) [+M] — an instructional effect differs with it
+- [Pretest word identification efficiency (SWE) and vocabulary knowledge did not moderate the intervention's effects on reading comprehension](../claims/swe-vocabulary-no-moderation.md) [-M] — an instructional effect differs with it
+- [The CCT intervention showed no statistically significant effect on posttest oral reading fluency, including within the low-fluency region of significance](../claims/cct-no-posttest-orf-effect.md) [-M] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

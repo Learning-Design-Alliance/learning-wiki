@@ -122,3 +122,4 @@ Companion school-level moderator analysis using average percentage of White stud
 - [The intervention showed no meaningful differential effects for children facing socioeconomic disadvantage, EAL, SEN, or multiple overlapping challenges](tips-by-text-no-subgroup-differences.md) — related
 - [In the U.S., variance in student achievement is explained more by family economic background than by school-level expenditures](family-economic-background-explains-more-variance-than-school-expenditures.md) — related
 - [EdTech effects for disadvantaged pupils are smaller and inconsistent: no significant impact in disadvantaged-focused subgroups (d = 0.0527) and a smaller significant effect in partial-subset studies (d = 0.1624)](edtech-disadvantaged-pupils-smaller-mixed-effects.md) — reports the opposite
+- [The OCR program shows a positive differential impact for Hispanic students](ocr-positive-differential-impact-hispanic-students.md) — related

@@ -60,6 +60,7 @@ The defensible core of BBL is not neuroscience but cognitive psychology: managin
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — a cognitively grounded alternative to generic "brain activation" claims
 - [Spaced Retrieval Practice](spaced-retrieval-practice.md) — the retention mechanism BBL gestures at without naming
 - [Use review evidence to make teachers critical consumers of brain-based explanations, rather than dropping neuroscience directly into practice](critical-consumers-of-brain-based-explanations.md)
+- [Use mind mapping, group discussion, music and brain games, and celebration across BBL stages to support conceptual understanding](bbl-stage-activities-strategy.md)
 
 ## Examples
 - **Segmented video lessons with embedded questions** (e.g., [Khan Academy](https://www.khanacademy.org)) — chunking plus active processing, the defensible core of BBL without the neuromyth framing

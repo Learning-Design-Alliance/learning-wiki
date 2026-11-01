@@ -66,3 +66,4 @@ The same exploratory analysis found a grade-by-modality interaction in delayed r
 ## Related Claims
 - [Fifth and sixth graders showed higher delayed retention and lower cognitive load when learning science from videos than from illustrated texts](video-better-retention-lower-load-classroom.md) — related
 - [Teacher-rated grades show girls rated slightly higher than boys, but gender is unrelated to test performance](gender-grades-not-test-performance.md) — related
+- [Exploratory sub-group analyses suggested PAL worked better for girls than boys in literacy and numeracy, with small effects](pal-gender-subgroup-girls-benefit.md) — related

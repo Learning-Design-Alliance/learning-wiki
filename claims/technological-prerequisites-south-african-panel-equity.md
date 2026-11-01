@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-11-01
 recheck_by: 2026
 sources:
   - id: mirata-2023
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: local conditions change quickly
+> **Currency** · newest study 2023 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2026: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Internet access, quality, affordability, and accessibility of appropriate technology were identified as fundamental prerequisite factors only among the South African panel. [→ Mirata 2023](#mirata-2023)
@@ -79,3 +80,5 @@ Qualitative Delphi data from the South African panel; the article reports this l
 - [Teachers and stakeholders centred their views of ICT's role on first-order barriers of resources and students](ict-role-first-order-resources-students.md) — related
 - [Design features such as straightforward access, mobile-ready platforms, self-paced modular formats, and scenario-based content are reported facilitators of e-learning implementation](e-learning-design-features-facilitators-accessibility-self-paced-scenario.md) — related
 - [Internet access and trust in information are the main barriers to caregiver self-directed learning via mobile health](internet-access-and-trust-barriers-caregiver-self-directed-learning.md) — related
+- [ICT resources such as computers, internet facilities and printers are not adequately available in Ekiti State secondary schools](ict-resources-inadequate-ekiti-schools.md) — a narrower finding that bears on this claim
+- [The study school faced contextual barriers to game-based learning: teacher shortage, low teacher pedagogic profile, minimal ICT infrastructure, remoteness, and overcrowding](rural-school-barriers-game-based-learning.md) — related

@@ -47,7 +47,8 @@ The review's stated implication for practitioners and policymakers is to design 
 - [Parent Implemented Intervention Improves Outcomes](../claims/parent-implemented-intervention-improves-outcomes.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Combine adolescent alcohol interventions with parental educational programs and refusal-skills training](parental-programs-plus-refusal-skills-prevention.md)
 
 ## Examples
 -

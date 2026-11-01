@@ -67,6 +67,7 @@ Retelling is a generative task: reconstructing a text from memory requires the l
 - [Summarization](summarizing.md) — retelling's expository sibling; summary requires selection and compression, retell requires completeness
 - [Think-Aloud](../elements/think-aloud.md) — during reading, whereas retelling is after reading; both externalize comprehension
 - [Story retelling with familiar picture books to practice sequencing](story-retelling-sequencing-familiar-books.md)
+- [Three consciousness-raising text techniques: Recall, Reconstruction, and Bolding-Underlying](recall-reconstruction-bolding-underlying-techniques.md)
 
 ## Examples
 - **[Reading Recovery](../products/reading-recovery.md)** — each lesson ends with the child retelling a newly read book while the teacher records the retell on a running record, using omissions to select the next teaching point.

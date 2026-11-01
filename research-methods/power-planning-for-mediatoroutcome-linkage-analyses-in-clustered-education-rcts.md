@@ -20,6 +20,7 @@ Because the article develops power formulas specifically for exploratory analyse
 ## Accounts
 <!-- How each source describes or uses the method -->
 - **Researchers should assess statistical power for mediator-outcome linkage analyses before relying on them to interpret RCT results**: Because the article develops power formulas specifically for exploratory analyses linking teacher practice outcomes to student achievement outcomes in clustered school-based RCTs, it implies that researchers should evaluate power for these analyses when designing studies. The simulated power analysis exists to inform such assessments, indicating that typical RCTs may face power limitations for linking impacts on teacher practice and student achievement. (Peter Z. Schochet (2011))
+- **Applied power-analysis of 3-2-1 mediation designs using design parameters from a large professional development study**: The article reports an application of its framework using "data from a large study of many different professional development programs" to design studies examining "the extent to which teachers' knowledge mediates the relationship between participation in a professional development program and students' cognitive development". The application examines designs that achieve 80% power based on design parameters such as ICC and effect size drawn from this study and other studies. It serves as a worked instantiation of the power framework for planning multilevel mediation studies in education. (Ben Kelcey (2014))
 
 ### Claims
 
@@ -31,3 +32,4 @@ Because the article develops power formulas specifically for exploratory analyse
 
 ## Key Sources
 - Peter Z. Schochet. (2011). Do Typical RCTs of Education Interventions Have Sufficient Statistical Power for Linking Impacts on Teacher Practice and Student Achievement Outcomes? Journal of Educational and Behavioral Statistics, vol. 36, no. 4. https://www.mathematica.org/publications
+- Ben Kelcey. (2014). Power Analysis for Cross Level Mediation in CRTs. SREE Spring 2014 Conference Abstract.

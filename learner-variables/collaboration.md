@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 98 claims (74 show a difference, 17 mixed, 7 no difference) · 81 studies (25 review, 16 causal, 11 quant-synthesis, 11 qualitative, 8 associational, 5 design, 5 theoretical), `q1`–`q3` · 10 of 81 report an effect size · 98 claims rest on one study
+> **Evidence** · 99 claims (74 show a difference, 18 mixed, 7 no difference) · 82 studies (25 review, 17 causal, 11 quant-synthesis, 11 qualitative, 8 associational, 5 design, 5 theoretical), `q1`–`q3` · 10 of 82 report an effect size · 99 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -140,6 +140,7 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Teamwork training showed significant effects on teamwork behaviors when two or more teamwork dimensions were targeted, but not when only one was](../claims/multiple-dimensions-needed-for-teamwork-gains.md) [~M] — instruction changes it
 - [Teamwork training interventions produce significant positive effects on teamwork behaviors in controlled studies](../claims/teamwork-training-improves-teamwork-behaviors.md) [+M] — instruction changes it
 - [Workshop, simulation, and team-review methods significantly improve teamwork behaviors, while the pooled effect of didactic education alone was not significant](../claims/didactic-education-fails-to-improve-teamwork.md) [~M] — instruction changes it
+- [Pre-service science teachers in the inquiry group reported both positive experiences (permanent learning, active research, cooperation) and difficulties (time demands, unreliable resources)](../claims/interview-views-on-inquiry-instruction.md) [~W] — instruction changes it
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

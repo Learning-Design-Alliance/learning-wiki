@@ -42,6 +42,7 @@ The persona progression model ties the AI instructor's tone and scaffolding dept
 ## Related Designs
 
 - [Five-level pyramid hierarchy for AI-integrated engineering curricula based on scaffolded instruction](mlme-pyramid-scaffolded-hierarchy.md)
+- [Four-phase learning progression for onboarding novice science readers into text-based explanatory modeling](readi-four-phase-science-learning-progression.md)
 
 ## Examples
 -

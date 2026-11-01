@@ -68,6 +68,7 @@ ASSISTments is a free web-based platform developed and operated by the ASSISTmen
 
 - [Opiq 6th-grade mathematics interaction dataset from Estonia](opiq-6th-grade-mathematics-interaction-dataset-from-estonia.md)
 - [Problem Solving Tutor](problem-solving-tutor.md)
+- [Dataset of 22 randomized controlled experiments from the ASSISTments online tutoring system](dataset-of-22-randomized-controlled-experiments-from-the-assistments-online-tutoring-syste.md)
 
 ## Key Sources
 - Feng, M., Weiser, G., & Collins, K. (2024). Cost and cost effectiveness of ASSISTments online math support: Analysis from a randomized controlled study in middle school. WestEd. https://www.wested.org

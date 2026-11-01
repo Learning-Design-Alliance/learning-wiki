@@ -55,3 +55,4 @@ In the Texas 7th-grade experiment data, the article reports that "91% of 7th gra
 - [SimCalc replacement units produced statistically significant pretest-to-posttest gains in conceptual understanding with student-level effect sizes of .63, .50, and .56 in three Texas experiments](simcalc-texas-experiments-effect-sizes.md) — related
 - [An adapted SimCalc linear-function unit in England produced significant posttest gains versus Texas-control predictions (ES = 0.57), with no significant gain differences by poverty or prior achievement](simcalc-uk-extension-gains.md) — related
 - [SimCalc scale-up study showed significant positive impacts on curriculum-aligned conceptual items but no significant difference on state test items](simcalc-aligned-vs-state-test-impacts.md) — related
+- [Experimental-group post-test descriptive scores on conceptual understanding exceeded control-group scores](bbl-polyhedron-descriptive-means-higher.md) — related

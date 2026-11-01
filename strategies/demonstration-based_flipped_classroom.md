@@ -59,9 +59,11 @@ The strategy combines two evidence-backed mechanisms: observing a modeled perfor
 6. Fade support across the unit: move from full demonstrations to partial examples to unscaffolded problems as competence grows.
 
 ## Related Strategies
+
 - [Direct Instruction](../patterns/direct-instruction.md) — shares the model-then-practice sequence; the flip relocates the modeling phase outside class
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the pre-class video serves as the modeling phase before in-class coaching
 - [Four-Component Instructional Design](../patterns/4cid-four-component-instructional-design.md) — demonstrations supply the supportive/procedural information for learning tasks
+- [Flip the classroom by assigning pre-recorded multimedia lectures rather than textbook readings as the pre-class material](assign-multimedia-prelectures-when-flipping.md)
 
 ## Examples
 - Engineering courses using screencasts to demonstrate CAD software techniques, then dedicating lab sessions to instructor-supervised modeling tasks.

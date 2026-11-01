@@ -39,6 +39,7 @@ The report recommends policy changes so that schools support teacher teamwork ra
 ## Related Strategies
 
 - [Professional Learning Communities](professional-learning-communities.md)
+- [Train teachers and tutors on instructional use rather than device mastery, and include school-level storage and maintenance training](ict-capacity-building-instructional-focus.md)
 
 ## Examples
 -

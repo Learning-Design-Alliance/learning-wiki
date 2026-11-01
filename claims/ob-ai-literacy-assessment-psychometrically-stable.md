@@ -49,3 +49,4 @@ Rasch (1PL) analysis of the objective-based assessment (N = 288) found high inte
 - [Latent profile analysis of combined SR and OB factors identifies six distinct teacher profiles spanning overestimation, underestimation, and alignment](six-lpa-profiles-sr-ob-ai-literacy.md) — related
 - [A large-scale long-term study examined the measurement stability of Rasch measurement scales that had been in place for almost 40 years](long-term-study-rasch-scale-stability-almost-40-years.md) — related
 - [Maze-task reading performance from 1,258 first and second graders yields a reliable Rasch text-complexity scale](maze-task-student-rasch-scale.md) — related
+- [The 20-item attitude towards statistics scale showed acceptable Rasch fit and reliability, supporting a unidimensional construct](ats-scale-rasch-fit-unidimensional.md) — related

@@ -13,7 +13,7 @@ generated:
 # Operations and Place Value
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 64 claims (46 show a difference, 11 mixed, 7 no difference) · 34 studies (13 associational, 12 causal, 4 quant-synthesis, 2 design, 1 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 7 of 34 report an effect size · 62 claims rest on one study
+> **Evidence** · 65 claims (47 show a difference, 11 mixed, 7 no difference) · 35 studies (13 associational, 12 causal, 5 quant-synthesis, 2 design, 1 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 8 of 35 report an effect size · 63 claims rest on one study
 
 ## Description
 This page brings together two factors from the Learner Variability Navigator. Operations covers addition, subtraction, multiplication and division: at first learners treat an operation as an instruction about which calculation to do, and LVN stresses that they also need a conceptual understanding of what each operation means, which lets them estimate an approximate answer as well as calculate an exact one quickly and accurately. Place value is understanding that in the base-ten system the same digit stands for different values (ones, tens, hundreds) depending on its position, which children work out as they explore the size of numbers and how numbers relate.
@@ -101,6 +101,7 @@ Operations are assessed with standardised numerical operations subtests that ask
 - [Computational thinking in primary school children correlates with complex arithmetic (problem completion) and, more weakly, with basic arithmetic operations but not with writing speed](../claims/ct-numerical-correlation-primary-school.md) [+M] — learners who differ on it differ in outcomes
 - [Verbal reasoning, problem completion, and visuospatial reasoning significantly predict CT performance, with the regression model explaining about 24% of variance](../claims/ct-regression-24-percent-variance.md) [+M] — learners who differ on it differ in outcomes
 - [E-learning improves nurses' knowledge in continuing education on many topics, but effects are mixed and classroom learning was superior for drug dose calculations](../claims/e-learning-nurse-knowledge-mixed-effects.md) [~M] — instruction changes it
+- [Fraction magnitude intervention significantly outperforms control on fraction calculation each year (mean ES 1.72) despite control allocating more time to computation](../claims/fraction-intervention-calculation-es-172.md) [+M] — instruction changes it
 
 ## Measures
 - **Numerical Operations Subtest of the Wechsler Individual Achievement Test (WIAT-III)** (Wechsler, 2009): Standardized test of procedural knowledge of Operations: writing numbers, counting and solving arithmetic problems, up to fractions and negative integers.

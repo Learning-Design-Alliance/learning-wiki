@@ -59,3 +59,4 @@ Baseline equivalency test of grade 6 EOG math scores between randomized groups. 
 - [ASSISTments use in grade 7 math homework produces a statistically significant long-term positive effect on grade 8 state test scores one year after the intervention ends](assistments-long-term-math-impact-grade-8.md) — related
 - Random assignment produced treatment and control groups balanced in mathematical preparedness before the intervention — related
 - [Before implementation, treatment students performed significantly below control students on the standardized reading test](core5-treatment-pretest-disadvantage.md) — related
+- [A smaller share of the treatment group (50%) than the control group (70%) demonstrated reading proficiency on the 2011-2012 reading FCAT after the intervention](treatment-50-versus-control-70-proficiency.md)

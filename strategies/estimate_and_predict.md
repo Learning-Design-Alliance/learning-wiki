@@ -58,8 +58,10 @@ Prediction before learning is itself a learning event: attempting an answer or f
 5. Repeat across tasks and show learners their own calibration trend over time so improvement is visible.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — prediction forces retrieval attempts that surface what learners actually know before instruction
 - [Self-Assessment](../elements/self-assessment.md) — estimation is self-assessment made falsifiable: a specific prediction that outcomes can confirm or disconfirm
+- [Use predict-then-simulate tasks in which learners forecast outcomes and compare them against scientific model results](predict-then-simulate-lake-level-tasks.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — supplies the outcome data that makes estimates comparable

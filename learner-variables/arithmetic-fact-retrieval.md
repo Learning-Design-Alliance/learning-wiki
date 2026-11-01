@@ -13,7 +13,7 @@ generated:
 # Arithmetic Fact Retrieval
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 35 claims (20 show a difference, 7 mixed, 8 no difference) · 14 studies (9 associational, 5 causal), `q2`–`q3` · 4 of 14 report an effect size · 33 claims rest on one study
+> **Evidence** · 40 claims (23 show a difference, 8 mixed, 9 no difference) · 15 studies (9 associational, 6 causal), `q2`–`q3` · 5 of 15 report an effect size · 38 claims rest on one study
 
 ## Description
 Arithmetic fact retrieval is the ability to pull basic number combinations (3 + 4, 6 × 7) from long-term memory efficiently, accurately and flexibly, rather than working them out each time, so that they can be used inside larger calculations. It is usually assessed by having learners solve simple problems while their strategy is observed or self-reported (did they retrieve the answer or count it out?), and, for a fuller picture of accuracy, flexibility and efficiency, through interviews, observations and short untimed quizzes.
@@ -72,6 +72,11 @@ Facts are usually in place by the end of primary school, but the Learner Variabi
 - [Brief passive reactivations induce significant learning gains in numeric fact recall at retest 8 days after encoding](../claims/reactivations-induce-numeric-fact-learning-gains.md) [+M] — instruction changes it
 - [Standard active-retrieval practice produces larger absolute learning gains than brief reactivations, though at far greater practice time](../claims/standard-practice-larger-gains-than-reactivations.md) [+M] — instruction changes it
 - [Math fact retrieval (MFR) fluency training before Wayang tutoring improved math learning (Wayang vs. no-Wayang d = 0.39), with the Wayang-MFR combination scoring highest](../claims/mfr-fluency-training-improves-learning.md) [~W] — an instructional effect differs with it
+- [Both the control and treatment groups improved significantly in accuracy of multiplication fact answers from pretest to posttest](../claims/both-groups-significant-accuracy-gains.md) [+M] — instruction changes it
+- [Gain-score MANOVA shows a significant between-group difference in multiplication fact fluency favoring the control group on completion time, with a large multivariate effect size](../claims/mathletics-gain-manova-control-faster.md) [+M] — instruction changes it
+- [Posttest accuracy scores did not differ significantly between the treatment and control groups](../claims/posttest-accuracy-no-group-difference.md) [-M] — instruction changes it
+- [The authors conclude that intentional practice with basic mathematics facts offers benefits regardless of the method used to rehearse](../claims/intentional-practice-any-method-benefits-fluency.md) [+W] — instruction changes it
+- [The control group improved significantly in completion speed from pretest to posttest while the treatment group showed no significant speed improvement](../claims/control-group-significant-speed-gain-treatment-not.md) [~M] — instruction changes it
 
 ## Measures
 - **Open-ended formats** (Kling & Bay-William, 2014): Using a range of measures including student interviews, observations, writing prompts, and short, untimed quizzes around solving simple arithmetic problems can help capture students' accuracy, flexibility, and efficiency which are core components of Arithmetic Fact Retrieval.

@@ -51,3 +51,5 @@ Multilevel regression analysis of 622 at-risk students in 54 school-based tutori
 - [High dosage tutoring can produce accelerated academic growth for academically at-risk students if implemented effectively and at proper scale](high-dosage-tutoring-accelerated-growth-at-risk.md) — a broader claim this one bears on
 - High-dosage tutoring directly tied to classroom content can substantially accelerate learning in math and reading for the most struggling students — related
 - [Sites offering tutoring during school were much more likely than out-of-school-hours sites to offer tutoring more than twice a week](ontrack-timing-frequency-association.md) — related
+- [Positive literacy program effects can be achieved using paraprofessionals and volunteers as tutors rather than certified teachers](paraprofessional-volunteer-tutors-effective.md) — reports the opposite
+- [SPARK was implemented at high tutoring dosage across all six sites, though session levels differed significantly between schools](spark-implementation-high-dosage-site-differences.md) — related

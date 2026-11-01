@@ -40,7 +40,8 @@ The article prescribes concrete classroom activities for each RBT process dimens
 - [Rbt Process Dimensions Value Education Objectives](../theories/rbt-process-dimensions-value-education-objectives.md)
 
 ## Related Strategies
-- 
+
+- [Empower specific soft-skill values at each phase of the mathematics lesson](empower-soft-skill-values-per-lesson-phase.md)
 
 ## Examples
 -

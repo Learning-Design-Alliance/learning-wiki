@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 289 claims (148 for, 124 mixed, 17 against) · 172 studies (75 review, 39 quant-synthesis, 32 causal, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 38 of 172 report an effect size · 284 claims rest on one study
+> **Evidence** · 290 claims (148 for, 125 mixed, 17 against) · 173 studies (75 review, 39 quant-synthesis, 33 causal, 10 qualitative, 8 theoretical, 7 design, 1 associational), `q1`–`q4` · 38 of 173 report an effect size · 285 claims rest on one study
 
 ## Conditional relationship
 
@@ -525,6 +525,7 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [VR benefits examination scores for medical students but not significantly for residents](../claims/vr-anatomy-benefit-medical-students-not-residents.md) [~W]
 - [Longer VR interventions (at least 1 day) show larger score effects than interventions under 1 day](../claims/vr-anatomy-duration-moderates-effects.md) [~M]
 - [Simulation-based nursing education shows a medium-to-large pooled effect on learning outcomes (SMD = 0.70)](../claims/simulation-nursing-education-pooled-effect-070.md) [+W]
+- [The authors observed higher course motivation among students using the analogy-based simulations](../claims/observed-motivation-analogy-simulation-students.md) [~W]
 
 ## Related Principles
 - [Experiential Learning](experiential-learning.md) — simulations provide structured experiences that later reflection can interpret.
@@ -561,6 +562,7 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Use teaching approximations (role play, microteaching) to scaffold pre-service teachers' pedagogical reasoning](../strategies/teaching-approximations-pedagogical-reasoning.md)
 - [Supplement VR lessons with pre-training and follow-up reflection activities, and keep VR sessions short to limit fatigue and cybersickness](../strategies/vr-sce-session-design-pretraining-reflection.md)
 - [A three-stage design framework for model-based support in VR simulation-based teacher education](../designs/model-based-support-design-framework-vr-teacher-ed.md)
+- [Sequence simulation first, then repeat the same assignment with physical laboratory equipment](../strategies/simulation-first-then-laboratory-sequence.md)
 
 ## Key Sources
 - Akcayir, M., & Akcayir, G. (2017). Advantages and challenges associated with augmented reality for education: A systematic review of the literature. *Educational Research Review, 20*, 1-11. [https://doi.org/10.1016/j.edurev.2016.11.002](https://doi.org/10.1016/j.edurev.2016.11.002)

@@ -54,3 +54,4 @@ The same MANOVA on posttest time and trials showed a main effect of desirable di
 - [Alternating example-practice pairs produce faster and more accurate near-transfer solutions than blocked presentation of examples followed by practice](alternating-example-problem-pairs.md) — related
 - [The interaction of complexity and desirable difficulty does not significantly affect posttest performance](complexity-difficulty-interaction-not-significant-performance.md) — related
 - [Interleaved practice yields lasting learning effects at delayed posttests in spelling and second-language grammar](interleaving-lasting-learning-delayed-posttests.md) — a narrower finding that bears on this claim
+- [Mostly interleaved mathematics practice outscored mostly blocked practice on an unannounced delayed test in a large cluster randomized classroom trial](interleaved-practice-beats-blocked-delayed-test-rohrer-2019.md) — related

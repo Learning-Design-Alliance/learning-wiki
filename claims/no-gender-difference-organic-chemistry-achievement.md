@@ -1,0 +1,53 @@
+---
+type: claim
+title: No significant difference in organic chemistry post-test achievement between male and female students irrespective of instructional method
+description: No significant difference in organic chemistry post-test achievement between male and female students irrespective of instructional method
+id: no-gender-difference-organic-chemistry-achievement
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-01
+evidence_strength: moderate
+newest_evidence: 2016
+sources:
+  - id: nawaf-ahmad-hasan-samara-2016
+    resource: "https://eric.ed.gov/?id=EJ1095360"
+    title: "Nawaf Ahmad Hasan Samara. (2016). Effectiveness of Analogy Instructional Strategy on Undergraduate Student's Acquisition of Organic Chemistry Concepts in Mutah University, Jordan. Journal of Education and Practice, 7(8). https://eric.ed.gov/?id=EJ1095360"
+    author: Nawaf Ahmad Hasan Samara
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 2
+---
+
+# No significant difference in organic chemistry post-test achievement between male and female students irrespective of instructional method
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q2`
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i?` ANCOVA showed no significant gender difference in post achievement test scores (significance value 0.144), with male mean 14.41 and female mean 14.80. [→ Nawaf Ahmad Hasan Samara 2016](#nawaf-ahmad-hasan-samara-2016)
+
+## Evidence
+
+### Nawaf Ahmad Hasan Samara 2016
+
+Nawaf Ahmad Hasan Samara. (2016). Effectiveness of Analogy Instructional Strategy on Undergraduate Student's Acquisition of Organic Chemistry Concepts in Mutah University, Jordan. Journal of Education and Practice, 7(8). https://eric.ed.gov/?id=EJ1095360
+
+`q2 · i?` · `causal · r2`
+
+ANCOVA of post-test NOCAT scores by gender (32 males, mean 14.41; 50 females, mean 14.80) in the quasi-experimental study. The article reports no significant difference; no effect size is printed, and equivalence was not tested.
+
+> "But analysis of covariance in table 4 below shows t he significance value is 0.144. This implies that t here is no significant difference between females and their ma le counterparts in the post achievement test of org anic concepts administered to them irrespective of the i nstructional method used."
+
+## Discussion
+
+
+## Related Claims
+- [Undergraduate students taught organic chemistry with an analogy instructional strategy achieved significantly higher post-test scores than students taught by traditional lecture methods](analogy-strategy-improves-organic-chemistry-achievement.md) — related
+- [The interaction effect of gender and instructional analogy strategy on acquisition of organic chemistry concepts is not significant](no-gender-by-analogy-interaction-organic-chemistry.md) — related
+- [Male and female experimental groups did not differ significantly in reading comprehension at post-test after Telegram instruction](no-gender-difference-telegram-reading-posttest.md) — related
+- [Gender has no significant main effect on senior secondary students' achievement in mathematics](gender-no-significant-effect-mathematics-achievement.md) — a broader claim this one bears on
+- [Among students taught with portfolio assessment, post-test geography performance did not differ significantly by gender](portfolio-assessment-no-gender-difference-map-sketching.md) — related
+- [No statistically significant difference in acquiring religious concepts attributed to students' gender](no-gender-difference-religious-concepts-kwl.md) — related

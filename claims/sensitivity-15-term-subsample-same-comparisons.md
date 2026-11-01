@@ -54,3 +54,4 @@ Sensitivity check addressing student attrition: the restricted subsample had sli
 - [The intervention effects on mathematics are robust across model specifications and did not differ between RCT and COVID-affected implementation contexts](math-effects-robust-across-rct-and-covid-contexts.md) — related
 - Robustness checks with fixed-effect and first-difference models reproduce the three-way interaction; continuous-time growth curve modelling does not — related
 - [Mastery learning implementation causes a mastery attrition bias that confounds learning curves, and it cannot be addressed universally](mastery-attrition-bias-confounds-learning-curves.md) — related
+- [Under RCT-YES default (alternative) assumptions, differences from the reference model-based method are slightly larger than under matched assumptions and are limited to clustered designs](alternative-assumptions-differences-limited-to-clustered-designs.md) — related

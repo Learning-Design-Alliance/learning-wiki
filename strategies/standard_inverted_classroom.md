@@ -64,6 +64,7 @@ The model works only when both halves are redesigned: pre-class materials must b
 - [Use a real-time preparedness dashboard to let instructors pivot lesson plans when few students have completed pre-class work](preparedness-dashboard-pivot-to-didactic-lecture.md)
 - [Watch-Read-Think (WRT) pre-class strategy for online self-learning of sports action video content](watch-read-think-preclass-strategy.md)
 - [Instructors redesigning higher education courses should implement flipped classrooms as an effective pedagogical practice while attending to subject-specific and pre-class-engagement conditions](flipped-classroom-instructional-redesign-strategy.md)
+- [Flip the classroom by assigning pre-recorded multimedia lectures rather than textbook readings as the pre-class material](assign-multimedia-prelectures-when-flipping.md)
 
 ## Examples
 - **Bergmann & Sams' chemistry flip (Woodland Park High School, CO)** — the original K-12 implementation; recorded lessons for absent students became the default, with class time devoted to labs and problem solving ([flippedclassroom.org](https://flippedclassroom.org))

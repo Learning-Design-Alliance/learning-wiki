@@ -47,3 +47,4 @@ Mixed-effect linear regression linking word2vec-based semantic distances to time
 ## Related Claims
 - [Higher ADHD scores increase the variability of semantic search paths via more long-distance jumps, but not mean semantic distance](higher-adhd-traits-more-semantic-jumps.md) — related
 - [Exploratory search behaviour in visual and semantic tasks is not correlated across children once ADHD score is controlled](no-cross-domain-correlation-exploratory-search.md) — related
+- [Misconception rate increased hierarchically from item 1 to item 15 of the concept test, tracked by Euclidean distance between item responses](hierarchical-growth-misconception-euclidean-distance.md) — related

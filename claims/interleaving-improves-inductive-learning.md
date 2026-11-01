@@ -176,3 +176,4 @@ Multilevel random-effects meta-analysis of 59 studies (238 effect sizes, 158 sam
 - [In self-organized tasks, more interleaved practice is associated with higher classification accuracy](self-organized-interleaving-predicts-accuracy.md) — a narrower finding that bears on this claim
 - [The effect of practice schedules depends on the type of target knowledge, with increasingly interleaved practice most effective for area models.](schedule-effect-depends-target-knowledge.md) — related
 - [Learning when to apply a skill benefits more from interleaved problem orders, while learning how to apply a skill benefits more from blocked problem orders](when-learning-interleaved-how-learning-blocked.md) — related
+- [Teachers implemented interleaved practice without training and, surveyed before learning the results, mostly judged it useful and viable though slightly harder and more time-consuming](teacher-survey-interleaving-feasibility.md) — related

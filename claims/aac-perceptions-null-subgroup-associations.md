@@ -89,3 +89,5 @@ Spearman correlation analysis of continuous factors in the survey. Training dura
 - [Background variables (need for cognition, test anxiety, mindset, puzzle experience) showed no consistent moderating patterns across the three experiments](background-moderators-no-consistent-patterns.md) — related
 - [Training location (home, school, or both) did not affect GL learning gains](training-place-no-effect-gains.md) — related
 - [Background variables: gender, school socio-economic status, and prior acquaintance with students showed no significant differences in experiences, while number of children and seniority correlated positively with positive and negatively with negative experiences.](teacher-background-null-and-correlational-predictors-online-experiences.md) — related
+- [The OCR program shows a positive differential impact for Hispanic students](ocr-positive-differential-impact-hispanic-students.md) — related
+- [Treatment shows a moderate correlation with argumentation skill while demographic variables show negligible correlations](treatment-moderate-correlation-argumentation-demographics-negligible.md) — related

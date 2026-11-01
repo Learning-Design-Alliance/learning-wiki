@@ -63,6 +63,7 @@ Manipulatives leverage embodied and dual-coding pathways: pairing a concept with
 - [Analogies](../strategies/analogies.md) — manipulatives function as physical analogies; both rely on learners mapping structure from a familiar surface to an unfamiliar target
 - [Multiple Representations](../strategies/multiple-representations.md) — concrete objects are one representation among several; coordinating them builds flexible understanding
 - [Külppe's recommendations: formal exercises in thinking, more abstract thinking, and practice strengthening determining tendencies](kulpp-formal-exercises-in-thinking.md)
+- [Match each approach to its phase: analogies for abstract concepts, templates for problem solving, CFC at the start of code writing](phase-matched-cfc-analogy-template-usage.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — manipulation must be followed by practice that consolidates the concept

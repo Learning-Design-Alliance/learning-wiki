@@ -50,3 +50,4 @@ Open-ended survey item Q18, reported as qualitative themes in the Results for Q1
 - [Students perceive peer assessment-based game development as fostering deep learning in in-depth thinking, creativity and motivation](peer-assessment-game-development-fosters-deep-learning-perceptions.md) — related
 - [Students were far more likely to accept peer-written alternative endings as valid conclusions to the novel than ChatGPT-generated endings](peer-endings-accepted-more-than-chatgpt-endings.md) — related
 - [Students trusted the plot plausibility of peer-written alternative endings more than ChatGPT-generated endings](peer-endings-more-plausible-than-chatgpt.md) — related
+- [Students rated the game positively, most often citing fun/interactive features, visuals, and new information learned](losing-the-lake-positive-student-feedback.md) — related

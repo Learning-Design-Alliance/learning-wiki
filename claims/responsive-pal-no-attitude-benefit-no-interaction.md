@@ -69,3 +69,4 @@ Omnibus MANCOVA with prior self-efficacy as covariate across four dependent vari
 - [A proactive PAL improves learners' recall of the agent's ideas more than a responsive PAL (d = 0.78)](proactive-pal-improves-recall.md) — related
 - [Proactive PALs yielded higher recall than responsive PALs, with the advantage differing by learner academic strength](proactive-pal-higher-recall-than-responsive.md) — related
 - [Elaboration strategy does not significantly affect students' attitudes toward the learning method](elaboration-strategy-no-attitude-effect.md) — related
+- [The PAL pilot's secondary outcome showed a non-significant negative effect on attitude towards school](pal-pilot-attitude-school-null-negative.md) — related

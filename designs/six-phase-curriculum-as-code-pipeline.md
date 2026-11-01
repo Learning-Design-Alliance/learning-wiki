@@ -41,7 +41,8 @@ The article formalizes instructional material creation as an engineering process
 - [No Conceptual Hallucinations 28 Contexts](../claims/no-conceptual-hallucinations-28-contexts.md) [+M]
 
 ## Related Designs
-- 
+
+- [Assure instructional design model for planning web-assisted instructional materials](assure-instructional-design-model.md)
 
 ## Examples
 -

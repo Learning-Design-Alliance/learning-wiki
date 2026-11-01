@@ -76,3 +76,4 @@ Simple main effects follow-up from the same ANCOVA study reported in the Results
 - [No significant improvement in science test performance from the robotics and programming unit](mbot-no-science-improvement.md) — related
 - [PBL effect sizes on science achievement do not differ significantly across instructional variations of PBL](pbl-effect-similar-across-instructional-variations.md) — related
 - [AI-powered PBL/CBL outperforms traditional lectures for knowledge acquisition, but shows no significant advantage over AI-free PBL/CBL](ai-pbl-cbl-knowledge-subgroups.md) — related
+- [Mobile learning applications improve undergraduate academic achievement compared with traditional lecture-based instruction](mobile-learning-improves-achievement-quasi-experiment.md) — related

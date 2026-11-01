@@ -44,6 +44,7 @@ The recording tips sheet advises that recording 'can capture participants' exact
 - [Four-step anonymization balancing disclosure risk and data utility](four-step-anonymization-engagement-data.md)
 - [Give informed consent frequently at every peer counselling session to manage confidentiality dilemmas](frequent-informed-consent-every-session.md)
 - [When using public reflection, agree in advance with all parties on what information can and cannot be shared to preserve confidentiality](set-confidentiality-rules-before-public-reflection.md)
+- [Set clear recording goals, budget for equipment, and plan technical support and consent before classroom video recording](video-recording-planning-goals-support-consent.md)
 
 ## Examples
 -

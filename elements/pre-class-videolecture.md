@@ -13,7 +13,7 @@ generated:
 # Pre-Class Video/Lecture
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 26 claims (13 for, 10 mixed, 3 against) · 31 studies (13 causal, 6 review, 4 quant-synthesis, 3 associational, 3 qualitative, 2 theoretical), `q1`–`q4` · 7 of 31 report an effect size · 21 claims rest on one study
+> **Evidence** · 27 claims (14 for, 10 mixed, 3 against) · 32 studies (14 causal, 6 review, 4 quant-synthesis, 3 associational, 3 qualitative, 2 theoretical), `q1`–`q4` · 7 of 32 report an effect size · 22 claims rest on one study
 
 ## Description
 Instructional content — exposition, worked demonstrations, or recorded lectures — is delivered via video before class, so that synchronous time can be spent on application, discussion, and feedback rather than first exposure. The video functions as the initial-instruction component of a [Flipped Classroom](../principles/flipped-learning.md), shifting information transmission outside the group learning space.
@@ -72,6 +72,7 @@ Pre-class video works only when paired with accountability and application: stud
 - [Learners recognize an instructor's positive versus negative emotional tone in video lectures.](../claims/learners-recognize-instructor-emotional-tone-video.md) [~W]
 - [Self-reported preparation behaviors, especially watching tutorial videos, predict performance in the e-learning sessions](../claims/preparation-behaviors-predict-session-performance.md) [+W]
 - [Experimental and control groups differed only in use of instructional videos](../claims/experimental-control-groups-differed-only-in-video-use.md) [+W]
+- [Students given multimedia pre-lectures scored almost 6 points higher than textbook-only students on an immediate assessment of economics concepts](../claims/multimedia-prelectures-higher-immediate-assessment.md) [+W] — attached 2026-11-01 from Jose J. Vazquez et al. (2016), which proposed "Four multimedia pre-lecture modules for principles of microeconomics topics"; tests this page's relationship.
 
 ## The evidence by question
 - *Does a flipped course raise academic performance over the same course taught by lecture?* [In a low-certainty meta-analysis of 44 studies with very high heterogeneity (I² = 98%), undergraduate health professional students in flipped classes score higher than those in traditional classes (SMD = 0.57)](../claims/flipped-classroom-improves-academic-performance-hpe.md) [+M]
@@ -102,6 +103,7 @@ Pre-class video works only when paired with accountability and application: stud
 - [Watch-Read-Think (WRT) pre-class strategy for online self-learning of sports action video content](../strategies/watch-read-think-preclass-strategy.md)
 - [Limit pre-class video length to 20 minutes to reduce student burden](../strategies/limit-pre-class-video-length-20-minutes.md)
 - [Keep pre-class teaching videos short (10–20 minutes), goal-targeted, and followed by checking homework](../strategies/short-goal-targeted-pre-class-videos.md)
+- [Flip the classroom by assigning pre-recorded multimedia lectures rather than textbook readings as the pre-class material](../strategies/assign-multimedia-prelectures-when-flipping.md)
 
 ## Key Sources
 - Guo, P. J., Kim, J., & Rubin, R. (2014). How video production affects student engagement: An empirical study of MOOC videos. *Proceedings of the First ACM Conference on Learning @ Scale*, 41–50. [doi:10.1145/2556325.2566239](https://doi.org/10.1145/2556325.2566239)

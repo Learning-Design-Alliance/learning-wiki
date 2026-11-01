@@ -52,6 +52,7 @@ The article proposes that integrating synchronous online discussion tools (e.g.,
 
 - [Increase Synchronous Teacher Presence](increase_synchronous_teacher_presence.md)
 - [Virtual Flipped Classroom](virtual_flipped_classroom.md)
+- [Integrate online interactive simulation exercises into online, hybrid, and flipped-classroom curricular materials](integrate-simulation-online-flipped-classroom.md)
 
 ## Examples
 -

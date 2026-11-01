@@ -49,3 +49,4 @@ Pairwise comparisons within the repeated measures ANOVA on test scores in the qu
 - [The demonstration-with-review tutorial outperformed the demonstration-only control on practice, immediate post-test and delayed post-test](review-tutorial-outperforms-demonstration-only.md) — related
 - [DBT-based video tutorials significantly raise both task relevance and self-efficacy from before to after training](dbt-tutorials-raise-task-relevance-self-efficacy.md) — related
 - [Video tutorials produced large learning gains from pre-test to training test, with significant decline at later post-tests and no condition effect](video-tutorials-learning-gains-decline-no-condition-effect.md) — possibly the same claim (merge candidate)
+- [Pairwise comparisons show significant self-directed learning gains from pre-test to both post-tests, but no significant change between post-test one and post-test two](pairwise-gains-pre-to-posttests-not-between-posttests.md) — related

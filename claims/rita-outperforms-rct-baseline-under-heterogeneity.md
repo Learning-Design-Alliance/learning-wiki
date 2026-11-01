@@ -50,3 +50,4 @@ Multi-period simulation (60 periods, 1000 individuals) comparing RITA to an RCT-
 - [RITA produces an asymmetry: small losses for individuals not benefiting from exploration are offset by large gains for those who do](rita-asymmetry-losses-offset-by-gains.md) — a narrower finding that bears on this claim
 - [RITA can account for unobserved heterogeneity in treatment effects, while existing frequentist and bandit approaches can only address observed heterogeneity](rita-handles-unobserved-heterogeneity.md) — a broader claim this one bears on
 - [RITA's advantage is largest when two interventions have equal ATEs but large unobserved individual differences in relative effectiveness (World 4)](rita-largest-advantage-ate-equivalence-world4.md) — a narrower finding that bears on this claim
+- [Taking individual treatment effects into account yields better intervention choices than a single uniform assignment](individual-effect-better-intervention-choice.md) — related
